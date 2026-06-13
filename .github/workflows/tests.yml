@@ -26,7 +26,7 @@ jobs:
 
       - name: Run Pytest
         run: |
-          pytest tests/
+          python -m pytest tests/
 
       - name: Validate JSON Schemas
         run: |
@@ -36,6 +36,5 @@ jobs:
       - name: Run Pipeline (DRY_RUN)
         env:
           DRY_RUN: "true"
-          PYTHONPATH: "."
         run: |
-          python scripts/main.py
+          python -m scripts.main
