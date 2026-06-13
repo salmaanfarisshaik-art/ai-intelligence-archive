@@ -298,7 +298,7 @@ source venv/bin/activate
 ## Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt -r requirements-dev.txt
 ```
 
 ## Configure Environment
@@ -312,8 +312,11 @@ Create:
 Example:
 
 ```env
-GEMINI_API_KEY=your_api_key_here
-HF_TOKEN=your_huggingface_token_here
+DRY_RUN=false
+GITHUB_TOKEN=your_github_token
+GEMINI_API_KEY=your_gemini_key
+GROQ_API_KEY=your_groq_key
+HUGGINGFACE_TOKEN=your_huggingface_token
 ```
 
 Never commit real credentials.
