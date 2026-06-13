@@ -1,47 +1,394 @@
 # AI Intelligence Archive
 
-Build the world's largest free, open-source, continuously updating repository of artificial intelligence knowledge, resources, benchmarks, research, models, datasets, tools, APIs, companies, safety information, and prompt engineering techniques.
+![Version](https://img.shields.io/badge/version-v1.0.0-blue)
+![Status](https://img.shields.io/badge/status-public%20release-success)
+![Architecture](https://img.shields.io/badge/architecture-deterministic-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-The repository functions as a centralized AI intelligence hub where developers, researchers, students, founders, and enthusiasts can discover, compare, learn, and track the AI ecosystem.
+A deterministic, file-based AI ecosystem intelligence platform designed to collect, organize, validate, analyze, and archive information across the rapidly evolving artificial intelligence landscape.
 
-## System Architecture Summary (Phase 1 & 2)
+The repository combines ingestion, validation, governance, analytics, documentation automation, and repository intelligence while preserving strict backward compatibility guarantees.
 
-The system is powered by a production-grade, deterministic, and fully automated ingestion pipeline designed to be resilient against real-world instability.
+---
 
-### Phase 1: Core Framework & Idempotency Engine
-Phase 1 established the rigid foundational infrastructure for data synchronization, ensuring zero data corruption and reproducible executions.
-* **Strict Execution Order**: Execution is strictly sequential (`benchmark_sync` → `model_sync` → `prompt_sync`), avoiding race conditions in file writes.
-* **Idempotency & Atomic Writes**: The pipeline calculates SHA-256 hashes of payloads (ignoring volatile timestamps). Disk writes only execute via atomic `.tmp` file swaps if the content semantically changes.
-* **Safe Execution**: A native `DRY_RUN=true` flag simulates the entire pipeline without modifying disk states.
-* **Unified Sync Contract**: `BaseSync` enforces a non-negotiable `fetch -> normalize -> validate -> save` lifecycle.
+# Why This Exists
 
-### Phase 2: Real-World Data Integration
-Phase 2 upgraded the mock data pipeline into a live, multi-source ingestion engine capable of handling API failures and data overlaps.
-* **Live Ingestion Sources**:
-  * **ArXiv API**: Research papers for Benchmarks and Prompt Engineering (`cs.AI`, `cs.CL`, `cs.CV`).
-  * **HuggingFace API**: State-of-the-art open-source models and parameters.
-  * **RSS Feeds**: OpenAI and BAIR blogs for industry developments.
-* **Resilience & Stability**:
-  * **Centralized API Client**: All HTTP requests route through `api_client.py`, which handles timeouts and request structuring.
-  * **Rate Limiting & Backoff**: Sleep-based throttles (e.g., 3s for ArXiv) and exponential backoff ensure API compliance.
-  * **Failure Isolation**: Simulated failures prove that if an endpoint goes offline, the error is caught, logged to `external_sources_failed` in `run_health.json`, and the pipeline continues seamlessly.
-* **Optimization & Integrity**:
-  * **Intelligent Caching (`cache_manager.py`)**: Disk-based TTL caching intercepts redundant API calls, reducing warm execution times from ~45 seconds to < 1 second.
-  * **Semantic Deduplication (`deduplicator.py`)**: Hash-based and case-insensitive title matching automatically squashes duplicates (e.g., identical papers appearing on ArXiv and an RSS feed).
-  * **Data Normalization (`normalizer.py`)**: Disparate payloads are unified into a single schema (`source_type`, `category`, `raw_payload`) enforced by `RecordValidator`.
+The AI ecosystem evolves faster than most repositories can track.
 
-## Features
-- **Free & Open Source**
-- **Community Driven**
-- **Automatically Updated** via GitHub Actions
-- **Source Attributed** data
-- **Fully Deterministic** ingestion pipeline
+Models, datasets, papers, benchmarks, companies, tools, and research are constantly changing. Information becomes fragmented across dozens of platforms and sources.
 
-## Running Locally
+AI Intelligence Archive was created to provide a deterministic, transparent, and reproducible system for collecting and organizing AI ecosystem intelligence without relying on databases, proprietary infrastructure, or vendor lock-in.
 
-1. Create a virtual environment: `python -m venv venv`
-2. Activate it: `source venv/bin/activate` (or `venv\Scripts\activate` on Windows)
-3. Install dependencies: `pip install -r requirements.txt -r requirements-dev.txt`
-4. Copy `.env.example` to `.env` and configure your API keys or run mode.
-5. Run the orchestrator: `python scripts/main.py`
-6. View pipeline execution metrics in `run_health.json`.
+The goal is to build a long-term knowledge archive that remains understandable, maintainable, and reproducible.
+
+---
+
+# Key Features
+
+### Intelligence Collection
+
+* AI model tracking
+* Dataset tracking
+* Research paper ingestion
+* Metadata aggregation
+* Cross-source normalization
+
+### Intelligence Processing
+
+* Entity enrichment
+* Relationship mapping
+* Knowledge graph generation
+* Recommendation generation
+* Ecosystem analytics
+
+### Repository Intelligence
+
+* Coverage analysis
+* Historical timelines
+* Repository auditing
+* Validation reporting
+* Self-documentation
+
+### Community & Governance
+
+* Contribution workflows
+* Governance policies
+* Schema evolution tracking
+* Extension contracts
+* Release management
+
+---
+
+# Architecture Overview
+
+The repository is organized into seven progressive phases.
+
+```text
+Phase 1 → Core Framework & Idempotency
+Phase 2 → Live Intelligence Ingestion
+Phase 3 → Knowledge Expansion Layer
+Phase 4 → Intelligence Processing Layer
+Phase 5 → Repository Stabilization Layer
+──────────────────────────────────────
+Immutable System Boundary
+──────────────────────────────────────
+Phase 6 → Platform Intelligence & Community Ecosystem
+Phase 7 → Autonomous Repository Intelligence & Governance
+```
+
+Phases 1-5 form the immutable foundation of the archive.
+
+Phases 6-7 provide ecosystem intelligence, governance, analytics, validation, and repository automation.
+
+---
+
+# System Architecture
+
+```text
+External Sources
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 1 Framework   │
+└─────────────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 2 Ingestion   │
+└─────────────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 3 Expansion   │
+└─────────────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 4 Processing  │
+└─────────────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 5 Stabilize   │
+└─────────────────────┘
+       │
+       ▼
+────────────────────────
+ Immutable Boundary
+────────────────────────
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 6 Ecosystem   │
+└─────────────────────┘
+       │
+       ▼
+┌─────────────────────┐
+│ Phase 7 Governance  │
+└─────────────────────┘
+       │
+       ▼
+Generated Artifacts
+```
+
+---
+
+# Data Flow
+
+```text
+Sources
+   │
+   ▼
+Raw Data
+   │
+   ▼
+Normalization
+   │
+   ▼
+Validation
+   │
+   ▼
+Metadata Enrichment
+   │
+   ▼
+Knowledge Generation
+   │
+   ▼
+Analytics & Reporting
+   │
+   ▼
+Published Artifacts
+```
+
+---
+
+# Repository Structure
+
+```text
+ai-intelligence-archive/
+
+├── config/
+├── data/
+├── docs/
+├── exports/
+├── releases/
+├── reports/
+├── schemas/
+├── scripts/
+├── site/
+├── tests/
+├── .github/
+├── README.md
+└── requirements.txt
+```
+
+---
+
+# Generated Outputs
+
+The platform generates deterministic artifacts including:
+
+### Intelligence Outputs
+
+* Knowledge Graphs
+* Recommendations
+* Ecosystem Leaderboards
+* Repository Intelligence Reports
+
+### Validation Outputs
+
+* Interface Validation Reports
+* Rollback Validation Reports
+* Reproducibility Reports
+* Audit Reports
+
+### Governance Outputs
+
+* Dependency Manifests
+* Capability Registries
+* Artifact Registries
+* Repository Contracts
+
+### Site Outputs
+
+* Static Website
+* Navigation Metadata
+* Generated Pages
+
+---
+
+# Architecture Principles
+
+### Deterministic by Design
+
+Identical inputs produce identical outputs.
+
+### File-Based Architecture
+
+No databases required.
+
+### Atomic Persistence
+
+All writes are performed atomically.
+
+### Failure Isolation
+
+Modules fail independently without stopping the pipeline.
+
+### Backward Compatibility
+
+Phases 1-5 remain immutable.
+
+### Reproducibility
+
+Outputs are byte-for-byte reproducible.
+
+---
+
+# Determinism Guarantees
+
+The repository enforces:
+
+* Deterministic serialization
+* Stable output ordering
+* Atomic writes
+* Repeatable execution
+* Rollback safety
+* Interface validation
+* Feature flag validation
+
+Validation includes:
+
+* Unit Testing
+* Integration Testing
+* Performance Testing
+* Rollback Verification
+* Reproducibility Verification
+
+---
+
+# Running Locally
+
+## Clone Repository
+
+```bash
+git clone https://github.com/salmaanfarisshaik-art/ai-intelligence-archive.git
+
+cd ai-intelligence-archive
+```
+
+## Create Environment
+
+```bash
+python -m venv venv
+```
+
+### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+### Linux / macOS
+
+```bash
+source venv/bin/activate
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Configure Environment
+
+Create:
+
+```env
+.env
+```
+
+Example:
+
+```env
+GEMINI_API_KEY=your_api_key_here
+HF_TOKEN=your_huggingface_token_here
+```
+
+Never commit real credentials.
+
+---
+
+# Execute Pipeline
+
+```bash
+python -m scripts.main
+```
+
+---
+
+# Run Tests
+
+```bash
+pytest
+```
+
+---
+
+# Governance & Documentation
+
+Repository governance documents:
+
+* CONTRIBUTING.md
+* CODE_OF_CONDUCT.md
+* SECURITY.md
+* SUPPORT.md
+* GOVERNANCE.md
+* SCHEMA_EVOLUTION.md
+* EXTENSION_CONTRACT.md
+* TIME_POLICY.md
+
+Architecture decisions:
+
+* ADR-001 Deterministic Architecture
+* ADR-002 No Database Policy
+* ADR-003 Phase Freeze Policy
+* ADR-004 Static Site Strategy
+* ADR-005 Failure Isolation Policy
+* ADR-006 GitHub Actions Automation
+* ADR-007 Schema Versioning Strategy
+
+---
+
+# Release Status
+
+Repository Version: v1.0.0
+
+Release Type: Major Release
+
+Status: Approved for Public Release
+
+Validation Summary:
+
+* Unit Tests Passed
+* Integration Tests Passed
+* Performance Validation Passed
+* Rollback Validation Passed
+* Reproducibility Validation Passed
+
+---
+
+# Contributing
+
+Contributions are welcome through Issues and Pull Requests.
+
+Please review CONTRIBUTING.md before submitting changes.
+
+---
+
+# License
+
+MIT License
+
+See LICENSE for details.
