@@ -1,0 +1,49 @@
+{
+  "leaderboards": {
+    "phase": 6,
+    "feature_flag": "enable_leaderboards",
+    "produces": [
+      "data/metadata/leaderboards.json",
+      "reports/leaderboards.md"
+    ]
+  },
+  "knowledge_graph": {
+    "phase": 6,
+    "feature_flag": "enable_knowledge_graph",
+    "produces": [
+      "data/metadata/knowledge_graph.json",
+      "exports/graph/"
+    ]
+  },
+  "recommendations": {
+    "phase": 6,
+    "feature_flag": "enable_recommendations",
+    "produces": [
+      "data/metadata/recommendations.json"
+    ]
+  },
+  "repository_intelligence": {
+    "phase": 7,
+    "feature_flag": "enable_repository_intelligence",
+    "produces": [
+      "data/metadata/repository_intelligence.json",
+      "reports/repository_intelligence.md"
+    ]
+  },
+  "timeline": {
+    "phase": 7,
+    "feature_flag": "enable_timeline_generation",
+    "produces": [
+      "data/metadata/timeline.json",
+      "reports/timeline.md"
+    ]
+  },
+  "coverage_analysis": {
+    "phase": 7,
+    "feature_flag": "enable_coverage_analysis",
+    "produces": [
+      "data/metadata/coverage_metrics.json",
+      "reports/coverage_report.md"
+    ]
+  }
+}

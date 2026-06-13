@@ -1,0 +1,22 @@
+name: Validate JSON Schemas
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Run Validation Workflow
+        run: |
+          python scripts/community/validation_workflow.py

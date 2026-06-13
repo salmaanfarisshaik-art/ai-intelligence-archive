@@ -1,0 +1,69 @@
+{
+  "leaderboard_generator": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/datasets/data.json",
+      "data/tools/data.json"
+    ],
+    "produces": [
+      "data/metadata/leaderboards.json"
+    ]
+  },
+  "advanced_graph": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/datasets/data.json",
+      "data/tools/data.json",
+      "exports/graph/"
+    ],
+    "produces": [
+      "data/metadata/knowledge_graph.json"
+    ]
+  },
+  "recommendation_engine": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/datasets/data.json"
+    ],
+    "produces": [
+      "data/metadata/recommendations.json"
+    ]
+  },
+  "repository_intelligence": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/datasets/data.json",
+      "data/tools/data.json",
+      "data/benchmarks/data.json",
+      "data/prompt-engineering/data.json"
+    ],
+    "produces": [
+      "data/metadata/repository_intelligence.json"
+    ]
+  },
+  "timeline_generator": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/benchmarks/data.json"
+    ],
+    "produces": [
+      "data/metadata/timeline.json"
+    ]
+  },
+  "coverage_analysis": {
+    "depends_on": [
+      "data/models/data.json",
+      "data/papers/data.json",
+      "data/datasets/data.json",
+      "data/tools/data.json"
+    ],
+    "produces": [
+      "data/metadata/coverage_metrics.json"
+    ]
+  }
+}

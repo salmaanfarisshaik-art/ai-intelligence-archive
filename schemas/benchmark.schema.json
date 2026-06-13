@@ -1,0 +1,32 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "unique_id": { "type": "string" },
+    "schema_version": { "type": "string" },
+    "name": { "type": "string" },
+    "model": { "type": "string" },
+    "score": { "type": "number" },
+    "source_url": { "type": "string" },
+    "source_name": { "type": "string" },
+    "source_type": { "type": "string" },
+    "category": { "type": "string" },
+    "raw_payload": { "type": "object" },
+    "retrieval_timestamp": { "type": "string" },
+    "last_updated": { "type": "string", "format": "date-time" }
+  },
+  "required": [
+    "unique_id",
+    "schema_version",
+    "name",
+    "model",
+    "score",
+    "source_url",
+    "source_name",
+    "source_type",
+    "category",
+    "raw_payload",
+    "retrieval_timestamp",
+    "last_updated"
+  ]
+}

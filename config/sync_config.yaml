@@ -1,0 +1,32 @@
+sync_pipeline:
+  # The strict execution sequence mapped to enablement flags
+  # Disabling a step safely bypasses it without breaking the pipeline
+
+  benchmark:
+    enabled: true
+    sources: ["arxiv"]
+
+  model:
+    enabled: true
+    sources: ["huggingface_models"]
+
+  prompt:
+    enabled: true
+    sources: ["arxiv", "openai_rss", "bair_rss"]
+
+  dataset:
+    enabled: true
+    sources: ["huggingface_datasets"]
+
+  tool:
+    enabled: true
+    sources: ["github_trending"]
+
+  news:
+    enabled: true
+    sources: ["openai_rss", "bair_rss"]
+    
+features:
+  enable_ai_enrichment: false
+  enable_cross_linking: true
+  generate_markdown_reports: true

@@ -1,0 +1,30 @@
+categories:
+  - id: benchmark
+    name: AI Benchmarks
+    tags: ["evals", "leaderboard", "testing"]
+    enabled: true
+
+  - id: model
+    name: AI Models
+    tags: ["llm", "diffusion", "weights"]
+    enabled: true
+
+  - id: prompt
+    name: Prompt Engineering
+    tags: ["techniques", "few-shot", "cot"]
+    enabled: true
+
+  - id: dataset
+    name: AI Datasets
+    tags: ["training", "fine-tuning", "corpus"]
+    enabled: true
+
+  - id: tool
+    name: AI Tools & Repositories
+    tags: ["github", "framework", "library"]
+    enabled: true
+
+  - id: news
+    name: AI News & Research
+    tags: ["blog", "announcement", "research"]
+    enabled: true

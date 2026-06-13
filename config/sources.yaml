@@ -1,0 +1,48 @@
+sources:
+  - id: arxiv
+    name: ArXiv API
+    endpoint: "http://export.arxiv.org/api/query"
+    enabled: true
+    rate_limit_seconds: 3
+
+  - id: huggingface_models
+    name: HuggingFace Models API
+    endpoint: "https://huggingface.co/api/models"
+    enabled: true
+    rate_limit_seconds: 1
+
+  - id: openai_rss
+    name: OpenAI Blog RSS
+    endpoint: "https://openai.com/blog/rss.xml"
+    enabled: true
+    rate_limit_seconds: 1
+
+  - id: bair_rss
+    name: BAIR Blog RSS
+    endpoint: "https://bair.berkeley.edu/blog/feed.xml"
+    enabled: true
+    rate_limit_seconds: 1
+
+  - id: papers_with_code
+    name: Papers With Code API
+    endpoint: "https://paperswithcode.com/api/v1"
+    enabled: true
+    rate_limit_seconds: 2
+
+  - id: huggingface_datasets
+    name: HuggingFace Datasets API
+    endpoint: "https://huggingface.co/api/datasets"
+    enabled: true
+    rate_limit_seconds: 1
+
+  - id: github_trending
+    name: GitHub Trending API
+    endpoint: "https://api.github.com/search/repositories"
+    enabled: true
+    rate_limit_seconds: 5
+
+  - id: ollama
+    name: Ollama Library API
+    endpoint: "https://ollama.com/api"
+    enabled: true
+    rate_limit_seconds: 2

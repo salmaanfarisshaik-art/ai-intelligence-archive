@@ -1,0 +1,82 @@
+# AI Ecosystem Analytics
+
+**Total Entities Tracked**: 1230
+
+## Category Distribution
+
+- **news**: 1012
+- **dataset**: 81
+- **tool**: 48
+- **text-generation**: 35
+- **cs.CL**: 16
+- **cs.AI**: 14
+- **cs.CV**: 12
+- **cs.LG**: 4
+- **feature-extraction**: 2
+- **image-text-to-text**: 2
+- **cs.CY**: 1
+- **cs.RO**: 1
+- **cs.SD**: 1
+- **stat.ME**: 1
+
+## Source Distribution
+
+- **OpenAI Blog**: 1002
+- **HuggingFace Datasets**: 81
+- **ArXiv**: 50
+- **GitHub Trending**: 48
+- **Hugging Face**: 39
+- **BAIR Blog**: 10
+
+## Top Tags
+
+- **region:us**: 120
+- **library:datasets**: 40
+- **library:mlcroissant**: 40
+- **text-generation**: 40
+- **endpoints_compatible**: 37
+- **transformers**: 37
+- **safetensors**: 36
+- **modality:text**: 34
+- **language:en**: 32
+- **license:apache-2.0**: 31
+- **library:polars**: 29
+- **conversational**: 27
+- **license:mit**: 27
+- **format:parquet**: 26
+- **text-generation-inference**: 21
+- **deploy:azure**: 19
+- **library:pandas**: 18
+- **eval-results**: 15
+- **size_categories:n<1K**: 15
+- **en**: 13
+- **task_categories:text-generation**: 13
+- **modality:image**: 12
+- **library:dask**: 11
+- **modality:tabular**: 10
+- **multilinguality:monolingual**: 10
+- **qwen3**: 9
+- **source_datasets:original**: 9
+- **arxiv:2505.09388**: 8
+- **fp8**: 8
+- **license:other**: 8
+- **modality:video**: 8
+- **size_categories:10K<n<100K**: 8
+- **pytorch**: 7
+- **custom_code**: 6
+- **language_creators:found**: 6
+- **license:odc-by**: 6
+- **size_categories:100K<n<1M**: 6
+- **size_categories:1M<n<10M**: 6
+- **annotations_creators:no-annotation**: 5
+- **format:imagefolder**: 5
+- **language:zh**: 5
+- **size_categories:1K<n<10K**: 5
+- **task_categories:question-answering**: 5
+- **task_categories:text-classification**: 5
+- **task_ids:language-modeling**: 5
+- **8-bit**: 4
+- **annotations_creators:crowdsourced**: 4
+- **annotations_creators:expert-generated**: 4
+- **arxiv:2309.00071**: 4
+- **format:optimized-parquet**: 4

@@ -1,0 +1,46 @@
+features:
+  enable_ai_enrichment: false
+  default_enrichment_provider: gemini
+  enable_cross_linking: true
+  enable_entity_indexing: true
+  enable_search_indexing: true
+  enable_analytics: true
+  enable_doc_generation: true
+  enable_export_generation: true
+  enable_dashboard_generation: true
+  enable_relationship_graph: true
+  enable_local_api: true
+  enable_query_engine: true
+  enable_plugin_system: true
+  enable_release_builder: true
+  enable_integrity_checker: true
+  enable_snapshot_generation: true
+  enable_manifest_generation: true
+  enable_graph_api_exports: true
+  
+  # Phase 6 & 7 Feature Flags
+  enable_static_site: true
+  enable_contribution_layer: true
+  enable_leaderboards: true
+  enable_knowledge_graph: true
+  enable_recommendations: true
+  enable_governance_docs: true
+  enable_repository_intelligence: true
+  enable_repository_audit: true
+  enable_timeline_generation: true
+  enable_coverage_analysis: true
+  enable_snapshot_archives: true
+  enable_release_archives: true
+  enable_self_documentation: true
+
+report_generation_flags:
+  generate_markdown_reports: true
+
+network:
+  retry_counts: 3
+  backoff_settings:
+    base_seconds: 1
+    max_seconds: 10
+
+cache:
+  cache_ttl_overrides: {}
