@@ -474,6 +474,15 @@ def main():
                 logger.error("PipelineDecisionEngine failed", exc_info=True)
                 modules_failed.append("pipeline_decision_engine")
 
+        # Phase 9: Archive Statistics & Presentation
+        from scripts.lib.archive_stats_generator import ArchiveStatsGenerator
+        try:
+            ArchiveStatsGenerator().run()
+            modules_run.append("archive_stats_generator")
+        except Exception:
+            logger.error("ArchiveStatsGenerator failed", exc_info=True)
+            modules_failed.append("archive_stats_generator")
+
         # 5. Run Manifest Generation
         try:
             manifest_data = {

@@ -49,10 +49,32 @@ class BaseSync:
             raise
 
     def save(self, data: List[Dict[Any, Any]]):
-        # Deterministic sorting
-        sorted_data = sorted(data, key=lambda x: (x.get("unique_id", ""), x.get("last_updated", ""), x.get("source_url", "")))
-        
         filepath = os.path.join(self.output_dir, "data.json")
+        
+        # Intelligent merge: preserve existing data and update/append new data
+        merged_data_dict = {}
+        if os.path.exists(filepath):
+            try:
+                with open(filepath, "r", encoding="utf-8") as f:
+                    existing_data = json.load(f)
+                    for record in existing_data:
+                        uid = record.get("unique_id")
+                        if uid:
+                            merged_data_dict[uid] = record
+            except Exception:
+                logger.warning(f"Failed to read existing data from {filepath}. Starting fresh.")
+                
+        # Incoming data overrides existing data with the same unique_id
+        for record in data:
+            uid = record.get("unique_id")
+            if uid:
+                merged_data_dict[uid] = record
+                
+        final_data = list(merged_data_dict.values())
+        
+        # Deterministic sorting
+        sorted_data = sorted(final_data, key=lambda x: (x.get("unique_id", ""), x.get("last_updated", ""), x.get("source_url", "")))
+        
         content = json.dumps(sorted_data, indent=2, ensure_ascii=False)
         
         # Idempotency check

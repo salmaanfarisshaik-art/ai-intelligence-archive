@@ -8,7 +8,8 @@ class NavigationBuilder:
             {"label": "Papers", "url": "/papers/"},
             {"label": "Datasets", "url": "/datasets/"},
             {"label": "Prompts", "url": "/prompts/"},
-            {"label": "Tools", "url": "/tools/"}
+            {"label": "Tools", "url": "/tools/"},
+            {"label": "Archive Statistics", "url": "/stats/"}
         ]
         
     def get_nav_data(self) -> Dict[str, Any]:

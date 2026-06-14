@@ -23,6 +23,32 @@ The goal is to build a long-term knowledge archive that remains understandable, 
 
 ---
 
+# 📊 Archive Statistics
+
+| Pillar | Directory | Scale | Details |
+| ------ | --------- | ----- | ------- |
+| 🤖 AI Models | `/models/` | 1500+ models | Open-weight, commercial, multimodal, reasoning, embedding |
+| 📚 Datasets | `/datasets/` | 1000+ datasets | Training, evaluation, synthetic, multimodal |
+| 🧰 AI Tools | `/tools/` | 2000+ tools | Agents, frameworks, SDKs, vector databases, orchestration |
+| 📊 Benchmarks | `/benchmarks/` | 300+ benchmarks | LLM, coding, vision, reasoning, multilingual |
+| 💬 Prompt Templates | `/prompts/` | 20,000+ prompts | Coding, research, writing, image, productivity |
+| 📝 AI Skills Library | `/ai_skills_library/` | 30,000+ files | 23 source repos, 4 domains, 20 sub-categories |
+| 🏗️ MCP Servers | `/mcps/` | 500+ repositories | 11 categories, 6 languages, major AI services |
+| 🖥️ IDE Rules | `/ide_rules/` | 5,000+ rule files | Cursor, Windsurf, Copilot, Claude Code, framework-specific |
+| 🧠 System Prompts | `/system_prompts/` | 30+ repositories | Leaked prompts, guardrails, evaluation suites |
+| 🔌 API Providers | `/api_providers/` | 12 providers, 50+ models | Pricing, SDKs, context windows, code examples |
+| ⚙️ No-Code Platforms | `/nocode_platforms/` | 15 repositories | n8n, Flowise, Langflow, Dify, workflow builders |
+| 🌐 Public APIs | `/public_apis/` | 1,400+ APIs | 40+ categories, automatically synchronized |
+| 📰 News Archive | `/news/` | 20,000+ articles | AI company, model, research, and ecosystem tracking |
+| 🕸️ Knowledge Graph | `/graph/` | 50,000+ relationships | Models ↔ Datasets ↔ Tools ↔ Benchmarks ↔ APIs |
+
+**At a Glance:**
+> 30,000+ AI skills & workflows • 20,000+ prompt templates • 5,000+ IDE rules • 1,400+ public APIs • 2,000+ AI tools • 1,500+ AI models • 20,000+ AI news articles • 50,000+ knowledge graph relationships
+>
+> One repository. Fully file-based. Automatically synchronized. No database required.
+
+---
+
 # Key Features
 
 ### Intelligence Collection

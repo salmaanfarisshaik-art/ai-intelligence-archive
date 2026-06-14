@@ -1,6 +1,6 @@
 # Repository Metrics
 
-- **python_files**: 105
-- **markdown_files**: 180
-- **json_files**: 195
+- **python_files**: 107
+- **markdown_files**: 214
+- **json_files**: 228
 - **yaml_files**: 4

@@ -1,23 +1,83 @@
 # Change Summary
 
-**Total Changes:** 22
+**Total Changes:** 91
 
 ## Added
-- releases/v2026.06.14.20260614_130302.zip
-- releases/v2026.06.14.20260614_130302/
+- data/processed/ai_skills_library/
+- data/processed/api_providers/
+- data/processed/ide_rules/
+- data/processed/mcps/
+- docs/ai_skills_library.md
+- docs/api_providers.md
+- docs/benchmarks.md
+- docs/ide_rules.md
+- docs/instruction_tuning.md
+- docs/mcps.md
+- exports/csv/ai_skills_library.csv
+- exports/csv/api_providers.csv
+- exports/csv/benchmarks.csv
+- exports/csv/ide_rules.csv
+- exports/csv/instruction_tuning.csv
+- exports/csv/mcps.csv
+- exports/json/ai_skills_library.json
+- exports/json/api_providers.json
+- exports/json/benchmarks.json
+- exports/json/ide_rules.json
+- exports/json/instruction_tuning.json
+- exports/json/mcps.json
+- exports/markdown/ai_skills_library.md
+- exports/markdown/api_providers.md
+- exports/markdown/benchmarks.md
+- exports/markdown/ide_rules.md
+- exports/markdown/instruction_tuning.md
+- exports/markdown/mcps.md
+- releases/v2026.06.14.20260614_135446.zip
+- releases/v2026.06.14.20260614_135446/
+- scripts/lib/archive_stats_generator.py
+- scripts/massive_seed_fetcher.py
 
 ## Modified
+- README.md
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
+- data/processed/datasets/data.json
+- data/processed/models/data.json
+- data/processed/news/data.json
+- data/processed/prompts/data.json
+- data/processed/tools/data.json
+- docs/dataset.md
+- docs/news.md
+- docs/text-generation.md
+- docs/tool.md
+- exports/csv/all_entities.csv
+- exports/csv/dataset.csv
+- exports/csv/news.csv
+- exports/csv/text-generation.csv
+- exports/csv/tool.csv
+- exports/json/all_entities.json
+- exports/json/dataset.json
+- exports/json/news.json
+- exports/json/text-generation.json
+- exports/json/tool.json
+- exports/markdown/dataset.md
+- exports/markdown/news.md
+- exports/markdown/text-generation.md
+- exports/markdown/tool.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
@@ -27,6 +87,15 @@
 - reports/project_status.json
 - reports/repository_metrics.md
 - reports/run_manifest.json
+- scripts/generate_site.py
+- scripts/lib/base_sync.py
+- scripts/lib/change_classifier.py
+- scripts/main.py
+- scripts/site/navigation_builder.py
+- site/index.html
+- site/index.json
+- site/navigation.json
+- site/search_index.json
 
 ## Removed
 None

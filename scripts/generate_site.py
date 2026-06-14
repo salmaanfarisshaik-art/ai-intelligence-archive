@@ -24,6 +24,7 @@ def generate_site():
         ("data/metadata/leaderboards.json", "site/leaderboards.json"),
         ("data/metadata/trends.json", "site/trending.json"),
         ("data/metadata/timeline.json", "site/timeline.json"),
+        ("reports/archive_stats.json", "site/archive_stats.json"),
     ]
     
     import json
