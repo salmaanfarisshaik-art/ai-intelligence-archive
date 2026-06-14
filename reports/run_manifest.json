@@ -1,9 +1,10 @@
 {
+  "commit_created": false,
   "dry_run": true,
-  "modules_failed": [
-    "recommendation_engine",
-    "coverage_analysis"
-  ],
+  "files_added": 5,
+  "files_modified": 9,
+  "files_removed": 1,
+  "modules_failed": [],
   "modules_run": [
     "benchmark",
     "model",
@@ -28,17 +29,22 @@
     "release_builder",
     "interface_validator",
     "feature_flag_validator",
+    "recommendation_engine",
     "leaderboards",
     "timeline_generation",
     "trend_analysis",
     "advanced_graph",
-    "site_generation",
     "repository_auditor",
+    "coverage_analysis",
     "schema_auditor",
     "self_documentation",
     "dependency_reports",
-    "repository_metrics"
+    "repository_metrics",
+    "pipeline_decision_engine"
   ],
-  "run_id": "run_1781438803",
-  "timestamp": "2026-06-14T12:06:44.548913+00:00"
+  "phase8_status": "success",
+  "push_completed": false,
+  "run_id": "run_1781441335",
+  "site_regenerated": true,
+  "timestamp": "2026-06-14T12:48:57.131209+00:00"
 }

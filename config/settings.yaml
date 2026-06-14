@@ -31,6 +31,14 @@ features:
   enable_self_documentation: true
   enable_dependency_reports: true
   enable_repository_metrics: true
+  
+  # Phase 8 Feature Flags
+  enable_change_detection: true
+  enable_pipeline_decision_engine: true
+  enable_auto_site_publish: true
+  enable_run_manifest_extensions: true
+  enable_auto_commit: false
+  enable_auto_push: false
 
 report_generation_flags:
   generate_markdown_reports: true

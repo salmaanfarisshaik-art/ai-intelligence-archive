@@ -35,7 +35,10 @@ class FeatureFlagValidator(BaseGenerator):
             "enable_recommendation_engine", "enable_leaderboards", "enable_timeline_generation",
             "enable_trend_analysis", "enable_advanced_graph", "enable_site_generation",
             "enable_repository_auditor", "enable_coverage_analysis", "enable_schema_auditor",
-            "enable_self_documentation", "enable_dependency_reports", "enable_repository_metrics"
+            "enable_self_documentation", "enable_dependency_reports", "enable_repository_metrics",
+            # Phase 8 Feature Flags
+            "enable_change_detection", "enable_pipeline_decision_engine", "enable_auto_site_publish",
+            "enable_run_manifest_extensions", "enable_auto_commit", "enable_auto_push"
         ]
         
         warnings = []

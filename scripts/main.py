@@ -14,7 +14,7 @@ from scripts.sync.tool_sync import ToolSync
 from scripts.sync.news_sync import NewsSync
 from scripts.generate_indexes import main as generate_indexes_main
 from scripts.generate_reports import generate_report
-import scripts.commit_changes as commit_changes
+from scripts.lib.pipeline_decision_engine import PipelineDecisionEngine
 from scripts.lib.config_loader import config
 from scripts.lib.entity_indexer import EntityIndexer
 from scripts.lib.search_index import SearchIndex
@@ -405,7 +405,7 @@ def main():
                 logger.error("AdvancedGraph failed", exc_info=True)
                 modules_failed.append("advanced_graph")
 
-        if config.is_feature_enabled("enable_site_generation"):
+        if config.is_feature_enabled("enable_site_generation") and not config.is_feature_enabled("enable_pipeline_decision_engine"):
             try:
                 generate_site()
                 modules_run.append("site_generation")
@@ -462,6 +462,18 @@ def main():
                 logger.error("RepositoryMetrics failed", exc_info=True)
                 modules_failed.append("repository_metrics")
 
+        # 4. Phase 8: Automation Layer
+        phase8_status_data = None
+        if config.is_feature_enabled("enable_pipeline_decision_engine"):
+            try:
+                pipeline_failed = len(modules_failed) > 0
+                engine = PipelineDecisionEngine(is_dry_run=is_dry_run)
+                phase8_status_data = engine.run(pipeline_failed=pipeline_failed)
+                modules_run.append("pipeline_decision_engine")
+            except Exception:
+                logger.error("PipelineDecisionEngine failed", exc_info=True)
+                modules_failed.append("pipeline_decision_engine")
+
         # 5. Run Manifest Generation
         try:
             manifest_data = {
@@ -471,22 +483,12 @@ def main():
                 "modules_failed": modules_failed,
                 "dry_run": is_dry_run
             }
+            if config.is_feature_enabled("enable_run_manifest_extensions") and phase8_status_data:
+                manifest_data.update(phase8_status_data)
+                
             save_json_deterministic("reports/run_manifest.json", manifest_data)
         except Exception:
             logger.error("Failed to generate run_manifest", exc_info=True)
-
-
-        # Validate outputs & Commit changes
-        if not is_dry_run:
-            try:
-                logger.info("Running commit_changes")
-                commit_changes.main()
-                modules_run.append("commit")
-            except Exception as e:
-                logger.error("commit_changes failed", exc_info=True)
-                modules_failed.append("commit")
-        else:
-            logger.info("DRY_RUN=true: Skipping commit_changes")
 
     finally:
         remove_lock()
