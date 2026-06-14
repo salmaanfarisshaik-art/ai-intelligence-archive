@@ -13,9 +13,9 @@
     "raw_payload": {
       "_id": "69958cbeaa3c4d56063076ce",
       "id": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
-      "likes": 57,
+      "likes": 60,
       "private": false,
-      "downloads": 2664454,
+      "downloads": 2013655,
       "tags": [
         "gguf",
         "uncensored",
@@ -35,7 +35,7 @@
       "createdAt": "2026-02-18T09:56:14.000Z",
       "modelId": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -60,7 +60,7 @@
       "id": "EleutherAI/pythia-160m",
       "likes": 42,
       "private": false,
-      "downloads": 2759554,
+      "downloads": 2018786,
       "tags": [
         "transformers",
         "pytorch",
@@ -85,57 +85,7 @@
       "createdAt": "2023-02-08T19:25:46.000Z",
       "modelId": "EleutherAI/pythia-160m"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
-    "last_updated": "",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_EleutherAI_pythia-70m-deduped",
-    "schema_version": "1.0",
-    "name": "EleutherAI/pythia-70m-deduped",
-    "parameters": "Unknown",
-    "license": "Unknown",
-    "context_window": 0,
-    "source_url": "https://huggingface.co/EleutherAI/pythia-70m-deduped",
-    "source_name": "Hugging Face",
-    "source_type": "huggingface",
-    "category": "text-generation",
-    "raw_payload": {
-      "_id": "63ea5ee51edeb3fe8f1f0aa2",
-      "id": "EleutherAI/pythia-70m-deduped",
-      "likes": 28,
-      "private": false,
-      "downloads": 2129030,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "safetensors",
-        "gpt_neox",
-        "text-generation",
-        "causal-lm",
-        "pythia",
-        "en",
-        "dataset:EleutherAI/the_pile_deduplicated",
-        "arxiv:2304.01373",
-        "arxiv:2101.00027",
-        "arxiv:2201.07311",
-        "license:apache-2.0",
-        "text-generation-inference",
-        "endpoints_compatible",
-        "deploy:azure",
-        "region:us"
-      ],
-      "pipeline_tag": "text-generation",
-      "library_name": "transformers",
-      "createdAt": "2023-02-13T16:01:41.000Z",
-      "modelId": "EleutherAI/pythia-70m-deduped"
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -158,9 +108,9 @@
     "raw_payload": {
       "_id": "69d71ee848d2a47600feda6e",
       "id": "MiniMaxAI/MiniMax-M2.7",
-      "likes": 1210,
+      "likes": 1211,
       "private": false,
-      "downloads": 2567363,
+      "downloads": 1840479,
       "tags": [
         "transformers",
         "safetensors",
@@ -179,7 +129,7 @@
       "createdAt": "2026-04-09T03:37:12.000Z",
       "modelId": "MiniMaxAI/MiniMax-M2.7"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -204,7 +154,7 @@
       "id": "Qwen/Qwen2-1.5B-Instruct",
       "likes": 162,
       "private": false,
-      "downloads": 3573447,
+      "downloads": 2398257,
       "tags": [
         "transformers",
         "safetensors",
@@ -225,7 +175,7 @@
       "createdAt": "2024-06-03T09:08:12.000Z",
       "modelId": "Qwen/Qwen2-1.5B-Instruct"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -250,7 +200,7 @@
       "id": "Qwen/Qwen2.5-3B-Instruct",
       "likes": 499,
       "private": false,
-      "downloads": 12666862,
+      "downloads": 9056144,
       "tags": [
         "transformers",
         "safetensors",
@@ -273,7 +223,7 @@
       "createdAt": "2024-09-17T14:08:52.000Z",
       "modelId": "Qwen/Qwen2.5-3B-Instruct"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -296,9 +246,9 @@
     "raw_payload": {
       "_id": "680da718233834890aa01f51",
       "id": "Qwen/Qwen3-0.6B",
-      "likes": 1317,
+      "likes": 1320,
       "private": false,
-      "downloads": 22278159,
+      "downloads": 17378902,
       "tags": [
         "transformers",
         "safetensors",
@@ -319,7 +269,7 @@
       "createdAt": "2025-04-27T03:40:08.000Z",
       "modelId": "Qwen/Qwen3-0.6B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -344,7 +294,7 @@
       "id": "Qwen/Qwen3-1.7B",
       "likes": 484,
       "private": false,
-      "downloads": 4678165,
+      "downloads": 3686191,
       "tags": [
         "transformers",
         "safetensors",
@@ -365,7 +315,7 @@
       "createdAt": "2025-04-27T03:41:05.000Z",
       "modelId": "Qwen/Qwen3-1.7B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -390,7 +340,7 @@
       "id": "Qwen/Qwen3-30B-A3B",
       "likes": 900,
       "private": false,
-      "downloads": 2130277,
+      "downloads": 1495637,
       "tags": [
         "transformers",
         "safetensors",
@@ -408,7 +358,7 @@
       "createdAt": "2025-04-27T03:43:05.000Z",
       "modelId": "Qwen/Qwen3-30B-A3B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -431,9 +381,9 @@
     "raw_payload": {
       "_id": "680daa1b62e834e6fd9fdbdf",
       "id": "Qwen/Qwen3-32B",
-      "likes": 700,
+      "likes": 701,
       "private": false,
-      "downloads": 2728585,
+      "downloads": 2286082,
       "tags": [
         "transformers",
         "safetensors",
@@ -454,7 +404,7 @@
       "createdAt": "2025-04-27T03:52:59.000Z",
       "modelId": "Qwen/Qwen3-32B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -477,9 +427,9 @@
     "raw_payload": {
       "_id": "680da769038897aa905586a7",
       "id": "Qwen/Qwen3-4B",
-      "likes": 634,
+      "likes": 635,
       "private": false,
-      "downloads": 16414133,
+      "downloads": 10498847,
       "tags": [
         "transformers",
         "safetensors",
@@ -498,7 +448,7 @@
       "createdAt": "2025-04-27T03:41:29.000Z",
       "modelId": "Qwen/Qwen3-4B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -523,7 +473,7 @@
       "id": "Qwen/Qwen3-4B-Instruct-2507",
       "likes": 876,
       "private": false,
-      "downloads": 4429932,
+      "downloads": 3428390,
       "tags": [
         "transformers",
         "safetensors",
@@ -543,7 +493,7 @@
       "createdAt": "2025-08-05T10:58:03.000Z",
       "modelId": "Qwen/Qwen3-4B-Instruct-2507"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -566,9 +516,9 @@
     "raw_payload": {
       "_id": "680da79d48c19d19cf82ab5e",
       "id": "Qwen/Qwen3-8B",
-      "likes": 1136,
+      "likes": 1138,
       "private": false,
-      "downloads": 10850942,
+      "downloads": 8574959,
       "tags": [
         "transformers",
         "safetensors",
@@ -590,50 +540,7 @@
       "createdAt": "2025-04-27T03:42:21.000Z",
       "modelId": "Qwen/Qwen3-8B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
-    "last_updated": "",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-    "schema_version": "1.0",
-    "name": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-    "parameters": "Unknown",
-    "license": "Unknown",
-    "context_window": 0,
-    "source_url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
-    "source_name": "Hugging Face",
-    "source_type": "huggingface",
-    "category": "text-generation",
-    "raw_payload": {
-      "_id": "688b1597e5e83e19d1b3238a",
-      "id": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
-      "likes": 1106,
-      "private": false,
-      "downloads": 1884200,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_moe",
-        "text-generation",
-        "conversational",
-        "arxiv:2505.09388",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "deploy:azure",
-        "region:us"
-      ],
-      "pipeline_tag": "text-generation",
-      "library_name": "transformers",
-      "createdAt": "2025-07-31T07:04:55.000Z",
-      "modelId": "Qwen/Qwen3-Coder-30B-A3B-Instruct"
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -656,9 +563,9 @@
     "raw_payload": {
       "_id": "683f05dc98de733bf4c59f3d",
       "id": "Qwen/Qwen3-Embedding-0.6B",
-      "likes": 1061,
+      "likes": 1063,
       "private": false,
-      "downloads": 8722390,
+      "downloads": 6577858,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -681,7 +588,7 @@
       "createdAt": "2025-06-03T14:25:32.000Z",
       "modelId": "Qwen/Qwen3-Embedding-0.6B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -706,7 +613,7 @@
       "id": "Qwen/Qwen3-Embedding-4B",
       "likes": 279,
       "private": false,
-      "downloads": 2158441,
+      "downloads": 1547237,
       "tags": [
         "sentence-transformers",
         "safetensors",
@@ -728,7 +635,7 @@
       "createdAt": "2025-06-03T14:31:33.000Z",
       "modelId": "Qwen/Qwen3-Embedding-4B"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -753,7 +660,7 @@
       "id": "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
       "likes": 1618,
       "private": false,
-      "downloads": 2041996,
+      "downloads": 1450928,
       "tags": [
         "transformers",
         "safetensors",
@@ -776,7 +683,63 @@
       "createdAt": "2023-12-30T06:27:30.000Z",
       "modelId": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
+    "last_updated": "",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "hf_antirez_deepseek-v4-gguf",
+    "schema_version": "1.0",
+    "name": "antirez/deepseek-v4-gguf",
+    "parameters": "Unknown",
+    "license": "Unknown",
+    "context_window": 0,
+    "source_url": "https://huggingface.co/antirez/deepseek-v4-gguf",
+    "source_name": "Hugging Face",
+    "source_type": "huggingface",
+    "category": "text-generation",
+    "raw_payload": {
+      "_id": "69edc49ddc88b61a03fdee5a",
+      "id": "antirez/deepseek-v4-gguf",
+      "likes": 245,
+      "private": false,
+      "downloads": 1707918,
+      "tags": [
+        "gguf",
+        "quantized",
+        "deepseek",
+        "deepseek-v4",
+        "deepseek-v4-flash",
+        "moe",
+        "mixture-of-experts",
+        "2-bit",
+        "4-bit",
+        "iq2_xxs",
+        "q2_k",
+        "q4_k",
+        "ds4",
+        "apple-silicon",
+        "metal",
+        "text-generation",
+        "en",
+        "base_model:deepseek-ai/DeepSeek-V4-Flash",
+        "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash",
+        "license:mit",
+        "endpoints_compatible",
+        "region:us",
+        "conversational"
+      ],
+      "pipeline_tag": "text-generation",
+      "library_name": "gguf",
+      "createdAt": "2026-04-26T07:54:05.000Z",
+      "modelId": "antirez/deepseek-v4-gguf"
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -799,9 +762,9 @@
     "raw_payload": {
       "_id": "678dc6fff905d106be796d8a",
       "id": "deepseek-ai/DeepSeek-R1",
-      "likes": 13387,
+      "likes": 13389,
       "private": false,
-      "downloads": 5594383,
+      "downloads": 4435374,
       "tags": [
         "transformers",
         "safetensors",
@@ -822,7 +785,7 @@
       "createdAt": "2025-01-20T03:46:07.000Z",
       "modelId": "deepseek-ai/DeepSeek-R1"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -847,7 +810,7 @@
       "id": "deepseek-ai/DeepSeek-R1-0528",
       "likes": 2452,
       "private": false,
-      "downloads": 6814008,
+      "downloads": 5067133,
       "tags": [
         "transformers",
         "safetensors",
@@ -868,7 +831,7 @@
       "createdAt": "2025-05-28T09:46:42.000Z",
       "modelId": "deepseek-ai/DeepSeek-R1-0528"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -891,9 +854,9 @@
     "raw_payload": {
       "_id": "692cfec93b25b81d09307b94",
       "id": "deepseek-ai/DeepSeek-V3.2",
-      "likes": 1447,
+      "likes": 1448,
       "private": false,
-      "downloads": 3449831,
+      "downloads": 2527350,
       "tags": [
         "transformers",
         "safetensors",
@@ -913,7 +876,7 @@
       "createdAt": "2025-12-01T02:34:49.000Z",
       "modelId": "deepseek-ai/DeepSeek-V3.2"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -936,9 +899,9 @@
     "raw_payload": {
       "_id": "69e864e440a44c9fb7c54efc",
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 1475,
+      "likes": 1483,
       "private": false,
-      "downloads": 2224793,
+      "downloads": 2138994,
       "tags": [
         "transformers",
         "safetensors",
@@ -957,7 +920,7 @@
       "createdAt": "2026-04-22T06:04:20.000Z",
       "modelId": "deepseek-ai/DeepSeek-V4-Flash"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -980,9 +943,9 @@
     "raw_payload": {
       "_id": "69e864fd6b68f7e6cfc63ca3",
       "id": "deepseek-ai/DeepSeek-V4-Pro",
-      "likes": 4798,
+      "likes": 4818,
       "private": false,
-      "downloads": 3384418,
+      "downloads": 3075369,
       "tags": [
         "transformers",
         "safetensors",
@@ -1001,7 +964,7 @@
       "createdAt": "2026-04-22T06:04:45.000Z",
       "modelId": "deepseek-ai/DeepSeek-V4-Pro"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1026,7 +989,7 @@
       "id": "distilbert/distilgpt2",
       "likes": 630,
       "private": false,
-      "downloads": 4006853,
+      "downloads": 3270394,
       "tags": [
         "transformers",
         "pytorch",
@@ -1059,7 +1022,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "distilbert/distilgpt2"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1084,7 +1047,7 @@
       "id": "dphn/dolphin-2.9.1-yi-1.5-34b",
       "likes": 64,
       "private": false,
-      "downloads": 4280256,
+      "downloads": 3128717,
       "tags": [
         "transformers",
         "safetensors",
@@ -1113,7 +1076,7 @@
       "createdAt": "2024-05-18T04:50:56.000Z",
       "modelId": "dphn/dolphin-2.9.1-yi-1.5-34b"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1138,7 +1101,7 @@
       "id": "facebook/opt-125m",
       "likes": 266,
       "private": false,
-      "downloads": 10518763,
+      "downloads": 7499825,
       "tags": [
         "transformers",
         "pytorch",
@@ -1159,7 +1122,80 @@
       "createdAt": "2022-05-11T08:25:17.000Z",
       "modelId": "facebook/opt-125m"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
+    "last_updated": "",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "hf_google_gemma-3-1b-it",
+    "schema_version": "1.0",
+    "name": "google/gemma-3-1b-it",
+    "parameters": "Unknown",
+    "license": "Unknown",
+    "context_window": 0,
+    "source_url": "https://huggingface.co/google/gemma-3-1b-it",
+    "source_name": "Hugging Face",
+    "source_type": "huggingface",
+    "category": "text-generation",
+    "raw_payload": {
+      "_id": "67ced65c9b9a3df71008da90",
+      "id": "google/gemma-3-1b-it",
+      "likes": 1007,
+      "private": false,
+      "downloads": 1524233,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "gemma3_text",
+        "text-generation",
+        "conversational",
+        "arxiv:1905.07830",
+        "arxiv:1905.10044",
+        "arxiv:1911.11641",
+        "arxiv:1904.09728",
+        "arxiv:1705.03551",
+        "arxiv:1911.01547",
+        "arxiv:1907.10641",
+        "arxiv:1903.00161",
+        "arxiv:2009.03300",
+        "arxiv:2304.06364",
+        "arxiv:2103.03874",
+        "arxiv:2110.14168",
+        "arxiv:2311.12022",
+        "arxiv:2108.07732",
+        "arxiv:2107.03374",
+        "arxiv:2210.03057",
+        "arxiv:2106.03193",
+        "arxiv:1910.11856",
+        "arxiv:2502.12404",
+        "arxiv:2502.21228",
+        "arxiv:2404.16816",
+        "arxiv:2104.12756",
+        "arxiv:2311.16502",
+        "arxiv:2203.10244",
+        "arxiv:2404.12390",
+        "arxiv:1810.12440",
+        "arxiv:1908.02660",
+        "arxiv:2312.11805",
+        "base_model:google/gemma-3-1b-pt",
+        "base_model:finetune:google/gemma-3-1b-pt",
+        "license:gemma",
+        "eval-results",
+        "text-generation-inference",
+        "endpoints_compatible",
+        "region:us"
+      ],
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2025-03-10T12:09:00.000Z",
+      "modelId": "google/gemma-3-1b-it"
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1182,9 +1218,9 @@
     "raw_payload": {
       "_id": "689252773b8900ddb9116aed",
       "id": "google/gemma-3-270m",
-      "likes": 1033,
+      "likes": 1034,
       "private": false,
-      "downloads": 7455360,
+      "downloads": 5260013,
       "tags": [
         "transformers",
         "safetensors",
@@ -1236,7 +1272,7 @@
       "createdAt": "2025-08-05T18:50:31.000Z",
       "modelId": "google/gemma-3-270m"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1261,7 +1297,7 @@
       "id": "hmellor/tiny-random-LlamaForCausalLM",
       "likes": 0,
       "private": false,
-      "downloads": 3912623,
+      "downloads": 2909061,
       "tags": [
         "transformers",
         "safetensors",
@@ -1278,7 +1314,48 @@
       "createdAt": "2025-04-29T21:47:13.000Z",
       "modelId": "hmellor/tiny-random-LlamaForCausalLM"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
+    "last_updated": "",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "hf_llamafactory_tiny-random-Llama-3",
+    "schema_version": "1.0",
+    "name": "llamafactory/tiny-random-Llama-3",
+    "parameters": "Unknown",
+    "license": "Unknown",
+    "context_window": 0,
+    "source_url": "https://huggingface.co/llamafactory/tiny-random-Llama-3",
+    "source_name": "Hugging Face",
+    "source_type": "huggingface",
+    "category": "text-generation",
+    "raw_payload": {
+      "_id": "666343a112668a91856a7040",
+      "id": "llamafactory/tiny-random-Llama-3",
+      "likes": 3,
+      "private": false,
+      "downloads": 1527895,
+      "tags": [
+        "transformers",
+        "safetensors",
+        "llama",
+        "text-generation",
+        "conversational",
+        "license:apache-2.0",
+        "text-generation-inference",
+        "region:us"
+      ],
+      "pipeline_tag": "text-generation",
+      "library_name": "transformers",
+      "createdAt": "2024-06-07T17:30:09.000Z",
+      "modelId": "llamafactory/tiny-random-Llama-3"
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1301,9 +1378,9 @@
     "raw_payload": {
       "_id": "6698d8a0653e4babe21e1e7d",
       "id": "meta-llama/Llama-3.1-8B-Instruct",
-      "likes": 6065,
+      "likes": 6073,
       "private": false,
-      "downloads": 9870983,
+      "downloads": 6599474,
       "tags": [
         "transformers",
         "safetensors",
@@ -1336,7 +1413,7 @@
       "createdAt": "2024-07-18T08:56:00.000Z",
       "modelId": "meta-llama/Llama-3.1-8B-Instruct"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1361,7 +1438,7 @@
       "id": "microsoft/Phi-3.5-vision-instruct",
       "likes": 737,
       "private": false,
-      "downloads": 1967986,
+      "downloads": 1425334,
       "tags": [
         "transformers",
         "safetensors",
@@ -1383,7 +1460,7 @@
       "createdAt": "2024-08-16T23:48:22.000Z",
       "modelId": "microsoft/Phi-3.5-vision-instruct"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1406,9 +1483,9 @@
     "raw_payload": {
       "_id": "68b7b74cf359c986356bdef1",
       "id": "moonshotai/Kimi-K2-Instruct-0905",
-      "likes": 725,
+      "likes": 727,
       "private": false,
-      "downloads": 2003499,
+      "downloads": 1387113,
       "tags": [
         "transformers",
         "safetensors",
@@ -1427,7 +1504,54 @@
       "createdAt": "2025-09-03T03:34:36.000Z",
       "modelId": "moonshotai/Kimi-K2-Instruct-0905"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
+    "last_updated": "",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "schema_version": "1.0",
+    "name": "nvidia/Gemma-4-31B-IT-NVFP4",
+    "parameters": "Unknown",
+    "license": "Unknown",
+    "context_window": 0,
+    "source_url": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+    "source_name": "Hugging Face",
+    "source_type": "huggingface",
+    "category": "text-generation",
+    "raw_payload": {
+      "_id": "69ce9da280df2f332faf7588",
+      "id": "nvidia/Gemma-4-31B-IT-NVFP4",
+      "likes": 509,
+      "private": false,
+      "downloads": 1432787,
+      "tags": [
+        "Model Optimizer",
+        "safetensors",
+        "nvidia",
+        "ModelOpt",
+        "Gemma-4-31B-IT",
+        "lighthouse",
+        "quantized",
+        "NVFP4",
+        "text-generation",
+        "base_model:google/gemma-4-31B-it",
+        "base_model:finetune:google/gemma-4-31B-it",
+        "license:other",
+        "deploy:azure",
+        "region:us"
+      ],
+      "pipeline_tag": "text-generation",
+      "library_name": "Model Optimizer",
+      "createdAt": "2026-04-02T16:47:30.000Z",
+      "modelId": "nvidia/Gemma-4-31B-IT-NVFP4"
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1452,7 +1576,7 @@
       "id": "openai-community/gpt2",
       "likes": 3298,
       "private": false,
-      "downloads": 13182834,
+      "downloads": 10163552,
       "tags": [
         "transformers",
         "pytorch",
@@ -1478,56 +1602,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "openai-community/gpt2"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
-    "last_updated": "",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_openai-community_gpt2-large",
-    "schema_version": "1.0",
-    "name": "openai-community/gpt2-large",
-    "parameters": "Unknown",
-    "license": "Unknown",
-    "context_window": 0,
-    "source_url": "https://huggingface.co/openai-community/gpt2-large",
-    "source_name": "Hugging Face",
-    "source_type": "huggingface",
-    "category": "text-generation",
-    "raw_payload": {
-      "_id": "621ffdc036468d709f17434a",
-      "id": "openai-community/gpt2-large",
-      "likes": 353,
-      "private": false,
-      "downloads": 2056084,
-      "tags": [
-        "transformers",
-        "pytorch",
-        "tf",
-        "jax",
-        "rust",
-        "onnx",
-        "safetensors",
-        "gpt2",
-        "text-generation",
-        "en",
-        "arxiv:1910.09700",
-        "license:mit",
-        "text-generation-inference",
-        "endpoints_compatible",
-        "deploy:azure",
-        "region:us"
-      ],
-      "pipeline_tag": "text-generation",
-      "library_name": "transformers",
-      "createdAt": "2022-03-02T23:29:04.000Z",
-      "modelId": "openai-community/gpt2-large"
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1550,9 +1625,9 @@
     "raw_payload": {
       "_id": "68913522f16f3c8aaffccf1f",
       "id": "openai/gpt-oss-120b",
-      "likes": 4878,
+      "likes": 4883,
       "private": false,
-      "downloads": 3808271,
+      "downloads": 2844394,
       "tags": [
         "transformers",
         "safetensors",
@@ -1574,7 +1649,7 @@
       "createdAt": "2025-08-04T22:33:06.000Z",
       "modelId": "openai/gpt-oss-120b"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1597,9 +1672,9 @@
     "raw_payload": {
       "_id": "68913539bd3d0a833438591d",
       "id": "openai/gpt-oss-20b",
-      "likes": 4705,
+      "likes": 4706,
       "private": false,
-      "downloads": 6541534,
+      "downloads": 4860831,
       "tags": [
         "transformers",
         "safetensors",
@@ -1621,7 +1696,7 @@
       "createdAt": "2025-08-04T22:33:29.000Z",
       "modelId": "openai/gpt-oss-20b"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1644,9 +1719,9 @@
     "raw_payload": {
       "_id": "6989d53cdb1eeb123e9c9976",
       "id": "prefeitura-rio/Rio-3.0-Open-Mini",
-      "likes": 8,
+      "likes": 7,
       "private": false,
-      "downloads": 2112265,
+      "downloads": 1648959,
       "tags": [
         "transformers",
         "safetensors",
@@ -1668,7 +1743,7 @@
       "createdAt": "2026-02-09T12:38:20.000Z",
       "modelId": "prefeitura-rio/Rio-3.0-Open-Mini"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1693,7 +1768,7 @@
       "id": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5",
       "likes": 7,
       "private": false,
-      "downloads": 5305681,
+      "downloads": 3832369,
       "tags": [
         "transformers",
         "safetensors",
@@ -1710,7 +1785,7 @@
       "createdAt": "2024-11-25T15:06:15.000Z",
       "modelId": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1733,9 +1808,9 @@
     "raw_payload": {
       "_id": "6981f3a909190d1015f75eeb",
       "id": "unsloth/Qwen3-Coder-Next-GGUF",
-      "likes": 702,
+      "likes": 705,
       "private": false,
-      "downloads": 2563848,
+      "downloads": 1667940,
       "tags": [
         "gguf",
         "qwen3_next",
@@ -1755,7 +1830,7 @@
       "createdAt": "2026-02-03T13:10:01.000Z",
       "modelId": "unsloth/Qwen3-Coder-Next-GGUF"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1780,7 +1855,7 @@
       "id": "vikhyatk/moondream2",
       "likes": 1419,
       "private": false,
-      "downloads": 1915398,
+      "downloads": 1454612,
       "tags": [
         "transformers",
         "safetensors",
@@ -1799,53 +1874,7 @@
       "createdAt": "2024-03-04T18:03:06.000Z",
       "modelId": "vikhyatk/moondream2"
     },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
-    "last_updated": "",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_zai-org_GLM-5-FP8",
-    "schema_version": "1.0",
-    "name": "zai-org/GLM-5-FP8",
-    "parameters": "Unknown",
-    "license": "Unknown",
-    "context_window": 0,
-    "source_url": "https://huggingface.co/zai-org/GLM-5-FP8",
-    "source_name": "Hugging Face",
-    "source_type": "huggingface",
-    "category": "text-generation",
-    "raw_payload": {
-      "_id": "698c00153d85fc05fc176e0e",
-      "id": "zai-org/GLM-5-FP8",
-      "likes": 178,
-      "private": false,
-      "downloads": 1900156,
-      "tags": [
-        "transformers",
-        "safetensors",
-        "glm_moe_dsa",
-        "text-generation",
-        "conversational",
-        "en",
-        "zh",
-        "arxiv:2602.15763",
-        "license:mit",
-        "eval-results",
-        "endpoints_compatible",
-        "fp8",
-        "region:us"
-      ],
-      "pipeline_tag": "text-generation",
-      "library_name": "transformers",
-      "createdAt": "2026-02-11T04:05:41.000Z",
-      "modelId": "zai-org/GLM-5-FP8"
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:47Z",
+    "retrieval_timestamp": "2026-06-14T12:49:50Z",
     "last_updated": "",
     "links": {
       "related_models": [],

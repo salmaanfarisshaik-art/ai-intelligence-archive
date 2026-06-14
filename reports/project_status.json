@@ -1,5 +1,5 @@
 {
-  "latest_sync_time": "2026-06-13T06:28:57.744938+00:00",
+  "latest_sync_time": "2026-06-14T12:49:51.670115+00:00",
   "status": "success",
   "connectors": {
     "run": [
@@ -23,11 +23,25 @@
       "graph_api",
       "integrity_checker",
       "snapshot_generator",
-      "release_builder"
+      "release_builder",
+      "interface_validator",
+      "feature_flag_validator",
+      "recommendation_engine",
+      "leaderboards",
+      "timeline_generation",
+      "trend_analysis",
+      "advanced_graph",
+      "repository_auditor",
+      "coverage_analysis",
+      "schema_auditor",
+      "self_documentation",
+      "dependency_reports",
+      "repository_metrics",
+      "pipeline_decision_engine"
     ],
     "failed": []
   },
-  "entity_counts": 1230,
+  "entity_counts": 1229,
   "cache_statistics": {
     "hits": 9,
     "misses": 0

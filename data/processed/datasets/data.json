@@ -4,7 +4,7 @@
     "schema_version": "1.0",
     "name": "uoft-cs/cifar10",
     "description": "\n\t\n\t\t\n\t\tDataset Card for CIFAR-10\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.\nThe dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain… See the full description on the dataset page: https://huggingface.co/datasets/uoft-cs/cifar10.",
-    "size": "162200",
+    "size": "162111",
     "source_url": "https://huggingface.co/datasets/uoft-cs/cifar10",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -20,7 +20,7 @@
       "private": false,
       "sha": "0b2714987fa478483af9968de7c934580d0bb9a2",
       "description": "\n\t\n\t\t\n\t\tDataset Card for CIFAR-10\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.\nThe dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain… See the full description on the dataset page: https://huggingface.co/datasets/uoft-cs/cifar10.",
-      "downloads": 162200,
+      "downloads": 162111,
       "paperswithcode_id": "cifar-10",
       "tags": [
         "task_categories:image-classification",
@@ -42,7 +42,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-04T06:53:11.000Z",
     "links": {
       "related_models": [
@@ -58,7 +58,7 @@
     "schema_version": "1.0",
     "name": "abisee/cnn_dailymail",
     "description": "\n\t\n\t\t\n\t\tDataset Card for CNN Dailymail Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering. \n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\n\n'summarization': Versions… See the full description on the dataset page: https://huggingface.co/datasets/abisee/cnn_dailymail.",
-    "size": "230923",
+    "size": "239945",
     "source_url": "https://huggingface.co/datasets/abisee/cnn_dailymail",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -74,7 +74,7 @@
       "private": false,
       "sha": "96df5e686bee6baa90b8bee7c28b81fa3fa6223d",
       "description": "\n\t\n\t\t\n\t\tDataset Card for CNN Dailymail Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering. \n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\n\n'summarization': Versions… See the full description on the dataset page: https://huggingface.co/datasets/abisee/cnn_dailymail.",
-      "downloads": 230923,
+      "downloads": 239945,
       "paperswithcode_id": "cnn-daily-mail-1",
       "tags": [
         "task_categories:summarization",
@@ -97,7 +97,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-18T15:31:34.000Z",
     "links": {
       "related_models": [
@@ -113,7 +113,7 @@
     "schema_version": "1.0",
     "name": "nyu-mll/glue",
     "description": "\n\t\n\t\t\n\t\tDataset Card for GLUE\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGLUE, the General Language Understanding Evaluation benchmark (https://gluebenchmark.com/) is a collection of resources for training, evaluating, and analyzing natural language understanding systems.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nThe leaderboard for the GLUE benchmark can be found at this address. It comprises the following tasks:\n\n\t\n\t\t\n\t\tax\n\t\n\nA manually-curated evaluation dataset for fine-grained analysis of system… See the full description on the dataset page: https://huggingface.co/datasets/nyu-mll/glue.",
-    "size": "472642",
+    "size": "459866",
     "source_url": "https://huggingface.co/datasets/nyu-mll/glue",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -129,7 +129,7 @@
       "private": false,
       "sha": "bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c",
       "description": "\n\t\n\t\t\n\t\tDataset Card for GLUE\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGLUE, the General Language Understanding Evaluation benchmark (https://gluebenchmark.com/) is a collection of resources for training, evaluating, and analyzing natural language understanding systems.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nThe leaderboard for the GLUE benchmark can be found at this address. It comprises the following tasks:\n\n\t\n\t\t\n\t\tax\n\t\n\nA manually-curated evaluation dataset for fine-grained analysis of system… See the full description on the dataset page: https://huggingface.co/datasets/nyu-mll/glue.",
-      "downloads": 472642,
+      "downloads": 459866,
       "paperswithcode_id": "glue",
       "tags": [
         "task_categories:text-classification",
@@ -161,7 +161,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-30T07:41:18.000Z",
     "links": {
       "related_models": [
@@ -177,7 +177,7 @@
     "schema_version": "1.0",
     "name": "Rowan/hellaswag",
     "description": "\n\t\n\t\t\n\t\tDataset Card for \"hellaswag\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nHellaSwag: Can a Machine Really Finish Your Sentence? is a new dataset for commonsense NLI. A paper was published at ACL2019.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\tData Instances\n\t\n\n\n\t\n\t\t\n\t\tdefault\n\t\n\n\nSize of downloaded dataset files: 71.49 MB\nSize of the generated dataset: 65.32 MB\nTotal amount of disk used: 136.81… See the full description on the dataset page: https://huggingface.co/datasets/Rowan/hellaswag.",
-    "size": "252950",
+    "size": "247662",
     "source_url": "https://huggingface.co/datasets/Rowan/hellaswag",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -193,7 +193,7 @@
       "private": false,
       "sha": "218ec52e09a7e7462a5400043bb9a69a41d06b76",
       "description": "\n\t\n\t\t\n\t\tDataset Card for \"hellaswag\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nHellaSwag: Can a Machine Really Finish Your Sentence? is a new dataset for commonsense NLI. A paper was published at ACL2019.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\tData Instances\n\t\n\n\n\t\n\t\t\n\t\tdefault\n\t\n\n\nSize of downloaded dataset files: 71.49 MB\nSize of the generated dataset: 65.32 MB\nTotal amount of disk used: 136.81… See the full description on the dataset page: https://huggingface.co/datasets/Rowan/hellaswag.",
-      "downloads": 252950,
+      "downloads": 247662,
       "paperswithcode_id": "hellaswag",
       "tags": [
         "language:en",
@@ -210,7 +210,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-07-10T15:23:17.000Z",
     "links": {
       "related_models": [
@@ -226,7 +226,7 @@
     "schema_version": "1.0",
     "name": "cais/mmlu",
     "description": "\n\t\n\t\t\n\t\tDataset Card for MMLU\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nMeasuring Massive Multitask Language Understanding by Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt (ICLR 2021).\nThis is a massive multitask test consisting of multiple-choice questions from various branches of knowledge. The test spans subjects in the humanities, social sciences, hard sciences, and other areas that are important for some people to learn. This covers 57 tasks… See the full description on the dataset page: https://huggingface.co/datasets/cais/mmlu.",
-    "size": "514027",
+    "size": "507029",
     "source_url": "https://huggingface.co/datasets/cais/mmlu",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -238,11 +238,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-03-08T20:36:26.000Z",
-      "likes": 766,
+      "likes": 767,
       "private": false,
       "sha": "c30699e8356da336a370243923dbaf21066bb9fe",
       "description": "\n\t\n\t\t\n\t\tDataset Card for MMLU\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nMeasuring Massive Multitask Language Understanding by Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt (ICLR 2021).\nThis is a massive multitask test consisting of multiple-choice questions from various branches of knowledge. The test spans subjects in the humanities, social sciences, hard sciences, and other areas that are important for some people to learn. This covers 57 tasks… See the full description on the dataset page: https://huggingface.co/datasets/cais/mmlu.",
-      "downloads": 514027,
+      "downloads": 507029,
       "paperswithcode_id": "mmlu",
       "tags": [
         "task_categories:question-answering",
@@ -269,7 +269,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-03-08T20:36:26.000Z",
     "links": {
       "related_models": [
@@ -285,7 +285,7 @@
     "schema_version": "1.0",
     "name": "stanfordnlp/imdb",
     "description": "\n\t\n\t\t\n\t\tDataset Card for \"imdb\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nLarge Movie Review Dataset.\nThis is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure… See the full description on the dataset page: https://huggingface.co/datasets/stanfordnlp/imdb.",
-    "size": "274676",
+    "size": "275219",
     "source_url": "https://huggingface.co/datasets/stanfordnlp/imdb",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -301,7 +301,7 @@
       "private": false,
       "sha": "e6281661ce1c48d982bc483cf8a173c1bbeb5d31",
       "description": "\n\t\n\t\t\n\t\tDataset Card for \"imdb\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nLarge Movie Review Dataset.\nThis is a dataset for binary sentiment classification containing substantially more data than previous benchmark datasets. We provide a set of 25,000 highly polar movie reviews for training, and 25,000 for testing. There is additional unlabeled data for use as well.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure… See the full description on the dataset page: https://huggingface.co/datasets/stanfordnlp/imdb.",
-      "downloads": 274676,
+      "downloads": 275219,
       "paperswithcode_id": "imdb-movie-reviews",
       "tags": [
         "task_categories:text-classification",
@@ -324,7 +324,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-04T12:09:45.000Z",
     "links": {
       "related_models": [
@@ -340,7 +340,7 @@
     "schema_version": "1.0",
     "name": "google-research-datasets/mbpp",
     "description": "\n\t\n\t\t\n\t\tDataset Card for Mostly Basic Python Problems (mbpp)\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe benchmark consists of around 1,000 crowd-sourced Python programming problems, designed to be solvable by entry level programmers, covering programming fundamentals, standard library functionality, and so on. Each problem consists of a task description, code solution and 3 automated test cases. As described in the paper, a subset of the data has been hand-verified by us. \nReleased here as part of… See the full description on the dataset page: https://huggingface.co/datasets/google-research-datasets/mbpp.",
-    "size": "190685",
+    "size": "187417",
     "source_url": "https://huggingface.co/datasets/google-research-datasets/mbpp",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -356,7 +356,7 @@
       "private": false,
       "sha": "4bb6404fdc6cacfda99d4ac4205087b89d32030c",
       "description": "\n\t\n\t\t\n\t\tDataset Card for Mostly Basic Python Problems (mbpp)\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe benchmark consists of around 1,000 crowd-sourced Python programming problems, designed to be solvable by entry level programmers, covering programming fundamentals, standard library functionality, and so on. Each problem consists of a task description, code solution and 3 automated test cases. As described in the paper, a subset of the data has been hand-verified by us. \nReleased here as part of… See the full description on the dataset page: https://huggingface.co/datasets/google-research-datasets/mbpp.",
-      "downloads": 190685,
+      "downloads": 187417,
       "tags": [
         "annotations_creators:crowdsourced",
         "annotations_creators:expert-generated",
@@ -380,7 +380,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-04T14:26:37.000Z",
     "links": {
       "related_models": [
@@ -396,7 +396,7 @@
     "schema_version": "1.0",
     "name": "aps/super_glue",
     "description": "\n\t\n\t\t\n\t\tDataset Card for \"super_glue\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSuperGLUE (https://super.gluebenchmark.com/) is a new benchmark styled after\nGLUE with a new set of more difficult language understanding tasks, improved\nresources, and a new public leaderboard.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\tData Instances\n\t\n\n\n\t\n\t\t\n\t\taxb\n\t\n\n\nSize of downloaded dataset files: 0.03 MB\nSize of… See the full description on the dataset page: https://huggingface.co/datasets/aps/super_glue.",
-    "size": "185799",
+    "size": "180862",
     "source_url": "https://huggingface.co/datasets/aps/super_glue",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -412,7 +412,7 @@
       "private": false,
       "sha": "3de24cf8022e94f4ee4b9d55a6f539891524d646",
       "description": "\n\t\n\t\t\n\t\tDataset Card for \"super_glue\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSuperGLUE (https://super.gluebenchmark.com/) is a new benchmark styled after\nGLUE with a new set of more difficult language understanding tasks, improved\nresources, and a new public leaderboard.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\tData Instances\n\t\n\n\n\t\n\t\t\n\t\taxb\n\t\n\n\nSize of downloaded dataset files: 0.03 MB\nSize of… See the full description on the dataset page: https://huggingface.co/datasets/aps/super_glue.",
-      "downloads": 185799,
+      "downloads": 180862,
       "paperswithcode_id": "superglue",
       "tags": [
         "task_categories:text-classification",
@@ -445,7 +445,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-05-16T03:18:03.000Z",
     "links": {
       "related_models": [
@@ -461,7 +461,7 @@
     "schema_version": "1.0",
     "name": "Salesforce/wikitext",
     "description": "\n\t\n\t\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far larger… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
-    "size": "1325605",
+    "size": "1322509",
     "source_url": "https://huggingface.co/datasets/Salesforce/wikitext",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -473,11 +473,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-04T16:49:18.000Z",
-      "likes": 711,
+      "likes": 712,
       "private": false,
       "sha": "b08601e04326c79dfdd32d625aee71d232d685c3",
       "description": "\n\t\n\t\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far larger… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
-      "downloads": 1325605,
+      "downloads": 1322509,
       "paperswithcode_id": "wikitext-2",
       "tags": [
         "task_categories:text-generation",
@@ -504,7 +504,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-04T16:49:18.000Z",
     "links": {
       "related_models": [
@@ -520,7 +520,7 @@
     "schema_version": "1.0",
     "name": "Narsil/image_dummy",
     "description": "\\",
-    "size": "198291",
+    "size": "189858",
     "source_url": "https://huggingface.co/datasets/Narsil/image_dummy",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -537,7 +537,7 @@
       "sha": "c124571b5100f55549c6d62fd869a791f898cfc6",
       "citation": "\\",
       "description": "\\",
-      "downloads": 198291,
+      "downloads": 189858,
       "tags": [
         "size_categories:n<1K",
         "modality:audio",
@@ -550,7 +550,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2021-08-26T09:16:29.000Z",
     "links": {
       "related_models": [],
@@ -564,7 +564,7 @@
     "schema_version": "1.0",
     "name": "allenai/c4",
     "description": "\n\t\n\t\t\n\t\tC4\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nA colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset: \"https://commoncrawl.org\".\nThis is the processed version of Google's C4 dataset\nWe prepared five variants of the data: en, en.noclean, en.noblocklist, realnewslike, and multilingual (mC4).\nFor reference, these are the sizes of the variants:\n\nen: 305GB\nen.noclean: 2.3TB\nen.noblocklist: 380GB\nrealnewslike: 15GB\nmultilingual (mC4): 9.7TB (108 subsets, one per… See the full description on the dataset page: https://huggingface.co/datasets/allenai/c4.",
-    "size": "835372",
+    "size": "826781",
     "source_url": "https://huggingface.co/datasets/allenai/c4",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -576,11 +576,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-09T19:14:03.000Z",
-      "likes": 593,
+      "likes": 596,
       "private": false,
       "sha": "1588ec454efa1a09f29cd18ddd04fe05fc8653a2",
       "description": "\n\t\n\t\t\n\t\tC4\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nA colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset: \"https://commoncrawl.org\".\nThis is the processed version of Google's C4 dataset\nWe prepared five variants of the data: en, en.noclean, en.noblocklist, realnewslike, and multilingual (mC4).\nFor reference, these are the sizes of the variants:\n\nen: 305GB\nen.noclean: 2.3TB\nen.noblocklist: 380GB\nrealnewslike: 15GB\nmultilingual (mC4): 9.7TB (108 subsets, one per… See the full description on the dataset page: https://huggingface.co/datasets/allenai/c4.",
-      "downloads": 835372,
+      "downloads": 826781,
       "paperswithcode_id": "c4",
       "tags": [
         "task_categories:text-generation",
@@ -703,7 +703,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-09T19:14:03.000Z",
     "links": {
       "related_models": [
@@ -719,7 +719,7 @@
     "schema_version": "1.0",
     "name": "huggingface/documentation-images",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tThis dataset contains images used in the documentation of HuggingFace's libraries.\n\t\n\nHF Team: Please make sure you optimize the assets before uploading them.\nMy favorite tool for this is https://tinypng.com/.\n",
-    "size": "2100636",
+    "size": "2206882",
     "source_url": "https://huggingface.co/datasets/huggingface/documentation-images",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -735,7 +735,7 @@
       "private": false,
       "sha": "94e9ef68a52ab9287e05351f78f1cba62a8d0d40",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tThis dataset contains images used in the documentation of HuggingFace's libraries.\n\t\n\nHF Team: Please make sure you optimize the assets before uploading them.\nMy favorite tool for this is https://tinypng.com/.\n",
-      "downloads": 2100636,
+      "downloads": 2206882,
       "tags": [
         "license:cc-by-nc-sa-4.0",
         "size_categories:n<1K",
@@ -748,7 +748,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-06-12T14:10:22.000Z",
     "links": {
       "related_models": [],
@@ -762,7 +762,7 @@
     "schema_version": "1.0",
     "name": "huggingface-course/documentation-images",
     "description": "No description available",
-    "size": "251715",
+    "size": "248292",
     "source_url": "https://huggingface.co/datasets/huggingface-course/documentation-images",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -777,7 +777,7 @@
       "likes": 3,
       "private": false,
       "sha": "96e71ad956904da670e6827274fc2c9b735b09d5",
-      "downloads": 251715,
+      "downloads": 248292,
       "tags": [
         "license:apache-2.0",
         "size_categories:n<1K",
@@ -790,7 +790,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-06-13T08:13:44.000Z",
     "links": {
       "related_models": [],
@@ -804,7 +804,7 @@
     "schema_version": "1.0",
     "name": "wikimedia/wikipedia",
     "description": "\n\t\n\t\t\n\t\tDataset Card for Wikimedia Wikipedia\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nWikipedia dataset containing cleaned articles of all languages.\nThe dataset is built from the Wikipedia dumps (https://dumps.wikimedia.org/)\nwith one subset per language, each containing a single train split.\nEach example contains the content of one full Wikipedia article with cleaning to strip\nmarkdown and unwanted sections (references, etc.).\nAll language subsets have already been processed for recent dump, and you… See the full description on the dataset page: https://huggingface.co/datasets/wikimedia/wikipedia.",
-    "size": "169736",
+    "size": "161507",
     "source_url": "https://huggingface.co/datasets/wikimedia/wikipedia",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -816,11 +816,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-09T09:40:51.000Z",
-      "likes": 1248,
+      "likes": 1250,
       "private": false,
       "sha": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
       "description": "\n\t\n\t\t\n\t\tDataset Card for Wikimedia Wikipedia\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nWikipedia dataset containing cleaned articles of all languages.\nThe dataset is built from the Wikipedia dumps (https://dumps.wikimedia.org/)\nwith one subset per language, each containing a single train split.\nEach example contains the content of one full Wikipedia article with cleaning to strip\nmarkdown and unwanted sections (references, etc.).\nAll language subsets have already been processed for recent dump, and you… See the full description on the dataset page: https://huggingface.co/datasets/wikimedia/wikipedia.",
-      "downloads": 169736,
+      "downloads": 161507,
       "tags": [
         "task_categories:text-generation",
         "task_categories:fill-mask",
@@ -1162,7 +1162,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-01-09T09:40:51.000Z",
     "links": {
       "related_models": [
@@ -1178,7 +1178,7 @@
     "schema_version": "1.0",
     "name": "openai/gsm8k",
     "description": "\n\t\n\t\t\n\t\tDataset Card for GSM8K\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ − ×÷) to reach the… See the full description on the dataset page: https://huggingface.co/datasets/openai/gsm8k.",
-    "size": "916663",
+    "size": "900664",
     "source_url": "https://huggingface.co/datasets/openai/gsm8k",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1190,11 +1190,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-03-23T10:18:13.000Z",
-      "likes": 1383,
+      "likes": 1386,
       "private": false,
       "sha": "740312add88f781978c0658806c59bc2815b9866",
       "description": "\n\t\n\t\t\n\t\tDataset Card for GSM8K\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ − ×÷) to reach the… See the full description on the dataset page: https://huggingface.co/datasets/openai/gsm8k.",
-      "downloads": 916663,
+      "downloads": 900664,
       "paperswithcode_id": "gsm8k",
       "tags": [
         "benchmark:official",
@@ -1220,7 +1220,7 @@
       "createdAt": "2022-04-12T10:22:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-23T10:18:13.000Z",
     "links": {
       "related_models": [
@@ -1236,7 +1236,7 @@
     "schema_version": "1.0",
     "name": "hf-doc-build/doc-build-dev",
     "description": "This is a dataset which contains the docs from all the PRs that are updating one of the docs from https://huggingface.co/docs.\nIt is automatically updated by this github action from the doc-buider repo. \n",
-    "size": "621810",
+    "size": "649297",
     "source_url": "https://huggingface.co/datasets/hf-doc-build/doc-build-dev",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1252,7 +1252,7 @@
       "private": false,
       "sha": "494fce0367580237ed1073a60ac801abb072f521",
       "description": "This is a dataset which contains the docs from all the PRs that are updating one of the docs from https://huggingface.co/docs.\nIt is automatically updated by this github action from the doc-buider repo. \n",
-      "downloads": 621810,
+      "downloads": 649297,
       "tags": [
         "license:mit",
         "region:us",
@@ -1261,7 +1261,7 @@
       "createdAt": "2022-11-08T09:03:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-20T08:59:22.000Z",
     "links": {
       "related_models": [],
@@ -1275,7 +1275,7 @@
     "schema_version": "1.0",
     "name": "WINGNUS/ACL-OCL",
     "description": "\n\t\n\t\t\n\t\tDataset Card for ACL Anthology Corpus\n\t\n\n\nThis repository provides full-text and metadata to the ACL anthology collection (80k articles/posters as of September 2022) also including .pdf files and grobid extractions of the pdfs.\n\n\t\n\t\t\n\t\n\t\n\t\tHow is this different from what ACL anthology provides and what already exists?\n\t\n\n\nWe provide pdfs, full-text, references and other details extracted by grobid from the PDFs while ACL Anthology only provides abstracts.\nThere exists a similar corpus… See the full description on the dataset page: https://huggingface.co/datasets/WINGNUS/ACL-OCL.",
-    "size": "376318",
+    "size": "391267",
     "source_url": "https://huggingface.co/datasets/WINGNUS/ACL-OCL",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1291,7 +1291,7 @@
       "private": false,
       "sha": "300ee6c5e5629d042bfc07cbc406e2f330b53659",
       "description": "\n\t\n\t\t\n\t\tDataset Card for ACL Anthology Corpus\n\t\n\n\nThis repository provides full-text and metadata to the ACL anthology collection (80k articles/posters as of September 2022) also including .pdf files and grobid extractions of the pdfs.\n\n\t\n\t\t\n\t\n\t\n\t\tHow is this different from what ACL anthology provides and what already exists?\n\t\n\n\nWe provide pdfs, full-text, references and other details extracted by grobid from the PDFs while ACL Anthology only provides abstracts.\nThere exists a similar corpus… See the full description on the dataset page: https://huggingface.co/datasets/WINGNUS/ACL-OCL.",
-      "downloads": 376318,
+      "downloads": 391267,
       "paperswithcode_id": "acronym-identification",
       "tags": [
         "task_categories:token-classification",
@@ -1308,7 +1308,7 @@
       "createdAt": "2022-11-15T21:15:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2023-09-21T00:57:32.000Z",
     "links": {
       "related_models": [
@@ -1324,7 +1324,7 @@
     "schema_version": "1.0",
     "name": "anon8231489123/ShareGPT_Vicuna_unfiltered",
     "description": "Further cleaning done. Please look through the dataset and ensure that I didn't miss anything.\nUpdate: Confirmed working method for training the model: https://huggingface.co/AlekseyKorshuk/vicuna-7b/discussions/4#64346c08ef6d5abefe42c12c\nTwo choices:\n\nRemoves instances of \"I'm sorry, but\": https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered/blob/main/ShareGPT_V3_unfiltered_cleaned_split_no_imsorry.json\nHas instances of \"I'm sorry, but\":… See the full description on the dataset page: https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered.",
-    "size": "194488",
+    "size": "188849",
     "source_url": "https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1340,7 +1340,7 @@
       "private": false,
       "sha": "192ab2185289094fc556ec8ce5ce1e8e587154ca",
       "description": "Further cleaning done. Please look through the dataset and ensure that I didn't miss anything.\nUpdate: Confirmed working method for training the model: https://huggingface.co/AlekseyKorshuk/vicuna-7b/discussions/4#64346c08ef6d5abefe42c12c\nTwo choices:\n\nRemoves instances of \"I'm sorry, but\": https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered/blob/main/ShareGPT_V3_unfiltered_cleaned_split_no_imsorry.json\nHas instances of \"I'm sorry, but\":… See the full description on the dataset page: https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered.",
-      "downloads": 194488,
+      "downloads": 188849,
       "tags": [
         "language:en",
         "license:apache-2.0",
@@ -1349,7 +1349,7 @@
       "createdAt": "2023-04-02T05:30:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2023-04-12T05:23:59.000Z",
     "links": {
       "related_models": [
@@ -1366,7 +1366,7 @@
     "schema_version": "1.0",
     "name": "KakologArchives/KakologArchives",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
-    "size": "2171910",
+    "size": "1808695",
     "source_url": "https://huggingface.co/datasets/KakologArchives/KakologArchives",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1377,12 +1377,12 @@
       "author": "KakologArchives",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-06-13T06:27:12.000Z",
+      "lastModified": "2026-06-14T11:52:41.000Z",
       "likes": 55,
       "private": false,
-      "sha": "4b562b26722b141f396e295a1940878859428770",
+      "sha": "3a189e934732bd527ec2c2bf859247e1255372ee",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
-      "downloads": 2171910,
+      "downloads": 1808695,
       "tags": [
         "task_categories:text-classification",
         "language:ja",
@@ -1392,8 +1392,8 @@
       "createdAt": "2023-05-12T13:31:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2026-06-13T06:27:12.000Z",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2026-06-14T11:52:41.000Z",
     "links": {
       "related_models": [
         "datasets/KakologArchives"
@@ -1408,7 +1408,7 @@
     "schema_version": "1.0",
     "name": "CohereLabs/xP3x",
     "description": "\n\t\n\t\t\n\t\tDataset Card for xP3x\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\n\nxP3x (Crosslingual Public Pool of Prompts eXtended) is a collection of prompts & datasets across 277 languages & 16 NLP tasks. It contains all of xP3 + much more! It is used for training future contenders of mT0 & BLOOMZ at project Aya @Cohere Labs 🧡\n\n\nCreation: The dataset can be recreated using instructions available here together with the file in this repository named xp3x_create.py. We provide this version to save processing… See the full description on the dataset page: https://huggingface.co/datasets/CohereLabs/xP3x.",
-    "size": "222960",
+    "size": "199523",
     "source_url": "https://huggingface.co/datasets/CohereLabs/xP3x",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1424,7 +1424,7 @@
       "private": false,
       "sha": "7df3179967e3cfea74d74180e196984f0ef2a3ab",
       "description": "\n\t\n\t\t\n\t\tDataset Card for xP3x\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\n\nxP3x (Crosslingual Public Pool of Prompts eXtended) is a collection of prompts & datasets across 277 languages & 16 NLP tasks. It contains all of xP3 + much more! It is used for training future contenders of mT0 & BLOOMZ at project Aya @Cohere Labs 🧡\n\n\nCreation: The dataset can be recreated using instructions available here together with the file in this repository named xp3x_create.py. We provide this version to save processing… See the full description on the dataset page: https://huggingface.co/datasets/CohereLabs/xP3x.",
-      "downloads": 222960,
+      "downloads": 199523,
       "tags": [
         "task_categories:other",
         "annotations_creators:expert-generated",
@@ -1664,7 +1664,7 @@
       "createdAt": "2023-05-21T06:38:52.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-05-23T15:23:41.000Z",
     "links": {
       "related_models": [
@@ -1680,7 +1680,7 @@
     "schema_version": "1.0",
     "name": "isaacus/open-australian-legal-corpus",
     "description": "\n\t\n\t\t\n\t\tOpen Australian Legal Corpus ‍⚖️\n\t\n\n\nThe Open Australian Legal Corpus by Isaacus, a foundational legal AI research company, is the first and only multijurisdictional open corpus of Australian legislative and judicial documents.\nComprised of 229,122 texts totalling over 60 million lines and 1.4 billion tokens, the Corpus includes every in force statute and regulation in the Commonwealth, New South Wales, Queensland, Western Australia, South Australia, Tasmania and Norfolk Island, in… See the full description on the dataset page: https://huggingface.co/datasets/isaacus/open-australian-legal-corpus.",
-    "size": "213967",
+    "size": "214203",
     "source_url": "https://huggingface.co/datasets/isaacus/open-australian-legal-corpus",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1696,7 +1696,7 @@
       "private": false,
       "sha": "ef45e3fec41a960919a31149eee6dab9aa39f725",
       "description": "\n\t\n\t\t\n\t\tOpen Australian Legal Corpus ‍⚖️\n\t\n\n\nThe Open Australian Legal Corpus by Isaacus, a foundational legal AI research company, is the first and only multijurisdictional open corpus of Australian legislative and judicial documents.\nComprised of 229,122 texts totalling over 60 million lines and 1.4 billion tokens, the Corpus includes every in force statute and regulation in the Commonwealth, New South Wales, Queensland, Western Australia, South Australia, Tasmania and Norfolk Island, in… See the full description on the dataset page: https://huggingface.co/datasets/isaacus/open-australian-legal-corpus.",
-      "downloads": 213967,
+      "downloads": 214203,
       "tags": [
         "task_categories:text-generation",
         "task_categories:fill-mask",
@@ -1733,7 +1733,7 @@
       "createdAt": "2023-06-25T08:53:25.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-07T03:23:13.000Z",
     "links": {
       "related_models": [
@@ -1749,7 +1749,7 @@
     "schema_version": "1.0",
     "name": "Symato/cc",
     "description": "\n\t\n\t\t\n\t\tWhat is Symato CC?\n\t\n\nTo download all WARC data from Common Crawl then filter out Vietnamese in Markdown and Plaintext format.\nThere is 1% of Vietnamse in CC, extract all of them out should be a lot (~10TB of plaintext).\n\n\t\n\t\t\n\t\tMain contributors\n\t\n\n\nhttps://huggingface.co/nampdn-ai\nhttps://huggingface.co/binhvq\nhttps://huggingface.co/th1nhng0\nhttps://huggingface.co/iambestfeed\n\n\n\t\n\t\t\n\t\n\t\n\t\tSimple quality filters\n\t\n\nTo make use of raw data from common crawl, you need to do filtering… See the full description on the dataset page: https://huggingface.co/datasets/Symato/cc.",
-    "size": "162107",
+    "size": "209621",
     "source_url": "https://huggingface.co/datasets/Symato/cc",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1765,7 +1765,7 @@
       "private": false,
       "sha": "c0e1add8a2af3bcdf3ca481d91f6640fb3db7eba",
       "description": "\n\t\n\t\t\n\t\tWhat is Symato CC?\n\t\n\nTo download all WARC data from Common Crawl then filter out Vietnamese in Markdown and Plaintext format.\nThere is 1% of Vietnamse in CC, extract all of them out should be a lot (~10TB of plaintext).\n\n\t\n\t\t\n\t\tMain contributors\n\t\n\n\nhttps://huggingface.co/nampdn-ai\nhttps://huggingface.co/binhvq\nhttps://huggingface.co/th1nhng0\nhttps://huggingface.co/iambestfeed\n\n\n\t\n\t\t\n\t\n\t\n\t\tSimple quality filters\n\t\n\nTo make use of raw data from common crawl, you need to do filtering… See the full description on the dataset page: https://huggingface.co/datasets/Symato/cc.",
-      "downloads": 162107,
+      "downloads": 209621,
       "tags": [
         "language:vi",
         "license:mit",
@@ -1775,7 +1775,7 @@
       "createdAt": "2023-07-06T04:14:51.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2023-07-11T07:56:55.000Z",
     "links": {
       "related_models": [
@@ -1791,7 +1791,7 @@
     "schema_version": "1.0",
     "name": "jat-project/jat-dataset",
     "description": "\n\t\n\t\t\n\t\tJAT Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThe Jack of All Trades (JAT) dataset combines a wide range of individual datasets. It includes expert demonstrations by expert RL agents, image and caption pairs, textual data and more. The JAT dataset is part of the JAT project, which aims to build a multimodal generalist agent.\nPaper: https://huggingface.co/papers/2402.09844\n\n\t\n\t\t\n\t\tUsage\n\t\n\n>>> from datasets import load_dataset\n>>> dataset = load_dataset(\"jat-project/jat-dataset\"… See the full description on the dataset page: https://huggingface.co/datasets/jat-project/jat-dataset.",
-    "size": "674677",
+    "size": "651710",
     "source_url": "https://huggingface.co/datasets/jat-project/jat-dataset",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1807,7 +1807,7 @@
       "private": false,
       "sha": "921defdd6f8ae5271f2d4925150c48dba0cb3199",
       "description": "\n\t\n\t\t\n\t\tJAT Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThe Jack of All Trades (JAT) dataset combines a wide range of individual datasets. It includes expert demonstrations by expert RL agents, image and caption pairs, textual data and more. The JAT dataset is part of the JAT project, which aims to build a multimodal generalist agent.\nPaper: https://huggingface.co/papers/2402.09844\n\n\t\n\t\t\n\t\tUsage\n\t\n\n>>> from datasets import load_dataset\n>>> dataset = load_dataset(\"jat-project/jat-dataset\"… See the full description on the dataset page: https://huggingface.co/datasets/jat-project/jat-dataset.",
-      "downloads": 674677,
+      "downloads": 651710,
       "tags": [
         "task_categories:reinforcement-learning",
         "task_categories:text-generation",
@@ -1839,7 +1839,7 @@
       "createdAt": "2023-08-29T09:03:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-02-16T13:52:52.000Z",
     "links": {
       "related_models": [
@@ -1856,7 +1856,7 @@
     "schema_version": "1.0",
     "name": "banned-historical-archives/banned-historical-archives",
     "description": "\n\t\n\t\t\n\t\t和谐历史档案馆数据集 - Banned Historical Archives Datasets\n\t\n\n和谐历史档案馆数据集包含已录入 https://banned-historical-archives.github.io 和暂未未录入的原始文件。\n\n\t\n\t\t\n\t\t目录结构\n\t\n\n\nbanned-historical-archives.github.io # 已录入该网站的原始数据，不定期从 github 仓库中同步\nraw # 原始文件\nconfig # 配置文件\n\n\ntodo # 存放暂未录入网站的文件\n\n部分报纸和图片资料存放在单独的仓库:\n\n\t\n\t\t\n名称\n地址\n状态\n\n\n\t\t\n参考消息\nhttps://huggingface.co/datasets/banned-historical-archives/ckxx\n未录入\n\n\n人民日报\nhttps://huggingface.co/datasets/banned-historical-archives/rmrb\n已精选重要的文章录入\n\n\n文汇报… See the full description on the dataset page: https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives.",
-    "size": "1342204",
+    "size": "1312229",
     "source_url": "https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1872,7 +1872,7 @@
       "private": false,
       "sha": "7ee825405a889ac77b0d404fac868f9813da0c83",
       "description": "\n\t\n\t\t\n\t\t和谐历史档案馆数据集 - Banned Historical Archives Datasets\n\t\n\n和谐历史档案馆数据集包含已录入 https://banned-historical-archives.github.io 和暂未未录入的原始文件。\n\n\t\n\t\t\n\t\t目录结构\n\t\n\n\nbanned-historical-archives.github.io # 已录入该网站的原始数据，不定期从 github 仓库中同步\nraw # 原始文件\nconfig # 配置文件\n\n\ntodo # 存放暂未录入网站的文件\n\n部分报纸和图片资料存放在单独的仓库:\n\n\t\n\t\t\n名称\n地址\n状态\n\n\n\t\t\n参考消息\nhttps://huggingface.co/datasets/banned-historical-archives/ckxx\n未录入\n\n\n人民日报\nhttps://huggingface.co/datasets/banned-historical-archives/rmrb\n已精选重要的文章录入\n\n\n文汇报… See the full description on the dataset page: https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives.",
-      "downloads": 1342204,
+      "downloads": 1312229,
       "tags": [
         "size_categories:n<1K",
         "format:imagefolder",
@@ -1884,7 +1884,7 @@
       "createdAt": "2023-12-17T14:47:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-10-19T15:21:40.000Z",
     "links": {
       "related_models": [
@@ -1900,7 +1900,7 @@
     "schema_version": "1.0",
     "name": "osv5m/osv5m",
     "description": "\n\n\t\n\t\t\n\t\tOpenStreetView-5M The Many Roads to Global Visual Geolocation 📍🌍\n\t\n\nFirst authors: Guillaume Astruc, Nicolas Dufour, Ioannis SiglidisSecond authors: Constantin Aronssohn, Nacim Bouia, Stephanie Fu, Romain Loiseau, Van Nguyen Nguyen, Charles Raude, Elliot Vincent, Lintao XU, Hongyu ZhouLast author: Loic LandrieuResearch Institute: Imagine, LIGM, Ecole des Ponts, Univ Gustave Eiffel, CNRS, Marne-la-Vallée, France  \n\n\t\n\t\t\n\t\tIntroduction 🌍\n\t\n\nOpenStreetView-5M is the first large-scale… See the full description on the dataset page: https://huggingface.co/datasets/osv5m/osv5m.",
-    "size": "1147474",
+    "size": "1305346",
     "source_url": "https://huggingface.co/datasets/osv5m/osv5m",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1916,7 +1916,7 @@
       "private": false,
       "sha": "cff33609b56b54d8743b7ee7a416eb8433e9a681",
       "description": "\n\n\t\n\t\t\n\t\tOpenStreetView-5M The Many Roads to Global Visual Geolocation 📍🌍\n\t\n\nFirst authors: Guillaume Astruc, Nicolas Dufour, Ioannis SiglidisSecond authors: Constantin Aronssohn, Nacim Bouia, Stephanie Fu, Romain Loiseau, Van Nguyen Nguyen, Charles Raude, Elliot Vincent, Lintao XU, Hongyu ZhouLast author: Loic LandrieuResearch Institute: Imagine, LIGM, Ecole des Ponts, Univ Gustave Eiffel, CNRS, Marne-la-Vallée, France  \n\n\t\n\t\t\n\t\tIntroduction 🌍\n\t\n\nOpenStreetView-5M is the first large-scale… See the full description on the dataset page: https://huggingface.co/datasets/osv5m/osv5m.",
-      "downloads": 1147474,
+      "downloads": 1305346,
       "tags": [
         "license:cc-by-sa-4.0",
         "region:us"
@@ -1924,7 +1924,7 @@
       "createdAt": "2023-12-20T13:16:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-04-27T01:39:53.000Z",
     "links": {
       "related_models": [
@@ -1940,7 +1940,7 @@
     "schema_version": "1.0",
     "name": "jacobbieker/eumetsat-rss",
     "description": "No description available",
-    "size": "203082",
+    "size": "283411",
     "source_url": "https://huggingface.co/datasets/jacobbieker/eumetsat-rss",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1955,7 +1955,7 @@
       "likes": 0,
       "private": false,
       "sha": "6da07a747bed81c90e8873fba2671b9f8c7b88ab",
-      "downloads": 203082,
+      "downloads": 283411,
       "tags": [
         "license:mit",
         "region:us"
@@ -1963,7 +1963,7 @@
       "createdAt": "2024-01-12T18:51:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-02-26T18:23:46.000Z",
     "links": {
       "related_models": [],
@@ -1977,7 +1977,7 @@
     "schema_version": "1.0",
     "name": "Kazimir-ai/text-to-image-prompts",
     "description": "\n\t\n\t\t\n\t\tThe dataset of the most popular text-to-image prompts.\n\t\n\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\n\n\n\n\n\nCurated by: kazimir.ai\nFunded by [optional]: [More Information Needed]\nShared by [optional]: https://kazimir.ai\nLicense: apache-2.0\n\n\n\t\n\t\t\n\t\tDataset Sources [optional]\n\t\n\n\n\n\nRepository: [More Information Needed]\nPaper [optional]: [More Information Needed]\nDemo [optional]: [More Information Needed]\n\n\n\t\n\t\t\n\t\tUses\n\t\n\nFree to use.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nCSV file… See the full description on the dataset page: https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts.",
-    "size": "216551",
+    "size": "225268",
     "source_url": "https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -1993,7 +1993,7 @@
       "private": false,
       "sha": "58422b850435e4c466fa2481893aa591e85434b6",
       "description": "\n\t\n\t\t\n\t\tThe dataset of the most popular text-to-image prompts.\n\t\n\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\n\n\n\n\n\nCurated by: kazimir.ai\nFunded by [optional]: [More Information Needed]\nShared by [optional]: https://kazimir.ai\nLicense: apache-2.0\n\n\n\t\n\t\t\n\t\tDataset Sources [optional]\n\t\n\n\n\n\nRepository: [More Information Needed]\nPaper [optional]: [More Information Needed]\nDemo [optional]: [More Information Needed]\n\n\n\t\n\t\t\n\t\tUses\n\t\n\nFree to use.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nCSV file… See the full description on the dataset page: https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts.",
-      "downloads": 216551,
+      "downloads": 225268,
       "tags": [
         "language:en",
         "license:apache-2.0",
@@ -2012,7 +2012,7 @@
       "createdAt": "2024-02-15T18:34:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-02-15T18:42:42.000Z",
     "links": {
       "related_models": [
@@ -2028,7 +2028,7 @@
     "schema_version": "1.0",
     "name": "HuggingFaceM4/the_cauldron",
     "description": "\n\t\n\t\t\n\t\tDataset Card for The Cauldron\n\t\n\n\n\n\t\n\t\t\n\t\tDataset description\n\t\n\nThe Cauldron is part of the Idefics2 release.\nIt is a massive collection of 50 vision-language datasets (training sets only) that were used for the fine-tuning of the vision-language model Idefics2.\n\n\t\n\t\t\n\t\tLoad the dataset\n\t\n\nTo load the dataset, install the library datasets with pip install datasets. Then,\nfrom datasets import load_dataset\nds = load_dataset(\"HuggingFaceM4/the_cauldron\", \"ai2d\")\n\nto download and load the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceM4/the_cauldron.",
-    "size": "505176",
+    "size": "414202",
     "source_url": "https://huggingface.co/datasets/HuggingFaceM4/the_cauldron",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2040,11 +2040,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-05-06T13:37:52.000Z",
-      "likes": 545,
+      "likes": 546,
       "private": false,
       "sha": "847a98a779b1652d65111daf20c972dfcd333605",
       "description": "\n\t\n\t\t\n\t\tDataset Card for The Cauldron\n\t\n\n\n\n\t\n\t\t\n\t\tDataset description\n\t\n\nThe Cauldron is part of the Idefics2 release.\nIt is a massive collection of 50 vision-language datasets (training sets only) that were used for the fine-tuning of the vision-language model Idefics2.\n\n\t\n\t\t\n\t\tLoad the dataset\n\t\n\nTo load the dataset, install the library datasets with pip install datasets. Then,\nfrom datasets import load_dataset\nds = load_dataset(\"HuggingFaceM4/the_cauldron\", \"ai2d\")\n\nto download and load the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceM4/the_cauldron.",
-      "downloads": 505176,
+      "downloads": 414202,
       "tags": [
         "size_categories:1M<n<10M",
         "format:parquet",
@@ -2075,7 +2075,7 @@
       "createdAt": "2024-04-11T17:53:57.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-05-06T13:37:52.000Z",
     "links": {
       "related_models": [
@@ -2091,7 +2091,7 @@
     "schema_version": "1.0",
     "name": "labelmaker/arkit_labelmaker",
     "description": "\n\t\n\t\t\n\t\tARKit Labelmaker: A New Scale for Indoor 3D Scene Understanding\n\t\n\n[arxiv]  [website] [checkpoints] [code]\nWe complement ARKitScenes dataset with dense semantic annotations that are automatically generated at scale. This produces the first large-scale, real-world 3D dataset with dense semantic annotations.\nTraining on this auto-generated data, we push forward the state-of-the-art performance on ScanNet and ScanNet200 with prevalent 3D semantic segmentation models.\n",
-    "size": "201263",
+    "size": "202229",
     "source_url": "https://huggingface.co/datasets/labelmaker/arkit_labelmaker",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2107,7 +2107,7 @@
       "private": false,
       "sha": "87a118e858bc5a1a5b4d7ff5431ef9bec3fdffbd",
       "description": "\n\t\n\t\t\n\t\tARKit Labelmaker: A New Scale for Indoor 3D Scene Understanding\n\t\n\n[arxiv]  [website] [checkpoints] [code]\nWe complement ARKitScenes dataset with dense semantic annotations that are automatically generated at scale. This produces the first large-scale, real-world 3D dataset with dense semantic annotations.\nTraining on this auto-generated data, we push forward the state-of-the-art performance on ScanNet and ScanNet200 with prevalent 3D semantic segmentation models.\n",
-      "downloads": 201263,
+      "downloads": 202229,
       "tags": [
         "task_categories:image-segmentation",
         "language:en",
@@ -2123,7 +2123,7 @@
       "createdAt": "2024-04-24T17:17:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-03-25T13:46:55.000Z",
     "links": {
       "related_models": [],
@@ -2137,7 +2137,7 @@
     "schema_version": "1.0",
     "name": "TIGER-Lab/MMLU-Pro",
     "description": "\n\t\n\t\t\n\t\tMMLU-Pro Dataset\n\t\n\nMMLU-Pro dataset is a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities. This dataset contains 12K complex questions across various disciplines. \n|Github | 🏆Leaderboard | 📖Paper |\n\n\t\n\t\t\n\t\n\t\n\t\t🚀 What's New\n\t\n\n\n[2026.03.11] Added more cutting-edge frontier models to the leaderboard, including the Claude-4.6 series, Seed2.0 series, Qwen3.5 series, and Gemini-3.1-Pro, among… See the full description on the dataset page: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro.",
-    "size": "164953",
+    "size": "164120",
     "source_url": "https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2149,11 +2149,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-05-02T06:26:05.000Z",
-      "likes": 483,
+      "likes": 484,
       "private": false,
       "sha": "b189ec765aa7ed75c8acfea42df31fdae71f97be",
       "description": "\n\t\n\t\t\n\t\tMMLU-Pro Dataset\n\t\n\nMMLU-Pro dataset is a more robust and challenging massive multi-task understanding dataset tailored to more rigorously benchmark large language models' capabilities. This dataset contains 12K complex questions across various disciplines. \n|Github | 🏆Leaderboard | 📖Paper |\n\n\t\n\t\t\n\t\n\t\n\t\t🚀 What's New\n\t\n\n\n[2026.03.11] Added more cutting-edge frontier models to the leaderboard, including the Claude-4.6 series, Seed2.0 series, Qwen3.5 series, and Gemini-3.1-Pro, among… See the full description on the dataset page: https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro.",
-      "downloads": 164953,
+      "downloads": 164120,
       "tags": [
         "benchmark:official",
         "benchmark:eval-yaml",
@@ -2176,7 +2176,7 @@
       "createdAt": "2024-05-08T13:36:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-05-02T06:26:05.000Z",
     "links": {
       "related_models": [
@@ -2192,7 +2192,7 @@
     "schema_version": "1.0",
     "name": "mlfoundations/dclm-baseline-1.0",
     "description": "\n\t\n\t\t\n\t\tDCLM-baseline\n\t\n\nDCLM-baseline is a 4T token / 3B document pretraining dataset that achieves strong performance on language model benchmarks.\nBelow are comparisions of model trained on DCLM-baseline with other models in the 7B regime.\n\n\t\n\t\t\nModel\nParams\nTokens\nOpen dataset?\nCORE\nMMLU\nEXTENDED\n\n\n\t\t\nOpen weights, closed datasets\n\n\n\n\n\n\n\n\nLlama2\n7B\n2T\n✗\n49.2\n45.8\n34.1\n\n\nDeepSeek\n7B\n2T\n✗\n50.7\n48.5\n35.3\n\n\nMistral-0.3\n7B\n?\n✗\n57.0\n62.7\n45.1\n\n\nQWEN-2\n7B\n?\n✗\n57.5\n71.9\n50.5\n\n\nLlama3\n8B\n15T\n✗\n57.6… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0.",
-    "size": "652530",
+    "size": "594510",
     "source_url": "https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2208,7 +2208,7 @@
       "private": false,
       "sha": "a3b142c183aebe5af344955ae20836eb34dcf69b",
       "description": "\n\t\n\t\t\n\t\tDCLM-baseline\n\t\n\nDCLM-baseline is a 4T token / 3B document pretraining dataset that achieves strong performance on language model benchmarks.\nBelow are comparisions of model trained on DCLM-baseline with other models in the 7B regime.\n\n\t\n\t\t\nModel\nParams\nTokens\nOpen dataset?\nCORE\nMMLU\nEXTENDED\n\n\n\t\t\nOpen weights, closed datasets\n\n\n\n\n\n\n\n\nLlama2\n7B\n2T\n✗\n49.2\n45.8\n34.1\n\n\nDeepSeek\n7B\n2T\n✗\n50.7\n48.5\n35.3\n\n\nMistral-0.3\n7B\n?\n✗\n57.0\n62.7\n45.1\n\n\nQWEN-2\n7B\n?\n✗\n57.5\n71.9\n50.5\n\n\nLlama3\n8B\n15T\n✗\n57.6… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0.",
-      "downloads": 652530,
+      "downloads": 594510,
       "tags": [
         "license:cc-by-4.0",
         "arxiv:2406.11794",
@@ -2217,7 +2217,7 @@
       "createdAt": "2024-06-17T18:57:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-07-22T15:27:52.000Z",
     "links": {
       "related_models": [
@@ -2233,7 +2233,7 @@
     "schema_version": "1.0",
     "name": "airtrain-ai/fineweb-edu-fortified",
     "description": "\n\t\n\t\t\n\t\tFineweb-Edu-Fortified\n\t\n\n\n\n\n\nThe composition of fineweb-edu-fortified, produced by automatically clustering a 500k row sample in\n Airtrain \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nFineweb-Edu-Fortified is a dataset derived from\nFineweb-Edu by applying exact-match\ndeduplication across the whole dataset and producing an embedding for each row. The number of times\nthe text from each row appears is also included as a count column. The embeddings were produced\nusing TaylorAI/bge-micro\nFineweb and… See the full description on the dataset page: https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified.",
-    "size": "335745",
+    "size": "260211",
     "source_url": "https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2249,7 +2249,7 @@
       "private": false,
       "sha": "d906fc5fc18bf4d3bd73f61cd8aee6788a295852",
       "description": "\n\t\n\t\t\n\t\tFineweb-Edu-Fortified\n\t\n\n\n\n\n\nThe composition of fineweb-edu-fortified, produced by automatically clustering a 500k row sample in\n Airtrain \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nFineweb-Edu-Fortified is a dataset derived from\nFineweb-Edu by applying exact-match\ndeduplication across the whole dataset and producing an embedding for each row. The number of times\nthe text from each row appears is also included as a count column. The embeddings were produced\nusing TaylorAI/bge-micro\nFineweb and… See the full description on the dataset page: https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified.",
-      "downloads": 335745,
+      "downloads": 260211,
       "tags": [
         "task_categories:text-generation",
         "language:en",
@@ -2269,7 +2269,7 @@
       "createdAt": "2024-07-22T14:22:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-08-08T18:04:44.000Z",
     "links": {
       "related_models": [
@@ -2281,11 +2281,55 @@
     }
   },
   {
+    "unique_id": "hf_ds_66a9fba22c7c3ebdd7de3d33",
+    "schema_version": "1.0",
+    "name": "applied-ai-018/pretraining_v1-omega_books",
+    "description": "No description available",
+    "size": "156502",
+    "source_url": "https://huggingface.co/datasets/applied-ai-018/pretraining_v1-omega_books",
+    "source_name": "HuggingFace Datasets",
+    "source_type": "api",
+    "category": "dataset",
+    "raw_payload": {
+      "_id": "66a9fba22c7c3ebdd7de3d33",
+      "id": "applied-ai-018/pretraining_v1-omega_books",
+      "author": "applied-ai-018",
+      "disabled": false,
+      "gated": false,
+      "lastModified": "2024-08-05T19:01:31.000Z",
+      "likes": 6,
+      "private": false,
+      "sha": "54b95f40c52b3d03bb07e672ab05a0e677d3e0a7",
+      "downloads": 156502,
+      "tags": [
+        "size_categories:100M<n<1B",
+        "format:parquet",
+        "modality:tabular",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:mlcroissant",
+        "library:polars",
+        "region:us"
+      ],
+      "createdAt": "2024-07-31T08:53:54.000Z",
+      "key": ""
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2024-08-05T19:01:31.000Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "hf_ds_66bb76014dbf7716986c7f86",
     "schema_version": "1.0",
     "name": "princeton-nlp/SWE-bench_Verified",
     "description": "Dataset Summary\nSWE-bench Verified is a subset of 500 samples from the SWE-bench test set, which have been human-validated for quality. SWE-bench is a dataset that tests systems’ ability to solve GitHub issues automatically. See this post for more details on the human-validation process.\nThe dataset collects 500 test Issue-Pull Request pairs from popular Python repositories. Evaluation is performed by unit test verification using post-PR behavior as the reference solution.\nThe original… See the full description on the dataset page: https://huggingface.co/datasets/princeton-nlp/SWE-bench_Verified.",
-    "size": "930811",
+    "size": "905881",
     "source_url": "https://huggingface.co/datasets/princeton-nlp/SWE-bench_Verified",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2297,11 +2341,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-02-18T23:48:55.000Z",
-      "likes": 353,
+      "likes": 354,
       "private": false,
       "sha": "c104f840cc67f8b6eec6f759ebc8b2693d585d4a",
       "description": "Dataset Summary\nSWE-bench Verified is a subset of 500 samples from the SWE-bench test set, which have been human-validated for quality. SWE-bench is a dataset that tests systems’ ability to solve GitHub issues automatically. See this post for more details on the human-validation process.\nThe dataset collects 500 test Issue-Pull Request pairs from popular Python repositories. Evaluation is performed by unit test verification using post-PR behavior as the reference solution.\nThe original… See the full description on the dataset page: https://huggingface.co/datasets/princeton-nlp/SWE-bench_Verified.",
-      "downloads": 930811,
+      "downloads": 905881,
       "tags": [
         "size_categories:n<1K",
         "format:parquet",
@@ -2315,7 +2359,7 @@
       "createdAt": "2024-08-13T15:04:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-02-18T23:48:55.000Z",
     "links": {
       "related_models": [
@@ -2331,7 +2375,7 @@
     "schema_version": "1.0",
     "name": "japanese-asr/whisper_transcriptions.reazon_speech_all",
     "description": "No description available",
-    "size": "305908",
+    "size": "236217",
     "source_url": "https://huggingface.co/datasets/japanese-asr/whisper_transcriptions.reazon_speech_all",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2346,7 +2390,7 @@
       "likes": 14,
       "private": false,
       "sha": "96995b6abe6f447be95f4d6b7daa36476b809b46",
-      "downloads": 305908,
+      "downloads": 236217,
       "tags": [
         "size_categories:10M<n<100M",
         "format:parquet",
@@ -2361,7 +2405,7 @@
       "createdAt": "2024-09-07T13:00:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-09-14T08:02:36.000Z",
     "links": {
       "related_models": [],
@@ -2375,7 +2419,7 @@
     "schema_version": "1.0",
     "name": "Zyphra/Zyda-2",
     "description": "\n\t\n\t\t\n\t\tZyda-2\n\t\n\n\n\nZyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering. Zyda-2 comprises diverse sources of web data, highly educational content, math, code, and scientific papers.\nTo construct Zyda-2, we took the best open-source datasets available: Zyda, FineWeb, DCLM, and Dolma. Models trained on Zyda-2 significantly outperform identical models trained on the… See the full description on the dataset page: https://huggingface.co/datasets/Zyphra/Zyda-2.",
-    "size": "247886",
+    "size": "226357",
     "source_url": "https://huggingface.co/datasets/Zyphra/Zyda-2",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2391,7 +2435,7 @@
       "private": false,
       "sha": "bc389cd62969a275b2e3c3e11db826ba1918411a",
       "description": "\n\t\n\t\t\n\t\tZyda-2\n\t\n\n\n\nZyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering. Zyda-2 comprises diverse sources of web data, highly educational content, math, code, and scientific papers.\nTo construct Zyda-2, we took the best open-source datasets available: Zyda, FineWeb, DCLM, and Dolma. Models trained on Zyda-2 significantly outperform identical models trained on the… See the full description on the dataset page: https://huggingface.co/datasets/Zyphra/Zyda-2.",
-      "downloads": 247886,
+      "downloads": 226357,
       "tags": [
         "task_categories:text-generation",
         "language:en",
@@ -2402,7 +2446,7 @@
       "createdAt": "2024-09-13T21:45:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-08-06T19:22:45.000Z",
     "links": {
       "related_models": [
@@ -2418,7 +2462,7 @@
     "schema_version": "1.0",
     "name": "m-a-p/FineFineWeb",
     "description": "\n\t\n\t\t\n\t\tFineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus\n\t\n\narXiv: Coming Soon\nProject Page: Coming Soon\nBlog: Coming Soon\n\n\t\n\t\t\n\t\tData Statistics\n\t\n\n\n\t\n\t\t\nDomain (#tokens/#samples)\nIteration 1 Tokens\nIteration 2 Tokens\nIteration 3 Tokens\nTotal Tokens\nIteration 1 Count\nIteration 2 Count\nIteration 3 Count\nTotal Count\n\n\n\t\t\naerospace\n5.77B\n261.63M\n309.33M\n6.34B\n9100000\n688505\n611034\n10399539\n\n\nagronomy\n13.08B\n947.41M\n229.04M\n14.26B\n15752828\n2711790\n649404\n19114022\n\n\nartistic… See the full description on the dataset page: https://huggingface.co/datasets/m-a-p/FineFineWeb.",
-    "size": "513727",
+    "size": "531190",
     "source_url": "https://huggingface.co/datasets/m-a-p/FineFineWeb",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2434,7 +2478,7 @@
       "private": false,
       "sha": "7fd92dc825a75cbff271a5a52eea0eda91a2c112",
       "description": "\n\t\n\t\t\n\t\tFineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus\n\t\n\narXiv: Coming Soon\nProject Page: Coming Soon\nBlog: Coming Soon\n\n\t\n\t\t\n\t\tData Statistics\n\t\n\n\n\t\n\t\t\nDomain (#tokens/#samples)\nIteration 1 Tokens\nIteration 2 Tokens\nIteration 3 Tokens\nTotal Tokens\nIteration 1 Count\nIteration 2 Count\nIteration 3 Count\nTotal Count\n\n\n\t\t\naerospace\n5.77B\n261.63M\n309.33M\n6.34B\n9100000\n688505\n611034\n10399539\n\n\nagronomy\n13.08B\n947.41M\n229.04M\n14.26B\n15752828\n2711790\n649404\n19114022\n\n\nartistic… See the full description on the dataset page: https://huggingface.co/datasets/m-a-p/FineFineWeb.",
-      "downloads": 513727,
+      "downloads": 531190,
       "tags": [
         "task_categories:text-classification",
         "task_categories:text-generation",
@@ -2448,7 +2492,7 @@
       "createdAt": "2024-12-14T12:46:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2024-12-19T11:34:03.000Z",
     "links": {
       "related_models": [
@@ -2460,47 +2504,11 @@
     }
   },
   {
-    "unique_id": "hf_ds_676477a23a379cdda443f577",
-    "schema_version": "1.0",
-    "name": "hf-internal-testing/transformers_circleci_workflow_runs",
-    "description": "No description available",
-    "size": "194883",
-    "source_url": "https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs",
-    "source_name": "HuggingFace Datasets",
-    "source_type": "api",
-    "category": "dataset",
-    "raw_payload": {
-      "_id": "676477a23a379cdda443f577",
-      "id": "hf-internal-testing/transformers_circleci_workflow_runs",
-      "author": "hf-internal-testing",
-      "disabled": false,
-      "gated": false,
-      "lastModified": "2024-12-20T10:39:59.000Z",
-      "likes": 0,
-      "private": false,
-      "sha": "5c1075ceb3ee461764056c7b6d3eee9944e2fcca",
-      "downloads": 194883,
-      "tags": [
-        "region:us"
-      ],
-      "createdAt": "2024-12-19T19:44:34.000Z",
-      "key": ""
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2024-12-20T10:39:59.000Z",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
     "unique_id": "hf_ds_6785649a41a64e1582b8bb05",
     "schema_version": "1.0",
     "name": "Benjy/typed_digital_signatures",
     "description": "\n\t\n\t\t\n\t\tTyped Digital Signatures Dataset\n\t\n\nThis comprehensive dataset contains synthetic digital signatures rendered across 30 different Google Fonts, specifically selected for their handwriting and signature-style characteristics. Each font contributes unique stylistic elements, making this dataset ideal for robust signature analysis and font recognition tasks.\n\n\t\n\t\t\n\t\tDataset Overview\n\t\n\n\nTotal Fonts: 30 different Google Fonts\nImages per Font: 3,000 signatures\nTotal Dataset Size: ~90,000… See the full description on the dataset page: https://huggingface.co/datasets/Benjy/typed_digital_signatures.",
-    "size": "657910",
+    "size": "615996",
     "source_url": "https://huggingface.co/datasets/Benjy/typed_digital_signatures",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2516,7 +2524,7 @@
       "private": false,
       "sha": "b2b7e3766c7b1a39430d44b9dbb96e915c819332",
       "description": "\n\t\n\t\t\n\t\tTyped Digital Signatures Dataset\n\t\n\nThis comprehensive dataset contains synthetic digital signatures rendered across 30 different Google Fonts, specifically selected for their handwriting and signature-style characteristics. Each font contributes unique stylistic elements, making this dataset ideal for robust signature analysis and font recognition tasks.\n\n\t\n\t\t\n\t\tDataset Overview\n\t\n\n\nTotal Fonts: 30 different Google Fonts\nImages per Font: 3,000 signatures\nTotal Dataset Size: ~90,000… See the full description on the dataset page: https://huggingface.co/datasets/Benjy/typed_digital_signatures.",
-      "downloads": 657910,
+      "downloads": 615996,
       "tags": [
         "task_categories:image-classification",
         "task_categories:zero-shot-image-classification",
@@ -2536,7 +2544,7 @@
       "createdAt": "2025-01-13T19:08:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-02-05T18:44:13.000Z",
     "links": {
       "related_models": [
@@ -2552,7 +2560,7 @@
     "schema_version": "1.0",
     "name": "agents-course/course-images",
     "description": "No description available",
-    "size": "221300",
+    "size": "218067",
     "source_url": "https://huggingface.co/datasets/agents-course/course-images",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2567,7 +2575,7 @@
       "likes": 21,
       "private": false,
       "sha": "d500ca088f407051ab7a1ef0789bdee1d2d01a3f",
-      "downloads": 221300,
+      "downloads": 218067,
       "tags": [
         "size_categories:n<1K",
         "format:imagefolder",
@@ -2579,7 +2587,7 @@
       "createdAt": "2025-01-23T14:44:28.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-06-20T09:11:00.000Z",
     "links": {
       "related_models": [],
@@ -2593,7 +2601,7 @@
     "schema_version": "1.0",
     "name": "IPEC-COMMUNITY/bridge_orig_lerobot",
     "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"widowx\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1893026,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot.",
-    "size": "733936",
+    "size": "734003",
     "source_url": "https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2609,7 +2617,7 @@
       "private": false,
       "sha": "0e9d76d07e9df3ea3eba257b2520d4913833fad2",
       "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"widowx\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1893026,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot.",
-      "downloads": 733936,
+      "downloads": 734003,
       "tags": [
         "task_categories:robotics",
         "license:apache-2.0",
@@ -2624,7 +2632,7 @@
       "createdAt": "2025-02-22T11:43:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-02-23T06:25:52.000Z",
     "links": {
       "related_models": [
@@ -2636,39 +2644,227 @@
     }
   },
   {
-    "unique_id": "hf_ds_67cac93b5877d9c876a84572",
+    "unique_id": "hf_ds_67cac990bdf9000d16109b38",
     "schema_version": "1.0",
-    "name": "jobs-git/Zyda-2",
-    "description": "\n\t\n\t\t\n\t\tZyda-2\n\t\n\n\n\nZyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering. Zyda-2 comprises diverse sources of web data, highly educational content, math, code, and scientific papers.\nTo construct Zyda-2, we took the best open-source datasets available: Zyda, FineWeb, DCLM, and Dolma. Models trained on Zyda-2 significantly outperform identical models trained on the… See the full description on the dataset page: https://huggingface.co/datasets/jobs-git/Zyda-2.",
-    "size": "179337",
-    "source_url": "https://huggingface.co/datasets/jobs-git/Zyda-2",
+    "name": "jobs-git/HPLT2.0_cleaned",
+    "description": "This is a large-scale collection of web-crawled documents in 191 world languages, produced by the HPLT project. \nThe source of the data is mostly Internet Archive with some additions from Common Crawl.\nFor a detailed description of the dataset, please refer to https://hplt-project.org/datasets/v2.0\nThe Cleaned variant of HPLT Datasets v2.0\nThis is the cleaned variant of the HPLT Datasets v2.0 converted to the Parquet format semi-automatically when being uploaded here. \nThe original JSONL files… See the full description on the dataset page: https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned.",
+    "size": "180997",
+    "source_url": "https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
     "category": "dataset",
     "raw_payload": {
-      "_id": "67cac93b5877d9c876a84572",
-      "id": "jobs-git/Zyda-2",
+      "_id": "67cac990bdf9000d16109b38",
+      "id": "jobs-git/HPLT2.0_cleaned",
       "author": "jobs-git",
       "disabled": false,
       "gated": false,
-      "lastModified": "2025-03-07T10:23:56.000Z",
-      "likes": 1,
+      "lastModified": "2025-03-07T10:25:22.000Z",
+      "likes": 0,
       "private": false,
-      "sha": "466f4787f2b7e6c2b2de64346d65a6a1d8b0e3fc",
-      "description": "\n\t\n\t\t\n\t\tZyda-2\n\t\n\n\n\nZyda-2 is a 5 trillion token language modeling dataset created by collecting open and high quality datasets and combining them and cross-deduplication and model-based quality filtering. Zyda-2 comprises diverse sources of web data, highly educational content, math, code, and scientific papers.\nTo construct Zyda-2, we took the best open-source datasets available: Zyda, FineWeb, DCLM, and Dolma. Models trained on Zyda-2 significantly outperform identical models trained on the… See the full description on the dataset page: https://huggingface.co/datasets/jobs-git/Zyda-2.",
-      "downloads": 179337,
+      "sha": "66fe8f0134f3a854556184697e4d1de959e70965",
+      "description": "This is a large-scale collection of web-crawled documents in 191 world languages, produced by the HPLT project. \nThe source of the data is mostly Internet Archive with some additions from Common Crawl.\nFor a detailed description of the dataset, please refer to https://hplt-project.org/datasets/v2.0\nThe Cleaned variant of HPLT Datasets v2.0\nThis is the cleaned variant of the HPLT Datasets v2.0 converted to the Parquet format semi-automatically when being uploaded here. \nThe original JSONL files… See the full description on the dataset page: https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned.",
+      "downloads": 180997,
       "tags": [
+        "task_categories:fill-mask",
         "task_categories:text-generation",
+        "task_ids:language-modeling",
+        "multilinguality:multilingual",
+        "language:ace",
+        "language:af",
+        "language:als",
+        "language:am",
+        "language:ar",
+        "language:as",
+        "language:ast",
+        "language:awa",
+        "language:ayr",
+        "language:azb",
+        "language:azj",
+        "language:ba",
+        "language:bm",
+        "language:ban",
+        "language:be",
+        "language:bem",
+        "language:bn",
+        "language:bho",
+        "language:bjn",
+        "language:bo",
+        "language:bs",
+        "language:bug",
+        "language:bg",
+        "language:ca",
+        "language:ceb",
+        "language:cs",
+        "language:cjk",
+        "language:ckb",
+        "language:crh",
+        "language:cy",
+        "language:da",
+        "language:de",
+        "language:dik",
+        "language:dyu",
+        "language:dz",
+        "language:el",
         "language:en",
-        "license:odc-by",
+        "language:eo",
+        "language:et",
+        "language:eu",
+        "language:ee",
+        "language:fo",
+        "language:fj",
+        "language:fi",
+        "language:fon",
+        "language:fr",
+        "language:fur",
+        "language:fuv",
+        "language:gaz",
+        "language:gd",
+        "language:ga",
+        "language:gl",
+        "language:gn",
+        "language:gu",
+        "language:ht",
+        "language:ha",
+        "language:he",
+        "language:hi",
+        "language:hne",
+        "language:hr",
+        "language:hu",
+        "language:hy",
+        "language:ig",
+        "language:ilo",
+        "language:id",
+        "language:is",
+        "language:it",
+        "language:jv",
+        "language:ja",
+        "language:kab",
+        "language:kac",
+        "language:kam",
+        "language:kn",
+        "language:ks",
+        "language:ka",
+        "language:kk",
+        "language:kbp",
+        "language:kea",
+        "language:khk",
+        "language:km",
+        "language:ki",
+        "language:rw",
+        "language:ky",
+        "language:kmb",
+        "language:kmr",
+        "language:knc",
+        "language:kg",
+        "language:ko",
+        "language:lo",
+        "language:lij",
+        "language:li",
+        "language:ln",
+        "language:lt",
+        "language:lmo",
+        "language:ltg",
+        "language:lb",
+        "language:lua",
+        "language:lg",
+        "language:luo",
+        "language:lus",
+        "language:lvs",
+        "language:mag",
+        "language:mai",
+        "language:ml",
+        "language:mr",
+        "language:min",
+        "language:mk",
+        "language:mt",
+        "language:mni",
+        "language:mos",
+        "language:mi",
+        "language:my",
+        "language:nl",
+        "language:nn",
+        "language:nb",
+        "language:npi",
+        "language:nso",
+        "language:nus",
+        "language:ny",
+        "language:oc",
+        "language:ory",
+        "language:pag",
+        "language:pa",
+        "language:pap",
+        "language:pbt",
+        "language:pes",
+        "language:plt",
+        "language:pl",
+        "language:pt",
+        "language:prs",
+        "language:quy",
+        "language:ro",
+        "language:rn",
+        "language:ru",
+        "language:sg",
+        "language:sa",
+        "language:sat",
+        "language:scn",
+        "language:shn",
+        "language:si",
+        "language:sk",
+        "language:sl",
+        "language:sm",
+        "language:sn",
+        "language:sd",
+        "language:so",
+        "language:st",
+        "language:es",
+        "language:sc",
+        "language:sr",
+        "language:ss",
+        "language:su",
+        "language:sv",
+        "language:swh",
+        "language:szl",
+        "language:ta",
+        "language:taq",
+        "language:tt",
+        "language:te",
+        "language:tg",
+        "language:tl",
+        "language:th",
+        "language:ti",
+        "language:tpi",
+        "language:tn",
+        "language:ts",
+        "language:tk",
+        "language:tum",
+        "language:tr",
+        "language:tw",
+        "language:ug",
+        "language:uk",
+        "language:umb",
+        "language:ur",
+        "language:uzn",
+        "language:vec",
+        "language:vi",
+        "language:war",
+        "language:wo",
+        "language:xh",
+        "language:ydd",
+        "language:yo",
+        "language:yue",
+        "language:zh",
+        "language:zsm",
+        "language:zu",
+        "license:cc0-1.0",
         "size_categories:n>1T",
         "region:us"
       ],
-      "createdAt": "2025-03-07T10:23:55.000Z",
+      "createdAt": "2025-03-07T10:25:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2025-03-07T10:23:56.000Z",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2025-03-07T10:25:22.000Z",
     "links": {
       "related_models": [
         "datasets/jobs-git"
@@ -2683,7 +2879,7 @@
     "schema_version": "1.0",
     "name": "cadene/droid_1.0.1",
     "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95600,\n    \"total_frames\": 27612581,\n    \"total_tasks\": 0,\n    \"total_videos\": 286800,\n    \"total_chunks\": 95,\n    \"chunks_size\": 1000,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95600\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/droid_1.0.1.",
-    "size": "261086",
+    "size": "256705",
     "source_url": "https://huggingface.co/datasets/cadene/droid_1.0.1",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2699,7 +2895,7 @@
       "private": false,
       "sha": "56b622ac23335c2bb5909e1e3c72416033c65acf",
       "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95600,\n    \"total_frames\": 27612581,\n    \"total_tasks\": 0,\n    \"total_videos\": 286800,\n    \"total_chunks\": 95,\n    \"chunks_size\": 1000,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95600\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/droid_1.0.1.",
-      "downloads": 261086,
+      "downloads": 256705,
       "tags": [
         "task_categories:robotics",
         "license:apache-2.0",
@@ -2709,7 +2905,7 @@
       "createdAt": "2025-03-17T13:55:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-03-20T13:14:51.000Z",
     "links": {
       "related_models": [
@@ -2725,7 +2921,7 @@
     "schema_version": "1.0",
     "name": "nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim",
     "description": "\n\t\n\t\t\n\t\tPhysicalAI-Robotics-GR00T-X-Embodiment-Sim\n\t\n\n\nGithub Repo: Isaac GR00T N1\nWe provide a set of datasets used for post-training of GR00T N1. Each dataset is a collection of trajectories from different robot embodiments and tasks.\n\n\t\n\t\t\n\t\n\t\n\t\tCross-embodied bimanual manipulation: 9k trajectories\n\t\n\n\n\t\n\t\t\nDataset Name\n#trajectories\n\n\n\t\t\nbimanual_panda_gripper.Threading\n1000\n\n\nbimanual_panda_hand.LiftTray\n1000\n\n\nbimanual_panda_gripper.ThreePieceAssembly\n1000… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim.",
-    "size": "431042",
+    "size": "422439",
     "source_url": "https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2741,7 +2937,7 @@
       "private": false,
       "sha": "ea7ac0b68f87da62f1e726771bba0fe74300802f",
       "description": "\n\t\n\t\t\n\t\tPhysicalAI-Robotics-GR00T-X-Embodiment-Sim\n\t\n\n\nGithub Repo: Isaac GR00T N1\nWe provide a set of datasets used for post-training of GR00T N1. Each dataset is a collection of trajectories from different robot embodiments and tasks.\n\n\t\n\t\t\n\t\n\t\n\t\tCross-embodied bimanual manipulation: 9k trajectories\n\t\n\n\n\t\n\t\t\nDataset Name\n#trajectories\n\n\n\t\t\nbimanual_panda_gripper.Threading\n1000\n\n\nbimanual_panda_hand.LiftTray\n1000\n\n\nbimanual_panda_gripper.ThreePieceAssembly\n1000… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim.",
-      "downloads": 431042,
+      "downloads": 422439,
       "tags": [
         "task_categories:robotics",
         "license:cc-by-4.0",
@@ -2751,7 +2947,7 @@
       "createdAt": "2025-03-18T13:59:39.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-05T23:36:40.000Z",
     "links": {
       "related_models": [
@@ -2767,7 +2963,7 @@
     "schema_version": "1.0",
     "name": "tasl-lab/uniocc",
     "description": "\n\t\n\t\t\n\t\tUniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving\n\t\n\n\n\n\n\nPaper | Project Page | Code\n\n\n\nAutonomous Driving researchers, have you ever been bothered by the fact that popular datasets all have their different\nformats, and standardizing them is a pain? Have you ever been frustrated by the difficulty of just understanding\nthe file semantics? This challenge is even worse in the occupancy domain. But, UniOcc is here to help.\n\nUniOcc is a unified… See the full description on the dataset page: https://huggingface.co/datasets/tasl-lab/uniocc.",
-    "size": "287520",
+    "size": "277771",
     "source_url": "https://huggingface.co/datasets/tasl-lab/uniocc",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2783,7 +2979,7 @@
       "private": false,
       "sha": "e81775b36e376f591a1145ca054b72fd541a67eb",
       "description": "\n\t\n\t\t\n\t\tUniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving\n\t\n\n\n\n\n\nPaper | Project Page | Code\n\n\n\nAutonomous Driving researchers, have you ever been bothered by the fact that popular datasets all have their different\nformats, and standardizing them is a pain? Have you ever been frustrated by the difficulty of just understanding\nthe file semantics? This challenge is even worse in the occupancy domain. But, UniOcc is here to help.\n\nUniOcc is a unified… See the full description on the dataset page: https://huggingface.co/datasets/tasl-lab/uniocc.",
-      "downloads": 287520,
+      "downloads": 277771,
       "tags": [
         "task_categories:image-to-3d",
         "license:mit",
@@ -2806,7 +3002,7 @@
       "createdAt": "2025-03-27T17:49:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-08-19T17:57:11.000Z",
     "links": {
       "related_models": [
@@ -2822,7 +3018,7 @@
     "schema_version": "1.0",
     "name": "updatebao/geonamebase_1",
     "description": "No description available",
-    "size": "397401",
+    "size": "365508",
     "source_url": "https://huggingface.co/datasets/updatebao/geonamebase_1",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2837,7 +3033,7 @@
       "likes": 7,
       "private": false,
       "sha": "890fdab12391217536f563b7d4a9f728dce16b1d",
-      "downloads": 397401,
+      "downloads": 365508,
       "tags": [
         "modality:image",
         "region:us"
@@ -2845,7 +3041,7 @@
       "createdAt": "2025-04-01T00:57:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-06-15T10:55:41.000Z",
     "links": {
       "related_models": [],
@@ -2859,7 +3055,7 @@
     "schema_version": "1.0",
     "name": "SWE-bench/SWE-bench_Multilingual",
     "description": "No description available",
-    "size": "669998",
+    "size": "620458",
     "source_url": "https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2874,7 +3070,7 @@
       "likes": 17,
       "private": false,
       "sha": "2b7aced941b4873e9cad3e76abbae93f481d1beb",
-      "downloads": 669998,
+      "downloads": 620458,
       "tags": [
         "language:en",
         "license:mit",
@@ -2890,7 +3086,7 @@
       "createdAt": "2025-04-29T00:37:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-08-26T00:42:28.000Z",
     "links": {
       "related_models": [],
@@ -2904,7 +3100,7 @@
     "schema_version": "1.0",
     "name": "ieasybooks-org/prophet-mosque-library",
     "description": "\n\t\n\t\t\n\t\tProphet's Mosque Library\n\t\n\n\n\t\n\t\t\n\t\t📖 Overview\n\t\n\nProphet’s Mosque Library is one of the primary resources for Islamic books. It hosts more than 48,000 PDF books across over 70 categories.\nIn this dataset, we processed the original PDF files using Google Document AI APIs and extracted their contents into two additional formats: TXT and DOCX.\n\n\t\n\t\t\n\t\t📊 Dataset Contents\n\t\n\nThe dataset includes 70,884 PDF files (spanning 23,494,042 pages) representing 48,717 Islamic books. Each book is… See the full description on the dataset page: https://huggingface.co/datasets/ieasybooks-org/prophet-mosque-library.",
-    "size": "243767",
+    "size": "244015",
     "source_url": "https://huggingface.co/datasets/ieasybooks-org/prophet-mosque-library",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2920,7 +3116,7 @@
       "private": false,
       "sha": "fc5372ff6258e20d51c4ddf0b4326695675ef12c",
       "description": "\n\t\n\t\t\n\t\tProphet's Mosque Library\n\t\n\n\n\t\n\t\t\n\t\t📖 Overview\n\t\n\nProphet’s Mosque Library is one of the primary resources for Islamic books. It hosts more than 48,000 PDF books across over 70 categories.\nIn this dataset, we processed the original PDF files using Google Document AI APIs and extracted their contents into two additional formats: TXT and DOCX.\n\n\t\n\t\t\n\t\t📊 Dataset Contents\n\t\n\nThe dataset includes 70,884 PDF files (spanning 23,494,042 pages) representing 48,717 Islamic books. Each book is… See the full description on the dataset page: https://huggingface.co/datasets/ieasybooks-org/prophet-mosque-library.",
-      "downloads": 243767,
+      "downloads": 244015,
       "tags": [
         "task_categories:image-to-text",
         "language:ar",
@@ -2937,7 +3133,7 @@
       "createdAt": "2025-05-04T17:08:05.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-05-14T18:47:52.000Z",
     "links": {
       "related_models": [
@@ -2953,7 +3149,7 @@
     "schema_version": "1.0",
     "name": "daniilakk/nbchr_pdfs",
     "description": "No description available",
-    "size": "424479",
+    "size": "435185",
     "source_url": "https://huggingface.co/datasets/daniilakk/nbchr_pdfs",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -2968,7 +3164,7 @@
       "likes": 16,
       "private": false,
       "sha": "2f410c2bae0caccd5297d3492d663bea4bbf2bda",
-      "downloads": 424479,
+      "downloads": 435185,
       "tags": [
         "license:unknown",
         "modality:document",
@@ -2977,7 +3173,7 @@
       "createdAt": "2025-05-24T09:47:35.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-05-25T05:00:50.000Z",
     "links": {
       "related_models": [],
@@ -2991,7 +3187,7 @@
     "schema_version": "1.0",
     "name": "xlangai/ubuntu_osworld_file_cache",
     "description": "\n\t\n\t\t\n\t\tOSWorld File Cache\n\t\n\nThis repository serves as a file cache for the OSWorld project, providing reliable and fast access to evaluation files that were previously hosted on Google Drive.\n\n\t\n\t\t\n\t\tOverview\n\t\n\nOSWorld is a scalable, real computer environment for multimodal agents, supporting task setup, execution-based evaluation, and interactive learning across various operating systems and applications. This cache repository ensures that all evaluation files are consistently accessible… See the full description on the dataset page: https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache.",
-    "size": "1283918",
+    "size": "1279209",
     "source_url": "https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3007,7 +3203,7 @@
       "private": false,
       "sha": "711e0811642364e7aa8f10a8918367d0b626d578",
       "description": "\n\t\n\t\t\n\t\tOSWorld File Cache\n\t\n\nThis repository serves as a file cache for the OSWorld project, providing reliable and fast access to evaluation files that were previously hosted on Google Drive.\n\n\t\n\t\t\n\t\tOverview\n\t\n\nOSWorld is a scalable, real computer environment for multimodal agents, supporting task setup, execution-based evaluation, and interactive learning across various operating systems and applications. This cache repository ensures that all evaluation files are consistently accessible… See the full description on the dataset page: https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache.",
-      "downloads": 1283918,
+      "downloads": 1279209,
       "tags": [
         "license:apache-2.0",
         "arxiv:2404.07972",
@@ -3016,7 +3212,7 @@
       "createdAt": "2025-05-27T15:19:04.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-05-07T11:32:14.000Z",
     "links": {
       "related_models": [
@@ -3032,7 +3228,7 @@
     "schema_version": "1.0",
     "name": "world-igr-plum/regions",
     "description": "No description available",
-    "size": "387350",
+    "size": "367638",
     "source_url": "https://huggingface.co/datasets/world-igr-plum/regions",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3047,7 +3243,7 @@
       "likes": 23,
       "private": false,
       "sha": "f15723da1af8e80ab4eeff9c8d92d030875e981e",
-      "downloads": 387350,
+      "downloads": 367638,
       "tags": [
         "license:mit",
         "region:us"
@@ -3055,7 +3251,7 @@
       "createdAt": "2025-06-16T13:17:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-06-17T14:48:51.000Z",
     "links": {
       "related_models": [],
@@ -3069,7 +3265,7 @@
     "schema_version": "1.0",
     "name": "EssentialAI/essential-web-v1.0",
     "description": "\n\t\n\t\t\n\t\t🌐 Essential-Web: Complete 24-Trillion Token Dataset\n\t\n\n🏆 Website  |  🖥️ Code  |  📖 Paper | ☁️ AWS\n\n\t\n\t\t\n\t\t📋 Dataset Description\n\t\n\nEssential-Web is a 24-trillion-token web dataset with document-level metadata designed for flexible dataset curation. The dataset provides metadata including subject matter classification, web page type, content complexity, and document quality scores for each of the 23.6 billion documents.\nResearchers can filter and curate specialized datasets using… See the full description on the dataset page: https://huggingface.co/datasets/EssentialAI/essential-web-v1.0.",
-    "size": "300156",
+    "size": "292874",
     "source_url": "https://huggingface.co/datasets/EssentialAI/essential-web-v1.0",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3085,7 +3281,7 @@
       "private": false,
       "sha": "ce4eccc7e9604667b6d7f32cb6274b8b41f3113d",
       "description": "\n\t\n\t\t\n\t\t🌐 Essential-Web: Complete 24-Trillion Token Dataset\n\t\n\n🏆 Website  |  🖥️ Code  |  📖 Paper | ☁️ AWS\n\n\t\n\t\t\n\t\t📋 Dataset Description\n\t\n\nEssential-Web is a 24-trillion-token web dataset with document-level metadata designed for flexible dataset curation. The dataset provides metadata including subject matter classification, web page type, content complexity, and document quality scores for each of the 23.6 billion documents.\nResearchers can filter and curate specialized datasets using… See the full description on the dataset page: https://huggingface.co/datasets/EssentialAI/essential-web-v1.0.",
-      "downloads": 300156,
+      "downloads": 292874,
       "tags": [
         "license:odc-by",
         "size_categories:10B<n<100B",
@@ -3095,7 +3291,7 @@
       "createdAt": "2025-06-17T20:06:27.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-10-02T20:58:14.000Z",
     "links": {
       "related_models": [
@@ -3107,94 +3303,85 @@
     }
   },
   {
-    "unique_id": "hf_ds_689042da4516ba24837c50cd",
+    "unique_id": "hf_ds_688209a61f4d0375592760e0",
     "schema_version": "1.0",
-    "name": "KAKA22/SpreadsheetBench",
-    "description": "\n\t\n\t\t\n\t\tSpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation\n\t\n\n| Paper | Github | Homepage |\nWe introduce SpreadsheetBench, a challenging spreadsheet manipulation benchmark exclusively derived from real-world scenarios, designed \nto immerse current large language models (LLMs) in the actual workflow of spreadsheet users. Unlike existing benchmarks that rely on \nsynthesized queries and simplified spreadsheet files, SpreadsheetBench is built from 912 real questions gathered… See the full description on the dataset page: https://huggingface.co/datasets/KAKA22/SpreadsheetBench.",
-    "size": "166729",
-    "source_url": "https://huggingface.co/datasets/KAKA22/SpreadsheetBench",
+    "name": "Helsinki-NLP/fineweb-edu-translated",
+    "description": "\n\t\n\t\t\n\t\tHelsinki-NLP/fineweb-edu-translated\n\t\n\nfineweb-edu-tanslated is a collection of automatically translated documents from fineweb-edu.\nTranslations are based on OPUS-MT and HPLT-MT models.\nThe data in v1.0 covers 36,704,000 documents with over 28 billion space-searated tokens of English data translated into 36 languages.\nThe total v1.0 data set includes over 960 billion tokens and the translated documents are aligned across all languages.\nIn the v1.1 release, additional translations are… See the full description on the dataset page: https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated.",
+    "size": "156767",
+    "source_url": "https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
     "category": "dataset",
     "raw_payload": {
-      "_id": "689042da4516ba24837c50cd",
-      "id": "KAKA22/SpreadsheetBench",
-      "author": "KAKA22",
+      "_id": "688209a61f4d0375592760e0",
+      "id": "Helsinki-NLP/fineweb-edu-translated",
+      "author": "Helsinki-NLP",
       "disabled": false,
       "gated": false,
-      "lastModified": "2025-12-03T05:01:26.000Z",
-      "likes": 13,
+      "lastModified": "2026-04-22T12:12:47.000Z",
+      "likes": 16,
       "private": false,
-      "sha": "ab0b742b0fc95b946f212d80ac7771b5531272e4",
-      "description": "\n\t\n\t\t\n\t\tSpreadsheetBench: Towards Challenging Real World Spreadsheet Manipulation\n\t\n\n| Paper | Github | Homepage |\nWe introduce SpreadsheetBench, a challenging spreadsheet manipulation benchmark exclusively derived from real-world scenarios, designed \nto immerse current large language models (LLMs) in the actual workflow of spreadsheet users. Unlike existing benchmarks that rely on \nsynthesized queries and simplified spreadsheet files, SpreadsheetBench is built from 912 real questions gathered… See the full description on the dataset page: https://huggingface.co/datasets/KAKA22/SpreadsheetBench.",
-      "downloads": 166729,
+      "sha": "d82b075a4a8152727b232876aade2ade003e12b9",
+      "description": "\n\t\n\t\t\n\t\tHelsinki-NLP/fineweb-edu-translated\n\t\n\nfineweb-edu-tanslated is a collection of automatically translated documents from fineweb-edu.\nTranslations are based on OPUS-MT and HPLT-MT models.\nThe data in v1.0 covers 36,704,000 documents with over 28 billion space-searated tokens of English data translated into 36 languages.\nThe total v1.0 data set includes over 960 billion tokens and the translated documents are aligned across all languages.\nIn the v1.1 release, additional translations are… See the full description on the dataset page: https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated.",
+      "downloads": 156767,
       "tags": [
-        "license:cc-by-sa-4.0",
-        "arxiv:2406.14991",
+        "task_categories:translation",
+        "task_categories:text-generation",
+        "language:bos",
+        "language:bul",
+        "language:cat",
+        "language:ces",
+        "language:dan",
+        "language:deu",
+        "language:ell",
+        "language:eng",
+        "language:est",
+        "language:eus",
+        "language:fin",
+        "language:fra",
+        "language:gle",
+        "language:glg",
+        "language:hrv",
+        "language:hun",
+        "language:isl",
+        "language:ita",
+        "language:kat",
+        "language:lav",
+        "language:lit",
+        "language:mkd",
+        "language:mlt",
+        "language:nld",
+        "language:nno",
+        "language:nob",
+        "language:pol",
+        "language:por",
+        "language:ron",
+        "language:slk",
+        "language:slv",
+        "language:spa",
+        "language:sqi",
+        "language:srp",
+        "language:swe",
+        "language:tur",
+        "language:ukr",
+        "license:odc-by",
+        "size_categories:1B<n<10B",
+        "format:parquet",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:polars",
+        "library:mlcroissant",
         "region:us"
       ],
-      "createdAt": "2025-08-04T05:19:22.000Z",
+      "createdAt": "2025-07-24T10:23:34.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2025-12-03T05:01:26.000Z",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2026-04-22T12:12:47.000Z",
     "links": {
       "related_models": [
-        "datasets/KAKA22"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_ds_68a55284aaea0407e031a0ad",
-    "schema_version": "1.0",
-    "name": "OpenSQZ/AutoMathText-V2",
-    "description": "\n\t\n\t\t\n\t\n\t\n\t\t🚀 AutoMathText-V2: A 2.46 Trillion Token AI-Curated STEM Pretraining Dataset\n\t\n\n\n&nbsp;\n\n\n \n🎉 AutoMathText-v2 has surpassed 1.5 million downloads!   We'd love to know how you're using it. Please take 1 minute to fill out our use case survey.   Your feedback will directly shape the future roadmap of this dataset.👉 Share your use case here\n📊 AutoMathText-V2 consists of 2.46 trillion tokens of high-quality, deduplicated text spanning web content, mathematics, code, reasoning, and… See the full description on the dataset page: https://huggingface.co/datasets/OpenSQZ/AutoMathText-V2.",
-    "size": "182169",
-    "source_url": "https://huggingface.co/datasets/OpenSQZ/AutoMathText-V2",
-    "source_name": "HuggingFace Datasets",
-    "source_type": "api",
-    "category": "dataset",
-    "raw_payload": {
-      "_id": "68a55284aaea0407e031a0ad",
-      "id": "OpenSQZ/AutoMathText-V2",
-      "author": "OpenSQZ",
-      "disabled": false,
-      "gated": false,
-      "lastModified": "2026-06-09T07:00:31.000Z",
-      "likes": 78,
-      "private": false,
-      "sha": "2a8d19c8edff7eeab35ffaa36f7845e86e2b3417",
-      "description": "\n\t\n\t\t\n\t\n\t\n\t\t🚀 AutoMathText-V2: A 2.46 Trillion Token AI-Curated STEM Pretraining Dataset\n\t\n\n\n&nbsp;\n\n\n \n🎉 AutoMathText-v2 has surpassed 1.5 million downloads!   We'd love to know how you're using it. Please take 1 minute to fill out our use case survey.   Your feedback will directly shape the future roadmap of this dataset.👉 Share your use case here\n📊 AutoMathText-V2 consists of 2.46 trillion tokens of high-quality, deduplicated text spanning web content, mathematics, code, reasoning, and… See the full description on the dataset page: https://huggingface.co/datasets/OpenSQZ/AutoMathText-V2.",
-      "downloads": 182169,
-      "tags": [
-        "task_categories:text-generation",
-        "task_categories:question-answering",
-        "language:en",
-        "language:zh",
-        "size_categories:100M<n<1B",
-        "modality:tabular",
-        "modality:text",
-        "arxiv:2402.07625",
-        "region:us",
-        "LLM",
-        "pretraining",
-        "finetuning",
-        "midtraining",
-        "reasoning",
-        "STEM",
-        "math"
-      ],
-      "createdAt": "2025-08-20T04:43:48.000Z",
-      "key": ""
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2026-06-09T07:00:31.000Z",
-    "links": {
-      "related_models": [
-        "datasets/OpenSQZ"
+        "datasets/Helsinki-NLP"
       ],
       "related_papers": [],
       "related_datasets": [],
@@ -3238,7 +3425,7 @@
       "createdAt": "2025-08-27T12:47:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-08-28T13:02:57.000Z",
     "links": {
       "related_models": [
@@ -3254,7 +3441,7 @@
     "schema_version": "1.0",
     "name": "ryanmarten/OpenThoughts-1k-sample",
     "description": "\n    \n\n\n\n[!NOTE]\nWe have released a paper for OpenThoughts! See our paper here.\n\n\n \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-Thoughts-1k-sample\n\t\n\nThis is a 1k sample of the OpenThoughts-114k dataset.\nOpen synthetic reasoning dataset with high-quality examples covering math, science, code, and puzzles!\nInspect the content with rich formatting with Curator Viewer.\n\n\t\n\t\t\n\t\tAvailable Subsets\n\t\n\ndefault subset containing ready-to-train data used to finetune the OpenThinker-7B and OpenThinker-32B models:\nds =… See the full description on the dataset page: https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample.",
-    "size": "935911",
+    "size": "996868",
     "source_url": "https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3266,11 +3453,11 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-08-31T00:33:15.000Z",
-      "likes": 26,
+      "likes": 27,
       "private": false,
       "sha": "a82400884621626d41bef89b7604f8054e7e00e0",
       "description": "\n    \n\n\n\n[!NOTE]\nWe have released a paper for OpenThoughts! See our paper here.\n\n\n \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tOpen-Thoughts-1k-sample\n\t\n\nThis is a 1k sample of the OpenThoughts-114k dataset.\nOpen synthetic reasoning dataset with high-quality examples covering math, science, code, and puzzles!\nInspect the content with rich formatting with Curator Viewer.\n\n\t\n\t\t\n\t\tAvailable Subsets\n\t\n\ndefault subset containing ready-to-train data used to finetune the OpenThinker-7B and OpenThinker-32B models:\nds =… See the full description on the dataset page: https://huggingface.co/datasets/ryanmarten/OpenThoughts-1k-sample.",
-      "downloads": 935911,
+      "downloads": 996868,
       "tags": [
         "size_categories:1K<n<10K",
         "format:parquet",
@@ -3285,7 +3472,7 @@
       "createdAt": "2025-08-30T23:58:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-08-31T00:33:15.000Z",
     "links": {
       "related_models": [
@@ -3297,11 +3484,60 @@
     }
   },
   {
+    "unique_id": "hf_ds_68c6d459d95ef41da81c9b41",
+    "schema_version": "1.0",
+    "name": "mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M",
+    "description": "\n\t\n\t\t\n\t\t🚀 LLaVA-One-Vision-1.5-Mid-Training-85M Dataset is being uploaded 🚀\n\t\n\n\n\t\n\t\t\n\t\tUpload Status\n\t\n\n\nAll Completed: ImageNet-21k、LAIONCN、DataComp-1B、Zero250M、COYO700M、SA-1B、MINT、Obelics\n\n\n\t\n\t\t\n\t\t📜 Cite\n\t\n\nIf you find LLaVA-One-Vision-1.5-Mid-Training-85M useful in your research, please consider to cite the following related papers:\n@misc{an2025llavaonevision15fullyopenframework,\n      title={LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training}… See the full description on the dataset page: https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M.",
+    "size": "227032",
+    "source_url": "https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M",
+    "source_name": "HuggingFace Datasets",
+    "source_type": "api",
+    "category": "dataset",
+    "raw_payload": {
+      "_id": "68c6d459d95ef41da81c9b41",
+      "id": "mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M",
+      "author": "mvp-lab",
+      "disabled": false,
+      "gated": false,
+      "lastModified": "2025-11-24T06:32:02.000Z",
+      "likes": 71,
+      "private": false,
+      "sha": "c5218cad785eba7d218137e8ce4997bda568a050",
+      "description": "\n\t\n\t\t\n\t\t🚀 LLaVA-One-Vision-1.5-Mid-Training-85M Dataset is being uploaded 🚀\n\t\n\n\n\t\n\t\t\n\t\tUpload Status\n\t\n\n\nAll Completed: ImageNet-21k、LAIONCN、DataComp-1B、Zero250M、COYO700M、SA-1B、MINT、Obelics\n\n\n\t\n\t\t\n\t\t📜 Cite\n\t\n\nIf you find LLaVA-One-Vision-1.5-Mid-Training-85M useful in your research, please consider to cite the following related papers:\n@misc{an2025llavaonevision15fullyopenframework,\n      title={LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training}… See the full description on the dataset page: https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M.",
+      "downloads": 227032,
+      "tags": [
+        "license:apache-2.0",
+        "size_categories:10M<n<100M",
+        "format:parquet",
+        "modality:image",
+        "modality:text",
+        "library:datasets",
+        "library:dask",
+        "library:mlcroissant",
+        "library:polars",
+        "arxiv:2509.23661",
+        "region:us"
+      ],
+      "createdAt": "2025-09-14T14:42:33.000Z",
+      "key": ""
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2025-11-24T06:32:02.000Z",
+    "links": {
+      "related_models": [
+        "datasets/mvp-lab"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "hf_ds_68e91443c366e5879388a4d4",
     "schema_version": "1.0",
     "name": "vyokky/GUI-360",
     "description": "\n\t\n\t\t\n\t\tGUI-360°: A Comprehensive Dataset And Benchmark For Computer-Using Agents\n\t\n\nPaper | Code\nGUI-360° is a large-scale, comprehensive dataset and benchmark suite designed to advance Computer-Using Agents (CUAs). \n\n\t\n\t\t\n\t\t🎯 Key Features\n\t\n\n\n🔢 1.2M+ executed action steps across thousands of trajectories\n💼 Popular Windows office applications (Word, Excel, PowerPoint)\n📸 Full-resolution screenshots with accessibility metadata\n🎨 Multi-modal trajectories with reasoning traces\n✅ Both… See the full description on the dataset page: https://huggingface.co/datasets/vyokky/GUI-360.",
-    "size": "349094",
+    "size": "349037",
     "source_url": "https://huggingface.co/datasets/vyokky/GUI-360",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3317,7 +3553,7 @@
       "private": false,
       "sha": "1c46362efaae836c601004e77b98a1aba89a530f",
       "description": "\n\t\n\t\t\n\t\tGUI-360°: A Comprehensive Dataset And Benchmark For Computer-Using Agents\n\t\n\nPaper | Code\nGUI-360° is a large-scale, comprehensive dataset and benchmark suite designed to advance Computer-Using Agents (CUAs). \n\n\t\n\t\t\n\t\t🎯 Key Features\n\t\n\n\n🔢 1.2M+ executed action steps across thousands of trajectories\n💼 Popular Windows office applications (Word, Excel, PowerPoint)\n📸 Full-resolution screenshots with accessibility metadata\n🎨 Multi-modal trajectories with reasoning traces\n✅ Both… See the full description on the dataset page: https://huggingface.co/datasets/vyokky/GUI-360.",
-      "downloads": 349094,
+      "downloads": 349037,
       "tags": [
         "task_categories:image-text-to-text",
         "license:mit",
@@ -3328,7 +3564,7 @@
       "createdAt": "2025-10-10T14:12:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-12-15T06:05:49.000Z",
     "links": {
       "related_models": [
@@ -3344,7 +3580,7 @@
     "schema_version": "1.0",
     "name": "jzr99/mesh4d_dataset",
     "description": "No description available",
-    "size": "183136",
+    "size": "183536",
     "source_url": "https://huggingface.co/datasets/jzr99/mesh4d_dataset",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3359,14 +3595,14 @@
       "likes": 0,
       "private": false,
       "sha": "b735f4b301e4466915235c735a6b7154b43cebaa",
-      "downloads": 183136,
+      "downloads": 183536,
       "tags": [
         "region:us"
       ],
       "createdAt": "2025-10-28T23:26:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-10-30T15:03:41.000Z",
     "links": {
       "related_models": [],
@@ -3380,7 +3616,7 @@
     "schema_version": "1.0",
     "name": "Chelsea707/arxiv-cs-2020-2025-pdfs",
     "description": "No description available",
-    "size": "419423",
+    "size": "439210",
     "source_url": "https://huggingface.co/datasets/Chelsea707/arxiv-cs-2020-2025-pdfs",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3395,14 +3631,14 @@
       "likes": 7,
       "private": false,
       "sha": "94aa2a47fe14d63c36d48e9932cccac925678cfd",
-      "downloads": 419423,
+      "downloads": 439210,
       "tags": [
         "region:us"
       ],
       "createdAt": "2025-12-16T15:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-12-23T09:04:38.000Z",
     "links": {
       "related_models": [],
@@ -3416,7 +3652,7 @@
     "schema_version": "1.0",
     "name": "permutans/arxiv-papers-by-subject",
     "description": "\n\t\n\t\t\n\t\tarXiv Papers by Subject\n\t\n\nA reorganised version of the nick007x/arxiv-papers dataset, partitioned by subject code, year, and month for efficient selective access.\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset contains metadata for over 2.5 million arXiv papers, organised into a hierarchical directory structure that allows users to download only the specific subjects and time periods they need, rather than the entire dataset.\n\n\t\n\t\t\n\t\tMotivation\n\t\n\nThe original nick007x/arxiv-papers… See the full description on the dataset page: https://huggingface.co/datasets/permutans/arxiv-papers-by-subject.",
-    "size": "438348",
+    "size": "424127",
     "source_url": "https://huggingface.co/datasets/permutans/arxiv-papers-by-subject",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3432,7 +3668,7 @@
       "private": false,
       "sha": "1bfcc055550b6f648c19946844ab0cab482da685",
       "description": "\n\t\n\t\t\n\t\tarXiv Papers by Subject\n\t\n\nA reorganised version of the nick007x/arxiv-papers dataset, partitioned by subject code, year, and month for efficient selective access.\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset contains metadata for over 2.5 million arXiv papers, organised into a hierarchical directory structure that allows users to download only the specific subjects and time periods they need, rather than the entire dataset.\n\n\t\n\t\t\n\t\tMotivation\n\t\n\nThe original nick007x/arxiv-papers… See the full description on the dataset page: https://huggingface.co/datasets/permutans/arxiv-papers-by-subject.",
-      "downloads": 438348,
+      "downloads": 424127,
       "tags": [
         "task_categories:text-generation",
         "task_categories:feature-extraction",
@@ -3450,7 +3686,7 @@
       "createdAt": "2025-12-20T22:29:02.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2025-12-21T14:22:17.000Z",
     "links": {
       "related_models": [
@@ -3466,7 +3702,7 @@
     "schema_version": "1.0",
     "name": "genrobot2025/10Kh-RealOmin-OpenData",
     "description": "\nBoasting over 13,000 hours of cumulative data and 5 million+ clips, it ranks as the largest open-source embodied intelligence dataset in the industry. \n\n\t\n\t\t\n\t\tUpdate Notes：Stage 3 data upload completed.\n\t\n\n\n13,000+ hours of pure dual-hand data with frame-level alignment latency < 1ms\nFull high-precision trajectory reconstruction, breaking the limit of superficial open source, fully ready-to-use\n3,000+ contributors and 10,000+ real household scenarios with exceptional diversity\nComprehensive… See the full description on the dataset page: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData.",
-    "size": "182937",
+    "size": "360071",
     "source_url": "https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3482,7 +3718,7 @@
       "private": false,
       "sha": "fcbc0d38550e134f273426aa7c9cc2b491270bc4",
       "description": "\nBoasting over 13,000 hours of cumulative data and 5 million+ clips, it ranks as the largest open-source embodied intelligence dataset in the industry. \n\n\t\n\t\t\n\t\tUpdate Notes：Stage 3 data upload completed.\n\t\n\n\n13,000+ hours of pure dual-hand data with frame-level alignment latency < 1ms\nFull high-precision trajectory reconstruction, breaking the limit of superficial open source, fully ready-to-use\n3,000+ contributors and 10,000+ real household scenarios with exceptional diversity\nComprehensive… See the full description on the dataset page: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData.",
-      "downloads": 182937,
+      "downloads": 360071,
       "tags": [
         "task_categories:robotics",
         "task_categories:reinforcement-learning",
@@ -3503,7 +3739,7 @@
       "createdAt": "2025-12-31T07:17:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-24T05:02:26.000Z",
     "links": {
       "related_models": [
@@ -3519,7 +3755,7 @@
     "schema_version": "1.0",
     "name": "Maynor996/upload2",
     "description": "No description available",
-    "size": "747394",
+    "size": "722879",
     "source_url": "https://huggingface.co/datasets/Maynor996/upload2",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3534,7 +3770,7 @@
       "likes": 23,
       "private": false,
       "sha": "dadfbd3480c820e935f9e1715fd4fc9a2694894b",
-      "downloads": 747394,
+      "downloads": 722879,
       "tags": [
         "size_categories:n<1K",
         "format:imagefolder",
@@ -3546,7 +3782,7 @@
       "createdAt": "2026-01-19T05:32:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-06-12T09:28:24.000Z",
     "links": {
       "related_models": [],
@@ -3560,7 +3796,7 @@
     "schema_version": "1.0",
     "name": "utter-project/EuroWeb-2512",
     "description": "\n\t\n\t\t\n\t\tEuroWeb-2512\n\t\n\nEuroWeb is a dataset of collecting multilingual web data from various sources. It was processed with standard practices and then classified with utter-project/EuroFilter-v1.\nFor more information read the EuroLLM-22B: Technical Report.\n\n\t\n\t\t\n\t\tCitation\n\t\n\n@misc{ramos2026eurollm22btechnicalreport,\n      title={EuroLLM-22B: Technical Report},\n      author={Miguel Moura Ramos and Duarte M. Alves and Hippolyte Gisserot-Boukhlef and João Alves and Pedro Henrique Martins and… See the full description on the dataset page: https://huggingface.co/datasets/utter-project/EuroWeb-2512.",
-    "size": "205385",
+    "size": "202551",
     "source_url": "https://huggingface.co/datasets/utter-project/EuroWeb-2512",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3576,7 +3812,7 @@
       "private": false,
       "sha": "5e1cee6d6d24ab72ebb80f71f23d48f45a7f275b",
       "description": "\n\t\n\t\t\n\t\tEuroWeb-2512\n\t\n\nEuroWeb is a dataset of collecting multilingual web data from various sources. It was processed with standard practices and then classified with utter-project/EuroFilter-v1.\nFor more information read the EuroLLM-22B: Technical Report.\n\n\t\n\t\t\n\t\tCitation\n\t\n\n@misc{ramos2026eurollm22btechnicalreport,\n      title={EuroLLM-22B: Technical Report},\n      author={Miguel Moura Ramos and Duarte M. Alves and Hippolyte Gisserot-Boukhlef and João Alves and Pedro Henrique Martins and… See the full description on the dataset page: https://huggingface.co/datasets/utter-project/EuroWeb-2512.",
-      "downloads": 205385,
+      "downloads": 202551,
       "tags": [
         "size_categories:1B<n<10B",
         "format:parquet",
@@ -3592,7 +3828,7 @@
       "createdAt": "2026-02-03T17:06:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-02-09T13:31:09.000Z",
     "links": {
       "related_models": [
@@ -3608,7 +3844,7 @@
     "schema_version": "1.0",
     "name": "Kthera/pesoz",
     "description": "No description available",
-    "size": "565076",
+    "size": "563333",
     "source_url": "https://huggingface.co/datasets/Kthera/pesoz",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3623,14 +3859,14 @@
       "likes": 19,
       "private": false,
       "sha": "12e716d69578d3c30335bd054417c37b2d9970d9",
-      "downloads": 565076,
+      "downloads": 563333,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-02-08T14:15:00.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-04T20:47:37.000Z",
     "links": {
       "related_models": [],
@@ -3644,7 +3880,7 @@
     "schema_version": "1.0",
     "name": "endomorphosis/common_crawl_meta_indexes",
     "description": "No description available",
-    "size": "183600",
+    "size": "183330",
     "source_url": "https://huggingface.co/datasets/endomorphosis/common_crawl_meta_indexes",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3659,14 +3895,14 @@
       "likes": 0,
       "private": false,
       "sha": "0cbe864b597e08b75d94258ee4f9339dd0d58a1a",
-      "downloads": 183600,
+      "downloads": 183330,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-02-15T01:47:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-02-22T03:28:22.000Z",
     "links": {
       "related_models": [],
@@ -3680,7 +3916,7 @@
     "schema_version": "1.0",
     "name": "GEAR-Dreams/DreamZero-DROID-Data",
     "description": "No description available",
-    "size": "368478",
+    "size": "373205",
     "source_url": "https://huggingface.co/datasets/GEAR-Dreams/DreamZero-DROID-Data",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3695,7 +3931,7 @@
       "likes": 4,
       "private": false,
       "sha": "2abc197ca7f14f53a6bf464bf80018ce998f18cc",
-      "downloads": 368478,
+      "downloads": 373205,
       "tags": [
         "size_categories:1K<n<10K",
         "modality:video",
@@ -3706,7 +3942,7 @@
       "createdAt": "2026-02-15T22:07:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-02-17T02:01:08.000Z",
     "links": {
       "related_models": [],
@@ -3720,7 +3956,7 @@
     "schema_version": "1.0",
     "name": "HuggingFaceFW/finephrase",
     "description": "\n\t\n\t\t\n\t\tDataset Card for HuggingFaceFW/finephrase\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSynthetic data generated by DataTrove:\n\nModel: HuggingFaceTB/SmolLM2-1.7B-Instruct (main)\nSource dataset: HuggingFaceFW/fineweb-edu, config sample-350BT, split train\nGeneration config: temperature=1.0, top_p=1.0, top_k=50, max_tokens=2048, model_max_context=8192\nSpeculative decoding: {\"method\":\"suffix\",\"num_speculative_tokens\":32}\nSystem prompt: None\nInput column: text\n\nPrompt families:\n\nfaq prompt\n\nRewrite the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finephrase.",
-    "size": "509902",
+    "size": "516773",
     "source_url": "https://huggingface.co/datasets/HuggingFaceFW/finephrase",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3736,7 +3972,7 @@
       "private": false,
       "sha": "78cf4a5ed0099214979c094c963e699c19163838",
       "description": "\n\t\n\t\t\n\t\tDataset Card for HuggingFaceFW/finephrase\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSynthetic data generated by DataTrove:\n\nModel: HuggingFaceTB/SmolLM2-1.7B-Instruct (main)\nSource dataset: HuggingFaceFW/fineweb-edu, config sample-350BT, split train\nGeneration config: temperature=1.0, top_p=1.0, top_k=50, max_tokens=2048, model_max_context=8192\nSpeculative decoding: {\"method\":\"suffix\",\"num_speculative_tokens\":32}\nSystem prompt: None\nInput column: text\n\nPrompt families:\n\nfaq prompt\n\nRewrite the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finephrase.",
-      "downloads": 509902,
+      "downloads": 516773,
       "tags": [
         "task_categories:text-generation",
         "task_ids:language-modeling",
@@ -3757,7 +3993,7 @@
       "createdAt": "2026-02-15T23:04:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-31T06:26:09.000Z",
     "links": {
       "related_models": [
@@ -3773,7 +4009,7 @@
     "schema_version": "1.0",
     "name": "bezzam/coraal",
     "description": "\n\t\n\t\t\n\t\tCorpus of Regional African American Language (CORAAL)\n\t\n\nDataset link: https://oraal.github.io/coraal\nHugging Face Hub preparation scripts: https://github.com/ebezzam/prepare_coraal\n\n\t\n\t\t\n\t\tCitation\n\t\n\nKendall, Tyler and Charlie Farrington. 2023. The Corpus of Regional African American Language. Version 2023.06. Eugene, OR: The Online Resources for African American Language Project. https://doi.org/10.7264/1ad5-6t35.\n",
-    "size": "163669",
+    "size": "168839",
     "source_url": "https://huggingface.co/datasets/bezzam/coraal",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3789,7 +4025,7 @@
       "private": false,
       "sha": "76417d96197aa8bfa419eb5cc7637dab2f75cba0",
       "description": "\n\t\n\t\t\n\t\tCorpus of Regional African American Language (CORAAL)\n\t\n\nDataset link: https://oraal.github.io/coraal\nHugging Face Hub preparation scripts: https://github.com/ebezzam/prepare_coraal\n\n\t\n\t\t\n\t\tCitation\n\t\n\nKendall, Tyler and Charlie Farrington. 2023. The Corpus of Regional African American Language. Version 2023.06. Eugene, OR: The Online Resources for African American Language Project. https://doi.org/10.7264/1ad5-6t35.\n",
-      "downloads": 163669,
+      "downloads": 168839,
       "tags": [
         "task_categories:automatic-speech-recognition",
         "language:en",
@@ -3808,7 +4044,7 @@
       "createdAt": "2026-02-16T17:22:36.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-02-16T17:43:42.000Z",
     "links": {
       "related_models": [],
@@ -3822,7 +4058,7 @@
     "schema_version": "1.0",
     "name": "Emmyc2/psp",
     "description": "No description available",
-    "size": "487101",
+    "size": "487720",
     "source_url": "https://huggingface.co/datasets/Emmyc2/psp",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3837,14 +4073,14 @@
       "likes": 18,
       "private": false,
       "sha": "644ce428b8b69bccdab2646143a38dc4c1289d3a",
-      "downloads": 487101,
+      "downloads": 487720,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-03-01T00:32:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-06T22:34:27.000Z",
     "links": {
       "related_models": [],
@@ -3858,7 +4094,7 @@
     "schema_version": "1.0",
     "name": "siril-spcc/gaia",
     "description": "This catalog is developed for use with the Siril 1.4 series as a public reference database. Hugging Face is one of several mirrors used to distribute the data. This database is provided for both offline download and also for online access. This dataset is provided for scientific and reproducibility purposes.\nThis is an extract of the Gaia DR3 catalog optimized for spectrophotometric color calibration. The catalog is indexed at HEALpix level 8 and selects up to the 127 brightest sources in each… See the full description on the dataset page: https://huggingface.co/datasets/siril-spcc/gaia.",
-    "size": "282938",
+    "size": "280661",
     "source_url": "https://huggingface.co/datasets/siril-spcc/gaia",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3874,7 +4110,7 @@
       "private": false,
       "sha": "bad27a59dfa8058e3236955195579d9c77c654a6",
       "description": "This catalog is developed for use with the Siril 1.4 series as a public reference database. Hugging Face is one of several mirrors used to distribute the data. This database is provided for both offline download and also for online access. This dataset is provided for scientific and reproducibility purposes.\nThis is an extract of the Gaia DR3 catalog optimized for spectrophotometric color calibration. The catalog is indexed at HEALpix level 8 and selects up to the 127 brightest sources in each… See the full description on the dataset page: https://huggingface.co/datasets/siril-spcc/gaia.",
-      "downloads": 282938,
+      "downloads": 280661,
       "tags": [
         "license:gpl-3.0",
         "region:us"
@@ -3882,7 +4118,7 @@
       "createdAt": "2026-03-01T17:05:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-02T09:27:07.000Z",
     "links": {
       "related_models": [
@@ -3898,7 +4134,7 @@
     "schema_version": "1.0",
     "name": "Maximilians/ps2_hf1",
     "description": "No description available",
-    "size": "558587",
+    "size": "557507",
     "source_url": "https://huggingface.co/datasets/Maximilians/ps2_hf1",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3913,14 +4149,14 @@
       "likes": 11,
       "private": false,
       "sha": "5646768136d9943dc4f9b1926c92b863ff04c478",
-      "downloads": 558587,
+      "downloads": 557507,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-03-10T03:05:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-10T20:42:39.000Z",
     "links": {
       "related_models": [],
@@ -3934,7 +4170,7 @@
     "schema_version": "1.0",
     "name": "HennyPr/ps2_hf2",
     "description": "No description available",
-    "size": "761818",
+    "size": "760675",
     "source_url": "https://huggingface.co/datasets/HennyPr/ps2_hf2",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3949,7 +4185,7 @@
       "likes": 18,
       "private": false,
       "sha": "e831be1a0eeb18dbfd99aac845da6bb4c271d08b",
-      "downloads": 761818,
+      "downloads": 760675,
       "tags": [
         "size_categories:n<1K",
         "format:text",
@@ -3961,7 +4197,7 @@
       "createdAt": "2026-03-10T03:07:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-05T20:00:04.000Z",
     "links": {
       "related_models": [],
@@ -3975,7 +4211,7 @@
     "schema_version": "1.0",
     "name": "ccoffee20/flatpak",
     "description": "No description available",
-    "size": "197326",
+    "size": "198748",
     "source_url": "https://huggingface.co/datasets/ccoffee20/flatpak",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -3990,14 +4226,14 @@
       "likes": 1,
       "private": false,
       "sha": "24ec99cb2433e6124ab2959deca4209747a12327",
-      "downloads": 197326,
+      "downloads": 198748,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-03-15T03:28:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-04-10T14:41:27.000Z",
     "links": {
       "related_models": [],
@@ -4011,7 +4247,7 @@
     "schema_version": "1.0",
     "name": "ksolovev/FineNews",
     "description": "No description available",
-    "size": "1619742",
+    "size": "1515821",
     "source_url": "https://huggingface.co/datasets/ksolovev/FineNews",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4026,75 +4262,17 @@
       "likes": 14,
       "private": false,
       "sha": "41f8a91dc8c493d0773bc0ebc5158886f5964924",
-      "downloads": 1619742,
+      "downloads": 1515821,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-03-21T09:09:42.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-03-23T23:30:10.000Z",
     "links": {
       "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_ds_69c2007e19d6a09b73f58d79",
-    "schema_version": "1.0",
-    "name": "mvp-lab/LLaVA-OneVision-2-Data",
-    "description": "\n\t\n\t\t\n\t\tLLaVA-OneVision-2-Data\n\t\n\nTraining data for the LLaVA-OneVision-2 multimodal model family, covering large-scale video and spatial reasoning corpora used in mid-training.\n\n\t\n\t\t\n\t\tDataset Composition\n\t\n\n\n\t\n\t\t\nSubset\nFormat\nDescription\n\n\n\t\t\nmid_training_video/60s_rest/\nWebDataset (.tar)\n10,809 shards of ~60s video clips\n\n\nmid_training_video/caption_v0/split_30s.jsonl\nJSONL\nCaptions for 30-second video clips\n\n\nmid_training_video/caption_v0/split_60s.jsonl\nJSONL\nCaptions for 60-second video… See the full description on the dataset page: https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data.",
-    "size": "203380",
-    "source_url": "https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data",
-    "source_name": "HuggingFace Datasets",
-    "source_type": "api",
-    "category": "dataset",
-    "raw_payload": {
-      "_id": "69c2007e19d6a09b73f58d79",
-      "id": "mvp-lab/LLaVA-OneVision-2-Data",
-      "author": "mvp-lab",
-      "disabled": false,
-      "gated": false,
-      "lastModified": "2026-05-11T14:43:43.000Z",
-      "likes": 27,
-      "private": false,
-      "sha": "e73747a5aff28d10c6207841f95e290b5467ca07",
-      "description": "\n\t\n\t\t\n\t\tLLaVA-OneVision-2-Data\n\t\n\nTraining data for the LLaVA-OneVision-2 multimodal model family, covering large-scale video and spatial reasoning corpora used in mid-training.\n\n\t\n\t\t\n\t\tDataset Composition\n\t\n\n\n\t\n\t\t\nSubset\nFormat\nDescription\n\n\n\t\t\nmid_training_video/60s_rest/\nWebDataset (.tar)\n10,809 shards of ~60s video clips\n\n\nmid_training_video/caption_v0/split_30s.jsonl\nJSONL\nCaptions for 30-second video clips\n\n\nmid_training_video/caption_v0/split_60s.jsonl\nJSONL\nCaptions for 60-second video… See the full description on the dataset page: https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data.",
-      "downloads": 203380,
-      "tags": [
-        "task_categories:video-text-to-text",
-        "task_categories:visual-question-answering",
-        "task_categories:image-text-to-text",
-        "language:en",
-        "license:apache-2.0",
-        "size_categories:n<1K",
-        "format:parquet",
-        "format:optimized-parquet",
-        "modality:image",
-        "modality:text",
-        "modality:video",
-        "library:datasets",
-        "library:pandas",
-        "library:polars",
-        "library:mlcroissant",
-        "region:us",
-        "llava",
-        "multimodal",
-        "video",
-        "spatial-reasoning"
-      ],
-      "createdAt": "2026-03-24T03:09:50.000Z",
-      "key": ""
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2026-05-11T14:43:43.000Z",
-    "links": {
-      "related_models": [
-        "datasets/mvp-lab"
-      ],
       "related_papers": [],
       "related_datasets": [],
       "related_tools": []
@@ -4105,7 +4283,7 @@
     "schema_version": "1.0",
     "name": "ayuo/hd_tmp",
     "description": "No description available",
-    "size": "1463454",
+    "size": "1469127",
     "source_url": "https://huggingface.co/datasets/ayuo/hd_tmp",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4120,60 +4298,15 @@
       "likes": 17,
       "private": false,
       "sha": "f26536be5fdb05cbff767d5a88787f626ec9ea73",
-      "downloads": 1463454,
+      "downloads": 1469127,
       "tags": [
         "region:us"
       ],
       "createdAt": "2026-04-01T14:22:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-06-10T22:01:38.000Z",
-    "links": {
-      "related_models": [],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    }
-  },
-  {
-    "unique_id": "hf_ds_69e5997537a06672011aade2",
-    "schema_version": "1.0",
-    "name": "PeakStars/Math-Instruct",
-    "description": "No description available",
-    "size": "169643",
-    "source_url": "https://huggingface.co/datasets/PeakStars/Math-Instruct",
-    "source_name": "HuggingFace Datasets",
-    "source_type": "api",
-    "category": "dataset",
-    "raw_payload": {
-      "_id": "69e5997537a06672011aade2",
-      "id": "PeakStars/Math-Instruct",
-      "author": "PeakStars",
-      "disabled": false,
-      "gated": false,
-      "lastModified": "2026-04-20T03:48:27.000Z",
-      "likes": 3,
-      "private": false,
-      "sha": "71e80c46e11d8da5d12c0f9dd7ea3ddd77a9688e",
-      "downloads": 169643,
-      "tags": [
-        "size_categories:n<1K",
-        "format:parquet",
-        "format:optimized-parquet",
-        "modality:tabular",
-        "modality:text",
-        "library:datasets",
-        "library:pandas",
-        "library:polars",
-        "library:mlcroissant",
-        "region:us"
-      ],
-      "createdAt": "2026-04-20T03:11:49.000Z",
-      "key": ""
-    },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
-    "last_updated": "2026-04-20T03:48:27.000Z",
     "links": {
       "related_models": [],
       "related_papers": [],
@@ -4186,7 +4319,7 @@
     "schema_version": "1.0",
     "name": "PsiBotAI/SynData",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tSynData\n\t\n\n中文说明\n\n\t\n\t\t\n\t\n\t\n\t\tDemo\n\t\n\n\n  \n\n\nIf the video cannot be displayed in your environment, open it directly:\nassets/syndata-demo.mp4\n\n\t\n\t\t\n\t\n\t\n\t\t1. Overview\n\t\n\nSynData is a next-generation large-scale real-world multimodal dataset newly released by PsiBot. It comprehensively covers key dimensions including vision, language, and action, and provides highly realistic, high-density, and highly usable human data as a solid foundation for embodied intelligence training.\nPowered by… See the full description on the dataset page: https://huggingface.co/datasets/PsiBotAI/SynData.",
-    "size": "511736",
+    "size": "512074",
     "source_url": "https://huggingface.co/datasets/PsiBotAI/SynData",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4202,7 +4335,7 @@
       "private": false,
       "sha": "da4491ce744a7f9d1ae96d171b621c091dfa103a",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tSynData\n\t\n\n中文说明\n\n\t\n\t\t\n\t\n\t\n\t\tDemo\n\t\n\n\n  \n\n\nIf the video cannot be displayed in your environment, open it directly:\nassets/syndata-demo.mp4\n\n\t\n\t\t\n\t\n\t\n\t\t1. Overview\n\t\n\nSynData is a next-generation large-scale real-world multimodal dataset newly released by PsiBot. It comprehensively covers key dimensions including vision, language, and action, and provides highly realistic, high-density, and highly usable human data as a solid foundation for embodied intelligence training.\nPowered by… See the full description on the dataset page: https://huggingface.co/datasets/PsiBotAI/SynData.",
-      "downloads": 511736,
+      "downloads": 512074,
       "tags": [
         "language:en",
         "license:cc-by-4.0",
@@ -4220,7 +4353,7 @@
       "createdAt": "2026-04-21T09:17:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-06-04T12:22:56.000Z",
     "links": {
       "related_models": [
@@ -4232,11 +4365,62 @@
     }
   },
   {
+    "unique_id": "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "schema_version": "1.0",
+    "name": "jasperai/monet",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MONET\n\t\n\nMONET (Massive, Open, Non-redundant and Enriched Text-to-image dataset) is a large-scale, curated image-text dataset designed for training text-to-image (T2I) systems. It contains 104.9 million high-quality image-text pairs distilled from 2.9 billion raw pairs across nine heterogeneous open sources (6 real and 3 synthetic) through successive stages of safety filtering, domain-based filtering, exact and near-duplicate removal, and re-captioning with… See the full description on the dataset page: https://huggingface.co/datasets/jasperai/monet.",
+    "size": "154536",
+    "source_url": "https://huggingface.co/datasets/jasperai/monet",
+    "source_name": "HuggingFace Datasets",
+    "source_type": "api",
+    "category": "dataset",
+    "raw_payload": {
+      "_id": "69f0c6101cc98d8ac04c03cd",
+      "id": "jasperai/monet",
+      "author": "jasperai",
+      "disabled": false,
+      "gated": false,
+      "lastModified": "2026-05-29T10:16:25.000Z",
+      "likes": 130,
+      "private": false,
+      "sha": "8ec2189db8fa36bb41ea29aff7341bc5092d7482",
+      "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MONET\n\t\n\nMONET (Massive, Open, Non-redundant and Enriched Text-to-image dataset) is a large-scale, curated image-text dataset designed for training text-to-image (T2I) systems. It contains 104.9 million high-quality image-text pairs distilled from 2.9 billion raw pairs across nine heterogeneous open sources (6 real and 3 synthetic) through successive stages of safety filtering, domain-based filtering, exact and near-duplicate removal, and re-captioning with… See the full description on the dataset page: https://huggingface.co/datasets/jasperai/monet.",
+      "downloads": 154536,
+      "tags": [
+        "task_categories:text-to-image",
+        "task_categories:image-feature-extraction",
+        "task_categories:zero-shot-image-classification",
+        "language:en",
+        "license:apache-2.0",
+        "size_categories:100M<n<1B",
+        "arxiv:2605.21272",
+        "region:us",
+        "multimodal",
+        "image-text",
+        "captioning",
+        "text-to-image",
+        "synthetic-data"
+      ],
+      "createdAt": "2026-04-28T14:37:04.000Z",
+      "key": ""
+    },
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
+    "last_updated": "2026-05-29T10:16:25.000Z",
+    "links": {
+      "related_models": [
+        "datasets/jasperai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "hf_ds_6a04fe32c08e541d106bc6fe",
     "schema_version": "1.0",
     "name": "Dagonulca/figofigofigofigo",
     "description": "No description available",
-    "size": "493191",
+    "size": "507889",
     "source_url": "https://huggingface.co/datasets/Dagonulca/figofigofigofigo",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4251,7 +4435,7 @@
       "likes": 3,
       "private": false,
       "sha": "a0e7b0f3ff20377e0ef1234f4ac8912a0af6bcbf",
-      "downloads": 493191,
+      "downloads": 507889,
       "tags": [
         "size_categories:n<1K",
         "modality:video",
@@ -4262,7 +4446,7 @@
       "createdAt": "2026-05-13T22:41:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-05-14T00:33:58.000Z",
     "links": {
       "related_models": [],
@@ -4276,7 +4460,7 @@
     "schema_version": "1.0",
     "name": "Drakesuper/rodridre",
     "description": "No description available",
-    "size": "403670",
+    "size": "416732",
     "source_url": "https://huggingface.co/datasets/Drakesuper/rodridre",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4291,7 +4475,7 @@
       "likes": 0,
       "private": false,
       "sha": "7faff65ced45b9291654a05d4d6031831ee773af",
-      "downloads": 403670,
+      "downloads": 416732,
       "tags": [
         "size_categories:n<1K",
         "modality:video",
@@ -4302,7 +4486,7 @@
       "createdAt": "2026-05-13T23:28:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-05-13T23:36:50.000Z",
     "links": {
       "related_models": [],
@@ -4315,8 +4499,8 @@
     "unique_id": "hf_ds_6a139a707f615e6fc818bde7",
     "schema_version": "1.0",
     "name": "just-me7ss/American-Sign-Language-Dataset",
-    "description": "\n\t\n\t\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset.",
-    "size": "442412",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset.",
+    "size": "442420",
     "source_url": "https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4331,8 +4515,8 @@
       "likes": 1,
       "private": false,
       "sha": "143f61630a7b67ea94d9040d2c2bc9ab88ec0030",
-      "description": "\n\t\n\t\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset.",
-      "downloads": 442412,
+      "description": "\n\t\n\t\t\n\t\n\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset.",
+      "downloads": 442420,
       "tags": [
         "license:mit",
         "modality:video",
@@ -4345,7 +4529,7 @@
       "createdAt": "2026-05-25T00:40:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-05-25T00:40:18.000Z",
     "links": {
       "related_models": [
@@ -4361,7 +4545,7 @@
     "schema_version": "1.0",
     "name": "mteb/results",
     "description": "No description available",
-    "size": "1344352",
+    "size": "1313180",
     "source_url": "https://huggingface.co/datasets/mteb/results",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -4376,7 +4560,7 @@
       "likes": 3,
       "private": false,
       "sha": "a0b5cb09cdfdf3b1f1e4b15a9353cf41d53fa6ec",
-      "downloads": 1344352,
+      "downloads": 1313180,
       "tags": [
         "size_categories:1M<n<10M",
         "format:parquet",
@@ -4391,7 +4575,7 @@
       "createdAt": "2026-06-02T20:34:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-13T06:28:53.757063+00:00",
+    "retrieval_timestamp": "2026-06-14T12:49:51.169911+00:00",
     "last_updated": "2026-06-10T08:20:10.000Z",
     "links": {
       "related_models": [],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T06:28:57.792771+00:00",
+  "generated_at": "2026-06-14T12:49:51.712800+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -505,11 +505,6 @@
     },
     {
       "category": "text-generation",
-      "id": "hf_EleutherAI_pythia-70m-deduped",
-      "label": "EleutherAI/pythia-70m-deduped"
-    },
-    {
-      "category": "text-generation",
       "id": "hf_MiniMaxAI_MiniMax-M2.7",
       "label": "MiniMaxAI/MiniMax-M2.7"
     },
@@ -559,11 +554,6 @@
       "label": "Qwen/Qwen3-8B"
     },
     {
-      "category": "text-generation",
-      "id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-      "label": "Qwen/Qwen3-Coder-30B-A3B-Instruct"
-    },
-    {
       "category": "feature-extraction",
       "id": "hf_Qwen_Qwen3-Embedding-0.6B",
       "label": "Qwen/Qwen3-Embedding-0.6B"
@@ -577,6 +567,11 @@
       "category": "text-generation",
       "id": "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
       "label": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    },
+    {
+      "category": "text-generation",
+      "id": "hf_antirez_deepseek-v4-gguf",
+      "label": "antirez/deepseek-v4-gguf"
     },
     {
       "category": "text-generation",
@@ -775,6 +770,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_66a9fba22c7c3ebdd7de3d33",
+      "label": "applied-ai-018/pretraining_v1-omega_books"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_66bb76014dbf7716986c7f86",
       "label": "princeton-nlp/SWE-bench_Verified"
     },
@@ -795,11 +795,6 @@
     },
     {
       "category": "dataset",
-      "id": "hf_ds_676477a23a379cdda443f577",
-      "label": "hf-internal-testing/transformers_circleci_workflow_runs"
-    },
-    {
-      "category": "dataset",
       "id": "hf_ds_6785649a41a64e1582b8bb05",
       "label": "Benjy/typed_digital_signatures"
     },
@@ -815,8 +810,8 @@
     },
     {
       "category": "dataset",
-      "id": "hf_ds_67cac93b5877d9c876a84572",
-      "label": "jobs-git/Zyda-2"
+      "id": "hf_ds_67cac990bdf9000d16109b38",
+      "label": "jobs-git/HPLT2.0_cleaned"
     },
     {
       "category": "dataset",
@@ -870,13 +865,8 @@
     },
     {
       "category": "dataset",
-      "id": "hf_ds_689042da4516ba24837c50cd",
-      "label": "KAKA22/SpreadsheetBench"
-    },
-    {
-      "category": "dataset",
-      "id": "hf_ds_68a55284aaea0407e031a0ad",
-      "label": "OpenSQZ/AutoMathText-V2"
+      "id": "hf_ds_688209a61f4d0375592760e0",
+      "label": "Helsinki-NLP/fineweb-edu-translated"
     },
     {
       "category": "dataset",
@@ -887,6 +877,11 @@
       "category": "dataset",
       "id": "hf_ds_68b39036631546df1cfe0cba",
       "label": "ryanmarten/OpenThoughts-1k-sample"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_68c6d459d95ef41da81c9b41",
+      "label": "mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M"
     },
     {
       "category": "dataset",
@@ -980,23 +975,18 @@
     },
     {
       "category": "dataset",
-      "id": "hf_ds_69c2007e19d6a09b73f58d79",
-      "label": "mvp-lab/LLaVA-OneVision-2-Data"
-    },
-    {
-      "category": "dataset",
       "id": "hf_ds_69cd2a3acc9af6d091c033f0",
       "label": "ayuo/hd_tmp"
     },
     {
       "category": "dataset",
-      "id": "hf_ds_69e5997537a06672011aade2",
-      "label": "PeakStars/Math-Instruct"
+      "id": "hf_ds_69e7409e244b695efe87097a",
+      "label": "PsiBotAI/SynData"
     },
     {
       "category": "dataset",
-      "id": "hf_ds_69e7409e244b695efe87097a",
-      "label": "PsiBotAI/SynData"
+      "id": "hf_ds_69f0c6101cc98d8ac04c03cd",
+      "label": "jasperai/monet"
     },
     {
       "category": "dataset",
@@ -1025,6 +1015,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_google_gemma-3-1b-it",
+      "label": "google/gemma-3-1b-it"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_google_gemma-3-270m",
       "label": "google/gemma-3-270m"
     },
@@ -1032,6 +1027,11 @@
       "category": "text-generation",
       "id": "hf_hmellor_tiny-random-LlamaForCausalLM",
       "label": "hmellor/tiny-random-LlamaForCausalLM"
+    },
+    {
+      "category": "text-generation",
+      "id": "hf_llamafactory_tiny-random-Llama-3",
+      "label": "llamafactory/tiny-random-Llama-3"
     },
     {
       "category": "text-generation",
@@ -1050,13 +1050,13 @@
     },
     {
       "category": "text-generation",
-      "id": "hf_openai-community_gpt2",
-      "label": "openai-community/gpt2"
+      "id": "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+      "label": "nvidia/Gemma-4-31B-IT-NVFP4"
     },
     {
       "category": "text-generation",
-      "id": "hf_openai-community_gpt2-large",
-      "label": "openai-community/gpt2-large"
+      "id": "hf_openai-community_gpt2",
+      "label": "openai-community/gpt2"
     },
     {
       "category": "text-generation",
@@ -1087,11 +1087,6 @@
       "category": "image-text-to-text",
       "id": "hf_vikhyatk_moondream2",
       "label": "vikhyatk/moondream2"
-    },
-    {
-      "category": "text-generation",
-      "id": "hf_zai-org_GLM-5-FP8",
-      "label": "zai-org/GLM-5-FP8"
     },
     {
       "category": "news",
@@ -6155,5 +6150,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 1230
+  "total_nodes": 1229
 }

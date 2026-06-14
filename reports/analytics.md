@@ -1,11 +1,11 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 1230
+**Total Entities Tracked**: 1229
 
 ## Category Distribution
 
 - **news**: 1012
-- **dataset**: 81
+- **dataset**: 80
 - **tool**: 48
 - **text-generation**: 35
 - **cs.CL**: 16
@@ -22,7 +22,7 @@
 ## Source Distribution
 
 - **OpenAI Blog**: 1002
-- **HuggingFace Datasets**: 81
+- **HuggingFace Datasets**: 80
 - **ArXiv**: 50
 - **GitHub Trending**: 48
 - **Hugging Face**: 39
@@ -30,53 +30,53 @@
 
 ## Top Tags
 
-- **region:us**: 120
-- **library:datasets**: 40
-- **library:mlcroissant**: 40
+- **region:us**: 119
+- **library:datasets**: 41
+- **library:mlcroissant**: 41
 - **text-generation**: 40
-- **endpoints_compatible**: 37
-- **transformers**: 37
-- **safetensors**: 36
+- **endpoints_compatible**: 35
+- **safetensors**: 35
+- **transformers**: 35
 - **modality:text**: 34
-- **language:en**: 32
+- **language:en**: 31
 - **license:apache-2.0**: 31
-- **library:polars**: 29
-- **conversational**: 27
-- **license:mit**: 27
-- **format:parquet**: 26
+- **library:polars**: 30
+- **conversational**: 28
+- **format:parquet**: 27
+- **license:mit**: 26
 - **text-generation-inference**: 21
-- **deploy:azure**: 19
-- **library:pandas**: 18
+- **deploy:azure**: 17
+- **library:pandas**: 16
 - **eval-results**: 15
-- **size_categories:n<1K**: 15
-- **en**: 13
+- **library:dask**: 14
+- **size_categories:n<1K**: 13
 - **task_categories:text-generation**: 13
 - **modality:image**: 12
-- **library:dask**: 11
-- **modality:tabular**: 10
+- **en**: 11
 - **multilinguality:monolingual**: 10
+- **license:other**: 9
+- **modality:tabular**: 9
 - **qwen3**: 9
 - **source_datasets:original**: 9
-- **arxiv:2505.09388**: 8
-- **fp8**: 8
-- **license:other**: 8
-- **modality:video**: 8
 - **size_categories:10K<n<100K**: 8
-- **pytorch**: 7
+- **arxiv:2505.09388**: 7
+- **fp8**: 7
+- **modality:video**: 7
 - **custom_code**: 6
 - **language_creators:found**: 6
 - **license:odc-by**: 6
 - **size_categories:100K<n<1M**: 6
 - **size_categories:1M<n<10M**: 6
+- **task_ids:language-modeling**: 6
 - **annotations_creators:no-annotation**: 5
 - **format:imagefolder**: 5
+- **language:ar**: 5
+- **language:ja**: 5
+- **language:vi**: 5
 - **language:zh**: 5
+- **llama**: 5
+- **pytorch**: 5
+- **size_categories:100M<n<1B**: 5
 - **size_categories:1K<n<10K**: 5
-- **task_categories:question-answering**: 5
+- **task_categories:fill-mask**: 5
 - **task_categories:text-classification**: 5
-- **task_ids:language-modeling**: 5
-- **8-bit**: 4
-- **annotations_creators:crowdsourced**: 4
-- **annotations_creators:expert-generated**: 4
-- **arxiv:2309.00071**: 4
-- **format:optimized-parquet**: 4

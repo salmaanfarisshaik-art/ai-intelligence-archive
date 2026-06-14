@@ -2,7 +2,7 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-13T06:28:57.923234+00:00
+**Generated:** 2026-06-14T12:49:51.819480+00:00
 **Warnings:** 130
 **Errors:** 0
 
@@ -98,18 +98,18 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ieasybooks-org
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/xlangai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/EssentialAI
-- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/KAKA22
-- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/OpenSQZ
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ZahidYasinMittha
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mvp-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/permutans
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/utter-project
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/siril-spcc
-- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mvp-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PsiBotAI
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jasperai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/just-me7ss
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208

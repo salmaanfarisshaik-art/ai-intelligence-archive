@@ -1,4 +1,7 @@
 {
+  "2-bit": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "3D semantic segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
   ],
@@ -7,6 +10,9 @@
   ],
   "3d-occupancy": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
+  ],
+  "4-bit": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "8-bit": [
     "hf_deepseek-ai_DeepSeek-V4-Flash",
@@ -25,25 +31,31 @@
   "CARLA": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "Gemma-4-31B-IT": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "Gesture Recognition": [
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6a139a707f615e6fc818bde7"
-  ],
-  "LLM": [
-    "hf_ds_68a55284aaea0407e031a0ad"
   ],
   "LeRobot": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
     "hf_ds_67d829e152331730e865bfb7"
   ],
+  "Model Optimizer": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
+  "ModelOpt": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "NLU": [
     "hf_ds_621ffdd236468d709f181fa6"
   ],
+  "NVFP4": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "OpenCOOD": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
-  ],
-  "STEM": [
-    "hf_ds_68a55284aaea0407e031a0ad"
   ],
   "SmolLM2-1.7B-Instruct": [
     "hf_ds_699250f08be5bf8321aeb29e"
@@ -93,6 +105,9 @@
   "annotations_creators:other": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
+  "apple-silicon": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "arxiv": [
     "hf_ds_6947232e01886522f0154ff9"
   ],
@@ -112,6 +127,7 @@
     "hf_ds_661823b590a8b6724f1c6534"
   ],
   "arxiv:1705.03551": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1709.00103": [
@@ -124,12 +140,15 @@
     "hf_ds_621ffdd236468d709f181e3f"
   ],
   "arxiv:1810.12440": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1903.00161": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1904.09728": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1905.00537": [
@@ -137,15 +156,19 @@
   ],
   "arxiv:1905.07830": [
     "hf_ds_621ffdd236468d709f181e5d",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1905.10044": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1907.10641": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1908.02660": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1910.01108": [
@@ -153,19 +176,21 @@
   ],
   "arxiv:1910.09700": [
     "hf_distilbert_distilgpt2",
-    "hf_hmellor_tiny-random-LlamaForCausalLM",
-    "hf_openai-community_gpt2-large"
+    "hf_hmellor_tiny-random-LlamaForCausalLM"
   ],
   "arxiv:1910.10683": [
     "hf_ds_621ffdd236468d709f182a80"
   ],
   "arxiv:1910.11856": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1911.01547": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1911.11641": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:1912.03098": [
@@ -186,26 +211,31 @@
   ],
   "arxiv:2009.03300": [
     "hf_ds_621ffdd236468d709f181e5e",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2101.00027": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "arxiv:2103.03874": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2104.12756": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2106.03193": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2107.03374": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2108.07732": [
     "hf_ds_621ffdd236468d709f181eb4",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2109.07445": [
@@ -213,16 +243,17 @@
   ],
   "arxiv:2110.14168": [
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2201.07311": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "arxiv:2201.08542": [
     "hf_distilbert_distilgpt2"
   ],
   "arxiv:2203.10244": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2203.12574": [
@@ -244,6 +275,7 @@
     "hf_ds_661823b590a8b6724f1c6534"
   ],
   "arxiv:2210.03057": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2211.01786": [
@@ -256,10 +288,10 @@
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
   "arxiv:2304.01373": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "arxiv:2304.06364": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2305.03111": [
@@ -284,19 +316,19 @@
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2311.12022": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2311.16502": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2312.11805": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2312.12241": [
     "hf_ds_661823b590a8b6724f1c6534"
-  ],
-  "arxiv:2402.07625": [
-    "hf_ds_68a55284aaea0407e031a0ad"
   ],
   "arxiv:2402.09844": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -311,12 +343,14 @@
     "hf_ds_6835d7e81900f053ee3c7c9e"
   ],
   "arxiv:2404.12390": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2404.14219": [
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
   "arxiv:2404.16816": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2405.02246": [
@@ -330,9 +364,6 @@
   ],
   "arxiv:2406.11794": [
     "hf_ds_66708709d5c5d8fd8db3a5cf"
-  ],
-  "arxiv:2406.14991": [
-    "hf_ds_689042da4516ba24837c50cd"
   ],
   "arxiv:2406.17557": [
     "hf_ds_669e6b2752cf1c619d4c0178"
@@ -351,9 +382,11 @@
     "hf_deepseek-ai_DeepSeek-R1-0528"
   ],
   "arxiv:2502.12404": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2502.21228": [
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2503.19786": [
@@ -369,8 +402,7 @@
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
-    "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    "hf_Qwen_Qwen3-8B"
   ],
   "arxiv:2506.04178": [
     "hf_ds_68b39036631546df1cfe0cba"
@@ -386,6 +418,9 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
+  "arxiv:2509.23661": [
+    "hf_ds_68c6d459d95ef41da81c9b41"
+  ],
   "arxiv:2510.05069": [
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
@@ -395,8 +430,8 @@
   "arxiv:2602.05879": [
     "hf_ds_69822b12f4c99fc122169639"
   ],
-  "arxiv:2602.15763": [
-    "hf_zai-org_GLM-5-FP8"
+  "arxiv:2605.21272": [
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "australia": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -439,6 +474,9 @@
   "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
     "hf_deepseek-ai_DeepSeek-V3.2"
   ],
+  "base_model:deepseek-ai/DeepSeek-V4-Flash": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "base_model:finetune:01-ai/Yi-1.5-34B": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
@@ -468,17 +506,32 @@
   "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
     "hf_deepseek-ai_DeepSeek-V3.2"
   ],
+  "base_model:finetune:google/gemma-3-1b-pt": [
+    "hf_google_gemma-3-1b-it"
+  ],
+  "base_model:finetune:google/gemma-4-31B-it": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "base_model:finetune:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
   "base_model:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
+  "base_model:google/gemma-3-1b-pt": [
+    "hf_google_gemma-3-1b-it"
+  ],
+  "base_model:google/gemma-4-31B-it": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "base_model:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
   "base_model:quantized:Qwen/Qwen3-Coder-Next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
+  ],
+  "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
@@ -497,9 +550,11 @@
   "bridge_orig": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
   ],
+  "captioning": [
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
+  ],
   "causal-lm": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "chat": [
     "hf_Qwen_Qwen2-1.5B-Instruct",
@@ -527,15 +582,17 @@
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_google_gemma-3-1b-it",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
@@ -543,8 +600,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
-    "hf_unsloth_Qwen3-Coder-Next-GGUF",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "coreference-nli": [
     "hf_ds_621ffdd236468d709f181e3f"
@@ -562,9 +618,6 @@
   ],
   "dataset:EleutherAI/pile": [
     "hf_EleutherAI_pythia-160m"
-  ],
-  "dataset:EleutherAI/the_pile_deduplicated": [
-    "hf_EleutherAI_pythia-70m-deduped"
   ],
   "dataset:HuggingFaceH4/ultrachat_200k": [
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0"
@@ -611,6 +664,15 @@
   "de": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
+  "deepseek": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
+  "deepseek-v4": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
+  "deepseek-v4-flash": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "deepseek_v3": [
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528"
@@ -624,7 +686,6 @@
   ],
   "deploy:azure": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -633,13 +694,12 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
@@ -664,6 +724,9 @@
   "doi:10.57967/hf/6762": [
     "hf_vikhyatk_moondream2"
   ],
+  "ds4": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "dual-arm": [
     "hf_ds_6954cdff0a36f347a9b323fd"
   ],
@@ -673,22 +736,19 @@
   "en": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
-    "hf_prefeitura-rio_Rio-3.0-Open-Mini",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "endpoints_compatible": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -699,10 +759,10 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -710,19 +770,18 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "es": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
@@ -737,12 +796,12 @@
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
+    "hf_google_gemma-3-1b-it",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "evaluation": [
     "hf_ds_663b7fd5a4152b77b637ba11"
@@ -757,9 +816,6 @@
   "feature-extraction": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B"
-  ],
-  "finetuning": [
-    "hf_ds_68a55284aaea0407e031a0ad"
   ],
   "fineweb-edu": [
     "hf_ds_699250f08be5bf8321aeb29e"
@@ -783,8 +839,6 @@
   ],
   "format:optimized-parquet": [
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
   "format:parquet": [
@@ -804,14 +858,15 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_68101f6210b86ba322aabec8",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
@@ -825,8 +880,7 @@
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
-    "hf_moonshotai_Kimi-K2-Instruct-0905",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_moonshotai_Kimi-K2-Instruct-0905"
   ],
   "fr": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
@@ -837,6 +891,9 @@
   "gemma3": [
     "hf_google_gemma-3-270m"
   ],
+  "gemma3_text": [
+    "hf_google_gemma-3-1b-it"
+  ],
   "generalist-agent": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
@@ -845,10 +902,8 @@
   ],
   "gguf": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
-  ],
-  "glm_moe_dsa": [
-    "hf_zai-org_GLM-5-FP8"
   ],
   "google": [
     "hf_google_gemma-3-270m"
@@ -858,12 +913,10 @@
   ],
   "gpt2": [
     "hf_distilbert_distilgpt2",
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
   ],
   "gpt_neox": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "gpt_oss": [
     "hf_openai_gpt-oss-120b",
@@ -877,6 +930,9 @@
   ],
   "image-classification": [
     "hf_ds_6785649a41a64e1582b8bb05"
+  ],
+  "image-text": [
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "image-text-to-text": [
     "hf_microsoft_Phi-3.5-vision-instruct",
@@ -894,14 +950,16 @@
   "instruction-tuned": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
+  "iq2_xxs": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
   "it": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
   "jax": [
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
   ],
   "kimi_k2": [
     "hf_moonshotai_Kimi-K2-Instruct-0905"
@@ -911,7 +969,8 @@
   ],
   "language:ace": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:acm": [
     "hf_ds_6469bc7cf51b56a285b7797b"
@@ -928,7 +987,8 @@
   "language:af": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ajp": [
     "hf_ds_6469bc7cf51b56a285b7797b"
@@ -937,7 +997,8 @@
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
   "language:als": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:alt": [
     "hf_ds_621ffdd236468d709f184284"
@@ -945,7 +1006,8 @@
   "language:am": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ami": [
     "hf_ds_621ffdd236468d709f184284"
@@ -966,6 +1028,7 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_68179ef58e267618d9e7bc61"
   ],
   "language:arc": [
@@ -984,11 +1047,13 @@
   ],
   "language:as": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ast": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:atj": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1001,13 +1066,15 @@
   ],
   "language:awa": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ay": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:ayr": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:az": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1016,18 +1083,22 @@
   ],
   "language:azb": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:azj": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ba": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ban": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bar": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1041,44 +1112,55 @@
   "language:be": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bem": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bg": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bh": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:bho": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bi": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:bjn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:blk": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:bm": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bn": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bo": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:bos": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:bpy": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1089,11 +1171,16 @@
   ],
   "language:bs": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:bug": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:bul": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:bxr": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1101,7 +1188,11 @@
   "language:ca": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:cat": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:cbk": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1115,7 +1206,11 @@
   "language:ceb": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:ces": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:ch": [
     "hf_ds_621ffdd236468d709f184284",
@@ -1128,11 +1223,13 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:cjk": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ckb": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:co": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1143,12 +1240,14 @@
   ],
   "language:crh": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:cs": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:csb": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1163,26 +1262,36 @@
   "language:cy": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:da": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:dag": [
     "hf_ds_621ffdd236468d709f184284"
   ],
+  "language:dan": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:de": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:deu": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:dga": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:dik": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:din": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1200,20 +1309,27 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:dyu": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:dz": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ee": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:el": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:ell": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:eml": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1242,35 +1358,47 @@
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_6785649a41a64e1582b8bb05",
-    "hf_ds_67cac93b5877d9c876a84572",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_68101f6210b86ba322aabec8",
-    "hf_ds_68a55284aaea0407e031a0ad",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e7409e244b695efe87097a"
+    "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
+  ],
+  "language:eng": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:eo": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:es": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:est": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:et": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:eu": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:eus": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:ext": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1289,27 +1417,38 @@
   "language:fi": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fil": [
     "hf_ds_621ffdd236468d709f182a80"
   ],
+  "language:fin": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:fj": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fo": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fon": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fr": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:fra": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:frp": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1319,10 +1458,12 @@
   ],
   "language:fur": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fuv": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:fy": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1332,7 +1473,8 @@
   "language:ga": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:gag": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1341,7 +1483,8 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:gaz": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:gcr": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1349,19 +1492,28 @@
   "language:gd": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:gl": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:gle": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
+  "language:glg": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:glk": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:gn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:gom": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1381,7 +1533,8 @@
   "language:gu": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:guc": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1398,7 +1551,8 @@
   "language:ha": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hak": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1413,12 +1567,14 @@
   "language:he": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hi": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hif": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1427,11 +1583,16 @@
     "hf_ds_621ffdd236468d709f182a80"
   ],
   "language:hne": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hr": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:hrv": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:hsb": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1439,17 +1600,23 @@
   "language:ht": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hu": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:hun": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:hy": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:hyw": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1461,7 +1628,8 @@
   "language:id": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ie": [
     "hf_ds_621ffdd236468d709f184284",
@@ -1470,14 +1638,16 @@
   "language:ig": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ik": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:ilo": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:inh": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1489,12 +1659,20 @@
   "language:is": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:isl": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:it": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:ita": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:iu": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1506,7 +1684,8 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_645e3fcc43abb116540da202",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:jam": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1517,54 +1696,68 @@
   "language:jv": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ka": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kaa": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:kab": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kac": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kam": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:kat": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:kbd": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:kbp": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kcg": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:kea": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kg": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:khk": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ki": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kk": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kl": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1572,26 +1765,32 @@
   "language:km": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kmb": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kmr": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:kn": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:knc": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ko": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:koi": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1601,7 +1800,8 @@
   ],
   "language:ks": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ksh": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1621,7 +1821,8 @@
   "language:ky": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:la": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1631,10 +1832,14 @@
   "language:lad": [
     "hf_ds_621ffdd236468d709f184284"
   ],
+  "language:lav": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:lb": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lbe": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1647,49 +1852,63 @@
   ],
   "language:lg": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:li": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lij": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:lit": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:lld": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:lmo": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ln": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lo": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lt": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ltg": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lua": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:luo": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lus": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lv": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1697,7 +1916,8 @@
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
   "language:lvs": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:lzh": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1706,11 +1926,13 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:mag": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mai": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:map": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1731,21 +1953,31 @@
   "language:mi": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:min": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mk": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:mkd": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:ml": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:mlt": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:mn": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1754,18 +1986,21 @@
   ],
   "language:mni": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mnw": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:mos": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mr": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mrj": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1778,7 +2013,8 @@
   "language:mt": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:mwl": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1786,7 +2022,8 @@
   "language:my": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:myv": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1804,7 +2041,8 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:nb": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:nds": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1822,22 +2060,34 @@
   "language:nl": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:nld": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:nn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:nno": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:no": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
+  "language:nob": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:nov": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:npi": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:nqo": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1847,10 +2097,12 @@
   ],
   "language:nso": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:nus": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:nv": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1858,11 +2110,13 @@
   "language:ny": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:oc": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:olo": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1874,7 +2128,8 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:ory": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:os": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1882,21 +2137,25 @@
   "language:pa": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pag": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pam": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:pap": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pbt": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pcd": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1908,7 +2167,8 @@
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:pes": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pfl": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1922,10 +2182,12 @@
   "language:pl": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:plt": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pms": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1936,8 +2198,15 @@
   "language:pnt": [
     "hf_ds_621ffdd236468d709f184284"
   ],
+  "language:pol": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
+  "language:por": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:prs": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ps": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -1946,7 +2215,8 @@
   "language:pt": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:pwn": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1956,7 +2226,8 @@
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
   "language:quy": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:rm": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1966,17 +2237,23 @@
   ],
   "language:rn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ro": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:ron": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:ru": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:rue": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1986,26 +2263,31 @@
   ],
   "language:rw": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sa": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sah": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:sat": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sc": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:scn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sco": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2013,14 +2295,16 @@
   "language:sd": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:se": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:sg": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sgs": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2033,17 +2317,20 @@
   ],
   "language:shn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:si": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sk": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:skr": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2051,12 +2338,20 @@
   "language:sl": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:slk": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
+  "language:slv": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:sm": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:smn": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2064,34 +2359,48 @@
   "language:sn": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:so": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:spa": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:sq": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
+  "language:sqi": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:sr": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:srn": [
     "hf_ds_621ffdd236468d709f184284"
   ],
+  "language:srp": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:ss": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:st": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:stq": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2099,24 +2408,31 @@
   "language:su": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sv": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:sw": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
+  "language:swe": [
+    "hf_ds_688209a61f4d0375592760e0"
+  ],
   "language:swh": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:szl": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:szy": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2124,10 +2440,12 @@
   "language:ta": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:taq": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tay": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2138,7 +2456,8 @@
   "language:te": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tet": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2146,62 +2465,77 @@
   "language:tg": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:th": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ti": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tk": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tl": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tly": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:tn": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:to": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:tpi": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tr": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:trv": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:ts": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tt": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:tum": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:tur": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:tw": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ty": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2217,15 +2551,21 @@
   ],
   "language:ug": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:uk": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
+  ],
+  "language:ukr": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "language:umb": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:und": [
     "hf_ds_621ffdd236468d709f182a80"
@@ -2233,7 +2573,8 @@
   "language:ur": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:uz": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -2241,14 +2582,16 @@
     "hf_ds_6469bc7cf51b56a285b7797b"
   ],
   "language:uzn": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:ve": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:vec": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:vep": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2257,7 +2600,8 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
-    "hf_ds_64a63fbb85638d0e698f055f"
+    "hf_ds_64a63fbb85638d0e698f055f",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:vls": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2274,11 +2618,13 @@
   ],
   "language:war": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:wo": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:wuu": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2289,13 +2635,15 @@
   "language:xh": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:xmf": [
     "hf_ds_621ffdd236468d709f184284"
   ],
   "language:ydd": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:yi": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -2305,11 +2653,13 @@
   "language:yo": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:yue": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:za": [
     "hf_ds_621ffdd236468d709f184284"
@@ -2324,16 +2674,18 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
-    "hf_ds_68a55284aaea0407e031a0ad",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_6954cdff0a36f347a9b323fd"
   ],
   "language:zsm": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language:zu": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language_creators:crowdsourced": [
     "hf_ds_621ffdd236468d709f181eb4",
@@ -2371,7 +2723,10 @@
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66dc4e6348cb97a720daea22",
+    "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
@@ -2399,20 +2754,21 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
@@ -2441,20 +2797,21 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
@@ -2476,8 +2833,6 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_68b39036631546df1cfe0cba",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a"
   ],
   "library:polars": [
@@ -2499,21 +2854,21 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
   "license:apache-2.0": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
@@ -2522,7 +2877,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -2538,7 +2892,9 @@
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_6835d7e81900f053ee3c7c9e",
-    "hf_ds_69c2007e19d6a09b73f58d79",
+    "hf_ds_68c6d459d95ef41da81c9b41",
+    "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -2563,11 +2919,14 @@
   ],
   "license:cc-by-sa-4.0": [
     "hf_ds_6582e9185b0dec368695b712",
-    "hf_ds_689042da4516ba24837c50cd",
     "hf_ds_6954cdff0a36f347a9b323fd"
+  ],
+  "license:cc0-1.0": [
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "license:gemma": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
   ],
   "license:gfdl": [
@@ -2581,6 +2940,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
   "license:mit": [
+    "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -2605,16 +2965,14 @@
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
-    "hf_prefeitura-rio_Rio-3.0-Open-Mini",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "license:odc-by": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
-    "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_6851cac31458ae6b02f8e8e7",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "license:other": [
@@ -2625,11 +2983,15 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_facebook_opt-125m",
-    "hf_moonshotai_Kimi-K2-Instruct-0905"
+    "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "license:unknown": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_683195b70ed0a5b1919c6f22"
+  ],
+  "lighthouse": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "lightweight": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
@@ -2638,16 +3000,11 @@
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
   "llama-3": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
-  ],
-  "llava": [
-    "hf_ds_69c2007e19d6a09b73f58d79"
-  ],
-  "math": [
-    "hf_ds_68a55284aaea0407e031a0ad"
   ],
   "math-word-problems": [
     "hf_ds_625552d2b339bb03abe3432d"
@@ -2658,11 +3015,14 @@
   "metadata": [
     "hf_ds_6947232e01886522f0154ff9"
   ],
-  "midtraining": [
-    "hf_ds_68a55284aaea0407e031a0ad"
+  "metal": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "minimax_m2": [
     "hf_MiniMaxAI_MiniMax-M2.7"
+  ],
+  "mixture-of-experts": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "modality:3d": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -2687,19 +3047,18 @@
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_67eb39ec9c3049765889d084",
-    "hf_ds_696dc1fee7a76925b95bba1d",
-    "hf_ds_69c2007e19d6a09b73f58d79"
+    "hf_ds_68c6d459d95ef41da81c9b41",
+    "hf_ds_696dc1fee7a76925b95bba1d"
   ],
   "modality:tabular": [
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_675d7e29e24babdf1842d270",
-    "hf_ds_68a55284aaea0407e031a0ad",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a"
   ],
   "modality:text": [
@@ -2722,19 +3081,19 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
-    "hf_ds_68a55284aaea0407e031a0ad",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
@@ -2746,13 +3105,15 @@
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_699243aa8be5bf8321adfd86",
-    "hf_ds_69c2007e19d6a09b73f58d79",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7"
   ],
   "model-index": [
     "hf_distilbert_distilgpt2"
+  ],
+  "moe": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "moondream1": [
     "hf_vikhyatk_moondream2"
@@ -2777,10 +3138,11 @@
   ],
   "multilinguality:multilingual": [
     "hf_ds_621ffdd236468d709f182a80",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "multimodal": [
-    "hf_ds_69c2007e19d6a09b73f58d79"
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "mxfp4": [
     "hf_openai_gpt-oss-120b",
@@ -2795,6 +3157,9 @@
   "nuScenes": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "nvidia": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
   "occupancy-forecasting": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
@@ -2802,8 +3167,7 @@
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "onnx": [
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
   ],
   "openx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
@@ -2820,9 +3184,6 @@
   "pointcloud-segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
   ],
-  "pretraining": [
-    "hf_ds_68a55284aaea0407e031a0ad"
-  ],
   "prompts": [
     "hf_ds_65ce59255f233e28db20fe4f"
   ],
@@ -2831,20 +3192,27 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "pythia": [
-    "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped"
+    "hf_EleutherAI_pythia-160m"
   ],
   "pytorch": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
+  ],
+  "q2_k": [
+    "hf_antirez_deepseek-v4-gguf"
+  ],
+  "q4_k": [
+    "hf_antirez_deepseek-v4-gguf"
   ],
   "qa-nli": [
     "hf_ds_621ffdd236468d709f181e3f"
+  ],
+  "quantized": [
+    "hf_antirez_deepseek-v4-gguf",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "question-answering": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -2868,9 +3236,6 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
-  "qwen3_moe": [
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
-  ],
   "qwen3_next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -2878,13 +3243,11 @@
     "hf_ds_6954cdff0a36f347a9b323fd"
   ],
   "reasoning": [
-    "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
-    "hf_ds_68a55284aaea0407e031a0ad"
+    "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
   "region:us": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -2895,10 +3258,10 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -2938,15 +3301,15 @@
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_675d7e29e24babdf1842d270",
-    "hf_ds_676477a23a379cdda443f577",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-    "hf_ds_67cac93b5877d9c876a84572",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -2957,10 +3320,10 @@
     "hf_ds_6835d7e81900f053ee3c7c9e",
     "hf_ds_6850196ad602532f84eb625b",
     "hf_ds_6851cac31458ae6b02f8e8e7",
-    "hf_ds_689042da4516ba24837c50cd",
-    "hf_ds_68a55284aaea0407e031a0ad",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_68e91443c366e5879388a4d4",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_69417bb991171752887f7213",
@@ -2979,29 +3342,29 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69b6276dd5de8ef6a41f39e6",
     "hf_ds_69be6056f46b7dff732d8c53",
-    "hf_ds_69c2007e19d6a09b73f58d79",
     "hf_ds_69cd2a3acc9af6d091c033f0",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_facebook_opt-125m",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "reinforcement-learning": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -3023,12 +3386,10 @@
   ],
   "rust": [
     "hf_distilbert_distilgpt2",
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
   ],
   "safetensors": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -3039,7 +3400,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -3050,19 +3410,20 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "scientific-literature": [
     "hf_ds_6947232e01886522f0154ff9"
@@ -3087,7 +3448,8 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_669e6b2752cf1c619d4c0178",
-    "hf_ds_68a55284aaea0407e031a0ad"
+    "hf_ds_66a9fba22c7c3ebdd7de3d33",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "size_categories:10B<n<100B": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -3105,10 +3467,12 @@
   ],
   "size_categories:10M<n<100M": [
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_66dc4e6348cb97a720daea22"
+    "hf_ds_66dc4e6348cb97a720daea22",
+    "hf_ds_68c6d459d95ef41da81c9b41"
   ],
   "size_categories:1B<n<10B": [
     "hf_ds_675d7e29e24babdf1842d270",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
@@ -3139,14 +3503,12 @@
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69c2007e19d6a09b73f58d79",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217"
   ],
   "size_categories:n>1T": [
     "hf_ds_66e4b270f5579b829f4c18eb",
-    "hf_ds_67cac93b5877d9c876a84572",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_6954cdff0a36f347a9b323fd"
   ],
   "source_datasets:Federal Court of Australia": [
@@ -3208,9 +3570,6 @@
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
-  "spatial-reasoning": [
-    "hf_ds_69c2007e19d6a09b73f58d79"
-  ],
   "stable diffusion": [
     "hf_ds_65ce59255f233e28db20fe4f"
   ],
@@ -3221,7 +3580,8 @@
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "synthetic-data": [
-    "hf_ds_6785649a41a64e1582b8bb05"
+    "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "task_categories:automatic-speech-recognition": [
     "hf_ds_6993525c8be5bf8321bcc775"
@@ -3233,21 +3593,22 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
-    "hf_ds_64980085fa9591cb3dc4d378"
+    "hf_ds_64980085fa9591cb3dc4d378",
+    "hf_ds_67cac990bdf9000d16109b38"
   ],
   "task_categories:image-classification": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_6785649a41a64e1582b8bb05"
   ],
   "task_categories:image-feature-extraction": [
-    "hf_ds_6785649a41a64e1582b8bb05"
+    "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "task_categories:image-segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
   ],
   "task_categories:image-text-to-text": [
-    "hf_ds_68e91443c366e5879388a4d4",
-    "hf_ds_69c2007e19d6a09b73f58d79"
+    "hf_ds_68e91443c366e5879388a4d4"
   ],
   "task_categories:image-to-3d": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -3262,8 +3623,7 @@
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_64edb45c5c9245397fc83a26",
-    "hf_ds_663b7fd5a4152b77b637ba11",
-    "hf_ds_68a55284aaea0407e031a0ad"
+    "hf_ds_663b7fd5a4152b77b637ba11"
   ],
   "task_categories:reinforcement-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
@@ -3295,26 +3655,27 @@
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_675d7e29e24babdf1842d270",
-    "hf_ds_67cac93b5877d9c876a84572",
-    "hf_ds_68a55284aaea0407e031a0ad",
+    "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "task_categories:text-retrieval": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
+  "task_categories:text-to-image": [
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
+  ],
   "task_categories:token-classification": [
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_6374015cc3b104ef17a000f2"
   ],
-  "task_categories:video-text-to-text": [
-    "hf_ds_69c2007e19d6a09b73f58d79"
-  ],
-  "task_categories:visual-question-answering": [
-    "hf_ds_69c2007e19d6a09b73f58d79"
+  "task_categories:translation": [
+    "hf_ds_688209a61f4d0375592760e0"
   ],
   "task_categories:zero-shot-image-classification": [
-    "hf_ds_6785649a41a64e1582b8bb05"
+    "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "task_ids:acceptability-classification": [
     "hf_ds_621ffdd236468d709f181e3f"
@@ -3333,6 +3694,7 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_64980085fa9591cb3dc4d378",
+    "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "task_ids:masked-language-modeling": [
@@ -3371,7 +3733,6 @@
   "text-generation": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -3382,10 +3743,10 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -3395,24 +3756,24 @@
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_facebook_opt-125m",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "text-generation-inference": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -3426,21 +3787,22 @@
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_facebook_opt-125m",
+    "hf_google_gemma-3-1b-it",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
   ],
   "text-to-image": [
-    "hf_ds_65ce59255f233e28db20fe4f"
+    "hf_ds_65ce59255f233e28db20fe4f",
+    "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "tf": [
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
-    "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large"
+    "hf_openai-community_gpt2"
   ],
   "tflite": [
     "hf_distilbert_distilgpt2",
@@ -3451,7 +3813,6 @@
   ],
   "transformers": [
     "hf_EleutherAI_pythia-160m",
-    "hf_EleutherAI_pythia-70m-deduped",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -3462,7 +3823,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -3474,19 +3834,19 @@
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_facebook_opt-125m",
+    "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai-community_gpt2",
-    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
-    "hf_vikhyatk_moondream2",
-    "hf_zai-org_GLM-5-FP8"
+    "hf_vikhyatk_moondream2"
   ],
   "trl": [
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
@@ -3498,8 +3858,7 @@
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "video": [
-    "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_69c2007e19d6a09b73f58d79"
+    "hf_ds_6954cdff0a36f347a9b323fd"
   ],
   "vision": [
     "hf_microsoft_Phi-3.5-vision-instruct"
@@ -3513,8 +3872,5 @@
   ],
   "widowx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
-  ],
-  "zh": [
-    "hf_zai-org_GLM-5-FP8"
   ]
 }
