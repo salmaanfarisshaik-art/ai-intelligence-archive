@@ -19,7 +19,8 @@ export default function SearchModal({ isOpen, onClose }: { isOpen: boolean; onCl
   useEffect(() => {
     if (isOpen && index.length === 0) {
       setIsLoading(true);
-      fetch("/data/search_index.json")
+      const basePath = process.env.NODE_ENV === "production" ? "/ai-intelligence-archive" : "";
+      fetch(`${basePath}/data/search_index.json`)
         .then((res) => res.json())
         .then((data) => {
           setIndex(data);

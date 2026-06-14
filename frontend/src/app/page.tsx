@@ -16,7 +16,8 @@ export default function Home() {
 
   useEffect(() => {
     // Fetch stats
-    fetch("/data/archive_stats.json")
+    const basePath = process.env.NODE_ENV === "production" ? "/ai-intelligence-archive" : "";
+    fetch(`${basePath}/data/archive_stats.json`)
       .then((res) => res.json())
       .then((payload) => setStats(payload.data))
       .catch((err) => console.error("Failed to load stats", err));
