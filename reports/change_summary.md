@@ -1,12 +1,10 @@
 # Change Summary
 
-**Total Changes:** 24
+**Total Changes:** 22
 
 ## Added
-- releases/v2026.06.14.20260614_125109.zip
-- releases/v2026.06.14.20260614_125109/
-- releases/v2026.06.14.20260614_125935.zip
-- releases/v2026.06.14.20260614_125935/
+- releases/v2026.06.14.20260614_130139.zip
+- releases/v2026.06.14.20260614_130139/
 
 ## Modified
 - data/metadata/api_manifest.json
