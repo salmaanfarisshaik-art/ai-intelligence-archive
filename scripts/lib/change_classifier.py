@@ -3,7 +3,10 @@ from typing import Dict, Any, List
 class ChangeClassifier:
     def __init__(self):
         self.ignore_prefixes = [
-            ".tmp", "__pycache__", "logs/", ".pytest_cache", "venv/"
+            ".tmp", "__pycache__", "logs/", ".pytest_cache", "venv/",
+            "reports/latest_run.md", "reports/run_manifest.json",
+            "reports/change_summary.json", "reports/change_summary.md",
+            "reports/project_status.json", "releases/", "snapshots/"
         ]
         
     def classify(self, changes: Dict[str, List[str]]) -> Dict[str, Any]:
