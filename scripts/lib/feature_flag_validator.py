@@ -31,11 +31,11 @@ class FeatureFlagValidator(BaseGenerator):
             "enable_relationship_graph", "enable_local_api", "enable_query_engine",
             "enable_plugin_system", "enable_release_builder", "enable_integrity_checker",
             "enable_snapshot_generation", "enable_manifest_generation", "enable_graph_api_exports",
-            "enable_static_site", "enable_contribution_layer", "enable_leaderboards",
-            "enable_knowledge_graph", "enable_recommendations", "enable_governance_docs",
-            "enable_repository_intelligence", "enable_repository_audit", "enable_timeline_generation",
-            "enable_coverage_analysis", "enable_snapshot_archives", "enable_release_archives",
-            "enable_self_documentation"
+            # Phase 6 & 7 Feature Flags
+            "enable_recommendation_engine", "enable_leaderboards", "enable_timeline_generation",
+            "enable_trend_analysis", "enable_advanced_graph", "enable_site_generation",
+            "enable_repository_auditor", "enable_coverage_analysis", "enable_schema_auditor",
+            "enable_self_documentation", "enable_dependency_reports", "enable_repository_metrics"
         ]
         
         warnings = []

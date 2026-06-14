@@ -19,19 +19,18 @@ features:
   enable_graph_api_exports: true
   
   # Phase 6 & 7 Feature Flags
-  enable_static_site: true
-  enable_contribution_layer: true
+  enable_recommendation_engine: true
   enable_leaderboards: true
-  enable_knowledge_graph: true
-  enable_recommendations: true
-  enable_governance_docs: true
-  enable_repository_intelligence: true
-  enable_repository_audit: true
   enable_timeline_generation: true
+  enable_trend_analysis: true
+  enable_advanced_graph: true
+  enable_site_generation: true
+  enable_repository_auditor: true
   enable_coverage_analysis: true
-  enable_snapshot_archives: true
-  enable_release_archives: true
+  enable_schema_auditor: true
   enable_self_documentation: true
+  enable_dependency_reports: true
+  enable_repository_metrics: true
 
 report_generation_flags:
   generate_markdown_reports: true

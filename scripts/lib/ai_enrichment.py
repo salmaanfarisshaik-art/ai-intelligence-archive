@@ -9,8 +9,8 @@ logger = setup_logger("ai_enrichment")
 
 class AIEnricher:
     def __init__(self):
-        self.api_key = os.getenv("GEMINI_API_KEY")
-        self.endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.api_key}"
+        self.api_key = os.getenv("GEMINI_API_KEY", "")
+        self.endpoint = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={self.api_key}" if self.api_key else ""
 
     def enrich(self, schema_name: str, records: List[Dict[Any, Any]]) -> List[Dict[Any, Any]]:
         if not config.is_feature_enabled("enable_ai_enrichment"):

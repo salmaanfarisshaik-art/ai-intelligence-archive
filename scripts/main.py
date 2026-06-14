@@ -40,16 +40,19 @@ from scripts.plugins.plugin_manager import PluginManager
 # Phase 6 & Phase 7 Imports
 from scripts.lib.interface_validator import InterfaceValidator
 from scripts.lib.feature_flag_validator import FeatureFlagValidator
-from scripts.site.site_generator import SiteGenerator
-from scripts.lib.leaderboard_generator import LeaderboardGenerator
-from scripts.lib.advanced_graph import AdvancedGraph
 from scripts.lib.recommendation_engine import RecommendationEngine
-from scripts.lib.governance_generator import GovernanceGenerator
-from scripts.lib.repository_intelligence import RepositoryIntelligence
+from scripts.lib.leaderboard_generator import LeaderboardGenerator
 from scripts.lib.timeline_generator import TimelineGenerator
-from scripts.lib.coverage_analysis import CoverageAnalysis
+from scripts.lib.trend_analyzer import TrendAnalyzer
+from scripts.lib.advanced_graph import AdvancedGraph
+from scripts.generate_site import generate_site
+
 from scripts.lib.repository_auditor import RepositoryAuditor
+from scripts.lib.coverage_analyzer import CoverageAnalyzer
+from scripts.lib.schema_auditor import SchemaAuditor
 from scripts.lib.self_documentation import SelfDocumentation
+from scripts.lib.dependency_report import DependencyReport
+from scripts.lib.repository_metrics import RepositoryMetrics
 from scripts.lib.serialization import save_json_deterministic
 
 logger = setup_logger("main")
@@ -344,7 +347,7 @@ def main():
 
         # --- Phase 6 & Phase 7 Execution Block ---
         
-        # 1. Validation Layer
+        # 1. Validation Layer (Stable)
         try:
             logger.info("Running InterfaceValidator")
             InterfaceValidator().run()
@@ -361,32 +364,8 @@ def main():
             logger.error("FeatureFlagValidator failed", exc_info=True)
             modules_failed.append("feature_flag_validator")
 
-        # 2. Phase 6: Ecosystem Layer
-        if config.is_feature_enabled("enable_static_site"):
-            try:
-                SiteGenerator().run()
-                modules_run.append("site_generator")
-            except Exception:
-                logger.error("SiteGenerator failed", exc_info=True)
-                modules_failed.append("site_generator")
-                
-        if config.is_feature_enabled("enable_leaderboards"):
-            try:
-                LeaderboardGenerator().run()
-                modules_run.append("leaderboard_generator")
-            except Exception:
-                logger.error("LeaderboardGenerator failed", exc_info=True)
-                modules_failed.append("leaderboard_generator")
-
-        if config.is_feature_enabled("enable_knowledge_graph"):
-            try:
-                AdvancedGraph().run()
-                modules_run.append("advanced_graph")
-            except Exception:
-                logger.error("AdvancedGraph failed", exc_info=True)
-                modules_failed.append("advanced_graph")
-
-        if config.is_feature_enabled("enable_recommendations"):
+        # 2. Phase 6: Ecosystem Intelligence Layer
+        if config.is_feature_enabled("enable_recommendation_engine"):
             try:
                 RecommendationEngine().run()
                 modules_run.append("recommendation_engine")
@@ -394,38 +373,70 @@ def main():
                 logger.error("RecommendationEngine failed", exc_info=True)
                 modules_failed.append("recommendation_engine")
 
-        if config.is_feature_enabled("enable_governance_docs"):
+        if config.is_feature_enabled("enable_leaderboards"):
             try:
-                GovernanceGenerator().run()
-                modules_run.append("governance_generator")
+                LeaderboardGenerator().run()
+                modules_run.append("leaderboards")
             except Exception:
-                logger.error("GovernanceGenerator failed", exc_info=True)
-                modules_failed.append("governance_generator")
-
-        # 3. Phase 7: Intelligence & Governance Layer
-        if config.is_feature_enabled("enable_repository_intelligence"):
-            try:
-                RepositoryIntelligence().run()
-                modules_run.append("repository_intelligence")
-            except Exception:
-                logger.error("RepositoryIntelligence failed", exc_info=True)
-                modules_failed.append("repository_intelligence")
+                logger.error("LeaderboardGenerator failed", exc_info=True)
+                modules_failed.append("leaderboards")
 
         if config.is_feature_enabled("enable_timeline_generation"):
             try:
                 TimelineGenerator().run()
-                modules_run.append("timeline_generator")
+                modules_run.append("timeline_generation")
             except Exception:
                 logger.error("TimelineGenerator failed", exc_info=True)
-                modules_failed.append("timeline_generator")
+                modules_failed.append("timeline_generation")
+
+        if config.is_feature_enabled("enable_trend_analysis"):
+            try:
+                TrendAnalyzer().run()
+                modules_run.append("trend_analysis")
+            except Exception:
+                logger.error("TrendAnalyzer failed", exc_info=True)
+                modules_failed.append("trend_analysis")
+
+        if config.is_feature_enabled("enable_advanced_graph"):
+            try:
+                AdvancedGraph().run()
+                modules_run.append("advanced_graph")
+            except Exception:
+                logger.error("AdvancedGraph failed", exc_info=True)
+                modules_failed.append("advanced_graph")
+
+        if config.is_feature_enabled("enable_site_generation"):
+            try:
+                generate_site()
+                modules_run.append("site_generation")
+            except Exception:
+                logger.error("generate_site failed", exc_info=True)
+                modules_failed.append("site_generation")
+
+        # 3. Phase 7: Governance & Self-Maintenance Layer
+        if config.is_feature_enabled("enable_repository_auditor"):
+            try:
+                RepositoryAuditor().run()
+                modules_run.append("repository_auditor")
+            except Exception:
+                logger.error("RepositoryAuditor failed", exc_info=True)
+                modules_failed.append("repository_auditor")
 
         if config.is_feature_enabled("enable_coverage_analysis"):
             try:
-                CoverageAnalysis().run()
+                CoverageAnalyzer().run()
                 modules_run.append("coverage_analysis")
             except Exception:
-                logger.error("CoverageAnalysis failed", exc_info=True)
+                logger.error("CoverageAnalyzer failed", exc_info=True)
                 modules_failed.append("coverage_analysis")
+
+        if config.is_feature_enabled("enable_schema_auditor"):
+            try:
+                SchemaAuditor().run()
+                modules_run.append("schema_auditor")
+            except Exception:
+                logger.error("SchemaAuditor failed", exc_info=True)
+                modules_failed.append("schema_auditor")
 
         if config.is_feature_enabled("enable_self_documentation"):
             try:
@@ -435,14 +446,21 @@ def main():
                 logger.error("SelfDocumentation failed", exc_info=True)
                 modules_failed.append("self_documentation")
 
-        # 4. Repository Auditor (Runs last to audit all newly generated files)
-        if config.is_feature_enabled("enable_repository_audit"):
+        if config.is_feature_enabled("enable_dependency_reports"):
             try:
-                RepositoryAuditor().run()
-                modules_run.append("repository_auditor")
+                DependencyReport().run()
+                modules_run.append("dependency_reports")
             except Exception:
-                logger.error("RepositoryAuditor failed", exc_info=True)
-                modules_failed.append("repository_auditor")
+                logger.error("DependencyReport failed", exc_info=True)
+                modules_failed.append("dependency_reports")
+
+        if config.is_feature_enabled("enable_repository_metrics"):
+            try:
+                RepositoryMetrics().run()
+                modules_run.append("repository_metrics")
+            except Exception:
+                logger.error("RepositoryMetrics failed", exc_info=True)
+                modules_failed.append("repository_metrics")
 
         # 5. Run Manifest Generation
         try:
