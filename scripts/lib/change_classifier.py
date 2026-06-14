@@ -25,7 +25,7 @@ class ChangeClassifier:
             "data/metadata/feature_manifest.json", "data/metadata/repo_metrics.json",
             "data/metadata/repository_manifest.json", "data/metadata/schema_manifest.json",
             "graph/edges.json", "graph/graph_api.json", "graph/nodes.json",
-            "site/index.json", "site/search_index.json"
+            "site/index.json", "site/search_index.json", "site/navigation.json"
         }
         
         meaningful_changes = []
