@@ -44,6 +44,8 @@ class PipelineDecisionEngine:
         classifier = ChangeClassifier()
         classification = classifier.classify(raw_changes)
         
+        self.logger.info(f"Meaningful changes: {classification['meaningful_changes']}")
+        
         if not classification["has_meaningful_changes"]:
             self.logger.info("No meaningful changes detected. Skipping site generation, commit, and push.")
             status_report["phase8_status"] = "success_no_changes"
