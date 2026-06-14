@@ -15,6 +15,19 @@ class ChangeClassifier:
         """
         all_changes = changes.get("files_added", []) + changes.get("files_modified", []) + changes.get("files_removed", [])
         
+        volatile_files = {
+            "reports/latest_run.md", "reports/run_manifest.json",
+            "reports/change_summary.json", "reports/change_summary.md",
+            "reports/project_status.json", "reports/dashboard.md",
+            "reports/integrity_report.md", "reports/integrity_status.json",
+            "reports/repository_metrics.md",
+            "data/metadata/api_manifest.json", "data/metadata/connector_manifest.json",
+            "data/metadata/feature_manifest.json", "data/metadata/repo_metrics.json",
+            "data/metadata/repository_manifest.json", "data/metadata/schema_manifest.json",
+            "graph/edges.json", "graph/graph_api.json", "graph/nodes.json",
+            "site/index.json", "site/search_index.json"
+        }
+        
         meaningful_changes = []
         categories = set()
         
@@ -22,6 +35,9 @@ class ChangeClassifier:
             # Normalize slashes
             norm_f = f.replace("\\", "/")
             if any(norm_f.startswith(p) or p in norm_f for p in self.ignore_prefixes):
+                continue
+                
+            if norm_f in volatile_files:
                 continue
             
             meaningful_changes.append(norm_f)

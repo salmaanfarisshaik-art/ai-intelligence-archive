@@ -75,8 +75,9 @@ class PipelineDecisionEngine:
         auto_commit_enabled = config.is_feature_enabled("enable_auto_commit") and os.getenv("ENABLE_AUTOCOMMIT") == "true"
         
         if auto_commit_enabled:
+            all_files_to_commit = raw_changes.get("files_added", []) + raw_changes.get("files_modified", []) + raw_changes.get("files_removed", [])
             commit_mgr = CommitManager(is_dry_run=self.is_dry_run)
-            success = commit_mgr.commit(classification["meaningful_changes"], classification["suggested_commit_message"])
+            success = commit_mgr.commit(all_files_to_commit, classification["suggested_commit_message"])
             status_report["commit_created"] = success
             if not success and not self.is_dry_run:
                 status_report["phase8_status"] = "failed_at_commit"
