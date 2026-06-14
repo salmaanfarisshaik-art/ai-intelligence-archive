@@ -1,59 +1,32 @@
 # Change Summary
 
-**Total Changes:** 49
+**Total Changes:** 22
 
 ## Added
-- docs/generated_architecture.md
-- docs/system_overview.md
-- releases/v2026.06.14.20260614_124951.zip
-- releases/v2026.06.14.20260614_124951/
-- reports/change_summary.json
-- reports/change_summary.md
-- reports/dependency_report.md
-- reports/repository_audit.md
-- reports/repository_metrics.md
-- reports/schema_audit.md
+- releases/v2026.06.14.20260614_125021.zip
+- releases/v2026.06.14.20260614_125021/
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- data/processed/datasets/data.json
-- data/processed/models/data.json
-- data/processed/tools/data.json
-- docs/dataset.md
-- docs/text-generation.md
-- exports/csv/all_entities.csv
-- exports/csv/dataset.csv
-- exports/csv/text-generation.csv
-- exports/json/all_entities.json
-- exports/json/dataset.json
-- exports/json/text-generation.json
-- exports/markdown/dataset.md
-- exports/markdown/text-generation.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
-- reports/coverage_report.md
+- reports/change_summary.json
+- reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/latest_run.md
 - reports/project_status.json
-- reports/timeline.md
-- site/index.json
-- site/search_index.json
+- reports/repository_metrics.md
+- reports/run_manifest.json
 
 ## Removed
 None
