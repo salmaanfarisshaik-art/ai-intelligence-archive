@@ -2238,7 +2238,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-21T05:15:51.000Z",
-    "likes": 543,
+    "likes": 544,
     "private": false,
     "sha": "db51ecb12920faef6df2b21dff6207ebcbc72c6f",
     "description": "\n\t\n\t\t\n\t\tThe Anthropic Economic Index\n\t\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThe Anthropic Economic Index provides insights into how AI is being incorporated into real-world tasks across the modern economy.\n\n\t\n\t\t\n\t\tData Releases\n\t\n\nThis repository contains multiple data releases, each with its own documentation:\n\nLabor market impacts: Job exposure and task penetration data\n2026-03-24 Release: Updated analysis with Opus 4.5/4.6 and learning curves\n2026-01-15 Release: Updated analysis with economic primitives… See the full description on the dataset page: https://huggingface.co/datasets/Anthropic/EconomicIndex.",
@@ -7465,10 +7465,10 @@
     "author": "eddmpython",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T16:22:46.000Z",
+    "lastModified": "2026-06-15T19:42:37.000Z",
     "likes": 2,
     "private": false,
-    "sha": "9a21f8ad339d4fa8207605f281e8fb693bebdd1c",
+    "sha": "4462b3e6174f988fbc613620964090fd4b2a6677",
     "description": "\n\n\n\n\n\nDartLab Data\n\nStructured company data from DART & EDGAR disclosure filings\nDART 전자공시 + EDGAR 공시 데이터 — 한국 2,700사 / 미국 970사\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is this?\n\t\n\n\n\nPre-collected Parquet files from DartLab — a Python library that turns DART (Korea) and EDGAR (US) disclosure filings into one structured company map.\n한국 DART 전자공시 시스템과 미국 SEC EDGAR에서 수집한 기업 공시 데이터입니다.\nThis dataset is the data layer behind DartLab. When you run dartlab.Company(\"005930\"), the library automatically downloads the… See the full description on the dataset page: https://huggingface.co/datasets/eddmpython/dartlab-data.",
     "downloads": 51019,
     "tags": [
@@ -8055,7 +8055,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-05-15T22:28:55.000Z",
-    "likes": 51,
+    "likes": 52,
     "private": false,
     "sha": "c9674490249665d658f527e2684848377108d82c",
     "description": "YODAS2 is the long-form dataset from YODAS dataset.\nIt provides the same dataset as espnet/yodas  but YODAS2 has the following new features:\n\nformatted in the long-form (video-level) where audios are not segmented.\naudios are encoded using higher sampling rates (i.e. 24k)\n\nFor detailed information about YODAS dataset, please refer to our paper and the espnet/yodas repo.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage:\n\t\n\nEach data point corresponds to an entire video on YouTube, it contains the following fields:\n\nvideo_id:… See the full description on the dataset page: https://huggingface.co/datasets/espnet/yodas2.",
@@ -8190,21 +8190,14 @@
     "author": "evaleval",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-14T22:05:18.000Z",
+    "lastModified": "2026-06-15T20:31:11.000Z",
     "likes": 30,
     "private": false,
-    "sha": "36dffa3e906f33ce03162bf4b119ca72dd9d926a",
+    "sha": "5d370c343cdabb154baf2de8b3176c70ab92fa20",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvery Eval Ever Datastore\n\t\n\nThis is the datastore for the Every Eval Ever project. The readme from the project GitHub is below. It describes how to submit new benchmarks and evals to this dataset.\n\nEvalEval Coalition — \"We are a researcher community developing scientifically grounded research outputs and robust deployment infrastructure for broader impact evaluations.\"\n\nEvery Eval Ever is a shared schema and crowdsourced eval database. It defines a standardized metadata format for… See the full description on the dataset page: https://huggingface.co/datasets/evaleval/EEE_datastore.",
     "downloads": 47255,
     "tags": [
       "license:mit",
-      "size_categories:1K<n<10K",
-      "format:parquet",
-      "modality:text",
-      "library:datasets",
-      "library:pandas",
-      "library:polars",
-      "library:mlcroissant",
       "region:us"
     ],
     "createdAt": "2026-02-11T15:19:44.000Z",
@@ -8284,7 +8277,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-25T14:49:18.000Z",
-    "likes": 3,
+    "likes": 4,
     "private": false,
     "sha": "1e1d50785d89068cc11cc6ddd41bc27ccbd78bd0",
     "description": "\n\t\n\t\t\n\t\tExylos Bimanual Table Spill Cleanup Sample\n\t\n\n\nA human-in-the-loop, multi-view bimanual robot manipulation dataset for tabletop spill cleanup: removing distractor objects and wiping spilled liquid from the surface with a sponge. Delivered in a LeRobot-compatible structure with synchronized video, state/action trajectories, segmentation masks, object pose signals, phase annotations, and success/failure labels.\n\nFor the Hugging Face Dataset Viewer, viewer_data/chunk-000/*.parquet… See the full description on the dataset page: https://huggingface.co/datasets/ExylosAi/table_spill_cleanup_bimanual.",
@@ -9744,10 +9737,10 @@
     "author": "GGSheng",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:03:35.000Z",
+    "lastModified": "2026-06-15T20:46:49.000Z",
     "likes": 3,
     "private": false,
-    "sha": "3367dd262fe965b02f76466cfa1999212fcf561a",
+    "sha": "3bd63dcb6cad70719539fcb16ea346f650ae05c1",
     "downloads": 23755,
     "tags": [
       "region:us"
@@ -9824,10 +9817,10 @@
     "author": "gionuibk",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:01:13.000Z",
+    "lastModified": "2026-06-15T20:42:59.000Z",
     "likes": 8,
     "private": false,
-    "sha": "9b62292ead49d47f40ba0663112bc95f60f268d6",
+    "sha": "2269a6519d08dcba76a0a3b35e2becf814136036",
     "downloads": 31579,
     "tags": [
       "region:us"
@@ -10551,10 +10544,10 @@
     "author": "guyahaobjio5bdq",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:06:26.000Z",
+    "lastModified": "2026-06-15T20:35:46.000Z",
     "likes": 0,
     "private": false,
-    "sha": "bb4b6fae84a31b2abddca9a12d794e147c08afc5",
+    "sha": "40beff9b047369ead6ce0acd81bee4b1d069049e",
     "downloads": 28121,
     "tags": [
       "region:us"
@@ -11113,10 +11106,10 @@
     "author": "hf-doc-build",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T16:54:39.000Z",
+    "lastModified": "2026-06-15T20:49:43.000Z",
     "likes": 38,
     "private": false,
-    "sha": "4c0beb499331dd407232e97bf5ef1bc0caf6b390",
+    "sha": "814d0eeed7fbdfc19fc4afc1d764f18e475ebdc3",
     "description": "This repo contains all the docs published on https://huggingface.co/docs.\nThe docs are generated with https://github.com/huggingface/doc-builder.\n",
     "downloads": 173795,
     "tags": [
@@ -12004,10 +11997,10 @@
     "author": "hufeice",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-14T10:59:02.000Z",
+    "lastModified": "2026-06-15T19:10:12.000Z",
     "likes": 0,
     "private": false,
-    "sha": "d2026bf75c165e49fe1a90f770d774fb4af1370c",
+    "sha": "1bcacd6f5d4b5e8447fce1f4751ff9c1bd731b96",
     "downloads": 27707,
     "tags": [
       "region:us"
@@ -12023,10 +12016,10 @@
     "author": "hugging-science",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T13:16:42.000Z",
+    "lastModified": "2026-06-15T20:40:33.000Z",
     "likes": 1,
     "private": false,
-    "sha": "c5f858475c7915af12baf30256bf9ff2214d4fbf",
+    "sha": "161af1e1e782f72caa30950622cfa99998d5d7f9",
     "downloads": 74846,
     "tags": [
       "region:us"
@@ -14095,7 +14088,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-03-31T06:26:09.000Z",
-    "likes": 126,
+    "likes": 127,
     "private": false,
     "sha": "78cf4a5ed0099214979c094c963e699c19163838",
     "description": "\n\t\n\t\t\n\t\tDataset Card for HuggingFaceFW/finephrase\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSynthetic data generated by DataTrove:\n\nModel: HuggingFaceTB/SmolLM2-1.7B-Instruct (main)\nSource dataset: HuggingFaceFW/fineweb-edu, config sample-350BT, split train\nGeneration config: temperature=1.0, top_p=1.0, top_k=50, max_tokens=2048, model_max_context=8192\nSpeculative decoding: {\"method\":\"suffix\",\"num_speculative_tokens\":32}\nSystem prompt: None\nInput column: text\n\nPrompt families:\n\nfaq prompt\n\nRewrite the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finephrase.",
@@ -14159,7 +14152,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-10-27T18:32:07.000Z",
-    "likes": 819,
+    "likes": 820,
     "private": false,
     "sha": "af9c13333eb981300149d5ca60a8e9d659b276b9",
     "description": "\n\t\n\t\t\n\t\t🥂 FineWeb2\n\t\n\n\n    \n\n\n\nA sparkling update with 1000s of languages\n\n\n\t\n\t\t\n\t\tWhat is it?\n\t\n\nThis is the second iteration of the popular 🍷 FineWeb dataset, bringing high quality pretraining data to over 1000 🗣️ languages.\nThe 🥂 FineWeb2 dataset is fully reproducible, available under the permissive ODC-By 1.0 license and extensively validated through hundreds of ablation experiments.\nIn particular, on the set of 9 diverse languages we used to guide our processing decisions, 🥂 FineWeb2… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb-2.",
@@ -16001,7 +15994,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-07-11T20:16:53.000Z",
-    "likes": 1144,
+    "likes": 1145,
     "private": false,
     "sha": "87f09149ef4734204d70ed1d046ddc9ca3f2b8f9",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t📚 FineWeb-Edu\n\t\n\n\n    \n\n\n\n1.3 trillion tokens of the finest educational data the 🌐 web has to offer\n\nPaper: https://arxiv.org/abs/2406.17557\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\n📚 FineWeb-Edu  dataset consists of 1.3T tokens  and  5.4T tokens (FineWeb-Edu-score-2) of educational web pages filtered from 🍷 FineWeb dataset. This is the 1.3 trillion version.\nTo enhance FineWeb's quality, we developed an educational quality classifier using annotations generated by LLama3-70B-Instruct. We… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu.",
@@ -16347,10 +16340,10 @@
     "author": "hungsmoie",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T16:53:02.000Z",
+    "lastModified": "2026-06-15T17:18:32.000Z",
     "likes": 0,
     "private": false,
-    "sha": "5317652df6d0b845823191d24f037f97fbb685be",
+    "sha": "5f8b445ff3d768819a4cb3681d7549d85a3bd05e",
     "downloads": 46310,
     "tags": [
       "license:apache-2.0",
@@ -16432,10 +16425,10 @@
     "author": "i998979",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:07:02.000Z",
+    "lastModified": "2026-06-15T20:50:02.000Z",
     "likes": 13,
     "private": false,
-    "sha": "43d8d2826dc1991851ebac06bb5aa4498b773566",
+    "sha": "131b6d9a9e6041449cb02be5f12491b5df868f2b",
     "downloads": 35124,
     "tags": [
       "region:us"
@@ -16875,7 +16868,7 @@
     "disabled": false,
     "gated": "auto",
     "lastModified": "2026-02-06T10:55:44.000Z",
-    "likes": 77,
+    "likes": 78,
     "private": false,
     "sha": "7b05993b21813c3787f2f7f604bfc22b80c48c8e",
     "description": "\n    \n\n\n\n\n\n\t\n\t\t\n\t\tInternData-N1\n\t\n\nInternData-N1 is a large-scale, unified vision-language navigation dataset consolidating multiple benchmarks into a standardized format. With over 240,000 trajectories across 3,000+ scenes, it provides diverse, high-quality data for training and evaluating embodied AI navigation systems.\n\n\t\n\t\t\n\t\t🔑 Key Features\n\t\n\n\nUnified Format for Different Benchmarks\nInternData-N1 consolidates three subsets—VLN-CE, VLN-PE, and VLN-N1—into the mainstream LeRobot (v2.1)… See the full description on the dataset page: https://huggingface.co/datasets/InternRobotics/InternData-N1.",
@@ -18621,10 +18614,10 @@
     "author": "KakologArchives",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:07:04.000Z",
+    "lastModified": "2026-06-15T20:47:19.000Z",
     "likes": 55,
     "private": false,
-    "sha": "37c0dbf7429af96a0671163bed058a7ec7964938",
+    "sha": "d0f154e915f68e5b0208d402d9eaad599cff1bbf",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
     "downloads": 1808695,
     "tags": [
@@ -21670,7 +21663,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-12-08T22:21:49.000Z",
-    "likes": 306,
+    "likes": 307,
     "private": false,
     "sha": "2b6d039ed471f2ba5fd2acb718bf33b0a7e5598e",
     "description": "Amazon Review 2023 is an updated version of the Amazon Review 2018 dataset.\nThis dataset mainly includes reviews (ratings, text) and item metadata (desc-\nriptions, category information, price, brand, and images). Compared to the pre-\nvious versions, the 2023 version features larger size, newer reviews (up to Sep\n2023), richer and cleaner meta data, and finer-grained timestamps (from day to \nmilli-second).",
@@ -22083,10 +22076,10 @@
     "author": "Metanova",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T16:13:59.000Z",
+    "lastModified": "2026-06-15T19:46:00.000Z",
     "likes": 0,
     "private": false,
-    "sha": "c205cd9471bdd18bc58b3d5110f0ab5b15eb2a63",
+    "sha": "a77d00754c20c712db0cd953bab52563ca483308",
     "downloads": 100661,
     "tags": [
       "region:us"
@@ -24071,7 +24064,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-06-18T18:57:59.000Z",
-    "likes": 56,
+    "likes": 57,
     "private": false,
     "sha": "a5cc41c5ecfc1d4a6571f98ade92d7fec100b2a8",
     "description": "\n\t\n\t\t\n\t\tAceReason-Math Dataset\n\t\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nAceReason-Math is a high quality, verfiable, challenging and diverse math dataset for training math reasoning model using reinforcement leraning. This dataset contains\n\n49K math problems and answer sourced from NuminaMath and DeepScaler-Preview\napplying filtering rules to exclude unsuitable data (e.g., multiple sub-questions, multiple-choice, true/false, long and complex answers, proof, figure)\nthis dataset was used to train… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/AceReason-Math.",
@@ -24793,10 +24786,10 @@
     "author": "open-index",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:05:08.000Z",
+    "lastModified": "2026-06-15T20:50:08.000Z",
     "likes": 328,
     "private": false,
-    "sha": "f93a5a3331355144ee6d82522d39ee29a26bf7c4",
+    "sha": "c5de1775a7ce571aa08a7a2633259bcc1e467537",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tHacker News - Complete Archive\n\t\n\n\nEvery Hacker News item since 2006, live-updated every 5 minutes\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis dataset contains the complete Hacker News archive: every story, comment, Ask HN, Show HN, job posting, and poll ever submitted to the site. Hacker News is one of the longest-running and most influential technology communities on the internet, operated by Y Combinator since 2007. It has become the de facto gathering place for founders, engineers… See the full description on the dataset page: https://huggingface.co/datasets/open-index/hacker-news.",
     "downloads": 34980,
     "tags": [
@@ -25115,7 +25108,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-28T04:25:13.000Z",
-    "likes": 387,
+    "likes": 388,
     "private": false,
     "sha": "7ddd4170ce03e0afbd7d9b80d4bc0b8eebf877e4",
     "description": "\n\t\n\t\t\n\t\tUltra-FineWeb\n\t\n\n\n  \n\n\n\n📜 Technical Report |\n📦 UltraData Collection |\n🌐 UltraData | \n🤗 MiniCPM4 Series |\n🤗 MiniCPM5 Series\n\n\n\nEnglish |\n中文\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t📚 Introduction\n\t\n\nUltra-FineWeb is a large-scale, high-quality, and efficiently-filtered dataset. We use the proposed efficient verification-based high-quality filtering pipeline to the FineWeb and Chinese FineWeb datasets (source data from Chinese FineWeb-edu-v2, which includes IndustryCorpus2, MiChao, WuDao, SkyPile, WanJuan… See the full description on the dataset page: https://huggingface.co/datasets/openbmb/Ultra-FineWeb.",
@@ -25154,7 +25147,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-28T09:03:52.000Z",
-    "likes": 292,
+    "likes": 293,
     "private": false,
     "sha": "c68ab81ad03b2d2f476fa8ab3c72bed3528da359",
     "description": "\n\t\n\t\t\n\t\tUltra-FineWeb-L3\n\t\n\n\n  \n\n\n\n📜 Ultra-FineWeb Technical Report |\n📦 UltraData Collection |\n🌐 UltraData | \n🤗 MiniCPM5 Series\n\n\n\nEnglish |\n中文\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t📚 Introduction\n\t\n\nUltra-FineWeb-L3 is the L3 refined data for general high-quality web data within UltraData's L0-L4 tiered data management framework. Moving beyond L2 quality selection, it transforms high-value web corpora into structured, high-learnability training data with clearer reasoning signals and richer educational styles.… See the full description on the dataset page: https://huggingface.co/datasets/openbmb/Ultra-FineWeb-L3.",
@@ -26005,10 +25998,10 @@
     "author": "phuckhang384234",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T16:42:47.000Z",
+    "lastModified": "2026-06-15T20:39:06.000Z",
     "likes": 0,
     "private": false,
-    "sha": "fbcde0479d6ed5249f6def90ccda0c2b3bc9a4b3",
+    "sha": "28c371aaec304c9f3dca949fc8e2b5add0c90824",
     "downloads": 37266,
     "tags": [
       "region:us"
@@ -26913,20 +26906,12 @@
     "author": "Ramos-Ramos",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-14T16:14:57.000Z",
+    "lastModified": "2026-06-15T18:53:29.000Z",
     "likes": 1,
     "private": false,
-    "sha": "b52e1a138d5eb1a30eec8a4afa9253ed0ae55bf3",
+    "sha": "59aee186cdb92ce222a83f06de92078d96896ac9",
     "downloads": 33476,
     "tags": [
-      "size_categories:10M<n<100M",
-      "format:parquet",
-      "modality:tabular",
-      "modality:text",
-      "library:datasets",
-      "library:dask",
-      "library:polars",
-      "library:mlcroissant",
       "region:us"
     ],
     "createdAt": "2025-07-20T05:34:21.000Z",
@@ -29945,7 +29930,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-07-23T14:30:24.000Z",
-    "likes": 113,
+    "likes": 114,
     "private": false,
     "sha": "2dc57900b7981cfcf5e211527169a0b006546a95",
     "description": "\n\t\n\t\t\n\t\tTahoe-100M\n\t\n\nTahoe-100M is a giga-scale single-cell perturbation atlas consisting of over 100 million transcriptomic profiles from \n50 cancer cell lines exposed to 1,100 small-molecule perturbations. Generated using Vevo Therapeutics' \nMosaic high-throughput platform, Tahoe-100M enables deep, context-aware exploration of gene function, cellular states, and drug responses at unprecedented scale and resolution.\nThis dataset is designed to power the development of next-generation AI… See the full description on the dataset page: https://huggingface.co/datasets/tahoebio/Tahoe-100M.",
@@ -30821,20 +30806,12 @@
     "author": "trl-lib",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:03:09.000Z",
+    "lastModified": "2026-06-15T20:48:11.000Z",
     "likes": 13,
     "private": false,
-    "sha": "58c2de43f5ef81423e9b6134a1f20b2b42bc4234",
+    "sha": "afd5c9a8bf585c385e43b536bbcc5a73db5a28f2",
     "downloads": 24445,
     "tags": [
-      "size_categories:1K<n<10K",
-      "format:parquet",
-      "modality:tabular",
-      "modality:text",
-      "library:datasets",
-      "library:dask",
-      "library:polars",
-      "library:mlcroissant",
       "region:us"
     ],
     "createdAt": "2025-08-28T23:20:31.000Z",
@@ -31353,10 +31330,10 @@
     "author": "vctvct321",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-06-15T17:05:32.000Z",
+    "lastModified": "2026-06-15T20:49:04.000Z",
     "likes": 12,
     "private": false,
-    "sha": "99e74a123df59dcd2c7e2afb2df3505fc7e2940b",
+    "sha": "6914112bc39fbf30fc186b1a9adc7c581e493b64",
     "downloads": 34846,
     "tags": [
       "region:us"
@@ -34534,7 +34511,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-04T06:53:11.000Z",
     "links": {
       "related_models": [
@@ -34589,7 +34566,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-18T15:31:34.000Z",
     "links": {
       "related_models": [
@@ -34653,7 +34630,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-30T07:41:18.000Z",
     "links": {
       "related_models": [
@@ -34702,7 +34679,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-07-10T15:23:17.000Z",
     "links": {
       "related_models": [
@@ -34761,7 +34738,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-03-08T20:36:26.000Z",
     "links": {
       "related_models": [
@@ -34816,7 +34793,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-04T12:09:45.000Z",
     "links": {
       "related_models": [
@@ -34872,7 +34849,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-04T14:26:37.000Z",
     "links": {
       "related_models": [
@@ -34937,7 +34914,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-05-16T03:18:03.000Z",
     "links": {
       "related_models": [
@@ -34996,7 +34973,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-04T16:49:18.000Z",
     "links": {
       "related_models": [
@@ -35042,7 +35019,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2021-08-26T09:16:29.000Z",
     "links": {
       "related_models": [],
@@ -35195,7 +35172,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-09T19:14:03.000Z",
     "links": {
       "related_models": [
@@ -35240,7 +35217,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-06-15T16:32:38.000Z",
     "links": {
       "related_models": [],
@@ -35282,7 +35259,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-06-13T08:13:44.000Z",
     "links": {
       "related_models": [],
@@ -35654,7 +35631,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-01-09T09:40:51.000Z",
     "links": {
       "related_models": [
@@ -35712,7 +35689,7 @@
       "createdAt": "2022-04-12T10:22:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-23T10:18:13.000Z",
     "links": {
       "related_models": [
@@ -35753,7 +35730,7 @@
       "createdAt": "2022-11-08T09:03:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-20T08:59:22.000Z",
     "links": {
       "related_models": [],
@@ -35800,7 +35777,7 @@
       "createdAt": "2022-11-15T21:15:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2023-09-21T00:57:32.000Z",
     "links": {
       "related_models": [
@@ -35841,7 +35818,7 @@
       "createdAt": "2023-04-02T05:30:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2023-04-12T05:23:59.000Z",
     "links": {
       "related_models": [
@@ -35869,10 +35846,10 @@
       "author": "KakologArchives",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-06-15T17:02:06.000Z",
+      "lastModified": "2026-06-15T20:47:19.000Z",
       "likes": 55,
       "private": false,
-      "sha": "bb2a8aed0040c536446ac1a9ea8777b42a60ac6c",
+      "sha": "d0f154e915f68e5b0208d402d9eaad599cff1bbf",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
       "downloads": 1808695,
       "tags": [
@@ -35884,8 +35861,8 @@
       "createdAt": "2023-05-12T13:31:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
-    "last_updated": "2026-06-15T17:02:06.000Z",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
+    "last_updated": "2026-06-15T20:47:19.000Z",
     "links": {
       "related_models": [
         "datasets/KakologArchives"
@@ -36156,7 +36133,7 @@
       "createdAt": "2023-05-21T06:38:52.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-05-23T15:23:41.000Z",
     "links": {
       "related_models": [
@@ -36225,7 +36202,7 @@
       "createdAt": "2023-06-25T08:53:25.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-07T03:23:13.000Z",
     "links": {
       "related_models": [
@@ -36267,7 +36244,7 @@
       "createdAt": "2023-07-06T04:14:51.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2023-07-11T07:56:55.000Z",
     "links": {
       "related_models": [
@@ -36331,7 +36308,7 @@
       "createdAt": "2023-08-29T09:03:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-02-16T13:52:52.000Z",
     "links": {
       "related_models": [
@@ -36376,7 +36353,7 @@
       "createdAt": "2023-12-17T14:47:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-10-19T15:21:40.000Z",
     "links": {
       "related_models": [
@@ -36416,7 +36393,7 @@
       "createdAt": "2023-12-20T13:16:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-04-27T01:39:53.000Z",
     "links": {
       "related_models": [
@@ -36455,7 +36432,7 @@
       "createdAt": "2024-01-12T18:51:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-02-26T18:23:46.000Z",
     "links": {
       "related_models": [],
@@ -36504,7 +36481,7 @@
       "createdAt": "2024-02-15T18:34:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-02-15T18:42:42.000Z",
     "links": {
       "related_models": [
@@ -36567,7 +36544,7 @@
       "createdAt": "2024-04-11T17:53:57.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-05-06T13:37:52.000Z",
     "links": {
       "related_models": [
@@ -36615,7 +36592,7 @@
       "createdAt": "2024-04-24T17:17:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-03-25T13:46:55.000Z",
     "links": {
       "related_models": [],
@@ -36668,7 +36645,7 @@
       "createdAt": "2024-05-08T13:36:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-02T06:26:05.000Z",
     "links": {
       "related_models": [
@@ -36709,7 +36686,7 @@
       "createdAt": "2024-06-17T18:57:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-07-22T15:27:52.000Z",
     "links": {
       "related_models": [
@@ -36761,7 +36738,7 @@
       "createdAt": "2024-07-22T14:22:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-08-08T18:04:44.000Z",
     "links": {
       "related_models": [
@@ -36807,7 +36784,7 @@
       "createdAt": "2024-07-31T08:53:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-08-05T19:01:31.000Z",
     "links": {
       "related_models": [],
@@ -36851,7 +36828,7 @@
       "createdAt": "2024-08-13T15:04:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-02-18T23:48:55.000Z",
     "links": {
       "related_models": [
@@ -36897,7 +36874,7 @@
       "createdAt": "2024-09-07T13:00:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-09-14T08:02:36.000Z",
     "links": {
       "related_models": [],
@@ -36938,7 +36915,7 @@
       "createdAt": "2024-09-13T21:45:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-08-06T19:22:45.000Z",
     "links": {
       "related_models": [
@@ -36984,7 +36961,7 @@
       "createdAt": "2024-12-14T12:46:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2024-12-19T11:34:03.000Z",
     "links": {
       "related_models": [
@@ -37036,7 +37013,7 @@
       "createdAt": "2025-01-13T19:08:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-02-05T18:44:13.000Z",
     "links": {
       "related_models": [
@@ -37079,7 +37056,7 @@
       "createdAt": "2025-01-23T14:44:28.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-06-20T09:11:00.000Z",
     "links": {
       "related_models": [],
@@ -37124,7 +37101,7 @@
       "createdAt": "2025-02-22T11:43:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-02-23T06:25:52.000Z",
     "links": {
       "related_models": [
@@ -37355,7 +37332,7 @@
       "createdAt": "2025-03-07T10:25:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-03-07T10:25:22.000Z",
     "links": {
       "related_models": [
@@ -37397,7 +37374,7 @@
       "createdAt": "2025-03-17T13:55:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-03-20T13:14:51.000Z",
     "links": {
       "related_models": [
@@ -37439,7 +37416,7 @@
       "createdAt": "2025-03-18T13:59:39.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-05T23:36:40.000Z",
     "links": {
       "related_models": [
@@ -37494,7 +37471,7 @@
       "createdAt": "2025-03-27T17:49:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-08-19T17:57:11.000Z",
     "links": {
       "related_models": [
@@ -37533,7 +37510,7 @@
       "createdAt": "2025-04-01T00:57:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-06-15T10:55:41.000Z",
     "links": {
       "related_models": [],
@@ -37578,7 +37555,7 @@
       "createdAt": "2025-04-29T00:37:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-08-26T00:42:28.000Z",
     "links": {
       "related_models": [],
@@ -37625,7 +37602,7 @@
       "createdAt": "2025-05-04T17:08:05.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-05-14T18:47:52.000Z",
     "links": {
       "related_models": [
@@ -37665,7 +37642,7 @@
       "createdAt": "2025-05-24T09:47:35.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-05-25T05:00:50.000Z",
     "links": {
       "related_models": [],
@@ -37704,7 +37681,7 @@
       "createdAt": "2025-05-27T15:19:04.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-07T11:32:14.000Z",
     "links": {
       "related_models": [
@@ -37743,7 +37720,7 @@
       "createdAt": "2025-06-16T13:17:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-06-17T14:48:51.000Z",
     "links": {
       "related_models": [],
@@ -37783,7 +37760,7 @@
       "createdAt": "2025-06-17T20:06:27.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-10-02T20:58:14.000Z",
     "links": {
       "related_models": [
@@ -37869,7 +37846,7 @@
       "createdAt": "2025-07-24T10:23:34.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-22T12:12:47.000Z",
     "links": {
       "related_models": [
@@ -37917,7 +37894,7 @@
       "createdAt": "2025-08-27T12:47:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-08-28T13:02:57.000Z",
     "links": {
       "related_models": [
@@ -37964,7 +37941,7 @@
       "createdAt": "2025-08-30T23:58:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-08-31T00:33:15.000Z",
     "links": {
       "related_models": [
@@ -38013,7 +37990,7 @@
       "createdAt": "2025-09-14T14:42:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-11-24T06:32:02.000Z",
     "links": {
       "related_models": [
@@ -38056,7 +38033,7 @@
       "createdAt": "2025-10-10T14:12:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-12-15T06:05:49.000Z",
     "links": {
       "related_models": [
@@ -38094,7 +38071,7 @@
       "createdAt": "2025-10-28T23:26:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-10-30T15:03:41.000Z",
     "links": {
       "related_models": [],
@@ -38130,7 +38107,7 @@
       "createdAt": "2025-12-16T15:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-12-23T09:04:38.000Z",
     "links": {
       "related_models": [],
@@ -38178,7 +38155,7 @@
       "createdAt": "2025-12-20T22:29:02.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2025-12-21T14:22:17.000Z",
     "links": {
       "related_models": [
@@ -38231,7 +38208,7 @@
       "createdAt": "2025-12-31T07:17:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-24T05:02:26.000Z",
     "links": {
       "related_models": [
@@ -38274,7 +38251,7 @@
       "createdAt": "2026-01-19T05:32:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-06-15T12:38:21.000Z",
     "links": {
       "related_models": [],
@@ -38320,7 +38297,7 @@
       "createdAt": "2026-02-03T17:06:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-02-09T13:31:09.000Z",
     "links": {
       "related_models": [
@@ -38358,7 +38335,7 @@
       "createdAt": "2026-02-08T14:15:00.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-04T20:47:37.000Z",
     "links": {
       "related_models": [],
@@ -38394,7 +38371,7 @@
       "createdAt": "2026-02-15T01:47:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-02-22T03:28:22.000Z",
     "links": {
       "related_models": [],
@@ -38434,7 +38411,7 @@
       "createdAt": "2026-02-15T22:07:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-02-17T02:01:08.000Z",
     "links": {
       "related_models": [],
@@ -38460,7 +38437,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-03-31T06:26:09.000Z",
-      "likes": 126,
+      "likes": 127,
       "private": false,
       "sha": "78cf4a5ed0099214979c094c963e699c19163838",
       "description": "\n\t\n\t\t\n\t\tDataset Card for HuggingFaceFW/finephrase\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSynthetic data generated by DataTrove:\n\nModel: HuggingFaceTB/SmolLM2-1.7B-Instruct (main)\nSource dataset: HuggingFaceFW/fineweb-edu, config sample-350BT, split train\nGeneration config: temperature=1.0, top_p=1.0, top_k=50, max_tokens=2048, model_max_context=8192\nSpeculative decoding: {\"method\":\"suffix\",\"num_speculative_tokens\":32}\nSystem prompt: None\nInput column: text\n\nPrompt families:\n\nfaq prompt\n\nRewrite the… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finephrase.",
@@ -38485,7 +38462,7 @@
       "createdAt": "2026-02-15T23:04:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-31T06:26:09.000Z",
     "links": {
       "related_models": [
@@ -38536,7 +38513,7 @@
       "createdAt": "2026-02-16T17:22:36.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-02-16T17:43:42.000Z",
     "links": {
       "related_models": [],
@@ -38572,7 +38549,7 @@
       "createdAt": "2026-03-01T00:32:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-06T22:34:27.000Z",
     "links": {
       "related_models": [],
@@ -38610,7 +38587,7 @@
       "createdAt": "2026-03-01T17:05:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-02T09:27:07.000Z",
     "links": {
       "related_models": [
@@ -38648,7 +38625,7 @@
       "createdAt": "2026-03-10T03:05:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-10T20:42:39.000Z",
     "links": {
       "related_models": [],
@@ -38689,7 +38666,7 @@
       "createdAt": "2026-03-10T03:07:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-05T20:00:04.000Z",
     "links": {
       "related_models": [],
@@ -38725,7 +38702,7 @@
       "createdAt": "2026-03-15T03:28:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-04-10T14:41:27.000Z",
     "links": {
       "related_models": [],
@@ -38761,7 +38738,7 @@
       "createdAt": "2026-03-21T09:09:42.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-03-23T23:30:10.000Z",
     "links": {
       "related_models": [],
@@ -38797,7 +38774,7 @@
       "createdAt": "2026-04-01T14:22:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-06-10T22:01:38.000Z",
     "links": {
       "related_models": [],
@@ -38845,7 +38822,7 @@
       "createdAt": "2026-04-21T09:17:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-06-04T12:22:56.000Z",
     "links": {
       "related_models": [
@@ -38896,7 +38873,7 @@
       "createdAt": "2026-04-28T14:37:04.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-29T10:16:25.000Z",
     "links": {
       "related_models": [
@@ -38938,7 +38915,7 @@
       "createdAt": "2026-05-13T22:41:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-14T00:33:58.000Z",
     "links": {
       "related_models": [],
@@ -38978,7 +38955,7 @@
       "createdAt": "2026-05-13T23:28:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-13T23:36:50.000Z",
     "links": {
       "related_models": [],
@@ -39021,7 +38998,7 @@
       "createdAt": "2026-05-25T00:40:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-05-25T00:40:18.000Z",
     "links": {
       "related_models": [
@@ -39067,7 +39044,7 @@
       "createdAt": "2026-06-02T20:34:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-06-15T17:06:57.475183+00:00",
+    "retrieval_timestamp": "2026-06-15T20:50:06.443690+00:00",
     "last_updated": "2026-06-15T14:43:32.000Z",
     "links": {
       "related_models": [],
