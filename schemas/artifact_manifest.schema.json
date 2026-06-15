@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Artifact Manifest Schema",
+  "type": "object",
+  "properties": {
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "artifacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "artifact_path": { "type": "string" },
+          "artifact_type": { "type": "string" },
+          "generator_module": { "type": "string" },
+          "schema_version": { "type": "string" },
+          "sha256": { "type": "string" },
+          "size_bytes": { "type": "integer" }
+        },
+        "required": ["artifact_path", "schema_version", "sha256"]
+      }
+    }
+  },
+  "required": ["generated_at", "artifacts"]
+}

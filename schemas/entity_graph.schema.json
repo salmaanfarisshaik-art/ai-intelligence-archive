@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Entity Graph Schema",
+  "type": "object",
+  "properties": {
+    "graph_schema_version": { "type": "string" },
+    "relationship_schema_version": { "type": "string" },
+    "node_schema_version": { "type": "string" },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "canonical_id": { "type": "string" },
+          "entity_type": { "type": "string" },
+          "title": { "type": "string" },
+          "category": { "type": "string" },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "provenance_reference": { "type": "string" }
+        },
+        "required": ["canonical_id", "entity_type", "title"]
+      }
+    },
+    "edges": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source_id": { "type": "string" },
+          "target_id": { "type": "string" },
+          "relationship_type": { "type": "string" },
+          "confidence_score": { "type": "number" },
+          "generation_method": { "type": "string" }
+        },
+        "required": ["source_id", "target_id", "relationship_type"]
+      }
+    }
+  },
+  "required": ["graph_schema_version", "nodes", "edges"]
+}

@@ -1,0 +1,72 @@
+{
+  "artifacts": [
+    {
+      "artifact": "search_index.json",
+      "consumer": [
+        "/search"
+      ],
+      "required": true,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "search_index_manifest.json",
+      "consumer": [
+        "/search"
+      ],
+      "required": true,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "timeline.json",
+      "consumer": [
+        "/timeline"
+      ],
+      "required": false,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "entity_graph.json",
+      "consumer": [
+        "/graph",
+        "/entity"
+      ],
+      "required": false,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "related_entities.json",
+      "consumer": [
+        "/entity"
+      ],
+      "required": false,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "entity_links.json",
+      "consumer": [
+        "/entity"
+      ],
+      "required": false,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "dashboard_metrics.json",
+      "consumer": [
+        "/",
+        "/statistics"
+      ],
+      "required": true,
+      "schema_version": "1.0"
+    },
+    {
+      "artifact": "artifact_manifest.json",
+      "consumer": [
+        "/artifacts"
+      ],
+      "required": false,
+      "schema_version": "1.0"
+    }
+  ],
+  "generated_at": "2026-06-15T15:36:44Z",
+  "schema_version": "1.0.0"
+}

@@ -1,12 +1,33 @@
 import os
 import time
-from typing import Any, Dict
 from scripts.lib.logger import setup_logger
 from scripts.lib.serialization import save_json_deterministic, save_yaml_deterministic, save_markdown_deterministic
 
+from dataclasses import dataclass, field
+from typing import Any, Dict, List, Optional
+
+@dataclass(frozen=True)
+class BuildContext:
+    pipeline_version: str
+    dry_run: bool
+    source_manifest_hash: str
+    build_started_at: str
+    settings: Dict[str, Any]
+    output_paths: Dict[str, str]
+
+@dataclass
+class ArtifactResult:
+    generator_name: str
+    generator_version: str
+    artifacts_written: List[str] = field(default_factory=list)
+    entities_processed: int = 0
+    warnings: List[str] = field(default_factory=list)
+    validation_status: bool = True
+    execution_time_ms: int = 0
+
 class BaseGenerator:
     """
-    Base class for Phase 6 and Phase 7 generators.
+    Base class for generators.
     Provides shared functionality for logging, error reporting, metrics, and persistence.
     """
     def __init__(self, name: str, phase: int, version: str = "1.0.0"):

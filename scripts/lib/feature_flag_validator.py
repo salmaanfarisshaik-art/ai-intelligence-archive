@@ -38,7 +38,16 @@ class FeatureFlagValidator(BaseGenerator):
             "enable_self_documentation", "enable_dependency_reports", "enable_repository_metrics",
             # Phase 8 Feature Flags
             "enable_change_detection", "enable_pipeline_decision_engine", "enable_auto_site_publish",
-            "enable_run_manifest_extensions", "enable_auto_commit", "enable_auto_push"
+            "enable_run_manifest_extensions", "enable_auto_commit", "enable_auto_push",
+            # Phase 8.5 Feature Flags
+            "enable_massive_seed_fetcher", "enable_repository_expansion", "enable_archive_statistics",
+            "enable_public_api_ingestion", "enable_skill_library_ingestion", "enable_prompt_library_ingestion",
+            "enable_ide_rules_ingestion", "enable_system_prompt_ingestion", "enable_mcp_ingestion",
+            # Phase 9 Feature Flags
+            "enable_semantic_index_builder", "enable_entity_linker", "enable_related_entity_engine",
+            "enable_knowledge_graph_builder", "enable_search_index_exporter", "enable_dashboard_data_generator",
+            "enable_timeline_generator", "enable_index_manifest_generator", "enable_artifact_manifest_generator",
+            "enable_phase9_reports"
         ]
         
         warnings = []

@@ -176,7 +176,8 @@
   ],
   "arxiv:1910.09700": [
     "hf_distilbert_distilgpt2",
-    "hf_hmellor_tiny-random-LlamaForCausalLM"
+    "hf_hmellor_tiny-random-LlamaForCausalLM",
+    "hf_openai-community_gpt2-large"
   ],
   "arxiv:1910.10683": [
     "hf_ds_621ffdd236468d709f182a80"
@@ -700,6 +701,7 @@
     "hf_facebook_opt-125m",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
@@ -744,6 +746,7 @@
     "hf_facebook_opt-125m",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "endpoints_compatible": [
@@ -776,6 +779,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -838,8 +842,7 @@
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
   "format:optimized-parquet": [
-    "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6993525c8be5bf8321bcc775"
   ],
   "format:parquet": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -867,8 +870,7 @@
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_69e7409e244b695efe87097a"
   ],
   "format:text": [
     "hf_ds_69af8aeeec432ae4abac9fd4"
@@ -913,7 +915,8 @@
   ],
   "gpt2": [
     "hf_distilbert_distilgpt2",
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "gpt_neox": [
     "hf_EleutherAI_pythia-160m"
@@ -959,7 +962,8 @@
   "jax": [
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "kimi_k2": [
     "hf_moonshotai_Kimi-K2-Instruct-0905"
@@ -2728,8 +2732,7 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6993525c8be5bf8321bcc775"
   ],
   "library:datasets": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -2771,8 +2774,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
-    "hf_ds_6a05090783b099c94f623217",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a05090783b099c94f623217"
   ],
   "library:mlcroissant": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -2814,8 +2816,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
-    "hf_ds_6a05090783b099c94f623217",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a05090783b099c94f623217"
   ],
   "library:pandas": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -2864,8 +2865,7 @@
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_69e7409e244b695efe87097a"
   ],
   "license:apache-2.0": [
     "hf_EleutherAI_pythia-160m",
@@ -2965,6 +2965,7 @@
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "license:odc-by": [
@@ -3094,8 +3095,7 @@
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_69e7409e244b695efe87097a"
   ],
   "modality:timeseries": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -3167,7 +3167,8 @@
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "onnx": [
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "openx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
@@ -3199,7 +3200,8 @@
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "q2_k": [
     "hf_antirez_deepseek-v4-gguf"
@@ -3359,6 +3361,7 @@
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -3386,7 +3389,8 @@
   ],
   "rust": [
     "hf_distilbert_distilgpt2",
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "safetensors": [
     "hf_EleutherAI_pythia-160m",
@@ -3419,6 +3423,7 @@
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -3488,8 +3493,7 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_68e91443c366e5879388a4d4",
-    "hf_ds_6947232e01886522f0154ff9",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6947232e01886522f0154ff9"
   ],
   "size_categories:n<1K": [
     "hf_ds_621ffdd236468d709f1825d5",
@@ -3765,6 +3769,7 @@
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -3792,6 +3797,7 @@
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
   ],
@@ -3802,7 +3808,8 @@
   "tf": [
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
-    "hf_openai-community_gpt2"
+    "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large"
   ],
   "tflite": [
     "hf_distilbert_distilgpt2",
@@ -3842,6 +3849,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai-community_gpt2",
+    "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",

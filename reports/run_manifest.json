@@ -1,8 +1,8 @@
 {
   "commit_created": false,
   "dry_run": false,
-  "files_added": 7,
-  "files_modified": 23,
+  "files_added": 100,
+  "files_modified": 113,
   "files_removed": 0,
   "modules_failed": [],
   "modules_run": [
@@ -41,11 +41,29 @@
     "dependency_reports",
     "repository_metrics",
     "pipeline_decision_engine",
-    "archive_stats_generator"
+    "massive_seed_fetcher",
+    "source_validator",
+    "repository_expander",
+    "expansion_metrics",
+    "data_quality_report",
+    "archive_statistics",
+    "semantic_index_builder",
+    "search_index_exporter",
+    "index_manifest_generator",
+    "entity_linker",
+    "related_entity_engine",
+    "knowledge_graph_builder",
+    "dashboard_data_generator",
+    "timeline_generator",
+    "artifact_manifest_generator"
   ],
   "phase8_status": "success",
+  "phase_8_5": {
+    "archive_statistics_run": true,
+    "mass_expansion_run": true
+  },
   "push_completed": false,
-  "run_id": "run_1781446525",
+  "run_id": "run_1781537742",
   "site_regenerated": true,
-  "timestamp": "2026-06-14T14:15:39.379311+00:00"
+  "timestamp": "2026-06-15T15:36:56.290426+00:00"
 }

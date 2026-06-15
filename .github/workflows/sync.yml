@@ -46,5 +46,51 @@ jobs:
           ENABLE_AUTOPUSH: "false"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        timeout-minutes: 180  # Phase 8.5 mass expansion can take up to 3 hours initially
+        continue-on-error: true  # A failure to ingest one source repository must never terminate the pipeline
         run: |
           python scripts/main.py
+
+      - name: Commit generated changes
+        run: |
+          git config user.name "salmaanfarisshaik-art"
+          git config user.email "salmaanfaris.shaik@gmail.com"
+          git add data/ site/ reports/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: automated archive sync [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Frontend Dependencies
+        working-directory: ./frontend
+        run: npm ci
+
+      - name: Build Next.js Static Export
+        working-directory: ./frontend
+        run: npm run build
+
+      - name: Upload GitHub Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./frontend/out
+
+  deploy:
+    needs: sync
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

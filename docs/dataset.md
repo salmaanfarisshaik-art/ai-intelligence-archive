@@ -677,7 +677,7 @@
 | [MrPigeon345/DoseRAD2026](https://huggingface.co/datasets/MrPigeon345/DoseRAD2026) | Hugging Face |  | 0 |
 | [MRSAudio/MRSAudio](https://huggingface.co/datasets/MRSAudio/MRSAudio) | Hugging Face |  | 0 |
 | [mteb/nfcorpus](https://huggingface.co/datasets/mteb/nfcorpus) | Hugging Face |  | 0 |
-| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | format:optimized-parquet, format:parquet, library:dask, library:datasets, library:mlcroissant | 0 |
+| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | region:us | 0 |
 | [mteb/results](https://huggingface.co/datasets/mteb/results) | Hugging Face |  | 0 |
 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | Hugging Face |  | 0 |
 | [mteb/stsbenchmark-sts](https://huggingface.co/datasets/mteb/stsbenchmark-sts) | Hugging Face |  | 0 |

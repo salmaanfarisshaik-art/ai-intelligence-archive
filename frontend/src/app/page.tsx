@@ -17,9 +17,9 @@ export default function Home() {
   useEffect(() => {
     // Fetch stats
     const basePath = process.env.NODE_ENV === "production" ? "/ai-intelligence-archive" : "";
-    fetch(`${basePath}/data/archive_stats.json`)
+    fetch(`${basePath}/site/archive_stats.json`)
       .then((res) => res.json())
-      .then((payload) => setStats(payload.data))
+      .then((payload) => setStats(payload))
       .catch((err) => console.error("Failed to load stats", err));
 
     // GSAP Animations

@@ -593,7 +593,7 @@
 | [OBLITERATUS/Qwen3.6-27B-OBLITERATED](https://huggingface.co/OBLITERATUS/Qwen3.6-27B-OBLITERATED) | Hugging Face |  | 0 |
 | [omni-research/Tarsier-7b](https://huggingface.co/omni-research/Tarsier-7b) | Hugging Face |  | 0 |
 | [openai-community/gpt2](https://huggingface.co/openai-community/gpt2) | Hugging Face | deploy:azure, doi:10.57967/hf/0039, en, endpoints_compatible, exbert | 0 |
-| [openai-community/gpt2-large](https://huggingface.co/openai-community/gpt2-large) | Hugging Face |  | 0 |
+| [openai-community/gpt2-large](https://huggingface.co/openai-community/gpt2-large) | Hugging Face | arxiv:1910.09700, deploy:azure, en, endpoints_compatible, gpt2 | 0 |
 | [openai-community/gpt2-medium](https://huggingface.co/openai-community/gpt2-medium) | Hugging Face |  | 0 |
 | [openai-community/gpt2-xl](https://huggingface.co/openai-community/gpt2-xl) | Hugging Face |  | 0 |
 | [openai-community/openai-gpt](https://huggingface.co/openai-community/openai-gpt) | Hugging Face |  | 0 |

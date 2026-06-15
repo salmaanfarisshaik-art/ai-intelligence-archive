@@ -26,6 +26,16 @@ from scripts.exporters.csv_exporter import CSVExporter
 from scripts.exporters.markdown_exporter import MarkdownExporter
 from scripts.generate_dashboard import DashboardGenerator
 import uuid
+from scripts.lib.semantic_index_builder import SemanticIndexBuilder
+from scripts.lib.search_index_exporter import SearchIndexExporter
+from scripts.lib.index_manifest_generator import IndexManifestGenerator
+from scripts.lib.entity_linker import EntityLinker
+from scripts.lib.related_entity_engine import RelatedEntityEngine
+from scripts.lib.knowledge_graph_builder import KnowledgeGraphBuilder
+from scripts.lib.dashboard_data_generator import DashboardDataGenerator
+from scripts.lib.timeline_generator import TimelineGenerator
+from scripts.lib.artifact_manifest_generator import ArtifactManifestGenerator
+from scripts.lib.base_generator import BuildContext
 
 # Phase 5 Imports
 from scripts.generate_manifests import ManifestGenerator
@@ -474,14 +484,177 @@ def main():
                 logger.error("PipelineDecisionEngine failed", exc_info=True)
                 modules_failed.append("pipeline_decision_engine")
 
-        # Phase 9: Archive Statistics & Presentation
-        from scripts.lib.archive_stats_generator import ArchiveStatsGenerator
-        try:
-            ArchiveStatsGenerator().run()
-            modules_run.append("archive_stats_generator")
-        except Exception:
-            logger.error("ArchiveStatsGenerator failed", exc_info=True)
-            modules_failed.append("archive_stats_generator")
+        # --- Phase 8.5: Mass Expansion Layer ---
+        phase8_5_status_data = {}
+        if config.is_feature_enabled("enable_repository_expansion"):
+            logger.info("Starting Phase 8.5 Mass Expansion")
+            
+            # 1. Massive Seed Fetcher
+            if config.is_feature_enabled("enable_massive_seed_fetcher"):
+                from scripts.massive_seed_fetcher import MassiveSeedFetcher
+                try:
+                    MassiveSeedFetcher(is_dry_run=is_dry_run).run()
+                    modules_run.append("massive_seed_fetcher")
+                except Exception:
+                    logger.error("MassiveSeedFetcher failed", exc_info=True)
+                    modules_failed.append("massive_seed_fetcher")
+            
+            # 2. Source Validator
+            from scripts.lib.source_validator import SourceValidator
+            try:
+                SourceValidator().run(is_dry_run=is_dry_run)
+                modules_run.append("source_validator")
+            except Exception:
+                logger.error("SourceValidator failed", exc_info=True)
+                modules_failed.append("source_validator")
+                
+            # 3. Repository Expander
+            from scripts.lib.repository_expander import RepositoryExpander
+            try:
+                RepositoryExpander(is_dry_run=is_dry_run).expand_all()
+                modules_run.append("repository_expander")
+            except Exception:
+                logger.error("RepositoryExpander failed", exc_info=True)
+                modules_failed.append("repository_expander")
+                
+            # 4. Expansion Metrics
+            from scripts.lib.expansion_metrics import ExpansionMetrics
+            try:
+                ExpansionMetrics().generate_report()
+                modules_run.append("expansion_metrics")
+            except Exception:
+                logger.error("ExpansionMetrics failed", exc_info=True)
+                modules_failed.append("expansion_metrics")
+                
+            # 5. Data Quality Report
+            from scripts.lib.data_quality_report import DataQualityReport
+            try:
+                DataQualityReport().generate_report()
+                modules_run.append("data_quality_report")
+            except Exception:
+                logger.error("DataQualityReport failed", exc_info=True)
+                modules_failed.append("data_quality_report")
+
+        # Phase 8.5 Archive Statistics
+        if config.is_feature_enabled("enable_archive_statistics"):
+            from scripts.lib.archive_statistics import ArchiveStatistics
+            try:
+                ArchiveStatistics().generate()
+                modules_run.append("archive_statistics")
+            except Exception:
+                logger.error("ArchiveStatistics failed", exc_info=True)
+                modules_failed.append("archive_statistics")
+
+        # --- Phase 9: Intelligence & Discovery Layer ---
+        if True: # Always run Phase 9 block, individual generators have their own flags
+            logger.info("Starting Phase 9 Intelligence Layer")
+            build_context = BuildContext(
+                pipeline_version="1.0.0",
+                dry_run=is_dry_run,
+                source_manifest_hash="not_computed_yet",
+                build_started_at=datetime.now(timezone.utc).isoformat(),
+                settings=config.features,
+                output_paths={"site": "site"}
+            )
+            
+            # Milestone 1: Foundation
+            if config.is_feature_enabled("enable_semantic_index_builder"):
+                try:
+                    SemanticIndexBuilder().generate(build_context)
+                    modules_run.append("semantic_index_builder")
+                except Exception:
+                    logger.error("SemanticIndexBuilder failed", exc_info=True)
+                    modules_failed.append("semantic_index_builder")
+                    
+                try:
+                    if config.is_feature_enabled("enable_search_index_exporter"):
+                        SearchIndexExporter().generate(build_context)
+                        modules_run.append("search_index_exporter")
+                except Exception:
+                    logger.error("SearchIndexExporter failed", exc_info=True)
+                    modules_failed.append("search_index_exporter")
+                    
+                try:
+                    if config.is_feature_enabled("enable_index_manifest_generator"):
+                        IndexManifestGenerator().generate(build_context)
+                        modules_run.append("index_manifest_generator")
+                except Exception:
+                    logger.error("IndexManifestGenerator failed", exc_info=True)
+                    modules_failed.append("index_manifest_generator")
+                    
+            # Milestone 2: Relationship Layer
+            if config.is_feature_enabled("enable_entity_linker"):
+                try:
+                    EntityLinker().generate(build_context)
+                    modules_run.append("entity_linker")
+                except Exception:
+                    logger.error("EntityLinker failed", exc_info=True)
+                    modules_failed.append("entity_linker")
+                    
+                try:
+                    if config.is_feature_enabled("enable_related_entity_engine"):
+                        RelatedEntityEngine().generate(build_context)
+                        modules_run.append("related_entity_engine")
+                except Exception:
+                    logger.error("RelatedEntityEngine failed", exc_info=True)
+                    modules_failed.append("related_entity_engine")
+                    
+                try:
+                    if config.is_feature_enabled("enable_knowledge_graph_builder"):
+                        KnowledgeGraphBuilder().generate(build_context)
+                        modules_run.append("knowledge_graph_builder")
+                except Exception:
+                    logger.error("KnowledgeGraphBuilder failed", exc_info=True)
+                    modules_failed.append("knowledge_graph_builder")
+                    
+            # Milestone 3: Analytics Layer
+            if config.is_feature_enabled("enable_dashboard_data_generator"):
+                try:
+                    DashboardDataGenerator().generate(build_context)
+                    modules_run.append("dashboard_data_generator")
+                except Exception:
+                    logger.error("DashboardDataGenerator failed", exc_info=True)
+                    modules_failed.append("dashboard_data_generator")
+                    
+                try:
+                    if config.is_feature_enabled("enable_timeline_generator"):
+                        TimelineGenerator().generate(build_context)
+                        modules_run.append("timeline_generator")
+                except Exception:
+                    logger.error("TimelineGenerator failed", exc_info=True)
+                    modules_failed.append("timeline_generator")
+                    
+                try:
+                    if config.is_feature_enabled("enable_artifact_manifest_generator"):
+                        ArtifactManifestGenerator().generate(build_context)
+                        modules_run.append("artifact_manifest_generator")
+                except Exception:
+                    logger.error("ArtifactManifestGenerator failed", exc_info=True)
+                    modules_failed.append("artifact_manifest_generator")
+                    
+            # Build Manifest Generation
+            try:
+                build_manifest_data = {
+                    "pipeline_version": build_context.pipeline_version,
+                    "dry_run": build_context.dry_run,
+                    "source_manifest_hash": build_context.source_manifest_hash,
+                    "build_started_at": build_context.build_started_at,
+                    "build_completed_at": datetime.now(timezone.utc).isoformat(),
+                    "total_entities_processed": 0, # Placeholder
+                }
+                
+                # Retrieve artifact_manifest_hash
+                artifact_manifest_path = os.path.join("site", "artifact_manifest.json")
+                if os.path.exists(artifact_manifest_path):
+                    import hashlib
+                    with open(artifact_manifest_path, "rb") as f:
+                        build_manifest_data["artifact_manifest_hash"] = hashlib.sha256(f.read()).hexdigest()
+                
+                if not is_dry_run:
+                    from scripts.lib.serialization import save_json_deterministic
+                    save_json_deterministic("reports/build_manifest.json", build_manifest_data)
+            except Exception:
+                logger.error("Failed to generate build_manifest.json", exc_info=True)
 
         # 5. Run Manifest Generation
         try:
@@ -494,6 +667,12 @@ def main():
             }
             if config.is_feature_enabled("enable_run_manifest_extensions") and phase8_status_data:
                 manifest_data.update(phase8_status_data)
+                
+            # Phase 8.5 Metadata
+            manifest_data["phase_8_5"] = {
+                "mass_expansion_run": config.is_feature_enabled("enable_repository_expansion"),
+                "archive_statistics_run": config.is_feature_enabled("enable_archive_statistics")
+            }
                 
             save_json_deterministic("reports/run_manifest.json", manifest_data)
         except Exception:

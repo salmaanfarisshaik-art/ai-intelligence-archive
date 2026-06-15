@@ -37,8 +37,31 @@ features:
   enable_pipeline_decision_engine: true
   enable_auto_site_publish: true
   enable_run_manifest_extensions: true
-  enable_auto_commit: true
+  enable_auto_commit: false
   enable_auto_push: false
+  
+  # Phase 8.5 Feature Flags
+  enable_massive_seed_fetcher: true
+  enable_repository_expansion: true
+  enable_archive_statistics: true
+  enable_public_api_ingestion: true
+  enable_skill_library_ingestion: true
+  enable_prompt_library_ingestion: true
+  enable_ide_rules_ingestion: true
+  enable_system_prompt_ingestion: true
+  enable_mcp_ingestion: true
+
+  # Phase 9 Feature Flags
+  enable_semantic_index_builder: true
+  enable_entity_linker: true
+  enable_related_entity_engine: true
+  enable_knowledge_graph_builder: true
+  enable_search_index_exporter: true
+  enable_dashboard_data_generator: true
+  enable_timeline_generator: true
+  enable_index_manifest_generator: true
+  enable_artifact_manifest_generator: true
+  enable_phase9_reports: true
 
 report_generation_flags:
   generate_markdown_reports: true

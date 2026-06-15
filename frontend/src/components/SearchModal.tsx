@@ -20,10 +20,10 @@ export default function SearchModal({ isOpen, onClose }: { isOpen: boolean; onCl
     if (isOpen && index.length === 0) {
       setIsLoading(true);
       const basePath = process.env.NODE_ENV === "production" ? "/ai-intelligence-archive" : "";
-      fetch(`${basePath}/data/search_index.json`)
+      fetch(`${basePath}/site/search_index.json`)
         .then((res) => res.json())
         .then((data) => {
-          setIndex(data);
+          setIndex(data.items || data);
           setIsLoading(false);
         })
         .catch(() => setIsLoading(false));

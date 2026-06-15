@@ -1,5 +1,5 @@
 {
-  "latest_sync_time": "2026-06-14T14:15:32.329261+00:00",
+  "latest_sync_time": "2026-06-15T15:35:52.618358+00:00",
   "status": "success",
   "connectors": {
     "run": [
@@ -38,11 +38,25 @@
       "dependency_reports",
       "repository_metrics",
       "pipeline_decision_engine",
-      "archive_stats_generator"
+      "massive_seed_fetcher",
+      "source_validator",
+      "repository_expander",
+      "expansion_metrics",
+      "data_quality_report",
+      "archive_statistics",
+      "semantic_index_builder",
+      "search_index_exporter",
+      "index_manifest_generator",
+      "entity_linker",
+      "related_entity_engine",
+      "knowledge_graph_builder",
+      "dashboard_data_generator",
+      "timeline_generator",
+      "artifact_manifest_generator"
     ],
     "failed": []
   },
-  "entity_counts": 85390,
+  "entity_counts": 144819,
   "cache_statistics": {
     "hits": 7,
     "misses": 2

@@ -2,18 +2,18 @@
 
 | Category | Scale |
 | -------- | ----- |
-| 🤖 AI Models | 1,000 |
-| 📚 Datasets | 1,080 |
-| 🧰 AI Tools | 2,148 |
-| 📊 Benchmarks | 400 |
-| 💬 Prompt Templates | 22,012 |
+| 🤖 AI Models | 2,000 |
+| 📚 Datasets | 2,080 |
+| 🧰 AI Tools | 4,248 |
+| 📊 Benchmarks | 800 |
+| 💬 Prompt Templates | 49,191 |
 | 📝 AI Skills Library | 31,000 |
-| 🏗️ MCP Servers | 550 |
-| 🖥️ IDE Rules | 5,100 |
+| 🏗️ MCP Servers | 1,100 |
+| 🖥️ IDE Rules | 10,200 |
 | 🧠 System Prompts | 30 |
-| 🔌 API Providers | 1,600 |
+| 🔌 API Providers | 3,200 |
 | 🌐 Public APIs | 1,400 |
-| 📰 News Archive | 20,500 |
+| 📰 News Archive | 41,000 |
 | 🕸️ Knowledge Graph | 50,000 |
 
-*Generated at: 2026-06-14T14:15:39.372559+00:00*
+*Generated at: 2026-06-15T15:36:54.359656+00:00*
