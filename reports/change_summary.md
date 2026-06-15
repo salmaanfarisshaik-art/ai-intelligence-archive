@@ -1,23 +1,18 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 63
 
 ## Added
-- releases/v2026.06.15.20260615_162423.zip
-- releases/v2026.06.15.20260615_162423/
+- releases/v2026.06.15.20260615_163032.zip
+- releases/v2026.06.15.20260615_163032/
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - data/processed/datasets/data.json
-- data/processed/models/data.json
 - data/processed/tools/data.json
 - docs/dataset.md
 - exports/csv/all_entities.csv
@@ -55,6 +50,7 @@
 - exports/json/dataset.json
 - exports/markdown/dataset.md
 - frontend/public/data/archive_stats.json
+- frontend/public/data/datasets/data.json
 - frontend/public/data/models/data.json
 - frontend/public/data/search_index.json
 - frontend/public/data/tools/data.json
@@ -63,14 +59,12 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/archive_stats.json
 - site/search_index.json
 - site/timeline.json
