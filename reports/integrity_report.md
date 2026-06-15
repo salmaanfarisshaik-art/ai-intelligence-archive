@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-15T15:35:54.910663+00:00
-**Warnings:** 179
+**Generated:** 2026-06-15T16:24:23.717569+00:00
+**Warnings:** 178
 **Errors:** 0
 
 ## Issues
@@ -186,4 +186,3 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1905.10615
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1908.07125
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.00475
-- **[WARNING]** `processed_data`: Missing data.json in dummy
