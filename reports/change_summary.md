@@ -1,10 +1,10 @@
 # Change Summary
 
-**Total Changes:** 63
+**Total Changes:** 64
 
 ## Added
-- releases/v2026.06.15.20260615_163032.zip
-- releases/v2026.06.15.20260615_163032/
+- releases/v2026.06.15.20260615_170711.zip
+- releases/v2026.06.15.20260615_170711/
 
 ## Modified
 - data/metadata/api_manifest.json
@@ -13,6 +13,7 @@
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
+- data/processed/models/data.json
 - data/processed/tools/data.json
 - docs/dataset.md
 - exports/csv/all_entities.csv
