@@ -56,6 +56,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_facebook_belebele",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_fsicoli_common_voice_15_0",
       "match_type": "exact",
       "score": 1.5
@@ -1747,6 +1752,11 @@
   "jang1": [
     {
       "entity_id": "dataset_stanford_vision_lab_gpic",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f7b3cc62d65c8f39fe7270",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4667,6 +4677,11 @@
   ],
   "jeyasuryaur": [
     {
+      "entity_id": "hf_ds_69eb72498f65b8d96201861f",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "hf_ds_jeyasuryaur_cricket-data-by-cricsheet",
       "match_type": "exact",
       "score": 3.0
@@ -4725,6 +4740,18 @@
       "score": 1.0
     }
   ],
+  "jhu": [
+    {
+      "entity_id": "model_jhu_clsp_rank1_7b",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "dataset_jhu_clsp_ettin_pretraining_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "ji": [
     {
       "entity_id": "alpaca_-2534779619751464149",
@@ -4759,6 +4786,11 @@
   "jiajun": [
     {
       "entity_id": "dataset_stanford_vision_lab_gpic",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f7b3cc62d65c8f39fe7270",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5193,6 +5225,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "jmk": [
+    {
+      "entity_id": "dataset_matthijs_cmu_arctic_xvectors",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "jmps": [
@@ -9371,6 +9410,11 @@
       "entity_id": "dataset_stanford_vision_lab_gpic",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f7b3cc62d65c8f39fe7270",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "join": [
@@ -10188,6 +10232,11 @@
     },
     {
       "entity_id": "alpaca_-6961049400071319204",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_meteolibre_dev_global_sat_metar",
       "match_type": "exact",
       "score": 1.0
     },
@@ -13824,6 +13873,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_unsloth_qwen2_5_7b_bnb_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_qwen2_5_7b_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -14147,6 +14201,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bertie77_x2c",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_chonkie_ai_recipes",
       "match_type": "exact",
       "score": 1.5
@@ -14173,6 +14232,11 @@
     },
     {
       "entity_id": "dataset_deepguess_wrf_250m_severe_weather",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_facebook_belebele",
       "match_type": "exact",
       "score": 1.5
     },
@@ -14622,6 +14686,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_69eb72498f65b8d96201861f",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-structured-outputs-in-the-api",
       "match_type": "exact",
       "score": 1.0
@@ -14649,12 +14718,22 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_alfaxad_wildlife_sentinel",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_hendrydong_reinforce_ada_raw_eval",
       "match_type": "exact",
       "score": 1.0
     },
     {
       "entity_id": "dataset_jobs_git_hplt2_0_cleaned",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mannycooper_document_review_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -14714,6 +14793,11 @@
     },
     {
       "entity_id": "dataset_stanford_vision_lab_gpic",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f7b3cc62d65c8f39fe7270",
       "match_type": "exact",
       "score": 1.0
     }
@@ -18749,6 +18833,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_69f7b3cc62d65c8f39fe7270",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/03/13/spex/",
       "match_type": "exact",
       "score": 1.0
@@ -18843,6 +18932,11 @@
     },
     {
       "entity_id": "dataset_coherelabs_xp3x",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_facebook_belebele",
       "match_type": "exact",
       "score": 1.5
     },

@@ -1,22 +1,50 @@
 # Change Summary
 
-**Total Changes:** 66
+**Total Changes:** 117
 
 ## Added
-- releases/v2026.06.16.20260616_033352.zip
-- releases/v2026.06.16.20260616_033352/
+- docs/cs.GT.md
+- docs/q-bio.QM.md
+- docs/stat.ML.md
+- exports/csv/cs.GT.csv
+- exports/csv/q-bio.QM.csv
+- exports/csv/stat.ML.csv
+- exports/json/cs.GT.json
+- exports/json/q-bio.QM.json
+- exports/json/stat.ML.json
+- exports/markdown/cs.GT.md
+- exports/markdown/q-bio.QM.md
+- exports/markdown/stat.ML.md
+- releases/v2026.06.16.20260616_110155.zip
+- releases/v2026.06.16.20260616_110155/
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
+- docs/cs.AI.md
+- docs/cs.CL.md
+- docs/cs.CR.md
+- docs/cs.CV.md
+- docs/cs.IR.md
+- docs/cs.LG.md
+- docs/cs.RO.md
+- docs/cs.SD.md
+- docs/cs.SE.md
 - docs/dataset.md
+- docs/text-generation.md
 - exports/csv/all_entities.csv
 - exports/csv/api_providers.csv
 - exports/csv/benchmarks.csv
@@ -49,9 +77,30 @@
 - exports/csv/tool.csv
 - exports/csv/tools.csv
 - exports/json/all_entities.json
+- exports/json/cs.AI.json
+- exports/json/cs.CL.json
+- exports/json/cs.CR.json
+- exports/json/cs.CV.json
+- exports/json/cs.IR.json
+- exports/json/cs.LG.json
+- exports/json/cs.RO.json
+- exports/json/cs.SD.json
+- exports/json/cs.SE.json
 - exports/json/dataset.json
+- exports/json/text-generation.json
+- exports/markdown/cs.AI.md
+- exports/markdown/cs.CL.md
+- exports/markdown/cs.CR.md
+- exports/markdown/cs.CV.md
+- exports/markdown/cs.IR.md
+- exports/markdown/cs.LG.md
+- exports/markdown/cs.RO.md
+- exports/markdown/cs.SD.md
+- exports/markdown/cs.SE.md
 - exports/markdown/dataset.md
+- exports/markdown/text-generation.md
 - frontend/public/data/archive_stats.json
+- frontend/public/data/benchmarks/data.json
 - frontend/public/data/datasets/data.json
 - frontend/public/data/models/data.json
 - frontend/public/data/search_index.json
@@ -61,6 +110,7 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
@@ -69,6 +119,7 @@
 - reports/project_status.json
 - reports/repository_metrics.md
 - site/archive_stats.json
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 

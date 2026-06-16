@@ -102,6 +102,13 @@
       "score": 1.0
     }
   ],
+  "x2c": [
+    {
+      "entity_id": "dataset_bertie77_x2c",
+      "match_type": "exact",
+      "score": 4.0
+    }
+  ],
   "x65617379": [
     {
       "entity_id": "hf_ds_x65617379_bailii_260505",
@@ -412,6 +419,11 @@
     },
     {
       "entity_id": "dataset_disco_eth_worldspeech",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_facebook_belebele",
       "match_type": "exact",
       "score": 1.5
     },
@@ -847,6 +859,13 @@
       "score": 3.0
     }
   ],
+  "xnli": [
+    {
+      "entity_id": "dataset_facebook_xnli",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "xnn": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -1225,6 +1244,20 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "xvect": [
+    {
+      "entity_id": "dataset_matthijs_cmu_arctic_xvectors",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "xvectors": [
+    {
+      "entity_id": "dataset_matthijs_cmu_arctic_xvectors",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xvi": [

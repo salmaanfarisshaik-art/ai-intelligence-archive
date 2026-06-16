@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 144819
+**Total Entities Tracked**: 144871
 
 ## Category Distribution
 
@@ -13,27 +13,30 @@
 - **tool**: 2148
 - **tools**: 2100
 - **mcps**: 1100
-- **dataset**: 1080
+- **dataset**: 1082
 - **datasets**: 1000
 - **models**: 1000
 - **text-generation**: 996
 - **benchmarks**: 700
-- **cs.CV**: 30
-- **cs.CL**: 23
-- **cs.AI**: 19
-- **cs.LG**: 11
-- **cs.SD**: 5
-- **cs.RO**: 3
-- **cs.SE**: 2
+- **cs.CV**: 41
+- **cs.CL**: 36
+- **cs.AI**: 28
+- **cs.LG**: 17
+- **cs.SD**: 7
+- **cs.RO**: 6
+- **cs.SE**: 3
+- **cs.CR**: 2
+- **cs.IR**: 2
 - **feature-extraction**: 2
 - **image-text-to-text**: 2
 - **cs.AR**: 1
-- **cs.CR**: 1
 - **cs.CY**: 1
 - **cs.DL**: 1
-- **cs.IR**: 1
+- **cs.GT**: 1
 - **cs.MA**: 1
+- **q-bio.QM**: 1
 - **stat.ME**: 1
+- **stat.ML**: 1
 
 ## Source Distribution
 
@@ -41,52 +44,54 @@
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2000
 - **OpenAI Blog**: 1003
-- **ArXiv**: 100
-- **HuggingFace Datasets**: 80
+- **ArXiv**: 150
+- **HuggingFace Datasets**: 82
 - **GitHub Trending**: 48
 - **BAIR Blog**: 10
 
 ## Top Tags
 
-- **region:us**: 120
+- **region:us**: 126
+- **text-generation**: 45
 - **library:datasets**: 41
 - **library:mlcroissant**: 41
-- **text-generation**: 41
-- **endpoints_compatible**: 36
-- **safetensors**: 36
-- **transformers**: 36
+- **safetensors**: 40
+- **endpoints_compatible**: 39
+- **transformers**: 39
+- **license:apache-2.0**: 35
 - **modality:text**: 34
-- **language:en**: 31
-- **license:apache-2.0**: 31
+- **language:en**: 32
+- **conversational**: 31
 - **library:polars**: 30
-- **conversational**: 28
+- **license:mit**: 28
 - **format:parquet**: 27
-- **license:mit**: 27
-- **text-generation-inference**: 22
-- **deploy:azure**: 18
+- **text-generation-inference**: 25
+- **deploy:azure**: 21
+- **eval-results**: 16
 - **library:pandas**: 16
-- **eval-results**: 15
+- **en**: 14
 - **library:dask**: 14
 - **size_categories:n<1K**: 13
 - **task_categories:text-generation**: 13
-- **en**: 12
 - **modality:image**: 12
 - **multilinguality:monolingual**: 10
+- **qwen3**: 10
 - **license:other**: 9
 - **modality:tabular**: 9
-- **qwen3**: 9
 - **source_datasets:original**: 9
+- **arxiv:2505.09388**: 8
 - **size_categories:10K<n<100K**: 8
-- **arxiv:2505.09388**: 7
 - **fp8**: 7
 - **modality:video**: 7
+- **pytorch**: 7
+- **arxiv:2309.00071**: 6
 - **custom_code**: 6
 - **language_creators:found**: 6
 - **license:odc-by**: 6
-- **pytorch**: 6
 - **size_categories:100K<n<1M**: 6
 - **size_categories:1M<n<10M**: 6
 - **task_ids:language-modeling**: 6
+- **8-bit**: 5
 - **annotations_creators:no-annotation**: 5
 - **format:imagefolder**: 5
 - **language:ar**: 5
@@ -96,5 +101,3 @@
 - **llama**: 5
 - **size_categories:100M<n<1B**: 5
 - **size_categories:1K<n<10K**: 5
-- **task_categories:fill-mask**: 5
-- **task_categories:text-classification**: 5

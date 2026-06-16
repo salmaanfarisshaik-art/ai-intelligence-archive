@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T03:34:37Z",
+  "generated_at": "2026-06-16T11:02:39Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -12,8 +12,18 @@
       "type": "trained_on"
     },
     {
+      "source_id": "hf_EleutherAI_pythia-70m-deduped",
+      "target_id": "hf_EleutherAI_the_pile_deduplicated",
+      "type": "trained_on"
+    },
+    {
       "source_id": "hf_Qwen_Qwen2.5-3B-Instruct",
       "target_id": "hf_Qwen_Qwen2.5-3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "target_id": "hf_Qwen_Qwen2.5-7B",
       "type": "derived_from"
     },
     {
@@ -24,6 +34,11 @@
     {
       "source_id": "hf_Qwen_Qwen3-1.7B",
       "target_id": "hf_Qwen_Qwen3-1.7B-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_Qwen_Qwen3-14B",
+      "target_id": "hf_Qwen_Qwen3-14B-Base",
       "type": "derived_from"
     },
     {
@@ -144,6 +159,11 @@
     {
       "source_id": "hf_nvidia_Gemma-4-31B-IT-NVFP4",
       "target_id": "hf_google_gemma-4-31B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+      "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
       "type": "derived_from"
     },
     {
@@ -414,6 +434,11 @@
     {
       "source_id": "model_bartowski_nemomix_unleashed_12b_gguf",
       "target_id": "hf_MarinaraSpaghetti_NemoMix-Unleashed-12B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_north_mini_code_1_0_gguf",
+      "target_id": "hf_CohereLabs_North-Mini-Code-1.0",
       "type": "derived_from"
     },
     {
@@ -1167,6 +1192,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_ibm_granite_granite_guardian_4_1_8b",
+      "target_id": "hf_ibm-granite_granite-4.1-8b",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
       "target_id": "hf_meta-llama_Llama-3.3-70B-Instruct",
       "type": "derived_from"
@@ -1290,6 +1320,16 @@
       "source_id": "model_janhq_jan_v3_5_4b_gguf",
       "target_id": "hf_janhq_Jan-v3-4B-base-instruct",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_jhu_clsp_rank1_7b",
+      "target_id": "hf_Qwen_Qwen2.5-7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jhu_clsp_rank1_7b",
+      "target_id": "hf_jhu-clsp_rank1-training-data",
+      "type": "trained_on"
     },
     {
       "source_id": "model_jimbothigpen_qwen3_5_9b_gguf",
@@ -2647,6 +2687,46 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_HuggingFaceFW_finepdfs",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_HuggingFaceFW_finewiki",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_codeparrot_github-code",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_fka_awesome-chatgpt-prompts",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_karpathy_fineweb-edu-100b-shuffle",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_neuralcrew_neutrino-instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_roneneldan_TinyStories",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_neuralcrew_neutrino_instruct",
+      "target_id": "hf_wikimedia_wikipedia",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nexveridian_qwen3_coder_next_8bit",
       "target_id": "hf_Qwen_Qwen3-Coder-Next",
       "type": "derived_from"
@@ -3627,6 +3707,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_qwen_qwen2_5_7b_instruct_gptq_int8",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_qwen_qwen2_5_coder_0_5b",
+      "target_id": "hf_Qwen_Qwen2.5-0.5B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_qwen_qwen2_5_coder_0_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-Coder-0.5B",
       "type": "derived_from"
@@ -4052,6 +4142,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_redhatai_qwen3_30b_a3b_quantized_w4a16",
+      "target_id": "hf_Qwen_Qwen3-30B-A3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_redhatai_qwen3_8b_fp8_dynamic",
       "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
@@ -4152,6 +4247,31 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_stabilityai_stablelm_zephyr_3b",
+      "target_id": "hf_HuggingFaceH4_ultrachat_200k",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_stabilityai_stablelm_zephyr_3b",
+      "target_id": "hf_HuggingFaceH4_ultrafeedback_binarized",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_stabilityai_stablelm_zephyr_3b",
+      "target_id": "hf_Intel_orca_dpo_pairs",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_stabilityai_stablelm_zephyr_3b",
+      "target_id": "hf_WizardLM_WizardLM_evol_instruct_V2_196k",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_stabilityai_stablelm_zephyr_3b",
+      "target_id": "hf_meta-math_MetaMathQA",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_stelterlab_mistral_small_24b_instruct_2501_awq",
       "target_id": "hf_mistralai_Mistral-Small-24B-Instruct-2501",
       "type": "derived_from"
@@ -4183,6 +4303,11 @@
     },
     {
       "source_id": "model_thebloke_llama_2_7b_chat_gguf",
+      "target_id": "hf_meta-llama_Llama-2-7b-chat-hf",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_thebloke_llama_2_7b_chat_gptq",
       "target_id": "hf_meta-llama_Llama-2-7b-chat-hf",
       "type": "derived_from"
     },
@@ -4682,6 +4807,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_unsloth_qwen2_5_7b_bnb_4bit",
+      "target_id": "hf_Qwen_Qwen2.5-7B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_unsloth_qwen2_5_7b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
       "type": "derived_from"
@@ -4694,6 +4824,11 @@
     {
       "source_id": "model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit",
       "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_qwen2_5_coder_14b_instruct_bnb_4bit",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-14B-Instruct",
       "type": "derived_from"
     },
     {
@@ -4855,6 +4990,11 @@
       "source_id": "model_xlnet_xlnet_base_cased",
       "target_id": "hf_wikipedia",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1_gguf",
+      "target_id": "hf_google_gemma-4-12B-it",
+      "type": "derived_from"
     },
     {
       "source_id": "model_yuxinlu1_gemma_4_12b_it_claude_4_6_4_8_opus_gguf",
