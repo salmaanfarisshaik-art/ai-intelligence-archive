@@ -1,15 +1,16 @@
 # Change Summary
 
-**Total Changes:** 64
+**Total Changes:** 66
 
 ## Added
-- releases/v2026.06.15.20260615_205020.zip
-- releases/v2026.06.15.20260615_205020/
+- releases/v2026.06.16.20260616_033352.zip
+- releases/v2026.06.16.20260616_033352/
 
 ## Modified
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
@@ -66,6 +67,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/archive_stats.json
 - site/search_index.json
 - site/timeline.json
