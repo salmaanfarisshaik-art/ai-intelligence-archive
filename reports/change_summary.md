@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 117
+**Total Changes:** 121
 
 ## Added
 - docs/cs.GT.md
@@ -15,8 +15,8 @@
 - exports/markdown/cs.GT.md
 - exports/markdown/q-bio.QM.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.16.20260616_110155.zip
-- releases/v2026.06.16.20260616_110155/
+- releases/v2026.06.16.20260616_164117.zip
+- releases/v2026.06.16.20260616_164117/
 
 ## Modified
 - data/metadata/analytics.json
@@ -29,8 +29,6 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -44,6 +42,8 @@
 - docs/cs.SD.md
 - docs/cs.SE.md
 - docs/dataset.md
+- docs/datasets.md
+- docs/models.md
 - docs/text-generation.md
 - exports/csv/all_entities.csv
 - exports/csv/api_providers.csv
@@ -87,6 +87,8 @@
 - exports/json/cs.SD.json
 - exports/json/cs.SE.json
 - exports/json/dataset.json
+- exports/json/datasets.json
+- exports/json/models.json
 - exports/json/text-generation.json
 - exports/markdown/cs.AI.md
 - exports/markdown/cs.CL.md
@@ -98,6 +100,8 @@
 - exports/markdown/cs.SD.md
 - exports/markdown/cs.SE.md
 - exports/markdown/dataset.md
+- exports/markdown/datasets.md
+- exports/markdown/models.md
 - exports/markdown/text-generation.md
 - frontend/public/data/archive_stats.json
 - frontend/public/data/benchmarks/data.json
