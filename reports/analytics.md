@@ -54,25 +54,25 @@
 
 ## Top Tags
 
-- **region:us**: 126
-- **text-generation**: 45
+- **region:us**: 127
+- **text-generation**: 46
 - **library:datasets**: 41
 - **library:mlcroissant**: 41
-- **safetensors**: 40
-- **endpoints_compatible**: 39
-- **transformers**: 39
+- **safetensors**: 41
+- **endpoints_compatible**: 40
+- **transformers**: 40
 - **license:apache-2.0**: 35
 - **modality:text**: 34
+- **conversational**: 32
 - **language:en**: 32
-- **conversational**: 31
 - **library:polars**: 30
-- **license:mit**: 28
+- **license:mit**: 29
 - **format:parquet**: 27
 - **text-generation-inference**: 25
 - **deploy:azure**: 21
-- **eval-results**: 16
+- **eval-results**: 17
 - **library:pandas**: 16
-- **en**: 14
+- **en**: 15
 - **library:dask**: 14
 - **size_categories:n<1K**: 13
 - **task_categories:text-generation**: 13
@@ -83,8 +83,8 @@
 - **modality:tabular**: 9
 - **source_datasets:original**: 9
 - **arxiv:2505.09388**: 8
+- **fp8**: 8
 - **size_categories:10K<n<100K**: 8
-- **fp8**: 7
 - **modality:video**: 7
 - **pytorch**: 7
 - **arxiv:2309.00071**: 6

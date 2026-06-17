@@ -1,158 +1,37 @@
 {
-  "main": [
-    {
-      "label": "Home",
-      "path": "/"
-    },
-    {
-      "label": "Search",
-      "path": "/search"
-    }
-  ],
-  "categories": [
-    {
-      "label": "Api Providers",
-      "path": "/category/api_providers"
-    },
-    {
-      "label": "Benchmarks",
-      "path": "/category/benchmarks"
-    },
-    {
-      "label": "Cs.Ai",
-      "path": "/category/cs.AI"
-    },
-    {
-      "label": "Cs.Ar",
-      "path": "/category/cs.AR"
-    },
-    {
-      "label": "Cs.Cl",
-      "path": "/category/cs.CL"
-    },
-    {
-      "label": "Cs.Cr",
-      "path": "/category/cs.CR"
-    },
-    {
-      "label": "Cs.Cv",
-      "path": "/category/cs.CV"
-    },
-    {
-      "label": "Cs.Cy",
-      "path": "/category/cs.CY"
-    },
-    {
-      "label": "Cs.Dl",
-      "path": "/category/cs.DL"
-    },
-    {
-      "label": "Cs.Gt",
-      "path": "/category/cs.GT"
-    },
-    {
-      "label": "Cs.Hc",
-      "path": "/category/cs.HC"
-    },
-    {
-      "label": "Cs.Ir",
-      "path": "/category/cs.IR"
-    },
-    {
-      "label": "Cs.Lg",
-      "path": "/category/cs.LG"
-    },
-    {
-      "label": "Cs.Ma",
-      "path": "/category/cs.MA"
-    },
-    {
-      "label": "Cs.Os",
-      "path": "/category/cs.OS"
-    },
-    {
-      "label": "Cs.Ro",
-      "path": "/category/cs.RO"
-    },
-    {
-      "label": "Cs.Sd",
-      "path": "/category/cs.SD"
-    },
-    {
-      "label": "Cs.Se",
-      "path": "/category/cs.SE"
-    },
-    {
-      "label": "Dataset",
-      "path": "/category/dataset"
-    },
-    {
-      "label": "Datasets",
-      "path": "/category/datasets"
-    },
-    {
-      "label": "Feature-Extraction",
-      "path": "/category/feature-extraction"
-    },
-    {
-      "label": "Ide Rules",
-      "path": "/category/ide_rules"
-    },
-    {
-      "label": "Image-Text-To-Text",
-      "path": "/category/image-text-to-text"
-    },
-    {
-      "label": "Instruction Tuning",
-      "path": "/category/instruction_tuning"
-    },
-    {
-      "label": "Mcps",
-      "path": "/category/mcps"
-    },
-    {
-      "label": "Models",
-      "path": "/category/models"
-    },
-    {
-      "label": "News",
-      "path": "/category/news"
-    },
-    {
-      "label": "Prompts",
-      "path": "/category/prompts"
-    },
-    {
-      "label": "Q-Bio.Qm",
-      "path": "/category/q-bio.QM"
-    },
-    {
-      "label": "Q-Fin.Tr",
-      "path": "/category/q-fin.TR"
-    },
-    {
-      "label": "Skills",
-      "path": "/category/skills"
-    },
-    {
-      "label": "Stat.Me",
-      "path": "/category/stat.ME"
-    },
-    {
-      "label": "Stat.Ml",
-      "path": "/category/stat.ML"
-    },
-    {
-      "label": "Text-Generation",
-      "path": "/category/text-generation"
-    },
-    {
-      "label": "Tool",
-      "path": "/category/tool"
-    },
-    {
-      "label": "Tools",
-      "path": "/category/tools"
-    }
-  ]
+  "data": {
+    "items": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Models",
+        "url": "/models/"
+      },
+      {
+        "label": "Papers",
+        "url": "/papers/"
+      },
+      {
+        "label": "Datasets",
+        "url": "/datasets/"
+      },
+      {
+        "label": "Prompts",
+        "url": "/prompts/"
+      },
+      {
+        "label": "Tools",
+        "url": "/tools/"
+      },
+      {
+        "label": "Archive Statistics",
+        "url": "/stats/"
+      }
+    ]
+  },
+  "generated_by_phase": 6,
+  "generator": "site_generator",
+  "schema_version": "1.0.0"
 }

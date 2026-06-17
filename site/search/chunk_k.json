@@ -45,6 +45,11 @@
       "score": 6.5
     },
     {
+      "entity_id": "model_nvidia_kimi_k2_thinking_nvfp4",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_mlx_community_kimi_k2_5",
       "match_type": "exact",
       "score": 5.0
@@ -892,6 +897,13 @@
   "kangchenjunga": [
     {
       "entity_id": "alpaca_6619925501188136289",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "kangzhi": [
+    {
+      "entity_id": "dataset_ruc_nlpir_gisa",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4253,6 +4265,13 @@
       "score": 1.0
     }
   ],
+  "kenpath": [
+    {
+      "entity_id": "model_kenpath_svara_tts_v1",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "kensington": [
     {
       "entity_id": "alpaca_1817171679881098243",
@@ -6705,6 +6724,11 @@
       "entity_id": "alpaca_8796627425918234202",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "keystone": [
@@ -8579,6 +8603,11 @@
     },
     {
       "entity_id": "model_mlx_community_kimi_k2_6_mlx_dq3_k_m_q8",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_nvidia_kimi_k2_thinking_nvfp4",
       "match_type": "exact",
       "score": 6.5
     },
@@ -12319,6 +12348,11 @@
     },
     {
       "entity_id": "model_bosonai_higgs_audio_v3_tts_4b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_kenpath_svara_tts_v1",
       "match_type": "exact",
       "score": 1.5
     },
@@ -16133,6 +16167,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_sleeping_ai_genius",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_stanfordnlp_snli",
       "match_type": "exact",
       "score": 2.0
@@ -19290,6 +19329,13 @@
       "entity_id": "dataset_wikimedia_wikipedia",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "kvasir": [
+    {
+      "entity_id": "dataset_simulamet_kvasir_vqa_x1",
+      "match_type": "exact",
+      "score": 6.5
     }
   ],
   "kveraser": [

@@ -467,6 +467,11 @@
       "entity_id": "dataset_allenai_objaverse",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_danielnobbe_mr_rate",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "800m": [
@@ -1250,6 +1255,11 @@
     }
   ],
   "80b": [
+    {
+      "entity_id": "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_cyankiwi_qwen3_next_80b_a3b_instruct_awq_4bit",
       "match_type": "exact",
@@ -2143,6 +2153,13 @@
       "entity_id": "news_synth_8179",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "817k": [
+    {
+      "entity_id": "dataset_lucas_ventura_chapter_llama",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "818": [
@@ -8565,6 +8582,11 @@
       "entity_id": "tool_synth_885",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_sleeping_ai_genius",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "8850": [
@@ -9960,6 +9982,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_drawais_qwen3_embedding_8b_awq_int4",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_ibm_granite_granite_3_0_8b_instruct",
       "match_type": "exact",
       "score": 5.0
@@ -10190,6 +10217,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_unsloth_llama_3_1_8b_instruct_bnb_4bit",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_unsloth_llama_3_8b_bnb_4bit",
       "match_type": "exact",
       "score": 5.0
@@ -10220,6 +10252,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "dataset_open_bee_honey_data_15m",
       "match_type": "exact",
       "score": 4.5
@@ -10231,6 +10268,11 @@
     },
     {
       "entity_id": "dataset_allenai_olmo_mix_1124",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_ucsc_vlaa_recap_datacomp_1b",
       "match_type": "exact",
       "score": 2.0
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T03:30:44Z",
+  "generated_at": "2026-06-17T10:46:30Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -452,6 +452,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_qwen2_5_1_5b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen2_5_3b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-3B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_qwen2_5_72b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-72B-Instruct",
       "type": "derived_from"
@@ -469,6 +479,11 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen3-Next-80B-A3B-Instruct",
       "type": "derived_from"
     },
     {
@@ -609,6 +624,11 @@
     {
       "source_id": "model_cyankiwi_hermes_4_14b_awq_4bit",
       "target_id": "hf_NousResearch_Hermes-4-14B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_cyankiwi_minimax_m2_5_awq_4bit",
+      "target_id": "hf_MiniMaxAI_MiniMax-M2.5",
       "type": "derived_from"
     },
     {
@@ -844,6 +864,11 @@
     {
       "source_id": "model_drawais_qwen3_6_27b_awq_int4",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_drawais_qwen3_embedding_8b_awq_int4",
+      "target_id": "hf_Qwen_Qwen3-Embedding-8B",
       "type": "derived_from"
     },
     {
@@ -1367,6 +1392,31 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_kenpath_svara_tts_v1",
+      "target_id": "hf_IndicTTS",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kenpath_svara_tts_v1",
+      "target_id": "hf_RASA",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kenpath_svara_tts_v1",
+      "target_id": "hf_SPICOR",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kenpath_svara_tts_v1",
+      "target_id": "hf_SYSPIN",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_kenpath_svara_tts_v1",
+      "target_id": "hf_canopylabs_3b-hi-ft-research_release",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf",
       "target_id": "hf_DavidAU_Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
       "type": "derived_from"
@@ -1470,6 +1520,21 @@
       "source_id": "model_llmat_qwen3_4b_instruct_2507_nvfp4",
       "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic",
+      "target_id": "hf_ConicCat_Condor-SFT-Filtered",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic",
+      "target_id": "hf_ConicCat_Gemma4-GarnetV2-31B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic",
+      "target_id": "hf_ConicCat_Gutenberg-SFT",
+      "type": "trained_on"
     },
     {
       "source_id": "model_lmms_lab_llava_onevision_qwen2_7b_ov",
@@ -2802,6 +2867,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_kimi_k2_thinking_nvfp4",
+      "target_id": "hf_moonshotai_Kimi-K2-Thinking",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_llama_3_1_8b_instruct_fp8",
       "target_id": "hf_meta-llama_Llama-3.1-8B-Instruct",
       "type": "derived_from"
@@ -3482,6 +3552,51 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_Gael540_dataSet_ens_sup_fr-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_OpenLLM-France_Croissant-Aligned-Instruct",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_OpenLLM-France_Lucie-7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_ai2-adapt-dev_flan_v2_converted",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_allenai_WildChat-1M",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_allenai_tulu-3-sft-personas-math",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_allenai_tulu-3-sft-personas-math-grade",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_cmh_alpaca_data_cleaned_fr_52k",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
+      "target_id": "hf_teknium_OpenHermes-2.5",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_openpipe_qwen3_14b_instruct",
       "target_id": "hf_Qwen_Qwen3-14B-Base",
       "type": "derived_from"
@@ -4117,6 +4232,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_redhatai_phi_4_quantized_w4a16",
+      "target_id": "hf_microsoft_phi-4",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_redhatai_qwen2_5_1_5b_quantized_w8a8",
       "target_id": "hf_Qwen_Qwen2.5-1.5B",
       "type": "derived_from"
@@ -4192,6 +4312,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_sanctumai_gemma_2_9b_it_gguf",
+      "target_id": "hf_google_gemma-2-9b-it",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_sanctumai_meta_llama_3_1_8b_instruct_gguf",
       "target_id": "hf_meta-llama_Llama-3.1-8B-Instruct",
       "type": "derived_from"
@@ -4200,6 +4325,11 @@
       "source_id": "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10",
       "target_id": "hf_catplusplus_MiniMax-M2.7-REAP-172B-A10B-NVFP4",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_shibing624_macbert4csc_base_chinese",
+      "target_id": "hf_shibing624_CSC",
+      "type": "trained_on"
     },
     {
       "source_id": "model_sneedjak_adelic_gemma_4_12b_gguf",
@@ -4324,6 +4454,11 @@
     {
       "source_id": "model_thebloke_mistral_7b_instruct_v0_2_gguf",
       "target_id": "hf_mistralai_Mistral-7B-Instruct-v0.2",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_thebloke_openhermes_2_5_mistral_7b_awq",
+      "target_id": "hf_teknium_OpenHermes-2.5-Mistral-7B",
       "type": "derived_from"
     },
     {
@@ -4547,6 +4682,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_unsloth_glm_4_7_flash_reap_23b_a3b_gguf",
+      "target_id": "hf_cerebras_GLM-4.7-Flash-REAP-23B-A3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_unsloth_glm_5_1_gguf",
       "target_id": "hf_zai-org_GLM-5.1",
       "type": "derived_from"
@@ -4588,6 +4728,11 @@
     },
     {
       "source_id": "model_unsloth_llama_3_1_8b_instruct",
+      "target_id": "hf_meta-llama_Llama-3.1-8B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_llama_3_1_8b_instruct_bnb_4bit",
       "target_id": "hf_meta-llama_Llama-3.1-8B-Instruct",
       "type": "derived_from"
     },
@@ -4952,6 +5097,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_vectionlabs_vl_1_coder",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_vicgalle_humanish_roleplay_llama_3_1_8b",
       "target_id": "hf_ResplendentAI_NSFW_RP_Format_DPO",
       "type": "trained_on"
@@ -4962,8 +5112,18 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_virtue_ai_hub_vulnllm_r_7b",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq",
       "target_id": "hf_google_gemma-4-E4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq",
+      "target_id": "hf_LiquidAI_LFM2.5-8B-A1B",
       "type": "derived_from"
     },
     {

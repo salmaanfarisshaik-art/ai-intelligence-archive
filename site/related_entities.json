@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T03:30:44Z",
+  "generated_at": "2026-06-17T10:46:30Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -68,6 +68,15 @@
     "hf_CohereLabs_North-Mini-Code-1.0": [
       "model_bartowski_north_mini_code_1_0_gguf"
     ],
+    "hf_ConicCat_Condor-SFT-Filtered": [
+      "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic"
+    ],
+    "hf_ConicCat_Gemma4-GarnetV2-31B": [
+      "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic"
+    ],
+    "hf_ConicCat_Gutenberg-SFT": [
+      "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic"
+    ],
     "hf_DavidAU_Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B": [
       "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf"
     ],
@@ -119,6 +128,9 @@
     ],
     "hf_FreedomIntelligence_SocraticChat": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
+    ],
+    "hf_Gael540_dataSet_ens_sup_fr-v1": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
     "hf_GeneralAnalysis_GA_Guardrail_Benchmark": [
       "model_generalanalysis_ga_guard_core",
@@ -197,6 +209,9 @@
     "hf_IlyaGusev_saiga_scored": [
       "model_ilyagusev_saiga_llama3_8b"
     ],
+    "hf_IndicTTS": [
+      "model_kenpath_svara_tts_v1"
+    ],
     "hf_Intel_orca_dpo_pairs": [
       "model_stabilityai_stablelm_zephyr_3b",
       "model_upstage_solar_10_7b_instruct_v1_0",
@@ -256,7 +271,8 @@
     ],
     "hf_LiquidAI_LFM2.5-8B-A1B": [
       "model_liquidai_lfm2_5_8b_a1b_gguf",
-      "model_unsloth_lfm2_5_8b_a1b_gguf"
+      "model_unsloth_lfm2_5_8b_a1b_gguf",
+      "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq"
     ],
     "hf_LiquidAI_LFM2.5-8B-A1B-Base": [
       "model_liquidai_lfm2_5_8b_a1b"
@@ -281,6 +297,7 @@
       "model_warshanks_jan_nano_awq"
     ],
     "hf_MiniMaxAI_MiniMax-M2.5": [
+      "model_cyankiwi_minimax_m2_5_awq_4bit",
       "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "model_nvidia_minimax_m2_5_nvfp4"
     ],
@@ -301,6 +318,12 @@
       "model_thebloke_tinyllama_1_1b_chat_v0_3_awq",
       "model_thebloke_tinyllama_1_1b_chat_v0_3_gptq",
       "model_thebloke_tinyllama_1_1b_chat_v1_0_gptq"
+    ],
+    "hf_OpenLLM-France_Croissant-Aligned-Instruct": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
+    ],
+    "hf_OpenLLM-France_Lucie-7B": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
     "hf_OpenMed_Medical-Reasoning-SFT-GPT-OSS-120B": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -358,6 +381,7 @@
       "model_unsloth_qwen2_5_1_5b_unsloth_bnb_4bit"
     ],
     "hf_Qwen_Qwen2.5-1.5B-Instruct": [
+      "model_bartowski_qwen2_5_1_5b_instruct_gguf",
       "model_litert_community_qwen2_5_1_5b_instruct",
       "model_maziyarpanahi_qwen2_5_1_5b_instruct_gguf",
       "model_qwen_qwen2_5_1_5b_instruct_awq",
@@ -398,6 +422,7 @@
     ],
     "hf_Qwen_Qwen2.5-3B-Instruct": [
       "hf_Qwen_Qwen2.5-3B",
+      "model_bartowski_qwen2_5_3b_instruct_gguf",
       "model_qwen_qwen2_5_3b_instruct_awq",
       "model_qwen_qwen2_5_3b_instruct_gguf",
       "model_unsloth_qwen2_5_3b_instruct_bnb_4bit",
@@ -431,7 +456,8 @@
       "model_redhatai_qwen2_5_7b_instruct_fp8_dynamic",
       "model_unsloth_qwen2_5_7b_instruct",
       "model_unsloth_qwen2_5_7b_instruct_bnb_4bit",
-      "model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit"
+      "model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit",
+      "model_virtue_ai_hub_vulnllm_r_7b"
     ],
     "hf_Qwen_Qwen2.5-Coder-0.5B": [
       "model_qwen_qwen2_5_coder_0_5b_instruct"
@@ -481,7 +507,8 @@
       "model_qwen_qwen2_5_coder_7b_instruct_awq",
       "model_qwen_qwen2_5_coder_7b_instruct_gguf",
       "model_qwen_qwen2_5_coder_7b_instruct_gptq_int4",
-      "model_unsloth_qwen2_5_coder_7b_instruct_bnb_4bit"
+      "model_unsloth_qwen2_5_coder_7b_instruct_bnb_4bit",
+      "model_vectionlabs_vl_1_coder"
     ],
     "hf_Qwen_Qwen2.5-Math-1.5B": [
       "model_qwen_qwen2_5_math_1_5b_instruct"
@@ -673,7 +700,11 @@
       "hf_Qwen_Qwen3-4B-Base",
       "model_boboliu_qwen3_embedding_4b_w4a16_g128"
     ],
+    "hf_Qwen_Qwen3-Embedding-8B": [
+      "model_drawais_qwen3_embedding_8b_awq_int4"
+    ],
     "hf_Qwen_Qwen3-Next-80B-A3B-Instruct": [
+      "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf",
       "model_cyankiwi_qwen3_next_80b_a3b_instruct_awq_4bit",
       "model_nvidia_qwen3_next_80b_a3b_instruct_nvfp4",
       "model_qwen_qwen3_next_80b_a3b_instruct_fp8",
@@ -721,11 +752,20 @@
       "model_mmangkad_qwen3_6_35b_a3b_nvfp4",
       "model_nvidia_qwen3_6_35b_a3b_nvfp4"
     ],
+    "hf_RASA": [
+      "model_kenpath_svara_tts_v1"
+    ],
     "hf_ResplendentAI_NSFW_RP_Format_DPO": [
       "model_vicgalle_humanish_roleplay_llama_3_1_8b"
     ],
     "hf_Roman1111111_claude-opus-4.6-10000x": [
       "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf"
+    ],
+    "hf_SPICOR": [
+      "model_kenpath_svara_tts_v1"
+    ],
+    "hf_SYSPIN": [
+      "model_kenpath_svara_tts_v1"
     ],
     "hf_Salesforce_lotsa_data": [
       "model_thuml_sundial_base_128m"
@@ -767,6 +807,9 @@
     ],
     "hf_Zyphra_Zamba2-7B": [
       "model_zyphra_zamba2_7b_instruct"
+    ],
+    "hf_ai2-adapt-dev_flan_v2_converted": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
     "hf_ai4b-hf_GLOBE-annotated": [
       "model_ai4bharat_indic_parler_tts"
@@ -814,6 +857,9 @@
     "hf_allenai_RLVR-MATH": [
       "model_allenai_olmo_2_0425_1b_instruct"
     ],
+    "hf_allenai_WildChat-1M": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
+    ],
     "hf_allenai_dolma": [
       "model_allenai_olmo_1b_hf"
     ],
@@ -825,6 +871,12 @@
     ],
     "hf_allenai_tulu-3-sft-mixture": [
       "model_allenai_llama_3_1_tulu_3_8b_sft"
+    ],
+    "hf_allenai_tulu-3-sft-personas-math": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
+    ],
+    "hf_allenai_tulu-3-sft-personas-math-grade": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
     "hf_allenai_ultrafeedback_binarized_cleaned": [
       "model_allenai_olmoe_1b_7b_0924_instruct",
@@ -894,6 +946,9 @@
       "model_google_t5_t5_11b",
       "model_google_t5_t5_3b"
     ],
+    "hf_canopylabs_3b-hi-ft-research_release": [
+      "model_kenpath_svara_tts_v1"
+    ],
     "hf_canopylabs_orpheus-3b-0.1-ft": [
       "model_unsloth_orpheus_3b_0_1_ft"
     ],
@@ -912,6 +967,9 @@
     "hf_ccdv_pubmed-summarization": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
+    "hf_cerebras_GLM-4.7-Flash-REAP-23B-A3B": [
+      "model_unsloth_glm_4_7_flash_reap_23b_a3b_gguf"
+    ],
     "hf_cerebras_SlimPajama-627B": [
       "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
       "model_thebloke_tinyllama_1_1b_chat_v0_3_awq",
@@ -919,6 +977,9 @@
       "model_thebloke_tinyllama_1_1b_chat_v1_0_gptq",
       "model_tinyllama_tinyllama_1_1b_chat_v1_0",
       "model_tinyllama_tinyllama_1_1b_intermediate_step_1431k_3t"
+    ],
+    "hf_cmh_alpaca_data_cleaned_fr_52k": [
+      "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
     "hf_codeparrot_github-code": [
       "model_neuralcrew_neutrino_instruct"
@@ -1147,6 +1208,9 @@
     "hf_google_gemma-2-9b": [
       "model_google_gemma_2_9b_it"
     ],
+    "hf_google_gemma-2-9b-it": [
+      "model_sanctumai_gemma_2_9b_it_gguf"
+    ],
     "hf_google_gemma-3-12b-it": [
       "model_maziyarpanahi_gemma_3_12b_it_gguf"
     ],
@@ -1328,6 +1392,7 @@
       "model_redhatai_meta_llama_3_1_8b_instruct_quantized_w4a16",
       "model_sanctumai_meta_llama_3_1_8b_instruct_gguf",
       "model_unsloth_llama_3_1_8b_instruct",
+      "model_unsloth_llama_3_1_8b_instruct_bnb_4bit",
       "model_unsloth_meta_llama_3_1_8b_instruct",
       "model_unsloth_meta_llama_3_1_8b_instruct_bnb_4bit",
       "model_unsloth_meta_llama_3_1_8b_instruct_unsloth_bnb_4bit"
@@ -1409,7 +1474,8 @@
       "model_dphn_dolphin_2_9_1_yi_1_5_34b"
     ],
     "hf_microsoft_phi-4": [
-      "model_maziyarpanahi_phi_4_gguf"
+      "model_maziyarpanahi_phi_4_gguf",
+      "model_redhatai_phi_4_quantized_w4a16"
     ],
     "hf_mimic-cxr": [
       "model_chantalpellegrini_radialog_interactive_radiology_report_generation"
@@ -1475,6 +1541,9 @@
     ],
     "hf_mlx-community_Llama-3.2-3B-Instruct": [
       "model_mlx_community_llama_3_2_3b_instruct_4bit"
+    ],
+    "hf_moonshotai_Kimi-K2-Thinking": [
+      "model_nvidia_kimi_k2_thinking_nvfp4"
     ],
     "hf_moonshotai_Kimi-K2.5": [
       "model_lightseekorg_kimi_k2_5_eagle3_mla",
@@ -1847,6 +1916,9 @@
     "hf_sarvamai_sarvam-30b": [
       "model_redhatai_sarvam_30b_fp8_dynamic"
     ],
+    "hf_shibing624_CSC": [
+      "model_shibing624_macbert4csc_base_chinese"
+    ],
     "hf_speakleash_Bielik-11B-v3.0-Instruct": [
       "model_speakleash_bielik_11b_v3_0_instruct_awq"
     ],
@@ -1864,7 +1936,11 @@
     ],
     "hf_teknium_OpenHermes-2.5": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
-      "model_dphn_dolphin_2_9_1_yi_1_5_34b"
+      "model_dphn_dolphin_2_9_1_yi_1_5_34b",
+      "model_openllm_france_lucie_7b_instruct_v1_1"
+    ],
+    "hf_teknium_OpenHermes-2.5-Mistral-7B": [
+      "model_thebloke_openhermes_2_5_mistral_7b_awq"
     ],
     "hf_tencent_HunyuanOCR": [
       "model_tencent_hunyuanocr"
@@ -2108,6 +2184,12 @@
     "model_bartowski_qwen2_5_14b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-14B-Instruct"
     ],
+    "model_bartowski_qwen2_5_1_5b_instruct_gguf": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
+    "model_bartowski_qwen2_5_3b_instruct_gguf": [
+      "hf_Qwen_Qwen2.5-3B-Instruct"
+    ],
     "model_bartowski_qwen2_5_72b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-72B-Instruct"
     ],
@@ -2119,6 +2201,9 @@
     ],
     "model_bartowski_qwen2_5_coder_7b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-7B-Instruct"
+    ],
+    "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf": [
+      "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"
     ],
     "model_bartowski_smollm2_1_7b_instruct_gguf": [
       "hf_HuggingFaceTB_SmolLM2-1.7B-Instruct"
@@ -2199,6 +2284,9 @@
     ],
     "model_cyankiwi_hermes_4_14b_awq_4bit": [
       "hf_NousResearch_Hermes-4-14B"
+    ],
+    "model_cyankiwi_minimax_m2_5_awq_4bit": [
+      "hf_MiniMaxAI_MiniMax-M2.5"
     ],
     "model_cyankiwi_minimax_m2_7_awq_4bit": [
       "hf_MiniMaxAI_MiniMax-M2.7"
@@ -2284,6 +2372,9 @@
     ],
     "model_drawais_qwen3_6_27b_awq_int4": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_drawais_qwen3_embedding_8b_awq_int4": [
+      "hf_Qwen_Qwen3-Embedding-8B"
     ],
     "model_duoneural_gemma4_12b_it_abliterated_gguf": [
       "hf_DuoNeural_Gemma4-12B-IT-Abliterated"
@@ -2541,6 +2632,13 @@
       "hf_graph-based-captions_GBC10M",
       "hf_laion_conceptual-captions-12m-webdataset"
     ],
+    "model_kenpath_svara_tts_v1": [
+      "hf_IndicTTS",
+      "hf_RASA",
+      "hf_SPICOR",
+      "hf_SYSPIN",
+      "hf_canopylabs_3b-hi-ft-research_release"
+    ],
     "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf": [
       "hf_DavidAU_Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop"
     ],
@@ -2601,6 +2699,11 @@
     ],
     "model_llmat_qwen3_4b_instruct_2507_nvfp4": [
       "hf_Qwen_Qwen3-4B-Instruct-2507"
+    ],
+    "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic": [
+      "hf_ConicCat_Condor-SFT-Filtered",
+      "hf_ConicCat_Gemma4-GarnetV2-31B",
+      "hf_ConicCat_Gutenberg-SFT"
     ],
     "model_lmms_lab_llava_onevision_qwen2_7b_ov": [
       "hf_lmms-lab_LLaVA-OneVision-Data"
@@ -3152,6 +3255,9 @@
     "model_nvidia_kimi_k2_6_nvfp4": [
       "hf_moonshotai_Kimi-K2.6"
     ],
+    "model_nvidia_kimi_k2_thinking_nvfp4": [
+      "hf_moonshotai_Kimi-K2-Thinking"
+    ],
     "model_nvidia_llama_3_1_8b_instruct_fp8": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
@@ -3355,6 +3461,17 @@
       "hf_openbmb_Ultra-FineWeb-L3",
       "hf_openbmb_UltraData-Math",
       "hf_openbmb_UltraData-SFT-2605"
+    ],
+    "model_openllm_france_lucie_7b_instruct_v1_1": [
+      "hf_Gael540_dataSet_ens_sup_fr-v1",
+      "hf_OpenLLM-France_Croissant-Aligned-Instruct",
+      "hf_OpenLLM-France_Lucie-7B",
+      "hf_ai2-adapt-dev_flan_v2_converted",
+      "hf_allenai_WildChat-1M",
+      "hf_allenai_tulu-3-sft-personas-math",
+      "hf_allenai_tulu-3-sft-personas-math-grade",
+      "hf_cmh_alpaca_data_cleaned_fr_52k",
+      "hf_teknium_OpenHermes-2.5"
     ],
     "model_openpipe_qwen3_14b_instruct": [
       "hf_Qwen_Qwen3-14B-Base"
@@ -3723,6 +3840,9 @@
     "model_redhatai_meta_llama_3_8b_instruct_fp8_kv": [
       "hf_meta-llama_Meta-Llama-3-8B-Instruct"
     ],
+    "model_redhatai_phi_4_quantized_w4a16": [
+      "hf_microsoft_phi-4"
+    ],
     "model_redhatai_qwen2_5_1_5b_quantized_w8a8": [
       "hf_Qwen_Qwen2.5-1.5B"
     ],
@@ -3764,11 +3884,17 @@
     "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp": [
       "hf_Qwen_Qwen3.6-27B"
     ],
+    "model_sanctumai_gemma_2_9b_it_gguf": [
+      "hf_google_gemma-2-9b-it"
+    ],
     "model_sanctumai_meta_llama_3_1_8b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
     "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10": [
       "hf_catplusplus_MiniMax-M2.7-REAP-172B-A10B-NVFP4"
+    ],
+    "model_shibing624_macbert4csc_base_chinese": [
+      "hf_shibing624_CSC"
     ],
     "model_sneedjak_adelic_gemma_4_12b_gguf": [
       "hf_google_gemma-4-12B"
@@ -3828,6 +3954,9 @@
     ],
     "model_thebloke_mistral_7b_instruct_v0_2_gguf": [
       "hf_mistralai_Mistral-7B-Instruct-v0.2"
+    ],
+    "model_thebloke_openhermes_2_5_mistral_7b_awq": [
+      "hf_teknium_OpenHermes-2.5-Mistral-7B"
     ],
     "model_thebloke_tinyllama_1_1b_chat_v0_3_awq": [
       "hf_OpenAssistant_oasst_top1_2023-08-25",
@@ -3927,6 +4056,9 @@
     "model_unsloth_glm_4_7_flash_gguf": [
       "hf_zai-org_GLM-4.7-Flash"
     ],
+    "model_unsloth_glm_4_7_flash_reap_23b_a3b_gguf": [
+      "hf_cerebras_GLM-4.7-Flash-REAP-23B-A3B"
+    ],
     "model_unsloth_glm_5_1_gguf": [
       "hf_zai-org_GLM-5.1"
     ],
@@ -3952,6 +4084,9 @@
       "hf_LiquidAI_LFM2.5-8B-A1B"
     ],
     "model_unsloth_llama_3_1_8b_instruct": [
+      "hf_meta-llama_Llama-3.1-8B-Instruct"
+    ],
+    "model_unsloth_llama_3_1_8b_instruct_bnb_4bit": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
     "model_unsloth_llama_3_2_1b": [
@@ -4130,12 +4265,21 @@
     "model_vamsi_t5_paraphrase_paws": [
       "hf_google-t5_t5-base"
     ],
+    "model_vectionlabs_vl_1_coder": [
+      "hf_Qwen_Qwen2.5-Coder-7B-Instruct"
+    ],
     "model_vicgalle_humanish_roleplay_llama_3_1_8b": [
       "hf_ResplendentAI_NSFW_RP_Format_DPO",
       "hf_Undi95_Weyaxi-humanish-dpo-project-noemoji"
     ],
+    "model_virtue_ai_hub_vulnllm_r_7b": [
+      "hf_Qwen_Qwen2.5-7B-Instruct"
+    ],
     "model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq": [
       "hf_google_gemma-4-E4B-it"
+    ],
+    "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq": [
+      "hf_LiquidAI_LFM2.5-8B-A1B"
     ],
     "model_w_ahmad_qwopus3_5_9b_coder_mtp_gguf_moq": [
       "hf_Qwen_Qwen3.5-9B"
