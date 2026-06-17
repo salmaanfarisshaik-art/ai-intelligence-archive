@@ -27,8 +27,8 @@
 - exports/markdown/q-bio.QM.md
 - exports/markdown/q-fin.TR.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.17.20260617_150117.zip
-- releases/v2026.06.17.20260617_150117/
+- releases/v2026.06.17.20260617_200655.zip
+- releases/v2026.06.17.20260617_200655/
 
 ## Modified
 - data/metadata/analytics.json
@@ -40,9 +40,9 @@
 - data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
+- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.CL.md
