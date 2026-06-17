@@ -27,16 +27,17 @@
 - exports/markdown/q-bio.QM.md
 - exports/markdown/q-fin.TR.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.17.20260617_104544.zip
-- releases/v2026.06.17.20260617_104544/
+- releases/v2026.06.17.20260617_150117.zip
+- releases/v2026.06.17.20260617_150117/
 
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/repo_metrics.json
+- data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
@@ -138,9 +139,8 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/archive_stats.json
-- site/navigation.json
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 
