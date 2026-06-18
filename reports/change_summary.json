@@ -33,15 +33,17 @@
       "exports/markdown/q-fin.TR.md",
       "exports/markdown/quant-ph.md",
       "exports/markdown/stat.ML.md",
-      "releases/v2026.06.18.20260618_101340.zip",
-      "releases/v2026.06.18.20260618_101340/"
+      "releases/v2026.06.18.20260618_145608.zip",
+      "releases/v2026.06.18.20260618_145608/"
     ],
     "files_modified": [
       "data/metadata/analytics.json",
       "data/metadata/api_manifest.json",
+      "data/metadata/category_index.json",
       "data/metadata/connector_manifest.json",
       "data/metadata/entity_index.json",
       "data/metadata/feature_manifest.json",
+      "data/metadata/relationship_graph.json",
       "data/metadata/repository_manifest.json",
       "data/metadata/schema_manifest.json",
       "data/metadata/tag_index.json",
@@ -147,11 +149,12 @@
       "reports/integrity_status.json",
       "reports/project_status.json",
       "site/archive_stats.json",
+      "site/index.json",
       "site/search_index.json",
       "site/timeline.json"
     ],
     "files_removed": [],
-    "total_changes": 146
+    "total_changes": 149
   },
   "generated_by_phase": 8,
   "generator": "change_detector",

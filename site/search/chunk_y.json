@@ -228,6 +228,13 @@
       "score": 1.0
     }
   ],
+  "yamhm": [
+    {
+      "entity_id": "dataset_yamhm_webds",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "yaml": [
     {
       "entity_id": "alpaca_6724911570405668010",
@@ -7392,6 +7399,11 @@
       "entity_id": "hf_ds_Abtinzandi_Obstacle-Detection-Dataset-YOLO",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_imageomics_mmla_mpala",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "dataset_ahnuf_military_aircraft_detection_classification_image_dataset",
@@ -17187,6 +17199,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_genai4elab_papercli_papers_neurips",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_gksriharsha_chitralekha",
       "match_type": "exact",
       "score": 1.0
@@ -26642,6 +26659,11 @@
   "yuntian": [
     {
       "entity_id": "dataset_allenai_wildchat_1m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_wildchat_4_8m",
       "match_type": "exact",
       "score": 1.0
     }

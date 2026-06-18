@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 145077
+**Total Entities Tracked**: 145095
 
 ## Category Distribution
 
@@ -14,8 +14,8 @@
 - **tools**: 2100
 - **mcps**: 1100
 - **dataset**: 1082
-- **datasets**: 1065
-- **models**: 1038
+- **datasets**: 1069
+- **models**: 1052
 - **text-generation**: 996
 - **benchmarks**: 700
 - **cs.CV**: 71
@@ -45,7 +45,7 @@
 
 ## Source Distribution
 
-- ****: 89681
+- ****: 89699
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2000
 - **OpenAI Blog**: 1006
@@ -60,9 +60,9 @@
 - **text-generation**: 47
 - **safetensors**: 42
 - **endpoints_compatible**: 41
-- **library:datasets**: 41
-- **library:mlcroissant**: 41
 - **transformers**: 41
+- **library:datasets**: 40
+- **library:mlcroissant**: 40
 - **license:apache-2.0**: 36
 - **modality:text**: 34
 - **conversational**: 33
@@ -76,9 +76,9 @@
 - **en**: 16
 - **library:pandas**: 16
 - **library:dask**: 14
-- **size_categories:n<1K**: 13
 - **task_categories:text-generation**: 13
-- **modality:image**: 12
+- **size_categories:n<1K**: 12
+- **modality:image**: 11
 - **multilinguality:monolingual**: 10
 - **qwen3**: 10
 - **license:other**: 9
@@ -99,10 +99,10 @@
 - **task_ids:language-modeling**: 6
 - **8-bit**: 5
 - **annotations_creators:no-annotation**: 5
-- **format:imagefolder**: 5
 - **language:ar**: 5
 - **language:ja**: 5
 - **language:vi**: 5
 - **language:zh**: 5
 - **size_categories:100M<n<1B**: 5
 - **size_categories:1K<n<10K**: 5
+- **task_categories:fill-mask**: 5

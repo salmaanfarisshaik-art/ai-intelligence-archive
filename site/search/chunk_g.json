@@ -1629,6 +1629,11 @@
   ],
   "galactic": [
     {
+      "entity_id": "dataset_phanerozoic_hi_21cm_survey",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_samfatnassi_gaia_dr3",
       "match_type": "exact",
       "score": 2.0
@@ -9509,6 +9514,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_anoynsharechat_sharechat",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_hardiksharma6555_forgespectrum_114k",
       "match_type": "exact",
       "score": 1.0
@@ -10537,6 +10547,13 @@
       "entity_id": "rss_https://openai.com/index/bringing-chatgpt-to-genaimil",
       "match_type": "exact",
       "score": 3.0
+    }
+  ],
+  "genai4elab": [
+    {
+      "entity_id": "dataset_genai4elab_papercli_papers_neurips",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "genarenadata": [
@@ -23637,6 +23654,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nju_link_webcompass",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_open_thoughts_openthoughts3_1_2m",
       "match_type": "exact",
       "score": 1.0
@@ -24870,6 +24892,11 @@
       "entity_id": "model_vamsi_t5_paraphrase_paws",
       "match_type": "exact",
       "score": 7.5
+    },
+    {
+      "entity_id": "dataset_nju_link_webcompass",
+      "match_type": "exact",
+      "score": 6.5
     },
     {
       "entity_id": "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf",
@@ -27487,12 +27514,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_allenai_wildchat_4_8m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_anisoleai_fineweb_tokenized",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "dataset_anonymouscientist_siliciclasticreservoirs",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_anoynsharechat_sharechat",
       "match_type": "exact",
       "score": 1.5
     },
@@ -27843,6 +27880,11 @@
     },
     {
       "entity_id": "dataset_permutans_arxiv_papers_by_subject",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_prophesier_nqp_bench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -47310,6 +47352,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_imageomics_mmla_mpala",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "alpaca_-3465048126619144548",
       "match_type": "exact",
       "score": 1.0
@@ -47418,6 +47465,11 @@
     },
     {
       "entity_id": "alpaca_5241851577173194886",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_imageomics_mmla_mpala",
       "match_type": "exact",
       "score": 1.0
     }
@@ -48081,6 +48133,11 @@
     },
     {
       "entity_id": "dataset_nebius_swe_rebench_v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_nju_link_webcompass",
       "match_type": "exact",
       "score": 2.0
     },
@@ -66940,6 +66997,11 @@
     },
     {
       "entity_id": "dataset_insta360_research_omnirooms",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_prophesier_nqp_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -100843,6 +100905,13 @@
       "score": 5.0
     }
   ],
+  "grevy": [
+    {
+      "entity_id": "dataset_imageomics_mmla_mpala",
+      "match_type": "exact",
+      "score": 2.5
+    }
+  ],
   "grew": [
     {
       "entity_id": "alpaca_-7519663797584349785",
@@ -102255,6 +102324,11 @@
       "entity_id": "model_hpcai_tech_grok_1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_anoynsharechat_sharechat",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "grokipedia": [
@@ -108038,6 +108112,11 @@
     }
   ],
   "gu": [
+    {
+      "entity_id": "dataset_ai4bharat_indicvoices_r",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "dataset_allenai_c4",
       "match_type": "exact",
