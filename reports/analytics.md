@@ -56,25 +56,25 @@
 
 ## Top Tags
 
-- **region:us**: 127
-- **text-generation**: 46
+- **region:us**: 128
+- **text-generation**: 47
+- **safetensors**: 42
+- **endpoints_compatible**: 41
 - **library:datasets**: 41
 - **library:mlcroissant**: 41
-- **safetensors**: 41
-- **endpoints_compatible**: 40
-- **transformers**: 40
-- **license:apache-2.0**: 35
+- **transformers**: 41
+- **license:apache-2.0**: 36
 - **modality:text**: 34
-- **conversational**: 32
+- **conversational**: 33
 - **language:en**: 32
 - **library:polars**: 30
 - **license:mit**: 29
 - **format:parquet**: 27
-- **text-generation-inference**: 25
+- **text-generation-inference**: 26
 - **deploy:azure**: 22
 - **eval-results**: 17
+- **en**: 16
 - **library:pandas**: 16
-- **en**: 15
 - **library:dask**: 14
 - **size_categories:n<1K**: 13
 - **task_categories:text-generation**: 13
@@ -93,6 +93,7 @@
 - **custom_code**: 6
 - **language_creators:found**: 6
 - **license:odc-by**: 6
+- **llama**: 6
 - **size_categories:100K<n<1M**: 6
 - **size_categories:1M<n<10M**: 6
 - **task_ids:language-modeling**: 6
@@ -103,6 +104,5 @@
 - **language:ja**: 5
 - **language:vi**: 5
 - **language:zh**: 5
-- **llama**: 5
 - **size_categories:100M<n<1B**: 5
 - **size_categories:1K<n<10K**: 5

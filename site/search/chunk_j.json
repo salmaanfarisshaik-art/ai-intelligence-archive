@@ -211,6 +211,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm2_5_1_2b_thinking",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm2_5_350m",
       "match_type": "exact",
       "score": 1.5
@@ -351,6 +356,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_base_bf16",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_bf16",
       "match_type": "exact",
       "score": 1.5
@@ -382,6 +392,11 @@
     },
     {
       "entity_id": "model_nvidia_nvidia_nemotron_nano_9b_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
       "match_type": "exact",
       "score": 1.5
     },
@@ -13894,6 +13909,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_unsloth_qwen2_5_14b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_qwen2_5_14b_instruct_bnb_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -14358,6 +14378,11 @@
     },
     {
       "entity_id": "dataset_locuslab_tofu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_m_a_p_coig_cqia",
       "match_type": "exact",
       "score": 1.5
     },
@@ -16805,6 +16830,13 @@
       "entity_id": "alpaca_860422628254555951",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "junhowie": [
+    {
+      "entity_id": "model_junhowie_qwen3_14b_gptq_int4",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "junior": [

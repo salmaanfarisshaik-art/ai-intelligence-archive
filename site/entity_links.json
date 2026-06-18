@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:58:49Z",
+  "generated_at": "2026-06-18T10:14:25Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -15,6 +15,11 @@
       "source_id": "hf_EleutherAI_pythia-70m-deduped",
       "target_id": "hf_EleutherAI_the_pile_deduplicated",
       "type": "trained_on"
+    },
+    {
+      "source_id": "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
+      "target_id": "hf_HuggingFaceTB_SmolLM2-135M",
+      "type": "derived_from"
     },
     {
       "source_id": "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -372,6 +377,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_augmxnt_shisa_gamma_7b_v1",
       "target_id": "hf_augmxnt_ultra-orca-boros-en-ja-v1",
       "type": "trained_on"
@@ -379,6 +389,11 @@
     {
       "source_id": "model_augmxnt_shisa_gamma_7b_v1",
       "target_id": "hf_stabilityai_japanese-stablelm-base-gamma-7b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_deepseek_r1_distill_llama_70b_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Llama-70B",
       "type": "derived_from"
     },
     {
@@ -562,6 +577,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k",
+      "target_id": "hf_Qwen_Qwen2.5-3B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k",
+      "target_id": "hf_openai_gsm8k",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
@@ -612,6 +637,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_cyankiwi_ernie_4_5_21b_a3b_thinking_awq_4bit",
+      "target_id": "hf_baidu_ERNIE-4.5-21B-A3B-Thinking",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_cyankiwi_glm_4_5_air_awq_4bit",
       "target_id": "hf_zai-org_GLM-4.5-Air",
       "type": "derived_from"
@@ -634,6 +664,11 @@
     {
       "source_id": "model_cyankiwi_minimax_m2_7_awq_4bit",
       "target_id": "hf_MiniMaxAI_MiniMax-M2.7",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_cyankiwi_nex_n2_mini_awq_int4",
+      "target_id": "hf_nex-agi_Nex-N2-mini",
       "type": "derived_from"
     },
     {
@@ -1372,6 +1407,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_junhowie_qwen3_14b_gptq_int4",
+      "target_id": "hf_Qwen_Qwen3-14B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_kblueleaf_tipo_500m_ft",
       "target_id": "hf_CaptionEmporium_coyo-hd-11m-llavanext",
       "type": "trained_on"
@@ -1474,6 +1514,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_1_2b_instruct_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-1.2B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm2_5_1_2b_thinking",
+      "target_id": "hf_LiquidAI_LFM2.5-1.2B-Base",
       "type": "derived_from"
     },
     {
@@ -3362,6 +3407,31 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "target_id": "hf_nvidia_Nemotron-CC-Math-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "target_id": "hf_nvidia_Nemotron-CC-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Code-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Dataset-sample",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-SFT-v1",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-Nano-9B-v2",
       "type": "derived_from"
@@ -3507,6 +3577,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ocicek_qwen3_6_27b_nvfp4",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_openai_gpt_oss_safeguard_20b",
       "target_id": "hf_openai_gpt-oss-20b",
       "type": "derived_from"
@@ -3602,9 +3677,19 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4",
+      "target_id": "hf_Qwen_Qwen3.5-122B-A10B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_parasail_ai_gritlm_7b_vllm",
       "target_id": "hf_GritLM_tulu2",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_pbatra_deepseek_r1_distill_qwen_14b_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-14B",
+      "type": "derived_from"
     },
     {
       "source_id": "model_pearl_ai_llama_3_1_8b_instruct_pearl",
@@ -4914,6 +4999,11 @@
     {
       "source_id": "model_unsloth_qwen2_5_0_5b_unsloth_bnb_4bit",
       "target_id": "hf_Qwen_Qwen2.5-0.5B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_qwen2_5_14b_instruct",
+      "target_id": "hf_Qwen_Qwen2.5-14B-Instruct",
       "type": "derived_from"
     },
     {

@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 152
+**Total Changes:** 146
 
 ## Added
 - docs/cs.GT.md
@@ -35,24 +35,20 @@
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.18.20260618_025803.zip
-- releases/v2026.06.18.20260618_025803/
+- releases/v2026.06.18.20260618_101340.zip
+- releases/v2026.06.18.20260618_101340/
 
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/processed/benchmarks/data.json
+- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
-- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.CL.md
@@ -152,9 +148,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/archive_stats.json
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 
