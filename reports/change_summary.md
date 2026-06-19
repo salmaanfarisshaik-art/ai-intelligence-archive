@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 163
+**Total Changes:** 166
 
 ## Added
 - docs/cs.DB.md
@@ -47,8 +47,8 @@
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.19.20260619_145213.zip
-- releases/v2026.06.19.20260619_145213/
+- releases/v2026.06.19.20260619_194204.zip
+- releases/v2026.06.19.20260619_194204/
 
 ## Modified
 - data/metadata/analytics.json
@@ -80,6 +80,7 @@
 - docs/news.md
 - docs/stat.ME.md
 - docs/text-generation.md
+- docs/tool.md
 - exports/csv/all_entities.csv
 - exports/csv/api_providers.csv
 - exports/csv/benchmarks.csv
@@ -129,6 +130,7 @@
 - exports/json/news.json
 - exports/json/stat.ME.json
 - exports/json/text-generation.json
+- exports/json/tool.json
 - exports/markdown/cs.AI.md
 - exports/markdown/cs.CL.md
 - exports/markdown/cs.CR.md
@@ -146,6 +148,7 @@
 - exports/markdown/news.md
 - exports/markdown/stat.ME.md
 - exports/markdown/text-generation.md
+- exports/markdown/tool.md
 - frontend/public/data/archive_stats.json
 - frontend/public/data/benchmarks/data.json
 - frontend/public/data/datasets/data.json
