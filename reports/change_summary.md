@@ -1,42 +1,54 @@
 # Change Summary
 
-**Total Changes:** 149
+**Total Changes:** 166
 
 ## Added
+- docs/cs.DB.md
 - docs/cs.GT.md
 - docs/cs.HC.md
 - docs/cs.LO.md
 - docs/cs.OS.md
+- docs/eess.AS.md
 - docs/q-bio.QM.md
+- docs/q-fin.RM.md
 - docs/q-fin.TR.md
 - docs/quant-ph.md
 - docs/stat.ML.md
+- exports/csv/cs.DB.csv
 - exports/csv/cs.GT.csv
 - exports/csv/cs.HC.csv
 - exports/csv/cs.LO.csv
 - exports/csv/cs.OS.csv
+- exports/csv/eess.AS.csv
 - exports/csv/q-bio.QM.csv
+- exports/csv/q-fin.RM.csv
 - exports/csv/q-fin.TR.csv
 - exports/csv/quant-ph.csv
 - exports/csv/stat.ML.csv
+- exports/json/cs.DB.json
 - exports/json/cs.GT.json
 - exports/json/cs.HC.json
 - exports/json/cs.LO.json
 - exports/json/cs.OS.json
+- exports/json/eess.AS.json
 - exports/json/q-bio.QM.json
+- exports/json/q-fin.RM.json
 - exports/json/q-fin.TR.json
 - exports/json/quant-ph.json
 - exports/json/stat.ML.json
+- exports/markdown/cs.DB.md
 - exports/markdown/cs.GT.md
 - exports/markdown/cs.HC.md
 - exports/markdown/cs.LO.md
 - exports/markdown/cs.OS.md
+- exports/markdown/eess.AS.md
 - exports/markdown/q-bio.QM.md
+- exports/markdown/q-fin.RM.md
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.18.20260618_201725.zip
-- releases/v2026.06.18.20260618_201725/
+- releases/v2026.06.19.20260619_034423.zip
+- releases/v2026.06.19.20260619_034423/
 
 ## Modified
 - data/metadata/analytics.json
@@ -46,11 +58,12 @@
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
-- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.CL.md
@@ -67,6 +80,7 @@
 - docs/datasets.md
 - docs/models.md
 - docs/news.md
+- docs/stat.ME.md
 - docs/text-generation.md
 - exports/csv/all_entities.csv
 - exports/csv/api_providers.csv
@@ -115,6 +129,7 @@
 - exports/json/datasets.json
 - exports/json/models.json
 - exports/json/news.json
+- exports/json/stat.ME.json
 - exports/json/text-generation.json
 - exports/markdown/cs.AI.md
 - exports/markdown/cs.CL.md
@@ -131,6 +146,7 @@
 - exports/markdown/datasets.md
 - exports/markdown/models.md
 - exports/markdown/news.md
+- exports/markdown/stat.ME.md
 - exports/markdown/text-generation.md
 - frontend/public/data/archive_stats.json
 - frontend/public/data/benchmarks/data.json
@@ -150,6 +166,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/archive_stats.json
 - site/index.json
 - site/search_index.json
