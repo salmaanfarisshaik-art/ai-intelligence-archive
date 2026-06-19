@@ -1248,6 +1248,11 @@
   ],
   "00071": [
     {
+      "entity_id": "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_cyankiwi_qwen3_next_80b_a3b_instruct_awq_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -2511,6 +2516,13 @@
       "entity_id": "dataset_allenai_wildchat_4_8m",
       "match_type": "exact",
       "score": 2.5
+    }
+  ],
+  "01535": [
+    {
+      "entity_id": "model_prometheus_eval_prometheus_7b_v2_0",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "01547": [
@@ -4404,6 +4416,13 @@
   "03992": [
     {
       "entity_id": "dataset_lmqg_qa_squadshifts_synthetic",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "03993": [
+    {
+      "entity_id": "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq",
       "match_type": "exact",
       "score": 1.5
     }
@@ -7416,6 +7435,13 @@
       "score": 1.5
     }
   ],
+  "08491": [
+    {
+      "entity_id": "model_prometheus_eval_prometheus_7b_v2_0",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "08523": [
     {
       "entity_id": "dataset_zhangarthurhao_clawbenchv1trace",
@@ -7930,6 +7956,11 @@
     },
     {
       "entity_id": "model_quanttrio_qwen3_vl_30b_a3b_instruct_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_quanttrio_qwen3_vl_30b_a3b_thinking_awq",
       "match_type": "exact",
       "score": 1.5
     },

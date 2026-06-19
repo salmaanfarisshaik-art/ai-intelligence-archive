@@ -12737,6 +12737,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_corbyrosset_researchy_questions",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ddanielle_dogspeak_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -15703,6 +15708,11 @@
     },
     {
       "entity_id": "model_kyujinpy_ko_platyi_6b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_s4nfs_neeto_1_0_8b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -22614,6 +22624,11 @@
       "entity_id": "alpaca_933449331774655282",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_corbyrosset_researchy_questions",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "needs": [
@@ -24147,6 +24162,13 @@
       "entity_id": "dataset_openlifescienceai_medmcqa",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "neeto": [
+    {
+      "entity_id": "model_s4nfs_neeto_1_0_8b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "nefarious": [
@@ -47785,6 +47807,11 @@
       "score": 6.5
     },
     {
+      "entity_id": "model_cyankiwi_qwen3_coder_next_awq_8bit",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_cyankiwi_qwen3_next_80b_a3b_instruct_awq_4bit",
       "match_type": "exact",
       "score": 6.5
@@ -59141,6 +59168,11 @@
     },
     {
       "entity_id": "dataset_cmrxrecon_mmcmr_427k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_corbyrosset_researchy_questions",
       "match_type": "exact",
       "score": 1.0
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T03:45:09Z",
+  "generated_at": "2026-06-19T10:19:36Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -612,6 +612,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic",
+      "target_id": "hf_Qwen_Qwen2.5-32B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_canopylabs_3b_de_ft_research_release",
       "target_id": "hf_canopylabs_orpheus-3b-0.1-pretrained",
       "type": "derived_from"
@@ -688,6 +693,11 @@
     },
     {
       "source_id": "model_cyankiwi_qwen3_coder_next_awq_4bit",
+      "target_id": "hf_Qwen_Qwen3-Coder-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_cyankiwi_qwen3_coder_next_awq_8bit",
       "target_id": "hf_Qwen_Qwen3-Coder-Next",
       "type": "derived_from"
     },
@@ -909,6 +919,11 @@
     {
       "source_id": "model_duoneural_gemma4_12b_it_abliterated_gguf",
       "target_id": "hf_DuoNeural_Gemma4-12B-IT-Abliterated",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq",
+      "target_id": "hf_google_gemma-4-31B-it",
       "type": "derived_from"
     },
     {
@@ -2079,6 +2094,11 @@
     {
       "source_id": "model_lmstudio_community_qwen3_4b_thinking_2507_mlx_8bit",
       "target_id": "hf_Qwen_Qwen3-4B-Thinking-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen3_8b_mlx_4bit",
+      "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
     },
     {
@@ -3752,6 +3772,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_prometheus_eval_prometheus_7b_v2_0",
+      "target_id": "hf_prometheus-eval_Feedback-Collection",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_prometheus_eval_prometheus_7b_v2_0",
+      "target_id": "hf_prometheus-eval_Preference-Collection",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_quanttrio_deepseek_v3_2_awq",
       "target_id": "hf_deepseek-ai_DeepSeek-V3.2",
       "type": "derived_from"
@@ -3764,6 +3794,11 @@
     {
       "source_id": "model_quanttrio_qwen3_vl_30b_a3b_instruct_awq",
       "target_id": "hf_Qwen_Qwen3-VL-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_quanttrio_qwen3_vl_30b_a3b_thinking_awq",
+      "target_id": "hf_Qwen_Qwen3-VL-30B-A3B-Thinking",
       "type": "derived_from"
     },
     {
@@ -4392,6 +4427,26 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_s4nfs_neeto_1_0_8b",
+      "target_id": "hf_GBaker_MedQA-USMLE-4-options-hf",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_s4nfs_neeto_1_0_8b",
+      "target_id": "hf_S4nfs_Medicoplasma",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_s4nfs_neeto_1_0_8b",
+      "target_id": "hf_S4nfs_byolbane",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_s4nfs_neeto_1_0_8b",
+      "target_id": "hf_openlifescienceai_medmcqa",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
@@ -4699,6 +4754,16 @@
     {
       "source_id": "model_trevorjs_gemma_4_26b_a4b_it_uncensored",
       "target_id": "hf_google_gemma-4-26B-A4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_trevorjs_gemma_4_e2b_it_uncensored_gguf",
+      "target_id": "hf_TrevorJS_gemma-4-E2B-it-uncensored",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf",
+      "target_id": "hf_tvall43_Qwen3.6-14B-A3B-VibeForged-v2",
       "type": "derived_from"
     },
     {
