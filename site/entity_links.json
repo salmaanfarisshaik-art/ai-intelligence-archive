@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T19:42:51Z",
+  "generated_at": "2026-06-20T02:49:11Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -5314,6 +5314,11 @@
     {
       "source_id": "model_yuxinlu1_gemma_4_12b_it_claude_4_6_4_8_opus_gguf",
       "target_id": "hf_google_gemma-4-12B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_z_lab_qwen3_6_35b_a3b_dflash",
+      "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
       "type": "derived_from"
     },
     {
