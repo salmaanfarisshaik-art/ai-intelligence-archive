@@ -323,6 +323,13 @@
       "score": 2.0
     }
   ],
+  "xdof": [
+    {
+      "entity_id": "dataset_xdof_abc_130k",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "xdr": [
     {
       "entity_id": "alpaca_-4560307694203658532",
@@ -547,6 +554,11 @@
       "entity_id": "alpaca_-6692095866549246409",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_beingbeyond_pnd_adam_u_pick_simple",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xiang": [
@@ -571,6 +583,20 @@
   "xiao": [
     {
       "entity_id": "dataset_torchgeo_cropclimatex",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "xiaofeng": [
+    {
+      "entity_id": "dataset_modelsweights_ad_fg_diff",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "xiaoluo11": [
+    {
+      "entity_id": "dataset_xiaoluo11_chartbench_e_fullpool",
       "match_type": "exact",
       "score": 1.0
     }
@@ -1219,6 +1245,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_beingbeyond_pnd_adam_u_pick_simple",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_chenhn02_metafold",
       "match_type": "exact",
       "score": 2.0
@@ -1323,6 +1354,13 @@
     },
     {
       "entity_id": "dataset_facebear_xvla_soft_fold",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "xwm": [
+    {
+      "entity_id": "dataset_xwm_wildgui",
       "match_type": "exact",
       "score": 1.0
     }
