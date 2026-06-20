@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T02:49:12Z",
+  "generated_at": "2026-06-20T08:47:56Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -460,6 +460,7 @@
       "hf_Qwen_Qwen2.5-7B",
       "model_bartowski_qwen2_5_7b_instruct_gguf",
       "model_maziyarpanahi_qwen2_5_7b_instruct_gguf",
+      "model_open_thoughts_openthinker3_7b",
       "model_qwen_qwen2_5_7b_instruct_awq",
       "model_qwen_qwen2_5_7b_instruct_gguf",
       "model_qwen_qwen2_5_7b_instruct_gptq_int4",
@@ -1456,6 +1457,7 @@
       "model_bartowski_llama_3_2_3b_instruct_gguf",
       "model_baseten_llama_3_2_3b_instruct_pythonic",
       "model_hugging_quants_llama_3_2_3b_instruct_q4_k_m_gguf",
+      "model_lmstudio_community_llama_3_2_3b_instruct_gguf",
       "model_maziyarpanahi_llama_3_2_3b_instruct_gguf",
       "model_unsloth_llama_3_2_3b_instruct",
       "model_unsloth_llama_3_2_3b_instruct_bnb_4bit",
@@ -1903,6 +1905,9 @@
       "model_nvidia_nvidia_nemotron_3_super_120b_a12b_nvfp4",
       "model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_bf16",
       "model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_nvfp4"
+    ],
+    "hf_open-thoughts_OpenThoughts3-1.2M": [
+      "model_open_thoughts_openthinker3_7b"
     ],
     "hf_openai_gpt-oss-120b": [
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
@@ -2839,6 +2844,9 @@
     "model_lmstudio_community_lfm2_5_1_2b_instruct_mlx_8bit": [
       "hf_LiquidAI_LFM2.5-1.2B-Instruct"
     ],
+    "model_lmstudio_community_llama_3_2_3b_instruct_gguf": [
+      "hf_meta-llama_Llama-3.2-3B-Instruct"
+    ],
     "model_lmstudio_community_meta_llama_3_1_8b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
@@ -3551,6 +3559,10 @@
     ],
     "model_ocicek_qwen3_6_27b_nvfp4": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_open_thoughts_openthinker3_7b": [
+      "hf_Qwen_Qwen2.5-7B-Instruct",
+      "hf_open-thoughts_OpenThoughts3-1.2M"
     ],
     "model_openai_gpt_oss_safeguard_20b": [
       "hf_openai_gpt-oss-20b"

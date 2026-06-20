@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T02:49:11Z",
+  "generated_at": "2026-06-20T08:47:56Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1664,6 +1664,11 @@
     {
       "source_id": "model_lmstudio_community_lfm2_5_1_2b_instruct_mlx_8bit",
       "target_id": "hf_LiquidAI_LFM2.5-1.2B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_llama_3_2_3b_instruct_gguf",
+      "target_id": "hf_meta-llama_Llama-3.2-3B-Instruct",
       "type": "derived_from"
     },
     {
@@ -3600,6 +3605,16 @@
       "source_id": "model_ocicek_qwen3_6_27b_nvfp4",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_open_thoughts_openthinker3_7b",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_open_thoughts_openthinker3_7b",
+      "target_id": "hf_open-thoughts_OpenThoughts3-1.2M",
+      "type": "trained_on"
     },
     {
       "source_id": "model_openai_gpt_oss_safeguard_20b",

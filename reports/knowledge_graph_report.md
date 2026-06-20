@@ -1,10 +1,10 @@
 # Knowledge Graph Report
         
-Generated at: 2026-06-20T02:49:18Z
+Generated at: 2026-06-20T08:48:02Z
 
 ## Graph Statistics
-- Total Nodes: 145198
-- Total Edges: 439
+- Total Nodes: 145201
+- Total Edges: 441
 
 ## Node Types
 - ai_skills_library: 31000
@@ -13,7 +13,7 @@ Generated at: 2026-06-20T02:49:18Z
 - datasets: 2189
 - ide_rules: 10200
 - mcps: 1100
-- models: 2063
+- models: 2066
 - news: 41000
 - prompts: 49197
 - tools: 4249

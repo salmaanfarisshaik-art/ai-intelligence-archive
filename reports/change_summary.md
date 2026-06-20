@@ -47,8 +47,8 @@
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.20.20260620_024826.zip
-- releases/v2026.06.20.20260620_024826/
+- releases/v2026.06.20.20260620_084716.zip
+- releases/v2026.06.20.20260620_084716/
 
 ## Modified
 - data/metadata/api_manifest.json
