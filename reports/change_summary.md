@@ -48,8 +48,8 @@
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
 - public/
-- releases/v2026.06.21.20260621_182002.zip
-- releases/v2026.06.21.20260621_182002/
+- releases/v2026.06.21.20260621_202511.zip
+- releases/v2026.06.21.20260621_202511/
 - site/
 
 ## Modified
