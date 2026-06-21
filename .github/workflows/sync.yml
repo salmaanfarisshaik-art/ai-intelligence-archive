@@ -55,7 +55,7 @@ jobs:
         run: |
           git config user.name "salmaanfarisshaik-art"
           git config user.email "salmaanfaris.shaik@gmail.com"
-          git add data/ site/ reports/
+          git add data/ reports/
           if ! git diff --cached --quiet; then
             git commit -m "chore: automated archive sync [skip ci]"
             git push

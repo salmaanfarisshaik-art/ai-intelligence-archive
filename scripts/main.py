@@ -55,7 +55,6 @@ from scripts.lib.leaderboard_generator import LeaderboardGenerator
 from scripts.lib.timeline_generator import TimelineGenerator
 from scripts.lib.trend_analyzer import TrendAnalyzer
 from scripts.lib.advanced_graph import AdvancedGraph
-from scripts.generate_site import generate_site
 
 from scripts.lib.repository_auditor import RepositoryAuditor
 from scripts.lib.coverage_analyzer import CoverageAnalyzer
@@ -414,14 +413,6 @@ def main():
             except Exception:
                 logger.error("AdvancedGraph failed", exc_info=True)
                 modules_failed.append("advanced_graph")
-
-        if config.is_feature_enabled("enable_site_generation") and not config.is_feature_enabled("enable_pipeline_decision_engine"):
-            try:
-                generate_site()
-                modules_run.append("site_generation")
-            except Exception:
-                logger.error("generate_site failed", exc_info=True)
-                modules_failed.append("site_generation")
 
         # 3. Phase 7: Governance & Self-Maintenance Layer
         if config.is_feature_enabled("enable_repository_auditor"):
