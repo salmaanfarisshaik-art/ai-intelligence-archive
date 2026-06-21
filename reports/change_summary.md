@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 166
+**Total Changes:** 158
 
 ## Added
 - docs/cs.DB.md
@@ -47,8 +47,10 @@
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
-- releases/v2026.06.21.20260621_135638.zip
-- releases/v2026.06.21.20260621_135638/
+- public/
+- releases/v2026.06.21.20260621_164518.zip
+- releases/v2026.06.21.20260621_164518/
+- site/
 
 ## Modified
 - data/metadata/analytics.json
@@ -58,6 +60,7 @@
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
@@ -149,28 +152,17 @@
 - exports/markdown/stat.ME.md
 - exports/markdown/text-generation.md
 - exports/markdown/tool.md
-- frontend/public/data/archive_stats.json
-- frontend/public/data/benchmarks/data.json
-- frontend/public/data/datasets/data.json
-- frontend/public/data/models/data.json
-- frontend/public/data/search_index.json
-- frontend/public/data/tools/data.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
-- reports/change_summary.json
-- reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- site/archive_stats.json
-- site/index.json
-- site/search_index.json
-- site/timeline.json
+- reports/repository_metrics.md
 
 ## Removed
 None
