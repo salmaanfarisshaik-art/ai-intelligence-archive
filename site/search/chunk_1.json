@@ -4318,6 +4318,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_hoshipu_real_robot_data",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_tahoebio_tahoe_100m",
       "match_type": "exact",
       "score": 2.0
@@ -4724,11 +4729,6 @@
     },
     {
       "entity_id": "dataset_facebook_wiki_dpr",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_hoshipu_real_robot_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -32875,6 +32875,16 @@
     }
   ],
   "121a": [
+    {
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4",
       "match_type": "exact",
