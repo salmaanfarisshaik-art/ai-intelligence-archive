@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 145224
+**Total Entities Tracked**: 145227
 
 ## Category Distribution
 
@@ -14,7 +14,7 @@
 - **tools**: 2100
 - **datasets**: 1128
 - **mcps**: 1100
-- **dataset**: 1083
+- **dataset**: 1086
 - **models**: 1067
 - **text-generation**: 996
 - **benchmarks**: 700
@@ -53,23 +53,23 @@
 - **Hugging Face**: 2000
 - **OpenAI Blog**: 1009
 - **ArXiv**: 300
-- **HuggingFace Datasets**: 83
+- **HuggingFace Datasets**: 86
 - **GitHub Trending**: 49
 - **BAIR Blog**: 10
 
 ## Top Tags
 
-- **region:us**: 129
+- **region:us**: 132
 - **text-generation**: 47
 - **safetensors**: 42
 - **endpoints_compatible**: 41
 - **transformers**: 41
 - **library:datasets**: 40
 - **library:mlcroissant**: 40
-- **license:apache-2.0**: 36
+- **license:apache-2.0**: 37
+- **language:en**: 34
 - **modality:text**: 34
 - **conversational**: 33
-- **language:en**: 32
 - **library:polars**: 30
 - **license:mit**: 30
 - **format:parquet**: 27
@@ -79,7 +79,7 @@
 - **en**: 16
 - **library:pandas**: 16
 - **library:dask**: 14
-- **task_categories:text-generation**: 13
+- **task_categories:text-generation**: 14
 - **size_categories:n<1K**: 12
 - **modality:image**: 11
 - **multilinguality:monolingual**: 10
@@ -89,13 +89,14 @@
 - **source_datasets:original**: 9
 - **arxiv:2505.09388**: 8
 - **fp8**: 8
+- **modality:video**: 8
 - **size_categories:10K<n<100K**: 8
-- **modality:video**: 7
+- **license:odc-by**: 7
 - **pytorch**: 7
 - **arxiv:2309.00071**: 6
 - **custom_code**: 6
+- **language:zh**: 6
 - **language_creators:found**: 6
-- **license:odc-by**: 6
 - **llama**: 6
 - **size_categories:100K<n<1M**: 6
 - **size_categories:1M<n<10M**: 6
@@ -105,7 +106,6 @@
 - **language:ar**: 5
 - **language:ja**: 5
 - **language:vi**: 5
-- **language:zh**: 5
 - **size_categories:100M<n<1B**: 5
 - **size_categories:1K<n<10K**: 5
-- **task_categories:fill-mask**: 5
+- **size_categories:n>1T**: 5

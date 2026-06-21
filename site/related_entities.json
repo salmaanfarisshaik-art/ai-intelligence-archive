@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:31:58Z",
+  "generated_at": "2026-06-21T09:43:30Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -714,7 +714,8 @@
     ],
     "hf_Qwen_Qwen3-Embedding-4B": [
       "hf_Qwen_Qwen3-4B-Base",
-      "model_boboliu_qwen3_embedding_4b_w4a16_g128"
+      "model_boboliu_qwen3_embedding_4b_w4a16_g128",
+      "model_drawais_qwen3_embedding_4b_awq_int4"
     ],
     "hf_Qwen_Qwen3-Embedding-8B": [
       "model_drawais_qwen3_embedding_8b_awq_int4"
@@ -762,6 +763,7 @@
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
       "model_batiai_qwen3_6_27b_gguf",
       "model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp",
+      "model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf",
       "model_drawais_qwen3_6_27b_awq_int4",
       "model_obliteratus_qwen3_6_27b_obliterated",
       "model_ocicek_qwen3_6_27b_nvfp4",
@@ -2093,6 +2095,9 @@
       "model_nvidia_glm_5_1_nvfp4",
       "model_unsloth_glm_5_1_gguf"
     ],
+    "hf_zai-org_GLM-5.2": [
+      "model_unsloth_glm_5_2_gguf"
+    ],
     "hf_zerofata_Instruct-Anime": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
@@ -2341,6 +2346,9 @@
       "hf_ChatTSRepo_ChatTS-Training-Dataset",
       "hf_Qwen_Qwen2.5-14B-Instruct"
     ],
+    "model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf": [
+      "hf_Qwen_Qwen3.6-27B"
+    ],
     "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic": [
       "hf_Qwen_Qwen2.5-32B"
     ],
@@ -2464,6 +2472,9 @@
     ],
     "model_drawais_qwen3_6_27b_awq_int4": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_drawais_qwen3_embedding_4b_awq_int4": [
+      "hf_Qwen_Qwen3-Embedding-4B"
     ],
     "model_drawais_qwen3_embedding_8b_awq_int4": [
       "hf_Qwen_Qwen3-Embedding-8B"
@@ -4207,6 +4218,9 @@
     ],
     "model_unsloth_glm_5_1_gguf": [
       "hf_zai-org_GLM-5.1"
+    ],
+    "model_unsloth_glm_5_2_gguf": [
+      "hf_zai-org_GLM-5.2"
     ],
     "model_unsloth_gpt_oss_120b": [
       "hf_openai_gpt-oss-120b"

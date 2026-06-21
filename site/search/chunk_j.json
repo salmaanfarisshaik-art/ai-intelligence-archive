@@ -251,6 +251,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_llm_jp_llm_jp_4_32b_a3b_thinking",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_llm_jp_llm_jp_4_8b_thinking",
       "match_type": "exact",
       "score": 1.5
@@ -4038,6 +4043,13 @@
       "score": 1.0
     }
   ],
+  "jedisct1": [
+    {
+      "entity_id": "dataset_jedisct1_security_audits",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jeep": [
     {
       "entity_id": "alpaca_7612963469797590996",
@@ -6928,6 +6940,11 @@
     },
     {
       "entity_id": "alpaca_6228549580507578298",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "hf_ds_67cac93b5877d9c876a84572",
       "match_type": "exact",
       "score": 3.0
     },
@@ -13687,6 +13704,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "model_llm_jp_llm_jp_4_32b_a3b_thinking",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "model_llm_jp_llm_jp_4_8b_thinking",
       "match_type": "exact",
       "score": 4.0
@@ -14394,6 +14416,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_jedisct1_security_audits",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_josephuscheung_guanacodataset",
       "match_type": "exact",
       "score": 1.5
@@ -14854,6 +14881,11 @@
       "entity_id": "hf_ds_albertvillanova_tests-raw-jsonl",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_jedisct1_security_audits",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "dataset_shaunmarvell_qvhighlights_1fps",

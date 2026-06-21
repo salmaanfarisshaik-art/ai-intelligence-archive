@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-21T03:31:11.473960+00:00
-**Warnings:** 383
+**Generated:** 2026-06-21T09:42:47.262210+00:00
+**Warnings:** 385
 **Errors:** 0
 
 ## Issues
@@ -345,6 +345,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Benjy
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/IPEC-COMMUNITY
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nvidia
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tasl-lab
@@ -358,6 +359,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/permutans
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ad1t7a
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/utter-project
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/siril-spcc

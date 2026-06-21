@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:31:58Z",
+  "generated_at": "2026-06-21T09:43:30Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -617,6 +617,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic",
       "target_id": "hf_Qwen_Qwen2.5-32B",
       "type": "derived_from"
@@ -914,6 +919,11 @@
     {
       "source_id": "model_drawais_qwen3_6_27b_awq_int4",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_drawais_qwen3_embedding_4b_awq_int4",
+      "target_id": "hf_Qwen_Qwen3-Embedding-4B",
       "type": "derived_from"
     },
     {
@@ -4859,6 +4869,11 @@
     {
       "source_id": "model_unsloth_glm_5_1_gguf",
       "target_id": "hf_zai-org_GLM-5.1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_glm_5_2_gguf",
+      "target_id": "hf_zai-org_GLM-5.2",
       "type": "derived_from"
     },
     {
