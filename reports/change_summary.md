@@ -48,8 +48,8 @@
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
 - public/
-- releases/v2026.06.22.20260622_125011.zip
-- releases/v2026.06.22.20260622_125011/
+- releases/v2026.06.22.20260622_174042.zip
+- releases/v2026.06.22.20260622_174042/
 - site/
 
 ## Modified
@@ -62,9 +62,9 @@
 - data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
+- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.CL.md
