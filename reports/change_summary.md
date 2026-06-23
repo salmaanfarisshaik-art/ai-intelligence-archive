@@ -1,63 +1,77 @@
 # Change Summary
 
-**Total Changes:** 151
+**Total Changes:** 167
 
 ## Added
 - docs/cs.DB.md
+- docs/cs.DC.md
 - docs/cs.GT.md
 - docs/cs.HC.md
 - docs/cs.LO.md
 - docs/cs.OS.md
 - docs/eess.AS.md
+- docs/q-bio.NC.md
 - docs/q-bio.QM.md
 - docs/q-fin.RM.md
 - docs/q-fin.TR.md
 - docs/quant-ph.md
 - docs/stat.ML.md
 - exports/csv/cs.DB.csv
+- exports/csv/cs.DC.csv
 - exports/csv/cs.GT.csv
 - exports/csv/cs.HC.csv
 - exports/csv/cs.LO.csv
 - exports/csv/cs.OS.csv
 - exports/csv/eess.AS.csv
+- exports/csv/q-bio.NC.csv
 - exports/csv/q-bio.QM.csv
 - exports/csv/q-fin.RM.csv
 - exports/csv/q-fin.TR.csv
 - exports/csv/quant-ph.csv
 - exports/csv/stat.ML.csv
 - exports/json/cs.DB.json
+- exports/json/cs.DC.json
 - exports/json/cs.GT.json
 - exports/json/cs.HC.json
 - exports/json/cs.LO.json
 - exports/json/cs.OS.json
 - exports/json/eess.AS.json
+- exports/json/q-bio.NC.json
 - exports/json/q-bio.QM.json
 - exports/json/q-fin.RM.json
 - exports/json/q-fin.TR.json
 - exports/json/quant-ph.json
 - exports/json/stat.ML.json
 - exports/markdown/cs.DB.md
+- exports/markdown/cs.DC.md
 - exports/markdown/cs.GT.md
 - exports/markdown/cs.HC.md
 - exports/markdown/cs.LO.md
 - exports/markdown/cs.OS.md
 - exports/markdown/eess.AS.md
+- exports/markdown/q-bio.NC.md
 - exports/markdown/q-bio.QM.md
 - exports/markdown/q-fin.RM.md
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
 - public/
-- releases/v2026.06.23.20260623_000616.zip
-- releases/v2026.06.23.20260623_000616/
+- releases/v2026.06.23.20260623_045947.zip
+- releases/v2026.06.23.20260623_045947/
 - site/
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -152,10 +166,12 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None
