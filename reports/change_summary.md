@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 165
+**Total Changes:** 164
 
 ## Added
 - docs/cs.DB.md
@@ -56,8 +56,8 @@
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
 - public/
-- releases/v2026.06.23.20260623_120651.zip
-- releases/v2026.06.23.20260623_120651/
+- releases/v2026.06.23.20260623_154744.zip
+- releases/v2026.06.23.20260623_154744/
 - site/
 
 ## Modified
@@ -70,7 +70,6 @@
 - data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
