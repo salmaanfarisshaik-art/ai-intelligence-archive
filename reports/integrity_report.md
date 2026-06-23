@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-23T08:35:38.527118+00:00
-**Warnings:** 435
+**Generated:** 2026-06-23T12:06:51.031883+00:00
+**Warnings:** 436
 **Errors:** 0
 
 ## Issues
@@ -394,6 +394,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/m-a-p
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Benjy
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/IPEC-COMMUNITY
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
