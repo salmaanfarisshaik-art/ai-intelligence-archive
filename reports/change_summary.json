@@ -54,8 +54,8 @@
       "exports/markdown/quant-ph.md",
       "exports/markdown/stat.ML.md",
       "public/",
-      "releases/v2026.06.23.20260623_045947.zip",
-      "releases/v2026.06.23.20260623_045947/",
+      "releases/v2026.06.23.20260623_083538.zip",
+      "releases/v2026.06.23.20260623_083538/",
       "site/"
     ],
     "files_modified": [
@@ -66,12 +66,12 @@
       "data/metadata/entity_index.json",
       "data/metadata/feature_manifest.json",
       "data/metadata/relationship_graph.json",
-      "data/metadata/repo_metrics.json",
       "data/metadata/repository_manifest.json",
       "data/metadata/schema_manifest.json",
-      "data/processed/benchmarks/data.json",
+      "data/metadata/tag_index.json",
       "data/processed/datasets/data.json",
       "data/processed/models/data.json",
+      "data/processed/prompts/data.json",
       "data/processed/tools/data.json",
       "docs/cs.AI.md",
       "docs/cs.CL.md",
@@ -168,11 +168,10 @@
       "reports/dashboard.md",
       "reports/integrity_report.md",
       "reports/integrity_status.json",
-      "reports/project_status.json",
-      "reports/repository_metrics.md"
+      "reports/project_status.json"
     ],
     "files_removed": [],
-    "total_changes": 167
+    "total_changes": 166
   },
   "generated_by_phase": 8,
   "generator": "change_detector",
