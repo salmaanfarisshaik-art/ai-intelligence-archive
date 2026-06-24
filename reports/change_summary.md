@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 159
+**Total Changes:** 161
 
 ## Added
 - docs/cs.DB.md
@@ -56,14 +56,15 @@
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
 - public/
-- releases/v2026.06.23.20260623_235601.zip
-- releases/v2026.06.23.20260623_235601/
+- releases/v2026.06.24.20260624_033209.zip
+- releases/v2026.06.24.20260624_033209/
 - site/
 
 ## Modified
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
@@ -164,6 +165,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None
