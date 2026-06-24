@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-24T13:22:04.858043+00:00
-**Warnings:** 487
+**Generated:** 2026-06-24T16:21:29.579042+00:00
+**Warnings:** 488
 **Errors:** 0
 
 ## Issues
@@ -470,6 +470,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jasperai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/stanford-vision-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/just-me7ss
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2410.09102

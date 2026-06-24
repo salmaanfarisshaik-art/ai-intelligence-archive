@@ -610,6 +610,9 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_663b7fd5a4152b77b637ba11"
   ],
+  "bimanual": [
+    "hf_ds_6a307dae8e258cbed418ec58"
+  ],
   "bridge_orig": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
   ],
@@ -1053,7 +1056,8 @@
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "imitation-learning": [
-    "hf_ds_64edb45c5c9245397fc83a26"
+    "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "indoor 3D scene dataset": [
     "hf_ds_66293ead0326d8c0fc899ac0"
@@ -1481,7 +1485,8 @@
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
-    "hf_ds_69f7b3cc62d65c8f39fe7270"
+    "hf_ds_69f7b3cc62d65c8f39fe7270",
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "language:eng": [
     "hf_ds_688209a61f4d0375592760e0"
@@ -3016,6 +3021,7 @@
     "hf_ds_6835d7e81900f053ee3c7c9e",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "hf_ds_6a307dae8e258cbed418ec58",
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
@@ -3137,8 +3143,14 @@
   "llama-3": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
+  "manipulation": [
+    "hf_ds_6a307dae8e258cbed418ec58"
+  ],
   "math-word-problems": [
     "hf_ds_625552d2b339bb03abe3432d"
+  ],
+  "mcap": [
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "meta": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
@@ -3515,6 +3527,7 @@
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a307dae8e258cbed418ec58",
     "hf_facebook_opt-125m",
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
@@ -3553,7 +3566,8 @@
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
   "robotics": [
-    "hf_ds_67d97c4be2b27852325fd8e2"
+    "hf_ds_67d97c4be2b27852325fd8e2",
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "rust": [
     "hf_distilbert_distilgpt2",
@@ -3692,7 +3706,8 @@
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "source_datasets:Federal Court of Australia": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -3819,7 +3834,8 @@
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "task_categories:summarization": [
     "hf_ds_621ffdd236468d709f181dba"
@@ -3912,6 +3928,9 @@
   ],
   "task_ids:word-sense-disambiguation": [
     "hf_ds_621ffdd236468d709f181fa6"
+  ],
+  "teleoperation": [
+    "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
