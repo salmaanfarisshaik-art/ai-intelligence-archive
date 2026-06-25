@@ -1,10 +1,10 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 145546
+**Total Entities Tracked**: 145547
 
 ## Category Distribution
 
-- **news**: 42027
+- **news**: 42028
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
@@ -16,7 +16,7 @@
 - **mcps**: 1100
 - **models**: 1096
 - **dataset**: 1090
-- **text-generation**: 996
+- **text-generation**: 995
 - **benchmarks**: 700
 - **cs.CV**: 139
 - **cs.CL**: 85
@@ -50,13 +50,14 @@
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
 - **q-fin.TR**: 1
+- **text-ranking**: 1
 
 ## Source Distribution
 
 - ****: 89928
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2000
-- **OpenAI Blog**: 1017
+- **OpenAI Blog**: 1018
 - **ArXiv**: 450
 - **HuggingFace Datasets**: 90
 - **GitHub Trending**: 51
@@ -64,16 +65,16 @@
 
 ## Top Tags
 
-- **region:us**: 138
-- **text-generation**: 49
-- **safetensors**: 44
-- **endpoints_compatible**: 43
-- **transformers**: 43
+- **region:us**: 140
+- **text-generation**: 51
+- **safetensors**: 46
+- **endpoints_compatible**: 44
+- **transformers**: 44
+- **license:apache-2.0**: 42
 - **library:datasets**: 41
 - **library:mlcroissant**: 41
-- **license:apache-2.0**: 40
+- **conversational**: 36
 - **language:en**: 36
-- **conversational**: 35
 - **modality:text**: 34
 - **license:mit**: 31
 - **library:polars**: 30
@@ -87,8 +88,8 @@
 - **task_categories:text-generation**: 14
 - **modality:image**: 13
 - **size_categories:n<1K**: 13
+- **qwen3**: 11
 - **multilinguality:monolingual**: 10
-- **qwen3**: 10
 - **arxiv:2505.09388**: 9
 - **license:other**: 9
 - **modality:tabular**: 9
@@ -99,6 +100,7 @@
 - **license:odc-by**: 7
 - **pytorch**: 7
 - **task_categories:robotics**: 7
+- **8-bit**: 6
 - **arxiv:2309.00071**: 6
 - **custom_code**: 6
 - **language:zh**: 6
@@ -108,7 +110,6 @@
 - **size_categories:1M<n<10M**: 6
 - **size_categories:n>1T**: 6
 - **task_ids:language-modeling**: 6
-- **8-bit**: 5
 - **annotations_creators:no-annotation**: 5
 - **format:imagefolder**: 5
 - **language:ar**: 5

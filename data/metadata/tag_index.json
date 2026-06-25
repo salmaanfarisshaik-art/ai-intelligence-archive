@@ -17,6 +17,7 @@
   "8-bit": [
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
@@ -48,10 +49,12 @@
     "hf_ds_67d829e152331730e865bfb7"
   ],
   "Model Optimizer": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "ModelOpt": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -59,6 +62,7 @@
     "hf_ds_621ffdd236468d709f181fa6"
   ],
   "NVFP4": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "OpenCOOD": [
@@ -435,7 +439,8 @@
   ],
   "arxiv:2506.05176": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
-    "hf_Qwen_Qwen3-Embedding-4B"
+    "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B"
   ],
   "arxiv:2506.14111": [
     "hf_ds_6851cac31458ae6b02f8e8e7"
@@ -495,7 +500,8 @@
   ],
   "base_model:Qwen/Qwen3-0.6B-Base": [
     "hf_Qwen_Qwen3-0.6B",
-    "hf_Qwen_Qwen3-Embedding-0.6B"
+    "hf_Qwen_Qwen3-Embedding-0.6B",
+    "hf_Qwen_Qwen3-Reranker-0.6B"
   ],
   "base_model:Qwen/Qwen3-1.7B-Base": [
     "hf_Qwen_Qwen3-1.7B"
@@ -539,7 +545,8 @@
   ],
   "base_model:finetune:Qwen/Qwen3-0.6B-Base": [
     "hf_Qwen_Qwen3-0.6B",
-    "hf_Qwen_Qwen3-Embedding-0.6B"
+    "hf_Qwen_Qwen3-Embedding-0.6B",
+    "hf_Qwen_Qwen3-Reranker-0.6B"
   ],
   "base_model:finetune:Qwen/Qwen3-1.7B-Base": [
     "hf_Qwen_Qwen3-1.7B"
@@ -578,6 +585,9 @@
   "base_model:google/gemma-3-1b-pt": [
     "hf_google_gemma-3-1b-it"
   ],
+  "base_model:google/gemma-4-26B-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
   "base_model:google/gemma-4-31B-it": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
@@ -598,6 +608,9 @@
   ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
+  ],
+  "base_model:quantized:google/gemma-4-26B-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "benchmark": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -668,6 +681,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
@@ -858,6 +872,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -1000,6 +1015,12 @@
   ],
   "gemma3_text": [
     "hf_google_gemma-3-1b-it"
+  ],
+  "gemma4": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
+  "gemma4-26b-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "generalist-agent": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -3007,6 +3028,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -3026,6 +3048,7 @@
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_llamafactory_tiny-random-Llama-3",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
@@ -3262,6 +3285,7 @@
     "hf_distilbert_distilgpt2"
   ],
   "modelopt": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "moe": [
@@ -3309,7 +3333,11 @@
   "nuScenes": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "nvfp4": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
   "nvidia": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -3371,6 +3399,7 @@
   ],
   "quantized": [
     "hf_antirez_deepseek-v4-gguf",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -3395,6 +3424,7 @@
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -3434,6 +3464,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -3541,6 +3572,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -3598,6 +3630,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
@@ -3613,6 +3646,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -3634,7 +3668,8 @@
   ],
   "sentence-transformers": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
-    "hf_Qwen_Qwen3-Embedding-4B"
+    "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B"
   ],
   "size_categories:100K<n<1M": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -3965,6 +4000,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -3983,6 +4019,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -4024,6 +4061,9 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
   ],
+  "text-ranking": [
+    "hf_Qwen_Qwen3-Reranker-0.6B"
+  ],
   "text-to-image": [
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
@@ -4060,6 +4100,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",

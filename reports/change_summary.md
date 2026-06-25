@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 179
+**Total Changes:** 184
 
 ## Added
 - docs/cs.DB.md
@@ -19,6 +19,7 @@
 - docs/q-fin.TR.md
 - docs/quant-ph.md
 - docs/stat.ML.md
+- docs/text-ranking.md
 - exports/csv/cs.DB.csv
 - exports/csv/cs.DC.csv
 - exports/csv/cs.GT.csv
@@ -35,6 +36,7 @@
 - exports/csv/q-fin.TR.csv
 - exports/csv/quant-ph.csv
 - exports/csv/stat.ML.csv
+- exports/csv/text-ranking.csv
 - exports/json/cs.DB.json
 - exports/json/cs.DC.json
 - exports/json/cs.GT.json
@@ -51,6 +53,7 @@
 - exports/json/q-fin.TR.json
 - exports/json/quant-ph.json
 - exports/json/stat.ML.json
+- exports/json/text-ranking.json
 - exports/markdown/cs.DB.md
 - exports/markdown/cs.DC.md
 - exports/markdown/cs.GT.md
@@ -67,9 +70,10 @@
 - exports/markdown/q-fin.TR.md
 - exports/markdown/quant-ph.md
 - exports/markdown/stat.ML.md
+- exports/markdown/text-ranking.md
 - public/
-- releases/v2026.06.25.20260625_050444.zip
-- releases/v2026.06.25.20260625_050444/
+- releases/v2026.06.25.20260625_092000.zip
+- releases/v2026.06.25.20260625_092000/
 - site/
 
 ## Modified
@@ -83,9 +87,10 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/processed/benchmarks/data.json
+- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
+- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.CL.md
