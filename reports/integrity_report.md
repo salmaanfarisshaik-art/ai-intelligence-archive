@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-26T05:07:57.200702+00:00
-**Warnings:** 589
+**Generated:** 2026-06-26T09:23:45.477176+00:00
+**Warnings:** 590
 **Errors:** 0
 
 ## Issues
@@ -553,6 +553,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nvidia
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tasl-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ieasybooks-org
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/artur-muratov
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/xlangai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/EssentialAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
