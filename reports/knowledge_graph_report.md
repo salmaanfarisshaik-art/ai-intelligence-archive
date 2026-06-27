@@ -1,6 +1,6 @@
 # Knowledge Graph Report
         
-Generated at: 2026-06-27T11:27:45Z
+Generated at: 2026-06-27T13:40:43Z
 
 ## Graph Statistics
 - Total Nodes: 145699
