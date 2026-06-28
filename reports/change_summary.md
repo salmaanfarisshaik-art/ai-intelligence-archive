@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 179
+**Total Changes:** 181
 
 ## Added
 - docs/cs.DB.md
@@ -72,16 +72,18 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.06.28.20260628_075037.zip
-- releases/v2026.06.28.20260628_075037/
+- releases/v2026.06.28.20260628_102656.zip
+- releases/v2026.06.28.20260628_102656/
 - site/
 
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
