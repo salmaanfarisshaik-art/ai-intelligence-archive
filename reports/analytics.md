@@ -70,8 +70,8 @@
 - **safetensors**: 46
 - **endpoints_compatible**: 44
 - **transformers**: 44
-- **library:datasets**: 43
-- **library:mlcroissant**: 43
+- **library:datasets**: 42
+- **library:mlcroissant**: 42
 - **license:apache-2.0**: 42
 - **language:en**: 37
 - **modality:text**: 37
@@ -86,8 +86,8 @@
 - **library:pandas**: 17
 - **task_categories:text-generation**: 15
 - **library:dask**: 14
-- **size_categories:n<1K**: 14
 - **modality:image**: 13
+- **size_categories:n<1K**: 13
 - **qwen3**: 11
 - **license:other**: 10
 - **modality:tabular**: 10
@@ -112,6 +112,6 @@
 - **size_categories:100K<n<1M**: 6
 - **size_categories:n>1T**: 6
 - **annotations_creators:no-annotation**: 5
-- **format:imagefolder**: 5
 - **language:ca**: 5
 - **language:de**: 5
+- **language:es**: 5
