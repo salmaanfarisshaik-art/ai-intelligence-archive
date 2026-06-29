@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 181
+**Total Changes:** 191
 
 ## Added
 - docs/cs.DB.md
@@ -11,6 +11,7 @@
 - docs/cs.OS.md
 - docs/cs.SI.md
 - docs/eess.AS.md
+- docs/eess.IV.md
 - docs/physics.pop-ph.md
 - docs/q-bio.GN.md
 - docs/q-bio.NC.md
@@ -28,6 +29,7 @@
 - exports/csv/cs.OS.csv
 - exports/csv/cs.SI.csv
 - exports/csv/eess.AS.csv
+- exports/csv/eess.IV.csv
 - exports/csv/physics.pop-ph.csv
 - exports/csv/q-bio.GN.csv
 - exports/csv/q-bio.NC.csv
@@ -45,6 +47,7 @@
 - exports/json/cs.OS.json
 - exports/json/cs.SI.json
 - exports/json/eess.AS.json
+- exports/json/eess.IV.json
 - exports/json/physics.pop-ph.json
 - exports/json/q-bio.GN.json
 - exports/json/q-bio.NC.json
@@ -62,6 +65,7 @@
 - exports/markdown/cs.OS.md
 - exports/markdown/cs.SI.md
 - exports/markdown/eess.AS.md
+- exports/markdown/eess.IV.md
 - exports/markdown/physics.pop-ph.md
 - exports/markdown/q-bio.GN.md
 - exports/markdown/q-bio.NC.md
@@ -72,8 +76,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.06.29.20260629_000809.zip
-- releases/v2026.06.29.20260629_000809/
+- releases/v2026.06.29.20260629_054928.zip
+- releases/v2026.06.29.20260629_054928/
 - site/
 
 ## Modified
@@ -84,13 +88,16 @@
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
-- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
+- docs/cs.AR.md
 - docs/cs.CL.md
 - docs/cs.CR.md
 - docs/cs.CV.md
@@ -141,6 +148,7 @@
 - exports/csv/tools.csv
 - exports/json/all_entities.json
 - exports/json/cs.AI.json
+- exports/json/cs.AR.json
 - exports/json/cs.CL.json
 - exports/json/cs.CR.json
 - exports/json/cs.CV.json
@@ -159,6 +167,7 @@
 - exports/json/text-generation.json
 - exports/json/tool.json
 - exports/markdown/cs.AI.md
+- exports/markdown/cs.AR.md
 - exports/markdown/cs.CL.md
 - exports/markdown/cs.CR.md
 - exports/markdown/cs.CV.md
@@ -186,6 +195,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None

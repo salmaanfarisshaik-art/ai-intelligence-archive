@@ -1,15 +1,15 @@
 # Knowledge Graph Report
         
-Generated at: 2026-06-29T00:08:59Z
+Generated at: 2026-06-29T05:50:18Z
 
 ## Graph Statistics
-- Total Nodes: 145735
+- Total Nodes: 145785
 - Total Edges: 460
 
 ## Node Types
 - ai_skills_library: 31000
 - api_providers: 3200
-- benchmarks: 1200
+- benchmarks: 1250
 - datasets: 2448
 - ide_rules: 10200
 - mcps: 1100
