@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 189
+**Total Changes:** 188
 
 ## Added
 - docs/cs.DB.md
@@ -76,8 +76,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.06.29.20260629_105551.zip
-- releases/v2026.06.29.20260629_105551/
+- releases/v2026.06.29.20260629_144813.zip
+- releases/v2026.06.29.20260629_144813/
 - site/
 
 ## Modified
@@ -93,7 +93,6 @@
 - data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
-- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.AI.md
 - docs/cs.AR.md
