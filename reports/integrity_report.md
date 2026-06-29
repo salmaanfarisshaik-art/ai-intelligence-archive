@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-29T05:49:28.376192+00:00
-**Warnings:** 640
+**Generated:** 2026-06-29T10:55:51.155441+00:00
+**Warnings:** 642
 **Errors:** 0
 
 ## Issues
@@ -593,10 +593,12 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/airtrain-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/princeton-nlp
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Zyphra
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jhu-clsp
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/m-a-p
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Benjy
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/IPEC-COMMUNITY
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/IPEC-COMMUNITY
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jobs-git
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
