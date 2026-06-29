@@ -3,10 +3,10 @@
 | Category | Scale |
 | -------- | ----- |
 | 🤖 AI Models | 2,128 |
-| 📚 Datasets | 2,446 |
+| 📚 Datasets | 2,448 |
 | 🧰 AI Tools | 4,251 |
 | 📊 Benchmarks | 1,200 |
-| 💬 Prompt Templates | 49,207 |
+| 💬 Prompt Templates | 49,208 |
 | 📝 AI Skills Library | 31,000 |
 | 🏗️ MCP Servers | 1,100 |
 | 🖥️ IDE Rules | 10,200 |
@@ -16,4 +16,4 @@
 | 📰 News Archive | 41,000 |
 | 🕸️ Knowledge Graph | 50,000 |
 
-*Generated at: 2026-06-28T22:02:31.955819+00:00*
+*Generated at: 2026-06-29T00:08:59.890424+00:00*
