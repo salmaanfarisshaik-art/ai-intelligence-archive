@@ -2,7 +2,7 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-30T15:27:31.914472+00:00
+**Generated:** 2026-06-30T17:52:41.516853+00:00
 **Warnings:** 696
 **Errors:** 0
 
