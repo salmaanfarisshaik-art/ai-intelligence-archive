@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-06-30T05:02:40.951491+00:00
-**Warnings:** 692
+**Generated:** 2026-06-30T09:33:55.705858+00:00
+**Warnings:** 696
 **Errors:** 0
 
 ## Issues
@@ -639,6 +639,8 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Kazimir-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/TIGER-Lab
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2406.17557
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mlfoundations
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/airtrain-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/princeton-nlp
@@ -674,7 +676,9 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jasperai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/stanford-vision-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/just-me7ss
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/anisoleai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2410.09102

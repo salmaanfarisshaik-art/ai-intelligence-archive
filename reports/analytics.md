@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 145866
+**Total Entities Tracked**: 145870
 
 ## Category Distribution
 
@@ -14,7 +14,7 @@
 - **tools**: 2100
 - **datasets**: 1370
 - **models**: 1136
-- **dataset**: 1100
+- **dataset**: 1104
 - **mcps**: 1100
 - **text-generation**: 995
 - **benchmarks**: 700
@@ -60,49 +60,50 @@
 - **Hugging Face**: 2000
 - **OpenAI Blog**: 1021
 - **ArXiv**: 600
-- **HuggingFace Datasets**: 100
+- **HuggingFace Datasets**: 104
 - **GitHub Trending**: 51
 - **BAIR Blog**: 10
 
 ## Top Tags
 
-- **region:us**: 151
-- **text-generation**: 52
-- **safetensors**: 47
-- **endpoints_compatible**: 45
-- **transformers**: 45
-- **library:datasets**: 44
-- **library:mlcroissant**: 44
-- **license:apache-2.0**: 44
-- **language:en**: 38
-- **modality:text**: 38
-- **conversational**: 37
+- **region:us**: 156
+- **text-generation**: 53
+- **safetensors**: 48
+- **endpoints_compatible**: 46
+- **library:datasets**: 46
+- **library:mlcroissant**: 46
+- **transformers**: 46
+- **license:apache-2.0**: 45
+- **modality:text**: 41
+- **language:en**: 40
+- **conversational**: 38
+- **library:polars**: 34
 - **license:mit**: 33
-- **library:polars**: 32
-- **format:parquet**: 28
+- **format:parquet**: 30
 - **text-generation-inference**: 26
-- **deploy:azure**: 24
+- **deploy:azure**: 25
 - **en**: 18
 - **eval-results**: 18
 - **library:pandas**: 18
-- **task_categories:text-generation**: 16
+- **task_categories:text-generation**: 18
+- **library:dask**: 16
 - **size_categories:n<1K**: 15
-- **library:dask**: 14
 - **modality:image**: 13
+- **modality:tabular**: 13
 - **license:other**: 11
-- **modality:tabular**: 11
 - **qwen3**: 11
 - **multilinguality:monolingual**: 10
 - **arxiv:2505.09388**: 9
+- **fp8**: 9
+- **license:odc-by**: 9
 - **modality:video**: 9
 - **source_datasets:original**: 9
-- **fp8**: 8
 - **pytorch**: 8
 - **size_categories:10K<n<100K**: 8
+- **size_categories:1M<n<10M**: 8
 - **task_categories:robotics**: 8
 - **custom_code**: 7
-- **license:odc-by**: 7
-- **size_categories:1M<n<10M**: 7
+- **size_categories:n>1T**: 7
 - **task_ids:language-modeling**: 7
 - **8-bit**: 6
 - **arxiv:2309.00071**: 6
@@ -111,8 +112,7 @@
 - **language_creators:found**: 6
 - **llama**: 6
 - **size_categories:100K<n<1M**: 6
-- **size_categories:n>1T**: 6
+- **size_categories:1B<n<10B**: 6
 - **task_categories:fill-mask**: 6
 - **task_categories:text-classification**: 6
 - **annotations_creators:no-annotation**: 5
-- **format:imagefolder**: 5

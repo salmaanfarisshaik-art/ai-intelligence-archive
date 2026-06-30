@@ -260,6 +260,7 @@
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2109.07445": [
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178"
   ],
   "arxiv:2110.14168": [
@@ -355,6 +356,9 @@
   "arxiv:2312.12241": [
     "hf_ds_661823b590a8b6724f1c6534"
   ],
+  "arxiv:2401.10020": [
+    "hf_ds_6655eb19d17e141dcb546ed5"
+  ],
   "arxiv:2402.09844": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
@@ -375,6 +379,7 @@
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2404.14219": [
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
   "arxiv:2404.16816": [
@@ -394,7 +399,9 @@
     "hf_ds_66708709d5c5d8fd8db3a5cf"
   ],
   "arxiv:2406.17557": [
-    "hf_ds_669e6b2752cf1c619d4c0178"
+    "hf_ds_6655eb19d17e141dcb546ed5",
+    "hf_ds_669e6b2752cf1c619d4c0178",
+    "hf_ds_6a153f136ea5882878c26693"
   ],
   "arxiv:2407.10671": [
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -701,6 +708,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -864,6 +872,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
@@ -891,6 +900,9 @@
   ],
   "doi:10.57967/hf/2439": [
     "hf_ds_663b7fd5a4152b77b637ba11"
+  ],
+  "doi:10.57967/hf/2497": [
+    "hf_ds_6655eb19d17e141dcb546ed5"
   ],
   "doi:10.57967/hf/2833": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -952,6 +964,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
@@ -1056,10 +1069,12 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -1086,6 +1101,7 @@
   ],
   "fp8": [
     "hf_MiniMaxAI_MiniMax-M2.7",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -1597,6 +1613,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_6700058973753b82f145eb1d",
@@ -1615,6 +1632,7 @@
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
+    "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "language:eng": [
@@ -2983,9 +3001,11 @@
     "hf_ds_621ffdd236468d709f181dba",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f184284",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_661823b590a8b6724f1c6534",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66dc4e6348cb97a720daea22",
@@ -3010,6 +3030,7 @@
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3018,6 +3039,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -3056,6 +3078,7 @@
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3064,6 +3087,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -3119,6 +3143,7 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3126,6 +3151,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -3156,6 +3182,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
@@ -3265,12 +3292,14 @@
   ],
   "license:odc-by": [
     "hf_ds_621ffdd236468d709f182a80",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_6851cac31458ae6b02f8e8e7",
     "hf_ds_688209a61f4d0375592760e0",
-    "hf_ds_699250f08be5bf8321aeb29e"
+    "hf_ds_699250f08be5bf8321aeb29e",
+    "hf_ds_6a153f136ea5882878c26693"
   ],
   "license:other": [
     "hf_MiniMaxAI_MiniMax-M2.7",
@@ -3365,6 +3394,7 @@
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_675d7e29e24babdf1842d270",
@@ -3372,7 +3402,8 @@
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_69a640bbe81a3e15ecca52a2",
     "hf_ds_69e5997537a06672011aade2",
-    "hf_ds_69e7409e244b695efe87097a"
+    "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a153f136ea5882878c26693"
   ],
   "modality:text": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -3387,6 +3418,7 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3394,6 +3426,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -3412,6 +3445,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
   "modality:timeseries": [
@@ -3522,6 +3556,9 @@
   "pointcloud-segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
   ],
+  "pre-training": [
+    "hf_ds_6a153f136ea5882878c26693"
+  ],
   "pretraining": [
     "hf_ds_6700058973753b82f145eb1d"
   ],
@@ -3593,6 +3630,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
   ],
   "qwen3_next": [
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "real-world": [
@@ -3620,6 +3658,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
@@ -3648,6 +3687,7 @@
     "hf_ds_621ffdd236468d709f183929",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_636a1b69f2f9ec4289c4c19e",
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_63c7961f02d8c962334e3c3f",
@@ -3667,6 +3707,7 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3730,8 +3771,10 @@
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
+    "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a307dae8e258cbed418ec58",
+    "hf_ds_6a3519d6ceabed997ec9ea1e",
     "hf_facebook_opt-125m",
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
@@ -3798,6 +3841,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
@@ -3878,6 +3922,7 @@
     "hf_ds_68c6d459d95ef41da81c9b41"
   ],
   "size_categories:1B<n<10B": [
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_69822b12f4c99fc122169639",
@@ -3894,6 +3939,7 @@
   "size_categories:1M<n<10M": [
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f18200d",
+    "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_68e91443c366e5879388a4d4",
@@ -3923,6 +3969,7 @@
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "source_datasets:Federal Court of Australia": [
@@ -4003,6 +4050,9 @@
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
+  "tabular": [
+    "hf_ds_6a153f136ea5882878c26693"
+  ],
   "task_categories:automatic-speech-recognition": [
     "hf_ds_6993525c8be5bf8321bcc775"
   ],
@@ -4080,6 +4130,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_6700058973753b82f145eb1d",
@@ -4088,7 +4139,8 @@
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_6947232e01886522f0154ff9",
-    "hf_ds_699250f08be5bf8321aeb29e"
+    "hf_ds_699250f08be5bf8321aeb29e",
+    "hf_ds_6a153f136ea5882878c26693"
   ],
   "task_categories:text-retrieval": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -4163,6 +4215,9 @@
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "text": [
+    "hf_ds_6a153f136ea5882878c26693"
+  ],
   "text-embeddings-inference": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B"
@@ -4185,6 +4240,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
@@ -4289,6 +4345,7 @@
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+    "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
