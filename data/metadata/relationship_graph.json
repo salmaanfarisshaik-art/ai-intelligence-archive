@@ -138126,6 +138126,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6804d9b810dede0a63020b0a",
+      "label": "mamed0v/TurkmenSpeech",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_68101f6210b86ba322aabec8",
       "label": "SWE-bench/SWE-bench_Multilingual",
       "category": "dataset"
@@ -138158,6 +138163,11 @@
     {
       "id": "hf_ds_6851cac31458ae6b02f8e8e7",
       "label": "EssentialAI/essential-web-v1.0",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6859a511dbd17c5bad610ad2",
+      "label": "aline-gassenn/MedDialog-Audio",
       "category": "dataset"
     },
     {
@@ -138301,6 +138311,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_69cf1925c61c6c0fbb866b5d",
+      "label": "Williamsanderson/MedQA-Darija-MultiLingual",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_69e5997537a06672011aade2",
       "label": "PeakStars/Math-Instruct",
       "category": "dataset"
@@ -138348,6 +138363,11 @@
     {
       "id": "hf_ds_6a1f3e49aa35c86b3f108f05",
       "label": "mteb/results",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
+      "label": "tencent/Hy-Embodied-0.5-VLA-Data",
       "category": "dataset"
     },
     {
@@ -176953,6 +176973,11 @@
     {
       "id": "model_allenai_olmo_3_7b_think",
       "label": "allenai/Olmo-3-7B-Think",
+      "category": "models"
+    },
+    {
+      "id": "model_allenai_olmo_7b",
+      "label": "allenai/OLMo-7B",
       "category": "models"
     },
     {
@@ -733918,6 +733943,11 @@
       "relationship": "related_models"
     },
     {
+      "source": "hf_ds_6804d9b810dede0a63020b0a",
+      "target": "datasets/mamed0v",
+      "relationship": "related_models"
+    },
+    {
       "source": "hf_ds_68179ef58e267618d9e7bc61",
       "target": "datasets/ieasybooks-org",
       "relationship": "related_models"
@@ -733935,6 +733965,11 @@
     {
       "source": "hf_ds_6851cac31458ae6b02f8e8e7",
       "target": "datasets/EssentialAI",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6859a511dbd17c5bad610ad2",
+      "target": "datasets/aline-gassenn",
       "relationship": "related_models"
     },
     {
@@ -733998,6 +734033,11 @@
       "relationship": "related_models"
     },
     {
+      "source": "hf_ds_69cf1925c61c6c0fbb866b5d",
+      "target": "datasets/Williamsanderson",
+      "relationship": "related_models"
+    },
+    {
       "source": "hf_ds_69e7409e244b695efe87097a",
       "target": "datasets/PsiBotAI",
       "relationship": "related_models"
@@ -734025,6 +734065,11 @@
     {
       "source": "hf_ds_6a153f136ea5882878c26693",
       "target": "datasets/anisoleai",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
+      "target": "datasets/tencent",
       "relationship": "related_models"
     },
     {

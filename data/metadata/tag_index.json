@@ -78,6 +78,9 @@
   "SmolLM2-1.7B-Instruct": [
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
+  "VLA": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
   "Video Dataset": [
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6a139a707f615e6fc818bde7"
@@ -511,12 +514,16 @@
   "arxiv:2605.30341": [
     "hf_ds_69f7b3cc62d65c8f39fe7270"
   ],
+  "arxiv:2606.14409": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
   "arxiv:2606.19348": [
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro"
   ],
   "audio": [
-    "hf_ds_6835c1a1f7b44d5d5071e8b2"
+    "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "augmentation": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -674,6 +681,7 @@
     "hf_ds_663b7fd5a4152b77b637ba11"
   ],
   "bimanual": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "bridge_orig": [
@@ -757,6 +765,9 @@
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_vikhyatk_moondream2"
+  ],
+  "darija": [
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "dataset": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -916,6 +927,9 @@
   "doi:10.57967/hf/2833": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
+  "doi:10.57967/hf/5889": [
+    "hf_ds_6859a511dbd17c5bad610ad2"
+  ],
   "doi:10.57967/hf/6762": [
     "hf_vikhyatk_moondream2"
   ],
@@ -1012,6 +1026,7 @@
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_deepseek-ai_DeepSeek-V3.2",
@@ -1094,9 +1109,11 @@
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "format:text": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
@@ -1179,6 +1196,9 @@
   "handwriting": [
     "hf_ds_6785649a41a64e1582b8bb05"
   ],
+  "healthcare": [
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
   "hi": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
@@ -1197,6 +1217,7 @@
   ],
   "imitation-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "indoor 3D scene dataset": [
@@ -1222,6 +1243,9 @@
   ],
   "kimi_k2": [
     "hf_moonshotai_Kimi-K2-Instruct-0905"
+  ],
+  "lance": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "language-modeling": [
     "hf_ds_6700058973753b82f145eb1d"
@@ -1292,7 +1316,8 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_68179ef58e267618d9e7bc61",
-    "hf_ds_6835c1a1f7b44d5d5071e8b2"
+    "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "language:arc": [
     "hf_ds_621ffdd236468d709f184284"
@@ -1633,11 +1658,13 @@
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
@@ -1725,7 +1752,8 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
-    "hf_ds_6835c1a1f7b44d5d5071e8b2"
+    "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "language:fra": [
     "hf_ds_688209a61f4d0375592760e0"
@@ -2768,7 +2796,8 @@
   "language:tk": [
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
-    "hf_ds_67cac990bdf9000d16109b38"
+    "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_6804d9b810dede0a63020b0a"
   ],
   "language:tl": [
     "hf_ds_621ffdd236468d709f184284",
@@ -3003,6 +3032,9 @@
   "law": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
+  "leRobot": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
   "legal": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
@@ -3066,11 +3098,19 @@
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
+  "library:lance": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
+  "library:lerobot": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "library:mlcroissant": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -3114,11 +3154,13 @@
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "library:pandas": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -3137,8 +3179,10 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
-    "hf_ds_69e7409e244b695efe87097a"
+    "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "library:polars": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -3172,9 +3216,11 @@
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "license:apache-2.0": [
     "hf_EleutherAI_pythia-160m",
@@ -3232,7 +3278,13 @@
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
-    "hf_ds_69e7409e244b695efe87097a"
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
+    "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
+  "license:cc-by-nc-4.0": [
+    "hf_ds_6804d9b810dede0a63020b0a",
+    "hf_ds_6859a511dbd17c5bad610ad2"
   ],
   "license:cc-by-nc-sa-4.0": [
     "hf_ds_621ffdd236468d709f1835cf",
@@ -3352,6 +3404,7 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "manipulation": [
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "math-word-problems": [
@@ -3359,6 +3412,13 @@
   ],
   "mcap": [
     "hf_ds_6a307dae8e258cbed418ec58"
+  ],
+  "medical": [
+    "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
+  "medqa": [
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "meta": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
@@ -3384,7 +3444,8 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
-    "hf_ds_6993525c8be5bf8321bcc775"
+    "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "modality:document": [
     "hf_ds_683195b70ed0a5b1919c6f22"
@@ -3417,7 +3478,8 @@
     "hf_ds_69a640bbe81a3e15ecca52a2",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
-    "hf_ds_6a153f136ea5882878c26693"
+    "hf_ds_6a153f136ea5882878c26693",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "modality:text": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -3457,10 +3519,13 @@
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69a640bbe81a3e15ecca52a2",
     "hf_ds_69af8aeeec432ae4abac9fd4",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_6a153f136ea5882878c26693",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "modality:timeseries": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -3489,11 +3554,15 @@
   "moondream1": [
     "hf_vikhyatk_moondream2"
   ],
+  "moroccan-arabic": [
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
   "multi-modal": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "multilingual": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
   "multilinguality:monolingual": [
@@ -3613,7 +3682,8 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "question-answering": [
-    "hf_ds_64edb45c5c9245397fc83a26"
+    "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "qwen": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
@@ -3744,6 +3814,7 @@
     "hf_ds_67da25756b2007f151daeca0",
     "hf_ds_67e58fa6625f0f6c8447f37c",
     "hf_ds_67eb39ec9c3049765889d084",
+    "hf_ds_6804d9b810dede0a63020b0a",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_683195b70ed0a5b1919c6f22",
@@ -3751,6 +3822,7 @@
     "hf_ds_6835d7e81900f053ee3c7c9e",
     "hf_ds_6850196ad602532f84eb625b",
     "hf_ds_6851cac31458ae6b02f8e8e7",
+    "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
@@ -3779,6 +3851,7 @@
     "hf_ds_69b6276dd5de8ef6a41f39e6",
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_69cd2a3acc9af6d091c033f0",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69eb72498f65b8d96201861f",
@@ -3789,6 +3862,7 @@
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a3519d6ceabed997ec9ea1e",
     "hf_facebook_opt-125m",
@@ -3833,6 +3907,7 @@
   ],
   "robotics": [
     "hf_ds_67d97c4be2b27852325fd8e2",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "rust": [
@@ -3908,6 +3983,9 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_64980085fa9591cb3dc4d378",
+    "hf_ds_6804d9b810dede0a63020b0a",
+    "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a"
   ],
   "size_categories:100M<n<1B": [
@@ -3977,7 +4055,8 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_6a04fe32c08e541d106bc6fe",
-    "hf_ds_6a05090783b099c94f623217"
+    "hf_ds_6a05090783b099c94f623217",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "size_categories:n>1T": [
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -4051,7 +4130,8 @@
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
   "speech": [
-    "hf_ds_6835c1a1f7b44d5d5071e8b2"
+    "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "speech-commands": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -4073,7 +4153,10 @@
     "hf_ds_6a153f136ea5882878c26693"
   ],
   "task_categories:automatic-speech-recognition": [
-    "hf_ds_6993525c8be5bf8321bcc775"
+    "hf_ds_6804d9b810dede0a63020b0a",
+    "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "task_categories:feature-extraction": [
     "hf_ds_6947232e01886522f0154ff9"
@@ -4113,12 +4196,14 @@
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_64edb45c5c9245397fc83a26",
-    "hf_ds_663b7fd5a4152b77b637ba11"
+    "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "task_categories:reinforcement-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "task_categories:robotics": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
@@ -4128,6 +4213,7 @@
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "task_categories:summarization": [
@@ -4166,6 +4252,10 @@
   ],
   "task_categories:text-to-image": [
     "hf_ds_69f0c6101cc98d8ac04c03cd"
+  ],
+  "task_categories:text-to-speech": [
+    "hf_ds_6804d9b810dede0a63020b0a",
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "task_categories:token-classification": [
     "hf_ds_621ffdd236468d709f181fa6",
@@ -4397,6 +4487,9 @@
   ],
   "transformers.js": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
+  ],
+  "trilingual": [
+    "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "trl": [
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"

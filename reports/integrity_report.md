@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-07-02T07:31:12.668710+00:00
-**Warnings:** 798
+**Generated:** 2026-07-02T10:38:10.098869+00:00
+**Warnings:** 802
 **Errors:** 0
 
 ## Issues
@@ -757,10 +757,12 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cadene
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nvidia
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tasl-lab
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mamed0v
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ieasybooks-org
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/artur-muratov
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/xlangai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/EssentialAI
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/aline-gassenn
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ZahidYasinMittha
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
@@ -773,12 +775,14 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/utter-project
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/siril-spcc
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Williamsanderson
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PsiBotAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jeyasuryaur
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jasperai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/stanford-vision-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/just-me7ss
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/anisoleai
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tencent
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
