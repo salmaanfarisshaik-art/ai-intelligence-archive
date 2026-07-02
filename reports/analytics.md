@@ -78,7 +78,7 @@
 - **endpoints_compatible**: 46
 - **transformers**: 46
 - **license:apache-2.0**: 45
-- **modality:text**: 44
+- **modality:text**: 43
 - **language:en**: 42
 - **conversational**: 38
 - **library:polars**: 36
@@ -93,7 +93,7 @@
 - **library:dask**: 16
 - **size_categories:n<1K**: 16
 - **modality:tabular**: 14
-- **modality:image**: 13
+- **modality:image**: 12
 - **license:other**: 11
 - **qwen3**: 11
 - **multilinguality:monolingual**: 10
