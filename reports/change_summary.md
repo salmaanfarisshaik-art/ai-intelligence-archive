@@ -1,8 +1,9 @@
 # Change Summary
 
-**Total Changes:** 193
+**Total Changes:** 209
 
 ## Added
+- docs/cs.CC.md
 - docs/cs.DB.md
 - docs/cs.DC.md
 - docs/cs.GT.md
@@ -13,6 +14,7 @@
 - docs/cs.SI.md
 - docs/eess.AS.md
 - docs/eess.IV.md
+- docs/eess.SY.md
 - docs/physics.ed-ph.md
 - docs/physics.pop-ph.md
 - docs/q-bio.GN.md
@@ -23,6 +25,7 @@
 - docs/quant-ph.md
 - docs/stat.ML.md
 - docs/text-ranking.md
+- exports/csv/cs.CC.csv
 - exports/csv/cs.DB.csv
 - exports/csv/cs.DC.csv
 - exports/csv/cs.GT.csv
@@ -33,6 +36,7 @@
 - exports/csv/cs.SI.csv
 - exports/csv/eess.AS.csv
 - exports/csv/eess.IV.csv
+- exports/csv/eess.SY.csv
 - exports/csv/physics.ed-ph.csv
 - exports/csv/physics.pop-ph.csv
 - exports/csv/q-bio.GN.csv
@@ -43,6 +47,7 @@
 - exports/csv/quant-ph.csv
 - exports/csv/stat.ML.csv
 - exports/csv/text-ranking.csv
+- exports/json/cs.CC.json
 - exports/json/cs.DB.json
 - exports/json/cs.DC.json
 - exports/json/cs.GT.json
@@ -53,6 +58,7 @@
 - exports/json/cs.SI.json
 - exports/json/eess.AS.json
 - exports/json/eess.IV.json
+- exports/json/eess.SY.json
 - exports/json/physics.ed-ph.json
 - exports/json/physics.pop-ph.json
 - exports/json/q-bio.GN.json
@@ -63,6 +69,7 @@
 - exports/json/quant-ph.json
 - exports/json/stat.ML.json
 - exports/json/text-ranking.json
+- exports/markdown/cs.CC.md
 - exports/markdown/cs.DB.md
 - exports/markdown/cs.DC.md
 - exports/markdown/cs.GT.md
@@ -73,6 +80,7 @@
 - exports/markdown/cs.SI.md
 - exports/markdown/eess.AS.md
 - exports/markdown/eess.IV.md
+- exports/markdown/eess.SY.md
 - exports/markdown/physics.ed-ph.md
 - exports/markdown/physics.pop-ph.md
 - exports/markdown/q-bio.GN.md
@@ -84,16 +92,22 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.02.20260702_032833.zip
-- releases/v2026.07.02.20260702_032833/
+- releases/v2026.07.02.20260702_073112.zip
+- releases/v2026.07.02.20260702_073112/
 - site/
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -194,10 +208,12 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None
