@@ -138671,6 +138671,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_68bff53655fd8600b6474cdc",
+      "label": "meta-agents-research-environments/gaia2",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_68c6d459d95ef41da81c9b41",
       "label": "mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M",
       "category": "dataset"
@@ -734915,6 +734920,11 @@
     {
       "source": "hf_ds_68b39036631546df1cfe0cba",
       "target": "datasets/ryanmarten",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_68bff53655fd8600b6474cdc",
+      "target": "datasets/meta-agents-research-environments",
       "relationship": "related_models"
     },
     {

@@ -94,9 +94,21 @@
   "acl": [
     "hf_ds_6374015cc3b104ef17a000f2"
   ],
+  "adaptability": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "agent": [
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
+  ],
+  "agent-evaluation": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
+  "ai-assistant": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
+  "ambiguity": [
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "annotations_creators:crowdsourced": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -108,7 +120,8 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f181fa6",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "annotations_creators:found": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -484,6 +497,9 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
+  "arxiv:2509.17158": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "arxiv:2509.23661": [
     "hf_ds_68c6d459d95ef41da81c9b41"
   ],
@@ -673,7 +689,8 @@
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "benchmark": [
-    "hf_ds_67e58fa6625f0f6c8447f37c"
+    "hf_ds_67e58fa6625f0f6c8447f37c",
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "benchmark:eval-yaml": [
     "hf_ds_625552d2b339bb03abe3432d",
@@ -946,6 +963,9 @@
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
+  "dynamic-events": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "embodied intelligence": [
     "hf_ds_6954cdff0a36f347a9b323fd"
   ],
@@ -1051,6 +1071,9 @@
     "hf_distilbert_distilgpt2",
     "hf_openai-community_gpt2"
   ],
+  "execution": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "facebook": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
@@ -1109,6 +1132,7 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -1662,6 +1686,7 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
@@ -3018,7 +3043,8 @@
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181eb4",
-    "hf_ds_621ffdd236468d709f183929"
+    "hf_ds_621ffdd236468d709f183929",
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "language_creators:found": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -3095,6 +3121,7 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
@@ -3151,6 +3178,7 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
@@ -3182,6 +3210,7 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e5997537a06672011aade2",
     "hf_ds_69e7409e244b695efe87097a",
@@ -3216,6 +3245,7 @@
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -3281,6 +3311,7 @@
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -3515,6 +3546,7 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
@@ -3557,6 +3589,9 @@
   ],
   "moroccan-arabic": [
     "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
+  "multi-agent": [
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "multi-modal": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -3827,6 +3862,7 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_68d19889ef48faaef08b8710",
     "hf_ds_68e91443c366e5879388a4d4",
@@ -3969,6 +4005,9 @@
   "scientific-literature": [
     "hf_ds_6947232e01886522f0154ff9"
   ],
+  "search": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "sentence-similarity": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B"
@@ -3977,6 +4016,9 @@
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B"
+  ],
+  "simulated-environment": [
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "size_categories:100K<n<1M": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -4051,6 +4093,7 @@
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68aefe4b74c4af3424207d2d",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
@@ -4125,7 +4168,8 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_625552d2b339bb03abe3432d",
-    "hf_ds_6374015cc3b104ef17a000f2"
+    "hf_ds_6374015cc3b104ef17a000f2",
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -4202,6 +4246,7 @@
   ],
   "task_categories:reinforcement-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -4272,8 +4317,17 @@
   "task_ids:acceptability-classification": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
+  "task_ids:conversational": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "task_ids:coreference-resolution": [
     "hf_ds_621ffdd236468d709f181fa6"
+  ],
+  "task_ids:dialogue-generation": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
+  "task_ids:dialogue-modeling": [
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "task_ids:document-retrieval": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -4313,6 +4367,9 @@
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e77"
   ],
+  "task_ids:task-planning": [
+    "hf_ds_68bff53655fd8600b6474cdc"
+  ],
   "task_ids:text-scoring": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
@@ -4321,6 +4378,9 @@
   ],
   "teleoperation": [
     "hf_ds_6a307dae8e258cbed418ec58"
+  ],
+  "temporal-reasoning": [
+    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"

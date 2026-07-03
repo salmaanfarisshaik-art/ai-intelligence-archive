@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-03T06:31:49.197990+00:00
-**Warnings:** 882
+**Generated:** 2026-07-03T09:57:49.604929+00:00
+**Warnings:** 883
 **Errors:** 30
 
 ## Issues
@@ -876,6 +876,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ZahidYasinMittha
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/meta-agents-research-environments
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mvp-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/AiEDA
