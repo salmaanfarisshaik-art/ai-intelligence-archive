@@ -52,6 +52,9 @@
     "hf_ds_67be7d7b0a1a886d7b5d305d",
     "hf_ds_67d829e152331730e865bfb7"
   ],
+  "MLAAD": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
+  ],
   "Model Optimizer": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -139,6 +142,9 @@
   ],
   "annotations_creators:other": [
     "hf_ds_621ffdd236468d709f181e3f"
+  ],
+  "anti-spoofing": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "apple-silicon": [
     "hf_antirez_deepseek-v4-gguf"
@@ -375,6 +381,9 @@
   "arxiv:2312.12241": [
     "hf_ds_661823b590a8b6724f1c6534"
   ],
+  "arxiv:2401.09512": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
+  ],
   "arxiv:2401.10020": [
     "hf_ds_6655eb19d17e141dcb546ed5"
   ],
@@ -541,8 +550,12 @@
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
   "audio": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
+  "audio-deepfake-detection": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "augmentation": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -878,6 +891,9 @@
   ],
   "decoder": [
     "hf_ds_6700058973753b82f145eb1d"
+  ],
+  "deepfake": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "deepseek": [
     "hf_antirez_deepseek-v4-gguf"
@@ -1601,6 +1617,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "language:deu": [
@@ -1683,6 +1700,7 @@
     "hf_ds_67b9d203047d98a072b4e68c",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
@@ -1713,6 +1731,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "language:est": [
@@ -1780,6 +1799,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
@@ -2006,6 +2026,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "language:ita": [
@@ -2523,6 +2544,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "language:plt": [
@@ -2594,6 +2616,7 @@
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "language:rue": [
@@ -2903,7 +2926,8 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_6469bc7cf51b56a285b7797b",
-    "hf_ds_67cac990bdf9000d16109b38"
+    "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "language:ukr": [
     "hf_ds_688209a61f4d0375592760e0"
@@ -3317,6 +3341,7 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "license:cc-by-nc-4.0": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6804d9b810dede0a63020b0a",
     "hf_ds_6859a511dbd17c5bad610ad2"
   ],
@@ -3477,6 +3502,7 @@
     "hf_ds_621ffdd236468d709f1825d5",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67866986e864fd4dee936901",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69cf1925c61c6c0fbb866b5d"
@@ -3845,6 +3871,7 @@
     "hf_ds_67be7d7b0a1a886d7b5d305d",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_67da25756b2007f151daeca0",
@@ -4026,6 +4053,7 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_64980085fa9591cb3dc4d378",
+    "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_6804d9b810dede0a63020b0a",
     "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
@@ -4196,6 +4224,9 @@
   ],
   "tabular": [
     "hf_ds_6a153f136ea5882878c26693"
+  ],
+  "task_categories:audio-classification": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "task_categories:automatic-speech-recognition": [
     "hf_ds_6804d9b810dede0a63020b0a",
@@ -4575,6 +4606,12 @@
   "vllm": [
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
+  ],
+  "voice": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
+  ],
+  "voice-antispoofing": [
+    "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "widowx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
