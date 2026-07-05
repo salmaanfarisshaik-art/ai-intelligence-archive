@@ -138746,6 +138746,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_67ce486ea3edca9b3349a097",
+      "label": "IPEC-COMMUNITY/language_table_lerobot",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
       "label": "mueller91/MLAAD",
       "category": "dataset"
@@ -144093,6 +144098,11 @@
     {
       "id": "hf_farbodtavakkoli_OTel-LLM-8.3B-IT",
       "label": "farbodtavakkoli/OTel-LLM-8.3B-IT",
+      "category": "text-generation"
+    },
+    {
+      "id": "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
+      "label": "farbodtavakkoli/OTel-LLM-E4B-IT",
       "category": "text-generation"
     },
     {
@@ -735095,6 +735105,11 @@
     {
       "source": "hf_ds_67cac990bdf9000d16109b38",
       "target": "datasets/jobs-git",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_67ce486ea3edca9b3349a097",
+      "target": "datasets/IPEC-COMMUNITY",
       "relationship": "related_models"
     },
     {

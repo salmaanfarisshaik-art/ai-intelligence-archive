@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146193
+**Total Entities Tracked**: 146195
 
 ## Category Distribution
 
@@ -14,9 +14,9 @@
 - **tools**: 2100
 - **datasets**: 1454
 - **models**: 1182
-- **dataset**: 1112
+- **dataset**: 1113
 - **mcps**: 1100
-- **text-generation**: 995
+- **text-generation**: 996
 - **benchmarks**: 700
 - **cs.CV**: 248
 - **cs.CL**: 135
@@ -63,34 +63,34 @@
 
 - ****: 90214
 - **Stanford Alpaca**: 52000
-- **Hugging Face**: 2000
+- **Hugging Face**: 2001
 - **OpenAI Blog**: 1025
 - **ArXiv**: 780
-- **HuggingFace Datasets**: 112
+- **HuggingFace Datasets**: 113
 - **GitHub Trending**: 51
 - **BAIR Blog**: 11
 
 ## Top Tags
 
-- **region:us**: 164
-- **text-generation**: 53
+- **region:us**: 167
+- **text-generation**: 55
 - **library:datasets**: 49
 - **library:mlcroissant**: 49
-- **safetensors**: 48
-- **endpoints_compatible**: 46
-- **transformers**: 46
-- **license:apache-2.0**: 45
+- **safetensors**: 49
+- **endpoints_compatible**: 47
+- **license:apache-2.0**: 47
+- **transformers**: 47
 - **language:en**: 44
 - **modality:text**: 44
-- **conversational**: 38
+- **conversational**: 40
 - **library:polars**: 37
 - **format:parquet**: 33
 - **license:mit**: 33
-- **text-generation-inference**: 26
+- **text-generation-inference**: 27
 - **deploy:azure**: 25
 - **library:pandas**: 21
-- **eval-results**: 19
-- **en**: 18
+- **en**: 20
+- **eval-results**: 20
 - **task_categories:text-generation**: 18
 - **size_categories:n<1K**: 17
 - **library:dask**: 16
@@ -99,20 +99,21 @@
 - **license:other**: 11
 - **qwen3**: 11
 - **multilinguality:monolingual**: 10
+- **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
 - **source_datasets:original**: 10
+- **task_categories:robotics**: 10
 - **arxiv:2505.09388**: 9
 - **fp8**: 9
 - **license:cc-by-4.0**: 9
 - **license:odc-by**: 9
 - **modality:video**: 9
-- **task_categories:robotics**: 9
-- **pytorch**: 8
 - **size_categories:10K<n<100K**: 8
 - **size_categories:1M<n<10M**: 8
 - **custom_code**: 7
 - **language:ar**: 7
 - **language:fr**: 7
+- **llama**: 7
 - **modality:audio**: 7
 - **size_categories:n>1T**: 7
 - **task_ids:language-modeling**: 7
@@ -121,4 +122,3 @@
 - **language:de**: 6
 - **language:es**: 6
 - **language:it**: 6
-- **language:pl**: 6
