@@ -77,8 +77,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.05.20260705_170831.zip
-- releases/v2026.07.05.20260705_170831/
+- releases/v2026.07.05.20260705_191604.zip
+- releases/v2026.07.05.20260705_191604/
 - site/
 
 ## Modified
