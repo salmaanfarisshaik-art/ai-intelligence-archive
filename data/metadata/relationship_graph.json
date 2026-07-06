@@ -137568,7 +137568,7 @@
     {
       "id": "hf_Qwen_Qwen3-Reranker-4B",
       "label": "Qwen/Qwen3-Reranker-4B",
-      "category": "text-generation"
+      "category": "text-ranking"
     },
     {
       "id": "hf_Qwen_Qwen3-Reranker-8B",
@@ -138616,6 +138616,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_63a02c28f3334a6553d23fe0",
+      "label": "bigcode/the-stack-metadata",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_63c7961f02d8c962334e3c3f",
       "label": "atokforps/latent_worker_early4_5",
       "category": "dataset"
@@ -138688,6 +138693,11 @@
     {
       "id": "hf_ds_661823b590a8b6724f1c6534",
       "label": "HuggingFaceM4/the_cauldron",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_66212f29fb07c3e05ad0432e",
+      "label": "HuggingFaceFW/fineweb",
       "category": "dataset"
     },
     {
@@ -138913,6 +138923,16 @@
     {
       "id": "hf_ds_6901510f85821f56ae6f5438",
       "label": "jzr99/mesh4d_dataset",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_692dc013741d7eb4efaf4b65",
+      "label": "hasankursun/github-code-2025-language-split",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6937cb3e145e00d96aa5338c",
+      "label": "tz1002/LLaVA-OneVision-1.5-Mid-Training-85M",
       "category": "dataset"
     },
     {
@@ -735053,6 +735073,11 @@
       "relationship": "related_models"
     },
     {
+      "source": "hf_ds_63a02c28f3334a6553d23fe0",
+      "target": "datasets/bigcode",
+      "relationship": "related_models"
+    },
+    {
       "source": "hf_ds_642912f7a760fe0bf37996b1",
       "target": "AlekseyKorshuk/vicuna-7b",
       "relationship": "related_models"
@@ -735110,6 +735135,11 @@
     {
       "source": "hf_ds_661823b590a8b6724f1c6534",
       "target": "datasets/HuggingFaceM4",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_66212f29fb07c3e05ad0432e",
+      "target": "datasets/HuggingFaceFW",
       "relationship": "related_models"
     },
     {
@@ -735280,6 +735310,16 @@
     {
       "source": "hf_ds_68f06f7cd53a33b04ceebb08",
       "target": "datasets/AiEDA",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_692dc013741d7eb4efaf4b65",
+      "target": "datasets/hasankursun",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6937cb3e145e00d96aa5338c",
+      "target": "datasets/tz1002",
       "relationship": "related_models"
     },
     {

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146212
+**Total Entities Tracked**: 146216
 
 ## Category Distribution
 
@@ -14,9 +14,9 @@
 - **tools**: 2100
 - **datasets**: 1463
 - **models**: 1190
-- **dataset**: 1113
+- **dataset**: 1117
 - **mcps**: 1100
-- **text-generation**: 996
+- **text-generation**: 995
 - **benchmarks**: 700
 - **cs.CV**: 248
 - **cs.CL**: 135
@@ -46,6 +46,7 @@
 - **q-fin.TR**: 2
 - **quant-ph**: 2
 - **stat.ME**: 2
+- **text-ranking**: 2
 - **cs.DC**: 1
 - **cs.LO**: 1
 - **cs.MM**: 1
@@ -57,7 +58,6 @@
 - **q-bio.NC**: 1
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
-- **text-ranking**: 1
 
 ## Source Distribution
 
@@ -66,38 +66,39 @@
 - **Hugging Face**: 2001
 - **OpenAI Blog**: 1025
 - **ArXiv**: 780
-- **HuggingFace Datasets**: 113
+- **HuggingFace Datasets**: 117
 - **GitHub Trending**: 51
 - **BAIR Blog**: 11
 
 ## Top Tags
 
-- **region:us**: 167
-- **text-generation**: 55
-- **library:datasets**: 49
-- **library:mlcroissant**: 49
-- **safetensors**: 49
-- **endpoints_compatible**: 47
-- **license:apache-2.0**: 47
-- **transformers**: 47
-- **language:en**: 44
-- **modality:text**: 44
+- **region:us**: 172
+- **text-generation**: 56
+- **library:datasets**: 51
+- **library:mlcroissant**: 51
+- **safetensors**: 50
+- **license:apache-2.0**: 49
+- **endpoints_compatible**: 48
+- **transformers**: 48
+- **modality:text**: 47
+- **language:en**: 45
 - **conversational**: 40
-- **library:polars**: 37
-- **format:parquet**: 33
+- **library:polars**: 39
+- **format:parquet**: 35
 - **license:mit**: 33
 - **text-generation-inference**: 27
 - **deploy:azure**: 25
 - **library:pandas**: 21
 - **en**: 20
 - **eval-results**: 20
-- **task_categories:text-generation**: 18
+- **task_categories:text-generation**: 20
+- **library:dask**: 18
 - **size_categories:n<1K**: 17
-- **library:dask**: 16
-- **modality:tabular**: 14
+- **modality:tabular**: 16
+- **license:other**: 13
 - **modality:image**: 12
-- **license:other**: 11
-- **qwen3**: 11
+- **qwen3**: 12
+- **license:odc-by**: 10
 - **multilinguality:monolingual**: 10
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
@@ -106,7 +107,6 @@
 - **arxiv:2505.09388**: 9
 - **fp8**: 9
 - **license:cc-by-4.0**: 9
-- **license:odc-by**: 9
 - **modality:video**: 9
 - **size_categories:10K<n<100K**: 8
 - **size_categories:1M<n<10M**: 8
