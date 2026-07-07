@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146282
+**Total Entities Tracked**: 146285
 
 ## Category Distribution
 
@@ -14,9 +14,9 @@
 - **tools**: 2100
 - **datasets**: 1473
 - **models**: 1194
-- **dataset**: 1117
+- **dataset**: 1119
 - **mcps**: 1100
-- **text-generation**: 995
+- **text-generation**: 996
 - **benchmarks**: 700
 - **cs.CV**: 270
 - **cs.CL**: 142
@@ -64,33 +64,33 @@
 
 - ****: 90245
 - **Stanford Alpaca**: 52000
-- **Hugging Face**: 2001
+- **Hugging Face**: 2002
 - **OpenAI Blog**: 1025
 - **ArXiv**: 830
-- **HuggingFace Datasets**: 117
+- **HuggingFace Datasets**: 119
 - **GitHub Trending**: 53
 - **BAIR Blog**: 11
 
 ## Top Tags
 
-- **region:us**: 172
-- **text-generation**: 56
+- **region:us**: 175
+- **text-generation**: 57
 - **library:datasets**: 51
 - **library:mlcroissant**: 51
-- **safetensors**: 50
+- **safetensors**: 51
+- **endpoints_compatible**: 49
 - **license:apache-2.0**: 49
-- **endpoints_compatible**: 48
-- **transformers**: 48
+- **transformers**: 49
 - **modality:text**: 47
 - **language:en**: 45
-- **conversational**: 40
+- **conversational**: 41
 - **library:polars**: 39
 - **format:parquet**: 35
-- **license:mit**: 33
+- **license:mit**: 34
 - **text-generation-inference**: 27
 - **deploy:azure**: 25
+- **en**: 21
 - **library:pandas**: 21
-- **en**: 20
 - **eval-results**: 20
 - **task_categories:text-generation**: 20
 - **library:dask**: 18
@@ -99,6 +99,7 @@
 - **license:other**: 13
 - **modality:image**: 12
 - **qwen3**: 12
+- **fp8**: 10
 - **license:odc-by**: 10
 - **multilinguality:monolingual**: 10
 - **pytorch**: 10
@@ -106,7 +107,6 @@
 - **source_datasets:original**: 10
 - **task_categories:robotics**: 10
 - **arxiv:2505.09388**: 9
-- **fp8**: 9
 - **license:cc-by-4.0**: 9
 - **modality:video**: 9
 - **size_categories:10K<n<100K**: 8

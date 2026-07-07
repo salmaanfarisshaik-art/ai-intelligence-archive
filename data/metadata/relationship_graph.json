@@ -138996,6 +138996,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_65c7e3da4451e58b8ded6212",
+      "label": "espnet/yodas",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_65ce59255f233e28db20fe4f",
       "label": "Kazimir-ai/text-to-image-prompts",
       "category": "dataset"
@@ -139368,6 +139373,11 @@
     {
       "id": "hf_ds_69f0c6101cc98d8ac04c03cd",
       "label": "jasperai/monet",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_69f623abadd8e8047bc039e9",
+      "label": "wegrthj/kbcpjv-v654-data",
       "category": "dataset"
     },
     {
@@ -146853,6 +146863,11 @@
     {
       "id": "hf_zai-org_GLM-5.1-FP8",
       "label": "zai-org/GLM-5.1-FP8",
+      "category": "text-generation"
+    },
+    {
+      "id": "hf_zai-org_GLM-5.2-FP8",
+      "label": "zai-org/GLM-5.2-FP8",
       "category": "text-generation"
     },
     {
@@ -735705,6 +735720,11 @@
     {
       "source": "hf_ds_6582e9185b0dec368695b712",
       "target": "datasets/osv5m",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_65c7e3da4451e58b8ded6212",
+      "target": "datasets/espnet",
       "relationship": "related_models"
     },
     {
