@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-07T16:29:57.005993+00:00
-**Warnings:** 940
+**Generated:** 2026-07-07T19:01:14.722393+00:00
+**Warnings:** 948
 **Errors:** 30
 
 ## Issues
@@ -978,3 +978,11 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1905.10615
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1908.07125
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.00475
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2502.13016
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2506.13131
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2509.00997
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2602.13521
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.02001
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2603.02081
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.23109
+- **[WARNING]** `cross_links`: Orphaned graph edge target: 2605.24096
