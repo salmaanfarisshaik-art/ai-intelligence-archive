@@ -1,9 +1,10 @@
 # Change Summary
 
-**Total Changes:** 171
+**Total Changes:** 180
 
 ## Added
 - docs/stat.ML.md
+- exports/csv/astro-ph.IM.csv
 - exports/csv/cs.CC.csv
 - exports/csv/cs.DB.csv
 - exports/csv/cs.DC.csv
@@ -28,6 +29,7 @@
 - exports/csv/quant-ph.csv
 - exports/csv/stat.ML.csv
 - exports/csv/text-ranking.csv
+- exports/json/astro-ph.IM.json
 - exports/json/cs.CC.json
 - exports/json/cs.DB.json
 - exports/json/cs.DC.json
@@ -52,6 +54,7 @@
 - exports/json/quant-ph.json
 - exports/json/stat.ML.json
 - exports/json/text-ranking.json
+- exports/markdown/astro-ph.IM.md
 - exports/markdown/cs.CC.md
 - exports/markdown/cs.DB.md
 - exports/markdown/cs.DC.md
@@ -77,17 +80,22 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.07.20260707_025756.zip
-- releases/v2026.07.07.20260707_025756/
+- releases/v2026.07.07.20260707_064715.zip
+- releases/v2026.07.07.20260707_064715/
 - site/
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -171,6 +179,7 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
