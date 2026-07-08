@@ -1,10 +1,10 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146372
+**Total Entities Tracked**: 146374
 
 ## Category Distribution
 
-- **news**: 42044
+- **news**: 42046
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
@@ -66,7 +66,7 @@
 - ****: 90274
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2002
-- **OpenAI Blog**: 1032
+- **OpenAI Blog**: 1034
 - **ArXiv**: 880
 - **HuggingFace Datasets**: 119
 - **GitHub Trending**: 53
@@ -77,9 +77,9 @@
 - **region:us**: 175
 - **text-generation**: 57
 - **safetensors**: 51
+- **library:datasets**: 50
+- **library:mlcroissant**: 50
 - **endpoints_compatible**: 49
-- **library:datasets**: 49
-- **library:mlcroissant**: 49
 - **license:apache-2.0**: 49
 - **transformers**: 49
 - **modality:text**: 47
@@ -96,10 +96,10 @@
 - **task_categories:text-generation**: 20
 - **library:dask**: 18
 - **modality:tabular**: 16
-- **size_categories:n<1K**: 15
+- **size_categories:n<1K**: 16
 - **license:other**: 13
 - **qwen3**: 13
-- **modality:image**: 11
+- **modality:image**: 12
 - **fp8**: 10
 - **license:odc-by**: 10
 - **multilinguality:monolingual**: 10
