@@ -84,12 +84,12 @@
 - **transformers**: 49
 - **modality:text**: 47
 - **language:en**: 45
-- **conversational**: 41
+- **conversational**: 42
 - **library:polars**: 39
 - **format:parquet**: 35
 - **license:mit**: 34
+- **text-generation-inference**: 29
 - **deploy:azure**: 27
-- **text-generation-inference**: 27
 - **en**: 21
 - **library:pandas**: 21
 - **eval-results**: 20
@@ -98,7 +98,7 @@
 - **modality:tabular**: 16
 - **size_categories:n<1K**: 15
 - **license:other**: 13
-- **qwen3**: 12
+- **qwen3**: 13
 - **modality:image**: 11
 - **fp8**: 10
 - **license:odc-by**: 10

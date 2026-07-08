@@ -83,8 +83,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.08.20260708_122034.zip
-- releases/v2026.07.08.20260708_122034/
+- releases/v2026.07.08.20260708_152110.zip
+- releases/v2026.07.08.20260708_152110/
 - site/
 
 ## Modified
