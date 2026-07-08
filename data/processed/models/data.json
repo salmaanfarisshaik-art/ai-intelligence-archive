@@ -200,7 +200,7 @@
       "createdAt": "2026-02-18T09:56:14.000Z",
       "modelId": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -610,7 +610,7 @@
       "createdAt": "2023-02-08T19:25:46.000Z",
       "modelId": "EleutherAI/pythia-160m"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1054,7 +1054,7 @@
       "createdAt": "2024-10-31T13:41:10.000Z",
       "modelId": "HuggingFaceTB/SmolLM2-135M-Instruct"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -3169,7 +3169,7 @@
       "createdAt": "2024-06-03T09:08:12.000Z",
       "modelId": "Qwen/Qwen2-1.5B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -3747,7 +3747,7 @@
       "createdAt": "2024-09-16T11:55:40.000Z",
       "modelId": "Qwen/Qwen2.5-7B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4228,7 +4228,7 @@
       "createdAt": "2025-04-27T03:40:08.000Z",
       "modelId": "Qwen/Qwen3-0.6B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4319,7 +4319,7 @@
       "createdAt": "2025-04-27T03:41:05.000Z",
       "modelId": "Qwen/Qwen3-1.7B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4403,14 +4403,15 @@
         "license:apache-2.0",
         "text-generation-inference",
         "endpoints_compatible",
-        "region:us"
+        "region:us",
+        "deploy:azure"
       ],
       "pipeline_tag": "text-generation",
       "library_name": "transformers",
       "createdAt": "2025-04-27T03:42:45.000Z",
       "modelId": "Qwen/Qwen3-14B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4603,7 +4604,7 @@
       "createdAt": "2025-04-27T03:43:05.000Z",
       "modelId": "Qwen/Qwen3-30B-A3B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4754,7 +4755,7 @@
       "createdAt": "2025-04-27T03:52:59.000Z",
       "modelId": "Qwen/Qwen3-32B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4828,7 +4829,7 @@
       "createdAt": "2025-04-27T03:41:29.000Z",
       "modelId": "Qwen/Qwen3-4B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4911,7 +4912,7 @@
     "raw_payload": {
       "_id": "6891e3bb084ce75acffb033d",
       "id": "Qwen/Qwen3-4B-Instruct-2507",
-      "likes": 894,
+      "likes": 895,
       "private": false,
       "downloads": 5377911,
       "tags": [
@@ -4933,7 +4934,7 @@
       "createdAt": "2025-08-05T10:58:03.000Z",
       "modelId": "Qwen/Qwen3-4B-Instruct-2507"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5041,7 +5042,7 @@
       "createdAt": "2025-04-27T03:42:21.000Z",
       "modelId": "Qwen/Qwen3-8B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5232,7 +5233,7 @@
       "createdAt": "2026-02-01T12:22:41.000Z",
       "modelId": "Qwen/Qwen3-Coder-Next-FP8"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5280,7 +5281,7 @@
       "createdAt": "2025-06-03T14:25:32.000Z",
       "modelId": "Qwen/Qwen3-Embedding-0.6B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5327,7 +5328,7 @@
       "createdAt": "2025-06-03T14:31:33.000Z",
       "modelId": "Qwen/Qwen3-Embedding-4B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5432,7 +5433,7 @@
       "createdAt": "2025-05-29T13:30:45.000Z",
       "modelId": "Qwen/Qwen3-Reranker-0.6B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5477,7 +5478,7 @@
       "createdAt": "2025-06-03T14:46:47.000Z",
       "modelId": "Qwen/Qwen3-Reranker-4B"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -6185,7 +6186,7 @@
       "createdAt": "2023-12-30T06:27:30.000Z",
       "modelId": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -6841,7 +6842,7 @@
       "createdAt": "2026-04-26T07:54:05.000Z",
       "modelId": "antirez/deepseek-v4-gguf"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -7967,7 +7968,7 @@
       "createdAt": "2025-01-20T03:46:07.000Z",
       "modelId": "deepseek-ai/DeepSeek-R1"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8261,7 +8262,7 @@
     "raw_payload": {
       "_id": "69e864e440a44c9fb7c54efc",
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 1706,
+      "likes": 1707,
       "private": false,
       "downloads": 2376993,
       "tags": [
@@ -8284,7 +8285,7 @@
       "createdAt": "2026-04-22T06:04:20.000Z",
       "modelId": "deepseek-ai/DeepSeek-V4-Flash"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8522,7 +8523,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "distilbert/distilgpt2"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8591,7 +8592,7 @@
       "createdAt": "2024-05-18T04:50:56.000Z",
       "modelId": "dphn/dolphin-2.9.1-yi-1.5-34b"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8712,7 +8713,7 @@
       "createdAt": "2022-05-11T08:25:17.000Z",
       "modelId": "facebook/opt-125m"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8895,7 +8896,7 @@
       "createdAt": "2026-06-17T18:27:16.000Z",
       "modelId": "farbodtavakkoli/OTel-LLM-E4B-IT"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9163,7 +9164,7 @@
       "createdAt": "2025-03-10T12:09:00.000Z",
       "modelId": "google/gemma-3-1b-it"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9201,7 +9202,7 @@
     "raw_payload": {
       "_id": "689252773b8900ddb9116aed",
       "id": "google/gemma-3-270m",
-      "likes": 1045,
+      "likes": 1046,
       "private": false,
       "downloads": 3805422,
       "tags": [
@@ -9255,7 +9256,7 @@
       "createdAt": "2025-08-05T18:50:31.000Z",
       "modelId": "google/gemma-3-270m"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9552,7 +9553,7 @@
       "createdAt": "2025-04-29T21:47:13.000Z",
       "modelId": "hmellor/tiny-random-LlamaForCausalLM"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -11523,7 +11524,7 @@
       "createdAt": "2024-09-18T15:12:47.000Z",
       "modelId": "meta-llama/Llama-3.2-1B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -12669,7 +12670,7 @@
       "createdAt": "2026-05-01T01:26:06.000Z",
       "modelId": "nvidia/Gemma-4-26B-A4B-NVFP4"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13400,7 +13401,7 @@
       "createdAt": "2026-05-27T18:09:46.000Z",
       "modelId": "nvidia/Qwen3.6-35B-A3B-NVFP4"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13468,7 +13469,7 @@
     "raw_payload": {
       "_id": "621ffdc036468d709f17434d",
       "id": "openai-community/gpt2",
-      "likes": 3335,
+      "likes": 3334,
       "private": false,
       "downloads": 13940663,
       "tags": [
@@ -13496,7 +13497,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "openai-community/gpt2"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13637,7 +13638,7 @@
       "createdAt": "2025-08-04T22:33:06.000Z",
       "modelId": "openai/gpt-oss-120b"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13684,7 +13685,7 @@
       "createdAt": "2025-08-04T22:33:29.000Z",
       "modelId": "openai/gpt-oss-20b"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -15198,7 +15199,7 @@
       "createdAt": "2024-11-25T15:06:15.000Z",
       "modelId": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16690,7 +16691,7 @@
     "raw_payload": {
       "_id": "696dcefa357a4070754b027e",
       "id": "zai-org/GLM-4.7-Flash",
-      "likes": 1771,
+      "likes": 1772,
       "private": false,
       "downloads": 2703672,
       "tags": [
@@ -16713,7 +16714,7 @@
       "createdAt": "2026-01-19T06:28:10.000Z",
       "modelId": "zai-org/GLM-4.7-Flash"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16774,7 +16775,7 @@
       "createdAt": "2026-02-11T04:05:41.000Z",
       "modelId": "zai-org/GLM-5-FP8"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16843,14 +16844,15 @@
         "license:mit",
         "endpoints_compatible",
         "fp8",
-        "region:us"
+        "region:us",
+        "deploy:azure"
       ],
       "pipeline_tag": "text-generation",
       "library_name": "transformers",
       "createdAt": "2026-06-16T07:20:33.000Z",
       "modelId": "zai-org/GLM-5.2-FP8"
     },
-    "retrieval_timestamp": "2026-07-08T10:15:35Z",
+    "retrieval_timestamp": "2026-07-08T12:20:13Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -17355,7 +17357,7 @@
   {
     "_id": "671f4b55aa2e76885f381bc3",
     "id": "ai4bharat/indic-parler-tts",
-    "likes": 253,
+    "likes": 254,
     "private": false,
     "downloads": 772585,
     "tags": [
@@ -18800,7 +18802,7 @@
   {
     "_id": "65f58be05f27918caf1237fe",
     "id": "BAAI/bge-reranker-v2-gemma",
-    "likes": 85,
+    "likes": 86,
     "private": false,
     "downloads": 591545,
     "tags": [
@@ -20613,7 +20615,7 @@
   {
     "_id": "6a210f1c9a4c02e5012e4e56",
     "id": "bosonai/higgs-tts-3-4b",
-    "likes": 612,
+    "likes": 613,
     "private": false,
     "downloads": 133777,
     "tags": [
@@ -20987,7 +20989,7 @@
   {
     "_id": "69014076083089f336605ed3",
     "id": "ByteDance/Ouro-1.4B",
-    "likes": 103,
+    "likes": 104,
     "private": false,
     "downloads": 71552,
     "tags": [
@@ -22395,7 +22397,7 @@
   {
     "_id": "6a3cb50c4f7477d7ac6fcb42",
     "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-    "likes": 788,
+    "likes": 790,
     "private": false,
     "downloads": 502663,
     "tags": [
@@ -22431,7 +22433,8 @@
       "license:mit",
       "eval-results",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -22470,7 +22473,7 @@
   {
     "_id": "6a37681bb57803e616606089",
     "id": "deepreinforce-ai/Ornith-1.0-9B",
-    "likes": 405,
+    "likes": 407,
     "private": false,
     "downloads": 136037,
     "tags": [
@@ -23137,7 +23140,7 @@
   {
     "_id": "69e864e440a44c9fb7c54efc",
     "id": "deepseek-ai/DeepSeek-V4-Flash",
-    "likes": 1706,
+    "likes": 1707,
     "private": false,
     "downloads": 2376993,
     "tags": [
@@ -24233,7 +24236,7 @@
   {
     "_id": "6a354baa92da817eb8201000",
     "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-    "likes": 728,
+    "likes": 731,
     "private": false,
     "downloads": 152516,
     "tags": [
@@ -25688,7 +25691,7 @@
   {
     "_id": "689252773b8900ddb9116aed",
     "id": "google/gemma-3-270m",
-    "likes": 1045,
+    "likes": 1046,
     "private": false,
     "downloads": 3805422,
     "tags": [
@@ -27227,7 +27230,7 @@
   {
     "_id": "6a3d672c85afca5b7a17138a",
     "id": "huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF",
-    "likes": 99,
+    "likes": 101,
     "private": false,
     "downloads": 64769,
     "tags": [
@@ -28721,7 +28724,7 @@
   {
     "_id": "69da2a69720752e4db99417d",
     "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-    "likes": 912,
+    "likes": 913,
     "private": false,
     "downloads": 86717,
     "tags": [
@@ -35011,7 +35014,7 @@
   {
     "_id": "661f97d48e7f3438386f755d",
     "id": "meta-llama/Meta-Llama-3-8B",
-    "likes": 6591,
+    "likes": 6592,
     "private": false,
     "downloads": 1399889,
     "tags": [
@@ -35502,7 +35505,8 @@
       "eval-results",
       "text-generation-inference",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -35515,7 +35519,7 @@
   {
     "_id": "67b52d4a824d77f2bba8b0af",
     "id": "microsoft/Phi-4-mini-instruct",
-    "likes": 787,
+    "likes": 788,
     "private": false,
     "downloads": 540576,
     "tags": [
@@ -36924,7 +36928,7 @@
   {
     "_id": "69035c0bbda1be3b10aa69d6",
     "id": "moonshotai/Kimi-Linear-48B-A3B-Instruct",
-    "likes": 565,
+    "likes": 566,
     "private": false,
     "downloads": 71928,
     "tags": [
@@ -38013,7 +38017,7 @@
   {
     "_id": "69ce9da280df2f332faf7588",
     "id": "nvidia/Gemma-4-31B-IT-NVFP4",
-    "likes": 526,
+    "likes": 527,
     "private": false,
     "downloads": 1644077,
     "tags": [
@@ -38043,7 +38047,7 @@
   {
     "_id": "69ff99f45091037a538cd0e7",
     "id": "nvidia/GLM-5.1-NVFP4",
-    "likes": 39,
+    "likes": 40,
     "private": false,
     "downloads": 84618,
     "tags": [
@@ -38429,7 +38433,7 @@
   {
     "_id": "69dd686896792db3a235003c",
     "id": "nvidia/MiniMax-M2.7-NVFP4",
-    "likes": 62,
+    "likes": 63,
     "private": false,
     "downloads": 103086,
     "tags": [
@@ -38464,7 +38468,7 @@
   {
     "_id": "6a3af12f59865322f24990cc",
     "id": "nvidia/MiniMax-M3-NVFP4",
-    "likes": 54,
+    "likes": 55,
     "private": false,
     "downloads": 96665,
     "tags": [
@@ -38878,7 +38882,8 @@
       "license:other",
       "eval-results",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -39296,7 +39301,8 @@
       "endpoints_compatible",
       "8-bit",
       "modelopt",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -39724,7 +39730,7 @@
   {
     "_id": "6a04e992a8a8ae467baa70e8",
     "id": "nvidia/Qwen3.5-122B-A10B-NVFP4",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "downloads": 89426,
     "tags": [
@@ -40174,7 +40180,7 @@
   {
     "_id": "621ffdc036468d709f17434d",
     "id": "openai-community/gpt2",
-    "likes": 3335,
+    "likes": 3334,
     "private": false,
     "downloads": 13940663,
     "tags": [
@@ -42301,7 +42307,7 @@
   {
     "_id": "66e81c0ecfd2f50991047e92",
     "id": "Qwen/Qwen2.5-0.5B-Instruct",
-    "likes": 552,
+    "likes": 553,
     "private": false,
     "downloads": 4890291,
     "tags": [
@@ -43169,7 +43175,7 @@
   {
     "_id": "66e98b007a7dc0987822b768",
     "id": "Qwen/Qwen2.5-7B-Instruct-GGUF",
-    "likes": 167,
+    "likes": 168,
     "private": false,
     "downloads": 99520,
     "tags": [
@@ -44025,7 +44031,7 @@
   {
     "_id": "66eabc37bcfa5271dcd6824a",
     "id": "Qwen/Qwen2.5-Coder-7B-Instruct-GGUF",
-    "likes": 311,
+    "likes": 310,
     "private": false,
     "downloads": 153526,
     "tags": [
@@ -44462,7 +44468,8 @@
       "license:apache-2.0",
       "text-generation-inference",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -45333,7 +45340,7 @@
   {
     "_id": "6891e3bb084ce75acffb033d",
     "id": "Qwen/Qwen3-4B-Instruct-2507",
-    "likes": 894,
+    "likes": 895,
     "private": false,
     "downloads": 5377911,
     "tags": [
@@ -45417,7 +45424,7 @@
   {
     "_id": "6891e4c34b616cd1bb82f50e",
     "id": "Qwen/Qwen3-4B-Thinking-2507",
-    "likes": 600,
+    "likes": 601,
     "private": false,
     "downloads": 529167,
     "tags": [
@@ -45593,7 +45600,7 @@
   {
     "_id": "6815b8d70e2525074c399975",
     "id": "Qwen/Qwen3-8B-GGUF",
-    "likes": 215,
+    "likes": 216,
     "private": false,
     "downloads": 93753,
     "tags": [
@@ -46156,7 +46163,7 @@
   {
     "_id": "6a394b81842d4413d3466234",
     "id": "Qwen/Qwen-AgentWorld-35B-A3B",
-    "likes": 561,
+    "likes": 562,
     "private": false,
     "downloads": 60736,
     "tags": [
@@ -48251,7 +48258,7 @@
   {
     "_id": "69526aeb7f232dfc4e98567f",
     "id": "skt/A.X-K1",
-    "likes": 286,
+    "likes": 287,
     "private": false,
     "downloads": 33326,
     "tags": [
@@ -51904,7 +51911,7 @@
   {
     "_id": "6a31e8904f7b291a94bb9671",
     "id": "unsloth/GLM-5.2-GGUF",
-    "likes": 524,
+    "likes": 525,
     "private": false,
     "downloads": 422319,
     "tags": [
@@ -52042,7 +52049,7 @@
   {
     "_id": "68923b71467354ab9147aa88",
     "id": "unsloth/gpt-oss-20b-GGUF",
-    "likes": 729,
+    "likes": 730,
     "private": false,
     "downloads": 429915,
     "tags": [
@@ -54232,7 +54239,7 @@
   {
     "_id": "6a3c6bff8e000a53a10a0777",
     "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
-    "likes": 156,
+    "likes": 158,
     "private": false,
     "downloads": 377256,
     "tags": [
@@ -55169,7 +55176,7 @@
   {
     "_id": "6a3487efabb86916010f2c23",
     "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-    "likes": 1085,
+    "likes": 1084,
     "private": false,
     "downloads": 384383,
     "tags": [
@@ -55234,7 +55241,7 @@
   {
     "_id": "6a29111236f02ab48e1a27e7",
     "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-    "likes": 2644,
+    "likes": 2645,
     "private": false,
     "downloads": 674977,
     "tags": [
@@ -55611,7 +55618,8 @@
       "license:mit",
       "eval-results",
       "endpoints_compatible",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -55624,7 +55632,7 @@
   {
     "_id": "696dcefa357a4070754b027e",
     "id": "zai-org/GLM-4.7-Flash",
-    "likes": 1771,
+    "likes": 1772,
     "private": false,
     "downloads": 2703672,
     "tags": [
@@ -55669,7 +55677,8 @@
       "eval-results",
       "endpoints_compatible",
       "compressed-tensors",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -55767,7 +55776,7 @@
   {
     "_id": "6a30fda88514bfa5f01a33b6",
     "id": "zai-org/GLM-5.2",
-    "likes": 3624,
+    "likes": 3631,
     "private": false,
     "downloads": 281584,
     "tags": [
@@ -55812,7 +55821,8 @@
       "license:mit",
       "endpoints_compatible",
       "fp8",
-      "region:us"
+      "region:us",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
