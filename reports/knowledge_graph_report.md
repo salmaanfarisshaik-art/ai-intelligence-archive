@@ -1,9 +1,9 @@
 # Knowledge Graph Report
         
-Generated at: 2026-07-08T04:14:48Z
+Generated at: 2026-07-08T07:29:23Z
 
 ## Graph Statistics
-- Total Nodes: 146368
+- Total Nodes: 146372
 - Total Edges: 487
 
 ## Node Types
@@ -13,7 +13,7 @@ Generated at: 2026-07-08T04:14:48Z
 - datasets: 2608
 - ide_rules: 10200
 - mcps: 1100
-- models: 2205
+- models: 2209
 - news: 41000
 - prompts: 49252
 - tools: 4253
