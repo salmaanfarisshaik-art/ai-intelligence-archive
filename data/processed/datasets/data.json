@@ -3228,7 +3228,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2023-05-26T18:47:34.000Z",
-    "likes": 1819,
+    "likes": 1820,
     "private": false,
     "sha": "09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for HH-RLHF\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nThis repository provides access to two different kinds of data:\n\nHuman preference data about helpfulness and harmlessness from Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. These data are meant to train preference (or reward) models for subsequent RLHF training. These data are not meant for supervised training of dialogue agents. Training dialogue agents on these data is likely… See the full description on the dataset page: https://huggingface.co/datasets/Anthropic/hh-rlhf.",
@@ -6926,7 +6926,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2022-10-24T20:31:59.000Z",
-    "likes": 33,
+    "likes": 34,
     "private": false,
     "sha": "dc2ce3bd19d8e323365bc1a244f3dd32e02d4f22",
     "citation": "@article{DBLP:journals/corr/SeeLM17,\n  author    = {Abigail See and\n               Peter J. Liu and\n               Christopher D. Manning},\n  title     = {Get To The Point: Summarization with Pointer-Generator Networks},\n  journal   = {CoRR},\n  volume    = {abs/1704.04368},\n  year      = {2017},\n  url       = {http://arxiv.org/abs/1704.04368},\n  archivePrefix = {arXiv},\n  eprint    = {1704.04368},\n  timestamp = {Mon, 13 Aug 2018 16:46:08 +0200},\n  biburl    = {https://dblp.org/rec/bib/journals/corr/SeeLM17},\n  bibsource = {dblp computer science bibliography, https://dblp.org}\n}\n\n@inproceedings{hermann2015teaching,\n  title={Teaching machines to read and comprehend},\n  author={Hermann, Karl Moritz and Kocisky, Tomas and Grefenstette, Edward and Espeholt, Lasse and Kay, Will and Suleyman, Mustafa and Blunsom, Phil},\n  booktitle={Advances in neural information processing systems},\n  pages={1693--1701},\n  year={2015}\n}",
@@ -11131,10 +11131,10 @@
     "author": "eddmpython",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T12:47:42.000Z",
+    "lastModified": "2026-07-09T14:41:18.000Z",
     "likes": 9,
     "private": false,
-    "sha": "08760a4492551109284cbf7c36222c942442c4da",
+    "sha": "dbc3acf7a7bf2b5eb73f2866138a27944cfecb7b",
     "description": "\n\n\n\n\n\nDartLab 데이터\n\n종목코드 하나로 읽는 한국 DART + 미국 SEC EDGAR 공시 데이터\nStructured Korean (DART) and US (SEC EDGAR) disclosure data, ready as Parquet.\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t무엇인가요?\n\t\n\n\n\nDartLab이 한국 DART 전자공시와 미국 SEC EDGAR 공시를 종목코드 하나로 비교 가능한 표로 가공해 Parquet으로 올려둔 데이터셋입니다.\n한국 전 상장사(약 2,700사)와 미국 주요 상장사(약 1,000사)의 재무제표, 사업보고서 본문, 정형 공시, 주가, 거시지표가 들어 있습니다.\n이 데이터셋은 DartLab의 데이터 층입니다. dartlab.Company(\"005930\")을 호출하면 라이브러리가 필요한 parquet을 여기서 자동으로 내려받습니다. 숫자는 원문 그대로 보존합니다(반올림·추정·보간 없음).\n\n\t\n\t\t\n\t\n\t\n\t\t코드 없이도 바로 씁니다… See the full description on the dataset page: https://huggingface.co/datasets/eddmpython/dartlab-data.",
     "downloads": 67364,
     "tags": [
@@ -13427,7 +13427,7 @@
     "disabled": false,
     "gated": "auto",
     "lastModified": "2026-04-23T16:39:07.000Z",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "sha": "ce3eaa38c93e8ef0520d226be7ad21a22efb78a5",
     "description": "\n  \n    MR-RATE: A Vision-Language Foundation Model and Dataset for Magnetic Resonance Imaging\n  \n\n\n  \n    \n  \n  \n    \n  \n  \n    \n  \n  \n  \n    \n    \n  \n\n\nWelcome to the official page for MR-RATE, a pioneering vision-language model and 3D medical imaging dataset that pairs textual reports with brain and spine MRI volumes. Following the approach of CT-RATE, the first 3D medical imaging dataset to pair images with textual reports, MR-RATE offers brain and spine MRI volumes matched with… See the full description on the dataset page: https://huggingface.co/datasets/Forithmus/MR-RATE.",
@@ -13951,7 +13951,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-17T02:57:46.000Z",
-    "likes": 1,
+    "likes": 2,
     "private": false,
     "sha": "fa87d076fd094b4a51344402b6bb39effd527bd0",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tPolymarket Quant Desk\n\t\n\nAn automated suite for analyzing and executing trade strategies against Polymarket.\nThis Hugging Face dataset is the companion to the project's published source code.\n",
@@ -14642,7 +14642,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-29T15:10:20.000Z",
-    "likes": 576,
+    "likes": 577,
     "private": false,
     "sha": "e05c417852fc59fd8da758e68b352732423ca0cb",
     "description": "\n  \n\n\n\n  \n    \n      \n        Glint Research Dataset Card\n        Fable 5 Pi Agent Traces\n        A compact, high-signal corpus of Fable 5 coding-agent traces converted into Hugging Face Agent Traces / Pi-compatible sessions for Data Studio inspection, tool-use policy learning, and reasoning/action distillation.\n      \n      \n        Primary Config\n        pi_agent/train\n        Agent Trace preview enabled\n      \n    \n    \n      4,665 Pi trace sessions\n      60 source sessions\n      3,799 tool… See the full description on the dataset page: https://huggingface.co/datasets/Glint-Research/Fable-5-traces.",
@@ -16229,10 +16229,10 @@
     "author": "hf-doc-build",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:46:31.000Z",
+    "lastModified": "2026-07-09T15:57:17.000Z",
     "likes": 40,
     "private": false,
-    "sha": "545950fd676cec8d03a8f63a36eac13863ad107e",
+    "sha": "d86fbbd3e08d0a47124b5160077028117dab61e5",
     "description": "This repo contains all the docs published on https://huggingface.co/docs.\nThe docs are generated with https://github.com/huggingface/doc-builder.\n",
     "downloads": 212852,
     "tags": [
@@ -16701,10 +16701,10 @@
     "author": "hiepp2",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T10:17:52.000Z",
+    "lastModified": "2026-07-09T14:33:50.000Z",
     "likes": 1,
     "private": false,
-    "sha": "235690dac68a9f041c27b6ff750f98ada18480e6",
+    "sha": "fb58774f6e980591afe00c40a3a28b55e9b57832",
     "description": "\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset summary\n\t\n\nMixture-of-Thoughts is a curated dataset of 350k verified reasoning traces distilled from DeepSeek-R1. The dataset spans tasks in mathematics, coding, and science, and is designed to teach language models to reason step-by-step. It was used in the Open R1 project to train OpenR1-Distill-7B, an SFT model that replicates the reasoning capabilities of deepseek-ai/DeepSeek-R1-Distill-Qwen-7B from the same base model.\nTo load the dataset, run:\nfrom datasets import… See the full description on the dataset page: https://huggingface.co/datasets/hiepp2/tvp4.",
     "downloads": 49359,
     "tags": [
@@ -16831,10 +16831,10 @@
     "author": "hjq766",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T09:13:03.000Z",
+    "lastModified": "2026-07-09T15:57:17.000Z",
     "likes": 0,
     "private": false,
-    "sha": "c8238522d1c40e6f27a2dd2b66c36b9972086105",
+    "sha": "aa920920317a425f934466bf0598809155480b3d",
     "downloads": 69864,
     "tags": [
       "size_categories:1K<n<10K",
@@ -22835,10 +22835,10 @@
     "author": "i998979",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:48:19.000Z",
+    "lastModified": "2026-07-09T16:26:19.000Z",
     "likes": 20,
     "private": false,
-    "sha": "405d37dbadadf9e39266d4844218f5a8f0a7fd6f",
+    "sha": "33a881605f47f3587c75ad80c8ab0052b8fca8e8",
     "downloads": 28418,
     "tags": [
       "region:us"
@@ -25856,10 +25856,10 @@
     "author": "k9cli",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-08T19:15:24.000Z",
+    "lastModified": "2026-07-09T16:25:24.000Z",
     "likes": 2,
     "private": false,
-    "sha": "b90574b6ea0ff221c56c5cc903461a098aa4a072",
+    "sha": "617e6c80b10076c6ed377fcb91c7c457a566f200",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tvideo-vec2wav2-tokenizer\n\t\n\nProduction-ready pipeline (Python package video_vec2wav2_tokenizer, CLI command\nvideo2dataset) that turns a folder of videos into clean AI training datasets\nfor speech recognition (ASR) and text-to-speech (TTS).\nvideos  ──►  audio (16 kHz mono PCM)  ──►  whisper transcript  ──►  clips  ──►  metadata.csv / dataset.jsonl / tts_metadata.csv / report.json\n\n\nVideo processing — recursive scan of mp4 / mkv / avi / mov / webm, FFmpeg\naudio extraction to mono ·… See the full description on the dataset page: https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer.",
     "downloads": 390583,
     "tags": [
@@ -25919,10 +25919,10 @@
     "author": "KakologArchives",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:47:38.000Z",
+    "lastModified": "2026-07-09T16:26:37.000Z",
     "likes": 63,
     "private": false,
-    "sha": "db4c1e535bcf94463c47833596f83cf39b9e247f",
+    "sha": "093e9d0d0d560a242e8d2564765ff5c96c1f886d",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
     "downloads": 2341735,
     "tags": [
@@ -29646,7 +29646,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-01-05T13:24:37.000Z",
-    "likes": 195,
+    "likes": 196,
     "private": false,
     "sha": "0f7faf33a3908546c6fd5b73a660e0f8ff173c2f",
     "description": "\n\t\n\t\t\n\t\tDataset Card for \"trivia_qa\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nTriviaqQA is a reading comprehension dataset containing over 650K\nquestion-answer-evidence triples. TriviaqQA includes 95K question-answer\npairs authored by trivia enthusiasts and independently gathered evidence\ndocuments, six per question on average, that provide high quality distant\nsupervision for answering the questions.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore Information Needed\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nEnglish.… See the full description on the dataset page: https://huggingface.co/datasets/mandarjoshi/trivia_qa.",
@@ -30760,7 +30760,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-09-25T09:43:02.000Z",
-    "likes": 43,
+    "likes": 44,
     "private": false,
     "sha": "78ea3bdbdeec2bdcd6afa5420915d8a22f23ed99",
     "description": "\n\t\n\t\t\n\t\tGaia2\n\t\n\nPaper | Code | Project Page\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGaia2 is a benchmark dataset for evaluating AI agent capabilities in simulated environments. The dataset contains 800 scenarios that test agent performance in environments where time flows continuously and events occur dynamically.\nThe dataset evaluates seven core capabilities: Execution (multi-step planning and state changes), Search (information gathering and synthesis), Adaptability (dynamic response to environmental… See the full description on the dataset page: https://huggingface.co/datasets/meta-agents-research-environments/gaia2.",
@@ -30839,10 +30839,10 @@
     "author": "Metanova",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T12:40:35.000Z",
+    "lastModified": "2026-07-09T16:17:10.000Z",
     "likes": 0,
     "private": false,
-    "sha": "e2bd22228f3bba76d0c44fe18bdd4344e196a05f",
+    "sha": "a17058ab1e94b9af2e67ce681e1eeca34090bbda",
     "downloads": 122866,
     "tags": [
       "region:us"
@@ -31038,10 +31038,10 @@
     "author": "MINT-SJTU",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:28:11.000Z",
+    "lastModified": "2026-07-09T15:54:01.000Z",
     "likes": 8,
     "private": false,
-    "sha": "fb00ddc5ba0864f496d2f0d7576f4b413ac934c5",
+    "sha": "7fc4eca2b1fa14a0fbd54fdfbfaf9d19294c8927",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tRW-RL Dataset: Real-World Reinforcement Learning for Robots\n\t\n\n\n  \n    \n  \n  \n    \n  \n  \n  \n\n\nRW-RL Dataset is a real-world robot interaction dataset released by Boden Intelligence, Junpu Innovation Center, and the MINT Lab at Shanghai Jiao Tong University. It is designed for a bottleneck that imitation-learning-only datasets do not directly solve: how can robot policies keep improving in the physical world after they leave the ideal demonstration trajectory?\nThe broader RW-RL data… See the full description on the dataset page: https://huggingface.co/datasets/MINT-SJTU/RW-RL-Dataset.",
     "downloads": 69520,
     "tags": [
@@ -31944,10 +31944,10 @@
     "author": "mteb",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:28:46.000Z",
+    "lastModified": "2026-07-09T15:11:55.000Z",
     "likes": 7,
     "private": false,
-    "sha": "7358fe80d85b454fecfce7bc14d832dc7250cdb1",
+    "sha": "98ff762ccbe009236ab4893d08253fa92102bbda",
     "downloads": 502130,
     "tags": [
       "size_categories:1M<n<10M",
@@ -32321,10 +32321,10 @@
     "author": "mvp-lab",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:47:44.000Z",
+    "lastModified": "2026-07-09T16:19:15.000Z",
     "likes": 0,
     "private": false,
-    "sha": "373c40187a0cdbec77e2f50f57c2ea184e884acd",
+    "sha": "39963cceb556c27c89a41ca0845a53e3be1f515f",
     "downloads": 34270,
     "tags": [
       "region:us"
@@ -35319,7 +35319,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-03-23T10:18:13.000Z",
-    "likes": 1434,
+    "likes": 1435,
     "private": false,
     "sha": "740312add88f781978c0658806c59bc2815b9866",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for GSM8K\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ − ×÷) to… See the full description on the dataset page: https://huggingface.co/datasets/openai/gsm8k.",
@@ -35833,10 +35833,10 @@
     "author": "Orannue",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:48:21.000Z",
+    "lastModified": "2026-07-09T16:25:40.000Z",
     "likes": 3,
     "private": false,
-    "sha": "b57ef2bcfad173169e51cd532c83a6e685ece1d2",
+    "sha": "3345f86674be4af19e7a582eaaa332bf03aeb800",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tYouTube Video Downloads\n\t\n\nThis dataset contains locally downloaded YouTube video files from /data/youtube_downloads.\n\nSource files scanned: 88549\nUploaded unique filenames: 87367\nDuplicate filenames resolved: 1182\nSelected video bytes: 7103828648301\nManifest rows: 87367\n\nFiles are stored under videos/. Metadata is stored under metadata/.\nmetadata/manifest.csv includes these columns:\ntarget_path, filename, video_id, title, duration_seconds, duration, width, height, exact_width… See the full description on the dataset page: https://huggingface.co/datasets/Orannue/dataset.",
     "downloads": 75856,
     "tags": [
@@ -36573,10 +36573,10 @@
     "author": "phuckhang384234",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:05:03.000Z",
+    "lastModified": "2026-07-09T16:04:57.000Z",
     "likes": 0,
     "private": false,
-    "sha": "16e1fd75f5dabf716e3fdfc9e904e3e504a006ab",
+    "sha": "740e226a921f580fa48a414075667fac047520c0",
     "downloads": 58181,
     "tags": [
       "region:us"
@@ -37719,10 +37719,10 @@
     "author": "quanghai34234",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T10:37:10.000Z",
+    "lastModified": "2026-07-09T14:17:47.000Z",
     "likes": 0,
     "private": false,
-    "sha": "0464d023a99d55e7677bcf5f4e7a7e276252187d",
+    "sha": "3d305f5a5a51e7db942fc5adbb3875a3caa65b60",
     "downloads": 28881,
     "tags": [
       "region:us"
@@ -38730,10 +38730,10 @@
     "author": "rl-llm-wiki",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T08:58:29.000Z",
+    "lastModified": "2026-07-09T16:04:08.000Z",
     "likes": 6,
     "private": false,
-    "sha": "72d833b847f9e0e1a212627ca6b9f860616c3c2d",
+    "sha": "e1b83994cdbf28d8f529b1a5360a9df86a948605",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tRL-for-LLMs Wiki\n\t\n\nAn expert-level, citation-backed knowledge base on reinforcement learning for\nlarge language models — RLHF, DPO and offline preference optimization, reward\nmodeling, RLVR and reasoning, training systems, and the failure modes — built\ncollaboratively by autonomous agents. Each topic article is a deep dive written\nso you can learn the topic from it without reading the underlying papers, with\nevery non-obvious claim cited to a source. Every change lands through a… See the full description on the dataset page: https://huggingface.co/datasets/rl-llm-wiki/knowledge-base.",
     "downloads": 31109,
     "tags": [
@@ -39847,7 +39847,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-01-04T16:49:18.000Z",
-    "likes": 735,
+    "likes": 736,
     "private": false,
     "sha": "b08601e04326c79dfdd32d625aee71d232d685c3",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
@@ -40979,6 +40979,41 @@
     "createdAt": "2026-05-09T07:56:12.000Z",
     "key": "",
     "unique_id": "dataset_shaunmarvell_qvhighlights_1fps",
+    "schema_version": "1.0"
+  },
+  {
+    "_id": "656f98786871b53dba86b76b",
+    "id": "shenberg1/aishell3",
+    "author": "shenberg1",
+    "disabled": false,
+    "gated": "auto",
+    "lastModified": "2023-12-05T23:14:33.000Z",
+    "likes": 5,
+    "private": false,
+    "sha": "ec2f6f8f8c77d62fb540d2d820a5b42a224a90bb",
+    "downloads": 23162,
+    "paperswithcode_id": "aishell-3",
+    "tags": [
+      "task_categories:automatic-speech-recognition",
+      "task_categories:text-to-speech",
+      "task_categories:audio-classification",
+      "language:zh",
+      "license:apache-2.0",
+      "size_categories:10K<n<100K",
+      "format:audiofolder",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us",
+      "audio",
+      "speech",
+      "mandarin",
+      "pinyin"
+    ],
+    "createdAt": "2023-12-05T21:39:04.000Z",
+    "key": "",
+    "unique_id": "dataset_shenberg1_aishell3",
     "schema_version": "1.0"
   },
   {
@@ -46395,10 +46430,10 @@
     "author": "wegrthj",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-09T13:44:34.000Z",
+    "lastModified": "2026-07-09T16:24:46.000Z",
     "likes": 4,
     "private": false,
-    "sha": "a7c71c515ee9979041d0a6859ae0ac96d756e54c",
+    "sha": "54afacad0227773aea2d3a1a9459caa90c591a7a",
     "downloads": 28336,
     "tags": [
       "region:us"
@@ -46687,7 +46722,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-01-09T09:40:51.000Z",
-    "likes": 1273,
+    "likes": 1274,
     "private": false,
     "sha": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Wikimedia Wikipedia\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nWikipedia dataset containing cleaned articles of all languages.\nThe dataset is built from the Wikipedia dumps (https://dumps.wikimedia.org/)\nwith one subset per language, each containing a single train split.\nEach example contains the content of one full Wikipedia article with cleaning to strip\nmarkdown and unwanted sections (references, etc.).\nAll language subsets have already been processed for recent dump… See the full description on the dataset page: https://huggingface.co/datasets/wikimedia/wikipedia.",
@@ -47565,7 +47600,7 @@
     "disabled": false,
     "gated": "auto",
     "lastModified": "2026-07-02T20:47:44.000Z",
-    "likes": 80,
+    "likes": 81,
     "private": false,
     "sha": "29136bc9b9e38d320b00ffcddbbe4cd0e3278c58",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tABC-130k\n\t\n\nABC-130k is the largest open-source robot teleoperation dataset. It contains\nbimanual manipulation trajectories collected on two-arm YAM stations. Episodes\nare distributed as MCAP files, with subtask annotations kept as separate\nartifacts so they can be revised or extended independently of the underlying\nepisode data. For details on the accompanying paper, see abc.bot.\nPlease see the GitHub repo here for code to\ntrain and deploy with this dataset.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/XDOF/ABC-130k.",
@@ -49729,7 +49764,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-04T06:53:11.000Z",
     "links": {
       "related_models": [
@@ -49784,7 +49819,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-18T15:31:34.000Z",
     "links": {
       "related_models": [
@@ -49848,7 +49883,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-30T07:41:18.000Z",
     "links": {
       "related_models": [
@@ -49897,7 +49932,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-07-10T15:23:17.000Z",
     "links": {
       "related_models": [
@@ -49956,7 +49991,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-03-08T20:36:26.000Z",
     "links": {
       "related_models": [
@@ -50160,7 +50195,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-04T16:49:18.000Z",
-      "likes": 735,
+      "likes": 736,
       "private": false,
       "sha": "b08601e04326c79dfdd32d625aee71d232d685c3",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
@@ -50191,7 +50226,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-04T16:49:18.000Z",
     "links": {
       "related_models": [
@@ -50390,7 +50425,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-09T19:14:03.000Z",
     "links": {
       "related_models": [
@@ -50435,7 +50470,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-08T12:37:12.000Z",
     "links": {
       "related_models": [],
@@ -50477,7 +50512,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-06-13T08:13:44.000Z",
     "links": {
       "related_models": [],
@@ -50521,7 +50556,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2022-10-20T15:01:14.000Z",
     "links": {
       "related_models": [],
@@ -50547,7 +50582,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-09T09:40:51.000Z",
-      "likes": 1273,
+      "likes": 1274,
       "private": false,
       "sha": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Wikimedia Wikipedia\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nWikipedia dataset containing cleaned articles of all languages.\nThe dataset is built from the Wikipedia dumps (https://dumps.wikimedia.org/)\nwith one subset per language, each containing a single train split.\nEach example contains the content of one full Wikipedia article with cleaning to strip\nmarkdown and unwanted sections (references, etc.).\nAll language subsets have already been processed for recent dump… See the full description on the dataset page: https://huggingface.co/datasets/wikimedia/wikipedia.",
@@ -50893,7 +50928,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-01-09T09:40:51.000Z",
     "links": {
       "related_models": [
@@ -50921,7 +50956,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-03-23T10:18:13.000Z",
-      "likes": 1434,
+      "likes": 1435,
       "private": false,
       "sha": "740312add88f781978c0658806c59bc2815b9866",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for GSM8K\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nGSM8K (Grade School Math 8K) is a dataset of 8.5K high quality linguistically diverse grade school math word problems. The dataset was created to support the task of question answering on basic mathematical problems that require multi-step reasoning.\n\nThese problems take between 2 and 8 steps to solve.\nSolutions primarily involve performing a sequence of elementary calculations using basic arithmetic operations (+ − ×÷) to… See the full description on the dataset page: https://huggingface.co/datasets/openai/gsm8k.",
@@ -50951,7 +50986,7 @@
       "createdAt": "2022-04-12T10:22:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-23T10:18:13.000Z",
     "links": {
       "related_models": [
@@ -50996,7 +51031,7 @@
       "createdAt": "2022-05-31T18:43:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2022-05-31T19:02:00.000Z",
     "links": {
       "related_models": [],
@@ -51035,7 +51070,7 @@
       "createdAt": "2022-11-08T09:03:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-20T08:59:22.000Z",
     "links": {
       "related_models": [],
@@ -51082,7 +51117,7 @@
       "createdAt": "2022-11-15T21:15:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2023-09-21T00:57:32.000Z",
     "links": {
       "related_models": [
@@ -51098,7 +51133,7 @@
     "schema_version": "1.0",
     "name": "bigcode/the-stack-metadata",
     "description": "\n\t\n\t\t\n\t\tDataset Card for The Stack Metadata\n\t\n\n\n\t\n\t\t\n\t\tChangelog\n\t\n\n\n\t\n\t\t\nRelease\nDescription\n\n\n\t\t\nv1.1\nThis is the first release of the metadata. It is for The Stack v1.1\n\n\nv1.2\nMetadata dataset matching The Stack v1.2\n\n\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis is a set of additional information for repositories used for The Stack. It contains file paths, detected licenes as well as some other information for the repositories.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nThe main task is to recreate… See the full description on the dataset page: https://huggingface.co/datasets/bigcode/the-stack-metadata.",
-    "size": "200837",
+    "size": "201910",
     "source_url": "https://huggingface.co/datasets/bigcode/the-stack-metadata",
     "source_name": "HuggingFace Datasets",
     "source_type": "api",
@@ -51114,7 +51149,7 @@
       "private": false,
       "sha": "0a94cf73e560e3376e14aaefba1e7ad16e6c4e94",
       "description": "\n\t\n\t\t\n\t\tDataset Card for The Stack Metadata\n\t\n\n\n\t\n\t\t\n\t\tChangelog\n\t\n\n\n\t\n\t\t\nRelease\nDescription\n\n\n\t\t\nv1.1\nThis is the first release of the metadata. It is for The Stack v1.1\n\n\nv1.2\nMetadata dataset matching The Stack v1.2\n\n\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis is a set of additional information for repositories used for The Stack. It contains file paths, detected licenes as well as some other information for the repositories.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nThe main task is to recreate… See the full description on the dataset page: https://huggingface.co/datasets/bigcode/the-stack-metadata.",
-      "downloads": 200837,
+      "downloads": 201910,
       "tags": [
         "task_categories:text-generation",
         "language_creators:crowdsourced",
@@ -51136,7 +51171,7 @@
       "createdAt": "2022-12-19T09:17:28.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-07T06:47:01.158071+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2023-03-16T13:58:24.000Z",
     "links": {
       "related_models": [
@@ -51210,7 +51245,7 @@
       "createdAt": "2023-01-18T17:38:06.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2023-01-18T20:55:00.000Z",
     "links": {
       "related_models": [],
@@ -51249,7 +51284,7 @@
       "createdAt": "2023-04-02T05:30:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2023-04-12T05:23:59.000Z",
     "links": {
       "related_models": [
@@ -51277,10 +51312,10 @@
       "author": "KakologArchives",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-07-09T13:47:38.000Z",
+      "lastModified": "2026-07-09T16:26:37.000Z",
       "likes": 63,
       "private": false,
-      "sha": "db4c1e535bcf94463c47833596f83cf39b9e247f",
+      "sha": "093e9d0d0d560a242e8d2564765ff5c96c1f886d",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
       "downloads": 2341735,
       "tags": [
@@ -51292,8 +51327,8 @@
       "createdAt": "2023-05-12T13:31:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
-    "last_updated": "2026-07-09T13:47:38.000Z",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
+    "last_updated": "2026-07-09T16:26:37.000Z",
     "links": {
       "related_models": [
         "datasets/KakologArchives"
@@ -51564,7 +51599,7 @@
       "createdAt": "2023-05-21T06:38:52.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-05-23T15:23:41.000Z",
     "links": {
       "related_models": [
@@ -51675,7 +51710,7 @@
       "createdAt": "2023-07-06T04:14:51.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2023-07-11T07:56:55.000Z",
     "links": {
       "related_models": [
@@ -51783,7 +51818,7 @@
       "createdAt": "2023-08-29T09:03:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-02-16T13:52:52.000Z",
     "links": {
       "related_models": [
@@ -51823,7 +51858,7 @@
       "createdAt": "2023-11-21T11:44:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-10-31T20:32:52.000Z",
     "links": {
       "related_models": [],
@@ -51865,7 +51900,7 @@
       "createdAt": "2023-12-17T14:47:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-10-19T15:21:40.000Z",
     "links": {
       "related_models": [
@@ -51905,7 +51940,7 @@
       "createdAt": "2023-12-20T13:16:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-04-27T01:39:53.000Z",
     "links": {
       "related_models": [
@@ -51944,7 +51979,7 @@
       "createdAt": "2024-01-12T18:51:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-02-26T18:23:46.000Z",
     "links": {
       "related_models": [],
@@ -51983,7 +52018,7 @@
       "createdAt": "2024-02-10T21:00:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-06-10T02:11:54.000Z",
     "links": {
       "related_models": [
@@ -52034,7 +52069,7 @@
       "createdAt": "2024-02-15T18:34:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-02-15T18:42:42.000Z",
     "links": {
       "related_models": [
@@ -52146,7 +52181,7 @@
       "createdAt": "2024-04-18T14:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-07-11T20:16:53.000Z",
     "links": {
       "related_models": [
@@ -52345,7 +52380,7 @@
       "createdAt": "2024-06-17T18:57:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-07-22T15:27:52.000Z",
     "links": {
       "related_models": [
@@ -52443,7 +52478,7 @@
       "createdAt": "2024-07-31T08:53:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-08-05T19:01:31.000Z",
     "links": {
       "related_models": [],
@@ -52487,7 +52522,7 @@
       "createdAt": "2024-08-13T15:04:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-02-18T23:48:55.000Z",
     "links": {
       "related_models": [
@@ -52625,7 +52660,7 @@
       "createdAt": "2024-10-04T15:11:05.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-07-18T14:09:56.000Z",
     "links": {
       "related_models": [
@@ -52671,7 +52706,7 @@
       "createdAt": "2024-12-14T12:46:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-12-19T11:34:03.000Z",
     "links": {
       "related_models": [
@@ -52709,7 +52744,7 @@
       "createdAt": "2024-12-19T19:44:34.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2024-12-20T10:39:59.000Z",
     "links": {
       "related_models": [],
@@ -52759,7 +52794,7 @@
       "createdAt": "2025-01-13T19:08:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-02-05T18:44:13.000Z",
     "links": {
       "related_models": [
@@ -52802,7 +52837,7 @@
       "createdAt": "2025-01-14T13:41:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-07-25T07:42:54.000Z",
     "links": {
       "related_models": [
@@ -52845,7 +52880,7 @@
       "createdAt": "2025-01-23T14:44:28.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-06-20T09:11:00.000Z",
     "links": {
       "related_models": [],
@@ -52937,7 +52972,7 @@
       "createdAt": "2025-02-22T13:32:51.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-02-27T14:00:10.000Z",
     "links": {
       "related_models": [
@@ -53303,7 +53338,7 @@
       "createdAt": "2025-03-10T02:03:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-03-20T11:33:45.000Z",
     "links": {
       "related_models": [
@@ -53362,7 +53397,7 @@
       "createdAt": "2025-03-16T12:53:09.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-06-12T08:26:50.000Z",
     "links": {
       "related_models": [
@@ -53446,7 +53481,7 @@
       "createdAt": "2025-03-18T13:59:39.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-05T23:36:40.000Z",
     "links": {
       "related_models": [
@@ -53486,7 +53521,7 @@
       "createdAt": "2025-03-19T02:01:25.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-10-26T02:48:48.000Z",
     "links": {
       "related_models": [],
@@ -53578,7 +53613,7 @@
       "createdAt": "2025-04-01T00:57:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-06-15T10:55:41.000Z",
     "links": {
       "related_models": [],
@@ -53620,7 +53655,7 @@
       "createdAt": "2025-04-20T11:25:44.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-11-01T07:05:20.000Z",
     "links": {
       "related_models": [
@@ -53822,7 +53857,7 @@
       "createdAt": "2025-05-27T13:44:01.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-05-30T01:54:05.000Z",
     "links": {
       "related_models": [
@@ -53863,7 +53898,7 @@
       "createdAt": "2025-05-27T15:19:04.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-05-07T11:32:14.000Z",
     "links": {
       "related_models": [
@@ -53902,7 +53937,7 @@
       "createdAt": "2025-06-16T13:17:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-06-17T14:48:51.000Z",
     "links": {
       "related_models": [],
@@ -53942,7 +53977,7 @@
       "createdAt": "2025-06-17T20:06:27.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-10-02T20:58:14.000Z",
     "links": {
       "related_models": [
@@ -53987,7 +54022,7 @@
       "createdAt": "2025-06-23T19:03:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-10-12T11:17:29.000Z",
     "links": {
       "related_models": [
@@ -54122,7 +54157,7 @@
       "createdAt": "2025-08-22T05:07:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-02T06:22:23.000Z",
     "links": {
       "related_models": [
@@ -54217,7 +54252,7 @@
       "createdAt": "2025-08-30T23:58:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-08-31T00:33:15.000Z",
     "links": {
       "related_models": [
@@ -54245,7 +54280,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-09-25T09:43:02.000Z",
-      "likes": 43,
+      "likes": 44,
       "private": false,
       "sha": "78ea3bdbdeec2bdcd6afa5420915d8a22f23ed99",
       "description": "\n\t\n\t\t\n\t\tGaia2\n\t\n\nPaper | Code | Project Page\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nGaia2 is a benchmark dataset for evaluating AI agent capabilities in simulated environments. The dataset contains 800 scenarios that test agent performance in environments where time flows continuously and events occur dynamically.\nThe dataset evaluates seven core capabilities: Execution (multi-step planning and state changes), Search (information gathering and synthesis), Adaptability (dynamic response to environmental… See the full description on the dataset page: https://huggingface.co/datasets/meta-agents-research-environments/gaia2.",
@@ -54285,7 +54320,7 @@
       "createdAt": "2025-09-09T09:36:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-09-25T09:43:02.000Z",
     "links": {
       "related_models": [
@@ -54334,7 +54369,7 @@
       "createdAt": "2025-09-14T14:42:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-11-24T06:32:02.000Z",
     "links": {
       "related_models": [
@@ -54373,7 +54408,7 @@
       "createdAt": "2025-09-22T18:42:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-09-23T13:36:56.000Z",
     "links": {
       "related_models": [],
@@ -54456,7 +54491,7 @@
       "createdAt": "2025-10-16T04:07:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-12T07:18:22.000Z",
     "links": {
       "related_models": [
@@ -54540,7 +54575,7 @@
       "createdAt": "2025-12-01T16:19:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-01T18:59:16.000Z",
     "links": {
       "related_models": [
@@ -54581,7 +54616,7 @@
       "createdAt": "2025-12-09T07:09:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-09T07:09:52.000Z",
     "links": {
       "related_models": [
@@ -54619,7 +54654,7 @@
       "createdAt": "2025-12-16T15:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-23T09:04:38.000Z",
     "links": {
       "related_models": [],
@@ -54667,7 +54702,7 @@
       "createdAt": "2025-12-20T22:29:02.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2025-12-21T14:22:17.000Z",
     "links": {
       "related_models": [
@@ -54720,7 +54755,7 @@
       "createdAt": "2025-12-31T07:17:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-24T05:02:26.000Z",
     "links": {
       "related_models": [
@@ -54772,7 +54807,7 @@
       "createdAt": "2026-01-04T19:10:52.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-01-04T19:12:11.000Z",
     "links": {
       "related_models": [
@@ -54815,7 +54850,7 @@
       "createdAt": "2026-01-19T05:32:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-09T04:28:30.000Z",
     "links": {
       "related_models": [],
@@ -54899,7 +54934,7 @@
       "createdAt": "2026-02-08T14:15:00.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-04T20:47:37.000Z",
     "links": {
       "related_models": [],
@@ -55113,7 +55148,7 @@
       "createdAt": "2026-03-01T00:32:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-06T22:34:27.000Z",
     "links": {
       "related_models": [],
@@ -55151,7 +55186,7 @@
       "createdAt": "2026-03-01T17:05:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-02T09:27:07.000Z",
     "links": {
       "related_models": [
@@ -55228,7 +55263,7 @@
       "createdAt": "2026-03-10T03:05:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-10T20:42:39.000Z",
     "links": {
       "related_models": [],
@@ -55269,7 +55304,7 @@
       "createdAt": "2026-03-10T03:07:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-05T20:00:04.000Z",
     "links": {
       "related_models": [],
@@ -55306,7 +55341,7 @@
       "createdAt": "2026-03-13T09:23:41.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-13T20:48:02.000Z",
     "links": {
       "related_models": [],
@@ -55342,7 +55377,7 @@
       "createdAt": "2026-03-15T03:28:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-02T03:00:23.000Z",
     "links": {
       "related_models": [],
@@ -55378,7 +55413,7 @@
       "createdAt": "2026-03-21T09:09:42.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-03-23T23:30:10.000Z",
     "links": {
       "related_models": [],
@@ -55414,7 +55449,7 @@
       "createdAt": "2026-04-01T14:22:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-05T09:46:14.000Z",
     "links": {
       "related_models": [],
@@ -55476,7 +55511,7 @@
       "createdAt": "2026-04-03T01:34:29.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-05-06T14:00:24.000Z",
     "links": {
       "related_models": [
@@ -55610,7 +55645,7 @@
       "createdAt": "2026-04-24T13:38:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-04-25T06:52:44.000Z",
     "links": {
       "related_models": [
@@ -55699,7 +55734,7 @@
       "createdAt": "2026-05-02T16:17:47.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-06-04T22:23:26.000Z",
     "links": {
       "related_models": [],
@@ -55781,7 +55816,7 @@
       "createdAt": "2026-05-13T22:41:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-05-14T00:33:58.000Z",
     "links": {
       "related_models": [],
@@ -55821,7 +55856,7 @@
       "createdAt": "2026-05-13T23:28:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-05-13T23:36:50.000Z",
     "links": {
       "related_models": [],
@@ -55913,7 +55948,7 @@
       "createdAt": "2026-05-26T06:34:59.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-05-29T12:35:53.000Z",
     "links": {
       "related_models": [
@@ -55940,10 +55975,10 @@
       "author": "mteb",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-07-09T13:28:46.000Z",
+      "lastModified": "2026-07-09T15:11:55.000Z",
       "likes": 7,
       "private": false,
-      "sha": "7358fe80d85b454fecfce7bc14d832dc7250cdb1",
+      "sha": "98ff762ccbe009236ab4893d08253fa92102bbda",
       "downloads": 502130,
       "tags": [
         "size_categories:1M<n<10M",
@@ -55959,8 +55994,8 @@
       "createdAt": "2026-06-02T20:34:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
-    "last_updated": "2026-07-09T13:28:46.000Z",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
+    "last_updated": "2026-07-09T15:11:55.000Z",
     "links": {
       "related_models": [],
       "related_papers": [],
@@ -56017,7 +56052,7 @@
       "createdAt": "2026-06-11T07:10:23.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-01T07:21:24.000Z",
     "links": {
       "related_models": [
@@ -56045,7 +56080,7 @@
       "disabled": false,
       "gated": "auto",
       "lastModified": "2026-07-02T20:47:44.000Z",
-      "likes": 80,
+      "likes": 81,
       "private": false,
       "sha": "29136bc9b9e38d320b00ffcddbbe4cd0e3278c58",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tABC-130k\n\t\n\nABC-130k is the largest open-source robot teleoperation dataset. It contains\nbimanual manipulation trajectories collected on two-arm YAM stations. Episodes\nare distributed as MCAP files, with subtask annotations kept as separate\nartifacts so they can be revised or extended independently of the underlying\nepisode data. For details on the accompanying paper, see abc.bot.\nPlease see the GitHub repo here for code to\ntrain and deploy with this dataset.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/XDOF/ABC-130k.",
@@ -56067,7 +56102,7 @@
       "createdAt": "2026-06-15T22:33:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
     "last_updated": "2026-07-02T20:47:44.000Z",
     "links": {
       "related_models": [
@@ -56094,10 +56129,10 @@
       "author": "k9cli",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-07-08T19:15:24.000Z",
+      "lastModified": "2026-07-09T16:25:24.000Z",
       "likes": 2,
       "private": false,
-      "sha": "b90574b6ea0ff221c56c5cc903461a098aa4a072",
+      "sha": "617e6c80b10076c6ed377fcb91c7c457a566f200",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tvideo-vec2wav2-tokenizer\n\t\n\nProduction-ready pipeline (Python package video_vec2wav2_tokenizer, CLI command\nvideo2dataset) that turns a folder of videos into clean AI training datasets\nfor speech recognition (ASR) and text-to-speech (TTS).\nvideos  ──►  audio (16 kHz mono PCM)  ──►  whisper transcript  ──►  clips  ──►  metadata.csv / dataset.jsonl / tts_metadata.csv / report.json\n\n\nVideo processing — recursive scan of mp4 / mkv / avi / mov / webm, FFmpeg\naudio extraction to mono ·… See the full description on the dataset page: https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer.",
       "downloads": 390583,
       "tags": [
@@ -56106,8 +56141,8 @@
       "createdAt": "2026-06-19T10:28:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-09T13:48:58.897625+00:00",
-    "last_updated": "2026-07-08T19:15:24.000Z",
+    "retrieval_timestamp": "2026-07-09T16:27:02.751972+00:00",
+    "last_updated": "2026-07-09T16:25:24.000Z",
     "links": {
       "related_models": [
         "datasets/k9cli"

@@ -17,16 +17,18 @@
       "warnings": []
     },
     {
-      "errors": [],
+      "errors": [
+        "Connection error: HTTPSConnectionPool(host='github.com', port=443): Read timed out. (read timeout=10)"
+      ],
       "name": "Stanford Alpaca",
-      "passed": true,
+      "passed": false,
       "source_id": "stanford_alpaca",
       "url": "https://github.com/tatsu-lab/stanford_alpaca",
       "warnings": []
     }
   ],
-  "sources_failed": 0,
-  "sources_passed": 3,
+  "sources_failed": 1,
+  "sources_passed": 2,
   "sources_validated": 3,
-  "timestamp": "2026-07-09T13:49:19.276420+00:00"
+  "timestamp": "2026-07-09T16:27:26.070608+00:00"
 }
