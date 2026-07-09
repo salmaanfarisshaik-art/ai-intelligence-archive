@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-09T06:43:23.740569+00:00
-**Warnings:** 1048
+**Generated:** 2026-07-09T10:24:17.400605+00:00
+**Warnings:** 1049
 **Errors:** 30
 
 ## Issues
@@ -1029,6 +1029,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/EssentialAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/aline-gassenn
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/behavior-1k
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ZahidYasinMittha
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/meta-agents-research-environments

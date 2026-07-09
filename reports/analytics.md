@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146426
+**Total Entities Tracked**: 146428
 
 ## Category Distribution
 
@@ -13,8 +13,8 @@
 - **tool**: 2153
 - **tools**: 2100
 - **datasets**: 1489
-- **models**: 1207
-- **dataset**: 1119
+- **models**: 1208
+- **dataset**: 1120
 - **mcps**: 1100
 - **text-generation**: 996
 - **benchmarks**: 700
@@ -63,32 +63,32 @@
 
 ## Source Distribution
 
-- ****: 90274
+- ****: 90275
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2002
 - **OpenAI Blog**: 1036
 - **ArXiv**: 930
-- **HuggingFace Datasets**: 119
+- **HuggingFace Datasets**: 120
 - **GitHub Trending**: 53
 - **BAIR Blog**: 12
 
 ## Top Tags
 
-- **region:us**: 175
-- **text-generation**: 57
+- **region:us**: 177
+- **text-generation**: 58
+- **safetensors**: 52
 - **library:datasets**: 51
 - **library:mlcroissant**: 51
-- **safetensors**: 51
-- **endpoints_compatible**: 49
-- **license:apache-2.0**: 49
-- **transformers**: 49
+- **endpoints_compatible**: 50
+- **license:apache-2.0**: 50
+- **transformers**: 50
 - **modality:text**: 47
 - **language:en**: 45
-- **conversational**: 42
+- **conversational**: 43
 - **library:polars**: 39
 - **format:parquet**: 35
-- **license:mit**: 34
-- **text-generation-inference**: 29
+- **license:mit**: 35
+- **text-generation-inference**: 30
 - **deploy:azure**: 27
 - **en**: 21
 - **library:pandas**: 21
@@ -97,21 +97,22 @@
 - **library:dask**: 18
 - **size_categories:n<1K**: 17
 - **modality:tabular**: 16
+- **qwen3**: 14
 - **license:other**: 13
-- **qwen3**: 13
 - **modality:image**: 12
+- **task_categories:robotics**: 11
+- **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **license:odc-by**: 10
+- **modality:video**: 10
 - **multilinguality:monolingual**: 10
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
 - **source_datasets:original**: 10
-- **task_categories:robotics**: 10
-- **arxiv:2505.09388**: 9
 - **license:cc-by-4.0**: 9
-- **modality:video**: 9
 - **size_categories:10K<n<100K**: 8
 - **size_categories:1M<n<10M**: 8
+- **arxiv:2309.00071**: 7
 - **custom_code**: 7
 - **language:ar**: 7
 - **language:fr**: 7
@@ -120,7 +121,6 @@
 - **size_categories:n>1T**: 7
 - **task_ids:language-modeling**: 7
 - **8-bit**: 6
-- **arxiv:2309.00071**: 6
+- **LeRobot**: 6
 - **language:de**: 6
 - **language:es**: 6
-- **language:it**: 6

@@ -2,8 +2,8 @@
 
 | Category | Scale |
 | -------- | ----- |
-| 🤖 AI Models | 2,210 |
-| 📚 Datasets | 2,608 |
+| 🤖 AI Models | 2,230 |
+| 📚 Datasets | 2,637 |
 | 🧰 AI Tools | 4,253 |
 | 📊 Benchmarks | 1,600 |
 | 💬 Prompt Templates | 49,256 |
@@ -16,4 +16,4 @@
 | 📰 News Archive | 41,000 |
 | 🕸️ Knowledge Graph | 50,000 |
 
-*Generated at: 2026-07-09T06:44:14.679608+00:00*
+*Generated at: 2026-07-09T10:24:59.445025+00:00*

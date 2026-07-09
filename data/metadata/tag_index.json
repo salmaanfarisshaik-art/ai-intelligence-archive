@@ -1,4 +1,13 @@
 {
+  ".": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
+  ],
+  "1": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
+  ],
+  "2": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
+  ],
   "2-bit": [
     "hf_antirez_deepseek-v4-gguf"
   ],
@@ -12,6 +21,7 @@
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "4-bit": [
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_antirez_deepseek-v4-gguf"
   ],
   "8-bit": [
@@ -51,7 +61,8 @@
     "hf_ds_67b9d203047d98a072b4e68c",
     "hf_ds_67be7d7b0a1a886d7b5d305d",
     "hf_ds_67ce486ea3edca9b3349a097",
-    "hf_ds_67d829e152331730e865bfb7"
+    "hf_ds_67d829e152331730e865bfb7",
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
   "MLAAD": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
@@ -361,6 +372,7 @@
   "arxiv:2309.00071": [
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -404,6 +416,9 @@
   ],
   "arxiv:2403.09029": [
     "hf_ds_661823b590a8b6724f1c6534"
+  ],
+  "arxiv:2403.09227": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
   "arxiv:2403.12945": [
     "hf_ds_67b9d203047d98a072b4e68c"
@@ -494,6 +509,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -588,6 +604,9 @@
   "autonomous-driving": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "awq": [
+    "hf_Qwen_Qwen3-14B-AWQ"
+  ],
   "axolotl": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
@@ -610,6 +629,9 @@
   ],
   "base_model:Qwen/Qwen3-1.7B-Base": [
     "hf_Qwen_Qwen3-1.7B"
+  ],
+  "base_model:Qwen/Qwen3-14B": [
+    "hf_Qwen_Qwen3-14B-AWQ"
   ],
   "base_model:Qwen/Qwen3-14B-Base": [
     "hf_Qwen_Qwen3-14B"
@@ -716,6 +738,9 @@
   "base_model:quantized:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "base_model:quantized:Qwen/Qwen3-14B": [
+    "hf_Qwen_Qwen3-14B-AWQ"
+  ],
   "base_model:quantized:Qwen/Qwen3-Coder-Next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -784,6 +809,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
@@ -1009,6 +1035,9 @@
   "doi:10.57967/hf/5889": [
     "hf_ds_6859a511dbd17c5bad610ad2"
   ],
+  "doi:10.57967/hf/6394": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
+  ],
   "doi:10.57967/hf/6762": [
     "hf_vikhyatk_moondream2"
   ],
@@ -1066,6 +1095,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -3373,6 +3403,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -3495,6 +3526,7 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6850196ad602532f84eb625b",
+    "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68d19889ef48faaef08b8710",
     "hf_ds_68e91443c366e5879388a4d4",
@@ -3699,6 +3731,7 @@
   "modality:video": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
     "hf_ds_67b9d203047d98a072b4e68c",
+    "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
@@ -3872,6 +3905,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
@@ -3915,6 +3949,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -4009,6 +4044,7 @@
     "hf_ds_6851cac31458ae6b02f8e8e7",
     "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_68bff53655fd8600b6474cdc",
@@ -4119,6 +4155,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -4428,6 +4465,7 @@
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
+    "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
@@ -4583,6 +4621,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -4640,6 +4679,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
@@ -4697,6 +4737,7 @@
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
@@ -4751,6 +4792,9 @@
   ],
   "unsloth": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
+  ],
+  "v": [
+    "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
   "video": [
     "hf_ds_6954cdff0a36f347a9b323fd",
