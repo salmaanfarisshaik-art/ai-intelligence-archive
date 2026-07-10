@@ -76,17 +76,17 @@
 
 ## Top Tags
 
-- **region:us**: 177
-- **text-generation**: 58
-- **safetensors**: 52
+- **region:us**: 178
+- **text-generation**: 59
+- **safetensors**: 53
 - **library:datasets**: 51
 - **library:mlcroissant**: 51
+- **license:apache-2.0**: 51
 - **endpoints_compatible**: 50
-- **license:apache-2.0**: 50
 - **transformers**: 50
 - **modality:text**: 47
 - **language:en**: 45
-- **conversational**: 43
+- **conversational**: 44
 - **library:polars**: 39
 - **format:parquet**: 35
 - **license:mit**: 35
@@ -114,6 +114,7 @@
 - **license:cc-by-4.0**: 9
 - **size_categories:10K<n<100K**: 8
 - **size_categories:1M<n<10M**: 8
+- **8-bit**: 7
 - **arxiv:2309.00071**: 7
 - **custom_code**: 7
 - **language:ar**: 7
@@ -122,7 +123,6 @@
 - **modality:audio**: 7
 - **size_categories:n>1T**: 7
 - **task_ids:language-modeling**: 7
-- **8-bit**: 6
 - **LeRobot**: 6
 - **language:de**: 6
 - **language:es**: 6

@@ -29,6 +29,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
@@ -45,6 +46,9 @@
   ],
   "CARLA": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
+  ],
+  "DiffusionGemma-26B-A4B-IT": [
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "FP4": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
@@ -75,14 +79,16 @@
   "ModelOpt": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "NLU": [
     "hf_ds_621ffdd236468d709f181fa6"
   ],
   "NVFP4": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "OpenCOOD": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -714,6 +720,9 @@
   "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
+  "base_model:google/diffusiongemma-26B-A4B-it": [
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
+  ],
   "base_model:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
@@ -749,6 +758,9 @@
   ],
   "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
     "hf_antirez_deepseek-v4-gguf"
+  ],
+  "base_model:quantized:google/diffusiongemma-26B-A4B-it": [
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
@@ -835,6 +847,7 @@
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -1007,6 +1020,9 @@
     "hf_openai_gpt-oss-20b",
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5.2-FP8"
+  ],
+  "diffusion_gemma": [
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "digital-signatures": [
     "hf_ds_6785649a41a64e1582b8bb05"
@@ -3441,6 +3457,7 @@
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -3745,7 +3762,8 @@
   ],
   "modelopt": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "moe": [
     "hf_antirez_deepseek-v4-gguf"
@@ -3806,13 +3824,15 @@
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "nvfp4": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "nvidia": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "occupancy-forecasting": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -3886,7 +3906,8 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
   "question-answering": [
     "hf_ds_64edb45c5c9245397fc83a26",
@@ -4104,6 +4125,7 @@
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
@@ -4187,6 +4209,7 @@
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
@@ -4657,6 +4680,7 @@
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
