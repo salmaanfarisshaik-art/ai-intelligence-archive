@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 188
+**Total Changes:** 186
 
 ## Added
 - docs/stat.ML.md
@@ -89,8 +89,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.10.20260710_115110.zip
-- releases/v2026.07.10.20260710_115110/
+- releases/v2026.07.10.20260710_142325.zip
+- releases/v2026.07.10.20260710_142325/
 - site/
 
 ## Modified
@@ -103,10 +103,8 @@
 - data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
-- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.CL.md
 - docs/cs.DL.md
