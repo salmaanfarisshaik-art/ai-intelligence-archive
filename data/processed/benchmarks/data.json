@@ -116,6 +116,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2407.13632v2",
+    "schema_version": "1.0",
+    "name": "Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2407.13632v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2407.13632v2",
+      "updated": "2026-07-09T16:37:22Z",
+      "published": "2024-07-18T16:03:59Z",
+      "title": "Data Alchemy: Mitigating Cross-Site Model Variability Through Test Time Data Calibration",
+      "summary": "Deploying deep learning-based imaging tools across various clinical sites poses significant challenges due to inherent domain shifts and regulatory hurdles associated with site-specific fine-tuning. For histopathology, stain normalization techniques can mitigate discrepancies, but they often fall short of eliminating inter-site variations. Therefore, we present Data Alchemy, an explainable stain normalization method combined with test time data calibration via a template learning framework to overcome barriers in cross-site analysis. Data Alchemy handles shifts inherent to multi-site data and minimizes them without needing to change the weights of the normalization or classifier networks. Our approach extends to unseen sites in various clinical settings where data domain discrepancies are unknown. Extensive experiments highlight the efficacy of our framework in tumor classification in hematoxylin and eosin-stained patches. Our explainable normalization method boosts classification tasks' area under the precision-recall curve(AUPR) by 0.165, 0.545 to 0.710. Additionally, Data Alchemy further reduces the multisite classification domain gap, by improving the 0.710 AUPR an additional 0.142, elevating classification performance further to 0.852, from 0.545. Our Data Alchemy framework can popularize precision medicine with minimal operational overhead by allowing for the seamless integration of pre-trained deep learning-based clinical tools across multiple sites.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:37:22Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2407.13632v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2407.15283v2",
     "schema_version": "1.0",
     "name": "Enhancing Hardware Fault Tolerance in Machines with Reinforcement Learning Policy Gradient Algorithms",
@@ -429,6 +458,35 @@
       "related_models": [],
       "related_papers": [
         "2503.13051v3"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2503.15414v3",
+    "schema_version": "1.0",
+    "name": "Asynchronous Federated Continual Segmentation with Evolving Clients and Label Spaces",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2503.15414v3",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "eess.IV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2503.15414v3",
+      "updated": "2026-07-09T17:48:46Z",
+      "published": "2025-03-19T16:56:34Z",
+      "title": "Asynchronous Federated Continual Segmentation with Evolving Clients and Label Spaces",
+      "summary": "Federated learning seeks to foster collaboration among distributed clients while preserving the privacy of their local data. Traditional federated learning methods typically assume a fixed setting, where participating clients, client data, and learning objectives remain unchanged. However, in real-world scenarios, a federation may evolve over time, with changes in both its client composition and target label space. In this evolving federated setting, conventional round-wise model aggregation becomes inflexible, as each federation update requires repeated communication, repeated local computation, and synchronized participation from all accumulated clients. To address this limitation, we propose CA-MMDS, a continual multiple-model distillation framework for federated continual segmentation with asynchronous clients and evolving label spaces. Instead of repeatedly aggregating model parameters from all clients, CA-MMDS maintains a server-side archive of client models and updates the global model through proxy-based distillation from multiple archived local models. When new clients join or existing clients evolve, only the newly added or updated local models need to be uploaded, while unchanged clients can remain offline and continue to contribute through their archived models. This design substantially reduces communication and computation costs while enabling flexible asynchronous cooperation among evolving clients. Using multi-class 3D abdominal CT segmentation as an application task, we demonstrate that CA-MMDS efficiently incorporates evolving client knowledge while achieving competitive segmentation performance.",
+      "primary_category": "eess.IV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:48:46Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2503.15414v3"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -1247,6 +1305,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2509.26076v2",
+    "schema_version": "1.0",
+    "name": "IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2509.26076v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2509.26076v2",
+      "updated": "2026-07-09T16:12:00Z",
+      "published": "2025-09-30T10:50:37Z",
+      "title": "IMProofBench: Benchmarking AI on Research-Level Mathematical Proof Generation",
+      "summary": "As the mathematical capabilities of large language models (LLMs) improve, it becomes increasingly important to evaluate their performance on research-level tasks at the frontier of mathematical knowledge. However, existing benchmarks are limited, as they focus solely on final-answer questions or high-school competition problems. To address this gap, we introduce IMProofBench, a private benchmark consisting of 77 peer-reviewed problems developed by expert mathematicians. Each problem requires a detailed proof and is paired with subproblems that have final answers, supporting both an evaluation by human experts and a large-scale quantitative analysis through automated grading. Furthermore, unlike prior benchmarks, the evaluation setup simulates a realistic research environment: models operate in an agentic framework with tools like web search for literature review and mathematical software such as SageMath. Our results show that current LLMs can already solve a significant percentage of research-level questions. IMProofBench will continue to evolve as a dynamic benchmark in collaboration with the mathematical community, ensuring its relevance for evaluating the next generation of LLMs.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:12:00Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2509.26076v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2509.26476v3",
     "schema_version": "1.0",
     "name": "Regression Language Models for Code",
@@ -1682,6 +1769,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2511.20644v2",
+    "schema_version": "1.0",
+    "name": "Vision-Language Memory for Spatial Reasoning",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2511.20644v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2511.20644v2",
+      "updated": "2026-07-09T17:59:10Z",
+      "published": "2025-11-25T18:59:02Z",
+      "title": "Vision-Language Memory for Spatial Reasoning",
+      "summary": "Spatial reasoning is a critical capability for intelligent robots, yet current vision-language models (VLMs) still fall short of human-level performance in video-based spatial reasoning. This gap mainly stems from two challenges: a semantic-geometric misalignment that prevents consistent 3D understanding, and the absence of persistent memory to retain 3D representation and understanding across frames. To address these limitations, we present VLM$^2$, a Vision-Language Model with persistent Memory for spatial reasoning with a view-consistent, 3D-aware representation purely from 2D videos. Specifically, we incorporate a dual-memory module consisting of a working memory that operates as a sliding window to focus on immediate context, and an episodic memory that consolidates and stores critical information across frames. This design enables bounded and efficient spatial reasoning under a fixed computational cost. Extensive experiments on multiple benchmarks show that VLM$^2$ achieves state-of-the-art performance among video-based models, significantly advancing the frontier of visual-spatial intelligence.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:10Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2511.20644v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2511.20651v2",
     "schema_version": "1.0",
     "name": "RubricRL: Simple Generalizable Rewards for Text-to-Image Generation",
@@ -1734,6 +1850,35 @@
       "related_models": [],
       "related_papers": [
         "2511.21245v3"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2512.01803v3",
+    "schema_version": "1.0",
+    "name": "Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2512.01803v3",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2512.01803v3",
+      "updated": "2026-07-09T15:41:25Z",
+      "published": "2025-12-01T15:36:33Z",
+      "title": "Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos",
+      "summary": "Despite rapid advances in video generative models, robust metrics for evaluating visual and temporal correctness of complex human actions remain elusive. Critically, existing pure-vision encoders and Multimodal Large Language Models (MLLMs) are strongly appearance-biased, lack temporal understanding, and thus struggle to discern intricate motion dynamics and anatomical implausibilities in generated videos. We tackle this gap by introducing a novel evaluation metric derived from a learned latent space of real-world human actions. Our method first captures the nuances, constraints, and temporal smoothness of real-world motion by fusing appearance-agnostic human skeletal geometry features with appearance-based features. We posit that this combined feature space provides a robust representation of action plausibility. Given a generated video, our metric quantifies its action quality by measuring the distance between its underlying representations and this learned real-world action distribution. For rigorous validation, we develop a new multi-faceted benchmark specifically designed to probe temporally challenging aspects of human action fidelity. Through extensive experiments, we show that our metric achieves substantial improvement of more than 68% compared to existing state-of-the-art methods on our benchmark, performs competitively on established external benchmarks, and has a stronger correlation with human perception. Our in-depth analysis reveals critical limitations in current video generative models and establishes a new standard for advanced research in video generation.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T15:41:25Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2512.01803v3"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -2523,6 +2668,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2601.21688v2",
+    "schema_version": "1.0",
+    "name": "XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2601.21688v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2601.21688v2",
+      "updated": "2026-07-09T17:00:50Z",
+      "published": "2026-01-29T13:20:48Z",
+      "title": "XFACTORS: Disentangled Information Bottleneck via Contrastive Supervision",
+      "summary": "Disentangled representation learning aims to map independent factors of variation to independent representation components. On one hand, purely unsupervised approaches have proven successful on fully disentangled synthetic data, but fail to recover semantic factors from real data without strong inductive biases. On the other hand, supervised approaches are unstable and hard to scale to large attribute sets because they rely on adversarial objectives or auxiliary classifiers.\n  We introduce \\textsc{XFactors}, a weakly-supervised VAE framework that disentangles and provides explicit control over a chosen set of factors. Building on the Disentangled Information Bottleneck perspective, we decompose the representation into a residual subspace $\\mathcal{S}$ and factor-specific subspaces $\\mathcal{T}_1,\\ldots,\\mathcal{T}_K$ and a residual subspace $\\mathcal{S}$. Each target factor is encoded in its assigned $\\mathcal{T}_i$ through contrastive supervision: an InfoNCE loss pulls together latents sharing the same factor value and pushes apart mismatched pairs. In parallel, KL regularization imposes a Gaussian structure on both $\\mathcal{S}$ and the aggregated factor subspaces, organizing the geometry without additional supervision for non-targeted factors and avoiding adversarial training and classifiers.\n  Across multiple datasets, with constant hyperparameters, \\textsc{XFactors} achieves state-of-the-art disentanglement scores and yields consistent qualitative factor alignment in the corresponding subspaces, enabling controlled factor swapping via latent replacement. We further demonstrate that our method scales correctly with increasing latent capacity and evaluate it on the real-world dataset CelebA. Our code is available at \\href{https://github.com/ICML26-anon/XFactors}{github.com/ICML26-anon/XFactors}.",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:00:50Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2601.21688v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2602.00012v3",
     "schema_version": "1.0",
     "name": "OGD4All: A Framework for Accessible Interaction with Geospatial Open Government Data Based on Large Language Models",
@@ -2720,6 +2894,35 @@
       "related_models": [],
       "related_papers": [
         "2602.07533v3"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2602.11117v2",
+    "schema_version": "1.0",
+    "name": "HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2602.11117v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2602.11117v2",
+      "updated": "2026-07-09T17:52:46Z",
+      "published": "2026-02-11T18:31:47Z",
+      "title": "HairWeaver: Few-Shot Photorealistic Hair Motion Synthesis with Sim-to-Real Guided Video Diffusion",
+      "summary": "We present HairWeaver, a diffusion-based pipeline that animates a single human image with realistic and expressive hair dynamics. While existing methods successfully control body pose, they lack specific control over hair, and as a result, fail to capture the intricate hair motions, resulting in stiff and unrealistic animations. HairWeaver overcomes this limitation using two specialized modules: a Motion-Context-LoRA to integrate motion conditions and a Style-Alignment-LoRA to preserve the subject's photoreal appearance across different data domains. These lightweight components are designed to guide a video diffusion backbone while maintaining its core generative capabilities. By training on a specialized dataset of dynamic human motion generated from a CG simulator, HairWeaver affords fine control over hair motion and ultimately learns to produce highly realistic hair that responds naturally to movement. Comprehensive evaluations demonstrate that our approach sets a new state of the art, producing lifelike human hair animations with dynamic details.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:52:46Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2602.11117v2"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -3741,6 +3944,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2603.23667v2",
+    "schema_version": "1.0",
+    "name": "Echoes: A semantically-aligned music deepfake detection dataset",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2603.23667v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.SD",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2603.23667v2",
+      "updated": "2026-07-09T17:32:39Z",
+      "published": "2026-03-24T19:10:42Z",
+      "title": "Echoes: A semantically-aligned music deepfake detection dataset",
+      "summary": "We introduce Echoes, a new dataset for music deepfake detection designed for training and benchmarking detectors under realistic and provider-diverse conditions. Echoes comprises 4,468 tracks (131 hours of audio) spanning multiple genres (pop, rock, electronic), and includes content generated by ten popular AI music generation systems. To prevent shortcut learning and promote robust generalization, the dataset is deliberately constructed to be challenging, enforcing semantic-level alignment between spoofed audio and bona fide references. This alignment is achieved by conditioning generated audio samples directly on bona-fide waveforms or song descriptors. We evaluate Echoes in a cross-dataset setting against three existing AI-generated music datasets using state-of-the-art Wav2Vec2 XLS-R 2B representations. Results show that (i) Echoes is the hardest in-domain dataset; (ii) detectors trained on existing datasets transfer poorly to Echoes; (iii) training on Echoes yields the strongest generalization performance. These findings suggest that provider diversity and semantic alignment help learn more transferable detection cues.",
+      "primary_category": "cs.SD"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:32:39Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2603.23667v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2603.24036v2",
     "schema_version": "1.0",
     "name": "SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision",
@@ -3851,6 +4083,64 @@
       "related_models": [],
       "related_papers": [
         "2604.00784v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2604.01204v3",
+    "schema_version": "1.0",
+    "name": "Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2604.01204v3",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2604.01204v3",
+      "updated": "2026-07-09T17:50:12Z",
+      "published": "2026-04-01T17:48:22Z",
+      "title": "Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
+      "summary": "Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstruction tasks. Compared to neural fields, these representations are more flexible, adaptive, and scale better to large scenes. However, the limited expressivity of individual primitives makes modeling high-frequency detail challenging. We introduce Neural Harmonic Textures, a neural representation approach that anchors latent feature vectors on a virtual scaffold surrounding each primitive. These features are interpolated within the primitive at ray intersection points. Inspired by Fourier analysis, we apply periodic activations to the interpolated features, turning alpha blending into a weighted sum of harmonic components. The resulting signal is then decoded in a single deferred pass using a small neural network, significantly reducing computational cost. Neural Harmonic Textures yield state-of-the-art results in real-time novel view synthesis while bridging the gap between primitive- and neural-field-based reconstruction. Our method integrates seamlessly into existing primitive-based pipelines such as 3DGUT, Triangle Splatting, and 2DGS. We further demonstrate its generality with applications to 2D image fitting and semantic reconstruction.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:50:12Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2604.01204v3"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2604.01388v2",
+    "schema_version": "1.0",
+    "name": "LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2604.01388v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2604.01388v2",
+      "updated": "2026-07-09T16:05:00Z",
+      "published": "2026-04-01T20:48:06Z",
+      "title": "LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding",
+      "summary": "Recent advancements in open-vocabulary 3D scene understanding heavily rely on 3D Gaussian Splatting (3DGS) to register vision-language features into 3D space. However, we identify two critical limitations in these approaches: the spatial ambiguity arising from unstructured, overlapping Gaussians which necessitates probabilistic feature registration, and the multi-level semantic ambiguity caused by pooling features over object-level masks, which dilutes fine-grained details. To address these challenges, we present a novel framework that leverages Sparse Voxel Rasterization (SVRaster) as a structured, disjoint geometry representation. By regularizing SVRaster with monocular depth and normal priors, we establish a stable geometric foundation. This enables a deterministic, confidence-aware feature registration process and suppresses the semantic bleeding artifact common in 3DGS. Furthermore, we resolve multi-level ambiguity by exploiting the emerging dense alignment properties of the AM-RADIO foundation model, avoiding the computational overhead of hierarchical training methods. Our approach achieves state-of-the-art performance on Open Vocabulary Point Cloud Understanding, and highly competitive results on 3D and 2D Object Retrieval benchmarks.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:05:00Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2604.01388v2"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -5651,6 +5941,35 @@
       "related_models": [],
       "related_papers": [
         "2606.02955v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2606.03238v2",
+    "schema_version": "1.0",
+    "name": "When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2606.03238v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2606.03238v2",
+      "updated": "2026-07-09T16:49:37Z",
+      "published": "2026-06-02T06:55:52Z",
+      "title": "When RLHF Fails: A Mechanistic Taxonomy of Reward Hacking, Collapse, and Evaluator Gaming",
+      "summary": "RLHF evaluation should track how failures emerge, where they localize, and which warning signals appear before external quality degrades. We study this problem with a compact RLHF pipeline built for this paper, including PPO, DPO, uncertainty-penalized PPO (UP-PPO), reward-model uncertainty, approximate policy drift, diversity and repetition diagnostics, and two external LLM judges. Rather than treating reward hacking as a single terminal event, we classify matched checkpoint and prompt-level transitions by the directions of learned reward R_phi, judge scores R_dag and R2_dag, and their average R_dag. The main empirical findings are that aggressive PPO produces the clearest localized reward-hacking signal, UP-PPO reduces but does not eliminate that signal, row-level diagnostics reveal failures hidden by checkpoint averages, and pre-transition features partially anticipate future localized reward hacking. The central conclusion is methodological: RLHF failures are training dynamics that can be classified, localized, and partially anticipated, not only final-model pathologies. The repository is available at github.com/zabahana/rlhf-failure-modes-diagnostics. The pipeline is also deployed as a live interactive web demo for model comparison and diagnostic views at rlhf-failures.zelalem.ai.",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:49:37Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2606.03238v2"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -8493,6 +8812,35 @@
       "related_models": [],
       "related_papers": [
         "2606.15834v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2606.15920v2",
+    "schema_version": "1.0",
+    "name": "OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2606.15920v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2606.15920v2",
+      "updated": "2026-07-09T17:53:09Z",
+      "published": "2026-06-14T16:51:22Z",
+      "title": "OmniOPSD: Rationale-Privileged On-Policy Self-Distillation for Affective Computing",
+      "summary": "Reinforcement learning for multimodal large language models (MLLMs) is often hindered by severe reward sparsity in complex reasoning tasks. This challenge is particularly pronounced in human-centered scenarios involving states, emotions, intentions, and behaviors, where heterogeneous multimodal signals and subjective human factors make high-quality chain-of-thought (CoT) annotations expensive and difficult to obtain. Although many multimodal datasets provide expert-annotated ground-truth labels, directly using these labels for supervised fine-tuning may encourage shortcut learning in multimodal perception and provides limited transparency for safety-critical human--AI interaction. To address these limitations, we propose OmniOPSD, a Rationale-Privileged On-Policy Self-Distillation framework that uses frontier-generated rationales as teacher-side privileged evidence rather than student imitation targets. OmniOPSD uses frontier-generated evidence-aware rationales only as training-time privileged evidence context for a local teacher. The student samples its own rollout from the original multimodal input, while the rationale-privileged teacher scores the same tokens and provides dense token-level supervision. Thus, the student learns on its own trajectory distribution without directly imitating frontier-model completions, and inference requires no labels, rationales, CoT annotations, or closed-source model access. Experiments on MER-UniBench show that OmniOPSD achieves state-of-the-art performance with an average score of $84.19$, and ablations further support the value of rationale-privileged teacher guidance.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:53:09Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2606.15920v2"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -13232,6 +13580,35 @@
     }
   },
   {
+    "unique_id": "arxiv_2606.21428v3",
+    "schema_version": "1.0",
+    "name": "Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2606.21428v3",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.PF",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2606.21428v3",
+      "updated": "2026-07-09T17:35:35Z",
+      "published": "2026-06-19T13:45:45Z",
+      "title": "Does Mixture-of-Experts Actually Help Inference on Consumer and Edge Hardware? An Empirical Study",
+      "summary": "Mixture-of-Experts (MoE) language models are often described as ideal for resource-constrained inference. Each token activates only a small subset of experts, so the per-token compute cost, in floating-point operations (FLOPs), resembles that of a much smaller dense model. Whether that FLOP advantage survives in practice is far less clear. We ask whether MoE models actually run faster and cheaper than comparable dense models on consumer-grade and edge hardware. We benchmark OLMoE-1B-7B (1.3 B active of 6.9 B total) against three dense baselines on an Apple M2 Pro and an NVIDIA Jetson Orin Nano 8 GB through llama$.$cpp, measuring throughput, memory, and on-device energy. The answer is device-dependent: OLMoE's active-parameter advantage is only partly realised on the laptop (~10% behind the same-active Llama-3.2-1B) and erodes on the edge device (~31% behind, at 2.1$\\times$ the energy per token, with peak memory at the 8 GB ceiling). Patching llama$.$cpp to time the decode graph node-by-node shows routing accounts for under 9% of MoE-block compute on the cleaner edge backend, so the gap reflects total-parameter memory footprint, expert dispatch, and KV-cache pressure rather than routing. The implication is that on bandwidth-bound edge hardware, inference cost tracks total parameters, not active ones, and sparse activation does not buy back what the device is constrained on. These findings are bounded to one MoE model at this parameter scale and two devices, and we release the full measurement harness and per-run data.",
+      "primary_category": "cs.PF"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:35:35Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2606.21428v3"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
     "unique_id": "arxiv_2606.23195v2",
     "schema_version": "1.0",
     "name": "Memory Contagion: Cross-Temporal Propagation of Evaluator Bias via Agent Memory",
@@ -16853,6 +17230,35 @@
       "related_models": [],
       "related_papers": [
         "2606.26398v2"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2606.26428v2",
+    "schema_version": "1.0",
+    "name": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2606.26428v2",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.RO",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2606.26428v2",
+      "updated": "2026-07-09T17:59:45Z",
+      "published": "2026-06-24T22:39:12Z",
+      "title": "Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?",
+      "summary": "Multi-fingered robots promise the speed and dexterity of human hands, yet challenging problems such as precise assembly have remained out of reach. These tasks are contact-rich, making data collection for imitation learning difficult, and sparse-reward, making direct exploration with reinforcement learning (RL) intractable. Consequently, prior work has made progress by structuring the problem with specialized grippers, tool attachments, and environment fixtures. In this work, we argue that before a robot can perfect precise assembly, it must first learn to play. We further ask the question: what factors in the process of learning to play matter for precise assembly? We propose Play2Perfect, an RL framework for task-agnostic pretraining through play on diverse objects and goals, which is then perfected on precise assembly. The goal of play is to acquire reusable manipulation priors, such as grasping, in-hand reorientation and pose reaching. Finetuning then adapts this general prior to assembly, focusing exploration on the final contact-rich, high-precision interactions needed for success. We systematically study key design choices in play pretraining, including object diversity, training objective, trajectory diversity, and goal precision. We show that our prior is 33x more sample-efficient than RL training from scratch, even when provided with dense, multi-stage rewards. We demonstrate zero-shot sim-to-real transfer, achieving 60% success on tight insertions with only 0.5 mm contact clearance, and over 50% success on long-horizon multi-part assembly and screwing.",
+      "primary_category": "cs.RO"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:45Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2606.26428v2"
       ],
       "related_datasets": [],
       "related_tools": []
@@ -26104,6 +26510,1050 @@
       "related_models": [],
       "related_papers": [
         "2607.07708v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08625v1",
+    "schema_version": "1.0",
+    "name": "The complexities of patient-centred conversational artificial intelligence",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08625v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08625v1",
+      "updated": "2026-07-09T15:56:55Z",
+      "published": "2026-07-09T15:56:55Z",
+      "title": "The complexities of patient-centred conversational artificial intelligence",
+      "summary": "Consumer-facing health chatbots powered by large language models (LLMs) are increasingly used for symptom assessment. However, chatbot development and evaluation often rely on cooperative, articulate, simulated patients. We analysed 2,053 real patient-chatbot conversations and found that communication patterns and expression of emotions vary widely across users. We developed a patient simulator that separately models clinical content, emotional state, conversational strategy, and communication style. In a Turing-inspired evaluation of realism with 15 human graders, simulated conversations were nearly indistinguishable from real ones, with human graders achieving an accuracy of 55%. We used five distinct patient personae, across 1,164 clinician-graded cases, to evaluate the performance of four LLMs in urgency assessment. We found that communication style can significantly alter triage outcomes. Patient-centred conversational artificial intelligence must accommodate communication diversity: systems designed for idealised, rather than realistic, interactions risk underperforming and amplifying health disparities when deployed in the real world.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T15:56:55Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08625v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08639v1",
+    "schema_version": "1.0",
+    "name": "Native Video-Action Pretraining for Generalizable Robot Control",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08639v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.RO",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08639v1",
+      "updated": "2026-07-09T16:15:43Z",
+      "published": "2026-07-09T16:15:43Z",
+      "title": "Native Video-Action Pretraining for Generalizable Robot Control",
+      "summary": "The advent of video-action models offers a promising path for robot control. Nevertheless, we argue that repurposing video generative models designed for digital content creation is inherently inadequate for physical environments. To bridge this gap, we present LingBot-VA 2.0, a video-action foundation model built from the ground up for embodiment. Four core design principles showcase its evolution from LingBot-VA. (1) Departing from traditional reconstruction-focused VAEs, we introduce a semantic visual-action tokenizer, which aligns visual representations with both semantics and actions, improving instruction following and action precision in subsequent policy learning. (2) Given the strictly causal nature of temporal dynamics, we adopt a causal pretraining paradigm, training from scratch to circumvent the catastrophic forgetting that frequently occurs when adapting bidirectional architectures. (3) To meet the demands of high-frequency inference, our model employs a sparse MoE backbone, expanding model capacity without compromising efficiency. (4) Real-time closed-loop control is realized through an enhanced asynchronous inference scheme, which predicts future latents in parallel with action execution while re-grounding each rollout on the latest observation via learned forward dynamics. Real-world deployment validates LingBot-VA 2.0 as a robust foundation model, as evidenced by its few-shot generalization across complex manipulation tasks.",
+      "primary_category": "cs.RO"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:15:43Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08639v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08642v1",
+    "schema_version": "1.0",
+    "name": "DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08642v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08642v1",
+      "updated": "2026-07-09T16:16:35Z",
+      "published": "2026-07-09T16:16:35Z",
+      "title": "DominoTree: Conditional Tree-Structured Drafting with Domino for Speculative Decoding",
+      "summary": "Speculative decoding accelerates LLM inference by drafting several tokens and verifying them in parallel. Block-diffusion drafters such as DFlash produce\n  a draft block in one pass but model only per-position marginals; best-first tree methods such as DDTree expand candidate trees from those marginals. The\n  released Domino drafter adds a GRU-based causal correction that makes each draft token's distribution path-dependent, a structure DDTree's factorized\n  formulation cannot represent. We introduce DominoTree, a training-free best-first draft tree scored by Domino's conditional, non-factorized correction\n  along each root-to-node path, made practical by restricting the per-node correction to a candidate top-M. On Qwen3-4B across eight benchmarks, DominoTree\n  reaches up to 6.6x speedup over autoregressive decoding and the highest mean accept length of any evaluated method, up to 10.7 tokens per round, at every\n  temperature we test. DominoTree constructs its tree with a GPU-native, CUDA-graph builder that is bit-identical to a reference Python implementation, so\n  acceptance is unchanged, while keeping per-round tree construction cheap. With this builder as default, DominoTree wins throughput over the released\n  Domino decoder at every temperature, 9-10% overall on Qwen3-4B and up to +22% on Alpaca, and over DDTree/CaDDTree at every temperature we test. On Qwen3-\n  8B, DominoTree keeps the highest accepted length at every temperature and adds a decisive throughput win at T=0, +24% over DDTree; at higher temperature\n  that edge over DDTree/CaDDTree narrows to a tie and a small loss, while its Overall aggregate wins over DFlash and Domino persist.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:16:35Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08642v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08646v1",
+    "schema_version": "1.0",
+    "name": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08646v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08646v1",
+      "updated": "2026-07-09T16:18:07Z",
+      "published": "2026-07-09T16:18:07Z",
+      "title": "UltraX: Refining Pre-Training Data at Scale with Adaptive Programmatic Editing",
+      "summary": "As available training data approaches its physical limit, gains from Scaling Laws have begun to diminish. Consequently, improving Large Language Models (LLMs) now depends less on data expansion and more on higher-quality data utilization. However, in the context of large-scale corpora, existing refinement methodologies face significant limitations in quality, efficiency, and reliability: Rule-based approaches are constrained by fixed heuristics and struggle with instance-level variations; LLM-based approaches improve quality but fail to meet the efficiency and reliability requirements of large-scale data processing. To address these challenges, we propose UltraX, a function-calling refinement framework for large-scale pre-training data that completes the editing function space by introducing insertion in addition to deletion and modification, enabling fine-grained instance-level editing. Specifically, UltraX builds a reliable program-supervision generation pipeline. In this pipeline, dataset-adaptive prompt optimization first guides an expert LLM to produce high-quality end-to-end refined texts, and Line Alignment Mapping and Dynamic Context Replacement then convert original-refined text pairs into structured program supervision. Meanwhile, UltraX improves supervision quality and stabilizes the training distribution with low-confidence example filtering and ratio-controlled sampling by operation combination. During inference and execution, it normalizes and validates model outputs through sliding-window prediction, global operation aggregation, and systematic post-processing, improving the stability and reliability of large-scale execution. Experiments show that UltraX achieves the highest average performance across all corpora and also matches or surpasses baselines with fewer training tokens, demonstrating stronger data efficiency and refinement reliability.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:18:07Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08646v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08647v1",
+    "schema_version": "1.0",
+    "name": "Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08647v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08647v1",
+      "updated": "2026-07-09T16:18:16Z",
+      "published": "2026-07-09T16:18:16Z",
+      "title": "Multi-Modal, Multi-Environment Machine Teaching for Robust Reward Learning",
+      "summary": "As autonomous agents are increasingly deployed across diverse operational contexts, aligning their behavior with human intent demands reward functions that remain robust to such changes rather than overfitting to any single environment. Inverse reinforcement learning (IRL) provides a principled way to infer such objectives from human feedback. However, existing analyses of optimal teaching approaches for IRL focus on single-environment, demonstration-only settings, leaving underexplored how heterogeneous feedback modalities and environment dynamics jointly constrain reward functions that generalize across multiple environments. Because demonstrations in one MDP entangle reward information with that environments specific structure, the resulting rewards frequently fail to generalize when the agent is deployed in a new setting. We first analyze how different feedback modalities constrain rewards, showing that, in the unlimited-data regime, comparisons impose strictly stronger global constraints than other modalities. Beyond this theoretical analysis, we introduce a hierarchical machine teaching algorithm for reward learning that operates across multiple MDPs. The algorithm first greedily selects informative environments that expose complementary reward constraints, then strategically queries low-cost feedback within those environments. Empirically, our method achieves substantially lower regret and stronger generalization to held-out environments than uniform teaching baselines under identical feedback budgets, demonstrating the importance of multi-environment, multi-modal teaching for learning dynamics-robust reward functions.",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:18:16Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08647v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08652v1",
+    "schema_version": "1.0",
+    "name": "Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08652v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08652v1",
+      "updated": "2026-07-09T16:21:16Z",
+      "published": "2026-07-09T16:21:16Z",
+      "title": "Formal Mechanisms for Market Stability in Self-Interested Agent Societies: A Marketplace Simulation Study",
+      "summary": "Self-interested agents, left unconstrained, tend toward defection in repeated social dilemmas, causing cooperative gains from trade to collapse. This paper investigates what formal mechanisms, layered on top of unrestricted communication, are sufficient for a society of such agents to maintain market stability, and how resilient those mechanisms are to adversarial attack. We instantiate the research question as a multi-agent marketplace simulation where 18 LLM agents (DeepSeek-V3) with complementary production specialties must trade within a constrained social network to obtain utility. We conduct two experimental phases: (1) a mechanism comparison across eight conditions under progressive troll injection over 200 rounds, identifying Mediation as the top-performing mechanism; and (2) adversarial red-teaming of Mediation using iteratively prompt-optimised LLM-driven trolls, finding that the best attack (v6) reduces honest-agent utility by 13.3% but cannot collapse the market. Mediation enables recovery even under sustained adversarial pressure. We define adversarial robustness as a mechanism's ability to sustain positive honest-agent utility under optimised attack, and find that Mediation is robust: it can be bent but not broken.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:21:16Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08652v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08662v1",
+    "schema_version": "1.0",
+    "name": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08662v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08662v1",
+      "updated": "2026-07-09T16:28:49Z",
+      "published": "2026-07-09T16:28:49Z",
+      "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+      "summary": "Large language model (LLM)-based web search agents are transforming information seeking from simple factoid question answering into complex, deep-and-wide search and research-oriented tasks. A single ReAct-style agent is constrained by one long trajectory and limited context, making it difficult to handle depth and coverage simultaneously. Existing multi-agent systems improve search coverage through parallel execution and aggregation, but still exhibit clear limitations in recursive depth, collaboration adaptability, and evidence-grounded expansion. We propose WebSwarm, a progressive recursive delegation framework that jointly constructs task decomposition, recursive expansion, and agent collaboration during inference. WebSwarm dynamically instantiates agentic search nodes, each coupling a local objective with a search mode that specifies how the node should organize search and collaboration. Each node can either solve its objective itself or further delegate child nodes; after solving, it returns evidence and results upward, enabling parent nodes to further expand, revise, or aggregate the search process. To guide this process, WebSwarm first probes how task-relevant information is organized on the web to ground subsequent node expansion, and reuses process-level experience across homogeneous sibling nodes. Experiments on BrowseComp-Plus, WideSearch, DeepWideSearch, and GISA show that WebSwarm consistently outperforms single-agent and multi-agent baselines on deep, wide, and interleaved deep-and-wide tasks. Further analyses of ablation, task difficulty, web tool efficiency, and model generalization explain WebSwarm's effectiveness and provide insights for multi-agent search systems.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:28:49Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08662v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08674v1",
+    "schema_version": "1.0",
+    "name": "Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08674v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08674v1",
+      "updated": "2026-07-09T16:36:54Z",
+      "published": "2026-07-09T16:36:54Z",
+      "title": "Do Transformations Reveal the Truth? Generative Residual Learning for Generalized AI-Generated Image Detection",
+      "summary": "The rapid advancement of generative AI has enabled the creation of highly realistic deepfake media, posing significant threats, including misinformation, digital identity theft, fraud, and manipulation of public opinion. AI-generated image (AIGI) detection is reliably challenging due to the diversity of generative methods and the subtle artifacts they leave behind. In this work, we propose GenRes, a novel framework for generative residual learning via a neural tensor network, which models fine-grained relational features between original and transformed samples to enhance generalization. To address scenarios involving multiple generative transformations, we introduce GenRes++, which employs a learnable attention mechanism to aggregate relational features across multiple transformed samples and enables the model to focus on the most informative cues. Both models leverage PE-Core as a feature extractor, providing generalized and semantically rich embeddings that improve cross-domain performance and enable the detection of AIGI generated by unseen methods. Comprehensive experiments on multiple benchmark datasets demonstrate that the proposed GenRes++ approach outperforms existing methods.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:36:54Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08674v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08679v1",
+    "schema_version": "1.0",
+    "name": "Multi-Resolution Feature Stem for Diabetic Retinopathy lesion segmentation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08679v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08679v1",
+      "updated": "2026-07-09T16:42:23Z",
+      "published": "2026-07-09T16:42:23Z",
+      "title": "Multi-Resolution Feature Stem for Diabetic Retinopathy lesion segmentation",
+      "summary": "Diabetic Retinopathy (DR) is a leading cause of preventable blindness worldwide, requiring automated lesion segmentation using deep learning models for early detection and monitoring. However, DR lesions vary dramatically in size from tiny microaneurysms to large hemorrhages and exudates. This variability creates conflicting demands on the model architecture and input resolution, posing a challenge for effective design. This work investigates the impact of input resolution on different lesion types. Through systematic experimentation with multiple architectures (U-Net, UNet++, Vision Transformers, DeepLabV3+) at $512 \\times 512$ and $1024 \\times 1024$ resolutions, we identify a critical, counter-intuitive phenomenon where increasing input resolution has opposing effects on different lesion types. We demonstrate that while higher resolution is essential for resolving fine-grained microaneurysms, it can unexpectedly degrade performance on larger hemorrhages. This finding challenges the common assumption that higher resolution is uniformly beneficial. To address this, we propose a novel Multi-Resolution Feature Stem, an input-level pyramid integrated with a UNet++ backbone. This architecture processes multiple scales in parallel, capturing fine-grained details without sacrificing contextual information. This work contributes crucial empirical evidence of this complex, resolution-dependent behavior and a practical, parameter-efficient architecture that successfully resolves this trade-off.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:42:23Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08679v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08681v1",
+    "schema_version": "1.0",
+    "name": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08681v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08681v1",
+      "updated": "2026-07-09T16:43:42Z",
+      "published": "2026-07-09T16:43:42Z",
+      "title": "SolarChain-Eval: A Physics-Constrained Benchmark for Trustworthy Economic Agents in Decentralized Energy Markets",
+      "summary": "As agentic AI systems are increasingly applied to cyber-physical environments, their evaluation requires assessment of both task performance and trustworthiness. In decentralized energy markets, autonomous agents may improve market utility, but may also exploit invalid physical data, create artificial liquidity, and produce unstable governance decisions. Therefore, we propose SolarChain-Eval, a physics-constrained benchmark for evaluating trustworthy economic agents. It formulates market governance as a Gymnasium-compatible Markov Decision Process, where agents make hourly decisions. SolarChain-Eval evaluates each policy across multiple dimensions, including market utility, physical safety, slippage, action smoothness, spatial fairness, and auditability. To support agentic evaluation, SolarChain-Eval incorporates an LLM-based Planner/Auditor layer. The Planner defines episode-level action bounds and audit rules, while the Auditor reviews and revises high-risk actions. All interventions are recorded through structured logs, including trigger signals, proposed actions, revised actions, and audit rationales. Experiments with static, random, myopic, RL, and RL+LLM policies reveal a clear utility-safety trade-off. RL agents improve market utility but can still produce unsafe behavior. When the physics penalty is removed, reward-maximizing agents exploit invalid generation and increase artificial liquidity. The LLM Planner/Auditor improves auditability and mitigates selected risks, but it cannot fully compensate for a misspecified reward function. These results indicate that trustworthy agentic AI evaluation requires both physical constraints and transparent intervention traces. We release data and code as open access on GitHub for replicability.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:43:42Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08681v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08688v1",
+    "schema_version": "1.0",
+    "name": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08688v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08688v1",
+      "updated": "2026-07-09T16:49:57Z",
+      "published": "2026-07-09T16:49:57Z",
+      "title": "SAM-MT: Real-Time Interactive Multi-Target Video Segmentation",
+      "summary": "Modern Video Object Segmentation (VOS) involves tracking and segmenting user-specified targets. While recent approaches have achieved remarkable performance in single-target scenarios, extending them to multi-target settings typically involves replicating the single-target processing for each individual object, resulting in reduced frame rates (FPS) with unbounded latency as target count increases. Built upon Segment Anything 2 (SAM2), we propose SAM-MT, which addresses this by transforming the model into an interactive framework for real-time Multi-Target video segmentation. SAM-MT uses explicit queries to represent different individual targets, in parallel with a shared representation for global context. It employs decoupled masked attention to keep individual identities distinct from cross-target interference, and sparse memory for stable temporal evolution, along with specialized strategies for occlusion handling and overlap prevention. SAM-MT successfully decouples latency from the number of targets, achieving real-time speed on par with single-target baselines (>36 FPS for 10 targets) while maintaining SAM2's robust video segmentation performance.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:49:57Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08688v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08690v1",
+    "schema_version": "1.0",
+    "name": "A Practical Investigation of Training-free Relaxed Speculative Decoding",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08690v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08690v1",
+      "updated": "2026-07-09T16:50:41Z",
+      "published": "2026-07-09T16:50:41Z",
+      "title": "A Practical Investigation of Training-free Relaxed Speculative Decoding",
+      "summary": "Speculative decoding accelerates sampling from an autoregressive LLM by using a faster auxiliary model to draft tokens which are then verified in parallel by the LLM. Standard speculative decoding is lossless: its rejection and resampling steps exactly preserve the LLM's sampling distribution. Recent work argues that relaxing this strict guarantee can yield further speed-ups, controlled capability-speed trade-offs, or even capability gains. We practically investigate training-free relaxed speculative decoding techniques, unify existing approaches within a shared framework, benchmark them on contemporary settings, and distil takeaways and empirical findings for practitioners. Important takeaways include: relaxation can require considerable capability evaluation unlike lossless speculative decoding, and many relaxed approaches rely on a drafter that is a good language model, making them unsuited for lightweight dedicated multi-token-prediction drafters.",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:50:41Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08690v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08691v1",
+    "schema_version": "1.0",
+    "name": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08691v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.SE",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08691v1",
+      "updated": "2026-07-09T16:50:54Z",
+      "published": "2026-07-09T16:50:54Z",
+      "title": "ProjAgent: Procedural Similarity Retrieval for Repository-Level Code Generation",
+      "summary": "Repository-level code generation requires implementing target functions while accounting for complex cross-file dependencies and project-specific conventions. Existing retrieval methods predominantly rely on lexical, structural, or semantic similarity, often overlooking repository functions that implement similar procedural logic despite differing in identifiers or application domains. We propose ProjAgent, a repository-level code generation system that introduces procedural similarity as an explicit retrieval signal. ProjAgent decomposes the target function into intermediate reasoning steps and employs an agentic workflow to retrieve repository functions that exhibit similar procedural behavior at each step. The retrieved procedural context is integrated with conventional semantic retrieval to construct a richer repository context for code generation. ProjAgent further incorporates a conservative static-analysis feedback loop that iteratively repairs generated code using compiler and static-analysis feedback. Evaluated on REPOCOD, ProjAgent achieves 41.14% Pass@1, outperforming existing retrieval-based baselines. These results demonstrate that procedural similarity is an effective and previously unexplored retrieval dimension for repository-level code generation.",
+      "primary_category": "cs.SE"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T16:50:54Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08691v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08700v1",
+    "schema_version": "1.0",
+    "name": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08700v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08700v1",
+      "updated": "2026-07-09T17:01:40Z",
+      "published": "2026-07-09T17:01:40Z",
+      "title": "Do You Need a Frontier Model as a Citation Verifier? Benchmarking Rubric LLMs for Deep-Research Source Attribution",
+      "summary": "Reinforcement learning increasingly relies on an LLM judge to score each rubric criterion, and that judge acts as the reward model during training. Before such a signal can be trusted, we need to know how capable the judge must be and how biased it is. We study this calibration question for citation quality in deep-research systems, where a search-grounded LLM must support each claim it writes with a cited source. Citation quality is a structured rubric task in which each attribution-citation pair is judged along two dimensions that require an LLM, source relevance and factual support. On an adversarial long-form benchmark, we score 8 off-the-shelf LLM judges from 3 model families against gold labels over 1,248 rubric decisions, all of which were human-reviewed and 378 of which were hard cases adjudicated from judge disagreements. Cheaper judges remain competitive across both dimensions, with GPT-5-mini attaining the strongest source-relevance pass-class F1 at 0.908 ($κ$=0.636), while on factual support the judges are statistically indistinguishable (overlapping confidence intervals), so no single model dominates. At comparable F1, the judges still differ substantially in pass-rate drift, false positive rate, and false negative rate. Scalar F1 obscures this directional bias, yet it is exactly what a downstream reinforcement learning loop would reinforce. Calibrating the judge is therefore a prerequisite for using citation rubrics as reward signals, and our results show that this calibration does not require the most expensive available model.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:01:40Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08700v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08705v1",
+    "schema_version": "1.0",
+    "name": "HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08705v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08705v1",
+      "updated": "2026-07-09T17:12:41Z",
+      "published": "2026-07-09T17:12:41Z",
+      "title": "HumanForge: A Human-Centric Deepfake Video Benchmark with Multi-Agent Forgery Rationales",
+      "summary": "Rapid advancements in video diffusion models and temporal editing tools have enabled the generation of highly realistic human-centric videos, posing unprecedented challenges to digital content forensics. Existing benchmarks primarily focus on either face-swapping or global text-to-video synthesis, overlooking the crucial dimensions of human-object or human-human interactions and multi-modal alignment. To address these limitations, we introduce HumanForge, a unified, large-scale, and multi-paradigm human-centric video forgery dataset. To construct and annotate this dataset without labor-intensive manual labeling or hallucinated monolithic prompts, we propose Gen2Anno, a modular active multi-agent pipeline built on LangGraph. Gen2Anno coordinates six specialized agents-ranging from source profiling to MoE-based reference analysis and closed-loop forensic verification-to generate over 18K high-fidelity video segments and produce structured, contrastive omni-annotations containing binary decisions, fine-grained artifact categories, and spatio-temporal localization. Extensive benchmarks using state-of-the-art traditional detectors and Large Multimodal Models (LMMs) demonstrate the significant challenges of zero-shot generalization and fine-grained reasoning on HumanForge. Code and dataset will be publicly released.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:12:41Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08705v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08711v1",
+    "schema_version": "1.0",
+    "name": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08711v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08711v1",
+      "updated": "2026-07-09T17:22:35Z",
+      "published": "2026-07-09T17:22:35Z",
+      "title": "LTM: Large-scale Terrain Model for Wildfire-prone Landscapes",
+      "summary": "Accurate 3D terrain maps are essential for emergency response when assessing wildfire hazards. However, wildfire-prone regions often span vast areas where conventional reconstruction methods underperform. Airborne LiDAR systems provide high-resolution terrain data, but they are expensive and infrequently updated. Image-based methods offer a lower-cost alternative, but struggle due to sparse visual features and limited image overlap. We propose a multi-modal reconstruction framework leveraging outdated Digital Elevation Models (DEMs) as geometric priors for image-based 3D reconstruction. Our key innovation is physics-based pixel-pixel alignment between images and DEM data, dramatically reducing computational complexity by eliminating expensive feature matching procedures. To validate our approach, we developed a large-terrain simulator based on a real wildfire-prone area, generating realistic images enabling a comprehensive evaluation. Given posed images and legacy DEMs, our method produces high-fidelity depth maps while maintaining real-time performance. We find significant improvements in reconstruction accuracy and computational efficiency over existing techniques, offering a scalable solution for wildfire response.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:22:35Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08711v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08716v1",
+    "schema_version": "1.0",
+    "name": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08716v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08716v1",
+      "updated": "2026-07-09T17:26:28Z",
+      "published": "2026-07-09T17:26:28Z",
+      "title": "Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents",
+      "summary": "In long-horizon tasks, decision-relevant state is often scattered across an expanding trajectory, while the action agent must surface it and act. As trajectories grow, task requirements, environment facts, prior attempts, diagnoses, and open subgoals can be buried in the context window or pushed beyond it, failing to influence decisions when needed. We call this failure mode \"behavioral state decay\". We study memory as an active intervention mechanism rather than passive retrieval. A separate memory agent runs alongside an unmodified action agent, updating a structured memory bank from the recent trajectory and deciding whether to inject a memory-grounded reminder or remain silent. The module is plug-and-play with frontier action agents and existing agent harnesses. Across Terminal-Bench 2.0 and $τ^2$-Bench, it improves pass@1 for both weaker and stronger action agents, with gains of +8.3 pp on Terminal-Bench and +6.8 pp on $τ^2$-Bench. Ablations show that selective intervention outperforms passive bank exposure, always-on injection, advisor-only guidance, and general retrieval. As an early step toward open-weight memory policies, we train Qwen3.5-27B on SETA using SFT and GRPO, improving validation reward and achieving partial transfer to Terminal-Bench.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:26:28Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08716v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08725v1",
+    "schema_version": "1.0",
+    "name": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08725v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08725v1",
+      "updated": "2026-07-09T17:31:16Z",
+      "published": "2026-07-09T17:31:16Z",
+      "title": "Pose-to-Biomechanics: Bridging 3D Human Pose Estimation and Biomechanical Attribute Prediction",
+      "summary": "Recent progress in 3D human pose estimation has made markerless recovery of skeletal motion increasingly accurate and scalable. However, most pose estimators remain optimized for geometric keypoint accuracy, while many real-world applications in rehabilitation, sports science, ergonomics, and clinical movement analysis require biomechanical quantities that describe how the body moves, loads, and activates. In this work, we propose BioModule, a lightweight plug-in temporal transformer that attaches downstream of any 3D pose estimator and predicts biomechanical attributes from standard 17-joint 3D skeletons. BioModule is estimator-agnostic and requires no modification of the upstream pose model, enabling existing pose estimators to be extended toward physically interpretable motion analysis.\n  To train and evaluate BioModule, we construct a large-scale aligned dataset pairing Human3.6M video and 3D keypoints with the biomechanical label space of Human3.6Mplus. We establish and verify anatomical correspondence between coordinate systems of the two datasets, enabling frame-accurate cross-modal supervision. Using this aligned supervision, BioModule predicts biomechanical quantities. We further benchmark BioModule across seven state-of-the-art 3D pose estimators, providing the first systematic analysis of how upstream pose estimation quality propagates to downstream biomechanical prediction fidelity. The results position BioModule as a compact, modular bridge between vision-based pose estimation and biomechanically meaningful human motion analysis.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:31:16Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08725v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08729v1",
+    "schema_version": "1.0",
+    "name": "WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08729v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08729v1",
+      "updated": "2026-07-09T17:34:04Z",
+      "published": "2026-07-09T17:34:04Z",
+      "title": "WaspMOT: A Benchmark for Long-Term Multi-Object Tracking of Trichogramma Wasps",
+      "summary": "Multi-object tracking (MOT) has achieved strong performance on benchmarks dominated by short video sequences. However, such datasets do not adequately evaluate long-term identity preservation, where objects must be tracked consistently over extended durations. We introduce WaspMOT, a benchmark designed to address this gap through long-duration tracking of Trichogramma wasps in controlled ecological experiments. The dataset contains 10 sequences of approximately 12,000 frames each (over 8 minutes at 25 FPS), with dense MOTChallenge annotations and oracle detections to isolate association performance.\n  Unlike existing benchmarks, WaspMOT forms a closed-set tracking scenario where all individuals remain present throughout the sequence, requiring consistent identity assignment across thousands of frames despite abrupt jumps, occlusions, and highly similar appearance. We establish a benchmark by evaluating five tracking-by-detection methods, including ByteTrack, BoT-SORT, C-BIoU, OC-SORT, and McByte, under a unified protocol. Results show that all methods suffer from significant trajectory fragmentation, highlighting the difficulty of long-term identity preservation even with perfect detections. A simple spatial tracklet stitching baseline consistently improves performance, indicating that substantial gains remain possible.\n  WaspMOT provides a new benchmark for studying long-term association and reveals limitations of current tracking approaches that are not observable on conventional datasets. The benchmark will be made publicly available at the project repository: https://github.com/tstanczyk95/WaspMOT/ .",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:34:04Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08729v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08731v1",
+    "schema_version": "1.0",
+    "name": "Validity of LLMs as data annotators: AMALIA on authority",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08731v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08731v1",
+      "updated": "2026-07-09T17:34:25Z",
+      "published": "2026-07-09T17:34:25Z",
+      "title": "Validity of LLMs as data annotators: AMALIA on authority",
+      "summary": "A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it agrees with trained human coders to within six F1 points of open models eight to thirteen times its size. Yet agreement is reliability, not validity. For theoretical constructs that must be inferred rather than read from surface features, the question is whether the model follows the construct's theory or reaches the right code by correlated shortcuts. We test this with the recovery gap: the loss in performance when a holistic prompt is decomposed into the codebook's atomic clauses and recombined by the theory's explicit rule. If calibration closes that gap, some portability should survive across models and languages; where it does not, the construct-model instrument is the likely locus of failure. We ask whether a calibrated English instrument transfers to AMALIA-9B and to European Portuguese. For one construct and one corpus, it does not. Decomposition recovers only about half of AMALIA's holistic performance, and error analysis suggests reliance on surface correlates, especially moral outrage near authority figures. An open multilingual LLM closes the gap on the same Portuguese corpus under the same instructions, pointing away from the corpus as the main explanation. AMALIA can still screen and pre-code at scale, but it cannot yet measure this construct well enough to stand alone. The study is a single counterexample, not a verdict on national models; it argues that sovereign-LLM benchmark batteries should test not only agreement with human coders, but the evidential route by which that agreement is warranted.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:34:25Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08731v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08734v1",
+    "schema_version": "1.0",
+    "name": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08734v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08734v1",
+      "updated": "2026-07-09T17:35:02Z",
+      "published": "2026-07-09T17:35:02Z",
+      "title": "The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs",
+      "summary": "Post-training quantization is widely used to deploy large language models in resource-constrained settings, yet its evaluation relies almost exclusively on accuracy and perplexity. We show that these metrics fail to capture behavioral changes induced by quantization. We introduce correctness agreement, a decision-level metric that measures overlap in correct predictions between a base model and its quantized variants, independent of absolute accuracy. Across multiple models and quantization schemes from 8-bit to 2-bit, we find that behavioral divergence emerges under moderate quantization even when task performance appears preserved. To explain this effect, we analyze quantization as a structural operator on attention weights and quantify layer-wise distortions using statistical and distributional measures. Our results reveal non-linear breakpoints at low bit-widths and show that query and key projections are consistently more sensitive than value and output projections. These findings expose an illusion of equivalence between base and quantized models and motivate behavioral evaluation beyond conventional performance metrics.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:35:02Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08734v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08740v1",
+    "schema_version": "1.0",
+    "name": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08740v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08740v1",
+      "updated": "2026-07-09T17:40:46Z",
+      "published": "2026-07-09T17:40:46Z",
+      "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+      "summary": "Large language model (LLM) applications increasingly use explicit workflows for tool use, retrieval, branching, checkpointing, and human approval. Existing workflow systems already address many execution concerns. This paper proposes a Lisp-inspired but language-independent conceptual model: symbolic forms, object identity, and live-image thinking are used as explanatory lenses, not implementation commitments. In this model, workflow definitions, workflow instances, inference records, context snapshots, and dependency relations are represented as persistent knowledge objects in a shared knowledge substrate. Its central semantic distinction is between derive and infer: derive is deterministic computation over available state; infer is mediated LLM judgment under declared context and executor-controlled capability policy.\n  The result is a preliminary conceptual account of semantic persistence: workflows do not merely produce knowledge and leave traces, but can themselves be represented as inspectable, resumable, and reviewable knowledge objects, while formal transition semantics remain future work.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:40:46Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08740v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08741v1",
+    "schema_version": "1.0",
+    "name": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08741v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.GR",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08741v1",
+      "updated": "2026-07-09T17:41:49Z",
+      "published": "2026-07-09T17:41:49Z",
+      "title": "ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation",
+      "summary": "Generating realistic 3D human motions in real-time within interactive applications is key for animation, simulation, and humanoid robotics. While recent offline motion generation approaches offer precise control via text and kinematic constraints, they lack the inference speed required for interactive settings. Conversely, existing online methods enable real-time synthesis but often sacrifice controllability or struggle with complex text semantics and long-horizon goals due to limited context windows. In this work, we introduce ARDY, a streaming generation framework that bridges this gap by enabling high-fidelity motion generation controllable via online text prompts and flexible kinematic constraints. ARDY employs a hybrid representation that combines explicit root features with a latent body embedding, balancing precise trajectory control with efficient generative learning. We propose a two-stage autoregressive transformer denoiser that features variable history context and supports conditioning on flexible, long-horizon kinematic constraints. By training on a large-scale motion capture dataset and being directly conditioned on text labels and kinematic constraints sampled from ground truth poses, ARDY natively learns controllable generation that supports online prompting and flexible long-horizon goals. Extensive evaluations on the HumanML3D benchmark and the large-scale, high-fidelity Bones Rigplay dataset demonstrate ARDY's high motion quality and constraint adherence, validating the efficacy of our key architectural decisions. Finally, we demonstrate the method's practical versatility through an interactive demo featuring dynamic text control, diverse keyframe pose constraints, path following, and interactive locomotion control via mouse and keyboard. Supplementary video results, code, and model releases can be found at https://research.nvidia.com/labs/sil/projects/ardy/.",
+      "primary_category": "cs.GR"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:41:49Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08741v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08745v1",
+    "schema_version": "1.0",
+    "name": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08745v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08745v1",
+      "updated": "2026-07-09T17:46:24Z",
+      "published": "2026-07-09T17:46:24Z",
+      "title": "AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding",
+      "summary": "Recent advances in Vision-Language Models, Large Language Models, and Multimodal Large Language Models have improved autonomous driving tasks such as scene understanding, decision making, trajectory prediction, and visual question answering. However, evaluating whether these models can reliably reason about safety-critical incidents remains challenging. To address this gap, we present AUTOPILOT-VQA, an incident-centric visual question answering benchmark for dashcam video understanding. The dataset evaluates different systems through structured questions designed around real-world driving incidents and near-incidents. The benchmark covers diverse safety-relevant categories, including weather and lighting conditions, traffic environment, road layout, road surface state, signage, involved entities, accident occurrence, impact location, and avoidability-related reasoning. By requiring models to answer grounded questions about both contextual scene properties and event-level incident details, AUTOPILOT-VQA moves beyond object recognition toward temporally grounded, safety-aware reasoning. The dataset is released as part of the AUTOPILOT CVPR 2026 competition and provides a standardized benchmark for assessing the reliability of autonomous driving systems in different scenarios. Our benchmark support developments for more interpretable, robust, and safety-conscious vision-language systems for real-world autonomous driving.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:46:24Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08745v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08746v1",
+    "schema_version": "1.0",
+    "name": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08746v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08746v1",
+      "updated": "2026-07-09T17:47:08Z",
+      "published": "2026-07-09T17:47:08Z",
+      "title": "Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph",
+      "summary": "While UMAP is widely used for exploring high-dimensional data, typical workflows focus on its lower-dimensional embedding, largely overlooking the rich k-nearest-neighbor (kNN) graph that UMAP constructs internally. This graph encodes the data manifold in its original high-dimensional space, before the distortion that UMAP's 2D projection introduces. We demonstrate the untapped potential of this internal representation, showing how standard graph algorithms applied to this graph enhance data sensemaking: (1) PageRank identifies representative data points, (2) k-core decomposition reveals dense core regions versus sparse periphery, and (3) clustering coefficient detects tight-knit neighborhoods with highly-similar data points. Through quantitative and qualitative evaluation on MNIST and Fashion MNIST, we show that these graph-based analyses are not only practical but also competitive with or complementary to purpose-built methods (e.g., k-medoids for exemplar selection, HDBSCAN for density-based clustering).",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:47:08Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08746v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08748v1",
+    "schema_version": "1.0",
+    "name": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08748v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08748v1",
+      "updated": "2026-07-09T17:49:14Z",
+      "published": "2026-07-09T17:49:14Z",
+      "title": "Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis",
+      "summary": "In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but that usage differs across demographic and structural contexts. By identifying these patterns, our study provides an empirical basis for the further development of AI-based learning support and contributes a large-scale analysis of educational chatbot usage in higher education.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:49:14Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08748v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08754v1",
+    "schema_version": "1.0",
+    "name": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08754v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.LG",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08754v1",
+      "updated": "2026-07-09T17:51:50Z",
+      "published": "2026-07-09T17:51:50Z",
+      "title": "SLORR: Simple and Efficient In-Training Low-Rank Regularization",
+      "summary": "Low-rank factorization is widely used to compress neural networks, but modern models are often not naturally amenable to aggressive factorization without significant accuracy loss. Existing training-time low-rank regularizers can improve compressibility, but they often require SVDs of large weight matrices, modify the model architecture (introducing additional trainable parameters), or rely on stateful cached quantities. To address these limitations, we introduce SLORR, a simple, stateless, and architecture-preserving framework for in-training low-rank regularization, instantiated with two main variants based on the Hoyer sparsity metric and the nuclear norm. SLORR directly regularizes the original weight matrices using GPU-friendly approximations for the forward and backward passes of the regularizers, for which we provide approximation guarantees. We first evaluate SLORR on ImageNet-1K across short-horizon continued training of ResNet-50, ViT-B/16, and ViT-L/16, and pretraining of ResNet-18, where SLORR induces compressibility while introducing less than 8% training overhead. We further evaluate SLORR-Hoyer in LLM pretraining at 135M and 560M scales: SLORR-trained compressed models preserve performance substantially better than unregularized models while adding less than 1% average training overhead.",
+      "primary_category": "cs.LG"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:51:50Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08754v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08758v1",
+    "schema_version": "1.0",
+    "name": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08758v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.AI",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08758v1",
+      "updated": "2026-07-09T17:55:53Z",
+      "published": "2026-07-09T17:55:53Z",
+      "title": "Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation",
+      "summary": "Scientific ideas rarely start from a blank page. They inherit mechanisms, repair known limitations, and recombine pieces of earlier work, much like biological genomes. Current benchmarks still say little about whether AI systems can follow this inheritance structure. We present IdeaGene-Bench (IG-Bench), a benchmark for scientific lineage reasoning and lineage-grounded idea generation. IG-Bench is organized around the IdeaGene framework: each paper or proposal is represented as a set of minimal, typed, evidence-grounded Idea Genome objects, and a GenomeDiff aligns these objects to record inheritance, mutation, loss, external import, and novel insertion under six operational evolutionary dynamics. The benchmark contains 1,961 golden lineage traces, 1,085 curated Idea Genome objects, and 920 pairwise GenomeDiff records across 10 scientific domains. It supports two evaluations. IG-Exam (42 task types, 1,029 instances) tests closed-form lineage reasoning across Idea Genome abstraction, inheritance tracing, evolutionary reasoning, and lineage verification. IG-Arena evaluates generation with a lineage-conditioned Population-Evolution Score(PES), asking whether a proposal can be inserted as a coherent descendant of a given lineage population: it should inherit the right Idea Genome objects, vary meaningfully from nearby work, and offer selection value for future research. Experiments on 14 LLM-based scientists expose a compositional bottleneck. The strongest system reaches only 27.3% exact accuracy on lineage reasoning, and structured lineage context reshuffles system rankings rather than helping every participant uniformly.",
+      "primary_category": "cs.AI"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:55:53Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08758v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08763v1",
+    "schema_version": "1.0",
+    "name": "OpenCoF: Learning to Reason Through Video Generation",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08763v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08763v1",
+      "updated": "2026-07-09T17:58:29Z",
+      "published": "2026-07-09T17:58:29Z",
+      "title": "OpenCoF: Learning to Reason Through Video Generation",
+      "summary": "Reasoning has become a core capability for large models, especially when reliable decisions require understanding logical consequences. Recent video generation models offer a reasoning path distinct from previous Chain-of-Thought (CoT): reasoning can unfold through temporally connected frames, known as Chain-of-Frame (CoF) reasoning. However, existing video generators are primarily trained on general video corpora, still lacking diverse supervision and dedicated designs for CoF reasoning. To address this gap, we introduce OpenCoF, a framework comprising the OpenCoF-17K dataset, a reasoning video dataset spanning 11 task families, and Wan-CoF, a fine-tuned video model for studying whether diverse temporal supervision improves CoF behavior. Across four video reasoning benchmarks, Wan-CoF achieves considerable gains over the Wan2.2-I2V-A14B baseline. Building on this, we empirically explore more advanced designs for CoF capabilities, i.e., equipping the model with visual and textual reasoning tokens. This mechanism respectively captures low-level visual cues and high-level semantic priors for spatial and temporal reasoning. Through performance comparisons and attention analysis, we examine how these tokens contribute across model depth, denoising steps, space, and time. Our results suggest that stronger video reasoning requires both broad temporal supervision and explicit mechanisms for organizing intermediate reasoning state. We open-source the dataset, model, and code to facilitate future research on reasoning-oriented video generation.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:58:29Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08763v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08765v1",
+    "schema_version": "1.0",
+    "name": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08765v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08765v1",
+      "updated": "2026-07-09T17:59:06Z",
+      "published": "2026-07-09T17:59:06Z",
+      "title": "Enhancing In-context Panoramic Generation via Geometric-aware Pretraining",
+      "summary": "In this work, we present Canvas360, a two-stage framework for in-context panoramic generation that combines geometry-aware pretraining with downstream task-specific fine-tuning. To address the lack of large-scale, high-quality training data tailored to in-context panoramic tasks, we propose Canvas360Dataset, a collection of 1M high-quality paired panoramic samples for style transfer, inpainting, outpainting, and editing, enabling effective supervision across diverse in-context generation scenarios. On the modeling side, Canvas360 enhances text-to-panorama generation through parallel depth generation, velocity circular padding, and similarity loss regularization, enabling the model to learn geometry-aware representations, capture object distortion details, and improve geometric consistency and global coherence. Furthermore, empowered by strong panoramic priors, Canvas360 enables a unified in-context panoramic generation framework that supports diverse downstream tasks via token-level concatenation, surpassing prior methods in both task coverage and modeling flexibility. Extensive experiments show that Canvas360 improves panoramic image fidelity, achieving particularly strong performance on the panorama-specific FAED metric and competitive or leading results across the reported quantitative evaluations. More information can be found on our project page: https://zry000.github.io/Canvas360/",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:06Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08765v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08766v1",
+    "schema_version": "1.0",
+    "name": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08766v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08766v1",
+      "updated": "2026-07-09T17:59:11Z",
+      "published": "2026-07-09T17:59:11Z",
+      "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
+      "summary": "We propose OPSD-V, an on-policy self-distillation paradigm for post-training few-step autoregressive (AR) video diffusion models. Existing few-step AR video generators can produce long videos with low latency, but still suffer from error accumulation and weakened motion dynamics during long autoregressive rollout. OPSD-V reduces long-horizon degradation while preserving the original few-step inference path. The key idea is to introduce real long-video data as temporal context during training and use it to provide dense trajectory-level supervision. Specifically, the student follows the exact inference-time rollout, generating each chunk conditioned on its own previously generated KV cache. In parallel, the teacher is evaluated at the same student-visited denoising states, but uses a cleaner AR-consistent temporal cache in which older history can be replaced by real-video context. This provides dense denoising-level corrective targets under on-policy AR cache dynamics, without changing the sampler, number of denoising steps, or inference-time cache mechanism. We apply OPSD-V to representative few-step AR video models, including Self-Forcing and LongLive. Experiments show consistent improvements in visual quality, motion dynamics, and VBenchLong scores. A user study with 10 participants comparing 20 video pairs shows that OPSD-V is preferred over the base models in 66.0% of overall-preference judgments (82.5% excluding ties).",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:11Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08766v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08768v1",
+    "schema_version": "1.0",
+    "name": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08768v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CL",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08768v1",
+      "updated": "2026-07-09T17:59:32Z",
+      "published": "2026-07-09T17:59:32Z",
+      "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+      "summary": "The rapid development of large language models and multimodal large language models has accelerated the emergence of proactive agents capable of operating everyday tools and assisting users in real-world environments. However, existing benchmarks struggle to evaluate such agents effectively, as they often rely on sandboxed environments and single-turn evaluation paradigms. Moreover, their scenario-based task taxonomies mix multiple model capabilities within the same task category, making it difficult to identify the root causes of agent failures. To address these limitations, we introduce UniClawBench, the first capability-driven benchmark designed to evaluate proactive agents in dynamic, real-world settings. UniClawBench is built around five foundational model capabilities: Skill Usage, Exploration, Long-Context Reasoning, Multimodal Understanding, and Cross-Platform Coordination. Based on these capabilities, we design 400 bilingual real-world tasks. Unlike previous benchmarks that rely on static, pre-recorded answers, our benchmark evaluates agents in live Docker containers using fine-grained, step-by-step completion checkpoints. Furthermore, we design a closed-loop evaluation strategy comprising an executor agent, a hidden supervisor agent, and a user agent to simulate realistic multi-turn human feedback without leaking grading criteria. To disentangle base model capabilities from framework-level design choices, we evaluate state-of-the-art models under multiple agent frameworks. Through comprehensive comparisons across both models and frameworks, we show how base model capabilities and agent framework designs jointly shape performance in real-world environments. To facilitate future research, we make our benchmark and code publicly available at https://github.com/HKU-MMLab/UniClawBench.",
+      "primary_category": "cs.CL"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:32Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08768v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08769v1",
+    "schema_version": "1.0",
+    "name": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08769v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08769v1",
+      "updated": "2026-07-09T17:59:43Z",
+      "published": "2026-07-09T17:59:43Z",
+      "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
+      "summary": "Scaling 3D Gaussian Splatting (3DGS) to large outdoor scenes is costly in both data acquisition and computation. Adopting panoramic images with equirectangular projection (ERP) can reduce capture effort via their full $360^{\\circ}$ field of view, yet the resulting omnipresent visibility invalidates existing partitioning strategies that rely on local camera frustums, causing block-wise optimization to degenerate into global training. Thus, we propose PanoLOG, a two-stage coarse-to-fine framework equipped with a Geometry and Gradient-based Partitioning Strategy tailored for large-scale panoramic 3DGS reconstruction. In the global coarse stage, PanoLOG leverages sky-sphere modeling and panoramic monocular depth supervision for reliable geometry, while in the refinement stage, G$^2$PS builds adaptive bounding volumes via parallax-driven uncertainty and assigns cameras via gradient-based importance scoring. Furthermore, we construct Pano360, the first benchmark on large-scale panoramic dataset for outdoor scene reconstruction. Extensive experiments demonstrate that G$^2$PS achieves state-of-the-art rendering quality while maintaining scalable, block-parallel training. Our models, training code, and dataset are publicly available.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:43Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08769v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08770v1",
+    "schema_version": "1.0",
+    "name": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08770v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08770v1",
+      "updated": "2026-07-09T17:59:52Z",
+      "published": "2026-07-09T17:59:52Z",
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "summary": "Recovering high-quality video from sparse event streams is a challenging task. Regression methods often blur textures, while existing generative models struggle with long-term stability. We propose LongE2V, a novel approach that leverages pre-trained video diffusion priors to jointly handle event-based video reconstruction, prediction, and frame interpolation. By fine-tuning a foundational video model, our approach achieves high data efficiency and superior perceptual quality. We introduce Autoregressive Unrolling and Adaptive Context Switching to mitigate temporal drift in extremely long sequences. We also propose Reencoding Alignment with Cross Residual Correction to ensure precise bidirectional consistency during frame interpolation. Furthermore, Event Voxel Density Augmentation ensures robustness across varying sensor resolutions. Extensive experiments on real-world benchmarks demonstrate that LongE2V outperforms state-of-the-art methods across all three tasks, exhibiting exceptional temporal coherence and zero-shot generalization. Project page: https://cdfan0627.github.io/LongE2V-page/",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:52Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08770v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08771v1",
+    "schema_version": "1.0",
+    "name": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08771v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08771v1",
+      "updated": "2026-07-09T17:59:58Z",
+      "published": "2026-07-09T17:59:58Z",
+      "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
+      "summary": "Monocular depth estimation has seen remarkable progress through foundation models achieving robust zero-shot generalization, yet their computational demands place them far beyond the reach of embedded and mobile platforms. Lightweight alternatives exist, but have been developed almost exclusively within single-domain, self-supervised paradigms, failing silently under domain shift. We present ZipDepth, a compact monocular depth network that bridges this gap by combining an efficient reparameterizable encoder-decoder with large-scale knowledge distillation from a foundation model over a large multi-domain training set. Comprising just 6.1M parameters, ZipDepth runs at real-time rates from server GPUs to power-constrained devices, achieving the best trade-off between zero-shot accuracy and deployment efficiency among lightweight models across five benchmarks, taking a significant step towards the accuracy of foundation models with 50x more parameters.",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:58Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08771v1"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "arxiv_2607.08772v1",
+    "schema_version": "1.0",
+    "name": "Wat3R: Underwater 3D Geometry Learning without Annotations",
+    "model": "N/A",
+    "score": 0.0,
+    "source_url": "http://arxiv.org/abs/2607.08772v1",
+    "source_name": "ArXiv",
+    "source_type": "arxiv",
+    "category": "cs.CV",
+    "raw_payload": {
+      "id": "http://arxiv.org/abs/2607.08772v1",
+      "updated": "2026-07-09T17:59:58Z",
+      "published": "2026-07-09T17:59:58Z",
+      "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
+      "summary": "Estimating 3D geometry in underwater environments presents unique challenges due to light attenuation, scattering, and the absence of large-scale, high-quality 3D annotations. Pioneering methods rely on massive dense annotations that are impractical in underwater settings. In this paper, we propose Wat3R, a cross-domain semi-supervised learning framework designed to adapt feed-forward 3D reconstruction models from air to underwater scenes. Uniquely, our method eliminates the need for any annotated underwater data following a teacher-student architecture, that learns robust geometry representations merely on abundant unlabeled real underwater video footage. We also design a cross-view consistency loss that leverages geometric cues from other views to compensate for the information degradation in the current view caused by water attenuation and scattering. Furthermore, considering the lack of comprehensive evaluation benchmarks, we construct Water3D, a diverse dataset covering various water bodies and underwater scenarios, designed for geometric task evaluation. Experimental results demonstrate that Wat3R outperforms current state-of-the-art methods in underwater multi-view depth estimation and point cloud reconstruction. The dataset and code are available at https://github.com/LSXI7/Wat3R .",
+      "primary_category": "cs.CV"
+    },
+    "retrieval_timestamp": "2026-07-10T04:50:53Z",
+    "last_updated": "2026-07-09T17:59:58Z",
+    "links": {
+      "related_models": [],
+      "related_papers": [
+        "2607.08772v1"
       ],
       "related_datasets": [],
       "related_tools": []
