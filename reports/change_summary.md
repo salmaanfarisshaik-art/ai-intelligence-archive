@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 180
+**Total Changes:** 181
 
 ## Added
 - docs/stat.ML.md
@@ -89,8 +89,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.11.20260711_165639.zip
-- releases/v2026.07.11.20260711_165639/
+- releases/v2026.07.11.20260711_175540.zip
+- releases/v2026.07.11.20260711_175540/
 - site/
 
 ## Modified
@@ -100,6 +100,7 @@
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
+- data/processed/models/data.json
 - data/processed/tools/data.json
 - docs/cs.CL.md
 - docs/cs.DL.md
