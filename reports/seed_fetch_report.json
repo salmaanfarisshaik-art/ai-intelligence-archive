@@ -1,7 +1,13 @@
 {
-  "failed_sources": [],
-  "sources_failed": 0,
+  "failed_sources": [
+    {
+      "reason": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Read timed out. (read timeout=60)",
+      "repository": "stanford_alpaca",
+      "retry_next_run": true
+    }
+  ],
+  "sources_failed": 1,
   "sources_processed": 9,
-  "sources_succeeded": 9,
-  "timestamp": "2026-07-12T15:58:59.220397+00:00"
+  "sources_succeeded": 8,
+  "timestamp": "2026-07-12T17:07:06.737535+00:00"
 }
