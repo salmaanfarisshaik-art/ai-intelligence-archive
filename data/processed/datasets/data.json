@@ -11448,10 +11448,10 @@
     "author": "eddmpython",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T21:15:19.000Z",
+    "lastModified": "2026-07-12T23:49:03.000Z",
     "likes": 9,
     "private": false,
-    "sha": "dfa3f1ef72635570f68cf5f91f7cb097b7c2dfa4",
+    "sha": "62809dab797db46dbe1eef65c9ea34d831e53e6b",
     "description": "\n\n\n\n\n\nDartLab 데이터\n\n종목코드 하나로 읽는 한국 DART + 미국 SEC EDGAR 공시 데이터\nStructured Korean (DART) and US (SEC EDGAR) disclosure data, ready as Parquet.\n\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t무엇인가요?\n\t\n\n\n\nDartLab이 한국 DART 전자공시와 미국 SEC EDGAR 공시를 종목코드 하나로 비교 가능한 표로 가공해 Parquet으로 올려둔 데이터셋입니다.\n한국 전 상장사(약 2,700사)와 미국 주요 상장사(약 1,000사)의 재무제표, 사업보고서 본문, 정형 공시, 주가, 거시지표가 들어 있습니다.\n이 데이터셋은 DartLab의 데이터 층입니다. dartlab.Company(\"005930\")을 호출하면 라이브러리가 필요한 parquet을 여기서 자동으로 내려받습니다. 숫자는 원문 그대로 보존합니다(반올림·추정·보간 없음).\n\n\t\n\t\t\n\t\n\t\n\t\t코드 없이도 바로 씁니다… See the full description on the dataset page: https://huggingface.co/datasets/eddmpython/dartlab-data.",
     "downloads": 65473,
     "tags": [
@@ -15752,10 +15752,10 @@
     "author": "guyahaobjio5bdq",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:10:23.000Z",
+    "lastModified": "2026-07-12T23:39:01.000Z",
     "likes": 0,
     "private": false,
-    "sha": "dec5e395cd391109185e362d24ca07554bbf8791",
+    "sha": "35e209b342eb634f28eab721b2ca5ba0384d00ea",
     "downloads": 24885,
     "tags": [
       "region:us"
@@ -17065,10 +17065,10 @@
     "author": "hiepp2",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:29:45.000Z",
+    "lastModified": "2026-07-12T23:00:55.000Z",
     "likes": 1,
     "private": false,
-    "sha": "89d6c49188b8af83fb61219522bbb8707801ecc0",
+    "sha": "149009a20ac49a2d16d93f434bdaea4d9cddbb7c",
     "description": "\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset summary\n\t\n\nMixture-of-Thoughts is a curated dataset of 350k verified reasoning traces distilled from DeepSeek-R1. The dataset spans tasks in mathematics, coding, and science, and is designed to teach language models to reason step-by-step. It was used in the Open R1 project to train OpenR1-Distill-7B, an SFT model that replicates the reasoning capabilities of deepseek-ai/DeepSeek-R1-Distill-Qwen-7B from the same base model.\nTo load the dataset, run:\nfrom datasets import… See the full description on the dataset page: https://huggingface.co/datasets/hiepp2/tvp4.",
     "downloads": 61001,
     "tags": [
@@ -18380,10 +18380,10 @@
     "author": "huggingface",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:45:52.000Z",
+    "lastModified": "2026-07-12T23:52:56.000Z",
     "likes": 15,
     "private": false,
-    "sha": "5e5b99f2977359398f8204befd7dc224255be4c0",
+    "sha": "e783a19aa2cca4ef7f42fcb9560100aab135592f",
     "downloads": 27341,
     "tags": [
       "region:us"
@@ -23245,10 +23245,10 @@
     "author": "i998979",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:45:44.000Z",
+    "lastModified": "2026-07-12T23:52:44.000Z",
     "likes": 21,
     "private": false,
-    "sha": "55eb53c866506c8358b1b14d9a7ded6dfe63b762",
+    "sha": "7f3415caae4f548e8785116d83c625efc42d4b1d",
     "downloads": 28267,
     "tags": [
       "region:us"
@@ -31610,10 +31610,10 @@
     "author": "Metanova",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:30:52.000Z",
+    "lastModified": "2026-07-12T23:42:58.000Z",
     "likes": 0,
     "private": false,
-    "sha": "4e1b68044299664969ab77fd93d3d960c436e355",
+    "sha": "fd540dbfdb4842c53abcb2d88ee0a1df2e06610b",
     "downloads": 127560,
     "tags": [
       "region:us"
@@ -36725,10 +36725,10 @@
     "author": "Orannue",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:42:06.000Z",
+    "lastModified": "2026-07-12T23:20:23.000Z",
     "likes": 3,
     "private": false,
-    "sha": "9c423f6d05ae6f3d1f7aba4528ca909c75e6a2f8",
+    "sha": "f638d338d21b926f1935694c42babec21cf0d943",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tYouTube Video Downloads\n\t\n\nThis dataset contains locally downloaded YouTube video files from /data/youtube_downloads.\n\nSource files scanned: 88549\nUploaded unique filenames: 87367\nDuplicate filenames resolved: 1182\nSelected video bytes: 7103828648301\nManifest rows: 87367\n\nFiles are stored under videos/. Metadata is stored under metadata/.\nmetadata/manifest.csv includes these columns:\ntarget_path, filename, video_id, title, duration_seconds, duration, width, height, exact_width… See the full description on the dataset page: https://huggingface.co/datasets/Orannue/dataset.",
     "downloads": 83608,
     "tags": [
@@ -37484,10 +37484,10 @@
     "author": "phuckhang384234",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:20:43.000Z",
+    "lastModified": "2026-07-12T23:39:09.000Z",
     "likes": 0,
     "private": false,
-    "sha": "3f3418514fd7f6b6f5b0cd202542e15cc8b1b8ef",
+    "sha": "6705ca259c1c9bd5e32ecf5dde5982f13a9fe9be",
     "downloads": 46374,
     "tags": [
       "region:us"
@@ -38713,10 +38713,10 @@
     "author": "quanghai34234",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T21:58:02.000Z",
+    "lastModified": "2026-07-12T22:51:40.000Z",
     "likes": 0,
     "private": false,
-    "sha": "1ea0a2e44998e743b61c4360b54814d8ff81efb1",
+    "sha": "a66fa6e0dff5a42a92e362cd50a95c9b9ea4624c",
     "downloads": 24827,
     "tags": [
       "region:us"
@@ -47606,10 +47606,10 @@
     "author": "wegrthj",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-12T22:43:20.000Z",
+    "lastModified": "2026-07-12T23:48:35.000Z",
     "likes": 4,
     "private": false,
-    "sha": "4f19356628dc30698bb57f3d8e549abe6de245aa",
+    "sha": "1904cc7061c98f10fb1104810c6d0ac4f2f1977a",
     "downloads": 30001,
     "tags": [
       "region:us"
