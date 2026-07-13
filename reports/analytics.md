@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146607
+**Total Entities Tracked**: 146657
 
 ## Category Distribution
 
@@ -18,13 +18,13 @@
 - **mcps**: 1100
 - **text-generation**: 996
 - **benchmarks**: 700
-- **cs.CV**: 322
-- **cs.CL**: 166
-- **cs.AI**: 160
-- **cs.LG**: 133
-- **cs.RO**: 56
-- **cs.CR**: 21
-- **cs.SE**: 21
+- **cs.CV**: 339
+- **cs.CL**: 177
+- **cs.AI**: 169
+- **cs.LG**: 136
+- **cs.RO**: 57
+- **cs.CR**: 23
+- **cs.SE**: 22
 - **cs.SD**: 14
 - **cs.IR**: 11
 - **cs.CY**: 8
@@ -32,10 +32,12 @@
 - **cs.HC**: 6
 - **cs.MA**: 6
 - **eess.IV**: 5
-- **quant-ph**: 4
+- **quant-ph**: 5
+- **q-bio.NC**: 4
 - **cs.DB**: 3
 - **cs.GT**: 3
 - **stat.ML**: 3
+- **astro-ph.IM**: 2
 - **cs.AR**: 2
 - **cs.CC**: 2
 - **cs.DL**: 2
@@ -47,7 +49,7 @@
 - **q-fin.TR**: 2
 - **stat.ME**: 2
 - **text-ranking**: 2
-- **astro-ph.IM**: 1
+- **cs.CE**: 1
 - **cs.DC**: 1
 - **cs.GR**: 1
 - **cs.LO**: 1
@@ -59,7 +61,6 @@
 - **physics.med-ph**: 1
 - **physics.pop-ph**: 1
 - **q-bio.GN**: 1
-- **q-bio.NC**: 1
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
 
@@ -69,7 +70,7 @@
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2002
 - **OpenAI Blog**: 1045
-- **ArXiv**: 980
+- **ArXiv**: 1030
 - **HuggingFace Datasets**: 122
 - **GitHub Trending**: 54
 - **BAIR Blog**: 12
