@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 179
+**Total Changes:** 182
 
 ## Added
 - docs/stat.ML.md
@@ -89,16 +89,18 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.12.20260712_235255.zip
-- releases/v2026.07.12.20260712_235255/
+- releases/v2026.07.13.20260713_024225.zip
+- releases/v2026.07.13.20260713_024225/
 - site/
 
 ## Modified
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/models/data.json
 - data/processed/tools/data.json
 - docs/cs.CL.md
 - docs/cs.DL.md
@@ -184,6 +186,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None
