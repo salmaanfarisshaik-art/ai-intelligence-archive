@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146657
+**Total Entities Tracked**: 146658
 
 ## Category Distribution
 
@@ -14,7 +14,7 @@
 - **tools**: 2100
 - **datasets**: 1567
 - **models**: 1247
-- **dataset**: 1122
+- **dataset**: 1123
 - **mcps**: 1100
 - **text-generation**: 996
 - **benchmarks**: 700
@@ -71,13 +71,13 @@
 - **Hugging Face**: 2002
 - **OpenAI Blog**: 1045
 - **ArXiv**: 1030
-- **HuggingFace Datasets**: 122
+- **HuggingFace Datasets**: 123
 - **GitHub Trending**: 54
 - **BAIR Blog**: 12
 
 ## Top Tags
 
-- **region:us**: 180
+- **region:us**: 181
 - **text-generation**: 59
 - **safetensors**: 53
 - **library:datasets**: 52
@@ -90,7 +90,7 @@
 - **conversational**: 44
 - **library:polars**: 40
 - **format:parquet**: 36
-- **license:mit**: 35
+- **license:mit**: 36
 - **text-generation-inference**: 30
 - **deploy:azure**: 27
 - **en**: 21
@@ -113,12 +113,12 @@
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
 - **source_datasets:original**: 10
-- **size_categories:10K<n<100K**: 8
+- **size_categories:10K<n<100K**: 9
+- **language:ar**: 8
 - **size_categories:1M<n<10M**: 8
 - **8-bit**: 7
 - **arxiv:2309.00071**: 7
 - **custom_code**: 7
-- **language:ar**: 7
 - **language:fr**: 7
 - **llama**: 7
 - **modality:audio**: 7

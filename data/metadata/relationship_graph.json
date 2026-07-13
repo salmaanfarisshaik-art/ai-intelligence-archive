@@ -140776,6 +140776,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_698aee8a9b778894943e6c5d",
+      "label": "mhaamh19/prophet-mosque-library",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_699125ba2e87fc8e25a5010a",
       "label": "endomorphosis/common_crawl_meta_indexes",
       "category": "dataset"
@@ -738805,6 +738810,11 @@
     {
       "source": "hf_ds_69822b12f4c99fc122169639",
       "target": "datasets/utter-project",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_698aee8a9b778894943e6c5d",
+      "target": "datasets/mhaamh19",
       "relationship": "related_models"
     },
     {
