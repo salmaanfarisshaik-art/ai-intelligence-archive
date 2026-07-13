@@ -708,9 +708,6 @@
   "base_model:finetune:google/gemma-3-1b-pt": [
     "hf_google_gemma-3-1b-it"
   ],
-  "base_model:finetune:google/gemma-4-31B-it": [
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
-  ],
   "base_model:finetune:google/gemma-4-E4B-it": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
@@ -767,6 +764,9 @@
   ],
   "base_model:quantized:google/gemma-4-26B-A4B-it": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
+  "base_model:quantized:google/gemma-4-31B-it": [
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "benchmark": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -845,6 +845,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
@@ -1306,7 +1307,8 @@
   ],
   "gemma4": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "gemma4-26b-A4B-it": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
@@ -3773,6 +3775,7 @@
   ],
   "modelopt": [
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
   ],
