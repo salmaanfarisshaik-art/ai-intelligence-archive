@@ -469,6 +469,7 @@
     "hf_ds_6a153f136ea5882878c26693"
   ],
   "arxiv:2407.10671": [
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct"
   ],
@@ -489,7 +490,8 @@
   ],
   "arxiv:2501.12948": [
     "hf_deepseek-ai_DeepSeek-R1",
-    "hf_deepseek-ai_DeepSeek-R1-0528"
+    "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
   ],
   "arxiv:2502.02737": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
@@ -622,6 +624,9 @@
   "base_model:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "base_model:Qwen/Qwen2.5-1.5B": [
+    "hf_Qwen_Qwen2.5-1.5B-Instruct"
+  ],
   "base_model:Qwen/Qwen2.5-3B": [
     "hf_Qwen_Qwen2.5-3B-Instruct"
   ],
@@ -670,6 +675,9 @@
   ],
   "base_model:finetune:01-ai/Yi-1.5-34B": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
+  ],
+  "base_model:finetune:Qwen/Qwen2.5-1.5B": [
+    "hf_Qwen_Qwen2.5-1.5B-Instruct"
   ],
   "base_model:finetune:Qwen/Qwen2.5-3B": [
     "hf_Qwen_Qwen2.5-3B-Instruct"
@@ -796,6 +804,7 @@
   ],
   "chat": [
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct"
   ],
@@ -816,6 +825,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -832,6 +842,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -997,6 +1008,7 @@
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -1080,6 +1092,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -1107,6 +1120,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -1128,6 +1142,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -3424,6 +3439,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
@@ -3537,6 +3553,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -3932,6 +3949,7 @@
   ],
   "qwen2": [
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
@@ -3949,6 +3967,7 @@
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -3979,6 +3998,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -4000,6 +4020,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -4189,6 +4210,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -4209,6 +4231,7 @@
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -4659,6 +4682,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -4680,6 +4704,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
@@ -4718,6 +4743,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -4731,6 +4757,7 @@
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_facebook_opt-125m",
@@ -4776,6 +4803,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -4796,6 +4824,7 @@
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
+    "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_deepseek-ai_DeepSeek-V3.2",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
