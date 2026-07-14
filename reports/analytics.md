@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146723
+**Total Entities Tracked**: 146724
 
 ## Category Distribution
 
@@ -13,7 +13,7 @@
 - **tool**: 2154
 - **tools**: 2100
 - **datasets**: 1578
-- **models**: 1251
+- **models**: 1252
 - **dataset**: 1123
 - **mcps**: 1100
 - **text-generation**: 996
@@ -67,7 +67,7 @@
 
 ## Source Distribution
 
-- ****: 90407
+- ****: 90408
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2002
 - **ArXiv**: 1080
