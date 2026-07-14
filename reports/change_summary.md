@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 187
+**Total Changes:** 196
 
 ## Added
 - docs/q-bio.NC.md
@@ -23,6 +23,7 @@
 - exports/csv/eess.SY.csv
 - exports/csv/math.NA.csv
 - exports/csv/physics.comp-ph.csv
+- exports/csv/physics.data-an.csv
 - exports/csv/physics.ed-ph.csv
 - exports/csv/physics.med-ph.csv
 - exports/csv/physics.pop-ph.csv
@@ -52,6 +53,7 @@
 - exports/json/eess.SY.json
 - exports/json/math.NA.json
 - exports/json/physics.comp-ph.json
+- exports/json/physics.data-an.json
 - exports/json/physics.ed-ph.json
 - exports/json/physics.med-ph.json
 - exports/json/physics.pop-ph.json
@@ -81,6 +83,7 @@
 - exports/markdown/eess.SY.md
 - exports/markdown/math.NA.md
 - exports/markdown/physics.comp-ph.md
+- exports/markdown/physics.data-an.md
 - exports/markdown/physics.ed-ph.md
 - exports/markdown/physics.med-ph.md
 - exports/markdown/physics.pop-ph.md
@@ -93,17 +96,22 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.14.20260714_022320.zip
-- releases/v2026.07.14.20260714_022320/
+- releases/v2026.07.14.20260714_052853.zip
+- releases/v2026.07.14.20260714_052853/
 - site/
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -187,6 +195,7 @@
 - graph/nodes.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
