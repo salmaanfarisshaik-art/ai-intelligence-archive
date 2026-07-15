@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 188
+**Total Changes:** 186
 
 ## Added
 - docs/q-bio.NC.md
@@ -95,16 +95,14 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.15.20260715_080655.zip
-- releases/v2026.07.15.20260715_080655/
+- releases/v2026.07.15.20260715_104841.zip
+- releases/v2026.07.15.20260715_104841/
 - site/
 
 ## Modified
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
