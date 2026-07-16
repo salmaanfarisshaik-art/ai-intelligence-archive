@@ -1,18 +1,7 @@
 {
-  "failed_sources": [
-    {
-      "reason": "HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=30)",
-      "repository": "huggingface_models",
-      "retry_next_run": true
-    },
-    {
-      "reason": "HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=30)",
-      "repository": "huggingface_datasets",
-      "retry_next_run": true
-    }
-  ],
-  "sources_failed": 2,
+  "failed_sources": [],
+  "sources_failed": 0,
   "sources_processed": 9,
-  "sources_succeeded": 7,
-  "timestamp": "2026-07-16T08:13:01.021071+00:00"
+  "sources_succeeded": 9,
+  "timestamp": "2026-07-16T10:58:42.240358+00:00"
 }

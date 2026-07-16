@@ -1,21 +1,17 @@
 {
   "details": [
     {
-      "errors": [
-        "Connection error: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"
-      ],
+      "errors": [],
       "name": "Hugging Face Datasets",
-      "passed": false,
+      "passed": true,
       "source_id": "huggingface_datasets",
       "url": "https://huggingface.co/datasets",
       "warnings": []
     },
     {
-      "errors": [
-        "Connection error: HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out. (read timeout=10)"
-      ],
+      "errors": [],
       "name": "Hugging Face Models",
-      "passed": false,
+      "passed": true,
       "source_id": "huggingface_models",
       "url": "https://huggingface.co/models",
       "warnings": []
@@ -29,8 +25,8 @@
       "warnings": []
     }
   ],
-  "sources_failed": 2,
-  "sources_passed": 1,
+  "sources_failed": 0,
+  "sources_passed": 3,
   "sources_validated": 3,
-  "timestamp": "2026-07-16T08:14:04.424400+00:00"
+  "timestamp": "2026-07-16T10:58:44.915999+00:00"
 }

@@ -96,6 +96,9 @@
   "Qwen3.6": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
+  "Robotics manipulation": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed"
+  ],
   "SmolLM2-1.7B-Instruct": [
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
@@ -1077,6 +1080,7 @@
     "hf_antirez_deepseek-v4-gguf"
   ],
   "dual-arm": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
@@ -1281,6 +1285,9 @@
   "format:text": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_69af8aeeec432ae4abac9fd4"
+  ],
+  "format:webdataset": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed"
   ],
   "foundation-model": [
     "hf_ds_6700058973753b82f145eb1d"
@@ -1835,6 +1842,7 @@
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_67b9d203047d98a072b4e68c",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
@@ -3287,6 +3295,7 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_679255cc5a8e868cbe62569f",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
@@ -3347,6 +3356,7 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_679255cc5a8e868cbe62569f",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
@@ -3433,6 +3443,9 @@
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
+  "library:webdataset": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed"
   ],
   "license:apache-2.0": [
     "hf_EleutherAI_pythia-160m",
@@ -3752,6 +3765,7 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_675d7e29e24babdf1842d270",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
@@ -3985,6 +3999,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
   "real-world": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
@@ -4080,6 +4095,7 @@
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_679255cc5a8e868cbe62569f",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
     "hf_ds_67b9d203047d98a072b4e68c",
     "hf_ds_67be7d7b0a1a886d7b5d305d",
@@ -4297,6 +4313,7 @@
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
@@ -4508,7 +4525,8 @@
     "hf_ds_698aee8a9b778894943e6c5d"
   ],
   "task_categories:other": [
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_67ab2149bc76a9aab3ff90ed"
   ],
   "task_categories:question-answering": [
     "hf_ds_621ffdd236468d709f181e5e",
@@ -4525,6 +4543,7 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "task_categories:robotics": [
+    "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
     "hf_ds_67b9d203047d98a072b4e68c",
     "hf_ds_67be7d7b0a1a886d7b5d305d",

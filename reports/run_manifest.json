@@ -1,16 +1,13 @@
 {
-  "commit_created": false,
   "dry_run": false,
-  "files_added": 0,
-  "files_modified": 0,
-  "files_removed": 0,
   "modules_failed": [
-    "dataset"
+    "pipeline_decision_engine"
   ],
   "modules_run": [
     "benchmark",
     "model",
     "prompt",
+    "dataset",
     "tool",
     "news",
     "indexes_legacy",
@@ -41,7 +38,6 @@
     "self_documentation",
     "dependency_reports",
     "repository_metrics",
-    "pipeline_decision_engine",
     "massive_seed_fetcher",
     "source_validator",
     "repository_expander",
@@ -58,13 +54,10 @@
     "timeline_generator",
     "artifact_manifest_generator"
   ],
-  "phase8_status": "skipped_due_to_upstream_failure",
   "phase_8_5": {
     "archive_statistics_run": true,
     "mass_expansion_run": true
   },
-  "push_completed": false,
-  "run_id": "run_1784189420",
-  "site_regenerated": false,
-  "timestamp": "2026-07-16T08:15:11.842739+00:00"
+  "run_id": "run_1784199496",
+  "timestamp": "2026-07-16T10:59:31.618776+00:00"
 }

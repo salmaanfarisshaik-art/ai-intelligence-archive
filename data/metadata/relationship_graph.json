@@ -141391,6 +141391,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_67ab2149bc76a9aab3ff90ed",
+      "label": "agibot-world/AgiBotWorld-Beta",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_67b9b84c2eb0080c5fc8c88e",
       "label": "IPEC-COMMUNITY/bridge_orig_lerobot",
       "category": "dataset"
@@ -740285,6 +740290,11 @@
     {
       "source": "hf_ds_67866986e864fd4dee936901",
       "target": "datasets/qqjz",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_67ab2149bc76a9aab3ff90ed",
+      "target": "datasets/agibot-world",
       "relationship": "related_models"
     },
     {
