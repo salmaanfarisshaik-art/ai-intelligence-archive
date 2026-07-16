@@ -2,7 +2,7 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-16T18:05:40.264652+00:00
+**Generated:** 2026-07-16T20:02:30.126493+00:00
 **Warnings:** 1301
 **Errors:** 30
 
