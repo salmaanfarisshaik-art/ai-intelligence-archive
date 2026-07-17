@@ -1671,7 +1671,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-01-09T19:14:03.000Z",
-    "likes": 614,
+    "likes": 615,
     "private": false,
     "sha": "1588ec454efa1a09f29cd18ddd04fe05fc8653a2",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tC4\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nA colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset: \"https://commoncrawl.org\".\nThis is the processed version of Google's C4 dataset\nWe prepared five variants of the data: en, en.noclean, en.noblocklist, realnewslike, and multilingual (mC4).\nFor reference, these are the sizes of the variants:\n\nen: 305GB\nen.noclean: 2.3TB\nen.noblocklist: 380GB\nrealnewslike: 15GB\nmultilingual (mC4): 9.7TB (108 subsets, one… See the full description on the dataset page: https://huggingface.co/datasets/allenai/c4.",
@@ -3052,7 +3052,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2022-05-31T19:02:00.000Z",
-    "likes": 45,
+    "likes": 46,
     "private": false,
     "sha": "f4be26db7fd1357ebfec27f96aa19fd7ab82fd4d",
     "downloads": 542057,
@@ -3117,7 +3117,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-29T12:35:53.000Z",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "sha": "ef1311f460b42138d7a2d18f51e9cc38cedda089",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb Tokenized\n\t\n\n\n    \n\n> 4 trillion tokens of the pre-tokenized data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis is a pre-tokenized version of the HuggingFaceFW/fineweb dataset (currently in-progress, tokenization of the ~15 trillion tokens corpus is ongoing). The data is being pre-processed and tokenized using the AnisoleAI BPE tokenizer (52,022 vocabulary size) and packed into compact uint16 Parquet shards.\nBy distributing the pre-tokenized corpus, we eliminate… See the full description on the dataset page: https://huggingface.co/datasets/anisoleai/fineweb-tokenized.",
@@ -3202,7 +3202,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2023-04-12T05:23:59.000Z",
-    "likes": 896,
+    "likes": 897,
     "private": false,
     "sha": "192ab2185289094fc556ec8ce5ce1e8e587154ca",
     "description": "Further cleaning done. Please look through the dataset and ensure that I didn't miss anything.\nUpdate: Confirmed working method for training the model: https://huggingface.co/AlekseyKorshuk/vicuna-7b/discussions/4#64346c08ef6d5abefe42c12c\nTwo choices:\n\nRemoves instances of \"I'm sorry, but\": https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered/blob/main/ShareGPT_V3_unfiltered_cleaned_split_no_imsorry.json\nHas instances of \"I'm sorry, but\":… See the full description on the dataset page: https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered.",
@@ -3558,7 +3558,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2023-05-26T18:47:34.000Z",
-    "likes": 1828,
+    "likes": 1829,
     "private": false,
     "sha": "09be8c5bbc57cb3887f3a9732ad6aa7ec602a1fa",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for HH-RLHF\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nThis repository provides access to two different kinds of data:\n\nHuman preference data about helpfulness and harmlessness from Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback. These data are meant to train preference (or reward) models for subsequent RLHF training. These data are not meant for supervised training of dialogue agents. Training dialogue agents on these data is likely… See the full description on the dataset page: https://huggingface.co/datasets/Anthropic/hh-rlhf.",
@@ -4258,7 +4258,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-05-30T01:54:05.000Z",
-    "likes": 6,
+    "likes": 7,
     "private": false,
     "sha": "e38c175c4581649e9018ed3b8c806d5d57b18b19",
     "description": "\n\t\n\t\t\n\t\tMultilingual Speech Commands Dataset (15 Languages, Augmented)\n\t\n\nThis dataset contains augmented speech command samples in 15 languages, derived from multiple public datasets. Only commands that overlap with the Google Speech Commands (GSC) vocabulary are included, making the dataset suitable for multilingual keyword spotting tasks aligned with GSC-style classification.\nAudio samples have been augmented using standard audio techniques to improve model robustness (e.g., time-shifting… See the full description on the dataset page: https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang.",
@@ -5280,7 +5280,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-10-19T15:21:40.000Z",
-    "likes": 58,
+    "likes": 59,
     "private": false,
     "sha": "7ee825405a889ac77b0d404fac868f9813da0c83",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t和谐历史档案馆数据集 - Banned Historical Archives Datasets\n\t\n\n和谐历史档案馆数据集包含已录入 https://banned-historical-archives.github.io 和暂未未录入的原始文件。\n\n\t\n\t\t\n\t\n\t\n\t\t目录结构\n\t\n\n\nbanned-historical-archives.github.io # 已录入该网站的原始数据，不定期从 github 仓库中同步\nraw # 原始文件\nconfig # 配置文件\n\n\ntodo # 存放暂未录入网站的文件\n\n部分报纸和图片资料存放在单独的仓库:\n\n\t\n\t\t\n名称\n地址\n状态\n\n\n\t\t\n参考消息\nhttps://huggingface.co/datasets/banned-historical-archives/ckxx\n未录入\n\n\n人民日报\nhttps://huggingface.co/datasets/banned-historical-archives/rmrb\n已精选重要的文章录入\n\n\n文汇报… See the full description on the dataset page: https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives.",
@@ -5558,7 +5558,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-02-05T18:44:13.000Z",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "sha": "b2b7e3766c7b1a39430d44b9dbb96e915c819332",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tTyped Digital Signatures Dataset\n\t\n\nThis comprehensive dataset contains synthetic digital signatures rendered across 30 different Google Fonts, specifically selected for their handwriting and signature-style characteristics. Each font contributes unique stylistic elements, making this dataset ideal for robust signature analysis and font recognition tasks.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\n\nTotal Fonts: 30 different Google Fonts\nImages per Font: 3,000 signatures\nTotal Dataset Size:… See the full description on the dataset page: https://huggingface.co/datasets/Benjy/typed_digital_signatures.",
@@ -7098,7 +7098,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-03-20T13:14:51.000Z",
-    "likes": 47,
+    "likes": 48,
     "private": false,
     "sha": "56b622ac23335c2bb5909e1e3c72416033c65acf",
     "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95600,\n    \"total_frames\": 27612581,\n    \"total_tasks\": 0,\n    \"total_videos\": 286800,\n    \"total_chunks\": 95,\n    \"chunks_size\": 1000,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95600\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/droid_1.0.1.",
@@ -7151,7 +7151,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-03-08T20:36:26.000Z",
-    "likes": 791,
+    "likes": 792,
     "private": false,
     "sha": "c30699e8356da336a370243923dbaf21066bb9fe",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MMLU\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nMeasuring Massive Multitask Language Understanding by Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt (ICLR 2021).\nThis is a massive multitask test consisting of multiple-choice questions from various branches of knowledge. The test spans subjects in the humanities, social sciences, hard sciences, and other areas that are important for some people to learn. This covers 57… See the full description on the dataset page: https://huggingface.co/datasets/cais/mmlu.",
@@ -8397,7 +8397,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2022-10-20T15:01:14.000Z",
-    "likes": 390,
+    "likes": 391,
     "private": false,
     "sha": "b5661e6b17396364b2bcf8e68977b0d28e1ebd19",
     "description": "The GitHub Code dataest consists of 115M code files from GitHub in 32 programming languages with 60 extensions totalling in 1TB of text data. The dataset was created from the GitHub dataset on BiqQuery.",
@@ -9719,7 +9719,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-14T00:33:58.000Z",
-    "likes": 15,
+    "likes": 16,
     "private": false,
     "sha": "a0e7b0f3ff20377e0ef1234f4ac8912a0af6bcbf",
     "downloads": 386376,
@@ -13841,7 +13841,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-07-17T04:04:12.000Z",
-    "likes": 9763,
+    "likes": 9764,
     "private": false,
     "sha": "b888bf587e471b138c31b106191d8edbba9834a8",
     "description": "\n  \n  \n  a.k.a. Awesome ChatGPT Prompts\n\n\nThis is a Dataset Repository mirror of prompts.chat — a social platform for AI prompts.\n\n\t\n\t\t\n\t\n\t\n\t\t📢 Notice\n\t\n\nThis Hugging Face dataset is a mirror. For the latest prompts, features, and community contributions, please visit:\n\n🌐 Website: prompts.chat\n📦 GitHub: github.com/f/awesome-chatgpt-prompts\n\n\n\t\n\t\t\n\t\n\t\n\t\tAbout\n\t\n\nprompts.chat is an open-source platform where users can share, discover, and collect AI prompts from the community. The project can… See the full description on the dataset page: https://huggingface.co/datasets/fka/prompts.chat.",
@@ -15327,7 +15327,7 @@
     "disabled": false,
     "gated": "auto",
     "lastModified": "2026-04-24T05:02:26.000Z",
-    "likes": 227,
+    "likes": 229,
     "private": false,
     "sha": "fcbc0d38550e134f273426aa7c9cc2b491270bc4",
     "description": "\nBoasting over 13,000 hours of cumulative data and 5 million+ clips, it ranks as the largest open-source embodied intelligence dataset in the industry. \n\n\t\n\t\t\n\t\n\t\n\t\tUpdate Notes：Stage 3 data upload completed.\n\t\n\n\n13,000+ hours of pure dual-hand data with frame-level alignment latency < 1ms\nFull high-precision trajectory reconstruction, breaking the limit of superficial open source, fully ready-to-use\n3,000+ contributors and 10,000+ real household scenarios with exceptional diversity… See the full description on the dataset page: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData.",
@@ -15673,7 +15673,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-29T15:10:20.000Z",
-    "likes": 625,
+    "likes": 626,
     "private": false,
     "sha": "e05c417852fc59fd8da758e68b352732423ca0cb",
     "description": "\n  \n\n\n\n  \n    \n      \n        Glint Research Dataset Card\n        Fable 5 Pi Agent Traces\n        A compact, high-signal corpus of Fable 5 coding-agent traces converted into Hugging Face Agent Traces / Pi-compatible sessions for Data Studio inspection, tool-use policy learning, and reasoning/action distillation.\n      \n      \n        Primary Config\n        pi_agent/train\n        Agent Trace preview enabled\n      \n    \n    \n      4,665 Pi trace sessions\n      60 source sessions\n      3,799 tool… See the full description on the dataset page: https://huggingface.co/datasets/Glint-Research/Fable-5-traces.",
@@ -17244,7 +17244,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-04-05T20:00:04.000Z",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "sha": "e831be1a0eeb18dbfd99aac845da6bb4c271d08b",
     "downloads": 751303,
@@ -17293,10 +17293,10 @@
     "author": "hf-doc-build",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:20:45.000Z",
-    "likes": 40,
+    "lastModified": "2026-07-17T15:01:14.000Z",
+    "likes": 41,
     "private": false,
-    "sha": "91be7c3c6fc1172484ed174addb859df8babe66c",
+    "sha": "d4e84e8f73ed4bd745469f1bed540e188c49f556",
     "description": "This repo contains all the docs published on https://huggingface.co/docs.\nThe docs are generated with https://github.com/huggingface/doc-builder.\n",
     "downloads": 223701,
     "tags": [
@@ -17315,7 +17315,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-04-20T08:59:22.000Z",
-    "likes": 44,
+    "likes": 45,
     "private": false,
     "sha": "494fce0367580237ed1073a60ac801abb072f521",
     "description": "This is a dataset which contains the docs from all the PRs that are updating one of the docs from https://huggingface.co/docs.\nIt is automatically updated by this github action from the doc-buider repo. \n",
@@ -19120,7 +19120,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-04-03T19:19:23.000Z",
-    "likes": 894,
+    "likes": 895,
     "private": false,
     "sha": "220bac3acbf07789502c621d2d33952f51ac7f86",
     "description": "\n\nLiberating 3T of the finest tokens from PDFs\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is this?\n\t\n\nAs we run out of web pages to process, the natural question has always been: what to do next? Only a few knew about a data source that everyone avoided for ages, due to its incredible extraction cost and complexity: PDFs.\n📄 FinePDFs is exactly that. It is the largest publicly available corpus sourced exclusively from PDFs, containing about 3 trillion tokens across 475 million documents in 1733 languages.\nCompared to… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finepdfs.",
@@ -21550,7 +21550,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-07-11T20:16:53.000Z",
-    "likes": 2941,
+    "likes": 2942,
     "private": false,
     "sha": "9bb295ddab0e05d785b879661af7260fed5140fc",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t🍷 FineWeb\n\t\n\n\n    \n\n\n\n15 trillion tokens of the finest data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThe 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data processing pipeline is optimized for LLM performance and ran on the 🏭 datatrove library, our large scale data processing library. \n🍷 FineWeb was originally meant to be a fully open replication of 🦅 RefinedWeb, with a… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb.",
@@ -23939,10 +23939,10 @@
     "author": "i998979",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:23:36.000Z",
+    "lastModified": "2026-07-17T15:11:36.000Z",
     "likes": 24,
     "private": false,
-    "sha": "017e77689da18436ea7f4ae9733a506933733c0a",
+    "sha": "45dac81eee0cd406b63e7f3f2e6c555fa64af974",
     "downloads": 27771,
     "tags": [
       "region:us"
@@ -26454,10 +26454,10 @@
     "author": "Jitendra55566",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T03:24:16.000Z",
+    "lastModified": "2026-07-17T13:54:54.000Z",
     "likes": 1,
     "private": false,
-    "sha": "f8a2cda5d78173e74101a1854e57fde7fd0c400d",
+    "sha": "c654f9f595017a626bf8c446211fedf227a1d1fe",
     "downloads": 29629,
     "tags": [
       "size_categories:n<1K",
@@ -27299,10 +27299,10 @@
     "author": "KakologArchives",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:22:11.000Z",
+    "lastModified": "2026-07-17T15:11:36.000Z",
     "likes": 67,
     "private": false,
-    "sha": "c418b8779f2b9b3aab161e3fff216d2ad7f6cf62",
+    "sha": "637818df7c39377d44fb23a342f2664657a30c6c",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
     "downloads": 2017730,
     "tags": [
@@ -27906,7 +27906,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-04-04T20:47:37.000Z",
-    "likes": 26,
+    "likes": 27,
     "private": false,
     "sha": "12e716d69578d3c30335bd054417c37b2d9970d9",
     "downloads": 570856,
@@ -30965,7 +30965,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-12-19T11:34:03.000Z",
-    "likes": 158,
+    "likes": 159,
     "private": false,
     "sha": "7fd92dc825a75cbff271a5a52eea0eda91a2c112",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus\n\t\n\narXiv: Coming Soon\nProject Page: Coming Soon\nBlog: Coming Soon\n\n\t\n\t\t\n\t\n\t\n\t\tData Statistics\n\t\n\n\n\t\n\t\t\nDomain (#tokens/#samples)\nIteration 1 Tokens\nIteration 2 Tokens\nIteration 3 Tokens\nTotal Tokens\nIteration 1 Count\nIteration 2 Count\nIteration 3 Count\nTotal Count\n\n\n\t\t\naerospace\n5.77B\n261.63M\n309.33M\n6.34B\n9100000\n688505\n611034\n10399539\n\n\nagronomy\n13.08B\n947.41M\n229.04M\n14.26B\n15752828\n2711790\n649404\n19114022… See the full description on the dataset page: https://huggingface.co/datasets/m-a-p/FineFineWeb.",
@@ -31566,7 +31566,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-30T11:56:39.000Z",
-    "likes": 174,
+    "likes": 175,
     "private": false,
     "sha": "5af703f2810306e7d75eb4394ae59591f1f6e8a2",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tGaming Dataset (gaming-1) — 494.7 Hours\n\t\n\nNative PC/console gameplay screen-recordings, organized by game. Each workflow\nis one play session, trimmed to pure gameplay — login screens, launchers,\ndesktop, collection-app references, and any watching/streaming are removed.\nIn-game menus, lobbies, loading, and cutscenes are retained as part of the session.\n\nWorkflows: 776\nTotal gameplay: 494.7 hours\nDistinct games: 168\nClip duration (min): median 24.0, p90 90.9, max 457.7\nPlatforms:… See the full description on the dataset page: https://huggingface.co/datasets/markov-ai/gaming-500-hours.",
@@ -32619,10 +32619,10 @@
     "author": "Metanova",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:16:12.000Z",
+    "lastModified": "2026-07-17T14:28:23.000Z",
     "likes": 0,
     "private": false,
-    "sha": "bcb0e4e13882214a77d1d0e28c9c7802deb4a30b",
+    "sha": "90b9dc5cb87f6ba1e3d2aca030b1c29b84c7981a",
     "downloads": 135980,
     "tags": [
       "region:us"
@@ -33875,10 +33875,10 @@
     "author": "mteb",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T09:35:53.000Z",
+    "lastModified": "2026-07-17T13:47:39.000Z",
     "likes": 11,
     "private": false,
-    "sha": "c0738d2f6551c9730a203e1217f8edcf40f27cfe",
+    "sha": "65123c3f98ca4b8101b66e4d5648804d4ecf6b77",
     "downloads": 531255,
     "tags": [
       "size_categories:1M<n<10M",
@@ -36338,7 +36338,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-09T18:26:31.000Z",
-    "likes": 28,
+    "likes": 29,
     "private": false,
     "sha": "36ee55eff8359d237f40a113fecaab40171e989f",
     "description": "\n  \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description: \n\t\n\nThe SDG-SynHuman is a large-scale synthetic video dataset of digital humans rendered in diverse indoor and outdoor 3D environments. The dataset contains 236,937 clips, totaling approximately 5,841 hours of video, and is designed to support training and post-training of NVIDIA Cosmos world foundation models and related physical AI research.\nEach sample is a temporally coherent 60-120 second video clip rendered at 1080p and 30 fps. Clips contain… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-WorldModel-Synthetic-Digital-Human-Scenes.",
@@ -37103,7 +37103,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-02-18T11:45:27.000Z",
-    "likes": 771,
+    "likes": 772,
     "private": false,
     "sha": "e4e141ec9dea9f8326f4d347be56105859b2bd68",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpenR1-Math-220k\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset description\n\t\n\nOpenR1-Math-220k is a large-scale dataset for mathematical reasoning. It consists of 220k math problems with two to four reasoning traces generated by DeepSeek R1 for problems from NuminaMath 1.5. \nThe traces were verified using Math Verify for most samples and Llama-3.3-70B-Instruct as a judge for 12% of the samples, and each problem contains at least one reasoning trace with a correct answer.\nThe dataset consists of two… See the full description on the dataset page: https://huggingface.co/datasets/open-r1/OpenR1-Math-220k.",
@@ -37883,10 +37883,10 @@
     "author": "Orannue",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:23:52.000Z",
-    "likes": 5,
+    "lastModified": "2026-07-17T15:11:46.000Z",
+    "likes": 6,
     "private": false,
-    "sha": "0bb9928413825fb82d667cdfe102dc9e67975e00",
+    "sha": "446f04c8709bbd6a0cfcbcf76e29c8ae4a4dc4fd",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tYouTube Video Downloads\n\t\n\nThis dataset contains locally downloaded YouTube video files from /data/youtube_downloads.\n\nSource files scanned: 88549\nUploaded unique filenames: 87367\nDuplicate filenames resolved: 1182\nSelected video bytes: 7103828648301\nManifest rows: 87367\n\nFiles are stored under videos/. Metadata is stored under metadata/.\nmetadata/manifest.csv includes these columns:\ntarget_path, filename, video_id, title, duration_seconds, duration, width, height, exact_width… See the full description on the dataset page: https://huggingface.co/datasets/Orannue/dataset.",
     "downloads": 89626,
     "tags": [
@@ -39943,10 +39943,10 @@
     "author": "quejing20",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:03:37.000Z",
+    "lastModified": "2026-07-17T14:45:45.000Z",
     "likes": 2,
     "private": false,
-    "sha": "ea7ec20af1ce87aef75f9ab73fcaf02cc67ac60c",
+    "sha": "8b356ff7deef0c7dd6a480dd97f70832429f6937",
     "downloads": 35167,
     "tags": [
       "region:us"
@@ -42092,7 +42092,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2024-01-04T16:49:18.000Z",
-    "likes": 744,
+    "likes": 746,
     "private": false,
     "sha": "b08601e04326c79dfdd32d625aee71d232d685c3",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
@@ -44924,10 +44924,10 @@
     "author": "superkaiba1",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:24:03.000Z",
+    "lastModified": "2026-07-17T15:11:45.000Z",
     "likes": 4,
     "private": false,
-    "sha": "519137a136ac9d024135a51491cb8c6c03e98351",
+    "sha": "094d8f0c25f05b51176412c98518b825d3c4882e",
     "downloads": 33877,
     "tags": [
       "region:us"
@@ -45808,7 +45808,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2023-05-22T20:33:36.000Z",
-    "likes": 1006,
+    "likes": 1007,
     "private": false,
     "sha": "dce01c9b08f87459cf36a430d809084718273017",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Alpaca\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nAlpaca is a dataset of 52,000 instructions and demonstrations generated by OpenAI's text-davinci-003 engine. This instruction data can be used to conduct instruction-tuning for language models and make the language model follow instruction better.\nThe authors built on the data generation pipeline from Self-Instruct framework and made the following modifications:\n\nThe text-davinci-003 engine to generate the instruction data… See the full description on the dataset page: https://huggingface.co/datasets/tatsu-lab/alpaca.",
@@ -46813,10 +46813,10 @@
     "author": "trankhacminhtk",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-15T21:29:07.000Z",
+    "lastModified": "2026-07-17T15:12:09.000Z",
     "likes": 0,
     "private": false,
-    "sha": "79b71ef89daa2a802da2edba80e3b6257d20ce3b",
+    "sha": "e2934f63e9b94daaacb6573fd7f47224d112d372",
     "downloads": 40551,
     "tags": [
       "region:us"
@@ -48916,10 +48916,10 @@
     "author": "wegrthj",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-07-17T13:19:39.000Z",
+    "lastModified": "2026-07-17T15:09:46.000Z",
     "likes": 6,
     "private": false,
-    "sha": "19fb2bc2f9e66904630dd3fbe8a52068f16bd53a",
+    "sha": "538a5fd1c922574a18c4fd8ef6c569cf1eea05ba",
     "downloads": 29250,
     "tags": [
       "region:us"
@@ -48993,7 +48993,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-06-04T22:23:26.000Z",
-    "likes": 13,
+    "likes": 14,
     "private": false,
     "sha": "850959def27fb085d9471b14c2a59d37c93c4126",
     "downloads": 373920,
@@ -49629,7 +49629,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2023-09-21T00:57:32.000Z",
-    "likes": 45,
+    "likes": 47,
     "private": false,
     "sha": "300ee6c5e5629d042bfc07cbc406e2f330b53659",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for ACL Anthology Corpus\n\t\n\n\nThis repository provides full-text and metadata to the ACL anthology collection (80k articles/posters as of September 2022) also including .pdf files and grobid extractions of the pdfs.\n\n\t\n\t\t\n\t\n\t\n\t\tHow is this different from what ACL anthology provides and what already exists?\n\t\n\n\nWe provide pdfs, full-text, references and other details extracted by grobid from the PDFs while ACL Anthology only provides abstracts.\nThere exists a similar… See the full description on the dataset page: https://huggingface.co/datasets/WINGNUS/ACL-OCL.",
@@ -50119,7 +50119,7 @@
     "disabled": false,
     "gated": "auto",
     "lastModified": "2026-07-02T20:47:44.000Z",
-    "likes": 87,
+    "likes": 88,
     "private": false,
     "sha": "29136bc9b9e38d320b00ffcddbbe4cd0e3278c58",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tABC-130k\n\t\n\nABC-130k is the largest open-source robot teleoperation dataset. It contains\nbimanual manipulation trajectories collected on two-arm YAM stations. Episodes\nare distributed as MCAP files, with subtask annotations kept as separate\nartifacts so they can be revised or extended independently of the underlying\nepisode data. For details on the accompanying paper, see abc.bot.\nPlease see the GitHub repo here for code to\ntrain and deploy with this dataset.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/XDOF/ABC-130k.",
@@ -52407,7 +52407,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-04T06:53:11.000Z",
     "links": {
       "related_models": [
@@ -52462,7 +52462,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-18T15:31:34.000Z",
     "links": {
       "related_models": [
@@ -52526,7 +52526,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-30T07:41:18.000Z",
     "links": {
       "related_models": [
@@ -52575,7 +52575,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-07-10T15:23:17.000Z",
     "links": {
       "related_models": [
@@ -52603,7 +52603,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-03-08T20:36:26.000Z",
-      "likes": 791,
+      "likes": 792,
       "private": false,
       "sha": "c30699e8356da336a370243923dbaf21066bb9fe",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MMLU\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nMeasuring Massive Multitask Language Understanding by Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt (ICLR 2021).\nThis is a massive multitask test consisting of multiple-choice questions from various branches of knowledge. The test spans subjects in the humanities, social sciences, hard sciences, and other areas that are important for some people to learn. This covers 57… See the full description on the dataset page: https://huggingface.co/datasets/cais/mmlu.",
@@ -52634,7 +52634,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-03-08T20:36:26.000Z",
     "links": {
       "related_models": [
@@ -52838,7 +52838,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-04T16:49:18.000Z",
-      "likes": 744,
+      "likes": 746,
       "private": false,
       "sha": "b08601e04326c79dfdd32d625aee71d232d685c3",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"wikitext\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\n The WikiText language modeling dataset is a collection of over 100 million tokens extracted from the set of verified\n Good and Featured articles on Wikipedia. The dataset is available under the Creative Commons Attribution-ShareAlike License.\nCompared to the preprocessed version of Penn Treebank (PTB), WikiText-2 is over 2 times larger and WikiText-103 is over\n110 times larger. The WikiText dataset also features a far… See the full description on the dataset page: https://huggingface.co/datasets/Salesforce/wikitext.",
@@ -52869,7 +52869,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-04T16:49:18.000Z",
     "links": {
       "related_models": [
@@ -52941,7 +52941,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-01-09T19:14:03.000Z",
-      "likes": 614,
+      "likes": 615,
       "private": false,
       "sha": "1588ec454efa1a09f29cd18ddd04fe05fc8653a2",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tC4\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nA colossal, cleaned version of Common Crawl's web crawl corpus. Based on Common Crawl dataset: \"https://commoncrawl.org\".\nThis is the processed version of Google's C4 dataset\nWe prepared five variants of the data: en, en.noclean, en.noblocklist, realnewslike, and multilingual (mC4).\nFor reference, these are the sizes of the variants:\n\nen: 305GB\nen.noclean: 2.3TB\nen.noblocklist: 380GB\nrealnewslike: 15GB\nmultilingual (mC4): 9.7TB (108 subsets, one… See the full description on the dataset page: https://huggingface.co/datasets/allenai/c4.",
@@ -53068,7 +53068,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-09T19:14:03.000Z",
     "links": {
       "related_models": [
@@ -53113,7 +53113,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-17T09:07:46.000Z",
     "links": {
       "related_models": [],
@@ -53155,7 +53155,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-06-13T08:13:44.000Z",
     "links": {
       "related_models": [],
@@ -53181,7 +53181,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2022-10-20T15:01:14.000Z",
-      "likes": 390,
+      "likes": 391,
       "private": false,
       "sha": "b5661e6b17396364b2bcf8e68977b0d28e1ebd19",
       "description": "The GitHub Code dataest consists of 115M code files from GitHub in 32 programming languages with 60 extensions totalling in 1TB of text data. The dataset was created from the GitHub dataset on BiqQuery.",
@@ -53199,7 +53199,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2022-10-20T15:01:14.000Z",
     "links": {
       "related_models": [],
@@ -53571,7 +53571,7 @@
       "createdAt": "2022-03-02T23:29:22.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-01-09T09:40:51.000Z",
     "links": {
       "related_models": [
@@ -53629,7 +53629,7 @@
       "createdAt": "2022-04-12T10:22:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-03-23T10:18:13.000Z",
     "links": {
       "related_models": [
@@ -53657,7 +53657,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2022-05-31T19:02:00.000Z",
-      "likes": 45,
+      "likes": 46,
       "private": false,
       "sha": "f4be26db7fd1357ebfec27f96aa19fd7ab82fd4d",
       "downloads": 542057,
@@ -53674,7 +53674,7 @@
       "createdAt": "2022-05-31T18:43:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2022-05-31T19:02:00.000Z",
     "links": {
       "related_models": [],
@@ -53700,7 +53700,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-04-20T08:59:22.000Z",
-      "likes": 44,
+      "likes": 45,
       "private": false,
       "sha": "494fce0367580237ed1073a60ac801abb072f521",
       "description": "This is a dataset which contains the docs from all the PRs that are updating one of the docs from https://huggingface.co/docs.\nIt is automatically updated by this github action from the doc-buider repo. \n",
@@ -53713,7 +53713,7 @@
       "createdAt": "2022-11-08T09:03:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-20T08:59:22.000Z",
     "links": {
       "related_models": [],
@@ -53739,7 +53739,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2023-09-21T00:57:32.000Z",
-      "likes": 45,
+      "likes": 47,
       "private": false,
       "sha": "300ee6c5e5629d042bfc07cbc406e2f330b53659",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for ACL Anthology Corpus\n\t\n\n\nThis repository provides full-text and metadata to the ACL anthology collection (80k articles/posters as of September 2022) also including .pdf files and grobid extractions of the pdfs.\n\n\t\n\t\t\n\t\n\t\n\t\tHow is this different from what ACL anthology provides and what already exists?\n\t\n\n\nWe provide pdfs, full-text, references and other details extracted by grobid from the PDFs while ACL Anthology only provides abstracts.\nThere exists a similar… See the full description on the dataset page: https://huggingface.co/datasets/WINGNUS/ACL-OCL.",
@@ -53760,7 +53760,7 @@
       "createdAt": "2022-11-15T21:15:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2023-09-21T00:57:32.000Z",
     "links": {
       "related_models": [
@@ -53888,7 +53888,7 @@
       "createdAt": "2023-01-18T17:38:06.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2023-01-18T20:55:00.000Z",
     "links": {
       "related_models": [],
@@ -53914,7 +53914,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2023-04-12T05:23:59.000Z",
-      "likes": 896,
+      "likes": 897,
       "private": false,
       "sha": "192ab2185289094fc556ec8ce5ce1e8e587154ca",
       "description": "Further cleaning done. Please look through the dataset and ensure that I didn't miss anything.\nUpdate: Confirmed working method for training the model: https://huggingface.co/AlekseyKorshuk/vicuna-7b/discussions/4#64346c08ef6d5abefe42c12c\nTwo choices:\n\nRemoves instances of \"I'm sorry, but\": https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered/blob/main/ShareGPT_V3_unfiltered_cleaned_split_no_imsorry.json\nHas instances of \"I'm sorry, but\":… See the full description on the dataset page: https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered.",
@@ -53927,7 +53927,7 @@
       "createdAt": "2023-04-02T05:30:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2023-04-12T05:23:59.000Z",
     "links": {
       "related_models": [
@@ -53955,10 +53955,10 @@
       "author": "KakologArchives",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-07-17T13:22:11.000Z",
+      "lastModified": "2026-07-17T15:06:33.000Z",
       "likes": 67,
       "private": false,
-      "sha": "c418b8779f2b9b3aab161e3fff216d2ad7f6cf62",
+      "sha": "81c4c95fdf156237d567977afbdbc3558c5fac08",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
       "downloads": 2017730,
       "tags": [
@@ -53970,8 +53970,8 @@
       "createdAt": "2023-05-12T13:31:56.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
-    "last_updated": "2026-07-17T13:22:11.000Z",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
+    "last_updated": "2026-07-17T15:06:33.000Z",
     "links": {
       "related_models": [
         "datasets/KakologArchives"
@@ -54461,7 +54461,7 @@
       "createdAt": "2023-08-29T09:03:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-02-16T13:52:52.000Z",
     "links": {
       "related_models": [
@@ -54501,7 +54501,7 @@
       "createdAt": "2023-11-21T11:44:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-10-31T20:32:52.000Z",
     "links": {
       "related_models": [],
@@ -54527,7 +54527,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-10-19T15:21:40.000Z",
-      "likes": 58,
+      "likes": 59,
       "private": false,
       "sha": "7ee825405a889ac77b0d404fac868f9813da0c83",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\t和谐历史档案馆数据集 - Banned Historical Archives Datasets\n\t\n\n和谐历史档案馆数据集包含已录入 https://banned-historical-archives.github.io 和暂未未录入的原始文件。\n\n\t\n\t\t\n\t\n\t\n\t\t目录结构\n\t\n\n\nbanned-historical-archives.github.io # 已录入该网站的原始数据，不定期从 github 仓库中同步\nraw # 原始文件\nconfig # 配置文件\n\n\ntodo # 存放暂未录入网站的文件\n\n部分报纸和图片资料存放在单独的仓库:\n\n\t\n\t\t\n名称\n地址\n状态\n\n\n\t\t\n参考消息\nhttps://huggingface.co/datasets/banned-historical-archives/ckxx\n未录入\n\n\n人民日报\nhttps://huggingface.co/datasets/banned-historical-archives/rmrb\n已精选重要的文章录入\n\n\n文汇报… See the full description on the dataset page: https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives.",
@@ -54543,7 +54543,7 @@
       "createdAt": "2023-12-17T14:47:08.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-10-19T15:21:40.000Z",
     "links": {
       "related_models": [
@@ -54661,7 +54661,7 @@
       "createdAt": "2024-02-10T21:00:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-06-10T02:11:54.000Z",
     "links": {
       "related_models": [
@@ -54803,7 +54803,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-07-11T20:16:53.000Z",
-      "likes": 2941,
+      "likes": 2942,
       "private": false,
       "sha": "9bb295ddab0e05d785b879661af7260fed5140fc",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\t🍷 FineWeb\n\t\n\n\n    \n\n\n\n15 trillion tokens of the finest data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThe 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data processing pipeline is optimized for LLM performance and ran on the 🏭 datatrove library, our large scale data processing library. \n🍷 FineWeb was originally meant to be a fully open replication of 🦅 RefinedWeb, with a… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb.",
@@ -54824,7 +54824,7 @@
       "createdAt": "2024-04-18T14:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-07-11T20:16:53.000Z",
     "links": {
       "related_models": [
@@ -55021,7 +55021,7 @@
       "createdAt": "2024-06-07T14:45:36.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-16T12:18:35.000Z",
     "links": {
       "related_models": [],
@@ -55060,7 +55060,7 @@
       "createdAt": "2024-06-17T18:57:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-07-22T15:27:52.000Z",
     "links": {
       "related_models": [
@@ -55158,7 +55158,7 @@
       "createdAt": "2024-07-31T08:53:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-08-05T19:01:31.000Z",
     "links": {
       "related_models": [],
@@ -55202,7 +55202,7 @@
       "createdAt": "2024-08-13T15:04:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-02-18T23:48:55.000Z",
     "links": {
       "related_models": [
@@ -55340,7 +55340,7 @@
       "createdAt": "2024-10-04T15:11:05.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-07-18T14:09:56.000Z",
     "links": {
       "related_models": [
@@ -55388,7 +55388,7 @@
       "createdAt": "2024-10-19T05:23:44.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-01-23T08:21:12.000Z",
     "links": {
       "related_models": [],
@@ -55414,7 +55414,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2024-12-19T11:34:03.000Z",
-      "likes": 158,
+      "likes": 159,
       "private": false,
       "sha": "7fd92dc825a75cbff271a5a52eea0eda91a2c112",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineFineWeb: A Comprehensive Study on Fine-Grained Domain Web Corpus\n\t\n\narXiv: Coming Soon\nProject Page: Coming Soon\nBlog: Coming Soon\n\n\t\n\t\t\n\t\n\t\n\t\tData Statistics\n\t\n\n\n\t\n\t\t\nDomain (#tokens/#samples)\nIteration 1 Tokens\nIteration 2 Tokens\nIteration 3 Tokens\nTotal Tokens\nIteration 1 Count\nIteration 2 Count\nIteration 3 Count\nTotal Count\n\n\n\t\t\naerospace\n5.77B\n261.63M\n309.33M\n6.34B\n9100000\n688505\n611034\n10399539\n\n\nagronomy\n13.08B\n947.41M\n229.04M\n14.26B\n15752828\n2711790\n649404\n19114022… See the full description on the dataset page: https://huggingface.co/datasets/m-a-p/FineFineWeb.",
@@ -55432,7 +55432,7 @@
       "createdAt": "2024-12-14T12:46:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-12-19T11:34:03.000Z",
     "links": {
       "related_models": [
@@ -55470,7 +55470,7 @@
       "createdAt": "2024-12-19T19:44:34.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2024-12-20T10:39:59.000Z",
     "links": {
       "related_models": [],
@@ -55496,7 +55496,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-02-05T18:44:13.000Z",
-      "likes": 13,
+      "likes": 14,
       "private": false,
       "sha": "b2b7e3766c7b1a39430d44b9dbb96e915c819332",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tTyped Digital Signatures Dataset\n\t\n\nThis comprehensive dataset contains synthetic digital signatures rendered across 30 different Google Fonts, specifically selected for their handwriting and signature-style characteristics. Each font contributes unique stylistic elements, making this dataset ideal for robust signature analysis and font recognition tasks.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\n\nTotal Fonts: 30 different Google Fonts\nImages per Font: 3,000 signatures\nTotal Dataset Size:… See the full description on the dataset page: https://huggingface.co/datasets/Benjy/typed_digital_signatures.",
@@ -55520,7 +55520,7 @@
       "createdAt": "2025-01-13T19:08:10.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-02-05T18:44:13.000Z",
     "links": {
       "related_models": [
@@ -55563,7 +55563,7 @@
       "createdAt": "2025-01-14T13:41:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-07-25T07:42:54.000Z",
     "links": {
       "related_models": [
@@ -55606,7 +55606,7 @@
       "createdAt": "2025-01-23T14:44:28.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-06-20T09:11:00.000Z",
     "links": {
       "related_models": [],
@@ -55655,7 +55655,7 @@
       "createdAt": "2025-02-11T10:07:05.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-10-13T10:01:35.000Z",
     "links": {
       "related_models": [
@@ -55749,7 +55749,7 @@
       "createdAt": "2025-02-22T13:32:51.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-02-27T14:00:10.000Z",
     "links": {
       "related_models": [
@@ -56069,7 +56069,7 @@
       "createdAt": "2025-03-07T10:25:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-03-07T10:25:22.000Z",
     "links": {
       "related_models": [
@@ -56115,7 +56115,7 @@
       "createdAt": "2025-03-10T02:03:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-03-20T11:33:45.000Z",
     "links": {
       "related_models": [
@@ -56174,7 +56174,7 @@
       "createdAt": "2025-03-16T12:53:09.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-06-12T08:26:50.000Z",
     "links": {
       "related_models": [
@@ -56258,7 +56258,7 @@
       "createdAt": "2025-03-18T13:59:39.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-03-05T23:36:40.000Z",
     "links": {
       "related_models": [
@@ -56390,7 +56390,7 @@
       "createdAt": "2025-04-01T00:57:16.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-06-15T10:55:41.000Z",
     "links": {
       "related_models": [],
@@ -56432,7 +56432,7 @@
       "createdAt": "2025-04-20T11:25:44.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-11-01T07:05:20.000Z",
     "links": {
       "related_models": [
@@ -56592,7 +56592,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2025-05-30T01:54:05.000Z",
-      "likes": 6,
+      "likes": 7,
       "private": false,
       "sha": "e38c175c4581649e9018ed3b8c806d5d57b18b19",
       "description": "\n\t\n\t\t\n\t\tMultilingual Speech Commands Dataset (15 Languages, Augmented)\n\t\n\nThis dataset contains augmented speech command samples in 15 languages, derived from multiple public datasets. Only commands that overlap with the Google Speech Commands (GSC) vocabulary are included, making the dataset suitable for multilingual keyword spotting tasks aligned with GSC-style classification.\nAudio samples have been augmented using standard audio techniques to improve model robustness (e.g., time-shifting… See the full description on the dataset page: https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang.",
@@ -56634,7 +56634,7 @@
       "createdAt": "2025-05-27T13:44:01.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-05-30T01:54:05.000Z",
     "links": {
       "related_models": [
@@ -56675,7 +56675,7 @@
       "createdAt": "2025-05-27T15:19:04.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-05-07T11:32:14.000Z",
     "links": {
       "related_models": [
@@ -56714,7 +56714,7 @@
       "createdAt": "2025-06-16T13:17:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-06-17T14:48:51.000Z",
     "links": {
       "related_models": [],
@@ -56754,7 +56754,7 @@
       "createdAt": "2025-06-17T20:06:27.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-10-02T20:58:14.000Z",
     "links": {
       "related_models": [
@@ -56799,7 +56799,7 @@
       "createdAt": "2025-06-23T19:03:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-10-12T11:17:29.000Z",
     "links": {
       "related_models": [
@@ -56934,7 +56934,7 @@
       "createdAt": "2025-08-22T05:07:37.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-02T06:22:23.000Z",
     "links": {
       "related_models": [
@@ -57029,7 +57029,7 @@
       "createdAt": "2025-08-30T23:58:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-08-31T00:33:15.000Z",
     "links": {
       "related_models": [
@@ -57138,7 +57138,7 @@
       "createdAt": "2025-09-14T14:42:33.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-16T16:17:14.000Z",
     "links": {
       "related_models": [
@@ -57177,7 +57177,7 @@
       "createdAt": "2025-09-22T18:42:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-09-23T13:36:56.000Z",
     "links": {
       "related_models": [],
@@ -57260,7 +57260,7 @@
       "createdAt": "2025-10-16T04:07:24.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-12T07:18:22.000Z",
     "links": {
       "related_models": [
@@ -57344,7 +57344,7 @@
       "createdAt": "2025-12-01T16:19:31.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-01T18:59:16.000Z",
     "links": {
       "related_models": [
@@ -57385,7 +57385,7 @@
       "createdAt": "2025-12-09T07:09:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-09T07:09:52.000Z",
     "links": {
       "related_models": [
@@ -57423,7 +57423,7 @@
       "createdAt": "2025-12-16T15:33:13.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-23T09:04:38.000Z",
     "links": {
       "related_models": [],
@@ -57471,7 +57471,7 @@
       "createdAt": "2025-12-20T22:29:02.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2025-12-21T14:22:17.000Z",
     "links": {
       "related_models": [
@@ -57499,7 +57499,7 @@
       "disabled": false,
       "gated": "auto",
       "lastModified": "2026-04-24T05:02:26.000Z",
-      "likes": 227,
+      "likes": 229,
       "private": false,
       "sha": "fcbc0d38550e134f273426aa7c9cc2b491270bc4",
       "description": "\nBoasting over 13,000 hours of cumulative data and 5 million+ clips, it ranks as the largest open-source embodied intelligence dataset in the industry. \n\n\t\n\t\t\n\t\n\t\n\t\tUpdate Notes：Stage 3 data upload completed.\n\t\n\n\n13,000+ hours of pure dual-hand data with frame-level alignment latency < 1ms\nFull high-precision trajectory reconstruction, breaking the limit of superficial open source, fully ready-to-use\n3,000+ contributors and 10,000+ real household scenarios with exceptional diversity… See the full description on the dataset page: https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData.",
@@ -57524,7 +57524,7 @@
       "createdAt": "2025-12-31T07:17:19.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-24T05:02:26.000Z",
     "links": {
       "related_models": [
@@ -57576,7 +57576,7 @@
       "createdAt": "2026-01-04T19:10:52.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-01-04T19:12:11.000Z",
     "links": {
       "related_models": [
@@ -57619,7 +57619,7 @@
       "createdAt": "2026-01-19T05:32:46.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-09T04:28:30.000Z",
     "links": {
       "related_models": [],
@@ -57693,7 +57693,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-04-04T20:47:37.000Z",
-      "likes": 26,
+      "likes": 27,
       "private": false,
       "sha": "12e716d69578d3c30335bd054417c37b2d9970d9",
       "downloads": 570856,
@@ -57703,7 +57703,7 @@
       "createdAt": "2026-02-08T14:15:00.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-04T20:47:37.000Z",
     "links": {
       "related_models": [],
@@ -57744,7 +57744,7 @@
       "createdAt": "2026-02-10T08:38:34.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-02-10T08:38:39.000Z",
     "links": {
       "related_models": [
@@ -57960,7 +57960,7 @@
       "createdAt": "2026-03-01T00:32:21.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-03-06T22:34:27.000Z",
     "links": {
       "related_models": [],
@@ -57998,7 +57998,7 @@
       "createdAt": "2026-03-01T17:05:30.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-03-02T09:27:07.000Z",
     "links": {
       "related_models": [
@@ -58075,7 +58075,7 @@
       "createdAt": "2026-03-10T03:05:20.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-10T20:42:39.000Z",
     "links": {
       "related_models": [],
@@ -58101,7 +58101,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-04-05T20:00:04.000Z",
-      "likes": 26,
+      "likes": 27,
       "private": false,
       "sha": "e831be1a0eeb18dbfd99aac845da6bb4c271d08b",
       "downloads": 751303,
@@ -58116,7 +58116,7 @@
       "createdAt": "2026-03-10T03:07:26.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-05T20:00:04.000Z",
     "links": {
       "related_models": [],
@@ -58189,7 +58189,7 @@
       "createdAt": "2026-03-15T03:28:45.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-17T12:09:39.000Z",
     "links": {
       "related_models": [],
@@ -58225,7 +58225,7 @@
       "createdAt": "2026-03-21T09:09:42.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-03-23T23:30:10.000Z",
     "links": {
       "related_models": [],
@@ -58261,7 +58261,7 @@
       "createdAt": "2026-04-01T14:22:50.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-05T09:46:14.000Z",
     "links": {
       "related_models": [],
@@ -58323,7 +58323,7 @@
       "createdAt": "2026-04-03T01:34:29.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-05-06T14:00:24.000Z",
     "links": {
       "related_models": [
@@ -58457,7 +58457,7 @@
       "createdAt": "2026-04-24T13:38:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-04-25T06:52:44.000Z",
     "links": {
       "related_models": [
@@ -58536,7 +58536,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-06-04T22:23:26.000Z",
-      "likes": 13,
+      "likes": 14,
       "private": false,
       "sha": "850959def27fb085d9471b14c2a59d37c93c4126",
       "downloads": 373920,
@@ -58546,7 +58546,7 @@
       "createdAt": "2026-05-02T16:17:47.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-06-04T22:23:26.000Z",
     "links": {
       "related_models": [],
@@ -58614,7 +58614,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-05-14T00:33:58.000Z",
-      "likes": 15,
+      "likes": 16,
       "private": false,
       "sha": "a0e7b0f3ff20377e0ef1234f4ac8912a0af6bcbf",
       "downloads": 386376,
@@ -58628,7 +58628,7 @@
       "createdAt": "2026-05-13T22:41:54.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-05-14T00:33:58.000Z",
     "links": {
       "related_models": [],
@@ -58668,7 +58668,7 @@
       "createdAt": "2026-05-13T23:28:07.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-05-13T23:36:50.000Z",
     "links": {
       "related_models": [],
@@ -58739,7 +58739,7 @@
       "disabled": false,
       "gated": false,
       "lastModified": "2026-05-29T12:35:53.000Z",
-      "likes": 14,
+      "likes": 15,
       "private": false,
       "sha": "ef1311f460b42138d7a2d18f51e9cc38cedda089",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb Tokenized\n\t\n\n\n    \n\n> 4 trillion tokens of the pre-tokenized data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis is a pre-tokenized version of the HuggingFaceFW/fineweb dataset (currently in-progress, tokenization of the ~15 trillion tokens corpus is ongoing). The data is being pre-processed and tokenized using the AnisoleAI BPE tokenizer (52,022 vocabulary size) and packed into compact uint16 Parquet shards.\nBy distributing the pre-tokenized corpus, we eliminate… See the full description on the dataset page: https://huggingface.co/datasets/anisoleai/fineweb-tokenized.",
@@ -58760,7 +58760,7 @@
       "createdAt": "2026-05-26T06:34:59.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-05-29T12:35:53.000Z",
     "links": {
       "related_models": [
@@ -58787,10 +58787,10 @@
       "author": "mteb",
       "disabled": false,
       "gated": false,
-      "lastModified": "2026-07-17T09:35:53.000Z",
+      "lastModified": "2026-07-17T13:47:39.000Z",
       "likes": 11,
       "private": false,
-      "sha": "c0738d2f6551c9730a203e1217f8edcf40f27cfe",
+      "sha": "65123c3f98ca4b8101b66e4d5648804d4ecf6b77",
       "downloads": 531255,
       "tags": [
         "size_categories:1M<n<10M",
@@ -58806,8 +58806,8 @@
       "createdAt": "2026-06-02T20:34:17.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
-    "last_updated": "2026-07-17T09:35:53.000Z",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
+    "last_updated": "2026-07-17T13:47:39.000Z",
     "links": {
       "related_models": [],
       "related_papers": [],
@@ -58864,7 +58864,7 @@
       "createdAt": "2026-06-11T07:10:23.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-01T07:21:24.000Z",
     "links": {
       "related_models": [
@@ -58892,7 +58892,7 @@
       "disabled": false,
       "gated": "auto",
       "lastModified": "2026-07-02T20:47:44.000Z",
-      "likes": 87,
+      "likes": 88,
       "private": false,
       "sha": "29136bc9b9e38d320b00ffcddbbe4cd0e3278c58",
       "description": "\n\t\n\t\t\n\t\n\t\n\t\tABC-130k\n\t\n\nABC-130k is the largest open-source robot teleoperation dataset. It contains\nbimanual manipulation trajectories collected on two-arm YAM stations. Episodes\nare distributed as MCAP files, with subtask annotations kept as separate\nartifacts so they can be revised or extended independently of the underlying\nepisode data. For details on the accompanying paper, see abc.bot.\nPlease see the GitHub repo here for code to\ntrain and deploy with this dataset.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/XDOF/ABC-130k.",
@@ -58914,7 +58914,7 @@
       "createdAt": "2026-06-15T22:33:18.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-02T20:47:44.000Z",
     "links": {
       "related_models": [
@@ -58953,7 +58953,7 @@
       "createdAt": "2026-06-19T10:28:38.000Z",
       "key": ""
     },
-    "retrieval_timestamp": "2026-07-17T13:24:16.059277+00:00",
+    "retrieval_timestamp": "2026-07-17T15:11:52.663713+00:00",
     "last_updated": "2026-07-12T05:53:30.000Z",
     "links": {
       "related_models": [
