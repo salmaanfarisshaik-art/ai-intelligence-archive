@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 188
+**Total Changes:** 189
 
 ## Added
 - docs/q-bio.NC.md
@@ -95,8 +95,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.17.20260717_190530.zip
-- releases/v2026.07.17.20260717_190530/
+- releases/v2026.07.17.20260717_205323.zip
+- releases/v2026.07.17.20260717_205323/
 - site/
 
 ## Modified
@@ -107,6 +107,7 @@
 - data/metadata/schema_manifest.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
+- data/processed/prompts/data.json
 - data/processed/tools/data.json
 - docs/cs.DL.md
 - docs/cs.LG.md
