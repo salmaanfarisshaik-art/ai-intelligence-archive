@@ -534,6 +534,7 @@
   "arxiv:2506.05176": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B"
   ],
@@ -662,7 +663,8 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "base_model:Qwen/Qwen3-8B-Base": [
-    "hf_Qwen_Qwen3-8B"
+    "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "base_model:Qwen/Qwen3-Coder-Next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
@@ -711,7 +713,8 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
   "base_model:finetune:Qwen/Qwen3-8B-Base": [
-    "hf_Qwen_Qwen3-8B"
+    "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
     "hf_deepseek-ai_DeepSeek-V3.2"
@@ -835,6 +838,7 @@
     "hf_Qwen_Qwen3-1.7B",
     "hf_Qwen_Qwen3-14B",
     "hf_Qwen_Qwen3-14B-AWQ",
+    "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
@@ -1023,6 +1027,7 @@
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_distilbert_distilgpt2",
@@ -1139,6 +1144,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -1211,7 +1217,8 @@
   ],
   "feature-extraction": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
-    "hf_Qwen_Qwen3-Embedding-4B"
+    "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "fine-tuned": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
@@ -3460,6 +3467,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -3970,6 +3978,7 @@
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
@@ -3980,6 +3989,7 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "qwen3_moe": [
+    "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
   ],
   "qwen3_next": [
@@ -4020,6 +4030,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -4233,6 +4244,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -4276,11 +4288,13 @@
   ],
   "sentence-similarity": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
-    "hf_Qwen_Qwen3-Embedding-4B"
+    "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "sentence-transformers": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B"
   ],
@@ -4682,7 +4696,8 @@
   ],
   "text-embeddings-inference": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
-    "hf_Qwen_Qwen3-Embedding-4B"
+    "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "text-generation": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -4707,6 +4722,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
@@ -4828,6 +4844,7 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
+    "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",

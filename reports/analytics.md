@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146877
+**Total Entities Tracked**: 146928
 
 ## Category Distribution
 
@@ -18,15 +18,15 @@
 - **mcps**: 1100
 - **text-generation**: 996
 - **benchmarks**: 700
-- **cs.CV**: 399
-- **cs.CL**: 201
-- **cs.AI**: 192
-- **cs.LG**: 156
-- **cs.RO**: 65
-- **cs.SE**: 26
-- **cs.CR**: 25
-- **cs.SD**: 16
-- **cs.IR**: 12
+- **cs.CV**: 414
+- **cs.CL**: 212
+- **cs.AI**: 205
+- **cs.LG**: 158
+- **cs.RO**: 67
+- **cs.SE**: 29
+- **cs.CR**: 26
+- **cs.SD**: 17
+- **cs.IR**: 13
 - **cs.CY**: 8
 - **cs.MA**: 8
 - **eess.AS**: 7
@@ -34,9 +34,10 @@
 - **eess.IV**: 6
 - **q-bio.NC**: 5
 - **quant-ph**: 5
+- **stat.ML**: 4
 - **cs.DB**: 3
 - **cs.GT**: 3
-- **stat.ML**: 3
+- **feature-extraction**: 3
 - **astro-ph.IM**: 2
 - **cs.AR**: 2
 - **cs.CC**: 2
@@ -44,7 +45,6 @@
 - **cs.OS**: 2
 - **cs.SI**: 2
 - **eess.SY**: 2
-- **feature-extraction**: 2
 - **image-text-to-text**: 2
 - **physics.comp-ph**: 2
 - **q-fin.TR**: 2
@@ -69,8 +69,8 @@
 
 - ****: 90455
 - **Stanford Alpaca**: 52000
-- **Hugging Face**: 2002
-- **ArXiv**: 1180
+- **Hugging Face**: 2003
+- **ArXiv**: 1230
 - **OpenAI Blog**: 1050
 - **HuggingFace Datasets**: 124
 - **GitHub Trending**: 54
@@ -78,22 +78,22 @@
 
 ## Top Tags
 
-- **region:us**: 184
-- **text-generation**: 61
-- **safetensors**: 55
-- **license:apache-2.0**: 53
+- **region:us**: 185
+- **text-generation**: 62
+- **safetensors**: 56
+- **license:apache-2.0**: 54
+- **transformers**: 53
+- **endpoints_compatible**: 52
 - **library:datasets**: 52
 - **library:mlcroissant**: 52
-- **transformers**: 52
-- **endpoints_compatible**: 51
 - **modality:text**: 48
+- **conversational**: 47
 - **language:en**: 47
-- **conversational**: 46
 - **library:polars**: 39
 - **license:mit**: 37
 - **format:parquet**: 35
 - **text-generation-inference**: 32
-- **deploy:azure**: 28
+- **deploy:azure**: 29
 - **en**: 22
 - **library:pandas**: 21
 - **eval-results**: 20
@@ -101,7 +101,7 @@
 - **library:dask**: 18
 - **size_categories:n<1K**: 17
 - **modality:tabular**: 16
-- **qwen3**: 15
+- **qwen3**: 16
 - **license:other**: 13
 - **task_categories:robotics**: 12
 - **modality:image**: 11

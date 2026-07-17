@@ -610,7 +610,7 @@
       "createdAt": "2023-02-08T19:25:46.000Z",
       "modelId": "EleutherAI/pythia-160m"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -1054,7 +1054,7 @@
       "createdAt": "2024-10-31T13:41:10.000Z",
       "modelId": "HuggingFaceTB/SmolLM2-135M-Instruct"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -3169,7 +3169,7 @@
       "createdAt": "2024-06-03T09:08:12.000Z",
       "modelId": "Qwen/Qwen2-1.5B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -3367,7 +3367,7 @@
       "createdAt": "2024-09-17T14:10:29.000Z",
       "modelId": "Qwen/Qwen2.5-1.5B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4261,7 +4261,7 @@
       "createdAt": "2025-04-27T03:40:08.000Z",
       "modelId": "Qwen/Qwen3-0.6B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4352,7 +4352,7 @@
       "createdAt": "2025-04-27T03:41:05.000Z",
       "modelId": "Qwen/Qwen3-1.7B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4436,15 +4436,15 @@
         "license:apache-2.0",
         "text-generation-inference",
         "endpoints_compatible",
-        "region:us",
-        "deploy:azure"
+        "deploy:azure",
+        "region:us"
       ],
       "pipeline_tag": "text-generation",
       "library_name": "transformers",
       "createdAt": "2025-04-27T03:42:45.000Z",
       "modelId": "Qwen/Qwen3-14B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4492,7 +4492,7 @@
       "createdAt": "2025-05-01T10:46:38.000Z",
       "modelId": "Qwen/Qwen3-14B-AWQ"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4656,7 +4656,9 @@
       "tags": [
         "transformers",
         "safetensors",
+        "qwen3_moe",
         "text-generation",
+        "conversational",
         "arxiv:2309.00071",
         "arxiv:2505.09388",
         "base_model:Qwen/Qwen3-30B-A3B-Base",
@@ -4670,7 +4672,7 @@
       "createdAt": "2025-04-27T03:43:05.000Z",
       "modelId": "Qwen/Qwen3-30B-A3B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4821,7 +4823,7 @@
       "createdAt": "2025-04-27T03:52:59.000Z",
       "modelId": "Qwen/Qwen3-32B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -4898,7 +4900,7 @@
       "createdAt": "2025-04-27T03:41:29.000Z",
       "modelId": "Qwen/Qwen3-4B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5003,7 +5005,7 @@
       "createdAt": "2025-08-05T10:58:03.000Z",
       "modelId": "Qwen/Qwen3-4B-Instruct-2507"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5111,7 +5113,7 @@
       "createdAt": "2025-04-27T03:42:21.000Z",
       "modelId": "Qwen/Qwen3-8B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5302,7 +5304,7 @@
       "createdAt": "2026-02-01T12:22:41.000Z",
       "modelId": "Qwen/Qwen3-Coder-Next-FP8"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5350,7 +5352,7 @@
       "createdAt": "2025-06-03T14:25:32.000Z",
       "modelId": "Qwen/Qwen3-Embedding-0.6B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5397,7 +5399,55 @@
       "createdAt": "2025-06-03T14:31:33.000Z",
       "modelId": "Qwen/Qwen3-Embedding-4B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
+    "last_updated": "",
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    }
+  },
+  {
+    "unique_id": "hf_Qwen_Qwen3-Embedding-8B",
+    "schema_version": "1.0",
+    "name": "Qwen/Qwen3-Embedding-8B",
+    "parameters": "Unknown",
+    "license": "Unknown",
+    "context_window": 0,
+    "source_url": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
+    "source_name": "Hugging Face",
+    "source_type": "huggingface",
+    "category": "feature-extraction",
+    "raw_payload": {
+      "_id": "683f090e77b41ac9fc98c51f",
+      "id": "Qwen/Qwen3-Embedding-8B",
+      "likes": 746,
+      "private": false,
+      "downloads": 2887715,
+      "tags": [
+        "sentence-transformers",
+        "safetensors",
+        "qwen3",
+        "text-generation",
+        "transformers",
+        "sentence-similarity",
+        "feature-extraction",
+        "text-embeddings-inference",
+        "arxiv:2506.05176",
+        "base_model:Qwen/Qwen3-8B-Base",
+        "base_model:finetune:Qwen/Qwen3-8B-Base",
+        "license:apache-2.0",
+        "endpoints_compatible",
+        "deploy:azure",
+        "region:us"
+      ],
+      "pipeline_tag": "feature-extraction",
+      "library_name": "sentence-transformers",
+      "createdAt": "2025-06-03T14:39:10.000Z",
+      "modelId": "Qwen/Qwen3-Embedding-8B"
+    },
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5502,7 +5552,7 @@
       "createdAt": "2025-05-29T13:30:45.000Z",
       "modelId": "Qwen/Qwen3-Reranker-0.6B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -5547,7 +5597,7 @@
       "createdAt": "2025-06-03T14:46:47.000Z",
       "modelId": "Qwen/Qwen3-Reranker-4B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -6255,7 +6305,7 @@
       "createdAt": "2023-12-30T06:27:30.000Z",
       "modelId": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -6909,7 +6959,7 @@
       "createdAt": "2026-04-26T07:54:05.000Z",
       "modelId": "antirez/deepseek-v4-gguf"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8035,7 +8085,7 @@
       "createdAt": "2025-01-20T03:46:07.000Z",
       "modelId": "deepseek-ai/DeepSeek-R1"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8124,7 +8174,7 @@
       "createdAt": "2025-05-29T11:07:47.000Z",
       "modelId": "deepseek-ai/DeepSeek-R1-0528-Qwen3-8B"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8357,7 +8407,7 @@
     "raw_payload": {
       "_id": "69e864e440a44c9fb7c54efc",
       "id": "deepseek-ai/DeepSeek-V4-Flash",
-      "likes": 1761,
+      "likes": 1762,
       "private": false,
       "downloads": 2793055,
       "tags": [
@@ -8380,7 +8430,7 @@
       "createdAt": "2026-04-22T06:04:20.000Z",
       "modelId": "deepseek-ai/DeepSeek-V4-Flash"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8618,7 +8668,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "distilbert/distilgpt2"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8687,7 +8737,7 @@
       "createdAt": "2024-05-18T04:50:56.000Z",
       "modelId": "dphn/dolphin-2.9.1-yi-1.5-34b"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8785,7 +8835,7 @@
     "raw_payload": {
       "_id": "627b72ed67b1ac7afa4c42a7",
       "id": "facebook/opt-125m",
-      "likes": 276,
+      "likes": 277,
       "private": false,
       "downloads": 15556821,
       "tags": [
@@ -8808,7 +8858,7 @@
       "createdAt": "2022-05-11T08:25:17.000Z",
       "modelId": "facebook/opt-125m"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -8991,7 +9041,7 @@
       "createdAt": "2026-06-17T18:27:16.000Z",
       "modelId": "farbodtavakkoli/OTel-LLM-E4B-IT"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9259,7 +9309,7 @@
       "createdAt": "2025-03-10T12:09:00.000Z",
       "modelId": "google/gemma-3-1b-it"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9353,7 +9403,7 @@
       "createdAt": "2025-08-05T18:50:31.000Z",
       "modelId": "google/gemma-3-270m"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -9650,7 +9700,7 @@
       "createdAt": "2025-04-29T21:47:13.000Z",
       "modelId": "hmellor/tiny-random-LlamaForCausalLM"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -11621,7 +11671,7 @@
       "createdAt": "2024-09-18T15:12:47.000Z",
       "modelId": "meta-llama/Llama-3.2-1B-Instruct"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -12817,7 +12867,7 @@
       "createdAt": "2026-04-02T16:47:30.000Z",
       "modelId": "nvidia/Gemma-4-31B-IT-NVFP4"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13501,7 +13551,7 @@
       "createdAt": "2026-05-27T18:09:46.000Z",
       "modelId": "nvidia/Qwen3.6-35B-A3B-NVFP4"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13630,7 +13680,7 @@
       "createdAt": "2022-03-02T23:29:04.000Z",
       "modelId": "openai-community/gpt2"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13771,7 +13821,7 @@
       "createdAt": "2025-08-04T22:33:06.000Z",
       "modelId": "openai/gpt-oss-120b"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -13794,7 +13844,7 @@
     "raw_payload": {
       "_id": "68913539bd3d0a833438591d",
       "id": "openai/gpt-oss-20b",
-      "likes": 4804,
+      "likes": 4805,
       "private": false,
       "downloads": 7238541,
       "tags": [
@@ -13818,7 +13868,7 @@
       "createdAt": "2025-08-04T22:33:29.000Z",
       "modelId": "openai/gpt-oss-20b"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -15332,7 +15382,7 @@
       "createdAt": "2024-11-25T15:06:15.000Z",
       "modelId": "trl-internal-testing/tiny-Qwen2ForCausalLM-2.5"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16561,7 +16611,7 @@
       "createdAt": "2024-03-04T18:03:06.000Z",
       "modelId": "vikhyatk/moondream2"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16847,7 +16897,7 @@
       "createdAt": "2026-01-19T06:28:10.000Z",
       "modelId": "zai-org/GLM-4.7-Flash"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -16985,7 +17035,7 @@
       "createdAt": "2026-06-16T07:20:33.000Z",
       "modelId": "zai-org/GLM-5.2-FP8"
     },
-    "retrieval_timestamp": "2026-07-16T23:57:57Z",
+    "retrieval_timestamp": "2026-07-17T03:14:10Z",
     "last_updated": "",
     "links": {
       "related_models": [],
@@ -18568,7 +18618,7 @@
   {
     "_id": "6a54cc419a51be312ac632b8",
     "id": "AngelSlim/Hy3-GGUF",
-    "likes": 114,
+    "likes": 117,
     "private": false,
     "downloads": 80796,
     "tags": [
@@ -22932,7 +22982,7 @@
   {
     "_id": "67583e455554fc359dadf298",
     "id": "DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF",
-    "likes": 589,
+    "likes": 591,
     "private": false,
     "downloads": 43074,
     "tags": [
@@ -23144,7 +23194,7 @@
   {
     "_id": "6a3cb50c4f7477d7ac6fcb42",
     "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-    "likes": 901,
+    "likes": 902,
     "private": false,
     "downloads": 1785575,
     "tags": [
@@ -23220,7 +23270,7 @@
   {
     "_id": "6a37681bb57803e616606089",
     "id": "deepreinforce-ai/Ornith-1.0-9B",
-    "likes": 457,
+    "likes": 458,
     "private": false,
     "downloads": 752553,
     "tags": [
@@ -23246,7 +23296,7 @@
   {
     "_id": "6a3cb4edb9ef7094c0c80d35",
     "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-    "likes": 518,
+    "likes": 519,
     "private": false,
     "downloads": 1946878,
     "tags": [
@@ -23637,7 +23687,7 @@
   {
     "_id": "678e15048143a819dd01a3c1",
     "id": "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B",
-    "likes": 1577,
+    "likes": 1578,
     "private": false,
     "downloads": 932106,
     "tags": [
@@ -23887,7 +23937,7 @@
   {
     "_id": "69e864e440a44c9fb7c54efc",
     "id": "deepseek-ai/DeepSeek-V4-Flash",
-    "likes": 1761,
+    "likes": 1762,
     "private": false,
     "downloads": 2793055,
     "tags": [
@@ -25100,7 +25150,7 @@
   {
     "_id": "6a354baa92da817eb8201000",
     "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-    "likes": 820,
+    "likes": 825,
     "private": false,
     "downloads": 192847,
     "tags": [
@@ -25287,7 +25337,7 @@
   {
     "_id": "627b72ed67b1ac7afa4c42a7",
     "id": "facebook/opt-125m",
-    "likes": 276,
+    "likes": 277,
     "private": false,
     "downloads": 15556821,
     "tags": [
@@ -26002,7 +26052,7 @@
   {
     "_id": "6a477fd937375a7eee6e0a91",
     "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-    "likes": 263,
+    "likes": 265,
     "private": false,
     "downloads": 121296,
     "tags": [
@@ -26253,7 +26303,7 @@
   {
     "_id": "669650bb11dbbf600cf4dcf0",
     "id": "google/gemma-2-2b-it",
-    "likes": 1426,
+    "likes": 1427,
     "private": false,
     "downloads": 567075,
     "tags": [
@@ -28220,7 +28270,7 @@
   {
     "_id": "6a3d672c85afca5b7a17138a",
     "id": "huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF",
-    "likes": 129,
+    "likes": 130,
     "private": false,
     "downloads": 87666,
     "tags": [
@@ -29308,7 +29358,7 @@
   {
     "_id": "6a389c831278d868e03055c2",
     "id": "InternScience/Agents-A1",
-    "likes": 565,
+    "likes": 568,
     "private": false,
     "downloads": 33400,
     "tags": [
@@ -29339,7 +29389,7 @@
   {
     "_id": "6a44c156a4e5de5c58764e04",
     "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
-    "likes": 111,
+    "likes": 113,
     "private": false,
     "downloads": 48019,
     "tags": [
@@ -29745,7 +29795,7 @@
   {
     "_id": "6a2cd9e5852ecf4a782a3cba",
     "id": "jica98/qwen3.5-4B-super-coder",
-    "likes": 42,
+    "likes": 43,
     "private": false,
     "downloads": 36261,
     "tags": [
@@ -35977,7 +36027,7 @@
   {
     "_id": "66944f1fe0c5c2e493a804f5",
     "id": "meta-llama/Llama-3.1-8B",
-    "likes": 2326,
+    "likes": 2327,
     "private": false,
     "downloads": 1594964,
     "tags": [
@@ -36015,7 +36065,7 @@
   {
     "_id": "6698d8a0653e4babe21e1e7d",
     "id": "meta-llama/Llama-3.1-8B-Instruct",
-    "likes": 6321,
+    "likes": 6323,
     "private": false,
     "downloads": 8221617,
     "tags": [
@@ -36902,7 +36952,7 @@
   {
     "_id": "67b52d4a824d77f2bba8b0af",
     "id": "microsoft/Phi-4-mini-instruct",
-    "likes": 794,
+    "likes": 795,
     "private": false,
     "downloads": 459080,
     "tags": [
@@ -38390,7 +38440,7 @@
   {
     "_id": "69035c0bbda1be3b10aa69d6",
     "id": "moonshotai/Kimi-Linear-48B-A3B-Instruct",
-    "likes": 566,
+    "likes": 568,
     "private": false,
     "downloads": 46267,
     "tags": [
@@ -39207,7 +39257,7 @@
   {
     "_id": "66214ebed55e5f677e0d8f3a",
     "id": "NousResearch/Meta-Llama-3-8B",
-    "likes": 102,
+    "likes": 101,
     "private": false,
     "downloads": 72025,
     "tags": [
@@ -41690,12 +41740,12 @@
       "obliteratus",
       "refusal-removal",
       "text-generation",
+      "conversational",
       "base_model:google/gemma-4-E4B-it",
       "base_model:quantized:google/gemma-4-E4B-it",
       "license:apache-2.0",
       "endpoints_compatible",
-      "region:us",
-      "conversational"
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "createdAt": "2026-04-15T01:22:42.000Z",
@@ -42051,7 +42101,7 @@
   {
     "_id": "68913539bd3d0a833438591d",
     "id": "openai/gpt-oss-20b",
-    "likes": 4804,
+    "likes": 4805,
     "private": false,
     "downloads": 7238541,
     "tags": [
@@ -42389,7 +42439,7 @@
   {
     "_id": "6a0c1d0b4bbdd3b465441005",
     "id": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-    "likes": 231,
+    "likes": 234,
     "private": false,
     "downloads": 75105,
     "tags": [
@@ -43206,7 +43256,7 @@
   {
     "_id": "6a4852c6b0032ce14536066b",
     "id": "prism-ml/Bonsai-27B-gguf",
-    "likes": 336,
+    "likes": 343,
     "private": false,
     "downloads": 559267,
     "tags": [
@@ -43272,7 +43322,7 @@
   {
     "_id": "6a4852a1306251f1998ded93",
     "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-    "likes": 595,
+    "likes": 610,
     "private": false,
     "downloads": 74007,
     "tags": [
@@ -43715,7 +43765,7 @@
   {
     "_id": "661cd472b8a37b469cef42e6",
     "id": "Qwen/CodeQwen1.5-7B-Chat",
-    "likes": 353,
+    "likes": 352,
     "private": false,
     "downloads": 62425,
     "tags": [
@@ -43947,7 +43997,7 @@
   {
     "_id": "65f26e72f52878ab7ae2a1c7",
     "id": "Qwen/Qwen1.5-MoE-A2.7B-Chat",
-    "likes": 134,
+    "likes": 133,
     "private": false,
     "downloads": 43542,
     "tags": [
@@ -44980,7 +45030,7 @@
   {
     "_id": "66e81cbcd683a3f4e5291bbf",
     "id": "Qwen/Qwen2.5-7B-Instruct",
-    "likes": 1423,
+    "likes": 1424,
     "private": false,
     "downloads": 12106695,
     "tags": [
@@ -46074,7 +46124,7 @@
   {
     "_id": "66e81d3d7c39a8b32971fe62",
     "id": "Qwen/Qwen2.5-Math-1.5B-Instruct",
-    "likes": 58,
+    "likes": 57,
     "private": false,
     "downloads": 451645,
     "tags": [
@@ -46136,7 +46186,7 @@
   {
     "_id": "66ec161712bd743cfe94a0f4",
     "id": "Qwen/Qwen2.5-Math-7B-Instruct",
-    "likes": 91,
+    "likes": 90,
     "private": false,
     "downloads": 91393,
     "tags": [
@@ -46409,8 +46459,8 @@
       "license:apache-2.0",
       "text-generation-inference",
       "endpoints_compatible",
-      "region:us",
-      "deploy:azure"
+      "deploy:azure",
+      "region:us"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
@@ -46830,7 +46880,9 @@
     "tags": [
       "transformers",
       "safetensors",
+      "qwen3_moe",
       "text-generation",
+      "conversational",
       "arxiv:2309.00071",
       "arxiv:2505.09388",
       "base_model:Qwen/Qwen3-30B-A3B-Base",
@@ -46882,13 +46934,16 @@
     "tags": [
       "transformers",
       "safetensors",
+      "qwen3_moe",
       "text-generation",
+      "conversational",
       "arxiv:2309.00071",
       "arxiv:2505.09388",
       "base_model:Qwen/Qwen3-30B-A3B",
-      "base_model:finetune:Qwen/Qwen3-30B-A3B",
+      "base_model:quantized:Qwen/Qwen3-30B-A3B",
       "license:apache-2.0",
       "endpoints_compatible",
+      "fp8",
       "region:us"
     ],
     "pipeline_tag": "text-generation",
@@ -47808,6 +47863,37 @@
     "modelId": "Qwen/Qwen3-Embedding-4B",
     "name": "Qwen/Qwen3-Embedding-4B",
     "unique_id": "model_qwen_qwen3_embedding_4b",
+    "schema_version": "1.0"
+  },
+  {
+    "_id": "683f090e77b41ac9fc98c51f",
+    "id": "Qwen/Qwen3-Embedding-8B",
+    "likes": 746,
+    "private": false,
+    "downloads": 2887715,
+    "tags": [
+      "sentence-transformers",
+      "safetensors",
+      "qwen3",
+      "text-generation",
+      "transformers",
+      "sentence-similarity",
+      "feature-extraction",
+      "text-embeddings-inference",
+      "arxiv:2506.05176",
+      "base_model:Qwen/Qwen3-8B-Base",
+      "base_model:finetune:Qwen/Qwen3-8B-Base",
+      "license:apache-2.0",
+      "endpoints_compatible",
+      "deploy:azure",
+      "region:us"
+    ],
+    "pipeline_tag": "feature-extraction",
+    "library_name": "sentence-transformers",
+    "createdAt": "2025-06-03T14:39:10.000Z",
+    "modelId": "Qwen/Qwen3-Embedding-8B",
+    "name": "Qwen/Qwen3-Embedding-8B",
+    "unique_id": "model_qwen_qwen3_embedding_8b",
     "schema_version": "1.0"
   },
   {
@@ -50073,7 +50159,7 @@
   {
     "_id": "6a3fec4045bb5fc9e7838244",
     "id": "SC117/Ornith-1.0-35B-MTP-APEX-GGUF",
-    "likes": 57,
+    "likes": 58,
     "private": false,
     "downloads": 70116,
     "tags": [
@@ -53233,7 +53319,7 @@
   {
     "_id": "6a2f1f541aa2f5a724516abf",
     "id": "tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF",
-    "likes": 81,
+    "likes": 82,
     "private": false,
     "downloads": 76040,
     "tags": [
@@ -56393,7 +56479,7 @@
   {
     "_id": "688b451a53e70a07b0669a7c",
     "id": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
-    "likes": 803,
+    "likes": 804,
     "private": false,
     "downloads": 318959,
     "tags": [
@@ -58177,7 +58263,7 @@
   {
     "_id": "6a30fda88514bfa5f01a33b6",
     "id": "zai-org/GLM-5.2",
-    "likes": 4029,
+    "likes": 4030,
     "private": false,
     "downloads": 513061,
     "tags": [
