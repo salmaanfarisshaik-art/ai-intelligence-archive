@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 146930
+**Total Entities Tracked**: 146943
 
 ## Category Distribution
 
@@ -12,8 +12,8 @@
 - **api_providers**: 3200
 - **tool**: 2154
 - **tools**: 2100
-- **datasets**: 1604
-- **models**: 1274
+- **datasets**: 1608
+- **models**: 1283
 - **dataset**: 1124
 - **mcps**: 1100
 - **text-generation**: 997
@@ -67,7 +67,7 @@
 
 ## Source Distribution
 
-- ****: 90456
+- ****: 90469
 - **Stanford Alpaca**: 52000
 - **Hugging Face**: 2004
 - **ArXiv**: 1230
@@ -84,8 +84,8 @@
 - **license:apache-2.0**: 54
 - **transformers**: 54
 - **endpoints_compatible**: 53
-- **library:datasets**: 51
-- **library:mlcroissant**: 51
+- **library:datasets**: 52
+- **library:mlcroissant**: 52
 - **conversational**: 48
 - **modality:text**: 48
 - **language:en**: 47
@@ -99,16 +99,16 @@
 - **eval-results**: 20
 - **task_categories:text-generation**: 20
 - **library:dask**: 18
+- **size_categories:n<1K**: 17
 - **modality:tabular**: 16
 - **qwen3**: 16
-- **size_categories:n<1K**: 16
 - **license:other**: 13
 - **task_categories:robotics**: 12
+- **modality:image**: 11
 - **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **license:cc-by-4.0**: 10
 - **license:odc-by**: 10
-- **modality:image**: 10
 - **modality:video**: 10
 - **multilinguality:monolingual**: 10
 - **pytorch**: 10
