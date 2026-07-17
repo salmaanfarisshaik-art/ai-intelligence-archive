@@ -95,8 +95,8 @@
 - exports/markdown/stat.ML.md
 - exports/markdown/text-ranking.md
 - public/
-- releases/v2026.07.17.20260717_031433.zip
-- releases/v2026.07.17.20260717_031433/
+- releases/v2026.07.17.20260717_061617.zip
+- releases/v2026.07.17.20260717_061617/
 - site/
 
 ## Modified
@@ -107,10 +107,9 @@
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- data/processed/benchmarks/data.json
 - data/processed/datasets/data.json
 - data/processed/models/data.json
 - data/processed/tools/data.json
@@ -200,6 +199,7 @@
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 
 ## Removed
 None
