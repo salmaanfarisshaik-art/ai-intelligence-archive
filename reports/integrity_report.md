@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-18T07:46:55.843478+00:00
-**Warnings:** 1351
+**Generated:** 2026-07-18T09:23:47.888925+00:00
+**Warnings:** 1352
 **Errors:** 30
 
 ## Issues
@@ -1304,6 +1304,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/TIGER-Lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2406.17557
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mlfoundations
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mlfoundations
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/airtrain-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/princeton-nlp

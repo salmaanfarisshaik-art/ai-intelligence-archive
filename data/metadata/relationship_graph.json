@@ -141731,6 +141731,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_669caf535bd3f749a3c87c11",
+      "label": "mlfoundations/MINT-1T-HTML",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_669e6b2752cf1c619d4c0178",
       "label": "airtrain-ai/fineweb-edu-fortified",
       "category": "dataset"
@@ -147478,6 +147483,11 @@
     {
       "id": "hf_ibm-granite_granite-4.1-3b",
       "label": "ibm-granite/granite-4.1-3b",
+      "category": "text-generation"
+    },
+    {
+      "id": "hf_ibm-granite_granite-4.1-8b",
+      "label": "ibm-granite/granite-4.1-8b",
       "category": "text-generation"
     },
     {
@@ -181311,6 +181321,11 @@
       "category": "models"
     },
     {
+      "id": "model_codellama_codellama_7b_instruct_hf",
+      "label": "codellama/CodeLlama-7b-Instruct-hf",
+      "category": "models"
+    },
+    {
       "id": "model_coherelabs_aya_expanse_8b",
       "label": "CohereLabs/aya-expanse-8b",
       "category": "models"
@@ -182183,6 +182198,11 @@
     {
       "id": "model_hpcai_tech_grok_1",
       "label": "hpcai-tech/grok-1",
+      "category": "models"
+    },
+    {
+      "id": "model_hugging_quants_gemma_2_9b_it_awq_int4",
+      "label": "hugging-quants/gemma-2-9b-it-AWQ-INT4",
       "category": "models"
     },
     {
@@ -184516,6 +184536,11 @@
       "category": "models"
     },
     {
+      "id": "model_orion_zhen_aya_expanse_8b_awq",
+      "label": "Orion-zhen/aya-expanse-8b-AWQ",
+      "category": "models"
+    },
+    {
       "id": "model_orion_zhen_qwen2_5_coder_7b_instruct_awq",
       "label": "Orion-zhen/Qwen2.5-Coder-7B-Instruct-AWQ",
       "category": "models"
@@ -185451,6 +185476,11 @@
       "category": "models"
     },
     {
+      "id": "model_qwen_qwq_32b_preview",
+      "label": "Qwen/QwQ-32B-Preview",
+      "category": "models"
+    },
+    {
       "id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
       "label": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
       "category": "models"
@@ -186248,6 +186278,11 @@
     {
       "id": "model_txn545_qwen3_5_122b_a10b_nvfp4",
       "label": "txn545/Qwen3.5-122B-A10B-NVFP4",
+      "category": "models"
+    },
+    {
+      "id": "model_typhoon_ai_llama3_1_typhoon2_8b_instruct",
+      "label": "typhoon-ai/llama3.1-typhoon2-8b-instruct",
       "category": "models"
     },
     {
@@ -741059,6 +741094,11 @@
     },
     {
       "source": "hf_ds_66708709d5c5d8fd8db3a5cf",
+      "target": "datasets/mlfoundations",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_669caf535bd3f749a3c87c11",
       "target": "datasets/mlfoundations",
       "relationship": "related_models"
     },
