@@ -330,11 +330,6 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18250v1](http://arxiv.org/abs/2606.18250v1)
 
-## ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series
-- **ID**: arxiv_2606.19204v1
-- **Source**: ArXiv
-- **URL**: [http://arxiv.org/abs/2606.19204v1](http://arxiv.org/abs/2606.19204v1)
-
 ## GUMP-Net: An interpretable model-data-driven intelligent algorithm for multi-class pelvic segmentation
 - **ID**: arxiv_2606.19215v1
 - **Source**: ArXiv

@@ -80,7 +80,6 @@
 | [RepWAM: World Action Modeling with Representation Visual-Action Tokenizers](http://arxiv.org/abs/2606.13674v1) | ArXiv |  | 1 |
 | [Rethinking Cross-Layer Information Routing in Diffusion Transformers](http://arxiv.org/abs/2605.20708v2) | ArXiv |  | 1 |
 | [Revisiting Vehicle Color Recognition in Long-Tailed Surveillance Scenarios](http://arxiv.org/abs/2606.13625v1) | ArXiv |  | 1 |
-| [ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series](http://arxiv.org/abs/2606.19204v1) | ArXiv |  | 1 |
 | [S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning](http://arxiv.org/abs/2606.14586v1) | ArXiv |  | 1 |
 | [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](http://arxiv.org/abs/2606.20515v1) | ArXiv |  | 1 |
 | [S3OD: Towards Generalizable Salient Object Detection with Synthetic Data](http://arxiv.org/abs/2510.21605v3) | ArXiv |  | 1 |

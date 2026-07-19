@@ -1,67 +1,15 @@
 {
-  "latest_sync_time": "2026-07-19T12:00:02.921838+00:00",
-  "status": "partial_failure",
+  "latest_sync_time": "2026-07-19T12:41:23.087374+00:00",
+  "status": "unknown",
   "connectors": {
-    "run": [
-      "benchmark",
-      "model",
-      "prompt",
-      "dataset",
-      "tool",
-      "news",
-      "indexes_legacy",
-      "entity_indexer",
-      "search_index",
-      "analytics",
-      "docs",
-      "graph_exporter",
-      "exporters",
-      "report_legacy",
-      "dashboard",
-      "plugins",
-      "manifests",
-      "graph_api",
-      "integrity_checker",
-      "release_builder",
-      "interface_validator",
-      "feature_flag_validator",
-      "recommendation_engine",
-      "leaderboards",
-      "timeline_generation",
-      "trend_analysis",
-      "advanced_graph",
-      "repository_auditor",
-      "coverage_analysis",
-      "schema_auditor",
-      "self_documentation",
-      "dependency_reports",
-      "repository_metrics",
-      "pipeline_decision_engine",
-      "massive_seed_fetcher",
-      "source_validator",
-      "repository_expander",
-      "expansion_metrics",
-      "data_quality_report",
-      "archive_statistics",
-      "semantic_index_builder",
-      "search_index_exporter",
-      "index_manifest_generator",
-      "entity_linker",
-      "related_entity_engine",
-      "knowledge_graph_builder",
-      "dashboard_data_generator",
-      "artifact_manifest_generator"
-    ],
-    "failed": [
-      "snapshot_generator",
-      "timeline_generator"
-    ]
+    "run": [],
+    "failed": []
   },
-  "entity_counts": 85124,
+  "entity_counts": 85123,
   "cache_statistics": {
-    "hits": 7,
-    "misses": 2
+    "hits": 0,
+    "misses": 0
   },
   "warning_count": 0,
-  "error_count": 2
+  "error_count": 0
 }
