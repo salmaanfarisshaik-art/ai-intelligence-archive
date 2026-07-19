@@ -40,6 +40,46 @@
     "local_path": "models\\abeja\\model_abeja_gpt_neox_japanese_2_7b.json"
   },
   {
+    "id": "model_ace_step_acestep_5hz_lm_4b",
+    "title": "ACE-Step/acestep-5Hz-lm-4B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ace-step\\model_ace_step_acestep_5hz_lm_4b.json"
+  },
+  {
+    "id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
+    "title": "AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\aeon-7\\model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4.json"
+  },
+  {
+    "id": "model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4",
+    "title": "AEON-7/Gemma-4-E4B-DECKARD-HERETIC-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\aeon-7\\model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4.json"
+  },
+  {
+    "id": "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4",
+    "title": "AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\aeon-7\\model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4.json"
+  },
+  {
     "id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
     "title": "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16",
     "category": "models",
@@ -98,6 +138,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\ai-forever\\model_ai_forever_rugpt3small_based_on_gpt2.json"
+  },
+  {
+    "id": "model_ai_sage_gigachat3_1_audio_10b_a1_8b",
+    "title": "ai-sage/GigaChat3.1-Audio-10B-A1.8B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ai-sage\\model_ai_sage_gigachat3_1_audio_10b_a1_8b.json"
   },
   {
     "id": "model_aidc_ai_ovis1_6_gemma2_9b",
@@ -230,6 +280,16 @@
     "local_path": "models\\allenai\\model_allenai_olmo_3_1025_7b.json"
   },
   {
+    "id": "model_allenai_olmo_3_1125_32b",
+    "title": "allenai/Olmo-3-1125-32B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\allenai\\model_allenai_olmo_3_1125_32b.json"
+  },
+  {
     "id": "model_allenai_olmo_3_7b_instruct",
     "title": "allenai/Olmo-3-7B-Instruct",
     "category": "models",
@@ -258,6 +318,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\allenai\\model_allenai_olmo_3_7b_think.json"
+  },
+  {
+    "id": "model_allenai_olmo_7b",
+    "title": "allenai/OLMo-7B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\allenai\\model_allenai_olmo_7b.json"
   },
   {
     "id": "model_allenai_olmo_hybrid_7b",
@@ -310,6 +380,26 @@
     "local_path": "models\\allenai\\model_allenai_wildguard.json"
   },
   {
+    "id": "model_amazon_bmojof_primed_hqwen3_8b_instruct",
+    "title": "amazon/BMOJOF-primed-HQwen3-8B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\amazon\\model_amazon_bmojof_primed_hqwen3_8b_instruct.json"
+  },
+  {
+    "id": "model_amazon_gdn_primed_hqwen3_8b_instruct",
+    "title": "amazon/GDN-primed-HQwen3-8B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\amazon\\model_amazon_gdn_primed_hqwen3_8b_instruct.json"
+  },
+  {
     "id": "model_amazon_gka_primed_hqwen3_32b_instruct",
     "title": "amazon/GKA-primed-HQwen3-32B-Instruct",
     "category": "models",
@@ -320,6 +410,26 @@
     "local_path": "models\\amazon\\model_amazon_gka_primed_hqwen3_32b_instruct.json"
   },
   {
+    "id": "model_amazon_mamba2_primed_hqwen3_8b_instruct",
+    "title": "amazon/Mamba2-primed-HQwen3-8B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\amazon\\model_amazon_mamba2_primed_hqwen3_8b_instruct.json"
+  },
+  {
+    "id": "model_amd_pard_llama_3_2_1b",
+    "title": "amd/PARD-Llama-3.2-1B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\amd\\model_amd_pard_llama_3_2_1b.json"
+  },
+  {
     "id": "model_andycurrent_gemma_3_1b_it_glm_4_7_flash_heretic_uncensored_thinking_gguf",
     "title": "Andycurrent/Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "category": "models",
@@ -328,6 +438,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\andycurrent\\model_andycurrent_gemma_3_1b_it_glm_4_7_flash_heretic_uncensored_thinking_gguf.json"
+  },
+  {
+    "id": "model_angelslim_hy3_gguf",
+    "title": "AngelSlim/Hy3-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\angelslim\\model_angelslim_hy3_gguf.json"
   },
   {
     "id": "model_anrilombard_mzansilm_125m",
@@ -410,6 +530,46 @@
     "local_path": "models\\asingh15\\model_asingh15_qwen_sft_countdown_defaultproj.json"
   },
   {
+    "id": "model_ath_maas_ovis1_6_gemma2_9b",
+    "title": "ATH-MaaS/Ovis1.6-Gemma2-9B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ath-maas\\model_ath_maas_ovis1_6_gemma2_9b.json"
+  },
+  {
+    "id": "model_ath_maas_ovis1_6_llama3_2_3b",
+    "title": "ATH-MaaS/Ovis1.6-Llama3.2-3B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ath-maas\\model_ath_maas_ovis1_6_llama3_2_3b.json"
+  },
+  {
+    "id": "model_ath_maas_ovis2_1b",
+    "title": "ATH-MaaS/Ovis2-1B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ath-maas\\model_ath_maas_ovis2_1b.json"
+  },
+  {
+    "id": "model_ath_maas_ovis2_5_9b",
+    "title": "ATH-MaaS/Ovis2.5-9B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ath-maas\\model_ath_maas_ovis2_5_9b.json"
+  },
+  {
     "id": "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf",
     "title": "audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF",
     "category": "models",
@@ -428,6 +588,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\augmxnt\\model_augmxnt_shisa_gamma_7b_v1.json"
+  },
+  {
+    "id": "model_avitotech_avibe",
+    "title": "AvitoTech/avibe",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\avitotech\\model_avitotech_avibe.json"
   },
   {
     "id": "model_baai_aquilachat2_7b",
@@ -468,6 +638,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\baffo32\\model_baffo32_decapoda_research_llama_7b_hf.json"
+  },
+  {
+    "id": "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4",
+    "title": "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bahushruth\\model_bahushruth_qwen3_6_35b_a3b_abliterated_v4.json"
+  },
+  {
+    "id": "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4_gguf",
+    "title": "Bahushruth/Qwen3.6-35B-A3B-abliterated-v4-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bahushruth\\model_bahushruth_qwen3_6_35b_a3b_abliterated_v4_gguf.json"
   },
   {
     "id": "model_baichuan_inc_baichuan2_7b_chat",
@@ -550,6 +740,16 @@
     "local_path": "models\\bartowski\\model_bartowski_deepseek_r1_distill_qwen_7b_gguf.json"
   },
   {
+    "id": "model_bartowski_deepseek_v4_flash_gguf",
+    "title": "bartowski/DeepSeek-V4-Flash-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_deepseek_v4_flash_gguf.json"
+  },
+  {
     "id": "model_bartowski_gemma_2_2b_it_abliterated_gguf",
     "title": "bartowski/gemma-2-2b-it-abliterated-GGUF",
     "category": "models",
@@ -568,6 +768,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\bartowski\\model_bartowski_gemma_2_2b_it_gguf.json"
+  },
+  {
+    "id": "model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf",
+    "title": "bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf.json"
   },
   {
     "id": "model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf",
@@ -600,6 +810,16 @@
     "local_path": "models\\bartowski\\model_bartowski_llama_3_2_3b_instruct_gguf.json"
   },
   {
+    "id": "model_bartowski_llama_3_3_70b_instruct_abliterated_gguf",
+    "title": "bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_llama_3_3_70b_instruct_abliterated_gguf.json"
+  },
+  {
     "id": "model_bartowski_meta_llama_3_1_8b_instruct_gguf",
     "title": "bartowski/Meta-Llama-3.1-8B-Instruct-GGUF",
     "category": "models",
@@ -628,6 +848,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\bartowski\\model_bartowski_mistral_7b_instruct_v0_3_gguf.json"
+  },
+  {
+    "id": "model_bartowski_mistral_small_24b_instruct_2501_gguf",
+    "title": "bartowski/Mistral-Small-24B-Instruct-2501-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_mistral_small_24b_instruct_2501_gguf.json"
   },
   {
     "id": "model_bartowski_nemomix_unleashed_12b_gguf",
@@ -660,6 +890,16 @@
     "local_path": "models\\bartowski\\model_bartowski_phi_3_5_mini_instruct_gguf.json"
   },
   {
+    "id": "model_bartowski_qwen2_5_0_5b_instruct_gguf",
+    "title": "bartowski/Qwen2.5-0.5B-Instruct-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_qwen2_5_0_5b_instruct_gguf.json"
+  },
+  {
     "id": "model_bartowski_qwen2_5_14b_instruct_gguf",
     "title": "bartowski/Qwen2.5-14B-Instruct-GGUF",
     "category": "models",
@@ -678,6 +918,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\bartowski\\model_bartowski_qwen2_5_1_5b_instruct_gguf.json"
+  },
+  {
+    "id": "model_bartowski_qwen2_5_32b_instruct_gguf",
+    "title": "bartowski/Qwen2.5-32B-Instruct-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_qwen2_5_32b_instruct_gguf.json"
   },
   {
     "id": "model_bartowski_qwen2_5_3b_instruct_gguf",
@@ -708,6 +958,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\bartowski\\model_bartowski_qwen2_5_7b_instruct_gguf.json"
+  },
+  {
+    "id": "model_bartowski_qwen2_5_coder_14b_instruct_gguf",
+    "title": "bartowski/Qwen2.5-Coder-14B-Instruct-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bartowski\\model_bartowski_qwen2_5_coder_14b_instruct_gguf.json"
   },
   {
     "id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
@@ -910,6 +1170,16 @@
     "local_path": "models\\biomistral\\model_biomistral_biomistral_7b.json"
   },
   {
+    "id": "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid",
+    "title": "bleysg/Qwen3.5-122B-A10B-int4-fp8-hybrid",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bleysg\\model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid.json"
+  },
+  {
     "id": "model_boboliu_qwen3_embedding_4b_w4a16_g128",
     "title": "boboliu/Qwen3-Embedding-4B-W4A16-G128",
     "category": "models",
@@ -940,6 +1210,16 @@
     "local_path": "models\\bosonai\\model_bosonai_higgs_audio_v3_tts_4b.json"
   },
   {
+    "id": "model_bosonai_higgs_tts_3_4b",
+    "title": "bosonai/higgs-tts-3-4b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bosonai\\model_bosonai_higgs_tts_3_4b.json"
+  },
+  {
     "id": "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k",
     "title": "BounharAbdelaziz/Qwen2.5-3B-GRPO-Math-GSM8K",
     "category": "models",
@@ -958,6 +1238,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\brian6145\\model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp.json"
+  },
+  {
+    "id": "model_bsc_lt_salamandra_7b_instruct",
+    "title": "BSC-LT/salamandra-7b-instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\bsc-lt\\model_bsc_lt_salamandra_7b_instruct.json"
   },
   {
     "id": "model_bullpoint_qwen3_coder_next_awq_4bit",
@@ -1130,6 +1420,26 @@
     "local_path": "models\\codellama\\model_codellama_codellama_7b_hf.json"
   },
   {
+    "id": "model_codellama_codellama_7b_instruct_hf",
+    "title": "codellama/CodeLlama-7b-Instruct-hf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\codellama\\model_codellama_codellama_7b_instruct_hf.json"
+  },
+  {
+    "id": "model_coherelabs_north_mini_code_1_0_fp8",
+    "title": "CohereLabs/North-Mini-Code-1.0-fp8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\coherelabs\\model_coherelabs_north_mini_code_1_0_fp8.json"
+  },
+  {
     "id": "model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b",
     "title": "ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b",
     "category": "models",
@@ -1138,6 +1448,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\contextualai\\model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b.json"
+  },
+  {
+    "id": "model_culturerevolt_gemma_4_12b_heretic_abliterated_gguf",
+    "title": "culturerevolt/gemma-4-12b-heretic-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\culturerevolt\\model_culturerevolt_gemma_4_12b_heretic_abliterated_gguf.json"
   },
   {
     "id": "model_cyankiwi_ernie_4_5_21b_a3b_thinking_awq_4bit",
@@ -1168,6 +1488,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\cyankiwi\\model_cyankiwi_glm_4_7_flash_awq_4bit.json"
+  },
+  {
+    "id": "model_cyankiwi_glm_5_2_awq_int4",
+    "title": "cyankiwi/GLM-5.2-AWQ-INT4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\cyankiwi\\model_cyankiwi_glm_5_2_awq_int4.json"
   },
   {
     "id": "model_cyankiwi_hermes_4_14b_awq_4bit",
@@ -1210,6 +1540,26 @@
     "local_path": "models\\cyankiwi\\model_cyankiwi_nex_n2_mini_awq_int4.json"
   },
   {
+    "id": "model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit",
+    "title": "cyankiwi/NVIDIA-Nemotron-3-Super-120B-A12B-AWQ-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\cyankiwi\\model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit.json"
+  },
+  {
+    "id": "model_cyankiwi_ornith_1_0_9b_awq_int4",
+    "title": "cyankiwi/Ornith-1.0-9B-AWQ-INT4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\cyankiwi\\model_cyankiwi_ornith_1_0_9b_awq_int4.json"
+  },
+  {
     "id": "model_cyankiwi_qwen3_30b_a3b_instruct_2507_awq_4bit",
     "title": "cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit",
     "category": "models",
@@ -1228,6 +1578,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\cyankiwi\\model_cyankiwi_qwen3_30b_a3b_thinking_2507_awq_4bit.json"
+  },
+  {
+    "id": "model_cyankiwi_qwen3_4b_instruct_2507_awq_4bit",
+    "title": "cyankiwi/Qwen3-4B-Instruct-2507-AWQ-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\cyankiwi\\model_cyankiwi_qwen3_4b_instruct_2507_awq_4bit.json"
   },
   {
     "id": "model_cyankiwi_qwen3_coder_30b_a3b_instruct_awq_4bit",
@@ -1320,6 +1680,16 @@
     "local_path": "models\\datificate\\model_datificate_gpt2_small_spanish.json"
   },
   {
+    "id": "model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf",
+    "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\davidau\\model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf.json"
+  },
+  {
     "id": "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf",
     "title": "DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF",
     "category": "models",
@@ -1330,6 +1700,26 @@
     "local_path": "models\\davidau\\model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf.json"
   },
   {
+    "id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
+    "title": "deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deadbydawn101\\model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit.json"
+  },
+  {
+    "id": "model_decart_ai_kimi_k2_7_code_nvfp4",
+    "title": "decart-ai/Kimi-K2.7-Code-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\decart-ai\\model_decart_ai_kimi_k2_7_code_nvfp4.json"
+  },
+  {
     "id": "model_deepcogito_cogito_v1_preview_qwen_32b",
     "title": "deepcogito/cogito-v1-preview-qwen-32B",
     "category": "models",
@@ -1338,6 +1728,76 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\deepcogito\\model_deepcogito_cogito_v1_preview_qwen_32b.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_35b",
+    "title": "deepreinforce-ai/Ornith-1.0-35B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_35b.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_35b_fp8",
+    "title": "deepreinforce-ai/Ornith-1.0-35B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_35b_fp8.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_35b_gguf",
+    "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_35b_gguf.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_397b",
+    "title": "deepreinforce-ai/Ornith-1.0-397B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_397b.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_397b_fp8",
+    "title": "deepreinforce-ai/Ornith-1.0-397B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_397b_fp8.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_9b",
+    "title": "deepreinforce-ai/Ornith-1.0-9B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_9b.json"
+  },
+  {
+    "id": "model_deepreinforce_ai_ornith_1_0_9b_gguf",
+    "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepreinforce-ai\\model_deepreinforce_ai_ornith_1_0_9b_gguf.json"
   },
   {
     "id": "model_deepseek_ai_deepseek_coder_1_3b_instruct",
@@ -1470,6 +1930,16 @@
     "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_r1_distill_llama_8b.json"
   },
   {
+    "id": "model_deepseek_ai_deepseek_r1_distill_qwen_14b",
+    "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-14B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_r1_distill_qwen_14b.json"
+  },
+  {
     "id": "model_deepseek_ai_deepseek_r1_distill_qwen_1_5b",
     "title": "deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B",
     "category": "models",
@@ -1580,6 +2050,16 @@
     "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_v4_flash.json"
   },
   {
+    "id": "model_deepseek_ai_deepseek_v4_flash_dspark",
+    "title": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_v4_flash_dspark.json"
+  },
+  {
     "id": "model_deepseek_ai_deepseek_v4_pro",
     "title": "deepseek-ai/DeepSeek-V4-Pro",
     "category": "models",
@@ -1588,6 +2068,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_v4_pro.json"
+  },
+  {
+    "id": "model_deepseek_ai_deepseek_v4_pro_dspark",
+    "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\deepseek-ai\\model_deepseek_ai_deepseek_v4_pro_dspark.json"
   },
   {
     "id": "model_delphi_suite_v0_llama2_100k",
@@ -1640,6 +2130,16 @@
     "local_path": "models\\douyamv\\model_douyamv_gemma_4_31b_jang_4m_crack_gguf.json"
   },
   {
+    "id": "model_dphn_dolphin_2_9_1_llama_3_70b",
+    "title": "dphn/dolphin-2.9.1-llama-3-70b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\dphn\\model_dphn_dolphin_2_9_1_llama_3_70b.json"
+  },
+  {
     "id": "model_dphn_dolphin_2_9_1_yi_1_5_34b",
     "title": "dphn/dolphin-2.9.1-yi-1.5-34b",
     "category": "models",
@@ -1648,6 +2148,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\dphn\\model_dphn_dolphin_2_9_1_yi_1_5_34b.json"
+  },
+  {
+    "id": "model_dphn_dolphin_mistral_24b_venice_edition",
+    "title": "dphn/Dolphin-Mistral-24B-Venice-Edition",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\dphn\\model_dphn_dolphin_mistral_24b_venice_edition.json"
   },
   {
     "id": "model_drawais_qwen3_6_27b_awq_int4",
@@ -1688,6 +2198,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\dream-org\\model_dream_org_dream_v0_instruct_7b.json"
+  },
+  {
+    "id": "model_dreamfast_qwen3_6_27b_uncensored_hauhaucs_aggressive_safetensor_benchmark",
+    "title": "DreamFast/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\dreamfast\\model_dreamfast_qwen3_6_27b_uncensored_hauhaucs_aggressive_safetensor_benchmark.json"
+  },
+  {
+    "id": "model_droplychee_core_droplychee_1_0_27b",
+    "title": "droplychee-core/droplychee-1.0-27b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\droplychee-core\\model_droplychee_core_droplychee_1_0_27b.json"
   },
   {
     "id": "model_duoneural_gemma4_12b_it_abliterated_gguf",
@@ -1780,6 +2310,16 @@
     "local_path": "models\\eleutherai\\model_eleutherai_gpt_neox_20b.json"
   },
   {
+    "id": "model_eleutherai_pythia_12b",
+    "title": "EleutherAI/pythia-12b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_12b.json"
+  },
+  {
     "id": "model_eleutherai_pythia_14m",
     "title": "EleutherAI/pythia-14m",
     "category": "models",
@@ -1800,6 +2340,36 @@
     "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m.json"
   },
   {
+    "id": "model_eleutherai_pythia_160m_data_seed1",
+    "title": "EleutherAI/pythia-160m-data-seed1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_data_seed1.json"
+  },
+  {
+    "id": "model_eleutherai_pythia_160m_data_seed2",
+    "title": "EleutherAI/pythia-160m-data-seed2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_data_seed2.json"
+  },
+  {
+    "id": "model_eleutherai_pythia_160m_data_seed3",
+    "title": "EleutherAI/pythia-160m-data-seed3",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_data_seed3.json"
+  },
+  {
     "id": "model_eleutherai_pythia_160m_deduped",
     "title": "EleutherAI/pythia-160m-deduped",
     "category": "models",
@@ -1808,6 +2378,36 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_deduped.json"
+  },
+  {
+    "id": "model_eleutherai_pythia_160m_weight_seed1",
+    "title": "EleutherAI/pythia-160m-weight-seed1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_weight_seed1.json"
+  },
+  {
+    "id": "model_eleutherai_pythia_160m_weight_seed2",
+    "title": "EleutherAI/pythia-160m-weight-seed2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_weight_seed2.json"
+  },
+  {
+    "id": "model_eleutherai_pythia_160m_weight_seed3",
+    "title": "EleutherAI/pythia-160m-weight-seed3",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\eleutherai\\model_eleutherai_pythia_160m_weight_seed3.json"
   },
   {
     "id": "model_eleutherai_pythia_1_4b",
@@ -1880,6 +2480,16 @@
     "local_path": "models\\eleutherai\\model_eleutherai_pythia_70m_deduped.json"
   },
   {
+    "id": "model_empero_ai_qwythos_9b_claude_mythos_5_1m",
+    "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\empero-ai\\model_empero_ai_qwythos_9b_claude_mythos_5_1m.json"
+  },
+  {
     "id": "model_erwanf_gpt2_mini",
     "title": "erwanf/gpt2-mini",
     "category": "models",
@@ -1898,6 +2508,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\essentialai\\model_essentialai_rnj_1.json"
+  },
+  {
+    "id": "model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4",
+    "title": "Ex0bit/Qwen3.6-35B-A3B-PRISM-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ex0bit\\model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4.json"
   },
   {
     "id": "model_facebook_incoder_1b",
@@ -2020,6 +2640,26 @@
     "local_path": "models\\farbodtavakkoli\\model_farbodtavakkoli_otel_llm_8_3b_it.json"
   },
   {
+    "id": "model_farbodtavakkoli_otel_llm_8b_a1b_it",
+    "title": "farbodtavakkoli/OTel-LLM-8B-A1B-IT",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\farbodtavakkoli\\model_farbodtavakkoli_otel_llm_8b_a1b_it.json"
+  },
+  {
+    "id": "model_farbodtavakkoli_otel_llm_e4b_it",
+    "title": "farbodtavakkoli/OTel-LLM-E4B-IT",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\farbodtavakkoli\\model_farbodtavakkoli_otel_llm_e4b_it.json"
+  },
+  {
     "id": "model_gadflyii_glm_4_7_flash_nvfp4",
     "title": "GadflyII/GLM-4.7-Flash-NVFP4",
     "category": "models",
@@ -2070,6 +2710,16 @@
     "local_path": "models\\generalanalysis\\model_generalanalysis_ga_guard_thinking.json"
   },
   {
+    "id": "model_ggml_org_gpt_oss_20b_gguf",
+    "title": "ggml-org/gpt-oss-20b-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ggml-org\\model_ggml_org_gpt_oss_20b_gguf.json"
+  },
+  {
     "id": "model_ggml_org_stories15m_moe",
     "title": "ggml-org/stories15M_MOE",
     "category": "models",
@@ -2078,6 +2728,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\ggml-org\\model_ggml_org_stories15m_moe.json"
+  },
+  {
+    "id": "model_gnlolot_minicpm5_1b_claude_opus_fable5_thinking_gguf",
+    "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\gnlolot\\model_gnlolot_minicpm5_1b_claude_opus_fable5_thinking_gguf.json"
   },
   {
     "id": "model_goekdeniz_guelmez_josiefied_qwen3_vl_4b_instruct_abliterated_beta_v1",
@@ -2240,6 +2900,16 @@
     "local_path": "models\\google\\model_google_gemma_4_12b_it_assistant.json"
   },
   {
+    "id": "model_google_gemma_4_12b_it_qat_q4_0_unquantized_assistant",
+    "title": "google/gemma-4-12B-it-qat-q4_0-unquantized-assistant",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\google\\model_google_gemma_4_12b_it_qat_q4_0_unquantized_assistant.json"
+  },
+  {
     "id": "model_google_gemma_4_26b_a4b_it_assistant",
     "title": "google/gemma-4-26B-A4B-it-assistant",
     "category": "models",
@@ -2380,6 +3050,16 @@
     "local_path": "models\\gsai-ml\\model_gsai_ml_llada_8b_instruct.json"
   },
   {
+    "id": "model_h2oai_h2o_danube3_500m_chat",
+    "title": "h2oai/h2o-danube3-500m-chat",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\h2oai\\model_h2oai_h2o_danube3_500m_chat.json"
+  },
+  {
     "id": "model_h2oai_h2ovl_mississippi_2b",
     "title": "h2oai/h2ovl-mississippi-2b",
     "category": "models",
@@ -2398,6 +3078,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\h2oai\\model_h2oai_h2ovl_mississippi_800m.json"
+  },
+  {
+    "id": "model_herrhruby_mr_midtrain_9b_v3",
+    "title": "HerrHruby/MR_midtrain_9B_v3",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\herrhruby\\model_herrhruby_mr_midtrain_9b_v3.json"
   },
   {
     "id": "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
@@ -2458,6 +3148,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\hpcai-tech\\model_hpcai_tech_grok_1.json"
+  },
+  {
+    "id": "model_hugging_quants_gemma_2_9b_it_awq_int4",
+    "title": "hugging-quants/gemma-2-9b-it-AWQ-INT4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\hugging-quants\\model_hugging_quants_gemma_2_9b_it_awq_int4.json"
   },
   {
     "id": "model_hugging_quants_llama_3_2_1b_instruct_q4_k_m_gguf",
@@ -2640,6 +3340,16 @@
     "local_path": "models\\huggingfacetb\\model_huggingfacetb_smollm_1_7b.json"
   },
   {
+    "id": "model_huggingfacetb_smollm_360m",
+    "title": "HuggingFaceTB/SmolLM-360M",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\huggingfacetb\\model_huggingfacetb_smollm_360m.json"
+  },
+  {
     "id": "model_huggyllama_llama_7b",
     "title": "huggyllama/llama-7b",
     "category": "models",
@@ -2668,6 +3378,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\huihui-ai\\model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated.json"
+  },
+  {
+    "id": "model_huihui_ai_huihui_qwen3_6_35b_a3b_claude_4_7_opus_abliterated",
+    "title": "huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\huihui-ai\\model_huihui_ai_huihui_qwen3_6_35b_a3b_claude_4_7_opus_abliterated.json"
+  },
+  {
+    "id": "model_huihui_ai_huihui_qwythos_9b_claude_mythos_5_1m_abliterated_gguf",
+    "title": "huihui-ai/Huihui-Qwythos-9B-Claude-Mythos-5-1M-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\huihui-ai\\model_huihui_ai_huihui_qwythos_9b_claude_mythos_5_1m_abliterated_gguf.json"
   },
   {
     "id": "model_huihui_ai_qwen2_5_72b_instruct_abliterated",
@@ -2718,6 +3448,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\ibm-granite\\model_ibm_granite_granite_3_1_8b_instruct.json"
+  },
+  {
+    "id": "model_ibm_granite_granite_3_3_2b_instruct",
+    "title": "ibm-granite/granite-3.3-2b-instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ibm-granite\\model_ibm_granite_granite_3_3_2b_instruct.json"
   },
   {
     "id": "model_ibm_granite_granite_3_3_8b_instruct",
@@ -2800,6 +3540,26 @@
     "local_path": "models\\ibm-granite\\model_ibm_granite_granite_4_1_3b.json"
   },
   {
+    "id": "model_ibm_granite_granite_4_1_3b_gguf",
+    "title": "ibm-granite/granite-4.1-3b-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ibm-granite\\model_ibm_granite_granite_4_1_3b_gguf.json"
+  },
+  {
+    "id": "model_ibm_granite_granite_4_1_8b",
+    "title": "ibm-granite/granite-4.1-8b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ibm-granite\\model_ibm_granite_granite_4_1_8b.json"
+  },
+  {
     "id": "model_ibm_granite_granite_docling_258m",
     "title": "ibm-granite/granite-docling-258M",
     "category": "models",
@@ -2860,6 +3620,16 @@
     "local_path": "models\\igorls\\model_igorls_gemma_4_12b_it_heretic_gguf.json"
   },
   {
+    "id": "model_ilyagusev_gemma_2_2b_it_abliterated",
+    "title": "IlyaGusev/gemma-2-2b-it-abliterated",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ilyagusev\\model_ilyagusev_gemma_2_2b_it_abliterated.json"
+  },
+  {
     "id": "model_ilyagusev_saiga_llama3_8b",
     "title": "IlyaGusev/saiga_llama3_8b",
     "category": "models",
@@ -2908,6 +3678,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\inclusionai\\model_inclusionai_llada2_1_flash.json"
+  },
+  {
+    "id": "model_inclusionai_llada2_1_mini",
+    "title": "inclusionAI/LLaDA2.1-mini",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\inclusionai\\model_inclusionai_llada2_1_mini.json"
   },
   {
     "id": "model_inclusionai_ring_2_5_1t",
@@ -2990,6 +3770,26 @@
     "local_path": "models\\internlm\\model_internlm_internlm_chat_7b.json"
   },
   {
+    "id": "model_internscience_agents_a1",
+    "title": "InternScience/Agents-A1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\internscience\\model_internscience_agents_a1.json"
+  },
+  {
+    "id": "model_internscience_agents_a1_q4_k_m_gguf",
+    "title": "InternScience/Agents-A1-Q4_K_M-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\internscience\\model_internscience_agents_a1_q4_k_m_gguf.json"
+  },
+  {
     "id": "model_iquestlab_iquest_coder_v1_40b_instruct",
     "title": "IQuestLab/IQuest-Coder-V1-40B-Instruct",
     "category": "models",
@@ -3070,6 +3870,16 @@
     "local_path": "models\\jackrong\\model_jackrong_qwopus_glm_18b_merged_gguf.json"
   },
   {
+    "id": "model_jamescallander_deepseek_r1_distill_qwen_14b_w8a8_g128_rk3588_rkllm",
+    "title": "jamescallander/DeepSeek-R1-Distill-Qwen-14B_w8a8_g128_rk3588.rkllm",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\jamescallander\\model_jamescallander_deepseek_r1_distill_qwen_14b_w8a8_g128_rk3588_rkllm.json"
+  },
+  {
     "id": "model_janhq_jan_v3_5_4b_gguf",
     "title": "janhq/Jan-v3.5-4B-gguf",
     "category": "models",
@@ -3088,6 +3898,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\jhu-clsp\\model_jhu_clsp_rank1_7b.json"
+  },
+  {
+    "id": "model_jica98_qwen3_5_4b_super_coder",
+    "title": "jica98/qwen3.5-4B-super-coder",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\jica98\\model_jica98_qwen3_5_4b_super_coder.json"
   },
   {
     "id": "model_jimbothigpen_qwen3_5_9b_gguf",
@@ -3140,6 +3960,16 @@
     "local_path": "models\\junhowie\\model_junhowie_qwen3_14b_gptq_int4.json"
   },
   {
+    "id": "model_k_intelligence_midm_2_0_mini_instruct",
+    "title": "K-intelligence/Midm-2.0-Mini-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\k-intelligence\\model_k_intelligence_midm_2_0_mini_instruct.json"
+  },
+  {
     "id": "model_kaitchup_phi_3_mini_4k_instruct_gptq_4bit",
     "title": "kaitchup/Phi-3-mini-4k-instruct-gptq-4bit",
     "category": "models",
@@ -3168,6 +3998,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\katuni4ka\\model_katuni4ka_tiny_random_phi3.json"
+  },
+  {
+    "id": "model_kblueleaf_tipo_500m",
+    "title": "KBlueLeaf/TIPO-500M",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\kblueleaf\\model_kblueleaf_tipo_500m.json"
   },
   {
     "id": "model_kblueleaf_tipo_500m_ft",
@@ -3260,6 +4100,16 @@
     "local_path": "models\\leaderboardmodel1\\model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16.json"
   },
   {
+    "id": "model_lewtun_talkie_1930_13b_it_hf",
+    "title": "lewtun/talkie-1930-13b-it-hf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lewtun\\model_lewtun_talkie_1930_13b_it_hf.json"
+  },
+  {
     "id": "model_lgai_exaone_exaone_3_0_7_8b_instruct",
     "title": "LGAI-EXAONE/EXAONE-3.0-7.8B-Instruct",
     "category": "models",
@@ -3278,6 +4128,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_3_5_2_4b_instruct.json"
+  },
+  {
+    "id": "model_lgai_exaone_exaone_3_5_32b_instruct",
+    "title": "LGAI-EXAONE/EXAONE-3.5-32B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_3_5_32b_instruct.json"
   },
   {
     "id": "model_lgai_exaone_exaone_3_5_32b_instruct_awq",
@@ -3300,6 +4160,16 @@
     "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_3_5_7_8b_instruct.json"
   },
   {
+    "id": "model_lgai_exaone_exaone_3_5_7_8b_instruct_awq",
+    "title": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_3_5_7_8b_instruct_awq.json"
+  },
+  {
     "id": "model_lgai_exaone_exaone_4_0_32b",
     "title": "LGAI-EXAONE/EXAONE-4.0-32B",
     "category": "models",
@@ -3308,6 +4178,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_4_0_32b.json"
+  },
+  {
+    "id": "model_lgai_exaone_exaone_4_0_32b_gguf",
+    "title": "LGAI-EXAONE/EXAONE-4.0-32B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lgai-exaone\\model_lgai_exaone_exaone_4_0_32b_gguf.json"
   },
   {
     "id": "model_lgai_exaone_k_exaone_236b_a23b",
@@ -3430,6 +4310,26 @@
     "local_path": "models\\liquidai\\model_liquidai_lfm2_5_1_2b_thinking.json"
   },
   {
+    "id": "model_liquidai_lfm2_5_230m",
+    "title": "LiquidAI/LFM2.5-230M",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\liquidai\\model_liquidai_lfm2_5_230m.json"
+  },
+  {
+    "id": "model_liquidai_lfm2_5_230m_gguf",
+    "title": "LiquidAI/LFM2.5-230M-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\liquidai\\model_liquidai_lfm2_5_230m_gguf.json"
+  },
+  {
     "id": "model_liquidai_lfm2_5_350m",
     "title": "LiquidAI/LFM2.5-350M",
     "category": "models",
@@ -3520,6 +4420,16 @@
     "local_path": "models\\liuhaotian\\model_liuhaotian_llava_v1_5_7b.json"
   },
   {
+    "id": "model_liuhaotian_llava_v1_6_vicuna_13b",
+    "title": "liuhaotian/llava-v1.6-vicuna-13b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\liuhaotian\\model_liuhaotian_llava_v1_6_vicuna_13b.json"
+  },
+  {
     "id": "model_livekit_turn_detector",
     "title": "livekit/turn-detector",
     "category": "models",
@@ -3548,6 +4458,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\llamafactory\\model_llamafactory_tiny_random_qwen3.json"
+  },
+  {
+    "id": "model_llamas_community_llamaguard_7b",
+    "title": "llamas-community/LlamaGuard-7b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\llamas-community\\model_llamas_community_llamaguard_7b.json"
   },
   {
     "id": "model_llm_jp_llm_jp_3_150m",
@@ -3590,6 +4510,16 @@
     "local_path": "models\\llmat\\model_llmat_qwen3_4b_instruct_2507_nvfp4.json"
   },
   {
+    "id": "model_llmfan46_gemma_4_12b_coder_fable5_composer2_5_v1_uncensored_heretic_gguf",
+    "title": "llmfan46/gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\llmfan46\\model_llmfan46_gemma_4_12b_coder_fable5_composer2_5_v1_uncensored_heretic_gguf.json"
+  },
+  {
     "id": "model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic",
     "title": "llmfan46/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic",
     "category": "models",
@@ -3598,6 +4528,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\llmfan46\\model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic.json"
+  },
+  {
+    "id": "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf",
+    "title": "llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\llmfan46\\model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf.json"
+  },
+  {
+    "id": "model_llmfan46_qwythos_9b_claude_mythos_5_1m_uncensored_heretic_gguf",
+    "title": "llmfan46/Qwythos-9B-Claude-Mythos-5-1M-uncensored-heretic-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\llmfan46\\model_llmfan46_qwythos_9b_claude_mythos_5_1m_uncensored_heretic_gguf.json"
   },
   {
     "id": "model_lmms_lab_llava_onevision_qwen2_7b_ov",
@@ -3880,6 +4830,16 @@
     "local_path": "models\\lmstudio-community\\model_lmstudio_community_qwen2_5_coder_32b_instruct_mlx_8bit.json"
   },
   {
+    "id": "model_lmstudio_community_qwen3_14b_gguf",
+    "title": "lmstudio-community/Qwen3-14B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lmstudio-community\\model_lmstudio_community_qwen3_14b_gguf.json"
+  },
+  {
     "id": "model_lmstudio_community_qwen3_14b_mlx_4bit",
     "title": "lmstudio-community/Qwen3-14B-MLX-4bit",
     "category": "models",
@@ -4110,6 +5070,16 @@
     "local_path": "models\\lnl-ai\\model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit.json"
   },
   {
+    "id": "model_lordneel_agents_a1_gguf",
+    "title": "LordNeel/Agents-A1-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lordneel\\model_lordneel_agents_a1_gguf.json"
+  },
+  {
     "id": "model_lsx_uniwue_llammlein_1b_prerelease",
     "title": "LSX-UniWue/LLaMmlein_1B_prerelease",
     "category": "models",
@@ -4128,6 +5098,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\luffythefox\\model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf.json"
+  },
+  {
+    "id": "model_lukealonso_glm_5_2_nvfp4",
+    "title": "lukealonso/GLM-5.2-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\lukealonso\\model_lukealonso_glm_5_2_nvfp4.json"
   },
   {
     "id": "model_lykosai_gpt_prompt_expansion_fooocus_v2",
@@ -4740,6 +5720,26 @@
     "local_path": "models\\meituan-longcat\\model_meituan_longcat_longcat_flash_chat.json"
   },
   {
+    "id": "model_menlo_jan_nano_128k",
+    "title": "Menlo/Jan-nano-128k",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\menlo\\model_menlo_jan_nano_128k.json"
+  },
+  {
+    "id": "model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers",
+    "title": "meshllm/Qwen3.5-397B-A17B-UD-Q4_K_XL-layers",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\meshllm\\model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers.json"
+  },
+  {
     "id": "model_meta_llama_llama_2_13b_chat_hf",
     "title": "meta-llama/Llama-2-13b-chat-hf",
     "category": "models",
@@ -4798,6 +5798,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\meta-llama\\model_meta_llama_llama_3_1_405b.json"
+  },
+  {
+    "id": "model_meta_llama_llama_3_1_405b_fp8",
+    "title": "meta-llama/Llama-3.1-405B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\meta-llama\\model_meta_llama_llama_3_1_405b_fp8.json"
   },
   {
     "id": "model_meta_llama_llama_3_1_405b_instruct",
@@ -4960,6 +5970,16 @@
     "local_path": "models\\meta-llama\\model_meta_llama_meta_llama_3_8b_instruct.json"
   },
   {
+    "id": "model_michaelw9999_qwen3_6_35b_a3b_nvfp4_mtp_gguf",
+    "title": "michaelw9999/Qwen3.6-35B-A3B-NVFP4-MTP-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\michaelw9999\\model_michaelw9999_qwen3_6_35b_a3b_nvfp4_mtp_gguf.json"
+  },
+  {
     "id": "model_microsoft_biogpt",
     "title": "microsoft/biogpt",
     "category": "models",
@@ -5038,6 +6058,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\microsoft\\model_microsoft_phi_3_5_vision_instruct.json"
+  },
+  {
+    "id": "model_microsoft_phi_3_medium_128k_instruct",
+    "title": "microsoft/Phi-3-medium-128k-instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\microsoft\\model_microsoft_phi_3_medium_128k_instruct.json"
   },
   {
     "id": "model_microsoft_phi_3_mini_128k_instruct",
@@ -5360,6 +6390,66 @@
     "local_path": "models\\mlx-community\\model_mlx_community_qwen2_5_14b_instruct_4bit.json"
   },
   {
+    "id": "model_mlx_community_qwen2_5_3b_instruct_4bit",
+    "title": "mlx-community/Qwen2.5-3B-Instruct-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen2_5_3b_instruct_4bit.json"
+  },
+  {
+    "id": "model_mlx_community_qwen3_0_6b_4bit",
+    "title": "mlx-community/Qwen3-0.6B-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen3_0_6b_4bit.json"
+  },
+  {
+    "id": "model_mlx_community_qwen3_0_6b_8bit",
+    "title": "mlx-community/Qwen3-0.6B-8bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen3_0_6b_8bit.json"
+  },
+  {
+    "id": "model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit",
+    "title": "mlx-community/Qwen3-30B-A3B-Instruct-2507-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit.json"
+  },
+  {
+    "id": "model_mlx_community_qwen3_4b_instruct_2507_4bit",
+    "title": "mlx-community/Qwen3-4B-Instruct-2507-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen3_4b_instruct_2507_4bit.json"
+  },
+  {
+    "id": "model_mlx_community_qwen3_5_27b_optiq_4bit",
+    "title": "mlx-community/Qwen3.5-27B-OptiQ-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\mlx-community\\model_mlx_community_qwen3_5_27b_optiq_4bit.json"
+  },
+  {
     "id": "model_mlx_community_qwen3_5_9b_optiq_4bit",
     "title": "mlx-community/Qwen3.5-9B-OptiQ-4bit",
     "category": "models",
@@ -5530,6 +6620,26 @@
     "local_path": "models\\naver-hyperclovax\\model_naver_hyperclovax_hyperclovax_seed_vision_instruct_3b.json"
   },
   {
+    "id": "model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill",
+    "title": "nerkyor/Qwen3.6-27B-DSV4Pro-Thinking-Distill",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nerkyor\\model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill.json"
+  },
+  {
+    "id": "model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill_gguf",
+    "title": "nerkyor/Qwen3.6-27B-DSV4Pro-Thinking-Distill-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nerkyor\\model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill_gguf.json"
+  },
+  {
     "id": "model_neuralcrew_neutrino_instruct",
     "title": "neuralcrew/neutrino-instruct",
     "category": "models",
@@ -5660,6 +6770,16 @@
     "local_path": "models\\nousresearch\\model_nousresearch_meta_llama_3_8b_instruct.json"
   },
   {
+    "id": "model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo",
+    "title": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nousresearch\\model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo.json"
+  },
+  {
     "id": "model_novasearch_stella_en_1_5b_v5",
     "title": "NovaSearch/stella_en_1.5B_v5",
     "category": "models",
@@ -5760,6 +6880,16 @@
     "local_path": "models\\nvidia\\model_nvidia_glm_5_1_nvfp4.json"
   },
   {
+    "id": "model_nvidia_glm_5_2_nvfp4",
+    "title": "nvidia/GLM-5.2-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_glm_5_2_nvfp4.json"
+  },
+  {
     "id": "model_nvidia_glm_5_nvfp4",
     "title": "nvidia/GLM-5-NVFP4",
     "category": "models",
@@ -5790,6 +6920,16 @@
     "local_path": "models\\nvidia\\model_nvidia_kimi_k2_6_nvfp4.json"
   },
   {
+    "id": "model_nvidia_kimi_k2_7_code_nvfp4",
+    "title": "nvidia/Kimi-K2.7-Code-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_kimi_k2_7_code_nvfp4.json"
+  },
+  {
     "id": "model_nvidia_kimi_k2_thinking_nvfp4",
     "title": "nvidia/Kimi-K2-Thinking-NVFP4",
     "category": "models",
@@ -5808,6 +6948,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\nvidia\\model_nvidia_llama_3_1_8b_instruct_fp8.json"
+  },
+  {
+    "id": "model_nvidia_llama_3_1_nemotron_70b_instruct_hf",
+    "title": "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_llama_3_1_nemotron_70b_instruct_hf.json"
+  },
+  {
+    "id": "model_nvidia_llama_3_1_nemotron_nano_8b_v1",
+    "title": "nvidia/Llama-3.1-Nemotron-Nano-8B-v1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_llama_3_1_nemotron_nano_8b_v1.json"
   },
   {
     "id": "model_nvidia_llama_3_3_nemotron_super_49b_v1",
@@ -5858,6 +7018,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\nvidia\\model_nvidia_minimax_m2_7_nvfp4.json"
+  },
+  {
+    "id": "model_nvidia_minimax_m3_nvfp4",
+    "title": "nvidia/MiniMax-M3-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_minimax_m3_nvfp4.json"
   },
   {
     "id": "model_nvidia_minitron_8b_base",
@@ -5990,6 +7160,16 @@
     "local_path": "models\\nvidia\\model_nvidia_nvidia_nemotron_3_nano_4b_bf16.json"
   },
   {
+    "id": "model_nvidia_nvidia_nemotron_3_nano_4b_fp8",
+    "title": "nvidia/NVIDIA-Nemotron-3-Nano-4B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_nvidia_nemotron_3_nano_4b_fp8.json"
+  },
+  {
     "id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_base_bf16",
     "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-Base-BF16",
     "category": "models",
@@ -6048,6 +7228,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\nvidia\\model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_nvfp4.json"
+  },
+  {
+    "id": "model_nvidia_nvidia_nemotron_labs_3_puzzle_75b_a9b_nvfp4",
+    "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_nvidia_nemotron_labs_3_puzzle_75b_a9b_nvfp4.json"
   },
   {
     "id": "model_nvidia_nvidia_nemotron_nano_12b_v2",
@@ -6160,6 +7350,16 @@
     "local_path": "models\\nvidia\\model_nvidia_qwen3_32b_nvfp4.json"
   },
   {
+    "id": "model_nvidia_qwen3_5_122b_a10b_nvfp4",
+    "title": "nvidia/Qwen3.5-122B-A10B-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_qwen3_5_122b_a10b_nvfp4.json"
+  },
+  {
     "id": "model_nvidia_qwen3_5_397b_a17b_nvfp4",
     "title": "nvidia/Qwen3.5-397B-A17B-NVFP4",
     "category": "models",
@@ -6168,6 +7368,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\nvidia\\model_nvidia_qwen3_5_397b_a17b_nvfp4.json"
+  },
+  {
+    "id": "model_nvidia_qwen3_6_27b_nvfp4",
+    "title": "nvidia/Qwen3.6-27B-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\nvidia\\model_nvidia_qwen3_6_27b_nvfp4.json"
   },
   {
     "id": "model_nvidia_qwen3_6_35b_a3b_nvfp4",
@@ -6360,6 +7570,16 @@
     "local_path": "models\\openbmb\\model_openbmb_minicpm3_4b.json"
   },
   {
+    "id": "model_openbmb_minicpm4_0_5b",
+    "title": "openbmb/MiniCPM4-0.5B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\openbmb\\model_openbmb_minicpm4_0_5b.json"
+  },
+  {
     "id": "model_openbmb_minicpm4_1_8b",
     "title": "openbmb/MiniCPM4.1-8B",
     "category": "models",
@@ -6368,6 +7588,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\openbmb\\model_openbmb_minicpm4_1_8b.json"
+  },
+  {
+    "id": "model_openbmb_minicpm4_8b",
+    "title": "openbmb/MiniCPM4-8B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\openbmb\\model_openbmb_minicpm4_8b.json"
   },
   {
     "id": "model_openbmb_minicpm5_1b",
@@ -6408,6 +7638,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\openllm-france\\model_openllm_france_lucie_7b_instruct_v1_1.json"
+  },
+  {
+    "id": "model_openmoss_team_moss_transcribe_diarize",
+    "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\openmoss-team\\model_openmoss_team_moss_transcribe_diarize.json"
+  },
+  {
+    "id": "model_openonerec_onereason_0_8b_pretrain_competition",
+    "title": "OpenOneRec/OneReason-0.8B-pretrain-competition",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\openonerec\\model_openonerec_onereason_0_8b_pretrain_competition.json"
   },
   {
     "id": "model_openpipe_qwen3_14b_instruct",
@@ -6500,6 +7750,26 @@
     "local_path": "models\\orenguteng\\model_orenguteng_llama_3_1_8b_lexi_uncensored_v2.json"
   },
   {
+    "id": "model_orion_zhen_aya_expanse_8b_awq",
+    "title": "Orion-zhen/aya-expanse-8b-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\orion-zhen\\model_orion_zhen_aya_expanse_8b_awq.json"
+  },
+  {
+    "id": "model_orion_zhen_qwen2_5_coder_7b_instruct_awq",
+    "title": "Orion-zhen/Qwen2.5-Coder-7B-Instruct-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\orion-zhen\\model_orion_zhen_qwen2_5_coder_7b_instruct_awq.json"
+  },
+  {
     "id": "model_orionstarai_orion_14b_chat",
     "title": "OrionStarAI/Orion-14B-Chat",
     "category": "models",
@@ -6558,6 +7828,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\peft-internal-testing\\model_peft_internal_testing_tiny_dummy_qwen2.json"
+  },
+  {
+    "id": "model_peft_internal_testing_tiny_optforfeatureextraction_lora",
+    "title": "peft-internal-testing/tiny_OPTForFeatureExtraction-lora",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\peft-internal-testing\\model_peft_internal_testing_tiny_optforfeatureextraction_lora.json"
   },
   {
     "id": "model_peft_internal_testing_tiny_random_gpt2",
@@ -6630,6 +7910,26 @@
     "local_path": "models\\pfnet\\model_pfnet_plamo_3_nict_2b_base.json"
   },
   {
+    "id": "model_phalacloud_glm_5_2_w4afp8",
+    "title": "PhalaCloud/GLM-5.2-W4AFP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\phalacloud\\model_phalacloud_glm_5_2_w4afp8.json"
+  },
+  {
+    "id": "model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf",
+    "title": "pipenetwork/GLM-5.2-REAP50-Q3_K_M-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\pipenetwork\\model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf.json"
+  },
+  {
     "id": "model_poolside_laguna_xs_2",
     "title": "poolside/Laguna-XS.2",
     "category": "models",
@@ -6650,6 +7950,16 @@
     "local_path": "models\\prefeitura-rio\\model_prefeitura_rio_rio_3_0_open_mini.json"
   },
   {
+    "id": "model_prism_ml_bonsai_27b_gguf",
+    "title": "prism-ml/Bonsai-27B-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\prism-ml\\model_prism_ml_bonsai_27b_gguf.json"
+  },
+  {
     "id": "model_prism_ml_bonsai_8b_gguf",
     "title": "prism-ml/Bonsai-8B-gguf",
     "category": "models",
@@ -6658,6 +7968,36 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\prism-ml\\model_prism_ml_bonsai_8b_gguf.json"
+  },
+  {
+    "id": "model_prism_ml_ternary_bonsai_27b_gguf",
+    "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\prism-ml\\model_prism_ml_ternary_bonsai_27b_gguf.json"
+  },
+  {
+    "id": "model_prism_ml_ternary_bonsai_8b_gguf",
+    "title": "prism-ml/Ternary-Bonsai-8B-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\prism-ml\\model_prism_ml_ternary_bonsai_8b_gguf.json"
+  },
+  {
+    "id": "model_prithivmlmods_vibethinker_3b_gguf",
+    "title": "prithivMLmods/VibeThinker-3B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\prithivmlmods\\model_prithivmlmods_vibethinker_3b_gguf.json"
   },
   {
     "id": "model_prometheus_eval_prometheus_7b_v2_0",
@@ -6670,6 +8010,36 @@
     "local_path": "models\\prometheus-eval\\model_prometheus_eval_prometheus_7b_v2_0.json"
   },
   {
+    "id": "model_protolabsai_ornith_1_0_9b_mtp_gguf",
+    "title": "protoLabsAI/Ornith-1.0-9B-MTP-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\protolabsai\\model_protolabsai_ornith_1_0_9b_mtp_gguf.json"
+  },
+  {
+    "id": "model_qcri_fanar_1_9b_instruct",
+    "title": "QCRI/Fanar-1-9B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qcri\\model_qcri_fanar_1_9b_instruct.json"
+  },
+  {
+    "id": "model_qihoo360_fg_clip_base",
+    "title": "qihoo360/fg-clip-base",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qihoo360\\model_qihoo360_fg_clip_base.json"
+  },
+  {
     "id": "model_quanttrio_deepseek_v3_2_awq",
     "title": "QuantTrio/DeepSeek-V3.2-AWQ",
     "category": "models",
@@ -6678,6 +8048,36 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\quanttrio\\model_quanttrio_deepseek_v3_2_awq.json"
+  },
+  {
+    "id": "model_quanttrio_glm_4_7_awq",
+    "title": "QuantTrio/GLM-4.7-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\quanttrio\\model_quanttrio_glm_4_7_awq.json"
+  },
+  {
+    "id": "model_quanttrio_glm_5_2_int4_int8mix",
+    "title": "QuantTrio/GLM-5.2-Int4-Int8Mix",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\quanttrio\\model_quanttrio_glm_5_2_int4_int8mix.json"
+  },
+  {
+    "id": "model_quanttrio_qwen3_235b_a22b_instruct_2507_awq",
+    "title": "QuantTrio/Qwen3-235B-A22B-Instruct-2507-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\quanttrio\\model_quanttrio_qwen3_235b_a22b_instruct_2507_awq.json"
   },
   {
     "id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
@@ -6708,6 +8108,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\quanttrio\\model_quanttrio_qwen3_vl_30b_a3b_thinking_awq.json"
+  },
+  {
+    "id": "model_quixiai_qwen3_30b_a3b_awq",
+    "title": "QuixiAI/Qwen3-30B-A3B-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\quixiai\\model_quixiai_qwen3_30b_a3b_awq.json"
+  },
+  {
+    "id": "model_qwen_codeqwen1_5_7b_chat",
+    "title": "Qwen/CodeQwen1.5-7B-Chat",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_codeqwen1_5_7b_chat.json"
   },
   {
     "id": "model_qwen_qwen1_5_0_5b",
@@ -7240,6 +8660,16 @@
     "local_path": "models\\qwen\\model_qwen_qwen2_5_coder_14b_instruct_gguf.json"
   },
   {
+    "id": "model_qwen_qwen2_5_coder_14b_instruct_gptq_int8",
+    "title": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen2_5_coder_14b_instruct_gptq_int8.json"
+  },
+  {
     "id": "model_qwen_qwen2_5_coder_1_5b",
     "title": "Qwen/Qwen2.5-Coder-1.5B",
     "category": "models",
@@ -7448,6 +8878,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\qwen\\model_qwen_qwen2_5_math_7b_instruct.json"
+  },
+  {
+    "id": "model_qwen_qwen2_72b_instruct",
+    "title": "Qwen/Qwen2-72B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen2_72b_instruct.json"
   },
   {
     "id": "model_qwen_qwen2_7b",
@@ -7698,6 +9138,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\qwen\\model_qwen_qwen3_30b_a3b_fp8.json"
+  },
+  {
+    "id": "model_qwen_qwen3_30b_a3b_gguf",
+    "title": "Qwen/Qwen3-30B-A3B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen3_30b_a3b_gguf.json"
   },
   {
     "id": "model_qwen_qwen3_30b_a3b_gptq_int4",
@@ -8010,6 +9460,16 @@
     "local_path": "models\\qwen\\model_qwen_qwen3_embedding_4b.json"
   },
   {
+    "id": "model_qwen_qwen3_embedding_8b",
+    "title": "Qwen/Qwen3-Embedding-8B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen3_embedding_8b.json"
+  },
+  {
     "id": "model_qwen_qwen3_next_80b_a3b_instruct",
     "title": "Qwen/Qwen3-Next-80B-A3B-Instruct",
     "category": "models",
@@ -8110,6 +9570,16 @@
     "local_path": "models\\qwen\\model_qwen_qwen3guard_gen_8b.json"
   },
   {
+    "id": "model_qwen_qwen_72b",
+    "title": "Qwen/Qwen-72B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen_72b.json"
+  },
+  {
     "id": "model_qwen_qwen_7b_chat",
     "title": "Qwen/Qwen-7B-Chat",
     "category": "models",
@@ -8118,6 +9588,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\qwen\\model_qwen_qwen_7b_chat.json"
+  },
+  {
+    "id": "model_qwen_qwen_agentworld_35b_a3b",
+    "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwen_agentworld_35b_a3b.json"
   },
   {
     "id": "model_qwen_qwen_vl",
@@ -8148,6 +9628,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\qwen\\model_qwen_qwq_32b.json"
+  },
+  {
+    "id": "model_qwen_qwq_32b_preview",
+    "title": "Qwen/QwQ-32B-Preview",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\qwen\\model_qwen_qwq_32b_preview.json"
+  },
+  {
+    "id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
+    "title": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\ravichandranj\\model_ravichandranj_dolphin3_cyber_8b_gguf.json"
   },
   {
     "id": "model_redhatai_apertus_70b_instruct_2509_quantized_w4a16",
@@ -8188,6 +9688,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\redhatai\\model_redhatai_deepseek_v4_flash_nvfp4_fp8.json"
+  },
+  {
+    "id": "model_redhatai_gpt_oss_120b",
+    "title": "RedHatAI/gpt-oss-120b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\redhatai\\model_redhatai_gpt_oss_120b.json"
   },
   {
     "id": "model_redhatai_gpt_oss_20b_speculator_eagle3",
@@ -8248,6 +9758,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\redhatai\\model_redhatai_llama_3_3_70b_instruct_fp8_dynamic.json"
+  },
+  {
+    "id": "model_redhatai_meta_llama_3_1_70b_instruct_fp8",
+    "title": "RedHatAI/Meta-Llama-3.1-70B-Instruct-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\redhatai\\model_redhatai_meta_llama_3_1_70b_instruct_fp8.json"
   },
   {
     "id": "model_redhatai_meta_llama_3_1_70b_instruct_quantized_w4a16",
@@ -8420,6 +9940,26 @@
     "local_path": "models\\redhatai\\model_redhatai_qwen3_8b_speculator_eagle3.json"
   },
   {
+    "id": "model_redhatai_qwen3_coder_next_fp8_dynamic",
+    "title": "RedHatAI/Qwen3-Coder-Next-FP8-dynamic",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\redhatai\\model_redhatai_qwen3_coder_next_fp8_dynamic.json"
+  },
+  {
+    "id": "model_redhatai_qwen3_coder_next_nvfp4",
+    "title": "RedHatAI/Qwen3-Coder-Next-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\redhatai\\model_redhatai_qwen3_coder_next_nvfp4.json"
+  },
+  {
     "id": "model_redhatai_qwen3_next_80b_a3b_instruct_nvfp4",
     "title": "RedHatAI/Qwen3-Next-80B-A3B-Instruct-NVFP4",
     "category": "models",
@@ -8460,6 +10000,16 @@
     "local_path": "models\\rednote-hilab\\model_rednote_hilab_dots_ocr.json"
   },
   {
+    "id": "model_refalmachine_ruadapt_qwen2_5_7b_ext_u48_instruct",
+    "title": "RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\refalmachine\\model_refalmachine_ruadapt_qwen2_5_7b_ext_u48_instruct.json"
+  },
+  {
     "id": "model_rinna_japanese_gpt_neox_small",
     "title": "rinna/japanese-gpt-neox-small",
     "category": "models",
@@ -8488,6 +10038,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\s4nfs\\model_s4nfs_neeto_1_0_8b.json"
+  },
+  {
+    "id": "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf",
+    "title": "s-batman/Ornith-1.0-35B-NVFP4-MTP-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\s-batman\\model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf.json"
   },
   {
     "id": "model_sakamakismile_huihui_qwen3_6_27b_abliterated_nvfp4_mtp",
@@ -8580,6 +10140,16 @@
     "local_path": "models\\sarvamai\\model_sarvamai_sarvam_30b.json"
   },
   {
+    "id": "model_sc117_ornith_1_0_35b_mtp_apex_gguf",
+    "title": "SC117/Ornith-1.0-35B-MTP-APEX-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\sc117\\model_sc117_ornith_1_0_35b_mtp_apex_gguf.json"
+  },
+  {
     "id": "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10",
     "title": "scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10",
     "category": "models",
@@ -8590,6 +10160,16 @@
     "local_path": "models\\scottgl\\model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10.json"
   },
   {
+    "id": "model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf",
+    "title": "semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\semparuthiveeran\\model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf.json"
+  },
+  {
     "id": "model_shibing624_macbert4csc_base_chinese",
     "title": "shibing624/macbert4csc-base-chinese",
     "category": "models",
@@ -8598,6 +10178,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\shibing624\\model_shibing624_macbert4csc_base_chinese.json"
+  },
+  {
+    "id": "model_sillytilly_mistralai_mistral_nemo_instruct_2407",
+    "title": "SillyTilly/mistralai_Mistral-Nemo-Instruct-2407",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\sillytilly\\model_sillytilly_mistralai_mistral_nemo_instruct_2407.json"
   },
   {
     "id": "model_skt_a_x_k1",
@@ -8670,6 +10260,26 @@
     "local_path": "models\\solidrust\\model_solidrust_meta_llama_3_1_8b_instruct_abliterated_awq.json"
   },
   {
+    "id": "model_speakleash_bielik_11b_v2_3_instruct",
+    "title": "speakleash/Bielik-11B-v2.3-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\speakleash\\model_speakleash_bielik_11b_v2_3_instruct.json"
+  },
+  {
+    "id": "model_speakleash_bielik_11b_v3_0_instruct",
+    "title": "speakleash/Bielik-11B-v3.0-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\speakleash\\model_speakleash_bielik_11b_v3_0_instruct.json"
+  },
+  {
     "id": "model_speakleash_bielik_11b_v3_0_instruct_awq",
     "title": "speakleash/Bielik-11B-v3.0-Instruct-awq",
     "category": "models",
@@ -8678,6 +10288,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\speakleash\\model_speakleash_bielik_11b_v3_0_instruct_awq.json"
+  },
+  {
+    "id": "model_squ11z1_mythos_nano",
+    "title": "squ11z1/Mythos-nano",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\squ11z1\\model_squ11z1_mythos_nano.json"
   },
   {
     "id": "model_sshleifer_tiny_gpt2",
@@ -8710,6 +10330,16 @@
     "local_path": "models\\stabilityai\\model_stabilityai_stablelm_zephyr_3b.json"
   },
   {
+    "id": "model_stanford_crfm_alias_gpt2_small_x21",
+    "title": "stanford-crfm/alias-gpt2-small-x21",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\stanford-crfm\\model_stanford_crfm_alias_gpt2_small_x21.json"
+  },
+  {
     "id": "model_state_spaces_mamba_130m_hf",
     "title": "state-spaces/mamba-130m-hf",
     "category": "models",
@@ -8738,6 +10368,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\stelterlab\\model_stelterlab_mistral_small_24b_instruct_2501_awq.json"
+  },
+  {
+    "id": "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
+    "title": "stelterlab/NVIDIA-Nemotron-3-Nano-30B-A3B-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\stelterlab\\model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq.json"
   },
   {
     "id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
@@ -8798,6 +10438,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\stepfun-ai\\model_stepfun_ai_step_3_7_flash_nvfp4.json"
+  },
+  {
+    "id": "model_swiss_ai_apertus_70b_instruct_2509",
+    "title": "swiss-ai/Apertus-70B-Instruct-2509",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\swiss-ai\\model_swiss_ai_apertus_70b_instruct_2509.json"
   },
   {
     "id": "model_swiss_ai_apertus_8b_instruct_2509",
@@ -8890,6 +10540,46 @@
     "local_path": "models\\tencent\\model_tencent_hy_mt2_1_8b.json"
   },
   {
+    "id": "model_tencent_hy_mt2_30b_a3b",
+    "title": "tencent/Hy-MT2-30B-A3B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\tencent\\model_tencent_hy_mt2_30b_a3b.json"
+  },
+  {
+    "id": "model_tencent_hy_mt2_7b",
+    "title": "tencent/Hy-MT2-7B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\tencent\\model_tencent_hy_mt2_7b.json"
+  },
+  {
+    "id": "model_thebloke_deepseek_coder_6_7b_base_awq",
+    "title": "TheBloke/deepseek-coder-6.7B-base-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\thebloke\\model_thebloke_deepseek_coder_6_7b_base_awq.json"
+  },
+  {
+    "id": "model_thebloke_deepseek_coder_6_7b_instruct_awq",
+    "title": "TheBloke/deepseek-coder-6.7B-instruct-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\thebloke\\model_thebloke_deepseek_coder_6_7b_instruct_awq.json"
+  },
+  {
     "id": "model_thebloke_llama_2_7b_chat_gguf",
     "title": "TheBloke/Llama-2-7B-Chat-GGUF",
     "category": "models",
@@ -8978,6 +10668,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\thebloke\\model_thebloke_tinyllama_1_1b_chat_v1_0_gptq.json"
+  },
+  {
+    "id": "model_thebloke_wizardlm_7b_hf",
+    "title": "TheBloke/wizardLM-7B-HF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\thebloke\\model_thebloke_wizardlm_7b_hf.json"
   },
   {
     "id": "model_thuml_sundial_base_128m",
@@ -9090,6 +10790,16 @@
     "local_path": "models\\tinyllama\\model_tinyllama_tinyllama_1_1b_intermediate_step_1431k_3t.json"
   },
   {
+    "id": "model_tinyllama_tinyllama_v1_1",
+    "title": "TinyLlama/TinyLlama_v1.1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\tinyllama\\model_tinyllama_tinyllama_v1_1.json"
+  },
+  {
     "id": "model_titanml_tiny_mixtral",
     "title": "TitanML/tiny-mixtral",
     "category": "models",
@@ -9108,6 +10818,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\tobil\\model_tobil_qmd_query_expansion_1_7b_gguf.json"
+  },
+  {
+    "id": "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated",
+    "title": "tpls/gemma-4-12B-coder-fable5-composer2.5-v1-abliterated",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\tpls\\model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated.json"
   },
   {
     "id": "model_trevorjs_gemma_4_26b_a4b_it_uncensored",
@@ -9420,6 +11140,16 @@
     "local_path": "models\\trl-internal-testing\\model_trl_internal_testing_tiny_random_llamaforcausallm.json"
   },
   {
+    "id": "model_trl_internal_testing_tiny_remoteforcausallm",
+    "title": "trl-internal-testing/tiny-RemoteForCausalLM",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\trl-internal-testing\\model_trl_internal_testing_tiny_remoteforcausallm.json"
+  },
+  {
     "id": "model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf",
     "title": "Ttimofeyka/MistralRP-Noromaid-NSFW-Mistral-7B-GGUF",
     "category": "models",
@@ -9428,6 +11158,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\ttimofeyka\\model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf.json"
+  },
+  {
+    "id": "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf",
+    "title": "tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\tvall43\\model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf.json"
   },
   {
     "id": "model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf",
@@ -9448,6 +11188,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\txn545\\model_txn545_qwen3_5_122b_a10b_nvfp4.json"
+  },
+  {
+    "id": "model_typhoon_ai_llama3_1_typhoon2_8b_instruct",
+    "title": "typhoon-ai/llama3.1-typhoon2-8b-instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\typhoon-ai\\model_typhoon_ai_llama3_1_typhoon2_8b_instruct.json"
+  },
+  {
+    "id": "model_typhoon_ai_typhoon2_5_qwen3_4b",
+    "title": "typhoon-ai/typhoon2.5-qwen3-4b",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\typhoon-ai\\model_typhoon_ai_typhoon2_5_qwen3_4b.json"
   },
   {
     "id": "model_unsloth_deepseek_r1_0528_qwen3_8b_gguf",
@@ -9510,6 +11270,16 @@
     "local_path": "models\\unsloth\\model_unsloth_deepseek_v3.json"
   },
   {
+    "id": "model_unsloth_deepseek_v4_flash",
+    "title": "unsloth/DeepSeek-V4-Flash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_deepseek_v4_flash.json"
+  },
+  {
     "id": "model_unsloth_gemma_2_2b_it_bnb_4bit",
     "title": "unsloth/gemma-2-2b-it-bnb-4bit",
     "category": "models",
@@ -9570,6 +11340,16 @@
     "local_path": "models\\unsloth\\model_unsloth_gemma_3_270m_it_gguf.json"
   },
   {
+    "id": "model_unsloth_glm_4_5_air",
+    "title": "unsloth/GLM-4.5-Air",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_glm_4_5_air.json"
+  },
+  {
     "id": "model_unsloth_glm_4_7_flash",
     "title": "unsloth/GLM-4.7-Flash",
     "category": "models",
@@ -9578,6 +11358,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\unsloth\\model_unsloth_glm_4_7_flash.json"
+  },
+  {
+    "id": "model_unsloth_glm_4_7_flash_fp8_dynamic",
+    "title": "unsloth/GLM-4.7-Flash-FP8-Dynamic",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_glm_4_7_flash_fp8_dynamic.json"
   },
   {
     "id": "model_unsloth_glm_4_7_flash_gguf",
@@ -9730,6 +11520,16 @@
     "local_path": "models\\unsloth\\model_unsloth_llama_3_2_1b_instruct.json"
   },
   {
+    "id": "model_unsloth_llama_3_2_1b_instruct_bnb_4bit",
+    "title": "unsloth/Llama-3.2-1B-Instruct-bnb-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_llama_3_2_1b_instruct_bnb_4bit.json"
+  },
+  {
     "id": "model_unsloth_llama_3_2_1b_instruct_unsloth_bnb_4bit",
     "title": "unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit",
     "category": "models",
@@ -9800,6 +11600,16 @@
     "local_path": "models\\unsloth\\model_unsloth_llama_3_8b_bnb_4bit.json"
   },
   {
+    "id": "model_unsloth_llama_3_8b_instruct",
+    "title": "unsloth/llama-3-8b-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_llama_3_8b_instruct.json"
+  },
+  {
     "id": "model_unsloth_llama_3_8b_instruct_bnb_4bit",
     "title": "unsloth/llama-3-8b-Instruct-bnb-4bit",
     "category": "models",
@@ -9808,6 +11618,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\unsloth\\model_unsloth_llama_3_8b_instruct_bnb_4bit.json"
+  },
+  {
+    "id": "model_unsloth_medgemma_27b_text_it_bnb_4bit",
+    "title": "unsloth/medgemma-27b-text-it-bnb-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_medgemma_27b_text_it_bnb_4bit.json"
   },
   {
     "id": "model_unsloth_meta_llama_3_1_8b_instruct",
@@ -9920,6 +11740,16 @@
     "local_path": "models\\unsloth\\model_unsloth_qwen2_5_0_5b_unsloth_bnb_4bit.json"
   },
   {
+    "id": "model_unsloth_qwen2_5_14b_bnb_4bit",
+    "title": "unsloth/Qwen2.5-14B-bnb-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen2_5_14b_bnb_4bit.json"
+  },
+  {
     "id": "model_unsloth_qwen2_5_14b_instruct",
     "title": "unsloth/Qwen2.5-14B-Instruct",
     "category": "models",
@@ -9978,6 +11808,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\unsloth\\model_unsloth_qwen2_5_1_5b_unsloth_bnb_4bit.json"
+  },
+  {
+    "id": "model_unsloth_qwen2_5_32b_instruct_bnb_4bit",
+    "title": "unsloth/Qwen2.5-32B-Instruct-bnb-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen2_5_32b_instruct_bnb_4bit.json"
+  },
+  {
+    "id": "model_unsloth_qwen2_5_3b_bnb_4bit",
+    "title": "unsloth/Qwen2.5-3B-bnb-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen2_5_3b_bnb_4bit.json"
   },
   {
     "id": "model_unsloth_qwen2_5_3b_instruct_bnb_4bit",
@@ -10120,6 +11970,26 @@
     "local_path": "models\\unsloth\\model_unsloth_qwen3_1_7b_unsloth_bnb_4bit.json"
   },
   {
+    "id": "model_unsloth_qwen3_235b_a22b_gguf",
+    "title": "unsloth/Qwen3-235B-A22B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen3_235b_a22b_gguf.json"
+  },
+  {
+    "id": "model_unsloth_qwen3_30b_a3b_gguf",
+    "title": "unsloth/Qwen3-30B-A3B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen3_30b_a3b_gguf.json"
+  },
+  {
     "id": "model_unsloth_qwen3_4b_base",
     "title": "unsloth/Qwen3-4B-Base",
     "category": "models",
@@ -10220,6 +12090,16 @@
     "local_path": "models\\unsloth\\model_unsloth_qwen3_embedding_4b.json"
   },
   {
+    "id": "model_unsloth_qwen_agentworld_35b_a3b_gguf",
+    "title": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\unsloth\\model_unsloth_qwen_agentworld_35b_a3b_gguf.json"
+  },
+  {
     "id": "model_unsloth_tinyllama_bnb_4bit",
     "title": "unsloth/tinyllama-bnb-4bit",
     "category": "models",
@@ -10280,6 +12160,16 @@
     "local_path": "models\\vamsi\\model_vamsi_t5_paraphrase_paws.json"
   },
   {
+    "id": "model_vcruz305_hy3_gguf",
+    "title": "vcruz305/Hy3-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\vcruz305\\model_vcruz305_hy3_gguf.json"
+  },
+  {
     "id": "model_vectionlabs_vl_1_coder",
     "title": "vectionlabs/VL-1-Coder",
     "category": "models",
@@ -10298,6 +12188,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\vicgalle\\model_vicgalle_humanish_roleplay_llama_3_1_8b.json"
+  },
+  {
+    "id": "model_vikhrmodels_vikhr_nemo_12b_instruct_r_21_09_24",
+    "title": "Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\vikhrmodels\\model_vikhrmodels_vikhr_nemo_12b_instruct_r_21_09_24.json"
   },
   {
     "id": "model_vikhyatk_moondream2",
@@ -10390,6 +12290,16 @@
     "local_path": "models\\warshanks\\model_warshanks_qwen3_4b_instruct_2507_awq.json"
   },
   {
+    "id": "model_weiboai_vibethinker_3b",
+    "title": "WeiboAI/VibeThinker-3B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\weiboai\\model_weiboai_vibethinker_3b.json"
+  },
+  {
     "id": "model_wizardlmteam_wizardmath_7b_v1_1",
     "title": "WizardLMTeam/WizardMath-7B-V1.1",
     "category": "models",
@@ -10430,6 +12340,16 @@
     "local_path": "models\\xiaomimimo\\model_xiaomimimo_mimo_7b_rl.json"
   },
   {
+    "id": "model_xiaomimimo_mimo_v2_5",
+    "title": "XiaomiMiMo/MiMo-V2.5",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\xiaomimimo\\model_xiaomimimo_mimo_v2_5.json"
+  },
+  {
     "id": "model_xiaomimimo_mimo_v2_5_pro",
     "title": "XiaomiMiMo/MiMo-V2.5-Pro",
     "category": "models",
@@ -10438,6 +12358,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\xiaomimimo\\model_xiaomimimo_mimo_v2_5_pro.json"
+  },
+  {
+    "id": "model_xiaomimimo_mimo_v2_5_pro_fp4_dflash",
+    "title": "XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\xiaomimimo\\model_xiaomimimo_mimo_v2_5_pro_fp4_dflash.json"
   },
   {
     "id": "model_xiaomimimo_mimo_v2_flash",
@@ -10458,6 +12388,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\xlnet\\model_xlnet_xlnet_base_cased.json"
+  },
+  {
+    "id": "model_yanissamz_hy3_295b_a21b_gguf",
+    "title": "YanissAmz/Hy3-295B-A21B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\yanissamz\\model_yanissamz_hy3_295b_a21b_gguf.json"
   },
   {
     "id": "model_youssofal_qwen3_6_27b_mtplx_optimized_speed",
@@ -10488,6 +12428,36 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\yujiepan\\model_yujiepan_llama_2_tiny_random.json"
+  },
+  {
+    "id": "model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2",
+    "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\yuxinlu1\\model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2.json"
+  },
+  {
+    "id": "model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_gguf",
+    "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\yuxinlu1\\model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_gguf.json"
+  },
+  {
+    "id": "model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1",
+    "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\yuxinlu1\\model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1.json"
   },
   {
     "id": "model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1_gguf",
@@ -10528,6 +12498,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\z-lab\\model_z_lab_qwen3_4b_dflash_b16.json"
+  },
+  {
+    "id": "model_z_lab_qwen3_5_27b_dflash",
+    "title": "z-lab/Qwen3.5-27B-DFlash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\z-lab\\model_z_lab_qwen3_5_27b_dflash.json"
   },
   {
     "id": "model_z_lab_qwen3_6_27b_dflash",
@@ -10648,6 +12628,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models\\zai-org\\model_zai_org_glm_5_1_fp8.json"
+  },
+  {
+    "id": "model_zai_org_glm_5_2",
+    "title": "zai-org/GLM-5.2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models\\zai-org\\model_zai_org_glm_5_2.json"
   },
   {
     "id": "model_zai_org_glm_5_2_fp8",

@@ -1,11 +1,6 @@
 {
-<<<<<<< Updated upstream
-  "latest_sync_time": "2026-07-19T10:26:47.481267+00:00",
-  "status": "unknown",
-=======
-  "latest_sync_time": "2026-07-19T11:38:26.998685+00:00",
+  "latest_sync_time": "2026-07-19T12:00:02.921838+00:00",
   "status": "partial_failure",
->>>>>>> Stashed changes
   "connectors": {
     "run": [
       "benchmark",
@@ -27,7 +22,6 @@
       "manifests",
       "graph_api",
       "integrity_checker",
-      "snapshot_generator",
       "release_builder",
       "interface_validator",
       "feature_flag_validator",
@@ -54,22 +48,19 @@
       "index_manifest_generator",
       "entity_linker",
       "related_entity_engine",
+      "knowledge_graph_builder",
       "dashboard_data_generator",
       "artifact_manifest_generator"
     ],
     "failed": [
-      "knowledge_graph_builder",
+      "snapshot_generator",
       "timeline_generator"
     ]
   },
-<<<<<<< Updated upstream
-  "entity_counts": 147003,
-=======
-  "entity_counts": 56747,
->>>>>>> Stashed changes
+  "entity_counts": 85124,
   "cache_statistics": {
-    "hits": 9,
-    "misses": 0
+    "hits": 7,
+    "misses": 2
   },
   "warning_count": 0,
   "error_count": 2

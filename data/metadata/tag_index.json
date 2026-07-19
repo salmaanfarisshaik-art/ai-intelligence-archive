@@ -27,13 +27,8 @@
   "8-bit": [
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
-<<<<<<< Updated upstream
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
@@ -51,9 +46,6 @@
   "CARLA": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
-  "DiffusionGemma-26B-A4B-IT": [
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-  ],
   "FP4": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -66,11 +58,6 @@
   ],
   "LeRobot": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
-=======
->>>>>>> Stashed changes
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_68a7fb1964bbb2ec688d1af2"
@@ -79,23 +66,18 @@
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "Model Optimizer": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "ModelOpt": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "NLU": [
     "hf_ds_621ffdd236468d709f181fa6"
   ],
   "NVFP4": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
+    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "OpenCOOD": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
@@ -125,23 +107,10 @@
   "acl": [
     "hf_ds_6374015cc3b104ef17a000f2"
   ],
-  "adaptability": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
   "agent": [
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
-<<<<<<< Updated upstream
-  "agent-evaluation": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
-  "ai-assistant": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
-  "ambiguity": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-=======
   "ai": [
     "pytorch",
     "tensorflow"
@@ -149,7 +118,6 @@
   "animation": [
     "framer-motion-animator",
     "optimized-framer-motion-animator"
->>>>>>> Stashed changes
   ],
   "annotations_creators:crowdsourced": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -161,8 +129,7 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f181fa6",
-    "hf_ds_6469bc7cf51b56a285b7797b",
-    "hf_ds_68bff53655fd8600b6474cdc"
+    "hf_ds_6469bc7cf51b56a285b7797b"
   ],
   "annotations_creators:found": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -181,11 +148,6 @@
   "annotations_creators:other": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
-<<<<<<< Updated upstream
-  "anti-spoofing": [
-    "hf_ds_67d6c9b5ba56e14eeb14fab6"
-  ],
-=======
   "anthropic": [
     "claude-api"
   ],
@@ -210,7 +172,6 @@
     "whisper-api",
     "youtube-data-api"
   ],
->>>>>>> Stashed changes
   "apple-silicon": [
     "hf_antirez_deepseek-v4-gguf"
   ],
@@ -354,10 +315,6 @@
   ],
   "arxiv:2109.07445": [
     "hf_ds_66212f29fb07c3e05ad0432e",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669e6b2752cf1c619d4c0178"
   ],
   "arxiv:2110.14168": [
@@ -464,12 +421,6 @@
   "arxiv:2401.09512": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
-<<<<<<< Updated upstream
-  "arxiv:2401.10020": [
-    "hf_ds_6655eb19d17e141dcb546ed5"
-  ],
-=======
->>>>>>> Stashed changes
   "arxiv:2402.09844": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
@@ -482,12 +433,6 @@
   "arxiv:2403.09227": [
     "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
-<<<<<<< Updated upstream
-  "arxiv:2403.12945": [
-    "hf_ds_67b9d203047d98a072b4e68c"
-  ],
-=======
->>>>>>> Stashed changes
   "arxiv:2404.07972": [
     "hf_ds_6835d7e81900f053ee3c7c9e"
   ],
@@ -496,7 +441,6 @@
     "hf_google_gemma-3-270m"
   ],
   "arxiv:2404.14219": [
-    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
   "arxiv:2404.16816": [
@@ -526,10 +470,6 @@
   ],
   "arxiv:2406.17557": [
     "hf_ds_66212f29fb07c3e05ad0432e",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_6a153f136ea5882878c26693"
   ],
@@ -547,12 +487,6 @@
   "arxiv:2411.04368": [
     "hf_google_gemma-3-270m"
   ],
-<<<<<<< Updated upstream
-  "arxiv:2412.02595": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-=======
->>>>>>> Stashed changes
   "arxiv:2501.04962": [
     "hf_ds_67866986e864fd4dee936901"
   ],
@@ -578,9 +512,6 @@
   "arxiv:2503.24381": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
-  "arxiv:2504.03624": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
   "arxiv:2505.09388": [
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
@@ -590,8 +521,7 @@
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
-    "hf_Qwen_Qwen3-8B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    "hf_Qwen_Qwen3-8B"
   ],
   "arxiv:2506.04178": [
     "hf_ds_68b39036631546df1cfe0cba"
@@ -616,9 +546,6 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
-  "arxiv:2509.17158": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
   "arxiv:2509.23661": [
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_6937cb3e145e00d96aa5338c"
@@ -629,22 +556,10 @@
   "arxiv:2511.04307": [
     "hf_ds_68e91443c366e5879388a4d4"
   ],
-<<<<<<< Updated upstream
-  "arxiv:2511.16664": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "arxiv:2512.20848": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-    "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
-  ],
-  "arxiv:2512.20856": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
   "arxiv:2512.20848": [
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "arxiv:2512.20856": [
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "arxiv:2602.05879": [
@@ -667,12 +582,7 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
   "arxiv:2606.19348": [
-<<<<<<< Updated upstream
-    "hf_deepseek-ai_DeepSeek-V4-Flash",
-    "hf_deepseek-ai_DeepSeek-V4-Pro"
-=======
     "hf_deepseek-ai_DeepSeek-V4-Flash"
->>>>>>> Stashed changes
   ],
   "arxiv:2606.27375": [
     "hf_ds_6a307dae8e258cbed418ec58"
@@ -703,13 +613,10 @@
   "awq": [
     "hf_Qwen_Qwen3-14B-AWQ"
   ],
-<<<<<<< Updated upstream
-=======
   "aws": [
     "advanced-terraform-aws-scaffolding",
     "terraform-aws-scaffolding"
   ],
->>>>>>> Stashed changes
   "axolotl": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
@@ -824,20 +731,11 @@
   "base_model:finetune:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
-  "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "base_model:google/diffusiongemma-26B-A4B-it": [
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-  ],
   "base_model:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
   "base_model:google/gemma-3-1b-pt": [
     "hf_google_gemma-3-1b-it"
-  ],
-  "base_model:google/gemma-4-26B-A4B-it": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "base_model:google/gemma-4-31B-it": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
@@ -847,9 +745,6 @@
   ],
   "base_model:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
-  ],
-  "base_model:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
   "base_model:quantized:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
@@ -866,24 +761,14 @@
   "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
     "hf_antirez_deepseek-v4-gguf"
   ],
-  "base_model:quantized:google/diffusiongemma-26B-A4B-it": [
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-  ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
-<<<<<<< Updated upstream
-  "base_model:quantized:google/gemma-4-26B-A4B-it": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
-  ],
-=======
->>>>>>> Stashed changes
   "base_model:quantized:google/gemma-4-31B-it": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "benchmark": [
-    "hf_ds_67e58fa6625f0f6c8447f37c",
-    "hf_ds_68bff53655fd8600b6474cdc"
+    "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "benchmark:eval-yaml": [
     "hf_ds_625552d2b339bb03abe3432d",
@@ -955,10 +840,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
@@ -978,16 +859,9 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-<<<<<<< Updated upstream
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -1017,25 +891,18 @@
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_vikhyatk_moondream2"
   ],
   "darija": [
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
-<<<<<<< Updated upstream
-=======
   "data": [
     "kafka"
   ],
   "database": [
     "elasticsearch"
   ],
->>>>>>> Stashed changes
   "dataset": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
@@ -1081,42 +948,6 @@
   "dataset:microsoft/orca-math-word-problems-200k": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
-<<<<<<< Updated upstream
-  "dataset:nvidia/Nemotron-Agentic-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-CC-v2": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-Competitive-Programming-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-Instruction-Following-Chat-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-Math-Proofs-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-Post-Training-Dataset-v2": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-RL-Agentic-Conversational-Tool-Use-Pivot-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-RL-agent-calendar_scheduling": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-RL-instruction_following": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-RL-instruction_following-structured_outputs": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-  "dataset:nvidia/Nemotron-Science-v1": [
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
-  ],
-=======
->>>>>>> Stashed changes
   "dataset:nvidia/nemotron-post-training-v3": [
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
@@ -1177,10 +1008,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-8B",
@@ -1198,14 +1025,9 @@
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5.2-FP8"
   ],
-<<<<<<< Updated upstream
-  "diffusion_gemma": [
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-=======
   "devops": [
     "docker",
     "terraform"
->>>>>>> Stashed changes
   ],
   "digital-signatures": [
     "hf_ds_6785649a41a64e1582b8bb05"
@@ -1236,12 +1058,6 @@
   "doi:10.57967/hf/2493": [
     "hf_ds_66212f29fb07c3e05ad0432e"
   ],
-<<<<<<< Updated upstream
-  "doi:10.57967/hf/2497": [
-    "hf_ds_6655eb19d17e141dcb546ed5"
-  ],
-=======
->>>>>>> Stashed changes
   "doi:10.57967/hf/2833": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
@@ -1254,9 +1070,6 @@
   "doi:10.57967/hf/6762": [
     "hf_vikhyatk_moondream2"
   ],
-  "droid": [
-    "hf_ds_67be7d7b0a1a886d7b5d305d"
-  ],
   "ds4": [
     "hf_antirez_deepseek-v4-gguf"
   ],
@@ -1264,9 +1077,6 @@
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
-  ],
-  "dynamic-events": [
-    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "embodied intelligence": [
     "hf_ds_6954cdff0a36f347a9b323fd"
@@ -1287,10 +1097,6 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
@@ -1321,10 +1127,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -1348,10 +1150,6 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
@@ -1364,8 +1162,6 @@
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5-FP8",
     "hf_zai-org_GLM-5.2-FP8"
-<<<<<<< Updated upstream
-=======
   ],
   "enterprise": [
     "advanced-expressjs-middleware-boilerplate",
@@ -1393,7 +1189,6 @@
     "secure-go-fiber-rest-api-setup",
     "secure-oauth2-implementation",
     "secure-tailwindcss-palette-configurator"
->>>>>>> Stashed changes
   ],
   "es": [
     "hf_meta-llama_Llama-3.1-8B-Instruct",
@@ -1430,25 +1225,17 @@
     "hf_distilbert_distilgpt2",
     "hf_openai-community_gpt2"
   ],
-<<<<<<< Updated upstream
-  "execution": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-=======
   "express": [
     "advanced-expressjs-middleware-boilerplate",
     "expressjs-middleware-boilerplate"
->>>>>>> Stashed changes
   ],
   "facebook": [
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct"
-<<<<<<< Updated upstream
-=======
   ],
   "fastapi": [
     "enterprise-fastapi-crud-route-generator",
     "fastapi-crud-route-generator"
->>>>>>> Stashed changes
   ],
   "feature-extraction": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
@@ -1476,12 +1263,10 @@
     "hf_ds_696dc1fee7a76925b95bba1d"
   ],
   "format:json": [
-    "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf"
+    "hf_ds_64980085fa9591cb3dc4d378"
   ],
   "format:optimized-parquet": [
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_6a1f3e49aa35c86b3f108f05"
   ],
   "format:parquet": [
@@ -1502,10 +1287,6 @@
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -1515,18 +1296,10 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -1561,10 +1334,6 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
-<<<<<<< Updated upstream
-  "franka": [
-    "hf_ds_67be7d7b0a1a886d7b5d305d"
-=======
   "framework": [
     "nextjs"
   ],
@@ -1573,7 +1342,6 @@
     "react",
     "vue-3-composition-api-builder",
     "vuejs"
->>>>>>> Stashed changes
   ],
   "full-parameter-fine-tuning": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
@@ -1585,16 +1353,7 @@
     "hf_google_gemma-3-270m"
   ],
   "gemma3_text": [
-    "hf_google_gemma-3-1b-it",
-    "hf_google_gemma-3-270m"
-  ],
-  "gemma4": [
-    "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4"
-  ],
-  "gemma4-26b-A4B-it": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+    "hf_google_gemma-3-1b-it"
   ],
   "gemma4": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -1612,28 +1371,22 @@
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
-<<<<<<< Updated upstream
-=======
   "github": [
     "github-actions-cicd-pipeline",
     "github-graphql-api",
     "github-rest-api",
     "secure-github-actions-cicd-pipeline"
   ],
->>>>>>> Stashed changes
   "glm4_moe_lite": [
     "hf_zai-org_GLM-4.7-Flash"
   ],
   "glm_moe_dsa": [
     "hf_zai-org_GLM-5-FP8",
     "hf_zai-org_GLM-5.2-FP8"
-<<<<<<< Updated upstream
-=======
   ],
   "go": [
     "go-fiber-rest-api-setup",
     "secure-go-fiber-rest-api-setup"
->>>>>>> Stashed changes
   ],
   "google": [
     "gemini-api",
@@ -1663,13 +1416,10 @@
   "granite-4.1": [
     "hf_ibm-granite_granite-4.1-8b"
   ],
-<<<<<<< Updated upstream
-=======
   "graphql": [
     "graphql-schema-builder",
     "interactive-graphql-schema-builder"
   ],
->>>>>>> Stashed changes
   "gsma": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
@@ -1682,15 +1432,12 @@
   "hi": [
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct"
-<<<<<<< Updated upstream
-=======
   ],
   "huggingface": [
     "serverless-inference-api"
   ],
   "iac": [
     "terraform"
->>>>>>> Stashed changes
   ],
   "image-classification": [
     "hf_ds_6785649a41a64e1582b8bb05"
@@ -1726,13 +1473,10 @@
   ],
   "ja": [
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
-<<<<<<< Updated upstream
-=======
   ],
   "javascript": [
     "react",
     "vuejs"
->>>>>>> Stashed changes
   ],
   "jax": [
     "hf_distilbert_distilgpt2",
@@ -1740,26 +1484,20 @@
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large"
   ],
-<<<<<<< Updated upstream
-=======
   "k8s": [
     "enterprise-kubernetes-deployment-manifest",
     "kubernetes-deployment-manifest"
   ],
->>>>>>> Stashed changes
   "keyword-spotting": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
   "kimi_k2": [
     "hf_moonshotai_Kimi-K2-Instruct-0905"
   ],
-<<<<<<< Updated upstream
-=======
   "kubernetes": [
     "enterprise-kubernetes-deployment-manifest",
     "kubernetes-deployment-manifest"
   ],
->>>>>>> Stashed changes
   "lance": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
@@ -2170,10 +1908,6 @@
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -2182,20 +1916,12 @@
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_67ab2149bc76a9aab3ff90ed",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-=======
->>>>>>> Stashed changes
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
@@ -3560,12 +3286,7 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f183929",
-<<<<<<< Updated upstream
-    "hf_ds_63a02c28f3334a6553d23fe0",
-    "hf_ds_68bff53655fd8600b6474cdc"
-=======
     "hf_ds_63a02c28f3334a6553d23fe0"
->>>>>>> Stashed changes
   ],
   "language_creators:found": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -3603,10 +3324,6 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_661823b590a8b6724f1c6534",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3637,16 +3354,11 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3661,10 +3373,6 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
@@ -3672,10 +3380,6 @@
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
@@ -3707,16 +3411,11 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3731,10 +3430,6 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
@@ -3742,10 +3437,6 @@
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
@@ -3762,20 +3453,13 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-    "hf_ds_69e5997537a06672011aade2",
-=======
-    "hf_ds_69cf1925c61c6c0fbb866b5d",
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
@@ -3795,15 +3479,10 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3814,18 +3493,10 @@
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -3849,10 +3520,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -3872,11 +3539,6 @@
     "hf_ds_66631d1046a5a30a27eb75a9",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
-=======
->>>>>>> Stashed changes
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67da25756b2007f151daeca0",
@@ -3888,9 +3550,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_ibm-granite_granite-4.1-8b",
     "hf_llamafactory_tiny-random-Llama-3",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -3910,10 +3570,6 @@
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -3989,10 +3645,6 @@
     "hf_ds_68e91443c366e5879388a4d4",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_698aee8a9b778894943e6c5d",
-<<<<<<< Updated upstream
-    "hf_ds_69b3d79d63e7af41d98f1fd5",
-=======
->>>>>>> Stashed changes
     "hf_ds_69f7b3cc62d65c8f39fe7270",
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_microsoft_Phi-3.5-vision-instruct",
@@ -4006,10 +3658,6 @@
   "license:odc-by": [
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_66212f29fb07c3e05ad0432e",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
     "hf_ds_67cac93b5877d9c876a84572",
@@ -4031,10 +3679,6 @@
     "hf_facebook_opt-125m",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "license:unknown": [
@@ -4139,17 +3783,11 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_663b7fd5a4152b77b637ba11",
-    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
-<<<<<<< Updated upstream
-    "hf_ds_69a640bbe81a3e15ecca52a2",
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -4171,16 +3809,11 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -4194,21 +3827,12 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68b39036631546df1cfe0cba",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69a640bbe81a3e15ecca52a2",
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
@@ -4219,10 +3843,6 @@
   ],
   "modality:video": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-=======
->>>>>>> Stashed changes
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_6954cdff0a36f347a9b323fd",
@@ -4236,17 +3856,9 @@
     "hf_distilbert_distilgpt2"
   ],
   "modelopt": [
-<<<<<<< Updated upstream
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-=======
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
->>>>>>> Stashed changes
   ],
   "moe": [
     "hf_antirez_deepseek-v4-gguf"
@@ -4264,12 +3876,6 @@
   "mtp": [
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
-<<<<<<< Updated upstream
-  "multi-agent": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
-=======
->>>>>>> Stashed changes
   "multi-modal": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
@@ -4315,11 +3921,6 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "nemotron_h": [
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-    "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
-  ],
-=======
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "nextjs": [
@@ -4330,7 +3931,6 @@
     "automated-nginx-reverse-proxy-configurator",
     "nginx-reverse-proxy-configurator"
   ],
->>>>>>> Stashed changes
   "nlp": [
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
@@ -4347,22 +3947,10 @@
   "nuScenes": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
-  "nvfp4": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-  ],
   "nvidia": [
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-    "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
-=======
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
->>>>>>> Stashed changes
   ],
   "oauth": [
     "oauth2-implementation",
@@ -4385,11 +3973,6 @@
   ],
   "openx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
-=======
->>>>>>> Stashed changes
     "hf_ds_67ce486ea3edca9b3349a097"
   ],
   "opt": [
@@ -4408,26 +3991,20 @@
   "pointcloud-segmentation": [
     "hf_ds_66293ead0326d8c0fc899ac0"
   ],
-<<<<<<< Updated upstream
-=======
   "postgres": [
     "optimized-postgresql-schema-optimizer",
     "postgresql-schema-optimizer"
   ],
->>>>>>> Stashed changes
   "pre-training": [
     "hf_ds_6a153f136ea5882878c26693"
   ],
   "pretraining": [
     "hf_ds_6700058973753b82f145eb1d"
   ],
-<<<<<<< Updated upstream
-=======
   "prisma": [
     "enterprise-prisma-schema-generator",
     "prisma-schema-generator"
   ],
->>>>>>> Stashed changes
   "prompts": [
     "hf_ds_65ce59255f233e28db20fe4f"
   ],
@@ -4463,10 +4040,6 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large"
@@ -4482,10 +4055,8 @@
   ],
   "quantized": [
     "hf_antirez_deepseek-v4-gguf",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4"
+    "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "question-answering": [
     "hf_ds_64edb45c5c9245397fc83a26",
@@ -4523,12 +4094,7 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "qwen3_moe": [
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-30B-A3B",
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
-=======
     "hf_Qwen_Qwen3-30B-A3B"
->>>>>>> Stashed changes
   ],
   "qwen3_next": [
     "hf_Qwen_Qwen3-Coder-Next-FP8",
@@ -4537,8 +4103,6 @@
   "rag": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
-<<<<<<< Updated upstream
-=======
   "react": [
     "advanced-react-component-scaffolder",
     "framer-motion-animator",
@@ -4548,7 +4112,6 @@
     "optimized-framer-motion-animator",
     "react-component-scaffolder"
   ],
->>>>>>> Stashed changes
   "real-world": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
@@ -4580,10 +4143,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -4621,17 +4180,12 @@
     "hf_ds_636a1b69f2f9ec4289c4c19e",
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_63a02c28f3334a6553d23fe0",
-<<<<<<< Updated upstream
-    "hf_ds_63c7961f02d8c962334e3c3f",
-=======
->>>>>>> Stashed changes
     "hf_ds_63c82e7ea0c5c8cfa84efe73",
     "hf_ds_642912f7a760fe0bf37996b1",
     "hf_ds_645e3fcc43abb116540da202",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64a63fbb85638d0e698f055f",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_655c982e29cdfd1284e696f5",
     "hf_ds_657f09ec3e3b5bea663e53c3",
@@ -4643,10 +4197,6 @@
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_66631d1046a5a30a27eb75a9",
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_669caf535bd3f749a3c87c11",
@@ -4664,8 +4214,6 @@
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-    "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_67ce486ea3edca9b3349a097",
@@ -4688,7 +4236,6 @@
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
     "hf_ds_68b39036631546df1cfe0cba",
-    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_68d19889ef48faaef08b8710",
     "hf_ds_68e91443c366e5879388a4d4",
@@ -4710,18 +4257,12 @@
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69a389155b0ec60eb1032f67",
     "hf_ds_69a471da5b0ec60eb113b4c1",
-    "hf_ds_69a640bbe81a3e15ecca52a2",
     "hf_ds_69af8a70d620f76274dcd367",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69b3d79d63e7af41d98f1fd5",
     "hf_ds_69b6276dd5de8ef6a41f39e6",
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_69cd2a3acc9af6d091c033f0",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
-<<<<<<< Updated upstream
-    "hf_ds_69e5997537a06672011aade2",
-=======
->>>>>>> Stashed changes
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69eb72498f65b8d96201861f",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
@@ -4746,15 +4287,9 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
@@ -4782,10 +4317,6 @@
   ],
   "rlds": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
-=======
->>>>>>> Stashed changes
     "hf_ds_67ce486ea3edca9b3349a097"
   ],
   "robotic": [
@@ -4820,10 +4351,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -4848,15 +4375,9 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
@@ -4872,9 +4393,6 @@
     "hf_ds_6947232e01886522f0154ff9"
   ],
   "search": [
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc"
-=======
     "elasticsearch"
   ],
   "security": [
@@ -4886,7 +4404,6 @@
     "optimized-sql-injection-preventer",
     "rate-limiting-middleware",
     "sql-injection-preventer"
->>>>>>> Stashed changes
   ],
   "sentence-similarity": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
@@ -4899,12 +4416,6 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B"
-<<<<<<< Updated upstream
-  ],
-  "simulated-environment": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-=======
->>>>>>> Stashed changes
   ],
   "size_categories:100K<n<1M": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -4948,20 +4459,13 @@
   "size_categories:10M<n<100M": [
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_66dc4e6348cb97a720daea22",
-<<<<<<< Updated upstream
-    "hf_ds_67134260dda81cf20b75342e",
-    "hf_ds_67b9d203047d98a072b4e68c"
-=======
     "hf_ds_67134260dda81cf20b75342e"
->>>>>>> Stashed changes
   ],
   "size_categories:1B<n<10B": [
-    "hf_ds_6655eb19d17e141dcb546ed5",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_69822b12f4c99fc122169639",
-    "hf_ds_699250f08be5bf8321aeb29e",
-    "hf_ds_69a640bbe81a3e15ecca52a2"
+    "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "size_categories:1K<n<10K": [
     "hf_ds_621ffdd236468d709f181eb4",
@@ -4984,20 +4488,14 @@
     "hf_ds_621ffdd236468d709f1825d5",
     "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
-    "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68aefe4b74c4af3424207d2d",
-<<<<<<< Updated upstream
-    "hf_ds_68bff53655fd8600b6474cdc",
-=======
->>>>>>> Stashed changes
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_69e5997537a06672011aade2",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -5071,8 +4569,7 @@
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_625552d2b339bb03abe3432d",
-    "hf_ds_6374015cc3b104ef17a000f2",
-    "hf_ds_68bff53655fd8600b6474cdc"
+    "hf_ds_6374015cc3b104ef17a000f2"
   ],
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -5084,8 +4581,6 @@
   "speech-commands": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
   ],
-<<<<<<< Updated upstream
-=======
   "sql": [
     "interactive-sqlalchemy-model-generator",
     "optimized-postgresql-schema-optimizer",
@@ -5097,7 +4592,6 @@
   "ssr": [
     "nextjs"
   ],
->>>>>>> Stashed changes
   "stable diffusion": [
     "hf_ds_65ce59255f233e28db20fe4f"
   ],
@@ -5123,13 +4617,10 @@
   "tabular": [
     "hf_ds_6a153f136ea5882878c26693"
   ],
-<<<<<<< Updated upstream
-=======
   "tailwind": [
     "secure-tailwindcss-palette-configurator",
     "tailwindcss-palette-configurator"
   ],
->>>>>>> Stashed changes
   "task_categories:audio-classification": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
@@ -5185,7 +4676,6 @@
   ],
   "task_categories:reinforcement-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
-    "hf_ds_68bff53655fd8600b6474cdc",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -5193,11 +4683,6 @@
   "task_categories:robotics": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_67b9b84c2eb0080c5fc8c88e",
-<<<<<<< Updated upstream
-    "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_67be7d7b0a1a886d7b5d305d",
-=======
->>>>>>> Stashed changes
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
@@ -5228,10 +4713,6 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_66212f29fb07c3e05ad0432e",
-<<<<<<< Updated upstream
-    "hf_ds_6655eb19d17e141dcb546ed5",
-=======
->>>>>>> Stashed changes
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -5268,17 +4749,8 @@
   "task_ids:acceptability-classification": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
-  "task_ids:conversational": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
   "task_ids:coreference-resolution": [
     "hf_ds_621ffdd236468d709f181fa6"
-  ],
-  "task_ids:dialogue-generation": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
-  "task_ids:dialogue-modeling": [
-    "hf_ds_68bff53655fd8600b6474cdc"
   ],
   "task_ids:document-retrieval": [
     "hf_ds_64980085fa9591cb3dc4d378"
@@ -5318,9 +4790,6 @@
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e77"
   ],
-  "task_ids:task-planning": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
   "task_ids:text-scoring": [
     "hf_ds_621ffdd236468d709f181e3f"
   ],
@@ -5336,14 +4805,6 @@
   "teleoperation": [
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
-<<<<<<< Updated upstream
-  "temporal-reasoning": [
-    "hf_ds_68bff53655fd8600b6474cdc"
-  ],
-  "tensorboard": [
-    "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
-  ],
-=======
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
@@ -5351,7 +4812,6 @@
     "advanced-terraform-aws-scaffolding",
     "terraform-aws-scaffolding"
   ],
->>>>>>> Stashed changes
   "text": [
     "hf_ds_6a153f136ea5882878c26693"
   ],
@@ -5379,10 +4839,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -5412,15 +4868,9 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
-    "hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
@@ -5457,7 +4907,6 @@
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_facebook_opt-125m",
     "hf_google_gemma-3-1b-it",
-    "hf_google_gemma-3-270m",
     "hf_hmellor_tiny-random-LlamaForCausalLM",
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
@@ -5510,10 +4959,6 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
-<<<<<<< Updated upstream
-    "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
-=======
->>>>>>> Stashed changes
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -5540,10 +4985,6 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
-<<<<<<< Updated upstream
-    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
-=======
->>>>>>> Stashed changes
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
@@ -5607,8 +5048,6 @@
   "voice-antispoofing": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
-<<<<<<< Updated upstream
-=======
   "vue": [
     "automated-vue-3-composition-api-builder",
     "vue-3-composition-api-builder"
@@ -5616,7 +5055,6 @@
   "weatherapi": [
     "realtime-weather-api"
   ],
->>>>>>> Stashed changes
   "widowx": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
   ],

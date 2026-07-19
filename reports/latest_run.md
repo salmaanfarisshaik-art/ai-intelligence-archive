@@ -1,13 +1,13 @@
 # Pipeline Execution Report
 
-**Run ID**: run_1784460208
+**Run ID**: run_1784461087
 **Status**: partial_failure
-**Execution Time**: 42.64s
+**Execution Time**: 392.32s
 
 ## Metrics
 - Records Processed: 1262
-- API Calls Made: 0
-- Cache Hits: 9
+- API Calls Made: 2
+- Cache Hits: 7
 - Duplicates Removed: 1113
 - External Sources Failed: []
 - Phase 3 Warning Count: 0

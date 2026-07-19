@@ -1,0 +1,58 @@
+[
+  {
+    "id": "hf_Qwen_Qwen3-Reranker-0.6B",
+    "title": "Qwen/Qwen3-Reranker-0.6B",
+    "category": "text-ranking",
+    "source": "Hugging Face",
+    "tags": [
+      "arxiv:2506.05176",
+      "base_model:Qwen/Qwen3-0.6B-Base",
+      "base_model:finetune:Qwen/Qwen3-0.6B-Base",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen3",
+      "region:us",
+      "safetensors",
+      "sentence-transformers",
+      "text-generation",
+      "text-ranking",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/Qwen/Qwen3-Reranker-0.6B",
+    "local_path": "models\\qwen\\hf_Qwen_Qwen3-Reranker-0.6B.json"
+  },
+  {
+    "id": "hf_Qwen_Qwen3-Reranker-4B",
+    "title": "Qwen/Qwen3-Reranker-4B",
+    "category": "text-ranking",
+    "source": "Hugging Face",
+    "tags": [
+      "arxiv:2506.05176",
+      "base_model:Qwen/Qwen3-4B-Base",
+      "base_model:finetune:Qwen/Qwen3-4B-Base",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen3",
+      "region:us",
+      "safetensors",
+      "sentence-transformers",
+      "text-generation",
+      "text-ranking",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/Qwen/Qwen3-Reranker-4B",
+    "local_path": "models\\qwen\\hf_Qwen_Qwen3-Reranker-4B.json"
+  }
+]
