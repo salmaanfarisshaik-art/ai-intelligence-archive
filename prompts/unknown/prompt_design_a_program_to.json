@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a program to calculate the distance between two points.",
+  "input": "Point 1: (x1,y1), Point 2: (x2,y2)",
+  "output": "//Function to calculate the distance\ndef calculate_distance(x1, y1, x2, y2): \n    dist = ((x2 - x1)**2 + (y2 - y1)**2)**0.5 \n    return dist \n\n# Driver code \nx1 = 2\ny1 = 3\nx2 = 10\ny2 = 20\n\n# Calculate distance \nd = calculate_distance(x1, y1, x2, y2) \nprint(\"Distance between two points is:\", d)",
+  "unique_id": "prompt_design_a_program_to",
+  "schema_version": "1.0"
+}

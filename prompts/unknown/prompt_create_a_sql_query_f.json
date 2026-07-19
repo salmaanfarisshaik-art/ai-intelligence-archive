@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a SQL query for the given database to select the customer records with a customer id of 1000 or greater.",
+  "input": "",
+  "output": "SELECT * \nFROM customer \nWHERE customer id >= 1000;",
+  "unique_id": "prompt_create_a_sql_query_f",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a query that will display customer data.",
+  "input": "",
+  "output": "SELECT * FROM Customer WHERE Customer_ID = <ID>;",
+  "unique_id": "prompt_construct_a_query_th",
+  "schema_version": "1.0"
+}

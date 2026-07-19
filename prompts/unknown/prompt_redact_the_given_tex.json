@@ -1,0 +1,7 @@
+{
+  "instruction": "Redact the given text to remove all names and addresses",
+  "input": "The address of John Doe is 1234 Main Street, Anytown, XY 12222.",
+  "output": "The address of [REDACTED] is [REDACTED], [REDACTED], [REDACTED].",
+  "unique_id": "prompt_redact_the_given_tex",
+  "schema_version": "1.0"
+}

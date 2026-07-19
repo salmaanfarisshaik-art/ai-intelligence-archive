@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a PHP function that accepts two strings and returns the number of characters in common between the two strings.",
+  "input": "String 1: \"hello world\"\nString 2: \"goodbye world\"",
+  "output": "function commonCharCount($str1, $str2) {\n    $str1_arr = str_split($str1);\n    $str2_arr = str_split($str2);\n    $intersect = array_intersect($str1_arr, $str2_arr);\n    return count($intersect);\n}",
+  "unique_id": "prompt_write_a_php_function",
+  "schema_version": "1.0"
+}

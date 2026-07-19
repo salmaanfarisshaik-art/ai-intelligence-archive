@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8617886801653582268",
+  "technique_name": "Identify which parts of the following code could be refactored.",
+  "description": "This code could be refactored to improve readability and efficiency. A single line of code could be used instead of the for loop. The expression a + c[i] could be replaced with a simpler expression, such as a + b. In addition, an alternative data type (such as an array or map) could be used to store the result.",
+  "example": "def calculate_data(a, b, c):\n    result = []\n    for i in range(b):\n        result.append(a + c[i])\n    return result",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

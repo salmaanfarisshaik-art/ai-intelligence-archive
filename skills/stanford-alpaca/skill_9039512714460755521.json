@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9039512714460755521",
+  "skill_name": "Create a SQL query that returns only the entries in a table that have a value of 12 for a column called \"age\".",
+  "workflow": "SELECT * FROM table_name WHERE age = 12;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

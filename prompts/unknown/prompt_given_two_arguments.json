@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two arguments, x and y, write a function that returns the greatest of the two numbers.",
+  "input": "",
+  "output": "def greatest_of_two(x, y):\n    if x > y:\n        return x\n    else:\n        return y",
+  "unique_id": "prompt_given_two_arguments",
+  "schema_version": "1.0"
+}

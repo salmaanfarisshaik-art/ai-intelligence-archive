@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4633196014403927280",
+  "technique_name": "Write a function that will calculate the distance in terms of longitude and latitude.",
+  "description": "def calc_distance(long1, lat1, long2, lat2):\n    # approximate radius of earth in km\n    R = 6373.0\n \n    dlon = long2 - long1\n    dlat = lat2 - lat1\n \n    a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2\n    c = 2 * atan2(sqrt(a), sqrt(1 - a))\n \n    return R * c",
+  "example": "Start longitude : -75.45 Start latitude: 45.40",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

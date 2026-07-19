@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-9075028361883922973",
+  "skill_name": "Create a code that accepts an array of numbers and doubles each of them.",
+  "workflow": "// Function to double each element in an array\nfunction doubleArray(arr) {\n  //Loop over each element in the array\n  for (var i = 0; i < arr.length; i++) {\n    //Double the element\n    arr[i] = arr[i] * 2;\n  }\n  //Return the modified array\n  return arr;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

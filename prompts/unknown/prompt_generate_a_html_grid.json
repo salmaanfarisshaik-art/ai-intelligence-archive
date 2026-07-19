@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a HTML grid layout.",
+  "input": "6 rows, 3 columns",
+  "output": "<style> \n  .grid-container {\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    grid-template-rows: repeat(6, 1fr);\n    grid-gap: 10px;\n  }\n\n</style>\n\n<div class=\"grid-container\">\n  <div> Content 1 </div> \n  <div> Content 2 </div> \n  <div> Content 3 </div> \n  <div> Content 4 </div> \n  <div> Content 5 </div> \n  <div> Content 6 </div>  \n</div>",
+  "unique_id": "prompt_generate_a_html_grid",
+  "schema_version": "1.0"
+}

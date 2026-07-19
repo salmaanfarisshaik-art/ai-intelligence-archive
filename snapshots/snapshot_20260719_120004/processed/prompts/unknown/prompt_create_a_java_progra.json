@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a Java program that simulates a dice roll.",
+  "input": "",
+  "output": "import java.util.Random;\n\npublic class DiceRoll{ \n    public static void main(String args[]){ \n        Random random = new Random(); \n        int rollResult = random.nextInt(6) + 1; \n  \n        System.out.println(\"Roll Result: \"+ rollResult); \n    } \n}",
+  "unique_id": "prompt_create_a_java_progra",
+  "schema_version": "1.0"
+}

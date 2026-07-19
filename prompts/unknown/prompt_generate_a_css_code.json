@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a CSS code that horizontally centers an iframe.",
+  "input": "",
+  "output": "iframe {\n    position: absolute;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n}",
+  "unique_id": "prompt_generate_a_css_code",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Reverse engineer this code to create a new version",
+  "input": "def factorialize(num):\n  factorial = 1\n  for i in range(1, num):\n    factorial *= i\n  \n  return factorial",
+  "output": "def factorialize(num):\n  factorial = 1\n  for i in range(num, 0, -1):\n    factorial *= i\n  \n  return factorial",
+  "unique_id": "prompt_reverse_engineer_thi",
+  "schema_version": "1.0"
+}

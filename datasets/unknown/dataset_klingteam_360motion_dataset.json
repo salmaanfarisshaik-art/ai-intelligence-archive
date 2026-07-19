@@ -1,0 +1,28 @@
+{
+  "_id": "6752cf892daef1596b920904",
+  "id": "KlingTeam/360Motion-Dataset",
+  "author": "KlingTeam",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-22T17:05:21.000Z",
+  "likes": 31,
+  "private": false,
+  "sha": "7205556b8c332a14cfc0205c20a6483cfcea8292",
+  "description": "\n\t\n\t\t\n\t\t360°-Motion Dataset\n\t\n\nProject page | Paper | Code\n\n\t\n\t\t\n\t\tAcknowledgments\n\t\n\nWe thank Jinwen Cao, Yisong Guo, Haowen Ji, Jichao Wang, and Yi Wang from Kuaishou Technology for their help in constructing our 360°-Motion Dataset.\n\n\n\t\n\t\t\n\t\tNews\n\t\n\n\n[2024-12] We release the V1 dataset (72,000 videos consists of 50 entities, 6 UE scenes, and 121 trajectory templates).\n\n\n\t\n\t\t\n\t\tData structure\n\t\n\n ├── 360Motion-Dataset                      Video Number        Cam-Obj Distance (m)\n   ├──… See the full description on the dataset page: https://huggingface.co/datasets/KlingTeam/360Motion-Dataset.",
+  "downloads": 29213,
+  "tags": [
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:imagefolder",
+    "modality:image",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2024-12-06T10:18:49.000Z",
+  "key": "",
+  "unique_id": "dataset_klingteam_360motion_dataset",
+  "schema_version": "1.0"
+}

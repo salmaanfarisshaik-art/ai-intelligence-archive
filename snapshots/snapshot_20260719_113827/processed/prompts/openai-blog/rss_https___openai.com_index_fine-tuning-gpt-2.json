@@ -1,0 +1,26 @@
+{
+  "unique_id": "rss_https://openai.com/index/fine-tuning-gpt-2",
+  "schema_version": "1.0",
+  "technique_name": "Fine-tuning GPT-2 from human preferences",
+  "description": "We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required",
+  "example": "",
+  "source_url": "https://openai.com/index/fine-tuning-gpt-2",
+  "source_name": "OpenAI Blog",
+  "source_type": "rss",
+  "category": "news",
+  "raw_payload": {
+    "title": "Fine-tuning GPT-2 from human preferences",
+    "link": "https://openai.com/index/fine-tuning-gpt-2",
+    "published": "Thu, 19 Sep 2019 07:00:00 GMT",
+    "description": "We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did not always match our own. Specifically, for summarization tasks the labelers preferred sentences copied wholesale from the input (we’d only asked them to ensure accuracy), so our models learned to copy. Summarization required 60k human labels; simpler tasks which continue text in various styles required only 5k. Our motivation is to move safety techniques closer to the general task of “machines talking to humans,” which we believe is key to extracting information about human values.",
+    "source_feed_name": "OpenAI Blog"
+  },
+  "retrieval_timestamp": "2026-06-18T20:17:04Z",
+  "last_updated": "Thu, 19 Sep 2019 07:00:00 GMT",
+  "links": {
+    "related_models": [],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

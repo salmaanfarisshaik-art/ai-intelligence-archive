@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a python script to convert a temperature from Celsius to Fahrenheit.",
+  "input": "",
+  "output": "\"\"\"\nScript to convert Celsius to Fahrenheit\n\"\"\"\n\ndef celsius_to_fahrenheit(celsius):\n    return celsius * 9/5 + 32\n\nif __name__ == '__main__':\n    celsius = 37\n    print(celsius_to_fahrenheit(celsius))\n    # Output: 98.6",
+  "unique_id": "prompt_write_a_python_scrip",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1484546024159541173",
+  "skill_name": "Write an algorithm that detects anagrams.",
+  "workflow": "def detect_anagrams(s1, s2): \n    # convert strings to lowercase \n    s1 = s1.lower() \n    s2 = s2.lower() \n  \n    # sort the strings  \n    s1_list = sorted(s1) \n    s2_list = sorted(s2) \n  \n    # compare and return a boolean value \n    if s1_list == s2_list: \n        return True\n    else: \n        return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

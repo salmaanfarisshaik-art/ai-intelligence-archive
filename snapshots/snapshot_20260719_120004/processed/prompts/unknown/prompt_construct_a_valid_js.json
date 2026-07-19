@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a valid JSON object from the following three strings.",
+  "input": "key1, value1\nkey2, value2\nkey3, value3",
+  "output": "{\n  \"key1\": \"value1\",\n  \"key2\": \"value2\",\n  \"key3\": \"value3\"\n}",
+  "unique_id": "prompt_construct_a_valid_js",
+  "schema_version": "1.0"
+}

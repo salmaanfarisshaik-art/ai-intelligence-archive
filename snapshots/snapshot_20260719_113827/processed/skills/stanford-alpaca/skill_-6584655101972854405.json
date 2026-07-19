@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6584655101972854405",
+  "skill_name": "Write a function to print out the last 3 elements of a Python list.",
+  "workflow": "\"\"\"\nWrite a function to print out the last 3 elements of a Python list\n\"\"\"\n\ndef print_last_3(list_data):\n    print(list_data[-3:])\n\nif __name__ == '__main__':\n    data = [1, 4, 7, 12, 15, 20]\n    print_last_3(data)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

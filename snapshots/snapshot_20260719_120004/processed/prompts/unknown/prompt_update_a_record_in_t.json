@@ -1,0 +1,7 @@
+{
+  "instruction": "Update a record in the customer database of a given company according to the instructions.",
+  "input": "company: ABC Limited\ninstructions: change the contact number for customer 'John Smith'",
+  "output": "The record for customer 'John Smith' has been updated in the customer database of ABC Limited by changing the contact number.",
+  "unique_id": "prompt_update_a_record_in_t",
+  "schema_version": "1.0"
+}

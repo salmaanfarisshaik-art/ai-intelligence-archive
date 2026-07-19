@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3749485324565004718",
+  "skill_name": "Create a function that takes two strings and returns the number of common characters between them.",
+  "workflow": "def common_chars(str1,str2):\n    common_count = 0\n    \n    # Create a dictionary of characters counting \n    # the number of occurrences in both strings\n    str1_dict = {}\n    for char in str1:\n        if char in str1_dict:\n            str1_dict[char] += 1\n        else:\n            str1_dict[char] = 1\n    \n    # Do the same for str2 \n    str2_dict = {}\n    for char in str2:\n        if char in str2_dict:\n            str2_dict[char] += 1\n        else:\n            str2_dict[char] = 1\n    \n    # Che",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

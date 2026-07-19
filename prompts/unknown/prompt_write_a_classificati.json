@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a classification model to classify movie reviews as negative, neutral or positive.",
+  "input": "",
+  "output": "A classification model can be built on movie reviews by first preprocessing the data to remove words that are not useful for the classification, such as stop words and punctuation. After preprocessing, we can tokenize and vectorize the data. Next, we can use the vectorized data to train a machine learning model, such as Logistic Regression or Support Vector Machines. Once the model is trained, we can use it to classify movie reviews as negative, neutral or positive, depending on the sentiment of the review.",
+  "unique_id": "prompt_write_a_classificati",
+  "schema_version": "1.0"
+}

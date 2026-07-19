@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-143971207507187789",
+  "skill_name": "Describe the following model architecture.",
+  "workflow": "The model has 4 convolution layers followed by a fully connected layer and a softmax layer. Each convolution layer has a kernel size of 3x3 and a stride length of 1. Following this is a fully connected layer that flattens the output of the convolution layers into a single vector. The final layer is a softmax layer, which outputs a probability distribution over any given class or label.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

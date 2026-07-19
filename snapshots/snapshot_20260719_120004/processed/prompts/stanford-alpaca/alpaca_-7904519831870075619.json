@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7904519831870075619",
+  "technique_name": "Write a script that will determine the smallest number in a given array.",
+  "description": "min = -3\n\n// Function to determine the smallest number in an array \nfunction findMin(arr) { \n    let min = arr[0]; \n    for (let i = 0; i < arr.length; i++) { \n        if (arr[i] < min) \n            min = arr[i]; \n    }\n    return min; \n} \n  \n// // Sample input array \nlet arr = [1, 5, 6, 8, -3, -2, 0]; \n\n// // Calling findMin function \nconsole.log(\"Minimum element is: \" + findMin(arr));",
+  "example": "[1, 5, 6, 8, -3, -2, 0]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "You are given two survey questions, explain what type of data type the answers provide.",
+  "input": "Q1. How often do you eat out?\nQ2. What is your gender?",
+  "output": "The answer to the first question, “How often do you eat out?” provides categorical data as it is asking for an answer based on a choice between options (ex. “never”, “rarely”, “sometimes”, etc). The answer to question two, “What is your gender?”, provides nominal data as it is asking for a discrete answer of the respondent’s gender.",
+  "unique_id": "prompt_you_are_given_two_su",
+  "schema_version": "1.0"
+}

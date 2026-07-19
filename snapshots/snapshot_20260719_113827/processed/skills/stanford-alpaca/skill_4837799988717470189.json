@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4837799988717470189",
+  "skill_name": "Construct the C++ program that prints a message \"Hello World\".",
+  "workflow": "#include <iostream> \n  \n// main function - \n// where the execution of program begins \nint main() \n{ \n    // prints hello world \n    std::cout<<\"Hello World\"; \n      \n    return 0; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

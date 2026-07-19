@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.05268v3",
+  "schema_version": "1.0",
+  "name": "Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.05268v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.05268v3",
+    "updated": "2026-07-16T17:22:10Z",
+    "published": "2026-07-06T16:18:05Z",
+    "title": "Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models",
+    "summary": "Hyperbolic vision-language models are designed to encode abstraction geometrically: general concepts near the origin, specific ones farther out, and entailment cones representing directed order. We ask whether trained MERU, HyCoCLIP, and PHyCLIP models actually use these mechanisms. We audit seven released checkpoints and matched from-scratch interventions, using diagnostics that distinguish active hyperbolic geometry from angular structure and supervision effects. All audited converged checkpoints remain near-Euclidean in the dimensionless radius $u=\\sqrt{c}ρ$, which measures how strongly embeddings experience hyperbolic geometry: the largest observed image-side value is $0.37$ -- well below $u\\approx0.84$, where local metric distortion reaches $10\\%$. Releasing the curvature floor changes curvature and norms but not this regime, with mixed, generally modest downstream shifts. Trained entailment cones are saturated or nearly saturated, so low violation rates can arise from trivially wide cones rather than learned order. Preregistered semantic traversal detects weak within-branch order but no operative full-hierarchy readout. Shuffle-controlled tests detect no pair-specific radial ordering in released checkpoints, and no positive result is consistent across all three matched ViT-B seeds. We trace this to a low-curvature shortcut: lowering curvature widens entailment cones and suppresses violations without learning order. In the probed trajectories, gradient decomposition identifies entailment as the dominant curvature-lowering pressure during collapse. Yet curvature contracts even when entailment is removed, so the shortcut is not the sole cause. Under our diagnostics, the audited formulations do not demonstrate an operative radial or cone-based hierarchy. We distill the audit into a five-number geometry report for evaluating future hierarchy claims.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T17:22:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.05268v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

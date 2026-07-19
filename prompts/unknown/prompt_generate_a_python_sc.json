@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a Python script to parse the given list.",
+  "input": "list = [[5, 10], [2, 3, 4], [50]]",
+  "output": "def parse_list(lst): \n    result = [] \n    for element in lst: \n        if type(element) is list: \n            result.extend(element) \n        else: \n            result.append(element) \n    return result \n\nresult = parse_list(list) \nprint(result)",
+  "unique_id": "prompt_generate_a_python_sc",
+  "schema_version": "1.0"
+}

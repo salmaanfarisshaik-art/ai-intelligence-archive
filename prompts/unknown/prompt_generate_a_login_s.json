@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a login / signup form",
+  "input": "",
+  "output": "<html>\n<head>\n  <title>Login / Signup Form</title>\n</head>\n<body>\n  <!-- Form to log in an existing user -->\n  <h1>Login</h1>\n  <form action=\"process_login.php\" method=\"post\">\n    <div>\n      <label for=\"username\">Username:</label>\n      <input type=\"text\" name=\"username\" id=\"username\">\n    </div>\n    <div>\n      <label for=\"password\">Password:</label>\n      <input type=\"password\" name=\"password\" id=\"password\">\n    </div>\n    <input type=\"submit\" name=\"submit\" value=\"Login\">\n  </form>\n  <!-- Form to create a new account -->\n  <h1>Signup</h1>\n  <form action=\"process_signup.php\" method=\"post\">\n    <div>\n      <label for=\"username\">Create a Username:</label>\n      <input type=\"text\" name=\"username\" id=\"username\">\n    </div>\n    <div>\n      <label for=\"password\">Create a Password:</label>\n      <input type=\"password\" name=\"password\" id=\"password\">\n    </div>\n    <div>\n      <label for=\"email\">Enter your Email:</label>\n      <input type=\"text\" name=\"email\" id=\"email\">\n    </div>\n    <input type=\"submit\" name=\"submit\" value=\"Signup\">\n  </form>\n</body>\n</html>",
+  "unique_id": "prompt_generate_a_login_s",
+  "schema_version": "1.0"
+}

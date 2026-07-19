@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop a database schema for a library system.",
+  "input": "",
+  "output": "The database should contain the following tables: books, authors, members, loans, and fines. The books table should include columns for title, ISBN, number of copies in stock, and a foreign key linking to the authors table. The authors table should include columns for name and biography. The members table should contain columns for name, address, and membership ID. The loans table should contain columns for book ID, member ID, loan date, and return date. The fines table should include columns for member ID and amount of fine.",
+  "unique_id": "prompt_develop_a_database_s",
+  "schema_version": "1.0"
+}

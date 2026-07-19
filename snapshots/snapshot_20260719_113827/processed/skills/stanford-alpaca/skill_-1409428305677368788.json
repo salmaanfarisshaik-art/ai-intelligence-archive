@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1409428305677368788",
+  "skill_name": "Create a CSS style sheet to format the following HTML document.",
+  "workflow": "<html>\n  <head>\n    <title> CSS Demo </title>\n    <style> \n      body {\n        text-align: center;\n        background-color: #F8F8F8;\n        font-family: sans-serif;\n      }\n\n      h1 {\n        font-size: 2rem;\n        font-weight: bold;\n        color: #0059b3;\n        text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);\n      }\n\n      p {\n        font-size: 1.5rem;\n        font-weight: bold;\n        color: #444;\n      }\n    </style>\n  </head>\n  <body>\n    <h1> Welcome! </h1>\n    <p> This is a CSS dem",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

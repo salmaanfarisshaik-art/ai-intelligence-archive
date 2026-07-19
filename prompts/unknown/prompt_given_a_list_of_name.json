@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a list of names, create a function to find the longest name.",
+  "input": "James, Maria, Robert",
+  "output": "def find_longest_name(names): \n  longest_name = \"\"\n  for name in names:\n    if len(name) > len(longest_name):\n      longest_name = name\n  return longest_name\n  \nprint(find_longest_name([\"James\", \"Maria\", \"Robert\"]))\n\n# Output: Robert",
+  "unique_id": "prompt_given_a_list_of_name",
+  "schema_version": "1.0"
+}

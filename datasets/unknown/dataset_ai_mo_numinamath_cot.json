@@ -1,0 +1,32 @@
+{
+  "_id": "6695831f2d25bd04e969b0a2",
+  "id": "AI-MO/NuminaMath-CoT",
+  "author": "AI-MO",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-11-25T05:31:43.000Z",
+  "likes": 592,
+  "private": false,
+  "sha": "9d8d210c9f6a36c8f3cd84045668c9b7800ef517",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for NuminaMath CoT\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nApproximately 860k math problems, where each solution is formatted in a Chain of Thought (CoT) manner. The sources of the dataset range from Chinese high school math exercises to US and international mathematics olympiad competition problems. The data were primarily collected from online exam paper PDFs and mathematics discussion forums. The processing steps include (a) OCR from the original PDFs, (b) segmentation… See the full description on the dataset page: https://huggingface.co/datasets/AI-MO/NuminaMath-CoT.",
+  "downloads": 32648,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "aimo",
+    "math"
+  ],
+  "createdAt": "2024-07-15T20:14:23.000Z",
+  "key": "",
+  "unique_id": "dataset_ai_mo_numinamath_cot",
+  "schema_version": "1.0"
+}

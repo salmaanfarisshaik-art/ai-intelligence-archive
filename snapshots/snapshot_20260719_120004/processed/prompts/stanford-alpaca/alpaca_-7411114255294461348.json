@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7411114255294461348",
+  "technique_name": "Write a function that takes in a list of numbers and returns a list of the numbers in reverse order.",
+  "description": "\"\"\"\nFunction to reverse a list of numbers\n\"\"\"\n\ndef reverse_list(input_list):\n    reverse_list = input_list.copy()\n    reverse_list.reverse()\n    return reverse_list\n\nif __name__ == '__main__':\n    l = [1, 2, 3, 4, 5]\n    print(reverse_list(l))\n    # Output: [5, 4, 3, 2, 1]",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

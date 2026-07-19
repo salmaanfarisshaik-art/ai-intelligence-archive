@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7558068706274848863",
+  "technique_name": "Create a database schema for the following problem.",
+  "description": "CREATE TABLE user_info (\n  id INT AUTO_INCREMENT PRIMARY KEY,\n  name VARCHAR(100) NOT NULL,\n  address VARCHAR(100) NOT NULL,\n  email VARCHAR(100) NOT NULL UNIQUE,\n  phone_number VARCHAR(32) NOT NULL UNIQUE\n);",
+  "example": "Design a database to store user information such as names, addresses, emails, and phone numbers.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

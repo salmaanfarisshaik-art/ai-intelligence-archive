@@ -1,0 +1,7 @@
+{
+  "instruction": "How would you architect a database to store customer survey responses?",
+  "input": "No input",
+  "output": "A database to store customer survey responses should include a table to store each survey response, with the columns of the table storing the customer's information, any relevant demographic data for the customer and their survey responses. This table could also include a timestamp for when the survey response was received. Additionally, there may be a separate table or tables to store survey questions and/or predefined answer choices. This table or tables could also include a timestamp for when the question or answer choice was added to the survey.",
+  "unique_id": "prompt_how_would_you_archit",
+  "schema_version": "1.0"
+}

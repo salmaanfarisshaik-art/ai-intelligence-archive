@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3835837948998460990",
+  "skill_name": "Generate a pythont program to find the highest common factor of two numbers.",
+  "workflow": "def findHCF(a,b): \n      \n    if(b == 0): \n        return a \n    else: \n        return findHCF(b, a%b) \n    \na = int (input(\"Enter first number : \")) \nb = int (input(\"Enter second number : \")) \n\nprint(\"The H.C.F. is\", findHCF(a, b))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

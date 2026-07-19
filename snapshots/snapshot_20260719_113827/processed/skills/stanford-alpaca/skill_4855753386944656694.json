@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4855753386944656694",
+  "skill_name": "Create a program to generate the Fibonacci sequence.",
+  "workflow": "\"\"\"\nGenerate the Fibonacci sequence\n\"\"\"\n\n# Initialize the first two elements in the Fibonacci sequence\nprev = 0\ncurr = 1\n\n# Print the first two elements\nprint(prev)\nprint(curr)\n\n# Loop from 3 to n (where n is the number of elements in the Fibonacci sequence)\nfor n in range(3, 11): # Change the value of 11 to generate more/less elements\n    # Calculate the sum of the previous two elements\n    next = prev + curr\n    \n    # Print the sum\n    print(next)\n    \n    # Update the values of prev and curr",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

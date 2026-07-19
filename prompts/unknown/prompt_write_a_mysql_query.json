@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a MySQL query to select all the customers from the \"Customers\" table who were born after 1990.",
+  "input": "",
+  "output": "SELECT * FROM Customers WHERE birth_date > '1990-01-01';",
+  "unique_id": "prompt_write_a_mysql_query",
+  "schema_version": "1.0"
+}

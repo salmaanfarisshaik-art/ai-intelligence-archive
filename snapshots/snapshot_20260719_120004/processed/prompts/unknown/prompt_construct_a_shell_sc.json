@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a shell script",
+  "input": "",
+  "output": "#!/bin/bash \n# This is a sample shell script \necho \"Hello World!\" \nread -p \"Enter your name: \" name \necho \"Welcome to Shell scripting, $name!\"",
+  "unique_id": "prompt_construct_a_shell_sc",
+  "schema_version": "1.0"
+}

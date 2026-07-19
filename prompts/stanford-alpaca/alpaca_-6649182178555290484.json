@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6649182178555290484",
+  "technique_name": "Write SQL query to select the customers who have signed up within the last 7 days.",
+  "description": "SELECT * FROM Customers \nWHERE date_signed_up > date_sub(CURDATE(), INTERVAL 7 DAY);",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

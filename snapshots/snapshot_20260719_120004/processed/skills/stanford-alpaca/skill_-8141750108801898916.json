@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8141750108801898916",
+  "skill_name": "Create a function that takes two arguments and returns a value that indicates the larger of the arguments.",
+  "workflow": "def larger_of_two_args(arg1, arg2):\n    if arg1 > arg2:\n        return arg1\n    else:\n        return arg2",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

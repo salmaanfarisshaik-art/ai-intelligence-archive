@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to output the next largest prime number of a given number",
+  "input": "num = 16",
+  "output": "def nextLargestPrime(num):\n    #Increment the number by one\n    num += 1\n\n    #Loop until largest prime number is found\n    while not isPrime(num):\n        num += 1\n\n    #Return the largest prime found\n    return num",
+  "unique_id": "prompt_write_a_code_to_outp",
+  "schema_version": "1.0"
+}

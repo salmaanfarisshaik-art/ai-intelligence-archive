@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2633816229637949189",
+  "skill_name": "Find the angle of elevation when a ball is thrown with an initial velocity of 15 m/s at an angle of 45 degrees.",
+  "workflow": "The angle of elevation is 62.68 degrees. This is calculated by finding the quadratic formula of resulting velocity in two dimensions, v = 15cos45i + 15sin45j and then finding the angle of elevation by taking inverse tangent of the vertical over the horizontal ratio (y/x) which is sin62.68 = vy / v.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

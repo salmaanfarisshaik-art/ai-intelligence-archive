@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3757063515599344500",
+  "technique_name": "Given a problem, design an algorithm to solve it.",
+  "description": "Algorithm to find the maximum sum of consecutive elements in an array:\n1. Initialize max_sum and current_sum with 0.\n2. Iterate over array A.\n3. Add the current element in the array to current_sum.\n4. Compare the current_sum and the max_sum and assign the bigger one to max_sum.\n5. If current_sum is negative, set it to 0.\n6. After iterating over the array A, max_sum is the desired output.",
+  "example": "Given an array of n integers, find the maximum sum of consecutive elements in the array.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

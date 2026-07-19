@@ -1,0 +1,49 @@
+{
+  "unique_id": "hf_ds_6993525c8be5bf8321bcc775",
+  "schema_version": "1.0",
+  "name": "bezzam/coraal",
+  "description": "\n\t\n\t\t\n\t\tCorpus of Regional African American Language (CORAAL)\n\t\n\nDataset link: https://oraal.github.io/coraal\nHugging Face Hub preparation scripts: https://github.com/ebezzam/prepare_coraal\n\n\t\n\t\t\n\t\tCitation\n\t\n\nKendall, Tyler and Charlie Farrington. 2023. The Corpus of Regional African American Language. Version 2023.06. Eugene, OR: The Online Resources for African American Language Project. https://doi.org/10.7264/1ad5-6t35.\n",
+  "size": "171142",
+  "source_url": "https://huggingface.co/datasets/bezzam/coraal",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "6993525c8be5bf8321bcc775",
+    "id": "bezzam/coraal",
+    "author": "bezzam",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-02-16T17:43:42.000Z",
+    "likes": 0,
+    "private": false,
+    "sha": "76417d96197aa8bfa419eb5cc7637dab2f75cba0",
+    "description": "\n\t\n\t\t\n\t\tCorpus of Regional African American Language (CORAAL)\n\t\n\nDataset link: https://oraal.github.io/coraal\nHugging Face Hub preparation scripts: https://github.com/ebezzam/prepare_coraal\n\n\t\n\t\t\n\t\tCitation\n\t\n\nKendall, Tyler and Charlie Farrington. 2023. The Corpus of Regional African American Language. Version 2023.06. Eugene, OR: The Online Resources for African American Language Project. https://doi.org/10.7264/1ad5-6t35.\n",
+    "downloads": 171142,
+    "tags": [
+      "task_categories:automatic-speech-recognition",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "size_categories:n<1K",
+      "format:parquet",
+      "format:optimized-parquet",
+      "modality:audio",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:polars",
+      "library:mlcroissant",
+      "region:us"
+    ],
+    "createdAt": "2026-02-16T17:22:36.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2026-02-16T17:43:42.000Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

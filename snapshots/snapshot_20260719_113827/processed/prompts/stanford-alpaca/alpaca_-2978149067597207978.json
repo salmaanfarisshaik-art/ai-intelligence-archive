@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2978149067597207978",
+  "technique_name": "What is the difference between a shallow copy and deep copy in Python?",
+  "description": "A shallow copy in Python is a bit-wise copy of an object. It creates a new object which stores the reference of the existing object. It does not create a copy of nested objects, instead it just copies the reference of nested objects. A deep copy creates a copy of object as well as of nested objects. In deep copy, a copy of object is copied in other object. It means that any changes made to a copy of object do not reflect in the original object.  In deep copy, a copy of object is copied in other ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

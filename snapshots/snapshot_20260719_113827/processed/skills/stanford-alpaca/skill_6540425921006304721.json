@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6540425921006304721",
+  "skill_name": "Edit the given code to add error handling.",
+  "workflow": "def calculate_sum(numbers):\n    try:\n        sum = 0\n        for num in numbers:\n            sum += num\n        return sum\n    except TypeError:\n        print(\"The given input is not a list of integers.\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

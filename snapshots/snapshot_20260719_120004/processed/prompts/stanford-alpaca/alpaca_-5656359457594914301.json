@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5656359457594914301",
+  "technique_name": "Create a valid SQL query to extract the requested information.",
+  "description": "SELECT Name FROM Employees WHERE Salary > 50000;",
+  "example": "Table Name: Employees\nColumns: Name, Salary\n\nQuery all employees whose salary is greater than $50,000",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

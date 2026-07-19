@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1872774265543648774",
+  "skill_name": "Create a JSON object of a customer and their order by using the provided data.",
+  "workflow": "{ \n    \"customer\": {\n        \"name\": \"John Doe\",\n        \"address\": \"123 Smith Street\"\n    },\n    \"order\": { \n        \"total\": 100,\n        \"products\": [\n            {\n                \"name\": \"Item A\",\n                \"cost\": 10\n            },\n            {\n                \"name\": \"Item B\",\n                \"cost\": 30\n            },\n            {\n                \"name\": \"Item C\",\n                \"cost\": 60\n            }\n        ]\n    }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

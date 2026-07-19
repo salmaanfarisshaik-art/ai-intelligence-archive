@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain what a Bloom filter is",
+  "input": "",
+  "output": "A Bloom filter is a space-efficient probabilistic data structure used to determine whether an element is a member of a set. A Bloom filter can test whether an element has been previously added to the set with a high degree of accuracy. It works by creating a compact bit array that is used to store the elements in the set. An element is considered to be a member of the set if the bit array contains a certain value for that element, otherwise it is not. Bloom filters are used in many areas such as search engine optimization, spam filtering, databases and network routing.",
+  "unique_id": "prompt_explain_what_a_bloom",
+  "schema_version": "1.0"
+}

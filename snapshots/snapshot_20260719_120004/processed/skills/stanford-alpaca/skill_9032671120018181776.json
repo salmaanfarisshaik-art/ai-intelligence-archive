@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9032671120018181776",
+  "skill_name": "Given the below list of strings, remove the duplicates and sort the list in descending order.",
+  "workflow": "The list should return [“Orange”, “Banana”, “Apple”]\n\ndef remove_duplicates(lst): \n    unique_list = [] \n  \n    for x in lst: \n        if x not in unique_list: \n            unique_list.append(x) \n  \n    unique_list.sort(reverse=True) # sort in descending order\n  \n    return unique_list",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

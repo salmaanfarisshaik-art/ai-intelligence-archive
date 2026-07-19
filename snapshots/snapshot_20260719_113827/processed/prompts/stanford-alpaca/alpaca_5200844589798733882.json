@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5200844589798733882",
+  "technique_name": "Provide an output to the following function",
+  "description": "4",
+  "example": "def words_in_sentence(sentence):\n  sentence = sentence.lower()\n  words = sentence.split(\" \")\n  return len(words) \n\nInput sentence: \"This is a sample sentence\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

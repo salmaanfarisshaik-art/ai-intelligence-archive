@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7401583563165472536",
+  "skill_name": "Convert the text document into a spreadsheet which contains three columns: word, number of occurrences, and frequency.",
+  "workflow": "import pandas as pd \n\n# Read file \nwith open('file.txt', 'r') as f: \n    words = f.read().split() \n\n# Create dataframe \nwords_df = pd.DataFrame(words, columns=['word']) \n\n# Count the occurrences of each word \nwords_df['number of occurrences'] = words_df.groupby('word').transform('count') \n\n# Calculate the frequency of each word \nwords_df['frequency'] = words_df['number of occurrences']/len(words) \n\n# Print the dataframe \nprint(words_df)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

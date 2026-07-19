@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1404079893150631402",
+  "skill_name": "Write an algorithm to create a Sudoku board.",
+  "workflow": "A simple algorithm to create a valid Sudoku board could involve the following steps: \n1. Create an empty 9x9 grid, with all values filled in with zeros.\n2. Place the numbers 1 to 9 randomly on the edges of 3x3 sub-grids.\n3. Fill in the remaining values of the sub-grids by randomly choosing numbers from 1 to 9 that are not already present in the same row, column, or sub-grid.\n4. Repeat step 3 until all cells in the 9x9 board are filled in with valid numbers.\n5. Check if the final board is valid a",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

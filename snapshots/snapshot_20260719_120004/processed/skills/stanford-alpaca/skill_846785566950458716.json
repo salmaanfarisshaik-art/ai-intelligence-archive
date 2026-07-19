@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_846785566950458716",
+  "skill_name": "Write a function that checks if an element exists in two given arrays",
+  "workflow": "function checkElementExists(arr1, arr2) {\n    for(var i = 0; i < arr1.length; i++) {\n        for(var j = 0; j < arr2.length; j++) {\n            if(arr1[i] == arr2[j]) {\n                return true;\n            }\n        }\n    }\n    return false;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

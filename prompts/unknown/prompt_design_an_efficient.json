@@ -1,0 +1,7 @@
+{
+  "instruction": "Design an efficient algorithm for reversing an array",
+  "input": "[3, 5, 6, 9, 12]",
+  "output": "def reverse_array(array):\n    left = 0\n    right = len(array) - 1\n\n    while left < right:\n        temp = array[left]\n        array[left] = array[right]\n        array[right] = temp\n\n        left += 1\n        right -= 1\n        \n    return array",
+  "unique_id": "prompt_design_an_efficient",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-612717396444541808",
+  "technique_name": "Reverse a linked list.",
+  "description": "def reverse(head): \n    prev = None\n    cur = head \n\n    while cur:\n        next = cur.next\n        cur.next = prev \n        prev = cur \n        cur = next\n    head = prev\n    \n    return head",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-756341577876678094",
+  "skill_name": "Suggest the most efficient way to improve the following code:",
+  "workflow": "def get_areas():\n    return [x * y for x in range(4) for y in range(4)]\n\nThis uses a list comprehension to generate the list of areas in one line, instead of nested loops and an appending loop. This is much more efficient and concise.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

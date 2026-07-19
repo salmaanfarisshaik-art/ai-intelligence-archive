@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7147740487628401468",
+  "technique_name": "Write a function to filter a list by items that contain a certain string.",
+  "description": "def filter_string_list(lst, string):\n    return [item for item in lst if string in item]\n\nfiltered_list = filter_string_list(list, string)\nprint(filtered_list) # prints ['orange', 'banana', 'watermelon', 'cherry']",
+  "example": "list = [\"apple\", \"orange\", \"banana\", \"watermelon\", \"cherry\"]\nstring = \"an\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

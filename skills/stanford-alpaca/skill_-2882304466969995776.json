@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2882304466969995776",
+  "skill_name": "Given the set of data, write a function in Python to calculate the logarithmic average.",
+  "workflow": "def logarithmic_average(data):\n    \"\"\"\n    Calculates the logarithmic average of a given set of data.\n\n    Parameters:\n    data (list): The set of data to calculate the logarithmic average of.\n\n    Returns:\n    float: The logarithmic average of the given set of data.\n    \"\"\"\n    total_logs = 0\n    for item in data:\n        total_logs += math.log(item)\n  \n    return math.exp(total_logs / len(data))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

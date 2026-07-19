@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.25225v2",
+  "schema_version": "1.0",
+  "name": "Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.25225v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.25225v2",
+    "updated": "2026-06-11T16:48:48Z",
+    "published": "2026-05-24T19:26:25Z",
+    "title": "Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability",
+    "summary": "Mechanistic interpretability often studies Transformer behavior by intervening on internal activations through activation patching, causal tracing, path patching, and steering directions. This paper develops Transformer Field Theory: a response-theoretic framework in which the residual stream of a fixed forward pass is treated as a Transformer field over layer depth and token position. In this formulation, patching becomes a localized source insertion into the Transformer field, first-order sensitivity fields predict patch effects, Green functions describe downstream propagation, and patch selection is posed as an adjoint inverse problem. Empirically, we test the theory's forward response objects in GPT-2-style autoregressive Transformers. Localized Transformer-field interventions exhibit a bounded local linear regime; first-order sensitivities predict patch effects across layer-token sites; localized sources generate structured anisotropic Transformer-field propagation; high-sensitivity sites and sliced Green operators provide reduced response descriptions; and prompt-induced Transformer-field displacements partially transfer answer behavior. These results establish sensitivities, Transformer-field responses, and sliced Green operators as practical objects for organizing patching experiments, while providing the forward mathematical basis for patch-site inference and cross-scale response transfer.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T16:48:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.25225v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

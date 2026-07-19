@@ -1,0 +1,7 @@
+{
+  "instruction": "Manually merge the two datasets",
+  "input": "Dataset 1:\nName\t  Age\t  Gender\nJohn\t   24\t   Male\n\nDataset 2:\nName\t  City\t    Country\nJohn\t   Miami\t  USA",
+  "output": "Name\tAge\tGender\tCity\tCountry\nJohn\t24\tMale\tMiami\tUSA",
+  "unique_id": "prompt_manually_merge_the_t",
+  "schema_version": "1.0"
+}

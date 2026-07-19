@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a database query to calculate the total sales in the past week.",
+  "input": "Table name = sales",
+  "output": "SELECT SUM(sales) FROM sales WHERE date > DATE_SUB(NOW(), INTERVAL 7 DAY)",
+  "unique_id": "prompt_create_a_database_qu",
+  "schema_version": "1.0"
+}

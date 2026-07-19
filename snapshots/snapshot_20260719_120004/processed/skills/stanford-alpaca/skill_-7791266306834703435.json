@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7791266306834703435",
+  "skill_name": "Generate a code to perform a matrix transpose.",
+  "workflow": "def transpose(A):\n    m = len(A)\n    n = len(A[0])\n    AT = [[0] * m for _ in range(n)]\n    \n    for i in range(m):\n        for j in range(n):\n            AT[j][i] = A[i][j]\n    return AT",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

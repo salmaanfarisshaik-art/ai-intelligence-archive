@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7425031734024453798",
+  "skill_name": "Determine a network architecture that can identify emotion in text.",
+  "workflow": "A bidirectional Long Short Term Memory (BiLSTM) network would be an appropriate architecture for identifying emotion in text. A BiLSTM is a recurrent neural network (RNN) that has two sets of layers, each taking input from the opposite direction. It utilizes feedback connections, which allows it to capture long-term context, and can be trained to recognize patterns in sequential data such as text. By leveraging this network architecture, the system can be trained to recognize patterns in text th",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

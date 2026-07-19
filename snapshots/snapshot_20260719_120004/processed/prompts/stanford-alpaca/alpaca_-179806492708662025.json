@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-179806492708662025",
+  "technique_name": "Parse the following JSON data and reformat into an HTML table.",
+  "description": "<table>\n    <tr>\n        <th>Name</th>\n        <th>Age</th>\n    </tr>\n    <tr>\n        <td>John</td>\n        <td>20</td>\n    </tr>\n    <tr>\n        <td>Jill</td>\n        <td>27</td>\n    </tr>\n</table>",
+  "example": "{\"People\": [\n    {\"Name\": \"John\", \"Age\": 20}, \n    {\"Name\": \"Jill\", \"Age\": 27}\n]}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

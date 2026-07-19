@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4846754276047036364",
+  "skill_name": "Write a coding algorithm to generate a random number in a given range.",
+  "workflow": "The algorithm to generate a random number in a given range is as follows: \n1. Create a variable to store the minimum and maximum numbers of the range. \n2. Generate a random number between the min and max values of the range, using the built-in random() function.\n3. Use the modulo operator to ensure the random number is within the range.\n4. Use an if clause to check if the generated number is outside the required range.\n5. If the number is outside the range, repeat from step 2.\n6. Finally, return",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

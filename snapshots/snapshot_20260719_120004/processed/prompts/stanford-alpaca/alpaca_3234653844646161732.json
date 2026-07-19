@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3234653844646161732",
+  "technique_name": "Given two data sets, compare the two and explain how they differ.",
+  "description": "Data Set 1 and Data Set 2 have similarities in the Y column, as their values are all 3s. However, the values in the X column are different. In Data Set 1, the values in X are [1,2,3], while in Data Set 2, the values in X are [3,3,1]. This means that the order of the numbers are different, as Data Set 1 presents the numbers in increasing order while Data Set 2 presents the numbers in decreasing order.",
+  "example": "Data Set 1:\nX: [1,2,3]\nY: [2,2,3]\n\nData Set 2:\nX: [3,3,1]\nY: [3,3,3]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create an output formatted as a CSV table using the following data",
+  "input": "City | Population | Year\n-----| ----------|-----\nNew York | 8,601,186 |2019\nTokyo | 9,393,098 | 2020",
+  "output": "City,Population,Year\nNew York,8601186,2019\nTokyo,9393098,2020",
+  "unique_id": "prompt_create_an_output_for",
+  "schema_version": "1.0"
+}

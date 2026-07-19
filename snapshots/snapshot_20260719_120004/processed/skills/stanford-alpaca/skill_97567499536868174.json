@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_97567499536868174",
+  "skill_name": "Outline an algorithm to solve the \"8-puzzle\" game.",
+  "workflow": "The 8-puzzle is a sliding puzzle that requires the player to slide numbered tiles into a 3x3 grid to complete the puzzle. The algorithm for solving this puzzle includes a breadth-first search technique. This involves creating a list of nodes that contains the puzzle’s current state (position and order of squares) as well as previous states (to minimize searching duplicate states). The algorithm then proceeds to move each tile to the blank space and evaluate if the resulting new state is a goal n",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

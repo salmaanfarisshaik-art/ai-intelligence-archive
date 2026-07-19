@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain what is wrong with this code",
+  "input": "def hello(name):\n print(\"Hello \" + name) \n hello(\"John\")",
+  "output": "There is nothing wrong with the code. It will print out \"Hello John\". However, if you were to call the hello() function with an argument that is not a string, such as a number, it will cause an error because you cannot concatenate a string and a number.",
+  "unique_id": "prompt_explain_what_is_wron",
+  "schema_version": "1.0"
+}

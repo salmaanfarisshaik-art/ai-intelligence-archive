@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a data analysis report from the given dataset.",
+  "input": "table: sales_data\ncolumns: year, month, product, units_sold, sale_price",
+  "output": "This data analysis report will provide insights into the sales performance of the product. The table contains data for the number of units sold, the sale price and the month and year the sale happened. We can gain insights such as the total sale value, the average sale price and the average number of units sold. We can also analyze sales performance by year and month to identify seasonal trends. Finally, we can use the data to identify the most popular product and its sales performance.",
+  "unique_id": "prompt_create_a_data_analys",
+  "schema_version": "1.0"
+}

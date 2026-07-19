@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4008285944458766569",
+  "skill_name": "Write a code snippet to demonstrate the usage of a specific library.",
+  "workflow": "import numpy as np\nfrom sklearn.datasets import make_blobs\nfrom sklearn.cluster import KMeans\n\n# Generate a dataset\nX, y = make_blobs(n_samples=100, n_features=2, centers=4, random_state=42)\n\n# Instantiate the model\nkmeans = KMeans(n_clusters=4, random_state=42)\n\n# Fit the model\nkmeans.fit(X)\n\n# Predict labels\ny_pred = kmeans.predict(X)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

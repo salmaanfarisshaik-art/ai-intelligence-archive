@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7097641907487973991",
+  "skill_name": "Design a program that calculates the distance between two points given the coordinates of the points.",
+  "workflow": "\"\"\"\nDesign a program that calculates the distance between two points \ngiven the coordinates of the points.\n\nimport math\n\ndef calc_distance(point1, point2):\n    x1, y1 = point1\n    x2, y2 = point2\n    dist = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)\n    return dist\n\nif __name__ == \"__main__\":\n    pointA = (2, 3)\n    pointB = (5, 7)\n    dist = calc_distance(pointA, pointB)\n    print(\"The distance between Point A and Point B is\", dist)\n\n\"\"\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

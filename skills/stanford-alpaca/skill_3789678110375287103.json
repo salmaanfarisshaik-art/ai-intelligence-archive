@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3789678110375287103",
+  "skill_name": "Construct an algorithm to identify if a sentence is positive or not.",
+  "workflow": "Create a function to identify if a sentence is positive or not.\n\n1. Create a list of words with positive connotations, such as \"lovely,\" \"joyful,\" \"blessed,\" and \"splendid\".\n\n2. Split the sentence into individual words and store them in an array.\n\n3. Loop through the array and compare the words to the list of positive words.\n\n4. If any of the words match, return true that the sentence is positive.\n\n5. Else, return false that the sentence is not positive.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

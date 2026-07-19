@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-538285845587418481",
+  "skill_name": "Design an algorithm to calculate the maximum sum subarray of size k in an array of size n",
+  "workflow": "The algorithm should first sort or traverse the array a, and keep the track of the maximum subarray sum of length k, which is the sum of elements at index 0 to k-1 (inclusive). We then add the element at index k+1 to the subarray sum, and subtract the element at index 0. Then, we compare this new subarray sum with the existing maximum subarray sum of length k, and keep the one with a higher value. We can then repeat this process for the rest of the elements, traversing the array from index 1 to ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

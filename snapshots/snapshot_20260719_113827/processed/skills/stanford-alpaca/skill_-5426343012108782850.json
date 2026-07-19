@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5426343012108782850",
+  "skill_name": "Create a function that takes a string of parentheses and determines its validity",
+  "workflow": "function validateParens(str) {\n  let parenthesesCounter = 0;\n  for (let i = 0; i < str.length; i++) {\n    if (str[i] === '(') {\n      parenthesesCounter++;\n    } else if (str[i] === ')') {\n      parenthesesCounter--;\n    }\n\n    if (parenthesesCounter < 0) {\n      return false;\n    }\n  }\n  return parenthesesCounter === 0;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

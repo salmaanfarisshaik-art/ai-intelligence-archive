@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert the given XML code to JSON code.",
+  "input": "<root>\n    <data>\n        <item id=\"1\">\n            <name>Sample data</name>\n            <type>Text</type>\n            <value>123</value>\n        </item>\n    </data>\n</root>",
+  "output": "{\n    \"root\": {\n        \"data\": {\n            \"item\": {\n                \"id\": \"1\",\n                \"name\": \"Sample data\",\n                \"type\": \"Text\",\n                \"value\": \"123\"\n            }\n        }\n    }\n}",
+  "unique_id": "prompt_convert_the_given_xm",
+  "schema_version": "1.0"
+}

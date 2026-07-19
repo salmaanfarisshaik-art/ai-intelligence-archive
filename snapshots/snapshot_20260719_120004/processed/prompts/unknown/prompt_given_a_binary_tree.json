@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a binary tree, check if it is a binary search tree?",
+  "input": "",
+  "output": "def isBST(root):\nif root is None : \n\treturn True\n\nif root.left is not None and root.left.val > root.val: \n\treturn False\n\nif root.right is not None and root.right.val < root.val: \n\treturn False\n\nreturn isBST(root.left) and isBST(root.right)",
+  "unique_id": "prompt_given_a_binary_tree",
+  "schema_version": "1.0"
+}

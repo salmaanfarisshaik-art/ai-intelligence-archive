@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3656405234451503259",
+  "skill_name": "Describe how an algorithm can be used to find the closest pair of points.",
+  "workflow": "The algorithm for finding the closest pair of points starts by sorting the points by their x coordinates. Then, it divides the points into two groups, the left and right groups. The algorithm checks for the closest pair inside of each group, then compares the closest left pair with the closest right pair to find the overall closest pair out of the two. To calculate the distance between point A (2, 3) and B (8, 5), the algorithm would use the Euclidean distance formula, which is found with the fo",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

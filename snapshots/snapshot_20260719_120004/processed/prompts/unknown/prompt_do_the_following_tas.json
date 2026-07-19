@@ -1,0 +1,7 @@
+{
+  "instruction": "Do the following task using Python",
+  "input": "Create a program to print a multiplication table for the numbers 1 to 10.",
+  "output": "for x in range(1, 11): \n    for y in range(1, 11): \n        print(x, '*', y, '=', x*y) \n    print()",
+  "unique_id": "prompt_do_the_following_tas",
+  "schema_version": "1.0"
+}

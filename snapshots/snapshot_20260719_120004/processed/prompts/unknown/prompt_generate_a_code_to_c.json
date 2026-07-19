@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a code to check whether a given number is prime",
+  "input": "",
+  "output": "def is_prime(num): \n    if num > 1: \n        for i in range(2,num): \n            if (num % i) == 0: \n                return False\n        else: \n            return True \n    else: \n        return False\n    \n# driver code to test the function \nnum = 5\n\nif (is_prime(num)): \n    print(num, \"is a prime number\") \nelse: \n    print(num, \"is not a prime number\")",
+  "unique_id": "prompt_generate_a_code_to_c",
+  "schema_version": "1.0"
+}

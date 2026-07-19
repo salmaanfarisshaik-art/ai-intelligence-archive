@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a web-scraping script to extract stock information.",
+  "input": "",
+  "output": "import requests \nimport lxml.html as lh \nimport pandas as pd\n\nurl = 'https://finance.yahoo.com/quote/AAPL/'\npage = requests.get(url)\ndoc = lh.fromstring(page.content)\n\ncolumn_headers = []\nfor col in doc.xpath('//table[@class=\"W(100%) M(0) Bdcl(c)\"]//tr[1]//th'):\n    column_headers.append(col.text_content().strip())\n\ntable_rows = doc.xpath('//tr[@class = \"BdT Bdc($seperatorColor) Ta(start) Fz(s) Whs(nw)\"]')\n\ndata = []\nfor row in table_rows:\n    data_row = []\n    for col in row.xpath('//td'):\n        data_row.append(col.text_content().strip())\n    data.append(data_row)\ndf = pd.DataFrame(data, columns=column_headers)",
+  "unique_id": "prompt_write_a_web_scraping",
+  "schema_version": "1.0"
+}

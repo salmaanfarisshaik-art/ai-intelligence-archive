@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8597758006875076353",
+  "technique_name": "Write a Python code to get the maximum of two numbers.",
+  "description": "def max(a, b):\n\"\"\" Function to get the maximum of two numbers\n\nThis function will take two numbers as arguments and\nreturn the maximum of the two.\n\n:param a: The first number.\n:param b: The second number.\n:return: The maximum of two numbers.\n\"\"\"\n    if a > b:\n        return a\n    else:\n        return b",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

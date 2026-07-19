@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6287158043934571064",
+  "skill_name": "Write 3 lines of code that prints out all the multiples of 7 from 0 to 50.",
+  "workflow": "for i in range(51):\n  if i % 7 == 0:\n    print(i)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5787591155175616946",
+  "skill_name": "Explain why the following piece of code is wrong.",
+  "workflow": "This code is incorrect because the code is missing a closing bracket at the end of the for loop. The correct syntax would be \"for i in range(len(num_list))\". This syntax ensures that the loop executes the correct number of times, depending on the size of the num_list. Without the closing bracket, the loop will not execute any instructions and will result in an error.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

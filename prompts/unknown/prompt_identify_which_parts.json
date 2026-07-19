@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify which parts of the following code could be refactored.",
+  "input": "def calculate_data(a, b, c):\n    result = []\n    for i in range(b):\n        result.append(a + c[i])\n    return result",
+  "output": "This code could be refactored to improve readability and efficiency. A single line of code could be used instead of the for loop. The expression a + c[i] could be replaced with a simpler expression, such as a + b. In addition, an alternative data type (such as an array or map) could be used to store the result.",
+  "unique_id": "prompt_identify_which_parts",
+  "schema_version": "1.0"
+}

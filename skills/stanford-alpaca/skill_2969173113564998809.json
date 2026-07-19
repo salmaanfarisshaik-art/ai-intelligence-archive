@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2969173113564998809",
+  "skill_name": "Create a method to solve a 2x2 system of equations.",
+  "workflow": "One method of solving a 2x2 system of equations is substitution. For example, if we know that x+2y=6, we can substitute that value into the other equation and solve for y. In this example, we would substitute x+2y=6 into 2x+4y=6 to get 2x+4(x+2y)=6, which simplifies to 2x+ 8x + 8y=6. Then, we can further simplify this equation to 10x+8y=6. Finally, we can solve for y by dividing both sides by 8, giving us y=3/4. We can then use this value to find x in the original equation: x+2(3/4)=6, which sim",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

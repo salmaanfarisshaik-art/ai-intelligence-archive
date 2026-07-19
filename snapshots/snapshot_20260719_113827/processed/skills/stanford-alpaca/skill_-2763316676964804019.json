@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2763316676964804019",
+  "skill_name": "Suggest improvements for the following code segment to make it more Pythonic.",
+  "workflow": "The following code segment can be made more Pythonic by utilizing list comprehension. Instead of using a for loop, replace it with a list comprehension:\n\narray = [1, 2, 3, 4]\narray = [x + 5 for x in array]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

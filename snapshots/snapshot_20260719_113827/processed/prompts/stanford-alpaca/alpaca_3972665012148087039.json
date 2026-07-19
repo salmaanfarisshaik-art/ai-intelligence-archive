@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3972665012148087039",
+  "technique_name": "Read the sentence and identify errors in punctuation and grammar, if any.",
+  "description": "The sentence should be written as \"This is true. However, much more can be said.\" The semicolon after 'true' should be a period and the word 'however' should be followed by a comma.",
+  "example": "This is true; however much more can be said",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

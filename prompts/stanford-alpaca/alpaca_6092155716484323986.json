@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6092155716484323986",
+  "technique_name": "Given a database table, generate 5 useful SQL queries",
+  "description": "1. SELECT AVG(price) FROM books;\n2. SELECT title, author FROM books WHERE genre='horror';\n3. SELECT COUNT(*) FROM books WHERE price>20;\n4. SELECT * FROM books WHERE author='John Doe';\n5. SELECT title, price FROM books WHERE price>15 ORDER BY price ASC;",
+  "example": "Table Schema:\n\nbooks(id,title,author,genre,price)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

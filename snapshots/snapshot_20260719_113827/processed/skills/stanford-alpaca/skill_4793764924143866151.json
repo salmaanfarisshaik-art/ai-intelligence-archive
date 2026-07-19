@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4793764924143866151",
+  "skill_name": "Create a classifier to determine if a given email is spam or not spam.",
+  "workflow": "The classifier should look at the contents of the email, the sender and receiver of the email, and any attached files. It should then use these features to classify the email as either spam or not spam. This can be done by training a machine learning model to identify patterns in emails that are identified as spam. The model can then be tested on a new set of emails and classify them based on the patterns it has learned.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

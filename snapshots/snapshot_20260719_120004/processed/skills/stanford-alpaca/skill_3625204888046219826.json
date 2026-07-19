@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3625204888046219826",
+  "skill_name": "Provide example code for the following data structure: stack.",
+  "workflow": "Here is an example of a stack data structure implemented in Python:\n\nclass Stack:\n    def __init__(self):\n        self.items = []\n \n    def push(self, item):\n        self.items.append(item)\n \n    def pop(self):\n        return self.items.pop()\n \n    def is_empty(self):\n        return self.items == []",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3055663179604712111",
+  "technique_name": "Construct a programming code to reverse a string",
+  "description": "// Sample code to reverse a string \nString inputString = \"Hello World\";\n \nStringBuilder sb = new StringBuilder();\n \nfor(int i = inputString.length() - 1; i >= 0; i--){\n    sb.append(inputString.charAt(i));\n}\n \nString reversedString = sb.toString();\nSystem.out.println(reversedString);\n// Output: dlroW olleH",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

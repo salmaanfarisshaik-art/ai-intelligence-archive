@@ -1,0 +1,33 @@
+{
+  "_id": "68f3774a2f5866c017438f84",
+  "id": "ivrit-ai/crowd-recital-yi",
+  "author": "ivrit-ai",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2025-11-19T09:59:09.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "3b3ea0de5cc07a14e37013d2e7ea242cc43318a7",
+  "description": "\n\t\n\t\t\n\t\tAbout\n\t\n\nThis dataset was created by crowd-sourced recording sessions in Yiddish as part of the ivrit.ai Crowd Recital project.\nVolunteers read on normal desktop or mobile setting Wikipedia articles while time-stamping every sentence read.\nLater this data is normalized by aligning the gathered captions with the audio using Stable Whisper (See Below).\nThe recording project is an ongoing effort and new data will be appended to this dataset periodically as it is being generated.… See the full description on the dataset page: https://huggingface.co/datasets/ivrit-ai/crowd-recital-yi.",
+  "downloads": 49037,
+  "tags": [
+    "task_categories:automatic-speech-recognition",
+    "task_categories:text-to-speech",
+    "language:yi",
+    "license:other",
+    "size_categories:1K<n<10K",
+    "format:csv",
+    "modality:audio",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2025-10-18T11:17:30.000Z",
+  "key": "",
+  "unique_id": "dataset_ivrit_ai_crowd_recital_yi",
+  "schema_version": "1.0"
+}

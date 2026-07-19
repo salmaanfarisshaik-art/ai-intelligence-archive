@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a mathematical algorithm for finding the greatest common divisor of two numbers.",
+  "input": "",
+  "output": "The algorithm should start by obtaining two numbers, 'a' and 'b'. Then it should iterate through a loop and set 'r' equal to the remainder of 'a' divided by 'b'. If 'r' is not equal to 0, the algorithm should set 'a' equal to 'b' and 'b' equal to 'r'. This loop should be repeated until 'r' is equal to 0. Then the algorithm should return 'a' as the greatest common divisor of two numbers.",
+  "unique_id": "prompt_design_a_mathematica",
+  "schema_version": "1.0"
+}

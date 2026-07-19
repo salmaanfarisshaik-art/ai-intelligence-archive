@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4469966148420283992",
+  "technique_name": "Output a Java code segment that takes an array of numbers and returns the median value",
+  "description": "public static double getMedian(int[] a) \n{ \n    Arrays.sort(a); \n    int len = a.length; \n    if (len % 2 == 0) \n        return (a[(len/2)] +  \n                a[(len/2)-1]) / 2; \n    else\n        return a[len/2]; \n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

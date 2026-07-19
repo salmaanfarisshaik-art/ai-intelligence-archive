@@ -1,0 +1,7 @@
+{
+  "instruction": "Implement a program to reverse a string.",
+  "input": "",
+  "output": "def reverse_string(s):\n    \"\"\"\n    Function to reverse a string\n    Arguments:\n        s: string to be reversed\n    Returns:\n        string which is the reverse of given input\n    \"\"\"\n    reversed_string = \"\"\n    for char in s: \n        reversed_string = char + reversed_string\n    \n    return reversed_string\n\nsample_string = \"Hello World!\"\nprint(reverse_string(sample_string)) # \"!dlroW olleH\"",
+  "unique_id": "prompt_implement_a_program",
+  "schema_version": "1.0"
+}

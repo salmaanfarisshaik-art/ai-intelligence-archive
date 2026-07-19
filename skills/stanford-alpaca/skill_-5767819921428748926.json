@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5767819921428748926",
+  "skill_name": "Write an algorithm to sort the given array of integers.",
+  "workflow": "// Loop through the array\nfor (int i = 0; i < array.length - 1; i++) {\n    // Find the index of the minimum element in the subarray\n    int minIndex = i;\n    for (int j = i + 1; j < array.length; j++) {\n        if (array[j] < array[minIndex]) {\n            minIndex = j;\n        }\n    }\n    \n    // Swap the minimum element with the first element of the subarray\n    int temp = array[i];\n    array[i] = array[minIndex];\n    array[minIndex] = temp;\n}\n\n// Array is now sorted in ascending order",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

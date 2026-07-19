@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_194392050078664106",
+  "technique_name": "Create a function to determine whether a number is prime or not.",
+  "description": "def is_prime(n):\n    if n <= 1: \n        return False\n    for i in range(2, n):\n        if n % i == 0:\n            return False\n    return True",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3713554342366303802",
+  "technique_name": "Design a function for a web-application that will compute the total cost for a given number of items.",
+  "description": "def calculateTotalCost(items):\n    total_cost = 0\n    for item in items:\n        total_cost += item['quantity'] * item['price']\n    return total_cost",
+  "example": "Items: [{name: \"Chair\", quantity: 4, price: 20}, {name: \"Table\", quantity: 1, price: 100}, {name: \"Lamp\", quantity: 2, price: 45}]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a valid SQL query to extract all customers with a given last name from a customer database.",
+  "input": "Last name: Smith",
+  "output": "SELECT * FROM customers WHERE last_name = 'Smith';",
+  "unique_id": "prompt_generate_a_valid_sql",
+  "schema_version": "1.0"
+}

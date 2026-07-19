@@ -1,0 +1,7 @@
+{
+  "instruction": "Link the person's name, email address, age and gender in the following table.",
+  "input": "Person A | Alice Jones | alice@email.com | 30 | Female \nPerson B | John Smith | john@email.com | 25 | Male",
+  "output": "Alice Jones (Female, 30) - alice@email.com \nJohn Smith (Male, 25) - john@email.com",
+  "unique_id": "prompt_link_the_person_s_na",
+  "schema_version": "1.0"
+}

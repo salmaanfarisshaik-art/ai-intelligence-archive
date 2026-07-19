@@ -1,0 +1,7 @@
+{
+  "instruction": "Using the provided information, build a SQL query to extract the top 10 highest valued orders.",
+  "input": "Table Name: Orders\nColumns: ID (primary key), value, customer_id, date",
+  "output": "SELECT TOP 10 *\nFROM Orders\nORDER BY value DESC;",
+  "unique_id": "prompt_using_the_provided_i",
+  "schema_version": "1.0"
+}

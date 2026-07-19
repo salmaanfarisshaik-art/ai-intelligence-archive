@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate the CSS code to change the font of the following HTML element",
+  "input": "<h1>This is a headline</h1>",
+  "output": "h1 {\n   font-family: 'Open Sans', sans-serif;\n   font-size: 16px;\n   font-weight: 700;\n   color: #333333;\n}",
+  "unique_id": "prompt_generate_the_css_cod",
+  "schema_version": "1.0"
+}

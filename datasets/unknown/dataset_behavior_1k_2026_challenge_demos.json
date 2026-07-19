@@ -1,0 +1,30 @@
+{
+  "_id": "6a435df27fbca8cdd1e7a03d",
+  "id": "behavior-1k/2026-challenge-demos",
+  "author": "behavior-1k",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-18T00:09:08.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "db321be7b4bb9f7f8da86147bbe88f1443742352",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tBEHAVIOR-1K 2026 Challenge Demos\n\t\n\nThis dataset contains BEHAVIOR-1K 2026 challenge demonstration trajectories in LeRobotDataset v3 format.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Statistics\n\t\n\n\nTasks: 100\nEpisodes: 20,000\nFrames: 210,916,774\nSize: approximately 3.0 TB\nData shards: 955 Parquet files\nVideo files: 17,093 MP4 files\nVideo features: 6\n\n\n\t\n\t\t\n\t\n\t\n\t\tFormat\n\t\n\nThe repository follows the LeRobotDataset v3 layout:\n\nmeta/info.json: dataset schema and path templates\nmeta/stats.json: feature… See the full description on the dataset page: https://huggingface.co/datasets/behavior-1k/2026-challenge-demos.",
+  "downloads": 49246,
+  "tags": [
+    "license:mit",
+    "modality:video",
+    "region:us",
+    "lerobot",
+    "lerobot-v3",
+    "behavior-1k",
+    "omnigibson",
+    "robotics",
+    "imitation-learning",
+    "embodied-ai",
+    "manipulation"
+  ],
+  "createdAt": "2026-06-30T06:10:58.000Z",
+  "key": "",
+  "unique_id": "dataset_behavior_1k_2026_challenge_demos",
+  "schema_version": "1.0"
+}

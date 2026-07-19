@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.20457v1",
+  "schema_version": "1.0",
+  "name": "Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.20457v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.20457v1",
+    "updated": "2026-06-18T16:40:02Z",
+    "published": "2026-06-18T16:40:02Z",
+    "title": "Repurposing a Speech Classifier for Guided Diffusion-Based Speech Generation",
+    "summary": "Classifier guidance is a way to control diffusion generation by using a noise-conditioned classifier to steer the sampling process toward a target class. One drawback of classifier guidance is that it requires two separately trained models: a classifier and a diffusion model. We therefore study a more compact alternative in which a conventionally trained speech classifier is repurposed as the backbone for diffusion generation. Starting from a frozen noise-conditioned classifier in log-Mel space, we attach a lightweight subnetwork that reuses intermediate classifier representations and train only this subnetwork under a Denoising Score Matching objective. Our work shows that a pretrained classifier can be repurposed for conditional generation, providing an appealing bridge between discriminative modeling and conditional speech synthesis resulting in high speech quality within a single-backbone model, with reduced memory footprint and computational cost.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T16:40:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.20457v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

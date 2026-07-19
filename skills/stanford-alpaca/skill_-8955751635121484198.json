@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8955751635121484198",
+  "skill_name": "What type of error is the following piece of code producing?\n\ndef print_hello():\nprint(\"Goodbye\")",
+  "workflow": "This is a syntax error because the code is attempting to execute a function without a return statement. The function should be written as `def print_hello(): return \"Goodbye\"` instead.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

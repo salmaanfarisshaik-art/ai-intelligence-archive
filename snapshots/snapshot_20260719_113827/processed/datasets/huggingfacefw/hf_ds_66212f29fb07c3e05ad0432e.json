@@ -1,0 +1,49 @@
+{
+  "unique_id": "hf_ds_66212f29fb07c3e05ad0432e",
+  "schema_version": "1.0",
+  "name": "HuggingFaceFW/fineweb",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\t🍷 FineWeb\n\t\n\n\n    \n\n\n\n15 trillion tokens of the finest data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThe 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data processing pipeline is optimized for LLM performance and ran on the 🏭 datatrove library, our large scale data processing library. \n🍷 FineWeb was originally meant to be a fully open replication of 🦅 RefinedWeb, with a… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb.",
+  "size": "630645",
+  "source_url": "https://huggingface.co/datasets/HuggingFaceFW/fineweb",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "66212f29fb07c3e05ad0432e",
+    "id": "HuggingFaceFW/fineweb",
+    "author": "HuggingFaceFW",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-07-11T20:16:53.000Z",
+    "likes": 2947,
+    "private": false,
+    "sha": "9bb295ddab0e05d785b879661af7260fed5140fc",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\t🍷 FineWeb\n\t\n\n\n    \n\n\n\n15 trillion tokens of the finest data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThe 🍷 FineWeb dataset consists of more than 18.5T tokens (originally 15T tokens) of cleaned and deduplicated english web data from CommonCrawl. The data processing pipeline is optimized for LLM performance and ran on the 🏭 datatrove library, our large scale data processing library. \n🍷 FineWeb was originally meant to be a fully open replication of 🦅 RefinedWeb, with a… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb.",
+    "downloads": 630645,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:odc-by",
+      "size_categories:10B<n<100B",
+      "modality:tabular",
+      "modality:text",
+      "arxiv:2306.01116",
+      "arxiv:2109.07445",
+      "arxiv:2406.17557",
+      "doi:10.57967/hf/2493",
+      "region:us"
+    ],
+    "createdAt": "2024-04-18T14:33:13.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:15.858854+00:00",
+  "last_updated": "2025-07-11T20:16:53.000Z",
+  "links": {
+    "related_models": [
+      "datasets/HuggingFaceFW"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a dataframe of employee records, group the employees by age and gender.",
+  "input": "Employees DF:\nName | Age | Gender\nJohn | 35 | Male\nKendra | 25 | Female\nJared | 21 | Male\nRita | 32 | Female",
+  "output": "Group 1 (Male): John (35 years old), Jared (21 years old)\nGroup 2 (Female): Kendra (25 years old), Rita (32 years old)",
+  "unique_id": "prompt_given_a_dataframe_of",
+  "schema_version": "1.0"
+}

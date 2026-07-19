@@ -1,0 +1,7 @@
+{
+  "instruction": "Create 3 sample HTTP requests to add a new user to a database.",
+  "input": "",
+  "output": "Request 1:\nPOST /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 2:\nPUT /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 3:\nPOST /user/add HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}",
+  "unique_id": "prompt_create_3_sample_http",
+  "schema_version": "1.0"
+}

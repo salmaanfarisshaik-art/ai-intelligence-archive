@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2624740691302204488",
+  "technique_name": "Given a list of names, create a function to find the longest name.",
+  "description": "def find_longest_name(names): \n  longest_name = \"\"\n  for name in names:\n    if len(name) > len(longest_name):\n      longest_name = name\n  return longest_name\n  \nprint(find_longest_name([\"James\", \"Maria\", \"Robert\"]))\n\n# Output: Robert",
+  "example": "James, Maria, Robert",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

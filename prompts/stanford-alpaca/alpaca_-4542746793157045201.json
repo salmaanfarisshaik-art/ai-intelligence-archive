@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4542746793157045201",
+  "technique_name": "Write a Python program to check if a given string is a palindrome or not.",
+  "description": "def is_palindrome(string):\n    # remove punctuation and whitespace\n    cleaned_string = \"\".join(filter(str.isalnum, string)).lower() \n    # check if the string is the same in reverse\n    return cleaned_string == cleaned_string[::-1]",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

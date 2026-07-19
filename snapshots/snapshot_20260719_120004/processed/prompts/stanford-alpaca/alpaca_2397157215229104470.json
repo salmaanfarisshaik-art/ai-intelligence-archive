@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2397157215229104470",
+  "technique_name": "Generate an algorithm for solving the given problem",
+  "description": "Step 1: Traverse the 2D array and create a trie of all possible words.\n\nStep 2: Starting from the top-left character, perform a deep-first search for all valid words.\n\nStep 3: For each traversal, check if the current character is present in the trie.\n\nStep 4: If the character is present, mark the character as visited and add it to the current word and recursively go through all its neighbors.\n\nStep 5: If the character is not present in the trie, mark it as unvisited and return.\n\nStep 6: If the c",
+  "example": "Given a 2D array of characters, print all valid words that can be formed in the array.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

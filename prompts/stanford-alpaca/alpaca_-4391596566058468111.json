@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4391596566058468111",
+  "technique_name": "Identify the error in the following HTML code and explain how to fix it.",
+  "description": "The error in this code is that the <head> tag is not closed correctly. The tag should be closed with the same tag that was used to open it, so the correct code should be:\n\n<html>\n<head>\n<title>My Homepage</title>\n</head>\n</html>",
+  "example": "<html>\n<head>\n<title>My Homepage\n</head>\n</html>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

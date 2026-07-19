@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a hashtable in Java.",
+  "input": "",
+  "output": "A hashtable in Java can be created using the java.util.Hashtable class. The Hashtable class is a concrete implementation of the Map interface and provides the base for adding and looking up key/value pairs. The keys must be objects, and the values can be either objects or primitive data types such as int, boolean, and double. To create a hashtable, first create a new instance of the Hashtable class, then use the put() and get() methods to add and retrieve key/value pairs.",
+  "unique_id": "prompt_create_a_hashtable_i",
+  "schema_version": "1.0"
+}

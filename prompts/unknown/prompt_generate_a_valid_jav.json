@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a valid JavaScript code to check if a given input is a positive number",
+  "input": "",
+  "output": "function isPositive(num) {\n    if (typeof num == 'number' && num > 0) {\n        return true;\n    } else {\n        return false;\n    }\n}",
+  "unique_id": "prompt_generate_a_valid_jav",
+  "schema_version": "1.0"
+}

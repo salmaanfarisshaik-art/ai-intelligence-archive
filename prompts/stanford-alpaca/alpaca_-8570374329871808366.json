@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8570374329871808366",
+  "technique_name": "Create a data structure for storing the scores of a high score list.",
+  "description": "A data structure for storing the scores of a high score list could be an array or a hash table. The array would store the scores in a fixed, predefined order, while the hash table would store them in a key/value pair that would be sorted according to the score. The hash table is the more common and efficient data structure in this instance because it allows for quick retrieval of records and simpler sorting according to score, which is necessary for a high score list.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

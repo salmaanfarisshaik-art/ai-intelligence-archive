@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a SQL query to display the names of all employees who work at a specific department.",
+  "input": "Department ID: 21",
+  "output": "SELECT name FROM Employees\nWHERE department_id = 21;",
+  "unique_id": "prompt_create_a_sql_query_t",
+  "schema_version": "1.0"
+}

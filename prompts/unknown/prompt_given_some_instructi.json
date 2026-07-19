@@ -1,0 +1,7 @@
+{
+  "instruction": "Given some instructions, generate a program to display integers from 1 to 50.",
+  "input": "",
+  "output": "def display_integers():\n    for i in range(1, 51):\n        print(i)\n\ndisplay_integers()",
+  "unique_id": "prompt_given_some_instructi",
+  "schema_version": "1.0"
+}

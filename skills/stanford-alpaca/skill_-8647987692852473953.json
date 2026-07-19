@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8647987692852473953",
+  "skill_name": "You are given a set of numbers. Write the code to count how many numbers are divisible by 3 and 5.",
+  "workflow": "count = 0\nfor num in [5, 9, 10, 15, 16, 20, 25, 30]:\n    if num % 3 == 0 and num % 5 == 0:\n        count += 1\nprint(count)\n \nOutput:\n3",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

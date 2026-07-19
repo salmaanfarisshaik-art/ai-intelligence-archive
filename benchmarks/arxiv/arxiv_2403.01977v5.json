@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2403.01977v5",
+  "schema_version": "1.0",
+  "name": "Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2403.01977v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2403.01977v5",
+    "updated": "2026-07-16T16:33:43Z",
+    "published": "2024-03-04T12:20:29Z",
+    "title": "Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation",
+    "summary": "Navigation in the natural world is a feat of adaptive inference, where biological organisms maintain goal-directed behaviour despite noisy and incomplete sensory streams. Central to this ability is the Free Energy Principle (FEP), which posits that perception is a generative process where the brain minimises Variational Free Energy (VFE) to maintain accurate internal models of the world. While Deep Neural Networks (DNNs) have served as powerful analogues for biological brains, they typically lack the real-time plasticity required to handle abrupt sensory shifts. We introduce FEP-Nav, a biologically inspired framework for real-time perceptual adaptation in robust visual navigation. Motivated by the decomposition of VFE into prediction error and Bayesian surprise, FEP-Nav combines a Top-down Decoder, which provides an internal expectation of uncorrupted sensory input, with Adaptive Normalisation, which adjusts shifted feature distributions toward prior statistics. We interpret reconstruction and normalisation as approximate mechanisms for reducing the corresponding VFE-related terms during inference without gradient-based updates. Experiments across simulated and real-world visual corruptions show that FEP-Nav restores performance lost under visual corruption, outperforming non-adaptive baselines and strong adaptive methods. These results suggest that variational principles can provide a useful design perspective for robust autonomous behaviour under degraded sensory conditions.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T16:33:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2403.01977v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

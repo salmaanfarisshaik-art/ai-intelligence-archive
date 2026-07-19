@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6395412511623609566",
+  "skill_name": "Write a Python function that encrypts a message using the Caesar cipher.",
+  "workflow": "def caesar_encrypt(message, key):\n    encrypted_message = \"\"\n    for char in message:\n        if char.isalpha():\n            num = ord(char)\n            num += key\n            if char.isupper():\n                if num > ord('Z'):\n                    num -= 26\n                elif num < ord('A'):\n                    num += 26\n            elif char.islower():\n                if num > ord('z'):\n                    num -= 26\n                elif num < ord('a'):\n                    num += 26\n        ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Update the information in the table with the new dataset.",
+  "input": "+-------------------+\n| Country | Income |\n+-------------------+\n| France | 50000  |\n| Spain  | 70000  |\n+-------------------+\nNew Dataset:\n+-------------------+\n| Country | Income |\n+-------------------+\n| France | 60000  |\n| Spain  | 80000  |\n| Italy  | 90000  |\n+-------------------+",
+  "output": "The updated table is as follows:\n\n+-------------------+\n| Country | Income |\n+-------------------+\n| France | 60000  |\n| Spain  | 80000  |\n| Italy  | 90000  |\n+-------------------+",
+  "unique_id": "prompt_update_the_informati",
+  "schema_version": "1.0"
+}

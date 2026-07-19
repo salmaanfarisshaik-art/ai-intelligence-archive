@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6357641115784270310",
+  "skill_name": "Construct a query to find all the houses located in New York City",
+  "workflow": "The following query can be used to find all houses located in New York City: \n\nSELECT * FROM houses \nWHERE city = 'New York City'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

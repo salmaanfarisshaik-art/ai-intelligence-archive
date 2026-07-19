@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2219351475292993824",
+  "technique_name": "Given the parameters of the user, write a query to select a suitable car.",
+  "description": "SELECT * FROM cars WHERE used = TRUE AND seating_capacity = 5 AND economical = TRUE;",
+  "example": "The user is looking for an economical, used car with a seating capacity of 5.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

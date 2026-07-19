@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6730423597105006976",
+  "technique_name": "Design an algorithm to find the maximum profit of a stock buy and sell?",
+  "description": "def maxProfit(prices):\n    min_price = float('inf')\n    max_profit = 0\n\n    for price in prices:\n        min_price = min(min_price, price) \n        profit = price - min_price\n        max_profit = max(max_profit, profit)\n\n    return max_profit",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

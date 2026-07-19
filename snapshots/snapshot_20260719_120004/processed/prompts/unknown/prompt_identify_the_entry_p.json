@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify the entry point of this piece of code.",
+  "input": "int main(int argc, char **argv) \n{\n    int a;\n    a = 5;\n    printf(\"a is %d\\n\", a);\n    return 0;\n}",
+  "output": "The entry point of this code is the main() function.",
+  "unique_id": "prompt_identify_the_entry_p",
+  "schema_version": "1.0"
+}

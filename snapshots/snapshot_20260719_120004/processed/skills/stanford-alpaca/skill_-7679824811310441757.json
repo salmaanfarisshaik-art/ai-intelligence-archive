@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7679824811310441757",
+  "skill_name": "Calculate each department’s budget-to-salary ratio",
+  "workflow": "SELECT d.name, (d.budget/ SUM(i.salary)) as budget_salary_ratio FROM instructor i JOIN department d ON i.dept_name = d.name GROUP BY i.dept_name;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

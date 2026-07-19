@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a database table, generate 5 useful SQL queries",
+  "input": "Table Schema:\n\nbooks(id,title,author,genre,price)",
+  "output": "1. SELECT AVG(price) FROM books;\n2. SELECT title, author FROM books WHERE genre='horror';\n3. SELECT COUNT(*) FROM books WHERE price>20;\n4. SELECT * FROM books WHERE author='John Doe';\n5. SELECT title, price FROM books WHERE price>15 ORDER BY price ASC;",
+  "unique_id": "prompt_given_a_database_tab",
+  "schema_version": "1.0"
+}

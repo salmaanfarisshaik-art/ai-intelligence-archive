@@ -1,0 +1,7 @@
+{
+  "instruction": "Provide a computer code snippet to sort an array.",
+  "input": "[2, 6, 3, 7, 1, 4]",
+  "output": "let array = [2, 6, 3, 7, 1, 4];\narray.sort((a,b) => (a - b)); // [1, 2, 3, 4, 6, 7]",
+  "unique_id": "prompt_provide_a_computer_c",
+  "schema_version": "1.0"
+}

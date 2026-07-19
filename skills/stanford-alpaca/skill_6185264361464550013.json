@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6185264361464550013",
+  "skill_name": "Create a workflow to automatically classify emails as either important or not important.",
+  "workflow": "The workflow to classify emails as either important or not important would involve creating a model to process the incoming emails. This model could use criteria such as sender or keyword to flag certain emails as important. These flagged emails could then be sent to an automated sorting step for further processing. Depending on the outcome, emails could be routed to to different workers for further action, or sent straight to the archive for storage.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

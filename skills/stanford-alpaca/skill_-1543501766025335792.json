@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1543501766025335792",
+  "skill_name": "Generate an algorithm to calculate letter frequency in a given sentence.",
+  "workflow": "Algorithm:\n\n1. Initialize an empty dictionary to store results\n2. Loop through the given sentence and get each letter\n3. If the letter is already in the dictionary, increment the count by 1\n4. If the letter is not present in the dictionary, add the letter to the dictionary and set the count to 1\n5. Repeat steps 2 and 3 till the end of the sentence\n6. Return the result dictionary",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

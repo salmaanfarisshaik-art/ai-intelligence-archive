@@ -1,0 +1,7 @@
+{
+  "instruction": "What type of error is the following piece of code producing?\n\ndef print_hello():\nprint(\"Goodbye\")",
+  "input": "",
+  "output": "This is a syntax error because the code is attempting to execute a function without a return statement. The function should be written as `def print_hello(): return \"Goodbye\"` instead.",
+  "unique_id": "prompt_what_type_of_error_i",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5798075468650762466",
+  "technique_name": "Complete the proof for why the converse of the Pythagorean Theorem is false.",
+  "description": "Suppose we let A, B, and C represent the sides of a triangle such that C is the longest side and A² + B² = C². This is the Pythagorean Theorem. If we assume the converse, namely that A² + B² = C² implies C is the longest side, then there is a possibility of a triangle where A > C or B > C. This contradicts the original assumption that C is the longest side of the triangle, therefore proving that the converse of the Pythagorean Theorem is false.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

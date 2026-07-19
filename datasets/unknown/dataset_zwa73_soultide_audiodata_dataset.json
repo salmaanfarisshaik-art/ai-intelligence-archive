@@ -1,0 +1,28 @@
+{
+  "_id": "67fcdcf7939ec0279e329123",
+  "id": "zwa73/SoulTide-AudioData-Dataset",
+  "author": "zwa73",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-02T11:54:24.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "f2fa760be011f11bdf49f85f34053aafcdb0f067",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\t目录结构\n\t\n\ncharacter/\n└── [char]/\n    ├── resource/\n    │   ├── audio/      | 原始音频\n    │   ├── srt/        | 原始srt\n    │   └── processed/  | 利用 Process-Resource 根据原始资源处理后的资源\n    ├── recognized/     | Whisper-LargeV2 识别的srt\n    ├── calibrated/     | 人工校准的srt\n    └── tmp/            | build临时文件\n\n\n\t\n\t\t\n\t\n\t\n\t\t工具\n\t\n\n搭配此管理器来生成所需的训练集:https://github.com/Sosarciel/SoulTide-AudioData-Manager  \n搭配此图形工具快速的人工校准任何字幕模型(例Whisper)的生成结果:https://github.com/Sosarciel/Audio-Dataset-Studio… See the full description on the dataset page: https://huggingface.co/datasets/zwa73/SoulTide-AudioData-Dataset.",
+  "downloads": 79064,
+  "tags": [
+    "language:ja",
+    "license:cc0-1.0",
+    "size_categories:1K<n<10K",
+    "format:audiofolder",
+    "modality:audio",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-04-14T10:01:27.000Z",
+  "key": "",
+  "unique_id": "dataset_zwa73_soultide_audiodata_dataset",
+  "schema_version": "1.0"
+}

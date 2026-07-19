@@ -1,0 +1,7 @@
+{
+  "instruction": "Find all elements with the class \"box\" in the given html section, and remove them. Output the entire html section without the class \"box\" boxes.",
+  "input": "<div class=\"header\">\n    <div class=\"box\">\n        <h1>Header</h1>\n    </div>\n    <div class=\"box\">\n        <h2>Sub-header</h2>\n    </div>\n</div>",
+  "output": "<div class=\"header\">\n    <h1>Header</h1>\n    <h2>Sub-header</h2>\n</div>",
+  "unique_id": "prompt_find_all_elements_wi",
+  "schema_version": "1.0"
+}

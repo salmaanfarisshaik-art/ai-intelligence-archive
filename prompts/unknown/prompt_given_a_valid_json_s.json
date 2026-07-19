@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a valid JSON string, convert it into YAML format.",
+  "input": "{\"foo\": \"bar\", \"baz\": false}",
+  "output": "foo: bar \nbaz: false",
+  "unique_id": "prompt_given_a_valid_json_s",
+  "schema_version": "1.0"
+}

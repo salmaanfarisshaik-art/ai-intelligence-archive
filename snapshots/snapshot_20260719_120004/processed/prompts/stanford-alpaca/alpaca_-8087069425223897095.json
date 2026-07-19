@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8087069425223897095",
+  "technique_name": "Write a Java program which finds the maximum number from a given array",
+  "description": "public class MaxNumber {\n    public static int findMax(int[] arr) {\n        int max = Integer.MIN_VALUE;\n        for (int i=0; i < arr.length; i++) {\n            if (arr[i] > max) {\n                max = arr[i];\n            }\n        }\n        return max;\n    }\n\n    public static void main(String[] args) {\n        int[] numbers = {2, 3, 1, 5, 9};\n        int max = findMax(numbers);\n        System.out.println(\"The maximum number is: \" + max);\n    }\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

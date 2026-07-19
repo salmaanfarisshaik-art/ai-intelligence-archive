@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8553204412896926794",
+  "technique_name": "Write an algorithm for bubble sorting.",
+  "description": "def BubbleSort(list): \n    for i in range(len(list)-1): \n        for j in range(0, len(list)-1-i): \n            if list[j] > list[j+1]: \n                list[j], list[j+1] = list[j+1], list[j] \n    return list",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

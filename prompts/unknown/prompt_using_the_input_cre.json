@@ -1,0 +1,7 @@
+{
+  "instruction": "Using the input, create a view in the database.",
+  "input": "Table: Students",
+  "output": "CREATE VIEW Students_view AS \nSELECT *\nFROM Students;",
+  "unique_id": "prompt_using_the_input_cre",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5783714018302114202",
+  "skill_name": "Create a function to check is a list is sorted in ascending order.",
+  "workflow": "def is_sorted_asc(list):\n    for i in range(len(list) - 1):\n        if list[i] > list[i + 1]:\n            return False\n    return True",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

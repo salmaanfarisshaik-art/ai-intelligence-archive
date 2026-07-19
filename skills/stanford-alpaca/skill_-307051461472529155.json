@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-307051461472529155",
+  "skill_name": "Read the instructions and create an algorithm to complete them.",
+  "workflow": "// Algorithm to find maximum value in an array of integers\n// Problem: Given an array of integers, find the maximum value\n \n// Step 1: Initialize max value to first element of array\nmax = arr[0]\n \n// Step 2: Iterate through the array\nfor (int i = 1; i < arr.length; i++) {\n    // Step 3: compare current element of array with max\t\n    if (arr[i] > max) {\t \n        // Step 4: \n        // if current element > max, then set max to current element of array\n        max = arr[i]\n    }\n}\n\n// Step 5: Retu",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

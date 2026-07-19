@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a form for people to sign up for a newsletter.",
+  "input": "",
+  "output": "<html>\n  <body>\n    <form action=\"signup.php\" method=\"post\">\n      <h2>Sign up for our Newsletter</h2>\n      <label for=\"firstname\">First Name: </label>\n      <input type=\"text\" id=\"firstname\" name=\"firstname\" placeholder=\"Enter your first name\">\n      <label for=\"lastname\">Last Name: </label>\n      <input type=\"text\" id=\"lastname\" name=\"lastname\" placeholder=\"Enter your last name\">\n      <label for=\"email\">Email Address: </label>\n      <input type=\"text\" id=\"email\" name=\"email\" placeholder=\"Enter your email address\">\n      <br><br>\n      <input type=\"submit\" value=\"Sign up\">\n    </form>\n  </body>\n</html>",
+  "unique_id": "prompt_create_a_form_for_pe",
+  "schema_version": "1.0"
+}

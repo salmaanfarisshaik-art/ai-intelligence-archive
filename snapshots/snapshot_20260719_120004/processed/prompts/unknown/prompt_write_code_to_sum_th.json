@@ -1,0 +1,7 @@
+{
+  "instruction": "Write code to sum the given array elements.",
+  "input": "[1, 2, 3, 4, 5]",
+  "output": "let arr = [1, 2, 3, 4, 5];\nlet sum = 0;\n\nfor (let i=0; i < arr.length; i++){\n    sum += arr[i];\n}\n\nconsole.log(sum); // 15",
+  "unique_id": "prompt_write_code_to_sum_th",
+  "schema_version": "1.0"
+}

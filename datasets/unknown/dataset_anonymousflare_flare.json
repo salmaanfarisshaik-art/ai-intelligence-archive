@@ -1,0 +1,32 @@
+{
+  "_id": "69fb76053520ab841f1361f8",
+  "id": "AnonymousFLARE/FLARE",
+  "author": "AnonymousFLARE",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-07T11:55:18.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "ed89d868647a3658fe6989ba06b7a7117c2624d9",
+  "description": "\n  \n\n\nFLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries\n\n\n\t\n\t\t\n\t\t🤗 About This Benchmark\n\t\n\nThis repository hosts the full release of FLARE: Full-Modality Long-Video Audiovisual Retrieval Benchmark with User-Simulated Queries. FLARE screens 399 long-form videos (10–60 min, 225.4 h total) from Video-MME and segments them into 87,697 fine-grained clips, each annotated with three captions — vision-only, audio-only, and unified audiovisual — and… See the full description on the dataset page: https://huggingface.co/datasets/AnonymousFLARE/FLARE.",
+  "downloads": 31893,
+  "tags": [
+    "task_categories:video-text-to-text",
+    "license:cc-by-4.0",
+    "size_categories:100K<n<1M",
+    "format:json",
+    "modality:text",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "benchmark",
+    "multimodal retrieval"
+  ],
+  "createdAt": "2026-05-06T17:10:29.000Z",
+  "key": "",
+  "unique_id": "dataset_anonymousflare_flare",
+  "schema_version": "1.0"
+}

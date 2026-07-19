@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6512757262497755341",
+  "technique_name": "Convert the instructions into a readable format.",
+  "description": "When creating tasks for a GPT model: \n- Try to use different verbs and language to increase diversity. \n- Use diverse types of tasks, such as generation, classification, and editing. \n- The instructions should be in English, and no longer than 2 sentences. \n- Provide an appropriate input with a specific example that involves realistic data and should not exceed 100 words. \n- If not required, use \"<noinput>\" in the input field. \n- Evaluate the output so it is an appropriate response to the instru",
+  "example": "1. Try not to repeat the verb for each instruction to maximize diversity.\n2. The language used for the instruction also should be diverse. For example, you should combine questions with imperative instrucitons.\n3. The type of instructions should be diverse. The list should include diverse types of tasks like open-ended generation, classification, editing, etc.\n2. A GPT language model t should be able to complete the instruction. For example, do not ask the assistant to create any visual or audio output. For another example, do not ask the assistant to wake you up at 5pm or set a reminder because it cannot perform any action.\n3. The instructions should be in English.\n4. The instructions should be 1 to 2 sentences long. Either an imperative sentence or a question is permitted.\n5. You should generate an appropriate input to the instruction. The input field should contain a specific example provided for the instruction. It should involve realistic data and should not contain simple placeholders. The input should provide substantial content to make the instruction challenging but should ideally not exceed 100 words.\n6. Not all instructions require input. For example, when a instruction asks about some general information, \"what is the highest peak in the world\", it is not necssary to provide a specific context. In this case, we simply put \"<noinput>\" in the input field.\n7. The output should be an appropriate response to the instruction and the input. Make sure the output is less than 100 words.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

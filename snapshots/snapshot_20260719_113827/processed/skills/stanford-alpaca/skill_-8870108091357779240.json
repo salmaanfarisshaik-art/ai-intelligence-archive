@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8870108091357779240",
+  "skill_name": "Provide an example of a code written in Java that prints out the current date and time.",
+  "workflow": "import java.time.LocalDateTime;\n \npublic class DateTimeExample {\n   public static void main(String[] args) {\n      LocalDateTime currentTime = LocalDateTime.now();\n      System.out.println(currentTime);\n   }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

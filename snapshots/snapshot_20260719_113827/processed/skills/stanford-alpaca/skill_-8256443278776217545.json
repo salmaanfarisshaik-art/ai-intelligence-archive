@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8256443278776217545",
+  "skill_name": "Generate a c++ program to print the square of a number.",
+  "workflow": "#include <iostream>\nusing namespace std; \n\nint main() \n{ \n    int num; \n    cout << \"Enter a number: \"; \n    cin >> num; \n    cout << \"Square of \" << num << \" is \" << num * num << endl; \n  \n    return 0; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

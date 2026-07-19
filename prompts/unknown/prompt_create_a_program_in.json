@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a program in Python to calculate the volume of a cylinder.",
+  "input": "The radius = 5\nThe height = 8",
+  "output": "import math\n\ndef cylinder_volume(radius, height):\n  # Calculate the volume of a cylinder\n  base_area = math.pi * radius**2\n  volume = base_area * height\n \n  # Print the result\n  print(\"The volume of the cylinder is\", volume)\n \ncylinder_volume(5, 8)",
+  "unique_id": "prompt_create_a_program_in",
+  "schema_version": "1.0"
+}

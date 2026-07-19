@@ -1,0 +1,7 @@
+{
+  "instruction": "Apply the changes requested in the comment for the following piece of code.",
+  "input": "def buy_book(bookID, shippingAddress, paymentMethod):\n    \"\"\"Purchase a book with given ID and ship it to the address provided\"\"\"\n    # TODO: Reject payment if the payment method is \"cash\"\n    # TODO: Calculate shipping cost using the shipping address\n    print(\"Book purchased\")",
+  "output": "def buy_book(bookID, shippingAddress, paymentMethod):\n    \"\"\"Purchase a book with given ID and ship it to the address provided\"\"\"\n    # Reject payment if the payment method is \"cash\"\n    if paymentMethod == \"cash\":\n      return \"Payment not accepted\"\n    # Calculate shipping cost using the shipping address\n    shippingCost = calculate_shipping_cost(shippingAddress)\n    print(\"Book purchased\")",
+  "unique_id": "prompt_apply_the_changes_re",
+  "schema_version": "1.0"
+}

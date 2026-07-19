@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a media query that makes the content scale to device width",
+  "input": "",
+  "output": "@media all and (max-width: 100%) { \n  content {\n    width: 100%;\n  } \n}",
+  "unique_id": "prompt_generate_a_media_que",
+  "schema_version": "1.0"
+}

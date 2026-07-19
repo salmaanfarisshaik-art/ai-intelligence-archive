@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a Regex statement to extract the links from given text.",
+  "input": "The following page has a list of useful links: www.example.com/links",
+  "output": "\\s(https?://[^\\s]+)\\s",
+  "unique_id": "prompt_construct_a_regex_st",
+  "schema_version": "1.0"
+}

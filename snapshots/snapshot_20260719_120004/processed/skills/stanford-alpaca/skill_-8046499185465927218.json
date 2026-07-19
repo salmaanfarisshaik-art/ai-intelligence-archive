@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8046499185465927218",
+  "skill_name": "Construct a query to retrieve the count of orders by customer id.",
+  "workflow": "SELECT customer_id, COUNT(*) as order_count FROM orders GROUP BY customer_id;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

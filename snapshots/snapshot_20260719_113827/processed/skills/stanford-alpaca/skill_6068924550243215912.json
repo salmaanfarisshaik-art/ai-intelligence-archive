@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6068924550243215912",
+  "skill_name": "Review the following code snippet and suggest any improvements.",
+  "workflow": "list1 = [1, 2, [3, 4]]\nlist2 = [5, 6]\nlist1.extend(list2) # extend operates on list elements rather than appending the entire list",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

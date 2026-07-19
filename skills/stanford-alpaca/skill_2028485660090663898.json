@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2028485660090663898",
+  "skill_name": "Create an algorithm for finding the highest peak in the world",
+  "workflow": "1. Start with an initial list of potential peaks.\n2. Measure the height of each peak to determine the highest peak in the list. Return that peak if its height is greater than all other peaks in the list.\n3. If there are multiple peaks of the same height, select a subset of those peaks and repeat Step 2.\n4. If the highest peak in the subset is not the highest of all peaks in the initial list, add additional peaks to the list and repeat Step 2.\n5. Repeat Steps 2-4 until the highest peak in the lis",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

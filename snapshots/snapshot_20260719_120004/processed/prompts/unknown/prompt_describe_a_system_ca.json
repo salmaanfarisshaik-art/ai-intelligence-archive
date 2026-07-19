@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe a system capable of detecting hate speech in tweets.",
+  "input": "",
+  "output": "A system for detecting hate speech in tweets should first employ a technique for preprocessing the tweets, including tokenizing, token-level normalization (e.g. stemming and lemmatization), and removing stop words. Once the tweets are preprocessed, they can be distributed into clusters based on lexical similarity. Next, a text classification model such as a Naive Bayes or Support Vector Machine (SVM) can be used to classify the tweets into hate speech and non-hate speech. The text classification model should be trained on a dataset annotated with examples of hate speech and non-hate speech, with features such as N-grams and Part-of-Speech tags. Finally, the system should employ a mechanism for deciding when to flag a tweet as hate speech and when not to, depending on the confidence score output by the model.",
+  "unique_id": "prompt_describe_a_system_ca",
+  "schema_version": "1.0"
+}

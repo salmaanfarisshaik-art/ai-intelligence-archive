@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_684673816357071309",
+  "skill_name": "Create a database query to calculate the total sales in the past week.",
+  "workflow": "SELECT SUM(sales) FROM sales WHERE date > DATE_SUB(NOW(), INTERVAL 7 DAY)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

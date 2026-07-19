@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4708530171263216609",
+  "skill_name": "Develop an Algorithm to calculate the Greatest Common Divisor of two numbers.",
+  "workflow": "Here is an algorithm to calculate the Greatest Common Divisor (GCD) of two numbers:\n1. Start by making sure the two numbers are both positive.\n2. Divide the larger number by the smaller number and get the remainder.\n3. If the remainder is 0, then the smaller number is the GCD.\n4. If the remainder is not 0, then the smaller number becomes the new dividend and the remainder becomes the new divisor.\n5. Repeat steps 2 through 4 until the remainder is 0.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

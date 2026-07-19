@@ -1,0 +1,7 @@
+{
+  "instruction": "Go through the given set of facts and generate rules for them.",
+  "input": "A facts set about animals\n\nFACT 1: Elephants are bigger than cats\nFACT 2: Dogs bark\nFACT 3: Ducks can swim",
+  "output": "• Elephants are bigger animals than cats. \n• Dogs are animals that bark. \n• Ducks are animals that can swim.",
+  "unique_id": "prompt_go_through_the_given",
+  "schema_version": "1.0"
+}

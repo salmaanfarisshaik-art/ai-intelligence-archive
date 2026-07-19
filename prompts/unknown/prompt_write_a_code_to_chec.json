@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to check if a string contains more than 20 characters.",
+  "input": "",
+  "output": "def check_string_length(s):\n    if len(s) > 20:\n        return True\n    else:\n        return False`",
+  "unique_id": "prompt_write_a_code_to_chec",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_516598713380037927",
+  "technique_name": "Generate a computer program to remove all 'a' from a string",
+  "description": "def remove_a(string):\n    new_string = \"\"\n    for char in string:\n        if char != 'a':\n            new_string += char\n    return new_string\n\nresult = remove_a(\"abcabcabc\")\nprint(result)  # output: \"bcbcbc\"",
+  "example": "abcabcabc",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

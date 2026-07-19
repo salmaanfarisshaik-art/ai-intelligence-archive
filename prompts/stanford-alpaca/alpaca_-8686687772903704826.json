@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8686687772903704826",
+  "technique_name": "Write a Python program to find the factorial of the given number.",
+  "description": "def factorial(n):\n    # base case\n    if n == 0:\n        return 1\n\n    # recursive case\n    else:\n        return n*factorial(n - 1)\n\n# Input a number\nnum = int(input('Enter a number: '))\n\n# Output factorial of the number\nprint('The factorial of', num, 'is', factorial(num))",
+  "example": "7",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

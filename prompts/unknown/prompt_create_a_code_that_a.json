@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a code that accepts an array of numbers and doubles each of them.",
+  "input": "[1,2,3,4]",
+  "output": "// Function to double each element in an array\nfunction doubleArray(arr) {\n  //Loop over each element in the array\n  for (var i = 0; i < arr.length; i++) {\n    //Double the element\n    arr[i] = arr[i] * 2;\n  }\n  //Return the modified array\n  return arr;\n}",
+  "unique_id": "prompt_create_a_code_that_a",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Cross off the incorrect answers.",
+  "input": "Q.What is the capital of India? \nA. Mumbai\nB. New Delhi\nC. Chennai",
+  "output": "Q.What is the capital of India? \nA. ~~Mumbai~~ \nB.  New Delhi \nC.  ~~Chennai~~",
+  "unique_id": "prompt_cross_off_the_incorr",
+  "schema_version": "1.0"
+}

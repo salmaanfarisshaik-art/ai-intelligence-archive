@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18208v1",
+  "schema_version": "1.0",
+  "name": "Looped World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18208v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18208v1",
+    "updated": "2026-06-16T17:37:27Z",
+    "published": "2026-06-16T17:37:27Z",
+    "title": "Looped World Models",
+    "summary": "Current world models face a fundamental tension: faithful long-horizon simulation demands deep computation, but deeper models are expensive to deploy and prone to compounding errors. We resolve this by introducing Looped World Models (LoopWM), which are the first looped architectures for world modelling. Our method iteratively refines latent environment states through a parameter-shared transformer block. This yield up to 100x parameter efficiency over conventional approaches with adaptive computation that automatically scales depth to match the complexity of each prediction step. Orthogonal to scaling model size and training data, LoopWM establishes iterative latent depth as a new scaling axis for world simulation, which might significantly push the community forward.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:37:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18208v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

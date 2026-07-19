@@ -1,0 +1,7 @@
+{
+  "instruction": "Store the following records in a database table called 'countries'.",
+  "input": "Country | Currency | Nationality \nGermany | Euro | German",
+  "output": "Table: countries\nColumns: country, currency, nationality\nRows: \nGermany, Euro, German",
+  "unique_id": "prompt_store_the_following",
+  "schema_version": "1.0"
+}

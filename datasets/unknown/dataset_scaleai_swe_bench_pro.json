@@ -1,0 +1,29 @@
+{
+  "_id": "68ae11cd78570b7e4c66edba",
+  "id": "ScaleAI/SWE-bench_Pro",
+  "author": "ScaleAI",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-02-23T20:54:47.000Z",
+  "likes": 154,
+  "private": false,
+  "sha": "7ab5114912baf22bb098818e604c02fe7ad2c11f",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nSWE-Bench Pro is a challenging, enterprise-level dataset for testing agent ability on long-horizon software engineering tasks.\nPaper: https://static.scale.com/uploads/654197dc94d34f66c0f5184e/SWEAP_Eval_Scale%20(9).pdf\nSee the related evaluation Github: https://github.com/scaleapi/SWE-bench_Pro-os\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nWe follow SWE-Bench Verified (https://huggingface.co/datasets/SWE-bench/SWE-bench_Verified) in terms of dataset structure, with several… See the full description on the dataset page: https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro.",
+  "downloads": 60512,
+  "tags": [
+    "benchmark:official",
+    "benchmark:eval-yaml",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-08-26T19:58:05.000Z",
+  "key": "",
+  "unique_id": "dataset_scaleai_swe_bench_pro",
+  "schema_version": "1.0"
+}

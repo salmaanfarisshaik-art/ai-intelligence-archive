@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a hotel reservation system in pseudocode.",
+  "input": "",
+  "output": "FUNCTION make_reservation\nINPUT: customer info, check-in, check-out dates\n\nIF hotel has available room \n  reserve customer a room \n  CONFIRM reservation \nELSE \n  ALERT customer if no rooms are available \nEND IF \n\nRETURN customer confirmation \nEND FUNCTION",
+  "unique_id": "prompt_create_a_hotel_reser",
+  "schema_version": "1.0"
+}

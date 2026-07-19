@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a schema for a database table.",
+  "input": "The table will contain information about customers (name, address, email etc.)",
+  "output": "The customer database table should include the following columns: name, address, email, phone number, registration date, last updated date, and customer status. The customer name should include first and last name, the address should include address line 1 and address line 2, the email should be valid and unique, the phone number should follow a specific format, the registration date should default to the current date, the last updated date should indicate the last time the customer information was edited, and the customer status should indicate active, inactive, or pending.",
+  "unique_id": "prompt_construct_a_schema_f",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a Google calendar entry to remind the user to complete a given task.",
+  "input": "Task: \"Submit the report by tomorrow.\"",
+  "output": "Event: Submit Report\nDate: 11/01/2021\nTime: 5:00pm\nNote: Submit the report before tomorrow (11/02/2021).",
+  "unique_id": "prompt_create_a_google_cale",
+  "schema_version": "1.0"
+}

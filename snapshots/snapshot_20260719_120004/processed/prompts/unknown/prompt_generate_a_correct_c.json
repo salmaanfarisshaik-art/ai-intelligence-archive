@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a correct C++ program for the following logic.",
+  "input": "Given a positive number N, print the numbers from 1 to N in reverse order.",
+  "output": "#include<iostream>\n \nusing namespace std;\n \nint main()\n{\n    int n;\n    cin>>n;\n    for(int i=n;i>=1;i--){\n        cout << i << \" \";\n    }\n    return 0;\n}",
+  "unique_id": "prompt_generate_a_correct_c",
+  "schema_version": "1.0"
+}

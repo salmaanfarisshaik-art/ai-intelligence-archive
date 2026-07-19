@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5852353673036195441",
+  "skill_name": "Rewrite the following code in an object-oriented style.",
+  "workflow": "# Define a class to calculate the area of a rectangle\nclass RectangleAreaCalculator: \n    # Define a method to calculate the area \n    def calculate_area(self, length, width): \n        return length * width \n  \n# Test\nif __name__ == \"__main__\":\n    RAC = RectangleAreaCalculator()\n    print(RAC.calculate_area(2, 4))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

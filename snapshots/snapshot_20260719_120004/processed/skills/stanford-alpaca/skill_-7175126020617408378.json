@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7175126020617408378",
+  "skill_name": "Write a function to find the closest pair of elements in a sorted array.",
+  "workflow": "def closestPair(arr):\n  diff = float('inf')\n  num1 = 0\n  num2 = 0\n  for i in range(len(arr)-1):\n    temp_diff = arr[i+1] - arr[i]\n    if temp_diff < diff:\n      diff = temp_diff\n      num1 = arr[i]\n      num2 = arr[i+1]\n  return (num1, num2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

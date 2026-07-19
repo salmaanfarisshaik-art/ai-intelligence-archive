@@ -1,0 +1,7 @@
+{
+  "instruction": "Find the function that is called in this piece of code.",
+  "input": "sum_product(A, B, length):\n\ttotal = 0 \n\tfor i in range(0, length):\n\t\ttotal += A[i] * B[i]\n\treturn total",
+  "output": "The function called in this piece of code is `sum_product`.",
+  "unique_id": "prompt_find_the_function_th",
+  "schema_version": "1.0"
+}

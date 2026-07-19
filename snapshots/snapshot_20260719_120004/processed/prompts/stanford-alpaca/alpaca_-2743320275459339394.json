@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2743320275459339394",
+  "technique_name": "Create a programming algorithm that identifies the maximum value in a list of numbers.",
+  "description": "// algorithm to find the maximum value in a list of numbers\nmax_val = 0;\nfor (i = 0; i < list.length; i++) {\n  if(list[i] > max_val) {\n    max_val = list[i];\n  }\n}\n\n// return the maximum value\nreturn max_val; \n// returns 20",
+  "example": "[2, 5, 8, 10, 20, 15]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

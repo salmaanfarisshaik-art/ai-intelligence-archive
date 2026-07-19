@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3705421098912022753",
+  "skill_name": "Compute the area of the triangle using Cartesian coordinates.",
+  "workflow": "The area of the triangle is 15.\n\nProof:\n\nLet A (x1, y1), B (x2, y2) and C (x3, y3) be three points in the Cartesian plane. \n\nThe area of triangle ABC is given by:\n\nArea = 1/2 * |x1(y2 – y3) + x2(y3 – y1) + x3(y1 – y2)|\n  \n= 1/2 * |0(3 – 6) + 7(6 – 0) + 11(0 – 3)|\n\n= 1/2 * |0 – 21 + 42 + 0|\n\n= 15",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

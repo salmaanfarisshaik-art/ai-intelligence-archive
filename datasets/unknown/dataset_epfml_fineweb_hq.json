@@ -1,0 +1,32 @@
+{
+  "_id": "68b209361fda17d2b03263e4",
+  "id": "epfml/FineWeb-HQ",
+  "author": "epfml",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-09-30T10:12:10.000Z",
+  "likes": 9,
+  "private": false,
+  "sha": "e58199cdd52438d94405df1a4d8630cc5f13bf84",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb-HQ\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nFineWeb-HQ is a high-quality, model-filtered pretraining dataset derived as a subset of FineWeb. FineWeb-HQ was created by selecting the top 10% of FineWeb documents based on a deep learning classifier trained to identify structured and knowledge-rich samples. This classifier uses XLM-RoBERTa embeddings to score documents.\nTo validate our approach, we pretrained 1B-parameter LLM models with a Llama-like architecture across multiple… See the full description on the dataset page: https://huggingface.co/datasets/epfml/FineWeb-HQ.",
+  "downloads": 65668,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:odc-by",
+    "size_categories:1B<n<10B",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2502.10361",
+    "region:us"
+  ],
+  "createdAt": "2025-08-29T20:10:30.000Z",
+  "key": "",
+  "unique_id": "dataset_epfml_fineweb_hq",
+  "schema_version": "1.0"
+}

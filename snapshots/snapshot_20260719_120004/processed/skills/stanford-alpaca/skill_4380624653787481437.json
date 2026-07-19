@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4380624653787481437",
+  "skill_name": "Construct an SQL query to retrieve the customer identification and first name of customers who are younger than 30.",
+  "workflow": "SELECT CustomerID, FirstName FROM customers WHERE Age <30;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

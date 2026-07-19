@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6651615898987852957",
+  "technique_name": "Construct a regular expression to match a password which contains one or multiple lowercase letters and one or multiple uppercase letters.",
+  "description": "The regular expression to match a password which contains one or multiple lowercase letters and one or multiple uppercase letters is: ^(?=.*[a-z])(?=.*[A-Z])[a-zA-Z]+$",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

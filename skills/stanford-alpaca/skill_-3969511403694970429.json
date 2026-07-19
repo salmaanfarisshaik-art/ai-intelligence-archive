@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3969511403694970429",
+  "skill_name": "Parse the following JSON object.",
+  "workflow": "The input is a dictionary containing an array of dictionaries, each containing a name and price.\n \n names = [item['name'] for item in json_object['items']] \n prices = [item['price'] for item in json_object['items']]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

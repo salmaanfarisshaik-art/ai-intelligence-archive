@@ -1,0 +1,7 @@
+{
+  "instruction": "Make an API call to the given URL and print the output in the console.",
+  "input": "https://data.cityofnewyork.us/resource/fhrw-4uyv.json",
+  "output": "\"\"\"\nMake an API call to the given URL and print the output in the console\n\"\"\"\n\nimport requests \n\nurl = \"https://data.cityofnewyork.us/resource/fhrw-4uyv.json\" \nresponse = requests.get(url) \n\nif response.status_code == 200: \n    data = response.json() \n    print(data)",
+  "unique_id": "prompt_make_an_api_call_to",
+  "schema_version": "1.0"
+}

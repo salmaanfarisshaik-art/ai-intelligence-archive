@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2031816587951133781",
+  "skill_name": "Explain how to debug a function in Python.",
+  "workflow": "Debugging a function in Python can be done using the built in Python debugger, pdb. Using pdb, you can set breakpoints, step through code, and inspect variables and their values. To use pdb, you must first import the module, then place the line \"import pdb; pdb.set_trace()\" at the point in the code where you want to begin debugging. Alternately, you can run the code from the command line using the flag -m pdb, which will launch the debugger automatically at the start of the code.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

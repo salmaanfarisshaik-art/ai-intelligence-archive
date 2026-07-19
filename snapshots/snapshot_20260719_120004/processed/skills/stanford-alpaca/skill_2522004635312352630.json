@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2522004635312352630",
+  "skill_name": "Create a function that takes two strings and checks if they are an anagram of each other.",
+  "workflow": "def is_anagram(str1, str2):\n    char_map1 = {}\n    for char in str1:\n        if char in char_map1:\n            char_map1[char] += 1\n        else:\n            char_map1[char] = 1\n\n    char_map2 = {}\n    for char in str2:\n        if char in char_map2:\n            char_map2[char] += 1\n        else:\n            char_map2[char] = 1\n\n    if char_map1 != char_map2:\n        return False\n    else:\n        return True",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

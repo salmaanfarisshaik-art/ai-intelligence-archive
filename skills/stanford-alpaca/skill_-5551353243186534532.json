@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5551353243186534532",
+  "skill_name": "Write a script to check for missing values in a dataset.",
+  "workflow": "The following script can be used to check for missing values in a dataset: \n\n#import numpy library\nimport numpy as np\n\n#read in the dataset\ndataset = np.genfromtxt('dataset.csv', delimiter=',')\n\n#check for any null values in the dataset\nif np.isnan(dataset).any():\n    print(\"Missing values found!\")\nelse:\n    print(\"No missing values found!\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

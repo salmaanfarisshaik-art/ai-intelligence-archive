@@ -1,0 +1,25 @@
+{
+  "_id": "683e366d63e27c6256e80773",
+  "id": "hiepp2/tvp4",
+  "author": "hiepp2",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-18T00:48:37.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "011b417f2137c59602fb2a7f9beffc11f21a06ad",
+  "description": "\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset summary\n\t\n\nMixture-of-Thoughts is a curated dataset of 350k verified reasoning traces distilled from DeepSeek-R1. The dataset spans tasks in mathematics, coding, and science, and is designed to teach language models to reason step-by-step. It was used in the Open R1 project to train OpenR1-Distill-7B, an SFT model that replicates the reasoning capabilities of deepseek-ai/DeepSeek-R1-Distill-Qwen-7B from the same base model.\nTo load the dataset, run:\nfrom datasets import… See the full description on the dataset page: https://huggingface.co/datasets/hiepp2/tvp4.",
+  "downloads": 82181,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "size_categories:n>1T",
+    "arxiv:2504.21318",
+    "arxiv:2505.00949",
+    "region:us"
+  ],
+  "createdAt": "2025-06-02T23:40:29.000Z",
+  "key": "",
+  "unique_id": "dataset_hiepp2_tvp4",
+  "schema_version": "1.0"
+}

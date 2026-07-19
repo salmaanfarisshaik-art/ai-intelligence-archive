@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14586v1",
+  "schema_version": "1.0",
+  "name": "S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14586v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14586v1",
+    "updated": "2026-06-12T16:02:44Z",
+    "published": "2026-06-12T16:02:44Z",
+    "title": "S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning",
+    "summary": "Current representation learning paradigms force a fundamental compromise: self-supervised methods scale to massive datasets but yield opaque features, whereas interpretable models remain bottlenecked by the need for dense human annotation. We introduce Self-Supervised Concept discOvery via Preference lEarning (\\model), a label-free framework that resolves this dilemma. Instead of treating Vision-Large-Language Models (VLLMs) as static feature extractors, \\model leverages them as active participants in a self-supervised preference optimization loop. By autonomously hypothesizing, validating, and reinforcing candidate visual attributes directly from raw imagery, our framework discovers novel, structured concepts without a single label. Extensive experiments across natural, medical, and physics domains demonstrate that \\model successfully extracts domain-specific concepts where standard VLLMs often fail to generate. By amortizing concept discovery directly into the VLLM backbone through our self-supervised preference objective -- rather than relying on static generation and disjoint filtering -- we achieve up to a 24-point absolute improvement in downstream top-1 classification accuracy on unseen data. Our work suggest that interpretability can emerge through a model's autonomous interaction with incidental visual structures, without any human supervision.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:02:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14586v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

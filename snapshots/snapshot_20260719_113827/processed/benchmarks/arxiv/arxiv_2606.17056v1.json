@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.17056v1",
+  "schema_version": "1.0",
+  "name": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.17056v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.17056v1",
+    "updated": "2026-06-15T17:59:58Z",
+    "published": "2026-06-15T17:59:58Z",
+    "title": "The Value Axis: Language Models Encode Whether They're on the Right Track",
+    "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-context reinforcement learning data, we construct a \"value\" axis for Qwen3-8B. We find that activations along this axis distinguish between high vs. low verbalized confidence, rollouts without and with backtracking, and correct vs. corrupted code. Steering towards high value causally suppresses self-correction and reduces explanatory verbosity, while steering towards low value induces backtracking and exploration. We demonstrate that direct preference optimization (DPO) can increase the internal value of rewarded behaviors (e.g. use a certain word), causing the model to act more confidently after exhibiting them. Finally, we apply the value axis to study in-the-wild settings. For example, we find that Qwen assigns low value to politically sensitive chat queries after post-training and that supervised fine-tuning increases internal confidence within the training domain. Our results suggest that language models linearly encode an estimate of expected goal success that modulates their confidence in pursuing a direction.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T17:59:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.17056v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

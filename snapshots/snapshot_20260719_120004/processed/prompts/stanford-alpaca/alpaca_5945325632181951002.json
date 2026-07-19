@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5945325632181951002",
+  "technique_name": "Generate a report summarizing the information given in the table below.",
+  "description": "This report summarizes the information found in the provided table. It contains two categories, Machines and Animals. For Machines, there are 100 values in Value1 and 300 values in Value2. For Animals, there are 50 values in Value1 and 450 values in Value2. In conclusion, the highest number of values is found in the Animals category, with 450 values in Value2.",
+  "example": "Category|Value1|Value2\n--------|--------|--------\nMachines|100|300\nAnimals|50|450",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

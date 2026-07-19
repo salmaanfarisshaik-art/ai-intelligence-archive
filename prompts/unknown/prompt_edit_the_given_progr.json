@@ -1,0 +1,7 @@
+{
+  "instruction": "Edit the given program to create a loop that prints numbers from 1 to 10.",
+  "input": "for (int i = 1; i < 10; i++):",
+  "output": "for (int i = 1; i <= 10; i++) {\n    System.out.println(i);\n}",
+  "unique_id": "prompt_edit_the_given_progr",
+  "schema_version": "1.0"
+}

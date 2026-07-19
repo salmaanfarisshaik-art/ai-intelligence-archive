@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2834062971353017329",
+  "skill_name": "Create an algorithm that returns all prime numbers up to a certain input number",
+  "workflow": "def prime_numbers(upper_limit):\n    primes = []\n    for num in range(2, upper_limit+1): \n        if all(num % i != 0 for i in range(2, num)):\n           primes.append(num)\n    return primes",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

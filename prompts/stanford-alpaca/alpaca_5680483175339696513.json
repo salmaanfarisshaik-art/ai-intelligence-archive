@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5680483175339696513",
+  "technique_name": "Create a function to find the closest number to a given number.",
+  "description": "def closest_num(num, list):\n    closest = None\n    for i in list:\n        if closest is None or abs(num - i) < abs(num - closest):\n            closest = i\n    return closest\n\nclosest_num(10, [3, 5, 7, 8, 11, 16]) \n# Output: 8",
+  "example": "num = 10, list = [3, 5, 7, 8, 11, 16]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

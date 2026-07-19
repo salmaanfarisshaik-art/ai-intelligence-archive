@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5530175217590782488",
+  "technique_name": "Create a script to generate an array of random numbers.",
+  "description": "import random\ndef random_array(n):\n    arr = []\n    for i in range(n):\n        arr.append(random.randint(0, 100))\n    return arr",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

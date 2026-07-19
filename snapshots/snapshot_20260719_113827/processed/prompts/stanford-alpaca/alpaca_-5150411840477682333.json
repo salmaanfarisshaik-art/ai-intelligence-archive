@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5150411840477682333",
+  "technique_name": "Generate a script in Python which will convert given numbers in to words.",
+  "description": "def get_string(number):\n    if(number == 0): \n        return 'zero' \n    if (number < 0):  \n        return 'minus ' + get_string(-1 * number) \n       \n    if (number > 0): \n \n        a = [\"\",\"one \",\"two \",\"three \",\"four \", \"five \",\"six \",\"seven \",\"eight \",\"nine \",\"ten \",\"eleven \",\"twelve \",\"thirteen \",\"fourteen \",\"fifteen \",\"sixteen \",\"seventeen \",\"eighteen \",\"nineteen \"] \n         \n        b = [\"\",\"\",\"twenty \",\"thirty \",\"forty \", \"fifty \",\"sixty \",\"seventy \",\"eighty \",\"ninety \"] \n         \n    ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

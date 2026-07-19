@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a class in Python that represents a car",
+  "input": "",
+  "output": "class Car:\n    def __init__(self, make, model, year, color):\n        self.make = make\n        self.model = model\n        self.year = year\n        self.color = color\n        self.speed = 0\n    \n    def accelerate(self, amount):\n        self.speed += amount\n    \n    def brake(self, amount):\n        self.speed -= amount",
+  "unique_id": "prompt_create_a_class_in_py",
+  "schema_version": "1.0"
+}

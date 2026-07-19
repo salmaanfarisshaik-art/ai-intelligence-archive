@@ -1,0 +1,7 @@
+{
+  "instruction": "Parse this query and output the boundaries for each clause and provide the type of clause it is.",
+  "input": "What are the top 10 most populous cities in the US",
+  "output": "Clause 1: [0-15] - Select\nClause 2: [16-24] - Filter\nClause 3: [25-26] - Limit",
+  "unique_id": "prompt_parse_this_query_and",
+  "schema_version": "1.0"
+}

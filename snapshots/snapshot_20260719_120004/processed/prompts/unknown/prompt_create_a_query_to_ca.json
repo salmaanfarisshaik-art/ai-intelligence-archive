@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a query to calculate the average sale price for a product in 2016",
+  "input": "",
+  "output": "SELECT AVG(SalePrice) FROM Product WHERE YEAR(SaleDate) = 2016;",
+  "unique_id": "prompt_create_a_query_to_ca",
+  "schema_version": "1.0"
+}

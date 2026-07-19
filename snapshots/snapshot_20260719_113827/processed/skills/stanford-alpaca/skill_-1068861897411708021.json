@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1068861897411708021",
+  "skill_name": "Create an algorithm to detect passwords that contain personal information.",
+  "workflow": "Algorithm to detect passwords that contain personal information:\n\n1. Gather information about the user such as their name, date of birth, address, phone number, etc.\n2. Create a list of potential passwords that contain personal information.\n3. Analyze each candidate password against the gathered personal information.\n4. If a candidate password contains any of the user's personal information, flag it and return an alert. \n5. Else, return the candidate password as valid.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

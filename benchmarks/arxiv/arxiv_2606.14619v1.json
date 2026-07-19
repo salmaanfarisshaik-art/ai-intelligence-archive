@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14619v1",
+  "schema_version": "1.0",
+  "name": "StereoGeo: an end-to-end stereo camera calibration method",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14619v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14619v1",
+    "updated": "2026-06-12T16:44:59Z",
+    "published": "2026-06-12T16:44:59Z",
+    "title": "StereoGeo: an end-to-end stereo camera calibration method",
+    "summary": "In this work, we propose StereoGeo, an end-to-end network-based approach for stereo camera calibration. Our method estimates the focal lengths and gravity directions of the left and right cameras, as well as the relative extrinsic transformation relating them. Existing methods often rely on calibration patterns in structured environments or address only a single camera configuration, being limited to either intrinsic or extrinsic estimation, and depending on a multi-view setups. StereoGeo extends the GeoCalib algorithm, integrating deep neural network feature extraction with a differentiable optimizer. Extensive experiments on real-world benchmarks demonstrate that StereoGeo achieves competitive performance for intrinsic calibration and provides accurate stereo extrinsic estimation, outperforming existing methods that are limited to monocular settings. The dataset used in this work is partially publicly available at https://github.com/meddourimane/StereoGeo-dataset.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:44:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14619v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

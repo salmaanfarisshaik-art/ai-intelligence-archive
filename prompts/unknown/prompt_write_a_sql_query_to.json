@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a SQL query to find the total number of books in the library.",
+  "input": "",
+  "output": "The following SQL query can be used to find the total number of books in the library:\nSELECT COUNT(*) FROM books;",
+  "unique_id": "prompt_write_a_sql_query_to",
+  "schema_version": "1.0"
+}

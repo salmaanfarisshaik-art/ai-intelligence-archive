@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a script to generate an array of random numbers.",
+  "input": "",
+  "output": "import random\ndef random_array(n):\n    arr = []\n    for i in range(n):\n        arr.append(random.randint(0, 100))\n    return arr",
+  "unique_id": "prompt_create_a_script_to_g",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8187151875876924070",
+  "technique_name": "Design an algorithm to reverse the elements of a given array.",
+  "description": "def reverse_array (array): \n  start = 0 \n  end = len(array)-1\n  while start<end: \n    temp = array[start] \n    array[start] = array[end] \n    array[end] = temp\n    start += 1\n    end = end-1\n  return array",
+  "example": "[2, 4, 6, 8]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8944639163607508921",
+  "skill_name": "Explain the implementation details of quicksort",
+  "workflow": "Quicksort is an efficient sorting algorithm that sorts an array by taking the middle element of the array and comparing it to the elements on either side of it. If the elements on the left are greater than the pivot element, they are swapped to the right of the pivot. The same is done with the elements on the right, and a recursive call is made to sort the elements to the left and to the right. The process is repeated until the array is sorted.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

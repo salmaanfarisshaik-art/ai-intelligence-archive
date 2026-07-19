@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-857996889878108537",
+  "skill_name": "Construct a function to classify words into nouns, verbs, and adjectives.",
+  "workflow": "def classify_word(word): \n  if word.endswith('ed'): \n    return 'verb'\n  elif word.endswith('ing'): \n    return 'verb'\n  elif word.endswith('ly'):\n    return 'adjective'\n  else: \n    return 'noun'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

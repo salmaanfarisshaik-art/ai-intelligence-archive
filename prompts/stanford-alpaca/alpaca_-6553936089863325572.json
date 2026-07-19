@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6553936089863325572",
+  "technique_name": "Create a program that can generate random Shakespearean insults.",
+  "description": "//Function to generate random Shakespearean insults\n\nFUNCTION generateInsult()\n\n// Create an array of words to be selected \nwords = [\"artless\", \"bawdy\", \"beslubbering\", \"bootless\", \"churlish\", \"cockered\"];\n\n// Generate two random numbers to select which words to use\ni1 = RANDOM(words.length - 1);\ni2 = RANDOM(words.length - 1);\n\nRETURN \"Thou art a \" + words[i1] + \" \" + words[i2] + \" rogue!\";\n\nEND FUNCTION",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

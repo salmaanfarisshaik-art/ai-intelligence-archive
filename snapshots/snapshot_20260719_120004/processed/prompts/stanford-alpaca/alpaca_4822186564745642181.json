@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4822186564745642181",
+  "technique_name": "Find the time complexity of this algorithm.",
+  "description": "The time complexity of this algorithm is O(n). This is because the algorithm will take a linear amount of time to run, since it has to iterate through the entire array in order to find the target item.",
+  "example": "def linearSearch(arr, n, x): \n    for i in range (0, n): \n        if (arr[i] == x): \n            return i \n    return -1",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

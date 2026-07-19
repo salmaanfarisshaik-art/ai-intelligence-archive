@@ -1,0 +1,7 @@
+{
+  "instruction": "Create an HTML table that compares the prices of 3 different cars.",
+  "input": "Car|Price \n-- | --\nHonda Civic|$19,000\nToyota Camry|$23,000\nFord Mustang|$32,000",
+  "output": "<table>\n  <tr>\n    <th>Car</th>\n    <th>Price</th>\n  </tr>\n  <tr>\n    <td>Honda Civic</td>\n    <td>$19,000</td>\n  </tr>\n  <tr>\n    <td>Toyota Camry</td>\n    <td>$23,000</td>\n  </tr>\n  <tr>\n    <td>Ford Mustang</td>\n    <td>$32,000</td>\n  </tr>\n</table>",
+  "unique_id": "prompt_create_an_html_table",
+  "schema_version": "1.0"
+}

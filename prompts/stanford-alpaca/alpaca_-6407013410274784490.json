@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6407013410274784490",
+  "technique_name": "Write an algorithm with pseudocode for searching through a list of numbers for a particular value.",
+  "description": "Algorithm SearchList (list, target_number): \n\nSet index = 0\nSet found = False\n\nWhile index < length of list and found = False:\n    If list at index = target_number\n        Set found = True\n    Else\n        Increment index\n    \nIf found = True\n    Print \"Number was found at index \" + index\nElse\n    Print \"Number was not found\"",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

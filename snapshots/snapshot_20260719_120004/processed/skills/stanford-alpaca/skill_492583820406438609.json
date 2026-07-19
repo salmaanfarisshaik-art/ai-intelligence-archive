@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_492583820406438609",
+  "skill_name": "Write an algorithm for finding the three largest integers in an array.",
+  "workflow": "This algorithm will find the three largest integers in an array: \n1. Create a variable to store the largest three integers. \n2. Loop through the array and compare each element with the largest integers stored in the variable. \n3. If the current element is larger than any of the three largest integers stored in the variable, update the variable with the current element.\n4. At the end of the loop, the variable will contain the three largest integers in the array.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

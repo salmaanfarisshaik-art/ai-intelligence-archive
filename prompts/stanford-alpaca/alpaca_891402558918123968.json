@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_891402558918123968",
+  "technique_name": "Calculate the square root of a given number.",
+  "description": "def sqrt(n):\n    low = 0\n    high = n\n    \n    while low <= high:\n        mid = (low + high) // 2\n        if mid * mid == n:\n            return mid\n        elif mid * mid < n:\n            low = mid + 1\n        else:\n            high = mid - 1\n            \n    return low - 1",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

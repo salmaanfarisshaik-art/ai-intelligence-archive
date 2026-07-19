@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2020711030844558280",
+  "technique_name": "Given a list of instructions, write a function using a programming language",
+  "description": "def find_largest_and_smallest_numbers(numbers):\n    largest_number = 0\n    smallest_number = numbers[0]\n    for number in numbers:\n        if number > largest_number:\n            largest_number = number\n        elif number < smallest_number:\n            smallest_number = number\n    return largest_number, smallest_number",
+  "example": "Find the largest number \nFind the smallest number\nCompare the two numbers",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

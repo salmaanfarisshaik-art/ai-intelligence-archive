@@ -1,0 +1,56 @@
+{
+  "unique_id": "hf_ds_621ffdd236468d709f181eb4",
+  "schema_version": "1.0",
+  "name": "google-research-datasets/mbpp",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for Mostly Basic Python Problems (mbpp)\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe benchmark consists of around 1,000 crowd-sourced Python programming problems, designed to be solvable by entry level programmers, covering programming fundamentals, standard library functionality, and so on. Each problem consists of a task description, code solution and 3 automated test cases. As described in the paper, a subset of the data has been hand-verified by us. \nReleased here as part of… See the full description on the dataset page: https://huggingface.co/datasets/google-research-datasets/mbpp.",
+  "size": "172242",
+  "source_url": "https://huggingface.co/datasets/google-research-datasets/mbpp",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "621ffdd236468d709f181eb4",
+    "id": "google-research-datasets/mbpp",
+    "author": "google-research-datasets",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2024-01-04T14:26:37.000Z",
+    "likes": 230,
+    "private": false,
+    "sha": "4bb6404fdc6cacfda99d4ac4205087b89d32030c",
+    "description": "\n\t\n\t\t\n\t\tDataset Card for Mostly Basic Python Problems (mbpp)\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe benchmark consists of around 1,000 crowd-sourced Python programming problems, designed to be solvable by entry level programmers, covering programming fundamentals, standard library functionality, and so on. Each problem consists of a task description, code solution and 3 automated test cases. As described in the paper, a subset of the data has been hand-verified by us. \nReleased here as part of… See the full description on the dataset page: https://huggingface.co/datasets/google-research-datasets/mbpp.",
+    "downloads": 172242,
+    "tags": [
+      "annotations_creators:crowdsourced",
+      "annotations_creators:expert-generated",
+      "language_creators:crowdsourced",
+      "language_creators:expert-generated",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:cc-by-4.0",
+      "size_categories:1K<n<10K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:2108.07732",
+      "region:us",
+      "code-generation"
+    ],
+    "createdAt": "2022-03-02T23:29:22.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2024-01-04T14:26:37.000Z",
+  "links": {
+    "related_models": [
+      "datasets/google-research-datasets"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

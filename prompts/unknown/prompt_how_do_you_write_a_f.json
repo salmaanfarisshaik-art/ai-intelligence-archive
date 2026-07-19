@@ -1,0 +1,7 @@
+{
+  "instruction": "How do you write a for loop in Java?",
+  "input": "",
+  "output": "A for loop in Java is written as follows: \n\nfor (initialization; condition; update) {\n    statement(s);\n}\n\nThe initialization expression initializes the loop; it is executed only once at the start of the loop. The condition is evaluated on each iteration of the loop, and if it is true, the statement(s) are executed; if it is false, the loop terminates. The update expression is evaluated on each iteration, and can be used to update the loop variable.",
+  "unique_id": "prompt_how_do_you_write_a_f",
+  "schema_version": "1.0"
+}

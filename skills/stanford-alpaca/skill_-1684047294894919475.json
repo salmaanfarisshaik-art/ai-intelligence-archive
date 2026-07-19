@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1684047294894919475",
+  "skill_name": "Write a Java program to implement a simple calculator.",
+  "workflow": "import java.util.Scanner;\n\nclass SimpleCalculator {\n\n    public static void main(String[] args) {\n\t\n        Scanner scanner = new Scanner(System.in);\n        System.out.print(\"Enter first number: \");\n        double num1 = scanner.nextDouble();\n        System.out.print(\"Enter second number: \");\n        double num2 = scanner.nextDouble();\n \n        System.out.print(\"\\nWhat operation do you want to perform? \\n1. Add \\n2. Subtract \\n3. Multiply \\n4. Divide \\nEnter number: \");\n        int choice = sc",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

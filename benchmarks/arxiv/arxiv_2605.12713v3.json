@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12713v3",
+  "schema_version": "1.0",
+  "name": "Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12713v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12713v3",
+    "updated": "2026-06-17T17:56:25Z",
+    "published": "2026-05-12T20:22:43Z",
+    "title": "Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs",
+    "summary": "In the field of quantum reservoir computing (QRC), many different computational models and architectures have been proposed. From these models, we identify feedback-based models -- which use a feedback mechanism to re-embed classical measurements from the QRC -- and recurrent models -- which use a multi-register approach with memory and readout qubits -- as the two major competing architectures that have been discussed and validated on hardware. In this paper, we advance upon the recurrent architectures, which employ a two register approach to endow the QRC with a fading memory. While these approaches have been validated on hardware and have demonstrated great real-world performance on noisy-intermediate-scale-quantum (NISQ) quantum processing units (QPUs), the exact mechanism through which the memory capacity arises is not completely understood or fully controllable. With this, we augment the recurrent approaches and present a hardware-realizable mechanism, which we call a tunable partial-SWAP, that allows for the direct control of the rate of memory dissipation from a QRN implemented on a gate-based QPU. The theory behind this mechanism is discussed in terms of a controlled amplitude-damping channel and validation experiments using a randomized short-term memory capacity (STMC) recall benchmark and the NARMA-5 dataset are conducted using simulation and IBM QPUs, respectively.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T17:56:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12713v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

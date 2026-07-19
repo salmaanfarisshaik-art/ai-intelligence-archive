@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate HTML code to create a simple table with the following information",
+  "input": "Title | Artist | Year\nDespacito | Luis Fonsi | 2017\nShape Of You | Ed Sheeran | 2017",
+  "output": "<table>\n  <tr>\n    <th>Title</th>\n    <th>Artist</th>\n    <th>Year</th>\n  </tr>\n  <tr>\n    <td>Despacito</td>\n    <td>Luis Fonsi</td>\n    <td>2017</td>\n  </tr>\n  <tr>\n    <td>Shape Of You</td>\n    <td>Ed Sheeran</td>\n    <td>2017</td>\n  </tr>\n</table>",
+  "unique_id": "prompt_generate_html_code_t",
+  "schema_version": "1.0"
+}

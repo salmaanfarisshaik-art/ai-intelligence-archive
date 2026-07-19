@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert the word document below to a HTML format",
+  "input": "Hello World!\nThis is a sample document.",
+  "output": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Hello World</title>\n</head>\n<body>\n    <p>Hello World!</p>\n    <p>This is a sample document.</p>\n</body>\n</html>",
+  "unique_id": "prompt_convert_the_word_doc",
+  "schema_version": "1.0"
+}

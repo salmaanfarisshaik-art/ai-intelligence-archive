@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_528591438978822448",
+  "skill_name": "Create a computer program to list the first 10 prime numbers.",
+  "workflow": "function listFirstTenPrimes() {\n  let primeNumbers = [];\n  let index = 2;\n  while (primeNumbers.length < 10) {\n    let isPrime = true;\n    for (let i = 2; i <= Math.sqrt(index); i++) {\n      if (index % i === 0) {\n        isPrime = false;\n        break;\n      }\n    }\n    if (isPrime) {\n      primeNumbers.push(index);\n    }\n    \n    index++;\n  }\n  \n  return primeNumber;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

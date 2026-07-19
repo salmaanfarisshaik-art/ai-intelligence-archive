@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2447228106475781764",
+  "skill_name": "Construct a web page using HTML and CSS and showcase a product.",
+  "workflow": "<!DOCTYPE html>\n<html>\n  <head>\n    <title>Product Page</title>\n    <style>\n      body {\n        font-family: Arial, sans-serif;\n      }\n      .product-page {\n        display: flex;\n        flex-direction: column;\n        align-items: center;\n      }\n      .product-image img {\n        width: 400px;\n        height: 400px;\n      }\n      .product-description {\n        text-align: center;\n        font-size: 1.4em;\n      }\n      .product-price {\n        font-weight: bold;\n        font-size: 1.6em;\n  ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

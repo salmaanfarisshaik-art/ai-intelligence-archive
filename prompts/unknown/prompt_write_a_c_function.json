@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a C++ function for calculating the approximate area of a circle.",
+  "input": "",
+  "output": "double calculateCircleArea(double radius)\n{\n    const double pi = 3.14159;\n    return pi * radius * radius;\n}",
+  "unique_id": "prompt_write_a_c_function",
+  "schema_version": "1.0"
+}

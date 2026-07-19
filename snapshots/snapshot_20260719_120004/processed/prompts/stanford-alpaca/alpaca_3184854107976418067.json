@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3184854107976418067",
+  "technique_name": "Given a binary tree, check if it is a binary search tree?",
+  "description": "def isBST(root):\nif root is None : \n\treturn True\n\nif root.left is not None and root.left.val > root.val: \n\treturn False\n\nif root.right is not None and root.right.val < root.val: \n\treturn False\n\nreturn isBST(root.left) and isBST(root.right)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

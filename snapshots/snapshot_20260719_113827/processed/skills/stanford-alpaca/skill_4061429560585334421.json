@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4061429560585334421",
+  "skill_name": "Create a function that takes three parameters - an array, a start index, and an end index - and reverses the order of the elements in the array from the start index to the end index.",
+  "workflow": "def reverse(arr, startIndex, endIndex): \n  arr[startIndex:endIndex + 1] = arr[endIndex:startIndex - 1:-1] \n  return arr \n  \nreverse([1, 2, 3, 4, 5, 6], 1, 4) # Output : [1, 5, 4, 3, 2, 6]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

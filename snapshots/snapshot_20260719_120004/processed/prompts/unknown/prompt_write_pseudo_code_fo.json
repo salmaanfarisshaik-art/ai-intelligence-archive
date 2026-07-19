@@ -1,0 +1,7 @@
+{
+  "instruction": "Write pseudo-code for a bubble sort algorithm",
+  "input": "",
+  "output": "procedure bubbleSort( A : list of sortable items )\n  n = length(A)\n  repeat \n    swapped = false\n    for i = 1 to n-1 inclusive do\n      if A[i-1] > A[i] then\n        swap(A[i-1], A[i])\n        swapped = true\n      end if\n    end for\n    n = n - 1\n  until not swapped\nend procedure",
+  "unique_id": "prompt_write_pseudo_code_fo",
+  "schema_version": "1.0"
+}

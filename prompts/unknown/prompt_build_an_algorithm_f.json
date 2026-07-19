@@ -1,0 +1,7 @@
+{
+  "instruction": "Build an algorithm for detecting anomalies in a time series.",
+  "input": "",
+  "output": "The algorithm should use statistical methods to detect outliers and anomalies in a time series dataset. This can include methods such as standard deviation, percentiles, and the Interquartile Range (IQR). Additionally, the algorithm should consider the dynamics of the dataset, such as the rate of change of the value or any patterns in the data. If the data points are significantly different from the data's average behavior or other data points, then the algorithm can mark them as anomalies.",
+  "unique_id": "prompt_build_an_algorithm_f",
+  "schema_version": "1.0"
+}

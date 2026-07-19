@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1001639705480653960",
+  "technique_name": "Write code to store user information in a database.",
+  "description": "CREATE TABLE users(\n  id SERIAL PRIMARY KEY,\n  name VARCHAR(255),\n  email VARCHAR(255)\n);",
+  "example": "No input.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

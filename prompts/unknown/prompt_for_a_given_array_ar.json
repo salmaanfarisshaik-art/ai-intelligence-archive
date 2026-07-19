@@ -1,0 +1,7 @@
+{
+  "instruction": "For a given array arr, write a program to sort the array in-place without using any sort function.",
+  "input": "arr = [5,7,3,9,10,1]",
+  "output": "def sort(arr): \n    n = len(arr) \n    for i in range(n): \n  \n        min_idx = i \n        for j in range(i+1, n): \n            if arr[min_idx] > arr[j]: \n                min_idx = j \n          \n        arr[i], arr[min_idx] = arr[min_idx], arr[i] \n  \narr = [5, 7, 3, 9, 10, 1] \nsort(arr) \n\nprint (\"Sorted array:\") \nfor i in range(len(arr)): \n    print(\"%d\" %arr[i]),",
+  "unique_id": "prompt_for_a_given_array_ar",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4780557437317886010",
+  "skill_name": "Create a function to generate random background colors for a website.",
+  "workflow": "\"\"\"\nCreate a function to generate random background colors for a website\n\"\"\"\n\nimport random\n\ndef random_bg_color():\n    r = random.randint(0,255)\n    g = random.randint(0,255)\n    b = random.randint(0,255)\n    return \"#%.2X%.2X%.2X\" % (r, g, b)\n\nif __name__ == \"__main__\":\n    print(random_bg_color())",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

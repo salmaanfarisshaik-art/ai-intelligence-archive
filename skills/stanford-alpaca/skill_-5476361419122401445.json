@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5476361419122401445",
+  "skill_name": "Write a query to display the fastest time, along with the athlete's name, for each event.",
+  "workflow": "SELECT event, MAX(time) as fastest_time, athlete_name FROM Results GROUP BY event;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

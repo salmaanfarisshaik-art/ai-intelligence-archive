@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert the given HTML code into valid CSS.",
+  "input": "<ul style=\"list-style-type:circle;\">\n   <li>Milk</li>\n   <li>Cheese</li>\n   <li>Yogurt</li>\n</ul>",
+  "output": "ul {\n   list-style-type: circle;\n}\n\nli {\n   padding: 0.5em;\n}",
+  "unique_id": "prompt_convert_the_given_ht",
+  "schema_version": "1.0"
+}

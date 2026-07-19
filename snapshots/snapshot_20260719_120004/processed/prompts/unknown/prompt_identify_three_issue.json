@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify three issues with this program implementation.",
+  "input": "def function(input):\n  if (input == 0):\n    return 0\n  else:\n    for i in range(input):\n      return i",
+  "output": "1. The program is missing an input argument - the function is defined to take in one argument, but none has been provided. \n2. The loop that is set up to return each index of the input is not working correctly - the loop only runs once, and so is only returning 0.\n3. The function should return a list, rather than individual values - the program is only returning the first item in the loop, when it should be returning a list of all the indices that were ran through the loop. The return statement should be changed to a return list containing all the indices in the loop.",
+  "unique_id": "prompt_identify_three_issue",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Parse the provided XML document.",
+  "input": "<note>\n    <to>John</to>\n    <from>Jane</from>\n    <heading>Greetings</heading>\n    <body>Hello!</body>\n</note>",
+  "output": "{\"note\": \n    {\"to\": \"John\",\n     \"from\": \"Jane\",\n     \"heading\": \"Greetings\",\n     \"body\": \"Hello!\"\n    }\n }",
+  "unique_id": "prompt_parse_the_provided_x",
+  "schema_version": "1.0"
+}

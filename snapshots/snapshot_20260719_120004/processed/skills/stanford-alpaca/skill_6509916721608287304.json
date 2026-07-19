@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6509916721608287304",
+  "skill_name": "Parse the code and explain how this algorithm works.",
+  "workflow": "This binary search algorithm walks through an array by repeatedly calculating the midpoint and comparing the value at the midpoint with the value being searched for. If the value matches, the algorithm returns the index of the value in the array. If the value is greater than the value being searched for, the algorithm continues by searching the left half of the array. Otherwise, it continues by searching the right half. If the value is not found in the array, None is returned.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

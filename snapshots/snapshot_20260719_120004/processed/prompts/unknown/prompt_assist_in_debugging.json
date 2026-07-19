@@ -1,0 +1,7 @@
+{
+  "instruction": "Assist in debugging a Python script.",
+  "input": "The script takes two arguments, the required number of players in the game and the number of games played. It then produces a statement to report on the average number of players.\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2]):\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)",
+  "output": "There is a syntax error in the third line, the \":\" should be removed. So the correct code should be as follows:\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2])\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)",
+  "unique_id": "prompt_assist_in_debugging",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Provide an output to the following function",
+  "input": "def words_in_sentence(sentence):\n  sentence = sentence.lower()\n  words = sentence.split(\" \")\n  return len(words) \n\nInput sentence: \"This is a sample sentence\"",
+  "output": "4",
+  "unique_id": "prompt_provide_an_output_to",
+  "schema_version": "1.0"
+}

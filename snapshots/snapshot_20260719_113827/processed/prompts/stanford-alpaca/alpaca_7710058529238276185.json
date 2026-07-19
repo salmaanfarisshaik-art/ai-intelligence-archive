@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7710058529238276185",
+  "technique_name": "Train a SVM model for the given dataset.",
+  "description": "import numpy as np\nfrom sklearn.svm import SVC\n\n# Load the dataset\nX = np.load('data/X.npy')\ny = np.load('data/y.npy')\n\n# Train the model \nclf = SVC()\nclf.fit(X, y)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

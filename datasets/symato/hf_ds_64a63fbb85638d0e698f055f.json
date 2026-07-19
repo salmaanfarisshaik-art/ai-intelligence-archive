@@ -1,0 +1,42 @@
+{
+  "unique_id": "hf_ds_64a63fbb85638d0e698f055f",
+  "schema_version": "1.0",
+  "name": "Symato/cc",
+  "description": "\n\t\n\t\t\n\t\tWhat is Symato CC?\n\t\n\nTo download all WARC data from Common Crawl then filter out Vietnamese in Markdown and Plaintext format.\nThere is 1% of Vietnamse in CC, extract all of them out should be a lot (~10TB of plaintext).\n\n\t\n\t\t\n\t\tMain contributors\n\t\n\n\nhttps://huggingface.co/nampdn-ai\nhttps://huggingface.co/binhvq\nhttps://huggingface.co/th1nhng0\nhttps://huggingface.co/iambestfeed\n\n\n\t\n\t\t\n\t\n\t\n\t\tSimple quality filters\n\t\n\nTo make use of raw data from common crawl, you need to do filtering… See the full description on the dataset page: https://huggingface.co/datasets/Symato/cc.",
+  "size": "274015",
+  "source_url": "https://huggingface.co/datasets/Symato/cc",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "64a63fbb85638d0e698f055f",
+    "id": "Symato/cc",
+    "author": "Symato",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2023-07-11T07:56:55.000Z",
+    "likes": 3,
+    "private": false,
+    "sha": "c0e1add8a2af3bcdf3ca481d91f6640fb3db7eba",
+    "description": "\n\t\n\t\t\n\t\tWhat is Symato CC?\n\t\n\nTo download all WARC data from Common Crawl then filter out Vietnamese in Markdown and Plaintext format.\nThere is 1% of Vietnamse in CC, extract all of them out should be a lot (~10TB of plaintext).\n\n\t\n\t\t\n\t\tMain contributors\n\t\n\n\nhttps://huggingface.co/nampdn-ai\nhttps://huggingface.co/binhvq\nhttps://huggingface.co/th1nhng0\nhttps://huggingface.co/iambestfeed\n\n\n\t\n\t\t\n\t\n\t\n\t\tSimple quality filters\n\t\n\nTo make use of raw data from common crawl, you need to do filtering… See the full description on the dataset page: https://huggingface.co/datasets/Symato/cc.",
+    "downloads": 274015,
+    "tags": [
+      "language:vi",
+      "license:mit",
+      "size_categories:1K<n<10K",
+      "region:us"
+    ],
+    "createdAt": "2023-07-06T04:14:51.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2023-07-11T07:56:55.000Z",
+  "links": {
+    "related_models": [
+      "datasets/Symato"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

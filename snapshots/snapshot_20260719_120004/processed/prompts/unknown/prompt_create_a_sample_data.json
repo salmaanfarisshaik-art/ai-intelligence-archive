@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a sample data set containing the table of rainfall measurements in the five regions of a country.",
+  "input": "Regions: A, B, C, D and E.\nMonth: January\nHours of Rainfall: 15, 8, 9, 18, 17",
+  "output": "Region | January\n--- | --- \nA | 15\nB | 8 \nC | 9\nD | 18\nE | 17",
+  "unique_id": "prompt_create_a_sample_data",
+  "schema_version": "1.0"
+}

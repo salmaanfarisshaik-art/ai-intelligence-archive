@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a regex for an email address.",
+  "input": "",
+  "output": "^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$",
+  "unique_id": "prompt_write_a_regex_for_an",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe the steps of an Linked List Insertion Operation",
+  "input": "",
+  "output": "The process of inserting a new node into a Linked List involves following steps: \n1. Create a new node.\n2. Assign the data to the new node.\n3. If the Linked List is empty, then assign the new node as the head node.\n4. Otherwise, traverse the list until you find the final node, which is the last node of the linked list.\n5. Make the new node's next reference the same as the last node's next reference. \n6. Make the last node's next reference be the new node.",
+  "unique_id": "prompt_describe_the_steps_o",
+  "schema_version": "1.0"
+}

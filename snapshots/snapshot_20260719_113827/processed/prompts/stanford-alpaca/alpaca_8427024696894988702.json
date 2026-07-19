@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8427024696894988702",
+  "technique_name": "Create a code that will generate an array of numbers from 1 to 100",
+  "description": "int[] array = new int[100]; \nfor (int i=0; i<array.length; i++) { \n    array[i] = i+1; \n};",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

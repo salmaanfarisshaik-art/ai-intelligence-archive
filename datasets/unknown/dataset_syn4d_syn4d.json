@@ -1,0 +1,22 @@
+{
+  "_id": "6a382f6fa519cd301493b37b",
+  "id": "Syn4D/Syn4D",
+  "author": "Syn4D",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-08T17:00:26.000Z",
+  "likes": 16,
+  "private": false,
+  "sha": "181c6a2da735b216826ab9411b08e0d1d225aced",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/       # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_5/       # Syn4D V1, every 5th frame can be a tracking reference frame\n  syn4d_sim/               # Kubric-style simulation subset\n  metadata/new_weight_bone/\n\ncode/visualizer/… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
+  "downloads": 26467,
+  "tags": [
+    "license:cc-by-4.0",
+    "arxiv:2605.05207",
+    "region:us"
+  ],
+  "createdAt": "2026-06-21T18:37:35.000Z",
+  "key": "",
+  "unique_id": "dataset_syn4d_syn4d",
+  "schema_version": "1.0"
+}

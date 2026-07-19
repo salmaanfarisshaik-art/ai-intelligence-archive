@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate the missing part of the following SQL query.",
+  "input": "SELECT * FROM table",
+  "output": "WHERE condition;",
+  "unique_id": "prompt_generate_the_missing",
+  "schema_version": "1.0"
+}

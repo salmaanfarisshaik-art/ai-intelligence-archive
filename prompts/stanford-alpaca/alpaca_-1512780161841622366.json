@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1512780161841622366",
+  "technique_name": "Create a function that will return all anagrams of a given string.",
+  "description": "def get_anagrams(str):\n    \"\"\"\n    Function to return all anagrams of the given string\n    \n    Parameters:\n    str: string to be anagrammed \n    \n    Returns: \n    anagrams: a list of strings that are anagrams of the given string\n    \"\"\"\n    if not str:\n        return []\n    \n    anagrams = []\n    letters = list(str)\n    comb = itertools.permutations(letters, len(letters))\n    \n    for t in comb:\n        anagram = ''.join(t)\n        if anagram != str:\n            anagrams.append(anagram)\n    \n ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

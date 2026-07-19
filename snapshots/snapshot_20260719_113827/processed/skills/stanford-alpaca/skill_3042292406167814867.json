@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3042292406167814867",
+  "skill_name": "Write a Python program to print out the given numbers in decreasing order.",
+  "workflow": "def print_decreasing(numbers):\n    \"\"\"\n    Prints the given numbers in decreasing order.\n\n    Parameters:\n    numbers (list): The list of numbers to sort and print.\n\n    Returns:\n    None\n    \"\"\"\n\n    sorted_numbers = sorted(numbers, reverse=True)\n    \n    for num in sorted_numbers:\n        print(num)\n\nprint_decreasing(numbers)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Divide this line of Python code into meaningful steps.",
+  "input": "aa = np.array([[1, 2], [3, 4]])",
+  "output": "Step 1: Create an array using np.array():  aa = np.array([])\nStep 2: Add the objects [1, 2]:  aa = np.array([[1, 2])\nStep 3: Add the objects [3, 4]:  aa = np.array([[1, 2], [3, 4]])",
+  "unique_id": "prompt_divide_this_line_of",
+  "schema_version": "1.0"
+}

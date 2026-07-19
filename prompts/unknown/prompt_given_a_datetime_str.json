@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a DateTime string and a Format string, write a Python program to convert the given DateTime string to the specified format.",
+  "input": "DateTime String: \"20/08/2020 08:15:55\"\nFormat String: \"dd MM, YYYY HH:mm:ss\"",
+  "output": "import datetime\ndateTimeString = \"20/08/2020 08:15:55\"\nDTFormatString = \"dd MM, YYYY HH:mm:ss\"\nDTDateTime = datetime.datetime.strptime(dateTimeString, \"%d/%m/%Y %H:%M:%S\")\nresult = DTDateTime.strftime(DTFormatString)\nprint(result)",
+  "unique_id": "prompt_given_a_datetime_str",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3024647538133114346",
+  "skill_name": "Construct a function to identify the most repeated word in a given text.",
+  "workflow": "def most_repeated_word(text):\n    # Split the text into a list of words\n    words = text.split() \n\n    # Create an empty dictionary \n    counts = {}\n\n    # Iterate through the list of words\n    for word in words:\n        # Count the number of occurrences of each word\n        counts[word] = counts.get(word, 0) + 1\n    \n    # Set maximum count to 0\n    max_count = 0\n\n    # Set most repeated word to None\n    most_repeated_word = None\n\n    # Iterate through the dictionary\n    for k, v in counts.item",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

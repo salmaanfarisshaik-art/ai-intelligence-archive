@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8512124825678935898",
+  "technique_name": "Write a SQL query that returns the top 10 customers by total spent",
+  "description": "SELECT customer_id, SUM(amount) AS total_spent \nFROM orders \nGROUP BY customer_id \nORDER BY total_spent DESC \nLIMIT 10;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

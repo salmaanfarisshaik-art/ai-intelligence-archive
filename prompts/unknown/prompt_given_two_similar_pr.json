@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two similar products, create a comparison table that highlights the differences between them.",
+  "input": "Product A: Lenovo Laptop\nProduct B: MacBook Pro",
+  "output": "|                     | Lenovo Laptop | MacBook Pro |\n|---------------------|--------------|-------------|\n| Operating System    | Windows      | macOS       |\n| Processor           | Intel Core i5| Intel Core i9|\n| GPU                 | Intel UHD 620| AMD Radeon Pro|\n| Display             | 13.3\" HD    | 16\" Retina  |\n| Memory              | 8GB RAM      | 16 GB RAM   |",
+  "unique_id": "prompt_given_two_similar_pr",
+  "schema_version": "1.0"
+}

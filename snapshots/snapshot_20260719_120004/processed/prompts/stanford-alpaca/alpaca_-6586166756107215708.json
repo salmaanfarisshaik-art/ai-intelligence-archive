@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6586166756107215708",
+  "technique_name": "Given a string of characters, remove the whitespace characters.",
+  "description": "def remove_whitespace(s):\n    # check for valid input\n    assert isinstance(s, str), 'Input must be a string.'\n    # remove whitespace characters\n    s = s.replace(\" \", \"\") \n    return s",
+  "example": "my_string = ' '",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

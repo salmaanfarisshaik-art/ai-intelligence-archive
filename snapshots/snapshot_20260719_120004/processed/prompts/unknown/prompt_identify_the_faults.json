@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify the faults in this program and suggest a fix.",
+  "input": "def my_function(x):\n    x += 10\nreturn x",
+  "output": "The fault in the program is that the value of 'x' is changed inside the function, but the changed value is not returned. To fix this, the program should return the changed value, like so: \ndef my_function(x):\n    x += 10\n    return x",
+  "unique_id": "prompt_identify_the_faults",
+  "schema_version": "1.0"
+}

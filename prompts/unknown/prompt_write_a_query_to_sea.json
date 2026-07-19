@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to search the database for products that are discounted.",
+  "input": "Table name: Products",
+  "output": "SELECT * FROM Products WHERE Discount > 0;",
+  "unique_id": "prompt_write_a_query_to_sea",
+  "schema_version": "1.0"
+}

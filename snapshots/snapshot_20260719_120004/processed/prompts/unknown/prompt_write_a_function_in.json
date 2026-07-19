@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a function in JavaScript that takes an array of numbers as input and finds the second highest number in the array.",
+  "input": "[11, 2, 31, 7, 15]",
+  "output": "function findSecondHighest(arr) {\n  let highestNumber = 0;\n  let secondHighestNumber = 0;\n  arr.forEach(number => {\n    if (number > highestNumber) {\n      secondHighestNumber = highestNumber;\n      highestNumber = number;\n    } else if (number > secondHighestNumber && number != highestNumber) {\n      secondHighestNumber = number;\n    }\n  });\n  return secondHighestNumber;\n}",
+  "unique_id": "prompt_write_a_function_in",
+  "schema_version": "1.0"
+}

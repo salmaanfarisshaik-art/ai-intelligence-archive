@@ -1,0 +1,7 @@
+{
+  "instruction": "Execute the following SQL command",
+  "input": "SELECT first_name, last_name, SUM(sales) \n    FROM employees\n    GROUP BY first_name, last_name\n    ORDER BY 3 DESC;",
+  "output": "This SQL command will select the first and last name, as well as the total sales for each employee. The result will be ordered by total sales in descending order.",
+  "unique_id": "prompt_execute_the_followin",
+  "schema_version": "1.0"
+}

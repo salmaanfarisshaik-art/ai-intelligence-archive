@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7232960336625696736",
+  "technique_name": "Write a function to find the longest common substring of two strings.",
+  "description": "def longest_common_substring(s1, s2):\n    # Initialize the string lengths.\n    m = len(s1)\n    n = len(s2)\n  \n    # Initialize the longest common substring \n    result = \"\"\n  \n    # Start from the lengths of two strings  \n    # and set two indices\n    for i in range(m): \n        for j in range(n): \n  \n            # Initialize counter \n            count = 0\n  \n            # Find the longest common substring \n            while (i + count < m and \n                   j + count < n and \n             ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

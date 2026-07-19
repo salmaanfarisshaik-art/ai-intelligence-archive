@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7540292011297806907",
+  "technique_name": "Create a web page with a contact form.",
+  "description": "<html>\n<head> \n    <title>Contact Form</title>\n</head>\n<body>\n    <h1>Contact Form</h1>\n    <p>We would love to hear from you! Please fill out this form to contact us.</p>\n\n    <form action=\"mailto:example@example.com\" method=\"post\" enctype=\"text/plain\">\n        Name: <input type=\"text\" name=\"name\"/><br/><br/> \n        Email: <input type=\"text\" name=\"email\"/><br/><br/> \n        Message: <textarea name=\"message\"></textarea><br/><br/>\n        <input type=\"submit\" value=\"Send\"/>\n    </form>\n</body>",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

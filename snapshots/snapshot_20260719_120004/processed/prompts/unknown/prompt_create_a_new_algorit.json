@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a new algorithm to sort a list of numbers.",
+  "input": "",
+  "output": "def sort_list(nums):\n    for i in range(len(nums) - 1):\n        min_idx = i\n        for j in range(i + 1, len(nums)):\n            if nums[j] < nums[min_idx]:\n                min_idx = j\n        nums[i], nums[min_idx] = nums[min_idx], nums[i]\n    return nums",
+  "unique_id": "prompt_create_a_new_algorit",
+  "schema_version": "1.0"
+}

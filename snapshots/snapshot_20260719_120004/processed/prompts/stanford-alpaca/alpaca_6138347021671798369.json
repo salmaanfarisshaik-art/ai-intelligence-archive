@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6138347021671798369",
+  "technique_name": "Given a string, write a program to find all permutations of that string.",
+  "description": "# Python code to find all permutations of a string  \ndef permutations(string): \n   \n    # If string is empty \n    if len(string) == 0: \n        return [] \n\n    # If there is only one character in string \n    if len(string) == 1: \n        return [string] \n   \n    l = [] # empty list  \n   \n    # Iterate the input string  \n    for i in range(len(string)): \n        m = string[i] \n\n        # Extracting string here \n        remString = string[:i] + string[i+1:] \n\n        # Generating all permutations ",
+  "example": "abc",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a table of employee salaries, rank them from highest to lowest.",
+  "input": "Given table: employee_salary",
+  "output": "SELECT * FROM employee_salary ORDER BY salary DESC;",
+  "unique_id": "prompt_given_a_table_of_emp",
+  "schema_version": "1.0"
+}

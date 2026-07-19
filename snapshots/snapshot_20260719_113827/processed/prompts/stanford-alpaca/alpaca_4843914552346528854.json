@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4843914552346528854",
+  "technique_name": "Using the provided information, build a SQL query to extract the top 10 highest valued orders.",
+  "description": "SELECT TOP 10 *\nFROM Orders\nORDER BY value DESC;",
+  "example": "Table Name: Orders\nColumns: ID (primary key), value, customer_id, date",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

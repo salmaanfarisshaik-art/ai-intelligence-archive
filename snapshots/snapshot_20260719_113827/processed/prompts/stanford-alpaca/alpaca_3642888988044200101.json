@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3642888988044200101",
+  "technique_name": "Compile a Python program.",
+  "description": "<nooutput> (The output of this instruction is the compiled Python program)",
+  "example": "# main.py\n\ndef hello():\n    print('Hello World!')\n\nif __name__ == '__main__':\n    hello()",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

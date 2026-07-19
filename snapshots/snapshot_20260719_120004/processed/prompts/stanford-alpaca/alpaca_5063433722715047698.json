@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5063433722715047698",
+  "technique_name": "Write an algorithm in Java to reverse an array.",
+  "description": "public void reverse(int[] arr) {\n \n  int low = 0;\n  int high = arr.length-1;\n \n  while (low < high) {\n    int temp = arr[low];\n    arr[low] = arr[high];\n    arr[high] = temp;\n    low++;\n    high--;\n  }\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

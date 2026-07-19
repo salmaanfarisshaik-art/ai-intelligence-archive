@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_9137762948154431472",
+  "technique_name": "Implement a given algorithm.",
+  "description": "function binary_search(arr, l, r, x) \n{ \n    if (￼r >= l) { \n        var mid = l + (r - l) / 2; \n  \n        // If the element is present \n        // at the middle   \n        if (arr[mid] == x)  \n            return mid; \n  \n        // If element is smaller \n        // than mid, then \n        // it can only be present \n        // in left sub array \n        if (arr[mid] > x)  \n            return binary_search(arr, l, mid - 1, x); \n  \n        // Else the element can \n        // only be present \n    ",
+  "example": "Binary Search",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

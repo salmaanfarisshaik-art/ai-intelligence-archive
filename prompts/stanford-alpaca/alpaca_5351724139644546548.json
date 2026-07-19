@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5351724139644546548",
+  "technique_name": "Evaluate the following code and report any bugs.",
+  "description": "There is a bug in the code in line 5. The variable \"salutation\" has been misspelled as \"saluation\" and the function has no return statement, so it won't return the \"salutation\" variable.\n\nTo fix this, the variable should be spelled correctly (i.e., \"salutation\"), and a return statement should be added to the function so that it returns the \"salutation\" variable. The code should then look like this:\n\ndef salutation(name):\n    if name == 'bob':\n        salutation = 'Hello'\n    else:\n        saluta",
+  "example": "def salutation(name):\n    if name == 'bob':\n        salutation = 'Hello'\n    else:\n        salutation = 'Good bye'\n        print(saluation)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

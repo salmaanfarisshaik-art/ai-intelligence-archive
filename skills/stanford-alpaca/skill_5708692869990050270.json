@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5708692869990050270",
+  "skill_name": "Design a program that returns a string of the first 100 Fibonacci numbers",
+  "workflow": "\"\"\"\nReturn a string of the first 100 Fibonacci numbers\n\"\"\"\n\ndef fibonacci_sequence(limit):\n    fibonacci = [1, 1]\n    i = 2\n    while i < limit:\n        fibonacci.append(fibonacci[i - 1] + fibonacci[i - 2])\n        i += 1\n    return ' '.join(map(str, fibonacci))\n\nif __name__ == '__main__':\n    print(fibonacci_sequence(100))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

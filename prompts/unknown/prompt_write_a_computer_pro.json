@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a computer program to predict the probability of a coin tossing event.",
+  "input": "",
+  "output": "import random\n\ndef predict_coin():\n    if random.random() > 0.5:\n        return \"Heads\"\n    else:\n        return \"Tails\"",
+  "unique_id": "prompt_write_a_computer_pro",
+  "schema_version": "1.0"
+}

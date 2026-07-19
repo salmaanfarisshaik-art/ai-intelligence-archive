@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a correct SQL query to extract the following data.",
+  "input": "Retrieve the names, ages and cities of customers who are over 40 years old.",
+  "output": "SELECT name, age, city FROM customers WHERE age > 40;",
+  "unique_id": "prompt_generate_a_correct_s",
+  "schema_version": "1.0"
+}

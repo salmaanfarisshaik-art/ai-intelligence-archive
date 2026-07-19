@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3028342542487392805",
+  "skill_name": "Describe how you would implement the Caesar Cipher algorithm.",
+  "workflow": "The Caesar Cipher algorithm is an encryption technique that uses a shift of character positions to encrypt plaintext into ciphertext. To implement the algorithm, the plaintext is shifted left or right based on the user's encryption key, also known as the Caesar shift. For every letter in the plaintext, its corresponding ciphertext letter can be found by moving a certain number of places down the alphabet, determined by the Caesar shift. To decrypt the ciphertext, apply the opposite operation by ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

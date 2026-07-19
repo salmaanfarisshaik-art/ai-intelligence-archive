@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.01274v2",
+  "schema_version": "1.0",
+  "name": "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.01274v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.01274v2",
+    "updated": "2026-06-11T17:06:50Z",
+    "published": "2025-06-02T03:08:07Z",
+    "title": "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding",
+    "summary": "Recent progress in Large Multi-modal Models (LMMs) has enabled effective vision-language reasoning, yet the ability to video understanding remains constrained by suboptimal frame selection strategies, albeit with the rapid development of video-specialized LMMs. Prior works attempted to solve this with static heuristics or external retrieval modules to feed frame-level information, but these approaches often fail to capture visual cues grounded to the given user queries conflating raw visual dynamics with true semantic relevance. In this paper, we introduce ReFoCUS (Reinforcement-guided Frame Optimization for Contextual UnderStanding), the first framework to integrate online policy-gradient reinforcement learning into frame-level optimization for video-LLMs. ReFoCUS aims to learn a frame selection policy, leveraging reward signals derived from reference models to capture their underlying scoring behavior over frame combinations that best support temporally grounded responses. To efficiently explore the large combinatorial frame space, we employ an autoregressive and query-conditional selection architecture that ensures contextual consistency while reducing complexity. Our policy learning removes the need for explicit frame-level supervision, as it implicitly discovers optimal and semantically consistent frame compositions. ReFoCUS consistently improves reasoning accuracy across multiple video QA benchmarks, demonstrating the advantage of aligning frame selection with model-internal utility.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:06:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.01274v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

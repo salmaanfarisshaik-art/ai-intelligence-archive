@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6286736405359952635",
+  "technique_name": "Write a JavaScript program to remove all duplicated elements from an array.",
+  "description": "const arr = [1, 2, 3, 2, 4, 3];\nconst deduplicated = Array.from(new Set(arr))\n\nconsole.log(deduplicated); // [1, 2, 3, 4]",
+  "example": "[1, 2, 3, 2, 4, 3]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

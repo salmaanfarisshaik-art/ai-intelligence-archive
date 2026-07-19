@@ -1,0 +1,7 @@
+{
+  "instruction": "Translate the statement into a Boolean expression.",
+  "input": "At least two of apples, oranges or bananas",
+  "output": "(Apples OR Oranges OR Bananas) AND (Apples OR Oranges OR Bananas)",
+  "unique_id": "prompt_translate_the_statem",
+  "schema_version": "1.0"
+}

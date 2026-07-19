@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1680999378360234952",
+  "technique_name": "Write a python program to calculate the area of a circle.",
+  "description": "def area_of_circle(radius): \n \n    # Calculate the area of a circle \n    PI = 3.14\n    area = PI * (radius * radius) \n      \n    # Print the area \n    print(\"The area of the circle is: %.2f\" %area) \n      \n# Driver function \nradius = float(input(\" ENTER THE RADIUS OF CIRCLE: \"))\narea_of_circle(radius)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

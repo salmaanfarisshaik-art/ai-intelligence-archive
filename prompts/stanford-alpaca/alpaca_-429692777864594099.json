@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-429692777864594099",
+  "technique_name": "Write a function to implement a binary search for a list of integers",
+  "description": "def binary_search(arr, target):\n    left = 0\n    right = len(arr)-1\n    while left <= right:\n        mid = (left+right) // 2\n        if arr[mid] == target:\n            return mid\n        elif target < arr[mid]:\n            right = mid - 1\n        else:\n            left = mid + 1\n\n    return -1",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

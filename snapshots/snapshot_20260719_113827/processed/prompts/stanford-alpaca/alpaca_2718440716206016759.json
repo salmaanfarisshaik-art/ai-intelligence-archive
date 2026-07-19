@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2718440716206016759",
+  "technique_name": "Write a function that will return the maximum of the following numbers.",
+  "description": "def find_max(nums):\n    biggest = nums[0]\n    for num in nums:\n        if num > biggest:\n            biggest = num\n    return biggest\n\nprint(find_max([1, 5, 23, 9]))\n\nOutput: 23",
+  "example": "1, 5, 23, 9",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given some data, identify 3 discrepancies in the data",
+  "input": "Car Speed  : 38, 55, 36, 42, 37",
+  "output": "Three discrepancies found in the data are: \n1. The first value is 38 which is higher than the other values.\n2. The second value is 55 which is the highest value in the data.\n3. The fourth value is 42 which is the middle value in the data.",
+  "unique_id": "prompt_given_some_data_ide",
+  "schema_version": "1.0"
+}

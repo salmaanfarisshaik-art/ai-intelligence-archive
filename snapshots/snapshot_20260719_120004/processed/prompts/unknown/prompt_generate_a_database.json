@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a database table structure for a customer records system.",
+  "input": "",
+  "output": "Customer_Records Table:\nid (int, primary key, auto-incrementing)\nname (string)\naddress (string)\nphone_number (string)\nemail (string)\ndate_of_birth (date)\ncreated_at (timestamp)\nmodified_at (timestamp)",
+  "unique_id": "prompt_generate_a_database",
+  "schema_version": "1.0"
+}

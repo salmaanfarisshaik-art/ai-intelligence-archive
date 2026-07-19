@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.20543v1",
+  "schema_version": "1.0",
+  "name": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.20543v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.20543v1",
+    "updated": "2026-06-18T17:52:30Z",
+    "published": "2026-06-18T17:52:30Z",
+    "title": "SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation",
+    "summary": "Autoregressive models excel in visual generation by treating images as 1D sequences of discrete tokens, mirroring language modeling. However, this flattening discards the intrinsic 2D spatial locality of visual signals, creating severe computational bottlenecks during inference. We introduce Spatially Speculative Decoding (SSD), a framework that aligns the predictive objective with the natural geometry of images. Rather than predicting only the immediate next token in a 1D sequence, our model simultaneously predicts the adjacent horizontal token and the token directly below it. By capitalizing on this 2D spatial correlation, spatially speculative decoding overcomes the memory wall in visual inference. Our approach accelerates autoregressive image generation by up to 13.3x while maintaining high fidelity on DPG-Bench and GenEval. Our results suggest that respecting the underlying geometry of vision unlocks massive computational efficiencies, paving the way for real-time, high-resolution autoregressive generative models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T17:52:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.20543v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

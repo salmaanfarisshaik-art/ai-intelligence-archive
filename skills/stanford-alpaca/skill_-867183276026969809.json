@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-867183276026969809",
+  "skill_name": "Generate a steganography algorithm",
+  "workflow": "A steganography algorithm can be used to hide information within a file. The following steps can be used: \n1. Select an input file, such as an image or audio file. \n2. Create a message to be hidden in the file.\n3. Convert the message into an array of bytes.\n4. Generate a secret key for the algorithm.\n5. Use the secret key to encode the array of bytes into the input file.\n6. Store the encoded file with the secret key.\n7. To reveal the message, use the secret key to decode the file.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

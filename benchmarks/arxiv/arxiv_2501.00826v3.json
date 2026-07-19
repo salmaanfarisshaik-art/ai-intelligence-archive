@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2501.00826v3",
+  "schema_version": "1.0",
+  "name": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2501.00826v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "q-fin.TR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2501.00826v3",
+    "updated": "2026-06-16T16:36:42Z",
+    "published": "2025-01-01T13:08:17Z",
+    "title": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
+    "summary": "Cryptocurrency portfolio management requires the fusion of heterogeneous multi-modal signals, including structured price and on-chain time series, unstructured news text, and technical indicators, under high-volatility and real-time constraints. While deep learning approaches show predictive capability, their opacity limits practical adoption, and single large language model (LLM) agents struggle to process the breadth of modality-specific inputs needed for robust decision-making. We propose a multi-agent system (MAS) framework in which three modality-specialised agents, a Crypto Agent for market dynamics, a News Agent for weekly news sentiment, and a Trading Agent for signal fusion and portfolio execution, decompose the task across three communication architectures: hierarchical, collaborative, and debate. We evaluate four capability configurations: zero-shot, chain-of-thought (CoT), retrieval-augmented generation (RAG), and skill-augmented. In a 52-week backtest over calendar year 2025 across the top 15 L1 blockchain native cryptocurrencies by market capitalisation as of January 2025, the best configuration, Hierarchical (Skill), achieves a cumulative return of 133.52% and a Sharpe ratio of 1.502, outperforming single-agent variants, passive benchmarks, and deep learning baselines. An ablation study identifies the Crypto Agent as the most critical component, with its removal reducing cumulative return by 42.57 percentage points. A cross-model comparison further shows that MAS outperforms the single-agent baseline under GPT-4o, GPT-5, and Claude Sonnet 4.5, suggesting that the benefit of multi-agent coordination is model-agnostic. Unlike black-box deep learning models, every portfolio decision is traceable to explicit agent reasoning, offering an interpretable and effective approach to multi-modal cryptocurrency portfolio management.",
+    "primary_category": "q-fin.TR"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T16:36:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2501.00826v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

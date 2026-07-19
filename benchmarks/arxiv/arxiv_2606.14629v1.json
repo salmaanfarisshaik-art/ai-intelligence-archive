@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14629v1",
+  "schema_version": "1.0",
+  "name": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14629v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14629v1",
+    "updated": "2026-06-12T16:55:30Z",
+    "published": "2026-06-12T16:55:30Z",
+    "title": "When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks",
+    "summary": "Verifier-driven self-DPO is a common recipe for self-improving production visual-language models. In this setup, a frozen verifier scores candidate generations, the top- and bottom-scoring candidates form a preference example, and DPO updates the learner. The deployment-time assumption is monotone: a stronger verifier should yield a stronger student. We show that this assumption can fail because verifier quality is highly task-specific. On a four-rung open-source verifier ladder across MathVista, MMMU, and BLINK, the same verifiers that are above-threshold and improve a Qwen-3-VL-2B student on MathVista become sub-threshold on MMMU, where their task-rubric accuracy drops to 8% to 23%.\n  In this regime, every verifier we tested silently regresses the student, producing drops of 3.4 to 10.9 percentage points below the frozen baseline while the DPO training loss continues to decrease. The regression replicates on a second student, Qwen-2.5-VL-3B. Moreover, within the failure regime, damage is confidence-inverted: the more accurate-but-still-wrong verifier causes larger regression than a near-random verifier, suggesting that progress-gated replay amplifies confidently wrong preference pairs. We give a compact mechanistic explanation via a variance theorem for progress-gated replay and its direction-mismatch failure mode.\n  The deployment message is operational rather than purely diagnostic: before running any verifier-driven loop, teams should measure target-task rubric accuracy, rank verifiers by target-task rubric quality rather than parameter count, and treat diminishing returns in above-threshold regimes as a verifier-side compute budget cap.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:55:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14629v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "_id": "662ab15830911c7590aed82a",
+  "id": "tanganke/dtd",
+  "author": "tanganke",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-05-07T06:52:04.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "d2afa97d9f335b1a6b3b09c637aef667f98f966e",
+  "description": "\n\t\n\t\t\n\t\tDTD: Describable Textures Dataset\n\t\n\nThe Describable Textures Dataset (DTD) is an evolving collection of textural images in the wild, annotated with a series of human-centric attributes, inspired by the perceptual properties of textures. \nThis data is made available to the computer vision community for research purposes\n\n\t\n\t\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\ndataset = load_dataset('tanganke/dtd')\n\n\nFeatures:\n\nImage: The primary data type, which is a digital image used for… See the full description on the dataset page: https://huggingface.co/datasets/tanganke/dtd.",
+  "downloads": 26895,
+  "tags": [
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:image",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-04-25T19:39:04.000Z",
+  "key": "",
+  "unique_id": "dataset_tanganke_dtd",
+  "schema_version": "1.0"
+}

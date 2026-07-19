@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7389942666465300359",
+  "technique_name": "In Java, write a code to check if two strings are anagrams.",
+  "description": "public static boolean isAnagram(String str1, String str2) {  \n    char[] charArray1 = str1.toCharArray();  \n    char[] charArray2 = str2.toCharArray();  \n    Arrays.sort(charArray1);  \n    Arrays.sort(charArray2);  \n    return Arrays.equals(charArray1, charArray2);  \n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

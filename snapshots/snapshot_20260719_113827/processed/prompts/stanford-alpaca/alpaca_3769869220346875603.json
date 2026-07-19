@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3769869220346875603",
+  "technique_name": "Create a program in Python to calculate the volume of a cylinder.",
+  "description": "import math\n\ndef cylinder_volume(radius, height):\n  # Calculate the volume of a cylinder\n  base_area = math.pi * radius**2\n  volume = base_area * height\n \n  # Print the result\n  print(\"The volume of the cylinder is\", volume)\n \ncylinder_volume(5, 8)",
+  "example": "The radius = 5\nThe height = 8",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a python program that takes a list of integers and output a new list with unique elements of the supplied list",
+  "input": "[1,2,3,3,3,3,4,5]",
+  "output": "def unique_list(list1): \n    unique_list = [] \n  \n    for x in list1: \n        if x not in unique_list: \n            unique_list.append(x) \n    return unique_list\n  \nlist1 = [1,2,3,3,3,3,4,5] \nprint(unique_list(list1))",
+  "unique_id": "prompt_generate_a_python_pr",
+  "schema_version": "1.0"
+}

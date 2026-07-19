@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2191791623584352543",
+  "skill_name": "Generate an algorithm to solve the a Sudoku Puzzle",
+  "workflow": "The algorithm for solving the Sudoku puzzle is as follows:\n1. Look for empty cells and assign the first possible number from 1 to 9 that could fit in the row, column, and 3x3 box.\n2. Check each row, column, and 3x3 box while solving the puzzle.\n3. If there is only one empty cell in a row, column, or 3x3 box, assign the first possible number.\n4. If two empty cells appear in the same row, column, or 3x3 box and the two possible numbers for the cells are the same, fill both of the cells with that n",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

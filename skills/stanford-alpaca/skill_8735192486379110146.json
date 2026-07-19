@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8735192486379110146",
+  "skill_name": "Write a function in Java to print the first 10 numbers of the Fibonacci sequence.",
+  "workflow": "public class Fibonacci { \n    public static void main(String args[]) {\n        int n1=0,n2=1,n3;    \n        System.out.print(n1+\" \"+n2);\n        for (int i=2; i<10; i++)\n        {    \n            n3=n1+n2;    \n            System.out.print(\" \"+n3);    \n            n1=n2;    \n            n2=n3;    \n        }   \n    }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

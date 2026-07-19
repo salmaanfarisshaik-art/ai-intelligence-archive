@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4763739203260882660",
+  "technique_name": "Create a SQL query that joins two tables.",
+  "description": "SELECT users.name, blogposts.title \nFROM users \nINNER JOIN blogposts \nON users.id = blogposts.author_id;",
+  "example": "Table 1: users\n| id | name  |\n| -- | ----- |\n| 1  | John  |\n| 2  | Sarah |\n\nTable 2: blogposts\n| id | author_id  | title |\n| -- | ---------- | ----- |\n| 1  | 1          | Post1 |\n| 2  | 2          | Post2 |",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

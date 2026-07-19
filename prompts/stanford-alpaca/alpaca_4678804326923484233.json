@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4678804326923484233",
+  "technique_name": "Write a query to find the cheapest flights from London to Rome.",
+  "description": "SELECT * \nFROM flights \nWHERE origin = 'London' AND destination = 'Rome' \nORDER BY price ASC",
+  "example": "London to Rome",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a function to check whether two strings are anagrams.",
+  "input": "",
+  "output": "def is_anagram(s1, s2): \n    s1 = sorted(s1.lower()) \n    s2 = sorted(s2.lower()) \n    return s1 == s2",
+  "unique_id": "prompt_create_a_function_to",
+  "schema_version": "1.0"
+}

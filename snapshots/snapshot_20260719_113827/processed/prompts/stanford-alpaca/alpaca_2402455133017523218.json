@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2402455133017523218",
+  "technique_name": "Give a 5-step process to solve this math equation.",
+  "description": "1. Change the equation to fraction bar form, so that it can be understood more clearly: (x^2+5x+6)÷(x-2)\n2. Factor the numerator: (x^2+5x+6) = (x+3)(x+2) \n3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2) - 4 \n4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) - 4\n5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)",
+  "example": "(x^2+5x+6)/(x-2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

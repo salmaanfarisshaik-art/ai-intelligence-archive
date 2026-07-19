@@ -1,0 +1,7 @@
+{
+  "instruction": "Implement a class in Python",
+  "input": "",
+  "output": "class Animal:\n    def __init__(self, name, age, species):\n        self.name = name\n        self.age = age\n        self.species = species\n   \n    def get_name(self):\n        return self.name\n    \n    def get_age(self):\n        return self.age\n\n    def get_species(self):\n        return self.species",
+  "unique_id": "prompt_implement_a_class_in",
+  "schema_version": "1.0"
+}

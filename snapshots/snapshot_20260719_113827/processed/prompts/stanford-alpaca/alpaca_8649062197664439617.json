@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8649062197664439617",
+  "technique_name": "Write a C++ program to reverse the elements of an array.",
+  "description": "#include <iostream>\nusing namespace std;\n\n// Function to reverse the elements of an array \nvoid reverseArray(int arr[], int start, int end) \n{ \n    while (start < end) \n    { \n        int temp = arr[start];  \n        arr[start] = arr[end]; \n        arr[end] = temp; \n        start++; \n        end--; \n    }  \n} \n  \nint main() \n{ \n    int arr[] = {1,2,3,4,5}; \n  \n    // reverse the elements \n    reverseArray(arr, 0, 4); \n  \n    // print the reversed array \n    for (int i=0; i<5; i++) \n        cout ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

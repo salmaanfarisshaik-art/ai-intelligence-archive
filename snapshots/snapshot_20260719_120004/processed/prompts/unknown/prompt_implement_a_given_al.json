@@ -1,0 +1,7 @@
+{
+  "instruction": "Implement a given algorithm.",
+  "input": "Binary Search",
+  "output": "function binary_search(arr, l, r, x) \n{ \n    if (￼r >= l) { \n        var mid = l + (r - l) / 2; \n  \n        // If the element is present \n        // at the middle   \n        if (arr[mid] == x)  \n            return mid; \n  \n        // If element is smaller \n        // than mid, then \n        // it can only be present \n        // in left sub array \n        if (arr[mid] > x)  \n            return binary_search(arr, l, mid - 1, x); \n  \n        // Else the element can \n        // only be present \n        // in right sub array \n        return binary_search(arr, mid + 1, r, x); \n    } \n  \n    // We reach here when  \n    // element is not present \n    // in array \n    return -1; \n}",
+  "unique_id": "prompt_implement_a_given_al",
+  "schema_version": "1.0"
+}

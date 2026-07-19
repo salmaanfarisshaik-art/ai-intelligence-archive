@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8256506675119221799",
+  "skill_name": "Design a conversation tree that leads to an actionable item by the end.",
+  "workflow": "Root: Hi! How can I help you? \nA: I was thinking about taking a trip. \nA1: Do you know where you want to go? \nA1a: Yes, I want to go to ____. \nA1a1: What date would you like to leave? \nA1a2: How long do you want to stay? \nA1b: No, I'm not sure yet. \nA1b1: What kind of trip did you have in mind? \nA1b2: What location do you think would make a good trip? \nA2: I need to make some plans. \nA2a: What kind of plans do you need to make? \nA2a1: What activities do you want to do? \nA2a2: Where do you want t",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

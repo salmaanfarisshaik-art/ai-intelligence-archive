@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain what “Mutual Exclusion” means.",
+  "input": "",
+  "output": "Mutual exclusion, also known as the critical-section problem, is a concept in computer science that prevents two processes from being executed simultaneously on a shared resource. This ensures that each process can execute without interference from the others. A mutual exclusion algorithm grants exclusive access to a critical section by designating one process as the owner of the resource and then only allows the owner process to access the resource while all other access requests are locked out and ignored.",
+  "unique_id": "prompt_explain_what_mutual",
+  "schema_version": "1.0"
+}

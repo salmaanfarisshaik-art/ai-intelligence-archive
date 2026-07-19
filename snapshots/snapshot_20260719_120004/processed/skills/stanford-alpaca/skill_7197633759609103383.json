@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7197633759609103383",
+  "skill_name": "Write a function to compute Fibonacci numbers",
+  "workflow": "def Fibonacci(n):\n    if n == 0:\n        print(0)\n    elif n == 1:\n        print(1)\n    else:\n        num1 = 0\n        num2 = 1\n        for i in range(2,n+1):\n            num3 = num1 + num2\n            num1 = num2\n            num2 = num3\n        print(num3)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

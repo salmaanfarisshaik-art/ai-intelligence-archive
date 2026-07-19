@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1103818704841859766",
+  "skill_name": "Write a function to count the occurances of a given character in a string.",
+  "workflow": "def count_char(string, char):\n    count = 0\n    for c in string:\n        if c == char:\n            count += 1\n    return count\n\nprint(count_char(\"hello world\", \"l\"))\n\nOutput: 3",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

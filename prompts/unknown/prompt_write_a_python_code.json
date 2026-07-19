@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a Python code to get the maximum of two numbers.",
+  "input": "",
+  "output": "def max(a, b):\n\"\"\" Function to get the maximum of two numbers\n\nThis function will take two numbers as arguments and\nreturn the maximum of the two.\n\n:param a: The first number.\n:param b: The second number.\n:return: The maximum of two numbers.\n\"\"\"\n    if a > b:\n        return a\n    else:\n        return b",
+  "unique_id": "prompt_write_a_python_code",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5281214015228003896",
+  "skill_name": "Generate a C program to calculate the sum of two variables.",
+  "workflow": "#include <stdio.h>\n\nint main() {\n  int x = 10, y = 20;\n  int z;\n  z = x + y;\n  printf(\"The sum of x and y is %d\", z);\n  return 0;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

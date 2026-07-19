@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6614462758029228867",
+  "technique_name": "Construct a function that sorts a given array of numbers in descending order.",
+  "description": "def descending_sort(arr):\n    arr.sort(reverse = True)\n    return arr",
+  "example": "[4, 8, 2, 3, 0, 10]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

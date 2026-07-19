@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8236035677110810862",
+  "skill_name": "Modify the given code to print out the largest number in the list.",
+  "workflow": "nums = [3, 4, 9, 5]\n\n# Assign largest_num to -infinity\nlargest_num = -float('inf')\n\n# Iterate over nums\nfor num in nums:\n    # Check if num is larger than largest_num\n    if num > largest_num:\n        # Assign num to largest_num\n        largest_num = num\n\n# Print out largest_num\nprint(largest_num)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

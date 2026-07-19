@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a script to get the top 10 most frequent words in a corpus.",
+  "input": "",
+  "output": "#\n# 1. Define the corpus:\n\ncorpus = \"This is a corpus of data to analyze. This dataset will be used to get the top 10 most frequent words.\"\n\n# 2. Tokenize the corpus:\n\nwords = corpus.split()\n\n# 3. Create a dictionary and count each word's frequency:\n\nword_counts = {}\n \nfor word in words:\n    if word in word_counts:\n        word_counts[word] += 1\n    else:\n        word_counts[word] = 1\n\n# 4. Sort the word counts list:\n\nsorted_word_counts = sorted(word_counts.items(), key=lambda x: x[1], reverse=True)\n\n# 5. Print the top 10 words:\n\nprint(\"The top 10 most frequent words are:\")\nfor word, count in sorted_word_counts[:10]:\n    print(word + \": \" + str(count))",
+  "unique_id": "prompt_write_a_script_to_ge",
+  "schema_version": "1.0"
+}

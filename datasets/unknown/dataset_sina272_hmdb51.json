@@ -1,0 +1,27 @@
+{
+  "_id": "69e89a81f0476b06fce38014",
+  "id": "Sina272/hmdb51",
+  "author": "Sina272",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-06-14T16:20:20.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "2e81fb7a64f3098bdfc1a65d18959823ea82dddd",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tHMDB51 exported from FiftyOne\n\t\n\nthis dataset was exported from an existing local FiftyOne dataset named hmdb51.\n\n\t\n\t\t\n\t\n\t\n\t\tcontents\n\t\n\n\nactual video files are stored under videos/\nmetadata is stored in split CSV files such as train.csv, validation.csv, and test.csv\n\n\n\t\n\t\t\n\t\n\t\n\t\tlabel field used\n\t\n\n\nground_truth\n\n\n\t\n\t\t\n\t\n\t\n\t\tsplit sizes\n\t\n\n{\n  \"train\": 5236,\n  \"test\": 1530\n}\n\n\n\t\n\t\t\n\t\n\t\n\t\tclasses\n\t\n\nnumber of classes: 6766\nfirst 20 classes:\n[\n  \"<Classification: {\\n    'id':… See the full description on the dataset page: https://huggingface.co/datasets/Sina272/hmdb51.",
+  "downloads": 63901,
+  "tags": [
+    "task_categories:video-classification",
+    "language:en",
+    "modality:video",
+    "library:fiftyone",
+    "region:us",
+    "video",
+    "action-recognition",
+    "fiftyone"
+  ],
+  "createdAt": "2026-04-22T09:53:05.000Z",
+  "key": "",
+  "unique_id": "dataset_sina272_hmdb51",
+  "schema_version": "1.0"
+}

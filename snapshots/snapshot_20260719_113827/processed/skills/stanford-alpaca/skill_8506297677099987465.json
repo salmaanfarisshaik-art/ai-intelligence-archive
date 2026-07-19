@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8506297677099987465",
+  "skill_name": "Generate a C++ program to print a triangle of stars",
+  "workflow": "#include <iostream> \n  \n// Function to print a triangle \nvoid printTriangle(int n) \n{ \n    // outer loop to handle number of rows \n    // n in this case \n    for (int i=0; i<n; i++) \n    { \n        // inner loop to handle number spaces \n        //values changing acc. to requirement \n        for (int j=n-i; j>1; j--)  \n        { \n            // printing spaces \n            std::cout <<\" \"; \n        }  \n          \n        //  inner loop to handle number of columns \n        //  values changing acc.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4306655617555583273",
+  "skill_name": "Write a function in Python that takes an array and prints the largest number",
+  "workflow": "def print_largest_number(array):\n  largest = array[0]\n  for i in array:\n    if i > largest:\n      largest = i\n  print(largest)\n  \nprint_largest_number(array)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

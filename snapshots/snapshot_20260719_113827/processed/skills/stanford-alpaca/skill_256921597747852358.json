@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_256921597747852358",
+  "skill_name": "Write a classification algorithm to detect spam emails.",
+  "workflow": "The algorithm will take the given email and first use natural language processing techniques to tokenize and split the email into its individual words and phrases. The algorithm will then use the bag-of-words technique to convert the text into numerical data represented by a vector of words. \n\nThe algorithm will then use the vector of words as input for a classifier, such as a decision tree, logistic regression, or support vector machine to classify the email as either spam or not spam. The clas",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

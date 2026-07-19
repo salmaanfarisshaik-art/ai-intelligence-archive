@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5928210429251232259",
+  "technique_name": "Design a class that represents a clothing brand.",
+  "description": "class ClothingBrand:\n    def __init__(self, name, style, colors):\n        self.name = name\n        self.style = style\n        self.colors = colors\n    \n    def get_name(self):\n        return self.name\n    \n    def set_name(self, name):\n        self.name = name\n    \n    def get_style(self):\n        return self.style\n    \n    def set_style(self, style):\n        self.style = style\n    \n    def get_colors(self):\n        return self.colors\n    \n    def set_colors(self, colors):\n        self.colors = ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

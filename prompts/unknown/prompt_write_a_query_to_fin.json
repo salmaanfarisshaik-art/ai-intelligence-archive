@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to find the number of products sold in a given month.",
+  "input": "",
+  "output": "SELECT COUNT(*) FROM Products WHERE DateSold BETWEEN 'MonthStart' AND 'MonthEnd';",
+  "unique_id": "prompt_write_a_query_to_fin",
+  "schema_version": "1.0"
+}

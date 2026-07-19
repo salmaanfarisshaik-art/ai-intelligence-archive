@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2261677568192635536",
+  "technique_name": "Write an API to find the next prime number",
+  "description": "def next_prime(n):\n    '''\n    Returns the next prime number after the number n\n    Inputs:\n        n (int): The number that the API should start from\n    Outputs:\n        The next prime number\n    '''\n    num = n + 1\n    while True:\n        for i in range(2, num):\n            if num % i == 0:\n                num += 1\n                break\n        else:\n            return num",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

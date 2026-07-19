@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5261489181731212746",
+  "technique_name": "Create a library of code that implements a linked list data structure.",
+  "description": "// Code implementing a linked list\n \nclass Node {\n  constructor(value, next = null) {\n    this.value = value;\n    this.next = next;\n  }\n}\n \nclass LinkedList {\n  constructor() {\n    this.head = null;\n  }\n \n  insert(value) {\n    //Insert Code Here\n  }\n \n  includes(value) {\n    //Search Code Here\n  }\n \n  //Additional methods(append, insertBefore, insertAfter, kthFromEnd)\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

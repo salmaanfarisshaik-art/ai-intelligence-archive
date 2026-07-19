@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7076081572482363440",
+  "technique_name": "Make a query on the provided database and output the result.",
+  "description": "Temperature  | Location \n21°C        | London \n17°C        | New York \n24°C        | Tokyo",
+  "example": "Database: weather\nQuery: Select * from weather",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

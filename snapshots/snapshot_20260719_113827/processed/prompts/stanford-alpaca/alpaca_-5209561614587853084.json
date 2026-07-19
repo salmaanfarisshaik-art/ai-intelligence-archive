@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5209561614587853084",
+  "technique_name": "Generate a program to check if a number is even or odd.",
+  "description": "def even_odd(num): \n  if (num % 2 == 0): \n    print(\"Even\")  \n  else: \n    print(\"Odd\")\n\n# Driver code \nnum = int(input(\"Enter a number\"))\neven_odd(num)",
+  "example": "No input",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

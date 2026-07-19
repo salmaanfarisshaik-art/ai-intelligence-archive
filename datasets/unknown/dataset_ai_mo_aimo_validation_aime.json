@@ -1,0 +1,28 @@
+{
+  "_id": "668d1c3a0a6a758a8da453b7",
+  "id": "AI-MO/aimo-validation-aime",
+  "author": "AI-MO",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-07T06:40:27.000Z",
+  "likes": 69,
+  "private": false,
+  "sha": "13f9e12f613e720c2a2b2f345dd04b998a29494d",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for AIMO Validation AIME\n\t\n\nAll 90 problems come from AIME 22, AIME 23, and AIME 24, and have been extracted directly from the AOPS wiki page https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions\nThis dataset serves as an internal validation set during our participation in the AIMO progress prize competition. Using data after 2021 is to avoid potential overlap with the MATH training set.\nHere are the different columns in the dataset:\n\nproblem: the… See the full description on the dataset page: https://huggingface.co/datasets/AI-MO/aimo-validation-aime.",
+  "downloads": 27450,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-07-09T11:17:14.000Z",
+  "key": "",
+  "unique_id": "dataset_ai_mo_aimo_validation_aime",
+  "schema_version": "1.0"
+}

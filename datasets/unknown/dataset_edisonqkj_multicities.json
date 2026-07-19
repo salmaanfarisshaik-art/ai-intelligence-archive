@@ -1,0 +1,23 @@
+{
+  "_id": "69fd6ddf9782302058120f6f",
+  "id": "edisonqkj/MultiCities",
+  "author": "edisonqkj",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-08T05:00:18.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "c374f52cb3d0326ab20e987f5bf0792a81a5c864",
+  "description": "\n\t\n\t\t\n\t\tMultiCities\n\t\n\nThis dataset contains downloaded street-view and satellite image folders for the\nMultiCities project.\nCurrent local upload includes:\n\nAmsterdam\nMumbai\nNewYork\nSaoPaulo\nSydney\n\nEach city may contain:\n\nstreetview/*.jpg: Google Street View panorama images\nsatellite/*.jpg: Mapbox satellite tiles\nmetadata.csv: paired records for valid downloaded street-view and satellite images\n\nThe dataset is still in progress. Use metadata.csv for each city when selecting\nvalid… See the full description on the dataset page: https://huggingface.co/datasets/edisonqkj/MultiCities.",
+  "downloads": 65611,
+  "tags": [
+    "task_categories:image-to-image",
+    "license:other",
+    "modality:image",
+    "region:us"
+  ],
+  "createdAt": "2026-05-08T05:00:15.000Z",
+  "key": "",
+  "unique_id": "dataset_edisonqkj_multicities",
+  "schema_version": "1.0"
+}

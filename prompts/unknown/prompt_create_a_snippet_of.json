@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a snippet of code using Java, that would generate a random number between 0 and 10.",
+  "input": "",
+  "output": "Random random = new Random();\nint randomNumber = random.nextInt(11); // Generates a random number between 0 and 10.",
+  "unique_id": "prompt_create_a_snippet_of",
+  "schema_version": "1.0"
+}

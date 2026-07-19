@@ -1,0 +1,52 @@
+{
+  "unique_id": "hf_ds_669e6b2752cf1c619d4c0178",
+  "schema_version": "1.0",
+  "name": "airtrain-ai/fineweb-edu-fortified",
+  "description": "\n\t\n\t\t\n\t\tFineweb-Edu-Fortified\n\t\n\n\n\n\n\nThe composition of fineweb-edu-fortified, produced by automatically clustering a 500k row sample in\n Airtrain \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nFineweb-Edu-Fortified is a dataset derived from\nFineweb-Edu by applying exact-match\ndeduplication across the whole dataset and producing an embedding for each row. The number of times\nthe text from each row appears is also included as a count column. The embeddings were produced\nusing TaylorAI/bge-micro\nFineweb and… See the full description on the dataset page: https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified.",
+  "size": "163939",
+  "source_url": "https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "669e6b2752cf1c619d4c0178",
+    "id": "airtrain-ai/fineweb-edu-fortified",
+    "author": "airtrain-ai",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2024-08-08T18:04:44.000Z",
+    "likes": 65,
+    "private": false,
+    "sha": "d906fc5fc18bf4d3bd73f61cd8aee6788a295852",
+    "description": "\n\t\n\t\t\n\t\tFineweb-Edu-Fortified\n\t\n\n\n\n\n\nThe composition of fineweb-edu-fortified, produced by automatically clustering a 500k row sample in\n Airtrain \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nFineweb-Edu-Fortified is a dataset derived from\nFineweb-Edu by applying exact-match\ndeduplication across the whole dataset and producing an embedding for each row. The number of times\nthe text from each row appears is also included as a count column. The embeddings were produced\nusing TaylorAI/bge-micro\nFineweb and… See the full description on the dataset page: https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified.",
+    "downloads": 163939,
+    "tags": [
+      "task_categories:text-generation",
+      "language:en",
+      "license:odc-by",
+      "size_categories:100M<n<1B",
+      "format:parquet",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2406.17557",
+      "arxiv:2109.07445",
+      "region:us"
+    ],
+    "createdAt": "2024-07-22T14:22:31.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T03:30:56.804380+00:00",
+  "last_updated": "2024-08-08T18:04:44.000Z",
+  "links": {
+    "related_models": [
+      "datasets/airtrain-ai"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

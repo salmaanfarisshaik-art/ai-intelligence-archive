@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a C++ code to calculate the sum of the following numbers",
+  "input": "2, 4, 6",
+  "output": "#include <iostream>\n \nint main()\n{\n    int num1 = 2;\n    int num2 = 4;\n    int num3 = 6;\n    int sum = num1 + num2 + num3;\n \n    std::cout << \"The sum of 2, 4 and 6 is: \" << sum << std::endl;\n \n    return 0;\n}",
+  "unique_id": "prompt_write_a_c_code_to",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4372699619913458499",
+  "skill_name": "Convert the following steps into a Python program.",
+  "workflow": "num = float(input('Please enter a positive number: '))\n \nlog10 = math.log10(num)\n \nprint('The logarithm (base 10) of the given number is', log10)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

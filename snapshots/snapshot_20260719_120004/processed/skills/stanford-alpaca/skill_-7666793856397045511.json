@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7666793856397045511",
+  "skill_name": "Create a loop to print the odd numbers in the given range",
+  "workflow": "for num in range(2, 8):\n    if num % 2 != 0:\n        print(num)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

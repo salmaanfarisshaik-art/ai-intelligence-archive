@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5146557029033388500",
+  "skill_name": "Generate an HTML page that calculates the area of a circle from a given radius.",
+  "workflow": "<html>\n<head>\n    <title>Area of Circle Calculator</title>\n</head>\n<body>\n    <h1>Area of Circle Calculator</h1>\n    <form action=\"\">\n        <label for=\"radius\">Radius </label>\n        <input type=\"number\" name=\"radius\" min=\"1\" max=\"100\" step=\"0.1\" placeholder=\"Enter Radius\">\n        </br>\n        </br>\n        <input type=\"submit\" value=\"Calculate\">\n    </form>\n    <script>\n        function calculateArea(){\n            let radius = document.getElementsByName(\"radius\")[0].value;\n            let",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

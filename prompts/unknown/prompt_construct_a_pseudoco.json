@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a pseudocode for the following problem: Write a program to calculate the average of three numbers.",
+  "input": "",
+  "output": "START\n  SET total = 0\n  SET count = 0\n  READ number\n  WHILE number != -1\n    SET total = total + number\n    SET count = count + 1\n    READ number\n  ENDWHILE\n  IF count != 0\n    SET avg = total / count\n    PRINT avg\n  ENDIF\nEND",
+  "unique_id": "prompt_construct_a_pseudoco",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7519104542325825826",
+  "skill_name": "Create an algorithm to convert a negative number to its absolute value",
+  "workflow": "// Algorithm to convert a negative number to its absolute value\n\n// Step 1: \n// Create a variable `absVal` and set it equal to the negative number\n\nlet absVal = -5\n\n// Step 2: \n// Check if the number is negative \n\nif (absVal < 0) {\n  \n  // Step 3: \n  // If the number is negative, multiply it by -1 to get its absolute value\n  absVal = absVal * -1\n  \n}\n\n// Step 4: \n// Return the absolute value of the number\n\nreturn absVal;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

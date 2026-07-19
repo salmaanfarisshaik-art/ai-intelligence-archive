@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4785335172495748092",
+  "skill_name": "Make an API call to the given URL and print the output in the console.",
+  "workflow": "\"\"\"\nMake an API call to the given URL and print the output in the console\n\"\"\"\n\nimport requests \n\nurl = \"https://data.cityofnewyork.us/resource/fhrw-4uyv.json\" \nresponse = requests.get(url) \n\nif response.status_code == 200: \n    data = response.json() \n    print(data)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

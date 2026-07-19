@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6008220771483346410",
+  "technique_name": "Develop a program that will solve this equation",
+  "description": "def solve_equation(a, b, c):\n    discriminant = (b**2) - (4*a*c)\n    x1 = (-b + (discriminant**(1/2))) / (2*a)\n    x2 = (-b - (discriminant**(1/2))) / (2*a)\n    return x1, x2\n\nprint(solve_equation(1, 2, -15))",
+  "example": "x^2 + 2x - 15 = 0",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

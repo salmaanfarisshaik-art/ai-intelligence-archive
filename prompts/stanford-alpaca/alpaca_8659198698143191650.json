@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8659198698143191650",
+  "technique_name": "Create a database with 4 fields to store the given information.",
+  "description": "Table Name: Profile\n\nField 1: Name (VARCHAR data type | Up to 100 characters)\nField 2: Age (INT data type)\nField 3: Gender (VARCHAR data type | Up to 10 characters)\nField 4: Date of Birth (DATE data type)",
+  "example": "Name, Age, Gender, Date of Birth",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

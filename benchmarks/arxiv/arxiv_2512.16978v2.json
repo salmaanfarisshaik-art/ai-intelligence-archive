@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.16978v2",
+  "schema_version": "1.0",
+  "name": "A Benchmark for Omni-Modal Reasoning in Long Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.16978v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.16978v2",
+    "updated": "2026-06-16T16:38:58Z",
+    "published": "2025-12-18T18:59:27Z",
+    "title": "A Benchmark for Omni-Modal Reasoning in Long Videos",
+    "summary": "Long-form omni-modal video understanding requires integrating vision, speech, and ambient audio with coherent long-context reasoning. Existing video benchmarks often trade off temporal scale, modality coverage, open-ended interaction, and interpretable scoring. To address this gap, we introduce LongShOTBench, a long video understanding benchmark designed around three coupled goals: holistic omni-modal integration, intent-driven open-ended interaction, and rubric-level diagnosis. It builds single- and multi-turn questions from real viewing scenarios, with systematic tasks probing visual, speech, ambient-audio, temporal, and cross-modal reasoning. Each item includes a reference answer and a weighted criterion-level rubric, letting evaluation identify which perceptual facts, temporal links, modality-grounding requirements, and reasoning steps are satisfied or missed. All samples are manually verified to improve grounding, clarity, and rubric reliability. We also introduce LongShOTAgent, a training-free omni-modal evidence-seeking agent coupling full-video preprocessing with targeted retrieval, query-adaptive segment refinement, and explicit claim verification over visual, speech, and non-speech audio evidence. Its iterative search-refine-verify loop exposes intermediate evidence and lets modality-specific specialists re-analyze relevant moments before answering. We evaluate 105 video-capable models spanning open-source omni-modal models, vision-language systems, audio LLMs, agentic pipelines and closed-source APIs. Current MLLMs remain far from saturating LongShOTBench, while our LongShOTAgent is the strongest training-free system, reaching 66.64% overall. By releasing the benchmark, leaderboard, and method, we provide a shared, interpretable testbed for advancing long-form omni-modal video reasoning. Code, data, and the leaderboard are available at https://longshot.cvmbzuai.com/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T16:38:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.16978v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

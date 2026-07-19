@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7289131989148929375",
+  "technique_name": "Given some data, train a sentiment analysis model to predict sentiment.",
+  "description": "The sentiment analysis model should be able to classify the sentiment of each tweet as either positive, negative or neutral.  Additionally, the model should be able to detect the sentiment of a new tweet about the same movie by looking at the sentiment of similar words in previously classified tweets.",
+  "example": "The following tweets about a new movie:\n1. \"I just saw the new movie and it's the best thing I've ever seen!\"\n2. \"The new movie was terrible - it was the worst movie I've ever seen.\"\n3. \"Meh, it was okay. I wouldn't say it was great or terrible.\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

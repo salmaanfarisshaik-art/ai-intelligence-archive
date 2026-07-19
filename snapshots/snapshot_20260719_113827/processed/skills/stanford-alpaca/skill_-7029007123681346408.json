@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7029007123681346408",
+  "skill_name": "Generate a code to check whether a given number is prime",
+  "workflow": "def is_prime(num): \n    if num > 1: \n        for i in range(2,num): \n            if (num % i) == 0: \n                return False\n        else: \n            return True \n    else: \n        return False\n    \n# driver code to test the function \nnum = 5\n\nif (is_prime(num)): \n    print(num, \"is a prime number\") \nelse: \n    print(num, \"is not a prime number\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

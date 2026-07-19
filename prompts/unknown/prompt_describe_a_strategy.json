@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe a strategy to prevent SQL injection attacks.",
+  "input": "",
+  "output": "A strategy to prevent SQL injection attacks is to use parameterized queries, also known as prepared statements. Parameterized queries separate the values from the code, which prevents the database from executing anything unintended. Additionally, the application should utilize input validation, which will check for invalid data before the input is passed to the database. Finally, the application should use least privileged accounts for database access and practice good database access control.",
+  "unique_id": "prompt_describe_a_strategy",
+  "schema_version": "1.0"
+}

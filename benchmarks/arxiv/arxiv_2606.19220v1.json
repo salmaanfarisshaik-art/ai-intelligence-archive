@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19220v1",
+  "schema_version": "1.0",
+  "name": "Machine Unlearning for the XGBoost Model with Network Intrusion Datasets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19220v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19220v1",
+    "updated": "2026-06-17T15:57:43Z",
+    "published": "2026-06-17T15:57:43Z",
+    "title": "Machine Unlearning for the XGBoost Model with Network Intrusion Datasets",
+    "summary": "Machine Unlearning (MU) has emerged as an important technique for removing specific data points from trained models without requiring full retraining. However, most existing MU research focuses on deep learning and image data, leaving a gap in the domain of network intrusion detection, which relies heavily on tabular data. This work introduces XGBoost-Forget, an unlearning approach for the XGBoost model, to address this gap. The approach is evaluated on two tabular Network Intrusion (NI) datasets, IoT-23 and GeNIS, using multiple metrics to assess model performance, unlearning efficiency, and forgetting quality. The results show that XGBoost-Forget maintains predictive performance close to the original model while providing significantly faster unlearning, demonstrating its potential for MU in tabular NI settings.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T15:57:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19220v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

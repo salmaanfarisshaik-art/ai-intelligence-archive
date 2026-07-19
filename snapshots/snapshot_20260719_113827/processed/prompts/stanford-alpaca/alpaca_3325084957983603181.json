@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3325084957983603181",
+  "technique_name": "Develop a script that prints out the Fibonacci sequence.",
+  "description": "def fibonacci_sequence(n): \n    # set initial values \n    a = 0 \n    b = 1  \n    if n == 0: \n        return a \n    elif n == 1:\n        return b \n    else: \n        # loop over the sequence \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b \n  \n# Print the sequence \nfor i in range(10): \n    print(fibonacci_sequence(i), end=\" \") \n\n# Output: 0 1 1 2 3 5 8 13 21 34",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "67828a6e244c0e06b124e46f",
+  "id": "jamesqijingsong/zidian",
+  "author": "jamesqijingsong",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-30T11:06:59.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "83da951223ace0fa77d32be0887415b81046b243",
+  "description": "时间线：\n\n2018年搭建成网站 https://zidian.18dao.net\n2024年使用AI技術為《國語字典》生成配圖。\n2025年上傳到Hugging Face做成數據集。\n\n数据集中的文件: \n\n目录 \"image/\" 下的文件数量: 4307，文生圖原始png圖片\n目录 \"image-zidian/\" 下的文件数量: 4307，加字後的jpg圖片\n目录 \"text-zidian/\" 下的文件数量: 4307，圖片解釋文字\n目录 \"pinyin/\" 下的文件数量: 1702，拼音mp3文件\n\n",
+  "downloads": 76442,
+  "tags": [
+    "language:zh",
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "size_categories:1K<n<10K",
+    "format:imagefolder",
+    "modality:audio",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "art",
+    "image",
+    "zidian"
+  ],
+  "createdAt": "2025-01-11T15:12:46.000Z",
+  "key": "",
+  "unique_id": "dataset_jamesqijingsong_zidian",
+  "schema_version": "1.0"
+}

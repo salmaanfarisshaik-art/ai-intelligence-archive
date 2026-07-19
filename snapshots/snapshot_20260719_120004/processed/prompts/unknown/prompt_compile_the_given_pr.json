@@ -1,0 +1,7 @@
+{
+  "instruction": "Compile the given program in C++.",
+  "input": "#include <iostream>\n\nint main() {\n    std::cout << \"Hello World!\";\n    return 0;\n}",
+  "output": "Program successfully compiled.",
+  "unique_id": "prompt_compile_the_given_pr",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a html code in order to create a simple form",
+  "input": "",
+  "output": "<form action=\"\">\n    <input type=\"text\" name=\"name\" placeholder=\"Name\">\n    <input type=\"text\" name=\"last_name\" placeholder=\"Last Name\">\n    <input type=\"email\" name=\"email\" placeholder=\"Email\">\n    <button type=\"submit\">Submit</button>    \n</form>",
+  "unique_id": "prompt_generate_a_html_code",
+  "schema_version": "1.0"
+}

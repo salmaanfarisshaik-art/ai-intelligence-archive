@@ -1,0 +1,7 @@
+{
+  "instruction": "Creat a function in C++ to calculate the area of a triangle.",
+  "input": "",
+  "output": "float triangleArea(float base, float height) {\n    float area;\n    area = (base * height) / 2;\n    return area; \n}",
+  "unique_id": "prompt_creat_a_function_in",
+  "schema_version": "1.0"
+}

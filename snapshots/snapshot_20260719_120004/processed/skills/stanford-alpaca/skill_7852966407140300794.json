@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7852966407140300794",
+  "skill_name": "Describe the structure and function of an N-Gram language model.",
+  "workflow": "An N-Gram language model is a probabilistic model that takes as input a sequence of N items and tries to predict the probability of the next item in the sequence. The structure of a N-Gram model consists of a set of N-grams, which are tuples of N items, with each item typically being a word. The N-grams are used to calculate the probability of the next word in the sequence, by taking into account the context in which it appears. This context can be in terms of words that appear before or after t",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

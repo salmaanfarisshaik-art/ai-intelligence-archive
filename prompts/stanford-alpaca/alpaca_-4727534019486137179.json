@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4727534019486137179",
+  "technique_name": "Create an SQL query to find the vendors with the highest ratings.",
+  "description": "SELECT name, MAX(rating) FROM Vendors GROUP BY name;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7272696076071925342",
+  "skill_name": "Given the pieces of code, explain why the function does not work properly.",
+  "workflow": "The function does not work properly because the return statement is outside of the function's code block. The return statement should be inside of the code block so that it can return the value of answer which is calculated by num1 + num2.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

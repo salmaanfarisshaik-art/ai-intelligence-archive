@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.20554v1",
+  "schema_version": "1.0",
+  "name": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.20554v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.20554v1",
+    "updated": "2026-06-18T17:58:32Z",
+    "published": "2026-06-18T17:58:32Z",
+    "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+    "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core of generative recommendation lies item tokenization, which bridges item semantics and recommendation models. However, existing methods often struggle to effectively organize and inject complex user-behavioral and item-semantic contexts into recommendation models simultaneously. On the one hand, existing graph-based integration methods, such as graph serialization and graph neural networks, either suffer from scalability issues or exploit only local graph information. On the other hand, existing semantic tokenization methods typically rely on heuristics and lack explicit supervision signals, which may lead to inaccurate or suboptimal semantic representations. To address these limitations in user interest context modeling, we propose G2Rec, a scalable framework that unifies holistic graph-based user co-engagement modeling with semantic tokenization for industrial-scale generative recommendation. Overall, G2Rec enables recommendation models to capture holistic and semantically grounded user interest prototypes without requiring ground-truth user interests, thereby providing more comprehensive and accurate modeling of user behavior contexts in industrial sequential recommendation. Online deployment across product surfaces and extensive experiments on public datasets demonstrate the superiority of G2Rec over existing methods.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T17:58:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.20554v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

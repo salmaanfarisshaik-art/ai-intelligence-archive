@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a Jquery script to hide all HTML elements which have the class “hide-this.”",
+  "input": "",
+  "output": "$(document).ready(function(){\n$('.hide-this').hide();\n});",
+  "unique_id": "prompt_write_a_jquery_scrip",
+  "schema_version": "1.0"
+}

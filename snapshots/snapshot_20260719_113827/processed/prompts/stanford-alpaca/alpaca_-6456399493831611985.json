@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6456399493831611985",
+  "technique_name": "Given a set of instructions, design an algorithm to complete the instructions.",
+  "description": "The algorithm should iterate through the array and for each element, check if there is an element with which it makes a pair that adds up to k. If such a pair is found, the elements should be added to the result list. This process should be repeated until all elements in the array have been checked.",
+  "example": "Instructions: Given an array of integers, find all the pairs that have a sum of k.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

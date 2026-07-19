@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.20544v1",
+  "schema_version": "1.0",
+  "name": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.20544v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.20544v1",
+    "updated": "2026-06-18T17:55:00Z",
+    "published": "2026-06-18T17:55:00Z",
+    "title": "Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+    "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforcing calibration at the level of individual predictors can improve ensemble accuracy and calibration, with mixture-of-experts (MoE) models showing strong empirical improvements in particular; however, the conditions under which calibration helps MoE are not well understood. In this work, we study how MoE models behave under distribution shift, focusing on how routing mechanisms interact with expert-level calibration. We show that expert calibration is sufficient to ensure calibration of the overall model under a broad class of distribution shifts in hard-routed models, but is insufficient for calibrating soft-routed models. To address this, we propose an adversarial reweighting that penalizes calibration errors of the routed aggregate under distribution shift, and we demonstrate that it improves the accuracy-calibration tradeoff both on average and on difficult subsets of the data, across model classes, prediction tasks, and distribution shifts.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T17:55:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.20544v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

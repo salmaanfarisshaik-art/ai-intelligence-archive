@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8613679592869631103",
+  "technique_name": "Design a function to count the number of unique characters in a string.",
+  "description": "def count_unique_chars(string):\n  char_dict = {}\n  for char in string:\n    if char in char_dict:\n      char_dict[char] += 1\n    else:\n      char_dict[char] = 1\n  return len(char_dict)\n\nprint(count_unique_chars(\"Butterflies\"))\n# Output: 9",
+  "example": "string = “Butterflies”",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

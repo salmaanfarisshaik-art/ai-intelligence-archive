@@ -1,0 +1,7 @@
+{
+  "instruction": "Complete the code to produce the expected output.",
+  "input": "def get_string(text):\n  words = text.split()\n  #Your Code goes here\n  return string\n\nInput: \"Hello there how are you?\"\n\nExpected Output: \"Hello_there_how_are_you?\"",
+  "output": "def get_string(text):\n  words = text.split()\n  string = \"_\".join(words)\n  return string\n\nInput: \"Hello there how are you?\"\n\nExpected Output: \"Hello_there_how_are_you?\"",
+  "unique_id": "prompt_complete_the_code_to",
+  "schema_version": "1.0"
+}

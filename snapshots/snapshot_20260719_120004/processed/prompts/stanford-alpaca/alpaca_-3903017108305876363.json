@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3903017108305876363",
+  "technique_name": "Write a function that checks if a string is a palindrome.",
+  "description": "def isPalindrome(string): \n    # remove non-alphanumeric characters \n    alphanumeric_string = re.sub('[\\W_]+', '', string).lower() \n  \n    # reverse the string \n    reversed_string = alphanumeric_string[::-1] \n  \n    # check if the string is equal to its reverse \n    return alphanumeric_string == reversed_string",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

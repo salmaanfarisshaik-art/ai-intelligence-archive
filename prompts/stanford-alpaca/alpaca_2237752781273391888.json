@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2237752781273391888",
+  "technique_name": "Write a function in JavaScript to calculate the sum of a given array of numbers.",
+  "description": "function sumOfArray(arr){\n  var sum = 0;\n  for(var i=0;i<arr.length;i++){\n    sum+=arr[i];\n  }\n  return sum;\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-201436734270475162",
+  "skill_name": "Create an algorithm for a text summarizer.",
+  "workflow": "My algorithm for a text summarizer involves extracting the main points from a given text and creating a concise summary. First, the text is broken up into individual sentences, and for each sentence a score is assigned based on its length, the number of unique words it contains, and the number of times the words appear in the text. Then, based on the sentence scores, the most important words are chosen and the summary is created by combining them into one or two sentences.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

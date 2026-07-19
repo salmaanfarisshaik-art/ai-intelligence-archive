@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a snippet of code to find the largest number in the array.",
+  "input": "[1, 5, 7, 18, 24, 32]",
+  "output": "int largestNum = 0; \nforeach(int num in array)\n{ \n    if (num > largestNum) \n    {\n        largestNum = num; \n    }\n}\n\nConsole.WriteLine(\"The largest number in the array is \" + largestNum);",
+  "unique_id": "prompt_write_a_snippet_of_c",
+  "schema_version": "1.0"
+}

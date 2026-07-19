@@ -1,0 +1,7 @@
+{
+  "instruction": "Mail merge two documents.",
+  "input": "Two documents are attached.\n\nLetter1.docx\n\nDear [Name],\n\n[We hope] you and your family are in good health and wellbeing.\n\nBest regards,\n\n[Your Name]\n\nForm1.xlsx\n\nName\nJohn\nFive",
+  "output": "Letter_merged.docx\n\nDear John,\n\nWe hope you and your family are in good health and wellbeing.\n\nBest regards,\n\n[Your Name]\n\nDear Five,\n\nWe hope you and your family are in good health and wellbeing.\n\nBest regards,\n\n[Your Name]",
+  "unique_id": "prompt_mail_merge_two_docum",
+  "schema_version": "1.0"
+}

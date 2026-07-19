@@ -1,0 +1,7 @@
+{
+  "instruction": "Formulate a query to match and retrieve a user-uploaded PDF document that contains the word \"insurance\".",
+  "input": "",
+  "output": "SELECT * FROM Documents WHERE FileName LIKE '%insurance%' AND FileType='PDF'",
+  "unique_id": "prompt_formulate_a_query_to",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2246624198894366682",
+  "skill_name": "Create a database query to list the top ten customers based on sales amount",
+  "workflow": "SELECT customer_id, SUM(sales_amount) \nFROM customer_transactions \nGROUP BY customer_id \nORDER BY SUM(sales_amount) DESC \nLIMIT 10;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

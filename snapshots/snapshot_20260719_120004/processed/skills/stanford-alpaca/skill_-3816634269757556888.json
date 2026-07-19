@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3816634269757556888",
+  "skill_name": "Given the following code, modify it to print the number of items that are greater than 50.",
+  "workflow": "list = [39, 50, 89, 101]\ncount = 0\nfor item in list:\n  if item > 50:\n    count += 1\nprint('Number of items greater than 50:', count)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

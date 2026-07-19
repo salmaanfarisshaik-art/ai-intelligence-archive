@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4792165069993234322",
+  "skill_name": "Generate a computer program to output the Fibonacci sequence up to nth number.",
+  "workflow": "def fibonacciSequence(n): \n    \n    a = 0\n    b = 1\n    output = [a, b]\n\n    for _ in range(2, n):\n        c = a + b\n        a = b\n        b = c\n        output.append(c)\n\n    return output\n\nprint(fibonacciSequence(10))  # [0, 1, 1, 2, 3, 5, 8, 13, 21, 34]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

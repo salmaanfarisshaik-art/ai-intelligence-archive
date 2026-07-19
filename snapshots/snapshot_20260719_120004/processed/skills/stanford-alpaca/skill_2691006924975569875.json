@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2691006924975569875",
+  "skill_name": "Generate a solution for the following problem that involves binary search",
+  "workflow": "A binary search can be used to solve this problem. First, the array must be sorted in ascending order. Then, set a low and high index. Compare the element at the mid-index with the target element. If the target element is lower than the mid-index, move the high index to the mid-index minus one. If it is higher, move the low index to the mid-index plus one. Repeat until the element is found or the low index is greater than the high index.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

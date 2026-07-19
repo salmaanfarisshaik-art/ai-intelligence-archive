@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4159366229396522892",
+  "technique_name": "Create a form for people to sign up for a newsletter.",
+  "description": "<html>\n  <body>\n    <form action=\"signup.php\" method=\"post\">\n      <h2>Sign up for our Newsletter</h2>\n      <label for=\"firstname\">First Name: </label>\n      <input type=\"text\" id=\"firstname\" name=\"firstname\" placeholder=\"Enter your first name\">\n      <label for=\"lastname\">Last Name: </label>\n      <input type=\"text\" id=\"lastname\" name=\"lastname\" placeholder=\"Enter your last name\">\n      <label for=\"email\">Email Address: </label>\n      <input type=\"text\" id=\"email\" name=\"email\" placeholder=\"Ent",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

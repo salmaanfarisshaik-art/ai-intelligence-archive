@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_279679346238861694",
+  "skill_name": "Given the following parameters, design an algorithm to solve the problem.",
+  "workflow": "Algorithm:\n\n-First declare a List to store the result. \n-Create a recursive function with two parameters: a list containing the elements and the target sum. \n-Base case: If the target sum is found, add the list to the result.\n-Else: Iterate through each element in the list. \n-For each element, subtract that from the target sum and recursively call the same function with the remaining list and the new target sum. \n-After the recursion finishes, remove the current element from the list and continu",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

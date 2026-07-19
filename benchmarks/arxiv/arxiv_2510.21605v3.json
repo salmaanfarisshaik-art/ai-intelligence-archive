@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.21605v3",
+  "schema_version": "1.0",
+  "name": "S3OD: Towards Generalizable Salient Object Detection with Synthetic Data",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.21605v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.21605v3",
+    "updated": "2026-06-17T16:14:08Z",
+    "published": "2025-10-24T16:10:09Z",
+    "title": "S3OD: Towards Generalizable Salient Object Detection with Synthetic Data",
+    "summary": "Salient object detection exemplifies data-bounded tasks where expensive pixel-precise annotations force separate model training for related subtasks like DIS and HR-SOD. We present a method that dramatically improves generalization through large-scale synthetic data generation and ambiguity-aware architecture. We introduce S3OD, a dataset of over 139,000 high-resolution images created through our multi-modal diffusion pipeline that extracts labels from diffusion and DINO-v3 features. The iterative generation framework prioritizes challenging categories based on model performance. We propose a streamlined multi-mask decoder that handles the inherent ambiguity in salient object detection by predicting multiple valid interpretations. Models trained only on synthetic data achieve 20-50% error reduction in cross-dataset generalization, while fine-tuned versions reach state-of-the-art performance across DIS and HR-SOD benchmarks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:14:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.21605v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

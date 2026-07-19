@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2046335345461911289",
+  "technique_name": "How would you design a data structure for storing a list of stock prices?",
+  "description": "One way to design a data structure for storing a list of stock prices would be to use a linked list structure. Each node would represent a single stock item and would contain the relevant price data, as well as fields to store references to the previous and next stock items in the list. This would allow for fast searching and sorting of the list, as well as the easy insertion and removal of stock prices without requiring an entire reorganization of the list.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

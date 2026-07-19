@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3853732350001275549",
+  "skill_name": "For a given array arr, write a program to sort the array in-place without using any sort function.",
+  "workflow": "def sort(arr): \n    n = len(arr) \n    for i in range(n): \n  \n        min_idx = i \n        for j in range(i+1, n): \n            if arr[min_idx] > arr[j]: \n                min_idx = j \n          \n        arr[i], arr[min_idx] = arr[min_idx], arr[i] \n  \narr = [5, 7, 3, 9, 10, 1] \nsort(arr) \n\nprint (\"Sorted array:\") \nfor i in range(len(arr)): \n    print(\"%d\" %arr[i]),",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

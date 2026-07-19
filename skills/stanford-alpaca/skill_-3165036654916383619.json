@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3165036654916383619",
+  "skill_name": "Clean up the following piece of code.",
+  "workflow": "def count_vowels(string):\n  vowels = ['a', 'e', 'i', 'o', 'u']\n  count = 0\n  for letter in string:\n    if letter in vowels:\n      count += 1\n  return count",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

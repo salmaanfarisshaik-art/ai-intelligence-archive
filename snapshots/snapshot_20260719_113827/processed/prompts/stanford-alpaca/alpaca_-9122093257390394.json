@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-9122093257390394",
+  "technique_name": "Create a function to to check if a given number is an Armstrong number or not.",
+  "description": "\"\"\"\nCheck if a given number is an Armstrong number or not\n\"\"\"\n\ndef isArmstrongNumber(num): \n    # Calculate the length of num \n    n = len(str(num)) \n  \n    # Initialize sum \n    sum = 0\n  \n    # Find a sum of nth power of    \n    # individual digits\n    temp = num \n    while temp > 0: \n        digit = temp % 10\n        sum += digit ** n \n        temp //= 10\n  \n    # Return True if num is equal to the sum \n    # of nth power of its digits\n    if num == sum: \n        return True\n    else: \n      ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

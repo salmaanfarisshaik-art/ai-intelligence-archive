@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6440439765240272496",
+  "technique_name": "Create a form in HTML that allows users to answer multiple-choice questions.",
+  "description": "<form>\n  <h2>Multiple Choice Questions</h2>\n  <p>Q1. Which of the following are mammals?</p>\n  <label><input type=\"radio\" name=\"question1\" value=\"a\">a. Human</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"b\">b. Fish</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"c\">c. Parrot</label><br>\n  <label><input type=\"radio\" name=\"question1\" value=\"d\">d. Snake</label><br>\n  <p>Q2. Who is the president of France?</p>\n  <label><input type=\"radio\" name=\"question2\" value=\"a",
+  "example": "Questions:\nQ1. Which of the following are mammals?\na. Human\nb. Fish\nc. Parrot\nd. Snake\n\nQ2. Who is the president of France?\na. Angela Merkel\nb. Recep Tayyip Erdogan\nc. Joe Biden\nd. Emmanuel Macron",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Find the average number in a list.",
+  "input": "[4, 3, 6, 10, 8]",
+  "output": "def avg_list(nums):\n   total = 0\n   for n in nums:\n      total += n\n   return total / len(nums)\n\nprint(avg_list([4, 3, 6, 10, 8]))\n\n# Output\n6.4",
+  "unique_id": "prompt_find_the_average_num",
+  "schema_version": "1.0"
+}

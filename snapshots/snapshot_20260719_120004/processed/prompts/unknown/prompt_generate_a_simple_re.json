@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a simple react component structure",
+  "input": "",
+  "output": "import React from 'react';\n \nconst MyComponent = () => {\n return ( \n   <div>\n     <h1>My Component</h1>\n     <p>Content goes here.</p>\n   </div>\n )\n};\n \nexport default MyComponent;",
+  "unique_id": "prompt_generate_a_simple_re",
+  "schema_version": "1.0"
+}

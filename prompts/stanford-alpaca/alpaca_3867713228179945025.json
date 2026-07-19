@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3867713228179945025",
+  "technique_name": "Compile the following source code.",
+  "description": "No output as compilation will result in a \".class\" file which is a binary format that cannot be read directly.",
+  "example": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello World!\");\n    }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

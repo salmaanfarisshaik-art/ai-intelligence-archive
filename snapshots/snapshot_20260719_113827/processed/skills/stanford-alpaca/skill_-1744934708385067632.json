@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1744934708385067632",
+  "skill_name": "Create a class that supports mathematical operations (+, -, *, /)",
+  "workflow": "class MathOperator:\n    def __init__(self,a,b):\n        self.a = a\n        self.b = b\n        \n    def add(self):\n        return self.a + self.b\n    \n    def subt(self):\n        return self.a - self.b\n    \n    def mult(self):\n        return self.a * self.b\n    \n    def div(self):\n        if self.b != 0:\n            return self.a / self.b\n        else:\n            return \"Cannot divide by zero!\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

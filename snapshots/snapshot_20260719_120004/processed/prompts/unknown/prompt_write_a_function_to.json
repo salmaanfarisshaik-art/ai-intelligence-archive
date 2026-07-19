@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a function to calculate the factorial of a given number.",
+  "input": "",
+  "output": "def factorial(n):\n    if n == 0:\n        return 1\n    return n * factorial(n-1)",
+  "unique_id": "prompt_write_a_function_to",
+  "schema_version": "1.0"
+}

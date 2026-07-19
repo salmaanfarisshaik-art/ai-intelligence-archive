@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop a SQL query to find the average order value across different countries.",
+  "input": "",
+  "output": "SELECT country, AVG(order_total) FROM Orders GROUP BY country;",
+  "unique_id": "prompt_develop_a_sql_query",
+  "schema_version": "1.0"
+}

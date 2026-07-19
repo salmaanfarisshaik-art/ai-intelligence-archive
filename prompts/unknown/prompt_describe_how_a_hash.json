@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe how a hash table works.",
+  "input": "",
+  "output": "A hash table is an efficient data structure used to store key-value pairs. Data is stored in the form of a key and a corresponding data value. The hash table uses a hashing function to calculate the hash code – a unique identifier – that is associated with each key. To look up the value of the key, the hash table uses the key’s hash code to locate the corresponding data value. As a result, data can be accessed quickly and efficiently.",
+  "unique_id": "prompt_describe_how_a_hash",
+  "schema_version": "1.0"
+}

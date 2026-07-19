@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7645943438195653597",
+  "skill_name": "Write an algorithm to sort numbers from least to greatest",
+  "workflow": "This algorithm will sort numbers from least to greatest. \n\nStep 1: Begin with an array of unsorted numbers. \nStep 2: Set two variables; \"min\" and \"index\". \nStep 3: Iterate through the array. \nStep 4: Compare each value with \"min\". \nStep 5: If the value is less than \"min\", update min and record the index of the value. \nStep 6: After each iteration, swap the value at the index of \"min\" with the value at the beginning of the array. \nStep 7: The beginning of the array is now the smallest value. \nSte",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

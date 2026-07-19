@@ -1,0 +1,50 @@
+{
+  "unique_id": "hf_ds_6947232e01886522f0154ff9",
+  "schema_version": "1.0",
+  "name": "permutans/arxiv-papers-by-subject",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tarXiv Papers by Subject\n\t\n\nA reorganised version of the nick007x/arxiv-papers dataset, partitioned by subject code, year, and month for efficient selective access.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThis dataset contains metadata for over 2.5 million arXiv papers, organised into a hierarchical directory structure that allows users to download only the specific subjects and time periods they need, rather than the entire dataset.\n\n\t\n\t\t\n\t\n\t\n\t\tMotivation\n\t\n\nThe original… See the full description on the dataset page: https://huggingface.co/datasets/permutans/arxiv-papers-by-subject.",
+  "size": "355648",
+  "source_url": "https://huggingface.co/datasets/permutans/arxiv-papers-by-subject",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "6947232e01886522f0154ff9",
+    "id": "permutans/arxiv-papers-by-subject",
+    "author": "permutans",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-12-21T14:22:17.000Z",
+    "likes": 32,
+    "private": false,
+    "sha": "1bfcc055550b6f648c19946844ab0cab482da685",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tarXiv Papers by Subject\n\t\n\nA reorganised version of the nick007x/arxiv-papers dataset, partitioned by subject code, year, and month for efficient selective access.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThis dataset contains metadata for over 2.5 million arXiv papers, organised into a hierarchical directory structure that allows users to download only the specific subjects and time periods they need, rather than the entire dataset.\n\n\t\n\t\t\n\t\n\t\n\t\tMotivation\n\t\n\nThe original… See the full description on the dataset page: https://huggingface.co/datasets/permutans/arxiv-papers-by-subject.",
+    "downloads": 355648,
+    "tags": [
+      "task_categories:text-generation",
+      "task_categories:feature-extraction",
+      "source_datasets:nick007x/arxiv-papers",
+      "language:en",
+      "license:mit",
+      "size_categories:1M<n<10M",
+      "region:us",
+      "arxiv",
+      "academic-papers",
+      "scientific-literature",
+      "research",
+      "metadata"
+    ],
+    "createdAt": "2025-12-20T22:29:02.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:15.858854+00:00",
+  "last_updated": "2025-12-21T14:22:17.000Z",
+  "links": {
+    "related_models": [
+      "datasets/permutans"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3543820496060513897",
+  "skill_name": "Construct a SQL query that returns the names of all employees who have worked for the company for more than 10 years.",
+  "workflow": "SELECT name FROM Employees WHERE years_of_service > 10;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

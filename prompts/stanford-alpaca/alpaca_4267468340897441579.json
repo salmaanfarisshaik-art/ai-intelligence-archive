@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4267468340897441579",
+  "technique_name": "Design an algorithm to solve an interesting problem",
+  "description": "This algorithm is designed to find the most efficient path between two nodes on a graph. It starts by creating a set of nodes containing the start and end nodes. The algorithm then looks at all the edges connected to each of these nodes and calculates the total cost of each path, while keeping track of the minimum cost. The algorithm continues to look at the next closest nodes until the end node is reached, then it will return the most efficient path with the lowest cost.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write an API to find the next prime number",
+  "input": "",
+  "output": "def next_prime(n):\n    '''\n    Returns the next prime number after the number n\n    Inputs:\n        n (int): The number that the API should start from\n    Outputs:\n        The next prime number\n    '''\n    num = n + 1\n    while True:\n        for i in range(2, num):\n            if num % i == 0:\n                num += 1\n                break\n        else:\n            return num",
+  "unique_id": "prompt_write_an_api_to_find",
+  "schema_version": "1.0"
+}

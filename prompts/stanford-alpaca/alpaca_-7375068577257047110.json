@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7375068577257047110",
+  "technique_name": "Output the expected output for the following program.",
+  "description": "If the user inputs a number greater than 0, the output would be \"positive\". If the user inputs a number less than 0, the output would be \"negative\". If the user inputs 0, the output would be \"neutral\".",
+  "example": "user_input = int(input(\"Please enter a number: \"))\n\nif (user_input > 0):\n    print(\"positive\")\nelif (user_input == 0):\n    print(\"neutral\")\nelse:\n    print(\"negative\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

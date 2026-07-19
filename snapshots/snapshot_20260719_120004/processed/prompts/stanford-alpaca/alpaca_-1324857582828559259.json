@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1324857582828559259",
+  "technique_name": "Tune the given hyperparameters of this AI model.",
+  "description": "The hyperparameters can be tuned using a grid search approach to find the most optimal parameters. For example, the number of filters and filter size can be varied for each search iteration and the highest performing model can be selected for use. \nThis could involve increasing the number of filters and/or increasing the filter size up to a maximum value. The selected hyperparameters should be the ones that lead to the highest accuracy levels in terms of validation metric.",
+  "example": "Number of filters: 6\nFilter size: 3",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

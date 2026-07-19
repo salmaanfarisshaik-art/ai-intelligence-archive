@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1616155802428805923",
+  "skill_name": "Write a function to find the most frequent element in an array.",
+  "workflow": "def findMostFrequent(arr): \n    count_arr = {} \n    for i in range(len(arr)): \n        if arr[i] in count_arr: \n            count_arr[arr[i]] += 1\n        else: \n            count_arr[arr[i]] = 1\n    max_frequency = max(count_arr.values()) \n    for key,value in count_arr.items(): \n        if value == max_frequency: \n            return key",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

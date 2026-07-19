@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.13677v1",
+  "schema_version": "1.0",
+  "name": "Mana: Dexterous Manipulation of Articulated Tools",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.13677v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.13677v1",
+    "updated": "2026-06-11T17:59:49Z",
+    "published": "2026-06-11T17:59:49Z",
+    "title": "Mana: Dexterous Manipulation of Articulated Tools",
+    "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focused on rigid objects, articulated tool use remains underexplored because of its physical complexity and the difficulty of learning functional grasping and manipulation policies. We present Mana (Manipulation Animator), a general sim-to-real framework that reinterprets dexterous manipulation as an animation problem. Inspired by computer animation, Mana employs a coarse-to-fine pipeline that transforms procedurally-generated grasp keyframes into manipulation trajectories through motion planning and reinforcement learning. The data generation process is largely automatic, requiring only a few mouse clicks to specify functional affordances (<1 minute per tool). Across four articulated tools spanning different scales and joint types, Mana achieves zero-shot sim-to-real transfer for both grasping and in-hand manipulation, demonstrating a scalable approach to dexterous articulated tool use.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:59:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.13677v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

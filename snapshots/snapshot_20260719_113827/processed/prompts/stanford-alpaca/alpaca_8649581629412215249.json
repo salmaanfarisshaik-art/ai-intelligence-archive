@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8649581629412215249",
+  "technique_name": "Write a function to calculate the total cost of a shopping basket",
+  "description": "def calculate_total(basket):\n    total = 0\n    # Iterate over the items and add their cost to the total \n    for item in basket:\n        total += item[1]\n    return total",
+  "example": "Items: \n- Apples (x2): 4.50 \n- Eggs (x6): 2.00 \n- Milk (x1): 1.00",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1108451325296796377",
+  "skill_name": "Write an algorithm to detect plagiarism.",
+  "workflow": "def detect_plagiarism(text):\n  # Step 1: Split text into individual words\n  text_words = text.split()\n  \n  # Step 2: Parse each word and compare to a database of words\n  for word in text_words:\n    if word in database:\n      # Step 3: If a word matches, check for a specified number of words after it\n      # Step 4: If a certain number of words are found in the same order, flag plagiarism\n      next_words = text_words[text_words.index(word)+1:text_words.index(word)+5]\n      if next_words == datab",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

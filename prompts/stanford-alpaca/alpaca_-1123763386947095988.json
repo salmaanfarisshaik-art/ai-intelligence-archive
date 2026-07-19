@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1123763386947095988",
+  "technique_name": "How does data deduplication work?",
+  "description": "Data deduplication is a process wherein duplicate files are identified and eliminated, resulting in fewer copies of the same file stored. In this process, the original file is compressed first so that the most space can be saved. The compression algorithm applied to the data blocks compares the contents of each file to detect duplication. If two or more copies of the same file are found, only one copy is kept and the rest are discarded. This reduces the overall space required to store the files,",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

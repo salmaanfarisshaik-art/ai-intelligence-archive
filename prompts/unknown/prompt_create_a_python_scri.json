@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a Python script to sort a given array in reverse order.",
+  "input": "array = [10, 2, 5, -4, 92, 101]",
+  "output": "def sort_reverse(array): \n  \n    # Traverse array from last \n    # to first element \n    for i in range(len(array)-1, 0, -1): \n  \n        # Find index of the maximum element \n        max_idx = 0\n        for j in range(1, i+1): \n            if array[j] > array[max_idx]: \n                max_idx = j \n  \n        # Swap maximum element with \n        # current element \n        array[i], array[max_idx] = array[max_idx], array[i] \n  \n    return array \n  \n# Driver code \narray = [10, 2, 5, -4, 92, 101]\nprint(sort_reverse(array))",
+  "unique_id": "prompt_create_a_python_scri",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4265798498402100445",
+  "technique_name": "Create a program in Python to classify a given dataset",
+  "description": "import pandas as pd \n\n# Load the dataset \ndataset = pd.read_csv('dataset.csv')\n\n# Separate the data into input and output fields \nX = dataset.iloc[:, :-1].values\ny = dataset.iloc[:, -1].values\n\n# Split the dataset into training and test sets \nfrom sklearn.model_selection import train_test_split\nX_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)\n\n# Calculate the parameters of the model \nfrom sklearn.linear_model import LogisticRegression\nclassifier = Logistic",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

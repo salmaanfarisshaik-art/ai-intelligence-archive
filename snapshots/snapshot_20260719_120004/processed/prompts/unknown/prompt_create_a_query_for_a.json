@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a query for a database that finds all countries in the world with a population greater than 10 million.",
+  "input": "",
+  "output": "SELECT * FROM countries WHERE population > 10000000",
+  "unique_id": "prompt_create_a_query_for_a",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct the C++ program that prints a message \"Hello World\".",
+  "input": "",
+  "output": "#include <iostream> \n  \n// main function - \n// where the execution of program begins \nint main() \n{ \n    // prints hello world \n    std::cout<<\"Hello World\"; \n      \n    return 0; \n}",
+  "unique_id": "prompt_construct_the_c_pr",
+  "schema_version": "1.0"
+}

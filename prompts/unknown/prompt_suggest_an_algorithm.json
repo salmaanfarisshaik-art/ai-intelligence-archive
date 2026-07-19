@@ -1,0 +1,7 @@
+{
+  "instruction": "Suggest an algorithm to classify musical composition as ‘romantic’ or ‘modern’.",
+  "input": "",
+  "output": "One possible algorithm for classifying musical compositions as 'romantic' or 'modern' could rely on audio features such as tempo, loudness, and harmony. The algorithm could be trained on a dataset of labeled compositions, and then be used to classify unknown compositions. To ensure accuracy, it may be necessary to use a combination of multiple audio features. Additionally, it may be beneficial to use a convolutional neural network (CNN) with the labeled data, as CNNs are widely used for image and audio classification.",
+  "unique_id": "prompt_suggest_an_algorithm",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Update the given travel itinerary to reflect the new details.",
+  "input": "Day 1: Flight from London to New York at 12 pm\nDay 2: Visit the National Museum of Natural History in Washington DC\nDay 3: Flight from New York to San Francisco at 3 pm",
+  "output": "Day 1: Flight from London to New York at 12 pm\nDay 2: Take a bus from New York to Washington DC for a visit at the National Museum of Natural History \nDay 3: Flight from Washington DC to San Francisco at 3 pm",
+  "unique_id": "prompt_update_the_given_tra",
+  "schema_version": "1.0"
+}

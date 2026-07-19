@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a Keras model that takes in 5 inputs and has five outputs",
+  "input": "",
+  "output": "model = tf.keras.models.Sequential([ \n    tf.keras.layers.Input(shape=(5,)), \n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(5, activation='linear')\n])\n\nmodel.compile(loss='mse', optimizer='Adam')",
+  "unique_id": "prompt_create_a_keras_model",
+  "schema_version": "1.0"
+}

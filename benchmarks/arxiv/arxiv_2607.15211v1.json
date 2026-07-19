@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.15211v1",
+  "schema_version": "1.0",
+  "name": "MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.15211v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.15211v1",
+    "updated": "2026-07-16T17:12:58Z",
+    "published": "2026-07-16T17:12:58Z",
+    "title": "MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos",
+    "summary": "This paper presents MAGiSt3R, a multi-agent 3D reconstruction framework performing reconstruction and camera tracking for monocular RGB videos at almost 10 FPS. MAGiSt3R relies on a feed-forward model from the 3R family to process RGB videos and regress local point maps, and on a merging model, MAGMA, that combines local maps at both intra-agent and inter-agent levels to obtain the final global point map. Furthermore, MAGiSt3R performs pose graph optimization to mitigate cumulative camera drift occurring along the feed-forward pipeline. We evaluate MAGiSt3R on both synthetic and real-world datasets, demonstrating its superior reconstruction and camera tracking accuracy compared to state-of-the-art approaches.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T17:12:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.15211v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

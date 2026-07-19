@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a JavasScript program to reverse all of the words in a given string",
+  "input": "",
+  "output": "function reverseString(str) {\n    let reversedString = '';\n    str.split('').forEach(char => reversedString = char + reversedString);\n    return reversedString;\n}",
+  "unique_id": "prompt_write_a_javasscript",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create an HTML form with 4 input fields and a submit button.",
+  "input": "",
+  "output": "<form>\n  <label for=\"name\">Name:</label><br>\n  <input type=\"text\" id=\"name\" name=\"name\"><br>\n  <label for=\"email\">Email:</label><br>\n  <input type=\"email\" id=\"email\" name=\"email\"><br>\n  <label for=\"phone\">Phone:</label><br>\n  <input type=\"number\" id=\"phone\" name=\"phone\"><br>\n  <label for=\"address\">Address:</label><br>\n  <input type=\"text\" id=\"address\" name=\"address\"><br>\n  <input type=\"submit\" value=\"Submit\">\n</form>",
+  "unique_id": "prompt_create_an_html_form",
+  "schema_version": "1.0"
+}

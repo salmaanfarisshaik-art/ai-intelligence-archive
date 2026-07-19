@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6794742352141223969",
+  "technique_name": "Create a computer program that takes a given input string and produces a new output by rearranging the letters in the original string.",
+  "description": "def scramble(word):\n  output = \"\"\n  while len(word) > 0:\n    index = random.randint(0,len(word)-1)\n    output += word[index]\n    word = word[:index] + word[index+1:] \n  return output\n\nscramble(\"Hello\")  # Output: lleHo (or some other random rearrangement)",
+  "example": "Input string: Hello",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

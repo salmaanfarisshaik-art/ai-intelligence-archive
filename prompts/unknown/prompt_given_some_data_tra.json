@@ -1,0 +1,7 @@
+{
+  "instruction": "Given some data, train a sentiment analysis model to predict sentiment.",
+  "input": "The following tweets about a new movie:\n1. \"I just saw the new movie and it's the best thing I've ever seen!\"\n2. \"The new movie was terrible - it was the worst movie I've ever seen.\"\n3. \"Meh, it was okay. I wouldn't say it was great or terrible.\"",
+  "output": "The sentiment analysis model should be able to classify the sentiment of each tweet as either positive, negative or neutral.  Additionally, the model should be able to detect the sentiment of a new tweet about the same movie by looking at the sentiment of similar words in previously classified tweets.",
+  "unique_id": "prompt_given_some_data_tra",
+  "schema_version": "1.0"
+}

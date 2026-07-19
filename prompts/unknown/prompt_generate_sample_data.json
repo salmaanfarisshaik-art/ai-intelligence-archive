@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate sample data for the given schema",
+  "input": "Name (String), Age (Number), Date of Birth (Date)",
+  "output": "Name: John Smith, Age: 25, Date of Birth: 05/18/1995\nName: Jane Doe, Age: 23, Date of Birth: 10/21/1997\nName: Mike Jones, Age: 24, Date of Birth: 01/02/1996\nName: Sarah Anderson, Age: 27, Date of Birth: 07/11/1993",
+  "unique_id": "prompt_generate_sample_data",
+  "schema_version": "1.0"
+}

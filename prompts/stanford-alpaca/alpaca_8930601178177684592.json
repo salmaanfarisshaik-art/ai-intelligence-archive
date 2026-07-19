@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8930601178177684592",
+  "technique_name": "Create an AI application that can play tic-tac-toe.",
+  "description": "def board_played (board):\n    for i in range (3):\n        for j in range (3):\n            if board[i][j] != 'X' and board[i][j] != 'O':\n                return False\n\n# Function to perform the basic AI operations to play tic-tac-toe\ndef play_tic_tac_toe (board):\n    # Check if board is full or not \n    if board_played (board) == False : \n        # Generate random position\n        row = random.randint (0,3) \n        col = random.randint (0,3) \n        \n        # Check the safe position \n        if",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

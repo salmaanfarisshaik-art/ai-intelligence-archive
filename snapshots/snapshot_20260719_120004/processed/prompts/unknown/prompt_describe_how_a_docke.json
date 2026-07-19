@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe how a Docker container works.",
+  "input": "",
+  "output": "A Docker container is an isolated environment in which applications can be packaged and run. It consists of the application, system libraries, and other configuration files necessary for a specific task. The container runs within a docker host, which isolates the container from other host resources and is responsible for managing its life cycle. Docker containers are lightweight and highly portable; they can be quickly spun up and transported to different environments such as cloud, bare metal, and on-premises. Containers are isolated from the underlying host system so they can be securely run and managed. Docker also uses images which function like snapshots – making it easy to deploy and run applications reliably and consistently across different environments.",
+  "unique_id": "prompt_describe_how_a_docke",
+  "schema_version": "1.0"
+}

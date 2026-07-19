@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3807215020743501093",
+  "skill_name": "Write code to sort a list of integers in descending order.",
+  "workflow": "def descending_sort(list): \n    # using bubble sort \n    n = len(list) \n    for i in range(n): \n        for j in range(0, n-i-1): \n            if list[j] < list[j+1] : \n                list[j], list[j+1] = list[j+1], list[j] \n\nlist = [7, 9, 5, 4, 6]\ndescending_sort(list) \nprint(list)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

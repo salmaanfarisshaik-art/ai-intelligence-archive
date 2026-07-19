@@ -1,0 +1,7 @@
+{
+  "instruction": "Given some example data, classify the data into clusters.",
+  "input": "[{name: \"John\"}, {name: \"Sara\"}, {location: \"New York\"}, {location: \"Washington DC\"}]",
+  "output": "Cluster 1: {name: \"John\"}, {name: \"Sara\"}\n\nCluster 2: {location: \"New York\"}, {location: \"Washington DC\"}",
+  "unique_id": "prompt_given_some_example_d",
+  "schema_version": "1.0"
+}

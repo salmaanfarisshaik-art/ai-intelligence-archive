@@ -1,0 +1,7 @@
+{
+  "instruction": "Propose a suitable hash function for storing phone numbers",
+  "input": "",
+  "output": "A suitable hash function for storing phone numbers would be to add the individual numbers of the phone number and then taking the modulo of the sum. For example, for a phone number such as 987-654-3210, the hash would be (9+8+7+6+5+4+3+2+1+0)%mod.",
+  "unique_id": "prompt_propose_a_suitable_h",
+  "schema_version": "1.0"
+}

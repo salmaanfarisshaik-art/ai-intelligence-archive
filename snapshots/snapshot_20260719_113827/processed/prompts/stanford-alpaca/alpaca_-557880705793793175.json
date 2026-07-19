@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-557880705793793175",
+  "technique_name": "Generate a random eight-digit number using the built-in Python function.",
+  "description": "import random\n\ngenerated_number = random.randint(100000000, 999999999)\n\nprint('Generated 8-digit number:', generated_number)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

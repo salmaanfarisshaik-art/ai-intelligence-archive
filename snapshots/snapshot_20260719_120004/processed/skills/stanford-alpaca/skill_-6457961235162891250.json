@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6457961235162891250",
+  "skill_name": "Create a regular expression that selects words that have 3 or more consecutive vowels",
+  "workflow": "\\b(?=[aeiou]{3})([a-zA-Z]+)\\b",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

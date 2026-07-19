@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7594352699649826682",
+  "skill_name": "Given the given coordinates (x1, y1, x2, y2), calculate the distance between the two points.",
+  "workflow": "The distance between the two points is 5.66.\n\nThe formula to calculate the distance between two points is as follows:\ndistance = sqrt((x2 - x1)2 + (y2 - y1)2)\n\nThus, the distance between (2,4) and (6,8) is sqrt((6-2)2 + (8-4)2) = sqrt(16 + 16) = sqrt(32) = 5.66.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

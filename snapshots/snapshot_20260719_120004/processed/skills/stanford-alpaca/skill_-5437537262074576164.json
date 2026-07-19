@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5437537262074576164",
+  "skill_name": "What is the most efficient way to implement a sparse matrix in Python?",
+  "workflow": "The most effective way to store a sparse matrix in Python is to use a data structure known as a \"linked list.\" This data structure relies on nodes with two fields: a value and a pointer. Each node contains the value of an element in the matrix, which is 0 if the element is empty, and a pointer to the next non-zero element. This makes it efficient to search for non-zero elements, as the linked list structure allows for quick look-ups.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write pseudocode to take input from a user and store it in a list.",
+  "input": "",
+  "output": "//Pseudocode\nlist = []\n\nwhile True:\n  input = get_input_from_user()\n  list.append(input)\n  response = ask_user_if_they_want_to_continue()\n  if response == 'no':\n    break",
+  "unique_id": "prompt_write_pseudocode_to",
+  "schema_version": "1.0"
+}

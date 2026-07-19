@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9193405707218062247",
+  "skill_name": "Construct a query for retrieving the top 10 books in the “Mystery” genre from an online bookstore database.",
+  "workflow": "SELECT title, author, rating \nFROM books \nWHERE genre = 'Mystery' \nORDER BY rating DESC \nLIMIT 10",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

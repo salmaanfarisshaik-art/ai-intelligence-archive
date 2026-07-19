@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2093467566687852076",
+  "technique_name": "Create a program that uses the concept of object-oriented programming to create a car object.",
+  "description": "\"\"\"\nCreate a program that uses the concept of object-oriented programming to create a car object\n\"\"\"\n\nclass Car:\n    def __init__(self, make, model, year):\n        self.make = make\n        self.model = model\n        self.year = year\n    \n    def get_price(self):\n        return self.make + \" \" + self.model + \" \" + str(self.year)\n\n\nCar1 = Car(\"Toyota\", \"Camry\", 2020)\n\nprint(Car1.get_price())",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

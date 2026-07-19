@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7624119246251489912",
+  "skill_name": "Given two strings, find and return the longest common substring.",
+  "workflow": "# Program to find Longest Common Substring\n\ndef longest_common_substring(str1, str2):\n  # calculate the length of both strings\n  l1 = len(str1)\n  l2 = len(str2)\n\n  # initialise a matrix with all 0s\n  matrix = [[0 for x in range(l2+1)] for x in range(l1+1)]\n\n  # mark 1 for each common letter in both strings\n  for i in range(l1):\n    for j in range(l2):\n      if str1[i] == str2[j]:\n        matrix[i+1][j+1] = matrix[i][j] + 1\n      else:\n        matrix[i+1][j+1] = 0\n\n  # get the maximum length of c",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

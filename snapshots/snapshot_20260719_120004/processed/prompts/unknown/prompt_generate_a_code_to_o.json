@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a code to output the first 50 Fibonacci numbers.",
+  "input": "",
+  "output": "\"\"\"\nOutput the first 50 Fibonacci numbers\n\"\"\"\n\nnterms = 50\n\n# first tow terms\nn1 = 0\nn2 = 1\ncount = 0\n\n# check if the number of terms is valid\nif nterms <= 0:\n   print(\"Please enter a positive integer\")\nelif nterms == 1:\n   print(\"Fibonacci sequence up to\",nterms,\":\")\n   print(n1)\nelse:\n   print(\"Fibonacci sequence:\")\n   while count < nterms:\n       print(n1,end=' , ')\n       nth = n1 + n2\n       # update values\n       n1 = n2\n       n2 = nth\n       count += 1",
+  "unique_id": "prompt_generate_a_code_to_o",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Rewrite the given program in Java.",
+  "input": "a = 4\nb = 5\nc = a + b\nprint(c)",
+  "output": "int a = 4;\nint b = 5;\nint c = a + b;\nSystem.out.println(c);",
+  "unique_id": "prompt_rewrite_the_given_pr",
+  "schema_version": "1.0"
+}

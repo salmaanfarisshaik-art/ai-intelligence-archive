@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a suitable query for the following question",
+  "input": "What are the five most important elements in a website homepage?",
+  "output": "SELECT TOP 5 Elements FROM Homepages ORDER BY importance DESC;",
+  "unique_id": "prompt_design_a_suitable_qu",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8728451179748126762",
+  "technique_name": "Write an algorithm that sorts an array of integers",
+  "description": "def sort_array(arr)\n  sorted = false\n  \n  while !sorted\n    sorted = true\n    \n    (0...arr.length - 1).each do |i|\n      if arr[i] > arr[i + 1]\n        arr[i], arr[i + 1] = arr[i + 1], arr[i]\n        sorted = false\n      end\n    end\n  end\n  \n  arr\nend",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

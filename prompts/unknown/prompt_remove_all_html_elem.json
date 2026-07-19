@@ -1,0 +1,7 @@
+{
+  "instruction": "Remove all HTML elements from this string.",
+  "input": "\"<p>This is a <strong>test</strong> string.</p>\"",
+  "output": "This is a test string.",
+  "unique_id": "prompt_remove_all_html_elem",
+  "schema_version": "1.0"
+}

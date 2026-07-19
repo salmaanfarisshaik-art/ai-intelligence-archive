@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query that returns the average salary of employees in each department.",
+  "input": "",
+  "output": "SELECT d.name, AVG(e.salary) AS average_salary\nFROM departments d LEFT JOIN employees e ON d.id = e.department_id \nGROUP BY d.name;",
+  "unique_id": "prompt_write_a_query_that_r",
+  "schema_version": "1.0"
+}

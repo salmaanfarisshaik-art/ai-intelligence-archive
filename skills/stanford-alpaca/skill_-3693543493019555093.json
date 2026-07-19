@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3693543493019555093",
+  "skill_name": "Use the K-nearest neighbors algorithm to classify data points.",
+  "workflow": "\"\"\"\nALgorithm to classify data points using K-nearest neighbors\n\"\"\"\n\ndef knn(data_points, k):\n    labels = []\n\n    for point in data_points:\n        distances = []\n        for other_point in data_points:\n            if point != other_point:\n                distances.append(((point[0] - other_point[0]) ** 2 + (point[1] - other_point[1]) ** 2) ** 0.5)\n        #sort the distances \n        sorted_distances = sorted(distances)\n        #find the k-nearest neighbours\n        k_nearest = sorted_distance",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4973330462965331881",
+  "technique_name": "Write a code to detect the type of browser that is used to access the page.",
+  "description": "\"\"\"\nCode to detect the type of browser that is used to access the page\n\"\"\"\n\nimport requests \nimport re \n\ndef get_browser_type():\n    user_agent = requests.get('http://www.useragentstring.com/').text\n    reg_ex = r\"(?<=User\\sAgent\\:\\s)(.*?)(?=\\))\"\n    m = re.search(reg_ex,user_agent)\n    return m.group()\n    \nif __name__ == '__main__':\n    print(get_browser_type())",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

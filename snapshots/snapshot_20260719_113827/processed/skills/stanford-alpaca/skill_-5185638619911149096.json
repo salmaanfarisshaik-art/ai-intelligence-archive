@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5185638619911149096",
+  "skill_name": "Design an algorithm to remove duplicates from a given array.",
+  "workflow": "def removeDuplicates(arr): \n    # create an empty list \n    res = [] \n   \n    # iterate over original array \n    for i in arr: \n        # if element is not in the result already, add it\n        if i not in res: \n            res.append(i) \n  \n    # return the result \n    return res",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

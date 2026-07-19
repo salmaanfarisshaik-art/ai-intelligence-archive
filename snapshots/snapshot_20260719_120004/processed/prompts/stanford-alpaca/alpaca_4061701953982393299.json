@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4061701953982393299",
+  "technique_name": "Compare two pieces of code",
+  "description": "Code 1 is a traditional for-loop, which is iterating over an array and counting the occurances of the element \"x\". Code 2 is written in a functional programming style and uses a foreach loop to iterate over the array and count the occurances of \"x\". Both snippets achieve the same result, with the difference being that Code 1 uses an index variable and Code 2 does not.",
+  "example": "Code 1:\nint count = 0;\n\nfor (int i = 0; i < array.length; i++) {\n   if (array[i].equals(\"x\")) {\n      count++;\n   }\n}\nCode 2:\nint count = 0;\n\nforeach (String item in array) {\n  if (item == \"x\") {\n    count++;\n  }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

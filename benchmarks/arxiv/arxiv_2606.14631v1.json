@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14631v1",
+  "schema_version": "1.0",
+  "name": "SED:Lightweight Saliency prediction for Event-based data via Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14631v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14631v1",
+    "updated": "2026-06-12T16:59:10Z",
+    "published": "2026-06-12T16:59:10Z",
+    "title": "SED:Lightweight Saliency prediction for Event-based data via Distillation",
+    "summary": "Event-based saliency prediction has gained attention recently, as combining event cameras with saliency estimation can act as an upstream stage that naturally improves the efficiency of downstream eventbased perception at the edge. However, current approaches are either neuromorphic, underperforming on event-based saliency benchmarks, or too heavy for resource-constrained edge applications due to their reliance on transformers or 3D convolutions. Drawing inspiration from efficient convolutional modules, SED and aiming to exploit the temporal information in event data, we propose a lightweight network, trained through knowledge distillation, built on a Depthwise Spatio-Temporal Block (DSTconv) -- a factorization of the 3D depthwise separable convolution. Relative to its teacher, our model reduces the model size from 180 MB to 0.32 MB (562x) and the parameter count from 45M to 81k (554x), while matching or outperforming it on the N-DHF1K and N-UCF Sports datasets. Moreover, it generalizes strongly beyond its training distribution, transferring from synthetic to real event data where a model trained from scratch fails.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:59:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14631v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

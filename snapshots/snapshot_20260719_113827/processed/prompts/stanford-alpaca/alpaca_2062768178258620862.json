@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2062768178258620862",
+  "technique_name": "Recommend the best approach to optimize the following code to increase its efficiency.",
+  "description": "To optimize the code to increase efficiency, the best approach would be to use the Java 8 Stream API’s Count() method, which uses internal iteration to count the number of times a certain element is present in the array, passing in 0 as the argument. The code could then be modified to the following to increase its efficiency:\n\nint count = (int)Arrays.stream(array).filter(i -> i == 0).count();",
+  "example": "int count = 0;\n\nfor(int i = 0; i < array.length; i++){\n  if(array[i] == 0){\n    count++;\n  }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

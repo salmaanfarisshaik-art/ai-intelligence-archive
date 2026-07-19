@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4182836169215637859",
+  "technique_name": "Write a web-scraping script to extract stock information.",
+  "description": "import requests \nimport lxml.html as lh \nimport pandas as pd\n\nurl = 'https://finance.yahoo.com/quote/AAPL/'\npage = requests.get(url)\ndoc = lh.fromstring(page.content)\n\ncolumn_headers = []\nfor col in doc.xpath('//table[@class=\"W(100%) M(0) Bdcl(c)\"]//tr[1]//th'):\n    column_headers.append(col.text_content().strip())\n\ntable_rows = doc.xpath('//tr[@class = \"BdT Bdc($seperatorColor) Ta(start) Fz(s) Whs(nw)\"]')\n\ndata = []\nfor row in table_rows:\n    data_row = []\n    for col in row.xpath('//td'):\n    ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

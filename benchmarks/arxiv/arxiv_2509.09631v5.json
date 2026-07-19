@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.09631v5",
+  "schema_version": "1.0",
+  "name": "DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.09631v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.09631v5",
+    "updated": "2026-06-17T16:16:04Z",
+    "published": "2025-09-11T17:16:52Z",
+    "title": "DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching",
+    "summary": "Zero-shot text-to-speech (TTS) has made significant progress in replicating unseen voices, yet balancing generation quality and inference efficiency remains challenging. Autoregressive models suffer from high latency, while diffusion-based approaches are constrained by training-time configurations. Moreover, most flow-based methods operate in continuous space, which introduces optimization challenges because continuous token spaces are inherently more complex than discrete ones. To address these limitations, we propose DiFlow-TTS, a novel zero-shot TTS framework based on discrete flow matching. The model consists of a deterministic Phoneme-Content Mapper for linguistic modeling and a Factorized Discrete Flow Denoiser that simultaneously generates prosody and acoustic token streams. Experimental results demonstrate the effectiveness of our approach across multiple evaluation metrics.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:16:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.09631v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

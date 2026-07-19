@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8987334211919179771",
+  "skill_name": "Rewrite the given code in a simpler form.",
+  "workflow": "# Declare a list of numbers\nnums = [12, 10, 32, 3, 66, 17, 42, 99, 20]\n\n# Iterate nums and add even numbers to newlist\nnewlist = [i for i in nums if i % 2 == 0]\n\nprint(newlist)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

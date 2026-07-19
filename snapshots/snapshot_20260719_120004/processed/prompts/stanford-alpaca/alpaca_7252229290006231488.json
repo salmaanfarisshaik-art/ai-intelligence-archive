@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7252229290006231488",
+  "technique_name": "Given two code snippets, identify which lines of code produce errors.",
+  "description": "The line of code `result = x * y` in Snippet 2 produces an error because the variables `x` and `y` have incompatible types.",
+  "example": "Snippet 1:\nx = 10\ny = 20\nresult = x * y\n\nSnippet 2: \nx = 10\ny = “hello”\nresult = x * y",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

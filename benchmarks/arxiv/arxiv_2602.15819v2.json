@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.15819v2",
+  "schema_version": "1.0",
+  "name": "VideoSketcher: Sequential Sketch Generation Using Video Model Priors",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.15819v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.15819v2",
+    "updated": "2026-06-18T16:41:40Z",
+    "published": "2026-02-17T18:55:03Z",
+    "title": "VideoSketcher: Sequential Sketch Generation Using Video Model Priors",
+    "summary": "Sketching is inherently sequential: strokes are drawn progressively to explore and refine ideas. Yet most generative approaches treat sketches as static images, ignoring the temporal process underlying creative exploration. Modeling this sequential structure remains challenging: prior methods either rely on large-scale human-drawn datasets with limited diversity, or use large language models (LLMs) to produce drawing instructions, often at the cost of visual fidelity. We present VideoSketcher, a method for generating high-quality sketching processes by adapting pretrained text-to-video diffusion models to the sparse, continuous nature of sketch formation. Our key insight is that LLMs and video diffusion models offer complementary strengths: LLMs act as semantic planners that decompose concepts into step-by-step instructions, while video diffusion models serve as powerful \"renderers\" that translate them into temporally coherent sketch sequences. We introduce a two-stage fine-tuning strategy that decouples temporal structure from visual appearance: stroke ordering is learned from synthetic shape compositions, while style is distilled from as few as seven hand-drawn examples. Despite minimal supervision, our method can generate diverse, high-quality sequential sketches that faithfully follow specified drawing orders. Our framework naturally extends to brush style control and autoregressive generation, supporting artistic applications.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T16:41:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.15819v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

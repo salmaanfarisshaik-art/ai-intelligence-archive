@@ -1,0 +1,7 @@
+{
+  "instruction": "Compute the total amount of product sold between the two dates.",
+  "input": "Start Date: 8/1/2020\nEnd Date: 8/30/2020",
+  "output": "SELECT SUM(quantity) as total_sold FROM sales WHERE date BETWEEN '2020-08-01' AND '2020-08-30';",
+  "unique_id": "prompt_compute_the_total_am",
+  "schema_version": "1.0"
+}

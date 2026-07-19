@@ -1,0 +1,7 @@
+{
+  "instruction": "Given some data, create a classification model to differentiate between two groups.",
+  "input": "Data describing characteristics of cats and dogs.",
+  "output": "The classification model should be able to use the data to differentiate between cats and dogs based on their characteristics, such as size, fur color, tail length, and so on. The model should be trained with the data provided and tested with new data in order to accurately predict whether it is a cat or a dog. In addition, the model should be able to output a probability of each classification, so that it is clear which one it is predicting with higher confidence.",
+  "unique_id": "prompt_given_some_data_cre",
+  "schema_version": "1.0"
+}

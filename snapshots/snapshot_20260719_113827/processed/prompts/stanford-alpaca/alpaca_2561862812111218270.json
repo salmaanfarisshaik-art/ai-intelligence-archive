@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2561862812111218270",
+  "technique_name": "Given the following code, identify any errors.",
+  "description": "This code has an error because it returns the value of x, rather than the value of the multiplication, which is stored as z. The code should be amended to return z instead of x.",
+  "example": "def multiply(x, y):\nz = x * y\nreturn x",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

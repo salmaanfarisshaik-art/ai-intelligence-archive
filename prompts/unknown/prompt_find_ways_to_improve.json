@@ -1,0 +1,7 @@
+{
+  "instruction": "Find ways to improve the following code snippet.",
+  "input": "def leap_year(year): \n    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0: \n        return True \n    else: \n        return False",
+  "output": "def is_leap_year(year): \n    \"\"\"Returns True if the given year is a leap year.\n  \n    Args:\n        year (int): A year represented in integer.\n  \n    Returns:\n        bool: True if the given year is a leap year, otherwise False.\n    \"\"\"\n    if (year % 4 == 0 and year % 100 != 0) or year % 400 == 0: \n        return True \n    return False",
+  "unique_id": "prompt_find_ways_to_improve",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8904019288107324408",
+  "technique_name": "Code a function to determine if two strings are anagrams of each other.",
+  "description": "def isAnagram(string1, string2): \n  \n    # Make sure both strings are of the same length \n    if len(string1) != len(string2): \n        return False\n  \n    # Dictionary to store frequency of characters in string1 \n    count = [0] * 26\n  \n    # For each character in string1 increment its frequency \n    for i in range(len(string1)): \n        count[ord(string1[i]) - ord('a')] += 1\n  \n    # For each character in string2 decrement its frequency \n    for i in range(len(string2)): \n        count[ord(st",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

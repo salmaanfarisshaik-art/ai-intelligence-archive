@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7429303613387758512",
+  "skill_name": "Generate an example of an algorithm for searching strings",
+  "workflow": "One example of an algorithm for searching strings is the Boyer-Moore algorithm. The algorithm uses two heuristics to help efficiently find a pattern within a string. First, the algorithm checks for the last character of the pattern in the string, starting from the end of the pattern. If the last character is found, the algorithm then checks each character from the end of the pattern to the beginning, comparing them with the characters from the searched position in the string. If all the characte",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

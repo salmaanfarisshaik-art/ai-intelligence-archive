@@ -1,0 +1,7 @@
+{
+  "instruction": "Write an algorithm with pseudocode for searching through a list of numbers for a particular value.",
+  "input": "",
+  "output": "Algorithm SearchList (list, target_number): \n\nSet index = 0\nSet found = False\n\nWhile index < length of list and found = False:\n    If list at index = target_number\n        Set found = True\n    Else\n        Increment index\n    \nIf found = True\n    Print \"Number was found at index \" + index\nElse\n    Print \"Number was not found\"",
+  "unique_id": "prompt_write_an_algorithm_w",
+  "schema_version": "1.0"
+}

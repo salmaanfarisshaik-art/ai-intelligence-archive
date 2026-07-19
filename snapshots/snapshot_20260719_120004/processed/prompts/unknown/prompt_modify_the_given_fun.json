@@ -1,0 +1,7 @@
+{
+  "instruction": "Modify the given function to accept two parameters.",
+  "input": "def greet_customer():\n    return \"Welcome!\"",
+  "output": "def greet_customer(name, store):\n    return \"Welcome \"+name+\"! Enjoy shopping at \"+store+\".\"",
+  "unique_id": "prompt_modify_the_given_fun",
+  "schema_version": "1.0"
+}

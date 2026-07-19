@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to scramble a given sentence.",
+  "input": "Sentence: She sells seashells on the seashore.",
+  "output": "def scramble_sentence(sentence):\n    # Split the sentence into a list of words\n    words = sentence.split() \n\n    # Randomly shuffle the list of words\n    random.shuffle(words) \n\n    # Join the shuffled words into a new sentence\n    scrambled_sentence = ' '.join(words)\n\n    # Return the scrambled sentence\n    return scrambled_sentence\n\nscramble_sentence(\"She sells seashells on the seashore.\") # returns \"seashore She seashells the on sells\"",
+  "unique_id": "prompt_write_a_code_to_scra",
+  "schema_version": "1.0"
+}

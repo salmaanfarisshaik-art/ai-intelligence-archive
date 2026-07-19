@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4802799050833203847",
+  "skill_name": "Create a query to find out how to make tacos.",
+  "workflow": "SELECT * FROM recipes WHERE Title LIKE '%taco%' AND (Category LIKE '%Mexican%' OR Category LIKE '%Tex-Mex%');",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

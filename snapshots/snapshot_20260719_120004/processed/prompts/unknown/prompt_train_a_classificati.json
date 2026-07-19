@@ -1,0 +1,7 @@
+{
+  "instruction": "Train a classification model to classify emails as \"spam\" or \"not-spam\", using the given dataset.",
+  "input": "csv dataset containing 200 emails.",
+  "output": "Input Dataset:\n\nEmail Content, Spam/Not-Spam\n\nThe cat sat on the mat, Not-Spam\nEarning extra money is easy, Spam \nMake sure to check your emails, Not-Spam\n...\nOutput Model:\n\nTrained classification model, with accuracy score of at least 95%.",
+  "unique_id": "prompt_train_a_classificati",
+  "schema_version": "1.0"
+}

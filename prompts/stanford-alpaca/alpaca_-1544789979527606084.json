@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1544789979527606084",
+  "technique_name": "Create a function to calculate the area of a triangle using the Heron's formula.",
+  "description": "def calculate_area_heron(a, b, c):\n    s = (a + b + c)/2 \n    area = (s*(s-a)*(s-b)*(s-c)) ** 0.5 \n    return area",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

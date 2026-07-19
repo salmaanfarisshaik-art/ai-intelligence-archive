@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1544900600957609888",
+  "skill_name": "Write an algorithm that would analyze a given text and extract all the nouns from it.",
+  "workflow": "The algorithm should take a given text as an input and iterate through each word to determine if it is a noun based on its part of speech. The nouns can be identified by their associated part of speech tag (such as NN, NNS, NNP, etc). After all the nouns have been found, the algorithm should then store each noun in an array or list to be returned as the output.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

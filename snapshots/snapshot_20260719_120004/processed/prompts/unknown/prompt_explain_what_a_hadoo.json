@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain what a Hadoop cluster is.",
+  "input": "",
+  "output": "A Hadoop cluster is a group of computers connected over a network, which together process and store large amounts of data. The computers in the cluster are connected to each other and the data is organized across them in such a way that any computer in the cluster can access it. Hadoop has the ability to distribute the processing of large data sets across many computers, giving it great scalability and flexibility. It is also fault tolerant, meaning that it can handle a situation where one or more computers in its cluster go down, without impacting its performance.",
+  "unique_id": "prompt_explain_what_a_hadoo",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Compare two pieces of code",
+  "input": "Code 1:\nint count = 0;\n\nfor (int i = 0; i < array.length; i++) {\n   if (array[i].equals(\"x\")) {\n      count++;\n   }\n}\nCode 2:\nint count = 0;\n\nforeach (String item in array) {\n  if (item == \"x\") {\n    count++;\n  }\n}",
+  "output": "Code 1 is a traditional for-loop, which is iterating over an array and counting the occurances of the element \"x\". Code 2 is written in a functional programming style and uses a foreach loop to iterate over the array and count the occurances of \"x\". Both snippets achieve the same result, with the difference being that Code 1 uses an index variable and Code 2 does not.",
+  "unique_id": "prompt_compare_two_pieces_o",
+  "schema_version": "1.0"
+}

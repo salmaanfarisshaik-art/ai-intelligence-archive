@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a problem scenario, develop an algorithmic solution.",
+  "input": "You are given two arrays, A and B, each containing integers. Find all integers that appear in both A and B and return a new array containing them.",
+  "output": "Create a new empty array, C. Iterate through both arrays A and B. For every element encountered in A and B, if it is already encountered in C, then move on. Otherwise, add the element to C. Return C as the result.",
+  "unique_id": "prompt_given_a_problem_scen",
+  "schema_version": "1.0"
+}

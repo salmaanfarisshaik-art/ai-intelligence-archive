@@ -1,0 +1,7 @@
+{
+  "instruction": "List the steps to play the popular dice game Pig.",
+  "input": "",
+  "output": "There are two players, each with an individual score. \n\n1. The first player rolls one die, and after seeing the result, can decide to either roll again or stop. \n2. If the die roll is a 1, the player's turn is over, and their score for the turn is zero. If a 2 through 6 is rolled, the number is added to the player’s overall score. \n3. If the player decides to roll again and rolls a 1, their score for the turn is wiped out and their turn is over. \n4. The player’s turn is over when they decide to hold and not roll again. \n5. If the player reaches a total of 20 points in the round, their score for the turn is",
+  "unique_id": "prompt_list_the_steps_to_pl",
+  "schema_version": "1.0"
+}

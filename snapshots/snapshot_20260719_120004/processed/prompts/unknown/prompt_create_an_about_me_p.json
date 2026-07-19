@@ -1,0 +1,7 @@
+{
+  "instruction": "Create an About Me page in HTML given this information about the user.",
+  "input": "Name: John Smith \nCity: Boston \nDescription: I am a retired software engineer who loves to travel the world with my wife.",
+  "output": "<html> \n  <head> \n    <title>About Me</title> \n  </head> \n  <body> \n    <h1>John Smith</h1> \n    <h2>Boston</h2> \n    <p>I am a retired software engineer who loves to travel the world with my wife.</p> \n  </body> \n</html>",
+  "unique_id": "prompt_create_an_about_me_p",
+  "schema_version": "1.0"
+}

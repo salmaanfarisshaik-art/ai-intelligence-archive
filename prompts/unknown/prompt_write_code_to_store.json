@@ -1,0 +1,7 @@
+{
+  "instruction": "Write code to store user information in a database.",
+  "input": "No input.",
+  "output": "CREATE TABLE users(\n  id SERIAL PRIMARY KEY,\n  name VARCHAR(255),\n  email VARCHAR(255)\n);",
+  "unique_id": "prompt_write_code_to_store",
+  "schema_version": "1.0"
+}

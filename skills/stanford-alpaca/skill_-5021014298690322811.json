@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5021014298690322811",
+  "skill_name": "Given two strings, write a program to determine if they are palindromes.",
+  "workflow": "def is_palindrome(string1, string2):\n    if len(string1) != len(string2):\n        return False\n    else:\n        for i in range(len(string1)):\n            if string1[i] != string2[-i-1]:\n                return False\n        return True",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

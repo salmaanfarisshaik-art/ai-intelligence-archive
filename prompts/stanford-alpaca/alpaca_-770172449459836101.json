@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-770172449459836101",
+  "technique_name": "Complete the code to produce the expected output.",
+  "description": "def get_string(text):\n  words = text.split()\n  string = \"_\".join(words)\n  return string\n\nInput: \"Hello there how are you?\"\n\nExpected Output: \"Hello_there_how_are_you?\"",
+  "example": "def get_string(text):\n  words = text.split()\n  #Your Code goes here\n  return string\n\nInput: \"Hello there how are you?\"\n\nExpected Output: \"Hello_there_how_are_you?\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

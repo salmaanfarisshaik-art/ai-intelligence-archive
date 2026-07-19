@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate the Python code to count the frequency of each character in a string.",
+  "input": "String: \"Hello world!\"",
+  "output": "char_freq = {}\n\nfor char in 'Hello world!':\n  if char in char_freq:\n    char_freq[char] += 1\n  else:\n    char_freq[char] = 1\n\nprint(char_freq)",
+  "unique_id": "prompt_generate_the_python",
+  "schema_version": "1.0"
+}

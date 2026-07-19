@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1251539564191088190",
+  "skill_name": "Create a class named MyDog with a method setBreed that takes a string as an argument and sets the value of a class variable named breed.",
+  "workflow": "class MyDog:\n    def __init__(self):\n        self.breed = \"\"\n    \n    def setBreed(self, breed):\n        self.breed = breed",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

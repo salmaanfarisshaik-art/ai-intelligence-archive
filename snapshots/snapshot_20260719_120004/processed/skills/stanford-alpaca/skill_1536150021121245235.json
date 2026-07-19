@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1536150021121245235",
+  "skill_name": "Write a JavaScript program that returns the sum of the first n numbers.",
+  "workflow": "\"\"\"\nWrite a JavaScript program that returns the sum of the first n numbers.\n\"\"\"\n\nfunction findSum(n) {\n    let sum = 0;\n    for(let i = 0; i <= n; i++) {\n        sum += i;\n    }\n    return sum;\n}\n\nif (typeof module !== 'undefined') {\n    module.exports = findSum;\n}\n\nconsole.log(findSum(10)); // 55",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

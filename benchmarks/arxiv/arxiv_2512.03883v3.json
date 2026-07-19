@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.03883v3",
+  "schema_version": "1.0",
+  "name": "Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.03883v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.03883v3",
+    "updated": "2026-06-12T16:22:33Z",
+    "published": "2025-12-03T15:34:29Z",
+    "title": "Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy",
+    "summary": "Increasing evidence supports watch-and-wait (WW) surveillance for patients with rectal cancer who show clinical complete response (cCR) at restaging following total neoadjuvant treatment (TNT). However, accurate methods to early detect local regrowth (LR) from follow-up endoscopy images during WW are essential to manage care and prevent distant metastases. Hence, we developed a Siamese Swin Transformer with Dual Cross-Attention (SSDCA) to combine longitudinal endoscopic images at restaging and follow-up and distinguish cCR from LR. SSDCA leverages pretrained Swin Transformers to extract domain agnostic features and enhance robustness to imaging variations. Dual cross attention is implemented to emphasize features from the paired scans without requiring any spatial alignment to predict response. SSDCA as well as Swin-based baselines were trained using image pairs from 135 patients and evaluated on a held-out set of image pairs from 62 patients. SSDCA produced the best balanced accuracy (81.76% $\\pm$ 0.04), sensitivity (90.07% $\\pm$ 0.08), and specificity (72.86% $\\pm$ 0.05). Robustness analysis showed stable performance irrespective of artifacts including blood, stool, telangiectasia, and poor image quality. UMAP clustering of extracted features showed maximal inter-cluster separation (1.45 $\\pm$ 0.18) and minimal intra-cluster dispersion (1.07 $\\pm$ 0.19) with SSDCA, confirming discriminative representation learning. Code and weights available at: https://github.com/Jotanator/SSDCA",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:22:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.03883v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

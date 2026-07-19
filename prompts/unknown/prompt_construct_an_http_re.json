@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct an HTTP request that retrieves information from an API.",
+  "input": "Example API endpoint: https://example.com/api/v1",
+  "output": "GET https://example.com/api/v1 HTTP/1.1\nHost: example.com\nContent-Type: application/json",
+  "unique_id": "prompt_construct_an_http_re",
+  "schema_version": "1.0"
+}

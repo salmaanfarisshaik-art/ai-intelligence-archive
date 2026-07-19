@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6362170196796646247",
+  "skill_name": "Write an algorithm for the Towers of Hanoi.",
+  "workflow": "def hanoi(n, source, spare, target): \n    if n > 0: \n        # Step 1: Move n-1 disks from Source to Spare. \n        hanoi(n-1, source, target, spare) \n  \n        # Step 2: Move the nth disk from Source to Target. \n        target.push(source.pop())\n  \n        # Step 3: Move n-1 disks from Spare to Target. \n        hanoi(n-1, spare, source, target)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

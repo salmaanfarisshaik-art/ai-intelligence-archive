@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a string of characters, remove the whitespace characters.",
+  "input": "my_string = ' '",
+  "output": "def remove_whitespace(s):\n    # check for valid input\n    assert isinstance(s, str), 'Input must be a string.'\n    # remove whitespace characters\n    s = s.replace(\" \", \"\") \n    return s",
+  "unique_id": "prompt_given_a_string_of_ch",
+  "schema_version": "1.0"
+}

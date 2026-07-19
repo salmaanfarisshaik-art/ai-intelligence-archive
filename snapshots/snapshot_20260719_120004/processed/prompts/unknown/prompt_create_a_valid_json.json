@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a valid JSON string from the following:",
+  "input": "name: Joe Smith\nage: 33\noccupation: Software Developer",
+  "output": "{\n    \"name\": \"Joe Smith\",\n    \"age\": 33,\n    \"occupation\": \"Software Developer\"\n}",
+  "unique_id": "prompt_create_a_valid_json",
+  "schema_version": "1.0"
+}

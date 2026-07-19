@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.21583v3",
+  "schema_version": "1.0",
+  "name": "Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.21583v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.21583v3",
+    "updated": "2026-06-16T17:34:16Z",
+    "published": "2025-10-24T15:50:36Z",
+    "title": "Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization",
+    "summary": "Recent Progress in post-training flow matching for text-to-image (T2I) generation with Group Relative Policy Optimization (GRPO) has demonstrated strong potential. However, it is hindered by a critical limitation: inaccurate advantage attribution. In this work, we argue that aggregating consecutive steps into a coherent 'chunk' and shifting the policy optimization paradigm from GRPO's step level to the chunk level can effectively mitigate the negative impact of this issue. Building on this insight, we propose Group Chunking Policy Optimization (GCPO), the first chunk-level reinforcement learning approach for post-training flow matching. Extensive experiments demonstrate that GCPO achieves superior performance on both standard T2I benchmarks and preference alignment, with up to 43% relative gains over GRPO, highlighting the promise of chunk-level policy optimization. The code is available on https://github.com/xingzhejun/GCPO.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:34:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.21583v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

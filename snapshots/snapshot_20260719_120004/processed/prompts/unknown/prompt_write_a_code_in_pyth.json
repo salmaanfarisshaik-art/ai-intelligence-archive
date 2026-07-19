@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code in Python that will generate a random string of 5 upper-case letters.",
+  "input": "",
+  "output": "import string \nimport random \n\ndef generate_random_string(): \n    characters = string.ascii_uppercase\n    random_string = \"\".join(random.choice(characters) for x in range(5))\n    return random_string\n\nprint(generate_random_string())",
+  "unique_id": "prompt_write_a_code_in_pyth",
+  "schema_version": "1.0"
+}

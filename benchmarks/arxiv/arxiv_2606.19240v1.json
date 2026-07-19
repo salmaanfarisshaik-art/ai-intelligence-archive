@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19240v1",
+  "schema_version": "1.0",
+  "name": "Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19240v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19240v1",
+    "updated": "2026-06-17T16:20:10Z",
+    "published": "2026-06-17T16:20:10Z",
+    "title": "Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation",
+    "summary": "Markerless, single-RGB-D-camera motion capture provides a low-cost and non-invasive alternative to conventional marker-based systems for robot teleoperation; however, depth estimation often degrades in the presence of self-occlusion, particularly during upper-limb motion. This paper presents an Arm Kinematic Correction (AKC) method that improves depth estimation by enforcing geometric constraints based on constant arm lengths. The proposed approach reconstructs occluded joint depths by leveraging wrist positions and predefined arm lengths via a deterministic formulation based on the Pythagorean theorem, thereby avoiding the need for complex probabilistic modeling or parameter tuning. Experimental validation against a Vicon reference system demonstrates reliable performance for both static and dynamic joint motions, evaluated using root-mean-square error (RMSE) and Pearson correlation. Furthermore, motion-mapping teleoperation is successfully demonstrated in both simulated and physical robot environments. The results show that AKC enhances robustness and preserves anatomical consistency under long-duration, severe self-occlusion, even when paired with less reliable temporal filters, highlighting its practicality for real-time applications such as robot teleoperation and human-robot interaction.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:20:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19240v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

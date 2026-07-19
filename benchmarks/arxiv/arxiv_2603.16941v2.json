@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.16941v2",
+  "schema_version": "1.0",
+  "name": "The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.16941v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.16941v2",
+    "updated": "2026-06-18T17:51:14Z",
+    "published": "2026-03-15T16:54:36Z",
+    "title": "The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+    "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker identity dependent variation in responses. We present a large-scale intersectional evaluation of accent and gender bias in three SpeechLLMs using 2,880 controlled interactions across six English accents and two gender presentations, keeping linguistic content constant through voice cloning. Using pointwise LLM-judge ratings, pairwise comparisons, and Best-Worst Scaling with human validation, we detect recurring directional disparities. Eastern European-accented speech receives lower helpfulness scores, particularly for female-presenting voices. Responses remain polite but differ in helpfulness. While LLM judges capture the directional trend of these biases, human evaluators exhibit significantly higher sensitivity, showing stronger accent-level contrasts.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T17:51:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.16941v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

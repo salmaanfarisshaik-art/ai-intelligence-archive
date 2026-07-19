@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a Bash script that prints out the current date and time.",
+  "input": "",
+  "output": "#!/bin/bash\n\necho \"Current Date and Time:\"\ndate +\"%d-%m-%Y %T\"",
+  "unique_id": "prompt_write_a_bash_script",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8409019439193841327",
+  "skill_name": "Write a short code to print the first 5 elements of a given list.",
+  "workflow": "# Print the first 5 elements of a given list \nmy_list = [1, 2, 3, 4, 5, 6, 7, 8]\n \n# Using a for loop \nfor i in range(5):\n    print(my_list[i])\n\n# Using list slicing\nprint(my_list[:5])",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

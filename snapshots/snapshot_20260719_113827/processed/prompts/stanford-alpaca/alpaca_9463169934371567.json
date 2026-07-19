@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_9463169934371567",
+  "technique_name": "Generate a sample form template for collecting user feedback.",
+  "description": "<form>\n    <h2>User Feedback Survey</h2>\n    <p>Please answer the following questions about your experience with our product. Your feedback will help us improve our services for future users.</p>\n    \n    <label for=\"overallRating\">Overall Rating</label>\n    <select name=\"overallRating\">\n        <option>1 - Poor</option>\n        <option>2 - Fair</option>\n        <option>3 - Good</option>\n        <option>4 - Very Good</option>\n        <option>5 - Excellent</option>\n    </select>\n\n    <label for=\"",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

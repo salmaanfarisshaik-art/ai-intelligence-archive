@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.20459v1",
+  "schema_version": "1.0",
+  "name": "Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.20459v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.20459v1",
+    "updated": "2026-06-18T16:40:19Z",
+    "published": "2026-06-18T16:40:19Z",
+    "title": "Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions",
+    "summary": "IVF pregnancy rates are routinely modeled using patient-level variables, while high-resolution laboratory environmental data remain underutilized. We show that this is a missed opportunity. Rather than relying on raw sensor averages, we engineer 55 context-aware temporal features, including rolling thermal stability, simultaneous temperature-humidity adherence, peak stress duration, and post-stress recovery speed, that capture the dynamics of incubator microenvironments. On 61 weeks of data from an Asian IVF clinic, these features reduce cross-validated prediction error to 1.27%, compared to 3-5% for raw averages. We then train a hierarchical Bayesian Beta regression model that shares environmental effects across an Asian and a Northern European clinic via partial pooling, while preserving site-specific baselines. On held-out data from the Northern European clinic, the model achieves R2 = 0.86 and a 64% error reduction for the 35-39 age group over a naive baseline, demonstrating that structured environmental monitoring contains clinically meaningful, transferable signal.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T16:40:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.20459v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

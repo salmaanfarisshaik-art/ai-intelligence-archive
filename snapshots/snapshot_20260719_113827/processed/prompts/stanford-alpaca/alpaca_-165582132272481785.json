@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-165582132272481785",
+  "technique_name": "Construct an algorithm to generate the Fibonacci sequence.",
+  "description": "def generate_fibonacci_sequence(n): \n    a = 0 \n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n        return b \n  \n# Driver Program \n  \nprint(generate_fibonacci_sequence(9))",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

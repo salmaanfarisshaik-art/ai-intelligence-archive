@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7064238413778667321",
+  "skill_name": "Write a function that checks a string for all unique characters.",
+  "workflow": "function uniqueCharacters(string) { \n    \n    let unique = true; \n    \n    for (let i = 0; i < string.length; i++) { \n        for (let j = i + 1; j < string.length; j++) { \n            if (string[i] == string[j]) { \n                unique = false; \n            } \n        } \n    } \n\n    return unique; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

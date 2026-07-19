@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1616824784237689909",
+  "skill_name": "Generate an example of a (non-trivial) function in Python.",
+  "workflow": "def remove_duplicates_from_list(list): \n    new_list = [] \n    for item in list: \n        if item not in new_list: \n            new_list.append(item) \n    return new_list",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

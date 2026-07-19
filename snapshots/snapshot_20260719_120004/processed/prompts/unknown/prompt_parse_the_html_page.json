@@ -1,0 +1,7 @@
+{
+  "instruction": "Parse the HTML page and return the title of the page.",
+  "input": "<html>\n  <head>\n    <title>My web page</title>\n  </head>\n  <body>\n    <p>This is my web page.</p>\n  </body>\n</html>",
+  "output": "My web page",
+  "unique_id": "prompt_parse_the_html_page",
+  "schema_version": "1.0"
+}

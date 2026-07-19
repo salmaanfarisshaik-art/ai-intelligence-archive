@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18243v1",
+  "schema_version": "1.0",
+  "name": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18243v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18243v1",
+    "updated": "2026-06-16T17:58:44Z",
+    "published": "2026-06-16T17:58:44Z",
+    "title": "MOCHI: Motion Enhancement of Collaborative Human-object Interactions",
+    "summary": "Collaborative human-object interaction shows dynamic and complex movements that require mutual anticipation and continuous adjustment between participants and the shared object. Modeling such collaborative multi-human object interaction (MHOI) scenarios requires high-quality data acquisition as a foundational step; however, this is challenging due to the inherent complexity of MHOI where human-human and human-object interactions occur simultaneously. Such complexity leads to noisy MHOI captures characterized by several artifacts: contact misalignment between hands and objects, motion jitter and temporal inconsistencies in the captured sequences, and missing or incomplete finger-level articulation details. To address these challenges, we present MOCHI (MOtion Enhancement of Collaborative Human-object Interactions), a two-stage framework for enhancing noisy MHOI data. Our approach first generates physically plausible hand grasps through optimization from noisy body input, producing grasps that are both physically plausible and semantically consistent with the body pose, where these optimized grasps are extended into complete hand-object interaction sequences. Consequently, the full-body motion for all participants are refined through a diffusion-based noise optimization framework that uses single-person motion priors. During the optimization process, we introduce optimization objectives to encode human-object and human-human interaction information within these single-person priors. Experimental results demonstrate the effectiveness of our pipeline across diverse MHOI data, either acquired by existing capture methods or synthesized by generative models. We further show robustness of our system across varying numbers of participants and types of interactions, and demonstrate various applications including keyframe-based MHOI creation and data augmentation through varying object geometries.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:58:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18243v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

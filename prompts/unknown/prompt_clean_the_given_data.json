@@ -1,0 +1,7 @@
+{
+  "instruction": "Clean the given data so that it is suitable for a Machine Learning model.",
+  "input": "[1.2, 0.6, a, 0.25, b, c, 0.7]",
+  "output": "[1.2, 0.6, 0.0, 0.25, 0.0, 0.0, 0.7]",
+  "unique_id": "prompt_clean_the_given_data",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a proof of the following theorem:",
+  "input": "Theorem: The sum of two odd numbers is even.",
+  "output": "Proof:\n\nLet a and b be two odd numbers. This means they can be expressed as 2n + 1, where n is an integer. \n\nIf a = 2n + 1 and b = 2m + 1, then the sum of a and b = (2n + 1) + (2m + 1) = 2(n+m) + 2 = 2(n+m+1). \n\nSince n+m+1 is an integer, the sum of two odd numbers must be even. \n\nQ.E.D.",
+  "unique_id": "prompt_construct_a_proof_of",
+  "schema_version": "1.0"
+}

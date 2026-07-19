@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3395063089983272461",
+  "technique_name": "Write a code to generate a random password with 8 characters.",
+  "description": "\"\"\"\nGenerate a random password with 8 characters\n\"\"\"\nimport random\nimport string\n\ndef get_random_password():\n    chars = string.ascii_lowercase + string.ascii_uppercase + string.digits\n    return ''.join(random.choice(chars) for x in range(8))\n\nif __name__ == '__main__':\n    print(get_random_password())",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

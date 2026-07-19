@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain how to install and run a Docker container on a Linux server.",
+  "input": "",
+  "output": "To install and run a Docker container on a Linux server, first you need to install Docker on the server. To do this, you can use the command line utility or use the official Docker installation script. After the installation is complete, you can start the Docker daemon and pull your desired container. Once the container is downloaded and installed, you can then run it using the “docker run” command. This will start a process inside the container and you can access it over your local network.",
+  "unique_id": "prompt_explain_how_to_insta",
+  "schema_version": "1.0"
+}

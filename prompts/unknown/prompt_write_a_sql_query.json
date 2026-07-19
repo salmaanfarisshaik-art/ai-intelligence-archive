@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a SQL query",
+  "input": "Find all products in the database with a price over $100",
+  "output": "SELECT * \nFROM Products \nWHERE price > 100;",
+  "unique_id": "prompt_write_a_sql_query",
+  "schema_version": "1.0"
+}

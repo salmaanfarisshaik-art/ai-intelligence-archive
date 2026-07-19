@@ -1,0 +1,7 @@
+{
+  "instruction": "Section off the data into 5 categories identified by a 'red flag'",
+  "input": "This dataset contains information about 100 student loan applications. For each application, there are 4 variables: age, FICO score, monthly income, and loan amount.",
+  "output": "The data can be sectioned off using a red flag criteria. Here are the 5 categories: \n\nCategory 1: High-risk – Age below 21 years or FICO score below 600 or Monthly Income below $2000. \n\nCategory 2: Medium-risk – Age 21–40 years, FICO score 600–665 and Monthly Income between $2000-$4999. \n\nCategory 3: Low-risk – Age 41–55 years, FICO score 666–735 and Monthly Income between $5000-$7999.\n\nCategory 4: Very Low-risk – Age above 55 years and FICO score above 736. \n\nCategory 5: Insufficient Data – FICO score and Monthly Income unavailable.",
+  "unique_id": "prompt_section_off_the_data",
+  "schema_version": "1.0"
+}

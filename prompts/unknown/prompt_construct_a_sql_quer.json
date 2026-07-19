@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a SQL query that will retrieve the first 5 records from a table called \"Customers\".",
+  "input": "",
+  "output": "SELECT * FROM Customers \nORDER BY id\nLIMIT 5;",
+  "unique_id": "prompt_construct_a_sql_quer",
+  "schema_version": "1.0"
+}

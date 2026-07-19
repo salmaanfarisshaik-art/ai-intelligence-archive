@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4833683381622024761",
+  "technique_name": "Create a function for calculating the average marks in a class",
+  "description": "def calculate_avg_marks(marks):\n  # calculate the average marks\n  totalMarks = 0\n  for m in marks:\n    totalMarks += m\n  return totalMarks/len(marks)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

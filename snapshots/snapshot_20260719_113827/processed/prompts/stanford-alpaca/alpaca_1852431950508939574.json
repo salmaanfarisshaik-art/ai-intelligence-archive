@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1852431950508939574",
+  "technique_name": "Find the most frequent character in a given string.",
+  "description": "def find_most_frequent(s):\n    # check for valid input\n    assert isinstance(s, str), 'Input must be a string.'\n    # create a dictionary for character counts\n    count_dict = {} \n\n    # find all characters\n    for i in range(len(s)): \n        if s[i] in count_dict: \n            count_dict[s[i]] += 1\n        else: \n            count_dict[s[i]] = 1\n\n    # find most frequent character\n    max_count = 0\n    frequent_char = ''\n    for char in count_dict:\n        if count_dict[char] > max_count:\n    ",
+  "example": "my_string = 'thequickbrownfoxjumpsoverthelazydog'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8876609552488004235",
+  "skill_name": "Design a program that calculates the average of five numbers",
+  "workflow": "\"\"\"\nCalculate the average of five numbers\n\"\"\"\n\ndef calculate_average(numbers):\n    average = sum(numbers) / len(numbers)\n    return average\n\nif __name__ == '__main__':\n    numbers = [3, 6, 9, 12, 15]\n    average = calculate_average(numbers)\n    print(f'The average of {numbers} is {average}.')",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a function to count the number of unique characters in a string.",
+  "input": "string = “Butterflies”",
+  "output": "def count_unique_chars(string):\n  char_dict = {}\n  for char in string:\n    if char in char_dict:\n      char_dict[char] += 1\n    else:\n      char_dict[char] = 1\n  return len(char_dict)\n\nprint(count_unique_chars(\"Butterflies\"))\n# Output: 9",
+  "unique_id": "prompt_design_a_function_to",
+  "schema_version": "1.0"
+}

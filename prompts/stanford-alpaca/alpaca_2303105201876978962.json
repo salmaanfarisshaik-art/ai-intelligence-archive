@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2303105201876978962",
+  "technique_name": "Create an algorithm that finds the sum of the two largest numbers in an array.",
+  "description": "def find_sum_of_two_largest(arr):\n    largest = max(arr)\n    arr.remove(largest)\n    second_largest = max(arr)\n    return largest + second_largest\n\n# Output: 11 (9 + 2)",
+  "example": "[2, 4, 9, 1, 10]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3950778309775191155",
+  "technique_name": "Write a code to multiply two numbers without using the * operator.",
+  "description": "\"\"\"\nThis method takes two numbers and multiplies them without using the * operator. \n\ndef multiply(num1, num2): \n    if(num2 == 0): \n        return 0\n    if(num2 > 0): \n        return (num1 + multiply(num1, num2-1)) \n    if(num2 < 0): \n        return -(num1 + multiply(num1, -num2-1)) \n\nif __name__ == \"__main__\":\n    num1 = 7\n    num2 = 9\n    result = multiply(num1, num2)\n    print(result)\n\"\"\"",
+  "example": "7, 9",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

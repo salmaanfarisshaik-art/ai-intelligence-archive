@@ -1,0 +1,7 @@
+{
+  "instruction": "Suggest how to improve the execution of a program given the demo results.",
+  "input": "The program is supposed to generate images from sketch inputs, but the published results are low-resolution and have some blurred lines when compared to the original sketch.",
+  "output": "The program can be improved by increasing the resolution of the generated images. This can be achieved by adding more layers in the deep learning model and increasing the size of the input image. Additionally, the parameters of the deep learning model, such as learning rate and optimizer – can be fine-tuned to get better results.",
+  "unique_id": "prompt_suggest_how_to_impro",
+  "schema_version": "1.0"
+}

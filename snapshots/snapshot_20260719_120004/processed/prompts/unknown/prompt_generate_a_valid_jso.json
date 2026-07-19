@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a valid JSON object for the following data expressed in natural language.",
+  "input": "The article contains three parts. Part 1 is about the history of the subject, Part 2 is about its present applications, and Part 3 is about its future potential.",
+  "output": "{\n \"article\": {\n   \"parts\": [\n     {\"name\": \"Part 1\", \"content\": \"History\"},\n     {\"name\": \"Part 2\", \"content\": \"Present Applications\"}, \n     {\"name\": \"Part 3\", \"content\": \"Future Potential\"}\n   ] \n }\n}",
+  "unique_id": "prompt_generate_a_valid_jso",
+  "schema_version": "1.0"
+}

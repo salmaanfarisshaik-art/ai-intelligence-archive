@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.11836v2",
+  "schema_version": "1.0",
+  "name": "Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.11836v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.11836v2",
+    "updated": "2026-06-11T17:42:41Z",
+    "published": "2026-06-10T09:16:29Z",
+    "title": "Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering",
+    "summary": "This paper presents a novel data-free and training-free compression approach for speech foundation models using channelwise clustering via k-means. More fine-grained, mixed sparsity pruning by layer-level varying number of parameter clusters is also explored. Experiments conducted on the LibriSpeech dataset suggest that when operating with pruning sparsity of 50% on HuBERT-large, consistent WER reductions of 27.73%/18.61% absolute (34.37%/21.91% relative) over the magnitude-based pruning were obtained on the test-clean and test-other subsets before fine-tuning and 0.19%/0.79% absolute (3.36%/4.62% relative) after fine-tuning with only 3 epochs. Similar WER reductions of 2.86%/5.02% absolute (59.21%/55.29% relative) were observed against magnitudebased pruning on Whisper-large-v3 at 10% sparsity, all with no significant WER increase relative to the uncompressed baseline.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:42:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.11836v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

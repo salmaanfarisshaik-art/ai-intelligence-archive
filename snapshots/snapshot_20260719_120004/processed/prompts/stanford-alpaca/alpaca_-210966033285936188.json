@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-210966033285936188",
+  "technique_name": "Create a function that takes a list of strings and returns a list without duplicates.",
+  "description": "def remove_duplicates(strings):\n  seen = set()\n  result = []\n  for string in strings:\n    if string not in seen:\n      seen.add(string)\n      result.append(string)\n  return result",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

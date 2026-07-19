@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1858613939044676407",
+  "technique_name": "Given an array of integers, write a program that finds the maximum and minimum values.",
+  "description": "//This program finds the maximum and minimum numbers in an array\nlet arr = [7, 9, 5, 4, 6, 8];\nlet max = Math.max(...arr);\nlet min = Math.min(...arr);\nconsole.log(\"Max:\", max);\nconsole.log(\"Min:\", min);",
+  "example": "[7, 9, 5, 4, 6, 8]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

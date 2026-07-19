@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a script in Python which will convert given numbers in to words.",
+  "input": "",
+  "output": "def get_string(number):\n    if(number == 0): \n        return 'zero' \n    if (number < 0):  \n        return 'minus ' + get_string(-1 * number) \n       \n    if (number > 0): \n \n        a = [\"\",\"one \",\"two \",\"three \",\"four \", \"five \",\"six \",\"seven \",\"eight \",\"nine \",\"ten \",\"eleven \",\"twelve \",\"thirteen \",\"fourteen \",\"fifteen \",\"sixteen \",\"seventeen \",\"eighteen \",\"nineteen \"] \n         \n        b = [\"\",\"\",\"twenty \",\"thirty \",\"forty \", \"fifty \",\"sixty \",\"seventy \",\"eighty \",\"ninety \"] \n         \n        if (number < 20): \n            return a[number]  \n\n        if (number < 100): \n            return b[number//10] + get_string(number%10) \n          \n    return get_string(number//100) + \"hundred \" + get_string(number%100)",
+  "unique_id": "prompt_generate_a_script_in",
+  "schema_version": "1.0"
+}

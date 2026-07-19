@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a class to represent an airplane.",
+  "input": "",
+  "output": "class Airplane: \n    def __init__(self, model, capacity, speed): \n        self.model = model \n        self.capacity = capacity \n        self.speed = speed \n        \n    def increase_speed(self, increment): \n        self.speed += increment \n        \n    def decrease_speed(self, decrement): \n        self.speed -= decrement",
+  "unique_id": "prompt_construct_a_class_to",
+  "schema_version": "1.0"
+}

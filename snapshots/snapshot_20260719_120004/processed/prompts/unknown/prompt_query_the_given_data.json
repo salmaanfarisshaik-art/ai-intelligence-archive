@@ -1,0 +1,7 @@
+{
+  "instruction": "Query the given database and print the results.",
+  "input": "SELECT * FROM customers",
+  "output": "Output: ID | Name | Address | Phone\n   1   | John | 123 Main | 123-456-7890\n   2   | Jane | 456 Broadway | 234-567-8901\n   3   | Dave | 789 Riverside | 345-678-9012",
+  "unique_id": "prompt_query_the_given_data",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a script to calculate the simple interest on a loan of $10000.",
+  "input": "",
+  "output": "\"\"\"\nFunction to calculate the simple interest \n\nInput: amount - loan amount\n       rate - interest rate\n       years - number of years for the loan\n\n\"\"\"\n\ndef simple_interest(amount, rate, years):\n    return (amount * rate * years) / 100\n\nif __name__ == '__main__':\n    print(simple_interest(10000, 5, 4))",
+  "unique_id": "prompt_create_a_script_to_c",
+  "schema_version": "1.0"
+}

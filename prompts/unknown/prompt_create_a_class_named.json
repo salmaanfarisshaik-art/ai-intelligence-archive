@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a class named MyDog with a method setBreed that takes a string as an argument and sets the value of a class variable named breed.",
+  "input": "",
+  "output": "class MyDog:\n    def __init__(self):\n        self.breed = \"\"\n    \n    def setBreed(self, breed):\n        self.breed = breed",
+  "unique_id": "prompt_create_a_class_named",
+  "schema_version": "1.0"
+}

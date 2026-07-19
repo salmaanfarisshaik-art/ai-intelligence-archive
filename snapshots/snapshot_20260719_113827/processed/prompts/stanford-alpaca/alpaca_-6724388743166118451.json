@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6724388743166118451",
+  "technique_name": "Create a data analysis report from the given dataset.",
+  "description": "This data analysis report will provide insights into the sales performance of the product. The table contains data for the number of units sold, the sale price and the month and year the sale happened. We can gain insights such as the total sale value, the average sale price and the average number of units sold. We can also analyze sales performance by year and month to identify seasonal trends. Finally, we can use the data to identify the most popular product and its sales performance.",
+  "example": "table: sales_data\ncolumns: year, month, product, units_sold, sale_price",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

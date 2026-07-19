@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3113271851146268906",
+  "technique_name": "Reverse engineer the following algorithm and explain its function in one sentence.",
+  "description": "This algorithm sorts numbers in an array in ascending order by comparing them against each other and swapping them if they are out of order.",
+  "example": "def sort_numbers(arr):\n    for i in range(len(arr)): \n        for j in range(i): \n            if arr[i] < arr[j]: \n                arr[i], arr[j] = arr[j], arr[i]\n    return arr",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

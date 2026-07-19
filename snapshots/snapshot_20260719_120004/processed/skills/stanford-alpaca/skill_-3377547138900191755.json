@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3377547138900191755",
+  "skill_name": "Write a query to search the database for products that are discounted.",
+  "workflow": "SELECT * FROM Products WHERE Discount > 0;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

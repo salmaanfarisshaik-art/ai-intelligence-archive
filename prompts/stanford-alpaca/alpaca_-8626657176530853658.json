@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8626657176530853658",
+  "technique_name": "Design a mathematical algorithm for finding the greatest common divisor of two numbers.",
+  "description": "The algorithm should start by obtaining two numbers, 'a' and 'b'. Then it should iterate through a loop and set 'r' equal to the remainder of 'a' divided by 'b'. If 'r' is not equal to 0, the algorithm should set 'a' equal to 'b' and 'b' equal to 'r'. This loop should be repeated until 'r' is equal to 0. Then the algorithm should return 'a' as the greatest common divisor of two numbers.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

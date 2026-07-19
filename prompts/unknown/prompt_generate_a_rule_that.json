@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a rule that can be applied to the given dataset.",
+  "input": "DATASET:  Height, Weight\nRow 1: 170 cm, 70 kg\nRow 2: 180 cm, 80 kg",
+  "output": "The rule generated is: For every 10 cm increase in height, there is an 8 kg increase in weight.",
+  "unique_id": "prompt_generate_a_rule_that",
+  "schema_version": "1.0"
+}

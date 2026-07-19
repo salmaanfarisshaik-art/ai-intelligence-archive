@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1004635599124979194",
+  "skill_name": "Construct a python class for an apple.",
+  "workflow": "class Apple:\n    def __init__(self, color, size):\n        self.color = color\n        self.size = size\n    \n    def get_color(self):\n        return self.color\n    \n    def get_size(self):\n        return self.size",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

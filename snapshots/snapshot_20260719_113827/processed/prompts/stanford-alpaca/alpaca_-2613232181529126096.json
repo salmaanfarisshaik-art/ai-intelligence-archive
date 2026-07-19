@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2613232181529126096",
+  "technique_name": "Create an algorithm to sort an array of integers from smallest to largest.",
+  "description": "Step 1: Select the first element, which is 3 in this case.\nStep 2: Compare 3 with the remaining elements of the array, starting with 8. 3 is smaller than 8, so the array remains unchanged.\nStep 3: Compare 3 with the remaining elements of the array, starting with 5. 3 is smaller than 5, so the array remains unchanged.\nStep 4:  Compare 3 with the remaining elements of the array, starting with 4. 3 is smaller than 4, so the array remains unchanged.\nStep 5:  Compare 3 with the remaining elements of ",
+  "example": "[3, 8, 5, 4, 1, 9]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

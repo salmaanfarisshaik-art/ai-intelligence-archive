@@ -1,0 +1,29 @@
+{
+  "_id": "662abd3057b0996d7e5d9115",
+  "id": "tanganke/sun397",
+  "author": "tanganke",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-05-16T02:41:24.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "9c4afd6174afa3974f209a0ef099dbbe244dfd27",
+  "description": "\n\t\n\t\t\n\t\tSUN397 dataset\n\t\n\nThe database contains 397 categories subset from the SUN dataset for Scene Recognition used in the following paper. \nThe number of images varies across categories, but there are at least 100 images per category, and 108,754 images in total. \nAll images are in jpg format. The images provided here are for research purposes only.\nThe file ClassName.txt contains the name list for the 397 categories.\nPlease cite the following paper if you use this dataset in your research.… See the full description on the dataset page: https://huggingface.co/datasets/tanganke/sun397.",
+  "downloads": 25756,
+  "tags": [
+    "task_categories:image-classification",
+    "language:en",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:image",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-04-25T20:29:36.000Z",
+  "key": "",
+  "unique_id": "dataset_tanganke_sun397",
+  "schema_version": "1.0"
+}

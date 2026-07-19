@@ -1,0 +1,7 @@
+{
+  "instruction": "Tune the given hyperparameters of this AI model.",
+  "input": "Number of filters: 6\nFilter size: 3",
+  "output": "The hyperparameters can be tuned using a grid search approach to find the most optimal parameters. For example, the number of filters and filter size can be varied for each search iteration and the highest performing model can be selected for use. \nThis could involve increasing the number of filters and/or increasing the filter size up to a maximum value. The selected hyperparameters should be the ones that lead to the highest accuracy levels in terms of validation metric.",
+  "unique_id": "prompt_tune_the_given_hyper",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a passage and two intents, output the probability of the passage belonging to each intent.",
+  "input": "The weather today is hot and humid.\nIntent1: Rain\nIntent2: Sunny",
+  "output": "Intent1: 0.5\nIntent2: 0.5",
+  "unique_id": "prompt_given_a_passage_and",
+  "schema_version": "1.0"
+}

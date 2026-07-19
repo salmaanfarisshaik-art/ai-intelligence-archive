@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3566111630893031259",
+  "technique_name": "Develop an algorithm to search for a particular item in a list.",
+  "description": "The algorithm to search for a particular item in a list can be implemented as follows:\n1. Set an initial index to 0.\n2. Compare the item at the current index to the target item.\n3. If the item matches the target item, return the index of the item.\n4. Otherwise, increment the index, and go back to step 2.\n5. If the index reaches the end of the list, the item is not present in the list, and the algorithm returns -1.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate an API endpoint that returns a list of items",
+  "input": "",
+  "output": "The API endpoint should take a few parameters such as the type of items, a range, and any filters. It should then construct a query based on the parameters and execute this query on the database to return a list of items satisfying the parameters. The API should also provide pagination to allow for easy navigation of large datasets.",
+  "unique_id": "prompt_generate_an_api_endp",
+  "schema_version": "1.0"
+}

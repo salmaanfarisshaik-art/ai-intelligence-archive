@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2525911179337941384",
+  "technique_name": "Explain how to solve a Sudoku puzzle in three steps.",
+  "description": "1. Start with the rows and columns of the puzzle. Look for any numbers that are already filled in and use them to look for other numbers in related column or row that can only be completed in one box. \n2. Focus on the 3x3 squares on the puzzle, looking for numbers that are already filled in and use them to look for other numbers in the related squares that can only be completed in one box. \n3. Look for numbers that are only found in one row, column, or 3x3 square. This will indicate which number",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

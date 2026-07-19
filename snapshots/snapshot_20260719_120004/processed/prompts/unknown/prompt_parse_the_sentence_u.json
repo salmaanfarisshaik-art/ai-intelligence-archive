@@ -1,0 +1,7 @@
+{
+  "instruction": "Parse the sentence using an online Dependency Parser and output the result in lines",
+  "input": "People should be able to vote without fear of retribution",
+  "output": "People -> ROOT\nshould -> vote\nbe -> vote\nable -> vote\nto -> vote\nvote -> should\nwithout -> fear\nfear -> vote\nof -> retribution\nretribution -> fear",
+  "unique_id": "prompt_parse_the_sentence_u",
+  "schema_version": "1.0"
+}

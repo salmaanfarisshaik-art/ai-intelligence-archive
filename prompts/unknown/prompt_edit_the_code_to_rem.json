@@ -1,0 +1,7 @@
+{
+  "instruction": "Edit the code to remove errors.",
+  "input": "// Code to print Hello World// \nfunction print() { \n\treturn Hello World;\n}",
+  "output": "// Code to print Hello World// \nfunction print() { \n\tconsole.log(\"Hello World\");\n}",
+  "unique_id": "prompt_edit_the_code_to_rem",
+  "schema_version": "1.0"
+}

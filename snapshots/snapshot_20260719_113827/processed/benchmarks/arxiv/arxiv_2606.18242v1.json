@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18242v1",
+  "schema_version": "1.0",
+  "name": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18242v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18242v1",
+    "updated": "2026-06-16T17:58:40Z",
+    "published": "2026-06-16T17:58:40Z",
+    "title": "EventDrive: Event Cameras for Vision-Language Driving Intelligence",
+    "summary": "Event cameras sense the world through asynchronous brightness changes with microsecond latency and high dynamic range, offering motion fidelity far beyond frame-based sensors and capturing temporal structure that conventional exposures often miss. These properties make events a powerful complement to RGB in autonomous driving, especially under blur, glare, and rapid motion, where frame-based perception can become unreliable. However, existing event-aware vision-language models remain limited to generic perception and do not reveal how event sensing contributes to reasoning and decision-making across the full driving loop. We present EventDrive, a large-scale benchmark and model suite that unifies event streams, RGB frames, and language supervision across four core dimensions: Perception, Understanding, Prediction, and Planning, covering captions, structured QA, grounding, motion-state recognition, trajectory forecasting, and planning tasks. Building on this foundation, EventDrive-VLM introduces a multi-horizon event pyramid and a temporal-horizon mixture-of-experts module to adaptively encode and fuse asynchronous and frame-based information for downstream reasoning. Comprehensive evaluation across diverse tasks shows that event streams provide substantial gains in temporal precision, motion awareness, and robustness, bringing event sensing into the center of driving intelligence.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:58:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18242v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

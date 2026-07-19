@@ -1,0 +1,7 @@
+{
+  "instruction": "Given this snippet of code, identify and fix the bug.",
+  "input": "```python\nnums = [4, 8, 9, 15]\nfor num in range(1, nums):\n    print(num)\n```",
+  "output": "```python\nnums = [4, 8, 9, 15]\nfor num in nums:\n    print(num)\n```",
+  "unique_id": "prompt_given_this_snippet_o",
+  "schema_version": "1.0"
+}

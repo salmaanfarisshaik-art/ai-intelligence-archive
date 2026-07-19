@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a valid SQL query to extract the requested information.",
+  "input": "Table Name: Employees\nColumns: Name, Salary\n\nQuery all employees whose salary is greater than $50,000",
+  "output": "SELECT Name FROM Employees WHERE Salary > 50000;",
+  "unique_id": "prompt_create_a_valid_sql_q",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4246033352349449045",
+  "technique_name": "Create a Python program to calculate the median of an array of numbers.",
+  "description": "def median_calc(nums): \n    nums.sort() \n    mid = len(nums)//2 \n  \n    if len(nums) % 2 == 0: \n        median = (nums[mid] + nums[mid - 1])/2 \n    else: \n        median = nums[mid] \n  \n    return median \n  \narray = [5, 15, 20, 2, 10] \nn = len(array) \n  \nmed = median_calc(array) \n  \nprint(\"The median of given array is: \" + str(med))",
+  "example": "5, 15, 20, 2, 10",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

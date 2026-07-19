@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2407.18245v3",
+  "schema_version": "1.0",
+  "name": "VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2407.18245v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2407.18245v3",
+    "updated": "2026-06-17T16:18:01Z",
+    "published": "2024-07-25T17:58:17Z",
+    "title": "VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset",
+    "summary": "Human head detection, keypoint estimation, and 3D head model fitting are essential tasks with many applications. However, traditional real-world datasets often suffer from bias, privacy, and ethical concerns, and they have been recorded in laboratory environments, which makes it difficult for trained models to generalize. Here, we introduce \\method -- a large-scale synthetic dataset generated with diffusion models for human head detection and 3D mesh estimation. Our dataset comprises over 1 million high-resolution images, each annotated with detailed 3D head meshes, facial landmarks, and bounding boxes. Using this dataset, we introduce a new model architecture capable of simultaneous head detection and head mesh reconstruction from a single image in a single step. Through extensive experimental evaluations, we demonstrate that models trained on our synthetic data achieve strong performance on real images. Furthermore, the versatility of our dataset makes it applicable across a broad spectrum of tasks, offering a general and comprehensive representation of human heads.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:18:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2407.18245v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

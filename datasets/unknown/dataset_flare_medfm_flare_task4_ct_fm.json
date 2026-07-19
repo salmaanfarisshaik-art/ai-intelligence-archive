@@ -1,0 +1,25 @@
+{
+  "_id": "6801901123273feabefda2b9",
+  "id": "FLARE-MedFM/FLARE-Task4-CT-FM",
+  "author": "FLARE-MedFM",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2025-07-03T22:48:59.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "2d301d292a31b485c2d2c31c856690ea1b677197",
+  "description": "\n\t\n\t\t\n\t\tMICCAI FLARE25\n\t\n\n\n\t\n\t\t\n\t\tTask 4: Foundation Models for 3D CT and MRI Scans (Homepage)\n\t\n\nThis is the official dataset for CT image foundation model development. We provide 10,000+ CT scans for model pretraining. \nDownstream tasks include:\n\nAbdominal disease classification\nAbdominal lesion segmentation\nAbdominal organ segmentation\nLung lesion segmentation\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\n\t\n\n\n\t\n\t\t\nDataset Name\nTask\nMetric\nSource\nLicense\n\n\n\t\t\nAbdominal Disease Classification\nmulti-label… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/FLARE-Task4-CT-FM.",
+  "downloads": 123003,
+  "tags": [
+    "task_categories:image-classification",
+    "task_categories:image-segmentation",
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "region:us",
+    "medical"
+  ],
+  "createdAt": "2025-04-17T23:34:41.000Z",
+  "key": "",
+  "unique_id": "dataset_flare_medfm_flare_task4_ct_fm",
+  "schema_version": "1.0"
+}

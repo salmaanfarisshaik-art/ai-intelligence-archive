@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4882049240484784218",
+  "skill_name": "Create an algorithm that sorts a given array in ascending order.",
+  "workflow": "A sorting algorithm to sort an array A[0…n-1] of n elements in ascending order:\n\n1. For i = 0 to n-2\n2. Set min = i\n3. For j = i+1 to n-1\n4.  If A[j] < A[min], set min = j\n5.  Exchange elements A[i] and A[min]\n6. End loop\n7. End loop",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

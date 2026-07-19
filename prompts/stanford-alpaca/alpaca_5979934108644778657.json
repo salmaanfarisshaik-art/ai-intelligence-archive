@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5979934108644778657",
+  "technique_name": "Provide a list of applicable data points that the GPT model will be able to generate output on given the instruction.",
+  "description": "Given the instruction \"Create a program to predict whether an email is spam given its text\", the applicable data points that the GPT model can generate output on include: \n1. Preprocessing steps for the email text such as tokenization, stemming, and lemmatization. \n2. Feature extraction methods from the email text such as term frequency-inverse document frequency and n-grams.\n3. Supervised learning algorithms (e.g. logistic regression or SVM) for training a model on the extracted features.\n4. A ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

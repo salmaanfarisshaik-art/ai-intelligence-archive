@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2843232119983889827",
+  "skill_name": "Create a phone number validator.",
+  "workflow": "def valid_phonenumber(number):\n    if len(number) == 10 and number.isdigit():\n        return True\n    else:\n        return False\n    \nif __name__ == '__main__':\n    number = input('Enter a phone number: ')\n    if valid_phonenumber(number):\n        print('The phone number is valid.')\n    else:\n        print('The phone number is not valid.')",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

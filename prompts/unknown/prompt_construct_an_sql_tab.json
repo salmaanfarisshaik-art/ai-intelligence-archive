@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct an SQL table with the following columns: _id, name, phone, email.",
+  "input": "",
+  "output": "Table: contact_info\n\nFields:\n_id: INTEGER\nname: VARCHAR (255)\nphone: VARCHAR (255)\nemail: VARCHAR (255)",
+  "unique_id": "prompt_construct_an_sql_tab",
+  "schema_version": "1.0"
+}

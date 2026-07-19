@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5764443755450940518",
+  "skill_name": "Generate an HTML code for a 3Cols table that also has a header. Output the code directly.",
+  "workflow": "<table>\n  <tr>\n    <th>Header 1</th>\n    <th>Header 2</th>\n    <th>Header 3</th>\n  </tr>\n  <tr>\n   <td>Column 1</td>\n   <td>Column 2</td>\n   <td>Column 3</td>\n  </tr>\n</table>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

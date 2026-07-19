@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6271377343587615974",
+  "technique_name": "Analyze the following sequence of code to determine if there is any error.",
+  "description": "There is an error in this code because the argument of the print function must be a string, but the value of c is an integer. This can be fixed by converting c to a string before printing it. The corrected code should look like this:\n\na = 5\nb = 10\nc = a + b\nprint(\"The sum of a + b is: \" + str(c))",
+  "example": "a = 5\nb = 10\nc = a + b\nprint(\"The sum of a + b is: \" + c)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

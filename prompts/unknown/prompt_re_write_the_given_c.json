@@ -1,0 +1,7 @@
+{
+  "instruction": "Re-write the given code preserving the structure and formatting.",
+  "input": "var x=10; for(var i=1;i<x;++i){console.log(i);}",
+  "output": "for (let i = 1; i < 10; i++) {\n  console.log(i);\n}",
+  "unique_id": "prompt_re_write_the_given_c",
+  "schema_version": "1.0"
+}

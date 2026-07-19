@@ -1,0 +1,7 @@
+{
+  "instruction": "Using SQL, create a command to make a new table.",
+  "input": "The new table will be called \"customers\" and should have columns for: id, name, phone, email.",
+  "output": "CREATE TABLE customers (\n\tid INT AUTO_INCREMENT PRIMARY KEY,\n \tname VARCHAR(255),\n\tphone VARCHAR(255),\n\temail VARCHAR(255)\n);",
+  "unique_id": "prompt_using_sql_create_a",
+  "schema_version": "1.0"
+}

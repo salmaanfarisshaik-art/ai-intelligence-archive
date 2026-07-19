@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a library of code that implements a linked list data structure.",
+  "input": "",
+  "output": "// Code implementing a linked list\n \nclass Node {\n  constructor(value, next = null) {\n    this.value = value;\n    this.next = next;\n  }\n}\n \nclass LinkedList {\n  constructor() {\n    this.head = null;\n  }\n \n  insert(value) {\n    //Insert Code Here\n  }\n \n  includes(value) {\n    //Search Code Here\n  }\n \n  //Additional methods(append, insertBefore, insertAfter, kthFromEnd)\n}",
+  "unique_id": "prompt_create_a_library_of",
+  "schema_version": "1.0"
+}

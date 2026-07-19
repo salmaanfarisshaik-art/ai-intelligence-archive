@@ -1,0 +1,7 @@
+{
+  "instruction": "Create HTML code for a registration form.",
+  "input": "",
+  "output": "<!DOCTYPE html>\n<html>\n<head>\n<title>Registration Form</title>\n</head>\n<body>\n\n<form action=\"/form-submit\" method=\"POST\">\n  <div>\n    <label for=\"name\">Name:</label><br>\n    <input type=\"text\" id=\"name\" name=\"name\">\n  </div>\n  <div>\n    <label for=\"email\">Email:</label><br>\n    <input type=\"email\" id=\"email\" name=\"email\">\n  </div>\n  <div>\n    <label for=\"password\">Password:</label><br>\n    <input type=\"password\" id=\"password\" name=\"password\">\n  </div>\n  <div>\n    <button type=\"submit\">Submit</button>\n  </div>\n</form>\n\n</body>\n</html>",
+  "unique_id": "prompt_create_html_code_for",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.29563v2",
+  "schema_version": "1.0",
+  "name": "Planning with the Views via Scene Self-Exploration",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.29563v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.29563v2",
+    "updated": "2026-06-12T17:01:08Z",
+    "published": "2026-05-28T08:15:23Z",
+    "title": "Planning with the Views via Scene Self-Exploration",
+    "summary": "Can VLMs predict how each camera move changes the view, and plan many such moves ahead? We call this capability view planning, requiring (1)understanding how a single action transforms the view, and (2)composing many such transformations across multi-turn plans to identify a target view. We probe both abilities in our proposed ViewSuite, a 3D point-cloud environment on real ScanNet scenes. Across 13 frontier VLMs, a critical planning gap emerges: they possess basic view-action knowledge but fail to compose it across multi-turn plans, with the gap widening as viewpoint distance grows. To close this gap, we propose an iterative framework that alternates self-exploration with view graph distillation. The key insight is that all exploration trajectories, regardless of their outcome, collectively form a view graph that compactly captures how viewpoints connect across a scene. Distilling this graph into diverse supervised tasks reshapes the policy distribution and overcomes the sparse rewards that stall pure RL. This improves Qwen2.5-VL-7B from 2.5% to 47.8% on interactive view planning, surpassing GPT-5.4 Pro (18.5%) and Gemini 3.1 Pro (21.4%). Self-exploration emerges as a promising path toward VLMs that can actively reason and plan in 3D space. Code and Data are at https://viewsuite.github.io.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T17:01:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.29563v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

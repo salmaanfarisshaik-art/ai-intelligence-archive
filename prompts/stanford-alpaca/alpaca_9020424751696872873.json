@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_9020424751696872873",
+  "technique_name": "Construct a SQL query to give the population of people aged between 20 and 30 in the cities of New York and Los Angeles.",
+  "description": "SELECT COUNT(*)\nFROM population_data\nWHERE age BETWEEN 20 AND 30\nAND city IN ('New York', 'Los Angeles');",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

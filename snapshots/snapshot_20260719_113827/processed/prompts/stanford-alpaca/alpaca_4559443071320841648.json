@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4559443071320841648",
+  "technique_name": "Implement a program to reverse a string.",
+  "description": "def reverse_string(s):\n    \"\"\"\n    Function to reverse a string\n    Arguments:\n        s: string to be reversed\n    Returns:\n        string which is the reverse of given input\n    \"\"\"\n    reversed_string = \"\"\n    for char in s: \n        reversed_string = char + reversed_string\n    \n    return reversed_string\n\nsample_string = \"Hello World!\"\nprint(reverse_string(sample_string)) # \"!dlroW olleH\"",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

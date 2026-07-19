@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two tables, combine the tables and generate a view.",
+  "input": "Table A:  student\n\nName   | Age  | Grade\n------------------\nJohn   | 20   | A\n\nTable B: score\n\nName   | Test_1| Test_2\n------------------------\nJohn   | 50    | 80",
+  "output": "CREATE VIEW student_score AS\nSELECT s.Name, s.Age, s.Grade, sc.Test_1, sc.Test_2\nFROM student s\nJOIN score sc ON s.Name = sc.Name;",
+  "unique_id": "prompt_given_two_tables_co",
+  "schema_version": "1.0"
+}

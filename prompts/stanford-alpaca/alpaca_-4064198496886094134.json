@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4064198496886094134",
+  "technique_name": "Create a program that converts a number from base 10 to base 16.",
+  "description": "def number_converter(number): \n    #Hexadecimal Number System \n    hexadecimal = [\"0\", \"1\", \"2\", \"3\", \"4\", \"5\", \"6\", \"7\", \"8\", \"9\", \"A\", \"B\", \"C\", \"D\", \"E\", \"F\"]\n    \n    # convert to binary \n    binary = bin(number).replace(\"0b\",\"\")\n    \n    # index\n    i = 0\n    hexa = \"\"\n    # While loop from 0 to the number of bits\n    while(i < len(binary)):\n        bit_four = binary[i : i + 4]\n        remainder = bit_four % 16 #16 is Base 16 \n        hexa += hexadecimal[remainder]\n        i += 4\n    return",
+  "example": "254",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

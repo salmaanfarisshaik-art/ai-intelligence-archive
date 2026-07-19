@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4733356652452295905",
+  "technique_name": "Describe an algorithm for calculating the maximum value of a given array",
+  "description": "A simple algorithm for calculating the maximum value of a given array is to initialize a maximum variable with the first element of array, then iterate through the array elements while replacing the maximum value with the larger number whenever found. After the loop is finished, the maximum value is the maximum number of the array.\n\ndef find_maximum(arr):\n    max_val = arr[0]\n    for elem in arr:\n        if elem > max_val:\n            max_val = elem\n    return max_val",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a Sudoku solving algorithm",
+  "input": "",
+  "output": "A Sudoku solving algorithm can be designed using backtracking. The algorithm begins with an empty 9x9 grid. First, the algorithm checks to see if any cells are provided with a value and if they are, the value is placed in the cell. If a cell is not given a value, the algorithm must identify a valid number to place into the cell. The algorithm will then check the row, column and 3*3 box associated with the cell to make sure that no duplicate values occur. If no valid number is found, the algorithm goes back and selects another number for the previous cell and the process continues until a valid solution is found.",
+  "unique_id": "prompt_design_a_sudoku_solv",
+  "schema_version": "1.0"
+}

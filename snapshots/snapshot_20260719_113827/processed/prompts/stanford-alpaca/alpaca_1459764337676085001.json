@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1459764337676085001",
+  "technique_name": "Create a program to generate a random matrix of size n by m.",
+  "description": "def generate_random_matrix(n, m):\n    matrix = []\n    for i in range(n):\n        row = []\n        for j in range(m):\n            random_num = random.randrange(0, 10)\n            row.append(random_num)\n        matrix.append(row)\n    return matrix",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

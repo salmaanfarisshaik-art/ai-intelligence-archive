@@ -1,16 +1,15 @@
 {
+  "commit_created": false,
   "dry_run": false,
-<<<<<<< Updated upstream
-  "modules_failed": [
-    "pipeline_decision_engine"
-=======
   "files_added": 0,
   "files_modified": 0,
   "files_removed": 0,
   "modules_failed": [
     "snapshot_generator",
-    "timeline_generator"
->>>>>>> Stashed changes
+    "massive_seed_fetcher",
+    "source_validator",
+    "repository_expander",
+    "dashboard_data_generator"
   ],
   "modules_run": [
     "benchmark",
@@ -46,9 +45,7 @@
     "self_documentation",
     "dependency_reports",
     "repository_metrics",
-    "massive_seed_fetcher",
-    "source_validator",
-    "repository_expander",
+    "pipeline_decision_engine",
     "expansion_metrics",
     "data_quality_report",
     "archive_statistics",
@@ -58,24 +55,16 @@
     "entity_linker",
     "related_entity_engine",
     "knowledge_graph_builder",
-    "dashboard_data_generator",
+    "timeline_generator",
     "artifact_manifest_generator"
   ],
-<<<<<<< Updated upstream
-=======
   "phase8_status": "skipped_due_to_upstream_failure",
->>>>>>> Stashed changes
   "phase_8_5": {
     "archive_statistics_run": true,
     "mass_expansion_run": true
   },
-<<<<<<< Updated upstream
-  "run_id": "run_1784456791",
-  "timestamp": "2026-07-19T10:27:33.799320+00:00"
-=======
   "push_completed": false,
-  "run_id": "run_1784461087",
+  "run_id": "run_1784462390",
   "site_regenerated": false,
-  "timestamp": "2026-07-19T11:44:40.181809+00:00"
->>>>>>> Stashed changes
+  "timestamp": "2026-07-19T12:05:14.125375+00:00"
 }

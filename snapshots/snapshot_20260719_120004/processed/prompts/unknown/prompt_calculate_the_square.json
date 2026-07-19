@@ -1,0 +1,7 @@
+{
+  "instruction": "Calculate the square root of a given number.",
+  "input": "",
+  "output": "def sqrt(n):\n    low = 0\n    high = n\n    \n    while low <= high:\n        mid = (low + high) // 2\n        if mid * mid == n:\n            return mid\n        elif mid * mid < n:\n            low = mid + 1\n        else:\n            high = mid - 1\n            \n    return low - 1",
+  "unique_id": "prompt_calculate_the_square",
+  "schema_version": "1.0"
+}

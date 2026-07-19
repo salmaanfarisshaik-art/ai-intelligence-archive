@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6016875986994378807",
+  "technique_name": "Rewrite the following algorithm using pseudocode.",
+  "description": "FUNCTION simpleSum(n: INTEGER) \n    // declares variables \n    DECLARE sum, number : INTEGER \n\n    // sets initial values to 0 \n    SET sum = 0 \n    SET number = 0 \n\n    // loop until n is reached \n    WHILE number < n DO\n        SET sum = sum + number \n        SET number = number + 1 \n    END WHILE \n\n    // returns the sum\n    RETURN sum \nEND FUNCTION",
+  "example": "function simpleSum(n: INTEGER)\n// calculates the sum of the first n natural numbers\nvar sum, number: INTEGER\nsum := 0\nnumber := 0\n\nwhile number < n do\n  sum := sum + number\n  number := number + 1\nend while\n\nreturn sum",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

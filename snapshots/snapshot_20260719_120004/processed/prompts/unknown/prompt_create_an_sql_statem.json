@@ -1,0 +1,7 @@
+{
+  "instruction": "Create an SQL statement to find the employees born after 1975.",
+  "input": "",
+  "output": "SELECT * FROM Employees WHERE birth_year > 1975.",
+  "unique_id": "prompt_create_an_sql_statem",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a corresponding css for the given html",
+  "input": "<div class=\"primary\">\n    <p>Sample text.</p>\n</div>",
+  "output": ".primary {\n    color: #000000;\n    font-weight: bold;\n    font-size: 1.2rem;\n}",
+  "unique_id": "prompt_create_a_correspondi",
+  "schema_version": "1.0"
+}

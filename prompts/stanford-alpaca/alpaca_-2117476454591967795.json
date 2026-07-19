@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2117476454591967795",
+  "technique_name": "Reverse engineer this algorithm.",
+  "description": "The algorithm takes an array of N integers, A[1], A[2]…, A[N] and performs a bubble sort to create a new sorted array B[1], B[2]…, B[N]. Starting from index 2, it compares each element A[j] with its immediate predecessor A[j-1]. If A[j] is smaller than A[j-1], the two elements are swapped and j is decremented by one. This process is repeated until A[j] is no longer smaller than A[j-1] or j = 1.",
+  "example": "Input: An array A of N integers A[1], A[2], …, A[N]\nOutput: A new sorted array B of N integers B[1], B[2], …, B[N]\n\nFor i = 2 to N\n    j = i\n    while j > 1 and A[j] < A[j-1]\n        swap A[j] and A[j-1]\n        j = j-1",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

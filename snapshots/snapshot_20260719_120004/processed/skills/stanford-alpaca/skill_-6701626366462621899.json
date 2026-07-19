@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6701626366462621899",
+  "skill_name": "Create a script to remove all vowels from a string",
+  "workflow": "\"\"\"\nRemove all vowels from a string\n\"\"\"\n\ndef remove_vowels(string):\n    vowels = set(['a', 'e', 'i', 'o', 'u'])\n    result = ''\n    for char in string:\n        if char not in vowels:\n            result += char\n    return result\n    \nif __name__ == '__main__':\n    print(remove_vowels('hello world'))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

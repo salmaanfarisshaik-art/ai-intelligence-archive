@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1667447733141898615",
+  "technique_name": "Create a class in Python that represents a car",
+  "description": "class Car:\n    def __init__(self, make, model, year, color):\n        self.make = make\n        self.model = model\n        self.year = year\n        self.color = color\n        self.speed = 0\n    \n    def accelerate(self, amount):\n        self.speed += amount\n    \n    def brake(self, amount):\n        self.speed -= amount",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

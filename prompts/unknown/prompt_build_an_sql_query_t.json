@@ -1,0 +1,7 @@
+{
+  "instruction": "Build an SQL query that extracts all the customer data from the customer table who have bought product with id Equal to 2.",
+  "input": "",
+  "output": "SELECT * FROM customer WHERE product_ID = 2;",
+  "unique_id": "prompt_build_an_sql_query_t",
+  "schema_version": "1.0"
+}

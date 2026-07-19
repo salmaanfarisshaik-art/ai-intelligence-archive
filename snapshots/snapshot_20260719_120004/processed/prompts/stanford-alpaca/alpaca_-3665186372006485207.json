@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3665186372006485207",
+  "technique_name": "Write a Python script to parse a large tabular datafile.",
+  "description": "\"\"\"\nWrite a python script to parse a large tabular data file.\n\"\"\"\n\nimport pandas as pd\n\ndef parse_datafile(file_name):\n    df = pd.read_csv(file_name, sep='\\t', engine='python')\n    return df\n\nif __name__ == '__main__':\n    print(parse_datafile(\"data.txt\"))",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Complete the proof for why the converse of the Pythagorean Theorem is false.",
+  "input": "",
+  "output": "Suppose we let A, B, and C represent the sides of a triangle such that C is the longest side and A² + B² = C². This is the Pythagorean Theorem. If we assume the converse, namely that A² + B² = C² implies C is the longest side, then there is a possibility of a triangle where A > C or B > C. This contradicts the original assumption that C is the longest side of the triangle, therefore proving that the converse of the Pythagorean Theorem is false.",
+  "unique_id": "prompt_complete_the_proof_f",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6460469906387786066",
+  "technique_name": "Generate an example of using the following function.",
+  "description": "list1 = [1, 2, 3]\nelement = 4\nappend_to_list(list1, element) # returns [1, 2, 3, 4]",
+  "example": "def append_to_list(lst, element):\n    lst.append(element)\n    return lst",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

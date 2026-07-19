@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert the given JSON code into YAML format.",
+  "input": "{\n  \"Name\": \"John\",\n  \"Age\": 34,\n  \"Hobby\": [\"Reading\", \"Painting\"]\n}",
+  "output": "Name: John\nAge: 34\nHobby:\n- Reading\n- Painting",
+  "unique_id": "prompt_convert_the_given_js",
+  "schema_version": "1.0"
+}

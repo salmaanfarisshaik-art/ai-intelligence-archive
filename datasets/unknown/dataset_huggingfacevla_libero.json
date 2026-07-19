@@ -1,0 +1,32 @@
+{
+  "_id": "68baa3daeb995f8daef25979",
+  "id": "HuggingFaceVLA/libero",
+  "author": "HuggingFaceVLA",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-09-30T09:45:51.000Z",
+  "likes": 66,
+  "private": false,
+  "sha": "86958911c0f959db2bbbdb107eb3e17c5f9c798e",
+  "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"robot_type\": \"panda\",\n    \"total_episodes\": 1693,\n    \"total_frames\": 273465,\n    \"total_tasks\": 40,\n    \"chunks_size\": 1000,\n    \"fps\": 10.0,\n    \"splits\": {\n        \"train\": \"0:1693\"\n    },\n    \"data_path\": \"data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet\",\n    \"video_path\": \"videos/{video_key}/chunk-{chunk_index:03d}/file-{file_index:03d}.mp4\"… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceVLA/libero.",
+  "downloads": 24778,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:image",
+    "modality:timeseries",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "library:lerobot",
+    "region:us",
+    "LeRobot"
+  ],
+  "createdAt": "2025-09-05T08:48:26.000Z",
+  "key": "",
+  "unique_id": "dataset_huggingfacevla_libero",
+  "schema_version": "1.0"
+}

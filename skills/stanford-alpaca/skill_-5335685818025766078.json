@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5335685818025766078",
+  "skill_name": "Create a SQL query to find the 5 most popular restaurants in a given city.",
+  "workflow": "SELECT restaurant_name, COUNT(*) AS frequency \nFROM restaurant_table \nWHERE city = '<given city name>' \nGROUP BY restaurant_name \nORDER BY frequency DESC \nLIMIT 5;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

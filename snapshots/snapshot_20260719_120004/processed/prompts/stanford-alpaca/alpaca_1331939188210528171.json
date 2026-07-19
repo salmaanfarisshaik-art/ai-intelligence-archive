@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1331939188210528171",
+  "technique_name": "Train a natural language model to predict the next word given a context.",
+  "description": "Creating a Natural Language Model for predicting the next word given a context involves a few stages:\n\n1. Preprocessing - Here, text is split into sentences, tokenized, punctuation is removed and stopwords are removed from the text.\n\n2. Embeddings - Here, words are represented by dense vectors of real numbers and words with similar meanings have a similar representation.\n\n3. Training - Here, the model is trained using supervised learning, where the machine is shown examples of previous texts to ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

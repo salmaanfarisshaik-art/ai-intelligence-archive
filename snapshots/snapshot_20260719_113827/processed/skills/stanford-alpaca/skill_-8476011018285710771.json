@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8476011018285710771",
+  "skill_name": "Write a function in Python that evaluates a given expression.",
+  "workflow": "def evaluate_expression(expression): \n      \n    # a stack to store integer values \n    values = [] \n  \n    # a stack to store operators. \n    ops = [] \n    i = 0\n      \n    while i < len(expression): \n          \n        # Current token is a whitespace, \n        # skip it. \n        if expression[i] == ' ': \n            i += 1\n            continue\n              \n        # Current token is an opening  \n        # brace, push it to 'ops' \n        elif expression[i] == '(': \n            ops.append(ex",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

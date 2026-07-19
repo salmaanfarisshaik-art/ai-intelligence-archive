@@ -1,0 +1,28 @@
+{
+  "_id": "6524d963d4b61d080792ee2b",
+  "id": "princeton-nlp/SWE-bench",
+  "author": "princeton-nlp",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-03-03T05:28:08.000Z",
+  "likes": 143,
+  "private": false,
+  "sha": "e48e2bd1e9fecd5bbd641e9414ac59da9f2e69f6",
+  "description": "\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSWE-bench is a dataset that tests systems’ ability to solve GitHub issues automatically. The dataset collects 2,294 Issue-Pull Request pairs from 12 popular Python repositories. Evaluation is performed by unit test verification using post-PR behavior as the reference solution.\nThe dataset was released as part of SWE-bench: Can Language Models Resolve Real-World GitHub Issues?\n\n\t\n\t\t\n\t\n\t\n\t\tWant to run inference now?\n\t\n\nThis dataset only contains the problem_statement… See the full description on the dataset page: https://huggingface.co/datasets/princeton-nlp/SWE-bench.",
+  "downloads": 50404,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2310.06770",
+    "region:us"
+  ],
+  "createdAt": "2023-10-10T04:56:03.000Z",
+  "key": "",
+  "unique_id": "dataset_princeton_nlp_swe_bench",
+  "schema_version": "1.0"
+}

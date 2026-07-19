@@ -1,0 +1,7 @@
+{
+  "instruction": "Find the area of a triangle with sides of 12 cm, 15 cm, and 18 cm.",
+  "input": "",
+  "output": "The area of a triangle with sides of 12 cm, 15 cm, and 18 cm can be found using the Heron's formula. The formula is A=sqrt(s(s-a)(s-b)(s-c)), where a, b, and c are the sides of the triangle and s is the semiperimeter. In this case, s =12+15+18 =45, so the area is A=sqrt(45(45-12)(45-15)(45-18)) = 90 sq cm.",
+  "unique_id": "prompt_find_the_area_of_a_t",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Suggest a debugging strategy for identifying the bug in the following code.",
+  "input": "def say_hello():\n    print(\"Hello world!\")\n    print(\"Goodbye world\")",
+  "output": "A debugging strategy for identifying the bug in the code could be to use a print statement at the end of the function to print out what the return value is. This could help pinpoint where the issue is coming from. Additionally, you could also divide the code into smaller chunks and run it to identify which section is causing the issue.",
+  "unique_id": "prompt_suggest_a_debugging",
+  "schema_version": "1.0"
+}

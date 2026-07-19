@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a publicly available dataset in CSV format suitable for Natural Language Processing.",
+  "input": "",
+  "output": "The dataset would include a large collection of English sentences and their associated sentiment labels. Each sentence would be stored in a separate row and each row would include the sentence and a sentiment label ranging from -1 (very negative sentiment) to 1 (very positive sentiment). It would also include an optional field for an explanation of why the sentence was labeled the given sentiment. The dataset would be stored in a CSV file and the labels would be given as integers. It would be made publicly available for anyone to use for Natural Language Processing tasks.",
+  "unique_id": "prompt_create_a_publicly_av",
+  "schema_version": "1.0"
+}

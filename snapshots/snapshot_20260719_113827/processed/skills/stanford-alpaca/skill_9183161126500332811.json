@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9183161126500332811",
+  "skill_name": "Construct a suitable python program to calculate the factorial of a number",
+  "workflow": "def factorial(num):\n    fact = 1\n    \n    for i in range (1, num+1):\n        fact = fact * i\n    \n    return fact\n\nprint(\"The factorial of\", num, \"is\", factorial(num))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3140893478960736502",
+  "technique_name": "Design an algorithm for searching for duplicate contact entries in a list of emails.",
+  "description": "The algorithm should first read each email address to determine if the address is unique or a duplicate of an existing address. To ensure accuracy, the data should be broken down into tokens based on the local-part (before the @) and the domain-part (after the @). Then, these tokens can be compared to other email addresses in the list to identify duplicates. To handle the possibility of typos, a fuzzy matching algorithm can be implemented that accounts for errors in the input. For example, if tw",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7156290733309227622",
+  "skill_name": "Create a programming algorithm for finding greater and lesser number from a list of numbers.",
+  "workflow": "// Create an empty list of greater and lesser numbers\nlet greaterNumber = [];\nlet lesserNumber = [];\n\n// loop through the given list of numbers\nfor (let i=0; i<arr.length; i++) {\n    // save the current number\n    let number = arr[i];\n    \n    // check if the current number is greater than each other item in the list\n    let isGreater = true;\n    for (let j=0; j<arr.length; j++) {\n        if (number > arr[j]) {\n            isGreater = true;\n        } else {\n            isGreater = false;\n       ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

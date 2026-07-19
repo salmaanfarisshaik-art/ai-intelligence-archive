@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5416081496928366857",
+  "skill_name": "Write a code to scramble a given sentence.",
+  "workflow": "def scramble_sentence(sentence):\n    # Split the sentence into a list of words\n    words = sentence.split() \n\n    # Randomly shuffle the list of words\n    random.shuffle(words) \n\n    # Join the shuffled words into a new sentence\n    scrambled_sentence = ' '.join(words)\n\n    # Return the scrambled sentence\n    return scrambled_sentence\n\nscramble_sentence(\"She sells seashells on the seashore.\") # returns \"seashore She seashells the on sells\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

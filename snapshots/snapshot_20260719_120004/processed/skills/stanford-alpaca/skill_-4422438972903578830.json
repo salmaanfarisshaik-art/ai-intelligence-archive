@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4422438972903578830",
+  "skill_name": "Prove the associative law of addition for real numbers.",
+  "workflow": "Let a, b and c be real numbers.\n\n(a + b) + c = a + (b + c) \n\nWe will prove this using mathematical induction.\n\nBase Case:\n\nWhen n = 2, (a + b) + c = a + (b + c)\n\nLet (a + b) = x ⇒ a + b + c = x + c ⇒ (a + b) + c = a + (b + c) \n\nInductive Step:\n\nAssume that (a + b) + c = a + (b + c) for n = k, where k ≥ 2.\n\nLet (a + b) = x ⇒ a + b + c = x + c \n\nLet (x + c) = y ⇒ (a + b) + c = y \n\nSimilarly, a + (b + c) = y  ⇒ (a + b) + c = a + (b + c)\n\nTherefore, for all real numbers a, b and c, (a + b) + c = a +",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

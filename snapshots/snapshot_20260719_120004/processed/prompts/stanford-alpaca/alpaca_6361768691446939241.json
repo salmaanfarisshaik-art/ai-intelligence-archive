@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6361768691446939241",
+  "technique_name": "Given a natural language query, generate a SQL query.",
+  "description": "SELECT COUNT(*) FROM table_name WHERE age>20;",
+  "example": "Natural language query: Show me the number of people aged over 20 in the database.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

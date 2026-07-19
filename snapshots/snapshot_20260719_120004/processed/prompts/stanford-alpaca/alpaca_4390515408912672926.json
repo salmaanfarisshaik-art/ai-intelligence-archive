@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4390515408912672926",
+  "technique_name": "Given a data set, write a program that counts the number of instances of each label.",
+  "description": "#include<stdio.h>\n#include <string.h>\n \nint main() \n{\n    char data[][10] = {\"puppy\",\"dog\",\"kitten\",\"cat\",\"puppy\",\"dog\",\"fish\",\"cat\"};\n    int puppy_count = 0;\n    int dog_count = 0;\n    int kitten_count = 0;\n    int cat_count = 0;\n    int fish_count = 0;\n    int i;\n    int size = sizeof(data)/10;\n \n    for(i=0;i<size;i++)\n    {\n        if(strcmp(data[i],\"puppy\")==0)\n            puppy_count++;\n        if(strcmp(data[i],\"dog\")==0)\n            dog_count++;\n        if(strcmp(data[i],\"kitten\")==0)\n ",
+  "example": "Data Set:\n\n['puppy', 'dog', 'kitten', 'cat', 'puppy', 'dog', 'fish', 'cat']",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

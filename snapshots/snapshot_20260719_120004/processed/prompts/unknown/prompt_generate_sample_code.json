@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate sample code using the given variables.",
+  "input": "variables: num1, num2",
+  "output": "if (num1 > num2) {\n  console.log(num1 + \" is greater than \" + num2);\n} else {\n  console.log(num1 + \" is not greater than \" + num2);\n}",
+  "unique_id": "prompt_generate_sample_code",
+  "schema_version": "1.0"
+}

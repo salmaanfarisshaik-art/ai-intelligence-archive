@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18124v1",
+  "schema_version": "1.0",
+  "name": "Unintended Effects of Geographic Conditioning in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18124v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18124v1",
+    "updated": "2026-06-16T16:23:36Z",
+    "published": "2026-06-16T16:23:36Z",
+    "title": "Unintended Effects of Geographic Conditioning in Large Language Models",
+    "summary": "Modern conversational AI systems frequently rely on user metadata to localize responses, yet the unintended regional biases introduced by this hidden context remain poorly understood. In this work, we evaluate location leakage: the phenomenon where a model generates geographic references despite receiving a geographically neutral user prompt. Across both creative writing and open-ended Q&A prompts, even state-of-the-art LLMs systematically favor region-specific outputs when exposed to location metadata, with leakage spiking by up to 793 times above baseline (e.g., from 0.04% to 31.7% for Llama 3.1-8B, and 21.3% and 8.8% for Qwen3-8B and Claude Sonnet 4.6, respectively). Our analysis further shows a novel structural conditioning effect: replacing the injected location with the placeholder \"Unknown\" still elevates leakage by up to 72 times above baseline, demonstrating that the user profile frame itself, independent of any geographic content, acts as a generative conditioning signal.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T16:23:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18124v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

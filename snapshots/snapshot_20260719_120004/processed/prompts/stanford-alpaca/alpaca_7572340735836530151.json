@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7572340735836530151",
+  "technique_name": "Evaluate the following code and identify a bug.",
+  "description": "The bug in the code is that instead of adding two numbers, the code is subtracting the two numbers. The correct code should be: return a + b.",
+  "example": "def add(a, b):\n    return a - b",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

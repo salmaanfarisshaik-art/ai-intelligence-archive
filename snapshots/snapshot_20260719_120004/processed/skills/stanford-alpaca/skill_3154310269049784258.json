@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3154310269049784258",
+  "skill_name": "Create a script which can calculate the total sum of a set of numbers.",
+  "workflow": "sum = 100 \n \n# Calculate the total sum\n \ntotal = 0\n \nfor x in [10, 20, 30, 40]:\n    total += x\n \nprint(total)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

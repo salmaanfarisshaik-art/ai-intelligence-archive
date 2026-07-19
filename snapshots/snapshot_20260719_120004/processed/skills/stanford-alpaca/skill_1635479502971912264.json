@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1635479502971912264",
+  "skill_name": "Write a script that creates an array of 5 elements and sort it in ascending order.",
+  "workflow": "let arr = [5, 2, 4, 1, 3]; \narr.sort(function(a,b) {\nreturn a - b;\n}); \nconsole.log(arr); // Output: [1,2,3,4,5]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

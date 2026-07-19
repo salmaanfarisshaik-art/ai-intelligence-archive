@@ -1,0 +1,7 @@
+{
+  "instruction": "Guide the robot using the following grid.",
+  "input": "Grid:\n\n╔═══╦═══╦═══╗\n║ X ║   ║   ║\n╠═══╬═══╬═══╣ \n║   ║   ║   ║\n╠═══╬═══╬═══╣ \n║   ║   ║ Y ║\n╚═══╩═══╩═══╝",
+  "output": "Move up, move right, move right.",
+  "unique_id": "prompt_guide_the_robot_usin",
+  "schema_version": "1.0"
+}

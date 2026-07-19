@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a set of data, classify clothing items into categories.",
+  "input": "Item\tDescription\n1\tblue jeans\n2\tblack sneakers\n3\tblack bag\n4\twhite shirt",
+  "output": "Item\tDescription\tCategory\n1\tblue jeans\tClothing \n2\tblack sneakers\tShoes\n3\tblack bag\tAccessories\n4\twhite shirt\tClothing",
+  "unique_id": "prompt_given_a_set_of_data",
+  "schema_version": "1.0"
+}

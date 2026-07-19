@@ -1,0 +1,25 @@
+{
+  "_id": "6742ad7ef6646c6a4ef06cb2",
+  "id": "allenai/olmo-mix-1124",
+  "author": "allenai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-08-19T18:45:37.000Z",
+  "likes": 88,
+  "private": false,
+  "sha": "99ee6aaace88779d1ef099d36251b91101c1679b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tOLMo 2 (November 2024) Pretraining set\n\t\n\nCollection of data used to train OLMo-2-1124 models. The majority of this dataset comes from DCLM-Baseline with no additional filtering, but we provide the explicit breakdowns below.\n\n\t\n\t\t\nName\nTokens\nBytes (uncompressed)\nDocuments\nLicense\n\n\n\t\t\nDCLM-Baseline\n3.70T\n21.3TB\n2.95B\nCC-BY-4.0\n\n\nArxiv\n20.8B\n77.2GB\n3.95M\nODC-BY\n\n\npes2o\n58.6B\n412GB\n38M\nODC-BY\n\n\nstarcoder\n83.0B\n458GB\n78.7M\nODC-BY\n\n\nAlgebraic-stack\n11.8B\n44.0GB\n2.83M\nODC-BY… See the full description on the dataset page: https://huggingface.co/datasets/allenai/olmo-mix-1124.",
+  "downloads": 31024,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:odc-by",
+    "size_categories:100M<n<1B",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2024-11-24T04:37:18.000Z",
+  "key": "",
+  "unique_id": "dataset_allenai_olmo_mix_1124",
+  "schema_version": "1.0"
+}

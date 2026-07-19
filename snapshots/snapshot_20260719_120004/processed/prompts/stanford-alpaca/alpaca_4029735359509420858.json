@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4029735359509420858",
+  "technique_name": "Write a function to convert a given hexadecimal number to its decimal equivalent.",
+  "description": "def hex_to_decimal(num):\n    decimal = 0\n    for i in range(len(num)):\n        if num[i] == 'A':\n            decimal += 10 * (16 ** (len(num)-i-1))\n        elif num[i] == 'B':\n            decimal += 11 * (16 ** (len(num)-i-1))\n        elif num[i] == 'C':\n            decimal += 12 * (16 ** (len(num)-i-1))\n        elif num[i] == 'D':\n            decimal += 13 * (16 ** (len(num)-i-1))\n        elif num[i] == 'E':\n            decimal += 14 * (16 ** (len(num)-i-1))\n        elif num[i] == 'F':\n        ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7582993104678631210",
+  "skill_name": "Create a loop that prints the given list.",
+  "workflow": "let fruits = ['apple', 'orange', 'bananas', 'grapes']\n\nfor (let i=0; i<fruits.length; i++){\n    console.log(fruits[i]); \n}\n\n// Output: \n// apple\n// orange\n// bananas\n// grapes",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "695e2d480b37cee7a7bcae78",
+  "id": "Saberlve/bridgev2",
+  "author": "Saberlve",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-01-07T09:54:20.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "149aeb7bc4ee15887e79084522788e76ead2cbf3",
+  "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"WidowX\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1999410,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/Saberlve/bridgev2.",
+  "downloads": 86139,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "region:us",
+    "LeRobot",
+    "openx",
+    "bridgev2"
+  ],
+  "createdAt": "2026-01-07T09:54:16.000Z",
+  "key": "",
+  "unique_id": "dataset_saberlve_bridgev2",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5318165385358674823",
+  "skill_name": "Create a Python program that prints all the prime numbers in the given range.",
+  "workflow": "# Program to print all prime numbers in the given range \nstart = 5\nend = 15\n  \nfor i in range(start, end + 1): \n    for j in range(2, i): \n        if (i % j) == 0: \n            break\n    else: \n        print(i) \n\n# Output:\n5\n7\n11\n13",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

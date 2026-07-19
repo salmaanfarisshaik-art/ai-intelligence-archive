@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8166900656332093987",
+  "skill_name": "Create a script to store customer data.",
+  "workflow": "# script to create a database and store customer data\n\n# import necessary packages\nimport sqlite3\n\n# create a database connection\ndb_connection = sqlite3.connect('customer_data.db')\n\n# create a cursor object\ncursor_obj = db_connection.cursor()\n\n# create a customer table\ncursor_obj.execute(\"\"\"\nCREATE TABLE customer (\n    first_name text,\n    last_name text,\n    phone_number text,\n    email_address text\n)\n\"\"\")\n\n# insert data into table\ncursor_obj.execute(\"INSERT INTO customer VALUES ('John', 'Smit",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

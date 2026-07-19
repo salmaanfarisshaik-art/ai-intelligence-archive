@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify the purpose of the given function and rewrite it in a simpler form.",
+  "input": "function greetUser(name) {\n    alert(`Hello, ${name || 'there'}!`);\n  }",
+  "output": "The purpose of this function is to greet the user by displaying an alert with a personalized message. This can be rewritten as: \n\nfunction greetUser(name) {\n    if (name) {\n        alert(`Hello, ${name}!`)\n    } else { \n        alert('Hello, there!')\n    }\n}",
+  "unique_id": "prompt_identify_the_purpose",
+  "schema_version": "1.0"
+}

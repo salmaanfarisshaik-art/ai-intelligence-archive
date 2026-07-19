@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-782133049407913478",
+  "skill_name": "Design an algorithm to identify a palindrome",
+  "workflow": "This algorithm utilizes a stack in order to identify a palindrome. First, the input string is pushed onto a stack. Then, each character is popped from the stack and appended to a new string. Finally, the original string and the reverse string are compared. If the strings are identical, the initial string is a palindrome.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a phone number validator.",
+  "input": "",
+  "output": "def valid_phonenumber(number):\n    if len(number) == 10 and number.isdigit():\n        return True\n    else:\n        return False\n    \nif __name__ == '__main__':\n    number = input('Enter a phone number: ')\n    if valid_phonenumber(number):\n        print('The phone number is valid.')\n    else:\n        print('The phone number is not valid.')",
+  "unique_id": "prompt_create_a_phone_numbe",
+  "schema_version": "1.0"
+}

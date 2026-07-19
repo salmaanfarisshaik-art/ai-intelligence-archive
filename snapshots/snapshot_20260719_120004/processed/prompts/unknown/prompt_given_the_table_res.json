@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the table ‘reservation’, find the number of records with a ‘booking_date’ between 2021-02-23 and 2021-02-25",
+  "input": "Table: Reservation",
+  "output": "SELECT COUNT(*) FROM reservation WHERE booking_date BETWEEN '2021-02-23' and '2021-02-25'",
+  "unique_id": "prompt_given_the_table_res",
+  "schema_version": "1.0"
+}

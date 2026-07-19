@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18191v1",
+  "schema_version": "1.0",
+  "name": "DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18191v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18191v1",
+    "updated": "2026-06-16T17:22:07Z",
+    "published": "2026-06-16T17:22:07Z",
+    "title": "DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction",
+    "summary": "Deep research (DR) systems are increasingly used for complex information-seeking tasks, but existing works mainly focus on generating reports and summaries. In contrast, many enterprise tasks instead require an agent to identify concrete workflows which is a sequence of action-steps. For example, rather than summarizing budgeting policies, an agent should be able to determine the steps needed to answer a question such as: \"How do I request new headcount given a fixed budget?\". Therefore, we introduce DRFLOW, a benchmark for evaluating personalized workflows predicted by agents from heterogeneous sources. Each task requires the agent to identify relevant evidence from scattered sources, then use that evidence to predict the correct action-step sequence for the user's task. DRFLOW contains 100 tasks across five domains, with 1,246 reference workflow steps grounded in more than 3,900 sources. We define seven diagnostic metrics covering factual grounding, step recovery, structural ordering, condition resolution, and personalization. We further present DRFLOW-Agent (DRFA), a workflow-oriented reference agent to predict personalized workflow. We show that although DRFA improves over strong baseline agents (upto 10.02% average F1 score), there is substantial room for improvement remains across these workflow metrics, indicating that predicting complete and correct personalized workflows remains a challenging frontier for deep research.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:22:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18191v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

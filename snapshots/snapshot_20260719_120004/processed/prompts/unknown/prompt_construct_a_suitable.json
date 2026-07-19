@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a suitable python program to calculate the factorial of a number",
+  "input": "num = 4",
+  "output": "def factorial(num):\n    fact = 1\n    \n    for i in range (1, num+1):\n        fact = fact * i\n    \n    return fact\n\nprint(\"The factorial of\", num, \"is\", factorial(num))",
+  "unique_id": "prompt_construct_a_suitable",
+  "schema_version": "1.0"
+}

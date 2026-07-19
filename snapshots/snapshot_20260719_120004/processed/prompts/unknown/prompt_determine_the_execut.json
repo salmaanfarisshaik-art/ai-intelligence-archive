@@ -1,0 +1,7 @@
+{
+  "instruction": "Determine the execution path for the following code:",
+  "input": "if (x > 10)\n    print(x);\nelse\n    print (y);",
+  "output": "If x is greater than 10, the execution path will print x. If it is not, the execution path will print y.",
+  "unique_id": "prompt_determine_the_execut",
+  "schema_version": "1.0"
+}

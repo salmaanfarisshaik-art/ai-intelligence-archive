@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7562539896982447577",
+  "technique_name": "Write a Python function to sort a two-dimensional array based on a given column index",
+  "description": "def sortByColIndex(arr, col_index): \n  \n    arr.sort(key=lambda x : x[col_index]) \n    return arr \n\nsortedArray = sortByColIndex(arr, 2) \nprint(sortedArray) \n\nOutput:\n[[3, 2, 1], [6, 5, 4], [9, 8, 7]]",
+  "example": "Array = [[1,2,3], [4,5,6], [7,8,9]]\nColumn index = 2",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

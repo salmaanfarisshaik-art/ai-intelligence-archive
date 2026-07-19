@@ -1,0 +1,22 @@
+{
+  "_id": "642912f7a760fe0bf37996b1",
+  "id": "anon8231489123/ShareGPT_Vicuna_unfiltered",
+  "author": "anon8231489123",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-04-12T05:23:59.000Z",
+  "likes": 899,
+  "private": false,
+  "sha": "192ab2185289094fc556ec8ce5ce1e8e587154ca",
+  "description": "Further cleaning done. Please look through the dataset and ensure that I didn't miss anything.\nUpdate: Confirmed working method for training the model: https://huggingface.co/AlekseyKorshuk/vicuna-7b/discussions/4#64346c08ef6d5abefe42c12c\nTwo choices:\n\nRemoves instances of \"I'm sorry, but\": https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered/blob/main/ShareGPT_V3_unfiltered_cleaned_split_no_imsorry.json\nHas instances of \"I'm sorry, but\":… See the full description on the dataset page: https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered.",
+  "downloads": 291721,
+  "tags": [
+    "language:en",
+    "license:apache-2.0",
+    "region:us"
+  ],
+  "createdAt": "2023-04-02T05:30:31.000Z",
+  "key": "",
+  "unique_id": "dataset_anon8231489123_sharegpt_vicuna_unfiltered",
+  "schema_version": "1.0"
+}

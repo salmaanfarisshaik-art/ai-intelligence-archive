@@ -1,0 +1,24 @@
+{
+  "_id": "68ac8036a9c8febf9a26aac5",
+  "id": "Jakumetsu/mcpmark-trajectory-log",
+  "author": "Jakumetsu",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-09-09T12:50:34.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "e50578f0ab904d8e6a7c576c387c1e76ae482c89",
+  "description": "\n\t\n\t\t\n\t\tMCPMark Trajectory Logs (mcpmark-v1-0905)\n\t\n\nThese logs are publicly available for research use. They capture end-to-end trajectories (prompts, tool calls, and outcomes) for MCPMark tasks across multiple MCP services and models.\n\n\t\n\t\t\n\t\tContents\n\t\n\nEach task run produces a trajectory folder containing three files:\n\nmeta.json: Metadata (task id, model, timestamps, status, etc.)\nmessages.json: Turn-by-turn exchanges including model thoughts/tool calls\nexecution.log: Key execution-time… See the full description on the dataset page: https://huggingface.co/datasets/Jakumetsu/mcpmark-trajectory-log.",
+  "downloads": 33593,
+  "tags": [
+    "language:en",
+    "license:mit",
+    "size_categories:10K<n<100K",
+    "region:us",
+    "agent"
+  ],
+  "createdAt": "2025-08-25T15:24:38.000Z",
+  "key": "",
+  "unique_id": "dataset_jakumetsu_mcpmark_trajectory_log",
+  "schema_version": "1.0"
+}

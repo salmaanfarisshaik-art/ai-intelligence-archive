@@ -1,0 +1,7 @@
+{
+  "instruction": "Classify each word in the sentence as a noun, verb, adjective, adverb, or other.",
+  "input": "The lazy cat quickly ran to catch the mouse.",
+  "output": "The - Other \nlazy - Adjective\ncat - Noun\nquickly - Adverb\nran - Verb\nto - Other\ncatch - Verb\nthe - Other \nmouse - Noun",
+  "unique_id": "prompt_classify_each_word_i",
+  "schema_version": "1.0"
+}

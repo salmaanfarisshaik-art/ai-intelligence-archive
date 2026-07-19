@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct the code which outputs the following pattern.",
+  "input": "*\n**\n***\n****",
+  "output": "for i in range(1,5):\n    print('*' * i)",
+  "unique_id": "prompt_construct_the_code_w",
+  "schema_version": "1.0"
+}

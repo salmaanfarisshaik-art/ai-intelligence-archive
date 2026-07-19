@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7819397420203390760",
+  "technique_name": "Write a CSS code to provide an animation on hover.",
+  "description": "The CSS code to provide an animation on hover is:\n\n.element {\n  transition: all 0.5s ease-in-out;\n}\n\n.element:hover {\n  transform: scale3d(1.1, 1.1, 1.1);\n  animation-name: animation-on-hover;\n  animation-duration: 0.3s;\n}\n\n@keyframes animation-on-hover {\n  0% {\n    border-radius: 0px;\n    background-color: blue;\n  }\n  100% {\n    border-radius: 20px;\n    background-color: yellow;\n  }\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

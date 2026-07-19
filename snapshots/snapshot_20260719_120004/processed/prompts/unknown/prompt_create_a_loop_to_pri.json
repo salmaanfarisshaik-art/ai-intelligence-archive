@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a loop to print the odd numbers in the given range",
+  "input": "range: 2 - 8",
+  "output": "for num in range(2, 8):\n    if num % 2 != 0:\n        print(num)",
+  "unique_id": "prompt_create_a_loop_to_pri",
+  "schema_version": "1.0"
+}

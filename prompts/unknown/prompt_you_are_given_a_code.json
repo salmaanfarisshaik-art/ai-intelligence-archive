@@ -1,0 +1,7 @@
+{
+  "instruction": "You are given a code snippet and you need to detect a bug in it.",
+  "input": "mystring = \"Hello World\" \nmystring.strip(\"H\")",
+  "output": "The bug in this code snippet is that the string is not assigned from the result of the strip function. This means that 'mystring' will remain \"Hello World\". The correct code should be mystring = mystring.strip(\"H\").",
+  "unique_id": "prompt_you_are_given_a_code",
+  "schema_version": "1.0"
+}

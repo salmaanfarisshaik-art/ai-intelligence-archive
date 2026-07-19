@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code that matches the following output.",
+  "input": "Input: [5,9,2,7]\nOutput: [2,5,7,9]",
+  "output": "let arr = [5,9,2,7];\narr.sort(function(a,b){return a-b});\nconsole.log(arr); // Output: [2,5,7,9]",
+  "unique_id": "prompt_write_a_code_that_ma",
+  "schema_version": "1.0"
+}

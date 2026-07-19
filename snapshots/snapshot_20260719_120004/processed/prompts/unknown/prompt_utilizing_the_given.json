@@ -1,0 +1,7 @@
+{
+  "instruction": "Utilizing the given input, write a program that counts the number of characters in a string.",
+  "input": "String = \"This is a test string.\"",
+  "output": "string_length = 0\n\nfor char in string:\n    string_length += 1\n\nprint(string_length)",
+  "unique_id": "prompt_utilizing_the_given",
+  "schema_version": "1.0"
+}

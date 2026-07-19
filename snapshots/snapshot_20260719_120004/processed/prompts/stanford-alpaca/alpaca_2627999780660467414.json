@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2627999780660467414",
+  "technique_name": "Write a Python function to print a Fibonacci sequence.",
+  "description": "def printFibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\") \n    elif n == 0: \n        print(a) \n    elif n == 1: \n        print(b) \n    else: \n        print(a)\n        print(b)\n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c \n            print(b)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8495273380163076418",
+  "technique_name": "What are some ways to refactor this code?",
+  "description": "This code can be refactored in a few ways to improve readability and efficiency. One way would be to check to see if all elements in the data array are equal to the corresponding letters. This can be done using the all() method in Python, like so:\n\nreturn all(d == l for d, l in zip(data, [\"A\",\"B\",\"C\"]))\n\nAlso, a ternary operator could be used to simplify the code. The if/else statement could be rewritten as:\n\nreturn True if data[0] == \"A\" and data[1] == \"B\" and data[2] ==\"C\" else False",
+  "example": "def checkData(data):\n    if data[0] == \"A\" and \n        data[1] == \"B\" and \n        data[2] == \"C\":\n        return True\n    else:\n        return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

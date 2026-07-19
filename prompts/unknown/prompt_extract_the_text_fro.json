@@ -1,0 +1,7 @@
+{
+  "instruction": "Extract the text from one paragraph of the following HTML document.",
+  "input": "<html>\n    <head>\n        <title>Sample HTML page</title>\n    </head>\n    <body>\n        <h1>Title of the page</h1>\n        <p>This is a sample paragraph of text.</p>\n        <ul>\n            <li>List item 1</li>\n            <li>List item 2</li>\n        </ul>\n    </body>\n</html>",
+  "output": "This is a sample paragraph of text.",
+  "unique_id": "prompt_extract_the_text_fro",
+  "schema_version": "1.0"
+}

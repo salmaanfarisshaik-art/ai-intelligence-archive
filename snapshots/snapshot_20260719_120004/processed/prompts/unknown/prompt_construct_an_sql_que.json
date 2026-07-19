@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct an SQL query to order customers by their first and last name.",
+  "input": "",
+  "output": "SELECT * FROM customers ORDER BY first_name, last_name",
+  "unique_id": "prompt_construct_an_sql_que",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain the implementation details of quicksort",
+  "input": "",
+  "output": "Quicksort is an efficient sorting algorithm that sorts an array by taking the middle element of the array and comparing it to the elements on either side of it. If the elements on the left are greater than the pivot element, they are swapped to the right of the pivot. The same is done with the elements on the right, and a recursive call is made to sort the elements to the left and to the right. The process is repeated until the array is sorted.",
+  "unique_id": "prompt_explain_the_implemen",
+  "schema_version": "1.0"
+}

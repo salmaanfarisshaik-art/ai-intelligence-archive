@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4448110479812394095",
+  "technique_name": "Design an algorithm to find the most frequent words in a sentence.",
+  "description": "The algorithm should first tokenize the sentence given into individual words. After splitting the sentence, the algorithm can then use a frequency counter to keep track of how many times each word occurs. Once the counter has been created, the algorithm can then sort the counter array by the highest frequency word, and return the most frequently used word.\n\ndef most_frequent_words(sentence):\n    words = sentence.split()\n    word_freqs = {}\n    \n    # Create a counter to keep track of word freque",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Edit the code to check if the username is longer than 8",
+  "input": "if len(username) <= 8:\n    print(\"Username too short\")",
+  "output": "if len(username) <= 8:\n    print(\"Username too short\")\nelse:\n    print(\"Username is valid\")",
+  "unique_id": "prompt_edit_the_code_to_che",
+  "schema_version": "1.0"
+}

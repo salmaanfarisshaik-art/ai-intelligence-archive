@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3000802893126186176",
+  "skill_name": "Give an example of a context-free grammar.",
+  "workflow": "A simple example of a context-free grammar is the following: \n\nS → A B\nA → C\nB → D | E\nC → F\nD → G\nE → G\nF → a\nG → b\n\nThis grammar has one start symbol (S), three non-terminal symbols (A, B and C) and two terminal symbols (a and b). It has two production rules: S → A B, and C → F. This grammar generates strings of symbols of the form a b b.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

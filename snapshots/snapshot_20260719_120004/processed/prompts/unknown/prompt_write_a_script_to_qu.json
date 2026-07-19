@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a script to query a database.",
+  "input": "Database Information: Database containing user information",
+  "output": "SELECT * FROM Users \nWHERE age > 18\nAND country = 'US'",
+  "unique_id": "prompt_write_a_script_to_qu",
+  "schema_version": "1.0"
+}

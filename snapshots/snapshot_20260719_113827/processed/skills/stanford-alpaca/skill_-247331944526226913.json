@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-247331944526226913",
+  "skill_name": "Write a Python program to fetch the top 5 headlines from a given news page.",
+  "workflow": "import requests\nfrom bs4 import BeautifulSoup\n\n# Specify the URL\nurl = 'https://www.nytimes.com/'\n\n# Make the request\nresponse = requests.get(url)\n\n# Parse the html content\nsoup = BeautifulSoup(response.content, 'html.parser')\n\n# Find all headlines\nheadlines = soup.find_all('h2', class_='esl82me0')\n\n# Print the top 5 headlines\nprint('Top 5 Headlines from The New York Times:')\nfor head in headlines[:5]:\n    print(head.text)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

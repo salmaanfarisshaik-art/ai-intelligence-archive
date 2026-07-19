@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7006226311803582653",
+  "technique_name": "Design an algorithm to solve the Eight Queens puzzle",
+  "description": "A potential algorithm for solving the Eight Queens puzzle is the backtracking algorithm. This algorithm uses a recursive approach to systematically check all possible solutions until a valid one is found. It begins by placing a Queen in the first row and then proceeds through each of the remaining rows, one by one. For each row, the algorithm checks the columns to find a spot where the Queen can be placed without being in conflict with the previously placed Queens. If no valid position can be fo",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

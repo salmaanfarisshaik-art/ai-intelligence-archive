@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2408960547420174069",
+  "technique_name": "Create a database to store the user data given below.",
+  "description": "The following database can be created to store user data: \nTable name: users\nFields: username (string), password (encrypted string), email (string), phone number (string).",
+  "example": "Username\nPassword\nEmail\nPhone number",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

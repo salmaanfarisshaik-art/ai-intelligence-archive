@@ -1,0 +1,7 @@
+{
+  "instruction": "What will happen if this code reaches the breakpoint?",
+  "input": "```\nfor i in range(10):\n  if i == 5:\n    break\n  print(i)\n```",
+  "output": "The loop will terminate at 5 and the number 0, 1, 2, 3, 4 will be printed.",
+  "unique_id": "prompt_what_will_happen_if",
+  "schema_version": "1.0"
+}

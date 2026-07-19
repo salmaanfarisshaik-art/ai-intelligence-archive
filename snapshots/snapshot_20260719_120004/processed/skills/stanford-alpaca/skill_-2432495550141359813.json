@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2432495550141359813",
+  "skill_name": "Design an algorithm that converts a temperature from Celsius to Fahrenheit.",
+  "workflow": "def celsius_to_fahrenheit(c):\n    f = c * (9/5) + 32\n    return round(f, 2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

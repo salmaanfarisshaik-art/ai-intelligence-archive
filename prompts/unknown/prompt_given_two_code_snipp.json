@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two code snippets, identify which lines of code produce errors.",
+  "input": "Snippet 1:\nx = 10\ny = 20\nresult = x * y\n\nSnippet 2: \nx = 10\ny = “hello”\nresult = x * y",
+  "output": "The line of code `result = x * y` in Snippet 2 produces an error because the variables `x` and `y` have incompatible types.",
+  "unique_id": "prompt_given_two_code_snipp",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2106166223682695419",
+  "technique_name": "Construct an algorithm to solve the given problem.",
+  "description": "Algorithm:\n1. Initialize Sum as 0.\n2. Set a variable i to 0.\n3. While i is less than or equal to 100, do the following: \n  a. If i is divisible by 5 or 3, add the value of i to Sum.\n  b. Increment i by 1.\n4. Return the value of Sum.",
+  "example": "Problem: Calculate the sum of all multiples of 3 and 5 between 1 and 100",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

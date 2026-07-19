@@ -1,0 +1,7 @@
+{
+  "instruction": "Using the provided condition, construct a query in SQL.",
+  "input": "SELECT column FROM table WHERE condition = true",
+  "output": "SELECT column FROM table WHERE condition = true AND gender = 'male'",
+  "unique_id": "prompt_using_the_provided_c",
+  "schema_version": "1.0"
+}

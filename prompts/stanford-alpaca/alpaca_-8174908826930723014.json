@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8174908826930723014",
+  "technique_name": "Write a function to print out the first letter of each word in a sentence",
+  "description": "def first_letter(sentence):\n   words = sentence.split(\" \") \n   for word in words:\n      print(word[0], end=\"\")\n   print()\n\nfirst_letter(\"Welcome to the world.\")\n\n# Output\nWttw.",
+  "example": "Welcome to the world.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

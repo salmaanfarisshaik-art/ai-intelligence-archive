@@ -1,0 +1,31 @@
+{
+  "_id": "67511c0b9c31de7f912002f9",
+  "id": "Maxwell-Jia/AIME_2024",
+  "author": "Maxwell-Jia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-02-18T06:39:19.000Z",
+  "likes": 85,
+  "private": false,
+  "sha": "8d88b2876a82a080e2f172cc9b25d0d9d2cb4792",
+  "description": "\n\t\n\t\t\n\t\tAIME 2024 Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset contains problems from the American Invitational Mathematics Examination (AIME) 2024. AIME is a prestigious high school mathematics competition known for its challenging mathematical problems.\n\n\t\n\t\t\n\t\tDataset Details\n\t\n\n\nFormat: JSONL\nSize: 30 records\nSource: AIME 2024 I & II\nLanguage: English\n\n\n\t\n\t\t\n\t\tData Fields\n\t\n\nEach record contains the following fields:\n\nID: Problem identifier (e.g., \"2024-I-1\" represents Problem 1… See the full description on the dataset page: https://huggingface.co/datasets/Maxwell-Jia/AIME_2024.",
+  "downloads": 26112,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:mit",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "explanation-generation"
+  ],
+  "createdAt": "2024-12-05T03:20:43.000Z",
+  "key": "",
+  "unique_id": "dataset_maxwell_jia_aime_2024",
+  "schema_version": "1.0"
+}

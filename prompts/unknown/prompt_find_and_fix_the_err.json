@@ -1,0 +1,7 @@
+{
+  "instruction": "Find and fix the error in the following code.",
+  "input": "```python\ndef myFunc(x):\n    if (x == 0 {\n        return 0\n    } else {\n        return x * 2\n    }\n```",
+  "output": "```python\ndef myFunc(x):\n    if (x == 0):\n        return 0\n    else:\n        return x * 2\n```",
+  "unique_id": "prompt_find_and_fix_the_err",
+  "schema_version": "1.0"
+}

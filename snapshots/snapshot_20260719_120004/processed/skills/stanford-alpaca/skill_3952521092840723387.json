@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3952521092840723387",
+  "skill_name": "Construct a database table that stores user profiles.",
+  "workflow": "CREATE TABLE users(\n    id INT NOT NULL AUTO_INCREMENT,\n    name VARCHAR(255) NOT NULL,\n    email VARCHAR(255) NOT NULL,\n    age INT NOT NULL,\n    gender VARCHAR(255) NULL,\n    country VARCHAR(255) NULL,\n    phone_number VARCHAR(20) NULL,\n    PRIMARY KEY (id)\n);",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

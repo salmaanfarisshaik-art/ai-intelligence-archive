@@ -1,0 +1,7 @@
+{
+  "instruction": "Perform some operations on the given 2D matrix.",
+  "input": "A matrix of 3 by 3.",
+  "output": "The operations to be performed on the 2D matrix would depend on the type of operation. If the operation involves finding the sum of each column, the steps would be as follows: \n1. Initialize a variable to hold the sum (eg. sum = 0).\n2. Iterate through each row of the matrix.\n3. For each row, iterate through each element of the row and add it to the sum variable initialized in step 1.\n4. Once all elements of the row are added, record the sum and reset the variable to 0.\n5. Repeat for each row.\n6. The final result should be an array containing the sum of each column.",
+  "unique_id": "prompt_perform_some_operati",
+  "schema_version": "1.0"
+}

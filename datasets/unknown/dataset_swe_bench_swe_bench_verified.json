@@ -1,0 +1,29 @@
+{
+  "_id": "681139b8ff0764f384f0b38e",
+  "id": "SWE-bench/SWE-bench_Verified",
+  "author": "SWE-bench",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-02-27T20:36:38.000Z",
+  "likes": 109,
+  "private": false,
+  "sha": "91aa3ed51b709be6457e12d00300a6a596d4c6a3",
+  "description": "Dataset Summary\nSWE-bench Verified is a subset of 500 samples from the SWE-bench test set, which have been human-validated for quality. SWE-bench is a dataset that tests systems’ ability to solve GitHub issues automatically. See this post for more details on the human-validation process.\nThe dataset collects 500 test Issue-Pull Request pairs from popular Python repositories. Evaluation is performed by unit test verification using post-PR behavior as the reference solution.\nThe original… See the full description on the dataset page: https://huggingface.co/datasets/SWE-bench/SWE-bench_Verified.",
+  "downloads": 71512,
+  "tags": [
+    "benchmark:official",
+    "benchmark:eval-yaml",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-04-29T20:42:32.000Z",
+  "key": "",
+  "unique_id": "dataset_swe_bench_swe_bench_verified",
+  "schema_version": "1.0"
+}

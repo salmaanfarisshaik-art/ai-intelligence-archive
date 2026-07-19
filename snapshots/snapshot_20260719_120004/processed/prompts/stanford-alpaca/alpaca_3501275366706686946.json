@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3501275366706686946",
+  "technique_name": "Given a data set, calculate the standard deviation",
+  "description": "SELECT column1,column2,column3,STDDEV(column1),STDDEV(column2),STDDEV(column3) FROM mytable;",
+  "example": "SELECT column1, column2, column3 FROM mytable;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

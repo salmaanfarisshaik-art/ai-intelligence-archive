@@ -1,0 +1,30 @@
+{
+  "_id": "64b1e9d30a54158d66e9f03c",
+  "id": "AlgorithmicResearchGroup/arxiv_s2orc_parsed",
+  "author": "AlgorithmicResearchGroup",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-09-04T06:50:23.000Z",
+  "likes": 28,
+  "private": false,
+  "sha": "7cb654ce000f0e31108f4bf4281cf3770f06bdbd",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"ArtifactAI/arxiv_s2orc_parsed\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nhttps://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_s2orc_parsed\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nAlgorithmicResearchGroup/arxiv_s2orc_parsed is a subset of the AllenAI S2ORC dataset, a general-purpose corpus for NLP and text mining research over scientific papers, \nThe dataset is filtered strictly for ArXiv papers, including the full text for each paper. Github links have been extracted… See the full description on the dataset page: https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_s2orc_parsed.",
+  "downloads": 26502,
+  "tags": [
+    "task_categories:text-generation",
+    "task_categories:zero-shot-classification",
+    "language:en",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2023-07-15T00:35:31.000Z",
+  "key": "",
+  "unique_id": "dataset_algorithmicresearchgroup_arxiv_s2orc_parsed",
+  "schema_version": "1.0"
+}

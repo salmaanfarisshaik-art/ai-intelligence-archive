@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8829384959919122819",
+  "technique_name": "Write a Java program to print all permutations of an array.",
+  "description": "import java.util.Arrays; \n\npublic class Permutations { \n\tpublic static void main (String[] args) {\n\t\tint[] arr = {1, 2, 3}; \n\t\tpermute(arr, 0); \n\t} \n\n\tpublic static void permute(int[] arr, int index){ \n\t\tif (index >= arr.length - 1){ \n\t\t\tSystem.out.println(Arrays.toString(arr)); \n\t\t} \n\n\t\tfor (int i = index; i < arr.length; i++){ \n\t\t\tswap(arr, index, i); \n\t\t\tpermute(arr, index + 1); \n\t\t\tswap(arr, index, i); \n\t\t} \n\t} \n\n\tpublic static void swap(int[] arr, int i, int j){ \n\t\tint temp = arr[i]; \n\t\tarr",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query that can be used to find data about a specific topic.",
+  "input": "",
+  "output": "SELECT * FROM TableName WHERE TopicName LIKE '%Specific_Topic%';",
+  "unique_id": "prompt_write_a_query_that_c",
+  "schema_version": "1.0"
+}

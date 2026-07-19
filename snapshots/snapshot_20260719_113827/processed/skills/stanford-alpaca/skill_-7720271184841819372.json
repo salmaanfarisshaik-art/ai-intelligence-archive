@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7720271184841819372",
+  "skill_name": "Construct a function that takes an array and its length as arguments, and returns the sum of the array's elements.",
+  "workflow": "int sumArray(int arr[], int n) { \n    int sum = 0; \n    for (int i = 0; i < n; i++) \n        sum += arr[i]; \n    return sum; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

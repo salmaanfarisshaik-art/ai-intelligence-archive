@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6310317328303661273",
+  "skill_name": "Generate a function to search for an element in a list.",
+  "workflow": "def search_x(x, y):\n    for i in range(y):\n        if i == x:\n            return True\n    return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

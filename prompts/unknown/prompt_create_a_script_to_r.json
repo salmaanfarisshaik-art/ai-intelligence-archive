@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a script to remove all vowels from a string",
+  "input": "",
+  "output": "\"\"\"\nRemove all vowels from a string\n\"\"\"\n\ndef remove_vowels(string):\n    vowels = set(['a', 'e', 'i', 'o', 'u'])\n    result = ''\n    for char in string:\n        if char not in vowels:\n            result += char\n    return result\n    \nif __name__ == '__main__':\n    print(remove_vowels('hello world'))",
+  "unique_id": "prompt_create_a_script_to_r",
+  "schema_version": "1.0"
+}

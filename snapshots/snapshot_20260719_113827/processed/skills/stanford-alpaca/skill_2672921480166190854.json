@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2672921480166190854",
+  "skill_name": "Construct an algorithm that finds all prime numbers up to a given upper limit.",
+  "workflow": "Step 1: Set a counter equal to 2 (the first prime number).\nStep 2: Check if the number is divisible by any other number between 2 and the counter (inclusively).\nStep 3: If not, print out the number as it is a prime number.\nStep 4: Increment the counter by 1 and go back to Step 2.\nStep 5: When the counter reaches the upper limit (20), then stop the algorithm. Output: 2, 3, 5, 7, 11, 13, 17, 19.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

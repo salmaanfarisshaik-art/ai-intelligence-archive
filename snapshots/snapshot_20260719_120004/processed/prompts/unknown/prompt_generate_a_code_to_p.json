@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a code to print the elements of an array in reverse order",
+  "input": "",
+  "output": "for (i = arraysize-1; i >= 0; i--)  \n{ \n    printf(\"%d \", array[i]); \n}",
+  "unique_id": "prompt_generate_a_code_to_p",
+  "schema_version": "1.0"
+}

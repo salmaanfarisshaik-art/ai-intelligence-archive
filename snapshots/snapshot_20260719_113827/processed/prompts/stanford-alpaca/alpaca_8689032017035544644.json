@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8689032017035544644",
+  "technique_name": "Create a Spark SQL query to filter data from the table below.",
+  "description": "SELECT Employee_number, Employee_name, department, Average_rating \nFROM Employee \nWHERE Department = 'HR';",
+  "example": "Table: Employee\nColumns: Employee_number, Employee_name, Department,  Average_rating\n\nFilter: Department = 'HR'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9033427659601966705",
+  "skill_name": "Design an algorithm for converting text data into numerical data.",
+  "workflow": "An algorithm for converting text data into numerical data can be created using feature engineering. First, the text data is categorized into a set of distinct values or labels. The labels are then divided into two segments: categorical and numerical. Categorical labels are converted into numerical values using one-hot encoding or frequency encoding. Numerical labels are then normalized using techniques such as min-max normalization or z-score normalization. Finally, numerical values are calculat",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

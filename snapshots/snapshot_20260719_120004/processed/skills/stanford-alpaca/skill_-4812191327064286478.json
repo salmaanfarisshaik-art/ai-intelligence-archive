@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4812191327064286478",
+  "skill_name": "Given a list of numbers, 1-10, write a program to determine the sum of the odd numbers.",
+  "workflow": "list_of_numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]\n\n# Initialize the variable which stores the sum\nsum_of_odd_numbers = 0\n\n# Iterate through the list\nfor num in list_of_numbers: \n    # Check for odd numbers\n    if num % 2 != 0: \n        # Add odd numbers to the variable\n        sum_of_odd_numbers += num\n\n# Print the sum of odd numbers\nprint(sum_of_odd_numbers)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

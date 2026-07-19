@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.04219v5",
+  "schema_version": "1.0",
+  "name": "Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.04219v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.04219v5",
+    "updated": "2026-06-17T16:48:46Z",
+    "published": "2025-07-06T03:08:49Z",
+    "title": "Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs",
+    "summary": "Current unlearning methods for LLMs optimize on the private information they seek to remove by incorporating it into their fine-tuning data. We argue this not only risks reinforcing exposure to sensitive data, but also fundamentally contradicts the principle of minimizing its use. As a remedy, we propose a novel unlearning method-Partial Model Collapse (PMC), which does not require unlearning targets in the unlearning objective. Our approach is inspired by recent observations that training generative models on their own generations leads to distribution collapse, effectively removing information from model outputs. Our central insight is that model collapse can be leveraged for machine unlearning by deliberately triggering it for data we aim to remove. We theoretically analyze that our approach converges to the desired outcome, i.e. the model unlearns the data targeted for removal. We empirically demonstrate that PMC overcomes four key limitations of existing unlearning methods that explicitly optimize on unlearning targets, and more effectively removes private information from model outputs while preserving general model utility. Overall, our contributions represent an important step toward more comprehensive unlearning that better aligns with real-world privacy constraints. Code available at https://www.cs.cit.tum.de/daml/partial-model-collapse/.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:48:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.04219v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

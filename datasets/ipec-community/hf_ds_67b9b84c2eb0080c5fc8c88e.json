@@ -1,0 +1,47 @@
+{
+  "unique_id": "hf_ds_67b9b84c2eb0080c5fc8c88e",
+  "schema_version": "1.0",
+  "name": "IPEC-COMMUNITY/bridge_orig_lerobot",
+  "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"widowx\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1893026,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot.",
+  "size": "752298",
+  "source_url": "https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "67b9b84c2eb0080c5fc8c88e",
+    "id": "IPEC-COMMUNITY/bridge_orig_lerobot",
+    "author": "IPEC-COMMUNITY",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-02-23T06:25:52.000Z",
+    "likes": 23,
+    "private": false,
+    "sha": "0e9d76d07e9df3ea3eba257b2520d4913833fad2",
+    "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"widowx\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1893026,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot.",
+    "downloads": 752298,
+    "tags": [
+      "task_categories:robotics",
+      "license:apache-2.0",
+      "modality:video",
+      "region:us",
+      "LeRobot",
+      "bridge_orig",
+      "rlds",
+      "openx",
+      "widowx"
+    ],
+    "createdAt": "2025-02-22T11:43:08.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2025-02-23T06:25:52.000Z",
+  "links": {
+    "related_models": [
+      "datasets/IPEC-COMMUNITY"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

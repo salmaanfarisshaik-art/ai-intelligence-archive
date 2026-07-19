@@ -1,0 +1,7 @@
+{
+  "instruction": "Describe strategy for converting the RGB colorspace to the CMYK colorspace.",
+  "input": "",
+  "output": "The strategy for converting RGB colorspace to CMYK colorspace is to first convert the RGB values to their respective CMY values, then calculate a black (K) value based on the lowest CMY value and combine that value with the CMY values to complete the conversion.",
+  "unique_id": "prompt_describe_strategy_fo",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1523786629844668379",
+  "skill_name": "Generate a code snippet for automating a task.",
+  "workflow": "import smtplib\n\n# Establish a secure session with gmail's outgoing SMTP server \n# using your gmail account\nserver = smtplib.SMTP(\"smtp.gmail.com\", 587)\nserver.starttls()\nserver.login('my_gmail_address@gmail.com', 'my_password')\n\n# Send text message through SMS gateway of destination number\ndef send_sms(number, message):\n    server.sendmail(\n      'my_gmail_address@gmail.com',\n      number,\n      message\n    )\n\ndef send_emails():\n    # Set destination numbers\n    numbers = ['1111111111']\n      \n ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

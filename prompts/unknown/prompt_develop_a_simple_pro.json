@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop a simple program in any programming language which takes two numbers as an input and outputs the largest of them.",
+  "input": "Number 1 = 30\nNumber 2 = 50",
+  "output": "# Python program to find the largest of two numbers \n\nnum1 = 30\nnum2 = 50 \n\n# conditional operator \nif (num1 > num2): \n\tprint(num1, \"is maximum\") \nelse: \n\tprint(num2, \"is maximum\")",
+  "unique_id": "prompt_develop_a_simple_pro",
+  "schema_version": "1.0"
+}

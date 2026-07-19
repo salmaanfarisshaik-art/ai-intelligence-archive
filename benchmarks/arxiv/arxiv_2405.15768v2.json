@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2405.15768v2",
+  "schema_version": "1.0",
+  "name": "Canonical Variates in Wasserstein Metric Space",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2405.15768v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2405.15768v2",
+    "updated": "2026-06-15T17:57:43Z",
+    "published": "2024-05-24T17:59:21Z",
+    "title": "Canonical Variates in Wasserstein Metric Space",
+    "summary": "In this paper, we address the classification of instances represented by distributions on a vector space rather than single points. We consider classification algorithms based on pairwise distances, specifically, the Wasserstein metric between distributions. Central to our investigation is dimension reduction within the Wasserstein metric space to enhance classification accuracy. We introduce a novel approach grounded in the principle of maximizing Fisher's ratio, defined as the quotient of between-class variation to within-class variation. The directions in which this ratio is maximized are termed discriminant coordinates or canonical variates axes. In practice, both between-class and within-class variations are defined as the average squared Wasserstein distances between pairs of distributions, with the pairs either belonging to the same class or to different classes. This ratio optimization is achieved through an iterative algorithm, which alternates between optimal transport and maximization steps within the vector space. Empirical studies are conducted to assess the algorithm's convergence; and experimental results demonstrate that the dimension reduction technique substantially enhances classification performance. Moreover, the new method outperforms well-established algorithms that operate on vector representations derived from distributional data. It also exhibits robustness to variations in how instances are summarized by distributions, such as the number of components in a Gaussian mixture model (GMM) representation.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T17:57:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2405.15768v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

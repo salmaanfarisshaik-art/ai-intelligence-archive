@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5554404843571635128",
+  "technique_name": "Generate a Python script to parse the given list.",
+  "description": "def parse_list(lst): \n    result = [] \n    for element in lst: \n        if type(element) is list: \n            result.extend(element) \n        else: \n            result.append(element) \n    return result \n\nresult = parse_list(list) \nprint(result)",
+  "example": "list = [[5, 10], [2, 3, 4], [50]]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

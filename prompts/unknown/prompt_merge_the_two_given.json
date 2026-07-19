@@ -1,0 +1,7 @@
+{
+  "instruction": "Merge the two given code snippets by replacing the word \\_MERGE\\_.",
+  "input": "Code snippet 1:\ndef hello_world():\n    print('Hello, World!')\n\nCode snippet 2:\nif __name__ == '__main__':\n    _MERGE_",
+  "output": "def hello_world():\n    print('Hello, World!')\n\nif __name__ == '__main__':\n    hello_world()",
+  "unique_id": "prompt_merge_the_two_given",
+  "schema_version": "1.0"
+}

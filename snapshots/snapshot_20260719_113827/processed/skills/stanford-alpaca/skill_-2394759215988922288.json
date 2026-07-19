@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2394759215988922288",
+  "skill_name": "Create a Python function which reverses the characters in a string.",
+  "workflow": "def reverse(string): \n  str = \"\" \n  for i in string: \n    str = i + str\n  return str\n  \nprint(reverse(\"Hello World\"))\n\n# Output: dlroW olleH",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

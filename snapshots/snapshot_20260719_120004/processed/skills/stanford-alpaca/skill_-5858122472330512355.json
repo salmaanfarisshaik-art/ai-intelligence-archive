@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5858122472330512355",
+  "skill_name": "Design an algorithm to add two positive integers",
+  "workflow": "The algorithm should loop through the two integers and add the corresponding digits, keeping track of the carry.\n\ndef add_integers(int1, int2): \n  result = \"\" # initialize result string \n  carry = 0 # set carry to 0 \n  # loop through the two integers \n  for i in range(max(len(int1), len(int2))): \n    sum = carry \n    # loop through each digits of integer1 \n    if i < len(int1): \n      sum += int(int1[i]) \n    # loop through each digits of integer2 \n    if i < len(int2): \n      sum += int(int2[i]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

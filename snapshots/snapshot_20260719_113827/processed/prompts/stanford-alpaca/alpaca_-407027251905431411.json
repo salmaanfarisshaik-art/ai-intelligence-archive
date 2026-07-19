@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-407027251905431411",
+  "technique_name": "Create a computer program that fixes typos in a text.",
+  "description": "def fixTypos(text): \n    words = text.split()\n    for i in range(len(words)):\n        words[i] = spellCheck(words[i])\n    return ' '.join(words)\n  \ndef spellCheck(word):\n    dictionary = [\"Hello\", \"Goodbye\", \"World\"]\n    minDistance = len(word)\n    result = word\n    for item in dictionary:\n        if distance(word, item) < minDistance:\n            minDistance = distance(word, item)\n            result = item\n    return result\n    \ndef distance(a, b):\n    len_a = len(a)\n    len_b = len(b)\n    if l",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

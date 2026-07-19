@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a 3D array of random numbers, with shape of (3,3,3).",
+  "input": "",
+  "output": "arr = np.random.randint(1, 100, size=(3, 3, 3)) \nprint(arr) \n\n# Output: \n[[[31 98 49]\n  [84 86 77]\n  [44 33 65]]\n\n [[63 53 62]\n  [ 9 49 80]\n  [71 95 74]]\n\n [[60 41  8]\n  [24 99 20]\n  [11 54 48]]]",
+  "unique_id": "prompt_create_a_3d_array_of",
+  "schema_version": "1.0"
+}

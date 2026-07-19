@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4732434254152511870",
+  "skill_name": "Write a C code to evaluate a quadratic equation.",
+  "workflow": "#include<stdio.h>\n#include<math.h>\n \nint main(){\n \n\tfloat a, b, c, x1, x2, imaginary, discriminant;\n\tprintf(\"Enter the values of a, b, c : \");\n\tscanf(\"%f%f%f\",&a,&b,&c);\n\t \n\tdiscriminant = (b*b) - (4*a*c);\n\t \n\tif (discriminant > 0)\n\t{\n\t\t//real and distinct roots\n\t\tx1 = (-b + sqrt(discriminant)) / (2*a);\n\t\tx2 = (-b - sqrt(discriminant)) / (2*a);\n\t\tprintf(\"Real and distinct roots: %.2f and %.2f.\", x1 , x2);\n\t}\n\telse if (discriminant == 0)\n\t{\n\t\t//real and equal roots\n\t\tx1 = x2 = -b / (2*a);\n\t\tprint",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

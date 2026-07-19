@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3423497657563206920",
+  "skill_name": "Given two equations write a sequence of steps to solve them.",
+  "workflow": "Steps to solve: \n1. Subtract x from both sides of equation 1: 2x + y = 4 → 2x = 4 - y \n2. Subtract y from both sides of equation 2: y + x = 3 → x = 3 - y \n3. Substitute x from equation 2 into equation 1: 2x = 4 - y → 2(3 - y) = 4 - y\n4. Simplify: 6 - 2y = 4 - y \n5. Add 2y to both sides: 6 = 2y + y\n6. Simplify: 6 = 3y\n7. Divide both sides by 3: y = 2 \n8. Substitute y into equation 2: x = 3 - 2 = 1 \nTherefore, x = 1, y = 2.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

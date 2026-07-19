@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a YAML snippet to define a pod with two containers.",
+  "input": "",
+  "output": "apiVersion: v1\nkind: Pod\nmetadata:\n  name: pod-with-two-containers\n  labels:\n    app: pod-with-two-containers\nspec:\n  containers:\n  - name: container1\n    image: nginx\n  - name: container2\n    image: centos",
+  "unique_id": "prompt_write_a_yaml_snippet",
+  "schema_version": "1.0"
+}

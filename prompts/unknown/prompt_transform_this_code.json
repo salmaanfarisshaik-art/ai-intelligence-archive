@@ -1,0 +1,7 @@
+{
+  "instruction": "Transform this code into Java.",
+  "input": "function addValues(x, y){\nreturn x + y;\n}",
+  "output": "public static int addValues(int x, int y){\n    return x + y;\n}",
+  "unique_id": "prompt_transform_this_code",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to get the average purchase price from the table \"orders\"",
+  "input": "",
+  "output": "SELECT AVG(price) FROM orders;",
+  "unique_id": "prompt_write_a_query_to_get",
+  "schema_version": "1.0"
+}

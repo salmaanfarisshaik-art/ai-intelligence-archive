@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7442496068061692586",
+  "technique_name": "Create a Jupyter notebook Visualization to show the following information.",
+  "description": "import matplotlib.pyplot as plt\nimport numpy as np\n\ncities = ['New York', 'Chicago', 'Los Angeles', 'Miami', 'Houston'] \ntemperature = [54,43,70,88,76] \ndays = np.arange(10)\n\nplt.plot(days, temperature)\n\nplt.xlabel('Days')\nplt.ylabel('Temperature')\nplt.title('Average Temperatures of Five Cities in the US Over the Last 10 Days') \nplt.xticks(days, cities)\n\nplt.show()",
+  "example": "The average temperatures of five cities in the US over the last 10 days.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

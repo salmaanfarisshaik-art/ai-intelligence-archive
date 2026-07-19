@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6208708451890915444",
+  "skill_name": "Create a function that checks whether the given string is a palindrome or not.",
+  "workflow": "def check_palindrome(string): \n  # Remove all non-alphanumeric characters \n  string = string.lower().replace(\"[^a-zA-Z0-9]\", \"\") \n\n  # Check whether the string is empty or not \n  if string == '': \n    return False\n\n  # Reverse the given string and check if it is equal to the original string \n  return string == string[::-1]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1355078439091136540",
+  "skill_name": "Write a script to get the top 10 most frequent words in a corpus.",
+  "workflow": "#\n# 1. Define the corpus:\n\ncorpus = \"This is a corpus of data to analyze. This dataset will be used to get the top 10 most frequent words.\"\n\n# 2. Tokenize the corpus:\n\nwords = corpus.split()\n\n# 3. Create a dictionary and count each word's frequency:\n\nword_counts = {}\n \nfor word in words:\n    if word in word_counts:\n        word_counts[word] += 1\n    else:\n        word_counts[word] = 1\n\n# 4. Sort the word counts list:\n\nsorted_word_counts = sorted(word_counts.items(), key=lambda x: x[1], reverse=T",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

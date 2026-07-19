@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct an excel formula to calculate the total cost for the following list of items.",
+  "input": "Item\t    Quantity\tPrice\nApple\t    3\t        2.6\nBanana\t    5\t        1.8\nPears\t    2\t        3.9",
+  "output": "=SUM (2.6*3, 1.8*5, 3.9*2)",
+  "unique_id": "prompt_construct_an_excel_f",
+  "schema_version": "1.0"
+}

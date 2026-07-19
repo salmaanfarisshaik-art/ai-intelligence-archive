@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a MongoDB query to retrieve data within a specific range.",
+  "input": "",
+  "output": "The following query can be used to retrieve data from a MongoDB collection within a specified range:\n\ndb.collection.find({field:{$gte:lower, $lte:upper}})\n\nWhere “field” is the field you are searching, “lower” is the lowerbound of the range, and “upper” is the upperbound of the range.",
+  "unique_id": "prompt_create_a_mongodb_que",
+  "schema_version": "1.0"
+}

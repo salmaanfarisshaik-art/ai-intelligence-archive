@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a JavaScript snippet to capitalize the first letter of a word.",
+  "input": "",
+  "output": "function capitalizeFirstLetter(word) {\n    return word.charAt(0).toUpperCase() + word.slice(1);\n}",
+  "unique_id": "prompt_write_a_javascript_s",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Add animations to the following program.",
+  "input": "Menu - \n1. Add\n2. Subtract\n3. Quit",
+  "output": "Menu - \n1. Add  <span class=\"anim-grow\">[+] </span>\n2. Subtract <span class=\"anim-shrink\">[-] </span>\n3. Quit <span class=\"anim-exit\">[X] </span>",
+  "unique_id": "prompt_add_animations_to_th",
+  "schema_version": "1.0"
+}

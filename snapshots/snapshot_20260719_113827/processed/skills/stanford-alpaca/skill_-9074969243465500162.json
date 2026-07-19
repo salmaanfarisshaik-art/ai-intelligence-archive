@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-9074969243465500162",
+  "skill_name": "Create a program that finds the total sum of all the elements in a list.",
+  "workflow": "def list_sum(sample_list):\n    total = 0\n    for num in sample_list:\n        total += num\n    return total\n\nprint(list_sum(sample_list))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6476584303245849095",
+  "technique_name": "Construct a SQL query to find the list of customers who have orders in the month of February 2021.",
+  "description": "SELECT c.customer_name \nFROM customers c INNER JOIN orders o ON c.customer_id = o.customer_id \nWHERE month(o.order_date) = 2 AND year(o.order_date) = 2021;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

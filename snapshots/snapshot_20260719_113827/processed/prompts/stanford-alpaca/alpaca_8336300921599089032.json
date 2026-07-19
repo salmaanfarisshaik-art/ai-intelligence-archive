@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8336300921599089032",
+  "technique_name": "Generate a valid JSON object for the following data expressed in natural language.",
+  "description": "{\n \"article\": {\n   \"parts\": [\n     {\"name\": \"Part 1\", \"content\": \"History\"},\n     {\"name\": \"Part 2\", \"content\": \"Present Applications\"}, \n     {\"name\": \"Part 3\", \"content\": \"Future Potential\"}\n   ] \n }\n}",
+  "example": "The article contains three parts. Part 1 is about the history of the subject, Part 2 is about its present applications, and Part 3 is about its future potential.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

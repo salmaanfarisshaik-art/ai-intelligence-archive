@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4447664410534383819",
+  "technique_name": "Find the errors in this code snippet and explain why the errors occurred.",
+  "description": "Error 1: The syntax for the range() function is incorrect. It should be written as \"range(10)\" with parentheses and not as \"range (10)\" with the space. \nError 2: The indentation of the print function is incorrect. The function should be indented once to indicate that it is within the for loop. This error will cause an IndentationError.",
+  "example": "for i in range (10):\n    print (i)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

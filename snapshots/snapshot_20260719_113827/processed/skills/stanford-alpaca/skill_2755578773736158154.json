@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2755578773736158154",
+  "skill_name": "Write a C++ code to calculate the sum of the following numbers",
+  "workflow": "#include <iostream>\n \nint main()\n{\n    int num1 = 2;\n    int num2 = 4;\n    int num3 = 6;\n    int sum = num1 + num2 + num3;\n \n    std::cout << \"The sum of 2, 4 and 6 is: \" << sum << std::endl;\n \n    return 0;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

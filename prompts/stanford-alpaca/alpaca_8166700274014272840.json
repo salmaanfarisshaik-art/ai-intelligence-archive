@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8166700274014272840",
+  "technique_name": "Generate a recursive program that can calculate the factorial.",
+  "description": "def factorial(n): \n    if n == 0: \n        return 1\n    else: \n        return n * factorial(n-1)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

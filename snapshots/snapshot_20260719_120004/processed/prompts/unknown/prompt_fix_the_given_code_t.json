@@ -1,0 +1,7 @@
+{
+  "instruction": "Fix the given code to make it correctly output the result 'hello'.",
+  "input": "function printHello() {\n    consoel.log('Hello')\n}",
+  "output": "function printHello() {\n    console.log('Hello');\n}",
+  "unique_id": "prompt_fix_the_given_code_t",
+  "schema_version": "1.0"
+}

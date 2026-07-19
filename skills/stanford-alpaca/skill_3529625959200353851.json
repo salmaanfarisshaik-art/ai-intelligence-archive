@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3529625959200353851",
+  "skill_name": "Create a class in Java that implements a data structure.",
+  "workflow": "public class MyDataStructure {\n    private int length;\n    private int array[];\n \n    public MyDataStructure(int size) {\n        this.length = size;\n        array = new int[size];\n    }\n \n    public void add(int value) {\n        if (length == array.length) {\n            increaseSize();\n        }\n        array[length++] = value;\n    }\n \n    private void increaseSize() {\n        int newLength = array.length * 2;\n        int[] newArray = new int[newLength];\n        for (int i = 0; i < length; i++) ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

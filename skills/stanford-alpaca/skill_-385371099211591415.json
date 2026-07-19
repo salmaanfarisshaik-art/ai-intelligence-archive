@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-385371099211591415",
+  "skill_name": "Identify the purpose of the given function and rewrite it in a simpler form.",
+  "workflow": "The purpose of this function is to greet the user by displaying an alert with a personalized message. This can be rewritten as: \n\nfunction greetUser(name) {\n    if (name) {\n        alert(`Hello, ${name}!`)\n    } else { \n        alert('Hello, there!')\n    }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

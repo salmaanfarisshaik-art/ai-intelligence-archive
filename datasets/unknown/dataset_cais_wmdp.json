@@ -1,0 +1,31 @@
+{
+  "_id": "65e789c23c74c55819dab631",
+  "id": "cais/wmdp",
+  "author": "cais",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-04-27T05:37:45.000Z",
+  "likes": 29,
+  "private": false,
+  "sha": "7125571f22f032c56415e7980f48d877dd830ff8",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for WMDP\n\t\n\nThe Weapons of Mass Destruction Proxy (WMDP) benchmark is a dataset of multiple-choice questions that serve as a proxy measurement of hazardous knowledge in biosecurity, cybersecurity, and chemical security. WMDP serves two roles: first, as an evaluation for hazardous knowledge in LLMs, and second, as a benchmark for unlearning methods to remove such hazardous knowledge.\nSee our paper, website, and GitHub for more details!\nWe implemented the WMDP evaluation in… See the full description on the dataset page: https://huggingface.co/datasets/cais/wmdp.",
+  "downloads": 28514,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:mit",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2403.03218",
+    "region:us"
+  ],
+  "createdAt": "2024-03-05T21:08:18.000Z",
+  "key": "",
+  "unique_id": "dataset_cais_wmdp",
+  "schema_version": "1.0"
+}

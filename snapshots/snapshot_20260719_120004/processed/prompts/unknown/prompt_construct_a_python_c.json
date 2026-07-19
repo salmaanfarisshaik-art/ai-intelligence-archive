@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a python class for an apple.",
+  "input": "",
+  "output": "class Apple:\n    def __init__(self, color, size):\n        self.color = color\n        self.size = size\n    \n    def get_color(self):\n        return self.color\n    \n    def get_size(self):\n        return self.size",
+  "unique_id": "prompt_construct_a_python_c",
+  "schema_version": "1.0"
+}

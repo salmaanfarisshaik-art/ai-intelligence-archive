@@ -1,0 +1,29 @@
+{
+  "_id": "66293ead0326d8c0fc899ac0",
+  "id": "labelmaker/arkit_labelmaker",
+  "author": "labelmaker",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-03-25T13:46:55.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "87a118e858bc5a1a5b4d7ff5431ef9bec3fdffbd",
+  "description": "\n\t\n\t\t\n\t\tARKit Labelmaker: A New Scale for Indoor 3D Scene Understanding\n\t\n\n[arxiv]  [website] [checkpoints] [code]\nWe complement ARKitScenes dataset with dense semantic annotations that are automatically generated at scale. This produces the first large-scale, real-world 3D dataset with dense semantic annotations.\nTraining on this auto-generated data, we push forward the state-of-the-art performance on ScanNet and ScanNet200 with prevalent 3D semantic segmentation models.\n",
+  "downloads": 99515,
+  "tags": [
+    "task_categories:image-segmentation",
+    "language:en",
+    "license:bsd",
+    "size_categories:1K<n<10K",
+    "arxiv:2410.13924",
+    "doi:10.57967/hf/2389",
+    "region:us",
+    "3D semantic segmentation",
+    "indoor 3D scene dataset",
+    "pointcloud-segmentation"
+  ],
+  "createdAt": "2024-04-24T17:17:33.000Z",
+  "key": "",
+  "unique_id": "dataset_labelmaker_arkit_labelmaker",
+  "schema_version": "1.0"
+}

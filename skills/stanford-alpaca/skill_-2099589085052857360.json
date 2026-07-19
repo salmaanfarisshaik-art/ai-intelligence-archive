@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2099589085052857360",
+  "skill_name": "Design a web page with two columns and a footer.",
+  "workflow": "<html> \n<head> \n<style> \n  .column {\n    float: left;\n    width: 50%; \n    padding: 15px;\n  }\n  \n  .footer {\n    padding: 15px; \n  } \n\n</style> \n</head> \n<body>\n  <div class=\"column\"> \n    <!-- The content in the left column -->\n  </div>\n  <div class=\"column\"> \n    <!-- The content in the right column -->\n  </div>\n  <div class=\"footer\"> \n    <!-- Footer -->\n  </div>\n</body> \n</html>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

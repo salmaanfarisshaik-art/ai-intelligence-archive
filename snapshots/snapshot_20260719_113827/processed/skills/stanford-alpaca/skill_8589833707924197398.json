@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8589833707924197398",
+  "skill_name": "Generate a function to calculate the height of a binary tree.",
+  "workflow": "def height(root): \n    if root is None: \n        return 0 \n    else: \n        # Compute the depth of each subtree \n        left_depth = height(root.left) \n        right_depth = height(root.right) \n        #  Use the larger one \n        return max(left_depth, right_depth) + 1",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

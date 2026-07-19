@@ -1,0 +1,7 @@
+{
+  "instruction": "Suggest improvements for the following code segment to make it more Pythonic.",
+  "input": "array = [1, 2, 3, 4]\nfor x in range(len(array)):\n  array[x] += 5",
+  "output": "The following code segment can be made more Pythonic by utilizing list comprehension. Instead of using a for loop, replace it with a list comprehension:\n\narray = [1, 2, 3, 4]\narray = [x + 5 for x in array]",
+  "unique_id": "prompt_suggest_improvements",
+  "schema_version": "1.0"
+}

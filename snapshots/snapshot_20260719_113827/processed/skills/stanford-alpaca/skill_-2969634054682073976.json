@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2969634054682073976",
+  "skill_name": "Create a function in Java to find the factorial of a number.",
+  "workflow": "public static int factorial(int n) {\n    if (n < 0) {\n        return -1;\n    }\n    int result = 1;\n    while (n > 0) {\n        result = result * n;\n        n = n - 1;\n    }\n    return result;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Fetch the last record from a table called 'Employees'",
+  "input": "",
+  "output": "SELECT * FROM `Employees` ORDER BY `id` DESC LIMIT 1;",
+  "unique_id": "prompt_fetch_the_last_recor",
+  "schema_version": "1.0"
+}

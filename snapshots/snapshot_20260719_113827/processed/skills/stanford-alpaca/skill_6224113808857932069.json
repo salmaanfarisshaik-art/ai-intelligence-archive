@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6224113808857932069",
+  "skill_name": "Write code to convert an array of integers into a binary tree.",
+  "workflow": "class Node:\n    def __init__(self, val):\n        self.val = val\n        self.left = None\n        self.right = None\n\ndef arrayToBinaryTree(arr):\n    root = Node(arr[0])\n    q = [root]\n    i = 1\n    while i < len(arr):\n        node = q.pop(0)\n        node.left = Node(arr[i])\n        q.append(node.left)\n        i += 1\n\n        if i == len(arr):\n            break\n        \n        node.right = Node(arr[i])\n        q.append(node.right)\n        i += 1\n\n    return root",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

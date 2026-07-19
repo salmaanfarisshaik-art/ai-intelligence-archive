@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1808288941877720464",
+  "technique_name": "Given a set of instructions, construct a flow chart to visualize the process.",
+  "description": "A flow chart that visualizes the process could look like this: \n\n[Start] -> Load Dataset --> Split Dataset --> Pre-process Data --> Feed Data to Model --> Train Model --> Tune Hyperparameters -> [End]",
+  "example": "1. Load the dataset.\n2. Split the dataset into training and validation set.\n3. Pre-process the data.\n4. Feed the data into a deep learning model.\n5. Train the model on the training set.\n6. Tune the hyperparameters with the validation set.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

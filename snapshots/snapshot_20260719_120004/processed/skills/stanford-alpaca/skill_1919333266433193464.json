@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1919333266433193464",
+  "skill_name": "Create an algorithm to determine the middle element of a linked list.",
+  "workflow": "1. Initialize two pointers, ‘fastPointer’ and ‘slowPointer’;\n2. Move fastPointer by two nodes and slowPointer by one node in each iteration.\n3. When fastPointer reaches the end of the list, slowPointer will reach the middle of the list.\n4. Return slowPointer.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a database with 4 fields to store the given information.",
+  "input": "Name, Age, Gender, Date of Birth",
+  "output": "Table Name: Profile\n\nField 1: Name (VARCHAR data type | Up to 100 characters)\nField 2: Age (INT data type)\nField 3: Gender (VARCHAR data type | Up to 10 characters)\nField 4: Date of Birth (DATE data type)",
+  "unique_id": "prompt_create_a_database_wi",
+  "schema_version": "1.0"
+}

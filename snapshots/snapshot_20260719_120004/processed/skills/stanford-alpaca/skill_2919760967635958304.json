@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2919760967635958304",
+  "skill_name": "Write a c program that takes a string from the user and reverses it",
+  "workflow": "#include<stdio.h> \n#include<string.h> \n  \n// Function to reverse any sequence starting with pointer \n// begin and ending with pointer end \nvoid Reverse(char* begin, char* end) \n{ \n    char temp; \n    while (begin < end) { \n        temp = *begin; \n        *begin++ = *end; \n        *end-- = temp; \n    } \n} \n  \n// Function to reverse words*/ \nvoid ReverseWords(char* s) \n{ \n    char* word_begin = s; \n  \n    // Word boundary \n    char* temp = s; \n  \n    // Revert string \n    Reverse(s, temp); \n  \n   ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

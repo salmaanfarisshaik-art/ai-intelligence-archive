@@ -1,0 +1,7 @@
+{
+  "instruction": "Come up with an algorithm to multiply two given numbers.",
+  "input": "9, 5",
+  "output": "def multiply(num1, num2):\n  result = 0\n  for i in range(num1):\n    result = result + num2\n  return result",
+  "unique_id": "prompt_come_up_with_an_algo",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6526528767690140349",
+  "technique_name": "Write a Python program to find the maximum number in a list.",
+  "description": "#Find maximum in list\nlist1 = [1, 5, 10, 3, 9]\nmax_num = 0\nfor num in list1:\n    if num > max_num:\n        max_num = num\nprint('Maximum number in the list is', max_num)",
+  "example": "list1 = [1, 5, 10, 3, 9]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

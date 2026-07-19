@@ -1,0 +1,7 @@
+{
+  "instruction": "Can you find the error in this code? Output the line that contains the error.",
+  "input": "def quick_sort(arr):\n    if qui(arr) < 2:\n        return arr\n    else:\n        pivot = arr[0]\n        less = [i for i in arr[1:] if i <= pivot]\n        greater = [i for i in arr[1:] if i > pivot]\n        return quick_sort(less) + [pivot] + quick_sort(greater)",
+  "output": "Line 2: if qui(arr) < 2:",
+  "unique_id": "prompt_can_you_find_the_err",
+  "schema_version": "1.0"
+}

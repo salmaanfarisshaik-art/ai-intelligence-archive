@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a profile page for the people in a given list and format it according to the provided html template.",
+  "input": "Name: John Smith\nAge: 32\nOccupation: Painter\n\n<template>\n\n<html>\n  <head>\n    <title>Profile page</title>\n  </head>\n  <body>\n    <h1> __________________ </h1>\n    <p><b> Name:</b>  __________________</p>\n    <p><b> Age:</b>  __________________</p>\n    <p><b>Occupation:</b>  __________________</p>\n  </body>\n  </html>",
+  "output": "<html>\n  <head>\n    <title>Profile page</title>\n  </head>\n  <body>\n    <h1> John Smith </h1>\n    <p><b> Name:</b> John Smith</p>\n    <p><b> Age:</b> 32</p>\n    <p><b>Occupation:</b> Painter</p>\n  </body>\n  </html>",
+  "unique_id": "prompt_create_a_profile_pag",
+  "schema_version": "1.0"
+}

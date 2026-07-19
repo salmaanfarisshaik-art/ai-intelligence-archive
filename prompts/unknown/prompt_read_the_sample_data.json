@@ -1,0 +1,7 @@
+{
+  "instruction": "Read the sample data and create a database using SQL.",
+  "input": "Sample Data:\n\nName | Age | Gender\nJohn | 25 | Male \nJane | 28 | Female\nBilly | 32 | Male",
+  "output": "CREATE TABLE persons (\n    name VARCHAR(50),\n    age INT,\n    gender VARCHAR(6)\n);\n\nINSERT INTO persons (name, age, gender) \nVALUES ('John', 25, 'Male'), ('Jane', 28, 'Female'), ('Billy', 32, 'Male');",
+  "unique_id": "prompt_read_the_sample_data",
+  "schema_version": "1.0"
+}

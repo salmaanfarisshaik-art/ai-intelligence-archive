@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3641626849612635085",
+  "technique_name": "Create a script to calculate the simple interest on a loan of $10000.",
+  "description": "\"\"\"\nFunction to calculate the simple interest \n\nInput: amount - loan amount\n       rate - interest rate\n       years - number of years for the loan\n\n\"\"\"\n\ndef simple_interest(amount, rate, years):\n    return (amount * rate * years) / 100\n\nif __name__ == '__main__':\n    print(simple_interest(10000, 5, 4))",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

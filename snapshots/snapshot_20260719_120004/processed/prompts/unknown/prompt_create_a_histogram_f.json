@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a histogram for the following data set.",
+  "input": "30, 20, 22, 34, 16, 32",
+  "output": "30|\n   |\n22|   *\n   | *        *\n16| *    *    *\n   |________*___\n    10  20  30  40",
+  "unique_id": "prompt_create_a_histogram_f",
+  "schema_version": "1.0"
+}

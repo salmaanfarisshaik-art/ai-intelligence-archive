@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3706471504489033928",
+  "technique_name": "Read the code snippet below and explain what it does.",
+  "description": "This code snippet creates an array called \"arr\" containing the elements 1, 2, 3, 4, and 5. It then iterates through the elements in the array and prints out each element multiplied by 2. The output would be 2, 4, 6, 8 and 10.",
+  "example": "arr = [1,2,3,4,5]\nfor num in arr:\n    print(num*2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

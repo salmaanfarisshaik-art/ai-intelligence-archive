@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2636031120109208240",
+  "technique_name": "How would you generate random numbers between 1 and 10 in Java?",
+  "description": "In Java, you can generate random numbers between 1 and 10 using the following code: \n\nint max = 10;\nint min = 1;\nint range = max - min + 1;\n\nint randomNumber = (int) (Math.random() * range) + min;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

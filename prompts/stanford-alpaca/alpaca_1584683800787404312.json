@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1584683800787404312",
+  "technique_name": "Construct a program for 'String Matching' using Greedy Algorithm.",
+  "description": "//program for string matching using greedy algorithm \n\n#include<stdio.h>\n#include<stdbool.h>\n\n// Function to find match between given string and pattern \nbool stringMatching(char string[], char pattern[]) \n{ \n\t//calculate length of given string \n\tint n = strlen(string);  \n\n\t//calculate length of given pattern  \n\tint m = strlen(pattern);  \n\n\t// indices of string and pattern \n\tint i = 0, j = 0;  \n\n\t// Greedy loop to match \n\twhile(i < n && j < m) { \n\t\tif(string[i] == pattern[j]) { \n\t\t\ti++; \n\t\t\tj++;",
+  "example": "String A:ababcab\nString B:cab",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8301814306370127653",
+  "skill_name": "Generate a correct python program to shift all the letters in a given word by two characters ahead.",
+  "workflow": "def shift_word(word):\n        shifted_letter = \"\"\n        for letter in word:\n            letter_idx = ord(letter) + 2\n            if letter_idx > ord('z'):\n                letter_idx -= 26\n            shifted_letter += chr(letter_idx)\n        return shifted_letter\n\nprint(shift_word('apple'))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

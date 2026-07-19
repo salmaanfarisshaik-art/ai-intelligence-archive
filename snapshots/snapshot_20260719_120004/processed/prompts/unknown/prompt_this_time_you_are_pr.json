@@ -1,0 +1,7 @@
+{
+  "instruction": "This time you are provided with a sentence and a corresponding pos tag. For each word of the sentence, give an example of a word with the same pos tag.\nYou should provide at least two examples.",
+  "input": "The opinion piece cleverly argues its point.\nPOS tagging:\nThe (Determiner) opinion (Noun) piece (Noun) cleverly (Adverb) argues (Verb) its (Pronoun) point (Noun).",
+  "output": "The: that, those\nOpinion: idea, notion \nPiece: article, fragment\nCleverly: artfully, intelligently\nArgues: reasons, expounds\nIts: his, her\nPoint: aim, purpose",
+  "unique_id": "prompt_this_time_you_are_pr",
+  "schema_version": "1.0"
+}

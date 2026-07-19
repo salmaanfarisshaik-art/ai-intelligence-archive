@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5254223578277083080",
+  "skill_name": "Write a code snippet that creates an HTTPS POST request.",
+  "workflow": "import requests\nurl = \"https://example.com\"\ndata = { \"key1\": \"value1\" }\nheaders = { \"Content-Type\": \"application/json\" }\nresponse = requests.post(url, data=data, headers=headers)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

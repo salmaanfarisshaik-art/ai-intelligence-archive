@@ -1,0 +1,7 @@
+{
+  "instruction": "Present the given data in PIE CHART format",
+  "input": "a. Apple 35\nb. Orange 25\nc. Grape 40",
+  "output": "// PIE CHART \n\nfill('#D34312') // Apple \ncircle(50,50,35) \n\nfill('#F09322') //Orange \ncircle(50,50,25)\n\nfill('#DB7E2B') // Grape\ncircle(50,50,40)",
+  "unique_id": "prompt_present_the_given_da",
+  "schema_version": "1.0"
+}

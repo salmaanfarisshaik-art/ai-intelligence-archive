@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a method to solve a 2x2 system of equations.",
+  "input": "x+2y=6\n2x+4y=6",
+  "output": "One method of solving a 2x2 system of equations is substitution. For example, if we know that x+2y=6, we can substitute that value into the other equation and solve for y. In this example, we would substitute x+2y=6 into 2x+4y=6 to get 2x+4(x+2y)=6, which simplifies to 2x+ 8x + 8y=6. Then, we can further simplify this equation to 10x+8y=6. Finally, we can solve for y by dividing both sides by 8, giving us y=3/4. We can then use this value to find x in the original equation: x+2(3/4)=6, which simplifies to x=3. Thus, the solution to this 2x2 system of equations is x=3 and y=3/4.",
+  "unique_id": "prompt_create_a_method_to_s",
+  "schema_version": "1.0"
+}

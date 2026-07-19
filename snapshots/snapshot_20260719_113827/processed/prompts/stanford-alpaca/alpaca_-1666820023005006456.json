@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1666820023005006456",
+  "technique_name": "Given two tables, combine the tables and generate a view.",
+  "description": "CREATE VIEW student_score AS\nSELECT s.Name, s.Age, s.Grade, sc.Test_1, sc.Test_2\nFROM student s\nJOIN score sc ON s.Name = sc.Name;",
+  "example": "Table A:  student\n\nName   | Age  | Grade\n------------------\nJohn   | 20   | A\n\nTable B: score\n\nName   | Test_1| Test_2\n------------------------\nJohn   | 50    | 80",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

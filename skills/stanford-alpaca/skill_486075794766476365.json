@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_486075794766476365",
+  "skill_name": "You are given with a robot, write an algorithm to make it move forward 20 steps and reverse back to the starting position.",
+  "workflow": "Algorithm:\n \n Step 1: Assign the variable axes to 0\n Step 2: Repeat steps 3-6 for 20 times.\n Step 3: Increase the variable axes by 1\n Step 4: Make the robot move forward by one step\n Step 5: Increase the variable i by 1\n Step 6: Repeat steps 3-6 till variable axes is less than 20\n Step 7: Decrease the variable axes by 1\n Step 8: Make the robot move backward by one step\n Step 9: Decrease the variable axes by 1\n Step 10: Repeat steps 7-9 till variable axes is 0\n Step 11: Stop the robot",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

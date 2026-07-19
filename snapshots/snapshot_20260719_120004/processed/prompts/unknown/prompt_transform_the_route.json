@@ -1,0 +1,7 @@
+{
+  "instruction": "Transform the route descriptions into a valid JSON format.",
+  "input": "Route Descriptions: Home -> Work -> Gym",
+  "output": "{\"route\": [{\"start\": \"Home\", \"destination\": \"Work\"}, {\"start\": \"Work\", \"destination\": \"Gym\"}]}",
+  "unique_id": "prompt_transform_the_route",
+  "schema_version": "1.0"
+}

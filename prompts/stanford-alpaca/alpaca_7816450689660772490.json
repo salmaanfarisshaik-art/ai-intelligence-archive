@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7816450689660772490",
+  "technique_name": "Generate a correct C++ program for the following logic.",
+  "description": "#include<iostream>\n \nusing namespace std;\n \nint main()\n{\n    int n;\n    cin>>n;\n    for(int i=n;i>=1;i--){\n        cout << i << \" \";\n    }\n    return 0;\n}",
+  "example": "Given a positive number N, print the numbers from 1 to N in reverse order.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "6824a2243c0fc989c6b7a0be",
+  "id": "ieasybooks-org/shamela-waqfeya-library",
+  "author": "ieasybooks-org",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-14T19:29:09.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "9d351576c6f707058e2d0410978dd138700a275c",
+  "description": "\n\t\n\t\t\n\t\tShamela Waqfeya Library\n\t\n\n\n\t\n\t\t\n\t\t📖 Overview\n\t\n\nShamela Waqfeya is one of the primary online resources for Islamic books, similar to Shamela. It hosts more than 4,500 PDF books across over 40 categories.\nIn this dataset, we processed the original PDF files using Google Document AI APIs and extracted their contents into two additional formats: TXT and DOCX.\n\n\t\n\t\t\n\t\t📊 Dataset Contents\n\t\n\nThe dataset includes 12,877 PDF files (spanning 5,138,027 pages) representing 4,661 Islamic books.… See the full description on the dataset page: https://huggingface.co/datasets/ieasybooks-org/shamela-waqfeya-library.",
+  "downloads": 65464,
+  "tags": [
+    "task_categories:image-to-text",
+    "language:ar",
+    "license:mit",
+    "size_categories:1K<n<10K",
+    "format:csv",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2025-05-14T14:01:08.000Z",
+  "key": "",
+  "unique_id": "dataset_ieasybooks_org_shamela_waqfeya_library",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8275482562174907535",
+  "technique_name": "Edit the given HTML code so that it can be used as login form.",
+  "description": "<form>\n  <label>Username</label>\n  <input type=\"text\" name=\"username\" width=\"20\" />\n  <label>Password</label>\n  <input type=\"password\" name=\"password\" width=\"20\" />\n  <input type=\"submit\" value=\"Login\" />\n</form>",
+  "example": "<form>\n<label>Username</label>\n<textfield width=\"20\">\n</form>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

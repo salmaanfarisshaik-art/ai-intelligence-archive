@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4671413585051247031",
+  "technique_name": "Using Python, create a program that can predict the language of a given text.",
+  "description": "import nltk\nfrom nltk import word_tokenize\n\n#Split the text into words\nwords = word_tokenize(text)\n\n#Initialize the stopwords list\nstopwords = nltk.corpus.stopwords.words(\"french\")\n\n#Iterate over each word and determine if it is a French word\nn_french = 0\nfor word in words:\n    if word.lower() in stopwords:\n        n_french += 1\n\n#Calculate the percentage of French words to total words\ntotal = len(words)\nfrench_percentage = n_french/total\n\n#If French vocabulary is greater than 50%, we can predic",
+  "example": "This is a sentence in French",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

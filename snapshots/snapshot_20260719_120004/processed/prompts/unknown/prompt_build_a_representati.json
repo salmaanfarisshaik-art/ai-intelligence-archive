@@ -1,0 +1,7 @@
+{
+  "instruction": "Build a representation of the following data structure:",
+  "input": "Animals:\n- Type: Mammal\n  - Species: Dog\n  - Species: Cat\n- Type: Bird\n  - Species: Hawk\n  - Species: Starling",
+  "output": "Animals:\n  - Mammal:\n    - Dog\n    - Cat\n  - Bird:\n    - Hawk\n    - Starling",
+  "unique_id": "prompt_build_a_representati",
+  "schema_version": "1.0"
+}

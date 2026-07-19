@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4564126455869306086",
+  "technique_name": "Explain why the following two lines of Python code produce different outputs.",
+  "description": "The two lines of Python code produce different outputs because the first line creates a list of two elements, while the second line creates a reference to the same list. This means that when a change is made to list 'b', it also affects the object referred to by 'a'.",
+  "example": "a = [1, 2]\nb = a",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

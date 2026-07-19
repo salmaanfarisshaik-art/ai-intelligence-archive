@@ -1,0 +1,7 @@
+{
+  "instruction": "Insert a given value at the end of the given linked list.",
+  "input": "Linked List = 8 -> 4 -> 6\nValue = 2",
+  "output": "8 -> 4 -> 6 ->2 \n\ndef insert_end(linked_list, value):\n    # Create a new node\n    new_node = Node(value)\n\n    # Traverse to the end of the linked list\n    curr = linked_list\n    while curr.next is not None:\n        curr = curr.next\n\n    # Insert new node at the end of the linked list\n    curr.next = new_node",
+  "unique_id": "prompt_insert_a_given_value",
+  "schema_version": "1.0"
+}

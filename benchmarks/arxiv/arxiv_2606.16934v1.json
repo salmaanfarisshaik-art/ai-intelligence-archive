@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.16934v1",
+  "schema_version": "1.0",
+  "name": "Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.16934v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.16934v1",
+    "updated": "2026-06-15T16:34:00Z",
+    "published": "2026-06-15T16:34:00Z",
+    "title": "Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter",
+    "summary": "Reasoning with a Code Interpreter (CI) has emerged as an effective paradigm for enhancing the reasoning capabilities of large language models (LLMs) through executable computation and iterative verification. Despite its growing adoption, the behavioral properties underlying effective code reasoning remain largely underexplored. In this work, we investigate code reasoning from two distinct perspectives inspired by prior studies of natural language reasoning: extrinsic properties, represented by crucial tokens, and intrinsic properties, represented by code-specific cognitive behaviors. Across multiple LLMs, we find that stronger CI reasoning models consistently exhibit a higher prevalence of crucial tokens and cognitive behaviors, particularly verification, backtracking, and backward chaining. Building on these observations, we examine how these properties can be leveraged during both inference and training. At inference time, appending code-specific crucial tokens improves performance on several reasoning capabilities, including mathematical, ordering, and optimization, while yielding limited benefits elsewhere. At training time, augmenting a state-of-the-art framework with code-specific cognitive behaviors improves supervised fine-tuning and reinforcement learning performance in two of three evaluated models. Further analysis shows that these behaviors reduce overthinking in incorrect responses and improve token efficiency, while also revealing factors that limit gains in a certain model. Our findings provide the first systematic characterization of effective reasoning with CI and demonstrate both the potential and limitations of leveraging key properties to improve CI-based reasoning.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T16:34:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.16934v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

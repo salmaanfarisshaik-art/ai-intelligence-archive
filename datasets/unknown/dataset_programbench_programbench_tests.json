@@ -1,0 +1,29 @@
+{
+  "_id": "69f35ef76918284c657fa863",
+  "id": "programbench/ProgramBench-Tests",
+  "author": "programbench",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-06T22:51:25.000Z",
+  "likes": 9,
+  "private": false,
+  "sha": "de0ddfb637590c7ecb54fa0b5301f6dc7dfbcee5",
+  "description": "\n\t\n\t\t\n\t\tProgramBench Generated Tests\n\t\n\nThis dataset contains the AI-generated behavioral test suites used to evaluate model solutions in ProgramBench.\nProgramBench is a benchmark that evaluates whether language models can rebuild programs from scratch. Given only a compiled binary and its documentation, AI agents must architect and implement a complete codebase that reproduces the original program's behavior. These test suites are used to assess whether a candidate solution is behaviorally… See the full description on the dataset page: https://huggingface.co/datasets/programbench/ProgramBench-Tests.",
+  "downloads": 125360,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:mit",
+    "size_categories:n<1K",
+    "region:us",
+    "code",
+    "software-engineering",
+    "reverse-engineering",
+    "benchmark",
+    "testing"
+  ],
+  "createdAt": "2026-04-30T13:53:59.000Z",
+  "key": "",
+  "unique_id": "dataset_programbench_programbench_tests",
+  "schema_version": "1.0"
+}

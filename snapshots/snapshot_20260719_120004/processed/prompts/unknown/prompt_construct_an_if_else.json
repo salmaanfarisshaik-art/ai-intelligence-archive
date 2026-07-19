@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct an if-else statement that prints \"Case1\" if a is greater than b, and prints \"Case2\" if a is less than b.",
+  "input": "a = 4\nb = 2",
+  "output": "if a > b:\n  print(\"Case1\")\nelse:\n  print(\"Case2\")",
+  "unique_id": "prompt_construct_an_if_else",
+  "schema_version": "1.0"
+}

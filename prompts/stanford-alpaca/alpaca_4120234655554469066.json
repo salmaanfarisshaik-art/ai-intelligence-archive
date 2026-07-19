@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4120234655554469066",
+  "technique_name": "Create a function that takes a list of numbers and returns the second largest number in that list.",
+  "description": "def second_largest(list_of_numbers): \n  largest = max(list_of_numbers) \n  temp = list_of_numbers.remove(largest) \n  return max(temp) \n\nsecond_largest([3, 6, 11, 25, 0, 17]) # Returns 17",
+  "example": "[3, 6, 11, 25, 0, 17]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

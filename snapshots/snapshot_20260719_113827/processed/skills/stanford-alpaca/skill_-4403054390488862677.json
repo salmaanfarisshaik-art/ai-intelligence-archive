@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4403054390488862677",
+  "skill_name": "Design a Sudoku solving algorithm",
+  "workflow": "A Sudoku solving algorithm can be designed using backtracking. The algorithm begins with an empty 9x9 grid. First, the algorithm checks to see if any cells are provided with a value and if they are, the value is placed in the cell. If a cell is not given a value, the algorithm must identify a valid number to place into the cell. The algorithm will then check the row, column and 3*3 box associated with the cell to make sure that no duplicate values occur. If no valid number is found, the algorith",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

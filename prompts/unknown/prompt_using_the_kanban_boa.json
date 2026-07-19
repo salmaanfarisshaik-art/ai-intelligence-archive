@@ -1,0 +1,7 @@
+{
+  "instruction": "Using the kanban board below, develop a timeline for when tasks need to be completed.",
+  "input": "To Do | Doing | Done\n--- | --- | ---\nWrite software | Test software | Deploy software",
+  "output": "The timeline for the completion of tasks should be as follows:\n\nWrite software: To be completed before moving on to the next task.\nTest software: After the software is written, it should be tested before deployment.\nDeploy software: The software should be deployed only after it has been tested successfully.",
+  "unique_id": "prompt_using_the_kanban_boa",
+  "schema_version": "1.0"
+}

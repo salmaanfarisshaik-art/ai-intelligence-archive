@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3537841097004581134",
+  "technique_name": "Write an algorithm that checks if the given number is prime.",
+  "description": "The algorithm should check for prime numbers as follows:\n\nStep 1: Create a loop that iterates over all numbers between 2 and the given number.- \nStep 2: For each number, check if the given number is evenly divisible by it.\nStep 3: If the given number is evenly divisible by any number, then it is not a prime number.\nStep 4: If the given number is not divisible by any number, then it is a prime number.",
+  "example": "7",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

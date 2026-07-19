@@ -1,0 +1,7 @@
+{
+  "instruction": "Build a SQL query that creates a table.",
+  "input": "Table Name: Books\n\nAttributes:\n- book_id (int)\n- title (varchar)\n- author (varchar)\n- publisher (varchar)\n- publication_date (date)",
+  "output": "CREATE TABLE Books ( \n  book_id INT, \n  title VARCHAR(255), \n  author VARCHAR(255), \n  publisher VARCHAR(255), \n  publication_date DATE\n);",
+  "unique_id": "prompt_build_a_sql_query_th",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7804152167722673785",
+  "skill_name": "Create a program to calculate the frequency of a word in a sentence.",
+  "workflow": "\"\"\"\nCreate a program to calculate the frequency of a word in a sentence.\n\ndef calculate_word_frequency(sentence, word):\n    words = sentence.split()\n    word_count = words.count(word)\n    return word_count\n\nif __name__ == \"__main__\":\n    sentence = \"This is an example sentence\" \n    word = \"is\"\n    word_count = calculate_word_frequency(sentence, word)\n    print(\"The frequency of the word '\" + word + \"' in the sentence is\", word_count)\n\"\"\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

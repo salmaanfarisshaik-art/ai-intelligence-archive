@@ -1,0 +1,7 @@
+{
+  "instruction": "Perform named entity recognition on the given sentence.",
+  "input": "The Eiffel Tower is located in Paris, France.",
+  "output": "(The, Noun), (Eiffel, Noun), (Tower, Noun), (Paris, Proper Noun), (France, Proper Noun)",
+  "unique_id": "prompt_perform_named_entity",
+  "schema_version": "1.0"
+}

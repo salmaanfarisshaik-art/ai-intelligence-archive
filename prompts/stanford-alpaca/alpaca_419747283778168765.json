@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_419747283778168765",
+  "technique_name": "Write JavaScript code that takes an array of numbers as input and returns a copy of the array without any of the duplicate numbers.",
+  "description": "const uniqueArray = arr => { \n  const seen = {}; \n  const output = []; \n  \n  for (let i = 0; i < arr.length; i++) { \n    if (!seen[arr[i]]) { \n      seen[arr[i]] = true; \n      output.push(arr[i]); \n    } \n  } \n  return output; \n} \n\nconsole.log (uniqueArray([1, 2, 3, 2, 4, 5, 6, 7, 1, 4])); \n// Output: [1, 2, 3, 4, 5, 6, 7]",
+  "example": "[1, 2, 3, 2, 4, 5, 6, 7, 1, 4]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

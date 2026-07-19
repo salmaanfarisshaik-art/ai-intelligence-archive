@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.16935v1",
+  "schema_version": "1.0",
+  "name": "CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.16935v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.16935v1",
+    "updated": "2026-06-15T16:35:01Z",
+    "published": "2026-06-15T16:35:01Z",
+    "title": "CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation",
+    "summary": "Rovers rely on perception to maintain spatial maps that encode both objects and sensor quality (e.g., range reliability, lighting artifacts, data density), guiding data fusion, embedding updates, and navigation under partial observability. To study these coupled perception-navigation processes, we present CrossMaps, a real-time confidence-aware open-vocabulary semantic mapping pipeline that constructs language-queryable maps from RGB-D data. Building on VLMaps-style approaches, CrossMaps integrates multi-scale CLIP embeddings with confidence-aware fusion and a dual-memory architecture consisting of Short-Term Memory (STM) and Long-Term Memory (LTM). The STM aggregates noisy visual observations using geometric, semantic, and temporal confidence cues, while confident and coherent cells are promoted to the LTM as persistent semantic landmarks. Designed for deployment with a Jetson Orin-powered UGV alongside SLAM, CrossMaps runs in real time and produces semantic heatmaps that can be queried with natural language to guide rover navigation.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T16:35:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.16935v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

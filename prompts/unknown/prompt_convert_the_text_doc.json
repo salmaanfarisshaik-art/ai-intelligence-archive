@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert the text document to a structured data format.",
+  "input": "John is 35 and he lives in New York.",
+  "output": "{\n    name: \"John\",\n    age: 35,\n    location: \"New York\"\n}",
+  "unique_id": "prompt_convert_the_text_doc",
+  "schema_version": "1.0"
+}

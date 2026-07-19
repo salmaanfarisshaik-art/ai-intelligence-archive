@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct five queries for a given database.",
+  "input": "Table: Items",
+  "output": "1. SELECT * FROM Items;\n2. SELECT ItemID, ItemName, Price FROM Items;\n3. SELECT ItemName FROM Items WHERE Price > 100;\n4. SELECT * FROM Items WHERE ItemName LIKE '%book%';\n5. UPDATE Items SET Price = 150 WHERE ItemID = 4;",
+  "unique_id": "prompt_construct_five_queri",
+  "schema_version": "1.0"
+}

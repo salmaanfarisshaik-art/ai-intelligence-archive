@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a function, \"factorial_of(),\" that takes in an integer and returns its factorial.",
+  "input": "",
+  "output": "def factorial_of(n):\n    \"\"\"This function takes in a integer 'n' and returns its factorial.\n    \n    Args: \n        n (int): The number to calculate the factorial of\n      \n    Returns: \n        int: The calculated factorial of 'n'\n    \"\"\"\n    if n == 0:\n        return 1\n    else:\n        return n * factorial_of(n-1)",
+  "unique_id": "prompt_create_a_function",
+  "schema_version": "1.0"
+}

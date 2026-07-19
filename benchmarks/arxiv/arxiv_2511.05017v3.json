@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.05017v3",
+  "schema_version": "1.0",
+  "name": "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.05017v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.05017v3",
+    "updated": "2026-06-12T16:49:45Z",
+    "published": "2025-11-07T06:39:54Z",
+    "title": "Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings",
+    "summary": "Hallucinations in Large Vision-Language Models (LVLMs) remain a persistent challenge, often stemming from inadequate integration of visual information during multimodal reasoning. A key cause is the model's over-reliance on textual priors and underutilization of visual cues, leading to outputs that are linguistically fluent but visually inaccurate. For example, given an image of an empty kitchen countertop, an LVLM might hallucinate a \"bowl of fruit\" or \"cup of coffee\", relying on language associations rather than visual evidence. Most LVLMs incorporate visual features by appending them to the input stream of a pre-trained LLM and training on large-scale vision-language datasets. Our systematic analysis reveals that this strategy often leads to over-dependence on textual information due to the inherent bias of LLMs towards language-dominant representations. This imbalance skews attention towards the text over visual content, weakening the model's ability to ground outputs in visual inputs. To address this, we propose a simple yet effective visual feature incorporation method that encourages the model to learn visually-informed textual embeddings distinct from those of the base LLM and promotes a more balanced attention distribution. Experimental results across multiple hallucination benchmarks demonstrate that our method significantly reduces hallucinations and fosters more balanced multimodal reasoning. Notably, our approach achieves substantial gains, including +9.33% on MMVP-MLLM, +2.99% on POPE-AOKVQA, up to +3.4% on Merlin, and +3% on the hard-data split of HallusionBench.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:49:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.05017v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

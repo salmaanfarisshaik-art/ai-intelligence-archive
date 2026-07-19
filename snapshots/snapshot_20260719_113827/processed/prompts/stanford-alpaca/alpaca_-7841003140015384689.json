@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7841003140015384689",
+  "technique_name": "Create an interactive web page that allows users to search for books.",
+  "description": "<html>\n  <head>\n    <title>Book Search</title>\n  </head>\n  <body>\n    <h1>Welcome!</h1>\n    <p>Ready to search for a book? Please enter your keywords below and press the search button.</p>\n    <form action=\"search.php\" method=\"post\">\n      <p>Keywords: <input type=\"text\" name=\"keywords\" /></p>\n      <input type=\"submit\" value=\"Search\" />\n    </form>\n  </body>\n</html>",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

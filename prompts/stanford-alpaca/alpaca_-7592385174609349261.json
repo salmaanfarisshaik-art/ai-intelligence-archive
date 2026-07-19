@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7592385174609349261",
+  "technique_name": "Construct a truth table for the given expression.",
+  "description": "P    Q    R    S    (~P -> Q) v (R -> S)\n  T    T    T    T          T\n  T    T    F    F          F\n  T    F    T    T          T\n  T    F    F    F          F\n  F    T    T    T          T\n  F    T    F    F          F\n  F    F    T    T          T\n  F    F    F    T          T",
+  "example": "(~P -> Q) v (R -> S)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

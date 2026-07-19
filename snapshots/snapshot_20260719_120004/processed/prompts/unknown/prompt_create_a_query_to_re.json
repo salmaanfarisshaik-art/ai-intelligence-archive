@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a query to retrieve all users who have signed up in the last 30 days",
+  "input": "",
+  "output": "SELECT * FROM USERS \nWHERE DATE_DIFF(NOW(), DATE_SIGNED_UP, DAY) < 30",
+  "unique_id": "prompt_create_a_query_to_re",
+  "schema_version": "1.0"
+}

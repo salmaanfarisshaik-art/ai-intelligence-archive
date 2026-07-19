@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a dynamic query to filter a large table of user data",
+  "input": "Table : user_data in MongoDB\nColumns : _id, username, gender\nFilter: Male",
+  "output": "db.user_data.find( { gender : \"Male\" } )",
+  "unique_id": "prompt_create_a_dynamic_que",
+  "schema_version": "1.0"
+}

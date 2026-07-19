@@ -1,0 +1,31 @@
+{
+  "_id": "6897eb60e13b6c2cf3eb0214",
+  "id": "allenai/MolmoAct-Midtraining-Mixture",
+  "author": "allenai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-08-18T03:12:40.000Z",
+  "likes": 5,
+  "private": false,
+  "sha": "086a73a34c654ef8880af59e56938562160b020b",
+  "description": "\n\t\n\t\t\n\t\tMolmoAct - Midtraining Mixture\n\t\n\nData Mixture used for MolmoAct Midtraining. Contains MolmoAct Dataset formulated as Action Reasoning Data.\nMolmoAct is a fully open-source action reasoning model for robotic manipulation developed by the Allen Institute for AI. MolmoAct is trained on a subset of OXE and MolmoAct Dataset, a dataset with 10k high-quality trajectories of a single-arm Franka robot performing 93 unique manipulation tasks in both home and tabletop environments. It has… See the full description on the dataset page: https://huggingface.co/datasets/allenai/MolmoAct-Midtraining-Mixture.",
+  "downloads": 55419,
+  "tags": [
+    "task_categories:robotics",
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2508.07917",
+    "region:us"
+  ],
+  "createdAt": "2025-08-10T00:44:16.000Z",
+  "key": "",
+  "unique_id": "dataset_allenai_molmoact_midtraining_mixture",
+  "schema_version": "1.0"
+}

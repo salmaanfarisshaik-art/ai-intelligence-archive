@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8794190759425636959",
+  "technique_name": "Create a function to check if a given year is a leap year.",
+  "description": "def is_leap_year(year): \n    if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0): \n        return True \n    else: \n        return False",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

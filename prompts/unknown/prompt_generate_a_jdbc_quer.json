@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a JDBC query to retrieve a customer's phone number.",
+  "input": "customer_id = '74ADB'",
+  "output": "SELECT customer_phone_number FROM customer_data WHERE customer_id = '74ADB';",
+  "unique_id": "prompt_generate_a_jdbc_quer",
+  "schema_version": "1.0"
+}

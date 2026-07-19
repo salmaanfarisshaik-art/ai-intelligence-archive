@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7239579448881622556",
+  "technique_name": "Identify the major flaws in the following code snippet.",
+  "description": "The major flaw in the code snippet is that the function add_numbers requires two arguments, but only one argument is provided when the function is called. This will cause a runtime error.",
+  "example": "def add_numbers(x,y):\n    return x+y\n\nadd_numbers(2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3495456543284316919",
+  "skill_name": "Design a database schema to track a user's orders.",
+  "workflow": "The database schema should include two main tables: Users and Orders. The Users table should include the following fields: ID (primary key), name, email address, mailing address, and phone number. The Orders table should include the following fields: ID (primary key), order ID, user ID (foreign key), item name, item price, and quantity.\n\nThe database should also include two associative tables—Order Merchandise and Shipment Details—to track the items in each order and their associated shipment de",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Suppress the warning message when running the following code:",
+  "input": "print(\"Warning: Failed to load\")",
+  "output": "import warnings\nwarnings.filterwarnings(\"ignore\")",
+  "unique_id": "prompt_suppress_the_warning",
+  "schema_version": "1.0"
+}

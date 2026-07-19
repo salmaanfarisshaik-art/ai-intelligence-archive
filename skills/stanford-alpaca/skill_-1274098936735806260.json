@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1274098936735806260",
+  "skill_name": "Create a SQL query to get the total number of employees who joined the company before January 1, 2021.",
+  "workflow": "SELECT COUNT(*) \nFROM Employees \nWHERE date_of_joining < '2021-01-01';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

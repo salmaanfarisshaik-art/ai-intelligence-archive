@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_770228475009046359",
+  "skill_name": "Write a MySQL query to select all the customers from the \"Customers\" table who were born after 1990.",
+  "workflow": "SELECT * FROM Customers WHERE birth_date > '1990-01-01';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19257v1",
+  "schema_version": "1.0",
+  "name": "DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19257v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19257v1",
+    "updated": "2026-06-17T16:34:02Z",
+    "published": "2026-06-17T16:34:02Z",
+    "title": "DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models",
+    "summary": "Block diffusion language models accelerate decoding through parallel block-wise denoising, yet whether they can be reliably scaled for long chain-of-thought (CoT) reasoning remains unresolved. To this end, we develop DreamReasoner-8B, an open-source block diffusion reasoning model, and conduct a systematic study of how training and inference block sizes affect long-CoT reasoning. Our analysis reveals a stark performance disparity: training with large block sizes yields remarkably poor reasoning, whereas small block sizes preserve effective reasoning. To bridge this granularity gap, we propose block-size curriculum learning, which gradually transitions training from fine-grained to coarse-grained block sizes, thereby overcoming this limitation and enabling strong reasoning performance that generalizes across diverse inference block sizes. On mathematical and code reasoning benchmarks, DreamReasoner-8B achieves results competitive with leading open autoregressive models such as Qwen3-8B. This work establishes a practical foundation for efficient, reasoning-capable diffusion language models. We release our model at https://github.com/DreamLM/DreamReasoner.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:34:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19257v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.13624v1",
+  "schema_version": "1.0",
+  "name": "Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.13624v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.13624v1",
+    "updated": "2026-06-11T17:39:26Z",
+    "published": "2026-06-11T17:39:26Z",
+    "title": "Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models",
+    "summary": "Large language models (LLMs) have enabled time series (TS) analysis by jointly modeling numerical observations and textual context through a shared token interface. However, TS tokens and prompt tokens exhibit fundamentally different information structures, making uniform token processing inefficient. In this paper, we study token efficiency in TS language modeling from an asymmetric-token perspective. We show that TS tokens have highly uneven spectral contributions, where many tokens share redundant frequency patterns while a small subset preserves critical temporal evidence. We also observe that prompt-token influence attenuates with model depth, suggesting that full prompt retention across all layers is unnecessary. Based on these findings, we develop an adaptive token budgeting framework that compresses TS tokens via frequency-domain structure and progressively reduces prompt tokens across layers. Experiments across forecasting, classification, imputation, and anomaly detection demonstrate up to \\textit{\\textbf{7.68$\\times$}} inference acceleration and performance gains in \\textit{\\textbf{78\\%}} of evaluated settings, showing the effectiveness of asymmetric token compression for scalable TS foundation models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:39:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.13624v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate an API call to get the weather data for a given city.",
+  "input": "Chandigarh",
+  "output": "The API call to get the weather data for a given city is: http://api.openweathermap.org/data/2.5/weather?q=Chandigarh&appid=APPID.",
+  "unique_id": "prompt_generate_an_api_call",
+  "schema_version": "1.0"
+}

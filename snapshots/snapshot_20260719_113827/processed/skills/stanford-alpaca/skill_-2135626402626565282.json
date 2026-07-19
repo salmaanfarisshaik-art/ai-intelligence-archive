@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2135626402626565282",
+  "skill_name": "Write a JavaScript function to calculate the total cost of an item and applicable taxes.",
+  "workflow": "function totalCost (cost, taxRate) {\n  let total = cost + (cost * taxRate / 100);\n  return total;\n}\nlet totalPrice = totalCost(10, 5);\nconsole.log(totalPrice); // 10.5",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

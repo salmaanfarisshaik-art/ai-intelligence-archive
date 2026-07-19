@@ -1,0 +1,24 @@
+{
+  "_id": "6859098f180d81189cf40d9d",
+  "id": "klingfoley/Kling-Audio-Eval",
+  "author": "klingfoley",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-06-25T11:57:14.000Z",
+  "likes": 15,
+  "private": false,
+  "sha": "abb9bcb05b6495aebc286fe733676ecd6a5f3f6b",
+  "description": "\n\t\n\t\t\n\t\tKling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation\n\t\n\n🌐 Website  |  📖 arXiv\n\n\t\n\t\t\n\t\t📋 Dataset Structure\n\t\n\nThe dataset structure is as follows:\nKling-Audio-Eval\n├── Folder (first-level label)\n│   ├── Folder (second-level label)            \n│   │   ├── video    \n│   │   │   └── *.mp4               \n│   │   ├── audio\n│   │   │   └── *.wav    \n│   │   └── caption.csv                 # Header: video, audio, audio_tag, video_caption, audio_caption… See the full description on the dataset page: https://huggingface.co/datasets/klingfoley/Kling-Audio-Eval.",
+  "downloads": 88675,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1K<n<10K",
+    "arxiv:2506.19774",
+    "region:us",
+    "video-to-audio"
+  ],
+  "createdAt": "2025-06-23T08:00:15.000Z",
+  "key": "",
+  "unique_id": "dataset_klingfoley_kling_audio_eval",
+  "schema_version": "1.0"
+}

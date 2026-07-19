@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-616910795065947904",
+  "technique_name": "Generate a program that can find the longest pallindrome in a given string",
+  "description": "def longestPallindrome(string):\n \n    #Check if string is empty\n    if (len(string) == 0):\n        return \"\"\n \n    #Define a data structure and store the length of the longest pallindrome\n    pallindromes = [[0 for x in range(len(string))] for y in range(len(string))]\n    max_length = 0\n    start_pos = 0\n    #Calculate the longest pallindrome\n    for i in range(len(string)):\n        pallindromes[i][i] = 1\n        for j in range(i):\n            if (string[j] == string[i] and (pallindromes[j+1][i-",
+  "example": "String = \"ababad\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

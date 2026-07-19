@@ -1,0 +1,7 @@
+{
+  "instruction": "Write an algorithm in Java to reverse an array.",
+  "input": "",
+  "output": "public void reverse(int[] arr) {\n \n  int low = 0;\n  int high = arr.length-1;\n \n  while (low < high) {\n    int temp = arr[low];\n    arr[low] = arr[high];\n    arr[high] = temp;\n    low++;\n    high--;\n  }\n}",
+  "unique_id": "prompt_write_an_algorithm_i",
+  "schema_version": "1.0"
+}

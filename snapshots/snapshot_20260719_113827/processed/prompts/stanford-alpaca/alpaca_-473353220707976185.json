@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-473353220707976185",
+  "technique_name": "Create a function that takes a string and a number, and reverses the given string the number of times specified.",
+  "description": "def reverse_string(string, num): \n  for _ in range(num):\n    string = string[::-1]\n  return string \n\nreverse_string(\"Hello\", 3)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

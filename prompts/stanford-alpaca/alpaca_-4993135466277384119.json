@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4993135466277384119",
+  "technique_name": "Design a logic gate with the expression given.",
+  "description": "A B C  | Q\n0 0 0  | 0\n0 0 1  | 1 \n0 1 0  | 0\n0 1 1  | 1\n1 0 0  | 0\n1 0 1  | 1\n1 1 0  | 1 \n1 1 1  | 1 \nOR\nA + (B AND C)",
+  "example": "A AND B OR C",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

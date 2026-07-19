@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6955222272331808258",
+  "skill_name": "Generate a C++ code that prints out the numbers 0 to 9 using a loop construct.",
+  "workflow": "#include <iostream> \n  \nusing namespace std; \n  \nint main() \n{ \n    int i; \n  \n    // Using for loop to print 0 to 9 \n    for (i = 0; i < 10; i++) \n        cout << i << \"\\n\"; \n  \n    return 0; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

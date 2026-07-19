@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3750242546054795862",
+  "technique_name": "Write pseudocode to take input from a user and store it in a list.",
+  "description": "//Pseudocode\nlist = []\n\nwhile True:\n  input = get_input_from_user()\n  list.append(input)\n  response = ask_user_if_they_want_to_continue()\n  if response == 'no':\n    break",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4096446956884407160",
+  "skill_name": "Generate an algorithms that checks if a given string can be balanced.",
+  "workflow": "This algorithm takes a string as input. \n\n1. Create two counters, \"open\" and \"close\" to store the number of open (()) and closed ()) parenthesis in the given string.\n\n2. Iterate over the characters of the string and for every \"(\", increment the \"open\" counter, for every \")\" increment the \"close\" counter.\n\n3. After iterating over the characters, compare the values stored in both the counters. If the values are equal and greater than 0, then the string can be balanced, else the string cannot be ba",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

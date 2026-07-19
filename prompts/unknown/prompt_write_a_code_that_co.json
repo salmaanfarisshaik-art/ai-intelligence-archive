@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code that computes the sum of two integers, given their values as parameters.",
+  "input": "",
+  "output": "\"\"\"\nA function that computes the sum of two integers\n\"\"\"\n\ndef sum_numbers(a, b):\n    return a + b \n    \nif __name__ == \"__main__\": \n    a = int(input(\"Enter an integer: \"))\n    b = int(input(\"Enter another integer: \"))\n    print(\"The sum is:\", sum_numbers(a, b))",
+  "unique_id": "prompt_write_a_code_that_co",
+  "schema_version": "1.0"
+}

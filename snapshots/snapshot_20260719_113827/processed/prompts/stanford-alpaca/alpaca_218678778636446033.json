@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_218678778636446033",
+  "technique_name": "Write a Python script for sorting a list of integers in ascending order.",
+  "description": "def bubbleSort(arr): \n    n = len(arr) \n\n    # Traverse through all array elements \n    for i in range(n): \n\n        # Last i elements are already in place \n        for j in range(0, n-i-1): \n\n            # traverse the array from 0 to n-i-1 \n            # Swap if the element found is greater \n            # than the next element \n            if arr[j] > arr[j+1] : \n                arr[j], arr[j+1] = arr[j+1], arr[j] \n\n# Driver code to test above \narr = [64, 34, 25, 12, 22, 11, 90] \n\nbubbleSort(a",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

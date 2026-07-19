@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1416704677269247213",
+  "technique_name": "Build a calculator using HTML and JavaScript.",
+  "description": "The HTML code for the calculator would look like this:\n<form>\n  <input type=\"text\" id=\"calculator-screen\" disabled>\n</form>\n<button type=\"button\" id=\"zero\" onclick=\"addNum(0)\">0</button>\n<button type=\"button\" id=\"one\" onclick=\"addNum(1)\">1</button>\n<button type=\"button\" id=\"two\" onclick=\"addNum(2)\">2</button>\n<button type=\"button\" id=\"three\" onclick=\"addNum(3)\">3</button>\n<button type=\"button\" id=\"add\" onclick=\"calculate('+')\">+</button>\n<button type=\"button\" id=\"subtract\" onclick=\"calculate('-'",
+  "example": "Noinput",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2087817506448816464",
+  "technique_name": "Update the following database table with the given information.",
+  "description": "UPDATE USERS\nSET username=\"johndoe\", fullname=\"John Doe\"\nWHERE id=1;",
+  "example": "TABLE: USERS\nColumns: id, username, fullname \n\nData:\nid=1, username=\"johndoe\", fullname=\"John Doe\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

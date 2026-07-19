@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2912254145785616957",
+  "skill_name": "Describe an algorithm for finding the roots of a quadratic equation.",
+  "workflow": "An algorithm for finding the roots of a quadratic equation involves computing the values of the discriminant and then using the discriminant to determine the number of roots and their exact values. First, calculate the coefficients a, b, and c of the quadratic equation, ax^2 + bx + c = 0. Then, calculate the discriminant as b^2 - 4*a*c. If the discriminant is positive, then there are two roots. The two roots can be calculated using the formula x = (-b ± √(b^2 - 4*a*c))/2*a. If the discriminant i",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

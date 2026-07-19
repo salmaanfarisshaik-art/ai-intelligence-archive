@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a function, write its equivalent in recursive form.",
+  "input": "f(x) = 3x + 2",
+  "output": "f(x) = 3f(x - 1) + 2",
+  "unique_id": "prompt_given_a_function_wr",
+  "schema_version": "1.0"
+}

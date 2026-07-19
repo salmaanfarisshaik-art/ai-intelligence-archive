@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1672834806345472003",
+  "technique_name": "Describe the purpose of threadpools in Java.",
+  "description": "A thread pool is a collection of threads that are used to execute tasks. Thread pools allow multiple tasks to be executed concurrently, and they can improve application performance by expanding the number of available threads. Thread pools also help reduce resource contention and optimize thread utilization by managing and reusing threads. In Java, thread pools are created through the java.util.concurrent.Executors class, which allows tasks to be scheduled and managed.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

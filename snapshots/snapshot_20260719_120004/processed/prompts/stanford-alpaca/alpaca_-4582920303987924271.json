@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4582920303987924271",
+  "technique_name": "Write a PHP function that accepts two strings and returns the number of characters in common between the two strings.",
+  "description": "function commonCharCount($str1, $str2) {\n    $str1_arr = str_split($str1);\n    $str2_arr = str_split($str2);\n    $intersect = array_intersect($str1_arr, $str2_arr);\n    return count($intersect);\n}",
+  "example": "String 1: \"hello world\"\nString 2: \"goodbye world\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

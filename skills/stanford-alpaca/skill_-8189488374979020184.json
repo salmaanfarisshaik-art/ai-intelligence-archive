@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8189488374979020184",
+  "skill_name": "Given two strings, A and B, write a program to determine whether the two strings are anagrams.",
+  "workflow": "def isAnagram(str1, str2): \n    # Getting length of both strings \n    n1 = len(str1) \n    n2 = len(str2) \n  \n    # Sorting both strings to make sure they have same letters \n    str1 = sorted(str1) \n    str2 = sorted(str2) \n  \n    # Comparing sorted strings \n    for i in range(0, n1): \n        if (str1[i] != str2[i]): \n            return False\n  \n    return True\n\n# Driver function \nStringA = \"rat\"\nStringB = \"tar\"\n\nif isAnagram(StringA, StringB): \n    print(\"Yes\")\nelse: \n    print(\"No\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

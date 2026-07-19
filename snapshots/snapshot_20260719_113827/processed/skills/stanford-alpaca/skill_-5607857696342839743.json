@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5607857696342839743",
+  "skill_name": "Create an algorithm to determine if an integer is palindrome or not.",
+  "workflow": "def palindromeCheck(x): \n    # Initialize reverse of number\n    rev = 0 \n    # Copy the original number \n    num = x \n    while (num > 0): \n        # Compute reverse \n        rev = rev * 10 + num % 10 \n        # Decrement the original number \n        num = num // 10 \n    # Check if original and reverse number is equal or not\n    return (x == rev)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

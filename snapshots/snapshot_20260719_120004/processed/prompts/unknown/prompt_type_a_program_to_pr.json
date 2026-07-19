@@ -1,0 +1,7 @@
+{
+  "instruction": "Type a program to print the first 10 Fibonacci numbers.",
+  "input": "none",
+  "output": "a = 0\nb = 1\n \nprint(a, end = ' ')\nprint(b, end = ' ')\n \nfor i in range(2, 11):\n    c = a + b\n    print(c, end = ' ')\n    a = b\n    b = c",
+  "unique_id": "prompt_type_a_program_to_pr",
+  "schema_version": "1.0"
+}

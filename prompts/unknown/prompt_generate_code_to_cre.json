@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate code to create an array of numbers from 1 to 100",
+  "input": "",
+  "output": "int[] array = new int[100]; \nfor(int i = 0; i < array.length; i++) {\n   array[i] = i+1;\n}",
+  "unique_id": "prompt_generate_code_to_cre",
+  "schema_version": "1.0"
+}

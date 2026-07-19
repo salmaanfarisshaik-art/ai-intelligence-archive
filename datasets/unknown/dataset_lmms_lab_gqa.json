@@ -1,0 +1,29 @@
+{
+  "_id": "658ad0f4438d7b1ccf7e8681",
+  "id": "lmms-lab/GQA",
+  "author": "lmms-lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-03-08T05:02:22.000Z",
+  "likes": 33,
+  "private": false,
+  "sha": "a6e72d6e1b912da88af8b2f9eba05d5ea8ec2dd8",
+  "description": "\n\n\n\n\n\t\n\t\t\n\t\tLarge-scale Multi-modality Models Evaluation Suite\n\t\n\n\nAccelerating the development of large-scale multi-modality models (LMMs) with lmms-eval\n\n🏠 Homepage | 📚 Documentation | 🤗 Huggingface Datasets\n\n\t\n\t\t\n\t\tThis Dataset\n\t\n\nThis is a formatted version of GQA. It is used in our lmms-eval pipeline to allow for one-click evaluations of large multi-modality models.\n@inproceedings{hudson2019gqa,\n  title={Gqa: A new dataset for real-world visual reasoning and compositional question… See the full description on the dataset page: https://huggingface.co/datasets/lmms-lab/GQA.",
+  "downloads": 39110,
+  "tags": [
+    "license:mit",
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2023-12-26T13:11:16.000Z",
+  "key": "",
+  "unique_id": "dataset_lmms_lab_gqa",
+  "schema_version": "1.0"
+}

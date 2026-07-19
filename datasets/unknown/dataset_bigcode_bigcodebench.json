@@ -1,0 +1,33 @@
+{
+  "_id": "66601bbf8a73e7a3eb8efc68",
+  "id": "bigcode/bigcodebench",
+  "author": "bigcode",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-30T17:34:50.000Z",
+  "likes": 85,
+  "private": false,
+  "sha": "b74c0d0bf70d2c0bc459be537895cca163007f1a",
+  "description": "\n\t\n\t\t\n\t\tBigCodeBench\n\t\n\n\n\n\n\nThe dataset has 2 variants: \n\nBigCodeBench-Complete: Code Completion based on the structured docstrings.\n BigCodeBench-Instruct: Code Generation based on the NL-oriented instructions.\n\nThe overall statistics of the dataset are as follows:\n\n\t\n\t\t\n\nComplete\nInstruct\n\n\n\t\t\n# Task\n1140\n1140\n\n\n# Avg. Test Cases\n5.6\n5.6\n\n\n# Avg. Coverage\n99%\n99%\n\n\n# Avg. Prompt Char.\n1112.5\n663.2\n\n\n# Avg. Prompt Line\n33.5\n11.7\n\n# Avg. Prompt Char. (Code)\n1112.5\n124.0\n\n\n# Avg. Solution Char.… See the full description on the dataset page: https://huggingface.co/datasets/bigcode/bigcodebench.",
+  "downloads": 46029,
+  "tags": [
+    "language_creators:expert-generated",
+    "language:code",
+    "license:apache-2.0",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2406.15877",
+    "region:us",
+    "croissant",
+    "code"
+  ],
+  "createdAt": "2024-06-05T08:03:11.000Z",
+  "key": "",
+  "unique_id": "dataset_bigcode_bigcodebench",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8005938408223078395",
+  "technique_name": "Design a classification algorithm to detect a message as spam or ham.",
+  "description": "The algorithm should first check the content of a message for any offensive or inappropriate language, or for language related to financial, legal or health advice. If the message contains any of this, it should be classified as spam. The algorithm can also use common spam signal words such as 'offer', 'discount', and 'free' to classify a message as spam. In addition, the algorithm should check for abnormal syntax and long URLs, as these are also common features of spam messages. Finally, the al",
+  "example": "No input",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

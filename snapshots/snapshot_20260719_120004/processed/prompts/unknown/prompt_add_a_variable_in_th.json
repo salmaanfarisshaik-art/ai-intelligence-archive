@@ -1,0 +1,7 @@
+{
+  "instruction": "Add a variable in the code to store a user's name.",
+  "input": "def greet_to():\n    print(\"Hello!\")",
+  "output": "def greet_to(name):\n    name = str(name)\n    print(\"Hello, \" + name + \"!\")",
+  "unique_id": "prompt_add_a_variable_in_th",
+  "schema_version": "1.0"
+}

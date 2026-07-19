@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8116551319307184892",
+  "technique_name": "Specify an algorithm to find the maximum sum in a given array.",
+  "description": "A simple solution is to traverse the array and keep track of the maximum sum encountered so far. This can be done using the following approach: \nIterate through the array and for each element, update the maximum sum encountered so far.\n\nAt any point, the maximum sum encountered so far is either the element itself or the sum of the previous maximum sum and the current element.\n\nThus, the algorithm can be recursively defined as follows: \nmaxSum(i) = max(arr[i], maxSum(i-1)+arr[i])\n\nWhere maxSum(i)",
+  "example": "[1,2,3,4]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

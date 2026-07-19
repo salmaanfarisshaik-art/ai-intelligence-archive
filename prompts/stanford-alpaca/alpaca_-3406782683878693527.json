@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3406782683878693527",
+  "technique_name": "Generate an algorithm for facial recognition.",
+  "description": "def facialRecognition(img): \n    # Perform face detection \n    faces = detectFaces(img) \n\n    # For each face in the image\n    for face in faces: \n        # Extract facial features\n        features = extractFeatures(face)\n\n        # Compare facial features to a database of known facial features\n        matches = compareFeatures(features)\n\n        # Identify the closest matching face\n        identifiedFace = identify(matches)\n\n        # Return the identified face\n        return identifiedFace",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

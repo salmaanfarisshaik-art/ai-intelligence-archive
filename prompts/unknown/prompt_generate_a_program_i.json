@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a program in python that prints out the first 10 numbers of the Fibonacci series.",
+  "input": "",
+  "output": "numbers = [0,1]\n\nfor i in range(2,10):\n  numbers.append(numbers[i-2] + numbers[i-1])\n\nprint(numbers)",
+  "unique_id": "prompt_generate_a_program_i",
+  "schema_version": "1.0"
+}

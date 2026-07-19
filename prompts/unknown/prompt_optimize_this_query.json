@@ -1,0 +1,7 @@
+{
+  "instruction": "Optimize this query for maximum recall:",
+  "input": "SELECT * FROM  table WHERE column1 = \"value1\"",
+  "output": "SELECT * FROM  table WHERE column1 LIKE \"%value1%\"",
+  "unique_id": "prompt_optimize_this_query",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7433846190042717708",
+  "technique_name": "What is the purpose of iterative deepening in a depth-first search algorithm?",
+  "description": "The purpose of iterative deepening in a depth-first search algorithm is to find optimal solutions in cases where the search space is too large to search in its entirety. It works by performing a depth-limited search, starting with a shallow depth level and slowly increasing the depth level until a solution is found. This process is repeated until the search space has been completely explored. Iterative deepening is an efficient way of performing depth-first search, as it ensures that no possible",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

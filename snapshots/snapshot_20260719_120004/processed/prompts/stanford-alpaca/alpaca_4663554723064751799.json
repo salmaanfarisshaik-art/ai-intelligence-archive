@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4663554723064751799",
+  "technique_name": "Write a C program to calculate the sum of all elements in a given array.",
+  "description": "#include<stdio.h>\n\nint main()\n{\n\tint array[] = {2, 4, 3, 7, 5};\n\tint sum = 0, i;\n\t\n\tfor (i = 0; i < 5; i++) {\n\t\tsum += array[i];\n\t}\n\t\n\tprintf(\"Sum of all elements in the array = %d\", sum);\n\t\n\treturn 0;\n}",
+  "example": "array = {2, 4, 3, 7, 5}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

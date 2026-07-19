@@ -1,0 +1,7 @@
+{
+  "instruction": "Encode a text into a numerical representation.",
+  "input": "Text: The cat is running.",
+  "output": "The numerical representation of the text, \"The cat is running\" is [3, 10, 0, 4, 5, 2, 4, 6]. The encoding scheme used is a 0-indexed counting scheme, where eachword is assigned a numerical representation based on its index in the text. In this example, \"The\" is 0, \"cat\" is 1, \"is\" is 2, and so on.",
+  "unique_id": "prompt_encode_a_text_into_a",
+  "schema_version": "1.0"
+}

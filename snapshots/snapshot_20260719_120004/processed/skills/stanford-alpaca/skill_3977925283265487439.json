@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3977925283265487439",
+  "skill_name": "Explain how to use the Fermat's Little Theorem.",
+  "workflow": "Fermat's Little Theorem states that if p is a prime number, then for any integer a, the number a^p - a is an integer multiple of p (a^p = a (mod p)). This theorem can be used in cryptography today to test whether a given number is prime or not. In order to use Fermat's Little Theorem, one must select a number a randomly and test whether a^(p-1) - 1 is divisible by p. If yes, then the given number is most likely prime.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

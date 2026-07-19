@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3002984557917443813",
+  "technique_name": "Write a short program to print out the Fibonacci sequence up to the number specified by the user.",
+  "description": "def print_fibonacci(n): \n    a = 0\n    b = 1\n \n     print(\"Fibonacci Sequence:\")\n    while a < n:\n        print(a)\n        c = a + b\n        a = b\n        b = c\n\nn = int(input(\"Enter a number:\"))\nprint_fibonacci(n)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

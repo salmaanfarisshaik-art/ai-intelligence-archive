@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1458949024115749024",
+  "technique_name": "Merge the two lists below into a list of tuples",
+  "description": "tuples_list = list(zip(list1, list2))\nprint(tuples_list) # prints [(\"apple\", \"red\"), (\"orange\", \"green\"), (\"banana\", \"yellow\")]",
+  "example": "list1 = [\"apple\",\"orange\",\"banana\"]\nlist2 = [\"red\", \"green\", \"yellow\"]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

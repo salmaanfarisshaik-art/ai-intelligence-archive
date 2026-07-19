@@ -1,0 +1,28 @@
+{
+  "_id": "6a3aabd76f2d852bfd70ce3a",
+  "id": "hkustenterprize/RM26_engineer_exchange",
+  "author": "hkustenterprize",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-06-24T10:51:24.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "5fa952938dc356295f47d9a62b38ede239f925cd",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tdataset_finalversion\n\t\n\nRoboMaster 2026 工程机器人 装配柱 (pillar) 与 兑换站 (exchange) 合成图像关键点数据集，Ultralytics YOLO Pose 标注格式。\n\n\t\n\t\t\n划分\n图像数\n标签文件数\n\n\n\t\t\ntrain\n40,860\n40,860\n\n\nval\n4,540\n4,540\n\n\n合计\n45,400\n45,400\n\n\n\t\n\n每张图 1 个 .jpg 对应 1 个同名 .txt；约 90% / 10% 划分。\n\n\t\n\t\t\n\t\n\t\n\t\t目录结构\n\t\n\ndataset_finalversion/\n├── dataset.yaml          # 类别、关键点名、flip_idx、kpt_shape\n├── README.md\n├── images/\n│   ├── train/*.jpg\n│   └── val/*.jpg\n└── labels/\n    ├── train/*.txt       # stem 与 images 一致\n    └── val/*.txt… See the full description on the dataset page: https://huggingface.co/datasets/hkustenterprize/RM26_engineer_exchange.",
+  "downloads": 24097,
+  "tags": [
+    "task_categories:object-detection",
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:10K<n<100K",
+    "modality:image",
+    "modality:text",
+    "region:us",
+    "robomaster",
+    "yolo"
+  ],
+  "createdAt": "2026-06-23T15:52:55.000Z",
+  "key": "",
+  "unique_id": "dataset_hkustenterprize_rm26_engineer_exchange",
+  "schema_version": "1.0"
+}

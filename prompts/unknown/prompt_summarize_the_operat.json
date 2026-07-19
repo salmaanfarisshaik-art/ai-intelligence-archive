@@ -1,0 +1,7 @@
+{
+  "instruction": "Summarize the operation of a quicksort algorithm",
+  "input": "",
+  "output": "Quicksort is a divide-and-conquer algorithm that recursively sorts a list of elements. It begins by selecting a pivot element, which divides the list into two partitions, then recursively sorts the sub-partitions by repeating the process until the list is fully sorted. Quicksort is efficient in practice and can be most easily implemented with an in-place partitioning algorithm, so it has good space complexity.",
+  "unique_id": "prompt_summarize_the_operat",
+  "schema_version": "1.0"
+}

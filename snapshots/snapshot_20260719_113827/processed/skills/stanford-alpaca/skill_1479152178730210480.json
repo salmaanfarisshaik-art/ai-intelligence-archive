@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1479152178730210480",
+  "skill_name": "Design a database schema for a library that tracks book lending.",
+  "workflow": "The database should have a Books table that contains information such as book title, author, ISBN, etc. It should also have a Borrowers table that contains borrower information such as name, address, and phone number. The main table should be a Loans table that links each book with a borrower. The Loans table should also contain information such as loan date and return date.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

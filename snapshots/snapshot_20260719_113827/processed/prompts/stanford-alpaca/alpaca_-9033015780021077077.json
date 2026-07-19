@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-9033015780021077077",
+  "technique_name": "Write pseudocode for a Merge Sort algorithm.",
+  "description": "MergeSort(A, startIndex, endIndex):\n    // If there is only one element in the array, return\n    if startIndex == endIndex:\n        return\n\n    middleIndex = (startIndex + endIndex) / 2\n\n    // Sort the left half of the array\n    MergeSort(A, startIndex, middleIndex)\n\n    // Sort the right half of the array\n    MergeSort(A, middleIndex + 1, endIndex)\n\n    // Merge the two sorted arrays\n    Merge(A, startIndex, endIndex)\n\nMerge(A, startIndex, endIndex):\n    middleIndex = (startIndex + endIndex) /",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

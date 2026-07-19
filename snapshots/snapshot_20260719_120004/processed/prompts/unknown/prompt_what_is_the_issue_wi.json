@@ -1,0 +1,7 @@
+{
+  "instruction": "What is the issue with the following line of code?",
+  "input": "`int x = \"hello\";`",
+  "output": "The issue with the above line of code is that it is trying to assign a string \"hello\" to an int variable, which is an invalid operation.",
+  "unique_id": "prompt_what_is_the_issue_wi",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.15241v1",
+  "schema_version": "1.0",
+  "name": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.15241v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.15241v1",
+    "updated": "2026-07-16T17:38:19Z",
+    "published": "2026-07-16T17:38:19Z",
+    "title": "Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA",
+    "summary": "Healthcare multimodal AI must combine visual and textual evidence while remaining reliable and interpretable. Using MediaEval Medico 2025 as a retrospective GI endoscopy case study, we analyze design choices across nine documented systems for question answering and explanation quality. Parameter-efficient adaptation of pretrained backbones provides strong challenge performance, but answer-level gains do not consistently translate into faithful and complete clinical reasoning. Methods enforcing structured reasoning and explicit grounding show more reliable behavior across heterogeneous question types, although the evidence is correlational rather than ablation-based. These results motivate evaluation beyond lexical overlap, standardized evidence-linked explanations, leakage-aware data governance, and lightweight robustness and calibration checks. The findings support trustworthy multimodal healthcare AI based on data fusion, explainability, and resilient evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T17:38:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.15241v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

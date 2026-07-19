@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a valid database query from the following parameters.",
+  "input": "SELECT * FROM Customers WHERE Country=\"USA\";",
+  "output": "SELECT * FROM Customers WHERE Country=\"USA\";",
+  "unique_id": "prompt_construct_a_valid_da",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3151961738730897128",
+  "technique_name": "Write a query that returns the average salary of employees in each department.",
+  "description": "SELECT d.name, AVG(e.salary) AS average_salary\nFROM departments d LEFT JOIN employees e ON d.id = e.department_id \nGROUP BY d.name;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

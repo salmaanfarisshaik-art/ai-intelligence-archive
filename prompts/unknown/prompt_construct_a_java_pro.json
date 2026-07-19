@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a Java program that asks a user to enter their name and age and prints out a greeting message.",
+  "input": "",
+  "output": "import java.util.Scanner;\n\npublic class GreetingMessage {\n  public static void main(String[] args) {\n    Scanner scanner = new Scanner(System.in);\n    \n    System.out.println(\"Please enter your name:\");\n    String name = scanner.nextLine();\n    \n    System.out.println(\"Please enter your age:\");\n    int age = Integer.parseInt(scanner.nextLine());\n    \n    System.out.println(\"Hello \" + name + \"! It's great to see you at the age of \" + age + \".\");\n  }\n  \n}",
+  "unique_id": "prompt_construct_a_java_pro",
+  "schema_version": "1.0"
+}

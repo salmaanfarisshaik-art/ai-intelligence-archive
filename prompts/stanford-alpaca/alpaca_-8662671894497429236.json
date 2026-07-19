@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8662671894497429236",
+  "technique_name": "Given the following code, explain what it does in layman’s terms.",
+  "description": "This code is a simple encryption function that takes a given string and a key as inputs. It then uses a loop to iterate through the characters of the message one by one. For each character, it adds the key to its ASCII value, resulting in a new character that is shifted by the key number of letters in the alphabet. The resulting encrypted message is then returned.",
+  "example": "def encrypt(message, key):\n  encrypted_message = \"\"\n  for i in range(len(message)):\n    encrypted_message += chr(ord(message[i]) + key)\n \n  return encrypted_message",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

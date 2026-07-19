@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6221735967871679710",
+  "technique_name": "Create an algorithm that can detect outliers in a list of numbers.",
+  "description": "This algorithm should employ a statistical approach for detecting outliers in a list of numbers. First, it should calculate the mean and standard deviation of the dataset. Then, the algorithm should loop through each element in the list, calculating the difference between each element and the mean. If the difference is greater than two standard deviations away, then that element can be marked as an outlier. This algorithm should also be able to detect outliers which don't necessarily follow the ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

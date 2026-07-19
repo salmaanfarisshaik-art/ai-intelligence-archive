@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3547843741919933716",
+  "technique_name": "Create a program to predict whether an email is spam given its text.",
+  "description": "I would create a program that takes in the text of an email and outputs a binary result (1 for spam and 0 for not spam). The program would use natural language processing to preprocess the text of the email and extract features from it. Then, it would use a supervised learning algorithm (e.g. logistic regression or SVM) to train a model on the extracted features. The model would be able to predict whether a given email is spam or not. The program would have a built-in accuracy metric to measure ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

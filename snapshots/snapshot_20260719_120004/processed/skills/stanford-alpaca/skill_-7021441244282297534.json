@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7021441244282297534",
+  "skill_name": "Generate a script to make a pie chart from the given data.",
+  "workflow": "import matplotlib.pyplot as plt\n\nlabels = ['Small Business', 'Medium Business', 'Large Business']\nvalues = [15, 25, 60]\n\nplt.pie(values, labels=labels, autopct='%1.1f%%')\nplt.show()",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8272666141234452672",
+  "technique_name": "Assist in debugging a Python script.",
+  "description": "There is a syntax error in the third line, the \":\" should be removed. So the correct code should be as follows:\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2])\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)",
+  "example": "The script takes two arguments, the required number of players in the game and the number of games played. It then produces a statement to report on the average number of players.\n\nimport sys\n \nif len(sys.argv) == 3:\n    players = int(sys.argv[1])\n    games = int(sys.argv[2]):\n\naverage = str( players / games)\nprint(\"The average number of players was: \" + average)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

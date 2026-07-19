@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9133054716540004385",
+  "skill_name": "Generate a Python program to print the sum of first 25 natural numbers",
+  "workflow": "sum = 0\nfor i in range(1,26):\n  sum = sum + i\n\nprint(\"The sum of the first 25 natural numbers is:\", sum)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

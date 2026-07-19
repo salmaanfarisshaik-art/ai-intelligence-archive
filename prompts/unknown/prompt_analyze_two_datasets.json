@@ -1,0 +1,7 @@
+{
+  "instruction": "Analyze two datasets and develop an algorithm to classify them.",
+  "input": "Datasets: \nDataset A: Data of students' performance in past exams\nDataset B: Data of students' performance in current exams",
+  "output": "The algorithm should analyze both datasets, collect features such as test scores and class attendance records, and compare them to each other. If a student's scores in the current exam is higher than their scores in past exams, then the algorithm should classify them as “improved”. If a student's scores in the current exam is lower than their scores in past exams, then the algorithm should classify them as “deteriorated”. Furthermore, if the scores in the current exam are exactly the same as the scores in the past exam, then the algorithm should classify them as “same”.",
+  "unique_id": "prompt_analyze_two_datasets",
+  "schema_version": "1.0"
+}

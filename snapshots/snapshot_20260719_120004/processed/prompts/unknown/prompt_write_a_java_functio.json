@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a Java function which takes in a list and a string and returns true if the string is contained in the list, otherwise false.",
+  "input": "list: [“apple”, “banana”, “pear”], string: “pear”",
+  "output": "public boolean containsString(List<String> list, String s) { \n    return list.contains(s); \n}",
+  "unique_id": "prompt_write_a_java_functio",
+  "schema_version": "1.0"
+}

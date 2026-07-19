@@ -1,0 +1,7 @@
+{
+  "instruction": "Prove the associative law of addition for real numbers.",
+  "input": "",
+  "output": "Let a, b and c be real numbers.\n\n(a + b) + c = a + (b + c) \n\nWe will prove this using mathematical induction.\n\nBase Case:\n\nWhen n = 2, (a + b) + c = a + (b + c)\n\nLet (a + b) = x ⇒ a + b + c = x + c ⇒ (a + b) + c = a + (b + c) \n\nInductive Step:\n\nAssume that (a + b) + c = a + (b + c) for n = k, where k ≥ 2.\n\nLet (a + b) = x ⇒ a + b + c = x + c \n\nLet (x + c) = y ⇒ (a + b) + c = y \n\nSimilarly, a + (b + c) = y  ⇒ (a + b) + c = a + (b + c)\n\nTherefore, for all real numbers a, b and c, (a + b) + c = a + (b + c).",
+  "unique_id": "prompt_prove_the_associativ",
+  "schema_version": "1.0"
+}

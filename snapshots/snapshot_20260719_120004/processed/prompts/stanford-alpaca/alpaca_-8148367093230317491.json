@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8148367093230317491",
+  "technique_name": "Write a function in Python to compare two strings.",
+  "description": "def compare_strings(s1, s2):\n  # Compare two strings and return a boolean value\n  if s1 == s2:\n    return True\n  else:\n    return False\n\n# Test case\nstring1 = 'apple'\nstring2 = 'orange'\n\nresult = compare_strings(string1, string2)\nprint(result)",
+  "example": "The two strings are 'apple' and 'orange'.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

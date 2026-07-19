@@ -1,0 +1,7 @@
+{
+  "instruction": "Show how to use the modulo operator (%) to loop over an array of size 3",
+  "input": "",
+  "output": "for(let i=0; i<array.length; i++){\n    if(i % 3 === 0) {\n        // do something\n    }\n}",
+  "unique_id": "prompt_show_how_to_use_the",
+  "schema_version": "1.0"
+}

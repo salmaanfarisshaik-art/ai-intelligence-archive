@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a algorithm to sort a given list of three colors.",
+  "input": "colors = ['white', 'red', 'blue']",
+  "output": "def sort_colors(colors):\n     \"\"\"This function sorts a given list of colors according to their RGB values.\n     \n     Arguments:\n         colors {list} -- A list of colors\n     \n     Returns:\n         list -- The colors sorted according to their RGB values\n     \"\"\"\n     colors.sort(key=lambda color: (color[0], color[2], color[1])) \n     return colors",
+  "unique_id": "prompt_generate_a_algorithm",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2638894842309661300",
+  "technique_name": "Generate heatmap visualization for the given dataset comparing the time spent studying for 3 different exams.",
+  "description": "<noinput>\n\nThis heatmap visualization compares the time spent studying for 3 different exams. Exam 1 is represented by the color green, Exam 2 by yellow, and Exam 3 by red. The darker the shading, the more time was spent studying for that exam. \n\n[Heatmap Visualisation] \n[Exam 1 - Green| Exam 2 - Yellow| Exam 3 - Red] \n 0 - 1 hours   |  0 - 1 hours  | 0 - 1 hours   \n  1 - 2 hours  |  1 - 2 hours  |  1 - 2 hours   \n  2 - 3 hours  |  2 - 3 hours  |  2 - 3 hours   \n  3 - 4 hours  |  3 - 4 hours  | ",
+  "example": "Exam 1: 3 hours\nExam 2: 5 hours\nExam 3: 6 hours",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

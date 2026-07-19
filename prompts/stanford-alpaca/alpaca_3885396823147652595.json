@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3885396823147652595",
+  "technique_name": "Create a class for a computer programming language.",
+  "description": "class Program {\n    private String language;\n    private int numLines;\n    private List<String> commands;\n    \n    public Program(String language) {\n        this.language = language;\n        this.numLines = 0;\n        this.commands = new ArrayList<>();\n    }\n    \n    public void addLine(String command) {\n        this.commands.add(command);\n        this.numLines++;\n    }\n    \n    public List<String> getCommands() {\n        return this.commands;\n    }\n    \n    public int getNumLines() {\n        re",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

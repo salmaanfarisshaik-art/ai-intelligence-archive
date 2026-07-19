@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4960374692183936400",
+  "technique_name": "Construct a query to find the top 10 most populous countries in the world.",
+  "description": "SELECT * FROM countries ORDER BY population DESC LIMIT 10;\n\nThis query will select all the columns from the table of countries and will order the results by population in descending order. The LIMIT statement at the end will limit the results to the top 10 most populous countries in the world.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

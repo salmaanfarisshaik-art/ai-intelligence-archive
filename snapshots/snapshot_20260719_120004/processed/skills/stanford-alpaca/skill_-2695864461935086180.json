@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2695864461935086180",
+  "skill_name": "Implement a class in Python",
+  "workflow": "class Animal:\n    def __init__(self, name, age, species):\n        self.name = name\n        self.age = age\n        self.species = species\n   \n    def get_name(self):\n        return self.name\n    \n    def get_age(self):\n        return self.age\n\n    def get_species(self):\n        return self.species",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

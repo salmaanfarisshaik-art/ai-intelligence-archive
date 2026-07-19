@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7830035409199496624",
+  "skill_name": "List 5 errors in the following code and suggest solutions.",
+  "workflow": "1. The loop should be changed from 'for (i=0; i<50; i++);' to 'for (i=0; i<50; i++)'.\n2. The variable 'total' has not been initialized to a value before the loop. It should be initialized to 0 before the loop.\n3. The variable 'i' is not declared before the loop. It should be declared before the loop.\n4. The increment operator '++' is missing in the loop. It should be added after 'i'.\n5. The operator '+=' is missing before 'total'. It should be added before 'total'. The code should be 'total += i",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "68019021bd3257c552c6a4fa",
+  "id": "FLARE-MedFM/FLARE-Task4-MRI-FM",
+  "author": "FLARE-MedFM",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2025-07-03T21:55:29.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "df68997036179a0c3737c251dfd72dfca4fbb566",
+  "description": "\n\t\n\t\t\n\t\tMICCAI FLARE25\n\t\n\n\n\t\n\t\t\n\t\tTask 4: Foundation Models for 3D CT and MRI Scans (Homepage)\n\t\n\nThis is the official dataset for MRI image foundation model development. We provide 10,000+ MRI scans for model pretraining. \nDownstream tasks include:\n\nLiver tumor segmentation: ATLAS23_liver_tumor_seg\nCardiac tissue and pathology segmentation: EMIDEC_heart_seg_and_class\nHeart myocardial status classification (binary label: pathological vs normal): EMIDEC_heart_seg_and_class\nAutism Diagnosis:… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/FLARE-Task4-MRI-FM.",
+  "downloads": 29761,
+  "tags": [
+    "task_categories:image-classification",
+    "task_categories:image-segmentation",
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "region:us",
+    "medical"
+  ],
+  "createdAt": "2025-04-17T23:34:57.000Z",
+  "key": "",
+  "unique_id": "dataset_flare_medfm_flare_task4_mri_fm",
+  "schema_version": "1.0"
+}

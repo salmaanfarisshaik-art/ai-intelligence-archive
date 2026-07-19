@@ -1,0 +1,7 @@
+{
+  "instruction": "Write the method for finding the area of a circle.",
+  "input": "",
+  "output": "def area_of_circle(radius): \n    \"\"\" Computes the area of a circle with given radius. \n      \n    Args: \n        radius (float): The radius of the circle \n      \n    Returns: \n        float: The calculated area of the circle \n    \"\"\"\n    area = 3.14 * (radius**2) \n    return area",
+  "unique_id": "prompt_write_the_method_for",
+  "schema_version": "1.0"
+}

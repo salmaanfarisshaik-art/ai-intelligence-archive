@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5408692832698442503",
+  "skill_name": "Describe the kind of artificial neural network architecture that was used in the AlphaGo Zero algorithm.",
+  "workflow": "The AlphaGo Zero algorithm uses a deep convolutional neural network (CNN) for the reinforcement learning architecture. The neural network consists of multiple layers of neurons, with each layer connected to the succeeding and preceding layer. The network is split into two parts, a policy network and a value network. The policy network is used to predict the probability of a given action and the value network is used to predict the expected outcome of a given move.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

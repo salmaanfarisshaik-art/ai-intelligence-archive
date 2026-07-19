@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7002876080532084941",
+  "skill_name": "Write the code for swapping two elements in a given array.",
+  "workflow": "```\ndef swapTwoElements(arr, i, j):\n  temp = arr[i]\n  arr[i] = arr[j]\n  arr[j] = temp\n```",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

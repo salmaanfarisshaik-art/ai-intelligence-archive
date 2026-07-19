@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1999844516310312087",
+  "technique_name": "Suppose you are writing a program for an item catalog. Model a\nclass for that purpose.",
+  "description": "class ItemCatalog:\n    def __init__(self, name, price, description, category, quantity):\n        self.name = name\n        self.price = price\n        self.description = description\n        self.category = category\n        self.quantity = quantity\n    \n    def update_item(self, name, price, description):\n        self.name = name\n        self.price = price\n        self.description = description\n    \n    def update_quantity(self, quantity):\n        self.quantity = quantity\n    \n    def get_item_info",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Trace the program given the following snippet",
+  "input": "def add_three(x):\n    return x + 3\n\nresult = add_three(4)",
+  "output": "The program will assign the value 7 to the \"result\" variable.",
+  "unique_id": "prompt_trace_the_program_gi",
+  "schema_version": "1.0"
+}

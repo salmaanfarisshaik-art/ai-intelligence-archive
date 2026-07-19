@@ -1,0 +1,7 @@
+{
+  "instruction": "Find and remove faulty emails from the given group of email addresses.\nOutput the emails that are clean directly.",
+  "input": "a@d.co\nb@d.co\nc@x.co\nd@x.co\n1@d.co\n.@d.co\n@.co\nf@w.co,",
+  "output": "a@d.co\nb@d.co\nc@x.co\nd@x.co\nf@w.co",
+  "unique_id": "prompt_find_and_remove_faul",
+  "schema_version": "1.0"
+}

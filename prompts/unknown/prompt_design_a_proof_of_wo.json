@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a proof-of-work system",
+  "input": "",
+  "output": "A proof-of-work system consists of a client submitting a challenge (i.e. a mathematical problem) to the server. The server then randomly generates a nonce (i.e. an arbitrary number used only once) and hashes the challenge along with the nonce. The server then checks if the resulting hash meets certain requirements. If it does, the system accepts the solution as a valid answer.",
+  "unique_id": "prompt_design_a_proof_of_wo",
+  "schema_version": "1.0"
+}

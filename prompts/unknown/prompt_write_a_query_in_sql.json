@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query in SQL that sums up the total number of books in the database.",
+  "input": "Table name: books\nTable column: number_of_books",
+  "output": "SELECT SUM(number_of_books) FROM books;",
+  "unique_id": "prompt_write_a_query_in_sql",
+  "schema_version": "1.0"
+}

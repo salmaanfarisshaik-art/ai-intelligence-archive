@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a potential attack vector that exploits the vulnerability.",
+  "input": "The system is vulnerable to a SQL injection attack.",
+  "output": "A possible attack vector is to inject malicious SQL code into an input field in order to bypass authentication and gain access to the server's data. In particular, the attacker could try to inject code that allows them to run unauthorized queries or create new users with elevated privileges.",
+  "unique_id": "prompt_construct_a_potentia",
+  "schema_version": "1.0"
+}

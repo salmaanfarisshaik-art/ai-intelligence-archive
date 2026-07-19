@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6712562591395154812",
+  "technique_name": "Come up with an algorithm to multiply two given numbers.",
+  "description": "def multiply(num1, num2):\n  result = 0\n  for i in range(num1):\n    result = result + num2\n  return result",
+  "example": "9, 5",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

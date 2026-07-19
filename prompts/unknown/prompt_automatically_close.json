@@ -1,0 +1,7 @@
+{
+  "instruction": "Automatically close tags with inconsistent case in the following HTML snippet.",
+  "input": "<b><IMG src=\"image.png\">",
+  "output": "<b><IMG src=\"image.png\" /></b>",
+  "unique_id": "prompt_automatically_close",
+  "schema_version": "1.0"
+}

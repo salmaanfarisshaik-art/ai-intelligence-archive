@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5437214250506750001",
+  "technique_name": "Write a code to output the next largest prime number of a given number",
+  "description": "def nextLargestPrime(num):\n    #Increment the number by one\n    num += 1\n\n    #Loop until largest prime number is found\n    while not isPrime(num):\n        num += 1\n\n    #Return the largest prime found\n    return num",
+  "example": "num = 16",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

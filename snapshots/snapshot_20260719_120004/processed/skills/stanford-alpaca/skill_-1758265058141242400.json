@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1758265058141242400",
+  "skill_name": "Design an algorithm to identify a person's age from their date of birth.",
+  "workflow": "Step 1: Get the date of birth from the user.\n\nStep 2: Calculate the current year.\n\nStep 3: Calculate the difference between the current year and the year of birth.\n\nStep 4: Add 1 to the difference if the current month is lower than the month of birth.\n\nStep 5: If the current day is lower than the day of birth, then subtract 1 from the difference.\n\nStep 6: The difference is the age of the person.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2621581791099755841",
+  "technique_name": "Write an algorithm that takes a list of strings as input and returns a list of strings that contain two or more words.",
+  "description": "def two_words(string_list): \n  result = [] \n  for s in string_list: \n    if len(s.split()) >= 2: \n      result.append(s) \n  return result \n\nstring_list = [\"one\",\"two\",\"three\",\"four\"]\n\nprint(two_words(string_list))\n# Output: [\"two\", \"three\", \"four\"]",
+  "example": "[“one”, “two”, “three”, “four”]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

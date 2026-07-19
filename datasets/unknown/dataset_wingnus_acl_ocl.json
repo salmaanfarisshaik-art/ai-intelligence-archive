@@ -1,0 +1,30 @@
+{
+  "_id": "6374015cc3b104ef17a000f2",
+  "id": "WINGNUS/ACL-OCL",
+  "author": "WINGNUS",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-09-21T00:57:32.000Z",
+  "likes": 48,
+  "private": false,
+  "sha": "300ee6c5e5629d042bfc07cbc406e2f330b53659",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for ACL Anthology Corpus\n\t\n\n\nThis repository provides full-text and metadata to the ACL anthology collection (80k articles/posters as of September 2022) also including .pdf files and grobid extractions of the pdfs.\n\n\t\n\t\t\n\t\n\t\n\t\tHow is this different from what ACL anthology provides and what already exists?\n\t\n\n\nWe provide pdfs, full-text, references and other details extracted by grobid from the PDFs while ACL Anthology only provides abstracts.\nThere exists a similar… See the full description on the dataset page: https://huggingface.co/datasets/WINGNUS/ACL-OCL.",
+  "downloads": 474964,
+  "paperswithcode_id": "acronym-identification",
+  "tags": [
+    "task_categories:token-classification",
+    "language_creators:found",
+    "multilinguality:monolingual",
+    "source_datasets:original",
+    "language:en",
+    "license:mit",
+    "size_categories:10K<n<100K",
+    "region:us",
+    "research papers",
+    "acl"
+  ],
+  "createdAt": "2022-11-15T21:15:08.000Z",
+  "key": "",
+  "unique_id": "dataset_wingnus_acl_ocl",
+  "schema_version": "1.0"
+}

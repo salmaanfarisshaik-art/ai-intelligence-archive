@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to pull the last 5 products added to the table.",
+  "input": "",
+  "output": "SELECT * FROM products ORDER BY productID DESC LIMIT 5;",
+  "unique_id": "prompt_write_a_query_to_pul",
+  "schema_version": "1.0"
+}

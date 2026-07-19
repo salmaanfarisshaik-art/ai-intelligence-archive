@@ -1,0 +1,7 @@
+{
+  "instruction": "Merge the two lists below into a list of tuples",
+  "input": "list1 = [\"apple\",\"orange\",\"banana\"]\nlist2 = [\"red\", \"green\", \"yellow\"]",
+  "output": "tuples_list = list(zip(list1, list2))\nprint(tuples_list) # prints [(\"apple\", \"red\"), (\"orange\", \"green\"), (\"banana\", \"yellow\")]",
+  "unique_id": "prompt_merge_the_two_lists",
+  "schema_version": "1.0"
+}

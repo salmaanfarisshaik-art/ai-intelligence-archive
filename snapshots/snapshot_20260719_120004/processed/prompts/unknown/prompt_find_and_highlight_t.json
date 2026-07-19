@@ -1,0 +1,7 @@
+{
+  "instruction": "Find and highlight two false statements in the following poem.",
+  "input": "The night was still and silent\nThe birds and crickets were quiet\nThe stars were gleaming",
+  "output": "The night was still and silent\nThe birds and crickets were quiet **(false, birds and crickets were making noise)**\nThe stars were gleaming **(false, stars do not gleam, they twinkle)**",
+  "unique_id": "prompt_find_and_highlight_t",
+  "schema_version": "1.0"
+}

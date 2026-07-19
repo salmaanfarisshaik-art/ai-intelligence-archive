@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a view for the following database table in Sqlite which shows the total price for each person.",
+  "input": "Table name: purchases\nColumns: person, item, quantity, price",
+  "output": "CREATE VIEW person_total AS SELECT person, SUM(quantity * price) AS total_price FROM purchases GROUP BY person;",
+  "unique_id": "prompt_create_a_view_for_th",
+  "schema_version": "1.0"
+}

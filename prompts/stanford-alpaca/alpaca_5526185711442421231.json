@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5526185711442421231",
+  "technique_name": "Create an algorithm to find the common elements in two lists.",
+  "description": "\"\"\"\nFind the common elements in two lists\n\"\"\"\n\ndef findCommonElements(list1, list2):\n    # initialize a list to store the common elements\n    common_elements = []\n\n    # loop through list1 to find common elements in both lists\n    for i in list1:\n        if i in list2:\n            common_elements.append(i)\n    \n    return common_elements\n\nif __name__ == '__main__':\n    list1 = [1,2,3,4,5]\n    list2 = [2,4,5,6,7]\n    print(findCommonElements(list1, list2))",
+  "example": "list1 = [1,2,3,4,5]\nlist2 = [2,4,5,6,7]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

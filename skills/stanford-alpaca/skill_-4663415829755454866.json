@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4663415829755454866",
+  "skill_name": "Write a script to delete all the users who have not been active for the past 3 months",
+  "workflow": "The following script is designed to delete all users who have not been active within the past three months:\n\n# Get list of all users\nSELECT * FROM `users`\n\n# Iterate through list\nFOR user IN users:\n    # Get list of all user's recent activity \n    SELECT * FROM `activity` WHERE `user_id` = user.id\n    IF activity.timestamp > (3 months ago):\n        user.delete()",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

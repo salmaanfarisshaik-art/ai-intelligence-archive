@@ -1,0 +1,7 @@
+{
+  "instruction": "Write code to find the maximum value in an array",
+  "input": "[2, 4, 5, 7, 1]",
+  "output": "arr = [2, 4, 5, 7, 1] \n\ndef findMax(arr): \n    max = arr[0] \n  \n    for i in range(1, len(arr)): \n        if arr[i] > max: \n            max = arr[i] \n    return max \n  \nprint(findMax(arr))",
+  "unique_id": "prompt_write_code_to_find_t",
+  "schema_version": "1.0"
+}

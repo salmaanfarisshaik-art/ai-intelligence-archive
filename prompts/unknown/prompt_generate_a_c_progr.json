@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a C++ program to find the minimum and maximum value of a given array",
+  "input": "",
+  "output": "#include <iostream>\n#include <algorithm>\n\nint main() {\n  int arr[] = {1, 2, 4, 8, 16};\n\n  int n = sizeof(arr) / sizeof(arr[0]);\n  int min = *std::min_element(arr, arr + n); \n  int max = *std::max_element(arr, arr + n); \n\n  std::cout << \"Minimum: \" << min << \"\\n\";\n  std::cout << \"Maximum: \" << max << \"\\n\";\n\n  return 0;\n}",
+  "unique_id": "prompt_generate_a_c_progr",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Assemble the given components into a functional computer program.",
+  "input": "Function calls: \n- drawRectangle(200, 150)\n- setBackgroundColor(‘black’)\n\nVariables: \n- x = 400\n- y = 250",
+  "output": "// Draw a black rectangle on the screen\nfunction setup(){\n  createCanvas(x, y);\n  setBackgroundColor('black');\n  drawRectangle(200, 150);\n}",
+  "unique_id": "prompt_assemble_the_given_c",
+  "schema_version": "1.0"
+}

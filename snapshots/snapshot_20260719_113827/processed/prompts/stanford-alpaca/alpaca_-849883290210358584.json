@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-849883290210358584",
+  "technique_name": "Generate a code to output the first 50 Fibonacci numbers.",
+  "description": "\"\"\"\nOutput the first 50 Fibonacci numbers\n\"\"\"\n\nnterms = 50\n\n# first tow terms\nn1 = 0\nn2 = 1\ncount = 0\n\n# check if the number of terms is valid\nif nterms <= 0:\n   print(\"Please enter a positive integer\")\nelif nterms == 1:\n   print(\"Fibonacci sequence up to\",nterms,\":\")\n   print(n1)\nelse:\n   print(\"Fibonacci sequence:\")\n   while count < nterms:\n       print(n1,end=' , ')\n       nth = n1 + n2\n       # update values\n       n1 = n2\n       n2 = nth\n       count += 1",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

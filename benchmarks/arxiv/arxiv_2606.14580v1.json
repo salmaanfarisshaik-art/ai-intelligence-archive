@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14580v1",
+  "schema_version": "1.0",
+  "name": "Persuasion Index: A Theory-Guided Framework for Persuasion Analysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14580v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14580v1",
+    "updated": "2026-06-12T15:58:19Z",
+    "published": "2026-06-12T15:58:19Z",
+    "title": "Persuasion Index: A Theory-Guided Framework for Persuasion Analysis",
+    "summary": "Identifying persuasive rhetorical cues is critical across domains, from detecting information manipulation and improving AI safety to advancing public health communication. We propose Persuasion Index (PI), a taxonomy of 15 dimensions grounded in persuasion theories from psychology and communication, and one transparent implementation using 55 sub-features built from lexicons and rule-based detectors. The taxonomy is modular: individual detectors can be replaced while preserving the theoretical structure. By evaluating PI on four public datasets varying in domain, style, and outcome measures, we show that PI provides a shared feature space for interpreting rhetorical patterns associated with persuasion-related outcomes. Linear models show that PI features carry meaningful predictive signal while remaining computationally lightweight. Dimension-level analyses reveal recurring associations between PI dimensions and persuasion outcomes across datasets, while also highlighting topic- and stance-specific variation. We release PI as an open-source package and web interface for principled and auditable analysis of human and AI-mediated communication.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T15:58:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14580v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

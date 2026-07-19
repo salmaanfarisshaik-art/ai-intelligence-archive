@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a query that retrieves all posts with the word \"AI\" in their title.",
+  "input": "",
+  "output": "SELECT * FROM posts WHERE title LIKE '%AI%';",
+  "unique_id": "prompt_create_a_query_that",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "680190424a48050bc9cb3281",
+  "id": "FLARE-MedFM/FLARE26-MLLM-3D",
+  "author": "FLARE-MedFM",
+  "disabled": false,
+  "gated": "manual",
+  "lastModified": "2026-04-19T01:32:54.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "d0b852110caa312c4b5cddddeca98a36dccb94b0",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFLARE 2026: Multimodal Model for 3D Medical Image Parsing\n\t\n\nThe task is to train one multimodal model for report generation and vision QA. \n\n\t\n\t\t\n\t\n\t\n\t\tData Description\n\t\n\nThe dataset contains two subsets for abdomen and lung CT report generation and VQA. \nFLARE-Task5-MLLM-3D/\n├── README.md\n├── train # training set\n│   ├── CT-AMOS-1290 # source: https://era-ai-biomed.github.io/amos/\n│   ├── CT-AMOS-Tr.json\n│   ├── CT-RATE-2000 # source:… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/FLARE26-MLLM-3D.",
+  "downloads": 49324,
+  "tags": [
+    "task_categories:image-classification",
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "arxiv:2403.17834",
+    "region:us",
+    "medical"
+  ],
+  "createdAt": "2025-04-17T23:35:30.000Z",
+  "key": "",
+  "unique_id": "dataset_flare_medfm_flare26_mllm_3d",
+  "schema_version": "1.0"
+}

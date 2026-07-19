@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7533227032658429580",
+  "skill_name": "Generate code to create an array of numbers from 1 to 100",
+  "workflow": "int[] array = new int[100]; \nfor(int i = 0; i < array.length; i++) {\n   array[i] = i+1;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

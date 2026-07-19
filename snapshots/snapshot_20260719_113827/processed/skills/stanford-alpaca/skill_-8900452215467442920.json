@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8900452215467442920",
+  "skill_name": "Construct a query to find out the average salary of Data Scientists in the US",
+  "workflow": "SELECT AVG(salary) FROM employment_data WHERE position = 'Data Scientist' AND country = 'US';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

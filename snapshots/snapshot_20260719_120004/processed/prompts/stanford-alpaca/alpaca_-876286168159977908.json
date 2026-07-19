@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-876286168159977908",
+  "technique_name": "Construct a SQL query to find the total number of orders of a particular product",
+  "description": "SELECT COUNT(*) FROM Orders WHERE ProductName = 'Apple';",
+  "example": "Product name: Apple",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

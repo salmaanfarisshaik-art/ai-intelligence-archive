@@ -1,0 +1,7 @@
+{
+  "instruction": "Delete the 5th line of the given code.",
+  "input": "age = 50\nif age > 70:\n    print(\"You can get a senior discount\")\nelse if age > 65:\n    print(\"You can get a discounted rate\")\nelse:\n    print(\"Full price\")",
+  "output": "age = 50\nif age > 70:\n    print(\"You can get a senior discount\")\nelse if age > 65:\n    print(\"You can get a discounted rate\")\nelse:\n    print(\"Full price\")",
+  "unique_id": "prompt_delete_the_5th_line",
+  "schema_version": "1.0"
+}

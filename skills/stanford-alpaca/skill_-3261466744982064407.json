@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3261466744982064407",
+  "skill_name": "Write a Python program to print all the prime numbers between 0 and 100.",
+  "workflow": "\"\"\"\nWrite a Python program to print all the prime numbers between 0 and 100.\n\"\"\"\n\n# Store prime numbers\nprimes = []\n\n# Generate a list of numbers between 0 and 100\nnumbers = list(range(0,101))\n\n# Iterate through the numbers\nfor number in numbers:\n    # Ignore 1\n    if number == 1:\n        continue\n    # Set initial prime flag\n    prime_flag = True\n    # Iterate through numbers from 2 to current number\n    for div in range(2, number):\n        # If a divisor is found, set flag to false\n        if ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

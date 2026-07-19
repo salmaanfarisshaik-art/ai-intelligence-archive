@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6831587841366757418",
+  "skill_name": "Create a script that would display the given data as a pie chart.",
+  "workflow": "<html>\n<head>\n  <title>Pie Chart</title>\n</head>\n<body>\n  <canvas id=\"pieChart\" width=\"400\" height=\"400\"></canvas>\n  \n  <script>\n    const data = {\n      \"January\": 20,\n      \"February\": 15,\n      \"March\": 10,\n      \"April\": 25,\n      \"May\": 30\n    };\n\n    const pieChart = document.getElementById(\"pieChart\").getContext(\"2d\");\n\n    let pieChartData = { \n      labels: [\"January\", \"February\", \"March\", \"April\", \"May\"],\n      datasets: [\n        {   \n            label: \"Monthly Data\",\n            dat",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

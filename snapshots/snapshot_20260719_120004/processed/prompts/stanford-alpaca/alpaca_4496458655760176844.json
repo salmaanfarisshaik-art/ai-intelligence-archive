@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4496458655760176844",
+  "technique_name": "Create a dynamic query to filter a large table of user data",
+  "description": "db.user_data.find( { gender : \"Male\" } )",
+  "example": "Table : user_data in MongoDB\nColumns : _id, username, gender\nFilter: Male",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

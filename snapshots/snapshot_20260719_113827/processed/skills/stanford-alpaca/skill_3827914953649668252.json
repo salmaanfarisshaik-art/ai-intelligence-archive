@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3827914953649668252",
+  "skill_name": "Write an algorithm to search an element in a list.",
+  "workflow": "The following algorithm can be used to search an element in a list:\n\n1. Create a 'searchList' function which takes two parameters: \n  a. List to search through \n  b. Element to search for\n2. Set an 'index' variable and set it equal to 0 \n3. Iterate through the list using a 'for' loop \n4. For each element in the list: \n  a. Check if it is equal to the given element\n  b. If it is, set the index variable to be the current index of the list\n5. Return the index variable if it is not null, else return",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

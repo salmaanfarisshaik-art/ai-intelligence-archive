@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7078708129913259145",
+  "skill_name": "Make an algorithm to solve the following problem: Given an array of positive integers, find all the pairs whose sum is divisible by 3.",
+  "workflow": "The following algorithm can be used to solve the problem:\n\n1. Iterate through the array.\n2. For each element in the array, add it to each other element in the array, and check if the sum is divisible by 3.\n3. If it is, add the pair of elements to a result array. \n4. Return the result array with all the pairs whose sum is divisible by 3.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

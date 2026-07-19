@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4860537269148830610",
+  "technique_name": "Create a SQL query to display the names of all employees who work at a specific department.",
+  "description": "SELECT name FROM Employees\nWHERE department_id = 21;",
+  "example": "Department ID: 21",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

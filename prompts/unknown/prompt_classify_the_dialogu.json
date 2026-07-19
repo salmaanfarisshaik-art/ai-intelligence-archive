@@ -1,0 +1,7 @@
+{
+  "instruction": "Classify the dialogue into one of the following categories: 1) making or cancelling orders; 2) shipping & delivery; 3) change and return; 4) technical issue with website or app.",
+  "input": "- Agent: I am sorry we will cancel that order for you, and you will get refund within 7 business days. \n- Customer: oh that takes too long. I want you to take quicker action on this.",
+  "output": "3 (change and return)",
+  "unique_id": "prompt_classify_the_dialogu",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Compose a program to convert temperatures from Fahrenheit to Celsius.",
+  "input": "",
+  "output": "def fahrenheit_to_celsius(temp_in_fahrenheit):\n  temp_in_celsius = (temp_in_fahrenheit - 32) * 5/9\n  return temp_in_celsius",
+  "unique_id": "prompt_compose_a_program_to",
+  "schema_version": "1.0"
+}

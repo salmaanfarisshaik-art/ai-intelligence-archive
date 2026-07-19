@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8624106523773012650",
+  "skill_name": "Write a code to remove duplicate elements from a list.",
+  "workflow": "new_list = [] \nfor num in [1, 2, 3, 2, 4, 5]: \n    if num not in new_list: \n        new_list.append(num) \n\nprint(new_list)  # Output: [1, 2, 3, 4, 5]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

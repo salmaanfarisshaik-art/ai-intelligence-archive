@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3651620743291957891",
+  "technique_name": "Create an algorithm for finding prime numbers between 1 and 100",
+  "description": "1. Create a list of numbers from 1 to 100\n2. Set \"p\" equal to 2, the first prime number\n3. Starting from p, count up in increments of p and mark each of these numbers greater than p itself in the list\n4. Find the first number greater than p in the list that is not marked\n5. If there is no such number, stop; otherwise, let p now equal this new number and repeat from step 3.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

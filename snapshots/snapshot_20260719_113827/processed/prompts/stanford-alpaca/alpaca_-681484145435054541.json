@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-681484145435054541",
+  "technique_name": "Create a program to find the sum of the numbers in a given list.",
+  "description": "def sum_list(nums):\n   result = 0\n   for n in nums:\n      result += n\n   return result\n\nprint(sum_list([1, 2, 3, 4, 5]))\n\n# Output\n15",
+  "example": "[1, 2, 3, 4, 5]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

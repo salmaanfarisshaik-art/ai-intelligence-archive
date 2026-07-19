@@ -1,0 +1,7 @@
+{
+  "instruction": "Train a natural language model to predict the next word given a context.",
+  "input": "",
+  "output": "Creating a Natural Language Model for predicting the next word given a context involves a few stages:\n\n1. Preprocessing - Here, text is split into sentences, tokenized, punctuation is removed and stopwords are removed from the text.\n\n2. Embeddings - Here, words are represented by dense vectors of real numbers and words with similar meanings have a similar representation.\n\n3. Training - Here, the model is trained using supervised learning, where the machine is shown examples of previous texts to learn the patterns. The model predicts the next word in the sequence once trained.\n\n4. Evaluation - The model is evaluated on unseen data to ensure it performs well on the task.",
+  "unique_id": "prompt_train_a_natural_lang",
+  "schema_version": "1.0"
+}

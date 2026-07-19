@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7131864433153946440",
+  "skill_name": "Generate a Python script to print out the prime numbers between 10 and 30.",
+  "workflow": "for num in range(10,31):\n    if num > 1:\n        for i in range(2, num):\n            if (num % i) == 0:\n                break\n        else:\n            print (num)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

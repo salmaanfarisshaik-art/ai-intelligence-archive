@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2210610662954058662",
+  "skill_name": "Write a function that takes two strings as arguments and returns true if they are anagrams of each other and false otherwise.",
+  "workflow": "bool isAnagram(string str1, string str2) {\n    if (str1.length() != str2.length()) \n        return false; \n    sort(str1.begin(), str1.end()); \n    sort(str2.begin(), str2.end()); \n  \n    for (int i = 0; i < str1.length(); i++) \n        if (str1[i] != str2[i]) \n            return false; \n  \n    return true; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

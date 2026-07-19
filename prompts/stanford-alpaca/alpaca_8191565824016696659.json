@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8191565824016696659",
+  "technique_name": "Given a list of numbers, write a python program to find the second smallest number in the list.",
+  "description": "def secondSmallest(list):\n  smallest = list[0]\n  secondSmallest = list[0]\n  for x in list:\n    if x < smallest:\n        secondSmallest = smallest\n        smallest = x\n    elif x < secondSmallest:\n        secondSmallest = x\n  return secondSmallest\n\nprint(secondSmallest([114, 11, 90, 7, 34]))\n\n# Output: 11",
+  "example": "[114, 11, 90, 7, 34]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "In Java, write a code to check if two strings are anagrams.",
+  "input": "",
+  "output": "public static boolean isAnagram(String str1, String str2) {  \n    char[] charArray1 = str1.toCharArray();  \n    char[] charArray2 = str2.toCharArray();  \n    Arrays.sort(charArray1);  \n    Arrays.sort(charArray2);  \n    return Arrays.equals(charArray1, charArray2);  \n}",
+  "unique_id": "prompt_in_java_write_a_cod",
+  "schema_version": "1.0"
+}

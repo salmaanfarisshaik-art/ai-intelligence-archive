@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a structured query in SQL to get all orders created in the last week.",
+  "input": "No input",
+  "output": "SELECT *\nFROM orders \nWHERE creation_date >= DATE_SUB(CURDATE(), INTERVAL 7 DAY)",
+  "unique_id": "prompt_write_a_structured_q",
+  "schema_version": "1.0"
+}

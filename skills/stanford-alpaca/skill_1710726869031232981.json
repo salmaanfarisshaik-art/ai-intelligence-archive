@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1710726869031232981",
+  "skill_name": "Create an algorithm that calculates the factorial of a given number.",
+  "workflow": "def factorial(n): \n    # Base Case \n    if n == 0: \n        return 1\n  \n    # Recursive case \n    return n * factorial(n-1)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

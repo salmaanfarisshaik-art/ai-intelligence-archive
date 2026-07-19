@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4779673104707757413",
+  "skill_name": "Design an efficient algorithm for reversing an array",
+  "workflow": "def reverse_array(array):\n    left = 0\n    right = len(array) - 1\n\n    while left < right:\n        temp = array[left]\n        array[left] = array[right]\n        array[right] = temp\n\n        left += 1\n        right -= 1\n        \n    return array",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

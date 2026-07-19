@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1.",
+  "input": "",
+  "output": "1. Set unsorted list = [5, 3, 9, 1]\n2. Iterate through unsorted list\n 3. Compare unsorted[i] to unsorted[i+1]\n 4. If unsorted[i] > unsorted[i+1], swap them\n 5. Repeat step 3 to 4 until end of list\n 6. Observe the list is now sorted.",
+  "unique_id": "prompt_develop_an_algorithm",
+  "schema_version": "1.0"
+}

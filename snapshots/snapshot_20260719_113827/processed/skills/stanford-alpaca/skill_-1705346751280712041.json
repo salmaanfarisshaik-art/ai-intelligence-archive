@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1705346751280712041",
+  "skill_name": "Write an algorithm to rearrange an array of integers into an array with all negative integers in the front.",
+  "workflow": "// Initialize two pointers to the start and end of the array \nint left = 0; \nint right = array.length - 1; \n\n// Loop through the array until left and right pointers cross \nwhile (left < right) { \n\n// Move left pointer until negative integer is found \nwhile (array[left] >= 0 && left < right) { \n    left++; \n} \n\n// Move right pointer until negative integer is found \nwhile (array[right] < 0 && left < right) { \n    right--; \n} \n\n// Swap positive and negative integers \nif (left < right) { \n    int te",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

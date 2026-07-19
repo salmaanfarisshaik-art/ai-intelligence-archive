@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8525803180624448713",
+  "technique_name": "Write a function that takes in a string and returns the number of 'a' characters in it.",
+  "description": "def count_a(input_string):\n    count = 0\n    for char in input_string:\n        if char == 'a':\n            count += 1\n    return count",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

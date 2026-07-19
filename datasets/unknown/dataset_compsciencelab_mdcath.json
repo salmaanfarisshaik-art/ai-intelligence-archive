@@ -1,0 +1,28 @@
+{
+  "_id": "665859296e4d9a66a1ada06a",
+  "id": "compsciencelab/mdCATH",
+  "author": "compsciencelab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-11-30T10:02:49.000Z",
+  "likes": 13,
+  "private": false,
+  "sha": "5e3ed8aec62b689e01751db16275fdcdbc39e47f",
+  "description": "\n\t\n\t\t\n\t\tmdCATH: A Large-Scale MD Dataset for Data-Driven Computational Biophysics\n\t\n\nThis dataset comprises all-atom systems for 5,398 CATH domains, modeled with a state-of-the-art classical force field, and simulated in five replicates each at five temperatures from 320 K to 450 K. \n\n\t\n\t\t\n\t\tAvailability\n\t\n\n\ntorchmd-net dataloader\nplaymolecule\nscripts to load, convert and rebuild\n\n\n\t\n\t\t\n\t\tCiting The Dataset\n\t\n\nPlease cite this manuscript for papers that use the mdCATH dataset:\n\nMirarchi, A.… See the full description on the dataset page: https://huggingface.co/datasets/compsciencelab/mdCATH.",
+  "downloads": 24102,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:10M<n<100M",
+    "arxiv:2407.14794",
+    "doi:10.57967/hf/5055",
+    "region:us",
+    "chemistry",
+    "biology",
+    "molecular dynamics",
+    "neural network potential"
+  ],
+  "createdAt": "2024-05-30T10:47:05.000Z",
+  "key": "",
+  "unique_id": "dataset_compsciencelab_mdcath",
+  "schema_version": "1.0"
+}

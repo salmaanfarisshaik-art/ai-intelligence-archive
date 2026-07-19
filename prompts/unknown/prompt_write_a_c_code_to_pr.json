@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a C code to print the following statement.",
+  "input": "Jingle bells, jingle bells, Jingle all the way",
+  "output": "#include<stdio.h>\n\nint main() \n{ \n  printf(\"Jingle bells, jingle bells, Jingle all the way\\n\"); \n  return 0; \n}",
+  "unique_id": "prompt_write_a_c_code_to_pr",
+  "schema_version": "1.0"
+}

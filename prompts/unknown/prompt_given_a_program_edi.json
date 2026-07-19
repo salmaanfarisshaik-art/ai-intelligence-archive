@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a program, edit it to include a loop.",
+  "input": "print(\"Hello World\")",
+  "output": "for i in range(5):\n    print(\"Hello World\")",
+  "unique_id": "prompt_given_a_program_edi",
+  "schema_version": "1.0"
+}

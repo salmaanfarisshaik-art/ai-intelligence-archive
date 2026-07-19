@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5556113940274589914",
+  "technique_name": "Create a program that finds the largest element in an array",
+  "description": "\"\"\"\nWrite a program that finds the largest element in an array\n\"\"\"\n\ndef largest_element(arr):\n    max_element = arr[0]\n    \n    for element in arr:\n        if element > max_element:\n            max_element = element\n            \n    return max_element\n\nif __name__ == '__main__':\n    arr = [2,4,6,8,10]\n    print('The largest element in the array is ', largest_element(arr))",
+  "example": "[2, 4, 6, 8, 10]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

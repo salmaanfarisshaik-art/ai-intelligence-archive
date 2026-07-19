@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4943451345050054091",
+  "skill_name": "Write an algorithm to sort the numbers in an array from highest to lowest.",
+  "workflow": "// Assign the array to a variable\nvar arr = [3, 9, 8, 5, 1, 11];\n\n// Create a function that takes unsorted array as argument\nfunction sortNum(arr) {\n\n// Create an empty array to store the sorted result\n let sortedArr = [];\n\n// Get the highest number in the array\n let highestNum = Math.max(...arr);\n\n// Loop until all the numbers have been sorted\n while (arr.length > 0) {\n    // Iterate through the array and find the index of the highest number\n    let highestNumIdx = arr.indexOf(highestNum)\n \n   ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

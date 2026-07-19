@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3473410598116463906",
+  "skill_name": "Generate an algorithm to find the longest substring of two strings",
+  "workflow": "def longest_common_substring(str1, str2): \n    n1 = len(str1) \n    n2 = len(str2) \n  \n    LCSuff = [[0 for i in range(n2+1)] for j in range(n1+1)] \n  \n    res = \"\" # To store the result \n    lenght = 0 # To store the lenght of the result \n  \n    # building up theLCSuff[][] in bottom up manner \n    for i in range(n1+1): \n        for j in range(n2+1): \n            if (i == 0 or j == 0): \n                LCSuff[i][j] = 0\n            elif (str1[i-1] == str2[j-1]): \n                LCSuff[i][j] = LCS",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

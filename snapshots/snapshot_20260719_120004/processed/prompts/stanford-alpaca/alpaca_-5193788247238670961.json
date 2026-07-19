@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5193788247238670961",
+  "technique_name": "Reverse-engineer this code so that it processes a given input.",
+  "description": "\"\"\"\ndef process_input(data):\n    result = ''\n    for char in data:\n        result += char.upper()\n    return result\n\"\"\"",
+  "example": "\"\"\"\ndef process_input(data):\n    result = ''\n    # Process the data\n    \n    return result\n\"\"\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a program in Python, find the errors in the program and suggest corrections.",
+  "input": "for n in range(10)\n  print(n)",
+  "output": "Error: Missing colon after range(10). \nSuggested correction: \nfor n in range(10):\n    print(n)",
+  "unique_id": "prompt_given_a_program_in_p",
+  "schema_version": "1.0"
+}

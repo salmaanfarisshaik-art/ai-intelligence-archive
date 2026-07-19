@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4757283346201455686",
+  "skill_name": "Describe strategy for converting the RGB colorspace to the CMYK colorspace.",
+  "workflow": "The strategy for converting RGB colorspace to CMYK colorspace is to first convert the RGB values to their respective CMY values, then calculate a black (K) value based on the lowest CMY value and combine that value with the CMY values to complete the conversion.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

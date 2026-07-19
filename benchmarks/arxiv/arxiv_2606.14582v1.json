@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14582v1",
+  "schema_version": "1.0",
+  "name": "A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14582v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14582v1",
+    "updated": "2026-06-12T16:00:31Z",
+    "published": "2026-06-12T16:00:31Z",
+    "title": "A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems",
+    "summary": "Efficient route optimization play a vital role in ensuring both safety and punctuality in railway operations. It is very crucial particularly in heterogeneous multi-gauge railway networks with varying train speed, stopping pattern, infrastructure compatibility constraints increase coordination complexity. In single-track systems these challenges are further intensify due to all trains to share the same track and requires frequent track switching.Stochastic disruptions events including blocked tracks, blocked trains, engine failure and speed slowdowns introduces additional unpredictability in operations and deviate the timetable. However, existing studies predominantly focuses on high-level timetabling, omitting operational details such as track switching coordination. As a result leaving decision to human operators, increasing safety risks into railway operations. This study proposes a framework based on temporal planning for dynamic route optimization and disruption management in heterogeneous railway systems. The framework formulates railway operations as a temporal planning problem using PDDL 2.1 with explicitly modeling gauge compatibility constraints and diverse disruption scenarios. It generates conflict-free timestamped operational plans specifying both optimized schedules and executable action sequences. To evaluate the proposed framework, we developed a benchmark problem set with 200 instances using up to 1,000 track points and 120 trains. Two state-of-the-art temporal planners and a plan validator were employed to assessed the framework. The experimental results demonstrate that the framework effectively generates temporal operational plans for heterogeneous railway systems and handles multi-gauge constraints, disruptions, and reduces dependence on manual decision making.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:00:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14582v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

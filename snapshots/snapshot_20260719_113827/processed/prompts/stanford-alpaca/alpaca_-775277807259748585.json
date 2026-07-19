@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-775277807259748585",
+  "technique_name": "Create a rock-paper-scissor game in python.",
+  "description": "import random\n\noptions = [\"rock\", \"paper\", \"scissors\"]\n\nplayer1 = input(\"Player1 choose: \")\nplayer2 = random.choice(options)\n\nif player1 == player2:\n    print(\"It's a tie!\")\nelif player1 == \"rock\":\n    if player2 == \"paper\":\n        print(\"Player2 wins!\")\n    elif player2 == \"scissors\":\n        print(\"Player1 wins!\")\nelif player1 == \"paper\":\n    if player2 == \"rock\":\n        print(\"Player1 wins!\")\n    elif player2 == \"scissors\":\n        print(\"Player2 wins!\")\nelif player1 == \"scissors\":\n    if p",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

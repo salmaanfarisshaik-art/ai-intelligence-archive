@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2300312664485518014",
+  "technique_name": "Write an algorithm to implement a binary search tree.",
+  "description": "def insert(node, data): \n    # If the tree is empty, return a new node \n    if node is None: \n        return Node(data) \n  \n    # Otherwise, recur down the tree\n    if data < node.data: \n        node.left = insert(node.left, data) \n    else: \n        node.right = insert(node.right, data) \n  \n    # return the (unchanged) node pointer \n    return node \n  \n# Function to search a given data \ndef search(node, data): \n      \n    # Base Case: if root is None or key is present at root \n    if node is No",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7958100230377350748",
+  "skill_name": "Write a function to classify objects by their color.",
+  "workflow": "def classify_by_color(objects):\n    classified = {'red': [], 'yellow': [], 'black': []}\n    for object in objects:\n        name, color = object.split(' (')\n        color = color[:-1]  # remove trailing )\n        classified[color].append(name)\n    return classified",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

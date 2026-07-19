@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2467445425269157617",
+  "skill_name": "Construct a Java program that asks a user to enter their name and age and prints out a greeting message.",
+  "workflow": "import java.util.Scanner;\n\npublic class GreetingMessage {\n  public static void main(String[] args) {\n    Scanner scanner = new Scanner(System.in);\n    \n    System.out.println(\"Please enter your name:\");\n    String name = scanner.nextLine();\n    \n    System.out.println(\"Please enter your age:\");\n    int age = Integer.parseInt(scanner.nextLine());\n    \n    System.out.println(\"Hello \" + name + \"! It's great to see you at the age of \" + age + \".\");\n  }\n  \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

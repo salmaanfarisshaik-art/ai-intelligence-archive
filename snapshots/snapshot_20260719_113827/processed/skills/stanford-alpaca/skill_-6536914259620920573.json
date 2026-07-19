@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6536914259620920573",
+  "skill_name": "Create an SQL statement to find the employees born after 1975.",
+  "workflow": "SELECT * FROM Employees WHERE birth_year > 1975.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

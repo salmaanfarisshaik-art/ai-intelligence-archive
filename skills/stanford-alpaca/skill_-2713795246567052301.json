@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2713795246567052301",
+  "skill_name": "Create a program to play Rock, Paper, Scissors",
+  "workflow": "\"\"\"\nCreate a program that plays Rock, Paper, Scissors\n\"\"\"\n\nimport random\n\nchoices = [\"rock\",\"paper\",\"scissors\"]\n\n# Ask user to choose one of the choices\nuser_choice = input(\"Please choose rock, paper, or scissors: \")\n\n# Check that user choice is valid\nwhile user_choice not in choices:\n    user_choice = input(\"Please choose rock, paper, or scissors: \")\n\n# Computer chooses one at random\ncomputer_choice = random.choice(choices)\n\n# Determine the winner\nif user_choice == computer_choice:\n    print(\"I",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

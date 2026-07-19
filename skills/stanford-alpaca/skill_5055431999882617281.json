@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5055431999882617281",
+  "skill_name": "Generate a computer program to add two vectors of size 5.",
+  "workflow": "def add_vector(v1, v2):\n    if len(v1) != len(v2):\n        raise Exception(\"Vectors are of different lengths\")\n    result = []\n    for i in range(len(v1)):\n        result.append(v1[i] + v2[i])\n    return result",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

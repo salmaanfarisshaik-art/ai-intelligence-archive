@@ -1,0 +1,52 @@
+{
+  "unique_id": "hf_ds_669caf535bd3f749a3c87c11",
+  "schema_version": "1.0",
+  "name": "mlfoundations/MINT-1T-HTML",
+  "description": "\n  🍃 MINT-1T:Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens\n\n\n🍃 MINT-1T is an open-source Multimodal INTerleaved dataset with 1 trillion text tokens and 3.4 billion images, a 10x scale-up from existing open-source datasets. Additionally, we include previously untapped sources such as PDFs and ArXiv papers. 🍃 MINT-1T is designed to facilitate research in multimodal pretraining. 🍃 MINT-1T is created by a team from the University of Washington in… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML.",
+  "size": "296217",
+  "source_url": "https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "669caf535bd3f749a3c87c11",
+    "id": "mlfoundations/MINT-1T-HTML",
+    "author": "mlfoundations",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2024-09-21T01:50:16.000Z",
+    "likes": 97,
+    "private": false,
+    "sha": "906a8b85cea61198ff7339c4dd711ad0b5361847",
+    "description": "\n  🍃 MINT-1T:Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset with One Trillion Tokens\n\n\n🍃 MINT-1T is an open-source Multimodal INTerleaved dataset with 1 trillion text tokens and 3.4 billion images, a 10x scale-up from existing open-source datasets. Additionally, we include previously untapped sources such as PDFs and ArXiv papers. 🍃 MINT-1T is designed to facilitate research in multimodal pretraining. 🍃 MINT-1T is created by a team from the University of Washington in… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML.",
+    "downloads": 296217,
+    "tags": [
+      "task_categories:image-to-text",
+      "task_categories:text-generation",
+      "language:en",
+      "license:cc-by-4.0",
+      "size_categories:100M<n<1B",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:2406.11271",
+      "region:us",
+      "multimodal"
+    ],
+    "createdAt": "2024-07-21T06:48:51.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:15.858854+00:00",
+  "last_updated": "2024-09-21T01:50:16.000Z",
+  "links": {
+    "related_models": [
+      "datasets/mlfoundations"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

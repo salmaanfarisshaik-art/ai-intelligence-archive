@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.18206v1",
+  "schema_version": "1.0",
+  "name": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.18206v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.18206v1",
+    "updated": "2026-06-16T17:36:33Z",
+    "published": "2026-06-16T17:36:33Z",
+    "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers",
+    "summary": "Looped architectures provide an inductive bias toward learning step-by-step procedures for tasks that require compositional reasoning. The number of effective layers reached by looping determines the quality of the solution these models find. Like deep architectures, looped architectures are prone to a signal propagation problem induced by depth as the halting decision is postponed. In this paper, we address this signal propagation issue using pre-norm layers and residual scaling. Building on these architectural modifications, we propose FPRM, a Transformer-based Fixed-Point Reasoning Model that uses fixed-point convergence as an end-to-end halting mechanism in a looped architecture. We show that fixed-point halting allows FPRM to adapt its compute to task difficulty. FPRM is effective on common reasoning benchmarks, namely Sudoku, Maze, state-tracking, and ARC-AGI.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T17:36:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.18206v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

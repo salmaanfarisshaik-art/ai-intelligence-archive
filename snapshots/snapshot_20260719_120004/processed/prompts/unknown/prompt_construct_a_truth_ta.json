@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a truth table for the given expression.",
+  "input": "(~P -> Q) v (R -> S)",
+  "output": "P    Q    R    S    (~P -> Q) v (R -> S)\n  T    T    T    T          T\n  T    T    F    F          F\n  T    F    T    T          T\n  T    F    F    F          F\n  F    T    T    T          T\n  F    T    F    F          F\n  F    F    T    T          T\n  F    F    F    T          T",
+  "unique_id": "prompt_construct_a_truth_ta",
+  "schema_version": "1.0"
+}

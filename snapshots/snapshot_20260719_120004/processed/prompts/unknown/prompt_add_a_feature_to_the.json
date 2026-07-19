@@ -1,0 +1,7 @@
+{
+  "instruction": "Add a feature to the following class definition.",
+  "input": "class Student(): \n    def __init__(self, name, age, grade): \n        self.name = name \n        self.age = age \n        self.grade = grade",
+  "output": "class Student(): \n    def __init__(self, name, age, grade, gender): \n        self.name = name \n        self.age = age \n        self.grade = grade\n        self.gender = gender",
+  "unique_id": "prompt_add_a_feature_to_the",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_751591386710833180",
+  "technique_name": "Refactor the following code.",
+  "description": "num_list = [1, 2, 3, 4, 5]\nfor number in num_list:\n  if number < 3:\n    print(\"smaller than 3\")\n  else:\n    if number == 3:\n      print(\"equal to 3\")  \n    else:\n      print(\"larger than 3\")",
+  "example": "num_list = [1, 2, 3, 4, 5]\nfor number in num_list:\n  if number < 3:\n    print(\"smaller than 3\")\n  elif number == 3:\n    print(\"equal to 3\")  \n  else:\n    print(\"larger than 3\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

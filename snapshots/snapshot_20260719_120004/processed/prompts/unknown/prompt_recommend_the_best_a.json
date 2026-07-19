@@ -1,0 +1,7 @@
+{
+  "instruction": "Recommend the best approach to optimize the following code to increase its efficiency.",
+  "input": "int count = 0;\n\nfor(int i = 0; i < array.length; i++){\n  if(array[i] == 0){\n    count++;\n  }\n}",
+  "output": "To optimize the code to increase efficiency, the best approach would be to use the Java 8 Stream API’s Count() method, which uses internal iteration to count the number of times a certain element is present in the array, passing in 0 as the argument. The code could then be modified to the following to increase its efficiency:\n\nint count = (int)Arrays.stream(array).filter(i -> i == 0).count();",
+  "unique_id": "prompt_recommend_the_best_a",
+  "schema_version": "1.0"
+}

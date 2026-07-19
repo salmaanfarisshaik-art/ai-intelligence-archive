@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7294113925074257269",
+  "technique_name": "Create a program to detect and remove duplicate words from a given sentence",
+  "description": "def remove_duplicates(sentence):\n  word_list = sentence.split() # split sentence into a list of words\n  new_list = [] # new list that will contain uniques words\n\n  # loop thru each word in the list\n  for word in word_list:\n    if word not in new_list: # add a word to the new list if the word is unique\n      new_list.append(word)\n\n  # join words in the new list to form a new sentence\n  return ' '.join(new_list)",
+  "example": "No input",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

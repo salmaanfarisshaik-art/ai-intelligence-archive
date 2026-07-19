@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_67722532411894959",
+  "technique_name": "Generate a valid JavaScript code to check if a given input is a positive number",
+  "description": "function isPositive(num) {\n    if (typeof num == 'number' && num > 0) {\n        return true;\n    } else {\n        return false;\n    }\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write the code for swapping two elements in a given array.",
+  "input": "No input",
+  "output": "```\ndef swapTwoElements(arr, i, j):\n  temp = arr[i]\n  arr[i] = arr[j]\n  arr[j] = temp\n```",
+  "unique_id": "prompt_write_the_code_for_s",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8454980775195912452",
+  "technique_name": "Write a function to convert a text string into an integer.",
+  "description": "def textToInt(text):\n    int_val = 0\n    for char in text:\n        int_val += ord(char)\n    return int_val",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

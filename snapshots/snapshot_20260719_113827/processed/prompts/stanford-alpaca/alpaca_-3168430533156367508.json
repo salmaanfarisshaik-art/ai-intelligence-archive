@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3168430533156367508",
+  "technique_name": "How do you go about debugging the given program?",
+  "description": "The first step in debugging this program is to check each line and identify any potential errors or typos. As written, the code is adding each number two times, instead of once. To correct this error, the line of code sum = n + n should be changed to sum = sum + n. \n\nThe next step is to test the program to confirm that it is functioning correctly. To do this, run the program, and check that the output is 6, as expected.\n\nIf the output is not 6, then the program should be further debugged until t",
+  "example": "Program:\ndef calculate_sum(numbers):\n    sum = 0\n    for n in numbers:\n        sum = n + n\n    return sum\n\nprint(calculate_sum([1, 2, 3]))\n\nExpected output: 6",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4639951816241091198",
+  "skill_name": "Create an efficient algorithm to count the number of elements in an array",
+  "workflow": "int count = 0; \n  \nfor (int i = 0; i < array.length; i++) \n    count++;  \n  \n// print the total number of elements \nSystem.out.println(\"Total number of elements : \" + count);",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

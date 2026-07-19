@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2069566375697271948",
+  "skill_name": "Develop an algorithm to identify a domain name given a website.",
+  "workflow": "The algorithm would first parse the website URL to extract the domain name. The algorithm would then check if the domain name matches a predetermined list of valid domain names. If a match is found, it will return the matching domain name. If no match is found, the algorithm would then break up the website URL into component parts including the protocol, subdomain, domain, suffix, and parameters. The algorithm can then take the component parts and reconstruct the domain name using the following ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

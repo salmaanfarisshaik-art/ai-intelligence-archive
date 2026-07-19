@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8952992583807612866",
+  "technique_name": "Find the error in this code and fix it.",
+  "description": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b: # colon missing\n\t\tsum += a\n\t\ta += 1\n\treturn sum",
+  "example": "def sumNums(a, b):\n\tsum = 0\n\twhile a < b\n\t\tsum += a\n\t\ta += 1\n\treturn sum",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

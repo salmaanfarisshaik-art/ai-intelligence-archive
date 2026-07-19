@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2302854365957953172",
+  "skill_name": "Create a Keras model that takes in 5 inputs and has five outputs",
+  "workflow": "model = tf.keras.models.Sequential([ \n    tf.keras.layers.Input(shape=(5,)), \n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(128, activation='relu'),\n    tf.keras.layers.Dense(5, activation='linear')\n])\n\nmodel.compile(loss='mse', optimizer='Adam')",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

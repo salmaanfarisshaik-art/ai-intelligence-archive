@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2237522656618670232",
+  "skill_name": "Create a Random Forest classifier to predict the sentiment of a given sentence.",
+  "workflow": "\"\"\"\nCreate a Random Forest classifier to predict the sentiment of a given sentence\n\"\"\"\n\nfrom sklearn.ensemble import RandomForestClassifier\nimport numpy as np \n\n# create the input for the classifier: \nsentence = np.array([[1,0,0,0,1]]) # represent the sentence as a vector of ones and zeros, 1 being positive and 0 being negative \n\n# define the label \nlabel = np.array([1]) # 1 being positive and 0 being negative \n\n# create and train theRandom Forest classifier \nclf = RandomForestClassifier() \nclf.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

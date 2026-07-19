@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_9218130974636950021",
+  "skill_name": "Write a code snippet that prints the first n prime numbers.",
+  "workflow": "def printPrime(n): \n    # Initialize all entries of boolean array as true \n    prime = [True for i in range(n+1)] \n    p = 2\n    while (p * p <= n): \n        if (prime[p] == True): \n            for i in range(p * p, n+1, p): \n                prime[i] = False\n        p += 1\n    # Print all prime numbers \n    print(\"First\",n,\"Prime numbers:\")\n    for p in range(2, n): \n        if prime[p]:  \n            print(p, end = ' ') \n\n# Driver Code \nn = 10   \nprintPrime(n)\n// Output: First 10 Prime numbers:",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

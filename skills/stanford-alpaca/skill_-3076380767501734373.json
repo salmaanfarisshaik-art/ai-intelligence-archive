@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3076380767501734373",
+  "skill_name": "Generate a HTML grid layout.",
+  "workflow": "<style> \n  .grid-container {\n    display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    grid-template-rows: repeat(6, 1fr);\n    grid-gap: 10px;\n  }\n\n</style>\n\n<div class=\"grid-container\">\n  <div> Content 1 </div> \n  <div> Content 2 </div> \n  <div> Content 3 </div> \n  <div> Content 4 </div> \n  <div> Content 5 </div> \n  <div> Content 6 </div>  \n</div>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

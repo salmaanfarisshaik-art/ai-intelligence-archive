@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a program to check if the parenthesis of a string are balanced.",
+  "input": "",
+  "output": "def balanced_parenthesis(string):\n    stack = []\n    for i in string:\n        if i=='(':\n            stack.append(i)\n        elif i == ')':\n            if len(stack) == 0:\n                return False\n            else:\n                stack.pop()\n    if len(stack) == 0:\n        return True\n    else:\n        return False",
+  "unique_id": "prompt_create_a_program_to",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2587424291721698538",
+  "skill_name": "Create a function that takes an array of numbers and returns the sum of the numbers.",
+  "workflow": "def array_sum(arr):\n  sum = 0\n  for n in arr:\n    sum += n\n  return sum\n\nprint(array_sum([5, 10, 15]))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

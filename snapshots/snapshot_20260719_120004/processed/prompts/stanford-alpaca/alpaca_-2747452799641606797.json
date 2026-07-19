@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2747452799641606797",
+  "technique_name": "Develop an algorithm to sort the following numbers: 5, 3, 9, 1.",
+  "description": "1. Set unsorted list = [5, 3, 9, 1]\n2. Iterate through unsorted list\n 3. Compare unsorted[i] to unsorted[i+1]\n 4. If unsorted[i] > unsorted[i+1], swap them\n 5. Repeat step 3 to 4 until end of list\n 6. Observe the list is now sorted.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

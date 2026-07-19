@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6115659869598867205",
+  "skill_name": "Create an algorithm to alphabetize the following list.",
+  "workflow": "# Step 1:  Define a function to sort an array\ndef alphabetize(arr):\n    # Step 2:  Sort the array in alphabetical order\n    arr.sort()\n    # Step 3:  Return the sorted array\n    return arr\n\n# Test\nif __name__ == \"__main__\":\n    animals = [\"elephant\", \"zebra\", \"monkey\", \"ant\"]\n    print(alphabetize(animals))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

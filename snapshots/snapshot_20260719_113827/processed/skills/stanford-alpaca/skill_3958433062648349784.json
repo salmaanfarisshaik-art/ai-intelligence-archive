@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3958433062648349784",
+  "skill_name": "How would you solve the following programming problem:\n\nWrite a function called \"isCapital\" that takes a single character and returns a boolean value indicating if the character is a capital letter or",
+  "workflow": "def isCapital(char):\n    if ord(char) >= 65 and ord(char) <= 90:\n        return True\n    else:\n        return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

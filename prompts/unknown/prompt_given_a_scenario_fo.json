@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a scenario, formulate a logical condition.",
+  "input": "Scenario: You want to grant access to a certain document to people only after they have filled out a form.",
+  "output": "if (form.isFilled && form.isCorrect) {\n  grantAccess();\n}",
+  "unique_id": "prompt_given_a_scenario_fo",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7329445211482471555",
+  "skill_name": "How would you architect a database to store customer survey responses?",
+  "workflow": "A database to store customer survey responses should include a table to store each survey response, with the columns of the table storing the customer's information, any relevant demographic data for the customer and their survey responses. This table could also include a timestamp for when the survey response was received. Additionally, there may be a separate table or tables to store survey questions and/or predefined answer choices. This table or tables could also include a timestamp for when",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

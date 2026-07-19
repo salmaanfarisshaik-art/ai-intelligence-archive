@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_9158040368969970710",
+  "technique_name": "Design a program which receive input from the user and prints its reverse.",
+  "description": "def reverse_string(string): \n    # create a reverse string\n    rev = string[::-1] \n  \n    # print the reverse string\n    print(rev) \n  \n# driver code\n# Output should be olleh\nstring = \"hello\"\nreverse_string(string)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8841391713357057541",
+  "skill_name": "Create a Markov Chain to simulate how a person would arrive late to work.",
+  "workflow": "A Markov Chain is a stochastic process in which the probability of each state depends only on the current state, not any other states. The states could represent different events that could occur when a person is trying to arrive late to work. The possible states could be:\n\n1. Woke up late\n2. Got ready slowly\n3. Travel delayed\n4. Got stuck in traffic\n5. Arrived late to work \n\nThe transition probabilities from one state to the other would depend on how likely each event is. For example, the trans",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

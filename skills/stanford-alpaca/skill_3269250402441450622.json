@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3269250402441450622",
+  "skill_name": "Write a SQL query to find the average salary of employees from department ‘Sales’.",
+  "workflow": "SELECT AVG(salary) from employees WHERE department = 'Sales';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

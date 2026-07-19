@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1941784382575409942",
+  "technique_name": "Write a function in JavaScript that takes an array of numbers as input and finds the second highest number in the array.",
+  "description": "function findSecondHighest(arr) {\n  let highestNumber = 0;\n  let secondHighestNumber = 0;\n  arr.forEach(number => {\n    if (number > highestNumber) {\n      secondHighestNumber = highestNumber;\n      highestNumber = number;\n    } else if (number > secondHighestNumber && number != highestNumber) {\n      secondHighestNumber = number;\n    }\n  });\n  return secondHighestNumber;\n}",
+  "example": "[11, 2, 31, 7, 15]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

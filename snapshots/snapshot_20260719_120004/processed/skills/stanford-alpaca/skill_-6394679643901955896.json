@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6394679643901955896",
+  "skill_name": "Modify the following code to print the number of words in a dictionary that start with the letter ‘a’",
+  "workflow": "def wordCount(dict):\n count = 0\n for a in dict:\n if a[0] == 'a':\n count += 1\n print('Number of words starting with the letter \\'a\\': ', count)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

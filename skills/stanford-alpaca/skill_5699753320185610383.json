@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5699753320185610383",
+  "skill_name": "Generate a program that prints out the given list of numbers in reverse order.",
+  "workflow": "#include <stdio.h>\n\nint main() \n{ \n    int arr[5] = {1, 2, 3, 4, 5}; \n  \n    // Print the list in reverse order \n    for (int i = 4; i >= 0; i--) \n        printf(\"%d\\n\", arr[i]); \n  \n    return 0; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

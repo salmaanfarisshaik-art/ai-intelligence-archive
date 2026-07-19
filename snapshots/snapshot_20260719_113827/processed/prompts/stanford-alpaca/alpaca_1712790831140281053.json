@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1712790831140281053",
+  "technique_name": "Propose an algorithm that can detect anomalies in a network.",
+  "description": "The proposed algorithm would first gather data from the network, such as the number of requests sent and responses received. This data should be logged regularly and carefully monitored. The algorithm could then use this data to create an established baseline of typical behavior, or the \"normal\" state of the network. If the algorithm detects any deviation from the baseline, it can then analyze the data to determine if the deviation is an anomaly. To do this, the algorithm can compare the new dat",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

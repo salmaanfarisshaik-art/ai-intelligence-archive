@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3141851838470195840",
+  "skill_name": "Design a function to take a list of numbers and return the sum of the numbers.",
+  "workflow": "def list_sum(lst):\n    # Initialize a variable to store the sum\n    sum = 0\n\n    # Iterate through the list\n    for num in lst:\n        # Add each number to the sum\n        sum += num\n\n    # Return the sum\n    return sum\n\nlist_sum([1,2,3,4,5]) # returns 15",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

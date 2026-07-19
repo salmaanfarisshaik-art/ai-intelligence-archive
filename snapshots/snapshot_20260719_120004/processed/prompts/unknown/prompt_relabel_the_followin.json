@@ -1,0 +1,7 @@
+{
+  "instruction": "Relabel the following data frame into ‘Gender’ and ‘Age’ columns",
+  "input": "Male\t43\nFemale\t17",
+  "output": "Gender\tAge\nMale\t43\nFemale\t17",
+  "unique_id": "prompt_relabel_the_followin",
+  "schema_version": "1.0"
+}

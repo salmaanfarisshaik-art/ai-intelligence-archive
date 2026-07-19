@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6434949044207549173",
+  "technique_name": "Find the average number in a list.",
+  "description": "def avg_list(nums):\n   total = 0\n   for n in nums:\n      total += n\n   return total / len(nums)\n\nprint(avg_list([4, 3, 6, 10, 8]))\n\n# Output\n6.4",
+  "example": "[4, 3, 6, 10, 8]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

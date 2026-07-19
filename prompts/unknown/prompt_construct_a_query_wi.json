@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a query with a JOIN clause to retrieve data from two related tables.",
+  "input": "tbl1: Customers;\ntbl2: Orders;",
+  "output": "SELECT c.name, o.order_date \nFROM Customers c \nINNER JOIN Orders o \nON c.customer_id = o.customer_id;",
+  "unique_id": "prompt_construct_a_query_wi",
+  "schema_version": "1.0"
+}

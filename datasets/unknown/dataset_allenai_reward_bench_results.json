@@ -1,0 +1,20 @@
+{
+  "_id": "65835addd061a54e71b7638c",
+  "id": "allenai/reward-bench-results",
+  "author": "allenai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-07T14:08:13.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "96302cc604e4f257dc526272c803c4eff27e3469",
+  "description": "\n\t\n\t\t\n\t\tResults for Holisitic Evaluation of Reward Models (HERM) Benchmark\n\t\n\nHere, you'll find the raw scores for the HERM project.\nThe repository is structured as follows. \n├── best-of-n/                           <- Nested directory for different completions on Best of N challenge\n|   ├── alpaca_eval/                         └── results for each reward model\n|   |   ├── tulu-13b/{org}/{model}.json  \n|   |   └── zephyr-7b/{org}/{model}.json \n|   └── mt_bench/                        \n|… See the full description on the dataset page: https://huggingface.co/datasets/allenai/reward-bench-results.",
+  "downloads": 66694,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2023-12-20T21:21:33.000Z",
+  "key": "",
+  "unique_id": "dataset_allenai_reward_bench_results",
+  "schema_version": "1.0"
+}

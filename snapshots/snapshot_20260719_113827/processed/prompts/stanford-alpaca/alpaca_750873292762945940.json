@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_750873292762945940",
+  "technique_name": "Add a feature in the given code so that it can accept wildcards and special characters.",
+  "description": "# Python 3 program to validate \n# IPv4 address \n\n# Function to validate a given IPv4 address. \ndef validate_IPv4(s): \n    l = s.split(\".\") \n    if len(l) != 4: \n        return False\n    for x in l: \n        if x != '*' and x != '#' and (not x.isdigit() or int(x)>255): \n            return False\n    return True\n\n# Driver Code \ns = \"192.168.1.*\"\nif validate_IPv4(s): \n    print(\"valid\") \nelse: \n    print(\"Invalid\")",
+  "example": "# Python 3 program to validate \n# IPv4 address \n\n# Function to validate a given IPv4 address. \ndef validate_IPv4(s): \n    l = s.split(\".\") \n    if len(l) != 4: \n        return False\n    for x in l: \n        if not x.isdigit() or int(x)>255: \n            return False\n    return True\n\n# Driver Code \ns = \"192.168.1.2\"\nif validate_IPv4(s): \n    print(\"valid\") \nelse: \n    print(\"Invalid\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

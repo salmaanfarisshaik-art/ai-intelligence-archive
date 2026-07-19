@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3176742331332773947",
+  "skill_name": "Develop an algorithm for calculating the Fibonacci sequence.",
+  "workflow": "The Fibonacci sequence can be calculated using a recursive algorithm, which is as follows: \n\ndef Fibonacci(n): \n  if n<=0: \n    return 0\n  elif n==1: \n    return 1\n  else: \n    return Fibonacci(n-1)+Fibonacci(n-2) \n\nThis algorithm uses recursion to calculate the nth number of the Fibonacci sequence. The algorithm begins by setting up two cases, one for n = 0 and the other for n = 1. If n = 0 or 1, the function simply returns the value of n.  If n is larger than 1, the function recursively calls ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6060723887621004106",
+  "skill_name": "Write an algorithm for printing out all Fibonacci numbers up to 100.",
+  "workflow": "//Fibonacci sequence algorithm \n \n//Set up two variables to track the current and last number\nvar current = 0; \nvar last = 1; \n\n//Loop from 0 to 100\nfor (var i = 0; i < 100; i++) { \n \n  //Calculate the next Fibonacci number as the sum of the two variables \n  var temp = current + last; \n \n  //Print out the current number \n  console.log(current); \n \n  //Rebind the last number to the current number \n  last = current;  \n  \n  //Rebind the current number to the value stored in the temp variable \n  cur",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

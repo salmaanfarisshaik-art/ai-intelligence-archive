@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5652484282095172072",
+  "technique_name": "What is the shortest path between two given points?",
+  "description": "The shortest path between Point A (1,2) and Point B (-4,2) is a straight line of length 5.5 units, starting at Point A and ending at Point B. This path can be formulated as a vector equation: (x, y) = (1+t, 2) with 0 < t < 5.5. This equation can be rearranged to determine the value of the parameter t which will yield the shortest path between the two points: t = 5.5. Moving the point of origin to Point A (1,2) and substituting (1+5.5, 2) in the equation of the line gives the point of arrival, wh",
+  "example": "Point A (1, 2) and Point B (-4, 2).",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

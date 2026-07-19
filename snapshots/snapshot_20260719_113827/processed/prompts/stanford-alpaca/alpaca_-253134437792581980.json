@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-253134437792581980",
+  "technique_name": "Comment the code to explain what it does.",
+  "description": "# This function checks if a given string is a palindrome. \n# A palindrome is a word, phrase, or sequence of characters that reads the same backward as forward, e.g. 'madam'.\n# The function takes a single argument 'arg' and compares it to its reverse.\n# If it matches, 'True' is returned; if not, 'False' is returned.",
+  "example": "def checkPalindrome(arg):\n   if arg == arg[::-1]:\n      return True\n   else:\n      return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

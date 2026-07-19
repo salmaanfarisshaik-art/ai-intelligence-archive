@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the below list of strings, remove the duplicates and sort the list in descending order.",
+  "input": "[“Apple”, “Orange”, “Apple”, “Banana”]",
+  "output": "The list should return [“Orange”, “Banana”, “Apple”]\n\ndef remove_duplicates(lst): \n    unique_list = [] \n  \n    for x in lst: \n        if x not in unique_list: \n            unique_list.append(x) \n  \n    unique_list.sort(reverse=True) # sort in descending order\n  \n    return unique_list",
+  "unique_id": "prompt_given_the_below_list",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop a way to teach a computer to count to ten.",
+  "input": "",
+  "output": "One way to teach a computer to count to ten would be to use a loop, where the program runs through the same code block until it reaches the desired number. The code would look something like this: \n\nfor(int i=1; i<=10; i++) {\n  cout << i;\n}\n\nThis loop would output the numbers from one to ten.",
+  "unique_id": "prompt_develop_a_way_to_tea",
+  "schema_version": "1.0"
+}

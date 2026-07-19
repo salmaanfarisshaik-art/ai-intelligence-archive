@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7542527973269930555",
+  "skill_name": "Make an outline of the steps for solving a Sudoku puzzle.",
+  "workflow": "1. Inspect the grid and look for the simplest solutions\n2. Examine two empty squares that are in the same row, column, or 3x3 box\n3. Look for any other solved numbers around the two squares \n4. Make a note of the possible numbers for the two squares\n5. Re-check the neighboring numbers for finer possibilities\n6. Make your guess and continue solving\n7. Check each of the 3x3 boxes and rows/columns to ensure all the numbers are present\n8. Continue until the entire puzzle is solved.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

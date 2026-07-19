@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1305743500997795354",
+  "technique_name": "Create HTML code for a registration form.",
+  "description": "<!DOCTYPE html>\n<html>\n<head>\n<title>Registration Form</title>\n</head>\n<body>\n\n<form action=\"/form-submit\" method=\"POST\">\n  <div>\n    <label for=\"name\">Name:</label><br>\n    <input type=\"text\" id=\"name\" name=\"name\">\n  </div>\n  <div>\n    <label for=\"email\">Email:</label><br>\n    <input type=\"email\" id=\"email\" name=\"email\">\n  </div>\n  <div>\n    <label for=\"password\">Password:</label><br>\n    <input type=\"password\" id=\"password\" name=\"password\">\n  </div>\n  <div>\n    <button type=\"submit\">Submit</bu",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

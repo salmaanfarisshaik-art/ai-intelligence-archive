@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a pythont program to find the highest common factor of two numbers.",
+  "input": "",
+  "output": "def findHCF(a,b): \n      \n    if(b == 0): \n        return a \n    else: \n        return findHCF(b, a%b) \n    \na = int (input(\"Enter first number : \")) \nb = int (input(\"Enter second number : \")) \n\nprint(\"The H.C.F. is\", findHCF(a, b))",
+  "unique_id": "prompt_generate_a_pythont_p",
+  "schema_version": "1.0"
+}

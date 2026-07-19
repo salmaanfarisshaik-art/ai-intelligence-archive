@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3048079631700222733",
+  "skill_name": "Generate an algorithm that evaluates the sentiment of a text.",
+  "workflow": "1. Begin by splitting the text into individual sentences.\n2. For each sentence, use a sentiment analysis tool to assign it a sentiment score from -1 (most negative) to +1 (most positive). \n3. For each sentence, assign a weight to the sentiment score based on the length of the sentence.\n4. Take the sum of all sentiment scores and their corresponding weights in order to calculate the overall sentiment of the text.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

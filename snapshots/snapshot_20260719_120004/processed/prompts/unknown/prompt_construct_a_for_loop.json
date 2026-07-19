@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a for loop for the following expression 10 + 2n",
+  "input": "",
+  "output": "for n in range(0, 10):\n    print(10 + 2*n)",
+  "unique_id": "prompt_construct_a_for_loop",
+  "schema_version": "1.0"
+}

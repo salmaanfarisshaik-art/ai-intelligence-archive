@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.05025v2",
+  "schema_version": "1.0",
+  "name": "RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.05025v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.05025v2",
+    "updated": "2026-06-12T16:02:56Z",
+    "published": "2025-12-04T17:40:17Z",
+    "title": "RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation",
+    "summary": "Earth observation (EO) data spans a wide range of spatial, spectral, and temporal resolutions, from high-resolution optical imagery to low resolution multispectral products or radar time series. While recent foundation models have improved multimodal integration for learning meaningful representations, they often expect fixed input resolutions or are based on sensor-specific encoders limiting generalization across heterogeneous EO modalities. To overcome these limitations we introduce RAMEN, a resolution-adjustable multimodal encoder that learns a shared visual representation across EO data in a fully sensor-agnostic manner. RAMEN treats the modality and spatial and temporal resolutions as key input data features, enabling coherent analysis across modalities within a unified latent space. Its main methodological contribution is to define spatial resolution as a controllable output parameter, giving users direct control over the desired level of detail at inference and allowing explicit trade-offs between spatial precision and computational cost. We train a single, unified transformer encoder reconstructing masked multimodal EO data drawn from diverse sources, ensuring generalization across sensors and resolutions. Once pretrained, RAMEN transfers effectively to both known and unseen sensor configurations and outperforms larger state-of-the-art models on the community-standard PANGAEA benchmark, containing various multi-sensor and multi-resolution downstream tasks. Our code and pretrained model are available at https://github.com/nicolashoudre/RAMEN.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:02:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.05025v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

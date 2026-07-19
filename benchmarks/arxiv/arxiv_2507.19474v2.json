@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.19474v2",
+  "schema_version": "1.0",
+  "name": "DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.19474v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.19474v2",
+    "updated": "2026-07-16T17:12:53Z",
+    "published": "2025-07-25T17:57:37Z",
+    "title": "DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations",
+    "summary": "This paper presents DINO-SLAM, a DINO-informed design strategy to enhance implicit (Neural Radiance Field -- NeRF) and explicit representations (Gaussian Splatting -- GS) in SLAM systems through the more comprehensive semantics understanding enabled by DINO. This latter alone, however, lacks proper 3D geometry understanding, allowing only for marginal improvements. Therefore, we rely on a Scene Geometry Encoder (SGE) to enrich DINO features into geometry-aware DINO features (geoDINO), to better understand those geometric relationships that vanilla DINO features fail to capture. Building upon it, we propose two foundational paradigms for NeRF and GS SLAM systems integrating geoDINO features. Compared to state-of-the-art methods, our DINO-informed pipelines achieve superior performance on the Replica, ScanNet, and TUM datasets.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T17:12:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.19474v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "unique_id": "hf_ds_69f0c6101cc98d8ac04c03cd",
+  "schema_version": "1.0",
+  "name": "jasperai/monet",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MONET\n\t\n\nMONET (Massive, Open, Non-redundant and Enriched Text-to-image dataset) is a large-scale, curated image-text dataset designed for training text-to-image (T2I) systems. It contains 104.9 million high-quality image-text pairs distilled from 2.9 billion raw pairs across nine heterogeneous open sources (6 real and 3 synthetic) through successive stages of safety filtering, domain-based filtering, exact and near-duplicate removal, and re-captioning with… See the full description on the dataset page: https://huggingface.co/datasets/jasperai/monet.",
+  "size": "185369",
+  "source_url": "https://huggingface.co/datasets/jasperai/monet",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "69f0c6101cc98d8ac04c03cd",
+    "id": "jasperai/monet",
+    "author": "jasperai",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-05-29T10:16:25.000Z",
+    "likes": 135,
+    "private": false,
+    "sha": "8ec2189db8fa36bb41ea29aff7341bc5092d7482",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for MONET\n\t\n\nMONET (Massive, Open, Non-redundant and Enriched Text-to-image dataset) is a large-scale, curated image-text dataset designed for training text-to-image (T2I) systems. It contains 104.9 million high-quality image-text pairs distilled from 2.9 billion raw pairs across nine heterogeneous open sources (6 real and 3 synthetic) through successive stages of safety filtering, domain-based filtering, exact and near-duplicate removal, and re-captioning with… See the full description on the dataset page: https://huggingface.co/datasets/jasperai/monet.",
+    "downloads": 185369,
+    "tags": [
+      "task_categories:text-to-image",
+      "task_categories:image-feature-extraction",
+      "task_categories:zero-shot-image-classification",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:100M<n<1B",
+      "arxiv:2605.21272",
+      "region:us",
+      "multimodal",
+      "image-text",
+      "captioning",
+      "text-to-image",
+      "synthetic-data"
+    ],
+    "createdAt": "2026-04-28T14:37:04.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2026-05-29T10:16:25.000Z",
+  "links": {
+    "related_models": [
+      "datasets/jasperai"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

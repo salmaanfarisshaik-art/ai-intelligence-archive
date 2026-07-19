@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query in PostgreSQL to list customers with orders in a particular month.",
+  "input": "Month: April 2021",
+  "output": "SELECT customers.name \nFROM customers \nINNER JOIN orders \nON customers.id = orders.customer_id \nWHERE EXTRACT(MONTH FROM orders.order_created_at) = '04' \n  AND EXTRACT (YEAR FROM orders.order_created_at) = '2021'",
+  "unique_id": "prompt_write_a_query_in_pos",
+  "schema_version": "1.0"
+}

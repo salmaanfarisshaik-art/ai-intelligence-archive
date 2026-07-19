@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6714160880046068392",
+  "technique_name": "Given a number expression, identify the mathematical operation(s) needed to solve it.",
+  "description": "The given mathematical expression requires two operations: multiplication and subtraction. Therefore, it can be solved using the order of operations, beginning with the subtraction operation: 8 x (7 – 4) = 8 x (3) = 24.",
+  "example": "8 x (7 – 4)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

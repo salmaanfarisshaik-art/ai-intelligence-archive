@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-9043666729303955870",
+  "skill_name": "Create a function to check if an array contains an item.",
+  "workflow": "def contains(array, item):\n    for element in array:\n        if element == item:\n            return True\n    return False",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

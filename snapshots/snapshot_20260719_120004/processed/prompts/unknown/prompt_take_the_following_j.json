@@ -1,0 +1,7 @@
+{
+  "instruction": "Take the following JSON data, and turn the output into a table.",
+  "input": "{\n  \"1\": {\n    \"Name\": \"John\",\n    \"Age\": 20\n  },\n  \"2\": {\n    \"Name\": \"Jane\",\n    \"Age\": 25\n  },\n  \"3\": {\n    \"Name\": \"Nancy\",\n    \"Age\": 30\n  },\n  \"4\": {\n    \"Name\": \"Alex\",\n    \"Age\": 35\n  }\n}",
+  "output": "`Number` | `Name` | `Age`\n------- | ------ | ----- \n1 | John | 20\n2 | Jane | 25\n3 | Nancy | 30\n4 | Alex | 35",
+  "unique_id": "prompt_take_the_following_j",
+  "schema_version": "1.0"
+}

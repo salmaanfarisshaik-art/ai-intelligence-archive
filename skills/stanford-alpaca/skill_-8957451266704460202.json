@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8957451266704460202",
+  "skill_name": "Create a container class that holds two values.",
+  "workflow": "class Container { \n  private String value1;\n  private String value2;\n  \n  public Container(String value1, String value2) { \n    this.value1 = value1; \n    this.value2 = value2; \n  } \n  \n  public String getValue1() { \n    return value1; \n  } \n  \n  public String getValue2() { \n    return value2; \n  } \n  \n  public void setValue1(String value1) { \n    this.value1 = value1; \n  } \n  \n  public void setValue2(String value2) { \n    this.value2 = value2; \n  } \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a data set, calculate the standard deviation",
+  "input": "SELECT column1, column2, column3 FROM mytable;",
+  "output": "SELECT column1,column2,column3,STDDEV(column1),STDDEV(column2),STDDEV(column3) FROM mytable;",
+  "unique_id": "prompt_given_a_data_set_ca",
+  "schema_version": "1.0"
+}

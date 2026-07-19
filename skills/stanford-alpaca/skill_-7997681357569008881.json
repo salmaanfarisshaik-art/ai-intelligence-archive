@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7997681357569008881",
+  "skill_name": "Create a Java program for calculating the factorial of a number",
+  "workflow": "public class Factorial {\n    public static void main(String[] args) {\n        int num = 5;\n        int factorial = 1;\n        for(int i = 1; i <= num; i++) {\n            factorial = factorial * i;\n        }\n        System.out.println(\"The factorial of \" + num + \" is: \" + factorial);\n    }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

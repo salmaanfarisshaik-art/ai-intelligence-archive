@@ -1,0 +1,7 @@
+{
+  "instruction": "How would you generate random numbers between 1 and 10 in Java?",
+  "input": "",
+  "output": "In Java, you can generate random numbers between 1 and 10 using the following code: \n\nint max = 10;\nint min = 1;\nint range = max - min + 1;\n\nint randomNumber = (int) (Math.random() * range) + min;",
+  "unique_id": "prompt_how_would_you_genera",
+  "schema_version": "1.0"
+}

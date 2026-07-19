@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8275589494815393470",
+  "technique_name": "Create a code in Python to add the elements of two numpy arrays.",
+  "description": "import numpy as np\na = np.array([1,2,3])\nb = np.array([4,5,6])\n\nc = a+b\n\nprint(c)\n\n# Output\narray([5, 7, 9])",
+  "example": "a = [1, 2, 3]\nb = [4, 5, 6]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

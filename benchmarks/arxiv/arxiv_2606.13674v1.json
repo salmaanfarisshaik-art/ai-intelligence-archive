@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.13674v1",
+  "schema_version": "1.0",
+  "name": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.13674v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.13674v1",
+    "updated": "2026-06-11T17:59:43Z",
+    "published": "2026-06-11T17:59:43Z",
+    "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+    "summary": "This work presents RepWAM, a representation-centric world action model (WAM) built on representation visual-action tokenizers. Existing WAMs typically inherit reconstruction-oriented video tokenizers from pretrained video generation models. Although these tokenizers preserve visual fidelity, pixel reconstruction alone provides limited guidance for learning instruction-following dynamics that connect future prediction with robot control. To address this, we explore a semantic visual-action latent space for representation-centric world action modeling. Specifically, we train a representation visual-action tokenizer that maps visual inputs into aligned visual and latent action tokens. We then pretrain our WAM to jointly model future visual states and the latent actions that connect them under language instructions, followed by adaptation to real robot trajectories for closed-loop manipulation. Experiments on real-world manipulation tasks and simulation benchmarks show that RepWAM delivers strong performance across diverse manipulation settings, while ablations highlight the value of semantic visual-action tokenization over reconstruction-oriented alternatives. These results establish representation visual-action tokenization as a promising foundation for world action models and a step toward generalist robot policies. Code and weights will be available at https://github.com/wdrink/RepWAM.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:59:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.13674v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

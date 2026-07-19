@@ -1,0 +1,7 @@
+{
+  "instruction": "Give a 5-step process to solve this math equation.",
+  "input": "(x^2+5x+6)/(x-2)",
+  "output": "1. Change the equation to fraction bar form, so that it can be understood more clearly: (x^2+5x+6)÷(x-2)\n2. Factor the numerator: (x^2+5x+6) = (x+3)(x+2) \n3. Simplify the denominator: (x-2) = (x+2 - 4) = (x+2) - 4 \n4. Simplify the numerator and denominator: (x+3)(x+2) ÷ (x+2) - 4\n5. Divide the numerator and denominator: (x+3) ÷ (x+2 - 4)",
+  "unique_id": "prompt_give_a_5_step_proces",
+  "schema_version": "1.0"
+}

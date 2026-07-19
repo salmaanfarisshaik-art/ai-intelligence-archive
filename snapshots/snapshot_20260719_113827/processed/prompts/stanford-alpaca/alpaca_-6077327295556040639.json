@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6077327295556040639",
+  "technique_name": "Create an algorithm to solve the word jumble below",
+  "description": "Algorithm:\n1. Take each character in the word and compare it to the characters in a predefined list of English words.\n2. Check to see if the character fits in any of the words in the predefined list.\n3. If it does, then move on and check the next character in the word.\n4. If it does not, then backtrack and try a different character for that position.\n5. Repeat step 4 until the desired word is found. \n6. If a desired word is not found, then there is no solution. \n7. If a desired word is found, th",
+  "example": "aalw",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

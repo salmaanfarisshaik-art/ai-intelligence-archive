@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_648596168115937049",
+  "technique_name": "Write a function that converts a Roman numeral to an integer.",
+  "description": "def convert_roman_to_integer(roman):\n    rom_val = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}\n \n    int_val = 0\n    for i in range(len(roman)):\n        if i > 0 and rom_val[roman[i]] > rom_val[roman[i - 1]]:\n            int_val += rom_val[roman[i]] - 2 * rom_val[roman[i - 1]]\n        else:\n            int_val += rom_val[roman[i]]\n\n    return int_val",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1576775385378526852",
+  "technique_name": "Generate a query to find all customers who have made more than 50 purchases",
+  "description": "SELECT customer_name FROM customer c JOIN sale s ON c.customer_id = s.customer_id GROUP BY s.customer_id HAVING COUNT(s.customer_id) > 50;",
+  "example": "Given table: customer and sale.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

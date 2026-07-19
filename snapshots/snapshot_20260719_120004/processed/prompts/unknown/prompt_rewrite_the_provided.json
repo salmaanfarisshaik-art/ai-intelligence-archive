@@ -1,0 +1,7 @@
+{
+  "instruction": "Rewrite the provided code as an anonymous function.",
+  "input": "function sum(a, b) {\n  return a + b;\n}",
+  "output": "const sum = (a,b) => a+b;",
+  "unique_id": "prompt_rewrite_the_provided",
+  "schema_version": "1.0"
+}

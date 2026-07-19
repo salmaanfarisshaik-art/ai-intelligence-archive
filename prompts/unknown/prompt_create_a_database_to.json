@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a database to store the user data given below.",
+  "input": "Username\nPassword\nEmail\nPhone number",
+  "output": "The following database can be created to store user data: \nTable name: users\nFields: username (string), password (encrypted string), email (string), phone number (string).",
+  "unique_id": "prompt_create_a_database_to",
+  "schema_version": "1.0"
+}

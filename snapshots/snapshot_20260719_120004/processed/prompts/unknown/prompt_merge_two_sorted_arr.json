@@ -1,0 +1,7 @@
+{
+  "instruction": "Merge two sorted arrays of integers into one sorted array.",
+  "input": "[1, 2, 5, 8], [3, 4, 6, 7]",
+  "output": "def mergeSortedArrays(arr1, arr2):\n    outputArray = []\n    arr1_Index = 0\n    arr2_Index = 0\n\n    while arr1_Index < len(arr1) and arr2_Index < len(arr2):\n        if arr1[arr1_Index] < arr2[arr2_Index]:\n            outputArray.append(arr1[arr1_Index])\n            arr1_Index += 1\n        else:\n            outputArray.append(arr2[arr2_Index])\n            arr2_Index += 1\n    while arr1_Index < len(arr1):\n        outputArray.append(arr1[arr1_Index])\n        arr1_Index += 1\n    \n    while arr2_Index < len(arr2):\n        outputArray.append(arr2[arr2_Index])\n        arr2_Index += 1 \n    return outputArray\n    \narr1 = [1, 2, 5, 8]\narr2 = [3, 4, 6, 7]\nmergeSortedArrays(arr1, arr2) # [1,2,3,4,5,6,7,8]",
+  "unique_id": "prompt_merge_two_sorted_arr",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5826356695376760363",
+  "skill_name": "Calculate the mean of a given array of numbers.",
+  "workflow": "def mean(arr):\n    \"\"\"Calculate the mean of a given array of numbers.\n\n    :param arr: An array of numbers\n    :return: The mean of the array\n    \"\"\"\n    total = 0\n\n    for num in arr:\n        total += num\n\n    mean = total / len(arr)\n    return mean\n\nprint(mean([1, 4, 8, 13, 28, 34])) # The mean is 14.833333333333334. The output is accurate.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

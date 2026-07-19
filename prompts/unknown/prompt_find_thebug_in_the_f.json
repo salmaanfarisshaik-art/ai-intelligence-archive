@@ -1,0 +1,7 @@
+{
+  "instruction": "Find thebug in the following code and suggest a fix.",
+  "input": "def add_two_numbers(x, y):\n    x + y",
+  "output": "The bug in the code is that the function does not return the sum of two numbers. To fix this, we can add a return statement to the function: \n\ndef add_two_numbers(x, y):\n    return x + y",
+  "unique_id": "prompt_find_thebug_in_the_f",
+  "schema_version": "1.0"
+}

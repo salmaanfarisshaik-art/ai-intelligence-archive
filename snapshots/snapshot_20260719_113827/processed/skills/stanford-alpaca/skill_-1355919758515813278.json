@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1355919758515813278",
+  "skill_name": "Create an algorithm for searching a text for a specific word.",
+  "workflow": "The algorithm should begin by splitting the text into an array of strings based on the characters such as spaces, tabs, and punctuation. The algorithm should then iterate through the array, comparing each string to the searched-for word. If the strings match, the position of the word should be saved in a list and returned when the algorithm terminates. The algorithm should be case-insensitive, so comparisons should ignore case when determining if the strings match.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

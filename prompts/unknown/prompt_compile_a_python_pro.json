@@ -1,0 +1,7 @@
+{
+  "instruction": "Compile a Python program.",
+  "input": "# main.py\n\ndef hello():\n    print('Hello World!')\n\nif __name__ == '__main__':\n    hello()",
+  "output": "<nooutput> (The output of this instruction is the compiled Python program)",
+  "unique_id": "prompt_compile_a_python_pro",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3202206968802490998",
+  "skill_name": "Create a script in Python that pulls data from a REST API and stores it in a pandas DataFrame.",
+  "workflow": "import requests \nimport pandas as pd \n  \n# URL of the API \nurl = 'https://api.example.com/v1/data'\n  \n# Get the API data \ndata = requests.get(url).json()\n  \n# Store the API data in a pandas Dataframe \ndf = pd.DataFrame(data['items']) \n  \n# Print the Dataframe \nprint(df)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

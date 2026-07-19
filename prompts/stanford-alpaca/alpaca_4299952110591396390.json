@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4299952110591396390",
+  "technique_name": "Write a code to subtract two integers",
+  "description": "\"\"\"\nFunction to subtract two integers\n\"\"\"\ndef subtract_integers(a, b): \n    return a - b \n\nif __name__ == '__main__':\n    a = 8\n    b = 5\n    result = subtract_integers(a, b)\n\n    print(result)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

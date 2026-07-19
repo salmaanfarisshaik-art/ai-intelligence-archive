@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_7528017885841517462",
+  "skill_name": "Write a code to store and access the value of a particular number in a list by passing the address of the location as a parameter.",
+  "workflow": "\"\"\"\nStore and access the value of a particular number in a list by passing the address of the location as a parameter\n\"\"\"\n\ndef get_list_value(mylist, index):\n    return mylist[index]\n\n# example\nmylist = [1, 2, 3, 4, 5]\nvalue = get_list_value(mylist, 2)\nprint(value)  # 3",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

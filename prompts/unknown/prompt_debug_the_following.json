@@ -1,0 +1,7 @@
+{
+  "instruction": "Debug the following code and make sure it prints the sum of all values in the dictionary.",
+  "input": "data = {\n  \"A\": [1, 2, 3],\n  \"B\": [4, 5, 6],\n  \"C\": [7, 8, 9]\n}\n\ndef sum_dict_values(d):\n  total = 0\n  for v in d.values():\n    total += v\n  return total",
+  "output": "data = {\n  \"A\": [1, 2, 3],\n  \"B\": [4, 5, 6],\n  \"C\": [7, 8, 9]\n}\n\ndef sum_dict_values(d):\n  total = 0\n  for v in d.values():\n    total += sum(v)\n  return total\n\nprint(sum_dict_values(data))\n\nOutput: 45",
+  "unique_id": "prompt_debug_the_following",
+  "schema_version": "1.0"
+}

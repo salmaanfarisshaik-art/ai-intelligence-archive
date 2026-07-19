@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a JSON object based on the given description.",
+  "input": "Description:\n\nThe age of the person is 23. The gender is male and the name is Gerard.",
+  "output": "{\"name\": \"Gerard\", \n\"age\": 23, \n\"gender\": \"male\"\n}",
+  "unique_id": "prompt_create_a_json_object",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3955442082088970806",
+  "skill_name": "Create a function that takes two parameters, a string and a number, and outputs \"The number is [number] and the string is [string]\".",
+  "workflow": "def output_params(number, string):\n    \"\"\"This function takes two parameters, a number and a string and outputs\n    \"The number is [number] and the string is [string]\".\n\n    :param number: An integer\n    :param string: A string\n    :return: The output string\n    \"\"\"\n    output = f\"The number is {number} and the string is {string}\"\n    return output\n\nprint(output_params(42, \"John\")) # The number is 42 and the string is John. The output is accurate.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

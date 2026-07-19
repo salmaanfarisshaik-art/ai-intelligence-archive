@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a recursive program that can calculate the factorial.",
+  "input": "",
+  "output": "def factorial(n): \n    if n == 0: \n        return 1\n    else: \n        return n * factorial(n-1)",
+  "unique_id": "prompt_generate_a_recursive",
+  "schema_version": "1.0"
+}

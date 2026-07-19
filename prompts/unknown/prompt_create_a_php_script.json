@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a PHP script to detect whether a string contains a number.",
+  "input": "",
+  "output": "<?php\nfunction containsNumber($string) {\n    if (preg_match('/\\\\d/', $string)) {\n        return true;\n    }\n    return false;\n}\n?>",
+  "unique_id": "prompt_create_a_php_script",
+  "schema_version": "1.0"
+}

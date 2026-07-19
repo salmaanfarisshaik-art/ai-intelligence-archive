@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4721598450728849320",
+  "technique_name": "Given an example, generate an algorithm for sorting it.",
+  "description": "1. Set a variable i to 0.\n2. Set a variable j to (i + 1).\n3. If the item at index i is less than the item at index j, swap the two items.\n4. Increase i by 1, and set j to (i + 1).\n5. Repeat steps 3 and 4 until all items in the list have been compared and swapped if necessary.\n6. Repeat the whole process until no more swaps are necessary.",
+  "example": "[3, 9, 5, 4, 7]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

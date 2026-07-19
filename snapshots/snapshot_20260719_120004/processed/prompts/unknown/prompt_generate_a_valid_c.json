@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a valid C++ code to print out a two-dimensional array",
+  "input": "",
+  "output": "for (int i = 0; i < array_size; i++)\n{\n    for (int j = 0; j < array_size; j++)\n    {\n        cout << array[i][j] << \" \";\n    }\n    cout << endl;\n}",
+  "unique_id": "prompt_generate_a_valid_c",
+  "schema_version": "1.0"
+}

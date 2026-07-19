@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-126494817745587492",
+  "skill_name": "Write a function to find the intersection of two given lists.",
+  "workflow": "def intersect(list1, list2):\n    \"\"\"This function returns the intersection of two given lists.\n\n    Arguments:\n        list1 {list} -- The first list \n        list2 {list} -- The second list \n\n    Returns:\n        list -- The intersection of the two given lists\n    \"\"\"\n    return list(set(list1).intersection(list2))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

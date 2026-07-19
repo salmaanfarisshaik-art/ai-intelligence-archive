@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_657621480957716028",
+  "skill_name": "Suggest an algorithm to find the total number of substrings in a given string.",
+  "workflow": "The following algorithm can be used to find the total number of substrings in a given string: \n\n1. Initialize two variables, count and n, and set count = 0 and n = the length of the string. \n2. Iterate through the length of the string using a for loop and set a variable i as the iterator. \n3. Inside the loop, set another nested loop that allows j to iterate over a range beginning at i and ending at n. \n4. Increment count by n minus i when the inner loop ends. \n5. After the outer loop ends, retur",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

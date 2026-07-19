@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a code in Python to add the elements of two numpy arrays.",
+  "input": "a = [1, 2, 3]\nb = [4, 5, 6]",
+  "output": "import numpy as np\na = np.array([1,2,3])\nb = np.array([4,5,6])\n\nc = a+b\n\nprint(c)\n\n# Output\narray([5, 7, 9])",
+  "unique_id": "prompt_create_a_code_in_pyt",
+  "schema_version": "1.0"
+}

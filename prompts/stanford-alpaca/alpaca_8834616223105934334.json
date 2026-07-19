@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8834616223105934334",
+  "technique_name": "Create a new line plotting the 2nd column of input data against the first column.",
+  "description": "import matplotlib.pyplot as plt\n\nx = [1, 2, 3]\ny = [4, 5, 6]\n\nplt.plot(x, y)\nplt.xlabel('x')\nplt.ylabel('y')\nplt.title('Line Graph')\nplt.show()",
+  "example": "1 4 7\n2 5 8 \n3 6 9",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "68e676786fef2c352898bb95",
+  "id": "IliaLarchenko/behavior_224_rgb",
+  "author": "IliaLarchenko",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-12-09T11:55:10.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "3eae73d6cf2e9d513a8b835b72c934ab459e66fe",
+  "description": "This is the compressed version of the original BEHAVIOR dataset\nIt contains only RGB videos compressed to 224x224 as well as actions, annotations, and metadata files.\nDepth and segmentation data are removed.\nThe dataset is just ~260GB, which makes it easier to use than the original one if you don't need all the data.\nWe used this dataset for our 1st place solution in the NeurIPS 2025 BEHAVIOR Challenge. Code, tech report.\n\n\t\n\t\t\n\t\n\t\n\t\tCitation\n\t\n\n@article{li2024behavior, \n  title={Behavior-1k:… See the full description on the dataset page: https://huggingface.co/datasets/IliaLarchenko/behavior_224_rgb.",
+  "downloads": 25973,
+  "tags": [
+    "license:mit",
+    "modality:video",
+    "arxiv:2512.06951",
+    "arxiv:2403.09227",
+    "region:us",
+    "lerobot",
+    "v2.1"
+  ],
+  "createdAt": "2025-10-08T14:34:32.000Z",
+  "key": "",
+  "unique_id": "dataset_ilialarchenko_behavior_224_rgb",
+  "schema_version": "1.0"
+}

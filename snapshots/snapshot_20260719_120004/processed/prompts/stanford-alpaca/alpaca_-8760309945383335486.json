@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8760309945383335486",
+  "technique_name": "Construct a database design for storing books.",
+  "description": "The tables needed to store books in a database are Books, Authors, Publishers, and Books_Authors. The Books table would have columns for its title, ISBN, language, edition, publisher ID, and publication date. The Authors table would have columns for their ID, name, and biography. The Publishers table would have columns for their ID and name. The Books_Authors table would have columns for ISBN and author ID. This table is necessary to link the Books and Authors tables.",
+  "example": "<no input>",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

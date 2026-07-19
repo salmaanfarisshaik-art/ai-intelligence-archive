@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3590334934128015611",
+  "technique_name": "Generate a pseudocode for sorting an array.",
+  "description": "a. Set a pointer low to the first element in the array\nb. Set a pointer high to the last element in the array\nc. While the low pointer is less than the high pointer \nd. If the element at the low pointer is higher than the element at the high pointer \n  i. Swap the elements\n  ii. Increment the low pointer by 1\n  iii. Decrement the high pointer by 1\ne. Repeat step c until the low pointer is equal or higher than the high pointer\nf. Sort the elements in the subarray between the two pointers using th",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

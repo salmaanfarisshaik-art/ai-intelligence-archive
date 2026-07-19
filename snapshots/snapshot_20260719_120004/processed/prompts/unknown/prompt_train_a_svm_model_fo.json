@@ -1,0 +1,7 @@
+{
+  "instruction": "Train a SVM model for the given dataset.",
+  "input": "",
+  "output": "import numpy as np\nfrom sklearn.svm import SVC\n\n# Load the dataset\nX = np.load('data/X.npy')\ny = np.load('data/y.npy')\n\n# Train the model \nclf = SVC()\nclf.fit(X, y)",
+  "unique_id": "prompt_train_a_svm_model_fo",
+  "schema_version": "1.0"
+}

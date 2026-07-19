@@ -1,0 +1,7 @@
+{
+  "instruction": "Determine the precision and recall values of the following classification model.",
+  "input": "True Positives: 15\nFalse Positives: 5\nTrue Negatives: 10\nFalse Negatives: 20",
+  "output": "Precision: 15/(15+5) = 0.75\nRecall: 15/(15+20) = 0.43",
+  "unique_id": "prompt_determine_the_precis",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_765283011048066163",
+  "skill_name": "Construct a query to find an article about the economic benefits of renewable energy sources.",
+  "workflow": "SELECT * FROM Articles WHERE topic = 'Renewable Energy' AND content LIKE '%economic benefits%';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

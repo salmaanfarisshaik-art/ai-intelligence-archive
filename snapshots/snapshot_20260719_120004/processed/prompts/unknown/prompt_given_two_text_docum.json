@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two text documents, determine which one is the most relevant given a keyword.",
+  "input": "Document 1: Acme Corp had challenges with quality and customer service last year\nDocument 2: Acme Corp had a successful year with high profits and customer satisfaction\nKeyword: customer service",
+  "output": "Document 1 is the most relevant, since it mentions the keyword \"customer service\".",
+  "unique_id": "prompt_given_two_text_docum",
+  "schema_version": "1.0"
+}

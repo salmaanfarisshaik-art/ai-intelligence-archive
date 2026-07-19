@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_745968097159894826",
+  "skill_name": "Create a program that assigns a number based on the strength of the given password.",
+  "workflow": "def password_strength(input_password):\n    # Initializing the strength variable to 0\n    strength = 0 \n    # Checking the length of the password \n    if len(input_password) >= 8:\n        strength += 1 \n    # Checking for uppercase characters \n    if any(char.isupper() for char in input_password): \n        strength += 1\n    # Checking for lowercase characters \n    if any(char.islower() for char in input_password): \n        strength += 1\n    # Checking for special characters \n    if any(char in '!",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

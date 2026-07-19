@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2571307783388042651",
+  "technique_name": "Write a function that takes an array of numbers and sorts them in ascending order.",
+  "description": "function sortAscending(arr) { \n    return arr.sort((a, b) => a-b); \n};",
+  "example": "[5, 2, 9, 7, 4, 1]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

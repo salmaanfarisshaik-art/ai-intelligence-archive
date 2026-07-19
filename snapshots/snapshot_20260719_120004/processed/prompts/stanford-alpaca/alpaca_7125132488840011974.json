@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7125132488840011974",
+  "technique_name": "Create a web page to allow users to register for your workshop.",
+  "description": "<html>\n  <head>\n    <title>Register for Workshop</title>\n  </head>\n  <body>\n    <h1>Welcome!</h1>\n    <p>Ready to join the workshop? Please fill out the form below to complete your registration.</p>\n    <form action=\"register.php\" method=\"post\">\n      <p>Name: <input type=\"text\" name=\"name\" /></p>\n      <p>Email: <input type=\"text\" name=\"email\" /></p>\n      <p>Phone: <input type=\"text\" name=\"phone\" /></p>\n      <input type=\"submit\" value=\"Submit\" />\n    </form>\n  </body>\n</html>",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

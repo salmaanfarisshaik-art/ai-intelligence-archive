@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2878842287875821307",
+  "skill_name": "When given a set of time intervals, explain one approach to finding the minimum number of timeframes required to cover all intervals.",
+  "workflow": "One approach to finding the minimum number of timeframes required to cover all intervals is to use the Greedy Algorithm. This algorithm works by finding the next overlapping interval that has not yet been covered and adding it to the current time frame if it is shorter or makes a new time frame otherwise. The algorithm then continues until all intervals have been covered.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

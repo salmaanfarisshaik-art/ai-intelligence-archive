@@ -1,0 +1,7 @@
+{
+  "instruction": "Train a model using this data.",
+  "input": "This dataset contains 8000 images of cats and dogs.",
+  "output": "The model can be trained using the dataset by first pre-processing the images to resize and normalize them. Then, the dataset can be split into training, validation and testing sets. Finally, the model can be trained by inputting the training set and evaluating the model on the validation set.",
+  "unique_id": "prompt_train_a_model_using",
+  "schema_version": "1.0"
+}

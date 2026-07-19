@@ -1,0 +1,55 @@
+{
+  "unique_id": "hf_ds_621ffdd236468d709f181dba",
+  "schema_version": "1.0",
+  "name": "abisee/cnn_dailymail",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for CNN Dailymail Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering. \n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\n\n'summarization': Versions… See the full description on the dataset page: https://huggingface.co/datasets/abisee/cnn_dailymail.",
+  "size": "260092",
+  "source_url": "https://huggingface.co/datasets/abisee/cnn_dailymail",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "621ffdd236468d709f181dba",
+    "id": "abisee/cnn_dailymail",
+    "author": "abisee",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2024-01-18T15:31:34.000Z",
+    "likes": 346,
+    "private": false,
+    "sha": "96df5e686bee6baa90b8bee7c28b81fa3fa6223d",
+    "description": "\n\t\n\t\t\n\t\tDataset Card for CNN Dailymail Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe CNN / DailyMail Dataset is an English-language dataset containing just over 300k unique news articles as written by journalists at CNN and the Daily Mail. The current version supports both extractive and abstractive summarization, though the original version was created for machine reading and comprehension and abstractive question answering. \n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\n\n'summarization': Versions… See the full description on the dataset page: https://huggingface.co/datasets/abisee/cnn_dailymail.",
+    "downloads": 260092,
+    "paperswithcode_id": "cnn-daily-mail-1",
+    "tags": [
+      "task_categories:summarization",
+      "task_ids:news-articles-summarization",
+      "annotations_creators:no-annotation",
+      "language_creators:found",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:en",
+      "license:apache-2.0",
+      "size_categories:100K<n<1M",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:dask",
+      "library:mlcroissant",
+      "library:polars",
+      "region:us"
+    ],
+    "createdAt": "2022-03-02T23:29:22.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2024-01-18T15:31:34.000Z",
+  "links": {
+    "related_models": [
+      "datasets/abisee"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

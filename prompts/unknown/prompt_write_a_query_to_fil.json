@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to filter out records in the given table.",
+  "input": "[Table containing employee records]",
+  "output": "SELECT * FROM employees WHERE salary > 10000;",
+  "unique_id": "prompt_write_a_query_to_fil",
+  "schema_version": "1.0"
+}

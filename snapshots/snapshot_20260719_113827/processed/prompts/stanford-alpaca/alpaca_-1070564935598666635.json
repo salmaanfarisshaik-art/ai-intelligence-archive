@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1070564935598666635",
+  "technique_name": "Write a function to reverse the order of a list.",
+  "description": "def reverse_list(list1):\n  return list1[::-1]\n  \nlist1 = [10, 20, 30, 40]\n\nlist1 = reverse_list(list1)\n\nprint(list1)\n\n# Output: [40, 30, 20, 10]",
+  "example": "list1 = [10, 20, 30, 40]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

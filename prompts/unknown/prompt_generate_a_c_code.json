@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a C++ code that prints out the numbers 0 to 9 using a loop construct.",
+  "input": "",
+  "output": "#include <iostream> \n  \nusing namespace std; \n  \nint main() \n{ \n    int i; \n  \n    // Using for loop to print 0 to 9 \n    for (i = 0; i < 10; i++) \n        cout << i << \"\\n\"; \n  \n    return 0; \n}",
+  "unique_id": "prompt_generate_a_c_code",
+  "schema_version": "1.0"
+}

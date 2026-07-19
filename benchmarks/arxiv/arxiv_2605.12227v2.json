@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12227v2",
+  "schema_version": "1.0",
+  "name": "A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12227v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12227v2",
+    "updated": "2026-06-16T16:53:23Z",
+    "published": "2026-05-12T15:04:18Z",
+    "title": "A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation",
+    "summary": "Existing approaches to post-train models for long-context tasks face complementary limitations: (i) supervised fine-tuning (SFT) provides stable supervision but suffers from exposure bias; (ii) reinforcement learning methods such as Group Relative Policy Optimization (GRPO) train on model-generated trajectories but struggle with long-horizon credit assignment and sparse rewards; and (iii) on-policy distillation (OPD) provides dense token-level guidance but does not directly optimize task rewards. We study these complementary strategies for long-context alignment and derive a recipe that combines GRPO with OPD-style teacher guidance: the student learns from its own rollouts using outcome-level rewards, while a stronger teacher provides dense token-level regularization in place of the standard reference policy. This is especially useful when process-level supervision is difficult to obtain. To support this study, we introduce LongBlocks, a synthetic multilingual dataset spanning multi-hop reasoning, contextual grounding, and long-form generation. Through controlled ablations, we isolate the roles of cold-start initialization, teacher anchoring, and data mixing, showing that our recipe yields a more stable and effective path to long-context reasoning than GRPO or OPD while preserving short-context capabilities.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-17T03:29:31Z",
+  "last_updated": "2026-06-16T16:53:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12227v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4902057208568398222",
+  "skill_name": "Create a function which generates all pairs of numbers within a given range with a given sum.",
+  "workflow": "A function 'findPair(low, high, sum)' can be used to generate all pairs of numbers within a given range with a given sum. The function takes in three parameters, low and high which define the range, and sum which defines the given sum. The function can be implemented as follows: \n\ndef findPair(low, high, sum): \n  outputList = []\n  for i in range(low, high + 1): \n    for j in range(low, high + 1): \n      if (i + j == sum):\n        outputList.append([i,j])\n  return outputList",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

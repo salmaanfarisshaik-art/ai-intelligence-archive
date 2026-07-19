@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-9153128613341979841",
+  "skill_name": "Generate a correct java program to find the nth term of an arithmetic sequence.",
+  "workflow": "public class ArithmeticSequence {\n    public static int nthTerm(int a, int d, int n) {\n        // 'a' is first term  \n        // 'd' is common difference  \n        // 'n' is the nth term\n        int result = a + (n - 1) * d;  \n        return result; \n    }\n    public static void main(String[] args){  \n        // Sample usage\n        int a = 3;\n        int d = 2;\n        int n = 4;\n        int nthTerm = nthTerm(a, d, n);\n        System.out.println(n + \"th term of the arithmetic sequence with firs",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

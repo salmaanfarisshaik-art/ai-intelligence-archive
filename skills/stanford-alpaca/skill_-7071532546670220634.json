@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7071532546670220634",
+  "skill_name": "Create an algorithm to remove duplicates from a singly linked list.",
+  "workflow": "1. Create a temporary node, traverse the linked list, and store the address of each node into the temporary node. \n2. Check if the address of the current node is present in the temporary node or not. \n3. If the address of the current node is present, meaning it is a duplicate node, then delete the node. \n4. If not, then store the address of the node and proceed to the next node. \n5. Repeat steps 2-4 until the end of the linked list.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6084204831913745096",
+  "technique_name": "Generate a C++ program to find the minimum and maximum value of a given array",
+  "description": "#include <iostream>\n#include <algorithm>\n\nint main() {\n  int arr[] = {1, 2, 4, 8, 16};\n\n  int n = sizeof(arr) / sizeof(arr[0]);\n  int min = *std::min_element(arr, arr + n); \n  int max = *std::max_element(arr, arr + n); \n\n  std::cout << \"Minimum: \" << min << \"\\n\";\n  std::cout << \"Maximum: \" << max << \"\\n\";\n\n  return 0;\n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

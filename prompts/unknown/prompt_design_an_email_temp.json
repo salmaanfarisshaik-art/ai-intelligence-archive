@@ -1,0 +1,7 @@
+{
+  "instruction": "Design an email template with the given information.",
+  "input": "Company name: Acme\nMessage: Welcome to Acme! We're excited to be a part of your journey\nSignature: - The Acme Team",
+  "output": "<div>\n  <p>Hi there,</p>\n  <p>Welcome to Acme! We’re excited to be a part of your journey.</p>\n  <p>From the Acme Team</p>\n  <p>-  The Acme Team</p>\n</div>",
+  "unique_id": "prompt_design_an_email_temp",
+  "schema_version": "1.0"
+}

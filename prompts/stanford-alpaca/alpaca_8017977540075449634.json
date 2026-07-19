@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8017977540075449634",
+  "technique_name": "Build an algorithm for detecting anomalies in a time series.",
+  "description": "The algorithm should use statistical methods to detect outliers and anomalies in a time series dataset. This can include methods such as standard deviation, percentiles, and the Interquartile Range (IQR). Additionally, the algorithm should consider the dynamics of the dataset, such as the rate of change of the value or any patterns in the data. If the data points are significantly different from the data's average behavior or other data points, then the algorithm can mark them as anomalies.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

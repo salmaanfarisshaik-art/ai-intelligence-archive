@@ -1,0 +1,7 @@
+{
+  "instruction": "Comment the code to explain what it does.",
+  "input": "def checkPalindrome(arg):\n   if arg == arg[::-1]:\n      return True\n   else:\n      return False",
+  "output": "# This function checks if a given string is a palindrome. \n# A palindrome is a word, phrase, or sequence of characters that reads the same backward as forward, e.g. 'madam'.\n# The function takes a single argument 'arg' and compares it to its reverse.\n# If it matches, 'True' is returned; if not, 'False' is returned.",
+  "unique_id": "prompt_comment_the_code_to",
+  "schema_version": "1.0"
+}

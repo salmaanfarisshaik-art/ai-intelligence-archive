@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a logic gate with the expression given.",
+  "input": "A AND B OR C",
+  "output": "A B C  | Q\n0 0 0  | 0\n0 0 1  | 1 \n0 1 0  | 0\n0 1 1  | 1\n1 0 0  | 0\n1 0 1  | 1\n1 1 0  | 1 \n1 1 1  | 1 \nOR\nA + (B AND C)",
+  "unique_id": "prompt_design_a_logic_gate",
+  "schema_version": "1.0"
+}

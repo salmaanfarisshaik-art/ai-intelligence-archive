@@ -1,0 +1,29 @@
+{
+  "_id": "621ffdd236468d709f183925",
+  "id": "codeparrot/codeparrot-clean",
+  "author": "codeparrot",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2022-10-10T15:23:51.000Z",
+  "likes": 88,
+  "private": false,
+  "sha": "35a59fb025bc0a102f7d96eac09d145b896d487b",
+  "description": "\n\t\n\t\t\n\t\tCodeParrot 🦜 Dataset Cleaned\n\t\n\n\n\t\n\t\t\n\t\tWhat is it?\n\t\n\nA dataset of Python files from Github. This is the deduplicated version of the codeparrot.\n\n\t\n\t\t\n\t\tProcessing\n\t\n\nThe original dataset contains a lot of duplicated and noisy data. Therefore, the dataset was cleaned with the following steps:\n\nDeduplication \nRemove exact matches\n\n\nFiltering\nAverage line length < 100\nMaximum line length < 1000\nAlpha numeric characters fraction > 0.25\nRemove auto-generated files (keyword search)\n\n\n\nFor… See the full description on the dataset page: https://huggingface.co/datasets/codeparrot/codeparrot-clean.",
+  "downloads": 44865,
+  "tags": [
+    "size_categories:1M<n<10M",
+    "format:json",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "region:us",
+    "python",
+    "code"
+  ],
+  "createdAt": "2022-03-02T23:29:22.000Z",
+  "key": "",
+  "unique_id": "dataset_codeparrot_codeparrot_clean",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6897817820916201703",
+  "skill_name": "Design an algorithm to find the combination of dice when given a target sum.",
+  "workflow": "The algorithm should start by looping over all possibilities of dice combinations from two dice up to six dice. Using a nested for loop, the algorithm should compare the sum of the dice rolls in each iteration with the target sum. If the sum of all dice rolls equals the target sum, the algorithm should output the dice combination.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

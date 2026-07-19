@@ -1,0 +1,7 @@
+{
+  "instruction": "Write the code for a function that takes an array of integers and returns the sum.",
+  "input": "[1,2,3,4,5]",
+  "output": "def sum_array(arr): \n  total = 0\n  for x in arr: \n    total += x \n  return total",
+  "unique_id": "prompt_write_the_code_for_a",
+  "schema_version": "1.0"
+}

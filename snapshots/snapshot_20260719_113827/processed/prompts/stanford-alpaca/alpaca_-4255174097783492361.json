@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4255174097783492361",
+  "technique_name": "Write a query to retrieve the records that fall in the given date range.",
+  "description": "SELECT * FROM table_name WHERE date BETWEEN '2020-01-01' AND '2020-01-30'",
+  "example": "Start date: 01/01/2020\nEnd date: 01/30/2020",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

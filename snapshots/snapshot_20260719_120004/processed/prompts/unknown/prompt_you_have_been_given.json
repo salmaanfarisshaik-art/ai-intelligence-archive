@@ -1,0 +1,7 @@
+{
+  "instruction": "You have been given a series of numbers, write a program to find the maximum value among them.",
+  "input": "",
+  "output": "def findMaxValue(lst): \n  # Initialize maximum element as first element \n  maxValue = lst[0]\n\n  # Iterate through the list\n  for num in lst: \n    # Compare maximum element with each element \n    # of the list and update maximum element \n    # if current element is greater than maximum element\n    if num > maxValue: \n      maxValue = num \n  \n  # Return maximum element \n  return maxValue",
+  "unique_id": "prompt_you_have_been_given",
+  "schema_version": "1.0"
+}

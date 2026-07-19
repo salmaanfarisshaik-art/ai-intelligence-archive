@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-661161964685912184",
+  "technique_name": "Generate a code snippet in C++ that reverses a given string.",
+  "description": "#include <iostream>\n#include <string>\n\nusing namespace std; \n\nstring reverseString(string s) \n{ \n    int n = s.length(); \n  \n    // Swap character starting from two \n    // corners \n    for (int i = 0; i < n / 2; i++) \n        swap(s[i], s[n - i - 1]); \n  \n    return s; \n} \n  \n// Driver program \nint main() \n{ \n    string s = \"hello\"; \n    s = reverseString(s); \n    cout << \"Reversed string is : \"\n         << s; \n    return 0; \n}",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6467034931486768835",
+  "technique_name": "Given a string, write a function to check if it is a valid telephone number.",
+  "description": "function isValidPhoneNumber(phoneNumber) {\n  const regex = /^\\d{3}-\\d{3}-\\d{4}$/;\n  return regex.test(phoneNumber);\n}",
+  "example": "\"123-456-7890\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

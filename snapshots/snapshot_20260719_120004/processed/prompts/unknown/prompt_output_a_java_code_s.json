@@ -1,0 +1,7 @@
+{
+  "instruction": "Output a Java code segment that takes an array of numbers and returns the median value",
+  "input": "",
+  "output": "public static double getMedian(int[] a) \n{ \n    Arrays.sort(a); \n    int len = a.length; \n    if (len % 2 == 0) \n        return (a[(len/2)] +  \n                a[(len/2)-1]) / 2; \n    else\n        return a[len/2]; \n}",
+  "unique_id": "prompt_output_a_java_code_s",
+  "schema_version": "1.0"
+}

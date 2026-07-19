@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6671876689494653491",
+  "skill_name": "Create an algorithm in pseudocode that sorts an array of numbers using the selection sort method.",
+  "workflow": "algorithm SelectionSort(A : list of sortable items)\n  // ... set input parameter\n  n = length(A)    // ... calculate array size\n \n  for i = 1 to n - 1\n    // ... loop over items\n    min = i\n \n    for j = i + 1 to n\n      // ... find minimum item\n      if A[j] < A[min]\n        min = j\n    end for\n \n    // ... swap minimum item\n    if i != min\n      swap(A[i], A[min])\n    end if\n \n  end for\n\nend SelectionSort",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

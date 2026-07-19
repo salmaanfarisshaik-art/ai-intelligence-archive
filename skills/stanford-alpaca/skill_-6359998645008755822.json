@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6359998645008755822",
+  "skill_name": "Create a program to print the Fibonacci sequence up to the nth term.",
+  "workflow": "def fibonacciSequence(n): \n    a = 0\n    b = 1\n    print(a, end = \" \") \n    for i in range(1, n): \n        c = a + b \n        a = b \n        b = c \n        print(a, end = \" \")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

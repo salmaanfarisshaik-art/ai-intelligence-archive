@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3597421295959314683",
+  "technique_name": "Describe a strategy to prevent SQL injection attacks.",
+  "description": "A strategy to prevent SQL injection attacks is to use parameterized queries, also known as prepared statements. Parameterized queries separate the values from the code, which prevents the database from executing anything unintended. Additionally, the application should utilize input validation, which will check for invalid data before the input is passed to the database. Finally, the application should use least privileged accounts for database access and practice good database access control.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

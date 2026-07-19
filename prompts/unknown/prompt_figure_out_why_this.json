@@ -1,0 +1,7 @@
+{
+  "instruction": "Figure out why this code does not work",
+  "input": "const fruits = [ 'apple', 'orange', 'banana' ]; \n\nfruits.forEach(x =>  console.log(`I love ${x}`) );",
+  "output": "The syntax for forEach is incorrect. The function should be passed as a parameter with two parentheses following it. The correct syntax is: fruits.forEach((x) => console.log(`I love ${x}`));",
+  "unique_id": "prompt_figure_out_why_this",
+  "schema_version": "1.0"
+}

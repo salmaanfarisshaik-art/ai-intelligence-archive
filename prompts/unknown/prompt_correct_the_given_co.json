@@ -1,0 +1,7 @@
+{
+  "instruction": "Correct the given code by fixing the syntax errors",
+  "input": "def sum_squares(num: int)\n    total = 0\n    For i in num\n        total = total + i * i\n    return total",
+  "output": "def sum_squares(num: int):\n    total = 0\n    for i in num:\n        total = total + i * i\n    return total",
+  "unique_id": "prompt_correct_the_given_co",
+  "schema_version": "1.0"
+}

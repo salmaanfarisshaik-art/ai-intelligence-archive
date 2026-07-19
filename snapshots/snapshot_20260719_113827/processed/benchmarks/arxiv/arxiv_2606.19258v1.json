@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19258v1",
+  "schema_version": "1.0",
+  "name": "CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19258v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19258v1",
+    "updated": "2026-06-17T16:35:23Z",
+    "published": "2026-06-17T16:35:23Z",
+    "title": "CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems",
+    "summary": "Cloud-hosted large multimodal models (LMMs) can provide strong open-vocabulary perception for Vehicle-to-Everything systems, but naively transmitting full-resolution frames from edge to cloud causes severe communication overhead and high cloud-side prefill latency. We present CABLE, a cloud-assisted bandwidth-efficient LMM-based encoding framework for edge-cloud perception. CABLE propagates the previous cloud segmentation mask on the edge using ego-motion compensation, refines it with residual-motion cues, and consolidates disconnected regions via a corridor envelope to form a robust region of interest (ROI). Only ROI-masked images are uploaded, while the cloud segmentation output is fed back as the prior for the next frame, forming a mask-to-ROI-to-LMM feedback loop. Experiments on five datasets (nuScenes, WOD-ZB, Waymo, KITTI, and CADC) show consistent communication savings while largely preserving perception, achieving $73$--$87\\%$ ROI pixel-coverage reduction with $5$--$8\\times$ estimated LMM prefill speedup at a modest detection-quality trade-off relative to full-frame inference.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:35:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19258v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

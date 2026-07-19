@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8129787705841214756",
+  "skill_name": "Design an algorithm to classify a basketball shot as a 3-pointer or 2-pointer.",
+  "workflow": "One way to design an algorithm to classify a basketball shot as a 3-pointer or 2-pointer is to divide the court into three zones: outside of the 3-point arc, inside the 3-point arc and outside the court. When the ball is shot, calculate the distance from the basket and map it to the three zones. If the ball is shot from outside the 3-point arc, it is a 3-pointer, and if it is shot from inside the 3-point arc or outside the court, it is a 2-pointer.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

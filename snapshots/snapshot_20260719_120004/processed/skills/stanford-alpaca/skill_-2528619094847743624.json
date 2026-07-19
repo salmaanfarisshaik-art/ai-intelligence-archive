@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2528619094847743624",
+  "skill_name": "Generate a code that removes a specific word or phrase from a given text.",
+  "workflow": "def remove_word(text, word):\n    text_words = text.split()\n    result = ''\n    for w in text_words:\n        if w != word:\n            result += w + ' '\n    return result.strip()\n\nremove_word(\"Hello world!\", \"world\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

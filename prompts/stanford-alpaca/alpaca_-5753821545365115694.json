@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5753821545365115694",
+  "technique_name": "Create an HTML form with 4 input fields and a submit button.",
+  "description": "<form>\n  <label for=\"name\">Name:</label><br>\n  <input type=\"text\" id=\"name\" name=\"name\"><br>\n  <label for=\"email\">Email:</label><br>\n  <input type=\"email\" id=\"email\" name=\"email\"><br>\n  <label for=\"phone\">Phone:</label><br>\n  <input type=\"number\" id=\"phone\" name=\"phone\"><br>\n  <label for=\"address\">Address:</label><br>\n  <input type=\"text\" id=\"address\" name=\"address\"><br>\n  <input type=\"submit\" value=\"Submit\">\n</form>",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

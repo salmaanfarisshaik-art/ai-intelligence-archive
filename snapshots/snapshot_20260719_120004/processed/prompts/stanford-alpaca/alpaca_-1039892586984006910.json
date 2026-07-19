@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1039892586984006910",
+  "technique_name": "Given two strings, check whether one string is a rotation of another?",
+  "description": "def isRotation(s1, s2):\n    if len(s1) != len(s2):\n        return False\n\n    s3 = s1 + s1 \n    return s3.find(s2) != -1",
+  "example": "s1 = ‘waterbottle’\ns2 = ‘erbottlewat’",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

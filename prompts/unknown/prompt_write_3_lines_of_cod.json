@@ -1,0 +1,7 @@
+{
+  "instruction": "Write 3 lines of code that prints out all the multiples of 7 from 0 to 50.",
+  "input": "",
+  "output": "for i in range(51):\n  if i % 7 == 0:\n    print(i)",
+  "unique_id": "prompt_write_3_lines_of_cod",
+  "schema_version": "1.0"
+}

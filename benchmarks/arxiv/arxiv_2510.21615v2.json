@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.21615v2",
+  "schema_version": "1.0",
+  "name": "Epipolar Geometry Improves Video Generation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.21615v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.21615v2",
+    "updated": "2026-06-17T16:22:08Z",
+    "published": "2025-10-24T16:21:37Z",
+    "title": "Epipolar Geometry Improves Video Generation Models",
+    "summary": "Video generation models have advanced significantly through the latent diffusion transformers trained with rectified flow techniques. Yet these models still struggle with geometric inconsistencies, unstable motion, and visual artifacts that break the illusion of realistic 3D scenes. 3D-consistent video generation could significantly impact numerous downstream applications in generation and reconstruction tasks. We explore how epipolar geometry constraints improve modern video diffusion models. Despite using massive training data, these models fail to capture fundamental geometric principles. We align diffusion models using pairwise epipolar geometry constraints via preference-based optimization, directly addressing unstable trajectories and geometric artifacts through mathematically principled geometric enforcement. Our approach efficiently enforces geometric principles without requiring end-to-end differentiability. Evaluation demonstrates that classical geometric constraints provide more stable optimization signals than modern learned metrics. Training on static scenes with dynamic cameras ensures metric quality while the model generalizes to various dynamic scenes. By bridging data-driven learning with classical computer vision, we reduce epipolar error by 31% and improve human-rated consistency from 54% to 72% without compromising visual quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T16:22:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.21615v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

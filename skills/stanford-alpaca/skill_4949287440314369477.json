@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4949287440314369477",
+  "skill_name": "Write an algorithm for printing all prime numbers between 0 and 100.",
+  "workflow": "alg PrintPrimeNumbers(n):\n  for i from 1 to n:\n    set isPrime to true\n    for j from 2 to i:\n      if (i mod j == 0 and i != j):\n        set isPrime to false\n    if (isPrime == true):\n      Print i",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

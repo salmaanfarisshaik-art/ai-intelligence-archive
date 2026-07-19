@@ -1,0 +1,7 @@
+{
+  "instruction": "Refactor this code to reduce complexity.",
+  "input": "if ( words.length == 0 ) { \n  return -1; \n} \nif ( words.length == 1 ) { \n  return 0; \n}",
+  "output": "if ( words.length <= 1 ) { \n  return words.length - 1; \n}",
+  "unique_id": "prompt_refactor_this_code_t",
+  "schema_version": "1.0"
+}

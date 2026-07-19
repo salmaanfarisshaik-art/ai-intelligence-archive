@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5703251620475610104",
+  "technique_name": "Construct a linear programming problem that maximizes the profit from selling a certain product.",
+  "description": "Given a production line with limited resources and a cost for each ingredient, the objective of the linear programming problem is to maximize profit from selling the product by finding the optimal combination of ingredients. The problem is formulated as follows: \n\nMaximize Profit = (Price of Product - Cost of Ingredient 1 - Cost of Ingredient 2 - ... - Cost of Ingredient n)\nSubject to: \n- Ingredient 1 quantity <= Maximum Available Quantity \n- Ingredient 2 quantity <= Maximum Available Quantity \n",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

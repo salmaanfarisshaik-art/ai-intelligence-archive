@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4021181175500324393",
+  "skill_name": "Difficulty rating: Advanced. Given some input data, generate an algorithm to sort the data in descending order.",
+  "workflow": "Step 1: Create a list and add the given elements in the list: L = [3, 5, 9, 1, 8, 2]. \nStep 2: Set a flag called swapped to False, so that you can record the swapping if it happens: swapped = False\nStep 3: Set the index of last element of the list: last_index = len(L) – 1. \nStep 4: For each element in the list, move from left to right and check if the current element is greater than the last element: \nIf yes, swap the elements and set the swapped flag to True.\nStep 5: If the swapped flag is True",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

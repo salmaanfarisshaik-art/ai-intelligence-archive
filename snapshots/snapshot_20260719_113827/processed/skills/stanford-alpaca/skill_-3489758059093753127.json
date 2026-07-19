@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3489758059093753127",
+  "skill_name": "Given a set of numbers, create a program to print out a boolean value (True/False) to tell if one of the numbers is a perfect square.",
+  "workflow": "# Program to check if one of the numbers is a perfect square\n\nnums = [2, 3, 4, 6, 7]\n\n# Boolean variable to store the result\nresult = False\n\n# Go through the list and check if one of the numbers is a perfect square\nfor num in nums:\n  if (num ** 0.5) % 1 == 0:\n    result = True\n    break\n\nprint(result) # Prints True",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

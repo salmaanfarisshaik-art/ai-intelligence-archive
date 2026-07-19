@@ -1,0 +1,31 @@
+{
+  "_id": "689073f1007ca2c9aa2f316d",
+  "id": "ByteDance-Seed/WideSearch",
+  "author": "ByteDance-Seed",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-09-08T03:12:40.000Z",
+  "likes": 43,
+  "private": false,
+  "sha": "6531a7e5b497d44c8912407e0cb3dc95bd98cc09",
+  "description": "\n\t\n\t\t\n\t\tWideSearch: Benchmarking Agentic Broad Info-Seeking\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nWideSearch is a benchmark designed to evaluate the capabilities of Large Language Model (LLM) driven agents in broad information-seeking tasks. Unlike existing benchmarks that focus on finding a single, hard-to-find fact, WideSearch assesses an agent's ability to handle tasks that require gathering a large amount of scattered, yet easy-to-find, information.\nThe challenge in these tasks lies not in… See the full description on the dataset page: https://huggingface.co/datasets/ByteDance-Seed/WideSearch.",
+  "downloads": 31821,
+  "tags": [
+    "language:zh",
+    "language:en",
+    "license:other",
+    "size_categories:n<1K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2508.07999",
+    "region:us"
+  ],
+  "createdAt": "2025-08-04T08:48:49.000Z",
+  "key": "",
+  "unique_id": "dataset_bytedance_seed_widesearch",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "How does the Kinetic Ray tracing method work?",
+  "input": "",
+  "output": "The Kinetic Ray Tracing (KRT) is a technique used to render the motion of individual particles. The method assumes that the particles behavior is driven by simple equations of motion, making it different from the classical ray tracing method which did not consider the motion of the particles. KRT starts by calculating the physical parameters at each particle position and then releasing a set of rays from the view point of the observer that are propagated through the particles trajectories. As the rays move between the particles positions, their parameters are updated accordingly, and at the end of the calculations, the collected information is rendered according to the observers viewpoint.",
+  "unique_id": "prompt_how_does_the_kinetic",
+  "schema_version": "1.0"
+}

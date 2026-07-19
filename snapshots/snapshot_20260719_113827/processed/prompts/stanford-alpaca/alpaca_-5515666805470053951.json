@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5515666805470053951",
+  "technique_name": "Identify three issues with this program implementation.",
+  "description": "1. The program is missing an input argument - the function is defined to take in one argument, but none has been provided. \n2. The loop that is set up to return each index of the input is not working correctly - the loop only runs once, and so is only returning 0.\n3. The function should return a list, rather than individual values - the program is only returning the first item in the loop, when it should be returning a list of all the indices that were ran through the loop. The return statement ",
+  "example": "def function(input):\n  if (input == 0):\n    return 0\n  else:\n    for i in range(input):\n      return i",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

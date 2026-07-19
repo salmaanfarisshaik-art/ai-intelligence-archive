@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3011316307923443615",
+  "technique_name": "Suggest a solution for this leetcode problem",
+  "description": "class Solution:\n    def checkValidString(self, s: str) -> bool:\n        open_stack = []\n        star_stack = []\n        for i, char in enumerate(s):\n            \n            # Add open brackets to open_stack and star to star_stack\n            if char == \"(\":\n                open_stack.append(i)\n            elif char == \"*\":\n                star_stack.append(i)\n                \n            # Check the current opening brackets or star, pop them in case they match the closing bracket\n            # ",
+  "example": "Given a string containing only three types of characters: '(', ')' and '*', write a function to check whether this string is valid. We define the validity of a string by these rules:\n\nAny left parenthesis '(' must have a corresponding right parenthesis ')'.\nAny right parenthesis ')' must have a corresponding left parenthesis '('.\nLeft parenthesis '(' must go before the corresponding right parenthesis ')'.\n'*' could be treated as a single right parenthesis ')' or a single left parenthesis '(' or an empty string.\n\nAn empty string is also valid.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5650811655169311758",
+  "technique_name": "Calculate the average order value for the past month.",
+  "description": "To calculate the average order value for the past month, add up the total amount of all the orders in the dataset, then divide it by the total number of orders in the dataset. For example, if the total amount of all orders is $1000 and there are 10 orders in the dataset, then the average order value is $100.",
+  "example": "A dataset containing a list of orders (order number, product, quantity, and price) in the past month.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

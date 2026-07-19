@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4203081063028828488",
+  "skill_name": "Construct an algorithm for calculating prime numbers.",
+  "workflow": "A simple algorithm for calculating prime numbers is to generate a list of all the numbers from 2 to n (where n is some upperbound). Then, start from the first number in the list and check whether any of the other numbers are divisible by it (i.e. have no remainders). If not, the number is prime. Repeat for each number in the list, and any number for which no other number in the list is divisible is a prime number.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

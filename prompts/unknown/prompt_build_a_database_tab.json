@@ -1,0 +1,7 @@
+{
+  "instruction": "Build a database table with the given columns.",
+  "input": "Name, Age, Gender",
+  "output": "Name VARCHAR(256),\nAge INT, \nGender VARCHAR(10)",
+  "unique_id": "prompt_build_a_database_tab",
+  "schema_version": "1.0"
+}

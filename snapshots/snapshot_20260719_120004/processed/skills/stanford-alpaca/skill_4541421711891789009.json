@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4541421711891789009",
+  "skill_name": "Generate a correct SQL query to retrieve all the data from a column called “messages” in a table called “chats”",
+  "workflow": "SELECT * FROM chats WHERE messages;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

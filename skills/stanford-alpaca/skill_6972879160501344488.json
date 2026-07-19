@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6972879160501344488",
+  "skill_name": "Write a query to return all rows from a MySQL table named \"Items\" where the column \"category\" is \"clothing\" and the column \"color\" is either \"red\" or \"white\".",
+  "workflow": "SELECT * FROM Items WHERE category=\"clothing\" AND (color=\"red\" OR color=\"white\");",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

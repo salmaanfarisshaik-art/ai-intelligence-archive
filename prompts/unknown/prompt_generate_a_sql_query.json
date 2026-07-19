@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a SQL query to obtain the list of the students who scored higher than 90 in math.",
+  "input": "",
+  "output": "SELECT first_name, last_name FROM students WHERE math_score > 90;",
+  "unique_id": "prompt_generate_a_sql_query",
+  "schema_version": "1.0"
+}

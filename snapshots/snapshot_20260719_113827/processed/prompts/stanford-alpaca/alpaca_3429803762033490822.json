@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3429803762033490822",
+  "technique_name": "Rewrite the code in pseudocode.",
+  "description": "// For each number in list A, check whether it is present in the list again and if it is, replace it with -1\nFOR i = 0 TO n \n  x = A[i] \n  FOR j = 0 TO n \n    IF x = A[j]\n      A[j] = -1 \n    END IF \n  END FOR \nEND FOR",
+  "example": "for(int i=0; i <= n; i++) {\n  int x = A[i];\n  for(int j=0; j < n; j++) {\n    if(x == A[j]) {\n      A[j] = -1;\n    }\n  }\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

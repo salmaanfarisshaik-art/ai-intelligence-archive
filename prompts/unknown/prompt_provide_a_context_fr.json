@@ -1,0 +1,7 @@
+{
+  "instruction": "Provide a context-free grammar for the sentence \"Alice has a cat\".",
+  "input": "",
+  "output": "S -> NP VP\nNP -> Alice\nVP -> V NP\nV -> has\nNP -> Det N\nDet -> a\nN -> cat",
+  "unique_id": "prompt_provide_a_context_fr",
+  "schema_version": "1.0"
+}

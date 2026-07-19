@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a regex for extracting names from a given string",
+  "input": "'Jayden, Malcolm, and Jimmy went to school'",
+  "output": "regex = r'[A-Z][a-z]+(?:, [A-Z][a-z]+)*(?: and)? [A-Z][a-z]+'",
+  "unique_id": "prompt_construct_a_regex_fo",
+  "schema_version": "1.0"
+}

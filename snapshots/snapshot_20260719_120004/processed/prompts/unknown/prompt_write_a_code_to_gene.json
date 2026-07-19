@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to generate a random password with 8 characters.",
+  "input": "",
+  "output": "\"\"\"\nGenerate a random password with 8 characters\n\"\"\"\nimport random\nimport string\n\ndef get_random_password():\n    chars = string.ascii_lowercase + string.ascii_uppercase + string.digits\n    return ''.join(random.choice(chars) for x in range(8))\n\nif __name__ == '__main__':\n    print(get_random_password())",
+  "unique_id": "prompt_write_a_code_to_gene",
+  "schema_version": "1.0"
+}

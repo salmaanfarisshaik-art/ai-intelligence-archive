@@ -1,0 +1,7 @@
+{
+  "instruction": "List 3 methods to validate a machine learning model",
+  "input": "",
+  "output": "Three methods of validating a machine learning model are holdout validation, k-fold cross-validation, and bootstrapping. Holdout validation involves splitting the data into training and test sets, and then training the model on the training set and testing it on the test set. K-fold cross-validation randomly splits the data into k equal-sized subsets and tests the model k times on different combinations of the subsets. Bootstrapping randomly samples the same data multiple times and builds a model from each sample.",
+  "unique_id": "prompt_list_3_methods_to_va",
+  "schema_version": "1.0"
+}

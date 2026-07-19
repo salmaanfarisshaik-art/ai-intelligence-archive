@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query for returning all the countries in Africa.",
+  "input": "",
+  "output": "SELECT name \nFROM countries \nWHERE continent = 'Africa'",
+  "unique_id": "prompt_write_a_query_for_re",
+  "schema_version": "1.0"
+}

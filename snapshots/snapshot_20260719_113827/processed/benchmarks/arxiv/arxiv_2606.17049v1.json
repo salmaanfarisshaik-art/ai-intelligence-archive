@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.17049v1",
+  "schema_version": "1.0",
+  "name": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.17049v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.17049v1",
+    "updated": "2026-06-15T17:58:31Z",
+    "published": "2026-06-15T17:58:31Z",
+    "title": "BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering",
+    "summary": "Inverse rendering of urban scenes from captured videos enables numerous applications, including content creation and autonomous driving simulation. Physically-based rendering methods follow and control lighting physics, but suffer from reconstruction and rendering artifacts. While generative models produce realistic videos, they offer limited consistency and controllability. We present BRDFusion, a unified framework that combines two complementary models for inverse and forward rendering. Specifically, BRDFusion recovers explicit, consistent scene properties with physical modeling and alleviates optimization ambiguity with generative priors. During forward rendering, the physical model provides controllable rendering from the scene configuration, and the generative model denoises and fixes artifacts. Therefore, our method produces high-quality videos while allowing precise control, outperforming baselines in real and synthetic scenes. Moreover, BRDFusion supports novel-view relighting, night simulation, and dynamic object insertion/editing. Project page: https://shigon255.github.io/brdfusion-page/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T17:58:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.17049v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

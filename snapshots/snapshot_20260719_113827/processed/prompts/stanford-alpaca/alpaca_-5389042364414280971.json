@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5389042364414280971",
+  "technique_name": "Generate an algorithm to check if a given string is a palindrome.",
+  "description": "Algorithm to check if a given string is a palindrome:\n\n1. Take the string as input.\n2. Initialize two pointers at the start and the end of the string.\n3. Compare the characters at the two pointers.\n4. If the characters are the same, move the two pointers towards the middle of the string.\n5. Repeat step 3 until either the two pointers reaches the middle or the characters are different.\n6. If the two pointers reach the middle of the string, the string is a palindrome. Else, it is not a palindrome.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

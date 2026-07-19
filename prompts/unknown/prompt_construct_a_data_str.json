@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a data structure that stores the following information: A student's name, grade level and contact information.",
+  "input": "",
+  "output": "A data structure that stores this information would look like this:\n\nStudent {\n    Name: string;\n    GradeLevel: integer;\n    ContactInfo: {\n        Address: string;\n        PhoneNumber: string;\n        Email: string;\n    };\n}",
+  "unique_id": "prompt_construct_a_data_str",
+  "schema_version": "1.0"
+}

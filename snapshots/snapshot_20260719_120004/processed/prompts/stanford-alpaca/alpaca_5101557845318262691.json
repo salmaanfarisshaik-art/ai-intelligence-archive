@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5101557845318262691",
+  "technique_name": "Build a SQL query that creates a table.",
+  "description": "CREATE TABLE Books ( \n  book_id INT, \n  title VARCHAR(255), \n  author VARCHAR(255), \n  publisher VARCHAR(255), \n  publication_date DATE\n);",
+  "example": "Table Name: Books\n\nAttributes:\n- book_id (int)\n- title (varchar)\n- author (varchar)\n- publisher (varchar)\n- publication_date (date)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6219997272745001320",
+  "skill_name": "Construct a grammar which can generate the following sentences-",
+  "workflow": "Sentence → Noun Phrase Verb Phrase\nNoun Phrase → Article Noun\nVerb Phrase → Verb Prepositional Phrase\nArticle → 'The' | 'A'\nNoun → 'cat' | 'dog' | 'box' | 'food'\nVerb → 'slept' | 'ate'\nPrepositional Phrase → 'in the box' | 'the food'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

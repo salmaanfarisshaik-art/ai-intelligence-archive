@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_8201720478010627629",
+  "technique_name": "Write a code to detect duplicates in an array.",
+  "description": "\"\"\"\n# Find duplicate elements in a list\n\ndef find_duplicates(data):\n    seen = set()\n    duplicates = []\n\n    for element in data:\n        if element in seen:\n            duplicates.append(element)\n        else:\n            seen.add(element)\n    \n    return duplicates\n\nif __name__ == \"__main__\":\n    arr = [3, 2, 1, 2, 3, 4]\n    duplicates = find_duplicates(arr)\n    print(duplicates)\n\"\"\"",
+  "example": "[3, 2, 1, 2, 3, 4]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

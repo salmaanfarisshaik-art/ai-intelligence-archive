@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query to display the fastest time, along with the athlete's name, for each event.",
+  "input": "",
+  "output": "SELECT event, MAX(time) as fastest_time, athlete_name FROM Results GROUP BY event;",
+  "unique_id": "prompt_write_a_query_to_dis",
+  "schema_version": "1.0"
+}

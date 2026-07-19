@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3899977102940871412",
+  "skill_name": "Create a class with properties for a car.",
+  "workflow": "class Car():\n    def __init__(self, make, model, year, color):\n        self.make = make\n        self.model = model\n        self.year = year\n        self.color = color\n        \n    def get_description(self):\n        return f\"This car is a {self.year} {self.color} {self.make} {self.model}\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

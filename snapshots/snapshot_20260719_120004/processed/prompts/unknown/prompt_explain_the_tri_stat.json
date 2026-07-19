@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain the tri-state buffer.",
+  "input": "",
+  "output": "The tri-state buffer is a type of digital logic circuit that uses three states rather than the two states used in traditional logic circuits. It is a circuit that has three possible states - high, low and high impedance or 'Z' state.\nThe high impedance state allows the tri-state logic signal to be connected to multiple devices sharing the same input or output line while not transferring data. Each bus line connected to the tri-state buffer can be driven 'high' or 'low', and when the tri-state buffer is in 'Z' state, none of the three other states is active, thus allowing the other devices to control the bus line.",
+  "unique_id": "prompt_explain_the_tri_stat",
+  "schema_version": "1.0"
+}

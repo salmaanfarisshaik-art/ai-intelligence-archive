@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1017522795611584004",
+  "skill_name": "Given an array of integers, compose an algorithm to return the largest element.",
+  "workflow": "Start by setting a variable called 'largest_element' equal to the first element in the array. Go through the remainder of the array, comparing each element with the value stored in 'largest_element'. Replace 'largest_element' with the larger of the compared elements. Repeat this process until the entirety of the array has been iterated through. The variable 'largest_element' will now contain the largest element from the array.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7695207819491759615",
+  "skill_name": "Given a list of numbers, develop an algorithm to find the maximum sum of a subarray.",
+  "workflow": "1. Initialize a variable to store the maximum sum, maxSoFar with 0. \n2. Iterate through the given list of numbers and for each element compute the maximum sum so far by comparing it with previous maximum sum and the element itself.\n3. maxSoFar = max(maxSoFar + element, element). \n4. At the end of the iteration, the maximum sum is stored in the maxSoFar.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

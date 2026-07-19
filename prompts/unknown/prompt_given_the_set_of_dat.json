@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the set of data, write a function in Python to calculate the logarithmic average.",
+  "input": "Data = [1,2,4,8,16]",
+  "output": "def logarithmic_average(data):\n    \"\"\"\n    Calculates the logarithmic average of a given set of data.\n\n    Parameters:\n    data (list): The set of data to calculate the logarithmic average of.\n\n    Returns:\n    float: The logarithmic average of the given set of data.\n    \"\"\"\n    total_logs = 0\n    for item in data:\n        total_logs += math.log(item)\n  \n    return math.exp(total_logs / len(data))",
+  "unique_id": "prompt_given_the_set_of_dat",
+  "schema_version": "1.0"
+}

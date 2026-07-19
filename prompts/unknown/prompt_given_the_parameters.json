@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the parameters of the user, write a query to select a suitable car.",
+  "input": "The user is looking for an economical, used car with a seating capacity of 5.",
+  "output": "SELECT * FROM cars WHERE used = TRUE AND seating_capacity = 5 AND economical = TRUE;",
+  "unique_id": "prompt_given_the_parameters",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7159023919138140097",
+  "technique_name": "Construct a query to get the most recent reviews of the given restaurant.",
+  "description": "SELECT * FROM reviews WHERE restaurant=\"The Pancake House\" ORDER BY timestamp DESC",
+  "example": "Restaurant name: \"The Pancake House\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

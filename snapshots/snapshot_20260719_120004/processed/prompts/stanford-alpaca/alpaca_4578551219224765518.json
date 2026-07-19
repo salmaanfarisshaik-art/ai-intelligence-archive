@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4578551219224765518",
+  "technique_name": "Create a program to implement the \"bubble sort\" algorithm.",
+  "description": "// Program to implement the bubble sort algorithm \n#include <stdio.h> \n\nvoid bubbleSort(int arr[], int n) \n{ \n\tint i, j; \n\tfor (i = 0; i < n-1; i++)\t \n\t\n\t// Last i elements are already in place \n\tfor (j = 0; j < n-i-1; j++) \n\t\tif (arr[j] > arr[j+1]) \n\t\t\tswap(&arr[j], &arr[j+1]); \n} \n\nvoid swap(int *a, int *b) \n{ \n\tint temp = *a; \n\t*a = *b; \n\t*b = temp; \n} \n\n// Driver program \nint main() \n{ \n\tint arr[] = {64, 34, 25, 12, 22, 11, 90}; \n\tint n = sizeof(arr)/sizeof(arr[0]); \n\tbubbleSort(arr, n); \n\tr",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

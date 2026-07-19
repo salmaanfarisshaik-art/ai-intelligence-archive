@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-6700635954217093298",
+  "technique_name": "Update the information in the table with the new dataset.",
+  "description": "The updated table is as follows:\n\n+-------------------+\n| Country | Income |\n+-------------------+\n| France | 60000  |\n| Spain  | 80000  |\n| Italy  | 90000  |\n+-------------------+",
+  "example": "+-------------------+\n| Country | Income |\n+-------------------+\n| France | 50000  |\n| Spain  | 70000  |\n+-------------------+\nNew Dataset:\n+-------------------+\n| Country | Income |\n+-------------------+\n| France | 60000  |\n| Spain  | 80000  |\n| Italy  | 90000  |\n+-------------------+",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

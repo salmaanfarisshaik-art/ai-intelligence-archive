@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a correct PHP code for the following purpose",
+  "input": "Create a function to calculate the area of a rectangle.",
+  "output": "function calculateAreaRect($length, $width) {\n    $area = $length * $width;\n    return $area;\n}",
+  "unique_id": "prompt_generate_a_correct_p",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "621ffdd236468d709f182012",
+  "id": "allenai/winogrande",
+  "author": "allenai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-07-11T17:33:56.000Z",
+  "likes": 84,
+  "private": false,
+  "sha": "01e74176c63542e6b0bcb004dcdea22d94fb67b5",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"winogrande\"\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nWinoGrande is a new collection of 44k problems, inspired by Winograd Schema Challenge (Levesque, Davis, and Morgenstern\n 2011), but adjusted to improve the scale and robustness against the dataset-specific bias. Formulated as a\nfill-in-a-blank task with binary options, the goal is to choose the right option for a given sentence which requires\ncommonsense reasoning.\n\n\t\n\t\t\n\t\n\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nMore… See the full description on the dataset page: https://huggingface.co/datasets/allenai/winogrande.",
+  "downloads": 196753,
+  "paperswithcode_id": "winogrande",
+  "tags": [
+    "language:en",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2022-03-02T23:29:22.000Z",
+  "key": "",
+  "unique_id": "dataset_allenai_winogrande",
+  "schema_version": "1.0"
+}

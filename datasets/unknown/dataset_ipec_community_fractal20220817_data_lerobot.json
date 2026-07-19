@@ -1,0 +1,28 @@
+{
+  "_id": "67b4bb560ce1b3910c73e9a5",
+  "id": "IPEC-COMMUNITY/fractal20220817_data_lerobot",
+  "author": "IPEC-COMMUNITY",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-02-23T06:35:48.000Z",
+  "likes": 13,
+  "private": false,
+  "sha": "91bf7d7f7ce50770a1ba5c6db14b8d1c0815122e",
+  "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"google_robot\",\n    \"total_episodes\": 87212,\n    \"total_frames\": 3786400,\n    \"total_tasks\": 599,\n    \"total_videos\": 87212,\n    \"total_chunks\": 88,\n    \"chunks_size\": 1000,\n    \"fps\": 3,\n    \"splits\": {\n        \"train\": \"0:87212\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/fractal20220817_data_lerobot.",
+  "downloads": 119919,
+  "tags": [
+    "task_categories:robotics",
+    "license:apache-2.0",
+    "modality:video",
+    "region:us",
+    "LeRobot",
+    "fractal20220817_data",
+    "rlds",
+    "openx",
+    "google_robot"
+  ],
+  "createdAt": "2025-02-18T16:54:46.000Z",
+  "key": "",
+  "unique_id": "dataset_ipec_community_fractal20220817_data_lerobot",
+  "schema_version": "1.0"
+}

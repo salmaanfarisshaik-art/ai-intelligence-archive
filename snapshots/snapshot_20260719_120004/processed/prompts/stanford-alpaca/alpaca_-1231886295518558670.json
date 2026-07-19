@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1231886295518558670",
+  "technique_name": "Find and fix the error in the following code.",
+  "description": "```python\ndef myFunc(x):\n    if (x == 0):\n        return 0\n    else:\n        return x * 2\n```",
+  "example": "```python\ndef myFunc(x):\n    if (x == 0 {\n        return 0\n    } else {\n        return x * 2\n    }\n```",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

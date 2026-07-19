@@ -1,0 +1,7 @@
+{
+  "instruction": "Write some code to calculate the area of a triangle given 3 sides.",
+  "input": "",
+  "output": "\"\"\"\nCalculate the area of a triangle given 3 sides\n\"\"\"\n\ndef area_triangle(a, b, c): \n    # calculate the semi-perimeter \n    s = (a + b + c) / 2\n  \n    # calculate the area \n    area = (s * (s-a) * (s-b) * (s-c)) ** 0.5\n    return area \n  \n# Driver Code \n# a, b, c are lengths of the sides of triangle\na = 4\nb = 5\nc = 6\nprint(\"Area of triangle is : %.2f\" % area_triangle(a, b, c))",
+  "unique_id": "prompt_write_some_code_to_c",
+  "schema_version": "1.0"
+}

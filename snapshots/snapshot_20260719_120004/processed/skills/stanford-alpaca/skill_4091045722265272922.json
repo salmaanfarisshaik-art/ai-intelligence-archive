@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4091045722265272922",
+  "skill_name": "Create a program that returns 'true' when a given number is a prime number.",
+  "workflow": "\"\"\"\nCreate a program that returns 'true' when a given number is a prime number.\n\"\"\"\ndef is_prime(num):\n    # Edge case \n    if num == 1:\n        return False\n    # Check from 2 to n-1 \n    for i in range(2, num):\n        if (num % i) == 0:\n            return False\n    return True\n    \nif __name__ == '__main__':\n    num = int(input())\n    print(is_prime(num))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

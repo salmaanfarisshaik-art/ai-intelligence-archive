@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a short code to print the first 5 elements of a given list.",
+  "input": "[1, 2, 3, 4, 5, 6, 7, 8]",
+  "output": "# Print the first 5 elements of a given list \nmy_list = [1, 2, 3, 4, 5, 6, 7, 8]\n \n# Using a for loop \nfor i in range(5):\n    print(my_list[i])\n\n# Using list slicing\nprint(my_list[:5])",
+  "unique_id": "prompt_write_a_short_code_t",
+  "schema_version": "1.0"
+}

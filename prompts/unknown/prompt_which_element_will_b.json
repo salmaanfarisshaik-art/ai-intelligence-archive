@@ -1,0 +1,7 @@
+{
+  "instruction": "Which element will become the results after the following mutation operation is applied?",
+  "input": "[1, 2, [3, 4], 5, 6] -> [1, 2, 3, 5, 6]",
+  "output": "4 will be removed from the list. The result will be [1, 2, 3, 5, 6].",
+  "unique_id": "prompt_which_element_will_b",
+  "schema_version": "1.0"
+}

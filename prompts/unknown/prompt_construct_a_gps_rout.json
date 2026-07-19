@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a GPS route from New York to San Francisco.",
+  "input": "New York, NY to San Francisco, CA",
+  "output": "The GPS route from New York, NY to San Francisco, CA is as follows:\nNew York, NY to Albany, NY - I-87 S\nAlbany, NY to Uniontown, PA - I-90 W\nUniontown, PA to Columbus, OH - I-76 W\nColumbus, OH to Indianapolis, IN - I-70 W\nIndianapolis, IN to St Louis, MO - I-70 W\nSt Louis, MO to Tulsa, OK - I-44 W \nTulsa, OK to Amarillo, TX - I-40 W\nAmarillo, TX to Albuquerque, NM - I-40 W\nAlbuquerque, NM to Flagstaff, AZ - I-40 W\nFlagstaff, AZ to Phoenix, AZ - I-17 S\nPhoenix, AZ to San Diego, CA - I-8 W\nSan Diego, CA to Los Angeles, CA - I-5 N\nLos Angeles, CA to Santa Maria, CA - US-101 N\nSanta Maria, CA to San Francisco, CA - US-101 N",
+  "unique_id": "prompt_construct_a_gps_rout",
+  "schema_version": "1.0"
+}

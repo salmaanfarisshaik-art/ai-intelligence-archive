@@ -1,0 +1,27 @@
+{
+  "_id": "6783212f228db3b4c26b3f60",
+  "id": "ruediste/codeparrot-github-code-10G",
+  "author": "ruediste",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-13T19:37:43.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "ef06094f8f0084d0780f5e8258f1b25e58e32b3a",
+  "description": "This is data is derived from the Codeparrot Dataset by taking the first 10GB of text from each language, and splitting it into individual configs. This results in a download size of about 3GB per language.\nSample usage:\nfrom datasets import load_dataset\ndataset = load_dataset(\"ruediste/codeparrot-github-code-10G\", \"java\")\n\nList of Languages:\nlanguages = {\n    'HTML': 'html',\n    'Java': 'java',\n    'JavaScript': 'js',\n    'CSS': 'css',\n    'C#': 'cs',\n    'TypeScript': 'ts',\n    \"Batchfile\":… See the full description on the dataset page: https://huggingface.co/datasets/ruediste/codeparrot-github-code-10G.",
+  "downloads": 25790,
+  "tags": [
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2025-01-12T01:55:59.000Z",
+  "key": "",
+  "unique_id": "dataset_ruediste_codeparrot_github_code_10g",
+  "schema_version": "1.0"
+}

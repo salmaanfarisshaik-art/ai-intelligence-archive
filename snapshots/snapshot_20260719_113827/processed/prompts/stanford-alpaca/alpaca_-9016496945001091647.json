@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-9016496945001091647",
+  "technique_name": "Design an algorithm for finding the longest common subsequence between two strings",
+  "description": "def LCS(s1, s2): \n    m = len(s1) \n    n = len(s2)\n  \n    # declaring the array for storing the dp values \n    L = [[None]*(n + 1) for _ in range(m + 1)] \n  \n    \"\"\"Following steps build L[m + 1][n + 1] in bottom up fashion \n    Note: L[i][j] contains length of LCS of X[0..i-1] \n    and Y[0..j-1]\"\"\"\n    for i in range(m + 1): \n        # previoius row is all zeros, \n        # as no common sequence can make using them \n        for j in range(n + 1): \n            # first columns of all rows are 0 \n",
+  "example": "s1 = 'ABCDGH'\ns2 = 'AEDFHR'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

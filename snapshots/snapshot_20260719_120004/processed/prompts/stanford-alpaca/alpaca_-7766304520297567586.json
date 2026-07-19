@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7766304520297567586",
+  "technique_name": "Refactor this code to reduce complexity.",
+  "description": "if ( words.length <= 1 ) { \n  return words.length - 1; \n}",
+  "example": "if ( words.length == 0 ) { \n  return -1; \n} \nif ( words.length == 1 ) { \n  return 0; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

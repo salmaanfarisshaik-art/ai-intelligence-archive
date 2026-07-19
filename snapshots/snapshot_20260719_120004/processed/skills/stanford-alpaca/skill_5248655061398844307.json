@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5248655061398844307",
+  "skill_name": "Generate a JavaScript code that takes in a user's age and returns the current year plus their age",
+  "workflow": "// declare current year \nconst currentYear = 2020; \n\n// declare age \nlet age = 20; \n\n// calculate year when user will be age + current year \nlet fullAge = currentYear + age;\n\n// print result \nconsole.log(fullAge); // Expect output: 2040",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.08552v2",
+  "schema_version": "1.0",
+  "name": "Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.08552v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DB",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.08552v2",
+    "updated": "2026-06-18T17:56:13Z",
+    "published": "2026-03-10T18:47:30Z",
+    "title": "Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+    "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, they typically lack machine-actionable representations. Producing FAIR datasets requires encoding metadata standards as machine-actionable templates with rich field specifications and precise value constraints. Recent work has shown that LLMs guided by field names and ontology constraints can improve metadata standardization, but these approaches treat constraints as static text prompts, relying on the model's training knowledge alone. We present an LLM-based metadata standardization system that queries standard reporting guidelines and authoritative biomedical terminology services in real time to retrieve canonically correct standards on demand. We evaluate this approach on 839 legacy metadata records from the Human BioMolecular Atlas Program (HuBMAP) using an expert-curated gold standard for exact-match assessment. Our evaluation shows that augmenting the LLM with real-time tool access consistently improves prediction accuracy over the LLM alone across both ontology-constrained and non-ontology-constrained fields, demonstrating a practical approach to automated standardization of biomedical metadata.",
+    "primary_category": "cs.DB"
+  },
+  "retrieval_timestamp": "2026-06-19T03:44:00Z",
+  "last_updated": "2026-06-18T17:56:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.08552v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a line of code to insert the following data into a table called ‘Orders’.",
+  "input": "Object {order_id: \"ABC123\", quantity: \"10\", price: \"17.99\"}",
+  "output": "INSERT INTO Orders (order_id, quantity, price) VALUES (\"ABC123\", \"10\", 17.99);",
+  "unique_id": "prompt_write_a_line_of_code",
+  "schema_version": "1.0"
+}

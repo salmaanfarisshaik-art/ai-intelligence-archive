@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5229551995501676611",
+  "skill_name": "Create an algorithm for finding out the largest number in an array of integers.",
+  "workflow": "def find_maximum_number(numbers):\n\"\"\"\nGiven an array of integers, find and return the largest number\n\nArgs:\n    numbers: a list of integers\n\nReturns:\n    maximum: the largest number in the given array\n\n\"\"\"\n    maximum = numbers[0]\n    for number in numbers:\n        if number > maximum:\n            maximum = number\n        \n    return maximum",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

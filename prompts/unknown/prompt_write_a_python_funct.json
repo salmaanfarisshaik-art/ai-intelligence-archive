@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a Python function that takes two integers and returns their least common multiple.",
+  "input": "",
+  "output": "def lcm(a, b):\n  if a > b:\n    greater = a\n  else:\n    greater = b\n  while(True):\n    if((greater % a == 0) and (greater % b == 0)):\n      lcm = greater\n      break\n    greater += 1\n  return lcm\n\nprint(lcm(15, 18))\n# Output: 90",
+  "unique_id": "prompt_write_a_python_funct",
+  "schema_version": "1.0"
+}

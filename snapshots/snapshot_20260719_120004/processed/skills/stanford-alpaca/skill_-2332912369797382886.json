@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2332912369797382886",
+  "skill_name": "Create a function to subtract two matrices.",
+  "workflow": "def subtract_matrices(matrix1, matrix2):\n    if len(matrix1) != len(matrix2) or len(matrix1[0]) != len(matrix2[0]):\n        print('Error! Cannot subtract two matrices of different sizes!')\n        return None \n    result = [[matrix1[i][j] - matrix2[i][j] \n              for j in range(len(matrix1[0]))] \n              for i in range(len(matrix1))] \n  \n    return result",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

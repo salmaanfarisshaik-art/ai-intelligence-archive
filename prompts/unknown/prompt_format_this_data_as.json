@@ -1,0 +1,7 @@
+{
+  "instruction": "Format this data as a chart.",
+  "input": "Name   | Age | Address\n------ | ----|-----------\nJohn   | 32  | 123 Main St.\nKate   | 25  | 456 Moon Ave.\nAlice  | 19  | 789 Sun Rd.",
+  "output": "Name | Age | Address\n-----|-----| --------\nJohn | 32  | 123 Main St.\nKate | 25  | 456 Moon Ave.\nAlice| 19  | 789 Sun Rd.",
+  "unique_id": "prompt_format_this_data_as",
+  "schema_version": "1.0"
+}

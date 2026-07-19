@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a bank statement using the following information.",
+  "input": "Deposit $6500. Withdrawal $1000.",
+  "output": "Bank Statement \nDate: XX/XX/XX \nTransaction Type\t\tAmount \nDeposit\t\t\t\t\t\t$6500.00 \nWithdrawal\t\t   \t\t$1000.00 \nBalance\t\t\t\t\t\t$5500.00",
+  "unique_id": "prompt_create_a_bank_statem",
+  "schema_version": "1.0"
+}

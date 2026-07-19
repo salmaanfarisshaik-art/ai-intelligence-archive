@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5817721981757418457",
+  "skill_name": "Write a function to determine the sum of all prime numbers up to a given limit.",
+  "workflow": "def sum_primes(limit):\n    sum = 0\n    for number in range(2, limit + 1):\n        if all(number % i != 0 for i in range(2, number)):\n            sum += number\n    return sum",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

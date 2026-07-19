@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6868374682227170314",
+  "skill_name": "Given two arrays, write a program to return the elements that are present in both the arrays.",
+  "workflow": "def find_common_elements(arr1, arr2):\n    res = []\n    for i in arr1:\n        if i in arr2:\n            res.append(i)\n    return res",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

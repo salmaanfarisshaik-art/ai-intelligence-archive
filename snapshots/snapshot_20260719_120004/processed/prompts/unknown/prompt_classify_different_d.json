@@ -1,0 +1,7 @@
+{
+  "instruction": "Classify different dog breeds using a convolutional neural network.",
+  "input": "",
+  "output": "The convolutional neural network should be built with a series of convolutional and pooling layers. These layers should be used to extract features from the images of different dog breeds. The network should also be connected to a fully connected output layer with the number of nodes equal to the number of different dog breeds. Finally, the network should be trained using a dataset of images belonging to different dog breeds and then evaluated with an appropriate metric.",
+  "unique_id": "prompt_classify_different_d",
+  "schema_version": "1.0"
+}

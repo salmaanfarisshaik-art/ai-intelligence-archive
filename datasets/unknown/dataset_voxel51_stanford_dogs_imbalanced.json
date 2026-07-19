@@ -1,0 +1,28 @@
+{
+  "_id": "6687f234e977211be129ab9b",
+  "id": "Voxel51/Stanford-Dogs-Imbalanced",
+  "author": "Voxel51",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-07-05T13:52:15.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "5ba5b5ade6c1e9e130324d711969916366de1e02",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for StanfordDogsImbalanced\n\t\n\n\n\n\n\n\n\nThis is a FiftyOne dataset with 19060 samples.\n\n\t\n\t\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = fouh.load_from_hub(\"Voxel51/Stanford-Dogs-Imbalanced\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/Stanford-Dogs-Imbalanced.",
+  "downloads": 23719,
+  "tags": [
+    "task_categories:image-classification",
+    "language:en",
+    "size_categories:10K<n<100K",
+    "modality:image",
+    "library:fiftyone",
+    "region:us",
+    "fiftyone",
+    "image",
+    "image-classification"
+  ],
+  "createdAt": "2024-07-05T13:16:36.000Z",
+  "key": "",
+  "unique_id": "dataset_voxel51_stanford_dogs_imbalanced",
+  "schema_version": "1.0"
+}

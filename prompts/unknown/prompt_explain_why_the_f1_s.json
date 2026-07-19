@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain why the F1 score is a better evaluation metric than accuracy.",
+  "input": "",
+  "output": "The F1 score is a better evaluation metric than accuracy because it takes into account both precision and recall. Accuracy measures only how many examples were correctly labeled, but does not consider the number of false positives or false negatives. The F1 score considers both precision and recall for a more comprehensive measure of a model’s performance. This makes it a better metric for evaluating classification models.",
+  "unique_id": "prompt_explain_why_the_f1_s",
+  "schema_version": "1.0"
+}

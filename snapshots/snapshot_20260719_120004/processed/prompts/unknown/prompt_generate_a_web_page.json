@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a web page displaying the given information.",
+  "input": "Item: Shoes\nPrice: $32\nDescription: These shoes are made with a durable tread and breathable material.",
+  "output": "<html> \n  <head> \n    <title>Shoes</title> \n  </head> \n  <body> \n    <h1>Shoes</h1> \n    <p>Price: $32</p>\n    <p>Description: These shoes are made with a durable tread and breathable material.</p>\n  </body> \n</html>",
+  "unique_id": "prompt_generate_a_web_page",
+  "schema_version": "1.0"
+}

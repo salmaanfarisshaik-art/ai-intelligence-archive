@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_1938833040829167180",
+  "skill_name": "Read the sample data and create a database using SQL.",
+  "workflow": "CREATE TABLE persons (\n    name VARCHAR(50),\n    age INT,\n    gender VARCHAR(6)\n);\n\nINSERT INTO persons (name, age, gender) \nVALUES ('John', 25, 'Male'), ('Jane', 28, 'Female'), ('Billy', 32, 'Male');",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

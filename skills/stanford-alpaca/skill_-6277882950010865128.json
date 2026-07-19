@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6277882950010865128",
+  "skill_name": "Create a computer program to generate a multiplication table of the given number.",
+  "workflow": "function generateMultiplicationTable (number) {\n  for (let i = 1; i <= 10; i++) {\n    console.log(`${number} X ${i} = ${number * i}`);\n  }\n}\n\ngenerateMultiplicationTable(7);",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

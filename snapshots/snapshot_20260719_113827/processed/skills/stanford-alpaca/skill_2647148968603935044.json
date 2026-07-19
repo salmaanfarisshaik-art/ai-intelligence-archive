@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_2647148968603935044",
+  "skill_name": "Design a program that can classify a piece of news into one of the following categories: sports, politics, entertainment, economy.",
+  "workflow": "import nltk\nfrom nltk.tokenize import word_tokenize\n\ndef classify_news(news):\n    words = word_tokenize(news)\n    for word in words:\n        if word == \"sports\" or word == \"Politics\" or word == \"Entertainment\" or word == \"Economy\":\n            return word\n    return \"Other\"\n\nnews = \"Italy's Richest Man, Count Giulio Zanda, Dies at Age 85\"\n\nprint(classify_news(news))\n\nOutput: Other",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

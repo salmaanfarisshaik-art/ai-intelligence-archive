@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3642736301363649630",
+  "technique_name": "Describe the type of task carried out by the following algorithm.",
+  "description": "This algorithm is a sorting algorithm which sorts an array of elements in ascending order using the quicksort technique. The quicksort technique is a recursive, divide-and-conquer algorithm. It works by first selecting a pivot element from the array and then dividing the array into two sub-arrays, one containing all the elements which are less than the pivot and the other containing all the elements which are greater than the pivot. Then, the quicksort algorithm is invoked recursively on both th",
+  "example": "def quicksort(arr):\n    if len(arr) <= 1:\n        return arr\n    pivot = arr[len(arr) // 2]\n    left = [x for x in arr if x < pivot]\n    middle = [x for x in arr if x == pivot]\n    right = [x for x in arr if x > pivot]\n    return quicksort(left) + middle + quicksort(right)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

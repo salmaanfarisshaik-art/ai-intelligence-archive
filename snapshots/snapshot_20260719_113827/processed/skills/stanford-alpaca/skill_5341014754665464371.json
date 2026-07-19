@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5341014754665464371",
+  "skill_name": "Write a function in C++ to count the number of occurrences of a string inside a longer string.",
+  "workflow": "int countOccurrences(string s, string find) \n{ \n    int count = 0; \n    for (int i=0; i<s.length(); i++)\n    { \n        if(s.substr(i, find.length()) == find) \n            count++; \n    }\n    return count; \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

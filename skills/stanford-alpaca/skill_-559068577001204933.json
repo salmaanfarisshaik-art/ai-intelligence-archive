@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-559068577001204933",
+  "skill_name": "Create an algorithm that can output the closest matching words given a set of input words.",
+  "workflow": "def closest_matching_words(words):\n    \"\"\"This function finds the closest matching words to a set of input words.\n    \n    Arguments:\n    words -- list of input words. \n    \n    Returns:\n    closest_words -- list of closest matching words.\n    \"\"\"\n    \n    closest_words = []\n    for word in words: \n        closest_n_words = get_closest_n_words(word)\n        for c_word in closest_n_words: \n            closest_words.append(c_word)\n   \n    closest_words = list(set(closest_words)) #deduplication\n   ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_6942918006515124427",
+  "skill_name": "Design a program to calculate the Fibonacci sequence up to 20 numbers.",
+  "workflow": "def Fibonacci(n): \n    a = 0\n    b = 1\n    if n < 0: \n        print(\"Incorrect input\")  \n    elif n == 0: \n        return a \n    elif n == 1: \n        return b \n    else: \n        for i in range(2,n): \n            c = a + b \n            a = b \n            b = c\n            print(c)\n        return b \n  \n# Driver Program \n  \nprint(Fibonacci(20))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14647v1",
+  "schema_version": "1.0",
+  "name": "Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14647v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14647v1",
+    "updated": "2026-06-12T17:08:42Z",
+    "published": "2026-06-12T17:08:42Z",
+    "title": "Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models",
+    "summary": "Transformer-based automatic speech recognition (ASR) models such as Whisper are highly accurate, but their predictions remain difficult to interpret. Existing explainable AI (XAI) methods often lack faithfulness and precise temporal grounding. We propose Listening with Entropy-guided Attention for Faithful explainability (LEAF-X), a model-intrinsic XAI framework for transformer-based ASR. LEAF-X combines entropy-guided attention weighting, multi-layer attention rollout, and optional causal ablations to identify low-entropy, high-impact heads and layers, producing sparse token-to-frame attributions. Unlike perturbation-based explainers or raw attention maps, LEAF-X exploits the internal structure of encoder-decoder and speech-augmented decoder-only models to generate explanations that better reflect model computation. Results show 32% improved faithfulness, 35-39% stronger locality/sparsity, and the most stable attributions, supporting more transparent and auditable ASR.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T17:08:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14647v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

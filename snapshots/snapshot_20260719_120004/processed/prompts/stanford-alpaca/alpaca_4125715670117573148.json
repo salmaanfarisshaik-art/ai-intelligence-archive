@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4125715670117573148",
+  "technique_name": "Generate an algorithm for identifying spam emails.",
+  "description": "1. Identify any email addresses attached to the email.\n2. Check if any words are in all capital letters.\n3. Check the domain name of the email address to detect suspicious patterns.\n4. Check for spelling and grammar errors. \n5. Check if the email contains repeated phrases or words.\n6. Scan the content for known spammers from websites or databases.\n7. Investigate any links in the email.\n8. Search if user response is requested. \n9. Monitor IP address for fraudulent activity.\n10. Check for attachme",
+  "example": "No input required.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

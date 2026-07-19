@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2734971655995946701",
+  "skill_name": "Write an algorithm to calculate the sum of all numbers between two given numbers, including both of them.",
+  "workflow": "def calculate_sum(n, m):\n    s = 0\n    for i in range(n, m+1):\n        s += i\n    return s",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

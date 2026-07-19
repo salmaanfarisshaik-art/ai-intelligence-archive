@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4470139909832807322",
+  "technique_name": "Write an algorithm to solve a given problem in pseudocode.",
+  "description": "//input: array of numbers\n\n//output: smallest number in array\n\nmin_num = null\n\nfor each number in array:\n    if min_num is null\n        min_num = number\n    else if number < min_num\n        min_num = number\n\nreturn min_num;",
+  "example": "Problem: Suppose we want to find the smallest number in a given array.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

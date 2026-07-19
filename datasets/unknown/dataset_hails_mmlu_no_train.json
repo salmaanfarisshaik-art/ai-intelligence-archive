@@ -1,0 +1,25 @@
+{
+  "_id": "654138a2a385933e81fdbb4c",
+  "id": "hails/mmlu_no_train",
+  "author": "hails",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-07-13T15:22:30.000Z",
+  "likes": 29,
+  "private": false,
+  "sha": "b2e1ec9aa795adafe68e8e983248dbd4b52a1c60",
+  "description": "This dataset contains a copy of the cais/mmlu HF dataset but without the auxiliary_train split that takes a long time to generate again each time when loading multiple subsets of the dataset.\nPlease visit https://huggingface.co/datasets/cais/mmlu for more information on the MMLU dataset.\n",
+  "downloads": 52563,
+  "tags": [
+    "task_categories:question-answering",
+    "language:en",
+    "license:mit",
+    "size_categories:10K<n<100K",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2023-10-31T17:25:54.000Z",
+  "key": "",
+  "unique_id": "dataset_hails_mmlu_no_train",
+  "schema_version": "1.0"
+}

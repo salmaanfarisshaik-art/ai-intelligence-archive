@@ -1,0 +1,7 @@
+{
+  "instruction": "You are given a dataset containing customer records. Determine the most common demographic among these customers.",
+  "input": "Name | Age | Gender | Location \nJohn | 28 | Male | New York \nKate | 32 | Female | California\nGreg | 45 | Male | Texas",
+  "output": "Male, with an average age of 35, located in the United States.",
+  "unique_id": "prompt_you_are_given_a_data",
+  "schema_version": "1.0"
+}

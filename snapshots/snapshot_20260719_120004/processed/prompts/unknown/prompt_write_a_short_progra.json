@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a short program to print out the Fibonacci sequence up to the number specified by the user.",
+  "input": "",
+  "output": "def print_fibonacci(n): \n    a = 0\n    b = 1\n \n     print(\"Fibonacci Sequence:\")\n    while a < n:\n        print(a)\n        c = a + b\n        a = b\n        b = c\n\nn = int(input(\"Enter a number:\"))\nprint_fibonacci(n)",
+  "unique_id": "prompt_write_a_short_progra",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14600v1",
+  "schema_version": "1.0",
+  "name": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.14600v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14600v1",
+    "updated": "2026-06-12T16:23:00Z",
+    "published": "2026-06-12T16:23:00Z",
+    "title": "LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations",
+    "summary": "Online group chats are social spaces with local conversational norms that are rarely stated explicitly. The ability and willingness of LLM-based agents to recognize and adapt to these norms remains mostly unexplored. We introduce LoSoNA, a benchmark for local social norm adaptation in multi-party chat. Each scenario gives a subject model a curated group-chat transcript in which non-subject participants demonstrate a hidden local norm, followed by a final elicitor turn that forces a response revealing whether the subject has inferred that norm. We evaluate eight frontier and open-weight models under four prompting conditions that vary how explicitly the model is told to treat the prior conversation as evidence for how it should answer. Naive prompting remains limited for most models; explicit norm-aware prompting helps unevenly, with Gemini 3.1 Pro reaching $84.2\\%$ and Claude Fable 5 reaching $81.6\\%$, while several other models show small gains or regressions. LoSoNA contributes to recent calls for evaluating LLM social capabilities by testing whether models can infer local conversational norms from precedent and use them in a one-turn group-chat response.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-06-15T15:33:37Z",
+  "last_updated": "2026-06-12T16:23:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14600v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

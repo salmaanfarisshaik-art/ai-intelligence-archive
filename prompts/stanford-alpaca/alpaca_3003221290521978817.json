@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3003221290521978817",
+  "technique_name": "Formulate a query to match and retrieve a user-uploaded PDF document that contains the word \"insurance\".",
+  "description": "SELECT * FROM Documents WHERE FileName LIKE '%insurance%' AND FileType='PDF'",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

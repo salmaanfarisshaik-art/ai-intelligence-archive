@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1884912757603803078",
+  "technique_name": "Given a table with three columns, identify the type of relationship between them.",
+  "description": "A is related to B since Joe is related to 23, and B is related to C since 23 is related to USA. Thus, there is a one-to-one relationship between A and B, and also a one-to-one relationship between B and C.",
+  "example": "Table:\n\n    A    B   C\n   Joe  23  USA",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

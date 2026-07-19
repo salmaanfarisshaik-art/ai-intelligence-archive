@@ -1,0 +1,7 @@
+{
+  "instruction": "Reverse a linked list.",
+  "input": "",
+  "output": "def reverse(head): \n    prev = None\n    cur = head \n\n    while cur:\n        next = cur.next\n        cur.next = prev \n        prev = cur \n        cur = next\n    head = prev\n    \n    return head",
+  "unique_id": "prompt_reverse_a_linked_lis",
+  "schema_version": "1.0"
+}

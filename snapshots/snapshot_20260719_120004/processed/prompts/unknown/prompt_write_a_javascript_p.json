@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a JavaScript program to remove all duplicated elements from an array.",
+  "input": "[1, 2, 3, 2, 4, 3]",
+  "output": "const arr = [1, 2, 3, 2, 4, 3];\nconst deduplicated = Array.from(new Set(arr))\n\nconsole.log(deduplicated); // [1, 2, 3, 4]",
+  "unique_id": "prompt_write_a_javascript_p",
+  "schema_version": "1.0"
+}

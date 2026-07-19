@@ -1,0 +1,7 @@
+{
+  "instruction": "Convert this table into JSON.",
+  "input": "| Name  | Age |\n|-------|-----|\n| John  | 20  |\n| Alice | 21  |\n| Bob   | 22  |",
+  "output": "[\n    {\n        \"name\": \"John\",\n        \"age\": 20\n    },\n    {\n        \"name\": \"Alice\",\n        \"age\": 21\n    },\n    {\n        \"name\": \"Bob\",\n        \"age\": 22\n    }\n]",
+  "unique_id": "prompt_convert_this_table_i",
+  "schema_version": "1.0"
+}

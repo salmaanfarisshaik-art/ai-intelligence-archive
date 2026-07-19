@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a function for shuffling a deck of cards",
+  "input": "",
+  "output": "def shuffle_deck(deck):\n    shuffled_deck = []\n \n    while len(deck) > 0:\n        index = random.randint(0, len(deck) - 1)\n        shuffled_deck.append(deck.pop(index))\n \n    return shuffled_deck",
+  "unique_id": "prompt_write_a_function_for",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5906588042670295739",
+  "technique_name": "Create 3 sample HTTP requests to add a new user to a database.",
+  "description": "Request 1:\nPOST /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 2:\nPUT /user HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@example.com\",\n  \"password\": \"pa$$w0rd\"\n}\n\nRequest 3:\nPOST /user/add HTTP/1.1 \nHost: example.com\nContent-Type: application/json\n{\n  \"username\": \"newuser_123\", \n  \"email\": \"newuser_123@ex",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

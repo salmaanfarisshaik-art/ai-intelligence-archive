@@ -1,0 +1,7 @@
+{
+  "instruction": "Find the errors in the following code and fix them.",
+  "input": "if (x > y) {\nif (x == y)\n  y = 0;\nelse\n  x = 0;\n}",
+  "output": "if (x > y) {\nif (x == y) {\n  y = 0;\n} else {\n  x = 0;\n}\n}",
+  "unique_id": "prompt_find_the_errors_in_t",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.17027v1",
+  "schema_version": "1.0",
+  "name": "MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.17027v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.17027v1",
+    "updated": "2026-06-15T17:51:38Z",
+    "published": "2026-06-15T17:51:38Z",
+    "title": "MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences",
+    "summary": "We present MeshLoom, a feed-forward registration network that directly reconstructs vertex deformations across mesh sequences. Our approach advances non-rigid registration beyond existing models, which are typically constrained by costly per-instance optimization, narrow object categories, pairwise-only inputs, or merely intermediate outputs. The network is simple and efficient, registering multiple meshes within seconds. At its core lies a topology-aware encoder--decoder design. Specifically, we first introduce a topology-aware point representation that encodes the anchor (reference) mesh's topology into its per-vertex features. This representation strengthens the network's understanding of the anchor-mesh geometry and disambiguates points that are Euclidean-close yet geodesically distant. We then propose a multi-modal encoder that fuses this anchor-mesh representation with complementary cues from each frame, such as shape latents and image features. These multi-source signals are compressed into a compact global motion embedding that captures dense inter-frame correspondence. A lightweight decoder then queries this global embedding with the anchor-mesh point representation, retrieving per-vertex deformations at target timestamps. Through extensive experiments across diverse motions and object categories, we show that MeshLoom achieves state-of-the-art results on non-rigid registration. In addition, we find that our global embedding-then-query paradigm naturally enables the network to generate deformations at intermediate timestamps, which extends MeshLoom to motion interpolation and mesh morphing. Project page: https://meshloom.github.io/ .",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-16T11:01:33Z",
+  "last_updated": "2026-06-15T17:51:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.17027v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

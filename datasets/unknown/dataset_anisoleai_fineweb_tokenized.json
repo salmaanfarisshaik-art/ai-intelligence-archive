@@ -1,0 +1,30 @@
+{
+  "_id": "6a153f136ea5882878c26693",
+  "id": "anisoleai/fineweb-tokenized",
+  "author": "anisoleai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-29T12:35:53.000Z",
+  "likes": 16,
+  "private": false,
+  "sha": "ef1311f460b42138d7a2d18f51e9cc38cedda089",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb Tokenized\n\t\n\n\n    \n\n> 4 trillion tokens of the pre-tokenized data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis is a pre-tokenized version of the HuggingFaceFW/fineweb dataset (currently in-progress, tokenization of the ~15 trillion tokens corpus is ongoing). The data is being pre-processed and tokenized using the AnisoleAI BPE tokenizer (52,022 vocabulary size) and packed into compact uint16 Parquet shards.\nBy distributing the pre-tokenized corpus, we eliminate… See the full description on the dataset page: https://huggingface.co/datasets/anisoleai/fineweb-tokenized.",
+  "downloads": 7233276,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:odc-by",
+    "size_categories:n>1T",
+    "modality:tabular",
+    "modality:text",
+    "arxiv:2406.17557",
+    "region:us",
+    "tabular",
+    "text",
+    "pre-training"
+  ],
+  "createdAt": "2026-05-26T06:34:59.000Z",
+  "key": "",
+  "unique_id": "dataset_anisoleai_fineweb_tokenized",
+  "schema_version": "1.0"
+}

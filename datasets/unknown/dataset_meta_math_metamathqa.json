@@ -1,0 +1,31 @@
+{
+  "_id": "650c7be62a602ba34904a362",
+  "id": "meta-math/MetaMathQA",
+  "author": "meta-math",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-12-21T01:35:53.000Z",
+  "likes": 462,
+  "private": false,
+  "sha": "aa4f34d3d2d3231299b5b03d9b3e5a20da45aa18",
+  "description": "View the project page:\nhttps://meta-math.github.io/\nsee our paper at https://arxiv.org/abs/2309.12284\n\n\t\n\t\t\n\t\tNote\n\t\n\nAll MetaMathQA data are augmented from the training sets of GSM8K and MATH. \nNone of the augmented data is from the testing set.\nYou can check the original_question in meta-math/MetaMathQA, each item is from the GSM8K or MATH train set.\n\n\t\n\t\t\n\t\tModel Details\n\t\n\nMetaMath-Mistral-7B is fully fine-tuned on the MetaMathQA datasets and based on the powerful Mistral-7B model. It is… See the full description on the dataset page: https://huggingface.co/datasets/meta-math/MetaMathQA.",
+  "downloads": 37904,
+  "tags": [
+    "license:mit",
+    "size_categories:100K<n<1M",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2309.12284",
+    "region:us",
+    "math",
+    "math-qa"
+  ],
+  "createdAt": "2023-09-21T17:22:46.000Z",
+  "key": "",
+  "unique_id": "dataset_meta_math_metamathqa",
+  "schema_version": "1.0"
+}

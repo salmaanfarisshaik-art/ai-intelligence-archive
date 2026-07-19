@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a compile time error regarding the given code.",
+  "input": "def someFunction():\n    print('Hello')",
+  "output": "SyntaxError: invalid syntax. There must be an indentation after the definition of the function.",
+  "unique_id": "prompt_write_a_compile_time",
+  "schema_version": "1.0"
+}

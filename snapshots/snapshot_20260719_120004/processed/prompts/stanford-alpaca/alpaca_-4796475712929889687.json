@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4796475712929889687",
+  "technique_name": "Design a computer program to determine the frequency of strings in a given text.",
+  "description": "This program can be designed in a few steps.\n\n1. Read in the text from a file.\n2. Split the text by individual words.\n3. Use a hash map to store each word in the text along with its frequency.\n4. Iterate over the split words and check if a particular word is already present in the hash map.\n5. If not, add the word and set its frequency to 1.\n6. If the word is already present, increment its frequency by 1.\n7. Output a list of words with their corresponding frequencies.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

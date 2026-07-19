@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a query to return the top 10 brands of cars in 2020",
+  "input": "",
+  "output": "SELECT * FROM cars WHERE year = 2020 ORDER BY brand LIMIT 10;",
+  "unique_id": "prompt_construct_a_query_to",
+  "schema_version": "1.0"
+}

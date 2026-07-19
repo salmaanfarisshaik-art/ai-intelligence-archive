@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a valid SQL statement.",
+  "input": "Retrieve the names and ages of all the students who live in Brisbane.",
+  "output": "SELECT name, age FROM students WHERE city='Brisbane';",
+  "unique_id": "prompt_construct_a_valid_sq",
+  "schema_version": "1.0"
+}

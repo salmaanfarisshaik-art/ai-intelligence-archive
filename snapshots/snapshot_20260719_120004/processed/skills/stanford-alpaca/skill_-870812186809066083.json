@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-870812186809066083",
+  "skill_name": "Edit the code to check if the username is longer than 8",
+  "workflow": "if len(username) <= 8:\n    print(\"Username too short\")\nelse:\n    print(\"Username is valid\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

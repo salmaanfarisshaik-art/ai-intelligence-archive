@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7713321205034021137",
+  "technique_name": "Write a function that prints the elements of a Python list in reverse order.",
+  "description": "def print_list_reversed(lst):\n    for i in range(len(lst)-1, -1, -1):\n        print(lst[i])\n\nprint_list_reversed([1,2,3,4,5])\n\n# Output: 5 4 3 2 1",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

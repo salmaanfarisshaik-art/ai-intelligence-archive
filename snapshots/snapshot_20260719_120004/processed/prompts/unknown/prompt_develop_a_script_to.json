@@ -1,0 +1,7 @@
+{
+  "instruction": "Develop a script to call a function.",
+  "input": "Function name: add",
+  "output": "def add(a, b):\n  return a + b\n  \nx = 5\ny = 10\n\nprint(add(x, y)) # Outputs 15",
+  "unique_id": "prompt_develop_a_script_to",
+  "schema_version": "1.0"
+}

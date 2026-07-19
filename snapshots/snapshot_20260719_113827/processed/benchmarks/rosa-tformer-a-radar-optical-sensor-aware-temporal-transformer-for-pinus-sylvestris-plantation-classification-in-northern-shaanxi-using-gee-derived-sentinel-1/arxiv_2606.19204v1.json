@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19204v1",
+  "schema_version": "1.0",
+  "name": "ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19204v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19204v1",
+    "updated": "2026-06-17T15:41:42Z",
+    "published": "2026-06-17T15:41:42Z",
+    "title": "ROSA-TFormer: A Radar-Optical Sensor-Aware Temporal Transformer for Pinus sylvestris Plantation Classification in Northern Shaanxi Using GEE-Derived Sentinel-1/2 Time Series",
+    "summary": "Accurate identification of Pinus sylvestris var. mongolica plantations is important for monitoring afforestation quality and ecological restoration in northern Shaanxi. This paper proposes ROSA-TFormer, a radar-optical sensor-aware temporal Transformer for P. sylvestris classification using Sentinel-1/2 time-series data generated on Google Earth Engine. The model integrates separate SAR and optical embedding branches, a sensor-aware gate, and temporal attention pooling to capture multi-source seasonal features. Experiments on monthly and half-month point-level datasets show that ROSA-TFormer achieves strong classification performance, with 99.67% overall accuracy, 99.56% macro F1, and 98.91% P. sylvestris F1 on the HalfMonth-dataBig dataset. Spatial block validation and ablation results further indicate the effectiveness of radar-optical temporal fusion and sensor-aware modeling. The results demonstrate the potential of ROSA-TFormer for point-level P. sylvestris plantation classification, while broader wall-to-wall validation remains necessary.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-06-18T02:57:41Z",
+  "last_updated": "2026-06-17T15:41:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19204v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

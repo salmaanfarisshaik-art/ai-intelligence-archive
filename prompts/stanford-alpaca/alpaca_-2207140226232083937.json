@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2207140226232083937",
+  "technique_name": "Write a query in PostgreSQL to list customers with orders in a particular month.",
+  "description": "SELECT customers.name \nFROM customers \nINNER JOIN orders \nON customers.id = orders.customer_id \nWHERE EXTRACT(MONTH FROM orders.order_created_at) = '04' \n  AND EXTRACT (YEAR FROM orders.order_created_at) = '2021'",
+  "example": "Month: April 2021",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

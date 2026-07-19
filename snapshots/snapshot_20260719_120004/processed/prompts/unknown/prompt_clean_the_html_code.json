@@ -1,0 +1,7 @@
+{
+  "instruction": "Clean the HTML code by removing all the unnecessary tags.",
+  "input": "<html><head><title>Website</title></head><body><p>This is a paragraph.</p><p>This is the second paragraph.</p></body></html>",
+  "output": "<html><head><title>Website</title></head><body>This is a paragraph.<p>This is the second paragraph.</p></body></html>",
+  "unique_id": "prompt_clean_the_html_code",
+  "schema_version": "1.0"
+}

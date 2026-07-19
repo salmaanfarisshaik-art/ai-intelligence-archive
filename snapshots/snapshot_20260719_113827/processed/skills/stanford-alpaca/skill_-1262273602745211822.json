@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1262273602745211822",
+  "skill_name": "Create a web page that displays the following data as a bar chart.",
+  "workflow": "<html>\n<head>\n  <title>Bar Chart</title>\n</head>\n<body>\n  <canvas id=\"barChart\" width=\"400\" height=\"400\"></canvas>\n  \n  <script>\n    const data = {\n      \"January\": 20,\n      \"February\": 15,\n      \"March\": 10,\n      \"April\": 25,\n      \"May\": 30\n    };\n\n    const barChart = document.getElementById(\"barChart\").getContext(\"2d\");\n\n    let barChartData = { \n      labels: [\"January\", \"February\", \"March\", \"April\", \"May\"],\n      datasets: [\n        {   \n            label: \"Monthly Data\",\n            dat",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

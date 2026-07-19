@@ -1,0 +1,59 @@
+{
+  "unique_id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
+  "schema_version": "1.0",
+  "name": "mueller91/MLAAD",
+  "description": "\n  \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tIntroduction\n\t\n\nWelcome to MLAAD: The Multi-Language Audio Anti-Spoofing Dataset -- a dataset to train, test and evaluate audio deepfake detection. See\nthe paper for more information.\n\n\t\n\t\t\n\t\n\t\n\t\tLicense\n\t\n\nMLAAD is published strictly for non-commercial academic research use, under the CC-BY-NC 4.0 license. Commercial use is not permitted.\n\n\t\n\t\t\n\t\n\t\n\t\tDownload the dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOption 1: Hugging Face datasets library\n\t\n\nInstall the datasets package:\npip install… See the full description on the dataset page: https://huggingface.co/datasets/mueller91/MLAAD.",
+  "size": "279055",
+  "source_url": "https://huggingface.co/datasets/mueller91/MLAAD",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "67d6c9b5ba56e14eeb14fab6",
+    "id": "mueller91/MLAAD",
+    "author": "mueller91",
+    "disabled": false,
+    "gated": "auto",
+    "lastModified": "2026-06-12T08:26:50.000Z",
+    "likes": 34,
+    "private": false,
+    "sha": "d853198b7404c44c3d6ff1d205da49a5f970f03d",
+    "description": "\n  \n\n\n\n\t\n\t\t\n\t\n\t\n\t\tIntroduction\n\t\n\nWelcome to MLAAD: The Multi-Language Audio Anti-Spoofing Dataset -- a dataset to train, test and evaluate audio deepfake detection. See\nthe paper for more information.\n\n\t\n\t\t\n\t\n\t\n\t\tLicense\n\t\n\nMLAAD is published strictly for non-commercial academic research use, under the CC-BY-NC 4.0 license. Commercial use is not permitted.\n\n\t\n\t\t\n\t\n\t\n\t\tDownload the dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOption 1: Hugging Face datasets library\n\t\n\nInstall the datasets package:\npip install… See the full description on the dataset page: https://huggingface.co/datasets/mueller91/MLAAD.",
+    "downloads": 279055,
+    "tags": [
+      "task_categories:audio-classification",
+      "language:en",
+      "language:de",
+      "language:fr",
+      "language:es",
+      "language:uk",
+      "language:pl",
+      "language:ru",
+      "language:it",
+      "license:cc-by-nc-4.0",
+      "size_categories:100K<n<1M",
+      "modality:audio",
+      "arxiv:2401.09512",
+      "region:us",
+      "audio",
+      "deepfake",
+      "audio-deepfake-detection",
+      "anti-spoofing",
+      "voice",
+      "voice-antispoofing",
+      "MLAAD"
+    ],
+    "createdAt": "2025-03-16T12:53:09.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:15.858854+00:00",
+  "last_updated": "2026-06-12T08:26:50.000Z",
+  "links": {
+    "related_models": [
+      "datasets/mueller91"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

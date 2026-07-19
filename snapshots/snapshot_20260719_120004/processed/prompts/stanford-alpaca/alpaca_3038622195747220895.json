@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3038622195747220895",
+  "technique_name": "Given an input string and a dictionary, create a function find longest word in dictionary that is a subsequence of the given string.",
+  "description": "def findLongestWord(string, dict): \n    maxLen = 0\n    result = \"\" \n\n    for word in dict: \n        if isSubsequence(word, string): \n            if len(word) > maxLen: \n                maxLen = len(word) \n                result = word  \n  \n    return result",
+  "example": "Input string: abpppl\nDictionary: [able, apple, sample, abppl, pl]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Implement a function that returns the highest value in a given list",
+  "input": "[4, 10, 20, 12]",
+  "output": "def maxValue(array):\n    maxVal = 0\n    for i in array:\n        if i > maxVal:\n            maxVal = i \n    return maxVal \n\nmaxVal = maxValue([4, 10, 20, 12]) \nprint(maxVal)",
+  "unique_id": "prompt_implement_a_function",
+  "schema_version": "1.0"
+}

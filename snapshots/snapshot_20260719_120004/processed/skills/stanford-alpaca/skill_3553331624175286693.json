@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_3553331624175286693",
+  "skill_name": "Compute the surface area of a hexagonal prism.",
+  "workflow": "def calculate_surface_area(lateral_edge, height):\n    \"\"\" Calculates the surface area of a hexagonal prism.\n\n    :param lateral_edge: The length of the lateral edge in cm, an integer\n    :param height: The height of the prism in cm, an integer\n    :return: The surface area of the hexagonal prism in cm2, an integer\n    \"\"\"\n    return 3 * lateral_edge**2 + 3 * height * lateral_edge + (3 * (3**0.5)/2) * lateral_edge**2",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2368423916729772502",
+  "skill_name": "Create a function to remove all the punctuation from a given sentence.",
+  "workflow": "\"\"\"\nFunction to remove all punctuation from a given sentence\n\"\"\"\n\ndef remove_punctuation(sentence): \n    punctuations = ',;:”!'\n    for x in sentence: \n        if x in punctuations: \n            sentence = sentence.replace(x, \"\") \n    return sentence\n\nif __name__ == \"__main__\": \n \n    print(remove_punctuation(\"I'm going to the store, see you there!\")) # Output: Im going to the store see you there",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Prove the Pythagorean Theorem.",
+  "input": "",
+  "output": "The Pythagorean Theorem states that for any right triangle with legs 'a' and 'b' and hypotenuse 'c', a² + b² = c². This can be proven using the law of cosine, where the angle opposite of leg 'c' is 90 degrees, yielding c² = a² + b² - 2ab cos(90). Plugging in 90 to cos(90) gives us c² = a² + b², thus proving the Pythagorean Theorem.",
+  "unique_id": "prompt_prove_the_pythagorea",
+  "schema_version": "1.0"
+}

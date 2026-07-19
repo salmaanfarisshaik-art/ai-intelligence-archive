@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a JavaScript function that takes in a string and returns an object with each character of the string as a key, and the number of times that character appears in the string as the value.",
+  "input": "",
+  "output": "\"\"\"\nFunction to count character frequency in a string\n\"\"\"\n\nfunction countCharacterFrequency(string) {\n    let freqObj = {};\n    for (let c of string) {\n        if (freqObj[c]) {\n            freqObj[c]++;\n        } else {\n            freqObj[c] = 1;\n        }\n    }\n    return freqObj;\n}\n\nif __name__ == '__main__':\n    str = \"hello world\";\n    console.log(countCharacterFrequency(str)); \n    // Output: { h: 1, e: 1, l: 3, o: 2, w: 1, r: 1, d: 1 }",
+  "unique_id": "prompt_write_a_javascript_f",
+  "schema_version": "1.0"
+}

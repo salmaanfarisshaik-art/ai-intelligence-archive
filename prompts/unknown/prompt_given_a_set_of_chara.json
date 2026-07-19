@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a set of characters, write a function which checks whether the given set contains the character 'A'.",
+  "input": "Character Set: [W, X, Y, Z]",
+  "output": "def checkCharacterSet(char_set):\n  if 'A' in char_set:\n    return True\n  else:\n    return False",
+  "unique_id": "prompt_given_a_set_of_chara",
+  "schema_version": "1.0"
+}

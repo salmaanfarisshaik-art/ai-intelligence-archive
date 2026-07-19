@@ -1,0 +1,7 @@
+{
+  "instruction": "Difficulty rating: Advanced. Given some input data, generate an algorithm to sort the data in descending order.",
+  "input": "3, 5, 9, 1, 8, 2",
+  "output": "Step 1: Create a list and add the given elements in the list: L = [3, 5, 9, 1, 8, 2]. \nStep 2: Set a flag called swapped to False, so that you can record the swapping if it happens: swapped = False\nStep 3: Set the index of last element of the list: last_index = len(L) – 1. \nStep 4: For each element in the list, move from left to right and check if the current element is greater than the last element: \nIf yes, swap the elements and set the swapped flag to True.\nStep 5: If the swapped flag is True, repeat steps 4 and 5. Else, the list is sorted and you can break out of the loop.\nStep 6: Return the sorted list L.",
+  "unique_id": "prompt_difficulty_rating_a",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4867325722931267213",
+  "technique_name": "Merge two sorted arrays of integers into one sorted array.",
+  "description": "def mergeSortedArrays(arr1, arr2):\n    outputArray = []\n    arr1_Index = 0\n    arr2_Index = 0\n\n    while arr1_Index < len(arr1) and arr2_Index < len(arr2):\n        if arr1[arr1_Index] < arr2[arr2_Index]:\n            outputArray.append(arr1[arr1_Index])\n            arr1_Index += 1\n        else:\n            outputArray.append(arr2[arr2_Index])\n            arr2_Index += 1\n    while arr1_Index < len(arr1):\n        outputArray.append(arr1[arr1_Index])\n        arr1_Index += 1\n    \n    while arr2_Index",
+  "example": "[1, 2, 5, 8], [3, 4, 6, 7]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

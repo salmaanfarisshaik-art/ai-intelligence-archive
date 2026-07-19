@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain how a neural network learns.",
+  "input": "",
+  "output": "A neural network is a type of machine learning algorithm that uses a collection of connected nodes to approximate functions that can map input variables to outputs. To learn the parameters of a neural network, the computer needs to adjust the weights of the connections between the nodes so that the network produces the correct output for given inputs. This adjustment process is called learning and is done by comparing the output that the network produces with the expected result and then using an optimization algorithm to tweak the weights so that the output of the network approaches the expected result. The process is repeated for multiple iterations with different inputs and expected outputs. Eventually, the weights of the connections between the nodes will be adjusted such that the output of the neural network matches the expected result, and the learning process will be complete.",
+  "unique_id": "prompt_explain_how_a_neural",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the pieces of code, explain why the function does not work properly.",
+  "input": "def calculate_number():\n  num1 = 5\n  num2 = 10\n  answer = num1 + num2\n  return answer",
+  "output": "The function does not work properly because the return statement is outside of the function's code block. The return statement should be inside of the code block so that it can return the value of answer which is calculated by num1 + num2.",
+  "unique_id": "prompt_given_the_pieces_of",
+  "schema_version": "1.0"
+}

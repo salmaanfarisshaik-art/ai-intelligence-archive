@@ -1,0 +1,7 @@
+{
+  "instruction": "Refactor this code snippet to make it more efficient.",
+  "input": "for(i=0; i < arr.length; i++) {\n    if (arr[i] > 10) {\n        console.log(arr[i]);\n    }\n}",
+  "output": "arr.forEach(num => {\nif (num > 10) {\n    console.log(num);\n}\n});",
+  "unique_id": "prompt_refactor_this_code_s",
+  "schema_version": "1.0"
+}

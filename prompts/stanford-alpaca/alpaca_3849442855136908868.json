@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3849442855136908868",
+  "technique_name": "Train a machine learning model to detect sarcasm in tweets.",
+  "description": "Model is trained to assign a score between 0 and 1 to each tweet, indicating the probability for the tweet being sarcastic. If the probability is above a certain threshold, then the model classifies the tweet as sarcastic.\nThe model classifies Tweet_2 as sarcastic with a probability of 0.9 and the other two tweets as not sarcastic with a probability of 0.1.",
+  "example": "This is a collection of tweets from a Twitter handle @sarcastic_tweets.\n\nTweet_1: What a beautiful day!\nTweet_2: So glad I have to work on a Saturday\nTweet_3: My cat is so cute when he sleeps",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

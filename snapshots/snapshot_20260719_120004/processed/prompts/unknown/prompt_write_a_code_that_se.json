@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code that sends a reminder email",
+  "input": "Target Date: August 15, 2022\n\nSubject: Greeting Message",
+  "output": "\"\"\"\nSend a reminder email\n\"\"\"\n\nimport smtplib\n\ndef send_reminder_email(target_date, subject, message):\n    # Set up email server\n    server = smtplib.SMTP('smtp.gmail.com', 587)\n    server.ehlo()\n    server.starttls()\n    server.login('<username>', '<password>')\n\n    # Create reminder email\n    sender = '<sender@example.com>'\n    receivers = ['<receiver@example.com>']\n    body = f'Subject: {subject}\\n\\n{message}'\n    server.sendmail(sender, receivers, body)\n\n    # Schedule a reminder to be sent on the target date\n    server.schedule_reminder(target_date, sender, receivers, body)\n\n    # Close the connection to the email server\n    server.quit()\n\nif __name__ == '__main__':\n    target_date = 'August 15, 2022'\n    subject = 'Greeting Message'\n    message = 'Happy Birthday!'\n    send_reminder_email(target_date, subject, message)",
+  "unique_id": "prompt_write_a_code_that_se",
+  "schema_version": "1.0"
+}

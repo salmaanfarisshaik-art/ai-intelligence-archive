@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3229202806340450721",
+  "technique_name": "Suggest two ways to improve the given code.",
+  "description": "Two ways to improve the code are to add descriptive variable names to the constants and to use a Math function instead of multiplication:\n\nconst num_a = 3;\nconst num_b = 5;\nconst product = Math.multiply(num_a, num_b);",
+  "example": "const a = 3;\nconst b = 5;\nconst c = a * b;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

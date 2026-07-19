@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3116580316921117892",
+  "technique_name": "Create a program to calculate the area of a triangle given three sides.",
+  "description": "def area(side1, side2, side3): \n    s = (side1 + side2 + side3) / 2\n    area = (s * (s - side1) * (s - side2) * (s - side3)) ** 0.5\n    return area \n  \na = area(3, 4, 5) \nprint(a) \n# output 6.0",
+  "example": "3, 4, 5",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

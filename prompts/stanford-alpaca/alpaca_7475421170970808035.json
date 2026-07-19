@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7475421170970808035",
+  "technique_name": "Generate appropriate solution code to print all multiples of 3 between 0 and 30, except 15.",
+  "description": "for x in range(0, 30):\n    if x != 15 and x % 3 == 0:\n        print(x)",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

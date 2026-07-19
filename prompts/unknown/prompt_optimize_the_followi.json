@@ -1,0 +1,7 @@
+{
+  "instruction": "Optimize the following query.",
+  "input": "SELECT * \nFROM table_name \nWHERE id = 1",
+  "output": "SELECT * FROM table_name WHERE id = 1 ORDER BY id",
+  "unique_id": "prompt_optimize_the_followi",
+  "schema_version": "1.0"
+}

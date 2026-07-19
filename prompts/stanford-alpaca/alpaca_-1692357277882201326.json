@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1692357277882201326",
+  "technique_name": "Optimize the given code for performance.",
+  "description": "s = 0\ni_sq = 1\nfor i in range(1,n):\n     for j in range(i_sq,i*i+1):\n         if j % i == 0:\n              s += j\n     i_sq = i*i+1 # The inner loop starts at the square of i",
+  "example": "s = 0\nfor i in range(1,n):\n     for j in range(1,i*i):\n         if j % i == 0:\n              s += j",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

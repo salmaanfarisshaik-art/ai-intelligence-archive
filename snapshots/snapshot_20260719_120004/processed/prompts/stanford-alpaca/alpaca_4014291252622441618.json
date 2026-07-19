@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_4014291252622441618",
+  "technique_name": "Analyze two datasets and develop an algorithm to classify them.",
+  "description": "The algorithm should analyze both datasets, collect features such as test scores and class attendance records, and compare them to each other. If a student's scores in the current exam is higher than their scores in past exams, then the algorithm should classify them as “improved”. If a student's scores in the current exam is lower than their scores in past exams, then the algorithm should classify them as “deteriorated”. Furthermore, if the scores in the current exam are exactly the same as the",
+  "example": "Datasets: \nDataset A: Data of students' performance in past exams\nDataset B: Data of students' performance in current exams",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

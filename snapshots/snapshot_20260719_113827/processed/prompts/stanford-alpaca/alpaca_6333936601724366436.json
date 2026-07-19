@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6333936601724366436",
+  "technique_name": "Build an SQL query that extracts all the customer data from the customer table who have bought product with id Equal to 2.",
+  "description": "SELECT * FROM customer WHERE product_ID = 2;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

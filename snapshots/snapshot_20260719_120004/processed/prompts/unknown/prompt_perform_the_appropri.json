@@ -1,0 +1,7 @@
+{
+  "instruction": "Perform the appropriate data cleaning technique on the given data set.",
+  "input": "Data set with columns \"Country\", \"City\", \"Population\"",
+  "output": "The appropriate data cleaning technique to perform on the given dataset is to check for missing and incorrect data. Missing data can be identified by looking for any empty cells in the data set. Incorrect data can be identified by checking that the data is valid, such as making sure the \"Country\" column only contains valid country names. Once any invalid or missing data is identified, it should be replaced or removed, as appropriate.",
+  "unique_id": "prompt_perform_the_appropri",
+  "schema_version": "1.0"
+}

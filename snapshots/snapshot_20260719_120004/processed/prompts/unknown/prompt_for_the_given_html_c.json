@@ -1,0 +1,7 @@
+{
+  "instruction": "For the given HTML code, replace it with an XML equivalent code.",
+  "input": "<html>\n   <head>\n      <title>Test</title>\n   </head>\n   <body>\n      <p>Welcome to my website</p>\n   </body>\n</html>",
+  "output": "<xml>\n   <head>\n      <title>Test</title>\n   </head>\n   <body>\n      <p>Welcome to my website</p>\n   </body>\n</xml>",
+  "unique_id": "prompt_for_the_given_html_c",
+  "schema_version": "1.0"
+}

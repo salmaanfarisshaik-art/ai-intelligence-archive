@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5390869408012243410",
+  "skill_name": "Write a pseudocode to calculate the roots of a quadratic equation.",
+  "workflow": "```\nFunction Quadratic_Equation_Roots (a, b, c)\n    //Calculate the Discriminant\n    Discriminant <- b2 - 4 * a * c\n    \n    //Calculate the two Roots\n    If Discriminant > 0\n        Root1 <- (-b + Sqrt(Discriminant)) / (2 * a) \n        Root2 <- (-b - Sqrt(Discriminant)) / (2 * a)\n    \n    Else If Discriminant = 0\n        Root1 = Root2 <- - b / (2 * a)\n    \n    Else\n        Return \"Imaginary Roots\"\nEnd Function\n```",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a class that implements the following interface: Person",
+  "input": "",
+  "output": "class Person implements Person {\n  private String name;  \n  private int age;  \n\n  public Person(String name, int age) {\n    this.name = name;\n    this.age = age;\n  }\n\n  public String getName() {\n    return name;\n  }\n\n  public int getAge() {\n    return age;\n  }\n}",
+  "unique_id": "prompt_create_a_class_that",
+  "schema_version": "1.0"
+}

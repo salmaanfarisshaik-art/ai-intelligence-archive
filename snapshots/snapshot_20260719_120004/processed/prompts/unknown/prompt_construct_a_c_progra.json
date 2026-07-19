@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a C program that prints the first 10 terms of the Fibonacci sequence.",
+  "input": "",
+  "output": "#include<stdio.h>\n \nint main()\n{\n   int i, n1 = 0, n2 = 1, n3;\n \n   printf(\"The first 10 terms of the Fibonacci sequence are:\\n\");\n   printf(\"%d\\n%d\\n\", n1, n2);\n \n   for (i = 3; i <= 10; ++i) \n   {\n      n3 = n1 + n2;\n      printf(\"%d\\n\", n3);\n      n1 = n2;\n      n2 = n3;\n   }\n   return 0;\n}",
+  "unique_id": "prompt_construct_a_c_progra",
+  "schema_version": "1.0"
+}

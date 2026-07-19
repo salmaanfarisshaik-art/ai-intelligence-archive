@@ -1,0 +1,7 @@
+{
+  "instruction": "Refactor the following code.",
+  "input": "num_list = [1, 2, 3, 4, 5]\nfor number in num_list:\n  if number < 3:\n    print(\"smaller than 3\")\n  elif number == 3:\n    print(\"equal to 3\")  \n  else:\n    print(\"larger than 3\")",
+  "output": "num_list = [1, 2, 3, 4, 5]\nfor number in num_list:\n  if number < 3:\n    print(\"smaller than 3\")\n  else:\n    if number == 3:\n      print(\"equal to 3\")  \n    else:\n      print(\"larger than 3\")",
+  "unique_id": "prompt_refactor_the_followi",
+  "schema_version": "1.0"
+}

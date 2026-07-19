@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5269782708531889768",
+  "skill_name": "Write an algorithm that finds the greatest common divisor (GCD) for two numbers.",
+  "workflow": "The GCD algorithm can be used to find the greatest common divisor between two numbers.\n\nThe GCD algorithm works by taking two non-zero integers and repeatedly dividing out their largest common divisor until no common divisor is found.\n1. Initialize two positive integers n1,n2 such that n1 > n2\n2. Divide n1 by n2 and obtain the remainder.\n3. If the reminder is 0, then GCD (n1, n2) = (n2).\n4. If the remainder is not 0, set n1 = n2 and n2 = reminder.\n5. Repeat until the reminder is 0.\n\nWith our int",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5329735015573634623",
+  "technique_name": "Write a line of code to insert the following data into a table called ‘Orders’.",
+  "description": "INSERT INTO Orders (order_id, quantity, price) VALUES (\"ABC123\", \"10\", 17.99);",
+  "example": "Object {order_id: \"ABC123\", quantity: \"10\", price: \"17.99\"}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a C++ function that orders an array",
+  "input": "No input",
+  "output": "void orderArray(int arr[], int n)\n{\n    int temp;\n    for(int i = 0; i < n; i++)\n    {\n        for(int j = i+1; j < n; j++)\n        {\n            if (arr[j] < arr[i])\n            {\n                temp = arr[i];\n                arr[i] = arr[j];\n                arr[j] = temp;\n            }\n        }\n    }\n}",
+  "unique_id": "prompt_create_a_c_functio",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a program to check if a number is even or odd.",
+  "input": "No input",
+  "output": "def even_odd(num): \n  if (num % 2 == 0): \n    print(\"Even\")  \n  else: \n    print(\"Odd\")\n\n# Driver code \nnum = int(input(\"Enter a number\"))\neven_odd(num)",
+  "unique_id": "prompt_generate_a_program_t",
+  "schema_version": "1.0"
+}

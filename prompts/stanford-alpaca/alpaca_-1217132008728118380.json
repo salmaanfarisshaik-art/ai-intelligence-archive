@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1217132008728118380",
+  "technique_name": "Edit the given code to match the given output.",
+  "description": "for i in range(4):\n    print(\"The number is \" + str(i))\n\nOutput:\nThe number is 0\nThe number is 1\nThe number is 2\nThe number is 3",
+  "example": "Code:\nfor i in range(4):\n    print(\"The number is \" + i)\n\nOutput:\nThe number is 0\nThe number is 1\nThe number is 2\nThe number is 3",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

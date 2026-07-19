@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2297243041477302507",
+  "technique_name": "Describe a system capable of detecting hate speech in tweets.",
+  "description": "A system for detecting hate speech in tweets should first employ a technique for preprocessing the tweets, including tokenizing, token-level normalization (e.g. stemming and lemmatization), and removing stop words. Once the tweets are preprocessed, they can be distributed into clusters based on lexical similarity. Next, a text classification model such as a Naive Bayes or Support Vector Machine (SVM) can be used to classify the tweets into hate speech and non-hate speech. The text classification",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

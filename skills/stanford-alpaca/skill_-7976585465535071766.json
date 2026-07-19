@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7976585465535071766",
+  "skill_name": "Create a test suite in Python to check if an input string is a valid email address.",
+  "workflow": "import re\n\ndef test_suite():\n    test_cases = [\"a.b@example.com\", \"99@example.com\", \"user@example.co.uk\", \"test@test.test\", \"jane.doe@example.org\", \n                    \"abc123@example.com\", \"user123@example.com.au\", \"invalid@example.com_\"]\n    valid_email_regex = '^[_a-z0-9-]+(\\.[_a-z0-9-]+)*@[a-z0-9-]+(\\.[a-z0-9-]+)*(\\.[a-z]{2,4})$'\n    for test_case in test_cases:\n        if re.match(valid_email_regex, test_case):\n            print(f\"{test_case} is a valid email address.\")\n        else:\n     ",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

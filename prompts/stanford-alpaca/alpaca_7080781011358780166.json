@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_7080781011358780166",
+  "technique_name": "Describe an algorithm for a given task.",
+  "description": "A possible algorithm for traffic light detection can be the following: \n1. Capture an image from the camera, determining the region of interest (ROI). \n2. Define a type of morphological matrix and apply it to the ROI. \n3. Look for circles in the image filtered by the morphological matrix. \n4. Extract the color information inside each circle and compare it with the range of colors defined for the corresponding traffic light. \n5. Determine the intensity of the light. \n6. Make the decision based on",
+  "example": "Algorithm for traffic light detection",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify the bug in this code",
+  "input": "def add_two_numbers(a, b):\n    total = a + b + 1\n    return total",
+  "output": "The bug in this code is that it adds 1 to the sum of a and b. The correct code should be \"total = a + b\" without the + 1.",
+  "unique_id": "prompt_identify_the_bug_in",
+  "schema_version": "1.0"
+}

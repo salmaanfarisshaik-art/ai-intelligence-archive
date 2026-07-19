@@ -1,0 +1,48 @@
+{
+  "unique_id": "hf_ds_68aefe4b74c4af3424207d2d",
+  "schema_version": "1.0",
+  "name": "ZahidYasinMittha/American-Sign-Language-Dataset",
+  "description": "\n\t\n\t\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset.",
+  "size": "211377",
+  "source_url": "https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "68aefe4b74c4af3424207d2d",
+    "id": "ZahidYasinMittha/American-Sign-Language-Dataset",
+    "author": "ZahidYasinMittha",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-08-28T13:02:57.000Z",
+    "likes": 4,
+    "private": false,
+    "sha": "3a6226f9c8de394a07b6c2e01158f6291897f97b",
+    "description": "\n\t\n\t\t\n\t\tAmerican Sign Language (ASL) Dataset\n\t\n\nDescription:This dataset contains 108,618 videos representing 2,208 ASL words, with each word having a minimum of 30 videos. The videos were scraped, collected from multiple sources, and preprocessed to ensure consistency, quality, and usability for machine learning and gesture recognition tasks. Each video is ≤10 MB, optimized for storage and model training.The dataset can be used for ASL gesture recognition, video-based ML tasks, and model… See the full description on the dataset page: https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset.",
+    "downloads": 211377,
+    "tags": [
+      "license:mit",
+      "size_categories:n<1K",
+      "modality:video",
+      "library:datasets",
+      "library:mlcroissant",
+      "region:us",
+      "ASL",
+      "American Sign Language",
+      "Gesture Recognition",
+      "Video Dataset"
+    ],
+    "createdAt": "2025-08-27T12:47:07.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-06-21T13:56:23.235903+00:00",
+  "last_updated": "2025-08-28T13:02:57.000Z",
+  "links": {
+    "related_models": [
+      "datasets/ZahidYasinMittha"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

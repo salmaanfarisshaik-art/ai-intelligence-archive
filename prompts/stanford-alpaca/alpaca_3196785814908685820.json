@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3196785814908685820",
+  "technique_name": "Convert this table into JSON.",
+  "description": "[\n    {\n        \"name\": \"John\",\n        \"age\": 20\n    },\n    {\n        \"name\": \"Alice\",\n        \"age\": 21\n    },\n    {\n        \"name\": \"Bob\",\n        \"age\": 22\n    }\n]",
+  "example": "| Name  | Age |\n|-------|-----|\n| John  | 20  |\n| Alice | 21  |\n| Bob   | 22  |",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Design a function for a web-application that will compute the total cost for a given number of items.",
+  "input": "Items: [{name: \"Chair\", quantity: 4, price: 20}, {name: \"Table\", quantity: 1, price: 100}, {name: \"Lamp\", quantity: 2, price: 45}]",
+  "output": "def calculateTotalCost(items):\n    total_cost = 0\n    for item in items:\n        total_cost += item['quantity'] * item['price']\n    return total_cost",
+  "unique_id": "prompt_design_a_function_fo",
+  "schema_version": "1.0"
+}

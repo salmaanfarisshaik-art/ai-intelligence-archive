@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3900941566871884556",
+  "skill_name": "Analyze the given computer code and list all errors.",
+  "workflow": "There are two errors in the given computer code:\n1. The if condition should be: if word[0] == '#', with single quotes around the # symbol.\n2. The print statement should be: print(\"#\"+word), with the # symbol concatenated to the word instead of stored as a separate character.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

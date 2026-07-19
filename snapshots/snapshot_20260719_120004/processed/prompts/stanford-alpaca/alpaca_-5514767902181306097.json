@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-5514767902181306097",
+  "technique_name": "Identify the faults in this program and suggest a fix.",
+  "description": "The fault in the program is that the value of 'x' is changed inside the function, but the changed value is not returned. To fix this, the program should return the changed value, like so: \ndef my_function(x):\n    x += 10\n    return x",
+  "example": "def my_function(x):\n    x += 10\nreturn x",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

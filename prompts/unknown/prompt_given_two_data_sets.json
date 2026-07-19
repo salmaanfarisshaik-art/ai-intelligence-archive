@@ -1,0 +1,7 @@
+{
+  "instruction": "Given two data sets, compare the two and explain how they differ.",
+  "input": "Data Set 1:\nX: [1,2,3]\nY: [2,2,3]\n\nData Set 2:\nX: [3,3,1]\nY: [3,3,3]",
+  "output": "Data Set 1 and Data Set 2 have similarities in the Y column, as their values are all 3s. However, the values in the X column are different. In Data Set 1, the values in X are [1,2,3], while in Data Set 2, the values in X are [3,3,1]. This means that the order of the numbers are different, as Data Set 1 presents the numbers in increasing order while Data Set 2 presents the numbers in decreasing order.",
+  "unique_id": "prompt_given_two_data_sets",
+  "schema_version": "1.0"
+}

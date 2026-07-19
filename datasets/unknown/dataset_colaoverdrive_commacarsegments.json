@@ -1,0 +1,30 @@
+{
+  "_id": "69e1ab19076682e97e1daa56",
+  "id": "colaoverdrive/commaCarSegments",
+  "author": "colaoverdrive",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-04-17T03:38:06.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "4b7d6bc2e0784f59f2268ddf4a7bac4206c4ff10",
+  "description": "\n\t\n\t\t\n\t\tcommaCarSegments\n\t\n\ncommaCarSegments is a dataset of raw CAN bus data recorded from our fleet of openpilot users driving over 300 different production vehicles, around the USA and rest of the world.\n\n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\n.\n├── segments/                 # drectory containing all data\n│   ├── <device_id>/          # unique device ID directory\n│   │   └── <route_id>/       # unique route (aka drive directory)\n│   │       └── <segment>/    # unique segment index inside of the route\n│… See the full description on the dataset page: https://huggingface.co/datasets/colaoverdrive/commaCarSegments.",
+  "downloads": 33699,
+  "tags": [
+    "license:mit",
+    "size_categories:n<1K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "comma",
+    "openpilot"
+  ],
+  "createdAt": "2026-04-17T03:38:01.000Z",
+  "key": "",
+  "unique_id": "dataset_colaoverdrive_commacarsegments",
+  "schema_version": "1.0"
+}

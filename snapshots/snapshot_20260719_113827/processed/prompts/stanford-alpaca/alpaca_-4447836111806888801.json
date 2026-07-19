@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4447836111806888801",
+  "technique_name": "Construct a query to return the top 10 brands of cars in 2020",
+  "description": "SELECT * FROM cars WHERE year = 2020 ORDER BY brand LIMIT 10;",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

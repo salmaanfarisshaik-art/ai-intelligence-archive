@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4234085320564833610",
+  "technique_name": "Write some code to calculate the area of a triangle given 3 sides.",
+  "description": "\"\"\"\nCalculate the area of a triangle given 3 sides\n\"\"\"\n\ndef area_triangle(a, b, c): \n    # calculate the semi-perimeter \n    s = (a + b + c) / 2\n  \n    # calculate the area \n    area = (s * (s-a) * (s-b) * (s-c)) ** 0.5\n    return area \n  \n# Driver Code \n# a, b, c are lengths of the sides of triangle\na = 4\nb = 5\nc = 6\nprint(\"Area of triangle is : %.2f\" % area_triangle(a, b, c))",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

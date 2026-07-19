@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a correct java program to find the nth term of an arithmetic sequence.",
+  "input": "",
+  "output": "public class ArithmeticSequence {\n    public static int nthTerm(int a, int d, int n) {\n        // 'a' is first term  \n        // 'd' is common difference  \n        // 'n' is the nth term\n        int result = a + (n - 1) * d;  \n        return result; \n    }\n    public static void main(String[] args){  \n        // Sample usage\n        int a = 3;\n        int d = 2;\n        int n = 4;\n        int nthTerm = nthTerm(a, d, n);\n        System.out.println(n + \"th term of the arithmetic sequence with first term \"+a+\" and common difference \"+d+\" is \"+nthTerm);\n    } \n}",
+  "unique_id": "prompt_generate_a_correct_j",
+  "schema_version": "1.0"
+}

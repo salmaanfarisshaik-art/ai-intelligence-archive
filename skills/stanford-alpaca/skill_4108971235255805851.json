@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_4108971235255805851",
+  "skill_name": "Create a classification model which can classify whether a given email is spam or not.",
+  "workflow": "The classification model should be able to take in a piece of email text, process it into its component features, and then make a prediction as to whether the email is spam or not. The model will then output a probability score ranging from 0 to 1, where 0 is not spam and 1 is spam. The model should be trained using labeled data, which includes emails labelled as spam or not spam. The model should also incorporate feature importance and be able to identify which features are most important in th",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

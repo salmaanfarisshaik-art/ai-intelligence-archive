@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-3397022740113754988",
+  "skill_name": "Generate a algorithm to sort a given list of three colors.",
+  "workflow": "def sort_colors(colors):\n     \"\"\"This function sorts a given list of colors according to their RGB values.\n     \n     Arguments:\n         colors {list} -- A list of colors\n     \n     Returns:\n         list -- The colors sorted according to their RGB values\n     \"\"\"\n     colors.sort(key=lambda color: (color[0], color[2], color[1])) \n     return colors",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

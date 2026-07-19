@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_6830944589276380638",
+  "technique_name": "Write an algorithm to find the intersection of two arrays.",
+  "description": "// Algorithm to find the intersection of two arrays\n\nfunction intersection(arr1, arr2) {\n    // Create empty array to store intersection elements\n    let result = [];\n\n    // Loop through all elements of arr1\n    for (let i = 0; i < arr1.length; i++) {\n        // Loop through all elements of arr2\n        for (let j = 0; j < arr2; j++){\n            // Check if elements from arr1 and arr2 match\n            if (arr1[i] === arr2[j]) {\n                // If match, push element to result array\n       ",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

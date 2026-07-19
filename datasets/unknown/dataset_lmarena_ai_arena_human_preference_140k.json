@@ -1,0 +1,28 @@
+{
+  "_id": "688c49e7cf8e361f0edb98a8",
+  "id": "lmarena-ai/arena-human-preference-140k",
+  "author": "lmarena-ai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-08-01T05:03:39.000Z",
+  "likes": 52,
+  "private": false,
+  "sha": "6322995ab34d7c2693e3f47dd13fa5caa0789a74",
+  "description": "\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset contains user votes collected in the text-only category. Each row represents a single vote judging two models (model_a and model_b) on a user conversation, along with the full conversation history and metadata. Key fields include:\n\nid: Unique feedback ID of each vote/row.\nevaluation_session_id: Unique ID of each evaluation session, which can contain multiple separate votes/evaluations. \nevaluation_order: Evaluation order of the current vote.\nwinner: Battle… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k.",
+  "downloads": 24667,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-08-01T05:00:23.000Z",
+  "key": "",
+  "unique_id": "dataset_lmarena_ai_arena_human_preference_140k",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "What does an embedding layer do in a neural network?",
+  "input": "",
+  "output": "An embedding layer in a neural network is used to learn a dense low dimensional representation of a sparse high dimensional input. This allows the representation of categorical data such as words, phrases, etc. to become a part of a neural network and be used in making predictions. Embeddings also allow we to reduce the dimensionality of the problem, which can speed up training and improve the model's performance.",
+  "unique_id": "prompt_what_does_an_embeddi",
+  "schema_version": "1.0"
+}

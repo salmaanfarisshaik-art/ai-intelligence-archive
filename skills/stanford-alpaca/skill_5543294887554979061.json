@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5543294887554979061",
+  "skill_name": "Describe the differences between float and double data types.",
+  "workflow": "The primary difference between float and double data types is their size and precision. A float is a single-precision, 32-bit floating-point data type that has 7 decimal digits of precision. A double is a double-precision, 64-bit floating-point data type that has 15-16 decimal digits of precision.\n\nFloat takes up less memory and that is why it is generally preferred if memory is a concern. However, double offers more precise values, so if accuracy is a concern, double should be used.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

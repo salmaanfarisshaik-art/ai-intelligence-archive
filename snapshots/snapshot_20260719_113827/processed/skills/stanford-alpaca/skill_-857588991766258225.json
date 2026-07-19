@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-857588991766258225",
+  "skill_name": "Construct a query with a JOIN clause to retrieve data from two related tables.",
+  "workflow": "SELECT c.name, o.order_date \nFROM Customers c \nINNER JOIN Orders o \nON c.customer_id = o.customer_id;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

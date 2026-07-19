@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8669876065868619556",
+  "technique_name": "Design a program to calculate the distance between two points.",
+  "description": "//Function to calculate the distance\ndef calculate_distance(x1, y1, x2, y2): \n    dist = ((x2 - x1)**2 + (y2 - y1)**2)**0.5 \n    return dist \n\n# Driver code \nx1 = 2\ny1 = 3\nx2 = 10\ny2 = 20\n\n# Calculate distance \nd = calculate_distance(x1, y1, x2, y2) \nprint(\"Distance between two points is:\", d)",
+  "example": "Point 1: (x1,y1), Point 2: (x2,y2)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

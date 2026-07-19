@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_207327613634335498",
+  "skill_name": "Create a SQL query for the given database to select the customer records with a customer id of 1000 or greater.",
+  "workflow": "SELECT * \nFROM customer \nWHERE customer id >= 1000;",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

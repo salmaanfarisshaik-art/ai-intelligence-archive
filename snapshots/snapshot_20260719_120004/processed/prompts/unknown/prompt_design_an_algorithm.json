@@ -1,0 +1,7 @@
+{
+  "instruction": "Design an algorithm to find the maximum profit of a stock buy and sell?",
+  "input": "",
+  "output": "def maxProfit(prices):\n    min_price = float('inf')\n    max_profit = 0\n\n    for price in prices:\n        min_price = min(min_price, price) \n        profit = price - min_price\n        max_profit = max(max_profit, profit)\n\n    return max_profit",
+  "unique_id": "prompt_design_an_algorithm",
+  "schema_version": "1.0"
+}

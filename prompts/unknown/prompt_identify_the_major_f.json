@@ -1,0 +1,7 @@
+{
+  "instruction": "Identify the major flaws in the following code snippet.",
+  "input": "def add_numbers(x,y):\n    return x+y\n\nadd_numbers(2)",
+  "output": "The major flaw in the code snippet is that the function add_numbers requires two arguments, but only one argument is provided when the function is called. This will cause a runtime error.",
+  "unique_id": "prompt_identify_the_major_f",
+  "schema_version": "1.0"
+}

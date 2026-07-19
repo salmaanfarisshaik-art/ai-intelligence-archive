@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate Python code to calculate the area of a triangle.",
+  "input": "",
+  "output": "def find_area_triangle(base, height):\n    area = (base * height)/2\n    return area\n\n#Example\nbase = 10\nheight = 20\narea = find_area_triangle(base, height)\nprint(\"Area of the triangle is\", area)",
+  "unique_id": "prompt_generate_python_code",
+  "schema_version": "1.0"
+}

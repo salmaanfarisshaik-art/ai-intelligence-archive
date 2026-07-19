@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a C program to calculate the sum of all elements in a given array.",
+  "input": "array = {2, 4, 3, 7, 5}",
+  "output": "#include<stdio.h>\n\nint main()\n{\n\tint array[] = {2, 4, 3, 7, 5};\n\tint sum = 0, i;\n\t\n\tfor (i = 0; i < 5; i++) {\n\t\tsum += array[i];\n\t}\n\t\n\tprintf(\"Sum of all elements in the array = %d\", sum);\n\t\n\treturn 0;\n}",
+  "unique_id": "prompt_write_a_c_program_to",
+  "schema_version": "1.0"
+}

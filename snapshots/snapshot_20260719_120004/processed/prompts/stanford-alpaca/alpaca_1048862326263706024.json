@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1048862326263706024",
+  "technique_name": "Identify the bug in this code",
+  "description": "The bug in this code is that it adds 1 to the sum of a and b. The correct code should be \"total = a + b\" without the + 1.",
+  "example": "def add_two_numbers(a, b):\n    total = a + b + 1\n    return total",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "69af5b8f83095f0b0959383e",
+  "id": "Xbox186/LARD_V2",
+  "author": "Xbox186",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-03-09T23:45:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "f57afea0be25a54d6dccafe6409cb8b8a187f92b",
+  "description": "\n\t\n\t\t\n\t\tLoad with 🤗 Datasets\n\t\n\nYou can download this dataset through HuggingFace datasets (which requires you to install the extra Vision packages with pip install datasets[vision]). Then you will be able to load specific parts of this dataset with:\nfrom datasets import load_dataset\nds = load_dataset(\"ORG/REPO_ID\", name=\"flsim\")  # or arcgis/bingmaps/ges/xplane\nprint(ds)\n\n",
+  "downloads": 72053,
+  "tags": [
+    "task_categories:object-detection",
+    "task_categories:image-segmentation",
+    "license:mit",
+    "size_categories:100K<n<1M",
+    "modality:image",
+    "region:us",
+    "aircraft",
+    "landing",
+    "simulator",
+    "sim2real",
+    "runway"
+  ],
+  "createdAt": "2026-03-09T23:45:19.000Z",
+  "key": "",
+  "unique_id": "dataset_xbox186_lard_v2",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a query for an SQL database.",
+  "input": "A movie database which has a table of 'movies' and a table of 'actors'.",
+  "output": "SELECT movies.title, actors.name\nFROM movies\nINNER JOIN actors ON movies.actor_id = actors.id;",
+  "unique_id": "prompt_write_a_query_for_an",
+  "schema_version": "1.0"
+}

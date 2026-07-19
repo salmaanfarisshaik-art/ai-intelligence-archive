@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-559063808285064234",
+  "skill_name": "Generate an algorithm to detect the outliers in an array.",
+  "workflow": "This algorithm will detect the outliers in this array by checking each value against the average of the array, and flag values that are more than a certain number of standard deviations away from the average. For example, if the average is 35 and the standard deviation equals 10, values above 55 and below 15 would be considered outliers.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

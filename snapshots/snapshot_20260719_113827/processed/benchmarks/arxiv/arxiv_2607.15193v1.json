@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.15193v1",
+  "schema_version": "1.0",
+  "name": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.15193v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.15193v1",
+    "updated": "2026-07-16T16:48:39Z",
+    "published": "2026-07-16T16:48:39Z",
+    "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+    "summary": "Graphical user interface (GUI) automation remains challenging in real-world environments, where dynamic layouts, unexpected dialogs, and evolving interface states can cause autonomous agents to drift from user intent. Recent vision-based multimodal agents improve flexibility by operating directly over screenshots and natural language instructions, but planning and adaptation often remain internal, limiting users' ability to inspect, supervise, or correct system behavior. We present Plover, a plan-centric vision-based GUI automation system that externalizes task plans and replanning as persistent, inspectable, and revisable artifacts. Through a planner--executor architecture, Plover supports explicit supervision of evolving execution, localized correction through editable plans, natural-language guidance, and screenshot-grounded interventions, while preserving prior progress during repair. A formative study with six participants informed the interaction design. We then evaluate Plover through benchmark failure-case repair and scenario-based workflow analyses. Our results show that many autonomous GUI-agent failures are structurally repairable when plans remain visible and interventions are localized, and that explicit replanning helps make GUI automation more transparent, controllable, and adaptable.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:07Z",
+  "last_updated": "2026-07-16T16:48:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.15193v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

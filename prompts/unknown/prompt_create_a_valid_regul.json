@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a valid regular expression.",
+  "input": "",
+  "output": "^(([A-Za-z0-9]+_+)|([A-Za-z0-9]+\\-+)|([A-Za-z0-9]+\\.+)|([A-Za-z0-9]+\\++))*[A-Za-z0-9]+@{1}((\\w+\\-+)|(\\w+\\.))*\\w{1,}\\.{1}[a-zA-Z]{2,63}$",
+  "unique_id": "prompt_create_a_valid_regul",
+  "schema_version": "1.0"
+}

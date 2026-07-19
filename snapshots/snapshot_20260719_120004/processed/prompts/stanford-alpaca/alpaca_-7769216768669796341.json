@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-7769216768669796341",
+  "technique_name": "Given three numbers, find the greatest common divisor (gcd) of the three numbers.",
+  "description": "\"\"\"\nGiven three numbers, find the greatest common divisor (gcd) of the three numbers\n\"\"\"\n\n# Find the greatest common divisor (GCD) of two numbers\ndef find_gcd(a, b): \n    while b > 0: \n        a, b = b, a % b \n  \n    return a \n\n# Given three numbers, find the greatest common divisor (GCD) of the three numbers\ndef find_gcd_of_three_numbers(a, b, c): \n    gcd_a_b = find_gcd(a, b) \n    gcd_b_c = find_gcd(b, c) \n    gcd_a_c = find_gcd(a, c) \n  \n    gcd = find_gcd(gcd_a_b, gcd_b_c) \n    gcd = find_gc",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

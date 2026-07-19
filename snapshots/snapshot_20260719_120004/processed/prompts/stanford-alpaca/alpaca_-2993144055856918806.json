@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-2993144055856918806",
+  "technique_name": "Given a problem scenario, develop an algorithmic solution.",
+  "description": "Create a new empty array, C. Iterate through both arrays A and B. For every element encountered in A and B, if it is already encountered in C, then move on. Otherwise, add the element to C. Return C as the result.",
+  "example": "You are given two arrays, A and B, each containing integers. Find all integers that appear in both A and B and return a new array containing them.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

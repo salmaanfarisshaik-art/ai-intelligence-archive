@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_1826013456758778518",
+  "technique_name": "Construct an algorithm to sort a list of numbers in ascending order.",
+  "description": "Start with the first number - in the given list, 3 is the first number. Then compare the first number with the second number - compare 3 with 8 - and if the first number is larger, swap the numbers. In this case, 8 is larger than 3, so no swapping is needed. Then, compare 8 with the third number - 5. In this case, 5 is smaller than 8, so 8 and 5 will be swapped and the first three numbers in the list will now be sorted. Repeat this process with the rest of the numbers, resulting in the sorted li",
+  "example": "3, 8, 5, 1, 9",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

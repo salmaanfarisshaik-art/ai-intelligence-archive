@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8500929790917236343",
+  "skill_name": "Write a python program that extracts all emails from a text.",
+  "workflow": "import re\n\ntext = \"This is a text. sender@example.com\"\n\nemails = re.findall(r'[\\w\\.-]+@[\\w\\.-]+', text)\n\nfor email in emails:\n    print(email)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

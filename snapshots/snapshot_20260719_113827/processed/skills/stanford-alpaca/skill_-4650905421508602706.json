@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4650905421508602706",
+  "skill_name": "Develop a survey to collect customer feedback",
+  "workflow": "<html>\n  <head>\n    <title>Customer Feedback Survey</title>\n  </head>\n  <body>\n    <h1>Customer Feedback Survey</h1>\n    <form action=\"process_feedback.php\" method=\"post\">\n      <h2>General Information</h2>\n      <p>Please provide some information about yourself.</p>\n      <div>\n        <label for=\"name\">Name:</label>\n        <input type=\"text\" name=\"name\" id=\"name\">\n      </div>\n      <div>\n        <label for=\"age\">Age:</label>\n        <input type=\"number\" name=\"age\" min=\"1\" max=\"120\" id=\"age\">",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

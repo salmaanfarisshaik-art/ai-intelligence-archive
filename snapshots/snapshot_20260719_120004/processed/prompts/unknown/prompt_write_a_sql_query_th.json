@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a SQL query that returns the top 10 customers by total spent",
+  "input": "",
+  "output": "SELECT customer_id, SUM(amount) AS total_spent \nFROM orders \nGROUP BY customer_id \nORDER BY total_spent DESC \nLIMIT 10;",
+  "unique_id": "prompt_write_a_sql_query_th",
+  "schema_version": "1.0"
+}

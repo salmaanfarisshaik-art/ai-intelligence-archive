@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5615156106782356522",
+  "technique_name": "Suggest a method to protect against SQL injection attacks.",
+  "description": "A method to protect against SQL injection attacks is to use parameterized queries, also known as prepared statements. Parameterized queries allow user data to be securely passed to a database by using variables instead of using direct user input. This makes it difficult for malicious users to manipulate the parameters used in the query and prevents SQL injection attacks.",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

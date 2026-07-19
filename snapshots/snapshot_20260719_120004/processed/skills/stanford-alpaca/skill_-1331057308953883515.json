@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1331057308953883515",
+  "skill_name": "Construct a SQL query to select the names of customers whose orders were delivered after April 13, 2021",
+  "workflow": "SELECT customer_name \nFROM orders \nWHERE delivery_date > '2021-04-13';",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

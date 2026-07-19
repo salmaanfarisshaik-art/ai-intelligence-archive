@@ -1,0 +1,7 @@
+{
+  "instruction": "How can you distinguish between a synchronous and asynchronous function?",
+  "input": "",
+  "output": "Synchronous functions are functions that execute in linear fashion – each code line executes one after the other in a specific order. Conversely, asynchronous functions are functions that can execute at any random point in time, not necessarily in order. This can be seen in web and JavaScript programs, particularly through use of timers, callbacks, and event messages. Synchronous functions are easy to program and debug, while asynchronous functions allow for greater parallelism and can help improve system performance.",
+  "unique_id": "prompt_how_can_you_distingu",
+  "schema_version": "1.0"
+}

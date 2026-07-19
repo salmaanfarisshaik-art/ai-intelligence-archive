@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6229046702329633618",
+  "skill_name": "Design an algorithm to identify different types of birds in a photo.",
+  "workflow": "The algorithm should first identify the bird in the image using an object detection model. After that, the model should use image similarity-based methods to identify the type of bird in the image. This can be done by comparing features such as size, shape and color of the bird, as well as texture of its feathers. Finally, the algorithm should use existent labeled data to determine which type of bird is in the image.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

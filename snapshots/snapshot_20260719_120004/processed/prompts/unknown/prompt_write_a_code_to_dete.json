@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to detect duplicates in an array.",
+  "input": "[3, 2, 1, 2, 3, 4]",
+  "output": "\"\"\"\n# Find duplicate elements in a list\n\ndef find_duplicates(data):\n    seen = set()\n    duplicates = []\n\n    for element in data:\n        if element in seen:\n            duplicates.append(element)\n        else:\n            seen.add(element)\n    \n    return duplicates\n\nif __name__ == \"__main__\":\n    arr = [3, 2, 1, 2, 3, 4]\n    duplicates = find_duplicates(arr)\n    print(duplicates)\n\"\"\"",
+  "unique_id": "prompt_write_a_code_to_dete",
+  "schema_version": "1.0"
+}

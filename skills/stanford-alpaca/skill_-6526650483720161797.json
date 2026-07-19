@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6526650483720161797",
+  "skill_name": "Write a code to output a word pyramid from the word 'apple.'",
+  "workflow": "#include <stdio.h>\n\nint main()\n{\n  char str[20], temp;\n  int len, i, j;\n\n  printf(\"Enter a word: \");\n  scanf(\"%s\", str);\n\n  len = strlen(str);\n  // Looping to print each word per line \n  for (i=0; i<len; i++)\n  {\n     for (j=len; j > i; j--)\n     {\n        printf(\"%c\", str[j]);\n     }\n     printf(\"\\n\");\n  }\n  return 0;\n}\n\n/*\nOutput:\napple\npple\nple\nle\ne\n*/",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

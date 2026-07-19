@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3645050475856904880",
+  "technique_name": "Explain why the output is not accurate",
+  "description": "The output is accurate because the function addTwo adds num1 and num2 together, which in this case is 4 and 3, resulting in 6.",
+  "example": "Code:\n\nfunction addTwo(num1, num2) {\n return num1 + num2;\n}\n\nconsole.log(addTwo(4, 3));\n\nOutput: 6",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_5087062427889991965",
+  "skill_name": "Create an algorithm to categorize a given set of clothes.",
+  "workflow": "Algorithm: \n\n1. Assign each item to either the 'outerwear' or 'underwear' category \n2. For 'outerwear': \n  a. Raincoat = 'Rain Gear' \n  b. Sweater = 'Coats & Jackets' \n  c. Jacket = 'Coats & Jackets'\n  d. Jogging Pants = 'Activewear'\n  e. Umbrella = 'Rain Gear'\n3. For 'underwear':\n  a. All items will be categorized as 'None'",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-4040215266810833268",
+  "skill_name": "Create a function in JavaScript to check if a given number is prime",
+  "workflow": "function checkPrime(num) {\n    //handle negative numbers\n    if (num <= 1) return false;\n\n    //check if it is divisible by any number other than itself and 1\n    for (let i = 2; i < num; i++) {\n        if (num % i === 0) {\n            return false;\n        }\n    }\n    return true;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

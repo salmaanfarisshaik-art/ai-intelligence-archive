@@ -1,0 +1,30 @@
+{
+  "_id": "691bca53eb3ced5117314842",
+  "id": "allenai/Olmo-3-7B-Think",
+  "likes": 101,
+  "private": false,
+  "downloads": 35395,
+  "tags": [
+    "transformers",
+    "safetensors",
+    "olmo3",
+    "text-generation",
+    "conversational",
+    "en",
+    "dataset:allenai/Dolci-Think-RL-7B",
+    "arxiv:2512.13961",
+    "base_model:allenai/Olmo-3-7B-Think-DPO",
+    "base_model:finetune:allenai/Olmo-3-7B-Think-DPO",
+    "license:apache-2.0",
+    "endpoints_compatible",
+    "deploy:azure",
+    "region:us"
+  ],
+  "pipeline_tag": "text-generation",
+  "library_name": "transformers",
+  "createdAt": "2025-11-18T01:22:27.000Z",
+  "modelId": "allenai/Olmo-3-7B-Think",
+  "name": "allenai/Olmo-3-7B-Think",
+  "unique_id": "model_allenai_olmo_3_7b_think",
+  "schema_version": "1.0"
+}

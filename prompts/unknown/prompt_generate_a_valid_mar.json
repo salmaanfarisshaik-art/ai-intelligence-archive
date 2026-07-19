@@ -1,0 +1,7 @@
+{
+  "instruction": "Generate a valid markdown table for the following data.",
+  "input": "Product         | Price | Quantity\n----------------|-------|----------\nChocolate       | $3.50 | 5\nBananas         | $2.00 | 10\nCupcakes        | $4.00 | 12",
+  "output": "| Product    | Price | Quantity |\n|------------|-------|----------|\n| Chocolate  | $3.50 | 5        |\n| Bananas    | $2.00 | 10       |\n| Cupcakes   | $4.00 | 12       |",
+  "unique_id": "prompt_generate_a_valid_mar",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,7 @@
+{
+  "instruction": "Calculate each department’s budget-to-salary ratio",
+  "input": "Given two tables: instructor, department.",
+  "output": "SELECT d.name, (d.budget/ SUM(i.salary)) as budget_salary_ratio FROM instructor i JOIN department d ON i.dept_name = d.name GROUP BY i.dept_name;",
+  "unique_id": "prompt_calculate_each_depar",
+  "schema_version": "1.0"
+}

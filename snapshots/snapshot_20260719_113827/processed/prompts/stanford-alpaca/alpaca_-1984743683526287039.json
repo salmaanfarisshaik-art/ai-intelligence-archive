@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-1984743683526287039",
+  "technique_name": "Write a Java function which takes in a list and a string and returns true if the string is contained in the list, otherwise false.",
+  "description": "public boolean containsString(List<String> list, String s) { \n    return list.contains(s); \n}",
+  "example": "list: [“apple”, “banana”, “pear”], string: “pear”",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

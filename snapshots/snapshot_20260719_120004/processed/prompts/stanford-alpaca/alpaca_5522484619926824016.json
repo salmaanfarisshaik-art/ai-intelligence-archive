@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_5522484619926824016",
+  "technique_name": "Create a program to accept user input and determine if the input is a prime number",
+  "description": "def check_prime(num): \n  \n  # Check for negative or zero input \n  if num <= 0: \n    return False\n  \n  # Check for 1  \n  if num == 1: \n    return False\n  \n  # Check if the number is divisible by any number between 2 and n-1  \n  for i in range(2, num): \n    if num % i == 0: \n      return False\n  \n  # If there is no divisor, the number is prime  \n  return True",
+  "example": "No input",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

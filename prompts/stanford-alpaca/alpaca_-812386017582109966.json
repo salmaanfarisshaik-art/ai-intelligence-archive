@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-812386017582109966",
+  "technique_name": "Construct five queries for a given database.",
+  "description": "1. SELECT * FROM Items;\n2. SELECT ItemID, ItemName, Price FROM Items;\n3. SELECT ItemName FROM Items WHERE Price > 100;\n4. SELECT * FROM Items WHERE ItemName LIKE '%book%';\n5. UPDATE Items SET Price = 150 WHERE ItemID = 4;",
+  "example": "Table: Items",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

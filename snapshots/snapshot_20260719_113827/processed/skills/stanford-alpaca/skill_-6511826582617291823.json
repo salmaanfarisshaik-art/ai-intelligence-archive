@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-6511826582617291823",
+  "skill_name": "Write a Python program to create a set of random numbers.",
+  "workflow": "import random\n\ndef generate_random_set(n):\n    random_set = set()\n    while len(random_set) < n:\n        random_set.add(random.randint(1,1000))\n\n    return random_set\n    \nprint(generate_random_set(10))",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

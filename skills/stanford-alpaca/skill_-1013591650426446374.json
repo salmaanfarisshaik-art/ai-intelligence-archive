@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-1013591650426446374",
+  "skill_name": "Create an algorithm to sort numbers in an array in ascending order.",
+  "workflow": "The algorithm to sort numbers in an array in ascending order is: \n1. Set a marker for the first element in the array. \n2. Compare the marker to every other element in the array. \n3. Swap the positions of the marker and the element if the element is smaller than the marker. \n4. Set the marker to the next element and repeat steps 2 and 3 until the end of the array is reached. \n5. Repeat steps 1-4 until all elements in the array are sorted in ascending order.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

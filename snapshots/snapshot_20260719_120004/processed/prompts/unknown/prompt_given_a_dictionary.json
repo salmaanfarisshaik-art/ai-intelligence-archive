@@ -1,0 +1,7 @@
+{
+  "instruction": "Given a dictionary, create a JSON representation.",
+  "input": "dict = {\n\"name\": \"John\",\n\"age\": 18,\n\"is_adult\": True\n}",
+  "output": "{\n\"name\": \"John\",\n\"age\": 18,\n\"is_adult\": true\n}",
+  "unique_id": "prompt_given_a_dictionary",
+  "schema_version": "1.0"
+}

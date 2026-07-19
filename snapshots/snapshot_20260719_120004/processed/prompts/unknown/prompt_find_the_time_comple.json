@@ -1,0 +1,7 @@
+{
+  "instruction": "Find the time complexity of this algorithm.",
+  "input": "def linearSearch(arr, n, x): \n    for i in range (0, n): \n        if (arr[i] == x): \n            return i \n    return -1",
+  "output": "The time complexity of this algorithm is O(n). This is because the algorithm will take a linear amount of time to run, since it has to iterate through the entire array in order to find the target item.",
+  "unique_id": "prompt_find_the_time_comple",
+  "schema_version": "1.0"
+}

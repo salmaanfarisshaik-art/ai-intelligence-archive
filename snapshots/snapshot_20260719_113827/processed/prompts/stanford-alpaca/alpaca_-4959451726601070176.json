@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-4959451726601070176",
+  "technique_name": "Given an array of numbers, write a program to find the median value.",
+  "description": "\"\"\"\n# Calculate the median of a array\n\ndef find_median(data):\n    data.sort()\n    n = len(data)\n\n    if n % 2 == 0:  \n        median = (data[n//2] + data[n//2-1])/2\n    else: \n        median = data[n//2] \n    \n    return median\n\nif __name__ == \"__main__\":\n    data = [10, 20, 30, 40]\n    median = find_median(data)\n    print(\"The median is:\", median)\n\"\"\"",
+  "example": "[10, 20, 30, 40]",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

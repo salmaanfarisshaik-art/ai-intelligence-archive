@@ -1,0 +1,7 @@
+{
+  "instruction": "Make a query on the provided database and output the result.",
+  "input": "Database: weather\nQuery: Select * from weather",
+  "output": "Temperature  | Location \n21°C        | London \n17°C        | New York \n24°C        | Tokyo",
+  "unique_id": "prompt_make_a_query_on_the",
+  "schema_version": "1.0"
+}

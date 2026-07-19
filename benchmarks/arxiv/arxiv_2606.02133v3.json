@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.02133v3",
+  "schema_version": "1.0",
+  "name": "Variational Learning for Insertion-based Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.02133v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.02133v3",
+    "updated": "2026-06-11T17:13:32Z",
+    "published": "2026-06-01T11:59:46Z",
+    "title": "Variational Learning for Insertion-based Generation",
+    "summary": "Non-monotonic sequence generation methods, such as masked diffusion models, provide a flexible alternative to left-to-right autoregressive modeling by allowing tokens to be generated in non-fixed and prescribed orders. Despite their practical advantages, most existing non-monotonic models are order-agnostic and rely on a fixed-length grid, limiting their ability to support variable-length generation and adaptive insertion order. In this work, we introduce a probabilistic framework for learning insertion order in variable-length insertion models. We formalize a bijective correspondence between insertion trajectories and permutations, which enables an exact reparameterization of the data likelihood as a sum over permutations. Building on this result, we propose the Insertion Process (IP), a stochastic generative model that jointly learns where to insert, what to insert, and when to terminate, trained via permutation-based variational inference. Unlike prior fixed-canvas approaches, IP natively supports variable-length generation and learns data-driven preferences over insertion orders. Experiments on goal-conditioned planning and molecular string generation demonstrate that learning insertion order improves both modeling quality and generalization in domains without a canonical left-to-right structure.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-06-12T14:16:48Z",
+  "last_updated": "2026-06-11T17:13:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.02133v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

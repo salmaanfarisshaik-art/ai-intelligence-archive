@@ -1,0 +1,7 @@
+{
+  "instruction": "Redact or censor sensitive information from the given text.",
+  "input": "John Smith, age 35, has his credit card number - 4444 4444 4444 4444 - and address - 111 Main Street, Brooklyn, NY 11202 - printed on his driver's license.",
+  "output": "John Smith, age 35, has his credit card number - ********** - and address - ********** - printed on his driver's license.",
+  "unique_id": "prompt_redact_or_censor_sen",
+  "schema_version": "1.0"
+}

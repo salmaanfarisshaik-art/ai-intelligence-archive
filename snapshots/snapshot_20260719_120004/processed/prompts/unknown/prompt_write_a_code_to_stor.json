@@ -1,0 +1,7 @@
+{
+  "instruction": "Write a code to store and access the value of a particular number in a list by passing the address of the location as a parameter.",
+  "input": "",
+  "output": "\"\"\"\nStore and access the value of a particular number in a list by passing the address of the location as a parameter\n\"\"\"\n\ndef get_list_value(mylist, index):\n    return mylist[index]\n\n# example\nmylist = [1, 2, 3, 4, 5]\nvalue = get_list_value(mylist, 2)\nprint(value)  # 3",
+  "unique_id": "prompt_write_a_code_to_stor",
+  "schema_version": "1.0"
+}

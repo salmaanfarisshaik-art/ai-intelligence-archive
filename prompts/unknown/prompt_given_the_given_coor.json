@@ -1,0 +1,7 @@
+{
+  "instruction": "Given the given coordinates (x1, y1, x2, y2), calculate the distance between the two points.",
+  "input": "Coordinates: (2, 4, 6, 8)",
+  "output": "The distance between the two points is 5.66.\n\nThe formula to calculate the distance between two points is as follows:\ndistance = sqrt((x2 - x1)2 + (y2 - y1)2)\n\nThus, the distance between (2,4) and (6,8) is sqrt((6-2)2 + (8-4)2) = sqrt(16 + 16) = sqrt(32) = 5.66.",
+  "unique_id": "prompt_given_the_given_coor",
+  "schema_version": "1.0"
+}

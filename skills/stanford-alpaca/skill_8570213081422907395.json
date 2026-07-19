@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_8570213081422907395",
+  "skill_name": "Construct a pseudocode for the following problem: Write a program to calculate the average of three numbers.",
+  "workflow": "START\n  SET total = 0\n  SET count = 0\n  READ number\n  WHILE number != -1\n    SET total = total + number\n    SET count = count + 1\n    READ number\n  ENDWHILE\n  IF count != 0\n    SET avg = total / count\n    PRINT avg\n  ENDIF\nEND",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

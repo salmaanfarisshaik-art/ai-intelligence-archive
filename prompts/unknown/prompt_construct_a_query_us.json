@@ -1,0 +1,7 @@
+{
+  "instruction": "Construct a query using a wildcard.",
+  "input": "",
+  "output": "SELECT * FROM table_name WHERE column_name LIKE \"%text%\";",
+  "unique_id": "prompt_construct_a_query_us",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "69c3784be75d9297810f354f",
+  "id": "Harland/AudioMCQ-StrongAC-GeminiCoT",
+  "author": "Harland",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-04-10T03:00:51.000Z",
+  "likes": 7,
+  "private": false,
+  "sha": "cb33687ce4dc3dace4e203a2dd584fa46ae312da",
+  "description": "\n\t\n\t\t\n\t\t[ICLR 2026] [DCASE 2026 Training Set] AudioMCQ-StrongAC-GeminiCoT\n\t\n\n\n\n\n\n\n\n\nThis dataset is a highly curated subset of the AudioMCQ dataset, containing samples with native Chain-of-Thought (CoT) reasoning from Gemini 3.1 Pro that were answered correctly.\n\nNote: The native CoT reasoning has been summarized by Gemini's internal algorithm before output, yet still retains rich audio details including timestamps, acoustic descriptions, and step-by-step temporal analysis.\n\n🏆 DCASE 2026… See the full description on the dataset page: https://huggingface.co/datasets/Harland/AudioMCQ-StrongAC-GeminiCoT.",
+  "downloads": 65059,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "format:json",
+    "modality:audio",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2509.21060",
+    "region:us"
+  ],
+  "createdAt": "2026-03-25T05:53:15.000Z",
+  "key": "",
+  "unique_id": "dataset_harland_audiomcq_strongac_geminicot",
+  "schema_version": "1.0"
+}

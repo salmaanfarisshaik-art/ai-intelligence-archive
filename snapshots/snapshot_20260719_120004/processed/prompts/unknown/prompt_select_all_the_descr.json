@@ -1,0 +1,7 @@
+{
+  "instruction": "Select all the description tags from this HTML code.",
+  "input": "<html>\n    <head>\n        <title>Sample Site</title>\n        <meta name=\"description\" content=\"Sample site for testing purposes\">\n        <meta name=\"keywords\" content=\"testing, sample\">\n    </head>",
+  "output": "<meta name=\"description\" content=\"Sample site for testing purposes\">",
+  "unique_id": "prompt_select_all_the_descr",
+  "schema_version": "1.0"
+}

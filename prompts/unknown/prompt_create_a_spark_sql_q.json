@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a Spark SQL query to filter data from the table below.",
+  "input": "Table: Employee\nColumns: Employee_number, Employee_name, Department,  Average_rating\n\nFilter: Department = 'HR'",
+  "output": "SELECT Employee_number, Employee_name, department, Average_rating \nFROM Employee \nWHERE Department = 'HR';",
+  "unique_id": "prompt_create_a_spark_sql_q",
+  "schema_version": "1.0"
+}

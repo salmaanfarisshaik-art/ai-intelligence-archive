@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-8872665037588898567",
+  "skill_name": "Explain the concept of cuckoo hashing.",
+  "workflow": "Cuckoo hashing is a hashing technique used for storing key-value pairs in a table. It is based on the idea that two elements can occupy the same spot in a table when the table is full. In cuckoo hashing, when an element can't be placed in one spot, it is moved to another spot that's already occupied by another element. This process is known as \"kicking out\" and is repeated until an empty slot is found.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_942924045327219782",
+  "technique_name": "Create a program that prints out a given string in reverse.",
+  "description": "def reverse_string(input_string):\n  output_string = \"\"\n  i = len(input_string)\n  while i > 0:\n    output_string += input_string[i-1]\n    i = i-1\n  print(output_string)",
+  "example": "\"<noinput>\"",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

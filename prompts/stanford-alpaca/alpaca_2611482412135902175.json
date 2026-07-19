@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_2611482412135902175",
+  "technique_name": "Create a following up email.",
+  "description": "Dear XXX, \n\nThank you for letting us know about the transaction made on your Citi Premier® account. We have reviewed the information and confirmed that the amount was $3.50. \n \nIf you have any further questions or concerns regarding this transaction or your account, please do not hesitate to let us know. We are here to help ensure your peace of mind.\n \nBest wishes, \nCiti Team",
+  "example": "Subject: A $3.50 transaction was made on your Citi Premier® account\nSender: alerts@info6.citi.com\nContent: Hi, XXX. The transaction made on your Citi Premier® account exceeded $0.00. The transaction details are listed below.\nAmount: $3.50\nCard Ending In\n6211\nMerchant\nBarron Restaurant Seattle\nDate\n05/12/2021\nTime\n03:29 PM ET",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

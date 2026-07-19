@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_3072011037724415933",
+  "technique_name": "Given this C code, what is the expected output?",
+  "description": "2",
+  "example": "#include <stdio.h>\n \nint main()\n{\n   int i = 1;\n   for ( i = 1; i <= 5; i++ )\n   {\n      if ( i%2 == 0)\n      {\n          printf(\"%d\\n\", i);\n          break;\n      }\n   }\n \n   return 0;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

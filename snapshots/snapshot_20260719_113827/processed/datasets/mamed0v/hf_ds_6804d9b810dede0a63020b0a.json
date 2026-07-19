@@ -1,0 +1,44 @@
+{
+  "unique_id": "hf_ds_6804d9b810dede0a63020b0a",
+  "schema_version": "1.0",
+  "name": "mamed0v/TurkmenSpeech",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tTurkmen Speech Dataset (ASR)\n\t\n\nThis dataset contains 251 hours of Turkmen speech audio with transcriptions, intended for training and evaluating Automatic Speech Recognition (ASR) models.\nIt is one of the largest publicly available Turkmen speech datasets.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\n\n\t\n\t\t\nProperty\nValue\n\n\n\t\t\nTotal clips\n119,847\n\n\nTotal duration\n251.86 hours\n\n\nSampling rate\n16,000 Hz\n\n\nLanguage\nTurkmen (tk)\n\n\nSplit\ntrain\n\n\n\t\n\nEach item includes:\n\naudio: waveform + sampling… See the full description on the dataset page: https://huggingface.co/datasets/mamed0v/TurkmenSpeech.",
+  "size": "208975",
+  "source_url": "https://huggingface.co/datasets/mamed0v/TurkmenSpeech",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "6804d9b810dede0a63020b0a",
+    "id": "mamed0v/TurkmenSpeech",
+    "author": "mamed0v",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-11-01T07:05:20.000Z",
+    "likes": 5,
+    "private": false,
+    "sha": "62f2ed565b0bd669ca529e2b016d6805d442a392",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tTurkmen Speech Dataset (ASR)\n\t\n\nThis dataset contains 251 hours of Turkmen speech audio with transcriptions, intended for training and evaluating Automatic Speech Recognition (ASR) models.\nIt is one of the largest publicly available Turkmen speech datasets.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\n\n\t\n\t\t\nProperty\nValue\n\n\n\t\t\nTotal clips\n119,847\n\n\nTotal duration\n251.86 hours\n\n\nSampling rate\n16,000 Hz\n\n\nLanguage\nTurkmen (tk)\n\n\nSplit\ntrain\n\n\n\t\n\nEach item includes:\n\naudio: waveform + sampling… See the full description on the dataset page: https://huggingface.co/datasets/mamed0v/TurkmenSpeech.",
+    "downloads": 208975,
+    "tags": [
+      "task_categories:automatic-speech-recognition",
+      "task_categories:text-to-speech",
+      "language:tk",
+      "license:cc-by-nc-4.0",
+      "size_categories:100K<n<1M",
+      "region:us"
+    ],
+    "createdAt": "2025-04-20T11:25:44.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-19T11:38:15.858854+00:00",
+  "last_updated": "2025-11-01T07:05:20.000Z",
+  "links": {
+    "related_models": [
+      "datasets/mamed0v"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

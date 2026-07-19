@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_312263900673539842",
+  "skill_name": "Modify the given code by adding a for loop.",
+  "workflow": "grades = [\"A\", \"B\", \"C\", \"D\"]\n\nfor grade in grades:\n    if (grade == \"A\"):\n        print(\"Excellent\")\n    elif (grade == \"B\"):\n        print(\"Good\")\n    elif (grade == \"C\"):\n        print(\"Average\")\n    elif (grade == \"D\"):\n        print(\"Poor\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

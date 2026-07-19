@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-3549872624893260450",
+  "technique_name": "You are given a code snippet and you need to detect a bug in it.",
+  "description": "The bug in this code snippet is that the string is not assigned from the result of the strip function. This means that 'mystring' will remain \"Hello World\". The correct code should be mystring = mystring.strip(\"H\").",
+  "example": "mystring = \"Hello World\" \nmystring.strip(\"H\")",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

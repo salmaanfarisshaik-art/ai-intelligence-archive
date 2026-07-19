@@ -1,0 +1,7 @@
+{
+  "instruction": "Compile the following source code.",
+  "input": "public class HelloWorld {\n    public static void main(String[] args) {\n        System.out.println(\"Hello World!\");\n    }\n}",
+  "output": "No output as compilation will result in a \".class\" file which is a binary format that cannot be read directly.",
+  "unique_id": "prompt_compile_the_followin",
+  "schema_version": "1.0"
+}

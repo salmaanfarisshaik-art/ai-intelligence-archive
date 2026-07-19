@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-7756276588612457013",
+  "skill_name": "Create a MongoDB query to retrieve data within a specific range.",
+  "workflow": "The following query can be used to retrieve data from a MongoDB collection within a specified range:\n\ndb.collection.find({field:{$gte:lower, $lte:upper}})\n\nWhere “field” is the field you are searching, “lower” is the lowerbound of the range, and “upper” is the upperbound of the range.",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

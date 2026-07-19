@@ -1,0 +1,7 @@
+{
+  "instruction": "Explain in your own words what Active Learning is.",
+  "input": "",
+  "output": "Active Learning is a method of machine learning that involves an AI system actively learning from its environment: it interacts with its environment to acquire new knowledge and identify the most useful samples in a dataset, thus automating the process of training a machine learning model. This approach is often used to improve the model's accuracy without relying on large datasets and expensive manual labeling.\n\nActive learning uses an iterative cycle: the AI system first selects the best data samples to train on, and then uses those data samples to update its understanding of the underlying patterns and trends. This process allows the system to better understand the relationships between the different inputs and outputs, and leads to improved model accuracy.",
+  "unique_id": "prompt_explain_in_your_own",
+  "schema_version": "1.0"
+}

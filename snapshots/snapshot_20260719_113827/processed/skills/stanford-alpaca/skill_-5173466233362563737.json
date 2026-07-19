@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-5173466233362563737",
+  "skill_name": "Create a Java program that simulates a dice roll.",
+  "workflow": "import java.util.Random;\n\npublic class DiceRoll{ \n    public static void main(String args[]){ \n        Random random = new Random(); \n        int rollResult = random.nextInt(6) + 1; \n  \n        System.out.println(\"Roll Result: \"+ rollResult); \n    } \n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}

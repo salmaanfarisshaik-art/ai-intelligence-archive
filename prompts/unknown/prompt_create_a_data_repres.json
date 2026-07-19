@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a data representation of a tree.",
+  "input": "",
+  "output": "Tree = { \n  'root': { \n    'children': [ \n      { \n        'children': [ \n          {'value': 'Leaf 1'}, \n          {'value': 'Leaf 2'} \n        ], \n        'value': 'Branch 1'\n      }, \n      { \n        'children': [ \n          {'value': 'Leaf 3'}, \n          {'value': 'Leaf 4'}\n        ], \n        'value': 'Branch 2' \n      } \n    ], \n    'value': 'Root' \n  } \n}",
+  "unique_id": "prompt_create_a_data_repres",
+  "schema_version": "1.0"
+}

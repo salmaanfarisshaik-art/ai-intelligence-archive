@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-8251365537256954472",
+  "technique_name": "Write an algorithm to determine the prime numbers up to 100.",
+  "description": "An algorithm to determine the prime numbers up to 100 can be constructed as follows: \n\n1. Start with a list of all the numbers from 2 to 100. \n2. Set aside 1 as not a prime number. \n3. Starting with 2, divide all the other numbers by that number. \n4. Any number that is divisible (with no remainder) by the number is not a prime number and can be removed from the list. \n5. Next, move onto the next number in the list, and repeat step 3-4 until all numbers from 2 to 100 have been divided. \n6. All nu",
+  "example": "",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

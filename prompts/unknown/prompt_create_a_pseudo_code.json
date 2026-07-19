@@ -1,0 +1,7 @@
+{
+  "instruction": "Create a pseudo-code algorithm to find the maximum number in a given list of numbers.",
+  "input": "",
+  "output": "Algorithm:\n1. Create a new list to store the maximum numbers.\n2. Start a for loop with index i for the given list of numbers.\n3. Compare the current number with other numbers in the list.\n4. If the current number is greater, store it in the new list.\n5. If the current number is lesser, do nothing.\n6. After the for loop is complete, the new list contains the maximum numbers.\n7. Find the maximum of the maximum numbers and store it in a new variable.\n8. Return the new variable.",
+  "unique_id": "prompt_create_a_pseudo_code",
+  "schema_version": "1.0"
+}

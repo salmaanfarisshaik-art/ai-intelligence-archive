@@ -1,0 +1,14 @@
+{
+  "unique_id": "alpaca_-9022281520409292732",
+  "technique_name": "Identify the prototype of this function.",
+  "description": "The prototype of this function is `sortNumbers(arr)`.",
+  "example": "function sortNumbers(arr){\n    arr.sort(function(a, b) {\n        return a - b;\n    });\n    return arr;\n}",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "source_type": "github",
+  "category": "instruction_tuning",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:16Z",
+  "last_updated": "2026-06-14T13:52:16Z",
+  "raw_payload": {}
+}

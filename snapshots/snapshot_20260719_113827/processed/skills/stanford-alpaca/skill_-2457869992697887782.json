@@ -1,0 +1,13 @@
+{
+  "unique_id": "skill_-2457869992697887782",
+  "skill_name": "Generate the Python code to count the frequency of each character in a string.",
+  "workflow": "char_freq = {}\n\nfor char in 'Hello world!':\n  if char in char_freq:\n    char_freq[char] += 1\n  else:\n    char_freq[char] = 1\n\nprint(char_freq)",
+  "source_url": "https://github.com/tatsu-lab/stanford_alpaca",
+  "source_name": "Stanford Alpaca",
+  "schema_version": "1.0",
+  "retrieval_timestamp": "2026-06-14T13:52:17Z",
+  "last_updated": "2026-06-14T13:52:17Z",
+  "raw_payload": {},
+  "source_type": "repository",
+  "category": "skills"
+}
