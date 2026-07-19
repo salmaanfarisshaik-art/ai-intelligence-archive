@@ -4,10 +4,10 @@
   "author": "FLARE-MedFM",
   "disabled": false,
   "gated": "auto",
-  "lastModified": "2026-07-18T22:32:42.000Z",
+  "lastModified": "2026-07-19T21:33:52.000Z",
   "likes": 1,
   "private": false,
-  "sha": "2d3e75c02e23c892bdea91781acb8cf36c3abb0a",
+  "sha": "cbca92894fa612361542d5bb8f85874b9f668c0e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tFLARE Task1 Pancancer Seg Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tData Description\n\t\n\nThis is the dataset for CVPR2026 Challenge: Pan-cancer segmentation in CT scans.\nWe aim to further promote the development of pan-cancer segmentation and model deployment on low-resource settings.\n\n\t\n\t\t\n\t\n\t\n\t\tData Structure\n\t\n\ntrain_label：\nThis is a partially labeled dataset. Only the primary lesion is labeled in each case. \nThe other lesions may not be labeled (e.g., metastatic lesions).\ntrain_unlabel：\nOnly… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/PancancerCTSeg.",
   "downloads": 110607,
   "tags": [
