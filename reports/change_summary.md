@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 59
+**Total Changes:** 72
 
 ## Added
 None
@@ -12,9 +12,16 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/antirez/hf_antirez_deepseek-v4-gguf.json
+- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -30,6 +37,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -39,12 +47,15 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
@@ -57,6 +68,8 @@ None
 - tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
+- tools/github-trending/gh_710601088.json
+- tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_770153867.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
