@@ -1,5 +1,10 @@
 # Cs.Ro Export
 
+## Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation
+- **ID**: arxiv_2403.01977v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2403.01977v5](http://arxiv.org/abs/2403.01977v5)
+
 ## Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis
 - **ID**: arxiv_2604.01463v2
 - **Source**: ArXiv
@@ -14,4 +19,54 @@
 - **ID**: arxiv_2606.14585v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14585v1](http://arxiv.org/abs/2606.14585v1)
+
+## CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation
+- **ID**: arxiv_2606.16935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16935v1](http://arxiv.org/abs/2606.16935v1)
+
+## R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies
+- **ID**: arxiv_2606.17040v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17040v1](http://arxiv.org/abs/2606.17040v1)
+
+## Geometric Action Model for Robot Policy Learning
+- **ID**: arxiv_2606.17046v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17046v1](http://arxiv.org/abs/2606.17046v1)
+
+## Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models
+- **ID**: arxiv_2606.17846v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17846v2](http://arxiv.org/abs/2606.17846v2)
+
+## Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System
+- **ID**: arxiv_2606.18112v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18112v2](http://arxiv.org/abs/2606.18112v2)
+
+## Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
+- **ID**: arxiv_2606.18247v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18247v1](http://arxiv.org/abs/2606.18247v1)
+
+## Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation
+- **ID**: arxiv_2606.19240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19240v1](http://arxiv.org/abs/2606.19240v1)
+
+## Do as I Do: Dexterous Manipulation Data from Everyday Human Videos
+- **ID**: arxiv_2606.19333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19333v1](http://arxiv.org/abs/2606.19333v1)
+
+## Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation
+- **ID**: arxiv_2606.20491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20491v1](http://arxiv.org/abs/2606.20491v1)
+
+## RoboTTT: Context Scaling for Robot Policies
+- **ID**: arxiv_2607.15275v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15275v1](http://arxiv.org/abs/2607.15275v1)
 

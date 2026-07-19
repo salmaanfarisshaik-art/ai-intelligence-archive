@@ -1,4 +1,4 @@
-from scripts.lib.deduplicator import Deduplicator
+from core.deduplicator import Deduplicator
 import json
 
 def test_dedupe():

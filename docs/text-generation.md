@@ -125,6 +125,7 @@
 | [datificate/gpt2-small-spanish](https://huggingface.co/datificate/gpt2-small-spanish) | Hugging Face |  | 0 |
 | [DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF](https://huggingface.co/DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF) | Hugging Face |  | 0 |
 | [deepcogito/cogito-v1-preview-qwen-32B](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B) | Hugging Face |  | 0 |
+| [deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF) | Hugging Face | conversational, endpoints_compatible, gguf, license:mit, region:us | 0 |
 | [deepseek-ai/deepseek-coder-1.3b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct) | Hugging Face |  | 0 |
 | [deepseek-ai/deepseek-coder-6.7b-base](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base) | Hugging Face |  | 0 |
 | [deepseek-ai/deepseek-coder-6.7b-instruct](https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-instruct) | Hugging Face |  | 0 |
@@ -135,7 +136,7 @@
 | [deepseek-ai/deepseek-moe-16b-base](https://huggingface.co/deepseek-ai/deepseek-moe-16b-base) | Hugging Face |  | 0 |
 | [deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Hugging Face | arxiv:2501.12948, conversational, custom_code, deepseek_v3, endpoints_compatible | 0 |
 | [deepseek-ai/DeepSeek-R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) | Hugging Face | arxiv:2501.12948, conversational, custom_code, deepseek_v3, endpoints_compatible | 0 |
-| [deepseek-ai/DeepSeek-R1-0528-Qwen3-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) | Hugging Face |  | 0 |
+| [deepseek-ai/DeepSeek-R1-0528-Qwen3-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) | Hugging Face | arxiv:2501.12948, conversational, endpoints_compatible, license:mit, qwen3 | 0 |
 | [deepseek-ai/DeepSeek-R1-Distill-Llama-70B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | Hugging Face |  | 0 |
 | [deepseek-ai/DeepSeek-R1-Distill-Llama-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-8B) | Hugging Face |  | 0 |
 | [deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-1.5B) | Hugging Face |  | 0 |
@@ -148,7 +149,7 @@
 | [deepseek-ai/DeepSeek-V3.1](https://huggingface.co/deepseek-ai/DeepSeek-V3.1) | Hugging Face |  | 0 |
 | [deepseek-ai/DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2) | Hugging Face | base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base, base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base, conversational, deepseek_v32, endpoints_compatible | 0 |
 | [deepseek-ai/DeepSeek-V3.2-Exp](https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp) | Hugging Face |  | 0 |
-| [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | Hugging Face | 8-bit, conversational, deepseek_v4, endpoints_compatible, eval-results | 0 |
+| [deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | Hugging Face | 8-bit, arxiv:2606.19348, conversational, deepseek_v4, deploy:azure | 0 |
 | [deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Hugging Face | 8-bit, conversational, deepseek_v4, endpoints_compatible, eval-results | 0 |
 | [delphi-suite/v0-llama2-100k](https://huggingface.co/delphi-suite/v0-llama2-100k) | Hugging Face |  | 0 |
 | [dicta-il/DictaLM-3.0-1.7B-Instruct](https://huggingface.co/dicta-il/DictaLM-3.0-1.7B-Instruct) | Hugging Face |  | 0 |
@@ -175,7 +176,7 @@
 | [EleutherAI/pythia-410m](https://huggingface.co/EleutherAI/pythia-410m) | Hugging Face |  | 0 |
 | [EleutherAI/pythia-410m-deduped](https://huggingface.co/EleutherAI/pythia-410m-deduped) | Hugging Face |  | 0 |
 | [EleutherAI/pythia-6.9b](https://huggingface.co/EleutherAI/pythia-6.9b) | Hugging Face |  | 0 |
-| [EleutherAI/pythia-70m-deduped](https://huggingface.co/EleutherAI/pythia-70m-deduped) | Hugging Face |  | 0 |
+| [EleutherAI/pythia-70m-deduped](https://huggingface.co/EleutherAI/pythia-70m-deduped) | Hugging Face | arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/the_pile_deduplicated | 0 |
 | [erwanf/gpt2-mini](https://huggingface.co/erwanf/gpt2-mini) | Hugging Face |  | 0 |
 | [facebook/incoder-1B](https://huggingface.co/facebook/incoder-1B) | Hugging Face |  | 0 |
 | [facebook/opt-1.3b](https://huggingface.co/facebook/opt-1.3b) | Hugging Face |  | 0 |
@@ -189,6 +190,7 @@
 | [farbodtavakkoli/OTel-LLM-1B-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-1B-IT) | Hugging Face |  | 0 |
 | [farbodtavakkoli/OTel-LLM-270M-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-270M-IT) | Hugging Face |  | 0 |
 | [farbodtavakkoli/OTel-LLM-8.3B-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT) | Hugging Face |  | 0 |
+| [farbodtavakkoli/OTel-LLM-E4B-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT) | Hugging Face | base_model:finetune:google/gemma-4-E4B-it, base_model:google/gemma-4-E4B-it, conversational, dataset:farbodtavakkoli/OTel-LLM, en | 0 |
 | [GadflyII/GLM-4.7-Flash-NVFP4](https://huggingface.co/GadflyII/GLM-4.7-Flash-NVFP4) | Hugging Face |  | 0 |
 | [GadflyII/Qwen3-Coder-Next-NVFP4](https://huggingface.co/GadflyII/Qwen3-Coder-Next-NVFP4) | Hugging Face |  | 0 |
 | [GeneralAnalysis/GA_Guard_Core](https://huggingface.co/GeneralAnalysis/GA_Guard_Core) | Hugging Face |  | 0 |
@@ -245,7 +247,7 @@
 | [HuggingFaceTB/SmolLM2-1.7B](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B) | Hugging Face |  | 0 |
 | [HuggingFaceTB/SmolLM2-1.7B-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-1.7B-Instruct) | Hugging Face |  | 0 |
 | [HuggingFaceTB/SmolLM2-135M](https://huggingface.co/HuggingFaceTB/SmolLM2-135M) | Hugging Face |  | 0 |
-| [HuggingFaceTB/SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | Hugging Face |  | 0 |
+| [HuggingFaceTB/SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct) | Hugging Face | arxiv:2502.02737, base_model:HuggingFaceTB/SmolLM2-135M, base_model:quantized:HuggingFaceTB/SmolLM2-135M, conversational, en | 0 |
 | [HuggingFaceTB/SmolLM2-360M](https://huggingface.co/HuggingFaceTB/SmolLM2-360M) | Hugging Face |  | 0 |
 | [HuggingFaceTB/SmolLM2-360M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct) | Hugging Face |  | 0 |
 | [HuggingFaceTB/SmolLM3-3B](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) | Hugging Face |  | 0 |
@@ -266,6 +268,7 @@
 | [ibm-granite/granite-4.0-micro](https://huggingface.co/ibm-granite/granite-4.0-micro) | Hugging Face |  | 0 |
 | [ibm-granite/granite-4.0-tiny-preview](https://huggingface.co/ibm-granite/granite-4.0-tiny-preview) | Hugging Face |  | 0 |
 | [ibm-granite/granite-4.1-3b](https://huggingface.co/ibm-granite/granite-4.1-3b) | Hugging Face |  | 0 |
+| [ibm-granite/granite-4.1-8b](https://huggingface.co/ibm-granite/granite-4.1-8b) | Hugging Face | arxiv:0000.00000, conversational, deploy:azure, endpoints_compatible, eval-results | 0 |
 | [ibm-granite/granite-docling-258M](https://huggingface.co/ibm-granite/granite-docling-258M) | Hugging Face |  | 0 |
 | [ibm-research/PowerLM-3b](https://huggingface.co/ibm-research/PowerLM-3b) | Hugging Face |  | 0 |
 | [ibm-research/PowerMoE-3b](https://huggingface.co/ibm-research/PowerMoE-3b) | Hugging Face |  | 0 |
@@ -461,7 +464,7 @@
 | [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) | Hugging Face | arxiv:2204.05149, base_model:finetune:meta-llama/Llama-3.1-8B, base_model:meta-llama/Llama-3.1-8B, conversational, de | 0 |
 | [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) | Hugging Face |  | 0 |
-| [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | Hugging Face |  | 0 |
+| [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | Hugging Face | arxiv:2204.05149, arxiv:2405.16406, conversational, de, en | 0 |
 | [meta-llama/Llama-3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) | Hugging Face |  | 0 |
@@ -544,7 +547,7 @@
 | [nvidia/DeepSeek-V4-Pro-NVFP4](https://huggingface.co/nvidia/DeepSeek-V4-Pro-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/diffusiongemma-26B-A4B-it-NVFP4](https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4) | Hugging Face |  | 0 |
-| [nvidia/Gemma-4-31B-IT-NVFP4](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) | Hugging Face | Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:finetune:google/gemma-4-31B-it | 0 |
+| [nvidia/Gemma-4-31B-IT-NVFP4](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4) | Hugging Face | Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:google/gemma-4-31B-it | 0 |
 | [nvidia/GLM-5-NVFP4](https://huggingface.co/nvidia/GLM-5-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/GLM-5.1-NVFP4](https://huggingface.co/nvidia/GLM-5.1-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/Kimi-K2.5-NVFP4](https://huggingface.co/nvidia/Kimi-K2.5-NVFP4) | Hugging Face |  | 0 |
@@ -570,7 +573,7 @@
 | [nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16) | Hugging Face |  | 0 |
 | [nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16) | Hugging Face |  | 0 |
 | [nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8) | Hugging Face |  | 0 |
-| [nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4) | Hugging Face |  | 0 |
+| [nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4) | Hugging Face | 8-bit, arxiv:2512.20848, arxiv:2512.20856, conversational, custom_code | 0 |
 | [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16) | Hugging Face |  | 0 |
 | [nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/NVIDIA-Nemotron-Nano-12B-v2](https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-12B-v2) | Hugging Face |  | 0 |
@@ -586,7 +589,7 @@
 | [nvidia/Qwen3-8B-NVFP4](https://huggingface.co/nvidia/Qwen3-8B-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4](https://huggingface.co/nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4) | Hugging Face |  | 0 |
 | [nvidia/Qwen3.5-397B-A17B-NVFP4](https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4) | Hugging Face |  | 0 |
-| [nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4) | Hugging Face |  | 0 |
+| [nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4) | Hugging Face | 8-bit, FP4, Model Optimizer, ModelOpt, Qwen3.6 | 0 |
 | [nytopop/Qwen3-8B.w8a8](https://huggingface.co/nytopop/Qwen3-8B.w8a8) | Hugging Face |  | 0 |
 | [OBLITERATUS/Gemma-4-12B-OBLITERATED](https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED) | Hugging Face |  | 0 |
 | [OBLITERATUS/gemma-4-E4B-it-OBLITERATED](https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED) | Hugging Face |  | 0 |
@@ -658,7 +661,7 @@
 | [Qwen/Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-0.5B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-1.5B](https://huggingface.co/Qwen/Qwen2.5-1.5B) | Hugging Face |  | 0 |
-| [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) | Hugging Face |  | 0 |
+| [Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct) | Hugging Face | arxiv:2407.10671, base_model:Qwen/Qwen2.5-1.5B, base_model:finetune:Qwen/Qwen2.5-1.5B, chat, conversational | 0 |
 | [Qwen/Qwen2.5-1.5B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-1.5B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-14B](https://huggingface.co/Qwen/Qwen2.5-14B) | Hugging Face |  | 0 |
@@ -681,7 +684,7 @@
 | [Qwen/Qwen2.5-72B-Instruct](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-72B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-7B](https://huggingface.co/Qwen/Qwen2.5-7B) | Hugging Face |  | 0 |
-| [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | Hugging Face |  | 0 |
+| [Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) | Hugging Face | arxiv:2309.00071, arxiv:2407.10671, base_model:Qwen/Qwen2.5-7B, base_model:finetune:Qwen/Qwen2.5-7B, chat | 0 |
 | [Qwen/Qwen2.5-7B-Instruct-1M](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-1M) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-7B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen2.5-7B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct-GGUF) | Hugging Face |  | 0 |
@@ -719,8 +722,8 @@
 | [Qwen/Qwen3-1.7B-Base](https://huggingface.co/Qwen/Qwen3-1.7B-Base) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-1.7B-FP8](https://huggingface.co/Qwen/Qwen3-1.7B-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-1.7B-GPTQ-Int8](https://huggingface.co/Qwen/Qwen3-1.7B-GPTQ-Int8) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-14B-AWQ](https://huggingface.co/Qwen/Qwen3-14B-AWQ) | Hugging Face |  | 0 |
+| [Qwen/Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational | 0 |
+| [Qwen/Qwen3-14B-AWQ](https://huggingface.co/Qwen/Qwen3-14B-AWQ) | Hugging Face | 4-bit, arxiv:2309.00071, arxiv:2505.09388, awq, base_model:Qwen/Qwen3-14B | 0 |
 | [Qwen/Qwen3-14B-Base](https://huggingface.co/Qwen/Qwen3-14B-Base) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-14B-FP8](https://huggingface.co/Qwen/Qwen3-14B-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-14B-GGUF](https://huggingface.co/Qwen/Qwen3-14B-GGUF) | Hugging Face |  | 0 |
@@ -730,7 +733,7 @@
 | [Qwen/Qwen3-235B-A22B-Instruct-2507-FP8](https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-235B-A22B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-235B-A22B-Thinking-2507-FP8](https://huggingface.co/Qwen/Qwen3-235B-A22B-Thinking-2507-FP8) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, endpoints_compatible | 0 |
+| [Qwen/Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, conversational | 0 |
 | [Qwen/Qwen3-30B-A3B-Base](https://huggingface.co/Qwen/Qwen3-30B-A3B-Base) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-30B-A3B-FP8](https://huggingface.co/Qwen/Qwen3-30B-A3B-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-30B-A3B-GPTQ-Int4](https://huggingface.co/Qwen/Qwen3-30B-A3B-GPTQ-Int4) | Hugging Face |  | 0 |
@@ -741,7 +744,7 @@
 | [Qwen/Qwen3-32B](https://huggingface.co/Qwen/Qwen3-32B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, conversational, deploy:azure, endpoints_compatible | 0 |
 | [Qwen/Qwen3-32B-AWQ](https://huggingface.co/Qwen/Qwen3-32B-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-32B-FP8](https://huggingface.co/Qwen/Qwen3-32B-FP8) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, deploy:azure | 0 |
+| [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, conversational | 0 |
 | [Qwen/Qwen3-4B-AWQ](https://huggingface.co/Qwen/Qwen3-4B-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-Base](https://huggingface.co/Qwen/Qwen3-4B-Base) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-FP8](https://huggingface.co/Qwen/Qwen3-4B-FP8) | Hugging Face |  | 0 |
@@ -760,13 +763,11 @@
 | [Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8](https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Coder-Next](https://huggingface.co/Qwen/Qwen3-Coder-Next) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-Coder-Next-FP8](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) | Hugging Face |  | 0 |
+| [Qwen/Qwen3-Coder-Next-FP8](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8) | Hugging Face | conversational, deploy:azure, endpoints_compatible, fp8, license:apache-2.0 | 0 |
 | [Qwen/Qwen3-Next-80B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Next-80B-A3B-Instruct-FP8](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Next-80B-A3B-Thinking](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Next-80B-A3B-Thinking-GGUF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking-GGUF) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-Reranker-4B](https://huggingface.co/Qwen/Qwen3-Reranker-4B) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-Reranker-8B](https://huggingface.co/Qwen/Qwen3-Reranker-8B) | Hugging Face |  | 0 |
 | [Qwen/Qwen3Guard-Gen-0.6B](https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B) | Hugging Face |  | 0 |
 | [Qwen/Qwen3Guard-Gen-4B](https://huggingface.co/Qwen/Qwen3Guard-Gen-4B) | Hugging Face |  | 0 |
@@ -990,12 +991,13 @@
 | [zai-org/GLM-4.5](https://huggingface.co/zai-org/GLM-4.5) | Hugging Face |  | 0 |
 | [zai-org/GLM-4.5-Air](https://huggingface.co/zai-org/GLM-4.5-Air) | Hugging Face |  | 0 |
 | [zai-org/GLM-4.7](https://huggingface.co/zai-org/GLM-4.7) | Hugging Face |  | 0 |
-| [zai-org/GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) | Hugging Face |  | 0 |
+| [zai-org/GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash) | Hugging Face | arxiv:2508.06471, conversational, deploy:azure, en, endpoints_compatible | 0 |
 | [zai-org/GLM-4.7-FP8](https://huggingface.co/zai-org/GLM-4.7-FP8) | Hugging Face |  | 0 |
 | [zai-org/GLM-5](https://huggingface.co/zai-org/GLM-5) | Hugging Face |  | 0 |
-| [zai-org/GLM-5-FP8](https://huggingface.co/zai-org/GLM-5-FP8) | Hugging Face |  | 0 |
+| [zai-org/GLM-5-FP8](https://huggingface.co/zai-org/GLM-5-FP8) | Hugging Face | arxiv:2602.15763, conversational, en, endpoints_compatible, eval-results | 0 |
 | [zai-org/GLM-5.1](https://huggingface.co/zai-org/GLM-5.1) | Hugging Face |  | 0 |
 | [zai-org/GLM-5.1-FP8](https://huggingface.co/zai-org/GLM-5.1-FP8) | Hugging Face |  | 0 |
+| [zai-org/GLM-5.2-FP8](https://huggingface.co/zai-org/GLM-5.2-FP8) | Hugging Face | arxiv:2602.15763, arxiv:2603.12201, conversational, deploy:azure, en | 0 |
 | [zdy1995love/Mistral-Medium-3.5-128B-NVFP4](https://huggingface.co/zdy1995love/Mistral-Medium-3.5-128B-NVFP4) | Hugging Face |  | 0 |
 | [zerofata/L3.3-GeneticLemonade-Final-v2-70B](https://huggingface.co/zerofata/L3.3-GeneticLemonade-Final-v2-70B) | Hugging Face |  | 0 |
 | [zhiqiulin/clip-flant5-xxl](https://huggingface.co/zhiqiulin/clip-flant5-xxl) | Hugging Face |  | 0 |

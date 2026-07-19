@@ -4,43 +4,43 @@ import json
 import time
 from datetime import datetime, timezone
 import yaml
-from scripts.lib.logger import setup_logger
-from scripts.lib.source_metrics import metrics
-from scripts.sync.benchmark_sync import BenchmarkSync
-from scripts.sync.model_sync import ModelSync
-from scripts.sync.prompt_sync import PromptSync
-from scripts.sync.dataset_sync import DatasetSync
-from scripts.sync.tool_sync import ToolSync
-from scripts.sync.news_sync import NewsSync
+from core.logger import setup_logger
+from core.source_metrics import metrics
+from benchmarks.benchmark_sync import BenchmarkSync
+from models.model_sync import ModelSync
+from prompts.prompt_sync import PromptSync
+from datasets.dataset_sync import DatasetSync
+from tools.tool_sync import ToolSync
+from news.news_sync import NewsSync
 from scripts.generate_indexes import main as generate_indexes_main
 from scripts.generate_reports import generate_report
-from scripts.lib.pipeline_decision_engine import PipelineDecisionEngine
-from scripts.lib.config_loader import config
-from scripts.lib.entity_indexer import EntityIndexer
-from scripts.lib.search_index import SearchIndex
-from scripts.lib.analytics import AnalyticsGenerator
+from core.pipeline_decision_engine import PipelineDecisionEngine
+from core.config_loader import config
+from core.entity_indexer import EntityIndexer
+from core.search_index import SearchIndex
+from core.analytics import AnalyticsGenerator
 from scripts.generate_docs import DocsGenerator
-from scripts.lib.graph_exporter import GraphExporter
+from core.graph_exporter import GraphExporter
 from scripts.exporters.json_exporter import JSONExporter
 from scripts.exporters.csv_exporter import CSVExporter
 from scripts.exporters.markdown_exporter import MarkdownExporter
 from scripts.generate_dashboard import DashboardGenerator
 import uuid
-from scripts.lib.semantic_index_builder import SemanticIndexBuilder
-from scripts.lib.search_index_exporter import SearchIndexExporter
-from scripts.lib.index_manifest_generator import IndexManifestGenerator
-from scripts.lib.entity_linker import EntityLinker
-from scripts.lib.related_entity_engine import RelatedEntityEngine
-from scripts.lib.knowledge_graph_builder import KnowledgeGraphBuilder
-from scripts.lib.dashboard_data_generator import DashboardDataGenerator
-from scripts.lib.timeline_generator import TimelineGenerator
-from scripts.lib.artifact_manifest_generator import ArtifactManifestGenerator
-from scripts.lib.base_generator import BuildContext
+from core.semantic_index_builder import SemanticIndexBuilder
+from core.search_index_exporter import SearchIndexExporter
+from core.index_manifest_generator import IndexManifestGenerator
+from core.entity_linker import EntityLinker
+from core.related_entity_engine import RelatedEntityEngine
+from core.knowledge_graph_builder import KnowledgeGraphBuilder
+from core.dashboard_data_generator import DashboardDataGenerator
+from core.timeline_generator import TimelineGenerator
+from core.artifact_manifest_generator import ArtifactManifestGenerator
+from core.base_generator import BuildContext
 
 # Phase 5 Imports
 from scripts.generate_manifests import ManifestGenerator
 from scripts.exporters.graph_api_exporter import GraphAPIExporter
-from scripts.lib.integrity_checker import IntegrityChecker
+from core.integrity_checker import IntegrityChecker
 from scripts.release.snapshot_generator import SnapshotGenerator
 from scripts.release.release_builder import ReleaseBuilder
 from scripts.release.package_exporter import PackageExporter
@@ -48,21 +48,21 @@ from scripts.plugins.discovery import discover_plugins
 from scripts.plugins.plugin_manager import PluginManager
 
 # Phase 6 & Phase 7 Imports
-from scripts.lib.interface_validator import InterfaceValidator
-from scripts.lib.feature_flag_validator import FeatureFlagValidator
-from scripts.lib.recommendation_engine import RecommendationEngine
-from scripts.lib.leaderboard_generator import LeaderboardGenerator
-from scripts.lib.timeline_generator import TimelineGenerator
-from scripts.lib.trend_analyzer import TrendAnalyzer
-from scripts.lib.advanced_graph import AdvancedGraph
+from core.interface_validator import InterfaceValidator
+from core.feature_flag_validator import FeatureFlagValidator
+from core.recommendation_engine import RecommendationEngine
+from core.leaderboard_generator import LeaderboardGenerator
+from core.timeline_generator import TimelineGenerator
+from core.trend_analyzer import TrendAnalyzer
+from core.advanced_graph import AdvancedGraph
 
-from scripts.lib.repository_auditor import RepositoryAuditor
-from scripts.lib.coverage_analyzer import CoverageAnalyzer
-from scripts.lib.schema_auditor import SchemaAuditor
-from scripts.lib.self_documentation import SelfDocumentation
-from scripts.lib.dependency_report import DependencyReport
-from scripts.lib.repository_metrics import RepositoryMetrics
-from scripts.lib.serialization import save_json_deterministic
+from core.repository_auditor import RepositoryAuditor
+from core.coverage_analyzer import CoverageAnalyzer
+from core.schema_auditor import SchemaAuditor
+from core.self_documentation import SelfDocumentation
+from core.dependency_report import DependencyReport
+from core.repository_metrics import RepositoryMetrics
+from core.serialization import save_json_deterministic
 
 logger = setup_logger("main")
 LOCK_FILE = ".run.lock"
@@ -491,7 +491,7 @@ def main():
                     modules_failed.append("massive_seed_fetcher")
             
             # 2. Source Validator
-            from scripts.lib.source_validator import SourceValidator
+            from core.source_validator import SourceValidator
             try:
                 SourceValidator().run(is_dry_run=is_dry_run)
                 modules_run.append("source_validator")
@@ -500,7 +500,7 @@ def main():
                 modules_failed.append("source_validator")
                 
             # 3. Repository Expander
-            from scripts.lib.repository_expander import RepositoryExpander
+            from core.repository_expander import RepositoryExpander
             try:
                 RepositoryExpander(is_dry_run=is_dry_run).expand_all()
                 modules_run.append("repository_expander")
@@ -509,7 +509,7 @@ def main():
                 modules_failed.append("repository_expander")
                 
             # 4. Expansion Metrics
-            from scripts.lib.expansion_metrics import ExpansionMetrics
+            from core.expansion_metrics import ExpansionMetrics
             try:
                 ExpansionMetrics().generate_report()
                 modules_run.append("expansion_metrics")
@@ -518,7 +518,7 @@ def main():
                 modules_failed.append("expansion_metrics")
                 
             # 5. Data Quality Report
-            from scripts.lib.data_quality_report import DataQualityReport
+            from core.data_quality_report import DataQualityReport
             try:
                 DataQualityReport().generate_report()
                 modules_run.append("data_quality_report")
@@ -528,7 +528,7 @@ def main():
 
         # Phase 8.5 Archive Statistics
         if config.is_feature_enabled("enable_archive_statistics"):
-            from scripts.lib.archive_statistics import ArchiveStatistics
+            from core.archive_statistics import ArchiveStatistics
             try:
                 ArchiveStatistics().generate()
                 modules_run.append("archive_statistics")
@@ -642,7 +642,6 @@ def main():
                         build_manifest_data["artifact_manifest_hash"] = hashlib.sha256(f.read()).hexdigest()
                 
                 if not is_dry_run:
-                    from scripts.lib.serialization import save_json_deterministic
                     save_json_deterministic("reports/build_manifest.json", build_manifest_data)
             except Exception:
                 logger.error("Failed to generate build_manifest.json", exc_info=True)

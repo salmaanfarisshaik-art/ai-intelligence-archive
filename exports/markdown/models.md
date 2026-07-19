@@ -20,6 +20,10 @@
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16
 - **Source**: 
 
+## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP
+- **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp
+- **Source**: 
+
 ## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP-XS
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs
 - **Source**: 
@@ -160,6 +164,10 @@
 - **ID**: model_asingh15_qwen_sft_countdown_defaultproj
 - **Source**: 
 
+## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
+- **ID**: model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf
+- **Source**: 
+
 ## augmxnt/shisa-gamma-7b-v1
 - **ID**: model_augmxnt_shisa_gamma_7b_v1
 - **Source**: 
@@ -194,6 +202,10 @@
 
 ## bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF
 - **ID**: model_bartowski_deepseek_coder_v2_lite_instruct_gguf
+- **Source**: 
+
+## bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF
+- **ID**: model_bartowski_deepseek_r1_distill_llama_70b_gguf
 - **Source**: 
 
 ## bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF
@@ -244,12 +256,24 @@
 - **ID**: model_bartowski_nemomix_unleashed_12b_gguf
 - **Source**: 
 
+## bartowski/North-Mini-Code-1.0-GGUF
+- **ID**: model_bartowski_north_mini_code_1_0_gguf
+- **Source**: 
+
 ## bartowski/Phi-3.5-mini-instruct-GGUF
 - **ID**: model_bartowski_phi_3_5_mini_instruct_gguf
 - **Source**: 
 
 ## bartowski/Qwen2.5-14B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_14b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen2.5-1.5B-Instruct-GGUF
+- **ID**: model_bartowski_qwen2_5_1_5b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen2.5-3B-Instruct-GGUF
+- **ID**: model_bartowski_qwen2_5_3b_instruct_gguf
 - **Source**: 
 
 ## bartowski/Qwen2.5-72B-Instruct-GGUF
@@ -266,6 +290,10 @@
 
 ## bartowski/Qwen2.5-Coder-7B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_coder_7b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF
+- **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf
 - **Source**: 
 
 ## bartowski/SmolLM2-1.7B-Instruct-GGUF
@@ -348,6 +376,10 @@
 - **ID**: model_bosonai_higgs_audio_v3_tts_4b
 - **Source**: 
 
+## BounharAbdelaziz/Qwen2.5-3B-GRPO-Math-GSM8K
+- **ID**: model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k
+- **Source**: 
+
 ## Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP
 - **ID**: model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp
 - **Source**: 
@@ -372,8 +404,16 @@
 - **ID**: model_bytedance_seed_seed_oss_36b_instruct
 - **Source**: 
 
+## bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF
+- **ID**: model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf
+- **Source**: 
+
 ## cais/HarmBench-Llama-2-13b-cls
 - **ID**: model_cais_harmbench_llama_2_13b_cls
+- **Source**: 
+
+## CalamitousFelicitousness/Qwen2.5-32B-Instruct-fp8-dynamic
+- **ID**: model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic
 - **Source**: 
 
 ## canopylabs/3b-de-ft-research_release
@@ -416,6 +456,10 @@
 - **ID**: model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b
 - **Source**: 
 
+## cyankiwi/ERNIE-4.5-21B-A3B-Thinking-AWQ-4bit
+- **ID**: model_cyankiwi_ernie_4_5_21b_a3b_thinking_awq_4bit
+- **Source**: 
+
 ## cyankiwi/GLM-4.5-Air-AWQ-4bit
 - **ID**: model_cyankiwi_glm_4_5_air_awq_4bit
 - **Source**: 
@@ -428,8 +472,16 @@
 - **ID**: model_cyankiwi_hermes_4_14b_awq_4bit
 - **Source**: 
 
+## cyankiwi/MiniMax-M2.5-AWQ-4bit
+- **ID**: model_cyankiwi_minimax_m2_5_awq_4bit
+- **Source**: 
+
 ## cyankiwi/MiniMax-M2.7-AWQ-4bit
 - **ID**: model_cyankiwi_minimax_m2_7_awq_4bit
+- **Source**: 
+
+## cyankiwi/Nex-N2-mini-AWQ-INT4
+- **ID**: model_cyankiwi_nex_n2_mini_awq_int4
 - **Source**: 
 
 ## cyankiwi/Qwen3-30B-A3B-Instruct-2507-AWQ-4bit
@@ -446,6 +498,10 @@
 
 ## cyankiwi/Qwen3-Coder-Next-AWQ-4bit
 - **ID**: model_cyankiwi_qwen3_coder_next_awq_4bit
+- **Source**: 
+
+## cyankiwi/Qwen3-Coder-Next-AWQ-8bit
+- **ID**: model_cyankiwi_qwen3_coder_next_awq_8bit
 - **Source**: 
 
 ## cyankiwi/Qwen3-Next-80B-A3B-Instruct-AWQ-4bit
@@ -608,12 +664,24 @@
 - **ID**: model_drawais_qwen3_6_27b_awq_int4
 - **Source**: 
 
+## drawais/Qwen3-Embedding-4B-AWQ-INT4
+- **ID**: model_drawais_qwen3_embedding_4b_awq_int4
+- **Source**: 
+
+## drawais/Qwen3-Embedding-8B-AWQ-INT4
+- **ID**: model_drawais_qwen3_embedding_8b_awq_int4
+- **Source**: 
+
 ## Dream-org/Dream-v0-Instruct-7B
 - **ID**: model_dream_org_dream_v0_instruct_7b
 - **Source**: 
 
 ## DuoNeural/Gemma4-12B-IT-Abliterated-GGUF
 - **ID**: model_duoneural_gemma4_12b_it_abliterated_gguf
+- **Source**: 
+
+## ebircak/gemma-4-31B-it-4bit-W4A16-AWQ
+- **ID**: model_ebircak_gemma_4_31b_it_4bit_w4a16_awq
 - **Source**: 
 
 ## echarlaix/tiny-random-PhiForCausalLM
@@ -686,6 +754,10 @@
 
 ## erwanf/gpt2-mini
 - **ID**: model_erwanf_gpt2_mini
+- **Source**: 
+
+## EssentialAI/rnj-1
+- **ID**: model_essentialai_rnj_1
 - **Source**: 
 
 ## facebook/incoder-1B
@@ -764,6 +836,10 @@
 - **ID**: model_goekdeniz_guelmez_josiefied_qwen3_vl_4b_instruct_abliterated_beta_v1
 - **Source**: 
 
+## google/codegemma-2b
+- **ID**: model_google_codegemma_2b
+- **Source**: 
+
 ## google/functiongemma-270m-it
 - **ID**: model_google_functiongemma_270m_it
 - **Source**: 
@@ -830,6 +906,10 @@
 
 ## google/gemma-4-31B-it-qat-q4_0-unquantized-assistant
 - **ID**: model_google_gemma_4_31b_it_qat_q4_0_unquantized_assistant
+- **Source**: 
+
+## google/gemma-4-E2B-it-assistant
+- **ID**: model_google_gemma_4_e2b_it_assistant
 - **Source**: 
 
 ## google/gemma-4-E4B-it-assistant
@@ -1032,12 +1112,20 @@
 - **ID**: model_ibm_granite_granite_4_0_tiny_preview
 - **Source**: 
 
+## ibm-granite/granite-4.1-30b
+- **ID**: model_ibm_granite_granite_4_1_30b
+- **Source**: 
+
 ## ibm-granite/granite-4.1-3b
 - **ID**: model_ibm_granite_granite_4_1_3b
 - **Source**: 
 
 ## ibm-granite/granite-docling-258M
 - **ID**: model_ibm_granite_granite_docling_258m
+- **Source**: 
+
+## ibm-granite/granite-guardian-4.1-8b
+- **ID**: model_ibm_granite_granite_guardian_4_1_8b
 - **Source**: 
 
 ## ibm-research/PowerLM-3b
@@ -1144,6 +1232,10 @@
 - **ID**: model_janhq_jan_v3_5_4b_gguf
 - **Source**: 
 
+## jhu-clsp/rank1-7b
+- **ID**: model_jhu_clsp_rank1_7b
+- **Source**: 
+
 ## jimbothigpen/Qwen3.5-9B-GGUF
 - **ID**: model_jimbothigpen_qwen3_5_9b_gguf
 - **Source**: 
@@ -1160,6 +1252,10 @@
 - **ID**: model_jiunsong_supergemma4_26b_uncensored_gguf_v2
 - **Source**: 
 
+## JunHowie/Qwen3-14B-GPTQ-Int4
+- **ID**: model_junhowie_qwen3_14b_gptq_int4
+- **Source**: 
+
 ## kaitchup/Phi-3-mini-4k-instruct-gptq-4bit
 - **ID**: model_kaitchup_phi_3_mini_4k_instruct_gptq_4bit
 - **Source**: 
@@ -1174,6 +1270,10 @@
 
 ## KBlueLeaf/TIPO-500M-ft
 - **ID**: model_kblueleaf_tipo_500m_ft
+- **Source**: 
+
+## kenpath/svara-tts-v1
+- **ID**: model_kenpath_svara_tts_v1
 - **Source**: 
 
 ## KevinJK51/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop-GGUF
@@ -1240,6 +1340,10 @@
 - **ID**: model_lightseekorg_kimi_k2_5_eagle3_mla
 - **Source**: 
 
+## lightseekorg/kimi-k2.6-eagle3
+- **ID**: model_lightseekorg_kimi_k2_6_eagle3
+- **Source**: 
+
 ## lightseekorg/kimi-k2.6-eagle3-mla
 - **ID**: model_lightseekorg_kimi_k2_6_eagle3_mla
 - **Source**: 
@@ -1262,6 +1366,10 @@
 
 ## LiquidAI/LFM2.5-1.2B-Instruct-GGUF
 - **ID**: model_liquidai_lfm2_5_1_2b_instruct_gguf
+- **Source**: 
+
+## LiquidAI/LFM2.5-1.2B-Thinking
+- **ID**: model_liquidai_lfm2_5_1_2b_thinking
 - **Source**: 
 
 ## LiquidAI/LFM2.5-350M
@@ -1316,12 +1424,20 @@
 - **ID**: model_llm_jp_llm_jp_3_150m
 - **Source**: 
 
+## llm-jp/llm-jp-4-32b-a3b-thinking
+- **ID**: model_llm_jp_llm_jp_4_32b_a3b_thinking
+- **Source**: 
+
 ## llm-jp/llm-jp-4-8b-thinking
 - **ID**: model_llm_jp_llm_jp_4_8b_thinking
 - **Source**: 
 
 ## llmat/Qwen3-4B-Instruct-2507-NVFP4
 - **ID**: model_llmat_qwen3_4b_instruct_2507_nvfp4
+- **Source**: 
+
+## llmfan46/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic
+- **ID**: model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic
 - **Source**: 
 
 ## lmms-lab/llava-onevision-qwen2-7b-ov
@@ -1378,6 +1494,10 @@
 
 ## lmstudio-community/LFM2.5-1.2B-Instruct-MLX-8bit
 - **ID**: model_lmstudio_community_lfm2_5_1_2b_instruct_mlx_8bit
+- **Source**: 
+
+## lmstudio-community/Llama-3.2-3B-Instruct-GGUF
+- **ID**: model_lmstudio_community_llama_3_2_3b_instruct_gguf
 - **Source**: 
 
 ## lmstudio-community/Meta-Llama-3.1-8B-Instruct-GGUF
@@ -1468,6 +1588,10 @@
 - **ID**: model_lmstudio_community_qwen3_4b_thinking_2507_mlx_8bit
 - **Source**: 
 
+## lmstudio-community/Qwen3-8B-MLX-4bit
+- **ID**: model_lmstudio_community_qwen3_8b_mlx_4bit
+- **Source**: 
+
 ## lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF
 - **ID**: model_lmstudio_community_qwen3_coder_30b_a3b_instruct_gguf
 - **Source**: 
@@ -1514,6 +1638,10 @@
 
 ## lmsys/vicuna-7b-v1.5
 - **ID**: model_lmsys_vicuna_7b_v1_5
+- **Source**: 
+
+## LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit
+- **ID**: model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit
 - **Source**: 
 
 ## LSX-UniWue/LLaMmlein_1B_prerelease
@@ -2084,6 +2212,10 @@
 - **ID**: model_naver_hyperclovax_hyperclovax_seed_vision_instruct_3b
 - **Source**: 
 
+## neuralcrew/neutrino-instruct
+- **ID**: model_neuralcrew_neutrino_instruct
+- **Source**: 
+
 ## NexVeridian/Qwen3-Coder-Next-8bit
 - **ID**: model_nexveridian_qwen3_coder_next_8bit
 - **Source**: 
@@ -2116,8 +2248,16 @@
 - **ID**: model_nousresearch_llama_2_7b_hf
 - **Source**: 
 
+## NousResearch/Meta-Llama-3.1-8B
+- **ID**: model_nousresearch_meta_llama_3_1_8b
+- **Source**: 
+
 ## NousResearch/Meta-Llama-3.1-8B-Instruct
 - **ID**: model_nousresearch_meta_llama_3_1_8b_instruct
+- **Source**: 
+
+## NousResearch/Meta-Llama-3-8B
+- **ID**: model_nousresearch_meta_llama_3_8b
 - **Source**: 
 
 ## NousResearch/Meta-Llama-3-8B-Instruct
@@ -2174,6 +2314,10 @@
 
 ## nvidia/Kimi-K2.6-NVFP4
 - **ID**: model_nvidia_kimi_k2_6_nvfp4
+- **Source**: 
+
+## nvidia/Kimi-K2-Thinking-NVFP4
+- **ID**: model_nvidia_kimi_k2_thinking_nvfp4
 - **Source**: 
 
 ## nvidia/Llama-3.1-8B-Instruct-FP8
@@ -2252,6 +2396,10 @@
 - **ID**: model_nvidia_nvidia_nemotron_3_nano_4b_bf16
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-Base-BF16
+- **ID**: model_nvidia_nvidia_nemotron_3_super_120b_a12b_base_bf16
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16
 - **ID**: model_nvidia_nvidia_nemotron_3_super_120b_a12b_bf16
 - **Source**: 
@@ -2278,6 +2426,10 @@
 
 ## nvidia/NVIDIA-Nemotron-Nano-9B-v2
 - **ID**: model_nvidia_nvidia_nemotron_nano_9b_v2
+- **Source**: 
+
+## nvidia/NVIDIA-Nemotron-Nano-9B-v2-Base
+- **ID**: model_nvidia_nvidia_nemotron_nano_9b_v2_base
 - **Source**: 
 
 ## nvidia/NVIDIA-Nemotron-Nano-9B-v2-FP8
@@ -2344,8 +2496,16 @@
 - **ID**: model_obliteratus_qwen3_6_27b_obliterated
 - **Source**: 
 
+## ocicek/Qwen3.6-27B-NVFP4
+- **ID**: model_ocicek_qwen3_6_27b_nvfp4
+- **Source**: 
+
 ## omni-research/Tarsier-7b
 - **ID**: model_omni_research_tarsier_7b
+- **Source**: 
+
+## open-thoughts/OpenThinker3-7B
+- **ID**: model_open_thoughts_openthinker3_7b
 - **Source**: 
 
 ## openai-community/gpt2
@@ -2400,8 +2560,16 @@
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
 
+## OpenLLM-France/Lucie-7B-Instruct-v1.1
+- **ID**: model_openllm_france_lucie_7b_instruct_v1_1
+- **Source**: 
+
 ## OpenPipe/Qwen3-14B-Instruct
 - **ID**: model_openpipe_qwen3_14b_instruct
+- **Source**: 
+
+## OptimizeLLM/Qwen3.5-122B-A10B-heretic-MTP-NVFP4
+- **ID**: model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4
 - **Source**: 
 
 ## optimum-intel-internal-testing/opt-125m
@@ -2438,6 +2606,10 @@
 
 ## parasail-ai/GritLM-7B-vllm
 - **ID**: model_parasail_ai_gritlm_7b_vllm
+- **Source**: 
+
+## pbatra/DeepSeek-R1-Distill-Qwen-14B-GGUF
+- **ID**: model_pbatra_deepseek_r1_distill_qwen_14b_gguf
 - **Source**: 
 
 ## pearl-ai/Llama-3.1-8B-Instruct-pearl
@@ -2492,6 +2664,10 @@
 - **ID**: model_prism_ml_bonsai_8b_gguf
 - **Source**: 
 
+## prometheus-eval/prometheus-7b-v2.0
+- **ID**: model_prometheus_eval_prometheus_7b_v2_0
+- **Source**: 
+
 ## QuantTrio/DeepSeek-V3.2-AWQ
 - **ID**: model_quanttrio_deepseek_v3_2_awq
 - **Source**: 
@@ -2502,6 +2678,10 @@
 
 ## QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ
 - **ID**: model_quanttrio_qwen3_vl_30b_a3b_instruct_awq
+- **Source**: 
+
+## QuantTrio/Qwen3-VL-30B-A3B-Thinking-AWQ
+- **ID**: model_quanttrio_qwen3_vl_30b_a3b_thinking_awq
 - **Source**: 
 
 ## Qwen/Qwen1.5-0.5B
@@ -2690,6 +2870,14 @@
 
 ## Qwen/Qwen2.5-7B-Instruct-GPTQ-Int4
 - **ID**: model_qwen_qwen2_5_7b_instruct_gptq_int4
+- **Source**: 
+
+## Qwen/Qwen2.5-7B-Instruct-GPTQ-Int8
+- **ID**: model_qwen_qwen2_5_7b_instruct_gptq_int8
+- **Source**: 
+
+## Qwen/Qwen2.5-Coder-0.5B
+- **ID**: model_qwen_qwen2_5_coder_0_5b
 - **Source**: 
 
 ## Qwen/Qwen2.5-Coder-0.5B-Instruct
@@ -2992,6 +3180,10 @@
 - **ID**: model_qwen_qwen3_coder_30b_a3b_instruct_fp8
 - **Source**: 
 
+## Qwen/Qwen3-Coder-480B-A35B-Instruct
+- **ID**: model_qwen_qwen3_coder_480b_a35b_instruct
+- **Source**: 
+
 ## Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
 - **ID**: model_qwen_qwen3_coder_480b_a35b_instruct_fp8
 - **Source**: 
@@ -3132,6 +3324,10 @@
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
 - **Source**: 
 
+## RedHatAI/phi-4-quantized.w4a16
+- **ID**: model_redhatai_phi_4_quantized_w4a16
+- **Source**: 
+
 ## RedHatAI/Qwen2-1.5B-Instruct-FP8
 - **ID**: model_redhatai_qwen2_1_5b_instruct_fp8
 - **Source**: 
@@ -3154,6 +3350,10 @@
 
 ## RedHatAI/Qwen3-30B-A3B-NVFP4
 - **ID**: model_redhatai_qwen3_30b_a3b_nvfp4
+- **Source**: 
+
+## RedHatAI/Qwen3-30B-A3B-quantized.w4a16
+- **ID**: model_redhatai_qwen3_30b_a3b_quantized_w4a16
 - **Source**: 
 
 ## RedHatAI/Qwen3-8B-FP8-dynamic
@@ -3192,6 +3392,10 @@
 - **ID**: model_roneneldan_tinystories_1m
 - **Source**: 
 
+## S4nfs/Neeto-1.0-8b
+- **ID**: model_s4nfs_neeto_1_0_8b
+- **Source**: 
+
 ## sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP
 - **ID**: model_sakamakismile_huihui_qwen3_6_27b_abliterated_nvfp4_mtp
 - **Source**: 
@@ -3206,6 +3410,10 @@
 
 ## Salesforce/ctrl
 - **ID**: model_salesforce_ctrl
+- **Source**: 
+
+## SanctumAI/gemma-2-9b-it-GGUF
+- **ID**: model_sanctumai_gemma_2_9b_it_gguf
 - **Source**: 
 
 ## SanctumAI/Meta-Llama-3.1-8B-Instruct-GGUF
@@ -3226,6 +3434,10 @@
 
 ## scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10
 - **ID**: model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10
+- **Source**: 
+
+## shibing624/macbert4csc-base-chinese
+- **ID**: model_shibing624_macbert4csc_base_chinese
 - **Source**: 
 
 ## skt/A.X-K1
@@ -3266,6 +3478,10 @@
 
 ## stabilityai/stablelm-3b-4e1t
 - **ID**: model_stabilityai_stablelm_3b_4e1t
+- **Source**: 
+
+## stabilityai/stablelm-zephyr-3b
+- **ID**: model_stabilityai_stablelm_zephyr_3b
 - **Source**: 
 
 ## state-spaces/mamba-130m-hf
@@ -3344,6 +3560,10 @@
 - **ID**: model_thebloke_llama_2_7b_chat_gguf
 - **Source**: 
 
+## TheBloke/Llama-2-7B-Chat-GPTQ
+- **ID**: model_thebloke_llama_2_7b_chat_gptq
+- **Source**: 
+
 ## TheBloke/Mistral-7B-Instruct-v0.1-GGUF
 - **ID**: model_thebloke_mistral_7b_instruct_v0_1_gguf
 - **Source**: 
@@ -3354,6 +3574,10 @@
 
 ## TheBloke/Mistral-7B-Instruct-v0.2-GGUF
 - **ID**: model_thebloke_mistral_7b_instruct_v0_2_gguf
+- **Source**: 
+
+## TheBloke/OpenHermes-2.5-Mistral-7B-AWQ
+- **ID**: model_thebloke_openhermes_2_5_mistral_7b_awq
 - **Source**: 
 
 ## TheBloke/TinyLlama-1.1B-Chat-v0.3-AWQ
@@ -3422,6 +3646,10 @@
 
 ## TrevorJS/gemma-4-26B-A4B-it-uncensored
 - **ID**: model_trevorjs_gemma_4_26b_a4b_it_uncensored
+- **Source**: 
+
+## TrevorJS/gemma-4-E2B-it-uncensored-GGUF
+- **ID**: model_trevorjs_gemma_4_e2b_it_uncensored_gguf
 - **Source**: 
 
 ## trl-internal-testing/dummy-GPT2-correct-vocab
@@ -3544,6 +3772,10 @@
 - **ID**: model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf
 - **Source**: 
 
+## tvall43/Qwen3.6-14B-A3B-VibeForged-v2-GGUF
+- **ID**: model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf
+- **Source**: 
+
 ## txn545/Qwen3.5-122B-A10B-NVFP4
 - **ID**: model_txn545_qwen3_5_122b_a10b_nvfp4
 - **Source**: 
@@ -3576,6 +3808,10 @@
 - **ID**: model_unsloth_gemma_2_2b_it_bnb_4bit
 - **Source**: 
 
+## unsloth/gemma-2-9b-it
+- **ID**: model_unsloth_gemma_2_9b_it
+- **Source**: 
+
 ## unsloth/gemma-3-1b-it
 - **ID**: model_unsloth_gemma_3_1b_it
 - **Source**: 
@@ -3600,8 +3836,16 @@
 - **ID**: model_unsloth_glm_4_7_flash_gguf
 - **Source**: 
 
+## unsloth/GLM-4.7-Flash-REAP-23B-A3B-GGUF
+- **ID**: model_unsloth_glm_4_7_flash_reap_23b_a3b_gguf
+- **Source**: 
+
 ## unsloth/GLM-5.1-GGUF
 - **ID**: model_unsloth_glm_5_1_gguf
+- **Source**: 
+
+## unsloth/GLM-5.2-GGUF
+- **ID**: model_unsloth_glm_5_2_gguf
 - **Source**: 
 
 ## unsloth/gpt-oss-120b
@@ -3634,6 +3878,10 @@
 
 ## unsloth/Llama-3.1-8B-Instruct
 - **ID**: model_unsloth_llama_3_1_8b_instruct
+- **Source**: 
+
+## unsloth/Llama-3.1-8B-Instruct-bnb-4bit
+- **ID**: model_unsloth_llama_3_1_8b_instruct_bnb_4bit
 - **Source**: 
 
 ## unsloth/Llama-3.2-1B
@@ -3720,6 +3968,10 @@
 - **ID**: model_unsloth_qwen2_5_0_5b_unsloth_bnb_4bit
 - **Source**: 
 
+## unsloth/Qwen2.5-14B-Instruct
+- **ID**: model_unsloth_qwen2_5_14b_instruct
+- **Source**: 
+
 ## unsloth/Qwen2.5-14B-Instruct-bnb-4bit
 - **ID**: model_unsloth_qwen2_5_14b_instruct_bnb_4bit
 - **Source**: 
@@ -3748,6 +4000,10 @@
 - **ID**: model_unsloth_qwen2_5_3b_instruct_unsloth_bnb_4bit
 - **Source**: 
 
+## unsloth/Qwen2.5-7B-bnb-4bit
+- **ID**: model_unsloth_qwen2_5_7b_bnb_4bit
+- **Source**: 
+
 ## unsloth/Qwen2.5-7B-Instruct
 - **ID**: model_unsloth_qwen2_5_7b_instruct
 - **Source**: 
@@ -3758,6 +4014,10 @@
 
 ## unsloth/Qwen2.5-7B-Instruct-unsloth-bnb-4bit
 - **ID**: model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit
+- **Source**: 
+
+## unsloth/Qwen2.5-Coder-14B-Instruct-bnb-4bit
+- **ID**: model_unsloth_qwen2_5_coder_14b_instruct_bnb_4bit
 - **Source**: 
 
 ## unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit
@@ -3852,12 +4112,20 @@
 - **ID**: model_vamsi_t5_paraphrase_paws
 - **Source**: 
 
+## vectionlabs/VL-1-Coder
+- **ID**: model_vectionlabs_vl_1_coder
+- **Source**: 
+
 ## vicgalle/Humanish-Roleplay-Llama-3.1-8B
 - **ID**: model_vicgalle_humanish_roleplay_llama_3_1_8b
 - **Source**: 
 
 ## vikhyatk/moondream2
 - **ID**: model_vikhyatk_moondream2
+- **Source**: 
+
+## Virtue-AI-HUB/VulnLLM-R-7B
+- **ID**: model_virtue_ai_hub_vulnllm_r_7b
 - **Source**: 
 
 ## Vishva007/gemma-4-E4B-it-W4A16-AutoRound-GPTQ
@@ -3870,6 +4138,10 @@
 
 ## voyageai/voyage-4-nano
 - **ID**: model_voyageai_voyage_4_nano
+- **Source**: 
+
+## w-ahmad/LFM2.5-8B-A1B-GGUF-MoQ
+- **ID**: model_w_ahmad_lfm2_5_8b_a1b_gguf_moq
 - **Source**: 
 
 ## w-ahmad/Qwopus3.5-9B-Coder-MTP-GGUF-MoQ
@@ -3920,6 +4192,14 @@
 - **ID**: model_yuhuili_eagle_llama3_instruct_8b
 - **Source**: 
 
+## yujiepan/llama-2-tiny-random
+- **ID**: model_yujiepan_llama_2_tiny_random
+- **Source**: 
+
+## yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF
+- **ID**: model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1_gguf
+- **Source**: 
+
 ## yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF
 - **ID**: model_yuxinlu1_gemma_4_12b_it_claude_4_6_4_8_opus_gguf
 - **Source**: 
@@ -3952,6 +4232,10 @@
 - **ID**: model_zai_org_glm_4_5_air
 - **Source**: 
 
+## zai-org/GLM-4.5-Air-FP8
+- **ID**: model_zai_org_glm_4_5_air_fp8
+- **Source**: 
+
 ## zai-org/GLM-4.7
 - **ID**: model_zai_org_glm_4_7
 - **Source**: 
@@ -3974,6 +4258,10 @@
 
 ## zai-org/GLM-5.1-FP8
 - **ID**: model_zai_org_glm_5_1_fp8
+- **Source**: 
+
+## zai-org/GLM-5.2-FP8
+- **ID**: model_zai_org_glm_5_2_fp8
 - **Source**: 
 
 ## zai-org/GLM-5-FP8

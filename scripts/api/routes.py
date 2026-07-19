@@ -11,8 +11,8 @@ Operates entirely via the deterministic QueryEngine.
 """
 import json
 from urllib.parse import urlparse, parse_qs
-from scripts.lib.query_engine import QueryEngine
-from scripts.lib.logger import setup_logger
+from core.query_engine import QueryEngine
+from core.logger import setup_logger
 from scripts.api.serializers import serialize_response
 
 logger = setup_logger("api_routes")

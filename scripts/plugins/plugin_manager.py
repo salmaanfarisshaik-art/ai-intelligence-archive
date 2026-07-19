@@ -5,7 +5,7 @@ Plugin failures are logged but never interrupt the main pipeline.
 from typing import Dict, Any, List
 from scripts.plugins.plugin_registry import plugin_registry
 from scripts.plugins.base_plugin import BasePlugin
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("plugin_manager")
 

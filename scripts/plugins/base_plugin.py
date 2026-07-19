@@ -7,7 +7,7 @@ or interfere with atomic persistence.
 """
 from abc import ABC, abstractmethod
 from typing import Dict, Any, Optional
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("base_plugin")
 

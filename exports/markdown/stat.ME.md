@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13629v1](http://arxiv.org/abs/2606.13629v1)
 
+## Statistical Foundations of LLM-based A/B Testing: A Surrogacy Framework for Human Causal Inference
+- **ID**: arxiv_2606.17165v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17165v2](http://arxiv.org/abs/2606.17165v2)
+

@@ -221,6 +221,7 @@
 - **ID**: hf_EleutherAI_pythia-70m-deduped
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/EleutherAI/pythia-70m-deduped](https://huggingface.co/EleutherAI/pythia-70m-deduped)
+- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/the_pile_deduplicated, deploy:azure, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## GSAI-ML/LLaDA-1.5
 - **ID**: hf_GSAI-ML_LLaDA-1.5
@@ -311,6 +312,7 @@
 - **ID**: hf_HuggingFaceTB_SmolLM2-135M-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-135M-Instruct)
+- **Tags**: arxiv:2502.02737, base_model:HuggingFaceTB/SmolLM2-135M, base_model:quantized:HuggingFaceTB/SmolLM2-135M, conversational, en, endpoints_compatible, license:apache-2.0, llama, onnx, region:us, safetensors, tensorboard, text-generation, text-generation-inference, transformers, transformers.js
 
 ## HuggingFaceTB/SmolLM2-360M
 - **ID**: hf_HuggingFaceTB_SmolLM2-360M
@@ -1053,6 +1055,7 @@
 - **ID**: hf_Qwen_Qwen2.5-1.5B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct)
+- **Tags**: arxiv:2407.10671, base_model:Qwen/Qwen2.5-1.5B, base_model:finetune:Qwen/Qwen2.5-1.5B, chat, conversational, deploy:azure, en, endpoints_compatible, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen2.5-1.5B-Instruct-AWQ
 - **ID**: hf_Qwen_Qwen2.5-1.5B-Instruct-AWQ
@@ -1169,6 +1172,7 @@
 - **ID**: hf_Qwen_Qwen2.5-7B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
+- **Tags**: arxiv:2309.00071, arxiv:2407.10671, base_model:Qwen/Qwen2.5-7B, base_model:finetune:Qwen/Qwen2.5-7B, chat, conversational, deploy:azure, en, endpoints_compatible, eval-results, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen2.5-7B-Instruct-1M
 - **ID**: hf_Qwen_Qwen2.5-7B-Instruct-1M
@@ -1361,11 +1365,13 @@
 - **ID**: hf_Qwen_Qwen3-14B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B)
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-14B-AWQ
 - **ID**: hf_Qwen_Qwen3-14B-AWQ
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-14B-AWQ](https://huggingface.co/Qwen/Qwen3-14B-AWQ)
+- **Tags**: 4-bit, arxiv:2309.00071, arxiv:2505.09388, awq, base_model:Qwen/Qwen3-14B, base_model:quantized:Qwen/Qwen3-14B, conversational, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-14B-Base
 - **ID**: hf_Qwen_Qwen3-14B-Base
@@ -1416,7 +1422,7 @@
 - **ID**: hf_Qwen_Qwen3-30B-A3B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, endpoints_compatible, license:apache-2.0, region:us, safetensors, text-generation, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, conversational, endpoints_compatible, license:apache-2.0, qwen3_moe, region:us, safetensors, text-generation, transformers
 
 ## Qwen/Qwen3-30B-A3B-Base
 - **ID**: hf_Qwen_Qwen3-30B-A3B-Base
@@ -1473,7 +1479,7 @@
 - **ID**: hf_Qwen_Qwen3-4B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, deploy:azure, endpoints_compatible, license:apache-2.0, region:us, safetensors, text-generation, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-4B-AWQ
 - **ID**: hf_Qwen_Qwen3-4B-AWQ
@@ -1525,7 +1531,7 @@
 - **ID**: hf_Qwen_Qwen3-8B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-8B-Base, base_model:finetune:Qwen/Qwen3-8B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-8B-Base, base_model:finetune:Qwen/Qwen3-8B-Base, conversational, deploy:azure, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-8B-AWQ
 - **ID**: hf_Qwen_Qwen3-8B-AWQ
@@ -1571,6 +1577,7 @@
 - **ID**: hf_Qwen_Qwen3-Coder-Next-FP8
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8](https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8)
+- **Tags**: conversational, deploy:azure, endpoints_compatible, fp8, license:apache-2.0, qwen3_next, region:us, safetensors, text-generation, transformers
 
 ## Qwen/Qwen3-Next-80B-A3B-Instruct
 - **ID**: hf_Qwen_Qwen3-Next-80B-A3B-Instruct
@@ -1591,16 +1598,6 @@
 - **ID**: hf_Qwen_Qwen3-Next-80B-A3B-Thinking-GGUF
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking-GGUF](https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking-GGUF)
-
-## Qwen/Qwen3-Reranker-0.6B
-- **ID**: hf_Qwen_Qwen3-Reranker-0.6B
-- **Source**: Hugging Face
-- **URL**: [https://huggingface.co/Qwen/Qwen3-Reranker-0.6B](https://huggingface.co/Qwen/Qwen3-Reranker-0.6B)
-
-## Qwen/Qwen3-Reranker-4B
-- **ID**: hf_Qwen_Qwen3-Reranker-4B
-- **Source**: Hugging Face
-- **URL**: [https://huggingface.co/Qwen/Qwen3-Reranker-4B](https://huggingface.co/Qwen/Qwen3-Reranker-4B)
 
 ## Qwen/Qwen3-Reranker-8B
 - **ID**: hf_Qwen_Qwen3-Reranker-8B
@@ -2032,7 +2029,7 @@
 - **ID**: hf_antirez_deepseek-v4-gguf
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/antirez/deepseek-v4-gguf](https://huggingface.co/antirez/deepseek-v4-gguf)
-- **Tags**: 2-bit, 4-bit, apple-silicon, base_model:deepseek-ai/DeepSeek-V4-Flash, base_model:quantized:deepseek-ai/DeepSeek-V4-Flash, conversational, deepseek, deepseek-v4, deepseek-v4-flash, ds4, en, endpoints_compatible, gguf, iq2_xxs, license:mit, metal, mixture-of-experts, moe, q2_k, q4_k, quantized, region:us, text-generation
+- **Tags**: 2-bit, 4-bit, apple-silicon, base_model:deepseek-ai/DeepSeek-V4-Flash, base_model:quantized:deepseek-ai/DeepSeek-V4-Flash, deepseek, deepseek-v4, deepseek-v4-flash, ds4, en, gguf, iq2_xxs, license:mit, metal, mixture-of-experts, moe, q2_k, q4_k, quantized, region:us, text-generation
 
 ## apple/OpenELM-1_1B-Instruct
 - **ID**: hf_apple_OpenELM-1_1B-Instruct
@@ -2389,6 +2386,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B](https://huggingface.co/deepcogito/cogito-v1-preview-qwen-32B)
 
+## deepreinforce-ai/Ornith-1.0-9B-GGUF
+- **ID**: hf_deepreinforce-ai_Ornith-1.0-9B-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF)
+- **Tags**: conversational, endpoints_compatible, gguf, license:mit, region:us, text-generation, transformers
+
 ## deepseek-ai/DeepSeek-Coder-V2-Lite-Instruct
 - **ID**: hf_deepseek-ai_DeepSeek-Coder-V2-Lite-Instruct
 - **Source**: Hugging Face
@@ -2410,6 +2413,7 @@
 - **ID**: hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B)
+- **Tags**: arxiv:2501.12948, conversational, endpoints_compatible, license:mit, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## deepseek-ai/DeepSeek-R1-Distill-Llama-70B
 - **ID**: hf_deepseek-ai_DeepSeek-R1-Distill-Llama-70B
@@ -2476,7 +2480,7 @@
 - **ID**: hf_deepseek-ai_DeepSeek-V4-Flash
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
-- **Tags**: 8-bit, conversational, deepseek_v4, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
+- **Tags**: 8-bit, arxiv:2606.19348, conversational, deepseek_v4, deploy:azure, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
 
 ## deepseek-ai/DeepSeek-V4-Pro
 - **ID**: hf_deepseek-ai_DeepSeek-V4-Pro
@@ -2621,6 +2625,12 @@
 - **ID**: hf_farbodtavakkoli_OTel-LLM-8.3B-IT
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-8.3B-IT)
+
+## farbodtavakkoli/OTel-LLM-E4B-IT
+- **ID**: hf_farbodtavakkoli_OTel-LLM-E4B-IT
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT](https://huggingface.co/farbodtavakkoli/OTel-LLM-E4B-IT)
+- **Tags**: base_model:finetune:google/gemma-4-E4B-it, base_model:google/gemma-4-E4B-it, conversational, dataset:farbodtavakkoli/OTel-LLM, en, fine-tuned, full-parameter-fine-tuning, gemma4, gsma, license:apache-2.0, pytorch, rag, region:us, telecom, telecommunications, text-generation
 
 ## ggml-org/stories15M_MOE
 - **ID**: hf_ggml-org_stories15M_MOE
@@ -2899,6 +2909,12 @@
 - **ID**: hf_ibm-granite_granite-4.1-3b
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/ibm-granite/granite-4.1-3b](https://huggingface.co/ibm-granite/granite-4.1-3b)
+
+## ibm-granite/granite-4.1-8b
+- **ID**: hf_ibm-granite_granite-4.1-8b
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/ibm-granite/granite-4.1-8b](https://huggingface.co/ibm-granite/granite-4.1-8b)
+- **Tags**: arxiv:0000.00000, conversational, deploy:azure, endpoints_compatible, eval-results, granite, granite-4.1, language, license:apache-2.0, region:us, safetensors, text-generation, transformers
 
 ## ibm-granite/granite-docling-258M
 - **ID**: hf_ibm-granite_granite-docling-258M
@@ -3416,6 +3432,7 @@
 - **ID**: hf_meta-llama_Llama-3.2-1B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
+- **Tags**: arxiv:2204.05149, arxiv:2405.16406, conversational, de, en, endpoints_compatible, es, eval-results, facebook, fr, hi, it, license:llama3.2, llama, llama-3, meta, pt, pytorch, region:us, safetensors, text-generation, text-generation-inference, th, transformers
 
 ## meta-llama/Llama-3.2-3B
 - **ID**: hf_meta-llama_Llama-3.2-3B
@@ -3767,7 +3784,7 @@
 - **ID**: hf_nvidia_Gemma-4-31B-IT-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4)
-- **Tags**: Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:finetune:google/gemma-4-31B-it, base_model:google/gemma-4-31B-it, deploy:azure, license:other, lighthouse, nvidia, quantized, region:us, safetensors, text-generation
+- **Tags**: Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:google/gemma-4-31B-it, base_model:quantized:google/gemma-4-31B-it, conversational, deploy:azure, gemma4, license:other, lighthouse, modelopt, nvidia, quantized, region:us, safetensors, text-generation
 
 ## nvidia/Kimi-K2.5-NVFP4
 - **ID**: hf_nvidia_Kimi-K2.5-NVFP4
@@ -3853,6 +3870,7 @@
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4)
+- **Tags**: 8-bit, arxiv:2512.20848, arxiv:2512.20856, conversational, custom_code, dataset:nvidia/nemotron-post-training-v3, dataset:nvidia/nemotron-pre-training-datasets, de, en, endpoints_compatible, es, fr, it, ja, latent-moe, license:other, modelopt, mtp, nemotron-3, nemotron_h, nvidia, pytorch, region:us, safetensors, text-generation, transformers, zh
 
 ## nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16
@@ -3968,6 +3986,7 @@
 - **ID**: hf_nvidia_Qwen3.6-35B-A3B-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4)
+- **Tags**: 8-bit, FP4, Model Optimizer, ModelOpt, Qwen3.6, base_model:Qwen/Qwen3.6-35B-A3B, base_model:quantized:Qwen/Qwen3.6-35B-A3B, conversational, deploy:azure, fp4, license:apache-2.0, modelopt, nvidia, quantized, qwen3_5_moe, region:us, safetensors, text-generation
 
 ## nvidia/diffusiongemma-26B-A4B-it-NVFP4
 - **ID**: hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4
@@ -4980,6 +4999,7 @@
 - **ID**: hf_zai-org_GLM-4.7-Flash
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/zai-org/GLM-4.7-Flash](https://huggingface.co/zai-org/GLM-4.7-Flash)
+- **Tags**: arxiv:2508.06471, conversational, deploy:azure, en, endpoints_compatible, eval-results, glm4_moe_lite, license:mit, region:us, safetensors, text-generation, transformers, zh
 
 ## zai-org/GLM-5
 - **ID**: hf_zai-org_GLM-5
@@ -4990,6 +5010,7 @@
 - **ID**: hf_zai-org_GLM-5-FP8
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/zai-org/GLM-5-FP8](https://huggingface.co/zai-org/GLM-5-FP8)
+- **Tags**: arxiv:2602.15763, conversational, en, endpoints_compatible, eval-results, fp8, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
 
 ## zai-org/GLM-5.1
 - **ID**: hf_zai-org_GLM-5.1
@@ -5000,6 +5021,12 @@
 - **ID**: hf_zai-org_GLM-5.1-FP8
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/zai-org/GLM-5.1-FP8](https://huggingface.co/zai-org/GLM-5.1-FP8)
+
+## zai-org/GLM-5.2-FP8
+- **ID**: hf_zai-org_GLM-5.2-FP8
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/zai-org/GLM-5.2-FP8](https://huggingface.co/zai-org/GLM-5.2-FP8)
+- **Tags**: arxiv:2602.15763, arxiv:2603.12201, conversational, deploy:azure, en, endpoints_compatible, fp8, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
 
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 - **ID**: hf_zdy1995love_Mistral-Medium-3.5-128B-NVFP4

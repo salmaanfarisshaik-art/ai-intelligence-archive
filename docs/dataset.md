@@ -14,6 +14,7 @@
 | [abisee/cnn_dailymail](https://huggingface.co/datasets/abisee/cnn_dailymail) | Hugging Face |  | 0 |
 | [Abtinzandi/Obstacle-Detection-Dataset-YOLO](https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO) | Hugging Face |  | 0 |
 | [ACCC1380/private-model](https://huggingface.co/datasets/ACCC1380/private-model) | Hugging Face |  | 0 |
+| [ad1t7a/10Kh-RealOmin-OpenData](https://huggingface.co/datasets/ad1t7a/10Kh-RealOmin-OpenData) | HuggingFace Datasets | agent, dual-arm, language:en, language:zh, license:cc-by-sa-4.0 | 1 |
 | [ad1t7a/10Kh-RealOmin-OpenData](https://huggingface.co/datasets/ad1t7a/10Kh-RealOmin-OpenData) | Hugging Face |  | 0 |
 | [adadai3132/PanoHK360](https://huggingface.co/datasets/adadai3132/PanoHK360) | Hugging Face |  | 0 |
 | [adams-story/datacomp200m](https://huggingface.co/datasets/adams-story/datacomp200m) | Hugging Face |  | 0 |
@@ -21,6 +22,7 @@
 | [ADSKAILab/Zero-To-CAD-1m](https://huggingface.co/datasets/ADSKAILab/Zero-To-CAD-1m) | Hugging Face |  | 0 |
 | [agents-course/course-images](https://huggingface.co/datasets/agents-course/course-images) | HuggingFace Datasets | format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us | 0 |
 | [agents-course/course-images](https://huggingface.co/datasets/agents-course/course-images) | Hugging Face |  | 0 |
+| [agibot-world/AgiBotWorld-Beta](https://huggingface.co/datasets/agibot-world/AgiBotWorld-Beta) | HuggingFace Datasets | Robotics manipulation, dual-arm, format:webdataset, language:en, library:datasets | 1 |
 | [agibot-world/AgiBotWorld-Beta](https://huggingface.co/datasets/agibot-world/AgiBotWorld-Beta) | Hugging Face |  | 0 |
 | [agibot-world/AgiBotWorld2026](https://huggingface.co/datasets/agibot-world/AgiBotWorld2026) | Hugging Face |  | 0 |
 | [agkphysics/AudioSet](https://huggingface.co/datasets/agkphysics/AudioSet) | Hugging Face |  | 0 |
@@ -29,6 +31,7 @@
 | [AI-MO/aimo-validation-aime](https://huggingface.co/datasets/AI-MO/aimo-validation-aime) | Hugging Face |  | 0 |
 | [AI-MO/NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT) | Hugging Face |  | 0 |
 | [AI-MO/olympiads](https://huggingface.co/datasets/AI-MO/olympiads) | Hugging Face |  | 0 |
+| [AiEDA/iDATA](https://huggingface.co/datasets/AiEDA/iDATA) | HuggingFace Datasets | AI + EDA dataset, license:gpl, region:us, skywater130 process | 1 |
 | [AiEDA/iDATA](https://huggingface.co/datasets/AiEDA/iDATA) | Hugging Face |  | 0 |
 | [AIencoder/llama-cpp-wheels](https://huggingface.co/datasets/AIencoder/llama-cpp-wheels) | Hugging Face |  | 0 |
 | [ailsntua/Chordonomicon](https://huggingface.co/datasets/ailsntua/Chordonomicon) | Hugging Face |  | 0 |
@@ -44,6 +47,7 @@
 | [AlgorithmicResearchGroup/arxiv_s2orc_parsed](https://huggingface.co/datasets/AlgorithmicResearchGroup/arxiv_s2orc_parsed) | Hugging Face |  | 0 |
 | [AlgorithmicResearchGroup/s2orc_arxiv](https://huggingface.co/datasets/AlgorithmicResearchGroup/s2orc_arxiv) | Hugging Face |  | 0 |
 | [aliasfox/srtm30m-merged](https://huggingface.co/datasets/aliasfox/srtm30m-merged) | Hugging Face |  | 0 |
+| [aline-gassenn/MedDialog-Audio](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio) | HuggingFace Datasets | doi:10.57967/hf/5889, language:en, license:cc-by-nc-4.0, medical, region:us | 1 |
 | [allenai/ai2_arc](https://huggingface.co/datasets/allenai/ai2_arc) | Hugging Face |  | 0 |
 | [allenai/c4](https://huggingface.co/datasets/allenai/c4) | HuggingFace Datasets | annotations_creators:no-annotation, arxiv:1910.10683, language:af, language:am, language:ar | 1 |
 | [allenai/c4](https://huggingface.co/datasets/allenai/c4) | Hugging Face |  | 0 |
@@ -70,6 +74,8 @@
 | [andyvhuynh/NatureMultiView](https://huggingface.co/datasets/andyvhuynh/NatureMultiView) | Hugging Face |  | 0 |
 | [Angelou0516/PI-CAI](https://huggingface.co/datasets/Angelou0516/PI-CAI) | Hugging Face |  | 0 |
 | [Angelou0516/TCIA_CervicalCancer](https://huggingface.co/datasets/Angelou0516/TCIA_CervicalCancer) | Hugging Face |  | 0 |
+| [angie-chen55/python-github-code](https://huggingface.co/datasets/angie-chen55/python-github-code) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 0 |
+| [anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized) | HuggingFace Datasets | arxiv:2406.17557, language:en, license:odc-by, modality:tabular, modality:text | 1 |
 | [anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized) | Hugging Face |  | 0 |
 | [annon124816/browsecomp](https://huggingface.co/datasets/annon124816/browsecomp) | Hugging Face |  | 0 |
 | [anon8231489123/ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | HuggingFace Datasets | language:en, license:apache-2.0, region:us | 2 |
@@ -101,12 +107,14 @@
 | [ArmelR/the-pile-splitted](https://huggingface.co/datasets/ArmelR/the-pile-splitted) | Hugging Face |  | 0 |
 | [arsaporta/symile-m3](https://huggingface.co/datasets/arsaporta/symile-m3) | Hugging Face |  | 0 |
 | [ARTPARK-IISc/Vaani](https://huggingface.co/datasets/ARTPARK-IISc/Vaani) | Hugging Face |  | 0 |
+| [artur-muratov/multilingual-speech-commands-15lang](https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang) | HuggingFace Datasets | arxiv:1804.03209, audio, augmentation, dataset, format:text | 1 |
 | [artur-muratov/multilingual-speech-commands-15lang](https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang) | Hugging Face |  | 0 |
 | [aryaniyaps/terminal-bench-2-leaderboard](https://huggingface.co/datasets/aryaniyaps/terminal-bench-2-leaderboard) | Hugging Face |  | 0 |
 | [ASGFDSgadsfgads/dave_sonar](https://huggingface.co/datasets/ASGFDSgadsfgads/dave_sonar) | Hugging Face |  | 0 |
 | [asoorazam/forgetest](https://huggingface.co/datasets/asoorazam/forgetest) | Hugging Face |  | 0 |
 | [atokforps/latent_v1_fullrun_alpha3_04](https://huggingface.co/datasets/atokforps/latent_v1_fullrun_alpha3_04) | Hugging Face |  | 0 |
 | [atokforps/latent_v1_fullrun_alpha3_06](https://huggingface.co/datasets/atokforps/latent_v1_fullrun_alpha3_06) | Hugging Face |  | 0 |
+| [atokforps/latent_worker_early-a2_00](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00) | HuggingFace Datasets | region:us | 0 |
 | [atokforps/latent_worker_early-a2_02](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_02) | Hugging Face |  | 0 |
 | [atokforps/latent_worker_early-a2_06](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_06) | Hugging Face |  | 0 |
 | [atom-in-the-universe/cc-doc-links](https://huggingface.co/datasets/atom-in-the-universe/cc-doc-links) | Hugging Face |  | 0 |
@@ -128,6 +136,7 @@
 | [banned-historical-archives/zhongyangribao](https://huggingface.co/datasets/banned-historical-archives/zhongyangribao) | Hugging Face |  | 0 |
 | [BarbaraXXX/re10k_torch](https://huggingface.co/datasets/BarbaraXXX/re10k_torch) | Hugging Face |  | 0 |
 | [bastao/VeraCruz_PT-BR](https://huggingface.co/datasets/bastao/VeraCruz_PT-BR) | Hugging Face |  | 0 |
+| [behavior-1k/2025-challenge-demos](https://huggingface.co/datasets/behavior-1k/2025-challenge-demos) | HuggingFace Datasets | ., 1, 2, LeRobot, arxiv:2403.09227 | 1 |
 | [behavior-1k/2025-challenge-demos](https://huggingface.co/datasets/behavior-1k/2025-challenge-demos) | Hugging Face |  | 0 |
 | [benjamin-paine/freesound-laion-640k](https://huggingface.co/datasets/benjamin-paine/freesound-laion-640k) | Hugging Face |  | 0 |
 | [Benjy/typed_digital_signatures](https://huggingface.co/datasets/Benjy/typed_digital_signatures) | HuggingFace Datasets | computer-vision, digital-signatures, google-fonts, handwriting, image-classification | 1 |
@@ -139,12 +148,14 @@
 | [bigcode/bigcodebench](https://huggingface.co/datasets/bigcode/bigcodebench) | Hugging Face |  | 0 |
 | [bigcode/commitpackft](https://huggingface.co/datasets/bigcode/commitpackft) | Hugging Face |  | 0 |
 | [bigcode/starcoderdata](https://huggingface.co/datasets/bigcode/starcoderdata) | Hugging Face |  | 0 |
+| [bigcode/the-stack-metadata](https://huggingface.co/datasets/bigcode/the-stack-metadata) | HuggingFace Datasets | arxiv:2211.15533, format:parquet, language:code, language_creators:crowdsourced, language_creators:expert-generated | 1 |
 | [bigscience/P3](https://huggingface.co/datasets/bigscience/P3) | Hugging Face |  | 0 |
 | [bigscience/xP3](https://huggingface.co/datasets/bigscience/xP3) | Hugging Face |  | 0 |
 | [bimilab/TeleopWM-Dataset](https://huggingface.co/datasets/bimilab/TeleopWM-Dataset) | Hugging Face |  | 0 |
 | [blanchon/opencs2_dataset](https://huggingface.co/datasets/blanchon/opencs2_dataset) | Hugging Face |  | 0 |
 | [blsmash044/SA-Med3D-140K](https://huggingface.co/datasets/blsmash044/SA-Med3D-140K) | Hugging Face |  | 0 |
 | [bluuebunny/arxiv_metadata_by_year](https://huggingface.co/datasets/bluuebunny/arxiv_metadata_by_year) | Hugging Face |  | 0 |
+| [boltzgen/inference-data](https://huggingface.co/datasets/boltzgen/inference-data) | HuggingFace Datasets | license:mit, region:us | 0 |
 | [boltzgen/inference-data](https://huggingface.co/datasets/boltzgen/inference-data) | Hugging Face |  | 0 |
 | [bop-benchmark/hot3d](https://huggingface.co/datasets/bop-benchmark/hot3d) | Hugging Face |  | 0 |
 | [Boqian-Li/WAM_Psi_Egodex_dataset](https://huggingface.co/datasets/Boqian-Li/WAM_Psi_Egodex_dataset) | Hugging Face |  | 0 |
@@ -195,6 +206,7 @@
 | [Cnam-LMSSC/vibravox](https://huggingface.co/datasets/Cnam-LMSSC/vibravox) | Hugging Face |  | 0 |
 | [coastalcph/lex_glue](https://huggingface.co/datasets/coastalcph/lex_glue) | Hugging Face |  | 0 |
 | [codeparrot/codeparrot-clean](https://huggingface.co/datasets/codeparrot/codeparrot-clean) | Hugging Face |  | 0 |
+| [codeparrot/github-code](https://huggingface.co/datasets/codeparrot/github-code) | HuggingFace Datasets | language:code, language_creators:crowdsourced, language_creators:expert-generated, license:other, multilinguality:multilingual | 0 |
 | [codeparrot/github-code](https://huggingface.co/datasets/codeparrot/github-code) | Hugging Face |  | 0 |
 | [cogsci13/Amazon-Reviews-2023-Books-Meta](https://huggingface.co/datasets/cogsci13/Amazon-Reviews-2023-Books-Meta) | Hugging Face |  | 0 |
 | [CohereLabs/aya_collection](https://huggingface.co/datasets/CohereLabs/aya_collection) | Hugging Face |  | 0 |
@@ -284,6 +296,7 @@
 | [EpicPinkPenguin/visual_distracting_metaworld](https://huggingface.co/datasets/EpicPinkPenguin/visual_distracting_metaworld) | Hugging Face |  | 0 |
 | [ErikCikalleshi/new_york_times_news_2000_2007](https://huggingface.co/datasets/ErikCikalleshi/new_york_times_news_2000_2007) | Hugging Face |  | 0 |
 | [eriktks/conll2003](https://huggingface.co/datasets/eriktks/conll2003) | Hugging Face |  | 0 |
+| [espnet/yodas](https://huggingface.co/datasets/espnet/yodas) | HuggingFace Datasets | arxiv:2406.00899, license:cc-by-3.0, region:us | 1 |
 | [espnet/yodas](https://huggingface.co/datasets/espnet/yodas) | Hugging Face |  | 0 |
 | [espnet/yodas-granary](https://huggingface.co/datasets/espnet/yodas-granary) | Hugging Face |  | 0 |
 | [espnet/yodas2](https://huggingface.co/datasets/espnet/yodas2) | Hugging Face |  | 0 |
@@ -364,12 +377,14 @@
 | [guyahaobjio5bdq/guyahaobjio5bdq](https://huggingface.co/datasets/guyahaobjio5bdq/guyahaobjio5bdq) | Hugging Face |  | 0 |
 | [Haddadin/komatsu-en-us-output](https://huggingface.co/datasets/Haddadin/komatsu-en-us-output) | Hugging Face |  | 0 |
 | [hails/mmlu_no_train](https://huggingface.co/datasets/hails/mmlu_no_train) | Hugging Face |  | 0 |
+| [hallucinations-leaderboard/results](https://huggingface.co/datasets/hallucinations-leaderboard/results) | HuggingFace Datasets | license:apache-2.0, region:us | 0 |
 | [hallucinations-leaderboard/results](https://huggingface.co/datasets/hallucinations-leaderboard/results) | Hugging Face |  | 0 |
 | [hamza-adnan/visual_distracting_metaworld_with_masks](https://huggingface.co/datasets/hamza-adnan/visual_distracting_metaworld_with_masks) | Hugging Face |  | 0 |
 | [Hangzhi98/parity-experiments](https://huggingface.co/datasets/Hangzhi98/parity-experiments) | Hugging Face |  | 0 |
 | [haofeixu/dl3dv-960p-chunks](https://huggingface.co/datasets/haofeixu/dl3dv-960p-chunks) | Hugging Face |  | 0 |
 | [harborframework/parity-experiments](https://huggingface.co/datasets/harborframework/parity-experiments) | Hugging Face |  | 0 |
 | [hardiksharma6555/forgespectrum-114k](https://huggingface.co/datasets/hardiksharma6555/forgespectrum-114k) | Hugging Face |  | 0 |
+| [hasankursun/github-code-2025-language-split](https://huggingface.co/datasets/hasankursun/github-code-2025-language-split) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 1 |
 | [HCAI-Lab/dolma3-6t-unique](https://huggingface.co/datasets/HCAI-Lab/dolma3-6t-unique) | Hugging Face |  | 0 |
 | [Helsinki-NLP/fineweb-edu-translated](https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated) | HuggingFace Datasets | format:parquet, language:bos, language:bul, language:cat, language:ces | 1 |
 | [Helsinki-NLP/fineweb-edu-translated](https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated) | Hugging Face |  | 0 |
@@ -394,6 +409,7 @@
 | [hf-internal-testing/imagefolder_with_metadata](https://huggingface.co/datasets/hf-internal-testing/imagefolder_with_metadata) | Hugging Face |  | 0 |
 | [hf-internal-testing/librispeech_asr_dummy](https://huggingface.co/datasets/hf-internal-testing/librispeech_asr_dummy) | Hugging Face |  | 0 |
 | [hf-internal-testing/multi_dir_dataset](https://huggingface.co/datasets/hf-internal-testing/multi_dir_dataset) | Hugging Face |  | 0 |
+| [hf-internal-testing/transformers_circleci_workflow_runs](https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs) | HuggingFace Datasets | region:us | 0 |
 | [hf-internal-testing/transformers_circleci_workflow_runs](https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs) | Hugging Face |  | 0 |
 | [hf-vision/course-assets](https://huggingface.co/datasets/hf-vision/course-assets) | Hugging Face |  | 0 |
 | [hiyouga/geometry3k](https://huggingface.co/datasets/hiyouga/geometry3k) | Hugging Face |  | 0 |
@@ -428,6 +444,7 @@
 | [HuggingFaceFW/finepdfs_lang_classification](https://huggingface.co/datasets/HuggingFaceFW/finepdfs_lang_classification) | Hugging Face |  | 0 |
 | [HuggingFaceFW/finephrase](https://huggingface.co/datasets/HuggingFaceFW/finephrase) | HuggingFace Datasets | SmolLM2-1.7B-Instruct, annotations_creators:machine-generated, datatrove, fineweb-edu, language:en | 1 |
 | [HuggingFaceFW/finephrase](https://huggingface.co/datasets/HuggingFaceFW/finephrase) | Hugging Face |  | 0 |
+| [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | HuggingFace Datasets | arxiv:2109.07445, arxiv:2306.01116, arxiv:2406.17557, doi:10.57967/hf/2493, language:en | 1 |
 | [HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) | Hugging Face |  | 0 |
 | [HuggingFaceFW/fineweb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) | Hugging Face |  | 0 |
 | [HuggingFaceFW/fineweb-edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu) | Hugging Face |  | 0 |
@@ -472,6 +489,7 @@
 | [IPEC-COMMUNITY/FastUMI_100k_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI_100k_lerobot) | Hugging Face |  | 0 |
 | [IPEC-COMMUNITY/fractal20220817_data_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/fractal20220817_data_lerobot) | Hugging Face |  | 0 |
 | [IPEC-COMMUNITY/kuka_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/kuka_lerobot) | Hugging Face |  | 0 |
+| [IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot) | HuggingFace Datasets | LeRobot, language_table, license:apache-2.0, openx, region:us | 1 |
 | [IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot) | Hugging Face |  | 0 |
 | [IPEC-COMMUNITY/OpenFly](https://huggingface.co/datasets/IPEC-COMMUNITY/OpenFly) | Hugging Face |  | 0 |
 | [isaacus/open-australian-legal-corpus](https://huggingface.co/datasets/isaacus/open-australian-legal-corpus) | HuggingFace Datasets | annotations_creators:no-annotation, australia, doi:10.57967/hf/2833, format:json, language:en | 1 |
@@ -498,8 +516,10 @@
 | [jdopensource/JoyAI-Image-OpenSpatial](https://huggingface.co/datasets/jdopensource/JoyAI-Image-OpenSpatial) | Hugging Face |  | 0 |
 | [jedibear/s2orc_full](https://huggingface.co/datasets/jedibear/s2orc_full) | Hugging Face |  | 0 |
 | [jescy525/crypto-multi-exchange](https://huggingface.co/datasets/jescy525/crypto-multi-exchange) | Hugging Face |  | 0 |
+| [jeyasuryaur/cricket-data-by-cricsheet](https://huggingface.co/datasets/jeyasuryaur/cricket-data-by-cricsheet) | HuggingFace Datasets | region:us | 1 |
 | [jeyasuryaur/cricket-data-by-cricsheet](https://huggingface.co/datasets/jeyasuryaur/cricket-data-by-cricsheet) | Hugging Face |  | 0 |
 | [jherng/malaysian-sign-language](https://huggingface.co/datasets/jherng/malaysian-sign-language) | Hugging Face |  | 0 |
+| [jhu-clsp/ettin-pretraining-data](https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data) | HuggingFace Datasets | arxiv:2507.11412, decoder, encoder, foundation-model, language-modeling | 1 |
 | [JianZhangAI/hoi4d-depth](https://huggingface.co/datasets/JianZhangAI/hoi4d-depth) | Hugging Face |  | 0 |
 | [Jiaxuannn/UN-Security-Council-Multilingual](https://huggingface.co/datasets/Jiaxuannn/UN-Security-Council-Multilingual) | Hugging Face |  | 0 |
 | [jinaai/documentation-images](https://huggingface.co/datasets/jinaai/documentation-images) | Hugging Face |  | 0 |
@@ -507,6 +527,7 @@
 | [jinxbye/LineageFlow-assets](https://huggingface.co/datasets/jinxbye/LineageFlow-assets) | Hugging Face |  | 0 |
 | [jobs-git/HPLT2.0_cleaned](https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned) | HuggingFace Datasets | language:ace, language:af, language:als, language:am, language:ar | 1 |
 | [jobs-git/HPLT2.0_cleaned](https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned) | Hugging Face |  | 0 |
+| [jobs-git/Zyda-2](https://huggingface.co/datasets/jobs-git/Zyda-2) | HuggingFace Datasets | language:en, license:odc-by, region:us, size_categories:n>1T, task_categories:text-generation | 1 |
 | [jobs-git/Zyda-2](https://huggingface.co/datasets/jobs-git/Zyda-2) | Hugging Face |  | 0 |
 | [joelniklaus/MultiLegalPile_Wikipedia_Filtered](https://huggingface.co/datasets/joelniklaus/MultiLegalPile_Wikipedia_Filtered) | Hugging Face |  | 0 |
 | [joey234/globaltrace](https://huggingface.co/datasets/joey234/globaltrace) | Hugging Face |  | 0 |
@@ -526,6 +547,7 @@
 | [jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset) | HuggingFace Datasets | region:us | 0 |
 | [jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset) | Hugging Face |  | 0 |
 | [JZSG/synth_dataset](https://huggingface.co/datasets/JZSG/synth_dataset) | Hugging Face |  | 0 |
+| [k9cli/video-vec2wav2-tokenizer](https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer) | HuggingFace Datasets | region:us | 1 |
 | [KAKA22/SpreadsheetBench](https://huggingface.co/datasets/KAKA22/SpreadsheetBench) | Hugging Face |  | 0 |
 | [KAKA22/SpreadsheetBench-v2](https://huggingface.co/datasets/KAKA22/SpreadsheetBench-v2) | Hugging Face |  | 0 |
 | [KakologArchives/KakologArchives](https://huggingface.co/datasets/KakologArchives/KakologArchives) | HuggingFace Datasets | language:ja, license:mit, region:us, task_categories:text-classification | 1 |
@@ -621,6 +643,7 @@
 | [maithuy1998/maithuy1998](https://huggingface.co/datasets/maithuy1998/maithuy1998) | Hugging Face |  | 0 |
 | [majestical1/DNS-Challenge](https://huggingface.co/datasets/majestical1/DNS-Challenge) | Hugging Face |  | 0 |
 | [malcolmrey/samples](https://huggingface.co/datasets/malcolmrey/samples) | Hugging Face |  | 0 |
+| [mamed0v/TurkmenSpeech](https://huggingface.co/datasets/mamed0v/TurkmenSpeech) | HuggingFace Datasets | language:tk, license:cc-by-nc-4.0, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition | 1 |
 | [mandarjoshi/trivia_qa](https://huggingface.co/datasets/mandarjoshi/trivia_qa) | Hugging Face |  | 0 |
 | [Mario123123/en-us-data-11](https://huggingface.co/datasets/Mario123123/en-us-data-11) | Hugging Face |  | 0 |
 | [Mario123123/en-us-data-with-images-placeholders-removed](https://huggingface.co/datasets/Mario123123/en-us-data-with-images-placeholders-removed) | Hugging Face |  | 0 |
@@ -653,6 +676,7 @@
 | [meta-agents-research-environments/gaia2](https://huggingface.co/datasets/meta-agents-research-environments/gaia2) | Hugging Face |  | 0 |
 | [meta-math/MetaMathQA](https://huggingface.co/datasets/meta-math/MetaMathQA) | Hugging Face |  | 0 |
 | [Metanova/Submission-Archive](https://huggingface.co/datasets/Metanova/Submission-Archive) | Hugging Face |  | 0 |
+| [mhaamh19/prophet-mosque-library](https://huggingface.co/datasets/mhaamh19/prophet-mosque-library) | HuggingFace Datasets | language:ar, license:mit, region:us, size_categories:10K<n<100K, task_categories:image-to-text | 1 |
 | [mhaamh19/prophet-mosque-library](https://huggingface.co/datasets/mhaamh19/prophet-mosque-library) | Hugging Face |  | 0 |
 | [microsoft/hnm-search-data](https://huggingface.co/datasets/microsoft/hnm-search-data) | Hugging Face |  | 0 |
 | [microsoft/ms_marco](https://huggingface.co/datasets/microsoft/ms_marco) | Hugging Face |  | 0 |
@@ -665,6 +689,7 @@
 | [mlfoundations/dclm-baseline-1.0](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0) | Hugging Face |  | 0 |
 | [mlfoundations/dclm-baseline-1.0-parquet](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0-parquet) | Hugging Face |  | 0 |
 | [mlfoundations/dclm-pool-7b-2x](https://huggingface.co/datasets/mlfoundations/dclm-pool-7b-2x) | Hugging Face |  | 0 |
+| [mlfoundations/MINT-1T-HTML](https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML) | HuggingFace Datasets | arxiv:2406.11271, format:parquet, language:en, library:dask, library:datasets | 1 |
 | [mlfoundations/MINT-1T-HTML](https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML) | Hugging Face |  | 0 |
 | [mlinhbng/viet-cultural-vqa](https://huggingface.co/datasets/mlinhbng/viet-cultural-vqa) | Hugging Face |  | 0 |
 | [MMInstruction/ArxivCap](https://huggingface.co/datasets/MMInstruction/ArxivCap) | Hugging Face |  | 0 |
@@ -677,16 +702,17 @@
 | [MrPigeon345/DoseRAD2026](https://huggingface.co/datasets/MrPigeon345/DoseRAD2026) | Hugging Face |  | 0 |
 | [MRSAudio/MRSAudio](https://huggingface.co/datasets/MRSAudio/MRSAudio) | Hugging Face |  | 0 |
 | [mteb/nfcorpus](https://huggingface.co/datasets/mteb/nfcorpus) | Hugging Face |  | 0 |
-| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | region:us | 0 |
+| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | format:optimized-parquet, format:parquet, library:dask, library:datasets, library:mlcroissant | 0 |
 | [mteb/results](https://huggingface.co/datasets/mteb/results) | Hugging Face |  | 0 |
 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | Hugging Face |  | 0 |
 | [mteb/stsbenchmark-sts](https://huggingface.co/datasets/mteb/stsbenchmark-sts) | Hugging Face |  | 0 |
+| [mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD) | HuggingFace Datasets | MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection | 1 |
 | [mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD) | Hugging Face |  | 0 |
 | [MultimodalUniverse/gaia](https://huggingface.co/datasets/MultimodalUniverse/gaia) | Hugging Face |  | 0 |
 | [MuteApo/RealCam-Vid](https://huggingface.co/datasets/MuteApo/RealCam-Vid) | Hugging Face |  | 0 |
 | [muybuenacuentajaja2/files](https://huggingface.co/datasets/muybuenacuentajaja2/files) | Hugging Face |  | 0 |
 | [mvp-lab/LLaVA-OneVision-1.5-Instruct-Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Instruct-Data) | Hugging Face |  | 0 |
-| [mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M) | HuggingFace Datasets | arxiv:2509.23661, format:parquet, library:dask, library:datasets, library:mlcroissant | 1 |
+| [mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M) | HuggingFace Datasets | arxiv:2509.23661, license:apache-2.0, region:us | 1 |
 | [mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M) | Hugging Face |  | 0 |
 | [mvp-lab/LLaVA-OneVision-2-Data](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data) | Hugging Face |  | 0 |
 | [Nancia/agriNet-dataset](https://huggingface.co/datasets/Nancia/agriNet-dataset) | Hugging Face |  | 0 |
@@ -750,6 +776,7 @@
 | [Open-Bee/Honey-Data-15M](https://huggingface.co/datasets/Open-Bee/Honey-Data-15M) | Hugging Face |  | 0 |
 | [open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news) | Hugging Face |  | 0 |
 | [open-index/open-github](https://huggingface.co/datasets/open-index/open-github) | Hugging Face |  | 0 |
+| [open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests) | HuggingFace Datasets | license:apache-2.0, region:us | 0 |
 | [open-r1/OpenR1-Math-220k](https://huggingface.co/datasets/open-r1/OpenR1-Math-220k) | Hugging Face |  | 0 |
 | [open-reaction-database/ord-data](https://huggingface.co/datasets/open-reaction-database/ord-data) | Hugging Face |  | 0 |
 | [open-thoughts/OpenThoughts-114k](https://huggingface.co/datasets/open-thoughts/OpenThoughts-114k) | Hugging Face |  | 0 |
@@ -817,6 +844,7 @@
 | [qiaojin/PubMedQA](https://huggingface.co/datasets/qiaojin/PubMedQA) | Hugging Face |  | 0 |
 | [qimma/leaderboard-details](https://huggingface.co/datasets/qimma/leaderboard-details) | Hugging Face |  | 0 |
 | [QMX548682/LMEE-Bench](https://huggingface.co/datasets/QMX548682/LMEE-Bench) | Hugging Face |  | 0 |
+| [qqjz/VoxEval](https://huggingface.co/datasets/qqjz/VoxEval) | HuggingFace Datasets | arxiv:2410.03751, arxiv:2501.04962, license:cc-by-4.0, modality:audio, region:us | 1 |
 | [qv9n2xk7m1z8pt4/ProAgentBench](https://huggingface.co/datasets/qv9n2xk7m1z8pt4/ProAgentBench) | Hugging Face |  | 0 |
 | [rad1d1m123/OmniAction](https://huggingface.co/datasets/rad1d1m123/OmniAction) | Hugging Face |  | 0 |
 | [RadGenome/RadGenome-ChestCT](https://huggingface.co/datasets/RadGenome/RadGenome-ChestCT) | Hugging Face |  | 0 |
@@ -883,6 +911,7 @@
 | [sguajardo799/simulated-binaural-speech-directivity](https://huggingface.co/datasets/sguajardo799/simulated-binaural-speech-directivity) | Hugging Face |  | 0 |
 | [shaharec/deepef-data](https://huggingface.co/datasets/shaharec/deepef-data) | Hugging Face |  | 0 |
 | [shaunmarvell/qvhighlights-1fps](https://huggingface.co/datasets/shaunmarvell/qvhighlights-1fps) | Hugging Face |  | 0 |
+| [shenyunhang/VoiceAssistant-400K](https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K) | HuggingFace Datasets | license:apache-2.0, region:us | 0 |
 | [shi-labs/oneformer_demo](https://huggingface.co/datasets/shi-labs/oneformer_demo) | Hugging Face |  | 0 |
 | [shpklll/OCR-Documents-Dataset](https://huggingface.co/datasets/shpklll/OCR-Documents-Dataset) | Hugging Face |  | 0 |
 | [sihatafnan/dummy_g1](https://huggingface.co/datasets/sihatafnan/dummy_g1) | Hugging Face |  | 0 |
@@ -912,6 +941,7 @@
 | [sriramsk/droid_lerobot](https://huggingface.co/datasets/sriramsk/droid_lerobot) | Hugging Face |  | 0 |
 | [Stable-X/ProObjaverse-300K](https://huggingface.co/datasets/Stable-X/ProObjaverse-300K) | Hugging Face |  | 0 |
 | [stair-lab/nonmyopia_results](https://huggingface.co/datasets/stair-lab/nonmyopia_results) | Hugging Face |  | 0 |
+| [stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic) | HuggingFace Datasets | arxiv:2605.30341, language:en, license:mit, region:us | 1 |
 | [stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic) | Hugging Face |  | 0 |
 | [stanfordnlp/imdb](https://huggingface.co/datasets/stanfordnlp/imdb) | HuggingFace Datasets | annotations_creators:expert-generated, format:parquet, language:en, language_creators:expert-generated, library:datasets | 1 |
 | [stanfordnlp/imdb](https://huggingface.co/datasets/stanfordnlp/imdb) | Hugging Face |  | 0 |
@@ -921,6 +951,7 @@
 | [subsurfacegen/field-scale-dataset](https://huggingface.co/datasets/subsurfacegen/field-scale-dataset) | Hugging Face |  | 0 |
 | [sunblaze-ucb/cybergym](https://huggingface.co/datasets/sunblaze-ucb/cybergym) | Hugging Face |  | 0 |
 | [sunghong/CADS-dataset](https://huggingface.co/datasets/sunghong/CADS-dataset) | Hugging Face |  | 0 |
+| [SwayStar123/preprocessed_commoncatalog-cc-by](https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by) | HuggingFace Datasets | format:parquet, language:en, library:dask, library:datasets, library:mlcroissant | 0 |
 | [SwayStar123/preprocessed_commoncatalog-cc-by_DCAE](https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by_DCAE) | Hugging Face |  | 0 |
 | [SWE-bench/SWE-bench_Lite](https://huggingface.co/datasets/SWE-bench/SWE-bench_Lite) | Hugging Face |  | 0 |
 | [SWE-bench/SWE-bench_Multilingual](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual) | HuggingFace Datasets | format:parquet, language:en, library:datasets, library:mlcroissant, library:pandas | 0 |
@@ -939,6 +970,7 @@
 | [tatsu-lab/alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca) | Hugging Face |  | 0 |
 | [tau/commonsense_qa](https://huggingface.co/datasets/tau/commonsense_qa) | Hugging Face |  | 0 |
 | [tayoliang/myself](https://huggingface.co/datasets/tayoliang/myself) | Hugging Face |  | 0 |
+| [tencent/Hy-Embodied-0.5-VLA-Data](https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data) | HuggingFace Datasets | VLA, arxiv:2606.14409, bimanual, format:parquet, imitation-learning | 1 |
 | [tensorshield/reddit_dataset_157](https://huggingface.co/datasets/tensorshield/reddit_dataset_157) | Hugging Face |  | 0 |
 | [Tevatron/browsecomp-plus](https://huggingface.co/datasets/Tevatron/browsecomp-plus) | Hugging Face |  | 0 |
 | [theairlabcmu/TartanGround](https://huggingface.co/datasets/theairlabcmu/TartanGround) | Hugging Face |  | 0 |
@@ -974,6 +1006,7 @@
 | [TSY-0408/Plant_Detection_Classification](https://huggingface.co/datasets/TSY-0408/Plant_Detection_Classification) | Hugging Face |  | 0 |
 | [Tuyuanpeng/TMPFILE](https://huggingface.co/datasets/Tuyuanpeng/TMPFILE) | Hugging Face |  | 0 |
 | [Tyl3rDrden/ivrit-knesset-shards-v5](https://huggingface.co/datasets/Tyl3rDrden/ivrit-knesset-shards-v5) | Hugging Face |  | 0 |
+| [tz1002/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/tz1002/LLaVA-OneVision-1.5-Mid-Training-85M) | HuggingFace Datasets | arxiv:2509.23661, license:apache-2.0, region:us | 1 |
 | [UCBProject/EgoDex](https://huggingface.co/datasets/UCBProject/EgoDex) | Hugging Face |  | 0 |
 | [ufldl-stanford/svhn](https://huggingface.co/datasets/ufldl-stanford/svhn) | Hugging Face |  | 0 |
 | [UniverseTBD/mmu_gaia_gaia](https://huggingface.co/datasets/UniverseTBD/mmu_gaia_gaia) | Hugging Face |  | 0 |
@@ -1007,6 +1040,7 @@
 | [wegrthj/e94fjt-qi9l-data](https://huggingface.co/datasets/wegrthj/e94fjt-qi9l-data) | Hugging Face |  | 0 |
 | [wegrthj/e94fjt-v654-data](https://huggingface.co/datasets/wegrthj/e94fjt-v654-data) | Hugging Face |  | 0 |
 | [wegrthj/kbcpjv-qi9l-data](https://huggingface.co/datasets/wegrthj/kbcpjv-qi9l-data) | Hugging Face |  | 0 |
+| [wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data) | HuggingFace Datasets | region:us | 0 |
 | [wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data) | Hugging Face |  | 0 |
 | [wegrthj/l36l5h-qi9l-data](https://huggingface.co/datasets/wegrthj/l36l5h-qi9l-data) | Hugging Face |  | 0 |
 | [wegrthj/l36l5h-qi9l-raw](https://huggingface.co/datasets/wegrthj/l36l5h-qi9l-raw) | Hugging Face |  | 0 |
@@ -1016,6 +1050,7 @@
 | [Whoisjutanlee/2.1tbofdata](https://huggingface.co/datasets/Whoisjutanlee/2.1tbofdata) | Hugging Face |  | 0 |
 | [wikimedia/wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia) | HuggingFace Datasets | format:parquet, language:ab, language:ace, language:ady, language:af | 1 |
 | [wikimedia/wikipedia](https://huggingface.co/datasets/wikimedia/wikipedia) | Hugging Face |  | 0 |
+| [Williamsanderson/MedQA-Darija-MultiLingual](https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual) | HuggingFace Datasets | audio, darija, format:parquet, healthcare, language:ar | 1 |
 | [willowyll/terminal-bench-2-leaderboard](https://huggingface.co/datasets/willowyll/terminal-bench-2-leaderboard) | Hugging Face |  | 0 |
 | [WINGNUS/ACL-OCL](https://huggingface.co/datasets/WINGNUS/ACL-OCL) | HuggingFace Datasets | acl, language:en, language_creators:found, license:mit, multilinguality:monolingual | 1 |
 | [WINGNUS/ACL-OCL](https://huggingface.co/datasets/WINGNUS/ACL-OCL) | Hugging Face |  | 0 |
@@ -1029,6 +1064,7 @@
 | [x65617379/bailii_260505](https://huggingface.co/datasets/x65617379/bailii_260505) | Hugging Face |  | 0 |
 | [X779/Danbooruwildcards](https://huggingface.co/datasets/X779/Danbooruwildcards) | Hugging Face |  | 0 |
 | [Xbox186/LARD_V2](https://huggingface.co/datasets/Xbox186/LARD_V2) | Hugging Face |  | 0 |
+| [XDOF/ABC-130k](https://huggingface.co/datasets/XDOF/ABC-130k) | HuggingFace Datasets | arxiv:2606.27375, bimanual, imitation-learning, language:en, license:apache-2.0 | 1 |
 | [Xenova/transformers.js-docs](https://huggingface.co/datasets/Xenova/transformers.js-docs) | Hugging Face |  | 0 |
 | [XiangJinYu/quant-us-prices](https://huggingface.co/datasets/XiangJinYu/quant-us-prices) | Hugging Face |  | 0 |
 | [XiaoPanPanKevinPan/aicapstone_group7_cutlery_v2_replay_2](https://huggingface.co/datasets/XiaoPanPanKevinPan/aicapstone_group7_cutlery_v2_replay_2) | Hugging Face |  | 0 |

@@ -15,8 +15,8 @@ import json
 from datetime import datetime, timezone
 from typing import Dict, Any
 
-from scripts.lib.logger import setup_logger
-from scripts.lib.config_loader import config
+from core.logger import setup_logger
+from core.config_loader import config
 
 logger = setup_logger("generate_manifests")
 
@@ -53,20 +53,19 @@ class ManifestGenerator:
 
     def _generate_repository_manifest(self, base_meta: Dict[str, Any]):
         """Overview manifest describing the repository structure."""
-        processed_dir = os.path.join("data", "processed")
+        DOMAINS = ['skills', 'apis', 'benchmarks', 'datasets', 'ide_rules', 'mcps', 'models', 'news', 'prompts', 'tools']
         categories = []
-        if os.path.isdir(processed_dir):
-            categories = sorted([
-                d for d in os.listdir(processed_dir)
-                if os.path.isdir(os.path.join(processed_dir, d))
-            ])
+        for d in DOMAINS:
+            if os.path.isdir(d):
+                categories.append(d)
+        categories = sorted(categories)
 
         manifest = {
             **base_meta,
             "manifest_type": "repository",
             "data_categories": categories,
             "output_directories": {
-                "processed_data": "data/processed/",
+                "domains": DOMAINS,
                 "metadata": "data/metadata/",
                 "exports_json": "exports/json/",
                 "exports_csv": "exports/csv/",

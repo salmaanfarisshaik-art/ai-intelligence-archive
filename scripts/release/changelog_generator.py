@@ -11,7 +11,7 @@ Generates an automated markdown changelog based on metadata indexes.
 import os
 import json
 from datetime import datetime, timezone
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("changelog_generator")
 

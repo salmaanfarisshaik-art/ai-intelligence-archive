@@ -4,10 +4,10 @@ import time
 import requests
 import hashlib
 from datetime import datetime, timezone
-from scripts.lib.logger import setup_logger
-from scripts.lib.canonical_snapshot_manager import CanonicalSnapshotManager
-from scripts.lib.source_registry import SourceRegistry
-from scripts.lib.serialization import save_json_deterministic
+from core.logger import setup_logger
+from core.canonical_snapshot_manager import CanonicalSnapshotManager
+from core.source_registry import SourceRegistry
+from core.serialization import save_json_deterministic
 
 logger = setup_logger("massive_seed_fetcher")
 
@@ -109,28 +109,8 @@ class MassiveSeedFetcher:
             report["sources_failed"] += 1
             report["failed_sources"].append({"repository": source_id_alpaca, "reason": str(e), "retry_next_run": True})
 
-        # 4. Synthetic bootstrapping for reaching targets quickly (Tools, Benchmarks, MCPs, IDE Rules, APIs, News)
-        # We will save these as snapshots as well.
-        synth_categories = [
-            ("synth_tools", 2100),
-            ("synth_benchmarks", 350),
-            ("synth_mcps", 550),
-            ("synth_ide_rules", 5100),
-            ("synth_api_providers", 1600),
-            ("synth_news", 20500)
-        ]
-        for cat_id, count in synth_categories:
-            report["sources_processed"] += 1
-            try:
-                # Generate synthetic data
-                raw_data = [{"id": f"{cat_id}_{i}", "idx": i} for i in range(count)]
-                if not self.is_dry_run:
-                    self.snapshot_manager.store_snapshot(cat_id, raw_data)
-                    self.manifest["sources"][cat_id] = {"last_sync": report["timestamp"], "count": len(raw_data)}
-                report["sources_succeeded"] += 1
-            except Exception as e:
-                report["sources_failed"] += 1
-                report["failed_sources"].append({"repository": cat_id, "reason": str(e), "retry_next_run": True})
+        # Synthetic placeholders have been entirely eliminated.
+        # This pipeline now only fetches real, canonical sources.
 
         # Finalize manifest and reports
         if not self.is_dry_run:

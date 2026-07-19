@@ -13,8 +13,8 @@ import json
 import shutil
 from datetime import datetime, timezone
 
-from scripts.lib.logger import setup_logger
-from scripts.lib.config_loader import config
+from core.logger import setup_logger
+from core.config_loader import config
 from scripts.release.changelog_generator import ChangelogGenerator
 
 logger = setup_logger("release_builder")

@@ -1,5 +1,5 @@
 from typing import List, Dict, Any
-from scripts.lib.api_client import api_client
+from core.api_client import api_client
 
 class GitHubTrendingFetcher:
     def __init__(self, endpoint: str = "https://api.github.com/search/repositories"):

@@ -88,6 +88,12 @@
 - **URL**: [https://huggingface.co/datasets/huggingface-course/documentation-images](https://huggingface.co/datasets/huggingface-course/documentation-images)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:apache-2.0, modality:image, region:us, size_categories:n<1K
 
+## codeparrot/github-code
+- **ID**: hf_ds_621ffdd236468d709f183929
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/codeparrot/github-code](https://huggingface.co/datasets/codeparrot/github-code)
+- **Tags**: language:code, language_creators:crowdsourced, language_creators:expert-generated, license:other, multilinguality:multilingual, region:us, task_categories:text-generation, task_ids:language-modeling
+
 ## wikimedia/wikipedia
 - **ID**: hf_ds_621ffdd236468d709f184284
 - **Source**: HuggingFace Datasets
@@ -100,6 +106,12 @@
 - **URL**: [https://huggingface.co/datasets/openai/gsm8k](https://huggingface.co/datasets/openai/gsm8k)
 - **Tags**: annotations_creators:crowdsourced, arxiv:2110.14168, benchmark:eval-yaml, benchmark:official, format:parquet, language:en, language_creators:crowdsourced, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, math-word-problems, modality:text, multilinguality:monolingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:text-generation
 
+## angie-chen55/python-github-code
+- **ID**: hf_ds_629661ec4f4c1e9d06ef0503
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/angie-chen55/python-github-code](https://huggingface.co/datasets/angie-chen55/python-github-code)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
+
 ## hf-doc-build/doc-build-dev
 - **ID**: hf_ds_636a1b69f2f9ec4289c4c19e
 - **Source**: HuggingFace Datasets
@@ -111,6 +123,18 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/WINGNUS/ACL-OCL](https://huggingface.co/datasets/WINGNUS/ACL-OCL)
 - **Tags**: acl, language:en, language_creators:found, license:mit, multilinguality:monolingual, region:us, research papers, size_categories:10K<n<100K, source_datasets:original, task_categories:token-classification
+
+## bigcode/the-stack-metadata
+- **ID**: hf_ds_63a02c28f3334a6553d23fe0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/bigcode/the-stack-metadata](https://huggingface.co/datasets/bigcode/the-stack-metadata)
+- **Tags**: arxiv:2211.15533, format:parquet, language:code, language_creators:crowdsourced, language_creators:expert-generated, library:dask, library:datasets, library:mlcroissant, library:polars, license:other, modality:tabular, modality:text, multilinguality:multilingual, region:us, size_categories:10B<n<100B, task_categories:text-generation
+
+## atokforps/latent_worker_early-a2_00
+- **ID**: hf_ds_63c82e7ea0c5c8cfa84efe73
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00)
+- **Tags**: region:us
 
 ## anon8231489123/ShareGPT_Vicuna_unfiltered
 - **ID**: hf_ds_642912f7a760fe0bf37996b1
@@ -148,6 +172,12 @@
 - **URL**: [https://huggingface.co/datasets/jat-project/jat-dataset](https://huggingface.co/datasets/jat-project/jat-dataset)
 - **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2303.03915, arxiv:2402.09844, format:parquet, generalist-agent, imitation-learning, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:image, modality:text, modality:timeseries, question-answering, region:us, reinforcement-learning, size_categories:100M<n<1B, source_datasets:conceptual-captions, source_datasets:ok-vqa, source_datasets:oscar, task_categories:question-answering, task_categories:reinforcement-learning, task_categories:text-generation, text-generation
 
+## hallucinations-leaderboard/results
+- **ID**: hf_ds_655c982e29cdfd1284e696f5
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/hallucinations-leaderboard/results](https://huggingface.co/datasets/hallucinations-leaderboard/results)
+- **Tags**: license:apache-2.0, region:us
+
 ## banned-historical-archives/banned-historical-archives
 - **ID**: hf_ds_657f09ec3e3b5bea663e53c3
 - **Source**: HuggingFace Datasets
@@ -166,6 +196,12 @@
 - **URL**: [https://huggingface.co/datasets/jacobbieker/eumetsat-rss](https://huggingface.co/datasets/jacobbieker/eumetsat-rss)
 - **Tags**: license:mit, region:us
 
+## espnet/yodas
+- **ID**: hf_ds_65c7e3da4451e58b8ded6212
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/espnet/yodas](https://huggingface.co/datasets/espnet/yodas)
+- **Tags**: arxiv:2406.00899, license:cc-by-3.0, region:us
+
 ## Kazimir-ai/text-to-image-prompts
 - **ID**: hf_ds_65ce59255f233e28db20fe4f
 - **Source**: HuggingFace Datasets
@@ -177,6 +213,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceM4/the_cauldron](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron)
 - **Tags**: arxiv:1603.07396, arxiv:1612.00837, arxiv:1612.06890, arxiv:1709.00103, arxiv:1710.07300, arxiv:1912.03098, arxiv:2003.12462, arxiv:2205.00363, arxiv:2206.01718, arxiv:2208.05358, arxiv:2211.08545, arxiv:2306.05425, arxiv:2310.00367, arxiv:2312.12241, arxiv:2403.09029, arxiv:2405.02246, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:image, modality:text, region:us, size_categories:1M<n<10M
+
+## HuggingFaceFW/fineweb
+- **ID**: hf_ds_66212f29fb07c3e05ad0432e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/HuggingFaceFW/fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb)
+- **Tags**: arxiv:2109.07445, arxiv:2306.01116, arxiv:2406.17557, doi:10.57967/hf/2493, language:en, license:odc-by, modality:tabular, modality:text, region:us, size_categories:10B<n<100B, task_categories:text-generation
 
 ## labelmaker/arkit_labelmaker
 - **ID**: hf_ds_66293ead0326d8c0fc899ac0
@@ -190,11 +232,23 @@
 - **URL**: [https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)
 - **Tags**: arxiv:2406.01574, benchmark:eval-yaml, benchmark:official, doi:10.57967/hf/2439, evaluation, format:parquet, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:tabular, modality:text, region:us, size_categories:10K<n<100K, task_categories:question-answering
 
+## open-llm-leaderboard/requests
+- **ID**: hf_ds_66631d1046a5a30a27eb75a9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests)
+- **Tags**: license:apache-2.0, region:us
+
 ## mlfoundations/dclm-baseline-1.0
 - **ID**: hf_ds_66708709d5c5d8fd8db3a5cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0)
 - **Tags**: arxiv:2406.11794, license:cc-by-4.0, region:us
+
+## mlfoundations/MINT-1T-HTML
+- **ID**: hf_ds_669caf535bd3f749a3c87c11
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML](https://huggingface.co/datasets/mlfoundations/MINT-1T-HTML)
+- **Tags**: arxiv:2406.11271, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, multimodal, region:us, size_categories:100M<n<1B, task_categories:image-to-text, task_categories:text-generation
 
 ## airtrain-ai/fineweb-edu-fortified
 - **ID**: hf_ds_669e6b2752cf1c619d4c0178
@@ -226,11 +280,29 @@
 - **URL**: [https://huggingface.co/datasets/Zyphra/Zyda-2](https://huggingface.co/datasets/Zyphra/Zyda-2)
 - **Tags**: language:en, license:odc-by, region:us, size_categories:n>1T, task_categories:text-generation
 
+## jhu-clsp/ettin-pretraining-data
+- **ID**: hf_ds_6700058973753b82f145eb1d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data](https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data)
+- **Tags**: arxiv:2507.11412, decoder, encoder, foundation-model, language-modeling, language:en, license:mit, pretraining, region:us, task_categories:fill-mask, task_categories:text-classification, task_categories:text-generation, transformer
+
+## SwayStar123/preprocessed_commoncatalog-cc-by
+- **ID**: hf_ds_67134260dda81cf20b75342e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by](https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by)
+- **Tags**: format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, region:us, size_categories:10M<n<100M
+
 ## m-a-p/FineFineWeb
 - **ID**: hf_ds_675d7e29e24babdf1842d270
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/m-a-p/FineFineWeb](https://huggingface.co/datasets/m-a-p/FineFineWeb)
 - **Tags**: language:en, license:apache-2.0, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-classification, task_categories:text-generation
+
+## hf-internal-testing/transformers_circleci_workflow_runs
+- **ID**: hf_ds_676477a23a379cdda443f577
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs](https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs)
+- **Tags**: region:us
 
 ## Benjy/typed_digital_signatures
 - **ID**: hf_ds_6785649a41a64e1582b8bb05
@@ -238,11 +310,23 @@
 - **URL**: [https://huggingface.co/datasets/Benjy/typed_digital_signatures](https://huggingface.co/datasets/Benjy/typed_digital_signatures)
 - **Tags**: computer-vision, digital-signatures, google-fonts, handwriting, image-classification, language:en, license:mit, modality:image, region:us, size_categories:10K<n<100K, synthetic-data, task_categories:image-classification, task_categories:image-feature-extraction, task_categories:zero-shot-image-classification
 
+## qqjz/VoxEval
+- **ID**: hf_ds_67866986e864fd4dee936901
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/qqjz/VoxEval](https://huggingface.co/datasets/qqjz/VoxEval)
+- **Tags**: arxiv:2410.03751, arxiv:2501.04962, license:cc-by-4.0, modality:audio, region:us
+
 ## agents-course/course-images
 - **ID**: hf_ds_679255cc5a8e868cbe62569f
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/agents-course/course-images](https://huggingface.co/datasets/agents-course/course-images)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
+
+## agibot-world/AgiBotWorld-Beta
+- **ID**: hf_ds_67ab2149bc76a9aab3ff90ed
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/agibot-world/AgiBotWorld-Beta](https://huggingface.co/datasets/agibot-world/AgiBotWorld-Beta)
+- **Tags**: Robotics manipulation, dual-arm, format:webdataset, language:en, library:datasets, library:mlcroissant, library:webdataset, modality:text, real-world, region:us, size_categories:100M<n<1B, task_categories:other, task_categories:robotics
 
 ## IPEC-COMMUNITY/bridge_orig_lerobot
 - **ID**: hf_ds_67b9b84c2eb0080c5fc8c88e
@@ -250,11 +334,29 @@
 - **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot)
 - **Tags**: LeRobot, bridge_orig, license:apache-2.0, modality:video, openx, region:us, rlds, task_categories:robotics, widowx
 
+## jobs-git/Zyda-2
+- **ID**: hf_ds_67cac93b5877d9c876a84572
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/jobs-git/Zyda-2](https://huggingface.co/datasets/jobs-git/Zyda-2)
+- **Tags**: language:en, license:odc-by, region:us, size_categories:n>1T, task_categories:text-generation
+
 ## jobs-git/HPLT2.0_cleaned
 - **ID**: hf_ds_67cac990bdf9000d16109b38
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned](https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned)
 - **Tags**: language:ace, language:af, language:als, language:am, language:ar, language:as, language:ast, language:awa, language:ayr, language:azb, language:azj, language:ba, language:ban, language:be, language:bem, language:bg, language:bho, language:bjn, language:bm, language:bn, language:bo, language:bs, language:bug, language:ca, language:ceb, language:cjk, language:ckb, language:crh, language:cs, language:cy, language:da, language:de, language:dik, language:dyu, language:dz, language:ee, language:el, language:en, language:eo, language:es, language:et, language:eu, language:fi, language:fj, language:fo, language:fon, language:fr, language:fur, language:fuv, language:ga, language:gaz, language:gd, language:gl, language:gn, language:gu, language:ha, language:he, language:hi, language:hne, language:hr, language:ht, language:hu, language:hy, language:id, language:ig, language:ilo, language:is, language:it, language:ja, language:jv, language:ka, language:kab, language:kac, language:kam, language:kbp, language:kea, language:kg, language:khk, language:ki, language:kk, language:km, language:kmb, language:kmr, language:kn, language:knc, language:ko, language:ks, language:ky, language:lb, language:lg, language:li, language:lij, language:lmo, language:ln, language:lo, language:lt, language:ltg, language:lua, language:luo, language:lus, language:lvs, language:mag, language:mai, language:mi, language:min, language:mk, language:ml, language:mni, language:mos, language:mr, language:mt, language:my, language:nb, language:nl, language:nn, language:npi, language:nso, language:nus, language:ny, language:oc, language:ory, language:pa, language:pag, language:pap, language:pbt, language:pes, language:pl, language:plt, language:prs, language:pt, language:quy, language:rn, language:ro, language:ru, language:rw, language:sa, language:sat, language:sc, language:scn, language:sd, language:sg, language:shn, language:si, language:sk, language:sl, language:sm, language:sn, language:so, language:sr, language:ss, language:st, language:su, language:sv, language:swh, language:szl, language:ta, language:taq, language:te, language:tg, language:th, language:ti, language:tk, language:tl, language:tn, language:tpi, language:tr, language:ts, language:tt, language:tum, language:tw, language:ug, language:uk, language:umb, language:ur, language:uzn, language:vec, language:vi, language:war, language:wo, language:xh, language:ydd, language:yo, language:yue, language:zh, language:zsm, language:zu, license:cc0-1.0, multilinguality:multilingual, region:us, size_categories:n>1T, task_categories:fill-mask, task_categories:text-generation, task_ids:language-modeling
+
+## IPEC-COMMUNITY/language_table_lerobot
+- **ID**: hf_ds_67ce486ea3edca9b3349a097
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot)
+- **Tags**: LeRobot, language_table, license:apache-2.0, openx, region:us, rlds, task_categories:robotics, xarm
+
+## mueller91/MLAAD
+- **ID**: hf_ds_67d6c9b5ba56e14eeb14fab6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD)
+- **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
 
 ## cadene/droid_1.0.1
 - **ID**: hf_ds_67d829e152331730e865bfb7
@@ -268,6 +370,12 @@
 - **URL**: [https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim](https://huggingface.co/datasets/nvidia/PhysicalAI-Robotics-GR00T-X-Embodiment-Sim)
 - **Tags**: license:cc-by-4.0, region:us, robotics, task_categories:robotics
 
+## shenyunhang/VoiceAssistant-400K
+- **ID**: hf_ds_67da25756b2007f151daeca0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K](https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K)
+- **Tags**: license:apache-2.0, region:us
+
 ## tasl-lab/uniocc
 - **ID**: hf_ds_67e58fa6625f0f6c8447f37c
 - **Source**: HuggingFace Datasets
@@ -279,6 +387,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/updatebao/geonamebase_1](https://huggingface.co/datasets/updatebao/geonamebase_1)
 - **Tags**: modality:image, region:us
+
+## mamed0v/TurkmenSpeech
+- **ID**: hf_ds_6804d9b810dede0a63020b0a
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/mamed0v/TurkmenSpeech](https://huggingface.co/datasets/mamed0v/TurkmenSpeech)
+- **Tags**: language:tk, license:cc-by-nc-4.0, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition, task_categories:text-to-speech
 
 ## SWE-bench/SWE-bench_Multilingual
 - **ID**: hf_ds_68101f6210b86ba322aabec8
@@ -298,6 +412,12 @@
 - **URL**: [https://huggingface.co/datasets/daniilakk/nbchr_pdfs](https://huggingface.co/datasets/daniilakk/nbchr_pdfs)
 - **Tags**: license:unknown, modality:document, region:us
 
+## artur-muratov/multilingual-speech-commands-15lang
+- **ID**: hf_ds_6835c1a1f7b44d5d5071e8b2
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang](https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang)
+- **Tags**: arxiv:1804.03209, audio, augmentation, dataset, format:text, keyword-spotting, language:ar, language:ca, language:de, language:en, language:es, language:fa, language:fr, language:it, language:kk, language:nl, language:pl, language:ru, language:rw, language:tr, language:tt, library:datasets, library:mlcroissant, license:cc-by-4.0, low-resource, modality:audio, modality:text, multilingual, region:us, size_categories:1M<n<10M, speech, speech-commands
+
 ## xlangai/ubuntu_osworld_file_cache
 - **ID**: hf_ds_6835d7e81900f053ee3c7c9e
 - **Source**: HuggingFace Datasets
@@ -316,11 +436,23 @@
 - **URL**: [https://huggingface.co/datasets/EssentialAI/essential-web-v1.0](https://huggingface.co/datasets/EssentialAI/essential-web-v1.0)
 - **Tags**: arxiv:2506.14111, license:odc-by, region:us, size_categories:10B<n<100B
 
+## aline-gassenn/MedDialog-Audio
+- **ID**: hf_ds_6859a511dbd17c5bad610ad2
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio)
+- **Tags**: doi:10.57967/hf/5889, language:en, license:cc-by-nc-4.0, medical, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition
+
 ## Helsinki-NLP/fineweb-edu-translated
 - **ID**: hf_ds_688209a61f4d0375592760e0
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated](https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated)
 - **Tags**: format:parquet, language:bos, language:bul, language:cat, language:ces, language:dan, language:deu, language:ell, language:eng, language:est, language:eus, language:fin, language:fra, language:gle, language:glg, language:hrv, language:hun, language:isl, language:ita, language:kat, language:lav, language:lit, language:mkd, language:mlt, language:nld, language:nno, language:nob, language:pol, language:por, language:ron, language:slk, language:slv, language:spa, language:sqi, language:srp, language:swe, language:tur, language:ukr, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-generation, task_categories:translation
+
+## behavior-1k/2025-challenge-demos
+- **ID**: hf_ds_68a7fb1964bbb2ec688d1af2
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/behavior-1k/2025-challenge-demos](https://huggingface.co/datasets/behavior-1k/2025-challenge-demos)
+- **Tags**: ., 1, 2, LeRobot, arxiv:2403.09227, doi:10.57967/hf/6394, license:mit, modality:video, region:us, task_categories:robotics, v
 
 ## ZahidYasinMittha/American-Sign-Language-Dataset
 - **ID**: hf_ds_68aefe4b74c4af3424207d2d
@@ -338,7 +470,13 @@
 - **ID**: hf_ds_68c6d459d95ef41da81c9b41
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M)
-- **Tags**: arxiv:2509.23661, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:image, modality:text, region:us, size_categories:10M<n<100M
+- **Tags**: arxiv:2509.23661, license:apache-2.0, region:us
+
+## boltzgen/inference-data
+- **ID**: hf_ds_68d19889ef48faaef08b8710
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/boltzgen/inference-data](https://huggingface.co/datasets/boltzgen/inference-data)
+- **Tags**: license:mit, region:us
 
 ## vyokky/GUI-360
 - **ID**: hf_ds_68e91443c366e5879388a4d4
@@ -346,11 +484,29 @@
 - **URL**: [https://huggingface.co/datasets/vyokky/GUI-360](https://huggingface.co/datasets/vyokky/GUI-360)
 - **Tags**: arxiv:2511.04307, license:mit, region:us, size_categories:1M<n<10M, task_categories:image-text-to-text
 
+## AiEDA/iDATA
+- **ID**: hf_ds_68f06f7cd53a33b04ceebb08
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/AiEDA/iDATA](https://huggingface.co/datasets/AiEDA/iDATA)
+- **Tags**: AI + EDA dataset, license:gpl, region:us, skywater130 process
+
 ## jzr99/mesh4d_dataset
 - **ID**: hf_ds_6901510f85821f56ae6f5438
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset)
 - **Tags**: region:us
+
+## hasankursun/github-code-2025-language-split
+- **ID**: hf_ds_692dc013741d7eb4efaf4b65
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/hasankursun/github-code-2025-language-split](https://huggingface.co/datasets/hasankursun/github-code-2025-language-split)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:other, modality:text, region:us, size_categories:100M<n<1B, source_datasets:nick007x/github-code-2025
+
+## tz1002/LLaVA-OneVision-1.5-Mid-Training-85M
+- **ID**: hf_ds_6937cb3e145e00d96aa5338c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/tz1002/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/tz1002/LLaVA-OneVision-1.5-Mid-Training-85M)
+- **Tags**: arxiv:2509.23661, license:apache-2.0, region:us
 
 ## Chelsea707/arxiv-cs-2020-2025-pdfs
 - **ID**: hf_ds_69417bb991171752887f7213
@@ -370,6 +526,12 @@
 - **URL**: [https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData](https://huggingface.co/datasets/genrobot2025/10Kh-RealOmin-OpenData)
 - **Tags**: agent, dual-arm, embodied intelligence, language:en, language:zh, license:cc-by-sa-4.0, modality:video, real-world, region:us, robotic, size_categories:n>1T, task_categories:reinforcement-learning, task_categories:robotics, video, vla
 
+## ad1t7a/10Kh-RealOmin-OpenData
+- **ID**: hf_ds_695abb3c1fe276bf8ff463d4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ad1t7a/10Kh-RealOmin-OpenData](https://huggingface.co/datasets/ad1t7a/10Kh-RealOmin-OpenData)
+- **Tags**: agent, dual-arm, language:en, language:zh, license:cc-by-sa-4.0, modality:video, real-world, region:us, robotic, size_categories:n>1T, task_categories:reinforcement-learning, task_categories:robotics, video, vla
+
 ## Maynor996/upload2
 - **ID**: hf_ds_696dc1fee7a76925b95bba1d
 - **Source**: HuggingFace Datasets
@@ -387,6 +549,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/Kthera/pesoz](https://huggingface.co/datasets/Kthera/pesoz)
 - **Tags**: region:us
+
+## mhaamh19/prophet-mosque-library
+- **ID**: hf_ds_698aee8a9b778894943e6c5d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/mhaamh19/prophet-mosque-library](https://huggingface.co/datasets/mhaamh19/prophet-mosque-library)
+- **Tags**: language:ar, license:mit, region:us, size_categories:10K<n<100K, task_categories:image-to-text
 
 ## endomorphosis/common_crawl_meta_indexes
 - **ID**: hf_ds_699125ba2e87fc8e25a5010a
@@ -454,17 +622,41 @@
 - **URL**: [https://huggingface.co/datasets/ayuo/hd_tmp](https://huggingface.co/datasets/ayuo/hd_tmp)
 - **Tags**: region:us
 
+## Williamsanderson/MedQA-Darija-MultiLingual
+- **ID**: hf_ds_69cf1925c61c6c0fbb866b5d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual](https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual)
+- **Tags**: audio, darija, format:parquet, healthcare, language:ar, language:en, language:fr, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, medical, medqa, modality:audio, modality:text, moroccan-arabic, multilingual, question-answering, region:us, size_categories:100K<n<1M, speech, task_categories:automatic-speech-recognition, task_categories:question-answering, task_categories:text-to-speech, trilingual
+
 ## PsiBotAI/SynData
 - **ID**: hf_ds_69e7409e244b695efe87097a
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/PsiBotAI/SynData](https://huggingface.co/datasets/PsiBotAI/SynData)
 - **Tags**: format:parquet, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, modality:3d, modality:tabular, modality:text, region:us, size_categories:100K<n<1M
 
+## jeyasuryaur/cricket-data-by-cricsheet
+- **ID**: hf_ds_69eb72498f65b8d96201861f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/jeyasuryaur/cricket-data-by-cricsheet](https://huggingface.co/datasets/jeyasuryaur/cricket-data-by-cricsheet)
+- **Tags**: region:us
+
 ## jasperai/monet
 - **ID**: hf_ds_69f0c6101cc98d8ac04c03cd
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jasperai/monet](https://huggingface.co/datasets/jasperai/monet)
 - **Tags**: arxiv:2605.21272, captioning, image-text, language:en, license:apache-2.0, multimodal, region:us, size_categories:100M<n<1B, synthetic-data, task_categories:image-feature-extraction, task_categories:text-to-image, task_categories:zero-shot-image-classification, text-to-image
+
+## wegrthj/kbcpjv-v654-data
+- **ID**: hf_ds_69f623abadd8e8047bc039e9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data)
+- **Tags**: region:us
+
+## stanford-vision-lab/gpic
+- **ID**: hf_ds_69f7b3cc62d65c8f39fe7270
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic)
+- **Tags**: arxiv:2605.30341, language:en, license:mit, region:us
 
 ## Dagonulca/figofigofigofigo
 - **ID**: hf_ds_6a04fe32c08e541d106bc6fe
@@ -484,10 +676,34 @@
 - **URL**: [https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset](https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset)
 - **Tags**: ASL, American Sign Language, Gesture Recognition, Video Dataset, license:mit, modality:video, region:us
 
+## anisoleai/fineweb-tokenized
+- **ID**: hf_ds_6a153f136ea5882878c26693
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized)
+- **Tags**: arxiv:2406.17557, language:en, license:odc-by, modality:tabular, modality:text, pre-training, region:us, size_categories:n>1T, tabular, task_categories:text-generation, text
+
 ## mteb/results
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
+- **Tags**: format:optimized-parquet, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
+
+## tencent/Hy-Embodied-0.5-VLA-Data
+- **ID**: hf_ds_6a2a5f5f2ef38e1f849a8ebf
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data](https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data)
+- **Tags**: VLA, arxiv:2606.14409, bimanual, format:parquet, imitation-learning, lance, leRobot, library:datasets, library:lance, library:lerobot, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, manipulation, modality:tabular, modality:text, region:us, robotics, size_categories:n<1K, task_categories:reinforcement-learning, task_categories:robotics
+
+## XDOF/ABC-130k
+- **ID**: hf_ds_6a307dae8e258cbed418ec58
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/XDOF/ABC-130k](https://huggingface.co/datasets/XDOF/ABC-130k)
+- **Tags**: arxiv:2606.27375, bimanual, imitation-learning, language:en, license:apache-2.0, manipulation, mcap, region:us, robotics, size_categories:n>1T, task_categories:robotics, teleoperation
+
+## k9cli/video-vec2wav2-tokenizer
+- **ID**: hf_ds_6a3519d6ceabed997ec9ea1e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer](https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer)
 - **Tags**: region:us
 
 ## ACCC1380/private-model

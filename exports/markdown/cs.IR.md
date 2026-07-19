@@ -1,7 +1,32 @@
 # Cs.Ir Export
 
+## From Noise to Order: Learning to Rank via Denoising Diffusion
+- **ID**: arxiv_2602.11453v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.11453v3](http://arxiv.org/abs/2602.11453v3)
+
 ## Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA
 - **ID**: arxiv_2604.23336v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23336v3](http://arxiv.org/abs/2604.23336v3)
+
+## How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations
+- **ID**: arxiv_2606.16973v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16973v1](http://arxiv.org/abs/2606.16973v1)
+
+## IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction
+- **ID**: arxiv_2606.18181v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18181v1](http://arxiv.org/abs/2606.18181v1)
+
+## Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
+- **ID**: arxiv_2606.20554v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20554v1](http://arxiv.org/abs/2606.20554v1)
+
+## Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search
+- **ID**: arxiv_2607.15253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15253v1](http://arxiv.org/abs/2607.15253v1)
 

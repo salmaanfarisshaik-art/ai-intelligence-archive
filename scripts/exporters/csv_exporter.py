@@ -3,8 +3,8 @@ import csv
 import io
 from collections import defaultdict
 from scripts.exporters.base_exporter import BaseExporter
-from scripts.lib.logger import setup_logger
-from scripts.lib.config_loader import config
+from core.logger import setup_logger
+from core.config_loader import config
 
 logger = setup_logger("csv_exporter")
 

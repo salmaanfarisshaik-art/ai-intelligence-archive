@@ -1,5 +1,15 @@
 # Cs.Sd Export
 
+## DiFlow-TTS: Compact and Low-Latency Zero-Shot Text-to-Speech with Discrete Flow Matching
+- **ID**: arxiv_2509.09631v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.09631v5](http://arxiv.org/abs/2509.09631v5)
+
+## Echoes: A semantically-aligned music deepfake detection dataset
+- **ID**: arxiv_2603.23667v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.23667v3](http://arxiv.org/abs/2603.23667v3)
+
 ## Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering
 - **ID**: arxiv_2606.11836v2
 - **Source**: ArXiv
@@ -24,4 +34,24 @@
 - **ID**: arxiv_2606.14647v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14647v1](http://arxiv.org/abs/2606.14647v1)
+
+## Probing Low Frame Rate Degradation in Neural Audio Codecs
+- **ID**: arxiv_2606.16969v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16969v1](http://arxiv.org/abs/2606.16969v1)
+
+## TuneJury: An Open Metric for Improving Music Generation Preference Alignment
+- **ID**: arxiv_2606.17006v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17006v1](http://arxiv.org/abs/2606.17006v1)
+
+## Descriptor: Certus Caliber Classification Gunshot Dataset (C3GD)
+- **ID**: arxiv_2606.18135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18135v1](http://arxiv.org/abs/2606.18135v1)
+
+## Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
+- **ID**: arxiv_2606.19325v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19325v1](http://arxiv.org/abs/2606.19325v1)
 

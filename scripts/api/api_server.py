@@ -15,7 +15,7 @@ import sys
 from http.server import HTTPServer, BaseHTTPRequestHandler
 from urllib.parse import urlparse, parse_qs
 
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 from scripts.api.routes import handle_request
 from scripts.api.serializers import serialize_response
 

@@ -1,5 +1,5 @@
 import os
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("generate_indexes")
 

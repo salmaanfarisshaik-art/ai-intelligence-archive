@@ -1,5 +1,20 @@
 # Cs.Lg Export
 
+## Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs
+- **ID**: arxiv_2507.04219v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.04219v5](http://arxiv.org/abs/2507.04219v5)
+
+## Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks
+- **ID**: arxiv_2512.01208v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
+
+## A Survey of On-Policy Distillation for Large Language Models
+- **ID**: arxiv_2604.00626v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00626v4](http://arxiv.org/abs/2604.00626v4)
+
 ## Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
 - **ID**: arxiv_2604.18419v5
 - **Source**: ArXiv
@@ -54,4 +69,104 @@
 - **ID**: arxiv_2606.14695v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14695v1](http://arxiv.org/abs/2606.14695v1)
+
+## Demystifying Variance in Circuit Discovery of LLMs
+- **ID**: arxiv_2606.16920v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16920v1](http://arxiv.org/abs/2606.16920v1)
+
+## A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning
+- **ID**: arxiv_2606.16933v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16933v1](http://arxiv.org/abs/2606.16933v1)
+
+## Scalable Circuit Learning for Interpreting Large Language Models
+- **ID**: arxiv_2606.16939v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16939v1](http://arxiv.org/abs/2606.16939v1)
+
+## Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data
+- **ID**: arxiv_2606.16952v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16952v1](http://arxiv.org/abs/2606.16952v1)
+
+## HAMON: Passive Optical Sequence Mixing for Long-Horizon Forecasting
+- **ID**: arxiv_2606.17028v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17028v1](http://arxiv.org/abs/2606.17028v1)
+
+## Exact Posterior Score Estimation for Solving Linear Inverse Problems
+- **ID**: arxiv_2606.17048v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17048v1](http://arxiv.org/abs/2606.17048v1)
+
+## Kolmogorov Regression for Robust Diffusion Policies
+- **ID**: arxiv_2606.18186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18186v1](http://arxiv.org/abs/2606.18186v1)
+
+## Looped World Models
+- **ID**: arxiv_2606.18208v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18208v1](http://arxiv.org/abs/2606.18208v1)
+
+## Forecasting what Matters: Decision-Focused RL for Controlled EV Charging with Unknown Departure Times
+- **ID**: arxiv_2606.19199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19199v1](http://arxiv.org/abs/2606.19199v1)
+
+## Machine Unlearning for the XGBoost Model with Network Intrusion Datasets
+- **ID**: arxiv_2606.19220v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19220v1](http://arxiv.org/abs/2606.19220v1)
+
+## Mechanism-Guided Selective Unlearning for RLVR-Induced Reasoning
+- **ID**: arxiv_2606.19222v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19222v1](http://arxiv.org/abs/2606.19222v1)
+
+## STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability
+- **ID**: arxiv_2606.19236v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19236v1](http://arxiv.org/abs/2606.19236v1)
+
+## Structured Inference with Large Language Gibbs
+- **ID**: arxiv_2606.19264v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19264v1](http://arxiv.org/abs/2606.19264v1)
+
+## Explaining Attention with Program Synthesis
+- **ID**: arxiv_2606.19317v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19317v1](http://arxiv.org/abs/2606.19317v1)
+
+## UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
+- **ID**: arxiv_2606.19328v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19328v1](http://arxiv.org/abs/2606.19328v1)
+
+## UltraQuant: 4-bit KV Caching for Context-Heavy Agents
+- **ID**: arxiv_2606.20474v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20474v1](http://arxiv.org/abs/2606.20474v1)
+
+## Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems
+- **ID**: arxiv_2606.20493v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20493v1](http://arxiv.org/abs/2606.20493v1)
+
+## The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups
+- **ID**: arxiv_2606.20547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20547v1](http://arxiv.org/abs/2606.20547v1)
+
+## How Transparent is DiffusionGemma?
+- **ID**: arxiv_2606.20560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
+
+## The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG
+- **ID**: arxiv_2607.11950v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.11950v2](http://arxiv.org/abs/2607.11950v2)
 

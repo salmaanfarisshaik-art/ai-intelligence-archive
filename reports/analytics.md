@@ -1,13 +1,20 @@
 # AI Ecosystem Analytics
 
+<<<<<<< Updated upstream
 **Total Entities Tracked**: 147003
 
 ## Category Distribution
 
 - **news**: 42063
+=======
+**Total Entities Tracked**: 56747
+
+## Category Distribution
+
+>>>>>>> Stashed changes
 - **skills**: 31000
-- **prompts**: 27178
 - **instruction_tuning**: 21000
+<<<<<<< Updated upstream
 - **ide_rules**: 10200
 - **api_providers**: 3200
 - **tool**: 2154
@@ -45,14 +52,55 @@
 - **cs.OS**: 2
 - **cs.SI**: 2
 - **eess.SY**: 2
+=======
+- **dataset**: 1116
+- **models**: 1072
+- **news**: 1057
+- **text-generation**: 998
+- **cs.CV**: 107
+- **cs.CL**: 70
+- **cs.AI**: 65
+- **tool**: 47
+- **cs.LG**: 34
+- **API**: 15
+- **cs.RO**: 14
+- **cs.CR**: 12
+- **cs.SD**: 11
+- **Backend**: 10
+- **Database**: 10
+- **DevOps**: 10
+- **Frontend**: 10
+- **MCP Server**: 10
+- **Security**: 10
+- **Tool**: 10
+- **cs.SE**: 8
+- **IDE Rule**: 6
+- **cs.IR**: 6
+- **Benchmark**: 5
+- **AI News**: 4
+- **cs.HC**: 3
+- **feature-extraction**: 3
+- **cs.CY**: 2
+- **cs.MA**: 2
+- **eess.AS**: 2
+>>>>>>> Stashed changes
 - **image-text-to-text**: 2
 - **physics.comp-ph**: 2
 - **q-fin.TR**: 2
 - **stat.ME**: 2
+<<<<<<< Updated upstream
 - **text-ranking**: 2
 - **cs.CE**: 1
 - **cs.DC**: 1
 - **cs.GR**: 1
+=======
+- **stat.ML**: 2
+- **text-ranking**: 2
+- **cs.AR**: 1
+- **cs.DB**: 1
+- **cs.DL**: 1
+- **cs.GT**: 1
+>>>>>>> Stashed changes
 - **cs.LO**: 1
 - **cs.MM**: 1
 - **cs.PF**: 1
@@ -64,6 +112,7 @@
 - **q-bio.GN**: 1
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
+<<<<<<< Updated upstream
 
 ## Source Distribution
 
@@ -128,3 +177,105 @@
 - **task_ids:language-modeling**: 7
 - **LeRobot**: 6
 - **language:de**: 6
+=======
+- **q-fin.TR**: 1
+- **quant-ph**: 1
+
+## Source Distribution
+
+- **Stanford Alpaca**: 52000
+- **Hugging Face**: 2005
+- ****: 1072
+- **OpenAI Blog**: 1045
+- **ArXiv**: 350
+- **HuggingFace Datasets**: 116
+- **GitHub Trending**: 47
+- **BAIR Blog**: 12
+- **Backend**: 10
+- **Database**: 10
+- **DevOps**: 10
+- **Frontend**: 10
+- **Security**: 10
+- **Google**: 7
+- **Anthropic**: 5
+- **OpenAI**: 4
+- **GitHub**: 3
+- **Facebook**: 2
+- **HuggingFace**: 2
+- **Meta**: 2
+- **Python Software Foundation**: 2
+- **Stripe**: 2
+- **Vercel**: 2
+- **Apache**: 1
+- **DeepMind**: 1
+- **Discord**: 1
+- **Docker Inc**: 1
+- **Elastic**: 1
+- **Evan You**: 1
+- **HashiCorp**: 1
+- **LMSYS**: 1
+- **Linear**: 1
+- **NASA**: 1
+- **Notion**: 1
+- **PostgreSQL**: 1
+- **Rust Foundation**: 1
+- **SQLite**: 1
+- **Slack**: 1
+- **Stanford**: 1
+- **Supabase**: 1
+- **Twilio**: 1
+- **WeatherAPI**: 1
+
+## Top Tags
+
+- **region:us**: 176
+- **text-generation**: 61
+- **safetensors**: 54
+- **transformers**: 54
+- **endpoints_compatible**: 53
+- **license:apache-2.0**: 50
+- **library:datasets**: 49
+- **library:mlcroissant**: 49
+- **conversational**: 46
+- **language:en**: 45
+- **modality:text**: 44
+- **license:mit**: 37
+- **library:polars**: 36
+- **format:parquet**: 33
+- **text-generation-inference**: 31
+- **deploy:azure**: 29
+- **enterprise**: 25
+- **en**: 22
+- **eval-results**: 21
+- **task_categories:text-generation**: 20
+- **library:dask**: 18
+- **library:pandas**: 18
+- **api**: 16
+- **qwen3**: 16
+- **size_categories:n<1K**: 14
+- **license:other**: 13
+- **modality:tabular**: 13
+- **modality:image**: 11
+- **fp8**: 10
+- **license:cc-by-4.0**: 10
+- **multilinguality:monolingual**: 10
+- **pytorch**: 10
+- **size_categories:100K<n<1M**: 10
+- **task_categories:robotics**: 10
+- **arxiv:2505.09388**: 9
+- **license:odc-by**: 9
+- **modality:video**: 9
+- **python**: 9
+- **size_categories:10K<n<100K**: 9
+- **source_datasets:original**: 9
+- **language:ar**: 8
+- **security**: 8
+- **size_categories:100M<n<1B**: 8
+- **size_categories:1M<n<10M**: 8
+- **arxiv:2309.00071**: 7
+- **custom_code**: 7
+- **language:fr**: 7
+- **llama**: 7
+- **modality:audio**: 7
+- **react**: 7
+>>>>>>> Stashed changes

@@ -4,7 +4,7 @@ Plugins are registered by type and name for deterministic lookup.
 """
 from typing import Dict, List, Optional, Type
 from scripts.plugins.base_plugin import BasePlugin
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("plugin_registry")
 

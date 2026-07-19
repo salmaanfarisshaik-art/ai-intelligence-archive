@@ -15,8 +15,8 @@ import shutil
 from datetime import datetime, timezone
 from typing import Dict, Any
 
-from scripts.lib.logger import setup_logger
-from scripts.lib.config_loader import config
+from core.logger import setup_logger
+from core.config_loader import config
 
 logger = setup_logger("snapshot_generator")
 
@@ -52,19 +52,33 @@ class SnapshotGenerator:
         try:
             os.makedirs(snapshot_dir, exist_ok=True)
             
-            # Copy canonical data (data.json files from processed)
+            DOMAINS = ['skills', 'apis', 'benchmarks', 'datasets', 'ide_rules', 'mcps', 'models', 'news', 'prompts', 'tools']
+            
+            # Copy canonical data (sharded json files from domains)
             target_data_dir = os.path.join(snapshot_dir, "processed")
             os.makedirs(target_data_dir, exist_ok=True)
             
-            if os.path.isdir(self.processed_dir):
-                for cat in os.listdir(self.processed_dir):
-                    cat_path = os.path.join(self.processed_dir, cat)
-                    if os.path.isdir(cat_path):
-                        data_file = os.path.join(cat_path, "data.json")
-                        if os.path.exists(data_file):
-                            target_cat_dir = os.path.join(target_data_dir, cat)
-                            os.makedirs(target_cat_dir, exist_ok=True)
-                            shutil.copy2(data_file, os.path.join(target_cat_dir, "data.json"))
+            for domain in DOMAINS:
+                if os.path.isdir(domain):
+                    target_domain_dir = os.path.join(target_data_dir, domain)
+                    os.makedirs(target_domain_dir, exist_ok=True)
+                    # We copy everything in the domain EXCEPT python files or readmes.
+                    # Actually, we can just use shutil.copytree but ignore .py and .md files.
+                    def ignore_files(dir_name, files):
+                        return [f for f in files if f.endswith('.py') or f.endswith('.md') or f == '__pycache__']
+                        
+                    # shutil.copytree requires the destination directory to not exist,
+                    # but we already created it. So we copy to a temp dir then move or copy contents.
+                    # Or simpler:
+                    import glob
+                    json_files = glob.glob(f"{domain}/*/*.json")
+                    for jf in json_files:
+                        # jf looks like models/openai/model.json
+                        # target should be snapshot/processed/models/openai/model.json
+                        rel_path = os.path.relpath(jf, domain)
+                        target_path = os.path.join(target_domain_dir, rel_path)
+                        os.makedirs(os.path.dirname(target_path), exist_ok=True)
+                        shutil.copy2(jf, target_path)
 
             # Copy metadata indexes
             target_meta_dir = os.path.join(snapshot_dir, "metadata")

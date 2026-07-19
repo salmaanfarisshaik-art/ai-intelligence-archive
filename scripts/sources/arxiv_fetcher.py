@@ -1,7 +1,7 @@
 import xml.etree.ElementTree as ET
 from typing import List, Dict, Any
-from scripts.lib.api_client import api_client
-from scripts.lib.logger import setup_logger
+from core.api_client import api_client
+from core.logger import setup_logger
 
 logger = setup_logger("arxiv_fetcher")
 

@@ -1,7 +1,6 @@
 {
   "data_categories": [
-    "ai_skills_library",
-    "api_providers",
+    "apis",
     "benchmarks",
     "datasets",
     "ide_rules",
@@ -9,20 +8,36 @@
     "models",
     "news",
     "prompts",
+    "skills",
     "tools"
   ],
+<<<<<<< Updated upstream
   "generated_at": "2026-07-19T10:26:47.481927+00:00",
+=======
+  "generated_at": "2026-07-19T11:38:27.001749+00:00",
+>>>>>>> Stashed changes
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "manifest_type": "repository",
   "output_directories": {
     "documentation": "docs/",
+    "domains": [
+      "skills",
+      "apis",
+      "benchmarks",
+      "datasets",
+      "ide_rules",
+      "mcps",
+      "models",
+      "news",
+      "prompts",
+      "tools"
+    ],
     "exports_csv": "exports/csv/",
     "exports_json": "exports/json/",
     "exports_markdown": "exports/markdown/",
     "graph": "graph/",
     "metadata": "data/metadata/",
-    "processed_data": "data/processed/",
     "releases": "releases/",
     "reports": "reports/",
     "site_assets": "site/",

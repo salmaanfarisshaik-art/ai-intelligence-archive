@@ -28,7 +28,7 @@
       "related_tools": []
     },
     "source_url": "https://huggingface.co/Qwen/Qwen3-Embedding-0.6B",
-    "local_path": "data/processed/models/data.json#hf_Qwen_Qwen3-Embedding-0.6B"
+    "local_path": "models\\qwen\\hf_Qwen_Qwen3-Embedding-0.6B.json"
   },
   {
     "id": "hf_Qwen_Qwen3-Embedding-4B",
@@ -58,6 +58,37 @@
       "related_tools": []
     },
     "source_url": "https://huggingface.co/Qwen/Qwen3-Embedding-4B",
-    "local_path": "data/processed/models/data.json#hf_Qwen_Qwen3-Embedding-4B"
+    "local_path": "models\\qwen\\hf_Qwen_Qwen3-Embedding-4B.json"
+  },
+  {
+    "id": "hf_Qwen_Qwen3-Embedding-8B",
+    "title": "Qwen/Qwen3-Embedding-8B",
+    "category": "feature-extraction",
+    "source": "Hugging Face",
+    "tags": [
+      "arxiv:2506.05176",
+      "base_model:Qwen/Qwen3-8B-Base",
+      "base_model:finetune:Qwen/Qwen3-8B-Base",
+      "deploy:azure",
+      "endpoints_compatible",
+      "feature-extraction",
+      "license:apache-2.0",
+      "qwen3",
+      "region:us",
+      "safetensors",
+      "sentence-similarity",
+      "sentence-transformers",
+      "text-embeddings-inference",
+      "text-generation",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/Qwen/Qwen3-Embedding-8B",
+    "local_path": "models\\qwen\\hf_Qwen_Qwen3-Embedding-8B.json"
   }
 ]

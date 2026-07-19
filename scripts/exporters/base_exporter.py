@@ -1,7 +1,7 @@
 import os
 import json
 from typing import List, Dict, Any
-from scripts.lib.logger import setup_logger
+from core.logger import setup_logger
 
 logger = setup_logger("base_exporter")
 

@@ -46,8 +46,8 @@ jobs:
           ENABLE_AUTOPUSH: "false"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        timeout-minutes: 180  # Phase 8.5 mass expansion can take up to 3 hours initially
-        continue-on-error: true  # A failure to ingest one source repository must never terminate the pipeline
+        timeout-minutes: 180
+        continue-on-error: true
         run: |
           python scripts/main.py
 
@@ -55,7 +55,8 @@ jobs:
         run: |
           git config user.name "salmaanfarisshaik-art"
           git config user.email "salmaanfaris.shaik@gmail.com"
-          git add data/ reports/
+          git config core.longpaths true
+          git add .
           if ! git diff --cached --quiet; then
             git commit -m "chore: automated archive sync [skip ci]"
             git push

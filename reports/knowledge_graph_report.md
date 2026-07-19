@@ -1,5 +1,6 @@
 # Knowledge Graph Report
         
+<<<<<<< Updated upstream
 Generated at: 2026-07-19T10:27:32Z
 
 ## Graph Statistics
@@ -17,3 +18,12 @@ Generated at: 2026-07-19T10:27:32Z
 - news: 41000
 - prompts: 49301
 - tools: 4254
+=======
+Generated at: 2026-07-19T11:44:39Z
+
+## Graph Statistics
+- Total Nodes: 0
+- Total Edges: 0
+
+## Node Types
+>>>>>>> Stashed changes

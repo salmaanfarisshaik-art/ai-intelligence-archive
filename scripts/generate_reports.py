@@ -1,8 +1,8 @@
 import os
 import json
 from datetime import datetime, timezone
-from scripts.lib.config_loader import config
-from scripts.lib.logger import setup_logger
+from core.config_loader import config
+from core.logger import setup_logger
 
 logger = setup_logger("generate_reports")
 

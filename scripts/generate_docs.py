@@ -3,8 +3,8 @@ import json
 import re
 from typing import Dict, Any, List
 
-from scripts.lib.logger import setup_logger
-from scripts.lib.config_loader import config
+from core.logger import setup_logger
+from core.config_loader import config
 
 logger = setup_logger("generate_docs")
 
