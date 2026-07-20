@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | GitHub Trending |  | 0 |
 | [autogen](https://github.com/microsoft/autogen) | GitHub Trending |  | 0 |
 | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | GitHub Trending |  | 0 |
 | [career-ops](https://github.com/santifer/career-ops) | GitHub Trending |  | 0 |

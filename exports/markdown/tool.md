@@ -100,6 +100,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
 
+## AI-For-Beginners
+- **ID**: gh_344190478
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)
+
 ## stable-diffusion-webui
 - **ID**: gh_527591471
 - **Source**: GitHub Trending
