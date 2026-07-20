@@ -4361,6 +4361,11 @@
 - **URL**: [https://openai.com/index/running-codex-safely](https://openai.com/index/running-codex-safely)
 
 ## 
+- **ID**: rss_https://openai.com/index/safety-alignment-long-horizon-models
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/safety-alignment-long-horizon-models](https://openai.com/index/safety-alignment-long-horizon-models)
+
+## 
 - **ID**: rss_https://openai.com/index/safety-bug-bounty
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/safety-bug-bounty](https://openai.com/index/safety-bug-bounty)

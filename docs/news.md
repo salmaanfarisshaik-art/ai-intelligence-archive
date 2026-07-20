@@ -877,6 +877,7 @@
 | [](https://openai.com/index/rogo) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/rox) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/running-codex-safely) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/safety-alignment-long-horizon-models) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/safety-bug-bounty) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/safety-gym) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/safetykit) | OpenAI Blog |  | 0 |
