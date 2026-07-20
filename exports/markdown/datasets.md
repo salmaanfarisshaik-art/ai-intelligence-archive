@@ -85,6 +85,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_albertflores3900_albertflores3900
+- **Source**: 
+
+## 
 - **ID**: dataset_albertvillanova_datasets_tests_compression
 - **Source**: 
 
@@ -170,6 +174,10 @@
 
 ## 
 - **ID**: dataset_allenai_sciq
+- **Source**: 
+
+## 
+- **ID**: dataset_allenai_tulu_3_sft_mixture
 - **Source**: 
 
 ## 
@@ -729,6 +737,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_comfoa_knowledge_map_shards
+- **Source**: 
+
+## 
 - **ID**: dataset_common_canvas_commoncatalog_cc_by_sa
 - **Source**: 
 
@@ -1078,6 +1090,10 @@
 
 ## 
 - **ID**: dataset_flw_tu_dortmund_mr6d
+- **Source**: 
+
+## 
+- **ID**: dataset_fm4cs_thor_pretrain
 - **Source**: 
 
 ## 
@@ -1545,7 +1561,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_2026062250e0
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_20260623407d
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_202606287bd8
 - **Source**: 
 
 ## 
@@ -2670,6 +2694,10 @@
 
 ## 
 - **ID**: dataset_onfdata_content_202606188b91
+- **Source**: 
+
+## 
+- **ID**: dataset_onfdata_content_20260623ac96
 - **Source**: 
 
 ## 

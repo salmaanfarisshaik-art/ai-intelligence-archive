@@ -90,6 +90,7 @@
 | bartowski/Meta-Llama-3.1-8B-Instruct-GGUF |  |  | 0 |
 | bartowski/microsoft_Phi-4-mini-instruct-GGUF |  |  | 0 |
 | bartowski/Mistral-7B-Instruct-v0.3-GGUF |  |  | 0 |
+| bartowski/Mistral-Nemo-Instruct-2407-GGUF |  |  | 0 |
 | bartowski/Mistral-Small-24B-Instruct-2501-GGUF |  |  | 0 |
 | bartowski/NemoMix-Unleashed-12B-GGUF |  |  | 0 |
 | bartowski/North-Mini-Code-1.0-GGUF |  |  | 0 |
@@ -148,6 +149,7 @@
 | ChantalPellegrini/RaDialog-interactive-radiology-report-generation |  |  | 0 |
 | codellama/CodeLlama-7b-hf |  |  | 0 |
 | codellama/CodeLlama-7b-Instruct-hf |  |  | 0 |
+| CohereLabs/aya-expanse-8b |  |  | 0 |
 | CohereLabs/North-Mini-Code-1.0-fp8 |  |  | 0 |
 | ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b |  |  | 0 |
 | culturerevolt/gemma-4-12b-heretic-abliterated-GGUF |  |  | 0 |
@@ -669,6 +671,7 @@
 | naver-hyperclovax/HyperCLOVAX-SEED-Vision-Instruct-3B |  |  | 0 |
 | nerkyor/Qwen3.6-27B-DSV4Pro-Thinking-Distill |  |  | 0 |
 | nerkyor/Qwen3.6-27B-DSV4Pro-Thinking-Distill-GGUF |  |  | 0 |
+| nerkyor/Qwen3.6-35B-A3B-DSV4Pro-Thinking-Distill |  |  | 0 |
 | neuralcrew/neutrino-instruct |  |  | 0 |
 | NexVeridian/Qwen3-Coder-Next-8bit |  |  | 0 |
 | nm-testing/Meta-Llama-3-8B-Instruct-nonuniform-test |  |  | 0 |
@@ -988,6 +991,7 @@
 | RedHatAI/Meta-Llama-3.1-8B-Instruct-FP8 |  |  | 0 |
 | RedHatAI/Meta-Llama-3.1-8B-Instruct-FP8-dynamic |  |  | 0 |
 | RedHatAI/Meta-Llama-3.1-8B-Instruct-quantized.w4a16 |  |  | 0 |
+| RedHatAI/Meta-Llama-3.1-8B-Instruct-quantized.w8a8 |  |  | 0 |
 | RedHatAI/phi-4-quantized.w4a16 |  |  | 0 |
 | RedHatAI/Qwen2-1.5B-Instruct-FP8 |  |  | 0 |
 | RedHatAI/Qwen2.5-1.5B-quantized.w8a8 |  |  | 0 |
@@ -1126,6 +1130,7 @@
 | txn545/Qwen3.5-122B-A10B-NVFP4 |  |  | 0 |
 | typhoon-ai/llama3.1-typhoon2-8b-instruct |  |  | 0 |
 | typhoon-ai/typhoon2.5-qwen3-4b |  |  | 0 |
+| ucbye/Qwen3-Coder-Next-NVFP4-GB10 |  |  | 0 |
 | unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF |  |  | 0 |
@@ -1220,6 +1225,7 @@
 | upstage/SOLAR-10.7B-Instruct-v1.0 |  |  | 0 |
 | upstage/solar-pro-preview-instruct |  |  | 0 |
 | utter-project/EuroLLM-22B-Instruct-2512 |  |  | 0 |
+| utter-project/EuroLLM-9B-Instruct-2512 |  |  | 0 |
 | Vamsi/T5_Paraphrase_Paws |  |  | 0 |
 | vcruz305/Hy3-GGUF |  |  | 0 |
 | vectionlabs/VL-1-Coder |  |  | 0 |

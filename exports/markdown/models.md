@@ -340,6 +340,10 @@
 - **ID**: model_bartowski_mistral_7b_instruct_v0_3_gguf
 - **Source**: 
 
+## bartowski/Mistral-Nemo-Instruct-2407-GGUF
+- **ID**: model_bartowski_mistral_nemo_instruct_2407_gguf
+- **Source**: 
+
 ## bartowski/Mistral-Small-24B-Instruct-2501-GGUF
 - **ID**: model_bartowski_mistral_small_24b_instruct_2501_gguf
 - **Source**: 
@@ -570,6 +574,10 @@
 
 ## codellama/CodeLlama-7b-Instruct-hf
 - **ID**: model_codellama_codellama_7b_instruct_hf
+- **Source**: 
+
+## CohereLabs/aya-expanse-8b
+- **ID**: model_coherelabs_aya_expanse_8b
 - **Source**: 
 
 ## CohereLabs/North-Mini-Code-1.0-fp8
@@ -2656,6 +2664,10 @@
 - **ID**: model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill_gguf
 - **Source**: 
 
+## nerkyor/Qwen3.6-35B-A3B-DSV4Pro-Thinking-Distill
+- **ID**: model_nerkyor_qwen3_6_35b_a3b_dsv4pro_thinking_distill
+- **Source**: 
+
 ## neuralcrew/neutrino-instruct
 - **ID**: model_neuralcrew_neutrino_instruct
 - **Source**: 
@@ -3928,6 +3940,10 @@
 - **ID**: model_redhatai_meta_llama_3_1_8b_instruct_quantized_w4a16
 - **Source**: 
 
+## RedHatAI/Meta-Llama-3.1-8B-Instruct-quantized.w8a8
+- **ID**: model_redhatai_meta_llama_3_1_8b_instruct_quantized_w8a8
+- **Source**: 
+
 ## RedHatAI/Meta-Llama-3-8B-Instruct-FP8-KV
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
 - **Source**: 
@@ -4484,6 +4500,10 @@
 - **ID**: model_typhoon_ai_typhoon2_5_qwen3_4b
 - **Source**: 
 
+## ucbye/Qwen3-Coder-Next-NVFP4-GB10
+- **ID**: model_ucbye_qwen3_coder_next_nvfp4_gb10
+- **Source**: 
+
 ## unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF
 - **ID**: model_unsloth_deepseek_r1_0528_qwen3_8b_gguf
 - **Source**: 
@@ -4858,6 +4878,10 @@
 
 ## utter-project/EuroLLM-22B-Instruct-2512
 - **ID**: model_utter_project_eurollm_22b_instruct_2512
+- **Source**: 
+
+## utter-project/EuroLLM-9B-Instruct-2512
+- **ID**: model_utter_project_eurollm_9b_instruct_2512
 - **Source**: 
 
 ## Vamsi/T5_Paraphrase_Paws
