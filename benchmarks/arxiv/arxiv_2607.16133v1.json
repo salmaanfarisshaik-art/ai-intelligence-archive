@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16133v1",
+  "schema_version": "1.0",
+  "name": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16133v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16133v1",
+    "updated": "2026-07-17T17:13:44Z",
+    "published": "2026-07-17T17:13:44Z",
+    "title": "When Do Multi-Agent Systems Help? An Information Bottleneck Perspective",
+    "summary": "LLM powered multi-agent systems (MAS) have emerged as a promising paradigm for complex tasks. However, their advantages over single-agent systems (SAS) remain unclear, with performance varying inconsistently across settings. Here, we provide an information bottleneck perspective on elucidating the differences between MAS and SAS. Specifically, our key observation is that a SAS accumulates its full reasoning trace in one shared context, while a MAS uses isolated local contexts connected by bounded relay messages. We show that, under infinite relay bandwidth, any SAS can be simulated by a MAS that transmits the full upstream context. Thus, the nontrivial advantage of MAS arises under bounded relays, where compression introduces a fundamental trade-off: reducing redundant context can improve efficiency, but may also incur loss of task-relevant information. We formalize this trade-off as an information bottleneck controlled by an effective parameter $β$, which captures how the balance shifts with model capability, and shows that MAS gains arise when context reduction outweighs relay information loss. We conduct 18 controlled experiments across five benchmarks and three model scales to validate our theoretical studies. We observe that MAS consistently helps when relays are near-sufficient, especially for weaker models. In contrast, MAS gains shrink or reverse when relays incur information loss, especially for stronger models that can already extract useful information from redundant context and thus gain little from compression. Our study shows that multi-agent design is fundamentally an information-bottleneck optimization problem. This perspective explains when bounded inter-agent communication helps or hurts.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T17:13:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16133v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

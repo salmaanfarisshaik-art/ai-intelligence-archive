@@ -11,6 +11,7 @@
 | [MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](http://arxiv.org/abs/2607.15205v1) | ArXiv |  | 1 |
 | [Regulating the Machine Contributor: Governance and Policy Alignment in Open Source](http://arxiv.org/abs/2606.14594v1) | ArXiv |  | 1 |
 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](http://arxiv.org/abs/2606.29538v3) | ArXiv |  | 1 |
+| [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](http://arxiv.org/abs/2606.29538v4) | ArXiv |  | 1 |
 | [Selection Without Signal, Recovery Through Expression: A Measurement Study of Post-Hoc Falsification Operators for Frozen Small Code Models](http://arxiv.org/abs/2606.16999v1) | ArXiv |  | 1 |
 | [When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime](http://arxiv.org/abs/2606.14589v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

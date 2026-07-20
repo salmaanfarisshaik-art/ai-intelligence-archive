@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.03751v2",
+  "schema_version": "1.0",
+  "name": "Interaction-Aware Whole-Body Control for Compliant Object Transport",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.03751v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.03751v2",
+    "updated": "2026-07-17T17:40:32Z",
+    "published": "2026-03-04T05:50:40Z",
+    "title": "Interaction-Aware Whole-Body Control for Compliant Object Transport",
+    "summary": "Cooperative object transport in unstructured environments remains challenging for assistive humanoids because strong, time-varying interaction forces can make tracking-centric whole-body control unreliable, especially in close-contact support tasks. This paper proposes a bio-inspired, interaction-oriented whole-body control (IO-WBC) that functions as an artificial cerebellum - an adaptive motor agent that translates upstream (skill-level) commands into stable, physically consistent whole-body behavior under contact. This work structurally separates upper-body interaction execution from lower-body support control, enabling the robot to maintain balance while shaping force exchange in a tightly coupled robot-object system. A trajectory-optimized reference generator (RG) provides a kinematic prior, while a reinforcement learning (RL) policy governs body responses under heavy-load interactions and disturbances. The policy is trained in simulation with randomized payload mass/inertia and external perturbations, and deployed via asymmetric teacher-student distillation so that the student relies only on proprioceptive histories at runtime. Extensive experiments demonstrate that IO-WBC maintains stable whole-body behavior and physical interaction even when precise velocity tracking becomes infeasible, enabling compliant object transport across a wide range of scenarios.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T17:40:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.03751v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

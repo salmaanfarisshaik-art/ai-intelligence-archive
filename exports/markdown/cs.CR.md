@@ -60,3 +60,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15263v1](http://arxiv.org/abs/2607.15263v1)
 
+## Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents
+- **ID**: arxiv_2607.15263v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15263v2](http://arxiv.org/abs/2607.15263v2)
+
+## Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities
+- **ID**: arxiv_2607.16175v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16175v1](http://arxiv.org/abs/2607.16175v1)
+

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11453v3](http://arxiv.org/abs/2602.11453v3)
 
+## Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering
+- **ID**: arxiv_2604.04593v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.04593v2](http://arxiv.org/abs/2604.04593v2)
+
 ## Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA
 - **ID**: arxiv_2604.23336v3
 - **Source**: ArXiv

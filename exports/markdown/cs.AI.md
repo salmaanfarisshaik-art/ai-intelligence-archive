@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment
+- **ID**: arxiv_2604.23786v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23786v2](http://arxiv.org/abs/2604.23786v2)
+
 ## Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems
 - **ID**: arxiv_2605.27628v2
 - **Source**: ArXiv
@@ -275,10 +280,30 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30252v2](http://arxiv.org/abs/2606.30252v2)
 
+## Internal Pluralism and the Limits of Pairwise Comparisons
+- **ID**: arxiv_2607.02672v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.02672v2](http://arxiv.org/abs/2607.02672v2)
+
+## Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces
+- **ID**: arxiv_2607.04419v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04419v4](http://arxiv.org/abs/2607.04419v4)
+
 ## Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade
 - **ID**: arxiv_2607.06503v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.06503v2](http://arxiv.org/abs/2607.06503v2)
+
+## ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory
+- **ID**: arxiv_2607.10350v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.10350v3](http://arxiv.org/abs/2607.10350v3)
+
+## The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning
+- **ID**: arxiv_2607.11436v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.11436v2](http://arxiv.org/abs/2607.11436v2)
 
 ## Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science
 - **ID**: arxiv_2607.13220v2
@@ -324,4 +349,14 @@
 - **ID**: arxiv_2607.15267v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15267v1](http://arxiv.org/abs/2607.15267v1)
+
+## Harmonizing AI Safety Thresholds
+- **ID**: arxiv_2607.16112v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16112v1](http://arxiv.org/abs/2607.16112v1)
+
+## CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data
+- **ID**: arxiv_2607.16122v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16122v1](http://arxiv.org/abs/2607.16122v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.04893v3",
+  "schema_version": "1.0",
+  "name": "Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.04893v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.04893v3",
+    "updated": "2026-07-17T15:52:32Z",
+    "published": "2026-05-06T13:25:13Z",
+    "title": "Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics",
+    "summary": "Every attention head defines a degree-normalized transport operator, and a growing family of diagnostics reads model behavior (hallucination among them) from its spectrum. We ask what such diagnostics can and cannot infer. The operator splits orthogonally into a symmetric part governing transport \\emph{capacity} and an antisymmetric part encoding \\emph{orientation}. We prove an identifiability limit: every transpose-invariant spectral diagnostic is \\emph{orientation-blind} (unable to distinguish an operator from its transpose, hence blind to the orientation of information flow), with a transpose-stability bound limiting any Lipschitz diagnostic's transpose sensitivity by the asymmetry coefficient $G$. This bounds what spectral diagnostics of the attention operator can resolve (e.g.\\ LapEigvals and the attention-spectral branch of LLM-Check). On the surviving axis, a closed-form bipartite-Cheeger landscape shows uniform causal attention obeys an $n$-independent \\emph{temporal-cut} floor $φ\\ge 1/5$ while window attention pierces it as $O(w/n)$; the floor is an idealized benchmark, not an empirical attractor, and the fraction of real heads falling below it is itself an empirically stable architectural descriptor. The two-axis diagnostic ($φ$ for capacity, $G$ for asymmetry magnitude) yields a falsifiable polarity prediction, borne out \\emph{in sign} under length-controlled, forced-scoring evaluation across decoder-only, encoder-only, and encoder--decoder models (capacity-axis signal 0.62--0.84 LC-AUROC): polarity reverses between HaluEval and MedHallu, directionally as predicted though asymmetric in strength, with decision polarity calibrated per regime.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T15:52:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.04893v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

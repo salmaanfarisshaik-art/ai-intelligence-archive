@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.17750v3",
+  "schema_version": "1.0",
+  "name": "Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.17750v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cond-mat.mtrl-sci",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.17750v3",
+    "updated": "2026-07-17T16:28:53Z",
+    "published": "2026-02-19T15:51:24Z",
+    "title": "Inelastic Constitutive Kolmogorov-Arnold Networks: A generalized framework for automated discovery of interpretable inelastic material models",
+    "summary": "A key problem of solid mechanics is the identification of the constitutive law of a material, that is, the relation between strain history and stress. Machine learning has lead to considerable advances in this field lately. Here we introduce inelastic Constitutive Kolmogorov-Arnold Networks (iCKANs). This novel artificial neural network architecture can discover in an automated manner symbolic constitutive laws describing both the elastic and inelastic behavior of materials. That is, it can translate data from material testing into corresponding elastic and inelastic potential functions in closed mathematical form. We demonstrate the advantages of iCKANs using both synthetic data and experimental data of the viscoelastic polymer materials VHB 4910 and VHB 4905. The results demonstrate that iCKANs accurately capture complex viscoelastic behavior while preserving physical interpretability. It is a particular strength of iCKANs that they can process not only mechanical data but also arbitrary additional information available about a material (e.g., about temperature-dependent behavior). This makes iCKANs a powerful tool to discover in the future also how specific processing or service conditions affect the properties of materials.",
+    "primary_category": "cond-mat.mtrl-sci"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T16:28:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.17750v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

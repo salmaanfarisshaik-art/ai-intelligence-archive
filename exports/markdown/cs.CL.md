@@ -305,6 +305,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13162v2](http://arxiv.org/abs/2607.13162v2)
 
+## What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors
+- **ID**: arxiv_2607.13162v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13162v3](http://arxiv.org/abs/2607.13162v3)
+
+## Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents
+- **ID**: arxiv_2607.15095v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15095v2](http://arxiv.org/abs/2607.15095v2)
+
 ## T^2MLR: Transformer with Temporal Middle-Layer Recurrence
 - **ID**: arxiv_2607.15178v1
 - **Source**: ArXiv
@@ -349,4 +359,34 @@
 - **ID**: arxiv_2607.15277v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15277v1](http://arxiv.org/abs/2607.15277v1)
+
+## Loop the Loopies!
+- **ID**: arxiv_2607.16051v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16051v1](http://arxiv.org/abs/2607.16051v1)
+
+## Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning
+- **ID**: arxiv_2607.16057v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16057v1](http://arxiv.org/abs/2607.16057v1)
+
+## Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D
+- **ID**: arxiv_2607.16072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16072v1](http://arxiv.org/abs/2607.16072v1)
+
+## Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers
+- **ID**: arxiv_2607.16085v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16085v1](http://arxiv.org/abs/2607.16085v1)
+
+## Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content
+- **ID**: arxiv_2607.16117v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16117v1](http://arxiv.org/abs/2607.16117v1)
+
+## ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning
+- **ID**: arxiv_2607.16131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16131v1](http://arxiv.org/abs/2607.16131v1)
 

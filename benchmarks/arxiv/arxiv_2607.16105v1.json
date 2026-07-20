@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16105v1",
+  "schema_version": "1.0",
+  "name": "Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16105v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16105v1",
+    "updated": "2026-07-17T16:40:23Z",
+    "published": "2026-07-17T16:40:23Z",
+    "title": "Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs",
+    "summary": "Understanding how vision-language models (VLMs) interpret data visualizations remains an open problem, and is increasingly important as these models are used for analytical tasks where reliable reasoning is essential. We introduce a lightweight, diagnostic saliency map method tailored for text generation over images using transformer models, the current state-of-the-art models in visualization interpretation. Our approach aggregates the language model's attention over the visual tokens across all heads and layers, then maps this attention back onto the vision encoder's patch grid to localise it over the image, producing a direct correspondence between each generated answer token and the image regions it attended to. This yields fast, gradient-free saliency maps that expose how VLMs allocate focus across visual elements during answer generation, enabling inspection of whether model attention aligns with semantically relevant components. We evaluate our approach using a deletion metric which validates the causal faithfulness of our saliency maps to the model's behavior.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T16:40:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16105v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

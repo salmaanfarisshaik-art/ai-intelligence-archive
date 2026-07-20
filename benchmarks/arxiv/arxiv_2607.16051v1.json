@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16051v1",
+  "schema_version": "1.0",
+  "name": "Loop the Loopies!",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16051v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16051v1",
+    "updated": "2026-07-17T15:28:43Z",
+    "published": "2026-07-17T15:28:43Z",
+    "title": "Loop the Loopies!",
+    "summary": "We present Loopie, the most powerful looped Transformer to date. The Loopie series consists of two Mixture-of-Experts (MoE) models: a 20B-parameter model with 2B active parameters and a 6Bparameter model with 0.6B active parameters. Looped Transformers have long faced a challenge: given an N-fold increase in pre-training compute, increasing the parameter count by a factor of N usually outperforms looping a model N times. Loopie addresses this challenge. Extensive ablation studies, including comparisons with a vanilla 30B-A3B model, show that Loopie substantially outperforms vanilla Transformer baselines trained with the same compute budget. Our novel post-training pipeline equips Loopie with strong reasoning abilities. At the 2025 IMO and IPhO, Loopie achieves gold-medal performance without tools.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T15:28:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16051v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

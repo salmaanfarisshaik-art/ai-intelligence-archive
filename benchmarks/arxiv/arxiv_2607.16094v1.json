@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16094v1",
+  "schema_version": "1.0",
+  "name": "How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16094v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16094v1",
+    "updated": "2026-07-17T16:25:03Z",
+    "published": "2026-07-17T16:25:03Z",
+    "title": "How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA",
+    "summary": "Compositional visual question answering requires Vision-Language Models (VLMs) to execute multiple reasoning operations like object selection, spatial relation resolution, and attribute verification. Despite strong aggregate performance, the mechanistic basis of VLM failures on this task remains underexplored. To address this gap, we analyze vision-operation misalignment in VLMs by examining how failures relate to specific reasoning operations and the internal computational pathways through which they arise and propagate. We introduce an Operation-centric mechanistic framework that decomposes VLM failures by both the reasoning operation where they originate and the internal computational pathway through which they propagate. Our analysis reveals four mechanistically distinct failure modes: grounding failure, reasoning failure, attribute extraction failure, and language prior dominance failure. Each characterized by a unique relationship between visual grounding strength and answer correctness. Through three complementary causal interventions applied across all transformer layers, we further demonstrate a pathway dissociation: grounding failures route exclusively through the feedforward network, reasoning failures route through late-layer attention, and attribute extraction failures localize to the answer-position feedforward computation. This dissociation demonstrates that different failure types require fundamentally different corrective strategies, providing a principled foundation for targeted improvements to VLM reliability in multimedia reasoning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T16:25:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16094v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

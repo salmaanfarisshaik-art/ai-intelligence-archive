@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16060v1",
+  "schema_version": "1.0",
+  "name": "ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16060v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16060v1",
+    "updated": "2026-07-17T15:38:33Z",
+    "published": "2026-07-17T15:38:33Z",
+    "title": "ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering",
+    "summary": "Artistic charts make data memorable and visually engaging, but generating them faithfully demands simultaneously preserving numerical geometry, rendering exact in-image text, binding labels to correct marks, and maintaining coherent artistic style. Current text-to-image and image editing models frequently fail on these coupled constraints, producing distorted geometries, hallucinated text, misbound labels, or over-stylized marks that undermine readability and mathematical integrity. This paper introduces ArtChart, a framework for artistic chart generation with integrated text rendering, encompassing a task definition, benchmark, and evaluation protocol. This is the first work to simultaneously address mathematically faithful chart synthesis, accurate in-image text rendering, and artistic stylization of chart elements. ArtChart features a chart-specific plug-and-play module conditioned on text-free grayscale chart layouts, ensuring mathematical and logical fidelity. A RL learning strategy with OCR accuracy, layout quality, and aesthetic rewards refines generation, while a multi-expert distillation framework resolves inter-reward conflicts through specialized expert optimization. We construct ArtChart-Bench, a bilingual 2K-prompt benchmark spanning four chart types and diverse label formats. We further design ArtChart-Eval, a six-axis evaluation suite covering mathematical logic, text accuracy, text layout, aesthetics, instruction following, and readability, supporting comparison across T2I, image-editing, controllable-generation, and closed-source API models. Extensive experiments demonstrate that ArtChart consistently outperforms open-source baselines, producing charts that are both visually appealing and math faithful.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T15:38:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16060v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

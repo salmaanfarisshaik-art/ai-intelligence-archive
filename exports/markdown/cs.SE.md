@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29538v3](http://arxiv.org/abs/2606.29538v3)
 
+## RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources
+- **ID**: arxiv_2606.29538v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29538v4](http://arxiv.org/abs/2606.29538v4)
+
 ## Early Adoption of Agentic Coding Tools by GitHub Projects
 - **ID**: arxiv_2607.14037v2
 - **Source**: ArXiv

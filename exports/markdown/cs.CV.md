@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.05017v3](http://arxiv.org/abs/2511.05017v3)
 
+## MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs
+- **ID**: arxiv_2511.14159v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.14159v4](http://arxiv.org/abs/2511.14159v4)
+
 ## Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy
 - **ID**: arxiv_2512.03883v3
 - **Source**: ArXiv
@@ -529,4 +534,79 @@
 - **ID**: arxiv_2607.15278v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15278v1](http://arxiv.org/abs/2607.15278v1)
+
+## Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach
+- **ID**: arxiv_2607.16056v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16056v1](http://arxiv.org/abs/2607.16056v1)
+
+## ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering
+- **ID**: arxiv_2607.16060v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16060v1](http://arxiv.org/abs/2607.16060v1)
+
+## Spatial Normalization for Cross-Domain Retinal Layer Segmentation in Optical Coherence Tomography
+- **ID**: arxiv_2607.16065v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16065v1](http://arxiv.org/abs/2607.16065v1)
+
+## HCIG: A Hierarchical Cross-Modal Incongruity Graph Network for Multimodal Sarcasm and Cyberbullying Detection
+- **ID**: arxiv_2607.16076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16076v1](http://arxiv.org/abs/2607.16076v1)
+
+## Adaptive Contrast Enhancement and Optimised Feature Matching for RootSIFT-Based Palm-Vein Recognition
+- **ID**: arxiv_2607.16077v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16077v1](http://arxiv.org/abs/2607.16077v1)
+
+## How Do VLMs Fail? Vision-Operation Misalignment in Compositional VQA
+- **ID**: arxiv_2607.16094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16094v1](http://arxiv.org/abs/2607.16094v1)
+
+## Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs
+- **ID**: arxiv_2607.16105v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16105v1](http://arxiv.org/abs/2607.16105v1)
+
+## Toward Semantic Communication for Real-time Mobile 3D Reconstruction
+- **ID**: arxiv_2607.16128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16128v1](http://arxiv.org/abs/2607.16128v1)
+
+## CLIFE: Camera-LiDAR Fusion Framework for Edge-Deployable Roadside VRU Perception
+- **ID**: arxiv_2607.16154v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16154v1](http://arxiv.org/abs/2607.16154v1)
+
+## An Exam for Active Observers
+- **ID**: arxiv_2607.16165v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16165v1](http://arxiv.org/abs/2607.16165v1)
+
+## Vision-Language Assistant for Emotional Reactions to Risky Driving
+- **ID**: arxiv_2607.16181v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16181v1](http://arxiv.org/abs/2607.16181v1)
+
+## Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA
+- **ID**: arxiv_2607.16189v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16189v1](http://arxiv.org/abs/2607.16189v1)
+
+## FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation
+- **ID**: arxiv_2607.16190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16190v1](http://arxiv.org/abs/2607.16190v1)
+
+## MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction
+- **ID**: arxiv_2607.16192v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16192v1](http://arxiv.org/abs/2607.16192v1)
+
+## Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs
+- **ID**: arxiv_2607.16193v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16193v1](http://arxiv.org/abs/2607.16193v1)
 

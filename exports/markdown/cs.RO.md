@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.01977v5](http://arxiv.org/abs/2403.01977v5)
 
+## Interaction-Aware Whole-Body Control for Compliant Object Transport
+- **ID**: arxiv_2603.03751v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.03751v2](http://arxiv.org/abs/2603.03751v2)
+
 ## Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis
 - **ID**: arxiv_2604.01463v2
 - **Source**: ArXiv
@@ -69,4 +74,9 @@
 - **ID**: arxiv_2607.15275v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15275v1](http://arxiv.org/abs/2607.15275v1)
+
+## VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds
+- **ID**: arxiv_2607.16146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16146v1](http://arxiv.org/abs/2607.16146v1)
 

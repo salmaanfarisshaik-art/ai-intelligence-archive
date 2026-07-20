@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00626v4](http://arxiv.org/abs/2604.00626v4)
 
+## What Is the Minimum Architecture for Prolepsis? Early Irrevocable Commitment Across Tasks in Small Transformers
+- **ID**: arxiv_2604.15010v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.15010v2](http://arxiv.org/abs/2604.15010v2)
+
 ## Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
 - **ID**: arxiv_2604.18419v5
 - **Source**: ArXiv
@@ -24,6 +29,11 @@
 - **ID**: arxiv_2604.21335v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21335v3](http://arxiv.org/abs/2604.21335v3)
+
+## Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics
+- **ID**: arxiv_2605.04893v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.04893v3](http://arxiv.org/abs/2605.04893v3)
 
 ## Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability
 - **ID**: arxiv_2605.25225v2
@@ -169,4 +179,34 @@
 - **ID**: arxiv_2607.11950v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.11950v2](http://arxiv.org/abs/2607.11950v2)
+
+## A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs
+- **ID**: arxiv_2607.12550v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.12550v2](http://arxiv.org/abs/2607.12550v2)
+
+## When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis
+- **ID**: arxiv_2607.16062v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16062v1](http://arxiv.org/abs/2607.16062v1)
+
+## DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning
+- **ID**: arxiv_2607.16090v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16090v1](http://arxiv.org/abs/2607.16090v1)
+
+## Understanding Reasoning from Pretraining to Post-Training
+- **ID**: arxiv_2607.16097v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16097v1](http://arxiv.org/abs/2607.16097v1)
+
+## When Do Multi-Agent Systems Help? An Information Bottleneck Perspective
+- **ID**: arxiv_2607.16133v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16133v1](http://arxiv.org/abs/2607.16133v1)
+
+## When Does Muon Help Agentic Reinforcement Learning?
+- **ID**: arxiv_2607.16169v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16169v1](http://arxiv.org/abs/2607.16169v1)
 

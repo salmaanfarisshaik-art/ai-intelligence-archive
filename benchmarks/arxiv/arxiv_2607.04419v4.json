@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.04419v4",
+  "schema_version": "1.0",
+  "name": "Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.04419v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.04419v4",
+    "updated": "2026-07-17T17:39:00Z",
+    "published": "2026-07-05T17:27:56Z",
+    "title": "Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces",
+    "summary": "Pooling, substituting, or reusing evaluator-derived step rewards assumes that their direction survives a change of evaluation channel. The same frozen transition can violate that assumption. Process rewards vary agent states, while evaluator audits vary scoring configurations; neither first difference isolates their interaction. We define Agent Step Value (ASV) as a channel-indexed target-margin gain and identify the state-by-channel interaction on complete matched faces. Across frozen PubMed question-answering transitions, direct scoring yields a positive mean ASV, while the generated-view channel yields a negative mean. Two matched replay waves reproduce this reversal, and cross-channel sign disagreement exceeds same-channel retry disagreement by 48.0 percentage points. Matched retrieval faces localize the reversal to the generated-view coordinate and trace its direction across a readout-and-stack bridge. A source-only generation contract restores the positive mean direction on artifact-bearing retrievals and removes parser-detected substantive support claims from artifact-free before-state views. ASV turns channel sensitivity into an identified measurement problem that can be localized and tested by intervention before step rewards are reused.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-20T06:16:57Z",
+  "last_updated": "2026-07-17T17:39:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.04419v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85123
+**Total Entities Tracked**: 85173
 
 ## Category Distribution
 
@@ -12,14 +12,14 @@
 - **news**: 1057
 - **datasets**: 1000
 - **text-generation**: 998
-- **cs.CV**: 106
-- **cs.CL**: 70
-- **cs.AI**: 65
+- **cs.CV**: 122
+- **cs.CL**: 78
+- **cs.AI**: 72
 - **tool**: 47
-- **cs.LG**: 34
+- **cs.LG**: 42
+- **cs.RO**: 16
 - **API**: 15
-- **cs.RO**: 14
-- **cs.CR**: 12
+- **cs.CR**: 14
 - **cs.SD**: 11
 - **Backend**: 10
 - **Database**: 10
@@ -28,25 +28,28 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.SE**: 8
+- **cs.SE**: 9
+- **cs.IR**: 7
 - **IDE Rule**: 6
-- **cs.IR**: 6
 - **Benchmark**: 5
 - **AI News**: 4
+- **cs.CY**: 3
 - **cs.HC**: 3
+- **eess.AS**: 3
 - **feature-extraction**: 3
-- **cs.CY**: 2
 - **cs.MA**: 2
-- **eess.AS**: 2
 - **image-text-to-text**: 2
 - **stat.ME**: 2
 - **stat.ML**: 2
 - **text-ranking**: 2
+- **cond-mat.mtrl-sci**: 1
 - **cs.AR**: 1
 - **cs.DB**: 1
+- **cs.DC**: 1
 - **cs.DL**: 1
 - **cs.GT**: 1
 - **cs.LO**: 1
+- **cs.NI**: 1
 - **cs.OS**: 1
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
@@ -59,7 +62,7 @@
 - ****: 29449
 - **Hugging Face**: 2005
 - **OpenAI Blog**: 1045
-- **ArXiv**: 349
+- **ArXiv**: 399
 - **HuggingFace Datasets**: 116
 - **GitHub Trending**: 47
 - **BAIR Blog**: 12

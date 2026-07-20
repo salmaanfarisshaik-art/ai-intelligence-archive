@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20457v1](http://arxiv.org/abs/2606.20457v1)
 
+## Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos
+- **ID**: arxiv_2607.16107v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16107v1](http://arxiv.org/abs/2607.16107v1)
+
