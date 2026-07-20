@@ -52,6 +52,12 @@
 - **URL**: [https://huggingface.co/datasets/google-research-datasets/mbpp](https://huggingface.co/datasets/google-research-datasets/mbpp)
 - **Tags**: annotations_creators:crowdsourced, annotations_creators:expert-generated, arxiv:2108.07732, code-generation, format:parquet, language:en, language_creators:crowdsourced, language_creators:expert-generated, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, modality:text, multilinguality:monolingual, region:us, size_categories:1K<n<10K, source_datasets:original
 
+## rajpurkar/squad
+- **ID**: hf_ds_621ffdd236468d709f181f95
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad)
+- **Tags**: annotations_creators:crowdsourced, arxiv:1606.05250, format:parquet, language:en, language_creators:crowdsourced, language_creators:found, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-sa-4.0, modality:text, multilinguality:monolingual, region:us, size_categories:10K<n<100K, source_datasets:extended|wikipedia, task_categories:question-answering, task_ids:extractive-qa
+
 ## aps/super_glue
 - **ID**: hf_ds_621ffdd236468d709f181fa6
 - **Source**: HuggingFace Datasets

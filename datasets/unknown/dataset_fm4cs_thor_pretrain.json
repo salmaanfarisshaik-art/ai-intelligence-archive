@@ -1,0 +1,32 @@
+{
+  "_id": "6a41996ed15a49618d8a8426",
+  "id": "FM4CS/THOR-Pretrain",
+  "author": "FM4CS",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-06-30T03:51:34.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "0583bae2fc29c8830792079e38b0926389ac61d7",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tTHOR-Pretrain\n\t\n\nCode to load data and details to come soon...\n\n\t\n\t\t\n\t\n\t\n\t\tRelease Notes\n\t\n\n\nglobal_availability_index.parquet -> satellite/metadata.parquet\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\nsatellite/metadata.parquet: satellite sample metadata.\nsatellite/shards/: WebDataset tar shards.\nsatellite/tar_index/: byte-offset sidecar JSON for each satellite tar.\nera5_land/metadata.parquet: ERA5-Land daily metadata.\nera5_land/shards/: ERA5-Land daily WebDataset tar shards.\nera5_land/tar_index/:… See the full description on the dataset page: https://huggingface.co/datasets/FM4CS/THOR-Pretrain.",
+  "downloads": 22920,
+  "tags": [
+    "task_categories:image-feature-extraction",
+    "license:cc-by-sa-4.0",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "climate",
+    "earth observation",
+    "pre-training"
+  ],
+  "createdAt": "2026-06-28T22:00:14.000Z",
+  "key": "",
+  "unique_id": "dataset_fm4cs_thor_pretrain",
+  "schema_version": "1.0"
+}

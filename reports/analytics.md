@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85173
+**Total Entities Tracked**: 85174
 
 ## Category Distribution
 
@@ -8,7 +8,7 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **models**: 1271
-- **dataset**: 1116
+- **dataset**: 1117
 - **news**: 1057
 - **datasets**: 1000
 - **text-generation**: 998
@@ -63,7 +63,7 @@
 - **Hugging Face**: 2005
 - **OpenAI Blog**: 1045
 - **ArXiv**: 399
-- **HuggingFace Datasets**: 116
+- **HuggingFace Datasets**: 117
 - **GitHub Trending**: 47
 - **BAIR Blog**: 12
 - **Backend**: 10
@@ -103,45 +103,45 @@
 
 ## Top Tags
 
-- **region:us**: 176
+- **region:us**: 177
 - **text-generation**: 61
 - **safetensors**: 54
 - **transformers**: 54
 - **endpoints_compatible**: 53
+- **library:datasets**: 50
+- **library:mlcroissant**: 50
 - **license:apache-2.0**: 50
-- **library:datasets**: 49
-- **library:mlcroissant**: 49
 - **conversational**: 46
-- **language:en**: 45
-- **modality:text**: 44
+- **language:en**: 46
+- **modality:text**: 45
+- **library:polars**: 37
 - **license:mit**: 37
-- **library:polars**: 36
-- **format:parquet**: 33
+- **format:parquet**: 34
 - **text-generation-inference**: 31
 - **deploy:azure**: 29
 - **enterprise**: 25
 - **en**: 22
 - **eval-results**: 21
 - **task_categories:text-generation**: 20
+- **library:pandas**: 19
 - **library:dask**: 18
-- **library:pandas**: 18
 - **api**: 16
 - **qwen3**: 16
 - **size_categories:n<1K**: 14
 - **license:other**: 13
 - **modality:tabular**: 13
 - **modality:image**: 11
+- **multilinguality:monolingual**: 11
 - **fp8**: 10
 - **license:cc-by-4.0**: 10
-- **multilinguality:monolingual**: 10
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
+- **size_categories:10K<n<100K**: 10
 - **task_categories:robotics**: 10
 - **arxiv:2505.09388**: 9
 - **license:odc-by**: 9
 - **modality:video**: 9
 - **python**: 9
-- **size_categories:10K<n<100K**: 9
 - **source_datasets:original**: 9
 - **language:ar**: 8
 - **security**: 8
@@ -150,6 +150,6 @@
 - **arxiv:2309.00071**: 7
 - **custom_code**: 7
 - **language:fr**: 7
+- **language_creators:found**: 7
 - **llama**: 7
 - **modality:audio**: 7
-- **react**: 7

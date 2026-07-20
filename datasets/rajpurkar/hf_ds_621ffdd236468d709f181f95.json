@@ -1,0 +1,57 @@
+{
+  "unique_id": "hf_ds_621ffdd236468d709f181f95",
+  "schema_version": "1.0",
+  "name": "rajpurkar/squad",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for SQuAD\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nStanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.\nSQuAD 1.1 contains 100,000+ question-answer pairs on 500+ articles.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nQuestion Answering.… See the full description on the dataset page: https://huggingface.co/datasets/rajpurkar/squad.",
+  "size": "196766",
+  "source_url": "https://huggingface.co/datasets/rajpurkar/squad",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "621ffdd236468d709f181f95",
+    "id": "rajpurkar/squad",
+    "author": "rajpurkar",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2024-03-04T13:54:37.000Z",
+    "likes": 369,
+    "private": false,
+    "sha": "7b6d24c440a36b6815f21b70d25016731768db1f",
+    "description": "\n\t\n\t\t\n\t\tDataset Card for SQuAD\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nStanford Question Answering Dataset (SQuAD) is a reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage, or the question might be unanswerable.\nSQuAD 1.1 contains 100,000+ question-answer pairs on 500+ articles.\n\n\t\n\t\t\n\t\tSupported Tasks and Leaderboards\n\t\n\nQuestion Answering.… See the full description on the dataset page: https://huggingface.co/datasets/rajpurkar/squad.",
+    "downloads": 196766,
+    "paperswithcode_id": "squad",
+    "tags": [
+      "task_categories:question-answering",
+      "task_ids:extractive-qa",
+      "annotations_creators:crowdsourced",
+      "language_creators:crowdsourced",
+      "language_creators:found",
+      "multilinguality:monolingual",
+      "source_datasets:extended|wikipedia",
+      "language:en",
+      "license:cc-by-sa-4.0",
+      "size_categories:10K<n<100K",
+      "format:parquet",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:mlcroissant",
+      "library:polars",
+      "arxiv:1606.05250",
+      "region:us"
+    ],
+    "createdAt": "2022-03-02T23:29:22.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-07-20T09:59:36.530092+00:00",
+  "last_updated": "2024-03-04T13:54:37.000Z",
+  "links": {
+    "related_models": [
+      "datasets/rajpurkar"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

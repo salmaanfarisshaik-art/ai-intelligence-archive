@@ -849,6 +849,7 @@
 | [rad1d1m123/OmniAction](https://huggingface.co/datasets/rad1d1m123/OmniAction) | Hugging Face |  | 0 |
 | [RadGenome/RadGenome-ChestCT](https://huggingface.co/datasets/RadGenome/RadGenome-ChestCT) | Hugging Face |  | 0 |
 | [RaiSantos/fix](https://huggingface.co/datasets/RaiSantos/fix) | Hugging Face |  | 0 |
+| [rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad) | HuggingFace Datasets | annotations_creators:crowdsourced, arxiv:1606.05250, format:parquet, language:en, language_creators:crowdsourced | 1 |
 | [rajpurkar/squad](https://huggingface.co/datasets/rajpurkar/squad) | Hugging Face |  | 0 |
 | [rajpurkar/squad_v2](https://huggingface.co/datasets/rajpurkar/squad_v2) | Hugging Face |  | 0 |
 | [Ramos-Ramos/npb_data_app](https://huggingface.co/datasets/Ramos-Ramos/npb_data_app) | Hugging Face |  | 0 |

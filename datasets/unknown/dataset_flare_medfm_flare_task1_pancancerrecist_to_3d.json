@@ -9,7 +9,7 @@
   "private": false,
   "sha": "77e00f7be21572707ae83105c29a6a7c0bd2cee1",
   "description": "\n\t\n\t\t\n\t\tPan-cancer Segmentation Subtask 2 (Homepage)\n\t\n\nRECIST has been the widely used measurement to quantify the lesion, which use 2D diameter on the largest lesion slice to approximate the lesion size.\nHowever, the diameter cannot capture the complete lesion 3D morphology. \nThis subtask aims to develop lightweight segmentation models to produce 3D lesion masks based on 2D RECIST annotation (diameter marker) on laptop (without using GPU during inference).\n\ninput: 3D image (npz format) and… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/FLARE-Task1-PancancerRECIST-to-3D.",
-  "downloads": 30042,
+  "downloads": 30040,
   "tags": [
     "task_categories:image-segmentation",
     "language:en",

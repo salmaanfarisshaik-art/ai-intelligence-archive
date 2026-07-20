@@ -237,6 +237,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_redhatai_meta_llama_3_1_8b_instruct_quantized_w8a8",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_redhatai_qwen2_5_1_5b_quantized_w8a8",
       "match_type": "exact",
       "score": 2.0
@@ -17191,6 +17196,11 @@
     },
     {
       "entity_id": "dataset_allenai_molmoact2_bimanualyam_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
       "match_type": "exact",
       "score": 1.0
     },
@@ -34895,6 +34905,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_anisoleai_fineweb_tokenized",
       "match_type": "exact",
       "score": 1.0
@@ -40315,6 +40330,11 @@
       "entity_id": "dataset_yuanty_robotwin2_0_fastwam",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_fm4cs_thor_pretrain",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "dataset_salmonnn_cc12",
@@ -72796,6 +72816,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_621ffdd236468d709f181f95",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
       "match_type": "exact",
       "score": 1.0
@@ -99163,6 +99188,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_621ffdd236468d709f181f95",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_621ffdd236468d709f18200d",
       "match_type": "exact",
       "score": 1.0
@@ -99706,6 +99736,11 @@
   ],
   "wildchat": [
     {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_openllm_france_lucie_7b_instruct_v1_1",
       "match_type": "exact",
       "score": 1.5
@@ -99975,6 +100010,11 @@
   ],
   "wildguardmix": [
     {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_allenai_wildguard",
       "match_type": "exact",
       "score": 1.5
@@ -99985,6 +100025,13 @@
       "entity_id": "dataset_xwm_wildgui",
       "match_type": "exact",
       "score": 5.5
+    }
+  ],
+  "wildjailbreak": [
+    {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "wildlife": [
@@ -143879,6 +143926,11 @@
     }
   ],
   "wol": [
+    {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "dataset_google_fleurs",
       "match_type": "exact",

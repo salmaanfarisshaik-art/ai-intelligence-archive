@@ -266,6 +266,42 @@
     "local_path": "datasets/google-research-datasets/hf_ds_621ffdd236468d709f181eb4.json"
   },
   {
+    "id": "hf_ds_621ffdd236468d709f181f95",
+    "title": "rajpurkar/squad",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "annotations_creators:crowdsourced",
+      "arxiv:1606.05250",
+      "format:parquet",
+      "language:en",
+      "language_creators:crowdsourced",
+      "language_creators:found",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:cc-by-sa-4.0",
+      "modality:text",
+      "multilinguality:monolingual",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "source_datasets:extended|wikipedia",
+      "task_categories:question-answering",
+      "task_ids:extractive-qa"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/rajpurkar"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/rajpurkar/squad",
+    "local_path": "datasets/rajpurkar/hf_ds_621ffdd236468d709f181f95.json"
+  },
+  {
     "id": "hf_ds_621ffdd236468d709f181fa6",
     "title": "aps/super_glue",
     "category": "dataset",

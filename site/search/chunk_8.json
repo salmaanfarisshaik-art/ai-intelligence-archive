@@ -1653,6 +1653,11 @@
       "entity_id": "alpaca_7761146183129039558",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_tulu_3_sft_mixture",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "890": [
@@ -1988,6 +1993,11 @@
     },
     {
       "entity_id": "model_redhatai_meta_llama_3_1_8b_instruct_quantized_w4a16",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_redhatai_meta_llama_3_1_8b_instruct_quantized_w8a8",
       "match_type": "exact",
       "score": 5.0
     },
@@ -2583,6 +2593,11 @@
     },
     {
       "entity_id": "model_casperhansen_llama_3_8b_instruct_awq",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_coherelabs_aya_expanse_8b",
       "match_type": "exact",
       "score": 2.0
     },

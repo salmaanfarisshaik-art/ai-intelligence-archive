@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9707ee242e23a48ba5acf36694241e208c3c853e",
   "description": "\n\t\n\t\t\n\t\tGilt Posture Recognition Dataset\n\t\n\n\nEach RGB image has a matching depth image (same filename, .png extension).\nYOLO-format label files correspond to each image.\n\n\n\t\n\t\t\n\t\t🐷 Annotated Postures\n\t\n\nFive postures are labeled using YOLO bounding boxes:\n\n\t\n\t\t\nClass Name\nClass ID\n\n\n\t\t\nfeeding\n0\n\n\nlateral_lying\n1\n\n\nsitting\n2\n\n\nstanding\n3\n\n\nsternal_lying\n4\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t📊 Class Distribution\n\t\n\nBelow is a histogram showing the distribution of posture classes across the dataset:… See the full description on the dataset page: https://huggingface.co/datasets/anilbhujel/Gilt_posture_dataset.",
-  "downloads": 33191,
+  "downloads": 30696,
   "tags": [
     "task_categories:object-detection",
     "task_categories:image-classification",

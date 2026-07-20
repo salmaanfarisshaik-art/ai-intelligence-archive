@@ -5,11 +5,11 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-07-14T04:28:38.000Z",
-  "likes": 84,
+  "likes": 85,
   "private": false,
   "sha": "b1fb11f15b2e4c20b6a99ce5926cb7955c6265ce",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tarXiv LaTeX Source Dataset\n\t\n\n\n  \n    \n  \n  \n    \n  \n  \n\n\nThis dataset provides the entire corpus of arXiv's LaTeX source files, pre-parsed, formatted, and aligned with official metadata in ready-to-query Parquet files.\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhy I Built This\n\t\n\nIf you have ever tried to work with the complete history of arXiv papers at scale, you have likely run into two massive hurdles:\n\nNetwork Egress Costs: While arXiv does offer public bulk access to its source files via S3 (s3://arxiv)… See the full description on the dataset page: https://huggingface.co/datasets/scholarweave/arxiv-latex.",
-  "downloads": 33889,
+  "downloads": 33883,
   "tags": [
     "task_categories:text-generation",
     "task_categories:feature-extraction",

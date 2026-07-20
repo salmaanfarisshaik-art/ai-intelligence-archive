@@ -9,7 +9,7 @@
   "private": false,
   "sha": "35b264d03638db9f4ce671b711558bf7ff0f80d5",
   "description": "\n\t\n\t\t\n\t\tDataset Card for Boolq\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nBoolQ is a question answering dataset for yes/no questions containing 15942 examples. These questions are naturally\noccurring ---they are generated in unprompted and unconstrained settings.\nEach example is a triplet of (question, passage, answer), with the title of the page as optional additional context.\nThe text-pair classification setup is similar to existing natural language inference tasks.\n\n\t\n\t\t\n\t\n\t\n\t\tSupported Tasks and… See the full description on the dataset page: https://huggingface.co/datasets/google/boolq.",
-  "downloads": 50184,
+  "downloads": 49506,
   "paperswithcode_id": "boolq",
   "tags": [
     "task_categories:text-classification",

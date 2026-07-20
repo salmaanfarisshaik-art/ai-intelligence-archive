@@ -9,7 +9,7 @@
   "private": false,
   "sha": "43750fc422c7fbd4289e2df3f7473617a5937acc",
   "description": "\n\t\n\t\t\n\t\tDataset Card for EuroSAT\n\t\n\n\n\t\n\t\t\n\t\tDataset Source\n\t\n\n\nPaper with code\n\n\n\t\n\t\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\ndataset = load_dataset('tranganke/eurosat')\n\n\n\t\n\t\t\n\t\tData Fields\n\t\n\nThe dataset contains the following fields:\n\nimage: An image in RGB format.\nlabel: The label for the image, which is one of 10 classes:\n0: annual crop land \n1: forest\n2: brushland or shrubland\n3: highway or road\n4: industrial buildings or commercial buildings\n5: pasture land\n6: permanent crop land… See the full description on the dataset page: https://huggingface.co/datasets/tanganke/eurosat.",
-  "downloads": 25979,
+  "downloads": 25870,
   "tags": [
     "task_categories:image-classification",
     "language:en",

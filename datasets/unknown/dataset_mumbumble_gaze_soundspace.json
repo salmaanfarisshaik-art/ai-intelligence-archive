@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ffa854e5da9b28c6c33d550ce19b00f2a2f6b375",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUnity + SoundSpaces 2.0 Spatial Audio Dataset (Replica)\n\t\n\nAudio-visual spatial-audio dataset built by placing sound-emitting objects in\n17 Replica indoor scenes with a Unity/PhysX physical placement stage, then\nrendering binaural room impulse responses (RIR) with\nSoundSpaces 2.0 (habitat-sim\nAudioSensor, per-class acoustic materials). Each case ships the listener's\nfirst-person render, per-source binaural RIRs, dry source audio, the\nRIR-convolved per-source audio, a mixed binaural… See the full description on the dataset page: https://huggingface.co/datasets/mumbumble/GAZE_soundspace.",
-  "downloads": 124262,
+  "downloads": 124248,
   "tags": [
     "task_categories:audio-classification",
     "task_categories:other",
