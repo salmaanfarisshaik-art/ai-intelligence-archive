@@ -28815,6 +28815,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_medotter_4d_lung",
       "match_type": "exact",
       "score": 3.5
@@ -28861,11 +28866,6 @@
     },
     {
       "entity_id": "alpaca_6637201251032960643",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 2.0
     },
@@ -43839,11 +43839,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_issai_apples_hsi",
       "match_type": "exact",
       "score": 1.0
@@ -44225,6 +44220,11 @@
     },
     {
       "entity_id": "dataset_flare_medfm_flare_task3_domainadaption",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 1.0
     },
@@ -57634,6 +57634,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "dataset_allenai_objaverse",
       "match_type": "exact",
       "score": 3.0
@@ -58125,11 +58130,6 @@
     },
     {
       "entity_id": "dataset_flare_medfm_flare_task4_mri_fm",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 1.5
     },
@@ -303777,13 +303777,6 @@
     },
     {
       "entity_id": "dataset_qmx548682_lmee_bench",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
-  "cvpr2026": [
-    {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 1.0
     }
