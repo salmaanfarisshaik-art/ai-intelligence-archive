@@ -4,10 +4,10 @@
   "author": "Orannue",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-07-21T10:24:58.000Z",
+  "lastModified": "2026-07-21T12:24:07.000Z",
   "likes": 9,
   "private": false,
-  "sha": "23b54ed75b7dec77c41836ab677c392757b5fb74",
+  "sha": "152f9399050689d957cd5490e611ead1f38f09fe",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tYouTube Video Downloads\n\t\n\nThis dataset contains locally downloaded YouTube video files from /data/youtube_downloads.\n\nSource files scanned: 88549\nUploaded unique filenames: 87367\nDuplicate filenames resolved: 1182\nSelected video bytes: 7103828648301\nManifest rows: 87367\n\nFiles are stored under videos/. Metadata is stored under metadata/.\nmetadata/manifest.csv includes these columns:\ntarget_path, filename, video_id, title, duration_seconds, duration, width, height, exact_width… See the full description on the dataset page: https://huggingface.co/datasets/Orannue/dataset.",
   "downloads": 105144,
   "tags": [

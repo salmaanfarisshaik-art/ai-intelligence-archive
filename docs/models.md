@@ -105,6 +105,7 @@
 | bartowski/Qwen2.5-Coder-14B-Instruct-GGUF |  |  | 0 |
 | bartowski/Qwen2.5-Coder-32B-Instruct-GGUF |  |  | 0 |
 | bartowski/Qwen2.5-Coder-7B-Instruct-GGUF |  |  | 0 |
+| bartowski/Qwen_Qwen3-0.6B-GGUF |  |  | 0 |
 | bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF |  |  | 0 |
 | bartowski/SmolLM2-1.7B-Instruct-GGUF |  |  | 0 |
 | bartowski/TheDrummer_Cydonia-24B-v4.2.0-GGUF |  |  | 0 |
@@ -283,6 +284,7 @@
 | ggml-org/gpt-oss-20b-GGUF |  |  | 0 |
 | ggml-org/stories15M_MOE |  |  | 0 |
 | GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF |  |  | 0 |
+| GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF |  |  | 0 |
 | Goekdeniz-Guelmez/Josiefied-Qwen3-VL-4B-Instruct-abliterated-beta-v1 |  |  | 0 |
 | google-t5/t5-11b |  |  | 0 |
 | google-t5/t5-3b |  |  | 0 |
@@ -460,6 +462,7 @@
 | llm-jp/llm-jp-4-32b-a3b-thinking |  |  | 0 |
 | llm-jp/llm-jp-4-8b-thinking |  |  | 0 |
 | llmat/Qwen3-4B-Instruct-2507-NVFP4 |  |  | 0 |
+| llmfan46/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-uncensored-heretic-GGUF |  |  | 0 |
 | llmfan46/gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-GGUF |  |  | 0 |
 | llmfan46/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic |  |  | 0 |
 | llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF |  |  | 0 |
@@ -692,6 +695,7 @@
 | np-cr/testing-qwen3-moe |  |  | 0 |
 | nvidia/DeepSeek-R1-0528-NVFP4-v2 |  |  | 0 |
 | nvidia/DeepSeek-V3-0324-NVFP4 |  |  | 0 |
+| nvidia/DeepSeek-V3.1-NVFP4 |  |  | 0 |
 | nvidia/DeepSeek-V4-Flash-NVFP4 |  |  | 0 |
 | nvidia/DeepSeek-V4-Pro-NVFP4 |  |  | 0 |
 | nvidia/diffusiongemma-26B-A4B-it-NVFP4 |  |  | 0 |
@@ -974,6 +978,7 @@
 | Qwen/Qwen3Guard-Gen-8B |  |  | 0 |
 | Qwen/QwQ-32B |  |  | 0 |
 | Qwen/QwQ-32B-Preview |  |  | 0 |
+| r0b0tlab/Agents-A1-NVFP4 |  |  | 0 |
 | RavichandranJ/Dolphin3-Cyber-8B-GGUF |  |  | 0 |
 | RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16 |  |  | 0 |
 | RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8 |  |  | 0 |
@@ -1134,6 +1139,7 @@
 | typhoon-ai/typhoon2.5-qwen3-4b |  |  | 0 |
 | ucbye/Qwen3-Coder-Next-NVFP4-GB10 |  |  | 0 |
 | unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF |  |  | 0 |
+| unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Qwen-1.5B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Qwen-7B-unsloth-bnb-4bit |  |  | 0 |
@@ -1268,6 +1274,7 @@
 | z-lab/Qwen3.5-27B-DFlash |  |  | 0 |
 | z-lab/Qwen3.6-27B-DFlash |  |  | 0 |
 | z-lab/Qwen3.6-35B-A3B-DFlash |  |  | 0 |
+| zai-org/GLM-4-9B-0414 |  |  | 0 |
 | zai-org/GLM-4.5 |  |  | 0 |
 | zai-org/GLM-4.5-Air |  |  | 0 |
 | zai-org/GLM-4.5-Air-FP8 |  |  | 0 |

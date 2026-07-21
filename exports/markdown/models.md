@@ -400,6 +400,10 @@
 - **ID**: model_bartowski_qwen2_5_coder_7b_instruct_gguf
 - **Source**: 
 
+## bartowski/Qwen_Qwen3-0.6B-GGUF
+- **ID**: model_bartowski_qwen_qwen3_0_6b_gguf
+- **Source**: 
+
 ## bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF
 - **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf
 - **Source**: 
@@ -1112,6 +1116,10 @@
 - **ID**: model_gnlolot_minicpm5_1b_claude_opus_fable5_thinking_gguf
 - **Source**: 
 
+## GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF
+- **ID**: model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf
+- **Source**: 
+
 ## Goekdeniz-Guelmez/Josiefied-Qwen3-VL-4B-Instruct-abliterated-beta-v1
 - **ID**: model_goekdeniz_guelmez_josiefied_qwen3_vl_4b_instruct_abliterated_beta_v1
 - **Source**: 
@@ -1818,6 +1826,10 @@
 
 ## llmat/Qwen3-4B-Instruct-2507-NVFP4
 - **ID**: model_llmat_qwen3_4b_instruct_2507_nvfp4
+- **Source**: 
+
+## llmfan46/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-uncensored-heretic-GGUF
+- **ID**: model_llmfan46_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_uncensored_heretic_gguf
 - **Source**: 
 
 ## llmfan46/gemma-4-12B-coder-fable5-composer2.5-v1-uncensored-heretic-GGUF
@@ -2746,6 +2758,10 @@
 
 ## nvidia/DeepSeek-V3-0324-NVFP4
 - **ID**: model_nvidia_deepseek_v3_0324_nvfp4
+- **Source**: 
+
+## nvidia/DeepSeek-V3.1-NVFP4
+- **ID**: model_nvidia_deepseek_v3_1_nvfp4
 - **Source**: 
 
 ## nvidia/DeepSeek-V4-Flash-NVFP4
@@ -3876,6 +3892,10 @@
 - **ID**: model_qwen_qwq_32b_preview
 - **Source**: 
 
+## r0b0tlab/Agents-A1-NVFP4
+- **ID**: model_r0b0tlab_agents_a1_nvfp4
+- **Source**: 
+
 ## RavichandranJ/Dolphin3-Cyber-8B-GGUF
 - **ID**: model_ravichandranj_dolphin3_cyber_8b_gguf
 - **Source**: 
@@ -4516,6 +4536,10 @@
 - **ID**: model_unsloth_deepseek_r1_0528_qwen3_8b_gguf
 - **Source**: 
 
+## unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF
+- **ID**: model_unsloth_deepseek_r1_distill_llama_70b_gguf
+- **Source**: 
+
 ## unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF
 - **ID**: model_unsloth_deepseek_r1_distill_llama_8b_gguf
 - **Source**: 
@@ -5074,6 +5098,10 @@
 
 ## zai-org/GLM-4.7-FP8
 - **ID**: model_zai_org_glm_4_7_fp8
+- **Source**: 
+
+## zai-org/GLM-4-9B-0414
+- **ID**: model_zai_org_glm_4_9b_0414
 - **Source**: 
 
 ## zai-org/GLM-5
