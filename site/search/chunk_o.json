@@ -7473,6 +7473,11 @@
   ],
   "ocr": [
     {
+      "entity_id": "model_dots_studio_dots_ocr",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_rednote_hilab_dots_ocr",
       "match_type": "exact",
       "score": 5.0
@@ -7489,6 +7494,11 @@
     },
     {
       "entity_id": "hf_ds_shpklll_OCR-Documents-Dataset",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_dots_studio_dots_mocr",
       "match_type": "exact",
       "score": 3.0
     },
