@@ -1,46 +1,31 @@
 # Change Summary
 
-**Total Changes:** 85
+**Total Changes:** 67
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_introducing-chatgpt-small-business-program.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/codeparrot/hf_ds_621ffdd236468d709f183929.json
+- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- docs/news.md
-- exports/csv/all_entities.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/news.json
-- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M-Instruct.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -67,7 +52,6 @@
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
-- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
@@ -87,7 +71,6 @@
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
