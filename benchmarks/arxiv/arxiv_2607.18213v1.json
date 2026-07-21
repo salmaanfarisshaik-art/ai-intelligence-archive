@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18213v1",
+  "schema_version": "1.0",
+  "name": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18213v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18213v1",
+    "updated": "2026-07-20T17:47:44Z",
+    "published": "2026-07-20T17:47:44Z",
+    "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
+    "summary": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself encodes internal representations indicating the relevance of code context when reading tool output. Based on this finding, we propose SWE-Pruner Pro, which prunes tool outputs directly inside the agent. Concretely, a small head turns the agent's own internal representations into a keep-or-prune label for each line, with a length-aware embedding keyed to each tool output's line count. Across two open-weight backbones and four multi-turn benchmarks, SWE-Pruner Pro saves up to 39% of prompt and completion tokens while preserving task quality, with bounded inference overhead. Notably, on MiMo-V2-Flash SWE-Pruner Pro additionally raises the SWE-Bench Verified resolve rate by +3.8% and the long-context Oolong accuracy by +2.2 points.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T17:47:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18213v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

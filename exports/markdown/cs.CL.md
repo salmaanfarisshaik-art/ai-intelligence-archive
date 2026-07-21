@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.23851v3](http://arxiv.org/abs/2505.23851v3)
 
+## Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models
+- **ID**: arxiv_2506.07691v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
+
 ## Regression Language Models for Code
 - **ID**: arxiv_2509.26476v3
 - **Source**: ArXiv
@@ -20,10 +25,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.19792v5](http://arxiv.org/abs/2601.19792v5)
 
+## ClawBench: Can AI Agents Complete Everyday Online Tasks?
+- **ID**: arxiv_2604.08523v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08523v2](http://arxiv.org/abs/2604.08523v2)
+
 ## Reasoning Models Know What's Important, and Encode It in Their Activations
 - **ID**: arxiv_2604.18307v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.18307v2](http://arxiv.org/abs/2604.18307v2)
+
+## MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization
+- **ID**: arxiv_2604.21370v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.21370v2](http://arxiv.org/abs/2604.21370v2)
 
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
@@ -389,4 +404,39 @@
 - **ID**: arxiv_2607.16131v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16131v1](http://arxiv.org/abs/2607.16131v1)
+
+## VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval
+- **ID**: arxiv_2607.18098v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18098v1](http://arxiv.org/abs/2607.18098v1)
+
+## How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?
+- **ID**: arxiv_2607.18114v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18114v1](http://arxiv.org/abs/2607.18114v1)
+
+## VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design
+- **ID**: arxiv_2607.18181v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18181v1](http://arxiv.org/abs/2607.18181v1)
+
+## PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning
+- **ID**: arxiv_2607.18199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18199v1](http://arxiv.org/abs/2607.18199v1)
+
+## SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
+- **ID**: arxiv_2607.18213v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18213v1](http://arxiv.org/abs/2607.18213v1)
+
+## It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
+- **ID**: arxiv_2607.18232v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18232v1](http://arxiv.org/abs/2607.18232v1)
+
+## Automated Discovery Has No Universally Superior Harness
+- **ID**: arxiv_2607.18235v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18235v1](http://arxiv.org/abs/2607.18235v1)
 

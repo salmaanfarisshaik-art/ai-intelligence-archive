@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16146v1](http://arxiv.org/abs/2607.16146v1)
 
+## Learning Adaptive Safety Margins for Visual Navigation
+- **ID**: arxiv_2607.18200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18200v1](http://arxiv.org/abs/2607.18200v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18200v1",
+  "schema_version": "1.0",
+  "name": "Learning Adaptive Safety Margins for Visual Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18200v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18200v1",
+    "updated": "2026-07-20T17:40:25Z",
+    "published": "2026-07-20T17:40:25Z",
+    "title": "Learning Adaptive Safety Margins for Visual Navigation",
+    "summary": "Robots in cluttered indoor spaces often fail not because they cannot generate collision-free paths, but because a fixed safety margin is mis-calibrated: conservative margins cause detours and timeouts, while permissive margins lead to near-boundary shortcuts under perception bias. Diffusion-based planners propose diverse trajectory candidates from egocentric RGB-D, yet reliable selection remains the bottleneck. We propose a context-conditioned safety critic that learns an adaptive clearance preference for ranking diffusion proposals, decomposed into three complementary terms: (i) a safety term with a clearance-budget penalty and a control-barrier-function residual for waypoint- and transition-wise safety, (ii) an efficiency term combining a smoothness penalty with a safety-gated detour-ratio penalty that avoids detours without incentivizing risky shortcuts, and (iii) a distance-constraint matching term that anchors the learned budget to realized ESDF clearances to prevent margin collapse. We train the critic with privileged ESDF geometry in simulation and distill it into a perception-only selector via a two-stage teacher-student procedure. On PointGoal navigation in HM3D and MP3D, including cross-dataset transfer, our method achieves the highest success rate (SR) and success weighted by path length (SPL) among strong diffusion, optimization, and RL baselines. Trained purely in simulation, it transfers to a Unitree G1 humanoid and navigates cluttered indoor scenes without task-specific tuning.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T17:40:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18200v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

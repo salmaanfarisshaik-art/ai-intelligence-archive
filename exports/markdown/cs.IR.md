@@ -35,3 +35,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15253v1](http://arxiv.org/abs/2607.15253v1)
 
+## FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering
+- **ID**: arxiv_2607.18102v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18102v1](http://arxiv.org/abs/2607.18102v1)
+

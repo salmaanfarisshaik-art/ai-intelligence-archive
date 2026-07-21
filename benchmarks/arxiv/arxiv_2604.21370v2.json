@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.21370v2",
+  "schema_version": "1.0",
+  "name": "MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.21370v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.21370v2",
+    "updated": "2026-07-20T16:36:50Z",
+    "published": "2026-04-23T07:34:26Z",
+    "title": "MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization",
+    "summary": "We present a systematic study of multilingual polarization detection across 22 languages for SemEval-2026 Task 9 (Subtask 1), contrasting multilingual generalists with language-specific specialists and hybrid ensembles. While a standard generalist like XLM-RoBERTa suffices when its tokenizer aligns with the target text, it may struggle with distinct scripts (e.g., Khmer, Odia) where monolingual specialists yield significant gains. Rather than enforcing a single universal architecture, we adopt a language-adaptive framework that switches between multilingual generalists, language-specific specialists, and hybrid ensembles based on development performance. Additionally, cross-lingual augmentation via NLLB-200 yielded mixed results, often underperforming native architecture selection and degrading morphologically rich tracks. Our final system achieves an overall macro-averaged F1 score of 0.796 and an average accuracy of 0.826 across all 22 tracks. Code and final test predictions are publicly available at: https://github.com/Maziarkiani/SemEval2026-Task9-Subtask1-Polarization.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T16:36:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.21370v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

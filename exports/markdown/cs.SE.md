@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15205v1](http://arxiv.org/abs/2607.15205v1)
 
+## TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization
+- **ID**: arxiv_2607.18161v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18161v1](http://arxiv.org/abs/2607.18161v1)
+

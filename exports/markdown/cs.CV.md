@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.15228v3](http://arxiv.org/abs/2508.15228v3)
 
+## 3D and 4D World Modeling: A Survey
+- **ID**: arxiv_2509.07996v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.07996v4](http://arxiv.org/abs/2509.07996v4)
+
 ## Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - **ID**: arxiv_2510.21583v3
 - **Source**: ArXiv
@@ -55,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.05025v2](http://arxiv.org/abs/2512.05025v2)
 
+## NormalView: tree species classification from backpack and aerial lidar data using geometric projections
+- **ID**: arxiv_2512.05610v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.05610v2](http://arxiv.org/abs/2512.05610v2)
+
 ## FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement
 - **ID**: arxiv_2512.09373v3
 - **Source**: ArXiv
@@ -69,6 +79,11 @@
 - **ID**: arxiv_2512.16978v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.16978v2](http://arxiv.org/abs/2512.16978v2)
+
+## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
+- **ID**: arxiv_2601.20720v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.20720v2](http://arxiv.org/abs/2601.20720v2)
 
 ## Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 - **ID**: arxiv_2602.01391v2
@@ -609,4 +624,64 @@
 - **ID**: arxiv_2607.16193v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16193v1](http://arxiv.org/abs/2607.16193v1)
+
+## SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark
+- **ID**: arxiv_2607.18109v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18109v1](http://arxiv.org/abs/2607.18109v1)
+
+## Occlusion-Aware Panoptic Segmentation with Joint Position Embedding and Occlusion-Level Attention
+- **ID**: arxiv_2607.18112v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18112v1](http://arxiv.org/abs/2607.18112v1)
+
+## O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning
+- **ID**: arxiv_2607.18142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18142v1](http://arxiv.org/abs/2607.18142v1)
+
+## Lossless-INR: Lossless Volumetric Implicit Neural Representations
+- **ID**: arxiv_2607.18150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18150v1](http://arxiv.org/abs/2607.18150v1)
+
+## Plenoptic Condensation: A Novel Approach to Generalized Scene Reconstruction
+- **ID**: arxiv_2607.18151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18151v1](http://arxiv.org/abs/2607.18151v1)
+
+## Robust Multimodal Dynamic Object Segmentation
+- **ID**: arxiv_2607.18153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18153v1](http://arxiv.org/abs/2607.18153v1)
+
+## Certified Training for Convolutional Perturbations
+- **ID**: arxiv_2607.18195v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18195v1](http://arxiv.org/abs/2607.18195v1)
+
+## HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement
+- **ID**: arxiv_2607.18217v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18217v1](http://arxiv.org/abs/2607.18217v1)
+
+## GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis
+- **ID**: arxiv_2607.18218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18218v1](http://arxiv.org/abs/2607.18218v1)
+
+## FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
+- **ID**: arxiv_2607.18227v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18227v1](http://arxiv.org/abs/2607.18227v1)
+
+## Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
+- **ID**: arxiv_2607.18230v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18230v1](http://arxiv.org/abs/2607.18230v1)
+
+## The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric
+- **ID**: arxiv_2607.18237v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.05610v2",
+  "schema_version": "1.0",
+  "name": "NormalView: tree species classification from backpack and aerial lidar data using geometric projections",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.05610v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.05610v2",
+    "updated": "2026-07-20T16:34:31Z",
+    "published": "2025-12-05T10:52:55Z",
+    "title": "NormalView: tree species classification from backpack and aerial lidar data using geometric projections",
+    "summary": "Laser scanning has proven to be an invaluable tool in assessing the decomposition of forest environments. Mobile laser scanning (MLS) has shown to be highly promising for extremely accurate, tree level inventory. In this study, we present NormalView, a projection-based deep learning method for classifying tree species from point cloud data. NormalView embeds local geometric information into two-dimensional projections, in the form of normal vector estimates, and uses the projections as inputs to an image classification network, YOLOv11. In addition, we inspected the effect of multispectral radiometric intensity information on classification performance. We trained and tested our model on high-density MLS data (7 species, ~5000 pts/m2), as well as high-density airborne laser scanning (ALS) data (9 species, >1000 pts/m2). On the MLS data, NormalView achieves an overall accuracy (macro-average accuracy) of 95.5 % (94.8 %), and 91.8 % (79.1 %) on the ALS data. We found that having intensity information from multiple scanners provides benefits in tree species classification, and the best model on the multispectral ALS dataset was a model using intensity information from all three channels of the multispectral ALS. This study demonstrates that projection-based methods, when enhanced with geometric information and coupled with state-of-the-art image classification backbones, can achieve exceptional results. Crucially, these methods rely only on geometric information, and thus are compatible with most sensors. Additionally, we publically release the MLS dataset used in the study, containing 1915 samples.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T16:34:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.05610v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

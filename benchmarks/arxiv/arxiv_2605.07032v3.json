@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.07032v3",
+  "schema_version": "1.0",
+  "name": "A Systematic Investigation of RL-Jailbreaking in LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.07032v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.07032v3",
+    "updated": "2026-07-20T17:49:20Z",
+    "published": "2026-05-07T23:22:07Z",
+    "title": "A Systematic Investigation of RL-Jailbreaking in LLMs",
+    "summary": "The evolution of generative models from next-token predictors to autonomous engines of complex systems necessitates rigorous safety hardening. Adversarial jailbreaking, the strategic manipulation of models to elicit harmful output, remains a primary threat to safe deployment. While Reinforcement Learning (RL) frames jailbreaking as a multi-step attack through sequential optimization, a mechanistic understanding of why the framework succeeds remains incomplete. To fill this gap, we present the first systematic decomposition of RL jailbreaking. We deconstruct the framework into problem formalization (reward function, action space, episode length), and algorithmic measures (RL algorithm, training data, reward-shaping) to identify the structural determinants of adversarial success. Our results reveal that the RL-jailbreaker successfully compromised all targeted models and safeguards. Through this first-of-its-kind analysis, we demonstrate that environment formalization, specifically dense rewards and extended episode lengths, is the primary driver of jailbreaking success. This work provides a tool for improving RL-jailbreaker efficiency and, ultimately, harden generative models resistant to RL-based attacks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T17:49:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.07032v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

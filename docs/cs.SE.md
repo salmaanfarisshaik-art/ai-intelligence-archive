@@ -13,5 +13,6 @@
 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](http://arxiv.org/abs/2606.29538v3) | ArXiv |  | 1 |
 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](http://arxiv.org/abs/2606.29538v4) | ArXiv |  | 1 |
 | [Selection Without Signal, Recovery Through Expression: A Measurement Study of Post-Hoc Falsification Operators for Frozen Small Code Models](http://arxiv.org/abs/2606.16999v1) | ArXiv |  | 1 |
+| [TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization](http://arxiv.org/abs/2607.18161v1) | ArXiv |  | 1 |
 | [When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime](http://arxiv.org/abs/2606.14589v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

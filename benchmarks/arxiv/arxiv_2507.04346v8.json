@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.04346v8",
+  "schema_version": "1.0",
+  "name": "Temporally smoothed incremental model-based heuristic dynamic programming for command-filtered cascaded online learning flight control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.04346v8",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.SY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.04346v8",
+    "updated": "2026-07-20T17:22:26Z",
+    "published": "2025-07-06T11:19:34Z",
+    "title": "Temporally smoothed incremental model-based heuristic dynamic programming for command-filtered cascaded online learning flight control",
+    "summary": "Approximate Dynamic Programming (ADP) enables online adaptation of control laws through adaptive critic methods. However, its application to online learning Angle-of-Attack (AoA) tracking control remains challenging due to oscillatory control actions under nonlinear dynamics, which may induce system oscillations, degrade tracking performance, and increase actuator effort. To address this challenge, this paper proposes two innovations for online learning flight control: (1) incorporating temporal-scale policy smoothness regularization into the Incremental Model-based Heuristic Dynamic Programming (IHDP) framework; and (2) employing a low-pass filter to attenuate high-frequency pitch-rate commands. Furthermore, a primal-dual approach is developed to adaptively adjust the smoothness penalty weight in the policy objective according to a prescribed smoothness criterion. Tracking control simulations demonstrate that the proposed methods reduce control system oscillations, improve tracking performance, and exhibit post-training policy robustness to model uncertainties.",
+    "primary_category": "eess.SY"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T17:22:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.04346v8"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

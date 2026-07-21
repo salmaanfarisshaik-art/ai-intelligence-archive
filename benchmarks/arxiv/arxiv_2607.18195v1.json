@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18195v1",
+  "schema_version": "1.0",
+  "name": "Certified Training for Convolutional Perturbations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18195v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18195v1",
+    "updated": "2026-07-20T17:36:05Z",
+    "published": "2026-07-20T17:36:05Z",
+    "title": "Certified Training for Convolutional Perturbations",
+    "summary": "Vision models have been found to be susceptible to perturbations such as motion blur induced at runtime by a shaking camera. This impedes their deployment in critical applications since phenomena such as slightly blurred vision might lead to failures, for example an object detector missing objects. While methods such as data augmentation or Adversarial Training can improve empirical robustness, they lack formal safety guarantees, making it difficult to identify and mitigate hidden vulnerabilities. We introduce a novel Certified Training approach that leverages an efficient encoding of convolutional perturbations to train provably robust models. Our method significantly outperforms Adversarial Training, achieving, for example, over 80% robust accuracy against motion blur of reasonable intensity on CIFAR10 while maintaining comparable standard accuracy.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T17:36:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18195v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

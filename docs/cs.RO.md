@@ -10,6 +10,7 @@
 | [Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation](http://arxiv.org/abs/2606.20491v1) | ArXiv |  | 1 |
 | [Geometric Action Model for Robot Policy Learning](http://arxiv.org/abs/2606.17046v1) | ArXiv |  | 1 |
 | [Interaction-Aware Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751v2) | ArXiv |  | 1 |
+| [Learning Adaptive Safety Margins for Visual Navigation](http://arxiv.org/abs/2607.18200v1) | ArXiv |  | 1 |
 | [Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis](http://arxiv.org/abs/2604.01463v2) | ArXiv |  | 1 |
 | [Mana: Dexterous Manipulation of Articulated Tools](http://arxiv.org/abs/2606.13677v1) | ArXiv |  | 1 |
 | [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](http://arxiv.org/abs/2606.17846v2) | ArXiv |  | 1 |

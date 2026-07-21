@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18116v1",
+  "schema_version": "1.0",
+  "name": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18116v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18116v1",
+    "updated": "2026-07-20T16:11:19Z",
+    "published": "2026-07-20T16:11:19Z",
+    "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
+    "summary": "Recent work leverages Large Language Models (LLMs) to generate executable code for pedagogical animations using libraries such as Manim. However, ensuring spatial correctness and visual legibility remains challenging, as existing frameworks emphasize pedagogical content while overlooking geometric occlusions. We propose the Symbolic Geometric Agent (SGA), a plug-and-play module for code-centric animation pipelines that intercepts LLM-generated code, performs partial execution to extract symbolic scene graphs, and applies targeted refinement when spatial conflicts are detected. We further introduce the Manim Visual Quality Score (MVQS), a deterministic rendering-free proxy for spatial integrity. Experiments on the MMMC-Code benchmark across four LLM backbones and two agentic pipelines show that SGA achieves a peak MVQS of 73.11 (Code2Video + GPT-5.1), corresponding to a 16.1% relative improvement over the raw baseline, and improves MVQS in 7 of 8 backbone x pipeline configurations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T16:11:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18116v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

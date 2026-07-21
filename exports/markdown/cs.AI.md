@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23786v2](http://arxiv.org/abs/2604.23786v2)
 
+## AI for Auto-Research: Roadmap & User Guide
+- **ID**: arxiv_2605.18661v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.18661v2](http://arxiv.org/abs/2605.18661v2)
+
 ## Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems
 - **ID**: arxiv_2605.27628v2
 - **Source**: ArXiv
@@ -280,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30252v2](http://arxiv.org/abs/2606.30252v2)
 
+## Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
+- **ID**: arxiv_2607.01223v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01223v4](http://arxiv.org/abs/2607.01223v4)
+
 ## Internal Pluralism and the Limits of Pairwise Comparisons
 - **ID**: arxiv_2607.02672v2
 - **Source**: ArXiv
@@ -304,6 +314,11 @@
 - **ID**: arxiv_2607.11436v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.11436v2](http://arxiv.org/abs/2607.11436v2)
+
+## Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL
+- **ID**: arxiv_2607.13073v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13073v2](http://arxiv.org/abs/2607.13073v2)
 
 ## Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science
 - **ID**: arxiv_2607.13220v2
@@ -359,4 +374,19 @@
 - **ID**: arxiv_2607.16122v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16122v1](http://arxiv.org/abs/2607.16122v1)
+
+## Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering
+- **ID**: arxiv_2607.18100v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18100v1](http://arxiv.org/abs/2607.18100v1)
+
+## SGA: Plug&Play Geometric Verification for Educational Video Synthesis
+- **ID**: arxiv_2607.18116v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18116v1](http://arxiv.org/abs/2607.18116v1)
+
+## Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes
+- **ID**: arxiv_2607.18228v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18228v1](http://arxiv.org/abs/2607.18228v1)
 

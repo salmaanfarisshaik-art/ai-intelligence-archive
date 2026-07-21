@@ -5,10 +5,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.04219v5](http://arxiv.org/abs/2507.04219v5)
 
+## When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs
+- **ID**: arxiv_2510.22228v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.22228v2](http://arxiv.org/abs/2510.22228v2)
+
 ## Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks
 - **ID**: arxiv_2512.01208v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
+
+## mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks
+- **ID**: arxiv_2601.02451v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.02451v2](http://arxiv.org/abs/2601.02451v2)
 
 ## A Survey of On-Policy Distillation for Large Language Models
 - **ID**: arxiv_2604.00626v4
@@ -34,6 +44,11 @@
 - **ID**: arxiv_2605.04893v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04893v3](http://arxiv.org/abs/2605.04893v3)
+
+## A Systematic Investigation of RL-Jailbreaking in LLMs
+- **ID**: arxiv_2605.07032v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
 
 ## Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability
 - **ID**: arxiv_2605.25225v2
@@ -185,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.12550v2](http://arxiv.org/abs/2607.12550v2)
 
+## Value Leakage: An LLM's Answers Are Silently Shaped by Its Own Values
+- **ID**: arxiv_2607.14345v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14345v3](http://arxiv.org/abs/2607.14345v3)
+
 ## When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis
 - **ID**: arxiv_2607.16062v1
 - **Source**: ArXiv
@@ -209,4 +229,44 @@
 - **ID**: arxiv_2607.16169v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16169v1](http://arxiv.org/abs/2607.16169v1)
+
+## When Does Muon Help Agentic Reinforcement Learning?
+- **ID**: arxiv_2607.16169v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16169v2](http://arxiv.org/abs/2607.16169v2)
+
+## Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator
+- **ID**: arxiv_2607.18101v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18101v1](http://arxiv.org/abs/2607.18101v1)
+
+## LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks
+- **ID**: arxiv_2607.18110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18110v1](http://arxiv.org/abs/2607.18110v1)
+
+## Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints
+- **ID**: arxiv_2607.18144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18144v1](http://arxiv.org/abs/2607.18144v1)
+
+## Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices
+- **ID**: arxiv_2607.18149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18149v1](http://arxiv.org/abs/2607.18149v1)
+
+## OR Else: A Differentiable Trust Region for Policy Optimization
+- **ID**: arxiv_2607.18163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18163v1](http://arxiv.org/abs/2607.18163v1)
+
+## A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing
+- **ID**: arxiv_2607.18164v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18164v1](http://arxiv.org/abs/2607.18164v1)
+
+## Three-Body Scattering for Generative Modeling
+- **ID**: arxiv_2607.18198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18198v1](http://arxiv.org/abs/2607.18198v1)
 

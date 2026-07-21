@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18151v1",
+  "schema_version": "1.0",
+  "name": "Plenoptic Condensation: A Novel Approach to Generalized Scene Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18151v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18151v1",
+    "updated": "2026-07-20T16:50:19Z",
+    "published": "2026-07-20T16:50:19Z",
+    "title": "Plenoptic Condensation: A Novel Approach to Generalized Scene Reconstruction",
+    "summary": "We present a novel Generalized Scene Reconstruction (GSR) approach called Plenoptic Condensation (PCon). PCon uses a multi-stage reconstruction pipeline, initially converting images into \"soupy\" scene elements with low (representational) power, then adaptively condensing the \"soup\" into \"structured\" elements of higher power capable of efficiently representing, for example, sharp edges and smooth reflective surfaces. PCon scene models called Reality Models (Relms) enable spatially varying representational power, which is essential for high-fidelity rendering, measurement, and scene understanding. We showcase several in-the-wild PCon reconstructions captured with consumer phone cameras and drones. In one case called \"Damaged Fiat\", PCon is benchmarked against two state-of-the-art (SOTA) GSR methods: NeRO and RT-Splatting. Referring to Figure 1 below, PCon reconstructs the car hood more than twice as accurately as the SOTA methods. But more importantly, the local damage profile error for PCon is 35 um (0.035 mm), whereas the two other SOTA methods are essentially unable to measure the damage at all. Our project website is available at https://quidient.github.io/pcon-2026.html.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-21T04:14:41Z",
+  "last_updated": "2026-07-20T16:50:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18151v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
