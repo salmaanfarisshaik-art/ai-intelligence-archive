@@ -2546,6 +2546,11 @@
 - **URL**: [https://openai.com/index/introducing-chatgpt-search](https://openai.com/index/introducing-chatgpt-search)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-chatgpt-small-business-program
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-chatgpt-small-business-program](https://openai.com/index/introducing-chatgpt-small-business-program)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-chatgpt-team
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-chatgpt-team](https://openai.com/index/introducing-chatgpt-team)

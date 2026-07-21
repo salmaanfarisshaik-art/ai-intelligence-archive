@@ -514,6 +514,7 @@
 | [](https://openai.com/index/introducing-chatgpt-pro) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-chatgpt-pulse) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-chatgpt-search) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/introducing-chatgpt-small-business-program) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-chatgpt-team) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-child-safety-blueprint) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-codex) | OpenAI Blog |  | 0 |
