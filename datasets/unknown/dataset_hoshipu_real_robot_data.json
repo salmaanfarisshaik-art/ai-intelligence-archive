@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b681ca8c33f3897ac245828cc7bf49e77ab4cec6",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tReal Robot Manipulation Dataset\n\t\n\nTabletop manipulation tasks recorded on a UR5e with a Robotiq 2F-140\ngripper. Most tasks use two Intel RealSense cameras (fixed base + wrist-mounted);\nthe newest hide_block_with_cup task adds a third (opposite-side counter view).\nAll recordings at 20 Hz.\n\n\t\n\t\t\n\t\n\t\n\t\tTasks\n\t\n\n\n\t\n\t\t\nFolder\nEps\nCameras\nInstruction\n\n\n\t\t\nput_blocks_in_plate\n100\n2\nPick two blocks from the table and place them on the plate.\n\n\nremove_blocks_from_plate\n100\n2\nPick two… See the full description on the dataset page: https://huggingface.co/datasets/Hoshipu/real_robot_data.",
-  "downloads": 26835,
+  "downloads": 25093,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

@@ -184,6 +184,7 @@
 | [ccdv/cnn_dailymail](https://huggingface.co/datasets/ccdv/cnn_dailymail) | Hugging Face |  | 0 |
 | [ccoffee20/flatpak](https://huggingface.co/datasets/ccoffee20/flatpak) | HuggingFace Datasets | region:us | 0 |
 | [ccoffee20/flatpak](https://huggingface.co/datasets/ccoffee20/flatpak) | Hugging Face |  | 0 |
+| [CERN/ColliderML-Release-1](https://huggingface.co/datasets/CERN/ColliderML-Release-1) | HuggingFace Datasets | calorimetry, collider-physics, doi:10.57967/hf/7269, format:parquet, high-energy-physics | 1 |
 | [ceval/ceval-exam](https://huggingface.co/datasets/ceval/ceval-exam) | Hugging Face |  | 0 |
 | [Chandanmanvi/MedDialog-Audio](https://huggingface.co/datasets/Chandanmanvi/MedDialog-Audio) | Hugging Face |  | 0 |
 | [ChangChrisLiu/GNN_Disassembly_WorldModel](https://huggingface.co/datasets/ChangChrisLiu/GNN_Disassembly_WorldModel) | Hugging Face |  | 0 |
@@ -1079,6 +1080,7 @@
 | [xycoord/deception-probes-activations](https://huggingface.co/datasets/xycoord/deception-probes-activations) | Hugging Face |  | 0 |
 | [Y123-wed/Multimodal-Dataset-Image_Text_Table_TimeSeries-for-Financial-Time-Series-Forecasting](https://huggingface.co/datasets/Y123-wed/Multimodal-Dataset-Image_Text_Table_TimeSeries-for-Financial-Time-Series-Forecasting) | Hugging Face |  | 0 |
 | [yale-nlp/FOLIO](https://huggingface.co/datasets/yale-nlp/FOLIO) | Hugging Face |  | 0 |
+| [Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12](https://huggingface.co/datasets/Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12) | HuggingFace Datasets | license:mit, region:us | 0 |
 | [Yash2998db/GAIA](https://huggingface.co/datasets/Yash2998db/GAIA) | Hugging Face |  | 0 |
 | [ybisk/piqa](https://huggingface.co/datasets/ybisk/piqa) | Hugging Face |  | 0 |
 | [yeigen/fannie-mae-loan-performance](https://huggingface.co/datasets/yeigen/fannie-mae-loan-performance) | Hugging Face |  | 0 |

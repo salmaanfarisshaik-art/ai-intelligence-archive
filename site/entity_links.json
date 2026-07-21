@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T07:33:18Z",
+  "generated_at": "2026-07-21T10:25:41Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -679,6 +679,11 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen_qwen3_0_6b_gguf",
+      "target_id": "hf_Qwen_Qwen3-0.6B",
       "type": "derived_from"
     },
     {
@@ -1607,6 +1612,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf",
+      "target_id": "hf_GnLOLot_MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_goekdeniz_guelmez_josiefied_qwen3_vl_4b_instruct_abliterated_beta_v1",
       "target_id": "hf_Qwen_Qwen3-VL-4B-Instruct",
       "type": "derived_from"
@@ -2204,6 +2214,11 @@
     {
       "source_id": "model_llmat_qwen3_4b_instruct_2507_nvfp4",
       "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_llmfan46_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_uncensored_heretic_gguf",
+      "target_id": "hf_llmfan46_gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-uncensored-heretic",
       "type": "derived_from"
     },
     {
@@ -3609,6 +3624,11 @@
     {
       "source_id": "model_nvidia_deepseek_v3_0324_nvfp4",
       "target_id": "hf_deepseek-ai_DeepSeek-V3-0324",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_deepseek_v3_1_nvfp4",
+      "target_id": "hf_deepseek-ai_DeepSeek-V3.1",
       "type": "derived_from"
     },
     {
@@ -5242,6 +5262,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_r0b0tlab_agents_a1_nvfp4",
+      "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
       "target_id": "hf_custom-cybersecurity-dataset",
       "type": "trained_on"
@@ -5969,6 +5994,11 @@
     {
       "source_id": "model_unsloth_deepseek_r1_0528_qwen3_8b_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_deepseek_r1_distill_llama_70b_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Llama-70B",
       "type": "derived_from"
     },
     {

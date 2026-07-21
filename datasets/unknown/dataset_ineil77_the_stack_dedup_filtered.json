@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bb84a259b3031b9f4eb698f58f9e7e647a1601dc",
   "description": "This is a filtered version of the near-deduped bigcode/the-stack-dedup dataset. We further apply the following filters:\n\nFor files forked more than 25 times, we retain them if the average line length is less than 140, the maximum line length is less than 500 and the alphanumeric fraction is more than 25%.\n\nFor files forked between 10 and 25 times, we retain them if the average line length is less than 120, the maximum line length is less than 200 and the alphanumeric fraction is more than 35%.… See the full description on the dataset page: https://huggingface.co/datasets/iNeil77/the-stack-dedup-filtered.",
-  "downloads": 72582,
+  "downloads": 72594,
   "tags": [
     "size_categories:100M<n<1B",
     "format:parquet",

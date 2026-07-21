@@ -508,6 +508,12 @@
 - **URL**: [https://huggingface.co/datasets/hasankursun/github-code-2025-language-split](https://huggingface.co/datasets/hasankursun/github-code-2025-language-split)
 - **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:other, modality:text, region:us, size_categories:100M<n<1B, source_datasets:nick007x/github-code-2025
 
+## CERN/ColliderML-Release-1
+- **ID**: hf_ds_692ecca11aad0a1d75ac057c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/CERN/ColliderML-Release-1](https://huggingface.co/datasets/CERN/ColliderML-Release-1)
+- **Tags**: calorimetry, collider-physics, doi:10.57967/hf/7269, format:parquet, high-energy-physics, jet-tagging, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, machine-learning, modality:timeseries, particle-physics, particle-tracking, physics, region:us, simulation, size_categories:10M<n<100M, task_categories:other, tracking
+
 ## tz1002/LLaVA-OneVision-1.5-Mid-Training-85M
 - **ID**: hf_ds_6937cb3e145e00d96aa5338c
 - **Source**: HuggingFace Datasets
@@ -609,6 +615,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HennyPr/ps2_hf2](https://huggingface.co/datasets/HennyPr/ps2_hf2)
 - **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
+
+## Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12
+- **ID**: hf_ds_69b3d79d63e7af41d98f1fd5
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12](https://huggingface.co/datasets/Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12)
+- **Tags**: license:mit, region:us
 
 ## ccoffee20/flatpak
 - **ID**: hf_ds_69b6276dd5de8ef6a41f39e6

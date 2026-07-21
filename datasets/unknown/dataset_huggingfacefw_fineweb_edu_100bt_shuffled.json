@@ -9,7 +9,7 @@
   "private": false,
   "sha": "be6b2a50d3a9c60d330c45384e80c7863cd3a25d",
   "description": "\n\t\n\t\t\n\t\tFineWeb-Edu 100BT (Shuffled)\n\t\n\nA globally shuffled version of HuggingFaceFW/fineweb_edu_100BT.\nPart of the Smol-Data collection — tried and tested mixes for strong pretraining.\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThis dataset contains the same ~100B tokens as fineweb_edu_100BT but with all documents globally shuffled (seed=42). Use this version when you need randomized document ordering for pretraining.\n\n\t\n\t\t\n\t\tHow It Was Created\n\t\n\nThe unshuffled dataset was loaded into memory, shuffled… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/fineweb_edu_100BT-shuffled.",
-  "downloads": 29004,
+  "downloads": 27669,
   "tags": [
     "language:en",
     "license:odc-by",

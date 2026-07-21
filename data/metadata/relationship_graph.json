@@ -115711,6 +115711,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_692ecca11aad0a1d75ac057c",
+      "label": "CERN/ColliderML-Release-1",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6937cb3e145e00d96aa5338c",
       "label": "tz1002/LLaVA-OneVision-1.5-Mid-Training-85M",
       "category": "dataset"
@@ -115793,6 +115798,11 @@
     {
       "id": "hf_ds_69af8aeeec432ae4abac9fd4",
       "label": "HennyPr/ps2_hf2",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_69b3d79d63e7af41d98f1fd5",
+      "label": "Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12",
       "category": "dataset"
     },
     {
@@ -124471,6 +124481,16 @@
       "category": "models"
     },
     {
+      "id": "model_dots_studio_dots_mocr",
+      "label": "dots-studio/dots.mocr",
+      "category": "models"
+    },
+    {
+      "id": "model_dots_studio_dots_ocr",
+      "label": "dots-studio/dots.ocr",
+      "category": "models"
+    },
+    {
       "id": "model_douyamv_gemma_4_31b_jang_4m_crack_gguf",
       "label": "douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF",
       "category": "models"
@@ -129063,6 +129083,11 @@
     {
       "id": "model_unsloth_deepseek_v4_flash",
       "label": "unsloth/DeepSeek-V4-Flash",
+      "category": "models"
+    },
+    {
+      "id": "model_unsloth_gemma_2_27b_it",
+      "label": "unsloth/gemma-2-27b-it",
       "category": "models"
     },
     {
@@ -428770,6 +428795,11 @@
     {
       "source": "hf_ds_692dc013741d7eb4efaf4b65",
       "target": "datasets/hasankursun",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_692ecca11aad0a1d75ac057c",
+      "target": "datasets/CERN",
       "relationship": "related_models"
     },
     {

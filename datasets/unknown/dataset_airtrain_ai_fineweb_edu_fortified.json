@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d906fc5fc18bf4d3bd73f61cd8aee6788a295852",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineweb-Edu-Fortified\n\t\n\n\n\n\n\nThe composition of fineweb-edu-fortified, produced by automatically clustering a 500k row sample in\n Airtrain \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nFineweb-Edu-Fortified is a dataset derived from\nFineweb-Edu by applying exact-match\ndeduplication across the whole dataset and producing an embedding for each row. The number of times\nthe text from each row appears is also included as a count column. The embeddings were produced\nusing TaylorAI/bge-micro\nFineweb and… See the full description on the dataset page: https://huggingface.co/datasets/airtrain-ai/fineweb-edu-fortified.",
-  "downloads": 102289,
+  "downloads": 102992,
   "tags": [
     "task_categories:text-generation",
     "language:en",

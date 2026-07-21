@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c3689a1de597c9f623db8637b19b8006cd285762",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tGlobal GMGSI + METAR Patches (v1)\n\t\n\n\nDense global satellite imagery (GMGSI, 4 channels, 0.1° / ~9 km, hourly) paired\nwith sparse global METAR station observations rasterized onto the same\n3600×1800 grid, sliced into 128×128 spatial patches with a 7-frame\nhourly temporal context. Designed as a self-supervised / supervised\npre-training corpus for weather foundation models that need to jointly\nsee geostationary satellite fields and ground-truth in-situ observations.\n\nThis dataset is… See the full description on the dataset page: https://huggingface.co/datasets/meteolibre-dev/global_sat_metar.",
-  "downloads": 36397,
+  "downloads": 36663,
   "tags": [
     "task_categories:image-to-image",
     "task_categories:tabular-regression",

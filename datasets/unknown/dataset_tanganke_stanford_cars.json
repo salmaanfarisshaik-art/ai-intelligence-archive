@@ -1,0 +1,29 @@
+{
+  "_id": "662ab9e076f975b18892775f",
+  "id": "tanganke/stanford_cars",
+  "author": "tanganke",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-05-02T13:44:20.000Z",
+  "likes": 28,
+  "private": false,
+  "sha": "9abf6cf7d6dfa7b95152a0d6e791ea9435b47a40",
+  "description": "\n\t\n\t\t\n\t\tStanford Cars Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Overview\n\t\n\n\nSplits:\nTraining: 8144 images used for model training.\nTest: 8041 images used for evaluation.\nContrast: 8041 images with high contrast for robustness testing.\nGaussian Noise: 8041 images corrupted by Gaussian noise for robustness testing.\nImpulse Noise: 8041 images corrupted by impulse noise for robustness testing.\nJPEG Compression: 8041 compressed images for robustness testing.\nMotion Blur: 8041 images with motion blur for… See the full description on the dataset page: https://huggingface.co/datasets/tanganke/stanford_cars.",
+  "downloads": 23015,
+  "tags": [
+    "task_categories:image-classification",
+    "language:en",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:image",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-04-25T20:15:28.000Z",
+  "key": "",
+  "unique_id": "dataset_tanganke_stanford_cars",
+  "schema_version": "1.0"
+}

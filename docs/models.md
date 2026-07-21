@@ -219,6 +219,8 @@
 | dicta-il/DictaLM-3.0-1.7B-Instruct |  |  | 0 |
 | distilbert/distilgpt2 |  |  | 0 |
 | Doradus-AI/RnJ-1-Instruct-FP8 |  |  | 0 |
+| dots-studio/dots.mocr |  |  | 0 |
+| dots-studio/dots.ocr |  |  | 0 |
 | douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF |  |  | 0 |
 | dphn/dolphin-2.9.1-llama-3-70b |  |  | 0 |
 | dphn/dolphin-2.9.1-yi-1.5-34b |  |  | 0 |
@@ -1138,6 +1140,7 @@
 | unsloth/DeepSeek-R1-GGUF |  |  | 0 |
 | unsloth/DeepSeek-V3 |  |  | 0 |
 | unsloth/DeepSeek-V4-Flash |  |  | 0 |
+| unsloth/gemma-2-27b-it |  |  | 0 |
 | unsloth/gemma-2-2b-it-bnb-4bit |  |  | 0 |
 | unsloth/gemma-2-9b-it |  |  | 0 |
 | unsloth/gemma-3-1b-it |  |  | 0 |

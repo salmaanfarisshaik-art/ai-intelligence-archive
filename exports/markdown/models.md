@@ -856,6 +856,14 @@
 - **ID**: model_doradus_ai_rnj_1_instruct_fp8
 - **Source**: 
 
+## dots-studio/dots.mocr
+- **ID**: model_dots_studio_dots_mocr
+- **Source**: 
+
+## dots-studio/dots.ocr
+- **ID**: model_dots_studio_dots_ocr
+- **Source**: 
+
 ## douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF
 - **ID**: model_douyamv_gemma_4_31b_jang_4m_crack_gguf
 - **Source**: 
@@ -4530,6 +4538,10 @@
 
 ## unsloth/DeepSeek-V4-Flash
 - **ID**: model_unsloth_deepseek_v4_flash
+- **Source**: 
+
+## unsloth/gemma-2-27b-it
+- **ID**: model_unsloth_gemma_2_27b_it
 - **Source**: 
 
 ## unsloth/gemma-2-2b-it-bnb-4bit

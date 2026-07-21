@@ -9,7 +9,7 @@
   "private": false,
   "sha": "30a183a3b96e3aef953f230784b123b719b09d97",
   "description": "\n\t\n\t\t\n\t\tDataset Card for MVTec AD\n\t\n\n\n\n\n\n\n\nThis dataset originates from MVTec but is provided in a different format. You can easily load it using FiftyOne \nThe total number of samples remains the same as the original: 5,354.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset =… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/mvtec-ad.",
-  "downloads": 31997,
+  "downloads": 31555,
   "tags": [
     "task_categories:image-classification",
     "task_categories:image-segmentation",

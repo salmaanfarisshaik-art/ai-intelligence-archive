@@ -9,7 +9,7 @@
   "private": false,
   "sha": "917b0c20ebc179a15443fcdfe02bea7891f53007",
   "description": "\n\t\n\t\t\n\t\tMalaysian Youtube\n\t\n\nMalaysian and Singaporean youtube channels, total up to 60k audio files with total 18.7k hours.\nURLs data at https://github.com/mesolitica/malaya-speech/tree/master/data/youtube/data\nNotebooks at https://github.com/mesolitica/malaya-speech/tree/master/data/youtube\n\n\t\n\t\t\n\t\n\t\n\t\tHow to load the data efficiently?\n\t\n\nimport pandas as pd\nimport json\nfrom datasets import Audio\nfrom torch.utils.data import DataLoader, Dataset\n\nchunks = 30\nsr = 16000\n\nclass Train(Dataset):… See the full description on the dataset page: https://huggingface.co/datasets/malaysia-ai/malaysian-youtube.",
-  "downloads": 23173,
+  "downloads": 24237,
   "tags": [
     "size_categories:10K<n<100K",
     "format:parquet",

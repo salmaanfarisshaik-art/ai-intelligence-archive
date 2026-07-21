@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-07-21T07:32:23.997415+00:00
-**Warnings:** 566
+**Generated:** 2026-07-21T10:25:03.168900+00:00
+**Warnings:** 567
 **Errors:** 0
 
 ## Issues
@@ -523,6 +523,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/AiEDA
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/hasankursun
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/CERN
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tz1002
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/permutans
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025

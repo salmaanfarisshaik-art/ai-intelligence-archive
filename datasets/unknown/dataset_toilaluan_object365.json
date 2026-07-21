@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6a661cd294903089fd1095f9e238d3ad8310b805",
   "description": "\n\t\n\t\t\n\t\tObjects365 Dataset\n\t\n\nObjects365 detection dataset in HuggingFace parquet format.\n\n\t\n\t\t\n\t\tSchema\n\t\n\n\n\t\n\t\t\nColumn\nType\nDescription\n\n\n\t\t\nimage\nImage\nRGB image (PIL)\n\n\nid\nint32\nImage ID matching COCO annotation\n\n\nwidth\nint32\nImage width\n\n\nheight\nint32\nImage height\n\n\nannotations\nstring\nJSON-serialized annotations list\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\nds = load_dataset(\"surenreddy/object365\", split=\"train\")\n\nAnnotations are available as COCO-format JSON files in… See the full description on the dataset page: https://huggingface.co/datasets/toilaluan/object365.",
-  "downloads": 49818,
+  "downloads": 49817,
   "tags": [
     "task_categories:object-detection",
     "license:cc-by-4.0",

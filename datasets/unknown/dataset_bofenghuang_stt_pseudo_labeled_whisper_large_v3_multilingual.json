@@ -9,7 +9,7 @@
   "private": false,
   "sha": "39445707e3a481be118d5e1935c94cdcadffba29",
   "description": "This collection includes over 189,000 hours of speech-to-text data in seven languages: English, French, Spanish, Portuguese, Italian, German, and Dutch\nAll segments were initially sorted by their IDs (timestamps). Adjacent segments from the same source were concatenated into 30-second chunks before being decoded using Whisper-Large-V3. The only exception was Common Voice, where segments were decoded individually before concatenation.\nIn total, over 288,000 hours of audio data were collected… See the full description on the dataset page: https://huggingface.co/datasets/bofenghuang/stt-pseudo-labeled-whisper-large-v3-multilingual.",
-  "downloads": 65197,
+  "downloads": 65200,
   "tags": [
     "license:cc-by-3.0",
     "region:us"

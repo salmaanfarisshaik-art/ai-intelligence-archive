@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6322995ab34d7c2693e3f47dd13fa5caa0789a74",
   "description": "\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset contains user votes collected in the text-only category. Each row represents a single vote judging two models (model_a and model_b) on a user conversation, along with the full conversation history and metadata. Key fields include:\n\nid: Unique feedback ID of each vote/row.\nevaluation_session_id: Unique ID of each evaluation session, which can contain multiple separate votes/evaluations. \nevaluation_order: Evaluation order of the current vote.\nwinner: Battle… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/arena-human-preference-140k.",
-  "downloads": 24649,
+  "downloads": 24623,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:100K<n<1M",

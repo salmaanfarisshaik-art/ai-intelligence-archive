@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c1fcd32930e23f1f2cde3a6ee9a5e93d3d5bc36e",
   "description": "\n\t\n\t\t\n\t\tVidChapters Dataset for Chapter-Llama\n\t\n\nThis repository contains the dataset used in the paper \"Chapter-Llama: Efficient Chaptering in Hour-Long Videos with LLMs\" (CVPR 2025).\n\n\t\n\t\t\n\t\tOverview\n\t\n\nVidChapters-7M is a large-scale dataset for video chaptering, containing:\n\n817k videos with ASR data (20GB)\nCaptions extracted from videos using various sampling strategies\nChapter annotations with timestamps and titles\n\n\n\t\n\t\t\n\t\tData Structure\n\t\n\nThe dataset is organized as follows:\n\nASR… See the full description on the dataset page: https://huggingface.co/datasets/lucas-ventura/chapter-llama.",
-  "downloads": 41180,
+  "downloads": 30133,
   "tags": [
     "language:en",
     "license:mit",

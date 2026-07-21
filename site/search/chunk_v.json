@@ -877,7 +877,17 @@
       "score": 6.0
     },
     {
+      "entity_id": "model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_llmfan46_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_uncensored_heretic_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -973,6 +983,11 @@
     },
     {
       "entity_id": "dataset_jobs_git_hplt2_0_cleaned",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_nebius_swe_rebench_v2",
       "match_type": "exact",
       "score": 3.0
     },
@@ -1432,6 +1447,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mint_sjtu_la_33k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_openbmb_ultra_fineweb",
       "match_type": "exact",
       "score": 1.0
@@ -1484,6 +1504,13 @@
       "score": 3.0
     }
   ],
+  "v2the": [
+    {
+      "entity_id": "dataset_nebius_swe_rebench_v2",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "v2x": [
     {
       "entity_id": "arxiv_2606.19258v1",
@@ -1499,6 +1526,11 @@
     },
     {
       "entity_id": "model_nvidia_deepseek_v3_0324_nvfp4",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_nvidia_deepseek_v3_1_nvfp4",
       "match_type": "exact",
       "score": 6.5
     },
@@ -11366,6 +11398,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_cschell_xr_motion_dataset_catalogue",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_feyninc_recipes",
       "match_type": "exact",
       "score": 1.0
@@ -20642,6 +20679,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_svfsearch_svfsearchdata",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-4664485650879202377",
       "match_type": "exact",
       "score": 2.0
@@ -22748,6 +22790,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_sinoosoida_speechru",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_zekaiwang_trex_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -24276,6 +24323,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "dataset_svfsearch_svfsearchdata",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "dataset_worldbenchmark_intuitivephysics",
       "match_type": "exact",
       "score": 4.5
@@ -24837,6 +24889,11 @@
     },
     {
       "entity_id": "dataset_markov_ai_gaming_500_hours",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mint_sjtu_la_33k",
       "match_type": "exact",
       "score": 1.5
     },
@@ -25512,11 +25569,6 @@
     },
     {
       "entity_id": "dataset_cadene_droid_1_0_1",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_cmrobot_motiondecode",
       "match_type": "exact",
       "score": 1.0
     },
@@ -31575,6 +31627,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_mint_sjtu_la_33k",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "alpaca_-2458701428325562555",
       "match_type": "exact",
       "score": 2.0
@@ -33680,6 +33737,11 @@
     },
     {
       "entity_id": "dataset_derek_thomas_scienceqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_svfsearch_svfsearchdata",
       "match_type": "exact",
       "score": 3.0
     },
@@ -39491,6 +39553,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_ppak10_amt_flow_3d",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1467869963507603726",
       "match_type": "exact",
       "score": 1.0
@@ -40833,6 +40900,11 @@
       "entity_id": "alpaca_4077286194496214303",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_cschell_xr_motion_dataset_catalogue",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "alpaca_-1160347242788035088",

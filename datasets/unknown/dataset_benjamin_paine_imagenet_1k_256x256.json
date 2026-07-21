@@ -9,7 +9,7 @@
   "private": false,
   "sha": "1bd0400450249a7fe90c0aece37d0d03e7ea956a",
   "description": "\n\t\n\t\t\n\t\tRepack Information\n\t\n\nThis repository contains a complete repack of ILSVRC/imagenet-1k in Parquet format with the following data transformations:\n\nImages were center-cropped to square to the minimum height/width dimension.\nImages were then rescaled to 256x256 using Lanczos resampling.\n\n\n\t\n\t\t\n\t\tDataset Card for ImageNet\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nILSVRC 2012, commonly known as 'ImageNet' is an image dataset organized according to the WordNet hierarchy. Each meaningful concept in… See the full description on the dataset page: https://huggingface.co/datasets/benjamin-paine/imagenet-1k-256x256.",
-  "downloads": 24925,
+  "downloads": 24903,
   "paperswithcode_id": "imagenet-1k-1",
   "tags": [
     "task_categories:image-classification",
