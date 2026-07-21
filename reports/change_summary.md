@@ -1,31 +1,47 @@
 # Change Summary
 
-**Total Changes:** 67
+**Total Changes:** 85
 
 ## Added
-None
+- prompts/openai-blog/rss_https___openai.com_index_david-velez-robin-vince-join-openai-boards.json
+- prompts/openai-blog/rss_https___openai.com_index_hugging-face-model-evaluation-security-incident.json
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- docs/news.md
+- exports/csv/all_entities.csv
+- exports/csv/news.csv
+- exports/json/all_entities.json
+- exports/json/news.json
+- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
-- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
+- models/antirez/hf_antirez_deepseek-v4-gguf.json
+- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -71,6 +87,7 @@ None
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 

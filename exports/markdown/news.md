@@ -1296,6 +1296,11 @@
 - **URL**: [https://openai.com/index/datadog](https://openai.com/index/datadog)
 
 ## 
+- **ID**: rss_https://openai.com/index/david-velez-robin-vince-join-openai-boards
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/david-velez-robin-vince-join-openai-boards](https://openai.com/index/david-velez-robin-vince-join-openai-boards)
+
+## 
 - **ID**: rss_https://openai.com/index/daybreak-securing-the-world
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/daybreak-securing-the-world](https://openai.com/index/daybreak-securing-the-world)
@@ -2324,6 +2329,11 @@
 - **ID**: rss_https://openai.com/index/hp-frontier-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/hp-frontier-partnership](https://openai.com/index/hp-frontier-partnership)
+
+## 
+- **ID**: rss_https://openai.com/index/hugging-face-model-evaluation-security-incident
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/hugging-face-model-evaluation-security-incident](https://openai.com/index/hugging-face-model-evaluation-security-incident)
 
 ## 
 - **ID**: rss_https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise

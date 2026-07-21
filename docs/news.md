@@ -264,6 +264,7 @@
 | [](https://openai.com/index/data-partnerships) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/databricks) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/datadog) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/david-velez-robin-vince-join-openai-boards) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/daybreak-securing-the-world) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/debate) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/decagon) | OpenAI Blog |  | 0 |
@@ -470,6 +471,7 @@
 | [](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/hp-frontier-partnership) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/hugging-face-model-evaluation-security-incident) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/hygh) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/image-generation-api) | OpenAI Blog |  | 0 |
