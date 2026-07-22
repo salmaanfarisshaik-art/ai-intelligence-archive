@@ -866,6 +866,11 @@
 - **URL**: [https://openai.com/index/bug-bounty-program](https://openai.com/index/bug-bounty-program)
 
 ## 
+- **ID**: rss_https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
+
+## 
 - **ID**: rss_https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation](https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
@@ -2759,6 +2764,11 @@
 - **ID**: rss_https://openai.com/index/introducing-openai-partner-network
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-openai-partner-network](https://openai.com/index/introducing-openai-partner-network)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-openai-presence
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-openai-presence](https://openai.com/index/introducing-openai-presence)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-openai-privacy-filter

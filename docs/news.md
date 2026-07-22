@@ -178,6 +178,7 @@
 | [](https://openai.com/index/bringing-chatgpt-to-genaimil) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/browsecomp) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/bug-bounty-program) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/building-chatgpt-atlas) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/building-codex-windows-sandbox) | OpenAI Blog |  | 0 |
@@ -557,6 +558,7 @@
 | [](https://openai.com/index/introducing-openai-london) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-openai-o1-preview) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-openai-partner-network) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/introducing-openai-presence) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-openai-privacy-filter) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-openai-safety-fellowship) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/introducing-operator) | OpenAI Blog |  | 0 |
