@@ -23232,7 +23232,7 @@ hf_ds_69f7b3cc62d65c8f39fe7270,stanford-vision-lab/gpic,dataset,HuggingFace Data
 hf_ds_6a04fe32c08e541d106bc6fe,Dagonulca/figofigofigofigo,dataset,HuggingFace Datasets,library:datasets|library:mlcroissant|modality:video|region:us|size_categories:n<1K,https://huggingface.co/datasets/Dagonulca/figofigofigofigo
 hf_ds_6a05090783b099c94f623217,Drakesuper/rodridre,dataset,HuggingFace Datasets,library:datasets|library:mlcroissant|modality:video|region:us|size_categories:n<1K,https://huggingface.co/datasets/Drakesuper/rodridre
 hf_ds_6a139a707f615e6fc818bde7,just-me7ss/American-Sign-Language-Dataset,dataset,HuggingFace Datasets,ASL|American Sign Language|Gesture Recognition|Video Dataset|license:mit|modality:video|region:us,https://huggingface.co/datasets/just-me7ss/American-Sign-Language-Dataset
-hf_ds_6a153f136ea5882878c26693,anisoleai/fineweb-tokenized,dataset,HuggingFace Datasets,arxiv:2406.17557|language:en|license:odc-by|modality:tabular|modality:text|pre-training|region:us|size_categories:n>1T|tabular|task_categories:text-generation|text,https://huggingface.co/datasets/anisoleai/fineweb-tokenized
+hf_ds_6a153f136ea5882878c26693,anisoleai/fineweb-tokenized,dataset,HuggingFace Datasets,arxiv:2406.17557|format:parquet|language:en|library:dask|library:datasets|library:mlcroissant|library:polars|license:odc-by|modality:tabular|modality:text|pre-training|region:us|size_categories:n>1T|tabular|task_categories:text-generation|text,https://huggingface.co/datasets/anisoleai/fineweb-tokenized
 hf_ds_6a1f3e49aa35c86b3f108f05,mteb/results,dataset,HuggingFace Datasets,format:optimized-parquet|format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|modality:text|region:us|size_categories:1M<n<10M,https://huggingface.co/datasets/mteb/results
 hf_ds_6a2a5f5f2ef38e1f849a8ebf,tencent/Hy-Embodied-0.5-VLA-Data,dataset,HuggingFace Datasets,VLA|arxiv:2606.14409|bimanual|format:parquet|imitation-learning|lance|leRobot|library:datasets|library:lance|library:lerobot|library:mlcroissant|library:pandas|library:polars|license:cc-by-4.0|manipulation|modality:tabular|modality:text|region:us|robotics|size_categories:n<1K|task_categories:reinforcement-learning|task_categories:robotics,https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data
 hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:2606.27375|bimanual|imitation-learning|language:en|license:apache-2.0|manipulation|mcap|region:us|robotics|size_categories:n>1T|task_categories:robotics|teleoperation,https://huggingface.co/datasets/XDOF/ABC-130k
@@ -25616,6 +25616,7 @@ model_qwen_qwen2_5_coder_0_5b_instruct,Qwen/Qwen2.5-Coder-0.5B-Instruct,models,,
 model_qwen_qwen2_5_coder_14b_instruct,Qwen/Qwen2.5-Coder-14B-Instruct,models,,,
 model_qwen_qwen2_5_coder_14b_instruct_awq,Qwen/Qwen2.5-Coder-14B-Instruct-AWQ,models,,,
 model_qwen_qwen2_5_coder_14b_instruct_gguf,Qwen/Qwen2.5-Coder-14B-Instruct-GGUF,models,,,
+model_qwen_qwen2_5_coder_14b_instruct_gptq_int4,Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4,models,,,
 model_qwen_qwen2_5_coder_14b_instruct_gptq_int8,Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8,models,,,
 model_qwen_qwen2_5_coder_1_5b,Qwen/Qwen2.5-Coder-1.5B,models,,,
 model_qwen_qwen2_5_coder_1_5b_instruct,Qwen/Qwen2.5-Coder-1.5B-Instruct,models,,,
@@ -25713,6 +25714,7 @@ model_qwen_qwen_agentworld_35b_a3b,Qwen/Qwen-AgentWorld-35B-A3B,models,,,
 model_qwen_qwen_vl,Qwen/Qwen-VL,models,,,
 model_qwen_qwen_vl_chat,Qwen/Qwen-VL-Chat,models,,,
 model_qwen_qwq_32b,Qwen/QwQ-32B,models,,,
+model_qwen_qwq_32b_awq,Qwen/QwQ-32B-AWQ,models,,,
 model_qwen_qwq_32b_preview,Qwen/QwQ-32B-Preview,models,,,
 model_r0b0tlab_agents_a1_nvfp4,r0b0tlab/Agents-A1-NVFP4,models,,,
 model_ravichandranj_dolphin3_cyber_8b_gguf,RavichandranJ/Dolphin3-Cyber-8B-GGUF,models,,,
@@ -25766,6 +25768,7 @@ model_sanctumai_meta_llama_3_1_8b_instruct_gguf,SanctumAI/Meta-Llama-3.1-8B-Inst
 model_sapientinc_hrm_text_1b,sapientinc/HRM-Text-1B,models,,,
 model_sarvamai_sarvam_105b,sarvamai/sarvam-105b,models,,,
 model_sarvamai_sarvam_30b,sarvamai/sarvam-30b,models,,,
+model_sbintuitions_tiny_lm,sbintuitions/tiny-lm,models,,,
 model_sc117_ornith_1_0_35b_mtp_apex_gguf,SC117/Ornith-1.0-35B-MTP-APEX-GGUF,models,,,
 model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10,scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10,models,,,
 model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf,semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF,models,,,
@@ -25847,6 +25850,7 @@ model_trl_internal_testing_tiny_falconmambaforcausallm,trl-internal-testing/tiny
 model_trl_internal_testing_tiny_gemma2forcausallm,trl-internal-testing/tiny-Gemma2ForCausalLM,models,,,
 model_trl_internal_testing_tiny_gemmaforcausallm,trl-internal-testing/tiny-GemmaForCausalLM,models,,,
 model_trl_internal_testing_tiny_glm4moeforcausallm,trl-internal-testing/tiny-Glm4MoeForCausalLM,models,,,
+model_trl_internal_testing_tiny_gpt2lmheadmodel,trl-internal-testing/tiny-GPT2LMHeadModel,models,,,
 model_trl_internal_testing_tiny_gptneoxforcausallm,trl-internal-testing/tiny-GPTNeoXForCausalLM,models,,,
 model_trl_internal_testing_tiny_gptossforcausallm,trl-internal-testing/tiny-GptOssForCausalLM,models,,,
 model_trl_internal_testing_tiny_llamaforcausallm_3,trl-internal-testing/tiny-LlamaForCausalLM-3,models,,,
@@ -25874,6 +25878,7 @@ model_txn545_qwen3_5_122b_a10b_nvfp4,txn545/Qwen3.5-122B-A10B-NVFP4,models,,,
 model_typhoon_ai_llama3_1_typhoon2_8b_instruct,typhoon-ai/llama3.1-typhoon2-8b-instruct,models,,,
 model_typhoon_ai_typhoon2_5_qwen3_4b,typhoon-ai/typhoon2.5-qwen3-4b,models,,,
 model_ucbye_qwen3_coder_next_nvfp4_gb10,ucbye/Qwen3-Coder-Next-NVFP4-GB10,models,,,
+model_unbabel_towerinstruct_13b_v0_1,Unbabel/TowerInstruct-13B-v0.1,models,,,
 model_unsloth_deepseek_r1_0528_qwen3_8b_gguf,unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF,models,,,
 model_unsloth_deepseek_r1_distill_llama_70b_gguf,unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF,models,,,
 model_unsloth_deepseek_r1_distill_llama_8b_gguf,unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF,models,,,

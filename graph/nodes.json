@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:26:48.233467+00:00",
+  "generated_at": "2026-07-22T11:08:55.523478+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -128090,6 +128090,11 @@
     },
     {
       "category": "models",
+      "id": "model_qwen_qwen2_5_coder_14b_instruct_gptq_int4",
+      "label": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4"
+    },
+    {
+      "category": "models",
       "id": "model_qwen_qwen2_5_coder_14b_instruct_gptq_int8",
       "label": "Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8"
     },
@@ -128575,6 +128580,11 @@
     },
     {
       "category": "models",
+      "id": "model_qwen_qwq_32b_awq",
+      "label": "Qwen/QwQ-32B-AWQ"
+    },
+    {
+      "category": "models",
       "id": "model_qwen_qwq_32b_preview",
       "label": "Qwen/QwQ-32B-Preview"
     },
@@ -128837,6 +128847,11 @@
       "category": "models",
       "id": "model_sarvamai_sarvam_30b",
       "label": "sarvamai/sarvam-30b"
+    },
+    {
+      "category": "models",
+      "id": "model_sbintuitions_tiny_lm",
+      "label": "sbintuitions/tiny-lm"
     },
     {
       "category": "models",
@@ -129245,6 +129260,11 @@
     },
     {
       "category": "models",
+      "id": "model_trl_internal_testing_tiny_gpt2lmheadmodel",
+      "label": "trl-internal-testing/tiny-GPT2LMHeadModel"
+    },
+    {
+      "category": "models",
       "id": "model_trl_internal_testing_tiny_gptneoxforcausallm",
       "label": "trl-internal-testing/tiny-GPTNeoXForCausalLM"
     },
@@ -129377,6 +129397,11 @@
       "category": "models",
       "id": "model_ucbye_qwen3_coder_next_nvfp4_gb10",
       "label": "ucbye/Qwen3-Coder-Next-NVFP4-GB10"
+    },
+    {
+      "category": "models",
+      "id": "model_unbabel_towerinstruct_13b_v0_1",
+      "label": "Unbabel/TowerInstruct-13B-v0.1"
     },
     {
       "category": "models",
@@ -426575,5 +426600,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 85314
+  "total_nodes": 85319
 }

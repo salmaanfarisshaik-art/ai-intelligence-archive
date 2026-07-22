@@ -893,6 +893,7 @@
 | Qwen/Qwen2.5-Coder-14B-Instruct |  |  | 0 |
 | Qwen/Qwen2.5-Coder-14B-Instruct-AWQ |  |  | 0 |
 | Qwen/Qwen2.5-Coder-14B-Instruct-GGUF |  |  | 0 |
+| Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4 |  |  | 0 |
 | Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8 |  |  | 0 |
 | Qwen/Qwen2.5-Coder-32B-Instruct |  |  | 0 |
 | Qwen/Qwen2.5-Coder-32B-Instruct-AWQ |  |  | 0 |
@@ -977,6 +978,7 @@
 | Qwen/Qwen3Guard-Gen-4B |  |  | 0 |
 | Qwen/Qwen3Guard-Gen-8B |  |  | 0 |
 | Qwen/QwQ-32B |  |  | 0 |
+| Qwen/QwQ-32B-AWQ |  |  | 0 |
 | Qwen/QwQ-32B-Preview |  |  | 0 |
 | r0b0tlab/Agents-A1-NVFP4 |  |  | 0 |
 | RavichandranJ/Dolphin3-Cyber-8B-GGUF |  |  | 0 |
@@ -1030,6 +1032,7 @@
 | sapientinc/HRM-Text-1B |  |  | 0 |
 | sarvamai/sarvam-105b |  |  | 0 |
 | sarvamai/sarvam-30b |  |  | 0 |
+| sbintuitions/tiny-lm |  |  | 0 |
 | SC117/Ornith-1.0-35B-MTP-APEX-GGUF |  |  | 0 |
 | scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10 |  |  | 0 |
 | semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF |  |  | 0 |
@@ -1111,6 +1114,7 @@
 | trl-internal-testing/tiny-Gemma2ForCausalLM |  |  | 0 |
 | trl-internal-testing/tiny-GemmaForCausalLM |  |  | 0 |
 | trl-internal-testing/tiny-Glm4MoeForCausalLM |  |  | 0 |
+| trl-internal-testing/tiny-GPT2LMHeadModel |  |  | 0 |
 | trl-internal-testing/tiny-GPTNeoXForCausalLM |  |  | 0 |
 | trl-internal-testing/tiny-GptOssForCausalLM |  |  | 0 |
 | trl-internal-testing/tiny-LlamaForCausalLM-3 |  |  | 0 |
@@ -1138,6 +1142,7 @@
 | typhoon-ai/llama3.1-typhoon2-8b-instruct |  |  | 0 |
 | typhoon-ai/typhoon2.5-qwen3-4b |  |  | 0 |
 | ucbye/Qwen3-Coder-Next-NVFP4-GB10 |  |  | 0 |
+| Unbabel/TowerInstruct-13B-v0.1 |  |  | 0 |
 | unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Llama-70B-GGUF |  |  | 0 |
 | unsloth/DeepSeek-R1-Distill-Llama-8B-GGUF |  |  | 0 |

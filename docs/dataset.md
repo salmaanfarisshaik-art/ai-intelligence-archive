@@ -75,7 +75,7 @@
 | [Angelou0516/PI-CAI](https://huggingface.co/datasets/Angelou0516/PI-CAI) | Hugging Face |  | 0 |
 | [Angelou0516/TCIA_CervicalCancer](https://huggingface.co/datasets/Angelou0516/TCIA_CervicalCancer) | Hugging Face |  | 0 |
 | [angie-chen55/python-github-code](https://huggingface.co/datasets/angie-chen55/python-github-code) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 0 |
-| [anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized) | HuggingFace Datasets | arxiv:2406.17557, language:en, license:odc-by, modality:tabular, modality:text | 1 |
+| [anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized) | HuggingFace Datasets | arxiv:2406.17557, format:parquet, language:en, library:dask, library:datasets | 1 |
 | [anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized) | Hugging Face |  | 0 |
 | [annon124816/browsecomp](https://huggingface.co/datasets/annon124816/browsecomp) | Hugging Face |  | 0 |
 | [anon8231489123/ShareGPT_Vicuna_unfiltered](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | HuggingFace Datasets | language:en, license:apache-2.0, region:us | 2 |

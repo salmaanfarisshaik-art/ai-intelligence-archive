@@ -698,7 +698,7 @@
 - **ID**: hf_ds_6a153f136ea5882878c26693
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized)
-- **Tags**: arxiv:2406.17557, language:en, license:odc-by, modality:tabular, modality:text, pre-training, region:us, size_categories:n>1T, tabular, task_categories:text-generation, text
+- **Tags**: arxiv:2406.17557, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, pre-training, region:us, size_categories:n>1T, tabular, task_categories:text-generation, text
 
 ## mteb/results
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05

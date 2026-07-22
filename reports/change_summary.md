@@ -1,49 +1,52 @@
 # Change Summary
 
-**Total Changes:** 87
+**Total Changes:** 89
 
 ## Added
 None
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
+- data/metadata/tag_index.json
+- datasets/anisoleai/hf_ds_6a153f136ea5882878c26693.json
+- datasets/k9cli/hf_ds_6a3519d6ceabed997ec9ea1e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
+- docs/dataset.md
+- docs/models.md
+- exports/csv/all_entities.csv
+- exports/csv/dataset.csv
+- exports/csv/models.csv
+- exports/json/all_entities.json
+- exports/json/dataset.json
+- exports/json/models.json
+- exports/markdown/dataset.md
+- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/distilbert/hf_distilbert_distilgpt2.json
-- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
-- models/eleutherai/hf_EleutherAI_pythia-160m.json
-- models/facebook/hf_facebook_opt-125m.json
-- models/google/hf_google_gemma-3-1b-it.json
-- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M-Instruct.json
-- models/ibm-granite/hf_ibm-granite_granite-4.1-8b.json
-- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
-- models/nvidia/hf_nvidia_Gemma-4-31B-IT-NVFP4.json
-- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
-- models/openai-community/hf_openai-community_gpt2.json
 - models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen2-1.5B-Instruct.json
-- models/qwen/hf_Qwen_Qwen2.5-1.5B-Instruct.json
-- models/qwen/hf_Qwen_Qwen3-1.7B.json
 - models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
-- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/zai-org/hf_zai-org_GLM-5.2-FP8.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -74,7 +77,6 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json

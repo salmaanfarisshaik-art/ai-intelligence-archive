@@ -3500,6 +3500,10 @@
 - **ID**: model_qwen_qwen2_5_coder_14b_instruct_gguf
 - **Source**: 
 
+## Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int4
+- **ID**: model_qwen_qwen2_5_coder_14b_instruct_gptq_int4
+- **Source**: 
+
 ## Qwen/Qwen2.5-Coder-14B-Instruct-GPTQ-Int8
 - **ID**: model_qwen_qwen2_5_coder_14b_instruct_gptq_int8
 - **Source**: 
@@ -3888,6 +3892,10 @@
 - **ID**: model_qwen_qwq_32b
 - **Source**: 
 
+## Qwen/QwQ-32B-AWQ
+- **ID**: model_qwen_qwq_32b_awq
+- **Source**: 
+
 ## Qwen/QwQ-32B-Preview
 - **ID**: model_qwen_qwq_32b_preview
 - **Source**: 
@@ -4098,6 +4106,10 @@
 
 ## sarvamai/sarvam-30b
 - **ID**: model_sarvamai_sarvam_30b
+- **Source**: 
+
+## sbintuitions/tiny-lm
+- **ID**: model_sbintuitions_tiny_lm
 - **Source**: 
 
 ## SC117/Ornith-1.0-35B-MTP-APEX-GGUF
@@ -4424,6 +4436,10 @@
 - **ID**: model_trl_internal_testing_tiny_glm4moeforcausallm
 - **Source**: 
 
+## trl-internal-testing/tiny-GPT2LMHeadModel
+- **ID**: model_trl_internal_testing_tiny_gpt2lmheadmodel
+- **Source**: 
+
 ## trl-internal-testing/tiny-GPTNeoXForCausalLM
 - **ID**: model_trl_internal_testing_tiny_gptneoxforcausallm
 - **Source**: 
@@ -4530,6 +4546,10 @@
 
 ## ucbye/Qwen3-Coder-Next-NVFP4-GB10
 - **ID**: model_ucbye_qwen3_coder_next_nvfp4_gb10
+- **Source**: 
+
+## Unbabel/TowerInstruct-13B-v0.1
+- **ID**: model_unbabel_towerinstruct_13b_v0_1
 - **Source**: 
 
 ## unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF
