@@ -999,7 +999,7 @@
 - **ID**: hf_Qwen_Qwen2-1.5B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct)
-- **Tags**: chat, conversational, deploy:azure, en, endpoints_compatible, eval-results, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: chat, conversational, deploy:azure, deploy:sagemaker, en, endpoints_compatible, eval-results, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen2-1.5B-Instruct-AWQ
 - **ID**: hf_Qwen_Qwen2-1.5B-Instruct-AWQ
@@ -1323,7 +1323,7 @@
 - **ID**: hf_Qwen_Qwen3-0.6B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-0.6B](https://huggingface.co/Qwen/Qwen3-0.6B)
-- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-0.6B-Base, base_model:finetune:Qwen/Qwen3-0.6B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-0.6B-Base, base_model:finetune:Qwen/Qwen3-0.6B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-0.6B-Base
 - **ID**: hf_Qwen_Qwen3-0.6B-Base
@@ -1344,7 +1344,7 @@
 - **ID**: hf_Qwen_Qwen3-1.7B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-1.7B](https://huggingface.co/Qwen/Qwen3-1.7B)
-- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-1.7B-Base, base_model:finetune:Qwen/Qwen3-1.7B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-1.7B-Base, base_model:finetune:Qwen/Qwen3-1.7B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-1.7B-Base
 - **ID**: hf_Qwen_Qwen3-1.7B-Base
@@ -1365,7 +1365,7 @@
 - **ID**: hf_Qwen_Qwen3-14B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-14B-AWQ
 - **ID**: hf_Qwen_Qwen3-14B-AWQ
@@ -1422,7 +1422,7 @@
 - **ID**: hf_Qwen_Qwen3-30B-A3B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, conversational, endpoints_compatible, license:apache-2.0, qwen3_moe, region:us, safetensors, text-generation, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-30B-A3B-Base, base_model:finetune:Qwen/Qwen3-30B-A3B-Base, conversational, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3_moe, region:us, safetensors, text-generation, transformers
 
 ## Qwen/Qwen3-30B-A3B-Base
 - **ID**: hf_Qwen_Qwen3-30B-A3B-Base
@@ -1463,7 +1463,7 @@
 - **ID**: hf_Qwen_Qwen3-32B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-32B](https://huggingface.co/Qwen/Qwen3-32B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, conversational, deploy:azure, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-32B-AWQ
 - **ID**: hf_Qwen_Qwen3-32B-AWQ
@@ -1479,7 +1479,7 @@
 - **ID**: hf_Qwen_Qwen3-4B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, conversational, deploy:azure, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-4B-AWQ
 - **ID**: hf_Qwen_Qwen3-4B-AWQ
@@ -1505,7 +1505,7 @@
 - **ID**: hf_Qwen_Qwen3-4B-Instruct-2507
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507)
-- **Tags**: arxiv:2505.09388, conversational, deploy:azure, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2505.09388, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-4B-Instruct-2507-FP8
 - **ID**: hf_Qwen_Qwen3-4B-Instruct-2507-FP8
@@ -1531,7 +1531,7 @@
 - **ID**: hf_Qwen_Qwen3-8B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-8B](https://huggingface.co/Qwen/Qwen3-8B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-8B-Base, base_model:finetune:Qwen/Qwen3-8B-Base, conversational, deploy:azure, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-8B-Base, base_model:finetune:Qwen/Qwen3-8B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-8B-AWQ
 - **ID**: hf_Qwen_Qwen3-8B-AWQ
@@ -1823,7 +1823,7 @@
 - **ID**: hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
-- **Tags**: conversational, dataset:HuggingFaceH4/ultrachat_200k, dataset:HuggingFaceH4/ultrafeedback_binarized, dataset:bigcode/starcoderdata, dataset:cerebras/SlimPajama-627B, deploy:azure, en, endpoints_compatible, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: conversational, dataset:HuggingFaceH4/ultrachat_200k, dataset:HuggingFaceH4/ultrafeedback_binarized, dataset:bigcode/starcoderdata, dataset:cerebras/SlimPajama-627B, deploy:azure, deploy:sagemaker, en, endpoints_compatible, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T
 - **ID**: hf_TinyLlama_TinyLlama-1.1B-intermediate-step-1431k-3T
@@ -2401,7 +2401,7 @@
 - **ID**: hf_deepseek-ai_DeepSeek-R1
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1)
-- **Tags**: arxiv:2501.12948, conversational, custom_code, deepseek_v3, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2501.12948, conversational, custom_code, deepseek_v3, deploy:sagemaker, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## deepseek-ai/DeepSeek-R1-0528
 - **ID**: hf_deepseek-ai_DeepSeek-R1-0528
@@ -2701,7 +2701,7 @@
 - **ID**: hf_google_gemma-3-1b-it
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/google/gemma-3-1b-it](https://huggingface.co/google/gemma-3-1b-it)
-- **Tags**: arxiv:1705.03551, arxiv:1810.12440, arxiv:1903.00161, arxiv:1904.09728, arxiv:1905.07830, arxiv:1905.10044, arxiv:1907.10641, arxiv:1908.02660, arxiv:1910.11856, arxiv:1911.01547, arxiv:1911.11641, arxiv:2009.03300, arxiv:2103.03874, arxiv:2104.12756, arxiv:2106.03193, arxiv:2107.03374, arxiv:2108.07732, arxiv:2110.14168, arxiv:2203.10244, arxiv:2210.03057, arxiv:2304.06364, arxiv:2311.12022, arxiv:2311.16502, arxiv:2312.11805, arxiv:2404.12390, arxiv:2404.16816, arxiv:2502.12404, arxiv:2502.21228, base_model:finetune:google/gemma-3-1b-pt, base_model:google/gemma-3-1b-pt, conversational, endpoints_compatible, eval-results, gemma3_text, license:gemma, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:1705.03551, arxiv:1810.12440, arxiv:1903.00161, arxiv:1904.09728, arxiv:1905.07830, arxiv:1905.10044, arxiv:1907.10641, arxiv:1908.02660, arxiv:1910.11856, arxiv:1911.01547, arxiv:1911.11641, arxiv:2009.03300, arxiv:2103.03874, arxiv:2104.12756, arxiv:2106.03193, arxiv:2107.03374, arxiv:2108.07732, arxiv:2110.14168, arxiv:2203.10244, arxiv:2210.03057, arxiv:2304.06364, arxiv:2311.12022, arxiv:2311.16502, arxiv:2312.11805, arxiv:2404.12390, arxiv:2404.16816, arxiv:2502.12404, arxiv:2502.21228, base_model:finetune:google/gemma-3-1b-pt, base_model:google/gemma-3-1b-pt, conversational, deploy:sagemaker, endpoints_compatible, eval-results, gemma3_text, license:gemma, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## google/gemma-3-1b-pt
 - **ID**: hf_google_gemma-3-1b-pt
@@ -3432,7 +3432,7 @@
 - **ID**: hf_meta-llama_Llama-3.2-1B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct)
-- **Tags**: arxiv:2204.05149, arxiv:2405.16406, conversational, de, en, endpoints_compatible, es, eval-results, facebook, fr, hi, it, license:llama3.2, llama, llama-3, meta, pt, pytorch, region:us, safetensors, text-generation, text-generation-inference, th, transformers
+- **Tags**: arxiv:2204.05149, arxiv:2405.16406, conversational, de, deploy:sagemaker, en, endpoints_compatible, es, eval-results, facebook, fr, hi, it, license:llama3.2, llama, llama-3, meta, pt, pytorch, region:us, safetensors, text-generation, text-generation-inference, th, transformers
 
 ## meta-llama/Llama-3.2-3B
 - **ID**: hf_meta-llama_Llama-3.2-3B
@@ -4034,13 +4034,13 @@
 - **ID**: hf_openai_gpt-oss-120b
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/openai/gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b)
-- **Tags**: 8-bit, arxiv:2508.10925, conversational, deploy:azure, endpoints_compatible, eval-results, gpt_oss, license:apache-2.0, mxfp4, region:us, safetensors, text-generation, transformers, vllm
+- **Tags**: 8-bit, arxiv:2508.10925, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, gpt_oss, license:apache-2.0, mxfp4, region:us, safetensors, text-generation, transformers, vllm
 
 ## openai/gpt-oss-20b
 - **ID**: hf_openai_gpt-oss-20b
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/openai/gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b)
-- **Tags**: 8-bit, arxiv:2508.10925, conversational, deploy:azure, endpoints_compatible, eval-results, gpt_oss, license:apache-2.0, mxfp4, region:us, safetensors, text-generation, transformers, vllm
+- **Tags**: 8-bit, arxiv:2508.10925, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, gpt_oss, license:apache-2.0, mxfp4, region:us, safetensors, text-generation, transformers, vllm
 
 ## openai/gpt-oss-safeguard-20b
 - **ID**: hf_openai_gpt-oss-safeguard-20b

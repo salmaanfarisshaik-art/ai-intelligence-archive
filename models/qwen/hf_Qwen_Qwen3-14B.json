@@ -29,14 +29,15 @@
       "text-generation-inference",
       "endpoints_compatible",
       "deploy:azure",
-      "region:us"
+      "region:us",
+      "deploy:sagemaker"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
     "createdAt": "2025-04-27T03:42:45.000Z",
     "modelId": "Qwen/Qwen3-14B"
   },
-  "retrieval_timestamp": "2026-07-21T12:23:51Z",
+  "retrieval_timestamp": "2026-07-22T15:40:39Z",
   "last_updated": "",
   "links": {
     "related_models": [],

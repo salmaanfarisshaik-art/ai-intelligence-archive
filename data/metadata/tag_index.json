@@ -1035,6 +1035,24 @@
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5.2-FP8"
   ],
+  "deploy:sagemaker": [
+    "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen3-0.6B",
+    "hf_Qwen_Qwen3-1.7B",
+    "hf_Qwen_Qwen3-14B",
+    "hf_Qwen_Qwen3-30B-A3B",
+    "hf_Qwen_Qwen3-32B",
+    "hf_Qwen_Qwen3-4B",
+    "hf_Qwen_Qwen3-4B-Instruct-2507",
+    "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-Embedding-0.6B",
+    "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
+    "hf_deepseek-ai_DeepSeek-R1",
+    "hf_google_gemma-3-1b-it",
+    "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_openai_gpt-oss-120b",
+    "hf_openai_gpt-oss-20b"
+  ],
   "devops": [
     "docker",
     "terraform"

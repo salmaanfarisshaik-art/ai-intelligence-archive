@@ -19,7 +19,8 @@
     "model-index",
     "text-embeddings-inference",
     "endpoints_compatible",
-    "region:us"
+    "region:us",
+    "deploy:sagemaker"
   ],
   "pipeline_tag": "sentence-similarity",
   "library_name": "sentence-transformers",

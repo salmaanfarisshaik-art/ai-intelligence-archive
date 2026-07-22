@@ -12,7 +12,7 @@
   "raw_payload": {
     "_id": "678dc6fff905d106be796d8a",
     "id": "deepseek-ai/DeepSeek-R1",
-    "likes": 13493,
+    "likes": 13495,
     "private": false,
     "downloads": 9244864,
     "tags": [
@@ -28,14 +28,15 @@
       "text-generation-inference",
       "endpoints_compatible",
       "fp8",
-      "region:us"
+      "region:us",
+      "deploy:sagemaker"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
     "createdAt": "2025-01-20T03:46:07.000Z",
     "modelId": "deepseek-ai/DeepSeek-R1"
   },
-  "retrieval_timestamp": "2026-07-22T08:26:33Z",
+  "retrieval_timestamp": "2026-07-22T15:40:39Z",
   "last_updated": "",
   "links": {
     "related_models": [],

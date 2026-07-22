@@ -134,7 +134,7 @@
 | [deepseek-ai/deepseek-llm-7b-base](https://huggingface.co/deepseek-ai/deepseek-llm-7b-base) | Hugging Face |  | 0 |
 | [deepseek-ai/deepseek-llm-7b-chat](https://huggingface.co/deepseek-ai/deepseek-llm-7b-chat) | Hugging Face |  | 0 |
 | [deepseek-ai/deepseek-moe-16b-base](https://huggingface.co/deepseek-ai/deepseek-moe-16b-base) | Hugging Face |  | 0 |
-| [deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Hugging Face | arxiv:2501.12948, conversational, custom_code, deepseek_v3, endpoints_compatible | 0 |
+| [deepseek-ai/DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Hugging Face | arxiv:2501.12948, conversational, custom_code, deepseek_v3, deploy:sagemaker | 0 |
 | [deepseek-ai/DeepSeek-R1-0528](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528) | Hugging Face | arxiv:2501.12948, conversational, custom_code, deepseek_v3, endpoints_compatible | 0 |
 | [deepseek-ai/DeepSeek-R1-0528-Qwen3-8B](https://huggingface.co/deepseek-ai/DeepSeek-R1-0528-Qwen3-8B) | Hugging Face | arxiv:2501.12948, conversational, endpoints_compatible, license:mit, qwen3 | 0 |
 | [deepseek-ai/DeepSeek-R1-Distill-Llama-70B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Llama-70B) | Hugging Face |  | 0 |
@@ -464,7 +464,7 @@
 | [meta-llama/Llama-3.1-8B](https://huggingface.co/meta-llama/Llama-3.1-8B) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct) | Hugging Face | arxiv:2204.05149, base_model:finetune:meta-llama/Llama-3.1-8B, base_model:meta-llama/Llama-3.1-8B, conversational, de | 0 |
 | [meta-llama/Llama-3.2-1B](https://huggingface.co/meta-llama/Llama-3.2-1B) | Hugging Face |  | 0 |
-| [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | Hugging Face | arxiv:2204.05149, arxiv:2405.16406, conversational, de, en | 0 |
+| [meta-llama/Llama-3.2-1B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct) | Hugging Face | arxiv:2204.05149, arxiv:2405.16406, conversational, de, deploy:sagemaker | 0 |
 | [meta-llama/Llama-3.2-3B](https://huggingface.co/meta-llama/Llama-3.2-3B) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.2-3B-Instruct](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) | Hugging Face |  | 0 |
 | [meta-llama/Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) | Hugging Face |  | 0 |
@@ -600,8 +600,8 @@
 | [openai-community/gpt2-medium](https://huggingface.co/openai-community/gpt2-medium) | Hugging Face |  | 0 |
 | [openai-community/gpt2-xl](https://huggingface.co/openai-community/gpt2-xl) | Hugging Face |  | 0 |
 | [openai-community/openai-gpt](https://huggingface.co/openai-community/openai-gpt) | Hugging Face |  | 0 |
-| [openai/gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | Hugging Face | 8-bit, arxiv:2508.10925, conversational, deploy:azure, endpoints_compatible | 0 |
-| [openai/gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | Hugging Face | 8-bit, arxiv:2508.10925, conversational, deploy:azure, endpoints_compatible | 0 |
+| [openai/gpt-oss-120b](https://huggingface.co/openai/gpt-oss-120b) | Hugging Face | 8-bit, arxiv:2508.10925, conversational, deploy:azure, deploy:sagemaker | 0 |
+| [openai/gpt-oss-20b](https://huggingface.co/openai/gpt-oss-20b) | Hugging Face | 8-bit, arxiv:2508.10925, conversational, deploy:azure, deploy:sagemaker | 0 |
 | [openai/gpt-oss-safeguard-20b](https://huggingface.co/openai/gpt-oss-safeguard-20b) | Hugging Face |  | 0 |
 | [openbmb/MiniCPM-2B-sft-bf16](https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16) | Hugging Face |  | 0 |
 | [openbmb/MiniCPM3-4B](https://huggingface.co/openbmb/MiniCPM3-4B) | Hugging Face |  | 0 |
@@ -650,7 +650,7 @@
 | [Qwen/Qwen2-0.5B](https://huggingface.co/Qwen/Qwen2-0.5B) | Hugging Face |  | 0 |
 | [Qwen/Qwen2-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2-0.5B-Instruct) | Hugging Face |  | 0 |
 | [Qwen/Qwen2-1.5B](https://huggingface.co/Qwen/Qwen2-1.5B) | Hugging Face |  | 0 |
-| [Qwen/Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct) | Hugging Face | chat, conversational, deploy:azure, en, endpoints_compatible | 0 |
+| [Qwen/Qwen2-1.5B-Instruct](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct) | Hugging Face | chat, conversational, deploy:azure, deploy:sagemaker, en | 0 |
 | [Qwen/Qwen2-1.5B-Instruct-AWQ](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen2-1.5B-Instruct-GGUF](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-GGUF) | Hugging Face |  | 0 |
 | [Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4](https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4) | Hugging Face |  | 0 |
@@ -741,7 +741,7 @@
 | [Qwen/Qwen3-30B-A3B-Instruct-2507-FP8](https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-30B-A3B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-30B-A3B-Thinking-2507-FP8](https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-32B](https://huggingface.co/Qwen/Qwen3-32B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, conversational, deploy:azure, endpoints_compatible | 0 |
+| [Qwen/Qwen3-32B](https://huggingface.co/Qwen/Qwen3-32B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, conversational, deploy:azure, deploy:sagemaker | 0 |
 | [Qwen/Qwen3-32B-AWQ](https://huggingface.co/Qwen/Qwen3-32B-AWQ) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-32B-FP8](https://huggingface.co/Qwen/Qwen3-32B-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B) | Hugging Face | arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-4B-Base, base_model:finetune:Qwen/Qwen3-4B-Base, conversational | 0 |
@@ -749,7 +749,7 @@
 | [Qwen/Qwen3-4B-Base](https://huggingface.co/Qwen/Qwen3-4B-Base) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-FP8](https://huggingface.co/Qwen/Qwen3-4B-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-GGUF](https://huggingface.co/Qwen/Qwen3-4B-GGUF) | Hugging Face |  | 0 |
-| [Qwen/Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) | Hugging Face | arxiv:2505.09388, conversational, deploy:azure, endpoints_compatible, eval-results | 0 |
+| [Qwen/Qwen3-4B-Instruct-2507](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507) | Hugging Face | arxiv:2505.09388, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible | 0 |
 | [Qwen/Qwen3-4B-Instruct-2507-FP8](https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507-FP8) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-MLX-4bit](https://huggingface.co/Qwen/Qwen3-4B-MLX-4bit) | Hugging Face |  | 0 |
 | [Qwen/Qwen3-4B-Thinking-2507](https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507) | Hugging Face |  | 0 |

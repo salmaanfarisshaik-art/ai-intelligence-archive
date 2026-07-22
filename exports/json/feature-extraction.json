@@ -9,6 +9,7 @@
       "base_model:Qwen/Qwen3-0.6B-Base",
       "base_model:finetune:Qwen/Qwen3-0.6B-Base",
       "deploy:azure",
+      "deploy:sagemaker",
       "endpoints_compatible",
       "feature-extraction",
       "license:apache-2.0",

@@ -551,6 +551,11 @@
 - **URL**: [https://openai.com/index/advancing-red-teaming-with-people-and-ai](https://openai.com/index/advancing-red-teaming-with-people-and-ai)
 
 ## 
+- **ID**: rss_https://openai.com/index/advancing-the-next-era-of-national-science
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/advancing-the-next-era-of-national-science](https://openai.com/index/advancing-the-next-era-of-national-science)
+
+## 
 - **ID**: rss_https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api)

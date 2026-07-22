@@ -115,6 +115,7 @@
 | [](https://openai.com/index/advancing-content-provenance) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/advancing-independent-research-ai-alignment) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/advancing-red-teaming-with-people-and-ai) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/advancing-the-next-era-of-national-science) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/advancing-youth-safety-in-emea) | OpenAI Blog |  | 0 |

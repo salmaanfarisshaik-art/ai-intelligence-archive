@@ -16,7 +16,8 @@
     "base_model:finetune:Qwen/Qwen3-4B-Base",
     "license:apache-2.0",
     "endpoints_compatible",
-    "region:us"
+    "region:us",
+    "deploy:sagemaker"
   ],
   "pipeline_tag": "text-ranking",
   "library_name": "transformers",
