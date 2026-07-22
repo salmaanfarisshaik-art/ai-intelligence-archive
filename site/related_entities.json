@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T05:50:10Z",
+  "generated_at": "2026-07-22T08:27:47Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -462,7 +462,8 @@
     ],
     "hf_Qwen_QwQ-32B": [
       "model_lmstudio_community_qwq_32b_mlx_8bit",
-      "model_maziyarpanahi_qwq_32b_gguf"
+      "model_maziyarpanahi_qwq_32b_gguf",
+      "model_qwen_qwq_32b_awq"
     ],
     "hf_Qwen_Qwen-AgentWorld-35B-A3B": [
       "model_unsloth_qwen_agentworld_35b_a3b_gguf"
@@ -615,6 +616,7 @@
       "model_lmstudio_community_qwen2_5_coder_14b_instruct_mlx_8bit",
       "model_qwen_qwen2_5_coder_14b_instruct_awq",
       "model_qwen_qwen2_5_coder_14b_instruct_gguf",
+      "model_qwen_qwen2_5_coder_14b_instruct_gptq_int4",
       "model_qwen_qwen2_5_coder_14b_instruct_gptq_int8",
       "model_redhatai_qwen2_5_coder_14b_instruct_fp8_dynamic",
       "model_unsloth_qwen2_5_coder_14b_instruct_bnb_4bit"
@@ -2516,6 +2518,7 @@
       "model_datificate_gpt2_small_spanish",
       "model_jackfram_llama_160m",
       "model_jackfram_llama_68m",
+      "model_sbintuitions_tiny_lm",
       "model_xlnet_xlnet_base_cased"
     ],
     "hf_yuxinlu1_gemma-4-12B-coder-fable5-composer2.5-v1": [
@@ -4623,6 +4626,9 @@
     "model_qwen_qwen2_5_coder_14b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-14B-Instruct"
     ],
+    "model_qwen_qwen2_5_coder_14b_instruct_gptq_int4": [
+      "hf_Qwen_Qwen2.5-Coder-14B-Instruct"
+    ],
     "model_qwen_qwen2_5_coder_14b_instruct_gptq_int8": [
       "hf_Qwen_Qwen2.5-Coder-14B-Instruct"
     ],
@@ -4828,6 +4834,9 @@
     "model_qwen_qwq_32b": [
       "hf_Qwen_Qwen2.5-32B"
     ],
+    "model_qwen_qwq_32b_awq": [
+      "hf_Qwen_QwQ-32B"
+    ],
     "model_qwen_qwq_32b_preview": [
       "hf_Qwen_Qwen2.5-32B-Instruct"
     ],
@@ -4955,6 +4964,9 @@
     ],
     "model_sanctumai_meta_llama_3_1_8b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
+    ],
+    "model_sbintuitions_tiny_lm": [
+      "hf_wikipedia"
     ],
     "model_sc117_ornith_1_0_35b_mtp_apex_gguf": [
       "hf_deepreinforce-ai_Ornith-1.0-35B"
