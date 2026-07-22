@@ -9,6 +9,7 @@
 | [Analyzing Defensive Misdirection Against Model-Guided Automated Attacks on Agentic AI Systems](http://arxiv.org/abs/2606.20470v1) | ArXiv |  | 1 |
 | [Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](http://arxiv.org/abs/2607.15263v1) | ArXiv |  | 1 |
 | [Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents](http://arxiv.org/abs/2607.15263v2) | ArXiv |  | 1 |
+| [BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment](http://arxiv.org/abs/2607.05462v2) | ArXiv |  | 1 |
 | [Calibration Without Comprehension: Diagnosing the Limits of Fine-Tuning LLMs for Vulnerability Detection in Systems Software](http://arxiv.org/abs/2606.20502v1) | ArXiv |  | 1 |
 | [Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests](http://arxiv.org/abs/2605.28734v2) | ArXiv |  | 1 |
 | [Efficient and Sound Probabilistic Verification for AI Agents](http://arxiv.org/abs/2606.20510v1) | ArXiv |  | 1 |
@@ -18,5 +19,6 @@
 | [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](http://arxiv.org/abs/2606.18198v1) | ArXiv |  | 1 |
 | [SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents](http://arxiv.org/abs/2602.14211v3) | ArXiv |  | 1 |
 | [Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes](http://arxiv.org/abs/2606.20520v1) | ArXiv |  | 1 |
+| [They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface](http://arxiv.org/abs/2607.19267v1) | ArXiv |  | 1 |
 | [When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks](http://arxiv.org/abs/2606.14629v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

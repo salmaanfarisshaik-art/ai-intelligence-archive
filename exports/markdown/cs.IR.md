@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.04593v2](http://arxiv.org/abs/2604.04593v2)
 
+## CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations
+- **ID**: arxiv_2604.14586v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.14586v3](http://arxiv.org/abs/2604.14586v3)
+
 ## Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA
 - **ID**: arxiv_2604.23336v3
 - **Source**: ArXiv
@@ -29,6 +34,11 @@
 - **ID**: arxiv_2606.20554v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20554v1](http://arxiv.org/abs/2606.20554v1)
+
+## An LLM-powered Agentic Recommendation System for Connected TV Content Discovery
+- **ID**: arxiv_2607.09988v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09988v2](http://arxiv.org/abs/2607.09988v2)
 
 ## Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search
 - **ID**: arxiv_2607.15253v1

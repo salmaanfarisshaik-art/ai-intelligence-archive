@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.05493v2",
+  "schema_version": "1.0",
+  "name": "LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.05493v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.05493v2",
+    "updated": "2026-07-21T17:59:46Z",
+    "published": "2026-02-05T09:55:19Z",
+    "title": "LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation",
+    "summary": "Data annotation remains a significant bottleneck in the field of humanities and social sciences, particularly for complex linguistic tasks such as metaphor identification. While Large Language Models (LLMs) show promise, a significant gap remains between the theoretical capability of LLMs and their practical utility for researchers. This paper introduces LinguistAgent, an integrated, user-friendly platform that leverages a reflective multi-model architecture to automate linguistic annotation. The platform comprises an Annotator and an optional Reviewer to simulate a peer-review process. This platform supports comparative experiments across three main paradigms: Prompt Engineering (Zero-shot/Few-shot/Chain-of-thought), Retrieval-Augmented Generation, and Fine-tuning. We demonstrate LinguistAgent's efficacy by replicating the task of metaphor identification from a published study, which provides real-time token-level evaluation (F1 and Cohen's kappa) against human gold standards. The application and codes are released on https://github.com/Bingru-Li/LinguistAgent.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T17:59:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.05493v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

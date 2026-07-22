@@ -85,3 +85,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18200v1](http://arxiv.org/abs/2607.18200v1)
 
+## From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs
+- **ID**: arxiv_2607.19306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19306v1](http://arxiv.org/abs/2607.19306v1)
+

@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development](http://arxiv.org/abs/2604.21744v2) | ArXiv |  | 1 |
 | [All Smoke, No Alarm: Oracle Signals in Agent-Authored Test Code](http://arxiv.org/abs/2606.18168v1) | ArXiv |  | 1 |
 | [Early Adoption of Agentic Coding Tools by GitHub Projects](http://arxiv.org/abs/2607.14037v2) | ArXiv |  | 1 |
 | [FM-Agent: Scaling Formal Methods to Large Systems via LLM-Based Hoare-Style Reasoning](http://arxiv.org/abs/2604.11556v2) | ArXiv |  | 1 |

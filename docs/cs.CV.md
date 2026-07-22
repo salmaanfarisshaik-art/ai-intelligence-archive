@@ -13,7 +13,9 @@
 | [ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation](http://arxiv.org/abs/2606.16996v1) | ArXiv |  | 1 |
 | [Adaptive Contrast Enhancement and Optimised Feature Matching for RootSIFT-Based Palm-Vein Recognition](http://arxiv.org/abs/2607.16077v1) | ArXiv |  | 1 |
 | [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution](http://arxiv.org/abs/2606.18231v1) | ArXiv |  | 1 |
+| [AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning](http://arxiv.org/abs/2509.25699v4) | ArXiv |  | 1 |
 | [An Exam for Active Observers](http://arxiv.org/abs/2607.16165v1) | ArXiv |  | 1 |
+| [Appearance Pointers -- Multimodal Region Control of Diffusion Transformers](http://arxiv.org/abs/2607.19344v1) | ArXiv |  | 1 |
 | [ARMOR++: Agentic Orchestration of a Multi-Domain Primitive Set for Transferable Attacks on Deepfake Detectors](http://arxiv.org/abs/2607.15246v1) | ArXiv |  | 1 |
 | [ArtChart: A Benchmark for Faithful Artistic Chart Generation with Integrated Text Rendering](http://arxiv.org/abs/2607.16060v1) | ArXiv |  | 1 |
 | [Attention-Guided Saliency Maps for Interpreting Visualization Literacy in VLMs](http://arxiv.org/abs/2607.16105v1) | ArXiv |  | 1 |
@@ -36,8 +38,10 @@
 | [Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](http://arxiv.org/abs/2512.03883v3) | ArXiv |  | 1 |
 | [EgoCS-400K: An Egocentric Gameplay Dataset for World Models](http://arxiv.org/abs/2606.18180v1) | ArXiv |  | 1 |
 | [Epipolar Geometry Improves Video Generation Models](http://arxiv.org/abs/2510.21615v2) | ArXiv |  | 1 |
+| [ERank in Latent Space as an Image-Complexity and Richness Measure](http://arxiv.org/abs/2607.19315v1) | ArXiv |  | 1 |
 | [EventDrive: Event Cameras for Vision-Language Driving Intelligence](http://arxiv.org/abs/2606.18242v1) | ArXiv |  | 1 |
 | [EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution](http://arxiv.org/abs/2606.13580v1) | ArXiv |  | 1 |
+| [ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis](http://arxiv.org/abs/2607.19341v1) | ArXiv |  | 1 |
 | [Flex4DHuman: Flexible Multi-view Video Diffusion for 4D Human Reconstruction](http://arxiv.org/abs/2606.13655v1) | ArXiv |  | 1 |
 | [FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry](http://arxiv.org/abs/2607.18227v1) | ArXiv |  | 1 |
 | [FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining](http://arxiv.org/abs/2606.20506v1) | ArXiv |  | 1 |
@@ -60,6 +64,7 @@
 | [HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification](http://arxiv.org/abs/2606.14684v1) | ArXiv |  | 1 |
 | [Improving Lunar Topography with Deep Learning Schrödinger Bridges](http://arxiv.org/abs/2606.14638v1) | ArXiv |  | 1 |
 | [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](http://arxiv.org/abs/2606.14699v1) | ArXiv |  | 1 |
+| [InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation](http://arxiv.org/abs/2607.19324v1) | ArXiv |  | 1 |
 | [InterleaveThinker: Reinforcing Agentic Interleaved Generation](http://arxiv.org/abs/2606.13679v1) | ArXiv |  | 1 |
 | [Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models](http://arxiv.org/abs/2607.05268v3) | ArXiv |  | 1 |
 | [JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising](http://arxiv.org/abs/2606.20563v1) | ArXiv |  | 1 |
@@ -68,6 +73,7 @@
 | [Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction](http://arxiv.org/abs/2601.20720v2) | ArXiv |  | 1 |
 | [Lossless-INR: Lossless Volumetric Implicit Neural Representations](http://arxiv.org/abs/2607.18150v1) | ArXiv |  | 1 |
 | [MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](http://arxiv.org/abs/2607.15211v1) | ArXiv |  | 1 |
+| [Masked Visual Actions for Unified World Modeling](http://arxiv.org/abs/2607.19343v1) | ArXiv |  | 1 |
 | [MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](http://arxiv.org/abs/2607.15273v1) | ArXiv |  | 1 |
 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](http://arxiv.org/abs/2606.14667v1) | ArXiv |  | 1 |
 | [MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences](http://arxiv.org/abs/2606.17027v1) | ArXiv |  | 1 |
@@ -81,12 +87,15 @@
 | [Native Active Perception as Reasoning for Omni-Modal Understanding](http://arxiv.org/abs/2606.19341v1) | ArXiv |  | 1 |
 | [NeuMesh++: Towards Versatile and Efficient Volumetric Editing with Disentangled Neural Mesh-based Implicit Field](http://arxiv.org/abs/2606.19316v1) | ArXiv |  | 1 |
 | [Neural Tree Reconstruction for the Open Forest Observatory](http://arxiv.org/abs/2606.18153v1) | ArXiv |  | 1 |
+| [No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation](http://arxiv.org/abs/2607.19288v1) | ArXiv |  | 1 |
 | [NormalView: tree species classification from backpack and aerial lidar data using geometric projections](http://arxiv.org/abs/2512.05610v2) | ArXiv |  | 1 |
 | [O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning](http://arxiv.org/abs/2607.18142v1) | ArXiv |  | 1 |
 | [Occlusion-Aware Panoptic Segmentation with Joint Position Embedding and Occlusion-Level Attention](http://arxiv.org/abs/2607.18112v1) | ArXiv |  | 1 |
+| [OmniReasoner: Thinking with Long Audio-Video via Native Tool Use](http://arxiv.org/abs/2607.19339v1) | ArXiv |  | 1 |
 | [OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains](http://arxiv.org/abs/2606.14702v1) | ArXiv |  | 1 |
 | [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](http://arxiv.org/abs/2606.19253v1) | ArXiv |  | 1 |
 | [Online Neural Space Time Memory for Dynamic Novel View Synthesis](http://arxiv.org/abs/2607.15271v1) | ArXiv |  | 1 |
+| [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](http://arxiv.org/abs/2607.19261v1) | ArXiv |  | 1 |
 | [PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds](http://arxiv.org/abs/2606.20455v1) | ArXiv |  | 2 |
 | [Plenoptic Condensation: A Novel Approach to Generalized Scene Reconstruction](http://arxiv.org/abs/2607.18151v1) | ArXiv |  | 1 |
 | [PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](http://arxiv.org/abs/2512.10840v2) | ArXiv |  | 1 |
@@ -126,6 +135,7 @@
 | [Symbal: Detecting Systematic Misalignments in Model-Generated Captions](http://arxiv.org/abs/2607.15216v1) | ArXiv |  | 1 |
 | [The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation](http://arxiv.org/abs/2606.20536v1) | ArXiv |  | 1 |
 | [The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers](http://arxiv.org/abs/2606.17037v1) | ArXiv |  | 1 |
+| [The JEPA Predictor: A Transferable Operator for Occluded Feature Completion](http://arxiv.org/abs/2607.16274v2) | ArXiv |  | 1 |
 | [The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric](http://arxiv.org/abs/2607.18237v1) | ArXiv |  | 1 |
 | [Thinking in Boxes: 3D Editing in Real Images Made Easy](http://arxiv.org/abs/2606.20556v1) | ArXiv |  | 1 |
 | [TimeProVe: Propose, then Verify for Efficient Long Video Temporal Reasoning in Activities of Daily Living](http://arxiv.org/abs/2606.20561v1) | ArXiv |  | 1 |

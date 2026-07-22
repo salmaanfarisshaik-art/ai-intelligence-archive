@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19339v1",
+  "schema_version": "1.0",
+  "name": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19339v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19339v1",
+    "updated": "2026-07-21T17:57:50Z",
+    "published": "2026-07-21T17:57:50Z",
+    "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
+    "summary": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training framework for Thinking with Long Audio-Video: omni-modal LLMs learn, via supervised fine-tuning and reinforcement learning, to decide whether and where to call a zoom-in tool before answering. OmniReasoner first builds a low-cost global preview of the full stream and then, when needed, calls the zoom-in tool with a requested temporal interval for higher-fidelity visual and audio inspection before answering. Because the model observes different sampling granularities before and after this call -- a sparse global preview and a denser local clip -- we introduce TimeAnchor, which keeps the tool's temporal argument valid and round-trip-consistent across these granularities, rather than tied to frame indices from a particular sampling rate. To make this tool-use behavior trainable without expensive manual interval annotation, we build a Temporal Augmented Data Engine that synthesizes tool-use post-training trajectories by video editing and composition. Experiments across omnimodal and video benchmarks show that OmniReasoner improves both answer accuracy and temporal grounding while concentrating high-fidelity computation on informative regions. Code is available at https://github.com/RockyChen0205/OmniReasoner.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T17:57:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19339v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

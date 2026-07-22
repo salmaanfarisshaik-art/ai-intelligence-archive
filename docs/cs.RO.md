@@ -8,6 +8,7 @@
 | [CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation](http://arxiv.org/abs/2606.16935v1) | ArXiv |  | 1 |
 | [Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](http://arxiv.org/abs/2606.19333v1) | ArXiv |  | 1 |
 | [Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation](http://arxiv.org/abs/2606.20491v1) | ArXiv |  | 1 |
+| [From Distances to Trajectories: Real-Time Signed Distance Function Mapping and Distance-Accelerated Motion Planning for UAVs](http://arxiv.org/abs/2607.19306v1) | ArXiv |  | 1 |
 | [Geometric Action Model for Robot Policy Learning](http://arxiv.org/abs/2606.17046v1) | ArXiv |  | 1 |
 | [Interaction-Aware Whole-Body Control for Compliant Object Transport](http://arxiv.org/abs/2603.03751v2) | ArXiv |  | 1 |
 | [Learning Adaptive Safety Margins for Visual Navigation](http://arxiv.org/abs/2607.18200v1) | ArXiv |  | 1 |

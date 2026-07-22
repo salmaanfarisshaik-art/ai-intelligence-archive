@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19327v1",
+  "schema_version": "1.0",
+  "name": "Associative Emotional Learning in Convolutional Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19327v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19327v1",
+    "updated": "2026-07-21T17:49:19Z",
+    "published": "2026-07-21T17:49:19Z",
+    "title": "Associative Emotional Learning in Convolutional Neural Networks",
+    "summary": "Associative emotional learning enables organisms to adaptively link pleasant or unpleasant outcomes to the presence of predictive stimuli. Whereas computational models such as the Rescorla-Wagner model have shed light on this important function, the limitations of these models are also known, especially when they are applied to neural data. The advent of deep neural networks has opened another avenue for modeling associative emotional learning. In this work we proposed a deep neural network model of visual valence processing, consisting of a visual module that encodes complex natural scenes and a module that recognizes their emotional significance in terms of valence, a key dimension of emotion, and tested a novel Pavlovian learning paradigm on the model. The results showed that with learning, the model reproduced several observations from human associative learning studies, including association formation and generalization, and that the neural representations of the conditioned and the unconditioned stimuli became increasingly aligned both at the single unit and at the neural population level. Comparison between the model and human experimental data provided further validation of our approach. This study thus suggests that deep neural network models, when combined with appropriate learning algorithms, can be used to model behavioral and neural signatures of associative emotion/valence learning.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T17:49:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19327v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

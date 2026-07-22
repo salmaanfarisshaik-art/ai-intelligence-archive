@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.08679v6](http://arxiv.org/abs/2503.08679v6)
 
+## Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties
+- **ID**: arxiv_2510.19299v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.19299v2](http://arxiv.org/abs/2510.19299v2)
+
 ## Subjective functions
 - **ID**: arxiv_2512.15948v3
 - **Source**: ArXiv
@@ -305,6 +310,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.06503v2](http://arxiv.org/abs/2607.06503v2)
 
+## Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints
+- **ID**: arxiv_2607.08465v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.08465v2](http://arxiv.org/abs/2607.08465v2)
+
 ## ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory
 - **ID**: arxiv_2607.10350v3
 - **Source**: ArXiv
@@ -389,4 +399,44 @@
 - **ID**: arxiv_2607.18228v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18228v1](http://arxiv.org/abs/2607.18228v1)
+
+## Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks
+- **ID**: arxiv_2607.19253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19253v1](http://arxiv.org/abs/2607.19253v1)
+
+## BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance
+- **ID**: arxiv_2607.19262v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19262v1](http://arxiv.org/abs/2607.19262v1)
+
+## Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes
+- **ID**: arxiv_2607.19297v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19297v1](http://arxiv.org/abs/2607.19297v1)
+
+## LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior
+- **ID**: arxiv_2607.19300v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19300v1](http://arxiv.org/abs/2607.19300v1)
+
+## ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D
+- **ID**: arxiv_2607.19321v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19321v1](http://arxiv.org/abs/2607.19321v1)
+
+## Associative Emotional Learning in Convolutional Neural Networks
+- **ID**: arxiv_2607.19327v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19327v1](http://arxiv.org/abs/2607.19327v1)
+
+## Agents in the Wild: Where Research Meets Deployment
+- **ID**: arxiv_2607.19336v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19336v1](http://arxiv.org/abs/2607.19336v1)
+
+## CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents
+- **ID**: arxiv_2607.19338v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19338v1](http://arxiv.org/abs/2607.19338v1)
 

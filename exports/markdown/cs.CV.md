@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.07996v4](http://arxiv.org/abs/2509.07996v4)
 
+## AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning
+- **ID**: arxiv_2509.25699v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.25699v4](http://arxiv.org/abs/2509.25699v4)
+
 ## Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - **ID**: arxiv_2510.21583v3
 - **Source**: ArXiv
@@ -625,6 +630,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16193v1](http://arxiv.org/abs/2607.16193v1)
 
+## The JEPA Predictor: A Transferable Operator for Occluded Feature Completion
+- **ID**: arxiv_2607.16274v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16274v2](http://arxiv.org/abs/2607.16274v2)
+
 ## SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark
 - **ID**: arxiv_2607.18109v1
 - **Source**: ArXiv
@@ -684,4 +694,44 @@
 - **ID**: arxiv_2607.18237v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
+
+## PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image
+- **ID**: arxiv_2607.19261v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19261v1](http://arxiv.org/abs/2607.19261v1)
+
+## No Training, Better Flights: Test-Time Scaled VLMs for UAV Navigation
+- **ID**: arxiv_2607.19288v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19288v1](http://arxiv.org/abs/2607.19288v1)
+
+## ERank in Latent Space as an Image-Complexity and Richness Measure
+- **ID**: arxiv_2607.19315v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19315v1](http://arxiv.org/abs/2607.19315v1)
+
+## InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation
+- **ID**: arxiv_2607.19324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19324v1](http://arxiv.org/abs/2607.19324v1)
+
+## OmniReasoner: Thinking with Long Audio-Video via Native Tool Use
+- **ID**: arxiv_2607.19339v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19339v1](http://arxiv.org/abs/2607.19339v1)
+
+## ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis
+- **ID**: arxiv_2607.19341v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19341v1](http://arxiv.org/abs/2607.19341v1)
+
+## Masked Visual Actions for Unified World Modeling
+- **ID**: arxiv_2607.19343v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19343v1](http://arxiv.org/abs/2607.19343v1)
+
+## Appearance Pointers -- Multimodal Region Control of Diffusion Transformers
+- **ID**: arxiv_2607.19344v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19344v1](http://arxiv.org/abs/2607.19344v1)
 

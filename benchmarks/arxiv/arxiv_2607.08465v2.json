@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.08465v2",
+  "schema_version": "1.0",
+  "name": "Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.08465v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.08465v2",
+    "updated": "2026-07-21T17:35:36Z",
+    "published": "2026-07-09T13:22:58Z",
+    "title": "Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints",
+    "summary": "I-JEPA and V-JEPA learn by matching latent predictions to target encoder outputs rather than regenerating the original input, and this has worked well for images and video. We explore whether the same objective works for compact network fingerprints. We built JA4-JEPA, a Transformer-based model trained on JA4, JA4H, JA4S, and JA4X subfields drawn from JA4DB and CIC-IDS- 2017. The training data combines roughly 397K samples from both sources, though no single sample contains all four view families. We evaluated the learned representations with a frozen kNN probe on protocol-family classification across TLS, DNS, and SSH. On 39,416 heldout samples the model achieved a cosine similarity of 0.9899 and a kNN accuracy of 0.9220. These results indicate that JEPA-style predictive learning can produce useful embeddings from JA4-derived fingerprints, even with incomplete view overlap across sources.\n  Keywords: JA4, network fingerprinting, JEPA, predictive representation learning, self-supervised learning",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T17:35:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.08465v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

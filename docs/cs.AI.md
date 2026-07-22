@@ -13,16 +13,21 @@
 | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](http://arxiv.org/abs/2606.14654v1) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](http://arxiv.org/abs/2606.13608v1) | ArXiv |  | 1 |
+| [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) | ArXiv |  | 1 |
 | [Agents-K1: Towards Agent-native Knowledge Orchestration](http://arxiv.org/abs/2606.13669v1) | ArXiv |  | 1 |
 | [AI for Auto-Research: Roadmap & User Guide](http://arxiv.org/abs/2605.18661v2) | ArXiv |  | 1 |
+| [Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](http://arxiv.org/abs/2607.08465v2) | ArXiv |  | 1 |
+| [Associative Emotional Learning in Convolutional Neural Networks](http://arxiv.org/abs/2607.19327v1) | ArXiv |  | 1 |
 | [Automated reproducibility assessments in the social and behavioral sciences using large language models](http://arxiv.org/abs/2606.13670v1) | ArXiv |  | 1 |
 | [AutoSynthesis: An agentic system for automated meta-analysis](http://arxiv.org/abs/2607.15247v1) | ArXiv |  | 1 |
 | [Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations](http://arxiv.org/abs/2606.17005v1) | ArXiv |  | 1 |
 | [Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization](http://arxiv.org/abs/2606.13658v1) | ArXiv |  | 1 |
 | [Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](http://arxiv.org/abs/2606.13621v1) | ArXiv |  | 1 |
+| [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](http://arxiv.org/abs/2607.19262v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v6) | ArXiv |  | 1 |
+| [CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents](http://arxiv.org/abs/2607.19338v1) | ArXiv |  | 1 |
 | [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](http://arxiv.org/abs/2606.16987v1) | ArXiv |  | 1 |
 | [Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions](http://arxiv.org/abs/2606.20459v1) | ArXiv |  | 1 |
 | [CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data](http://arxiv.org/abs/2607.16122v1) | ArXiv |  | 1 |
@@ -36,6 +41,7 @@
 | [FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment](http://arxiv.org/abs/2604.23786v2) | ArXiv |  | 1 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
 | [FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](http://arxiv.org/abs/2606.20518v1) | ArXiv |  | 1 |
+| [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](http://arxiv.org/abs/2606.16914v1) | ArXiv |  | 1 |
 | [Harmonizing AI Safety Thresholds](http://arxiv.org/abs/2607.16112v1) | ArXiv |  | 1 |
 | [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | ArXiv |  | 1 |
@@ -44,7 +50,9 @@
 | [Internal Pluralism and the Limits of Pairwise Comparisons](http://arxiv.org/abs/2607.02672v2) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
+| [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
+| [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
 | [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](http://arxiv.org/abs/2607.18228v1) | ArXiv |  | 1 |
 | [MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance](http://arxiv.org/abs/2606.16923v1) | ArXiv |  | 1 |
 | [Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So](http://arxiv.org/abs/2606.18144v1) | ArXiv |  | 1 |
@@ -59,10 +67,12 @@
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
 | [Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning](http://arxiv.org/abs/2606.13607v1) | ArXiv |  | 1 |
+| [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v1) | ArXiv |  | 1 |
 | [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](http://arxiv.org/abs/2606.19327v1) | ArXiv |  | 1 |
 | [Reward Modeling for Multi-Agent Orchestration](http://arxiv.org/abs/2606.13598v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
+| [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.11556v2](http://arxiv.org/abs/2604.11556v2)
 
+## Agentic AI-assisted coding offers a unique opportunity to instill epistemic grounding during software development
+- **ID**: arxiv_2604.21744v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.21744v2](http://arxiv.org/abs/2604.21744v2)
+
 ## When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime
 - **ID**: arxiv_2606.14589v1
 - **Source**: ArXiv

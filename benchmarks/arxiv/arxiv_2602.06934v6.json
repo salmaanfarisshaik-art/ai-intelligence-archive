@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.06934v6",
+  "schema_version": "1.0",
+  "name": "Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.06934v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.PL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.06934v6",
+    "updated": "2026-07-21T16:29:08Z",
+    "published": "2026-02-06T18:30:11Z",
+    "title": "Implementing Grassroots Logic Programs with Multiagent Transition Systems and AI (Full Version)",
+    "summary": "Grassroots Logic Programs (GLP) is a concurrent logic programming language in which logic variables are partitioned into paired readers and writers. An assignment is produced at most once via a writer and consumed at most once via its paired reader, and may contain additional readers and/or writers. This enables the concise expression of rich multidirectional communication modalities.\n  The language was introduced together with concurrent (cGLP) and multiagent (maGLP) operational semantics. Here, we derive from these (\\ia)~dGLP, a deterministic counterpart of cGLP, and (\\ib)~madGLP, a counterpart of maGLP in which deterministic agents communicate solely by asynchronous message passing, and prove them correct against their abstract counterparts. maGLP shared variable pairs spanning agents can be implemented by two local variable pairs joined by a \\emph{global link}, with correctness following from disjoint substitution commutativity (a consequence of GLP's single-occurrence invariant). We further prove that madGLP is grassroots. Both dGLP and madGLP serve as formal specifications for an AI-driven implementation discipline (math $\\to$ informal spec $\\to$ Dart) employed and described here: from dGLP, AI (Claude) developed a workstation-based GLP implementation in Dart, and from madGLP it is developing a smartphone-based multiagent one.",
+    "primary_category": "cs.PL"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T16:29:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.06934v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

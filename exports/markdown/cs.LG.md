@@ -1,9 +1,19 @@
 # Cs.Lg Export
 
+## Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
+- **ID**: arxiv_2505.18934v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.18934v2](http://arxiv.org/abs/2505.18934v2)
+
 ## Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs
 - **ID**: arxiv_2507.04219v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.04219v5](http://arxiv.org/abs/2507.04219v5)
+
+## Can Interpretation Predict Behavior on Unseen Data?
+- **ID**: arxiv_2507.06445v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.06445v3](http://arxiv.org/abs/2507.06445v3)
 
 ## When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs
 - **ID**: arxiv_2510.22228v2
@@ -269,4 +279,49 @@
 - **ID**: arxiv_2607.18198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18198v1](http://arxiv.org/abs/2607.18198v1)
+
+## Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks
+- **ID**: arxiv_2607.19259v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19259v1](http://arxiv.org/abs/2607.19259v1)
+
+## Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation
+- **ID**: arxiv_2607.19266v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19266v1](http://arxiv.org/abs/2607.19266v1)
+
+## GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models
+- **ID**: arxiv_2607.19270v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19270v1](http://arxiv.org/abs/2607.19270v1)
+
+## Riemannian Deep Learning:Modules, Networks, and Geometries
+- **ID**: arxiv_2607.19305v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19305v1](http://arxiv.org/abs/2607.19305v1)
+
+## Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information
+- **ID**: arxiv_2607.19313v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19313v1](http://arxiv.org/abs/2607.19313v1)
+
+## CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability
+- **ID**: arxiv_2607.19317v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19317v1](http://arxiv.org/abs/2607.19317v1)
+
+## ISO: An RLVR-Native Optimization Stack
+- **ID**: arxiv_2607.19331v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19331v1](http://arxiv.org/abs/2607.19331v1)
+
+## ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling
+- **ID**: arxiv_2607.19332v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19332v1](http://arxiv.org/abs/2607.19332v1)
+
+## Provable diffusion-based posterior sampling for linear inverse problems via DDIM
+- **ID**: arxiv_2607.19333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19333v1](http://arxiv.org/abs/2607.19333v1)
 

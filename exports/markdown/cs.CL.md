@@ -1,5 +1,10 @@
 # Cs.Cl Export
 
+## Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian
+- **ID**: arxiv_2402.18121v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2402.18121v2](http://arxiv.org/abs/2402.18121v2)
+
 ## MedicalAgentsBench for Complex Medical Reasoning: Comparing Internalized Reasoning Models versus Externalized Agent-based Frameworks
 - **ID**: arxiv_2503.07459v3
 - **Source**: ArXiv
@@ -15,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
 
+## Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
+- **ID**: arxiv_2509.25045v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.25045v3](http://arxiv.org/abs/2509.25045v3)
+
 ## Regression Language Models for Code
 - **ID**: arxiv_2509.26476v3
 - **Source**: ArXiv
@@ -24,6 +34,16 @@
 - **ID**: arxiv_2601.19792v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.19792v5](http://arxiv.org/abs/2601.19792v5)
+
+## LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation
+- **ID**: arxiv_2602.05493v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.05493v2](http://arxiv.org/abs/2602.05493v2)
+
+## PlotTwist: A Creative Plot Generation Framework with Small Language Models
+- **ID**: arxiv_2603.16410v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.16410v2](http://arxiv.org/abs/2603.16410v2)
 
 ## ClawBench: Can AI Agents Complete Everyday Online Tasks?
 - **ID**: arxiv_2604.08523v2
@@ -315,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09957v2](http://arxiv.org/abs/2607.09957v2)
 
+## LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes
+- **ID**: arxiv_2607.12310v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.12310v2](http://arxiv.org/abs/2607.12310v2)
+
 ## What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors
 - **ID**: arxiv_2607.13162v2
 - **Source**: ArXiv
@@ -439,4 +464,24 @@
 - **ID**: arxiv_2607.18235v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18235v1](http://arxiv.org/abs/2607.18235v1)
+
+## Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models
+- **ID**: arxiv_2607.19257v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19257v1](http://arxiv.org/abs/2607.19257v1)
+
+## Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness
+- **ID**: arxiv_2607.19322v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19322v1](http://arxiv.org/abs/2607.19322v1)
+
+## Selective State-Space Adaptation and Retrieval for Language Model Reasoning
+- **ID**: arxiv_2607.19326v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19326v1](http://arxiv.org/abs/2607.19326v1)
+
+## Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning
+- **ID**: arxiv_2607.19345v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19345v1](http://arxiv.org/abs/2607.19345v1)
 

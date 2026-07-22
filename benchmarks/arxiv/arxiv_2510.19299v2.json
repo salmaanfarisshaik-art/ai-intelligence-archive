@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.19299v2",
+  "schema_version": "1.0",
+  "name": "Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.19299v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.19299v2",
+    "updated": "2026-07-21T16:41:14Z",
+    "published": "2025-10-22T07:00:33Z",
+    "title": "Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties",
+    "summary": "Can large language model (LLM) agents reproduce the complex social dynamics that characterize human online behavior -- shaped by homophily, reciprocity, and social validation -- and what memory and learning mechanisms enable such dynamics to emerge? We present a multi-agent LLM simulation framework in which agents repeatedly interact, evaluate one another, and adapt their behavior through in-context learning accelerated by a coaching signal. To model human social behavior, we design behavioral reward functions that capture core drivers of online engagement, including social interaction, information seeking, self-presentation, coordination, and emotional support. These rewards align agent objectives with empirically observed user motivations, enabling the study of how network structures and group formations emerge from individual decision-making. Our experiments show that coached LLM agents develop stable interaction patterns and form emergent social ties, yielding network structures that mirror properties of real online communities. By combining behavioral rewards with in-context adaptation, our framework establishes a principled testbed for investigating collective dynamics in LLM populations and reveals how artificial agents may approximate or diverge from human-like social behavior.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-22T05:48:58Z",
+  "last_updated": "2026-07-21T16:41:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.19299v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

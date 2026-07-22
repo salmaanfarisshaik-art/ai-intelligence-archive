@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16130v1](http://arxiv.org/abs/2607.16130v1)
 
+## The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems
+- **ID**: arxiv_2607.19292v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19292v1](http://arxiv.org/abs/2607.19292v1)
+
