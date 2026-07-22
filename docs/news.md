@@ -467,6 +467,7 @@
 | [](https://openai.com/index/how-chatgpt-protects-privacy) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-confessions-can-keep-language-models-honest) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-countries-can-end-the-capability-overhang) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/how-news-organizations-are-using-ai) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-openai-is-approaching-2024-worldwide-elections) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-people-are-using-chatgpt) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/how-should-ai-systems-behave) | OpenAI Blog |  | 0 |
