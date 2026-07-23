@@ -28885,14 +28885,14 @@
   ],
   "cancer": [
     {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
+      "entity_id": "rss_https://openai.com/index/color-health",
       "match_type": "exact",
       "score": 5.0
     },
     {
-      "entity_id": "rss_https://openai.com/index/color-health",
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
-      "score": 5.0
+      "score": 4.0
     },
     {
       "entity_id": "dataset_medotter_4d_lung",
@@ -44398,11 +44398,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_google_research_datasets_mbpp",
       "match_type": "exact",
       "score": 1.0
@@ -50220,6 +50215,11 @@
     },
     {
       "entity_id": "dataset_frontisai_naturebench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_fujinchu_imgbed",
       "match_type": "exact",
       "score": 1.5
     },
@@ -58118,11 +58118,6 @@
       "score": 2.5
     },
     {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
-      "match_type": "exact",
-      "score": 2.5
-    },
-    {
       "entity_id": "dataset_mlfoundations_datacomp_pools",
       "match_type": "exact",
       "score": 2.5
@@ -58539,6 +58534,11 @@
     },
     {
       "entity_id": "dataset_flare_medfm_flare_task4_mri_fm",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 1.5
     },
@@ -67208,6 +67208,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_flare_medfm_pancancerctseg",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_icml_2026_agent_repro_challenge",
       "match_type": "exact",
       "score": 2.0
@@ -67679,11 +67684,6 @@
     },
     {
       "entity_id": "dataset_ddanielle_dogspeak_dataset",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_flare_medfm_pancancerctseg",
       "match_type": "exact",
       "score": 1.0
     },
@@ -98383,6 +98383,11 @@
     },
     {
       "entity_id": "dataset_compsciencelab_mdcath",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_flare_medfm_flare_automsc",
       "match_type": "exact",
       "score": 1.0
     },
@@ -237946,11 +237951,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_flare_medfm_flare_automsc",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_meta_agents_research_environments_gaia2",
       "match_type": "exact",
       "score": 1.0
@@ -290045,11 +290045,6 @@
       "score": 3.5
     },
     {
-      "entity_id": "dataset_flare_medfm_flare_automsc",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "dataset_kmin06_cvpr26_3dctfmcompetition",
       "match_type": "exact",
       "score": 3.0
@@ -290071,6 +290066,11 @@
     },
     {
       "entity_id": "dataset_bodymaps_cancerverse",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_flare_medfm_flare_automsc",
       "match_type": "exact",
       "score": 2.0
     },
