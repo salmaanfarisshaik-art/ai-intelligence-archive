@@ -86,6 +86,7 @@
 | bartowski/gemma-2-2b-it-GGUF |  |  | 0 |
 | bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF |  |  | 0 |
 | bartowski/huihui-ai_Qwen3-Coder-Next-abliterated-GGUF |  |  | 0 |
+| bartowski/Hy3-GGUF |  |  | 0 |
 | bartowski/Llama-3.2-1B-Instruct-GGUF |  |  | 0 |
 | bartowski/Llama-3.2-3B-Instruct-GGUF |  |  | 0 |
 | bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF |  |  | 0 |
@@ -151,11 +152,13 @@
 | casperhansen/mistral-nemo-instruct-2407-awq |  |  | 0 |
 | cckevinn/SeeClick |  |  | 0 |
 | ChantalPellegrini/RaDialog-interactive-radiology-report-generation |  |  | 0 |
+| CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF |  |  | 0 |
 | codellama/CodeLlama-7b-hf |  |  | 0 |
 | codellama/CodeLlama-7b-Instruct-hf |  |  | 0 |
 | CohereLabs/aya-expanse-8b |  |  | 0 |
 | CohereLabs/North-Mini-Code-1.0-fp8 |  |  | 0 |
 | ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b |  |  | 0 |
+| crusoeai/DeepSeek-V4-Flash-BF16 |  |  | 0 |
 | culturerevolt/gemma-4-12b-heretic-abliterated-GGUF |  |  | 0 |
 | cyankiwi/ERNIE-4.5-21B-A3B-Thinking-AWQ-4bit |  |  | 0 |
 | cyankiwi/GLM-4.5-Air-AWQ-4bit |  |  | 0 |
@@ -392,6 +395,7 @@
 | internlm/internlm2_5-step-prover-critic |  |  | 0 |
 | internlm/internlm3-8b-instruct |  |  | 0 |
 | InternScience/Agents-A1 |  |  | 0 |
+| InternScience/Agents-A1-4B |  |  | 0 |
 | InternScience/Agents-A1-Q4_K_M-GGUF |  |  | 0 |
 | IQuestLab/IQuest-Coder-V1-40B-Instruct |  |  | 0 |
 | IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct |  |  | 0 |
@@ -676,6 +680,7 @@
 | moonshotai/Moonlight-16B-A3B-Instruct |  |  | 0 |
 | mratsim/GLM-4-32B-0414.w4a16-gptq |  |  | 0 |
 | mratsim/MiniMax-M2.5-BF16-INT4-AWQ |  |  | 0 |
+| mrexodia/openPangu-2.0-Flash-GGUF |  |  | 0 |
 | mrs83/Kurtis-EON1-Hybrid-0.7B-v0.1.1 |  |  | 0 |
 | mtgv/MobileLLaMA-1.4B-Chat |  |  | 0 |
 | naver-hyperclovax/HyperCLOVAX-SEED-Think-14B |  |  | 0 |
@@ -814,6 +819,7 @@
 | pfnet/plamo-3-nict-2b-base |  |  | 0 |
 | PhalaCloud/GLM-5.2-W4AFP8 |  |  | 0 |
 | pipenetwork/GLM-5.2-REAP50-Q3_K_M-GGUF |  |  | 0 |
+| poolside/Laguna-S-2.1-NVFP4 |  |  | 0 |
 | poolside/Laguna-XS.2 |  |  | 0 |
 | prefeitura-rio/Rio-3.0-Open-Mini |  |  | 0 |
 | prism-ml/Bonsai-27B-gguf |  |  | 0 |
@@ -1200,6 +1206,7 @@
 | unsloth/mistral-7b-instruct-v0.3-bnb-4bit |  |  | 0 |
 | unsloth/mistral-7b-v0.3-bnb-4bit |  |  | 0 |
 | unsloth/Nemotron-3-Nano-30B-A3B |  |  | 0 |
+| unsloth/Ornith-1.0-35B-GGUF |  |  | 0 |
 | unsloth/orpheus-3b-0.1-ft |  |  | 0 |
 | unsloth/Phi-4-mini-instruct-GGUF |  |  | 0 |
 | unsloth/Qwen-AgentWorld-35B-A3B-GGUF |  |  | 0 |

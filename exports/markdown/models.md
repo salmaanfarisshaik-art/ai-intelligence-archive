@@ -324,6 +324,10 @@
 - **ID**: model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf
 - **Source**: 
 
+## bartowski/Hy3-GGUF
+- **ID**: model_bartowski_hy3_gguf
+- **Source**: 
+
 ## bartowski/Llama-3.2-1B-Instruct-GGUF
 - **ID**: model_bartowski_llama_3_2_1b_instruct_gguf
 - **Source**: 
@@ -584,6 +588,10 @@
 - **ID**: model_chantalpellegrini_radialog_interactive_radiology_report_generation
 - **Source**: 
 
+## CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF
+- **ID**: model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf
+- **Source**: 
+
 ## codellama/CodeLlama-7b-hf
 - **ID**: model_codellama_codellama_7b_hf
 - **Source**: 
@@ -602,6 +610,10 @@
 
 ## ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b
 - **ID**: model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b
+- **Source**: 
+
+## crusoeai/DeepSeek-V4-Flash-BF16
+- **ID**: model_crusoeai_deepseek_v4_flash_bf16
 - **Source**: 
 
 ## culturerevolt/gemma-4-12b-heretic-abliterated-GGUF
@@ -1546,6 +1558,10 @@
 
 ## InternScience/Agents-A1
 - **ID**: model_internscience_agents_a1
+- **Source**: 
+
+## InternScience/Agents-A1-4B
+- **ID**: model_internscience_agents_a1_4b
 - **Source**: 
 
 ## InternScience/Agents-A1-Q4_K_M-GGUF
@@ -2684,6 +2700,10 @@
 - **ID**: model_mratsim_minimax_m2_5_bf16_int4_awq
 - **Source**: 
 
+## mrexodia/openPangu-2.0-Flash-GGUF
+- **ID**: model_mrexodia_openpangu_2_0_flash_gguf
+- **Source**: 
+
 ## mrs83/Kurtis-EON1-Hybrid-0.7B-v0.1.1
 - **ID**: model_mrs83_kurtis_eon1_hybrid_0_7b_v0_1_1
 - **Source**: 
@@ -3234,6 +3254,10 @@
 
 ## pipenetwork/GLM-5.2-REAP50-Q3_K_M-GGUF
 - **ID**: model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf
+- **Source**: 
+
+## poolside/Laguna-S-2.1-NVFP4
+- **ID**: model_poolside_laguna_s_2_1_nvfp4
 - **Source**: 
 
 ## poolside/Laguna-XS.2
@@ -4778,6 +4802,10 @@
 
 ## unsloth/Nemotron-3-Nano-30B-A3B
 - **ID**: model_unsloth_nemotron_3_nano_30b_a3b
+- **Source**: 
+
+## unsloth/Ornith-1.0-35B-GGUF
+- **ID**: model_unsloth_ornith_1_0_35b_gguf
 - **Source**: 
 
 ## unsloth/orpheus-3b-0.1-ft
