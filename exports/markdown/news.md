@@ -3471,6 +3471,11 @@
 - **URL**: [https://openai.com/index/notion](https://openai.com/index/notion)
 
 ## 
+- **ID**: rss_https://openai.com/index/ntt-data
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/ntt-data](https://openai.com/index/ntt-data)
+
+## 
 - **ID**: rss_https://openai.com/index/nubank
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/nubank](https://openai.com/index/nubank)

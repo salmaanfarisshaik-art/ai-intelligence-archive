@@ -699,6 +699,7 @@
 | [](https://openai.com/index/nonprofit-commission-report) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/norad-holiday-collaboration) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/notion) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/ntt-data) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/nubank) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/nvidia) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/o1-and-new-tools-for-developers) | OpenAI Blog |  | 0 |
