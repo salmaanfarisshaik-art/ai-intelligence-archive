@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T05:53:43Z",
+  "generated_at": "2026-07-23T08:28:06Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -115,6 +115,9 @@
     "hf_DuoNeural_Gemma4-12B-IT-Abliterated": [
       "model_duoneural_gemma4_12b_it_abliterated_gguf"
     ],
+    "hf_EVA-UNIT-01_EVA-Qwen2.5-14B-v0.2": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
     "hf_EleutherAI_pile": [
       "hf_EleutherAI_pythia-160m",
       "model_eleutherai_gpt_j_6b",
@@ -159,6 +162,12 @@
       "model_eleutherai_pythia_410m_deduped",
       "model_eleutherai_pythia_70m_deduped"
     ],
+    "hf_Epiculous_SynthRP-Gens-v1.1-Filtered-n-Cleaned": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
+    "hf_Epiculous_Synthstruct-Gens-v1.1-Filtered-n-Cleaned": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
     "hf_EssentialAI_eai-taxonomy-stem-w-dclm": [
       "model_pfnet_plamo_3_nict_2b_base"
     ],
@@ -197,8 +206,17 @@
     "hf_GritLM_tulu2": [
       "model_parasail_ai_gritlm_7b_vllm"
     ],
+    "hf_Gryphe_ChatGPT-4o-Writing-Prompts": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
     "hf_Gryphe_Opus-WritingPrompts": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
+    ],
+    "hf_Gryphe_Sonnet3.5-Charcard-Roleplay": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
+    "hf_Gryphe_Sonnet3.5-SlimOrcaDedupCleaned": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
     "hf_HiTZ_euscrawl": [
       "model_bsc_lt_salamandra_7b_instruct"
@@ -403,6 +421,9 @@
     "hf_MiniMaxAI_MiniMax-M3": [
       "model_nvidia_minimax_m3_nvfp4"
     ],
+    "hf_Nopm_Opus_WritingStruct": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
     "hf_NousResearch_Hermes-3-Llama-3.1-8B": [
       "model_solidrust_hermes_3_llama_3_1_8b_awq"
     ],
@@ -597,6 +618,7 @@
       "model_virtue_ai_hub_vulnllm_r_7b"
     ],
     "hf_Qwen_Qwen2.5-Coder-0.5B": [
+      "model_jinaai_jina_code_embeddings_0_5b",
       "model_qwen_qwen2_5_coder_0_5b_instruct"
     ],
     "hf_Qwen_Qwen2.5-Coder-1.5B": [
@@ -822,6 +844,7 @@
       "model_amazon_mamba2_primed_hqwen3_8b_instruct",
       "model_avitotech_avibe",
       "model_lmstudio_community_qwen3_8b_mlx_4bit",
+      "model_marketeam_qwen_marketing",
       "model_maziyarpanahi_qwen3_8b_gguf",
       "model_nvidia_qwen3_8b_nvfp4",
       "model_nytopop_qwen3_8b_w8a8",
@@ -1048,6 +1071,9 @@
     "hf_ai4b-hf_GLOBE-annotated": [
       "model_ai4bharat_indic_parler_tts"
     ],
+    "hf_allenai_Dolci-Instruct-RL": [
+      "model_allenai_olmo_3_1_32b_instruct"
+    ],
     "hf_allenai_Dolci-Instruct-RL-7B": [
       "model_allenai_olmo_3_7b_instruct"
     ],
@@ -1083,6 +1109,9 @@
     ],
     "hf_allenai_Olmo-3-7B-Think-DPO": [
       "model_allenai_olmo_3_7b_think"
+    ],
+    "hf_allenai_Olmo-3.1-32B-Instruct-DPO": [
+      "model_allenai_olmo_3_1_32b_instruct"
     ],
     "hf_allenai_RLVR-GSM": [
       "model_allenai_olmo_2_1124_7b_instruct",
@@ -1124,6 +1153,9 @@
     "hf_allenai_wildguardmix": [
       "model_allenai_wildguard"
     ],
+    "hf_allura-org_Celeste-1.x-data-mixture": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
     "hf_alvarobartt_openhermes-preferences-coding": [
       "model_orion_zhen_qwen2_5_coder_7b_instruct_awq"
     ],
@@ -1132,6 +1164,9 @@
     ],
     "hf_angrygiraffe_claude-opus-4.6-4.7-reasoning-8.7k": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
+    ],
+    "hf_anthracite-org_kalo-opus-instruct-22k-no-refusal": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
     "hf_anthracite-org_magnum-v2.5-12b-kto": [
       "model_inflatebot_mn_12b_mag_mell_r1"
@@ -1241,6 +1276,9 @@
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
       "model_dphn_dolphin_2_9_1_llama_3_70b",
       "model_dphn_dolphin_2_9_1_yi_1_5_34b"
+    ],
+    "hf_cognitivecomputations_dolphin-2.9.3": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
     "hf_cognitivecomputations_dolphin-coder": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1532,6 +1570,7 @@
       "hf_google_gemma-3-1b-pt",
       "model_andycurrent_gemma_3_1b_it_glm_4_7_flash_heretic_uncensored_thinking_gguf",
       "model_farbodtavakkoli_otel_llm_1b_it",
+      "model_lmstudio_community_gemma_3_1b_it_gguf",
       "model_maziyarpanahi_gemma_3_1b_it_gguf",
       "model_mlx_community_gemma_3_1b_it_qat_4bit",
       "model_unsloth_gemma_3_1b_it",
@@ -1969,6 +2008,9 @@
       "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
       "model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf",
       "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf"
+    ],
+    "hf_nothingiisreal_Reddit-Dirty-And-WritingPrompts": [
+      "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
     "hf_nvidia_Gemma-4-31B-IT-NVFP4": [
       "hf_google_gemma-4-31B-it"
@@ -2652,6 +2694,10 @@
     "model_allenai_olmo_3_1125_32b": [
       "hf_allenai_dolma3_mix-5.5T-1125"
     ],
+    "model_allenai_olmo_3_1_32b_instruct": [
+      "hf_allenai_Dolci-Instruct-RL",
+      "hf_allenai_Olmo-3.1-32B-Instruct-DPO"
+    ],
     "model_allenai_olmo_3_7b_instruct": [
       "hf_allenai_Dolci-Instruct-RL-7B",
       "hf_allenai_Olmo-3-7B-Instruct-DPO"
@@ -2757,6 +2803,19 @@
     ],
     "model_bartowski_deepseek_v4_flash_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
+    ],
+    "model_bartowski_eva_qwen2_5_14b_v0_2_gguf": [
+      "hf_EVA-UNIT-01_EVA-Qwen2.5-14B-v0.2",
+      "hf_Epiculous_SynthRP-Gens-v1.1-Filtered-n-Cleaned",
+      "hf_Epiculous_Synthstruct-Gens-v1.1-Filtered-n-Cleaned",
+      "hf_Gryphe_ChatGPT-4o-Writing-Prompts",
+      "hf_Gryphe_Sonnet3.5-Charcard-Roleplay",
+      "hf_Gryphe_Sonnet3.5-SlimOrcaDedupCleaned",
+      "hf_Nopm_Opus_WritingStruct",
+      "hf_allura-org_Celeste-1.x-data-mixture",
+      "hf_anthracite-org_kalo-opus-instruct-22k-no-refusal",
+      "hf_cognitivecomputations_dolphin-2.9.3",
+      "hf_nothingiisreal_Reddit-Dirty-And-WritingPrompts"
     ],
     "model_bartowski_gemma_2_2b_it_abliterated_gguf": [
       "hf_IlyaGusev_gemma-2-2b-it-abliterated"
@@ -3436,6 +3495,9 @@
     "model_jimbothigpen_qwen3_6_35b_a3b_gguf": [
       "hf_Qwen_Qwen3.6-35B-A3B"
     ],
+    "model_jinaai_jina_code_embeddings_0_5b": [
+      "hf_Qwen_Qwen2.5-Coder-0.5B"
+    ],
     "model_jiunsong_supergemma4_26b_uncensored_gguf_v2": [
       "hf_google_gemma-4-26B-A4B-it"
     ],
@@ -3565,6 +3627,9 @@
     ],
     "model_lmstudio_community_deepseek_r1_0528_qwen3_8b_mlx_8bit": [
       "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
+    ],
+    "model_lmstudio_community_gemma_3_1b_it_gguf": [
+      "hf_google_gemma-3-1b-it"
     ],
     "model_lmstudio_community_glm_4_7_flash_mlx_6bit": [
       "hf_zai-org_GLM-4.7-Flash"
@@ -3779,6 +3844,9 @@
     ],
     "model_lukealonso_glm_5_2_nvfp4": [
       "hf_zai-org_GLM-5.2"
+    ],
+    "model_marketeam_qwen_marketing": [
+      "hf_Qwen_Qwen3-8B"
     ],
     "model_maziyarpanahi_deepseek_r1_0528_qwen3_8b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"

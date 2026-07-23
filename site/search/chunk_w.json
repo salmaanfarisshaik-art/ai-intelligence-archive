@@ -182991,6 +182991,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "match_type": "exact",
       "score": 1.5
@@ -183758,6 +183763,11 @@
   ],
   "writingprompts": [
     {
+      "entity_id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "match_type": "exact",
       "score": 1.5
@@ -183778,6 +183788,13 @@
       "entity_id": "alpaca_6871687233398773669",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "writingstruct": [
+    {
+      "entity_id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "written": [

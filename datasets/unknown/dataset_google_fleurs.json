@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-05-15T09:35:34.000Z",
-  "likes": 427,
+  "likes": 428,
   "private": false,
   "sha": "70bb2e84b976b7e960aa89f1c648e09c59f894dd",
   "description": "\n\t\n\t\t\n\t\tFLEURS\n\t\n\nFleurs is the speech version of the FLoRes machine translation benchmark. \nWe use 2009 n-way parallel sentences from the FLoRes dev and devtest publicly available sets, in 102 languages. \nTraining sets have around 10 hours of supervision. Speakers of the train sets are different than speakers from the dev/test sets. Multilingual fine-tuning is\nused and ”unit error rate” (characters, signs) of all languages is averaged. Languages and results are also grouped into seven… See the full description on the dataset page: https://huggingface.co/datasets/google/fleurs.",
