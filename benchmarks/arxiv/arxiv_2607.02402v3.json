@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.02402v3",
+  "schema_version": "1.0",
+  "name": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.02402v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.02402v3",
+    "updated": "2026-07-22T17:01:15Z",
+    "published": "2026-07-02T16:35:52Z",
+    "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+    "summary": "Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In particular, current models fail to infer shared concepts from sets of example images and apply them to new inputs. We introduce Visual Concept Inference from Sets (VICIS), a task that evaluates this capability. Given a small context set of images sharing a concept and a query image, the model must generate new images that preserve the context-defined concept while remaining consistent with the query. We show that state-of-the-art VLMs perform poorly on this task, often ignoring the visual context or defaulting to biased generations. To address this gap, we propose a training framework and architecture that learn to infer visual concepts from image sets and extract concept-specific embeddings from queries. Experiments on synthetic data and large-scale ImageNet/WordNet data show that our model generates more accurate and diverse outputs and generalizes to unseen concepts and modalities such as sketches.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T17:01:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.02402v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

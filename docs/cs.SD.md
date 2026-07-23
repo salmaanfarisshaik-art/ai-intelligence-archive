@@ -13,6 +13,7 @@
 | [Listening with Attention: Entropy-Guided Explainability for Transformer-Based Audio Models](http://arxiv.org/abs/2606.14647v1) | ArXiv |  | 1 |
 | [Moonlight in Latent Space: Chirality and Structural Correspondence Between Beethoven's Op. 27 No. 2 and Machine Learning Mechanisms](http://arxiv.org/abs/2606.14612v1) | ArXiv |  | 1 |
 | [Probing Low Frame Rate Degradation in Neural Audio Codecs](http://arxiv.org/abs/2606.16969v1) | ArXiv |  | 1 |
+| [Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering](http://arxiv.org/abs/2607.20253v1) | ArXiv |  | 1 |
 | [Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors](http://arxiv.org/abs/2606.19325v1) | ArXiv |  | 1 |
 | [Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering](http://arxiv.org/abs/2606.11836v2) | ArXiv |  | 1 |
 | [TuneJury: An Open Metric for Improving Music Generation Preference Alignment](http://arxiv.org/abs/2606.17006v1) | ArXiv |  | 1 |

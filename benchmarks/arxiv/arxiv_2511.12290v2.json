@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.12290v2",
+  "schema_version": "1.0",
+  "name": "AugAbEx: Bridging Abstractive and Extractive Legal Summarization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.12290v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.12290v2",
+    "updated": "2026-07-22T15:08:33Z",
+    "published": "2025-11-15T16:49:42Z",
+    "title": "AugAbEx: Bridging Abstractive and Extractive Legal Summarization",
+    "summary": "Automatic summarization of legal judgments liberates law professionals from heavy cognitive burden due to the complexity of the language, context-sensitive legal jargon, and the length of the document. Caveats of abstractive summarization for legal documents, revealed in recent studies, have impelled the development of newhybrid and extractive summarization methods, along with datasets in the legal domain.\n  We propose an efficient and elegant pipeline (AugAbEx) to repurpose an existing large case summarization dataset with human-written gold-standard summaries by augmenting it with silver standard extractive summaries ensconcing experts' opinion. Availability of silver summaries along with gold standard human-written summaries will bolster development and evaluation of novel hybrid and extractive case-summarization algorithms in the legal domain. We thoroughly scrutinize the augmented extractive summaries in structural, lexical, and semantic dimensions, within a domain specific framework, to ensure quality. Extensive experiments and statistical test on seven English legal case-summarization datasets demonstrate that the silver standard extractive summaries produced by the proposed pipeline score well across all evaluation dimensions. Comparison of AugAbEx with two baselines and three current state-of-the-art methods reveals that it outperforms all competing methods, and the quality of the summaries produced by the proposed pipeline is superior",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:08:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.12290v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20291v1",
+  "schema_version": "1.0",
+  "name": "Diverse-Intent Multi-Turn Fashion Image Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20291v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20291v1",
+    "updated": "2026-07-22T15:38:56Z",
+    "published": "2026-07-22T15:38:56Z",
+    "title": "Diverse-Intent Multi-Turn Fashion Image Retrieval",
+    "summary": "Real-world fashion search involves interactive retrieval across multiple turns. However, existing multi-turn retrieval methods are built on a restrictive assumption that every interaction follows the same attribute-editing paradigm, leaving heterogeneous intent transitions unexplored. Moreover, existing approaches often rely on textification to bridge multimodal queries and visual retrieval, which may lose fine-grained visual cues. To address these gaps, we introduce DIM-Fashion, a benchmark of 26K multi-turn sessions constructed from 13 fashion retrieval datasets across 7 tasks, featuring diverse intent transitions and rollback behaviors. We further propose FashionAM, an MLLM-VLP framework that directly aligns multimodal conversational queries with a fashion-oriented gallery embedding space, avoiding intermediate textification. Extensive experiments demonstrate the effectiveness of FashionAM over existing approaches. The dataset and code will be made publicly available upon acceptance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:38:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20291v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

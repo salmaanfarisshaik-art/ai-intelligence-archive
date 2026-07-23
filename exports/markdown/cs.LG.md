@@ -15,6 +15,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.06445v3](http://arxiv.org/abs/2507.06445v3)
 
+## Label-Noise Resistant Learning via Optimal Brain Damage Masking
+- **ID**: arxiv_2508.09697v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.09697v4](http://arxiv.org/abs/2508.09697v4)
+
+## On the Separability of Information in Diffusion Models
+- **ID**: arxiv_2509.23937v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.23937v5](http://arxiv.org/abs/2509.23937v5)
+
 ## When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs
 - **ID**: arxiv_2510.22228v2
 - **Source**: ArXiv
@@ -324,4 +334,9 @@
 - **ID**: arxiv_2607.19333v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19333v1](http://arxiv.org/abs/2607.19333v1)
+
+## The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability
+- **ID**: arxiv_2607.20301v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20301v1](http://arxiv.org/abs/2607.20301v1)
 

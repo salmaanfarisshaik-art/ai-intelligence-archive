@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20284v1",
+  "schema_version": "1.0",
+  "name": "Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20284v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20284v1",
+    "updated": "2026-07-22T15:30:08Z",
+    "published": "2026-07-22T15:30:08Z",
+    "title": "Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?",
+    "summary": "The rapid development of multimodal large language models (MLLMs) has introduced a flexible paradigm for remote sensing image scene understanding (RSISU), enabling natural-language interaction with remote sensing imagery. However, a systematic understanding of the capability boundaries, cross-task generalization, and task-specific limitations of existing remote sensing MLLMs (RS-MLLMs) is still lacking. This paper presents a systematic survey and diagnostic evaluation of MLLMs for RSISU. We review the technical evolution of RS-MLLMs, focusing on model design, multimodal learning, training data, and downstream capabilities. We further compare RS-MLLMs with general-purpose computer vision MLLMs (CV-MLLMs) across diverse RSISU tasks and benchmarks. RS-MLLMs remain competitive in domain-specific settings, particularly remote sensing visual grounding and high-resolution visual question answering. More notably, general-purpose CV-MLLMs can match or even outperform these specialized models on several RSISU tasks without remote sensing-specific fine-tuning. These findings demonstrate the strong transferability of general-purpose CV-MLLMs and show that current RS-MLLMs do not consistently outperform them across diverse RSISU tasks. Current MLLMs also face limitations in spatial and relational reasoning, fine-grained visual understanding, instruction diversity, and generalization across heterogeneous task formats. Based on these findings, we outline future directions toward reliable evaluation, multimodal and high-resolution reasoning, efficient deployment, and tool-augmented remote sensing agents. This survey provides a systematic reference for developing robust, generalizable, and practical MLLMs for RSISU.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:30:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20284v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

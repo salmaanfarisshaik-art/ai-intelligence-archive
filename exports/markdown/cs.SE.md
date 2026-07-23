@@ -55,3 +55,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18161v1](http://arxiv.org/abs/2607.18161v1)
 
+## Don't Trust the Label: License Laundering in AI Supply Chains
+- **ID**: arxiv_2607.20300v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20300v1](http://arxiv.org/abs/2607.20300v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20286v1",
+  "schema_version": "1.0",
+  "name": "Sound Probabilistic Safety Bounds for Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20286v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20286v1",
+    "updated": "2026-07-22T15:31:28Z",
+    "published": "2026-07-22T15:31:28Z",
+    "title": "Sound Probabilistic Safety Bounds for Large Language Models",
+    "summary": "We propose a novel framework for computing rigorous bounds on the probability that a large language model (LLM) generates harmful output to a given prompt. We study a new application of the Clopper-Pearson confidence intervals to obtain probably approximately correct (PAC) bounds for this problem. As our main technical contribution, we propose an algorithm that leverages features in the latent space to prioritize exploring branches in the auto-regressive generation tree that are more likely to produce harmful outputs. Our approach in particular enables the efficient computation of useful lower bounds, even in scenarios where the true harm probability is extremely small, and crucially, the obtained lower bounds are sound, i.e., formally proven to be less than the actual harmfulness probability: our experimental results demonstrate the effectiveness of our method by computing non-trivial lower bounds on state-of-the-art LLMs. This study newly enables the evaluation and statistical certification of LLMs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:31:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20286v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

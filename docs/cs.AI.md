@@ -31,6 +31,7 @@
 | [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](http://arxiv.org/abs/2606.16987v1) | ArXiv |  | 1 |
 | [Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions](http://arxiv.org/abs/2606.20459v1) | ArXiv |  | 1 |
 | [CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data](http://arxiv.org/abs/2607.16122v1) | ArXiv |  | 1 |
+| [Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks](http://arxiv.org/abs/2604.01363v2) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](http://arxiv.org/abs/2607.06503v2) | ArXiv |  | 1 |
@@ -39,6 +40,7 @@
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
 | [FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment](http://arxiv.org/abs/2604.23786v2) | ArXiv |  | 1 |
+| [Fara-1.5: Scalable Learning Environments for Computer Use Agents](http://arxiv.org/abs/2606.20785v2) | ArXiv |  | 1 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
 | [FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](http://arxiv.org/abs/2606.20518v1) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
@@ -63,6 +65,7 @@
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
 | [Planning with the Views via Scene Self-Exploration](http://arxiv.org/abs/2605.29563v2) | ArXiv |  | 1 |
 | [Plover: Steering GUI Agents through Plan-Centric Interaction](http://arxiv.org/abs/2607.15193v1) | ArXiv |  | 1 |
+| [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](http://arxiv.org/abs/2607.20268v1) | ArXiv |  | 1 |
 | [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) | ArXiv |  | 1 |
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
@@ -74,6 +77,7 @@
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
+| [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](http://arxiv.org/abs/2607.20402v1) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
 | [The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning](http://arxiv.org/abs/2607.11436v2) | ArXiv |  | 1 |
@@ -84,6 +88,7 @@
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1) | ArXiv |  | 1 |
+| [Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations](http://arxiv.org/abs/2607.20379v1) | ArXiv |  | 1 |
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
 | [WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning](http://arxiv.org/abs/2606.18147v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |

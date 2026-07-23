@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19267v1](http://arxiv.org/abs/2607.19267v1)
 
+## The Ethics of Autonomous AI Agents for Offensive Security
+- **ID**: arxiv_2607.20255v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20255v1](http://arxiv.org/abs/2607.20255v1)
+

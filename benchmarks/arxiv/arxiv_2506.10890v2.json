@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.10890v2",
+  "schema_version": "1.0",
+  "name": "CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.10890v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.10890v2",
+    "updated": "2026-07-22T15:51:49Z",
+    "published": "2025-06-12T16:54:39Z",
+    "title": "CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation",
+    "summary": "Graphic design plays a crucial role in both commercial and personal contexts, yet creating high-quality, editable, and aesthetically pleasing graphic compositions remains a time-consuming and skill-intensive task, especially for beginners. Current AI tools automate parts of the workflow, but struggle to accurately incorporate user-supplied assets, maintain editability, and achieve professional visual appeal. Commercial systems, like Canva Magic Design, rely on vast template libraries, which are impractical for replicate. In this paper, we introduce CreatiPoster, a framework that generates editable, multi-layer compositions from optional natural-language instructions or assets. A protocol model, an RGBA large multimodal model, first produces a JSON specification detailing every layer (text or asset) with precise layout, hierarchy, content and style, plus a concise background prompt. A conditional background model then synthesizes a coherent background conditioned on this rendered foreground layers. We construct a benchmark with automated metrics for graphic-design generation and show that CreatiPoster surpasses leading open-source approaches and proprietary commercial systems. To catalyze further research, we release a copyright-free corpus of 100,000 multi-layer designs. CreatiPoster supports diverse applications such as canvas editing, text overlay, responsive resizing, multilingual adaptation, and animated posters, advancing the democratization of AI-assisted graphic design. Project homepage: https://github.com/graphic-design-ai/creatiposter",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:51:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.10890v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

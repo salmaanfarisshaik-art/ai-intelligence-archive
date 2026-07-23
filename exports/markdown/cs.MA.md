@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19319v1](http://arxiv.org/abs/2606.19319v1)
 
+## Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation
+- **ID**: arxiv_2607.15434v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15434v3](http://arxiv.org/abs/2607.15434v3)
+

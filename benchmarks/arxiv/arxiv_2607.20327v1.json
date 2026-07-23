@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20327v1",
+  "schema_version": "1.0",
+  "name": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20327v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20327v1",
+    "updated": "2026-07-22T16:14:26Z",
+    "published": "2026-07-22T16:14:26Z",
+    "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
+    "summary": "Large language models (LLMs) provide strong reasoning capabilities but are expensive to serve at scale, whereas small language models (SLMs) are cheaper but less reliable on difficult problems. We introduce PyroDash, a cost-aware framework for token-level SLM-LLM collaborative inference. During generation, the SLM decides whether to request assistance by emitting a control token. A Collaborate Engine then sends the query and partial reasoning trace to a frozen LLM for completion through a single handoff. The policy is internalized in the SLM, requiring neither a separate router, LLM retraining, nor access to LLM logits. PyroDash trains the SLM in three stages: control-token embedding learning, offloading-oriented supervised fine-tuning, and cost-aware alignment with Group Relative Policy Optimization. Its reward balances answer accuracy against inference cost normalized by LLM-only inference. Across five mathematical reasoning benchmarks, PyroDash supports different accuracy-cost operating points. With $λ=0.05$, it achieves 64.04 percent average accuracy, 6.36 percentage points above the LLM-only baseline, while reducing cost by 20.4 percent. With $λ=0.6$, it achieves 54.55 percent accuracy with a 1.90 percent LLM token ratio and 0.012 LLM calls per example, reducing total cost from USD 49.36 to USD 1.78. These results show that learned token-level handoffs can reduce LLM use while preserving strong reasoning performance.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T16:14:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20327v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

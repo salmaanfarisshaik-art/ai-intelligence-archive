@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.26476v3](http://arxiv.org/abs/2509.26476v3)
 
+## AugAbEx: Bridging Abstractive and Extractive Legal Summarization
+- **ID**: arxiv_2511.12290v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
+
 ## LVLMs and Humans Ground Differently in Referential Communication
 - **ID**: arxiv_2601.19792v5
 - **Source**: ArXiv
@@ -460,6 +465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18232v1](http://arxiv.org/abs/2607.18232v1)
 
+## It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
+- **ID**: arxiv_2607.18232v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18232v2](http://arxiv.org/abs/2607.18232v2)
+
 ## Automated Discovery Has No Universally Superior Harness
 - **ID**: arxiv_2607.18235v1
 - **Source**: ArXiv
@@ -484,4 +494,44 @@
 - **ID**: arxiv_2607.19345v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19345v1](http://arxiv.org/abs/2607.19345v1)
+
+## Exposure is Optional: Learning Unlike Coordination in Language Models
+- **ID**: arxiv_2607.20251v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20251v1](http://arxiv.org/abs/2607.20251v1)
+
+## The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models
+- **ID**: arxiv_2607.20265v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20265v1](http://arxiv.org/abs/2607.20265v1)
+
+## Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study
+- **ID**: arxiv_2607.20270v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20270v1](http://arxiv.org/abs/2607.20270v1)
+
+## Sound Probabilistic Safety Bounds for Large Language Models
+- **ID**: arxiv_2607.20286v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20286v1](http://arxiv.org/abs/2607.20286v1)
+
+## PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference
+- **ID**: arxiv_2607.20327v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20327v1](http://arxiv.org/abs/2607.20327v1)
+
+## Generative AI floods and dilutes the market for books
+- **ID**: arxiv_2607.20349v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20349v1](http://arxiv.org/abs/2607.20349v1)
+
+## Notes to Self: Can LLMs Benefit from Experiential Abstractions?
+- **ID**: arxiv_2607.20372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20372v1](http://arxiv.org/abs/2607.20372v1)
+
+## LKValues: Aligning Large Language Models with Sri Lankan Societal Values
+- **ID**: arxiv_2607.20410v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20410v1](http://arxiv.org/abs/2607.20410v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20293v1",
+  "schema_version": "1.0",
+  "name": "Evolving Cache Schedules for Fast Diffusion Policy Inference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20293v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20293v1",
+    "updated": "2026-07-22T15:40:11Z",
+    "published": "2026-07-22T15:40:11Z",
+    "title": "Evolving Cache Schedules for Fast Diffusion Policy Inference",
+    "summary": "Diffusion policies achieve strong visuomotor control by iteratively denoising action chunks, but repeated denoising makes real-time deployment computationally demanding. Cache-based methods reduce inference cost by reusing intermediate activations, but existing training-free schedules typically allocate computation uniformly across blocks, ignoring heterogeneous redundancy across blocks and leading to a suboptimal performance-efficiency trade-off. To bridge this gap, we introduce Evolving Cache Schedules (EVO), a training-free acceleration framework that globally schedules cache refreshes via evolutionary search. EVO represents each candidate as a complete schedule over the block-timestep lattice. Thus, redundant transformer computations during iterative denoising can be skipped through cache reuse while preserving closed-loop rollout performance. To make the search practical, EVO introduces redundancy-aware initialization, which seeds the population with promising schedules, and target-conditioned early stopping, which verifies and terminates once a desired performance target is reached. The offline-optimized schedule can be directly plugged into pretrained diffusion policies without retraining. Extensive manipulation benchmarks show that EVO preserves near-full performance while substantially reducing computation, achieving up to 8.05x action-generation speedup and reducing FLOPs from 15.77G to as low as 1.96G. Source code is available at https://github.com/pillom/EVO.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:40:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20293v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -6,6 +6,7 @@
 | Name | Source | Tags | Links |
 |---|---|---|---|
 | [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](http://arxiv.org/abs/2607.09988v2) | ArXiv |  | 1 |
+| [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](http://arxiv.org/abs/2607.09988v3) | ArXiv |  | 1 |
 | [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search](http://arxiv.org/abs/2607.15253v1) | ArXiv |  | 1 |
 | [CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](http://arxiv.org/abs/2604.14586v3) | ArXiv |  | 1 |
 | [Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA](http://arxiv.org/abs/2604.23336v3) | ArXiv |  | 1 |

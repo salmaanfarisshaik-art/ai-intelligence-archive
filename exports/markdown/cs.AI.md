@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks
+- **ID**: arxiv_2604.01363v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01363v2](http://arxiv.org/abs/2604.01363v2)
+
 ## FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment
 - **ID**: arxiv_2604.23786v2
 - **Source**: ArXiv
@@ -280,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20544v1](http://arxiv.org/abs/2606.20544v1)
 
+## Fara-1.5: Scalable Learning Environments for Computer Use Agents
+- **ID**: arxiv_2606.20785v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20785v2](http://arxiv.org/abs/2606.20785v2)
+
 ## When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense
 - **ID**: arxiv_2606.22030v2
 - **Source**: ArXiv
@@ -439,4 +449,19 @@
 - **ID**: arxiv_2607.19338v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19338v1](http://arxiv.org/abs/2607.19338v1)
+
+## PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity
+- **ID**: arxiv_2607.20268v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20268v1](http://arxiv.org/abs/2607.20268v1)
+
+## Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations
+- **ID**: arxiv_2607.20379v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20379v1](http://arxiv.org/abs/2607.20379v1)
+
+## SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data
+- **ID**: arxiv_2607.20402v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20402v1](http://arxiv.org/abs/2607.20402v1)
 

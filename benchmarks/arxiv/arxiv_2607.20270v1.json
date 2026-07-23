@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20270v1",
+  "schema_version": "1.0",
+  "name": "Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20270v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20270v1",
+    "updated": "2026-07-22T15:22:14Z",
+    "published": "2026-07-22T15:22:14Z",
+    "title": "Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study",
+    "summary": "Large language models are increasingly evaluated through the values they endorse, but such evaluations presuppose that models can identify the value expressed in a concrete situation. We study this prerequisite as controlled top-1 recognition over Schwartz's ten basic values. Our evaluation set contains 1,000 Russian situational texts, balanced across the ten values and independently labeled by two human annotators per item. We evaluate 21 instruction-tuned LLM runs under a fixed ranked-response protocol; 20 runs with reliable outputs form the semantic panel. Pooled Acc@1 is 0.683 and Acc@3 is 0.892, showing that models often locate the correct motivational region while ranking close alternatives unstably. Adjacent values account for 50.9% of semantic errors, compared with 24.4% under a checkpoint-specific null. Eight directed confusions recur across checkpoints and human-confirmed subsets. Several are strongly asymmetric, including Universalism to Benevolence, Tradition to Conformity, and Security to Power, whereas Stimulation-Hedonism forms a bidirectional boundary. Their severity is checkpoint-specific and can bias higher-order value profiles. The results motivate value-recognition evaluation that combines exact accuracy, ranked recovery, and directed error analysis.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:22:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20270v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

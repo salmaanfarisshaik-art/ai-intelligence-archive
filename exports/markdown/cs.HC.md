@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19286v1](http://arxiv.org/abs/2606.19286v1)
 
+## FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization
+- **ID**: arxiv_2607.20382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20382v1](http://arxiv.org/abs/2607.20382v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20263v1",
+  "schema_version": "1.0",
+  "name": "How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20263v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20263v1",
+    "updated": "2026-07-22T15:18:30Z",
+    "published": "2026-07-22T15:18:30Z",
+    "title": "How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection",
+    "summary": "Housing-level urban physical examination is essential for identifying residential building problems and supporting targeted urban renewal. Existing automated inspection studies primarily rely on individual images and rarely examine whether surrounding urban functional context can provide supplementary information for building-level assessment. This study proposes a vision-POI fusion framework that combines multi-view visual inspection with POI-derived neighborhood context for residential building health assessment. The empirical dataset covers 92 old residential communities, 3,237 residential buildings, and 25,608 field-acquired inspection images in Qingdao, China, encompassing seven categories of housing-related issues. First, multiple object detection models are evaluated to extract issue locations, categories, and confidence scores from individual images. The image-level outputs are subsequently aggregated across multiple views to construct interpretable building-level representations. Second, POI features are extracted within 500m, 1,000m, and 1,500m neighborhood buffers to characterize surrounding functional environments. Pearson and Spearman correlation analyses, combined with false discovery rate correction, are used to identify candidate contextual features. Finally, visual and POI features are integrated using a cost-sensitive Random Forest classifier under community-isolated spatial cross-validation. The results show that multi-view aggregation provides the main performance improvement, increasing the building-level Macro-F1 from 60.84% under Direct Detection to 74.95%. Incorporating POI context further increases Macro-F1 to 76.79%, although the additional gain is modest and category-dependent. POI information therefore functions as a supplementary contextual prior rather than a substitute for direct visual evidence or a causal determinant of building condition.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:18:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20263v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

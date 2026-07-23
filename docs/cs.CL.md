@@ -12,6 +12,7 @@
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](http://arxiv.org/abs/2505.23851v3) | ArXiv |  | 1 |
+| [AugAbEx: Bridging Abstractive and Extractive Legal Summarization](http://arxiv.org/abs/2511.12290v2) | ArXiv |  | 1 |
 | [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1) | ArXiv |  | 1 |
 | [Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems](http://arxiv.org/abs/2606.20487v1) | ArXiv |  | 1 |
@@ -33,11 +34,13 @@
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
 | [Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya](http://arxiv.org/abs/2607.15209v1) | ArXiv |  | 1 |
 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](http://arxiv.org/abs/2606.16934v1) | ArXiv |  | 1 |
+| [Exposure is Optional: Learning Unlike Coordination in Language Models](http://arxiv.org/abs/2607.20251v1) | ArXiv |  | 1 |
 | [Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](http://arxiv.org/abs/2606.02955v2) | ArXiv |  | 1 |
 | [Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](http://arxiv.org/abs/2606.19334v1) | ArXiv |  | 2 |
 | [From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation](http://arxiv.org/abs/2606.13630v1) | ArXiv |  | 1 |
 | [Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning](http://arxiv.org/abs/2607.16057v1) | ArXiv |  | 1 |
 | [Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D](http://arxiv.org/abs/2607.16072v1) | ArXiv |  | 1 |
+| [Generative AI floods and dilutes the market for books](http://arxiv.org/abs/2607.20349v1) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v2) | ArXiv |  | 1 |
 | [Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures](http://arxiv.org/abs/2509.25045v3) | ArXiv |  | 1 |
@@ -48,6 +51,7 @@
 | [In-Place Tokenizer Expansion for Pre-trained LLMs](http://arxiv.org/abs/2607.15232v1) | ArXiv |  | 1 |
 | [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
+| [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
 | [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) | ArXiv |  | 1 |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](http://arxiv.org/abs/2606.13578v1) | ArXiv |  | 1 |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](http://arxiv.org/abs/2606.13578v2) | ArXiv |  | 1 |
@@ -57,6 +61,7 @@
 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1) | ArXiv |  | 1 |
 | [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
+| [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
 | [Loop the Loopies!](http://arxiv.org/abs/2607.16051v1) | ArXiv |  | 1 |
 | [LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations](http://arxiv.org/abs/2606.14600v1) | ArXiv |  | 1 |
 | [LVLMs and Humans Ground Differently in Referential Communication](http://arxiv.org/abs/2601.19792v5) | ArXiv |  | 1 |
@@ -64,6 +69,7 @@
 | [MedicalAgentsBench for Complex Medical Reasoning: Comparing Internalized Reasoning Models versus Externalized Agent-based Frameworks](http://arxiv.org/abs/2503.07459v3) | ArXiv |  | 1 |
 | [MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](http://arxiv.org/abs/2604.21370v2) | ArXiv |  | 1 |
 | [Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims](http://arxiv.org/abs/2606.02493v3) | ArXiv |  | 1 |
+| [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) | ArXiv |  | 1 |
 | [One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](http://arxiv.org/abs/2606.13610v1) | ArXiv |  | 1 |
 | [Operadic consistency: a label-free signal for compositional reasoning failures in LLMs](http://arxiv.org/abs/2606.13649v1) | ArXiv |  | 1 |
 | [Operads for compositional reasoning in LLMs](http://arxiv.org/abs/2606.13634v1) | ArXiv |  | 1 |
@@ -72,6 +78,7 @@
 | [PlotTwist: A Creative Plot Generation Framework with Small Language Models](http://arxiv.org/abs/2603.16410v2) | ArXiv |  | 1 |
 | [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](http://arxiv.org/abs/2607.18199v1) | ArXiv |  | 1 |
 | [Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models](http://arxiv.org/abs/2607.19257v1) | ArXiv |  | 1 |
+| [PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference](http://arxiv.org/abs/2607.20327v1) | ArXiv |  | 1 |
 | [Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content](http://arxiv.org/abs/2607.16117v1) | ArXiv |  | 1 |
 | [Reasoning Models Know What's Important, and Encode It in Their Activations](http://arxiv.org/abs/2604.18307v2) | ArXiv |  | 1 |
 | [RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering](http://arxiv.org/abs/2606.19218v1) | ArXiv |  | 1 |
@@ -83,9 +90,11 @@
 | [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) | ArXiv |  | 1 |
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) | ArXiv |  | 1 |
 | [SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation](http://arxiv.org/abs/2606.13647v1) | ArXiv |  | 1 |
+| [Sound Probabilistic Safety Bounds for Large Language Models](http://arxiv.org/abs/2607.20286v1) | ArXiv |  | 1 |
 | [StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](http://arxiv.org/abs/2606.20527v1) | ArXiv |  | 1 |
 | [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](http://arxiv.org/abs/2607.18213v1) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
+| [The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models](http://arxiv.org/abs/2607.20265v1) | ArXiv |  | 1 |
 | [The Value Axis: Language Models Encode Whether They're on the Right Track](http://arxiv.org/abs/2606.17056v1) | ArXiv |  | 1 |
 | [TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations](http://arxiv.org/abs/2607.15240v1) | ArXiv |  | 1 |
 | [TokenPilot: Cache-Efficient Context Management for LLM Agents](http://arxiv.org/abs/2606.17016v1) | ArXiv |  | 1 |
@@ -99,6 +108,7 @@
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v2) | ArXiv |  | 1 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v3) | ArXiv |  | 1 |
 | [When Roleplaying, Do Models Believe What They Say?](http://arxiv.org/abs/2606.11502v2) | ArXiv |  | 1 |
+| [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |
 | [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](http://arxiv.org/abs/2607.09957v2) | ArXiv |  | 1 |
 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](http://arxiv.org/abs/2606.20482v1) | ArXiv |  | 1 |
 | [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) | ArXiv |  | 1 |

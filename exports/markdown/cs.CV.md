@@ -5,10 +5,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2407.18245v3](http://arxiv.org/abs/2407.18245v3)
 
+## Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research
+- **ID**: arxiv_2501.14546v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
+
 ## ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding
 - **ID**: arxiv_2506.01274v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.01274v2](http://arxiv.org/abs/2506.01274v2)
+
+## CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation
+- **ID**: arxiv_2506.10890v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.10890v2](http://arxiv.org/abs/2506.10890v2)
 
 ## DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations
 - **ID**: arxiv_2507.19474v2
@@ -85,15 +95,30 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.16978v2](http://arxiv.org/abs/2512.16978v2)
 
+## Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework
+- **ID**: arxiv_2601.06550v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.06550v4](http://arxiv.org/abs/2601.06550v4)
+
 ## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
 - **ID**: arxiv_2601.20720v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.20720v2](http://arxiv.org/abs/2601.20720v2)
 
+## LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
+- **ID**: arxiv_2602.00462v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00462v5](http://arxiv.org/abs/2602.00462v5)
+
 ## Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics
 - **ID**: arxiv_2602.01391v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.01391v2](http://arxiv.org/abs/2602.01391v2)
+
+## VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?
+- **ID**: arxiv_2602.04802v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04802v3](http://arxiv.org/abs/2602.04802v3)
 
 ## VideoSketcher: Sequential Sketch Generation Using Video Model Priors
 - **ID**: arxiv_2602.15819v2
@@ -109,6 +134,11 @@
 - **ID**: arxiv_2605.20708v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20708v2](http://arxiv.org/abs/2605.20708v2)
+
+## SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation
+- **ID**: arxiv_2605.30116v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30116v2](http://arxiv.org/abs/2605.30116v2)
 
 ## Would you still call this Dax? Novel Visual References in VLMs and Humans
 - **ID**: arxiv_2606.05409v3
@@ -485,6 +515,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20563v1](http://arxiv.org/abs/2606.20563v1)
 
+## Show Me Examples: Inferring Visual Concepts from Image Sets
+- **ID**: arxiv_2607.02402v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.02402v3](http://arxiv.org/abs/2607.02402v3)
+
 ## Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models
 - **ID**: arxiv_2607.05268v3
 - **Source**: ArXiv
@@ -635,6 +670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16274v2](http://arxiv.org/abs/2607.16274v2)
 
+## Spatiotemporal Facial Action Unit Detection using Twin Cycle Autoencoders for Driver Monitoring
+- **ID**: arxiv_2607.16760v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16760v2](http://arxiv.org/abs/2607.16760v2)
+
 ## SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark
 - **ID**: arxiv_2607.18109v1
 - **Source**: ArXiv
@@ -695,6 +735,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
 
+## Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing
+- **ID**: arxiv_2607.19064v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19064v2](http://arxiv.org/abs/2607.19064v2)
+
 ## PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image
 - **ID**: arxiv_2607.19261v1
 - **Source**: ArXiv
@@ -734,4 +779,69 @@
 - **ID**: arxiv_2607.19344v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19344v1](http://arxiv.org/abs/2607.19344v1)
+
+## Vera: Identity-Faithful Human Subject-to-Video Generation
+- **ID**: arxiv_2607.20247v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20247v1](http://arxiv.org/abs/2607.20247v1)
+
+## How Does Urban Context Relate to Residential Building Health? A Vision-POI Fusion Framework for Building-Level Housing Inspection
+- **ID**: arxiv_2607.20263v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20263v1](http://arxiv.org/abs/2607.20263v1)
+
+## Self-supervision drives representational convergence in medical foundation models more than clinical supervision
+- **ID**: arxiv_2607.20274v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20274v1](http://arxiv.org/abs/2607.20274v1)
+
+## Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?
+- **ID**: arxiv_2607.20284v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20284v1](http://arxiv.org/abs/2607.20284v1)
+
+## Diverse-Intent Multi-Turn Fashion Image Retrieval
+- **ID**: arxiv_2607.20291v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20291v1](http://arxiv.org/abs/2607.20291v1)
+
+## Evolving Cache Schedules for Fast Diffusion Policy Inference
+- **ID**: arxiv_2607.20293v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20293v1](http://arxiv.org/abs/2607.20293v1)
+
+## Toward Reliable RGB-D Semantic Segmentation: Handling Missing Modalities via Condition Dropout
+- **ID**: arxiv_2607.20326v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20326v1](http://arxiv.org/abs/2607.20326v1)
+
+## Test-Time Training for Modality Order Consistency in Vision-Language Models
+- **ID**: arxiv_2607.20351v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20351v1](http://arxiv.org/abs/2607.20351v1)
+
+## Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs
+- **ID**: arxiv_2607.20357v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20357v1](http://arxiv.org/abs/2607.20357v1)
+
+## Self Gradient Forcing: Native Long Video Extrapolation
+- **ID**: arxiv_2607.20368v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20368v1](http://arxiv.org/abs/2607.20368v1)
+
+## Persian Pixel: A large-scale synthetic OCR dataset for Persian language
+- **ID**: arxiv_2607.20385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20385v1](http://arxiv.org/abs/2607.20385v1)
+
+## PercepCap: Video Captioner with Structured Spatio-Temporal Perception
+- **ID**: arxiv_2607.20389v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20389v1](http://arxiv.org/abs/2607.20389v1)
+
+## ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion
+- **ID**: arxiv_2607.20417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20417v1](http://arxiv.org/abs/2607.20417v1)
 

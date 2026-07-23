@@ -5,6 +5,8 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids](http://arxiv.org/abs/2607.20345v1) | ArXiv |  | 1 |
+| [Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments](http://arxiv.org/abs/2607.20289v1) | ArXiv |  | 1 |
 | [CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation](http://arxiv.org/abs/2606.16935v1) | ArXiv |  | 1 |
 | [Do as I Do: Dexterous Manipulation Data from Everyday Human Videos](http://arxiv.org/abs/2606.19333v1) | ArXiv |  | 1 |
 | [Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation](http://arxiv.org/abs/2606.20491v1) | ArXiv |  | 1 |

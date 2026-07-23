@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20251v1",
+  "schema_version": "1.0",
+  "name": "Exposure is Optional: Learning Unlike Coordination in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20251v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20251v1",
+    "updated": "2026-07-22T15:11:11Z",
+    "published": "2026-07-22T15:11:11Z",
+    "title": "Exposure is Optional: Learning Unlike Coordination in Language Models",
+    "summary": "Coordination, a fundamental linguistic structure, remains a subject of intense debate, and its exact nature continues to elude theoretical linguistics. A common view holds that only same-category constituents can be conjoined, which has been challenged by the many grammatical unlike coordinations found in natural language. Treating language models as a computational testbed, we investigate whether the acquisition of unlike coordination requires direct exposure in the training data, or whether it can emerge organically from general compositional abilities. Using Filtered-Corpus Training (FiCT), we train GPT-2 models on corpora from which all instances of unlike coordination have been removed. We find that direct exposure is not necessary: models trained on filtered data successfully generalize to unlike coordination, achieving perplexity and grammaticality judgments comparable to models trained on unfiltered text. Furthermore, our analyses of internal representations indicate that language models process unlike coordination by treating the conjoined elements as belonging to similar structural categories or through a mechanism akin to deletion, both of which appear learnable from exposure to alike coordination alone. This work contributes to the growing understanding of how language models internally represent linguistic structures, while also adding to the broader debate on coordination by showing how models generalize and process unlike coordination without direct exposure.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:11:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20251v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

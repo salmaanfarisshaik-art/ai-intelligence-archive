@@ -90,3 +90,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19306v1](http://arxiv.org/abs/2607.19306v1)
 
+## Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments
+- **ID**: arxiv_2607.20289v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20289v1](http://arxiv.org/abs/2607.20289v1)
+
+## Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids
+- **ID**: arxiv_2607.20345v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20345v1](http://arxiv.org/abs/2607.20345v1)
+

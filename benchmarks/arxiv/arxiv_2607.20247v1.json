@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.20247v1",
+  "schema_version": "1.0",
+  "name": "Vera: Identity-Faithful Human Subject-to-Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.20247v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.20247v1",
+    "updated": "2026-07-22T15:08:30Z",
+    "published": "2026-07-22T15:08:30Z",
+    "title": "Vera: Identity-Faithful Human Subject-to-Video Generation",
+    "summary": "Subject-to-video (S2V) generation has made substantial progress in preserving reference subjects across diverse categories, yet generic subject consistency remains insufficient for human-centric generation. A video may appear globally consistent while identity-critical human details still drift across frames, poses, and interactions. This issue becomes more severe in multi-person scenarios, where incorrect identity-role binding leads to subject confusion, attribute swapping, and excessive copying of reference-specific appearance cues. We propose Vera, a unified human-centric S2V framework for single- and multi-person generation. We first construct a million-pair identity-aligned human image-video dataset through person-level cross-clip retrieval, providing explicit identity correspondence and diverse references. Built on this dataset, Vera introduces two complementary designs. Identity-Focal Masked Supervision (IFMS) strengthens identity-aware learning with spatially focused supervision while reducing interference from irrelevant artifacts. Reference-Aware Layer-wise Attention (RALA) regulates how video tokens interact with reference identity cues in the DiT backbone, preserving stable identity anchors and enhancing layer-aware identity readout. Extensive experiments demonstrate that Vera improves human identity consistency, multi-person subject binding, and motion naturalness, while reducing identity confusion and excessive reference-image copying.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-23T05:52:33Z",
+  "last_updated": "2026-07-22T15:08:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.20247v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

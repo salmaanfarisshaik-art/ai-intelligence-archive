@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09988v2](http://arxiv.org/abs/2607.09988v2)
 
+## An LLM-powered Agentic Recommendation System for Connected TV Content Discovery
+- **ID**: arxiv_2607.09988v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09988v3](http://arxiv.org/abs/2607.09988v3)
+
 ## Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search
 - **ID**: arxiv_2607.15253v1
 - **Source**: ArXiv

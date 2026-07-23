@@ -35,6 +35,7 @@
 | [ISO: An RLVR-Native Optimization Stack](http://arxiv.org/abs/2607.19331v1) | ArXiv |  | 1 |
 | [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](http://arxiv.org/abs/2604.18419v5) | ArXiv |  | 1 |
 | [Kolmogorov Regression for Robust Diffusion Policies](http://arxiv.org/abs/2606.18186v1) | ArXiv |  | 1 |
+| [Label-Noise Resistant Learning via Optimal Brain Damage Masking](http://arxiv.org/abs/2508.09697v4) | ArXiv |  | 1 |
 | [Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks](http://arxiv.org/abs/2512.01208v5) | ArXiv |  | 1 |
 | [LLM-as-a-Coach: Experiential Learning for Non-Verifiable Tasks](http://arxiv.org/abs/2607.18110v1) | ArXiv |  | 1 |
 | [Looped World Models](http://arxiv.org/abs/2606.18208v1) | ArXiv |  | 1 |
@@ -43,6 +44,7 @@
 | [mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](http://arxiv.org/abs/2601.02451v2) | ArXiv |  | 1 |
 | [Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs](http://arxiv.org/abs/2507.04219v5) | ArXiv |  | 1 |
 | [Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information](http://arxiv.org/abs/2607.19313v1) | ArXiv |  | 1 |
+| [On the Separability of Information in Diffusion Models](http://arxiv.org/abs/2509.23937v5) | ArXiv |  | 1 |
 | [OR Else: A Differentiable Trust Region for Policy Optimization](http://arxiv.org/abs/2607.18163v1) | ArXiv |  | 1 |
 | [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](http://arxiv.org/abs/2606.14695v1) | ArXiv |  | 1 |
 | [Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](http://arxiv.org/abs/2606.16952v1) | ArXiv |  | 1 |
@@ -54,6 +56,7 @@
 | [STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability](http://arxiv.org/abs/2606.19236v1) | ArXiv |  | 1 |
 | [Structured Inference with Large Language Gibbs](http://arxiv.org/abs/2606.19264v1) | ArXiv |  | 1 |
 | [Sub-Token Routing for KV Cache Compression](http://arxiv.org/abs/2604.21335v3) | ArXiv |  | 1 |
+| [The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability](http://arxiv.org/abs/2607.20301v1) | ArXiv |  | 1 |
 | [The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG](http://arxiv.org/abs/2607.11950v2) | ArXiv |  | 1 |
 | [The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups](http://arxiv.org/abs/2606.20547v1) | ArXiv |  | 1 |
 | [Three-Body Scattering for Generative Modeling](http://arxiv.org/abs/2607.18198v1) | ArXiv |  | 1 |

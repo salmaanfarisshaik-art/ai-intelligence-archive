@@ -55,3 +55,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19325v1](http://arxiv.org/abs/2606.19325v1)
 
+## Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering
+- **ID**: arxiv_2607.20253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20253v1](http://arxiv.org/abs/2607.20253v1)
+
