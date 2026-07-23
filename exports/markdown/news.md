@@ -2206,6 +2206,11 @@
 - **URL**: [https://openai.com/index/harvey](https://openai.com/index/harvey)
 
 ## 
+- **ID**: rss_https://openai.com/index/health-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/health-in-chatgpt](https://openai.com/index/health-in-chatgpt)
+
+## 
 - **ID**: rss_https://openai.com/index/healthbench
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/healthbench](https://openai.com/index/healthbench)

@@ -440,7 +440,7 @@
 | [huggingface/badges](https://huggingface.co/datasets/huggingface/badges) | Hugging Face |  | 0 |
 | [huggingface/brand-assets](https://huggingface.co/datasets/huggingface/brand-assets) | Hugging Face |  | 0 |
 | [huggingface/CADS-dataset](https://huggingface.co/datasets/huggingface/CADS-dataset) | Hugging Face |  | 0 |
-| [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | HuggingFace Datasets | license:cc-by-nc-sa-4.0, region:us | 0 |
+| [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | HuggingFace Datasets | format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image | 0 |
 | [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | Hugging Face |  | 0 |
 | [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) | Hugging Face |  | 0 |
 | [HuggingFaceFW/finepdfs_lang_classification](https://huggingface.co/datasets/HuggingFaceFW/finepdfs_lang_classification) | Hugging Face |  | 0 |

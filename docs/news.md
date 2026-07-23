@@ -446,6 +446,7 @@
 | [](https://openai.com/index/hardening-atlas-against-prompt-injection) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/harness-engineering) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/harvey) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/health-in-chatgpt) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/healthbench) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/healthify) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/hearst) | OpenAI Blog |  | 0 |
