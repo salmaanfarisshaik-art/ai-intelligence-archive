@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c94da77eb22bbd6439e62a323bec18493a421302",
   "description": "\n\t\n\t\t\n\t\tHomepage and repository\n\t\n\n\nHomepage: https://matharena.ai/\nRepository: https://github.com/eth-sri/matharena\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis dataset contains the questions from AIME 2025 used for the MathArena Leaderboard\n\n\t\n\t\t\n\t\tData Fields\n\t\n\nThe dataset contains the following fields:\n\nproblem_idx (int64): Problem index within the corresponding MathArena benchmark.\nproblem (string): Problem statement, usually stored as LaTeX source.\nanswer (int64): Gold final answer.\nproblem_type… See the full description on the dataset page: https://huggingface.co/datasets/MathArena/aime_2025.",
-  "downloads": 29575,
+  "downloads": 32141,
   "tags": [
     "language:en",
     "license:cc-by-nc-sa-4.0",

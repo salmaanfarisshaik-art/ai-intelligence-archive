@@ -1,0 +1,28 @@
+{
+  "_id": "681135686873bfa1cd321a8a",
+  "id": "SWE-bench/SWE-bench",
+  "author": "SWE-bench",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-29T20:48:44.000Z",
+  "likes": 33,
+  "private": false,
+  "sha": "7074ef12ea2a6f70a228943c1336553333c22786",
+  "description": "\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSWE-bench is a dataset that tests systems’ ability to solve GitHub issues automatically. The dataset collects 2,294 Issue-Pull Request pairs from 12 popular Python repositories. Evaluation is performed by unit test verification using post-PR behavior as the reference solution.\nThe dataset was released as part of SWE-bench: Can Language Models Resolve Real-World GitHub Issues?\n\n\t\n\t\t\n\t\n\t\n\t\tWant to run inference now?\n\t\n\nThis dataset only contains the problem_statement… See the full description on the dataset page: https://huggingface.co/datasets/SWE-bench/SWE-bench.",
+  "downloads": 24372,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2310.06770",
+    "region:us"
+  ],
+  "createdAt": "2025-04-29T20:24:08.000Z",
+  "key": "",
+  "unique_id": "dataset_swe_bench_swe_bench",
+  "schema_version": "1.0"
+}

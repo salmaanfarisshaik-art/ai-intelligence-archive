@@ -9,7 +9,7 @@
   "private": false,
   "sha": "41d60b449629b2181ff5b735d31c2a2cf8b3cad8",
   "description": "EgoDex dataset from https://github.com/apple/ml-egodex, converted to LeRobot datasets v3.0 format.\nThis repo is structured with train / test directories at the top level,\nunder each of which are multiple subdirectories, each corresponding to one directory in the original EgoDex data format.\nEach of these represents one LeRobot dataset, so to load the full EgoDex training set you have to load each subdirectory\nas its own LeRobotDataset and then combine them (e.g. w/ PyTorch's ConcatDataset), or… See the full description on the dataset page: https://huggingface.co/datasets/griffinlabs/EgoDex-LeRobot-v3.0.",
-  "downloads": 48001,
+  "downloads": 50389,
   "tags": [
     "task_categories:robotics",
     "language:en",

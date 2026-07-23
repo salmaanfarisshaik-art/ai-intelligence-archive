@@ -1,14 +1,14 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85374
+**Total Entities Tracked**: 85384
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **models**: 1292
-- **dataset**: 1119
+- **models**: 1299
+- **dataset**: 1122
 - **news**: 1066
 - **datasets**: 1017
 - **text-generation**: 998
@@ -64,11 +64,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 29487
+- ****: 29494
 - **Hugging Face**: 2005
 - **OpenAI Blog**: 1054
 - **ArXiv**: 549
-- **HuggingFace Datasets**: 119
+- **HuggingFace Datasets**: 122
 - **GitHub Trending**: 48
 - **BAIR Blog**: 12
 - **Backend**: 10
@@ -108,41 +108,41 @@
 
 ## Top Tags
 
-- **region:us**: 179
+- **region:us**: 182
 - **text-generation**: 61
+- **library:datasets**: 54
+- **library:mlcroissant**: 54
 - **safetensors**: 54
 - **transformers**: 54
 - **endpoints_compatible**: 53
-- **library:datasets**: 51
-- **library:mlcroissant**: 51
 - **license:apache-2.0**: 50
+- **language:en**: 47
 - **conversational**: 46
-- **language:en**: 46
-- **modality:text**: 45
-- **library:polars**: 39
+- **modality:text**: 46
+- **library:polars**: 41
 - **license:mit**: 38
-- **format:parquet**: 36
+- **format:parquet**: 37
 - **text-generation-inference**: 31
 - **deploy:azure**: 29
 - **enterprise**: 25
 - **en**: 22
 - **eval-results**: 21
-- **library:dask**: 20
+- **library:dask**: 21
+- **library:pandas**: 20
 - **task_categories:text-generation**: 20
-- **library:pandas**: 19
 - **deploy:sagemaker**: 17
 - **api**: 16
 - **qwen3**: 16
+- **modality:tabular**: 14
+- **size_categories:n<1K**: 14
 - **license:other**: 13
-- **modality:tabular**: 13
-- **size_categories:n<1K**: 13
+- **modality:image**: 12
 - **license:cc-by-4.0**: 11
 - **multilinguality:monolingual**: 11
+- **size_categories:10K<n<100K**: 11
 - **fp8**: 10
-- **modality:image**: 10
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
-- **size_categories:10K<n<100K**: 10
 - **task_categories:robotics**: 10
 - **arxiv:2505.09388**: 9
 - **license:odc-by**: 9

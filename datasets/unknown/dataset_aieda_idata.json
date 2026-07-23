@@ -9,7 +9,7 @@
   "private": false,
   "sha": "095591b95a517e465d7cec7385b2e4c4f4c389b8",
   "description": "\n\t\n\t\t\n\t\tDataset\n\t\n\n\n \n A dataset of AI + EDA\n\n\niDATA is a dataset of AI + EDA, which can be used to train AI models for design PPA prediction, PPA-aware physical design, and related tasks.\n\n\t\n\t\t\n\t\tDataset structure\n\t\n\nDescribe the dataset structure.\naes/\n├── iEDA_route_process_data/    # Process data exported by iEDA-iRT 2D routing\n├── syn_netlist/                # The synthesized netlist files、sdc files\n├── place/          # The place stage def、sdc、vectors\n└── route/          # The route… See the full description on the dataset page: https://huggingface.co/datasets/AiEDA/iDATA.",
-  "downloads": 180979,
+  "downloads": 175434,
   "tags": [
     "license:gpl",
     "region:us",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2830596db44100ef90ff903efd1b48c62e66f5cf",
   "description": "LICENSE: This dataset is released under the CC BY-NC-SA 4.0 license.\nThis repository contains MAVOS-DD an open-set benchmark for multilingual audio-video deepfake detection.\nBelow, you can find the code to obtain the subsets described in the paper: train, validation, open-set model, open-set language and open-set full:\nfrom datasets import Dataset, concatenate_datasets\nmetadata = Dataset.load_from_disk('MAVOS-DD')\nmetadata_indomain = metadata.filter(lambda sample: sample['split']=='test' and… See the full description on the dataset page: https://huggingface.co/datasets/j-shen3/MAVOS-DD.",
-  "downloads": 72006,
+  "downloads": 93660,
   "tags": [
     "task_categories:video-classification",
     "language:ar",

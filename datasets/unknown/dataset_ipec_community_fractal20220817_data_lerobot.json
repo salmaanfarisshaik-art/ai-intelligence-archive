@@ -9,7 +9,7 @@
   "private": false,
   "sha": "91bf7d7f7ce50770a1ba5c6db14b8d1c0815122e",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"google_robot\",\n    \"total_episodes\": 87212,\n    \"total_frames\": 3786400,\n    \"total_tasks\": 599,\n    \"total_videos\": 87212,\n    \"total_chunks\": 88,\n    \"chunks_size\": 1000,\n    \"fps\": 3,\n    \"splits\": {\n        \"train\": \"0:87212\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/fractal20220817_data_lerobot.",
-  "downloads": 114883,
+  "downloads": 120445,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ea22c6d1b970007a9cd255c877f1a79e2c0c0fe7",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMICCAI FLARE26 AutoMSC: Automated Medical Image Segmentation and Classification (Homepage)\n\t\n\nThe training data contains multiple subsets covering different modalities (e.g., CT, MRI, and PET/CT) and cancer types (e.g., brain cancer, lung cancer, etc.).\n\n\t\n\t\t\nName\nModality\nNumber\nSegmentation Labels\nClassification Labels (cases per class)\nLicense\n\n\n\t\t\nDataset001_BrainMets [1]\nT1, T1c, T2, FLAIR, CT, RTP\n166\nNecrotic Core (1), Enhancing Tumor (2), Edema (3)\nPrimary Tumor Origin:… See the full description on the dataset page: https://huggingface.co/datasets/FLARE-MedFM/FLARE-AutoMSC.",
-  "downloads": 30905,
+  "downloads": 30911,
   "tags": [
     "language:en",
     "size_categories:1K<n<10K",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "76df38a82288f75ba9e41dc8c515033332497473",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tITBench-AA\n\t\n\nArtificial Analysis' release of the public scenarios from\nIBM's ITBench benchmark, used for\nthe ITBench-AA leaderboard.\nThis repo currently contains the SRE subset (sre config). Each row is a\nKubernetes incident scenario with its expected contributing-factor entities. An\nagent under evaluation is given access to an offline snapshot of the affected\ncluster (alerts, events, traces, topology) and must identify the entity\n(Deployment, Pod, ConfigMap, etc.) responsible for… See the full description on the dataset page: https://huggingface.co/datasets/ArtificialAnalysis/ITBench-AA.",
-  "downloads": 31116,
+  "downloads": 26095,
   "tags": [
     "task_categories:question-answering",
     "language:en",

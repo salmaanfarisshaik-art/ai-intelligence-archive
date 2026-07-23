@@ -383,6 +383,7 @@
 | [hamza-adnan/visual_distracting_metaworld_with_masks](https://huggingface.co/datasets/hamza-adnan/visual_distracting_metaworld_with_masks) | Hugging Face |  | 0 |
 | [Hangzhi98/parity-experiments](https://huggingface.co/datasets/Hangzhi98/parity-experiments) | Hugging Face |  | 0 |
 | [haofeixu/dl3dv-960p-chunks](https://huggingface.co/datasets/haofeixu/dl3dv-960p-chunks) | Hugging Face |  | 0 |
+| [happyhackingspace/dit](https://huggingface.co/datasets/happyhackingspace/dit) | HuggingFace Datasets | region:us | 0 |
 | [harborframework/parity-experiments](https://huggingface.co/datasets/harborframework/parity-experiments) | Hugging Face |  | 0 |
 | [hardiksharma6555/forgespectrum-114k](https://huggingface.co/datasets/hardiksharma6555/forgespectrum-114k) | Hugging Face |  | 0 |
 | [hasankursun/github-code-2025-language-split](https://huggingface.co/datasets/hasankursun/github-code-2025-language-split) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 1 |
@@ -439,7 +440,7 @@
 | [huggingface/badges](https://huggingface.co/datasets/huggingface/badges) | Hugging Face |  | 0 |
 | [huggingface/brand-assets](https://huggingface.co/datasets/huggingface/brand-assets) | Hugging Face |  | 0 |
 | [huggingface/CADS-dataset](https://huggingface.co/datasets/huggingface/CADS-dataset) | Hugging Face |  | 0 |
-| [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | HuggingFace Datasets | license:cc-by-nc-sa-4.0, region:us | 0 |
+| [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | HuggingFace Datasets | format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image | 0 |
 | [huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images) | Hugging Face |  | 0 |
 | [HuggingFaceFW/finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs) | Hugging Face |  | 0 |
 | [HuggingFaceFW/finepdfs_lang_classification](https://huggingface.co/datasets/HuggingFaceFW/finepdfs_lang_classification) | Hugging Face |  | 0 |
@@ -476,6 +477,7 @@
 | [iimmortall/S2R-HDR](https://huggingface.co/datasets/iimmortall/S2R-HDR) | Hugging Face |  | 0 |
 | [iimmortall/S2R-HDR-2](https://huggingface.co/datasets/iimmortall/S2R-HDR-2) | Hugging Face |  | 0 |
 | [ILSVRC/imagenet-1k](https://huggingface.co/datasets/ILSVRC/imagenet-1k) | Hugging Face |  | 0 |
+| [imageomics/fish-vista](https://huggingface.co/datasets/imageomics/fish-vista) | HuggingFace Datasets | CV, RGB, animals, arxiv:2407.08027, biology | 1 |
 | [inaesh-joshi/MOSAIC-Refactoring-copy](https://huggingface.co/datasets/inaesh-joshi/MOSAIC-Refactoring-copy) | Hugging Face |  | 0 |
 | [innople/fashion_design](https://huggingface.co/datasets/innople/fashion_design) | Hugging Face |  | 0 |
 | [InternRobotics/InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1) | Hugging Face |  | 0 |
@@ -511,6 +513,7 @@
 | [jasperai/monet](https://huggingface.co/datasets/jasperai/monet) | Hugging Face |  | 0 |
 | [jat-project/jat-dataset](https://huggingface.co/datasets/jat-project/jat-dataset) | HuggingFace Datasets | annotations_creators:found, annotations_creators:machine-generated, arxiv:2303.03915, arxiv:2402.09844, format:parquet | 2 |
 | [jat-project/jat-dataset](https://huggingface.co/datasets/jat-project/jat-dataset) | Hugging Face |  | 0 |
+| [jat-project/jat-dataset-tokenized](https://huggingface.co/datasets/jat-project/jat-dataset-tokenized) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 0 |
 | [jat-project/jat-dataset-tokenized](https://huggingface.co/datasets/jat-project/jat-dataset-tokenized) | Hugging Face |  | 0 |
 | [JaydeepR/vcr-mirror](https://huggingface.co/datasets/JaydeepR/vcr-mirror) | Hugging Face |  | 0 |
 | [JCorners/results](https://huggingface.co/datasets/JCorners/results) | Hugging Face |  | 0 |
@@ -703,7 +706,7 @@
 | [MrPigeon345/DoseRAD2026](https://huggingface.co/datasets/MrPigeon345/DoseRAD2026) | Hugging Face |  | 0 |
 | [MRSAudio/MRSAudio](https://huggingface.co/datasets/MRSAudio/MRSAudio) | Hugging Face |  | 0 |
 | [mteb/nfcorpus](https://huggingface.co/datasets/mteb/nfcorpus) | Hugging Face |  | 0 |
-| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | format:optimized-parquet, format:parquet, library:dask, library:datasets, library:mlcroissant | 0 |
+| [mteb/results](https://huggingface.co/datasets/mteb/results) | HuggingFace Datasets | format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars | 0 |
 | [mteb/results](https://huggingface.co/datasets/mteb/results) | Hugging Face |  | 0 |
 | [mteb/sts12-sts](https://huggingface.co/datasets/mteb/sts12-sts) | Hugging Face |  | 0 |
 | [mteb/stsbenchmark-sts](https://huggingface.co/datasets/mteb/stsbenchmark-sts) | Hugging Face |  | 0 |

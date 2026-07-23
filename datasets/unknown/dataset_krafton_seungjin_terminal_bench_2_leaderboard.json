@@ -1,0 +1,22 @@
+{
+  "_id": "698d7c56d8c8210d66c4e2d5",
+  "id": "krafton-seungjin/terminal-bench-2-leaderboard",
+  "author": "krafton-seungjin",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-02-12T07:09:46.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "dc2e27e19950f82feabeb6aa32245e6a29671b3a",
+  "description": "\n\t\n\t\t\n\t\tTerminal-Bench 2.0 Leaderboard Submissions\n\t\n\nThis repository accepts leaderboard submissions for Terminal-Bench 2.0.\n\n\t\n\t\t\n\t\tHow to Submit\n\t\n\n\nFork this repository\nCreate a new branch for your submission\nAdd your submission (a job or folder of jobs) under submissions/terminal-bench/2.0/<agent>__<model(s)>/\nOpen a Pull Request\n\n\n\t\n\t\t\n\t\tSubmission Structure\n\t\n\nsubmissions/\n  terminal-bench/\n    2.0/\n      <agent>__<model>/\n        metadata.yaml       # Required: agent and model info… See the full description on the dataset page: https://huggingface.co/datasets/krafton-seungjin/terminal-bench-2-leaderboard.",
+  "downloads": 24726,
+  "tags": [
+    "license:apache-2.0",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2026-02-12T07:08:06.000Z",
+  "key": "",
+  "unique_id": "dataset_krafton_seungjin_terminal_bench_2_leaderboard",
+  "schema_version": "1.0"
+}

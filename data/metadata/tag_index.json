@@ -46,6 +46,9 @@
   "CARLA": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "CV": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "FP4": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -85,6 +88,9 @@
   "Qwen3.6": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
+  "RGB": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "Robotics manipulation": [
     "hf_ds_67ab2149bc76a9aab3ff90ed"
   ],
@@ -114,6 +120,9 @@
   "ai": [
     "pytorch",
     "tensorflow"
+  ],
+  "animals": [
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "animation": [
     "framer-motion-animator",
@@ -477,6 +486,9 @@
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_6a153f136ea5882878c26693"
   ],
+  "arxiv:2407.08027": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "arxiv:2407.10671": [
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -786,6 +798,9 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
+  "biology": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "bridge_orig": [
     "hf_ds_67b9b84c2eb0080c5fc8c88e"
   ],
@@ -1090,6 +1105,9 @@
   "doi:10.57967/hf/2833": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
+  "doi:10.57967/hf/3471": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "doi:10.57967/hf/5889": [
     "hf_ds_6859a511dbd17c5bad610ad2"
   ],
@@ -1253,6 +1271,9 @@
   "evaluation": [
     "hf_ds_663b7fd5a4152b77b637ba11"
   ],
+  "evolution": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "exbert": [
     "hf_distilbert_distilgpt2",
     "hf_openai-community_gpt2"
@@ -1280,14 +1301,19 @@
   "fineweb-edu": [
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
+  "fish": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "flow-estimation": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "format:csv": [
     "hf_ds_65ce59255f233e28db20fe4f",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_68179ef58e267618d9e7bc61"
   ],
   "format:imagefolder": [
+    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_679255cc5a8e868cbe62569f",
@@ -1297,8 +1323,7 @@
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
   "format:optimized-parquet": [
-    "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_6a1f3e49aa35c86b3f108f05"
+    "hf_ds_6993525c8be5bf8321bcc775"
   ],
   "format:parquet": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -1317,6 +1342,7 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_669caf535bd3f749a3c87c11",
@@ -1476,6 +1502,9 @@
   "iac": [
     "terraform"
   ],
+  "image": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "image-classification": [
     "hf_ds_6785649a41a64e1582b8bb05"
   ],
@@ -1489,6 +1518,9 @@
   "imatrix": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
+  "imbalanced": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "imitation-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
@@ -1499,6 +1531,9 @@
   ],
   "instruction-tuned": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
+  ],
+  "interpretability": [
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "iq2_xxs": [
     "hf_antirez_deepseek-v4-gguf"
@@ -1949,6 +1984,7 @@
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -3366,6 +3402,7 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
@@ -3392,6 +3429,7 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f1825d5",
+    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -3400,10 +3438,12 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3451,6 +3491,7 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_621ffdd236468d709f1825d5",
+    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_621ffdd236468d709f184284",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -3459,10 +3500,12 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3505,6 +3548,7 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_66bb76014dbf7716986c7f86",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
@@ -3531,9 +3575,11 @@
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3826,10 +3872,12 @@
   "modality:image": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f1825d5",
+    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_661823b590a8b6724f1c6534",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_67eb39ec9c3049765889d084",
@@ -3841,6 +3889,7 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_675d7e29e24babdf1842d270",
@@ -3873,6 +3922,7 @@
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
@@ -3899,6 +3949,7 @@
   ],
   "modality:timeseries": [
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
   "modality:video": [
@@ -3967,6 +4018,9 @@
   "multimodal": [
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
+  ],
+  "museum-images": [
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "mxfp4": [
     "hf_openai_gpt-oss-120b",
@@ -4074,6 +4128,9 @@
   "prisma": [
     "enterprise-prisma-schema-generator",
     "prisma-schema-generator"
+  ],
+  "processed": [
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "prompts": [
     "hf_ds_65ce59255f233e28db20fe4f"
@@ -4259,6 +4316,7 @@
     "hf_ds_64a63fbb85638d0e698f055f",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_655c982e29cdfd1284e696f5",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_6582e9185b0dec368695b712",
     "hf_ds_65a18a266e478287a038a6a6",
@@ -4269,6 +4327,7 @@
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66631d1046a5a30a27eb75a9",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_669e6b2752cf1c619d4c0178",
@@ -4322,6 +4381,7 @@
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_69889a6465dc6090197f1fcb",
+    "hf_ds_6988f1ba1dea739b4799e69f",
     "hf_ds_698aee8a9b778894943e6c5d",
     "hf_ds_699125ba2e87fc8e25a5010a",
     "hf_ds_699243aa8be5bf8321adfd86",
@@ -4529,12 +4589,14 @@
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_698aee8a9b778894943e6c5d"
   ],
   "size_categories:10M<n<100M": [
     "hf_ds_621ffdd236468d709f184284",
+    "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_692ecca11aad0a1d75ac057c"
@@ -4564,6 +4626,7 @@
   ],
   "size_categories:n<1K": [
     "hf_ds_621ffdd236468d709f1825d5",
+    "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_621ffdd236468d709f1835d5",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_66bb76014dbf7716986c7f86",
@@ -4654,6 +4717,9 @@
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
+  "specimen": [
+    "hf_ds_66674f5483de542b724d771e"
+  ],
   "speech": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_69cf1925c61c6c0fbb866b5d"
@@ -4723,6 +4789,7 @@
   ],
   "task_categories:image-classification": [
     "hf_ds_621ffdd236468d709f181db0",
+    "hf_ds_66674f5483de542b724d771e",
     "hf_ds_6785649a41a64e1582b8bb05"
   ],
   "task_categories:image-feature-extraction": [
@@ -4730,7 +4797,8 @@
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "task_categories:image-segmentation": [
-    "hf_ds_66293ead0326d8c0fc899ac0"
+    "hf_ds_66293ead0326d8c0fc899ac0",
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "task_categories:image-text-to-text": [
     "hf_ds_68e91443c366e5879388a4d4"
@@ -5023,6 +5091,9 @@
   ],
   "tracking": [
     "hf_ds_692ecca11aad0a1d75ac057c"
+  ],
+  "traits": [
+    "hf_ds_66674f5483de542b724d771e"
   ],
   "transformer": [
     "hf_ds_6700058973753b82f145eb1d"

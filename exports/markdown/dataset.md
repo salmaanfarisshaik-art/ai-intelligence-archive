@@ -86,7 +86,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: license:cc-by-nc-sa-4.0, region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -184,6 +184,12 @@
 - **URL**: [https://huggingface.co/datasets/hallucinations-leaderboard/results](https://huggingface.co/datasets/hallucinations-leaderboard/results)
 - **Tags**: license:apache-2.0, region:us
 
+## jat-project/jat-dataset-tokenized
+- **ID**: hf_ds_657d7797bc9bceccf9d6f273
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/jat-project/jat-dataset-tokenized](https://huggingface.co/datasets/jat-project/jat-dataset-tokenized)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:timeseries, region:us, size_categories:10M<n<100M
+
 ## banned-historical-archives/banned-historical-archives
 - **ID**: hf_ds_657f09ec3e3b5bea663e53c3
 - **Source**: HuggingFace Datasets
@@ -243,6 +249,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/open-llm-leaderboard/requests](https://huggingface.co/datasets/open-llm-leaderboard/requests)
 - **Tags**: license:apache-2.0, region:us
+
+## imageomics/fish-vista
+- **ID**: hf_ds_66674f5483de542b724d771e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/imageomics/fish-vista](https://huggingface.co/datasets/imageomics/fish-vista)
+- **Tags**: CV, RGB, animals, arxiv:2407.08027, biology, doi:10.57967/hf/3471, evolution, fish, format:csv, image, imbalanced, interpretability, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:image, modality:tabular, modality:text, museum-images, processed, region:us, size_categories:10K<n<100K, specimen, task_categories:image-classification, task_categories:image-segmentation, traits
 
 ## mlfoundations/dclm-baseline-1.0
 - **ID**: hf_ds_66708709d5c5d8fd8db3a5cf
@@ -562,6 +574,12 @@
 - **URL**: [https://huggingface.co/datasets/Kthera/pesoz](https://huggingface.co/datasets/Kthera/pesoz)
 - **Tags**: region:us
 
+## happyhackingspace/dit
+- **ID**: hf_ds_6988f1ba1dea739b4799e69f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/happyhackingspace/dit](https://huggingface.co/datasets/happyhackingspace/dit)
+- **Tags**: region:us
+
 ## mhaamh19/prophet-mosque-library
 - **ID**: hf_ds_698aee8a9b778894943e6c5d
 - **Source**: HuggingFace Datasets
@@ -704,7 +722,7 @@
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
-- **Tags**: format:optimized-parquet, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
 
 ## tencent/Hy-Embodied-0.5-VLA-Data
 - **ID**: hf_ds_6a2a5f5f2ef38e1f849a8ebf

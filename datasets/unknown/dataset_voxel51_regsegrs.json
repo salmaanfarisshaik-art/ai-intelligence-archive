@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e207f101753fbaf1d6827c63289f3e4238ba4cfe",
   "description": "\n\t\n\t\t\n\t\tDataset Card for RefSegRS\n\t\n\n\nThis is a FiftyOne dataset with 4420 samples.\n\n\t\n\t\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nfrom fiftyone.utils.huggingface import load_from_hub\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = load_from_hub(\"Voxel51/RefSegRS\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\n\t\n\t\n\t\n\t\tNOTE: This dataset is .tif media, for best… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/RegSegRS.",
-  "downloads": 36364,
+  "downloads": 30208,
   "tags": [
     "task_categories:image-segmentation",
     "language:en",

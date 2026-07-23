@@ -1002,6 +1002,13 @@
       "score": 1.0
     }
   ],
+  "3000k": [
+    {
+      "entity_id": "dataset_opendrivelab_freetacman",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "3000x": [
     {
       "entity_id": "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
@@ -1142,6 +1149,11 @@
   "30616": [
     {
       "entity_id": "model_internscience_agents_a1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_internscience_agents_a1_4b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3822,6 +3834,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_unsloth_ornith_1_0_35b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_unsloth_qwen_agentworld_35b_a3b_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -5578,6 +5595,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_dl3dv_dl3dv_all_video",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "dataset_labelmaker_arkit_labelmaker",
       "match_type": "exact",
       "score": 6.0
@@ -5723,6 +5745,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_nvidia_pointworld_droid",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_physinonep02_physinonep02",
       "match_type": "exact",
       "score": 3.0
@@ -5751,6 +5778,11 @@
       "entity_id": "hf_ds_ppak10_AMT-FLOW-3D",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_hssd_hssd_hab",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "dataset_sanjay810_mv2_dataset",
@@ -6120,6 +6152,20 @@
   "3gb": [
     {
       "entity_id": "dataset_ruediste_codeparrot_github_code_10g",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "3k": [
+    {
+      "entity_id": "dataset_dl3dv_dl3dv_all_video",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "3km": [
+    {
+      "entity_id": "dataset_deepguess_wrf_250m_severe_weather",
       "match_type": "exact",
       "score": 1.0
     }

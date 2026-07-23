@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** degraded
-**Generated:** 2026-07-23T08:27:27.995666+00:00
-**Warnings:** 667
+**Generated:** 2026-07-23T11:08:28.211516+00:00
+**Warnings:** 668
 **Errors:** 0
 
 ## Issues
@@ -591,6 +591,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/TIGER-Lab
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/imageomics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mlfoundations
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mlfoundations
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/airtrain-ai

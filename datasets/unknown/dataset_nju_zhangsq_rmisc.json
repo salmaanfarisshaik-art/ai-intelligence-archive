@@ -1,0 +1,33 @@
+{
+  "_id": "6990060eb5d31271268730a9",
+  "id": "nju-zhangsq/RMISC",
+  "author": "nju-zhangsq",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-14T02:32:23.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "29c8dbd53bcf704c9934a5cf18e03b7105fec77b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tRMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation Models\n\t\n\nThis dataset card describes the main branch of RMISC. RMISC is a large-scale, real-world multivariate time-series corpus for pretraining and benchmarking time series foundation models (TSFMs). The complete corpus contains around 200 sub-datasets, 2 million original time-series files, 16 billion timesteps, and 142 billion time points across energy, finance, environment, industry, traffic, and… See the full description on the dataset page: https://huggingface.co/datasets/nju-zhangsq/RMISC.",
+  "downloads": 48359,
+  "tags": [
+    "task_categories:time-series-forecasting",
+    "license:mit",
+    "size_categories:10B<n<100B",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2607.06504",
+    "region:us",
+    "time series",
+    "multivariate time series",
+    "multivariate time series foundation model"
+  ],
+  "createdAt": "2026-02-14T05:20:14.000Z",
+  "key": "",
+  "unique_id": "dataset_nju_zhangsq_rmisc",
+  "schema_version": "1.0"
+}

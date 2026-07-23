@@ -1,0 +1,28 @@
+{
+  "_id": "65e6b65f904c8531fd7e1a4b",
+  "id": "DL3DV/DL3DV-ALL-video",
+  "author": "DL3DV",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2024-09-03T02:51:00.000Z",
+  "likes": 9,
+  "private": false,
+  "sha": "7c8efaed9584be7326a2acb1a3bc274501aa8657",
+  "description": "\n\t\n\t\t\n\t\tDL3DV-Dataset\n\t\n\nThis repo has all the original videos of DL3DV-10K Dataset. We are working hard to review all the dataset to avoid sensitive information. Thank you for your patience. \n\n\t\n\t\t\n\t\tDownload\n\t\n\nIf you have enough space, you can use git to download a dataset from huggingface. See this link. \nIf you do not have enough space, we further provide a download script here to download a subset. The usage: \nusage: download.py [-h] --odir ODIR --subset {1K,2K,3K,4K,5K,6K,7K,8K,9K,10K}… See the full description on the dataset page: https://huggingface.co/datasets/DL3DV/DL3DV-ALL-video.",
+  "downloads": 25645,
+  "tags": [
+    "size_categories:n>1T",
+    "region:us",
+    "3D Vision",
+    "NeRF",
+    "3D Gaussian",
+    "Dataset",
+    "Novel View Synthesis",
+    "Text to 3D",
+    "Image to 3D"
+  ],
+  "createdAt": "2024-03-05T06:06:23.000Z",
+  "key": "",
+  "unique_id": "dataset_dl3dv_dl3dv_all_video",
+  "schema_version": "1.0"
+}

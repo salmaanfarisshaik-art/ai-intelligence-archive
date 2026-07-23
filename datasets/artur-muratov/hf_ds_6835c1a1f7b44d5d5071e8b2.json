@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "artur-muratov/multilingual-speech-commands-15lang",
   "description": "\n\t\n\t\t\n\t\tMultilingual Speech Commands Dataset (15 Languages, Augmented)\n\t\n\nThis dataset contains augmented speech command samples in 15 languages, derived from multiple public datasets. Only commands that overlap with the Google Speech Commands (GSC) vocabulary are included, making the dataset suitable for multilingual keyword spotting tasks aligned with GSC-style classification.\nAudio samples have been augmented using standard audio techniques to improve model robustness (e.g., time-shifting… See the full description on the dataset page: https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang.",
-  "size": "500464",
+  "size": "636139",
   "source_url": "https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "e38c175c4581649e9018ed3b8c806d5d57b18b19",
     "description": "\n\t\n\t\t\n\t\tMultilingual Speech Commands Dataset (15 Languages, Augmented)\n\t\n\nThis dataset contains augmented speech command samples in 15 languages, derived from multiple public datasets. Only commands that overlap with the Google Speech Commands (GSC) vocabulary are included, making the dataset suitable for multilingual keyword spotting tasks aligned with GSC-style classification.\nAudio samples have been augmented using standard audio techniques to improve model robustness (e.g., time-shifting… See the full description on the dataset page: https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang.",
-    "downloads": 500464,
+    "downloads": 636139,
     "tags": [
       "language:en",
       "language:ru",
@@ -57,7 +57,7 @@
     "createdAt": "2025-05-27T13:44:01.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-07-21T10:24:54.783034+00:00",
+  "retrieval_timestamp": "2026-07-23T11:08:17.454275+00:00",
   "last_updated": "2025-05-30T01:54:05.000Z",
   "links": {
     "related_models": [

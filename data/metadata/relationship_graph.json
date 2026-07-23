@@ -115991,6 +115991,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_657d7797bc9bceccf9d6f273",
+      "label": "jat-project/jat-dataset-tokenized",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_657f09ec3e3b5bea663e53c3",
       "label": "banned-historical-archives/banned-historical-archives",
       "category": "dataset"
@@ -116038,6 +116043,11 @@
     {
       "id": "hf_ds_66631d1046a5a30a27eb75a9",
       "label": "open-llm-leaderboard/requests",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_66674f5483de542b724d771e",
+      "label": "imageomics/fish-vista",
       "category": "dataset"
     },
     {
@@ -116303,6 +116313,11 @@
     {
       "id": "hf_ds_69889a6465dc6090197f1fcb",
       "label": "Kthera/pesoz",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6988f1ba1dea739b4799e69f",
+      "label": "happyhackingspace/dit",
       "category": "dataset"
     },
     {
@@ -124106,6 +124121,11 @@
       "category": "models"
     },
     {
+      "id": "model_allenai_olmo_3_1_32b_instruct",
+      "label": "allenai/Olmo-3.1-32B-Instruct",
+      "category": "models"
+    },
+    {
       "id": "model_allenai_olmo_3_7b_instruct",
       "label": "allenai/Olmo-3-7B-Instruct",
       "category": "models"
@@ -124333,6 +124353,11 @@
     {
       "id": "model_bartowski_deepseek_v4_flash_gguf",
       "label": "bartowski/DeepSeek-V4-Flash-GGUF",
+      "category": "models"
+    },
+    {
+      "id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
+      "label": "bartowski/EVA-Qwen2.5-14B-v0.2-GGUF",
       "category": "models"
     },
     {
@@ -124643,6 +124668,11 @@
     {
       "id": "model_canopylabs_orpheus_3b_0_1_ft",
       "label": "canopylabs/orpheus-3b-0.1-ft",
+      "category": "models"
+    },
+    {
+      "id": "model_casperhansen_deepseek_coder_v2_instruct_awq",
+      "label": "casperhansen/deepseek-coder-v2-instruct-awq",
       "category": "models"
     },
     {
@@ -125956,6 +125986,11 @@
       "category": "models"
     },
     {
+      "id": "model_jinaai_jina_code_embeddings_0_5b",
+      "label": "jinaai/jina-code-embeddings-0.5b",
+      "category": "models"
+    },
+    {
       "id": "model_jinaai_readerlm_v2",
       "label": "jinaai/ReaderLM-v2",
       "category": "models"
@@ -126291,6 +126326,11 @@
       "category": "models"
     },
     {
+      "id": "model_lmstudio_community_gemma_3_1b_it_gguf",
+      "label": "lmstudio-community/gemma-3-1b-it-GGUF",
+      "category": "models"
+    },
+    {
       "id": "model_lmstudio_community_glm_4_7_flash_mlx_6bit",
       "label": "lmstudio-community/GLM-4.7-Flash-MLX-6bit",
       "category": "models"
@@ -126556,8 +126596,18 @@
       "category": "models"
     },
     {
+      "id": "model_m_a_p_opencodeinterpreter_ds_6_7b",
+      "label": "m-a-p/OpenCodeInterpreter-DS-6.7B",
+      "category": "models"
+    },
+    {
       "id": "model_maidacundo_open_mythos_140m",
       "label": "maidacundo/open-mythos-140m",
+      "category": "models"
+    },
+    {
+      "id": "model_marketeam_qwen_marketing",
+      "label": "marketeam/Qwen-Marketing",
       "category": "models"
     },
     {
@@ -429785,6 +429835,11 @@
     {
       "source": "hf_ds_663b7fd5a4152b77b637ba11",
       "target": "datasets/TIGER-Lab",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_66674f5483de542b724d771e",
+      "target": "datasets/imageomics",
       "relationship": "related_models"
     },
     {

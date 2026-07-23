@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T08:28:06Z",
+  "generated_at": "2026-07-23T11:09:23Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1382,7 +1382,8 @@
     ],
     "hf_deepreinforce-ai_Ornith-1.0-35B": [
       "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf",
-      "model_sc117_ornith_1_0_35b_mtp_apex_gguf"
+      "model_sc117_ornith_1_0_35b_mtp_apex_gguf",
+      "model_unsloth_ornith_1_0_35b_gguf"
     ],
     "hf_deepreinforce-ai_Ornith-1.0-9B": [
       "model_cyankiwi_ornith_1_0_9b_awq_int4",
@@ -1451,6 +1452,7 @@
       "model_antirez_deepseek_v4_gguf",
       "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf",
       "model_bartowski_deepseek_v4_flash_gguf",
+      "model_crusoeai_deepseek_v4_flash_bf16",
       "model_cyberneurova_cyberneurova_deepseek_v4_flash_abliterated_gguf",
       "model_nvidia_deepseek_v4_flash_nvfp4",
       "model_redhatai_deepseek_v4_flash_nvfp4_fp8",
@@ -2322,6 +2324,9 @@
     "hf_nvidia_OpenScienceReasoning-2": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
+    "hf_nvidia_Qwen3.6-27B-NVFP4": [
+      "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf"
+    ],
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4": [
       "hf_Qwen_Qwen3.6-35B-A3B"
     ],
@@ -2385,6 +2390,9 @@
     "hf_openlifescienceai_medmcqa": [
       "model_s4nfs_neeto_1_0_8b"
     ],
+    "hf_openpangu_openPangu-2.0-Flash": [
+      "model_mrexodia_openpangu_2_0_flash_gguf"
+    ],
     "hf_openwebtext": [
       "hf_distilbert_distilgpt2",
       "model_distilbert_distilgpt2"
@@ -2400,6 +2408,9 @@
     ],
     "hf_pile-of-law_pile-of-law": [
       "model_bsc_lt_salamandra_7b_instruct"
+    ],
+    "hf_poolside_Laguna-S-2.1": [
+      "model_poolside_laguna_s_2_1_nvfp4"
     ],
     "hf_prefeitura-rio_Rio-3.0-Open-Mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
@@ -2492,6 +2503,7 @@
     ],
     "hf_tencent_Hy3": [
       "model_angelslim_hy3_gguf",
+      "model_bartowski_hy3_gguf",
       "model_vcruz305_hy3_gguf",
       "model_yanissamz_hy3_295b_a21b_gguf"
     ],
@@ -2829,6 +2841,9 @@
     "model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf": [
       "hf_huihui-ai_Huihui-Qwen3-Coder-Next-abliterated"
     ],
+    "model_bartowski_hy3_gguf": [
+      "hf_tencent_Hy3"
+    ],
     "model_bartowski_llama_3_2_1b_instruct_gguf": [
       "hf_meta-llama_Llama-3.2-1B-Instruct"
     ],
@@ -3003,8 +3018,14 @@
     "model_chantalpellegrini_radialog_interactive_radiology_report_generation": [
       "hf_mimic-cxr"
     ],
+    "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf": [
+      "hf_nvidia_Qwen3.6-27B-NVFP4"
+    ],
     "model_coherelabs_north_mini_code_1_0_fp8": [
       "hf_CohereLabs_North-Mini-Code-1.0"
+    ],
+    "model_crusoeai_deepseek_v4_flash_bf16": [
+      "hf_deepseek-ai_DeepSeek-V4-Flash"
     ],
     "model_culturerevolt_gemma_4_12b_heretic_abliterated_gguf": [
       "hf_culturerevolt_gemma-4-12b-heretic-abliterated"
@@ -4153,6 +4174,9 @@
       "hf_zerofata_Instruct-Anime-CreativeWriting",
       "hf_zerofata_Roleplay-Anime-Characters"
     ],
+    "model_mrexodia_openpangu_2_0_flash_gguf": [
+      "hf_openpangu_openPangu-2.0-Flash"
+    ],
     "model_mrs83_kurtis_eon1_hybrid_0_7b_v0_1_1": [
       "hf_ethicalabs_Echo-DSRN-Qwen2.5-0.5B-Hybrid"
     ],
@@ -4539,6 +4563,9 @@
     ],
     "model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf": [
       "hf_zai-org_GLM-5.2"
+    ],
+    "model_poolside_laguna_s_2_1_nvfp4": [
+      "hf_poolside_Laguna-S-2.1"
     ],
     "model_prefeitura_rio_rio_3_0_open_mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
@@ -5385,6 +5412,9 @@
       "hf_nvidia_Nemotron-Pretraining-SFT-v1",
       "hf_nvidia_Nemotron-Pretraining-Specialized-v1",
       "hf_nvidia_Nemotron-Science-v1"
+    ],
+    "model_unsloth_ornith_1_0_35b_gguf": [
+      "hf_deepreinforce-ai_Ornith-1.0-35B"
     ],
     "model_unsloth_orpheus_3b_0_1_ft": [
       "hf_canopylabs_orpheus-3b-0.1-ft"

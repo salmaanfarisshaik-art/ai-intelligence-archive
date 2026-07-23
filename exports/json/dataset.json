@@ -546,8 +546,13 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:imagefolder",
+      "library:datasets",
+      "library:mlcroissant",
       "license:cc-by-nc-sa-4.0",
-      "region:us"
+      "modality:image",
+      "region:us",
+      "size_categories:n<1K"
     ],
     "links": {
       "related_models": [],
@@ -1549,6 +1554,30 @@
     "local_path": "datasets/hallucinations-leaderboard/hf_ds_655c982e29cdfd1284e696f5.json"
   },
   {
+    "id": "hf_ds_657d7797bc9bceccf9d6f273",
+    "title": "jat-project/jat-dataset-tokenized",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:timeseries",
+      "region:us",
+      "size_categories:10M<n<100M"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/jat-project/jat-dataset-tokenized",
+    "local_path": "datasets/jat-project/hf_ds_657d7797bc9bceccf9d6f273.json"
+  },
+  {
     "id": "hf_ds_657f09ec3e3b5bea663e53c3",
     "title": "banned-historical-archives/banned-historical-archives",
     "category": "dataset",
@@ -1812,6 +1841,52 @@
     },
     "source_url": "https://huggingface.co/datasets/open-llm-leaderboard/requests",
     "local_path": "datasets/open-llm-leaderboard/hf_ds_66631d1046a5a30a27eb75a9.json"
+  },
+  {
+    "id": "hf_ds_66674f5483de542b724d771e",
+    "title": "imageomics/fish-vista",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "CV",
+      "RGB",
+      "animals",
+      "arxiv:2407.08027",
+      "biology",
+      "doi:10.57967/hf/3471",
+      "evolution",
+      "fish",
+      "format:csv",
+      "image",
+      "imbalanced",
+      "interpretability",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "modality:image",
+      "modality:tabular",
+      "modality:text",
+      "museum-images",
+      "processed",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "specimen",
+      "task_categories:image-classification",
+      "task_categories:image-segmentation",
+      "traits"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/imageomics"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/imageomics/fish-vista",
+    "local_path": "datasets/imageomics/hf_ds_66674f5483de542b724d771e.json"
   },
   {
     "id": "hf_ds_66708709d5c5d8fd8db3a5cf",
@@ -3399,6 +3474,23 @@
     "local_path": "datasets/kthera/hf_ds_69889a6465dc6090197f1fcb.json"
   },
   {
+    "id": "hf_ds_6988f1ba1dea739b4799e69f",
+    "title": "happyhackingspace/dit",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/happyhackingspace/dit",
+    "local_path": "datasets/happyhackingspace/hf_ds_6988f1ba1dea739b4799e69f.json"
+  },
+  {
     "id": "hf_ds_698aee8a9b778894943e6c5d",
     "title": "mhaamh19/prophet-mosque-library",
     "category": "dataset",
@@ -3936,7 +4028,6 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:optimized-parquet",
       "format:parquet",
       "library:dask",
       "library:datasets",

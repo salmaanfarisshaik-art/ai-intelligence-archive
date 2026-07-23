@@ -37,6 +37,7 @@
 | allenai/Olmo-3-7B-Instruct |  |  | 0 |
 | allenai/Olmo-3-7B-Instruct-SFT |  |  | 0 |
 | allenai/Olmo-3-7B-Think |  |  | 0 |
+| allenai/Olmo-3.1-32B-Instruct |  |  | 0 |
 | allenai/OLMo-7B |  |  | 0 |
 | allenai/Olmo-Hybrid-7B |  |  | 0 |
 | allenai/OLMoE-1B-7B-0125-Instruct |  |  | 0 |
@@ -80,6 +81,7 @@
 | bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF |  |  | 0 |
 | bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF |  |  | 0 |
 | bartowski/DeepSeek-V4-Flash-GGUF |  |  | 0 |
+| bartowski/EVA-Qwen2.5-14B-v0.2-GGUF |  |  | 0 |
 | bartowski/gemma-2-2b-it-abliterated-GGUF |  |  | 0 |
 | bartowski/gemma-2-2b-it-GGUF |  |  | 0 |
 | bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF |  |  | 0 |
@@ -142,6 +144,7 @@
 | CalamitousFelicitousness/Qwen2.5-32B-Instruct-fp8-dynamic |  |  | 0 |
 | canopylabs/3b-de-ft-research_release |  |  | 0 |
 | canopylabs/orpheus-3b-0.1-ft |  |  | 0 |
+| casperhansen/deepseek-coder-v2-instruct-awq |  |  | 0 |
 | casperhansen/llama-3-70b-instruct-awq |  |  | 0 |
 | casperhansen/llama-3-8b-instruct-awq |  |  | 0 |
 | casperhansen/llama-3.3-70b-instruct-awq |  |  | 0 |
@@ -404,6 +407,7 @@
 | jica98/qwen3.5-4B-super-coder |  |  | 0 |
 | jimbothigpen/Qwen3.5-9B-GGUF |  |  | 0 |
 | jimbothigpen/Qwen3.6-35B-A3B-GGUF |  |  | 0 |
+| jinaai/jina-code-embeddings-0.5b |  |  | 0 |
 | jinaai/ReaderLM-v2 |  |  | 0 |
 | Jiunsong/supergemma4-26b-uncensored-gguf-v2 |  |  | 0 |
 | JunHowie/Qwen3-14B-GPTQ-Int4 |  |  | 0 |
@@ -471,6 +475,7 @@
 | lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-GGUF |  |  | 0 |
 | lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-4bit |  |  | 0 |
 | lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit |  |  | 0 |
+| lmstudio-community/gemma-3-1b-it-GGUF |  |  | 0 |
 | lmstudio-community/GLM-4.7-Flash-MLX-6bit |  |  | 0 |
 | lmstudio-community/GLM-4.7-Flash-MLX-8bit |  |  | 0 |
 | lmstudio-community/gpt-oss-120b-MLX-8bit |  |  | 0 |
@@ -524,7 +529,9 @@
 | LuffyTheFox/Qwen3.5-9B-Claude-4.6-Opus-Uncensored-Distilled-GGUF |  |  | 0 |
 | lukealonso/GLM-5.2-NVFP4 |  |  | 0 |
 | LykosAI/GPT-Prompt-Expansion-Fooocus-v2 |  |  | 0 |
+| m-a-p/OpenCodeInterpreter-DS-6.7B |  |  | 0 |
 | maidacundo/open-mythos-140m |  |  | 0 |
+| marketeam/Qwen-Marketing |  |  | 0 |
 | MaxJeblick/llama2-0b-unit-test |  |  | 0 |
 | Maykeye/TinyLLama-v0 |  |  | 0 |
 | MaziyarPanahi/DeepSeek-R1-0528-Qwen3-8B-GGUF |  |  | 0 |

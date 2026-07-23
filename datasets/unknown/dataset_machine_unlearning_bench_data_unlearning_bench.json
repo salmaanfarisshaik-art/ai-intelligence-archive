@@ -9,7 +9,7 @@
   "private": false,
   "sha": "86afcc8b5737bc3b8f437e1c5ffccde3ecf7df75",
   "description": "Dataset for the evaluation of data-unlearning techniques using KLOM (KL-divergence of Margins).\n\n\t\n\t\t\n\t\tHow KLOM works:\n\t\n\nKLOM works by:\n\ntraining N models (original models)\nTraining N fully-retrained models (oracles) on forget set F\nunlearning forget set F from the original models\nComparing the outputs of the unlearned models from the retrained models on different points\n  (specifically, computing the KL divergence between the distribution of margins of oracle models and distribution of… See the full description on the dataset page: https://huggingface.co/datasets/machine-unlearning-bench/data-unlearning-bench.",
-  "downloads": 48043,
+  "downloads": 58092,
   "tags": [
     "license:mit",
     "size_categories:10K<n<100K",

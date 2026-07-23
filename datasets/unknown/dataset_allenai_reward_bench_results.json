@@ -9,7 +9,7 @@
   "private": false,
   "sha": "96302cc604e4f257dc526272c803c4eff27e3469",
   "description": "\n\t\n\t\t\n\t\tResults for Holisitic Evaluation of Reward Models (HERM) Benchmark\n\t\n\nHere, you'll find the raw scores for the HERM project.\nThe repository is structured as follows. \n├── best-of-n/                           <- Nested directory for different completions on Best of N challenge\n|   ├── alpaca_eval/                         └── results for each reward model\n|   |   ├── tulu-13b/{org}/{model}.json  \n|   |   └── zephyr-7b/{org}/{model}.json \n|   └── mt_bench/                        \n|… See the full description on the dataset page: https://huggingface.co/datasets/allenai/reward-bench-results.",
-  "downloads": 66357,
+  "downloads": 64671,
   "tags": [
     "region:us"
   ],

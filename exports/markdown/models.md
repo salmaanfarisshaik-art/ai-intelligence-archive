@@ -116,6 +116,10 @@
 - **ID**: model_allenai_olmo_3_1125_32b
 - **Source**: 
 
+## allenai/Olmo-3.1-32B-Instruct
+- **ID**: model_allenai_olmo_3_1_32b_instruct
+- **Source**: 
+
 ## allenai/Olmo-3-7B-Instruct
 - **ID**: model_allenai_olmo_3_7b_instruct
 - **Source**: 
@@ -298,6 +302,10 @@
 
 ## bartowski/DeepSeek-V4-Flash-GGUF
 - **ID**: model_bartowski_deepseek_v4_flash_gguf
+- **Source**: 
+
+## bartowski/EVA-Qwen2.5-14B-v0.2-GGUF
+- **ID**: model_bartowski_eva_qwen2_5_14b_v0_2_gguf
 - **Source**: 
 
 ## bartowski/gemma-2-2b-it-abliterated-GGUF
@@ -546,6 +554,10 @@
 
 ## canopylabs/orpheus-3b-0.1-ft
 - **ID**: model_canopylabs_orpheus_3b_0_1_ft
+- **Source**: 
+
+## casperhansen/deepseek-coder-v2-instruct-awq
+- **ID**: model_casperhansen_deepseek_coder_v2_instruct_awq
 - **Source**: 
 
 ## casperhansen/llama-3.3-70b-instruct-awq
@@ -1596,6 +1608,10 @@
 - **ID**: model_jimbothigpen_qwen3_6_35b_a3b_gguf
 - **Source**: 
 
+## jinaai/jina-code-embeddings-0.5b
+- **ID**: model_jinaai_jina_code_embeddings_0_5b
+- **Source**: 
+
 ## jinaai/ReaderLM-v2
 - **ID**: model_jinaai_readerlm_v2
 - **Source**: 
@@ -1864,6 +1880,10 @@
 - **ID**: model_lmstudio_community_deepseek_r1_0528_qwen3_8b_mlx_8bit
 - **Source**: 
 
+## lmstudio-community/gemma-3-1b-it-GGUF
+- **ID**: model_lmstudio_community_gemma_3_1b_it_gguf
+- **Source**: 
+
 ## lmstudio-community/GLM-4.7-Flash-MLX-6bit
 - **ID**: model_lmstudio_community_glm_4_7_flash_mlx_6bit
 - **Source**: 
@@ -2076,8 +2096,16 @@
 - **ID**: model_lykosai_gpt_prompt_expansion_fooocus_v2
 - **Source**: 
 
+## m-a-p/OpenCodeInterpreter-DS-6.7B
+- **ID**: model_m_a_p_opencodeinterpreter_ds_6_7b
+- **Source**: 
+
 ## maidacundo/open-mythos-140m
 - **ID**: model_maidacundo_open_mythos_140m
+- **Source**: 
+
+## marketeam/Qwen-Marketing
+- **ID**: model_marketeam_qwen_marketing
 - **Source**: 
 
 ## MaxJeblick/llama2-0b-unit-test
