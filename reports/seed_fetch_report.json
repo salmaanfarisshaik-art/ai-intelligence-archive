@@ -1,13 +1,7 @@
 {
-  "failed_sources": [
-    {
-      "reason": "HTTPSConnectionPool(host='huggingface.co', port=443): Read timed out.",
-      "repository": "huggingface_models",
-      "retry_next_run": true
-    }
-  ],
-  "sources_failed": 1,
+  "failed_sources": [],
+  "sources_failed": 0,
   "sources_processed": 3,
-  "sources_succeeded": 2,
-  "timestamp": "2026-07-23T19:14:44.894098+00:00"
+  "sources_succeeded": 3,
+  "timestamp": "2026-07-23T21:03:12.060196+00:00"
 }
