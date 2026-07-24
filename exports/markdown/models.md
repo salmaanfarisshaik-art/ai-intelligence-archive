@@ -3272,6 +3272,10 @@
 - **ID**: model_prism_ml_bonsai_27b_gguf
 - **Source**: 
 
+## prism-ml/Bonsai-27B-mlx-1bit
+- **ID**: model_prism_ml_bonsai_27b_mlx_1bit
+- **Source**: 
+
 ## prism-ml/Bonsai-8B-gguf
 - **ID**: model_prism_ml_bonsai_8b_gguf
 - **Source**: 
@@ -4212,6 +4216,10 @@
 - **ID**: model_solidrust_meta_llama_3_1_8b_instruct_abliterated_awq
 - **Source**: 
 
+## solidrust/Mistral-7B-Instruct-v0.3-AWQ
+- **ID**: model_solidrust_mistral_7b_instruct_v0_3_awq
+- **Source**: 
+
 ## speakleash/Bielik-11B-v2.3-Instruct
 - **ID**: model_speakleash_bielik_11b_v2_3_instruct
 - **Source**: 
@@ -4318,6 +4326,10 @@
 
 ## tencent/Hy3-preview
 - **ID**: model_tencent_hy3_preview
+- **Source**: 
+
+## tencent/HY-MT1.5-1.8B
+- **ID**: model_tencent_hy_mt1_5_1_8b
 - **Source**: 
 
 ## tencent/Hy-MT2-1.8B
@@ -4716,6 +4728,10 @@
 - **ID**: model_unsloth_gpt_oss_20b_unsloth_bnb_4bit
 - **Source**: 
 
+## unsloth/Laguna-S-2.1-GGUF
+- **ID**: model_unsloth_laguna_s_2_1_gguf
+- **Source**: 
+
 ## unsloth/LFM2.5-8B-A1B-GGUF
 - **ID**: model_unsloth_lfm2_5_8b_a1b_gguf
 - **Source**: 
@@ -4806,6 +4822,10 @@
 
 ## unsloth/Ornith-1.0-35B-GGUF
 - **ID**: model_unsloth_ornith_1_0_35b_gguf
+- **Source**: 
+
+## unsloth/Ornith-1.0-9B-GGUF
+- **ID**: model_unsloth_ornith_1_0_9b_gguf
 - **Source**: 
 
 ## unsloth/orpheus-3b-0.1-ft

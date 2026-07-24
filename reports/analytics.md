@@ -1,15 +1,15 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85509
+**Total Entities Tracked**: 85534
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **models**: 1306
+- **models**: 1311
 - **dataset**: 1122
-- **datasets**: 1083
+- **datasets**: 1103
 - **news**: 1068
 - **text-generation**: 998
 - **cs.CV**: 187
@@ -66,7 +66,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 29567
+- ****: 29592
 - **Hugging Face**: 2005
 - **OpenAI Blog**: 1056
 - **ArXiv**: 599
@@ -112,11 +112,11 @@
 
 - **region:us**: 182
 - **text-generation**: 61
+- **library:datasets**: 54
+- **library:mlcroissant**: 54
 - **safetensors**: 54
 - **transformers**: 54
 - **endpoints_compatible**: 53
-- **library:datasets**: 53
-- **library:mlcroissant**: 53
 - **license:apache-2.0**: 50
 - **language:en**: 47
 - **conversational**: 46
@@ -136,10 +136,10 @@
 - **api**: 16
 - **qwen3**: 16
 - **modality:tabular**: 14
+- **size_categories:n<1K**: 14
 - **license:other**: 13
-- **size_categories:n<1K**: 13
+- **modality:image**: 12
 - **license:cc-by-4.0**: 11
-- **modality:image**: 11
 - **multilinguality:monolingual**: 11
 - **size_categories:10K<n<100K**: 11
 - **fp8**: 10
