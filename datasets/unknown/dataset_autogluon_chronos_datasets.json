@@ -9,7 +9,7 @@
   "private": false,
   "sha": "eeecad0b82a8c237e212ce6f8d1abecb513e2cec",
   "description": "\n\t\n\t\t\n\t\tChronos datasets\n\t\n\nTime series datasets used for training and evaluation of the Chronos forecasting models.\nNote that some Chronos datasets (ETTh, ETTm, brazilian_cities_temperature and spanish_energy_and_weather) that rely on a custom builder script are available in the companion repo autogluon/chronos_datasets_extra.\nSee the paper for more information.\n\n\t\n\t\t\n\t\n\t\n\t\tData format and usage\n\t\n\nThe recommended way to use these datasets is via https://github.com/autogluon/fev.\nAll datasets… See the full description on the dataset page: https://huggingface.co/datasets/autogluon/chronos_datasets.",
-  "downloads": 31074,
+  "downloads": 31761,
   "tags": [
     "task_categories:time-series-forecasting",
     "task_ids:univariate-time-series-forecasting",

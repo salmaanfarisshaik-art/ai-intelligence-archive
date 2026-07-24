@@ -1,0 +1,32 @@
+{
+  "_id": "6731b4fffb568a134d3f2dd6",
+  "id": "TIGER-Lab/OmniEdit-Filtered-1.2M",
+  "author": "TIGER-Lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-12-06T02:57:59.000Z",
+  "likes": 130,
+  "private": false,
+  "sha": "82455c6cd66db7f0e5bfce8d7a236441af59d6df",
+  "description": "\n\t\n\t\t\n\t\tOmniEdit\n\t\n\nIn this paper, we present OMNI-EDIT, which is an omnipotent editor to handle seven different image editing tasks with any aspect ratio seamlessly. Our contribution is in four folds: (1) OMNI-EDIT is trained by utilizing the supervision\nfrom seven different specialist models to ensure task coverage. (2) we utilize importance sampling based on the scores provided by large multimodal models (like GPT-4o) instead of CLIP-score to improve the data quality. \n📃Paper | 🌐Website |… See the full description on the dataset page: https://huggingface.co/datasets/TIGER-Lab/OmniEdit-Filtered-1.2M.",
+  "downloads": 24302,
+  "tags": [
+    "language:en",
+    "license:mit",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2411.07199",
+    "region:us",
+    "image"
+  ],
+  "createdAt": "2024-11-11T07:40:47.000Z",
+  "key": "",
+  "unique_id": "dataset_tiger_lab_omniedit_filtered_1_2m",
+  "schema_version": "1.0"
+}

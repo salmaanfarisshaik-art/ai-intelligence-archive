@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e63bd2e2afa116d5cfae1b1b55681480f2fdd5b7",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpenPath Corpus\n\t\n\nPublic-only whole-slide histopathology tile corpus used to pre-train\nOpenPath, a ViT-g/14 pathology foundation model.\nTiles are re-extracted at native ~40× (0.5 µm-per-pixel), which is the data lever that lets\nOpenPath rank #1 on the contamination-free AMC-HCC-ST benchmark among seven foundation models\n(see the code / model card).\n\n\t\n\t\t\n\t\n\t\n\t\tContents\n\t\n\n\n33,991 WebDataset shards (.tar), ~17 TB, ~834 M tiles, 224×224 at native 40×.\nSeven public sources (sharded… See the full description on the dataset page: https://huggingface.co/datasets/taejoon89/openpath-corpus.",
-  "downloads": 42738,
+  "downloads": 42806,
   "tags": [
     "task_categories:image-feature-extraction",
     "license:other",

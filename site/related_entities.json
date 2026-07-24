@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:26:01Z",
+  "generated_at": "2026-07-24T09:22:23Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -966,6 +966,7 @@
       "model_obliteratus_qwen3_6_27b_obliterated",
       "model_ocicek_qwen3_6_27b_nvfp4",
       "model_prism_ml_bonsai_27b_gguf",
+      "model_prism_ml_bonsai_27b_mlx_1bit",
       "model_prism_ml_ternary_bonsai_27b_gguf",
       "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp"
     ],
@@ -1387,7 +1388,8 @@
     ],
     "hf_deepreinforce-ai_Ornith-1.0-9B": [
       "model_cyankiwi_ornith_1_0_9b_awq_int4",
-      "model_protolabsai_ornith_1_0_9b_mtp_gguf"
+      "model_protolabsai_ornith_1_0_9b_mtp_gguf",
+      "model_unsloth_ornith_1_0_9b_gguf"
     ],
     "hf_deepseek-ai_DeepSeek-R1": [
       "model_unsloth_deepseek_r1_gguf"
@@ -1917,6 +1919,7 @@
     ],
     "hf_mistralai_Mistral-7B-Instruct-v0.3": [
       "model_maziyarpanahi_mistral_7b_instruct_v0_3_gguf",
+      "model_solidrust_mistral_7b_instruct_v0_3_awq",
       "model_unsloth_mistral_7b_instruct_v0_3_bnb_4bit"
     ],
     "hf_mistralai_Mistral-7B-v0.1": [
@@ -2410,7 +2413,8 @@
       "model_bsc_lt_salamandra_7b_instruct"
     ],
     "hf_poolside_Laguna-S-2.1": [
-      "model_poolside_laguna_s_2_1_nvfp4"
+      "model_poolside_laguna_s_2_1_nvfp4",
+      "model_unsloth_laguna_s_2_1_gguf"
     ],
     "hf_prefeitura-rio_Rio-3.0-Open-Mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
@@ -4573,6 +4577,9 @@
     "model_prism_ml_bonsai_27b_gguf": [
       "hf_Qwen_Qwen3.6-27B"
     ],
+    "model_prism_ml_bonsai_27b_mlx_1bit": [
+      "hf_Qwen_Qwen3.6-27B"
+    ],
     "model_prism_ml_bonsai_8b_gguf": [
       "hf_prism-ml_Bonsai-8B-unpacked"
     ],
@@ -5084,6 +5091,9 @@
     "model_solidrust_meta_llama_3_1_8b_instruct_abliterated_awq": [
       "hf_mlabonne_Meta-Llama-3.1-8B-Instruct-abliterated"
     ],
+    "model_solidrust_mistral_7b_instruct_v0_3_awq": [
+      "hf_mistralai_Mistral-7B-Instruct-v0.3"
+    ],
     "model_speakleash_bielik_11b_v2_3_instruct": [
       "hf_speakleash_Bielik-11B-v2",
       "hf_speakleash_Bielik-11B-v2.0-Instruct",
@@ -5337,6 +5347,9 @@
     "model_unsloth_gpt_oss_20b_unsloth_bnb_4bit": [
       "hf_openai_gpt-oss-20b"
     ],
+    "model_unsloth_laguna_s_2_1_gguf": [
+      "hf_poolside_Laguna-S-2.1"
+    ],
     "model_unsloth_lfm2_5_8b_a1b_gguf": [
       "hf_LiquidAI_LFM2.5-8B-A1B"
     ],
@@ -5415,6 +5428,9 @@
     ],
     "model_unsloth_ornith_1_0_35b_gguf": [
       "hf_deepreinforce-ai_Ornith-1.0-35B"
+    ],
+    "model_unsloth_ornith_1_0_9b_gguf": [
+      "hf_deepreinforce-ai_Ornith-1.0-9B"
     ],
     "model_unsloth_orpheus_3b_0_1_ft": [
       "hf_canopylabs_orpheus-3b-0.1-ft"

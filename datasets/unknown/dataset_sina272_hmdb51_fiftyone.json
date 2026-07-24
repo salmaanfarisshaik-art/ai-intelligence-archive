@@ -9,7 +9,7 @@
   "private": false,
   "sha": "259cfbcf095aa1e9c1f63e86a7cd668d739750b0",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHMDB51 exported from FiftyOne\n\t\n\nthis dataset was exported from an existing local FiftyOne dataset named hmdb51.\n\n\t\n\t\t\n\t\n\t\n\t\tcontents\n\t\n\n\nactual video files are stored under videos/\nmetadata is stored in split CSV files such as other.csv, test.csv, train.csv\n\n\n\t\n\t\t\n\t\n\t\n\t\tlabel field used\n\t\n\n\nground_truth\n\n\n\t\n\t\t\n\t\n\t\n\t\tsplit sizes\n\t\n\n{\n  \"other\": 1666,\n  \"test\": 1530,\n  \"train\": 3570\n}\n\n\n\t\n\t\t\n\t\n\t\n\t\tclasses\n\t\n\nnumber of classes: 6766\nfirst 20 classes:\n[\n  \"<Classification: {\\n… See the full description on the dataset page: https://huggingface.co/datasets/Sina272/hmdb51-fiftyone.",
-  "downloads": 68871,
+  "downloads": 67030,
   "tags": [
     "task_categories:video-classification",
     "language:en",

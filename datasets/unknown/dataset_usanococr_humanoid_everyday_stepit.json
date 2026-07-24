@@ -9,7 +9,7 @@
   "private": false,
   "sha": "711919a7f8f4fb28b5a29f1fdd95d98040e2e48a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHumanoid-Everyday · stepit action（G1 子集）\n\t\n\n一个自包含的标准 LeRobot v2.1 数据集，由原始 Humanoid-Everyday 数据集的 Unitree G1 子集\n重新表达而来。与原始数据唯一的区别是 action 列被替换成了一个 41 维、包含完整 base 状态\n（位置 + 姿态 + 线速度）的动作向量；其余所有列均逐字节保持不变，可直接用标准 LeRobot 加载器读取。\n\n动作空间：41 维 = base(10) + G1 身体 29 关节 + 双手开合 2；抽取相应切片即可喂给\nstepit（Unitree G1 29-DOF）控制器（见下文 stepit qpos）。\n规模：4068 episodes / 1,781,092 frames / 246 tasks / 9 chunks，fps = 30，robot_type = g1。\n体积：≈ 394 GB（parquet ≈ 391 GB + 视频 ≈ 3 GB + meta ≈ 2 MB）。\n\n\n原始数据是 G1/H1 混合的（共… See the full description on the dataset page: https://huggingface.co/datasets/UsanoCoCr/humanoid-everyday-stepit.",
-  "downloads": 67523,
+  "downloads": 67525,
   "tags": [
     "size_categories:1M<n<10M",
     "format:parquet",

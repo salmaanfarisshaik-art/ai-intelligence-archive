@@ -31,6 +31,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_csebuetnlp_xlsum",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_deliberatorarchiver_asmr_archive_data_02",
       "match_type": "exact",
       "score": 1.5
@@ -512,6 +517,11 @@
     },
     {
       "entity_id": "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_tencent_hy_mt1_5_1_8b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5319,6 +5329,20 @@
     },
     {
       "entity_id": "dataset_open_web_math_open_web_math",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jin": [
+    {
+      "entity_id": "dataset_gbaker_medqa_usmle_4_options",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "jin2020disease": [
+    {
+      "entity_id": "dataset_gbaker_medqa_usmle_4_options",
       "match_type": "exact",
       "score": 1.0
     }
@@ -11318,6 +11342,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_gbaker_medqa_usmle_4_options",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lukaemon_bbh",
       "match_type": "exact",
       "score": 1.0
@@ -14404,6 +14433,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "dataset_nousresearch_hermes_function_calling_v1",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "alpaca_-5906588042670295739",
       "match_type": "exact",
       "score": 3.0
@@ -14584,6 +14618,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_gbaker_medqa_usmle_4_options",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_glint_research_fable_5_traces",
       "match_type": "exact",
       "score": 1.5
@@ -14715,6 +14754,11 @@
     },
     {
       "entity_id": "dataset_opengvlab_mvbench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_pku_alignment_beavertails",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15054,6 +15098,11 @@
       "entity_id": "dataset_adhyanshverma_open_github_major_repos",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hkustaudio_audio_flan_dataset",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "dataset_jobs_git_hplt2_0_cleaned",
@@ -15947,6 +15996,13 @@
       "entity_id": "rss_https://openai.com/index/jukebox",
       "match_type": "exact",
       "score": 3.0
+    }
+  ],
+  "jul": [
+    {
+      "entity_id": "dataset_inclusionai_openaoe_2000h",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "jules": [
