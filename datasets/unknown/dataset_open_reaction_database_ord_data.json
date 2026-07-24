@@ -4,14 +4,18 @@
   "author": "open-reaction-database",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-06-20T01:01:01.000Z",
+  "lastModified": "2026-07-24T04:58:52.000Z",
   "likes": 6,
   "private": false,
-  "sha": "c70f771332104924fbdb3ac0f00ddfe871baaf1c",
+  "sha": "ca6062b0d85ff5c1a28604382af92bcae421a1dc",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tord-data\n\t\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tGetting the Data\n\t\n\nThe datasets live under data/ and are stored with\nGit LFS. LFS reads are redirected to the\nHugging Face mirror\nvia .lfsconfig, so dataset objects are fetched from Hugging\nFace's CDN rather than from GitHub's shared (and limited) LFS bandwidth. This is\nautomatic — you do not need to configure anything.\n\n\t\n\t\t\n\t\n\t\n\t\tOption 1: Clone the repository\n\t\n\ngit clone https://github.com/open-reaction-database/ord-data.git\n\nWith Git LFS installed… See the full description on the dataset page: https://huggingface.co/datasets/open-reaction-database/ord-data.",
   "downloads": 50087,
   "tags": [
-    "region:us"
+    "license:cc-by-sa-4.0",
+    "region:us",
+    "chemistry",
+    "reactions",
+    "cheminformatics"
   ],
   "createdAt": "2026-03-14T01:25:54.000Z",
   "key": "",
