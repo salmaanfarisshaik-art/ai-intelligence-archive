@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21504v1",
+  "schema_version": "1.0",
+  "name": "Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21504v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21504v1",
+    "updated": "2026-07-23T16:52:10Z",
+    "published": "2026-07-23T16:52:10Z",
+    "title": "Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model",
+    "summary": "Numerous 3D assets are discarded due to low texture resolution, while current super-resolution models ignore texture maps and focus on natural images. An efficient and generalizable texture super-resolution model can revitalize a large corpus of aging yet valuable assets across industries such as film and video games. We present Texture++, a novel framework for texture super-resolution, which enhances the low-resolution textures of assets to produce high-resolution, high-quality results. Specifically, we reformulate the task of super-resolution in UV space into performing it across multiple rendered views and merging the outputs. Firstly, to achieve more complete and continuous textures in the view space, we propose an adaptive view selection strategy to integrate textures dispersed across UV texture patches. Furthermore, we introduce a quadtree-based texture region organization method for combining super-resolved textures from different viewpoints, providing masks to distinguish regions that require improvement. Finally, we design a diffusion-based super-resolution model that enhances the texture resolution for specified masked regions, seamlessly integrating with surrounding regions. Through comprehensive evaluations, we demonstrate that our approach yields textures with substantially improved detail and coherence over existing methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-24T03:28:43Z",
+  "last_updated": "2026-07-23T16:52:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21504v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

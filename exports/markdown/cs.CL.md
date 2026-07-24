@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16410v2](http://arxiv.org/abs/2603.16410v2)
 
+## Gumbel Distillation for Parallel Text Generation
+- **ID**: arxiv_2603.22216v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.22216v2](http://arxiv.org/abs/2603.22216v2)
+
 ## ClawBench: Can AI Agents Complete Everyday Online Tasks?
 - **ID**: arxiv_2604.08523v2
 - **Source**: ArXiv
@@ -74,6 +79,11 @@
 - **ID**: arxiv_2605.21027v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.21027v2](http://arxiv.org/abs/2605.21027v2)
+
+## Moral Semantics Survive Machine Translation: Cross-Lingual Evidence from Moral Foundations Corpora
+- **ID**: arxiv_2605.22660v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.22660v2](http://arxiv.org/abs/2605.22660v2)
 
 ## If LLMs Have Human-Like Attributes, Then So Does Age of Empires II
 - **ID**: arxiv_2605.31514v3
@@ -335,6 +345,21 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20527v1](http://arxiv.org/abs/2606.20527v1)
 
+## CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield
+- **ID**: arxiv_2606.31796v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.31796v2](http://arxiv.org/abs/2606.31796v2)
+
+## MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors
+- **ID**: arxiv_2607.00848v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00848v2](http://arxiv.org/abs/2607.00848v2)
+
+## WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning
+- **ID**: arxiv_2607.09328v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09328v2](http://arxiv.org/abs/2607.09328v2)
+
 ## Workload-Driven Optimization for On-Device Real-Time Subtitle Translation
 - **ID**: arxiv_2607.09957v2
 - **Source**: ArXiv
@@ -534,4 +559,29 @@
 - **ID**: arxiv_2607.20410v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20410v1](http://arxiv.org/abs/2607.20410v1)
+
+## What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations
+- **ID**: arxiv_2607.21491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21491v1](http://arxiv.org/abs/2607.21491v1)
+
+## Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it
+- **ID**: arxiv_2607.21498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21498v1](http://arxiv.org/abs/2607.21498v1)
+
+## DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages
+- **ID**: arxiv_2607.21540v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21540v1](http://arxiv.org/abs/2607.21540v1)
+
+## MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
+- **ID**: arxiv_2607.21570v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21570v1](http://arxiv.org/abs/2607.21570v1)
+
+## Surprisal Theory is Tautological (without Rational Grounding)
+- **ID**: arxiv_2607.21574v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21574v1](http://arxiv.org/abs/2607.21574v1)
 

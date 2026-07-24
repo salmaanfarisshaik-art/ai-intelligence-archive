@@ -40,6 +40,21 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.02451v2](http://arxiv.org/abs/2601.02451v2)
 
+## Knowledge-Guided Time-Varying Causal Inference for Arctic Sea Ice Dynamics
+- **ID**: arxiv_2601.17647v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.17647v3](http://arxiv.org/abs/2601.17647v3)
+
+## NeuraLSP: A Neural Spectral Preconditioner for Accelerating PDE Solvers
+- **ID**: arxiv_2601.20174v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.20174v3](http://arxiv.org/abs/2601.20174v3)
+
+## PILD: Physics-Informed Learning via Diffusion
+- **ID**: arxiv_2601.21284v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
+
 ## A Survey of On-Policy Distillation for Large Language Models
 - **ID**: arxiv_2604.00626v4
 - **Source**: ArXiv
@@ -339,4 +354,19 @@
 - **ID**: arxiv_2607.20301v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20301v1](http://arxiv.org/abs/2607.20301v1)
+
+## Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections
+- **ID**: arxiv_2607.21488v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21488v1](http://arxiv.org/abs/2607.21488v1)
+
+## Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context
+- **ID**: arxiv_2607.21535v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21535v1](http://arxiv.org/abs/2607.21535v1)
+
+## Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity
+- **ID**: arxiv_2607.21573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21573v1](http://arxiv.org/abs/2607.21573v1)
 

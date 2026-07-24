@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.22216v2",
+  "schema_version": "1.0",
+  "name": "Gumbel Distillation for Parallel Text Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.22216v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.22216v2",
+    "updated": "2026-07-23T16:32:10Z",
+    "published": "2026-03-23T17:13:22Z",
+    "title": "Gumbel Distillation for Parallel Text Generation",
+    "summary": "The slow, sequential nature of autoregressive (AR) language models has driven the adoption of parallel decoding methods. However, these non-AR models often sacrifice generation quality as they struggle to model the complex joint distribution of token sequences. To narrow this performance gap, we introduce Gumbel Distillation, a novel distillation technique that enables parallel decoders to learn this distribution effectively. Our method leverages the Gumbel-Max trick to create a deterministic mapping from a latent Gumbel noise space to the output tokens of a high-performing AR teacher. As a model-agnostic technique, Gumbel Distillation seamlessly integrates with diverse parallel decoding architectures, including MDLM and BD3-LM. Experiments on LM1B and OpenWebText show that Gumbel Distillation substantially improves the generation quality of parallel language models, achieving a 30.0% improvement in MAUVE score and 10.5% in generative perplexity over MDLM trained on OpenWebText dataset. Code available at https://github.com/hxixixh/gumbel-distill.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-24T03:28:43Z",
+  "last_updated": "2026-07-23T16:32:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.22216v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

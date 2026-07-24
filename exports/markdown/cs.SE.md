@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20300v1](http://arxiv.org/abs/2607.20300v1)
 
+## From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs
+- **ID**: arxiv_2607.21530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21530v1](http://arxiv.org/abs/2607.21530v1)
+

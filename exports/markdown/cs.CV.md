@@ -130,6 +130,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.23172v2](http://arxiv.org/abs/2602.23172v2)
 
+## O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Urban Autonomous Agents
+- **ID**: arxiv_2603.12144v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.12144v4](http://arxiv.org/abs/2603.12144v4)
+
+## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
+- **ID**: arxiv_2604.10259v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
 ## Rethinking Cross-Layer Information Routing in Diffusion Transformers
 - **ID**: arxiv_2605.20708v2
 - **Source**: ArXiv
@@ -844,4 +854,84 @@
 - **ID**: arxiv_2607.20417v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20417v1](http://arxiv.org/abs/2607.20417v1)
+
+## Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation
+- **ID**: arxiv_2607.21485v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21485v1](http://arxiv.org/abs/2607.21485v1)
+
+## Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model
+- **ID**: arxiv_2607.21504v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21504v1](http://arxiv.org/abs/2607.21504v1)
+
+## Boosting Robustness for All-Weather Self-Supervised Depth Estimation in Autonomous Driving
+- **ID**: arxiv_2607.21526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21526v1](http://arxiv.org/abs/2607.21526v1)
+
+## ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing
+- **ID**: arxiv_2607.21529v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21529v1](http://arxiv.org/abs/2607.21529v1)
+
+## Towards Robust Iris Recognition Through Occlusion Identification and Conditional Diffusion-Based Reconstruction
+- **ID**: arxiv_2607.21545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21545v1](http://arxiv.org/abs/2607.21545v1)
+
+## UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging
+- **ID**: arxiv_2607.21546v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21546v1](http://arxiv.org/abs/2607.21546v1)
+
+## SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation
+- **ID**: arxiv_2607.21553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21553v1](http://arxiv.org/abs/2607.21553v1)
+
+## Visual Contrastive Self-Distillation
+- **ID**: arxiv_2607.21556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21556v1](http://arxiv.org/abs/2607.21556v1)
+
+## Scene Parameter Saliency via Differentiable Light Transport
+- **ID**: arxiv_2607.21562v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21562v1](http://arxiv.org/abs/2607.21562v1)
+
+## Self-Supervised Learning of Structured Dynamics from Videos
+- **ID**: arxiv_2607.21576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21576v1](http://arxiv.org/abs/2607.21576v1)
+
+## Synthetic data generation framework for quality control automation in gravure printing
+- **ID**: arxiv_2607.21577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21577v1](http://arxiv.org/abs/2607.21577v1)
+
+## GraphVid: Interactive Graph-Controllable Video Generation
+- **ID**: arxiv_2607.21580v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21580v1](http://arxiv.org/abs/2607.21580v1)
+
+## Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning
+- **ID**: arxiv_2607.21591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21591v1](http://arxiv.org/abs/2607.21591v1)
+
+## Unified Video Dense Prediction from Disjoint Data
+- **ID**: arxiv_2607.21592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21592v1](http://arxiv.org/abs/2607.21592v1)
+
+## Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers
+- **ID**: arxiv_2607.21594v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21594v1](http://arxiv.org/abs/2607.21594v1)
+
+## 3D-Aware VLMs with Implicit and Explicit Geometries
+- **ID**: arxiv_2607.21595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21595v1](http://arxiv.org/abs/2607.21595v1)
 

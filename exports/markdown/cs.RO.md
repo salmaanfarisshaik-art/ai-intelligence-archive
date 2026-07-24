@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.01977v5](http://arxiv.org/abs/2403.01977v5)
 
+## Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving
+- **ID**: arxiv_2508.16947v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.16947v2](http://arxiv.org/abs/2508.16947v2)
+
 ## Interaction-Aware Whole-Body Control for Compliant Object Transport
 - **ID**: arxiv_2603.03751v2
 - **Source**: ArXiv
@@ -99,4 +104,14 @@
 - **ID**: arxiv_2607.20345v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20345v1](http://arxiv.org/abs/2607.20345v1)
+
+## GS-Agent: Creating 4D Physical Worlds With Generative Simulation
+- **ID**: arxiv_2607.21522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21522v1](http://arxiv.org/abs/2607.21522v1)
+
+## Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation
+- **ID**: arxiv_2607.21582v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21582v1](http://arxiv.org/abs/2607.21582v1)
 

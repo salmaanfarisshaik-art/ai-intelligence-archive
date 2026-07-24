@@ -450,6 +450,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19338v1](http://arxiv.org/abs/2607.19338v1)
 
+## PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning
+- **ID**: arxiv_2607.20064v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20064v2](http://arxiv.org/abs/2607.20064v2)
+
 ## PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity
 - **ID**: arxiv_2607.20268v1
 - **Source**: ArXiv
@@ -464,4 +469,49 @@
 - **ID**: arxiv_2607.20402v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20402v1](http://arxiv.org/abs/2607.20402v1)
+
+## Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks
+- **ID**: arxiv_2607.21482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21482v1](http://arxiv.org/abs/2607.21482v1)
+
+## Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry
+- **ID**: arxiv_2607.21495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21495v1](http://arxiv.org/abs/2607.21495v1)
+
+## Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems
+- **ID**: arxiv_2607.21503v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21503v1](http://arxiv.org/abs/2607.21503v1)
+
+## Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation
+- **ID**: arxiv_2607.21518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21518v1](http://arxiv.org/abs/2607.21518v1)
+
+## The Boundaries of Automation: A Theory of Persistent Human Participation
+- **ID**: arxiv_2607.21547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21547v1](http://arxiv.org/abs/2607.21547v1)
+
+## MIRROR: Learning from the Other View for Multi-Modal Reasoning
+- **ID**: arxiv_2607.21552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21552v1](http://arxiv.org/abs/2607.21552v1)
+
+## OpenForgeRL: Train Harness-native Agents in Any Environment
+- **ID**: arxiv_2607.21557v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21557v1](http://arxiv.org/abs/2607.21557v1)
+
+## Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
+- **ID**: arxiv_2607.21558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21558v1](http://arxiv.org/abs/2607.21558v1)
+
+## Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana
+- **ID**: arxiv_2607.21559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.16947v2",
+  "schema_version": "1.0",
+  "name": "Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.16947v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.16947v2",
+    "updated": "2026-07-23T17:41:04Z",
+    "published": "2025-08-23T08:33:11Z",
+    "title": "Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving",
+    "summary": "Despite significant progress, imitation learning-based autonomous driving planners remain largely restricted to reproducing high-frequency biased behaviors, overlooking the inherent behavioral diversity of human driving. Moreover, existing systems struggle to understand user intent from human interactions and environmental contexts. In real-world advanced deployment, motion planning must accommodate diverse, context-dependent user preferences to support heterogeneous driving services, requiring the ability to interpret human intent and adapt behavior accordingly. However, existing approaches lack such user-oriented capabilities, as they neither explicitly model user intent nor enable flexible policy adaptation. To bridge this gap, we propose an RL-guided multi-strategy framework with a diffusion-based multi-head planner(M-Diffusion Planner) integrated with LLM-based semantic understanding, enabling dynamic perception of user intent and generation of diverse, preference-aligned trajectories. To balance trajectory quality and strategy alignment, we adopt a two-stage training paradigm: first, imitation learning ensures each policy head achieves safe and high-quality planning; second, constrained Group Relative Policy Optimization (GRPO) further aligns each head with user preferences. Experiments on the nuPlan benchmark, under both open-loop and closed-loop settings, demonstrate competitive performance while meeting real-time planning requirements and effectively aligning with user intent.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-24T03:28:43Z",
+  "last_updated": "2026-07-23T17:41:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.16947v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

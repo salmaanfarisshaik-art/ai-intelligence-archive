@@ -12,11 +12,13 @@
 | [A Systematic Investigation of RL-Jailbreaking in LLMs](http://arxiv.org/abs/2605.07032v3) | ArXiv |  | 1 |
 | [A Unified Causal-Origin Taxonomy of Distributional Shifts in Reinforcement Learning](http://arxiv.org/abs/2606.16933v1) | ArXiv |  | 1 |
 | [Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks](http://arxiv.org/abs/2607.19259v1) | ArXiv |  | 1 |
+| [Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity](http://arxiv.org/abs/2607.21573v1) | ArXiv |  | 1 |
 | [Beyond the Commitment Boundary: Probing Epiphenomenal Chain-of-Thought in Large Reasoning Models](http://arxiv.org/abs/2606.13603v1) | ArXiv |  | 1 |
 | [Can Interpretation Predict Behavior on Unseen Data?](http://arxiv.org/abs/2507.06445v3) | ArXiv |  | 1 |
 | [CARE: Controlling LLM-Generated Policies through Auditable Review of Evidence in Scientific Experimentation](http://arxiv.org/abs/2606.14581v1) | ArXiv |  | 1 |
 | [Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection](http://arxiv.org/abs/2505.18934v2) | ArXiv |  | 1 |
 | [CircuitKIT : Circuit Discovery, Evaluation, and Application Toolkit for Mechanistic Interpretability](http://arxiv.org/abs/2607.19317v1) | ArXiv |  | 1 |
+| [Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections](http://arxiv.org/abs/2607.21488v1) | ArXiv |  | 1 |
 | [Contagion Networks: Evaluator Bias Propagation in Multi-Agent LLM Systems](http://arxiv.org/abs/2606.20493v1) | ArXiv |  | 1 |
 | [DADiff: Diffusion-Driven Cross-Domain Policy Adaptation for Reinforcement Learning](http://arxiv.org/abs/2607.16090v1) | ArXiv |  | 1 |
 | [Demystifying Variance in Circuit Discovery of LLMs](http://arxiv.org/abs/2606.16920v1) | ArXiv |  | 1 |
@@ -34,6 +36,7 @@
 | [How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1) | ArXiv |  | 1 |
 | [ISO: An RLVR-Native Optimization Stack](http://arxiv.org/abs/2607.19331v1) | ArXiv |  | 1 |
 | [Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning](http://arxiv.org/abs/2604.18419v5) | ArXiv |  | 1 |
+| [Knowledge-Guided Time-Varying Causal Inference for Arctic Sea Ice Dynamics](http://arxiv.org/abs/2601.17647v3) | ArXiv |  | 1 |
 | [Kolmogorov Regression for Robust Diffusion Policies](http://arxiv.org/abs/2606.18186v1) | ArXiv |  | 1 |
 | [Label-Noise Resistant Learning via Optimal Brain Damage Masking](http://arxiv.org/abs/2508.09697v4) | ArXiv |  | 1 |
 | [Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks](http://arxiv.org/abs/2512.01208v5) | ArXiv |  | 1 |
@@ -43,11 +46,13 @@
 | [Mechanism-Guided Selective Unlearning for RLVR-Induced Reasoning](http://arxiv.org/abs/2606.19222v1) | ArXiv |  | 1 |
 | [mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks](http://arxiv.org/abs/2601.02451v2) | ArXiv |  | 1 |
 | [Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs](http://arxiv.org/abs/2507.04219v5) | ArXiv |  | 1 |
+| [NeuraLSP: A Neural Spectral Preconditioner for Accelerating PDE Solvers](http://arxiv.org/abs/2601.20174v3) | ArXiv |  | 1 |
 | [Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information](http://arxiv.org/abs/2607.19313v1) | ArXiv |  | 1 |
 | [On the Separability of Information in Diffusion Models](http://arxiv.org/abs/2509.23937v5) | ArXiv |  | 1 |
 | [OR Else: A Differentiable Trust Region for Policy Optimization](http://arxiv.org/abs/2607.18163v1) | ArXiv |  | 1 |
 | [Persona-Pruner: Sculpting Lightweight Models for Role-Playing](http://arxiv.org/abs/2606.14695v1) | ArXiv |  | 1 |
 | [Phantoms and Disclosures: a Causal Framework for Auditing Synthetic Data](http://arxiv.org/abs/2606.16952v1) | ArXiv |  | 1 |
+| [PILD: Physics-Informed Learning via Diffusion](http://arxiv.org/abs/2601.21284v2) | ArXiv |  | 1 |
 | [Provable diffusion-based posterior sampling for linear inverse problems via DDIM](http://arxiv.org/abs/2607.19333v1) | ArXiv |  | 1 |
 | [Riemannian Deep Learning:Modules, Networks, and Geometries](http://arxiv.org/abs/2607.19305v1) | ArXiv |  | 1 |
 | [ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling](http://arxiv.org/abs/2607.19332v1) | ArXiv |  | 1 |
@@ -73,4 +78,5 @@
 | [When Does Muon Help Agentic Reinforcement Learning?](http://arxiv.org/abs/2607.16169v2) | ArXiv |  | 1 |
 | [When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs](http://arxiv.org/abs/2510.22228v2) | ArXiv |  | 1 |
 | [When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis](http://arxiv.org/abs/2607.16062v1) | ArXiv |  | 1 |
+| [Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context](http://arxiv.org/abs/2607.21535v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

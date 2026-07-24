@@ -10,6 +10,7 @@
 | [Don't Trust the Label: License Laundering in AI Supply Chains](http://arxiv.org/abs/2607.20300v1) | ArXiv |  | 1 |
 | [Early Adoption of Agentic Coding Tools by GitHub Projects](http://arxiv.org/abs/2607.14037v2) | ArXiv |  | 1 |
 | [FM-Agent: Scaling Formal Methods to Large Systems via LLM-Based Hoare-Style Reasoning](http://arxiv.org/abs/2604.11556v2) | ArXiv |  | 1 |
+| [From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs](http://arxiv.org/abs/2607.21530v1) | ArXiv |  | 1 |
 | [MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization](http://arxiv.org/abs/2607.15205v1) | ArXiv |  | 1 |
 | [Regulating the Machine Contributor: Governance and Policy Alignment in Open Source](http://arxiv.org/abs/2606.14594v1) | ArXiv |  | 1 |
 | [RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources](http://arxiv.org/abs/2606.29538v3) | ArXiv |  | 1 |
