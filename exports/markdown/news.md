@@ -1081,6 +1081,11 @@
 - **URL**: [https://openai.com/index/codex-apps](https://openai.com/index/codex-apps)
 
 ## 
+- **ID**: rss_https://openai.com/index/codex-collaborator-creative-team
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/codex-collaborator-creative-team](https://openai.com/index/codex-collaborator-creative-team)
+
+## 
 - **ID**: rss_https://openai.com/index/codex-flexible-pricing-for-teams
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/codex-flexible-pricing-for-teams](https://openai.com/index/codex-flexible-pricing-for-teams)

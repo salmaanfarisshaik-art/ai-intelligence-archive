@@ -221,6 +221,7 @@
 | [](https://openai.com/index/cna-walter-fernandez) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/coderabbit) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/codex-apps) | OpenAI Blog |  | 0 |
+| [](https://openai.com/index/codex-collaborator-creative-team) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/codex-flexible-pricing-for-teams) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/codex-for-almost-everything) | OpenAI Blog |  | 0 |
 | [](https://openai.com/index/codex-for-every-role-tool-workflow) | OpenAI Blog |  | 0 |
