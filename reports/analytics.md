@@ -118,7 +118,7 @@
 - **transformers**: 54
 - **endpoints_compatible**: 53
 - **license:apache-2.0**: 50
-- **modality:text**: 49
+- **modality:text**: 50
 - **language:en**: 47
 - **conversational**: 46
 - **library:polars**: 42
@@ -152,6 +152,7 @@
 - **python**: 9
 - **source_datasets:original**: 9
 - **language:ar**: 8
+- **modality:audio**: 8
 - **security**: 8
 - **size_categories:100M<n<1B**: 8
 - **size_categories:1M<n<10M**: 8
@@ -159,4 +160,3 @@
 - **custom_code**: 7
 - **language:fr**: 7
 - **language_creators:found**: 7
-- **llama**: 7

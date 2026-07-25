@@ -416,7 +416,7 @@
 - **ID**: hf_ds_6804d9b810dede0a63020b0a
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mamed0v/TurkmenSpeech](https://huggingface.co/datasets/mamed0v/TurkmenSpeech)
-- **Tags**: language:tk, license:cc-by-nc-4.0, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition, task_categories:text-to-speech
+- **Tags**: language:tk, license:cc-by-nc-4.0, modality:audio, modality:text, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition, task_categories:text-to-speech
 
 ## SWE-bench/SWE-bench_Multilingual
 - **ID**: hf_ds_68101f6210b86ba322aabec8
