@@ -18,8 +18,8 @@
     "8-bit",
     "mxfp4",
     "deploy:azure",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
