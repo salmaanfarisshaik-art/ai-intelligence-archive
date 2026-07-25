@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d3b6f7a9af45aa36551d9f0845e2f3a354cad99a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tVoxSafeBench\n\t\n\nDemopage: https://amphionteam.github.io/VoxSafeBench_demopage/\nCode: https://github.com/AmphionTeam/VoxSafeBench\nThis dataset is uploaded as raw files (JSONL + audio), not parquet.\n\n\t\n\t\t\n\t\n\t\n\t\tSubset: Safety-tier1\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplit: No_jailbreak (8708 samples)\n\t\n\nColumns: system_prompt, clean_audio_file_name, diverse_audio_file_name, transcript, super_category, task_type, language, query\n\n\t\n\t\t\n\t\n\t\n\t\tSplit: Singleturn_jailbreak (2516 samples)\n\t\n\nColumns:… See the full description on the dataset page: https://huggingface.co/datasets/YuxiangW/VoxSafeBench.",
-  "downloads": 82319,
+  "downloads": 82322,
   "tags": [
     "language:en",
     "language:zh",

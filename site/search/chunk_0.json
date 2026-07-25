@@ -203,6 +203,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_microsoft_ms_marco",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_prasatee_lines_dataset",
       "match_type": "exact",
       "score": 3.0
@@ -684,6 +689,11 @@
     },
     {
       "entity_id": "alpaca_8681348997808814163",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_agentica_org_deepscaler_preview_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -5780,6 +5790,11 @@
       "entity_id": "dataset_mcgill_nlp_weblinx_browsergym",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mcgill_nlp_weblinx_full",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "05938": [
@@ -6167,6 +6182,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_quanttrio_glm_4_7_flash_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_glm_4_7_flash",
       "match_type": "exact",
       "score": 1.5
@@ -6486,6 +6506,13 @@
       "entity_id": "dataset_huggingfacem4_the_cauldron",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "069": [
+    {
+      "entity_id": "dataset_voxel51_tomato_map",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "06909": [
@@ -8123,6 +8150,13 @@
       "score": 2.5
     }
   ],
+  "09268": [
+    {
+      "entity_id": "dataset_microsoft_ms_marco",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "09276": [
     {
       "entity_id": "model_h2oai_h2o_danube3_500m_chat",
@@ -8583,6 +8617,11 @@
     },
     {
       "entity_id": "model_qwen_qwen3_next_80b_a3b_thinking_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_stelterlab_qwen3_30b_a3b_instruct_2507_awq",
       "match_type": "exact",
       "score": 1.5
     },

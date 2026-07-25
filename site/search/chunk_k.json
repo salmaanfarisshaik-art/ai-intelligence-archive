@@ -1284,6 +1284,11 @@
       "entity_id": "dataset_mcgill_nlp_weblinx_browsergym",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mcgill_nlp_weblinx_full",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "kasparov": [
@@ -6732,6 +6737,13 @@
       "score": 1.0
     }
   ],
+  "keyphrase": [
+    {
+      "entity_id": "dataset_microsoft_ms_marco",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "keypoint": [
     {
       "entity_id": "dataset_uwipl_rt_pose",
@@ -8555,6 +8567,13 @@
       "score": 3.0
     }
   ],
+  "killinchu": [
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "killing": [
     {
       "entity_id": "alpaca_-1617409312585058869",
@@ -9145,6 +9164,11 @@
     },
     {
       "entity_id": "alpaca_8429672273248875220",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 2.0
     },

@@ -1,0 +1,30 @@
+{
+  "_id": "621ffdd236468d709f181ecb",
+  "id": "microsoft/ms_marco",
+  "author": "microsoft",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-01-04T16:01:29.000Z",
+  "likes": 247,
+  "private": false,
+  "sha": "a47ee7aae8d7d466ba15f9f0bfac3b3681087b3a",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for \"ms_marco\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nStarting with a paper released at NIPS 2016, MS MARCO is a collection of datasets focused on deep learning in search.\nThe first dataset was a question answering dataset featuring 100,000 real Bing questions and a human generated answer.\nSince then we released a 1,000,000 question dataset, a natural langauge generation dataset, a passage ranking dataset,\nkeyphrase extraction dataset, crawling dataset, and a conversational search.… See the full description on the dataset page: https://huggingface.co/datasets/microsoft/ms_marco.",
+  "downloads": 23848,
+  "paperswithcode_id": "ms-marco",
+  "tags": [
+    "language:en",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:1611.09268",
+    "region:us"
+  ],
+  "createdAt": "2022-03-02T23:29:22.000Z",
+  "key": "",
+  "unique_id": "dataset_microsoft_ms_marco",
+  "schema_version": "1.0"
+}

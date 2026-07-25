@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:15:24Z",
+  "generated_at": "2026-07-25T09:46:34Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -4477,6 +4477,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_qwen3_14b_fp8",
+      "target_id": "hf_Qwen_Qwen3-14B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_qwen3_14b_nvfp4",
       "target_id": "hf_Qwen_Qwen3-14B",
       "type": "derived_from"
@@ -4752,6 +4757,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_poolside_laguna_s_2_1_fp8",
+      "target_id": "hf_poolside_Laguna-S-2.1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_poolside_laguna_s_2_1_int4",
+      "target_id": "hf_poolside_Laguna-S-2.1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_poolside_laguna_s_2_1_nvfp4",
       "target_id": "hf_poolside_Laguna-S-2.1",
       "type": "derived_from"
@@ -4819,6 +4834,11 @@
     {
       "source_id": "model_quanttrio_glm_4_7_awq",
       "target_id": "hf_zai-org_GLM-4.7",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_quanttrio_glm_4_7_flash_awq",
+      "target_id": "hf_zai-org_GLM-4.7-Flash",
       "type": "derived_from"
     },
     {
@@ -5835,6 +5855,11 @@
       "source_id": "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "target_id": "hf_nvidia_Nemotron-Science-v1",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_stelterlab_qwen3_30b_a3b_instruct_2507_awq",
+      "target_id": "hf_Qwen_Qwen3-30B-A3B-Instruct-2507",
+      "type": "derived_from"
     },
     {
       "source_id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",

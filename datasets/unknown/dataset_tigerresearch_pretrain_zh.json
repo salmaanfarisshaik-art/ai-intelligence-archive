@@ -9,7 +9,7 @@
   "private": false,
   "sha": "718b3ccc89c778780fabf89d75a622f4d7ac180a",
   "description": "\n\t\n\t\t\n\t\tDataset Card for \"pretrain_zh\"\n\t\n\nTigerbot pretrain数据的中文部分。\n包含(未压缩前) 中文书籍zh-books 12G, 中文互联网zh-webtext 25G, 中文百科zh-wiki 19G\n更多语料请关注开源模型及持续更新 https://github.com/TigerResearch/TigerBot \n\n\n\n\n\t\n\t\t\n\t\tUsage\n\t\n\nimport datasets\n\nds_sft = datasets.load_dataset('TigerResearch/pretrain_zh')\n\n",
-  "downloads": 27199,
+  "downloads": 27034,
   "tags": [
     "size_categories:10M<n<100M",
     "format:parquet",

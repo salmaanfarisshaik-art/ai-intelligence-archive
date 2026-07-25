@@ -9,7 +9,7 @@
   "private": false,
   "sha": "aba5c7f6db8ae27919dbbc80c53c8a94d731ccb6",
   "description": "\n\t\n\t\t\n\t\tRequests Dataset\n\t\n\n\n\t\n\t\t\n\t\tOpen Arabic LLM Leaderboard Requests\n\t\n\nThis dataset contains community queries and the running status of models submitted to the Open Arabic LLM Leaderboard. The models are organized in folders, with JSON files providing detailed information about each model's evaluation status.\nExample JSON Structure (Pending):\n{\n  \"model\": \"FreedomIntelligence/AceGPT-7B-chat\",\n  \"base_model\": \"\",\n  \"revision\": \"main\",\n  \"precision\": \"float16\",\n  \"weight_type\": \"Original\"… See the full description on the dataset page: https://huggingface.co/datasets/OALL/requests.",
-  "downloads": 88227,
+  "downloads": 56226,
   "tags": [
     "license:apache-2.0",
     "region:us"

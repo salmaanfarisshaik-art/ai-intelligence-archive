@@ -7265,6 +7265,11 @@
       "entity_id": "dataset_mcgill_nlp_weblinx_browsergym",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mcgill_nlp_weblinx_full",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "hanbyul": [
@@ -34290,6 +34295,11 @@
       "entity_id": "dataset_voxel51_stanford_dogs_imbalanced",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voxel51_tomato_map",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "haves": [
@@ -45740,6 +45750,11 @@
       "entity_id": "rss_https://openai.com/index/eliseai-minna-song",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "dataset_forithmus_mr_rate",
@@ -64894,6 +64909,11 @@
   ],
   "herb": [
     {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "alpaca_-6489838600618831088",
       "match_type": "exact",
       "score": 4.0
@@ -65041,6 +65061,11 @@
       "entity_id": "alpaca_-8850168300064976031",
       "match_type": "exact",
       "score": 4.0
+    },
+    {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "alpaca_4552070794140073199",
@@ -68670,6 +68695,11 @@
     },
     {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 1.0
     },
@@ -83746,6 +83776,13 @@
       "score": 3.0
     }
   ],
+  "hmds": [
+    {
+      "entity_id": "dataset_shijianjian_zdpshift",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "hmellor": [
     {
       "entity_id": "hf_hmellor_Ilama-3.2-1B",
@@ -84852,6 +84889,11 @@
       "entity_id": "rss_https://openai.com/index/thrive-holdings",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 2.5
     }
   ],
   "holds": [
@@ -87517,6 +87559,11 @@
     },
     {
       "entity_id": "alpaca_8738529660171417010",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -103876,6 +103923,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacecode_stack_v3_train",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacefw_fineweb_edu_100bt_shuffled",
       "match_type": "exact",
       "score": 1.0
@@ -107891,6 +107943,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_agentica_org_deepscaler_preview_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_agents_last_exam_agents_last_exam_data",
       "match_type": "exact",
       "score": 1.0
@@ -107957,6 +108014,11 @@
     },
     {
       "entity_id": "dataset_allenai_dolma3_mix_6t",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_dolma3_pool",
       "match_type": "exact",
       "score": 1.0
     },
@@ -108157,6 +108219,11 @@
     },
     {
       "entity_id": "dataset_ayayon_papas_nativas_peru_83_variedades",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -108901,6 +108968,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacecode_stack_v3_train",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacefw_finepdfs",
       "match_type": "exact",
       "score": 1.0
@@ -109506,7 +109578,17 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mcg_nju_videochat3_lv116k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mcgill_nlp_weblinx_browsergym",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mcgill_nlp_weblinx_full",
       "match_type": "exact",
       "score": 1.0
     },
@@ -109552,6 +109634,11 @@
     },
     {
       "entity_id": "dataset_mhaamh19_prophet_mosque_library",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_microsoft_ms_marco",
       "match_type": "exact",
       "score": 1.0
     },
@@ -110291,6 +110378,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_shijianjian_zdpshift",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_shofo_shofo_tiktok_general_small",
       "match_type": "exact",
       "score": 1.0
@@ -110417,6 +110509,11 @@
     },
     {
       "entity_id": "dataset_syn4d_syn4d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 1.0
     },
@@ -110657,6 +110754,11 @@
     },
     {
       "entity_id": "dataset_voxel51_stanford_dogs_imbalanced",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voxel51_tomato_map",
       "match_type": "exact",
       "score": 1.0
     },
@@ -111425,6 +111527,11 @@
     },
     {
       "entity_id": "dataset_voxel51_regsegrs",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_voxel51_tomato_map",
       "match_type": "exact",
       "score": 2.0
     },
@@ -112277,6 +112384,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_bezzam_coraal",
       "match_type": "exact",
       "score": 1.0
@@ -112686,6 +112798,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_voxel51_tomato_map",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_weborganizer_corpus_200b",
       "match_type": "exact",
       "score": 2.0
@@ -112732,6 +112849,11 @@
     },
     {
       "entity_id": "dataset_adhyanshverma_open_github_major_repos",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_agentica_org_deepscaler_preview_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -112812,6 +112934,11 @@
     },
     {
       "entity_id": "dataset_allenai_dolma3_mix_6t",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_dolma3_pool",
       "match_type": "exact",
       "score": 1.0
     },
@@ -113027,6 +113154,11 @@
     },
     {
       "entity_id": "dataset_ayayon_papas_nativas_peru_83_variedades",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -113801,6 +113933,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacecode_stack_v3_train",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacefw_finepdfs",
       "match_type": "exact",
       "score": 1.0
@@ -114396,7 +114533,17 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mcg_nju_videochat3_lv116k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mcgill_nlp_weblinx_browsergym",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mcgill_nlp_weblinx_full",
       "match_type": "exact",
       "score": 1.0
     },
@@ -114442,6 +114589,11 @@
     },
     {
       "entity_id": "dataset_mhaamh19_prophet_mosque_library",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_microsoft_ms_marco",
       "match_type": "exact",
       "score": 1.0
     },
@@ -115216,6 +115368,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_shijianjian_zdpshift",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_shofo_shofo_tiktok_general_small",
       "match_type": "exact",
       "score": 1.0
@@ -115347,6 +115504,11 @@
     },
     {
       "entity_id": "dataset_syn4d_syn4d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 1.0
     },
@@ -116142,6 +116304,13 @@
     },
     {
       "entity_id": "hf_ds_6a3519d6ceabed997ec9ea1e",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "huggingfacecode": [
+    {
+      "entity_id": "dataset_huggingfacecode_stack_v3_train",
       "match_type": "exact",
       "score": 1.0
     }
@@ -119197,6 +119366,11 @@
     },
     {
       "entity_id": "dataset_lockon_xlam_function_calling_60k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_microsoft_ms_marco",
       "match_type": "exact",
       "score": 1.0
     },

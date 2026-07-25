@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9abf6cf7d6dfa7b95152a0d6e791ea9435b47a40",
   "description": "\n\t\n\t\t\n\t\tStanford Cars Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset Overview\n\t\n\n\nSplits:\nTraining: 8144 images used for model training.\nTest: 8041 images used for evaluation.\nContrast: 8041 images with high contrast for robustness testing.\nGaussian Noise: 8041 images corrupted by Gaussian noise for robustness testing.\nImpulse Noise: 8041 images corrupted by impulse noise for robustness testing.\nJPEG Compression: 8041 compressed images for robustness testing.\nMotion Blur: 8041 images with motion blur for… See the full description on the dataset page: https://huggingface.co/datasets/tanganke/stanford_cars.",
-  "downloads": 24299,
+  "downloads": 24052,
   "tags": [
     "task_categories:image-classification",
     "language:en",

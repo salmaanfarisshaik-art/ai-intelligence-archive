@@ -9,7 +9,7 @@
   "private": false,
   "sha": "16ce3beca278610b8b039201b445ee4a17f791b4",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tord-data\n\t\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tGetting the Data\n\t\n\nThe datasets live under data/ and are stored with\nGit LFS. LFS reads are redirected to the\nHugging Face mirror\nvia .lfsconfig, so dataset objects are fetched from Hugging\nFace's CDN rather than from GitHub's shared (and limited) LFS bandwidth. This is\nautomatic — you do not need to configure anything.\n\n\t\n\t\t\n\t\n\t\n\t\tOption 1: Clone the repository\n\t\n\ngit clone https://github.com/open-reaction-database/ord-data.git\n\nWith Git LFS installed… See the full description on the dataset page: https://huggingface.co/datasets/open-reaction-database/ord-data.",
-  "downloads": 45761,
+  "downloads": 41540,
   "tags": [
     "license:cc-by-sa-4.0",
     "size_categories:1M<n<10M",

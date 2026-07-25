@@ -172,6 +172,12 @@
 - **URL**: [https://huggingface.co/datasets/Symato/cc](https://huggingface.co/datasets/Symato/cc)
 - **Tags**: language:vi, license:mit, region:us, size_categories:1K<n<10K
 
+## rtrm/debug
+- **ID**: hf_ds_64d670b5050438e3b95356bf
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/rtrm/debug](https://huggingface.co/datasets/rtrm/debug)
+- **Tags**: format:json, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:n<1K
+
 ## jat-project/jat-dataset
 - **ID**: hf_ds_64edb45c5c9245397fc83a26
 - **Source**: HuggingFace Datasets

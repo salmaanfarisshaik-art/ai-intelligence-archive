@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2aa4e5de3fc91421a7a8a76bef617f94d0e5be28",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"robot_type\": \"AgiBot_A2D\",\n    \"total_episodes\": 28122,\n    \"total_frames\": 47613574,\n    \"total_tasks\": 30,\n    \"chunks_size\": 1000,\n    \"data_files_size_in_mb\": 100,\n    \"video_files_size_in_mb\": 500,\n    \"fps\": 30,\n    \"splits\": {\n        \"train\": \"0:28122\"},\n    \"data_path\": \"data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/agibot_alpha_v30.",
-  "downloads": 72115,
+  "downloads": 73152,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

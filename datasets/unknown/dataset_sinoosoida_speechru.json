@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d9f62f10107903f1bde85ba22ccf4ebbb9543d8f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRussian Podcasts (unlabeled)\n\t\n\n~186k unlabeled Russian-language podcast episodes scraped from the web,\npackaged as Parquet shards with the audio bytes embedded. The audio has no\ntranscripts — this is an unsupervised / self-supervised audio corpus,\nsuitable for ASR pre-training, speech-representation learning, TTS data\nmining, audio classification, and similar tasks.\nEach row contains:\n\naudio — the podcast episode (MP3, mostly 128 kbps / 44.1 kHz stereo),\ndecoded on-the-fly via the… See the full description on the dataset page: https://huggingface.co/datasets/Sinoosoida/SpeechRu.",
-  "downloads": 33414,
+  "downloads": 30438,
   "tags": [
     "task_categories:automatic-speech-recognition",
     "task_categories:text-to-speech",
