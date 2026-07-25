@@ -7510,6 +7510,16 @@
     "local_path": "models/nvidia/model_nvidia_openreasoning_nemotron_32b.json"
   },
   {
+    "id": "model_nvidia_qwen3_14b_fp8",
+    "title": "nvidia/Qwen3-14B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/nvidia/model_nvidia_qwen3_14b_fp8.json"
+  },
+  {
     "id": "model_nvidia_qwen3_14b_nvfp4",
     "title": "nvidia/Qwen3-14B-NVFP4",
     "category": "models",
@@ -8140,6 +8150,36 @@
     "local_path": "models/pipenetwork/model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf.json"
   },
   {
+    "id": "model_poolside_laguna_s_2_1",
+    "title": "poolside/Laguna-S-2.1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/poolside/model_poolside_laguna_s_2_1.json"
+  },
+  {
+    "id": "model_poolside_laguna_s_2_1_fp8",
+    "title": "poolside/Laguna-S-2.1-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/poolside/model_poolside_laguna_s_2_1_fp8.json"
+  },
+  {
+    "id": "model_poolside_laguna_s_2_1_int4",
+    "title": "poolside/Laguna-S-2.1-INT4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/poolside/model_poolside_laguna_s_2_1_int4.json"
+  },
+  {
     "id": "model_poolside_laguna_s_2_1_nvfp4",
     "title": "poolside/Laguna-S-2.1-NVFP4",
     "category": "models",
@@ -8288,6 +8328,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/quanttrio/model_quanttrio_glm_4_7_awq.json"
+  },
+  {
+    "id": "model_quanttrio_glm_4_7_flash_awq",
+    "title": "QuantTrio/GLM-4.7-Flash-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/quanttrio/model_quanttrio_glm_4_7_flash_awq.json"
   },
   {
     "id": "model_quanttrio_glm_5_2_int4_int8mix",
@@ -10668,6 +10718,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/stelterlab/model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq.json"
+  },
+  {
+    "id": "model_stelterlab_qwen3_30b_a3b_instruct_2507_awq",
+    "title": "stelterlab/Qwen3-30B-A3B-Instruct-2507-AWQ",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/stelterlab/model_stelterlab_qwen3_30b_a3b_instruct_2507_awq.json"
   },
   {
     "id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",

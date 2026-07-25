@@ -3004,6 +3004,10 @@
 - **ID**: model_nvidia_openreasoning_nemotron_32b
 - **Source**: 
 
+## nvidia/Qwen3-14B-FP8
+- **ID**: model_nvidia_qwen3_14b_fp8
+- **Source**: 
+
 ## nvidia/Qwen3-14B-NVFP4
 - **ID**: model_nvidia_qwen3_14b_nvfp4
 - **Source**: 
@@ -3256,6 +3260,18 @@
 - **ID**: model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf
 - **Source**: 
 
+## poolside/Laguna-S-2.1
+- **ID**: model_poolside_laguna_s_2_1
+- **Source**: 
+
+## poolside/Laguna-S-2.1-FP8
+- **ID**: model_poolside_laguna_s_2_1_fp8
+- **Source**: 
+
+## poolside/Laguna-S-2.1-INT4
+- **ID**: model_poolside_laguna_s_2_1_int4
+- **Source**: 
+
 ## poolside/Laguna-S-2.1-NVFP4
 - **ID**: model_poolside_laguna_s_2_1_nvfp4
 - **Source**: 
@@ -3314,6 +3330,10 @@
 
 ## QuantTrio/GLM-4.7-AWQ
 - **ID**: model_quanttrio_glm_4_7_awq
+- **Source**: 
+
+## QuantTrio/GLM-4.7-Flash-AWQ
+- **ID**: model_quanttrio_glm_4_7_flash_awq
 - **Source**: 
 
 ## QuantTrio/GLM-5.2-Int4-Int8Mix
@@ -4266,6 +4286,10 @@
 
 ## stelterlab/NVIDIA-Nemotron-3-Nano-30B-A3B-AWQ
 - **ID**: model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq
+- **Source**: 
+
+## stelterlab/Qwen3-30B-A3B-Instruct-2507-AWQ
+- **ID**: model_stelterlab_qwen3_30b_a3b_instruct_2507_awq
 - **Source**: 
 
 ## stelterlab/Qwen3-Coder-30B-A3B-Instruct-AWQ
