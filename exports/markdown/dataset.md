@@ -266,7 +266,7 @@
 - **ID**: hf_ds_66708709d5c5d8fd8db3a5cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0)
-- **Tags**: arxiv:2406.11794, license:cc-by-4.0, region:us
+- **Tags**: arxiv:2406.11794, license:cc-by-4.0, region:us, size_categories:1B<n<10B
 
 ## mlfoundations/MINT-1T-HTML
 - **ID**: hf_ds_669caf535bd3f749a3c87c11
