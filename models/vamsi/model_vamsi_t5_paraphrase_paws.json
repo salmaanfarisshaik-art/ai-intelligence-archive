@@ -19,7 +19,6 @@
     "base_model:google-t5/t5-base",
     "base_model:finetune:google-t5/t5-base",
     "text-generation-inference",
-    "deploy:azure",
     "region:us"
   ],
   "pipeline_tag": "text-generation",

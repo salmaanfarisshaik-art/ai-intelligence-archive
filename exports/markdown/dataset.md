@@ -380,7 +380,7 @@
 - **ID**: hf_ds_67d6c9b5ba56e14eeb14fab6
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD)
-- **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, format:audiofolder, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, library:datasets, library:mlcroissant, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
+- **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
 
 ## cadene/droid_1.0.1
 - **ID**: hf_ds_67d829e152331730e865bfb7
@@ -530,7 +530,7 @@
 - **ID**: hf_ds_692ecca11aad0a1d75ac057c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/CERN/ColliderML-Release-1](https://huggingface.co/datasets/CERN/ColliderML-Release-1)
-- **Tags**: calorimetry, collider-physics, doi:10.57967/hf/7269, format:parquet, high-energy-physics, jet-tagging, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, machine-learning, modality:timeseries, particle-physics, particle-tracking, physics, region:us, simulation, size_categories:10M<n<100M, task_categories:other, tracking
+- **Tags**: calorimetry, collider-physics, doi:10.57967/hf/7269, high-energy-physics, jet-tagging, license:cc-by-4.0, machine-learning, modality:timeseries, particle-physics, particle-tracking, physics, region:us, simulation, size_categories:10M<n<100M, task_categories:other, tracking
 
 ## tz1002/LLaVA-OneVision-1.5-Mid-Training-85M
 - **ID**: hf_ds_6937cb3e145e00d96aa5338c

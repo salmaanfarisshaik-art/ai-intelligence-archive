@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 84
+**Total Changes:** 88
 
 ## Added
 None
@@ -8,31 +8,34 @@ None
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
+- datasets/bigcode/hf_ds_63a02c28f3334a6553d23fe0.json
+- datasets/cern/hf_ds_692ecca11aad0a1d75ac057c.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/mueller91/hf_ds_67d6c9b5ba56e14eeb14fab6.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
+- exports/csv/dataset.csv
+- exports/csv/text-generation.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
+- exports/json/dataset.json
+- exports/json/text-generation.json
+- exports/markdown/dataset.md
+- exports/markdown/text-generation.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen3-32B.json
-- models/qwen/hf_Qwen_Qwen3-Coder-Next-FP8.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/eleutherai/hf_EleutherAI_pythia-160m.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -42,8 +45,6 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -74,10 +75,13 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
+- tools/github-trending/gh_669879380.json
 - tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
