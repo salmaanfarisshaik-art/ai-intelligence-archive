@@ -374,7 +374,7 @@
 - **ID**: hf_ds_67d6c9b5ba56e14eeb14fab6
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD)
-- **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
+- **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, format:audiofolder, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, library:datasets, library:mlcroissant, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
 
 ## cadene/droid_1.0.1
 - **ID**: hf_ds_67d829e152331730e865bfb7

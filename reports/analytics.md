@@ -112,8 +112,8 @@
 
 - **region:us**: 182
 - **text-generation**: 61
-- **library:datasets**: 54
-- **library:mlcroissant**: 54
+- **library:datasets**: 55
+- **library:mlcroissant**: 55
 - **safetensors**: 54
 - **transformers**: 54
 - **endpoints_compatible**: 53
