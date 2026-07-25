@@ -1919,7 +1919,14 @@
     "source": "HuggingFace Datasets",
     "tags": [
       "arxiv:2406.11794",
+      "format:json",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:cc-by-4.0",
+      "modality:tabular",
+      "modality:text",
       "region:us",
       "size_categories:1B<n<10B"
     ],
@@ -4050,7 +4057,14 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],

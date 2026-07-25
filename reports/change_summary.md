@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 78
+**Total Changes:** 86
 
 ## Added
 None
@@ -14,8 +14,9 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
-- datasets/jasperai/hf_ds_69f0c6101cc98d8ac04c03cd.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/mlfoundations/hf_ds_66708709d5c5d8fd8db3a5cf.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
@@ -26,8 +27,13 @@ None
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
-- models/openai/hf_openai_gpt-oss-20b.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -55,6 +61,7 @@ None
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -69,6 +76,7 @@ None
 - tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
