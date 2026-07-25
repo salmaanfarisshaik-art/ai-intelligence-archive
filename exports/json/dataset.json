@@ -3882,6 +3882,8 @@
       "image-text",
       "language:en",
       "license:apache-2.0",
+      "modality:image",
+      "modality:text",
       "multimodal",
       "region:us",
       "size_categories:100M<n<1B",
@@ -4048,14 +4050,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:parquet",
-      "library:dask",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:polars",
-      "modality:text",
-      "region:us",
-      "size_categories:1M<n<10M"
+      "region:us"
     ],
     "links": {
       "related_models": [],

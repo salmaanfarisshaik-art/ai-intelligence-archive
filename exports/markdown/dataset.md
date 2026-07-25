@@ -686,7 +686,7 @@
 - **ID**: hf_ds_69f0c6101cc98d8ac04c03cd
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jasperai/monet](https://huggingface.co/datasets/jasperai/monet)
-- **Tags**: arxiv:2605.21272, captioning, image-text, language:en, license:apache-2.0, multimodal, region:us, size_categories:100M<n<1B, synthetic-data, task_categories:image-feature-extraction, task_categories:text-to-image, task_categories:zero-shot-image-classification, text-to-image
+- **Tags**: arxiv:2605.21272, captioning, image-text, language:en, license:apache-2.0, modality:image, modality:text, multimodal, region:us, size_categories:100M<n<1B, synthetic-data, task_categories:image-feature-extraction, task_categories:text-to-image, task_categories:zero-shot-image-classification, text-to-image
 
 ## wegrthj/kbcpjv-v654-data
 - **ID**: hf_ds_69f623abadd8e8047bc039e9
@@ -728,7 +728,7 @@
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
-- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
+- **Tags**: region:us
 
 ## tencent/Hy-Embodied-0.5-VLA-Data
 - **ID**: hf_ds_6a2a5f5f2ef38e1f849a8ebf
