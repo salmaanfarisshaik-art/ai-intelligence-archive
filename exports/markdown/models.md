@@ -196,6 +196,10 @@
 - **ID**: model_antirez_deepseek_v4_gguf
 - **Source**: 
 
+## anton-hugging/TimeOmni-1-7B
+- **ID**: model_anton_hugging_timeomni_1_7b
+- **Source**: 
+
 ## apple/OpenELM-1_1B-Instruct
 - **ID**: model_apple_openelm_1_1b_instruct
 - **Source**: 
@@ -1644,6 +1648,10 @@
 - **ID**: model_junhowie_qwen3_14b_gptq_int4
 - **Source**: 
 
+## k-chirkunov/gemma4-e4b-claims-comparison
+- **ID**: model_k_chirkunov_gemma4_e4b_claims_comparison
+- **Source**: 
+
 ## K-intelligence/Midm-2.0-Mini-Instruct
 - **ID**: model_k_intelligence_midm_2_0_mini_instruct
 - **Source**: 
@@ -1798,6 +1806,10 @@
 
 ## LiquidAI/LFM2.5-350M-Base
 - **ID**: model_liquidai_lfm2_5_350m_base
+- **Source**: 
+
+## LiquidAI/LFM2.5-350M-GGUF
+- **ID**: model_liquidai_lfm2_5_350m_gguf
 - **Source**: 
 
 ## LiquidAI/LFM2.5-8B-A1B
@@ -3208,6 +3220,10 @@
 - **ID**: model_parasail_ai_gritlm_7b_vllm
 - **Source**: 
 
+## parler-tts/parler-tts-mini-multilingual-v1.1
+- **ID**: model_parler_tts_parler_tts_mini_multilingual_v1_1
+- **Source**: 
+
 ## pbatra/DeepSeek-R1-Distill-Qwen-14B-GGUF
 - **ID**: model_pbatra_deepseek_r1_distill_qwen_14b_gguf
 - **Source**: 
@@ -3282,6 +3298,10 @@
 
 ## poolside/Laguna-XS.2
 - **ID**: model_poolside_laguna_xs_2
+- **Source**: 
+
+## poolside/Laguna-XS-2.1-GGUF
+- **ID**: model_poolside_laguna_xs_2_1_gguf
 - **Source**: 
 
 ## prefeitura-rio/Rio-3.0-Open-Mini
@@ -3566,6 +3586,10 @@
 
 ## Qwen/Qwen2.5-Coder-0.5B-Instruct
 - **ID**: model_qwen_qwen2_5_coder_0_5b_instruct
+- **Source**: 
+
+## Qwen/Qwen2.5-Coder-14B
+- **ID**: model_qwen_qwen2_5_coder_14b
 - **Source**: 
 
 ## Qwen/Qwen2.5-Coder-14B-Instruct
@@ -4328,6 +4352,10 @@
 - **ID**: model_swiss_ai_apertus_8b_instruct_2509
 - **Source**: 
 
+## t-tech/T-lite-it-2.1
+- **ID**: model_t_tech_t_lite_it_2_1
+- **Source**: 
+
 ## tartuNLP/Llammas-base-p1-GPT-4o-human-error-mix-paragraph-GEC
 - **ID**: model_tartunlp_llammas_base_p1_gpt_4o_human_error_mix_paragraph_gec
 - **Source**: 
@@ -5050,6 +5078,10 @@
 
 ## vcruz305/Hy3-GGUF
 - **ID**: model_vcruz305_hy3_gguf
+- **Source**: 
+
+## vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF
+- **ID**: model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf
 - **Source**: 
 
 ## vectionlabs/VL-1-Coder

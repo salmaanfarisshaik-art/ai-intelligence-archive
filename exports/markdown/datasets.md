@@ -141,6 +141,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_dolma3_dolmino_pool
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_dolma3_mix_6t
 - **Source**: 
 
@@ -190,6 +194,10 @@
 
 ## 
 - **ID**: dataset_allenai_sciq
+- **Source**: 
+
+## 
+- **ID**: dataset_allenai_social_i_qa
 - **Source**: 
 
 ## 
@@ -250,6 +258,10 @@
 
 ## 
 - **ID**: dataset_anonymousflare_flare
+- **Source**: 
+
+## 
+- **ID**: dataset_anthropic_economicindex
 - **Source**: 
 
 ## 
@@ -425,6 +437,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_atom_in_the_universe_bild_deduped_8
+- **Source**: 
+
+## 
 - **ID**: dataset_atom_in_the_universe_cc_doc_links
 - **Source**: 
 
@@ -530,6 +546,10 @@
 
 ## 
 - **ID**: dataset_bestwishysh_chronomagic_bench
+- **Source**: 
+
+## 
+- **ID**: dataset_bestwishysh_opens2v_5m
 - **Source**: 
 
 ## 
@@ -753,7 +773,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_clinc_clinc_oos
+- **Source**: 
+
+## 
 - **ID**: dataset_cmrobot_motiondecode
+- **Source**: 
+
+## 
+- **ID**: dataset_co_ir_terminal_bench_2_leaderboard
 - **Source**: 
 
 ## 
@@ -1077,6 +1105,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_eriktks_conll2003
+- **Source**: 
+
+## 
 - **ID**: dataset_espnet_yodas
 - **Source**: 
 
@@ -1094,6 +1126,10 @@
 
 ## 
 - **ID**: dataset_ethz_food101
+- **Source**: 
+
+## 
+- **ID**: dataset_evalplus_humanevalplus
 - **Source**: 
 
 ## 
@@ -1117,11 +1153,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_facebook_uco3d
+- **Source**: 
+
+## 
 - **ID**: dataset_facebook_wiki_dpr
 - **Source**: 
 
 ## 
 - **ID**: dataset_fancyzhx_ag_news
+- **Source**: 
+
+## 
+- **ID**: dataset_fancyzhx_amazon_polarity
 - **Source**: 
 
 ## 
@@ -1342,6 +1386,14 @@
 
 ## 
 - **ID**: dataset_google_research_datasets_mbpp
+- **Source**: 
+
+## 
+- **ID**: dataset_google_research_datasets_natural_questions
+- **Source**: 
+
+## 
+- **ID**: dataset_google_research_datasets_nq_open
 - **Source**: 
 
 ## 
@@ -1689,6 +1741,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn10_content_20260625e3d3
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn10_content_2026062733ed
 - **Source**: 
 
@@ -1705,6 +1761,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_202606253448
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn11_content_2026062775c2
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_202606287ea0
 - **Source**: 
 
@@ -1718,6 +1782,10 @@
 
 ## 
 - **ID**: dataset_icdn12_content_20260623407d
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_202606265f97
 - **Source**: 
 
 ## 
@@ -1777,6 +1845,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn15_content_20260625bbf2
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn15_content_202606271f39
 - **Source**: 
 
@@ -1790,6 +1862,10 @@
 
 ## 
 - **ID**: dataset_icdn18_content_20260618139c
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn18_content_2026062544ac
 - **Source**: 
 
 ## 
@@ -1970,6 +2046,10 @@
 
 ## 
 - **ID**: dataset_jacobbieker_eumetsat_rss
+- **Source**: 
+
+## 
+- **ID**: dataset_jailbreakbench_jbb_behaviors
 - **Source**: 
 
 ## 
@@ -2346,6 +2426,10 @@
 
 ## 
 - **ID**: dataset_lmlmcat_cmmlu
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_chartqa
 - **Source**: 
 
 ## 
@@ -3013,6 +3097,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_omnicad_lab_l3d_omni_cad_subset_complete
+- **Source**: 
+
+## 
 - **ID**: dataset_onfdata_content_202606188b91
 - **Source**: 
 
@@ -3022,6 +3110,10 @@
 
 ## 
 - **ID**: dataset_onfdata_content_202606270d6c
+- **Source**: 
+
+## 
+- **ID**: dataset_onfdata_content_20260627bcfd
 - **Source**: 
 
 ## 
@@ -3134,6 +3226,10 @@
 
 ## 
 - **ID**: dataset_opensqz_automathtext_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_opera8_vevocash
 - **Source**: 
 
 ## 
@@ -3697,6 +3793,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_skylenage_ai_hle_verified
+- **Source**: 
+
+## 
 - **ID**: dataset_skylion007_openwebtext
 - **Source**: 
 
@@ -3942,6 +4042,10 @@
 
 ## 
 - **ID**: dataset_theairlabcmu_tartanground
+- **Source**: 
+
+## 
+- **ID**: dataset_thesofakillers_jigsaw_toxic_comment_classification_challenge
 - **Source**: 
 
 ## 
