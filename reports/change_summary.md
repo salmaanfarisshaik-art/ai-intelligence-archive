@@ -1,13 +1,14 @@
 # Change Summary
 
-**Total Changes:** 97
+**Total Changes:** 83
 
 ## Added
-- prompts/arxiv/
+None
 
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
@@ -16,39 +17,16 @@
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- docs/cs.AI.md
-- docs/cs.CL.md
-- docs/cs.CV.md
-- docs/cs.LG.md
-- docs/cs.RO.md
-- docs/cs.SE.md
 - exports/csv/all_entities.csv
-- exports/csv/cs.AI.csv
-- exports/csv/cs.CL.csv
-- exports/csv/cs.CV.csv
-- exports/csv/cs.LG.csv
-- exports/csv/cs.RO.csv
-- exports/csv/cs.SE.csv
-- exports/csv/math.OC.csv
+- exports/csv/models.csv
 - exports/json/all_entities.json
-- exports/json/cs.AI.json
-- exports/json/cs.CL.json
-- exports/json/cs.CV.json
-- exports/json/cs.LG.json
-- exports/json/cs.RO.json
-- exports/json/cs.SE.json
-- exports/json/math.OC.json
-- exports/markdown/cs.AI.md
-- exports/markdown/cs.CL.md
-- exports/markdown/cs.CV.md
-- exports/markdown/cs.LG.md
-- exports/markdown/cs.RO.md
-- exports/markdown/cs.SE.md
-- exports/markdown/math.OC.md
+- exports/json/models.json
+- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/qwen/hf_Qwen_Qwen3-8B.json
 - releases/CHANGELOG.generated.md
@@ -72,6 +50,7 @@
 - tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
+- tools/github-trending/gh_1108837393.json
 - tools/github-trending/gh_1129940957.json
 - tools/github-trending/gh_1130564872.json
 - tools/github-trending/gh_1162099055.json
@@ -79,18 +58,26 @@
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
+- tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
 - tools/github-trending/gh_527591471.json
+- tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
+- tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json

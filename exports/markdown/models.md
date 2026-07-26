@@ -1080,6 +1080,10 @@
 - **ID**: model_facebook_xglm_564m
 - **Source**: 
 
+## farbodtavakkoli/OTel-2.0-LLM-31B-IT
+- **ID**: model_farbodtavakkoli_otel_2_0_llm_31b_it
+- **Source**: 
+
 ## farbodtavakkoli/OTel-LLM-0.6B-IT
 - **ID**: model_farbodtavakkoli_otel_llm_0_6b_it
 - **Source**: 

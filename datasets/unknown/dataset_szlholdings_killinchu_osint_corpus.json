@@ -4,10 +4,10 @@
   "author": "SZLHOLDINGS",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-07-26T00:01:34.000Z",
+  "lastModified": "2026-07-26T03:46:16.000Z",
   "likes": 5,
   "private": false,
-  "sha": "cd3d604ae7cc5450a976c5c67aba987bf1a93886",
+  "sha": "46df4b93923c172ca2f299ce83a2498058c2b5b4",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tkillinchu — live intel archive\n\t\n\nAppend-only, content-addressed archive of the live intelligence streams the\nkillinchu demo ingests, published by SZL Holdings. Written by the shared\nszl_hf_bucket client: one NDJSON shard per UTC day under intel/.\nEach row is {schema, id, ts, source, kind, payload}.\n\n\t\n\t\t\n\t\n\t\n\t\tStreams\n\t\n\n\nkind: adsb-aircraft (source: adsb) — live military ADS-B aircraft from the\nadsb.lol / adsb.fi community network. Data: adsb.lol / adsb.fi community ADS-B (ODbL).… See the full description on the dataset page: https://huggingface.co/datasets/SZLHOLDINGS/killinchu-osint-corpus.",
   "downloads": 24627,
   "tags": [
