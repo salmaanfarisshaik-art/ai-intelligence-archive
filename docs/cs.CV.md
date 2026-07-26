@@ -5,6 +5,19 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2604.10259v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21545v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21546v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21553v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21556v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21562v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21576v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21577v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21580v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21591v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21592v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21594v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21595v1) | ArXiv |  | 1 |
 | [3D and 4D World Modeling: A Survey](http://arxiv.org/abs/2509.07996v4) | ArXiv |  | 1 |
 | [3D-Aware VLMs with Implicit and Explicit Geometries](http://arxiv.org/abs/2607.21595v1) | ArXiv |  | 1 |
 | [A Benchmark for Omni-Modal Reasoning in Long Videos](http://arxiv.org/abs/2512.16978v2) | ArXiv |  | 1 |

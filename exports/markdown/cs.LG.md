@@ -365,7 +365,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21535v1](http://arxiv.org/abs/2607.21535v1)
 
+## 
+- **ID**: arxiv_2607.21535v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21535v1](http://arxiv.org/abs/2607.21535v1)
+
 ## Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity
+- **ID**: arxiv_2607.21573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21573v1](http://arxiv.org/abs/2607.21573v1)
+
+## 
 - **ID**: arxiv_2607.21573v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21573v1](http://arxiv.org/abs/2607.21573v1)

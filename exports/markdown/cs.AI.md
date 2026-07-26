@@ -455,6 +455,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20064v2](http://arxiv.org/abs/2607.20064v2)
 
+## 
+- **ID**: arxiv_2607.20064v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20064v2](http://arxiv.org/abs/2607.20064v2)
+
 ## PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity
 - **ID**: arxiv_2607.20268v1
 - **Source**: ArXiv
@@ -495,7 +500,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21547v1](http://arxiv.org/abs/2607.21547v1)
 
+## 
+- **ID**: arxiv_2607.21547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21547v1](http://arxiv.org/abs/2607.21547v1)
+
 ## MIRROR: Learning from the Other View for Multi-Modal Reasoning
+- **ID**: arxiv_2607.21552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21552v1](http://arxiv.org/abs/2607.21552v1)
+
+## 
 - **ID**: arxiv_2607.21552v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21552v1](http://arxiv.org/abs/2607.21552v1)
@@ -505,12 +520,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21557v1](http://arxiv.org/abs/2607.21557v1)
 
+## 
+- **ID**: arxiv_2607.21557v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21557v1](http://arxiv.org/abs/2607.21557v1)
+
 ## Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
 - **ID**: arxiv_2607.21558v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21558v1](http://arxiv.org/abs/2607.21558v1)
 
+## 
+- **ID**: arxiv_2607.21558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21558v1](http://arxiv.org/abs/2607.21558v1)
+
 ## Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana
+- **ID**: arxiv_2607.21559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
+
+## 
 - **ID**: arxiv_2607.21559v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)

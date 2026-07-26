@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21570v1",
+  "schema_version": "1.0",
+  "technique_name": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+  "description": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical stor",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2607.21570v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21570v1",
+    "updated": "2026-07-23T17:50:28Z",
+    "published": "2026-07-23T17:50:28Z",
+    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "summary": "Large Language Models (LLMs) show promise for medical education, but most existing systems focus on localized interactions such as question answering or single-turn feedback, rather than organizing an entire clinical case into a decision-centered learning trajectory. We introduce \\textit{MedGame}, a framework that transforms static clinical cases into structured, executable storytelling games. MedGame uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware multimodal orchestration plans rendered by our released interactive platform. We construct MedGame Bench, a 5,000-case benchmark and evaluation protocol for Medical Narrative Generation and Story Direction. Experiments show that task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models. A pilot student study further shows that learners perceive MedGame as more engaging and useful than text-only alternatives.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-26T00:01:13Z",
+  "last_updated": "2026-07-23T17:50:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21570v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -355,7 +355,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00848v2](http://arxiv.org/abs/2607.00848v2)
 
+## 
+- **ID**: arxiv_2607.00848v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00848v2](http://arxiv.org/abs/2607.00848v2)
+
 ## WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning
+- **ID**: arxiv_2607.09328v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09328v2](http://arxiv.org/abs/2607.09328v2)
+
+## 
 - **ID**: arxiv_2607.09328v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09328v2](http://arxiv.org/abs/2607.09328v2)
@@ -575,12 +585,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21540v1](http://arxiv.org/abs/2607.21540v1)
 
+## 
+- **ID**: arxiv_2607.21540v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21540v1](http://arxiv.org/abs/2607.21540v1)
+
 ## MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
 - **ID**: arxiv_2607.21570v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21570v1](http://arxiv.org/abs/2607.21570v1)
 
+## 
+- **ID**: arxiv_2607.21570v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21570v1](http://arxiv.org/abs/2607.21570v1)
+
 ## Surprisal Theory is Tautological (without Rational Grounding)
+- **ID**: arxiv_2607.21574v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21574v1](http://arxiv.org/abs/2607.21574v1)
+
+## 
 - **ID**: arxiv_2607.21574v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21574v1](http://arxiv.org/abs/2607.21574v1)

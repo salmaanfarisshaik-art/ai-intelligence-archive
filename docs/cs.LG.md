@@ -5,6 +5,8 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2607.21535v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21573v1) | ArXiv |  | 1 |
 | [A Comparative Study of Deep Learning Architectures for Multi-Horizon Behavioural Forecasting for Mobile Health](http://arxiv.org/abs/2606.14604v1) | ArXiv |  | 1 |
 | [A Continual Validation, Updating, and Decision-Making Framework for Self-Adaptive Digital Twins via Robust Model Predictive Control: A Case Study in Additive Manufacturing](http://arxiv.org/abs/2607.18164v1) | ArXiv |  | 1 |
 | [A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs](http://arxiv.org/abs/2607.12550v2) | ArXiv |  | 1 |

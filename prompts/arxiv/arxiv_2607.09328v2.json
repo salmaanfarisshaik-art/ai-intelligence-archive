@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.09328v2",
+  "schema_version": "1.0",
+  "technique_name": "WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning",
+  "description": "Answering complex questions over long documents frequently requires integrating evidence that the source itself disperses naturally across distant passages. In an incident report, the operating condition, design flaw, and missed safety check that jointly explain a disaster may appear dozens of sections apart; in a novel, a character's true motive may surface only through scenes far removed from the moment it becomes relevant. This source-internal evidence integration is central to real-world lon",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2607.09328v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.09328v2",
+    "updated": "2026-07-23T17:56:03Z",
+    "published": "2026-07-10T12:09:21Z",
+    "title": "WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning",
+    "summary": "Answering complex questions over long documents frequently requires integrating evidence that the source itself disperses naturally across distant passages. In an incident report, the operating condition, design flaw, and missed safety check that jointly explain a disaster may appear dozens of sections apart; in a novel, a character's true motive may surface only through scenes far removed from the moment it becomes relevant. This source-internal evidence integration is central to real-world long-document analysis, yet existing benchmarks largely sidestep it. Needle probes, planted facts, and reverse-engineered multi-hop chains embed evidence that may differ from the host text in distribution, placement, or register, making it unclear whether strong performance reflects genuine source reasoning or distributional artifacts. We introduce WILDTRACE, a benchmark of 481 tasks over 214 naturally occurring long-form sources such as technical incident reports and lesser-known literary narratives, where all evidence trails arise from the document's own causal, temporal, and narrative logic. Drawing on Pearl's causal hierarchy and prior multi-hop reasoning typologies, we define seven source-internal evidence geometries that characterize the distinct relational demands of analytical reading in long documents. A source-first construction pipeline mines candidate trails from document structure before writing questions; each item then undergoes multi-stage validation covering clue necessity, answer groundedness, rubric fidelity, contamination resistance and answerability. As models are increasingly entrusted with real-world high-stakes analytical tasks, this gap between accessing information and reasoning over naturally dispersed evidence emerges as a defining challenge for the next stage of long-context research.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-26T00:01:13Z",
+  "last_updated": "2026-07-23T17:56:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.09328v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

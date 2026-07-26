@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
 
+## 
+- **ID**: arxiv_2604.10259v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
 ## Rethinking Cross-Layer Information Routing in Diffusion Transformers
 - **ID**: arxiv_2605.20708v2
 - **Source**: ArXiv
@@ -880,7 +885,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21545v1](http://arxiv.org/abs/2607.21545v1)
 
+## 
+- **ID**: arxiv_2607.21545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21545v1](http://arxiv.org/abs/2607.21545v1)
+
 ## UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging
+- **ID**: arxiv_2607.21546v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21546v1](http://arxiv.org/abs/2607.21546v1)
+
+## 
 - **ID**: arxiv_2607.21546v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21546v1](http://arxiv.org/abs/2607.21546v1)
@@ -890,7 +905,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21553v1](http://arxiv.org/abs/2607.21553v1)
 
+## 
+- **ID**: arxiv_2607.21553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21553v1](http://arxiv.org/abs/2607.21553v1)
+
 ## Visual Contrastive Self-Distillation
+- **ID**: arxiv_2607.21556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21556v1](http://arxiv.org/abs/2607.21556v1)
+
+## 
 - **ID**: arxiv_2607.21556v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21556v1](http://arxiv.org/abs/2607.21556v1)
@@ -900,7 +925,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21562v1](http://arxiv.org/abs/2607.21562v1)
 
+## 
+- **ID**: arxiv_2607.21562v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21562v1](http://arxiv.org/abs/2607.21562v1)
+
 ## Self-Supervised Learning of Structured Dynamics from Videos
+- **ID**: arxiv_2607.21576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21576v1](http://arxiv.org/abs/2607.21576v1)
+
+## 
 - **ID**: arxiv_2607.21576v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21576v1](http://arxiv.org/abs/2607.21576v1)
@@ -910,7 +945,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21577v1](http://arxiv.org/abs/2607.21577v1)
 
+## 
+- **ID**: arxiv_2607.21577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21577v1](http://arxiv.org/abs/2607.21577v1)
+
 ## GraphVid: Interactive Graph-Controllable Video Generation
+- **ID**: arxiv_2607.21580v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21580v1](http://arxiv.org/abs/2607.21580v1)
+
+## 
 - **ID**: arxiv_2607.21580v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21580v1](http://arxiv.org/abs/2607.21580v1)
@@ -920,7 +965,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21591v1](http://arxiv.org/abs/2607.21591v1)
 
+## 
+- **ID**: arxiv_2607.21591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21591v1](http://arxiv.org/abs/2607.21591v1)
+
 ## Unified Video Dense Prediction from Disjoint Data
+- **ID**: arxiv_2607.21592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21592v1](http://arxiv.org/abs/2607.21592v1)
+
+## 
 - **ID**: arxiv_2607.21592v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21592v1](http://arxiv.org/abs/2607.21592v1)
@@ -930,7 +985,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21594v1](http://arxiv.org/abs/2607.21594v1)
 
+## 
+- **ID**: arxiv_2607.21594v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21594v1](http://arxiv.org/abs/2607.21594v1)
+
 ## 3D-Aware VLMs with Implicit and Explicit Geometries
+- **ID**: arxiv_2607.21595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21595v1](http://arxiv.org/abs/2607.21595v1)
+
+## 
 - **ID**: arxiv_2607.21595v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21595v1](http://arxiv.org/abs/2607.21595v1)

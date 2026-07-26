@@ -5,6 +5,12 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21547v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21557v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21558v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |
 | [A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems](http://arxiv.org/abs/2606.14582v1) | ArXiv |  | 1 |

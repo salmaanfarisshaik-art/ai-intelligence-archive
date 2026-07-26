@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21594v1",
+  "schema_version": "1.0",
+  "technique_name": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+  "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registe",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2607.21594v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21594v1",
+    "updated": "2026-07-23T17:59:58Z",
+    "published": "2026-07-23T17:59:58Z",
+    "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+    "summary": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward observation history as conditioning context, which makes shared state difficult to maintain in multi-agent and multi-view settings. We present WorldWeaver (W^2), a streaming multi-agent video diffusion model that augments rollout with cross-agent world state registers: learnable tokens that store shared world information, track individual agent status, and are dynamically updated after each generated chunk. We ground these registers with supervision signals spanning individual agent status, global state views including bird's-eye views, and scene text. We further improve the architecture with a Mixture-of-Transformers design that uses separate weights for world state modeling and visual frame modeling. Extensive experiments in two-agent Minecraft video generation show that explicit world-state modeling improves logical consistency and generation quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-26T00:01:13Z",
+  "last_updated": "2026-07-23T17:59:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21594v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

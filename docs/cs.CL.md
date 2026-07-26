@@ -5,6 +5,11 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2607.00848v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21570v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2607.21574v1) | ArXiv |  | 1 |
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v2) | ArXiv |  | 1 |
