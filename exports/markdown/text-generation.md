@@ -1365,7 +1365,7 @@
 - **ID**: hf_Qwen_Qwen3-14B
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-14B](https://huggingface.co/Qwen/Qwen3-14B)
-- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2505.09388, base_model:Qwen/Qwen3-14B-Base, base_model:finetune:Qwen/Qwen3-14B-Base, conversational, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-14B-AWQ
 - **ID**: hf_Qwen_Qwen3-14B-AWQ
@@ -5026,7 +5026,7 @@
 - **ID**: hf_zai-org_GLM-5.2-FP8
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/zai-org/GLM-5.2-FP8](https://huggingface.co/zai-org/GLM-5.2-FP8)
-- **Tags**: arxiv:2602.15763, arxiv:2603.12201, conversational, deploy:azure, en, endpoints_compatible, fp8, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
+- **Tags**: arxiv:2602.15763, arxiv:2603.12201, conversational, en, endpoints_compatible, fp8, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
 
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 - **ID**: hf_zdy1995love_Mistral-Medium-3.5-128B-NVFP4

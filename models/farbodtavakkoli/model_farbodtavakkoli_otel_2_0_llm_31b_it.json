@@ -1,7 +1,7 @@
 {
   "_id": "6a61faabc1d3550adbd5e16b",
   "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
-  "likes": 3,
+  "likes": 4,
   "private": false,
   "downloads": 482238,
   "tags": [
@@ -29,7 +29,6 @@
     "base_model:finetune:google/gemma-4-31B-it",
     "license:apache-2.0",
     "endpoints_compatible",
-    "deploy:azure",
     "region:us"
   ],
   "pipeline_tag": "text-generation",
