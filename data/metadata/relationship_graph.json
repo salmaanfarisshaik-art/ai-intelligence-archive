@@ -117131,6 +117131,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_680f523123b95edd6987db29",
+      "label": "nebius/SWE-rebench",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_68101f6210b86ba322aabec8",
       "label": "SWE-bench/SWE-bench_Multilingual",
       "category": "dataset"
@@ -117223,6 +117228,11 @@
     {
       "id": "hf_ds_692ecca11aad0a1d75ac057c",
       "label": "CERN/ColliderML-Release-1",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6931046ceb0ce6e2002af81b",
+      "label": "builddotai/Egocentric-100K",
       "category": "dataset"
     },
     {
@@ -431393,6 +431403,11 @@
       "relationship": "related_models"
     },
     {
+      "source": "hf_ds_680f523123b95edd6987db29",
+      "target": "datasets/nebius",
+      "relationship": "related_models"
+    },
+    {
       "source": "hf_ds_68179ef58e267618d9e7bc61",
       "target": "datasets/ieasybooks-org",
       "relationship": "related_models"
@@ -431460,6 +431475,11 @@
     {
       "source": "hf_ds_692ecca11aad0a1d75ac057c",
       "target": "datasets/CERN",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6931046ceb0ce6e2002af81b",
+      "target": "datasets/builddotai",
       "relationship": "related_models"
     },
     {

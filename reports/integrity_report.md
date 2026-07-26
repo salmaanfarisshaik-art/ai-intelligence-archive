@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-07-26T06:35:36.859290+00:00
-**Warnings:** 748
+**Generated:** 2026-07-26T09:12:17.163585+00:00
+**Warnings:** 750
 **Errors:** 30
 
 ## Issues
@@ -721,6 +721,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nvidia
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tasl-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mamed0v
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nebius
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ieasybooks-org
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/artur-muratov
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/xlangai
@@ -735,6 +736,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/AiEDA
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/hasankursun
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/CERN
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/builddotai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tz1002
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/permutans
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/genrobot2025

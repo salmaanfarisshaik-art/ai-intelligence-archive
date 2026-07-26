@@ -2780,6 +2780,35 @@
     "local_path": "datasets/mamed0v/hf_ds_6804d9b810dede0a63020b0a.json"
   },
   {
+    "id": "hf_ds_680f523123b95edd6987db29",
+    "title": "nebius/SWE-rebench",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2505.20411",
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:cc-by-4.0",
+      "modality:text",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "task_categories:other"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/nebius"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nebius/SWE-rebench",
+    "local_path": "datasets/nebius/hf_ds_680f523123b95edd6987db29.json"
+  },
+  {
     "id": "hf_ds_68101f6210b86ba322aabec8",
     "title": "SWE-bench/SWE-bench_Multilingual",
     "category": "dataset",
@@ -3301,6 +3330,36 @@
     },
     "source_url": "https://huggingface.co/datasets/CERN/ColliderML-Release-1",
     "local_path": "datasets/cern/hf_ds_692ecca11aad0a1d75ac057c.json"
+  },
+  {
+    "id": "hf_ds_6931046ceb0ce6e2002af81b",
+    "title": "builddotai/Egocentric-100K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "egocentric",
+      "format:webdataset",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:webdataset",
+      "license:apache-2.0",
+      "modality:text",
+      "modality:video",
+      "region:us",
+      "robotics",
+      "size_categories:1M<n<10M",
+      "video"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/builddotai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/builddotai/Egocentric-100K",
+    "local_path": "datasets/builddotai/hf_ds_6931046ceb0ce6e2002af81b.json"
   },
   {
     "id": "hf_ds_6937cb3e145e00d96aa5338c",

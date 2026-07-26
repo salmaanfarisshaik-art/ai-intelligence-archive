@@ -1,0 +1,29 @@
+{
+  "_id": "65b34a06e312613c604e8ee0",
+  "id": "lmms-lab/ChartQA",
+  "author": "lmms-lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-03-08T05:04:43.000Z",
+  "likes": 24,
+  "private": false,
+  "sha": "9e63b7df1592a1c2158e735cc1725454aef0d6d9",
+  "description": "\n\n\n\n\n\t\n\t\t\n\t\tLarge-scale Multi-modality Models Evaluation Suite\n\t\n\n\nAccelerating the development of large-scale multi-modality models (LMMs) with lmms-eval\n\n🏠 Homepage | 📚 Documentation | 🤗 Huggingface Datasets\n\n\t\n\t\t\n\t\n\t\n\t\tThis Dataset\n\t\n\nThis is a formatted version of ChartQA. It is used in our lmms-eval pipeline to allow for one-click evaluations of large multi-modality models.\n@article{masry2022chartqa,\n  title={ChartQA: A benchmark for question answering about charts with visual and… See the full description on the dataset page: https://huggingface.co/datasets/lmms-lab/ChartQA.",
+  "downloads": 24032,
+  "tags": [
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2203.10244",
+    "region:us"
+  ],
+  "createdAt": "2024-01-26T05:58:30.000Z",
+  "key": "",
+  "unique_id": "dataset_lmms_lab_chartqa",
+  "schema_version": "1.0"
+}

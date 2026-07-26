@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0eabc778f959c54b8c5aa3626cc1128d2d2e54d4",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95658,\n    \"total_frames\": 27630375,\n    \"total_tasks\": 49630,\n    \"chunks_size\": 1000,\n    \"data_files_size_in_mb\": 100,\n    \"video_files_size_in_mb\": 500,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95658\"\n    },\n    \"data_path\": \"data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/lerobot/droid_1.0.1.",
-  "downloads": 25233,
+  "downloads": 25058,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

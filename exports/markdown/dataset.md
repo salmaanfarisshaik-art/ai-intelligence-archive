@@ -418,6 +418,12 @@
 - **URL**: [https://huggingface.co/datasets/mamed0v/TurkmenSpeech](https://huggingface.co/datasets/mamed0v/TurkmenSpeech)
 - **Tags**: language:tk, license:cc-by-nc-4.0, modality:audio, modality:text, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition, task_categories:text-to-speech
 
+## nebius/SWE-rebench
+- **ID**: hf_ds_680f523123b95edd6987db29
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nebius/SWE-rebench](https://huggingface.co/datasets/nebius/SWE-rebench)
+- **Tags**: arxiv:2505.20411, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, region:us, size_categories:10K<n<100K, task_categories:other
+
 ## SWE-bench/SWE-bench_Multilingual
 - **ID**: hf_ds_68101f6210b86ba322aabec8
 - **Source**: HuggingFace Datasets
@@ -531,6 +537,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/CERN/ColliderML-Release-1](https://huggingface.co/datasets/CERN/ColliderML-Release-1)
 - **Tags**: calorimetry, collider-physics, doi:10.57967/hf/7269, high-energy-physics, jet-tagging, license:cc-by-4.0, machine-learning, modality:timeseries, particle-physics, particle-tracking, physics, region:us, simulation, size_categories:10M<n<100M, task_categories:other, tracking
+
+## builddotai/Egocentric-100K
+- **ID**: hf_ds_6931046ceb0ce6e2002af81b
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/builddotai/Egocentric-100K](https://huggingface.co/datasets/builddotai/Egocentric-100K)
+- **Tags**: egocentric, format:webdataset, library:datasets, library:mlcroissant, library:webdataset, license:apache-2.0, modality:text, modality:video, region:us, robotics, size_categories:1M<n<10M, video
 
 ## tz1002/LLaVA-OneVision-1.5-Mid-Training-85M
 - **ID**: hf_ds_6937cb3e145e00d96aa5338c

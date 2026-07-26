@@ -266,6 +266,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm2_5_350m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm2_5_8b_a1b",
       "match_type": "exact",
       "score": 1.5
@@ -1258,9 +1263,21 @@
       "score": 1.0
     }
   ],
+  "jailbreakbench": [
+    {
+      "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "jailbreaking": [
     {
       "entity_id": "arxiv_2605.07032v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_jailbreakbench_jbb_behaviors",
       "match_type": "exact",
       "score": 2.0
     },
@@ -1271,6 +1288,11 @@
     }
   ],
   "jailbreaks": [
+    {
+      "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 3.5
+    },
     {
       "entity_id": "rss_https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "match_type": "exact",
@@ -3928,6 +3950,13 @@
       "score": 1.0
     }
   ],
+  "jbb": [
+    {
+      "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jbo": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -4680,6 +4709,13 @@
       "score": 1.0
     }
   ],
+  "jesse": [
+    {
+      "entity_id": "dataset_allenai_social_i_qa",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "jessica": [
     {
       "entity_id": "alpaca_4398728949025406403",
@@ -5158,6 +5194,11 @@
     },
     {
       "entity_id": "alpaca_8400930410986596046",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_thesofakillers_jigsaw_toxic_comment_classification_challenge",
       "match_type": "exact",
       "score": 1.0
     }
@@ -7078,12 +7119,22 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_anthropic_economicindex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_antinomyhq_terminal_bench_2_leaderboard_1",
       "match_type": "exact",
       "score": 1.0
     },
     {
       "entity_id": "dataset_antinomyhq_terminal_bench_2_leaderboard_3",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_co_ir_terminal_bench_2_leaderboard",
       "match_type": "exact",
       "score": 1.0
     },
@@ -7626,6 +7677,11 @@
     },
     {
       "entity_id": "dataset_antinomyhq_terminal_bench_2_leaderboard_3",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_co_ir_terminal_bench_2_leaderboard",
       "match_type": "exact",
       "score": 1.0
     },
@@ -18833,6 +18889,11 @@
     },
     {
       "entity_id": "dataset_abisee_cnn_dailymail",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bestwishysh_opens2v_5m",
       "match_type": "exact",
       "score": 1.0
     },

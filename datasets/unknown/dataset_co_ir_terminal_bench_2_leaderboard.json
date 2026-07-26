@@ -1,0 +1,22 @@
+{
+  "_id": "69906d02160d4c693253fdf1",
+  "id": "CO-IR/terminal-bench-2-leaderboard",
+  "author": "CO-IR",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-02-14T12:41:29.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "a247cc8c57d90ea92cdf91e98fe739f281cf2fcd",
+  "description": "\n\t\n\t\t\n\t\tTerminal-Bench 2.0 Leaderboard Submissions\n\t\n\nThis repository accepts leaderboard submissions for Terminal-Bench 2.0.\n\n\t\n\t\t\n\t\tHow to Submit\n\t\n\n\nFork this repository\nCreate a new branch for your submission\nAdd your submission (a job or folder of jobs) under submissions/terminal-bench/2.0/<agent>__<model(s)>/\nOpen a Pull Request\n\n\n\t\n\t\t\n\t\tSubmission Structure\n\t\n\nsubmissions/\n  terminal-bench/\n    2.0/\n      <agent>__<model>/\n        metadata.yaml       # Required: agent and model info… See the full description on the dataset page: https://huggingface.co/datasets/CO-IR/terminal-bench-2-leaderboard.",
+  "downloads": 23459,
+  "tags": [
+    "license:apache-2.0",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2026-02-14T12:39:30.000Z",
+  "key": "",
+  "unique_id": "dataset_co_ir_terminal_bench_2_leaderboard",
+  "schema_version": "1.0"
+}

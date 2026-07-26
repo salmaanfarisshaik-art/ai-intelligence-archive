@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T06:36:33Z",
+  "generated_at": "2026-07-26T09:13:15Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -469,6 +469,11 @@
     {
       "source_id": "model_antirez_deepseek_v4_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_anton_hugging_timeomni_1_7b",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
       "type": "derived_from"
     },
     {
@@ -2264,6 +2269,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_350m",
       "target_id": "hf_LiquidAI_LFM2.5-350M-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm2_5_350m_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-350M",
       "type": "derived_from"
     },
     {
@@ -4697,6 +4707,46 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_PHBJT_cml-tts-filtered",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_facebook_multilingual_librispeech",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_parler-tts_libritts-r-filtered-speaker-descriptions",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_parler-tts_libritts_r_filtered",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_parler-tts_mls-eng-speaker-descriptions",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_parler-tts_mls_eng",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_ylacombe_cml-tts-filtered-annotated",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_parler_tts_parler_tts_mini_multilingual_v1_1",
+      "target_id": "hf_ylacombe_mls-annotated",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_pbatra_deepseek_r1_distill_qwen_14b_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-14B",
       "type": "derived_from"
@@ -4774,6 +4824,11 @@
     {
       "source_id": "model_poolside_laguna_s_2_1_nvfp4",
       "target_id": "hf_poolside_Laguna-S-2.1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_poolside_laguna_xs_2_1_gguf",
+      "target_id": "hf_poolside_Laguna-XS-2.1",
       "type": "derived_from"
     },
     {
@@ -5029,6 +5084,11 @@
     {
       "source_id": "model_qwen_qwen2_5_coder_0_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-Coder-0.5B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_qwen_qwen2_5_coder_14b",
+      "target_id": "hf_Qwen_Qwen2.5-14B",
       "type": "derived_from"
     },
     {
@@ -5882,6 +5942,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_t_tech_t_lite_it_2_1",
+      "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tartunlp_llammas_base_p1_gpt_4o_human_error_mix_paragraph_gec",
       "target_id": "hf_tartuNLP_Llammas-base",
       "type": "derived_from"
@@ -6724,6 +6789,11 @@
     {
       "source_id": "model_vcruz305_hy3_gguf",
       "target_id": "hf_tencent_Hy3",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf",
+      "target_id": "hf_AEON-7_Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16",
       "type": "derived_from"
     },
     {
