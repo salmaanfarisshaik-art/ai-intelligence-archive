@@ -1060,6 +1060,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "hf_ds_678fa21dec882f210c23b7b6",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-3346520008023104796",
       "match_type": "exact",
       "score": 1.0
@@ -1215,6 +1220,11 @@
     },
     {
       "entity_id": "alpaca_7209025037742167093",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bigcode_starcoderdata",
       "match_type": "exact",
       "score": 1.0
     },
@@ -1644,6 +1654,13 @@
       "entity_id": "alpaca_485330422283517645",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "88b": [
+    {
+      "entity_id": "model_nvidia_gpt_oss_puzzle_88b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "89": [
@@ -3158,6 +3175,11 @@
     }
   ],
   "8k": [
+    {
+      "entity_id": "dataset_allenai_dolma3_longmino_mix_100b_1125",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "hf_nvidia_Nemotron-H-8B-Base-8K",
       "match_type": "exact",

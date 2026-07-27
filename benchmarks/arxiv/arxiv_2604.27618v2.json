@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.27618v2",
+  "schema_version": "1.0",
+  "name": "Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.27618v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.27618v2",
+    "updated": "2026-07-24T16:21:41Z",
+    "published": "2026-04-30T09:08:58Z",
+    "title": "Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs",
+    "summary": "Understanding the impact of large language models (LLMs) on mathematics education requires data on LLMs' mathematical performance and biases. To this end, we introduce Math Education Digital Shadows (MEDS), a dataset mapping how LLMs reason about mathematics across human- and AI-like personifications. MEDS comprises 28,000 runs from 14 LLMs (i.e., Mistral, Qwen, DeepSeek, IBM Granite, Microsoft Phi, and xAI Grok) generated under human-shadow and AI-assistant conditions. Each record (digital shadow) includes a set of prompts; psychological and sociodemographic metadata; and four mathematics tasks: (i) interviews about relationships with mathematics, (ii) three psychometric questionnaires on mathematics self-efficacy and anxiety, (iii) one cognitive network capturing attitudes towards mathematics, and (iv) 18 high-school mathematics quiz items enriched with reasoning explanations and confidence scores. Analyses of the data show that LLMs exhibit differences in attitudes and performance across human-shadow and AI-assistant modes, including human-like negative attitudes towards mathematics, logical fallacies, and overconfidence in mathematics. As a data resource, MEDS can benefit learning scientists and developers of safer AI tutors in mathematics.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T16:21:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.27618v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ef06094f8f0084d0780f5e8258f1b25e58e32b3a",
   "description": "This is data is derived from the Codeparrot Dataset by taking the first 10GB of text from each language, and splitting it into individual configs. This results in a download size of about 3GB per language.\nSample usage:\nfrom datasets import load_dataset\ndataset = load_dataset(\"ruediste/codeparrot-github-code-10G\", \"java\")\n\nList of Languages:\nlanguages = {\n    'HTML': 'html',\n    'Java': 'java',\n    'JavaScript': 'js',\n    'CSS': 'css',\n    'C#': 'cs',\n    'TypeScript': 'ts',\n    \"Batchfile\":… See the full description on the dataset page: https://huggingface.co/datasets/ruediste/codeparrot-github-code-10G.",
-  "downloads": 26430,
+  "downloads": 26151,
   "tags": [
     "size_categories:10M<n<100M",
     "format:parquet",

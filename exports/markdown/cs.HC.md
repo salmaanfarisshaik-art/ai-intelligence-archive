@@ -20,3 +20,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20382v1](http://arxiv.org/abs/2607.20382v1)
 
+## Unboxing Diffusion Models for the Arts: Interactive Model Bending and Practice-Based Explainability
+- **ID**: arxiv_2607.22428v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22428v1](http://arxiv.org/abs/2607.22428v1)
+
+## Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+- **ID**: arxiv_2607.22463v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22463v1](http://arxiv.org/abs/2607.22463v1)
+

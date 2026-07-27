@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9508c74bb202fa7d7ab6a9c329dd66d7ecca970e",
   "description": "\n\t\n\t\t\n\t\tSummary | 摘要\n\t\n\nThis dataset is collected from the AVQA training subset (train_qa.json). We converted the data to the R1-AQA format, where each line in the text file represents a JSON object with specific keys. \nThe AVQA training set originally consists of approximately 40k samples. However, we use only about 38k samples because some data sources have become invalid (e.g. link failure, or less than 10 seconds).\nGiven that there is no quick link to the audio mentioned in the above two… See the full description on the dataset page: https://huggingface.co/datasets/Joysw909/AVQA.",
-  "downloads": 24932,
+  "downloads": 24941,
   "tags": [
     "task_categories:question-answering",
     "task_ids:multiple-choice-qa",

@@ -70,3 +70,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21530v1](http://arxiv.org/abs/2607.21530v1)
 
+## MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation
+- **ID**: arxiv_2607.22471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22471v1](http://arxiv.org/abs/2607.22471v1)
+

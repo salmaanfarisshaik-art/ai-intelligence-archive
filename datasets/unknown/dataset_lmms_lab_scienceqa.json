@@ -1,0 +1,28 @@
+{
+  "_id": "65b846a0e0bde92c17578988",
+  "id": "lmms-lab/ScienceQA",
+  "author": "lmms-lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-03-08T04:54:57.000Z",
+  "likes": 10,
+  "private": false,
+  "sha": "69dd4d6b67373d38f96a5badd5d24d0eb5bcdc50",
+  "description": "\n\n\n\n\n\t\n\t\t\n\t\tLarge-scale Multi-modality Models Evaluation Suite\n\t\n\n\nAccelerating the development of large-scale multi-modality models (LMMs) with lmms-eval\n\n🏠 Homepage | 📚 Documentation | 🤗 Huggingface Datasets\n\n\t\n\t\t\n\t\n\t\n\t\tThis Dataset\n\t\n\nThis is a formatted version of derek-thomas/ScienceQA. It is used in our lmms-eval pipeline to allow for one-click evaluations of large multi-modality models.\n@inproceedings{lu2022learn,\n    title={Learn to Explain: Multimodal Reasoning via Thought Chains… See the full description on the dataset page: https://huggingface.co/datasets/lmms-lab/ScienceQA.",
+  "downloads": 23321,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-01-30T00:45:20.000Z",
+  "key": "",
+  "unique_id": "dataset_lmms_lab_scienceqa",
+  "schema_version": "1.0"
+}

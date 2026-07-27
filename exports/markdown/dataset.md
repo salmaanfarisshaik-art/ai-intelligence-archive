@@ -340,6 +340,12 @@
 - **URL**: [https://huggingface.co/datasets/qqjz/VoxEval](https://huggingface.co/datasets/qqjz/VoxEval)
 - **Tags**: arxiv:2410.03751, arxiv:2501.04962, license:cc-by-4.0, modality:audio, region:us
 
+## meihualuomanxueshan/Processed_interiorverse_85
+- **ID**: hf_ds_678fa21dec882f210c23b7b6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/meihualuomanxueshan/Processed_interiorverse_85](https://huggingface.co/datasets/meihualuomanxueshan/Processed_interiorverse_85)
+- **Tags**: license:mit, region:us
+
 ## agents-course/course-images
 - **ID**: hf_ds_679255cc5a8e868cbe62569f
 - **Source**: HuggingFace Datasets
@@ -411,6 +417,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/updatebao/geonamebase_1](https://huggingface.co/datasets/updatebao/geonamebase_1)
 - **Tags**: modality:image, region:us
+
+## ZTWHHH/envs_1
+- **ID**: hf_ds_68020294df94b88d36e6140c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ZTWHHH/envs_1](https://huggingface.co/datasets/ZTWHHH/envs_1)
+- **Tags**: region:us
 
 ## mamed0v/TurkmenSpeech
 - **ID**: hf_ds_6804d9b810dede0a63020b0a
@@ -705,6 +717,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data)
 - **Tags**: region:us
+
+## annoymous-1/CC-Bench
+- **ID**: hf_ds_69f7105853a9164999100b0b
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/annoymous-1/CC-Bench](https://huggingface.co/datasets/annoymous-1/CC-Bench)
+- **Tags**: anomaly-detection, format:json, industrial, library:datasets, library:mlcroissant, library:pandas, library:polars, license:other, medical, modality:image, modality:text, multimodal, region:us, size_categories:1K<n<10K, task_categories:image-classification, task_categories:visual-question-answering
 
 ## stanford-vision-lab/gpic
 - **ID**: hf_ds_69f7b3cc62d65c8f39fe7270

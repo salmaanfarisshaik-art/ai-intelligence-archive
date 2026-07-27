@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.13899v2",
+  "schema_version": "1.0",
+  "name": "CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.13899v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.13899v2",
+    "updated": "2026-07-24T17:23:12Z",
+    "published": "2025-08-19T15:02:27Z",
+    "title": "CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication",
+    "summary": "Accurate ultrasound image segmentation is fundamentally challenged by target-context entanglement, where lesion cues are easily mixed with surrounding tissues and artifacts of similar appearance. Although existing methods often localize suspicious regions reasonably well, they remain vulnerable to ambiguous predictions because they mainly strengthen feature extraction or context aggregation, rather than explicitly organizing how lesion and interference cues are represented and distinguished. To address this limitation, we propose Channel-Aware Region Extrication (CARE), a segmentation framework that improves ultrasound segmentation by progressively extricating lesion evidence from visually entangled context. Instead of merely reweighting features, CARE explicitly separates encoded responses according to their lesion relevance and then re-evaluates the resulting complementary representations through reciprocal region interaction, so that suppressed lesion cues can be recovered while misleading contextual activations are corrected. In this way, CARE promotes target-context discrimination directly in the learned representation, without sacrificing localization quality. Extensive experiments on BUSI, BUSIS, and TN3K benchmarks show that CARE consistently achieves superior performance, thereby validating representation extrication as an effective solution for addressing the inherent visual ambiguity in ultrasound segmentation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T17:23:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.13899v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

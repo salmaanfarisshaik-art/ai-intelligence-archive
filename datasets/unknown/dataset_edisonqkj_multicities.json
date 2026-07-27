@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c374f52cb3d0326ab20e987f5bf0792a81a5c864",
   "description": "\n\t\n\t\t\n\t\tMultiCities\n\t\n\nThis dataset contains downloaded street-view and satellite image folders for the\nMultiCities project.\nCurrent local upload includes:\n\nAmsterdam\nMumbai\nNewYork\nSaoPaulo\nSydney\n\nEach city may contain:\n\nstreetview/*.jpg: Google Street View panorama images\nsatellite/*.jpg: Mapbox satellite tiles\nmetadata.csv: paired records for valid downloaded street-view and satellite images\n\nThe dataset is still in progress. Use metadata.csv for each city when selecting\nvalid… See the full description on the dataset page: https://huggingface.co/datasets/edisonqkj/MultiCities.",
-  "downloads": 87359,
+  "downloads": 85906,
   "tags": [
     "task_categories:image-to-image",
     "license:other",

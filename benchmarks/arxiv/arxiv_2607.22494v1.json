@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22494v1",
+  "schema_version": "1.0",
+  "name": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22494v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MM",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22494v1",
+    "updated": "2026-07-24T17:06:05Z",
+    "published": "2026-07-24T17:06:05Z",
+    "title": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
+    "summary": "Collision anticipation in autonomous driving requires not only accurate early warnings but also interpretable reasoning about what risk factors are being tracked and how risk evolves over time. Existing methods fall short in this regard: feature-driven models are opaque, post-hoc explanations often lack fidelity, and concept-based methods are mostly designed for static recognition rather than dynamic driving scenes. We propose CARA (Concept-Aware Risk Attention), an intrinsically interpretable spatio-temporal framework for collision anticipation. CARA derives domain-grounded risk concepts from accident narratives, aligns them with video frames via vision-language similarity, and organizes them into evolving concept trajectories. These trajectories provide explicit risk evidence that guides spatial attention, temporal attention, and anticipation, allowing semantic concepts to directly influence both where the model attends and how it predicts risk over time. By treating semantic risk factors as dynamic intermediate evidence rather than auxiliary post-hoc explanations, CARA tightly couples interpretability with the predictive process. Extensive experiments on three benchmarks show that CARA consistently improves anticipation accuracy and warning earliness over strong baselines, while providing sparse and semantically grounded concept evidence.",
+    "primary_category": "cs.MM"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T17:06:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22494v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

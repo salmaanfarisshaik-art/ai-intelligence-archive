@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.07025v2",
+  "schema_version": "1.0",
+  "name": "Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.07025v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.07025v2",
+    "updated": "2026-07-24T15:35:47Z",
+    "published": "2026-03-07T04:09:47Z",
+    "title": "Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision",
+    "summary": "Speech Large Language Models (LLMs) that understand and follow instructions in many languages are useful for real-world interaction, but are difficult to train with supervised fine-tuning, requiring large, task-specific speech corpora. While recent distillation-based approaches train performant English-only Speech LLMs using only annotated ASR data by aligning text and speech using only a lightweight projector, these models under-perform when scaled to multilingual settings due to language interference in the shared projector. We address this by introducing language-aware distillation using a query bank and a gating network that selects or mixes query tokens using a Q-Former projector. Our approach shows gains of 14% over matched multilingual distillation baselines on instruction following. We further synthesize Audio-MLQA, a multilingual spoken QA benchmark built on MLQA with high-quality TTS questions. Our best model improves over existing Speech LLM baselines by 32% on Audio-MLQA.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T15:35:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.07025v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

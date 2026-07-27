@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6d549d883b2b4a7e323e8786596277e876c01052",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t[ICLR 2026] [DCASE 2026 Training Set] AudioMCQ-StrongAC-GeminiCoT\n\t\n\n\n\n\n\n\n\n\nThis dataset is a highly curated subset of the AudioMCQ dataset, containing samples with native Chain-of-Thought (CoT) reasoning from Gemini 3.1 Pro that were answered correctly.\n\nNote: The native CoT reasoning has been summarized by Gemini's internal algorithm before output, yet still retains rich audio details including timestamps, acoustic descriptions, and step-by-step temporal analysis.\n\n🏆 DCASE 2026… See the full description on the dataset page: https://huggingface.co/datasets/Harland/AudioMCQ-StrongAC-GeminiCoT.",
-  "downloads": 65389,
+  "downloads": 53305,
   "tags": [
     "license:apache-2.0",
     "size_categories:10K<n<100K",

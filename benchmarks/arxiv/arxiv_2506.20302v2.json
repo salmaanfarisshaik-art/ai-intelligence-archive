@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.20302v2",
+  "schema_version": "1.0",
+  "name": "TDiR: Transformer based Diffusion for Image Restoration Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.20302v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.20302v2",
+    "updated": "2026-07-24T16:56:49Z",
+    "published": "2025-06-25T10:28:13Z",
+    "title": "TDiR: Transformer based Diffusion for Image Restoration Tasks",
+    "summary": "Images captured in challenging environments often experience various types of degradation, such as noise, color cast, blur, and light scattering. These issues significantly lower image quality, thereby reducing their usefulness in downstream tasks such as object detection, mapping, and classification. Our transformer-based diffusion model was developed to address image restoration challenges and enhance the quality of degraded images. Our methodology is assessed across three primary image restoration tasks, including underwater enhancement, denoising, and deraining, utilizing five standard benchmarks. It is then compared to 18 state-of-the-art techniques, employing four evaluation metrics. Our results show that the diffusion model, combined with transformers, outperforms current methods. The findings highlight the effectiveness of diffusion models and transformers in improving degraded image quality, thereby broadening their application in downstream tasks that demand high-fidelity visual data",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T16:56:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.20302v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

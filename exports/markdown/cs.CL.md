@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
 
+## Learning to Reason for Factuality
+- **ID**: arxiv_2508.05618v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.05618v2](http://arxiv.org/abs/2508.05618v2)
+
 ## Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
 - **ID**: arxiv_2509.25045v3
 - **Source**: ArXiv
@@ -44,6 +49,11 @@
 - **ID**: arxiv_2602.05493v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05493v2](http://arxiv.org/abs/2602.05493v2)
+
+## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
+- **ID**: arxiv_2603.07025v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.07025v2](http://arxiv.org/abs/2603.07025v2)
 
 ## PlotTwist: A Creative Plot Generation Framework with Small Language Models
 - **ID**: arxiv_2603.16410v2
@@ -609,4 +619,14 @@
 - **ID**: arxiv_2607.21574v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21574v1](http://arxiv.org/abs/2607.21574v1)
+
+## grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP
+- **ID**: arxiv_2607.22456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22456v1](http://arxiv.org/abs/2607.22456v1)
+
+## Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills
+- **ID**: arxiv_2607.22529v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22529v1](http://arxiv.org/abs/2607.22529v1)
 

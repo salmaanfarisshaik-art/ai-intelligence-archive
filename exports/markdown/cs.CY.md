@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19292v1](http://arxiv.org/abs/2607.19292v1)
 
+## Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science
+- **ID**: arxiv_2607.22513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22513v1](http://arxiv.org/abs/2607.22513v1)
+

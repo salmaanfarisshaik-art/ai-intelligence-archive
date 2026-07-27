@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2410.00713v5",
+  "schema_version": "1.0",
+  "name": "RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2410.00713v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2410.00713v5",
+    "updated": "2026-07-24T16:23:31Z",
+    "published": "2024-10-01T14:05:35Z",
+    "title": "RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations",
+    "summary": "Anomaly detection is essential for robotic perception and industrial inspection, yet most benchmarks are collected under controlled conditions with fixed viewpoints and stable illumination. These settings do not reflect robotic deployment, where camera pose, lighting, and surface reflectance vary continuously. We present RAD (Realistic Anomaly Detection), a robot-captured multi-view benchmark for pose-agnostic anomaly detection. RAD contains 5,848 RGB images from 13 everyday object categories, captured from 68 viewpoints per object with a Franka robotic arm and an RGB-D camera under uncontrolled lighting. The dataset covers four realistic defect types: scratched, missing, stained, and squeezed, with pixel-level annotations for localization. We benchmark representative 2D feature-based methods, 3D reconstruction pipelines, and vision-language models under a realistic setting in which test poses are unknown. Results show a clear gap between performance on conventional benchmarks and performance on RAD. Strong 2D feature-embedding methods remain the most reliable at image-level detection, whereas 3D approaches are more competitive for pixel-level localization but remain vulnerable to reflective materials, geometric symmetry, and sparse viewpoint coverage. Vision-language models perform poorly in both classification and localization. RAD provides a challenging testbed for robust robotic inspection and highlights open problems in jointly modeling appearance, geometry, and viewpoint uncertainty. Our website and code are available at https://chang-xinhai.github.io/rad-website/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T16:23:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2410.00713v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

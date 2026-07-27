@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22400v1",
+  "schema_version": "1.0",
+  "name": "A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22400v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.NI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22400v1",
+    "updated": "2026-07-24T15:21:54Z",
+    "published": "2026-07-24T15:21:54Z",
+    "title": "A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation",
+    "summary": "Large Language Models (LLMs) are increasingly deployed as autonomous agents, transitioning from static conversational interfaces to dynamic systems capable of complex reasoning, tool execution, and decision-making. However, the operational reliability of these agentic AI systems is fundamentally challenged by the absence of reliable ground truth in open-ended environments and the risk of increasing operational drift over time. To address this challenge, we propose and experimentally evaluate an agentic AI framework, designed to enforce autonomous integrity within LLM-driven systems. We design a self-calibration mechanism that mitigates drift and dynamically approximates ground truth by incorporating an ARIMA forecaster, without requiring continuous human oversight. To demonstrate the effectiveness and reliability of our methodology, we apply it to the complex domain of profiling the resource usage of zero-knowledge workloads in edge computing networks. Experimental results show that the proposed self-calibrating agentic framework successfully profiles the zero-knowledge workloads, achieving a higher accuracy than baseline LLM agents by 91.7% for resource usage prediction and improving the prediction speed by 71.7% compared to pure profiling, establishing a robust foundation for deploying autonomous AI in decentralized infrastructures. Furthermore, the ground truth generation using the proposed ARIMA leaping algorithm is 52% faster than a standard ARIMA forecasting algorithm, while achieving the same accuracy.",
+    "primary_category": "cs.NI"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T15:21:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22400v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

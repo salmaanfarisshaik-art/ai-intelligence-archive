@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18181v1](http://arxiv.org/abs/2606.18181v1)
 
+## RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation
+- **ID**: arxiv_2606.18379v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18379v4](http://arxiv.org/abs/2606.18379v4)
+
 ## Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
 - **ID**: arxiv_2606.20554v1
 - **Source**: ArXiv

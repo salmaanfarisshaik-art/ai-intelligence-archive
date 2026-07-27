@@ -1870,6 +1870,11 @@
       "entity_id": "dataset_deepauto_ai_macrolens",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_natgillin_translations_raw",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "310": [
@@ -2782,6 +2787,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_allenai_dolma3_longmino_mix_100b_1125",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_dolma3_mix_6t",
       "match_type": "exact",
       "score": 1.0
@@ -2812,9 +2822,19 @@
       "entity_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_bigcode_starcoderdata",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "32k": [
+    {
+      "entity_id": "dataset_allenai_dolma3_longmino_mix_100b_1125",
+      "match_type": "exact",
+      "score": 6.0
+    },
     {
       "entity_id": "hf_MaziyarPanahi_Llama-3-8B-Instruct-32k-v0.1-GGUF",
       "match_type": "exact",
@@ -3897,6 +3917,11 @@
       "entity_id": "model_z_lab_qwen3_6_35b_a3b_dflash",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "model_mannix_ita_qwen3_6_27b_a3b_coder_mtp_gguf",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "hf_hesamation_Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
@@ -5246,6 +5271,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_unsloth_qwen2_5_3b_instruct",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_unsloth_qwen2_5_3b_instruct_bnb_4bit",
       "match_type": "exact",
       "score": 5.0
@@ -5720,6 +5750,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "arxiv_2512.15423v2",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "arxiv_2606.18250v1",
       "match_type": "exact",
       "score": 4.0
@@ -5991,6 +6026,11 @@
     },
     {
       "entity_id": "arxiv_2607.21595v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2607.22393v1",
       "match_type": "exact",
       "score": 2.0
     },

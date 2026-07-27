@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b7d1f98880d9512f68d2aaa43c00ea82792aad70",
   "description": "\n\t\n\t\t\n\t\tAMT-FLOW-3D\n\t\n\nThis dataset consists of LPBF (Laser Powder Bed Fusion) melt pool simulations performed using FLOW-3D. Each row is one timestep from one simulation case, containing process parameters, mesh metadata, a per-timestep field volume, and image previews.\n\n\n\t\n\t\t\n\t\tDataset Configs\n\t\n\nLoad a specific field config:\nfrom datasets import load_dataset\n\nds = load_dataset(\"ppak10/AMT-FLOW-3D\", \"temperature\")\n\nAvailable configs:\n\n\t\n\t\t\nConfig\nVolume Shape\nDescription\n\n\n\t\t\ntemperature\n(50… See the full description on the dataset page: https://huggingface.co/datasets/ppak10/AMT-FLOW-3D.",
-  "downloads": 28168,
+  "downloads": 27330,
   "tags": [
     "modality:image",
     "region:us"

@@ -20,9 +20,12 @@
 | [Learning Adaptive Safety Margins for Visual Navigation](http://arxiv.org/abs/2607.18200v1) | ArXiv |  | 1 |
 | [Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis](http://arxiv.org/abs/2604.01463v2) | ArXiv |  | 1 |
 | [Mana: Dexterous Manipulation of Articulated Tools](http://arxiv.org/abs/2606.13677v1) | ArXiv |  | 1 |
+| [OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation](http://arxiv.org/abs/2601.12291v2) | ArXiv |  | 1 |
 | [Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models](http://arxiv.org/abs/2606.17846v2) | ArXiv |  | 1 |
 | [Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System](http://arxiv.org/abs/2606.18112v2) | ArXiv |  | 1 |
 | [R2RDreamer: 3D-aware Data Augmentation for Spatially-generalized 2D Manipulation Policies](http://arxiv.org/abs/2606.17040v1) | ArXiv |  | 1 |
+| [Robot Learning to Communicate through Projected Visual Abstractions](http://arxiv.org/abs/2607.22434v1) | ArXiv |  | 1 |
+| [Robot-Factored World Models via Robot Rendering](http://arxiv.org/abs/2607.22535v1) | ArXiv |  | 1 |
 | [RoboTTT: Context Scaling for Robot Policies](http://arxiv.org/abs/2607.15275v1) | ArXiv |  | 1 |
 | [Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation](http://arxiv.org/abs/2607.21582v1) | ArXiv |  | 1 |
 | [Seeing Through Occlusion: Deterministic Arm Kinematic Correction for Robot Teleoperation](http://arxiv.org/abs/2606.19240v1) | ArXiv |  | 1 |

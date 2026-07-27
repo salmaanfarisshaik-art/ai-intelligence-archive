@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15196v1](http://arxiv.org/abs/2607.15196v1)
 
+## CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference
+- **ID**: arxiv_2607.22511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22511v1](http://arxiv.org/abs/2607.22511v1)
+

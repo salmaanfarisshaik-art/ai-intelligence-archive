@@ -1,0 +1,29 @@
+{
+  "_id": "69cec888d6ad2ec885b60a97",
+  "id": "lmarena-ai/leaderboard-dataset",
+  "author": "lmarena-ai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-25T03:01:33.000Z",
+  "likes": 22,
+  "private": false,
+  "sha": "fb100fd1a48607efb93e28ba6610b641a7ac1bce",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
+  "downloads": 25280,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-04-02T19:50:32.000Z",
+  "key": "",
+  "unique_id": "dataset_lmarena_ai_leaderboard_dataset",
+  "schema_version": "1.0"
+}

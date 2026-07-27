@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22393v1",
+  "schema_version": "1.0",
+  "name": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22393v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22393v1",
+    "updated": "2026-07-24T15:16:47Z",
+    "published": "2026-07-24T15:16:47Z",
+    "title": "SceneActBench: Can Agents Act on the 3D Scenes They See?",
+    "summary": "Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a benchmark for visually conditioned action across five 3D tasks under a unified agent-environment loop. Given PNG images or sampled video frames and, where applicable, supplied 3D assets, an agent acts on a 3D environment. We evaluate each final output against hidden ground truth with task-specific geometric metrics. SceneActBench comprises five tasks built from 210 source instances, yielding 520 task cases including paired input conditions. Every task runs through one fixed agent loop to keep the comparison fair. Across eleven proprietary VLM configurations, Overall scores span 38.6-50.2, and none performs consistently well across tasks. We further analyse where and how failures manifest.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T15:16:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22393v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

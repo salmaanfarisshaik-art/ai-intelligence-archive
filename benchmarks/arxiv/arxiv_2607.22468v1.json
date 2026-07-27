@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22468v1",
+  "schema_version": "1.0",
+  "name": "Learning to Prepare Molecular Ground States with Transformer Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22468v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22468v1",
+    "updated": "2026-07-24T16:32:40Z",
+    "published": "2026-07-24T16:32:40Z",
+    "title": "Learning to Prepare Molecular Ground States with Transformer Models",
+    "summary": "Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development. Here, we introduce ADAPT-GQE, a generative AI framework that learns to synthesize ground-state preparation circuits for electronic structure calculations. We first use ADAPT-VQE to generate high-quality reference circuits, which are then used as targets for training models for circuit generation. Once trained, the model can efficiently propose and score circuits, enabling reinforcement learning (RL) to drive circuit generation accuracy beyond the accuracy of the ADAPT-VQE training data. This pipeline achieves order-of-magnitude reductions in circuit generation time relative to ADAPT-VQE while maintaining comparable or improved state-preparation accuracy. We demonstrate ADAPT-GQE on imipramine, a well-established tricyclic antidepressant that serves as a representative, challenging target for computational modelling in drug stability protocols. We execute generated circuits on Quantinuum Helios-1, representing a milestone for AI-generated quantum chemistry circuits on state-of-the-art quantum hardware. These results establish a pathway toward automated quantum circuit synthesis for utility-scale quantum computational chemistry.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T16:32:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22468v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

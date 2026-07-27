@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.05618v2",
+  "schema_version": "1.0",
+  "name": "Learning to Reason for Factuality",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.05618v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.05618v2",
+    "updated": "2026-07-24T17:52:39Z",
+    "published": "2025-08-07T17:57:09Z",
+    "title": "Learning to Reason for Factuality",
+    "summary": "Reasoning Large Language Models (R-LLMs) have significantly advanced complex reasoning tasks but often struggle with factuality, generating substantially more hallucinations than their non-reasoning counterparts on long-form factuality benchmarks. However, extending online Reinforcement Learning (RL), a key component in recent R-LLM advancements, to the long-form factuality setting poses several unique challenges due to the lack of reliable verification methods. Previous work has utilized automatic factuality evaluation frameworks such as FActScore to curate preference data in the offline RL setting, yet we find that directly leveraging such methods as the reward in online RL leads to reward hacking in multiple ways, such as producing less detailed or relevant responses. We propose a novel reward function that simultaneously considers the factual precision, response detail level, and answer relevance, and applies online RL to learn high quality factual reasoning. Evaluated on six long-form factuality benchmarks, our factual reasoning model achieves an average reduction of 23.1 percentage points in hallucination rate, a 23% increase in answer detail level, and no degradation in the overall response helpfulness.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T17:52:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.05618v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

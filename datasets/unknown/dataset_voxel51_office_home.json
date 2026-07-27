@@ -9,7 +9,7 @@
   "private": false,
   "sha": "abe52f3c0a0bb57bbc6b4965d16a1c422b6dfedc",
   "description": "\n\t\n\t\t\n\t\tDataset Card for Office-Home\n\t\n\n\n\n\n\n\n\nThis is a FiftyOne dataset with 15588 samples.\n\n\t\n\t\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = fouh.load_from_hub(\"Voxel51/Office-Home\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Details… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/Office-Home.",
-  "downloads": 57043,
+  "downloads": 56664,
   "tags": [
     "task_categories:image-classification",
     "language:en",

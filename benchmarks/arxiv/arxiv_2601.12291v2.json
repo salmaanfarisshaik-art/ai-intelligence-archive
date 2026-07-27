@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.12291v2",
+  "schema_version": "1.0",
+  "name": "OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.12291v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.12291v2",
+    "updated": "2026-07-24T17:01:57Z",
+    "published": "2026-01-18T07:24:46Z",
+    "title": "OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation",
+    "summary": "Scalable and maintainable maps are fundamental to large-scale navigation and the long-term deployment of robots in real-world environments. However, conventional maps that explicitly maintain dense geometry or 3D landmarks incur high storage and maintenance costs, while the core challenge of scaling to multi-session mapping is visual localization under sparse viewpoint overlap, temporal appearance shifts, and cross-device variance. To address this, we propose OpenNavMap, a lightweight, landmark-free topometric mapping system that organizes image nodes into covisibility, odometry, and traversability graphs and delegates local geometry recovery to 3D geometric foundation models (GFMs) on demand. For localization, dynamic-programming-based sequence matching narrows candidate correspondences for a GFM, reducing global estimation to a lightweight, pose-only optimization; for mapping, a lifelong pipeline fuses multi-session, multi-device data via cross-device merging and node culling. On a 19km dataset across four real-world environments, \\methodname attains a state-of-the-art $0.62$m translation error on the Map-Free benchmark, bounds the absolute trajectory error below $3$m across 15.7km without depth sensors, and completes $12$ autonomous image-goal visual navigation tasks on both simulated and physical robots. Code and datasets will be made publicly available at https://rpl-cs-ucl.github.io/OpenNavMap_page.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T17:01:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.12291v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -936,6 +936,10 @@
 - **ID**: model_droplychee_core_droplychee_1_0_27b
 - **Source**: 
 
+## droplychee/droplychee-1.0-27b
+- **ID**: model_droplychee_droplychee_1_0_27b
+- **Source**: 
+
 ## DuoNeural/Gemma4-12B-IT-Abliterated-GGUF
 - **ID**: model_duoneural_gemma4_12b_it_abliterated_gguf
 - **Source**: 

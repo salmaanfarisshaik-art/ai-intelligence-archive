@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.18934v2](http://arxiv.org/abs/2505.18934v2)
 
+## Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning
+- **ID**: arxiv_2507.01551v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.01551v3](http://arxiv.org/abs/2507.01551v3)
+
 ## Model Collapse Is Not a Bug but a Feature in Machine Unlearning for LLMs
 - **ID**: arxiv_2507.04219v5
 - **Source**: ArXiv
@@ -85,6 +90,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
 
+## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
+- **ID**: arxiv_2605.22142v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.22142v3](http://arxiv.org/abs/2605.22142v3)
+
 ## Transformer Field Theory: A Response-Theoretic Approach to Mechanistic Interpretability
 - **ID**: arxiv_2605.25225v2
 - **Source**: ArXiv
@@ -94,6 +104,11 @@
 - **ID**: arxiv_2606.02133v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02133v3](http://arxiv.org/abs/2606.02133v3)
+
+## Pretraining Recurrent Networks without Recurrence
+- **ID**: arxiv_2606.06479v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06479v2](http://arxiv.org/abs/2606.06479v2)
 
 ## Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
 - **ID**: arxiv_2606.13571v1
@@ -305,6 +320,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18198v1](http://arxiv.org/abs/2607.18198v1)
 
+## Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning
+- **ID**: arxiv_2607.18722v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18722v3](http://arxiv.org/abs/2607.18722v3)
+
 ## Benchmarking Generalization in Financial Statement Fraud Detection: robust evaluation and novel tasks
 - **ID**: arxiv_2607.19259v1
 - **Source**: ArXiv
@@ -379,4 +399,19 @@
 - **ID**: arxiv_2607.21573v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21573v1](http://arxiv.org/abs/2607.21573v1)
+
+## Hyperball May Not Be a Free Lunch
+- **ID**: arxiv_2607.22444v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22444v1](http://arxiv.org/abs/2607.22444v1)
+
+## Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining
+- **ID**: arxiv_2607.22458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22458v1](http://arxiv.org/abs/2607.22458v1)
+
+## \k{appa}-LoRA: Condition Numbers Reveal Which LoRA Matrices Worth Updating
+- **ID**: arxiv_2607.22489v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22489v1](http://arxiv.org/abs/2607.22489v1)
 

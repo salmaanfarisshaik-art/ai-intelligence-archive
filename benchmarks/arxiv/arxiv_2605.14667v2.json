@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.14667v2",
+  "schema_version": "1.0",
+  "name": "A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.14667v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.14667v2",
+    "updated": "2026-07-24T17:15:49Z",
+    "published": "2026-05-14T10:24:14Z",
+    "title": "A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters",
+    "summary": "A main barrier for the deployment of AI radiomic systems in clinical routine is their drop in performance under heterogeneous multicentre acquisition protocols. This work presents a performance-oriented framework for quantifying scan parameter sensitivity of radiomic AI models, while identifying clinically significant parameter regions associated with improved cross-dataset robustness. Mixed-effects modelling in combination with a hierarchical Pareto-based strategy is used to quantify the influence of acquisition parameters and select critical values associated to low performance of predictive models. We apply our framework to lung cancer diagnosis in CT scans using two independent multicentre datasets (a public dataset and own-collected private data) and several state-of-the-art architectures. To evaluate transferability of results, CT parameters were selected using the private data and validated on the public set. With the selected configurations, validation in low performance conditions has 0.72 ([0.59,0.86], 95% CI) accuracy and 0.71 ([0.58, 0. 84], 95% CI) F1Score, while in high performance ones, we obtain 0.88 ([0.7, 1.0], 95% CI) accuracy with 0.87 ([0.69, 1.0], 95% CI) F1Score.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T17:15:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.14667v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

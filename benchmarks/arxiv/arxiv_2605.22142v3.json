@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.22142v3",
+  "schema_version": "1.0",
+  "name": "Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.22142v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.22142v3",
+    "updated": "2026-07-24T15:40:27Z",
+    "published": "2026-05-21T08:14:36Z",
+    "title": "Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability",
+    "summary": "Reinforcement learning under partial observability requires deciding what information to retain, yet most memory-based approaches do not explicitly model short-term-to-long-term transfer of symbolic observations. We study this transfer process in a temporal knowledge-graph memory setting and cast it as a neuro-symbolic value-based decision problem: for each observed triple, the agent chooses whether to keep or drop it before long-term insertion. To handle variable-sized short-term buffers, we use a per-item Q-learning design with shared parameters and a practical temporal-difference update over matched items across consecutive steps. On the RoomKG benchmark at long-term memory capacity 128, learned transfer decisions outperform symbolic and neural baselines, including symbolic baselines with temporal annotations and history-based LSTM/Transformer baselines. Across transfer-policy ablations, a lightweight local short-term-only variant performs best, and step-level behavior shows that the policy keeps navigation- and query-relevant facts while discarding lower-value candidate facts, supporting explicit and interpretable memory decisions under memory constraints.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-27T10:41:26Z",
+  "last_updated": "2026-07-24T15:40:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.22142v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2407.18245v3](http://arxiv.org/abs/2407.18245v3)
 
+## RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations
+- **ID**: arxiv_2410.00713v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.00713v5](http://arxiv.org/abs/2410.00713v5)
+
 ## Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research
 - **ID**: arxiv_2501.14546v2
 - **Source**: ArXiv
@@ -20,10 +25,25 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.10890v2](http://arxiv.org/abs/2506.10890v2)
 
+## Geometry-Guided Representations for Coherent Lane and Traffic Topology Reasoning in Driving Scenes
+- **ID**: arxiv_2506.13553v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.13553v4](http://arxiv.org/abs/2506.13553v4)
+
+## TDiR: Transformer based Diffusion for Image Restoration Tasks
+- **ID**: arxiv_2506.20302v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.20302v2](http://arxiv.org/abs/2506.20302v2)
+
 ## DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.19474v2](http://arxiv.org/abs/2507.19474v2)
+
+## CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication
+- **ID**: arxiv_2508.13899v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.13899v2](http://arxiv.org/abs/2508.13899v2)
 
 ## Collaborative Multi-Modal Coding for High-Quality 3D Generation
 - **ID**: arxiv_2508.15228v3
@@ -60,10 +80,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.05017v3](http://arxiv.org/abs/2511.05017v3)
 
+## RISE: Single Static Radar-based Indoor Scene Understanding
+- **ID**: arxiv_2511.14019v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.14019v4](http://arxiv.org/abs/2511.14019v4)
+
 ## MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs
 - **ID**: arxiv_2511.14159v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.14159v4](http://arxiv.org/abs/2511.14159v4)
+
+## DM3D: Dynamic Mamba via Offset-Guided Feature Resampling for Point Cloud Understanding
+- **ID**: arxiv_2512.03424v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.03424v4](http://arxiv.org/abs/2512.03424v4)
 
 ## Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy
 - **ID**: arxiv_2512.03883v3
@@ -89,6 +119,11 @@
 - **ID**: arxiv_2512.10840v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.10840v2](http://arxiv.org/abs/2512.10840v2)
+
+## The 3D Mirage: Probing and Taming 3D Hallucinations
+- **ID**: arxiv_2512.15423v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.15423v2](http://arxiv.org/abs/2512.15423v2)
 
 ## A Benchmark for Omni-Modal Reasoning in Long Videos
 - **ID**: arxiv_2512.16978v2
@@ -999,4 +1034,34 @@
 - **ID**: arxiv_2607.21595v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21595v1](http://arxiv.org/abs/2607.21595v1)
+
+## IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing
+- **ID**: arxiv_2607.22380v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22380v1](http://arxiv.org/abs/2607.22380v1)
+
+## Correlation-Aware and Gaussianity-Preserving Robust Latent Angular Watermarking for Diffusion Models
+- **ID**: arxiv_2607.22386v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22386v1](http://arxiv.org/abs/2607.22386v1)
+
+## Deformable Triangle Splatting: Flexible Primitives for Real-Time Radiance Field Rendering
+- **ID**: arxiv_2607.22446v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22446v1](http://arxiv.org/abs/2607.22446v1)
+
+## Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection
+- **ID**: arxiv_2607.22486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22486v1](http://arxiv.org/abs/2607.22486v1)
+
+## Twins: Learn to Predict Unified Representations with Focal Loss
+- **ID**: arxiv_2607.22531v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22531v1](http://arxiv.org/abs/2607.22531v1)
+
+## SM4RT: Learning Structured Motion Geometry for 4D Reconstruction
+- **ID**: arxiv_2607.22534v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22534v1](http://arxiv.org/abs/2607.22534v1)
 

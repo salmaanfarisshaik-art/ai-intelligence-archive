@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "cadene/droid_1.0.1",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95600,\n    \"total_frames\": 27612581,\n    \"total_tasks\": 0,\n    \"total_videos\": 286800,\n    \"total_chunks\": 95,\n    \"chunks_size\": 1000,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95600\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/droid_1.0.1.",
-  "size": "350639",
+  "size": "334878",
   "source_url": "https://huggingface.co/datasets/cadene/droid_1.0.1",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "56b622ac23335c2bb5909e1e3c72416033c65acf",
     "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"Franka\",\n    \"total_episodes\": 95600,\n    \"total_frames\": 27612581,\n    \"total_tasks\": 0,\n    \"total_videos\": 286800,\n    \"total_chunks\": 95,\n    \"chunks_size\": 1000,\n    \"fps\": 15,\n    \"splits\": {\n        \"train\": \"0:95600\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/cadene/droid_1.0.1.",
-    "downloads": 350639,
+    "downloads": 334878,
     "tags": [
       "task_categories:robotics",
       "license:apache-2.0",
@@ -29,7 +29,7 @@
     "createdAt": "2025-03-17T13:55:45.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-07-26T09:12:06.407466+00:00",
+  "retrieval_timestamp": "2026-07-27T10:41:32.037911+00:00",
   "last_updated": "2025-03-20T13:14:51.000Z",
   "links": {
     "related_models": [

@@ -1,0 +1,29 @@
+{
+  "_id": "67f91239bfb4cda155fd16f3",
+  "id": "PortPy-Project/PortPy_Dataset",
+  "author": "PortPy-Project",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-03T18:26:40.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "0fcf9cbfff6fbb1fb19a0224e6057936b572ea08",
+  "description": "\n\t\n\t\t\n\t\tPortPy: Planning and Optimization for Radiation Therapy\n\t\n\n\n\t\n\t\t\n\t\tData Overview\n\t\n\n\n\nPortPy equips researchers with a robust benchmark patient dataset, sourced from the FDA-approved Eclipse commercial treatment planning system through its API. This dataset embodies all necessary elements for optimizing various machine configurations such as beam angles, aperture shapes, and leaf movements. It includes\n\nDose Influence Matrix (AKA dose deposition matrix, dij matrix): The dose… See the full description on the dataset page: https://huggingface.co/datasets/PortPy-Project/PortPy_Dataset.",
+  "downloads": 23273,
+  "tags": [
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "size_categories:n<1K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-04-11T12:59:37.000Z",
+  "key": "",
+  "unique_id": "dataset_portpy_project_portpy_dataset",
+  "schema_version": "1.0"
+}

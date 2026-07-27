@@ -2301,6 +2301,11 @@
 - **URL**: [https://openai.com/index/how-agents-are-transforming-work](https://openai.com/index/how-agents-are-transforming-work)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-ai-is-expanding-what-people-do-at-work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)
+
+## 
 - **ID**: rss_https://openai.com/index/how-ai-training-scales
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/how-ai-training-scales](https://openai.com/index/how-ai-training-scales)

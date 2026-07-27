@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.08679v6](http://arxiv.org/abs/2503.08679v6)
 
+## From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent
+- **ID**: arxiv_2505.02024v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.02024v4](http://arxiv.org/abs/2505.02024v4)
+
 ## Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties
 - **ID**: arxiv_2510.19299v2
 - **Source**: ArXiv
@@ -25,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## Statistical Early Stopping for Reasoning Models
+- **ID**: arxiv_2602.13935v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13935v3](http://arxiv.org/abs/2602.13935v3)
+
 ## Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks
 - **ID**: arxiv_2604.01363v2
 - **Source**: ArXiv
@@ -34,6 +44,16 @@
 - **ID**: arxiv_2604.23786v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23786v2](http://arxiv.org/abs/2604.23786v2)
+
+## Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs
+- **ID**: arxiv_2604.27618v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.27618v2](http://arxiv.org/abs/2604.27618v2)
+
+## A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters
+- **ID**: arxiv_2605.14667v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14667v2](http://arxiv.org/abs/2605.14667v2)
 
 ## AI for Auto-Research: Roadmap & User Guide
 - **ID**: arxiv_2605.18661v2
@@ -544,4 +564,34 @@
 - **ID**: arxiv_2607.21559v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
+
+## Agentic Root Cause Analysis through Evidence-Grounded Reasoning
+- **ID**: arxiv_2607.22385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22385v1](http://arxiv.org/abs/2607.22385v1)
+
+## SceneActBench: Can Agents Act on the 3D Scenes They See?
+- **ID**: arxiv_2607.22393v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22393v1](http://arxiv.org/abs/2607.22393v1)
+
+## Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture
+- **ID**: arxiv_2607.22445v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22445v1](http://arxiv.org/abs/2607.22445v1)
+
+## TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI
+- **ID**: arxiv_2607.22465v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22465v1](http://arxiv.org/abs/2607.22465v1)
+
+## The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
+- **ID**: arxiv_2607.22520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22520v1](http://arxiv.org/abs/2607.22520v1)
+
+## Explainable Reinforcement Learning for assisting Air Traffic Controllers
+- **ID**: arxiv_2607.22525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22525v1](http://arxiv.org/abs/2607.22525v1)
 
