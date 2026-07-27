@@ -1,0 +1,28 @@
+{
+  "_id": "65a0302ac9873890d1f8d5e7",
+  "id": "ytzi/the-stack-dedup-python-filtered",
+  "author": "ytzi",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-03-27T23:50:21.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "f1aec9e2ec13e8f318c89ec5b55693378e6b89ed",
+  "description": "This is a dataset from the-stack-dedup that have passed through 6 filters:\n\nremove_non_ascii\nremove_decorators\nremove_async\nremove_classes\nremove_generators\nremove_function_no_docstring\n\n",
+  "downloads": 22901,
+  "tags": [
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-01-11T18:15:06.000Z",
+  "key": "",
+  "unique_id": "dataset_ytzi_the_stack_dedup_python_filtered",
+  "schema_version": "1.0"
+}

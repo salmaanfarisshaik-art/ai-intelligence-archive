@@ -52807,6 +52807,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ptb_text_only_ptb_text_only",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_pwc_archive_evaluation_tables",
       "match_type": "exact",
       "score": 1.5
@@ -54143,6 +54148,11 @@
     },
     {
       "entity_id": "dataset_yoshi_dai_financial_lakehouse_test",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_ytzi_the_stack_dedup_python_filtered",
       "match_type": "exact",
       "score": 1.5
     },
@@ -70887,6 +70897,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ptb_text_only_ptb_text_only",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_skylenage_ai_hle_verified",
       "match_type": "exact",
       "score": 1.0
@@ -78566,6 +78581,11 @@
     }
   ],
   "remove": [
+    {
+      "entity_id": "dataset_ytzi_the_stack_dedup_python_filtered",
+      "match_type": "exact",
+      "score": 6.0
+    },
     {
       "entity_id": "alpaca_-6586166756107215708",
       "match_type": "exact",

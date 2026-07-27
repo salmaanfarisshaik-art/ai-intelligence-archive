@@ -48571,6 +48571,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ptb_text_only_ptb_text_only",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/generative-models",
       "match_type": "exact",
       "score": 1.0
@@ -240295,6 +240300,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_ptb_text_only_ptb_text_only",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_mteb_sts12_sts",
       "match_type": "exact",
       "score": 1.5
@@ -240970,6 +240980,11 @@
     },
     {
       "entity_id": "dataset_philippesaade_wikidata_vectors_0_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_ptb_text_only_ptb_text_only",
       "match_type": "exact",
       "score": 1.5
     },
@@ -340314,6 +340329,11 @@
       "entity_id": "alpaca_-8662671894497429236",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ytzi_the_stack_dedup_python_filtered",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "ascorbic": [
@@ -348707,6 +348727,13 @@
   "asymptomatic": [
     {
       "entity_id": "alpaca_2683665609432910862",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "async": [
+    {
+      "entity_id": "dataset_ytzi_the_stack_dedup_python_filtered",
       "match_type": "exact",
       "score": 1.0
     }
@@ -363361,12 +363388,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_chat_stories_chat_stories",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_espnet_yodas_granary",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "dataset_fixie_ai_common_voice_17_0",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_fujinchu_imgbed",
       "match_type": "exact",
       "score": 1.5
     },

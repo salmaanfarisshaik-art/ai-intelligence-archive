@@ -1,0 +1,32 @@
+{
+  "_id": "621ffdd236468d709f181f3b",
+  "id": "ptb-text-only/ptb_text_only",
+  "author": "ptb-text-only",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-01-18T11:13:39.000Z",
+  "likes": 20,
+  "private": false,
+  "sha": "d29c6b61aa5ff8d6d0dc52b98da60237292c1fcc",
+  "citation": "@article{marcus-etal-1993-building,\n    title = \"Building a Large Annotated Corpus of {E}nglish: The {P}enn {T}reebank\",\n    author = \"Marcus, Mitchell P.  and\n      Santorini, Beatrice  and\n      Marcinkiewicz, Mary Ann\",\n    journal = \"Computational Linguistics\",\n    volume = \"19\",\n    number = \"2\",\n    year = \"1993\",\n    url = \"https://www.aclweb.org/anthology/J93-2004\",\n    pages = \"313--330\",\n}",
+  "description": "This is the Penn Treebank Project: Release 2 CDROM, featuring a million words of 1989 Wall Street Journal material. This corpus has been annotated for part-of-speech (POS) information. In addition, over half of it has been annotated for skeletal syntactic structure.",
+  "downloads": 22898,
+  "tags": [
+    "task_categories:text-generation",
+    "task_categories:fill-mask",
+    "task_ids:language-modeling",
+    "task_ids:masked-language-modeling",
+    "annotations_creators:expert-generated",
+    "language_creators:found",
+    "multilinguality:monolingual",
+    "source_datasets:original",
+    "language:en",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "region:us"
+  ],
+  "createdAt": "2022-03-02T23:29:22.000Z",
+  "key": "",
+  "unique_id": "dataset_ptb_text_only_ptb_text_only",
+  "schema_version": "1.0"
+}
