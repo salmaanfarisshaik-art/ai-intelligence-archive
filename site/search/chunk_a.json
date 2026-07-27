@@ -2075,6 +2075,13 @@
       "score": 2.0
     }
   ],
+  "abbel": [
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "abbot": [
     {
       "entity_id": "alpaca_6135892305995673382",
@@ -343848,6 +343855,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/sora-is-here",
       "match_type": "exact",
       "score": 1.0
@@ -362790,11 +362802,6 @@
     },
     {
       "entity_id": "dataset_byan_cs_fleurs",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_chat_stories_chat_stories",
       "match_type": "exact",
       "score": 1.5
     },
