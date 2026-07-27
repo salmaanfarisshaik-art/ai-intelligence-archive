@@ -30352,6 +30352,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mastrotv1_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mastrotv1_poster",
       "match_type": "exact",
       "score": 1.5
@@ -30638,11 +30643,6 @@
     },
     {
       "entity_id": "dataset_sylvest_libero_plus_lerobot",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_tienmanh93_mdc",
       "match_type": "exact",
       "score": 1.5
     },
@@ -172909,12 +172909,12 @@
   ],
   "droplychee": [
     {
-      "entity_id": "model_droplychee_core_droplychee_1_0_27b",
+      "entity_id": "model_droplychee_droplychee_1_0_27b",
       "match_type": "exact",
-      "score": 4.0
+      "score": 5.5
     },
     {
-      "entity_id": "model_droplychee_droplychee_1_0_27b",
+      "entity_id": "model_droplychee_core_droplychee_1_0_27b",
       "match_type": "exact",
       "score": 4.0
     }

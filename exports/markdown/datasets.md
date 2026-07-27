@@ -53,6 +53,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_agibot_world_agibotdigitalworld
+- **Source**: 
+
+## 
 - **ID**: dataset_agibot_world_agibotworld2026
 - **Source**: 
 
@@ -142,6 +146,10 @@
 
 ## 
 - **ID**: dataset_allenai_dolma3_dolmino_pool
+- **Source**: 
+
+## 
+- **ID**: dataset_allenai_dolma3_longmino_mix_100b_1125
 - **Source**: 
 
 ## 
@@ -342,6 +350,10 @@
 
 ## 
 - **ID**: dataset_asahi417_seamless_align_ena_esa_speaker_embedding_xlsr_2b
+- **Source**: 
+
+## 
+- **ID**: dataset_asahi417_seamless_align_ena_fra_speaker_embedding_hubert_xl
 - **Source**: 
 
 ## 
@@ -562,6 +574,10 @@
 
 ## 
 - **ID**: dataset_bigcode_commitpackft
+- **Source**: 
+
+## 
+- **ID**: dataset_bigcode_starcoderdata
 - **Source**: 
 
 ## 
@@ -850,6 +866,10 @@
 
 ## 
 - **ID**: dataset_compsciencelab_mdcath
+- **Source**: 
+
+## 
+- **ID**: dataset_context_course_images
 - **Source**: 
 
 ## 
@@ -1473,6 +1493,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hemabhushan_ksbvs_mfa_synthesizer
+- **Source**: 
+
+## 
 - **ID**: dataset_hennypr_ps2_hf2
 - **Source**: 
 
@@ -1518,6 +1542,10 @@
 
 ## 
 - **ID**: dataset_hf_internal_testing_multi_dir_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_hf_internal_testing_raw_jsonl
 - **Source**: 
 
 ## 
@@ -1762,6 +1790,10 @@
 
 ## 
 - **ID**: dataset_icdn11_content_202606253448
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn11_content_202606270769
 - **Source**: 
 
 ## 
@@ -2317,6 +2349,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_laion_scientific_summaries
+- **Source**: 
+
+## 
 - **ID**: dataset_languagebind_open_sora_plan_v1_1_0
 - **Source**: 
 
@@ -2417,6 +2453,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lmarena_ai_leaderboard_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_lmarena_ai_visionarena_chat
 - **Source**: 
 
@@ -2470,6 +2510,10 @@
 
 ## 
 - **ID**: dataset_lmms_lab_pope
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_scienceqa
 - **Source**: 
 
 ## 
@@ -2906,6 +2950,10 @@
 
 ## 
 - **ID**: dataset_narsil_image_dummy
+- **Source**: 
+
+## 
+- **ID**: dataset_natgillin_translations_raw
 - **Source**: 
 
 ## 
@@ -3366,6 +3414,10 @@
 
 ## 
 - **ID**: dataset_polymathic_ai_shear_flow
+- **Source**: 
+
+## 
+- **ID**: dataset_portpy_project_portpy_dataset
 - **Source**: 
 
 ## 
@@ -4138,6 +4190,10 @@
 
 ## 
 - **ID**: dataset_trl_internal_testing_zen_image
+- **Source**: 
+
+## 
+- **ID**: dataset_trl_internal_testing_zen_multi_image
 - **Source**: 
 
 ## 

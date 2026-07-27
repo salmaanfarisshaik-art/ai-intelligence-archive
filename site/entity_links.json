@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T10:42:40Z",
+  "generated_at": "2026-07-27T13:39:43Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1433,6 +1433,11 @@
     },
     {
       "source_id": "model_dreamfast_qwen3_6_27b_uncensored_hauhaucs_aggressive_safetensor_benchmark",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_droplychee_droplychee_1_0_27b",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
     },

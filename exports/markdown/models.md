@@ -72,6 +72,10 @@
 - **ID**: model_aidc_ai_ovis2_1b
 - **Source**: 
 
+## Alennnndy/Qwen3.6-27B-AWQ-4bit
+- **ID**: model_alennnndy_qwen3_6_27b_awq_4bit
+- **Source**: 
+
 ## Alibaba-NLP/gte-Qwen2-1.5B-instruct
 - **ID**: model_alibaba_nlp_gte_qwen2_1_5b_instruct
 - **Source**: 
@@ -2140,6 +2144,10 @@
 - **ID**: model_maidacundo_open_mythos_140m
 - **Source**: 
 
+## ManniX-ITA/Qwen3.6-27B-A3B-Coder-MTP-GGUF
+- **ID**: model_mannix_ita_qwen3_6_27b_a3b_coder_mtp_gguf
+- **Source**: 
+
 ## marketeam/Qwen-Marketing
 - **ID**: model_marketeam_qwen_marketing
 - **Source**: 
@@ -2764,6 +2772,10 @@
 - **ID**: model_nexveridian_qwen3_coder_next_8bit
 - **Source**: 
 
+## nguyenvulebinh/AV-HuBERT-MuAViC-en
+- **ID**: model_nguyenvulebinh_av_hubert_muavic_en
+- **Source**: 
+
 ## nm-testing/Meta-Llama-3-8B-Instruct-nonuniform-test
 - **ID**: model_nm_testing_meta_llama_3_8b_instruct_nonuniform_test
 - **Source**: 
@@ -2862,6 +2874,10 @@
 
 ## nvidia/GLM-5-NVFP4
 - **ID**: model_nvidia_glm_5_nvfp4
+- **Source**: 
+
+## nvidia/gpt-oss-puzzle-88B
+- **ID**: model_nvidia_gpt_oss_puzzle_88b
 - **Source**: 
 
 ## nvidia/Kimi-K2.5-NVFP4
@@ -4240,6 +4256,10 @@
 - **ID**: model_sillytilly_mistralai_mistral_nemo_instruct_2407
 - **Source**: 
 
+## skt/A.X-4.0-Light
+- **ID**: model_skt_a_x_4_0_light
+- **Source**: 
+
 ## skt/A.X-K1
 - **ID**: model_skt_a_x_k1
 - **Source**: 
@@ -4354,6 +4374,10 @@
 
 ## swiss-ai/Apertus-8B-Instruct-2509
 - **ID**: model_swiss_ai_apertus_8b_instruct_2509
+- **Source**: 
+
+## syvai/plapre-nano
+- **ID**: model_syvai_plapre_nano
 - **Source**: 
 
 ## t-tech/T-lite-it-2.1
@@ -4942,6 +4966,10 @@
 
 ## unsloth/Qwen2.5-3B-bnb-4bit
 - **ID**: model_unsloth_qwen2_5_3b_bnb_4bit
+- **Source**: 
+
+## unsloth/Qwen2.5-3B-Instruct
+- **ID**: model_unsloth_qwen2_5_3b_instruct
 - **Source**: 
 
 ## unsloth/Qwen2.5-3B-Instruct-bnb-4bit
