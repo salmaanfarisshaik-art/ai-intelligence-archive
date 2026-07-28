@@ -1,46 +1,34 @@
 # Change Summary
 
-**Total Changes:** 81
+**Total Changes:** 67
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/cais/hf_ds_621ffdd236468d709f181e5e.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/markdown/datasets.md
+- datasets/princeton-nlp/hf_ds_66bb76014dbf7716986c7f86.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -71,11 +59,9 @@ None
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
