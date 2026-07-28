@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18158v1](http://arxiv.org/abs/2606.18158v1)
 
+## The Eticas AI Risk Taxonomy: Open Infrastructure for Operationalizing AI Audits
+- **ID**: arxiv_2607.02201v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.02201v3](http://arxiv.org/abs/2607.02201v3)
+
 ## A Methodology for Auditable Trustworthiness Levels in AI Lifecycle Governance
 - **ID**: arxiv_2607.16130v1
 - **Source**: ArXiv

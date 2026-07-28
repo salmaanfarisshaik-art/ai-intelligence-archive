@@ -1,5 +1,10 @@
 # Cs.Cl Export
 
+## Like a bilingual baby: The advantage of visually grounding a bilingual language model
+- **ID**: arxiv_2210.05487v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2210.05487v3](http://arxiv.org/abs/2210.05487v3)
+
 ## Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian
 - **ID**: arxiv_2402.18121v2
 - **Source**: ArXiv
@@ -20,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
 
+## PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment
+- **ID**: arxiv_2508.05132v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.05132v3](http://arxiv.org/abs/2508.05132v3)
+
 ## Learning to Reason for Factuality
 - **ID**: arxiv_2508.05618v2
 - **Source**: ArXiv
@@ -39,6 +49,11 @@
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
+
+## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
+- **ID**: arxiv_2601.09001v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.09001v5](http://arxiv.org/abs/2601.09001v5)
 
 ## LVLMs and Humans Ground Differently in Referential Communication
 - **ID**: arxiv_2601.19792v5
@@ -74,6 +89,11 @@
 - **ID**: arxiv_2604.18307v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.18307v2](http://arxiv.org/abs/2604.18307v2)
+
+## GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons
+- **ID**: arxiv_2604.21133v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.21133v2](http://arxiv.org/abs/2604.21133v2)
 
 ## MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization
 - **ID**: arxiv_2604.21370v2
@@ -189,6 +209,11 @@
 - **ID**: arxiv_2606.13681v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13681v1](http://arxiv.org/abs/2606.13681v1)
+
+## Which Models Perform Better in Inheritance Reasoning?
+- **ID**: arxiv_2606.13751v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.13751v4](http://arxiv.org/abs/2606.13751v4)
 
 ## Persuasion Index: A Theory-Guided Framework for Persuasion Analysis
 - **ID**: arxiv_2606.14580v1
@@ -629,4 +654,29 @@
 - **ID**: arxiv_2607.22529v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22529v1](http://arxiv.org/abs/2607.22529v1)
+
+## PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention
+- **ID**: arxiv_2607.24593v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24593v1](http://arxiv.org/abs/2607.24593v1)
+
+## Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair
+- **ID**: arxiv_2607.24604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24604v1](http://arxiv.org/abs/2607.24604v1)
+
+## Kimi K3: Open Frontier Intelligence
+- **ID**: arxiv_2607.24653v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24653v1](http://arxiv.org/abs/2607.24653v1)
+
+## DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data
+- **ID**: arxiv_2607.24717v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24717v1](http://arxiv.org/abs/2607.24717v1)
+
+## The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
+- **ID**: arxiv_2607.24720v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24720v1](http://arxiv.org/abs/2607.24720v1)
 

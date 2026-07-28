@@ -75,3 +75,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22471v1](http://arxiv.org/abs/2607.22471v1)
 
+## Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review
+- **ID**: arxiv_2607.24601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24601v1](http://arxiv.org/abs/2607.24601v1)
+

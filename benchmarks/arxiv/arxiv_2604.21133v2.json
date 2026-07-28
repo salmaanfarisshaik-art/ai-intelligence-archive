@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.21133v2",
+  "schema_version": "1.0",
+  "name": "GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.21133v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.21133v2",
+    "updated": "2026-07-27T16:25:07Z",
+    "published": "2026-04-22T22:47:01Z",
+    "title": "GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons",
+    "summary": "We present GRISP (Guided Recurrent IRI Selection over SPARQL Skeletons), a novel SPARQL-based question-answering method over knowledge graphs using a fine-tuned small language model (SLM). Given a natural-language question, the method uses the SLM to generate a natural-language SPARQL query skeleton, and then resolves the natural-language placeholders using a backtracking search that retrieves and re-ranks knowledge graph items under knowledge graph constraints. The SLM is jointly trained on skeleton generation and re-ranking data generated from question-query pairs. We evaluate the method on common Wikidata and Freebase benchmarks, and achieve better results than other state-of-the-art fine-tuning-based methods.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T16:25:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.21133v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

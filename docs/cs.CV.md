@@ -39,10 +39,15 @@
 | [BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering](http://arxiv.org/abs/2606.17049v1) | ArXiv |  | 1 |
 | [CABLE: Cloud-Assisted Bandwidth-efficient LMM-based Encoding for V2X Systems](http://arxiv.org/abs/2606.19258v1) | ArXiv |  | 1 |
 | [CalTennis: Large Multi-View Tennis Video Dataset and Benchmark of Monocular-to-3D Pose Estimation](http://arxiv.org/abs/2606.20542v1) | ArXiv |  | 1 |
+| [CameraAnything: Refilming Videos with Arbitrary Camera Control](http://arxiv.org/abs/2607.24591v1) | ArXiv |  | 1 |
 | [CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication](http://arxiv.org/abs/2508.13899v2) | ArXiv |  | 1 |
 | [Certified Training for Convolutional Perturbations](http://arxiv.org/abs/2607.18195v1) | ArXiv |  | 1 |
+| [ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing](http://arxiv.org/abs/2605.15375v2) | ArXiv |  | 1 |
 | [CLIFE: Camera-LiDAR Fusion Framework for Edge-Deployable Roadside VRU Perception](http://arxiv.org/abs/2607.16154v1) | ArXiv |  | 1 |
+| [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1) | ArXiv |  | 1 |
 | [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning](http://arxiv.org/abs/2606.14697v1) | ArXiv |  | 1 |
+| [Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering](http://arxiv.org/abs/2607.21848v2) | ArXiv |  | 1 |
+| [Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification](http://arxiv.org/abs/2607.24683v1) | ArXiv |  | 1 |
 | [Collaborative Multi-Modal Coding for High-Quality 3D Generation](http://arxiv.org/abs/2508.15228v3) | ArXiv |  | 1 |
 | [Confidence is Not Reliability: Rethinking MC Dropout in Brain Tumour Segmentation](http://arxiv.org/abs/2606.19300v1) | ArXiv |  | 1 |
 | [Contrast-Informed Augmentation and Domain-Adversarial Training for Adult-to-Neonatal MR Reconstruction Generalization](http://arxiv.org/abs/2606.13562v1) | ArXiv |  | 1 |
@@ -56,13 +61,16 @@
 | [Divergent Gaze Patterns in Artistic Viewing: Spatial and Temporal Signatures of Attention Across Autistic Individuals, Artists, and Neurotypical Observers](http://arxiv.org/abs/2607.15227v1) | ArXiv |  | 1 |
 | [Diverse-Intent Multi-Turn Fashion Image Retrieval](http://arxiv.org/abs/2607.20291v1) | ArXiv |  | 1 |
 | [DM3D: Dynamic Mamba via Offset-Guided Feature Resampling for Point Cloud Understanding](http://arxiv.org/abs/2512.03424v4) | ArXiv |  | 1 |
+| [DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement](http://arxiv.org/abs/2607.24721v1) | ArXiv |  | 1 |
 | [DreamX-World 1.0: A General-Purpose Interactive World Model](http://arxiv.org/abs/2606.16993v1) | ArXiv |  | 1 |
 | [Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy](http://arxiv.org/abs/2512.03883v3) | ArXiv |  | 1 |
 | [EgoCS-400K: An Egocentric Gameplay Dataset for World Models](http://arxiv.org/abs/2606.18180v1) | ArXiv |  | 1 |
 | [ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing](http://arxiv.org/abs/2607.21529v1) | ArXiv |  | 1 |
+| [Enhancing Pathological VLMs with Cross-scale Reasoning](http://arxiv.org/abs/2606.17412v4) | ArXiv |  | 1 |
 | [Epipolar Geometry Improves Video Generation Models](http://arxiv.org/abs/2510.21615v2) | ArXiv |  | 1 |
 | [ERank in Latent Space as an Image-Complexity and Richness Measure](http://arxiv.org/abs/2607.19315v1) | ArXiv |  | 1 |
 | [EventDrive: Event Cameras for Vision-Language Driving Intelligence](http://arxiv.org/abs/2606.18242v1) | ArXiv |  | 1 |
+| [Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels](http://arxiv.org/abs/2607.24651v1) | ArXiv |  | 1 |
 | [Evolving Cache Schedules for Fast Diffusion Policy Inference](http://arxiv.org/abs/2607.20293v1) | ArXiv |  | 1 |
 | [EvTexture++: Event-Driven Texture Enhancement for Video Super-Resolution](http://arxiv.org/abs/2606.13580v1) | ArXiv |  | 1 |
 | [ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis](http://arxiv.org/abs/2607.19341v1) | ArXiv |  | 1 |
@@ -73,6 +81,7 @@
 | [FusionRS: A Large-Scale RGB-Infrared Remote Sensing Dataset for Dual-Modal Vision-Language Foundation Models](http://arxiv.org/abs/2606.17020v1) | ArXiv |  | 1 |
 | [Future Dynamic 3D Reconstruction: A 3D World Model with Disentangled Ego-Motion](http://arxiv.org/abs/2606.18250v1) | ArXiv |  | 1 |
 | [FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation](http://arxiv.org/abs/2607.16190v1) | ArXiv |  | 1 |
+| [G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection](http://arxiv.org/abs/2607.19942v2) | ArXiv |  | 1 |
 | [Gaze Heads: How VLMs Look at What They Describe](http://arxiv.org/abs/2606.14703v1) | ArXiv |  | 1 |
 | [Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework](http://arxiv.org/abs/2601.06550v4) | ArXiv |  | 1 |
 | [Geometry-Guided Representations for Coherent Lane and Traffic Topology Reasoning in Driving Scenes](http://arxiv.org/abs/2506.13553v4) | ArXiv |  | 1 |
@@ -92,12 +101,14 @@
 | [HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification](http://arxiv.org/abs/2606.14684v1) | ArXiv |  | 1 |
 | [Improving Lunar Topography with Deep Learning Schrödinger Bridges](http://arxiv.org/abs/2606.14638v1) | ArXiv |  | 1 |
 | [Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning](http://arxiv.org/abs/2607.21591v1) | ArXiv |  | 1 |
+| [Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives](http://arxiv.org/abs/2607.24727v1) | ArXiv |  | 1 |
 | [Instruct-Particulate: Scaling Feed-Forward 3D Object Articulation with Kinematic Control](http://arxiv.org/abs/2606.14699v1) | ArXiv |  | 1 |
 | [InstructMixup: Instruction-Guided Salient Patch Editing for Robust Data Augmentation](http://arxiv.org/abs/2607.19324v1) | ArXiv |  | 1 |
 | [InterleaveThinker: Reinforcing Agentic Interleaved Generation](http://arxiv.org/abs/2606.13679v1) | ArXiv |  | 1 |
 | [IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing](http://arxiv.org/abs/2607.22380v1) | ArXiv |  | 1 |
 | [Is the Geometry Doing the Work? An Operating-Point Audit of Hierarchy in Hyperbolic Vision-Language Models](http://arxiv.org/abs/2607.05268v3) | ArXiv |  | 1 |
 | [JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising](http://arxiv.org/abs/2606.20563v1) | ArXiv |  | 1 |
+| [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](http://arxiv.org/abs/2607.24730v1) | ArXiv |  | 1 |
 | [Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs](http://arxiv.org/abs/2607.16193v1) | ArXiv |  | 1 |
 | [Latent Gaussian Splatting for 4D Panoptic Occupancy Tracking](http://arxiv.org/abs/2602.23172v2) | ArXiv |  | 1 |
 | [LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs](http://arxiv.org/abs/2602.00462v5) | ArXiv |  | 1 |
@@ -111,6 +122,8 @@
 | [MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators](http://arxiv.org/abs/2607.15273v1) | ArXiv |  | 1 |
 | [Memento: Reconstruct to Remember for Consistent Long Video Generation](http://arxiv.org/abs/2606.14667v1) | ArXiv |  | 1 |
 | [MeshLoom: Feed-Forward Non-Rigid Registration of Mesh Sequences](http://arxiv.org/abs/2606.17027v1) | ArXiv |  | 1 |
+| [MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale](http://arxiv.org/abs/2607.24729v1) | ArXiv |  | 1 |
+| [MMOE: Modernizing Diffusion Transformers with Efficient Expert Design](http://arxiv.org/abs/2607.24665v1) | ArXiv |  | 1 |
 | [MOCHI: Motion Enhancement of Collaborative Human-object Interactions](http://arxiv.org/abs/2606.18243v1) | ArXiv |  | 1 |
 | [Modality Forcing for Scalable Spatial Generation](http://arxiv.org/abs/2606.13676v1) | ArXiv |  | 1 |
 | [Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography](http://arxiv.org/abs/2607.15268v1) | ArXiv |  | 1 |
@@ -132,6 +145,7 @@
 | [OneCanvas: 3D Scene Understanding via Panoramic Reprojection](http://arxiv.org/abs/2606.19253v1) | ArXiv |  | 1 |
 | [Online Neural Space Time Memory for Dynamic Novel View Synthesis](http://arxiv.org/abs/2607.15271v1) | ArXiv |  | 1 |
 | [Optimal Transport Image Representation and Deep Covariance Alignment (CORAL) for Control Valve Stiction Detection](http://arxiv.org/abs/2607.22486v1) | ArXiv |  | 1 |
+| [Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging](http://arxiv.org/abs/2607.24703v1) | ArXiv |  | 1 |
 | [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](http://arxiv.org/abs/2607.19261v1) | ArXiv |  | 1 |
 | [PCFootprint: A Large-Scale Dataset and Benchmark for Vectorized Building Footprint Extraction from Aerial LiDAR Point Clouds](http://arxiv.org/abs/2606.20455v1) | ArXiv |  | 2 |
 | [PercepCap: Video Captioner with Structured Spatio-Temporal Perception](http://arxiv.org/abs/2607.20389v1) | ArXiv |  | 1 |
@@ -140,6 +154,7 @@
 | [PoseGAM: Robust Unseen Object Pose Estimation via Geometry-Aware Multi-View Reasoning](http://arxiv.org/abs/2512.10840v2) | ArXiv |  | 1 |
 | [Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology](http://arxiv.org/abs/2606.18123v1) | ArXiv |  | 1 |
 | [Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization](http://arxiv.org/abs/2510.21583v3) | ArXiv |  | 1 |
+| [QueenVIS: Rethinking Image-Only Training for Video Instance Segmentation via Query Enrichment](http://arxiv.org/abs/2607.24598v1) | ArXiv |  | 1 |
 | [Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](http://arxiv.org/abs/2606.17030v1) | ArXiv |  | 1 |
 | [Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation](http://arxiv.org/abs/2606.17030v2) | ArXiv |  | 1 |
 | [RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations](http://arxiv.org/abs/2410.00713v5) | ArXiv |  | 1 |
@@ -152,6 +167,7 @@
 | [Relighting as a Probe of Visual Priors via Augmented Latent Intrinsics](http://arxiv.org/abs/2602.01391v2) | ArXiv |  | 1 |
 | [RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space](http://arxiv.org/abs/2606.14700v1) | ArXiv |  | 1 |
 | [RepWAM: World Action Modeling with Representation Visual-Action Tokenizers](http://arxiv.org/abs/2606.13674v1) | ArXiv |  | 1 |
+| [Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation](http://arxiv.org/abs/2607.24731v1) | ArXiv |  | 1 |
 | [Rethinking Cross-Layer Information Routing in Diffusion Transformers](http://arxiv.org/abs/2605.20708v2) | ArXiv |  | 1 |
 | [Revisiting Vehicle Color Recognition in Long-Tailed Surveillance Scenarios](http://arxiv.org/abs/2606.13625v1) | ArXiv |  | 1 |
 | [RISE: Single Static Radar-based Indoor Scene Understanding](http://arxiv.org/abs/2511.14019v4) | ArXiv |  | 1 |
@@ -159,6 +175,7 @@
 | [S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning](http://arxiv.org/abs/2606.14586v1) | ArXiv |  | 1 |
 | [S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence](http://arxiv.org/abs/2606.20515v1) | ArXiv |  | 1 |
 | [S3OD: Towards Generalizable Salient Object Detection with Synthetic Data](http://arxiv.org/abs/2510.21605v3) | ArXiv |  | 1 |
+| [SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations](http://arxiv.org/abs/2607.24706v1) | ArXiv |  | 1 |
 | [SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation](http://arxiv.org/abs/2607.21553v1) | ArXiv |  | 1 |
 | [SARLO-80: Worldwide Slant SAR Language Optic Dataset 80cm](http://arxiv.org/abs/2606.20523v1) | ArXiv |  | 2 |
 | [Scalable Training of Spatially Grounded 2D Vision-Language Models for Radiology](http://arxiv.org/abs/2606.20477v1) | ArXiv |  | 1 |
@@ -168,6 +185,7 @@
 | [SED:Lightweight Saliency prediction for Event-based data via Distillation](http://arxiv.org/abs/2606.14631v1) | ArXiv |  | 1 |
 | [Self Gradient Forcing: Native Long Video Extrapolation](http://arxiv.org/abs/2607.20368v1) | ArXiv |  | 1 |
 | [Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture](http://arxiv.org/abs/2607.12254v2) | ArXiv |  | 1 |
+| [Self-Distillation of Hidden Layers for Self-Supervised Representation Learning](http://arxiv.org/abs/2603.15553v2) | ArXiv |  | 1 |
 | [Self-Supervised Learning of Structured Dynamics from Videos](http://arxiv.org/abs/2607.21576v1) | ArXiv |  | 1 |
 | [Self-supervision drives representational convergence in medical foundation models more than clinical supervision](http://arxiv.org/abs/2607.20274v1) | ArXiv |  | 1 |
 | [SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation](http://arxiv.org/abs/2605.30116v2) | ArXiv |  | 1 |
@@ -177,6 +195,7 @@
 | [SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](http://arxiv.org/abs/2607.22534v1) | ArXiv |  | 1 |
 | [Spatial Normalization for Cross-Domain Retinal Layer Segmentation in Optical Coherence Tomography](http://arxiv.org/abs/2607.16065v1) | ArXiv |  | 1 |
 | [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](http://arxiv.org/abs/2606.13673v1) | ArXiv |  | 1 |
+| [Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking](http://arxiv.org/abs/2607.24701v1) | ArXiv |  | 1 |
 | [Spatiotemporal Facial Action Unit Detection using Twin Cycle Autoencoders for Driver Monitoring](http://arxiv.org/abs/2607.16760v2) | ArXiv |  | 1 |
 | [SpEmoC: A Balanced Speaker-Segment Multimodal Emotion Benchmark](http://arxiv.org/abs/2607.18109v1) | ArXiv |  | 1 |
 | [SSD: Spatially Speculative Decoding Accelerates Autoregressive Image Generation](http://arxiv.org/abs/2606.20543v1) | ArXiv |  | 1 |
@@ -188,6 +207,7 @@
 | [Symbal: Detecting Systematic Misalignments in Model-Generated Captions](http://arxiv.org/abs/2607.15216v1) | ArXiv |  | 1 |
 | [Synthetic data generation framework for quality control automation in gravure printing](http://arxiv.org/abs/2607.21577v1) | ArXiv |  | 1 |
 | [TDiR: Transformer based Diffusion for Image Restoration Tasks](http://arxiv.org/abs/2506.20302v2) | ArXiv |  | 1 |
+| [Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts](http://arxiv.org/abs/2607.24611v1) | ArXiv |  | 1 |
 | [Test-Time Training for Modality Order Consistency in Vision-Language Models](http://arxiv.org/abs/2607.20351v1) | ArXiv |  | 1 |
 | [Texture++: Elevating 3D Asset Texture Resolution with a Region-Aware Diffusion Model](http://arxiv.org/abs/2607.21504v1) | ArXiv |  | 1 |
 | [The 3D Mirage: Probing and Taming 3D Hallucinations](http://arxiv.org/abs/2512.15423v2) | ArXiv |  | 1 |

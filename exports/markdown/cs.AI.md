@@ -1,5 +1,10 @@
 # Cs.Ai Export
 
+## Intelligence Primer
+- **ID**: arxiv_2008.07324v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2008.07324v6](http://arxiv.org/abs/2008.07324v6)
+
 ## Chain-of-Thought Reasoning In The Wild Is Not Always Faithful
 - **ID**: arxiv_2503.08679v6
 - **Source**: ArXiv
@@ -315,6 +320,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.22030v2](http://arxiv.org/abs/2606.22030v2)
 
+## EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures
+- **ID**: arxiv_2606.30219v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.30219v4](http://arxiv.org/abs/2606.30219v4)
+
 ## Inoculation Adapters: Improved Selective Generalization of Capabilities with Fewer Surprising Backdoors
 - **ID**: arxiv_2606.30252v2
 - **Source**: ArXiv
@@ -470,6 +480,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19338v1](http://arxiv.org/abs/2607.19338v1)
 
+## AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally
+- **ID**: arxiv_2607.19363v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19363v2](http://arxiv.org/abs/2607.19363v2)
+
 ## PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning
 - **ID**: arxiv_2607.20064v2
 - **Source**: ArXiv
@@ -585,6 +600,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22465v1](http://arxiv.org/abs/2607.22465v1)
 
+## TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI
+- **ID**: arxiv_2607.22465v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22465v2](http://arxiv.org/abs/2607.22465v2)
+
 ## The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
 - **ID**: arxiv_2607.22520v1
 - **Source**: ArXiv
@@ -594,4 +614,24 @@
 - **ID**: arxiv_2607.22525v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22525v1](http://arxiv.org/abs/2607.22525v1)
+
+## Efficiency Matters in Autonomous Research
+- **ID**: arxiv_2607.24647v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24647v1](http://arxiv.org/abs/2607.24647v1)
+
+## Reason-Mediated Behavioral Models for Auditing LLM Social Simulators
+- **ID**: arxiv_2607.24649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24649v1](http://arxiv.org/abs/2607.24649v1)
+
+## Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating
+- **ID**: arxiv_2607.24667v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24667v1](http://arxiv.org/abs/2607.24667v1)
+
+## ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams
+- **ID**: arxiv_2607.24707v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24707v1](http://arxiv.org/abs/2607.24707v1)
 

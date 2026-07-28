@@ -1,5 +1,10 @@
 # Cs.Lg Export
 
+## Sampling Decisions: Exact Path-Space Correction, Prior Cancellation and Local-Boltzmann Guidance
+- **ID**: arxiv_2503.14549v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.14549v3](http://arxiv.org/abs/2503.14549v3)
+
 ## Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
 - **ID**: arxiv_2505.18934v2
 - **Source**: ArXiv
@@ -29,6 +34,11 @@
 - **ID**: arxiv_2509.23937v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.23937v5](http://arxiv.org/abs/2509.23937v5)
+
+## Seesaw: Accelerating Training by Balancing Learning Rate and Batch Size Scheduling
+- **ID**: arxiv_2510.14717v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.14717v2](http://arxiv.org/abs/2510.14717v2)
 
 ## When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs
 - **ID**: arxiv_2510.22228v2
@@ -414,4 +424,9 @@
 - **ID**: arxiv_2607.22489v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22489v1](http://arxiv.org/abs/2607.22489v1)
+
+## Sparse Autoencoders Encode Both Concepts and Functions: The Downstream Geometry of Feature Effects
+- **ID**: arxiv_2607.24645v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24645v1](http://arxiv.org/abs/2607.24645v1)
 

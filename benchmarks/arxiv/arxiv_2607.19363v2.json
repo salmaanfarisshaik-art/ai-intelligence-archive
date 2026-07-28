@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19363v2",
+  "schema_version": "1.0",
+  "name": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19363v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19363v2",
+    "updated": "2026-07-27T17:19:01Z",
+    "published": "2026-06-05T05:09:15Z",
+    "title": "AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally",
+    "summary": "Rotary Position Embedding (RoPE) is widely adopted in Transformers to encode positional information, yet standard implementations enforce a uniform frequency schedule and scaling across all attention heads. Using simplified retrieval tasks and length generalization scenarios, we show -- both empirically and theoretically -- that heads with different functional roles require distinct frequency ranges and attention scaling factors to operate effectively. Ignoring this structure leads to suboptimal utilization of embedding dimensions and degraded performance, particularly under long-context settings. To address these limitations, we propose AdaRoPE, which equips each attention head with learnable rotation frequencies and attention scaling factors. Pretrained LLMs with AdaRoPE consistently outperform existing RoPE variants, including partial RoPE and NoPE baselines. For context extension, we further show that uniform frequency and attention scaling, used in methods such as YaRN, are suboptimal. By applying head-specific scaling, AdaRoPE enables better context extension while better preserving short-context performance in both the extrapolation setting and the long-context continued pretraining setting. These results highlight the importance of optimizing rotary position embedding at the level of individual attention heads.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T17:19:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19363v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

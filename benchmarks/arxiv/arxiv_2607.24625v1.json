@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.24625v1",
+  "schema_version": "1.0",
+  "name": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.24625v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.24625v1",
+    "updated": "2026-07-27T16:19:45Z",
+    "published": "2026-07-27T16:19:45Z",
+    "title": "Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents",
+    "summary": "Autonomous LLM agents processing mixed-confidentiality data face severe security risks from prompt injection attacks and reasoning errors. While dynamic Information Flow Control (IFC) provides structural security guarantees, traditional taint tracking permanently taints an agent's context upon reading unvetted data, severely restricting downstream utility. We present APPA (Agentic Permissions Policy Algebra), an IFC framework that resolves this usability bottleneck through engine-managed context branching and prospective acquisition enforcement. Before data acquisition occurs, APPA prospectively evaluates label descents and missing prerequisites, generating actionable remedy plans (Authorize, Accept). To inspect unvetted data without polluting the primary context, a label-seeded child trajectory is spawned, absorbing label descent locally and allowing a trusted sanitizer to return a bounded derivative to the unchanged parent. Governed by a two-monoid model over security labels and shared event logs, we formally prove parent label preservation and merge confinement. Finally, we evaluate APPA on a multi-turn tool-chaining benchmark across four models: it suppresses exfiltration (31%-50% down to 0%-7% attack success), and on three of the four, branching recovers a substantial share of the utility that taint tracking alone forfeits.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T16:19:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.24625v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.24683v1",
+  "schema_version": "1.0",
+  "name": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.24683v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.24683v1",
+    "updated": "2026-07-27T17:23:30Z",
+    "published": "2026-07-27T17:23:30Z",
+    "title": "Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification",
+    "summary": "Multi-modal classification leverages complementary information across diverse data sources to enhance predictive performance. However, real-world scenarios subject to operational constraints, such as sensor failures or privacy restrictions, lead to inconsistent modality availability between training and inference times. To handle missing modalities, prior studies have mainly covered bimodal data setups and focused on designing robust fusion processes. Instead, we adopt a multi-modal co-learning framework that prioritizes inter-modal collaboration rather than multi-modal fusion. Specifically, we consider that any subset of modalities may be absent, without assuming predefined missing-modality patterns, an inference scenario we refer to as missing arbitrary modalities. To address this challenge, we introduce two alternative approaches that leverage information at both feature- and decision-level. Experiments on two multi-modal classification benchmarks demonstrate significant robustness gains in various missing modality conditions. The first method shows more robust behavior under minimal missing conditions, where a single modality is absent, whereas the second performs better under extreme missing conditions, where all-but-one modalities are missing. Our code is available at https://github.com/fmenat/Co4Miss.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T17:23:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.24683v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

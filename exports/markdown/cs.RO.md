@@ -140,3 +140,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22535v1](http://arxiv.org/abs/2607.22535v1)
 
+## Data Pyramid for Embodied Manipulation
+- **ID**: arxiv_2607.24744v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24744v1](http://arxiv.org/abs/2607.24744v1)
+

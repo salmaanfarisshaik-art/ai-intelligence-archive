@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.15553v2",
+  "schema_version": "1.0",
+  "name": "Self-Distillation of Hidden Layers for Self-Supervised Representation Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.15553v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.15553v2",
+    "updated": "2026-07-27T17:51:19Z",
+    "published": "2026-03-16T17:13:27Z",
+    "title": "Self-Distillation of Hidden Layers for Self-Supervised Representation Learning",
+    "summary": "The landscape of self-supervised learning (SSL) is currently dominated by generative approaches (e.g. MAE) that reconstruct raw low-level data, and predictive approaches (e.g. I-JEPA) that predict high-level abstract embeddings. While generative methods are stable due to their reliable training targets based on ground-truth data, they are computationally inefficient for high-redundancy modalities like imagery, and their training objective does not prioritize learning high-level, conceptual features. Conversely, predictive methods often suffer from training instability due to their reliance on the non-stationary targets of final-layer self-distillation. We introduce Bootleg, a method that bridges this divide by tasking the model with predicting latent representations from multiple hidden layers of a teacher. This hierarchical objective forces the model to capture features at varying levels of abstraction simultaneously. We demonstrate Bootleg significantly outperforms comparable baselines (+10% vs. I-JEPA) on frozen probe classification of ImageNet-1K, iNaturalist-21, and VTAB, and semantic segmentation of ADE20K, Cityscapes, and COCO-Stuff.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T17:51:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.15553v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

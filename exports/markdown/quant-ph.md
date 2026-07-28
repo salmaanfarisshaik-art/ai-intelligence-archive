@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22516v1](http://arxiv.org/abs/2607.22516v1)
 
+## Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures
+- **ID**: arxiv_2607.24714v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24714v1](http://arxiv.org/abs/2607.24714v1)
+

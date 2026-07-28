@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.24729v1",
+  "schema_version": "1.0",
+  "name": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.24729v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.24729v1",
+    "updated": "2026-07-27T17:57:00Z",
+    "published": "2026-07-27T17:57:00Z",
+    "title": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+    "summary": "We introduce MicroZoom, a generative framework for gigapixel image synthesis at the microscopic scale. Given a standard photograph and a sparse set of consumer-grade microscope close-ups, MicroZoom synthesizes a seamless, gigapixel-resolution image grounded in the material character of the real references, enabling exploratory visualization of microscopic texture across the full spatial extent of an object. Our goal is plausible synthesis, not exact reconstruction. We focus on full-image, reference-based, extreme-scale super-resolution at magnification levels of up to 350x, a setting that introduces two major challenges: (1) recovering texture-specific detail from highly lossy inputs near ambiguous material boundaries, and (2) preserving correct large-scale pattern structure, such as the repeating geometry of a fabric weave, across millions of local predictions. We address these with a two-stage cascaded design, where the first stage recovers global pattern coherence and the second refines local texture detail, supplemented by a segmentation mask to guide synthesis at ambiguous boundaries. We verify our approach on a collection of self-captured everyday objects and demonstrate globally coherent, materially grounded gigapixel imagery.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T17:57:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.24729v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

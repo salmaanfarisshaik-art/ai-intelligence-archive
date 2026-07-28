@@ -170,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.12144v4](http://arxiv.org/abs/2603.12144v4)
 
+## Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
+- **ID**: arxiv_2603.15553v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
+
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
@@ -179,6 +184,11 @@
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
+## ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
+- **ID**: arxiv_2605.15375v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15375v2](http://arxiv.org/abs/2605.15375v2)
 
 ## Rethinking Cross-Layer Information Routing in Diffusion Transformers
 - **ID**: arxiv_2605.20708v2
@@ -389,6 +399,11 @@
 - **ID**: arxiv_2606.17049v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.17049v1](http://arxiv.org/abs/2606.17049v1)
+
+## Enhancing Pathological VLMs with Cross-scale Reasoning
+- **ID**: arxiv_2606.17412v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17412v4](http://arxiv.org/abs/2606.17412v4)
 
 ## Predicting Immune Biomarkers with MultiModal Mixture-of-Expert Pathology Foundation Models Empowers Precision Oncology
 - **ID**: arxiv_2606.18123v1
@@ -830,6 +845,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19344v1](http://arxiv.org/abs/2607.19344v1)
 
+## G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection
+- **ID**: arxiv_2607.19942v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19942v2](http://arxiv.org/abs/2607.19942v2)
+
 ## Vera: Identity-Faithful Human Subject-to-Video Generation
 - **ID**: arxiv_2607.20247v1
 - **Source**: ArXiv
@@ -1035,6 +1055,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21595v1](http://arxiv.org/abs/2607.21595v1)
 
+## Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering
+- **ID**: arxiv_2607.21848v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21848v2](http://arxiv.org/abs/2607.21848v2)
+
 ## IR275K: A Benchmark for Infrared Multi-Frame Super-Resolution Toward Efficient Remote Sensing
 - **ID**: arxiv_2607.22380v1
 - **Source**: ArXiv
@@ -1064,4 +1089,79 @@
 - **ID**: arxiv_2607.22534v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22534v1](http://arxiv.org/abs/2607.22534v1)
+
+## CameraAnything: Refilming Videos with Arbitrary Camera Control
+- **ID**: arxiv_2607.24591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24591v1](http://arxiv.org/abs/2607.24591v1)
+
+## QueenVIS: Rethinking Image-Only Training for Video Instance Segmentation via Query Enrichment
+- **ID**: arxiv_2607.24598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24598v1](http://arxiv.org/abs/2607.24598v1)
+
+## Test-Time Adaptation via Dual Distillation for Videos Under Severe Distribution Shifts
+- **ID**: arxiv_2607.24611v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24611v1](http://arxiv.org/abs/2607.24611v1)
+
+## Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels
+- **ID**: arxiv_2607.24651v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24651v1](http://arxiv.org/abs/2607.24651v1)
+
+## MMOE: Modernizing Diffusion Transformers with Efficient Expert Design
+- **ID**: arxiv_2607.24665v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24665v1](http://arxiv.org/abs/2607.24665v1)
+
+## Co-Learning for Missing Arbitrary Modalities in Multi-modal Classification
+- **ID**: arxiv_2607.24683v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24683v1](http://arxiv.org/abs/2607.24683v1)
+
+## Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking
+- **ID**: arxiv_2607.24701v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24701v1](http://arxiv.org/abs/2607.24701v1)
+
+## Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging
+- **ID**: arxiv_2607.24703v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24703v1](http://arxiv.org/abs/2607.24703v1)
+
+## SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations
+- **ID**: arxiv_2607.24706v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24706v1](http://arxiv.org/abs/2607.24706v1)
+
+## DreamStyle3D: Efficient 3D Stylized Asset Generation via Dual-Attention Disentanglement
+- **ID**: arxiv_2607.24721v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24721v1](http://arxiv.org/abs/2607.24721v1)
+
+## Infrared Imaging Empowered by Artificial Intelligence for Pediatric Skeletal Triage: A Narrative Review and Future Perspectives
+- **ID**: arxiv_2607.24727v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24727v1](http://arxiv.org/abs/2607.24727v1)
+
+## MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale
+- **ID**: arxiv_2607.24729v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24729v1](http://arxiv.org/abs/2607.24729v1)
+
+## KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability
+- **ID**: arxiv_2607.24730v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24730v1](http://arxiv.org/abs/2607.24730v1)
+
+## Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
+- **ID**: arxiv_2607.24731v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24731v1](http://arxiv.org/abs/2607.24731v1)
+
+## ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding
+- **ID**: arxiv_2607.24743v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24743v1](http://arxiv.org/abs/2607.24743v1)
 

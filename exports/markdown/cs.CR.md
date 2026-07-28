@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15263v2](http://arxiv.org/abs/2607.15263v2)
 
+## Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents
+- **ID**: arxiv_2607.15263v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15263v3](http://arxiv.org/abs/2607.15263v3)
+
 ## Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities
 - **ID**: arxiv_2607.16175v1
 - **Source**: ArXiv
@@ -84,4 +89,9 @@
 - **ID**: arxiv_2607.20255v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20255v1](http://arxiv.org/abs/2607.20255v1)
+
+## Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents
+- **ID**: arxiv_2607.24625v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24625v1](http://arxiv.org/abs/2607.24625v1)
 

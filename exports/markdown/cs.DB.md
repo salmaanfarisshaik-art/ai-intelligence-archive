@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08552v2](http://arxiv.org/abs/2604.08552v2)
 
+## Beyond Scale and Generation: Understanding Language Model-based Entity Matching
+- **ID**: arxiv_2607.24688v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24688v1](http://arxiv.org/abs/2607.24688v1)
+

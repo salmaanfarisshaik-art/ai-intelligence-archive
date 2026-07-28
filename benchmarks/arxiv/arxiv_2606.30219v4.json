@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.30219v4",
+  "schema_version": "1.0",
+  "name": "EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.30219v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.30219v4",
+    "updated": "2026-07-27T16:02:21Z",
+    "published": "2026-06-29T12:33:06Z",
+    "title": "EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures",
+    "summary": "This paper presents a systematic survey and conceptual synthesis of the shared measurement problem underlying large language model (LLM) evaluation and AI safety: benchmark scores, reward signals, and safety metrics can improve while the capabilities and alignment properties they are meant to represent remain uncertain. Synthesizing 373 primary studies published between 2018 and 2026, the survey organizes evidence on benchmark validity, contamination, dynamic evaluation, LLM-as-a-judge protocols, adversarial safety testing, reward and proxy optimization, mechanistic interpretability, and AI governance into an eight-stream evidence taxonomy. Building on this synthesis, we introduce EvalSafetyGap, a conceptual framework that unifies benchmark-validity and alignment-failure research as a shared proxy-target divergence problem under optimization pressure, formalized through a Goodhart-inspired Instability Decomposition and an Alignment Trilemma. An exploratory ten-model public-evidence audit illustrates the framework by showing why capability, behavioral robustness, and governance disclosure should be reported as separate evidence layers rather than collapsed into a single safety score. The survey closes with a research agenda for dynamic and contamination-resistant benchmarks, pre-specified multi-attempt threat models, version-locked evaluation, transparent source reporting, and validated mechanistic safety indicators, offering researchers, model developers, and AI auditors a shared vocabulary for measurement-aware LLM safety evaluation.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-28T04:07:46Z",
+  "last_updated": "2026-07-27T16:02:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.30219v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

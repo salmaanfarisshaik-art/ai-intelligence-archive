@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22400v1](http://arxiv.org/abs/2607.22400v1)
 
+## Denial of Deadline: Network-Driven Accuracy Collapse in Distributed Inference Pipelines
+- **ID**: arxiv_2607.24692v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24692v1](http://arxiv.org/abs/2607.24692v1)
+
