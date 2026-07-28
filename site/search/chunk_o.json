@@ -8095,11 +8095,6 @@
       "entity_id": "dataset_alexisplacet_adsblol_globe_history",
       "match_type": "exact",
       "score": 1.5
-    },
-    {
-      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "odc": [
@@ -63507,6 +63502,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/scientific-computing-agentic-ai",
       "match_type": "exact",
       "score": 2.0
     },
@@ -179358,6 +179358,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_voxel51_office_home",
       "match_type": "exact",
       "score": 2.5
@@ -180724,11 +180729,6 @@
     },
     {
       "entity_id": "dataset_sunghong_cads_dataset",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 1.5
     },

@@ -4531,6 +4531,11 @@
 - **URL**: [https://openai.com/index/schoolai](https://openai.com/index/schoolai)
 
 ## 
+- **ID**: rss_https://openai.com/index/scientific-computing-agentic-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/scientific-computing-agentic-ai](https://openai.com/index/scientific-computing-agentic-ai)
+
+## 
 - **ID**: rss_https://openai.com/index/scout24
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/scout24](https://openai.com/index/scout24)
