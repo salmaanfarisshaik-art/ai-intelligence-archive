@@ -928,6 +928,10 @@
 - **ID**: model_drawais_qwen3_embedding_8b_awq_int4
 - **Source**: 
 
+## Dream-org/Dream-v0-Base-7B
+- **ID**: model_dream_org_dream_v0_base_7b
+- **Source**: 
+
 ## Dream-org/Dream-v0-Instruct-7B
 - **ID**: model_dream_org_dream_v0_instruct_7b
 - **Source**: 
@@ -1130,6 +1134,10 @@
 
 ## GadflyII/Qwen3-Coder-Next-NVFP4
 - **ID**: model_gadflyii_qwen3_coder_next_nvfp4
+- **Source**: 
+
+## gdubicki/Qwen3-Coder-Next-NVFP4-GB10
+- **ID**: model_gdubicki_qwen3_coder_next_nvfp4_gb10
 - **Source**: 
 
 ## GeneralAnalysis/GA_Guard_Core
@@ -2132,6 +2140,10 @@
 - **ID**: model_lukealonso_glm_5_2_nvfp4
 - **Source**: 
 
+## LukeBailey181Pub/dspv2_guide
+- **ID**: model_lukebailey181pub_dspv2_guide
+- **Source**: 
+
 ## LykosAI/GPT-Prompt-Expansion-Fooocus-v2
 - **ID**: model_lykosai_gpt_prompt_expansion_fooocus_v2
 - **Source**: 
@@ -2686,6 +2698,10 @@
 
 ## mmangkad/Qwen3.6-35B-A3B-NVFP4
 - **ID**: model_mmangkad_qwen3_6_35b_a3b_nvfp4
+- **Source**: 
+
+## Model-SafeTensors/L3-Aethora-15B
+- **ID**: model_model_safetensors_l3_aethora_15b
 - **Source**: 
 
 ## moondream/moondream3-preview
@@ -4810,6 +4826,10 @@
 
 ## unsloth/gpt-oss-20b-unsloth-bnb-4bit
 - **ID**: model_unsloth_gpt_oss_20b_unsloth_bnb_4bit
+- **Source**: 
+
+## unsloth/Kimi-K2-Instruct-GGUF
+- **ID**: model_unsloth_kimi_k2_instruct_gguf
 - **Source**: 
 
 ## unsloth/Laguna-S-2.1-GGUF
