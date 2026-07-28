@@ -66977,6 +66977,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_nano_12b_v2",
       "match_type": "exact",
       "score": 3.0
@@ -67042,6 +67047,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_qwen_qwen3_14b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_qwen_qwen3_1_7b",
       "match_type": "exact",
       "score": 3.0
@@ -67093,6 +67103,11 @@
     },
     {
       "entity_id": "model_qwen_qwen3_next_80b_a3b_instruct",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_qwen_qwq_32b",
       "match_type": "exact",
       "score": 3.0
     },
@@ -67177,11 +67192,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_bigcode_tiny_starcoder_py",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_bigscience_bloom_1b7",
       "match_type": "exact",
       "score": 1.5
@@ -67217,6 +67227,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_coherelabs_north_mini_code_1_0_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_cyankiwi_glm_4_7_flash_awq_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -67228,6 +67243,11 @@
     },
     {
       "entity_id": "model_deepcogito_cogito_v1_preview_qwen_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_deepreinforce_ai_ornith_1_0_397b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -67377,11 +67397,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_hugging_quants_gemma_2_9b_it_awq_int4",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_hugging_quants_meta_llama_3_1_70b_instruct_awq_int4",
       "match_type": "exact",
       "score": 1.5
@@ -67488,11 +67503,6 @@
     },
     {
       "entity_id": "model_kosbu_llama_3_3_70b_instruct_awq",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_kyujinpy_ko_platyi_6b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -67637,17 +67647,17 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_microsoft_phi_4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_microsoft_phi_4_mini_instruct",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "model_minimaxai_minimax_m2_7",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_nm_testing_meta_llama_3_8b_instruct_nonuniform_test",
       "match_type": "exact",
       "score": 1.5
     },
@@ -67677,11 +67687,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_nvidia_gemma_4_31b_it_nvfp4",
       "match_type": "exact",
       "score": 1.5
@@ -67707,7 +67712,7 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_nvfp4",
+      "entity_id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_fp8",
       "match_type": "exact",
       "score": 1.5
     },
@@ -67962,11 +67967,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_qwen_qwen3_14b",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_qwen_qwen3_235b_a22b_instruct_2507",
       "match_type": "exact",
       "score": 1.5
@@ -68077,7 +68077,7 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_qwen_qwq_32b",
+      "entity_id": "model_qwen_qwq_32b_preview",
       "match_type": "exact",
       "score": 1.5
     },
@@ -68282,12 +68282,27 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_zai_org_glm_4_7",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_zai_org_glm_4_7_flash",
       "match_type": "exact",
       "score": 1.5
     },
     {
+      "entity_id": "model_zai_org_glm_4_7_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_zai_org_glm_5_1_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_zai_org_glm_5_2_fp8",
       "match_type": "exact",
       "score": 1.5
     },

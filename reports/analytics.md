@@ -129,7 +129,7 @@
 - **format:parquet**: 37
 - **text-generation-inference**: 31
 - **enterprise**: 25
-- **deploy:azure**: 22
+- **deploy:azure**: 24
 - **en**: 22
 - **eval-results**: 22
 - **library:dask**: 22

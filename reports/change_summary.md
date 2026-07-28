@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 87
+**Total Changes:** 90
 
 ## Added
 None
@@ -8,32 +8,35 @@ None
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
+- data/metadata/tag_index.json
+- datasets/essentialai/hf_ds_6851cac31458ae6b02f8e8e7.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
+- exports/csv/text-generation.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
+- exports/json/text-generation.json
+- exports/markdown/text-generation.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/google/hf_google_gemma-3-1b-it.json
 - models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/zai-org/hf_zai-org_GLM-5.2-FP8.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -44,7 +47,6 @@ None
 - reports/integrity_status.json
 - reports/project_status.json
 - reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -75,6 +77,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json

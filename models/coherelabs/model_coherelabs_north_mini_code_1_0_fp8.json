@@ -15,7 +15,8 @@
     "base_model:quantized:CohereLabs/North-Mini-Code-1.0",
     "license:apache-2.0",
     "compressed-tensors",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
