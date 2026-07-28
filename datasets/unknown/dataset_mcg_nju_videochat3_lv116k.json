@@ -9,7 +9,7 @@
   "private": false,
   "sha": "29502105d34030c10ff8d290cd6bbad1195a4140",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tVideoChat3-LV116K\n\t\n\nVideoChat3-LV116K is the long-video instruction data used by VideoChat3. It is designed to complement short academic video data with supervision over longer temporal contexts, where evidence can be sparse, delayed, and distributed across multiple video segments.\nThe dataset is constructed through a long-video synthesis pipeline. Candidate long videos are filtered for visual quality, semantic content, and temporal coherence. Videos are then split into manageable… See the full description on the dataset page: https://huggingface.co/datasets/MCG-NJU/VideoChat3-LV116k.",
-  "downloads": 33590,
+  "downloads": 36056,
   "tags": [
     "task_categories:video-text-to-text",
     "language:en",

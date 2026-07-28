@@ -9,7 +9,7 @@
   "private": false,
   "sha": "307ba33320c688820f23031148f21e0e01a963c6",
   "description": "\n\t\n\t\t\n\t\tBSRN MERRA-2 Atmospheric Inputs\n\t\n\nPoint-extracted MERRA-2 reanalysis data for Baseline Surface Radiation Network (BSRN) stations. These parquet files provide atmospheric and aerosol inputs for the REST2 clear-sky radiation model [2].\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nEach file contains hourly MERRA-2 variables [1] at a single BSRN station location. Extraction is performed via Google Earth Engine (GEE) from NASA's 0.5° × 0.625° global grid. Data are aligned to the MERRA-2 grid cell… See the full description on the dataset page: https://huggingface.co/datasets/dazhiyang/bsrn-merra2.",
-  "downloads": 33322,
+  "downloads": 33237,
   "tags": [
     "language:en",
     "license:mit",

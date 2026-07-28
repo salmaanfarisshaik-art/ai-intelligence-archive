@@ -671,6 +671,11 @@
   ],
   "4096": [
     {
+      "entity_id": "dataset_yijingguo_panocity",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_h2oai_h2ogpt-4096-llama2-7b-chat",
       "match_type": "exact",
       "score": 2.0
@@ -836,6 +841,11 @@
     },
     {
       "entity_id": "dataset_salt_research_deepdialogue_orpheus",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yijingguo_panocity",
       "match_type": "exact",
       "score": 1.0
     }

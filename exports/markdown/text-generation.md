@@ -4173,6 +4173,12 @@
 - **URL**: [https://huggingface.co/prefeitura-rio/Rio-3.0-Open-Mini](https://huggingface.co/prefeitura-rio/Rio-3.0-Open-Mini)
 - **Tags**: arxiv:2510.05069, base_model:Qwen/Qwen3-4B-Thinking-2507, base_model:finetune:Qwen/Qwen3-4B-Thinking-2507, conversational, en, endpoints_compatible, license:mit, pt, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
+## prism-ml/Bonsai-27B-gguf
+- **ID**: hf_prism-ml_Bonsai-27B-gguf
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)
+- **Tags**: 1-bit, base_model:Qwen/Qwen3.6-27B, base_model:quantized:Qwen/Qwen3.6-27B, bonsai, conversational, cuda, endpoints_compatible, eval-results, gguf, hybrid-attention, license:apache-2.0, llama-cpp, llama.cpp, metal, on-device, prismml, region:us, text-generation
+
 ## prism-ml/Bonsai-8B-gguf
 - **ID**: hf_prism-ml_Bonsai-8B-gguf
 - **Source**: Hugging Face

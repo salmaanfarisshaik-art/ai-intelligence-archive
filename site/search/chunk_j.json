@@ -5422,6 +5422,13 @@
       "score": 2.0
     }
   ],
+  "jinan": [
+    {
+      "entity_id": "dataset_yijingguo_panocity",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jingle": [
     {
       "entity_id": "alpaca_6263200809776716077",
@@ -14734,6 +14741,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_hf_internal_testing_compressed_files",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_hf_internal_testing_raw_jsonl",
       "match_type": "exact",
       "score": 1.5
@@ -15140,6 +15152,11 @@
     },
     {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yijingguo_panocity",
       "match_type": "exact",
       "score": 1.0
     },

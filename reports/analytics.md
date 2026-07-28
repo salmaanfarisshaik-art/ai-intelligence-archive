@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85761
+**Total Entities Tracked**: 85762
 
 ## Category Distribution
 
@@ -11,7 +11,7 @@
 - **datasets**: 1169
 - **dataset**: 1128
 - **news**: 1070
-- **text-generation**: 998
+- **text-generation**: 999
 - **cs.CV**: 233
 - **cs.CL**: 136
 - **cs.AI**: 127
@@ -70,7 +70,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 29681
-- **Hugging Face**: 2005
+- **Hugging Face**: 2006
 - **OpenAI Blog**: 1057
 - **ArXiv**: 729
 - **HuggingFace Datasets**: 128
@@ -113,17 +113,17 @@
 
 ## Top Tags
 
-- **region:us**: 188
-- **text-generation**: 61
+- **region:us**: 189
+- **text-generation**: 62
 - **library:datasets**: 58
 - **library:mlcroissant**: 58
+- **endpoints_compatible**: 54
 - **safetensors**: 54
 - **transformers**: 54
-- **endpoints_compatible**: 53
 - **modality:text**: 53
-- **license:apache-2.0**: 51
+- **license:apache-2.0**: 52
+- **conversational**: 47
 - **language:en**: 47
-- **conversational**: 46
 - **library:polars**: 44
 - **license:mit**: 39
 - **format:parquet**: 37
@@ -131,9 +131,9 @@
 - **enterprise**: 25
 - **deploy:azure**: 22
 - **en**: 22
+- **eval-results**: 22
 - **library:dask**: 22
 - **library:pandas**: 22
-- **eval-results**: 21
 - **task_categories:text-generation**: 20
 - **deploy:sagemaker**: 17
 - **api**: 16

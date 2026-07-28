@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:38:16Z",
+  "generated_at": "2026-07-28T10:34:22Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -967,6 +967,7 @@
       "model_w_ahmad_qwopus3_5_9b_coder_mtp_gguf_moq"
     ],
     "hf_Qwen_Qwen3.6-27B": [
+      "hf_prism-ml_Bonsai-27B-gguf",
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
       "model_alennnndy_qwen3_6_27b_awq_4bit",
       "model_batiai_qwen3_6_27b_gguf",
@@ -1032,6 +1033,9 @@
     ],
     "hf_TheDrummer_Cydonia-24B-v4.2.0": [
       "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf"
+    ],
+    "hf_TheSkullery_Aether-Lite-V1.2": [
+      "model_model_safetensors_l3_aethora_15b"
     ],
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v0.3": [
       "model_thebloke_tinyllama_1_1b_chat_v0_3_awq",
@@ -1991,6 +1995,9 @@
     "hf_mlx-community_Llama-3.2-3B-Instruct": [
       "model_mlx_community_llama_3_2_3b_instruct_4bit"
     ],
+    "hf_moonshotai_Kimi-K2-Instruct": [
+      "model_unsloth_kimi_k2_instruct_gguf"
+    ],
     "hf_moonshotai_Kimi-K2-Thinking": [
       "model_nvidia_kimi_k2_thinking_nvfp4"
     ],
@@ -2456,6 +2463,9 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
     ],
+    "hf_prism-ml_Bonsai-27B-gguf": [
+      "hf_Qwen_Qwen3.6-27B"
+    ],
     "hf_prism-ml_Bonsai-8B-unpacked": [
       "model_prism_ml_bonsai_8b_gguf"
     ],
@@ -2485,6 +2495,7 @@
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
     "hf_saricles_Qwen3-Coder-Next-NVFP4-GB10": [
+      "model_gdubicki_qwen3_coder_next_nvfp4_gb10",
       "model_ucbye_qwen3_coder_next_nvfp4_gb10"
     ],
     "hf_sarvamai_sarvam-30b": [
@@ -3362,6 +3373,9 @@
     "model_gadflyii_qwen3_coder_next_nvfp4": [
       "hf_Qwen_Qwen3-Coder-Next"
     ],
+    "model_gdubicki_qwen3_coder_next_nvfp4_gb10": [
+      "hf_saricles_Qwen3-Coder-Next-NVFP4-GB10"
+    ],
     "model_generalanalysis_ga_guard_core": [
       "hf_GeneralAnalysis_GA_Guardrail_Benchmark",
       "hf_Qwen_Qwen3-4B-Instruct-2507"
@@ -4183,6 +4197,9 @@
     ],
     "model_mmangkad_qwen3_6_35b_a3b_nvfp4": [
       "hf_Qwen_Qwen3.6-35B-A3B"
+    ],
+    "model_model_safetensors_l3_aethora_15b": [
+      "hf_TheSkullery_Aether-Lite-V1.2"
     ],
     "model_mratsim_glm_4_32b_0414_w4a16_gptq": [
       "hf_mit-han-lab_pile-val-backup",
@@ -5442,6 +5459,9 @@
     ],
     "model_unsloth_gpt_oss_20b_unsloth_bnb_4bit": [
       "hf_openai_gpt-oss-20b"
+    ],
+    "model_unsloth_kimi_k2_instruct_gguf": [
+      "hf_moonshotai_Kimi-K2-Instruct"
     ],
     "model_unsloth_laguna_s_2_1_gguf": [
       "hf_poolside_Laguna-S-2.1"

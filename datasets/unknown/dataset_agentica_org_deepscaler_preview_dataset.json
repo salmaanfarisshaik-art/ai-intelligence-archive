@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b6ae8c60f5c1f2b594e2140b91c49c9ad0949e29",
   "description": "\n\t\n\t\t\n\t\tData\n\t\n\nOur training dataset consists of approximately 40,000 unique mathematics problem-answer pairs compiled from:\n\nAIME (American Invitational Mathematics Examination) problems (1984-2023)\nAMC (American Mathematics Competition) problems (prior to 2023)\nOmni-MATH dataset\nStill dataset\n\n\n\t\n\t\t\n\t\tFormat\n\t\n\nEach row in the JSON dataset contains:\n\nproblem: The mathematical question text, formatted with LaTeX notation.\nsolution: Offical solution to the problem, including LaTeX formatting… See the full description on the dataset page: https://huggingface.co/datasets/agentica-org/DeepScaleR-Preview-Dataset.",
-  "downloads": 24072,
+  "downloads": 23811,
   "tags": [
     "language:en",
     "license:mit",

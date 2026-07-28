@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:38:16Z",
+  "generated_at": "2026-07-28T10:34:22Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -219,6 +219,11 @@
     {
       "source_id": "hf_prefeitura-rio_Rio-3.0-Open-Mini",
       "target_id": "hf_Qwen_Qwen3-4B-Thinking-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_prism-ml_Bonsai-27B-gguf",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
     },
     {
@@ -1669,6 +1674,11 @@
     {
       "source_id": "model_gadflyii_qwen3_coder_next_nvfp4",
       "target_id": "hf_Qwen_Qwen3-Coder-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_gdubicki_qwen3_coder_next_nvfp4_gb10",
+      "target_id": "hf_saricles_Qwen3-Coder-Next-NVFP4-GB10",
       "type": "derived_from"
     },
     {
@@ -3390,6 +3400,11 @@
       "source_id": "model_mmangkad_qwen3_6_35b_a3b_nvfp4",
       "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_model_safetensors_l3_aethora_15b",
+      "target_id": "hf_TheSkullery_Aether-Lite-V1.2",
+      "type": "trained_on"
     },
     {
       "source_id": "model_mratsim_glm_4_32b_0414_w4a16_gptq",
@@ -6354,6 +6369,11 @@
     {
       "source_id": "model_unsloth_gpt_oss_20b_unsloth_bnb_4bit",
       "target_id": "hf_openai_gpt-oss-20b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_kimi_k2_instruct_gguf",
+      "target_id": "hf_moonshotai_Kimi-K2-Instruct",
       "type": "derived_from"
     },
     {

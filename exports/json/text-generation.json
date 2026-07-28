@@ -9314,6 +9314,40 @@
     "local_path": "models/prefeitura-rio/hf_prefeitura-rio_Rio-3.0-Open-Mini.json"
   },
   {
+    "id": "hf_prism-ml_Bonsai-27B-gguf",
+    "title": "prism-ml/Bonsai-27B-gguf",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "1-bit",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:quantized:Qwen/Qwen3.6-27B",
+      "bonsai",
+      "conversational",
+      "cuda",
+      "endpoints_compatible",
+      "eval-results",
+      "gguf",
+      "hybrid-attention",
+      "license:apache-2.0",
+      "llama-cpp",
+      "llama.cpp",
+      "metal",
+      "on-device",
+      "prismml",
+      "region:us",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+    "local_path": "models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json"
+  },
+  {
     "id": "hf_prism-ml_Bonsai-8B-gguf",
     "title": "prism-ml/Bonsai-8B-gguf",
     "category": "text-generation",

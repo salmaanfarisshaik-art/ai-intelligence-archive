@@ -9,7 +9,7 @@
   "private": false,
   "sha": "71a827c3d3481bbaa55e5946ecb8d56b6b6d0bcf",
   "description": "\n\t\n\t\t\n\t\t🗃️ TroveLedger — Financial Time Series Dataset\n\t\n\n\nA growing ledger of accumulated market history.\n\n\n\t\n\t\t\n\t\t⚠️ Temporary Notice: Intraday Data Adjustments (January 2026)\n\t\n\nWhat happened:A discrepancy has been identified in the minute- and hourly-resolution data: these series are currently not fully adjusted for stock splits and dividends. Daily-resolution data remains correctly adjusted (as provided by the source).\nWhy this matters:For accurate backtesting and model training –… See the full description on the dataset page: https://huggingface.co/datasets/Flori83/TroveLedger.",
-  "downloads": 26687,
+  "downloads": 25914,
   "tags": [
     "task_categories:time-series-forecasting",
     "task_categories:tabular-regression",
