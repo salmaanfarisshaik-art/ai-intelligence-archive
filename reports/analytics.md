@@ -130,7 +130,6 @@
 - **format:parquet**: 37
 - **text-generation-inference**: 31
 - **enterprise**: 25
-- **deploy:azure**: 24
 - **en**: 22
 - **eval-results**: 22
 - **library:dask**: 22
@@ -164,3 +163,4 @@
 - **custom_code**: 7
 - **language:fr**: 7
 - **language_creators:found**: 7
+- **llama**: 7

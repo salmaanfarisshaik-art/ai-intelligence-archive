@@ -4,10 +4,10 @@
   "author": "DWK-Partners",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-07-16T05:41:58.000Z",
+  "lastModified": "2026-07-29T13:56:17.000Z",
   "likes": 0,
   "private": false,
-  "sha": "40bbaeea1b2f79c269acc32e9452f8db7ffe016c",
+  "sha": "0b28a85af087e946ede0745d04b3feebf17a3896",
   "description": "\n\n\n\n\n\nDartLab Data\n\nStructured company data from DART & EDGAR disclosure filings\nDART 전자공시 + EDGAR 공시 데이터 — 한국 2,700사 / 미국 970사\n\n\n\n\n\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is this?\n\t\n\n\n\nPre-collected Parquet files from DartLab — a Python library that turns DART (Korea) and EDGAR (US) disclosure filings into one structured company map.\n한국 DART 전자공시 시스템과 미국 SEC EDGAR에서 수집한 기업 공시 데이터입니다.\nThis dataset is the data layer behind DartLab. When you run dartlab.Company(\"005930\"), the library automatically downloads the… See the full description on the dataset page: https://huggingface.co/datasets/DWK-Partners/trading-data.",
   "downloads": 24229,
   "tags": [
