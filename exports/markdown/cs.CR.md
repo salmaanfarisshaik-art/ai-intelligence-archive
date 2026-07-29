@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24625v1](http://arxiv.org/abs/2607.24625v1)
 
+## Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?
+- **ID**: arxiv_2607.25995v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25995v1](http://arxiv.org/abs/2607.25995v1)
+

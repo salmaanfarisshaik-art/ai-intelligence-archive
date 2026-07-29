@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25967v1",
+  "schema_version": "1.0",
+  "name": "Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25967v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25967v1",
+    "updated": "2026-07-28T16:47:59Z",
+    "published": "2026-07-28T16:47:59Z",
+    "title": "Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging",
+    "summary": "Singular Value Decomposition (SVD) underlies matrix factorisation tasks across computational imaging, with medical applications increasingly demanding real-time processing. Yet SVD algorithms are inherently sequential, constraining real-time GPU throughput and limit online deployment in clinical pipelines. This study introduces Quasi-SVD, a differentiable, fully parallelized matrix factorization framework for GPUs. Rather than enforcing orthogonality on both factors, it guarantees exact orthogonality for a single Lie-parameterized factor while recovering the remaining components through soft constraints, enabling efficient parallel decomposition without iterative singular-vector optimization. This asymmetric design, provably sufficient for valid factorisation, achieves reconstruction fidelity of SSIM = 0.89-0.94 and accelerates computation by 3-20x relative to cuSOLVER and randomised SVD, enabling throughput above 25 FPS. Performance is evaluated on two medical imaging tasks spanning complementary computational regimes: (1) spatio-temporal background subtraction for ultrasound localisation microscopy, requiring high-dimensional matrix separation, and (2) Mueller matrix polarimetry for neurosurgical tissue characterisation, requiring massive batch processing of small matrices. Across both regimes and multiple imaging instruments, the proposed framework demonstrates robust domain transfer and throughput exceeding 25 FPS at clinical matrix scales, a rate sufficient for live image-guided workflows that classical solvers cannot currently support in these settings. By prioritising downstream reconstruction fidelity over exact spectral recovery, Quasi-SVD makes structured matrix factorisation practical for real-time imaging.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:47:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25967v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

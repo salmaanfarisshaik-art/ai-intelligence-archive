@@ -145,3 +145,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24744v1](http://arxiv.org/abs/2607.24744v1)
 
+## SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models
+- **ID**: arxiv_2607.25912v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25912v1](http://arxiv.org/abs/2607.25912v1)
+
+## $π\mathbf{R}^2$: Reactive Real-time Flow Policies
+- **ID**: arxiv_2607.26055v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26055v1](http://arxiv.org/abs/2607.26055v1)
+

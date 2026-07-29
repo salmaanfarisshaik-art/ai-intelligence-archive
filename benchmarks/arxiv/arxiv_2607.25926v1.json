@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25926v1",
+  "schema_version": "1.0",
+  "name": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25926v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25926v1",
+    "updated": "2026-07-28T16:15:12Z",
+    "published": "2026-07-28T16:15:12Z",
+    "title": "Face De-Identification: A Domain-Centric Survey from Capture to Processing",
+    "summary": "Face de-identification (De-ID) aims to remove or conceal personally identifiable facial features in images or videos to prevent identity recognition while preserving utility for downstream tasks. With the rising emphasis on data privacy and responsible AI, face De-ID has emerged as an active research area spanning computer vision and privacy-preserving communities. Early approaches, and many contemporary ones, operate in the digital domain by modifying pixel-level or appearance-level features through post-capture processing. Recent advances extend face De-ID beyond post-processing by integrating privacy mechanisms directly into sensors during image acquisition, bridging sensing systems and downstream vision algorithms. In parallel, physical-domain methods explore wearable accessories and materials that conceal identity information in real-world environments prior to capture. In this survey, we present the first unified overview that spans the full data acquisition pipeline, encompassing the physical, sensor, and digital domains. Through this domain-centric lens, we systematically analyze current methodologies, technical progress, and the distinct challenges inherent to each stage. We then review and organize existing evaluation protocols, examining current practices and highlighting the critical need for standardized, comprehensive benchmarks. Finally, we identify key open problems and outline emerging research directions to guide future work in this rapidly evolving field. To support ongoing research, we maintain a project page that organizes relevant literature with collected datasets and open source code: https://github.com/CV-AC/Awesome-FaceDe-ID.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:15:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25926v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

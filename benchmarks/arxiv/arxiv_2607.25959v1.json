@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25959v1",
+  "schema_version": "1.0",
+  "name": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25959v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25959v1",
+    "updated": "2026-07-28T16:43:56Z",
+    "published": "2026-07-28T16:43:56Z",
+    "title": "Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs",
+    "summary": "Wikipedia and Wikidata are widely used for information access, LLM pre-training, and retrieval-augmented generation. Their knowledge is deeply connected but scattered across text, tables, and knowledge graphs. This raises a practical question: when these modalities disagree, how can we detect and explain the conflict? We study this problem as \\emph{modality-level inconsistency detection}. We first introduce a taxonomy of cross-modal knowledge inconsistencies, covering information granularity differences, direct conflicts, temporal changes, and KG incompleteness. We then present \\textsc{Kontrast}, an automatic framework that uses Text-to-SPARQL and LLM reasoning to compare table-based answers with KG evidence and categorize the resulting inconsistencies. Experiments on various Table-QA datasets show that cross-modal inconsistencies are common and informative. They reveal not only true knowledge conflicts, but also missing KG structure and temporal mismatches while being limited by Text-to-SPARQL errors and noise. Our analysis shows that text, tables, and KGs can complement and correct one another through systematic comparison. \\textsc{Kontrast} provides a practical tool for large-scale knowledge auditing and establishes a benchmark for future work on cross-modal knowledge consistency. Code and data are available at https://github.com/ECLADATTA/KONTRAST.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:43:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25959v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

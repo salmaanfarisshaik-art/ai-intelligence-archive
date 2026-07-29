@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.13287v4",
+  "schema_version": "1.0",
+  "name": "InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.13287v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.13287v4",
+    "updated": "2026-07-28T17:28:37Z",
+    "published": "2025-08-18T18:04:36Z",
+    "title": "InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting",
+    "summary": "3D Gaussian Splatting (3DGS) has recently gained popularity for efficient scene rendering by representing scenes as explicit sets of anisotropic 3D Gaussians. However, most existing work focuses primarily on modeling external surfaces. In this work, we target the reconstruction of internal scenes, which is crucial for applications that require a deep understanding of an object's interior. By directly modeling a continuous volumetric density through the inner 3D Gaussian distribution, our model effectively reconstructs smooth and detailed internal structures from sparse sliced data. Beyond high-fidelity reconstruction, we further demonstrate the framework's potential for downstream tasks such as segmentation. By integrating language features, we extend our approach to enable text-guided segmentation of medical scenes via natural language queries. Our approach eliminates the need for camera poses, is plug-and-play, and is inherently compatible with any data modalities. We provide cuda implementation at: https://github.com/Shuxin-Liang/InnerGS.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T17:28:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.13287v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25912v1",
+  "schema_version": "1.0",
+  "name": "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25912v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25912v1",
+    "updated": "2026-07-28T16:05:32Z",
+    "published": "2026-07-28T16:05:32Z",
+    "title": "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models",
+    "summary": "Vision-Language-Action (VLA) models have shown strong potential for general robot manipulation, but most existing models rely on 2D visual-language backbones and lack fine-grained 3D understanding of target objects, especially under occlusion, pose variation, scale changes, and precise spatial interaction. We propose an object-centric 3D representation alignment framework built upon $π_0$, using SAM3D as a frozen 3D teacher to provide target-object 3D priors during training. Specifically, we localize task-relevant objects with object recognition models, generate corresponding object masks, and use SAM3D to extract dense object-level 3D representations, which are aligned with intermediate visual features of $π_0$. This enables the policy to internalize target-object 3D information while preserving the original RGB-language-to-action inference pipeline without requiring depth, point clouds, masks, SAM3D, or additional 3D modules at test time. Simulation experiments show consistent improvements, achieving 99.1\\% on LIBERO and an average length of 4.11 on CALVIN. Real-world experiments further demonstrate that our method is particularly effective in long-horizon manipulation scenarios where the robot must focus on different target objects across multiple subtasks.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:05:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25912v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -160,6 +160,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.15819v2](http://arxiv.org/abs/2602.15819v2)
 
+## Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting
+- **ID**: arxiv_2602.18314v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.18314v2](http://arxiv.org/abs/2602.18314v2)
+
 ## Latent Gaussian Splatting for 4D Panoptic Occupancy Tracking
 - **ID**: arxiv_2602.23172v2
 - **Source**: ArXiv
@@ -199,6 +204,11 @@
 - **ID**: arxiv_2605.30116v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30116v2](http://arxiv.org/abs/2605.30116v2)
+
+## Spatially Grounded Concept Bottleneck Models via Part-Factorized Attention
+- **ID**: arxiv_2606.04364v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04364v3](http://arxiv.org/abs/2606.04364v3)
 
 ## Would you still call this Dax? Novel Visual References in VLMs and Humans
 - **ID**: arxiv_2606.05409v3
@@ -344,6 +354,11 @@
 - **ID**: arxiv_2606.15966v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.15966v2](http://arxiv.org/abs/2606.15966v2)
+
+## Explainable Flood Segmentation on Sentinel-1 SAR1 Imagery Using CNN and Transformer Architectures
+- **ID**: arxiv_2606.16302v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16302v3](http://arxiv.org/abs/2606.16302v3)
 
 ## Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets
 - **ID**: arxiv_2606.16951v1
@@ -594,6 +609,11 @@
 - **ID**: arxiv_2607.12254v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.12254v2](http://arxiv.org/abs/2607.12254v2)
+
+## FreeLit: Paired-Free Indoor Relighting via Physics-Guided Diffusion
+- **ID**: arxiv_2607.13656v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13656v2](http://arxiv.org/abs/2607.13656v2)
 
 ## MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos
 - **ID**: arxiv_2607.15211v1
@@ -1164,4 +1184,64 @@
 - **ID**: arxiv_2607.24743v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24743v1](http://arxiv.org/abs/2607.24743v1)
+
+## Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA
+- **ID**: arxiv_2607.25921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25921v1](http://arxiv.org/abs/2607.25921v1)
+
+## Face De-Identification: A Domain-Centric Survey from Capture to Processing
+- **ID**: arxiv_2607.25926v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25926v1](http://arxiv.org/abs/2607.25926v1)
+
+## MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities
+- **ID**: arxiv_2607.25948v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25948v1](http://arxiv.org/abs/2607.25948v1)
+
+## Knowledge-Guided Multimodal Reasoning over Interacting Streams for Video-Level Ambivalence and Hesitancy Recognition
+- **ID**: arxiv_2607.25961v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25961v1](http://arxiv.org/abs/2607.25961v1)
+
+## LaP-Forensics: Latent-Pixel Consistency Guided Multimodal Reasoning for Deepfake Detection
+- **ID**: arxiv_2607.25962v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25962v1](http://arxiv.org/abs/2607.25962v1)
+
+## Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging
+- **ID**: arxiv_2607.25967v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25967v1](http://arxiv.org/abs/2607.25967v1)
+
+## Schrödinger's Cat: Probabilistic Representation and Prediction of Potential Scene Kinematics
+- **ID**: arxiv_2607.25984v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25984v1](http://arxiv.org/abs/2607.25984v1)
+
+## Beyond Zooming: Learning Multi-Tool Visual Reasoning for Ultra-High-Resolution Remote Sensing
+- **ID**: arxiv_2607.25993v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25993v1](http://arxiv.org/abs/2607.25993v1)
+
+## Parallel Decoding Distillation for Fast Image and Video Generation
+- **ID**: arxiv_2607.26004v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26004v1](http://arxiv.org/abs/2607.26004v1)
+
+## Pictura: Perspective-View Self-Play at Scale for Driving
+- **ID**: arxiv_2607.26005v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26005v1](http://arxiv.org/abs/2607.26005v1)
+
+## Wonder: Video World Model Done Better
+- **ID**: arxiv_2607.26037v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26037v1](http://arxiv.org/abs/2607.26037v1)
+
+## VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening
+- **ID**: arxiv_2607.26042v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26042v1](http://arxiv.org/abs/2607.26042v1)
 

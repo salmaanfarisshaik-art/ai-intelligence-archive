@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25911v1",
+  "schema_version": "1.0",
+  "name": "AnnoBench: A Benchmark for Visualization Annotation Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25911v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25911v1",
+    "updated": "2026-07-28T16:04:39Z",
+    "published": "2026-07-28T16:04:39Z",
+    "title": "AnnoBench: A Benchmark for Visualization Annotation Generation",
+    "summary": "Annotation is among the most demanding visualization tasks to automate, as it simultaneously requires correctly navigating visual, semantic, and stylistic constraints. Failure to meet any of these conditions severely undermines the utility of an annotation, rendering it challenging to read, inaccurate, or visually discordant. Despite a growing body of annotation tools and automations, no existing benchmark or evaluation framework tests whether these conditions are met because of their scope and annotation not being the focus of their studies. We introduce AnnoBench, a benchmark for visualization annotation that materializes the inherent challenges of this domain in a structured and testable manner. AnnoBench pairs visualizations from professional data journalism and visualization galleries with annotation tasks, spanning four representation formats, five chart description conditions, and two prompt specification levels. The benchmark is executed via VLM-as-a-judge, using models aligned with manual human assessment. We evaluate the benchmark via four one-factor-at-a-time experiments, exploring the effects of input representation, semantic context, and prompt specificity, and model selection on annotation quality. This work provides a foundation for advancing annotation automation, tooling, and visualization-generation pipelines.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:04:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25911v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

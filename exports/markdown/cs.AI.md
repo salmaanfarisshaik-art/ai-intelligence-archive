@@ -635,3 +635,48 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24707v1](http://arxiv.org/abs/2607.24707v1)
 
+## Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification
+- **ID**: arxiv_2607.25904v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25904v1](http://arxiv.org/abs/2607.25904v1)
+
+## Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks
+- **ID**: arxiv_2607.25914v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25914v1](http://arxiv.org/abs/2607.25914v1)
+
+## Penelope: Localized Latent Recurrence for Efficient Structured Reasoning
+- **ID**: arxiv_2607.25915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25915v1](http://arxiv.org/abs/2607.25915v1)
+
+## dtControl2+$\varepsilon$: Trading Optimality for Explainability in MDPs via Decision Trees
+- **ID**: arxiv_2607.25925v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25925v1](http://arxiv.org/abs/2607.25925v1)
+
+## A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series
+- **ID**: arxiv_2607.25947v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25947v1](http://arxiv.org/abs/2607.25947v1)
+
+## Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation
+- **ID**: arxiv_2607.25956v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25956v1](http://arxiv.org/abs/2607.25956v1)
+
+## CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer
+- **ID**: arxiv_2607.26023v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26023v1](http://arxiv.org/abs/2607.26023v1)
+
+## Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment
+- **ID**: arxiv_2607.26034v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26034v1](http://arxiv.org/abs/2607.26034v1)
+
+## Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?
+- **ID**: arxiv_2607.26041v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26041v1](http://arxiv.org/abs/2607.26041v1)
+

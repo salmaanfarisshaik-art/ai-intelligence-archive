@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.07303v3",
+  "schema_version": "1.0",
+  "name": "An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.07303v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.07303v3",
+    "updated": "2026-07-28T17:47:45Z",
+    "published": "2025-03-10T13:24:46Z",
+    "title": "An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data",
+    "summary": "Texts, whether literary or historical, exhibit structural and stylistic patterns shaped by their purpose, authorship, and cultural context. Formulaic texts, which are characterized by repetition and constrained expression, tend to differ in their \\textit{information content} (as defined by Shannon) compared to more dynamic compositions. Identifying such patterns in historical documents, particularly multi-author texts like the Hebrew Bible, provides insights into their origins, purpose, and transmission. This study aims to identify formulaic clusters: sections exhibiting systematic repetition and structural constraints, by analyzing recurring phrases, syntactic structures, and stylistic markers. However, distinguishing formulaic from non-formulaic elements in an unsupervised manner poses a computational challenge, especially in high-dimensional, sample-poor data sets where patterns must be inferred without predefined labels.\n  To address this, we develop an information-theoretic algorithm that uses weighted \\textit{self-information} distributions to recover structured partitions in text. The resulting clusters are interpreted from their self-information profiles and characteristic recurring features. By extending classical discrete self-information measures to a continuous formulation based on differential self-information in multivariate Gaussian distributions, our method remains applicable across various textual representations, including neural embeddings under Gaussian priors.\n  Applied to hypothesized authorial divisions in the Hebrew Bible, our approach isolates stylistic layers and provides a quantitative framework for textual stratification. This method enhances our ability to analyze compositional patterns, offering deeper insights into the literary and cultural evolution of texts shaped by complex authorship and editorial processes.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T17:47:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.07303v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

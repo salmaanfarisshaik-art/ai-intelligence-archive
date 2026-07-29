@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2402.18121v2](http://arxiv.org/abs/2402.18121v2)
 
+## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
+- **ID**: arxiv_2503.07303v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.07303v3](http://arxiv.org/abs/2503.07303v3)
+
 ## MedicalAgentsBench for Complex Medical Reasoning: Comparing Internalized Reasoning Models versus Externalized Agent-based Frameworks
 - **ID**: arxiv_2503.07459v3
 - **Source**: ArXiv
@@ -19,6 +24,11 @@
 - **ID**: arxiv_2505.23851v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.23851v3](http://arxiv.org/abs/2505.23851v3)
+
+## Localizing Persona Representations in LLMs
+- **ID**: arxiv_2505.24539v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.24539v4](http://arxiv.org/abs/2505.24539v4)
 
 ## Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models
 - **ID**: arxiv_2506.07691v2
@@ -49,6 +59,11 @@
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
+
+## Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers
+- **ID**: arxiv_2512.17351v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.17351v2](http://arxiv.org/abs/2512.17351v2)
 
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
@@ -655,6 +670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22529v1](http://arxiv.org/abs/2607.22529v1)
 
+## Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets
+- **ID**: arxiv_2607.24515v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24515v2](http://arxiv.org/abs/2607.24515v2)
+
 ## PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention
 - **ID**: arxiv_2607.24593v1
 - **Source**: ArXiv
@@ -679,4 +699,34 @@
 - **ID**: arxiv_2607.24720v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24720v1](http://arxiv.org/abs/2607.24720v1)
+
+## Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases
+- **ID**: arxiv_2607.25933v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25933v1](http://arxiv.org/abs/2607.25933v1)
+
+## Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections
+- **ID**: arxiv_2607.25953v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25953v1](http://arxiv.org/abs/2607.25953v1)
+
+## Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs
+- **ID**: arxiv_2607.25959v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25959v1](http://arxiv.org/abs/2607.25959v1)
+
+## Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do
+- **ID**: arxiv_2607.26015v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26015v1](http://arxiv.org/abs/2607.26015v1)
+
+## UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams
+- **ID**: arxiv_2607.26017v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26017v1](http://arxiv.org/abs/2607.26017v1)
+
+## Pass the Baton: Trajectory-Relayed On-Policy Distillation
+- **ID**: arxiv_2607.26057v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26057v1](http://arxiv.org/abs/2607.26057v1)
 

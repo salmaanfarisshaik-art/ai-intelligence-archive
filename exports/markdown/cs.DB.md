@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24688v1](http://arxiv.org/abs/2607.24688v1)
 
+## MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents
+- **ID**: arxiv_2607.25992v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25992v1](http://arxiv.org/abs/2607.25992v1)
+

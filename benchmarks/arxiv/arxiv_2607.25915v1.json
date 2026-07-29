@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25915v1",
+  "schema_version": "1.0",
+  "name": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25915v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25915v1",
+    "updated": "2026-07-28T16:06:46Z",
+    "published": "2026-07-28T16:06:46Z",
+    "title": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning",
+    "summary": "Complex structured reasoning tasks often require additional computation, yet current language models obtain it mainly by increasing parameter scale or by serializing intermediate steps as chain-of-thought (CoT) tokens. The former raises training and deployment costs, while the latter ties reasoning computation to autoregressive output length. We introduce Penelope, an efficient latent-reasoning framework for pretrained decoder-only Transformers that localizes recurrent computation to a selected decoder interval. The lower decoder prefix is evaluated once to construct a problem-conditioned boundary memory, which is then iteratively refined through time-modulated GRU dynamics and recurrent readout states before answer generation. A progressive CoT-to-latent curriculum transfers visible reasoning into this internal recurrent path, allowing additional computation to be allocated in latent space without repeatedly executing the complete decoder or generating a long intermediate trace. Experiments on open-source structured-reasoning benchmarks show that, at validation-selected latent budgets, Penelope attains competitive accuracy relative to established latent-reasoning models while reducing measured inference latency. These results show that latent refinement can be localized to a narrow decoder interval, reducing repeated full-decoder execution without generating a long visible reasoning trace and providing a practical accuracy-efficiency tradeoff for decoder-only Transformer models.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:06:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25915v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

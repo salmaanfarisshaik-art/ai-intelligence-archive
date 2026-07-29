@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22463v1](http://arxiv.org/abs/2607.22463v1)
 
+## AnnoBench: A Benchmark for Visualization Annotation Generation
+- **ID**: arxiv_2607.25911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25911v1](http://arxiv.org/abs/2607.25911v1)
+

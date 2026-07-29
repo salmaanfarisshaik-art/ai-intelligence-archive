@@ -1,5 +1,10 @@
 # Cs.Lg Export
 
+## Humanity's Last Exam
+- **ID**: arxiv_2501.14249v11
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2501.14249v11](http://arxiv.org/abs/2501.14249v11)
+
 ## Sampling Decisions: Exact Path-Space Correction, Prior Cancellation and Local-Boltzmann Guidance
 - **ID**: arxiv_2503.14549v3
 - **Source**: ArXiv
@@ -330,6 +335,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18198v1](http://arxiv.org/abs/2607.18198v1)
 
+## Reliability Scales Inversely: Hallucinations Snowball Faster in Bigger Language Models
+- **ID**: arxiv_2607.18292v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18292v3](http://arxiv.org/abs/2607.18292v3)
+
+## Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary
+- **ID**: arxiv_2607.18553v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18553v3](http://arxiv.org/abs/2607.18553v3)
+
 ## Stale but Stable: Staleness-Adaptive Trust Regions for Stabilizing Asynchronous Reinforcement Learning
 - **ID**: arxiv_2607.18722v3
 - **Source**: ArXiv
@@ -429,4 +444,19 @@
 - **ID**: arxiv_2607.24645v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24645v1](http://arxiv.org/abs/2607.24645v1)
+
+## Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models
+- **ID**: arxiv_2607.25907v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25907v1](http://arxiv.org/abs/2607.25907v1)
+
+## Reinforcement Learning for Code Optimization
+- **ID**: arxiv_2607.25970v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25970v1](http://arxiv.org/abs/2607.25970v1)
+
+## Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models
+- **ID**: arxiv_2607.26000v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26000v1](http://arxiv.org/abs/2607.26000v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25953v1",
+  "schema_version": "1.0",
+  "name": "Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25953v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25953v1",
+    "updated": "2026-07-28T16:40:18Z",
+    "published": "2026-07-28T16:40:18Z",
+    "title": "Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections",
+    "summary": "As LLMs increasingly mediate the political information citizens rely on, there is still no standardized way to assess whether they do so responsibly. We introduce Polistemics, a theory-grounded benchmark for evaluating LLMs as mediators of political information in elections. Prior work has treated this task as reproduction rather than mediation, leaving its epistemic dimensions and interaction with imperfect information unaddressed. We ground the evaluation in Epistemic Modesty, a normative standard derived from citizens' epistemic agency, and test it across controlled settings that vary informational properties such as clarity, noise, and consistency. Applying the benchmark to three state-of-the-art LLMs on the 2025 German and Dutch elections, we find that high aggregate scores mask systematic failures. Models mediate reliably under clear evidence but break down under absent, vague, or contradictory information, while flattening the intensity of political language. These failures are likely driven by party priors, influenced by party labels and output language. Reliable mediation appears achievable, but no model delivers it consistently.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:40:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25953v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

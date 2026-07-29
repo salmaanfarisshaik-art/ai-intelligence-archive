@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.18314v2",
+  "schema_version": "1.0",
+  "name": "Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.18314v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.18314v2",
+    "updated": "2026-07-28T15:59:08Z",
+    "published": "2026-02-20T16:14:21Z",
+    "title": "Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting",
+    "summary": "Real-time reconstruction of deformable surgical scenes is vital for advancing robotic surgery, improving intraoperative guidance, and enabling automation. Recent methods achieve dense reconstructions from da Vinci robotic surgery videos, with Gaussian Splatting (GS) offering real-time performance via graphics acceleration. However, reconstruction quality in occluded regions remains limited, and depth accuracy has not been fully assessed, as benchmarks like EndoNeRF and StereoMIS lack 3D ground truth. We propose Diff2DGS, a two-stage framework for reliable 3D reconstruction of occluded surgical scenes. First, a diffusion-based video module with temporal priors inpaints tissue occluded by instruments with high spatiotemporal consistency. Second, we adapt 2D Gaussian Splatting (2DGS) with a Learnable Deformation Model (LDM) to capture dynamic tissue deformation and anatomical geometry, and introduce adaptive depth weight to improve geometric fidelity. We further extend evaluation beyond image-quality metrics by performing quantitative depth analysis on the SCARED dataset. Diff2DGS outperforms state-of-the-art methods in both appearance and geometry, reaching 38.02 dB PSNR on EndoNeRF and 34.40 dB on StereoMIS. Our experiments also show that optimizing image quality alone does not necessarily ensure accurate 3D geometry.The code is available at https://diff2dgs.github.io/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T15:59:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.18314v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

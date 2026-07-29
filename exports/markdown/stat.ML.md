@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2405.15768v2](http://arxiv.org/abs/2405.15768v2)
 
+## TaylorPODA: A Taylor Expansion-Based Method to Improve Post-Hoc Attributions for Opaque Models
+- **ID**: arxiv_2507.10643v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.10643v4](http://arxiv.org/abs/2507.10643v4)
+
 ## Full Bayesian Reinforcement Learning via LF-IBIS
 - **ID**: arxiv_2607.01741v2
 - **Source**: ArXiv

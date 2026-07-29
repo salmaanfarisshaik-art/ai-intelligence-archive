@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.24515v2",
+  "schema_version": "1.0",
+  "name": "Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.24515v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.24515v2",
+    "updated": "2026-07-28T17:28:27Z",
+    "published": "2026-07-27T14:54:01Z",
+    "title": "Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets",
+    "summary": "The challenge of Machine Translation for low resource languages such as Tamil is primarily caused by the restricted amount of parallel data for these languages, as well as their substantial amount of domain variation and morphological complexity. This research presents the comprehensive evaluation of the performance of several multilingual translation models on English-Tamil and Tamil-English translations across multiple datasets: NTREX, EnTamV2, WikiMatrix and PMIndia. This study evaluates supervised NMT systems, NLLB and mBART, using both the BLEU and chrF metric, and examines how these systems perform on data of different quality levels and domains. This performs an attention-based analysis to increase model interpretability by visualising the alignments of tokens in an English source text and their Tamil translations and vice-versa to provide insight into how they make translations. This study also demonstrates that using in-context prompting can provide an excellent way to perform a few-shot translation of English to Tamil and Tamil-English using a Tamil capable TamilLaMA model, and compare this to supervised approaches qualitatively. These findings show that the quality of the datasets and their alignment with the domain will greatly affect the performance of the model, that attention-based mechanisms can aid in explain ability, and that few-shot large language models can still produce structurally coherent translations of Tamil.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T17:28:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.24515v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

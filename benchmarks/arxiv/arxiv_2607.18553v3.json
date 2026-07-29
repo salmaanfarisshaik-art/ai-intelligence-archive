@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18553v3",
+  "schema_version": "1.0",
+  "name": "Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18553v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18553v3",
+    "updated": "2026-07-28T16:28:19Z",
+    "published": "2026-07-20T22:40:36Z",
+    "title": "Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary",
+    "summary": "Can a language model read the quality of its ongoing computation, and can an external intervention turn that readout into better outcomes? We test both questions in a frozen 2.6B looped transformer, Ouro-RLTT. On GSM8K, a strict pre-answer probe excludes the answer region and gold value yet predicts success: hidden states plus length/log-probability features reach AUROC 0.797 versus 0.731 for those surface features alone (increment +0.066; task-clustered 95% CI [+0.021,+0.112]; 170 tasks). On Horizon Logic, a prospectively extended task-disjoint study gives an increment of +0.111 (CI [+0.056,+0.169]), independently replicated on the new cohort (+0.095) and robust to an adversarial malformed-sibling shortcut. Recurrence also moves candidate-quality readability to progressively earlier physical depth; the trend replicates across the Ouro family and qualitatively in out-of-family Huginn, although their transfer geometry differs.\n  The readout converts into validated decision-level gains. Hidden-state-based scores improve risk-coverage over shortcut-only scores in four sealed selective-prediction arms, and terminal selection beats matched random even when every candidate is well formed (27/32 correct selections versus 64.8% expected; p = 0.0086). Generative control does not convert: directional steering is negative, a branch screen is bounded, and exact-compute loop allocation and minimal LoRA direction-binding detect no gain. These tests run through bit-exact branch/carry/prune machinery over Ouro's 192-slot recurrent cache, including a suffix-recompute splice saving up to 88% of per-branch layer passes.\n  We call this decision-usable but not generatively controllable property operational proto-introspection. All load-bearing values use source-item-disjoint splits and antisymmetrized pairwise evaluation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-29T03:13:59Z",
+  "last_updated": "2026-07-28T16:28:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18553v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

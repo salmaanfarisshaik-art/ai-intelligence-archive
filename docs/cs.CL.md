@@ -14,6 +14,7 @@
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
+| [An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data](http://arxiv.org/abs/2503.07303v3) | ArXiv |  | 1 |
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](http://arxiv.org/abs/2607.21498v1) | ArXiv |  | 1 |
@@ -36,11 +37,13 @@
 | [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses](http://arxiv.org/abs/2606.18222v1) | ArXiv |  | 1 |
 | [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) | ArXiv |  | 1 |
 | [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents](http://arxiv.org/abs/2606.17029v1) | ArXiv |  | 1 |
+| [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](http://arxiv.org/abs/2607.25959v1) | ArXiv |  | 1 |
 | [Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents](http://arxiv.org/abs/2607.15095v2) | ArXiv |  | 1 |
 | [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
 | [DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models](http://arxiv.org/abs/2606.19257v1) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
+| [Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases](http://arxiv.org/abs/2607.25933v1) | ArXiv |  | 1 |
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
 | [Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya](http://arxiv.org/abs/2607.15209v1) | ArXiv |  | 1 |
 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](http://arxiv.org/abs/2606.16934v1) | ArXiv |  | 1 |
@@ -63,6 +66,7 @@
 | [Implicit vs. Explicit Prompting Strategies for LVLMs in Referential Communication](http://arxiv.org/abs/2606.17372v2) | ArXiv |  | 1 |
 | [In-Place Tokenizer Expansion for Pre-trained LLMs](http://arxiv.org/abs/2607.15232v1) | ArXiv |  | 1 |
 | [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1) | ArXiv |  | 1 |
+| [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
 | [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) | ArXiv |  | 1 |
@@ -79,6 +83,7 @@
 | [Like a bilingual baby: The advantage of visually grounding a bilingual language model](http://arxiv.org/abs/2210.05487v3) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
 | [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
+| [Localizing Persona Representations in LLMs](http://arxiv.org/abs/2505.24539v4) | ArXiv |  | 1 |
 | [Loop the Loopies!](http://arxiv.org/abs/2607.16051v1) | ArXiv |  | 1 |
 | [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](http://arxiv.org/abs/2607.24604v1) | ArXiv |  | 1 |
 | [LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations](http://arxiv.org/abs/2606.14600v1) | ArXiv |  | 1 |
@@ -95,9 +100,12 @@
 | [Operadic consistency: a label-free signal for compositional reasoning failures in LLMs](http://arxiv.org/abs/2606.13649v1) | ArXiv |  | 1 |
 | [Operads for compositional reasoning in LLMs](http://arxiv.org/abs/2606.13634v1) | ArXiv |  | 1 |
 | [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1) | ArXiv |  | 1 |
+| [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) | ArXiv |  | 1 |
 | [Persuasion Index: A Theory-Guided Framework for Persuasion Analysis](http://arxiv.org/abs/2606.14580v1) | ArXiv |  | 1 |
+| [Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers](http://arxiv.org/abs/2512.17351v2) | ArXiv |  | 1 |
 | [PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention](http://arxiv.org/abs/2607.24593v1) | ArXiv |  | 1 |
 | [PlotTwist: A Creative Plot Generation Framework with Small Language Models](http://arxiv.org/abs/2603.16410v2) | ArXiv |  | 1 |
+| [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) | ArXiv |  | 1 |
 | [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](http://arxiv.org/abs/2607.18199v1) | ArXiv |  | 1 |
 | [PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment](http://arxiv.org/abs/2508.05132v3) | ArXiv |  | 1 |
 | [Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models](http://arxiv.org/abs/2607.19257v1) | ArXiv |  | 1 |
@@ -118,6 +126,7 @@
 | [StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](http://arxiv.org/abs/2606.20527v1) | ArXiv |  | 1 |
 | [Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1) | ArXiv |  | 1 |
 | [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](http://arxiv.org/abs/2607.18213v1) | ArXiv |  | 1 |
+| [Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](http://arxiv.org/abs/2607.24515v2) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
 | [The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models](http://arxiv.org/abs/2607.20265v1) | ArXiv |  | 1 |
 | [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](http://arxiv.org/abs/2607.24720v1) | ArXiv |  | 1 |
@@ -127,6 +136,7 @@
 | [ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning](http://arxiv.org/abs/2607.16131v1) | ArXiv |  | 1 |
 | [Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](http://arxiv.org/abs/2606.19266v1) | ArXiv |  | 1 |
 | [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness](http://arxiv.org/abs/2607.19322v1) | ArXiv |  | 1 |
+| [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](http://arxiv.org/abs/2607.26017v1) | ArXiv |  | 1 |
 | [Unintended Effects of Geographic Conditioning in Large Language Models](http://arxiv.org/abs/2606.18124v1) | ArXiv |  | 1 |
 | [Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1) | ArXiv |  | 1 |
 | [VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval](http://arxiv.org/abs/2607.18098v1) | ArXiv |  | 1 |
