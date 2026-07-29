@@ -2366,6 +2366,11 @@
 - **URL**: [https://openai.com/index/how-the-voices-for-chatgpt-were-chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
+
+## 
 - **ID**: rss_https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
