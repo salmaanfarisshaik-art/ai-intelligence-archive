@@ -19,7 +19,8 @@
     "license:apache-2.0",
     "endpoints_compatible",
     "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "deploy:azure"
   ],
   "pipeline_tag": "feature-extraction",
   "library_name": "sentence-transformers",

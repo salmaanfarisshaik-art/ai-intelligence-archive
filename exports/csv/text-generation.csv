@@ -197,7 +197,7 @@ hf_Qwen_Qwen1.5-MoE-A2.7B-Chat,Qwen/Qwen1.5-MoE-A2.7B-Chat,text-generation,Huggi
 hf_Qwen_Qwen2-0.5B,Qwen/Qwen2-0.5B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-0.5B
 hf_Qwen_Qwen2-0.5B-Instruct,Qwen/Qwen2-0.5B-Instruct,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-0.5B-Instruct
 hf_Qwen_Qwen2-1.5B,Qwen/Qwen2-1.5B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-1.5B
-hf_Qwen_Qwen2-1.5B-Instruct,Qwen/Qwen2-1.5B-Instruct,text-generation,Hugging Face,chat|conversational|deploy:sagemaker|en|endpoints_compatible|eval-results|license:apache-2.0|qwen2|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct
+hf_Qwen_Qwen2-1.5B-Instruct,Qwen/Qwen2-1.5B-Instruct,text-generation,Hugging Face,chat|conversational|deploy:azure|deploy:sagemaker|en|endpoints_compatible|eval-results|license:apache-2.0|qwen2|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct
 hf_Qwen_Qwen2-1.5B-Instruct-AWQ,Qwen/Qwen2-1.5B-Instruct-AWQ,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-AWQ
 hf_Qwen_Qwen2-1.5B-Instruct-GGUF,Qwen/Qwen2-1.5B-Instruct-GGUF,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-GGUF
 hf_Qwen_Qwen2-1.5B-Instruct-GPTQ-Int4,Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4
@@ -208,7 +208,7 @@ hf_Qwen_Qwen2.5-0.5B,Qwen/Qwen2.5-0.5B,text-generation,Hugging Face,,https://hug
 hf_Qwen_Qwen2.5-0.5B-Instruct,Qwen/Qwen2.5-0.5B-Instruct,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct
 hf_Qwen_Qwen2.5-0.5B-Instruct-GGUF,Qwen/Qwen2.5-0.5B-Instruct-GGUF,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF
 hf_Qwen_Qwen2.5-1.5B,Qwen/Qwen2.5-1.5B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-1.5B
-hf_Qwen_Qwen2.5-1.5B-Instruct,Qwen/Qwen2.5-1.5B-Instruct,text-generation,Hugging Face,arxiv:2407.10671|base_model:Qwen/Qwen2.5-1.5B|base_model:finetune:Qwen/Qwen2.5-1.5B|chat|conversational|en|endpoints_compatible|license:apache-2.0|qwen2|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct
+hf_Qwen_Qwen2.5-1.5B-Instruct,Qwen/Qwen2.5-1.5B-Instruct,text-generation,Hugging Face,arxiv:2407.10671|base_model:Qwen/Qwen2.5-1.5B|base_model:finetune:Qwen/Qwen2.5-1.5B|chat|conversational|deploy:azure|en|endpoints_compatible|license:apache-2.0|qwen2|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct
 hf_Qwen_Qwen2.5-1.5B-Instruct-AWQ,Qwen/Qwen2.5-1.5B-Instruct-AWQ,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-AWQ
 hf_Qwen_Qwen2.5-1.5B-Instruct-GGUF,Qwen/Qwen2.5-1.5B-Instruct-GGUF,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF
 hf_Qwen_Qwen2.5-14B,Qwen/Qwen2.5-14B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-14B
@@ -261,15 +261,15 @@ hf_Qwen_Qwen2.5-Math-1.5B,Qwen/Qwen2.5-Math-1.5B,text-generation,Hugging Face,,h
 hf_Qwen_Qwen2.5-Math-1.5B-Instruct,Qwen/Qwen2.5-Math-1.5B-Instruct,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-Math-1.5B-Instruct
 hf_Qwen_Qwen2.5-Math-7B,Qwen/Qwen2.5-Math-7B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-Math-7B
 hf_Qwen_Qwen2.5-Math-7B-Instruct,Qwen/Qwen2.5-Math-7B-Instruct,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen2.5-Math-7B-Instruct
-hf_Qwen_Qwen3-0.6B,Qwen/Qwen3-0.6B,text-generation,Hugging Face,arxiv:2505.09388|base_model:Qwen/Qwen3-0.6B-Base|base_model:finetune:Qwen/Qwen3-0.6B-Base|conversational|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-0.6B
+hf_Qwen_Qwen3-0.6B,Qwen/Qwen3-0.6B,text-generation,Hugging Face,arxiv:2505.09388|base_model:Qwen/Qwen3-0.6B-Base|base_model:finetune:Qwen/Qwen3-0.6B-Base|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-0.6B
 hf_Qwen_Qwen3-0.6B-Base,Qwen/Qwen3-0.6B-Base,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-0.6B-Base
 hf_Qwen_Qwen3-0.6B-FP8,Qwen/Qwen3-0.6B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-0.6B-FP8
 hf_Qwen_Qwen3-0.6B-GGUF,Qwen/Qwen3-0.6B-GGUF,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-0.6B-GGUF
-hf_Qwen_Qwen3-1.7B,Qwen/Qwen3-1.7B,text-generation,Hugging Face,arxiv:2505.09388|base_model:Qwen/Qwen3-1.7B-Base|base_model:finetune:Qwen/Qwen3-1.7B-Base|conversational|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-1.7B
+hf_Qwen_Qwen3-1.7B,Qwen/Qwen3-1.7B,text-generation,Hugging Face,arxiv:2505.09388|base_model:Qwen/Qwen3-1.7B-Base|base_model:finetune:Qwen/Qwen3-1.7B-Base|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-1.7B
 hf_Qwen_Qwen3-1.7B-Base,Qwen/Qwen3-1.7B-Base,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-1.7B-Base
 hf_Qwen_Qwen3-1.7B-FP8,Qwen/Qwen3-1.7B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-1.7B-FP8
 hf_Qwen_Qwen3-1.7B-GPTQ-Int8,Qwen/Qwen3-1.7B-GPTQ-Int8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-1.7B-GPTQ-Int8
-hf_Qwen_Qwen3-14B,Qwen/Qwen3-14B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-14B-Base|base_model:finetune:Qwen/Qwen3-14B-Base|conversational|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-14B
+hf_Qwen_Qwen3-14B,Qwen/Qwen3-14B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-14B-Base|base_model:finetune:Qwen/Qwen3-14B-Base|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-14B
 hf_Qwen_Qwen3-14B-AWQ,Qwen/Qwen3-14B-AWQ,text-generation,Hugging Face,4-bit|arxiv:2309.00071|arxiv:2505.09388|awq|base_model:Qwen/Qwen3-14B|base_model:quantized:Qwen/Qwen3-14B|conversational|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-14B-AWQ
 hf_Qwen_Qwen3-14B-Base,Qwen/Qwen3-14B-Base,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-14B-Base
 hf_Qwen_Qwen3-14B-FP8,Qwen/Qwen3-14B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-14B-FP8
@@ -288,20 +288,20 @@ hf_Qwen_Qwen3-30B-A3B-Instruct-2507,Qwen/Qwen3-30B-A3B-Instruct-2507,text-genera
 hf_Qwen_Qwen3-30B-A3B-Instruct-2507-FP8,Qwen/Qwen3-30B-A3B-Instruct-2507-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-30B-A3B-Instruct-2507-FP8
 hf_Qwen_Qwen3-30B-A3B-Thinking-2507,Qwen/Qwen3-30B-A3B-Thinking-2507,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507
 hf_Qwen_Qwen3-30B-A3B-Thinking-2507-FP8,Qwen/Qwen3-30B-A3B-Thinking-2507-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-30B-A3B-Thinking-2507-FP8
-hf_Qwen_Qwen3-32B,Qwen/Qwen3-32B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|conversational|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-32B
+hf_Qwen_Qwen3-32B,Qwen/Qwen3-32B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-32B
 hf_Qwen_Qwen3-32B-AWQ,Qwen/Qwen3-32B-AWQ,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-32B-AWQ
 hf_Qwen_Qwen3-32B-FP8,Qwen/Qwen3-32B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-32B-FP8
-hf_Qwen_Qwen3-4B,Qwen/Qwen3-4B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-4B-Base|base_model:finetune:Qwen/Qwen3-4B-Base|conversational|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-4B
+hf_Qwen_Qwen3-4B,Qwen/Qwen3-4B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-4B-Base|base_model:finetune:Qwen/Qwen3-4B-Base|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-4B
 hf_Qwen_Qwen3-4B-AWQ,Qwen/Qwen3-4B-AWQ,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-AWQ
 hf_Qwen_Qwen3-4B-Base,Qwen/Qwen3-4B-Base,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-Base
 hf_Qwen_Qwen3-4B-FP8,Qwen/Qwen3-4B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-FP8
 hf_Qwen_Qwen3-4B-GGUF,Qwen/Qwen3-4B-GGUF,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-GGUF
-hf_Qwen_Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,text-generation,Hugging Face,arxiv:2505.09388|conversational|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
+hf_Qwen_Qwen3-4B-Instruct-2507,Qwen/Qwen3-4B-Instruct-2507,text-generation,Hugging Face,arxiv:2505.09388|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
 hf_Qwen_Qwen3-4B-Instruct-2507-FP8,Qwen/Qwen3-4B-Instruct-2507-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507-FP8
 hf_Qwen_Qwen3-4B-MLX-4bit,Qwen/Qwen3-4B-MLX-4bit,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-MLX-4bit
 hf_Qwen_Qwen3-4B-Thinking-2507,Qwen/Qwen3-4B-Thinking-2507,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507
 hf_Qwen_Qwen3-4B-Thinking-2507-FP8,Qwen/Qwen3-4B-Thinking-2507-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-4B-Thinking-2507-FP8
-hf_Qwen_Qwen3-8B,Qwen/Qwen3-8B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-8B-Base|base_model:finetune:Qwen/Qwen3-8B-Base|conversational|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-8B
+hf_Qwen_Qwen3-8B,Qwen/Qwen3-8B,text-generation,Hugging Face,arxiv:2309.00071|arxiv:2505.09388|base_model:Qwen/Qwen3-8B-Base|base_model:finetune:Qwen/Qwen3-8B-Base|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|eval-results|license:apache-2.0|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers,https://huggingface.co/Qwen/Qwen3-8B
 hf_Qwen_Qwen3-8B-AWQ,Qwen/Qwen3-8B-AWQ,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-8B-AWQ
 hf_Qwen_Qwen3-8B-Base,Qwen/Qwen3-8B-Base,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-8B-Base
 hf_Qwen_Qwen3-8B-FP8,Qwen/Qwen3-8B-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-8B-FP8
@@ -310,7 +310,7 @@ hf_Qwen_Qwen3-Coder-30B-A3B-Instruct,Qwen/Qwen3-Coder-30B-A3B-Instruct,text-gene
 hf_Qwen_Qwen3-Coder-30B-A3B-Instruct-FP8,Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8
 hf_Qwen_Qwen3-Coder-480B-A35B-Instruct-FP8,Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Coder-480B-A35B-Instruct-FP8
 hf_Qwen_Qwen3-Coder-Next,Qwen/Qwen3-Coder-Next,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Coder-Next
-hf_Qwen_Qwen3-Coder-Next-FP8,Qwen/Qwen3-Coder-Next-FP8,text-generation,Hugging Face,conversational|endpoints_compatible|fp8|license:apache-2.0|qwen3_next|region:us|safetensors|text-generation|transformers,https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8
+hf_Qwen_Qwen3-Coder-Next-FP8,Qwen/Qwen3-Coder-Next-FP8,text-generation,Hugging Face,conversational|deploy:azure|endpoints_compatible|fp8|license:apache-2.0|qwen3_next|region:us|safetensors|text-generation|transformers,https://huggingface.co/Qwen/Qwen3-Coder-Next-FP8
 hf_Qwen_Qwen3-Next-80B-A3B-Instruct,Qwen/Qwen3-Next-80B-A3B-Instruct,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct
 hf_Qwen_Qwen3-Next-80B-A3B-Instruct-FP8,Qwen/Qwen3-Next-80B-A3B-Instruct-FP8,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Instruct-FP8
 hf_Qwen_Qwen3-Next-80B-A3B-Thinking,Qwen/Qwen3-Next-80B-A3B-Thinking,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3-Next-80B-A3B-Thinking
@@ -489,7 +489,7 @@ hf_deepseek-ai_DeepSeek-V3-0324,deepseek-ai/DeepSeek-V3-0324,text-generation,Hug
 hf_deepseek-ai_DeepSeek-V3.1,deepseek-ai/DeepSeek-V3.1,text-generation,Hugging Face,,https://huggingface.co/deepseek-ai/DeepSeek-V3.1
 hf_deepseek-ai_DeepSeek-V3.2,deepseek-ai/DeepSeek-V3.2,text-generation,Hugging Face,base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base|base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base|conversational|deepseek_v32|endpoints_compatible|eval-results|fp8|license:mit|region:us|safetensors|text-generation|transformers,https://huggingface.co/deepseek-ai/DeepSeek-V3.2
 hf_deepseek-ai_DeepSeek-V3.2-Exp,deepseek-ai/DeepSeek-V3.2-Exp,text-generation,Hugging Face,,https://huggingface.co/deepseek-ai/DeepSeek-V3.2-Exp
-hf_deepseek-ai_DeepSeek-V4-Flash,deepseek-ai/DeepSeek-V4-Flash,text-generation,Hugging Face,8-bit|arxiv:2606.19348|conversational|deepseek_v4|endpoints_compatible|eval-results|fp8|license:mit|region:us|safetensors|text-generation|transformers,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
+hf_deepseek-ai_DeepSeek-V4-Flash,deepseek-ai/DeepSeek-V4-Flash,text-generation,Hugging Face,8-bit|arxiv:2606.19348|conversational|deepseek_v4|deploy:azure|endpoints_compatible|eval-results|fp8|license:mit|region:us|safetensors|text-generation|transformers,https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
 hf_deepseek-ai_DeepSeek-V4-Pro,deepseek-ai/DeepSeek-V4-Pro,text-generation,Hugging Face,8-bit|conversational|deepseek_v4|endpoints_compatible|eval-results|fp8|license:mit|region:us|safetensors|text-generation|transformers,https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro
 hf_deepseek-ai_deepseek-coder-1.3b-instruct,deepseek-ai/deepseek-coder-1.3b-instruct,text-generation,Hugging Face,,https://huggingface.co/deepseek-ai/deepseek-coder-1.3b-instruct
 hf_deepseek-ai_deepseek-coder-6.7b-base,deepseek-ai/deepseek-coder-6.7b-base,text-generation,Hugging Face,,https://huggingface.co/deepseek-ai/deepseek-coder-6.7b-base
@@ -574,7 +574,7 @@ hf_ibm-granite_granite-4.0-h-tiny,ibm-granite/granite-4.0-h-tiny,text-generation
 hf_ibm-granite_granite-4.0-micro,ibm-granite/granite-4.0-micro,text-generation,Hugging Face,,https://huggingface.co/ibm-granite/granite-4.0-micro
 hf_ibm-granite_granite-4.0-tiny-preview,ibm-granite/granite-4.0-tiny-preview,text-generation,Hugging Face,,https://huggingface.co/ibm-granite/granite-4.0-tiny-preview
 hf_ibm-granite_granite-4.1-3b,ibm-granite/granite-4.1-3b,text-generation,Hugging Face,,https://huggingface.co/ibm-granite/granite-4.1-3b
-hf_ibm-granite_granite-4.1-8b,ibm-granite/granite-4.1-8b,text-generation,Hugging Face,arxiv:0000.00000|conversational|endpoints_compatible|eval-results|granite|granite-4.1|language|license:apache-2.0|region:us|safetensors|text-generation|transformers,https://huggingface.co/ibm-granite/granite-4.1-8b
+hf_ibm-granite_granite-4.1-8b,ibm-granite/granite-4.1-8b,text-generation,Hugging Face,arxiv:0000.00000|conversational|deploy:azure|endpoints_compatible|eval-results|granite|granite-4.1|language|license:apache-2.0|region:us|safetensors|text-generation|transformers,https://huggingface.co/ibm-granite/granite-4.1-8b
 hf_ibm-granite_granite-docling-258M,ibm-granite/granite-docling-258M,text-generation,Hugging Face,,https://huggingface.co/ibm-granite/granite-docling-258M
 hf_ibm-research_PowerLM-3b,ibm-research/PowerLM-3b,text-generation,Hugging Face,,https://huggingface.co/ibm-research/PowerLM-3b
 hf_ibm-research_PowerMoE-3b,ibm-research/PowerMoE-3b,text-generation,Hugging Face,,https://huggingface.co/ibm-research/PowerMoE-3b
@@ -747,7 +747,7 @@ hf_nvidia_DeepSeek-V4-Pro-NVFP4,nvidia/DeepSeek-V4-Pro-NVFP4,text-generation,Hug
 hf_nvidia_GLM-5-NVFP4,nvidia/GLM-5-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/GLM-5-NVFP4
 hf_nvidia_GLM-5.1-NVFP4,nvidia/GLM-5.1-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/GLM-5.1-NVFP4
 hf_nvidia_Gemma-4-26B-A4B-NVFP4,nvidia/Gemma-4-26B-A4B-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4
-hf_nvidia_Gemma-4-31B-IT-NVFP4,nvidia/Gemma-4-31B-IT-NVFP4,text-generation,Hugging Face,Gemma-4-31B-IT|Model Optimizer|ModelOpt|NVFP4|base_model:google/gemma-4-31B-it|base_model:quantized:google/gemma-4-31B-it|conversational|gemma4|license:other|lighthouse|modelopt|nvidia|quantized|region:us|safetensors|text-generation,https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4
+hf_nvidia_Gemma-4-31B-IT-NVFP4,nvidia/Gemma-4-31B-IT-NVFP4,text-generation,Hugging Face,Gemma-4-31B-IT|Model Optimizer|ModelOpt|NVFP4|base_model:google/gemma-4-31B-it|base_model:quantized:google/gemma-4-31B-it|conversational|deploy:azure|gemma4|license:other|lighthouse|modelopt|nvidia|quantized|region:us|safetensors|text-generation,https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4
 hf_nvidia_Kimi-K2.5-NVFP4,nvidia/Kimi-K2.5-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Kimi-K2.5-NVFP4
 hf_nvidia_Kimi-K2.6-NVFP4,nvidia/Kimi-K2.6-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Kimi-K2.6-NVFP4
 hf_nvidia_Llama-3.1-8B-Instruct-FP8,nvidia/Llama-3.1-8B-Instruct-FP8,text-generation,Hugging Face,,https://huggingface.co/nvidia/Llama-3.1-8B-Instruct-FP8
@@ -787,7 +787,7 @@ hf_nvidia_Qwen3-32B-NVFP4,nvidia/Qwen3-32B-NVFP4,text-generation,Hugging Face,,h
 hf_nvidia_Qwen3-8B-NVFP4,nvidia/Qwen3-8B-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Qwen3-8B-NVFP4
 hf_nvidia_Qwen3-Next-80B-A3B-Instruct-NVFP4,nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Qwen3-Next-80B-A3B-Instruct-NVFP4
 hf_nvidia_Qwen3.5-397B-A17B-NVFP4,nvidia/Qwen3.5-397B-A17B-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/Qwen3.5-397B-A17B-NVFP4
-hf_nvidia_Qwen3.6-35B-A3B-NVFP4,nvidia/Qwen3.6-35B-A3B-NVFP4,text-generation,Hugging Face,8-bit|FP4|Model Optimizer|ModelOpt|Qwen3.6|base_model:Qwen/Qwen3.6-35B-A3B|base_model:quantized:Qwen/Qwen3.6-35B-A3B|conversational|fp4|license:apache-2.0|modelopt|nvidia|quantized|qwen3_5_moe|region:us|safetensors|text-generation,https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4
+hf_nvidia_Qwen3.6-35B-A3B-NVFP4,nvidia/Qwen3.6-35B-A3B-NVFP4,text-generation,Hugging Face,8-bit|FP4|Model Optimizer|ModelOpt|Qwen3.6|base_model:Qwen/Qwen3.6-35B-A3B|base_model:quantized:Qwen/Qwen3.6-35B-A3B|conversational|deploy:azure|fp4|license:apache-2.0|modelopt|nvidia|quantized|qwen3_5_moe|region:us|safetensors|text-generation,https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4
 hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4,nvidia/diffusiongemma-26B-A4B-it-NVFP4,text-generation,Hugging Face,,https://huggingface.co/nvidia/diffusiongemma-26B-A4B-it-NVFP4
 hf_nytopop_Qwen3-8B.w8a8,nytopop/Qwen3-8B.w8a8,text-generation,Hugging Face,,https://huggingface.co/nytopop/Qwen3-8B.w8a8
 hf_omni-research_Tarsier-7b,omni-research/Tarsier-7b,text-generation,Hugging Face,,https://huggingface.co/omni-research/Tarsier-7b
@@ -796,8 +796,8 @@ hf_openai-community_gpt2-large,openai-community/gpt2-large,text-generation,Huggi
 hf_openai-community_gpt2-medium,openai-community/gpt2-medium,text-generation,Hugging Face,,https://huggingface.co/openai-community/gpt2-medium
 hf_openai-community_gpt2-xl,openai-community/gpt2-xl,text-generation,Hugging Face,,https://huggingface.co/openai-community/gpt2-xl
 hf_openai-community_openai-gpt,openai-community/openai-gpt,text-generation,Hugging Face,,https://huggingface.co/openai-community/openai-gpt
-hf_openai_gpt-oss-120b,openai/gpt-oss-120b,text-generation,Hugging Face,8-bit|arxiv:2508.10925|conversational|deploy:sagemaker|endpoints_compatible|eval-results|gpt_oss|license:apache-2.0|mxfp4|region:us|safetensors|text-generation|transformers|vllm,https://huggingface.co/openai/gpt-oss-120b
-hf_openai_gpt-oss-20b,openai/gpt-oss-20b,text-generation,Hugging Face,8-bit|arxiv:2508.10925|conversational|deploy:sagemaker|endpoints_compatible|eval-results|gpt_oss|license:apache-2.0|mxfp4|region:us|safetensors|text-generation|transformers|vllm,https://huggingface.co/openai/gpt-oss-20b
+hf_openai_gpt-oss-120b,openai/gpt-oss-120b,text-generation,Hugging Face,8-bit|arxiv:2508.10925|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|eval-results|gpt_oss|license:apache-2.0|mxfp4|region:us|safetensors|text-generation|transformers|vllm,https://huggingface.co/openai/gpt-oss-120b
+hf_openai_gpt-oss-20b,openai/gpt-oss-20b,text-generation,Hugging Face,8-bit|arxiv:2508.10925|conversational|deploy:azure|deploy:sagemaker|endpoints_compatible|eval-results|gpt_oss|license:apache-2.0|mxfp4|region:us|safetensors|text-generation|transformers|vllm,https://huggingface.co/openai/gpt-oss-20b
 hf_openai_gpt-oss-safeguard-20b,openai/gpt-oss-safeguard-20b,text-generation,Hugging Face,,https://huggingface.co/openai/gpt-oss-safeguard-20b
 hf_openbmb_MiniCPM-2B-sft-bf16,openbmb/MiniCPM-2B-sft-bf16,text-generation,Hugging Face,,https://huggingface.co/openbmb/MiniCPM-2B-sft-bf16
 hf_openbmb_MiniCPM3-4B,openbmb/MiniCPM3-4B,text-generation,Hugging Face,,https://huggingface.co/openbmb/MiniCPM3-4B
@@ -994,7 +994,7 @@ hf_zai-org_GLM-5,zai-org/GLM-5,text-generation,Hugging Face,,https://huggingface
 hf_zai-org_GLM-5-FP8,zai-org/GLM-5-FP8,text-generation,Hugging Face,arxiv:2602.15763|conversational|en|endpoints_compatible|eval-results|fp8|glm_moe_dsa|license:mit|region:us|safetensors|text-generation|transformers|zh,https://huggingface.co/zai-org/GLM-5-FP8
 hf_zai-org_GLM-5.1,zai-org/GLM-5.1,text-generation,Hugging Face,,https://huggingface.co/zai-org/GLM-5.1
 hf_zai-org_GLM-5.1-FP8,zai-org/GLM-5.1-FP8,text-generation,Hugging Face,,https://huggingface.co/zai-org/GLM-5.1-FP8
-hf_zai-org_GLM-5.2-FP8,zai-org/GLM-5.2-FP8,text-generation,Hugging Face,arxiv:2602.15763|arxiv:2603.12201|conversational|en|endpoints_compatible|fp8|glm_moe_dsa|license:mit|region:us|safetensors|text-generation|transformers|zh,https://huggingface.co/zai-org/GLM-5.2-FP8
+hf_zai-org_GLM-5.2-FP8,zai-org/GLM-5.2-FP8,text-generation,Hugging Face,arxiv:2602.15763|arxiv:2603.12201|conversational|deploy:azure|en|endpoints_compatible|fp8|glm_moe_dsa|license:mit|region:us|safetensors|text-generation|transformers|zh,https://huggingface.co/zai-org/GLM-5.2-FP8
 hf_zdy1995love_Mistral-Medium-3.5-128B-NVFP4,zdy1995love/Mistral-Medium-3.5-128B-NVFP4,text-generation,Hugging Face,,https://huggingface.co/zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 hf_zerofata_L3.3-GeneticLemonade-Final-v2-70B,zerofata/L3.3-GeneticLemonade-Final-v2-70B,text-generation,Hugging Face,,https://huggingface.co/zerofata/L3.3-GeneticLemonade-Final-v2-70B
 hf_zhiqiulin_clip-flant5-xxl,zhiqiulin/clip-flant5-xxl,text-generation,Hugging Face,,https://huggingface.co/zhiqiulin/clip-flant5-xxl

@@ -41,7 +41,8 @@
     "eval-results",
     "endpoints_compatible",
     "deploy:sagemaker",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

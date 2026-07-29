@@ -981,6 +981,11 @@
 - **URL**: [https://openai.com/index/chatgpt-enterprise-spend-controls](https://openai.com/index/chatgpt-enterprise-spend-controls)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-for-academic-researchers
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-for-academic-researchers](https://openai.com/index/chatgpt-for-academic-researchers)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-for-excel
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-for-excel](https://openai.com/index/chatgpt-for-excel)

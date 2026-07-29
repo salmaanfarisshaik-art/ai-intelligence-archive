@@ -20,7 +20,8 @@
     "base_model:quantized:google/gemma-4-31B-it",
     "license:other",
     "modelopt",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "Model Optimizer",

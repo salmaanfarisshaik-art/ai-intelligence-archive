@@ -1,7 +1,7 @@
 {
   "_id": "696a609f480d3ea8aa3f29a7",
   "id": "lightonai/LightOnOCR-2-1B",
-  "likes": 775,
+  "likes": 776,
   "private": false,
   "downloads": 340737,
   "tags": [
@@ -34,7 +34,8 @@
     "eval-results",
     "endpoints_compatible",
     "region:eu",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "deploy:azure"
   ],
   "pipeline_tag": "image-text-to-text",
   "library_name": "transformers",

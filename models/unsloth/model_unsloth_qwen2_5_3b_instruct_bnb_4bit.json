@@ -21,7 +21,8 @@
     "endpoints_compatible",
     "4-bit",
     "bitsandbytes",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

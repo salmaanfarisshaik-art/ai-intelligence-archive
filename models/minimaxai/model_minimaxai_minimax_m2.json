@@ -19,7 +19,8 @@
     "endpoints_compatible",
     "fp8",
     "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

@@ -16,7 +16,8 @@
     "base_model:Qwen/Qwen2.5-Coder-0.5B",
     "base_model:finetune:Qwen/Qwen2.5-Coder-0.5B",
     "license:cc-by-nc-4.0",
-    "region:eu"
+    "region:eu",
+    "deploy:azure"
   ],
   "pipeline_tag": "feature-extraction",
   "library_name": "transformers",
