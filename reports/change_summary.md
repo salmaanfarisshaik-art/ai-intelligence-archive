@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 83
+**Total Changes:** 86
 
 ## Added
-None
+- prompts/openai-blog/rss_https___openai.com_index_advancing-the-price-performance-frontier-with-gpt-5-6.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -20,15 +20,18 @@ None
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - exports/csv/all_entities.csv
-- exports/csv/models.csv
+- exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/models.json
-- exports/markdown/models.md
+- exports/json/news.json
+- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
 - models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -70,7 +73,6 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
