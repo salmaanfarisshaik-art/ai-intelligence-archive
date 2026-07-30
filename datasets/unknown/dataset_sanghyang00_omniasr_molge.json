@@ -1,0 +1,32 @@
+{
+  "_id": "6a688914c5c73613f5c8d4d0",
+  "id": "Sanghyang00/omniasr-molge",
+  "author": "Sanghyang00",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-30T08:11:20.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "b8270b4e945abc9012a6d7a53bb704a3cf1a903d",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tOmniASR Molge Aligned\n\t\n\nTraining-friendly re-segmentation of Meta’s facebook/omnilingual-asr-corpus: long utterances are segmented / aligned into ≤30s clips with transcripts, then packed as Parquet shards with embedded FLAC.\n\n\t\n\t\t\n\n\n\n\n\t\t\nSource\nfacebook/omnilingual-asr-corpus\n\n\nConfigs\nomniasr_aligned_v1, omniasr_aligned_v2\n\n\nSplits\ntrain / validation (dev-*.parquet) / test\n\n\nScale\n~2.56M utts · ~839 shards · ~439GB\n\n\n\t\n\nIf this dataset is useful for your work, we’d appreciate a… See the full description on the dataset page: https://huggingface.co/datasets/Sanghyang00/omniasr-molge.",
+  "downloads": 29848,
+  "tags": [
+    "task_categories:automatic-speech-recognition",
+    "license:other",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2511.09690",
+    "arxiv:2606.11681",
+    "region:us"
+  ],
+  "createdAt": "2026-07-28T10:48:52.000Z",
+  "key": "",
+  "unique_id": "dataset_sanghyang00_omniasr_molge",
+  "schema_version": "1.0"
+}

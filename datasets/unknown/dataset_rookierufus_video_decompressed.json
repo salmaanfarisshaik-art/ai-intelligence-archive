@@ -1,0 +1,30 @@
+{
+  "_id": "6a4fffb251c4a08e009845e6",
+  "id": "rookierufus/VIDEO_DECOMPRESSED",
+  "author": "rookierufus",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-26T17:58:15.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "20a4d49bac65fc6afe4e2370475750293d89ee8f",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tTubelet Dataset\n\t\n\nPre-extracted raw video tubelets from the Egocentric-10K dataset\n\n\t\n\t\t\n\t\n\t\n\t\tTensor Format\n\t\n\nEach  file is a single tubelet saved with  and can be loaded with .\n\n\t\n\t\t\nProperty\nValue\n\n\n\t\t\nShape\n\n\n\nDtype\n\n\n\nLayout\n— Frames × Height × Width × Channels\n\n\nFrames\n64 raw RGB frames per tubelet\n\n\nResolution\n384 × 384 center-cropped\n\n\nPixel Range\n0–255 (unnormalized)\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t1. Frame Rate Downsampling\n\t\n\n\nSource videos are downsampled to 4 FPS using FFmpeg's… See the full description on the dataset page: https://huggingface.co/datasets/rookierufus/VIDEO_DECOMPRESSED.",
+  "downloads": 25466,
+  "tags": [
+    "task_categories:video-classification",
+    "task_categories:feature-extraction",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "modality:video",
+    "region:us",
+    "video",
+    "tubelets",
+    "egocentric",
+    "raw-frames",
+    "computer-vision"
+  ],
+  "createdAt": "2026-07-09T20:08:18.000Z",
+  "key": "",
+  "unique_id": "dataset_rookierufus_video_decompressed",
+  "schema_version": "1.0"
+}

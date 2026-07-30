@@ -4804,6 +4804,7 @@
 - **ID**: hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF](https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF)
+- **Tags**: arxiv:2505.09388, base_model:Qwen/Qwen3-Coder-30B-A3B-Instruct, base_model:quantized:Qwen/Qwen3-Coder-30B-A3B-Instruct, conversational, endpoints_compatible, gguf, imatrix, license:apache-2.0, qwen, qwen3, region:us, text-generation, transformers, unsloth
 
 ## unsloth/Qwen3-Coder-Next-GGUF
 - **ID**: hf_unsloth_Qwen3-Coder-Next-GGUF

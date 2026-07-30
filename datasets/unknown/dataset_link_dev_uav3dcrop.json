@@ -1,0 +1,31 @@
+{
+  "_id": "69f297382659dd25f8ade95d",
+  "id": "Link-Dev/UAV3DCrop",
+  "author": "Link-Dev",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-27T18:25:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "1ec1f450b551fc65897490aa412850608e629d68",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tUAV3DCrop\n\t\n\nUAV3DCrop is a multi-year UAV crop dataset containing field imagery and\nassociated reconstruction metadata for agricultural research.\nProject page: UAV3DCrop\nCompanion depth dataset: UAV3DCrop Depth\n\n\t\n\t\t\n\t\n\t\n\t\tRepository Contents\n\t\n\nThe dataset is organized by year and acquisition day. A scene may include:\n\nRGB images in an images/ directory;\ncamera parameters and image references in transforms.json;\na sparse point cloud in sparse_pc.ply.\n\n\n\t\n\t\t\n\t\n\t\n\t\tLicense… See the full description on the dataset page: https://huggingface.co/datasets/Link-Dev/UAV3DCrop.",
+  "downloads": 32187,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "modality:3d",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "image",
+    "3d",
+    "agriculture",
+    "uav"
+  ],
+  "createdAt": "2026-04-29T23:41:44.000Z",
+  "key": "",
+  "unique_id": "dataset_link_dev_uav3dcrop",
+  "schema_version": "1.0"
+}

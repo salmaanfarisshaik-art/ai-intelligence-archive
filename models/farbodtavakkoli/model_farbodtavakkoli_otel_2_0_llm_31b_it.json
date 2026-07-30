@@ -3,7 +3,7 @@
   "id": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
   "likes": 4,
   "private": false,
-  "downloads": 815094,
+  "downloads": 1797286,
   "tags": [
     "transformers",
     "safetensors",
@@ -29,6 +29,7 @@
     "base_model:finetune:google/gemma-4-31B-it",
     "license:apache-2.0",
     "endpoints_compatible",
+    "deploy:azure",
     "region:us"
   ],
   "pipeline_tag": "text-generation",

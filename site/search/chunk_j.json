@@ -91,6 +91,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mlfoundations_dcvlm_baseline_200b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nvidia_nemotron_post_training_dataset_v2",
       "match_type": "exact",
       "score": 1.5
@@ -1253,6 +1258,11 @@
   ],
   "jailbreak": [
     {
+      "entity_id": "dataset_manusagents_visco_attack",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_yuxiangw_voxsafebench",
       "match_type": "exact",
       "score": 2.0
@@ -1278,6 +1288,11 @@
     },
     {
       "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_manusagents_visco_attack",
       "match_type": "exact",
       "score": 2.0
     },
@@ -5131,6 +5146,13 @@
       "score": 3.0
     }
   ],
+  "jiazhao": [
+    {
+      "entity_id": "dataset_rukaway_gs_scenes",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jic": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -5429,6 +5451,13 @@
       "score": 1.0
     }
   ],
+  "jinchuan": [
+    {
+      "entity_id": "dataset_lhmd_re10k_torch",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jingle": [
     {
       "entity_id": "alpaca_6263200809776716077",
@@ -5474,6 +5503,13 @@
       "entity_id": "alpaca_7990894123037436726",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "jingyi": [
+    {
+      "entity_id": "dataset_rukaway_gs_scenes",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "jingyusun": [
@@ -15131,6 +15167,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_link_dev_uav3dcrop",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_malaysia_ai_malaysian_youtube",
       "match_type": "exact",
       "score": 1.0
@@ -15157,6 +15198,11 @@
     },
     {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tempofunk_tempofunk_sdance",
       "match_type": "exact",
       "score": 1.0
     },
@@ -16920,6 +16966,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "junbo": [
+    {
+      "entity_id": "dataset_rukaway_gs_scenes",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "junboboshi": [
@@ -18944,6 +18997,11 @@
     },
     {
       "entity_id": "dataset_bestwishysh_opens2v_5m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_goku_openlab_gpt_image_2_prompts_datasets",
       "match_type": "exact",
       "score": 1.0
     },

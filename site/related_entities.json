@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:24:53Z",
+  "generated_at": "2026-07-30T11:08:09Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -219,6 +219,9 @@
     "hf_Gryphe_Sonnet3.5-SlimOrcaDedupCleaned": [
       "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
+    "hf_HauhauCS_Qwen3.6-27B-Uncensored-HauhauCS-Aggressive": [
+      "model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp"
+    ],
     "hf_HiTZ_euscrawl": [
       "model_bsc_lt_salamandra_7b_instruct"
     ],
@@ -427,6 +430,9 @@
     ],
     "hf_MiniMaxAI_MiniMax-M3": [
       "model_nvidia_minimax_m3_nvfp4"
+    ],
+    "hf_Nanbeige_Nanbeige4.2-3B": [
+      "model_owao_nanbeige4_2_3b_gguf"
     ],
     "hf_Nopm_Opus_WritingStruct": [
       "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
@@ -883,6 +889,7 @@
       "model_qwen_qwen3_reranker_8b"
     ],
     "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct": [
+      "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
       "model_cyankiwi_qwen3_coder_30b_a3b_instruct_awq_4bit",
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_gguf",
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_4bit",
@@ -976,6 +983,7 @@
       "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_bf16",
       "model_alennnndy_qwen3_6_27b_awq_4bit",
       "model_batiai_qwen3_6_27b_gguf",
+      "model_brian6145_qwen3_6_27b_claude_opus_deepseek_distilled_imatrix_mtp_gguf",
       "model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp",
       "model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf",
       "model_drawais_qwen3_6_27b_awq_int4",
@@ -2468,6 +2476,9 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
     ],
+    "hf_prism-ml_Bonsai-1.7B-unpacked": [
+      "model_prism_ml_bonsai_1_7b_gguf"
+    ],
     "hf_prism-ml_Bonsai-27B-gguf": [
       "hf_Qwen_Qwen3.6-27B"
     ],
@@ -2592,6 +2603,9 @@
     ],
     "hf_tvall43_Qwen3.6-14B-A3B-VibeForged-v2": [
       "model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf"
+    ],
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF": [
+      "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
     ],
     "hf_unsloth_Qwen3-Coder-Next-GGUF": [
       "hf_Qwen_Qwen3-Coder-Next"
@@ -2745,6 +2759,9 @@
     ],
     "model_aidc_ai_ovis2_1b": [
       "hf_AIDC-AI_Ovis-dataset"
+    ],
+    "model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp": [
+      "hf_HauhauCS_Qwen3.6-27B-Uncensored-HauhauCS-Aggressive"
     ],
     "model_alennnndy_qwen3_6_27b_awq_4bit": [
       "hf_Qwen_Qwen3.6-27B"
@@ -3034,6 +3051,9 @@
     "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k": [
       "hf_Qwen_Qwen2.5-3B-Instruct",
       "hf_openai_gsm8k"
+    ],
+    "model_brian6145_qwen3_6_27b_claude_opus_deepseek_distilled_imatrix_mtp_gguf": [
+      "hf_Qwen_Qwen3.6-27B"
     ],
     "model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp": [
       "hf_Qwen_Qwen3.6-27B"
@@ -4633,6 +4653,9 @@
       "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
       "hf_alvarobartt_openhermes-preferences-coding"
     ],
+    "model_owao_nanbeige4_2_3b_gguf": [
+      "hf_Nanbeige_Nanbeige4.2-3B"
+    ],
     "model_parasail_ai_gritlm_7b_vllm": [
       "hf_GritLM_tulu2"
     ],
@@ -4685,6 +4708,9 @@
     ],
     "model_prefeitura_rio_rio_3_0_open_mini": [
       "hf_Qwen_Qwen3-4B-Thinking-2507"
+    ],
+    "model_prism_ml_bonsai_1_7b_gguf": [
+      "hf_prism-ml_Bonsai-1.7B-unpacked"
     ],
     "model_prism_ml_bonsai_27b_gguf": [
       "hf_Qwen_Qwen3.6-27B"

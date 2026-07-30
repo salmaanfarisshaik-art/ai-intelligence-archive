@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ed6a690b210029b1e41eeb8a8f4cbd1cdd35a3cd",
   "description": "\n\t\n\t\t\n\t\tSpotify Track Analysis Dataset\n\t\n\n\n\t\n\t\t\n\t\tGeneral Description\n\t\n\nThis dataset provides a large-scale, research-oriented analytical representation of Spotify music data.\nIt is centered on tracks as musical recordings (track_id), while preserving explicit artist attribution as defined by Spotify’s native credit model.\nEach row corresponds to a track–artist association, identified by:\n\na Spotify track identifier (track_id)\na credited artist name (artist_name)\n\nA single track may appear on… See the full description on the dataset page: https://huggingface.co/datasets/GildasLeDrogoff/spotify-huge-track-analysis-dataset.",
-  "downloads": 35341,
+  "downloads": 35389,
   "tags": [
     "task_categories:tabular-classification",
     "task_categories:tabular-regression",

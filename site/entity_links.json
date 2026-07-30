@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T08:24:53Z",
+  "generated_at": "2026-07-30T11:08:09Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -227,6 +227,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
+      "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "hf_unsloth_Qwen3-Coder-Next-GGUF",
       "target_id": "hf_Qwen_Qwen3-Coder-Next",
       "type": "derived_from"
@@ -305,6 +310,11 @@
       "source_id": "model_aidc_ai_ovis2_1b",
       "target_id": "hf_AIDC-AI_Ovis-dataset",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp",
+      "target_id": "hf_HauhauCS_Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "type": "derived_from"
     },
     {
       "source_id": "model_alennnndy_qwen3_6_27b_awq_4bit",
@@ -870,6 +880,11 @@
       "source_id": "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k",
       "target_id": "hf_openai_gsm8k",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_brian6145_qwen3_6_27b_claude_opus_deepseek_distilled_imatrix_mtp_gguf",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
     },
     {
       "source_id": "model_brian6145_qwen3_6_27b_claude_opus_sonnet_distilled_nvfp4_mtp",
@@ -4742,6 +4757,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_owao_nanbeige4_2_3b_gguf",
+      "target_id": "hf_Nanbeige_Nanbeige4.2-3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_parasail_ai_gritlm_7b_vllm",
       "target_id": "hf_GritLM_tulu2",
       "type": "trained_on"
@@ -4874,6 +4894,11 @@
     {
       "source_id": "model_prefeitura_rio_rio_3_0_open_mini",
       "target_id": "hf_Qwen_Qwen3-4B-Thinking-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_prism_ml_bonsai_1_7b_gguf",
+      "target_id": "hf_prism-ml_Bonsai-1.7B-unpacked",
       "type": "derived_from"
     },
     {

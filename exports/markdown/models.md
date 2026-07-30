@@ -336,6 +336,10 @@
 - **ID**: model_bartowski_hy3_gguf
 - **Source**: 
 
+## bartowski/Kwaipilot_KAT-Coder-V2.5-Dev-GGUF
+- **ID**: model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf
+- **Source**: 
+
 ## bartowski/Llama-3.2-1B-Instruct-GGUF
 - **ID**: model_bartowski_llama_3_2_1b_instruct_gguf
 - **Source**: 
@@ -2680,6 +2684,10 @@
 - **ID**: model_mlx_community_qwen3_0_6b_8bit
 - **Source**: 
 
+## mlx-community/Qwen3-14B-4bit
+- **ID**: model_mlx_community_qwen3_14b_4bit
+- **Source**: 
+
 ## mlx-community/Qwen3-30B-A3B-Instruct-2507-4bit
 - **ID**: model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit
 - **Source**: 
@@ -4156,6 +4164,10 @@
 - **ID**: model_redhatai_qwen3_30b_a3b_quantized_w4a16
 - **Source**: 
 
+## RedHatAI/Qwen3-32B-FP8-dynamic
+- **ID**: model_redhatai_qwen3_32b_fp8_dynamic
+- **Source**: 
+
 ## RedHatAI/Qwen3-8B-FP8-dynamic
 - **ID**: model_redhatai_qwen3_8b_fp8_dynamic
 - **Source**: 
@@ -4898,6 +4910,10 @@
 
 ## unsloth/medgemma-27b-text-it-bnb-4bit
 - **ID**: model_unsloth_medgemma_27b_text_it_bnb_4bit
+- **Source**: 
+
+## unsloth/Meta-Llama-3.1-8B
+- **ID**: model_unsloth_meta_llama_3_1_8b
 - **Source**: 
 
 ## unsloth/Meta-Llama-3.1-8B-Instruct

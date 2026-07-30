@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f21629712ffd6a3d13a54fd2807ccd521c55ef74",
   "description": "\n\t\n\t\t\n\t\tDataset Card for Real Toxicity Prompts\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nRealToxicityPrompts is a dataset of 100k sentence snippets from the web for researchers to further address the risk of neural toxic degeneration in models.\n\n\t\n\t\t\n\t\tLanguages\n\t\n\nEnglish\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n\n\t\n\t\t\n\t\tData Instances\n\t\n\nEach instance represents a prompt and its metadata:\n{\n  \"filename\":\"0766186-bc7f2a64cb271f5f56cf6f25570cd9ed.txt\",\n  \"begin\":340,\n  \"end\":564,\n  \"challenging\":false… See the full description on the dataset page: https://huggingface.co/datasets/allenai/real-toxicity-prompts.",
-  "downloads": 38247,
+  "downloads": 38531,
   "tags": [
     "multilinguality:monolingual",
     "source_datasets:original",

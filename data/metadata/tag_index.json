@@ -543,7 +543,8 @@
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
-    "hf_Qwen_Qwen3-8B"
+    "hf_Qwen_Qwen3-8B",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF"
   ],
   "arxiv:2505.20411": [
     "hf_ds_680f523123b95edd6987db29"
@@ -694,6 +695,9 @@
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Embedding-8B"
   ],
+  "base_model:Qwen/Qwen3-Coder-30B-A3B-Instruct": [
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF"
+  ],
   "base_model:Qwen/Qwen3-Coder-Next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -779,6 +783,9 @@
   ],
   "base_model:quantized:Qwen/Qwen3-14B": [
     "hf_Qwen_Qwen3-14B-AWQ"
+  ],
+  "base_model:quantized:Qwen/Qwen3-Coder-30B-A3B-Instruct": [
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF"
   ],
   "base_model:quantized:Qwen/Qwen3-Coder-Next": [
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
@@ -910,6 +917,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5-FP8",
@@ -1229,6 +1237,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
     "hf_zai-org_GLM-4.7-Flash",
@@ -1457,6 +1466,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "github": [
@@ -1547,6 +1557,7 @@
     "hf_vikhyatk_moondream2"
   ],
   "imatrix": [
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "imbalanced": [
@@ -3509,6 +3520,7 @@
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a153f136ea5882878c26693",
+    "hf_ds_6a1901f9165364c3c9f8e5fe",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
@@ -3575,6 +3587,7 @@
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a153f136ea5882878c26693",
+    "hf_ds_6a1901f9165364c3c9f8e5fe",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
@@ -3703,6 +3716,7 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2"
   ],
@@ -3930,7 +3944,8 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "modality:document": [
-    "hf_ds_683195b70ed0a5b1919c6f22"
+    "hf_ds_683195b70ed0a5b1919c6f22",
+    "hf_ds_6a1901f9165364c3c9f8e5fe"
   ],
   "modality:image": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -4271,6 +4286,7 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
   "qwen": [
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "qwen2": [
@@ -4296,6 +4312,7 @@
     "hf_Qwen_Qwen3-Reranker-4B",
     "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "qwen3_5_moe": [
@@ -4492,6 +4509,7 @@
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_ds_6a153f136ea5882878c26693",
+    "hf_ds_6a1901f9165364c3c9f8e5fe",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58",
@@ -4517,6 +4535,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
     "hf_zai-org_GLM-4.7-Flash",
@@ -4704,7 +4723,8 @@
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_699243aa8be5bf8321adfd86",
-    "hf_ds_69f7105853a9164999100b0b"
+    "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a1901f9165364c3c9f8e5fe"
   ],
   "size_categories:1M<n<10M": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -5128,6 +5148,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
     "hf_zai-org_GLM-4.7-Flash",
@@ -5249,6 +5270,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_vikhyatk_moondream2",
     "hf_zai-org_GLM-4.7-Flash",
     "hf_zai-org_GLM-5-FP8",
@@ -5279,6 +5301,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
   "unsloth": [
+    "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "v": [

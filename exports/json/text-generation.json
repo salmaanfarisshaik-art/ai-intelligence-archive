@@ -10608,8 +10608,28 @@
     "title": "unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "arxiv:2505.09388",
+      "base_model:Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "base_model:quantized:Qwen/Qwen3-Coder-30B-A3B-Instruct",
+      "conversational",
+      "endpoints_compatible",
+      "gguf",
+      "imatrix",
+      "license:apache-2.0",
+      "qwen",
+      "qwen3",
+      "region:us",
+      "text-generation",
+      "transformers",
+      "unsloth"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/unsloth/Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "local_path": "models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json"
   },

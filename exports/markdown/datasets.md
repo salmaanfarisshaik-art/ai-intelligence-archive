@@ -2561,6 +2561,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lmms_eval_egoschema
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_eval_video_mme
+- **Source**: 
+
+## 
 - **ID**: dataset_lmms_lab_chartqa
 - **Source**: 
 
@@ -2574,6 +2582,42 @@
 
 ## 
 - **ID**: dataset_lmms_lab_egoschema
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_chartqa
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_docvqa
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_gqa
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_mmbench
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_mme
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_mmmu
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_pope
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_textvqa
+- **Source**: 
+
+## 
+- **ID**: dataset_lmms_lab_encoder_vqav2
 - **Source**: 
 
 ## 

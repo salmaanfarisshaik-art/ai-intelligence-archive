@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7866846b05919eb1e8e2b5619f6847db3428a77c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tWebOrganizer/Corpus-200B\n\t\n\n[Paper] [Website] [GitHub]\nThis dataset is a pre-processed version of the 1b-1x CommonCrawl pool from DataComps-LM cleaned with\n(1) RefinedWeb filters and\n(2) BFF deduplication.\nWe provide the resulting 200B token corpus annotated with two quality scores, WebOrganizer domains, and k-means scores.\nDownload the dataset by cloning the repository with Git LFS instead of HuggingFace's load_dataset().\nThe dataset has the following folder structure:… See the full description on the dataset page: https://huggingface.co/datasets/WebOrganizer/Corpus-200B.",
-  "downloads": 129095,
+  "downloads": 81704,
   "tags": [
     "language:en",
     "size_categories:100M<n<1B",

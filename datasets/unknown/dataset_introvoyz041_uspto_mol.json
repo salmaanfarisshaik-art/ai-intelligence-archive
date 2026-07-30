@@ -9,7 +9,7 @@
   "private": false,
   "sha": "33bf6a7e983e6c6cdd7e7d3d339927fb1445c561",
   "description": "\n\t\n\t\t\n\t\tAn intermediate dataset for US molecular patent grants\n\t\n\nRetrieves patent grant data from USPTO weekly releases bulkdata.uspto.gov/data/patent/grant/redbook/{year} and keeps only patents with .mol files for downstream data mining use cases.\nCompared to existing work such as [https://github.com/learningmatter-mit/PatentChem/tree/main]. We keep all files of a patent grant, especially .til image files. We also share the data as a git lfs repo instead of a single .zip file to allow easier… See the full description on the dataset page: https://huggingface.co/datasets/introvoyz041/uspto-mol.",
-  "downloads": 158715,
+  "downloads": 152282,
   "tags": [
     "region:us"
   ],

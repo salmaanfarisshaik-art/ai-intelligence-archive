@@ -1,0 +1,27 @@
+{
+  "_id": "643f773b46c418c9c68be043",
+  "id": "TempoFunk/tempofunk-sdance",
+  "author": "TempoFunk",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-05-07T07:38:48.000Z",
+  "likes": 5,
+  "private": false,
+  "sha": "c1879f19c2c28377a0781a28278e42dddb8cf1d4",
+  "description": "\n\t\n\t\t\n\t\tTempoFunk S(mall)Dance\n\t\n\n10k samples of metadata and encoded latents & prompts of videos themed around dance.\n\n\t\n\t\t\n\t\tData format\n\t\n\n\nVideo frame latents\nNumpy arrays \n120 frames, 512x512 source size\nEncoded shape (120, 4, 64, 64)\n\n\nCLIP (openai) encoded prompts\nVideo description (as seen in metadata)\nEncoded shape (77,768)\n\n\nVideo metadata as JSON (description, tags, categories, source URLs, etc.)\n\n",
+  "downloads": 27139,
+  "tags": [
+    "task_categories:text-to-video",
+    "task_categories:text-to-image",
+    "task_categories:video-classification",
+    "task_categories:image-classification",
+    "language:en",
+    "license:agpl-3.0",
+    "size_categories:1K<n<10K",
+    "region:us"
+  ],
+  "createdAt": "2023-04-19T05:08:11.000Z",
+  "key": "",
+  "unique_id": "dataset_tempofunk_tempofunk_sdance",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,31 @@
+{
+  "_id": "6572b313fc603d4fe2693d23",
+  "id": "vibrantlabsai/amnesty_qa",
+  "author": "vibrantlabsai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-15T17:36:02.000Z",
+  "likes": 29,
+  "private": false,
+  "sha": "ed33e1ff29ee709f667532ba39c6760d562ca3bf",
+  "description": "\n\t\n\t\t\n\t\tAmnesty QA Dataset\n\t\n\nA grounded question-answering dataset for evaluating RAG (Retrieval-Augmented Generation) systems, created from reports collected from Amnesty International.\nThis dataset is designed for testing and evaluating RAG pipelines with real-world human rights content.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nEach sample contains:\n\nuser_input: The question to be answered\nreference: Ground truth answer for evaluation\nresponse: Generated answer from the system\nretrieved_contexts: List… See the full description on the dataset page: https://huggingface.co/datasets/vibrantlabsai/amnesty_qa.",
+  "downloads": 25542,
+  "tags": [
+    "language:en",
+    "language:ml",
+    "language:hi",
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2023-12-08T06:09:23.000Z",
+  "key": "",
+  "unique_id": "dataset_vibrantlabsai_amnesty_qa",
+  "schema_version": "1.0"
+}

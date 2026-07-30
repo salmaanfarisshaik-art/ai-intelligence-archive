@@ -754,6 +754,12 @@
 - **URL**: [https://huggingface.co/datasets/anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized)
 - **Tags**: arxiv:2406.17557, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, pre-training, region:us, size_categories:n>1T, tabular, task_categories:text-generation, text
 
+## quejing/20000-meishi-pdf
+- **ID**: hf_ds_6a1901f9165364c3c9f8e5fe
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/quejing/20000-meishi-pdf](https://huggingface.co/datasets/quejing/20000-meishi-pdf)
+- **Tags**: library:datasets, library:mlcroissant, modality:document, region:us, size_categories:1K<n<10K
+
 ## mteb/results
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets

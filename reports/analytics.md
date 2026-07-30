@@ -1,15 +1,15 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 85904
+**Total Entities Tracked**: 85920
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **models**: 1339
-- **datasets**: 1201
-- **dataset**: 1128
+- **models**: 1343
+- **datasets**: 1212
+- **dataset**: 1129
 - **news**: 1075
 - **text-generation**: 999
 - **cs.CV**: 267
@@ -70,11 +70,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 29718
+- ****: 29733
 - **Hugging Face**: 2006
 - **OpenAI Blog**: 1061
 - **ArXiv**: 829
-- **HuggingFace Datasets**: 128
+- **HuggingFace Datasets**: 129
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -114,16 +114,16 @@
 
 ## Top Tags
 
-- **region:us**: 189
-- **text-generation**: 62
-- **library:datasets**: 58
-- **library:mlcroissant**: 58
-- **endpoints_compatible**: 54
+- **region:us**: 191
+- **text-generation**: 63
+- **library:datasets**: 59
+- **library:mlcroissant**: 59
+- **endpoints_compatible**: 55
+- **transformers**: 55
 - **safetensors**: 54
-- **transformers**: 54
+- **license:apache-2.0**: 53
 - **modality:text**: 53
-- **license:apache-2.0**: 52
-- **conversational**: 47
+- **conversational**: 48
 - **language:en**: 47
 - **library:polars**: 44
 - **license:mit**: 39
@@ -137,8 +137,8 @@
 - **library:pandas**: 22
 - **task_categories:text-generation**: 20
 - **deploy:sagemaker**: 18
+- **qwen3**: 17
 - **api**: 16
-- **qwen3**: 16
 - **modality:tabular**: 15
 - **size_categories:n<1K**: 15
 - **license:other**: 14
@@ -146,12 +146,12 @@
 - **license:cc-by-4.0**: 12
 - **size_categories:10K<n<100K**: 12
 - **multilinguality:monolingual**: 11
+- **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **modality:video**: 10
 - **pytorch**: 10
 - **size_categories:100K<n<1M**: 10
 - **task_categories:robotics**: 10
-- **arxiv:2505.09388**: 9
 - **license:odc-by**: 9
 - **python**: 9
 - **size_categories:1M<n<10M**: 9

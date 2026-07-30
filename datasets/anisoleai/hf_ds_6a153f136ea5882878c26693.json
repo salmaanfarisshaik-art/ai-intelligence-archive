@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "anisoleai/fineweb-tokenized",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb Tokenized\n\t\n\n\n    \n\n> 4 trillion tokens of the pre-tokenized data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis is a pre-tokenized version of the HuggingFaceFW/fineweb dataset (currently in-progress, tokenization of the ~15 trillion tokens corpus is ongoing). The data is being pre-processed and tokenized using the AnisoleAI BPE tokenizer (52,022 vocabulary size) and packed into compact uint16 Parquet shards.\nBy distributing the pre-tokenized corpus, we eliminate… See the full description on the dataset page: https://huggingface.co/datasets/anisoleai/fineweb-tokenized.",
-  "size": "8550451",
+  "size": "6609627",
   "source_url": "https://huggingface.co/datasets/anisoleai/fineweb-tokenized",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "ef1311f460b42138d7a2d18f51e9cc38cedda089",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineWeb Tokenized\n\t\n\n\n    \n\n> 4 trillion tokens of the pre-tokenized data the 🌐 web has to offer\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis is a pre-tokenized version of the HuggingFaceFW/fineweb dataset (currently in-progress, tokenization of the ~15 trillion tokens corpus is ongoing). The data is being pre-processed and tokenized using the AnisoleAI BPE tokenizer (52,022 vocabulary size) and packed into compact uint16 Parquet shards.\nBy distributing the pre-tokenized corpus, we eliminate… See the full description on the dataset page: https://huggingface.co/datasets/anisoleai/fineweb-tokenized.",
-    "downloads": 8550451,
+    "downloads": 6609627,
     "tags": [
       "task_categories:text-generation",
       "language:en",
@@ -41,7 +41,7 @@
     "createdAt": "2026-05-26T06:34:59.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-07-30T05:40:01.087118+00:00",
+  "retrieval_timestamp": "2026-07-30T11:06:59.442139+00:00",
   "last_updated": "2026-05-29T12:35:53.000Z",
   "links": {
     "related_models": [
