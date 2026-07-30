@@ -27641,6 +27641,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_redhatai_qwen3_32b_fp8_dynamic",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_redhatai_qwen3_8b_fp8_dynamic",
       "match_type": "exact",
       "score": 3.0
@@ -28047,6 +28052,11 @@
     },
     {
       "entity_id": "model_unsloth_medgemma_27b_text_it_bnb_4bit",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_unsloth_meta_llama_3_1_8b",
       "match_type": "exact",
       "score": 3.0
     },
@@ -29632,6 +29642,11 @@
     },
     {
       "entity_id": "model_bartowski_hy3_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -31462,6 +31477,11 @@
     },
     {
       "entity_id": "model_mlx_community_qwen3_0_6b_8bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_mlx_community_qwen3_14b_4bit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -47310,6 +47330,11 @@
     },
     {
       "entity_id": "model_bartowski_hy3_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "match_type": "exact",
       "score": 3.5
     },
@@ -92058,6 +92083,11 @@
     }
   ],
   "gqa": [
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
     {
       "entity_id": "dataset_lmms_lab_gqa",
       "match_type": "exact",

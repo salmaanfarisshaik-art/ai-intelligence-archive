@@ -136,7 +136,7 @@
 - **library:dask**: 22
 - **library:pandas**: 22
 - **task_categories:text-generation**: 20
-- **deploy:sagemaker**: 17
+- **deploy:sagemaker**: 18
 - **api**: 16
 - **qwen3**: 16
 - **modality:tabular**: 15

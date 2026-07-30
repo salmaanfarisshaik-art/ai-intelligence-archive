@@ -46674,6 +46674,11 @@
       "entity_id": "dataset_lmms_lab_chartqa",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_chartqa",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "mass": [
@@ -51952,6 +51957,11 @@
   "mathew2020docvqa": [
     {
       "entity_id": "dataset_lmms_lab_docvqa",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_docvqa",
       "match_type": "exact",
       "score": 1.0
     }
@@ -81483,6 +81493,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_mmmu",
       "match_type": "exact",
       "score": 1.0
@@ -83858,6 +83873,11 @@
     },
     {
       "entity_id": "model_nousresearch_meta_llama_3_8b_instruct",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_unsloth_meta_llama_3_1_8b",
       "match_type": "exact",
       "score": 3.5
     },
@@ -105352,12 +105372,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_lmms_eval_egoschema",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_lmms_lab_egolife",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "dataset_lmms_lab_egoschema",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
       "match_type": "exact",
       "score": 1.5
     },
@@ -110600,6 +110630,16 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_lmms_eval_egoschema",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_eval_video_mme",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_lmms_lab_chartqa",
       "match_type": "exact",
       "score": 1.5
@@ -110616,6 +110656,51 @@
     },
     {
       "entity_id": "dataset_lmms_lab_egoschema",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_chartqa",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_docvqa",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmbench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mme",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_pope",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_textvqa",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_vqav2",
       "match_type": "exact",
       "score": 1.5
     },
@@ -112694,6 +112779,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_mlx_community_qwen3_14b_4bit",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit",
       "match_type": "exact",
       "score": 3.5
@@ -113068,6 +113158,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_lmms_lab_encoder_mme",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_mme",
       "match_type": "exact",
       "score": 1.0
@@ -113178,6 +113273,11 @@
       "entity_id": "hf_ds_MMMU_MMMU",
       "match_type": "exact",
       "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
+      "match_type": "exact",
+      "score": 5.0
     },
     {
       "entity_id": "dataset_lmms_lab_mmmu",
@@ -115145,6 +115245,36 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_lmms_lab_encoder_chartqa",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_docvqa",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_pope",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_textvqa",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_gqa",
       "match_type": "exact",
       "score": 6.0
@@ -116040,7 +116170,32 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_lmms_eval_egoschema",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_eval_video_mme",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_egoschema",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmbench",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mme",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_vqav2",
       "match_type": "exact",
       "score": 3.0
     },
@@ -120344,6 +120499,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_bartowski_llama_3_2_1b_instruct_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -121884,6 +122044,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_mlx_community_qwen3_14b_4bit",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit",
       "match_type": "exact",
       "score": 3.0
@@ -122870,6 +123035,11 @@
     },
     {
       "entity_id": "model_redhatai_qwen3_30b_a3b_quantized_w4a16",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_redhatai_qwen3_32b_fp8_dynamic",
       "match_type": "exact",
       "score": 3.0
     },
@@ -126920,6 +127090,16 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_lmms_lab_encoder_pope",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_textvqa",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_pope",
       "match_type": "exact",
       "score": 4.0
@@ -127041,6 +127221,26 @@
     },
     {
       "entity_id": "dataset_lmms_lab_docvqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_chartqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_docvqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
       "match_type": "exact",
       "score": 3.0
     },
@@ -131696,6 +131896,11 @@
     },
     {
       "entity_id": "model_bartowski_hy3_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -168681,6 +168886,36 @@
     },
     {
       "entity_id": "dataset_lmms_lab_docvqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_chartqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_docvqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_gqa",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_mmmu",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_pope",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_lmms_lab_encoder_textvqa",
       "match_type": "exact",
       "score": 3.0
     },
