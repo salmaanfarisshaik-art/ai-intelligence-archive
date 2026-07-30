@@ -4756,6 +4756,10 @@
 - **ID**: model_ucbye_qwen3_coder_next_nvfp4_gb10
 - **Source**: 
 
+## uctnlp/mzansilm-125m
+- **ID**: model_uctnlp_mzansilm_125m
+- **Source**: 
+
 ## Unbabel/TowerInstruct-13B-v0.1
 - **ID**: model_unbabel_towerinstruct_13b_v0_1
 - **Source**: 
