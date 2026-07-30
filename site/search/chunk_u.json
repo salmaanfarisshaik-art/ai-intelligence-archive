@@ -371,6 +371,13 @@
       "score": 2.0
     }
   ],
+  "uctnlp": [
+    {
+      "entity_id": "model_uctnlp_mzansilm_125m",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "ud": [
     {
       "entity_id": "model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers",
@@ -50210,6 +50217,11 @@
     },
     {
       "entity_id": "model_ucbye_qwen3_coder_next_nvfp4_gb10",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_uctnlp_mzansilm_125m",
       "match_type": "exact",
       "score": 1.5
     },

@@ -72,6 +72,10 @@
 - **ID**: model_aidc_ai_ovis2_1b
 - **Source**: 
 
+## AIOpsInSpace/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-MTP
+- **ID**: model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp
+- **Source**: 
+
 ## Alennnndy/Qwen3.6-27B-AWQ-4bit
 - **ID**: model_alennnndy_qwen3_6_27b_awq_4bit
 - **Source**: 
@@ -522,6 +526,10 @@
 
 ## BounharAbdelaziz/Qwen2.5-3B-GRPO-Math-GSM8K
 - **ID**: model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k
+- **Source**: 
+
+## Brian6145/Qwen3.6-27B-Claude-Opus-DeepSeek-Distilled-Imatrix-MTP-GGUF
+- **ID**: model_brian6145_qwen3_6_27b_claude_opus_deepseek_distilled_imatrix_mtp_gguf
 - **Source**: 
 
 ## Brian6145/Qwen3.6-27B-Claude-Opus-Sonnet-Distilled-NVFP4-MTP
@@ -2152,6 +2160,10 @@
 - **ID**: model_lykosai_gpt_prompt_expansion_fooocus_v2
 - **Source**: 
 
+## m15dg/local-ai-toolkit
+- **ID**: model_m15dg_local_ai_toolkit
+- **Source**: 
+
 ## m-a-p/OpenCodeInterpreter-DS-6.7B
 - **ID**: model_m_a_p_opencodeinterpreter_ds_6_7b
 - **Source**: 
@@ -3260,6 +3272,10 @@
 - **ID**: model_orionstarai_orion_14b_chat
 - **Source**: 
 
+## owao/Nanbeige4.2-3B-GGUF
+- **ID**: model_owao_nanbeige4_2_3b_gguf
+- **Source**: 
+
 ## parasail-ai/GritLM-7B-vllm
 - **ID**: model_parasail_ai_gritlm_7b_vllm
 - **Source**: 
@@ -3350,6 +3366,10 @@
 
 ## prefeitura-rio/Rio-3.0-Open-Mini
 - **ID**: model_prefeitura_rio_rio_3_0_open_mini
+- **Source**: 
+
+## prism-ml/Bonsai-1.7B-gguf
+- **ID**: model_prism_ml_bonsai_1_7b_gguf
 - **Source**: 
 
 ## prism-ml/Bonsai-27B-gguf
@@ -4052,6 +4072,10 @@
 - **ID**: model_r0b0tlab_agents_a1_nvfp4
 - **Source**: 
 
+## RadixArk/Kimi-K3-DSpark
+- **ID**: model_radixark_kimi_k3_dspark
+- **Source**: 
+
 ## RavichandranJ/Dolphin3-Cyber-8B-GGUF
 - **ID**: model_ravichandranj_dolphin3_cyber_8b_gguf
 - **Source**: 
@@ -4622,6 +4646,14 @@
 
 ## trl-internal-testing/tiny-GptOssForCausalLM
 - **ID**: model_trl_internal_testing_tiny_gptossforcausallm
+- **Source**: 
+
+## trl-internal-testing/tiny-Lfm2ForCausalLM
+- **ID**: model_trl_internal_testing_tiny_lfm2forcausallm
+- **Source**: 
+
+## trl-internal-testing/tiny-Lfm2ForCausalLM-2.5
+- **ID**: model_trl_internal_testing_tiny_lfm2forcausallm_2_5
 - **Source**: 
 
 ## trl-internal-testing/tiny-LlamaForCausalLM-3
