@@ -1,5 +1,10 @@
 # Cs.Hc Export
 
+## AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages
+- **ID**: arxiv_2505.10300v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.10300v2](http://arxiv.org/abs/2505.10300v2)
+
 ## Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour
 - **ID**: arxiv_2606.18129v1
 - **Source**: ArXiv
@@ -34,4 +39,9 @@
 - **ID**: arxiv_2607.25911v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.25911v1](http://arxiv.org/abs/2607.25911v1)
+
+## The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making
+- **ID**: arxiv_2607.27179v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27179v1](http://arxiv.org/abs/2607.27179v1)
 

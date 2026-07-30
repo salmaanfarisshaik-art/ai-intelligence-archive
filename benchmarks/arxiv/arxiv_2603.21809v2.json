@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.21809v2",
+  "schema_version": "1.0",
+  "name": "Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.21809v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.21809v2",
+    "updated": "2026-07-29T17:51:19Z",
+    "published": "2026-03-23T10:53:15Z",
+    "title": "Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction",
+    "summary": "Retinal fundus imaging enables low-cost and scalable hypertension (HTN) screening, but HTN-related retinal cues are subtle, yielding high-variance predictions. Brain MRI provides stronger vascular and small-vessel-disease markers of HTN, yet it is expensive and rarely acquired alongside fundus images, resulting in modality-siloed datasets with disjoint MRI and fundus cohorts. We study this unpaired MRI-fundus regime and introduce Clinical Graph-Mediated Distillation (CGMD), a framework that transfers MRI-derived HTN knowledge to a fundus model without paired multimodal data. CGMD leverages shared structured biomarkers as a bridge by constructing a clinical similarity kNN graph spanning both cohorts. We train an MRI teacher, propagate its representations over the graph, and impute brain-informed representation targets for fundus patients. A fundus student is then trained with a joint objective combining HTN supervision, target distillation, and relational distillation. Experiments on our newly collected unpaired MRI-fundus-biomarker dataset show that CGMD consistently improves fundus-based HTN prediction over standard distillation and non-graph imputation baselines, with ablations confirming the importance of clinically grounded graph connectivity. Code is available at https://github.com/DillanImans/CGMD-unpaired-distillation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T17:51:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.21809v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

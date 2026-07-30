@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.24149v2",
+  "schema_version": "1.0",
+  "name": "Large Emotional World Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.24149v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.24149v2",
+    "updated": "2026-07-29T16:21:10Z",
+    "published": "2025-12-30T11:26:01Z",
+    "title": "Large Emotional World Model",
+    "summary": "The world is governed by both physical laws and affective dynamics. Physical laws govern state transitions, while affective dynamics shape human actions, decisions, and interactions. A world model that learns only physical laws can approximate the physical world, but not the human world. In this paper, we introduce human emotion as a key state variable in world models, enabling them to capture both future state transitions and their emotional causes. We first construct Emotion-Why-How (EWH), the first world model dataset centered on emotional state transitions, containing 10,850 emotion-aware transition tuples. Each tuple encodes the pre-state, pre-emotion, action, post-emotion, and post-state, supporting reasoning about why actions occur and how emotions reshape future states. Based on EWH, we propose the Large Emotional World Model (LEWM), which factorizes future prediction into two coupled steps: first predicting the future emotional state from the current context, and then conditioning future world-state prediction on the predicted emotion. Experiments show that LEWM brings consistent gains across world-state prediction, emotion understanding, and general reasoning tasks. It achieves up to 45.72% accuracy improvement on EWH, 3.94% on WorldNet, 17.47% F1 improvement on MELD, and a 6.10% gain on specific MMLU categories. These results demonstrate that incorporating emotion into world models enables more realistic simulation of human-centered environments and expands the predictive understanding of intelligent agents.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:21:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.24149v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

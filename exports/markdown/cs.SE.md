@@ -80,3 +80,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24601v1](http://arxiv.org/abs/2607.24601v1)
 
+## MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis
+- **ID**: arxiv_2607.27146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27146v1](http://arxiv.org/abs/2607.27146v1)
+
+## SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch
+- **ID**: arxiv_2607.27167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27167v1](http://arxiv.org/abs/2607.27167v1)
+

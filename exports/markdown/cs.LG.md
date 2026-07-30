@@ -445,6 +445,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24645v1](http://arxiv.org/abs/2607.24645v1)
 
+## Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction
+- **ID**: arxiv_2607.25718v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25718v2](http://arxiv.org/abs/2607.25718v2)
+
 ## Minimizing Targeted Activations: Input-Only Suppression of Evaluation-Awareness Latents in Large Language Models
 - **ID**: arxiv_2607.25907v1
 - **Source**: ArXiv
@@ -459,4 +464,19 @@
 - **ID**: arxiv_2607.26000v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26000v1](http://arxiv.org/abs/2607.26000v1)
+
+## Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise
+- **ID**: arxiv_2607.27073v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27073v1](http://arxiv.org/abs/2607.27073v1)
+
+## Scores Are Not Decisions: Cost-Aware Stopping for Tool Acquisition in LLM Agents
+- **ID**: arxiv_2607.27083v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27083v1](http://arxiv.org/abs/2607.27083v1)
+
+## Cost-Sensitive Conformal Prediction and Human-in-the-Loop Abstention for Imbalanced High-Stakes Decision Support: A Multi-Domain Benchmark
+- **ID**: arxiv_2607.27143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27143v1](http://arxiv.org/abs/2607.27143v1)
 

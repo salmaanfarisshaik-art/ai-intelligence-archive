@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16175v1](http://arxiv.org/abs/2607.16175v1)
 
+## Towards an Automated Test of LLM Security Knowledge
+- **ID**: arxiv_2607.18496v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18496v3](http://arxiv.org/abs/2607.18496v3)
+
 ## They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface
 - **ID**: arxiv_2607.19267v1
 - **Source**: ArXiv
@@ -99,4 +104,9 @@
 - **ID**: arxiv_2607.25995v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.25995v1](http://arxiv.org/abs/2607.25995v1)
+
+## MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair
+- **ID**: arxiv_2607.27080v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27080v1](http://arxiv.org/abs/2607.27080v1)
 

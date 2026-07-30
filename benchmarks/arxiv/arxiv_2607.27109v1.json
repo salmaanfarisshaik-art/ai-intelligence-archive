@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27109v1",
+  "schema_version": "1.0",
+  "name": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27109v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27109v1",
+    "updated": "2026-07-29T16:38:08Z",
+    "published": "2026-07-29T16:38:08Z",
+    "title": "MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning",
+    "summary": "With the development of audio large language models (AudioLLMs), audio captioning needs to move from brief descriptions toward open-ended and fine-grained free-form descriptions. Existing evaluations often focus on generation quality or task performance, making it difficult to diagnose information coverage and description reliability. We propose MMAC, a \\textbf{M}assive \\textbf{M}ulti-dimensional benchmark for \\textbf{A}udio \\textbf{C}aptioning. MMAC contains 5,638 audio clips from more than 20 data sources, covering 6 capability categories and 15 evaluation dimensions. Given a model-generated caption, MMAC checks whether it mentions relevant information in the target dimension and whether the mentioned content is consistent with the reference label. We evaluate representative open-source and proprietary AudioLLMs. Results show clear differences across evaluation dimensions, information coverage, and description reliability. We will release the MMAC benchmark and evaluation code.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:38:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27109v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

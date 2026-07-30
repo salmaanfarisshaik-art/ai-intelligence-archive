@@ -180,6 +180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
 
+## Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction
+- **ID**: arxiv_2603.21809v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.21809v2](http://arxiv.org/abs/2603.21809v2)
+
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
@@ -189,6 +194,16 @@
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
+## SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging
+- **ID**: arxiv_2605.00887v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00887v2](http://arxiv.org/abs/2605.00887v2)
+
+## Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation
+- **ID**: arxiv_2605.04201v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
 
 ## ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
 - **ID**: arxiv_2605.15375v2
@@ -1244,4 +1259,79 @@
 - **ID**: arxiv_2607.26042v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26042v1](http://arxiv.org/abs/2607.26042v1)
+
+## Object Detection for Autonomous Driving in Chinese Rural Scenes: An Experimental Study on Real-Synthetic Data Mixing and Model Evaluation
+- **ID**: arxiv_2607.27058v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27058v1](http://arxiv.org/abs/2607.27058v1)
+
+## ScratchSim: A Procedural Synthetic Data Pipeline for Surface Scratch Detection
+- **ID**: arxiv_2607.27065v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27065v1](http://arxiv.org/abs/2607.27065v1)
+
+## SciFigAlign: Scoring Scientific Figures by Fine-tuned Alignment of Visuals with Manuscript Evidence
+- **ID**: arxiv_2607.27066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27066v1](http://arxiv.org/abs/2607.27066v1)
+
+## Visual Credit Audit for Multimodal Spatial Reasoning
+- **ID**: arxiv_2607.27069v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27069v1](http://arxiv.org/abs/2607.27069v1)
+
+## SciFigQual-Bench: A Benchmark for Scientific Figure Quality Assessment with Full-Manuscript Context
+- **ID**: arxiv_2607.27084v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27084v1](http://arxiv.org/abs/2607.27084v1)
+
+## Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation
+- **ID**: arxiv_2607.27087v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27087v1](http://arxiv.org/abs/2607.27087v1)
+
+## FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring
+- **ID**: arxiv_2607.27110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27110v1](http://arxiv.org/abs/2607.27110v1)
+
+## Veritas++: Value-aware On-Policy Distillation for Perception-Enhanced AIGI Detection
+- **ID**: arxiv_2607.27113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27113v1](http://arxiv.org/abs/2607.27113v1)
+
+## Towards Grounded GI Endoscopy VQA via Multi-Task Learning on Small VLMs
+- **ID**: arxiv_2607.27122v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27122v1](http://arxiv.org/abs/2607.27122v1)
+
+## SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI
+- **ID**: arxiv_2607.27139v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27139v1](http://arxiv.org/abs/2607.27139v1)
+
+## Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications
+- **ID**: arxiv_2607.27145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27145v1](http://arxiv.org/abs/2607.27145v1)
+
+## Anatomy Contextualized Adaption of CT Foundation Models
+- **ID**: arxiv_2607.27154v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27154v1](http://arxiv.org/abs/2607.27154v1)
+
+## HumanCLAW: Can Vision-Language Models Act Through a Body?
+- **ID**: arxiv_2607.27180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27180v1](http://arxiv.org/abs/2607.27180v1)
+
+## VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion
+- **ID**: arxiv_2607.27194v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27194v1](http://arxiv.org/abs/2607.27194v1)
+
+## TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM
+- **ID**: arxiv_2607.27205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27205v1](http://arxiv.org/abs/2607.27205v1)
 

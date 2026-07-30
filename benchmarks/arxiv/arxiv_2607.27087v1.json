@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27087v1",
+  "schema_version": "1.0",
+  "name": "Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27087v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27087v1",
+    "updated": "2026-07-29T16:11:11Z",
+    "published": "2026-07-29T16:11:11Z",
+    "title": "Step-Attention Refinement of DINOv3 Features for Efficient Anterior Eye Segmentation",
+    "summary": "Anterior eye segment (AES) segmentation is a key component of both ocular biometrics and emerging clinical image analysis applications. However, heterogeneous acquisition conditions and limited annotations in medical settings hinder the robustness and generalization of existing methods. Foundation models (FMs) such as DINOv3 offer strong transfer capabilities, but efficiently adapting their representations to dense prediction tasks remains challenging. In this study, we investigate robust AES segmentation in clinical settings, and propose a lightweight architecture built upon a distilled DINOv3 ViT-Small backbone. We introduce a step-attention feature refinement module that progressively adapts multi-level transformer representations before convolutional decoding, enabling efficient exploitation of pretrained features with few parameters. We evaluate the proposed approach on a private dataset of 333 clinically acquired AES images spanning eight ophthalmic acquisition protocols and annotated for seven anatomical classes. Compared with convolutional and transformer-based baselines, including DINOv3-based methods, our approach achieves the best overall performance, reaching 85.55\\% mIoU when fully fine-tuned. It also demonstrates the strongest robustness to domain shift across four unseen public AES segmentation datasets. These results establish a strong baseline for robust AES segmentation in clinical settings and highlight the importance of decoder design for effectively adapting FMs representations to medical segmentation tasks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:11:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27087v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

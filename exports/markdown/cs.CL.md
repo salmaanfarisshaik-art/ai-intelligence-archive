@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.17351v2](http://arxiv.org/abs/2512.17351v2)
 
+## Large Emotional World Model
+- **ID**: arxiv_2512.24149v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.24149v2](http://arxiv.org/abs/2512.24149v2)
+
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
@@ -410,6 +415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00848v2](http://arxiv.org/abs/2607.00848v2)
 
+## Will Scaling Improve Social Simulation with LLMs?
+- **ID**: arxiv_2607.02464v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.02464v2](http://arxiv.org/abs/2607.02464v2)
+
 ## WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning
 - **ID**: arxiv_2607.09328v2
 - **Source**: ArXiv
@@ -729,4 +739,24 @@
 - **ID**: arxiv_2607.26057v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26057v1](http://arxiv.org/abs/2607.26057v1)
+
+## DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search
+- **ID**: arxiv_2607.27178v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27178v1](http://arxiv.org/abs/2607.27178v1)
+
+## Pangram 4 Technical Report
+- **ID**: arxiv_2607.27183v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27183v1](http://arxiv.org/abs/2607.27183v1)
+
+## APEX-Accounting
+- **ID**: arxiv_2607.27189v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27189v1](http://arxiv.org/abs/2607.27189v1)
+
+## Mental World Modeling
+- **ID**: arxiv_2607.27201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27201v1](http://arxiv.org/abs/2607.27201v1)
 

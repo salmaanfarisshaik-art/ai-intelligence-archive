@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20253v1](http://arxiv.org/abs/2607.20253v1)
 
+## MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning
+- **ID**: arxiv_2607.27109v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27109v1](http://arxiv.org/abs/2607.27109v1)
+

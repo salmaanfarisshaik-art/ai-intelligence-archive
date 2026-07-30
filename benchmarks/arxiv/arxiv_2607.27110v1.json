@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27110v1",
+  "schema_version": "1.0",
+  "name": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27110v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27110v1",
+    "updated": "2026-07-29T16:38:47Z",
+    "published": "2026-07-29T16:38:47Z",
+    "title": "FreqForcing: Autoregressive Long Video Generation via Spectral Self-Anchoring",
+    "summary": "Autoregressive video diffusion models enable real-time streaming video generation. However, errors introduced during self-rollout accumulate over long horizons, manifesting as color drift, motion stagnation, and eventual visual collapse. In this paper, we characterize this phenomenon from a frequency-domain perspective: error accumulation appears as a pronounced energy drift in the low-frequency bands. We further investigate the effectiveness of attention sink in the frequency domain, and find that it improves the video quality by alleviating the spectral energy drift to some extent, but cannot fully resolve it. Motivated by the above analysis, we propose FreqForcing, a training-free framework that addresses error accumulation in long-video generation via Spectral Self-Anchoring (SSA). The proposed SSA leverages the low-frequency components of anchor attention to maintain long-horizon visual stability, while preserving dynamic motion through the high-frequency components of local attention. Our FreqForcing extends Self-Forcing pretrained on 5s clips to two-minute generation, achieving 24x extrapolation. Extensive experiments show that FreqForcing outperforms existing training-free methods quantitatively and qualitatively while remaining competitive with representative training-based approaches.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:38:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27110v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.19299v2](http://arxiv.org/abs/2510.19299v2)
 
+## BioPro: Towards Difference-Aware Gender Fairness for Vision-Language Models
+- **ID**: arxiv_2512.00807v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.00807v2](http://arxiv.org/abs/2512.00807v2)
+
 ## Subjective functions
 - **ID**: arxiv_2512.15948v3
 - **Source**: ArXiv
@@ -320,6 +325,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.22030v2](http://arxiv.org/abs/2606.22030v2)
 
+## Matilda: Engine-Agnostic Search with Human Policy Guidance
+- **ID**: arxiv_2606.25176v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.25176v3](http://arxiv.org/abs/2606.25176v3)
+
 ## EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures
 - **ID**: arxiv_2606.30219v4
 - **Source**: ArXiv
@@ -415,6 +425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15267v1](http://arxiv.org/abs/2607.15267v1)
 
+## Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents
+- **ID**: arxiv_2607.15715v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15715v2](http://arxiv.org/abs/2607.15715v2)
+
 ## Harmonizing AI Safety Thresholds
 - **ID**: arxiv_2607.16112v1
 - **Source**: ArXiv
@@ -464,6 +479,11 @@
 - **ID**: arxiv_2607.19321v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19321v1](http://arxiv.org/abs/2607.19321v1)
+
+## ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D
+- **ID**: arxiv_2607.19321v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19321v2](http://arxiv.org/abs/2607.19321v2)
 
 ## Associative Emotional Learning in Convolutional Neural Networks
 - **ID**: arxiv_2607.19327v1
@@ -635,6 +655,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24707v1](http://arxiv.org/abs/2607.24707v1)
 
+## Explanation-Bound Tool Execution for AI Agents: Server-Verified Action Claims Without Trusting Model Rationales
+- **ID**: arxiv_2607.25364v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25364v2](http://arxiv.org/abs/2607.25364v2)
+
 ## Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification
 - **ID**: arxiv_2607.25904v1
 - **Source**: ArXiv
@@ -679,4 +704,34 @@
 - **ID**: arxiv_2607.26041v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26041v1](http://arxiv.org/abs/2607.26041v1)
+
+## On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment
+- **ID**: arxiv_2607.27081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27081v1](http://arxiv.org/abs/2607.27081v1)
+
+## AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching
+- **ID**: arxiv_2607.27130v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27130v1](http://arxiv.org/abs/2607.27130v1)
+
+## Linguistic Monoculture in LLM-Assisted Language Use
+- **ID**: arxiv_2607.27134v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27134v1](http://arxiv.org/abs/2607.27134v1)
+
+## OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding
+- **ID**: arxiv_2607.27155v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27155v1](http://arxiv.org/abs/2607.27155v1)
+
+## Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork
+- **ID**: arxiv_2607.27177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27177v1](http://arxiv.org/abs/2607.27177v1)
+
+## Can AI agents conduct open-ended AI research? Early evidence from two case studies
+- **ID**: arxiv_2607.27191v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27191v1](http://arxiv.org/abs/2607.27191v1)
 

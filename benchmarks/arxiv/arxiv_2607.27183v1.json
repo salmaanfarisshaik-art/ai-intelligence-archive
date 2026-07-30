@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27183v1",
+  "schema_version": "1.0",
+  "name": "Pangram 4 Technical Report",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27183v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27183v1",
+    "updated": "2026-07-29T17:53:01Z",
+    "published": "2026-07-29T17:53:01Z",
+    "title": "Pangram 4 Technical Report",
+    "summary": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0.3396%. In addition to its increased overall accuracy compared with Pangram 3, Pangram 4 exhibits superior out-of-distribution generalization and robustness to adversarial attacks. Another novel contribution of Pangram 4 is its improved ability to distinguish fine-grained edits and mixed AI-human co-authored text. We demonstrate improvements to both boundary detection tasks and the detection of interleaved AI assistance. Finally, we report metrics on standard AI detection benchmarks showing that Pangram 4 achieves state-of-the-art performance on the AI text detection task across a wide variety of settings and domains.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T17:53:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27183v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

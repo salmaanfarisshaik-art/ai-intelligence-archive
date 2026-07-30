@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27073v1",
+  "schema_version": "1.0",
+  "name": "Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27073v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27073v1",
+    "updated": "2026-07-29T15:58:18Z",
+    "published": "2026-07-29T15:58:18Z",
+    "title": "Parameter-Free Dynamic Regret for Online Convex Optimization under Heavy-Tailed Noise",
+    "summary": "We study online convex optimization (OCO) in non-stationary environments under heavy-tailed noise, where the stochastic gradient oracle admits only a finite $p$-th central moment for some $p \\in (1, 2]$. While static regret is well-understood, achieving universal dynamic regret in a parameter-free manner remains an open challenge. We resolve this by proposing \\textbf{HT-PAder}, a parameter-free algorithm combining restarted AdaGrad experts over a geometric pool of block lengths with a pathwise meta-algorithm, \\textbf{AdaGrad-Hedge}, which requires no moment conditions on meta-losses. For a domain of diameter $D$, Lipschitz constant $G$, noise level $σ$, and comparator path length $P_T$, HT-PAder achieves an expected universal dynamic regret of \\[ \\widetilde O\\left( GD\\sqrt{T(1+P_T/D)} + σD T^{1/p}(1+P_T/D)^{(p-1)/p} \\right). \\] The algorithm does not require prior knowledge of any of these problem parameters. Even in the special case of finite variance ($p=2$), HT-PAder provides the first parameter-free minimax universal dynamic regret guarantee. We also prove a matching lower bound, establishing the optimality of the path-length exponent.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T15:58:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27073v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

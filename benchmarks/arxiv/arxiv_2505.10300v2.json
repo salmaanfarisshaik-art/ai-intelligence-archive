@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.10300v2",
+  "schema_version": "1.0",
+  "name": "AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.10300v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.10300v2",
+    "updated": "2026-07-29T17:24:54Z",
+    "published": "2025-05-15T13:49:02Z",
+    "title": "AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages",
+    "summary": "Responsible AI (RAI) efforts increasingly emphasize the importance of addressing potential harms early in the AI development lifecycle through social-technical lenses. However, in cross-functional industry teams, this work is often stalled by a persistent coordination challenge: how technical roles hand off technical intent, how teams establish shared structures for collaboration, and how non-technical roles are supported in systematically evaluating harms. Through literature review and a semi-structured interview study with 8 practitioners, we unpack how this challenge manifests---technical design choices are rarely handed off in ways that support meaningful engagement by non-technical roles; collaborative workflows lack shared, visual structures to support mutual understanding; and non-technical practitioners are left without scaffolds for systematic harm evaluation. Existing tools like JIRA or Google Docs, while useful for product tracking, are ill-suited for supporting joint harm identification across roles, often requiring significant extra effort to align understanding. To address this, we developed AI LEGO, a web-based prototype that operationalizes the boundary object theory to support cross-functional AI practitioners in effectively facilitating knowledge handoff and identifying harmful design choices in the early design stages. Technical roles use interactive blocks to draft development plans, while non-technical roles engage with those blocks through stage-specific checklists and LLM-driven persona simulations to surface potential harms. In a study with 18 cross-functional practitioners, AI LEGO increased the volume and likelihood of harms identified compared to baseline worksheets. Participants found that its modular structure and persona prompts made harm identification more accessible, fostering clearer and more collaborative RAI practices in early design.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T17:24:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.10300v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

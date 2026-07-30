@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.00887v2",
+  "schema_version": "1.0",
+  "name": "SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.00887v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.00887v2",
+    "updated": "2026-07-29T17:29:36Z",
+    "published": "2026-04-27T10:17:25Z",
+    "title": "SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging",
+    "summary": "We propose SparseContrast, a new framework that merges dynamic sparse attention with contrastive learning for medical imaging, with a focus on chest X-ray disease detection in low-data settings. Traditional contrastive learning methods rely on dense attention mechanisms, which are computationally expensive and often process redundant regions in medical images. To resolve this, SparseContrast introduces a sparse attention mechanism that selectively concentrates on diagnostically pertinent areas, markedly decreasing computational burden without compromising accuracy. The framework adaptively trims attention maps in the training phase, directed by a compact saliency predictor which concurrently optimizes sparsity and feature quality. This method not only speeds up training and inference by as much as 40% relative to dense attention benchmarks but also boosts diagnostic accuracy by focusing on areas of clinical importance. Moreover, the approach remains indifferent to the selection of backbone architecture, which permits its application to both convolutional and transformer-based models. Experiments show SparseContrast attains comparable or better performance in disease identification tasks with greater efficiency relative to current approaches. The proposed framework delivers a practical approach for implementing contrastive learning in medical imaging settings with limited resources, where computational efficiency and diagnostic accuracy are paramount.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T17:29:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.00887v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

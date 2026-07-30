@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18102v1](http://arxiv.org/abs/2607.18102v1)
 
+## Improving Item Discoverability in e-Commerce Search via Related Intent Generation
+- **ID**: arxiv_2607.27172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27172v1](http://arxiv.org/abs/2607.27172v1)
+

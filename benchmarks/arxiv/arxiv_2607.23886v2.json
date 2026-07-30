@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.23886v2",
+  "schema_version": "1.0",
+  "name": "Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.23886v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cond-mat.mtrl-sci",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.23886v2",
+    "updated": "2026-07-29T16:01:42Z",
+    "published": "2026-07-26T23:12:06Z",
+    "title": "Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature",
+    "summary": "X-ray absorption spectroscopy (XAS) is central to understanding the local electronic and atomic structure of materials, yet most published spectra remain inaccessible to data-driven analysis because they are embedded in figures and described through fragmented textual context in the literature. Here, we use multimodal (image and text) literature mining to transform this dispersed knowledge into an AI-ready experimental data resource. We developed a scalable spectroscopy data digitization pipeline that identifies XAS figures in full-text articles, digitizes spectral curves, and links each spectrum to accompanying metadata on the measured edge and material. Applying this pipeline to the battery literature produced an open dataset of 13,740 XAS spectra, spanning 66 absorbing elements and diverse battery chemistries, with expert validation confirming accurate extraction of spectral and metadata information. By converting literature-embedded spectra into structured numerical data, this dataset provides a foundation for large-scale XAS analysis, cross-laboratory comparison, high-throughput characterization, and autonomous discovery of advanced materials.",
+    "primary_category": "cond-mat.mtrl-sci"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:01:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.23886v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

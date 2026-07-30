@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.17750v3](http://arxiv.org/abs/2602.17750v3)
 
+## Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature
+- **ID**: arxiv_2607.23886v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23886v2](http://arxiv.org/abs/2607.23886v2)
+

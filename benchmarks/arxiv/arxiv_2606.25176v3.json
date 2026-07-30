@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.25176v3",
+  "schema_version": "1.0",
+  "name": "Matilda: Engine-Agnostic Search with Human Policy Guidance",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.25176v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.25176v3",
+    "updated": "2026-07-29T16:40:06Z",
+    "published": "2026-06-23T21:06:24Z",
+    "title": "Matilda: Engine-Agnostic Search with Human Policy Guidance",
+    "summary": "Chess engines have evolved from search-based systems optimized for strength to neural policies optimized for predicting human decisions. Existing approaches largely separate these goals: search engines achieve superhuman strength but poorly model humans, while models such as Maia-3 capture rating-conditioned behavior yet degrade at elite levels. We present Matilda, a modular residual re-ranking architecture that decouples behavioral priors from tactical search, combining a frozen human policy with an engine-agnostic search backend through a lightweight residual model. Matilda learns residual corrections over the full legal-move distribution from frozen policy context, time control, player-style embeddings, and search-derived candidate features. A zero-initialized residual head exactly recovers the frozen policy before training while optimization minimizes negative log-likelihood (NLL). Instantiated with Maia-3 and Stockfish, Matilda reduces human-move prediction NLL by 18.5% and raises top-1 accuracy from 60.1% to 66.1% on temporally held-out verified-human 3000+ Elo Lichess blitz games, with player-style embeddings contributing a further 1.8% and +0.2 percentage points (pp) respectively. Seed-paired ablations attribute these gains to search rather than additional data; the findings are replicated in Go -- decomposing expert play into recognition and verified calculation. Below 2500 Elo, where search annotations are unavailable, Matilda preserves Maia-3's performance.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-30T05:39:55Z",
+  "last_updated": "2026-07-29T16:40:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.25176v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

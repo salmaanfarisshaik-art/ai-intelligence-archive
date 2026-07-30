@@ -155,3 +155,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26055v1](http://arxiv.org/abs/2607.26055v1)
 
+## DLAM: Distributional Latent Actions with Temporal Constraints
+- **ID**: arxiv_2607.27138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27138v1](http://arxiv.org/abs/2607.27138v1)
+
