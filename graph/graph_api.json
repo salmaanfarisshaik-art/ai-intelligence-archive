@@ -4584,9 +4584,14 @@
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "target": "2604.09852"
+    },
+    {
+      "relationship": "related_papers",
+      "source": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-07-29T23:06:41.613981+00:00",
+  "generated_at": "2026-07-30T02:13:52.019482+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -273442,6 +273447,11 @@
     },
     {
       "category": "news",
+      "id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/academy/applications-of-ai",
       "label": ""
     },
@@ -433857,6 +433867,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 917,
-  "total_nodes": 85853
+  "total_edges": 918,
+  "total_nodes": 85854
 }

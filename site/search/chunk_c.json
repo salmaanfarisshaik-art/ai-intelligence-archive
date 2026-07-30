@@ -28241,6 +28241,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -38469,6 +38474,11 @@
     },
     {
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
       "match_type": "exact",
       "score": 1.0
     }
@@ -186328,6 +186338,11 @@
       "entity_id": "dataset_tanganke_stanford_cars",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "compressor": [
@@ -217828,6 +217843,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/advancing-content-provenance",
       "match_type": "exact",
       "score": 4.0
@@ -221055,6 +221075,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_longvideobench_longvideobench",
       "match_type": "exact",
       "score": 1.5
@@ -221580,11 +221605,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "rss_https://openai.com/index/chatgpt-memory-dreaming",
       "match_type": "exact",
       "score": 1.0
@@ -221718,6 +221738,11 @@
     },
     {
       "entity_id": "dataset_mcg_nju_videochat3_lv116k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
       "match_type": "exact",
       "score": 1.0
     },
@@ -260153,11 +260178,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
       "entity_id": "alpaca_-110042940676925837",
       "match_type": "exact",
       "score": 1.0
@@ -260449,6 +260469,16 @@
     },
     {
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/26/abbel/",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
       "match_type": "exact",
       "score": 1.0
     }
@@ -295810,6 +295840,11 @@
     }
   ],
   "cuda": [
+    {
+      "entity_id": "rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_prism_ml_bonsai_27b_gguf",
       "match_type": "exact",

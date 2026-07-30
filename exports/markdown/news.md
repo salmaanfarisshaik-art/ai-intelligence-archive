@@ -66,6 +66,11 @@
 - **URL**: [http://bair.berkeley.edu/blog/2026/07/26/abbel/](http://bair.berkeley.edu/blog/2026/07/26/abbel/)
 
 ## 
+- **ID**: rss_http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/
+- **Source**: BAIR Blog
+- **URL**: [http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/](http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/)
+
+## 
 - **ID**: rss_https://openai.com/academy/applications-of-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/academy/applications-of-ai](https://openai.com/academy/applications-of-ai)

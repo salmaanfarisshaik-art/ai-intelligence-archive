@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 80
+**Total Changes:** 84
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_how-two-settings-tripled-our-arc-agi-3-scores.json
+- prompts/bair-blog/rss_http___bair.berkeley.edu_blog_2026_07_29_cuda-to-mlx-k-search_.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,9 +16,8 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
@@ -28,8 +27,10 @@
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
+- prompts/bair-blog/rss_http___bair.berkeley.edu_blog_2026_07_07_intelligence-is-free-now-what_.json
+- prompts/bair-blog/rss_http___bair.berkeley.edu_blog_2026_07_26_abbel_.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -58,6 +59,7 @@
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -70,16 +72,18 @@
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_634224458.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
+- tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
