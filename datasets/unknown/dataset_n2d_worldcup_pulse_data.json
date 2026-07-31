@@ -4,10 +4,10 @@
   "author": "n2d",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-07-31T15:05:30.000Z",
+  "lastModified": "2026-07-31T17:07:03.000Z",
   "likes": 6,
   "private": false,
-  "sha": "0ad980de047bc1c82d86ba54d5f9fdef8712e0f2",
+  "sha": "691ec77b7d86b5229813376b04af9e274ab8eb72",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tWorldCup Pulse Data\n\t\n\nThis Hugging Face Dataset repository is the single source of truth for WorldCup Pulse Lakehouse data. The GitHub code repo never commits generated data; GitHub Actions uploads this lakehouse output to this dataset repo.\n\n\t\n\t\t\n\t\n\t\n\t\tLakehouse layout\n\t\n\nbronze/*.parquet     # normalized raw API snapshots\nsilver/*.parquet     # cleaned canonical entities and events\ngold/*.parquet       # dashboard-ready marts\nstate/last_run.json  # incremental state\nlogs/*.csv… See the full description on the dataset page: https://huggingface.co/datasets/n2d/worldcup-pulse-data.",
   "downloads": 32382,
   "tags": [
