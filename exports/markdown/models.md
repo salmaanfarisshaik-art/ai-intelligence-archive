@@ -660,6 +660,10 @@
 - **ID**: model_cyankiwi_hermes_4_14b_awq_4bit
 - **Source**: 
 
+## cyankiwi/KAT-Coder-V2.5-Dev-AWQ-INT4
+- **ID**: model_cyankiwi_kat_coder_v2_5_dev_awq_int4
+- **Source**: 
+
 ## cyankiwi/MiniMax-M2.5-AWQ-4bit
 - **ID**: model_cyankiwi_minimax_m2_5_awq_4bit
 - **Source**: 
@@ -2418,6 +2422,10 @@
 
 ## Menlo/Jan-nano-128k
 - **ID**: model_menlo_jan_nano_128k
+- **Source**: 
+
+## meshllm/gemma-4-E4B-it-Q4_K_M-layers
+- **ID**: model_meshllm_gemma_4_e4b_it_q4_k_m_layers
 - **Source**: 
 
 ## meshllm/Qwen3.5-397B-A17B-UD-Q4_K_XL-layers
