@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4aab42c4b5b4b525e8548c8b89af6422580c662b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPanoCity Dataset\n\t\n\nA Large-Scale Aerial Panoramic Dataset for 3D Scene Understanding\n\n\n\t\n\t\t\n\t\n\t\n\t\t📊 Dataset Statistics\n\t\n\n\n\t\n\t\t\nAttribute\nValue\n\n\n\t\t\nTotal Size\n1.4 TB\n\n\nCities\nBeijing (20 blocks), Jinan (76 blocks), Ningbo (41 blocks)\n\n\nPanoramic RGB Images\n119,537 (2048×4096)\n\n\nPanoramic Depth Maps\n119,537 (2048×4096)\n\n\nTotal Images\n239,074\n\n\nImage Format\nPNG\n\n\n\t\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t📂 Data Structure\n\t\n\nPanoCity/\n├── splits_config.json              # Official train/test splits\n├──… See the full description on the dataset page: https://huggingface.co/datasets/YijingGuo/PanoCity.",
-  "downloads": 28447,
+  "downloads": 24062,
   "tags": [
     "task_categories:depth-estimation",
     "task_categories:image-to-3d",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T06:13:11Z",
+  "generated_at": "2026-07-31T09:44:46Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -352,7 +352,8 @@
       "model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf"
     ],
     "hf_Kwaipilot_KAT-Coder-V2.5-Dev": [
-      "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf"
+      "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
+      "model_cyankiwi_kat_coder_v2_5_dev_awq_int4"
     ],
     "hf_LGAI-EXAONE_EXAONE-4.0-32B": [
       "model_lgai_exaone_exaone_4_0_32b_gguf"
@@ -2613,6 +2614,9 @@
     "hf_unsloth_Qwen3.5-397B-A17B-GGUF": [
       "model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers"
     ],
+    "hf_unsloth_gemma-4-E4B-it-GGUF": [
+      "model_meshllm_gemma_4_e4b_it_q4_k_m_layers"
+    ],
     "hf_unsloth_gpt-oss-20b-BF16": [
       "model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated"
     ],
@@ -3137,6 +3141,9 @@
     ],
     "model_cyankiwi_hermes_4_14b_awq_4bit": [
       "hf_NousResearch_Hermes-4-14B"
+    ],
+    "model_cyankiwi_kat_coder_v2_5_dev_awq_int4": [
+      "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
     ],
     "model_cyankiwi_minimax_m2_5_awq_4bit": [
       "hf_MiniMaxAI_MiniMax-M2.5"
@@ -4144,6 +4151,9 @@
     ],
     "model_menlo_jan_nano_128k": [
       "hf_Menlo_Jan-nano"
+    ],
+    "model_meshllm_gemma_4_e4b_it_q4_k_m_layers": [
+      "hf_unsloth_gemma-4-E4B-it-GGUF"
     ],
     "model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers": [
       "hf_unsloth_Qwen3.5-397B-A17B-GGUF"

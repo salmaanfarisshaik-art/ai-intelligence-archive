@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T06:13:10Z",
+  "generated_at": "2026-07-31T09:44:46Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1099,6 +1099,11 @@
     {
       "source_id": "model_cyankiwi_hermes_4_14b_awq_4bit",
       "target_id": "hf_NousResearch_Hermes-4-14B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_cyankiwi_kat_coder_v2_5_dev_awq_int4",
+      "target_id": "hf_Kwaipilot_KAT-Coder-V2.5-Dev",
       "type": "derived_from"
     },
     {
@@ -3284,6 +3289,11 @@
     {
       "source_id": "model_menlo_jan_nano_128k",
       "target_id": "hf_Menlo_Jan-nano",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_meshllm_gemma_4_e4b_it_q4_k_m_layers",
+      "target_id": "hf_unsloth_gemma-4-E4B-it-GGUF",
       "type": "derived_from"
     },
     {

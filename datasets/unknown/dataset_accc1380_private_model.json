@@ -1,0 +1,23 @@
+{
+  "_id": "648857760931d72733f168ee",
+  "id": "ACCC1380/private-model",
+  "author": "ACCC1380",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-27T12:39:53.000Z",
+  "likes": 9,
+  "private": false,
+  "sha": "1df9ac0b6e298fba2fb2ff14b5658d260eb84243",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\t此huggingface库主要存储本人电脑的一些重要文件\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t如果无法下载文件，把下载链接的huggingface.co改成hf-mirror.com 即可\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t如果你也想要在此处永久备份文件，可以参考我的上传代码：\n\t\n\n# 功能函数，清理打包上传\nfrom pathlib import Path\nfrom huggingface_hub import HfApi, login\n\nrepo_id = 'ACCC1380/private-model'\nyun_folders = ['/kaggle/input']\n\n\ndef hugface_upload(yun_folders, repo_id):\n    if 5 == 5:\n        hugToken = '********************' #改成你的huggingface_token\n        if hugToken != '':\n            login(token=hugToken)\n            api… See the full description on the dataset page: https://huggingface.co/datasets/ACCC1380/private-model.",
+  "downloads": 24217,
+  "tags": [
+    "language:ch",
+    "license:apache-2.0",
+    "region:us",
+    "not-for-all-audiences"
+  ],
+  "createdAt": "2023-06-13T11:48:06.000Z",
+  "key": "",
+  "unique_id": "dataset_accc1380_private_model",
+  "schema_version": "1.0"
+}

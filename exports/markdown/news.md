@@ -561,6 +561,11 @@
 - **URL**: [https://openai.com/index/advancing-red-teaming-with-people-and-ai](https://openai.com/index/advancing-red-teaming-with-people-and-ai)
 
 ## 
+- **ID**: rss_https://openai.com/index/advancing-responsible-ai-across-europe
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/advancing-responsible-ai-across-europe](https://openai.com/index/advancing-responsible-ai-across-europe)
+
+## 
 - **ID**: rss_https://openai.com/index/advancing-the-next-era-of-national-science
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/advancing-the-next-era-of-national-science](https://openai.com/index/advancing-the-next-era-of-national-science)
@@ -5109,6 +5114,11 @@
 - **ID**: rss_https://openai.com/index/unify
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/unify](https://openai.com/index/unify)
+
+## 
+- **ID**: rss_https://openai.com/index/unive
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/unive](https://openai.com/index/unive)
 
 ## 
 - **ID**: rss_https://openai.com/index/universe

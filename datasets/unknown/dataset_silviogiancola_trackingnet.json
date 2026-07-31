@@ -9,7 +9,7 @@
   "private": false,
   "sha": "73fab8edc3a84ef7c35b3c4e68dca58e50627935",
   "description": "\n\t\n\t\t\n\t\tTrackingNet devkit\n\t\n\nThis repository contains the data of the paper TrackingNet: A Large-Scale Dataset and Benchmark for Object Tracking in the Wild.\n\n\t\n\t\t\n\t\tDownload from HuggingFace\n\t\n\n\n\t\n\t\t\n\t\tDownload splits\n\t\n\nfrom huggingface_hub import snapshot_download\n\n# Download TRAIN_0 split (90GB)\nsnapshot_download(repo_id=\"SilvioGiancola/TrackingNet\", \n                  repo_type=\"dataset\", revision=\"main\",\n                  local_dir=\"TrackingNet_HF\"… See the full description on the dataset page: https://huggingface.co/datasets/SilvioGiancola/TrackingNet.",
-  "downloads": 28749,
+  "downloads": 27491,
   "tags": [
     "license:gpl-3.0",
     "size_categories:10K<n<100K",
