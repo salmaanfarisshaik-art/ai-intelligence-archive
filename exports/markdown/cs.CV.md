@@ -1335,3 +1335,78 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27205v1](http://arxiv.org/abs/2607.27205v1)
 
+## RefCaptioner: Multi-Reference Image-Grounded Video Captioning
+- **ID**: arxiv_2607.28509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28509v1](http://arxiv.org/abs/2607.28509v1)
+
+## Beyond Frame Selection: Generative Latent Evidence Aggregation for Long-Video Understanding
+- **ID**: arxiv_2607.28516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28516v1](http://arxiv.org/abs/2607.28516v1)
+
+## What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration
+- **ID**: arxiv_2607.28526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28526v1](http://arxiv.org/abs/2607.28526v1)
+
+## MarkushGlyph and OCSRGlyph: Improved Chemical Structure Recognition
+- **ID**: arxiv_2607.28532v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28532v1](http://arxiv.org/abs/2607.28532v1)
+
+## ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs
+- **ID**: arxiv_2607.28538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28538v1](http://arxiv.org/abs/2607.28538v1)
+
+## MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion
+- **ID**: arxiv_2607.28565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28565v1](http://arxiv.org/abs/2607.28565v1)
+
+## Finding Change in Satellite Archives from Text: How to Combine Before-and-After Images Efficiently
+- **ID**: arxiv_2607.28571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28571v1](http://arxiv.org/abs/2607.28571v1)
+
+## ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation
+- **ID**: arxiv_2607.28581v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28581v1](http://arxiv.org/abs/2607.28581v1)
+
+## MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers
+- **ID**: arxiv_2607.28589v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28589v1](http://arxiv.org/abs/2607.28589v1)
+
+## VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation
+- **ID**: arxiv_2607.28590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28590v1](http://arxiv.org/abs/2607.28590v1)
+
+## Beacon: Knowing When and How to Perform Agentic Visual Reasoning
+- **ID**: arxiv_2607.28595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28595v1](http://arxiv.org/abs/2607.28595v1)
+
+## Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers
+- **ID**: arxiv_2607.28611v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28611v1](http://arxiv.org/abs/2607.28611v1)
+
+## PhiZero: A World Model Built Around Physical Language
+- **ID**: arxiv_2607.28624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28624v1](http://arxiv.org/abs/2607.28624v1)
+
+## ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine
+- **ID**: arxiv_2607.28625v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28625v1](http://arxiv.org/abs/2607.28625v1)
+
+## ReToken: One Token to Improve Vision-Language Models for Visual Retrieval
+- **ID**: arxiv_2607.28627v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28627v1](http://arxiv.org/abs/2607.28627v1)
+

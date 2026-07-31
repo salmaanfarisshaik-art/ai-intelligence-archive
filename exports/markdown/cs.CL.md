@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2402.18121v2](http://arxiv.org/abs/2402.18121v2)
 
+## LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints
+- **ID**: arxiv_2410.06458v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.06458v2](http://arxiv.org/abs/2410.06458v2)
+
 ## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
 - **ID**: arxiv_2503.07303v3
 - **Source**: ArXiv
@@ -755,8 +760,58 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27189v1](http://arxiv.org/abs/2607.27189v1)
 
+## APEX-Accounting
+- **ID**: arxiv_2607.27189v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27189v2](http://arxiv.org/abs/2607.27189v2)
+
 ## Mental World Modeling
 - **ID**: arxiv_2607.27201v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27201v1](http://arxiv.org/abs/2607.27201v1)
+
+## Beyond Sentiment: Structured Information Extraction from Financial News
+- **ID**: arxiv_2607.28496v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28496v1](http://arxiv.org/abs/2607.28496v1)
+
+## Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes
+- **ID**: arxiv_2607.28505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28505v1](http://arxiv.org/abs/2607.28505v1)
+
+## Creative Transformation in Literary Texts: Modelling Change Across Representational Levels
+- **ID**: arxiv_2607.28513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28513v1](http://arxiv.org/abs/2607.28513v1)
+
+## AI systems and the reproduction of (standard) language ideologies in World Englishes
+- **ID**: arxiv_2607.28528v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28528v1](http://arxiv.org/abs/2607.28528v1)
+
+## ORCA-bench: How Ready Are Language Model Agents for Oncall?
+- **ID**: arxiv_2607.28545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28545v1](http://arxiv.org/abs/2607.28545v1)
+
+## Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering
+- **ID**: arxiv_2607.28568v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28568v1](http://arxiv.org/abs/2607.28568v1)
+
+## Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B
+- **ID**: arxiv_2607.28576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28576v1](http://arxiv.org/abs/2607.28576v1)
+
+## Inducing language models to assert their own consciousness restores human beliefs and values
+- **ID**: arxiv_2607.28607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28607v1](http://arxiv.org/abs/2607.28607v1)
+
+## AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis
+- **ID**: arxiv_2607.28618v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28618v1](http://arxiv.org/abs/2607.28618v1)
 

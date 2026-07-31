@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.28627v1",
+  "schema_version": "1.0",
+  "name": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.28627v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.28627v1",
+    "updated": "2026-07-30T17:59:56Z",
+    "published": "2026-07-30T17:59:56Z",
+    "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+    "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken, a single learnable embedding trained as an explicit retrieval target that selects a sparse set of query-relevant visual tokens from a pre-filled visual KV cache. Trained on only a small image-QA dataset, ReToken yields consistent gains across image and video benchmarks: on Visual Haystacks it improves Qwen3VL-8B by 13.4 points and InternVL3.5 by 12.4 points (>20% relative), and on LVBench it transfers zero-shot to long video for an 8.0-point gain with Qwen3VL-8B. Thanks to its lightweight design, both training and long-video inference fit on a single H100. Code is available at: https://github.com/avaxiao/ReToken",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-31T06:11:57Z",
+  "last_updated": "2026-07-30T17:59:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.28627v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12291v2](http://arxiv.org/abs/2601.12291v2)
 
+## RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design
+- **ID**: arxiv_2603.01229v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.01229v3](http://arxiv.org/abs/2603.01229v3)
+
 ## Interaction-Aware Whole-Body Control for Compliant Object Transport
 - **ID**: arxiv_2603.03751v2
 - **Source**: ArXiv
@@ -159,4 +164,9 @@
 - **ID**: arxiv_2607.27138v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27138v1](http://arxiv.org/abs/2607.27138v1)
+
+## PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball
+- **ID**: arxiv_2607.28623v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28623v1](http://arxiv.org/abs/2607.28623v1)
 

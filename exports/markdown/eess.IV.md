@@ -1,5 +1,10 @@
 # Eess.Iv Export
 
+## BCNet: Bronchus Classification via Structure Guided Representation Learning
+- **ID**: arxiv_2205.06947v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2205.06947v3](http://arxiv.org/abs/2205.06947v3)
+
 ## Sequential Attention-based Sampling for Histopathological Analysis
 - **ID**: arxiv_2507.05077v5
 - **Source**: ArXiv

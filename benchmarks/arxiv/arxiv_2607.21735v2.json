@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21735v2",
+  "schema_version": "1.0",
+  "name": "What AI Red-Team Evaluations Can and Cannot Prove",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21735v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21735v2",
+    "updated": "2026-07-30T16:46:31Z",
+    "published": "2026-07-23T18:34:12Z",
+    "title": "What AI Red-Team Evaluations Can and Cannot Prove",
+    "summary": "Red-team evaluations of AI models support some claims and not others, and the boundary between the two is calculable rather than merely a matter of judgment. We define the evidential ceiling of an evaluation as the largest factor by which one result can move belief under a fixed testing budget, derive it in closed form for the benchmark null result, and use it to locate that boundary exactly. We find that above a calculable harm rate, a benchmark of modest size certifies a category to a stated evidentiary standard, and a clean sheet is then the stronger of the two possible observations, outweighing a single reproduced failure. Below that rate, no passive benchmark of feasible size provides the specified evidence of safety under the fixed scoring rule and approximately independent trial structure. The crossing between the two regimes has a closed form. The bound is not specific to benchmarks: written in terms of a procedure's hypothesis conditioned elicitation rates, it covers adaptive and automated red teaming as well, and shows that discrimination between the hypotheses rather than attack success is what determines evidential worth. Auditing eight evaluation suites against the boundary, we find that current benchmarks are adequate for high-frequency harm categories and several orders of magnitude short for rare, catastrophic ones. Safety benchmarks are not uninformative. They are informative about a specific and computable set of propositions, and the discipline they need is to state which.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-07-31T06:11:57Z",
+  "last_updated": "2026-07-30T16:46:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21735v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

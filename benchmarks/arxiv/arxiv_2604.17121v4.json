@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.17121v4",
+  "schema_version": "1.0",
+  "name": "The Topological Trouble With Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.17121v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.17121v4",
+    "updated": "2026-07-30T17:21:42Z",
+    "published": "2026-04-18T19:46:30Z",
+    "title": "The Topological Trouble With Transformers",
+    "summary": "Transformers encode structure in sequences via an expanding contextual history. However, their purely feedforward architecture fundamentally limits dynamic state tracking. State tracking -- the iterative updating of latent variables reflecting an evolving environment -- involves inherently sequential dependencies that feedforward networks struggle to maintain. Consequently, feedforward models push evolving state representations deeper into their layer stack with each new input step, rendering information inaccessible in shallow layers and ultimately exhausting the model's depth. While this depth limit can be bypassed by dynamic depth models and by explicit or latent thinking that externalizes state representations, these solutions are computationally and memory inefficient. In this article, we argue that temporally extended cognition requires refocusing from explicit thought traces to implicit activation dynamics via recurrent architectures. We introduce a taxonomy of recurrent and continuous-thought transformer architectures, categorizing them by their recurrence axis (depth versus step) and their ratio of input tokens to recurrence steps. Finally, we outline promising research directions, including enhanced state-space models and coarse-grained recurrence, to better integrate state tracking into modern foundation models.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-07-31T06:11:57Z",
+  "last_updated": "2026-07-30T17:21:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.17121v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

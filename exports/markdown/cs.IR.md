@@ -65,3 +65,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27172v1](http://arxiv.org/abs/2607.27172v1)
 
+## TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval
+- **ID**: arxiv_2607.28498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28498v1](http://arxiv.org/abs/2607.28498v1)
+

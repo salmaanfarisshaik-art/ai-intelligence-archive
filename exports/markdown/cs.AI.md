@@ -600,6 +600,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
 
+## What AI Red-Team Evaluations Can and Cannot Prove
+- **ID**: arxiv_2607.21735v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21735v2](http://arxiv.org/abs/2607.21735v2)
+
 ## Agentic Root Cause Analysis through Evidence-Grounded Reasoning
 - **ID**: arxiv_2607.22385v1
 - **Source**: ArXiv
@@ -634,6 +639,16 @@
 - **ID**: arxiv_2607.22525v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22525v1](http://arxiv.org/abs/2607.22525v1)
+
+## Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams
+- **ID**: arxiv_2607.22917v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22917v2](http://arxiv.org/abs/2607.22917v2)
+
+## CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion
+- **ID**: arxiv_2607.23159v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23159v2](http://arxiv.org/abs/2607.23159v2)
 
 ## Efficiency Matters in Autonomous Research
 - **ID**: arxiv_2607.24647v1
@@ -734,4 +749,39 @@
 - **ID**: arxiv_2607.27191v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27191v1](http://arxiv.org/abs/2607.27191v1)
+
+## InfoOps Bench: A live information operations safety benchmark
+- **ID**: arxiv_2607.28503v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28503v1](http://arxiv.org/abs/2607.28503v1)
+
+## Selective Credibility-Limited Belief Update
+- **ID**: arxiv_2607.28523v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28523v1](http://arxiv.org/abs/2607.28523v1)
+
+## MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems
+- **ID**: arxiv_2607.28527v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28527v1](http://arxiv.org/abs/2607.28527v1)
+
+## Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs
+- **ID**: arxiv_2607.28573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28573v1](http://arxiv.org/abs/2607.28573v1)
+
+## DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation
+- **ID**: arxiv_2607.28580v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28580v1](http://arxiv.org/abs/2607.28580v1)
+
+## OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
+- **ID**: arxiv_2607.28609v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28609v1](http://arxiv.org/abs/2607.28609v1)
+
+## AISPA: User-Centric System Prompt Auditing for Large Language Model Applications
+- **ID**: arxiv_2607.28617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28617v1](http://arxiv.org/abs/2607.28617v1)
 

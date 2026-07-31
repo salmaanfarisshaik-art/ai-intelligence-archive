@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.15010v2](http://arxiv.org/abs/2604.15010v2)
 
+## The Topological Trouble With Transformers
+- **ID**: arxiv_2604.17121v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.17121v4](http://arxiv.org/abs/2604.17121v4)
+
 ## Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
 - **ID**: arxiv_2604.18419v5
 - **Source**: ArXiv
@@ -479,4 +484,9 @@
 - **ID**: arxiv_2607.27143v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27143v1](http://arxiv.org/abs/2607.27143v1)
+
+## APO: Unsupervised Atomic Policy Optimization for 3D Structure Prediction of Atomic Systems
+- **ID**: arxiv_2607.28553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28553v1](http://arxiv.org/abs/2607.28553v1)
 

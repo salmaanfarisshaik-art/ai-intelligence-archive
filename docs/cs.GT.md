@@ -5,6 +5,8 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation](http://arxiv.org/abs/2607.28520v1) | ArXiv |  | 1 |
+| [Algorithms for Structured Elections under Thiele Voting Rules](http://arxiv.org/abs/2607.28575v1) | ArXiv |  | 1 |
 | [Participatory Budgeting with Project Groups](http://arxiv.org/abs/2012.05213v2) | ArXiv |  | 1 |
 | [Stable Menus of Public Goods: AI-Enabled Progress](http://arxiv.org/abs/2606.16989v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

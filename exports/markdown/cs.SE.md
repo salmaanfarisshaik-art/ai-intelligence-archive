@@ -90,3 +90,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27167v1](http://arxiv.org/abs/2607.27167v1)
 
+## PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks
+- **ID**: arxiv_2607.28587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28587v1](http://arxiv.org/abs/2607.28587v1)
+
+## Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments
+- **ID**: arxiv_2607.28591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28591v1](http://arxiv.org/abs/2607.28591v1)
+

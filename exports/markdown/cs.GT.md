@@ -10,3 +10,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.16989v1](http://arxiv.org/abs/2606.16989v1)
 
+## Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation
+- **ID**: arxiv_2607.28520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28520v1](http://arxiv.org/abs/2607.28520v1)
+
+## Algorithms for Structured Elections under Thiele Voting Rules
+- **ID**: arxiv_2607.28575v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28575v1](http://arxiv.org/abs/2607.28575v1)
+

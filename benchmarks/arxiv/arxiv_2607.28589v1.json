@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.28589v1",
+  "schema_version": "1.0",
+  "name": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.28589v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.28589v1",
+    "updated": "2026-07-30T17:43:36Z",
+    "published": "2026-07-30T17:43:36Z",
+    "title": "MixFrag: Fragility-Guided Mixed-Precision Post-Training Quantization for Vision Transformers",
+    "summary": "Post-training quantization (PTQ) has emerged as an effective solution for deploying Vision Transformers (ViTs) on resource-constrained devices. However, existing PTQ methods typically employ uniform bit-widths across transformer components, overlooking their heterogeneous sensitivity to quantization and leading to inefficient precision allocation. In this paper, we propose {MixFrag, a fragility-guided mixed-precision PTQ framework for Vision Transformers. MixFrag first estimates component-level quantization fragility by measuring the Kullback--Leibler (KL) divergence between full-precision and isolated quantized output distributions using a small calibration set. It then formulates bit allocation as a Multiple-Choice Knapsack Problem (MCKP), enabling adaptive layer-wise precision assignment under a target bit budget. Extensive experiments on ImageNet-1K across multiple Vision Transformer architectures demonstrate that MixFrag achieves competitive classification performance under practical mixed-precision settings. Furthermore, evaluations on COCO object detection and instance segmentation show that MixFrag achieves state-of-the-art performance among existing mixed-precision PTQ methods, improving the previous best method by up to 9.6 AP under the challenging MP3/MP3 setting. Additional analyses validate the proposed fragility metric and demonstrate its strong correlation with the learned bit allocation. These results establish MixFrag as an effective framework for mixed-precision post-training quantization of Vision Transformers.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-07-31T06:11:57Z",
+  "last_updated": "2026-07-30T17:43:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.28589v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

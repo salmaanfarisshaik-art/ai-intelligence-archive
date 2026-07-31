@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.01229v3",
+  "schema_version": "1.0",
+  "name": "RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.01229v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.01229v3",
+    "updated": "2026-07-30T17:55:22Z",
+    "published": "2026-03-01T18:59:59Z",
+    "title": "RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design",
+    "summary": "Robotic manipulation policies have made rapid progress in recent years, yet most existing approaches give limited consideration to memory capabilities. Consequently, they struggle to solve tasks that require reasoning over historical observations and maintaining task-relevant information over time, which are common requirements in real-world manipulation scenarios. Although several memory-aware policies have been proposed, systematic evaluation of memory-dependent manipulation remains underexplored, and the relationship between architectural design choices and memory performance is still not well understood. To address this gap, we introduce RMBench, a simulation benchmark comprising 9 manipulation tasks that span multiple levels of memory complexity, enabling systematic evaluation of policy memory capabilities. We further propose Mem-0, a modular manipulation policy with explicit memory components designed to support controlled ablation studies. Through extensive simulation and real-world experiments, we identify memory-related limitations in existing policies and provide empirical insights into how architectural design choices influence memory performance. The website is available at https://rmbench.github.io/.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-07-31T06:11:57Z",
+  "last_updated": "2026-07-30T17:55:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.01229v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

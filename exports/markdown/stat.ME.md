@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.17165v2](http://arxiv.org/abs/2606.17165v2)
 
+## Geometric mean-based pairwise comparison method with the reference values -- statistical approach
+- **ID**: arxiv_2607.10038v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.10038v2](http://arxiv.org/abs/2607.10038v2)
+

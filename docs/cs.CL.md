@@ -14,16 +14,20 @@
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
+| [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
 | [An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data](http://arxiv.org/abs/2503.07303v3) | ArXiv |  | 1 |
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) | ArXiv |  | 1 |
+| [APEX-Accounting](http://arxiv.org/abs/2607.27189v2) | ArXiv |  | 1 |
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](http://arxiv.org/abs/2607.21498v1) | ArXiv |  | 1 |
+| [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) | ArXiv |  | 1 |
 | [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](http://arxiv.org/abs/2505.23851v3) | ArXiv |  | 1 |
 | [AugAbEx: Bridging Abstractive and Extractive Legal Summarization](http://arxiv.org/abs/2511.12290v2) | ArXiv |  | 1 |
 | [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1) | ArXiv |  | 1 |
 | [Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems](http://arxiv.org/abs/2606.20487v1) | ArXiv |  | 1 |
+| [Beyond Sentiment: Structured Information Extraction from Financial News](http://arxiv.org/abs/2607.28496v1) | ArXiv |  | 1 |
 | [Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs](http://arxiv.org/abs/2605.21027v2) | ArXiv |  | 1 |
 | [Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA](http://arxiv.org/abs/2607.15241v1) | ArXiv |  | 1 |
 | [Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models](http://arxiv.org/abs/2606.13624v1) | ArXiv |  | 1 |
@@ -35,6 +39,7 @@
 | [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v1) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
+| [Creative Transformation in Literary Texts: Modelling Change Across Representational Levels](http://arxiv.org/abs/2607.28513v1) | ArXiv |  | 1 |
 | [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses](http://arxiv.org/abs/2606.18222v1) | ArXiv |  | 1 |
 | [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) | ArXiv |  | 1 |
 | [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents](http://arxiv.org/abs/2606.17029v1) | ArXiv |  | 1 |
@@ -55,6 +60,8 @@
 | [From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation](http://arxiv.org/abs/2606.13630v1) | ArXiv |  | 1 |
 | [Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning](http://arxiv.org/abs/2607.16057v1) | ArXiv |  | 1 |
 | [Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D](http://arxiv.org/abs/2607.16072v1) | ArXiv |  | 1 |
+| [Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering](http://arxiv.org/abs/2607.28568v1) | ArXiv |  | 1 |
+| [Generative AI and linguistic diversity in academic writing and publishing: Perspectives from World Englishes](http://arxiv.org/abs/2607.28505v1) | ArXiv |  | 1 |
 | [Generative AI floods and dilutes the market for books](http://arxiv.org/abs/2607.20349v1) | ArXiv |  | 1 |
 | [grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP](http://arxiv.org/abs/2607.22456v1) | ArXiv |  | 1 |
 | [GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons](http://arxiv.org/abs/2604.21133v2) | ArXiv |  | 1 |
@@ -67,6 +74,7 @@
 | [IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset](http://arxiv.org/abs/2606.16910v1) | ArXiv |  | 1 |
 | [Implicit vs. Explicit Prompting Strategies for LVLMs in Referential Communication](http://arxiv.org/abs/2606.17372v2) | ArXiv |  | 1 |
 | [In-Place Tokenizer Expansion for Pre-trained LLMs](http://arxiv.org/abs/2607.15232v1) | ArXiv |  | 1 |
+| [Inducing language models to assert their own consciousness restores human beliefs and values](http://arxiv.org/abs/2607.28607v1) | ArXiv |  | 1 |
 | [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1) | ArXiv |  | 1 |
 | [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
@@ -86,6 +94,7 @@
 | [Like a bilingual baby: The advantage of visually grounding a bilingual language model](http://arxiv.org/abs/2210.05487v3) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
 | [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
+| [LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints](http://arxiv.org/abs/2410.06458v2) | ArXiv |  | 1 |
 | [Localizing Persona Representations in LLMs](http://arxiv.org/abs/2505.24539v4) | ArXiv |  | 1 |
 | [Loop the Loopies!](http://arxiv.org/abs/2607.16051v1) | ArXiv |  | 1 |
 | [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](http://arxiv.org/abs/2607.24604v1) | ArXiv |  | 1 |
@@ -103,6 +112,7 @@
 | [One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](http://arxiv.org/abs/2606.13610v1) | ArXiv |  | 1 |
 | [Operadic consistency: a label-free signal for compositional reasoning failures in LLMs](http://arxiv.org/abs/2606.13649v1) | ArXiv |  | 1 |
 | [Operads for compositional reasoning in LLMs](http://arxiv.org/abs/2606.13634v1) | ArXiv |  | 1 |
+| [ORCA-bench: How Ready Are Language Model Agents for Oncall?](http://arxiv.org/abs/2607.28545v1) | ArXiv |  | 1 |
 | [Pangram 4 Technical Report](http://arxiv.org/abs/2607.27183v1) | ArXiv |  | 1 |
 | [Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models](http://arxiv.org/abs/2607.15277v1) | ArXiv |  | 1 |
 | [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) | ArXiv |  | 1 |
@@ -122,6 +132,7 @@
 | [Regression Language Models for Code](http://arxiv.org/abs/2509.26476v3) | ArXiv |  | 1 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) | ArXiv |  | 1 |
 | [RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills](http://arxiv.org/abs/2606.18203v1) | ArXiv |  | 1 |
+| [Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B](http://arxiv.org/abs/2607.28576v1) | ArXiv |  | 1 |
 | [Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian](http://arxiv.org/abs/2402.18121v2) | ArXiv |  | 1 |
 | [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) | ArXiv |  | 1 |
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) | ArXiv |  | 1 |
