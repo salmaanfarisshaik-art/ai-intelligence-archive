@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 67
+**Total Changes:** 66
 
 ## Added
 None
@@ -16,7 +16,8 @@ None
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- prompts/openai-blog/rss_https___openai.com_index_disrupting-malicious-uses-of-ai-criminal-scam-operation.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -43,19 +44,17 @@ None
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_634224458.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
