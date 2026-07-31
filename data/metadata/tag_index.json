@@ -1050,6 +1050,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro"
   ],
   "deploy:azure": [
+    "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -1065,10 +1066,14 @@
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-8B",
+    "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-V4-Flash",
+    "hf_distilbert_distilgpt2",
+    "hf_facebook_opt-125m",
     "hf_ibm-granite_granite-4.1-8b",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
+    "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",

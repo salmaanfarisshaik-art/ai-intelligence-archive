@@ -30,14 +30,15 @@
       "text-generation-inference",
       "endpoints_compatible",
       "region:us",
-      "deploy:sagemaker"
+      "deploy:sagemaker",
+      "deploy:azure"
     ],
     "pipeline_tag": "text-generation",
     "library_name": "transformers",
     "createdAt": "2023-12-30T06:27:30.000Z",
     "modelId": "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
   },
-  "retrieval_timestamp": "2026-07-31T11:58:45Z",
+  "retrieval_timestamp": "2026-07-31T14:22:36Z",
   "last_updated": "",
   "links": {
     "related_models": [],

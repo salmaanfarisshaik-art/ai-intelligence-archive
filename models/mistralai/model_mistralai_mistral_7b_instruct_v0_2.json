@@ -1,7 +1,7 @@
 {
   "_id": "65770c3426ef61bbf101d4da",
   "id": "mistralai/Mistral-7B-Instruct-v0.2",
-  "likes": 3194,
+  "likes": 3193,
   "private": false,
   "downloads": 1259845,
   "tags": [
@@ -17,7 +17,8 @@
     "license:apache-2.0",
     "eval-results",
     "text-generation-inference",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

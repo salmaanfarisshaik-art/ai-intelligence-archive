@@ -185,7 +185,7 @@
 - **ID**: hf_EleutherAI_pythia-160m
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/EleutherAI/pythia-160m](https://huggingface.co/EleutherAI/pythia-160m)
-- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/pile, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/pile, deploy:azure, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## EleutherAI/pythia-160m-deduped
 - **ID**: hf_EleutherAI_pythia-160m-deduped
@@ -1823,7 +1823,7 @@
 - **ID**: hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
-- **Tags**: conversational, dataset:HuggingFaceH4/ultrachat_200k, dataset:HuggingFaceH4/ultrafeedback_binarized, dataset:bigcode/starcoderdata, dataset:cerebras/SlimPajama-627B, deploy:sagemaker, en, endpoints_compatible, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: conversational, dataset:HuggingFaceH4/ultrachat_200k, dataset:HuggingFaceH4/ultrafeedback_binarized, dataset:bigcode/starcoderdata, dataset:cerebras/SlimPajama-627B, deploy:azure, deploy:sagemaker, en, endpoints_compatible, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## TinyLlama/TinyLlama-1.1B-intermediate-step-1431k-3T
 - **ID**: hf_TinyLlama_TinyLlama-1.1B-intermediate-step-1431k-3T
@@ -2537,7 +2537,7 @@
 - **ID**: hf_distilbert_distilgpt2
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/distilbert/distilgpt2](https://huggingface.co/distilbert/distilgpt2)
-- **Tags**: arxiv:1503.02531, arxiv:1910.01108, arxiv:1910.09700, arxiv:2201.08542, arxiv:2203.12574, co2_eq_emissions, coreml, dataset:openwebtext, en, endpoints_compatible, exbert, gpt2, jax, license:apache-2.0, model-index, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
+- **Tags**: arxiv:1503.02531, arxiv:1910.01108, arxiv:1910.09700, arxiv:2201.08542, arxiv:2203.12574, co2_eq_emissions, coreml, dataset:openwebtext, deploy:azure, en, endpoints_compatible, exbert, gpt2, jax, license:apache-2.0, model-index, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
 
 ## douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF
 - **ID**: hf_douyamv_Gemma-4-31B-JANG_4M-CRACK-GGUF
@@ -2579,7 +2579,7 @@
 - **ID**: hf_facebook_opt-125m
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/facebook/opt-125m](https://huggingface.co/facebook/opt-125m)
-- **Tags**: arxiv:2005.14165, arxiv:2205.01068, en, jax, license:other, opt, pytorch, region:us, text-generation, text-generation-inference, tf, transformers
+- **Tags**: arxiv:2005.14165, arxiv:2205.01068, deploy:azure, en, jax, license:other, opt, pytorch, region:us, text-generation, text-generation-inference, tf, transformers
 
 ## facebook/opt-2.7b
 - **ID**: hf_facebook_opt-2.7b
@@ -4007,7 +4007,7 @@
 - **ID**: hf_openai-community_gpt2
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/openai-community/gpt2](https://huggingface.co/openai-community/gpt2)
-- **Tags**: doi:10.57967/hf/0039, en, endpoints_compatible, exbert, gpt2, jax, license:mit, onnx, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
+- **Tags**: deploy:azure, doi:10.57967/hf/0039, en, endpoints_compatible, exbert, gpt2, jax, license:mit, onnx, pytorch, region:us, rust, safetensors, text-generation, text-generation-inference, tf, tflite, transformers
 
 ## openai-community/gpt2-large
 - **ID**: hf_openai-community_gpt2-large

@@ -15,7 +15,8 @@
     "llama-2",
     "en",
     "text-generation-inference",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
