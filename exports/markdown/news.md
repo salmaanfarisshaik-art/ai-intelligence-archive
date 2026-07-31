@@ -756,6 +756,11 @@
 - **URL**: [https://openai.com/index/autoscout24](https://openai.com/index/autoscout24)
 
 ## 
+- **ID**: rss_https://openai.com/index/avatarin
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/avatarin](https://openai.com/index/avatarin)
+
+## 
 - **ID**: rss_https://openai.com/index/aws-and-openai-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/aws-and-openai-partnership](https://openai.com/index/aws-and-openai-partnership)
