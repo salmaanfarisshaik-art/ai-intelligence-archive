@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ef02effac13bfbd0991612f444cebcef8a882453",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tOpenAlex Snapshot\n\t\n\nMirror of the OpenAlex scholarly metadata snapshot — a free, open catalogue of 250M+ scholarly works, 100M+ authors, and related entities.\nHosted on HuggingFace via Xet for content-addressable deduplication.\nSource: s3://openalex (public, anonymous S3 bucket)\n\n\t\n\t\t\n\t\n\t\n\t\tDataset subsets\n\t\n\nEach entity type is a separate subset (config). For each entity, there is:\n\nOne __source subset containing the raw .jsonl.gz source files\nOne subset per extracted… See the full description on the dataset page: https://huggingface.co/datasets/Mearman/OpenAlex.",
-  "downloads": 137822,
+  "downloads": 138720,
   "tags": [
     "task_categories:tabular-classification",
     "task_categories:feature-extraction",

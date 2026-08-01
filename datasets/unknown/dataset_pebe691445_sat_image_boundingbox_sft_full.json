@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e4556d8a71777b9e5c6beea6769ff0778ca00a8e",
   "description": "\n\t\n\t\t\n\t\tNU-TONIC raw SFT Full\n\t\n\nSatellite imagery and aligned land-cover outputs packaged as image–text rows for fine-tuning in SFT format. JSONL user prompts name the modality (satellite imagery vs. overhead context) where it matters.\n\n\t\n\t\t\n\t\tProvenance\n\t\n\n\nLocations: GeoGuessr-style POIs (source: stochastic/random_streetview_images_pano_v0.0.2)\nOptical: Sentinel-2 multispectral optical COGs from a public STAC catalog, blue/green/red or visual preview, percentile-stretched to uint8.\nLabels:… See the full description on the dataset page: https://huggingface.co/datasets/PEBE691445/sat-image-boundingbox-sft-full.",
-  "downloads": 99922,
+  "downloads": 97617,
   "tags": [
     "task_categories:image-text-to-text",
     "language:en",

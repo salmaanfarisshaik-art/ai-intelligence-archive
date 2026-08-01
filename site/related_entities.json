@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T07:27:54Z",
+  "generated_at": "2026-08-01T09:58:14Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -998,6 +998,7 @@
       "model_prism_ml_bonsai_27b_gguf",
       "model_prism_ml_bonsai_27b_mlx_1bit",
       "model_prism_ml_ternary_bonsai_27b_gguf",
+      "model_prism_ml_ternary_bonsai_27b_mlx_2bit",
       "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp"
     ],
     "hf_Qwen_Qwen3.6-35B-A3B": [
@@ -1553,6 +1554,7 @@
     ],
     "hf_farbodtavakkoli_OTel-LLM": [
       "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
+      "model_farbodtavakkoli_otel_llm_27b_it",
       "model_farbodtavakkoli_otel_llm_8b_a1b_it",
       "model_farbodtavakkoli_otel_llm_e4b_it"
     ],
@@ -1630,6 +1632,7 @@
       "model_unsloth_gemma_3_270m_it_gguf"
     ],
     "hf_google_gemma-3-27b-it": [
+      "model_farbodtavakkoli_otel_llm_27b_it",
       "model_maziyarpanahi_gemma_3_27b_it_gguf"
     ],
     "hf_google_gemma-3-27b-pt": [
@@ -2667,7 +2670,8 @@
     ],
     "hf_zai-org_GLM-4.5-Air": [
       "model_cyankiwi_glm_4_5_air_awq_4bit",
-      "model_unsloth_glm_4_5_air"
+      "model_unsloth_glm_4_5_air",
+      "model_unsloth_glm_4_5_air_gguf"
     ],
     "hf_zai-org_GLM-4.6V-Flash": [
       "model_maziyarpanahi_glm_4_6v_flash_gguf"
@@ -3390,6 +3394,10 @@
     ],
     "model_farbodtavakkoli_otel_llm_270m_it": [
       "hf_google_gemma-3-270m-it"
+    ],
+    "model_farbodtavakkoli_otel_llm_27b_it": [
+      "hf_farbodtavakkoli_OTel-LLM",
+      "hf_google_gemma-3-27b-it"
     ],
     "model_farbodtavakkoli_otel_llm_8_3b_it": [
       "hf_EssentialAI_rnj-1-instruct"
@@ -4734,6 +4742,9 @@
     "model_prism_ml_ternary_bonsai_27b_gguf": [
       "hf_Qwen_Qwen3.6-27B"
     ],
+    "model_prism_ml_ternary_bonsai_27b_mlx_2bit": [
+      "hf_Qwen_Qwen3.6-27B"
+    ],
     "model_prism_ml_ternary_bonsai_8b_gguf": [
       "hf_prism-ml_Ternary-Bonsai-8B-unpacked"
     ],
@@ -5472,6 +5483,9 @@
       "hf_google_gemma-3-270m-it"
     ],
     "model_unsloth_glm_4_5_air": [
+      "hf_zai-org_GLM-4.5-Air"
+    ],
+    "model_unsloth_glm_4_5_air_gguf": [
       "hf_zai-org_GLM-4.5-Air"
     ],
     "model_unsloth_glm_4_7_flash": [

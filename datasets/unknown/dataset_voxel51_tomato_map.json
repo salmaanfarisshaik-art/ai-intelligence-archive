@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c978c56cfc6d1bd35d0b34709f9b14cfc85b165f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for TomatoMAP\n\t\n\n\nThis is a FiftyOne dataset with 68,069 samples.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nfrom fiftyone.utils.huggingface import load_from_hub\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = load_from_hub(\"Voxel51/tomato-map\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Details… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/tomato-map.",
-  "downloads": 26319,
+  "downloads": 26793,
   "tags": [
     "task_categories:object-detection",
     "task_categories:image-classification",

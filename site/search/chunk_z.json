@@ -299,6 +299,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_unsloth_glm_4_5_air_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_unsloth_glm_4_7_flash",
       "match_type": "exact",
       "score": 3.0
@@ -883,6 +888,13 @@
     },
     {
       "entity_id": "alpaca_1156526378564094331",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zeio": [
+    {
+      "entity_id": "dataset_zeio_mediach",
       "match_type": "exact",
       "score": 1.0
     }
@@ -2332,6 +2344,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_unsloth_glm_4_5_air_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_glm_4_7_flash",
       "match_type": "exact",
       "score": 1.5
@@ -2784,6 +2801,13 @@
   "zhuang": [
     {
       "entity_id": "dataset_lhmd_re10k_torch",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zhuangyunxia": [
+    {
+      "entity_id": "dataset_zhuangyunxia_motiondecode",
       "match_type": "exact",
       "score": 1.0
     }

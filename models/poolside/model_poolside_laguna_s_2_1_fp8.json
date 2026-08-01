@@ -3,7 +3,7 @@
   "id": "poolside/Laguna-S-2.1-FP8",
   "likes": 24,
   "private": false,
-  "downloads": 45018,
+  "downloads": 45359,
   "tags": [
     "vllm",
     "safetensors",
@@ -15,7 +15,7 @@
     "base_model:poolside/Laguna-S-2.1",
     "base_model:quantized:poolside/Laguna-S-2.1",
     "license:openmdw-1.1",
-    "compressed-tensors",
+    "fp8",
     "region:us"
   ],
   "pipeline_tag": "text-generation",

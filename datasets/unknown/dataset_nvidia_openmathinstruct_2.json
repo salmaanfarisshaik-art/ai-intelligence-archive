@@ -9,7 +9,7 @@
   "private": false,
   "sha": "469216e3f46f4dacf476b382e192485ea51a143e",
   "description": "\n\t\n\t\t\n\t\tOpenMathInstruct-2\n\t\n\nOpenMathInstruct-2 is a math instruction tuning dataset with 14M problem-solution pairs \ngenerated using the Llama3.1-405B-Instruct model.\nThe training set problems of GSM8K\nand MATH are used for constructing the dataset in the following ways: \n\nSolution augmentation: Generating chain-of-thought solutions for training set problems in GSM8K and MATH. \nProblem-Solution augmentation: Generating new problems, followed by solutions for these new problems.… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/OpenMathInstruct-2.",
-  "downloads": 115922,
+  "downloads": 112340,
   "tags": [
     "task_categories:question-answering",
     "task_categories:text-generation",
