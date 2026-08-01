@@ -62688,6 +62688,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_complexdatalab_openfake",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_cornell_movie_review_data_rotten_tomatoes",
       "match_type": "exact",
       "score": 2.0
@@ -78069,11 +78074,6 @@
     },
     {
       "entity_id": "dataset_cognitive_lab_nayanaocr_corpus_2025",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_complexdatalab_openfake",
       "match_type": "exact",
       "score": 1.0
     },
@@ -94905,11 +94905,6 @@
     },
     {
       "entity_id": "dataset_bitrobot_hiw_500",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "dataset_complexdatalab_openfake",
       "match_type": "exact",
       "score": 3.0
     },
@@ -114155,6 +114150,11 @@
     },
     {
       "entity_id": "dataset_commoncrawl_gneissweb_annotation_url_testing_v1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_complexdatalab_openfake",
       "match_type": "exact",
       "score": 1.0
     },
@@ -137159,11 +137159,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_complexdatalab_openfake",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_diffusers_community_pipelines_mirror",
       "match_type": "exact",
       "score": 1.0
@@ -141204,14 +141199,14 @@
   ],
   "openfake": [
     {
-      "entity_id": "dataset_complexdatalab_openfake",
+      "entity_id": "hf_ds_ComplexDataLab_OpenFake",
       "match_type": "exact",
       "score": 3.0
     },
     {
-      "entity_id": "hf_ds_ComplexDataLab_OpenFake",
+      "entity_id": "dataset_complexdatalab_openfake",
       "match_type": "exact",
-      "score": 3.0
+      "score": 2.0
     }
   ],
   "openfly": [
