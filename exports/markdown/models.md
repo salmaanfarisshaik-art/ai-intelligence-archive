@@ -1132,6 +1132,10 @@
 - **ID**: model_farbodtavakkoli_otel_llm_270m_it
 - **Source**: 
 
+## farbodtavakkoli/OTel-LLM-27B-IT
+- **ID**: model_farbodtavakkoli_otel_llm_27b_it
+- **Source**: 
+
 ## farbodtavakkoli/OTel-LLM-8.3B-IT
 - **ID**: model_farbodtavakkoli_otel_llm_8_3b_it
 - **Source**: 
@@ -3396,6 +3400,10 @@
 - **ID**: model_prism_ml_ternary_bonsai_27b_gguf
 - **Source**: 
 
+## prism-ml/Ternary-Bonsai-27B-mlx-2bit
+- **ID**: model_prism_ml_ternary_bonsai_27b_mlx_2bit
+- **Source**: 
+
 ## prism-ml/Ternary-Bonsai-8B-gguf
 - **ID**: model_prism_ml_ternary_bonsai_8b_gguf
 - **Source**: 
@@ -4834,6 +4842,10 @@
 
 ## unsloth/GLM-4.5-Air
 - **ID**: model_unsloth_glm_4_5_air
+- **Source**: 
+
+## unsloth/GLM-4.5-Air-GGUF
+- **ID**: model_unsloth_glm_4_5_air_gguf
 - **Source**: 
 
 ## unsloth/GLM-4.7-Flash
