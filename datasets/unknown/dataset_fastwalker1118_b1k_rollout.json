@@ -4,10 +4,10 @@
   "author": "fastwalker1118",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-01T17:03:29.000Z",
+  "lastModified": "2026-08-01T20:04:57.000Z",
   "likes": 1,
   "private": false,
-  "sha": "8378ffa76c9348cb4b66ae28731e834326ae624a",
+  "sha": "322e0297e471653ee960cddd5b223747e138e5c4",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tB1k_rollout — Pi0.5 policy rollouts on BEHAVIOR-1K (2025 challenge)\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t⚠️ RULE: never roll out B1K official test instances (test-set contamination)\n\t\n\nEach task's metadata/test_instances.csv row = official public-test ids (dense idx 0–19) FOLLOWED BY our generated ids (the contiguous 501+/701+ block, dense idx ≥20).\nThe first entries (dense idx 0–19) are B1K's official evaluation instances — rolling them out and training on them is test-set contamination. Only ever roll… See the full description on the dataset page: https://huggingface.co/datasets/fastwalker1118/B1k_rollout.",
   "downloads": 33272,
   "tags": [
