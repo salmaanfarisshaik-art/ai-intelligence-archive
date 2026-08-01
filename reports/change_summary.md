@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 70
 
 ## Added
 None
@@ -11,14 +11,14 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/anisoleai/hf_ds_6a153f136ea5882878c26693.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -68,6 +68,7 @@ None
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
+- tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
