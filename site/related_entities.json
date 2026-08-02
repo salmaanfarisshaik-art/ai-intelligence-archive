@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:57:41Z",
+  "generated_at": "2026-08-02T08:25:31Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -513,6 +513,9 @@
       "model_qwen_qwen2_1_5b_instruct_awq",
       "model_qwen_qwen2_1_5b_instruct_gptq_int4"
     ],
+    "hf_Qwen_Qwen2-57B-A14B-Instruct": [
+      "model_qwen_qwen2_57b_a14b_instruct_gptq_int4"
+    ],
     "hf_Qwen_Qwen2-72B": [
       "model_qwen_qwen2_72b_instruct"
     ],
@@ -726,6 +729,7 @@
       "hf_Qwen_Qwen3-1.7B-Base",
       "model_maziyarpanahi_qwen3_1_7b_gguf",
       "model_qwen_qwen3_1_7b_fp8",
+      "model_qwen_qwen3_1_7b_gguf",
       "model_qwen_qwen3_1_7b_gptq_int8",
       "model_tobil_qmd_query_expansion_1_7b_gguf",
       "model_unsloth_qwen3_1_7b_gguf",
@@ -903,6 +907,7 @@
     ],
     "hf_Qwen_Qwen3-Coder-Next": [
       "hf_unsloth_Qwen3-Coder-Next-GGUF",
+      "model_bartowski_qwen_qwen3_coder_next_gguf",
       "model_bullpoint_qwen3_coder_next_awq_4bit",
       "model_cyankiwi_qwen3_coder_next_awq_4bit",
       "model_cyankiwi_qwen3_coder_next_awq_8bit",
@@ -1683,6 +1688,9 @@
     "hf_google_medgemma-27b-text-it": [
       "model_unsloth_medgemma_27b_text_it_bnb_4bit"
     ],
+    "hf_google_translategemma-12b-it": [
+      "model_chbae624_vllm_translategemma_12b_it"
+    ],
     "hf_graph-based-captions_GBC10M": [
       "model_kblueleaf_tipo_500m",
       "model_kblueleaf_tipo_500m_ft"
@@ -1822,6 +1830,7 @@
     ],
     "hf_meta-llama_Llama-3.1-70B-Instruct": [
       "model_maziyarpanahi_meta_llama_3_1_70b_instruct_gguf",
+      "model_nvidia_llama_3_1_70b_instruct_fp8",
       "model_nvidia_llama_3_1_nemotron_70b_instruct_hf",
       "model_redhatai_meta_llama_3_1_70b_instruct_fp8",
       "model_redhatai_meta_llama_3_1_70b_instruct_quantized_w4a16"
@@ -2632,6 +2641,9 @@
     "hf_utter-project_EuroLLM-22B-2512": [
       "model_utter_project_eurollm_22b_instruct_2512"
     ],
+    "hf_utter-project_EuroLLM-9B": [
+      "model_utter_project_eurollm_9b_instruct"
+    ],
     "hf_utter-project_EuroLLM-9B-2512": [
       "model_utter_project_eurollm_9b_instruct_2512"
     ],
@@ -3005,6 +3017,9 @@
     "model_bartowski_qwen_qwen3_0_6b_gguf": [
       "hf_Qwen_Qwen3-0.6B"
     ],
+    "model_bartowski_qwen_qwen3_coder_next_gguf": [
+      "hf_Qwen_Qwen3-Coder-Next"
+    ],
     "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf": [
       "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"
     ],
@@ -3118,6 +3133,9 @@
     ],
     "model_chantalpellegrini_radialog_interactive_radiology_report_generation": [
       "hf_mimic-cxr"
+    ],
+    "model_chbae624_vllm_translategemma_12b_it": [
+      "hf_google_translategemma-12b-it"
     ],
     "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf": [
       "hf_nvidia_Qwen3.6-27B-NVFP4"
@@ -4394,6 +4412,9 @@
     "model_nvidia_kimi_k2_thinking_nvfp4": [
       "hf_moonshotai_Kimi-K2-Thinking"
     ],
+    "model_nvidia_llama_3_1_70b_instruct_fp8": [
+      "hf_meta-llama_Llama-3.1-70B-Instruct"
+    ],
     "model_nvidia_llama_3_1_8b_instruct_fp8": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
@@ -4797,6 +4818,9 @@
     "model_qwen_qwen2_1_5b_instruct_gptq_int4": [
       "hf_Qwen_Qwen2-1.5B-Instruct"
     ],
+    "model_qwen_qwen2_57b_a14b_instruct_gptq_int4": [
+      "hf_Qwen_Qwen2-57B-A14B-Instruct"
+    ],
     "model_qwen_qwen2_5_0_5b_instruct": [
       "hf_Qwen_Qwen2.5-0.5B"
     ],
@@ -4996,6 +5020,9 @@
       "hf_Qwen_Qwen3-1.7B-Base"
     ],
     "model_qwen_qwen3_1_7b_fp8": [
+      "hf_Qwen_Qwen3-1.7B"
+    ],
+    "model_qwen_qwen3_1_7b_gguf": [
       "hf_Qwen_Qwen3-1.7B"
     ],
     "model_qwen_qwen3_1_7b_gptq_int8": [
@@ -5748,6 +5775,9 @@
     ],
     "model_utter_project_eurollm_22b_instruct_2512": [
       "hf_utter-project_EuroLLM-22B-2512"
+    ],
+    "model_utter_project_eurollm_9b_instruct": [
+      "hf_utter-project_EuroLLM-9B"
     ],
     "model_utter_project_eurollm_9b_instruct_2512": [
       "hf_utter-project_EuroLLM-9B-2512"

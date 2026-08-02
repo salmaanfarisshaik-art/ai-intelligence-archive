@@ -129166,6 +129166,13 @@
       "score": 1.0
     }
   ],
+  "onerec": [
+    {
+      "entity_id": "model_openonerec_onerec_1_7b",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "ones": [
     {
       "entity_id": "alpaca_2229358192072008270",
@@ -141759,6 +141766,11 @@
   "openonerec": [
     {
       "entity_id": "model_openonerec_onereason_0_8b_pretrain_competition",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_openonerec_onerec_1_7b",
       "match_type": "exact",
       "score": 2.0
     },

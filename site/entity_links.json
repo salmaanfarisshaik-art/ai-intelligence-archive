@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T05:57:41Z",
+  "generated_at": "2026-08-02T08:25:31Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -787,6 +787,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_qwen_qwen3_coder_next_gguf",
+      "target_id": "hf_Qwen_Qwen3-Coder-Next",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen3-Next-80B-A3B-Instruct",
       "type": "derived_from"
@@ -1055,6 +1060,11 @@
       "source_id": "model_chantalpellegrini_radialog_interactive_radiology_report_generation",
       "target_id": "hf_mimic-cxr",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_chbae624_vllm_translategemma_12b_it",
+      "target_id": "hf_google_translategemma-12b-it",
+      "type": "derived_from"
     },
     {
       "source_id": "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf",
@@ -3882,6 +3892,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_llama_3_1_70b_instruct_fp8",
+      "target_id": "hf_meta-llama_Llama-3.1-70B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_llama_3_1_8b_instruct_fp8",
       "target_id": "hf_meta-llama_Llama-3.1-8B-Instruct",
       "type": "derived_from"
@@ -5037,6 +5052,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_qwen_qwen2_57b_a14b_instruct_gptq_int4",
+      "target_id": "hf_Qwen_Qwen2-57B-A14B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_qwen_qwen2_5_0_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-0.5B",
       "type": "derived_from"
@@ -5368,6 +5388,11 @@
     },
     {
       "source_id": "model_qwen_qwen3_1_7b_fp8",
+      "target_id": "hf_Qwen_Qwen3-1.7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_qwen_qwen3_1_7b_gguf",
       "target_id": "hf_Qwen_Qwen3-1.7B",
       "type": "derived_from"
     },
@@ -6884,6 +6909,11 @@
     {
       "source_id": "model_utter_project_eurollm_22b_instruct_2512",
       "target_id": "hf_utter-project_EuroLLM-22B-2512",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_utter_project_eurollm_9b_instruct",
+      "target_id": "hf_utter-project_EuroLLM-9B",
       "type": "derived_from"
     },
     {
