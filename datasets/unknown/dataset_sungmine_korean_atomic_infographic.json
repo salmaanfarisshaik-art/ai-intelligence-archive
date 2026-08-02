@@ -1,0 +1,23 @@
+{
+  "_id": "6a5f0ac9ad0b6e7faeaaea7b",
+  "id": "sungmine/korean_atomic_infographic",
+  "author": "sungmine",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-24T00:54:47.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "cdf1f54eb6491dbf337375fca69cd1d103b9627e",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tIdeogram 4 LoRA dataset\n\t\n\nThis directory is generated from weekend_training/manifest.jsonl without\nmodifying the original Qwen-Image data.\nOutput paths match the Hugging Face layout in\nsungmine/korean_atomic_infographic. In particular, atomic_text_new images\nare addressed through its complete 10,000-image range folders:\n000001-010000, 010001-020000, and 020001-030000. The incomplete legacy\nflat folder is not referenced.\nEach DiffSynth metadata row has two fields:… See the full description on the dataset page: https://huggingface.co/datasets/sungmine/korean_atomic_infographic.",
+  "downloads": 41012,
+  "tags": [
+    "size_categories:1K<n<10K",
+    "modality:image",
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2026-07-21T05:59:37.000Z",
+  "key": "",
+  "unique_id": "dataset_sungmine_korean_atomic_infographic",
+  "schema_version": "1.0"
+}

@@ -391,6 +391,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16",
       "match_type": "exact",
       "score": 1.5
@@ -3239,6 +3244,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nebius_swe_rebench_v2",
       "match_type": "exact",
       "score": 1.0
@@ -3581,6 +3591,11 @@
     },
     {
       "entity_id": "alpaca_7698891885249846221",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -4715,6 +4730,13 @@
       "score": 1.0
     }
   ],
+  "jesbu1": [
+    {
+      "entity_id": "dataset_jesbu1_bridge_v2_lerobot",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jescy525": [
     {
       "entity_id": "hf_ds_jescy525_crypto-multi-exchange",
@@ -5140,6 +5162,13 @@
   "jiao": [
     {
       "entity_id": "dataset_mint_sjtu_rw_rl_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jiaxin": [
+    {
+      "entity_id": "dataset_zdbfv_m3_vos",
       "match_type": "exact",
       "score": 1.0
     }
@@ -14582,6 +14611,11 @@
   ],
   "json": [
     {
+      "entity_id": "dataset_racktic_alchemy_eval_logs",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "dataset_joysw909_avqa",
       "match_type": "exact",
       "score": 3.5
@@ -15167,6 +15201,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_jesbu1_bridge_v2_lerobot",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_jeyasuryaur_cricket_data_by_cricsheet",
       "match_type": "exact",
       "score": 1.0
@@ -15304,6 +15343,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_multitalk_multitalkft",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_adhyanshverma_open_github_major_repos",
       "match_type": "exact",
       "score": 1.5
@@ -15344,7 +15388,17 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_racktic_alchemy_eval_logs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_sharegpt4video_sharegpt4video",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_sungmine_korean_atomic_infographic",
       "match_type": "exact",
       "score": 1.0
     },

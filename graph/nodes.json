@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:24:31.898306+00:00",
+  "generated_at": "2026-08-02T10:40:11.445251+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -119790,6 +119790,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a18ded575c463d5aecfcf4d",
+      "label": "picbreeder-vlm/picbreeder-vlm-archive"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a1901f9165364c3c9f8e5fe",
       "label": "quejing/20000-meishi-pdf"
     },
@@ -119812,6 +119817,11 @@
       "category": "dataset",
       "id": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "label": "k9cli/video-vec2wav2-tokenizer"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a517a8032bfea14be5a68aa",
+      "label": "fujinchu/imgbed"
     },
     {
       "category": "dataset",
@@ -124850,6 +124860,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
+      "label": "farbodtavakkoli/OTel-2.0-LLM-31B-IT"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_farbodtavakkoli_OTel-LLM-0.6B-IT",
       "label": "farbodtavakkoli/OTel-LLM-0.6B-IT"
     },
@@ -127880,6 +127895,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_qwen_qwen3_coder_next_gguf",
+      "label": "bartowski/Qwen_Qwen3-Coder-Next-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf",
       "label": "bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF"
     },
@@ -128097,6 +128117,11 @@
       "category": "models",
       "id": "model_chantalpellegrini_radialog_interactive_radiology_report_generation",
       "label": "ChantalPellegrini/RaDialog-interactive-radiology-report-generation"
+    },
+    {
+      "category": "models",
+      "id": "model_chbae624_vllm_translategemma_12b_it",
+      "label": "chbae624/vllm-translategemma-12b-it"
     },
     {
       "category": "models",
@@ -131020,6 +131045,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_llama_3_1_70b_instruct_fp8",
+      "label": "nvidia/Llama-3.1-70B-Instruct-FP8"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_llama_3_1_8b_instruct_fp8",
       "label": "nvidia/Llama-3.1-8B-Instruct-FP8"
     },
@@ -131385,6 +131415,11 @@
     },
     {
       "category": "models",
+      "id": "model_openonerec_onerec_1_7b",
+      "label": "OpenOneRec/OneRec-1.7B"
+    },
+    {
+      "category": "models",
       "id": "model_openpipe_qwen3_14b_instruct",
       "label": "OpenPipe/Qwen3-14B-Instruct"
     },
@@ -131747,6 +131782,11 @@
       "category": "models",
       "id": "model_qwen_qwen2_1_5b_instruct_gptq_int4",
       "label": "Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4"
+    },
+    {
+      "category": "models",
+      "id": "model_qwen_qwen2_57b_a14b_instruct_gptq_int4",
+      "label": "Qwen/Qwen2-57B-A14B-Instruct-GPTQ-Int4"
     },
     {
       "category": "models",
@@ -132137,6 +132177,11 @@
       "category": "models",
       "id": "model_qwen_qwen3_1_7b_fp8",
       "label": "Qwen/Qwen3-1.7B-FP8"
+    },
+    {
+      "category": "models",
+      "id": "model_qwen_qwen3_1_7b_gguf",
+      "label": "Qwen/Qwen3-1.7B-GGUF"
     },
     {
       "category": "models",
@@ -133827,6 +133872,11 @@
       "category": "models",
       "id": "model_utter_project_eurollm_22b_instruct_2512",
       "label": "utter-project/EuroLLM-22B-Instruct-2512"
+    },
+    {
+      "category": "models",
+      "id": "model_utter_project_eurollm_9b_instruct",
+      "label": "utter-project/EuroLLM-9B-Instruct"
     },
     {
       "category": "models",
@@ -430870,5 +430920,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 86173
+  "total_nodes": 86183
 }

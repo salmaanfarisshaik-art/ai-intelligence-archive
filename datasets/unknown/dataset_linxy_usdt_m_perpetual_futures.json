@@ -9,7 +9,7 @@
   "private": false,
   "sha": "69ae9208fb762758b279e449684638c9e7bbd0c9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUSDT-M Perpetual Futures (Binance)\n\t\n\nBinance USDT-margined perpetual futures historical data, including OHLCV klines,\nmark / index / premium-index prices, open-interest & long/short ratios, and funding rates.\nAuto-updated daily from the official Binance public data mirror.\n币安 U 本位永续合约 历史数据集，包含 K 线、标记价格、指数价格、溢价指数、持仓量及多空比、资金费率，\n每日从 Binance 官方数据镜像自动更新。\nLast updated on 2026-07-21 12:52:03 UTC\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nData is stored as Parquet in per-symbol subdirectories.\nimport pandas as… See the full description on the dataset page: https://huggingface.co/datasets/linxy/USDT-M_Perpetual_Futures.",
-  "downloads": 38045,
+  "downloads": 44122,
   "tags": [
     "task_categories:time-series-forecasting",
     "language:en",

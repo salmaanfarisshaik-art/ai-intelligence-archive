@@ -5776,6 +5776,48 @@
     "local_path": "models/facebook/hf_facebook_xglm-564M.json"
   },
   {
+    "id": "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
+    "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "amd",
+      "at-t",
+      "base_model:finetune:google/gemma-4-31B-it",
+      "base_model:google/gemma-4-31B-it",
+      "conversational",
+      "dell",
+      "deploy:azure",
+      "domain-adaptation",
+      "en",
+      "endpoints_compatible",
+      "gemma4_text",
+      "gsma",
+      "instruction-following",
+      "license:apache-2.0",
+      "microsoft",
+      "open-telco-ai",
+      "post-trained",
+      "rag",
+      "red-hat",
+      "region:us",
+      "safetensors",
+      "telecom",
+      "telecommunications",
+      "text-generation",
+      "tool-calling",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT",
+    "local_path": "models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json"
+  },
+  {
     "id": "hf_farbodtavakkoli_OTel-LLM-0.6B-IT",
     "title": "farbodtavakkoli/OTel-LLM-0.6B-IT",
     "category": "text-generation",

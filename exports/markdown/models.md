@@ -432,6 +432,10 @@
 - **ID**: model_bartowski_qwen_qwen3_0_6b_gguf
 - **Source**: 
 
+## bartowski/Qwen_Qwen3-Coder-Next-GGUF
+- **ID**: model_bartowski_qwen_qwen3_coder_next_gguf
+- **Source**: 
+
 ## bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF
 - **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf
 - **Source**: 
@@ -606,6 +610,10 @@
 
 ## ChantalPellegrini/RaDialog-interactive-radiology-report-generation
 - **ID**: model_chantalpellegrini_radialog_interactive_radiology_report_generation
+- **Source**: 
+
+## chbae624/vllm-translategemma-12b-it
+- **ID**: model_chbae624_vllm_translategemma_12b_it
 - **Source**: 
 
 ## CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF
@@ -2944,6 +2952,10 @@
 - **ID**: model_nvidia_kimi_k2_thinking_nvfp4
 - **Source**: 
 
+## nvidia/Llama-3.1-70B-Instruct-FP8
+- **ID**: model_nvidia_llama_3_1_70b_instruct_fp8
+- **Source**: 
+
 ## nvidia/Llama-3.1-8B-Instruct-FP8
 - **ID**: model_nvidia_llama_3_1_8b_instruct_fp8
 - **Source**: 
@@ -3236,6 +3248,10 @@
 - **ID**: model_openonerec_onereason_0_8b_pretrain_competition
 - **Source**: 
 
+## OpenOneRec/OneRec-1.7B
+- **ID**: model_openonerec_onerec_1_7b
+- **Source**: 
+
 ## OpenPipe/Qwen3-14B-Instruct
 - **ID**: model_openpipe_qwen3_14b_instruct
 - **Source**: 
@@ -3526,6 +3542,10 @@
 
 ## Qwen/Qwen2-1.5B-Instruct-GPTQ-Int4
 - **ID**: model_qwen_qwen2_1_5b_instruct_gptq_int4
+- **Source**: 
+
+## Qwen/Qwen2-57B-A14B-Instruct-GPTQ-Int4
+- **ID**: model_qwen_qwen2_57b_a14b_instruct_gptq_int4
 - **Source**: 
 
 ## Qwen/Qwen2.5-0.5B
@@ -3838,6 +3858,10 @@
 
 ## Qwen/Qwen3-1.7B-FP8
 - **ID**: model_qwen_qwen3_1_7b_fp8
+- **Source**: 
+
+## Qwen/Qwen3-1.7B-GGUF
+- **ID**: model_qwen_qwen3_1_7b_gguf
 - **Source**: 
 
 ## Qwen/Qwen3-1.7B-GPTQ-Int8
@@ -5190,6 +5214,10 @@
 
 ## utter-project/EuroLLM-22B-Instruct-2512
 - **ID**: model_utter_project_eurollm_22b_instruct_2512
+- **Source**: 
+
+## utter-project/EuroLLM-9B-Instruct
+- **ID**: model_utter_project_eurollm_9b_instruct
 - **Source**: 
 
 ## utter-project/EuroLLM-9B-Instruct-2512

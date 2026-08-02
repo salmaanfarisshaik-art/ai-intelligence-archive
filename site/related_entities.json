@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T08:25:31Z",
+  "generated_at": "2026-08-02T10:41:09Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -175,6 +175,9 @@
     "hf_EssentialAI_rnj-1-instruct": [
       "model_farbodtavakkoli_otel_llm_8_3b_it"
     ],
+    "hf_FINAL-Bench_Darwin-36B-Opus": [
+      "model_final_bench_pocket_35b_gguf"
+    ],
     "hf_FINAL-Bench_Darwin-9B-Opus": [
       "model_ansulev_darwin_9b_neg"
     ],
@@ -196,6 +199,7 @@
       "model_generalanalysis_ga_guard_thinking"
     ],
     "hf_Glint-Research_Fable-5-traces": [
+      "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
     ],
     "hf_GnLOLot_MiniCPM5-1B-Claude-Opus-Fable5-Thinking": [
@@ -820,6 +824,7 @@
     ],
     "hf_Qwen_Qwen3-4B": [
       "hf_Qwen_Qwen3-4B-Base",
+      "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
       "model_maziyarpanahi_qwen3_4b_gguf",
       "model_qwen_qwen3_4b_awq",
       "model_qwen_qwen3_4b_fp8",
@@ -1026,6 +1031,9 @@
     ],
     "hf_Roman1111111_claude-opus-4.6-10000x": [
       "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf"
+    ],
+    "hf_Roman1111111_gpt5.5-terminal": [
+      "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf"
     ],
     "hf_S4nfs_Medicoplasma": [
       "model_s4nfs_neeto_1_0_8b"
@@ -1501,8 +1509,12 @@
       "model_teamblobfish_deepseek_v4_flash_gguf",
       "model_unsloth_deepseek_v4_flash"
     ],
+    "hf_deepseek-ai_DeepSeek-V4-Flash-0731": [
+      "model_bartowski_deepseek_v4_flash_0731_gguf"
+    ],
     "hf_deepseek-ai_DeepSeek-V4-Pro": [
-      "model_nvidia_deepseek_v4_pro_nvfp4"
+      "model_nvidia_deepseek_v4_pro_nvfp4",
+      "model_teamblobfish_deepseek_v4_pro_gguf"
     ],
     "hf_deepseek-ai_deepseek-coder-6.7b-base": [
       "model_thebloke_deepseek_coder_6_7b_base_awq"
@@ -1556,6 +1568,9 @@
     ],
     "hf_facebook_multilingual_librispeech": [
       "model_parler_tts_parler_tts_mini_multilingual_v1_1"
+    ],
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT": [
+      "hf_google_gemma-4-31B-it"
     ],
     "hf_farbodtavakkoli_OTel-LLM": [
       "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -1651,6 +1666,7 @@
     ],
     "hf_google_gemma-4-12B-it": [
       "model_obliteratus_gemma_4_12b_obliterated",
+      "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf",
       "model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2",
       "model_yuxinlu1_gemma_4_12b_agentic_fable5_composer2_5_v2_3_5x_tau2_gguf",
       "model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1",
@@ -1669,6 +1685,7 @@
       "model_trevorjs_gemma_4_26b_a4b_it_uncensored"
     ],
     "hf_google_gemma-4-31B-it": [
+      "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
       "hf_nvidia_Gemma-4-31B-IT-NVFP4",
       "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq",
       "model_farbodtavakkoli_otel_2_0_llm_31b_it",
@@ -2635,6 +2652,9 @@
     "hf_upstage_SOLAR-10.7B-v1.0": [
       "model_upstage_solar_10_7b_instruct_v1_0"
     ],
+    "hf_upstage_Solar-Open2-250B": [
+      "model_nota_ai_solar_open2_250b_nota_nvfp4"
+    ],
     "hf_upstage_solar-pro-preview-instruct": [
       "model_maziyarpanahi_solar_pro_preview_instruct_gguf"
     ],
@@ -2862,6 +2882,11 @@
     "model_angelslim_hy3_gguf": [
       "hf_tencent_Hy3"
     ],
+    "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf": [
+      "hf_Glint-Research_Fable-5-traces",
+      "hf_Qwen_Qwen3-4B",
+      "hf_Roman1111111_gpt5.5-terminal"
+    ],
     "model_ansulev_darwin_9b_neg": [
       "hf_FINAL-Bench_Darwin-9B-Opus"
     ],
@@ -2919,6 +2944,9 @@
     ],
     "model_bartowski_deepseek_r1_distill_qwen_7b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-7B"
+    ],
+    "model_bartowski_deepseek_v4_flash_0731_gguf": [
+      "hf_deepseek-ai_DeepSeek-V4-Flash-0731"
     ],
     "model_bartowski_deepseek_v4_flash_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
@@ -3427,6 +3455,9 @@
     "model_farbodtavakkoli_otel_llm_e4b_it": [
       "hf_farbodtavakkoli_OTel-LLM",
       "hf_google_gemma-4-E4B-it"
+    ],
+    "model_final_bench_pocket_35b_gguf": [
+      "hf_FINAL-Bench_Darwin-36B-Opus"
     ],
     "model_gadflyii_glm_4_7_flash_nvfp4": [
       "hf_zai-org_GLM-4.7-Flash"
@@ -4353,6 +4384,9 @@
     ],
     "model_nexveridian_qwen3_coder_next_8bit": [
       "hf_Qwen_Qwen3-Coder-Next"
+    ],
+    "model_nota_ai_solar_open2_250b_nota_nvfp4": [
+      "hf_upstage_Solar-Open2-250B"
     ],
     "model_nousresearch_hermes_3_llama_3_1_70b": [
       "hf_meta-llama_Llama-3.1-70B"
@@ -5361,6 +5395,9 @@
     "model_teamblobfish_deepseek_v4_flash_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
     ],
+    "model_teamblobfish_deepseek_v4_pro_gguf": [
+      "hf_deepseek-ai_DeepSeek-V4-Pro"
+    ],
     "model_tencent_hunyuanocr": [
       "hf_tencent_HunyuanOCR"
     ],
@@ -5823,6 +5860,9 @@
     ],
     "model_weiboai_vibethinker_3b": [
       "hf_Qwen_Qwen2.5-Coder-3B"
+    ],
+    "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf": [
+      "hf_google_gemma-4-12B-it"
     ],
     "model_xlnet_xlnet_base_cased": [
       "hf_bookcorpus",

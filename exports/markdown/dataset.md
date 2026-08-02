@@ -754,6 +754,12 @@
 - **URL**: [https://huggingface.co/datasets/anisoleai/fineweb-tokenized](https://huggingface.co/datasets/anisoleai/fineweb-tokenized)
 - **Tags**: arxiv:2406.17557, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, pre-training, region:us, size_categories:n>1T, tabular, task_categories:text-generation, text
 
+## picbreeder-vlm/picbreeder-vlm-archive
+- **ID**: hf_ds_6a18ded575c463d5aecfcf4d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/picbreeder-vlm/picbreeder-vlm-archive](https://huggingface.co/datasets/picbreeder-vlm/picbreeder-vlm-archive)
+- **Tags**: annotations_creators:machine-generated, arxiv:2605.23908, cppn, evolutionary-computation, format:parquet, generated-images, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-nc-4.0, modality:image, modality:text, neat, open-endedness, picbreeder, region:us, size_categories:100K<n<1M, source_datasets:original, task_categories:image-to-text, vision-language-models
+
 ## quejing/20000-meishi-pdf
 - **ID**: hf_ds_6a1901f9165364c3c9f8e5fe
 - **Source**: HuggingFace Datasets
@@ -783,6 +789,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer](https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer)
 - **Tags**: region:us
+
+## fujinchu/imgbed
+- **ID**: hf_ds_6a517a8032bfea14be5a68aa
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

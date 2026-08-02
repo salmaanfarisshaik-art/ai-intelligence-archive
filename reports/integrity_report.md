@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-08-02T08:24:33.762189+00:00
-**Warnings:** 1018
+**Generated:** 2026-08-02T10:40:13.272782+00:00
+**Warnings:** 1019
 **Errors:** 30
 
 ## Issues
@@ -1003,6 +1003,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/stanford-vision-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/just-me7ss
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/anisoleai
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/picbreeder-vlm
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tencent
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
