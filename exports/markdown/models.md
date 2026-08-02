@@ -192,6 +192,10 @@
 - **ID**: model_angelslim_hy3_gguf
 - **Source**: 
 
+## AnkitAI/Parable-Qwen3-4B-Claude-Fable-5-GGUF
+- **ID**: model_ankitai_parable_qwen3_4b_claude_fable_5_gguf
+- **Source**: 
+
 ## anrilombard/mzansilm-125m
 - **ID**: model_anrilombard_mzansilm_125m
 - **Source**: 
@@ -310,6 +314,10 @@
 
 ## bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF
 - **ID**: model_bartowski_deepseek_r1_distill_qwen_7b_gguf
+- **Source**: 
+
+## bartowski/DeepSeek-V4-Flash-0731-GGUF
+- **ID**: model_bartowski_deepseek_v4_flash_0731_gguf
 - **Source**: 
 
 ## bartowski/DeepSeek-V4-Flash-GGUF
@@ -888,6 +896,10 @@
 - **ID**: model_deepseek_ai_deepseek_v4_flash
 - **Source**: 
 
+## deepseek-ai/DeepSeek-V4-Flash-0731
+- **ID**: model_deepseek_ai_deepseek_v4_flash_0731
+- **Source**: 
+
 ## deepseek-ai/DeepSeek-V4-Flash-DSpark
 - **ID**: model_deepseek_ai_deepseek_v4_flash_dspark
 - **Source**: 
@@ -1154,6 +1166,10 @@
 
 ## farbodtavakkoli/OTel-LLM-E4B-IT
 - **ID**: model_farbodtavakkoli_otel_llm_e4b_it
+- **Source**: 
+
+## FINAL-Bench/POCKET-35B-GGUF
+- **ID**: model_final_bench_pocket_35b_gguf
 - **Source**: 
 
 ## GadflyII/GLM-4.7-Flash-NVFP4
@@ -2844,6 +2860,10 @@
 - **ID**: model_nm_testing_tinyllama_oneshot_w8w8_test_static_shape_change
 - **Source**: 
 
+## nota-ai/Solar-Open2-250B-Nota-NVFP4
+- **ID**: model_nota_ai_solar_open2_250b_nota_nvfp4
+- **Source**: 
+
 ## NousResearch/Hermes-3-Llama-3.1-70B
 - **ID**: model_nousresearch_hermes_3_llama_3_1_70b
 - **Source**: 
@@ -4484,6 +4504,10 @@
 - **ID**: model_teamblobfish_deepseek_v4_flash_gguf
 - **Source**: 
 
+## teamblobfish/DeepSeek-V4-Pro-GGUF
+- **ID**: model_teamblobfish_deepseek_v4_pro_gguf
+- **Source**: 
+
 ## TechxGenus/gemma-1.1-2b-it-GPTQ
 - **ID**: model_techxgenus_gemma_1_1_2b_it_gptq
 - **Source**: 
@@ -5290,6 +5314,10 @@
 
 ## WizardLMTeam/WizardMath-7B-V1.1
 - **ID**: model_wizardlmteam_wizardmath_7b_v1_1
+- **Source**: 
+
+## xCloudinfo/xGemable-12B-coder-v1.5-GGUF
+- **ID**: model_xcloudinfo_xgemable_12b_coder_v1_5_gguf
 - **Source**: 
 
 ## XCurOS/XCurOS0.1-8B-Instruct
