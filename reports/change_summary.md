@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 64
+**Total Changes:** 77
 
 ## Added
 None
@@ -9,15 +9,21 @@ None
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/codeparrot/hf_ds_621ffdd236468d709f183929.json
+- datasets/anisoleai/hf_ds_6a153f136ea5882878c26693.json
+- datasets/ccoffee20/hf_ds_69b6276dd5de8ef6a41f39e6.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- datasets/ryanmarten/hf_ds_68b39036631546df1cfe0cba.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai-community/hf_openai-community_gpt2.json
+- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
 - releases/CHANGELOG.generated.md
@@ -28,6 +34,7 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -35,6 +42,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -44,6 +52,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -51,9 +60,12 @@ None
 - tools/github-trending/gh_344190478.json
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
+- tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
@@ -68,6 +80,7 @@ None
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
