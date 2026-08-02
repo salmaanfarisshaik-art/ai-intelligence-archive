@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 70
+**Total Changes:** 65
 
 ## Added
 None
@@ -13,15 +13,11 @@ None
 - data/metadata/schema_manifest.json
 - datasets/ccoffee20/hf_ds_69b6276dd5de8ef6a41f39e6.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
-- models/vikhyatk/hf_vikhyatk_moondream2.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -47,7 +43,6 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
-- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -56,6 +51,7 @@ None
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
@@ -64,7 +60,6 @@ None
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
