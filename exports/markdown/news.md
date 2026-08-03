@@ -1226,6 +1226,11 @@
 - **URL**: [https://openai.com/index/continuing-microsoft-partnership](https://openai.com/index/continuing-microsoft-partnership)
 
 ## 
+- **ID**: rss_https://openai.com/index/continuous-voice-interaction-with-gpt-live
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/continuous-voice-interaction-with-gpt-live](https://openai.com/index/continuous-voice-interaction-with-gpt-live)
+
+## 
 - **ID**: rss_https://openai.com/index/cooperation-on-safety
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cooperation-on-safety](https://openai.com/index/cooperation-on-safety)
