@@ -33,6 +33,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_activevla_activevla
+- **Source**: 
+
+## 
 - **ID**: dataset_ad1t7a_10kh_realomin_opendata
 - **Source**: 
 
@@ -229,6 +233,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_alphadojo_dojo_stock_kline
+- **Source**: 
+
+## 
 - **ID**: dataset_amazonscience_document_haystack
 - **Source**: 
 
@@ -254,6 +262,10 @@
 
 ## 
 - **ID**: dataset_angie_chen55_python_github_code
+- **Source**: 
+
+## 
+- **ID**: dataset_anh1223_data_7cam_2025
 - **Source**: 
 
 ## 
@@ -798,6 +810,10 @@
 
 ## 
 - **ID**: dataset_charatan_loopcraft
+- **Source**: 
+
+## 
+- **ID**: dataset_charge_benchmark_charge_040_0040_sparse_mono
 - **Source**: 
 
 ## 
@@ -2465,6 +2481,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn21_content_2026070621b9
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn21_content_2026071210b7
 - **Source**: 
 
@@ -2610,6 +2630,10 @@
 
 ## 
 - **ID**: dataset_ipec_community_fastumi_100k_lerobot
+- **Source**: 
+
+## 
+- **ID**: dataset_ipec_community_fmb_dataset_lerobot
 - **Source**: 
 
 ## 
@@ -2861,6 +2885,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_khtao_openmind
+- **Source**: 
+
+## 
 - **ID**: dataset_kkail8_tavgbench_1m
 - **Source**: 
 
@@ -2914,6 +2942,10 @@
 
 ## 
 - **ID**: dataset_ksolovev_finenews
+- **Source**: 
+
+## 
+- **ID**: dataset_ksolovev_finenewstestsample
 - **Source**: 
 
 ## 
@@ -3286,6 +3318,10 @@
 
 ## 
 - **ID**: dataset_mangocloud_robocasa_atomic_test
+- **Source**: 
+
+## 
+- **ID**: dataset_manhcuong2005_vietnam_medical_noise_dataset
 - **Source**: 
 
 ## 
@@ -3717,6 +3753,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_niklastr_vacuum_peptides
+- **Source**: 
+
+## 
 - **ID**: dataset_ningsenwang_misc
 - **Source**: 
 
@@ -3750,6 +3790,10 @@
 
 ## 
 - **ID**: dataset_nuprl_multipl_e
+- **Source**: 
+
+## 
+- **ID**: dataset_nveagle_locateanything_data
 - **Source**: 
 
 ## 
@@ -4393,6 +4437,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ritianyu_hypersim
+- **Source**: 
+
+## 
 - **ID**: dataset_rl_llm_wiki_knowledge_base
 - **Source**: 
 
@@ -4550,6 +4598,10 @@
 
 ## 
 - **ID**: dataset_schwein69_hagrid_subset
+- **Source**: 
+
+## 
+- **ID**: dataset_scorpionjacketguy_physics_course_vids
 - **Source**: 
 
 ## 
@@ -4714,6 +4766,10 @@
 
 ## 
 - **ID**: dataset_stair_lab_nonmyopia_results
+- **Source**: 
+
+## 
+- **ID**: dataset_stal_ix_pkgsrc
 - **Source**: 
 
 ## 
@@ -5065,6 +5121,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tysyuvraj_apple2platemixed_v3
+- **Source**: 
+
+## 
 - **ID**: dataset_tz1002_llava_onevision_1_5_mid_training_85m
 - **Source**: 
 
@@ -5138,6 +5198,10 @@
 
 ## 
 - **ID**: dataset_vincent_hkustgz_padbench
+- **Source**: 
+
+## 
+- **ID**: dataset_viscompfy_openroomsplusplus
 - **Source**: 
 
 ## 
@@ -5458,6 +5522,10 @@
 
 ## 
 - **ID**: dataset_yx642_metricscenes
+- **Source**: 
+
+## 
+- **ID**: dataset_yxi8_uspto_mol_mirror
 - **Source**: 
 
 ## 

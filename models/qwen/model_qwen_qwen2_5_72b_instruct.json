@@ -17,12 +17,11 @@
     "base_model:Qwen/Qwen2.5-72B",
     "base_model:finetune:Qwen/Qwen2.5-72B",
     "license:other",
-    "eval-results",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
     "deploy:sagemaker",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

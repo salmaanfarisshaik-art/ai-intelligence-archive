@@ -192,8 +192,20 @@
 - **ID**: model_angelslim_hy3_gguf
 - **Source**: 
 
+## AnkitAI/Parable-Granite-4.1-3B-Claude-Fable-5-GGUF
+- **ID**: model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf
+- **Source**: 
+
+## AnkitAI/Parable-Granite-4.1-8B-Claude-Fable-5-GGUF
+- **ID**: model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf
+- **Source**: 
+
 ## AnkitAI/Parable-Qwen3-4B-Claude-Fable-5-GGUF
 - **ID**: model_ankitai_parable_qwen3_4b_claude_fable_5_gguf
+- **Source**: 
+
+## AnkitAI/Parable-Qwen3-8B-Claude-Fable-5-GGUF
+- **ID**: model_ankitai_parable_qwen3_8b_claude_fable_5_gguf
 - **Source**: 
 
 ## anrilombard/mzansilm-125m
@@ -680,6 +692,10 @@
 - **ID**: model_cyankiwi_kat_coder_v2_5_dev_awq_int4
 - **Source**: 
 
+## cyankiwi/MiniCPM-SALA-AWQ-8bit
+- **ID**: model_cyankiwi_minicpm_sala_awq_8bit
+- **Source**: 
+
 ## cyankiwi/MiniMax-M2.5-AWQ-4bit
 - **ID**: model_cyankiwi_minimax_m2_5_awq_4bit
 - **Source**: 
@@ -1086,6 +1102,10 @@
 
 ## EleutherAI/pythia-70m-deduped
 - **ID**: model_eleutherai_pythia_70m_deduped
+- **Source**: 
+
+## EmanuelOverride/gemma-4-26B-A4B-it-heretic-APEX-GGUF
+- **ID**: model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf
 - **Source**: 
 
 ## empero-ai/Qwythos-9B-Claude-Mythos-5-1M
@@ -3160,6 +3180,10 @@
 - **ID**: model_nvidia_qwen3_6_35b_a3b_nvfp4
 - **Source**: 
 
+## nvidia/Qwen3-8B-FP8
+- **ID**: model_nvidia_qwen3_8b_fp8
+- **Source**: 
+
 ## nvidia/Qwen3-8B-NVFP4
 - **ID**: model_nvidia_qwen3_8b_nvfp4
 - **Source**: 
@@ -4646,6 +4670,10 @@
 
 ## tobil/qmd-query-expansion-1.7B-gguf
 - **ID**: model_tobil_qmd_query_expansion_1_7b_gguf
+- **Source**: 
+
+## tokyotech-llm/Qwen3-Swallow-32B-RL-v0.2-AWQ-INT4
+- **ID**: model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4
 - **Source**: 
 
 ## tpls/gemma-4-12B-coder-fable5-composer2.5-v1-abliterated

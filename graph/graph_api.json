@@ -5351,7 +5351,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-03T10:47:44.266200+00:00",
+  "generated_at": "2026-08-03T13:42:09.511570+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -115117,6 +115117,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_activevla_activevla",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ad1t7a_10kh_realomin_opendata",
       "label": ""
     },
@@ -115362,6 +115367,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_alphadojo_dojo_stock_kline",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_amazonscience_document_haystack",
       "label": ""
     },
@@ -115393,6 +115403,11 @@
     {
       "category": "datasets",
       "id": "dataset_angie_chen55_python_github_code",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_anh1223_data_7cam_2025",
       "label": ""
     },
     {
@@ -116073,6 +116088,11 @@
     {
       "category": "datasets",
       "id": "dataset_charatan_loopcraft",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_charge_benchmark_charge_040_0040_sparse_mono",
       "label": ""
     },
     {
@@ -118157,6 +118177,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn21_content_2026070621b9",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn21_content_2026071210b7",
       "label": ""
     },
@@ -118338,6 +118363,11 @@
     {
       "category": "datasets",
       "id": "dataset_ipec_community_fastumi_100k_lerobot",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_ipec_community_fmb_dataset_lerobot",
       "label": ""
     },
     {
@@ -118652,6 +118682,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_khtao_openmind",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_kkail8_tavgbench_1m",
       "label": ""
     },
@@ -118718,6 +118753,11 @@
     {
       "category": "datasets",
       "id": "dataset_ksolovev_finenews",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_ksolovev_finenewstestsample",
       "label": ""
     },
     {
@@ -119183,6 +119223,11 @@
     {
       "category": "datasets",
       "id": "dataset_mangocloud_robocasa_atomic_test",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_manhcuong2005_vietnam_medical_noise_dataset",
       "label": ""
     },
     {
@@ -119722,6 +119767,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_niklastr_vacuum_peptides",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ningsenwang_misc",
       "label": ""
     },
@@ -119763,6 +119813,11 @@
     {
       "category": "datasets",
       "id": "dataset_nuprl_multipl_e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_nveagle_locateanything_data",
       "label": ""
     },
     {
@@ -120567,6 +120622,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_ritianyu_hypersim",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_rl_llm_wiki_knowledge_base",
       "label": ""
     },
@@ -120763,6 +120823,11 @@
     {
       "category": "datasets",
       "id": "dataset_schwein69_hagrid_subset",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_scorpionjacketguy_physics_course_vids",
       "label": ""
     },
     {
@@ -120968,6 +121033,11 @@
     {
       "category": "datasets",
       "id": "dataset_stair_lab_nonmyopia_results",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_stal_ix_pkgsrc",
       "label": ""
     },
     {
@@ -121407,6 +121477,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_tysyuvraj_apple2platemixed_v3",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_tz1002_llava_onevision_1_5_mid_training_85m",
       "label": ""
     },
@@ -121498,6 +121573,11 @@
     {
       "category": "datasets",
       "id": "dataset_vincent_hkustgz_padbench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_viscompfy_openroomsplusplus",
       "label": ""
     },
     {
@@ -121898,6 +121978,11 @@
     {
       "category": "datasets",
       "id": "dataset_yx642_metricscenes",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_yxi8_uspto_mol_mirror",
       "label": ""
     },
     {
@@ -133387,8 +133472,23 @@
     },
     {
       "category": "models",
+      "id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
+      "label": "AnkitAI/Parable-Granite-4.1-3B-Claude-Fable-5-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf",
+      "label": "AnkitAI/Parable-Granite-4.1-8B-Claude-Fable-5-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
       "label": "AnkitAI/Parable-Qwen3-4B-Claude-Fable-5-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ankitai_parable_qwen3_8b_claude_fable_5_gguf",
+      "label": "AnkitAI/Parable-Qwen3-8B-Claude-Fable-5-GGUF"
     },
     {
       "category": "models",
@@ -133997,6 +134097,11 @@
     },
     {
       "category": "models",
+      "id": "model_cyankiwi_minicpm_sala_awq_8bit",
+      "label": "cyankiwi/MiniCPM-SALA-AWQ-8bit"
+    },
+    {
+      "category": "models",
       "id": "model_cyankiwi_minimax_m2_5_awq_4bit",
       "label": "cyankiwi/MiniMax-M2.5-AWQ-4bit"
     },
@@ -134504,6 +134609,11 @@
       "category": "models",
       "id": "model_eleutherai_pythia_70m_deduped",
       "label": "EleutherAI/pythia-70m-deduped"
+    },
+    {
+      "category": "models",
+      "id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
+      "label": "EmanuelOverride/gemma-4-26B-A4B-it-heretic-APEX-GGUF"
     },
     {
       "category": "models",
@@ -137097,6 +137207,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_qwen3_8b_fp8",
+      "label": "nvidia/Qwen3-8B-FP8"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_qwen3_8b_nvfp4",
       "label": "nvidia/Qwen3-8B-NVFP4"
     },
@@ -138954,6 +139069,11 @@
       "category": "models",
       "id": "model_tobil_qmd_query_expansion_1_7b_gguf",
       "label": "tobil/qmd-query-expansion-1.7B-gguf"
+    },
+    {
+      "category": "models",
+      "id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
+      "label": "tokyotech-llm/Qwen3-Swallow-32B-RL-v0.2-AWQ-INT4"
     },
     {
       "category": "models",
@@ -436748,5 +436868,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1070,
-  "total_nodes": 86278
+  "total_nodes": 86302
 }
