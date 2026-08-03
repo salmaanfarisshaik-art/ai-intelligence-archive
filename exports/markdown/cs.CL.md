@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.19792v5](http://arxiv.org/abs/2601.19792v5)
 
+## When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering
+- **ID**: arxiv_2601.19827v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.19827v5](http://arxiv.org/abs/2601.19827v5)
+
 ## LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation
 - **ID**: arxiv_2602.05493v2
 - **Source**: ArXiv
@@ -595,6 +600,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19345v1](http://arxiv.org/abs/2607.19345v1)
 
+## Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning
+- **ID**: arxiv_2607.19345v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19345v2](http://arxiv.org/abs/2607.19345v2)
+
 ## Exposure is Optional: Learning Unlike Coordination in Language Models
 - **ID**: arxiv_2607.20251v1
 - **Source**: ArXiv
@@ -814,4 +824,29 @@
 - **ID**: arxiv_2607.28618v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28618v1](http://arxiv.org/abs/2607.28618v1)
+
+## Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks
+- **ID**: arxiv_2607.29585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29585v1](http://arxiv.org/abs/2607.29585v1)
+
+## ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression
+- **ID**: arxiv_2607.29591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29591v1](http://arxiv.org/abs/2607.29591v1)
+
+## FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models
+- **ID**: arxiv_2607.29602v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29602v1](http://arxiv.org/abs/2607.29602v1)
+
+## Evolving language compositionality in a frequency-structured meaning space
+- **ID**: arxiv_2607.29642v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29642v1](http://arxiv.org/abs/2607.29642v1)
+
+## TokTier: Exact Stateful Tokenization for Agentic LLM Serving
+- **ID**: arxiv_2607.29678v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29678v1](http://arxiv.org/abs/2607.29678v1)
 

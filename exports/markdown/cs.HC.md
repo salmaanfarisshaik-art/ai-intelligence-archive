@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.10300v2](http://arxiv.org/abs/2505.10300v2)
 
+## Generative AI in Action: Field Experimental Evidence from Alibaba's Customer Service Operations
+- **ID**: arxiv_2603.29888v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
+
 ## Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour
 - **ID**: arxiv_2606.18129v1
 - **Source**: ArXiv

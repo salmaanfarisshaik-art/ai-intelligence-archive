@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.29638v1",
+  "schema_version": "1.0",
+  "name": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.29638v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.29638v1",
+    "updated": "2026-07-31T17:17:23Z",
+    "published": "2026-07-31T17:17:23Z",
+    "title": "HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering",
+    "summary": "Multi-page document visual question answering requires locating sparse evidence at both the page and region levels. Existing approaches typically emphasize one level over the other: page-centric methods focus on page acquisition, with region operations serving mainly as navigation aids, whereas region-centric methods assume that the relevant pages have already been supplied. Consequently, page and region selection remain disconnected rather than forming successive evidence decisions. We propose HierDoc, a hierarchical evidence-routing framework that formulates long-document evidence acquisition as two-stage set prediction from pages to regions. A page policy selects evidence pages from the full document; these pages are then parsed for semantic elements, after which a region policy selects the elements passed to a downstream answer model. Both answer-agnostic policies are optimized with stage-wise GRPO using granularity-specific structured-set rewards. The answer model receives selected full pages together with selected region crops and OCR or table text, preserving global context while emphasizing fine-grained evidence. Across the evaluated benchmarks, HierDoc achieves state-of-the-art or competitive performance among open-weight systems, improving LongDocURL by 16.87% relative to the strongest reported open-weight baseline. Controlled ablations further show that selected regional evidence improves the page-only system in accuracy and F1 by 5.51% and 4.82%, respectively. These results demonstrate the benefit of organizing coarse page routing and fine-grained region routing as successive, separately optimized stages of a unified evidence-acquisition process.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T17:17:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.29638v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

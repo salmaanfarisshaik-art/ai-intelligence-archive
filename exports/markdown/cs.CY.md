@@ -1,5 +1,10 @@
 # Cs.Cy Export
 
+## "Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness
+- **ID**: arxiv_2508.13187v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.13187v5](http://arxiv.org/abs/2508.13187v5)
+
 ## The Tone of Awareness: Topic, Sentiment, and Toxicity Maps During Mental Health Month on TikTok
 - **ID**: arxiv_2606.13581v1
 - **Source**: ArXiv
@@ -29,4 +34,9 @@
 - **ID**: arxiv_2607.22513v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22513v1](http://arxiv.org/abs/2607.22513v1)
+
+## The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
+- **ID**: arxiv_2607.29624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29624v1](http://arxiv.org/abs/2607.29624v1)
 

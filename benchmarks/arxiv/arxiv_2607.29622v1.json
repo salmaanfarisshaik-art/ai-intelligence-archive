@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.29622v1",
+  "schema_version": "1.0",
+  "name": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.29622v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.29622v1",
+    "updated": "2026-07-31T16:56:33Z",
+    "published": "2026-07-31T16:56:33Z",
+    "title": "RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning",
+    "summary": "Visual imitation learning enables robots to acquire visuomotor skills directly from images, yet RGB observations lack explicit geometric cues, making learned policies brittle to camera perturbations. To address this, we propose \\textbf{Ray-conditioned Vision Transformer Encoder (RayViT)}, a lightweight architecture that injects camera geometry into pretrained ViT backbones. RayViT represents camera geometry as a Plücker ray map, patchifies it into ray features, and uses gated cross-attention to produce a ray-conditioned class token. These ray features are added as dense positional embeddings, while the ray class token replaces the original ViT class token to provide a geometry-aware summary representation. We combine this approach with an auxiliary cosine similarity loss to consistently improve the performance and robustness for geometry-aware tokens. Experiments on sim- and real-robot tasks demonstrate that RayViT improves robustness by approximately 13 percentage points under camera perturbations in multi-task RoboCasa benchmark and by 1.78 average completed stages in real-world multi-task success rate compared to baselines.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T16:56:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.29622v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

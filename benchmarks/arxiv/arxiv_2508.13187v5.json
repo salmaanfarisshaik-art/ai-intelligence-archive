@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.13187v5",
+  "schema_version": "1.0",
+  "name": "\"Not in My Backyard\": LLMs Uncover Online and Offline Social Biases Against Homelessness",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.13187v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.13187v5",
+    "updated": "2026-07-31T17:48:20Z",
+    "published": "2025-08-14T17:58:34Z",
+    "title": "\"Not in My Backyard\": LLMs Uncover Online and Offline Social Biases Against Homelessness",
+    "summary": "Homelessness is a persistent social challenge, impacting millions worldwide. Over 876,000 people experiencing homelessness (PEH) were recorded in the U.S. in 2025. Social bias is a significant barrier to alleviating homelessness, shaping public perception and influencing policymaking. Because online textual media and offline city council discourse both reflect and influence public opinion, they provide valuable signals for identifying and tracking social biases against PEH. We release the first multi-domain PEH bias corpus with a 16-category multi-label taxonomy: a 1,698-item stratified gold-standard set annotated by partner-trained raters, plus 48,389 GPT-4.1-labeled texts, drawn from Reddit, X (formerly Twitter), news, and council meeting transcripts across ten U.S. cities (2015-2025). We benchmark six prompted LLMs on the gold-standard set and complement F1 with prevalence-gap audits. Moderate F1 coexists with large miscalibration: every model over-tags \"not in my backyard\" (NIMBY) (+11.5 pp) and under-detects factual claims (-30.5 pp). Error analysis on consensus false positives reveals that models treat housing vocabulary and question form as opposition proxies, producing NIMBY false positives on pro-service text. The corpus and audit protocol support municipal PEH stigma monitoring without treating teacher labels as ground truth.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T17:48:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.13187v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

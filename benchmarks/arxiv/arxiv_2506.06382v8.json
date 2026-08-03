@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.06382v8",
+  "schema_version": "1.0",
+  "name": "On the Fundamental Impossibility of Hallucination Control in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.06382v8",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.06382v8",
+    "updated": "2026-07-31T15:48:01Z",
+    "published": "2025-06-04T23:28:39Z",
+    "title": "On the Fundamental Impossibility of Hallucination Control in Large Language Models",
+    "summary": "Large language models hallucinate. This paper shows when that is unavoidable and what we can do about it. We model inference as an auction of ideas, in which a model's components, each holding partial knowledge, compete to shape the answer. We then prove Impossibility Theorems showing that whenever a query makes LLM components contest a fact they hold in common, no aggregation of their reports can at once report that knowledge truthfully, avoid manufacturing confidence beyond what it supports, keep the relevant components engaged, and give the best answer. Something must give, and each failure is familiar: a fabricated detail, unearned confidence, ignored knowledge, or a needlessly weak reply. This is no artifact of one design. It reappears when components report probabilities, and inside the transformer itself, where the combined answer is credited more confidence than the internal contributions supplied.\n  The unbalanced semantic budget cannot be settled from within. Factual truth lies outside the model, and in the worst case no internal signal can certify it. What can be certified is support. Given externally authorized evidence, checking that an answer stays within what the evidence entails needs only the answer and the evidence, and we prove when that check is computable. However, a correct answer can lack support, and a supported answer can be false. What counts as evidence, how far beyond it we allow answers to reach, and which failures we can live with are choices no model can make for us.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T15:48:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.06382v8"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

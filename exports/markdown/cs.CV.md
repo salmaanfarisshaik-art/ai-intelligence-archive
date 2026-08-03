@@ -10,10 +10,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.00713v5](http://arxiv.org/abs/2410.00713v5)
 
+## Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook
+- **ID**: arxiv_2411.19537v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2411.19537v4](http://arxiv.org/abs/2411.19537v4)
+
 ## Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research
 - **ID**: arxiv_2501.14546v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
+
+## AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models
+- **ID**: arxiv_2505.20255v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.20255v3](http://arxiv.org/abs/2505.20255v3)
 
 ## ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding
 - **ID**: arxiv_2506.01274v2
@@ -154,6 +164,11 @@
 - **ID**: arxiv_2602.04802v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.04802v3](http://arxiv.org/abs/2602.04802v3)
+
+## The Geometric Observability Index: Influence, Fisher Information, and Weak Observability in $\SE$ Pose Estimation
+- **ID**: arxiv_2602.05582v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.05582v3](http://arxiv.org/abs/2602.05582v3)
 
 ## VideoSketcher: Sequential Sketch Generation Using Video Model Priors
 - **ID**: arxiv_2602.15819v2
@@ -1409,4 +1424,69 @@
 - **ID**: arxiv_2607.28627v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28627v1](http://arxiv.org/abs/2607.28627v1)
+
+## The K-Space Signature: Frequency-Domain Representation Learning for Medical Deepfake Detection
+- **ID**: arxiv_2607.29541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29541v1](http://arxiv.org/abs/2607.29541v1)
+
+## MoRoute: Dynamic Routing for In-Context Multimodal Video Generation
+- **ID**: arxiv_2607.29545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29545v1](http://arxiv.org/abs/2607.29545v1)
+
+## DynoDINO: Harnessing Dynamic Latent Information from DINO Features for Multi-Phase Medical Image Segmentation
+- **ID**: arxiv_2607.29568v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29568v1](http://arxiv.org/abs/2607.29568v1)
+
+## Explaining AI-Image Detection: What the Heatmap Actually Shows
+- **ID**: arxiv_2607.29581v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29581v1](http://arxiv.org/abs/2607.29581v1)
+
+## TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning
+- **ID**: arxiv_2607.29586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29586v1](http://arxiv.org/abs/2607.29586v1)
+
+## TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners
+- **ID**: arxiv_2607.29592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29592v1](http://arxiv.org/abs/2607.29592v1)
+
+## CoDe-SSM: Context-Detail Decoupled State Space Model for Efficient UHD Image Restoration
+- **ID**: arxiv_2607.29595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29595v1](http://arxiv.org/abs/2607.29595v1)
+
+## FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control
+- **ID**: arxiv_2607.29627v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29627v1](http://arxiv.org/abs/2607.29627v1)
+
+## OASIS: Occlusion-aware Single-image Hand Avatar Reconstruction via 3D Gaussian Splatting
+- **ID**: arxiv_2607.29633v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29633v1](http://arxiv.org/abs/2607.29633v1)
+
+## CodeShrink: Adaptive Visual Compression for Efficient Multimodal Code Understanding
+- **ID**: arxiv_2607.29637v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29637v1](http://arxiv.org/abs/2607.29637v1)
+
+## HierDoc: Hierarchical Page-to-Region Evidence Routing for Long-Document Visual Question Answering
+- **ID**: arxiv_2607.29638v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29638v1](http://arxiv.org/abs/2607.29638v1)
+
+## Scaling Properties of Text Conditioning in Visual Generation
+- **ID**: arxiv_2607.29679v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29679v1](http://arxiv.org/abs/2607.29679v1)
+
+## Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark
+- **ID**: arxiv_2607.29684v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29684v1](http://arxiv.org/abs/2607.29684v1)
 

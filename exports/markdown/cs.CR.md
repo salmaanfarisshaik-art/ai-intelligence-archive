@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20255v1](http://arxiv.org/abs/2607.20255v1)
 
+## DualityCert: Verifier-Gated Language-Model Repair of Broken Duality Claims in Quantum Field Theory
+- **ID**: arxiv_2607.23614v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23614v2](http://arxiv.org/abs/2607.23614v2)
+
 ## Agentic Permissions Policy Algebra for Taint Confinement in LLM Agents
 - **ID**: arxiv_2607.24625v1
 - **Source**: ArXiv

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14249v11](http://arxiv.org/abs/2501.14249v11)
 
+## Dimensionality reduction for homological stability and global structure preservation
+- **ID**: arxiv_2503.03156v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.03156v4](http://arxiv.org/abs/2503.03156v4)
+
 ## Sampling Decisions: Exact Path-Space Correction, Prior Cancellation and Local-Boltzmann Guidance
 - **ID**: arxiv_2503.14549v3
 - **Source**: ArXiv
@@ -99,6 +104,11 @@
 - **ID**: arxiv_2604.21335v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21335v3](http://arxiv.org/abs/2604.21335v3)
+
+## Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs
+- **ID**: arxiv_2605.04215v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.04215v3](http://arxiv.org/abs/2605.04215v3)
 
 ## Self-Attention as Transport: Limits of Symmetric Spectral Diagnostics
 - **ID**: arxiv_2605.04893v3
@@ -489,4 +499,24 @@
 - **ID**: arxiv_2607.28553v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28553v1](http://arxiv.org/abs/2607.28553v1)
+
+## MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models
+- **ID**: arxiv_2607.29561v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29561v1](http://arxiv.org/abs/2607.29561v1)
+
+## A Human-Centered Validation of the Explainability-Performance Coefficient
+- **ID**: arxiv_2607.29614v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29614v1](http://arxiv.org/abs/2607.29614v1)
+
+## When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning
+- **ID**: arxiv_2607.29617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29617v1](http://arxiv.org/abs/2607.29617v1)
+
+## CENDRe: Concept Extraction with Natural Domain Representations
+- **ID**: arxiv_2607.29621v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29621v1](http://arxiv.org/abs/2607.29621v1)
 

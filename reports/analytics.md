@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86228
+**Total Entities Tracked**: 86278
 
 ## Category Distribution
 
@@ -12,14 +12,14 @@
 - **dataset**: 1131
 - **news**: 1125
 - **text-generation**: 1000
-- **cs.CV**: 282
-- **cs.CL**: 163
-- **cs.AI**: 157
-- **cs.LG**: 98
+- **cs.CV**: 298
+- **cs.CL**: 170
+- **cs.AI**: 165
+- **cs.LG**: 104
 - **tool**: 48
-- **cs.RO**: 34
-- **cs.CR**: 22
-- **cs.SE**: 20
+- **cs.RO**: 37
+- **cs.CR**: 23
+- **cs.SE**: 21
 - **API**: 15
 - **cs.IR**: 14
 - **cs.SD**: 13
@@ -30,17 +30,18 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.HC**: 9
+- **cs.HC**: 10
+- **cs.CY**: 8
 - **IDE Rule**: 6
-- **cs.CY**: 6
+- **stat.ML**: 6
 - **Benchmark**: 5
 - **quant-ph**: 5
-- **stat.ML**: 5
 - **AI News**: 4
+- **cs.DB**: 4
 - **cs.GT**: 4
 - **cs.AR**: 3
-- **cs.DB**: 3
 - **cs.DL**: 3
+- **cs.IT**: 3
 - **cs.MA**: 3
 - **cs.NI**: 3
 - **eess.AS**: 3
@@ -48,13 +49,13 @@
 - **feature-extraction**: 3
 - **stat.ME**: 3
 - **cond-mat.mtrl-sci**: 2
-- **cs.IT**: 2
 - **eess.SY**: 2
 - **image-text-to-text**: 2
 - **math.OC**: 2
 - **physics.soc-ph**: 2
 - **text-ranking**: 2
 - **cs.DC**: 1
+- **cs.GR**: 1
 - **cs.LO**: 1
 - **cs.MM**: 1
 - **cs.OS**: 1
@@ -64,6 +65,7 @@
 - **physics.acc-ph**: 1
 - **physics.flu-dyn**: 1
 - **q-bio.GN**: 1
+- **q-bio.NC**: 1
 - **q-bio.QM**: 1
 - **q-fin.RM**: 1
 - **q-fin.TR**: 1
@@ -74,7 +76,7 @@
 - ****: 29938
 - **Hugging Face**: 2007
 - **OpenAI Blog**: 1111
-- **ArXiv**: 879
+- **ArXiv**: 929
 - **HuggingFace Datasets**: 131
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14

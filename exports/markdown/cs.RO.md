@@ -170,3 +170,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28623v1](http://arxiv.org/abs/2607.28623v1)
 
+## FibVLA: An Efficient Temporal Vision-Language-Action Model with Fibonacci Sampling
+- **ID**: arxiv_2607.29596v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29596v1](http://arxiv.org/abs/2607.29596v1)
+
+## WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
+- **ID**: arxiv_2607.29613v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29613v1](http://arxiv.org/abs/2607.29613v1)
+
+## RayViT: Ray-Conditioned Visual Representations for Viewpoint-Robust Imitation Learning
+- **ID**: arxiv_2607.29622v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29622v1](http://arxiv.org/abs/2607.29622v1)
+

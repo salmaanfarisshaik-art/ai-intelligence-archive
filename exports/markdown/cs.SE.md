@@ -1,5 +1,10 @@
 # Cs.Se Export
 
+## RePaCA: Leveraging Reasoning Large Language Models for Static Automated Patch Correctness Assessment
+- **ID**: arxiv_2507.22580v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.22580v2](http://arxiv.org/abs/2507.22580v2)
+
 ## FM-Agent: Scaling Formal Methods to Large Systems via LLM-Based Hoare-Style Reasoning
 - **ID**: arxiv_2604.11556v2
 - **Source**: ArXiv

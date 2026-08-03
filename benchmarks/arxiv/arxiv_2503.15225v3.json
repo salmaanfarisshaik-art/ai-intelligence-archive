@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.15225v3",
+  "schema_version": "1.0",
+  "name": "Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.15225v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.15225v3",
+    "updated": "2026-07-31T17:09:51Z",
+    "published": "2025-03-19T14:03:20Z",
+    "title": "Reproducing Human Individual Motor Signatures: A Data-Driven Approach for Repetitive Motion",
+    "summary": "The deployment of autonomous virtual avatars (in extended reality) and robots in human group activities---such as rehabilitation therapy, sports, and manufacturing---is expected to increase as these technologies become more pervasive. Designing cognitive architectures and control strategies to drive these agents requires realistic models of human motion. Furthermore, recent research has shown that each person exhibits a unique velocity signature, highlighting how individual motor behaviors are both rich in variability and internally consistent. However, existing models only provide simplified descriptions of human motor behavior, hindering the development of effective cognitive architectures. In this work, we first show that motion amplitude provides a useful characterization of individual motor signatures, complementary to existing ones. Then, we propose a fully data-driven approach to generate original one-dimensional motion that captures the unique features of specific individuals, based on long short-term memory neural networks. We validate the architecture using real human data from participants performing spontaneous oscillatory motion. Thorough statistical analyses support that our model reproduces the velocity distribution and amplitude envelopes of the individual it was trained on, while remaining distinct from others.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T17:09:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.15225v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.29684v1",
+  "schema_version": "1.0",
+  "name": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.29684v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.29684v1",
+    "updated": "2026-07-31T17:59:18Z",
+    "published": "2026-07-31T17:59:18Z",
+    "title": "Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark",
+    "summary": "Robust low-light imaging remains challenging for the community. Recent studies have explored fusing Near-Infrared (NIR) with noisy RGB to achieve improved enhancement, yet most methods depend on carefully curated training data pairs, with limited robustness under different scenarios. This paper offers a new perspective for RGB-NIR low-light imaging by incorporating 3D-aware neural modeling. Without using clean RGB supervision, a powerful model can be optimized to implicitly fuse extremely noisy RGB observations with NIR cues in 3D space, effectively recovering clean RGB images. The proposed model obviates the requirement for clean RGB data collection, generalizes across different noise levels. Extensive evaluations on synthetic and real data demonstrate its superiority. Codes available: https://github.com/MyNiuuu/3DarkFusion",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T17:59:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.29684v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

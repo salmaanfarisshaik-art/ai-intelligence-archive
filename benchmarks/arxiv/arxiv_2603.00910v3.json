@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.00910v3",
+  "schema_version": "1.0",
+  "name": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.00910v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IT",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.00910v3",
+    "updated": "2026-07-31T16:56:57Z",
+    "published": "2026-03-01T04:14:15Z",
+    "title": "Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization",
+    "summary": "Layer-wise capacity in large language models is highly non-uniform: some layers contribute disproportionately to loss reduction, whereas others are nearly redundant. Existing layer-scoring methods provide sensitivity estimates but do not give a principled rule for converting those estimates into allocation or pruning decisions under a global hardware budget. We introduce a curvature-aware, MDL-inspired framework built around the layer gain $ζ_k^2=g_k^\\top\\widetilde H_{kk}^{-1}g_k$. This quantity equals twice the maximal decrease predicted by the regularized layer-restricted quadratic model and incorporates inverse local curvature; it is therefore a local surrogate for reducible risk, not a universal dominance claim over gradient-norm scores. After normalizing the gains into scores $q_k$, we formulate two convex programs: one allocates expert slots under diminishing returns, and the other assigns layer-wise pruning ratios while protecting high-score layers. Both continuous programs have unique globally optimal solutions characterized by one dual variable and computable in $O(K\\log(1/\\varepsilon))$ time by bisection. We also prove a quadratic transfer-regret bound: when source and target score vectors differ by at most $δ$, the target surrogate cost of the transferred decision is within $O(δ^2)$ of the target optimum. Experiments on Mistral-7B and Gemma-7B show clear allocation gains in some settings and competitive, though mixed, pruning performance. The framework therefore replaces an empirical score-to-decision heuristic with a budget-feasible optimization procedure whose guarantees apply to the stated continuous surrogates. Code is available on github repo - [TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation](https://github.com/TKAI-LAB-Mali/Curvature-Weighted-Capacity-Allocation.git)",
+    "primary_category": "cs.IT"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T16:56:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.00910v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

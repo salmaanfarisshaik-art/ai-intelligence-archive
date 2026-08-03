@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.29553v1",
+  "schema_version": "1.0",
+  "name": "COntExt: Towards Context-Aware Ontology Extension from Operational Metrics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.29553v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.29553v1",
+    "updated": "2026-07-31T15:46:02Z",
+    "published": "2026-07-31T15:46:02Z",
+    "title": "COntExt: Towards Context-Aware Ontology Extension from Operational Metrics",
+    "summary": "Organizations increasingly define operational metrics in structured, machine-readable formats to monitor systems, processes, and compliance. These metric definitions implicitly encode domain knowledge, such as referencing concepts, properties, and relationships, that often extends what is captured in formal ontologies. Yet the connection between operational metric catalogues and ontological knowledge remains manual, ad-hoc, and labor-intensive. We present COntExt, a framework for context-aware ontology extension that takes structured metric definitions as input and suggests how referenced concepts and properties should be integrated into an existing ontology, utilizing the context of these metrics. The framework defines the extension problem as three sub-tasks: parent class prediction, relation type prediction, and data property assignment. Across four cybersecurity ontologies, we evaluate different algorithms for each task. Our results show that metric-derived context improves the suggestions over ontology-context baselines for relation type prediction and data property assignment. Our work demonstrates that operational metric catalogues are a practical and underexploited source for ontology extension. This work enables organizations to maintain their ontologies at a significantly lower cost than manual engineering.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T15:46:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.29553v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

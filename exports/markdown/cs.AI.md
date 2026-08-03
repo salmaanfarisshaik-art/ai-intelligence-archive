@@ -330,6 +330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.25176v3](http://arxiv.org/abs/2606.25176v3)
 
+## Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents
+- **ID**: arxiv_2606.29495v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29495v2](http://arxiv.org/abs/2606.29495v2)
+
 ## EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures
 - **ID**: arxiv_2606.30219v4
 - **Source**: ArXiv
@@ -784,4 +789,39 @@
 - **ID**: arxiv_2607.28617v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28617v1](http://arxiv.org/abs/2607.28617v1)
+
+## AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction
+- **ID**: arxiv_2607.29549v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29549v1](http://arxiv.org/abs/2607.29549v1)
+
+## COntExt: Towards Context-Aware Ontology Extension from Operational Metrics
+- **ID**: arxiv_2607.29553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29553v1](http://arxiv.org/abs/2607.29553v1)
+
+## LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback
+- **ID**: arxiv_2607.29559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29559v1](http://arxiv.org/abs/2607.29559v1)
+
+## DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat
+- **ID**: arxiv_2607.29577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29577v1](http://arxiv.org/abs/2607.29577v1)
+
+## AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers
+- **ID**: arxiv_2607.29626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29626v1](http://arxiv.org/abs/2607.29626v1)
+
+## Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics
+- **ID**: arxiv_2607.29657v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29657v1](http://arxiv.org/abs/2607.29657v1)
+
+## ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction
+- **ID**: arxiv_2607.29677v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29677v1](http://arxiv.org/abs/2607.29677v1)
 

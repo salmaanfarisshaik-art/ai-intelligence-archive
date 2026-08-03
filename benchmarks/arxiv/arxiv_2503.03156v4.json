@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.03156v4",
+  "schema_version": "1.0",
+  "name": "Dimensionality reduction for homological stability and global structure preservation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.03156v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.03156v4",
+    "updated": "2026-07-31T16:30:17Z",
+    "published": "2025-03-05T03:56:01Z",
+    "title": "Dimensionality reduction for homological stability and global structure preservation",
+    "summary": "We propose DiRe, a force-directed dimensionality reduction framework designed to preserve global structure and homological features while remaining practical on modern hardware. The method combines an initial embedding with a graph-based layout optimization and evaluates the resulting low-dimensional representation using local distortion, context preservation, and persistent homology measures. Across the benchmark suite considered here, DiRe provides a complementary tradeoff to UMAP and tSNE: it is designed less as a purely local visualization heuristic and more as a framework for embeddings whose large-scale geometry can be quantified through Betti curves and persistence diagrams.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T16:30:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.03156v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

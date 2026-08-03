@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.04215v3",
+  "schema_version": "1.0",
+  "name": "Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.04215v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.04215v3",
+    "updated": "2026-07-31T15:51:37Z",
+    "published": "2026-05-05T18:55:24Z",
+    "title": "Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs",
+    "summary": "Diffusion-based Large Language Models (D-LLMs) represent a promising frontier in generative AI, offering fully parallel token generation that can lead to significant throughput advantages and superior GPU utilization over the traditional autoregressive paradigm. However, this parallelism is constrained by the requirement of a fixed-size response length prior to generation. This architectural limitation imposes a severe trade-off: oversized response length results in computational waste on semantically meaningless padding tokens, while undersized response length causes output truncation requiring costly re-computations that introduce unpredictable latency spikes. To tackle this issue, we propose Predict-then-Diffuse, a simple and model-agnostic framework that enables compute-budgeted inference per input query by first estimating the response length and then using it to run inference with D-LLM. At its core lies an Adaptive Response Length Predictor (AdaRLP), which estimates the optimal response length given an input query. As a measure against under-estimating the response length and re-running inference with a higher value, we introduce a data-driven safety mechanism based on a small increase of the predicted length. As a whole, our framework avoids wasting computation on padding tokens, at the same time preserving output quality. Experimental validation on multiple datasets demonstrates that Predict-then-Diffuse significantly reduces computational costs (FLOP) compared to the default D-LLM inference mechanism, while being robust to skewed data distributions.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T15:51:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.04215v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

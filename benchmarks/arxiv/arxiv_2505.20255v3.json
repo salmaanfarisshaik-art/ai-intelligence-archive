@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.20255v3",
+  "schema_version": "1.0",
+  "name": "AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.20255v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.20255v3",
+    "updated": "2026-07-31T17:47:35Z",
+    "published": "2025-05-26T17:32:10Z",
+    "title": "AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models",
+    "summary": "Recent advances in video diffusion models have substantially enhanced character animation techniques. However, existing methods primarily depend on structural conditions, such as DWPose or SMPL-X, to animate character images, which limits their effectiveness in open-domain scenarios involving dynamic backgrounds or complex character-scene interactions. This study presents AniCrafter, a diffusion-based human-centric animation model designed to seamlessly integrate and animate a given character within open-domain dynamic backgrounds while adhering to specified human motion sequences. Built upon advanced Image-to-Video (I2V) diffusion architectures, the model introduces an innovative \"avatar-background\" conditioning mechanism that reformulates open-domain human-centric animation as a restoration problem, thereby achieving versatile, occlusion-aware animation results. Experimental evaluations demonstrate that the proposed approach outperforms current state-of-the-art methods and exhibits an exceptional capability in handling challenging scenarios. Codes and model are available at: https://github.com/MyNiuuu/AniCrafter",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-03T03:21:30Z",
+  "last_updated": "2026-07-31T17:47:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.20255v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
