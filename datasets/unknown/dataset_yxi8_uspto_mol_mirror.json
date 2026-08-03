@@ -1,0 +1,20 @@
+{
+  "_id": "6a624e09f2fe3e8ffbe63253",
+  "id": "yxi8/uspto-mol-mirror",
+  "author": "yxi8",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-23T20:07:47.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "b67e90938cb6815484eda0bff9675f8e3c3f3b7d",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tAn intermediate dataset for US molecular patent grants\n\t\n\nRetrieves patent grant data from USPTO weekly releases bulkdata.uspto.gov/data/patent/grant/redbook/{year} and keeps only patents with .mol files for downstream data mining use cases.\nCompared to existing work such as [https://github.com/learningmatter-mit/PatentChem/tree/main]. We keep all files of a patent grant, especially .til image files. We also share the data as a git lfs repo instead of a single .zip file to allow… See the full description on the dataset page: https://huggingface.co/datasets/yxi8/uspto-mol-mirror.",
+  "downloads": 38639,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2026-07-23T17:23:21.000Z",
+  "key": "",
+  "unique_id": "dataset_yxi8_uspto_mol_mirror",
+  "schema_version": "1.0"
+}

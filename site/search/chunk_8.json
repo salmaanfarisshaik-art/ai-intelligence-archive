@@ -323,6 +323,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_khtao_openmind",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_meta_agents_research_environments_gaia2",
       "match_type": "exact",
       "score": 1.0
@@ -1299,6 +1304,13 @@
       "score": 1.0
     }
   ],
+  "8612": [
+    {
+      "entity_id": "dataset_ipec_community_fmb_dataset_lerobot",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "864": [
     {
       "entity_id": "alpaca_-5870667509508933028",
@@ -1854,6 +1866,16 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_ankitai_parable_qwen3_8b_claude_fable_5_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_bartowski_meta_llama_3_1_8b_instruct_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -1975,6 +1997,11 @@
     },
     {
       "entity_id": "model_nvidia_llama_3_1_8b_instruct_fp8",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_nvidia_qwen3_8b_fp8",
       "match_type": "exact",
       "score": 5.0
     },
@@ -3022,6 +3049,11 @@
     },
     {
       "entity_id": "hf_mlx-community_meta-llama-Llama-4-Scout-17B-16E-8bit",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_cyankiwi_minicpm_sala_awq_8bit",
       "match_type": "exact",
       "score": 2.0
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T06:59:53Z",
+  "generated_at": "2026-08-03T10:48:42Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -487,6 +487,41 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
+      "target_id": "hf_AnkitAI_parable-corpus-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
+      "target_id": "hf_Glint-Research_Fable-5-traces",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
+      "target_id": "hf_Roman1111111_gpt5.5-terminal",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
+      "target_id": "hf_ibm-granite_granite-4.1-3b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf",
+      "target_id": "hf_Glint-Research_Fable-5-traces",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf",
+      "target_id": "hf_Roman1111111_gpt5.5-terminal",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_granite_4_1_8b_claude_fable_5_gguf",
+      "target_id": "hf_ibm-granite_granite-4.1-8b",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
       "target_id": "hf_Glint-Research_Fable-5-traces",
       "type": "trained_on"
@@ -498,6 +533,21 @@
     },
     {
       "source_id": "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
+      "target_id": "hf_Roman1111111_gpt5.5-terminal",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_qwen3_8b_claude_fable_5_gguf",
+      "target_id": "hf_Glint-Research_Fable-5-traces",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ankitai_parable_qwen3_8b_claude_fable_5_gguf",
+      "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ankitai_parable_qwen3_8b_claude_fable_5_gguf",
       "target_id": "hf_Roman1111111_gpt5.5-terminal",
       "type": "trained_on"
     },
@@ -1142,6 +1192,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_cyankiwi_minicpm_sala_awq_8bit",
+      "target_id": "hf_openbmb_MiniCPM-SALA",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_cyankiwi_minimax_m2_5_awq_4bit",
       "target_id": "hf_MiniMaxAI_MiniMax-M2.5",
       "type": "derived_from"
@@ -1660,6 +1715,11 @@
       "source_id": "model_eleutherai_pythia_70m_deduped",
       "target_id": "hf_EleutherAI_the_pile_deduplicated",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
+      "target_id": "hf_coder3101_gemma-4-26B-A4B-it-heretic",
+      "type": "derived_from"
     },
     {
       "source_id": "model_empero_ai_qwythos_9b_claude_mythos_5_1m",
@@ -4667,6 +4727,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_qwen3_8b_fp8",
+      "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_qwen3_8b_nvfp4",
       "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
@@ -6315,6 +6380,26 @@
       "source_id": "model_tobil_qmd_query_expansion_1_7b_gguf",
       "target_id": "hf_Qwen_Qwen3-1.7B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
+      "target_id": "hf_tokyotech-llm_Swallow-Nemotron-Post-Training-Dataset-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
+      "target_id": "hf_tokyotech-llm_lmsys-chat-1m-synth",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
+      "target_id": "hf_tokyotech-llm_swallow-code-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
+      "target_id": "hf_tokyotech-llm_swallow-math-v2",
+      "type": "trained_on"
     },
     {
       "source_id": "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated",

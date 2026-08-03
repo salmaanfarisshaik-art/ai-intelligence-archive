@@ -12968,6 +12968,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nveagle_locateanything_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_openai_openai_humaneval",
       "match_type": "exact",
       "score": 1.0
@@ -19180,6 +19185,11 @@
     },
     {
       "entity_id": "alpaca_1287338470925130390",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_khtao_openmind",
       "match_type": "exact",
       "score": 2.0
     },
@@ -27125,6 +27135,11 @@
     },
     {
       "entity_id": "model_pfnet_plamo_3_nict_2b_base",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -50924,6 +50939,11 @@
   ],
   "ng": [
     {
+      "entity_id": "dataset_manhcuong2005_vietnam_medical_noise_dataset",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "dataset_legacy_datasets_wikipedia",
       "match_type": "exact",
       "score": 1.5
@@ -51099,6 +51119,13 @@
   "nguyenvulebinh": [
     {
       "entity_id": "model_nguyenvulebinh_av_hubert_muavic_en",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "nh": [
+    {
+      "entity_id": "dataset_manhcuong2005_vietnam_medical_noise_dataset",
       "match_type": "exact",
       "score": 2.0
     }
@@ -53795,6 +53822,11 @@
   "niklastr": [
     {
       "entity_id": "dataset_niklastr_microsolvated_peptides",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_niklastr_vacuum_peptides",
       "match_type": "exact",
       "score": 1.0
     }
@@ -59681,6 +59713,11 @@
       "entity_id": "alpaca_-7666056342573436548",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "dataset_manhcuong2005_vietnam_medical_noise_dataset",
+      "match_type": "exact",
+      "score": 4.0
     },
     {
       "entity_id": "dataset_tanganke_stanford_cars",
@@ -83245,6 +83282,13 @@
       "score": 1.0
     }
   ],
+  "nveagle": [
+    {
+      "entity_id": "dataset_nveagle_locateanything_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "nvfp4": [
     {
       "entity_id": "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf",
@@ -84277,6 +84321,11 @@
     },
     {
       "entity_id": "model_nvidia_qwen3_6_35b_a3b_nvfp4",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_nvidia_qwen3_8b_fp8",
       "match_type": "exact",
       "score": 3.5
     },

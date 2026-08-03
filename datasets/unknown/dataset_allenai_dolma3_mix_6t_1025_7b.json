@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2ca900fbe14e86c5c83d064d9f0882f1c0b8c05b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t⚠️ WARNING: This dataset is intended ONLY for reproducing Olmo 3 7B ⚠️\n\t\n\nFor all other training use cases, including training from scratch, please utilize our primary dolma 3 data mix: https://huggingface.co/datasets/allenai/dolma3_mix-6T.\nNote: Some olmOCR science PDFs in the current dataset have been redacted following the training of Olmo 3 7B. These texts are indicated with [REMOVED] in the text field. This will affect reproducibility of Olmo 3 7B. \nFor this reason, please use… See the full description on the dataset page: https://huggingface.co/datasets/allenai/dolma3_mix-6T-1025-7B.",
-  "downloads": 215995,
+  "downloads": 215368,
   "tags": [
     "task_categories:text-generation",
     "language:en",

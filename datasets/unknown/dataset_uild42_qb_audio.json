@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5f7bce1e0e5473323fd4e614a51a49657fc501eb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tqb-audio — read-aloud audio for quizbowl questions\n\t\n\nTTS read-aloud recordings of quizbowl questions from\nqbreader, one Opus file per tossup / bonus.\nBuilt so any quizbowl app can add listening practice over plain HTTP — no\ninstall, no API key. Generation is in progress (July 2026); the dataset\ngrows as the run proceeds.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\ntossups/{qid[-2:]}/{qid}.opus, bonuses/{qid[-2:]}/{qid}.opus — audio,\nOpus 24 kHz mono. qid is the question's qbreader _id; files shard by… See the full description on the dataset page: https://huggingface.co/datasets/uild42/qb-audio.",
-  "downloads": 41841,
+  "downloads": 41842,
   "tags": [
     "language:en",
     "license:other",

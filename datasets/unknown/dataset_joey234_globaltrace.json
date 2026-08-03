@@ -9,7 +9,7 @@
   "private": false,
   "sha": "28bfefe82f86315d65f0496312cd3712b0891e6f",
   "description": "\n\t\n\t\t\n\t\tGlobalTrace\n\t\n\nGlobalTrace is a benchmark of GPS trajectories drawn from 73 cities/regions across the world, with masked-segment annotations for evaluating trajectory reconstruction methods. Three masking strategies are provided per trajectory: destination, large_gap, and simple_interpolation (200m gap target).\n\n\t\n\t\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nSplit\nCities\nTrajectories\n\n\n\t\t\ntrain\n44\n8,815\n\n\nvalidation\n10\n1,787\n\n\ntest\n19\n1,707\n\n\n\t\n\nThe validation/test splits are held out for evaluation; the test… See the full description on the dataset page: https://huggingface.co/datasets/joey234/globaltrace.",
-  "downloads": 37221,
+  "downloads": 36565,
   "tags": [
     "task_categories:other",
     "language:en",
