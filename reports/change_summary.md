@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 93
+**Total Changes:** 87
 
 ## Added
 None
@@ -8,37 +8,32 @@ None
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
-- datasets/applied-ai-018/hf_ds_66a9fba22c7c3ebdd7de3d33.json
 - datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- datasets/mlfoundations/hf_ds_66708709d5c5d8fd8db3a5cf.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
-- exports/json/datasets.json
-- exports/json/models.json
 - exports/markdown/dataset.md
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepreinforce-ai/hf_deepreinforce-ai_Ornith-1.0-9B-GGUF.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -49,7 +44,6 @@ None
 - reports/integrity_status.json
 - reports/project_status.json
 - reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json

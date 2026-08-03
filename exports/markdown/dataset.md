@@ -794,7 +794,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
