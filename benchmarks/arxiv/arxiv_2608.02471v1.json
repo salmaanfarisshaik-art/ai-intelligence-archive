@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.02471v1",
+  "schema_version": "1.0",
+  "name": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.02471v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.02471v1",
+    "updated": "2026-08-03T16:38:47Z",
+    "published": "2026-08-03T16:38:47Z",
+    "title": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+    "summary": "Computational attention models could help surgeons manage the visual demands of laparoscopy, but they require dense spatial labels that are difficult to obtain because surgical intent is highly specialized and tacit. Here, we introduce DiffeoAfford, an action-grounded tissue affordance framework that retrospectively derives visual attention supervision from completed surgical procedures. By combining diffeomorphism-constrained tissue tracking with instrument trajectory analysis, DiffeoAfford generates affordance hotspot labels without manual per-frame annotation. A real-time prediction model trained on these labels anticipates relevant surgical regions and enables AffordView, an assistive auto-framing system for laparoscopic visualization. The proposed framework aligns with expert annotations and intraoperative surgeon gaze, and reduces surgeon cognitive workload during real-world evaluations using subjective, physiological, and behavioral measures.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-04T04:12:48Z",
+  "last_updated": "2026-08-03T16:38:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.02471v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -760,6 +760,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28503v1](http://arxiv.org/abs/2607.28503v1)
 
+## InfoOps Bench: A live information operations safety benchmark
+- **ID**: arxiv_2607.28503v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28503v2](http://arxiv.org/abs/2607.28503v2)
+
 ## Selective Credibility-Limited Belief Update
 - **ID**: arxiv_2607.28523v1
 - **Source**: ArXiv
@@ -824,4 +829,44 @@
 - **ID**: arxiv_2607.29677v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29677v1](http://arxiv.org/abs/2607.29677v1)
+
+## Real-Time Detection and Repair of LLM Agent Failures
+- **ID**: arxiv_2608.02464v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02464v1](http://arxiv.org/abs/2608.02464v1)
+
+## Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions
+- **ID**: arxiv_2608.02491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02491v1](http://arxiv.org/abs/2608.02491v1)
+
+## CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization
+- **ID**: arxiv_2608.02502v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02502v1](http://arxiv.org/abs/2608.02502v1)
+
+## Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation
+- **ID**: arxiv_2608.02505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02505v1](http://arxiv.org/abs/2608.02505v1)
+
+## Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies
+- **ID**: arxiv_2608.02509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02509v1](http://arxiv.org/abs/2608.02509v1)
+
+## Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation
+- **ID**: arxiv_2608.02518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02518v1](http://arxiv.org/abs/2608.02518v1)
+
+## A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI
+- **ID**: arxiv_2608.02553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02553v1](http://arxiv.org/abs/2608.02553v1)
+
+## AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies
+- **ID**: arxiv_2608.02569v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02569v1](http://arxiv.org/abs/2608.02569v1)
 

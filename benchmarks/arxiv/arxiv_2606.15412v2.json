@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15412v2",
+  "schema_version": "1.0",
+  "name": "Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15412v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15412v2",
+    "updated": "2026-08-03T16:48:53Z",
+    "published": "2026-06-13T17:37:50Z",
+    "title": "Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?",
+    "summary": "Biomedical relation extraction (BioRE) is a key step in transforming biomedical literature into structured knowledge. Most existing approaches rely on supervised models trained on costly annotated datasets, limiting their scalability and adaptability across relation types and domains. We investigate few-shot BioRE using prompt-based learning with large language models (LLMs) and compare two task formulations: pairwise classification, which predicts relations for individual entity pairs, and joint generation, which extracts multiple relations in a single model call. Experiments on the BioREDirect dataset reveal a clear precision-recall trade-off. Pairwise classification achieves higher recall, whereas joint generation is more precise and computationally efficient. The best-performing model achieves a micro-F1 score of 0.44, substantially outperforming previous few-shot results (0.34) while remaining below the supervised baseline (0.56). Much of this gap is attributable to a single ambiguously defined relation type. When evaluated using macro-F1, which better captures performance across relation types in an imbalanced setting, prompt-based approaches outperform the supervised baseline (0.45 vs. 0.38), particularly on rare relation types. These findings highlight the potential of LLMs for BioRE in low-resource settings and underscore the importance of well-defined relation schemas.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-04T04:12:48Z",
+  "last_updated": "2026-08-03T16:48:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15412v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

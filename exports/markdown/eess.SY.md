@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18147v1](http://arxiv.org/abs/2607.18147v1)
 
+## Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
+- **ID**: arxiv_2608.02599v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02599v1](http://arxiv.org/abs/2608.02599v1)
+

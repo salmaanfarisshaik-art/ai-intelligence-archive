@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.18164v2",
+  "schema_version": "1.0",
+  "name": "CDG-MAE: Cross-view Masked Modeling using Diffusion Generated Views",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.18164v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.18164v2",
+    "updated": "2026-08-03T17:42:54Z",
+    "published": "2025-06-22T20:40:11Z",
+    "title": "CDG-MAE: Cross-view Masked Modeling using Diffusion Generated Views",
+    "summary": "Cross-view masked autoencoding has emerged as a powerful pretext task for learning dense correspondences, which are essential for applications such as video label propagation. The cross-view pretext task is modeled with a masked autoencoder, where a masked target view is reconstructed from an anchor view. However, acquiring effective training data remains a challenge - collecting diverse video datasets is costly, while simple image crops lack the necessary pose variations, underperforming video-based methods. This paper introduces CDG-MAE, a novel MAE-based self-supervised method that uses diverse synthetic views generated from static images via an image-conditioned diffusion model. We present a quantitative method to evaluate the local and global consistency of the generated views to choose the right diffusion model for cross-view self-supervised pretraining. These generated views exhibit substantial changes in pose and perspective, providing a rich training signal that overcomes the limitations of video and crop-based anchors. Furthermore, we enhance the standard single-anchor MAE setting to a multi-anchor masking strategy to increase the difficulty of the pretext task. CDG-MAE substantially narrows the gap to video-based MAE methods, while maintaining the data advantages of image-only MAEs.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-04T04:12:48Z",
+  "last_updated": "2026-08-03T17:42:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.18164v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

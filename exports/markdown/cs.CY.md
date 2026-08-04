@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29624v1](http://arxiv.org/abs/2607.29624v1)
 
+## Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation
+- **ID**: arxiv_2608.02551v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02551v1](http://arxiv.org/abs/2608.02551v1)
+

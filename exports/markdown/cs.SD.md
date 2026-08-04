@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.23667v3](http://arxiv.org/abs/2603.23667v3)
 
+## AST: Adaptive, Seamless, and Training-Free Precise Speech Editing
+- **ID**: arxiv_2604.16056v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16056v2](http://arxiv.org/abs/2604.16056v2)
+
 ## Towards Data-free and Training-free Compression for Speech Foundation Models Using Parameter Clustering
 - **ID**: arxiv_2606.11836v2
 - **Source**: ArXiv

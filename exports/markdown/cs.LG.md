@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.14549v3](http://arxiv.org/abs/2503.14549v3)
 
+## Understanding Machine Unlearning Through the Lens of Mode Connectivity
+- **ID**: arxiv_2504.06407v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.06407v2](http://arxiv.org/abs/2504.06407v2)
+
 ## Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
 - **ID**: arxiv_2505.18934v2
 - **Source**: ArXiv
@@ -519,4 +524,24 @@
 - **ID**: arxiv_2607.29621v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29621v1](http://arxiv.org/abs/2607.29621v1)
+
+## RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States
+- **ID**: arxiv_2608.02508v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02508v1](http://arxiv.org/abs/2608.02508v1)
+
+## Analytic Planning under Uncertainty with Moment Closure
+- **ID**: arxiv_2608.02519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02519v1](http://arxiv.org/abs/2608.02519v1)
+
+## Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection
+- **ID**: arxiv_2608.02560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02560v1](http://arxiv.org/abs/2608.02560v1)
+
+## GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
+- **ID**: arxiv_2608.02585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02585v1](http://arxiv.org/abs/2608.02585v1)
 

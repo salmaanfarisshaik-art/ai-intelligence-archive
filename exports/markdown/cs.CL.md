@@ -110,6 +110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.22216v2](http://arxiv.org/abs/2603.22216v2)
 
+## StoryScope: Investigating idiosyncrasies in AI fiction
+- **ID**: arxiv_2604.03136v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.03136v5](http://arxiv.org/abs/2604.03136v5)
+
 ## ClawBench: Can AI Agents Complete Everyday Online Tasks?
 - **ID**: arxiv_2604.08523v2
 - **Source**: ArXiv
@@ -130,10 +135,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21370v2](http://arxiv.org/abs/2604.21370v2)
 
+## When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models
+- **ID**: arxiv_2605.00817v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00817v4](http://arxiv.org/abs/2605.00817v4)
+
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.12227v2](http://arxiv.org/abs/2605.12227v2)
+
+## Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language
+- **ID**: arxiv_2605.15607v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15607v2](http://arxiv.org/abs/2605.15607v2)
 
 ## Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs
 - **ID**: arxiv_2605.21027v2
@@ -280,6 +295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14694v2](http://arxiv.org/abs/2606.14694v2)
 
+## Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?
+- **ID**: arxiv_2606.15412v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15412v2](http://arxiv.org/abs/2606.15412v2)
+
 ## IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset
 - **ID**: arxiv_2606.16910v1
 - **Source**: ArXiv
@@ -424,6 +444,11 @@
 - **ID**: arxiv_2607.00848v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00848v2](http://arxiv.org/abs/2607.00848v2)
+
+## MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors
+- **ID**: arxiv_2607.00848v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00848v3](http://arxiv.org/abs/2607.00848v3)
 
 ## Will Scaling Improve Social Simulation with LLMs?
 - **ID**: arxiv_2607.02464v2
@@ -634,6 +659,11 @@
 - **ID**: arxiv_2607.20349v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20349v1](http://arxiv.org/abs/2607.20349v1)
+
+## Generative AI floods and dilutes the market for books
+- **ID**: arxiv_2607.20349v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20349v3](http://arxiv.org/abs/2607.20349v3)
 
 ## Notes to Self: Can LLMs Benefit from Experiential Abstractions?
 - **ID**: arxiv_2607.20372v1
@@ -849,4 +879,39 @@
 - **ID**: arxiv_2607.29678v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29678v1](http://arxiv.org/abs/2607.29678v1)
+
+## TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving
+- **ID**: arxiv_2607.29678v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29678v2](http://arxiv.org/abs/2607.29678v2)
+
+## CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs
+- **ID**: arxiv_2608.02472v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02472v1](http://arxiv.org/abs/2608.02472v1)
+
+## Cultural Awareness is Represented but Not Decoded: Tracing Mythological Knowledge across 18 Open-Source LLMs
+- **ID**: arxiv_2608.02486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02486v1](http://arxiv.org/abs/2608.02486v1)
+
+## LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference
+- **ID**: arxiv_2608.02515v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02515v1](http://arxiv.org/abs/2608.02515v1)
+
+## MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs
+- **ID**: arxiv_2608.02520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02520v1](http://arxiv.org/abs/2608.02520v1)
+
+## Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation
+- **ID**: arxiv_2608.02555v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02555v1](http://arxiv.org/abs/2608.02555v1)
+
+## AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling
+- **ID**: arxiv_2608.02602v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02602v1](http://arxiv.org/abs/2608.02602v1)
 

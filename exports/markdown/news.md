@@ -1081,6 +1081,11 @@
 - **URL**: [https://openai.com/index/choco](https://openai.com/index/choco)
 
 ## 
+- **ID**: rss_https://openai.com/index/circles
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/circles](https://openai.com/index/circles)
+
+## 
 - **ID**: rss_https://openai.com/index/cisco
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cisco](https://openai.com/index/cisco)

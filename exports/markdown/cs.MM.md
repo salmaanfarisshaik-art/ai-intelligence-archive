@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22494v1](http://arxiv.org/abs/2607.22494v1)
 
+## Estimating SSIM from MSE for DCT-Based Compressed Images
+- **ID**: arxiv_2608.02549v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02549v1](http://arxiv.org/abs/2608.02549v1)
+

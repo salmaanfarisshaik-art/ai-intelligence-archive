@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.28503v2",
+  "schema_version": "1.0",
+  "name": "InfoOps Bench: A live information operations safety benchmark",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.28503v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.28503v2",
+    "updated": "2026-08-03T16:39:55Z",
+    "published": "2026-07-30T16:46:13Z",
+    "title": "InfoOps Bench: A live information operations safety benchmark",
+    "summary": "In this paper we present an active, constantly updated AI benchmark which measures the integrity of frontier language models against being co-opted for state-backed information operations. We draw on over 2,100 information operations from a live monitoring pipeline which tracks Russian, Chinese and Iranian state-backed information assets. Alongside this paper, we release a companion website that tracks the most prominent claims spread by state-backed media outlets, updated weekly. The dynamic nature of the benchmark makes it resistant to saturation. In the benchmark, we test 17 models from 8 providers across four prompt framings. We find that most models can be co-opted for information operations. Integrity scores, defined as the percentage of refused requests, range from 8.8% to 94.5%, an 85.7-percentage-point spread not explained by model size. Model choice also changes the character of the resulting operation. Some models fabricate details and produce output more harmful than the source material, others defuse claims even while complying, and fact-checking rates vary from 2.9% to 72.9%. Integrity against information operations is at least partly related to refusal to produce content even for benign claims, illustrating the challenge of balancing model usability with safety. With one exception (Z ai's GLM 5.2), the Chinese-developed models sharply cut compliance on factually grounded but China-critical claims, dropping 48-70 percentage points relative to matched benign claims.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-04T04:12:48Z",
+  "last_updated": "2026-08-03T16:39:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.28503v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

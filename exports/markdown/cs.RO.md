@@ -185,3 +185,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29622v1](http://arxiv.org/abs/2607.29622v1)
 
+## CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
+- **ID**: arxiv_2608.02578v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02578v1](http://arxiv.org/abs/2608.02578v1)
+

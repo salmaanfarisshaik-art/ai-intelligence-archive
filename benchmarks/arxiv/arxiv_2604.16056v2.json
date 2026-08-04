@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.16056v2",
+  "schema_version": "1.0",
+  "name": "AST: Adaptive, Seamless, and Training-Free Precise Speech Editing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.16056v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.16056v2",
+    "updated": "2026-08-03T16:51:20Z",
+    "published": "2026-04-17T13:30:59Z",
+    "title": "AST: Adaptive, Seamless, and Training-Free Precise Speech Editing",
+    "summary": "Text-based speech editing aims to modify specific segments while preserving speaker identity and acoustic context. Current approaches generally involve either expensive task-specific training or adapting pre-trained Text-to-Speech (TTS) models. However, both paradigms face challenges: task-specific methods often degrade fidelity in unedited regions, whereas TTS adaptations struggle with a trade-off between editing naturalness and temporal fidelity. To address these issues, we propose AST, an Adaptive, Seamless, and Training-free speech editing framework. Built upon pre-trained TTS, AST leverages Latent Recomposition to stitch preserved source segments with synthesized targets, guaranteeing fidelity in unedited regions. To break the quality-controllability trade-off, we introduce Adaptive Weak Fact Guidance (AWFG), which modulates a mel-space signal to ensure seamless boundary transitions without disrupting the generative manifold. Furthermore, to address evaluation gaps in temporal fidelity, we propose a new benchmark suite: the LibriSpeech-Edit dataset and a novel metric, Word-level Dynamic Time Warping (WDTW). Extensive experiments demonstrate that AST consistently outperforms existing task-specific and fine-tuned speech editing methods across content accuracy, perceptual quality, speaker preservation, and temporal fidelity. Remarkably, AST achieves state-of-the-art zero-shot speech editing performance without any task-specific training or paired editing data, validating the effectiveness of latent recomposition and AWFG in bridging the quality-controllability trade-off.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-08-04T04:12:48Z",
+  "last_updated": "2026-08-03T16:51:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.16056v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

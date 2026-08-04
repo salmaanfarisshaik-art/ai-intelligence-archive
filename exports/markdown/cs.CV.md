@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.13553v4](http://arxiv.org/abs/2506.13553v4)
 
+## CDG-MAE: Cross-view Masked Modeling using Diffusion Generated Views
+- **ID**: arxiv_2506.18164v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.18164v2](http://arxiv.org/abs/2506.18164v2)
+
 ## TDiR: Transformer based Diffusion for Image Restoration Tasks
 - **ID**: arxiv_2506.20302v2
 - **Source**: ArXiv
@@ -170,6 +175,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05582v3](http://arxiv.org/abs/2602.05582v3)
 
+## Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation
+- **ID**: arxiv_2602.10880v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.10880v2](http://arxiv.org/abs/2602.10880v2)
+
 ## VideoSketcher: Sequential Sketch Generation Using Video Model Priors
 - **ID**: arxiv_2602.15819v2
 - **Source**: ArXiv
@@ -199,6 +209,11 @@
 - **ID**: arxiv_2603.21809v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21809v2](http://arxiv.org/abs/2603.21809v2)
+
+## Hierarchical Pre-Training of Vision Encoders with Large Language Model
+- **ID**: arxiv_2604.00086v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00086v2](http://arxiv.org/abs/2604.00086v2)
 
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
@@ -1489,4 +1504,69 @@
 - **ID**: arxiv_2607.29684v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29684v1](http://arxiv.org/abs/2607.29684v1)
+
+## ISRS-DETR: Detection-Guided Click Propagation for Remote Sensing Interactive Segmentation
+- **ID**: arxiv_2608.02468v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02468v1](http://arxiv.org/abs/2608.02468v1)
+
+## Calibrated Similarity and Graph Clustering for Open-Set Animal Re-Identification
+- **ID**: arxiv_2608.02469v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02469v1](http://arxiv.org/abs/2608.02469v1)
+
+## Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment
+- **ID**: arxiv_2608.02470v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02470v1](http://arxiv.org/abs/2608.02470v1)
+
+## Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery
+- **ID**: arxiv_2608.02471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02471v1](http://arxiv.org/abs/2608.02471v1)
+
+## EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation
+- **ID**: arxiv_2608.02474v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02474v1](http://arxiv.org/abs/2608.02474v1)
+
+## Fermat Active Laplace Learning for Semi-Supervised Hyperspectral Image Classification
+- **ID**: arxiv_2608.02483v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02483v1](http://arxiv.org/abs/2608.02483v1)
+
+## DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation
+- **ID**: arxiv_2608.02495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02495v1](http://arxiv.org/abs/2608.02495v1)
+
+## Token Radius Attention for Efficient Video Generation
+- **ID**: arxiv_2608.02504v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02504v1](http://arxiv.org/abs/2608.02504v1)
+
+## ReMiX-MAE: Learning Missing-Channel Cross-Modal Representations from RGB-Only Clinical Facial Videos for Sympathetic-Mediated Pain Assessment
+- **ID**: arxiv_2608.02561v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02561v1](http://arxiv.org/abs/2608.02561v1)
+
+## UEmbed: Unified Sparse and Dense Multimodal Embeddings
+- **ID**: arxiv_2608.02583v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02583v1](http://arxiv.org/abs/2608.02583v1)
+
+## CAPEval: A Decoupled Caption Evaluation across Understanding and Generation
+- **ID**: arxiv_2608.02589v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02589v1](http://arxiv.org/abs/2608.02589v1)
+
+## VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification
+- **ID**: arxiv_2608.02598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02598v1](http://arxiv.org/abs/2608.02598v1)
+
+## WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity
+- **ID**: arxiv_2608.02603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02603v1](http://arxiv.org/abs/2608.02603v1)
 

@@ -105,3 +105,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28591v1](http://arxiv.org/abs/2607.28591v1)
 
+## SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
+- **ID**: arxiv_2608.02499v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02499v1](http://arxiv.org/abs/2608.02499v1)
+
