@@ -1676,6 +1676,10 @@
 - **ID**: model_jackfram_llama_68m
 - **Source**: 
 
+## Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF
+- **ID**: model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf
+- **Source**: 
+
 ## Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GGUF
 - **ID**: model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf
 - **Source**: 
@@ -2700,6 +2704,10 @@
 - **ID**: model_mixedbread_ai_mxbai_rerank_large_v2
 - **Source**: 
 
+## MJPansa/DeepSeek-V4-Flash-0731-NVFP4
+- **ID**: model_mjpansa_deepseek_v4_flash_0731_nvfp4
+- **Source**: 
+
 ## mlabonne/Qwen3-30B-A3B-abliterated
 - **ID**: model_mlabonne_qwen3_30b_a3b_abliterated
 - **Source**: 
@@ -2770,6 +2778,10 @@
 
 ## mlx-community/Qwen3.5-9B-OptiQ-4bit
 - **ID**: model_mlx_community_qwen3_5_9b_optiq_4bit
+- **Source**: 
+
+## mlx-community/Qwen3-8B-4bit
+- **ID**: model_mlx_community_qwen3_8b_4bit
 - **Source**: 
 
 ## mmangkad/Qwen3.6-35B-A3B-NVFP4
@@ -3696,6 +3708,10 @@
 - **ID**: model_qwen_qwen2_5_72b_instruct_awq
 - **Source**: 
 
+## Qwen/Qwen2.5-72B-Instruct-GPTQ-Int4
+- **ID**: model_qwen_qwen2_5_72b_instruct_gptq_int4
+- **Source**: 
+
 ## Qwen/Qwen2.5-7B
 - **ID**: model_qwen_qwen2_5_7b
 - **Source**: 
@@ -4468,6 +4484,10 @@
 - **ID**: model_state_spaces_mamba_790m_hf
 - **Source**: 
 
+## stefanruseti/newsvibe-categories-multilingual-llama-1b
+- **ID**: model_stefanruseti_newsvibe_categories_multilingual_llama_1b
+- **Source**: 
+
 ## stelterlab/Mistral-Small-24B-Instruct-2501-AWQ
 - **ID**: model_stelterlab_mistral_small_24b_instruct_2501_awq
 - **Source**: 
@@ -4690,6 +4710,10 @@
 
 ## trl-internal-testing/dummy-GPT2-correct-vocab
 - **ID**: model_trl_internal_testing_dummy_gpt2_correct_vocab
+- **Source**: 
+
+## trl-internal-testing/small-Qwen3ForCausalLM
+- **ID**: model_trl_internal_testing_small_qwen3forcausallm
 - **Source**: 
 
 ## trl-internal-testing/tiny-BloomForCausalLM
