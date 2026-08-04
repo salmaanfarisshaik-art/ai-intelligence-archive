@@ -1,49 +1,33 @@
 # Change Summary
 
-**Total Changes:** 85
+**Total Changes:** 71
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_learn-teach-chatgpt-work-codex.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/rajpurkar/hf_ds_621ffdd236468d709f181f95.json
-- exports/csv/all_entities.csv
-- exports/csv/models.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/models.json
-- exports/json/news.json
-- exports/markdown/models.md
-- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/ibm-granite/hf_ibm-granite_granite-4.1-8b.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
 - models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/zai-org/hf_zai-org_GLM-5.2-FP8.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -67,6 +51,7 @@
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
+- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_575340621.json
@@ -74,7 +59,9 @@
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
