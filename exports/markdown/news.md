@@ -5261,6 +5261,11 @@
 - **URL**: [https://openai.com/index/thinking-with-images](https://openai.com/index/thinking-with-images)
 
 ## 
+- **ID**: rss_https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/third-party-cyber-evaluations-involving-openai-models](https://openai.com/index/third-party-cyber-evaluations-involving-openai-models)
+
+## 
 - **ID**: rss_https://openai.com/index/third-person-imitation-learning
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/third-person-imitation-learning](https://openai.com/index/third-person-imitation-learning)
