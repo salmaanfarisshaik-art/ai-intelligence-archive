@@ -10,7 +10,7 @@
   "sha": "0ae2454140a2d6864475c83f26e6dc9cd4ab9ce4",
   "citation": "@inproceedings{karpukhin-etal-2020-dense,\n    title = \"Dense Passage Retrieval for Open-Domain Question Answering\",\n    author = \"Karpukhin, Vladimir and Oguz, Barlas and Min, Sewon and Lewis, Patrick and Wu, Ledell and Edunov, Sergey and Chen, Danqi and Yih, Wen-tau\",\n    booktitle = \"Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)\",\n    month = nov,\n    year = \"2020\",\n    address = \"Online\",\n    publisher = \"Association for Computational Linguistics\",\n    url = \"https://www.aclweb.org/anthology/2020.emnlp-main.550\",\n    doi = \"10.18653/v1/2020.emnlp-main.550\",\n    pages = \"6769--6781\",\n}",
   "description": "This is the wikipedia split used to evaluate the Dense Passage Retrieval (DPR) model.\nIt contains 21M passages from wikipedia along with their DPR embeddings.\nThe wikipedia articles were split into multiple, disjoint text blocks of 100 words as passages.",
-  "downloads": 94800,
+  "downloads": 94272,
   "tags": [
     "task_categories:fill-mask",
     "task_categories:text-generation",

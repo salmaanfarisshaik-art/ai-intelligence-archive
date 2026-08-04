@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f35cf5078b044d8d753a013484020f987fc9273c",
   "description": "--\n\n\t\n\t\t\n\t\tDataset Card for DiTEC-WDN\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nDiTEC-WDN Dataset consists of 36 Water Distribution Networks (WDNs). Each network has unique 1,000 scenarios with distinct characteristics.\nScenario represents a timeseries of directed shared-topology graphs, referred to as states or snapshots. In terms of graph-ml, it can be seen as a spatiotemporal graph where nodes and edges are multivariate time series. \nA node can represent a reservoir, junction, or tank, while an edge… See the full description on the dataset page: https://huggingface.co/datasets/rugds/ditec-wdn.",
-  "downloads": 33682,
+  "downloads": 32558,
   "tags": [
     "task_categories:graph-ml",
     "task_categories:time-series-forecasting",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3a51344839ec620dd3b753e0945bdf6c7e37af3e",
   "description": "\n  STS12\n  An MTEB dataset\n  Massive Text Embedding Benchmark\n\n\nSemEval-2012 Task 6.\n\n\t\n\t\t\n\n\n\n\n\t\t\nTask category\nt2t\n\n\nDomains\nEncyclopaedic, News, Written\n\n\nReference\nhttps://www.aclweb.org/anthology/S12-1051.pdf\n\n\n\t\n\n\n\t\n\t\t\n\t\tHow to evaluate on this task\n\t\n\nYou can evaluate an embedding model on this dataset using the following code:\nimport mteb\n\ntask = mteb.get_tasks([\"STS12\"])\nevaluator = mteb.MTEB(task)\n\nmodel = mteb.get_model(YOUR_MODEL)\nevaluator.run(model)\n\n\nTo learn more about how to… See the full description on the dataset page: https://huggingface.co/datasets/mteb/sts12-sts.",
-  "downloads": 44237,
+  "downloads": 45377,
   "tags": [
     "task_categories:sentence-similarity",
     "task_ids:semantic-similarity-scoring",

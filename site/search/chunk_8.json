@@ -362,6 +362,13 @@
       "score": 1.0
     }
   ],
+  "8000x": [
+    {
+      "entity_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "800k": [
     {
       "entity_id": "dataset_allenai_objaverse",
@@ -1987,6 +1994,11 @@
     },
     {
       "entity_id": "model_meta_llama_llama_guard_3_8b",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_mlx_community_qwen3_8b_4bit",
       "match_type": "exact",
       "score": 5.0
     },
