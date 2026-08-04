@@ -721,6 +721,11 @@
 - **URL**: [https://openai.com/index/api-prompt-caching](https://openai.com/index/api-prompt-caching)
 
 ## 
+- **ID**: rss_https://openai.com/index/apple-is-getting-this-wrong
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/apple-is-getting-this-wrong](https://openai.com/index/apple-is-getting-this-wrong)
+
+## 
 - **ID**: rss_https://openai.com/index/approach-to-data-and-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/approach-to-data-and-ai](https://openai.com/index/approach-to-data-and-ai)
