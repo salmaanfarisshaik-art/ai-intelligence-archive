@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T13:02:46Z",
+  "generated_at": "2026-08-04T16:14:02Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2434,6 +2434,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_230m_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-230M",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm2_5_2_6b",
+      "target_id": "hf_LiquidAI_LFM2.5-2.6B-Base",
       "type": "derived_from"
     },
     {
