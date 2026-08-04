@@ -1884,6 +1884,10 @@
 - **ID**: model_liquidai_lfm2_5_230m_gguf
 - **Source**: 
 
+## LiquidAI/LFM2.5-2.6B
+- **ID**: model_liquidai_lfm2_5_2_6b
+- **Source**: 
+
 ## LiquidAI/LFM2.5-350M
 - **ID**: model_liquidai_lfm2_5_350m
 - **Source**: 

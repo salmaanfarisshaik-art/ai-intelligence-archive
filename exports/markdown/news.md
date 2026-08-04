@@ -3331,6 +3331,11 @@
 - **URL**: [https://openai.com/index/leadership-updates-march-2025](https://openai.com/index/leadership-updates-march-2025)
 
 ## 
+- **ID**: rss_https://openai.com/index/learn-teach-chatgpt-work-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/learn-teach-chatgpt-work-codex](https://openai.com/index/learn-teach-chatgpt-work-codex)
+
+## 
 - **ID**: rss_https://openai.com/index/learning-a-hierarchy
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/learning-a-hierarchy](https://openai.com/index/learning-a-hierarchy)
