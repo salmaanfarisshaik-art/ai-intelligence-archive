@@ -180,6 +180,10 @@
 - **ID**: model_amazon_mamba2_primed_hqwen3_8b_instruct
 - **Source**: 
 
+## amazon/MistralLite
+- **ID**: model_amazon_mistrallite
+- **Source**: 
+
 ## amd/PARD-Llama-3.2-1B
 - **ID**: model_amd_pard_llama_3_2_1b
 - **Source**: 
