@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 74
+**Total Changes:** 71
 
 ## Added
 None
@@ -11,17 +11,17 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/ccoffee20/hf_ds_69b6276dd5de8ef6a41f39e6.json
+- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/google/hf_google_gemma-3-1b-it.json
 - models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
+- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -57,12 +57,9 @@ None
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
-- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
