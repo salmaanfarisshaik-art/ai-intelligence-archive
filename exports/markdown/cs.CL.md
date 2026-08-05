@@ -60,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.26476v3](http://arxiv.org/abs/2509.26476v3)
 
+## Toward Understanding the Transferability of Adversarial Suffixes in Large Language Models
+- **ID**: arxiv_2510.22014v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.22014v2](http://arxiv.org/abs/2510.22014v2)
+
 ## AugAbEx: Bridging Abstractive and Extractive Legal Summarization
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
@@ -79,6 +84,11 @@
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.09001v5](http://arxiv.org/abs/2601.09001v5)
+
+## ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing
+- **ID**: arxiv_2601.16217v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.16217v2](http://arxiv.org/abs/2601.16217v2)
 
 ## LVLMs and Humans Ground Differently in Referential Communication
 - **ID**: arxiv_2601.19792v5
@@ -120,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08523v2](http://arxiv.org/abs/2604.08523v2)
 
+## Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces
+- **ID**: arxiv_2604.11996v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11996v5](http://arxiv.org/abs/2604.11996v5)
+
 ## Reasoning Models Know What's Important, and Encode It in Their Activations
 - **ID**: arxiv_2604.18307v2
 - **Source**: ArXiv
@@ -159,6 +174,16 @@
 - **ID**: arxiv_2605.22660v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22660v2](http://arxiv.org/abs/2605.22660v2)
+
+## Do VLMs Align Better with Humans than LLMs during Natural Reading?
+- **ID**: arxiv_2605.28818v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.28818v2](http://arxiv.org/abs/2605.28818v2)
+
+## Speculative Decoding and the Curse of Multilinguality
+- **ID**: arxiv_2605.30580v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30580v2](http://arxiv.org/abs/2605.30580v2)
 
 ## If LLMs Have Human-Like Attributes, Then So Does Age of Empires II
 - **ID**: arxiv_2605.31514v3
@@ -434,6 +459,11 @@
 - **ID**: arxiv_2606.31796v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.31796v2](http://arxiv.org/abs/2606.31796v2)
+
+## Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking
+- **ID**: arxiv_2607.00482v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00482v2](http://arxiv.org/abs/2607.00482v2)
 
 ## MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors
 - **ID**: arxiv_2607.00848v2
@@ -914,4 +944,44 @@
 - **ID**: arxiv_2608.02602v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02602v1](http://arxiv.org/abs/2608.02602v1)
+
+## Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility
+- **ID**: arxiv_2608.03930v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03930v1](http://arxiv.org/abs/2608.03930v1)
+
+## HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification
+- **ID**: arxiv_2608.03966v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03966v1](http://arxiv.org/abs/2608.03966v1)
+
+## string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms
+- **ID**: arxiv_2608.03984v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03984v1](http://arxiv.org/abs/2608.03984v1)
+
+## When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
+- **ID**: arxiv_2608.03994v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03994v1](http://arxiv.org/abs/2608.03994v1)
+
+## PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents
+- **ID**: arxiv_2608.04003v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04003v1](http://arxiv.org/abs/2608.04003v1)
+
+## TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
+- **ID**: arxiv_2608.04007v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04007v1](http://arxiv.org/abs/2608.04007v1)
+
+## WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament
+- **ID**: arxiv_2608.04008v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04008v1](http://arxiv.org/abs/2608.04008v1)
+
+## SocietyBench: Forecasting Counterfactual Social-World Evolution
+- **ID**: arxiv_2608.04009v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04009v1](http://arxiv.org/abs/2608.04009v1)
 

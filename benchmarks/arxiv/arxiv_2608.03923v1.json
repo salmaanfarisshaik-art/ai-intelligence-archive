@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03923v1",
+  "schema_version": "1.0",
+  "name": "GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03923v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03923v1",
+    "updated": "2026-08-04T16:55:49Z",
+    "published": "2026-08-04T16:55:49Z",
+    "title": "GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration",
+    "summary": "Codebook-based blind face restoration (BFR) often suffers from ambiguous conditioning features and a fragile prediction mechanism under severe degradation. To address these challenges, we propose GeoMAR, a framework designed to unleash geometrically aligned features with masked autoregressive (MAR) refinement for robust face restoration. For feature conditioning, we introduce a dual-input extraction pipeline to extract component-based geometric descriptions with explicit, spatially faithful anchors. These textual priors are integrated with low-quality (LQ) features via an Aligned Geometric Priors Injector, which employs a KV-Q exchange strategy to generate geometrically aligned features. For prediction mechanism, we reformulate the one-step mapping into a multi-step MAR process. This coarse-to-fine generation progressively refines complex facial regions based on increasingly reliable context. Experiments on one synthetic and three real-world benchmarks demonstrate that GeoMAR achieves highly competitive perceptual quality and coherent visual structures compared with existing methods. The code is available at https://github.com/BRL-SYSU/GeoMAR.git.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T16:55:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03923v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

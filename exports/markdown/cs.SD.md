@@ -70,3 +70,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27109v1](http://arxiv.org/abs/2607.27109v1)
 
+## Equivariant Music Transformer
+- **ID**: arxiv_2608.03920v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03920v1](http://arxiv.org/abs/2608.03920v1)
+
+## Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation
+- **ID**: arxiv_2608.03999v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03999v1](http://arxiv.org/abs/2608.03999v1)
+

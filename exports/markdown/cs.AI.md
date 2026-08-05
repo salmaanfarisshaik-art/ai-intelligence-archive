@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.19299v2](http://arxiv.org/abs/2510.19299v2)
 
+## Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning
+- **ID**: arxiv_2511.22226v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.22226v3](http://arxiv.org/abs/2511.22226v3)
+
 ## BioPro: Towards Difference-Aware Gender Fairness for Vision-Language Models
 - **ID**: arxiv_2512.00807v2
 - **Source**: ArXiv
@@ -45,10 +50,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13935v3](http://arxiv.org/abs/2602.13935v3)
 
+## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
+- **ID**: arxiv_2603.24929v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.24929v2](http://arxiv.org/abs/2603.24929v2)
+
 ## Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks
 - **ID**: arxiv_2604.01363v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01363v2](http://arxiv.org/abs/2604.01363v2)
+
+## AI Assistance Reduces Persistence and Hurts Independent Performance
+- **ID**: arxiv_2604.04721v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.04721v3](http://arxiv.org/abs/2604.04721v3)
 
 ## FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment
 - **ID**: arxiv_2604.23786v2
@@ -79,6 +94,11 @@
 - **ID**: arxiv_2605.29563v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
+
+## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
+- **ID**: arxiv_2606.07157v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07157v4](http://arxiv.org/abs/2606.07157v4)
 
 ## Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 - **ID**: arxiv_2606.11042v3
@@ -869,4 +889,34 @@
 - **ID**: arxiv_2608.02569v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02569v1](http://arxiv.org/abs/2608.02569v1)
+
+## The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections
+- **ID**: arxiv_2608.03921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03921v1](http://arxiv.org/abs/2608.03921v1)
+
+## TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
+- **ID**: arxiv_2608.03952v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03952v1](http://arxiv.org/abs/2608.03952v1)
+
+## A game theory for foundation models shows new paths to rational cooperation through similarity inference
+- **ID**: arxiv_2608.03958v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03958v1](http://arxiv.org/abs/2608.03958v1)
+
+## Interpretable Adaptive Sampling for LLM Test-Time Scaling
+- **ID**: arxiv_2608.03961v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03961v1](http://arxiv.org/abs/2608.03961v1)
+
+## Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations
+- **ID**: arxiv_2608.03970v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03970v1](http://arxiv.org/abs/2608.03970v1)
+
+## ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning
+- **ID**: arxiv_2608.03972v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03972v1](http://arxiv.org/abs/2608.03972v1)
 

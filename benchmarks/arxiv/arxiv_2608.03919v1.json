@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03919v1",
+  "schema_version": "1.0",
+  "name": "Low-Dimensional High-Leverage Subspace Optimization: Beyond Full-Parameter Coupled Training for Neural Network Quantization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03919v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03919v1",
+    "updated": "2026-08-04T16:50:04Z",
+    "published": "2026-08-04T16:50:04Z",
+    "title": "Low-Dimensional High-Leverage Subspace Optimization: Beyond Full-Parameter Coupled Training for Neural Network Quantization",
+    "summary": "Low-bit quantization suffers severe accuracy degradation on compact networks, rooted in the dominant full-parameter coupled training paradigm that ignores parameter subspace heterogeneity. Their limited feature redundancy leaves little room to absorb quantization errors. Conventional pipelines adopt monolithic optimization: PTQ reconstructs fixed pretrained models without improving inherent quantization friendliness; QAT updates all parameters jointly, suffering from gradient coupling between backbone weights and calibration parameters. In this paper, we identify normalization affine parameters as a low-dimensional high-leverage subspace dominating quantization robustness, and propose Normalization Affine Preconditioning (NAP) for targeted subspace optimization. For PTQ, NAP freezes backbone weights and fine-tunes only affine parameters under the target fake-quantization graph on full-precision models, proactively boosting quantization friendliness before downstream reconstruction. For QAT, we introduce an alternating QAT-NAP schema that decouples feature learning and numerical calibration, breaking the performance ceiling of saturated joint training. Theoretical analysis confirms BN affine parameters fully cancel the channel-wise affine component of quantization distortion, while nonlinear rounding and clipping residuals form the irreducible error boundary; distillation-guided NAP acts as directional flatness optimization, projecting teacher-student logit mismatch onto the restricted subspace. Experiments on ImageNet and CIFAR-100 show NAP recovers severely collapsed low-bit quantization, consistently boosts reconstruction-based PTQ, and outperforms saturated full-parameter QAT with negligible tuning cost. This work reveals the principle of targeted low-dimensional subspace optimization, offering a new perspective beyond full-parameter coupled training for efficient deep learning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T16:50:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03919v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

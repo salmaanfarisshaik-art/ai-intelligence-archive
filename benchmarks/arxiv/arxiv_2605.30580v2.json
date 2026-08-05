@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.30580v2",
+  "schema_version": "1.0",
+  "name": "Speculative Decoding and the Curse of Multilinguality",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.30580v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.30580v2",
+    "updated": "2026-08-04T17:55:16Z",
+    "published": "2026-05-28T21:15:24Z",
+    "title": "Speculative Decoding and the Curse of Multilinguality",
+    "summary": "Speculative decoding is a popular technique for large language model (LLM) inference, enabling faster generation by drafting multiple tokens with a smaller draft model. However, the effectiveness of speculative decoding has mainly been studied for English. Motivated by the curse of multilinguality, we hypothesize that speculative decoding is far less effective for low-resource languages due to the limited multilingual capacities of smaller models. We test eleven languages under a standard speculative decoding setup and find strong evidence for our hypothesis.\n  Next, we try to improve the multilingual capabilities of the smaller draft model via distillation from the larger model. We find, though, that distillation generalizes poorly across tasks in the same language, and we argue that assembling a task-agnostic, fully representative dataset is infeasible for low-resource languages. Finally, we propose weaker n-gram models as draft models; these provide moderate speed-ups due to their minuscule inference cost.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:55:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.30580v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

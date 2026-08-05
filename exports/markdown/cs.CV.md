@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
+- **ID**: arxiv_2505.17674v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.17674v3](http://arxiv.org/abs/2505.17674v3)
+
 ## AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models
 - **ID**: arxiv_2505.20255v3
 - **Source**: ArXiv
@@ -54,6 +59,11 @@
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.19474v2](http://arxiv.org/abs/2507.19474v2)
+
+## P3P Made Easy
+- **ID**: arxiv_2508.01312v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.01312v5](http://arxiv.org/abs/2508.01312v5)
 
 ## CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication
 - **ID**: arxiv_2508.13899v2
@@ -214,6 +224,16 @@
 - **ID**: arxiv_2604.00086v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00086v2](http://arxiv.org/abs/2604.00086v2)
+
+## NearID: Identity Representation Learning via Near-identity Distractors
+- **ID**: arxiv_2604.01973v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01973v2](http://arxiv.org/abs/2604.01973v2)
+
+## VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors
+- **ID**: arxiv_2604.02486v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.02486v3](http://arxiv.org/abs/2604.02486v3)
 
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
@@ -639,6 +659,11 @@
 - **ID**: arxiv_2606.20563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20563v1](http://arxiv.org/abs/2606.20563v1)
+
+## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
+- **ID**: arxiv_2607.01586v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01586v2](http://arxiv.org/abs/2607.01586v2)
 
 ## Show Me Examples: Inferring Visual Concepts from Image Sets
 - **ID**: arxiv_2607.02402v3
@@ -1569,4 +1594,49 @@
 - **ID**: arxiv_2608.02603v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02603v1](http://arxiv.org/abs/2608.02603v1)
+
+## When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding
+- **ID**: arxiv_2608.03918v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03918v1](http://arxiv.org/abs/2608.03918v1)
+
+## Low-Dimensional High-Leverage Subspace Optimization: Beyond Full-Parameter Coupled Training for Neural Network Quantization
+- **ID**: arxiv_2608.03919v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03919v1](http://arxiv.org/abs/2608.03919v1)
+
+## GeoMAR: Unleashing Geometrically Aligned Features for Masked Autoregressive Blind Face Restoration
+- **ID**: arxiv_2608.03923v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03923v1](http://arxiv.org/abs/2608.03923v1)
+
+## Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints
+- **ID**: arxiv_2608.03937v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03937v1](http://arxiv.org/abs/2608.03937v1)
+
+## UniWorld-Design: From Pixel Generation to Layer-Native Design
+- **ID**: arxiv_2608.03971v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03971v1](http://arxiv.org/abs/2608.03971v1)
+
+## JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
+- **ID**: arxiv_2608.03974v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03974v1](http://arxiv.org/abs/2608.03974v1)
+
+## Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
+- **ID**: arxiv_2608.03979v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03979v1](http://arxiv.org/abs/2608.03979v1)
+
+## Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation
+- **ID**: arxiv_2608.03991v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03991v1](http://arxiv.org/abs/2608.03991v1)
+
+## ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs
+- **ID**: arxiv_2608.04010v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04010v1](http://arxiv.org/abs/2608.04010v1)
 

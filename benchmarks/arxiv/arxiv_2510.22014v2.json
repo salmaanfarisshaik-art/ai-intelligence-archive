@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.22014v2",
+  "schema_version": "1.0",
+  "name": "Toward Understanding the Transferability of Adversarial Suffixes in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.22014v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.22014v2",
+    "updated": "2026-08-04T16:53:44Z",
+    "published": "2025-10-24T20:28:49Z",
+    "title": "Toward Understanding the Transferability of Adversarial Suffixes in Large Language Models",
+    "summary": "Discrete optimization-based jailbreaking attacks on large language models aim to generate short, nonsensical suffixes that, when appended onto input prompts, elicit disallowed content. Notably, these suffixes are often transferable -- succeeding on prompts and models for which they were never optimized. And yet, despite the fact that transferability is surprising and empirically well-established, the field lacks a rigorous analysis of when and why transfer occurs. To fill this gap, we identify three statistical properties that strongly correlate with transfer success across numerous experimental settings: (1) how much a prompt without a suffix activates a model's internal refusal direction, (2) how strongly a suffix induces a push away from this direction, and (3) how large these shifts are in directions orthogonal to refusal. On the other hand, we find that prompt semantic similarity only weakly correlates with transfer success. These findings lead to a more fine-grained understanding of transferability, which we use in interventional experiments to showcase how our statistical analysis can translate into practical improvements in attack success.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T16:53:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.22014v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

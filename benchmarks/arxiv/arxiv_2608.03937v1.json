@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03937v1",
+  "schema_version": "1.0",
+  "name": "Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03937v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03937v1",
+    "updated": "2026-08-04T17:08:46Z",
+    "published": "2026-08-04T17:08:46Z",
+    "title": "Progressive Learning of a Diffusion-based Inpainting Model for Separating Overlapped Fingerprints",
+    "summary": "Overlapped friction ridge patterns are a recurring problem in latent fingerprints recovered from crime scenes and in live-scan scenarios where residual fingerprints on the sensor may corrupt subsequent acquisitions. Existing approaches for separating overlapped fingerprints either rely on rule-based orientation field completion that requires strong domain knowledge or train end-to-end deep neural networks that do not account for domain-specific considerations. This work introduces a diffusion-based pipeline for separating component fingerprints from an image containing overlapping friction ridge patterns. We formulate the separation problem as an inpainting task and progressively learn a diffusion model for this task in multiple stages. Starting from a pre-trained Stable Diffusion model, we progressively incorporate a fingerprint prior, add the ability to complete partial fingerprints, and finally propose \\textbf{overlap-aware inpainting} that reconstructs each component print using a diffusion inpainting model based on multi-channel conditioning. Experiments on two public datasets demonstrate that component fingerprints reconstructed using the proposed diffusion-based inpainting method can match with their mated counterparts with very high probability.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:08:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03937v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.00482v2",
+  "schema_version": "1.0",
+  "name": "Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.00482v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.00482v2",
+    "updated": "2026-08-04T17:55:06Z",
+    "published": "2026-07-01T06:09:56Z",
+    "title": "Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking",
+    "summary": "Reasoning language models frequently overthink: generating extended chains of behaviors such as hedging, approach abandonment, and self contradiction that consume tokens without improving answers. We show that these behaviors are not merely a consequence of length; even when controlling for response length, incorrect traces exhibit higher rates of unproductive self-reflection than correct ones. Addressing this requires identifying where self-reflection helps vs hurts, but obtaining these step-level annotations is costly. We observe that intermediate answer commitments within reasoning traces can provide a cheap proxy: by comparing each final answer candidate in the trace to the ground truth, we can determine whether subsequent reflection is productive without any additional supervision. Building on this insight, we propose DASH (Drift Aware advantage SHaping), which assigns segment-level credit based on whether each reasoning segment leads toward or away from correctness. On competition-level math benchmarks, DASH achieves the highest accuracy where overthinking is prevalent (Average Accuracy: 59.45% vs. 58.1% Dr.GRPO vs. 56.95% GRPO) while reducing overthinking behaviors and achieving more productive self-correction than baselines.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:55:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.00482v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

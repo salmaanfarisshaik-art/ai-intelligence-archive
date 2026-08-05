@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.05799v2",
+  "schema_version": "1.0",
+  "name": "CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.05799v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.05799v2",
+    "updated": "2026-08-04T17:35:39Z",
+    "published": "2026-06-04T07:27:53Z",
+    "title": "CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction",
+    "summary": "Existing calibration methods for Large Language Models (LLMs) often overlook a critical dimension of trustworthiness: a model's behavioral robustness to irrelevant or misleading information. In this paper, we argue that a model's true confidence should reflect its stability under cognitive pressure. We introduce CaliDist, a novel post-hoc calibration approach that directly measures and penalizes a model's susceptibility to distraction. CaliDist quantifies how an LLM's predictions and uncertainty change when its input prompt is perturbed with semantic distractors. This stability (or lack thereof) signal is then used to adaptively scale the model's initial confidence score. Our extensive experiments on seven Natural Language Understanding classification benchmarks using six distinct LLMs show that CaliDist consistently achieves lower Expected Calibration Error (ECE) and Brier Score compared with strong baselines. Remarkably, our method reduces the ECE from 23% to 7% on average--a relative improvement of 70%--demonstrating that behavioral stability is a powerful signal for calibration. We make our code and datasets available at github.com/anas-jawad/CaliDist.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:35:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.05799v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

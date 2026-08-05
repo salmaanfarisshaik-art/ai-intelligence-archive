@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.22511v2",
+  "schema_version": "1.0",
+  "name": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.22511v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.22511v2",
+    "updated": "2026-08-04T17:10:35Z",
+    "published": "2026-07-24T17:32:35Z",
+    "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
+    "summary": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing 7,035 machine-checked declarations developed with language-model assistance under human design and review, with CausalSmith, a self-improving agentic pipeline that selects research topics, proposes results, formalizes statements, constructs proofs, and presents the resulting artifacts for human inspection. Because a machine-checked proof establishes only that a formal statement follows from its assumptions, not that the statement faithfully captures the intended scientific claim, the pipeline augments kernel verification with a statement audit that compares each formal theorem against the informal claim it is intended to express. We evaluate the system using artifacts produced by completed autonomous research runs. The source code, formal library, and run records are available at https://github.com/Jiyuan-Tan/CausalForge.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:10:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.22511v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,5 +1,10 @@
 # Cs.Lg Export
 
+## MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting
+- **ID**: arxiv_2405.16440v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2405.16440v2](http://arxiv.org/abs/2405.16440v2)
+
 ## Humanity's Last Exam
 - **ID**: arxiv_2501.14249v11
 - **Source**: ArXiv
@@ -125,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
 
+## Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling
+- **ID**: arxiv_2605.13801v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.13801v2](http://arxiv.org/abs/2605.13801v2)
+
 ## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
 - **ID**: arxiv_2605.22142v3
 - **Source**: ArXiv
@@ -139,6 +149,11 @@
 - **ID**: arxiv_2606.02133v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02133v3](http://arxiv.org/abs/2606.02133v3)
+
+## CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction
+- **ID**: arxiv_2606.05799v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.05799v2](http://arxiv.org/abs/2606.05799v2)
 
 ## Pretraining Recurrent Networks without Recurrence
 - **ID**: arxiv_2606.06479v2
@@ -544,4 +559,19 @@
 - **ID**: arxiv_2608.02585v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02585v1](http://arxiv.org/abs/2608.02585v1)
+
+## PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection
+- **ID**: arxiv_2608.03926v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03926v1](http://arxiv.org/abs/2608.03926v1)
+
+## Latent Reward Registers for Diffusion Preference Alignment
+- **ID**: arxiv_2608.03929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03929v1](http://arxiv.org/abs/2608.03929v1)
+
+## Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility
+- **ID**: arxiv_2608.04001v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04001v1](http://arxiv.org/abs/2608.04001v1)
 

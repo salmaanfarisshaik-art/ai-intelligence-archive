@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.24929v2",
+  "schema_version": "1.0",
+  "name": "LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.24929v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.24929v2",
+    "updated": "2026-08-04T17:53:23Z",
+    "published": "2026-03-26T01:46:24Z",
+    "title": "LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics",
+    "summary": "Understanding and quantifying uncertainty in large language model (LLM) outputs is critical for reliable deployment. However, traditional evaluation approaches provide limited insight into model confidence at individual token positions during generation. To address this issue, we introduce LogitScope, a lightweight framework for analyzing LLM uncertainty through token-level information metrics computed from probability distributions. By measuring metrics such as entropy and varentropy at each generation step, LogitScope reveals patterns in model confidence, identifies potential hallucinations, and exposes decision points where models exhibit high uncertainty, all without requiring labeled data or semantic interpretation. We demonstrate LogitScope's utility across diverse applications including uncertainty quantification, model behavior analysis, and production monitoring. The framework is model-agnostic, computationally efficient through lazy evaluation, and compatible with any HuggingFace model, enabling both researchers and practitioners to inspect LLM behavior during inference.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:53:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.24929v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

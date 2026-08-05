@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.01973v2",
+  "schema_version": "1.0",
+  "name": "NearID: Identity Representation Learning via Near-identity Distractors",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.01973v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.01973v2",
+    "updated": "2026-08-04T17:31:44Z",
+    "published": "2026-04-02T12:33:14Z",
+    "title": "NearID: Identity Representation Learning via Near-identity Distractors",
+    "summary": "When evaluating identity-focused tasks such as personalized generation and image editing, existing vision encoders entangle object identity with background context, leading to unreliable representations and metrics. We introduce the first principled framework to address this vulnerability using Near-identity (NearID) distractors, where semantically similar but distinct instances are placed on the exact same background as a reference image, eliminating contextual shortcuts and isolating identity as the sole discriminative signal. Based on this principle, we present the NearID dataset (19K identities, 316K matched-context distractors) together with a strict margin-based evaluation protocol. Under this setting, pre-trained encoders perform poorly, achieving Sample Success Rates (SSR), a strict margin-based identity discrimination metric, as low as 30.7% and often ranking distractors above true cross-view matches. We address this by learning identity-aware representations on a frozen backbone using a two-tier contrastive objective enforcing the hierarchy: same identity > NearID distractor > random negative. This improves SSR to 99.2%, enhances part-level discrimination by 28.0%, and yields stronger alignment with human judgments on DreamBench++, a human-aligned benchmark for personalization. Project page: https://gorluxor.github.io/NearID/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:31:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.01973v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

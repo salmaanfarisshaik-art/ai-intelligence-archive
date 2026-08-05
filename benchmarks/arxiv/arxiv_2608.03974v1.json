@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03974v1",
+  "schema_version": "1.0",
+  "name": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03974v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03974v1",
+    "updated": "2026-08-04T17:40:48Z",
+    "published": "2026-08-04T17:40:48Z",
+    "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+    "summary": "Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:40:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03974v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

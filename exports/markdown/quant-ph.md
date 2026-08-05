@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24714v1](http://arxiv.org/abs/2607.24714v1)
 
+## Separating quantum circuits from classical LLMs
+- **ID**: arxiv_2608.03962v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03962v1](http://arxiv.org/abs/2608.03962v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03962v1",
+  "schema_version": "1.0",
+  "name": "Separating quantum circuits from classical LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03962v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03962v1",
+    "updated": "2026-08-04T17:28:24Z",
+    "published": "2026-08-04T17:28:24Z",
+    "title": "Separating quantum circuits from classical LLMs",
+    "summary": "Modern large language models - transformers and diffusion language models - are built around two canonical algorithmic tasks: prediction and generation. We prove unconditional separations between low-depth quantum computation and the corresponding bounded-resource classical language-model architectures in both regimes. Concretely, we exhibit the following:\n  1. Distributional separation. We give a distribution that is sampleable by $\\textsf{QNC}^0$ circuits (i.e., a family of constant-depth quantum circuits consisting of bounded fan-in gates) that no constant-round diffusion language model ($\\textsf{DLM}$) with shallow scheduling and denoising can sample within constant distance, even when allowed sublinear chain-of-thought and output-token revision/remasking events, the very features modern $\\textsf{DLM}$s rely on.\n  2. Functional separation. We exhibit a function computable in $\\land \\circ \\textsf{QNC}^0[\\log\\log n]$ (i.e., a family of O$(\\log\\log n)$-depth $\\textsf{QNC}^0$ circuits, where $n$ is the input length, followed by a single classical $\\mathsf{AND}$ gate) such that any constant-depth decoder-only transformer computing the function must be large: it would have to have width $n^{Ω(1)}$.\n  Together, our work initiates the study of quantum advantage in the era of large language models.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-08-05T03:24:38Z",
+  "last_updated": "2026-08-04T17:28:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03962v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

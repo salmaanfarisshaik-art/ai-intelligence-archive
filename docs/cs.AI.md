@@ -14,6 +14,7 @@
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |
 | [A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](http://arxiv.org/abs/2607.25947v1) | ArXiv |  | 1 |
+| [A game theory for foundation models shows new paths to rational cooperation through similarity inference](http://arxiv.org/abs/2608.03958v1) | ArXiv |  | 1 |
 | [A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters](http://arxiv.org/abs/2605.14667v2) | ArXiv |  | 1 |
 | [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](http://arxiv.org/abs/2608.02553v1) | ArXiv |  | 1 |
 | [A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems](http://arxiv.org/abs/2606.14582v1) | ArXiv |  | 1 |
@@ -32,6 +33,7 @@
 | [AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](http://arxiv.org/abs/2607.27130v1) | ArXiv |  | 1 |
 | [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) | ArXiv |  | 1 |
 | [Agents-K1: Towards Agent-native Knowledge Orchestration](http://arxiv.org/abs/2606.13669v1) | ArXiv |  | 1 |
+| [AI Assistance Reduces Persistence and Hurts Independent Performance](http://arxiv.org/abs/2604.04721v3) | ArXiv |  | 1 |
 | [AI for Auto-Research: Roadmap & User Guide](http://arxiv.org/abs/2605.18661v2) | ArXiv |  | 1 |
 | [AISPA: User-Centric System Prompt Auditing for Large Language Model Applications](http://arxiv.org/abs/2607.28617v1) | ArXiv |  | 1 |
 | [AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction](http://arxiv.org/abs/2607.29549v1) | ArXiv |  | 1 |
@@ -72,6 +74,7 @@
 | [DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat](http://arxiv.org/abs/2607.29577v1) | ArXiv |  | 1 |
 | [Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture](http://arxiv.org/abs/2607.22445v1) | ArXiv |  | 1 |
 | [Efficiency Matters in Autonomous Research](http://arxiv.org/abs/2607.24647v1) | ArXiv |  | 1 |
+| [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](http://arxiv.org/abs/2511.22226v3) | ArXiv |  | 1 |
 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](http://arxiv.org/abs/2606.13602v1) | ArXiv |  | 1 |
 | [ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams](http://arxiv.org/abs/2607.24707v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
@@ -98,6 +101,7 @@
 | [Intelligence Primer](http://arxiv.org/abs/2008.07324v6) | ArXiv |  | 1 |
 | [Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](http://arxiv.org/abs/2607.25904v1) | ArXiv |  | 1 |
 | [Internal Pluralism and the Limits of Pairwise Comparisons](http://arxiv.org/abs/2607.02672v2) | ArXiv |  | 1 |
+| [Interpretable Adaptive Sampling for LLM Test-Time Scaling](http://arxiv.org/abs/2608.03961v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
@@ -107,6 +111,7 @@
 | [Linguistic Monoculture in LLM-Assisted Language Use](http://arxiv.org/abs/2607.27134v1) | ArXiv |  | 1 |
 | [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
 | [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](http://arxiv.org/abs/2607.18228v1) | ArXiv |  | 1 |
+| [LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics](http://arxiv.org/abs/2603.24929v2) | ArXiv |  | 1 |
 | [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](http://arxiv.org/abs/2608.02491v1) | ArXiv |  | 1 |
 | [MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance](http://arxiv.org/abs/2606.16923v1) | ArXiv |  | 1 |
 | [Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation](http://arxiv.org/abs/2608.02518v1) | ArXiv |  | 1 |
@@ -137,6 +142,7 @@
 | [Real-Time Detection and Repair of LLM Agent Failures](http://arxiv.org/abs/2608.02464v1) | ArXiv |  | 1 |
 | [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](http://arxiv.org/abs/2607.24649v1) | ArXiv |  | 1 |
 | [Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning](http://arxiv.org/abs/2606.13607v1) | ArXiv |  | 1 |
+| [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v2) | ArXiv |  | 1 |
 | [Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](http://arxiv.org/abs/2607.28573v1) | ArXiv |  | 1 |
@@ -149,9 +155,11 @@
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
+| [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](http://arxiv.org/abs/2608.03970v1) | ArXiv |  | 1 |
 | [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](http://arxiv.org/abs/2607.20402v1) | ArXiv |  | 1 |
 | [Statistical Early Stopping for Reasoning Models](http://arxiv.org/abs/2602.13935v3) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
+| [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v1) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
 | [The Boundaries of Automation: A Theory of Persistent Human Participation](http://arxiv.org/abs/2607.21547v1) | ArXiv |  | 1 |
 | [The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning](http://arxiv.org/abs/2607.11436v2) | ArXiv |  | 1 |
@@ -159,7 +167,9 @@
 | [The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents](http://arxiv.org/abs/2607.22520v1) | ArXiv |  | 1 |
 | [The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](http://arxiv.org/abs/2606.18192v1) | ArXiv |  | 1 |
 | [The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](http://arxiv.org/abs/2606.18192v2) | ArXiv |  | 1 |
+| [The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections](http://arxiv.org/abs/2608.03921v1) | ArXiv |  | 1 |
 | [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v4) | ArXiv |  | 1 |
+| [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](http://arxiv.org/abs/2606.07157v4) | ArXiv |  | 1 |
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |

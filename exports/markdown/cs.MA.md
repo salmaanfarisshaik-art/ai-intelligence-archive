@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15434v3](http://arxiv.org/abs/2607.15434v3)
 
+## Moral Hazard in Multi-Agent Language Models
+- **ID**: arxiv_2607.23982v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23982v3](http://arxiv.org/abs/2607.23982v3)
+
