@@ -105059,6 +105059,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_amazon_mistrallite",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_augmxnt_shisa_gamma_7b_v1",
       "match_type": "exact",
       "score": 1.5
@@ -105501,6 +105506,13 @@
     },
     {
       "entity_id": "model_trl_internal_testing_tiny_mistralforcausallm_0_2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "mistrallite": [
+    {
+      "entity_id": "model_amazon_mistrallite",
       "match_type": "exact",
       "score": 2.0
     }

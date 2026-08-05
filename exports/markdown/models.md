@@ -3360,6 +3360,34 @@
 - **ID**: model_orionstarai_orion_14b_chat
 - **Source**: 
 
+## ornith-ai/Ornith-1.0-35B
+- **ID**: model_ornith_ai_ornith_1_0_35b
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-35B-FP8
+- **ID**: model_ornith_ai_ornith_1_0_35b_fp8
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-35B-GGUF
+- **ID**: model_ornith_ai_ornith_1_0_35b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-397B
+- **ID**: model_ornith_ai_ornith_1_0_397b
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-397B-FP8
+- **ID**: model_ornith_ai_ornith_1_0_397b_fp8
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-9B
+- **ID**: model_ornith_ai_ornith_1_0_9b
+- **Source**: 
+
+## ornith-ai/Ornith-1.0-9B-GGUF
+- **ID**: model_ornith_ai_ornith_1_0_9b_gguf
+- **Source**: 
+
 ## owao/Nanbeige4.2-3B-GGUF
 - **ID**: model_owao_nanbeige4_2_3b_gguf
 - **Source**: 
