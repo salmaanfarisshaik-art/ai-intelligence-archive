@@ -4108,6 +4108,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4](https://huggingface.co/optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4)
 
+## ornith-ai/Ornith-1.0-9B-GGUF
+- **ID**: hf_ornith-ai_Ornith-1.0-9B-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF)
+- **Tags**: conversational, endpoints_compatible, gguf, license:mit, region:us, text-generation, transformers
+
 ## parasail-ai/GritLM-7B-vllm
 - **ID**: hf_parasail-ai_GritLM-7B-vllm
 - **Source**: Hugging Face
