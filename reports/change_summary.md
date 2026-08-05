@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 77
 
 ## Added
 None
@@ -8,17 +8,26 @@ None
 ## Modified
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
+- data/metadata/tag_index.json
+- datasets/cadene/hf_ds_67d829e152331730e865bfb7.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
+- exports/csv/all_entities.csv
+- exports/csv/dataset.csv
+- exports/json/all_entities.json
+- exports/json/dataset.json
+- exports/markdown/dataset.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/nvidia/hf_nvidia_Gemma-4-31B-IT-NVFP4.json
-- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/ibm-granite/hf_ibm-granite_granite-4.1-8b.json
+- models/openai-community/hf_openai-community_gpt2.json
 - models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -35,7 +44,6 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
-- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
