@@ -3166,6 +3166,11 @@
 - **URL**: [https://openai.com/index/introducing-the-model-spec](https://openai.com/index/introducing-the-model-spec)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-the-openai-economic-research-exchange
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-the-openai-economic-research-exchange](https://openai.com/index/introducing-the-openai-economic-research-exchange)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-the-realtime-api
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-the-realtime-api](https://openai.com/index/introducing-the-realtime-api)
