@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.03079v5",
+  "schema_version": "1.0",
+  "name": "Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.03079v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.03079v5",
+    "updated": "2026-08-05T17:52:55Z",
+    "published": "2026-01-06T15:09:05Z",
+    "title": "Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models",
+    "summary": "Existing approaches to moral value alignment are primarily set out to align LLMs' generation with the distributions of morally appropriate language, which has seen good progress. However, these approaches are often brittle, heavily rely on shallow heuristics, and reduce performance in out-of-the-distribution tasks. In other words, the learning paradigm underlying existing approaches teaches LLMs what morally (in)appropriate language looks like, but not why it is morally (in)appropriate. In this paper, we address this challenge by developing pragmatic inference-driven methods to facilitate LLMs' learning of how to diagnose and correct moral errors, thereby enabling them to generate morally appropriate language. Pragmatic inference is the reasoning process of deriving (implied) meanings -- a famous concept in linguistics. Our methods vary the inference procedures by the inferential load of different moral discourses, rather than modelling their diverse and complex semantic distributions separately. Empirical results demonstrate that our approach improves moral value alignment in LLMs and generalizes effectively across tasks.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:52:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.03079v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

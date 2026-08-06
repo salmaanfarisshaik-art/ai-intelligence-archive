@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.05070v1",
+  "schema_version": "1.0",
+  "name": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.05070v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.05070v1",
+    "updated": "2026-08-05T17:14:19Z",
+    "published": "2026-08-05T17:14:19Z",
+    "title": "HelloWorld: Enabling Socially Interactive Characters in Video World Models",
+    "summary": "Despite the remarkable recent progress of video world models, social interaction between users and the characters within these worlds remains unsupported. To fill this gap, we present HelloWorld, a video world model that enables social interaction with in-world characters. With a single button press, users can prompt the on-screen character to respond toward the camera, e.g., turning to the viewer, waving, nodding, or speaking a short greeting. To make these interactions natural, we propose a self-distillation pipeline that finetunes the video generation model on data synthesized by itself. Each synthesized clip contains both social interactions and camera motion, allowing the model to learn camera-pose conditioning without degrading interaction quality. At inference, we further introduce a training-free module that determines when the interaction occurs. Upon a button press, it modulates the cross-attention masks of the DiT so that the interaction-related text prompt attends only to the frames within the press window, temporally localizing the character's response. We further build HelloWorldBench, a 400-sample benchmark with three social interaction metrics alongside three conventional metrics, for evaluation. Experiments demonstrate that HelloWorld surpasses a variety of baselines in interaction quality, while maintaining state-of-the-art picture aesthetics and camera-pose following. Project page: https://github.com/AlayaLab/HelloWorld",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:14:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.05070v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

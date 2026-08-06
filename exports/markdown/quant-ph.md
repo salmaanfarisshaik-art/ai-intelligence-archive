@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03962v1](http://arxiv.org/abs/2608.03962v1)
 
+## Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth
+- **ID**: arxiv_2608.05110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05110v1](http://arxiv.org/abs/2608.05110v1)
+

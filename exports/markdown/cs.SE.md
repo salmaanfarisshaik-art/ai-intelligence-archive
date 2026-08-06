@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.22580v2](http://arxiv.org/abs/2507.22580v2)
 
+## Terminal Agents Suffice for Enterprise Automation
+- **ID**: arxiv_2604.00073v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00073v3](http://arxiv.org/abs/2604.00073v3)
+
 ## FM-Agent: Scaling Formal Methods to Large Systems via LLM-Based Hoare-Style Reasoning
 - **ID**: arxiv_2604.11556v2
 - **Source**: ArXiv
@@ -105,8 +110,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28591v1](http://arxiv.org/abs/2607.28591v1)
 
+## DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing
+- **ID**: arxiv_2607.28750v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28750v2](http://arxiv.org/abs/2607.28750v2)
+
 ## SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
 - **ID**: arxiv_2608.02499v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02499v1](http://arxiv.org/abs/2608.02499v1)
+
+## RepairFormer: Automated Repair of Structured Inputs Using Transformers
+- **ID**: arxiv_2608.05060v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05060v1](http://arxiv.org/abs/2608.05060v1)
 

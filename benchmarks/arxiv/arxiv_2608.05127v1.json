@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.05127v1",
+  "schema_version": "1.0",
+  "name": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.05127v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.05127v1",
+    "updated": "2026-08-05T17:51:25Z",
+    "published": "2026-08-05T17:51:25Z",
+    "title": "SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant",
+    "summary": "Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. Existing vector quantization methods, such as vqSGD, use high-dimensional geometric constructions but incur unfavorable dimension-dependent variance. In this work, we propose Subsampled Stochastic TurboQuant (SSTQ), a framework that combines overcomplete equal-norm tight frames, coordinate subsampling, and privacy-aware one-dimensional quantization. SSTQ includes two variants: a Flat Randomized Response version and a Metric-Aware Laplace version, the latter being better suited to higher codebook bit-width regimes. We show that SSTQ achieves optimal mean squared error scaling while using only $\\lceil \\log_2 N \\rceil + b$ bits per client, where $N = Θ(d)$ is the frame size. We also derive a surrogate privacy-aware codebook objective that reduces the codebook-dependent MSE scaling from $O(4^b)$ to $O(2^b)$. Finally, we empirically evaluate SSTQ against established baselines on federated learning tasks using CIFAR-10 and Fashion-MNIST, demonstrating favorable utility and communication efficiency.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:51:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.05127v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

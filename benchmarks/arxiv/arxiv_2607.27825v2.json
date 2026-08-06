@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27825v2",
+  "schema_version": "1.0",
+  "name": "Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27825v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27825v2",
+    "updated": "2026-08-05T17:15:18Z",
+    "published": "2026-07-30T08:03:52Z",
+    "title": "Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction",
+    "summary": "Reconstructing dynamic surgical scenes is crucial for robot-assisted minimally invasive surgery; however, it continues to be difficult because of tissue deformation, occlusions, specular reflections, and restricted viewpoints. In this study, we introduce Endo-NeRF++, a neural rendering framework that accounts for uncertainty in the reconstruction of dynamic surgical scenes. Expanding on EndoNeRF, the suggested approach incorporates multi-resolution hash-grid encoding, temporal feature merging, and uncertainty-informed adaptive sampling to enhance reconstruction accuracy and temporal coherence in deformable endoscopic scenes.The multi-resolution hash-grid representation within the framework effectively captures both coarse and fine anatomical details, while temporal feature blending ensures stable reconstruction during tissue deformation and surgical tool occlusions. Additionally, uncertainty-driven adaptive sampling assigns more samples to uncertain areas to enhance rendering quality and geometric coherence. Experiments on robotic surgical video sequences demonstrate that the proposed uncertainty-guided adaptive sampling improves PSNR by up to 1.22dB (4.3%), increases SSIM by up to 5.3%, and reduces LPIPS by up to 55.1% compared with the EndoNeRF baseline.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:15:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27825v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

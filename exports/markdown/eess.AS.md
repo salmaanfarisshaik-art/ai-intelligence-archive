@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16107v1](http://arxiv.org/abs/2607.16107v1)
 
+## Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains
+- **ID**: arxiv_2608.05138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05138v1](http://arxiv.org/abs/2608.05138v1)
+

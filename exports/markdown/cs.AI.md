@@ -850,6 +850,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29677v1](http://arxiv.org/abs/2607.29677v1)
 
+## ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction
+- **ID**: arxiv_2607.29677v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29677v2](http://arxiv.org/abs/2607.29677v2)
+
+## MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents
+- **ID**: arxiv_2608.01742v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.01742v2](http://arxiv.org/abs/2608.01742v2)
+
 ## Real-Time Detection and Repair of LLM Agent Failures
 - **ID**: arxiv_2608.02464v1
 - **Source**: ArXiv
@@ -890,6 +900,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02569v1](http://arxiv.org/abs/2608.02569v1)
 
+## When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives
+- **ID**: arxiv_2608.03722v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03722v2](http://arxiv.org/abs/2608.03722v2)
+
 ## The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections
 - **ID**: arxiv_2608.03921v1
 - **Source**: ArXiv
@@ -919,4 +934,34 @@
 - **ID**: arxiv_2608.03972v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03972v1](http://arxiv.org/abs/2608.03972v1)
+
+## Item Response Theory for AI Safety
+- **ID**: arxiv_2608.05086v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05086v1](http://arxiv.org/abs/2608.05086v1)
+
+## Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite
+- **ID**: arxiv_2608.05095v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05095v1](http://arxiv.org/abs/2608.05095v1)
+
+## ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment
+- **ID**: arxiv_2608.05102v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05102v1](http://arxiv.org/abs/2608.05102v1)
+
+## CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs
+- **ID**: arxiv_2608.05107v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05107v1](http://arxiv.org/abs/2608.05107v1)
+
+## OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling
+- **ID**: arxiv_2608.05141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05141v1](http://arxiv.org/abs/2608.05141v1)
+
+## Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning
+- **ID**: arxiv_2608.05144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05144v1](http://arxiv.org/abs/2608.05144v1)
 

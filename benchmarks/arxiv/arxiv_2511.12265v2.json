@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.12265v2",
+  "schema_version": "1.0",
+  "name": "Stabilizing Multi-Attack Adversarial Training via Bandit Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.12265v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.12265v2",
+    "updated": "2026-08-05T16:40:05Z",
+    "published": "2025-11-15T15:42:40Z",
+    "title": "Stabilizing Multi-Attack Adversarial Training via Bandit Optimization",
+    "summary": "Deep Neural Networks (DNNs) remain vulnerable to diverse adversarial perturbations, motivating multi-attack adversarial training (AT) for improved robustness. However, existing methods either incur prohibitive overhead by computing all attacks at each iteration, or rely on stochastic sampling over adversarial examples, which may cause excessive parameter drift. To address these issues, we propose Calibrated Adversarial Sampling (CAS), an efficient and stable framework that reformulates multi-attack AT as a multi-armed bandit optimization problem. By sampling a single attack per iteration that dynamically balances exploration and exploitation, CAS significantly reduces training cost while mitigating optimization conflicts across attacks and controlling excessive parameter drifts. Extensive experiments demonstrate that CAS achieves superior overall robustness at low computational cost, offering a scalable and principled approach to robust generalization against multi-attack settings. Our code is available at https://github.com/1240148048/CAS.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T16:40:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.12265v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

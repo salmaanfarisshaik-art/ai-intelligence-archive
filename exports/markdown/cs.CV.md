@@ -1640,3 +1640,73 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04010v1](http://arxiv.org/abs/2608.04010v1)
 
+## OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing
+- **ID**: arxiv_2608.05049v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05049v1](http://arxiv.org/abs/2608.05049v1)
+
+## Beyond Reprojection Error: Camera Calibration with 3D Targets
+- **ID**: arxiv_2608.05066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05066v1](http://arxiv.org/abs/2608.05066v1)
+
+## VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection
+- **ID**: arxiv_2608.05069v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05069v1](http://arxiv.org/abs/2608.05069v1)
+
+## HelloWorld: Enabling Socially Interactive Characters in Video World Models
+- **ID**: arxiv_2608.05070v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05070v1](http://arxiv.org/abs/2608.05070v1)
+
+## Bag-of-Visual-Words for Spatial Mapping of Lung Adenocarcinoma Growth Patterns
+- **ID**: arxiv_2608.05074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05074v1](http://arxiv.org/abs/2608.05074v1)
+
+## Lesion Detection in CT with Frozen Self-Distilled Features: SALT, a Spatially Adaptive Label-Guided Temperature
+- **ID**: arxiv_2608.05100v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05100v1](http://arxiv.org/abs/2608.05100v1)
+
+## HexMIL: Hierarchical Attention MIL for Ante-Hoc Explainable Detection of AI-Manipulated CT Volumes
+- **ID**: arxiv_2608.05101v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05101v1](http://arxiv.org/abs/2608.05101v1)
+
+## Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
+- **ID**: arxiv_2608.05115v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05115v1](http://arxiv.org/abs/2608.05115v1)
+
+## IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers
+- **ID**: arxiv_2608.05122v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05122v1](http://arxiv.org/abs/2608.05122v1)
+
+## OPD-V: Visual On-Policy Self-Distillation with Modality Balance
+- **ID**: arxiv_2608.05131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05131v1](http://arxiv.org/abs/2608.05131v1)
+
+## Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings
+- **ID**: arxiv_2608.05132v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05132v1](http://arxiv.org/abs/2608.05132v1)
+
+## SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding
+- **ID**: arxiv_2608.05137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05137v1](http://arxiv.org/abs/2608.05137v1)
+
+## Objects as Audio-Visual Modal Sound Fields
+- **ID**: arxiv_2608.05145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05145v1](http://arxiv.org/abs/2608.05145v1)
+
+## CoCo-IR: Contextual Composed Image Retrieval
+- **ID**: arxiv_2608.05149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05149v1](http://arxiv.org/abs/2608.05149v1)
+

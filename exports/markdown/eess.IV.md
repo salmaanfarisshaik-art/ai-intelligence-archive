@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13287v4](http://arxiv.org/abs/2508.13287v4)
 
+## Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction
+- **ID**: arxiv_2607.27825v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27825v2](http://arxiv.org/abs/2607.27825v2)
+

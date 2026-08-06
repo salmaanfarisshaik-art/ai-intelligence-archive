@@ -115,3 +115,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27080v1](http://arxiv.org/abs/2607.27080v1)
 
+## Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning
+- **ID**: arxiv_2608.05045v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05045v1](http://arxiv.org/abs/2608.05045v1)
+
+## Hardware Design and Security in the Era of Chiplets and LLMs
+- **ID**: arxiv_2608.05063v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05063v1](http://arxiv.org/abs/2608.05063v1)
+

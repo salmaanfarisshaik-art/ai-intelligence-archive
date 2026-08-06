@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.05100v1",
+  "schema_version": "1.0",
+  "name": "Lesion Detection in CT with Frozen Self-Distilled Features: SALT, a Spatially Adaptive Label-Guided Temperature",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.05100v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.05100v1",
+    "updated": "2026-08-05T17:39:31Z",
+    "published": "2026-08-05T17:39:31Z",
+    "title": "Lesion Detection in CT with Frozen Self-Distilled Features: SALT, a Spatially Adaptive Label-Guided Temperature",
+    "summary": "Self-supervised pretraining objectives are spatially uniform: the teacher temperature and the per-patch loss weight are identical everywhere in the image, so a lesion a few patches wide contributes no more to the training signal than the surrounding parenchyma. Prior work biases the views toward annotated regions, which changes what the model sees but adds no pressure on the objective. We instead condition the targets of self-distillation, a method we call SALT (Spatially Adaptive Label-guided Temperature). Weak, box-derived labels, available only during pretraining, define a compact region on the encoder's patch grid, inside which the teacher's softmax temperature is sharpened and the masked-patch loss is up-weighted. The objectives, the masking policy and the centering statistics are otherwise unchanged, and at every downstream use the encoder is a plain feature extractor with no labels and no conditioning. We evaluate by freezing the encoder and training only a lightweight multi-depth CenterNet-style head, detecting lesions in 3D on four CT cohorts, and we isolate the mechanism against a backbone identical in architecture, pretraining data, schedule and label-guided cropping but with no target conditioning. We report patch-level separability, 3D detection stratified by cohort and by lesion size, box quality, and a detector-free probe in which a single frozen patch embedding re-identifies a lesion in a follow-up scan without registration, masks or fine-tuning. Because the conditioning is expressed through a spatial indicator rather than through label semantics, the formulation admits any weak spatial annotation; we instantiate and validate it for lesions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:39:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.05100v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

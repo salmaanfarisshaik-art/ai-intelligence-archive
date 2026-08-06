@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.00073v3",
+  "schema_version": "1.0",
+  "name": "Terminal Agents Suffice for Enterprise Automation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.00073v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.00073v3",
+    "updated": "2026-08-05T16:41:57Z",
+    "published": "2026-03-31T14:14:47Z",
+    "title": "Terminal Agents Suffice for Enterprise Automation",
+    "summary": "There has been growing interest in building agents that can interact with digital platforms to execute meaningful enterprise tasks autonomously. Among the approaches explored are tool-augmented agents built on abstractions such as Model Context Protocol (MCP) and web agents that operate through graphical interfaces. Yet, it remains unclear whether such complex agentic systems are necessary given their cost and operational overhead. We argue that a coding agent equipped only with a terminal and a filesystem can solve many enterprise tasks more effectively by interacting directly with platform APIs. We evaluate this hypothesis across diverse real-world systems and show that these low-level terminal agents match or outperform more complex agent architectures at a fraction of the cost. Our findings suggest that simple, flexible programmatic interfaces combined with strong foundation models should be the backbone of enterprise automation.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T16:41:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.00073v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

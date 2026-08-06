@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22228v2](http://arxiv.org/abs/2510.22228v2)
 
+## Stabilizing Multi-Attack Adversarial Training via Bandit Optimization
+- **ID**: arxiv_2511.12265v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.12265v2](http://arxiv.org/abs/2511.12265v2)
+
 ## Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks
 - **ID**: arxiv_2512.01208v5
 - **Source**: ArXiv
@@ -574,4 +579,24 @@
 - **ID**: arxiv_2608.04001v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04001v1](http://arxiv.org/abs/2608.04001v1)
+
+## MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation
+- **ID**: arxiv_2608.05076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05076v1](http://arxiv.org/abs/2608.05076v1)
+
+## Optimizing What Policies Learn From: Recoverability-aware Rollout Intervention Learning
+- **ID**: arxiv_2608.05080v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05080v1](http://arxiv.org/abs/2608.05080v1)
+
+## Capability-Gated Planning: Cost-to-Goal Discovery and the Limits of Myopic Experiment Selection
+- **ID**: arxiv_2608.05085v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05085v1](http://arxiv.org/abs/2608.05085v1)
+
+## SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant
+- **ID**: arxiv_2608.05127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05127v1](http://arxiv.org/abs/2608.05127v1)
 

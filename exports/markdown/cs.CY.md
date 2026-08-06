@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02551v1](http://arxiv.org/abs/2608.02551v1)
 
+## The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations
+- **ID**: arxiv_2608.05050v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05050v1](http://arxiv.org/abs/2608.05050v1)
+

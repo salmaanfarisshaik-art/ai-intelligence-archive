@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.24149v2](http://arxiv.org/abs/2512.24149v2)
 
+## Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models
+- **ID**: arxiv_2601.03079v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.03079v5](http://arxiv.org/abs/2601.03079v5)
+
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
@@ -104,6 +109,11 @@
 - **ID**: arxiv_2602.05493v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05493v2](http://arxiv.org/abs/2602.05493v2)
+
+## Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
+- **ID**: arxiv_2602.05547v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.05547v3](http://arxiv.org/abs/2602.05547v3)
 
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
@@ -174,6 +184,11 @@
 - **ID**: arxiv_2605.22660v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22660v2](http://arxiv.org/abs/2605.22660v2)
+
+## VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
+- **ID**: arxiv_2605.27882v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.27882v2](http://arxiv.org/abs/2605.27882v2)
 
 ## Do VLMs Align Better with Humans than LLMs during Natural Reading?
 - **ID**: arxiv_2605.28818v2
@@ -645,6 +660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19322v1](http://arxiv.org/abs/2607.19322v1)
 
+## Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness
+- **ID**: arxiv_2607.19322v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19322v2](http://arxiv.org/abs/2607.19322v2)
+
 ## Selective State-Space Adaptation and Retrieval for Language Model Reasoning
 - **ID**: arxiv_2607.19326v1
 - **Source**: ArXiv
@@ -984,4 +1004,39 @@
 - **ID**: arxiv_2608.04009v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04009v1](http://arxiv.org/abs/2608.04009v1)
+
+## Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models
+- **ID**: arxiv_2608.05064v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05064v1](http://arxiv.org/abs/2608.05064v1)
+
+## German parties shifted towards intuition-based rhetoric after the far right's parliamentary breakthrough
+- **ID**: arxiv_2608.05075v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05075v1](http://arxiv.org/abs/2608.05075v1)
+
+## Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?
+- **ID**: arxiv_2608.05097v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05097v1](http://arxiv.org/abs/2608.05097v1)
+
+## Chained Recursive Language Models for Multi-Iteration Reasoning
+- **ID**: arxiv_2608.05124v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05124v1](http://arxiv.org/abs/2608.05124v1)
+
+## Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models
+- **ID**: arxiv_2608.05126v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05126v1](http://arxiv.org/abs/2608.05126v1)
+
+## Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning
+- **ID**: arxiv_2608.05139v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05139v1](http://arxiv.org/abs/2608.05139v1)
+
+## Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training
+- **ID**: arxiv_2608.05148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05148v1](http://arxiv.org/abs/2608.05148v1)
 

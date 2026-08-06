@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19322v2",
+  "schema_version": "1.0",
+  "name": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19322v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19322v2",
+    "updated": "2026-08-05T17:57:26Z",
+    "published": "2026-07-21T17:42:50Z",
+    "title": "Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness",
+    "summary": "Rubric-based evaluation of open-ended generation faces a fundamental tension between expressiveness and reliability. Authoring a faithful rubric requires expressing the structure of the space of good answers: open-ended sets of acceptable options, ordered processes, and the relative importance of facts. Grading with the rubric requires a judge to score consistently, and judges are far more reliable on flat, binary checks than on rich structure. We resolve this tension with a two-level meta-rubric framework. A structured meta-rubric captures the grading criteria at authoring time, and fixed mechanical rules compile it into a flat checklist of binary, machine-gradable checks that an LLM judge scores reliably at evaluation time. We instantiate the framework as Gamut (Grounded Assessment of Multimodal Factuality), a benchmark for factual completeness in long-form generation. Gamut comprises 1,813 questions grounded in real wearable imagery across 10 diverse domains, each paired with an evidence-backed rubric verified by expert human annotators. Evaluating 14 frontier and open-weight models, we find Gamut genuinely challenging (best score 58.7% from Gemini 3.1 Pro), highly discriminative, and robust to the choice of judge.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-06T03:21:01Z",
+  "last_updated": "2026-08-05T17:57:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19322v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
