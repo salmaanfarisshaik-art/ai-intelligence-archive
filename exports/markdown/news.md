@@ -2626,6 +2626,11 @@
 - **URL**: [https://openai.com/index/how-the-voices-for-chatgpt-were-chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-the-world-is-putting-chatgpt-to-work](https://openai.com/index/how-the-world-is-putting-chatgpt-to-work)
+
+## 
 - **ID**: rss_https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
@@ -2679,6 +2684,11 @@
 - **ID**: rss_https://openai.com/index/improving-gans-using-optimal-transport
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/improving-gans-using-optimal-transport](https://openai.com/index/improving-gans-using-optimal-transport)
+
+## 
+- **ID**: rss_https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt)
 
 ## 
 - **ID**: rss_https://openai.com/index/improving-health-intelligence-in-chatgpt
@@ -3894,6 +3904,11 @@
 - **ID**: rss_https://openai.com/index/openai-amd-strategic-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-amd-strategic-partnership](https://openai.com/index/openai-amd-strategic-partnership)
+
+## 
+- **ID**: rss_https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai](https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai)
 
 ## 
 - **ID**: rss_https://openai.com/index/openai-and-apple-announce-partnership
