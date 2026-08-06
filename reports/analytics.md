@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86486
+**Total Entities Tracked**: 86489
 
 ## Category Distribution
 
@@ -9,7 +9,7 @@
 - **instruction_tuning**: 21000
 - **datasets**: 1419
 - **models**: 1393
-- **dataset**: 1131
+- **dataset**: 1134
 - **news**: 1131
 - **text-generation**: 1001
 - **cs.CV**: 342
@@ -78,7 +78,7 @@
 - **Hugging Face**: 2008
 - **OpenAI Blog**: 1117
 - **ArXiv**: 1078
-- **HuggingFace Datasets**: 131
+- **HuggingFace Datasets**: 134
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -118,18 +118,18 @@
 
 ## Top Tags
 
-- **region:us**: 195
+- **region:us**: 198
 - **text-generation**: 65
-- **library:datasets**: 61
-- **library:mlcroissant**: 61
+- **library:datasets**: 63
+- **library:mlcroissant**: 63
 - **endpoints_compatible**: 57
 - **transformers**: 57
+- **modality:text**: 55
 - **safetensors**: 55
 - **license:apache-2.0**: 54
-- **modality:text**: 54
 - **conversational**: 50
-- **language:en**: 48
-- **library:polars**: 45
+- **language:en**: 50
+- **library:polars**: 46
 - **license:mit**: 40
 - **format:parquet**: 38
 - **text-generation-inference**: 31
@@ -137,23 +137,23 @@
 - **enterprise**: 25
 - **en**: 23
 - **library:dask**: 23
+- **library:pandas**: 23
 - **eval-results**: 22
-- **library:pandas**: 22
-- **task_categories:text-generation**: 20
+- **task_categories:text-generation**: 21
 - **deploy:sagemaker**: 18
+- **modality:image**: 17
 - **qwen3**: 17
+- **size_categories:n<1K**: 17
 - **api**: 16
-- **modality:image**: 16
-- **size_categories:n<1K**: 16
 - **modality:tabular**: 15
+- **license:cc-by-4.0**: 14
 - **license:other**: 14
-- **license:cc-by-4.0**: 12
-- **size_categories:10K<n<100K**: 12
+- **size_categories:10K<n<100K**: 13
+- **modality:video**: 11
 - **multilinguality:monolingual**: 11
 - **size_categories:100K<n<1M**: 11
 - **arxiv:2505.09388**: 10
 - **fp8**: 10
-- **modality:video**: 10
 - **pytorch**: 10
 - **source_datasets:original**: 10
 - **task_categories:robotics**: 10
@@ -164,7 +164,7 @@
 - **language:ar**: 8
 - **security**: 8
 - **size_categories:100M<n<1B**: 8
+- **size_categories:1K<n<10K**: 8
 - **arxiv:2309.00071**: 7
 - **custom_code**: 7
 - **gguf**: 7
-- **language:fr**: 7

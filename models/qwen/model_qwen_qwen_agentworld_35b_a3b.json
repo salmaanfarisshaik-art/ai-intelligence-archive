@@ -3,7 +3,7 @@
   "id": "Qwen/Qwen-AgentWorld-35B-A3B",
   "likes": 665,
   "private": false,
-  "downloads": 86761,
+  "downloads": 85716,
   "tags": [
     "transformers",
     "safetensors",
@@ -22,7 +22,8 @@
     "license:apache-2.0",
     "endpoints_compatible",
     "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "deploy:sagemaker"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

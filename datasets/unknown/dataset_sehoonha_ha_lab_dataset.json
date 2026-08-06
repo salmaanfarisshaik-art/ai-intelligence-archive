@@ -4,12 +4,12 @@
   "author": "sehoonha",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-07-17T04:59:57.000Z",
+  "lastModified": "2026-08-06T09:11:34.000Z",
   "likes": 1,
   "private": false,
-  "sha": "52f7f376029f42172a1204dc3908f077145a3f52",
+  "sha": "b60eb1a05b83270c0778fcaf225d8bb2fc62ab92",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHugging Face Dataset Upload Notes\n\t\n\nThis note summarizes common commands for uploading and managing selected\nfolders in the Hugging Face dataset repository.\nRepository:\nsehoonha/ha-lab-dataset\n\n\n\t\n\t\t\n\t\n\t\n\t\tLogin\n\t\n\nUse a Hugging Face token with write permission.\nhf auth login\nhf auth whoami\n\n\n\t\n\t\t\n\t\n\t\n\t\tUpload One Folder\n\t\n\nUpload only the local test_folder/ directory to test_folder/ in the dataset\nrepository.\nhf upload sehoonha/ha-lab-dataset test_folder test_folder --repo-type… See the full description on the dataset page: https://huggingface.co/datasets/sehoonha/ha-lab-dataset.",
-  "downloads": 33143,
+  "downloads": 33040,
   "tags": [
     "modality:video",
     "region:us"

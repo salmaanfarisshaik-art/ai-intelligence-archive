@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "jhu-clsp/ettin-pretraining-data",
   "description": "\n\t\n\t\t\n\t\tEttin Pre-training Data\n\t\n\n\n\n\n\n\nPhase 1 of 3: Diverse pre-training data mixture (1.7T tokens) used to train the Ettin model suite.\n\nThis dataset contains the pre-training phase data used to train all Ettin encoder and decoder models. The data is provided in MDS format ready for use with Composer and the ModernBERT training repository.\n\n\t\n\t\t\n\t\t📊 Data Composition\n\t\n\n\n\t\n\t\t\nData Source\nTokens (B)\nPercentage\nDescription\n\n\n\t\t\nDCLM\n837.2\n49.1%\nHigh-quality web crawl data\n\n\nCC Head\n356.6… See the full description on the dataset page: https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data.",
-  "size": "216152",
+  "size": "215650",
   "source_url": "https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "7c1cc45be268598bbbbe0157676e520c9290b3b8",
     "description": "\n\t\n\t\t\n\t\tEttin Pre-training Data\n\t\n\n\n\n\n\n\nPhase 1 of 3: Diverse pre-training data mixture (1.7T tokens) used to train the Ettin model suite.\n\nThis dataset contains the pre-training phase data used to train all Ettin encoder and decoder models. The data is provided in MDS format ready for use with Composer and the ModernBERT training repository.\n\n\t\n\t\t\n\t\t📊 Data Composition\n\t\n\n\n\t\n\t\t\nData Source\nTokens (B)\nPercentage\nDescription\n\n\n\t\t\nDCLM\n837.2\n49.1%\nHigh-quality web crawl data\n\n\nCC Head\n356.6… See the full description on the dataset page: https://huggingface.co/datasets/jhu-clsp/ettin-pretraining-data.",
-    "downloads": 216152,
+    "downloads": 215650,
     "tags": [
       "task_categories:text-generation",
       "task_categories:fill-mask",
@@ -38,7 +38,7 @@
     "createdAt": "2024-10-04T15:11:05.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-08-04T10:37:13.851735+00:00",
+  "retrieval_timestamp": "2026-08-06T09:38:55.838435+00:00",
   "last_updated": "2025-07-18T14:09:56.000Z",
   "links": {
     "related_models": [

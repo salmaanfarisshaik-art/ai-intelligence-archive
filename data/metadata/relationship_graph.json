@@ -120756,6 +120756,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_67374c18c32c765810f748f6",
+      "label": "HuggingFaceH4/MATH-500",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_675d7e29e24babdf1842d270",
       "label": "m-a-p/FineFineWeb",
       "category": "dataset"
@@ -121091,6 +121096,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_69f638c8ebff1de2d6753093",
+      "label": "GokuScraper/seedance-2-prompts-datasets",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_69f7105853a9164999100b0b",
       "label": "annoymous-1/CC-Bench",
       "category": "dataset"
@@ -121138,6 +121148,11 @@
     {
       "id": "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
       "label": "tencent/Hy-Embodied-0.5-VLA-Data",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
+      "label": "gutoportelaa/dom-pi-pdfs-2025",
       "category": "dataset"
     },
     {
@@ -438243,6 +438258,11 @@
       "relationship": "related_models"
     },
     {
+      "source": "hf_ds_69f638c8ebff1de2d6753093",
+      "target": "datasets/GokuScraper",
+      "relationship": "related_models"
+    },
+    {
       "source": "hf_ds_69f7105853a9164999100b0b",
       "target": "datasets/annoymous-1",
       "relationship": "related_models"
@@ -438270,6 +438290,11 @@
     {
       "source": "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
       "target": "datasets/tencent",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
+      "target": "datasets/gutoportelaa",
       "relationship": "related_models"
     },
     {

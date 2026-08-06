@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f3e8d83e6aaae989f551872773c397817a9d39d8",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tnatgillin/translations-raw\n\t\n\nFrozen, canonical raw bitext consolidated from upstream alvations/mtdata-raw* snapshots (since deleted). This is the read-only source-of-truth for downstream quality-filtering pipelines.\n\n31,663 parquet files (1566.8 GB)\n49 language pairs under data/<src-tgt>/\nSchema: 5 columns — see below\nRead-only for downstream pipelines. Do not delete or modify.\n\n\n\t\n\t\t\n\t\n\t\n\t\tSchema\n\t\n\nEach parquet has 5 columns:\n\n\t\n\t\t\ncolumn\ntype\ndescription\n\n\n\t\t\nsource\nstring… See the full description on the dataset page: https://huggingface.co/datasets/natgillin/translations-raw.",
-  "downloads": 28527,
+  "downloads": 29313,
   "tags": [
     "language:multilingual",
     "license:mit",

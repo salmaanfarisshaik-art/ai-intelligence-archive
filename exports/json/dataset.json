@@ -2162,6 +2162,32 @@
     "local_path": "datasets/swaystar123/hf_ds_67134260dda81cf20b75342e.json"
   },
   {
+    "id": "hf_ds_67374c18c32c765810f748f6",
+    "title": "HuggingFaceH4/MATH-500",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:json",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "modality:text",
+      "region:us",
+      "size_categories:n<1K",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/HuggingFaceH4/MATH-500",
+    "local_path": "datasets/huggingfaceh4/hf_ds_67374c18c32c765810f748f6.json"
+  },
+  {
     "id": "hf_ds_675d7e29e24babdf1842d270",
     "title": "m-a-p/FineFineWeb",
     "category": "dataset",
@@ -4025,6 +4051,37 @@
     "local_path": "datasets/wegrthj/hf_ds_69f623abadd8e8047bc039e9.json"
   },
   {
+    "id": "hf_ds_69f638c8ebff1de2d6753093",
+    "title": "GokuScraper/seedance-2-prompts-datasets",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "language:en",
+      "language:zh",
+      "license:cc-by-4.0",
+      "modality:image",
+      "modality:video",
+      "prompt-dataset",
+      "prompt-engineering",
+      "region:us",
+      "seedance-2",
+      "size_categories:1K<n<10K",
+      "task_categories:text-to-video",
+      "video-generation",
+      "video-prompt"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/GokuScraper"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets",
+    "local_path": "datasets/gokuscraper/hf_ds_69f638c8ebff1de2d6753093.json"
+  },
+  {
     "id": "hf_ds_69f7105853a9164999100b0b",
     "title": "annoymous-1/CC-Bench",
     "category": "dataset",
@@ -4306,6 +4363,38 @@
     },
     "source_url": "https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data",
     "local_path": "datasets/tencent/hf_ds_6a2a5f5f2ef38e1f849a8ebf.json"
+  },
+  {
+    "id": "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
+    "title": "gutoportelaa/dom-pi-pdfs-2025",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "brazil",
+      "government",
+      "language:pt",
+      "legal",
+      "library:datasets",
+      "library:mlcroissant",
+      "license:cc-by-4.0",
+      "modality:document",
+      "ocr-source",
+      "official-gazette",
+      "pdf",
+      "piaui",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/gutoportelaa"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025",
+    "local_path": "datasets/gutoportelaa/hf_ds_6a2afbce4ee2fe1cd5f3a6bd.json"
   },
   {
     "id": "hf_ds_6a307dae8e258cbed418ec58",

@@ -6594,6 +6594,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_dodon_plotqa_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -7704,12 +7709,22 @@
   ],
   "nanbeige": [
     {
+      "entity_id": "model_nanbeige_nanbeige4_2_3b",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_owao_nanbeige4_2_3b_gguf",
       "match_type": "exact",
       "score": 4.5
     }
   ],
   "nanbeige4": [
+    {
+      "entity_id": "model_nanbeige_nanbeige4_2_3b",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_owao_nanbeige4_2_3b_gguf",
       "match_type": "exact",
@@ -7808,6 +7823,11 @@
       "entity_id": "model_unsloth_nemotron_3_nano_30b_a3b",
       "match_type": "exact",
       "score": 6.5
+    },
+    {
+      "entity_id": "dataset_goku_openlab_nano_banana_pro_prompts_datasets",
+      "match_type": "exact",
+      "score": 5.5
     },
     {
       "entity_id": "model_maziyarpanahi_nvidia_nemotron_nano_12b_v2_gguf",
@@ -13400,6 +13420,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_joeliu996_naturebench",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "alpaca_-1953796601334724100",
       "match_type": "exact",
       "score": 2.0
@@ -14268,6 +14293,11 @@
   "naturebench": [
     {
       "entity_id": "dataset_frontisai_naturebench",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_joeliu996_naturebench",
       "match_type": "exact",
       "score": 3.0
     }
@@ -15624,6 +15654,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_mueller91_mlaad",
       "match_type": "exact",
       "score": 2.5
@@ -15994,6 +16029,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_psrdataset_psr_battlepairs_images",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_qualialabsai_smoothconv",
       "match_type": "exact",
       "score": 1.5
@@ -16060,6 +16100,11 @@
     },
     {
       "entity_id": "dataset_tatsu_lab_alpaca",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_tierkun_indonesian_running_photos",
       "match_type": "exact",
       "score": 1.5
     },
@@ -16321,6 +16366,11 @@
     }
   ],
   "nd": [
+    {
+      "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 2.5
+    },
     {
       "entity_id": "dataset_bodymaps_cancerverse",
       "match_type": "exact",
@@ -40796,6 +40846,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacetb_smoltalk",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_icml_2026_agent_repro_challenge",
       "match_type": "exact",
       "score": 1.0
@@ -56046,6 +56101,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_goku_openlab_nano_banana_pro_prompts_datasets",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_gokuscraper_seedance_2_prompts_datasets",
       "match_type": "exact",
       "score": 3.0
@@ -56057,6 +56117,11 @@
     },
     {
       "entity_id": "dataset_legacy_datasets_wikipedia",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "hf_ds_69f638c8ebff1de2d6753093",
       "match_type": "exact",
       "score": 3.0
     },
@@ -72825,6 +72890,11 @@
   ],
   "novelty": [
     {
+      "entity_id": "dataset_stai_tuebingen_faiss_smollm",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_5813644106859230955",
       "match_type": "exact",
       "score": 1.0
@@ -84994,6 +85064,13 @@
       "score": 1.0
     }
   ],
+  "nvlabs": [
+    {
+      "entity_id": "dataset_marcosv_ffhq_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "nvm": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -85315,6 +85392,11 @@
   "nytopop": [
     {
       "entity_id": "hf_nytopop_Qwen3-8B.w8a8",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_nytopop_qwen3_30b_a3b_w8a8",
       "match_type": "exact",
       "score": 2.0
     },

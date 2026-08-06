@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e2c90a49ee640a23d4f7440c7a5d000e62cf7192",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"franka\",\n    \"total_episodes\": 8612,\n    \"total_frames\": 1137459,\n    \"total_tasks\": 24,\n    \"total_videos\": 34448,\n    \"total_chunks\": 9,\n    \"chunks_size\": 1000,\n    \"fps\": 10,\n    \"splits\": {\n        \"train\": \"0:8612\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/fmb_dataset_lerobot.",
-  "downloads": 28940,
+  "downloads": 27167,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

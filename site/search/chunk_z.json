@@ -819,6 +819,11 @@
   ],
   "zebra": [
     {
+      "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "alpaca_3282268634004080044",
       "match_type": "exact",
       "score": 3.0
@@ -885,6 +890,11 @@
     }
   ],
   "zebras": [
+    {
+      "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "dataset_imageomics_mmla_mpala",
       "match_type": "exact",
@@ -1533,6 +1543,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_goku_openlab_nano_banana_pro_prompts_datasets",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_gokuscraper_seedance_2_prompts_datasets",
       "match_type": "exact",
       "score": 1.5
@@ -2163,6 +2178,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nanbeige_nanbeige4_2_3b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nerkyor_qwen3_6_27b_dsv4pro_thinking_distill",
       "match_type": "exact",
       "score": 1.5
@@ -2414,6 +2434,11 @@
     },
     {
       "entity_id": "model_unsloth_glm_5_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_lfm2_5_1_2b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -2673,6 +2698,13 @@
       "score": 1.0
     }
   ],
+  "zhenyu": [
+    {
+      "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "zhiqiulin": [
     {
       "entity_id": "hf_zhiqiulin_clip-flant5-xxl",
@@ -2683,6 +2715,13 @@
       "entity_id": "model_zhiqiulin_clip_flant5_xxl",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "zhixuan": [
+    {
+      "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zho": [

@@ -403,6 +403,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_goku_openlab_nano_banana_pro_prompts_datasets",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_ilsvrc_imagenet_1k",
       "match_type": "exact",
       "score": 2.0
@@ -819,6 +824,11 @@
     },
     {
       "entity_id": "dataset_manhcuong2005_vietnam_medical_noise_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_marcosv_ffhq_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -1671,6 +1681,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen2_5_7b_instruct_bnb_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_qwen2_5_coder_1_5b_instruct",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3245,6 +3260,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingface_cads_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kantor3_cads_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -3582,6 +3602,11 @@
     }
   ],
   "02737": [
+    {
+      "entity_id": "dataset_huggingfacetb_smoltalk",
+      "match_type": "exact",
+      "score": 2.5
+    },
     {
       "entity_id": "dataset_huggingfacetb_finemath",
       "match_type": "exact",
@@ -7035,6 +7060,11 @@
   ],
   "0731": [
     {
+      "entity_id": "model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_bartowski_deepseek_v4_flash_0731_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -8034,6 +8064,13 @@
     },
     {
       "entity_id": "model_qwen_qwen_7b_chat",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "08372": [
+    {
+      "entity_id": "dataset_chenhn02_metafold",
       "match_type": "exact",
       "score": 1.5
     }
@@ -9584,6 +9621,13 @@
   "09906": [
     {
       "entity_id": "model_parasail_ai_gritlm_7b_vllm",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "09987": [
+    {
+      "entity_id": "dataset_chenhn02_metafold",
       "match_type": "exact",
       "score": 1.5
     }

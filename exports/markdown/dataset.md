@@ -316,6 +316,12 @@
 - **URL**: [https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by](https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by)
 - **Tags**: format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, region:us, size_categories:10M<n<100M
 
+## HuggingFaceH4/MATH-500
+- **ID**: hf_ds_67374c18c32c765810f748f6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/HuggingFaceH4/MATH-500](https://huggingface.co/datasets/HuggingFaceH4/MATH-500)
+- **Tags**: format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:n<1K, task_categories:text-generation
+
 ## m-a-p/FineFineWeb
 - **ID**: hf_ds_675d7e29e24babdf1842d270
 - **Source**: HuggingFace Datasets
@@ -718,6 +724,12 @@
 - **URL**: [https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data)
 - **Tags**: region:us
 
+## GokuScraper/seedance-2-prompts-datasets
+- **ID**: hf_ds_69f638c8ebff1de2d6753093
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets](https://huggingface.co/datasets/GokuScraper/seedance-2-prompts-datasets)
+- **Tags**: language:en, language:zh, license:cc-by-4.0, modality:image, modality:video, prompt-dataset, prompt-engineering, region:us, seedance-2, size_categories:1K<n<10K, task_categories:text-to-video, video-generation, video-prompt
+
 ## annoymous-1/CC-Bench
 - **ID**: hf_ds_69f7105853a9164999100b0b
 - **Source**: HuggingFace Datasets
@@ -777,6 +789,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data](https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data)
 - **Tags**: VLA, arxiv:2606.14409, bimanual, format:parquet, imitation-learning, lance, leRobot, library:datasets, library:lance, library:lerobot, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, manipulation, modality:tabular, modality:text, region:us, robotics, size_categories:n<1K, task_categories:reinforcement-learning, task_categories:robotics
+
+## gutoportelaa/dom-pi-pdfs-2025
+- **ID**: hf_ds_6a2afbce4ee2fe1cd5f3a6bd
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025](https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025)
+- **Tags**: brazil, government, language:pt, legal, library:datasets, library:mlcroissant, license:cc-by-4.0, modality:document, ocr-source, official-gazette, pdf, piaui, region:us, size_categories:10K<n<100K
 
 ## XDOF/ABC-130k
 - **ID**: hf_ds_6a307dae8e258cbed418ec58

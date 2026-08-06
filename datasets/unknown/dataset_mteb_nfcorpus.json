@@ -9,7 +9,7 @@
   "private": false,
   "sha": "52ac3f19d3449632d9f00aab0ad34a110fc03816",
   "description": "\n  NFCorpus\n  An MTEB dataset\n  Massive Text Embedding Benchmark\n\n\nNFCorpus: A Full-Text Learning to Rank Dataset for Medical Information Retrieval\n\n\t\n\t\t\n\n\n\n\n\t\t\nTask category\nt2t\n\n\nDomains\nMedical, Academic, Written\n\n\nReference\nhttps://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/\n\n\n\t\n\n\n\t\n\t\t\n\t\tHow to evaluate on this task\n\t\n\nYou can evaluate an embedding model on this dataset using the following code:\nimport mteb\n\ntask = mteb.get_tasks([\"NFCorpus\"])\nevaluator = mteb.MTEB(task)\n\nmodel =… See the full description on the dataset page: https://huggingface.co/datasets/mteb/nfcorpus.",
-  "downloads": 39119,
+  "downloads": 38608,
   "tags": [
     "task_categories:text-retrieval",
     "multilinguality:monolingual",

@@ -1,0 +1,27 @@
+{
+  "_id": "68f770aa3a39ae6426110f35",
+  "id": "stai-tuebingen/faiss-smollm",
+  "author": "stai-tuebingen",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-01-01T15:51:12.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "ff53e02897aef7ad12bd4328335ea0972a723666",
+  "description": "\n\t\n\t\t\n\t\tFAISS-Based Novelty Detection for SmolLM and SmolLM2\n\t\n\nThis tutorial demonstrates how to the measure novelty of text queries with respect to the provided SmolLM and SmolLM2 pretraining corpora, with optional ColBERTv2 re-ranking for improved precision.\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThe pipeline consists of four main steps:\n\nGenerate Embeddings - Encode your queries using a sentence transformer\nFAISS Search - Retrieve top-K most similar documents from the pretraining corpus\nCombine Results -… See the full description on the dataset page: https://huggingface.co/datasets/stai-tuebingen/faiss-smollm.",
+  "downloads": 29929,
+  "tags": [
+    "license:odc-by",
+    "size_categories:1B<n<10B",
+    "format:arrow",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "arxiv:2510.27313",
+    "region:us"
+  ],
+  "createdAt": "2025-10-21T11:38:18.000Z",
+  "key": "",
+  "unique_id": "dataset_stai_tuebingen_faiss_smollm",
+  "schema_version": "1.0"
+}

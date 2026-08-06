@@ -411,6 +411,11 @@
   ],
   "kabr": [
     {
+      "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_imageomics_mmla_mpala",
       "match_type": "exact",
       "score": 1.5
@@ -4481,6 +4486,11 @@
   ],
   "kenya": [
     {
+      "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "alpaca_-6594454492111175098",
       "match_type": "exact",
       "score": 1.0
@@ -4504,6 +4514,13 @@
       "entity_id": "dataset_imageomics_mmla_opc",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "kenyan": [
+    {
+      "entity_id": "dataset_imageomics_kabr_mini_scene_raw_videos",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "keo": [
@@ -13048,6 +13065,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingface_cads_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kantor3_cads_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -18442,6 +18464,11 @@
     },
     {
       "entity_id": "model_unbabel_towerinstruct_13b_v0_1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_lfm2_5_1_2b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
