@@ -1488,6 +1488,10 @@
 - **ID**: model_huihui_ai_deepseek_r1_distill_qwen_32b_abliterated
 - **Source**: 
 
+## huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF
+- **ID**: model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf
+- **Source**: 
+
 ## huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated
 - **ID**: model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated
 - **Source**: 
@@ -1618,6 +1622,10 @@
 
 ## inclusionAI/Ring-2.5-1T
 - **ID**: model_inclusionai_ring_2_5_1t
+- **Source**: 
+
+## Inferact/MiniMax-M3-EAGLE3
+- **ID**: model_inferact_minimax_m3_eagle3
 - **Source**: 
 
 ## inflatebot/MN-12B-Mag-Mell-R1
@@ -2592,6 +2600,10 @@
 - **ID**: model_microsoft_biogpt
 - **Source**: 
 
+## microsoft/bitnet-b1.58-2B-4T-gguf
+- **ID**: model_microsoft_bitnet_b1_58_2b_4t_gguf
+- **Source**: 
+
 ## microsoft/DialoGPT-medium
 - **ID**: model_microsoft_dialogpt_medium
 - **Source**: 
@@ -2760,6 +2772,10 @@
 - **ID**: model_mlx_community_qwen2_5_3b_instruct_4bit
 - **Source**: 
 
+## mlx-community/Qwen2.5-Coder-7B-Instruct-4bit
+- **ID**: model_mlx_community_qwen2_5_coder_7b_instruct_4bit
+- **Source**: 
+
 ## mlx-community/Qwen3-0.6B-4bit
 - **ID**: model_mlx_community_qwen3_0_6b_4bit
 - **Source**: 
@@ -2850,6 +2866,14 @@
 
 ## mtgv/MobileLLaMA-1.4B-Chat
 - **ID**: model_mtgv_mobilellama_1_4b_chat
+- **Source**: 
+
+## Myric/Laguna-S-2.1-APEX-GGUF
+- **ID**: model_myric_laguna_s_2_1_apex_gguf
+- **Source**: 
+
+## Nanbeige/Nanbeige4.2-3B
+- **ID**: model_nanbeige_nanbeige4_2_3b
 - **Source**: 
 
 ## naver-hyperclovax/HyperCLOVAX-SEED-Think-14B
@@ -3212,6 +3236,10 @@
 - **ID**: model_nvidia_qwen3_next_80b_a3b_instruct_nvfp4
 - **Source**: 
 
+## nytopop/Qwen3-30B-A3B.w8a8
+- **ID**: model_nytopop_qwen3_30b_a3b_w8a8
+- **Source**: 
+
 ## nytopop/Qwen3-8B.w8a8
 - **ID**: model_nytopop_qwen3_8b_w8a8
 - **Source**: 
@@ -3480,6 +3508,10 @@
 - **ID**: model_poolside_laguna_xs_2
 - **Source**: 
 
+## poolside/Laguna-XS-2.1
+- **ID**: model_poolside_laguna_xs_2_1
+- **Source**: 
+
 ## poolside/Laguna-XS-2.1-GGUF
 - **ID**: model_poolside_laguna_xs_2_1_gguf
 - **Source**: 
@@ -3522,6 +3554,10 @@
 
 ## prometheus-eval/prometheus-7b-v2.0
 - **ID**: model_prometheus_eval_prometheus_7b_v2_0
+- **Source**: 
+
+## protoLabsAI/Ornith-1.0-35B-FP8
+- **ID**: model_protolabsai_ornith_1_0_35b_fp8
 - **Source**: 
 
 ## protoLabsAI/Ornith-1.0-9B-MTP-GGUF
@@ -4424,6 +4460,10 @@
 - **ID**: model_sbintuitions_tiny_lm
 - **Source**: 
 
+## SC117/Ornith-1.0-35B-Heretic-MTP-APEX-GGUF
+- **ID**: model_sc117_ornith_1_0_35b_heretic_mtp_apex_gguf
+- **Source**: 
+
 ## SC117/Ornith-1.0-35B-MTP-APEX-GGUF
 - **ID**: model_sc117_ornith_1_0_35b_mtp_apex_gguf
 - **Source**: 
@@ -5040,6 +5080,10 @@
 - **ID**: model_unsloth_laguna_s_2_1_gguf
 - **Source**: 
 
+## unsloth/LFM2.5-1.2B-Instruct-GGUF
+- **ID**: model_unsloth_lfm2_5_1_2b_instruct_gguf
+- **Source**: 
+
 ## unsloth/LFM2.5-8B-A1B-GGUF
 - **ID**: model_unsloth_lfm2_5_8b_a1b_gguf
 - **Source**: 
@@ -5226,6 +5270,10 @@
 
 ## unsloth/Qwen2.5-Coder-14B-Instruct-bnb-4bit
 - **ID**: model_unsloth_qwen2_5_coder_14b_instruct_bnb_4bit
+- **Source**: 
+
+## unsloth/Qwen2.5-Coder-1.5B-Instruct
+- **ID**: model_unsloth_qwen2_5_coder_1_5b_instruct
 - **Source**: 
 
 ## unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit

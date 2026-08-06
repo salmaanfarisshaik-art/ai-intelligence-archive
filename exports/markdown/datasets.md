@@ -585,6 +585,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_banned_historical_archives_low_priority
+- **Source**: 
+
+## 
 - **ID**: dataset_banned_historical_archives_zhongyangribao
 - **Source**: 
 
@@ -850,6 +854,10 @@
 
 ## 
 - **ID**: dataset_chen_space_swisscube
+- **Source**: 
+
+## 
+- **ID**: dataset_chenhn02_metafold
 - **Source**: 
 
 ## 
@@ -1493,6 +1501,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gfdg34fsd_shrink2
+- **Source**: 
+
+## 
 - **ID**: dataset_gigagiggles_european_countries_classifier
 - **Source**: 
 
@@ -1518,6 +1530,10 @@
 
 ## 
 - **ID**: dataset_goku_openlab_gpt_image_2_prompts_datasets
+- **Source**: 
+
+## 
+- **ID**: dataset_goku_openlab_nano_banana_pro_prompts_datasets
 - **Source**: 
 
 ## 
@@ -1809,6 +1825,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_huggingface_cads_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_huggingface_course_documentation_images
 - **Source**: 
 
@@ -1894,6 +1914,10 @@
 
 ## 
 - **ID**: dataset_huggingfacetb_smollm_corpus
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfacetb_smoltalk
 - **Source**: 
 
 ## 
@@ -1994,6 +2018,10 @@
 
 ## 
 - **ID**: dataset_icdn10_content_20260702d45a
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn10_content_20260708227b
 - **Source**: 
 
 ## 
@@ -2177,7 +2205,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_202607089844
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_20260714ae49
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_20260726e624
 - **Source**: 
 
 ## 
@@ -2186,6 +2222,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_20260515c2d4
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_202605255e13
 - **Source**: 
 
 ## 
@@ -2250,6 +2290,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_20260701044e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_202607088c0e
 - **Source**: 
 
 ## 
@@ -2477,11 +2521,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn18_content_20260707ab68
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn18_content_202607128def
 - **Source**: 
 
 ## 
 - **ID**: dataset_icdn18_content_20260721bb02
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn19_content_202607060b55
 - **Source**: 
 
 ## 
@@ -2570,6 +2622,10 @@
 
 ## 
 - **ID**: dataset_imageomics_fish_vista
+- **Source**: 
+
+## 
+- **ID**: dataset_imageomics_kabr_mini_scene_raw_videos
 - **Source**: 
 
 ## 
@@ -2822,6 +2878,10 @@
 
 ## 
 - **ID**: dataset_jobs_git_zyda_2
+- **Source**: 
+
+## 
+- **ID**: dataset_joeliu996_naturebench
 - **Source**: 
 
 ## 
@@ -3241,6 +3301,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lmquan_newtonbench_60k
+- **Source**: 
+
+## 
 - **ID**: dataset_lockon_toolace
 - **Source**: 
 
@@ -3354,6 +3418,14 @@
 
 ## 
 - **ID**: dataset_manusagents_visco_attack
+- **Source**: 
+
+## 
+- **ID**: dataset_marco_molinari_vla_activations
+- **Source**: 
+
+## 
+- **ID**: dataset_marcosv_ffhq_dataset
 - **Source**: 
 
 ## 
@@ -4333,6 +4405,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_psrdataset_psr_battlepairs_images
+- **Source**: 
+
+## 
 - **ID**: dataset_ptb_text_only_ptb_text_only
 - **Source**: 
 
@@ -4653,6 +4729,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_seastereo_usyd_seastereo_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_sehoonha_ha_lab_dataset
 - **Source**: 
 
@@ -4802,6 +4882,10 @@
 
 ## 
 - **ID**: dataset_ssuresh_fortran_code_repos
+- **Source**: 
+
+## 
+- **ID**: dataset_stai_tuebingen_faiss_smollm
 - **Source**: 
 
 ## 
@@ -5066,6 +5150,10 @@
 
 ## 
 - **ID**: dataset_tienmanh93_mdc
+- **Source**: 
+
+## 
+- **ID**: dataset_tierkun_indonesian_running_photos
 - **Source**: 
 
 ## 
