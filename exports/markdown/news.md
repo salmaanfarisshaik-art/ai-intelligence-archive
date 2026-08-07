@@ -4656,6 +4656,11 @@
 - **URL**: [https://openai.com/index/requests-for-research-2](https://openai.com/index/requests-for-research-2)
 
 ## 
+- **ID**: rss_https://openai.com/index/responding-next-frontier-critical-cyber-capabilities
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/responding-next-frontier-critical-cyber-capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities)
+
+## 
 - **ID**: rss_https://openai.com/index/response-to-nyt-data-demands
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/response-to-nyt-data-demands](https://openai.com/index/response-to-nyt-data-demands)
