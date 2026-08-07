@@ -1,48 +1,32 @@
 # Change Summary
 
-**Total Changes:** 95
+**Total Changes:** 75
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_how-the-world-is-putting-chatgpt-to-work.json
-- prompts/openai-blog/rss_https___openai.com_index_improving-gpt-5-6-sol-in-chatgpt.json
-- prompts/openai-blog/rss_https___openai.com_index_openai-and-apa-partner-to-advance-responsible-ai.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/anon8231489123/hf_ds_642912f7a760fe0bf37996b1.json
 - datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
-- datasets/jobs-git/hf_ds_67cac990bdf9000d16109b38.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
-- exports/csv/all_entities.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/news.json
-- exports/markdown/news.md
+- datasets/rajpurkar/hf_ds_621ffdd236468d709f181f95.json
+- datasets/stanfordnlp/hf_ds_621ffdd236468d709f181e77.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/openai/hf_openai_gpt-oss-120b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
-- models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/ibm-granite/hf_ibm-granite_granite-4.1-8b.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/zai-org/hf_zai-org_GLM-5.2-FP8.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
@@ -50,7 +34,6 @@
 - reports/integrity_status.json
 - reports/project_status.json
 - reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -68,7 +51,6 @@
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
-- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -81,7 +63,6 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
