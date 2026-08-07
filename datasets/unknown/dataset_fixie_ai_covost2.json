@@ -9,7 +9,7 @@
   "private": false,
   "sha": "17c8c81e331e7a6929118121771a58c7ef7331d8",
   "description": "This is a partial copy of CoVoST2 dataset.\nThe main difference is that the audio data is included in the dataset, which makes usage easier and allows browsing the samples using HF Dataset Viewer.\nThe limitation of this method is that all audio samples of the EN_XX subsets are duplicated, as such the size of the dataset is larger.\nAs such, not all the data is included: Only the validation and test subsets are available.\nFrom the XX_EN subsets, only fr, es, and zh-CN are included.\n",
-  "downloads": 39056,
+  "downloads": 38236,
   "tags": [
     "size_categories:1M<n<10M",
     "format:parquet",

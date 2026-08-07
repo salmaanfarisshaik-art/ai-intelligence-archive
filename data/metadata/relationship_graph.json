@@ -121061,6 +121061,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6653391015e4f1cd0c0733b3",
+      "label": "AquaV/genshin-voices-separated",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_66631d1046a5a30a27eb75a9",
       "label": "open-llm-leaderboard/requests",
       "category": "dataset"
@@ -121158,6 +121163,11 @@
     {
       "id": "hf_ds_67b9b84c2eb0080c5fc8c88e",
       "label": "IPEC-COMMUNITY/bridge_orig_lerobot",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_67b9d203047d98a072b4e68c",
+      "label": "cadene/droid",
       "category": "dataset"
     },
     {
@@ -128991,6 +129001,11 @@
       "category": "text-generation"
     },
     {
+      "id": "hf_zai-org_GLM-5.2",
+      "label": "zai-org/GLM-5.2",
+      "category": "text-generation"
+    },
+    {
       "id": "hf_zai-org_GLM-5.2-FP8",
       "label": "zai-org/GLM-5.2-FP8",
       "category": "text-generation"
@@ -130978,6 +130993,11 @@
     {
       "id": "model_ibm_granite_granite_3_3_8b_instruct",
       "label": "ibm-granite/granite-3.3-8b-instruct",
+      "category": "models"
+    },
+    {
+      "id": "model_ibm_granite_granite_3b_code_base_2k",
+      "label": "ibm-granite/granite-3b-code-base-2k",
       "category": "models"
     },
     {
@@ -274742,6 +274762,11 @@
     },
     {
       "id": "rss_https://openai.com/index/hp-frontier-partnership",
+      "label": "",
+      "category": "news"
+    },
+    {
+      "id": "rss_https://openai.com/index/hsp-gruppe",
       "label": "",
       "category": "news"
     },
@@ -438765,6 +438790,11 @@
     {
       "source": "hf_ds_67b9b84c2eb0080c5fc8c88e",
       "target": "datasets/IPEC-COMMUNITY",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_67b9d203047d98a072b4e68c",
+      "target": "datasets/cadene",
       "relationship": "related_models"
     },
     {

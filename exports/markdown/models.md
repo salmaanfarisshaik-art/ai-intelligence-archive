@@ -1532,6 +1532,10 @@
 - **ID**: model_ibm_granite_granite_3_3_8b_instruct
 - **Source**: 
 
+## ibm-granite/granite-3b-code-base-2k
+- **ID**: model_ibm_granite_granite_3b_code_base_2k
+- **Source**: 
+
 ## ibm-granite/granite-4.0-h-small
 - **ID**: model_ibm_granite_granite_4_0_h_small
 - **Source**: 

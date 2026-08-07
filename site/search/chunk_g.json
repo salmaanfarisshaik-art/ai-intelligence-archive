@@ -24345,6 +24345,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_deepmind_aqua_rat",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_digitallearninggmbh_math_lighteval",
       "match_type": "exact",
       "score": 1.0
@@ -24923,6 +24928,11 @@
     },
     {
       "entity_id": "dataset_coherelabs_xp3x",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_deepmind_aqua_rat",
       "match_type": "exact",
       "score": 1.5
     },
@@ -25844,6 +25854,11 @@
     },
     {
       "entity_id": "dataset_deepghs_character_index",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_deepmind_aqua_rat",
       "match_type": "exact",
       "score": 1.0
     },
@@ -28110,6 +28125,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_supralabs_supra_50m_reasoning",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_syvai_plapre_nano",
       "match_type": "exact",
       "score": 3.0
@@ -28821,6 +28841,11 @@
     },
     {
       "entity_id": "dataset_openai_openai_humaneval",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
+      "entity_id": "dataset_presentbench_presentbench",
       "match_type": "exact",
       "score": 2.5
     },
@@ -39080,6 +39105,11 @@
       "score": 1.2
     },
     {
+      "entity_id": "hf_zai-org_GLM-5.2",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "hf_zai-org_GLM-5.2-FP8",
       "match_type": "exact",
       "score": 1.2
@@ -39346,6 +39376,11 @@
     },
     {
       "entity_id": "dataset_databricks_databricks_dolly_15k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_deepmind_aqua_rat",
       "match_type": "exact",
       "score": 1.0
     },
@@ -40035,6 +40070,11 @@
     },
     {
       "entity_id": "dataset_nvidia_nemotron_cc_v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_presentbench_presentbench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -41442,6 +41482,11 @@
       "entity_id": "hf_ds_AquaV_genshin-voices-separated",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "hf_ds_6653391015e4f1cd0c0733b3",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "genspark": [
@@ -52743,6 +52788,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_opengvlab_gui_odyssey",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_openmoss_team_omniaction",
       "match_type": "exact",
       "score": 1.0
@@ -52819,6 +52869,11 @@
     },
     {
       "entity_id": "dataset_tigerresearch_pretrain_zh",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_timm_imagenet_22k_wds",
       "match_type": "exact",
       "score": 1.0
     },
@@ -74227,6 +74282,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_zai-org_GLM-5.2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_zai-org_GLM-5.2-FP8",
       "match_type": "exact",
       "score": 2.0
@@ -95115,6 +95175,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_presentbench_presentbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_sharegpt4video_sharegpt4video",
       "match_type": "exact",
       "score": 1.0
@@ -106597,6 +106662,13 @@
       "score": 1.0
     }
   ],
+  "grib": [
+    {
+      "entity_id": "dataset_jacobbieker_hrrr_kerchunk",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "grid": [
     {
       "entity_id": "alpaca_-4742163710177042448",
@@ -113588,6 +113660,13 @@
       "score": 6.0
     }
   ],
+  "gruppe": [
+    {
+      "entity_id": "rss_https://openai.com/index/hsp-gruppe",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "gruy": [
     {
       "entity_id": "alpaca_5813324574705209135",
@@ -115026,6 +115105,11 @@
     }
   ],
   "gui": [
+    {
+      "entity_id": "dataset_opengvlab_gui_odyssey",
+      "match_type": "exact",
+      "score": 5.5
+    },
     {
       "entity_id": "hf_ds_68e91443c366e5879388a4d4",
       "match_type": "exact",
@@ -116513,6 +116597,13 @@
       "entity_id": "alpaca_-1011242343766188669",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "guiodyssey": [
+    {
+      "entity_id": "dataset_opengvlab_gui_odyssey",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "guis": [

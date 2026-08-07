@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86576
+**Total Entities Tracked**: 86581
 
 ## Category Distribution
 
@@ -8,10 +8,10 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1441
-- **models**: 1405
-- **dataset**: 1134
-- **news**: 1134
-- **text-generation**: 1001
+- **models**: 1406
+- **dataset**: 1136
+- **news**: 1135
+- **text-generation**: 1002
 - **cs.CV**: 358
 - **cs.CL**: 217
 - **cs.AI**: 207
@@ -74,11 +74,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30024
-- **Hugging Face**: 2008
+- ****: 30025
+- **Hugging Face**: 2009
 - **ArXiv**: 1128
-- **OpenAI Blog**: 1120
-- **HuggingFace Datasets**: 134
+- **OpenAI Blog**: 1121
+- **HuggingFace Datasets**: 136
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -118,27 +118,27 @@
 
 ## Top Tags
 
-- **region:us**: 198
-- **text-generation**: 65
+- **region:us**: 201
+- **text-generation**: 66
 - **library:datasets**: 63
 - **library:mlcroissant**: 63
-- **endpoints_compatible**: 57
-- **transformers**: 57
+- **endpoints_compatible**: 58
+- **transformers**: 58
+- **safetensors**: 56
+- **license:apache-2.0**: 55
 - **modality:text**: 55
-- **safetensors**: 55
-- **license:apache-2.0**: 54
-- **conversational**: 50
-- **language:en**: 50
+- **conversational**: 51
+- **language:en**: 51
 - **library:polars**: 46
-- **license:mit**: 40
+- **license:mit**: 41
 - **format:parquet**: 38
 - **text-generation-inference**: 31
 - **deploy:azure**: 30
 - **enterprise**: 25
-- **en**: 23
+- **en**: 24
+- **eval-results**: 23
 - **library:dask**: 23
 - **library:pandas**: 23
-- **eval-results**: 22
 - **task_categories:text-generation**: 21
 - **deploy:sagemaker**: 18
 - **modality:image**: 17
@@ -149,14 +149,14 @@
 - **license:cc-by-4.0**: 14
 - **license:other**: 14
 - **size_categories:10K<n<100K**: 13
-- **modality:video**: 11
+- **modality:video**: 12
 - **multilinguality:monolingual**: 11
 - **size_categories:100K<n<1M**: 11
+- **task_categories:robotics**: 11
 - **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **pytorch**: 10
 - **source_datasets:original**: 10
-- **task_categories:robotics**: 10
 - **license:odc-by**: 9
 - **modality:audio**: 9
 - **python**: 9

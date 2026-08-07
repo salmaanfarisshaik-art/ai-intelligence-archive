@@ -1849,6 +1849,23 @@
     "local_path": "datasets/tiger-lab/hf_ds_663b7fd5a4152b77b637ba11.json"
   },
   {
+    "id": "hf_ds_6653391015e4f1cd0c0733b3",
+    "title": "AquaV/genshin-voices-separated",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/AquaV/genshin-voices-separated",
+    "local_path": "datasets/aquav/hf_ds_6653391015e4f1cd0c0733b3.json"
+  },
+  {
     "id": "hf_ds_66631d1046a5a30a27eb75a9",
     "title": "open-llm-leaderboard/requests",
     "category": "dataset",
@@ -2382,6 +2399,33 @@
     },
     "source_url": "https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot",
     "local_path": "datasets/ipec-community/hf_ds_67b9b84c2eb0080c5fc8c88e.json"
+  },
+  {
+    "id": "hf_ds_67b9d203047d98a072b4e68c",
+    "title": "cadene/droid",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "LeRobot",
+      "arxiv:2403.12945",
+      "language:en",
+      "license:apache-2.0",
+      "modality:video",
+      "openx",
+      "region:us",
+      "size_categories:10M<n<100M",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/cadene"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/cadene/droid",
+    "local_path": "datasets/cadene/hf_ds_67b9d203047d98a072b4e68c.json"
   },
   {
     "id": "hf_ds_67cac93b5877d9c876a84572",

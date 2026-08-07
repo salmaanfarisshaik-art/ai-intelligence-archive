@@ -2646,6 +2646,11 @@
 - **URL**: [https://openai.com/index/hp-frontier-partnership](https://openai.com/index/hp-frontier-partnership)
 
 ## 
+- **ID**: rss_https://openai.com/index/hsp-gruppe
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/hsp-gruppe](https://openai.com/index/hsp-gruppe)
+
+## 
 - **ID**: rss_https://openai.com/index/hugging-face-model-evaluation-security-incident
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/hugging-face-model-evaluation-security-incident](https://openai.com/index/hugging-face-model-evaluation-security-incident)

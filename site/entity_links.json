@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:13:55Z",
+  "generated_at": "2026-08-07T10:01:23Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -6245,6 +6245,21 @@
       "source_id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
       "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_supralabs_supra_50m_reasoning",
+      "target_id": "hf_HuggingFaceFW_fineweb-edu",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_supralabs_supra_50m_reasoning",
+      "target_id": "hf_SupraLabs_Supra-50M-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_supralabs_supra_50m_reasoning",
+      "target_id": "hf_SupraLabs_SupraThink-Dataset-500x",
+      "type": "trained_on"
     },
     {
       "source_id": "model_swiss_ai_apertus_70b_instruct_2509",

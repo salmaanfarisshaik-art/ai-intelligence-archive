@@ -1,0 +1,20 @@
+{
+  "_id": "69e2a0ef9e5bb5537090477b",
+  "id": "introvoyz041/parity-experiments",
+  "author": "introvoyz041",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-04-17T21:09:11.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "cf8a49155f01f029e1d82601da8b1ecac78935a2",
+  "description": "\n\t\n\t\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/introvoyz041/parity-experiments.",
+  "downloads": 27139,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2026-04-17T21:06:55.000Z",
+  "key": "",
+  "unique_id": "dataset_introvoyz041_parity_experiments",
+  "schema_version": "1.0"
+}

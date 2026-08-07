@@ -1373,6 +1373,13 @@
       "score": 1.0
     }
   ],
+  "500x": [
+    {
+      "entity_id": "model_supralabs_supra_50m_reasoning",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "500x5": [
     {
       "entity_id": "alpaca_-8021600658002431935",
@@ -1504,6 +1511,11 @@
     }
   ],
   "50m": [
+    {
+      "entity_id": "model_supralabs_supra_50m_reasoning",
+      "match_type": "exact",
+      "score": 6.5
+    },
     {
       "entity_id": "dataset_sensenova_sensenova_vision_corpus_50m",
       "match_type": "exact",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T08:13:55Z",
+  "generated_at": "2026-08-07T10:01:24Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -250,6 +250,7 @@
     ],
     "hf_HuggingFaceFW_fineweb-edu": [
       "model_bsc_lt_salamandra_7b_instruct",
+      "model_supralabs_supra_50m_reasoning",
       "model_tiiuae_falcon_mamba_7b"
     ],
     "hf_HuggingFaceFW_finewiki": [
@@ -1090,6 +1091,12 @@
     ],
     "hf_Skylion007_openwebtext": [
       "model_erwanf_gpt2_mini"
+    ],
+    "hf_SupraLabs_Supra-50M-Base": [
+      "model_supralabs_supra_50m_reasoning"
+    ],
+    "hf_SupraLabs_SupraThink-Dataset-500x": [
+      "model_supralabs_supra_50m_reasoning"
     ],
     "hf_TIGER-Lab_MMEB-train": [
       "model_tiger_lab_vlm2vec_full"
@@ -5523,6 +5530,11 @@
     ],
     "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
+    "model_supralabs_supra_50m_reasoning": [
+      "hf_HuggingFaceFW_fineweb-edu",
+      "hf_SupraLabs_Supra-50M-Base",
+      "hf_SupraLabs_SupraThink-Dataset-500x"
     ],
     "model_swiss_ai_apertus_70b_instruct_2509": [
       "hf_swiss-ai_Apertus-70B-2509"

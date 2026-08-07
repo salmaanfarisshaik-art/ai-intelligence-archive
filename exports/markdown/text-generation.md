@@ -5041,6 +5041,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/zai-org/GLM-5.1-FP8](https://huggingface.co/zai-org/GLM-5.1-FP8)
 
+## zai-org/GLM-5.2
+- **ID**: hf_zai-org_GLM-5.2
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)
+- **Tags**: arxiv:2602.15763, arxiv:2603.12201, conversational, en, endpoints_compatible, eval-results, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
+
 ## zai-org/GLM-5.2-FP8
 - **ID**: hf_zai-org_GLM-5.2-FP8
 - **Source**: Hugging Face

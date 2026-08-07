@@ -250,6 +250,12 @@
 - **URL**: [https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro](https://huggingface.co/datasets/TIGER-Lab/MMLU-Pro)
 - **Tags**: arxiv:2406.01574, benchmark:eval-yaml, benchmark:official, doi:10.57967/hf/2439, evaluation, format:parquet, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:tabular, modality:text, region:us, size_categories:10K<n<100K, task_categories:question-answering
 
+## AquaV/genshin-voices-separated
+- **ID**: hf_ds_6653391015e4f1cd0c0733b3
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/AquaV/genshin-voices-separated](https://huggingface.co/datasets/AquaV/genshin-voices-separated)
+- **Tags**: region:us
+
 ## open-llm-leaderboard/requests
 - **ID**: hf_ds_66631d1046a5a30a27eb75a9
 - **Source**: HuggingFace Datasets
@@ -369,6 +375,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/bridge_orig_lerobot)
 - **Tags**: LeRobot, bridge_orig, license:apache-2.0, modality:video, openx, region:us, rlds, task_categories:robotics, widowx
+
+## cadene/droid
+- **ID**: hf_ds_67b9d203047d98a072b4e68c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/cadene/droid](https://huggingface.co/datasets/cadene/droid)
+- **Tags**: LeRobot, arxiv:2403.12945, language:en, license:apache-2.0, modality:video, openx, region:us, size_categories:10M<n<100M, task_categories:robotics
 
 ## jobs-git/Zyda-2
 - **ID**: hf_ds_67cac93b5877d9c876a84572
