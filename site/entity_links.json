@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:09:22Z",
+  "generated_at": "2026-08-07T08:13:55Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2060,6 +2060,26 @@
       "source_id": "model_ibm_granite_granite_3_3_8b_instruct",
       "target_id": "hf_ibm-granite_granite-3.3-8b-base",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "target_id": "hf_bigcode_starcoderdata",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "target_id": "hf_codeparrot_github-code-clean",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "target_id": "hf_math-ai_StackMathQA",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "target_id": "hf_open-web-math_open-web-math",
+      "type": "trained_on"
     },
     {
       "source_id": "model_ibm_granite_granite_4_0_h_small_fp8",

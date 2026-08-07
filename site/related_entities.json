@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:09:22Z",
+  "generated_at": "2026-08-07T08:13:55Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1282,6 +1282,7 @@
     "hf_bigcode_starcoderdata": [
       "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
       "model_bsc_lt_salamandra_7b_instruct",
+      "model_ibm_granite_granite_3b_code_base_2k",
       "model_stabilityai_stablelm_3b_4e1t",
       "model_thebloke_tinyllama_1_1b_chat_v0_3_awq",
       "model_thebloke_tinyllama_1_1b_chat_v0_3_gptq",
@@ -1355,6 +1356,9 @@
     ],
     "hf_codeparrot_github-code": [
       "model_neuralcrew_neutrino_instruct"
+    ],
+    "hf_codeparrot_github-code-clean": [
+      "model_ibm_granite_granite_3b_code_base_2k"
     ],
     "hf_coder3101_gemma-4-26B-A4B-it-heretic": [
       "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf"
@@ -1867,6 +1871,9 @@
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
       "model_dphn_dolphin_2_9_1_llama_3_70b",
       "model_dphn_dolphin_2_9_1_yi_1_5_34b"
+    ],
+    "hf_math-ai_StackMathQA": [
+      "model_ibm_granite_granite_3b_code_base_2k"
     ],
     "hf_mc4": [
       "model_cyberagent_open_calm_3b",
@@ -2468,6 +2475,9 @@
     ],
     "hf_open-thoughts_OpenThoughts3-1.2M": [
       "model_open_thoughts_openthinker3_7b"
+    ],
+    "hf_open-web-math_open-web-math": [
+      "model_ibm_granite_granite_3b_code_base_2k"
     ],
     "hf_openai_gpt-oss-120b": [
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
@@ -3682,6 +3692,12 @@
     ],
     "model_ibm_granite_granite_3_3_8b_instruct": [
       "hf_ibm-granite_granite-3.3-8b-base"
+    ],
+    "model_ibm_granite_granite_3b_code_base_2k": [
+      "hf_bigcode_starcoderdata",
+      "hf_codeparrot_github-code-clean",
+      "hf_math-ai_StackMathQA",
+      "hf_open-web-math_open-web-math"
     ],
     "model_ibm_granite_granite_4_0_h_small_fp8": [
       "hf_ibm-granite_granite-4.0-h-small"

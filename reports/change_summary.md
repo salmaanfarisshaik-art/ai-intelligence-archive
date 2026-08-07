@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 67
+**Total Changes:** 102
 
 ## Added
 None
@@ -12,14 +12,45 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
+- datasets/rajpurkar/hf_ds_621ffdd236468d709f181f95.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/hmellor/hf_hmellor_tiny-random-LlamaForCausalLM.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen2-1.5B-Instruct.json
+- models/qwen/hf_Qwen_Qwen2.5-1.5B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
 - models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -45,6 +76,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -57,6 +89,8 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
@@ -68,6 +102,7 @@ None
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
+- tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
