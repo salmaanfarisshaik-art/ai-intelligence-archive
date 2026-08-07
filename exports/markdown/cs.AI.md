@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13935v3](http://arxiv.org/abs/2602.13935v3)
 
+## When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
+- **ID**: arxiv_2602.16763v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16763v4](http://arxiv.org/abs/2602.16763v4)
+
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
@@ -810,10 +815,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28609v1](http://arxiv.org/abs/2607.28609v1)
 
+## OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
+- **ID**: arxiv_2607.28609v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28609v2](http://arxiv.org/abs/2607.28609v2)
+
 ## AISPA: User-Centric System Prompt Auditing for Large Language Model Applications
 - **ID**: arxiv_2607.28617v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28617v1](http://arxiv.org/abs/2607.28617v1)
+
+## AISPA: User-Centric System Prompt Auditing for Large Language Model Applications
+- **ID**: arxiv_2607.28617v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28617v2](http://arxiv.org/abs/2607.28617v2)
 
 ## AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction
 - **ID**: arxiv_2607.29549v1
@@ -964,4 +979,59 @@
 - **ID**: arxiv_2608.05144v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05144v1](http://arxiv.org/abs/2608.05144v1)
+
+## DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models
+- **ID**: arxiv_2608.06243v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06243v1](http://arxiv.org/abs/2608.06243v1)
+
+## Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints
+- **ID**: arxiv_2608.06265v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06265v1](http://arxiv.org/abs/2608.06265v1)
+
+## The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images
+- **ID**: arxiv_2608.06270v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06270v1](http://arxiv.org/abs/2608.06270v1)
+
+## QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction
+- **ID**: arxiv_2608.06294v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06294v1](http://arxiv.org/abs/2608.06294v1)
+
+## Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors
+- **ID**: arxiv_2608.06300v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06300v1](http://arxiv.org/abs/2608.06300v1)
+
+## HarnessOpt-Bench: Evaluating LLMs at Harness Optimization
+- **ID**: arxiv_2608.06301v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06301v1](http://arxiv.org/abs/2608.06301v1)
+
+## Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations
+- **ID**: arxiv_2608.06305v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06305v1](http://arxiv.org/abs/2608.06305v1)
+
+## TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories
+- **ID**: arxiv_2608.06346v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06346v1](http://arxiv.org/abs/2608.06346v1)
+
+## Challenges in Evaluating Explanation Methods for Static and Evolving Data
+- **ID**: arxiv_2608.06351v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06351v1](http://arxiv.org/abs/2608.06351v1)
+
+## The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping
+- **ID**: arxiv_2608.06361v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06361v1](http://arxiv.org/abs/2608.06361v1)
+
+## Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering
+- **ID**: arxiv_2608.06366v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06366v1](http://arxiv.org/abs/2608.06366v1)
 

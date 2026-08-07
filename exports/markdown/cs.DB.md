@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.25992v1](http://arxiv.org/abs/2607.25992v1)
 
+## Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data
+- **ID**: arxiv_2608.06331v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06331v1](http://arxiv.org/abs/2608.06331v1)
+

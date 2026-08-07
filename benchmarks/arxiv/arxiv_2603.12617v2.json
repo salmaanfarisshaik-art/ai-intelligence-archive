@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.12617v2",
+  "schema_version": "1.0",
+  "name": "When Drafts Evolve: Speculative Decoding Meets Online Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.12617v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.12617v2",
+    "updated": "2026-08-06T16:21:33Z",
+    "published": "2026-03-13T03:44:27Z",
+    "title": "When Drafts Evolve: Speculative Decoding Meets Online Learning",
+    "summary": "Speculative decoding has emerged as a widely adopted paradigm for accelerating large language model inference, where a lightweight draft model rapidly generates candidate tokens that are then verified in parallel by a larger target model. However, due to limited model capacity, drafts often struggle to approximate the target distribution, resulting in shorter acceptance lengths and diminished speedup. A key yet under-explored observation is that speculative decoding inherently provides verification feedback that quantifies the deviation between the draft and target models at no additional cost. This process naturally forms an iterative \"draft commits-feedback provides-draft adapts\" evolving loop, which precisely matches the online learning paradigm. Motivated by this connection, we propose OnlineSPEC, a unified framework that systematically leverages interactive feedback to continuously evolve draft models. Grounded in dynamic regret minimization, we establish a formal link between online learning performance and speculative system's acceleration rate, and develop novel algorithms via modern online learning techniques, including optimistic online learning that adaptively reuses historical gradients as predictive update hints, and online ensemble learning that dynamically maintains multiple draft models. Our algorithms are equipped with theoretical justifications and improved acceleration rates, achieving up to 24% speedup over seven benchmarks and five foundation models.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-07T04:53:24Z",
+  "last_updated": "2026-08-06T16:21:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.12617v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

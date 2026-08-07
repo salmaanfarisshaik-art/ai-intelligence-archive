@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05050v1](http://arxiv.org/abs/2608.05050v1)
 
+## Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria
+- **ID**: arxiv_2608.06364v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06364v1](http://arxiv.org/abs/2608.06364v1)
+

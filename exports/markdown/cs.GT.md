@@ -20,3 +20,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28575v1](http://arxiv.org/abs/2607.28575v1)
 
+## Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents
+- **ID**: arxiv_2608.06353v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06353v1](http://arxiv.org/abs/2608.06353v1)
+
+## AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games
+- **ID**: arxiv_2608.06362v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06362v1](http://arxiv.org/abs/2608.06362v1)
+

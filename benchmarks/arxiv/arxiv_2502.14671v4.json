@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2502.14671v4",
+  "schema_version": "1.0",
+  "name": "Explanations of Large Language Models Explain Language Representations in the Brain",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2502.14671v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2502.14671v4",
+    "updated": "2026-08-06T16:48:26Z",
+    "published": "2025-02-20T16:05:45Z",
+    "title": "Explanations of Large Language Models Explain Language Representations in the Brain",
+    "summary": "Large Language Model (LLM) representations are known to align with brain activity during language processing, but it remains unclear what drives this alignment. We test whether explainable AI (XAI) can help answer this: using attribution methods, we quantify the contribution of each input word to an LLM's next-word predictions and use these explanations to predict fMRI data from participants listening to narratives. We find that gradient-based attribution methods robustly align with brain activity, contribute unique variance beyond acoustic and word-rate confounds, and outperform internal representations in early auditory regions. Using conductance, we extend attribution from words to individual layers, asking what each layer's attribution reveals about the model's computation and how this relates to its brain alignment. Early layers show greater word-type sensitivity and align preferentially with auditory regions, whereas the final layer's attribution is dominated by positional information and exhibits broad cortical alignment. Together, these findings demonstrate that attribution-based explanations can be used not only to measure LLM--brain alignment but to characterize what it reflects.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-07T04:53:24Z",
+  "last_updated": "2026-08-06T16:48:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2502.14671v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

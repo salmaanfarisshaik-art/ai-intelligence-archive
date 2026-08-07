@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.13553v4](http://arxiv.org/abs/2506.13553v4)
 
+## Multi-Representation Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition
+- **ID**: arxiv_2506.14243v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.14243v4](http://arxiv.org/abs/2506.14243v4)
+
 ## CDG-MAE: Cross-view Masked Modeling using Diffusion Generated Views
 - **ID**: arxiv_2506.18164v2
 - **Source**: ArXiv
@@ -64,6 +69,11 @@
 - **ID**: arxiv_2508.01312v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.01312v5](http://arxiv.org/abs/2508.01312v5)
+
+## Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization
+- **ID**: arxiv_2508.11183v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.11183v2](http://arxiv.org/abs/2508.11183v2)
 
 ## CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication
 - **ID**: arxiv_2508.13899v2
@@ -339,6 +349,11 @@
 - **ID**: arxiv_2606.13679v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13679v1](http://arxiv.org/abs/2606.13679v1)
+
+## What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective
+- **ID**: arxiv_2606.14299v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.14299v2](http://arxiv.org/abs/2606.14299v2)
 
 ## S$^2$COPE: Self-Supervised Concept Discovery via Preference Learning
 - **ID**: arxiv_2606.14586v1
@@ -675,6 +690,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.05268v3](http://arxiv.org/abs/2607.05268v3)
 
+## Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data
+- **ID**: arxiv_2607.06923v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.06923v2](http://arxiv.org/abs/2607.06923v2)
+
 ## Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture
 - **ID**: arxiv_2607.12254v2
 - **Source**: ArXiv
@@ -889,6 +909,11 @@
 - **ID**: arxiv_2607.18237v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
+
+## Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics
+- **ID**: arxiv_2607.18540v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18540v2](http://arxiv.org/abs/2607.18540v2)
 
 ## Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing
 - **ID**: arxiv_2607.19064v2
@@ -1640,6 +1665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04010v1](http://arxiv.org/abs/2608.04010v1)
 
+## Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes
+- **ID**: arxiv_2608.05000v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05000v2](http://arxiv.org/abs/2608.05000v2)
+
 ## OmniEdit-Bench: A Comprehensive Benchmark for Instruction-based Video Editing
 - **ID**: arxiv_2608.05049v1
 - **Source**: ArXiv
@@ -1685,6 +1715,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05122v1](http://arxiv.org/abs/2608.05122v1)
 
+## IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers
+- **ID**: arxiv_2608.05122v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05122v2](http://arxiv.org/abs/2608.05122v2)
+
 ## OPD-V: Visual On-Policy Self-Distillation with Modality Balance
 - **ID**: arxiv_2608.05131v1
 - **Source**: ArXiv
@@ -1709,4 +1744,49 @@
 - **ID**: arxiv_2608.05149v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05149v1](http://arxiv.org/abs/2608.05149v1)
+
+## EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation
+- **ID**: arxiv_2608.06231v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06231v1](http://arxiv.org/abs/2608.06231v1)
+
+## Depth-Guided Video Object Counting in Crowded Scenes
+- **ID**: arxiv_2608.06236v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06236v1](http://arxiv.org/abs/2608.06236v1)
+
+## PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation
+- **ID**: arxiv_2608.06240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06240v1](http://arxiv.org/abs/2608.06240v1)
+
+## Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model
+- **ID**: arxiv_2608.06252v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06252v1](http://arxiv.org/abs/2608.06252v1)
+
+## MASS: Multiplayer World Models with Authoritative Shared State
+- **ID**: arxiv_2608.06257v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06257v1](http://arxiv.org/abs/2608.06257v1)
+
+## OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations
+- **ID**: arxiv_2608.06264v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06264v1](http://arxiv.org/abs/2608.06264v1)
+
+## TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN
+- **ID**: arxiv_2608.06275v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06275v1](http://arxiv.org/abs/2608.06275v1)
+
+## UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression
+- **ID**: arxiv_2608.06307v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06307v1](http://arxiv.org/abs/2608.06307v1)
+
+## Does FLAIR super-resolution erase or hallucinate small white-matter lesions?
+- **ID**: arxiv_2608.06311v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06311v1](http://arxiv.org/abs/2608.06311v1)
 

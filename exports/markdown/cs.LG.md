@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.02451v2](http://arxiv.org/abs/2601.02451v2)
 
+## d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation
+- **ID**: arxiv_2601.07568v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.07568v3](http://arxiv.org/abs/2601.07568v3)
+
 ## Knowledge-Guided Time-Varying Causal Inference for Arctic Sea Ice Dynamics
 - **ID**: arxiv_2601.17647v3
 - **Source**: ArXiv
@@ -94,6 +99,11 @@
 - **ID**: arxiv_2601.21284v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
+
+## When Drafts Evolve: Speculative Decoding Meets Online Learning
+- **ID**: arxiv_2603.12617v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.12617v2](http://arxiv.org/abs/2603.12617v2)
 
 ## A Survey of On-Policy Distillation for Large Language Models
 - **ID**: arxiv_2604.00626v4
@@ -139,6 +149,11 @@
 - **ID**: arxiv_2605.13801v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.13801v2](http://arxiv.org/abs/2605.13801v2)
+
+## Fast Rates for Inverse Reinforcement Learning
+- **ID**: arxiv_2605.14599v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14599v2](http://arxiv.org/abs/2605.14599v2)
 
 ## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
 - **ID**: arxiv_2605.22142v3
@@ -599,4 +614,24 @@
 - **ID**: arxiv_2608.05127v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05127v1](http://arxiv.org/abs/2608.05127v1)
+
+## BaKron: Efficient Quantization with Kronecker-Factored Hessians
+- **ID**: arxiv_2608.06291v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06291v1](http://arxiv.org/abs/2608.06291v1)
+
+## RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction
+- **ID**: arxiv_2608.06310v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06310v1](http://arxiv.org/abs/2608.06310v1)
+
+## CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks
+- **ID**: arxiv_2608.06352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06352v1](http://arxiv.org/abs/2608.06352v1)
+
+## An Optimal Agnostic PAC Algorithm
+- **ID**: arxiv_2608.06363v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06363v1](http://arxiv.org/abs/2608.06363v1)
 

@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.06458v2](http://arxiv.org/abs/2410.06458v2)
 
+## Explanations of Large Language Models Explain Language Representations in the Brain
+- **ID**: arxiv_2502.14671v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.14671v4](http://arxiv.org/abs/2502.14671v4)
+
 ## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
 - **ID**: arxiv_2503.07303v3
 - **Source**: ArXiv
@@ -84,6 +89,11 @@
 - **ID**: arxiv_2601.03079v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.03079v5](http://arxiv.org/abs/2601.03079v5)
+
+## Layer-wise Positional Bias in Short-Context Language Modeling
+- **ID**: arxiv_2601.04098v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.04098v2](http://arxiv.org/abs/2601.04098v2)
 
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
@@ -1005,6 +1015,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04009v1](http://arxiv.org/abs/2608.04009v1)
 
+## A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination
+- **ID**: arxiv_2608.04872v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04872v2](http://arxiv.org/abs/2608.04872v2)
+
 ## Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models
 - **ID**: arxiv_2608.05064v1
 - **Source**: ArXiv
@@ -1039,4 +1054,34 @@
 - **ID**: arxiv_2608.05148v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05148v1](http://arxiv.org/abs/2608.05148v1)
+
+## NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering
+- **ID**: arxiv_2608.06292v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06292v1](http://arxiv.org/abs/2608.06292v1)
+
+## Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents
+- **ID**: arxiv_2608.06312v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06312v1](http://arxiv.org/abs/2608.06312v1)
+
+## Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents
+- **ID**: arxiv_2608.06329v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06329v1](http://arxiv.org/abs/2608.06329v1)
+
+## RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer
+- **ID**: arxiv_2608.06347v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06347v1](http://arxiv.org/abs/2608.06347v1)
+
+## The Bitter Lesson of Tool Calling
+- **ID**: arxiv_2608.06370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06370v1](http://arxiv.org/abs/2608.06370v1)
+
+## Learning When to Trust via Selective Context Preference Optimization
+- **ID**: arxiv_2608.06377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06377v1](http://arxiv.org/abs/2608.06377v1)
 

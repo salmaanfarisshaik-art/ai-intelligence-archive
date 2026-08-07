@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.07568v3",
+  "schema_version": "1.0",
+  "name": "d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.07568v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.07568v3",
+    "updated": "2026-08-06T16:26:09Z",
+    "published": "2026-01-12T14:25:36Z",
+    "title": "d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation",
+    "summary": "Diffusion large language models (dLLMs) offer capabilities beyond those of autoregressive (AR) LLMs, such as parallel decoding and random-order generation. However, realizing these benefits in practice is non-trivial, as dLLMs inherently face an accuracy-parallelism trade-off. Despite increasing interest, existing methods typically focus on only one-side of the coin, targeting either efficiency or accuracy. To address this limitation, we propose d3LLM (Pseudo-Distilled Diffusion Large Language Model), striking a balance between accuracy and parallelism: (i) during training, we introduce pseudo-trajectory distillation to teach the model which tokens can be decoded confidently at early steps, thereby improving parallelism; (ii) during inference, we employ entropy-based multi-block decoding with a KV-cache refresh mechanism to achieve high parallelism while maintaining accuracy. To better evaluate dLLMs, we also introduce AUP (Accuracy Under Parallelism), a new metric that jointly measures accuracy and parallelism. Experiments demonstrate that our d3LLM achieves up to 10$\\times$ speedup over vanilla LLaDA/Dream, and 5$\\times$ speedup over AR models without much accuracy drop. Our code is available at https://github.com/hao-ai-lab/d3LLM.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-07T04:53:24Z",
+  "last_updated": "2026-08-06T16:26:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.07568v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
