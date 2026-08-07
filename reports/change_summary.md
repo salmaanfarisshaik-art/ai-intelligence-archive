@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 61
+**Total Changes:** 60
 
 ## Added
 None
@@ -12,11 +12,11 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- prompts/openai-blog/rss_https___openai.com_index_instruction-following.json
+- prompts/openai-blog/rss_https___openai.com_index_whisper.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -32,6 +32,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -41,30 +42,28 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
-- tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
+- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
-- tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
+- tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
-- tools/github-trending/gh_730534580.json
+- tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
