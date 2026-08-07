@@ -4604,6 +4604,10 @@
 - **ID**: model_stepfun_ai_step_3_7_flash_nvfp4
 - **Source**: 
 
+## SupraLabs/Supra-50M-Reasoning
+- **ID**: model_supralabs_supra_50m_reasoning
+- **Source**: 
+
 ## swiss-ai/Apertus-70B-Instruct-2509
 - **ID**: model_swiss_ai_apertus_70b_instruct_2509
 - **Source**: 

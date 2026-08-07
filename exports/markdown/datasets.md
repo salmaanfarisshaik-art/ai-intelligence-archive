@@ -1073,6 +1073,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_deepmind_aqua_rat
+- **Source**: 
+
+## 
 - **ID**: dataset_deepmind_code_contests
 - **Source**: 
 
@@ -1625,6 +1629,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_harborframework_parity_experiments
+- **Source**: 
+
+## 
 - **ID**: dataset_harland_audiomcq_strongac_geminicot
 - **Source**: 
 
@@ -2026,6 +2034,10 @@
 
 ## 
 - **ID**: dataset_icdn10_content_20260714bcff
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn10_content_20260726ad2b
 - **Source**: 
 
 ## 
@@ -2689,6 +2701,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_introvoyz041_parity_experiments
+- **Source**: 
+
+## 
 - **ID**: dataset_introvoyz041_physicalai_robotics_open_h_embodiment
 - **Source**: 
 
@@ -2774,6 +2790,10 @@
 
 ## 
 - **ID**: dataset_jacobbieker_eumetsat_rss
+- **Source**: 
+
+## 
+- **ID**: dataset_jacobbieker_hrrr_kerchunk
 - **Source**: 
 
 ## 
@@ -4161,6 +4181,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_opengvlab_gui_odyssey
+- **Source**: 
+
+## 
 - **ID**: dataset_opengvlab_mvbench
 - **Source**: 
 
@@ -4362,6 +4386,10 @@
 
 ## 
 - **ID**: dataset_preezy02_en_us_data_with_images_placeholders_removed
+- **Source**: 
+
+## 
+- **ID**: dataset_presentbench_presentbench
 - **Source**: 
 
 ## 
@@ -4630,6 +4658,10 @@
 
 ## 
 - **ID**: dataset_s17660101713_hagrid_subset
+- **Source**: 
+
+## 
+- **ID**: dataset_s3sound_acid
 - **Source**: 
 
 ## 
@@ -4921,6 +4953,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_stev929_landdiscover50k
+- **Source**: 
+
+## 
 - **ID**: dataset_subhan1501_fake_face_detection_dataset
 - **Source**: 
 
@@ -5170,6 +5206,10 @@
 
 ## 
 - **ID**: dataset_tiiuae_falcon_refinedweb
+- **Source**: 
+
+## 
+- **ID**: dataset_timm_imagenet_22k_wds
 - **Source**: 
 
 ## 
