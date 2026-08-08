@@ -9,7 +9,7 @@
   "private": false,
   "sha": "159a5aecaf2ba73855940ad325b477b27d85da73",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMolmoBot-data\n\t\n\nTraining episode data (actions, visual inputs, and other sensor data) for 8 tasks on 2 robotic platforms:\n\nDoorOpeningDataGenConfig\nRBY1OpenDataGenConfig\nRBY1PickDataGenConfig\nFrankaPickOmniCamConfig\nRBY1PickAndPlaceDataGenConfig\nFrankaPickAndPlaceOmniCamConfig\nFrankaPickAndPlaceColorOmniCamConfig\nFrankaPickAndPlaceNextToOmniCamConfig\n\nPlease note that every package indexed by the parquet files can contain several instances of episode data.\nWe also provide an… See the full description on the dataset page: https://huggingface.co/datasets/allenai/molmobot-data.",
-  "downloads": 37447,
+  "downloads": 38323,
   "tags": [
     "language:en",
     "license:odc-by",

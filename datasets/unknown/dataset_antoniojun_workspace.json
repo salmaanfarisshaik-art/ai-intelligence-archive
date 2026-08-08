@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8988d23e797aa82ec96926ec3d25e32e32ba9104",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSpatial Code VSI-Bench Workspace\n\t\n\nThis workspace evaluates VSI-Bench question answering with several input regimes:\nraw video frames, perceived spatial codes from SAM3 + Depth Anything 3 caches,\nground-truth spatial codes from dataset annotations, and a deterministic symbolic\nsolver. The code is organized so important outputs are reproducible from fixed\ninputs, fixed packages, fixed model checkpoints, and fixed SAM3/DA3 caches.\nThe repository intentionally separates three… See the full description on the dataset page: https://huggingface.co/datasets/AntonioJun/workspace.",
-  "downloads": 32385,
+  "downloads": 32387,
   "tags": [
     "region:us"
   ],

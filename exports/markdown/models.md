@@ -936,6 +936,10 @@
 - **ID**: model_delphi_suite_v0_llama2_100k
 - **Source**: 
 
+## DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF
+- **ID**: model_devquasar_amd_instella_moe_16b_a3b_think_gguf
+- **Source**: 
+
 ## dicta-il/DictaLM-3.0-1.7B-Instruct
 - **ID**: model_dicta_il_dictalm_3_0_1_7b_instruct
 - **Source**: 
@@ -1196,8 +1200,16 @@
 - **ID**: model_farbodtavakkoli_otel_llm_e4b_it
 - **Source**: 
 
+## FINAL-Bench/POCKET-26B-GGUF
+- **ID**: model_final_bench_pocket_26b_gguf
+- **Source**: 
+
 ## FINAL-Bench/POCKET-35B-GGUF
 - **ID**: model_final_bench_pocket_35b_gguf
+- **Source**: 
+
+## flywheel-ai/automotive
+- **ID**: model_flywheel_ai_automotive
 - **Source**: 
 
 ## GadflyII/GLM-4.7-Flash-NVFP4
@@ -1538,6 +1550,10 @@
 
 ## ibm-granite/granite-3b-code-base-2k
 - **ID**: model_ibm_granite_granite_3b_code_base_2k
+- **Source**: 
+
+## ibm-granite/granite-4.0-h-micro
+- **ID**: model_ibm_granite_granite_4_0_h_micro
 - **Source**: 
 
 ## ibm-granite/granite-4.0-h-small
@@ -1906,6 +1922,10 @@
 
 ## LiquidAI/LFM2.5-2.6B
 - **ID**: model_liquidai_lfm2_5_2_6b
+- **Source**: 
+
+## LiquidAI/LFM2.5-2.6B-GGUF
+- **ID**: model_liquidai_lfm2_5_2_6b_gguf
 - **Source**: 
 
 ## LiquidAI/LFM2.5-350M

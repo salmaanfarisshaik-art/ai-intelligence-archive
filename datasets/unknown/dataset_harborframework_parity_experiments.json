@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9e2aebde419579e58d7183136184b0071faac3a3",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/parity-experiments.",
-  "downloads": 29243,
+  "downloads": 29340,
   "tags": [
     "region:us"
   ],

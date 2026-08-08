@@ -6131,6 +6131,11 @@
       "target": "datasets/k9cli"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6a615c95fb10b1093e0ea9ed",
+      "target": "datasets/HuggingFaceCode"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -6381,7 +6386,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-08T08:38:53.065419+00:00",
+  "generated_at": "2026-08-08T09:35:56.562362+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -124307,6 +124312,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_zhoujt1994_humancellepigenomeatlas_sc_allc",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_zhoujt1994_humancellepigenomeatlas_sc_contact",
       "label": ""
     },
@@ -127979,6 +127989,11 @@
       "category": "dataset",
       "id": "hf_ds_6a517a8032bfea14be5a68aa",
       "label": "fujinchu/imgbed"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a615c95fb10b1093e0ea9ed",
+      "label": "HuggingFaceCode/stack-v3-train"
     },
     {
       "category": "dataset",
@@ -136692,6 +136707,11 @@
     },
     {
       "category": "models",
+      "id": "model_devquasar_amd_instella_moe_16b_a3b_think_gguf",
+      "label": "DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_dicta_il_dictalm_3_0_1_7b_instruct",
       "label": "dicta-il/DictaLM-3.0-1.7B-Instruct"
     },
@@ -137017,8 +137037,18 @@
     },
     {
       "category": "models",
+      "id": "model_final_bench_pocket_26b_gguf",
+      "label": "FINAL-Bench/POCKET-26B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_final_bench_pocket_35b_gguf",
       "label": "FINAL-Bench/POCKET-35B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_flywheel_ai_automotive",
+      "label": "flywheel-ai/automotive"
     },
     {
       "category": "models",
@@ -137444,6 +137474,11 @@
       "category": "models",
       "id": "model_ibm_granite_granite_3b_code_base_2k",
       "label": "ibm-granite/granite-3b-code-base-2k"
+    },
+    {
+      "category": "models",
+      "id": "model_ibm_granite_granite_4_0_h_micro",
+      "label": "ibm-granite/granite-4.0-h-micro"
     },
     {
       "category": "models",
@@ -137904,6 +137939,11 @@
       "category": "models",
       "id": "model_liquidai_lfm2_5_2_6b",
       "label": "LiquidAI/LFM2.5-2.6B"
+    },
+    {
+      "category": "models",
+      "id": "model_liquidai_lfm2_5_2_6b_gguf",
+      "label": "LiquidAI/LFM2.5-2.6B-GGUF"
     },
     {
       "category": "models",
@@ -439362,6 +439402,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 1276,
-  "total_nodes": 86595
+  "total_edges": 1277,
+  "total_nodes": 86602
 }

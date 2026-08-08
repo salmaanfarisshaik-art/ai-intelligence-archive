@@ -117921,6 +117921,11 @@
       "category": "datasets"
     },
     {
+      "id": "dataset_zhoujt1994_humancellepigenomeatlas_sc_allc",
+      "label": "",
+      "category": "datasets"
+    },
+    {
       "id": "dataset_zhoujt1994_humancellepigenomeatlas_sc_contact",
       "label": "",
       "category": "datasets"
@@ -121593,6 +121598,11 @@
     {
       "id": "hf_ds_6a517a8032bfea14be5a68aa",
       "label": "fujinchu/imgbed",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a615c95fb10b1093e0ea9ed",
+      "label": "HuggingFaceCode/stack-v3-train",
       "category": "dataset"
     },
     {
@@ -130306,6 +130316,11 @@
       "category": "models"
     },
     {
+      "id": "model_devquasar_amd_instella_moe_16b_a3b_think_gguf",
+      "label": "DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF",
+      "category": "models"
+    },
+    {
       "id": "model_dicta_il_dictalm_3_0_1_7b_instruct",
       "label": "dicta-il/DictaLM-3.0-1.7B-Instruct",
       "category": "models"
@@ -130631,8 +130646,18 @@
       "category": "models"
     },
     {
+      "id": "model_final_bench_pocket_26b_gguf",
+      "label": "FINAL-Bench/POCKET-26B-GGUF",
+      "category": "models"
+    },
+    {
       "id": "model_final_bench_pocket_35b_gguf",
       "label": "FINAL-Bench/POCKET-35B-GGUF",
+      "category": "models"
+    },
+    {
+      "id": "model_flywheel_ai_automotive",
+      "label": "flywheel-ai/automotive",
       "category": "models"
     },
     {
@@ -131058,6 +131083,11 @@
     {
       "id": "model_ibm_granite_granite_3b_code_base_2k",
       "label": "ibm-granite/granite-3b-code-base-2k",
+      "category": "models"
+    },
+    {
+      "id": "model_ibm_granite_granite_4_0_h_micro",
+      "label": "ibm-granite/granite-4.0-h-micro",
       "category": "models"
     },
     {
@@ -131518,6 +131548,11 @@
     {
       "id": "model_liquidai_lfm2_5_2_6b",
       "label": "LiquidAI/LFM2.5-2.6B",
+      "category": "models"
+    },
+    {
+      "id": "model_liquidai_lfm2_5_2_6b_gguf",
+      "label": "LiquidAI/LFM2.5-2.6B-GGUF",
       "category": "models"
     },
     {
@@ -439105,6 +439140,11 @@
     {
       "source": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "target": "datasets/k9cli",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a615c95fb10b1093e0ea9ed",
+      "target": "datasets/HuggingFaceCode",
       "relationship": "related_models"
     },
     {

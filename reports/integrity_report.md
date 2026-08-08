@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-08-08T08:38:54.901631+00:00
-**Warnings:** 1276
+**Generated:** 2026-08-08T09:35:58.146381+00:00
+**Warnings:** 1277
 **Errors:** 30
 
 ## Issues
@@ -1264,6 +1264,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/gutoportelaa
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceCode
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2410.09102

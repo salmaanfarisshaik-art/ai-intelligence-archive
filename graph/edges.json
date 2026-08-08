@@ -6131,6 +6131,11 @@
       "target": "datasets/k9cli"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6a615c95fb10b1093e0ea9ed",
+      "target": "datasets/HuggingFaceCode"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -6381,9 +6386,9 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-08T08:38:53.065419+00:00",
+  "generated_at": "2026-08-08T09:35:56.562362+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "schema_version": "1.0",
-  "total_edges": 1276
+  "total_edges": 1277
 }
