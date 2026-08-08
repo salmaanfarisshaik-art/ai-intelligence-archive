@@ -1,48 +1,28 @@
 # Change Summary
 
-**Total Changes:** 80
+**Total Changes:** 62
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
-- datasets/stanfordnlp/hf_ds_621ffdd236468d709f181e77.json
-- exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/markdown/datasets.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -65,7 +45,9 @@ None
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
+- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
+- tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
