@@ -1,12 +1,13 @@
 {
-  "_id": "65a64f165684ef5057740aa3",
-  "id": "EleutherAI/pythia-160m-weight-seed1",
+  "_id": "63ed061b5817b1bbe39499bf",
+  "id": "EleutherAI/pythia-160m-seed1",
   "likes": 0,
   "private": false,
-  "downloads": 80641,
+  "downloads": 34667,
   "tags": [
     "transformers",
     "pytorch",
+    "safetensors",
     "gpt_neox",
     "text-generation",
     "causal-lm",
@@ -19,13 +20,14 @@
     "license:apache-2.0",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
-  "createdAt": "2024-01-16T09:40:38.000Z",
-  "modelId": "EleutherAI/pythia-160m-weight-seed1",
-  "name": "EleutherAI/pythia-160m-weight-seed1",
-  "unique_id": "model_eleutherai_pythia_160m_weight_seed1",
+  "createdAt": "2023-02-15T16:19:39.000Z",
+  "modelId": "EleutherAI/pythia-160m-seed1",
+  "name": "EleutherAI/pythia-160m-seed1",
+  "unique_id": "model_eleutherai_pythia_160m_seed1",
   "schema_version": "1.0"
 }

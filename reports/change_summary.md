@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 65
+**Total Changes:** 87
 
 ## Added
 None
@@ -11,12 +11,35 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/hmellor/hf_hmellor_tiny-random-LlamaForCausalLM.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/qwen/hf_Qwen_Qwen2-1.5B-Instruct.json
+- models/qwen/hf_Qwen_Qwen2.5-1.5B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -42,19 +65,18 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
-- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_635240594.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
