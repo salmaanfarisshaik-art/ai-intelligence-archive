@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 60
+**Total Changes:** 61
 
 ## Added
 None
@@ -15,7 +15,7 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash.json
+- models/openai-community/hf_openai-community_gpt2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -40,12 +40,12 @@ None
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
-- tools/github-trending/gh_132464395.json
+- tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
@@ -62,6 +62,7 @@ None
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
+- tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_976921297.json
