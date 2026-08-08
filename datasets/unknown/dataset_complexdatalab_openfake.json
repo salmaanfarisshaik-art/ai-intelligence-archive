@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3fd1109dc3258874243fa31c5bda9ee24260163b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for OpenFake\n\t\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tKnown issues\n\t\n\nPrompt–image misalignment in the synthetic split (reported November 2025, fix pending)\nFor five of the eighty generators, the prompt field attached to synthetic\nimages does not correspond to the prompt actually used to generate that image.\nAffected generators:\n\nflux-realism\nsd-3.5\nsdxl-realvis-v5\nsd-1.5-dreamshaper\nsd-1.5-epicdream\n\nThis affects approximately 19.77% of synthetic images. It was first reported in\ndiscussion… See the full description on the dataset page: https://huggingface.co/datasets/ComplexDataLab/OpenFake.",
-  "downloads": 47021,
+  "downloads": 45825,
   "tags": [
     "task_categories:image-classification",
     "language:en",

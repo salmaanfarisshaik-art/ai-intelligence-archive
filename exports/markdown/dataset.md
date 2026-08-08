@@ -256,6 +256,12 @@
 - **URL**: [https://huggingface.co/datasets/AquaV/genshin-voices-separated](https://huggingface.co/datasets/AquaV/genshin-voices-separated)
 - **Tags**: region:us
 
+## HuggingFaceFW/fineweb-edu
+- **ID**: hf_ds_6655eb19d17e141dcb546ed5
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu](https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu)
+- **Tags**: arxiv:2109.07445, arxiv:2401.10020, arxiv:2404.14219, arxiv:2406.17557, doi:10.57967/hf/2497, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-generation
+
 ## open-llm-leaderboard/requests
 - **ID**: hf_ds_66631d1046a5a30a27eb75a9
 - **Source**: HuggingFace Datasets

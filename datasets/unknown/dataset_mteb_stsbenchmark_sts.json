@@ -9,7 +9,7 @@
   "private": false,
   "sha": "96943a16ea6a35129e253c659081cb59daf81b30",
   "description": "\n  STSBenchmark\n  An MTEB dataset\n  Massive Text Embedding Benchmark\n\n\nSemantic Textual Similarity Benchmark (STSbenchmark) dataset.\n\n\t\n\t\t\n\n\n\n\n\t\t\nTask category\nt2t\n\n\nDomains\nBlog, News, Written\n\n\nReference\nhttps://github.com/PhilipMay/stsb-multi-mt/\n\n\n\t\n\n\n\t\n\t\t\n\t\tHow to evaluate on this task\n\t\n\nYou can evaluate an embedding model on this dataset using the following code:\nimport mteb\n\ntask = mteb.get_tasks([\"STSBenchmark\"])\nevaluator = mteb.MTEB(task)\n\nmodel = mteb.get_model(YOUR_MODEL)… See the full description on the dataset page: https://huggingface.co/datasets/mteb/stsbenchmark-sts.",
-  "downloads": 32622,
+  "downloads": 32591,
   "tags": [
     "task_categories:sentence-similarity",
     "task_ids:semantic-similarity-scoring",

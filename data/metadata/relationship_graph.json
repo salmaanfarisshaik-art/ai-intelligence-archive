@@ -121116,6 +121116,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6655eb19d17e141dcb546ed5",
+      "label": "HuggingFaceFW/fineweb-edu",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_66631d1046a5a30a27eb75a9",
       "label": "open-llm-leaderboard/requests",
       "category": "dataset"
@@ -130463,6 +130468,11 @@
     {
       "id": "model_eleutherai_pythia_160m_deduped",
       "label": "EleutherAI/pythia-160m-deduped",
+      "category": "models"
+    },
+    {
+      "id": "model_eleutherai_pythia_160m_seed1",
+      "label": "EleutherAI/pythia-160m-seed1",
       "category": "models"
     },
     {
@@ -438790,6 +438800,16 @@
     {
       "source": "hf_ds_663b7fd5a4152b77b637ba11",
       "target": "datasets/TIGER-Lab",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6655eb19d17e141dcb546ed5",
+      "target": "2406.17557",
+      "relationship": "related_papers"
+    },
+    {
+      "source": "hf_ds_6655eb19d17e141dcb546ed5",
+      "target": "datasets/HuggingFaceFW",
       "relationship": "related_models"
     },
     {

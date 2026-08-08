@@ -9,7 +9,7 @@
   "private": false,
   "sha": "50f3c926ec8c07b440cb17b55d8cd80e8484497e",
   "description": "\n\t\n\t\t\n\t\tDataset Description\n\t\n\nYou are provided with a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. The types of toxicity are:\n\ntoxic\nsevere_toxic\nobscene\nthreat\ninsult\nidentity_hate\n\nYou must create a model which predicts a probability of each type of toxicity for each comment.\n\n\t\n\t\t\n\t\n\t\n\t\tFile descriptions\n\t\n\n\ntrain.csv - the training set, contains comments with their binary labels\ntest.csv - the test set, you must predict the toxicity… See the full description on the dataset page: https://huggingface.co/datasets/thesofakillers/jigsaw-toxic-comment-classification-challenge.",
-  "downloads": 30014,
+  "downloads": 31650,
   "tags": [
     "license:cc-by-sa-3.0",
     "size_categories:100K<n<1M",

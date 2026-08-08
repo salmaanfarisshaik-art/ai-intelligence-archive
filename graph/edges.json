@@ -5826,6 +5826,16 @@
       "target": "datasets/TIGER-Lab"
     },
     {
+      "relationship": "related_papers",
+      "source": "hf_ds_6655eb19d17e141dcb546ed5",
+      "target": "2406.17557"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6655eb19d17e141dcb546ed5",
+      "target": "datasets/HuggingFaceFW"
+    },
+    {
       "relationship": "related_models",
       "source": "hf_ds_66674f5483de542b724d771e",
       "target": "datasets/imageomics"
@@ -6371,9 +6381,9 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-08T07:48:19.836727+00:00",
+  "generated_at": "2026-08-08T08:38:53.065419+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "schema_version": "1.0",
-  "total_edges": 1274
+  "total_edges": 1276
 }
