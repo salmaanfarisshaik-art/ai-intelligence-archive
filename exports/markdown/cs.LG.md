@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.14599v2](http://arxiv.org/abs/2605.14599v2)
 
+## 
+- **ID**: arxiv_2605.14599v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14599v2](http://arxiv.org/abs/2605.14599v2)
+
 ## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
 - **ID**: arxiv_2605.22142v3
 - **Source**: ArXiv
@@ -625,12 +630,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06310v1](http://arxiv.org/abs/2608.06310v1)
 
+## 
+- **ID**: arxiv_2608.06310v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06310v1](http://arxiv.org/abs/2608.06310v1)
+
 ## CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks
 - **ID**: arxiv_2608.06352v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06352v1](http://arxiv.org/abs/2608.06352v1)
 
+## 
+- **ID**: arxiv_2608.06352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06352v1](http://arxiv.org/abs/2608.06352v1)
+
 ## An Optimal Agnostic PAC Algorithm
+- **ID**: arxiv_2608.06363v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06363v1](http://arxiv.org/abs/2608.06363v1)
+
+## 
 - **ID**: arxiv_2608.06363v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06363v1](http://arxiv.org/abs/2608.06363v1)

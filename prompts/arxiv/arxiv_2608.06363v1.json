@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.06363v1",
+  "schema_version": "1.0",
+  "technique_name": "An Optimal Agnostic PAC Algorithm",
+  "description": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0<δ\\le 1/2$, with probability at least $1-δ$, \\[   L(\\widehat h)   \\le L^*+ 7\\cdot10^8\\left(   \\sqrt{\\frac{L^*(d+\\log(1/δ))}{n}}   +\\frac{d+\\log(1/δ)}{n}   \\right). \\] This settles the sample complexity of agnostic PAC learning up to universal consta",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.06363v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.06363v1",
+    "updated": "2026-08-06T17:57:25Z",
+    "published": "2026-08-06T17:57:25Z",
+    "title": "An Optimal Agnostic PAC Algorithm",
+    "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk bound: from an i.i.d.\\ sample of size $n$, for every $0<δ\\le 1/2$, with probability at least $1-δ$, \\[\n  L(\\widehat h)\n  \\le L^*+ 7\\cdot10^8\\left(\n  \\sqrt{\\frac{L^*(d+\\log(1/δ))}{n}}\n  +\\frac{d+\\log(1/δ)}{n}\n  \\right). \\] This settles the sample complexity of agnostic PAC learning up to universal constants at every fixed $L^*$, matching the lower bounds of Devroye, Györfi, and Lugosi [A Probabilistic Theory of Pattern Recognition, Springer, 1996].",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-09T23:30:40Z",
+  "last_updated": "2026-08-06T17:57:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.06363v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

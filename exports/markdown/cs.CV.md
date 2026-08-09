@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.11183v2](http://arxiv.org/abs/2508.11183v2)
 
+## 
+- **ID**: arxiv_2508.11183v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.11183v2](http://arxiv.org/abs/2508.11183v2)
+
 ## CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication
 - **ID**: arxiv_2508.13899v2
 - **Source**: ArXiv
@@ -351,6 +356,11 @@
 - **URL**: [http://arxiv.org/abs/2606.13679v1](http://arxiv.org/abs/2606.13679v1)
 
 ## What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective
+- **ID**: arxiv_2606.14299v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.14299v2](http://arxiv.org/abs/2606.14299v2)
+
+## 
 - **ID**: arxiv_2606.14299v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14299v2](http://arxiv.org/abs/2606.14299v2)
@@ -695,6 +705,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.06923v2](http://arxiv.org/abs/2607.06923v2)
 
+## 
+- **ID**: arxiv_2607.06923v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.06923v2](http://arxiv.org/abs/2607.06923v2)
+
 ## Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture
 - **ID**: arxiv_2607.12254v2
 - **Source**: ArXiv
@@ -911,6 +926,11 @@
 - **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
 
 ## Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics
+- **ID**: arxiv_2607.18540v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18540v2](http://arxiv.org/abs/2607.18540v2)
+
+## 
 - **ID**: arxiv_2607.18540v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18540v2](http://arxiv.org/abs/2607.18540v2)
@@ -1720,6 +1740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05122v2](http://arxiv.org/abs/2608.05122v2)
 
+## 
+- **ID**: arxiv_2608.05122v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05122v2](http://arxiv.org/abs/2608.05122v2)
+
 ## OPD-V: Visual On-Policy Self-Distillation with Modality Balance
 - **ID**: arxiv_2608.05131v1
 - **Source**: ArXiv
@@ -1785,7 +1810,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06307v1](http://arxiv.org/abs/2608.06307v1)
 
+## 
+- **ID**: arxiv_2608.06307v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06307v1](http://arxiv.org/abs/2608.06307v1)
+
 ## Does FLAIR super-resolution erase or hallucinate small white-matter lesions?
+- **ID**: arxiv_2608.06311v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06311v1](http://arxiv.org/abs/2608.06311v1)
+
+## 
 - **ID**: arxiv_2608.06311v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06311v1](http://arxiv.org/abs/2608.06311v1)

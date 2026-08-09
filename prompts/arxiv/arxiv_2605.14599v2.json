@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.14599v2",
+  "schema_version": "1.0",
+  "technique_name": "Fast Rates for Inverse Reinforcement Learning",
+  "description": "We establish novel structural and statistical results for entropy-regularized min-max inverse reinforcement learning (Min-Max-IRL) in finite-horizon MDPs with Borel state and action spaces. We show that maximum likelihood estimation (MLE) and Min-Max-IRL are equivalent at the population level, and at the empirical level under deterministic dynamics. For linear reward classes, we leverage pseudo-self-concordance of the Min-Max-IRL loss to prove that both the excess trajectory-level KL divergence ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2605.14599v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.14599v2",
+    "updated": "2026-08-06T17:46:11Z",
+    "published": "2026-05-14T09:07:31Z",
+    "title": "Fast Rates for Inverse Reinforcement Learning",
+    "summary": "We establish novel structural and statistical results for entropy-regularized min-max inverse reinforcement learning (Min-Max-IRL) in finite-horizon MDPs with Borel state and action spaces. We show that maximum likelihood estimation (MLE) and Min-Max-IRL are equivalent at the population level, and at the empirical level under deterministic dynamics. For linear reward classes, we leverage pseudo-self-concordance of the Min-Max-IRL loss to prove that both the excess trajectory-level KL divergence and the squared parameter error in the Hessian norm decay at the fast rate $O(n^{-1})$, where $n$ is the number of expert trajectories. A local minimax lower bound matches the parameter-error rate up to logarithmic factors in the well-specified deterministic setting. Our guarantees apply under misspecification and require no uniform state-coverage assumption. We further extend reward-identifiability results to general Borel spaces and compare our results with MLE-based guarantees.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-09T23:30:40Z",
+  "last_updated": "2026-08-06T17:46:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.14599v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

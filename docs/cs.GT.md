@@ -5,6 +5,8 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2608.06353v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.06362v1) | ArXiv |  | 1 |
 | [Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation](http://arxiv.org/abs/2607.28520v1) | ArXiv |  | 1 |
 | [Algorithms for Structured Elections under Thiele Voting Rules](http://arxiv.org/abs/2607.28575v1) | ArXiv |  | 1 |
 | [AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](http://arxiv.org/abs/2608.06362v1) | ArXiv |  | 1 |

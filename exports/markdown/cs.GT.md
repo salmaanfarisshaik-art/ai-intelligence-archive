@@ -25,7 +25,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06353v1](http://arxiv.org/abs/2608.06353v1)
 
+## 
+- **ID**: arxiv_2608.06353v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06353v1](http://arxiv.org/abs/2608.06353v1)
+
 ## AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games
+- **ID**: arxiv_2608.06362v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06362v1](http://arxiv.org/abs/2608.06362v1)
+
+## 
 - **ID**: arxiv_2608.06362v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06362v1](http://arxiv.org/abs/2608.06362v1)

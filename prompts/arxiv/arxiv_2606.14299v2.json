@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.14299v2",
+  "schema_version": "1.0",
+  "technique_name": "What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective",
+  "description": "Vision-Language Models (VLMs) such as CLIP have become a standard backbone for open-vocabulary recognition, yet their zero-shot predictions remain vulnerable to distribution shifts encountered at deployment. Test-Time Adaptation (TTA) has recently been extended to CLIP as a lightweight solution, leading to a rapidly growing body of TTA4CLIP methods. However, empirical progress in this area has largely outpaced our understanding of what truly drives adaptation, where their gains originate, and un",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2606.14299v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.14299v2",
+    "updated": "2026-08-06T17:51:19Z",
+    "published": "2026-06-12T09:35:28Z",
+    "title": "What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective",
+    "summary": "Vision-Language Models (VLMs) such as CLIP have become a standard backbone for open-vocabulary recognition, yet their zero-shot predictions remain vulnerable to distribution shifts encountered at deployment. Test-Time Adaptation (TTA) has recently been extended to CLIP as a lightweight solution, leading to a rapidly growing body of TTA4CLIP methods. However, empirical progress in this area has largely outpaced our understanding of what truly drives adaptation, where their gains originate, and under which shifts they remain reliable. In this paper, we take a step back from the pursuit of state-of-the-art accuracy and conduct a systematic controlled study of TTA4CLIP. We first organize existing methods into three unified paradigms according to what is updated at test time. We then introduce TTABC, an open-source TTA Benchmark for CLIP, which standardizes evaluation protocols and integrates more than 20 representative methods. Our controlled empirical analysis focuses on three key areas. First, we determine the driving factors in parameter-based methods, revealing that adaptation gains are primarily driven by test-time evidence and reliable proxies rather than heavy optimization. Second, we explore evidence utilization beyond heavy parameter tuning, showing that competitive and efficient performance can be achieved through cross- or current-sample evidence and lightweight prototype updates. Finally, we demonstrate that there is no silver bullet for TTA: no single adaptation paradigm is universally optimal, and the preferred paradigm depends on the nature of shift. We hope our benchmark and study provide a clearer understanding of the current TTA4CLIP landscape and establish a foundation for further research.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-09T23:30:40Z",
+  "last_updated": "2026-08-06T17:51:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.14299v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

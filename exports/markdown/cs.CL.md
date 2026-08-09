@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.04098v2](http://arxiv.org/abs/2601.04098v2)
 
+## 
+- **ID**: arxiv_2601.04098v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.04098v2](http://arxiv.org/abs/2601.04098v2)
+
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
@@ -1020,6 +1025,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04872v2](http://arxiv.org/abs/2608.04872v2)
 
+## 
+- **ID**: arxiv_2608.04872v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04872v2](http://arxiv.org/abs/2608.04872v2)
+
 ## Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models
 - **ID**: arxiv_2608.05064v1
 - **Source**: ArXiv
@@ -1065,7 +1075,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06312v1](http://arxiv.org/abs/2608.06312v1)
 
+## 
+- **ID**: arxiv_2608.06312v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06312v1](http://arxiv.org/abs/2608.06312v1)
+
 ## Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents
+- **ID**: arxiv_2608.06329v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06329v1](http://arxiv.org/abs/2608.06329v1)
+
+## 
 - **ID**: arxiv_2608.06329v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06329v1](http://arxiv.org/abs/2608.06329v1)
@@ -1075,12 +1095,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06347v1](http://arxiv.org/abs/2608.06347v1)
 
+## 
+- **ID**: arxiv_2608.06347v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06347v1](http://arxiv.org/abs/2608.06347v1)
+
 ## The Bitter Lesson of Tool Calling
 - **ID**: arxiv_2608.06370v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06370v1](http://arxiv.org/abs/2608.06370v1)
 
+## 
+- **ID**: arxiv_2608.06370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06370v1](http://arxiv.org/abs/2608.06370v1)
+
 ## Learning When to Trust via Selective Context Preference Optimization
+- **ID**: arxiv_2608.06377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06377v1](http://arxiv.org/abs/2608.06377v1)
+
+## 
 - **ID**: arxiv_2608.06377v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06377v1](http://arxiv.org/abs/2608.06377v1)

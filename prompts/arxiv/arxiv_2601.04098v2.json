@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.04098v2",
+  "schema_version": "1.0",
+  "technique_name": "Layer-wise Positional Bias in Short-Context Language Modeling",
+  "description": "Transformer language models systematically prefer tokens at specific input positions regardless of semantic relevance---a phenomenon known as positional bias. Prior work characterizes this bias in model behavior through performance drops in long-context tasks or in model architecture through attention-based analyses. However, it remains unmeasured how input positions actually drive predictions layer by layer. We introduce a layer conductance framework within a sliding-window design, applied to s",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2601.04098v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.04098v2",
+    "updated": "2026-08-06T17:23:08Z",
+    "published": "2026-01-07T17:04:30Z",
+    "title": "Layer-wise Positional Bias in Short-Context Language Modeling",
+    "summary": "Transformer language models systematically prefer tokens at specific input positions regardless of semantic relevance---a phenomenon known as positional bias. Prior work characterizes this bias in model behavior through performance drops in long-context tasks or in model architecture through attention-based analyses. However, it remains unmeasured how input positions actually drive predictions layer by layer. We introduce a layer conductance framework within a sliding-window design, applied to short-context next-word prediction to isolate model-internal behavior from task and context-window pressure. The resulting layer-wise positional importance profiles are stable across diverse texts and lexical scrambling, confirming they reflect model-internal structure. Characterizing how these profiles evolve across depth, we find recency bias increases monotonically while primacy bias is subtle and diminishes. We also find that this positional bias is not uniform across word types: function words exhibit higher recency bias while content words show higher primacy bias.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-09T23:30:40Z",
+  "last_updated": "2026-08-06T17:23:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.04098v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
