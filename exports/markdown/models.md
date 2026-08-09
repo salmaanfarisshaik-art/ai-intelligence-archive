@@ -2272,6 +2272,10 @@
 - **ID**: model_m_a_p_opencodeinterpreter_ds_6_7b
 - **Source**: 
 
+## Ma7ee7/Qwen3.8_4B_Distilled_GGUF
+- **ID**: model_ma7ee7_qwen3_8_4b_distilled_gguf
+- **Source**: 
+
 ## maidacundo/open-mythos-140m
 - **ID**: model_maidacundo_open_mythos_140m
 - **Source**: 

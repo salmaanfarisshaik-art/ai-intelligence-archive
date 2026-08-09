@@ -2109,6 +2109,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_202606086b69
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_202606122ea0
 - **Source**: 
 
@@ -2202,6 +2206,10 @@
 
 ## 
 - **ID**: dataset_icdn12_content_20260606afd8
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_20260610f218
 - **Source**: 
 
 ## 
@@ -2586,6 +2594,10 @@
 
 ## 
 - **ID**: dataset_icdn18_content_2026060623a6
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn18_content_20260609b21c
 - **Source**: 
 
 ## 
@@ -4377,6 +4389,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pawlo2013_stanfordonlineproducts
+- **Source**: 
+
+## 
 - **ID**: dataset_peakstars_math_instruct
 - **Source**: 
 
@@ -5866,6 +5882,10 @@
 
 ## 
 - **ID**: dataset_zekaiwang_trex_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zeromn_hanlp_date_zh
 - **Source**: 
 
 ## 
