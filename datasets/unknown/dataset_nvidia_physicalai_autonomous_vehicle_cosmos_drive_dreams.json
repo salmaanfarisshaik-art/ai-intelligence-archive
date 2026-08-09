@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b405b5dea2a4e2e014d7c77d5ea5a28e77febf56",
   "description": "\n\t\n\t\t\n\t\tPhysicalAI-Autonomous-Vehicle-Cosmos-Drive-Dreams\n\t\n\nPaper | Paper Website | GitHub\n\n\n\t\n\t\t\n\t\n\t\n\t\tDownload\n\t\n\nWe provide a download script to download our dataset. If you have enough space, you can use git to download a dataset from huggingface.\nusage: download.py [-h] --odir ODIR\n                                       [--file_types {hdmap,lidar,synthetic}[,…]]\n                                       [--workers N] [--clean_cache]\n\nrequired arguments:\n  --odir ODIR            Output… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicle-Cosmos-Drive-Dreams.",
-  "downloads": 113568,
+  "downloads": 113580,
   "tags": [
     "task_categories:robotics",
     "language:en",

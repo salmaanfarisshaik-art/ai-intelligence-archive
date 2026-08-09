@@ -1076,6 +1076,10 @@
 - **ID**: model_eleutherai_pythia_160m_seed1
 - **Source**: 
 
+## EleutherAI/pythia-160m-seed2
+- **ID**: model_eleutherai_pythia_160m_seed2
+- **Source**: 
+
 ## EleutherAI/pythia-160m-weight-seed1
 - **ID**: model_eleutherai_pythia_160m_weight_seed1
 - **Source**: 

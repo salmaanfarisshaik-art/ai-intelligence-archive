@@ -9,7 +9,7 @@
   "private": false,
   "sha": "33639692425296185f245aaa648530178c7b3d2b",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"R1Pro\",\n    \"total_episodes\": 10000,\n    \"total_frames\": 119094660,\n    \"total_tasks\": 50,\n    \"total_videos\": 90000,\n    \"chunks_size\": 10000,\n    \"fps\": 30,\n    \"splits\": {\n        \"train\": \"0:10000\"\n    },\n    \"data_path\": \"data/task-{episode_chunk:04d}/episode_{episode_index:08d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/behavior-1k/2025-challenge-demos.",
-  "downloads": 102968,
+  "downloads": 101481,
   "tags": [
     "task_categories:robotics",
     "license:mit",
