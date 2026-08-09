@@ -925,6 +925,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/QwQ-32B](https://huggingface.co/Qwen/QwQ-32B)
 
+## Qwen/Qwen-72B
+- **ID**: hf_Qwen_Qwen-72B
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/Qwen/Qwen-72B](https://huggingface.co/Qwen/Qwen-72B)
+- **Tags**: arxiv:2309.16609, custom_code, en, license:other, qwen, region:us, safetensors, text-generation, transformers, zh
+
 ## Qwen/Qwen-7B-Chat
 - **ID**: hf_Qwen_Qwen-7B-Chat
 - **Source**: Hugging Face

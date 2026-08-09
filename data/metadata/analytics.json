@@ -1,5 +1,5 @@
 {
-  "total_entities": 86634,
+  "total_entities": 86635,
   "category_distribution": {
     "skills": 31000,
     "prompts": 27178,
@@ -8,7 +8,7 @@
     "models": 1413,
     "dataset": 1138,
     "news": 1136,
-    "text-generation": 1002,
+    "text-generation": 1003,
     "cs.CV": 358,
     "cs.CL": 217,
     "cs.AI": 207,
@@ -71,7 +71,7 @@
   "source_distribution": {
     "Stanford Alpaca": 52000,
     "": 30075,
-    "Hugging Face": 2009,
+    "Hugging Face": 2010,
     "ArXiv": 1128,
     "OpenAI Blog": 1122,
     "HuggingFace Datasets": 138,
@@ -113,14 +113,14 @@
     "WeatherAPI": 1
   },
   "top_tags": {
-    "region:us": 203,
-    "text-generation": 66,
+    "region:us": 204,
+    "text-generation": 67,
     "library:datasets": 65,
     "library:mlcroissant": 65,
+    "transformers": 59,
     "endpoints_compatible": 58,
-    "transformers": 58,
     "modality:text": 57,
-    "safetensors": 56,
+    "safetensors": 57,
     "license:apache-2.0": 55,
     "language:en": 52,
     "conversational": 51,
@@ -129,9 +129,9 @@
     "format:parquet": 40,
     "text-generation-inference": 31,
     "deploy:azure": 30,
+    "en": 25,
     "enterprise": 25,
     "library:dask": 25,
-    "en": 24,
     "eval-results": 23,
     "library:pandas": 23,
     "task_categories:text-generation": 23,
@@ -141,8 +141,8 @@
     "qwen3": 17,
     "size_categories:n<1K": 17,
     "api": 16,
+    "license:other": 15,
     "license:cc-by-4.0": 14,
-    "license:other": 14,
     "size_categories:10K<n<100K": 13,
     "modality:video": 12,
     "license:odc-by": 11,
@@ -157,11 +157,11 @@
     "python": 9,
     "size_categories:100M<n<1B": 9,
     "size_categories:1M<n<10M": 9,
+    "custom_code": 8,
     "language:ar": 8,
     "security": 8,
     "size_categories:1K<n<10K": 8,
     "arxiv:2309.00071": 7,
-    "custom_code": 7,
     "gguf": 7
   }
 }
