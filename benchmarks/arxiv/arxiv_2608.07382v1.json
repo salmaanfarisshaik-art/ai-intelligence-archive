@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.07382v1",
+  "schema_version": "1.0",
+  "name": "SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.07382v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.07382v1",
+    "updated": "2026-08-07T16:23:52Z",
+    "published": "2026-08-07T16:23:52Z",
+    "title": "SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline",
+    "summary": "Satellite object detection is challenged by small targets and wide-format scenes that lose detail under standard square-input resizing. We introduce SkySeaLand, a public dataset of 1,307 high-resolution satellite images and 19,101 verified bounding boxes across airplane, boat, car, and ship classes in terrestrial and maritime scenes. Native COCO and YOLO annotations are provided. The collection is dominated by large source images and wide scene geometry: 84.5 percent exceed 3,836 pixels on the longest side and 73.1 percent are near a 3:1 aspect ratio. We evaluate twelve detectors from the YOLO, RT-DETR, DETR, and Faster R-CNN families using a common split and COCO metrics. The tested YOLO and RT-DETR variants obtain 84.4--88.2 mAP50, with no consistent accuracy gain from larger parameter counts under the reported model-specific recipes. We also report SkyDet, a 1.22 M parameter anchor-free baseline that obtains 60.5 mAP50 and 24.32 mAP50-95 in a 4.90 MB footprint, with 13.74 ms latency (72.8 FPS) on a Tesla T4. SkySeaLand provides a compact benchmark for mixed land--maritime transportation detection, while SkyDet establishes a documented low-footprint reference rather than a state-of-the-art accuracy claim.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T16:23:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.07382v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

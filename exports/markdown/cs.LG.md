@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22228v2](http://arxiv.org/abs/2510.22228v2)
 
+## In Situ Training of Implicit Neural Compressors for Scientific Simulations via Sketch-Based Regularization
+- **ID**: arxiv_2511.02659v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.02659v4](http://arxiv.org/abs/2511.02659v4)
+
 ## Stabilizing Multi-Attack Adversarial Training via Bandit Optimization
 - **ID**: arxiv_2511.12265v2
 - **Source**: ArXiv
@@ -130,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21335v3](http://arxiv.org/abs/2604.21335v3)
 
+## Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound
+- **ID**: arxiv_2605.02942v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02942v3](http://arxiv.org/abs/2605.02942v3)
+
 ## Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs
 - **ID**: arxiv_2605.04215v3
 - **Source**: ArXiv
@@ -174,6 +184,11 @@
 - **ID**: arxiv_2606.02133v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02133v3](http://arxiv.org/abs/2606.02133v3)
+
+## Rethinking Evaluation Paradigms in IBP-based Certified Training
+- **ID**: arxiv_2606.02134v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.02134v2](http://arxiv.org/abs/2606.02134v2)
 
 ## CaliDist: Calibrating Large Language Models via Behavioral Robustness to Distraction
 - **ID**: arxiv_2606.05799v2
@@ -654,4 +669,19 @@
 - **ID**: arxiv_2608.06363v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06363v1](http://arxiv.org/abs/2608.06363v1)
+
+## Trajectory-Relative Hindsight Distillation for Agentic Reinforcement Learning
+- **ID**: arxiv_2608.07371v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07371v1](http://arxiv.org/abs/2608.07371v1)
+
+## Omni-modal decomposition autoencoders learn full-stack wearable disentangled representations
+- **ID**: arxiv_2608.07385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07385v1](http://arxiv.org/abs/2608.07385v1)
+
+## Diffusion LLMs as Targets and Adversaries: Mechanistic Safety Exploits
+- **ID**: arxiv_2608.07430v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07430v1](http://arxiv.org/abs/2608.07430v1)
 

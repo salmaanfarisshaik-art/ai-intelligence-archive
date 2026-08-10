@@ -125,3 +125,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05060v1](http://arxiv.org/abs/2608.05060v1)
 
+## PACE: Primitive-Aware Code Evolution for Automated Algorithm Design
+- **ID**: arxiv_2608.07395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07395v1](http://arxiv.org/abs/2608.07395v1)
+
+## Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools
+- **ID**: arxiv_2608.07446v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07446v1](http://arxiv.org/abs/2608.07446v1)
+

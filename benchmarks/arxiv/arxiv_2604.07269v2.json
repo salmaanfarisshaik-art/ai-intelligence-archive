@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.07269v2",
+  "schema_version": "1.0",
+  "name": "Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.07269v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.07269v2",
+    "updated": "2026-08-07T17:33:14Z",
+    "published": "2026-04-08T16:32:17Z",
+    "title": "Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent",
+    "summary": "Clinical expertise improves not only by acquiring medical knowledge, but by accumulating experience that yields reusable diagnostic patterns. Recent LLMs-based diagnostic agents have shown promising progress in clinical reasoning for decision support. However, most approaches treat cases independently, limiting experience reuse and continual adaptation. We propose SEA, a self-learning diagnostic agent with cognitively inspired dual-memory module. We design a reinforcement training framework tailored to our designed agent for joint optimization of reasoning and memory management. We evaluate SEA in two complementary settings. On standard evaluation with MedCaseReasoning dataset, SEA achieves 92.46% accuracy, outperforming the strongest baseline by +19.6%, demonstrating the benefit of jointly optimizing reasoning and memory. On the long-horizon with ER-Reason dataset, SEA attains the best final accuracy (0.7214) and the largest improvement (+0.35 Acc@100), while baseline methods show limited or unstable gains. Expert evaluation further indicates that rules consolidated from SEA show strong clinical correctness, usefulness and trust, suggesting that the induced rules in dual-memory module are reliable and practically meaningful. Overall, SEA improves both diagnostic reasoning ability and continual learning by effectively transforming experience into reusable knowledge.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T17:33:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.07269v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

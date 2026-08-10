@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.02608v2",
+  "schema_version": "1.0",
+  "name": "Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.02608v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.02608v2",
+    "updated": "2026-08-07T17:49:56Z",
+    "published": "2026-05-04T13:55:32Z",
+    "title": "Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages",
+    "summary": "Transformer-based models achieve state-of-the-art dependency parsing for high-resource languages, yet their advantage over simpler architectures in low-resource settings remains poorly understood. We evaluate four parsers---the Biaffine LSTM, Stack-Pointer Network, AfroXLMR-large, and RemBERT---across twelve typologically diverse languages, with a focus on low-resource African languages. We find that the Biaffine LSTM consistently outperforms transformer models in low-resource regimes, with transformers recovering their advantage as training data increases. The crossover falls within a resource range typical of treebanks for under-resourced languages. Morphological complexity (measured via MATTR) emerges as a significant secondary predictor of transformers' relative disadvantage after controlling for corpus size. These results indicate that the Biaffine LSTM may be better suited for syntactic tool development in low-resource regimes until sufficient annotated data is available to leverage the representational capacity of pre-trained transformers.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T17:49:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.02608v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

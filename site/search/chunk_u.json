@@ -62,14 +62,14 @@
   ],
   "uav": [
     {
+      "entity_id": "dataset_link_dev_uav3dcrop",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "hf_ds_links-ads_gaia-vineyard-uav-dataset",
       "match_type": "exact",
       "score": 3.0
-    },
-    {
-      "entity_id": "dataset_link_dev_uav3dcrop",
-      "match_type": "exact",
-      "score": 2.5
     },
     {
       "entity_id": "arxiv_2607.16193v1",
@@ -106,7 +106,7 @@
     {
       "entity_id": "dataset_link_dev_uav3dcrop",
       "match_type": "exact",
-      "score": 5.0
+      "score": 6.0
     }
   ],
   "uavs": [
@@ -1860,6 +1860,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.07382v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "gemini-2-ultra",
       "match_type": "exact",
       "score": 2.0
@@ -2087,6 +2092,11 @@
   "ultrasound": [
     {
       "entity_id": "arxiv_2508.13899v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2605.02942v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -4867,6 +4877,11 @@
     },
     {
       "entity_id": "arxiv_2608.06265v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.07435v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -8207,6 +8222,11 @@
     },
     {
       "entity_id": "alpaca_9119818456072221695",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2403.00802v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -12383,6 +12403,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.07409v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_internrobotics_interndata_n1",
       "match_type": "exact",
       "score": 2.0
@@ -12670,6 +12695,13 @@
       "entity_id": "dataset_catherinearnett_montok",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "unijepa": [
+    {
+      "entity_id": "arxiv_2608.07409v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "unimaginable": [
@@ -83736,6 +83768,11 @@
     },
     {
       "entity_id": "arxiv_2608.06300v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.07368v1",
       "match_type": "exact",
       "score": 2.0
     },

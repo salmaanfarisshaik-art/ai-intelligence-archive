@@ -215,6 +215,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.18314v2](http://arxiv.org/abs/2602.18314v2)
 
+## SynthRender and I-AsSET: Open-Source Framework and Dataset for Bidirectional Sim-Real Transfer in Industrial Object Perception
+- **ID**: arxiv_2602.21141v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.21141v3](http://arxiv.org/abs/2602.21141v3)
+
 ## Latent Gaussian Splatting for 4D Panoptic Occupancy Tracking
 - **ID**: arxiv_2602.23172v2
 - **Source**: ArXiv
@@ -229,6 +234,11 @@
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
+
+## SparseVoxelDet: Fully Sparse Voxel Networks for Efficient Event-Based Drone Detection
+- **ID**: arxiv_2603.21638v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.21638v2](http://arxiv.org/abs/2603.21638v2)
 
 ## Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction
 - **ID**: arxiv_2603.21809v2
@@ -444,6 +454,11 @@
 - **ID**: arxiv_2606.15966v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.15966v2](http://arxiv.org/abs/2606.15966v2)
+
+## CloudDiffusion: Diffusion-Based Scene Completion in the Point Cloud Domain
+- **ID**: arxiv_2606.16048v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16048v3](http://arxiv.org/abs/2606.16048v3)
 
 ## Explainable Flood Segmentation on Sentinel-1 SAR1 Imagery Using CNN and Transformer Architectures
 - **ID**: arxiv_2606.16302v3
@@ -1824,4 +1839,49 @@
 - **ID**: arxiv_2608.06311v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06311v1](http://arxiv.org/abs/2608.06311v1)
+
+## SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline
+- **ID**: arxiv_2608.07382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07382v1](http://arxiv.org/abs/2608.07382v1)
+
+## GeoDistill-Refine: Silhouette-First Geometry Distillation for Annotation-Free Spacecraft Segmentation
+- **ID**: arxiv_2608.07405v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07405v1](http://arxiv.org/abs/2608.07405v1)
+
+## Addressable Memory for Video World Models
+- **ID**: arxiv_2608.07408v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07408v1](http://arxiv.org/abs/2608.07408v1)
+
+## UniJEPA: A Unified Joint-Embedding Predictive Architecture for Task-Agnostic Visual World Modeling
+- **ID**: arxiv_2608.07409v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07409v1](http://arxiv.org/abs/2608.07409v1)
+
+## I Seek You in Videos: Identity-Conditioned Queries for Person-Centric Video Reasoning
+- **ID**: arxiv_2608.07417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07417v1](http://arxiv.org/abs/2608.07417v1)
+
+## Conformal Coverage Guarantees for Any Video Temporal Grounder
+- **ID**: arxiv_2608.07434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07434v1](http://arxiv.org/abs/2608.07434v1)
+
+## SABRE: Scalable and Automated Benchmarking of VLMs under Stress
+- **ID**: arxiv_2608.07435v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07435v1](http://arxiv.org/abs/2608.07435v1)
+
+## MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation
+- **ID**: arxiv_2608.07463v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07463v1](http://arxiv.org/abs/2608.07463v1)
+
+## SimWAM: A Simple World Action Model for End-to-End Autonomous Driving
+- **ID**: arxiv_2608.07468v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07468v1](http://arxiv.org/abs/2608.07468v1)
 

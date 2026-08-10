@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.23982v3](http://arxiv.org/abs/2607.23982v3)
 
+## Strategy-first synthesis planning for complex natural products
+- **ID**: arxiv_2608.07454v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07454v1](http://arxiv.org/abs/2608.07454v1)
+

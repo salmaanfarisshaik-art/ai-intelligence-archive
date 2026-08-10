@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.02659v4",
+  "schema_version": "1.0",
+  "name": "In Situ Training of Implicit Neural Compressors for Scientific Simulations via Sketch-Based Regularization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.02659v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.02659v4",
+    "updated": "2026-08-07T16:14:47Z",
+    "published": "2025-11-04T15:36:00Z",
+    "title": "In Situ Training of Implicit Neural Compressors for Scientific Simulations via Sketch-Based Regularization",
+    "summary": "Focusing on implicit neural representations, we present a novel in situ training protocol that employs limited memory buffers of full and sketched data samples, where the sketched data are leveraged to prevent catastrophic forgetting. The theoretical motivation for our use of sketching as a regularizer is presented via a simple Johnson-Lindenstrauss-informed result. While our methods may be of wider interest in the field of continual learning, we specifically target in situ neural compression using implicit neural representation-based hypernetworks. We evaluate our method on a variety of complex simulation data in two and three dimensions, over long time horizons, and across unstructured grids and non-Cartesian geometries. On these tasks, we show strong reconstruction performance at high compression rates. Most importantly, we demonstrate that sketching enables the presented in situ scheme to approximately match the performance of the equivalent offline method.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T16:14:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.02659v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

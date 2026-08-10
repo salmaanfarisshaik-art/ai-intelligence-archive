@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05547v3](http://arxiv.org/abs/2602.05547v3)
 
+## AfriNLLB: Efficient Translation Models for African Languages
+- **ID**: arxiv_2602.09373v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.09373v2](http://arxiv.org/abs/2602.09373v2)
+
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
 - **Source**: ArXiv
@@ -149,6 +154,11 @@
 - **ID**: arxiv_2604.03136v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03136v5](http://arxiv.org/abs/2604.03136v5)
+
+## Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent
+- **ID**: arxiv_2604.07269v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.07269v2](http://arxiv.org/abs/2604.07269v2)
 
 ## ClawBench: Can AI Agents Complete Everyday Online Tasks?
 - **ID**: arxiv_2604.08523v2
@@ -180,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.00817v4](http://arxiv.org/abs/2605.00817v4)
 
+## Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages
+- **ID**: arxiv_2605.02608v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02608v2](http://arxiv.org/abs/2605.02608v2)
+
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
 - **Source**: ArXiv
@@ -209,6 +224,11 @@
 - **ID**: arxiv_2605.28818v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.28818v2](http://arxiv.org/abs/2605.28818v2)
+
+## Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions
+- **ID**: arxiv_2605.29738v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29738v2](http://arxiv.org/abs/2605.29738v2)
 
 ## Speculative Decoding and the Curse of Multilinguality
 - **ID**: arxiv_2605.30580v2
@@ -1020,6 +1040,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04009v1](http://arxiv.org/abs/2608.04009v1)
 
+## SocietyBench: Forecasting Counterfactual Social-World Evolution
+- **ID**: arxiv_2608.04009v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04009v2](http://arxiv.org/abs/2608.04009v2)
+
 ## A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination
 - **ID**: arxiv_2608.04872v2
 - **Source**: ArXiv
@@ -1119,4 +1144,24 @@
 - **ID**: arxiv_2608.06377v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06377v1](http://arxiv.org/abs/2608.06377v1)
+
+## LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering
+- **ID**: arxiv_2608.07370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07370v1](http://arxiv.org/abs/2608.07370v1)
+
+## An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis
+- **ID**: arxiv_2608.07439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07439v1](http://arxiv.org/abs/2608.07439v1)
+
+## CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG
+- **ID**: arxiv_2608.07458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07458v1](http://arxiv.org/abs/2608.07458v1)
+
+## CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity
+- **ID**: arxiv_2608.07460v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07460v1](http://arxiv.org/abs/2608.07460v1)
 

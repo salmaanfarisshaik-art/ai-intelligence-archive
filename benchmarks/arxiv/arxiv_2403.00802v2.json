@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2403.00802v2",
+  "schema_version": "1.0",
+  "name": "Towards a Theoretical Understanding of Two Tower Recommendation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2403.00802v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2403.00802v2",
+    "updated": "2026-08-07T17:00:54Z",
+    "published": "2024-02-23T21:11:55Z",
+    "title": "Towards a Theoretical Understanding of Two Tower Recommendation Models",
+    "summary": "Production-grade recommender systems rely heavily on a large-scale corpus used by online media services, including Netflix, Pinterest, and Amazon. These systems enrich recommendations by learning users' and items' embeddings projected in a low-dimensional space with two tower models (two deep neural networks), which facilitate their embedding constructs to predict users' feedback associated with items. Despite its popularity for recommendations, its theoretical behaviors remain comprehensively unexplored. We study the asymptotic behaviors of the two tower model applied in two-stage recommenders that entail a strong convergence to the optimal recommender system. We establish certain theoretical properties and statistical assurance of the two tower recommender. In addition to asymptotic behaviors, we demonstrate that recommendation with two tower architecture attains faster convergence by relying on the intrinsic dimensions of the input features. Finally, we show numerically that the two tower recommender enables encapsulating the impacts of items' and users' attributes on ratings, resulting in better performance compared to existing methods conducted using synthetic and real-world data experiments.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T17:00:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2403.00802v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

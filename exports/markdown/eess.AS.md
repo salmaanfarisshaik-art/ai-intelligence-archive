@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05138v1](http://arxiv.org/abs/2608.05138v1)
 
+## LSEAD: A Privacy-Preserving LLM-Based Speech Analysis Framework for Early Alzheimer's Disease Screening
+- **ID**: arxiv_2608.07378v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07378v1](http://arxiv.org/abs/2608.07378v1)
+

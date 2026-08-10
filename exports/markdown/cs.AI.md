@@ -615,6 +615,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21557v1](http://arxiv.org/abs/2607.21557v1)
 
+## OpenForgeRL: Train Harness-native Agents in Any Environment
+- **ID**: arxiv_2607.21557v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21557v3](http://arxiv.org/abs/2607.21557v3)
+
 ## Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
 - **ID**: arxiv_2607.21558v1
 - **Source**: ArXiv
@@ -885,6 +890,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.01742v2](http://arxiv.org/abs/2608.01742v2)
 
+## Homebot: A Personal AI Agent for Conversational Home Assistance and Automation
+- **ID**: arxiv_2608.02254v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02254v2](http://arxiv.org/abs/2608.02254v2)
+
 ## Real-Time Detection and Repair of LLM Agent Failures
 - **ID**: arxiv_2608.02464v1
 - **Source**: ArXiv
@@ -1074,4 +1084,74 @@
 - **ID**: arxiv_2608.06366v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06366v1](http://arxiv.org/abs/2608.06366v1)
+
+## Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education
+- **ID**: arxiv_2608.07364v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07364v1](http://arxiv.org/abs/2608.07364v1)
+
+## People Are Not Just Their Countries. Disentangling Social Determinants of LLM Value Alignment Across Europe
+- **ID**: arxiv_2608.07367v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07367v1](http://arxiv.org/abs/2608.07367v1)
+
+## FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings
+- **ID**: arxiv_2608.07400v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07400v1](http://arxiv.org/abs/2608.07400v1)
+
+## GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks
+- **ID**: arxiv_2608.07411v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07411v1](http://arxiv.org/abs/2608.07411v1)
+
+## ResidencyRL: Reinforcement Learning in Simulated Clinical Environments
+- **ID**: arxiv_2608.07418v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07418v1](http://arxiv.org/abs/2608.07418v1)
+
+## CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing
+- **ID**: arxiv_2608.07424v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07424v1](http://arxiv.org/abs/2608.07424v1)
+
+## A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy
+- **ID**: arxiv_2608.07427v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07427v1](http://arxiv.org/abs/2608.07427v1)
+
+## TEPA: Revoking Stale Memories for Conflict-Robust Language Agents
+- **ID**: arxiv_2608.07429v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07429v1](http://arxiv.org/abs/2608.07429v1)
+
+## Post-Grokking Collapse at the Representation-Readout Interface in Muon-Trained Transformers
+- **ID**: arxiv_2608.07436v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07436v1](http://arxiv.org/abs/2608.07436v1)
+
+## Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing
+- **ID**: arxiv_2608.07437v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07437v1](http://arxiv.org/abs/2608.07437v1)
+
+## PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents
+- **ID**: arxiv_2608.07438v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07438v1](http://arxiv.org/abs/2608.07438v1)
+
+## Blast Radius
+- **ID**: arxiv_2608.07440v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07440v1](http://arxiv.org/abs/2608.07440v1)
+
+## SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent
+- **ID**: arxiv_2608.07449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07449v1](http://arxiv.org/abs/2608.07449v1)
+
+## Interaction Creates Dynamical AI Behavior Absent in Isolation
+- **ID**: arxiv_2608.07457v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07457v1](http://arxiv.org/abs/2608.07457v1)
 

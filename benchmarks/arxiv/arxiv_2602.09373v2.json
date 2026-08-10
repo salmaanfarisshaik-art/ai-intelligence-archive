@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.09373v2",
+  "schema_version": "1.0",
+  "name": "AfriNLLB: Efficient Translation Models for African Languages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.09373v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.09373v2",
+    "updated": "2026-08-07T17:27:46Z",
+    "published": "2026-02-10T03:23:59Z",
+    "title": "AfriNLLB: Efficient Translation Models for African Languages",
+    "summary": "In this work, we present AfriNLLB, a series of lightweight models for efficient translation from and into African languages. AfriNLLB supports 15 language pairs (30 translation directions), including Swahili, Hausa, Yoruba, Amharic, Somali, Zulu, Lingala, Afrikaans, Wolof, and Egyptian Arabic, as well as other African Union official languages such as Arabic (MSA), French, Portuguese, and Spanish. Our training data covers bidirectional translation between English and 13 languages, and between French and two languages (Lingala and Wolof).\n  AfriNLLB models are based on NLLB-200 600M, which we compress using iterative layer pruning and quantization. We fine-tune the pruned models on parallel corpora we curated for African languages, employing knowledge distillation from a larger teacher model. Our work aims at enabling efficient deployment of translation models for African languages in resource-constrained settings.\n  Our evaluation results demonstrate that AfriNLLB models achieve performance comparable to the baseline while being significantly faster. We release two versions of the AfriNLLB models, a Transformers version that allows further fine-tuning and a CTranslate2 version for efficient inference. Moreover, we release all the training data that we used for fine-tuning the baseline and pruned models to facilitate further research.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T17:27:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.09373v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

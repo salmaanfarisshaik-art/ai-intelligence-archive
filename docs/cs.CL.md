@@ -21,8 +21,10 @@
 | [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v2) | ArXiv |  | 1 |
+| [AfriNLLB: Efficient Translation Models for African Languages](http://arxiv.org/abs/2602.09373v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
+| [An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis](http://arxiv.org/abs/2608.07439v1) | ArXiv |  | 1 |
 | [An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data](http://arxiv.org/abs/2503.07303v3) | ArXiv |  | 1 |
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) | ArXiv |  | 1 |
@@ -48,18 +50,21 @@
 | [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](http://arxiv.org/abs/2606.31796v2) | ArXiv |  | 1 |
 | [ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](http://arxiv.org/abs/2601.16217v2) | ArXiv |  | 1 |
 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](http://arxiv.org/abs/2604.08523v2) | ArXiv |  | 1 |
+| [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) | ArXiv |  | 1 |
 | [Context-Aware RL for Agentic and Multimodal LLMs](http://arxiv.org/abs/2606.17053v1) | ArXiv |  | 1 |
 | [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v2) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
 | [Creative Transformation in Literary Texts: Modelling Change Across Representational Levels](http://arxiv.org/abs/2607.28513v1) | ArXiv |  | 1 |
+| [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) | ArXiv |  | 1 |
 | [CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs](http://arxiv.org/abs/2608.02472v1) | ArXiv |  | 1 |
 | [Cultural Awareness is Represented but Not Decoded: Tracing Mythological Knowledge across 18 Open-Source LLMs](http://arxiv.org/abs/2608.02486v1) | ArXiv |  | 1 |
 | [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses](http://arxiv.org/abs/2606.18222v1) | ArXiv |  | 1 |
 | [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) | ArXiv |  | 1 |
 | [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents](http://arxiv.org/abs/2606.17029v1) | ArXiv |  | 1 |
 | [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](http://arxiv.org/abs/2607.27178v1) | ArXiv |  | 1 |
+| [Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](http://arxiv.org/abs/2605.02608v2) | ArXiv |  | 1 |
 | [Detecting Knowledge Inconsistencies Across Text, Tables, and Knowledge Graphs](http://arxiv.org/abs/2607.25959v1) | ArXiv |  | 1 |
 | [Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents](http://arxiv.org/abs/2607.15095v2) | ArXiv |  | 1 |
 | [Do VLMs Align Better with Humans than LLMs during Natural Reading?](http://arxiv.org/abs/2605.28818v2) | ArXiv |  | 1 |
@@ -104,6 +109,7 @@
 | [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
+| [Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](http://arxiv.org/abs/2604.07269v2) | ArXiv |  | 1 |
 | [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) | ArXiv |  | 1 |
 | [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](http://arxiv.org/abs/2607.00482v2) | ArXiv |  | 1 |
 | [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) | ArXiv |  | 1 |
@@ -122,6 +128,7 @@
 | [Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1) | ArXiv |  | 1 |
 | [Like a bilingual baby: The advantage of visually grounding a bilingual language model](http://arxiv.org/abs/2210.05487v3) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
+| [LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering](http://arxiv.org/abs/2608.07370v1) | ArXiv |  | 1 |
 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](http://arxiv.org/abs/2608.02515v1) | ArXiv |  | 1 |
 | [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
 | [LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints](http://arxiv.org/abs/2410.06458v2) | ArXiv |  | 1 |
@@ -140,6 +147,7 @@
 | [MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors](http://arxiv.org/abs/2607.00848v3) | ArXiv |  | 1 |
 | [MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](http://arxiv.org/abs/2604.21370v2) | ArXiv |  | 1 |
 | [Moral Semantics Survive Machine Translation: Cross-Lingual Evidence from Moral Foundations Corpora](http://arxiv.org/abs/2605.22660v2) | ArXiv |  | 1 |
+| [Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions](http://arxiv.org/abs/2605.29738v2) | ArXiv |  | 1 |
 | [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](http://arxiv.org/abs/2602.05547v3) | ArXiv |  | 1 |
 | [NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering](http://arxiv.org/abs/2608.06292v1) | ArXiv |  | 1 |
 | [Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims](http://arxiv.org/abs/2606.02493v3) | ArXiv |  | 1 |
@@ -181,6 +189,7 @@
 | [Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills](http://arxiv.org/abs/2607.22529v1) | ArXiv |  | 1 |
 | [SkMTEB: Slovak Massive Text Embedding Benchmark and Model Adaptation](http://arxiv.org/abs/2606.13647v1) | ArXiv |  | 1 |
 | [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1) | ArXiv |  | 1 |
+| [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v2) | ArXiv |  | 1 |
 | [Sound Probabilistic Safety Bounds for Large Language Models](http://arxiv.org/abs/2607.20286v1) | ArXiv |  | 1 |
 | [Speculative Decoding and the Curse of Multilinguality](http://arxiv.org/abs/2605.30580v2) | ArXiv |  | 1 |
 | [Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](http://arxiv.org/abs/2608.05126v1) | ArXiv |  | 1 |

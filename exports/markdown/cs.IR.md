@@ -1,5 +1,10 @@
 # Cs.Ir Export
 
+## Towards a Theoretical Understanding of Two Tower Recommendation Models
+- **ID**: arxiv_2403.00802v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2403.00802v2](http://arxiv.org/abs/2403.00802v2)
+
 ## From Noise to Order: Learning to Rank via Denoising Diffusion
 - **ID**: arxiv_2602.11453v3
 - **Source**: ArXiv

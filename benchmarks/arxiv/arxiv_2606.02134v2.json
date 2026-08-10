@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.02134v2",
+  "schema_version": "1.0",
+  "name": "Rethinking Evaluation Paradigms in IBP-based Certified Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.02134v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.02134v2",
+    "updated": "2026-08-07T16:19:52Z",
+    "published": "2026-06-01T12:00:15Z",
+    "title": "Rethinking Evaluation Paradigms in IBP-based Certified Training",
+    "summary": "Deep neural networks achieve strong performance on many supervised learning tasks but remain vulnerable to adversarial perturbations. Neural network verification provides mathematically rigorous robustness guarantees, yet at substantial computational cost. To mitigate this, certified training techniques optimise for verifiable robustness during training, typically inducing a trade-off between natural and certified accuracy controlled by method-specific hyperparameters. Because these metrics are inherently conflicting, the common practice of reporting a single configuration is problematic: it can mislead conclusions about overall performance and prevents unbiased assessments of the state of the art. We address this by evaluating certified training methods via Pareto front comparisons over the natural--certified accuracy trade-off. To enable fair, method-agnostic comparisons, we perform efficient automated multi-objective hyperparameter optimisation to identify a set of Pareto-optimal configurations for each method. This approach often uncovers substantial undertuning in previously reported configurations, yielding superior performance and establishing a new state of the art. Leveraging these fronts, we present the first comprehensive multi-objective comparison of certified training approaches, showing that prior advancements are less pronounced than assumed and revealing previously unreported performance complementarities.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-10T03:52:48Z",
+  "last_updated": "2026-08-07T16:19:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.02134v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
