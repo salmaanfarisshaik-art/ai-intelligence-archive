@@ -1936,6 +1936,11 @@
 - **URL**: [https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide](https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide)
 
 ## 
+- **ID**: rss_https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows](https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows)
+
+## 
 - **ID**: rss_https://openai.com/index/expanding-economic-opportunity-with-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/expanding-economic-opportunity-with-ai](https://openai.com/index/expanding-economic-opportunity-with-ai)
