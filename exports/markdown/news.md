@@ -5566,6 +5566,11 @@
 - **URL**: [https://openai.com/index/virgin-atlantic-oliver-byers](https://openai.com/index/virgin-atlantic-oliver-byers)
 
 ## 
+- **ID**: rss_https://openai.com/index/virgin-atlantic/chatgpt-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/virgin-atlantic/chatgpt-work](https://openai.com/index/virgin-atlantic/chatgpt-work)
+
+## 
 - **ID**: rss_https://openai.com/index/vpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/vpt](https://openai.com/index/vpt)
@@ -5684,6 +5689,11 @@
 - **ID**: rss_https://openai.com/index/yabble
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/yabble](https://openai.com/index/yabble)
+
+## 
+- **ID**: rss_https://openai.com/index/zapier
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/zapier](https://openai.com/index/zapier)
 
 ## 
 - **ID**: rss_https://openai.com/index/zelma

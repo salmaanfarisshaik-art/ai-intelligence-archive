@@ -106073,6 +106073,13 @@
       "score": 1.0
     }
   ],
+  "sharpens": [
+    {
+      "entity_id": "rss_https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "sharper": [
     {
       "entity_id": "alpaca_-5532866558770848881",
@@ -128308,6 +128315,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/introducing-b2b-signals",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/virgin-atlantic/chatgpt-work",
       "match_type": "exact",
       "score": 1.0
     }
