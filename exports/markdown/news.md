@@ -506,6 +506,11 @@
 - **URL**: [https://openai.com/index/accelerating-cyber-defense-ecosystem](https://openai.com/index/accelerating-cyber-defense-ecosystem)
 
 ## 
+- **ID**: rss_https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy](https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy)
+
+## 
 - **ID**: rss_https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences)
@@ -909,6 +914,11 @@
 - **ID**: rss_https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community](https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community)
+
+## 
+- **ID**: rss_https://openai.com/index/building-an-ai-native-finance-function
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/building-an-ai-native-finance-function](https://openai.com/index/building-an-ai-native-finance-function)
 
 ## 
 - **ID**: rss_https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation
@@ -4541,6 +4551,11 @@
 - **URL**: [https://openai.com/index/prediction-and-control-with-temporal-segment-models](https://openai.com/index/prediction-and-control-with-temporal-segment-models)
 
 ## 
+- **ID**: rss_https://openai.com/index/premium-seats-chatgpt-business
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/premium-seats-chatgpt-business](https://openai.com/index/premium-seats-chatgpt-business)
+
+## 
 - **ID**: rss_https://openai.com/index/preparing-for-future-ai-capabilities-in-biology
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/preparing-for-future-ai-capabilities-in-biology](https://openai.com/index/preparing-for-future-ai-capabilities-in-biology)
@@ -4599,6 +4614,11 @@
 - **ID**: rss_https://openai.com/index/put-ai-to-work-for-your-product-team
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/put-ai-to-work-for-your-product-team](https://openai.com/index/put-ai-to-work-for-your-product-team)
+
+## 
+- **ID**: rss_https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands](https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands)
 
 ## 
 - **ID**: rss_https://openai.com/index/pvh-future-of-fashion
