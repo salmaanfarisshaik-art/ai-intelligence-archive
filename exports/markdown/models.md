@@ -5532,6 +5532,10 @@
 - **ID**: model_yanissamz_hy3_295b_a21b_gguf
 - **Source**: 
 
+## yentinglin/Llama-3-Taiwan-8B-Instruct
+- **ID**: model_yentinglin_llama_3_taiwan_8b_instruct
+- **Source**: 
+
 ## Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed
 - **ID**: model_youssofal_qwen3_6_27b_mtplx_optimized_speed
 - **Source**: 

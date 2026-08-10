@@ -4613,6 +4613,13 @@
       "score": 1.5
     }
   ],
+  "03613": [
+    {
+      "entity_id": "model_goedel_lm_goedel_prover_v2_32b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "03624": [
     {
       "entity_id": "model_nvidia_nemotron_h_8b_base_8k",
@@ -5250,6 +5257,13 @@
       "entity_id": "hf_ds_67b9d203047d98a072b4e68c",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "04425": [
+    {
+      "entity_id": "dataset_ui_mopd_uni_gui_openmobile",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "04434": [
@@ -5921,6 +5935,11 @@
   "05390": [
     {
       "entity_id": "dataset_brownu_deform360",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_liuyibing_deform360",
       "match_type": "exact",
       "score": 1.5
     }
@@ -7121,6 +7140,11 @@
       "entity_id": "model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf",
       "match_type": "exact",
       "score": 6.5
+    },
+    {
+      "entity_id": "model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128",
+      "match_type": "exact",
+      "score": 5.0
     },
     {
       "entity_id": "model_bartowski_deepseek_v4_flash_0731_gguf",

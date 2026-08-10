@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fb23f34fea2e6d7ec8ca5e7e3dceb542d77d805a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tZDPShift: Beyond the Zero-Disparity Plane in Stereo\n\t\n\n\n  \n\n\nEvery public stereo benchmark assumes positive disparity valuesd = fB/Z ≥ 0. Mordern stereoscopic display — cinema 3D, VR, HMDs — actively uses d < 0. ZDPShift bridges the gap: the same artist-authored open-movie content rendered at five ZDP shifts Δ ∈ {−16, 0, +16, +24, +32} pixels, giving you a controlled continuum from textbook-positive to substantially-crossed disparities, with analytical ground truth at every pixel.… See the full description on the dataset page: https://huggingface.co/datasets/shijianjian/ZDPShift.",
-  "downloads": 33008,
+  "downloads": 33023,
   "tags": [
     "task_categories:depth-estimation",
     "license:cc-by-sa-4.0",

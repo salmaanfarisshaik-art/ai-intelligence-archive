@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T07:30:23Z",
+  "generated_at": "2026-08-10T09:19:19Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -853,6 +853,7 @@
     ],
     "hf_Qwen_Qwen3-32B": [
       "model_amazon_gka_primed_hqwen3_32b_instruct",
+      "model_goedel_lm_goedel_prover_v2_32b",
       "model_maziyarpanahi_qwen3_32b_gguf",
       "model_nvidia_qwen3_32b_nvfp4",
       "model_qwen_qwen3_32b_awq",
@@ -984,6 +985,7 @@
       "model_tiny_random_qwen3_next_moe"
     ],
     "hf_Qwen_Qwen3-Next-80B-A3B-Thinking": [
+      "model_bartowski_qwen_qwen3_next_80b_a3b_thinking_gguf",
       "model_cyankiwi_qwen3_next_80b_a3b_thinking_awq_4bit"
     ],
     "hf_Qwen_Qwen3-Reranker-0.6B": [
@@ -1010,6 +1012,9 @@
     "hf_Qwen_Qwen3.5-27B": [
       "model_mlx_community_qwen3_5_27b_optiq_4bit",
       "model_z_lab_qwen3_5_27b_dflash"
+    ],
+    "hf_Qwen_Qwen3.5-35B-A3B": [
+      "model_mudler_qwen3_5_35b_a3b_apex_gguf"
     ],
     "hf_Qwen_Qwen3.5-35B-A3B-Base": [
       "model_qwen_qwen_agentworld_35b_a3b"
@@ -1066,6 +1071,9 @@
     ],
     "hf_RASA": [
       "model_kenpath_svara_tts_v1"
+    ],
+    "hf_RedHatAI_gemma-4-26B-A4B-it-speculator.eagle3": [
+      "model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf"
     ],
     "hf_ResplendentAI_NSFW_RP_Format_DPO": [
       "model_vicgalle_humanish_roleplay_llama_3_1_8b"
@@ -1284,6 +1292,9 @@
     ],
     "hf_antirez_deepseek-v4-gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
+    ],
+    "hf_apetersson_DeepSeek-V4-Flash-0731-Abliterated-FP8": [
+      "model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128"
     ],
     "hf_arcee-ai_Trinity-Mini": [
       "model_maziyarpanahi_trinity_mini_gguf"
@@ -1831,6 +1842,9 @@
     ],
     "hf_igorls_gemma-4-12B-it-heretic": [
       "model_igorls_gemma_4_12b_it_heretic_gguf"
+    ],
+    "hf_inclusionAI_Ling-3.0-flash": [
+      "model_atomicchat_ling_3_0_flash_gguf"
     ],
     "hf_inclusionAI_Ling-mini-base-2.0": [
       "model_inclusionai_ling_mini_2_0"
@@ -3010,6 +3024,9 @@
     "model_anton_hugging_timeomni_1_7b": [
       "hf_Qwen_Qwen2.5-7B-Instruct"
     ],
+    "model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128": [
+      "hf_apetersson_DeepSeek-V4-Flash-0731-Abliterated-FP8"
+    ],
     "model_applied_innovation_center_karnak_40b_v1_0": [
       "hf_Qwen_Qwen3-30B-A3B-Instruct-2507"
     ],
@@ -3027,6 +3044,9 @@
     ],
     "model_ath_maas_ovis2_5_9b": [
       "hf_AIDC-AI_Ovis-dataset"
+    ],
+    "model_atomicchat_ling_3_0_flash_gguf": [
+      "hf_inclusionAI_Ling-3.0-flash"
     ],
     "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
@@ -3164,6 +3184,9 @@
     ],
     "model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf": [
       "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"
+    ],
+    "model_bartowski_qwen_qwen3_next_80b_a3b_thinking_gguf": [
+      "hf_Qwen_Qwen3-Next-80B-A3B-Thinking"
     ],
     "model_bartowski_smollm2_1_7b_instruct_gguf": [
       "hf_HuggingFaceTB_SmolLM2-1.7B-Instruct"
@@ -3625,6 +3648,9 @@
     ],
     "model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf": [
       "hf_GnLOLot_MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking"
+    ],
+    "model_goedel_lm_goedel_prover_v2_32b": [
+      "hf_Qwen_Qwen3-32B"
     ],
     "model_goekdeniz_guelmez_josiefied_qwen3_vl_4b_instruct_abliterated_beta_v1": [
       "hf_Qwen_Qwen3-VL-4B-Instruct"
@@ -4536,6 +4562,9 @@
     ],
     "model_mtgv_mobilellama_1_4b_chat": [
       "hf_Aeala_ShareGPT_Vicuna_unfiltered"
+    ],
+    "model_mudler_qwen3_5_35b_a3b_apex_gguf": [
+      "hf_Qwen_Qwen3.5-35B-A3B"
     ],
     "model_myric_laguna_s_2_1_apex_gguf": [
       "hf_poolside_Laguna-S-2.1"
@@ -6071,6 +6100,9 @@
     ],
     "model_weiboai_vibethinker_3b": [
       "hf_Qwen_Qwen2.5-Coder-3B"
+    ],
+    "model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf": [
+      "hf_RedHatAI_gemma-4-26B-A4B-it-speculator.eagle3"
     ],
     "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf": [
       "hf_google_gemma-4-12B-it"

@@ -1,0 +1,54 @@
+{
+  "unique_id": "hf_ds_69bd10117ce15b06bbea0357",
+  "schema_version": "1.0",
+  "name": "PresentBench/PresentBench",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tPresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation\n\t\n\n[🌐 Homepage] [📖 Paper] [💻 Code]\nThis repository hosts the PresentBench benchmark dataset.\n\n\t\n\t\t\n\t\n\t\n\t\t📄 Abstract\n\t\n\nSlides serve as a critical medium for conveying information in presentation-oriented scenarios such as academia, education, and business. Despite their importance, creating high-quality slide decks remains time-consuming and cognitively demanding. Recent advances in generative models, such… See the full description on the dataset page: https://huggingface.co/datasets/PresentBench/PresentBench.",
+  "size": "213991",
+  "source_url": "https://huggingface.co/datasets/PresentBench/PresentBench",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "69bd10117ce15b06bbea0357",
+    "id": "PresentBench/PresentBench",
+    "author": "PresentBench",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-05-05T11:55:52.000Z",
+    "likes": 2,
+    "private": false,
+    "sha": "31ec40084405c5f2e6b8b5adedf2999b6060e7e1",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tPresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation\n\t\n\n[🌐 Homepage] [📖 Paper] [💻 Code]\nThis repository hosts the PresentBench benchmark dataset.\n\n\t\n\t\t\n\t\n\t\n\t\t📄 Abstract\n\t\n\nSlides serve as a critical medium for conveying information in presentation-oriented scenarios such as academia, education, and business. Despite their importance, creating high-quality slide decks remains time-consuming and cognitively demanding. Recent advances in generative models, such… See the full description on the dataset page: https://huggingface.co/datasets/PresentBench/PresentBench.",
+    "downloads": 213991,
+    "tags": [
+      "task_categories:any-to-any",
+      "task_categories:text-generation",
+      "language:en",
+      "language:zh",
+      "license:other",
+      "size_categories:n<1K",
+      "format:json",
+      "modality:document",
+      "modality:tabular",
+      "modality:text",
+      "library:datasets",
+      "library:pandas",
+      "library:polars",
+      "library:mlcroissant",
+      "arxiv:2603.07244",
+      "region:us"
+    ],
+    "createdAt": "2026-03-20T09:14:57.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-08-10T09:18:20.538388+00:00",
+  "last_updated": "2026-05-05T11:55:52.000Z",
+  "links": {
+    "related_models": [
+      "datasets/PresentBench"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -122171,6 +122171,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_69bd10117ce15b06bbea0357",
+      "label": "PresentBench/PresentBench",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_69be6056f46b7dff732d8c53",
       "label": "ksolovev/FineNews",
       "category": "dataset"
@@ -136738,6 +136743,11 @@
     {
       "id": "model_yanissamz_hy3_295b_a21b_gguf",
       "label": "YanissAmz/Hy3-295B-A21B-GGUF",
+      "category": "models"
+    },
+    {
+      "id": "model_yentinglin_llama_3_taiwan_8b_instruct",
+      "label": "yentinglin/Llama-3-Taiwan-8B-Instruct",
       "category": "models"
     },
     {
@@ -440160,6 +440170,11 @@
     {
       "source": "hf_ds_69a471da5b0ec60eb113b4c1",
       "target": "datasets/siril-spcc",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_69bd10117ce15b06bbea0357",
+      "target": "datasets/PresentBench",
       "relationship": "related_models"
     },
     {

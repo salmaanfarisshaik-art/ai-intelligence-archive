@@ -700,6 +700,12 @@
 - **URL**: [https://huggingface.co/datasets/ccoffee20/flatpak](https://huggingface.co/datasets/ccoffee20/flatpak)
 - **Tags**: region:us
 
+## PresentBench/PresentBench
+- **ID**: hf_ds_69bd10117ce15b06bbea0357
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/PresentBench/PresentBench](https://huggingface.co/datasets/PresentBench/PresentBench)
+- **Tags**: arxiv:2603.07244, format:json, language:en, language:zh, library:datasets, library:mlcroissant, library:pandas, library:polars, license:other, modality:document, modality:tabular, modality:text, region:us, size_categories:n<1K, task_categories:any-to-any, task_categories:text-generation
+
 ## ksolovev/FineNews
 - **ID**: hf_ds_69be6056f46b7dff732d8c53
 - **Source**: HuggingFace Datasets

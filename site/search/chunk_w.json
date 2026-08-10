@@ -35822,6 +35822,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_snad_space_us_names_by_state",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_stanfordnlp_imdb",
       "match_type": "exact",
       "score": 1.0
@@ -107098,6 +107103,13 @@
       "score": 1.0
     }
   ],
+  "williamliao": [
+    {
+      "entity_id": "model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "williams": [
     {
       "entity_id": "alpaca_3134879440262429023",
@@ -111255,6 +111267,11 @@
     },
     {
       "entity_id": "model_baai_bge_reranker_v2_5_gemma2_lightweight",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_mudler_qwen3_5_35b_a3b_apex_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -140575,6 +140592,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_acvlab_abot_world_explorer_500h",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ad1t7a_10kh_realomin_opendata",
       "match_type": "exact",
       "score": 1.0
@@ -141511,6 +141533,11 @@
     },
     {
       "entity_id": "dataset_siril_spcc_gaia",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_snad_space_us_names_by_state",
       "match_type": "exact",
       "score": 1.0
     },
@@ -166542,6 +166569,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_acvlab_abot_world_explorer_500h",
+      "match_type": "exact",
+      "score": 5.5
+    },
+    {
       "entity_id": "alpaca_2920131542772885024",
       "match_type": "exact",
       "score": 5.0
@@ -171778,6 +171810,11 @@
     },
     {
       "entity_id": "dataset_labelmaker_arkit_labelmaker",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_liuyibing_deform360",
       "match_type": "exact",
       "score": 1.0
     },
@@ -188670,6 +188707,11 @@
     },
     {
       "entity_id": "dataset_eriktks_conll2003",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_snad_space_us_names_by_state",
       "match_type": "exact",
       "score": 2.0
     },

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86740
+**Total Entities Tracked**: 86742
 
 ## Category Distribution
 
@@ -8,8 +8,8 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1507
-- **models**: 1415
-- **dataset**: 1138
+- **models**: 1416
+- **dataset**: 1139
 - **news**: 1136
 - **text-generation**: 1003
 - **cs.CV**: 377
@@ -76,11 +76,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30100
+- ****: 30101
 - **Hugging Face**: 2010
 - **ArXiv**: 1208
 - **OpenAI Blog**: 1122
-- **HuggingFace Datasets**: 138
+- **HuggingFace Datasets**: 139
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -120,18 +120,18 @@
 
 ## Top Tags
 
-- **region:us**: 204
+- **region:us**: 205
 - **text-generation**: 67
-- **library:datasets**: 65
-- **library:mlcroissant**: 65
+- **library:datasets**: 66
+- **library:mlcroissant**: 66
 - **transformers**: 59
 - **endpoints_compatible**: 58
-- **modality:text**: 57
+- **modality:text**: 58
 - **safetensors**: 57
 - **license:apache-2.0**: 55
-- **language:en**: 52
+- **language:en**: 53
 - **conversational**: 51
-- **library:polars**: 48
+- **library:polars**: 49
 - **license:mit**: 41
 - **format:parquet**: 40
 - **text-generation-inference**: 31
@@ -139,16 +139,16 @@
 - **en**: 25
 - **enterprise**: 25
 - **library:dask**: 25
+- **library:pandas**: 24
+- **task_categories:text-generation**: 24
 - **eval-results**: 23
-- **library:pandas**: 23
-- **task_categories:text-generation**: 23
 - **deploy:sagemaker**: 18
+- **modality:tabular**: 18
+- **size_categories:n<1K**: 18
 - **modality:image**: 17
-- **modality:tabular**: 17
 - **qwen3**: 17
-- **size_categories:n<1K**: 17
 - **api**: 16
-- **license:other**: 15
+- **license:other**: 16
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 13
 - **modality:video**: 12
@@ -166,7 +166,7 @@
 - **size_categories:1M<n<10M**: 9
 - **custom_code**: 8
 - **language:ar**: 8
+- **language:zh**: 8
 - **security**: 8
 - **size_categories:1K<n<10K**: 8
 - **arxiv:2309.00071**: 7
-- **gguf**: 7

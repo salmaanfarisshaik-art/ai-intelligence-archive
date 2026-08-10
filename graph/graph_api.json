@@ -6462,6 +6462,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_69bd10117ce15b06bbea0357",
+      "target": "datasets/PresentBench"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_69cf1925c61c6c0fbb866b5d",
       "target": "datasets/Williamsanderson"
     },
@@ -6786,7 +6791,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-10T07:29:25.905580+00:00",
+  "generated_at": "2026-08-10T09:18:29.235659+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -128962,6 +128967,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69bd10117ce15b06bbea0357",
+      "label": "PresentBench/PresentBench"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69be6056f46b7dff732d8c53",
       "label": "ksolovev/FineNews"
     },
@@ -143529,6 +143539,11 @@
       "category": "models",
       "id": "model_yanissamz_hy3_295b_a21b_gguf",
       "label": "YanissAmz/Hy3-295B-A21B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_yentinglin_llama_3_taiwan_8b_instruct",
+      "label": "yentinglin/Llama-3-Taiwan-8B-Instruct"
     },
     {
       "category": "models",
@@ -440492,6 +440507,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 1357,
-  "total_nodes": 86740
+  "total_edges": 1358,
+  "total_nodes": 86742
 }
