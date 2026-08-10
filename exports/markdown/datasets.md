@@ -37,6 +37,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_acvlab_abot_world_explorer_500h
+- **Source**: 
+
+## 
 - **ID**: dataset_ad1t7a_10kh_realomin_opendata
 - **Source**: 
 
@@ -1753,6 +1757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hjq766_imabed
+- **Source**: 
+
+## 
 - **ID**: dataset_hkustaudio_audio_flan_dataset
 - **Source**: 
 
@@ -2190,6 +2198,10 @@
 
 ## 
 - **ID**: dataset_icdn11_content_20260720da74
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_20260507afd6
 - **Source**: 
 
 ## 
@@ -3365,6 +3377,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_liuyibing_deform360
+- **Source**: 
+
+## 
 - **ID**: dataset_livecodebench_code_generation_lite
 - **Source**: 
 
@@ -3554,6 +3570,10 @@
 
 ## 
 - **ID**: dataset_lukaemon_bbh
+- **Source**: 
+
+## 
+- **ID**: dataset_lxl_158_rope_atlas_images
 - **Source**: 
 
 ## 
@@ -5089,6 +5109,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sjkhfuk_rdp
+- **Source**: 
+
+## 
 - **ID**: dataset_sjmathy_vitra_dinotxt_features
 - **Source**: 
 
@@ -5106,6 +5130,10 @@
 
 ## 
 - **ID**: dataset_smol_course_images
+- **Source**: 
+
+## 
+- **ID**: dataset_snad_space_us_names_by_state
 - **Source**: 
 
 ## 
@@ -5526,6 +5554,10 @@
 
 ## 
 - **ID**: dataset_ufldl_stanford_svhn
+- **Source**: 
+
+## 
+- **ID**: dataset_ui_mopd_uni_gui_openmobile
 - **Source**: 
 
 ## 

@@ -228,6 +228,10 @@
 - **ID**: model_anton_hugging_timeomni_1_7b
 - **Source**: 
 
+## apetersson/DeepSeek-V4-Flash-0731-Abliterated-DS4-Headroom128
+- **ID**: model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128
+- **Source**: 
+
 ## apple/OpenELM-1_1B-Instruct
 - **ID**: model_apple_openelm_1_1b_instruct
 - **Source**: 
@@ -262,6 +266,10 @@
 
 ## ATH-MaaS/Ovis2.5-9B
 - **ID**: model_ath_maas_ovis2_5_9b
+- **Source**: 
+
+## AtomicChat/Ling-3.0-flash-GGUF
+- **ID**: model_atomicchat_ling_3_0_flash_gguf
 - **Source**: 
 
 ## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
@@ -462,6 +470,10 @@
 
 ## bartowski/Qwen_Qwen3-Next-80B-A3B-Instruct-GGUF
 - **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen3-Next-80B-A3B-Thinking-GGUF
+- **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_thinking_gguf
 - **Source**: 
 
 ## bartowski/SmolLM2-1.7B-Instruct-GGUF
@@ -1254,6 +1266,10 @@
 
 ## GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF
 - **ID**: model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf
+- **Source**: 
+
+## Goedel-LM/Goedel-Prover-V2-32B
+- **ID**: model_goedel_lm_goedel_prover_v2_32b
 - **Source**: 
 
 ## Goekdeniz-Guelmez/Josiefied-Qwen3-VL-4B-Instruct-abliterated-beta-v1
@@ -2902,6 +2918,10 @@
 
 ## mtgv/MobileLLaMA-1.4B-Chat
 - **ID**: model_mtgv_mobilellama_1_4b_chat
+- **Source**: 
+
+## mudler/Qwen3.5-35B-A3B-APEX-GGUF
+- **ID**: model_mudler_qwen3_5_35b_a3b_apex_gguf
 - **Source**: 
 
 ## Myric/Laguna-S-2.1-APEX-GGUF
@@ -5486,6 +5506,10 @@
 
 ## WeiboAI/VibeThinker-3B
 - **ID**: model_weiboai_vibethinker_3b
+- **Source**: 
+
+## williamliao/gemma-4-26B-A4B-it-speculator.eagle3-F16-GGUF
+- **ID**: model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf
 - **Source**: 
 
 ## WizardLMTeam/WizardMath-7B-V1.1
