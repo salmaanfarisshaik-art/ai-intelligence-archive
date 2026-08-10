@@ -3571,6 +3571,11 @@
 - **URL**: [https://openai.com/index/model-disproves-discrete-geometry-conjecture](https://openai.com/index/model-disproves-discrete-geometry-conjecture)
 
 ## 
+- **ID**: rss_https://openai.com/index/model-ml
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/model-ml](https://openai.com/index/model-ml)
+
+## 
 - **ID**: rss_https://openai.com/index/model-ml-chaz-englander
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/model-ml-chaz-englander](https://openai.com/index/model-ml-chaz-englander)
@@ -4664,6 +4669,11 @@
 - **ID**: rss_https://openai.com/index/response-to-nyt-data-demands
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/response-to-nyt-data-demands](https://openai.com/index/response-to-nyt-data-demands)
+
+## 
+- **ID**: rss_https://openai.com/index/responsible-ai-infrastructure-texas
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/responsible-ai-infrastructure-texas](https://openai.com/index/responsible-ai-infrastructure-texas)
 
 ## 
 - **ID**: rss_https://openai.com/index/retell-ai

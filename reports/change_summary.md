@@ -1,38 +1,49 @@
 # Change Summary
 
-**Total Changes:** 75
+**Total Changes:** 88
 
 ## Added
-None
+- prompts/openai-blog/rss_https___openai.com_index_model-ml.json
+- prompts/openai-blog/rss_https___openai.com_index_responsible-ai-infrastructure-texas.json
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/rajpurkar/hf_ds_621ffdd236468d709f181f95.json
-- datasets/stanford-vision-lab/hf_ds_69f7b3cc62d65c8f39fe7270.json
+- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
+- datasets/stanfordnlp/hf_ds_621ffdd236468d709f181e77.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- exports/csv/all_entities.csv
+- exports/csv/news.csv
+- exports/json/all_entities.json
+- exports/json/news.json
+- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai/hf_openai_gpt-oss-120b.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-1.7B.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -59,6 +70,7 @@ None
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
