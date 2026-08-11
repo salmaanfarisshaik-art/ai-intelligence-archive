@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
 
+## Testing Hypotheses from the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages from Parler
+- **ID**: arxiv_2507.10810v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.10810v3](http://arxiv.org/abs/2507.10810v3)
+
 ## PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment
 - **ID**: arxiv_2508.05132v3
 - **Source**: ArXiv
@@ -74,6 +79,11 @@
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
+
+## Multilingual Agent-Based World Modeling for Social Science
+- **ID**: arxiv_2512.07195v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.07195v2](http://arxiv.org/abs/2512.07195v2)
 
 ## Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers
 - **ID**: arxiv_2512.17351v2
@@ -194,6 +204,11 @@
 - **ID**: arxiv_2605.02608v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02608v2](http://arxiv.org/abs/2605.02608v2)
+
+## Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus
+- **ID**: arxiv_2605.03742v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03742v2](http://arxiv.org/abs/2605.03742v2)
 
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
@@ -489,6 +504,11 @@
 - **ID**: arxiv_2606.19336v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19336v1](http://arxiv.org/abs/2606.19336v1)
+
+## Capability Provenance in Language Models: A Case Study in Social Reasoning
+- **ID**: arxiv_2606.19625v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19625v3](http://arxiv.org/abs/2606.19625v3)
 
 ## Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users
 - **ID**: arxiv_2606.20482v1
@@ -1164,4 +1184,34 @@
 - **ID**: arxiv_2608.07460v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07460v1](http://arxiv.org/abs/2608.07460v1)
+
+## SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring
+- **ID**: arxiv_2608.09802v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09802v1](http://arxiv.org/abs/2608.09802v1)
+
+## RA-FinBERT: Rule-aware LoRA adaptation for low-resource financial sentiment classification
+- **ID**: arxiv_2608.09834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09834v1](http://arxiv.org/abs/2608.09834v1)
+
+## Fusion Training for Mathematical Generalization in Large Language Models
+- **ID**: arxiv_2608.09893v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09893v1](http://arxiv.org/abs/2608.09893v1)
+
+## Consilience for Verifier-Free Test-Time Scaling
+- **ID**: arxiv_2608.09898v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09898v1](http://arxiv.org/abs/2608.09898v1)
+
+## Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness
+- **ID**: arxiv_2608.09900v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09900v1](http://arxiv.org/abs/2608.09900v1)
+
+## From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch
+- **ID**: arxiv_2608.09925v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09925v1](http://arxiv.org/abs/2608.09925v1)
 

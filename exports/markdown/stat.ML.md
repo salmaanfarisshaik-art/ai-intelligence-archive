@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.01741v2](http://arxiv.org/abs/2607.01741v2)
 
+## EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins
+- **ID**: arxiv_2607.08793v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.08793v4](http://arxiv.org/abs/2607.08793v4)
+
 ## Subjective Risk Decomposition: A New View for Uncertainty Quantification
 - **ID**: arxiv_2607.15196v1
 - **Source**: ArXiv

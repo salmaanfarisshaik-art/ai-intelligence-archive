@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.01312v5](http://arxiv.org/abs/2508.01312v5)
 
+## P3P Made Easy
+- **ID**: arxiv_2508.01312v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.01312v6](http://arxiv.org/abs/2508.01312v6)
+
 ## Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization
 - **ID**: arxiv_2508.11183v2
 - **Source**: ArXiv
@@ -99,6 +104,11 @@
 - **ID**: arxiv_2509.25699v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25699v4](http://arxiv.org/abs/2509.25699v4)
+
+## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
+- **ID**: arxiv_2510.16598v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.16598v2](http://arxiv.org/abs/2510.16598v2)
 
 ## Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - **ID**: arxiv_2510.21583v3
@@ -259,6 +269,11 @@
 - **ID**: arxiv_2604.02486v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.02486v3](http://arxiv.org/abs/2604.02486v3)
+
+## Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family
+- **ID**: arxiv_2604.05971v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.05971v2](http://arxiv.org/abs/2604.05971v2)
 
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
@@ -1884,4 +1899,59 @@
 - **ID**: arxiv_2608.07468v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v1](http://arxiv.org/abs/2608.07468v1)
+
+## Modern Backbones Improve Multi-task DETR for Mammography Classification and Lesion Localization
+- **ID**: arxiv_2608.09801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09801v1](http://arxiv.org/abs/2608.09801v1)
+
+## MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation
+- **ID**: arxiv_2608.09818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09818v1](http://arxiv.org/abs/2608.09818v1)
+
+## From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing
+- **ID**: arxiv_2608.09842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09842v1](http://arxiv.org/abs/2608.09842v1)
+
+## Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains
+- **ID**: arxiv_2608.09873v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09873v1](http://arxiv.org/abs/2608.09873v1)
+
+## Financial Numerical Prediction and Allocation as Token Generation
+- **ID**: arxiv_2608.09880v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09880v1](http://arxiv.org/abs/2608.09880v1)
+
+## Space-Creating versus Dead Possession: An Off-Ball Possession-Quality Index for Broadcast Football
+- **ID**: arxiv_2608.09887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09887v1](http://arxiv.org/abs/2608.09887v1)
+
+## DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning
+- **ID**: arxiv_2608.09907v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09907v1](http://arxiv.org/abs/2608.09907v1)
+
+## Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection
+- **ID**: arxiv_2608.09908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09908v1](http://arxiv.org/abs/2608.09908v1)
+
+## Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning
+- **ID**: arxiv_2608.09926v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09926v1](http://arxiv.org/abs/2608.09926v1)
+
+## Multimodal Model Diffing for Feature Discovery and Control
+- **ID**: arxiv_2608.09928v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09928v1](http://arxiv.org/abs/2608.09928v1)
+
+## Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots
+- **ID**: arxiv_2608.09931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
 

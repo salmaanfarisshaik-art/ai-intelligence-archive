@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.08793v4",
+  "schema_version": "1.0",
+  "name": "EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.08793v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.08793v4",
+    "updated": "2026-08-10T16:33:21Z",
+    "published": "2026-07-07T19:24:41Z",
+    "title": "EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins",
+    "summary": "Sepsis is a leading cause of mortality, yet optimal treatment policies remain contested. Existing reinforcement learning (RL) approaches learn fixed strategies for sepsis treatment, limiting adaptability to changing clinical objectives during inference. We propose EHRMPC, a framework that decouples learning patient dynamics from optimizing treatment by training a patient digital twin in the form of a generative electronic health record (EHR) model. The digital twin predicts clinical trajectories under interventions and enables model predictive control (MPC) to optimize treatments via inference-time planning over simulations. We evaluate EHR-MPC on a multicenter ICU sepsis cohort spanning 8 hospitals in the Mass General Brigham health system using both off-policy importance sampling and on-policy simulation-based evaluation. Relative to RL baselines, EHR-MPC achieves comparable off-policy performance and improved simulation performance. Unlike RL, this work frames sepsis treatment optimization as inference-time control over learned patient dynamics, establishing a general framework for decision making with generative clinical models.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T16:33:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.08793v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

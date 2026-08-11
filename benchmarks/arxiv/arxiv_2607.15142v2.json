@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.15142v2",
+  "schema_version": "1.0",
+  "name": "Concept-Guided Spatial Regularization for World Models in Atari Pong",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.15142v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.15142v2",
+    "updated": "2026-08-10T17:08:24Z",
+    "published": "2026-07-16T15:46:44Z",
+    "title": "Concept-Guided Spatial Regularization for World Models in Atari Pong",
+    "summary": "World models are usually evaluated as components of model-based reinforcement learning (MBRL) systems, leaving their standalone reliability understudied.\n  We reproduce five visual world-model agents in Atari Pong -- DreamerV3, DIAMOND, TWISTER, Simulus, and STORM -- and match their reported agent performance. We then freeze the learned world models and evaluate them in two ways. In a closed-loop rollout diagnostic, a policy trained separately from the corresponding MBRL agent interacts with each frozen model, and we inspect the generated visual trajectories for visual and dynamical errors. Across all five models, these rollouts contain clear failures, including ball disappearance, incorrect motion, and invalid ball-paddle interactions.\n  Beyond visual trajectories, we further evaluate the frozen models with pixel-space zero-shot MBRL, a challenging setting in which a new policy is trained entirely inside each frozen world model and then evaluated in the real environment. Across all five models, these policies substantially underperform those produced by the corresponding original MBRL pipelines. For DreamerV3, mean return drops from $-5.5$ to $-20.9$, near the minimum of $-21$.\n  We hypothesize that insufficient modeling of task-critical concepts, such as the ball in Pong, contributes to these failures and propose Concept-Guided Spatial Regularization (CGSReg), an auxiliary reconstruction loss on segmented concept regions. CGSReg improves both closed-loop rollouts and pixel-space zero-shot MBRL in DreamerV3, DIAMOND, and TWISTER, and improves zero-shot MBRL in Simulus; STORM shows no clear improvement.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T17:08:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.15142v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

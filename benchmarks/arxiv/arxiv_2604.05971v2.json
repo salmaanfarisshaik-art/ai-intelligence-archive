@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.05971v2",
+  "schema_version": "1.0",
+  "name": "Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.05971v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.05971v2",
+    "updated": "2026-08-10T16:52:17Z",
+    "published": "2026-04-07T15:04:33Z",
+    "title": "Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family",
+    "summary": "Recent research has shown that contrastive vision-language models such as CLIP often lack fine-grained understanding of visual content. While a growing body of work has sought to address this limitation, we identify a distinct failure mode in the CLIP family, which we term center bias, that persists even in recent model variants. Specifically, CLIP tends to disproportionately focus on the central region of an image, overlooking important objects located near the boundaries. This limitation is fundamental as failure to recognize relevant objects makes it difficult to perform any sophisticated tasks that depend on those objects. To understand the underlying causes of the limitation, we conduct analyses from both representation and attention perspectives. Using interpretability methods, i.e., embedding decomposition and attention map analysis, we find that relevant concepts especially those associated with off-center objects vanish from the model's embedding in the final representation due to information loss during the aggregation of visual embeddings, particularly the reliance on pooling mechanisms. Finally, we show that this bias can be alleviated with training-free strategies such as visual prompting and attention redistribution by redirecting models' attention to off-center regions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T16:52:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.05971v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

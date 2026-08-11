@@ -685,3 +685,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07430v1](http://arxiv.org/abs/2608.07430v1)
 
+## Parameter Exploration for RLVR via Variational Learning
+- **ID**: arxiv_2608.09805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09805v1](http://arxiv.org/abs/2608.09805v1)
+
+## Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA
+- **ID**: arxiv_2608.09819v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09819v1](http://arxiv.org/abs/2608.09819v1)
+
+## Distill Skills into Weights, Not Prompts: Abstract Skills as Privileged Signals for On-Policy Self-Distillation
+- **ID**: arxiv_2608.09826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09826v1](http://arxiv.org/abs/2608.09826v1)
+
+## Multi-Agent AI Safety as an Institutional Design Problem
+- **ID**: arxiv_2608.09828v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09828v1](http://arxiv.org/abs/2608.09828v1)
+

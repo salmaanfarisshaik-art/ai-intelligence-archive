@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86765
+**Total Entities Tracked**: 86815
 
 ## Category Distribution
 
@@ -12,18 +12,19 @@
 - **news**: 1145
 - **dataset**: 1139
 - **text-generation**: 1003
-- **cs.CV**: 377
-- **cs.CL**: 233
-- **cs.AI**: 231
-- **cs.LG**: 137
+- **cs.CV**: 391
+- **cs.CL**: 243
+- **cs.AI**: 241
+- **cs.LG**: 141
 - **tool**: 48
-- **cs.RO**: 38
+- **cs.RO**: 41
+- **cs.CR**: 27
 - **cs.SE**: 27
-- **cs.CR**: 25
-- **cs.SD**: 16
+- **cs.SD**: 17
 - **API**: 15
 - **cs.IR**: 15
-- **cs.CY**: 12
+- **cs.CY**: 14
+- **cs.HC**: 11
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -31,10 +32,9 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.HC**: 10
-- **cs.GT**: 8
+- **cs.GT**: 9
+- **stat.ML**: 8
 - **quant-ph**: 7
-- **stat.ML**: 7
 - **IDE Rule**: 6
 - **cs.DB**: 6
 - **Benchmark**: 5
@@ -60,6 +60,7 @@
 - **cs.DC**: 1
 - **cs.GR**: 1
 - **cs.LO**: 1
+- **cs.NE**: 1
 - **cs.OS**: 1
 - **cs.SI**: 1
 - **hep-th**: 1
@@ -78,7 +79,7 @@
 - **Stanford Alpaca**: 52000
 - ****: 30115
 - **Hugging Face**: 2010
-- **ArXiv**: 1208
+- **ArXiv**: 1258
 - **OpenAI Blog**: 1131
 - **HuggingFace Datasets**: 139
 - **GitHub Trending**: 48

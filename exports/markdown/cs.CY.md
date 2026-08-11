@@ -5,6 +5,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13187v5](http://arxiv.org/abs/2508.13187v5)
 
+## Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents
+- **ID**: arxiv_2605.16281v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.16281v3](http://arxiv.org/abs/2605.16281v3)
+
+## Contemporary AI lacks the imagination to diverge or negate in science
+- **ID**: arxiv_2606.08251v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08251v3](http://arxiv.org/abs/2606.08251v3)
+
 ## The Tone of Awareness: Topic, Sentiment, and Toxicity Maps During Mental Health Month on TikTok
 - **ID**: arxiv_2606.13581v1
 - **Source**: ArXiv

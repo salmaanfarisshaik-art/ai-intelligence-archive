@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.01312v6",
+  "schema_version": "1.0",
+  "name": "P3P Made Easy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.01312v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.01312v6",
+    "updated": "2026-08-10T17:43:25Z",
+    "published": "2025-08-02T10:58:03Z",
+    "title": "P3P Made Easy",
+    "summary": "We revisit the classical Perspective-Three-Point (P3P) problem, which aims to recover the absolute pose of a calibrated camera from three 2D-3D correspondences. It has long been known that P3P can be reduced to a quartic polynomial with analytically simple and computationally efficient coefficients. However, this elegant formulation has been largely overlooked in modern literature. Building on the theoretical foundation that traces back to Grunert's work in 1841, we propose a compact algebraic solver that achieves accuracy and runtime comparable to state-of-the-art methods. Our results show that this classical formulation remains highly competitive when implemented with modern insights, offering an excellent balance between simplicity, efficiency, and accuracy.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T17:43:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.01312v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -190,3 +190,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02578v1](http://arxiv.org/abs/2608.02578v1)
 
+## RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance
+- **ID**: arxiv_2608.09853v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09853v1](http://arxiv.org/abs/2608.09853v1)
+
+## Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy
+- **ID**: arxiv_2608.09857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09857v1](http://arxiv.org/abs/2608.09857v1)
+
+## Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning
+- **ID**: arxiv_2608.09876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09876v1](http://arxiv.org/abs/2608.09876v1)
+

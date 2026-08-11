@@ -420,6 +420,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13220v2](http://arxiv.org/abs/2607.13220v2)
 
+## Concept-Guided Spatial Regularization for World Models in Atari Pong
+- **ID**: arxiv_2607.15142v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15142v2](http://arxiv.org/abs/2607.15142v2)
+
 ## Can We Trust Item Response Theory for AI Evaluation?
 - **ID**: arxiv_2607.15190v1
 - **Source**: ArXiv
@@ -970,6 +975,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03972v1](http://arxiv.org/abs/2608.03972v1)
 
+## Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load
+- **ID**: arxiv_2608.05018v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05018v2](http://arxiv.org/abs/2608.05018v2)
+
 ## Item Response Theory for AI Safety
 - **ID**: arxiv_2608.05086v1
 - **Source**: ArXiv
@@ -1154,4 +1164,44 @@
 - **ID**: arxiv_2608.07457v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07457v1](http://arxiv.org/abs/2608.07457v1)
+
+## Mismatch Matters: On-Policy Distillation Beyond Token Agreement
+- **ID**: arxiv_2608.09836v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09836v1](http://arxiv.org/abs/2608.09836v1)
+
+## CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems
+- **ID**: arxiv_2608.09848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09848v1](http://arxiv.org/abs/2608.09848v1)
+
+## Agentic Auto-Research is Fuzz Testing
+- **ID**: arxiv_2608.09855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09855v1](http://arxiv.org/abs/2608.09855v1)
+
+## Towards Expert-level Medical AI for Real-time Video Consultations
+- **ID**: arxiv_2608.09861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09861v1](http://arxiv.org/abs/2608.09861v1)
+
+## ArchAgent v2: A Case Study with the Data Prefetching Championship
+- **ID**: arxiv_2608.09874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09874v1](http://arxiv.org/abs/2608.09874v1)
+
+## SHE: Trajectory-driven Safety Harness Evolution for LLM Agents
+- **ID**: arxiv_2608.09885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09885v1](http://arxiv.org/abs/2608.09885v1)
+
+## DSLE: A Learning Environment for Dark Souls Boss Encounters
+- **ID**: arxiv_2608.09902v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09902v1](http://arxiv.org/abs/2608.09902v1)
+
+## GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis
+- **ID**: arxiv_2608.09921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)
 

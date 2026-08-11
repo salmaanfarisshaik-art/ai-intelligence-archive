@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.09842v1",
+  "schema_version": "1.0",
+  "name": "From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.09842v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.09842v1",
+    "updated": "2026-08-10T16:59:30Z",
+    "published": "2026-08-10T16:59:30Z",
+    "title": "From Diagnosis to Correction: Benchmarking and Improving Real-World Table Parsing",
+    "summary": "Recent document parsers achieve table TEDS scores above 93 on OmniDocBench v1.6, yet community feedback and our audit reveal persistent failures on complex real-world tables. To quantify this gap, we introduce TableParseMap, a diagnostic benchmark of 916 real-world tables organized into five challenging scenarios and nine failure types. The strongest evaluated parser achieves only 85.03 TEDS, showing that aggregate benchmark scores conceal substantial weaknesses. Our analysis attributes these failures to three complementary limitations: large tables exceed the reliable processing scale of a single pass, weak or ambiguous visual cues hinder structure perception, and the reconstructed table may remain visually inconsistent with the image. We therefore propose DEC (Decompose--Enhance--Correct), a visual-consistency-guided agentic framework that improves frozen table parsers without retraining. DEC uses a general VLM as the controller: Decompose partitions large tables along structure-aware boundaries, Enhance exposes weak visual evidence and reparses transformed views, and Correct diagnoses and repairs residual errors. A Visual Consistency Gate (VC-Gate) selectively triggers intervention, while a Visual Consistency Ranker (VC-Ranker) verifies candidate updates and supports rollback without ground-truth HTML at inference time. We further derive a 1,977-table Consensus-Hard Set from 4,556 candidates through offline metrics and cross-model consensus. Across three frozen parsers, DEC improves TEDS by 1.57 points on average; on TableParseMap, gains reach 1.89 points overall, 2.62 on structural errors, and 5.66 on large tables.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T16:59:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.09842v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2012.05213v2](http://arxiv.org/abs/2012.05213v2)
 
+## The Theory of Strategic Evolution: Games with Endogenous Players and the Seven Laws of Strategic Replicators
+- **ID**: arxiv_2512.07901v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.07901v4](http://arxiv.org/abs/2512.07901v4)
+
 ## Stable Menus of Public Goods: AI-Enabled Progress
 - **ID**: arxiv_2606.16989v1
 - **Source**: ArXiv

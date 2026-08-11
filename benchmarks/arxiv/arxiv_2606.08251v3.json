@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08251v3",
+  "schema_version": "1.0",
+  "name": "Contemporary AI lacks the imagination to diverge or negate in science",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08251v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08251v3",
+    "updated": "2026-08-10T16:28:27Z",
+    "published": "2026-06-06T16:39:28Z",
+    "title": "Contemporary AI lacks the imagination to diverge or negate in science",
+    "summary": "Bold claims that AI will accelerate scientific discovery have raced ahead of evidence from working scientists, yet large-scale, scientist-in-the-loop evidence is scarce. Here we mount the largest evaluation to date, inviting authors of 121,640 recent preprints in biology, medicine, chemistry, and social science to judge large language model (LLM)-generated ideas derived from their own papers. 6,749 representative scientists returned 25,139 rating sets on novelty, feasibility, probability of being true, and favorability of adoption. Three patterns emerge. First, non-reasoning LLMs collapse into a narrow \"hivemind\" of similar ideas while reasoning models explore a wider hypothesis space, but no model spontaneously proposes null hypotheses, a move humans make more freely. Second, scientists reward ideas resembling their own and prize probability over novelty, though social scientists tolerate risk more than life scientists; senior social scientists are the harshest critics, and their skepticism is earned, as LLMs falter most in pluralistic fields demanding context-aware interpretation and evolving theories. Third, automated evaluators, including LLM-as-a-judge and state-of-the-art (SOTA) models, agree weakly with expert judgment. Retrieval augmentation and scientist persona prompting yield marginal gains. A Qwen3-14B reward model we post-trained on human ratings captures nuances of taste, beats SOTA models by up to 27%, and closes the gap to the consistency of human peer reviewers. An analysis of 39 million papers from 2010 to 2025 links survey findings to macro-level patterns: following ChatGPT's release, null claims are sharply suppressed and ideas contract. Agent-based simulations further suggest that saturated fields should especially prize human uniqueness. For all the hype, today's AI for science remains a collaborator whose imagination and judgment benefit from human grounding.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-08-11T03:42:26Z",
+  "last_updated": "2026-08-10T16:28:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08251v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

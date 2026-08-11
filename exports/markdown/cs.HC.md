@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27179v1](http://arxiv.org/abs/2607.27179v1)
 
+## Unanticipated Effects of Generative AI on Expertise Pathways and Performance Perception in System Administration
+- **ID**: arxiv_2607.28650v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.28650v2](http://arxiv.org/abs/2607.28650v2)
+
