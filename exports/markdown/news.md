@@ -1376,6 +1376,11 @@
 - **URL**: [https://openai.com/index/david-velez-robin-vince-join-openai-boards](https://openai.com/index/david-velez-robin-vince-join-openai-boards)
 
 ## 
+- **ID**: rss_https://openai.com/index/daybreak-models-are-now-available-on-aws
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/daybreak-models-are-now-available-on-aws](https://openai.com/index/daybreak-models-are-now-available-on-aws)
+
+## 
 - **ID**: rss_https://openai.com/index/daybreak-securing-the-world
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/daybreak-securing-the-world](https://openai.com/index/daybreak-securing-the-world)
