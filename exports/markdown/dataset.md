@@ -688,6 +688,12 @@
 - **URL**: [https://huggingface.co/datasets/HennyPr/ps2_hf2](https://huggingface.co/datasets/HennyPr/ps2_hf2)
 - **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
 
+## chuhaojie/MELD
+- **ID**: hf_ds_69b169093bb915e5a938f797
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/chuhaojie/MELD](https://huggingface.co/datasets/chuhaojie/MELD)
+- **Tags**: region:us
+
 ## Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12
 - **ID**: hf_ds_69b3d79d63e7af41d98f1fd5
 - **Source**: HuggingFace Datasets

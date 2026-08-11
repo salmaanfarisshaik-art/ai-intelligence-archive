@@ -1832,6 +1832,10 @@
 - **ID**: model_kosbu_llama_3_3_70b_instruct_awq
 - **Source**: 
 
+## KyleHessling1/Qwopus3.6-27B-Fusion-GGUF
+- **ID**: model_kylehessling1_qwopus3_6_27b_fusion_gguf
+- **Source**: 
+
 ## KyleHessling1/Qwopus-GLM-18B-Merged-GGUF
 - **ID**: model_kylehessling1_qwopus_glm_18b_merged_gguf
 - **Source**: 
