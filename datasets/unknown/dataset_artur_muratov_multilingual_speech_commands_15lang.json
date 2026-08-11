@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e38c175c4581649e9018ed3b8c806d5d57b18b19",
   "description": "\n\t\n\t\t\n\t\tMultilingual Speech Commands Dataset (15 Languages, Augmented)\n\t\n\nThis dataset contains augmented speech command samples in 15 languages, derived from multiple public datasets. Only commands that overlap with the Google Speech Commands (GSC) vocabulary are included, making the dataset suitable for multilingual keyword spotting tasks aligned with GSC-style classification.\nAudio samples have been augmented using standard audio techniques to improve model robustness (e.g., time-shifting… See the full description on the dataset page: https://huggingface.co/datasets/artur-muratov/multilingual-speech-commands-15lang.",
-  "downloads": 645046,
+  "downloads": 604938,
   "tags": [
     "language:en",
     "language:ru",

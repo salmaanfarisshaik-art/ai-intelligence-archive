@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5b6260bc6fe2f90cb857befca73ac9916399da5a",
   "description": "\n\t\n\t\t\n\t\t🔥 VoiceAssistant-Eval: Benchmarking AI Assistants across Listening, Speaking, and Viewing\n\t\n\n \n \n \n \n\n\n\n\n\n\n\n[🌐 Homepage] \n[🔮 Visualization]\n[💻 Github] \n[📖 Paper]\n[📊 Leaderboard ] \n[📊 Detailed Leaderboard ] \n[📊 Roleplay Leaderboard ] \n\n\n\n\n\n\t\n\t\t\n\t\t🚀 Data Usage\n\t\n\nfrom datasets import load_dataset\n\nfor split in ['listening_general', 'listening_music', 'listening_sound', 'listening_speech', \n'speaking_assistant', 'speaking_emotion', 'speaking_instruction_following'… See the full description on the dataset page: https://huggingface.co/datasets/MathLLMs/VoiceAssistant-Eval.",
-  "downloads": 33455,
+  "downloads": 33152,
   "tags": [
     "task_categories:question-answering",
     "task_categories:visual-question-answering",

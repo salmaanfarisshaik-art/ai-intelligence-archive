@@ -13332,6 +13332,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_kylehessling1_qwopus3_6_27b_fusion_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_largitdata_gemma_4_26b_a4b_it_fp8",
       "match_type": "exact",
       "score": 3.0
@@ -21036,6 +21041,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_optimalscale_climbmix",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_pawlo2013_stanfordonlineproducts",
       "match_type": "exact",
       "score": 1.0
@@ -21346,6 +21356,11 @@
     },
     {
       "entity_id": "alpaca_-4881836521349421712",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_adyen_dabstep",
       "match_type": "exact",
       "score": 1.0
     },
@@ -51508,6 +51523,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nvidia_helpsteer2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_open_index_hacker_news",
       "match_type": "exact",
       "score": 1.0
@@ -56521,6 +56541,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0_parquet",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_helpsteer2",
       "match_type": "exact",
       "score": 1.0
     },
@@ -66029,6 +66054,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nvidia_helpsteer2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_rexx_new_computer_use_large",
       "match_type": "exact",
       "score": 1.0
@@ -70303,6 +70333,11 @@
       "entity_id": "dataset_svfsearch_svfsearchdata",
       "match_type": "exact",
       "score": 4.5
+    },
+    {
+      "entity_id": "dataset_adyen_dabstep",
+      "match_type": "exact",
+      "score": 4.0
     },
     {
       "entity_id": "dataset_agents_last_exam_agents_last_exam_data",
@@ -78129,6 +78164,11 @@
     },
     {
       "entity_id": "dataset_kcimc_nuforc",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_helpsteer2",
       "match_type": "exact",
       "score": 1.0
     },
@@ -91262,6 +91302,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_optimalscale_climbmix",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_salesforce_giftevalpretrain",
       "match_type": "exact",
       "score": 1.0
@@ -92040,6 +92085,11 @@
     }
   ],
   "binding": [
+    {
+      "entity_id": "dataset_sandboxaq_sair",
+      "match_type": "exact",
+      "score": 3.5
+    },
     {
       "entity_id": "arxiv_2607.15265v1",
       "match_type": "exact",
@@ -93135,6 +93185,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_sandboxaq_sair",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_shengyouduan_swarmevo",
       "match_type": "exact",
       "score": 1.5
@@ -93324,6 +93379,11 @@
   ],
   "biomedical": [
     {
+      "entity_id": "dataset_junma_cvpr_biomedsegfm",
+      "match_type": "exact",
+      "score": 5.5
+    },
+    {
       "entity_id": "arxiv_2604.08552v2",
       "match_type": "exact",
       "score": 2.0
@@ -93362,6 +93422,13 @@
       "entity_id": "dataset_kmin06_cvpr26_3dctfmcompetition",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "biomedsegfm": [
+    {
+      "entity_id": "dataset_junma_cvpr_biomedsegfm",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "biomes": [
@@ -103327,6 +103394,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_luobots_bluemo",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/blue-j",
       "match_type": "exact",
       "score": 2.0
@@ -104261,6 +104333,13 @@
       "entity_id": "alpaca_-8309709451196706026",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "bluemo": [
+    {
+      "entity_id": "dataset_luobots_bluemo",
+      "match_type": "exact",
+      "score": 4.0
     }
   ],
   "blueprint": [
@@ -110803,6 +110882,11 @@
     },
     {
       "entity_id": "arxiv_2606.18142v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_luobots_bluemo",
       "match_type": "exact",
       "score": 2.0
     },
@@ -137028,6 +137112,11 @@
       "entity_id": "arxiv_2608.06362v1",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_optimalscale_climbmix",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "budgetary": [
@@ -156233,6 +156322,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_nvidia_helpsteer2",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_nvidia_openmathinstruct_2",
       "match_type": "exact",
       "score": 2.5
@@ -159913,6 +160007,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_adyen_dabstep",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_agents_last_exam_agents_last_exam_data",
       "match_type": "exact",
       "score": 1.5
@@ -160433,6 +160532,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_junma_cvpr_biomedsegfm",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_khtao_openmind",
       "match_type": "exact",
       "score": 1.5
@@ -160794,6 +160898,11 @@
     },
     {
       "entity_id": "dataset_salt_research_deepdialogue_orpheus",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_sandboxaq_sair",
       "match_type": "exact",
       "score": 1.5
     },
@@ -171769,6 +171878,11 @@
     },
     {
       "entity_id": "dataset_opengvlab_mvbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_optimalscale_climbmix",
       "match_type": "exact",
       "score": 1.0
     },

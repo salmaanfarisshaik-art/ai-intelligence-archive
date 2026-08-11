@@ -1,0 +1,31 @@
+{
+  "_id": "6801fa1b577c06abc1b26914",
+  "id": "OptimalScale/ClimbMix",
+  "author": "OptimalScale",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-04T03:49:11.000Z",
+  "likes": 34,
+  "private": false,
+  "sha": "6d467b96d8f26cbe7465e2d70e36191aa75867ac",
+  "description": "ClimbMix is a high-quality pre-training corpus released by NVIDIA. Here is the description:\n\nClimbMix is a compact yet powerful 400-billion-token dataset designed for efficient pre-training that delivers superior performance under an equal token budget.  It was introduced in this paper.\nWe proposed a new algorithm to filter and mix the dataset. First, we grouped the data into 1,000 groups based on topic information. Then we applied two classifiers: one to detect advertisements and another to… See the full description on the dataset page: https://huggingface.co/datasets/OptimalScale/ClimbMix.",
+  "downloads": 31760,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:100M<n<1B",
+    "format:json",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "arxiv:2504.13161",
+    "region:us"
+  ],
+  "createdAt": "2025-04-18T07:07:07.000Z",
+  "key": "",
+  "unique_id": "dataset_optimalscale_climbmix",
+  "schema_version": "1.0"
+}
