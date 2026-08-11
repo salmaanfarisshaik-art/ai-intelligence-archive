@@ -980,6 +980,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05018v2](http://arxiv.org/abs/2608.05018v2)
 
+## 
+- **ID**: arxiv_2608.05018v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05018v2](http://arxiv.org/abs/2608.05018v2)
+
 ## Item Response Theory for AI Safety
 - **ID**: arxiv_2608.05086v1
 - **Source**: ArXiv
@@ -1185,7 +1190,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09861v1](http://arxiv.org/abs/2608.09861v1)
 
+## 
+- **ID**: arxiv_2608.09861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09861v1](http://arxiv.org/abs/2608.09861v1)
+
 ## ArchAgent v2: A Case Study with the Data Prefetching Championship
+- **ID**: arxiv_2608.09874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09874v1](http://arxiv.org/abs/2608.09874v1)
+
+## 
 - **ID**: arxiv_2608.09874v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09874v1](http://arxiv.org/abs/2608.09874v1)
@@ -1195,12 +1210,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09885v1](http://arxiv.org/abs/2608.09885v1)
 
+## 
+- **ID**: arxiv_2608.09885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09885v1](http://arxiv.org/abs/2608.09885v1)
+
 ## DSLE: A Learning Environment for Dark Souls Boss Encounters
 - **ID**: arxiv_2608.09902v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09902v1](http://arxiv.org/abs/2608.09902v1)
 
+## 
+- **ID**: arxiv_2608.09902v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09902v1](http://arxiv.org/abs/2608.09902v1)
+
 ## GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis
+- **ID**: arxiv_2608.09921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)
+
+## 
 - **ID**: arxiv_2608.09921v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)

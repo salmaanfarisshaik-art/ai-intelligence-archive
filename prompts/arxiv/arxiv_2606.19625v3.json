@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19625v3",
+  "schema_version": "1.0",
+  "technique_name": "Capability Provenance in Language Models: A Case Study in Social Reasoning",
+  "description": "We use training-data attribution as an interpretable tool for capability discovery, mapping which regions of the pretraining corpus support social-reasoning versus STEM-reasoning in OLMo3-7B. Training-data attribution measures how strongly each training document influences a model's predictions on a benchmark, but document-level scores are too noisy to identify which corpus regions support which capabilities. We compute gradient-based attribution (TrackStar via Bergson) over a working set drawn ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2606.19625v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19625v3",
+    "updated": "2026-08-10T17:32:45Z",
+    "published": "2026-06-17T22:06:19Z",
+    "title": "Capability Provenance in Language Models: A Case Study in Social Reasoning",
+    "summary": "We use training-data attribution as an interpretable tool for capability discovery, mapping which regions of the pretraining corpus support social-reasoning versus STEM-reasoning in OLMo3-7B. Training-data attribution measures how strongly each training document influences a model's predictions on a benchmark, but document-level scores are too noisy to identify which corpus regions support which capabilities. We compute gradient-based attribution (TrackStar via Bergson) over a working set drawn from the de-duplicated Dolma3 mix, aggregate influence across WebOrganizer's 24-format x 24-topic taxonomy (576 bins), and contrast benchmark pairs in a 2x2 design that varies domain (social vs. STEM) and capability type (reasoning vs. knowledge): SocialIQA and MMLU Social Sciences against ARC-Challenge and MMLU STEM. Social and STEM reasoning draw on qualitatively distinct corpus regions, and the contrast is sharper at the reasoning level than at the knowledge level. Targeted machine unlearning provides partial causal validation: forgetting high-attribution topics (e.g., Literature for SocialIQA) degrades the aligned benchmark more than within-topic random baselines. We validate on other open-data model, Comma v0.1 7B-2T (Common Pile) and DCLM-Baseline-7B (DataComp-LM): causal selectivity holds on both models, while the provenance map is ecosystem-specific. We open-source all code, data artifacts, influence scores, and checkpoints at https://github.com/eilab-gt/capabilibara and https://huggingface.co/HCAI-Lab.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-11T22:40:53Z",
+  "last_updated": "2026-08-10T17:32:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19625v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

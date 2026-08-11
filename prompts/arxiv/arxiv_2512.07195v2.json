@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.07195v2",
+  "schema_version": "1.0",
+  "technique_name": "Multilingual Agent-Based World Modeling for Social Science",
+  "description": "Multi-agent role-playing has recently shown promise for studying social behavior with language agents, but existing simulations are mostly monolingual without cross-lingual interaction, an essential property of real societies. We introduce MAWM, the first Multilingual Agent-based World Modeling framework that supports multi-turn multilingual interactions among generative agents with diverse sociolinguistic profiles. MAWM enables two modes of analysis: (i) global public opinion modeling, which tr",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2512.07195v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.07195v2",
+    "updated": "2026-08-10T17:59:12Z",
+    "published": "2025-12-08T06:12:48Z",
+    "title": "Multilingual Agent-Based World Modeling for Social Science",
+    "summary": "Multi-agent role-playing has recently shown promise for studying social behavior with language agents, but existing simulations are mostly monolingual without cross-lingual interaction, an essential property of real societies. We introduce MAWM, the first Multilingual Agent-based World Modeling framework that supports multi-turn multilingual interactions among generative agents with diverse sociolinguistic profiles. MAWM enables two modes of analysis: (i) global public opinion modeling, which tracks how attitudes toward open-domain survey questions evolve across languages and cultures, and (ii) media influence and information diffusion, via autonomous news agents that dynamically generate content and shape user behavior. To ground the simulation in realistic population distributions, we construct the MAPS benchmark, which combines survey questions and demographic personas drawn from global population distributions. Experiments on simulation alignment, along with social science case studies on cultural assimilation and normative diffusion, show that native-language simulation better reflects real survey data than English-only simulation, and that the agent society in MAWM reproduces established sociocultural phenomena and highlights the value of multilingual simulation as an alternative interpretable tool for computational social science.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-11T22:40:53Z",
+  "last_updated": "2026-08-10T17:59:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.07195v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

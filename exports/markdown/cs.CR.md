@@ -130,7 +130,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09867v1](http://arxiv.org/abs/2608.09867v1)
 
+## 
+- **ID**: arxiv_2608.09867v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09867v1](http://arxiv.org/abs/2608.09867v1)
+
 ## Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation
+- **ID**: arxiv_2608.09914v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09914v1](http://arxiv.org/abs/2608.09914v1)
+
+## 
 - **ID**: arxiv_2608.09914v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09914v1](http://arxiv.org/abs/2608.09914v1)

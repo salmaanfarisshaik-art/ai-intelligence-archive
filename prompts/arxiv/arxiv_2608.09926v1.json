@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.09926v1",
+  "schema_version": "1.0",
+  "technique_name": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+  "description": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render visually plausible frames but may not accurately obey the laws. To capture the dynamics purely from pixels, we introduce Latent Dynamics Reasoning (LDR). LDR casts the latent transition as an explicit kinematic integration, where the lower-order dynamics are integrated numerically and the model regr",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.09926v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.09926v1",
+    "updated": "2026-08-10T17:59:19Z",
+    "published": "2026-08-10T17:59:19Z",
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "summary": "The world evolves following its dynamics, i.e., its laws of motion. However, leading video diffusion models largely fit the pixels without modeling how the pixels transit over time. Thus, they render visually plausible frames but may not accurately obey the laws. To capture the dynamics purely from pixels, we introduce Latent Dynamics Reasoning (LDR). LDR casts the latent transition as an explicit kinematic integration, where the lower-order dynamics are integrated numerically and the model regresses only the third- and higher-order residual that drives the rollout. For this integration to extrapolate better, LDR runs it on a structured latent rather than dense convolutional features. Following PhyWorld, we validate LDR on a controlled white-box physics benchmark spanning five tasks (uniform motion, parabola, collision, bouncing, looming), focusing on out-of-distribution scenarios that reveal whether a model has truly learned the underlying dynamics. LDR extrapolates the learned dynamics far better: the gap between its in- and out-of-distribution error is over 20$\\times$ smaller than the video diffusion baseline's, under both single- and joint-task training at 256$^2$ resolution, while using 26$\\times$ fewer parameters and running 143$\\times$ faster. LDR can even generalize under severe shift: for example, trained only on red balls moving left-to-right, it correctly predicts the motion of a blue square moving right-to-left. To our knowledge, this is the first video world model that extrapolates learned dynamics beyond its training distribution. Project page: https://lat-dyn-reason.github.io/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-11T22:40:53Z",
+  "last_updated": "2026-08-10T17:59:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.09926v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

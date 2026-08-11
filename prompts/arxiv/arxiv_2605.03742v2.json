@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.03742v2",
+  "schema_version": "1.0",
+  "technique_name": "Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus",
+  "description": "We release the Tajik Web Corpus (319k docs, 1.11B chars) and benchmark generative LLMs on prompt continuation in Tajik, a low-resource Cyrillic-script language. Seventeen configurations across nine architectures are evaluated under three fine-tuning strategies: full fine-tuning, LoRA, and QLoRA (ranks 8 and 16). Because perplexity is not directly comparable across model families with different tokenizers, generation quality is assessed through perplexity interpreted within each family, complemen",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2605.03742v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.03742v2",
+    "updated": "2026-08-10T17:28:04Z",
+    "published": "2026-05-05T13:28:31Z",
+    "title": "Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus",
+    "summary": "We release the Tajik Web Corpus (319k docs, 1.11B chars) and benchmark generative LLMs on prompt continuation in Tajik, a low-resource Cyrillic-script language. Seventeen configurations across nine architectures are evaluated under three fine-tuning strategies: full fine-tuning, LoRA, and QLoRA (ranks 8 and 16). Because perplexity is not directly comparable across model families with different tokenizers, generation quality is assessed through perplexity interpreted within each family, complemented by qualitative analysis performed by a native Tajik speaker. Computational cost is measured via GPU memory and training time. The best quality-cost trade-off is achieved by Mistral 7B with QLoRA rank 8: perplexity 5.11 (within its tokenizer family), coherent Tajik output confirmed by the native speaker, 14.21 GB GPU memory, and approximately 33 minutes of training. Increasing the rank to 16 yields a negligible improvement for Mistral (perplexity 5.03, pairwise p > 0.05) while consuming about 1 GB more memory. Full fine-tuning of small GPT-2 models obtains lower numeric perplexity but leads to catastrophic forgetting (English or gibberish output); in contrast, QLoRA preserves multilingual pretrained knowledge and generates meaningful Tajik text. Encoder-only models perform worst (perplexity approximately 59), confirming their unsuitability for autoregressive generation. To our knowledge, this is the first systematic PEFT benchmark for Tajik text generation. Practical recommendations include using Mistral 7B with QLoRA r=8, avoiding full fine-tuning of small GPT-2 models, and adopting the released corpus and benchmark.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-11T22:40:53Z",
+  "last_updated": "2026-08-10T17:28:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.03742v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.01312v6](http://arxiv.org/abs/2508.01312v6)
 
+## 
+- **ID**: arxiv_2508.01312v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.01312v6](http://arxiv.org/abs/2508.01312v6)
+
 ## Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization
 - **ID**: arxiv_2508.11183v2
 - **Source**: ArXiv
@@ -106,6 +111,11 @@
 - **URL**: [http://arxiv.org/abs/2509.25699v4](http://arxiv.org/abs/2509.25699v4)
 
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
+- **ID**: arxiv_2510.16598v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.16598v2](http://arxiv.org/abs/2510.16598v2)
+
+## 
 - **ID**: arxiv_2510.16598v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.16598v2](http://arxiv.org/abs/2510.16598v2)
@@ -1920,7 +1930,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09873v1](http://arxiv.org/abs/2608.09873v1)
 
+## 
+- **ID**: arxiv_2608.09873v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09873v1](http://arxiv.org/abs/2608.09873v1)
+
 ## Financial Numerical Prediction and Allocation as Token Generation
+- **ID**: arxiv_2608.09880v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09880v1](http://arxiv.org/abs/2608.09880v1)
+
+## 
 - **ID**: arxiv_2608.09880v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09880v1](http://arxiv.org/abs/2608.09880v1)
@@ -1930,7 +1950,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09887v1](http://arxiv.org/abs/2608.09887v1)
 
+## 
+- **ID**: arxiv_2608.09887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09887v1](http://arxiv.org/abs/2608.09887v1)
+
 ## DistMoE: Private-data Rehearsal-free Routing in Mixture-of-Experts for Distributed Instruction Tuning
+- **ID**: arxiv_2608.09907v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09907v1](http://arxiv.org/abs/2608.09907v1)
+
+## 
 - **ID**: arxiv_2608.09907v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09907v1](http://arxiv.org/abs/2608.09907v1)
@@ -1940,7 +1970,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09908v1](http://arxiv.org/abs/2608.09908v1)
 
+## 
+- **ID**: arxiv_2608.09908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09908v1](http://arxiv.org/abs/2608.09908v1)
+
 ## Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning
+- **ID**: arxiv_2608.09926v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09926v1](http://arxiv.org/abs/2608.09926v1)
+
+## 
 - **ID**: arxiv_2608.09926v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09926v1](http://arxiv.org/abs/2608.09926v1)
@@ -1950,7 +1990,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09928v1](http://arxiv.org/abs/2608.09928v1)
 
+## 
+- **ID**: arxiv_2608.09928v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09928v1](http://arxiv.org/abs/2608.09928v1)
+
 ## Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots
+- **ID**: arxiv_2608.09931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
+
+## 
 - **ID**: arxiv_2608.09931v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)

@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.10810v3](http://arxiv.org/abs/2507.10810v3)
 
+## 
+- **ID**: arxiv_2507.10810v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.10810v3](http://arxiv.org/abs/2507.10810v3)
+
 ## PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment
 - **ID**: arxiv_2508.05132v3
 - **Source**: ArXiv
@@ -81,6 +86,11 @@
 - **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
 
 ## Multilingual Agent-Based World Modeling for Social Science
+- **ID**: arxiv_2512.07195v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.07195v2](http://arxiv.org/abs/2512.07195v2)
+
+## 
 - **ID**: arxiv_2512.07195v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.07195v2](http://arxiv.org/abs/2512.07195v2)
@@ -206,6 +216,11 @@
 - **URL**: [http://arxiv.org/abs/2605.02608v2](http://arxiv.org/abs/2605.02608v2)
 
 ## Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus
+- **ID**: arxiv_2605.03742v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03742v2](http://arxiv.org/abs/2605.03742v2)
+
+## 
 - **ID**: arxiv_2605.03742v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.03742v2](http://arxiv.org/abs/2605.03742v2)
@@ -506,6 +521,11 @@
 - **URL**: [http://arxiv.org/abs/2606.19336v1](http://arxiv.org/abs/2606.19336v1)
 
 ## Capability Provenance in Language Models: A Case Study in Social Reasoning
+- **ID**: arxiv_2606.19625v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19625v3](http://arxiv.org/abs/2606.19625v3)
+
+## 
 - **ID**: arxiv_2606.19625v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19625v3](http://arxiv.org/abs/2606.19625v3)
@@ -1200,7 +1220,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09893v1](http://arxiv.org/abs/2608.09893v1)
 
+## 
+- **ID**: arxiv_2608.09893v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09893v1](http://arxiv.org/abs/2608.09893v1)
+
 ## Consilience for Verifier-Free Test-Time Scaling
+- **ID**: arxiv_2608.09898v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09898v1](http://arxiv.org/abs/2608.09898v1)
+
+## 
 - **ID**: arxiv_2608.09898v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09898v1](http://arxiv.org/abs/2608.09898v1)
@@ -1210,7 +1240,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09900v1](http://arxiv.org/abs/2608.09900v1)
 
+## 
+- **ID**: arxiv_2608.09900v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09900v1](http://arxiv.org/abs/2608.09900v1)
+
 ## From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch
+- **ID**: arxiv_2608.09925v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09925v1](http://arxiv.org/abs/2608.09925v1)
+
+## 
 - **ID**: arxiv_2608.09925v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09925v1](http://arxiv.org/abs/2608.09925v1)
