@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2025-10-15T17:36:02.000Z",
-  "likes": 29,
+  "likes": 30,
   "private": false,
   "sha": "ed33e1ff29ee709f667532ba39c6760d562ca3bf",
   "description": "\n\t\n\t\t\n\t\tAmnesty QA Dataset\n\t\n\nA grounded question-answering dataset for evaluating RAG (Retrieval-Augmented Generation) systems, created from reports collected from Amnesty International.\nThis dataset is designed for testing and evaluating RAG pipelines with real-world human rights content.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nEach sample contains:\n\nuser_input: The question to be answered\nreference: Ground truth answer for evaluation\nresponse: Generated answer from the system\nretrieved_contexts: List… See the full description on the dataset page: https://huggingface.co/datasets/vibrantlabsai/amnesty_qa.",
