@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86888
+**Total Entities Tracked**: 86938
 
 ## Category Distribution
 
@@ -12,19 +12,19 @@
 - **news**: 1146
 - **dataset**: 1140
 - **text-generation**: 1003
-- **cs.CV**: 409
-- **cs.CL**: 260
-- **cs.AI**: 250
-- **cs.LG**: 143
+- **cs.CV**: 422
+- **cs.CL**: 273
+- **cs.AI**: 256
+- **cs.LG**: 149
 - **tool**: 48
-- **cs.RO**: 44
-- **cs.CR**: 30
+- **cs.RO**: 47
+- **cs.CR**: 32
 - **cs.SE**: 27
-- **cs.SD**: 19
-- **cs.CY**: 16
+- **cs.SD**: 20
+- **cs.CY**: 17
 - **API**: 15
 - **cs.IR**: 15
-- **cs.HC**: 11
+- **cs.HC**: 12
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -34,23 +34,24 @@
 - **Tool**: 10
 - **cs.GT**: 9
 - **stat.ML**: 8
+- **eess.AS**: 7
 - **quant-ph**: 7
 - **IDE Rule**: 6
 - **cs.DB**: 6
-- **eess.AS**: 6
 - **Benchmark**: 5
 - **cs.MA**: 5
 - **AI News**: 4
 - **eess.IV**: 4
 - **eess.SY**: 4
+- **math.OC**: 4
 - **cs.AR**: 3
 - **cs.DL**: 3
 - **cs.IT**: 3
 - **cs.NI**: 3
 - **feature-extraction**: 3
-- **math.OC**: 3
 - **stat.ME**: 3
 - **cond-mat.mtrl-sci**: 2
+- **cs.CC**: 2
 - **cs.MM**: 2
 - **cs.NE**: 2
 - **cs.PL**: 2
@@ -58,12 +59,12 @@
 - **physics.soc-ph**: 2
 - **text-ranking**: 2
 - **astro-ph.EP**: 1
-- **cs.CC**: 1
 - **cs.DC**: 1
 - **cs.GR**: 1
 - **cs.LO**: 1
 - **cs.OS**: 1
 - **cs.SI**: 1
+- **econ.TH**: 1
 - **hep-th**: 1
 - **physics.acc-ph**: 1
 - **physics.flu-dyn**: 1
@@ -80,7 +81,7 @@
 - **Stanford Alpaca**: 52000
 - ****: 30126
 - **Hugging Face**: 2010
-- **ArXiv**: 1318
+- **ArXiv**: 1368
 - **OpenAI Blog**: 1132
 - **HuggingFace Datasets**: 140
 - **GitHub Trending**: 48

@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.02024v4](http://arxiv.org/abs/2505.02024v4)
 
+## On The Statistical Limits of Self-Improving Agents
+- **ID**: arxiv_2510.04399v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.04399v3](http://arxiv.org/abs/2510.04399v3)
+
 ## 
 - **ID**: arxiv_2510.04399v3
 - **Source**: ArXiv
@@ -90,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27618v2](http://arxiv.org/abs/2604.27618v2)
 
+## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
+- **ID**: arxiv_2605.06772v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06772v2](http://arxiv.org/abs/2605.06772v2)
+
 ## A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters
 - **ID**: arxiv_2605.14667v2
 - **Source**: ArXiv
@@ -99,6 +109,11 @@
 - **ID**: arxiv_2605.18661v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.18661v2](http://arxiv.org/abs/2605.18661v2)
+
+## A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
+- **ID**: arxiv_2605.20173v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20173v2](http://arxiv.org/abs/2605.20173v2)
 
 ## Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems
 - **ID**: arxiv_2605.27628v2
@@ -1165,6 +1180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07440v1](http://arxiv.org/abs/2608.07440v1)
 
+## Blast Radius
+- **ID**: arxiv_2608.07440v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07440v2](http://arxiv.org/abs/2608.07440v2)
+
 ## 
 - **ID**: arxiv_2608.07440v2
 - **Source**: ArXiv
@@ -1244,6 +1264,16 @@
 - **ID**: arxiv_2608.09921v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)
+
+## sLTN: Structural Logic Tensor Networks
+- **ID**: arxiv_2608.11136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11136v1](http://arxiv.org/abs/2608.11136v1)
+
+## Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration
+- **ID**: arxiv_2608.11195v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11195v1](http://arxiv.org/abs/2608.11195v1)
 
 ## 
 - **ID**: arxiv_2608.11195v1

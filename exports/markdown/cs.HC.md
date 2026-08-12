@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.10300v2](http://arxiv.org/abs/2505.10300v2)
 
+## Selective Prediction Reduces the Negative Effects of Automation Bias Overall but Increases False Negatives
+- **ID**: arxiv_2508.07617v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.07617v2](http://arxiv.org/abs/2508.07617v2)
+
 ## Generative AI in Action: Field Experimental Evidence from Alibaba's Customer Service Operations
 - **ID**: arxiv_2603.29888v2
 - **Source**: ArXiv

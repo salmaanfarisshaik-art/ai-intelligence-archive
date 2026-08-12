@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11146v1",
+  "schema_version": "1.0",
+  "name": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11146v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11146v1",
+    "updated": "2026-08-11T17:05:26Z",
+    "published": "2026-08-11T17:05:26Z",
+    "title": "The Illusion of Cross-Lingual Safety in Low-Resource Languages",
+    "summary": "Safety alignment in large language models (LLMs) is largely developed in English, assuming these safeguards generalize across multilingual settings. However, this assumption remains underexplored and exposes a vulnerability in low-resource languages. We investigate cross-lingual safety transfer in four African languages, Twi, Hausa, Amharic, and Swahili, using LoDNA, a new safety dataset that pairs literal translations with culturally localized prompts. To move beyond generation-based evaluation, we propose a latent geometric framework that probes hidden-state refusal representations in LLMs. Our experimental results show that cross-lingual safety transfer is severely limited; harmful prompts retain less than 10% of the English refusal signal across most language-model pairs. Literal and localized prompts are semantically aligned (cosine 0.95-0.996) but drift across layers, suggesting models encode the concepts without routing them to safety mechanisms. These findings demonstrate that current multilingual safety alignment is superficial, providing strong evidence against the assumption of a universal, language-agnostic harm manifold within the specific low-resource languages studied. Warning: This paper contains example data that may be offensive or harmful.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-12T06:12:30Z",
+  "last_updated": "2026-08-11T17:05:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11146v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

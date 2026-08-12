@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11205v1",
+  "schema_version": "1.0",
+  "name": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11205v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11205v1",
+    "updated": "2026-08-11T17:59:56Z",
+    "published": "2026-08-11T17:59:56Z",
+    "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+    "summary": "Fréchet distance has recently emerged as an effective distribution-level objective for generator post-training, complementing the conventional sample-level diffusion and flow-matching losses. However, directly optimizing Fréchet objectives can cause Fréchet hacking. The target metrics keep improving, but visual quality and Fréchet alignment in other feature spaces may stagnate or deteriorate. We attribute this failure to the static pretrained feature spaces used by existing Fréchet losses. These feature spaces provide incomplete and fixed views of the differences between real and generated distributions. To address this limitation, we propose Adversarial Fréchet Distance (AdvFD), which complements the static representation targets in FD-Loss with a calibrated adversarially learned representation. AdvFD augments the original static Fréchet objective with a learnable representation that adversarially maximizes the Fréchet discrepancy between real and generated samples, while the generator minimizes the same discrepancy in the resulting adaptive feature space. To prevent the adversarial representation from trivially increasing the objective through feature amplification, we further introduce real-feature whitening, which normalizes its scale and covariance geometry and stabilizes the min--max optimization. Extensive experiments show that AdvFD consistently improves one-step generator post-training across both JiT and pMF backbones and across different model scales.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-12T06:12:30Z",
+  "last_updated": "2026-08-11T17:59:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11205v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

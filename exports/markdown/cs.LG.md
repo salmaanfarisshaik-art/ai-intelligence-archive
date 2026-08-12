@@ -135,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21335v3](http://arxiv.org/abs/2604.21335v3)
 
+## Progressive Semantic Communication for Efficient Edge-Cloud Vision-Language Models
+- **ID**: arxiv_2604.26508v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.26508v2](http://arxiv.org/abs/2604.26508v2)
+
 ## Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound
 - **ID**: arxiv_2605.02942v3
 - **Source**: ArXiv
@@ -330,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
 
+## Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
+- **ID**: arxiv_2607.03798v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.03798v4](http://arxiv.org/abs/2607.03798v4)
+
 ## 
 - **ID**: arxiv_2607.03798v4
 - **Source**: ArXiv
@@ -474,6 +484,11 @@
 - **ID**: arxiv_2607.19333v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19333v1](http://arxiv.org/abs/2607.19333v1)
+
+## Native Multi-Dimensional Subquadratic Operators via Input Dependent Long Convolutions
+- **ID**: arxiv_2607.19378v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19378v3](http://arxiv.org/abs/2607.19378v3)
 
 ## The Blessing of Dimensionality: How Near-Orthogonality in High-Dimensional Spaces Explains Temporal Portability
 - **ID**: arxiv_2607.20301v1
@@ -690,6 +705,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07430v1](http://arxiv.org/abs/2608.07430v1)
 
+## Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation
+- **ID**: arxiv_2608.09385v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09385v2](http://arxiv.org/abs/2608.09385v2)
+
 ## Parameter Exploration for RLVR via Variational Learning
 - **ID**: arxiv_2608.09805v1
 - **Source**: ArXiv
@@ -709,6 +729,16 @@
 - **ID**: arxiv_2608.09828v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09828v1](http://arxiv.org/abs/2608.09828v1)
+
+## Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting
+- **ID**: arxiv_2608.11114v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11114v1](http://arxiv.org/abs/2608.11114v1)
+
+## Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders
+- **ID**: arxiv_2608.11197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11197v1](http://arxiv.org/abs/2608.11197v1)
 
 ## 
 - **ID**: arxiv_2608.11197v1

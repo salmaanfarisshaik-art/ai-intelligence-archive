@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.03798v4",
+  "schema_version": "1.0",
+  "name": "Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.03798v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.03798v4",
+    "updated": "2026-08-11T17:48:50Z",
+    "published": "2026-07-04T09:59:11Z",
+    "title": "Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks",
+    "summary": "Symmetry is everywhere in nature and society. Geometric deep learning builds architectures respecting group symmetries, whereas topological deep learning organizes computation through cells, incidence relations, and local-to-global structure. In this paper, we extend geometric deep learning beyond simple group actions and unify it with topological deep learning. Specifically, we develop order-equivariant neural networks (OENN), which generalize standard graph message passing and sheaf neural networks via the theory of equivariant vector bundles over face posets (or face categories). We (i) characterize all linear order-equivariant maps, (ii) build OENN layers, and (iii) prove universal approximation theorems (UATs) for continuous order-equivariant maps, which are new results even when restricted to sheaf neural networks. We illustrate the framework on graph and sheaf models. Our results can also be seen as extending the known UAT for graph neural networks to a more general setting that subsumes sheaf neural networks as well. In the appendix, we show that OENN can be connected, via the action groupoid Grothendieck construction, to CENN (category-equivariant neural network), which gives the categorical general form of equivariant neural networks, allowing us to leverage categorical symmetry in data and extending geometric deep learning from groups of symmetries to categories of transformations.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-12T06:12:30Z",
+  "last_updated": "2026-08-11T17:48:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.03798v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

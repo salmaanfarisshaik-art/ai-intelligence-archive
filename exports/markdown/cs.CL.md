@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.09373v2](http://arxiv.org/abs/2602.09373v2)
 
+## LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations
+- **ID**: arxiv_2602.09924v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.09924v4](http://arxiv.org/abs/2602.09924v4)
+
 ## 
 - **ID**: arxiv_2602.09924v4
 - **Source**: ArXiv
@@ -200,6 +205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.18307v2](http://arxiv.org/abs/2604.18307v2)
 
+## HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces
+- **ID**: arxiv_2604.19001v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.19001v2](http://arxiv.org/abs/2604.19001v2)
+
 ## 
 - **ID**: arxiv_2604.19001v2
 - **Source**: ArXiv
@@ -215,6 +225,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21370v2](http://arxiv.org/abs/2604.21370v2)
 
+## Multimodal QUD: Inquisitive Questions from Scientific Figures
+- **ID**: arxiv_2604.23733v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23733v2](http://arxiv.org/abs/2604.23733v2)
+
+## Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens
+- **ID**: arxiv_2604.26355v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.26355v5](http://arxiv.org/abs/2604.26355v5)
+
 ## 
 - **ID**: arxiv_2604.26355v5
 - **Source**: ArXiv
@@ -229,6 +249,11 @@
 - **ID**: arxiv_2605.02608v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02608v2](http://arxiv.org/abs/2605.02608v2)
+
+## FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents
+- **ID**: arxiv_2605.02815v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02815v2](http://arxiv.org/abs/2605.02815v2)
 
 ## 
 - **ID**: arxiv_2605.02815v2
@@ -565,6 +590,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20527v1](http://arxiv.org/abs/2606.20527v1)
 
+## Forecasting With LLMs: Improved Generalization Through Feature Steering
+- **ID**: arxiv_2606.27199v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27199v2](http://arxiv.org/abs/2606.27199v2)
+
 ## 
 - **ID**: arxiv_2606.27199v2
 - **Source**: ArXiv
@@ -629,6 +659,11 @@
 - **ID**: arxiv_2607.13162v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13162v3](http://arxiv.org/abs/2607.13162v3)
+
+## Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference
+- **ID**: arxiv_2607.13205v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13205v2](http://arxiv.org/abs/2607.13205v2)
 
 ## Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents
 - **ID**: arxiv_2607.15095v2
@@ -1230,6 +1265,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07460v1](http://arxiv.org/abs/2608.07460v1)
 
+## OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories
+- **ID**: arxiv_2608.08557v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08557v2](http://arxiv.org/abs/2608.08557v2)
+
 ## 
 - **ID**: arxiv_2608.08557v2
 - **Source**: ArXiv
@@ -1285,15 +1325,40 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09925v1](http://arxiv.org/abs/2608.09925v1)
 
-## 
+## Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents
+- **ID**: arxiv_2608.11110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11110v1](http://arxiv.org/abs/2608.11110v1)
+
+## Attention-Path Fragility as an Uncertainty Signal in Large Language Models
+- **ID**: arxiv_2608.11138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11138v1](http://arxiv.org/abs/2608.11138v1)
+
+## The Illusion of Cross-Lingual Safety in Low-Resource Languages
 - **ID**: arxiv_2608.11146v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11146v1](http://arxiv.org/abs/2608.11146v1)
 
 ## 
+- **ID**: arxiv_2608.11146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11146v1](http://arxiv.org/abs/2608.11146v1)
+
+## From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop
 - **ID**: arxiv_2608.11171v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11171v1](http://arxiv.org/abs/2608.11171v1)
+
+## 
+- **ID**: arxiv_2608.11171v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11171v1](http://arxiv.org/abs/2608.11171v1)
+
+## ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls
+- **ID**: arxiv_2608.11200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
 
 ## 
 - **ID**: arxiv_2608.11200v1

@@ -1,5 +1,10 @@
 # Eess.As Export
 
+## HyWA: Architecture-Preserving Personalized Voice Activity Detection for Full-Duplex Voice Assistants
+- **ID**: arxiv_2510.12947v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.12947v3](http://arxiv.org/abs/2510.12947v3)
+
 ## 
 - **ID**: arxiv_2510.12947v3
 - **Source**: ArXiv

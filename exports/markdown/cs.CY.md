@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13187v5](http://arxiv.org/abs/2508.13187v5)
 
+## Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education
+- **ID**: arxiv_2605.15850v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15850v3](http://arxiv.org/abs/2605.15850v3)
+
 ## 
 - **ID**: arxiv_2605.15850v3
 - **Source**: ArXiv

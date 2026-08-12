@@ -285,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.05971v2](http://arxiv.org/abs/2604.05971v2)
 
+## PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos
+- **ID**: arxiv_2604.08991v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08991v3](http://arxiv.org/abs/2604.08991v3)
+
 ## Real-Time Human Reconstruction and Animation using Feed-Forward Gaussian Splatting
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
@@ -294,6 +299,11 @@
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
+## MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation
+- **ID**: arxiv_2604.23789v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23789v3](http://arxiv.org/abs/2604.23789v3)
 
 ## 
 - **ID**: arxiv_2604.23789v3
@@ -824,6 +834,11 @@
 - **ID**: arxiv_2607.15278v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15278v1](http://arxiv.org/abs/2607.15278v1)
+
+## Multimodal Ambivalence and Hesitancy Recognition via Cross-Attention and Gated Fusion
+- **ID**: arxiv_2607.15779v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15779v2](http://arxiv.org/abs/2607.15779v2)
 
 ## Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach
 - **ID**: arxiv_2607.16056v1
@@ -2010,35 +2025,85 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
 
+## AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations
+- **ID**: arxiv_2608.11123v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11123v1](http://arxiv.org/abs/2608.11123v1)
+
+## Is There Really a Camouflaged Object? Towards Realistic Camouflaged Object Detection
+- **ID**: arxiv_2608.11135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11135v1](http://arxiv.org/abs/2608.11135v1)
+
+## SAR2Agri: Learning SAR Intensity Representations for Agricultural Monitoring
+- **ID**: arxiv_2608.11142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11142v1](http://arxiv.org/abs/2608.11142v1)
+
+## PRMU: A Corpus-Free Benchmark for Person-Centric Knowledge Unlearning in Multimodal Large Language Models
+- **ID**: arxiv_2608.11149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11149v1](http://arxiv.org/abs/2608.11149v1)
+
 ## 
 - **ID**: arxiv_2608.11149v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11149v1](http://arxiv.org/abs/2608.11149v1)
+
+## CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting
+- **ID**: arxiv_2608.11150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11150v1](http://arxiv.org/abs/2608.11150v1)
 
 ## 
 - **ID**: arxiv_2608.11150v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11150v1](http://arxiv.org/abs/2608.11150v1)
 
+## MultiModal Code-Switching: Interleaving Visual Objects into Language for Explicit Object-Level Alignment
+- **ID**: arxiv_2608.11167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11167v1](http://arxiv.org/abs/2608.11167v1)
+
 ## 
 - **ID**: arxiv_2608.11167v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11167v1](http://arxiv.org/abs/2608.11167v1)
+
+## Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation
+- **ID**: arxiv_2608.11191v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11191v1](http://arxiv.org/abs/2608.11191v1)
 
 ## 
 - **ID**: arxiv_2608.11191v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11191v1](http://arxiv.org/abs/2608.11191v1)
 
-## 
+## VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics
 - **ID**: arxiv_2608.11201v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11201v1](http://arxiv.org/abs/2608.11201v1)
 
 ## 
+- **ID**: arxiv_2608.11201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11201v1](http://arxiv.org/abs/2608.11201v1)
+
+## Capturing Uncertainty in Human Motion for Representation Learning in Soccer
 - **ID**: arxiv_2608.11203v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11203v1](http://arxiv.org/abs/2608.11203v1)
+
+## 
+- **ID**: arxiv_2608.11203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11203v1](http://arxiv.org/abs/2608.11203v1)
+
+## AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss
+- **ID**: arxiv_2608.11205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11205v1](http://arxiv.org/abs/2608.11205v1)
 
 ## 
 - **ID**: arxiv_2608.11205v1

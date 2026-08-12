@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27109v1](http://arxiv.org/abs/2607.27109v1)
 
+## dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model
+- **ID**: arxiv_2608.02673v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02673v2](http://arxiv.org/abs/2608.02673v2)
+
 ## 
 - **ID**: arxiv_2608.02673v2
 - **Source**: ArXiv

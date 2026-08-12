@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14211v3](http://arxiv.org/abs/2602.14211v3)
 
+## Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks
+- **ID**: arxiv_2604.01039v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01039v3](http://arxiv.org/abs/2604.01039v3)
+
 ## 
 - **ID**: arxiv_2604.01039v3
 - **Source**: ArXiv
@@ -129,6 +134,11 @@
 - **ID**: arxiv_2608.05063v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05063v1](http://arxiv.org/abs/2608.05063v1)
+
+## Policy-Masked Private Experts: Auditable and Reversible Capability Access Control in Sparse MoE Models
+- **ID**: arxiv_2608.06690v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06690v2](http://arxiv.org/abs/2608.06690v2)
 
 ## Stealing Reasoning Traces from Proprietary LLM APIs
 - **ID**: arxiv_2608.09867v1

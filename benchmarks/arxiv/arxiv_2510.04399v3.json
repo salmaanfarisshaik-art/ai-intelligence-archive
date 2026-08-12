@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.04399v3",
+  "schema_version": "1.0",
+  "name": "On The Statistical Limits of Self-Improving Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.04399v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.04399v3",
+    "updated": "2026-08-11T17:14:39Z",
+    "published": "2025-10-05T23:52:16Z",
+    "title": "On The Statistical Limits of Self-Improving Agents",
+    "summary": "We develop a learning-theoretic framework for analyzing self-improving agents by decomposing self-modification into five axes. Within this framework, we prove a sharp boundary: under standard i.i.d. assumptions, distribution-free PAC learnability is preserved if and only if the policy-reachable family remains uniformly capacity-bounded. If reachable capacity can grow without bound, utility-rational self-changes can make learnable tasks unlearnable. We further introduce a simple Two-Gate guardrail -- a validation-improvement requirement plus a capacity cap -- that preserves this boundary and yields standard VC-rate guarantees. The broader implication is that self-modification must be constrained not only by objectives, but also by structural conditions that preserve the statistical prerequisites for learning. As AI systems become increasingly intelligent and autonomous, this framework provides a foundation for the statistical theory of self-improvement.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-12T06:12:30Z",
+  "last_updated": "2026-08-11T17:14:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.04399v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

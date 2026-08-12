@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.08991v3",
+  "schema_version": "1.0",
+  "name": "PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.08991v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.08991v3",
+    "updated": "2026-08-11T16:31:16Z",
+    "published": "2026-04-10T05:53:47Z",
+    "title": "PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos",
+    "summary": "Reliable embodied interaction in indoor environments requires agents to precisely localize small everyday objects from visual observations. Yet this fundamental capability remains challenging for multimodal large language models (MLLMs), particularly when spatial understanding must be performed from indoor videos. Existing benchmarks study video spatial intelligence and embodied reasoning, but do not directly evaluate whether a model can localize a small target object and express its position with sufficient precision. We introduce PinpointQA, a benchmark built from ScanNet++ and ScanNet200. It contains 1,024 scenes and 10,094 QA pairs across four progressively challenging tasks: Target Presence Verification, Nearest Reference Identification, Fine-Grained Spatial Description, and Structured Spatial Prediction. Ground-truth annotations are constructed from intermediate spatial representations derived from aligned 3D geometry and instance-level annotations, while evaluated models receive only sampled RGB video frames. Evaluations of representative MLLMs reveal a consistent performance decline across the task progression, with structured spatial prediction remaining particularly challenging, while supervised fine-tuning substantially improves performance. By isolating the spatial grounding capabilities that precede downstream embodied interaction, PinpointQA serves as both a diagnostic benchmark and an effective training resource. The project page is available at https://rainchowz.github.io/PinpointQA/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-12T06:12:30Z",
+  "last_updated": "2026-08-11T16:31:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.08991v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

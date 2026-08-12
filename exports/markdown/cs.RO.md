@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.16947v2](http://arxiv.org/abs/2508.16947v2)
 
+## Diffusion-Based Impedance Learning for Contact-Rich Manipulation Tasks
+- **ID**: arxiv_2509.19696v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.19696v4](http://arxiv.org/abs/2509.19696v4)
+
 ## OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation
 - **ID**: arxiv_2601.12291v2
 - **Source**: ArXiv
@@ -190,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02578v1](http://arxiv.org/abs/2608.02578v1)
 
+## SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning
+- **ID**: arxiv_2608.09138v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09138v2](http://arxiv.org/abs/2608.09138v2)
+
 ## 
 - **ID**: arxiv_2608.09138v2
 - **Source**: ArXiv
@@ -214,6 +224,11 @@
 - **ID**: arxiv_2608.09876v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09876v1](http://arxiv.org/abs/2608.09876v1)
+
+## Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning
+- **ID**: arxiv_2608.11204v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11204v1](http://arxiv.org/abs/2608.11204v1)
 
 ## 
 - **ID**: arxiv_2608.11204v1
