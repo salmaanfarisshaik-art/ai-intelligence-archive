@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21547v1) | ArXiv |  | 1 |
@@ -20,11 +21,13 @@
 | [](http://arxiv.org/abs/2608.06351v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06361v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06366v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.07440v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09861v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09874v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09885v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09902v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09921v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.11195v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |
 | [A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](http://arxiv.org/abs/2607.25947v1) | ArXiv |  | 1 |

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11197v1",
+  "schema_version": "1.0",
+  "technique_name": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+  "description": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measure is meaningful: SAE latent sets can recover union-like compositional structure in controlled toy mo",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.11197v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11197v1",
+    "updated": "2026-08-11T17:55:59Z",
+    "published": "2026-08-11T17:55:59Z",
+    "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
+    "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model representations. We revisit their approach using overlap over active sparse autoencoder (SAE) latent sets as a more interpretable similarity measure. We first verify that this set-level measure is meaningful: SAE latent sets can recover union-like compositional structure in controlled toy models and induce semantically coherent neighborhoods in natural text. Extending the human-concepts analysis to SAE set similarities, we find that SAE activation sets do not recover human category boundaries or within-category typicality more faithfully than dense embeddings or residual-stream states, but instead track model-internal similarity structure. To probe this gap further, we study active latent sets under well-controlled semantic modifications, revealing a substantial mismatch between human judgements of conceptual change and change in the SAE active set. We interpret this as evidence that, outside idealised settings, SAE features do not compose via simple bag-of-features semantics.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-12T04:07:24Z",
+  "last_updated": "2026-08-11T17:55:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11197v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

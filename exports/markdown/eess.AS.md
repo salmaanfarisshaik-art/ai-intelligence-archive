@@ -1,5 +1,10 @@
 # Eess.As Export
 
+## 
+- **ID**: arxiv_2510.12947v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.12947v3](http://arxiv.org/abs/2510.12947v3)
+
 ## The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs
 - **ID**: arxiv_2603.16941v2
 - **Source**: ArXiv

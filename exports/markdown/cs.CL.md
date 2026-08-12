@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.09373v2](http://arxiv.org/abs/2602.09373v2)
 
+## 
+- **ID**: arxiv_2602.09924v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.09924v4](http://arxiv.org/abs/2602.09924v4)
+
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
 - **Source**: ArXiv
@@ -195,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.18307v2](http://arxiv.org/abs/2604.18307v2)
 
+## 
+- **ID**: arxiv_2604.19001v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.19001v2](http://arxiv.org/abs/2604.19001v2)
+
 ## GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons
 - **ID**: arxiv_2604.21133v2
 - **Source**: ArXiv
@@ -205,6 +215,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21370v2](http://arxiv.org/abs/2604.21370v2)
 
+## 
+- **ID**: arxiv_2604.26355v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.26355v5](http://arxiv.org/abs/2604.26355v5)
+
 ## When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models
 - **ID**: arxiv_2605.00817v4
 - **Source**: ArXiv
@@ -214,6 +229,11 @@
 - **ID**: arxiv_2605.02608v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02608v2](http://arxiv.org/abs/2605.02608v2)
+
+## 
+- **ID**: arxiv_2605.02815v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02815v2](http://arxiv.org/abs/2605.02815v2)
 
 ## Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus
 - **ID**: arxiv_2605.03742v2
@@ -544,6 +564,11 @@
 - **ID**: arxiv_2606.20527v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20527v1](http://arxiv.org/abs/2606.20527v1)
+
+## 
+- **ID**: arxiv_2606.27199v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27199v2](http://arxiv.org/abs/2606.27199v2)
 
 ## CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield
 - **ID**: arxiv_2606.31796v2
@@ -1205,6 +1230,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07460v1](http://arxiv.org/abs/2608.07460v1)
 
+## 
+- **ID**: arxiv_2608.08557v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08557v2](http://arxiv.org/abs/2608.08557v2)
+
 ## SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring
 - **ID**: arxiv_2608.09802v1
 - **Source**: ArXiv
@@ -1254,4 +1284,19 @@
 - **ID**: arxiv_2608.09925v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09925v1](http://arxiv.org/abs/2608.09925v1)
+
+## 
+- **ID**: arxiv_2608.11146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11146v1](http://arxiv.org/abs/2608.11146v1)
+
+## 
+- **ID**: arxiv_2608.11171v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11171v1](http://arxiv.org/abs/2608.11171v1)
+
+## 
+- **ID**: arxiv_2608.11200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.09924v4",
+  "schema_version": "1.0",
+  "technique_name": "LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations",
+  "description": "Running LLMs with extended reasoning on every problem is expensive, but determining which inputs actually require additional compute remains challenging. We investigate whether their own likelihood of success is recoverable from their internal representations before generation, and if this signal can guide more efficient inference. We train linear probes on pre-generation activations to predict policy-specific success on math and coding tasks, substantially outperforming surface features such as",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2602.09924v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.09924v4",
+    "updated": "2026-08-11T17:36:11Z",
+    "published": "2026-02-10T15:57:00Z",
+    "title": "LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations",
+    "summary": "Running LLMs with extended reasoning on every problem is expensive, but determining which inputs actually require additional compute remains challenging. We investigate whether their own likelihood of success is recoverable from their internal representations before generation, and if this signal can guide more efficient inference. We train linear probes on pre-generation activations to predict policy-specific success on math and coding tasks, substantially outperforming surface features such as question length and TF-IDF. Using E2H-AMC, which provides both human and model performance on identical problems, we show that models encode a model-specific notion of difficulty that is distinct from human difficulty, and that this distinction increases with extended reasoning. Leveraging these probes, we demonstrate that routing queries across a pool of models can exceed the best-performing model whilst reducing inference cost by up to 70\\% on MATH, showing that internal representations enable practical efficiency gains even when they diverge from human intuitions about difficulty. Our code is available at: https://github.com/KabakaWilliam/llms_know_difficulty",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-12T04:07:24Z",
+  "last_updated": "2026-08-11T17:36:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.09924v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

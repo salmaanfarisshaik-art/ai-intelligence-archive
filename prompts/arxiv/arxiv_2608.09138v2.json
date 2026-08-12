@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.09138v2",
+  "schema_version": "1.0",
+  "technique_name": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning",
+  "description": "While learned robotic policies hold promise for advancing generalizable manipulation, their practical deployment is often hindered by suboptimal execution speeds. Imitation learning policies are inherently limited by hardware constraints and the speed of the operator during data collection. In addition, there are no established methods for accelerating policies learned via imitation, and the empirical relationship between execution speed and task success remains underexplored. To address these i",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.09138v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.09138v2",
+    "updated": "2026-08-11T17:14:09Z",
+    "published": "2026-08-10T05:31:41Z",
+    "title": "SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning",
+    "summary": "While learned robotic policies hold promise for advancing generalizable manipulation, their practical deployment is often hindered by suboptimal execution speeds. Imitation learning policies are inherently limited by hardware constraints and the speed of the operator during data collection. In addition, there are no established methods for accelerating policies learned via imitation, and the empirical relationship between execution speed and task success remains underexplored. To address these issues, we introduce SpeedTuning, a reinforcement learning framework specifically designed to enhance the speed of manipulation policies. SpeedTuning learns to predict the optimal execution speed for actions, thereby complementing a base policy without necessitating additional data collection. We provide empirical evidence that SpeedTuning achieves substantial improvements in execution speed, exceeding 2.4x speed-up, while preserving an adequate success rate compared to both the original task policy and straightforward speed-up methods such as linear interpolation at a fixed speed. We evaluate our approach across a diverse set of dynamic and precise tasks, including pouring, throwing, and picking, demonstrating its effectiveness and robustness in enhancing real-world robotic manipulation. Videos and code are available at https://daivdyuan.github.io/speed-tuning/",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-12T04:07:24Z",
+  "last_updated": "2026-08-11T17:14:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.09138v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

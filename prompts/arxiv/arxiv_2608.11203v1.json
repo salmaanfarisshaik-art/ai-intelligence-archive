@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11203v1",
+  "schema_version": "1.0",
+  "technique_name": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+  "description": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since human motion is inherently uncertain, accounting for multiple plausible futures is essential for capturing the underlying motion dynamics and learning effective representations. To this end, we introduce a conditioning module for motion prediction that models a probabilistic distribution over discretize",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.11203v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11203v1",
+    "updated": "2026-08-11T17:59:10Z",
+    "published": "2026-08-11T17:59:10Z",
+    "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+    "summary": "This paper presents a self-supervised representation learning framework for understanding 3D skeleton-based human motion in soccer, using future motion prediction as the learning objective. Since human motion is inherently uncertain, accounting for multiple plausible futures is essential for capturing the underlying motion dynamics and learning effective representations. To this end, we introduce a conditioning module for motion prediction that models a probabilistic distribution over discretized future motions in 3D Euclidean space, learning multimodality with explicit supervision from future trajectories. Experiments on large-scale soccer player tracking data show that our approach substantially improves motion prediction accuracy. Moreover, the learned representations effectively transfer to multiple soccer downstream applications, demonstrating strong cross-task generalization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-12T04:07:24Z",
+  "last_updated": "2026-08-11T17:59:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11203v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

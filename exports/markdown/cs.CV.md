@@ -295,6 +295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
 
+## 
+- **ID**: arxiv_2604.23789v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23789v3](http://arxiv.org/abs/2604.23789v3)
+
 ## SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging
 - **ID**: arxiv_2605.00887v2
 - **Source**: ArXiv
@@ -2004,4 +2009,39 @@
 - **ID**: arxiv_2608.09931v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
+
+## 
+- **ID**: arxiv_2608.11149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11149v1](http://arxiv.org/abs/2608.11149v1)
+
+## 
+- **ID**: arxiv_2608.11150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11150v1](http://arxiv.org/abs/2608.11150v1)
+
+## 
+- **ID**: arxiv_2608.11167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11167v1](http://arxiv.org/abs/2608.11167v1)
+
+## 
+- **ID**: arxiv_2608.11191v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11191v1](http://arxiv.org/abs/2608.11191v1)
+
+## 
+- **ID**: arxiv_2608.11201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11201v1](http://arxiv.org/abs/2608.11201v1)
+
+## 
+- **ID**: arxiv_2608.11203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11203v1](http://arxiv.org/abs/2608.11203v1)
+
+## 
+- **ID**: arxiv_2608.11205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11205v1](http://arxiv.org/abs/2608.11205v1)
 

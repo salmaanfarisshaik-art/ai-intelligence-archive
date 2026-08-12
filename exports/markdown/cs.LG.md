@@ -330,6 +330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
 
+## 
+- **ID**: arxiv_2607.03798v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.03798v4](http://arxiv.org/abs/2607.03798v4)
+
 ## The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG
 - **ID**: arxiv_2607.11950v2
 - **Source**: ArXiv
@@ -704,4 +709,9 @@
 - **ID**: arxiv_2608.09828v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09828v1](http://arxiv.org/abs/2608.09828v1)
+
+## 
+- **ID**: arxiv_2608.11197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11197v1](http://arxiv.org/abs/2608.11197v1)
 

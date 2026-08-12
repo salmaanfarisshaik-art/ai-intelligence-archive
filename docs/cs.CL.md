@@ -8,8 +8,13 @@
 | [](http://arxiv.org/abs/2507.10810v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2512.07195v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2604.26355v5) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2605.02815v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2605.03742v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2606.19625v3) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2606.27199v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.00848v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
@@ -21,10 +26,14 @@
 | [](http://arxiv.org/abs/2608.06347v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06370v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06377v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.08557v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09893v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09898v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09900v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09925v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.11146v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.11171v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.11200v1) | ArXiv |  | 1 |
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |

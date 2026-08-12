@@ -190,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02578v1](http://arxiv.org/abs/2608.02578v1)
 
+## 
+- **ID**: arxiv_2608.09138v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09138v2](http://arxiv.org/abs/2608.09138v2)
+
 ## RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance
 - **ID**: arxiv_2608.09853v1
 - **Source**: ArXiv
@@ -209,4 +214,9 @@
 - **ID**: arxiv_2608.09876v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09876v1](http://arxiv.org/abs/2608.09876v1)
+
+## 
+- **ID**: arxiv_2608.11204v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11204v1](http://arxiv.org/abs/2608.11204v1)
 

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13187v5](http://arxiv.org/abs/2508.13187v5)
 
+## 
+- **ID**: arxiv_2605.15850v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15850v3](http://arxiv.org/abs/2605.15850v3)
+
 ## Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents
 - **ID**: arxiv_2605.16281v3
 - **Source**: ArXiv

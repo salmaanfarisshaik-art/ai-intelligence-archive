@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.02024v4](http://arxiv.org/abs/2505.02024v4)
 
+## 
+- **ID**: arxiv_2510.04399v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.04399v3](http://arxiv.org/abs/2510.04399v3)
+
 ## Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties
 - **ID**: arxiv_2510.19299v2
 - **Source**: ArXiv
@@ -1160,6 +1165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07440v1](http://arxiv.org/abs/2608.07440v1)
 
+## 
+- **ID**: arxiv_2608.07440v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07440v2](http://arxiv.org/abs/2608.07440v2)
+
 ## SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent
 - **ID**: arxiv_2608.07449v1
 - **Source**: ArXiv
@@ -1234,4 +1244,9 @@
 - **ID**: arxiv_2608.09921v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)
+
+## 
+- **ID**: arxiv_2608.11195v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11195v1](http://arxiv.org/abs/2608.11195v1)
 
