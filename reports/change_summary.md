@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 65
+**Total Changes:** 62
 
 ## Added
 None
@@ -15,9 +15,6 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -44,6 +41,7 @@ None
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -65,7 +63,6 @@ None
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
-- tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
