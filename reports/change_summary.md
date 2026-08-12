@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 64
+**Total Changes:** 75
 
 ## Added
 None
@@ -12,12 +12,18 @@ None
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/mlfoundations/hf_ds_66708709d5c5d8fd8db3a5cf.json
+- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -44,6 +50,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -52,14 +59,18 @@ None
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
+- tools/github-trending/gh_575340621.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
+- tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_730534580.json
