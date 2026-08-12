@@ -812,7 +812,7 @@
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
-- **Tags**: license:cc0-1.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## tencent/Hy-Embodied-0.5-VLA-Data
 - **ID**: hf_ds_6a2a5f5f2ef38e1f849a8ebf
@@ -842,7 +842,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
 ## HuggingFaceCode/stack-v3-train
 - **ID**: hf_ds_6a615c95fb10b1093e0ea9ed
