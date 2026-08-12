@@ -86,6 +86,21 @@
 - **URL**: [https://openai.com/academy/chatgpt-sites](https://openai.com/academy/chatgpt-sites)
 
 ## 
+- **ID**: rss_https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex](https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex)
+
+## 
+- **ID**: rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex](https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex)
+
+## 
+- **ID**: rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex](https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex)
+
+## 
 - **ID**: rss_https://openai.com/academy/codex-automations
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/academy/codex-automations](https://openai.com/academy/codex-automations)
@@ -4739,6 +4754,11 @@
 - **ID**: rss_https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai)
+
+## 
+- **ID**: rss_https://openai.com/index/ringcentral
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/ringcentral](https://openai.com/index/ringcentral)
 
 ## 
 - **ID**: rss_https://openai.com/index/rl2

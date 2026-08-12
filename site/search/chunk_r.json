@@ -19754,6 +19754,11 @@
   ],
   "readouts": [
     {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -22044,6 +22049,21 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/applications-of-ai",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
@@ -124984,6 +125004,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -135592,6 +135617,13 @@
       "entity_id": "alpaca_8077552536588611751",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "ringcentral": [
+    {
+      "entity_id": "rss_https://openai.com/index/ringcentral",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "ringing": [
@@ -151275,6 +151307,11 @@
     },
     {
       "entity_id": "dataset_wendlerc_renderedtext",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
