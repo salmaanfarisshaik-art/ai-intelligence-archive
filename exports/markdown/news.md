@@ -2621,6 +2621,11 @@
 - **URL**: [https://openai.com/index/how-countries-can-end-the-capability-overhang](https://openai.com/index/how-countries-can-end-the-capability-overhang)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-enterprises-put-ai-to-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-enterprises-put-ai-to-work](https://openai.com/index/how-enterprises-put-ai-to-work)
+
+## 
 - **ID**: rss_https://openai.com/index/how-news-organizations-are-using-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/how-news-organizations-are-using-ai](https://openai.com/index/how-news-organizations-are-using-ai)
