@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## 3D Scene Generation: A Survey
+- **ID**: arxiv_2505.05474v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.05474v2](http://arxiv.org/abs/2505.05474v2)
+
 ## 
 - **ID**: arxiv_2505.05474v2
 - **Source**: ArXiv
@@ -29,6 +34,11 @@
 - **ID**: arxiv_2505.17674v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.17674v3](http://arxiv.org/abs/2505.17674v3)
+
+## COLORA: Efficient Fine-Tuning for Convolutional Models with a Study Case on Optical Coherence Tomography Image Classification
+- **ID**: arxiv_2505.18315v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.18315v3](http://arxiv.org/abs/2505.18315v3)
 
 ## 
 - **ID**: arxiv_2505.18315v3
@@ -235,6 +245,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.10880v2](http://arxiv.org/abs/2602.10880v2)
 
+## ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization
+- **ID**: arxiv_2602.14098v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14098v2](http://arxiv.org/abs/2602.14098v2)
+
 ## 
 - **ID**: arxiv_2602.14098v2
 - **Source**: ArXiv
@@ -349,6 +364,11 @@
 - **ID**: arxiv_2605.30116v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30116v2](http://arxiv.org/abs/2605.30116v2)
+
+## Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association
+- **ID**: arxiv_2606.02022v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.02022v2](http://arxiv.org/abs/2606.02022v2)
 
 ## Spatially Grounded Concept Bottleneck Models via Part-Factorized Attention
 - **ID**: arxiv_2606.04364v3
@@ -754,6 +774,11 @@
 - **ID**: arxiv_2606.20563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20563v1](http://arxiv.org/abs/2606.20563v1)
+
+## SCoPE: Sightline-Coordinate Positional Encoding for Video Diffusion Transformers
+- **ID**: arxiv_2606.27345v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27345v3](http://arxiv.org/abs/2606.27345v3)
 
 ## 
 - **ID**: arxiv_2606.27345v3
@@ -1655,6 +1680,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29684v1](http://arxiv.org/abs/2607.29684v1)
 
+## Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving
+- **ID**: arxiv_2608.00237v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00237v2](http://arxiv.org/abs/2608.00237v2)
+
 ## 
 - **ID**: arxiv_2608.00237v2
 - **Source**: ArXiv
@@ -2050,6 +2080,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
 
+## Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization
+- **ID**: arxiv_2608.10798v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10798v2](http://arxiv.org/abs/2608.10798v2)
+
 ## 
 - **ID**: arxiv_2608.10798v2
 - **Source**: ArXiv
@@ -2140,50 +2175,130 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11205v1](http://arxiv.org/abs/2608.11205v1)
 
+## GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors
+- **ID**: arxiv_2608.12203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12203v1](http://arxiv.org/abs/2608.12203v1)
+
+## Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction
+- **ID**: arxiv_2608.12209v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12209v1](http://arxiv.org/abs/2608.12209v1)
+
+## SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward
+- **ID**: arxiv_2608.12220v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12220v1](http://arxiv.org/abs/2608.12220v1)
+
+## Few-Shot Ordinal Learning for Day-Wise Freshness Estimation with Hyperspectral Fish Images
+- **ID**: arxiv_2608.12230v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12230v1](http://arxiv.org/abs/2608.12230v1)
+
+## ScaleVid: Geometry-Aware Video Object Scaling with Mesh-Free Inference
+- **ID**: arxiv_2608.12232v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12232v1](http://arxiv.org/abs/2608.12232v1)
+
+## HAMP-LIC: Hessian-Aware Mixed-Precision Post-Training Quantization for Learned Image Compression
+- **ID**: arxiv_2608.12239v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12239v1](http://arxiv.org/abs/2608.12239v1)
+
+## Automated Borehole Core Analysis with Report-Derived Weak Labels and Supervised Crack Segmentation
+- **ID**: arxiv_2608.12252v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12252v1](http://arxiv.org/abs/2608.12252v1)
+
 ## 
 - **ID**: arxiv_2608.12252v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12252v1](http://arxiv.org/abs/2608.12252v1)
+
+## Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams
+- **ID**: arxiv_2608.12262v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12262v1](http://arxiv.org/abs/2608.12262v1)
 
 ## 
 - **ID**: arxiv_2608.12262v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12262v1](http://arxiv.org/abs/2608.12262v1)
 
+## A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery
+- **ID**: arxiv_2608.12274v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12274v1](http://arxiv.org/abs/2608.12274v1)
+
 ## 
 - **ID**: arxiv_2608.12274v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12274v1](http://arxiv.org/abs/2608.12274v1)
+
+## XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling
+- **ID**: arxiv_2608.12276v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12276v1](http://arxiv.org/abs/2608.12276v1)
 
 ## 
 - **ID**: arxiv_2608.12276v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12276v1](http://arxiv.org/abs/2608.12276v1)
 
+## Curvature-Aware Zeroth-Order Optimization for Memory-Efficient Test-Time Adaptation
+- **ID**: arxiv_2608.12279v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12279v1](http://arxiv.org/abs/2608.12279v1)
+
 ## 
 - **ID**: arxiv_2608.12279v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12279v1](http://arxiv.org/abs/2608.12279v1)
+
+## Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence
+- **ID**: arxiv_2608.12290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12290v1](http://arxiv.org/abs/2608.12290v1)
 
 ## 
 - **ID**: arxiv_2608.12290v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12290v1](http://arxiv.org/abs/2608.12290v1)
 
+## Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations
+- **ID**: arxiv_2608.12299v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12299v1](http://arxiv.org/abs/2608.12299v1)
+
 ## 
 - **ID**: arxiv_2608.12299v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12299v1](http://arxiv.org/abs/2608.12299v1)
+
+## DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation
+- **ID**: arxiv_2608.12308v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12308v1](http://arxiv.org/abs/2608.12308v1)
 
 ## 
 - **ID**: arxiv_2608.12308v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12308v1](http://arxiv.org/abs/2608.12308v1)
 
+## AVA-Encoder: Towards Agent-Native Video Representation Learning
+- **ID**: arxiv_2608.12313v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12313v1](http://arxiv.org/abs/2608.12313v1)
+
 ## 
 - **ID**: arxiv_2608.12313v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12313v1](http://arxiv.org/abs/2608.12313v1)
+
+## StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization
+- **ID**: arxiv_2608.12314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12314v1](http://arxiv.org/abs/2608.12314v1)
 
 ## 
 - **ID**: arxiv_2608.12314v1

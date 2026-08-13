@@ -15,10 +15,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01039v3](http://arxiv.org/abs/2604.01039v3)
 
+## Enhancing Linux Privilege Escalation Attack Capabilities of Local LLM Agents
+- **ID**: arxiv_2604.27143v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.27143v2](http://arxiv.org/abs/2604.27143v2)
+
 ## Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests
 - **ID**: arxiv_2605.28734v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.28734v2](http://arxiv.org/abs/2605.28734v2)
+
+## memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations
+- **ID**: arxiv_2606.01138v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01138v4](http://arxiv.org/abs/2606.01138v4)
 
 ## From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability
 - **ID**: arxiv_2606.07150v3
@@ -159,6 +169,16 @@
 - **ID**: arxiv_2608.09914v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09914v1](http://arxiv.org/abs/2608.09914v1)
+
+## VICBench: A Multi-Language Benchmark for Code Vulnerability Detection
+- **ID**: arxiv_2608.12246v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12246v1](http://arxiv.org/abs/2608.12246v1)
+
+## Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents
+- **ID**: arxiv_2608.12273v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12273v1](http://arxiv.org/abs/2608.12273v1)
 
 ## 
 - **ID**: arxiv_2608.12273v1

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.07801v2",
+  "schema_version": "1.0",
+  "name": "TEMPER: Testing Emotional Perturbation in Quantitative Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.07801v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.07801v2",
+    "updated": "2026-08-12T15:52:28Z",
+    "published": "2026-04-09T04:52:18Z",
+    "title": "TEMPER: Testing Emotional Perturbation in Quantitative Reasoning",
+    "summary": "Large language models are trained and evaluated on quantitative reasoning tasks written in clean, emotionally neutral language. However, real-world queries are often wrapped in frustration, urgency or enthusiasm. Does emotional framing alone degrade reasoning when all numerical content is preserved? To investigate this, a controlled emotion translation framework is developed that rewrites problems into emotional variants while preserving all quantities and relationships. Using this framework, Temper-5400 (5,400 semantically verified emotion-neutral pairs) is constructed across GSM8K, MultiArith, and ARC-Challenge, and evaluated on eighteen models (1B to frontier scale). Two core results emerge: First, emotional framing reduces accuracy by 2-10 percentage points even though all numerical content is preserved. Second, neutralizing emotional variants recovers most of the lost performance, showing both that the degradation is tied to emotional style rather than content corruption and that neutralization can serve as a lightweight inference-time mitigation. Non-emotional paraphrases cause no such degradation, implicating emotional content rather than surface-level changes. Beyond emotion specifically, the benchmark construction procedure offers a controllable instrument for stylistic translation and robustness evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T15:52:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.07801v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

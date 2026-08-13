@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.02022v2",
+  "schema_version": "1.0",
+  "name": "Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.02022v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.02022v2",
+    "updated": "2026-08-12T16:22:08Z",
+    "published": "2026-06-01T10:11:51Z",
+    "title": "Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association",
+    "summary": "Multi-view object association is an important computer vision problem that underlies many multi-camera perception tasks. While this task is naturally formulated as a constrained one-to-one matching problem, recent works heavily rely on pairwise ranking metrics like AP and FPR-95 for model evaluation. We highlight a fundamental mismatch between these metrics and the actual assignment objective. Theoretically, we show that AP and FPR-95 can be imperfect even when the assignment is already correct, and that Sinkhorn-based normalization can make them perfect. Conversely, optimal pairwise ranking can still lead to incorrect assignments. We validate this mismatch in practice by using our Sinkhorn-based normalization as a controlled post-processing stress test. We show that optimizing just a few post-processing parameters significantly boosts AP and FPR-95 without corresponding improvements in assignment-level metrics such as ACC and IPAA.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T16:22:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.02022v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

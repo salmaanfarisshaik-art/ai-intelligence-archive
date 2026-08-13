@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.09924v4](http://arxiv.org/abs/2602.09924v4)
 
+## Investigating Learner-Aware Design of LLM-Generated Educational Feedback
+- **ID**: arxiv_2602.11650v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.11650v2](http://arxiv.org/abs/2602.11650v2)
+
 ## 
 - **ID**: arxiv_2602.11650v2
 - **Source**: ArXiv
@@ -185,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.22216v2](http://arxiv.org/abs/2603.22216v2)
 
+## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
+- **ID**: arxiv_2604.02512v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.02512v2](http://arxiv.org/abs/2604.02512v2)
+
 ## StoryScope: Investigating idiosyncrasies in AI fiction
 - **ID**: arxiv_2604.03136v5
 - **Source**: ArXiv
@@ -194,6 +204,11 @@
 - **ID**: arxiv_2604.07269v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.07269v2](http://arxiv.org/abs/2604.07269v2)
+
+## TEMPER: Testing Emotional Perturbation in Quantitative Reasoning
+- **ID**: arxiv_2604.07801v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.07801v2](http://arxiv.org/abs/2604.07801v2)
 
 ## ClawBench: Can AI Agents Complete Everyday Online Tasks?
 - **ID**: arxiv_2604.08523v2
@@ -275,6 +290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.03742v2](http://arxiv.org/abs/2605.03742v2)
 
+## Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement
+- **ID**: arxiv_2605.05103v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05103v3](http://arxiv.org/abs/2605.05103v3)
+
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
 - **Source**: ArXiv
@@ -334,6 +354,11 @@
 - **ID**: arxiv_2606.07515v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07515v2](http://arxiv.org/abs/2606.07515v2)
+
+## Self-Harness: Harnesses That Improve Themselves
+- **ID**: arxiv_2606.09498v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09498v2](http://arxiv.org/abs/2606.09498v2)
 
 ## 
 - **ID**: arxiv_2606.09498v2
@@ -609,6 +634,11 @@
 - **ID**: arxiv_2606.27199v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27199v2](http://arxiv.org/abs/2606.27199v2)
+
+## MMLA: How Memory Lets the Past Shape the Future
+- **ID**: arxiv_2606.28876v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.28876v3](http://arxiv.org/abs/2606.28876v3)
 
 ## 
 - **ID**: arxiv_2606.28876v3
@@ -1380,15 +1410,35 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
 
-## 
+## Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge
+- **ID**: arxiv_2608.12218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12218v1](http://arxiv.org/abs/2608.12218v1)
+
+## One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL
 - **ID**: arxiv_2608.12253v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12253v1](http://arxiv.org/abs/2608.12253v1)
 
 ## 
+- **ID**: arxiv_2608.12253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12253v1](http://arxiv.org/abs/2608.12253v1)
+
+## A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement
 - **ID**: arxiv_2608.12269v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12269v1](http://arxiv.org/abs/2608.12269v1)
+
+## 
+- **ID**: arxiv_2608.12269v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12269v1](http://arxiv.org/abs/2608.12269v1)
+
+## Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages
+- **ID**: arxiv_2608.12278v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12278v1](http://arxiv.org/abs/2608.12278v1)
 
 ## 
 - **ID**: arxiv_2608.12278v1

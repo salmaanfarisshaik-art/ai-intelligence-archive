@@ -120,10 +120,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.27628v2](http://arxiv.org/abs/2605.27628v2)
 
+## Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching
+- **ID**: arxiv_2605.29055v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29055v2](http://arxiv.org/abs/2605.29055v2)
+
 ## Planning with the Views via Scene Self-Exploration
 - **ID**: arxiv_2605.29563v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
+
+## Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning
+- **ID**: arxiv_2606.00671v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.00671v3](http://arxiv.org/abs/2606.00671v3)
 
 ## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
 - **ID**: arxiv_2606.07157v4
@@ -1280,15 +1290,30 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11195v1](http://arxiv.org/abs/2608.11195v1)
 
-## 
+## An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS
 - **ID**: arxiv_2608.12249v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12249v1](http://arxiv.org/abs/2608.12249v1)
 
 ## 
+- **ID**: arxiv_2608.12249v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12249v1](http://arxiv.org/abs/2608.12249v1)
+
+## VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies
 - **ID**: arxiv_2608.12282v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12282v1](http://arxiv.org/abs/2608.12282v1)
+
+## 
+- **ID**: arxiv_2608.12282v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12282v1](http://arxiv.org/abs/2608.12282v1)
+
+## Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models
+- **ID**: arxiv_2608.12304v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12304v1](http://arxiv.org/abs/2608.12304v1)
 
 ## 
 - **ID**: arxiv_2608.12304v1

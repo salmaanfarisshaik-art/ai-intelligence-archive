@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.10798v2",
+  "schema_version": "1.0",
+  "name": "Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.10798v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.10798v2",
+    "updated": "2026-08-12T17:35:05Z",
+    "published": "2026-08-11T11:12:24Z",
+    "title": "Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization",
+    "summary": "Most image colorization systems operate in $Lab$ space by predicting chroma ($ab$) while preserving an input-derived luminance channel ($L$). While effective on standard benchmarks, this fixed-luminance design restricts brightness changes and becomes unreliable when grayscale formation deviates from natural-image luminance, as in historical orthochromatic photography. We propose a luminance-agnostic colorization framework that formulates colorization as full-RGB image editing using a foundation image-editing model. To bridge modern panchromatic and historical orthochromatic conditions, we introduce a mixed grayscale objective that trains the model under both standard luminance grayscale and a red-insensitive grayscale formation. Experiments on COCO, ImageNet, and a multi-instance benchmark show that our method is competitive on standard grayscale inputs and substantially more robust under orthochromatic inputs, with qualitative comparisons and a human study indicating fewer visible color artifacts.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T17:35:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.10798v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.12227v1",
+  "schema_version": "1.0",
+  "name": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.12227v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.12227v1",
+    "updated": "2026-08-12T16:25:19Z",
+    "published": "2026-08-12T16:25:19Z",
+    "title": "Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification",
+    "summary": "Hyperspectral imaging (HSI) offers nondestructive assessment of fish freshness by detecting biochemical alterations across spectral bands. However, conventional deep learning approaches do not fully address the particular characteristics of HSI data, such as spectral dominance over spatial textures, ordinal label structure, and a small number of training samples. We propose SGNet (Spectral-Grouped Network), a lightweight architecture that separates spectral and spatial feature extraction using grouped convolutions and a depthwise spatial pathway. A dual attention mechanism that couples channel-wise squeeze-and-excitation with spatial gating adaptively highlights informative features. SGNet achieves 97.8% classification accuracy and 0.64 days mean absolute error (MAE) with just 4.75M parameters when tested on our newly developed 16-day refrigerator-stored salmon fillet dataset. Ablation studies validate the contribution of each component, while comparisons demonstrate a five- to eighteen-fold parameter reduction relative to ResNet-50 and Vision Transformers. Our findings indicate that domain-aware design supports precise, real-time freshness prediction for industrial implementation.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T16:25:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.12227v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

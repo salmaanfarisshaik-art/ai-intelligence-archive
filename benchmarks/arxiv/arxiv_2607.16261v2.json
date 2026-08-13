@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.16261v2",
+  "schema_version": "1.0",
+  "name": "Reducing Per-Sample Interference in Stochastic Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.16261v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.16261v2",
+    "updated": "2026-08-12T16:10:46Z",
+    "published": "2026-06-28T18:01:27Z",
+    "title": "Reducing Per-Sample Interference in Stochastic Optimization",
+    "summary": "Modern optimizers combine gradients from the current mini-batch with historical optimization state, such as momentum or adaptive moments. While effective, this standard practice can produce parameter updates that actively increase the loss of individual samples. We term this phenomenon per-sample interference and propose redefining the parameter update as an optimization problem that explicitly minimizes it.\n  Because the exact formulation of the problem is computationally prohibitive, we introduce a highly efficient surrogate. By reducing the problem's dimensionality to the batch size and restricting the optimization to the last linear layer, we overcome memory and speed bottlenecks. This strategy hinges on our unexpected finding that this layer alone can reliably capture core second-order statistics of the full network. The resulting surrogate problem integrates readily into standard optimizers like SGD and AdamW, and can be solved using a small number of GPU-friendly iterations. Crucially, the method exhibits favorable scaling properties, as the relative computational overhead shrinks as the model size or input grows. Experiments on image classification benchmarks confirm reduced per-sample interference and improved generalization.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T16:10:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.16261v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

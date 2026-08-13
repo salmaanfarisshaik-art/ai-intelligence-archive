@@ -235,3 +235,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11204v1](http://arxiv.org/abs/2608.11204v1)
 
+## Learning-Based Behavior Planning for Automated Driving: Real-World Integration and Deployment
+- **ID**: arxiv_2608.12198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12198v1](http://arxiv.org/abs/2608.12198v1)
+

@@ -3,7 +3,7 @@
   "id": "BAAI/bge-reranker-v2-gemma",
   "likes": 86,
   "private": false,
-  "downloads": 58729,
+  "downloads": 71923,
   "tags": [
     "sentence-transformers",
     "safetensors",
@@ -15,7 +15,8 @@
     "arxiv:2312.15503",
     "arxiv:2402.03216",
     "license:apache-2.0",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-classification",
   "library_name": "sentence-transformers",

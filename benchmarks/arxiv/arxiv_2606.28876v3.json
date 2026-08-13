@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.28876v3",
+  "schema_version": "1.0",
+  "name": "MMLA: How Memory Lets the Past Shape the Future",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.28876v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.28876v3",
+    "updated": "2026-08-12T17:19:42Z",
+    "published": "2026-06-27T11:38:43Z",
+    "title": "MMLA: How Memory Lets the Past Shape the Future",
+    "summary": "Proposal. Long context can replay history, but it does not decide which completed observations deserve authority. MMLA formalizes a bounded resident memory between transient context and slow weight updates. A completed local segment is eventized; for each event, a target-conditioned constructor proposes semantic content and a trusted assembler produces a complete versioned row; deployment either commits that row atomically or returns NULL. Realized futures may price actions during training, while deployment remains causal and future-blind.\n  Validated components. Controlled studies establish narrower ingredients. Lifecycle execution is exact on 300/300 held-out records for each of three seeds. Calibrated selection with full-archive fallback improves over a weak budget-matched dense baseline by 5.5--16.6 F1 and over BM25 by 4.0--6.2 F1 on held-out multi-hop QA; the original Llama budget execution is retained as failed, while the corrected Qwen packer satisfies the stated per-record caps. Typed anchor--filler transport reaches 240/240 held-out exactness per seed while three same-checkpoint controls obtain 0/240 whole-record successes.\n  Current blocker. The integration loop is not complete. Dense-row, structured-span, and checkpoint-native readers trained from V28, the frozen 352.3M-parameter model-only checkpoint produced by a 50.0M-token native-scaffold pilot, all fail semantic qualification across three seeds. Candidate exactness is 0--45/23,040, query exactness is 10--1,536/9,216, and record-macro Brier remains near the 1,025-class uniform reference. Structural mapping passes, but none of the nine jobs qualifies. Predictive overwrite is therefore closed by gate.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T17:19:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.28876v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

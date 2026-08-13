@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
 
+## A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation
+- **ID**: arxiv_2512.06547v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.06547v4](http://arxiv.org/abs/2512.06547v4)
+
 ## 
 - **ID**: arxiv_2512.06547v4
 - **Source**: ArXiv
@@ -394,6 +399,11 @@
 - **ID**: arxiv_2607.16169v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16169v2](http://arxiv.org/abs/2607.16169v2)
+
+## Reducing Per-Sample Interference in Stochastic Optimization
+- **ID**: arxiv_2607.16261v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16261v2](http://arxiv.org/abs/2607.16261v2)
 
 ## Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator
 - **ID**: arxiv_2607.18101v1
@@ -750,10 +760,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11197v1](http://arxiv.org/abs/2608.11197v1)
 
+## Redistribution-based Cost Inference Improves Sparse Safe Offline RL
+- **ID**: arxiv_2608.12306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12306v1](http://arxiv.org/abs/2608.12306v1)
+
 ## 
 - **ID**: arxiv_2608.12306v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12306v1](http://arxiv.org/abs/2608.12306v1)
+
+## AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses
+- **ID**: arxiv_2608.12307v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12307v1](http://arxiv.org/abs/2608.12307v1)
 
 ## 
 - **ID**: arxiv_2608.12307v1

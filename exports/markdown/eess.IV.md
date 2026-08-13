@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27825v2](http://arxiv.org/abs/2607.27825v2)
 
+## Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification
+- **ID**: arxiv_2608.12227v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12227v1](http://arxiv.org/abs/2608.12227v1)
+

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 86973
+**Total Entities Tracked**: 87023
 
 ## Category Distribution
 
@@ -12,13 +12,13 @@
 - **news**: 1151
 - **dataset**: 1140
 - **text-generation**: 1003
-- **cs.CV**: 438
-- **cs.CL**: 279
-- **cs.AI**: 259
-- **cs.LG**: 152
+- **cs.CV**: 461
+- **cs.CL**: 289
+- **cs.AI**: 264
+- **cs.LG**: 156
+- **cs.RO**: 48
 - **tool**: 48
-- **cs.RO**: 47
-- **cs.CR**: 33
+- **cs.CR**: 37
 - **cs.SE**: 27
 - **cs.SD**: 20
 - **cs.CY**: 17
@@ -40,8 +40,8 @@
 - **cs.DB**: 6
 - **Benchmark**: 5
 - **cs.MA**: 5
+- **eess.IV**: 5
 - **AI News**: 4
-- **eess.IV**: 4
 - **eess.SY**: 4
 - **math.OC**: 4
 - **cs.AR**: 3
@@ -57,6 +57,7 @@
 - **cs.PL**: 2
 - **image-text-to-text**: 2
 - **physics.soc-ph**: 2
+- **q-fin.PM**: 2
 - **text-ranking**: 2
 - **astro-ph.EP**: 1
 - **cs.DC**: 1
@@ -64,6 +65,7 @@
 - **cs.LO**: 1
 - **cs.OS**: 1
 - **cs.SI**: 1
+- **econ.GN**: 1
 - **econ.TH**: 1
 - **hep-th**: 1
 - **physics.acc-ph**: 1
@@ -73,7 +75,6 @@
 - **q-bio.GN**: 1
 - **q-bio.NC**: 1
 - **q-bio.QM**: 1
-- **q-fin.PM**: 1
 - **q-fin.RM**: 1
 - **q-fin.TR**: 1
 
@@ -82,7 +83,7 @@
 - **Stanford Alpaca**: 52000
 - ****: 30126
 - **Hugging Face**: 2010
-- **ArXiv**: 1398
+- **ArXiv**: 1448
 - **OpenAI Blog**: 1137
 - **HuggingFace Datasets**: 140
 - **GitHub Trending**: 48

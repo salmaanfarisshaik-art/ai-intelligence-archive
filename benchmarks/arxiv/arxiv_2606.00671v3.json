@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.00671v3",
+  "schema_version": "1.0",
+  "name": "Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.00671v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.00671v3",
+    "updated": "2026-08-12T16:17:45Z",
+    "published": "2026-05-30T10:55:24Z",
+    "title": "Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning",
+    "summary": "We present Moxia (formerly AXIOM), a trust-first neuro-symbolic architecture for self-explaining mathematical reasoning over natural-language input. Its language model is strictly a canonicalizer: it rewrites informal problem text into a narrow schema consumed by a deterministic Computer-Algebra-System (CAS) pipeline, which derives and verifies the answer or abstains as a first-class output. Routing follows a 1:1:1 alignment of problem-shape regex, schema-specific prompt, and closed-form CAS handler, with 4,783 routes shipped, 71% of which answer without invoking the language model, and zero LOST_CORRECT regressions as a standing release gate. Because the answer is derived rather than generated, so is its explanation: every handler emits a step trace of the computation it performed, rendered as prose by a layer covering all 4,785 task files that cannot narrate a step the handler did not take. Derivations export to Lean 4 as well: 479 task files (10%) emit a theorem from the problem's declared data, 445 accepted by the Lean kernel with Mathlib; that gate covers a fixture corpus, so live output is generated, not machine-checked. We report two numbers and never fuse them. On the full 7-category MATH test split, designed against, Moxia answers 90.2% (4,510/5,000) with one confident-wrong answer (99.98% trust on parseable). On held-out MATH-500, never designed against, it answers 89.2% (446/500) with zero confident-wrong answers. The 1.0 pp gap is the substantive result: a registry that had merely memorized problem shapes would collapse on held-out data, and this one does not. The rule-only path answers the 20,000-record lm-eval arithmetic benchmark at 100%, 1 ms per record. What we emphasize is not an accuracy figure but the forward dynamic: every logged abstain is a candidate correct after one ship cycle, since new tasks compose without regressing the registry.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-13T08:19:34Z",
+  "last_updated": "2026-08-12T16:17:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.00671v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
