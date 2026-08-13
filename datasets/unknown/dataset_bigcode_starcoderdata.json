@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": "auto",
   "lastModified": "2023-05-16T10:05:48.000Z",
-  "likes": 531,
+  "likes": 532,
   "private": false,
   "sha": "9fc30b578cedaec69e47302df72cf00feed7c8c4",
   "description": "\n\t\n\t\t\n\t\tStarCoder Training Dataset\n\t\n\n\n\t\n\t\t\n\t\tDataset description\n\t\n\nThis is the dataset used for training StarCoder and StarCoderBase. It contains 783GB of code in 86 programming languages, and includes 54GB GitHub Issues + 13GB Jupyter notebooks in scripts and text-code pairs,\nand 32GB of GitHub commits, which is approximately 250 Billion tokens.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset creation\n\t\n\nThe creation and filtering of The Stack is explained in the original dataset, we additionally decontaminate and… See the full description on the dataset page: https://huggingface.co/datasets/bigcode/starcoderdata.",
