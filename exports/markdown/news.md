@@ -1321,6 +1321,11 @@
 - **URL**: [https://openai.com/index/dai-nippon-printing](https://openai.com/index/dai-nippon-printing)
 
 ## 
+- **ID**: rss_https://openai.com/index/dali-rajic-chief-revenue-officer
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/dali-rajic-chief-revenue-officer](https://openai.com/index/dali-rajic-chief-revenue-officer)
+
+## 
 - **ID**: rss_https://openai.com/index/dall-e
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/dall-e](https://openai.com/index/dall-e)
@@ -4604,6 +4609,11 @@
 - **ID**: rss_https://openai.com/index/previewing-gpt-5-6-sol
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/previewing-gpt-5-6-sol](https://openai.com/index/previewing-gpt-5-6-sol)
+
+## 
+- **ID**: rss_https://openai.com/index/previewing-ultrafast
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/previewing-ultrafast](https://openai.com/index/previewing-ultrafast)
 
 ## 
 - **ID**: rss_https://openai.com/index/procgen-benchmark
