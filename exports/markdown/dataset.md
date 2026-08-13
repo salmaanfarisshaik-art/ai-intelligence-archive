@@ -514,6 +514,12 @@
 - **URL**: [https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated](https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated)
 - **Tags**: format:parquet, language:bos, language:bul, language:cat, language:ces, language:dan, language:deu, language:ell, language:eng, language:est, language:eus, language:fin, language:fra, language:gle, language:glg, language:hrv, language:hun, language:isl, language:ita, language:kat, language:lav, language:lit, language:mkd, language:mlt, language:nld, language:nno, language:nob, language:pol, language:por, language:ron, language:slk, language:slv, language:spa, language:sqi, language:srp, language:swe, language:tur, language:ukr, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-generation, task_categories:translation
 
+## InternRobotics/InternData-A1
+- **ID**: hf_ds_68822a776cf08537cb6be0af
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/InternRobotics/InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1)
+- **Tags**: Embodied-AI, Robotic manipulation, arxiv:2511.16651, language:en, modality:3d, modality:image, modality:text, region:us, size_categories:n>1T, task_categories:other, task_categories:robotics
+
 ## behavior-1k/2025-challenge-demos
 - **ID**: hf_ds_68a7fb1964bbb2ec688d1af2
 - **Source**: HuggingFace Datasets
@@ -837,6 +843,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer](https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer)
 - **Tags**: region:us
+
+## JoeLiu996/NatureBench
+- **ID**: hf_ds_6a4f0a92e633070a2d287ef9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/JoeLiu996/NatureBench](https://huggingface.co/datasets/JoeLiu996/NatureBench)
+- **Tags**: arxiv:2606.24530, benchmark, coding-agents, format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:other, modality:image, modality:text, nature, region:us, scientific-machine-learning, size_categories:n<1K
 
 ## fujinchu/imgbed
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa

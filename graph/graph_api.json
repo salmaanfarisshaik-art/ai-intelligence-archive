@@ -7592,6 +7592,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_68822a776cf08537cb6be0af",
+      "target": "datasets/InternRobotics"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_68a7fb1964bbb2ec688d1af2",
       "target": "datasets/behavior-1k"
     },
@@ -7749,6 +7754,16 @@
       "relationship": "related_models",
       "source": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "target": "datasets/k9cli"
+    },
+    {
+      "relationship": "related_papers",
+      "source": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "target": "2606.24530"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "target": "datasets/JoeLiu996"
     },
     {
       "relationship": "related_models",
@@ -8006,7 +8021,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-13T08:19:47.896579+00:00",
+  "generated_at": "2026-08-13T10:03:31.468093+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -131317,6 +131332,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_68822a776cf08537cb6be0af",
+      "label": "InternRobotics/InternData-A1"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_68a7fb1964bbb2ec688d1af2",
       "label": "behavior-1k/2025-challenge-demos"
     },
@@ -131584,6 +131604,11 @@
       "category": "dataset",
       "id": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "label": "k9cli/video-vec2wav2-tokenizer"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "label": "JoeLiu996/NatureBench"
     },
     {
       "category": "dataset",
@@ -139537,6 +139562,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_allenai_olmo_3_1_32b_think_gguf",
+      "label": "bartowski/allenai_Olmo-3.1-32B-Think-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_deepseek_coder_v2_lite_instruct_gguf",
       "label": "bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF"
     },
@@ -140122,6 +140152,11 @@
     },
     {
       "category": "models",
+      "id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
+      "label": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf"
+    },
+    {
+      "category": "models",
       "id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
       "label": "deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit"
     },
@@ -140324,6 +140359,16 @@
       "category": "models",
       "id": "model_devquasar_amd_instella_moe_16b_a3b_think_gguf",
       "label": "DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_devquasar_deepseek_ai_deepseek_v3_2_gguf",
+      "label": "DevQuasar/deepseek-ai.DeepSeek-V3.2-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf",
+      "label": "DevQuasar/LiquidAI.LFM2-2.6B-Transcript-GGUF"
     },
     {
       "category": "models",
@@ -142807,6 +142852,11 @@
     },
     {
       "category": "models",
+      "id": "model_naomibtw_rwkv7_g1c_13_3b_gguf",
+      "label": "NaomiBTW/rwkv7-g1c-13.3b-gguf"
+    },
+    {
+      "category": "models",
       "id": "model_naver_hyperclovax_hyperclovax_seed_think_14b",
       "label": "naver-hyperclovax/HyperCLOVAX-SEED-Think-14B"
     },
@@ -142914,6 +142964,11 @@
       "category": "models",
       "id": "model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo",
       "label": "NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO"
+    },
+    {
+      "category": "models",
+      "id": "model_novachronoai_lfm2_5_1_2b_nova_function_calling_gguf",
+      "label": "NovachronoAI/LFM2.5-1.2B-Nova-Function-Calling-GGUF"
     },
     {
       "category": "models",
@@ -145177,6 +145232,11 @@
     },
     {
       "category": "models",
+      "id": "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5",
+      "label": "tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5"
+    },
+    {
+      "category": "models",
       "id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
       "label": "tokyotech-llm/Qwen3-Swallow-32B-RL-v0.2-AWQ-INT4"
     },
@@ -145857,6 +145917,11 @@
     },
     {
       "category": "models",
+      "id": "model_unsloth_qwen3_32b_gguf",
+      "label": "unsloth/Qwen3-32B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_unsloth_qwen3_4b_base",
       "label": "unsloth/Qwen3-4B-Base"
     },
@@ -145944,6 +146009,11 @@
       "category": "models",
       "id": "model_utter_project_eurollm_9b_instruct_2512",
       "label": "utter-project/EuroLLM-9B-Instruct-2512"
+    },
+    {
+      "category": "models",
+      "id": "model_uzlm_alloma_3b_instruct",
+      "label": "uzlm/alloma-3B-Instruct"
     },
     {
       "category": "models",
@@ -146099,6 +146169,11 @@
       "category": "models",
       "id": "model_yuhuili_eagle_llama3_instruct_8b",
       "label": "yuhuili/EAGLE-LLaMA3-Instruct-8B"
+    },
+    {
+      "category": "models",
+      "id": "model_yujiepan_kimi_linear_tiny_random",
+      "label": "yujiepan/kimi-linear-tiny-random"
     },
     {
       "category": "models",
@@ -443127,6 +443202,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 1601,
-  "total_nodes": 87023
+  "total_edges": 1604,
+  "total_nodes": 87035
 }

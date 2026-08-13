@@ -320,6 +320,10 @@
 - **ID**: model_baidu_ernie_4_5_21b_a3b_pt
 - **Source**: 
 
+## bartowski/allenai_Olmo-3.1-32B-Think-GGUF
+- **ID**: model_bartowski_allenai_olmo_3_1_32b_think_gguf
+- **Source**: 
+
 ## bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF
 - **ID**: model_bartowski_deepseek_coder_v2_lite_instruct_gguf
 - **Source**: 
@@ -788,6 +792,10 @@
 - **ID**: model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf
 - **Source**: 
 
+## DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf
+- **ID**: model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf
+- **Source**: 
+
 ## deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
 - **ID**: model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit
 - **Source**: 
@@ -950,6 +958,14 @@
 
 ## DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF
 - **ID**: model_devquasar_amd_instella_moe_16b_a3b_think_gguf
+- **Source**: 
+
+## DevQuasar/deepseek-ai.DeepSeek-V3.2-GGUF
+- **ID**: model_devquasar_deepseek_ai_deepseek_v3_2_gguf
+- **Source**: 
+
+## DevQuasar/LiquidAI.LFM2-2.6B-Transcript-GGUF
+- **ID**: model_devquasar_liquidai_lfm2_2_6b_transcript_gguf
 - **Source**: 
 
 ## dicta-il/DictaLM-3.0-1.7B-Instruct
@@ -2936,6 +2952,10 @@
 - **ID**: model_nanbeige_nanbeige4_2_3b
 - **Source**: 
 
+## NaomiBTW/rwkv7-g1c-13.3b-gguf
+- **ID**: model_naomibtw_rwkv7_g1c_13_3b_gguf
+- **Source**: 
+
 ## naver-hyperclovax/HyperCLOVAX-SEED-Think-14B
 - **ID**: model_naver_hyperclovax_hyperclovax_seed_think_14b
 - **Source**: 
@@ -3022,6 +3042,10 @@
 
 ## NousResearch/Nous-Hermes-2-Mixtral-8x7B-DPO
 - **ID**: model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo
+- **Source**: 
+
+## NovachronoAI/LFM2.5-1.2B-Nova-Function-Calling-GGUF
+- **ID**: model_novachronoai_lfm2_5_1_2b_nova_function_calling_gguf
 - **Source**: 
 
 ## NovaSearch/stella_en_1.5B_v5
@@ -4832,6 +4856,10 @@
 - **ID**: model_tobil_qmd_query_expansion_1_7b_gguf
 - **Source**: 
 
+## tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
+- **ID**: model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5
+- **Source**: 
+
 ## tokyotech-llm/Qwen3-Swallow-32B-RL-v0.2-AWQ-INT4
 - **ID**: model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4
 - **Source**: 
@@ -5376,6 +5404,10 @@
 - **ID**: model_unsloth_qwen3_30b_a3b_gguf
 - **Source**: 
 
+## unsloth/Qwen3-32B-GGUF
+- **ID**: model_unsloth_qwen3_32b_gguf
+- **Source**: 
+
 ## unsloth/Qwen3-4B-Base
 - **ID**: model_unsloth_qwen3_4b_base
 - **Source**: 
@@ -5446,6 +5478,10 @@
 
 ## utter-project/EuroLLM-9B-Instruct-2512
 - **ID**: model_utter_project_eurollm_9b_instruct_2512
+- **Source**: 
+
+## uzlm/alloma-3B-Instruct
+- **ID**: model_uzlm_alloma_3b_instruct
 - **Source**: 
 
 ## Vamsi/T5_Paraphrase_Paws
@@ -5570,6 +5606,10 @@
 
 ## yuhuili/EAGLE-LLaMA3-Instruct-8B
 - **ID**: model_yuhuili_eagle_llama3_instruct_8b
+- **Source**: 
+
+## yujiepan/kimi-linear-tiny-random
+- **ID**: model_yujiepan_kimi_linear_tiny_random
 - **Source**: 
 
 ## yujiepan/llama-2-tiny-random

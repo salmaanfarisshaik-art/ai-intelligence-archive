@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c41177a3fcfe43d29e22fcfc69213a7df9cd1ba1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tVacuum Peptide Ensembles\n\t\n\nMolecular-dynamics trajectories derived from ManyPeptidesMD. This repository provides vacuum ensembles for a small subset of peptides, initialized from ManyPeptidesMD conformers.\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\n\n\t\n\t\t\nPath\nModel\nUse\n\n\n\t\t\ntrajectories/v1/\nAmber14, peptide only\nGas-phase sampling\n\n\nwebdatasets/v1/300K/\nStreamable samples from the 300 K state\nModel training\n\n\nwebdatasets/v1/300-500K/\nStreamable samples from all REMD states\nTemperature-conditioned… See the full description on the dataset page: https://huggingface.co/datasets/niklastr/vacuum_peptides.",
-  "downloads": 43898,
+  "downloads": 43903,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

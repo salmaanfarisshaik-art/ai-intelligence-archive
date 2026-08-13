@@ -711,6 +711,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_shpouladi_american_sign_language_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -1235,7 +1240,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_internscience_agents_a1_4b_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_internscience_agents_a1_4b_q8_0_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_internscience_agents_a1_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_sc117_agents_a1_uncensored_mtp_apex_gguf",
       "match_type": "exact",
       "score": 1.5
     }
@@ -1737,6 +1757,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16",
       "match_type": "exact",
       "score": 2.0
@@ -1972,6 +1997,11 @@
     },
     {
       "entity_id": "dataset_natgillin_translations_raw",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_shash42_forecast_news",
       "match_type": "exact",
       "score": 1.0
     },
@@ -4000,6 +4030,11 @@
     }
   ],
   "35b": [
+    {
+      "entity_id": "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16",
+      "match_type": "exact",
+      "score": 6.5
+    },
     {
       "entity_id": "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4",
       "match_type": "exact",
@@ -6763,6 +6798,13 @@
       "entity_id": "dataset_ruediste_codeparrot_github_code_10g",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "3gpp": [
+    {
+      "entity_id": "dataset_gsma_3gpp",
+      "match_type": "exact",
+      "score": 6.5
     }
   ],
   "3k": [

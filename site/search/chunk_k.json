@@ -860,7 +860,19 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ruggsea_infini_news_corpus",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "kana": [
+    {
+      "entity_id": "model_togatogah_jinen_v2_small_gguf",
       "match_type": "exact",
       "score": 1.5
     }
@@ -996,6 +1008,13 @@
       "entity_id": "alpaca_6619925501188136289",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "kanji": [
+    {
+      "entity_id": "model_togatogah_jinen_v2_small_gguf",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "kankakee": [
@@ -1377,6 +1396,11 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
     }
@@ -4811,6 +4835,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_gsma_3gpp",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lighteval_math_hard",
       "match_type": "exact",
       "score": 1.0
@@ -7945,6 +7974,11 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
     }
@@ -19044,6 +19078,11 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
     },

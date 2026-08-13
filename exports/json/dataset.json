@@ -3227,6 +3227,35 @@
     "local_path": "datasets/helsinki-nlp/hf_ds_688209a61f4d0375592760e0.json"
   },
   {
+    "id": "hf_ds_68822a776cf08537cb6be0af",
+    "title": "InternRobotics/InternData-A1",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "Embodied-AI",
+      "Robotic manipulation",
+      "arxiv:2511.16651",
+      "language:en",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:n>1T",
+      "task_categories:other",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/InternRobotics"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/InternRobotics/InternData-A1",
+    "local_path": "datasets/internrobotics/hf_ds_68822a776cf08537cb6be0af.json"
+  },
+  {
     "id": "hf_ds_68a7fb1964bbb2ec688d1af2",
     "title": "behavior-1k/2025-challenge-demos",
     "category": "dataset",
@@ -4576,6 +4605,42 @@
     },
     "source_url": "https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer",
     "local_path": "datasets/k9cli/hf_ds_6a3519d6ceabed997ec9ea1e.json"
+  },
+  {
+    "id": "hf_ds_6a4f0a92e633070a2d287ef9",
+    "title": "JoeLiu996/NatureBench",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2606.24530",
+      "benchmark",
+      "coding-agents",
+      "format:json",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:other",
+      "modality:image",
+      "modality:text",
+      "nature",
+      "region:us",
+      "scientific-machine-learning",
+      "size_categories:n<1K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/JoeLiu996"
+      ],
+      "related_papers": [
+        "2606.24530"
+      ],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/JoeLiu996/NatureBench",
+    "local_path": "datasets/joeliu996/hf_ds_6a4f0a92e633070a2d287ef9.json"
   },
   {
     "id": "hf_ds_6a517a8032bfea14be5a68aa",

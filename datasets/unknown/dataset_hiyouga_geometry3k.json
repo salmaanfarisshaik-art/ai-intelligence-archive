@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fd21e533e1e50d0662a2bf7b223e60511bd5f8b7",
   "description": "This dataset was converted from https://github.com/lupantech/InterGPS using the following script.\nimport json\nimport os\nfrom datasets import Dataset, DatasetDict, Sequence\nfrom datasets import Image as ImageData\nfrom PIL import Image\n\n\nMAPPING = {\"A\": 0, \"B\": 1, \"C\": 2, \"D\": 3}\n\n\ndef generate_data(data_path: str):\n    for folder in os.listdir(data_path):\n        folder_path = os.path.join(data_path, folder)\n        image = Image.open(os.path.join(folder_path, \"img_diagram.png\"), \"r\")… See the full description on the dataset page: https://huggingface.co/datasets/hiyouga/geometry3k.",
-  "downloads": 33939,
+  "downloads": 34133,
   "tags": [
     "task_categories:visual-question-answering",
     "language:en",

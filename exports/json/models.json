@@ -800,6 +800,16 @@
     "local_path": "models/baidu/model_baidu_ernie_4_5_21b_a3b_pt.json"
   },
   {
+    "id": "model_bartowski_allenai_olmo_3_1_32b_think_gguf",
+    "title": "bartowski/allenai_Olmo-3.1-32B-Think-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/bartowski/model_bartowski_allenai_olmo_3_1_32b_think_gguf.json"
+  },
+  {
     "id": "model_bartowski_deepseek_coder_v2_lite_instruct_gguf",
     "title": "bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF",
     "category": "models",
@@ -1970,6 +1980,16 @@
     "local_path": "models/davidau/model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf.json"
   },
   {
+    "id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
+    "title": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/davidau/model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf.json"
+  },
+  {
     "id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
     "title": "deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit",
     "category": "models",
@@ -2378,6 +2398,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models/devquasar/model_devquasar_amd_instella_moe_16b_a3b_think_gguf.json"
+  },
+  {
+    "id": "model_devquasar_deepseek_ai_deepseek_v3_2_gguf",
+    "title": "DevQuasar/deepseek-ai.DeepSeek-V3.2-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/devquasar/model_devquasar_deepseek_ai_deepseek_v3_2_gguf.json"
+  },
+  {
+    "id": "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf",
+    "title": "DevQuasar/LiquidAI.LFM2-2.6B-Transcript-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/devquasar/model_devquasar_liquidai_lfm2_2_6b_transcript_gguf.json"
   },
   {
     "id": "model_dicta_il_dictalm_3_0_1_7b_instruct",
@@ -7340,6 +7380,16 @@
     "local_path": "models/nanbeige/model_nanbeige_nanbeige4_2_3b.json"
   },
   {
+    "id": "model_naomibtw_rwkv7_g1c_13_3b_gguf",
+    "title": "NaomiBTW/rwkv7-g1c-13.3b-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/naomibtw/model_naomibtw_rwkv7_g1c_13_3b_gguf.json"
+  },
+  {
     "id": "model_naver_hyperclovax_hyperclovax_seed_think_14b",
     "title": "naver-hyperclovax/HyperCLOVAX-SEED-Think-14B",
     "category": "models",
@@ -7558,6 +7608,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/nousresearch/model_nousresearch_nous_hermes_2_mixtral_8x7b_dpo.json"
+  },
+  {
+    "id": "model_novachronoai_lfm2_5_1_2b_nova_function_calling_gguf",
+    "title": "NovachronoAI/LFM2.5-1.2B-Nova-Function-Calling-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/novachronoai/model_novachronoai_lfm2_5_1_2b_nova_function_calling_gguf.json"
   },
   {
     "id": "model_novasearch_stella_en_1_5b_v5",
@@ -12080,6 +12140,16 @@
     "local_path": "models/tobil/model_tobil_qmd_query_expansion_1_7b_gguf.json"
   },
   {
+    "id": "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5",
+    "title": "tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/tokyotech-llm/model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5.json"
+  },
+  {
     "id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
     "title": "tokyotech-llm/Qwen3-Swallow-32B-RL-v0.2-AWQ-INT4",
     "category": "models",
@@ -13440,6 +13510,16 @@
     "local_path": "models/unsloth/model_unsloth_qwen3_30b_a3b_gguf.json"
   },
   {
+    "id": "model_unsloth_qwen3_32b_gguf",
+    "title": "unsloth/Qwen3-32B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/unsloth/model_unsloth_qwen3_32b_gguf.json"
+  },
+  {
     "id": "model_unsloth_qwen3_4b_base",
     "title": "unsloth/Qwen3-4B-Base",
     "category": "models",
@@ -13618,6 +13698,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/utter-project/model_utter_project_eurollm_9b_instruct_2512.json"
+  },
+  {
+    "id": "model_uzlm_alloma_3b_instruct",
+    "title": "uzlm/alloma-3B-Instruct",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/uzlm/model_uzlm_alloma_3b_instruct.json"
   },
   {
     "id": "model_vamsi_t5_paraphrase_paws",
@@ -13928,6 +14018,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/yuhuili/model_yuhuili_eagle_llama3_instruct_8b.json"
+  },
+  {
+    "id": "model_yujiepan_kimi_linear_tiny_random",
+    "title": "yujiepan/kimi-linear-tiny-random",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/yujiepan/model_yujiepan_kimi_linear_tiny_random.json"
   },
   {
     "id": "model_yujiepan_llama_2_tiny_random",

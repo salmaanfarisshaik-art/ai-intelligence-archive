@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T08:20:37Z",
+  "generated_at": "2026-08-13T10:04:29Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -264,6 +264,11 @@
     {
       "source_id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
       "target_id": "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16",
+      "target_id": "hf_deepreinforce-ai_Ornith-1.0-35B",
       "type": "derived_from"
     },
     {
@@ -2272,6 +2277,16 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_internscience_agents_a1_4b_q4_k_m_gguf",
+      "target_id": "hf_InternScience_Agents-A1-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_internscience_agents_a1_4b_q8_0_gguf",
+      "target_id": "hf_InternScience_Agents-A1-4B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_internscience_agents_a1_q4_k_m_gguf",
       "target_id": "hf_InternScience_Agents-A1",
       "type": "derived_from"
@@ -2284,16 +2299,6 @@
     {
       "source_id": "model_jackfram_llama_68m",
       "target_id": "hf_wikipedia",
-      "type": "trained_on"
-    },
-    {
-      "source_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
-      "target_id": "hf_Jackrong_DeepSeek-V4-Distill-8000x",
-      "type": "trained_on"
-    },
-    {
-      "source_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
-      "target_id": "hf_Jackrong_DeepSeek-V4-Pro-Distilled-200K",
       "type": "trained_on"
     },
     {
@@ -2354,6 +2359,11 @@
     {
       "source_id": "model_janhq_jan_v3_5_4b_gguf",
       "target_id": "hf_janhq_Jan-v3-4B-base-instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0",
+      "target_id": "hf_JetBrains_Mellum2-12B-A2.5B-Instruct",
       "type": "derived_from"
     },
     {
@@ -6135,6 +6145,11 @@
       "source_id": "model_sbintuitions_tiny_lm",
       "target_id": "hf_wikipedia",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_sc117_agents_a1_uncensored_mtp_apex_gguf",
+      "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
     },
     {
       "source_id": "model_sc117_ornith_1_0_35b_heretic_mtp_apex_gguf",

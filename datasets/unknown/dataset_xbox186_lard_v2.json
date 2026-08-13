@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f57afea0be25a54d6dccafe6409cb8b8a187f92b",
   "description": "\n\t\n\t\t\n\t\tLoad with 🤗 Datasets\n\t\n\nYou can download this dataset through HuggingFace datasets (which requires you to install the extra Vision packages with pip install datasets[vision]). Then you will be able to load specific parts of this dataset with:\nfrom datasets import load_dataset\nds = load_dataset(\"ORG/REPO_ID\", name=\"flsim\")  # or arcgis/bingmaps/ges/xplane\nprint(ds)\n\n",
-  "downloads": 52756,
+  "downloads": 44474,
   "tags": [
     "task_categories:object-detection",
     "task_categories:image-segmentation",

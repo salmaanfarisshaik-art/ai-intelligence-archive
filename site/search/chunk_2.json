@@ -2187,11 +2187,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "match_type": "exact",
       "score": 1.5
@@ -2613,6 +2608,16 @@
     },
     {
       "entity_id": "dataset_microsoft_ms_marco",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_vincewin_crest_data",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4668,6 +4673,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_wannaphong_wikipedia_monthly",
       "match_type": "exact",
       "score": 2.0
@@ -4934,6 +4944,13 @@
       "entity_id": "rss_https://openai.com/index/chatgpt-for-teachers",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "20275": [
+    {
+      "entity_id": "dataset_sysuyy_imgedit",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "2028": [
@@ -7974,6 +7991,11 @@
   ],
   "2204": [
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_anthropic_hh_rlhf",
       "match_type": "exact",
       "score": 1.5
@@ -8353,6 +8375,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mteb_nfcorpus",
       "match_type": "exact",
       "score": 1.5
@@ -8693,6 +8720,11 @@
     },
     {
       "entity_id": "dataset_internrobotics_interndata_a1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_68822a776cf08537cb6be0af",
       "match_type": "exact",
       "score": 1.0
     }
@@ -11099,6 +11131,11 @@
     },
     {
       "entity_id": "dataset_essentialai_essential_web_v1_0",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_iimmortall_s2r_hdr",
       "match_type": "exact",
       "score": 2.0
     },
@@ -13860,6 +13897,11 @@
       "entity_id": "dataset_joeliu996_naturebench",
       "match_type": "exact",
       "score": 2.5
+    },
+    {
+      "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "2455879": [
@@ -15135,6 +15177,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mteb_nfcorpus",
       "match_type": "exact",
       "score": 1.5
@@ -15499,6 +15546,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_iimmortall_s2r_hdr",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_imageomics_mmla_mpala",
       "match_type": "exact",
       "score": 1.5
@@ -15699,6 +15751,11 @@
     },
     {
       "entity_id": "dataset_sjtu_ai4sports_soccerwiki",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_sysuyy_imgedit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -17253,6 +17310,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nyu_visionx_vsi_590k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_sanghyang00_omniasr_molge",
       "match_type": "exact",
       "score": 1.5
@@ -18047,6 +18109,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
       "match_type": "exact",
       "score": 1.0
@@ -18492,6 +18559,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_agnuxo_cajal_4b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -18748,6 +18820,16 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_internscience_agents_a1_4b_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_internscience_agents_a1_4b_q8_0_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_internscience_agents_a1_q4_k_m_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -18768,6 +18850,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_sc117_agents_a1_uncensored_mtp_apex_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_deepseek_v4_flash",
       "match_type": "exact",
       "score": 1.5
@@ -18781,6 +18868,11 @@
       "entity_id": "model_weiboai_vibethinker_3b",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "2607": [
@@ -19336,6 +19428,11 @@
     },
     {
       "entity_id": "hf_ds_67b9d203047d98a072b4e68c",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
       "match_type": "exact",
       "score": 1.0
     },

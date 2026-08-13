@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87023
+**Total Entities Tracked**: 87035
 
 ## Category Distribution
 
@@ -8,9 +8,9 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1525
-- **models**: 1423
+- **models**: 1433
 - **news**: 1151
-- **dataset**: 1140
+- **dataset**: 1142
 - **text-generation**: 1003
 - **cs.CV**: 461
 - **cs.CL**: 289
@@ -81,11 +81,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30126
+- ****: 30136
 - **Hugging Face**: 2010
 - **ArXiv**: 1448
 - **OpenAI Blog**: 1137
-- **HuggingFace Datasets**: 140
+- **HuggingFace Datasets**: 142
 - **GitHub Trending**: 48
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -125,18 +125,18 @@
 
 ## Top Tags
 
-- **region:us**: 206
+- **region:us**: 208
+- **library:datasets**: 67
+- **library:mlcroissant**: 67
 - **text-generation**: 67
-- **library:datasets**: 66
-- **library:mlcroissant**: 66
+- **modality:text**: 60
 - **transformers**: 59
 - **endpoints_compatible**: 58
-- **modality:text**: 58
 - **safetensors**: 57
+- **language:en**: 55
 - **license:apache-2.0**: 55
-- **language:en**: 53
 - **conversational**: 51
-- **library:polars**: 49
+- **library:polars**: 50
 - **license:mit**: 41
 - **format:parquet**: 40
 - **text-generation-inference**: 31
@@ -144,23 +144,23 @@
 - **en**: 25
 - **enterprise**: 25
 - **library:dask**: 25
-- **library:pandas**: 24
+- **library:pandas**: 25
 - **task_categories:text-generation**: 24
 - **eval-results**: 23
+- **modality:image**: 19
+- **size_categories:n<1K**: 19
 - **deploy:sagemaker**: 18
 - **modality:tabular**: 18
-- **size_categories:n<1K**: 18
-- **modality:image**: 17
+- **license:other**: 17
 - **qwen3**: 17
 - **api**: 16
-- **license:other**: 16
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 13
 - **modality:video**: 12
+- **task_categories:robotics**: 12
 - **license:odc-by**: 11
 - **multilinguality:monolingual**: 11
 - **size_categories:100K<n<1M**: 11
-- **task_categories:robotics**: 11
 - **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **pytorch**: 10
@@ -174,4 +174,4 @@
 - **language:zh**: 8
 - **security**: 8
 - **size_categories:1K<n<10K**: 8
-- **arxiv:2309.00071**: 7
+- **size_categories:n>1T**: 8

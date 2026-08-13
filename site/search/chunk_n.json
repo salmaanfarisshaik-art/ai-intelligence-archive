@@ -10448,6 +10448,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_vincewin_crest_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "gh_193215554",
       "match_type": "exact",
       "score": 1.0
@@ -13196,6 +13201,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nousresearch_hermes_function_calling_v1",
       "match_type": "exact",
       "score": 1.0
@@ -14508,9 +14518,19 @@
       "entity_id": "dataset_openai_openai_humaneval",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "naturebench": [
+    {
+      "entity_id": "hf_ds_6a4f0a92e633070a2d287ef9",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "dataset_frontisai_naturebench",
       "match_type": "exact",
@@ -27323,6 +27343,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_base_bf16",
       "match_type": "exact",
       "score": 5.0
@@ -28651,6 +28676,11 @@
     },
     {
       "entity_id": "dataset_majestical1_dns_challenge",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_vincewin_crest_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -42960,6 +42990,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_shash42_forecast_news",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "hf_ds_ErikCikalleshi_new_york_times_news_2000_2007",
       "match_type": "exact",
       "score": 3.0
@@ -55707,6 +55742,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ruggsea_infini_news_corpus",
       "match_type": "exact",
       "score": 1.5
@@ -55720,6 +55760,13 @@
       "entity_id": "model_redhatai_qwen3_8b_fp8_dynamic",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "nldas": [
+    {
+      "entity_id": "dataset_vincewin_crest_data",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "nlg": [
@@ -59914,6 +59961,11 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "nobel": [
@@ -62906,6 +62958,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4",
       "match_type": "exact",
       "score": 1.5
@@ -65423,6 +65480,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_68822a776cf08537cb6be0af",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_accc1380_private_model",
       "match_type": "exact",
       "score": 1.5
@@ -65439,6 +65501,11 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_emhltbkars_xxx",
       "match_type": "exact",
       "score": 1.5
     },
@@ -73758,6 +73825,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_sysuyy_imgedit",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_67866986e864fd4dee936901",
       "match_type": "exact",
       "score": 1.0
@@ -75512,6 +75584,11 @@
   "nr": [
     {
       "entity_id": "dataset_disco_eth_worldspeech",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gsma_3gpp",
       "match_type": "exact",
       "score": 1.5
     },
@@ -85120,6 +85197,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_nvfp4",
       "match_type": "exact",
       "score": 2.0
@@ -85362,6 +85444,11 @@
       "entity_id": "rss_https://openai.com/index/openai-nvidia-systems-partnership",
       "match_type": "exact",
       "score": 6.0
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4",
+      "match_type": "exact",
+      "score": 5.5
     },
     {
       "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_base_bf16",
@@ -86544,6 +86631,11 @@
     },
     {
       "entity_id": "dataset_nyu_mll_glue",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nyu_visionx_vsi_590k",
       "match_type": "exact",
       "score": 1.0
     }
