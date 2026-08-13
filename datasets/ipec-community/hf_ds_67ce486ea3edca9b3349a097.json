@@ -15,7 +15,7 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2025-03-20T11:33:45.000Z",
-    "likes": 14,
+    "likes": 15,
     "private": false,
     "sha": "634ac1e50023777c21b299d95aaf2bfdc8514ae9",
     "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"xarm\",\n    \"total_episodes\": 442226,\n    \"total_frames\": 7045476,\n    \"total_tasks\": 127605,\n    \"total_videos\": 442226,\n    \"total_chunks\": 443,\n    \"chunks_size\": 1000,\n    \"fps\": 10,\n    \"splits\": {\n        \"train\": \"0:442226\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot.",
@@ -33,7 +33,7 @@
     "createdAt": "2025-03-10T02:03:26.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-08-12T06:12:39.574563+00:00",
+  "retrieval_timestamp": "2026-08-13T04:12:21.461086+00:00",
   "last_updated": "2025-03-20T11:33:45.000Z",
   "links": {
     "related_models": [

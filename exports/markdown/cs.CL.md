@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.09924v4](http://arxiv.org/abs/2602.09924v4)
 
+## 
+- **ID**: arxiv_2602.11650v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.11650v2](http://arxiv.org/abs/2602.11650v2)
+
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
 - **Source**: ArXiv
@@ -329,6 +334,11 @@
 - **ID**: arxiv_2606.07515v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07515v2](http://arxiv.org/abs/2606.07515v2)
+
+## 
+- **ID**: arxiv_2606.09498v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09498v2](http://arxiv.org/abs/2606.09498v2)
 
 ## When Roleplaying, Do Models Believe What They Say?
 - **ID**: arxiv_2606.11502v2
@@ -599,6 +609,11 @@
 - **ID**: arxiv_2606.27199v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27199v2](http://arxiv.org/abs/2606.27199v2)
+
+## 
+- **ID**: arxiv_2606.28876v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.28876v3](http://arxiv.org/abs/2606.28876v3)
 
 ## CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield
 - **ID**: arxiv_2606.31796v2
@@ -1364,4 +1379,19 @@
 - **ID**: arxiv_2608.11200v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
+
+## 
+- **ID**: arxiv_2608.12253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12253v1](http://arxiv.org/abs/2608.12253v1)
+
+## 
+- **ID**: arxiv_2608.12269v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12269v1](http://arxiv.org/abs/2608.12269v1)
+
+## 
+- **ID**: arxiv_2608.12278v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12278v1](http://arxiv.org/abs/2608.12278v1)
 

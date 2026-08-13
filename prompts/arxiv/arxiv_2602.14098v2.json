@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.14098v2",
+  "schema_version": "1.0",
+  "technique_name": "ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization",
+  "description": "Existing Multimodal Large Language Models (MLLMs) for image forgery detection and localization predominantly operate under a text-centric Chain-of-Thought (CoT) paradigm. However, forcing these models to textually characterize imperceptible low-level tampering traces inevitably leads to hallucinations, as linguistic modalities are insufficient to capture such fine-grained pixel-level inconsistencies. To overcome this, we propose ForgeryVCR, a framework that incorporates a forensic toolbox to mat",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2602.14098v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.14098v2",
+    "updated": "2026-08-12T16:50:09Z",
+    "published": "2026-02-15T11:14:47Z",
+    "title": "ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization",
+    "summary": "Existing Multimodal Large Language Models (MLLMs) for image forgery detection and localization predominantly operate under a text-centric Chain-of-Thought (CoT) paradigm. However, forcing these models to textually characterize imperceptible low-level tampering traces inevitably leads to hallucinations, as linguistic modalities are insufficient to capture such fine-grained pixel-level inconsistencies. To overcome this, we propose ForgeryVCR, a framework that incorporates a forensic toolbox to materialize imperceptible traces into explicit visual intermediates via Visual-Centric Reasoning. To enable efficient tool utilization, we introduce a Strategic Tool Learning post-training paradigm, encompassing gain-driven trajectory construction for Supervised Fine-Tuning (SFT) and subsequent Reinforcement Learning (RL) optimization guided by a tool utility reward. This paradigm empowers the MLLM to act as a proactive decision-maker, learning to spontaneously invoke multi-view reasoning paths including local zoom-in for fine-grained inspection and the analysis of invisible inconsistencies in compression history, noise residuals, and frequency domains. Extensive experiments reveal that ForgeryVCR achieves state-of-the-art (SOTA) performance in both detection and localization tasks, demonstrating superior generalization and robustness with minimal tool redundancy. The code is available at https://github.com/youqiwong/ForgeryVCR.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-13T04:12:04Z",
+  "last_updated": "2026-08-12T16:50:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.14098v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

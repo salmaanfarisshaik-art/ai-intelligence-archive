@@ -20,10 +20,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## 
+- **ID**: arxiv_2505.05474v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.05474v2](http://arxiv.org/abs/2505.05474v2)
+
 ## SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
 - **ID**: arxiv_2505.17674v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.17674v3](http://arxiv.org/abs/2505.17674v3)
+
+## 
+- **ID**: arxiv_2505.18315v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.18315v3](http://arxiv.org/abs/2505.18315v3)
 
 ## AniCrafter: Customizing Realistic Human-Centric Animation via Avatar-Background Conditioning in Video Diffusion Models
 - **ID**: arxiv_2505.20255v3
@@ -224,6 +234,11 @@
 - **ID**: arxiv_2602.10880v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.10880v2](http://arxiv.org/abs/2602.10880v2)
+
+## 
+- **ID**: arxiv_2602.14098v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14098v2](http://arxiv.org/abs/2602.14098v2)
 
 ## VideoSketcher: Sequential Sketch Generation Using Video Model Priors
 - **ID**: arxiv_2602.15819v2
@@ -739,6 +754,11 @@
 - **ID**: arxiv_2606.20563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20563v1](http://arxiv.org/abs/2606.20563v1)
+
+## 
+- **ID**: arxiv_2606.27345v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27345v3](http://arxiv.org/abs/2606.27345v3)
 
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
@@ -1635,6 +1655,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29684v1](http://arxiv.org/abs/2607.29684v1)
 
+## 
+- **ID**: arxiv_2608.00237v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00237v2](http://arxiv.org/abs/2608.00237v2)
+
 ## ISRS-DETR: Detection-Guided Click Propagation for Remote Sensing Interactive Segmentation
 - **ID**: arxiv_2608.02468v1
 - **Source**: ArXiv
@@ -2025,6 +2050,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09931v1](http://arxiv.org/abs/2608.09931v1)
 
+## 
+- **ID**: arxiv_2608.10798v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10798v2](http://arxiv.org/abs/2608.10798v2)
+
 ## AlbumentationsX: One Augmentation Pipeline for Images and Related Annotations
 - **ID**: arxiv_2608.11123v1
 - **Source**: ArXiv
@@ -2109,4 +2139,54 @@
 - **ID**: arxiv_2608.11205v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11205v1](http://arxiv.org/abs/2608.11205v1)
+
+## 
+- **ID**: arxiv_2608.12252v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12252v1](http://arxiv.org/abs/2608.12252v1)
+
+## 
+- **ID**: arxiv_2608.12262v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12262v1](http://arxiv.org/abs/2608.12262v1)
+
+## 
+- **ID**: arxiv_2608.12274v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12274v1](http://arxiv.org/abs/2608.12274v1)
+
+## 
+- **ID**: arxiv_2608.12276v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12276v1](http://arxiv.org/abs/2608.12276v1)
+
+## 
+- **ID**: arxiv_2608.12279v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12279v1](http://arxiv.org/abs/2608.12279v1)
+
+## 
+- **ID**: arxiv_2608.12290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12290v1](http://arxiv.org/abs/2608.12290v1)
+
+## 
+- **ID**: arxiv_2608.12299v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12299v1](http://arxiv.org/abs/2608.12299v1)
+
+## 
+- **ID**: arxiv_2608.12308v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12308v1](http://arxiv.org/abs/2608.12308v1)
+
+## 
+- **ID**: arxiv_2608.12313v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12313v1](http://arxiv.org/abs/2608.12313v1)
+
+## 
+- **ID**: arxiv_2608.12314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12314v1](http://arxiv.org/abs/2608.12314v1)
 

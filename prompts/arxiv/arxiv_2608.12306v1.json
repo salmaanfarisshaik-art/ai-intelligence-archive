@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.12306v1",
+  "schema_version": "1.0",
+  "technique_name": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+  "description": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based Cost Inference (RCI) framework, which converts sparse stop-feedback into dense per-step costs via return decomposition, then trains a constrained offline policy on the augmented dat",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.12306v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.12306v1",
+    "updated": "2026-08-12T17:53:15Z",
+    "published": "2026-08-12T17:53:15Z",
+    "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+    "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step attribution. We frame this as a temporal credit assignment problem and propose the Redistribution-based Cost Inference (RCI) framework, which converts sparse stop-feedback into dense per-step costs via return decomposition, then trains a constrained offline policy on the augmented dataset. We show that return-equivalent redistribution preserves the feasible policy set and the optimal Lagrangian in a CMDP, establishing that the transformation is lossless in theory while yielding better-conditioned cost critic learning in practice. Experiments on highway driving and robotic manipulation demonstrate substantially lower violation rates than sparse and classifier-based baselines, with robustness to heterogeneous dataset compositions and label noise.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-13T04:12:04Z",
+  "last_updated": "2026-08-12T17:53:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.12306v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

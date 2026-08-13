@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.12276v1",
+  "schema_version": "1.0",
+  "technique_name": "XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling",
+  "description": "High-fidelity image generation faces a trade-off between speed and quality. Diffusion models produce strong visuals but require costly iterative sampling. Existing efficient methods mainly distill pretrained models into few-step samplers, a challenging process that depends heavily on teacher-model quality. In this paper, we introduce XYZFlow, a framework that rethinks efficient generation through multidimensional scaling of flow matching. Unlike single-step mappings, XYZFlow enhances expressivit",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.12276v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.12276v1",
+    "updated": "2026-08-12T17:15:42Z",
+    "published": "2026-08-12T17:15:42Z",
+    "title": "XYZFlow:Scaling Multi dimensional Shortcut Flows for Efficient Generative Modeling",
+    "summary": "High-fidelity image generation faces a trade-off between speed and quality. Diffusion models produce strong visuals but require costly iterative sampling. Existing efficient methods mainly distill pretrained models into few-step samplers, a challenging process that depends heavily on teacher-model quality. In this paper, we introduce XYZFlow, a framework that rethinks efficient generation through multidimensional scaling of flow matching. Unlike single-step mappings, XYZFlow enhances expressivity by making probability paths more identifiable and learnable through structured multidimensional conditioning. We view autoregressive modeling as implicit flow straightening, where richer context reduces trajectory ambiguity. XYZFlow realizes this idea through two orthogonal dimensions: temporal scaling, which uses non-Markovian conditioning on the full denoising history; and spatial scaling, enabled by Next Shortcut Prediction, which sequentially generates patches using preceding patches' denoising trajectories as priors. Experiments show that XYZFlow achieves state-of-the-art performance, with 7.2-8.5X teacher speedups and competitive FID, while Next Shortcut Prediction delivers superior quality-latency trade-offs over model scaling or step reduction.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-13T04:12:04Z",
+  "last_updated": "2026-08-12T17:15:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.12276v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

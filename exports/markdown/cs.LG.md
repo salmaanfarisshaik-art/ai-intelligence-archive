@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
 
+## 
+- **ID**: arxiv_2512.06547v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.06547v4](http://arxiv.org/abs/2512.06547v4)
+
 ## mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks
 - **ID**: arxiv_2601.02451v2
 - **Source**: ArXiv
@@ -744,4 +749,14 @@
 - **ID**: arxiv_2608.11197v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11197v1](http://arxiv.org/abs/2608.11197v1)
+
+## 
+- **ID**: arxiv_2608.12306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12306v1](http://arxiv.org/abs/2608.12306v1)
+
+## 
+- **ID**: arxiv_2608.12307v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12307v1](http://arxiv.org/abs/2608.12307v1)
 
