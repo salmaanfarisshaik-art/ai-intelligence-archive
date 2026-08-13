@@ -893,6 +893,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_clip_benchmark_wds_objectnet
+- **Source**: 
+
+## 
 - **ID**: dataset_cmrobot_motiondecode
 - **Source**: 
 
@@ -1114,6 +1118,10 @@
 
 ## 
 - **ID**: dataset_dexora_dexora_real_world_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_dexora_simulation_asset_dataset
 - **Source**: 
 
 ## 
@@ -1613,6 +1621,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gsma_3gpp
+- **Source**: 
+
+## 
 - **ID**: dataset_gutoportelaa_dom_pi_pdfs_2025
 - **Source**: 
 
@@ -1873,6 +1885,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_huggingfacefw_admin
+- **Source**: 
+
+## 
 - **ID**: dataset_huggingfacefw_finepdfs
 - **Source**: 
 
@@ -2081,6 +2097,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_202605033067
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_20260507a71c
 - **Source**: 
 
@@ -2202,6 +2222,10 @@
 
 ## 
 - **ID**: dataset_icdn11_content_20260720da74
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_20260505b6e4
 - **Source**: 
 
 ## 
@@ -2353,6 +2377,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn13_content_20260526c4c2
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn13_content_20260526d8fe
 - **Source**: 
 
@@ -2366,6 +2394,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_20260606c3b2
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_2026061037a6
 - **Source**: 
 
 ## 
@@ -2437,6 +2469,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn14_content_20260503c3e6
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn14_content_202605063569
 - **Source**: 
 
@@ -2486,6 +2522,10 @@
 
 ## 
 - **ID**: dataset_icdn14_content_202606053380
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_202606099ce4
 - **Source**: 
 
 ## 
@@ -2558,6 +2598,14 @@
 
 ## 
 - **ID**: dataset_icdn14_content_20260714f680
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_202607265484
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn15_content_20260503c271
 - **Source**: 
 
 ## 
@@ -2838,6 +2886,10 @@
 
 ## 
 - **ID**: dataset_ifm_megamath
+- **Source**: 
+
+## 
+- **ID**: dataset_iimmortall_s2r_hdr
 - **Source**: 
 
 ## 
@@ -3945,6 +3997,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mteb_amazon_massive_intent
+- **Source**: 
+
+## 
 - **ID**: dataset_mteb_nfcorpus
 - **Source**: 
 
@@ -4242,6 +4298,10 @@
 
 ## 
 - **ID**: dataset_nyu_mll_glue
+- **Source**: 
+
+## 
+- **ID**: dataset_nyu_visionx_vsi_590k
 - **Source**: 
 
 ## 
@@ -5065,6 +5125,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_shash42_forecast_news
+- **Source**: 
+
+## 
+- **ID**: dataset_shaurya2626_allpanel_live_feed
+- **Source**: 
+
+## 
 - **ID**: dataset_shenberg1_aishell3
 - **Source**: 
 
@@ -5338,6 +5406,10 @@
 
 ## 
 - **ID**: dataset_syn4d_syn4d
+- **Source**: 
+
+## 
+- **ID**: dataset_sysuyy_imgedit
 - **Source**: 
 
 ## 
@@ -5654,6 +5726,10 @@
 
 ## 
 - **ID**: dataset_vincent_hkustgz_padbench
+- **Source**: 
+
+## 
+- **ID**: dataset_vincewin_crest_data
 - **Source**: 
 
 ## 

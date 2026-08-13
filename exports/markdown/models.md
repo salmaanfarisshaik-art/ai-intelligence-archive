@@ -28,6 +28,10 @@
 - **ID**: model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4
 - **Source**: 
 
+## AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16
+- **ID**: model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16
+- **Source**: 
+
 ## AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-NVFP4
 - **ID**: model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_nvfp4
 - **Source**: 
@@ -46,6 +50,10 @@
 
 ## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
+- **Source**: 
+
+## Agnuxo/CAJAL-4B
+- **ID**: model_agnuxo_cajal_4b
 - **Source**: 
 
 ## ai4bharat/indic-parler-tts
@@ -1152,6 +1160,10 @@
 - **ID**: model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf
 - **Source**: 
 
+## emhltbkars/xxx
+- **ID**: model_emhltbkars_xxx
+- **Source**: 
+
 ## empero-ai/Qwythos-9B-Claude-Mythos-5-1M
 - **ID**: model_empero_ai_qwythos_9b_claude_mythos_5_1m
 - **Source**: 
@@ -1724,6 +1736,14 @@
 - **ID**: model_internscience_agents_a1_4b
 - **Source**: 
 
+## InternScience/Agents-A1-4B-Q4_K_M-GGUF
+- **ID**: model_internscience_agents_a1_4b_q4_k_m_gguf
+- **Source**: 
+
+## InternScience/Agents-A1-4B-Q8_0-GGUF
+- **ID**: model_internscience_agents_a1_4b_q8_0_gguf
+- **Source**: 
+
 ## InternScience/Agents-A1-Q4_K_M-GGUF
 - **ID**: model_internscience_agents_a1_q4_k_m_gguf
 - **Source**: 
@@ -1770,6 +1790,10 @@
 
 ## janhq/Jan-v3.5-4B-gguf
 - **ID**: model_janhq_jan_v3_5_4b_gguf
+- **Source**: 
+
+## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q8_0
+- **ID**: model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0
 - **Source**: 
 
 ## jhu-clsp/rank1-7b
@@ -3192,6 +3216,10 @@
 - **ID**: model_nvidia_nemotron_mini_4b_instruct
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
+- **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16
 - **ID**: model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16
 - **Source**: 
@@ -4544,6 +4572,10 @@
 - **ID**: model_sbintuitions_tiny_lm
 - **Source**: 
 
+## SC117/Agents-A1-Uncensored-MTP-APEX-GGUF
+- **ID**: model_sc117_agents_a1_uncensored_mtp_apex_gguf
+- **Source**: 
+
 ## SC117/Ornith-1.0-35B-Heretic-MTP-APEX-GGUF
 - **ID**: model_sc117_ornith_1_0_35b_heretic_mtp_apex_gguf
 - **Source**: 
@@ -4854,6 +4886,10 @@
 
 ## tobil/qmd-query-expansion-1.7B-gguf
 - **ID**: model_tobil_qmd_query_expansion_1_7b_gguf
+- **Source**: 
+
+## togatogah/jinen-v2-small.gguf
+- **ID**: model_togatogah_jinen_v2_small_gguf
 - **Source**: 
 
 ## tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
