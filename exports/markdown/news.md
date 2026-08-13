@@ -921,6 +921,11 @@
 - **URL**: [https://openai.com/index/bug-bounty-program](https://openai.com/index/bug-bounty-program)
 
 ## 
+- **ID**: rss_https://openai.com/index/builders-guide-to-gpt-5-6
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/builders-guide-to-gpt-5-6](https://openai.com/index/builders-guide-to-gpt-5-6)
+
+## 
 - **ID**: rss_https://openai.com/index/building-abundant-intelligence
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-abundant-intelligence](https://openai.com/index/building-abundant-intelligence)
