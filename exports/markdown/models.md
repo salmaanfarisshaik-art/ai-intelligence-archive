@@ -8,6 +8,10 @@
 - **ID**: model_01_ai_yi_6b_chat
 - **Source**: 
 
+## 0xSero/deepseek-v4-flash-0731-spark
+- **ID**: model_0xsero_deepseek_v4_flash_0731_spark
+- **Source**: 
+
 ## aaditya/Llama3-OpenBioLLM-8B
 - **ID**: model_aaditya_llama3_openbiollm_8b
 - **Source**: 
@@ -432,6 +436,10 @@
 - **ID**: model_bartowski_north_mini_code_1_0_gguf
 - **Source**: 
 
+## bartowski/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
+- **ID**: model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf
+- **Source**: 
+
 ## bartowski/Phi-3.5-mini-instruct-GGUF
 - **ID**: model_bartowski_phi_3_5_mini_instruct_gguf
 - **Source**: 
@@ -742,6 +750,10 @@
 
 ## cyankiwi/NVIDIA-Nemotron-3-Super-120B-A12B-AWQ-4bit
 - **ID**: model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit
+- **Source**: 
+
+## cyankiwi/Ornith-1.0-35B-AWQ-FP8
+- **ID**: model_cyankiwi_ornith_1_0_35b_awq_fp8
 - **Source**: 
 
 ## cyankiwi/Ornith-1.0-9B-AWQ-INT4
@@ -1286,6 +1298,10 @@
 
 ## ggml-org/gpt-oss-20b-GGUF
 - **ID**: model_ggml_org_gpt_oss_20b_gguf
+- **Source**: 
+
+## ggml-org/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
+- **ID**: model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf
 - **Source**: 
 
 ## ggml-org/stories15M_MOE
@@ -3190,6 +3206,10 @@
 
 ## nvidia/Minitron-8B-Base
 - **ID**: model_nvidia_minitron_8b_base
+- **Source**: 
+
+## nvidia/Mistral-Medium-3.5-128B-NVFP4
+- **ID**: model_nvidia_mistral_medium_3_5_128b_nvfp4
 - **Source**: 
 
 ## nvidia/Nemotron-Cascade-2-30B-A3B
@@ -5322,6 +5342,10 @@
 
 ## unsloth/Nemotron-3-Nano-30B-A3B
 - **ID**: model_unsloth_nemotron_3_nano_30b_a3b
+- **Source**: 
+
+## unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
+- **ID**: model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf
 - **Source**: 
 
 ## unsloth/Ornith-1.0-35B-GGUF
