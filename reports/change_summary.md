@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 75
+**Total Changes:** 73
 
 ## Added
 None
@@ -11,20 +11,18 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
+- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
+- datasets/genrobot2025/hf_ds_6954cdff0a36f347a9b323fd.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai-community/hf_openai-community_gpt2.json
-- models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
-- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
