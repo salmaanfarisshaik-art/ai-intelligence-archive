@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 73
+**Total Changes:** 68
 
 ## Added
 None
@@ -11,18 +11,14 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
-- datasets/genrobot2025/hf_ds_6954cdff0a36f347a9b323fd.json
-- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
+- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai-community/hf_openai-community_gpt2.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/openai/hf_openai_gpt-oss-20b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -67,7 +63,6 @@ None
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
