@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance
+- **ID**: arxiv_2505.02779v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.02779v2](http://arxiv.org/abs/2505.02779v2)
+
 ## 3D Scene Generation: A Survey
 - **ID**: arxiv_2505.05474v2
 - **Source**: ArXiv
@@ -29,6 +34,11 @@
 - **ID**: arxiv_2505.05474v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.05474v2](http://arxiv.org/abs/2505.05474v2)
+
+## Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets for Vision
+- **ID**: arxiv_2505.12532v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.12532v3](http://arxiv.org/abs/2505.12532v3)
 
 ## SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
 - **ID**: arxiv_2505.17674v3
@@ -129,6 +139,11 @@
 - **ID**: arxiv_2509.25699v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25699v4](http://arxiv.org/abs/2509.25699v4)
+
+## Exploring Instruction Data Quality for Explainable Image Quality Assessment
+- **ID**: arxiv_2510.03880v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.03880v2](http://arxiv.org/abs/2510.03880v2)
 
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
 - **ID**: arxiv_2510.16598v2
@@ -349,6 +364,11 @@
 - **ID**: arxiv_2605.04201v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
+
+## A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline
+- **ID**: arxiv_2605.12608v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12608v3](http://arxiv.org/abs/2605.12608v3)
 
 ## ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
 - **ID**: arxiv_2605.15375v2
@@ -1985,6 +2005,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v1](http://arxiv.org/abs/2608.07468v1)
 
+## Model the Edit, Not the Image: Visual Autoregressive Editing from a Source-Centric Perspective
+- **ID**: arxiv_2608.09057v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09057v2](http://arxiv.org/abs/2608.09057v2)
+
 ## Modern Backbones Improve Multi-task DETR for Mammography Classification and Lesion Localization
 - **ID**: arxiv_2608.09801v1
 - **Source**: ArXiv
@@ -2304,4 +2329,79 @@
 - **ID**: arxiv_2608.12314v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12314v1](http://arxiv.org/abs/2608.12314v1)
+
+## UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models
+- **ID**: arxiv_2608.13453v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13453v1](http://arxiv.org/abs/2608.13453v1)
+
+## Evaluation of Clinically Steerable Retinal Image Generation from Foundation Model Latent Spaces
+- **ID**: arxiv_2608.13455v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13455v1](http://arxiv.org/abs/2608.13455v1)
+
+## Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts
+- **ID**: arxiv_2608.13458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13458v1](http://arxiv.org/abs/2608.13458v1)
+
+## SNM-VFI: Symmetric Nonlinear Motion-Guided Generative Video Frame Interpolation
+- **ID**: arxiv_2608.13460v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13460v1](http://arxiv.org/abs/2608.13460v1)
+
+## MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification
+- **ID**: arxiv_2608.13463v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13463v1](http://arxiv.org/abs/2608.13463v1)
+
+## MapRoute++: Surrogate-Guided Semantic Routing for Visual Concept Unlearning
+- **ID**: arxiv_2608.13478v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13478v1](http://arxiv.org/abs/2608.13478v1)
+
+## DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation
+- **ID**: arxiv_2608.13489v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13489v1](http://arxiv.org/abs/2608.13489v1)
+
+## TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval
+- **ID**: arxiv_2608.13495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13495v1](http://arxiv.org/abs/2608.13495v1)
+
+## GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors
+- **ID**: arxiv_2608.13502v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13502v1](http://arxiv.org/abs/2608.13502v1)
+
+## TabSOM: A tabular-to-image encoding method based on self-organizing maps
+- **ID**: arxiv_2608.13513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13513v1](http://arxiv.org/abs/2608.13513v1)
+
+## SCULPT: Subtractive Composition for 3D Part Generation
+- **ID**: arxiv_2608.13541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13541v1](http://arxiv.org/abs/2608.13541v1)
+
+## Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+- **ID**: arxiv_2608.13546v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13546v1](http://arxiv.org/abs/2608.13546v1)
+
+## PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
+- **ID**: arxiv_2608.13552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13552v1](http://arxiv.org/abs/2608.13552v1)
+
+## V-RAE: Rethinking Video Latent Spaces for Generation
+- **ID**: arxiv_2608.13556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13556v1](http://arxiv.org/abs/2608.13556v1)
+
+## AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+- **ID**: arxiv_2608.13560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13560v1](http://arxiv.org/abs/2608.13560v1)
 

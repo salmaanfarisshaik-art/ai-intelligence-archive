@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.03181v2",
+  "schema_version": "1.0",
+  "name": "SpatialVAM:Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.03181v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.03181v2",
+    "updated": "2026-08-13T16:47:10Z",
+    "published": "2026-04-03T16:57:06Z",
+    "title": "SpatialVAM:Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy",
+    "summary": "Robotic manipulation requires understanding both the 3D spatial structure of the environment and its temporal evolution, yet most existing policies neglect one or both aspects. They often rely on 2D visual observations or backbones pretrained on static image--text pairs, which leads to high data requirements and limited comprehension of environment dynamics. To address this, we introduce SpatialVAM, the first 3D Video Action Model that simultaneously predict spatial-aware multi-view heatmap videos and RGB videos. Our key insight is that this design naturally injects 3D information into video foundation models while aligning the representation format between video pretraining and action finetuning. Extensive experiments demonstrate that SpatialVAM enables data-efficient, robust, generalizable, and interpretable manipulation. With only ten demonstration trajectories and no additional pretraining, SpatialVAM handles challenging long-horizon and contact-rich tasks, generalizes to out-of-distribution settings, and predicts realistic future videos. Evaluations on Meta-World (22\\%$\\uparrow$), RoboCasa (15\\%$\\uparrow$) and real-world robotic platforms (16\\%$\\uparrow$) show that SpatialVAM consistently outperforms other video action models, vision language action models and 3D-based policies, establishing a new state-of-the-art in data-efficient multi-task manipulation.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T16:47:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.03181v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

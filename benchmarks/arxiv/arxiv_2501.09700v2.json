@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2501.09700v2",
+  "schema_version": "1.0",
+  "name": "Cueless EEG imagined speech for subject identification: dataset and benchmarks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2501.09700v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2501.09700v2",
+    "updated": "2026-08-13T17:11:02Z",
+    "published": "2025-01-16T17:54:56Z",
+    "title": "Cueless EEG imagined speech for subject identification: dataset and benchmarks",
+    "summary": "Electroencephalogram (EEG) signals have emerged as a promising modality for biometric identification. While previous studies have explored the use of imagined speech with semantically meaningful words for subject identification, most have relied on additional visual or auditory cues. In this study, we introduce a cueless EEG-based imagined speech paradigm, where subjects imagine the pronunciation of semantically meaningful words without any external cues. This innovative approach addresses the limitations of prior methods by requiring subjects to select and imagine words from a predefined list naturally. The dataset comprises over 4,350 trials from 11 subjects across five sessions. We assess a variety of classification methods, including traditional machine learning techniques such as Support Vector Machines (SVM) and XGBoost, as well as time-series foundation models and deep learning architectures specifically designed for EEG classification, such as EEG Conformer and Shallow ConvNet. A session-based hold-out validation strategy was employed to ensure reliable evaluation and prevent data leakage. Our results demonstrate outstanding classification accuracy, reaching 97.93%. These findings highlight the potential of cueless EEG paradigms for secure and reliable subject identification in real-world applications, such as brain-computer interfaces (BCIs).",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T17:11:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2501.09700v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,5 +1,10 @@
 # Cs.Ma Export
 
+## Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides
+- **ID**: arxiv_2606.07316v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07316v2](http://arxiv.org/abs/2606.07316v2)
+
 ## Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
 - **ID**: arxiv_2606.14693v1
 - **Source**: ArXiv

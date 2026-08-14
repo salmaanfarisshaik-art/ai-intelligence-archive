@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.05018v3",
+  "schema_version": "1.0",
+  "name": "Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.05018v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.05018v3",
+    "updated": "2026-08-13T17:24:50Z",
+    "published": "2026-08-05T16:23:31Z",
+    "title": "Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load",
+    "summary": "Short-term load forecasting (STLF) plays a vital role in the electric power industry. It is relevant for critical infrastructure. STLF is no longer purely a performance and accuracy problem, because determinism, fail-safe handling, minimal-attack surface, and no dead code are software-engineering requirements rather than optional extras. This report describes results from a 41-day live challenge that evaluated an STLF pipeline for the aggregated German transmission-grid load. The STLF pipeline predicts the 24 hourly load values of a target day from European Network of Transmission System Operators for Electricity (ENTSO-E) data. It is based on the open-source Python library spotforecast2-safe, which tries to implement the EU-AI Act Requirements in Safety-Critical Environments by design. The STLF pipeline includes gap- and anomaly-aware data preprocessing, calendar and weather covariates, and a forecasting algorithm. Forecast quality is compared to the official ENTSO-E day-ahead forecast. The spotforecast2-safe pipeline beats the ENTSO-E baseline. In-context models show competitive performance. Transparent, deterministic, low-cost, and auditable local models (referred to as macl2l in this report) are competitive with more than 100-million-parameter large, energy-intensive pre-trained foundation models such as chronos-2. The challenge implementation, the submission history of all teams, and the archived leaderboard are publicly available.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T17:24:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.05018v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

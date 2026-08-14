@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.02024v4](http://arxiv.org/abs/2505.02024v4)
 
+## Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows
+- **ID**: arxiv_2505.04997v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
+
 ## On The Statistical Limits of Self-Improving Agents
 - **ID**: arxiv_2510.04399v3
 - **Source**: ArXiv
@@ -89,6 +94,11 @@
 - **ID**: arxiv_2604.23786v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23786v2](http://arxiv.org/abs/2604.23786v2)
+
+## Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für 
+- **ID**: arxiv_2604.23859v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23859v3](http://arxiv.org/abs/2604.23859v3)
 
 ## Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs
 - **ID**: arxiv_2604.27618v2
@@ -1015,6 +1025,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05018v2](http://arxiv.org/abs/2608.05018v2)
 
+## Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load
+- **ID**: arxiv_2608.05018v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05018v3](http://arxiv.org/abs/2608.05018v3)
+
 ## Item Response Theory for AI Safety
 - **ID**: arxiv_2608.05086v1
 - **Source**: ArXiv
@@ -1290,6 +1305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11195v1](http://arxiv.org/abs/2608.11195v1)
 
+## Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration
+- **ID**: arxiv_2608.11195v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11195v2](http://arxiv.org/abs/2608.11195v2)
+
 ## An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS
 - **ID**: arxiv_2608.12249v1
 - **Source**: ArXiv
@@ -1319,4 +1339,34 @@
 - **ID**: arxiv_2608.12304v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12304v1](http://arxiv.org/abs/2608.12304v1)
+
+## Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension
+- **ID**: arxiv_2608.13447v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13447v1](http://arxiv.org/abs/2608.13447v1)
+
+## A Unifying Perspective on Causal World Models: From Observations to Representations to Structure
+- **ID**: arxiv_2608.13456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13456v1](http://arxiv.org/abs/2608.13456v1)
+
+## MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination
+- **ID**: arxiv_2608.13476v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13476v1](http://arxiv.org/abs/2608.13476v1)
+
+## AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)
+- **ID**: arxiv_2608.13492v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13492v1](http://arxiv.org/abs/2608.13492v1)
+
+## QuoteBench: How Matched Scores Can Hide Command-Path Failures
+- **ID**: arxiv_2608.13547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13547v1](http://arxiv.org/abs/2608.13547v1)
+
+## OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+- **ID**: arxiv_2608.13558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13558v1](http://arxiv.org/abs/2608.13558v1)
 

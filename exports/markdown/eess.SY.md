@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02599v1](http://arxiv.org/abs/2608.02599v1)
 
+## AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models
+- **ID**: arxiv_2608.13472v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13472v1](http://arxiv.org/abs/2608.13472v1)
+

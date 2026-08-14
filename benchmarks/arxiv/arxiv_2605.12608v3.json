@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12608v3",
+  "schema_version": "1.0",
+  "name": "A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12608v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12608v3",
+    "updated": "2026-08-13T16:42:16Z",
+    "published": "2026-05-12T18:01:00Z",
+    "title": "A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline",
+    "summary": "Object detection in adverse weather is critical for the safety of autonomous vehicles; however, the scarcity of labelled, real-world foggy data remains a significant bottleneck. In this paper, we propose Clear2Fog (C2F), an end-to-end, physics-based pipeline that simulates fog for clear-weather datasets under a unified camera and LiDAR framework. C2F combines monocular depth estimation with a novel atmospheric light estimation method to improve the physical consistency of synthetic fog generation while reducing structural artefacts and chromatic biases observed in existing frameworks. Utilising a training set of 270,000 images from the Waymo Open Dataset, we conduct an extensive data efficiency study to investigate whether environmental diversity can reduce dataset scale requirements and improve model generalisation under varying fog conditions. Our findings reveal that models trained on mixed-density fog datasets at 75% scale achieve performance that is not statistically different from those trained on fixed-density datasets at 100% scale, reducing synthetic training data requirements by 25%. We observe that this efficiency trend is consistent across two representative detector architectures. Furthermore, we investigate the sim-to-real transfer by using C2F-generated data as a pre-training foundation before fine-tuning on real-world fog data. We demonstrate that, within the evaluated settings, a relative 10x increase in the default fine-tuning learning rate reduces the negative transfer caused by standard fine-tuning, resulting in an absolute increase of up to 0.0117 mAP beyond the real-only baseline. Overall, this work demonstrates the value of diverse synthetic fog as a pre-training tool for real-world adaptation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T16:42:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12608v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

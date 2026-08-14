@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13455v1",
+  "schema_version": "1.0",
+  "name": "Evaluation of Clinically Steerable Retinal Image Generation from Foundation Model Latent Spaces",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13455v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13455v1",
+    "updated": "2026-08-13T16:40:26Z",
+    "published": "2026-08-13T16:40:26Z",
+    "title": "Evaluation of Clinically Steerable Retinal Image Generation from Foundation Model Latent Spaces",
+    "summary": "Medical foundation models learn latent representations of clinically meaningful phenotypes, yet their ability to support controllable image generation remains largely unexplored. We evaluate four retinal foundation models within the representation tokenizer framework and examine whether demographic and clinical information encoded in latent representations from foundation models is preserved during synthetic image generation. We show that generated representations and images faithfully inherit phenotype information when evaluated within their originating foundation models, consistently outperforming conventional latent diffusion on multiple downstream prediction tasks. However, these gains largely disappear when evaluated using classifiers trained on real images, revealing a previously uncharacterised synthetic-to-real representation gap. These findings demonstrate that foundation-model latent spaces provide a powerful substrate for controllable retinal synthesis while highlighting the need to better align synthetic representations with real-image distributions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T16:40:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13455v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

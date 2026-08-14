@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01463v2](http://arxiv.org/abs/2604.01463v2)
 
+## SpatialVAM:Spatial-Aware Multi-View Video Diffusion as a Data-Efficient Robot Policy
+- **ID**: arxiv_2604.03181v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.03181v2](http://arxiv.org/abs/2604.03181v2)
+
 ## Mana: Dexterous Manipulation of Articulated Tools
 - **ID**: arxiv_2606.13677v1
 - **Source**: ArXiv
@@ -239,4 +244,9 @@
 - **ID**: arxiv_2608.12198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12198v1](http://arxiv.org/abs/2608.12198v1)
+
+## HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
+- **ID**: arxiv_2608.13555v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13555v1](http://arxiv.org/abs/2608.13555v1)
 

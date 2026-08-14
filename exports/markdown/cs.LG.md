@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2405.16440v2](http://arxiv.org/abs/2405.16440v2)
 
+## Cueless EEG imagined speech for subject identification: dataset and benchmarks
+- **ID**: arxiv_2501.09700v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2501.09700v2](http://arxiv.org/abs/2501.09700v2)
+
 ## Humanity's Last Exam
 - **ID**: arxiv_2501.14249v11
 - **Source**: ArXiv
@@ -745,6 +750,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09828v1](http://arxiv.org/abs/2608.09828v1)
 
+## Critic-Free Pretraining for Efficient Online Reinforcement Learning Fine-Tuning
+- **ID**: arxiv_2608.10473v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10473v2](http://arxiv.org/abs/2608.10473v2)
+
 ## Two-stage Odd Residual Flows for Mean-Preserving Probabilistic Time Series Forecasting
 - **ID**: arxiv_2608.11114v1
 - **Source**: ArXiv
@@ -779,4 +789,34 @@
 - **ID**: arxiv_2608.12307v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12307v1](http://arxiv.org/abs/2608.12307v1)
+
+## Concept Drift Detection and Adaptive Retraining of Malware Classification Models
+- **ID**: arxiv_2608.13465v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13465v1](http://arxiv.org/abs/2608.13465v1)
+
+## Synthetic Persona Pretraining: Alignment from Token Zero
+- **ID**: arxiv_2608.13482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13482v1](http://arxiv.org/abs/2608.13482v1)
+
+## Intern-S2-Preview: Scientific Agentic Foundation Model
+- **ID**: arxiv_2608.13505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13505v1](http://arxiv.org/abs/2608.13505v1)
+
+## Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology
+- **ID**: arxiv_2608.13518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13518v1](http://arxiv.org/abs/2608.13518v1)
+
+## The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity
+- **ID**: arxiv_2608.13520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13520v1](http://arxiv.org/abs/2608.13520v1)
+
+## Vero: Can AI Agents Build Formally Verified Software Repositories?
+- **ID**: arxiv_2608.13522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13522v1](http://arxiv.org/abs/2608.13522v1)
 

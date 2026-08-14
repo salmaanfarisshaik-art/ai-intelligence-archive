@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13458v1",
+  "schema_version": "1.0",
+  "name": "Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13458v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13458v1",
+    "updated": "2026-08-13T16:41:57Z",
+    "published": "2026-08-13T16:41:57Z",
+    "title": "Fine-Grained Action Recognition with Cross-Attentive Latent Sparse Experts",
+    "summary": "Fine-grained human action recognition (FHAR) must distinguish visually similar actions that differ mainly in body configuration, timing, or local appearance. RGB representations retain visual context but often suppress joint-level geometry, whereas skeleton representations encode kinematics but discard dense spatial detail. We introduce FineX, which factorizes fine-grained cues into RGB appearance, pose heatmap geometry, and skeletal-graph topology. Pairwise cross-attention enables symmetric, stream-preserving information exchange, followed by a streamwise latent sparse Mixture-of-Experts that routes each representation to a content-dependent subset of shared experts, regularized by a load-balancing objective. FineX achieves state-of-the-art results on Gym99, Gym288, and Diving48. On the long-tailed Gym288, it raises mean class accuracy from 68.6% to 76.2% (+7.6 points) without textual supervision or large-scale vision-language pre-training, demonstrating the benefit of structured visual-pose-graph fusion and conditional expert refinement for FHAR.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T16:41:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13458v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

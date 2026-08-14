@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13476v1",
+  "schema_version": "1.0",
+  "name": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13476v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13476v1",
+    "updated": "2026-08-13T17:00:08Z",
+    "published": "2026-08-13T17:00:08Z",
+    "title": "MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination",
+    "summary": "We present Multi-Agent Reasoning and Coordination (MARC), an open-source framework that replaces monolithic LLM prompting with deterministic multi-agent orchestration for clinical reasoning. MARC coordinates role-specialized agents for extraction, reasoning, answer generation, and evaluation, with explicit context passing and traceable intermediate outputs, enabling stage-wise failure attribution. We additionally introduce a Decomposer module that generates task-specific agent prompts from a plain-language description, eliminating manual prompt engineering. The framework supports both API-based and local CPU-compatible deployments and is entirely configurable via YAML, without code modifications. MARC is designed to be model-agnostic, interpretable, and accessible to clinical domain experts without programming expertise. The full framework is available at https://github.com/Penn-RAIL/MARC-v1.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T17:00:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13476v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

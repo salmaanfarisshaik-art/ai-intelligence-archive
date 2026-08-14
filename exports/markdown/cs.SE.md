@@ -135,3 +135,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07446v1](http://arxiv.org/abs/2608.07446v1)
 
+## CAPRI: Contract-Aware Proof Repair for Isabelle
+- **ID**: arxiv_2608.13459v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13459v1](http://arxiv.org/abs/2608.13459v1)
+

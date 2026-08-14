@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2505.12532v3",
+  "schema_version": "1.0",
+  "name": "Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets for Vision",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.12532v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.12532v3",
+    "updated": "2026-08-13T17:10:33Z",
+    "published": "2025-05-18T20:20:32Z",
+    "title": "Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets for Vision",
+    "summary": "Efficiently adapting large pretrained models is critical under tight compute and memory budgets. While Parameter-Efficient Fine-Tuning (PEFT) methods like LoRA achieve efficiency through low-rank updates, their discrete rank constraint limits fine-grained parameter control and confines adaptations to low-dimensional subspaces. We propose Wavelet Fine-Tuning (WaveFT), which learns sparse updates in the wavelet domain of weight matrices, enabling fine-grained control over trainable parameters well below LoRA's minimum rank. Wavelet bases provide semi-local receptive fields that aggregate spatially coherent gradients, offering better coverage than direct weight sparsity (SHiRA) without the destructive interference of global Fourier bases (FourierFT). We provide theoretical analysis showing: (i) sparse methods achieve high-rank updates, avoiding LoRA's subspace bottleneck and enabling higher representational capacity, and (ii) a gradient coverage framework explaining when WaveFT is preferable. We perform experiments across text-to-image generation, image classification, and language understanding. WaveFT demonstrates state-of-the-art results among PEFT methods for vision tasks, where wavelets effectively capture sparse gradient structure through improved coverage, while performing comparably on NLP tasks. WaveFT has officially been included in the Hugging Face PEFT library (huggingface.co/docs/peft/en/package_reference/waveft).",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-14T04:07:08Z",
+  "last_updated": "2026-08-13T17:10:33Z",
+  "links": {
+    "related_models": [
+      "docs/peft"
+    ],
+    "related_papers": [
+      "2505.12532v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
