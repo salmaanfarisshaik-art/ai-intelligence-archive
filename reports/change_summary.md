@@ -1,24 +1,64 @@
 # Change Summary
 
-**Total Changes:** 66
+**Total Changes:** 106
 
 ## Added
 None
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
+- data/metadata/tag_index.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- exports/csv/all_entities.csv
+- exports/csv/text-generation.csv
+- exports/json/all_entities.json
+- exports/json/text-generation.json
+- exports/markdown/text-generation.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/eleutherai/hf_EleutherAI_pythia-160m.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/hmellor/hf_hmellor_tiny-random-LlamaForCausalLM.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
+- models/qwen/hf_Qwen_Qwen-72B.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md

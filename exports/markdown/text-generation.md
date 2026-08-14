@@ -1178,7 +1178,7 @@
 - **ID**: hf_Qwen_Qwen2.5-7B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
-- **Tags**: arxiv:2309.00071, arxiv:2407.10671, base_model:Qwen/Qwen2.5-7B, base_model:finetune:Qwen/Qwen2.5-7B, chat, conversational, deploy:azure, en, endpoints_compatible, eval-results, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2309.00071, arxiv:2407.10671, base_model:Qwen/Qwen2.5-7B, base_model:finetune:Qwen/Qwen2.5-7B, chat, conversational, deploy:azure, deploy:sagemaker, en, endpoints_compatible, eval-results, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen2.5-7B-Instruct-1M
 - **ID**: hf_Qwen_Qwen2.5-7B-Instruct-1M

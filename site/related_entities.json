@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:13:33Z",
+  "generated_at": "2026-08-14T08:15:20Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -871,6 +871,7 @@
       "model_nvidia_qwen3_32b_nvfp4",
       "model_qwen_qwen3_32b_awq",
       "model_qwen_qwen3_32b_fp8",
+      "model_qwen_qwen3_32b_gguf",
       "model_redhatai_qwen3_32b_fp8_dynamic",
       "model_unsloth_qwen3_32b_gguf"
     ],
@@ -1157,6 +1158,9 @@
     ],
     "hf_TrevorJS_gemma-4-E2B-it-uncensored": [
       "model_trevorjs_gemma_4_e2b_it_uncensored_gguf"
+    ],
+    "hf_TsinghuaC3I_UltraMedical": [
+      "model_tsinghuac3i_llama_3_8b_ultramedical"
     ],
     "hf_UAzimov_uzbek-instruct-llm": [
       "model_uzlm_alloma_3b_instruct"
@@ -1666,6 +1670,9 @@
     "hf_ds4sd_SynthFormulaNet": [
       "model_ibm_granite_granite_docling_258m"
     ],
+    "hf_ealvaradob_phishing-dataset": [
+      "model_acuteshrewdsecurity_llama_phishsense_1b"
+    ],
     "hf_elinas_Chronos-Gold-12B-1.0": [
       "model_inflatebot_mn_12b_mag_mell_r1"
     ],
@@ -1758,6 +1765,7 @@
     ],
     "hf_google_gemma-3-270m-it": [
       "model_farbodtavakkoli_otel_llm_270m_it",
+      "model_unsloth_gemma_3_270m_it",
       "model_unsloth_gemma_3_270m_it_gguf"
     ],
     "hf_google_gemma-3-27b-it": [
@@ -2040,6 +2048,9 @@
     ],
     "hf_meta-llama_Llama-4-Scout-17B-16E": [
       "model_mlx_community_meta_llama_llama_4_scout_17b_16e_8bit"
+    ],
+    "hf_meta-llama_Llama-Guard-3-1B": [
+      "model_acuteshrewdsecurity_llama_phishsense_1b"
     ],
     "hf_meta-llama_Meta-Llama-3-70B": [
       "model_dphn_dolphin_2_9_1_llama_3_70b",
@@ -2934,6 +2945,10 @@
       "hf_cc100",
       "hf_oscar",
       "hf_wikipedia"
+    ],
+    "model_acuteshrewdsecurity_llama_phishsense_1b": [
+      "hf_ealvaradob_phishing-dataset",
+      "hf_meta-llama_Llama-Guard-3-1B"
     ],
     "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4": [
       "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored"
@@ -5404,6 +5419,9 @@
     "model_qwen_qwen3_32b_fp8": [
       "hf_Qwen_Qwen3-32B"
     ],
+    "model_qwen_qwen3_32b_gguf": [
+      "hf_Qwen_Qwen3-32B"
+    ],
     "model_qwen_qwen3_4b": [
       "hf_Qwen_Qwen3-4B-Base"
     ],
@@ -5824,6 +5842,9 @@
     "model_trevorjs_gemma_4_e2b_it_uncensored_gguf": [
       "hf_TrevorJS_gemma-4-E2B-it-uncensored"
     ],
+    "model_tsinghuac3i_llama_3_8b_ultramedical": [
+      "hf_TsinghuaC3I_UltraMedical"
+    ],
     "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf": [
       "hf_Glint-Research_Fable-5-traces",
       "hf_angrygiraffe_claude-opus-4.6-4.7-reasoning-8.7k",
@@ -5873,6 +5894,9 @@
     ],
     "model_unsloth_gemma_3_1b_pt": [
       "hf_google_gemma-3-1b-pt"
+    ],
+    "model_unsloth_gemma_3_270m_it": [
+      "hf_google_gemma-3-270m-it"
     ],
     "model_unsloth_gemma_3_270m_it_gguf": [
       "hf_google_gemma-3-270m-it"

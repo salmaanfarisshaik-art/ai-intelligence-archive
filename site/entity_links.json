@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:13:33Z",
+  "generated_at": "2026-08-14T08:15:20Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -260,6 +260,16 @@
       "source_id": "model_abeja_gpt_neox_japanese_2_7b",
       "target_id": "hf_wikipedia",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_acuteshrewdsecurity_llama_phishsense_1b",
+      "target_id": "hf_ealvaradob_phishing-dataset",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_acuteshrewdsecurity_llama_phishsense_1b",
+      "target_id": "hf_meta-llama_Llama-Guard-3-1B",
+      "type": "derived_from"
     },
     {
       "source_id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
@@ -5777,6 +5787,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_qwen_qwen3_32b_gguf",
+      "target_id": "hf_Qwen_Qwen3-32B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_qwen_qwen3_4b",
       "target_id": "hf_Qwen_Qwen3-4B-Base",
       "type": "derived_from"
@@ -6677,6 +6692,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_tsinghuac3i_llama_3_8b_ultramedical",
+      "target_id": "hf_TsinghuaC3I_UltraMedical",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf",
       "target_id": "hf_Glint-Research_Fable-5-traces",
       "type": "trained_on"
@@ -6774,6 +6794,11 @@
     {
       "source_id": "model_unsloth_gemma_3_1b_pt",
       "target_id": "hf_google_gemma-3-1b-pt",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_gemma_3_270m_it",
+      "target_id": "hf_google_gemma-3-270m-it",
       "type": "derived_from"
     },
     {
