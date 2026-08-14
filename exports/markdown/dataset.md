@@ -866,7 +866,7 @@
 - **ID**: hf_ds_6a615c95fb10b1093e0ea9ed
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
-- **Tags**: arxiv:2402.19173, code, format:parquet, language:code, language_creators:crowdsourced, language_creators:expert-generated, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:text-generation
+- **Tags**: arxiv:2402.19173, code, language:code, language_creators:crowdsourced, language_creators:expert-generated, license:odc-by, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:text-generation
 
 ## gfdg34fsd/ngrik
 - **ID**: hf_ds_6a67d0a568d9afa362507f38

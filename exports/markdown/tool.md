@@ -195,6 +195,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
 
+## unsloth
+- **ID**: gh_725205304
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/unslothai/unsloth](https://github.com/unslothai/unsloth)
+
 ## ragflow
 - **ID**: gh_730534580
 - **Source**: GitHub Trending
