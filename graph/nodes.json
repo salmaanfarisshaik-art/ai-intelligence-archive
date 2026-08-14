@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:14:31.864551+00:00",
+  "generated_at": "2026-08-14T09:59:33.563079+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -122300,6 +122300,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_RadixArk_Kimi-K3-DSpark",
+      "label": "RadixArk/Kimi-K3-DSpark"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_RedHatAI_Apertus-70B-Instruct-2509-quantized.w4a16",
       "label": "RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16"
     },
@@ -123380,6 +123385,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_65036d0869558920757dd01e",
+      "label": "EleutherAI/hendrycks_math"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_655c982e29cdfd1284e696f5",
       "label": "hallucinations-leaderboard/results"
     },
@@ -123942,6 +123952,11 @@
       "category": "dataset",
       "id": "hf_ds_6a615c95fb10b1093e0ea9ed",
       "label": "HuggingFaceCode/stack-v3-train"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a67d0a568d9afa362507f38",
+      "label": "gfdg34fsd/ngrik"
     },
     {
       "category": "dataset",
@@ -131510,6 +131525,11 @@
     },
     {
       "category": "models",
+      "id": "model_acuteshrewdsecurity_llama_phishsense_1b",
+      "label": "AcuteShrewdSecurity/Llama-Phishsense-1B"
+    },
+    {
+      "category": "models",
       "id": "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4",
       "label": "AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4"
     },
@@ -136715,6 +136735,11 @@
     },
     {
       "category": "models",
+      "id": "model_qwen_qwen3_32b_gguf",
+      "label": "Qwen/Qwen3-32B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_qwen_qwen3_4b",
       "label": "Qwen/Qwen3-4B"
     },
@@ -137750,6 +137775,11 @@
     },
     {
       "category": "models",
+      "id": "model_trl_internal_testing_tiny_optforcausallm",
+      "label": "trl-internal-testing/tiny-OPTForCausalLM"
+    },
+    {
+      "category": "models",
       "id": "model_trl_internal_testing_tiny_phi3forcausallm",
       "label": "trl-internal-testing/tiny-Phi3ForCausalLM"
     },
@@ -137792,6 +137822,11 @@
       "category": "models",
       "id": "model_trl_internal_testing_tiny_remoteforcausallm",
       "label": "trl-internal-testing/tiny-RemoteForCausalLM"
+    },
+    {
+      "category": "models",
+      "id": "model_tsinghuac3i_llama_3_8b_ultramedical",
+      "label": "TsinghuaC3I/Llama-3-8B-UltraMedical"
     },
     {
       "category": "models",
@@ -137907,6 +137942,11 @@
       "category": "models",
       "id": "model_unsloth_gemma_3_1b_pt",
       "label": "unsloth/gemma-3-1b-pt"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_gemma_3_270m_it",
+      "label": "unsloth/gemma-3-270m-it"
     },
     {
       "category": "models",
@@ -138402,6 +138442,11 @@
       "category": "models",
       "id": "model_vectionlabs_vl_1_coder",
       "label": "vectionlabs/VL-1-Coder"
+    },
+    {
+      "category": "models",
+      "id": "model_vibevoice_vibevoice_1_5b",
+      "label": "vibevoice/VibeVoice-1.5B"
     },
     {
       "category": "models",
@@ -435585,5 +435630,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87116
+  "total_nodes": 87125
 }

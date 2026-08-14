@@ -1625,6 +1625,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3Guard-Gen-8B](https://huggingface.co/Qwen/Qwen3Guard-Gen-8B)
 
+## RadixArk/Kimi-K3-DSpark
+- **ID**: hf_RadixArk_Kimi-K3-DSpark
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/RadixArk/Kimi-K3-DSpark](https://huggingface.co/RadixArk/Kimi-K3-DSpark)
+- **Tags**: custom_code, dflash, dspark, feature-extraction, long-context, qwen3, region:us, safetensors, sglang, specforge, speculative-decoding, text-generation, text-generation-inference, transformers
+
 ## RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16
 - **ID**: hf_RedHatAI_Apertus-70B-Instruct-2509-quantized.w4a16
 - **Source**: Hugging Face

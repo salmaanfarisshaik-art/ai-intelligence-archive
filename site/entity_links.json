@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:15:20Z",
+  "generated_at": "2026-08-14T10:00:33Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -239,6 +239,11 @@
     {
       "source_id": "hf_unsloth_Qwen3-Coder-Next-GGUF",
       "target_id": "hf_Qwen_Qwen3-Coder-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_0xsero_deepseek_v4_flash_0731_spark",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
       "type": "derived_from"
     },
     {
@@ -837,6 +842,21 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_bartowski_phi_3_5_mini_instruct_gguf",
       "target_id": "hf_microsoft_Phi-3.5-mini-instruct",
       "type": "derived_from"
@@ -1265,6 +1285,11 @@
       "source_id": "model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit",
       "target_id": "hf_nvidia_nemotron-pre-training-datasets",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_cyankiwi_ornith_1_0_35b_awq_fp8",
+      "target_id": "hf_deepreinforce-ai_Ornith-1.0-35B",
+      "type": "derived_from"
     },
     {
       "source_id": "model_cyankiwi_ornith_1_0_9b_awq_int4",
@@ -1939,6 +1964,11 @@
     {
       "source_id": "model_ggml_org_gpt_oss_20b_gguf",
       "target_id": "hf_openai_gpt-oss-20b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
     },
     {
@@ -4234,6 +4264,11 @@
     {
       "source_id": "model_nvidia_minimax_m3_nvfp4",
       "target_id": "hf_MiniMaxAI_MiniMax-M3",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_mistral_medium_3_5_128b_nvfp4",
+      "target_id": "hf_mistralai_Mistral-Medium-3.5-128B",
       "type": "derived_from"
     },
     {
@@ -7069,6 +7104,21 @@
     {
       "source_id": "model_unsloth_nemotron_3_nano_30b_a3b",
       "target_id": "hf_nvidia_Nemotron-Science-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
       "type": "trained_on"
     },
     {

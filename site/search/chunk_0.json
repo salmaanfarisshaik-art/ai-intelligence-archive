@@ -2099,6 +2099,13 @@
       "score": 1.5
     }
   ],
+  "00576": [
+    {
+      "entity_id": "dataset_opengalaxea_galaxea_open_world_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "00582": [
     {
       "entity_id": "dataset_nyu_mll_blimp",
@@ -7271,6 +7278,11 @@
       "score": 6.5
     },
     {
+      "entity_id": "model_0xsero_deepseek_v4_flash_0731_spark",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128",
       "match_type": "exact",
       "score": 5.0
@@ -10035,6 +10047,13 @@
       "entity_id": "alpaca_-6426419112177551384",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "0xsero": [
+    {
+      "entity_id": "model_0xsero_deepseek_v4_flash_0731_spark",
+      "match_type": "exact",
+      "score": 2.0
     }
   ]
 }

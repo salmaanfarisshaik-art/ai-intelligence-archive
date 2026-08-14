@@ -9,7 +9,7 @@
   "private": false,
   "sha": "542170ec9335043fcc13883d424952f925103bba",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tVietnam Medical Noise Dataset\n\t\n\nBộ dữ liệu tiếng ồn môi trường và y tế tiếng Việt (~442 giờ audio, định dạng trực tiếp .wav kèm file metadata.parquet ở root).\n\n\t\n\t\t\n\t\n\t\n\t\tThông tin dữ liệu:\n\t\n\n\nFormat Audio: .WAV\nSample Rate: 16,000 Hz\nChannels: 1 (Mono)\nSubtype: PCM_16\nMetadata: Duy nhất file metadata.parquet ở root.\n\n\n\t\n\t\t\n\t\n\t\n\t\tCấu trúc đường dẫn & tên file:\n\t\n\n<type_of_noise>/<index_folder>/<type_of_noise>-<folder>-<index_file>.wav\n(Ví dụ:… See the full description on the dataset page: https://huggingface.co/datasets/manhcuong2005/vietnam_medical_noise_dataset.",
-  "downloads": 46305,
+  "downloads": 46312,
   "tags": [
     "size_categories:10K<n<100K",
     "modality:audio",

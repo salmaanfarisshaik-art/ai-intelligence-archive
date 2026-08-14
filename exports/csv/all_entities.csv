@@ -24458,6 +24458,7 @@ hf_Qwen_Qwen3-Reranker-8B,Qwen/Qwen3-Reranker-8B,text-generation,Hugging Face,,h
 hf_Qwen_Qwen3Guard-Gen-0.6B,Qwen/Qwen3Guard-Gen-0.6B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3Guard-Gen-0.6B
 hf_Qwen_Qwen3Guard-Gen-4B,Qwen/Qwen3Guard-Gen-4B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3Guard-Gen-4B
 hf_Qwen_Qwen3Guard-Gen-8B,Qwen/Qwen3Guard-Gen-8B,text-generation,Hugging Face,,https://huggingface.co/Qwen/Qwen3Guard-Gen-8B
+hf_RadixArk_Kimi-K3-DSpark,RadixArk/Kimi-K3-DSpark,text-generation,Hugging Face,custom_code|dflash|dspark|feature-extraction|long-context|qwen3|region:us|safetensors|sglang|specforge|speculative-decoding|text-generation|text-generation-inference|transformers,https://huggingface.co/RadixArk/Kimi-K3-DSpark
 hf_RedHatAI_Apertus-70B-Instruct-2509-quantized.w4a16,RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16,text-generation,Hugging Face,,https://huggingface.co/RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16
 hf_RedHatAI_DeepSeek-Coder-V2-Lite-Instruct-FP8,RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8,text-generation,Hugging Face,,https://huggingface.co/RedHatAI/DeepSeek-Coder-V2-Lite-Instruct-FP8
 hf_RedHatAI_DeepSeek-V2.5-1210-FP8,RedHatAI/DeepSeek-V2.5-1210-FP8,text-generation,Hugging Face,,https://huggingface.co/RedHatAI/DeepSeek-V2.5-1210-FP8
@@ -24674,6 +24675,7 @@ hf_ds_64980085fa9591cb3dc4d378,isaacus/open-australian-legal-corpus,dataset,Hugg
 hf_ds_64a63fbb85638d0e698f055f,Symato/cc,dataset,HuggingFace Datasets,language:vi|license:mit|region:us|size_categories:1K<n<10K,https://huggingface.co/datasets/Symato/cc
 hf_ds_64d670b5050438e3b95356bf,rtrm/debug,dataset,HuggingFace Datasets,format:json|library:datasets|library:mlcroissant|library:pandas|library:polars|modality:text|region:us|size_categories:n<1K,https://huggingface.co/datasets/rtrm/debug
 hf_ds_64edb45c5c9245397fc83a26,jat-project/jat-dataset,dataset,HuggingFace Datasets,annotations_creators:found|annotations_creators:machine-generated|arxiv:2303.03915|arxiv:2402.09844|format:parquet|generalist-agent|imitation-learning|library:dask|library:datasets|library:mlcroissant|library:polars|license:apache-2.0|modality:image|modality:text|modality:timeseries|question-answering|region:us|reinforcement-learning|size_categories:100M<n<1B|source_datasets:conceptual-captions|source_datasets:ok-vqa|source_datasets:oscar|task_categories:question-answering|task_categories:reinforcement-learning|task_categories:text-generation|text-generation,https://huggingface.co/datasets/jat-project/jat-dataset
+hf_ds_65036d0869558920757dd01e,EleutherAI/hendrycks_math,dataset,HuggingFace Datasets,format:parquet|library:datasets|library:mlcroissant|library:pandas|library:polars|license:mit|modality:text|region:us|size_categories:10K<n<100K,https://huggingface.co/datasets/EleutherAI/hendrycks_math
 hf_ds_655c982e29cdfd1284e696f5,hallucinations-leaderboard/results,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/hallucinations-leaderboard/results
 hf_ds_657d7797bc9bceccf9d6f273,jat-project/jat-dataset-tokenized,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|modality:timeseries|region:us|size_categories:10M<n<100M,https://huggingface.co/datasets/jat-project/jat-dataset-tokenized
 hf_ds_657f09ec3e3b5bea663e53c3,banned-historical-archives/banned-historical-archives,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/banned-historical-archives/banned-historical-archives
@@ -24787,6 +24789,7 @@ hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFac
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
 hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:audio|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/fujinchu/imgbed
 hf_ds_6a615c95fb10b1093e0ea9ed,HuggingFaceCode/stack-v3-train,dataset,HuggingFace Datasets,arxiv:2402.19173|code|format:parquet|language:code|language_creators:crowdsourced|language_creators:expert-generated|library:dask|library:datasets|library:mlcroissant|library:polars|license:odc-by|modality:tabular|modality:text|multilinguality:multilingual|region:us|size_categories:100M<n<1B|task_categories:text-generation,https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train
+hf_ds_6a67d0a568d9afa362507f38,gfdg34fsd/ngrik,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/gfdg34fsd/ngrik
 hf_ds_ACCC1380_private-model,ACCC1380/private-model,dataset,Hugging Face,,https://huggingface.co/datasets/ACCC1380/private-model
 hf_ds_ADSKAILab_Zero-To-CAD-1m,ADSKAILab/Zero-To-CAD-1m,dataset,Hugging Face,,https://huggingface.co/datasets/ADSKAILab/Zero-To-CAD-1m
 hf_ds_AI-Growth-Lab_patents_claims_1.5m_traim_test,AI-Growth-Lab/patents_claims_1.5m_traim_test,dataset,Hugging Face,,https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
@@ -26300,6 +26303,7 @@ model_01_ai_yi_6b_chat,01-ai/Yi-6B-Chat,models,,,
 model_aaditya_llama3_openbiollm_8b,aaditya/Llama3-OpenBioLLM-8B,models,,,
 model_abeja_gpt_neox_japanese_2_7b,abeja/gpt-neox-japanese-2.7b,models,,,
 model_ace_step_acestep_5hz_lm_4b,ACE-Step/acestep-5Hz-lm-4B,models,,,
+model_acuteshrewdsecurity_llama_phishsense_1b,AcuteShrewdSecurity/Llama-Phishsense-1B,models,,,
 model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4,AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4,models,,,
 model_aeon_7_gemma_4_e4b_deckard_heretic_nvfp4,AEON-7/Gemma-4-E4B-DECKARD-HERETIC-NVFP4,models,,,
 model_aeon_7_ornith_1_0_35b_aeon_ultimate_uncensored_bf16,AEON-7/Ornith-1.0-35B-AEON-Ultimate-Uncensored-BF16,models,,,
@@ -27341,6 +27345,7 @@ model_qwen_qwen3_30b_a3b_thinking_2507_fp8,Qwen/Qwen3-30B-A3B-Thinking-2507-FP8,
 model_qwen_qwen3_32b,Qwen/Qwen3-32B,models,,,
 model_qwen_qwen3_32b_awq,Qwen/Qwen3-32B-AWQ,models,,,
 model_qwen_qwen3_32b_fp8,Qwen/Qwen3-32B-FP8,models,,,
+model_qwen_qwen3_32b_gguf,Qwen/Qwen3-32B-GGUF,models,,,
 model_qwen_qwen3_4b,Qwen/Qwen3-4B,models,,,
 model_qwen_qwen3_4b_awq,Qwen/Qwen3-4B-AWQ,models,,,
 model_qwen_qwen3_4b_base,Qwen/Qwen3-4B-Base,models,,,
@@ -27548,6 +27553,7 @@ model_trl_internal_testing_tiny_nemotronhforcausallm_nano,trl-internal-testing/t
 model_trl_internal_testing_tiny_nemotronhforcausallm_super,trl-internal-testing/tiny-NemotronHForCausalLM-super,models,,,
 model_trl_internal_testing_tiny_nemotronhforcausallm_ultra,trl-internal-testing/tiny-NemotronHForCausalLM-ultra,models,,,
 model_trl_internal_testing_tiny_olmo3forcausallm,trl-internal-testing/tiny-Olmo3ForCausalLM,models,,,
+model_trl_internal_testing_tiny_optforcausallm,trl-internal-testing/tiny-OPTForCausalLM,models,,,
 model_trl_internal_testing_tiny_phi3forcausallm,trl-internal-testing/tiny-Phi3ForCausalLM,models,,,
 model_trl_internal_testing_tiny_phi3forcausallm_3,trl-internal-testing/tiny-Phi3ForCausalLM-3,models,,,
 model_trl_internal_testing_tiny_phi3forcausallm_3_5,trl-internal-testing/tiny-Phi3ForCausalLM-3.5,models,,,
@@ -27557,6 +27563,7 @@ model_trl_internal_testing_tiny_qwen3forcausallm_instruct_2507,trl-internal-test
 model_trl_internal_testing_tiny_qwen3moeforcausallm,trl-internal-testing/tiny-Qwen3MoeForCausalLM,models,,,
 model_trl_internal_testing_tiny_random_llamaforcausallm,trl-internal-testing/tiny-random-LlamaForCausalLM,models,,,
 model_trl_internal_testing_tiny_remoteforcausallm,trl-internal-testing/tiny-RemoteForCausalLM,models,,,
+model_tsinghuac3i_llama_3_8b_ultramedical,TsinghuaC3I/Llama-3-8B-UltraMedical,models,,,
 model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf,Ttimofeyka/MistralRP-Noromaid-NSFW-Mistral-7B-GGUF,models,,,
 model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf,tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF,models,,,
 model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf,tvall43/Qwen3.6-14B-A3B-VibeForged-v2-GGUF,models,,,
@@ -27580,6 +27587,7 @@ model_unsloth_gemma_2_9b_it,unsloth/gemma-2-9b-it,models,,,
 model_unsloth_gemma_3_1b_it,unsloth/gemma-3-1b-it,models,,,
 model_unsloth_gemma_3_1b_it_gguf,unsloth/gemma-3-1b-it-GGUF,models,,,
 model_unsloth_gemma_3_1b_pt,unsloth/gemma-3-1b-pt,models,,,
+model_unsloth_gemma_3_270m_it,unsloth/gemma-3-270m-it,models,,,
 model_unsloth_gemma_3_270m_it_gguf,unsloth/gemma-3-270m-it-GGUF,models,,,
 model_unsloth_glm_4_5_air,unsloth/GLM-4.5-Air,models,,,
 model_unsloth_glm_4_5_air_gguf,unsloth/GLM-4.5-Air-GGUF,models,,,
@@ -27679,6 +27687,7 @@ model_vamsi_t5_paraphrase_paws,Vamsi/T5_Paraphrase_Paws,models,,,
 model_vcruz305_hy3_gguf,vcruz305/Hy3-GGUF,models,,,
 model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf,vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF,models,,,
 model_vectionlabs_vl_1_coder,vectionlabs/VL-1-Coder,models,,,
+model_vibevoice_vibevoice_1_5b,vibevoice/VibeVoice-1.5B,models,,,
 model_vicgalle_humanish_roleplay_llama_3_1_8b,vicgalle/Humanish-Roleplay-Llama-3.1-8B,models,,,
 model_vikhrmodels_vikhr_nemo_12b_instruct_r_21_09_24,Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24,models,,,
 model_vikhyatk_moondream2,vikhyatk/moondream2,models,,,

@@ -16259,6 +16259,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_opengalaxea_galaxea_open_world_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openmoss_team_omniaction",
       "match_type": "exact",
       "score": 1.5
@@ -27283,7 +27288,17 @@
       "score": 11.0
     },
     {
+      "entity_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "match_type": "exact",
+      "score": 9.5
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
+      "match_type": "exact",
+      "score": 9.5
+    },
+    {
+      "entity_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "match_type": "exact",
       "score": 9.5
     },
@@ -27324,6 +27339,11 @@
     },
     {
       "entity_id": "dataset_nvidia_nemotron_post_training_dataset_v2",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -32147,6 +32167,11 @@
     },
     {
       "entity_id": "dataset_jailbreakbench_jbb_behaviors",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_65036d0869558920757dd01e",
       "match_type": "exact",
       "score": 1.0
     },
@@ -52007,6 +52032,13 @@
       "score": 1.0
     }
   ],
+  "ngrik": [
+    {
+      "entity_id": "hf_ds_6a67d0a568d9afa362507f38",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "ngu": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -59857,6 +59889,11 @@
     },
     {
       "entity_id": "hf_ds_6a517a8032bfea14be5a68aa",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a67d0a568d9afa362507f38",
       "match_type": "exact",
       "score": 1.0
     },
@@ -84812,6 +84849,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_nvidia_mistral_medium_3_5_128b_nvfp4",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_nvidia_qwen3_235b_a22b_thinking_2507_nvfp4",
       "match_type": "exact",
       "score": 5.0
@@ -85446,7 +85488,17 @@
       "score": 13.0
     },
     {
+      "entity_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "match_type": "exact",
+      "score": 12.5
+    },
+    {
       "entity_id": "model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit",
+      "match_type": "exact",
+      "score": 12.5
+    },
+    {
+      "entity_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "match_type": "exact",
       "score": 12.5
     },
@@ -85479,6 +85531,11 @@
       "entity_id": "model_nvidia_nvidia_nemotron_3_ultra_550b_a55b_nvfp4",
       "match_type": "exact",
       "score": 8.5
+    },
+    {
+      "entity_id": "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "match_type": "exact",
+      "score": 8.0
     },
     {
       "entity_id": "model_maziyarpanahi_nvidia_nemotron_nano_12b_v2_gguf",
@@ -85707,6 +85764,11 @@
     },
     {
       "entity_id": "model_nvidia_minitron_8b_base",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_nvidia_mistral_medium_3_5_128b_nvfp4",
       "match_type": "exact",
       "score": 3.5
     },

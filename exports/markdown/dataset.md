@@ -184,6 +184,12 @@
 - **URL**: [https://huggingface.co/datasets/jat-project/jat-dataset](https://huggingface.co/datasets/jat-project/jat-dataset)
 - **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2303.03915, arxiv:2402.09844, format:parquet, generalist-agent, imitation-learning, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:image, modality:text, modality:timeseries, question-answering, region:us, reinforcement-learning, size_categories:100M<n<1B, source_datasets:conceptual-captions, source_datasets:ok-vqa, source_datasets:oscar, task_categories:question-answering, task_categories:reinforcement-learning, task_categories:text-generation, text-generation
 
+## EleutherAI/hendrycks_math
+- **ID**: hf_ds_65036d0869558920757dd01e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/EleutherAI/hendrycks_math](https://huggingface.co/datasets/EleutherAI/hendrycks_math)
+- **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:text, region:us, size_categories:10K<n<100K
+
 ## hallucinations-leaderboard/results
 - **ID**: hf_ds_655c982e29cdfd1284e696f5
 - **Source**: HuggingFace Datasets
@@ -861,6 +867,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
 - **Tags**: arxiv:2402.19173, code, format:parquet, language:code, language_creators:crowdsourced, language_creators:expert-generated, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:text-generation
+
+## gfdg34fsd/ngrik
+- **ID**: hf_ds_6a67d0a568d9afa362507f38
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/gfdg34fsd/ngrik](https://huggingface.co/datasets/gfdg34fsd/ngrik)
+- **Tags**: region:us
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

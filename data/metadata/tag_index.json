@@ -1004,6 +1004,7 @@
   "custom_code": [
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_microsoft_Phi-3.5-vision-instruct",
@@ -1171,6 +1172,9 @@
     "docker",
     "terraform"
   ],
+  "dflash": [
+    "hf_RadixArk_Kimi-K3-DSpark"
+  ],
   "digital-signatures": [
     "hf_ds_6785649a41a64e1582b8bb05"
   ],
@@ -1226,6 +1230,9 @@
   ],
   "ds4": [
     "hf_antirez_deepseek-v4-gguf"
+  ],
+  "dspark": [
+    "hf_RadixArk_Kimi-K3-DSpark"
   ],
   "dual-arm": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
@@ -1413,7 +1420,8 @@
   "feature-extraction": [
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
-    "hf_Qwen_Qwen3-Embedding-8B"
+    "hf_Qwen_Qwen3-Embedding-8B",
+    "hf_RadixArk_Kimi-K3-DSpark"
   ],
   "fine-tuned": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
@@ -1469,6 +1477,7 @@
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_663b7fd5a4152b77b637ba11",
@@ -3613,6 +3622,7 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
@@ -3688,6 +3698,7 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
     "hf_ds_65ce59255f233e28db20fe4f",
@@ -3747,6 +3758,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66674f5483de542b724d771e",
@@ -3781,6 +3793,7 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
@@ -3957,6 +3970,7 @@
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_645e3fcc43abb116540da202",
     "hf_ds_64a63fbb85638d0e698f055f",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_65a18a266e478287a038a6a6",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_6700058973753b82f145eb1d",
@@ -4045,6 +4059,9 @@
   ],
   "llama.cpp": [
     "hf_prism-ml_Bonsai-27B-gguf"
+  ],
+  "long-context": [
+    "hf_RadixArk_Kimi-K3-DSpark"
   ],
   "low-resource": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -4181,6 +4198,7 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_66212f29fb07c3e05ad0432e",
@@ -4539,6 +4557,7 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
@@ -4608,6 +4627,7 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
@@ -4648,6 +4668,7 @@
     "hf_ds_64a63fbb85638d0e698f055f",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_655c982e29cdfd1284e696f5",
     "hf_ds_657d7797bc9bceccf9d6f273",
     "hf_ds_657f09ec3e3b5bea663e53c3",
@@ -4761,6 +4782,7 @@
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a615c95fb10b1093e0ea9ed",
+    "hf_ds_6a67d0a568d9afa362507f38",
     "hf_facebook_opt-125m",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -4849,6 +4871,7 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
@@ -4917,6 +4940,9 @@
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B"
   ],
+  "sglang": [
+    "hf_RadixArk_Kimi-K3-DSpark"
+  ],
   "simulation": [
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
@@ -4956,6 +4982,7 @@
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_6374015cc3b104ef17a000f2",
+    "hf_ds_65036d0869558920757dd01e",
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66674f5483de542b724d771e",
@@ -5102,8 +5129,14 @@
   "source_datasets:oscar": [
     "hf_ds_64edb45c5c9245397fc83a26"
   ],
+  "specforge": [
+    "hf_RadixArk_Kimi-K3-DSpark"
+  ],
   "specimen": [
     "hf_ds_66674f5483de542b724d771e"
+  ],
+  "speculative-decoding": [
+    "hf_RadixArk_Kimi-K3-DSpark"
   ],
   "speech": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
@@ -5403,6 +5436,7 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
@@ -5462,6 +5496,7 @@
     "hf_Qwen_Qwen3-4B",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
     "hf_deepseek-ai_DeepSeek-R1-0528",
@@ -5538,6 +5573,7 @@
     "hf_Qwen_Qwen3-Embedding-8B",
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B",
+    "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_deepseek-ai_DeepSeek-R1",

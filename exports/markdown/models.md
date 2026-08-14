@@ -20,6 +20,10 @@
 - **ID**: model_ace_step_acestep_5hz_lm_4b
 - **Source**: 
 
+## AcuteShrewdSecurity/Llama-Phishsense-1B
+- **ID**: model_acuteshrewdsecurity_llama_phishsense_1b
+- **Source**: 
+
 ## AEON-7/Gemma-4-26B-A4B-it-Uncensored-NVFP4
 - **ID**: model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4
 - **Source**: 
@@ -4184,6 +4188,10 @@
 - **ID**: model_qwen_qwen3_32b_fp8
 - **Source**: 
 
+## Qwen/Qwen3-32B-GGUF
+- **ID**: model_qwen_qwen3_32b_gguf
+- **Source**: 
+
 ## Qwen/Qwen3-4B
 - **ID**: model_qwen_qwen3_4b
 - **Source**: 
@@ -5012,6 +5020,10 @@
 - **ID**: model_trl_internal_testing_tiny_olmo3forcausallm
 - **Source**: 
 
+## trl-internal-testing/tiny-OPTForCausalLM
+- **ID**: model_trl_internal_testing_tiny_optforcausallm
+- **Source**: 
+
 ## trl-internal-testing/tiny-Phi3ForCausalLM
 - **ID**: model_trl_internal_testing_tiny_phi3forcausallm
 - **Source**: 
@@ -5046,6 +5058,10 @@
 
 ## trl-internal-testing/tiny-RemoteForCausalLM
 - **ID**: model_trl_internal_testing_tiny_remoteforcausallm
+- **Source**: 
+
+## TsinghuaC3I/Llama-3-8B-UltraMedical
+- **ID**: model_tsinghuac3i_llama_3_8b_ultramedical
 - **Source**: 
 
 ## Ttimofeyka/MistralRP-Noromaid-NSFW-Mistral-7B-GGUF
@@ -5138,6 +5154,10 @@
 
 ## unsloth/gemma-3-1b-pt
 - **ID**: model_unsloth_gemma_3_1b_pt
+- **Source**: 
+
+## unsloth/gemma-3-270m-it
+- **ID**: model_unsloth_gemma_3_270m_it
 - **Source**: 
 
 ## unsloth/gemma-3-270m-it-GGUF
@@ -5534,6 +5554,10 @@
 
 ## vectionlabs/VL-1-Coder
 - **ID**: model_vectionlabs_vl_1_coder
+- **Source**: 
+
+## vibevoice/VibeVoice-1.5B
+- **ID**: model_vibevoice_vibevoice_1_5b
 - **Source**: 
 
 ## vicgalle/Humanish-Roleplay-Llama-3.1-8B
