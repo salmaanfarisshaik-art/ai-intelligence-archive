@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 71
+**Total Changes:** 63
 
 ## Added
 None
@@ -11,17 +11,12 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/emmyc2/hf_ds_69a389155b0ec60eb1032f67.json
 - datasets/hennypr/hf_ds_69af8aeeec432ae4abac9fd4.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/maximilians/hf_ds_69af8a70d620f76274dcd367.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/google/hf_google_gemma-3-1b-it.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai-community/hf_openai-community_gpt2.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -37,7 +32,6 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
-- tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
 - tools/github-trending/gh_1129940957.json
@@ -57,7 +51,6 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
@@ -75,7 +68,6 @@ None
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
-- tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
 ## Removed
