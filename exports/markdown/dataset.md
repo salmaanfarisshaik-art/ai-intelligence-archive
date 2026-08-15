@@ -818,7 +818,7 @@
 - **ID**: hf_ds_6a1901f9165364c3c9f8e5fe
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/quejing/20000-meishi-pdf](https://huggingface.co/datasets/quejing/20000-meishi-pdf)
-- **Tags**: library:datasets, library:mlcroissant, modality:document, region:us, size_categories:1K<n<10K
+- **Tags**: region:us
 
 ## mteb/results
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
