@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 60
+**Total Changes:** 65
 
 ## Added
 None
@@ -11,6 +11,10 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
+- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
+- datasets/jasperai/hf_ds_69f0c6101cc98d8ac04c03cd.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - graph/edges.json
 - graph/graph_api.json
@@ -44,13 +48,13 @@ None
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
+- tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
-- tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_655806940.json
@@ -58,12 +62,13 @@ None
 - tools/github-trending/gh_669879380.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
+- tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
+- tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
