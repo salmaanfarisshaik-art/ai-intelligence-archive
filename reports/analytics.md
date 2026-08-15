@@ -147,7 +147,7 @@
 - **library:dask**: 24
 - **task_categories:text-generation**: 24
 - **eval-results**: 23
-- **deploy:sagemaker**: 19
+- **deploy:sagemaker**: 21
 - **modality:image**: 19
 - **size_categories:n<1K**: 19
 - **qwen3**: 18

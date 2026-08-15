@@ -3802,7 +3802,7 @@
 - **ID**: hf_nvidia_Gemma-4-31B-IT-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4](https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4)
-- **Tags**: Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:google/gemma-4-31B-it, base_model:quantized:google/gemma-4-31B-it, conversational, deploy:azure, gemma4, license:other, lighthouse, modelopt, nvidia, quantized, region:us, safetensors, text-generation
+- **Tags**: Gemma-4-31B-IT, Model Optimizer, ModelOpt, NVFP4, base_model:google/gemma-4-31B-it, base_model:quantized:google/gemma-4-31B-it, conversational, deploy:azure, deploy:sagemaker, gemma4, license:other, lighthouse, modelopt, nvidia, quantized, region:us, safetensors, text-generation
 
 ## nvidia/Kimi-K2.5-NVFP4
 - **ID**: hf_nvidia_Kimi-K2.5-NVFP4
@@ -4004,7 +4004,7 @@
 - **ID**: hf_nvidia_Qwen3.6-35B-A3B-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4](https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4)
-- **Tags**: 8-bit, FP4, Model Optimizer, ModelOpt, Qwen3.6, base_model:Qwen/Qwen3.6-35B-A3B, base_model:quantized:Qwen/Qwen3.6-35B-A3B, conversational, deploy:azure, fp4, license:apache-2.0, modelopt, nvidia, quantized, qwen3_5_moe, region:us, safetensors, text-generation
+- **Tags**: 8-bit, FP4, Model Optimizer, ModelOpt, Qwen3.6, base_model:Qwen/Qwen3.6-35B-A3B, base_model:quantized:Qwen/Qwen3.6-35B-A3B, conversational, deploy:azure, deploy:sagemaker, fp4, license:apache-2.0, modelopt, nvidia, quantized, qwen3_5_moe, region:us, safetensors, text-generation
 
 ## nvidia/diffusiongemma-26B-A4B-it-NVFP4
 - **ID**: hf_nvidia_diffusiongemma-26B-A4B-it-NVFP4
