@@ -30930,11 +30930,6 @@
       "score": 2.5
     },
     {
-      "entity_id": "dataset_vincewin_crest_data",
-      "match_type": "exact",
-      "score": 2.5
-    },
-    {
       "entity_id": "dataset_voxel51_mvtec_ad",
       "match_type": "exact",
       "score": 2.5
@@ -35486,6 +35481,11 @@
     },
     {
       "entity_id": "dataset_usc_psi_lab_humanoid_everyday",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_vincewin_crest_data",
       "match_type": "exact",
       "score": 1.0
     },
@@ -56986,6 +56986,13 @@
       "entity_id": "dataset_deepghs_character_index",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "deepgrove": [
+    {
+      "entity_id": "model_deepgrove_maple_preview_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "deepguess": [

@@ -65011,11 +65011,6 @@
       "score": 3.0
     },
     {
-      "entity_id": "dataset_vincewin_crest_data",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "dataset_vrnp_2401_noisy_data",
       "match_type": "exact",
       "score": 3.0
@@ -70492,6 +70487,11 @@
     },
     {
       "entity_id": "model_deepcogito_cogito_v1_preview_qwen_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_deepgrove_maple_preview_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -119158,6 +119158,11 @@
     },
     {
       "entity_id": "model_cyberagent_open_calm_3b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_deepgrove_maple_preview_gguf",
       "match_type": "exact",
       "score": 1.5
     },
