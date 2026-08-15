@@ -5976,11 +5976,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_collapsecdn_collapsecdn",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_cornell_movie_review_data_rotten_tomatoes",
       "match_type": "exact",
       "score": 1.5
@@ -11140,11 +11135,6 @@
     },
     {
       "entity_id": "dataset_cogcomp_trec",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_collapsecdn_collapsecdn",
       "match_type": "exact",
       "score": 1.5
     },
@@ -18241,6 +18231,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_ggml_org_gpt_oss_120b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
       "match_type": "exact",
       "score": 5.0
@@ -24612,6 +24607,11 @@
     },
     {
       "entity_id": "model_qwen_qwen3_next_80b_a3b_instruct_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_qwen_qwen3_next_80b_a3b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -35410,6 +35410,11 @@
     },
     {
       "entity_id": "model_meta_llama_llama_guard_3_1b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_nousresearch_llama_3_2_1b",
       "match_type": "exact",
       "score": 2.0
     },

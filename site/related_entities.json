@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:29:43Z",
+  "generated_at": "2026-08-15T08:26:44Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1824,6 +1824,7 @@
       "model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq"
     ],
     "hf_google_medgemma-27b-text-it": [
+      "model_bbarn4_medgemma_27b_text_it_gptq",
       "model_unsloth_medgemma_27b_text_it_bnb_4bit"
     ],
     "hf_google_translategemma-12b-it": [
@@ -2583,6 +2584,7 @@
       "model_ibm_granite_granite_3b_code_base_2k"
     ],
     "hf_openai_gpt-oss-120b": [
+      "model_ggml_org_gpt_oss_120b_gguf",
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
       "model_redhatai_gpt_oss_120b",
       "model_unsloth_gpt_oss_120b",
@@ -3299,6 +3301,9 @@
     "model_batiai_qwen3_6_27b_gguf": [
       "hf_Qwen_Qwen3.6-27B"
     ],
+    "model_bbarn4_medgemma_27b_text_it_gptq": [
+      "hf_google_medgemma-27b-text-it"
+    ],
     "model_bccard_qwen3_30b_a3b_fp8_dynamic": [
       "hf_Qwen_Qwen3-30B-A3B"
     ],
@@ -3753,6 +3758,9 @@
     "model_generalanalysis_ga_guard_thinking": [
       "hf_GeneralAnalysis_GA_Guardrail_Benchmark",
       "hf_Qwen_Qwen3-4B-Thinking-2507"
+    ],
+    "model_ggml_org_gpt_oss_120b_gguf": [
+      "hf_openai_gpt-oss-120b"
     ],
     "model_ggml_org_gpt_oss_20b_gguf": [
       "hf_openai_gpt-oss-20b"

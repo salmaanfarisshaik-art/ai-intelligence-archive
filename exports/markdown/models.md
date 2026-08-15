@@ -1272,6 +1272,10 @@
 - **ID**: model_final_bench_pocket_35b_gguf
 - **Source**: 
 
+## fla-hub/transformer-1.3B-100B
+- **ID**: model_fla_hub_transformer_1_3b_100b
+- **Source**: 
+
 ## flywheel-ai/automotive
 - **ID**: model_flywheel_ai_automotive
 - **Source**: 
