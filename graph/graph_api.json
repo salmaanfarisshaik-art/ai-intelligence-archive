@@ -8281,7 +8281,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-15T09:24:31.941900+00:00",
+  "generated_at": "2026-08-15T10:20:56.579676+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -121287,6 +121287,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_apple_datacompdr_1b",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_applied_ai_018_pretraining_v1_omega",
       "label": ""
     },
@@ -122337,6 +122342,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_drssth_modelnet_simscan",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_duynd1204_processed_medical_dataset",
       "label": ""
     },
@@ -123347,7 +123357,17 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn10_content_20260426187c",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn10_content_20260426c7c7",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn10_content_20260427fd4a",
       "label": ""
     },
     {
@@ -123523,6 +123543,16 @@
     {
       "category": "datasets",
       "id": "dataset_icdn11_content_2026042565c5",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn11_content_202604258dcd",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn11_content_202604266c98",
       "label": ""
     },
     {
@@ -123707,7 +123737,22 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn12_content_20260425d735",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn12_content_20260426a25b",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn12_content_20260426f320",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn12_content_202604303a1b",
       "label": ""
     },
     {
@@ -123882,12 +123927,27 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn13_content_202604254caa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn13_content_202604256e10",
       "label": ""
     },
     {
       "category": "datasets",
       "id": "dataset_icdn13_content_20260426051e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn13_content_20260426869e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn13_content_2026042765b4",
       "label": ""
     },
     {
@@ -124068,6 +124128,16 @@
     {
       "category": "datasets",
       "id": "dataset_icdn14_content_20260425ac85",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn14_content_20260425e57c",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn14_content_202604263158",
       "label": ""
     },
     {
@@ -124262,7 +124332,22 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn15_content_20260425cb09",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn15_content_20260426bf6d",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn15_content_20260426f818",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn15_content_202604274e2f",
       "label": ""
     },
     {
@@ -124848,6 +124933,11 @@
     {
       "category": "datasets",
       "id": "dataset_jacobbieker_eumetsat_rss",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_jacobbieker_hilam_kerchunk",
       "label": ""
     },
     {
@@ -126843,6 +126933,16 @@
     {
       "category": "datasets",
       "id": "dataset_physinonep02_physinonep02",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_physinonep03_physinonep03",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_physinonep04_physinonep04",
       "label": ""
     },
     {
@@ -140112,6 +140212,11 @@
     },
     {
       "category": "models",
+      "id": "model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp",
+      "label": "Alittlehammmer/Qwen3.6-27B-DFlash-GGUF-llama.cpp"
+    },
+    {
+      "category": "models",
       "id": "model_allenai_llama_3_1_tulu_3_8b_sft",
       "label": "allenai/Llama-3.1-Tulu-3-8B-SFT"
     },
@@ -140889,6 +140994,11 @@
       "category": "models",
       "id": "model_cyankiwi_hermes_4_14b_awq_4bit",
       "label": "cyankiwi/Hermes-4-14B-AWQ-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_cyankiwi_instella_moe_16b_a3b_think_awq_int4",
+      "label": "cyankiwi/Instella-MoE-16B-A3B-Think-AWQ-INT4"
     },
     {
       "category": "models",
@@ -144052,6 +144162,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16",
+      "label": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4",
       "label": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4"
     },
@@ -145494,6 +145609,11 @@
       "category": "models",
       "id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
       "label": "RavichandranJ/Dolphin3-Cyber-8B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_readyart_gemma_4_31b_it_scotoma_2_gguf",
+      "label": "ReadyArt/gemma-4-31B-it-scotoma-2-GGUF"
     },
     {
       "category": "models",
@@ -444173,5 +444293,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1656,
-  "total_nodes": 87177
+  "total_nodes": 87201
 }

@@ -4,10 +4,10 @@
   "author": "AlphaDojo",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-14T23:12:44.000Z",
+  "lastModified": "2026-08-15T09:34:11.000Z",
   "likes": 0,
   "private": false,
-  "sha": "d864f4011c7528c60953a2211ec8d14483cee0e9",
+  "sha": "950f054caefe9e143971fdc555fc5fda2efe8441",
   "description": "\nLanguages: 简体中文 · English\n\n\n\t\n\t\t\n\t\n\t\n\t\tdojo_stock_kline — Stock Daily Bars\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nDaily OHLCV history for US, CN, and HK equities, including cumulative adjustment factors and dividend/split flags.\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\n\t\n\t\t\nFile\nDescription\n\n\n\t\t\ndata.parquet\nMarket-wide daily bars\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tKey Fields\n\t\n\n\n\t\n\t\t\nField\nDescription\n\n\n\t\t\nsymbol\nJoin key\n\n\nkline_t\nBar interval; snapshots use \"1D\" for daily bars\n\n\nbar_time\nBar timestamp (trade date)\n\n\nopen / high / low /… See the full description on the dataset page: https://huggingface.co/datasets/AlphaDojo/dojo_stock_kline.",
   "downloads": 29505,
   "tags": [

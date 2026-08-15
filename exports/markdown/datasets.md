@@ -349,6 +349,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_apple_datacompdr_1b
+- **Source**: 
+
+## 
 - **ID**: dataset_applied_ai_018_pretraining_v1_omega
 - **Source**: 
 
@@ -1189,6 +1193,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_drssth_modelnet_simscan
+- **Source**: 
+
+## 
 - **ID**: dataset_duynd1204_processed_medical_dataset
 - **Source**: 
 
@@ -1997,7 +2005,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn10_content_20260426187c
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn10_content_20260426c7c7
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn10_content_20260427fd4a
 - **Source**: 
 
 ## 
@@ -2138,6 +2154,14 @@
 
 ## 
 - **ID**: dataset_icdn11_content_2026042565c5
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn11_content_202604258dcd
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn11_content_202604266c98
 - **Source**: 
 
 ## 
@@ -2285,7 +2309,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_20260425d735
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_20260426a25b
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_20260426f320
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_202604303a1b
 - **Source**: 
 
 ## 
@@ -2425,11 +2461,23 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn13_content_202604254caa
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn13_content_202604256e10
 - **Source**: 
 
 ## 
 - **ID**: dataset_icdn13_content_20260426051e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_20260426869e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_2026042765b4
 - **Source**: 
 
 ## 
@@ -2574,6 +2622,14 @@
 
 ## 
 - **ID**: dataset_icdn14_content_20260425ac85
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_20260425e57c
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_202604263158
 - **Source**: 
 
 ## 
@@ -2729,7 +2785,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn15_content_20260425cb09
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn15_content_20260426bf6d
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn15_content_20260426f818
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn15_content_202604274e2f
 - **Source**: 
 
 ## 
@@ -3198,6 +3266,10 @@
 
 ## 
 - **ID**: dataset_jacobbieker_eumetsat_rss
+- **Source**: 
+
+## 
+- **ID**: dataset_jacobbieker_hilam_kerchunk
 - **Source**: 
 
 ## 
@@ -4794,6 +4866,14 @@
 
 ## 
 - **ID**: dataset_physinonep02_physinonep02
+- **Source**: 
+
+## 
+- **ID**: dataset_physinonep03_physinonep03
+- **Source**: 
+
+## 
+- **ID**: dataset_physinonep04_physinonep04
 - **Source**: 
 
 ## 

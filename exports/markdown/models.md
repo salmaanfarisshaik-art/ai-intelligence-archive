@@ -108,6 +108,10 @@
 - **ID**: model_alibaba_nlp_tongyi_deepresearch_30b_a3b
 - **Source**: 
 
+## Alittlehammmer/Qwen3.6-27B-DFlash-GGUF-llama.cpp
+- **ID**: model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp
+- **Source**: 
+
 ## allenai/Llama-3.1-Tulu-3-8B-SFT
 - **ID**: model_allenai_llama_3_1_tulu_3_8b_sft
 - **Source**: 
@@ -730,6 +734,10 @@
 
 ## cyankiwi/Hermes-4-14B-AWQ-4bit
 - **ID**: model_cyankiwi_hermes_4_14b_awq_4bit
+- **Source**: 
+
+## cyankiwi/Instella-MoE-16B-A3B-Think-AWQ-INT4
+- **ID**: model_cyankiwi_instella_moe_16b_a3b_think_awq_int4
 - **Source**: 
 
 ## cyankiwi/KAT-Coder-V2.5-Dev-AWQ-INT4
@@ -3260,6 +3268,10 @@
 - **ID**: model_nvidia_nemotron_mini_4b_instruct
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16
+- **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4
 - **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4
 - **Source**: 
@@ -4414,6 +4426,10 @@
 
 ## RavichandranJ/Dolphin3-Cyber-8B-GGUF
 - **ID**: model_ravichandranj_dolphin3_cyber_8b_gguf
+- **Source**: 
+
+## ReadyArt/gemma-4-31B-it-scotoma-2-GGUF
+- **ID**: model_readyart_gemma_4_31b_it_scotoma_2_gguf
 - **Source**: 
 
 ## RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16
