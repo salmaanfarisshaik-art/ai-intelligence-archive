@@ -9,7 +9,7 @@
   "private": false,
   "sha": "74d1ad66e030de93daf60f9c446cc3ccca138e23",
   "description": "\n\t\n\t\t\n\t\tMultiTalkFT\n\t\n\nFine-tuning corpus for full-duplex multi-speaker dialogue.\n\n\t\n\t\t\n\t\tSchemas\n\t\n\ndata_{zh,en}{,_multichannel}.jsonl (one record per line):\n\n\t\n\t\t\nfield\ntype\ndescription\n\n\n\t\t\npath\nstring\nrelative path to the audio file\n\n\nvoice\nstring\nrelative path to speaker prompt\n\n\nduration\nfloat\nclip duration in seconds\n\n\nsystem\nstring\npersona / system prompt\n\n\n\t\n\ntranscripts/*.parquet:\n\n\t\n\t\t\ncolumn\ntype\ndescription\n\n\n\t\t\naudio_path\nstring\nmatches data_*.jsonl path\n\n\nidstring\n\n\n\nduration… See the full description on the dataset page: https://huggingface.co/datasets/MultiTalk/MultiTalkFT.",
-  "downloads": 41065,
+  "downloads": 41066,
   "tags": [
     "task_categories:audio-to-audio",
     "language:zh",

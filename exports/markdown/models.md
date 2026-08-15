@@ -516,6 +516,10 @@
 - **ID**: model_batiai_qwen3_6_27b_gguf
 - **Source**: 
 
+## bbarn4/medgemma-27b-text-it-GPTQ
+- **ID**: model_bbarn4_medgemma_27b_text_it_gptq
+- **Source**: 
+
 ## BCCard/Qwen3-30B-A3B-FP8-Dynamic
 - **ID**: model_bccard_qwen3_30b_a3b_fp8_dynamic
 - **Source**: 
@@ -1302,6 +1306,10 @@
 
 ## GeneralAnalysis/GA_Guard_Thinking
 - **ID**: model_generalanalysis_ga_guard_thinking
+- **Source**: 
+
+## ggml-org/gpt-oss-120b-GGUF
+- **ID**: model_ggml_org_gpt_oss_120b_gguf
 - **Source**: 
 
 ## ggml-org/gpt-oss-20b-GGUF
@@ -3076,6 +3084,10 @@
 - **ID**: model_nousresearch_llama_2_7b_hf
 - **Source**: 
 
+## NousResearch/Llama-3.2-1B
+- **ID**: model_nousresearch_llama_3_2_1b
+- **Source**: 
+
 ## NousResearch/Meta-Llama-3.1-8B
 - **ID**: model_nousresearch_meta_llama_3_1_8b
 - **Source**: 
@@ -4324,6 +4336,10 @@
 - **ID**: model_qwen_qwen3_next_80b_a3b_instruct_fp8
 - **Source**: 
 
+## Qwen/Qwen3-Next-80B-A3B-Instruct-GGUF
+- **ID**: model_qwen_qwen3_next_80b_a3b_instruct_gguf
+- **Source**: 
+
 ## Qwen/Qwen3-Next-80B-A3B-Thinking
 - **ID**: model_qwen_qwen3_next_80b_a3b_thinking
 - **Source**: 
@@ -4510,6 +4526,10 @@
 
 ## RedHatAI/Qwen3-32B-FP8-dynamic
 - **ID**: model_redhatai_qwen3_32b_fp8_dynamic
+- **Source**: 
+
+## RedHatAI/Qwen3-32B-speculator.eagle3
+- **ID**: model_redhatai_qwen3_32b_speculator_eagle3
 - **Source**: 
 
 ## RedHatAI/Qwen3-8B-FP8-dynamic

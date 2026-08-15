@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a204ebda8ebef0388caf6a1ee6588bf35f84acf6",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t張悦楷講古語音數據集\n\t\n\nEnglish\n呢個係張悦楷講《三國演義》、《水滸傳》、《走進毛澤東的最後歲月》、《鹿鼎記》語音數據集。張悦楷係廣州最出名嘅講古佬 / 粵語説書藝人。佢從上世紀七十年代開始就喺廣東各個收音電台度講古，佢把聲係好多廣州人嘅共同回憶。本數據集收集嘅係佢最知名嘅四部作品。\n數據集用途：\n\nTTS（語音合成）訓練集\nASR（語音識別）訓練集或測試集\n各種語言學、文學研究\n直接聽嚟欣賞藝術！\n\nTTS 效果演示：https://huggingface.co/spaces/laubonghaudoi/zoengjyutgaai_tts\n\n\t\n\t\t\n\t\n\t\n\t\t説明\n\t\n\n\n所有文本都根據 https://jyutping.org/blog/typo/ 同 https://jyutping.org/blog/particles/ 規範用字。\n所有文本都使用全角標點，冇半角標點。\n所有文本都用漢字轉寫，無阿拉伯數字無英文字母\n所有音頻源都存放喺/source，為方便直接用作訓練數據，切分後嘅音頻都放喺 opus/\n所有 opus 音頻皆為… See the full description on the dataset page: https://huggingface.co/datasets/1111xxx/zoengjyutgaai.",
-  "downloads": 46126,
+  "downloads": 39395,
   "tags": [
     "task_categories:automatic-speech-recognition",
     "task_categories:text-to-speech",

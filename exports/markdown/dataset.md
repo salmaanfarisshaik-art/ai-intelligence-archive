@@ -572,7 +572,7 @@
 - **ID**: hf_ds_6901510f85821f56ae6f5438
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset)
-- **Tags**: region:us
+- **Tags**: library:datasets, library:mlcroissant, modality:3d, modality:image, region:us, size_categories:100K<n<1M
 
 ## hasankursun/github-code-2025-language-split
 - **ID**: hf_ds_692dc013741d7eb4efaf4b65

@@ -6614,6 +6614,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_drssth_modelnet_simscan",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_earthspeciesproject_naturelm_audio_training",
       "match_type": "exact",
       "score": 1.0
@@ -16270,6 +16275,16 @@
     },
     {
       "entity_id": "dataset_physinonep02_physinonep02",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_physinonep03_physinonep03",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_physinonep04_physinonep04",
       "match_type": "exact",
       "score": 1.5
     },
@@ -27301,6 +27316,11 @@
       "entity_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "match_type": "exact",
       "score": 9.5
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16",
+      "match_type": "exact",
+      "score": 8.0
     },
     {
       "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_bf16",
@@ -85526,6 +85546,11 @@
       "entity_id": "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "match_type": "exact",
       "score": 10.5
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16",
+      "match_type": "exact",
+      "score": 8.5
     },
     {
       "entity_id": "model_nvidia_nvidia_nemotron_3_super_120b_a12b_bf16",

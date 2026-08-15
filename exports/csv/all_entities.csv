@@ -24778,7 +24778,7 @@ hf_ds_68c6d459d95ef41da81c9b41,mvp-lab/LLaVA-OneVision-1.5-Mid-Training-85M,data
 hf_ds_68d19889ef48faaef08b8710,boltzgen/inference-data,dataset,HuggingFace Datasets,license:mit|region:us,https://huggingface.co/datasets/boltzgen/inference-data
 hf_ds_68e91443c366e5879388a4d4,vyokky/GUI-360,dataset,HuggingFace Datasets,arxiv:2511.04307|license:mit|region:us|size_categories:1M<n<10M|task_categories:image-text-to-text,https://huggingface.co/datasets/vyokky/GUI-360
 hf_ds_68f06f7cd53a33b04ceebb08,AiEDA/iDATA,dataset,HuggingFace Datasets,AI + EDA dataset|license:gpl|region:us|skywater130 process,https://huggingface.co/datasets/AiEDA/iDATA
-hf_ds_6901510f85821f56ae6f5438,jzr99/mesh4d_dataset,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/jzr99/mesh4d_dataset
+hf_ds_6901510f85821f56ae6f5438,jzr99/mesh4d_dataset,dataset,HuggingFace Datasets,library:datasets|library:mlcroissant|modality:3d|modality:image|region:us|size_categories:100K<n<1M,https://huggingface.co/datasets/jzr99/mesh4d_dataset
 hf_ds_692dc013741d7eb4efaf4b65,hasankursun/github-code-2025-language-split,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:other|modality:text|region:us|size_categories:100M<n<1B|source_datasets:nick007x/github-code-2025,https://huggingface.co/datasets/hasankursun/github-code-2025-language-split
 hf_ds_692ecca11aad0a1d75ac057c,CERN/ColliderML-Release-1,dataset,HuggingFace Datasets,calorimetry|collider-physics|doi:10.57967/hf/7269|high-energy-physics|jet-tagging|license:cc-by-4.0|machine-learning|modality:timeseries|particle-physics|particle-tracking|physics|region:us|simulation|size_categories:10M<n<100M|task_categories:other|tracking,https://huggingface.co/datasets/CERN/ColliderML-Release-1
 hf_ds_6931046ceb0ce6e2002af81b,builddotai/Egocentric-100K,dataset,HuggingFace Datasets,egocentric|format:webdataset|library:datasets|library:mlcroissant|library:webdataset|license:apache-2.0|modality:text|modality:video|region:us|robotics|size_categories:1M<n<10M|video,https://huggingface.co/datasets/builddotai/Egocentric-100K
@@ -26466,6 +26466,7 @@ model_bartowski_smollm2_1_7b_instruct_gguf,bartowski/SmolLM2-1.7B-Instruct-GGUF,
 model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf,bartowski/TheDrummer_Cydonia-24B-v4.2.0-GGUF,models,,,
 model_baseten_llama_3_2_3b_instruct_pythonic,baseten/Llama-3.2-3B-Instruct-pythonic,models,,,
 model_batiai_qwen3_6_27b_gguf,batiai/Qwen3.6-27B-GGUF,models,,,
+model_bbarn4_medgemma_27b_text_it_gptq,bbarn4/medgemma-27b-text-it-GPTQ,models,,,
 model_bccard_qwen3_30b_a3b_fp8_dynamic,BCCard/Qwen3-30B-A3B-FP8-Dynamic,models,,,
 model_bg_digitalservices_gemma_4_26b_a4b_it_nvfp4,bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4,models,,,
 model_bg_digitalservices_gemma_4_26b_a4b_it_nvfp4a16,bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4A16,models,,,
@@ -26663,6 +26664,7 @@ model_gdubicki_qwen3_coder_next_nvfp4_gb10,gdubicki/Qwen3-Coder-Next-NVFP4-GB10,
 model_generalanalysis_ga_guard_core,GeneralAnalysis/GA_Guard_Core,models,,,
 model_generalanalysis_ga_guard_lite,GeneralAnalysis/GA_Guard_Lite,models,,,
 model_generalanalysis_ga_guard_thinking,GeneralAnalysis/GA_Guard_Thinking,models,,,
+model_ggml_org_gpt_oss_120b_gguf,ggml-org/gpt-oss-120b-GGUF,models,,,
 model_ggml_org_gpt_oss_20b_gguf,ggml-org/gpt-oss-20b-GGUF,models,,,
 model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf,ggml-org/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF,models,,,
 model_ggml_org_stories15m_moe,ggml-org/stories15M_MOE,models,,,
@@ -27106,6 +27108,7 @@ model_nousresearch_hermes_3_llama_3_1_70b,NousResearch/Hermes-3-Llama-3.1-70B,mo
 model_nousresearch_hermes_3_llama_3_1_8b,NousResearch/Hermes-3-Llama-3.1-8B,models,,,
 model_nousresearch_hermes_4_14b,NousResearch/Hermes-4-14B,models,,,
 model_nousresearch_llama_2_7b_hf,NousResearch/Llama-2-7b-hf,models,,,
+model_nousresearch_llama_3_2_1b,NousResearch/Llama-3.2-1B,models,,,
 model_nousresearch_meta_llama_3_1_8b,NousResearch/Meta-Llama-3.1-8B,models,,,
 model_nousresearch_meta_llama_3_1_8b_instruct,NousResearch/Meta-Llama-3.1-8B-Instruct,models,,,
 model_nousresearch_meta_llama_3_8b,NousResearch/Meta-Llama-3-8B,models,,,
@@ -27418,6 +27421,7 @@ model_qwen_qwen3_embedding_4b,Qwen/Qwen3-Embedding-4B,models,,,
 model_qwen_qwen3_embedding_8b,Qwen/Qwen3-Embedding-8B,models,,,
 model_qwen_qwen3_next_80b_a3b_instruct,Qwen/Qwen3-Next-80B-A3B-Instruct,models,,,
 model_qwen_qwen3_next_80b_a3b_instruct_fp8,Qwen/Qwen3-Next-80B-A3B-Instruct-FP8,models,,,
+model_qwen_qwen3_next_80b_a3b_instruct_gguf,Qwen/Qwen3-Next-80B-A3B-Instruct-GGUF,models,,,
 model_qwen_qwen3_next_80b_a3b_thinking,Qwen/Qwen3-Next-80B-A3B-Thinking,models,,,
 model_qwen_qwen3_next_80b_a3b_thinking_gguf,Qwen/Qwen3-Next-80B-A3B-Thinking-GGUF,models,,,
 model_qwen_qwen3_reranker_0_6b,Qwen/Qwen3-Reranker-0.6B,models,,,
@@ -27465,6 +27469,7 @@ model_redhatai_qwen3_30b_a3b_fp8_dynamic,RedHatAI/Qwen3-30B-A3B-FP8-dynamic,mode
 model_redhatai_qwen3_30b_a3b_nvfp4,RedHatAI/Qwen3-30B-A3B-NVFP4,models,,,
 model_redhatai_qwen3_30b_a3b_quantized_w4a16,RedHatAI/Qwen3-30B-A3B-quantized.w4a16,models,,,
 model_redhatai_qwen3_32b_fp8_dynamic,RedHatAI/Qwen3-32B-FP8-dynamic,models,,,
+model_redhatai_qwen3_32b_speculator_eagle3,RedHatAI/Qwen3-32B-speculator.eagle3,models,,,
 model_redhatai_qwen3_8b_fp8_dynamic,RedHatAI/Qwen3-8B-FP8-dynamic,models,,,
 model_redhatai_qwen3_8b_quantized_w4a16,RedHatAI/Qwen3-8B-quantized.w4a16,models,,,
 model_redhatai_qwen3_8b_speculator_eagle3,RedHatAI/Qwen3-8B-speculator.eagle3,models,,,

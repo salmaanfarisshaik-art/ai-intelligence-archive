@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87172
+**Total Entities Tracked**: 87177
 
 ## Category Distribution
 
@@ -8,7 +8,7 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1582
-- **models**: 1456
+- **models**: 1461
 - **news**: 1154
 - **dataset**: 1144
 - **text-generation**: 1004
@@ -81,7 +81,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30216
+- ****: 30221
 - **Hugging Face**: 2011
 - **ArXiv**: 1498
 - **OpenAI Blog**: 1140
@@ -126,9 +126,9 @@
 ## Top Tags
 
 - **region:us**: 211
+- **library:datasets**: 68
+- **library:mlcroissant**: 68
 - **text-generation**: 68
-- **library:datasets**: 67
-- **library:mlcroissant**: 67
 - **modality:text**: 60
 - **transformers**: 60
 - **endpoints_compatible**: 58
@@ -148,7 +148,7 @@
 - **task_categories:text-generation**: 24
 - **eval-results**: 23
 - **deploy:sagemaker**: 21
-- **modality:image**: 19
+- **modality:image**: 20
 - **size_categories:n<1K**: 19
 - **qwen3**: 18
 - **license:other**: 17
@@ -157,10 +157,10 @@
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 14
 - **modality:video**: 12
+- **size_categories:100K<n<1M**: 12
 - **task_categories:robotics**: 12
 - **license:odc-by**: 11
 - **multilinguality:monolingual**: 11
-- **size_categories:100K<n<1M**: 11
 - **arxiv:2505.09388**: 10
 - **fp8**: 10
 - **pytorch**: 10
