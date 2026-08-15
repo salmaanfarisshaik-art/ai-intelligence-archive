@@ -832,6 +832,10 @@
 - **ID**: model_deepcogito_cogito_v1_preview_qwen_32b
 - **Source**: 
 
+## deepgrove/maple-preview-GGUF
+- **ID**: model_deepgrove_maple_preview_gguf
+- **Source**: 
+
 ## deepreinforce-ai/Ornith-1.0-35B
 - **ID**: model_deepreinforce_ai_ornith_1_0_35b
 - **Source**: 
