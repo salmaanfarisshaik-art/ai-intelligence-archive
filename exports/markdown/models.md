@@ -8,6 +8,10 @@
 - **ID**: model_01_ai_yi_6b_chat
 - **Source**: 
 
+## 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+- **ID**: model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf
+- **Source**: 
+
 ## 0xSero/deepseek-v4-flash-0731-spark
 - **ID**: model_0xsero_deepseek_v4_flash_0731_spark
 - **Source**: 
