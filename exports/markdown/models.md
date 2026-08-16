@@ -1876,6 +1876,10 @@
 - **ID**: model_jiunsong_supergemma4_26b_uncensored_gguf_v2
 - **Source**: 
 
+## JonathanColetti/Qwen3.8-27B-Uncensored-GGUF
+- **ID**: model_jonathancoletti_qwen3_8_27b_uncensored_gguf
+- **Source**: 
+
 ## JunHowie/Qwen3-14B-GPTQ-Int4
 - **ID**: model_junhowie_qwen3_14b_gptq_int4
 - **Source**: 
@@ -5682,6 +5686,10 @@
 
 ## warshanks/Qwen3-4B-Instruct-2507-AWQ
 - **ID**: model_warshanks_qwen3_4b_instruct_2507_awq
+- **Source**: 
+
+## webAI-Official/TwIL-LM3
+- **ID**: model_webai_official_twil_lm3
 - **Source**: 
 
 ## WeiboAI/VibeThinker-3B

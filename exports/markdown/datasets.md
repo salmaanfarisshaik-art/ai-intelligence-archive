@@ -9,6 +9,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_3dlg_hcvc_omages_abo
+- **Source**: 
+
+## 
 - **ID**: dataset_aaaad1_banned_historical_archives
 - **Source**: 
 
@@ -114,6 +118,10 @@
 
 ## 
 - **ID**: dataset_aisa_group_researcharena_trajectories
+- **Source**: 
+
+## 
+- **ID**: dataset_aisha_ai_official_lora_test
 - **Source**: 
 
 ## 
@@ -845,6 +853,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_chartgalaxy_chartgalaxy
+- **Source**: 
+
+## 
 - **ID**: dataset_chat_stories_chat_stories
 - **Source**: 
 
@@ -950,6 +962,10 @@
 
 ## 
 - **ID**: dataset_cognitive_lab_nayanaocr_corpus_2025
+- **Source**: 
+
+## 
+- **ID**: dataset_coherelabs_global_mmlu
 - **Source**: 
 
 ## 
@@ -1473,6 +1489,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fudan_fmri_fmri_shape
+- **Source**: 
+
+## 
 - **ID**: dataset_fujinchu_imgbed
 - **Source**: 
 
@@ -1829,6 +1849,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hoshipu_roboreal_data
+- **Source**: 
+
+## 
 - **ID**: dataset_hostip51_js
 - **Source**: 
 
@@ -2169,6 +2193,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_202604274c86
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_20260430a77b
 - **Source**: 
 
@@ -2318,6 +2346,10 @@
 
 ## 
 - **ID**: dataset_icdn12_content_20260426f320
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_2026042754bc
 - **Source**: 
 
 ## 
@@ -3829,6 +3861,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_longisland3_ptb_xl
+- **Source**: 
+
+## 
 - **ID**: dataset_longvideobench_longvideobench
 - **Source**: 
 
@@ -4629,6 +4665,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_open_index_arctic
+- **Source**: 
+
+## 
 - **ID**: dataset_open_index_hacker_news
 - **Source**: 
 
@@ -4862,6 +4902,10 @@
 
 ## 
 - **ID**: dataset_physical_intelligence_libero
+- **Source**: 
+
+## 
+- **ID**: dataset_physinonep01_physinonep01
 - **Source**: 
 
 ## 
@@ -5750,6 +5794,10 @@
 
 ## 
 - **ID**: dataset_thomas880423_slomoblur
+- **Source**: 
+
+## 
+- **ID**: dataset_thomaslee1818_gensin_instruct_read_to_train
 - **Source**: 
 
 ## 
