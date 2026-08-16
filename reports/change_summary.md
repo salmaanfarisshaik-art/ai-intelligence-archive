@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 61
+**Total Changes:** 68
 
 ## Added
 None
@@ -9,6 +9,7 @@ None
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/emmyc2/hf_ds_69a389155b0ec60eb1032f67.json
@@ -16,6 +17,7 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/ibm-granite/hf_ibm-granite_granite-4.1-8b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -25,6 +27,7 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -41,11 +44,14 @@ None
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
+- tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
+- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
@@ -55,6 +61,7 @@ None
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
