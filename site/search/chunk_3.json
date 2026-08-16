@@ -5645,6 +5645,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_webai_official_twil_lm3",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-9047300583442300393",
       "match_type": "exact",
       "score": 2.0
@@ -5999,6 +6004,11 @@
   ],
   "3d": [
     {
+      "entity_id": "dataset_fudan_fmri_fmri_shape",
+      "match_type": "exact",
+      "score": 10.0
+    },
+    {
       "entity_id": "dataset_feinaldo_sceneactbench",
       "match_type": "exact",
       "score": 8.5
@@ -6259,6 +6269,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_physinonep01_physinonep01",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_physinonep02_physinonep02",
       "match_type": "exact",
       "score": 3.0
@@ -6312,6 +6327,11 @@
       "entity_id": "hf_ds_ppak10_AMT-FLOW-3D",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_3dlg_hcvc_omages_abo",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "dataset_hssd_hssd_hab",
@@ -6821,6 +6841,13 @@
     },
     {
       "entity_id": "dataset_dl3dv_dl3dv_benchmark",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "3dlg": [
+    {
+      "entity_id": "dataset_3dlg_hcvc_omages_abo",
       "match_type": "exact",
       "score": 1.0
     }

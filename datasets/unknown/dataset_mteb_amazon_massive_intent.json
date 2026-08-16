@@ -9,7 +9,7 @@
   "private": false,
   "sha": "940fd47a81eaa7f2cc7b129674d945d618ac38c2",
   "description": "\n  MassiveIntentClassification\n  An MTEB dataset\n  Massive Text Embedding Benchmark\n\n\nMASSIVE: A 1M-Example Multilingual Natural Language Understanding Dataset with 51 Typologically-Diverse Languages\n\n\t\n\t\t\n\n\n\n\n\t\t\nTask category\nt2c\n\n\nDomains\nSpoken\n\n\nReference\nhttps://arxiv.org/abs/2204.08582\n\n\n\t\n\n\n\t\n\t\t\n\t\tHow to evaluate on this task\n\t\n\nYou can evaluate an embedding model on this dataset using the following code:\nimport mteb\n\ntask = mteb.get_tasks([\"MassiveIntentClassification\"])\nevaluator =… See the full description on the dataset page: https://huggingface.co/datasets/mteb/amazon_massive_intent.",
-  "downloads": 30612,
+  "downloads": 31747,
   "tags": [
     "task_categories:text-classification",
     "annotations_creators:human-annotated",

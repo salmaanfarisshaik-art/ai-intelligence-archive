@@ -496,6 +496,12 @@
 - **URL**: [https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache](https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache)
 - **Tags**: arxiv:2404.07972, license:apache-2.0, region:us
 
+## drssth/ModelNet-simscan
+- **ID**: hf_ds_68370197476641ade2a81199
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/drssth/ModelNet-simscan](https://huggingface.co/datasets/drssth/ModelNet-simscan)
+- **Tags**: 3D, Classification, PointCloud, Rotation Estimation, license:cc, region:us, size_categories:100B<n<1T
+
 ## world-igr-plum/regions
 - **ID**: hf_ds_6850196ad602532f84eb625b
 - **Source**: HuggingFace Datasets
@@ -825,6 +831,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
 - **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M
+
+## RoboDojo-Benchmark/RoboDojo
+- **ID**: hf_ds_6a252aa1e7f978cbccbe94ed
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/RoboDojo-Benchmark/RoboDojo](https://huggingface.co/datasets/RoboDojo-Benchmark/RoboDojo)
+- **Tags**: license:apache-2.0, region:us
 
 ## tencent/Hy-Embodied-0.5-VLA-Data
 - **ID**: hf_ds_6a2a5f5f2ef38e1f849a8ebf

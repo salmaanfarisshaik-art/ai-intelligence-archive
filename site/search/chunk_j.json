@@ -26,6 +26,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_coherelabs_global_mmlu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_xp3x",
       "match_type": "exact",
       "score": 1.5
@@ -11330,6 +11335,13 @@
       "score": 1.0
     }
   ],
+  "jonathancoletti": [
+    {
+      "entity_id": "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "jones": [
     {
       "entity_id": "alpaca_3134879440262429023",
@@ -15299,6 +15311,16 @@
     },
     {
       "entity_id": "dataset_svfsearch_svfsearchdata",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_thomaslee1818_gensin_instruct_read_to_train",
       "match_type": "exact",
       "score": 1.5
     },

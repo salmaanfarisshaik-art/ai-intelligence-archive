@@ -1276,6 +1276,10 @@
 - **ID**: model_farbodtavakkoli_otel_llm_e4b_it
 - **Source**: 
 
+## fdtn-ai/Foundation-Sec-1.1-8B-Instruct
+- **ID**: model_fdtn_ai_foundation_sec_1_1_8b_instruct
+- **Source**: 
+
 ## FINAL-Bench/POCKET-26B-GGUF
 - **ID**: model_final_bench_pocket_26b_gguf
 - **Source**: 
@@ -1836,6 +1840,10 @@
 - **ID**: model_janhq_jan_v3_5_4b_gguf
 - **Source**: 
 
+## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q4_K_M
+- **ID**: model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m
+- **Source**: 
+
 ## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q8_0
 - **ID**: model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0
 - **Source**: 
@@ -2146,6 +2154,10 @@
 
 ## lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit
 - **ID**: model_lmstudio_community_deepseek_r1_0528_qwen3_8b_mlx_8bit
+- **Source**: 
+
+## lmstudio-community/DeepSeek-R1-Distill-Qwen-14B-GGUF
+- **ID**: model_lmstudio_community_deepseek_r1_distill_qwen_14b_gguf
 - **Source**: 
 
 ## lmstudio-community/gemma-3-1b-it-GGUF

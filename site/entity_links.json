@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:28:31Z",
+  "generated_at": "2026-08-16T09:26:38Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2474,6 +2474,11 @@
     {
       "source_id": "model_jiunsong_supergemma4_26b_uncensored_gguf_v2",
       "target_id": "hf_google_gemma-4-26B-A4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -7569,6 +7574,11 @@
     {
       "source_id": "model_warshanks_qwen3_4b_instruct_2507_awq",
       "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_webai_official_twil_lm3",
+      "target_id": "hf_HuggingFaceTB_SmolLM3-3B",
       "type": "derived_from"
     },
     {

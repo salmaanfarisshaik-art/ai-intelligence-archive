@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ab77293def393e6938f11a7bfd12163decfb9620",
   "description": "\n\t\n\t\t\n\t\tAnnotation\n\t\n\nWe resized the dataset to 1080p for easier uploading. Therefore, the original annotation file might not match the video names. Please refer to this https://github.com/PKU-YuanGroup/Open-Sora-Plan/issues/312#issuecomment-2197312973\n\n\t\n\t\t\n\t\tPexels\n\t\n\nPexels consists of multiple folders, but each folder exceeds the size limit for Huggingface uploads. Therefore, we divided each folder into 5 parts. You need to merge the 5 parts of each folder first, and then extract each… See the full description on the dataset page: https://huggingface.co/datasets/LanguageBind/Open-Sora-Plan-v1.1.0.",
-  "downloads": 39891,
+  "downloads": 37456,
   "tags": [
     "license:mit",
     "size_categories:100K<n<1M",

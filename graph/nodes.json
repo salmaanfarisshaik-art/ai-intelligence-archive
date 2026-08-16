@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T08:27:30.991208+00:00",
+  "generated_at": "2026-08-16T09:25:55.585344+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -123940,6 +123940,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_68370197476641ade2a81199",
+      "label": "drssth/ModelNet-simscan"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6850196ad602532f84eb625b",
       "label": "world-igr-plum/regions"
     },
@@ -124212,6 +124217,11 @@
       "category": "dataset",
       "id": "hf_ds_6a1f3e49aa35c86b3f108f05",
       "label": "mteb/results"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a252aa1e7f978cbccbe94ed",
+      "label": "RoboDojo-Benchmark/RoboDojo"
     },
     {
       "category": "dataset",
@@ -133390,6 +133400,11 @@
     },
     {
       "category": "models",
+      "id": "model_fdtn_ai_foundation_sec_1_1_8b_instruct",
+      "label": "fdtn-ai/Foundation-Sec-1.1-8B-Instruct"
+    },
+    {
+      "category": "models",
       "id": "model_final_bench_pocket_26b_gguf",
       "label": "FINAL-Bench/POCKET-26B-GGUF"
     },
@@ -134090,6 +134105,11 @@
     },
     {
       "category": "models",
+      "id": "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m",
+      "label": "JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q4_K_M"
+    },
+    {
+      "category": "models",
       "id": "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0",
       "label": "JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q8_0"
     },
@@ -134477,6 +134497,11 @@
       "category": "models",
       "id": "model_lmstudio_community_deepseek_r1_0528_qwen3_8b_mlx_8bit",
       "label": "lmstudio-community/DeepSeek-R1-0528-Qwen3-8B-MLX-8bit"
+    },
+    {
+      "category": "models",
+      "id": "model_lmstudio_community_deepseek_r1_distill_qwen_14b_gguf",
+      "label": "lmstudio-community/DeepSeek-R1-Distill-Qwen-14B-GGUF"
     },
     {
       "category": "models",
@@ -436010,5 +436035,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87201
+  "total_nodes": 87206
 }
