@@ -32,8 +32,8 @@
     "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-12B-v2",
     "license:other",
     "endpoints_compatible",
-    "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
