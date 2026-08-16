@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.02779v2](http://arxiv.org/abs/2505.02779v2)
 
+## 
+- **ID**: arxiv_2505.02779v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.02779v2](http://arxiv.org/abs/2505.02779v2)
+
 ## 3D Scene Generation: A Survey
 - **ID**: arxiv_2505.05474v2
 - **Source**: ArXiv
@@ -2365,7 +2370,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13489v1](http://arxiv.org/abs/2608.13489v1)
 
+## 
+- **ID**: arxiv_2608.13489v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13489v1](http://arxiv.org/abs/2608.13489v1)
+
 ## TraVEL: Trajectory-Guided Video Embedding Learning for Driving-Video Retrieval
+- **ID**: arxiv_2608.13495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13495v1](http://arxiv.org/abs/2608.13495v1)
+
+## 
 - **ID**: arxiv_2608.13495v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13495v1](http://arxiv.org/abs/2608.13495v1)
@@ -2375,7 +2390,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13502v1](http://arxiv.org/abs/2608.13502v1)
 
+## 
+- **ID**: arxiv_2608.13502v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13502v1](http://arxiv.org/abs/2608.13502v1)
+
 ## TabSOM: A tabular-to-image encoding method based on self-organizing maps
+- **ID**: arxiv_2608.13513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13513v1](http://arxiv.org/abs/2608.13513v1)
+
+## 
 - **ID**: arxiv_2608.13513v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13513v1](http://arxiv.org/abs/2608.13513v1)
@@ -2385,7 +2410,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13541v1](http://arxiv.org/abs/2608.13541v1)
 
+## 
+- **ID**: arxiv_2608.13541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13541v1](http://arxiv.org/abs/2608.13541v1)
+
 ## Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+- **ID**: arxiv_2608.13546v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13546v1](http://arxiv.org/abs/2608.13546v1)
+
+## 
 - **ID**: arxiv_2608.13546v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13546v1](http://arxiv.org/abs/2608.13546v1)
@@ -2395,12 +2430,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13552v1](http://arxiv.org/abs/2608.13552v1)
 
+## 
+- **ID**: arxiv_2608.13552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13552v1](http://arxiv.org/abs/2608.13552v1)
+
 ## V-RAE: Rethinking Video Latent Spaces for Generation
 - **ID**: arxiv_2608.13556v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13556v1](http://arxiv.org/abs/2608.13556v1)
 
+## 
+- **ID**: arxiv_2608.13556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13556v1](http://arxiv.org/abs/2608.13556v1)
+
 ## AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+- **ID**: arxiv_2608.13560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13560v1](http://arxiv.org/abs/2608.13560v1)
+
+## 
 - **ID**: arxiv_2608.13560v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13560v1](http://arxiv.org/abs/2608.13560v1)

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13555v1",
+  "schema_version": "1.0",
+  "technique_name": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+  "description": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors. We introduce HumanTracker to",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.13555v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13555v1",
+    "updated": "2026-08-13T17:59:40Z",
+    "published": "2026-08-13T17:59:40Z",
+    "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+    "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences but miss the physical artifacts that matter most, particularly unstable support and incorrect contacts such as foot skating and mistimed touch-downs. Meanwhile, widely used test suites are small and lack the diversity needed to stress contact-rich, long-horizon behaviors. We introduce HumanTracker to make humanoid tracking evaluation both perceptually aligned and scalable. The HumanTracker benchmark contains approximately 153 hours of optical motion trajectories from multiple professional performers, organized into four motion families with text labels for fine-grained diagnosis. We further propose HumanScore, a preference-aligned metric trained on 12K motion pairs containing 24K motions. Across representative state-of-the-art trackers, HumanScore better predicts human preferences and reveals contact and stability failures that kinematic metrics often miss.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:59:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13555v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -10,6 +10,7 @@
 | [](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.11650v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2603.25821v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.26355v5) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2605.02815v2) | ArXiv |  | 1 |
@@ -23,6 +24,7 @@
 | [](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21570v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21574v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.04463v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06312v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06329v1) | ArXiv |  | 1 |
@@ -40,6 +42,11 @@
 | [](http://arxiv.org/abs/2608.12253v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.12269v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.12278v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13484v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13515v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13517v1) | ArXiv |  | 2 |
+| [](http://arxiv.org/abs/2608.13538v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13545v1) | ArXiv |  | 1 |
 | [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement](http://arxiv.org/abs/2608.12269v1) | ArXiv |  | 1 |
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |

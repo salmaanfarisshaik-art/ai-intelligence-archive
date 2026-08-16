@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
 
+## 
+- **ID**: arxiv_2505.04997v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
+
 ## On The Statistical Limits of Self-Improving Agents
 - **ID**: arxiv_2510.04399v3
 - **Source**: ArXiv
@@ -96,6 +101,11 @@
 - **URL**: [http://arxiv.org/abs/2604.23786v2](http://arxiv.org/abs/2604.23786v2)
 
 ## Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für 
+- **ID**: arxiv_2604.23859v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23859v3](http://arxiv.org/abs/2604.23859v3)
+
+## 
 - **ID**: arxiv_2604.23859v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23859v3](http://arxiv.org/abs/2604.23859v3)
@@ -1030,6 +1040,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05018v3](http://arxiv.org/abs/2608.05018v3)
 
+## 
+- **ID**: arxiv_2608.05018v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05018v3](http://arxiv.org/abs/2608.05018v3)
+
 ## Item Response Theory for AI Safety
 - **ID**: arxiv_2608.05086v1
 - **Source**: ArXiv
@@ -1310,6 +1325,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11195v2](http://arxiv.org/abs/2608.11195v2)
 
+## 
+- **ID**: arxiv_2608.11195v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11195v2](http://arxiv.org/abs/2608.11195v2)
+
 ## An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS
 - **ID**: arxiv_2608.12249v1
 - **Source**: ArXiv
@@ -1360,12 +1380,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13492v1](http://arxiv.org/abs/2608.13492v1)
 
+## 
+- **ID**: arxiv_2608.13492v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13492v1](http://arxiv.org/abs/2608.13492v1)
+
 ## QuoteBench: How Matched Scores Can Hide Command-Path Failures
 - **ID**: arxiv_2608.13547v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13547v1](http://arxiv.org/abs/2608.13547v1)
 
+## 
+- **ID**: arxiv_2608.13547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13547v1](http://arxiv.org/abs/2608.13547v1)
+
 ## OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+- **ID**: arxiv_2608.13558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13558v1](http://arxiv.org/abs/2608.13558v1)
+
+## 
 - **ID**: arxiv_2608.13558v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13558v1](http://arxiv.org/abs/2608.13558v1)

@@ -195,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.25821v3](http://arxiv.org/abs/2603.25821v3)
 
+## 
+- **ID**: arxiv_2603.25821v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.25821v3](http://arxiv.org/abs/2603.25821v3)
+
 ## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
 - **ID**: arxiv_2604.02512v2
 - **Source**: ArXiv
@@ -1200,6 +1205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04463v2](http://arxiv.org/abs/2608.04463v2)
 
+## 
+- **ID**: arxiv_2608.04463v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04463v2](http://arxiv.org/abs/2608.04463v2)
+
 ## A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination
 - **ID**: arxiv_2608.04872v2
 - **Source**: ArXiv
@@ -1460,7 +1470,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13484v1](http://arxiv.org/abs/2608.13484v1)
 
+## 
+- **ID**: arxiv_2608.13484v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13484v1](http://arxiv.org/abs/2608.13484v1)
+
 ## Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining
+- **ID**: arxiv_2608.13515v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13515v1](http://arxiv.org/abs/2608.13515v1)
+
+## 
 - **ID**: arxiv_2608.13515v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13515v1](http://arxiv.org/abs/2608.13515v1)
@@ -1470,12 +1490,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13517v1](http://arxiv.org/abs/2608.13517v1)
 
+## 
+- **ID**: arxiv_2608.13517v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13517v1](http://arxiv.org/abs/2608.13517v1)
+
 ## SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization
 - **ID**: arxiv_2608.13538v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13538v1](http://arxiv.org/abs/2608.13538v1)
 
+## 
+- **ID**: arxiv_2608.13538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13538v1](http://arxiv.org/abs/2608.13538v1)
+
 ## LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure
+- **ID**: arxiv_2608.13545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13545v1](http://arxiv.org/abs/2608.13545v1)
+
+## 
 - **ID**: arxiv_2608.13545v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13545v1](http://arxiv.org/abs/2608.13545v1)

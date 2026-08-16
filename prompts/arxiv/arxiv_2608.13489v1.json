@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13489v1",
+  "schema_version": "1.0",
+  "technique_name": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
+  "description": "We present \\textbf{DreamX-Phi 1.0}, an action-conditioned video world model for robotic manipulation that, given an observed frame, a language instruction, and a prescribed action sequence comprising end-effector poses and gripper states, predicts the resulting future observations. Yet realism alone does not guarantee faithfulness: a convincing rollout can still move the wrong arm or lose the manipulated object. To ensure the prediction respects each arm's commanded path, we inject per-arm $\\mat",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.13489v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13489v1",
+    "updated": "2026-08-13T17:18:09Z",
+    "published": "2026-08-13T17:18:09Z",
+    "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
+    "summary": "We present \\textbf{DreamX-Phi 1.0}, an action-conditioned video world model for robotic manipulation that, given an observed frame, a language instruction, and a prescribed action sequence comprising end-effector poses and gripper states, predicts the resulting future observations. Yet realism alone does not guarantee faithfulness: a convincing rollout can still move the wrong arm or lose the manipulated object. To ensure the prediction respects each arm's commanded path, we inject per-arm $\\mathrm{SE}(3)$ transformations into attention via \\textbf{PRoPE-style geometric encoding}, preserving arm identity and rigid-motion structure. Action control alone does not fully constrain scene geometry or the evolution of small manipulated objects. We therefore add a lightweight \\textbf{depth branch} for scene-level geometry and use \\textbf{SAM3 masks} with a frozen \\textbf{V-JEPA teacher} to maintain object consistency throughout grasping. We further distill the multi-step generator into a few-step student via distribution-matching distillation for efficient deployment. At the time of writing, \\model{} achieves first place on Track~1 and second place on Track~2 of the WorldArena~2.0 Challenge. Our model and code will be publicly available.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:18:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13489v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

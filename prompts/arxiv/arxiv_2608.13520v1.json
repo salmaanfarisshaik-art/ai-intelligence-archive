@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13520v1",
+  "schema_version": "1.0",
+  "technique_name": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+  "description": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-subset and fixed-cardinality unmasking schemes. In log-reveal-odds coordinates, this structure yields optimized single-block and multi-block schedules, and quantifies the gains from adapting computatio",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.13520v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13520v1",
+    "updated": "2026-08-13T17:40:17Z",
+    "published": "2026-08-13T17:40:17Z",
+    "title": "The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity",
+    "summary": "We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \\emph{unmasking growth complexity} ({\\textsf{UGC}\\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-subset and fixed-cardinality unmasking schemes. In log-reveal-odds coordinates, this structure yields optimized single-block and multi-block schedules, and quantifies the gains from adapting computational effort to data geometry. Crucially, we show how {\\textsf{UGC}\\xspace} increments can be estimated from samples via KL increments along coupled reveal trajectories. This leads to \\emph{certified-optimal} samplers that achieve a prescribed KL error with high probability and iteration complexity within a constant factor of the corresponding oracle procedure. Collapsing the \\ugc path yields the aggregate {\\textsf{UGC}\\xspace} mass, which connects to classical multivariate dependence measures and complexity measures from previous analyses of discrete diffusion. In the fine-partition limit, the squared integral of the square-root {\\textsf{UGC}\\xspace} density determines the sharp leading-order optimal Euler discretization error. Examples exhibit substantial dimension-dependent gains over coarse schedules, including $\\widetildeΩ(\\sqrt{d})$ improvements achievable with a constant number of adaptively placed blocks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:40:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13520v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

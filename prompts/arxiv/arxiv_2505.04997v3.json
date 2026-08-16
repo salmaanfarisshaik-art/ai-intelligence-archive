@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.04997v3",
+  "schema_version": "1.0",
+  "technique_name": "Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows",
+  "description": "Computational fluid dynamics (CFD) has been the main workhorse of computational physics, yet its steep learning curve and fragmented, multi-stage workflow create significant barriers to entry. We present Foam-Agent, a multi-agent framework that leverages large language models (LLMs) to automate the end-to-end CFD workflow in OpenFOAM from a single natural-language prompt. Foam-Agent rests on three methodological contributions. First, a multi-index retrieval scheme organizes domain knowledge alon",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2505.04997v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.04997v3",
+    "updated": "2026-08-13T17:41:39Z",
+    "published": "2025-05-08T07:05:51Z",
+    "title": "Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows",
+    "summary": "Computational fluid dynamics (CFD) has been the main workhorse of computational physics, yet its steep learning curve and fragmented, multi-stage workflow create significant barriers to entry. We present Foam-Agent, a multi-agent framework that leverages large language models (LLMs) to automate the end-to-end CFD workflow in OpenFOAM from a single natural-language prompt. Foam-Agent rests on three methodological contributions. First, a multi-index retrieval scheme organizes domain knowledge along four complementary structural dimensions and selects indices by workflow stage, sharpening retrieval precision over conventional single-index retrieval-augmented generation. Second, dependency-aware file generation is formulated as a topological traversal of the OpenFOAM case dependency graph, so that each configuration file is synthesized in the context of its already-generated predecessors, enforcing cross-file consistency. Third, a trajectory-conditioned reviewer loop iteratively repairs failed runs by conditioning each correction on the accumulated error-and-diagnosis trajectory of its own previous attempts, applying a minimal configuration edit that targets a reduced solver-error set. Around these contributions, six specialist agents span planning, meshing, file writing, execution, review, and visualization; Foam-Agent additionally exposes its capabilities through the Model Context Protocol as a deployment surface for external orchestrators. On FoamBench, Foam-Agent achieves an 88.2% execution success rate on the 110 Basic-tier tasks and 62.5% on the out-of-distribution Advanced tier, all without expert intervention. These results show how strategic harnessing of specialized multi-agent systems can reduce expertise barriers while preserving the rigor of solver-based simulation workflows.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:41:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.04997v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

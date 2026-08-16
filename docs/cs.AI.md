@@ -5,8 +5,10 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2604.23859v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21547v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
@@ -15,6 +17,7 @@
 | [](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.05018v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.05018v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06301v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06305v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.06346v1) | ArXiv |  | 1 |
@@ -28,9 +31,13 @@
 | [](http://arxiv.org/abs/2608.09902v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09921v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.11195v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.11195v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
 | [](http://arxiv.org/abs/2608.12304v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13492v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13547v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |
 | [A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](http://arxiv.org/abs/2607.25947v1) | ArXiv |  | 1 |

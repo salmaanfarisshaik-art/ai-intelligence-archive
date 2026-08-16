@@ -800,7 +800,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13482v1](http://arxiv.org/abs/2608.13482v1)
 
+## 
+- **ID**: arxiv_2608.13482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13482v1](http://arxiv.org/abs/2608.13482v1)
+
 ## Intern-S2-Preview: Scientific Agentic Foundation Model
+- **ID**: arxiv_2608.13505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13505v1](http://arxiv.org/abs/2608.13505v1)
+
+## 
 - **ID**: arxiv_2608.13505v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13505v1](http://arxiv.org/abs/2608.13505v1)
@@ -810,12 +820,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13518v1](http://arxiv.org/abs/2608.13518v1)
 
+## 
+- **ID**: arxiv_2608.13518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13518v1](http://arxiv.org/abs/2608.13518v1)
+
 ## The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity
 - **ID**: arxiv_2608.13520v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13520v1](http://arxiv.org/abs/2608.13520v1)
 
+## 
+- **ID**: arxiv_2608.13520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13520v1](http://arxiv.org/abs/2608.13520v1)
+
 ## Vero: Can AI Agents Build Formally Verified Software Repositories?
+- **ID**: arxiv_2608.13522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13522v1](http://arxiv.org/abs/2608.13522v1)
+
+## 
 - **ID**: arxiv_2608.13522v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13522v1](http://arxiv.org/abs/2608.13522v1)

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.25821v3",
+  "schema_version": "1.0",
+  "technique_name": "Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI",
+  "description": "We present Doctorina MedBench, an evaluation framework for agent-based medical AI based on the simulation of physician-patient interactions. Unlike traditional medical benchmarks that rely on solving standardized test questions, the proposed approach models a multi-step clinical dialogue in which an AI system must collect medical history, analyze available synthetic attachments when present, formulate differential diagnoses, and provide diagnostic and management recommendations. System performan",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2603.25821v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.25821v3",
+    "updated": "2026-08-13T17:57:32Z",
+    "published": "2026-03-26T18:38:25Z",
+    "title": "Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI",
+    "summary": "We present Doctorina MedBench, an evaluation framework for agent-based medical AI based on the simulation of physician-patient interactions. Unlike traditional medical benchmarks that rely on solving standardized test questions, the proposed approach models a multi-step clinical dialogue in which an AI system must collect medical history, analyze available synthetic attachments when present, formulate differential diagnoses, and provide diagnostic and management recommendations. System performance is evaluated across separate task-level domains, including diagnosis, differential diagnosis, treatment, safety-critical condition handling, and dialogue-step behavior; the broader D.O.T.S. framework is used as a supplementary summary for diagnosis, observations/investigations, treatment, and step count.\n  The framework also supports testing and quality-monitoring workflows intended to identify changes in model behavior during development. It supports safety-oriented cases, category-based sampling of synthetic clinical scenarios, and regression-style comparisons across system versions. In the reported study, the analyzed paired complete-case cohort consisted of 254 physician-authored synthetic clinical cases retained from 261 attempted case identifiers. The evaluation metrics are intended for comparative research on interactive medical AI systems and for studying clinical reasoning workflows in synthetic dialogue settings. Our results suggest that simulated clinical dialogue can provide a complementary assessment setting to traditional examination-style benchmarks, while the reported findings do not establish independent clinical validity, clinical effectiveness, or readiness for real-world deployment.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:57:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.25821v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

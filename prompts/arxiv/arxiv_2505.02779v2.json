@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.02779v2",
+  "schema_version": "1.0",
+  "technique_name": "Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance",
+  "description": "Retinal image registration, particularly for color fundus images, is a challenging yet essential task with diverse clinical applications. Existing registration methods for color fundus images typically rely on keypoints and descriptors for alignment; however, a significant limitation is their reliance on labeled data, which is particularly scarce in the medical domain.   In this work, we present a novel unsupervised registration pipeline that entirely eliminates the need for labeled data. Our ap",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2505.02779v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.02779v2",
+    "updated": "2026-08-13T17:36:47Z",
+    "published": "2025-05-05T16:46:32Z",
+    "title": "Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance",
+    "summary": "Retinal image registration, particularly for color fundus images, is a challenging yet essential task with diverse clinical applications. Existing registration methods for color fundus images typically rely on keypoints and descriptors for alignment; however, a significant limitation is their reliance on labeled data, which is particularly scarce in the medical domain.\n  In this work, we present a novel unsupervised registration pipeline that entirely eliminates the need for labeled data. Our approach is based on the principle that locations with distinctive descriptors constitute reliable keypoints. This fully inverts the conventional state-of-the-art approach, conditioning the detector on the descriptor rather than the opposite.\n  First, we propose an innovative descriptor learning method that operates without keypoint detection or any labels, generating descriptors for arbitrary locations in retinal images. Next, we introduce a novel, label-free keypoint detector network which works by estimating descriptor performance directly from the input image.\n  We validate our method through a comprehensive evaluation on four hold-out datasets, demonstrating that our unsupervised descriptor outperforms state-of-the-art supervised descriptors and that our unsupervised detector significantly outperforms existing unsupervised detection methods. Finally, our full registration pipeline achieves performance comparable to the leading supervised methods, while not employing any labeled data. Additionally, the label-free nature and design of our method enable direct adaptation to other domains and modalities.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:36:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.02779v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

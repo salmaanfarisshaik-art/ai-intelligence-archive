@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13518v1",
+  "schema_version": "1.0",
+  "technique_name": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+  "description": "Many clinical prediction models treat post-intervention outcomes as a one-step mapping from baseline measurements to a future endpoint. However, recovery after a procedure often unfolds as an irregular trajectory: clinical observations, medication changes, repeat interventions, and physiological measurements are recorded asynchronously and can change risk assessment over time. We propose an intervention-aware clinical world model that represents each patient with a structured latent state and ev",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2608.13518v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13518v1",
+    "updated": "2026-08-13T17:38:13Z",
+    "published": "2026-08-13T17:38:13Z",
+    "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
+    "summary": "Many clinical prediction models treat post-intervention outcomes as a one-step mapping from baseline measurements to a future endpoint. However, recovery after a procedure often unfolds as an irregular trajectory: clinical observations, medication changes, repeat interventions, and physiological measurements are recorded asynchronously and can change risk assessment over time. We propose an intervention-aware clinical world model that represents each patient with a structured latent state and evolves it through time-ordered post-intervention events. The model first encodes baseline imaging into a 3D spatial latent state. It then updates this state using procedural context, static covariates, elapsed time, and peri-event physiological embeddings. Follow-up imaging provides training-only supervision through a latent forecasting objective. We apply the framework to atrial fibrillation ablation. During the 90-day recovery window, irregular post-procedure records provide clinically meaningful evidence for long-term recurrence risk. In repeated internal cross-validation on DECAAF-II, our model achieves AUROC 0.756 and AUPRC 0.777 for recurrence prediction. It also achieves a scar-extent MAE of 2.971 percentage points without requiring follow-up MRI intensities at inference. The learned state supports recurrence-risk queries at different horizons and retrospective input editing of blanking-period records.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-16T15:20:46Z",
+  "last_updated": "2026-08-13T17:38:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13518v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
