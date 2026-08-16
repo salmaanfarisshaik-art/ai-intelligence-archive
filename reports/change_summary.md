@@ -1,79 +1,24 @@
 # Change Summary
 
-**Total Changes:** 124
+**Total Changes:** 65
 
 ## Added
-- prompts/arxiv/arxiv_2505.02779v2.json
-- prompts/arxiv/arxiv_2505.04997v3.json
-- prompts/arxiv/arxiv_2603.25821v3.json
-- prompts/arxiv/arxiv_2604.23859v3.json
-- prompts/arxiv/arxiv_2608.04463v2.json
-- prompts/arxiv/arxiv_2608.05018v3.json
-- prompts/arxiv/arxiv_2608.11195v2.json
-- prompts/arxiv/arxiv_2608.13482v1.json
-- prompts/arxiv/arxiv_2608.13484v1.json
-- prompts/arxiv/arxiv_2608.13489v1.json
-- prompts/arxiv/arxiv_2608.13492v1.json
-- prompts/arxiv/arxiv_2608.13495v1.json
-- prompts/arxiv/arxiv_2608.13502v1.json
-- prompts/arxiv/arxiv_2608.13505v1.json
-- prompts/arxiv/arxiv_2608.13513v1.json
-- prompts/arxiv/arxiv_2608.13515v1.json
-- prompts/arxiv/arxiv_2608.13517v1.json
-- prompts/arxiv/arxiv_2608.13518v1.json
-- prompts/arxiv/arxiv_2608.13520v1.json
-- prompts/arxiv/arxiv_2608.13522v1.json
-- prompts/arxiv/arxiv_2608.13538v1.json
-- prompts/arxiv/arxiv_2608.13541v1.json
-- prompts/arxiv/arxiv_2608.13545v1.json
-- prompts/arxiv/arxiv_2608.13546v1.json
-- prompts/arxiv/arxiv_2608.13547v1.json
-- prompts/arxiv/arxiv_2608.13552v1.json
-- prompts/arxiv/arxiv_2608.13555v1.json
-- prompts/arxiv/arxiv_2608.13556v1.json
-- prompts/arxiv/arxiv_2608.13558v1.json
-- prompts/arxiv/arxiv_2608.13560v1.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- docs/cs.AI.md
-- docs/cs.CL.md
-- exports/csv/all_entities.csv
-- exports/csv/cs.AI.csv
-- exports/csv/cs.CL.csv
-- exports/csv/cs.CV.csv
-- exports/csv/cs.LG.csv
-- exports/csv/cs.RO.csv
-- exports/json/all_entities.json
-- exports/json/cs.AI.json
-- exports/json/cs.CL.json
-- exports/json/cs.CV.json
-- exports/json/cs.LG.json
-- exports/json/cs.RO.json
-- exports/markdown/cs.AI.md
-- exports/markdown/cs.CL.md
-- exports/markdown/cs.CV.md
-- exports/markdown/cs.LG.md
-- exports/markdown/cs.RO.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
@@ -81,7 +26,6 @@
 - reports/integrity_status.json
 - reports/project_status.json
 - reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -89,7 +33,6 @@
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
-- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -100,7 +43,6 @@
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -111,7 +53,6 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
@@ -126,6 +67,7 @@
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
+- tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
