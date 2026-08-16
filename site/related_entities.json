@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:30:37Z",
+  "generated_at": "2026-08-16T08:28:31Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -366,6 +366,7 @@
       "model_kylehessling1_qwopus_glm_18b_merged_gguf"
     ],
     "hf_JetBrains_Mellum2-12B-A2.5B-Instruct": [
+      "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m",
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0"
     ],
     "hf_KBlueLeaf_danbooru2023-metadata-database": [
@@ -1582,6 +1583,7 @@
     "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-14B": [
       "model_bartowski_deepseek_r1_distill_qwen_14b_gguf",
       "model_jamescallander_deepseek_r1_distill_qwen_14b_w8a8_g128_rk3588_rkllm",
+      "model_lmstudio_community_deepseek_r1_distill_qwen_14b_gguf",
       "model_pbatra_deepseek_r1_distill_qwen_14b_gguf"
     ],
     "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-32B": [
@@ -1704,6 +1706,9 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT": [
       "hf_farbodtavakkoli_OTel-LLM",
       "hf_google_gemma-4-E4B-it"
+    ],
+    "hf_fdtn-ai_Foundation-Sec-8B": [
+      "model_fdtn_ai_foundation_sec_1_1_8b_instruct"
     ],
     "hf_fireworks-ai_llama-3-firefunction-v2": [
       "model_maziyarpanahi_firefunction_v2_gguf"
@@ -3739,6 +3744,9 @@
       "hf_farbodtavakkoli_OTel-LLM",
       "hf_google_gemma-4-E4B-it"
     ],
+    "model_fdtn_ai_foundation_sec_1_1_8b_instruct": [
+      "hf_fdtn-ai_Foundation-Sec-8B"
+    ],
     "model_final_bench_pocket_26b_gguf": [
       "hf_google_gemma-4-26B-A4B-it"
     ],
@@ -3991,6 +3999,9 @@
     "model_janhq_jan_v3_5_4b_gguf": [
       "hf_janhq_Jan-v3-4B-base-instruct"
     ],
+    "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m": [
+      "hf_JetBrains_Mellum2-12B-A2.5B-Instruct"
+    ],
     "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0": [
       "hf_JetBrains_Mellum2-12B-A2.5B-Instruct"
     ],
@@ -4151,6 +4162,9 @@
     ],
     "model_lmstudio_community_deepseek_r1_0528_qwen3_8b_mlx_8bit": [
       "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
+    ],
+    "model_lmstudio_community_deepseek_r1_distill_qwen_14b_gguf": [
+      "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-14B"
     ],
     "model_lmstudio_community_gemma_3_1b_it_gguf": [
       "hf_google_gemma-3-1b-it"
