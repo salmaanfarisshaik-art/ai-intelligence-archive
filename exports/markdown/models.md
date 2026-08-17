@@ -116,6 +116,10 @@
 - **ID**: model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp
 - **Source**: 
 
+## Alittlehammmer/Qwen3.6-35B-A3B-DFlash-GGUF-llama.cpp
+- **ID**: model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp
+- **Source**: 
+
 ## allenai/Llama-3.1-Tulu-3-8B-SFT
 - **ID**: model_allenai_llama_3_1_tulu_3_8b_sft
 - **Source**: 
@@ -294,6 +298,10 @@
 
 ## AtomicChat/Ling-3.0-flash-GGUF
 - **ID**: model_atomicchat_ling_3_0_flash_gguf
+- **Source**: 
+
+## AtomicChat/Qwen3.8-27B-GGUF
+- **ID**: model_atomicchat_qwen3_8_27b_gguf
 - **Source**: 
 
 ## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
@@ -582,6 +590,10 @@
 
 ## bleysg/Qwen3.5-122B-A10B-int4-fp8-hybrid
 - **ID**: model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid
+- **Source**: 
+
+## bloomer010/Ling-3.0-tiny-GGUF
+- **ID**: model_bloomer010_ling_3_0_tiny_gguf
 - **Source**: 
 
 ## boboliu/Qwen3-Embedding-4B-W4A16-G128
@@ -4450,6 +4462,10 @@
 
 ## RadixArk/Kimi-K3-DSpark
 - **ID**: model_radixark_kimi_k3_dspark
+- **Source**: 
+
+## RadixArk/Qwen3.8-27B-DSpark
+- **ID**: model_radixark_qwen3_8_27b_dspark
 - **Source**: 
 
 ## RavichandranJ/Dolphin3-Cyber-8B-GGUF
