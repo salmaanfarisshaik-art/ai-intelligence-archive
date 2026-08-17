@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:52:35Z",
+  "generated_at": "2026-08-17T07:53:09Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -3209,6 +3209,11 @@
     {
       "source_id": "model_lmstudio_community_qwen2_5_coder_32b_instruct_mlx_8bit",
       "target_id": "hf_Qwen_Qwen2.5-Coder-32B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen2_5_coder_7b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
       "type": "derived_from"
     },
     {

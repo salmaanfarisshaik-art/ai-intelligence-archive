@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 68
+**Total Changes:** 77
 
 ## Added
 None
@@ -15,11 +15,20 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/eleutherai/hf_EleutherAI_pythia-160m.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/qwen/hf_Qwen_Qwen-72B.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
 - models/qwen/hf_Qwen_Qwen3-1.7B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
-- models/radixark/hf_RadixArk_Kimi-K3-DSpark.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -45,6 +54,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -61,7 +71,6 @@ None
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
