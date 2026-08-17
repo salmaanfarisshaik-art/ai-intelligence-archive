@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 57
+**Total Changes:** 70
 
 ## Added
 None
@@ -9,14 +9,17 @@ None
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/gfdg34fsd/hf_ds_6a67d0a568d9afa362507f38.json
+- datasets/gokuscraper/hf_ds_69f638c8ebff1de2d6753093.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai-community/hf_openai-community_gpt2.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
 - models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -26,6 +29,7 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -33,6 +37,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -41,28 +46,36 @@ None
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
+- tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
+- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
+- tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
-- tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
+- tools/github-trending/gh_979115477.json
 
 ## Removed
 None
