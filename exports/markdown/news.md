@@ -3751,6 +3751,11 @@
 - **URL**: [https://openai.com/index/new-models-and-developer-products-announced-at-devday](https://openai.com/index/new-models-and-developer-products-announced-at-devday)
 
 ## 
+- **ID**: rss_https://openai.com/index/new-policy-ideas-for-the-intelligence-age
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/new-policy-ideas-for-the-intelligence-age](https://openai.com/index/new-policy-ideas-for-the-intelligence-age)
+
+## 
 - **ID**: rss_https://openai.com/index/new-result-theoretical-physics
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/new-result-theoretical-physics](https://openai.com/index/new-result-theoretical-physics)

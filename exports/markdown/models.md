@@ -1220,6 +1220,10 @@
 - **ID**: model_erwanf_gpt2_mini
 - **Source**: 
 
+## esatapedico/Qwen3.8-27B-NVFP4-MTP-GGUF
+- **ID**: model_esatapedico_qwen3_8_27b_nvfp4_mtp_gguf
+- **Source**: 
+
 ## EssentialAI/rnj-1
 - **ID**: model_essentialai_rnj_1
 - **Source**: 
