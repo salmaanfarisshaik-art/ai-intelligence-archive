@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fc867f856f306905cf94c1f5df978cc518a2048c",
   "description": "\n\t\n\t\t\n\t\tHow To Load from HuggingFace Hub\n\t\n\n\nBe sure to have the_well installed (pip install the_well)\nUse the WellDataModule to retrieve data as follows:\n\nfrom the_well.data import WellDataModule\n\n# The following line may take a couple of minutes to instantiate the datamodule\ndatamodule = WellDataModule(\n    \"hf://datasets/polymathic-ai/\",\n    \"shear_flow\",\n)\ntrain_dataloader = datamodule.train_dataloader()\n\nfor batch in dataloader:\n    # Process training batch\n    ...\n\n\n\t\n\t\n\t\n\t\tPeriodic… See the full description on the dataset page: https://huggingface.co/datasets/polymathic-ai/shear_flow.",
-  "downloads": 33819,
+  "downloads": 28983,
   "tags": [
     "task_categories:time-series-forecasting",
     "task_categories:other",

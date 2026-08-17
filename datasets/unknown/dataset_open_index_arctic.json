@@ -9,7 +9,7 @@
   "private": false,
   "sha": "da567f9441c5a7ebf02d13eeeaa020b11f321f8d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tArctic Shift Reddit Archive\n\t\n\n\nEvery Reddit comment and submission since 2005, organized as monthly Parquet shards\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThe full Reddit archive from Arctic Shift, converted to Parquet and hosted here for easy access. Covers every public subreddit from 2005-12 through 2026-02.\nRight now the archive has 15.7B items (12.9B comments, 2.8B submissions) in 1.3 TB of compressed Parquet. Comments and submissions are stored as separate datasets, split into monthly… See the full description on the dataset page: https://huggingface.co/datasets/open-index/arctic.",
-  "downloads": 28990,
+  "downloads": 29967,
   "tags": [
     "task_categories:text-generation",
     "task_categories:text-classification",

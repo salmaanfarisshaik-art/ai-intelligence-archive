@@ -3372,6 +3372,10 @@
 - **ID**: model_nvidia_nvidia_nemotron_nano_9b_v2_japanese
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-Nano-9B-v2-NVFP4
+- **ID**: model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4
+- **Source**: 
+
 ## nvidia/OpenReasoning-Nemotron-32B
 - **ID**: model_nvidia_openreasoning_nemotron_32b
 - **Source**: 

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:42:07Z",
+  "generated_at": "2026-08-17T09:40:35Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1092,6 +1092,7 @@
     ],
     "hf_Qwen_Qwen3.8-27B": [
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
+      "model_atomicchat_qwen3_8_27b_gguf",
       "model_jonathancoletti_qwen3_8_27b_uncensored_gguf"
     ],
     "hf_RASA": [
@@ -1909,6 +1910,9 @@
     ],
     "hf_inclusionAI_Ling-3.0-flash": [
       "model_atomicchat_ling_3_0_flash_gguf"
+    ],
+    "hf_inclusionAI_Ling-3.0-tiny": [
+      "model_bloomer010_ling_3_0_tiny_gguf"
     ],
     "hf_inclusionAI_Ling-mini-base-2.0": [
       "model_inclusionai_ling_mini_2_0"
@@ -2918,6 +2922,9 @@
       "model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp",
       "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16"
     ],
+    "hf_z-lab_Qwen3.6-35B-A3B-DFlash": [
+      "model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp"
+    ],
     "hf_zai-org_GLM-4-32B-0414": [
       "model_mratsim_glm_4_32b_0414_w4a16_gptq"
     ],
@@ -3042,6 +3049,9 @@
     ],
     "model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp": [
       "hf_z-lab_Qwen3.6-27B-DFlash"
+    ],
+    "model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp": [
+      "hf_z-lab_Qwen3.6-35B-A3B-DFlash"
     ],
     "model_allenai_llama_3_1_tulu_3_8b_sft": [
       "hf_allenai_tulu-3-sft-mixture",
@@ -3172,6 +3182,9 @@
     ],
     "model_atomicchat_ling_3_0_flash_gguf": [
       "hf_inclusionAI_Ling-3.0-flash"
+    ],
+    "model_atomicchat_qwen3_8_27b_gguf": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
@@ -3366,6 +3379,9 @@
     ],
     "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid": [
       "hf_Intel_Qwen3.5-122B-A10B-int4-AutoRound"
+    ],
+    "model_bloomer010_ling_3_0_tiny_gguf": [
+      "hf_inclusionAI_Ling-3.0-tiny"
     ],
     "model_boboliu_qwen3_embedding_4b_w4a16_g128": [
       "hf_Qwen_Qwen3-Embedding-4B"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T08:42:07Z",
+  "generated_at": "2026-08-17T09:40:35Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -357,6 +357,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp",
+      "target_id": "hf_z-lab_Qwen3.6-35B-A3B-DFlash",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_allenai_llama_3_1_tulu_3_8b_sft",
       "target_id": "hf_allenai_tulu-3-sft-mixture",
       "type": "trained_on"
@@ -634,6 +639,11 @@
     {
       "source_id": "model_atomicchat_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_qwen3_8_27b_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -1014,6 +1024,11 @@
     {
       "source_id": "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid",
       "target_id": "hf_Intel_Qwen3.5-122B-A10B-int4-AutoRound",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bloomer010_ling_3_0_tiny_gguf",
+      "target_id": "hf_inclusionAI_Ling-3.0-tiny",
       "type": "derived_from"
     },
     {

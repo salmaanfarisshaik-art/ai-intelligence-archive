@@ -10,7 +10,7 @@
   "sha": "f183ce202324f42196eee789dc44c8f3200e7ab6",
   "citation": "@inproceedings{panayotov2015librispeech,\n  title={Librispeech: an ASR corpus based on public domain audio books},\n  author={Panayotov, Vassil and Chen, Guoguo and Povey, Daniel and Khudanpur, Sanjeev},\n  booktitle={Acoustics, Speech and Signal Processing (ICASSP), 2015 IEEE International Conference on},\n  pages={5206--5210},\n  year={2015},\n  organization={IEEE}\n}",
   "description": "LibriSpeech is a corpus of approximately 1000 hours of read English speech with sampling rate of 16 kHz,\nprepared by Vassil Panayotov with the assistance of Daniel Povey. The data is derived from read\naudiobooks from the LibriVox project, and has been carefully segmented and aligned.\n\nNote that in order to limit the required storage for preparing this dataset, the audio\nis stored in the .flac format and is not converted to a float32 array. To convert, the audio\nfile to a float32 array, please make use of the `.map()` function as follows:\n\n\n```python\nimport soundfile as sf\n\ndef map_to_array(batch):\n    speech_array, _ = sf.read(batch[\"file\"])\n    batch[\"speech\"] = speech_array\n    return batch\n\ndataset = dataset.map(map_to_array, remove_columns=[\"file\"])\n```",
-  "downloads": 36867,
+  "downloads": 37360,
   "tags": [
     "region:us"
   ],

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87303
+**Total Entities Tracked**: 87305
 
 ## Category Distribution
 
@@ -8,9 +8,9 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1615
-- **models**: 1472
+- **models**: 1473
 - **news**: 1154
-- **dataset**: 1146
+- **dataset**: 1147
 - **text-generation**: 1004
 - **cs.CV**: 505
 - **cs.CL**: 306
@@ -81,11 +81,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30265
+- ****: 30266
 - **Hugging Face**: 2011
 - **ArXiv**: 1578
 - **OpenAI Blog**: 1140
-- **HuggingFace Datasets**: 146
+- **HuggingFace Datasets**: 147
 - **GitHub Trending**: 49
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -125,7 +125,7 @@
 
 ## Top Tags
 
-- **region:us**: 213
+- **region:us**: 214
 - **text-generation**: 68
 - **library:datasets**: 67
 - **library:mlcroissant**: 67
@@ -133,8 +133,8 @@
 - **transformers**: 60
 - **endpoints_compatible**: 58
 - **safetensors**: 58
+- **language:en**: 56
 - **license:apache-2.0**: 56
-- **language:en**: 55
 - **conversational**: 51
 - **library:polars**: 50
 - **license:mit**: 42
@@ -156,9 +156,9 @@
 - **api**: 16
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 14
+- **task_categories:robotics**: 13
 - **modality:video**: 12
 - **size_categories:100K<n<1M**: 12
-- **task_categories:robotics**: 12
 - **license:odc-by**: 11
 - **multilinguality:monolingual**: 11
 - **arxiv:2505.09388**: 10
@@ -170,8 +170,8 @@
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
+- **size_categories:n>1T**: 9
 - **language:ar**: 8
 - **language:zh**: 8
 - **security**: 8
-- **size_categories:n>1T**: 8
 - **arxiv:2309.00071**: 7

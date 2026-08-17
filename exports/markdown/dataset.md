@@ -736,6 +736,12 @@
 - **URL**: [https://huggingface.co/datasets/ksolovev/FineNews](https://huggingface.co/datasets/ksolovev/FineNews)
 - **Tags**: region:us
 
+## tars-robotics/WIYH
+- **ID**: hf_ds_69c3db34480308a6a3cabb37
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/tars-robotics/WIYH](https://huggingface.co/datasets/tars-robotics/WIYH)
+- **Tags**: ego-centric, language:en, license:cc-by-nc-4.0, region:us, robotic manipulation, size_categories:n>1T, task_categories:robotics, vision-language-action model, world model
+
 ## ayuo/hd_tmp
 - **ID**: hf_ds_69cd2a3acc9af6d091c033f0
 - **Source**: HuggingFace Datasets

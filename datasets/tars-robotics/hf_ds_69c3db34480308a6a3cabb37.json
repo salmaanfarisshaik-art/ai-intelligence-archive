@@ -1,0 +1,47 @@
+{
+  "unique_id": "hf_ds_69c3db34480308a6a3cabb37",
+  "schema_version": "1.0",
+  "name": "tars-robotics/WIYH",
+  "description": "\n\t\n\t\t\n\t\tWorldCode Exported JSON Field Specification\n\t\n\nThe following specification is based on the actual outputs produced by the export script, as well as the example file worldcode_HS-2-1420125020208_2025-10-21-14-50-09_3_s0_vlta_reorg_sample_1-2.json.\n\n\t\n\t\t\n\t\tTop-level Fields\n\t\n\n\n\t\n\t\t\nField\nDescription\n\n\n\t\t\nworldcode_name\nName of the current sample, typically also the filename of the exported JSON.\n\n\ndataset_path\nAbsolute path to the original worldcode directory.\n\n\ntask_description… See the full description on the dataset page: https://huggingface.co/datasets/tars-robotics/WIYH.",
+  "size": "239614",
+  "source_url": "https://huggingface.co/datasets/tars-robotics/WIYH",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "69c3db34480308a6a3cabb37",
+    "id": "tars-robotics/WIYH",
+    "author": "tars-robotics",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-05-05T06:25:18.000Z",
+    "likes": 1,
+    "private": false,
+    "sha": "fdffe8f3c0bfc6bdf609413b9b84bd524a12aeb5",
+    "description": "\n\t\n\t\t\n\t\tWorldCode Exported JSON Field Specification\n\t\n\nThe following specification is based on the actual outputs produced by the export script, as well as the example file worldcode_HS-2-1420125020208_2025-10-21-14-50-09_3_s0_vlta_reorg_sample_1-2.json.\n\n\t\n\t\t\n\t\tTop-level Fields\n\t\n\n\n\t\n\t\t\nField\nDescription\n\n\n\t\t\nworldcode_name\nName of the current sample, typically also the filename of the exported JSON.\n\n\ndataset_path\nAbsolute path to the original worldcode directory.\n\n\ntask_description… See the full description on the dataset page: https://huggingface.co/datasets/tars-robotics/WIYH.",
+    "downloads": 239614,
+    "tags": [
+      "task_categories:robotics",
+      "language:en",
+      "license:cc-by-nc-4.0",
+      "size_categories:n>1T",
+      "region:us",
+      "robotic manipulation",
+      "ego-centric",
+      "world model",
+      "vision-language-action model"
+    ],
+    "createdAt": "2026-03-25T12:55:16.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-08-17T09:39:26.904058+00:00",
+  "last_updated": "2026-05-05T06:25:18.000Z",
+  "links": {
+    "related_models": [
+      "datasets/tars-robotics"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

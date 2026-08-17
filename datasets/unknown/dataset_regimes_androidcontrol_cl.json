@@ -1,0 +1,20 @@
+{
+  "_id": "69ee06b7010230ba27bd394f",
+  "id": "Regimes/androidcontrol-cl",
+  "author": "Regimes",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-04-26T14:20:03.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "b66ebd9868d29ef07459a05f1c8fc971782b5bdf",
+  "description": "\n\t\n\t\t\n\t\tAndroidControl-CL\n\t\n\nThis repository contains the AndroidControl-CL dataset for Android GUI control and continual learning.\nThis dataset is released with the paper:\nCGL: Advancing Continual GUI Learning via Reinforcement Fine-Tuning\n\n\t\n\t\t\n\t\tContents\n\t\n\n\nimages_360/: screenshot trajectories\njson_type_split/: JSONL data files\nparquet_convert/: Parquet files for training and evaluation\n\n\n\t\n\t\t\n\t\tNotes\n\t\n\n\nThe dataset includes train/test splits by task category.\nPlease follow the dataset… See the full description on the dataset page: https://huggingface.co/datasets/Regimes/androidcontrol-cl.",
+  "downloads": 28996,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2026-04-26T12:36:07.000Z",
+  "key": "",
+  "unique_id": "dataset_regimes_androidcontrol_cl",
+  "schema_version": "1.0"
+}

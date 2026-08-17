@@ -4958,6 +4958,11 @@
   ],
   "bailing": [
     {
+      "entity_id": "model_bloomer010_ling_3_0_tiny_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_inclusionai_ling_lite_1_5",
       "match_type": "exact",
       "score": 1.5
@@ -4969,6 +4974,13 @@
     },
     {
       "entity_id": "model_inclusionai_ring_2_5_1t",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "bailingmoe3": [
+    {
+      "entity_id": "model_bloomer010_ling_3_0_tiny_gguf",
       "match_type": "exact",
       "score": 1.5
     }
@@ -12417,6 +12429,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_allenai_llama_3_1_tulu_3_8b_sft",
       "match_type": "exact",
       "score": 3.0
@@ -12543,6 +12560,11 @@
     },
     {
       "entity_id": "model_atomicchat_ling_3_0_flash_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_atomicchat_qwen3_8_27b_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -12813,6 +12835,11 @@
     },
     {
       "entity_id": "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_bloomer010_ling_3_0_tiny_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -17102,6 +17129,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nodemind_shadow_o_tokens_20b",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nvidia_nemotron_cc_v2",
       "match_type": "exact",
       "score": 1.0
@@ -21366,6 +21398,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_abtinzandi_obstacle_detection_dataset_yolo",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_ai2_arc",
       "match_type": "exact",
       "score": 1.0
@@ -21392,6 +21429,11 @@
     },
     {
       "entity_id": "dataset_fudan_fmri_fmri_shape",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_heesup_vlm_plant_sim",
       "match_type": "exact",
       "score": 1.0
     },
@@ -21632,6 +21674,11 @@
     },
     {
       "entity_id": "hf_ds_69bd10117ce15b06bbea0357",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69c3db34480308a6a3cabb37",
       "match_type": "exact",
       "score": 1.0
     },
@@ -70750,6 +70797,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_harborframework_terminal_bench_2_0",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_lukaemon_bbh",
       "match_type": "exact",
       "score": 3.0
@@ -71137,6 +71189,11 @@
     },
     {
       "entity_id": "dataset_google_deepsearchqa",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_2_0",
       "match_type": "exact",
       "score": 4.5
     },
@@ -79217,6 +79274,11 @@
     },
     {
       "entity_id": "dataset_nvidia_helpsteer2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_princeton_nlp_prolong_data_64k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -94382,6 +94444,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nicoboou_idrcell100k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/biodefense-in-the-intelligence-age",
       "match_type": "exact",
       "score": 1.0
@@ -94469,6 +94536,11 @@
     },
     {
       "entity_id": "dataset_mmmu_mmmu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nicoboou_idrcell100k",
       "match_type": "exact",
       "score": 1.5
     },
@@ -104062,6 +104134,13 @@
       "entity_id": "alpaca_5492507167005165962",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "bloomer010": [
+    {
+      "entity_id": "model_bloomer010_ling_3_0_tiny_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "bloomforcausallm": [
@@ -122017,6 +122096,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_heesup_vlm_plant_sim",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1602451594639164374",
       "match_type": "exact",
       "score": 1.0
@@ -134803,6 +134887,11 @@
     },
     {
       "entity_id": "dataset_innovatorlab_innovator_vl_instruct_46m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nicoboou_idrcell100k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -162134,6 +162223,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_allenai_qasc",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_allenai_sciq",
       "match_type": "exact",
       "score": 1.5
@@ -162785,6 +162879,11 @@
     },
     {
       "entity_id": "dataset_nkp37_openvid_1m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nodemind_shadow_o_tokens_20b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -174124,6 +174223,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_princeton_nlp_prolong_data_64k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_princeton_nlp_swe_bench",
       "match_type": "exact",
       "score": 1.0
@@ -174135,6 +174239,11 @@
     },
     {
       "entity_id": "dataset_princeton_nlp_swe_bench_verified",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_regimes_androidcontrol_cl",
       "match_type": "exact",
       "score": 1.0
     },
@@ -174210,6 +174319,11 @@
     },
     {
       "entity_id": "dataset_tanganke_dtd",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tasksource_mmlu",
       "match_type": "exact",
       "score": 1.0
     },
@@ -174385,6 +174499,11 @@
     },
     {
       "entity_id": "hf_ds_699250f08be5bf8321aeb29e",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69c3db34480308a6a3cabb37",
       "match_type": "exact",
       "score": 1.0
     },

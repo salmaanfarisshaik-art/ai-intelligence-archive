@@ -8357,6 +8357,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_69c3db34480308a6a3cabb37",
+      "target": "datasets/tars-robotics"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_69cf1925c61c6c0fbb866b5d",
       "target": "datasets/Williamsanderson"
     },
@@ -8691,7 +8696,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-17T08:41:06.362040+00:00",
+  "generated_at": "2026-08-17T09:39:36.656999+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -133297,6 +133302,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69c3db34480308a6a3cabb37",
+      "label": "tars-robotics/WIYH"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69cd2a3acc9af6d091c033f0",
       "label": "ayuo/hd_tmp"
     },
@@ -145174,6 +145184,11 @@
       "category": "models",
       "id": "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese",
       "label": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese"
+    },
+    {
+      "category": "models",
+      "id": "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
+      "label": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-NVFP4"
     },
     {
       "category": "models",
@@ -445212,6 +445227,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 1738,
-  "total_nodes": 87303
+  "total_edges": 1739,
+  "total_nodes": 87305
 }

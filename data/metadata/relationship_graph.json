@@ -124601,6 +124601,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_69c3db34480308a6a3cabb37",
+      "label": "tars-robotics/WIYH",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_69cd2a3acc9af6d091c033f0",
       "label": "ayuo/hd_tmp",
       "category": "dataset"
@@ -136478,6 +136483,11 @@
     {
       "id": "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese",
       "label": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+      "category": "models"
+    },
+    {
+      "id": "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
+      "label": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-NVFP4",
       "category": "models"
     },
     {
@@ -444870,6 +444880,11 @@
     {
       "source": "hf_ds_69bd10117ce15b06bbea0357",
       "target": "datasets/PresentBench",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_69c3db34480308a6a3cabb37",
+      "target": "datasets/tars-robotics",
       "relationship": "related_models"
     },
     {

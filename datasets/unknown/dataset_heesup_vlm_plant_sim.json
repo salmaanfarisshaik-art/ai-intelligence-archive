@@ -1,0 +1,26 @@
+{
+  "_id": "69b72e39ed37e64e06eaf53e",
+  "id": "heesup/vlm-plant-sim",
+  "author": "heesup",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-09T05:23:37.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "5ad8b38666dc95fca087233316798abe56550e2b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tVLM Plant Sim\n\t\n\nThis dataset update merges three sources into source-based splits:\n\nsynthetic: HELIOS simulation outputs from 2025 Davis generation.\nreal: orthophoto patches (PNG only).\nreal_dap10_boxes: annotated patch subset (plots 1-16 only).\n\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\n\nsynthetic: 2797\nreal: 560\nreal_dap10_boxes: 224\n\n\n\t\n\t\t\n\t\n\t\n\t\tNotes\n\t\n\n\nReal split intentionally excludes method outputs (*.json and *.md) from evaluation artifacts.\nInitial-plant split includes only samples where… See the full description on the dataset page: https://huggingface.co/datasets/heesup/vlm-plant-sim.",
+  "downloads": 30147,
+  "tags": [
+    "task_categories:image-classification",
+    "task_categories:object-detection",
+    "task_categories:image-segmentation",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "region:us"
+  ],
+  "createdAt": "2026-03-15T22:10:01.000Z",
+  "key": "",
+  "unique_id": "dataset_heesup_vlm_plant_sim",
+  "schema_version": "1.0"
+}
