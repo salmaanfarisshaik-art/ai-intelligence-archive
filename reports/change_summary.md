@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 66
 
 ## Added
 None
@@ -16,9 +16,8 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json
-- models/google/hf_google_gemma-3-1b-it.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -57,14 +56,11 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_695864515.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
@@ -74,6 +70,7 @@ None
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
+- tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
 ## Removed
