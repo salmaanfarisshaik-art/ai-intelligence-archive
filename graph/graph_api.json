@@ -8691,7 +8691,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-17T07:52:08.370162+00:00",
+  "generated_at": "2026-08-17T08:41:06.362040+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -143794,6 +143794,11 @@
       "category": "models",
       "id": "model_lmstudio_community_qwen2_5_coder_32b_instruct_mlx_8bit",
       "label": "lmstudio-community/Qwen2.5-Coder-32B-Instruct-MLX-8bit"
+    },
+    {
+      "category": "models",
+      "id": "model_lmstudio_community_qwen2_5_coder_7b_instruct_gguf",
+      "label": "lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF"
     },
     {
       "category": "models",
@@ -445208,5 +445213,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1738,
-  "total_nodes": 87302
+  "total_nodes": 87303
 }

@@ -2268,6 +2268,10 @@
 - **ID**: model_lmstudio_community_qwen2_5_coder_32b_instruct_mlx_8bit
 - **Source**: 
 
+## lmstudio-community/Qwen2.5-Coder-7B-Instruct-GGUF
+- **ID**: model_lmstudio_community_qwen2_5_coder_7b_instruct_gguf
+- **Source**: 
+
 ## lmstudio-community/Qwen3-14B-GGUF
 - **ID**: model_lmstudio_community_qwen3_14b_gguf
 - **Source**: 

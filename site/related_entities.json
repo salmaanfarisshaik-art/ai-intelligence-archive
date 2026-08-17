@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:53:10Z",
+  "generated_at": "2026-08-17T08:42:07Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -2298,7 +2298,8 @@
     "hf_nvidia_NVIDIA-Nemotron-Nano-9B-v2": [
       "model_nvidia_nvidia_nemotron_3_nano_4b_bf16",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
-      "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese"
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4"
     ],
     "hf_nvidia_Nemotron-3-Nano-RL-Training-Blend": [
       "model_lmstudio_community_nvidia_nemotron_3_nano_30b_a3b_mlx_4bit",
@@ -2350,6 +2351,7 @@
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -2368,6 +2370,7 @@
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -2446,14 +2449,16 @@
     "hf_nvidia_Nemotron-Post-Training-Dataset-v1": [
       "model_nvidia_nvidia_nemotron_nano_12b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
-      "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8"
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4"
     ],
     "hf_nvidia_Nemotron-Post-Training-Dataset-v2": [
       "model_nvidia_nvidia_nemotron_3_nano_4b_bf16",
       "model_nvidia_nvidia_nemotron_3_nano_4b_fp8",
       "model_nvidia_nvidia_nemotron_nano_12b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
-      "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8"
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4"
     ],
     "hf_nvidia_Nemotron-Pretraining-Code-v1": [
       "model_lmstudio_community_nvidia_nemotron_3_nano_30b_a3b_mlx_4bit",
@@ -2493,6 +2498,7 @@
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
       "model_pfnet_plamo_3_nict_2b_base",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
@@ -2510,6 +2516,7 @@
       "model_nvidia_nvidia_nemotron_nano_9b_v2",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_base",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_fp8",
+      "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -5029,6 +5036,15 @@
       "hf_nvidia_Nemotron-Instruction-Following-Chat-v1",
       "hf_nvidia_Nemotron-Personas-Japan",
       "hf_nvidia_Nemotron-Pretraining-Specialized-v1"
+    ],
+    "model_nvidia_nvidia_nemotron_nano_9b_v2_nvfp4": [
+      "hf_nvidia_NVIDIA-Nemotron-Nano-9B-v2",
+      "hf_nvidia_Nemotron-CC-Math-v1",
+      "hf_nvidia_Nemotron-CC-v2",
+      "hf_nvidia_Nemotron-Post-Training-Dataset-v1",
+      "hf_nvidia_Nemotron-Post-Training-Dataset-v2",
+      "hf_nvidia_Nemotron-Pretraining-Dataset-sample",
+      "hf_nvidia_Nemotron-Pretraining-SFT-v1"
     ],
     "model_nvidia_openreasoning_nemotron_32b": [
       "hf_Qwen_Qwen2.5-32B"
