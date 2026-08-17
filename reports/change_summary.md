@@ -1,9 +1,10 @@
 # Change Summary
 
-**Total Changes:** 81
+**Total Changes:** 79
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_new-policy-ideas-for-the-intelligence-age.json
+- prompts/openai-blog/rss_https___openai.com_index_openai-joins-ports-pike-project.json
+- prompts/openai-blog/rss_https___openai.com_index_the-defenders-window.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -18,17 +19,13 @@
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - exports/csv/all_entities.csv
-- exports/csv/models.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/models.json
 - exports/json/news.json
-- exports/markdown/models.md
 - exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/qwen/hf_Qwen_Qwen3-14B.json
 - models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -69,12 +66,13 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
 - tools/github-trending/gh_680120071.json
-- tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json

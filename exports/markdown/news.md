@@ -4221,6 +4221,11 @@
 - **URL**: [https://openai.com/index/openai-inbound-sales-assistant](https://openai.com/index/openai-inbound-sales-assistant)
 
 ## 
+- **ID**: rss_https://openai.com/index/openai-joins-ports-pike-project
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-joins-ports-pike-project](https://openai.com/index/openai-joins-ports-pike-project)
+
+## 
 - **ID**: rss_https://openai.com/index/openai-launches-the-deployment-company
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-launches-the-deployment-company](https://openai.com/index/openai-launches-the-deployment-company)
@@ -5324,6 +5329,11 @@
 - **ID**: rss_https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training](https://openai.com/index/text-and-code-embeddings-by-contrastive-pre-training)
+
+## 
+- **ID**: rss_https://openai.com/index/the-defenders-window
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-defenders-window](https://openai.com/index/the-defenders-window)
 
 ## 
 - **ID**: rss_https://openai.com/index/the-five-ai-value-models-driving-business-reinvention
