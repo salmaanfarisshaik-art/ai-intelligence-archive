@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.11626v3",
+  "schema_version": "1.0",
+  "name": "ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.11626v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.11626v3",
+    "updated": "2026-08-14T17:52:24Z",
+    "published": "2026-02-12T06:22:59Z",
+    "title": "ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning",
+    "summary": "Learning solution operators on arbitrary geometries remains a central challenge in scientific machine learning, especially for many-query simulation, physics-informed learning, and evolving geometries requiring accurate, geometry-aware predictions at arbitrary spatial locations. Existing operator-learning methods often rely on structured discretizations, explicit geometry parameterizations, or point-cloud formulations that couple geometric representation with solution-query sampling, limiting flexibility on irregular and non-parameterized domains. We propose the Arbitrary Geometry-encoded Transformer (ArGEnT), a geometry-conditioned attention framework that decouples geometry encoding from query-point evaluation. We develop three variants: self-attention, cross-attention, and hybrid-attention. ArGEnT can be used independently or integrated with neural operators to incorporate non-geometric physical inputs. In the cross-attention variant, geometry is represented by an independently sampled point cloud used to construct keys and values, while arbitrary solution-query points construct queries. This design enables mesh-independent field prediction, reduces sensitivity to query-point distribution, and allows compact geometric representations to condition large-scale solution evaluations. Across benchmarks in fluid dynamics, solid mechanics, and electrochemical systems, ArGEnT consistently improves accuracy and generalization over standard DeepONet, point-cloud-based operator learning, and geometry-aware transformer baselines. In several cases, it reduces prediction errors by more than an order of magnitude while requiring substantially lower training cost than transformer-based baselines. These results demonstrate that decoupled geometry-query attention provides an accurate, scalable, and flexible framework for operator learning on arbitrary geometries.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T17:52:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.11626v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.29516v2",
+  "schema_version": "1.0",
+  "name": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.29516v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.29516v2",
+    "updated": "2026-08-14T15:44:33Z",
+    "published": "2026-07-31T15:17:25Z",
+    "title": "From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale",
+    "summary": "AI coding agents are generating code at volumes that exceed the capacity of traditional peer review. At the same time, existing AI code review tools over-index on low-value suggestions such as style and best practices while under-indexing on the concerns human reviewers prioritize most: correctness, security, and performance. We present ARCTIC, an AI-powered Code Critique system that reframes code review around three capabilities: intent prediction, which infers why a change was made from conversation logs and metadata; drift detection, which measures divergence between the developer's intent and the agent's output via backtranslation; and code spotlight, which ranks the regions of a diff most warranting human scrutiny. We ground these capabilities in a six-theme taxonomy derived from 18,000 code reviews. Offline evaluation shows that intent prediction achieves 0.86 F1, drift detection reaches near-perfect ordinal agreement with human annotators (QWK = 0.907), and spotlight outperforms the baseline AI reviewer by 2.4x on quality estimation at 5x fewer tokens. In the experimental rollout, the drift scores reduces code misalignment by an additional 5.76 points (p = 0.026), intent prediction receives 90.2% approval, and zero defects have been attributed to self-reviewed diffs since launch.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T15:44:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.29516v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

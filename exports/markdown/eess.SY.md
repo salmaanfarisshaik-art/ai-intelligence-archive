@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13472v1](http://arxiv.org/abs/2608.13472v1)
 
+## Optimal Scheduling of Road Maintenance Jobs Considering Impact on Traffic Flows
+- **ID**: arxiv_2608.14491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14491v1](http://arxiv.org/abs/2608.14491v1)
+

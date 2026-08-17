@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.23116v2](http://arxiv.org/abs/2607.23116v2)
 
+## AI-Assisted Discovery and Construction of a Counterexample to the Convergence of Three-Block ADMM with the Identity Matrix as its Third Constraint Block
+- **ID**: arxiv_2608.14396v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14396v1](http://arxiv.org/abs/2608.14396v1)
+

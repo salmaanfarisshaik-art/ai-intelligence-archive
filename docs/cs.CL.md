@@ -47,6 +47,7 @@
 | [](http://arxiv.org/abs/2608.13517v1) | ArXiv |  | 2 |
 | [](http://arxiv.org/abs/2608.13538v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.13545v1) | ArXiv |  | 1 |
+| ["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](http://arxiv.org/abs/2608.07852v2) | ArXiv |  | 1 |
 | [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement](http://arxiv.org/abs/2608.12269v1) | ArXiv |  | 1 |
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |
@@ -154,6 +155,7 @@
 | [Inducing language models to assert their own consciousness restores human beliefs and values](http://arxiv.org/abs/2607.28607v1) | ArXiv |  | 1 |
 | [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1) | ArXiv |  | 1 |
 | [Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge](http://arxiv.org/abs/2608.12218v1) | ArXiv |  | 1 |
+| [Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation](http://arxiv.org/abs/2608.14457v1) | ArXiv |  | 1 |
 | [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) | ArXiv |  | 1 |
 | [Investigating Learner-Aware Design of LLM-Generated Educational Feedback](http://arxiv.org/abs/2602.11650v2) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
@@ -306,6 +308,7 @@
 | [Will Scaling Improve Social Simulation with LLMs?](http://arxiv.org/abs/2607.02464v2) | ArXiv |  | 1 |
 | [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](http://arxiv.org/abs/2607.09957v2) | ArXiv |  | 1 |
 | [WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](http://arxiv.org/abs/2608.04008v1) | ArXiv |  | 1 |
+| [You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model](http://arxiv.org/abs/2608.14465v1) | ArXiv |  | 1 |
 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](http://arxiv.org/abs/2606.20482v1) | ArXiv |  | 1 |
 | [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

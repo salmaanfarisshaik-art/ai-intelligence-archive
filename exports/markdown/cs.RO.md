@@ -255,3 +255,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13555v1](http://arxiv.org/abs/2608.13555v1)
 
+## Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes
+- **ID**: arxiv_2608.14481v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14481v1](http://arxiv.org/abs/2608.14481v1)
+

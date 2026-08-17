@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2502.19507v2",
+  "schema_version": "1.0",
+  "name": "From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2502.19507v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2502.19507v2",
+    "updated": "2026-08-14T16:21:45Z",
+    "published": "2025-02-26T19:13:11Z",
+    "title": "From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production",
+    "summary": "In response to the growing need for structured, interoperable agricultural data, this paper presents the Sustainable Wheat Production Datahub, a modular, graph-based framework that brings diverse wheat production datasets together into a single, queryable store. Using the Knowledge Acquisition and Representation Methodology (KNARM), with domain experts in the loop, we developed ontologies for nutrient management and disease management, two of the areas that most affect wheat yield and its sustainability, covering practices such as nitrogen fertilization and fungicide-based disease control. The two ontologies are federated, meaning they are maintained as separate but connected modules, joined by a bridging layer of cross-domain links, and together they form the schema of a knowledge graph (KG). We construct this KG by populating the ontologies with data from diverse sources, including field trials, expert knowledge, and environmental descriptors. We validate the ontologies, showing the KG accurately answers practical agronomic questions expressed in SPARQL. We demonstrate that the KG derives facts entailed by the ontologies beyond those explicitly stored, and that a single query can draw across independently sourced datasets. The framework also has practical implications for wheat research and extension programs, since it makes data from different sources easier to find, combine, and reuse. Designed to expand toward the full wheat lifecycle, from farm to table, this work establishes the foundation for a scalable, semantically rich global food systems datahub.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T16:21:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2502.19507v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

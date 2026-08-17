@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.23886v2](http://arxiv.org/abs/2607.23886v2)
 
+## Universal Thermodynamic Interatomic Potentials for Crystalline Materials
+- **ID**: arxiv_2608.14502v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14502v1](http://arxiv.org/abs/2608.14502v1)
+

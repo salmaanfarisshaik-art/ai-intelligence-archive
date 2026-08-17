@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.14435v1",
+  "schema_version": "1.0",
+  "name": "Style or Signature? Artist-Disjoint Evaluation of Style Classification in Frozen Vision Embeddings",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.14435v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.14435v1",
+    "updated": "2026-08-14T16:18:11Z",
+    "published": "2026-08-14T16:18:11Z",
+    "title": "Style or Signature? Artist-Disjoint Evaluation of Style Classification in Frozen Vision Embeddings",
+    "summary": "Frozen image embeddings from models such as CLIP are increasingly used to classify paintings by art-historical style, with high reported accuracy. We ask whether this accuracy reflects an understanding of style or the recognition of individual artists. Standard evaluation uses random splits in which works by the same artist appear on both sides, so a classifier can succeed by recognising the painter rather than the movement. We re-evaluate style classification under an artist-disjoint protocol, holding out every artist in turn so that no work is ever classified using other works by its own painter. On a balanced dataset of 320 paintings across four twentieth-century movements, 5-NN style accuracy falls from 0.87 to 0.77 under this protocol, and the drop is sharply uneven. Impressionism and Cubism barely move, while Surrealism falls twenty points. The pattern holds across four image encoders, including a vision-only self-supervised model, which places the effect in visual structure rather than language. Where an encoder captures genuine shared form, individual artists are barely recognisable yet style is robust, while Surrealism shows the opposite. We argue that artist-disjoint evaluation is necessary to measure stylistic understanding in frozen embeddings.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T16:18:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.14435v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

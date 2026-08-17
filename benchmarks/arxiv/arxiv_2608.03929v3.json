@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.03929v3",
+  "schema_version": "1.0",
+  "name": "Latent Reward Registers for Diffusion Preference Alignment",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.03929v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.03929v3",
+    "updated": "2026-08-14T15:48:59Z",
+    "published": "2026-08-04T17:00:52Z",
+    "title": "Latent Reward Registers for Diffusion Preference Alignment",
+    "summary": "Aligning diffusion models with human preferences usually relies on a sparse terminal reward evaluated on the final generated samples, which creates a severe temporal credit-assignment problem across the denoising process. We propose Latent Reward Registers, a mechanism that estimates terminal preference directly from intermediate noisy latents. Learnable, position-free register tokens are appended as an auxiliary read path to a frozen Diffusion Transformer (DiT), extracting preference signals without altering the generator's hidden states or velocity field. The resulting dense, differentiable reward field spans the full denoising trajectory and supports two alignment strategies. For training, Reward-Gradient On-Policy Distillation (RG-OPD) converts this dense reward field into per-step targets at states visited by the current generator, replacing rollout-intensive policy gradients with direct on-policy distillation. For inference, Reward-Guided Sampling (RGS) steers trajectories with magnitude-matched reward-gradient corrections and no parameter updates. Empirically, at high noise levels (t=0.8) the registers reach the highest pairwise accuracy among the evaluated latent reward models. RG-OPD outperforms online reinforcement learning baselines while reducing GPU hours by up to 33x. RGS achieves significant reward improvement with a favorable reward-quality balance against training-free baselines. Code and weights are to be available at https://github.com/Guanys-dar/latent-reward-register",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T15:48:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.03929v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

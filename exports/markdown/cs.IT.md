@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21517v2](http://arxiv.org/abs/2607.21517v2)
 
+## Learning-to-Transition for Large-scale and High-Order MIMO Detection
+- **ID**: arxiv_2608.14511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14511v1](http://arxiv.org/abs/2608.14511v1)
+

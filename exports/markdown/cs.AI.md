@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2008.07324v6](http://arxiv.org/abs/2008.07324v6)
 
+## From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production
+- **ID**: arxiv_2502.19507v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.19507v2](http://arxiv.org/abs/2502.19507v2)
+
 ## Chain-of-Thought Reasoning In The Wild Is Not Always Faithful
 - **ID**: arxiv_2503.08679v6
 - **Source**: ArXiv
@@ -114,6 +119,11 @@
 - **ID**: arxiv_2604.27618v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27618v2](http://arxiv.org/abs/2604.27618v2)
+
+## NEURON: A Neuro-symbolic System for Grounded Clinical Explainability
+- **ID**: arxiv_2605.01189v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01189v3](http://arxiv.org/abs/2605.01189v3)
 
 ## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
 - **ID**: arxiv_2605.06772v2
@@ -1240,6 +1250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07457v1](http://arxiv.org/abs/2608.07457v1)
 
+## Improving Generalization Robustness of Multimodal RLVR
+- **ID**: arxiv_2608.08802v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08802v2](http://arxiv.org/abs/2608.08802v2)
+
 ## Mismatch Matters: On-Policy Distillation Beyond Token Agreement
 - **ID**: arxiv_2608.09836v1
 - **Source**: ArXiv
@@ -1404,4 +1419,64 @@
 - **ID**: arxiv_2608.13558v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13558v1](http://arxiv.org/abs/2608.13558v1)
+
+## LLMs Don't Pay for the Jump
+- **ID**: arxiv_2608.14397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14397v1](http://arxiv.org/abs/2608.14397v1)
+
+## The Past and Future of AI Scientists
+- **ID**: arxiv_2608.14407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14407v1](http://arxiv.org/abs/2608.14407v1)
+
+## Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations
+- **ID**: arxiv_2608.14425v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14425v1](http://arxiv.org/abs/2608.14425v1)
+
+## The Dynamics of Intelligence Explosions
+- **ID**: arxiv_2608.14426v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14426v1](http://arxiv.org/abs/2608.14426v1)
+
+## PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments
+- **ID**: arxiv_2608.14441v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14441v1](http://arxiv.org/abs/2608.14441v1)
+
+## Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports
+- **ID**: arxiv_2608.14446v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14446v1](http://arxiv.org/abs/2608.14446v1)
+
+## SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning
+- **ID**: arxiv_2608.14452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14452v1](http://arxiv.org/abs/2608.14452v1)
+
+## Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments
+- **ID**: arxiv_2608.14456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14456v1](http://arxiv.org/abs/2608.14456v1)
+
+## Twin: Playing an Unknown Game with a Test-Time Digital Twin
+- **ID**: arxiv_2608.14490v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14490v1](http://arxiv.org/abs/2608.14490v1)
+
+## Split the Labor: Separating Evidence Interpretation from Decision Aggregation
+- **ID**: arxiv_2608.14509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14509v1](http://arxiv.org/abs/2608.14509v1)
+
+## Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers
+- **ID**: arxiv_2608.14522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14522v1](http://arxiv.org/abs/2608.14522v1)
+
+## Handover of In-Context Learning State Across Session Boundaries
+- **ID**: arxiv_2608.14528v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14528v1](http://arxiv.org/abs/2608.14528v1)
 

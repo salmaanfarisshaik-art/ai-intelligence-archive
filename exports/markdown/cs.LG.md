@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2405.16440v2](http://arxiv.org/abs/2405.16440v2)
 
+## OTIS: Learning High-Quality Time Series Features With Tiny Encoders
+- **ID**: arxiv_2410.07299v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.07299v3](http://arxiv.org/abs/2410.07299v3)
+
 ## Cueless EEG imagined speech for subject identification: dataset and benchmarks
 - **ID**: arxiv_2501.09700v2
 - **Source**: ArXiv
@@ -119,6 +124,11 @@
 - **ID**: arxiv_2601.21284v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
+
+## ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning
+- **ID**: arxiv_2602.11626v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
 ## When Drafts Evolve: Speculative Decoding Meets Online Learning
 - **ID**: arxiv_2603.12617v2
@@ -650,6 +660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03929v1](http://arxiv.org/abs/2608.03929v1)
 
+## Latent Reward Registers for Diffusion Preference Alignment
+- **ID**: arxiv_2608.03929v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03929v3](http://arxiv.org/abs/2608.03929v3)
+
 ## Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility
 - **ID**: arxiv_2608.04001v1
 - **Source**: ArXiv
@@ -844,4 +859,29 @@
 - **ID**: arxiv_2608.13522v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13522v1](http://arxiv.org/abs/2608.13522v1)
+
+## Designing Reinforcement Learning for Diffusion Models: A Unified Path-Space View
+- **ID**: arxiv_2608.14430v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14430v1](http://arxiv.org/abs/2608.14430v1)
+
+## Designing Compact Neural Architectures via Neuron Gating and Mixed Activation
+- **ID**: arxiv_2608.14443v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14443v1](http://arxiv.org/abs/2608.14443v1)
+
+## LP-NAS: Linear Programming-based Neural Architecture Search
+- **ID**: arxiv_2608.14472v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14472v1](http://arxiv.org/abs/2608.14472v1)
+
+## Generating Benchmark Health Data Using a Tabular Diffusion Transformer
+- **ID**: arxiv_2608.14496v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14496v1](http://arxiv.org/abs/2608.14496v1)
+
+## RecipeNet: A Hierarchical Transformer for Recipe Data
+- **ID**: arxiv_2608.14505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14505v1](http://arxiv.org/abs/2608.14505v1)
 

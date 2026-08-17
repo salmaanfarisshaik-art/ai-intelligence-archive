@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28650v2](http://arxiv.org/abs/2607.28650v2)
 
+## From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework
+- **ID**: arxiv_2608.14405v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14405v1](http://arxiv.org/abs/2608.14405v1)
+

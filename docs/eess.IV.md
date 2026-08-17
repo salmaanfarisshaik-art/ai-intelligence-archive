@@ -10,4 +10,5 @@
 | [Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction](http://arxiv.org/abs/2607.27825v2) | ArXiv |  | 1 |
 | [InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting](http://arxiv.org/abs/2508.13287v4) | ArXiv |  | 1 |
 | [Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v5) | ArXiv |  | 1 |
+| [UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI](http://arxiv.org/abs/2608.14422v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

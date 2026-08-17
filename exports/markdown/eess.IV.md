@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12227v1](http://arxiv.org/abs/2608.12227v1)
 
+## UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI
+- **ID**: arxiv_2608.14422v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14422v1](http://arxiv.org/abs/2608.14422v1)
+

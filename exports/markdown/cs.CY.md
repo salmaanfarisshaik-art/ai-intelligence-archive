@@ -1,5 +1,10 @@
 # Cs.Cy Export
 
+## Why we need an AI-resilient society
+- **ID**: arxiv_1912.08786v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1912.08786v3](http://arxiv.org/abs/1912.08786v3)
+
 ## "Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness
 - **ID**: arxiv_2508.13187v5
 - **Source**: ArXiv
@@ -84,4 +89,9 @@
 - **ID**: arxiv_2608.06364v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06364v1](http://arxiv.org/abs/2608.06364v1)
+
+## Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice
+- **ID**: arxiv_2608.14399v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14399v1](http://arxiv.org/abs/2608.14399v1)
 

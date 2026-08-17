@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.06142v2",
+  "schema_version": "1.0",
+  "name": "Learning visual representations for compositional analysis of artworks and photographs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.06142v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.06142v2",
+    "updated": "2026-08-14T16:04:14Z",
+    "published": "2026-08-06T15:11:24Z",
+    "title": "Learning visual representations for compositional analysis of artworks and photographs",
+    "summary": "Composition, the deliberate arrangement of visual elements, is central to how meaning, emotion, and aesthetic quality are conveyed in artwork, yet it remains among the least formalized dimensions of visual understanding. Prior work highlights a persistent gap in learning meaningful compositional representations, attributing it to semantic bias and suggesting that human-inspired approaches may be key. We compare two parallel paradigms for composition analysis: a human-inspired method grounded in perceptual grouping, and fine-tuned foundation models enabled by recent large-scale compositional datasets. The human-inspired approach uses object-centric models for region-level decomposition and a graph attention network to capture spatial relationships between elements. Both paradigms are evaluated on composition score/category prediction, compositional image retrieval, and visual saliency detection. With frozen encoders, the human-inspired method achieves competitive performance while remaining interpretable. When sufficient data enables fine-tuning, large self-supervised models outperform significantly, but at the cost of interpretability and cross-domain generalization. Code and pre-trained models are available on GitHub.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T16:04:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.06142v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

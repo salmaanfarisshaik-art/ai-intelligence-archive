@@ -1330,6 +1330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07460v1](http://arxiv.org/abs/2608.07460v1)
 
+## "Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders
+- **ID**: arxiv_2608.07852v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07852v2](http://arxiv.org/abs/2608.07852v2)
+
 ## OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories
 - **ID**: arxiv_2608.08557v2
 - **Source**: ArXiv
@@ -1514,4 +1519,14 @@
 - **ID**: arxiv_2608.13545v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13545v1](http://arxiv.org/abs/2608.13545v1)
+
+## Information Satisfaction: A Reader-Centered Axis for Summarization Evaluation
+- **ID**: arxiv_2608.14457v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14457v1](http://arxiv.org/abs/2608.14457v1)
+
+## You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model
+- **ID**: arxiv_2608.14465v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14465v1](http://arxiv.org/abs/2608.14465v1)
 

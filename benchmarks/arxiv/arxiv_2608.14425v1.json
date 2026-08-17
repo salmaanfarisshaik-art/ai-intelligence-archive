@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.14425v1",
+  "schema_version": "1.0",
+  "name": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.14425v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.14425v1",
+    "updated": "2026-08-14T16:06:41Z",
+    "published": "2026-08-14T16:06:41Z",
+    "title": "Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations",
+    "summary": "LLM evaluations often use fixed sampling budgets, testing every item the same number of times even after estimates are precise. We introduce optstop, a precision-based adaptive stopping framework that treats evaluation as a sequential measurement problem: keep sampling where uncertainty remains high, and stop where estimates are precise or stable enough. The framework builds on hierarchical Bayesian inference, supports binary, ordinal, and continuous outcomes, and keeps every benchmark item eligible for sampling, without requiring a calibrated item bank. It runs live or retrospectively, and includes a safeguard that samples more cautiously as measured performance approaches zero, where rare successes matter most. In an illustrative 200-item, 10-epoch evaluation, it removes 57%-97% of planned trials across nine validation settings, with overall conclusions equivalent to the full run. These results show that LLM evaluation compute can be allocated by uncertainty rather than by fixed repetition counts, with the magnitude of savings depending on evaluation design.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T16:06:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.14425v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

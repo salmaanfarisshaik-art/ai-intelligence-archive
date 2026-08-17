@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.14505v1",
+  "schema_version": "1.0",
+  "name": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.14505v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.14505v1",
+    "updated": "2026-08-14T17:18:36Z",
+    "published": "2026-08-14T17:18:36Z",
+    "title": "RecipeNet: A Hierarchical Transformer for Recipe Data",
+    "summary": "Recipe data arises in domains such as materials synthesis, pharmaceutical formulation, and industrial manufacturing, where procedures are represented as ordered sequences of steps containing heterogeneous structured fields. Existing tabular learning methods typically flatten this structure into fixed-schema representations, limiting their ability to capture hierarchical field interactions and procedural dependencies. We propose RecipeNet, a hierarchical Transformer architecture that encodes field-level interactions within each step and sequential dependencies across steps through stacked Transformer encoders. Experiments on multiple recipe datasets and tasks demonstrate that RecipeNet consistently outperforms existing tabular models, highlighting the value of hierarchical and sequential modeling for recipe representation learning.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-17T02:57:55Z",
+  "last_updated": "2026-08-14T17:18:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.14505v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

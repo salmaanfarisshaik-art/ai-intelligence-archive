@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## The Linear Geometry of Interpretable Tokens: Jailbreaking Attacks and Defenses for Unlearned Diffusion Models
+- **ID**: arxiv_2504.21307v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.21307v3](http://arxiv.org/abs/2504.21307v3)
+
 ## Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance
 - **ID**: arxiv_2505.02779v2
 - **Source**: ArXiv
@@ -44,6 +49,11 @@
 - **ID**: arxiv_2505.12532v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.12532v3](http://arxiv.org/abs/2505.12532v3)
+
+## Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)
+- **ID**: arxiv_2505.16882v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.16882v3](http://arxiv.org/abs/2505.16882v3)
 
 ## SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding
 - **ID**: arxiv_2505.17674v3
@@ -149,6 +159,11 @@
 - **ID**: arxiv_2510.03880v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.03880v2](http://arxiv.org/abs/2510.03880v2)
+
+## Redefining Generalization in Visual Domains: A Two-Axis Framework for Fake Image Detection with FusionDetect
+- **ID**: arxiv_2510.05740v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.05740v2](http://arxiv.org/abs/2510.05740v2)
 
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
 - **ID**: arxiv_2510.16598v2
@@ -295,6 +310,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.23172v2](http://arxiv.org/abs/2602.23172v2)
 
+## A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification
+- **ID**: arxiv_2603.07571v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.07571v3](http://arxiv.org/abs/2603.07571v3)
+
 ## O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Urban Autonomous Agents
 - **ID**: arxiv_2603.12144v4
 - **Source**: ArXiv
@@ -304,6 +324,11 @@
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
+
+## CVT-Bench: Probing Spatial-State Integrity through Counterfactual Viewpoint Transformations
+- **ID**: arxiv_2603.21114v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.21114v2](http://arxiv.org/abs/2603.21114v2)
 
 ## SparseVoxelDet: Fully Sparse Voxel Networks for Efficient Event-Based Drone Detection
 - **ID**: arxiv_2603.21638v2
@@ -1910,6 +1935,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05149v1](http://arxiv.org/abs/2608.05149v1)
 
+## Learning visual representations for compositional analysis of artworks and photographs
+- **ID**: arxiv_2608.06142v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06142v2](http://arxiv.org/abs/2608.06142v2)
+
 ## EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation
 - **ID**: arxiv_2608.06231v1
 - **Source**: ArXiv
@@ -2454,4 +2484,44 @@
 - **ID**: arxiv_2608.13560v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13560v1](http://arxiv.org/abs/2608.13560v1)
+
+## IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection
+- **ID**: arxiv_2608.14394v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14394v1](http://arxiv.org/abs/2608.14394v1)
+
+## CRAFT: Constrained Reward via Attention Fine-Tuning for Subject Personalization without Composed Targets
+- **ID**: arxiv_2608.14403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14403v1](http://arxiv.org/abs/2608.14403v1)
+
+## GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure
+- **ID**: arxiv_2608.14428v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14428v1](http://arxiv.org/abs/2608.14428v1)
+
+## Style or Signature? Artist-Disjoint Evaluation of Style Classification in Frozen Vision Embeddings
+- **ID**: arxiv_2608.14435v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14435v1](http://arxiv.org/abs/2608.14435v1)
+
+## Marionette: Predicting World States, Rendering Geometry, Painting Appearance
+- **ID**: arxiv_2608.14530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14530v1](http://arxiv.org/abs/2608.14530v1)
+
+## Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils
+- **ID**: arxiv_2608.14539v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14539v1](http://arxiv.org/abs/2608.14539v1)
+
+## MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration
+- **ID**: arxiv_2608.14543v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14543v1](http://arxiv.org/abs/2608.14543v1)
+
+## CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing
+- **ID**: arxiv_2608.14546v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14546v1](http://arxiv.org/abs/2608.14546v1)
 

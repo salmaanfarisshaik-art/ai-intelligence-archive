@@ -115,6 +115,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28750v2](http://arxiv.org/abs/2607.28750v2)
 
+## From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale
+- **ID**: arxiv_2607.29516v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29516v2](http://arxiv.org/abs/2607.29516v2)
+
 ## SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
 - **ID**: arxiv_2608.02499v1
 - **Source**: ArXiv
