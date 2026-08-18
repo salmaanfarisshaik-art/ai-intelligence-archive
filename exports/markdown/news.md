@@ -4501,6 +4501,11 @@
 - **URL**: [https://openai.com/index/pacific-northwest-national-laboratory](https://openai.com/index/pacific-northwest-national-laboratory)
 
 ## 
+- **ID**: rss_https://openai.com/index/pacing-model-development-cyber-capabilities
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/pacing-model-development-cyber-capabilities](https://openai.com/index/pacing-model-development-cyber-capabilities)
+
+## 
 - **ID**: rss_https://openai.com/index/paf
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/paf](https://openai.com/index/paf)
