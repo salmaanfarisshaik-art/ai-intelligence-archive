@@ -19945,11 +19945,6 @@
   ],
   "readouts": [
     {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -20745,6 +20740,16 @@
     },
     {
       "entity_id": "hf_ds_6a3519d6ceabed997ec9ea1e",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/finance",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/how-finance-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
@@ -22301,21 +22306,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -22327,16 +22317,6 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/how-finance-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
       "match_type": "exact",
       "score": 1.0
     },
@@ -23089,11 +23069,6 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/healthbench",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/index/sora-2",
       "match_type": "exact",
       "score": 1.0
     }
@@ -37747,6 +37722,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/codex-automations",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
       "match_type": "exact",
       "score": 1.0
     },
@@ -92562,6 +92542,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/finance",
       "match_type": "exact",
       "score": 1.0
@@ -102753,6 +102738,16 @@
     },
     {
       "entity_id": "hf_ds_69cf1925c61c6c0fbb866b5d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/marketing",
       "match_type": "exact",
       "score": 1.0
     },
@@ -127374,6 +127369,16 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/academy/how-finance-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/sales",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/coderabbit",
       "match_type": "exact",
       "score": 1.0
@@ -137269,11 +137274,6 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/introducing-apps-in-chatgpt",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/index/introducing-chatgpt-atlas",
       "match_type": "exact",
       "score": 1.0
     },

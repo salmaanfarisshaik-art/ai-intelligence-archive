@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 63
+**Total Changes:** 79
 
 ## Added
 None
@@ -9,14 +9,28 @@ None
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai/hf_openai_gpt-oss-120b.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
+- prompts/openai-blog/rss_https___openai.com_academy_chatgpt-work_how-business-operations-teams-use-codex.json
+- prompts/openai-blog/rss_https___openai.com_academy_chatgpt-work_how-data-science-teams-use-codex.json
+- prompts/openai-blog/rss_https___openai.com_academy_chatgpt-work_how-sales-teams-use-codex.json
+- prompts/openai-blog/rss_https___openai.com_academy_data-analysis.json
+- prompts/openai-blog/rss_https___openai.com_academy_finance.json
+- prompts/openai-blog/rss_https___openai.com_academy_how-finance-teams-use-codex.json
+- prompts/openai-blog/rss_https___openai.com_academy_how-to-use-chatgpt-work-for-everyday-tasks.json
+- prompts/openai-blog/rss_https___openai.com_academy_marketing.json
+- prompts/openai-blog/rss_https___openai.com_academy_sales.json
+- prompts/openai-blog/rss_https___openai.com_academy_working-with-files.json
+- prompts/openai-blog/rss_https___openai.com_academy_workspace-agents.json
+- prompts/openai-blog/rss_https___openai.com_index_introducing-chatgpt-atlas.json
+- prompts/openai-blog/rss_https___openai.com_index_introducing-gpt-5-5.json
+- prompts/openai-blog/rss_https___openai.com_index_sora-2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -25,7 +39,6 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -33,6 +46,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -47,12 +61,14 @@ None
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
+- tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json

@@ -9333,17 +9333,7 @@
       "score": 3.0
     },
     {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/data-analysis",
       "match_type": "exact",
       "score": 3.0
     },
@@ -11929,6 +11919,16 @@
     },
     {
       "entity_id": "model_eleutherai_pythia_160m_data_seed3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/data-analysis",
       "match_type": "exact",
       "score": 2.0
     },
@@ -16039,16 +16039,6 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/codex-plugins-and-skills",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/finance",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/working-with-files",
       "match_type": "exact",
       "score": 1.0
     },
@@ -45046,11 +45036,6 @@
       "entity_id": "alpaca_9201112754284835506",
       "match_type": "exact",
       "score": 1.0
-    },
-    {
-      "entity_id": "rss_https://openai.com/academy/sales",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "dealt": [
@@ -50145,6 +50130,16 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/finance",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/how-finance-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
@@ -66129,7 +66124,7 @@
   ],
   "deliverables": [
     {
-      "entity_id": "rss_https://openai.com/academy/how-to-use-chatgpt-work-for-everyday-tasks",
+      "entity_id": "rss_https://openai.com/academy/how-finance-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
@@ -74385,6 +74380,11 @@
       "entity_id": "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/introducing-chatgpt-atlas",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "deprecation": [
@@ -118098,11 +118098,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "rss_https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
@@ -118373,6 +118368,11 @@
     },
     {
       "entity_id": "dataset_kmin06_cvpr26_3dctfmcompetition",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
       "match_type": "exact",
       "score": 1.0
     },
