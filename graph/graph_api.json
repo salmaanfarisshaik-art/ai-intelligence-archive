@@ -8956,7 +8956,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-18T09:31:21.607420+00:00",
+  "generated_at": "2026-08-18T10:25:44.794593+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -123877,6 +123877,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_facebook_voxpopuli",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_facebook_wiki_dpr",
       "label": ""
     },
@@ -128572,6 +128577,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_qu3tzal_bridgev2",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_qualialabsai_smoothconv",
       "label": ""
     },
@@ -128893,6 +128903,11 @@
     {
       "category": "datasets",
       "id": "dataset_sandboxaq_sair",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_sandernotenbaert_lmd_matched",
       "label": ""
     },
     {
@@ -129512,6 +129527,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_tianli_robovqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_tianxingchen_rmbench",
       "label": ""
     },
@@ -129533,6 +129553,11 @@
     {
       "category": "datasets",
       "id": "dataset_tierkun_indonesian_running_photos",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_tiger_lab_mathinstruct",
       "label": ""
     },
     {
@@ -143087,6 +143112,11 @@
     },
     {
       "category": "models",
+      "id": "model_empero_ai_qwen3_8_9b_gguf",
+      "label": "empero-ai/Qwen3.8-9B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_empero_ai_qwythos_9b_claude_mythos_5_1m",
       "label": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
     },
@@ -143774,6 +143804,11 @@
       "category": "models",
       "id": "model_inclusionai_ring_2_5_1t",
       "label": "inclusionAI/Ring-2.5-1T"
+    },
+    {
+      "category": "models",
+      "id": "model_inferact_kimi_k3_dspark",
+      "label": "Inferact/Kimi-K3-DSpark"
     },
     {
       "category": "models",
@@ -145717,6 +145752,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4_dspark",
+      "label": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4-DSpark"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16",
       "label": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16"
     },
@@ -146289,6 +146329,11 @@
       "category": "models",
       "id": "model_protolabsai_ornith_1_0_9b_mtp_gguf",
       "label": "protoLabsAI/Ornith-1.0-9B-MTP-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_puwaer_deepseek_v4_flash_0731_reap_150b_gguf",
+      "label": "puwaer/DeepSeek-V4-Flash-0731-reap-150b-gguf"
     },
     {
       "category": "models",
@@ -147394,6 +147439,11 @@
       "category": "models",
       "id": "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp",
       "label": "sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP"
+    },
+    {
+      "category": "models",
+      "id": "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
+      "label": "sakamakismile/Qwen3.8-27B-MTP-NVFP4"
     },
     {
       "category": "models",
@@ -445868,5 +445918,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1791,
-  "total_nodes": 87381
+  "total_nodes": 87391
 }

@@ -1216,6 +1216,10 @@
 - **ID**: model_emhltbkars_xxx
 - **Source**: 
 
+## empero-ai/Qwen3.8-9B-GGUF
+- **ID**: model_empero_ai_qwen3_8_9b_gguf
+- **Source**: 
+
 ## empero-ai/Qwythos-9B-Claude-Mythos-5-1M
 - **ID**: model_empero_ai_qwythos_9b_claude_mythos_5_1m
 - **Source**: 
@@ -1766,6 +1770,10 @@
 
 ## inclusionAI/Ring-2.5-1T
 - **ID**: model_inclusionai_ring_2_5_1t
+- **Source**: 
+
+## Inferact/Kimi-K3-DSpark
+- **ID**: model_inferact_kimi_k3_dspark
 - **Source**: 
 
 ## Inferact/MiniMax-M3-EAGLE3
@@ -3320,6 +3328,10 @@
 - **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4-DSpark
+- **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4_dspark
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-Base-BF16
 - **ID**: model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16
 - **Source**: 
@@ -3778,6 +3790,10 @@
 
 ## protoLabsAI/Ornith-1.0-9B-MTP-GGUF
 - **ID**: model_protolabsai_ornith_1_0_9b_mtp_gguf
+- **Source**: 
+
+## puwaer/DeepSeek-V4-Flash-0731-reap-150b-gguf
+- **ID**: model_puwaer_deepseek_v4_flash_0731_reap_150b_gguf
 - **Source**: 
 
 ## QCRI/Fanar-1-9B-Instruct
@@ -4662,6 +4678,10 @@
 
 ## sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP
 - **ID**: model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp
+- **Source**: 
+
+## sakamakismile/Qwen3.8-27B-MTP-NVFP4
+- **ID**: model_sakamakismile_qwen3_8_27b_mtp_nvfp4
 - **Source**: 
 
 ## Salesforce/codegen-350M-mono

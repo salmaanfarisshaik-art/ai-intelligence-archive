@@ -1752,6 +1752,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mrsaudio_mrsaudio",
       "match_type": "exact",
       "score": 1.5
@@ -3980,6 +3985,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "zstd": [
+    {
+      "entity_id": "dataset_aliasfox_srtm30m_ozt2_v2",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "ztq": [

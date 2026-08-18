@@ -9,7 +9,7 @@
   "private": false,
   "sha": "1c01929bc27b8d87f842da726513ed4f401efdeb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/                    # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_1_attachments/        # Additional per-scene attachments for Syn4D V1 stride-1\n  syn4d_v1_stride_5/                    # Syn4D V1, every 5th frame can be a tracking… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
-  "downloads": 60426,
+  "downloads": 49428,
   "tags": [
     "license:cc-by-4.0",
     "arxiv:2605.05207",
