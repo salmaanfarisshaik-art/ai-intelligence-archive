@@ -120499,6 +120499,13 @@
       "score": 2.0
     }
   ],
+  "cleared": [
+    {
+      "entity_id": "rss_https://openai.com/index/asana",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "clearer": [
     {
       "entity_id": "alpaca_-1896317611882412918",
@@ -142366,6 +142373,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/working-with-codex",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/asana",
       "match_type": "exact",
       "score": 3.0
     },
@@ -188312,6 +188324,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/academy/working-with-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/asana",
       "match_type": "exact",
       "score": 1.0
     },

@@ -761,6 +761,11 @@
 - **URL**: [https://openai.com/index/arvind-kc-chief-people-officer](https://openai.com/index/arvind-kc-chief-people-officer)
 
 ## 
+- **ID**: rss_https://openai.com/index/asana
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/asana](https://openai.com/index/asana)
+
+## 
 - **ID**: rss_https://openai.com/index/asu
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/asu](https://openai.com/index/asu)
