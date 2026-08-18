@@ -12233,6 +12233,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_tanganke_dtd",
       "match_type": "exact",
       "score": 1.5
@@ -19210,6 +19215,11 @@
     },
     {
       "entity_id": "alpaca_9006543165253143801",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
       "match_type": "exact",
       "score": 1.0
     }
@@ -26667,6 +26677,11 @@
   "partnering": [
     {
       "entity_id": "rss_https://openai.com/index/aarp-partnership-older-adults-online-safety",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/partnering-with-codeai",
       "match_type": "exact",
       "score": 3.0
     },
@@ -105641,6 +105656,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_tahoebio_tahoe_100m",
       "match_type": "exact",
       "score": 1.5
@@ -142117,6 +142137,11 @@
     },
     {
       "entity_id": "arxiv_2607.22468v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/partnering-with-codeai",
       "match_type": "exact",
       "score": 2.0
     },
@@ -195822,6 +195847,11 @@
     }
   ],
   "protections": [
+    {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
+      "match_type": "exact",
+      "score": 3.0
+    },
     {
       "entity_id": "rss_https://openai.com/index/updating-model-spec-with-teen-protections",
       "match_type": "exact",

@@ -1056,6 +1056,11 @@
 - **URL**: [https://openai.com/index/chatgpt-for-teachers](https://openai.com/index/chatgpt-for-teachers)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-for-teens
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-for-teens](https://openai.com/index/chatgpt-for-teens)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-for-veterans
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-for-veterans](https://openai.com/index/chatgpt-for-veterans)
@@ -4514,6 +4519,11 @@
 - **ID**: rss_https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry](https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry)
+
+## 
+- **ID**: rss_https://openai.com/index/partnering-with-codeai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/partnering-with-codeai](https://openai.com/index/partnering-with-codeai)
 
 ## 
 - **ID**: rss_https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news

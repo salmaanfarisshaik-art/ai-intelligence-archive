@@ -55343,6 +55343,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_tahoebio_tahoe_100m",
       "match_type": "exact",
       "score": 1.5
@@ -88070,6 +88075,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/chatgpt-for-teachers",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
       "match_type": "exact",
       "score": 3.0
     },
@@ -140740,6 +140750,13 @@
       "entity_id": "rss_https://openai.com/index/triton",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "codeai": [
+    {
+      "entity_id": "rss_https://openai.com/index/partnering-with-codeai",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "codealpaca": [
@@ -208590,6 +208607,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/codex-security-now-in-research-preview",
       "match_type": "exact",
       "score": 1.0
@@ -239486,6 +239508,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/chatgpt-for-teachers",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
       "match_type": "exact",
       "score": 1.0
     },
@@ -301661,6 +301688,16 @@
     },
     {
       "entity_id": "alpaca_5220276462617157803",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/chatgpt-for-teens",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/partnering-with-codeai",
       "match_type": "exact",
       "score": 1.0
     }
