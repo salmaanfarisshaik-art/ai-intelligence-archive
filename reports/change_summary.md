@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 63
+**Total Changes:** 66
 
 ## Added
 None
@@ -15,7 +15,8 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -41,6 +42,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -52,12 +54,13 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_695864515.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
