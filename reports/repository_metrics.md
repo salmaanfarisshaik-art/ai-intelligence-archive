@@ -2,5 +2,5 @@
 
 - **python_files**: 133
 - **markdown_files**: 529
-- **json_files**: 224486
+- **json_files**: 224487
 - **yaml_files**: 6

@@ -3876,6 +3876,11 @@
 - **URL**: [https://openai.com/index/nvidia](https://openai.com/index/nvidia)
 
 ## 
+- **ID**: rss_https://openai.com/index/nvidia/chatgpt-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/nvidia/chatgpt-work](https://openai.com/index/nvidia/chatgpt-work)
+
+## 
 - **ID**: rss_https://openai.com/index/o1-and-new-tools-for-developers
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/o1-and-new-tools-for-developers](https://openai.com/index/o1-and-new-tools-for-developers)
