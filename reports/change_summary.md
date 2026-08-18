@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 67
 
 ## Added
 None
@@ -11,14 +11,12 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai/hf_openai_gpt-oss-120b.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
 - models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -45,7 +43,6 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
-- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -57,6 +54,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
