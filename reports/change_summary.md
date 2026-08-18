@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 78
+**Total Changes:** 75
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_pacing-model-development-cyber-capabilities.json
+- prompts/openai-blog/rss_https___openai.com_index_strengthening-democratic-oversight-in-national-security.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,9 +16,7 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - exports/csv/all_entities.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
@@ -27,8 +25,6 @@
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -47,6 +43,8 @@
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
+- tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
 - tools/github-trending/gh_1129940957.json
@@ -54,6 +52,7 @@
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
+- tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
@@ -66,9 +65,7 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
@@ -76,11 +73,11 @@
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
+- tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 

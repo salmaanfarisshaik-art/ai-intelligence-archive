@@ -5206,6 +5206,11 @@
 - **URL**: [https://openai.com/index/strengthening-cyber-resilience](https://openai.com/index/strengthening-cyber-resilience)
 
 ## 
+- **ID**: rss_https://openai.com/index/strengthening-democratic-oversight-in-national-security
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/strengthening-democratic-oversight-in-national-security](https://openai.com/index/strengthening-democratic-oversight-in-national-security)
+
+## 
 - **ID**: rss_https://openai.com/index/strengthening-safety-with-external-testing
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/strengthening-safety-with-external-testing](https://openai.com/index/strengthening-safety-with-external-testing)
