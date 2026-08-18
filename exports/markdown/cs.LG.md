@@ -885,3 +885,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14505v1](http://arxiv.org/abs/2608.14505v1)
 
+## CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?
+- **ID**: arxiv_2608.16829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16829v1](http://arxiv.org/abs/2608.16829v1)
+
+## Proteus: Incremental Memory Activation for Long-Context Sequence Modeling
+- **ID**: arxiv_2608.16844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16844v1](http://arxiv.org/abs/2608.16844v1)
+

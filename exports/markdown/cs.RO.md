@@ -260,3 +260,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14481v1](http://arxiv.org/abs/2608.14481v1)
 
+## Neurosymbolic Embodied Agents
+- **ID**: arxiv_2608.16794v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16794v1](http://arxiv.org/abs/2608.16794v1)
+
+## When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents
+- **ID**: arxiv_2608.16806v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16806v1](http://arxiv.org/abs/2608.16806v1)
+
+## HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL
+- **ID**: arxiv_2608.16837v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16837v1](http://arxiv.org/abs/2608.16837v1)
+
+## Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory
+- **ID**: arxiv_2608.16889v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16889v1](http://arxiv.org/abs/2608.16889v1)
+

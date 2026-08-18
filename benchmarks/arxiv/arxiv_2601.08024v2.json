@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.08024v2",
+  "schema_version": "1.0",
+  "name": "A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.08024v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.08024v2",
+    "updated": "2026-08-17T17:44:19Z",
+    "published": "2026-01-12T21:57:33Z",
+    "title": "A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs",
+    "summary": "Maintaining or improving the performance of Deep Neural Networks (DNNs) through fine-tuning requires labeling newly collected inputs, a process that is often costly and time-consuming. To alleviate this problem, input selection approaches have been developed in recent years to identify small, yet highly informative subsets for labeling. Diversity-based selection is one of the most effective approaches for this purpose. However, they are often computationally intensive and lack scalability for large input sets, limiting their practical applicability. To address this challenge, we introduce Concept-Based Diversity (CBD), a novel and highly efficient diversity metric for image inputs that leverages Vision-Language Models (VLMs). Our results show that CBD exhibits a strong correlation with Geometric Diversity (GD), an established diversity metric, while requiring only a fraction of its computation time. Building on this finding, we propose a hybrid input selection approach that combines CBD with Margin, a simple uncertainty metric. We conduct a comprehensive evaluation across a diverse set of DNN models, input sets, selection budgets, and six most effective state-of-the-art selection baselines. The results demonstrate that the CBD-based selection consistently outperforms all baselines at guiding input selection to improve the DNN model. Furthermore, the CBD-based selection approach remains highly efficient, requiring selection times close to those of simple uncertainty-based methods such as Margin, even on larger input sets like ImageNet. These results confirm not only the effectiveness and computational advantage of the CBD-based approach, particularly compared to hybrid baselines, but also its scalability in repetitive and extensive input selection scenarios.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T17:44:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.08024v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

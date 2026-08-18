@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.16785v1",
+  "schema_version": "1.0",
+  "name": "Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.16785v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.16785v1",
+    "updated": "2026-08-17T16:39:06Z",
+    "published": "2026-08-17T16:39:06Z",
+    "title": "Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach",
+    "summary": "This paper proposes a calibration-free framework for reliably and effectively estimating vehicle speeds from monocular videos, without relying on roadway features, camera calibration, or roadway-feature-based reference objects. The proposed framework estimates vehicle speeds using a 36-keypoint vehicle template and a homography matrix updated at each frame. A YOLO-based keypoint detection module is trained on diverse datasets, and two estimation strategies are compared: keypoint-only tracking and warped optical flow with dense spatial aggregation. Speed is estimated by projecting displacements into metric space using the homography, with validation conducted on over 400 video clips from roadside and overhead datasets, covering speeds from 30 to 100 mph. The method achieves reliable speed estimation on the VS13 and BrnoCompSpeed datasets, with the warped optical flow method delivering MAEs of 15.0% and 9.7%, respectively, and 77.9% and 93.1% of estimates falling within +/-20% error. After applying a 10% trim to remove edge-of-frame outliers, performance improves to MAEs of 11.7% and 7.6%, with within-+/-20% accuracy increasing to 85.3% and 95.4%. This work addresses key limitations of existing vision-based approaches and enables low-cost and efficient speed enforcement using portable devices such as dashcams and smartphones, thereby supporting citizen-based enforcement programs for traffic safety.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:39:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.16785v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,5 +1,10 @@
 # Cs.Cl Export
 
+## Towards Understanding Linear Word Analogies
+- **ID**: arxiv_1810.04882v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1810.04882v8](http://arxiv.org/abs/1810.04882v8)
+
 ## Like a bilingual baby: The advantage of visually grounding a bilingual language model
 - **ID**: arxiv_2210.05487v3
 - **Source**: ArXiv
@@ -269,6 +274,11 @@
 - **ID**: arxiv_2604.26355v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.26355v5](http://arxiv.org/abs/2604.26355v5)
+
+## Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens
+- **ID**: arxiv_2604.26355v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.26355v6](http://arxiv.org/abs/2604.26355v6)
 
 ## When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models
 - **ID**: arxiv_2605.00817v4
@@ -1450,6 +1460,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12253v1](http://arxiv.org/abs/2608.12253v1)
 
+## One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL
+- **ID**: arxiv_2608.12253v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12253v2](http://arxiv.org/abs/2608.12253v2)
+
 ## A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement
 - **ID**: arxiv_2608.12269v1
 - **Source**: ArXiv
@@ -1529,4 +1544,19 @@
 - **ID**: arxiv_2608.14465v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14465v1](http://arxiv.org/abs/2608.14465v1)
+
+## ClawGym II: Exploring Black-Box RL on Agent Harness
+- **ID**: arxiv_2608.16798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16798v1](http://arxiv.org/abs/2608.16798v1)
+
+## Model Hypnosis: Strong control of AI via additive subliminal effects
+- **ID**: arxiv_2608.16834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16834v1](http://arxiv.org/abs/2608.16834v1)
+
+## Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text
+- **ID**: arxiv_2608.16868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16868v1](http://arxiv.org/abs/2608.16868v1)
 

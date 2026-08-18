@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.18736v3",
+  "schema_version": "1.0",
+  "name": "Spectral Progressive Diffusion for Efficient Image and Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.18736v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.18736v3",
+    "updated": "2026-08-17T17:15:02Z",
+    "published": "2026-05-18T17:55:39Z",
+    "title": "Spectral Progressive Diffusion for Efficient Image and Video Generation",
+    "summary": "Diffusion models have been shown to implicitly generate visual content autoregressively in the frequency domain, where low-frequency components are generated earlier in the denoising process while high-frequency details emerge only in later timesteps. This structure offers a natural opportunity for efficient generation, as high-resolution computation on noise-dominated frequencies is largely redundant. We propose Spectral Progressive Diffusion, a general framework that progressively grows resolution along the denoising trajectory of pretrained diffusion models. To this end, we develop a spectral noise expansion mechanism and derive an optimal resolution schedule from the model's power spectrum. Our framework supports training-free acceleration and a novel fine-tuning recipe that further improves efficiency and quality. We demonstrate significant speedups on state-of-the-art pretrained image and video generation models while preserving visual quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T17:15:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.18736v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

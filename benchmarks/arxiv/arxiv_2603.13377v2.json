@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.13377v2",
+  "schema_version": "1.0",
+  "name": "Deep Learning for BioImaging: What Are We Really Learning?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.13377v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.13377v2",
+    "updated": "2026-08-17T16:26:01Z",
+    "published": "2026-03-10T16:49:09Z",
+    "title": "Deep Learning for BioImaging: What Are We Really Learning?",
+    "summary": "Representation learning has driven major advances in natural image analysis by enabling models to acquire high-level semantic features. In microscopy imaging, however, it remains unclear what current representation learning methods really learn. In this work, we conduct a systematic study of representation learning for the two most widely used and broadly available microscopy data types, representing critical scales in biology: cell culture and tissue imaging. We investigate whether, in contrast to natural images, existing models fail to consistently acquire high-level, biologically meaningful features. To this end, we introduce a set of simple yet revealing baselines on curated benchmarks, including untrained models and structural representations of cellular tissue. Our results show that, surprisingly, for a considerable subset of evaluation settings, the baselines are comparable to state-of-the-art methods, demonstrating that many commonly used benchmark metrics are insufficient to assess representation quality and often mask a lack of relevant high-level abstractions. In addition, we investigate how detailed comparisons with these baselines provide ways to interpret the strengths and weaknesses of models for further improvements. Together, our results suggest that progress in representation learning for microscopy requires not only stronger models, but also benchmarks that are more indicative of what is actually learned.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:26:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.13377v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

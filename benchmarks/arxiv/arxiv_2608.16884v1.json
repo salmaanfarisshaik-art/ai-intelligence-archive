@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.16884v1",
+  "schema_version": "1.0",
+  "name": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.16884v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.16884v1",
+    "updated": "2026-08-17T17:59:05Z",
+    "published": "2026-08-17T17:59:05Z",
+    "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
+    "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alman et al., 2025). In this note, we address the optimization problem at the core of this approach and propose several improvements. First, we reformulate the optimization problem allowing us to solve it in a larger setting than was previously possible. Second, we leverage recent advances in machine learning to design a new optimization algorithm for this problem. Finally, we refine the resulting optimization algorithm with AlphaEvolve. Our combined approach yields an upper bound of $ω$ < 2.371177, improving the previous best bound of 2.371339.",
+    "primary_category": "cs.DS"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T17:59:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.16884v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

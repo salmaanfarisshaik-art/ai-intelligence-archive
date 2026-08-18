@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.00713v5](http://arxiv.org/abs/2410.00713v5)
 
+## STAG-VIO: Stabilized Prompt-to-Geometry Interface for Robust Dynamic Visual--Inertial Odometry
+- **ID**: arxiv_2411.19289v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2411.19289v4](http://arxiv.org/abs/2411.19289v4)
+
 ## Deepfake Media Generation and Detection in the Generative AI Era: A Survey and Outlook
 - **ID**: arxiv_2411.19537v4
 - **Source**: ArXiv
@@ -165,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.05740v2](http://arxiv.org/abs/2510.05740v2)
 
+## PickStyle: Video-to-Video Style Transfer with Context-Style Adapters
+- **ID**: arxiv_2510.07546v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.07546v2](http://arxiv.org/abs/2510.07546v2)
+
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
 - **ID**: arxiv_2510.16598v2
 - **Source**: ArXiv
@@ -250,6 +260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.06550v4](http://arxiv.org/abs/2601.06550v4)
 
+## A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs
+- **ID**: arxiv_2601.08024v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.08024v2](http://arxiv.org/abs/2601.08024v2)
+
 ## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
 - **ID**: arxiv_2601.20720v2
 - **Source**: ArXiv
@@ -320,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.12144v4](http://arxiv.org/abs/2603.12144v4)
 
+## Deep Learning for BioImaging: What Are We Really Learning?
+- **ID**: arxiv_2603.13377v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.13377v2](http://arxiv.org/abs/2603.13377v2)
+
 ## Self-Distillation of Hidden Layers for Self-Supervised Representation Learning
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
@@ -339,6 +359,11 @@
 - **ID**: arxiv_2603.21809v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21809v2](http://arxiv.org/abs/2603.21809v2)
+
+## A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks
+- **ID**: arxiv_2603.26763v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.26763v3](http://arxiv.org/abs/2603.26763v3)
 
 ## Hierarchical Pre-Training of Vision Encoders with Large Language Model
 - **ID**: arxiv_2604.00086v2
@@ -404,6 +429,11 @@
 - **ID**: arxiv_2605.15375v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15375v2](http://arxiv.org/abs/2605.15375v2)
+
+## Spectral Progressive Diffusion for Efficient Image and Video Generation
+- **ID**: arxiv_2605.18736v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.18736v3](http://arxiv.org/abs/2605.18736v3)
 
 ## Rethinking Cross-Layer Information Routing in Diffusion Transformers
 - **ID**: arxiv_2605.20708v2
@@ -785,6 +815,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20531v1](http://arxiv.org/abs/2606.20531v1)
 
+## VisDom: Sparse Novel View Synthesis with Visible Domain Constraint
+- **ID**: arxiv_2606.20531v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20531v2](http://arxiv.org/abs/2606.20531v2)
+
 ## The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation
 - **ID**: arxiv_2606.20536v1
 - **Source**: ArXiv
@@ -1079,6 +1114,11 @@
 - **ID**: arxiv_2607.18237v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18237v1](http://arxiv.org/abs/2607.18237v1)
+
+## The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric
+- **ID**: arxiv_2607.18237v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18237v2](http://arxiv.org/abs/2607.18237v2)
 
 ## Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics
 - **ID**: arxiv_2607.18540v2
@@ -2040,6 +2080,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v1](http://arxiv.org/abs/2608.07468v1)
 
+## SimWAM: A Simple World Action Model for End-to-End Autonomous Driving
+- **ID**: arxiv_2608.07468v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07468v3](http://arxiv.org/abs/2608.07468v3)
+
 ## Model the Edit, Not the Image: Visual Autoregressive Editing from a Source-Centric Perspective
 - **ID**: arxiv_2608.09057v2
 - **Source**: ArXiv
@@ -2524,4 +2569,64 @@
 - **ID**: arxiv_2608.14546v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14546v1](http://arxiv.org/abs/2608.14546v1)
+
+## TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
+- **ID**: arxiv_2608.16765v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16765v1](http://arxiv.org/abs/2608.16765v1)
+
+## Calibration-Free Vehicle Speed Estimation: A Monocular Keypoint-Template Approach
+- **ID**: arxiv_2608.16785v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16785v1](http://arxiv.org/abs/2608.16785v1)
+
+## Revisiting Classifier-Free Guidance Methods in Latent Diffusion Models
+- **ID**: arxiv_2608.16786v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16786v1](http://arxiv.org/abs/2608.16786v1)
+
+## Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching
+- **ID**: arxiv_2608.16791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16791v1](http://arxiv.org/abs/2608.16791v1)
+
+## PixRestore: Unified Image Restoration via Pixel Diffusion Transformer
+- **ID**: arxiv_2608.16793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16793v1](http://arxiv.org/abs/2608.16793v1)
+
+## Diagnosing Dense Same-Class Attribute Misbinding in Large Vision-Language Models
+- **ID**: arxiv_2608.16805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16805v1](http://arxiv.org/abs/2608.16805v1)
+
+## Unsupervised Learning of Cell Instances with Generative Routing Pyramids
+- **ID**: arxiv_2608.16810v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16810v1](http://arxiv.org/abs/2608.16810v1)
+
+## Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
+- **ID**: arxiv_2608.16812v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16812v1](http://arxiv.org/abs/2608.16812v1)
+
+## Can Unsupervised Methods Outperform Supervised Deep Learning When Ground Truth Is Sparse? A Case Study of Bronchovascular Bundle Segmentation in Low-Dose CT
+- **ID**: arxiv_2608.16855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16855v1](http://arxiv.org/abs/2608.16855v1)
+
+## HarnessEval-W: Agentifying the Evaluation of Visual Worlds
+- **ID**: arxiv_2608.16859v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16859v1](http://arxiv.org/abs/2608.16859v1)
+
+## SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis
+- **ID**: arxiv_2608.16863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16863v1](http://arxiv.org/abs/2608.16863v1)
+
+## An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models
+- **ID**: arxiv_2608.16887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16887v1](http://arxiv.org/abs/2608.16887v1)
 

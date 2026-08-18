@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.20253v4",
+  "schema_version": "1.0",
+  "name": "SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.20253v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "physics.comp-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.20253v4",
+    "updated": "2026-08-17T16:37:53Z",
+    "published": "2026-03-11T05:00:48Z",
+    "title": "SimulCost: A Cost-Aware Benchmark and Toolkit for Automating Physics Simulations with LLMs",
+    "summary": "Evaluating LLM agents for scientific tasks has focused on token costs while ignoring tool-use costs like simulation time and experimental resources. As a result, metrics like pass@k become impractical under realistic budget constraints. To address this gap, we introduce SimulCost, the first benchmark targeting cost-sensitive parameter tuning in physics simulations. SimulCost compares LLM tuning cost-sensitive parameters against traditional scanning approach in both accuracy and computational cost, spanning 2,643 single-round (initial guess) and 2,304 multi-round (adjustment by trial-and-error) tasks across 11 simulators from fluid dynamics, solid mechanics, and plasma physics, whose costs are analytically defined and platform-independent. A twelfth simulator, a production plasma code measurable only by wall clock, is reported separately. Frontier LLMs achieve 45-62% success rates in single-round mode, dropping to 34-50% under high accuracy requirements, rendering their initial guesses unreliable especially for high accuracy tasks. Multi-round mode improves rates to 66-81%, but LLMs are 1.5-2.7x slower than traditional scanning, making them uneconomical choices. We also investigate parameter group correlations for knowledge transfer potential, and the impact of in-context examples and reasoning effort, providing practical implications for deployment and fine-tuning. We open-source SimulCost as a static benchmark and extensible toolkit to facilitate research on improving cost-aware agentic designs for physics simulations, and for expanding new simulation environments. Code and data are available at https://github.com/Rose-STL-Lab/SimulCost-Bench",
+    "primary_category": "physics.comp-ph"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:37:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.20253v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

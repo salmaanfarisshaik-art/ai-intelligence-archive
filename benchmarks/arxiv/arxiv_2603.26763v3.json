@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.26763v3",
+  "schema_version": "1.0",
+  "name": "A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.26763v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.26763v3",
+    "updated": "2026-08-17T16:13:02Z",
+    "published": "2026-03-23T20:51:35Z",
+    "title": "A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks",
+    "summary": "Talking-head videos constitute a predominant content type in real-time communication, yet publicly available datasets for video processing research in this domain remain scarce and limited in signal fidelity. In this paper, we open-source a camera-native dataset of 838 talking-head recordings (approximately 210 minutes), each 15s in duration, captured from 799 participants across 443 camera-code categories in their natural environments. All recordings are stored using the FFV1 lossless codec, preserving the camera-native signal---uncompressed (24.7%) or MJPEG-encoded (75.3%)---without additional lossy processing. Each recording is annotated with a Mean Opinion Score (MOS) and ten perceptual quality tokens that jointly explain 64.4% of the MOS variance. From this corpus, we curate a stratified benchmarking subset of 120 clips in three content conditions: original, background blur, and background replacement. Codec efficiency evaluation across four datasets and four codecs, namely H.264, H.265, H.266, and AV1, yields VMAF BD-rate savings up to $-71.3%$ (H.266) relative to H.264, with significant encoder$\\times$dataset ($η_p^2 = .112$) and encoder$\\times$content condition ($η_p^2 = .149$) interactions, demonstrating that both content type and background processing affect compression efficiency. A preliminary super-resolution evaluation with four SR models confirms that the dataset significantly affects absolute performance while preserving model rankings, demonstrating applicability beyond codec benchmarking. The dataset offers 5$\\times$ the scale of the largest prior talking-head webcam dataset (838 vs. 160 clips) and preserves the camera-native signal without additional lossy compression, establishing a resource for benchmarking video compression, super-resolution, quality assessment, and enhancement models in real-time communication.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:13:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.26763v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

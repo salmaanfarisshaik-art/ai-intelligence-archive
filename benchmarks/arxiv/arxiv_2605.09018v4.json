@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.09018v4",
+  "schema_version": "1.0",
+  "name": "Evolving Ensemble of Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.09018v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.NE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.09018v4",
+    "updated": "2026-08-17T17:47:32Z",
+    "published": "2026-05-09T15:56:10Z",
+    "title": "Evolving Ensemble of Agents",
+    "summary": "We introduce the Evolving Ensemble of Agents (EvE), a decentralized framework that organizes existing, highly capable coding agents into a live, co-evolving system for algorithmic discovery. Rather than reinventing the wheel within the ``LLMs as optimizers'' paradigm, EvE fixes the base agent substrate and focuses entirely on evolving the cumulative guidance and skills that dictate agent behaviors. By maintaining two co-evolving populations, namely functional code solvers and agent guidance states, the system evaluates agents through a synchronous race, updating their empirical Elo ratings based on the marginal gains they contribute to the current solver state. When applied to a research bottleneck in In-Context Operator Networks (ICON), EvE autonomously discovered a robust rescale-then-interpolate mechanism that enables reliable example-count generalization. Crucially, controlled ablations reveal the absolute necessity of stage-dependent agent adaptation to navigate the shifting search landscapes of complex codebases. Compared to variants driven by a fixed initial agent or even a frozen ``best-evolved'' agent, EvE uniquely avoids phase mismatch, demonstrating that organizing agents into a self-revising ensemble is the fundamental driver for breaking through static performance ceilings.",
+    "primary_category": "cs.NE"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T17:47:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.09018v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

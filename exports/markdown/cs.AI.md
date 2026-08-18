@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
 
+## SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling
+- **ID**: arxiv_2508.09105v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.09105v3](http://arxiv.org/abs/2508.09105v3)
+
 ## On The Statistical Limits of Self-Improving Agents
 - **ID**: arxiv_2510.04399v3
 - **Source**: ArXiv
@@ -294,6 +299,11 @@
 - **ID**: arxiv_2606.17005v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.17005v1](http://arxiv.org/abs/2606.17005v1)
+
+## A Machine-Learned Comorbidity Index
+- **ID**: arxiv_2606.17450v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.17450v2](http://arxiv.org/abs/2606.17450v2)
 
 ## Knowledge Reutilization in Meta-Reinforcement Learning
 - **ID**: arxiv_2606.18132v1
@@ -1375,6 +1385,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12304v1](http://arxiv.org/abs/2608.12304v1)
 
+## Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation
+- **ID**: arxiv_2608.12385v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12385v2](http://arxiv.org/abs/2608.12385v2)
+
 ## Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension
 - **ID**: arxiv_2608.13447v1
 - **Source**: ArXiv
@@ -1479,4 +1494,34 @@
 - **ID**: arxiv_2608.14528v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14528v1](http://arxiv.org/abs/2608.14528v1)
+
+## GRIP: Grounded Reasoning via Information-Restricted Premises
+- **ID**: arxiv_2608.16776v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16776v1](http://arxiv.org/abs/2608.16776v1)
+
+## When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding
+- **ID**: arxiv_2608.16801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16801v1](http://arxiv.org/abs/2608.16801v1)
+
+## Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment
+- **ID**: arxiv_2608.16804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16804v1](http://arxiv.org/abs/2608.16804v1)
+
+## Quipu: A Governed Bitemporal Knowledge Graph Store
+- **ID**: arxiv_2608.16813v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16813v1](http://arxiv.org/abs/2608.16813v1)
+
+## Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning
+- **ID**: arxiv_2608.16831v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16831v1](http://arxiv.org/abs/2608.16831v1)
+
+## What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models
+- **ID**: arxiv_2608.16852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16852v1](http://arxiv.org/abs/2608.16852v1)
 

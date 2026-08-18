@@ -75,3 +75,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28498v1](http://arxiv.org/abs/2607.28498v1)
 
+## UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation
+- **ID**: arxiv_2608.16797v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16797v1](http://arxiv.org/abs/2608.16797v1)
+

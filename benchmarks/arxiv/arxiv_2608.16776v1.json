@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.16776v1",
+  "schema_version": "1.0",
+  "name": "GRIP: Grounded Reasoning via Information-Restricted Premises",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.16776v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.16776v1",
+    "updated": "2026-08-17T16:23:49Z",
+    "published": "2026-08-17T16:23:49Z",
+    "title": "GRIP: Grounded Reasoning via Information-Restricted Premises",
+    "summary": "High-capacity encoders in retrieval-augmented generation (RAG) can let the query dominate the latent state, leaving retrieved evidence functionally irrelevant. We call this failure mode query dominance. To address it, we introduce \\textbf{GRIP} (Grounded Reasoning via Information-Restricted Premises), which imposes capacity asymmetry: the decoder keeps full-dimensional access to the query, while retrieved evidence passes through a severe stochastic bottleneck. This forces the evidence channel to encode only the residual information unavailable from the query. Across five reasoning benchmarks, GRIP outperforms strong iterative baselines, cuts a query--latent mutual-information diagnostic by roughly 30$\\times$ (14.8 $\\to$ 0.47 bits), and reduces hallucination by 73\\%. Residual-alignment analysis further shows that the bottleneck output occupies subspaces less aligned with the query than baseline representations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:23:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.16776v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

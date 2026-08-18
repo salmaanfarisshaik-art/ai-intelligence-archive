@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2411.19289v4",
+  "schema_version": "1.0",
+  "name": "STAG-VIO: Stabilized Prompt-to-Geometry Interface for Robust Dynamic Visual--Inertial Odometry",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2411.19289v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2411.19289v4",
+    "updated": "2026-08-17T16:18:08Z",
+    "published": "2024-11-28T17:41:33Z",
+    "title": "STAG-VIO: Stabilized Prompt-to-Geometry Interface for Robust Dynamic Visual--Inertial Odometry",
+    "summary": "Dynamic visual-inertial odometry (VIO) requires reliable suppression of motion-corrupted measurements, yet prior semantic-assisted approaches depend on category-limited segmenters and degrade under partial occlusion. Promptable foundation segmentation models offer category-agnostic dynamic parsing, but their effectiveness in VIO depends critically on the temporal stability of input prompts---a factor largely overlooked in existing pipelines. When prompts derived from raw detection are jittery or intermittent under occlusion, the resulting masks flicker across frames, destabilizing geometric estimation. We propose STAG-VIO, which formulates dynamic robustness as a perception-to-geometry interface stabilization problem. We introduce uncertainty-adaptive multi-object tracking that models prompt generation as state estimation with bounded noise adaptation, producing temporally coherent box prompts. These stabilized prompts drive a lightweight foundation segmenter whose masks undergo geometry-oriented morphological refinement to establish conservative safety margins. A constraint-budget-aware feature redistribution strategy preserves well-conditioned static measurements when dynamic regions dominate the view. Experiments on VIODE and OpenLORIS-Scene show consistent gains over state-of-the-art baselines. Ablation confirms that prompt stabilization is the single most impactful component, reducing trajectory error by up to 83%.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:18:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2411.19289v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

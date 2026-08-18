@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.16786v1",
+  "schema_version": "1.0",
+  "name": "Revisiting Classifier-Free Guidance Methods in Latent Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.16786v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.16786v1",
+    "updated": "2026-08-17T16:40:54Z",
+    "published": "2026-08-17T16:40:54Z",
+    "title": "Revisiting Classifier-Free Guidance Methods in Latent Diffusion Models",
+    "summary": "Inference-time quality-enhancement methods are an effective and widely adopted means of improving diffusion models without expensive retraining. We study a family of training-free techniques conceptually rooted in Classifier-Free Guidance (CFG), most of which were originally proposed on older U-Net diffusion models and validated using metrics that assess image quality in isolation, without accounting for compositional alignment or semantic correspondence between the generated image and its associated text prompt. We re-evaluate eight such methods on two open-weight rectified-flow transformers under a fixed per-model protocol and three compositional-alignment benchmarks. No method consistently improves on CFG across the measured criteria. APG obtains several nominal best scores, but the corresponding gains often remain within the estimated evaluation uncertainty. Attention-perturbation methods provide isolated gains on SD3.5 Medium and more frequent degradations on FLUX.2 [klein] 4B Base, while CFG remains a competitive lower-cost baseline.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T16:40:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.16786v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

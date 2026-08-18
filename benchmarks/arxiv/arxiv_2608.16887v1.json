@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.16887v1",
+  "schema_version": "1.0",
+  "name": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.16887v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.16887v1",
+    "updated": "2026-08-17T17:59:25Z",
+    "published": "2026-08-17T17:59:25Z",
+    "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+    "summary": "This paper investigates an increasingly important topic in generative modeling: pixel-space diffusion models. Although numerous studies have explored this topic, most focus on small-scale or class-conditional settings. Consequently, a practical recipe for training pixel-space models that rival or exceed well-established latent-space counterparts remains elusive. Through a comprehensive empirical study, we first observe that direct large-scale pre-training in pixel space converges substantially more slowly than in latent space. This observation motivates a latent-to-pixel strategy that acquires generative priors efficiently in latent space and transitions to pixel space during post-training. We then systematically investigate the key design choices governing this transition, including weight initialization, data composition, prediction target, decoder architecture, and noise schedule, and identify a practical recipe that makes the resulting pixel-space models match or outperform their latent-space counterparts while delivering 3.18 to 4.75 times end-to-end inference speedups. We hope that our findings provide useful empirical insights and practical guidelines for future research on pixel-space generation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-18T02:53:49Z",
+  "last_updated": "2026-08-17T17:59:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.16887v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
