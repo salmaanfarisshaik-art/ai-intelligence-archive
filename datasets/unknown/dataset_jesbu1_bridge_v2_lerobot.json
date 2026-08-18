@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3899a5d24770fa593ad09f6f6e22cd417a227431",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"widowx\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1999410,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/jesbu1/bridge_v2_lerobot.",
-  "downloads": 50984,
+  "downloads": 51752,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

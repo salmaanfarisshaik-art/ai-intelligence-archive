@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5486690cc16bc362d45b6db75bdd5c7a709ca574",
   "description": "\n\t\n\t\t\n\t\tAI-MO Olympiad Reference Dataset\n\t\n\nThis dataset contains a structured collection of Olympiad problems and their solutions, \norganized by competition. Contains high quality data, prioritizing \"official\" solutions to problems.\n\n\t\n\t\t\n\t\tStructure\n\t\n\n<competition name>/    # Problems and solutions from the International Mathematical Olympiad\n├── raw/               # Raw problem/solution statements (.pdf)\n│   ├── file1.pdf\n│   ├── file2.pdf\n├── download_script/   # the scripts used to… See the full description on the dataset page: https://huggingface.co/datasets/AI-MO/olympiads.",
-  "downloads": 117384,
+  "downloads": 122175,
   "tags": [
     "modality:document",
     "region:us"

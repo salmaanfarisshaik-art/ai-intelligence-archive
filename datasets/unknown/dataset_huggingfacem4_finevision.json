@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3c380a731a3429c1d04693d6ec16d7e683def84c",
   "description": "\n\t\n\t\t\n\t\tFine Vision\n\t\n\n\nFineVision is a massive collection of datasets with 17.3M images, 24.3M samples, 88.9M turns, and 9.5B answer tokens, designed for training state-of-the-art open Vision-Language-Models.\nMore detail can be found in the blog post: https://huggingface.co/spaces/HuggingFaceM4/FineVision\n\n\t\n\t\t\n\t\n\t\n\t\tLoad the data\n\t\n\n  from datasets import load_dataset, get_dataset_config_names\n\n  # Get all subset names and load the first one\n  available_subsets =… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceM4/FineVision.",
-  "downloads": 103319,
+  "downloads": 106623,
   "tags": [
     "size_categories:10M<n<100M",
     "format:parquet",

@@ -232,6 +232,12 @@
 - **URL**: [https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts](https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts)
 - **Tags**: format:csv, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:text, prompts, region:us, size_categories:10K<n<100K, stable diffusion, text-to-image
 
+## uwipl/RT-Pose
+- **ID**: hf_ds_6601c221829a6282b76a308d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/uwipl/RT-Pose](https://huggingface.co/datasets/uwipl/RT-Pose)
+- **Tags**: arxiv:2407.13930, license:cc-by-nc-sa-4.0, region:us, size_categories:1K<n<10K, task_categories:keypoint-detection
+
 ## HuggingFaceM4/the_cauldron
 - **ID**: hf_ds_661823b590a8b6724f1c6534
 - **Source**: HuggingFace Datasets
@@ -663,6 +669,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/endomorphosis/common_crawl_meta_indexes](https://huggingface.co/datasets/endomorphosis/common_crawl_meta_indexes)
 - **Tags**: region:us
+
+## shash42/forecast-news
+- **ID**: hf_ds_69920596d401600ba4b9a839
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/shash42/forecast-news](https://huggingface.co/datasets/shash42/forecast-news)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:10M<n<100M
 
 ## GEAR-Dreams/DreamZero-DROID-Data
 - **ID**: hf_ds_699243aa8be5bf8321adfd86

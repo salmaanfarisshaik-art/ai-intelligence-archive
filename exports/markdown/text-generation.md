@@ -307,6 +307,7 @@
 - **ID**: hf_HuggingFaceTB_SmolLM2-135M
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/HuggingFaceTB/SmolLM2-135M](https://huggingface.co/HuggingFaceTB/SmolLM2-135M)
+- **Tags**: arxiv:2502.02737, deploy:azure, en, endpoints_compatible, eval-results, license:apache-2.0, llama, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## HuggingFaceTB/SmolLM2-135M-Instruct
 - **ID**: hf_HuggingFaceTB_SmolLM2-135M-Instruct

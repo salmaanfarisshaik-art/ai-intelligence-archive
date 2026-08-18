@@ -1741,6 +1741,29 @@
     "local_path": "datasets/kazimir-ai/hf_ds_65ce59255f233e28db20fe4f.json"
   },
   {
+    "id": "hf_ds_6601c221829a6282b76a308d",
+    "title": "uwipl/RT-Pose",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2407.13930",
+      "license:cc-by-nc-sa-4.0",
+      "region:us",
+      "size_categories:1K<n<10K",
+      "task_categories:keypoint-detection"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/uwipl"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/uwipl/RT-Pose",
+    "local_path": "datasets/uwipl/hf_ds_6601c221829a6282b76a308d.json"
+  },
+  {
     "id": "hf_ds_661823b590a8b6724f1c6534",
     "title": "HuggingFaceM4/the_cauldron",
     "category": "dataset",
@@ -3843,6 +3866,33 @@
     },
     "source_url": "https://huggingface.co/datasets/endomorphosis/common_crawl_meta_indexes",
     "local_path": "datasets/endomorphosis/hf_ds_699125ba2e87fc8e25a5010a.json"
+  },
+  {
+    "id": "hf_ds_69920596d401600ba4b9a839",
+    "title": "shash42/forecast-news",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:apache-2.0",
+      "modality:text",
+      "region:us",
+      "size_categories:10M<n<100M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/shash42"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/shash42/forecast-news",
+    "local_path": "datasets/shash42/hf_ds_69920596d401600ba4b9a839.json"
   },
   {
     "id": "hf_ds_699243aa8be5bf8321adfd86",

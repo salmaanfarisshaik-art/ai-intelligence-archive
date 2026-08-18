@@ -538,6 +538,9 @@
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct"
   ],
+  "arxiv:2407.13930": [
+    "hf_ds_6601c221829a6282b76a308d"
+  ],
   "arxiv:2410.03751": [
     "hf_ds_67866986e864fd4dee936901"
   ],
@@ -556,6 +559,7 @@
     "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
   ],
   "arxiv:2502.02737": [
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
   "arxiv:2502.12404": [
@@ -1130,6 +1134,7 @@
   "deploy:azure": [
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -1266,6 +1271,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
@@ -1296,6 +1302,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
@@ -1385,6 +1392,7 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "eval-results": [
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -1511,6 +1519,7 @@
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
@@ -3611,6 +3620,7 @@
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a18ded575c463d5aecfcf4d",
@@ -3668,6 +3678,7 @@
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
@@ -3743,6 +3754,7 @@
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
@@ -3829,6 +3841,7 @@
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
@@ -3847,6 +3860,7 @@
   "license:apache-2.0": [
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -3887,6 +3901,7 @@
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6937cb3e145e00d96aa5338c",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_6a252aa1e7f978cbccbe94ed",
     "hf_ds_6a307dae8e258cbed418ec58",
@@ -3936,6 +3951,7 @@
   ],
   "license:cc-by-nc-sa-4.0": [
     "hf_ds_621ffdd236468d709f1835cf",
+    "hf_ds_6601c221829a6282b76a308d",
     "hf_ds_6993525c8be5bf8321bcc775"
   ],
   "license:cc-by-sa-3.0": [
@@ -4060,6 +4076,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
   "llama": [
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -4244,6 +4261,7 @@
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
@@ -4622,6 +4640,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
@@ -4693,6 +4712,7 @@
     "hf_ds_65a18a266e478287a038a6a6",
     "hf_ds_65c7e3da4451e58b8ded6212",
     "hf_ds_65ce59255f233e28db20fe4f",
+    "hf_ds_6601c221829a6282b76a308d",
     "hf_ds_661823b590a8b6724f1c6534",
     "hf_ds_66212f29fb07c3e05ad0432e",
     "hf_ds_66293ead0326d8c0fc899ac0",
@@ -4765,6 +4785,7 @@
     "hf_ds_6988f1ba1dea739b4799e69f",
     "hf_ds_698aee8a9b778894943e6c5d",
     "hf_ds_699125ba2e87fc8e25a5010a",
+    "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -4872,6 +4893,7 @@
   "safetensors": [
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
@@ -5025,7 +5047,8 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67b9d203047d98a072b4e68c",
-    "hf_ds_692ecca11aad0a1d75ac057c"
+    "hf_ds_692ecca11aad0a1d75ac057c",
+    "hf_ds_69920596d401600ba4b9a839"
   ],
   "size_categories:1B<n<10B": [
     "hf_ds_6655eb19d17e141dcb546ed5",
@@ -5038,6 +5061,7 @@
   "size_categories:1K<n<10K": [
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_64a63fbb85638d0e698f055f",
+    "hf_ds_6601c221829a6282b76a308d",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_699243aa8be5bf8321adfd86",
@@ -5261,6 +5285,9 @@
     "hf_ds_698aee8a9b778894943e6c5d",
     "hf_ds_6a18ded575c463d5aecfcf4d"
   ],
+  "task_categories:keypoint-detection": [
+    "hf_ds_6601c221829a6282b76a308d"
+  ],
   "task_categories:other": [
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_67ab2149bc76a9aab3ff90ed",
@@ -5442,6 +5469,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
@@ -5511,6 +5539,7 @@
   "text-generation-inference": [
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
@@ -5579,6 +5608,7 @@
   "transformers": [
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
+    "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",

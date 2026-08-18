@@ -1,0 +1,32 @@
+{
+  "_id": "64ff224ee7ef4e223d949733",
+  "id": "TIGER-Lab/MathInstruct",
+  "author": "TIGER-Lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-05-15T00:06:46.000Z",
+  "likes": 306,
+  "private": false,
+  "sha": "b4fdc323a7be1379c9c7c0b67b1de72dfee2111a",
+  "description": "\n\t\n\t\t\n\t\t🦣 MAmmoTH: Building Math Generalist Models through Hybrid Instruction Tuning\n\t\n\nMathInstruct is a meticulously curated instruction tuning dataset that is lightweight yet generalizable. MathInstruct is compiled from 13 math rationale datasets, six of which are newly curated by this work. It uniquely focuses on the hybrid use of chain-of-thought (CoT) and program-of-thought (PoT) rationales, and ensures extensive coverage of diverse mathematical fields. \nProject Page:… See the full description on the dataset page: https://huggingface.co/datasets/TIGER-Lab/MathInstruct.",
+  "downloads": 29096,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:mit",
+    "size_categories:100K<n<1M",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2309.05653",
+    "region:us",
+    "math"
+  ],
+  "createdAt": "2023-09-11T14:21:02.000Z",
+  "key": "",
+  "unique_id": "dataset_tiger_lab_mathinstruct",
+  "schema_version": "1.0"
+}
