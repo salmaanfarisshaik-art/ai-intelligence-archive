@@ -424,6 +424,10 @@
 - **ID**: model_bartowski_llama_3_3_70b_instruct_abliterated_gguf
 - **Source**: 
 
+## bartowski/Meta-Llama-3.1-70B-Instruct-GGUF
+- **ID**: model_bartowski_meta_llama_3_1_70b_instruct_gguf
+- **Source**: 
+
 ## bartowski/Meta-Llama-3.1-8B-Instruct-GGUF
 - **ID**: model_bartowski_meta_llama_3_1_8b_instruct_gguf
 - **Source**: 

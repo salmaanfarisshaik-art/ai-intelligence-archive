@@ -1,41 +1,62 @@
 # Change Summary
 
-**Total Changes:** 76
+**Total Changes:** 100
 
 ## Added
 None
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
+- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/relationship_graph.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/uoft-cs/hf_ds_621ffdd236468d709f181db0.json
+- exports/csv/all_entities.csv
+- exports/csv/models.csv
+- exports/json/all_entities.json
+- exports/json/models.json
+- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/distilbert/hf_distilbert_distilgpt2.json
-- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
-- models/eleutherai/hf_EleutherAI_pythia-160m.json
-- models/facebook/hf_facebook_opt-125m.json
-- models/openai-community/hf_openai-community_gpt2.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/hmellor/hf_hmellor_tiny-random-LlamaForCausalLM.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen-72B.json
-- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
-- models/vikhyatk/hf_vikhyatk_moondream2.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
+- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -43,6 +64,7 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
+- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -64,6 +86,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
@@ -79,6 +102,7 @@ None
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
+- tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
