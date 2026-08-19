@@ -3931,6 +3931,11 @@
 - **URL**: [https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3](https://openai.com/index/o3-o4-mini-system-card-addendum-operator-o3)
 
 ## 
+- **ID**: rss_https://openai.com/index/offering-zero-data-retention-for-frontier-models
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/offering-zero-data-retention-for-frontier-models](https://openai.com/index/offering-zero-data-retention-for-frontier-models)
+
+## 
 - **ID**: rss_https://openai.com/index/omio
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/omio](https://openai.com/index/omio)
