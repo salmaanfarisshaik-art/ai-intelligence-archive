@@ -210,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.25225v2](http://arxiv.org/abs/2605.25225v2)
 
+## BRo-JEPA: Learning Modular Transformations in Latent Space
+- **ID**: arxiv_2606.01372v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01372v2](http://arxiv.org/abs/2606.01372v2)
+
 ## Variational Learning for Insertion-based Generation
 - **ID**: arxiv_2606.02133v3
 - **Source**: ArXiv
@@ -894,4 +899,24 @@
 - **ID**: arxiv_2608.16844v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16844v1](http://arxiv.org/abs/2608.16844v1)
+
+## Too Sure to Be Safe: Model Calibration for Reliable Log Anomaly Detection
+- **ID**: arxiv_2608.17965v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17965v1](http://arxiv.org/abs/2608.17965v1)
+
+## Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents
+- **ID**: arxiv_2608.18008v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18008v1](http://arxiv.org/abs/2608.18008v1)
+
+## Why GPT-Style Models Do Not Directly Transfer to Symbolic Music: Compression in the Wrong Coordinate System
+- **ID**: arxiv_2608.18025v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18025v1](http://arxiv.org/abs/2608.18025v1)
+
+## Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization
+- **ID**: arxiv_2608.18040v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18040v1](http://arxiv.org/abs/2608.18040v1)
 

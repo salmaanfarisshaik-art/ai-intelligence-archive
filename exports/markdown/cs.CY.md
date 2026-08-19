@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14399v1](http://arxiv.org/abs/2608.14399v1)
 
+## Traceable Trust for action-ready artificial intelligence in bioscience
+- **ID**: arxiv_2608.17997v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17997v1](http://arxiv.org/abs/2608.17997v1)
+

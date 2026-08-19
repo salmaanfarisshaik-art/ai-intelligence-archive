@@ -175,6 +175,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07157v4](http://arxiv.org/abs/2606.07157v4)
 
+## Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference
+- **ID**: arxiv_2606.07897v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07897v2](http://arxiv.org/abs/2606.07897v2)
+
 ## Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 - **ID**: arxiv_2606.11042v3
 - **Source**: ArXiv
@@ -1495,6 +1500,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14528v1](http://arxiv.org/abs/2608.14528v1)
 
+## Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling
+- **ID**: arxiv_2608.15565v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15565v2](http://arxiv.org/abs/2608.15565v2)
+
 ## GRIP: Grounded Reasoning via Information-Restricted Premises
 - **ID**: arxiv_2608.16776v1
 - **Source**: ArXiv
@@ -1524,4 +1534,29 @@
 - **ID**: arxiv_2608.16852v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16852v1](http://arxiv.org/abs/2608.16852v1)
+
+## Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach
+- **ID**: arxiv_2608.18017v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18017v1](http://arxiv.org/abs/2608.18017v1)
+
+## StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents
+- **ID**: arxiv_2608.18050v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18050v1](http://arxiv.org/abs/2608.18050v1)
+
+## HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance
+- **ID**: arxiv_2608.18056v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18056v1](http://arxiv.org/abs/2608.18056v1)
+
+## Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating
+- **ID**: arxiv_2608.18058v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18058v1](http://arxiv.org/abs/2608.18058v1)
+
+## On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification
+- **ID**: arxiv_2608.18066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18066v1](http://arxiv.org/abs/2608.18066v1)
 

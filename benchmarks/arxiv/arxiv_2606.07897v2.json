@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.07897v2",
+  "schema_version": "1.0",
+  "name": "Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.07897v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.07897v2",
+    "updated": "2026-08-18T16:36:41Z",
+    "published": "2026-06-05T23:16:28Z",
+    "title": "Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference",
+    "summary": "Current AI models frequently exhibit epistemic sycophancy, endorsing claims to agree with a user. Existing evaluations typically measure this either by assessing what it takes to make a model shift a binary endorsement or by eliciting an explicit probability in a proposition. However, much user-facing sycophantic behavior is demonstrated through shifts in graded support expressed through ordinary language. We propose the Pander Score: a continuous score representing how sensitive the support expressed in a model's output is to the attitude expressed in a user's prompt. To generate the Pander Score, we provide a new protocol for estimating probabilities from natural language outputs, using LLMs-as-judges validated for consistency and correlation to human judgment. We deploy it on a new curated dataset of 349 propositions across diverse topics and over 11,000 prompts varying in user attitude, testing 18 models. Models pander to sharply different degrees. Among current flagship models, Z.ai's GLM-5.2 panders the most and Claude Fable 5 the least, with other models in between. When we run the test on instructional rather than conversational prompts, every model becomes substantially more likely to go along with claims they would push back against in conversation. We release the Pander Score as an easy-to-update benchmark and measurement pipeline for output-level sycophancy evaluation.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T16:36:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.07897v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.09872v2",
+  "schema_version": "1.0",
+  "name": "N-gram-like Language Models Predict Naturalistic Reading Time Best",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.09872v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.09872v2",
+    "updated": "2026-08-18T17:04:06Z",
+    "published": "2026-03-10T16:35:41Z",
+    "title": "N-gram-like Language Models Predict Naturalistic Reading Time Best",
+    "summary": "Recent work has found that contemporary language models such as transformers can become so good at next-word prediction that the probabilities they calculate become worse for predicting naturalistic reading time. In this paper, we propose that this can be explained by reading time being shaped by simple n-gram statistics rather than the more complex statistics learned by state-of-the-art transformer language models. We demonstrate that the neural language models whose predictions are most correlated with n-gram probability are also those that calculate probabilities that are the most correlated with eye-tracking-based metrics of reading time on naturalistic text.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T17:04:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.09872v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

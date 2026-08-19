@@ -30,3 +30,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14422v1](http://arxiv.org/abs/2608.14422v1)
 
+## Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors
+- **ID**: arxiv_2608.18036v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18036v1](http://arxiv.org/abs/2608.18036v1)
+
+## Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction
+- **ID**: arxiv_2608.18055v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18055v1](http://arxiv.org/abs/2608.18055v1)
+

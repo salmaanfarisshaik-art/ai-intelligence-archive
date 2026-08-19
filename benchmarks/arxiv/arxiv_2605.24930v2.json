@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.24930v2",
+  "schema_version": "1.0",
+  "name": "H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.24930v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.24930v2",
+    "updated": "2026-08-18T17:26:57Z",
+    "published": "2026-05-24T08:22:05Z",
+    "title": "H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer",
+    "summary": "Transformer-based LLMs achieve strong results on many language tasks; however, long inputs remain challenging because context windows are finite, and prefill latency and memory grow rapidly with prompt length. Flat token-stream processing and chunk-based retrieval can therefore spend substantial computation and context budget on text unrelated to the query. Offline-indexed RAG additionally introduces external storage and index management overhead, and typically appends retrieved evidence as raw text, increasing prefill cost and latency. H^{2}MT makes long-context inference structure-aware: it builds a semantic hierarchy offline, computes a memory embedding for each node via bottom-up post-order aggregation, and routes queries coarse-to-fine at inference to prune irrelevant branches early. On LongBench QA (NarrativeQA, HotpotQA, QASPER) and two structured technical-document settings, H MT achieves favorable quality efficiency trade-offs, delivering competitive ROUGE-L and F1 (where applicable) with lower peak GPU memory and time-to-first-token (TTFT) than prompt compression, memory-token methods, and retrieval-augmented generation baselines.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T17:26:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.24930v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

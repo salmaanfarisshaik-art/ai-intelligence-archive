@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11733v2",
+  "schema_version": "1.0",
+  "name": "A 12-CNOT Double Qubit Excitation Gate",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11733v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "quant-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11733v2",
+    "updated": "2026-08-18T16:41:31Z",
+    "published": "2026-08-12T07:12:57Z",
+    "title": "A 12-CNOT Double Qubit Excitation Gate",
+    "summary": "In this work, we presented, to the best of our knowledge, the first reported 12-CNOT decomposition of the double qubit excitation operator. We compared our new circuit with the previous SOTA 13-CNOT circuits in 4 different metrics. Our new circuit has the lowest CNOT count (12), lowest CNOT depth (8, roughly 27% reduction), and lowest total circuit depth (15, 25% reduction) among all the previous SOTA circuits. Further, we only added 2 extra one-qubit gates compared to the lowest one-qubit gate count (11) among the previous SOTA circuits. As the double qubit excitation operator can be used as a building block hundreds or thousands of times in practical quantum algorithms, any reduction in such primitives compounds over the full circuit, resulting in significant overall resource savings.",
+    "primary_category": "quant-ph"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T16:41:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11733v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

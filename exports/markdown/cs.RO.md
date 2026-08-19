@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03181v2](http://arxiv.org/abs/2604.03181v2)
 
+## Planning-aligned Token Compression for Long-Context Autonomous Driving
+- **ID**: arxiv_2606.07464v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07464v2](http://arxiv.org/abs/2606.07464v2)
+
 ## Mana: Dexterous Manipulation of Articulated Tools
 - **ID**: arxiv_2606.13677v1
 - **Source**: ArXiv
@@ -194,6 +199,11 @@
 - **ID**: arxiv_2607.29622v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29622v1](http://arxiv.org/abs/2607.29622v1)
+
+## WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA
+- **ID**: arxiv_2608.01035v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.01035v4](http://arxiv.org/abs/2608.01035v4)
 
 ## CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
 - **ID**: arxiv_2608.02578v1

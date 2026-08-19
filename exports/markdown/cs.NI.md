@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24692v1](http://arxiv.org/abs/2607.24692v1)
 
+## HMS-SCP: Task-Oriented Multi-Scale Semantic Communication for V2X Cooperative Perception
+- **ID**: arxiv_2608.14603v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14603v2](http://arxiv.org/abs/2608.14603v2)
+

@@ -82,6 +82,7 @@
 | [Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models](http://arxiv.org/abs/2606.13624v1) | ArXiv |  | 1 |
 | [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](http://arxiv.org/abs/2506.07691v2) | ArXiv |  | 1 |
 | [Capability Provenance in Language Models: A Case Study in Social Reasoning](http://arxiv.org/abs/2606.19625v3) | ArXiv |  | 1 |
+| [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) | ArXiv |  | 1 |
 | [Chained Recursive Language Models for Multi-Iteration Reasoning](http://arxiv.org/abs/2608.05124v1) | ArXiv |  | 1 |
 | [Characterizing Cultural Localization in AI-Generated Stories](http://arxiv.org/abs/2606.14626v1) | ArXiv |  | 1 |
 | [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](http://arxiv.org/abs/2606.31796v2) | ArXiv |  | 1 |
@@ -143,6 +144,7 @@
 | [grapheme-kit: Grapheme-Level Metrics and Text Processing for Multilingual NLP](http://arxiv.org/abs/2607.22456v1) | ArXiv |  | 1 |
 | [GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons](http://arxiv.org/abs/2604.21133v2) | ArXiv |  | 1 |
 | [Gumbel Distillation for Parallel Text Generation](http://arxiv.org/abs/2603.22216v2) | ArXiv |  | 1 |
+| [H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer](http://arxiv.org/abs/2605.24930v2) | ArXiv |  | 1 |
 | [HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification](http://arxiv.org/abs/2608.03966v1) | ArXiv |  | 1 |
 | [HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
@@ -162,12 +164,14 @@
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
 | [Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](http://arxiv.org/abs/2604.07269v2) | ArXiv |  | 1 |
+| [Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees](http://arxiv.org/abs/2608.17994v1) | ArXiv |  | 1 |
 | [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) | ArXiv |  | 1 |
 | [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](http://arxiv.org/abs/2607.00482v2) | ArXiv |  | 1 |
 | [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) | ArXiv |  | 1 |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](http://arxiv.org/abs/2606.13578v1) | ArXiv |  | 1 |
 | [LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories](http://arxiv.org/abs/2606.13578v2) | ArXiv |  | 1 |
 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](http://arxiv.org/abs/2607.12310v2) | ArXiv |  | 1 |
+| [Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation](http://arxiv.org/abs/2608.18041v1) | ArXiv |  | 1 |
 | [Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry](http://arxiv.org/abs/2607.15238v1) | ArXiv |  | 1 |
 | [Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision](http://arxiv.org/abs/2603.07025v2) | ArXiv |  | 1 |
 | [Large Emotional World Model](http://arxiv.org/abs/2512.24149v2) | ArXiv |  | 1 |
@@ -204,10 +208,12 @@
 | [MMLA: How Memory Lets the Past Shape the Future](http://arxiv.org/abs/2606.28876v3) | ArXiv |  | 1 |
 | [Model Hypnosis: Strong control of AI via additive subliminal effects](http://arxiv.org/abs/2608.16834v1) | ArXiv |  | 1 |
 | [Moral Semantics Survive Machine Translation: Cross-Lingual Evidence from Moral Foundations Corpora](http://arxiv.org/abs/2605.22660v2) | ArXiv |  | 1 |
+| [Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation](http://arxiv.org/abs/2608.18072v1) | ArXiv |  | 1 |
 | [Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions](http://arxiv.org/abs/2605.29738v2) | ArXiv |  | 1 |
 | [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](http://arxiv.org/abs/2602.05547v3) | ArXiv |  | 1 |
 | [Multilingual Agent-Based World Modeling for Social Science](http://arxiv.org/abs/2512.07195v2) | ArXiv |  | 1 |
 | [Multimodal QUD: Inquisitive Questions from Scientific Figures](http://arxiv.org/abs/2604.23733v2) | ArXiv |  | 1 |
+| [N-gram-like Language Models Predict Naturalistic Reading Time Best](http://arxiv.org/abs/2603.09872v2) | ArXiv |  | 1 |
 | [NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering](http://arxiv.org/abs/2608.06292v1) | ArXiv |  | 1 |
 | [Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims](http://arxiv.org/abs/2606.02493v3) | ArXiv |  | 1 |
 | [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) | ArXiv |  | 1 |
@@ -237,6 +243,7 @@
 | [Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training](http://arxiv.org/abs/2608.05148v1) | ArXiv |  | 1 |
 | [Reasoning Models Know What's Important, and Encode It in Their Activations](http://arxiv.org/abs/2604.18307v2) | ArXiv |  | 1 |
 | [RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering](http://arxiv.org/abs/2606.19218v1) | ArXiv |  | 1 |
+| [RecurrentGPT: Expressive Depth through Recurrent Modulation in Transformers](http://arxiv.org/abs/2608.15062v2) | ArXiv |  | 1 |
 | [Recursive Agent Harnesses](http://arxiv.org/abs/2606.13643v1) | ArXiv |  | 1 |
 | [Regression Language Models for Code](http://arxiv.org/abs/2509.26476v3) | ArXiv |  | 1 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) | ArXiv |  | 1 |
@@ -249,6 +256,7 @@
 | [Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B](http://arxiv.org/abs/2607.28576v1) | ArXiv |  | 1 |
 | [Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian](http://arxiv.org/abs/2402.18121v2) | ArXiv |  | 1 |
 | [SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions](http://arxiv.org/abs/2607.15272v1) | ArXiv |  | 1 |
+| [SCOPE: Selective Conformal Optimized Pairwise LLM Judging](http://arxiv.org/abs/2602.13110v4) | ArXiv |  | 1 |
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v1) | ArXiv |  | 1 |
 | [Self-Harness: Harnesses That Improve Themselves](http://arxiv.org/abs/2606.09498v2) | ArXiv |  | 1 |
 | [Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens](http://arxiv.org/abs/2604.26355v5) | ArXiv |  | 1 |
@@ -272,17 +280,20 @@
 | [Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language](http://arxiv.org/abs/2605.15607v2) | ArXiv |  | 1 |
 | [Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](http://arxiv.org/abs/2607.24515v2) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
+| [TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature](http://arxiv.org/abs/2605.07507v2) | ArXiv |  | 1 |
 | [TEMPER: Testing Emotional Perturbation in Quantitative Reasoning](http://arxiv.org/abs/2604.07801v2) | ArXiv |  | 1 |
 | [Testing Hypotheses from the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages from Parler](http://arxiv.org/abs/2507.10810v3) | ArXiv |  | 1 |
 | [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](http://arxiv.org/abs/2605.05103v3) | ArXiv |  | 1 |
 | [The Bitter Lesson of Tool Calling](http://arxiv.org/abs/2608.06370v1) | ArXiv |  | 1 |
 | [The Evaluator Is Part of the Experiment: Measuring Open-Ended LLM Conformity](http://arxiv.org/abs/2608.04463v2) | ArXiv |  | 1 |
 | [The Illusion of Cross-Lingual Safety in Low-Resource Languages](http://arxiv.org/abs/2608.11146v1) | ArXiv |  | 1 |
+| [The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning](http://arxiv.org/abs/2608.18011v1) | ArXiv |  | 1 |
 | [The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models](http://arxiv.org/abs/2607.20265v1) | ArXiv |  | 1 |
 | [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](http://arxiv.org/abs/2607.24720v1) | ArXiv |  | 1 |
 | [The Value Axis: Language Models Encode Whether They're on the Right Track](http://arxiv.org/abs/2606.17056v1) | ArXiv |  | 1 |
 | [TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations](http://arxiv.org/abs/2607.15240v1) | ArXiv |  | 1 |
 | [TokenPilot: Cache-Efficient Context Management for LLM Agents](http://arxiv.org/abs/2606.17016v1) | ArXiv |  | 1 |
+| [TokEval: A Tokenizer Evaluation Suite](http://arxiv.org/abs/2608.18062v1) | ArXiv |  | 1 |
 | [TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving](http://arxiv.org/abs/2607.29678v2) | ArXiv |  | 1 |
 | [TokTier: Exact Stateful Tokenization for Agentic LLM Serving](http://arxiv.org/abs/2607.29678v1) | ArXiv |  | 1 |
 | [ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning](http://arxiv.org/abs/2607.16131v1) | ArXiv |  | 1 |
@@ -308,6 +319,7 @@
 | [When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](http://arxiv.org/abs/2601.19827v5) | ArXiv |  | 1 |
 | [When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v4) | ArXiv |  | 1 |
 | [When Roleplaying, Do Models Believe What They Say?](http://arxiv.org/abs/2606.11502v2) | ArXiv |  | 1 |
+| [When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era](http://arxiv.org/abs/2608.17979v1) | ArXiv |  | 1 |
 | [Which Models Perform Better in Inheritance Reasoning?](http://arxiv.org/abs/2606.13751v4) | ArXiv |  | 1 |
 | [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |
 | [WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |

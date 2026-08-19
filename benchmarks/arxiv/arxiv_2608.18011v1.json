@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.18011v1",
+  "schema_version": "1.0",
+  "name": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.18011v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.18011v1",
+    "updated": "2026-08-18T17:00:43Z",
+    "published": "2026-08-18T17:00:43Z",
+    "title": "The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning",
+    "summary": "Reasoning in LLMs is overwhelmingly studied in domains that provide a model with rules: mathematics and code. Linguistic puzzles invert this: the solver must first discover the system before reasoning within it. We present the IOL-AI Challenge, an open-science competition run on the unseen problems of the International Linguistics Olympiad (IOL) 2026 Individual Contest, evaluated both automatically and, for the first time, by members of the official IOL Jury under the same rubrics applied to human contestants. The challenge drew 731 submissions from 46 teams under a strict compute budget (one T4, 30 mins). We additionally benchmark 15 unconstrained frontier and open models, with Claude Opus 4.8 earning a jury score equivalent to a gold medal, while both resource-constrained systems we submitted for jury grading scored in the range of the bottom 5% of contestants. Capability was not determined by scale: 14B submissions outperform models twice their size, and gains come from decoding and output-handling rather than model capacity. We also found that automatic metrics rank systems exactly as the jury does, but compress the scale, upscoring weak systems by ~13 points and understating strong ones. Our analysis shows that while frontier models might have prior knowledge about some of the problem languages, it does not significantly help them solve the linguistic reasoning tasks, leaving linguistic reasoning as a strong benchmarking proxy for generalizable reasoning skills.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T17:00:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.18011v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

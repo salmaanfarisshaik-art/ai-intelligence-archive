@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.15225v3](http://arxiv.org/abs/2503.15225v3)
 
+## aDSL: Agentic 3D Creation via Joint Agent-Program Design
+- **ID**: arxiv_2608.17975v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17975v1](http://arxiv.org/abs/2608.17975v1)
+

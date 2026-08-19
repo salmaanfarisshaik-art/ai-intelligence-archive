@@ -21,6 +21,7 @@
 | [The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems](http://arxiv.org/abs/2607.19292v1) | ArXiv |  | 1 |
 | [The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations](http://arxiv.org/abs/2607.29624v1) | ArXiv |  | 1 |
 | [The Tone of Awareness: Topic, Sentiment, and Toxicity Maps During Mental Health Month on TikTok](http://arxiv.org/abs/2606.13581v1) | ArXiv |  | 1 |
+| [Traceable Trust for action-ready artificial intelligence in bioscience](http://arxiv.org/abs/2608.17997v1) | ArXiv |  | 1 |
 | [Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation](http://arxiv.org/abs/2608.02551v1) | ArXiv |  | 1 |
 | [Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice](http://arxiv.org/abs/2608.14399v1) | ArXiv |  | 1 |
 | [Why we need an AI-resilient society](http://arxiv.org/abs/1912.08786v3) | ArXiv |  | 1 |

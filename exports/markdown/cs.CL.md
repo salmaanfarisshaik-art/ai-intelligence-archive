@@ -180,10 +180,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11650v2](http://arxiv.org/abs/2602.11650v2)
 
+## SCOPE: Selective Conformal Optimized Pairwise LLM Judging
+- **ID**: arxiv_2602.13110v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13110v4](http://arxiv.org/abs/2602.13110v4)
+
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.07025v2](http://arxiv.org/abs/2603.07025v2)
+
+## N-gram-like Language Models Predict Naturalistic Reading Time Best
+- **ID**: arxiv_2603.09872v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.09872v2](http://arxiv.org/abs/2603.09872v2)
 
 ## PlotTwist: A Creative Plot Generation Framework with Small Language Models
 - **ID**: arxiv_2603.16410v2
@@ -315,6 +325,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05103v3](http://arxiv.org/abs/2605.05103v3)
 
+## TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature
+- **ID**: arxiv_2605.07507v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07507v2](http://arxiv.org/abs/2605.07507v2)
+
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
 - **Source**: ArXiv
@@ -334,6 +349,11 @@
 - **ID**: arxiv_2605.22660v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22660v2](http://arxiv.org/abs/2605.22660v2)
+
+## H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer
+- **ID**: arxiv_2605.24930v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.24930v2](http://arxiv.org/abs/2605.24930v2)
 
 ## VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
 - **ID**: arxiv_2605.27882v2
@@ -1545,6 +1565,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14465v1](http://arxiv.org/abs/2608.14465v1)
 
+## RecurrentGPT: Expressive Depth through Recurrent Modulation in Transformers
+- **ID**: arxiv_2608.15062v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15062v2](http://arxiv.org/abs/2608.15062v2)
+
 ## ClawGym II: Exploring Black-Box RL on Agent Harness
 - **ID**: arxiv_2608.16798v1
 - **Source**: ArXiv
@@ -1559,4 +1584,39 @@
 - **ID**: arxiv_2608.16868v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16868v1](http://arxiv.org/abs/2608.16868v1)
+
+## When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era
+- **ID**: arxiv_2608.17979v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17979v1](http://arxiv.org/abs/2608.17979v1)
+
+## Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees
+- **ID**: arxiv_2608.17994v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17994v1](http://arxiv.org/abs/2608.17994v1)
+
+## The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning
+- **ID**: arxiv_2608.18011v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18011v1](http://arxiv.org/abs/2608.18011v1)
+
+## Chain-of-Experience for Continual LLM Improvement
+- **ID**: arxiv_2608.18027v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18027v1](http://arxiv.org/abs/2608.18027v1)
+
+## Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation
+- **ID**: arxiv_2608.18041v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18041v1](http://arxiv.org/abs/2608.18041v1)
+
+## TokEval: A Tokenizer Evaluation Suite
+- **ID**: arxiv_2608.18062v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18062v1](http://arxiv.org/abs/2608.18062v1)
+
+## Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation
+- **ID**: arxiv_2608.18072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18072v1](http://arxiv.org/abs/2608.18072v1)
 

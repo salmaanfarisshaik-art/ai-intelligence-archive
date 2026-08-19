@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.17988v1",
+  "schema_version": "1.0",
+  "name": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.17988v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.17988v1",
+    "updated": "2026-08-18T16:33:49Z",
+    "published": "2026-08-18T16:33:49Z",
+    "title": "GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation",
+    "summary": "Many scalable latent 3D generators operate on structured tensors, whereas pre-optimized 3D Gaussian Splatting (3DGS) reconstructions are unordered, spatially irregular, and vary widely in primitive count. We present GS-Voxel, a fitting-free structured latent framework, and evaluate it for large-scale aerial 3D Gaussian scene generation. GS-Voxel deterministically converts a compatible pre-optimized 3DGS reconstruction into sparse active voxels without additional per-scene optimization, retaining the sub-voxel positions and rendering attributes of the selected primitives. A GS-specific factorized VAE then separately encodes voxel geometry and local Gaussian attributes into sparse 3D latents whose size grows with the number of occupied voxels rather than being limited by a fixed scene-wide primitive count. We train image-conditioned flow models in the GS-Voxel latent space to generate aerial 3DGS scenes. A key application enabled by GS-Voxel is large-area scene generation: overlap-aware tiled inference extends synthesis beyond a single training crop conditioned on satellite-view images. Our results show that GS-Voxel provides structured latents for pre-optimized aerial 3DGS reconstructions, with latent capacity that grows with the number of occupied voxels.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T16:33:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.17988v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

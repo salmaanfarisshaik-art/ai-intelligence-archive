@@ -55,6 +55,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.12532v3](http://arxiv.org/abs/2505.12532v3)
 
+## CoSeP: Complementary Separability Pruning via Class-Separability Clustering
+- **ID**: arxiv_2505.13225v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.13225v3](http://arxiv.org/abs/2505.13225v3)
+
 ## Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)
 - **ID**: arxiv_2505.16882v3
 - **Source**: ArXiv
@@ -174,6 +179,11 @@
 - **ID**: arxiv_2510.07546v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.07546v2](http://arxiv.org/abs/2510.07546v2)
+
+## Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review
+- **ID**: arxiv_2510.14462v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.14462v3](http://arxiv.org/abs/2510.14462v3)
 
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
 - **ID**: arxiv_2510.16598v2
@@ -364,6 +374,11 @@
 - **ID**: arxiv_2603.26763v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.26763v3](http://arxiv.org/abs/2603.26763v3)
+
+## Low-Dose CT for Stroke Diagnosis: A Dual-Pipeline Deep Learning Framework for Portable Neuroimaging
+- **ID**: arxiv_2603.26764v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.26764v2](http://arxiv.org/abs/2603.26764v2)
 
 ## Hierarchical Pre-Training of Vision Encoders with Large Language Model
 - **ID**: arxiv_2604.00086v2
@@ -2500,6 +2515,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13546v1](http://arxiv.org/abs/2608.13546v1)
 
+## Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+- **ID**: arxiv_2608.13546v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13546v2](http://arxiv.org/abs/2608.13546v2)
+
 ## PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
 - **ID**: arxiv_2608.13552v1
 - **Source**: ArXiv
@@ -2629,4 +2649,64 @@
 - **ID**: arxiv_2608.16887v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16887v1](http://arxiv.org/abs/2608.16887v1)
+
+## SFMformer: A Spatial-Frequency Modulation Transformer for Lightweight Image Super-Resolution
+- **ID**: arxiv_2608.17966v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17966v1](http://arxiv.org/abs/2608.17966v1)
+
+## LinCa: Accelerating Diffusion Models via Learnable Decomposed Feature Caching
+- **ID**: arxiv_2608.17973v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17973v1](http://arxiv.org/abs/2608.17973v1)
+
+## Dual Co-Train: Cross-Dataset Ultrasound Tongue Segmentation Under Extreme Data Scarcity
+- **ID**: arxiv_2608.17983v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17983v1](http://arxiv.org/abs/2608.17983v1)
+
+## GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation
+- **ID**: arxiv_2608.17988v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17988v1](http://arxiv.org/abs/2608.17988v1)
+
+## AViTS: Adaptive Spatiotemporal Token Selection for Efficient Dynamic-Resolution Generation
+- **ID**: arxiv_2608.17995v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17995v1](http://arxiv.org/abs/2608.17995v1)
+
+## Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering
+- **ID**: arxiv_2608.18009v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18009v1](http://arxiv.org/abs/2608.18009v1)
+
+## Automated ACL Footprint Identification Using 3D Deep Learning
+- **ID**: arxiv_2608.18012v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18012v1](http://arxiv.org/abs/2608.18012v1)
+
+## Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study
+- **ID**: arxiv_2608.18028v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18028v1](http://arxiv.org/abs/2608.18028v1)
+
+## Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation
+- **ID**: arxiv_2608.18034v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18034v1](http://arxiv.org/abs/2608.18034v1)
+
+## Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving
+- **ID**: arxiv_2608.18035v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18035v1](http://arxiv.org/abs/2608.18035v1)
+
+## EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing
+- **ID**: arxiv_2608.18063v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18063v1](http://arxiv.org/abs/2608.18063v1)
+
+## From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation
+- **ID**: arxiv_2608.18076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18076v1](http://arxiv.org/abs/2608.18076v1)
 

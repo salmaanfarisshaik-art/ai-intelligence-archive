@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.01372v2",
+  "schema_version": "1.0",
+  "name": "BRo-JEPA: Learning Modular Transformations in Latent Space",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.01372v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.01372v2",
+    "updated": "2026-08-18T16:15:35Z",
+    "published": "2026-05-31T18:01:43Z",
+    "title": "BRo-JEPA: Learning Modular Transformations in Latent Space",
+    "summary": "Can neural networks learn algebraic rules from visual inputs, or do they merely fit observed patterns? We study this question using MNIST (or EMNIST letters) as states and modular arithmetic operations as actions in a JEPA-style world model. Standard supervised and JEPA baselines with operation embeddings achieve high accuracy on seen operations but fail to extrapolate reliably to unseen operations. We propose BRo-JEPA, a world model with a block-rotation predictor that represents arithmetic operations as rotations, resulting in the cyclic structure of modular arithmetic in latent space. By applying actions as rotations, the BRo-JEPA predictor learns the rotation angles to align the latent representations with the underlying modular structure which enables strict zero-shot operation generalization. While our best block-rotation supervised baseline reaches only 54.54% zero-shot accuracy on MNIST and 25.13% on EMNIST, BRo-JEPA with a ResNet-18 encoder achieves 99.44% and 94.35% respectively, despite being trained only on the primitive operations $\\pm$1. Our results suggest that world models can learn algebraic rules when the latent transformations encode the underlying modular structure. Code is available \\href{https://github.com/DL-World-Models/brojepa}{here}.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T16:15:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.01372v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

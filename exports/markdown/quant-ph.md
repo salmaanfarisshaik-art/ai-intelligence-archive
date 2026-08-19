@@ -35,3 +35,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05110v1](http://arxiv.org/abs/2608.05110v1)
 
+## A 12-CNOT Double Qubit Excitation Gate
+- **ID**: arxiv_2608.11733v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11733v2](http://arxiv.org/abs/2608.11733v2)
+

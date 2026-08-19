@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20520v1](http://arxiv.org/abs/2606.20520v1)
 
+## Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map
+- **ID**: arxiv_2607.01854v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01854v2](http://arxiv.org/abs/2607.01854v2)
+
 ## BioSecBench-Refusal: A paired metric for performance and alignment in agentic biosecurity risk assessment
 - **ID**: arxiv_2607.05462v2
 - **Source**: ArXiv

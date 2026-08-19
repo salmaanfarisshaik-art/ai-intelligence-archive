@@ -56,6 +56,7 @@
 | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](http://arxiv.org/abs/2606.14654v1) | ArXiv |  | 1 |
 | [Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension](http://arxiv.org/abs/2608.13447v1) | ArXiv |  | 1 |
 | [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](http://arxiv.org/abs/2607.19363v2) | ArXiv |  | 1 |
+| [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v2) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
 | [Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](http://arxiv.org/abs/2607.22917v2) | ArXiv |  | 1 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](http://arxiv.org/abs/2606.13608v1) | ArXiv |  | 1 |
@@ -94,6 +95,7 @@
 | [Blast Radius](http://arxiv.org/abs/2608.07440v2) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | ArXiv |  | 1 |
+| [Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](http://arxiv.org/abs/2608.18017v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems](http://arxiv.org/abs/2608.09848v1) | ArXiv |  | 1 |
@@ -117,6 +119,7 @@
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
 | [Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](http://arxiv.org/abs/2608.12385v2) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
+| [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
 | [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
@@ -159,6 +162,7 @@
 | [Harmonizing AI Safety Thresholds](http://arxiv.org/abs/2607.16112v1) | ArXiv |  | 1 |
 | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](http://arxiv.org/abs/2608.06301v1) | ArXiv |  | 1 |
 | [Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite](http://arxiv.org/abs/2608.05095v1) | ArXiv |  | 1 |
+| [HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance](http://arxiv.org/abs/2608.18056v1) | ArXiv |  | 1 |
 | [Homebot: A Personal AI Agent for Conversational Home Assistance and Automation](http://arxiv.org/abs/2608.02254v2) | ArXiv |  | 1 |
 | [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | ArXiv |  | 1 |
 | [Improving Generalization Robustness of Multimodal RLVR](http://arxiv.org/abs/2608.08802v2) | ArXiv |  | 1 |
@@ -208,6 +212,7 @@
 | [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | ArXiv |  | 1 |
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
+| [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1) | ArXiv |  | 1 |
 | [On The Statistical Limits of Self-Improving Agents](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) | ArXiv |  | 1 |
@@ -216,6 +221,7 @@
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
 | [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](http://arxiv.org/abs/2608.14441v1) | ArXiv |  | 1 |
+| [Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference](http://arxiv.org/abs/2606.07897v2) | ArXiv |  | 1 |
 | [Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers](http://arxiv.org/abs/2608.14522v1) | ArXiv |  | 1 |
 | [Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork](http://arxiv.org/abs/2607.27177v1) | ArXiv |  | 1 |
 | [Penelope: Localized Latent Recurrence for Efficient Structured Reasoning](http://arxiv.org/abs/2607.25915v1) | ArXiv |  | 1 |
@@ -261,6 +267,7 @@
 | [SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v3) | ArXiv |  | 1 |
 | [SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data](http://arxiv.org/abs/2607.20402v1) | ArXiv |  | 1 |
 | [Split the Labor: Separating Evidence Interpretation from Decision Aggregation](http://arxiv.org/abs/2608.14509v1) | ArXiv |  | 1 |
+| [StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](http://arxiv.org/abs/2608.18050v1) | ArXiv |  | 1 |
 | [Statistical Early Stopping for Reasoning Models](http://arxiv.org/abs/2602.13935v3) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v1) | ArXiv |  | 1 |

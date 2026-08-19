@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.07507v2",
+  "schema_version": "1.0",
+  "name": "TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.07507v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.07507v2",
+    "updated": "2026-08-18T16:36:39Z",
+    "published": "2026-05-08T09:40:13Z",
+    "title": "TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature",
+    "summary": "The rapid growth of academic publications has created a need for tools that extract structured knowledge from unstructured scientific texts. Although large language models (LLMs) can perform natural language understanding and information extraction, existing solutions often require specialized infrastructure, programming expertise, or fine-tuned domain-specific models, which limits their accessibility for researchers in specialized fields. This paper describes TCMIIES (Traditional Chinese Medicine Information Intelligent Extraction System), a browser-based, zero-installation platform that uses commercial LLM APIs to perform structured information extraction from academic literature. The system employs a schema-guided prompting framework with automatic system prompt generation, allowing researchers to define custom extraction schemas through a graphical interface without programming. TCMIIES features a pure front-end architecture that processes all information locally in the browser, supports five major LLM providers (DeepSeek, OpenAI, Qwen, Zhipu AI, and custom OpenAI-compatible endpoints), implements concurrent batch processing with automatic retry mechanisms, and provides intelligent field mapping for Chinese academic databases including CNKI and Wanfang. Evaluation across multiple extraction scenarios in Traditional Chinese Medicine research shows structured output compliance rates exceeding 94\\% and extraction accuracy approaching but below expert-level agreement ($κ=0.82$ as reference). The system offers a flexible, privacy-preserving, and cost-effective solution for domain researchers who need to process literature at scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-19T02:55:31Z",
+  "last_updated": "2026-08-18T16:36:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.07507v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
