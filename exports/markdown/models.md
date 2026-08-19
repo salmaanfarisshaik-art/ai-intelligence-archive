@@ -1216,6 +1216,10 @@
 - **ID**: model_emhltbkars_xxx
 - **Source**: 
 
+## empero-ai/Qwen3.8-9B-Distill-GGUF
+- **ID**: model_empero_ai_qwen3_8_9b_distill_gguf
+- **Source**: 
+
 ## empero-ai/Qwen3.8-9B-GGUF
 - **ID**: model_empero_ai_qwen3_8_9b_gguf
 - **Source**: 
