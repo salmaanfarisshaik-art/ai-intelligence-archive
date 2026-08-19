@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bc2ec70daa6ea0c6490c8456f456a3bac95f61a6",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSHADOW-O OLMo-2 top-16 logits\n\t\n\nSparse next-token teacher logits for training the 252.8M SHADOW-O student.\n\nTeacher: allenai/OLMo-2-0425-1B\nToken ID space: AI2 Dolma/OLMo, first 100,278 IDs\nContext length: 2,048\nStored per token: input uint32, top-16 IDs uint32, top-16 logits float16\nPlanned size: 20B tokens, approximately 2.0 TB\nCapture code: 10_distill/capture_logits.py in the SHADOW-O workspace\n\nEach logical shard contains three files with the same base name:\n\n*.tok.npy: input… See the full description on the dataset page: https://huggingface.co/datasets/NODEMIND/shadow-o-logits-20b.",
-  "downloads": 36393,
+  "downloads": 53145,
   "tags": [
     "task_categories:text-generation",
     "language:en",

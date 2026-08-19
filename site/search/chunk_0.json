@@ -863,6 +863,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_neoteaiembodied_openneodata",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nvidia_sage_10k",
       "match_type": "exact",
       "score": 1.0
@@ -6508,6 +6513,13 @@
       "score": 1.0
     }
   ],
+  "06028": [
+    {
+      "entity_id": "dataset_wliafe_recon1m",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "06036": [
     {
       "entity_id": "model_z_lab_llama3_1_8b_instruct_dflash_ultrachat",
@@ -9579,6 +9591,16 @@
     },
     {
       "entity_id": "dataset_physinonep06_physinonep06",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_physinonep08_physinonep08",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_physinonep09_physinonep09",
       "match_type": "exact",
       "score": 1.5
     },

@@ -985,6 +985,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_coherelabs_global_mmlu_lite
+- **Source**: 
+
+## 
 - **ID**: dataset_coherelabs_xp3x
 - **Source**: 
 
@@ -3473,6 +3477,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jinzhuoran_rwku
+- **Source**: 
+
+## 
 - **ID**: dataset_jitendra55566_my_storage
 - **Source**: 
 
@@ -5509,6 +5517,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_shapesplats_aria_synthetic_envs_mcmc_3dgs_new
+- **Source**: 
+
+## 
 - **ID**: dataset_sharegpt4video_sharegpt4video
 - **Source**: 
 
@@ -6334,6 +6346,10 @@
 
 ## 
 - **ID**: dataset_xlangai_osworld_v2_file_cache
+- **Source**: 
+
+## 
+- **ID**: dataset_xlangai_recommendation
 - **Source**: 
 
 ## 

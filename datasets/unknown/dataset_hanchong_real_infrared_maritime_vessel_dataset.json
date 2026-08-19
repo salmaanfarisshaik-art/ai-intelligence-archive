@@ -9,7 +9,7 @@
   "private": false,
   "sha": "64a6646a91553fbba542b42f5c9f8a918208854b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tReal Infrared Maritime Vessel Dataset\n\t\n\nReal infrared imagery of maritime vessels.\nThe dataset is provided in three forms — full-frame detection images, per-object classification crops, and a hand-curated subset.\nClasses (7): liner, bulk carrier, warship, sailboat, canoe, container ship, fishing boat.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\nreal-infrared-maritime-vessel-dataset/\n├── original/          Full-frame IR images + XML bounding-box labels (detection)\n│   ├── images/{train,test}/*.jpg… See the full description on the dataset page: https://huggingface.co/datasets/hanchong/real-infrared-maritime-vessel-dataset.",
-  "downloads": 29542,
+  "downloads": 29464,
   "tags": [
     "task_categories:image-classification",
     "task_categories:object-detection",
