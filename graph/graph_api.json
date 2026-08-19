@@ -9206,7 +9206,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-19T08:35:10.675620+00:00",
+  "generated_at": "2026-08-19T09:32:21.721335+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -133792,6 +133792,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
+      "label": "deepseek-ai/DeepSeek-V4-Flash-0731"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_deepseek-ai_DeepSeek-V4-Pro",
       "label": "deepseek-ai/DeepSeek-V4-Pro"
     },
@@ -134309,6 +134314,11 @@
       "category": "dataset",
       "id": "hf_ds_68822a776cf08537cb6be0af",
       "label": "InternRobotics/InternData-A1"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_68a5ee2849792b1224356f09",
+      "label": "yyyzzzzyyy/envss"
     },
     {
       "category": "dataset",
@@ -146839,6 +146849,11 @@
       "category": "models",
       "id": "model_prefeitura_rio_rio_3_0_open_mini",
       "label": "prefeitura-rio/Rio-3.0-Open-Mini"
+    },
+    {
+      "category": "models",
+      "id": "model_primeintellect_qwen3_0_6b",
+      "label": "PrimeIntellect/Qwen3-0.6B"
     },
     {
       "category": "models",
@@ -446518,5 +446533,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1841,
-  "total_nodes": 87461
+  "total_nodes": 87464
 }

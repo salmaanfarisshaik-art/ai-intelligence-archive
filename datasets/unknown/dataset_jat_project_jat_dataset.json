@@ -9,7 +9,7 @@
   "private": false,
   "sha": "921defdd6f8ae5271f2d4925150c48dba0cb3199",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tJAT Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThe Jack of All Trades (JAT) dataset combines a wide range of individual datasets. It includes expert demonstrations by expert RL agents, image and caption pairs, textual data and more. The JAT dataset is part of the JAT project, which aims to build a multimodal generalist agent.\nPaper: https://huggingface.co/papers/2402.09844\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\n>>> from datasets import load_dataset\n>>> dataset =… See the full description on the dataset page: https://huggingface.co/datasets/jat-project/jat-dataset.",
-  "downloads": 332865,
+  "downloads": 330394,
   "tags": [
     "task_categories:reinforcement-learning",
     "task_categories:text-generation",

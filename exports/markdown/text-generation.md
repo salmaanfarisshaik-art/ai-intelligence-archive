@@ -2495,6 +2495,12 @@
 - **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash)
 - **Tags**: 8-bit, arxiv:2606.19348, conversational, deepseek_v4, deploy:azure, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
 
+## deepseek-ai/DeepSeek-V4-Flash-0731
+- **ID**: hf_deepseek-ai_DeepSeek-V4-Flash-0731
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731)
+- **Tags**: 8-bit, arxiv:2606.19348, conversational, deepseek_v4, deploy:azure, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
+
 ## deepseek-ai/DeepSeek-V4-Pro
 - **ID**: hf_deepseek-ai_DeepSeek-V4-Pro
 - **Source**: Hugging Face

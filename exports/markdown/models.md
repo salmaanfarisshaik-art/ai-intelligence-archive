@@ -3748,6 +3748,10 @@
 - **ID**: model_prefeitura_rio_rio_3_0_open_mini
 - **Source**: 
 
+## PrimeIntellect/Qwen3-0.6B
+- **ID**: model_primeintellect_qwen3_0_6b
+- **Source**: 
+
 ## prism-ml/Bonsai-1.7B-gguf
 - **ID**: model_prism_ml_bonsai_1_7b_gguf
 - **Source**: 
