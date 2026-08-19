@@ -4751,6 +4751,11 @@
 - **URL**: [https://openai.com/index/reinforcement-learning-with-prediction-based-rewards](https://openai.com/index/reinforcement-learning-with-prediction-based-rewards)
 
 ## 
+- **ID**: rss_https://openai.com/index/replit
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/replit](https://openai.com/index/replit)
+
+## 
 - **ID**: rss_https://openai.com/index/report-from-the-self-organizing-conference
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/report-from-the-self-organizing-conference](https://openai.com/index/report-from-the-self-organizing-conference)
