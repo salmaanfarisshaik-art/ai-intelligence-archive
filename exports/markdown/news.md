@@ -1031,6 +1031,11 @@
 - **URL**: [https://openai.com/index/chatgpt](https://openai.com/index/chatgpt)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-ads-expands-across-europe
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-ads-expands-across-europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-agent-system-card
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-agent-system-card](https://openai.com/index/chatgpt-agent-system-card)
