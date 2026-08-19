@@ -4486,6 +4486,11 @@
 - **URL**: [https://openai.com/index/our-commitment-to-community-safety](https://openai.com/index/our-commitment-to-community-safety)
 
 ## 
+- **ID**: rss_https://openai.com/index/our-commitment-to-zero-data-retention
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/our-commitment-to-zero-data-retention](https://openai.com/index/our-commitment-to-zero-data-retention)
+
+## 
 - **ID**: rss_https://openai.com/index/our-principles
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/our-principles](https://openai.com/index/our-principles)

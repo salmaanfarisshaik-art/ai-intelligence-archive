@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 79
+**Total Changes:** 80
 
 ## Added
-None
+- prompts/openai-blog/rss_https___openai.com_index_our-commitment-to-zero-data-retention.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,17 +16,19 @@ None
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
+- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - exports/csv/all_entities.csv
-- exports/csv/models.csv
+- exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/models.json
-- exports/markdown/models.md
+- exports/json/news.json
+- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -60,7 +62,6 @@ None
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
@@ -82,7 +83,6 @@ None
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
