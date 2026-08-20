@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T09:32:54.089559+00:00",
+  "generated_at": "2026-08-20T10:28:17.834123+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -114015,6 +114015,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_allenai_olmocr_bench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_allenai_openbookqa",
       "label": ""
     },
@@ -114031,6 +114036,11 @@
     {
       "category": "datasets",
       "id": "dataset_allenai_reward_bench_results",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_allenai_s2_naip",
       "label": ""
     },
     {
@@ -114470,6 +114480,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_baber_paul_graham_essays",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_baber_piqa",
       "label": ""
     },
@@ -114786,6 +114801,11 @@
     {
       "category": "datasets",
       "id": "dataset_ceval_ceval_exam",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_challenge_2026_challenge_data",
       "label": ""
     },
     {
@@ -115621,6 +115641,11 @@
     {
       "category": "datasets",
       "id": "dataset_fsicoli_common_voice_22_0",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_fsoft_aic_robotdesign1m",
       "label": ""
     },
     {
@@ -117730,6 +117755,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_ifm_txt360",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_iimmortall_s2r_hdr",
       "label": ""
     },
@@ -118350,6 +118380,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_legacy_datasets_common_voice",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_legacy_datasets_wikipedia",
       "label": ""
     },
@@ -118726,6 +118761,11 @@
     {
       "category": "datasets",
       "id": "dataset_mabo7237_license_plates_700k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_macabdul9_hle_text_only",
       "label": ""
     },
     {
@@ -120040,6 +120080,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_physinonep07_physinonep07",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_physinonep08_physinonep08",
       "label": ""
     },
@@ -121110,6 +121155,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_teetone_roboreward",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_tempofunk_tempofunk_sdance",
       "label": ""
     },
@@ -121241,6 +121291,11 @@
     {
       "category": "datasets",
       "id": "dataset_tiiuae_falcon_refinedweb",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_timaeus_rl_lm_imdb_prompts",
       "label": ""
     },
     {
@@ -121611,6 +121666,11 @@
     {
       "category": "datasets",
       "id": "dataset_worldbenchmark_intuitivephysics",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_worldengineai_web_dataset",
       "label": ""
     },
     {
@@ -134555,6 +134615,11 @@
     },
     {
       "category": "models",
+      "id": "model_deepseek_ai_deepseek_v4_pro_0813",
+      "label": "deepseek-ai/DeepSeek-V4-Pro-0813"
+    },
+    {
+      "category": "models",
       "id": "model_deepseek_ai_deepseek_v4_pro_dspark",
       "label": "deepseek-ai/DeepSeek-V4-Pro-DSpark"
     },
@@ -136650,6 +136715,11 @@
     },
     {
       "category": "models",
+      "id": "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic",
+      "label": "mconcat/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-FP8-Dynamic"
+    },
+    {
+      "category": "models",
       "id": "model_meituan_longcat_longcat_flash_chat",
       "label": "meituan-longcat/LongCat-Flash-Chat"
     },
@@ -137862,6 +137932,16 @@
       "category": "models",
       "id": "model_ornith_ai_ornith_1_0_9b_gguf",
       "label": "ornith-ai/Ornith-1.0-9B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_gguf",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b_gguf",
+      "label": "ornith-ai/Ornith-1.5-9B-GGUF"
     },
     {
       "category": "models",
@@ -140382,6 +140462,11 @@
       "category": "models",
       "id": "model_upstage_solar_10_7b_instruct_v1_0",
       "label": "upstage/SOLAR-10.7B-Instruct-v1.0"
+    },
+    {
+      "category": "models",
+      "id": "model_upstage_solar_open2_250b",
+      "label": "upstage/Solar-Open2-250B"
     },
     {
       "category": "models",
@@ -437685,5 +437770,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87536
+  "total_nodes": 87553
 }

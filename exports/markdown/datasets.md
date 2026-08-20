@@ -237,6 +237,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_olmocr_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_openbookqa
 - **Source**: 
 
@@ -250,6 +254,10 @@
 
 ## 
 - **ID**: dataset_allenai_reward_bench_results
+- **Source**: 
+
+## 
+- **ID**: dataset_allenai_s2_naip
 - **Source**: 
 
 ## 
@@ -601,6 +609,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_baber_paul_graham_essays
+- **Source**: 
+
+## 
 - **ID**: dataset_baber_piqa
 - **Source**: 
 
@@ -854,6 +866,10 @@
 
 ## 
 - **ID**: dataset_ceval_ceval_exam
+- **Source**: 
+
+## 
+- **ID**: dataset_challenge_2026_challenge_data
 - **Source**: 
 
 ## 
@@ -1522,6 +1538,10 @@
 
 ## 
 - **ID**: dataset_fsicoli_common_voice_22_0
+- **Source**: 
+
+## 
+- **ID**: dataset_fsoft_aic_robotdesign1m
 - **Source**: 
 
 ## 
@@ -3209,6 +3229,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ifm_txt360
+- **Source**: 
+
+## 
 - **ID**: dataset_iimmortall_s2r_hdr
 - **Source**: 
 
@@ -3705,6 +3729,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_legacy_datasets_common_voice
+- **Source**: 
+
+## 
 - **ID**: dataset_legacy_datasets_wikipedia
 - **Source**: 
 
@@ -4006,6 +4034,10 @@
 
 ## 
 - **ID**: dataset_mabo7237_license_plates_700k
+- **Source**: 
+
+## 
+- **ID**: dataset_macabdul9_hle_text_only
 - **Source**: 
 
 ## 
@@ -5057,6 +5089,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_physinonep07_physinonep07
+- **Source**: 
+
+## 
 - **ID**: dataset_physinonep08_physinonep08
 - **Source**: 
 
@@ -5913,6 +5949,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_teetone_roboreward
+- **Source**: 
+
+## 
 - **ID**: dataset_tempofunk_tempofunk_sdance
 - **Source**: 
 
@@ -6018,6 +6058,10 @@
 
 ## 
 - **ID**: dataset_tiiuae_falcon_refinedweb
+- **Source**: 
+
+## 
+- **ID**: dataset_timaeus_rl_lm_imdb_prompts
 - **Source**: 
 
 ## 
@@ -6314,6 +6358,10 @@
 
 ## 
 - **ID**: dataset_worldbenchmark_intuitivephysics
+- **Source**: 
+
+## 
+- **ID**: dataset_worldengineai_web_dataset
 - **Source**: 
 
 ## 

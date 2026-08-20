@@ -1024,6 +1024,10 @@
 - **ID**: model_deepseek_ai_deepseek_v4_pro
 - **Source**: 
 
+## deepseek-ai/DeepSeek-V4-Pro-0813
+- **ID**: model_deepseek_ai_deepseek_v4_pro_0813
+- **Source**: 
+
 ## deepseek-ai/DeepSeek-V4-Pro-DSpark
 - **ID**: model_deepseek_ai_deepseek_v4_pro_dspark
 - **Source**: 
@@ -2700,6 +2704,10 @@
 - **ID**: model_maziyarpanahi_yi_coder_9b_chat_gguf
 - **Source**: 
 
+## mconcat/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-FP8-Dynamic
+- **ID**: model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic
+- **Source**: 
+
 ## meituan-longcat/LongCat-Flash-Chat
 - **ID**: model_meituan_longcat_longcat_flash_chat
 - **Source**: 
@@ -3670,6 +3678,14 @@
 
 ## ornith-ai/Ornith-1.0-9B-GGUF
 - **ID**: model_ornith_ai_ornith_1_0_9b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-35B-A3B-GGUF
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B-GGUF
+- **ID**: model_ornith_ai_ornith_1_5_9b_gguf
 - **Source**: 
 
 ## owao/Nanbeige4.2-3B-GGUF
@@ -5686,6 +5702,10 @@
 
 ## upstage/SOLAR-10.7B-Instruct-v1.0
 - **ID**: model_upstage_solar_10_7b_instruct_v1_0
+- **Source**: 
+
+## upstage/Solar-Open2-250B
+- **ID**: model_upstage_solar_open2_250b
 - **Source**: 
 
 ## upstage/solar-pro-preview-instruct
