@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.19165v1",
+  "schema_version": "1.0",
+  "name": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.19165v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.19165v1",
+    "updated": "2026-08-19T17:44:58Z",
+    "published": "2026-08-19T17:44:58Z",
+    "title": "ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos",
+    "summary": "ChildSafeAds is a shared task on commercial content in YouTube videos likely to reach children and teenagers. It contains 3,360 videos from 939 channels. Each instance begins with a segment submitted to SponsorBlock, an open-source crowdsourced browser extension whose users mark sponsor segments so that others can skip them. We pair the segment with its available transcript, video and channel information, and a sales or service page linked from the video description. Systems determine what kind of offer is being promoted (ST1), assign product categories (ST2), and identify legal risk flags (ST3). The evidence is divided into four cumulative access levels, from the transcript to the linked page, so results can be compared against the cost of collecting the data. 45.5\\% of videos in our data failed to properly use the in-platform ad disclosure method (the ``Includes paid promotion'' label). GPT-5.4 produced the labels after the expert organiser team reviewed samples and iterated on the taxonomy, prompts and model choices. GPT-5.6-luna independently labelled the development set. This report describes the task, data and evaluation. An updated version will add participating systems and shared-task results.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T17:44:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.19165v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

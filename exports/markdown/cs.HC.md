@@ -60,8 +60,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.28650v2](http://arxiv.org/abs/2607.28650v2)
 
+## Epistemic Transfer in AI-Assisted Verification: A Framework and Evaluation Protocol
+- **ID**: arxiv_2608.08882v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08882v3](http://arxiv.org/abs/2608.08882v3)
+
 ## From Style Replication to Style Exploration: Enabling Art Style Exploration with Analyze-Experiment-Resituate Framework
 - **ID**: arxiv_2608.14405v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14405v1](http://arxiv.org/abs/2608.14405v1)
+
+## When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation
+- **ID**: arxiv_2608.19083v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19083v1](http://arxiv.org/abs/2608.19083v1)
 

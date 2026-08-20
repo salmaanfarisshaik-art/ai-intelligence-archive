@@ -60,6 +60,7 @@
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
 | [An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis](http://arxiv.org/abs/2608.07439v1) | ArXiv |  | 1 |
 | [An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data](http://arxiv.org/abs/2503.07303v3) | ArXiv |  | 1 |
+| [An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection](http://arxiv.org/abs/2605.02259v2) | ArXiv |  | 1 |
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v2) | ArXiv |  | 1 |
@@ -87,9 +88,11 @@
 | [Characterizing Cultural Localization in AI-Generated Stories](http://arxiv.org/abs/2606.14626v1) | ArXiv |  | 1 |
 | [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](http://arxiv.org/abs/2606.31796v2) | ArXiv |  | 1 |
 | [ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](http://arxiv.org/abs/2601.16217v2) | ArXiv |  | 1 |
+| [ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos](http://arxiv.org/abs/2608.19165v1) | ArXiv |  | 1 |
 | [ClawBench: Can AI Agents Complete Everyday Online Tasks?](http://arxiv.org/abs/2604.08523v2) | ArXiv |  | 1 |
 | [ClawGym II: Exploring Black-Box RL on Agent Harness](http://arxiv.org/abs/2608.16798v1) | ArXiv |  | 1 |
 | [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) | ArXiv |  | 1 |
+| [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) | ArXiv |  | 1 |
 | [Consilience for Verifier-Free Test-Time Scaling](http://arxiv.org/abs/2608.09898v1) | ArXiv |  | 1 |
 | [Context-Aware RL for Agentic and Multimodal LLMs](http://arxiv.org/abs/2606.17053v1) | ArXiv |  | 1 |
 | [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) | ArXiv |  | 1 |
@@ -267,6 +270,7 @@
 | [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1) | ArXiv |  | 1 |
 | [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v2) | ArXiv |  | 1 |
 | [Sound Probabilistic Safety Bounds for Large Language Models](http://arxiv.org/abs/2607.20286v1) | ArXiv |  | 1 |
+| [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1) | ArXiv |  | 1 |
 | [Speculative Decoding and the Curse of Multilinguality](http://arxiv.org/abs/2605.30580v2) | ArXiv |  | 1 |
 | [Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](http://arxiv.org/abs/2608.05126v1) | ArXiv |  | 1 |
 | [StoryScope: Investigating idiosyncrasies in AI fiction](http://arxiv.org/abs/2604.03136v5) | ArXiv |  | 1 |
@@ -280,6 +284,7 @@
 | [Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language](http://arxiv.org/abs/2605.15607v2) | ArXiv |  | 1 |
 | [Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](http://arxiv.org/abs/2607.24515v2) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
+| [Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering](http://arxiv.org/abs/2605.05962v2) | ArXiv |  | 1 |
 | [TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature](http://arxiv.org/abs/2605.07507v2) | ArXiv |  | 1 |
 | [TEMPER: Testing Emotional Perturbation in Quantitative Reasoning](http://arxiv.org/abs/2604.07801v2) | ArXiv |  | 1 |
 | [Testing Hypotheses from the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages from Parler](http://arxiv.org/abs/2507.10810v3) | ArXiv |  | 1 |
@@ -319,6 +324,7 @@
 | [When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](http://arxiv.org/abs/2601.19827v5) | ArXiv |  | 1 |
 | [When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v4) | ArXiv |  | 1 |
 | [When Roleplaying, Do Models Believe What They Say?](http://arxiv.org/abs/2606.11502v2) | ArXiv |  | 1 |
+| [When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't](http://arxiv.org/abs/2604.06422v2) | ArXiv |  | 1 |
 | [When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era](http://arxiv.org/abs/2608.17979v1) | ArXiv |  | 1 |
 | [Which Models Perform Better in Inheritance Reasoning?](http://arxiv.org/abs/2606.13751v4) | ArXiv |  | 1 |
 | [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |

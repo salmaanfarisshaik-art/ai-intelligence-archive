@@ -87,6 +87,7 @@
 | [Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](http://arxiv.org/abs/2607.15715v2) | ArXiv |  | 1 |
 | [Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](http://arxiv.org/abs/2606.13621v1) | ArXiv |  | 1 |
 | [Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning](http://arxiv.org/abs/2607.21558v1) | ArXiv |  | 1 |
+| [Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication](http://arxiv.org/abs/2608.19161v1) | ArXiv |  | 1 |
 | [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](http://arxiv.org/abs/2608.06305v1) | ArXiv |  | 1 |
 | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](http://arxiv.org/abs/2608.06300v1) | ArXiv |  | 1 |
 | [BioPro: Towards Difference-Aware Gender Fairness for Vision-Language Models](http://arxiv.org/abs/2512.00807v2) | ArXiv |  | 1 |
@@ -100,6 +101,7 @@
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems](http://arxiv.org/abs/2608.09848v1) | ArXiv |  | 1 |
 | [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v6) | ArXiv |  | 1 |
+| [ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks](http://arxiv.org/abs/2606.21654v2) | ArXiv |  | 1 |
 | [Challenges in Evaluating Explanation Methods for Static and Evolving Data](http://arxiv.org/abs/2608.06351v1) | ArXiv |  | 1 |
 | [CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](http://arxiv.org/abs/2607.26023v1) | ArXiv |  | 1 |
 | [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](http://arxiv.org/abs/2608.02502v1) | ArXiv |  | 1 |
@@ -107,6 +109,7 @@
 | [CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents](http://arxiv.org/abs/2607.19338v1) | ArXiv |  | 1 |
 | [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](http://arxiv.org/abs/2606.29495v2) | ArXiv |  | 1 |
 | [Concept-Guided Spatial Regularization for World Models in Atari Pong](http://arxiv.org/abs/2607.15142v2) | ArXiv |  | 1 |
+| [Conformal Policy Control](http://arxiv.org/abs/2603.02196v4) | ArXiv |  | 1 |
 | [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](http://arxiv.org/abs/2606.16987v1) | ArXiv |  | 1 |
 | [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1) | ArXiv |  | 1 |
 | [Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions](http://arxiv.org/abs/2606.20459v1) | ArXiv |  | 1 |
@@ -157,6 +160,8 @@
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](http://arxiv.org/abs/2606.16914v1) | ArXiv |  | 1 |
 | [GRIP: Grounded Reasoning via Information-Restricted Premises](http://arxiv.org/abs/2608.16776v1) | ArXiv |  | 1 |
+| [GRIP: Grounded Reasoning via Information-Restricted Premises](http://arxiv.org/abs/2608.16776v2) | ArXiv |  | 1 |
+| [Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems](http://arxiv.org/abs/2608.19140v1) | ArXiv |  | 1 |
 | [Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching](http://arxiv.org/abs/2605.29055v2) | ArXiv |  | 1 |
 | [Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1) | ArXiv |  | 1 |
 | [Harmonizing AI Safety Thresholds](http://arxiv.org/abs/2607.16112v1) | ArXiv |  | 1 |
@@ -176,6 +181,7 @@
 | [Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification](http://arxiv.org/abs/2607.25904v1) | ArXiv |  | 1 |
 | [Internal Pluralism and the Limits of Pairwise Comparisons](http://arxiv.org/abs/2607.02672v2) | ArXiv |  | 1 |
 | [Interpretable Adaptive Sampling for LLM Test-Time Scaling](http://arxiv.org/abs/2608.03961v1) | ArXiv |  | 1 |
+| [Interval POMDP Shielding for Imperfect-Perception Agents](http://arxiv.org/abs/2604.20728v2) | ArXiv |  | 1 |
 | [Item Response Theory for AI Safety](http://arxiv.org/abs/2608.05086v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
@@ -249,6 +255,8 @@
 | [Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](http://arxiv.org/abs/2607.28573v1) | ArXiv |  | 1 |
 | [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](http://arxiv.org/abs/2606.19327v1) | ArXiv |  | 1 |
 | [Reward Modeling for Multi-Agent Orchestration](http://arxiv.org/abs/2606.13598v1) | ArXiv |  | 1 |
+| [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
+| [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
@@ -262,6 +270,7 @@
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v2) | ArXiv |  | 1 |
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v3) | ArXiv |  | 1 |
 | [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](http://arxiv.org/abs/2608.03970v1) | ArXiv |  | 1 |
+| [SkillNet: Create, Evaluate, and Connect AI Skills](http://arxiv.org/abs/2603.04448v2) | ArXiv |  | 1 |
 | [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1) | ArXiv |  | 1 |
 | [sLTN: Structural Logic Tensor Networks](http://arxiv.org/abs/2608.11136v1) | ArXiv |  | 1 |
 | [SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling](http://arxiv.org/abs/2508.09105v3) | ArXiv |  | 1 |
@@ -298,6 +307,7 @@
 | [Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1) | ArXiv |  | 1 |
 | [Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations](http://arxiv.org/abs/2607.20379v1) | ArXiv |  | 1 |
 | [TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](http://arxiv.org/abs/2608.06346v1) | ArXiv |  | 1 |
+| [Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering](http://arxiv.org/abs/2608.19125v1) | ArXiv |  | 1 |
 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](http://arxiv.org/abs/2608.14490v1) | ArXiv |  | 1 |
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
@@ -306,6 +316,7 @@
 | [What AI Red-Team Evaluations Can and Cannot Prove](http://arxiv.org/abs/2607.21735v2) | ArXiv |  | 1 |
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
+| [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
 | [When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding](http://arxiv.org/abs/2608.16801v1) | ArXiv |  | 1 |
 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense](http://arxiv.org/abs/2606.22030v2) | ArXiv |  | 1 |

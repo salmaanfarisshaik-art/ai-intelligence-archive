@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.00802v2](http://arxiv.org/abs/2403.00802v2)
 
+## PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU
+- **ID**: arxiv_2508.15436v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.15436v2](http://arxiv.org/abs/2508.15436v2)
+
 ## From Noise to Order: Learning to Rank via Denoising Diffusion
 - **ID**: arxiv_2602.11453v3
 - **Source**: ArXiv

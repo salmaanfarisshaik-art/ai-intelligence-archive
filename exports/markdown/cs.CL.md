@@ -225,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03136v5](http://arxiv.org/abs/2604.03136v5)
 
+## When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't
+- **ID**: arxiv_2604.06422v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.06422v2](http://arxiv.org/abs/2604.06422v2)
+
 ## Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent
 - **ID**: arxiv_2604.07269v2
 - **Source**: ArXiv
@@ -295,6 +300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.00817v4](http://arxiv.org/abs/2605.00817v4)
 
+## An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection
+- **ID**: arxiv_2605.02259v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02259v2](http://arxiv.org/abs/2605.02259v2)
+
 ## Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages
 - **ID**: arxiv_2605.02608v2
 - **Source**: ArXiv
@@ -324,6 +334,11 @@
 - **ID**: arxiv_2605.05103v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05103v3](http://arxiv.org/abs/2605.05103v3)
+
+## Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering
+- **ID**: arxiv_2605.05962v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05962v2](http://arxiv.org/abs/2605.05962v2)
 
 ## TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature
 - **ID**: arxiv_2605.07507v2
@@ -1619,4 +1634,19 @@
 - **ID**: arxiv_2608.18072v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18072v1](http://arxiv.org/abs/2608.18072v1)
+
+## Comment-level Topic Drift Analysis in the Reddit Corpus
+- **ID**: arxiv_2608.19133v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19133v1](http://arxiv.org/abs/2608.19133v1)
+
+## ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos
+- **ID**: arxiv_2608.19165v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19165v1](http://arxiv.org/abs/2608.19165v1)
+
+## SPADE: Self-Play in Adaptive Synthetic Executable Environments
+- **ID**: arxiv_2608.19197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19197v1](http://arxiv.org/abs/2608.19197v1)
 

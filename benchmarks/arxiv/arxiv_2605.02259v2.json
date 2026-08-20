@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.02259v2",
+  "schema_version": "1.0",
+  "name": "An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.02259v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.02259v2",
+    "updated": "2026-08-19T15:53:32Z",
+    "published": "2026-05-04T06:15:13Z",
+    "title": "An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection",
+    "summary": "Incomplete propagation data significantly hinders robust fake news detection. Recent approaches leverage large language models to simulate missing user interactions via role-playing, thereby enriching propagation with synthetic signals. However, such propagation data is intrinsically unreliable, and directly fusing it can lead to biased representations and limited detection performance. In this paper, we alleviate the unreliability of synthetic propagation from the mutual information perspective and propose a novel information-theoretic propagation denoising and fusion (InfoPDF) framework to learn effective representations from both real and synthetic propagation. Specifically, we first generate attribute-specific synthetic propagation using large language models. Then we model each synthetic propagation graph as a probabilistic latent distribution to guide reliability-aware adaptive fusion with real propagation. During training, we design a mutual information-based objective to learn compressed and task-sufficient propagation representations. It jointly suppresses noisy signals across attribute-specific synthetic propagation, maintains consistency between real and synthetic propagation representations, and ensures task sufficiency for fake news detection and attribute prediction. Experiments on three real-world datasets show that InfoPDF consistently achieves superior performance across various fake news detection tasks. Further analysis demonstrates that InfoPDF can estimate attribute-level reliabilities and learn more discriminative propagation representations.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T15:53:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.02259v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

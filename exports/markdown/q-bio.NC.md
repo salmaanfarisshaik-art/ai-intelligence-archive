@@ -5,3 +5,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2309.02332v3](http://arxiv.org/abs/2309.02332v3)
 
+## Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations
+- **ID**: arxiv_2607.24834v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24834v3](http://arxiv.org/abs/2607.24834v3)
+

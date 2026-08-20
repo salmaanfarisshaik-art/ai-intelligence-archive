@@ -90,6 +90,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.16763v4](http://arxiv.org/abs/2602.16763v4)
 
+## Conformal Policy Control
+- **ID**: arxiv_2603.02196v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.02196v4](http://arxiv.org/abs/2603.02196v4)
+
+## SkillNet: Create, Evaluate, and Connect AI Skills
+- **ID**: arxiv_2603.04448v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.04448v2](http://arxiv.org/abs/2603.04448v2)
+
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
@@ -104,6 +114,11 @@
 - **ID**: arxiv_2604.04721v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.04721v3](http://arxiv.org/abs/2604.04721v3)
+
+## Interval POMDP Shielding for Imperfect-Perception Agents
+- **ID**: arxiv_2604.20728v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.20728v2](http://arxiv.org/abs/2604.20728v2)
 
 ## FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment
 - **ID**: arxiv_2604.23786v2
@@ -149,6 +164,11 @@
 - **ID**: arxiv_2605.20173v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20173v2](http://arxiv.org/abs/2605.20173v2)
+
+## RULER: Representation-Level Verification of Machine Unlearning
+- **ID**: arxiv_2605.27569v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.27569v3](http://arxiv.org/abs/2605.27569v3)
 
 ## Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems
 - **ID**: arxiv_2605.27628v2
@@ -424,6 +444,11 @@
 - **ID**: arxiv_2606.20785v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20785v2](http://arxiv.org/abs/2606.20785v2)
+
+## ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks
+- **ID**: arxiv_2606.21654v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.21654v2](http://arxiv.org/abs/2606.21654v2)
 
 ## When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense
 - **ID**: arxiv_2606.22030v2
@@ -1510,6 +1535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16776v1](http://arxiv.org/abs/2608.16776v1)
 
+## GRIP: Grounded Reasoning via Information-Restricted Premises
+- **ID**: arxiv_2608.16776v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16776v2](http://arxiv.org/abs/2608.16776v2)
+
 ## When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding
 - **ID**: arxiv_2608.16801v1
 - **Source**: ArXiv
@@ -1559,4 +1589,29 @@
 - **ID**: arxiv_2608.18066v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18066v1](http://arxiv.org/abs/2608.18066v1)
+
+## What is Missing from AI Post-Training AI: An Empirical Analysis
+- **ID**: arxiv_2608.19072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19072v1](http://arxiv.org/abs/2608.19072v1)
+
+## Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk
+- **ID**: arxiv_2608.19073v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19073v1](http://arxiv.org/abs/2608.19073v1)
+
+## Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering
+- **ID**: arxiv_2608.19125v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19125v1](http://arxiv.org/abs/2608.19125v1)
+
+## Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems
+- **ID**: arxiv_2608.19140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19140v1](http://arxiv.org/abs/2608.19140v1)
+
+## Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication
+- **ID**: arxiv_2608.19161v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19161v1](http://arxiv.org/abs/2608.19161v1)
 

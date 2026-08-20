@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.00718v3",
+  "schema_version": "1.0",
+  "name": "Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.00718v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.00718v3",
+    "updated": "2026-08-19T16:56:47Z",
+    "published": "2026-05-01T15:07:14Z",
+    "title": "Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels",
+    "summary": "Knee osteoarthritis (OA) assessment contains a natural label hierarchy between binary disease status and Kellgren--Lawrence (KL) severity. We study whether supervision at these two granularities changes learned 3D MRI representations. A shared encoder with OA and KL prediction heads is evaluated under single-OA, single-KL, and dual-head training across ResNet3D, M3T, and nnMamba backbones. Evaluation combines predictive metrics with paired statistical comparisons under Benjamini--Hochberg FDR control, latent severity-axis geometry, and saliency--cartilage overlap. Dual supervision yields significant KL-grading gains for ResNet3D and a significant OA AUC gain for M3T, whereas nnMamba retains stronger single-task performance. Representation analysis further shows an architecture-dependent effect: Dual strengthens label-aligned latent organization for ResNet3D and M3T, while nnMamba retains stronger alignment under single-task supervision. For the responsive backbones, Dual also produces descriptively higher saliency overlap with cartilage. These results show that coarse-to-fine supervision can reshape disease representations under noisy hierarchical labels, with benefits that depend on backbone architecture. Code is available at https://github.com/jukieCheung/coarse2fine-oa-mri.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T16:56:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.00718v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

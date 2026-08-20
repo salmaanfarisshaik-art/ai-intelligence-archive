@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14249v11](http://arxiv.org/abs/2501.14249v11)
 
+## Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling
+- **ID**: arxiv_2502.16445v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.16445v4](http://arxiv.org/abs/2502.16445v4)
+
 ## Dimensionality reduction for homological stability and global structure preservation
 - **ID**: arxiv_2503.03156v4
 - **Source**: ArXiv
@@ -85,6 +90,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12265v2](http://arxiv.org/abs/2511.12265v2)
 
+## CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning
+- **ID**: arxiv_2511.22842v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.22842v3](http://arxiv.org/abs/2511.22842v3)
+
 ## Language as a Wave Phenomenon: Semantic Phase Locking and Interference in Neural Networks
 - **ID**: arxiv_2512.01208v5
 - **Source**: ArXiv
@@ -144,6 +154,11 @@
 - **ID**: arxiv_2604.15010v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.15010v2](http://arxiv.org/abs/2604.15010v2)
+
+## AutoOR: Scalably Post-training LLMs to Autoformalize Operations Research Problems
+- **ID**: arxiv_2604.16804v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16804v3](http://arxiv.org/abs/2604.16804v3)
 
 ## The Topological Trouble With Transformers
 - **ID**: arxiv_2604.17121v4
@@ -919,4 +934,29 @@
 - **ID**: arxiv_2608.18040v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18040v1](http://arxiv.org/abs/2608.18040v1)
+
+## Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation
+- **ID**: arxiv_2608.19098v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19098v1](http://arxiv.org/abs/2608.19098v1)
+
+## Discretizing Continuous Time Series for Imputation with Masked Diffusion Training
+- **ID**: arxiv_2608.19119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19119v1](http://arxiv.org/abs/2608.19119v1)
+
+## PGFS++: Molecular Property Improvement under Synthesis and Diversity Constraints
+- **ID**: arxiv_2608.19121v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19121v1](http://arxiv.org/abs/2608.19121v1)
+
+## Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles
+- **ID**: arxiv_2608.19127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19127v1](http://arxiv.org/abs/2608.19127v1)
+
+## Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning
+- **ID**: arxiv_2608.19181v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19181v1](http://arxiv.org/abs/2608.19181v1)
 

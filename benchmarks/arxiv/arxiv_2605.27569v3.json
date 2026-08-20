@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.27569v3",
+  "schema_version": "1.0",
+  "name": "RULER: Representation-Level Verification of Machine Unlearning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.27569v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.27569v3",
+    "updated": "2026-08-19T15:42:28Z",
+    "published": "2026-05-26T18:41:48Z",
+    "title": "RULER: Representation-Level Verification of Machine Unlearning",
+    "summary": "Machine unlearning aims to remove the influence of specific training records from a deployed model without retraining from scratch. Current protocols verify this at the output level through membership inference, retain accuracy, and forget-set accuracy, but a model can satisfy all three whilst still encoding forgotten records in its intermediate representations. We introduce RULER, a set of representation-level verification metrics. The oracle-comparative metric M2 measures whether forget-set records occupy the same representational position as in a model retrained without them. The oracle-free metric M4 detects residuals from the unlearned model's internal similarity structure alone, without retraining. Four approximate unlearning methods all pass output-level evaluation, yet under a linear mixed-effects model M2 detects significant residuals in 10 of 12 conditions (p<0.05), with effect sizes growing as the forget fraction increases. A fifth method, Bad Teacher, shows the same residuals despite a different forgetting mechanism. M4 acts as a pre-unlearning diagnostic across tabular, image, clinical text, and face-identity settings: it detects identity-level memorisation in face recognition models where no tested method fully erases the signal.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T15:42:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.27569v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

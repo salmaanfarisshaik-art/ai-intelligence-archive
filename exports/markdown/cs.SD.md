@@ -105,3 +105,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09930v1](http://arxiv.org/abs/2608.09930v1)
 
+## Finetuning Strategies for Querying Sounds by Vocal Imitation
+- **ID**: arxiv_2608.19174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19174v1](http://arxiv.org/abs/2608.19174v1)
+

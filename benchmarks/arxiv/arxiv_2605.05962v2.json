@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.05962v2",
+  "schema_version": "1.0",
+  "name": "Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.05962v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.05962v2",
+    "updated": "2026-08-19T17:14:30Z",
+    "published": "2026-05-07T10:08:17Z",
+    "title": "Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering",
+    "summary": "This paper addresses end-to-end geospatial question answering over multilingual toponymic data. We introduce a bilingual (Russian-Tatar) dataset of 9,688 toponyms with linguistic, etymological, and coordinate information (93.1 percent georeferenced). Based on this, we construct about 39,000 question-context-answer triples with guaranteed answer localization. Our architecture combines a hybrid retriever (dense semantic indexing with multilingual-e5-large plus geospatial filtering/ranking using KD-trees and haversine distance) and an extractive reader fine-tuned on transformer models. On 500 test queries, hybrid search achieves Recall@1 = 0.988, Recall@5 = 1.000, MRR = 0.994, significantly outperforming BM25 and spatial-only methods. Among readers (RuBERT, XLM-RoBERTa-large, T5-RUS), XLM-RoBERTa-large gives best results: EM = 0.992, F1 = 0.994. RuBERT models fail on coordinate questions due to tokenization artifacts, but simple post-processing recovers 100 percent accuracy. Resources (dataset, QA corpus, models, web demo) are openly released on Hugging Face. Results are directly applicable to geospatial QA services, geocoding, and digital humanities projects.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T17:14:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.05962v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

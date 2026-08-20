@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.15436v2",
+  "schema_version": "1.0",
+  "name": "PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.15436v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.15436v2",
+    "updated": "2026-08-19T15:53:43Z",
+    "published": "2025-08-21T10:50:49Z",
+    "title": "PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU",
+    "summary": "We propose a $\\textbf{P}$latform for $\\textbf{L}$ayout-$\\textbf{A}$ware $\\textbf{S}$earch and $\\textbf{M}$emory $\\textbf{A}$rrangement ($\\textbf{PLASMA}$), a unified evaluation framework for graph-based Approximate Nearest Neighbor Search (ANNS) on GPU that isolates the effects of graph index topology and memory layout. Graph-based ANNS is essential in modern AI applications such as RAG, and GPU utilization is attracting attention for datasets of millions or more vectors. Our framework extracts the topology of arbitrary graph-based indices and enables execution under a unified, GPU-optimized search algorithm, specifying the correspondence between vertex IDs and positions on memory to allow arbitrary vertex orderings. Through comprehensive experiments, we demonstrate that vertex reordering yields up to $80\\%$ (typically $10-30\\%$) QPS improvement while preserving search accuracy.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-08-20T02:55:15Z",
+  "last_updated": "2026-08-19T15:53:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.15436v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

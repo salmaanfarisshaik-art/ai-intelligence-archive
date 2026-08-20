@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07464v2](http://arxiv.org/abs/2606.07464v2)
 
+## Planning-aligned Token Compression for Long-Context Autonomous Driving
+- **ID**: arxiv_2606.07464v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07464v3](http://arxiv.org/abs/2606.07464v3)
+
 ## Mana: Dexterous Manipulation of Articulated Tools
 - **ID**: arxiv_2606.13677v1
 - **Source**: ArXiv
@@ -255,6 +260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12198v1](http://arxiv.org/abs/2608.12198v1)
 
+## BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving
+- **ID**: arxiv_2608.12854v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.12854v2](http://arxiv.org/abs/2608.12854v2)
+
 ## HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
 - **ID**: arxiv_2608.13555v1
 - **Source**: ArXiv
@@ -289,4 +299,19 @@
 - **ID**: arxiv_2608.16889v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16889v1](http://arxiv.org/abs/2608.16889v1)
+
+## LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding
+- **ID**: arxiv_2608.19059v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19059v1](http://arxiv.org/abs/2608.19059v1)
+
+## DA-WAM: Decision-Aligned Future Latents for Driving World Models
+- **ID**: arxiv_2608.19085v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19085v1](http://arxiv.org/abs/2608.19085v1)
+
+## ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning
+- **ID**: arxiv_2608.19182v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19182v1](http://arxiv.org/abs/2608.19182v1)
 

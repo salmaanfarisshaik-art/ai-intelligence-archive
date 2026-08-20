@@ -230,6 +230,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.03424v4](http://arxiv.org/abs/2512.03424v4)
 
+## LM-CartSeg: Automated Segmentation of Lateral and Medial Cartilage and Subchondral Bone for Radiomics Analysis
+- **ID**: arxiv_2512.03449v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.03449v4](http://arxiv.org/abs/2512.03449v4)
+
 ## Dual Cross-Attention Siamese Transformer for Rectal Tumor Regrowth Assessment in Watch-and-Wait Endoscopy
 - **ID**: arxiv_2512.03883v3
 - **Source**: ArXiv
@@ -424,6 +429,11 @@
 - **ID**: arxiv_2604.23789v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23789v3](http://arxiv.org/abs/2604.23789v3)
+
+## Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels
+- **ID**: arxiv_2605.00718v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00718v3](http://arxiv.org/abs/2605.00718v3)
 
 ## SparseContrast: Dynamic Sparse Attention for Efficient and Accurate Contrastive Learning in Medical Imaging
 - **ID**: arxiv_2605.00887v2
@@ -2590,6 +2600,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14546v1](http://arxiv.org/abs/2608.14546v1)
 
+## AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions
+- **ID**: arxiv_2608.14778v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14778v2](http://arxiv.org/abs/2608.14778v2)
+
 ## TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
 - **ID**: arxiv_2608.16765v1
 - **Source**: ArXiv
@@ -2709,4 +2724,44 @@
 - **ID**: arxiv_2608.18076v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18076v1](http://arxiv.org/abs/2608.18076v1)
+
+## Generalized Audio-Driven Synthesis of Precise Drummer Motion
+- **ID**: arxiv_2608.19055v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19055v1](http://arxiv.org/abs/2608.19055v1)
+
+## When Two Tracers Disagree: An Investigation of Multimodal Fusion for Clinical PET/CT Segmentation
+- **ID**: arxiv_2608.19063v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19063v1](http://arxiv.org/abs/2608.19063v1)
+
+## GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting
+- **ID**: arxiv_2608.19066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19066v1](http://arxiv.org/abs/2608.19066v1)
+
+## ReWEIGH the Evidence: Calibrating Token-Level Ordinal Visual Evidence to Mitigate Hallucinations in Large Vision-Language Models
+- **ID**: arxiv_2608.19075v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19075v1](http://arxiv.org/abs/2608.19075v1)
+
+## Subgroup performance analysis of adaptation strategies for chest X-ray foundation models
+- **ID**: arxiv_2608.19078v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19078v1](http://arxiv.org/abs/2608.19078v1)
+
+## SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
+- **ID**: arxiv_2608.19080v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19080v1](http://arxiv.org/abs/2608.19080v1)
+
+## Detecting Backdoors in Object Detection via Pre-NMS Prediction Distribution Shift
+- **ID**: arxiv_2608.19088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19088v1](http://arxiv.org/abs/2608.19088v1)
+
+## Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture
+- **ID**: arxiv_2608.19177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19177v1](http://arxiv.org/abs/2608.19177v1)
 
