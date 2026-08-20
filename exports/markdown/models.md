@@ -328,6 +328,10 @@
 - **ID**: model_baai_bge_reranker_v2_gemma
 - **Source**: 
 
+## badtheorylabs/BTL-4-Compact
+- **ID**: model_badtheorylabs_btl_4_compact
+- **Source**: 
+
 ## baffo32/decapoda-research-llama-7B-hf
 - **ID**: model_baffo32_decapoda_research_llama_7b_hf
 - **Source**: 
