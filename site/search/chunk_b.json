@@ -4280,6 +4280,13 @@
       "score": 1.0
     }
   ],
+  "badtheorylabs": [
+    {
+      "entity_id": "model_badtheorylabs_btl_4_compact",
+      "match_type": "exact",
+      "score": 5.0
+    }
+  ],
   "baffle": [
     {
       "entity_id": "alpaca_-3391223937663264358",
@@ -12605,6 +12612,11 @@
     },
     {
       "entity_id": "model_avitotech_avibe",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_badtheorylabs_btl_4_compact",
       "match_type": "exact",
       "score": 3.0
     },
@@ -138222,6 +138234,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "btl": [
+    {
+      "entity_id": "model_badtheorylabs_btl_4_compact",
+      "match_type": "exact",
+      "score": 5.0
     }
   ],
   "btm": [
