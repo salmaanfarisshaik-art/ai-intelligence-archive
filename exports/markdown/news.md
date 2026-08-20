@@ -2871,6 +2871,11 @@
 - **URL**: [https://openai.com/index/introducing-agentkit](https://openai.com/index/introducing-agentkit)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-ai-futures
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-ai-futures](https://openai.com/index/introducing-ai-futures)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-apps-in-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-apps-in-chatgpt](https://openai.com/index/introducing-apps-in-chatgpt)
