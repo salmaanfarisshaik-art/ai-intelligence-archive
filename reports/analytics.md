@@ -133,8 +133,8 @@
 
 - **region:us**: 219
 - **text-generation**: 70
-- **library:datasets**: 68
-- **library:mlcroissant**: 68
+- **library:datasets**: 67
+- **library:mlcroissant**: 67
 - **transformers**: 62
 - **modality:text**: 61
 - **endpoints_compatible**: 60
@@ -154,9 +154,9 @@
 - **library:dask**: 25
 - **task_categories:text-generation**: 24
 - **deploy:sagemaker**: 21
-- **modality:image**: 20
-- **size_categories:n<1K**: 19
+- **modality:image**: 19
 - **qwen3**: 18
+- **size_categories:n<1K**: 18
 - **license:other**: 17
 - **modality:tabular**: 17
 - **api**: 16
@@ -172,7 +172,6 @@
 - **pytorch**: 10
 - **source_datasets:original**: 10
 - **custom_code**: 9
-- **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
@@ -180,4 +179,5 @@
 - **language:ar**: 8
 - **language:zh**: 8
 - **llama**: 8
+- **modality:audio**: 8
 - **security**: 8
