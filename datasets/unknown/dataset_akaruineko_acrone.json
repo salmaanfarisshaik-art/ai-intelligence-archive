@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0828ab82573a015ed8d6953fc4164939ba1c75c4",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\taCROne\n\t\n\naCROne is a synthetic OCR dataset generated with a Python-based image generator for training and evaluating OCR models.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset\n\t\n\nThe dataset contains synthetic images of:\n\nwords\nsentences\nrandom characters\n\nSamples are generated using multiple visual styles:\n\nclean\nprinted\nhandwritten\ndistorted\ncursed\n\nImages can contain different fonts, backgrounds, noise, rotations, scaling, brightness/contrast changes, and CAPTCHA-like distortions.\nThe dataset contains… See the full description on the dataset page: https://huggingface.co/datasets/akaruineko/acrone.",
-  "downloads": 38517,
+  "downloads": 38522,
   "tags": [
     "task_categories:image-to-text",
     "language:en",

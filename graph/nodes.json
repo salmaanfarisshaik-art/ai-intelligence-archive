@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:35:45.847263+00:00",
+  "generated_at": "2026-08-20T09:32:54.089559+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -133745,6 +133745,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_deepseek_r1_distill_qwen_32b_gguf",
+      "label": "bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_deepseek_r1_distill_qwen_7b_gguf",
       "label": "bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF"
     },
@@ -133802,6 +133807,11 @@
       "category": "models",
       "id": "model_bartowski_llama_3_2_3b_instruct_gguf",
       "label": "bartowski/Llama-3.2-3B-Instruct-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_bartowski_llama_3_2_3b_instruct_uncensored_gguf",
+      "label": "bartowski/Llama-3.2-3B-Instruct-uncensored-GGUF"
     },
     {
       "category": "models",
@@ -133912,6 +133922,11 @@
       "category": "models",
       "id": "model_bartowski_qwen_qwen3_0_6b_gguf",
       "label": "bartowski/Qwen_Qwen3-0.6B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_bartowski_qwen_qwen3_8b_gguf",
+      "label": "bartowski/Qwen_Qwen3-8B-GGUF"
     },
     {
       "category": "models",
@@ -135352,6 +135367,11 @@
       "category": "models",
       "id": "model_ibm_granite_granite_3_0_1b_a400m_base",
       "label": "ibm-granite/granite-3.0-1b-a400m-base"
+    },
+    {
+      "category": "models",
+      "id": "model_ibm_granite_granite_3_0_1b_a400m_instruct",
+      "label": "ibm-granite/granite-3.0-1b-a400m-instruct"
     },
     {
       "category": "models",
@@ -437665,5 +437685,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87532
+  "total_nodes": 87536
 }

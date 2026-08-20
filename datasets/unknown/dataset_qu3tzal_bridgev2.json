@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9371b567e6427f5f59398e32d05ff0e2b5968b2b",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.1\",\n    \"robot_type\": \"WidowX\",\n    \"total_episodes\": 53192,\n    \"total_frames\": 1999410,\n    \"total_tasks\": 19974,\n    \"total_videos\": 212768,\n    \"total_chunks\": 54,\n    \"chunks_size\": 1000,\n    \"fps\": 5,\n    \"splits\": {\n        \"train\": \"0:53192\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/Qu3tzal/bridgev2.",
-  "downloads": 29382,
+  "downloads": 29172,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

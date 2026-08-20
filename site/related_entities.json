@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T08:36:46Z",
+  "generated_at": "2026-08-20T09:33:53Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -353,6 +353,9 @@
     "hf_Jackrong_GLM-5.1-Reasoning-1M-Cleaned": [
       "model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf"
     ],
+    "hf_Jackrong_Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled": [
+      "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic"
+    ],
     "hf_Jackrong_Qwen3.5-9B-GLM5.1-Distill-v1": [
       "model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf",
       "model_jackrong_qwopus_glm_18b_merged_gguf",
@@ -362,7 +365,8 @@
       "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
       "model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf",
       "model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf",
-      "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf"
+      "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf",
+      "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic"
     ],
     "hf_Jackrong_Qwopus3.5-9B-v3.5": [
       "model_jackrong_qwopus_glm_18b_merged_gguf",
@@ -1151,6 +1155,9 @@
     ],
     "hf_TIGER-Lab_MMEB-train": [
       "model_tiger_lab_vlm2vec_full"
+    ],
+    "hf_TeichAI_claude-4.5-opus-high-reasoning-250x": [
+      "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic"
     ],
     "hf_TheDrummer_Cydonia-24B-v4.2.0": [
       "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf"
@@ -2271,7 +2278,8 @@
     "hf_nohurry_Opus-4.6-Reasoning-3000x-filtered": [
       "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
       "model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf",
-      "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf"
+      "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf",
+      "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic"
     ],
     "hf_nothingiisreal_Reddit-Dirty-And-WritingPrompts": [
       "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
@@ -4657,6 +4665,12 @@
     ],
     "model_maziyarpanahi_yi_coder_9b_chat_gguf": [
       "hf_01-ai_Yi-Coder-9B-Chat"
+    ],
+    "model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic": [
+      "hf_Jackrong_Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "hf_Jackrong_Qwen3.5-reasoning-700x",
+      "hf_TeichAI_claude-4.5-opus-high-reasoning-250x",
+      "hf_nohurry_Opus-4.6-Reasoning-3000x-filtered"
     ],
     "model_menlo_jan_nano_128k": [
       "hf_Menlo_Jan-nano"

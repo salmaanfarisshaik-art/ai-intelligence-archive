@@ -376,6 +376,10 @@
 - **ID**: model_bartowski_deepseek_r1_distill_qwen_32b_abliterated_gguf
 - **Source**: 
 
+## bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF
+- **ID**: model_bartowski_deepseek_r1_distill_qwen_32b_gguf
+- **Source**: 
+
 ## bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF
 - **ID**: model_bartowski_deepseek_r1_distill_qwen_7b_gguf
 - **Source**: 
@@ -422,6 +426,10 @@
 
 ## bartowski/Llama-3.2-3B-Instruct-GGUF
 - **ID**: model_bartowski_llama_3_2_3b_instruct_gguf
+- **Source**: 
+
+## bartowski/Llama-3.2-3B-Instruct-uncensored-GGUF
+- **ID**: model_bartowski_llama_3_2_3b_instruct_uncensored_gguf
 - **Source**: 
 
 ## bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF
@@ -510,6 +518,10 @@
 
 ## bartowski/Qwen_Qwen3-0.6B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_0_6b_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen3-8B-GGUF
+- **ID**: model_bartowski_qwen_qwen3_8b_gguf
 - **Source**: 
 
 ## bartowski/Qwen_Qwen3-Coder-Next-GGUF
@@ -1662,6 +1674,10 @@
 
 ## ibm-granite/granite-3.0-1b-a400m-base
 - **ID**: model_ibm_granite_granite_3_0_1b_a400m_base
+- **Source**: 
+
+## ibm-granite/granite-3.0-1b-a400m-instruct
+- **ID**: model_ibm_granite_granite_3_0_1b_a400m_instruct
 - **Source**: 
 
 ## ibm-granite/granite-3.0-8b-instruct

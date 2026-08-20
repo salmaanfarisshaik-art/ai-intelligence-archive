@@ -9,7 +9,7 @@
   "private": false,
   "sha": "da915083d4c7c5e61aa3005e3d17ae488e0fc71c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tFlashInfer Trace\n\t\n\nWe provide an official dataset called FlashInfer Trace with kernels and workloads in real-world AI system deployment environments. FlashInfer-Bench can use this dataset to measure and compare the performance of kernels. It follows the FlashInfer Trace Schema.\nIt is organized as follows:\nflashinfer_trace/   # Here\n├── definitions/\n└── workloads/\n\nflashinfer-trace/   # On Hugging Face\n├── solutions/\n└── traces/\n\nExample solutions and traces directories, featuring… See the full description on the dataset page: https://huggingface.co/datasets/flashinfer-ai/flashinfer-trace.",
-  "downloads": 31774,
+  "downloads": 28494,
   "tags": [
     "license:apache-2.0",
     "region:us"
