@@ -1,0 +1,33 @@
+{
+  "_id": "68f06bc78eecfd9809f93529",
+  "id": "Open-Bee/Honey-Data-15M",
+  "author": "Open-Bee",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-03-10T09:33:39.000Z",
+  "likes": 119,
+  "private": false,
+  "sha": "bade783ec06dccd5171d4b363ef6781b140ef35b",
+  "description": "\n\t\n\t\t\n\t\tBee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully Open MLLMs\n\t\n\n[🏠 Homepage] [📖 Arxiv Paper] [🤗 Models & Datasets] [💻 Code]\n\n\t\n\t\t\n\t\tIntroduction\n\t\n\nWe introduce Bee-8B, a new state-of-the-art, fully open 8B Multimodal Large Language Model (MLLM) designed to close the performance gap with proprietary models by focusing on data quality.\nBee-8B is trained on our new Honey-Data-15M corpus, a high-quality supervised fine-tuning (SFT) dataset of approximately 15… See the full description on the dataset page: https://huggingface.co/datasets/Open-Bee/Honey-Data-15M.",
+  "downloads": 28452,
+  "tags": [
+    "task_categories:image-text-to-text",
+    "language:en",
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2510.13795",
+    "region:us",
+    "Bee-8B",
+    "Honey-Data-15M"
+  ],
+  "createdAt": "2025-10-16T03:51:35.000Z",
+  "key": "",
+  "unique_id": "dataset_open_bee_honey_data_15m",
+  "schema_version": "1.0"
+}

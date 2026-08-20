@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-07-26T18:31:21.000Z",
-  "likes": 6,
+  "likes": 7,
   "private": false,
   "sha": "251523f5a04d7a852223454182cea63bc9f95063",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDCVLM-Baseline (200B tokens)\n\t\n\nDCVLM-Baseline is the reference training mixture from our DataComp-VLM paper.\nIt is a pre-mixed, decontaminated, ready-to-train multimodal pretraining dataset, materialized as flat\nWebDataset tar shards so it can be consumed by any training\nstack.\nThis is a 200B-token dataset release consisting of 103,985,276 samples, curated from our DCVLM-large data pool.\nA smaller 6.25B-token version is also available.\n\n⚠️ NOTE: The training data is the WebDataset… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dcvlm-baseline-200b.",

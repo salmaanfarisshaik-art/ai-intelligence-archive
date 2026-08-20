@@ -28514,6 +28514,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_gsdf_easynegative",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_harborframework_parity_experiments",
       "match_type": "exact",
       "score": 1.0
@@ -51057,6 +51062,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_open_bee_honey_data_15m",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_openai_gsm8k",
       "match_type": "exact",
       "score": 3.0
@@ -52648,6 +52658,11 @@
     },
     {
       "entity_id": "dataset_griffinlabs_egodex_lerobot_v3_0",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gsdf_easynegative",
       "match_type": "exact",
       "score": 1.5
     },
@@ -70918,6 +70933,11 @@
     },
     {
       "entity_id": "dataset_arcinstitute_state_parse_filtered",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_gsdf_easynegative",
       "match_type": "exact",
       "score": 1.0
     },
@@ -126034,6 +126054,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_open_bee_honey_data_15m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_timm_imagenet_22k_wds",
       "match_type": "exact",
       "score": 1.0
@@ -133757,6 +133782,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_open_bee_honey_data_15m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_open_index_arctic",
       "match_type": "exact",
       "score": 1.0
@@ -141084,6 +141114,11 @@
     },
     {
       "entity_id": "dataset_nvidia_nemotron_post_training_dataset_v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_open_bee_honey_data_15m",
       "match_type": "exact",
       "score": 1.0
     },
@@ -257187,6 +257222,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_open_bee_honey_data_15m",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_ritabrata04_masscount_cf",
       "match_type": "exact",
       "score": 2.0
@@ -269856,6 +269896,13 @@
       "entity_id": "arxiv_2608.06351v1",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "counterfeit": [
+    {
+      "entity_id": "dataset_gsdf_easynegative",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "countering": [
