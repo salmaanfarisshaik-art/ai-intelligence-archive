@@ -5166,6 +5166,11 @@
 - **URL**: [https://openai.com/index/stadler](https://openai.com/index/stadler)
 
 ## 
+- **ID**: rss_https://openai.com/index/stampli
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/stampli](https://openai.com/index/stampli)
+
+## 
 - **ID**: rss_https://openai.com/index/stargate-advances-with-partnership-with-oracle
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/stargate-advances-with-partnership-with-oracle](https://openai.com/index/stargate-advances-with-partnership-with-oracle)
