@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 64
+**Total Changes:** 65
 
 ## Added
 None
@@ -12,12 +12,11 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/rekaai/hf_ds_6a7609d6663f80dd30d388fc.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -34,7 +33,6 @@ None
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
 - tools/github-trending/gh_10744183.json
-- tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
 - tools/github-trending/gh_1129940957.json
@@ -54,20 +52,23 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
+- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
+- tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
