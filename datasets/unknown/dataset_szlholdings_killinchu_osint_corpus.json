@@ -4,10 +4,10 @@
   "author": "SZLHOLDINGS",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-21T11:23:53.000Z",
+  "lastModified": "2026-08-21T12:42:03.000Z",
   "likes": 8,
   "private": false,
-  "sha": "d3fe3be2318dcb329901ec34f05675b6f653be27",
+  "sha": "d89db6115fc24a7d03e801b0ff1568287b54cd16",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tkillinchu — live intel archive\n\t\n\nAppend-only, content-addressed archive of the live intelligence streams the\nkillinchu demo ingests, published by SZL Holdings. The shared\nszl_hf_bucket client writes one NDJSON shard per UTC day under\nintel/.\nEach row is {schema, id, ts, source, kind, payload}.\n\n\t\n\t\t\n\t\n\t\n\t\tViewer-safe contract\n\t\n\nThe default Dataset Viewer configuration is the homogeneous\narchive_manifest, one row per immutable raw shard. It exposes path, byte\ncount, Git blob hash… See the full description on the dataset page: https://huggingface.co/datasets/SZLHOLDINGS/killinchu-osint-corpus.",
   "downloads": 34491,
   "tags": [
