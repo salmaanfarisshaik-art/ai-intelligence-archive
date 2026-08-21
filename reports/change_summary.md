@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 67
+**Total Changes:** 68
 
 ## Added
 None
@@ -11,14 +11,13 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/gokuscraper/hf_ds_69f638c8ebff1de2d6753093.json
+- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/rekaai/hf_ds_6a7609d6663f80dd30d388fc.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -43,6 +42,7 @@ None
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
+- tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
@@ -55,6 +55,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
