@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.14398v3",
+  "schema_version": "1.0",
+  "name": "ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.14398v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.14398v3",
+    "updated": "2026-08-20T17:13:35Z",
+    "published": "2026-05-14T05:33:41Z",
+    "title": "ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction",
+    "summary": "Video-based world models generate visually plausible rollouts, but since they infer dynamics in latent states, they enforce no explicit physical constraints: contacts drift, shapes distort, and motion loses consistency. We present ChronoAgentic, a multi-agent framework that instead constructs the world as executable simulation code. The plan agent converts the natural-language prompt into a structured scene plan that the user can inspect and approve. The code agent implements the plan as an executable PyChrono program, grounded in a curated skill library, a generative 3D asset pipeline, and retrieval over the simulator source. After execution, the visual-analysis agent describes the rendered rollout, while deterministic physics checks scan the simulated trajectories for anomalies. The review agent evaluates this execution evidence, and the code agent iteratively repairs the program until it satisfies the plan objectives and physical constraints. On a suite of 80 demos selected from the PhyWorldBench benchmark, ChronoAgentic satisfies the benchmark's full correctness criterion--semantic adherence and physical correctness judged jointly---on 82.5% of demos, against 52.5% for the strongest of ten text-to-video models, scored under the same criterion on their officially released benchmark videos. The same construction loop extends to interactive use, including a live ROS driving environment in a generated city. The project page is available at https://uwsbel.github.io/chrono-agentic-website/.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-21T03:00:49Z",
+  "last_updated": "2026-08-20T17:13:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.14398v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

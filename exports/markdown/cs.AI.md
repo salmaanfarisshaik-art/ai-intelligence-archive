@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.09105v3](http://arxiv.org/abs/2508.09105v3)
 
+## Gen AI in Proof-based Math Courses: A Pilot Study
+- **ID**: arxiv_2509.13570v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.13570v2](http://arxiv.org/abs/2509.13570v2)
+
 ## On The Statistical Limits of Self-Improving Agents
 - **ID**: arxiv_2510.04399v3
 - **Source**: ArXiv
@@ -149,6 +154,11 @@
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06772v2](http://arxiv.org/abs/2605.06772v2)
+
+## ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction
+- **ID**: arxiv_2605.14398v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14398v3](http://arxiv.org/abs/2605.14398v3)
 
 ## A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters
 - **ID**: arxiv_2605.14667v2
@@ -1360,6 +1370,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09921v1](http://arxiv.org/abs/2608.09921v1)
 
+## GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis
+- **ID**: arxiv_2608.09921v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09921v2](http://arxiv.org/abs/2608.09921v2)
+
 ## sLTN: Structural Logic Tensor Networks
 - **ID**: arxiv_2608.11136v1
 - **Source**: ArXiv
@@ -1525,6 +1540,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14528v1](http://arxiv.org/abs/2608.14528v1)
 
+## Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research
+- **ID**: arxiv_2608.15052v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15052v2](http://arxiv.org/abs/2608.15052v2)
+
 ## Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling
 - **ID**: arxiv_2608.15565v2
 - **Source**: ArXiv
@@ -1614,4 +1634,79 @@
 - **ID**: arxiv_2608.19161v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19161v1](http://arxiv.org/abs/2608.19161v1)
+
+## The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents
+- **ID**: arxiv_2608.20201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20201v1](http://arxiv.org/abs/2608.20201v1)
+
+## MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
+- **ID**: arxiv_2608.20202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20202v1](http://arxiv.org/abs/2608.20202v1)
+
+## ContractScrub: A benchmark for final review of legal contracts
+- **ID**: arxiv_2608.20204v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20204v1](http://arxiv.org/abs/2608.20204v1)
+
+## Electronic Navigational Chart Change Classification
+- **ID**: arxiv_2608.20218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20218v1](http://arxiv.org/abs/2608.20218v1)
+
+## InsufficiencyBench: Evaluating LLM legal advice on underspecified user queries
+- **ID**: arxiv_2608.20220v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20220v1](http://arxiv.org/abs/2608.20220v1)
+
+## Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models
+- **ID**: arxiv_2608.20237v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20237v1](http://arxiv.org/abs/2608.20237v1)
+
+## QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication
+- **ID**: arxiv_2608.20240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20240v1](http://arxiv.org/abs/2608.20240v1)
+
+## Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation
+- **ID**: arxiv_2608.20256v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20256v1](http://arxiv.org/abs/2608.20256v1)
+
+## Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning
+- **ID**: arxiv_2608.20271v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20271v1](http://arxiv.org/abs/2608.20271v1)
+
+## Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents
+- **ID**: arxiv_2608.20274v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20274v1](http://arxiv.org/abs/2608.20274v1)
+
+## Phantom Gains: Auditing Self-Improvement Against a Measured Null
+- **ID**: arxiv_2608.20290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20290v1](http://arxiv.org/abs/2608.20290v1)
+
+## MidTool: Mid-training Data Synthesis for Agentic Tool Use
+- **ID**: arxiv_2608.20314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20314v1](http://arxiv.org/abs/2608.20314v1)
+
+## Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation
+- **ID**: arxiv_2608.20316v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20316v1](http://arxiv.org/abs/2608.20316v1)
+
+## AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement
+- **ID**: arxiv_2608.20318v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20318v1](http://arxiv.org/abs/2608.20318v1)
+
+## An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction
+- **ID**: arxiv_2608.20320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20320v1](http://arxiv.org/abs/2608.20320v1)
 

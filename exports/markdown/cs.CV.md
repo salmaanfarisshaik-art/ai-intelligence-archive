@@ -210,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.21615v2](http://arxiv.org/abs/2510.21615v2)
 
+## Object-aware graph matching network for cross-domain remote sensing image localization
+- **ID**: arxiv_2511.02489v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.02489v2](http://arxiv.org/abs/2511.02489v2)
+
 ## Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings
 - **ID**: arxiv_2511.05017v3
 - **Source**: ArXiv
@@ -279,6 +284,11 @@
 - **ID**: arxiv_2601.08024v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.08024v2](http://arxiv.org/abs/2601.08024v2)
+
+## UAV-Based Infrastructure Inspections: A Literature Review and Proposed Framework for AEC+FM
+- **ID**: arxiv_2601.11665v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.11665v3](http://arxiv.org/abs/2601.11665v3)
 
 ## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
 - **ID**: arxiv_2601.20720v2
@@ -464,6 +474,11 @@
 - **ID**: arxiv_2605.20708v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20708v2](http://arxiv.org/abs/2605.20708v2)
+
+## MKG-CARE: Case-Aware Reasoning with Multimodal Knowledge Graphs for Explainable Medical Image Diagnosis
+- **ID**: arxiv_2605.22547v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.22547v3](http://arxiv.org/abs/2605.22547v3)
 
 ## SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation
 - **ID**: arxiv_2605.30116v2
@@ -1805,6 +1820,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00237v2](http://arxiv.org/abs/2608.00237v2)
 
+## Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion
+- **ID**: arxiv_2608.02092v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02092v2](http://arxiv.org/abs/2608.02092v2)
+
 ## ISRS-DETR: Detection-Guided Click Propagation for Remote Sensing Interactive Segmentation
 - **ID**: arxiv_2608.02468v1
 - **Source**: ArXiv
@@ -2305,6 +2325,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11205v1](http://arxiv.org/abs/2608.11205v1)
 
+## A Model-Internal Protocol for Assessing Multimodal Models as Integrated Systems
+- **ID**: arxiv_2608.11907v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11907v2](http://arxiv.org/abs/2608.11907v2)
+
 ## GeoFlow: Efficient Driving Video Generation via Geometry-Aligned Priors
 - **ID**: arxiv_2608.12203v1
 - **Source**: ArXiv
@@ -2764,4 +2789,54 @@
 - **ID**: arxiv_2608.19177v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19177v1](http://arxiv.org/abs/2608.19177v1)
+
+## RoMAN-Flow: Taming Autoregressive Normalizing Flows for Offline Reinforcement Learning in Robotic Manipulation
+- **ID**: arxiv_2608.20208v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20208v1](http://arxiv.org/abs/2608.20208v1)
+
+## Unwarping the Lens: A Physics-Grounded Approach to Video Glasses Removal
+- **ID**: arxiv_2608.20212v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20212v1](http://arxiv.org/abs/2608.20212v1)
+
+## Prompt-Conditioned Channel Attention for Hierarchical Feature Modulation toward Anatomy-Agnostic Segmentation
+- **ID**: arxiv_2608.20229v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20229v1](http://arxiv.org/abs/2608.20229v1)
+
+## Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning
+- **ID**: arxiv_2608.20284v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20284v1](http://arxiv.org/abs/2608.20284v1)
+
+## CalcSeg: Confidence-aware 3D Latent Context Curriculum Learning For Myocardial Scar Segmentation From Single-Stack LGE-CMRs
+- **ID**: arxiv_2608.20305v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20305v1](http://arxiv.org/abs/2608.20305v1)
+
+## DreamHand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery
+- **ID**: arxiv_2608.20308v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20308v1](http://arxiv.org/abs/2608.20308v1)
+
+## Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis
+- **ID**: arxiv_2608.20312v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20312v1](http://arxiv.org/abs/2608.20312v1)
+
+## Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models
+- **ID**: arxiv_2608.20334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20334v1](http://arxiv.org/abs/2608.20334v1)
+
+## 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+- **ID**: arxiv_2608.20335v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20335v1](http://arxiv.org/abs/2608.20335v1)
+
+## WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+- **ID**: arxiv_2608.20336v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20336v1](http://arxiv.org/abs/2608.20336v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.18738v3",
+  "schema_version": "1.0",
+  "name": "Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.18738v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.18738v3",
+    "updated": "2026-08-20T17:33:14Z",
+    "published": "2026-04-20T18:43:28Z",
+    "title": "Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models",
+    "summary": "Diffusion language models (dLLMs) generate text through iterative denoising, filling multiple masked positions at each step. Positions filled in the same step are predicted without conditioning on one another's newly filled values and can therefore be mutually inconsistent; once retained, these inconsistencies become context for later predictions. We introduce \\emph{Token-to-Mask} (T2M), a training-free inference-time correction method that identifies low-confidence positions using the model's probability of the current token, remasks them, and reconstructs them in later denoising steps. On dLLMs equipped with correction mechanisms, a single T2M configuration transfers across tasks and models without retuning and broadly improves task metrics over each model's native correction mechanism. In controlled experiments, we decompose correction methods into a detector that identifies suspicious tokens and an action that determines how to revise them. Holding the detector fixed, remasking yields higher task metrics than replacement; across the tested detector--action combinations, current-token-probability detection paired with remasking performs best. Compared with direct editing, T2M converts additional inference compute into performance gains more effectively and, on most tasks, retains a sequential-step advantage over autoregressive token-by-token decoding.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-21T03:00:49Z",
+  "last_updated": "2026-08-20T17:33:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.18738v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

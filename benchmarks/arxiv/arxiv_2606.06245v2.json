@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.06245v2",
+  "schema_version": "1.0",
+  "name": "MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.06245v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.06245v2",
+    "updated": "2026-08-20T16:17:14Z",
+    "published": "2026-06-04T14:48:44Z",
+    "title": "MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action",
+    "summary": "Vision-Language-Action (VLA) policies remain brittle in long-horizon and high-uncertainty control, where one-pass action decoding provides limited inference-time deliberation. Explicit chain-of-thought can increase reasoning depth, but introduces token latency and an indirect text-to-action interface. We propose MPCoT, a reward-guided multi-path latent reasoning framework that initializes M hypotheses, refines them for K weight-tied steps, and softly aggregates them before action decoding. A training-only path-preference objective combines expert-trajectory consistency, frozen Qwen3-VL progress scoring, and endpoint-success feedback to align the latent path scorer with downstream execution quality. MPCoT preserves the original 8-step action interface, generates zero reasoning tokens, and exposes configurable inference controls (K, M). Under matched protocols on LIBERO and CALVIN, MPCoT improves long-horizon performance, with ablations confirming depth-width effects, confidence-weighted aggregation, and reward-guided path supervision.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-21T03:00:49Z",
+  "last_updated": "2026-08-20T16:17:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.06245v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

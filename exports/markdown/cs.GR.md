@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.15225v3](http://arxiv.org/abs/2503.15225v3)
 
+## Text-based Tactile Graphics Generation for the Visually Impaired
+- **ID**: arxiv_2607.22674v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22674v2](http://arxiv.org/abs/2607.22674v2)
+
 ## aDSL: Agentic 3D Creation via Joint Agent-Program Design
 - **ID**: arxiv_2608.17975v1
 - **Source**: ArXiv

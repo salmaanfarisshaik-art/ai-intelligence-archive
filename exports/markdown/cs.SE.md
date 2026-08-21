@@ -145,3 +145,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13459v1](http://arxiv.org/abs/2608.13459v1)
 
+## From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation
+- **ID**: arxiv_2608.20195v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20195v1](http://arxiv.org/abs/2608.20195v1)
+

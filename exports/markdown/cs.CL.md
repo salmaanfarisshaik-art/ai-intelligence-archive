@@ -255,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.18307v2](http://arxiv.org/abs/2604.18307v2)
 
+## Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models
+- **ID**: arxiv_2604.18738v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.18738v3](http://arxiv.org/abs/2604.18738v3)
+
 ## HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces
 - **ID**: arxiv_2604.19001v2
 - **Source**: ArXiv
@@ -1649,4 +1654,24 @@
 - **ID**: arxiv_2608.19197v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19197v1](http://arxiv.org/abs/2608.19197v1)
+
+## Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
+- **ID**: arxiv_2608.20281v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20281v1](http://arxiv.org/abs/2608.20281v1)
+
+## Inducing Task Models from Computer-Use Traces
+- **ID**: arxiv_2608.20319v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20319v1](http://arxiv.org/abs/2608.20319v1)
+
+## G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation
+- **ID**: arxiv_2608.20331v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20331v1](http://arxiv.org/abs/2608.20331v1)
+
+## ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models
+- **ID**: arxiv_2608.20338v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20338v1](http://arxiv.org/abs/2608.20338v1)
 

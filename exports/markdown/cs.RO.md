@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03181v2](http://arxiv.org/abs/2604.03181v2)
 
+## MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action
+- **ID**: arxiv_2606.06245v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06245v2](http://arxiv.org/abs/2606.06245v2)
+
 ## Planning-aligned Token Compression for Long-Context Autonomous Driving
 - **ID**: arxiv_2606.07464v2
 - **Source**: ArXiv

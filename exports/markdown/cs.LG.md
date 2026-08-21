@@ -150,6 +150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00626v4](http://arxiv.org/abs/2604.00626v4)
 
+## From Rebound to Remedy: Understanding and Mitigating Reward Hacking via Representation Engineering
+- **ID**: arxiv_2604.01476v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01476v3](http://arxiv.org/abs/2604.01476v3)
+
 ## What Is the Minimum Architecture for Prolepsis? Early Irrevocable Commitment Across Tasks in Small Transformers
 - **ID**: arxiv_2604.15010v2
 - **Source**: ArXiv

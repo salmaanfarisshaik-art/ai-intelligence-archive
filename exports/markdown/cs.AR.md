@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.16173v3](http://arxiv.org/abs/2504.16173v3)
 
+## PrefixAgent: An LLM-Powered Design Framework for Efficient Prefix Adder Optimization
+- **ID**: arxiv_2507.06127v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.06127v2](http://arxiv.org/abs/2507.06127v2)
+
 ## HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding
 - **ID**: arxiv_2607.22389v1
 - **Source**: ArXiv

@@ -1,5 +1,10 @@
 # Cs.Cr Export
 
+## Teacher-free Latent Self-distillation and Class-separable Representations for Lightweight IoT Attack Detection
+- **ID**: arxiv_2403.15509v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2403.15509v3](http://arxiv.org/abs/2403.15509v3)
+
 ## SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents
 - **ID**: arxiv_2602.14211v3
 - **Source**: ArXiv

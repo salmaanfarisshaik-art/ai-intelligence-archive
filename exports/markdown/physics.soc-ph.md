@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.17015v2](http://arxiv.org/abs/2607.17015v2)
 
+## Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI
+- **ID**: arxiv_2608.20231v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20231v1](http://arxiv.org/abs/2608.20231v1)
+

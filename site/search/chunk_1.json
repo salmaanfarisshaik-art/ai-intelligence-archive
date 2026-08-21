@@ -5816,11 +5816,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_adyen_dabstep",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_agentica_org_deepscaler_preview_dataset",
       "match_type": "exact",
       "score": 1.5
@@ -14517,6 +14512,11 @@
       "entity_id": "hf_ds_ropedia-ai_xperience-10m",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_adyen_dabstep",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "dataset_agkphysics_audioset",
@@ -25223,6 +25223,11 @@
     }
   ],
   "150m": [
+    {
+      "entity_id": "arxiv_2608.20210v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "hf_llm-jp_llm-jp-3-150m",
       "match_type": "exact",
@@ -37319,6 +37324,11 @@
     },
     {
       "entity_id": "dataset_huggingface_course_documentation_images",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingface_deh_image_scan_data",
       "match_type": "exact",
       "score": 1.5
     },

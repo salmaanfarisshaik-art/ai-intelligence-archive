@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2012.05213v2](http://arxiv.org/abs/2012.05213v2)
 
+## The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain
+- **ID**: arxiv_2510.14642v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.14642v2](http://arxiv.org/abs/2510.14642v2)
+
 ## The Theory of Strategic Evolution: Games with Endogenous Players and the Seven Laws of Strategic Replicators
 - **ID**: arxiv_2512.07901v4
 - **Source**: ArXiv

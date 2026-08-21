@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2403.15509v3",
+  "schema_version": "1.0",
+  "name": "Teacher-free Latent Self-distillation and Class-separable Representations for Lightweight IoT Attack Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2403.15509v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2403.15509v3",
+    "updated": "2026-08-20T16:30:18Z",
+    "published": "2024-03-22T03:39:40Z",
+    "title": "Teacher-free Latent Self-distillation and Class-separable Representations for Lightweight IoT Attack Detection",
+    "summary": "Knowledge distillation (KD) has been widely used to improve lightweight AI models by transferring soft-label knowledge from a large teacher model to a student model. However, existing KD methods are primarily designed for the image domain rather than lightweight IoT devices, and they often struggle to maintain well-separated feature representations for different attack types, especially as the number of classes increases and attack behaviors become more diverse. This paper proposes a novel \\textit{teacher-free latent self-distillation framework based on a Twin Autoencoder (TAE)}. Instead of relying on an external teacher, TAE self-learns intrinsic class-wise latent representations, which act as soft labels, similar to KD, but without requiring a teacher model. The decoder then projects the input back into soft labels, enforcing class separation in the decoder output. The resulting decoder representations are used for classification, improving the discrimination between benign and malicious traffic while maintaining a lightweight design suitable for IoT deployment. We theoretically derive conditions for perfect class separation and show that lower empirical risk yields better representations, identifying regimes where TAE achieves strictly lower empirical risk than models using fixed class centers. Extensive experiments on 13 cybersecurity datasets, covering IoT botnets, network intrusion detection, malware, cloud DDoS, and synthetic multi-class data, show that TAE achieves up to 96.1% average accuracy for IoT attack detection and 98.7% for cloud intrusion detection. With a compact model size (1 MB) and ultra-fast inference (0.26 μs per sample), TAE offers a practical and scalable solution for real-world cybersecurity and IoT systems.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-08-21T03:00:49Z",
+  "last_updated": "2026-08-20T16:30:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2403.15509v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
