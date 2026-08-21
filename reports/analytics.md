@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87608
+**Total Entities Tracked**: 87614
 
 ## Category Distribution
 
@@ -8,9 +8,9 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1676
-- **models**: 1496
+- **models**: 1501
 - **news**: 1169
-- **dataset**: 1150
+- **dataset**: 1151
 - **text-generation**: 1005
 - **cs.CV**: 568
 - **cs.AI**: 342
@@ -87,11 +87,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30350
+- ****: 30355
 - **Hugging Face**: 2012
 - **ArXiv**: 1778
 - **OpenAI Blog**: 1155
-- **HuggingFace Datasets**: 150
+- **HuggingFace Datasets**: 151
 - **GitHub Trending**: 49
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -131,40 +131,40 @@
 
 ## Top Tags
 
-- **region:us**: 219
+- **region:us**: 220
 - **text-generation**: 70
-- **library:datasets**: 68
-- **library:mlcroissant**: 68
+- **library:datasets**: 69
+- **library:mlcroissant**: 69
+- **modality:text**: 62
 - **transformers**: 62
-- **modality:text**: 61
 - **endpoints_compatible**: 60
 - **safetensors**: 60
-- **license:apache-2.0**: 58
-- **language:en**: 56
+- **license:apache-2.0**: 59
+- **language:en**: 57
 - **conversational**: 52
-- **library:polars**: 51
+- **library:polars**: 52
 - **license:mit**: 43
-- **format:parquet**: 41
+- **format:parquet**: 42
 - **text-generation-inference**: 33
 - **deploy:azure**: 32
+- **library:pandas**: 27
 - **en**: 26
-- **library:pandas**: 26
 - **enterprise**: 25
 - **eval-results**: 25
 - **library:dask**: 25
 - **task_categories:text-generation**: 24
 - **deploy:sagemaker**: 21
-- **modality:image**: 20
+- **modality:image**: 21
 - **size_categories:n<1K**: 19
+- **modality:tabular**: 18
 - **qwen3**: 18
 - **license:other**: 17
-- **modality:tabular**: 17
 - **api**: 16
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 14
+- **modality:video**: 13
+- **size_categories:100K<n<1M**: 13
 - **task_categories:robotics**: 13
-- **modality:video**: 12
-- **size_categories:100K<n<1M**: 12
 - **fp8**: 11
 - **license:odc-by**: 11
 - **multilinguality:monolingual**: 11

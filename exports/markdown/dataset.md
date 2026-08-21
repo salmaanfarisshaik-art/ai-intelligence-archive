@@ -910,6 +910,12 @@
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/ngrik](https://huggingface.co/datasets/gfdg34fsd/ngrik)
 - **Tags**: region:us
 
+## RekaAI/RekaDaily-10k-raw
+- **ID**: hf_ds_6a7609d6663f80dd30d388fc
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw](https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw)
+- **Tags**: egocentric, first-person, format:parquet, household, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, library:webdataset, license:apache-2.0, modality:image, modality:tabular, modality:text, modality:video, region:us, size_categories:100K<n<1M, task_categories:image-to-video, task_categories:video-classification, video, webdataset
+
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
 - **Source**: Hugging Face

@@ -9456,6 +9456,11 @@
       "target": "datasets/HuggingFaceCode"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6a7609d6663f80dd30d388fc",
+      "target": "datasets/RekaAI"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -9706,7 +9711,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-21T08:38:36.284553+00:00",
+  "generated_at": "2026-08-21T09:35:04.318882+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -135767,6 +135772,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a7609d6663f80dd30d388fc",
+      "label": "RekaAI/RekaDaily-10k-raw"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_ACCC1380_private-model",
       "label": "ACCC1380/private-model"
     },
@@ -144852,6 +144862,11 @@
     },
     {
       "category": "models",
+      "id": "model_empero_ai_qwen3_8_4b_distill_gguf",
+      "label": "empero-ai/Qwen3.8-4B-Distill-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_empero_ai_qwen3_8_9b_distill_gguf",
       "label": "empero-ai/Qwen3.8-9B-Distill-GGUF"
     },
@@ -144864,6 +144879,11 @@
       "category": "models",
       "id": "model_empero_ai_qwythos_9b_claude_mythos_5_1m",
       "label": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M"
+    },
+    {
+      "category": "models",
+      "id": "model_enfuse_smol_tools_4b_32k",
+      "label": "enfuse/smol-tools-4b-32k"
     },
     {
       "category": "models",
@@ -145789,6 +145809,11 @@
       "category": "models",
       "id": "model_kosbu_llama_3_3_70b_instruct_awq",
       "label": "kosbu/Llama-3.3-70B-Instruct-AWQ"
+    },
+    {
+      "category": "models",
+      "id": "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
+      "label": "KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS"
     },
     {
       "category": "models",
@@ -147699,6 +147724,11 @@
       "category": "models",
       "id": "model_obliteratus_qwen3_6_27b_obliterated",
       "label": "OBLITERATUS/Qwen3.6-27B-OBLITERATED"
+    },
+    {
+      "category": "models",
+      "id": "model_obliteratus_qwen3_8_27b_obliterated",
+      "label": "OBLITERATUS/Qwen3.8-27B-OBLITERATED"
     },
     {
       "category": "models",
@@ -149784,6 +149814,11 @@
       "category": "models",
       "id": "model_trl_internal_testing_tiny_mistralforcausallm_0_2",
       "label": "trl-internal-testing/tiny-MistralForCausalLM-0.2"
+    },
+    {
+      "category": "models",
+      "id": "model_trl_internal_testing_tiny_nemotronhforcausallm_3_5_lightning",
+      "label": "trl-internal-testing/tiny-NemotronHForCausalLM-3.5-lightning"
     },
     {
       "category": "models",
@@ -447752,6 +447787,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 1941,
-  "total_nodes": 87608
+  "total_edges": 1942,
+  "total_nodes": 87614
 }

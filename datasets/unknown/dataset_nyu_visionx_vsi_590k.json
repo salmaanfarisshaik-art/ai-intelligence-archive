@@ -9,7 +9,7 @@
   "private": false,
   "sha": "346fbd4e41dec974bf24894d0541a49327ee6669",
   "description": "\n\t\n\t\t\n\t\tVSI-590K\n\t\n\nWebsite | Paper | GitHub | Models\nAuthors: Shusheng Yang*, Jihan Yang*, Pinzhi Huang†, Ellis Brown†, et al.\nVSI-590K is a large-scale spatially-focused instruction-tuning dataset focusing on spatial reasoning. The dataset is curated from diverse sources and carefully annotated.\n\n\t\t\n\t\tQuick Start\n\t\n\nimport json\n\n# Load from JSONL file\nwith open('vsi_590k.jsonl', 'r') as f:\n    for line in f:\n        sample = json.loads(line.strip())\n        print(sample)\n        break… See the full description on the dataset page: https://huggingface.co/datasets/nyu-visionx/VSI-590K.",
-  "downloads": 48528,
+  "downloads": 51238,
   "tags": [
     "task_categories:visual-question-answering",
     "task_categories:video-text-to-text",

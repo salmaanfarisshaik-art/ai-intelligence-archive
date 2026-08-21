@@ -1236,6 +1236,10 @@
 - **ID**: model_emhltbkars_xxx
 - **Source**: 
 
+## empero-ai/Qwen3.8-4B-Distill-GGUF
+- **ID**: model_empero_ai_qwen3_8_4b_distill_gguf
+- **Source**: 
+
 ## empero-ai/Qwen3.8-9B-Distill-GGUF
 - **ID**: model_empero_ai_qwen3_8_9b_distill_gguf
 - **Source**: 
@@ -1246,6 +1250,10 @@
 
 ## empero-ai/Qwythos-9B-Claude-Mythos-5-1M
 - **ID**: model_empero_ai_qwythos_9b_claude_mythos_5_1m
+- **Source**: 
+
+## enfuse/smol-tools-4b-32k
+- **ID**: model_enfuse_smol_tools_4b_32k
 - **Source**: 
 
 ## erwanf/gpt2-mini
@@ -1986,6 +1994,10 @@
 
 ## kosbu/Llama-3.3-70B-Instruct-AWQ
 - **ID**: model_kosbu_llama_3_3_70b_instruct_awq
+- **Source**: 
+
+## KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS
+- **ID**: model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class
 - **Source**: 
 
 ## KyleHessling1/Qwopus3.6-27B-Fusion-GGUF
@@ -3514,6 +3526,10 @@
 
 ## OBLITERATUS/Qwen3.6-27B-OBLITERATED
 - **ID**: model_obliteratus_qwen3_6_27b_obliterated
+- **Source**: 
+
+## OBLITERATUS/Qwen3.8-27B-OBLITERATED
+- **ID**: model_obliteratus_qwen3_8_27b_obliterated
 - **Source**: 
 
 ## ocicek/Qwen3.6-27B-NVFP4
@@ -5182,6 +5198,10 @@
 
 ## trl-internal-testing/tiny-MistralForCausalLM-0.2
 - **ID**: model_trl_internal_testing_tiny_mistralforcausallm_0_2
+- **Source**: 
+
+## trl-internal-testing/tiny-NemotronHForCausalLM-3.5-lightning
+- **ID**: model_trl_internal_testing_tiny_nemotronhforcausallm_3_5_lightning
 - **Source**: 
 
 ## trl-internal-testing/tiny-NemotronHForCausalLM-nano

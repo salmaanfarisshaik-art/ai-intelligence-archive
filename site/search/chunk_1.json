@@ -6216,6 +6216,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ferjorosa_bne_hemeroteca_ocr_xix",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_flare_medfm_flare_task1_pancancerrecist_to_3d",
       "match_type": "exact",
       "score": 1.5
@@ -6307,6 +6312,11 @@
     },
     {
       "entity_id": "dataset_gsma_3gpp",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gsma_itu",
       "match_type": "exact",
       "score": 1.5
     },
@@ -11195,6 +11205,11 @@
       "score": 5.5
     },
     {
+      "entity_id": "hf_ds_6a7609d6663f80dd30d388fc",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "dataset_tranxxx_charvastamy",
       "match_type": "exact",
       "score": 4.5
@@ -11786,6 +11801,11 @@
     },
     {
       "entity_id": "dataset_gsma_3gpp",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gsma_itu",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15165,6 +15185,11 @@
     },
     {
       "entity_id": "dataset_skylion007_openwebtext",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_skywork_skypile_150b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -24860,56 +24885,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_physinonep01_physinonep01",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep02_physinonep02",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep03_physinonep03",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep04_physinonep04",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep05_physinonep05",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep06_physinonep06",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep07_physinonep07",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep08_physinonep08",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep09_physinonep09",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_physinonep10_physinonep10",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_s17660101713_hagrid_subset",
       "match_type": "exact",
       "score": 1.0
@@ -25220,6 +25195,11 @@
       "entity_id": "model_puwaer_deepseek_v4_flash_0731_reap_150b_gguf",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "dataset_skywork_skypile_150b",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "hf_datajuicer_LLaMA-1B-dj-refine-150B",
@@ -26491,6 +26471,56 @@
     },
     {
       "entity_id": "dataset_patrickvonplaten_librispeech_asr_dummy",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep01_physinonep01",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep02_physinonep02",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep03_physinonep03",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep04_physinonep04",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep05_physinonep05",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep06_physinonep06",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep07_physinonep07",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep08_physinonep08",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep09_physinonep09",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_physinonep10_physinonep10",
       "match_type": "exact",
       "score": 1.0
     },
@@ -33389,6 +33419,13 @@
       "score": 1.0
     }
   ],
+  "19341": [
+    {
+      "entity_id": "dataset_skywork_skypile_150b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "19348": [
     {
       "entity_id": "model_deepseek_ai_deepseek_v4_flash",
@@ -35663,6 +35700,11 @@
     }
   ],
   "19th": [
+    {
+      "entity_id": "dataset_ferjorosa_bne_hemeroteca_ocr_xix",
+      "match_type": "exact",
+      "score": 4.5
+    },
     {
       "entity_id": "alpaca_3343660115335128597",
       "match_type": "exact",
@@ -37998,6 +38040,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_sii_rhos_ai_vifailback_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_sjtu_ai4sports_soccerwiki",
       "match_type": "exact",
       "score": 1.5
@@ -38749,6 +38796,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ferjorosa_bne_hemeroteca_ocr_xix",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_fixie_ai_covost2",
       "match_type": "exact",
       "score": 1.5
@@ -39380,6 +39432,11 @@
     },
     {
       "entity_id": "dataset_skylion007_openwebtext",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_skywork_skypile_150b",
       "match_type": "exact",
       "score": 1.5
     },

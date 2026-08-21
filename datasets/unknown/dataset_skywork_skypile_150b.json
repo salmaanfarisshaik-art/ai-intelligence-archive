@@ -1,0 +1,33 @@
+{
+  "_id": "65366d2ea2c81a3d29c87f4b",
+  "id": "Skywork/SkyPile-150B",
+  "author": "Skywork",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-12-07T06:11:28.000Z",
+  "likes": 409,
+  "private": false,
+  "sha": "d6395caa3005bcbf21dd80585c15f60004f77ccb",
+  "description": "\n\t\n\t\t\n\t\tSkyPile-150B\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSkyPile-150B is a comprehensive, large-scale Chinese dataset specifically designed for the pre-training of large language models. It is derived from a broad array of publicly accessible Chinese Internet web pages. Rigorous filtering, extensive deduplication, and thorough sensitive data filtering have been employed to ensure its quality. Furthermore, we have utilized advanced tools such as fastText and BERT to filter out low-quality data.\nThe… See the full description on the dataset page: https://huggingface.co/datasets/Skywork/SkyPile-150B.",
+  "downloads": 28564,
+  "tags": [
+    "task_categories:text-generation",
+    "language:zh",
+    "size_categories:1M<n<10M",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2310.19341",
+    "region:us",
+    "llm ",
+    "casual-lm",
+    "language-modeling"
+  ],
+  "createdAt": "2023-10-23T12:55:10.000Z",
+  "key": "",
+  "unique_id": "dataset_skywork_skypile_150b",
+  "schema_version": "1.0"
+}

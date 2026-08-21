@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e60f3ca36aa4108a04b5317d4161c01be622c452",
   "description": "\n\t\n\t\t\n\t\tUS Baby names\n\t\n\nThe SSA dataset with baby names:\nhttps://www.ssa.gov/OACT/babynames/\n\n\t\n\t\t\n\t\tConiferest\n\t\n\nWe use this dataset in the active anomaly discovery Python package coniferest:\nhttps://coniferest.snad.space/en/latest/notebooks/us-names.html\n\n\t\n\t\t\n\t\tUpdate the data\n\t\n\n\nInstall Python packages: pip install requests aiohttp universal_pathlib pandas\nOptionally: download https://www.ssa.gov/OACT/babynames/state/namesbystate.zip\n./run.py PATH_OR_URL_TO_namesbystate.zip, path may be… See the full description on the dataset page: https://huggingface.co/datasets/snad-space/us-names-by-state.",
-  "downloads": 29492,
+  "downloads": 29166,
   "tags": [
     "license:cc0-1.0",
     "size_categories:1M<n<10M",
