@@ -300,6 +300,18 @@
 - **ID**: model_atomicchat_ling_3_0_flash_gguf
 - **Source**: 
 
+## AtomicChat/Qwen3-4B-DFlash-GGUF
+- **ID**: model_atomicchat_qwen3_4b_dflash_gguf
+- **Source**: 
+
+## AtomicChat/Qwen3.5-4B-DFlash-GGUF
+- **ID**: model_atomicchat_qwen3_5_4b_dflash_gguf
+- **Source**: 
+
+## AtomicChat/Qwen3.5-9B-DFlash-GGUF
+- **ID**: model_atomicchat_qwen3_5_9b_dflash_gguf
+- **Source**: 
+
 ## AtomicChat/Qwen3.8-27B-GGUF
 - **ID**: model_atomicchat_qwen3_8_27b_gguf
 - **Source**: 
@@ -1132,6 +1144,14 @@
 - **ID**: model_echarlaix_tiny_random_phiforcausallm
 - **Source**: 
 
+## Edge-Quant/Nanbeige4.1-3B-Q4_K_M-GGUF
+- **ID**: model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf
+- **Source**: 
+
+## Edge-Quant/Nanbeige4.1-3B-Q8_0-GGUF
+- **ID**: model_edge_quant_nanbeige4_1_3b_q8_0_gguf
+- **Source**: 
+
 ## Efficient-Large-Model/gemma-2-2b-it
 - **ID**: model_efficient_large_model_gemma_2_2b_it
 - **Source**: 
@@ -1238,6 +1258,10 @@
 
 ## emhltbkars/xxx
 - **ID**: model_emhltbkars_xxx
+- **Source**: 
+
+## empero-ai/Qwen3.8-2B-Distill-GGUF
+- **ID**: model_empero_ai_qwen3_8_2b_distill_gguf
 - **Source**: 
 
 ## empero-ai/Qwen3.8-4B-Distill-GGUF
@@ -1816,6 +1840,10 @@
 - **ID**: model_inclusionai_ring_2_5_1t
 - **Source**: 
 
+## incoai/Qwen3.8-27B-DFlash2
+- **ID**: model_incoai_qwen3_8_27b_dflash2
+- **Source**: 
+
 ## Inferact/Kimi-K3-DSpark
 - **ID**: model_inferact_kimi_k3_dspark
 - **Source**: 
@@ -2006,6 +2034,10 @@
 
 ## KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS
 - **ID**: model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class
+- **Source**: 
+
+## Kwaipilot/KAT-Coder-V2.5-Dev
+- **ID**: model_kwaipilot_kat_coder_v2_5_dev
 - **Source**: 
 
 ## KyleHessling1/Qwopus3.6-27B-Fusion-GGUF
@@ -3714,6 +3746,10 @@
 
 ## ornith-ai/Ornith-1.5-35B-A3B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-397B-GGUF
+- **ID**: model_ornith_ai_ornith_1_5_397b_gguf
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-9B-GGUF
@@ -6006,6 +6042,10 @@
 
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 - **ID**: model_zdy1995love_mistral_medium_3_5_128b_nvfp4
+- **Source**: 
+
+## zerodigest/Qwen3.8-27B-Uncensored-YMQ-MTP-GGUF
+- **ID**: model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf
 - **Source**: 
 
 ## zerofata/L3.3-GeneticLemonade-Final-v2-70B

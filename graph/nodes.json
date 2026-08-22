@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:25:14.167552+00:00",
+  "generated_at": "2026-08-22T10:21:25.939928+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -114315,6 +114315,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_alonsoapp_tablet_large",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_alphadojo_dojo_sector_precomputed",
       "label": ""
     },
@@ -114736,6 +114741,11 @@
     {
       "category": "datasets",
       "id": "dataset_baber_piqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_babyhari_gt",
       "label": ""
     },
     {
@@ -115350,6 +115360,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_datania_boe",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_datasets_maintainers_dataset_with_standalone_yaml",
       "label": ""
     },
@@ -115626,6 +115641,11 @@
     {
       "category": "datasets",
       "id": "dataset_endomorphosis_common_crawl_pointers_by_collection",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_epfml_fineweb2_hq",
       "label": ""
     },
     {
@@ -116301,6 +116321,11 @@
     {
       "category": "datasets",
       "id": "dataset_hf_vision_course_assets",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_hflqf88888_guiodyssey",
       "label": ""
     },
     {
@@ -118290,6 +118315,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_jarrentwu_dymesh_32f",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_jasperai_monet",
       "label": ""
     },
@@ -119935,6 +119965,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_onfdata_content_202606198246",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_onfdata_content_20260621bc3c",
       "label": ""
     },
@@ -120375,6 +120410,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_physinonep11_physinonep11",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_picbreeder_vlm_picbreeder_vlm_archive",
       "label": ""
     },
@@ -120775,6 +120815,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_rubend18_chatgpt_jailbreak_prompts",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ruediste_codeparrot_github_code_10g",
       "label": ""
     },
@@ -121095,6 +121140,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_singlebicycle_4klsdb",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_sini_21_physicalai_robotics_gr00t_x_embodiment_sim",
       "label": ""
     },
@@ -121226,6 +121276,11 @@
     {
       "category": "datasets",
       "id": "dataset_stev929_landdiscover50k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_stringfellow_fusion_dw",
       "label": ""
     },
     {
@@ -121576,6 +121631,11 @@
     {
       "category": "datasets",
       "id": "dataset_tiiuae_falcon_refinedweb",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_timaeus_dsir_pile_10k",
       "label": ""
     },
     {
@@ -134005,6 +134065,21 @@
     },
     {
       "category": "models",
+      "id": "model_atomicchat_qwen3_4b_dflash_gguf",
+      "label": "AtomicChat/Qwen3-4B-DFlash-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_atomicchat_qwen3_5_4b_dflash_gguf",
+      "label": "AtomicChat/Qwen3.5-4B-DFlash-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_atomicchat_qwen3_5_9b_dflash_gguf",
+      "label": "AtomicChat/Qwen3.5-9B-DFlash-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_atomicchat_qwen3_8_27b_gguf",
       "label": "AtomicChat/Qwen3.8-27B-GGUF"
     },
@@ -135045,6 +135120,16 @@
     },
     {
       "category": "models",
+      "id": "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf",
+      "label": "Edge-Quant/Nanbeige4.1-3B-Q4_K_M-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_edge_quant_nanbeige4_1_3b_q8_0_gguf",
+      "label": "Edge-Quant/Nanbeige4.1-3B-Q8_0-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_efficient_large_model_gemma_2_2b_it",
       "label": "Efficient-Large-Model/gemma-2-2b-it"
     },
@@ -135177,6 +135262,11 @@
       "category": "models",
       "id": "model_emhltbkars_xxx",
       "label": "emhltbkars/xxx"
+    },
+    {
+      "category": "models",
+      "id": "model_empero_ai_qwen3_8_2b_distill_gguf",
+      "label": "empero-ai/Qwen3.8-2B-Distill-GGUF"
     },
     {
       "category": "models",
@@ -135900,6 +135990,11 @@
     },
     {
       "category": "models",
+      "id": "model_incoai_qwen3_8_27b_dflash2",
+      "label": "incoai/Qwen3.8-27B-DFlash2"
+    },
+    {
+      "category": "models",
       "id": "model_inferact_kimi_k3_dspark",
       "label": "Inferact/Kimi-K3-DSpark"
     },
@@ -136137,6 +136232,11 @@
       "category": "models",
       "id": "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "label": "KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS"
+    },
+    {
+      "category": "models",
+      "id": "model_kwaipilot_kat_coder_v2_5_dev",
+      "label": "Kwaipilot/KAT-Coder-V2.5-Dev"
     },
     {
       "category": "models",
@@ -138272,6 +138372,11 @@
       "category": "models",
       "id": "model_ornith_ai_ornith_1_5_35b_a3b_gguf",
       "label": "ornith-ai/Ornith-1.5-35B-A3B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_397b_gguf",
+      "label": "ornith-ai/Ornith-1.5-397B-GGUF"
     },
     {
       "category": "models",
@@ -141137,6 +141242,11 @@
       "category": "models",
       "id": "model_zdy1995love_mistral_medium_3_5_128b_nvfp4",
       "label": "zdy1995love/Mistral-Medium-3.5-128B-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf",
+      "label": "zerodigest/Qwen3.8-27B-Uncensored-YMQ-MTP-GGUF"
     },
     {
       "category": "models",
@@ -438125,5 +438235,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87624
+  "total_nodes": 87646
 }

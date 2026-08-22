@@ -277,6 +277,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_alonsoapp_tablet_large
+- **Source**: 
+
+## 
 - **ID**: dataset_alphadojo_dojo_sector_precomputed
 - **Source**: 
 
@@ -614,6 +618,10 @@
 
 ## 
 - **ID**: dataset_baber_piqa
+- **Source**: 
+
+## 
+- **ID**: dataset_babyhari_gt
 - **Source**: 
 
 ## 
@@ -1105,6 +1113,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_datania_boe
+- **Source**: 
+
+## 
 - **ID**: dataset_datasets_maintainers_dataset_with_standalone_yaml
 - **Source**: 
 
@@ -1326,6 +1338,10 @@
 
 ## 
 - **ID**: dataset_endomorphosis_common_crawl_pointers_by_collection
+- **Source**: 
+
+## 
+- **ID**: dataset_epfml_fineweb2_hq
 - **Source**: 
 
 ## 
@@ -1866,6 +1882,10 @@
 
 ## 
 - **ID**: dataset_hf_vision_course_assets
+- **Source**: 
+
+## 
+- **ID**: dataset_hflqf88888_guiodyssey
 - **Source**: 
 
 ## 
@@ -3457,6 +3477,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jarrentwu_dymesh_32f
+- **Source**: 
+
+## 
 - **ID**: dataset_jasperai_monet
 - **Source**: 
 
@@ -4773,6 +4797,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_onfdata_content_202606198246
+- **Source**: 
+
+## 
 - **ID**: dataset_onfdata_content_20260621bc3c
 - **Source**: 
 
@@ -5125,6 +5153,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_physinonep11_physinonep11
+- **Source**: 
+
+## 
 - **ID**: dataset_picbreeder_vlm_picbreeder_vlm_archive
 - **Source**: 
 
@@ -5445,6 +5477,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_rubend18_chatgpt_jailbreak_prompts
+- **Source**: 
+
+## 
 - **ID**: dataset_ruediste_codeparrot_github_code_10g
 - **Source**: 
 
@@ -5701,6 +5737,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_singlebicycle_4klsdb
+- **Source**: 
+
+## 
 - **ID**: dataset_sini_21_physicalai_robotics_gr00t_x_embodiment_sim
 - **Source**: 
 
@@ -5806,6 +5846,10 @@
 
 ## 
 - **ID**: dataset_stev929_landdiscover50k
+- **Source**: 
+
+## 
+- **ID**: dataset_stringfellow_fusion_dw
 - **Source**: 
 
 ## 
@@ -6086,6 +6130,10 @@
 
 ## 
 - **ID**: dataset_tiiuae_falcon_refinedweb
+- **Source**: 
+
+## 
+- **ID**: dataset_timaeus_dsir_pile_10k
 - **Source**: 
 
 ## 
