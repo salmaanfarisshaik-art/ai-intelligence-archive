@@ -146828,6 +146828,20 @@
       "score": 3.0
     }
   ],
+  "openthaigpt": [
+    {
+      "entity_id": "model_openthaigpt_openthaigpt1_5_7b_instruct",
+      "match_type": "exact",
+      "score": 3.5
+    }
+  ],
+  "openthaigpt1": [
+    {
+      "entity_id": "model_openthaigpt_openthaigpt1_5_7b_instruct",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "openthinker": [
     {
       "entity_id": "dataset_open_thoughts_openthoughts_114k",
@@ -189194,6 +189208,11 @@
     },
     {
       "entity_id": "model_ocicek_qwen3_6_27b_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openthaigpt_openthaigpt1_5_7b_instruct",
       "match_type": "exact",
       "score": 1.5
     },

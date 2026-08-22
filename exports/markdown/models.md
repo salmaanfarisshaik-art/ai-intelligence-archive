@@ -1656,6 +1656,10 @@
 - **ID**: model_huggyllama_llama_7b
 - **Source**: 
 
+## hugohrban/progen2-small
+- **ID**: model_hugohrban_progen2_small
+- **Source**: 
+
 ## huihui-ai/DeepSeek-R1-Distill-Qwen-32B-abliterated
 - **ID**: model_huihui_ai_deepseek_r1_distill_qwen_32b_abliterated
 - **Source**: 
@@ -3182,6 +3186,10 @@
 
 ## NousResearch/Hermes-4-14B
 - **ID**: model_nousresearch_hermes_4_14b
+- **Source**: 
+
+## NousResearch/Llama-2-7b-chat-hf
+- **ID**: model_nousresearch_llama_2_7b_chat_hf
 - **Source**: 
 
 ## NousResearch/Llama-2-7b-hf

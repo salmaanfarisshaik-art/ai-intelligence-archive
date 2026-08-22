@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:31:21Z",
+  "generated_at": "2026-08-22T08:28:11Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1023,6 +1023,9 @@
     "hf_Qwen_Qwen3-Reranker-4B": [
       "hf_Qwen_Qwen3-4B-Base",
       "model_boboliu_qwen3_reranker_4b_w4a16_g128"
+    ],
+    "hf_Qwen_Qwen3-VL-235B-A22B-Instruct": [
+      "model_quanttrio_qwen3_vl_235b_a22b_instruct_awq"
     ],
     "hf_Qwen_Qwen3-VL-30B-A3B-Instruct": [
       "model_quanttrio_qwen3_vl_30b_a3b_instruct_awq"
@@ -2101,6 +2104,7 @@
       "model_uzlm_alloma_3b_instruct"
     ],
     "hf_meta-llama_Llama-3.3-70B-Instruct": [
+      "model_bartowski_llama_3_3_70b_instruct_gguf",
       "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
       "model_kosbu_llama_3_3_70b_instruct_awq",
       "model_maziyarpanahi_llama_3_3_70b_instruct_gguf",
@@ -3321,6 +3325,9 @@
     ],
     "model_bartowski_llama_3_3_70b_instruct_abliterated_gguf": [
       "hf_huihui-ai_Llama-3.3-70B-Instruct-abliterated"
+    ],
+    "model_bartowski_llama_3_3_70b_instruct_gguf": [
+      "hf_meta-llama_Llama-3.3-70B-Instruct"
     ],
     "model_bartowski_meta_llama_3_1_70b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-70B-Instruct"
@@ -5378,6 +5385,9 @@
     ],
     "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
+    "model_quanttrio_qwen3_vl_235b_a22b_instruct_awq": [
+      "hf_Qwen_Qwen3-VL-235B-A22B-Instruct"
     ],
     "model_quanttrio_qwen3_vl_30b_a3b_instruct_awq": [
       "hf_Qwen_Qwen3-VL-30B-A3B-Instruct"
