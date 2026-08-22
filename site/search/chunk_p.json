@@ -181000,6 +181000,20 @@
       "score": 1.0
     }
   ],
+  "progen": [
+    {
+      "entity_id": "model_hugohrban_progen2_small",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "progen2": [
+    {
+      "entity_id": "model_hugohrban_progen2_small",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "progenesis": [
     {
       "entity_id": "alpaca_3738456830252588528",
@@ -223882,6 +223896,11 @@
     },
     {
       "entity_id": "model_mtgv_mobilellama_1_4b_chat",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nousresearch_llama_2_7b_chat_hf",
       "match_type": "exact",
       "score": 1.5
     },
