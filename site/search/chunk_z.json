@@ -1204,6 +1204,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_rubend18_chatgpt_jailbreak_prompts",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_kenpath_svara_tts_v1",
       "match_type": "exact",
       "score": 1.5
@@ -1369,6 +1374,13 @@
       "entity_id": "hf_ds_6937cb3e145e00d96aa5338c",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "zerodigest": [
+    {
+      "entity_id": "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "zeroes": [
@@ -1628,6 +1640,11 @@
     },
     {
       "entity_id": "dataset_disco_eth_worldspeech",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_epfml_fineweb2_hq",
       "match_type": "exact",
       "score": 1.5
     },
@@ -2077,6 +2094,16 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_edge_quant_nanbeige4_1_3b_q8_0_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_facebook_xglm_564m",
       "match_type": "exact",
       "score": 1.5
@@ -2133,6 +2160,11 @@
     },
     {
       "entity_id": "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_kwaipilot_kat_coder_v2_5_dev",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3124,6 +3156,13 @@
   "zihan": [
     {
       "entity_id": "alpaca_4229224816730335232",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zijie": [
+    {
+      "entity_id": "dataset_jarrentwu_dymesh_32f",
       "match_type": "exact",
       "score": 1.0
     }

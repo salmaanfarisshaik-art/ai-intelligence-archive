@@ -9,7 +9,7 @@
   "private": false,
   "sha": "37af21f2109165dc23308fefe77bdf936709485b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMicrosolvated Peptide Ensembles\n\t\n\nThis repository provides explicit-water microsolvated structures for a subset of peptides initialized from ManyPeptidesMD conformers.\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\n\n\t\n\t\t\nPath\nModel\nUse\n\n\n\t\t\ntrajectories/v1/\nAmber14 in TIP3P, cropped to the nearest 128 waters\nPeptide-solvent sampling\n\n\nwebdatasets/v1/train_300K/\nStreamable samples from the 300 K state\nModel training\n\n\nwebdatasets/v1/train_300-500K/\nStreamable samples from all REMD states… See the full description on the dataset page: https://huggingface.co/datasets/niklastr/microsolvated_peptides.",
-  "downloads": 33315,
+  "downloads": 33309,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

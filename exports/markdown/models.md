@@ -436,6 +436,10 @@
 - **ID**: model_bartowski_llama_3_3_70b_instruct_abliterated_gguf
 - **Source**: 
 
+## bartowski/Llama-3.3-70B-Instruct-GGUF
+- **ID**: model_bartowski_llama_3_3_70b_instruct_gguf
+- **Source**: 
+
 ## bartowski/Meta-Llama-3.1-70B-Instruct-GGUF
 - **ID**: model_bartowski_meta_llama_3_1_70b_instruct_gguf
 - **Source**: 
@@ -3632,6 +3636,10 @@
 - **ID**: model_openpipe_qwen3_14b_instruct
 - **Source**: 
 
+## openthaigpt/openthaigpt1.5-7b-instruct
+- **ID**: model_openthaigpt_openthaigpt1_5_7b_instruct
+- **Source**: 
+
 ## OptimizeLLM/Qwen3.5-122B-A10B-heretic-MTP-NVFP4
 - **ID**: model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4
 - **Source**: 
@@ -3894,6 +3902,10 @@
 
 ## QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ
 - **ID**: model_quanttrio_qwen3_coder_30b_a3b_instruct_awq
+- **Source**: 
+
+## QuantTrio/Qwen3-VL-235B-A22B-Instruct-AWQ
+- **ID**: model_quanttrio_qwen3_vl_235b_a22b_instruct_awq
 - **Source**: 
 
 ## QuantTrio/Qwen3-VL-30B-A3B-Instruct-AWQ

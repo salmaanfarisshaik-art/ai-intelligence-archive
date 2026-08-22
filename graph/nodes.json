@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:27:10.736694+00:00",
+  "generated_at": "2026-08-22T09:25:14.167552+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -125965,6 +125965,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69d94b0139920e2fc8631756",
+      "label": "Hoshipu/roboreal_data"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69e7409e244b695efe87097a",
       "label": "PsiBotAI/SynData"
     },
@@ -134170,6 +134175,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_llama_3_3_70b_instruct_gguf",
+      "label": "bartowski/Llama-3.3-70B-Instruct-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_meta_llama_3_1_70b_instruct_gguf",
       "label": "bartowski/Meta-Llama-3.1-70B-Instruct-GGUF"
     },
@@ -138165,6 +138175,11 @@
     },
     {
       "category": "models",
+      "id": "model_openthaigpt_openthaigpt1_5_7b_instruct",
+      "label": "openthaigpt/openthaigpt1.5-7b-instruct"
+    },
+    {
+      "category": "models",
       "id": "model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4",
       "label": "OptimizeLLM/Qwen3.5-122B-A10B-heretic-MTP-NVFP4"
     },
@@ -138492,6 +138507,11 @@
       "category": "models",
       "id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
       "label": "QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ"
+    },
+    {
+      "category": "models",
+      "id": "model_quanttrio_qwen3_vl_235b_a22b_instruct_awq",
+      "label": "QuantTrio/Qwen3-VL-235B-A22B-Instruct-AWQ"
     },
     {
       "category": "models",
@@ -438105,5 +438125,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 87620
+  "total_nodes": 87624
 }

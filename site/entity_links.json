@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:28:11Z",
+  "generated_at": "2026-08-22T09:26:12Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -639,6 +639,21 @@
     {
       "source_id": "model_atomicchat_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_qwen3_4b_dflash_gguf",
+      "target_id": "hf_z-lab_Qwen3-4B-DFlash-b16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_qwen3_5_4b_dflash_gguf",
+      "target_id": "hf_z-lab_Qwen3.5-4B-DFlash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_qwen3_5_9b_dflash_gguf",
+      "target_id": "hf_z-lab_Qwen3.5-9B-DFlash",
       "type": "derived_from"
     },
     {
@@ -1722,6 +1737,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf",
+      "target_id": "hf_Nanbeige_Nanbeige4.1-3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_edge_quant_nanbeige4_1_3b_q8_0_gguf",
+      "target_id": "hf_Nanbeige_Nanbeige4.1-3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_efficient_large_model_gemma_2_2b_it",
       "target_id": "hf_google_gemma-2-2b",
       "type": "derived_from"
@@ -1889,6 +1914,11 @@
     {
       "source_id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
       "target_id": "hf_coder3101_gemma-4-26B-A4B-it-heretic",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_empero_ai_qwen3_8_2b_distill_gguf",
+      "target_id": "hf_empero-ai_Qwen3.8-2B-Distill",
       "type": "derived_from"
     },
     {
@@ -2374,6 +2404,11 @@
     {
       "source_id": "model_inclusionai_ling_mini_2_0",
       "target_id": "hf_inclusionAI_Ling-mini-base-2.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_incoai_qwen3_8_27b_dflash2",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -7839,6 +7874,11 @@
     {
       "source_id": "model_zdy1995love_mistral_medium_3_5_128b_nvfp4",
       "target_id": "hf_mistralai_Mistral-Medium-3.5-128B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf",
+      "target_id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored",
       "type": "derived_from"
     },
     {

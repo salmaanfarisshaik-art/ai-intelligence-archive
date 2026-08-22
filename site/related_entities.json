@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T08:28:11Z",
+  "generated_at": "2026-08-22T09:26:12Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -379,6 +379,9 @@
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m",
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0"
     ],
+    "hf_JonathanColetti_Qwen3.8-27B-Uncensored": [
+      "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf"
+    ],
     "hf_KBlueLeaf_danbooru2023-metadata-database": [
       "model_kblueleaf_tipo_500m",
       "model_kblueleaf_tipo_500m_ft"
@@ -486,6 +489,10 @@
     ],
     "hf_MiniMaxAI_Minimax-M3-preview": [
       "model_inferact_minimax_m3_eagle3"
+    ],
+    "hf_Nanbeige_Nanbeige4.1-3B": [
+      "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf",
+      "model_edge_quant_nanbeige4_1_3b_q8_0_gguf"
     ],
     "hf_Nanbeige_Nanbeige4.2-3B": [
       "model_owao_nanbeige4_2_3b_gguf"
@@ -1105,6 +1112,7 @@
     "hf_Qwen_Qwen3.8-27B": [
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
       "model_atomicchat_qwen3_8_27b_gguf",
+      "model_incoai_qwen3_8_27b_dflash2",
       "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
       "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "model_obliteratus_qwen3_8_27b_obliterated",
@@ -1718,6 +1726,9 @@
     ],
     "hf_elinas_Chronos-Gold-12B-1.0": [
       "model_inflatebot_mn_12b_mag_mell_r1"
+    ],
+    "hf_empero-ai_Qwen3.8-2B-Distill": [
+      "model_empero_ai_qwen3_8_2b_distill_gguf"
     ],
     "hf_empero-ai_Qwen3.8-4B-Distill": [
       "model_empero_ai_qwen3_8_4b_distill_gguf"
@@ -2968,6 +2979,15 @@
     "hf_yuxinlu1_gemma-4-12B-coder-fable5-composer2.5-v1": [
       "model_tpls_gemma_4_12b_coder_fable5_composer2_5_v1_abliterated"
     ],
+    "hf_z-lab_Qwen3-4B-DFlash-b16": [
+      "model_atomicchat_qwen3_4b_dflash_gguf"
+    ],
+    "hf_z-lab_Qwen3.5-4B-DFlash": [
+      "model_atomicchat_qwen3_5_4b_dflash_gguf"
+    ],
+    "hf_z-lab_Qwen3.5-9B-DFlash": [
+      "model_atomicchat_qwen3_5_9b_dflash_gguf"
+    ],
     "hf_z-lab_Qwen3.6-27B-DFlash": [
       "model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp",
       "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16"
@@ -3232,6 +3252,15 @@
     ],
     "model_atomicchat_ling_3_0_flash_gguf": [
       "hf_inclusionAI_Ling-3.0-flash"
+    ],
+    "model_atomicchat_qwen3_4b_dflash_gguf": [
+      "hf_z-lab_Qwen3-4B-DFlash-b16"
+    ],
+    "model_atomicchat_qwen3_5_4b_dflash_gguf": [
+      "hf_z-lab_Qwen3.5-4B-DFlash"
+    ],
+    "model_atomicchat_qwen3_5_9b_dflash_gguf": [
+      "hf_z-lab_Qwen3.5-9B-DFlash"
     ],
     "model_atomicchat_qwen3_8_27b_gguf": [
       "hf_Qwen_Qwen3.8-27B"
@@ -3721,6 +3750,12 @@
     "model_ebircak_gemma_4_31b_it_4bit_w4a16_awq": [
       "hf_google_gemma-4-31B-it"
     ],
+    "model_edge_quant_nanbeige4_1_3b_q4_k_m_gguf": [
+      "hf_Nanbeige_Nanbeige4.1-3B"
+    ],
+    "model_edge_quant_nanbeige4_1_3b_q8_0_gguf": [
+      "hf_Nanbeige_Nanbeige4.1-3B"
+    ],
     "model_efficient_large_model_gemma_2_2b_it": [
       "hf_google_gemma-2-2b"
     ],
@@ -3806,6 +3841,9 @@
     ],
     "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf": [
       "hf_coder3101_gemma-4-26B-A4B-it-heretic"
+    ],
+    "model_empero_ai_qwen3_8_2b_distill_gguf": [
+      "hf_empero-ai_Qwen3.8-2B-Distill"
     ],
     "model_empero_ai_qwen3_8_4b_distill_gguf": [
       "hf_empero-ai_Qwen3.8-4B-Distill"
@@ -4063,6 +4101,9 @@
     ],
     "model_inclusionai_ling_mini_2_0": [
       "hf_inclusionAI_Ling-mini-base-2.0"
+    ],
+    "model_incoai_qwen3_8_27b_dflash2": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_inferact_kimi_k3_dspark": [
       "hf_moonshotai_Kimi-K3"
@@ -6526,6 +6567,9 @@
     ],
     "model_zdy1995love_mistral_medium_3_5_128b_nvfp4": [
       "hf_mistralai_Mistral-Medium-3.5-128B"
+    ],
+    "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf": [
+      "hf_JonathanColetti_Qwen3.8-27B-Uncensored"
     ],
     "model_zerofata_l3_3_geneticlemonade_final_v2_70b": [
       "hf_zerofata_Instruct-Anime-CreativeWriting",

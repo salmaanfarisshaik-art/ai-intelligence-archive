@@ -61,6 +61,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_epfml_fineweb2_hq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_fsicoli_common_voice_22_0",
       "match_type": "exact",
       "score": 1.5
@@ -1383,6 +1388,11 @@
   ],
   "jailbreak": [
     {
+      "entity_id": "dataset_rubend18_chatgpt_jailbreak_prompts",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "dataset_manusagents_visco_attack",
       "match_type": "exact",
       "score": 2.5
@@ -1427,9 +1437,21 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_rubend18_chatgpt_jailbreak_prompts",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/openai-anthropic-safety-evaluation",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "jailbreakprompts": [
+    {
+      "entity_id": "dataset_rubend18_chatgpt_jailbreak_prompts",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "jailbreaks": [
@@ -2892,6 +2914,13 @@
     },
     {
       "entity_id": "alpaca_-6216705926427677822",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jarrentwu": [
+    {
+      "entity_id": "dataset_jarrentwu_dymesh_32f",
       "match_type": "exact",
       "score": 1.0
     }
@@ -11424,6 +11453,11 @@
   ],
   "jonathancoletti": [
     {
+      "entity_id": "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
       "match_type": "exact",
       "score": 2.0
@@ -15202,6 +15236,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_hflqf88888_guiodyssey",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_huggingfaceh4_math_500",
       "match_type": "exact",
       "score": 1.5
@@ -15453,6 +15492,11 @@
     },
     {
       "entity_id": "dataset_tiger_lab_mathinstruct",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_timaeus_dsir_pile_10k",
       "match_type": "exact",
       "score": 1.5
     },
@@ -19641,6 +19685,11 @@
     },
     {
       "entity_id": "dataset_abisee_cnn_dailymail",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_alonsoapp_tablet_large",
       "match_type": "exact",
       "score": 1.0
     },

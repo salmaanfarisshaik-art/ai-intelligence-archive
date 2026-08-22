@@ -772,6 +772,12 @@
 - **URL**: [https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual](https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual)
 - **Tags**: audio, darija, format:parquet, healthcare, language:ar, language:en, language:fr, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, medical, medqa, modality:audio, modality:text, moroccan-arabic, multilingual, question-answering, region:us, size_categories:100K<n<1M, speech, task_categories:automatic-speech-recognition, task_categories:question-answering, task_categories:text-to-speech, trilingual
 
+## Hoshipu/roboreal_data
+- **ID**: hf_ds_69d94b0139920e2fc8631756
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Hoshipu/roboreal_data](https://huggingface.co/datasets/Hoshipu/roboreal_data)
+- **Tags**: region:us
+
 ## PsiBotAI/SynData
 - **ID**: hf_ds_69e7409e244b695efe87097a
 - **Source**: HuggingFace Datasets

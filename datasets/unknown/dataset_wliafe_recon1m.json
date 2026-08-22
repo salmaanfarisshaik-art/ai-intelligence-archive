@@ -9,7 +9,7 @@
   "private": false,
   "sha": "457cdb300cc869517f55da4c9e4bbb22fa00f7cb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tReCon1M\n\t\n\nReCon1M is a remote-sensing scene graph generation dataset derived from\nFAIR1M. This repository packages the local release as structured Hugging Face\nParquet annotations while keeping PNG images as ordinary repository files.\nThe packaged release contains 22,262 images,\n60 object classes, and\n59 predicate classes:\n\n\t\n\t\t\nSplit\nImages\n\n\n\t\t\ntrain\n11,131\n\n\nvalidation\n3,710\n\n\ntest\n7,421\n\n\n\t\n\nThese counts describe the files in this packaged release. They differ from the\ncounts… See the full description on the dataset page: https://huggingface.co/datasets/wliafe/ReCon1M.",
-  "downloads": 30956,
+  "downloads": 30957,
   "tags": [
     "arxiv:2406.06028",
     "region:us"

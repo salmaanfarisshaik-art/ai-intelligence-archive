@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a3b142c183aebe5af344955ae20836eb34dcf69b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDCLM-baseline\n\t\n\nDCLM-baseline is a 4T token / 3B document pretraining dataset that achieves strong performance on language model benchmarks.\nBelow are comparisions of model trained on DCLM-baseline with other models in the 7B regime.\n\n\t\n\t\t\nModel\nParams\nTokens\nOpen dataset?\nCORE\nMMLU\nEXTENDED\n\n\n\t\t\nOpen weights, closed datasets\n\n\n\n\n\n\n\n\nLlama2\n7B\n2T\n✗\n49.2\n45.8\n34.1\n\n\nDeepSeek\n7B\n2T\n✗\n50.7\n48.5\n35.3\n\n\nMistral-0.3\n7B\n?\n✗\n57.0\n62.7\n45.1\n\n\nQWEN-2\n7B\n?\n✗\n57.5\n71.9\n50.5\n\n\nLlama3\n8B\n15T\n✗… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0.",
-  "downloads": 287342,
+  "downloads": 291619,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:1B<n<10B",

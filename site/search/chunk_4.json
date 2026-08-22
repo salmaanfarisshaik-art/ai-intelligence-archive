@@ -2425,6 +2425,11 @@
       "entity_id": "alpaca_1503229437830769336",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_singlebicycle_4klsdb",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "485": [
@@ -2706,6 +2711,16 @@
   "4b": [
     {
       "entity_id": "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_atomicchat_qwen3_4b_dflash_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_atomicchat_qwen3_5_4b_dflash_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -4153,6 +4168,11 @@
       "entity_id": "dataset_internrobotics_omniworld",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_jarrentwu_dymesh_32f",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "4d4b1d795eeb": [
@@ -4228,6 +4248,11 @@
   ],
   "4k": [
     {
+      "entity_id": "dataset_singlebicycle_4klsdb",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "alpaca_47092557497220400",
       "match_type": "exact",
       "score": 3.0
@@ -4301,6 +4326,13 @@
       "entity_id": "dataset_openlifescienceai_medmcqa",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "4klsdb": [
+    {
+      "entity_id": "dataset_singlebicycle_4klsdb",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "4m": [

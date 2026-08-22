@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "AiEDA/iDATA",
   "description": "\n\t\n\t\t\n\t\tDataset\n\t\n\n\n \n A dataset of AI + EDA\n\n\niDATA is a dataset of AI + EDA, which can be used to train AI models for design PPA prediction, PPA-aware physical design, and related tasks.\n\n\t\n\t\t\n\t\tDataset structure\n\t\n\nDescribe the dataset structure.\naes/\n├── iEDA_route_process_data/    # Process data exported by iEDA-iRT 2D routing\n├── syn_netlist/                # The synthesized netlist files、sdc files\n├── place/          # The place stage def、sdc、vectors\n└── route/          # The route… See the full description on the dataset page: https://huggingface.co/datasets/AiEDA/iDATA.",
-  "size": "191144",
+  "size": "197154",
   "source_url": "https://huggingface.co/datasets/AiEDA/iDATA",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "095591b95a517e465d7cec7385b2e4c4f4c389b8",
     "description": "\n\t\n\t\t\n\t\tDataset\n\t\n\n\n \n A dataset of AI + EDA\n\n\niDATA is a dataset of AI + EDA, which can be used to train AI models for design PPA prediction, PPA-aware physical design, and related tasks.\n\n\t\n\t\t\n\t\tDataset structure\n\t\n\nDescribe the dataset structure.\naes/\n├── iEDA_route_process_data/    # Process data exported by iEDA-iRT 2D routing\n├── syn_netlist/                # The synthesized netlist files、sdc files\n├── place/          # The place stage def、sdc、vectors\n└── route/          # The route… See the full description on the dataset page: https://huggingface.co/datasets/AiEDA/iDATA.",
-    "downloads": 191144,
+    "downloads": 197154,
     "tags": [
       "license:gpl",
       "region:us",
@@ -29,7 +29,7 @@
     "createdAt": "2025-10-16T04:07:24.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-08-21T09:34:54.621198+00:00",
+  "retrieval_timestamp": "2026-08-22T09:25:04.616890+00:00",
   "last_updated": "2025-12-12T07:18:22.000Z",
   "links": {
     "related_models": [
