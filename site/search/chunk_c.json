@@ -86791,6 +86791,11 @@
   ],
   "chat": [
     {
+      "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_maziyarpanahi_yi_1_5_6b_chat_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -88382,6 +88387,13 @@
       "entity_id": "alpaca_4670010124954521276",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "chatglm": [
+    {
+      "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "chatglm6b": [
@@ -182397,6 +182409,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_openlm_research_open_llama_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_openonerec_onereason_0_8b_pretrain_competition",
       "match_type": "exact",
       "score": 1.5
@@ -244800,6 +244817,11 @@
     },
     {
       "entity_id": "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
       "match_type": "exact",
       "score": 1.5
     },

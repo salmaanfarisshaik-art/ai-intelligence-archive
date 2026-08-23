@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:38:54Z",
+  "generated_at": "2026-08-23T07:32:58Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -2882,6 +2882,7 @@
     ],
     "hf_togethercomputer_RedPajama-Data-1T": [
       "model_bsc_lt_salamandra_7b_instruct",
+      "model_openlm_research_open_llama_7b",
       "model_stabilityai_stablelm_3b_4e1t"
     ],
     "hf_togethercomputer_RedPajama-Data-V2": [
@@ -3036,6 +3037,9 @@
     ],
     "hf_zai-org_GLM-5.2-FP8": [
       "model_phalacloud_glm_5_2_w4afp8"
+    ],
+    "hf_zai-org_glm-4-9b-chat": [
+      "model_legraphista_glm_4_9b_chat_imat_gguf"
     ],
     "hf_zake7749_Qwen3.6-35B-A3B-Tool-Calling": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
@@ -4238,6 +4242,9 @@
     "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16": [
       "hf_z-lab_Qwen3.6-27B-DFlash"
     ],
+    "model_legraphista_glm_4_9b_chat_imat_gguf": [
+      "hf_zai-org_glm-4-9b-chat"
+    ],
     "model_lewtun_talkie_1930_13b_it_hf": [
       "hf_talkie-lm_talkie-1930-13b-it"
     ],
@@ -5296,6 +5303,9 @@
       "hf_allenai_tulu-3-sft-personas-math-grade",
       "hf_cmh_alpaca_data_cleaned_fr_52k",
       "hf_teknium_OpenHermes-2.5"
+    ],
+    "model_openlm_research_open_llama_7b": [
+      "hf_togethercomputer_RedPajama-Data-1T"
     ],
     "model_openpipe_qwen3_14b_instruct": [
       "hf_Qwen_Qwen3-14B-Base"

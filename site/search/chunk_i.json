@@ -30456,6 +30456,13 @@
       "score": 1.0
     }
   ],
+  "imat": [
+    {
+      "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    }
+  ],
   "imatrix": [
     {
       "entity_id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
@@ -30684,6 +30691,11 @@
     },
     {
       "entity_id": "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -133554,6 +133566,11 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openlm_research_open_llama_7b",
       "match_type": "exact",
       "score": 1.5
     },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T06:38:54Z",
+  "generated_at": "2026-08-23T07:32:58Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2717,6 +2717,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
+      "target_id": "hf_zai-org_glm-4-9b-chat",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_lewtun_talkie_1930_13b_it_hf",
       "target_id": "hf_talkie-lm_talkie-1930-13b-it",
       "type": "derived_from"
@@ -5369,6 +5374,11 @@
     {
       "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
       "target_id": "hf_teknium_OpenHermes-2.5",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openlm_research_open_llama_7b",
+      "target_id": "hf_togethercomputer_RedPajama-Data-1T",
       "type": "trained_on"
     },
     {
