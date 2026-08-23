@@ -389,6 +389,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_applied_ai_018_peacock_data_public_datasets_idc
+- **Source**: 
+
+## 
 - **ID**: dataset_applied_ai_018_pretraining_v1_omega
 - **Source**: 
 
@@ -581,6 +585,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_avocahdoe_slanext_wired_raw_datasets
+- **Source**: 
+
+## 
 - **ID**: dataset_awwaawwa_babeldoc_assets
 - **Source**: 
 
@@ -622,6 +630,10 @@
 
 ## 
 - **ID**: dataset_babyhari_gt
+- **Source**: 
+
+## 
+- **ID**: dataset_bachmacthanh_dangdevvh
 - **Source**: 
 
 ## 
@@ -1617,6 +1629,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gfdg34fsd_newe
+- **Source**: 
+
+## 
 - **ID**: dataset_gfdg34fsd_ngrik
 - **Source**: 
 
@@ -1729,6 +1745,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_griffinlabs_interndata_a1_lerobot_v3_0_by_embodiment
+- **Source**: 
+
+## 
 - **ID**: dataset_gsdf_easynegative
 - **Source**: 
 
@@ -1786,6 +1806,10 @@
 
 ## 
 - **ID**: dataset_hasankursun_github_code_2025_language_split
+- **Source**: 
+
+## 
+- **ID**: dataset_hatemestinbejaia_experimentdata_knowledge_distillation_vs_fine_tuning
 - **Source**: 
 
 ## 
@@ -3497,6 +3521,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jbrightmanai_pdfa_eng_wds
+- **Source**: 
+
+## 
 - **ID**: dataset_jdrj_kjv_bible
 - **Source**: 
 
@@ -4737,6 +4765,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nyarlathotep12_mxstuff
+- **Source**: 
+
+## 
 - **ID**: dataset_nyu_mll_blimp
 - **Source**: 
 
@@ -5361,6 +5393,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_reactiveai_beta_pre_train_corpus
+- **Source**: 
+
+## 
 - **ID**: dataset_readyai_organic_query_results_dataset
 - **Source**: 
 
@@ -5445,6 +5481,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_robotooldataset_tooldex_data
+- **Source**: 
+
+## 
 - **ID**: dataset_ronaldodd_banned_historical_archives
 - **Source**: 
 
@@ -5494,6 +5534,10 @@
 
 ## 
 - **ID**: dataset_rukaway_gs_scenes
+- **Source**: 
+
+## 
+- **ID**: dataset_ruoliuyang_textlatent_zebra_thinkmorph_armab
 - **Source**: 
 
 ## 
@@ -6338,6 +6382,10 @@
 
 ## 
 - **ID**: dataset_vuquocbao19944_vuquocbao19944
+- **Source**: 
+
+## 
+- **ID**: dataset_vuthuy1987_vuthuy1987
 - **Source**: 
 
 ## 

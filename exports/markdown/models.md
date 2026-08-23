@@ -1848,6 +1848,10 @@
 - **ID**: model_incoai_qwen3_8_27b_dflash2
 - **Source**: 
 
+## incoai/Qwen3.8-27B-DFlash2-GGUF
+- **ID**: model_incoai_qwen3_8_27b_dflash2_gguf
+- **Source**: 
+
 ## Inferact/Kimi-K3-DSpark
 - **ID**: model_inferact_kimi_k3_dspark
 - **Source**: 
@@ -2058,6 +2062,10 @@
 
 ## LargitData/gemma-4-26b-a4b-it-fp8
 - **ID**: model_largitdata_gemma_4_26b_a4b_it_fp8
+- **Source**: 
+
+## latam-gpt/Llama-3.1-70B-LatamGPT-SFT-1.0
+- **ID**: model_latam_gpt_llama_3_1_70b_latamgpt_sft_1_0
 - **Source**: 
 
 ## LeaderboardModel1/Qwen3.6-27B-DFlash-autoround-W4A16
@@ -3760,6 +3768,10 @@
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-35B-A3B-NVFP4
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_nvfp4
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-397B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_397b_gguf
 - **Source**: 
@@ -4868,6 +4880,10 @@
 - **ID**: model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf
 - **Source**: 
 
+## shafire/Zero-Gemma4-E4B-OpenZero-GGUF
+- **ID**: model_shafire_zero_gemma4_e4b_openzero_gguf
+- **Source**: 
+
 ## shibing624/macbert4csc-base-chinese
 - **ID**: model_shibing624_macbert4csc_base_chinese
 - **Source**: 
@@ -5950,6 +5966,10 @@
 
 ## Youssofal/Qwen3.6-27B-MTPLX-Optimized-Speed
 - **ID**: model_youssofal_qwen3_6_27b_mtplx_optimized_speed
+- **Source**: 
+
+## Youssofal/Qwen3.8-27B-MTPLX-Optimized-Speed
+- **ID**: model_youssofal_qwen3_8_27b_mtplx_optimized_speed
 - **Source**: 
 
 ## yuhuili/EAGLE-LLaMA3-Instruct-8B
