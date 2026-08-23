@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T07:32:58Z",
+  "generated_at": "2026-08-23T08:28:38Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -6252,6 +6252,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_redhatai_deepseek_r1_distill_qwen_32b_fp8_dynamic",
+      "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-32B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_redhatai_deepseek_v4_flash_nvfp4_fp8",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
       "type": "derived_from"
@@ -7529,6 +7534,11 @@
     {
       "source_id": "model_unsloth_qwen2_5_coder_1_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_qwen2_5_coder_7b_instruct",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
       "type": "derived_from"
     },
     {

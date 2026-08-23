@@ -2060,6 +2060,10 @@
 - **ID**: model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16
 - **Source**: 
 
+## legraphista/glm-4-9b-chat-IMat-GGUF
+- **ID**: model_legraphista_glm_4_9b_chat_imat_gguf
+- **Source**: 
+
 ## lewtun/talkie-1930-13b-it-hf
 - **ID**: model_lewtun_talkie_1930_13b_it_hf
 - **Source**: 
@@ -3650,6 +3654,10 @@
 
 ## OpenLLM-France/Lucie-7B-Instruct-v1.1
 - **ID**: model_openllm_france_lucie_7b_instruct_v1_1
+- **Source**: 
+
+## openlm-research/open_llama_7b
+- **ID**: model_openlm_research_open_llama_7b
 - **Source**: 
 
 ## OpenMOSS-Team/MOSS-Transcribe-Diarize
