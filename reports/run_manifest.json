@@ -2,15 +2,16 @@
   "commit_created": false,
   "dry_run": false,
   "files_added": 0,
-  "files_modified": 58,
+  "files_modified": 0,
   "files_removed": 0,
-  "modules_failed": [],
+  "modules_failed": [
+    "tool"
+  ],
   "modules_run": [
     "benchmark",
     "model",
     "prompt",
     "dataset",
-    "tool",
     "news",
     "indexes_legacy",
     "entity_indexer",
@@ -57,13 +58,13 @@
     "timeline_generator",
     "artifact_manifest_generator"
   ],
-  "phase8_status": "success",
+  "phase8_status": "skipped_due_to_upstream_failure",
   "phase_8_5": {
     "archive_statistics_run": true,
     "mass_expansion_run": true
   },
   "push_completed": false,
-  "run_id": "run_1787440750",
+  "run_id": "run_1787447534",
   "site_regenerated": false,
-  "timestamp": "2026-08-22T23:20:27.716313+00:00"
+  "timestamp": "2026-08-23T01:15:45.227348+00:00"
 }
