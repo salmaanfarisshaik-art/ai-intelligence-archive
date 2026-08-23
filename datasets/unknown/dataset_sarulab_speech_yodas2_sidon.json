@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7c905ae21ac78e0f393bfa5f8b1c86efb1d0108f",
   "description": "\n\t\n\t\t\n\t\tYODAS2-Sidon\n\t\n\n\n\t\n\t\t\n\t\tOverview\n\t\n\nThis dataset is a cleansed version of YODAS-2 with Sidon speech restoration mode for Speech Synthesis and Spoken Language Modeling.  \nYODAS-2 is a massive, multilingual YouTube-derived dataset. We have applied the Sidon restoration model to remove background noise and enhance audio quality, making it suitable for high-quality generation tasks.\nWe resampled original sidon output to 24kHz due to a storage constraints.\nThe dataset is provided in… See the full description on the dataset page: https://huggingface.co/datasets/sarulab-speech/yodas2_sidon.",
-  "downloads": 106959,
+  "downloads": 108853,
   "tags": [
     "task_categories:text-to-speech",
     "task_categories:automatic-speech-recognition",

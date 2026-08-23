@@ -1,0 +1,24 @@
+{
+  "_id": "69fac30bd21ba7df9302f6bd",
+  "id": "RoboToolDataset/ToolDEX-Data",
+  "author": "RoboToolDataset",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-08-15T00:32:32.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "610a1f8ee5cdf475384725d3a8e7295e9822406b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tToolDEX\n\t\n\nTOOLDEX is a large-scale egocentric-exocentric (ego-exo)\nhuman demonstration dataset for creative physical tool use. It contains\nepisodes with different tools, objects, and actions recorded from multiple RGB\nand depth cameras.\n\n\t\n\t\t\n\t\n\t\n\t\tContents\n\t\n\n\nMulti-view RGB and depth videos for each episode\nEpisode-level task, tool, action, and object metadata\nTool mesh metadata when available\n\n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\ntasks/<task_name>/<episode_id>/<annotations or raw data>/… See the full description on the dataset page: https://huggingface.co/datasets/RoboToolDataset/ToolDEX-Data.",
+  "downloads": 28616,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:10K<n<100K",
+    "modality:text",
+    "modality:video",
+    "region:us"
+  ],
+  "createdAt": "2026-05-06T04:26:51.000Z",
+  "key": "",
+  "unique_id": "dataset_robotooldataset_tooldex_data",
+  "schema_version": "1.0"
+}

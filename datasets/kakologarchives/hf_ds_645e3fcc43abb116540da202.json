@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "KakologArchives/KakologArchives",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
-  "size": "3168387",
+  "size": "3526581",
   "source_url": "https://huggingface.co/datasets/KakologArchives/KakologArchives",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,12 +14,12 @@
     "author": "KakologArchives",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-08-23T08:22:34.000Z",
+    "lastModified": "2026-08-23T09:22:44.000Z",
     "likes": 75,
     "private": false,
-    "sha": "6bc5d410d01c30bf0cb3c5867e101aaea61e6d14",
+    "sha": "3959085fd9d8b21deaade8e122b7b78e0fca1860",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tニコニコ実況 過去ログアーカイブ\n\t\n\nニコニコ実況 過去ログアーカイブは、ニコニコ実況 のサービス開始から現在までのすべての過去ログコメントを収集したデータセットです。\n去る2020年12月、ニコニコ実況は ニコニコ生放送内の一公式チャンネルとしてリニューアル されました。これに伴い、2009年11月から運用されてきた旧システムは提供終了となり（事実上のサービス終了）、torne や BRAVIA などの家電への対応が軒並み終了する中、当時の生の声が詰まった約11年分の過去ログも同時に失われることとなってしまいました。\nそこで 5ch の DTV 板の住民が中心となり、旧ニコニコ実況が終了するまでに11年分の全チャンネルの過去ログをアーカイブする計画が立ち上がりました。紆余曲折あり Nekopanda 氏が約11年分のラジオや BS も含めた全チャンネルの過去ログを完璧に取得してくださったおかげで、11年分の過去ログが電子の海に消えていく事態は回避できました。しかし、旧 API が廃止されてしまったため過去ログを API… See the full description on the dataset page: https://huggingface.co/datasets/KakologArchives/KakologArchives.",
-    "downloads": 3168387,
+    "downloads": 3526581,
     "tags": [
       "task_categories:text-classification",
       "language:ja",
@@ -29,8 +29,8 @@
     "createdAt": "2023-05-12T13:31:56.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-08-23T08:27:41.684457+00:00",
-  "last_updated": "2026-08-23T08:22:34.000Z",
+  "retrieval_timestamp": "2026-08-23T09:25:52.382083+00:00",
+  "last_updated": "2026-08-23T09:22:44.000Z",
   "links": {
     "related_models": [
       "datasets/KakologArchives"

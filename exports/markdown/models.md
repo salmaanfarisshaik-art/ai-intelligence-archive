@@ -1788,6 +1788,10 @@
 - **ID**: model_ibm_granite_granite_docling_258m
 - **Source**: 
 
+## ibm-granite/granite-guardian-3.3-8b
+- **ID**: model_ibm_granite_granite_guardian_3_3_8b
+- **Source**: 
+
 ## ibm-granite/granite-guardian-4.1-8b
 - **ID**: model_ibm_granite_granite_guardian_4_1_8b
 - **Source**: 
@@ -4632,6 +4636,10 @@
 - **ID**: model_redhatai_deepseek_coder_v2_lite_instruct_fp8
 - **Source**: 
 
+## RedHatAI/DeepSeek-R1-Distill-Qwen-32B-FP8-dynamic
+- **ID**: model_redhatai_deepseek_r1_distill_qwen_32b_fp8_dynamic
+- **Source**: 
+
 ## RedHatAI/DeepSeek-V2.5-1210-FP8
 - **ID**: model_redhatai_deepseek_v2_5_1210_fp8
 - **Source**: 
@@ -5690,6 +5698,10 @@
 
 ## unsloth/Qwen2.5-Coder-1.5B-Instruct
 - **ID**: model_unsloth_qwen2_5_coder_1_5b_instruct
+- **Source**: 
+
+## unsloth/Qwen2.5-Coder-7B-Instruct
+- **ID**: model_unsloth_qwen2_5_coder_7b_instruct
 - **Source**: 
 
 ## unsloth/Qwen2.5-Coder-7B-Instruct-bnb-4bit

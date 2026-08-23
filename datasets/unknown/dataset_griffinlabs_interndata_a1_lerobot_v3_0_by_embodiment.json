@@ -1,0 +1,29 @@
+{
+  "_id": "69c7967efe447dce1a661879",
+  "id": "griffinlabs/InternData-A1-LeRobot-v3.0-by-embodiment",
+  "author": "griffinlabs",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-25T14:16:00.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "c621c2e12e1f4aaa634f3d89e3573ca969087235",
+  "description": "InternData-A1 dataset taken from InternRobotics/InternData-A1,\nwith the tarballs extracted and directory structure \"transposed\" so that the top-level subdirectories are the four embodiments.\n\n\t\n\t\t\n\t\n\t\n\t\tTwo franka dirs\n\t\n\nFor the franka embodiment, there are two different feature spaces, so we split it into the franka-1 and franka-2 directories.\nThe feature spaces differ in image shape and gripper value range.\n\n\t\n\t\t\n\t\n\t\n\t\tMinor fixes\n\t\n\nSome subsets such as… See the full description on the dataset page: https://huggingface.co/datasets/griffinlabs/InternData-A1-LeRobot-v3.0-by-embodiment.",
+  "downloads": 29660,
+  "tags": [
+    "task_categories:robotics",
+    "language:en",
+    "license:cc-by-nc-sa-4.0",
+    "size_categories:100K<n<1M",
+    "modality:tabular",
+    "modality:timeseries",
+    "modality:video",
+    "region:us",
+    "Embodied-AI",
+    "Robotic manipulation"
+  ],
+  "createdAt": "2026-03-28T08:51:10.000Z",
+  "key": "",
+  "unique_id": "dataset_griffinlabs_interndata_a1_lerobot_v3_0_by_embodiment",
+  "schema_version": "1.0"
+}

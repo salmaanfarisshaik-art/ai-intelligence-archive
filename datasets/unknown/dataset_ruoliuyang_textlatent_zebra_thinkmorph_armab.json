@@ -1,0 +1,29 @@
+{
+  "_id": "6a39636d786b7bae82c9b4a2",
+  "id": "RuoliuYang/textlatent_zebra_thinkmorph_armAB",
+  "author": "RuoliuYang",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-17T22:54:15.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "a6e05f109a77edfbff8233608e6a2bc200109084",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tText-Latent (Arm A) vs All-Latent (Arm B) — Zebra-CoT + ThinkMorph\n\t\n\n35638 samples/arm, 18 categories. Schema = ULVR/williamium style (sample_id, category, source_dataset,\nquestion, answer, input_image, intermediate_image_N, num_intermediate_steps, messages_json).\n\narmA_text_latent: real decoded text CoT + latent visual blocks (intermediate_image_1..3).\narmB_render_latent: reasoning text RENDERED to images, all-latent baseline (intermediate_image_1..17).\nmessages_json = full Monet… See the full description on the dataset page: https://huggingface.co/datasets/RuoliuYang/textlatent_zebra_thinkmorph_armAB.",
+  "downloads": 29852,
+  "tags": [
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "format:optimized-parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-06-22T16:31:41.000Z",
+  "key": "",
+  "unique_id": "dataset_ruoliuyang_textlatent_zebra_thinkmorph_armab",
+  "schema_version": "1.0"
+}

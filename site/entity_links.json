@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:28:38Z",
+  "generated_at": "2026-08-23T09:27:03Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2412,6 +2412,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_incoai_qwen3_8_27b_dflash2_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_inferact_kimi_k3_dspark",
       "target_id": "hf_moonshotai_Kimi-K3",
       "type": "derived_from"
@@ -2709,6 +2714,11 @@
     {
       "source_id": "model_largitdata_gemma_4_26b_a4b_it_fp8",
       "target_id": "hf_google_gemma-4-26B-A4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_latam_gpt_llama_3_1_70b_latamgpt_sft_1_0",
+      "target_id": "hf_meta-llama_Llama-3.1-70B",
       "type": "derived_from"
     },
     {
@@ -6512,6 +6522,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_shafire_zero_gemma4_e4b_openzero_gguf",
+      "target_id": "hf_unsloth_gemma-4-E4B-it",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_shibing624_macbert4csc_base_chinese",
       "target_id": "hf_shibing624_CSC",
       "type": "trained_on"
@@ -7849,6 +7864,11 @@
     {
       "source_id": "model_yentinglin_llama_3_taiwan_8b_instruct",
       "target_id": "hf_meta-llama_Meta-Llama-3-70B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {

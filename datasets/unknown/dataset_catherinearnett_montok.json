@@ -9,7 +9,7 @@
   "private": false,
   "sha": "33d1f6d5a6174dc984a551b56ddd287a8ea5f106",
   "description": "\n\t\n\t\t\n\t\tMonTok: A Suite of Monolingual Tokenizers\n\t\n\nThis is a set of monolingual tokenizers for 98 languages. For each language, there are Unigram, BPE, and SuperBPE tokenizers, ranging in vocabulary size from around 6k to over 200k.\n\n\t\n\t\t\n\t\tTraining Details\n\t\n\n\n\t\n\t\t\n\t\tTraining Data\n\t\n\nAll tokenizers are trained on samples of the data used to the train the Goldfish language models. \nThe tokenizers were either trained on scaled or unscaled data. This refers to whether the models are trained on… See the full description on the dataset page: https://huggingface.co/datasets/catherinearnett/montok.",
-  "downloads": 30090,
+  "downloads": 30117,
   "tags": [
     "language:afr",
     "language:als",

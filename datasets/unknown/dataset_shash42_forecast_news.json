@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3e1980d6b75e5210d2c7e8b27634eaccf75cef74",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tForecast News\n\t\n\nDeduplicated daily news corpus used by forecast-sim and future-sim.\n\n\t\n\t\t\n\t\n\t\n\t\tSnapshot\n\t\n\n\n31,696,086 articles\n3,401 daily partitions\nCoverage: 2016-08-26 through 2026-06-30\nSnapshot published: 2026-07-13\nStored data size: approximately 168.8 GB\n\nThe Parquet files are the canonical complete representation. The repository also\ncontains daily JSONL files where available and compact headline JSON files used\nby article-browsing workflows.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\nFiles… See the full description on the dataset page: https://huggingface.co/datasets/shash42/forecast-news.",
-  "downloads": 222258,
+  "downloads": 231356,
   "tags": [
     "license:apache-2.0",
     "size_categories:10M<n<100M",

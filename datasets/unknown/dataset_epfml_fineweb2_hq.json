@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c0c06e94fd3a44ae9e802b2b0fc533817601eb5e",
   "description": "\n\t\n\t\t\n\t\tFineWeb2-HQ\n\t\n\n\n\t\n\t\t\n\t\tDataset summary\n\t\n\nFineWeb2-HQ is a high-quality, model-filtered pretraining dataset derived as a subset of FineWeb2, spanning 20 languages. It enables around 6x faster pretraining compared to the base dataset. FineWeb2-HQ was created by selecting the top 10% quality documents of FineWeb2 in each language, based on scores assigned by a deep learning classifier trained to identify structured and knowledge-rich samples using XLM-RoBERTa embeddings.\n\n  \n\n\nValidation… See the full description on the dataset page: https://huggingface.co/datasets/epfml/FineWeb2-HQ.",
-  "downloads": 29840,
+  "downloads": 30178,
   "tags": [
     "task_categories:text-generation",
     "language:ru",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d6c7b1e4cb36e544751335888a681e280998651f",
   "description": "\nEval logs + exact oracle for zero-shot Symbolic Alchemy (no-summary / summary-replace / summary-augment).\nData: <model>/<condition>/{results.jsonl,summary.json,normalized.json,traj/}; oracle_all_episodes.json\n(exact oracle, ALL 1000); difficulty_index.json; hard_set_20.json. Analysis: QWEN_FAILURE_MODES.md,\nQWEN_SUMMARY_DRIFT.md. Full method/results below.\n\n\n\t\n\t\t\n\t\n\t\n\t\tSymbolic Alchemy — Memory-RL: training + eval trajectories\n\t\n\nThis repo now holds BOTH (1) the frontier-model eval baseline… See the full description on the dataset page: https://huggingface.co/datasets/Racktic/alchemy-eval-logs.",
-  "downloads": 38623,
+  "downloads": 38603,
   "tags": [
     "region:us",
     "reinforcement-learning",
