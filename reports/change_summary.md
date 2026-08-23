@@ -1,49 +1,38 @@
 # Change Summary
 
-**Total Changes:** 80
+**Total Changes:** 66
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
+- datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
-- exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/radixark/hf_RadixArk_Kimi-K3-DSpark.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
-- tools/github-trending/gh_1032459340.json
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
@@ -56,12 +45,8 @@ None
 - tools/github-trending/gh_1162099055.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
-- tools/github-trending/gh_1201656210.json
-- tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
-- tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
 - tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
@@ -77,6 +62,7 @@ None
 - tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
+- tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
 - tools/github-trending/gh_730534580.json
 - tools/github-trending/gh_787076358.json
