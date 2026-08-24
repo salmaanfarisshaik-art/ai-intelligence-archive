@@ -2401,6 +2401,11 @@
 - **URL**: [https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)
 
 ## 
+- **ID**: rss_https://openai.com/index/gpt-5-6-in-kiro
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/gpt-5-6-in-kiro](https://openai.com/index/gpt-5-6-in-kiro)
+
+## 
 - **ID**: rss_https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot](https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot)
