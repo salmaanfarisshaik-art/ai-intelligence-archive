@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b715348082bcc0c2dc4fbfa1a4230bf71ec10159",
   "description": "\n\t\n\t\t\n\t\tWRF 250m Severe Weather Simulations — Raw WRF Output\n\t\n\n2 TB of raw WRF-ARW v4.7.1 output from 18 high-impact weather events at 250m resolution. Three nested domains (3km / 1km / 250m), 81 vertical levels, 216 variables per wrfout file, 1-minute surface output via auxhist2. This is the full simulation output — nothing removed, nothing derived.\nIf you want pre-extracted surface fields in a simpler format, see wrf-250m-severe-weather-netcdf4 (16 fields, ~150 GB).\n\nThis dataset is… See the full description on the dataset page: https://huggingface.co/datasets/deepguess/wrf-250m-severe-weather.",
-  "downloads": 43557,
+  "downloads": 43187,
   "tags": [
     "task_categories:other",
     "task_categories:time-series-forecasting",

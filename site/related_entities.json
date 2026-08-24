@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:50:50Z",
+  "generated_at": "2026-08-24T09:46:02Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1120,7 +1120,8 @@
       "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "model_obliteratus_qwen3_8_27b_obliterated",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
-      "model_youssofal_qwen3_8_27b_mtplx_optimized_speed"
+      "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
+      "model_z_lab_qwen3_8_27b_dflash2"
     ],
     "hf_RASA": [
       "model_kenpath_svara_tts_v1"
@@ -2698,19 +2699,23 @@
     ],
     "hf_openbmb_Ultra-FineWeb": [
       "model_openbmb_minicpm5_1b",
-      "model_openbmb_minicpm5_1b_gguf"
+      "model_openbmb_minicpm5_1b_gguf",
+      "model_openbmb_minicpm5_1b_mlx"
     ],
     "hf_openbmb_Ultra-FineWeb-L3": [
       "model_openbmb_minicpm5_1b",
-      "model_openbmb_minicpm5_1b_gguf"
+      "model_openbmb_minicpm5_1b_gguf",
+      "model_openbmb_minicpm5_1b_mlx"
     ],
     "hf_openbmb_UltraData-Math": [
       "model_openbmb_minicpm5_1b",
-      "model_openbmb_minicpm5_1b_gguf"
+      "model_openbmb_minicpm5_1b_gguf",
+      "model_openbmb_minicpm5_1b_mlx"
     ],
     "hf_openbmb_UltraData-SFT-2605": [
       "model_openbmb_minicpm5_1b",
-      "model_openbmb_minicpm5_1b_gguf"
+      "model_openbmb_minicpm5_1b_gguf",
+      "model_openbmb_minicpm5_1b_mlx"
     ],
     "hf_openlifescienceai_medmcqa": [
       "model_s4nfs_neeto_1_0_8b"
@@ -5308,6 +5313,12 @@
       "hf_openbmb_UltraData-Math",
       "hf_openbmb_UltraData-SFT-2605"
     ],
+    "model_openbmb_minicpm5_1b_mlx": [
+      "hf_openbmb_Ultra-FineWeb",
+      "hf_openbmb_Ultra-FineWeb-L3",
+      "hf_openbmb_UltraData-Math",
+      "hf_openbmb_UltraData-SFT-2605"
+    ],
     "model_openllm_france_lucie_7b_instruct_v1_1": [
       "hf_Gael540_dataSet_ens_sup_fr-v1",
       "hf_OpenLLM-France_Croissant-Aligned-Instruct",
@@ -6604,6 +6615,9 @@
     ],
     "model_z_lab_qwen3_6_35b_a3b_dflash": [
       "hf_Qwen_Qwen3.6-35B-A3B"
+    ],
+    "model_z_lab_qwen3_8_27b_dflash2": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_zdy1995love_mistral_medium_3_5_128b_nvfp4": [
       "hf_mistralai_Mistral-Medium-3.5-128B"

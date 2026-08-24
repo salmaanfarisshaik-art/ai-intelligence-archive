@@ -1,0 +1,32 @@
+{
+  "_id": "66cfd0cb9a7e2c98a0ae26dc",
+  "id": "OpenGVLab/OmniCorpus-CC-210M",
+  "author": "OpenGVLab",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2025-03-20T12:47:06.000Z",
+  "likes": 35,
+  "private": false,
+  "sha": "39c856327b0c18a89915fa4c94ae870d94e18601",
+  "description": "\n  🐳 OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text\n\n\nThis repository contains 210 million image-text interleaved documents filtered from the OmniCorpus-CC dataset, which was sourced from Common Crawl. \n\nRepository: https://github.com/OpenGVLab/OmniCorpus\nPaper (ICLR 2025 Spotlight): https://arxiv.org/abs/2406.08418\n\nOmniCorpus dataset is a large-scale image-text interleaved dataset, which pushes the boundaries of scale and diversity by encompassing… See the full description on the dataset page: https://huggingface.co/datasets/OpenGVLab/OmniCorpus-CC-210M.",
+  "downloads": 31098,
+  "tags": [
+    "task_categories:image-to-text",
+    "task_categories:visual-question-answering",
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:100M<n<1B",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2406.08418",
+    "region:us"
+  ],
+  "createdAt": "2024-08-29T01:37:15.000Z",
+  "key": "",
+  "unique_id": "dataset_opengvlab_omnicorpus_cc_210m",
+  "schema_version": "1.0"
+}

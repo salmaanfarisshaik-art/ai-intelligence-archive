@@ -1,0 +1,29 @@
+{
+  "_id": "684975418fb1ad8c76edc770",
+  "id": "microsoft/rStar-Coder",
+  "author": "microsoft",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-07-20T06:11:10.000Z",
+  "likes": 245,
+  "private": false,
+  "sha": "3a7a0a0636ec96e3c1ec42ebe79ade467caa040d",
+  "description": "\n\t\n\t\t\n\t\trStar-Coder Dataset\n\t\n\n\n\nProject GitHub | Paper\n\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nrStar-Coder is a large-scale competitive code problem dataset containing 418K programming problems, 580K long-reasoning solutions, and rich test cases of varying difficulty levels. This dataset aims to enhance code reasoning capabilities in large language models, particularly in handling competitive code problems.\nExperiments on Qwen models (1.5B-14B) across various  code reasoning benchmarks demonstrate… See the full description on the dataset page: https://huggingface.co/datasets/microsoft/rStar-Coder.",
+  "downloads": 39035,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2505.21297",
+    "region:us"
+  ],
+  "createdAt": "2025-06-11T12:23:29.000Z",
+  "key": "",
+  "unique_id": "dataset_microsoft_rstar_coder",
+  "schema_version": "1.0"
+}

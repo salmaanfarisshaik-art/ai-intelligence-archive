@@ -9971,7 +9971,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-24T08:49:52.423609+00:00",
+  "generated_at": "2026-08-24T09:45:23.125410+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -145937,6 +145937,11 @@
     },
     {
       "category": "models",
+      "id": "model_hai929_the_guagellm_23m",
+      "label": "Hai929/The_GuageLLM_23M"
+    },
+    {
+      "category": "models",
       "id": "model_herrhruby_mr_midtrain_9b_v3",
       "label": "HerrHruby/MR_midtrain_9B_v3"
     },
@@ -151224,6 +151229,11 @@
       "category": "models",
       "id": "model_unsloth_qwen3_embedding_4b",
       "label": "unsloth/Qwen3-Embedding-4B"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_qwen3_next_80b_a3b_instruct_gguf",
+      "label": "unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF"
     },
     {
       "category": "models",
@@ -448573,5 +448583,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1994,
-  "total_nodes": 87719
+  "total_nodes": 87721
 }

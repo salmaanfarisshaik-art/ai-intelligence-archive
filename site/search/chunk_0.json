@@ -768,6 +768,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_bigcode_the_stack_smol",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_builddotai_egocentric_100k",
       "match_type": "exact",
       "score": 1.0
@@ -8231,6 +8236,11 @@
       "entity_id": "model_openbmb_minicpm5_1b_gguf",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_1b_mlx",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "07911": [
@@ -8635,6 +8645,13 @@
       "score": 1.5
     }
   ],
+  "08418": [
+    {
+      "entity_id": "dataset_opengvlab_omnicorpus_cc_210m",
+      "match_type": "exact",
+      "score": 2.5
+    }
+  ],
   "08451": [
     {
       "entity_id": "dataset_hflqf88888_guiodyssey",
@@ -8949,6 +8966,11 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_1b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_1b_mlx",
       "match_type": "exact",
       "score": 1.5
     }

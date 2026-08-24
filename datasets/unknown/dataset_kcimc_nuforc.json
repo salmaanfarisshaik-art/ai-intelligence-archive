@@ -9,7 +9,7 @@
   "private": false,
   "sha": "197d19c561e652c9dbdaeb8e5528b96712120a3e",
   "description": "\n\t\n\t\t\n\t\tNUFORC\n\t\n\n147,890 UFO sightings from NUFORC, scraped on January 16, 2024.\nThe best representation of the data is nuforc.json, but I also converted this to .csv files.\nEach .csv has a different approach to the \"Characteristics\" column:\n\nnuforc_str.csv has a \"Characteristics\" column that looks like this: \"Aircraft nearby, Animals reacted\"\nnuforc_list.csv has a \"Characteristics\" column that look like: \"['Aircraft nearby', 'Animals reacted']\"\nnuforc_bool.csv has one column for each… See the full description on the dataset page: https://huggingface.co/datasets/kcimc/NUFORC.",
-  "downloads": 96092,
+  "downloads": 98515,
   "tags": [
     "region:us"
   ],

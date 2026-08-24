@@ -1572,6 +1572,10 @@
 - **ID**: model_h2oai_h2ovl_mississippi_800m
 - **Source**: 
 
+## Hai929/The_GuageLLM_23M
+- **ID**: model_hai929_the_guagellm_23m
+- **Source**: 
+
 ## HerrHruby/MR_midtrain_9B_v3
 - **ID**: model_herrhruby_mr_midtrain_9b_v3
 - **Source**: 
@@ -5802,6 +5806,10 @@
 
 ## unsloth/Qwen3-Embedding-4B
 - **ID**: model_unsloth_qwen3_embedding_4b
+- **Source**: 
+
+## unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF
+- **ID**: model_unsloth_qwen3_next_80b_a3b_instruct_gguf
 - **Source**: 
 
 ## unsloth/Qwen-AgentWorld-35B-A3B-GGUF
