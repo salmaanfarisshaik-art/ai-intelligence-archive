@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 65
+**Total Changes:** 81
 
 ## Added
 None
@@ -13,10 +13,25 @@ None
 - data/metadata/schema_manifest.json
 - datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/stanford-vision-lab/hf_ds_69f7b3cc62d65c8f39fe7270.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/eleutherai/hf_EleutherAI_pythia-160m.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -54,6 +69,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
