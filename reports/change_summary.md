@@ -1,45 +1,30 @@
 # Change Summary
 
-**Total Changes:** 83
+**Total Changes:** 61
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_gpt-5-6-in-kiro.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- exports/csv/all_entities.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/news.json
-- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/google/hf_google_gemma-3-1b-it.json
-- models/openai-community/hf_openai-community_gpt2.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -58,25 +43,19 @@
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
-- tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
 - tools/github-trending/gh_725205304.json
