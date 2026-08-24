@@ -3668,6 +3668,10 @@
 - **ID**: model_openbmb_minicpm5_1b_gguf
 - **Source**: 
 
+## openbmb/MiniCPM5-1B-MLX
+- **ID**: model_openbmb_minicpm5_1b_mlx
+- **Source**: 
+
 ## openbmb/MiniCPM-2B-sft-bf16
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
@@ -3772,20 +3776,56 @@
 - **ID**: model_ornith_ai_ornith_1_0_9b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-35B-A3B
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-35B-A3B-FP8
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_fp8
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-35B-A3B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-35B-A3B-MLX
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-35B-A3B-NVFP4
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_nvfp4
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-397B-FP8
+- **ID**: model_ornith_ai_ornith_1_5_397b_fp8
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-397B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_397b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-397B-NVFP4
+- **ID**: model_ornith_ai_ornith_1_5_397b_nvfp4
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B
+- **ID**: model_ornith_ai_ornith_1_5_9b
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-9B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_9b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B-MLX
+- **ID**: model_ornith_ai_ornith_1_5_9b_mlx
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B-MLX-4bit
+- **ID**: model_ornith_ai_ornith_1_5_9b_mlx_4bit
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B-MLX-8bit
+- **ID**: model_ornith_ai_ornith_1_5_9b_mlx_8bit
 - **Source**: 
 
 ## owao/Nanbeige4.2-3B-GGUF
@@ -6034,6 +6074,10 @@
 
 ## z-lab/Qwen3.6-35B-A3B-DFlash
 - **ID**: model_z_lab_qwen3_6_35b_a3b_dflash
+- **Source**: 
+
+## z-lab/Qwen3.8-27B-DFlash2
+- **ID**: model_z_lab_qwen3_8_27b_dflash2
 - **Source**: 
 
 ## z-lab/Qwen3-8B-DFlash-b16

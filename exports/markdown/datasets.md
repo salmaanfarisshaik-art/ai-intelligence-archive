@@ -721,6 +721,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bigcode_the_stack_smol
+- **Source**: 
+
+## 
 - **ID**: dataset_bigscience_evaluation_results
 - **Source**: 
 
@@ -810,6 +814,10 @@
 
 ## 
 - **ID**: dataset_buitram2004_buitram2004
+- **Source**: 
+
+## 
+- **ID**: dataset_buiviet2001_buiviet2001
 - **Source**: 
 
 ## 
@@ -2137,6 +2145,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_huynhthuy1997_huynhthuy1997
+- **Source**: 
+
+## 
 - **ID**: dataset_hzxie_dom
 - **Source**: 
 
@@ -2250,6 +2262,10 @@
 
 ## 
 - **ID**: dataset_icdn10_content_20260615b71e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn10_content_202606206002
 - **Source**: 
 
 ## 
@@ -2573,6 +2589,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_202606207e79
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_2026062250e0
 - **Source**: 
 
@@ -2734,6 +2754,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_202606194c65
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_20260620f5d9
 - **Source**: 
 
 ## 
@@ -4329,6 +4353,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_microsoft_rstar_coder
+- **Source**: 
+
+## 
 - **ID**: dataset_mint_sjtu_la_33k
 - **Source**: 
 
@@ -5002,6 +5030,10 @@
 
 ## 
 - **ID**: dataset_opengvlab_mvbench
+- **Source**: 
+
+## 
+- **ID**: dataset_opengvlab_omnicorpus_cc_210m
 - **Source**: 
 
 ## 
@@ -6242,6 +6274,10 @@
 
 ## 
 - **ID**: dataset_trl_lib_documentation_images
+- **Source**: 
+
+## 
+- **ID**: dataset_trl_lib_trackio_dataset
 - **Source**: 
 
 ## 

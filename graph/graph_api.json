@@ -9971,7 +9971,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-24T09:45:23.125410+00:00",
+  "generated_at": "2026-08-24T10:36:02.346012+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -125092,6 +125092,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_bigcode_the_stack_smol",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_bigscience_evaluation_results",
       "label": ""
     },
@@ -125203,6 +125208,11 @@
     {
       "category": "datasets",
       "id": "dataset_buitram2004_buitram2004",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_buiviet2001_buiviet2001",
       "label": ""
     },
     {
@@ -126862,6 +126872,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_huynhthuy1997_huynhthuy1997",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hzxie_dom",
       "label": ""
     },
@@ -127003,6 +127018,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn10_content_20260615b71e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn10_content_202606206002",
       "label": ""
     },
     {
@@ -127407,6 +127427,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn12_content_202606207e79",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn12_content_2026062250e0",
       "label": ""
     },
@@ -127608,6 +127633,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn13_content_202606194c65",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn13_content_20260620f5d9",
       "label": ""
     },
     {
@@ -129602,6 +129632,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_microsoft_rstar_coder",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_mint_sjtu_la_33k",
       "label": ""
     },
@@ -130443,6 +130478,11 @@
     {
       "category": "datasets",
       "id": "dataset_opengvlab_mvbench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_opengvlab_omnicorpus_cc_210m",
       "label": ""
     },
     {
@@ -131993,6 +132033,11 @@
     {
       "category": "datasets",
       "id": "dataset_trl_lib_documentation_images",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_trl_lib_trackio_dataset",
       "label": ""
     },
     {
@@ -148557,6 +148602,11 @@
     },
     {
       "category": "models",
+      "id": "model_openbmb_minicpm5_1b_mlx",
+      "label": "openbmb/MiniCPM5-1B-MLX"
+    },
+    {
+      "category": "models",
       "id": "model_openbmb_minicpm_2b_sft_bf16",
       "label": "openbmb/MiniCPM-2B-sft-bf16"
     },
@@ -148687,8 +148737,23 @@
     },
     {
       "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_fp8",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-FP8"
+    },
+    {
+      "category": "models",
       "id": "model_ornith_ai_ornith_1_5_35b_a3b_gguf",
       "label": "ornith-ai/Ornith-1.5-35B-A3B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-MLX"
     },
     {
       "category": "models",
@@ -148697,13 +148762,43 @@
     },
     {
       "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_397b_fp8",
+      "label": "ornith-ai/Ornith-1.5-397B-FP8"
+    },
+    {
+      "category": "models",
       "id": "model_ornith_ai_ornith_1_5_397b_gguf",
       "label": "ornith-ai/Ornith-1.5-397B-GGUF"
     },
     {
       "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_397b_nvfp4",
+      "label": "ornith-ai/Ornith-1.5-397B-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b",
+      "label": "ornith-ai/Ornith-1.5-9B"
+    },
+    {
+      "category": "models",
       "id": "model_ornith_ai_ornith_1_5_9b_gguf",
       "label": "ornith-ai/Ornith-1.5-9B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b_mlx",
+      "label": "ornith-ai/Ornith-1.5-9B-MLX"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b_mlx_4bit",
+      "label": "ornith-ai/Ornith-1.5-9B-MLX-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b_mlx_8bit",
+      "label": "ornith-ai/Ornith-1.5-9B-MLX-8bit"
     },
     {
       "category": "models",
@@ -151514,6 +151609,11 @@
       "category": "models",
       "id": "model_z_lab_qwen3_6_35b_a3b_dflash",
       "label": "z-lab/Qwen3.6-35B-A3B-DFlash"
+    },
+    {
+      "category": "models",
+      "id": "model_z_lab_qwen3_8_27b_dflash2",
+      "label": "z-lab/Qwen3.8-27B-DFlash2"
     },
     {
       "category": "models",
@@ -448583,5 +448683,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 1994,
-  "total_nodes": 87721
+  "total_nodes": 87741
 }

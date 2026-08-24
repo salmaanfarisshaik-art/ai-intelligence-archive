@@ -9170,6 +9170,16 @@
     "local_path": "models/openbmb/model_openbmb_minicpm5_1b_gguf.json"
   },
   {
+    "id": "model_openbmb_minicpm5_1b_mlx",
+    "title": "openbmb/MiniCPM5-1B-MLX",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/openbmb/model_openbmb_minicpm5_1b_mlx.json"
+  },
+  {
     "id": "model_openbmb_minicpm_2b_sft_bf16",
     "title": "openbmb/MiniCPM-2B-sft-bf16",
     "category": "models",
@@ -9430,6 +9440,26 @@
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_0_9b_gguf.json"
   },
   {
+    "id": "model_ornith_ai_ornith_1_5_35b_a3b",
+    "title": "ornith-ai/Ornith-1.5-35B-A3B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_35b_a3b.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_35b_a3b_fp8",
+    "title": "ornith-ai/Ornith-1.5-35B-A3B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_35b_a3b_fp8.json"
+  },
+  {
     "id": "model_ornith_ai_ornith_1_5_35b_a3b_gguf",
     "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
     "category": "models",
@@ -9438,6 +9468,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_35b_a3b_gguf.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx",
+    "title": "ornith-ai/Ornith-1.5-35B-A3B-MLX",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_35b_a3b_mlx.json"
   },
   {
     "id": "model_ornith_ai_ornith_1_5_35b_a3b_nvfp4",
@@ -9450,6 +9490,16 @@
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_35b_a3b_nvfp4.json"
   },
   {
+    "id": "model_ornith_ai_ornith_1_5_397b_fp8",
+    "title": "ornith-ai/Ornith-1.5-397B-FP8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_397b_fp8.json"
+  },
+  {
     "id": "model_ornith_ai_ornith_1_5_397b_gguf",
     "title": "ornith-ai/Ornith-1.5-397B-GGUF",
     "category": "models",
@@ -9460,6 +9510,26 @@
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_397b_gguf.json"
   },
   {
+    "id": "model_ornith_ai_ornith_1_5_397b_nvfp4",
+    "title": "ornith-ai/Ornith-1.5-397B-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_397b_nvfp4.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_9b",
+    "title": "ornith-ai/Ornith-1.5-9B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_9b.json"
+  },
+  {
     "id": "model_ornith_ai_ornith_1_5_9b_gguf",
     "title": "ornith-ai/Ornith-1.5-9B-GGUF",
     "category": "models",
@@ -9468,6 +9538,36 @@
     "links": {},
     "source_url": "",
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_9b_gguf.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_9b_mlx",
+    "title": "ornith-ai/Ornith-1.5-9B-MLX",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_9b_mlx.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_9b_mlx_4bit",
+    "title": "ornith-ai/Ornith-1.5-9B-MLX-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_9b_mlx_4bit.json"
+  },
+  {
+    "id": "model_ornith_ai_ornith_1_5_9b_mlx_8bit",
+    "title": "ornith-ai/Ornith-1.5-9B-MLX-8bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_9b_mlx_8bit.json"
   },
   {
     "id": "model_owao_nanbeige4_2_3b_gguf",
@@ -15088,6 +15188,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/z-lab/model_z_lab_qwen3_6_35b_a3b_dflash.json"
+  },
+  {
+    "id": "model_z_lab_qwen3_8_27b_dflash2",
+    "title": "z-lab/Qwen3.8-27B-DFlash2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/z-lab/model_z_lab_qwen3_8_27b_dflash2.json"
   },
   {
     "id": "model_z_lab_qwen3_8b_dflash_b16",
