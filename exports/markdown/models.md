@@ -2220,6 +2220,10 @@
 - **ID**: model_liuhaotian_llava_v1_6_vicuna_13b
 - **Source**: 
 
+## liuhaotian/llava-v1.6-vicuna-7b
+- **ID**: model_liuhaotian_llava_v1_6_vicuna_7b
+- **Source**: 
+
 ## livekit/turn-detector
 - **ID**: model_livekit_turn_detector
 - **Source**: 

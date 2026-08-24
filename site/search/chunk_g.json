@@ -27469,6 +27469,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_hai929_the_guagellm_23m",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_hmellor_tiny_random_gemma2forcausallm",
       "match_type": "exact",
       "score": 3.0
@@ -35490,6 +35495,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_embedding_4b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -51479,6 +51489,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_coder_next_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_gguf",
       "match_type": "exact",
       "score": 3.5
     },
@@ -95757,6 +95772,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_hai929_the_guagellm_23m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_lykosai_gpt_prompt_expansion_fooocus_v2",
       "match_type": "exact",
       "score": 1.5
@@ -117773,6 +117793,13 @@
       "entity_id": "alpaca_6364895405339536451",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "guagellm": [
+    {
+      "entity_id": "model_hai929_the_guagellm_23m",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "guanacodataset": [
