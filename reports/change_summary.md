@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 84
+**Total Changes:** 75
 
 ## Added
 None
@@ -8,12 +8,9 @@ None
 ## Modified
 - data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
@@ -21,15 +18,9 @@ None
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
-- exports/json/datasets.json
-- exports/json/models.json
 - exports/markdown/dataset.md
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
@@ -43,8 +34,6 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -62,6 +51,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -73,8 +63,9 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_635240594.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
