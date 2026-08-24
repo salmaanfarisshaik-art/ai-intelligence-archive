@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.06114v2",
+  "schema_version": "1.0",
+  "name": "GroupSegment-SHAP: Shapley Value Explanations with Group-Segment Players for Multivariate Time Series",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.06114v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.06114v2",
+    "updated": "2026-08-21T16:54:11Z",
+    "published": "2026-01-03T14:59:18Z",
+    "title": "GroupSegment-SHAP: Shapley Value Explanations with Group-Segment Players for Multivariate Time Series",
+    "summary": "Multivariate time-series models achieve strong predictive performance in healthcare, industry, energy, and finance, but how they combine cross-variable interactions with temporal dynamics remains unclear. SHapley Additive exPlanations (SHAP) are widely used for interpretation. However, existing time-series variants typically treat the feature and time axes independently, fragmenting structural signals formed jointly by multiple variables over specific intervals. We propose GroupSegment SHAP (GS-SHAP), which constructs explanatory units as group-segment players based on cross-variable dependence and distribution shifts over time, and then quantifies each unit's contribution via Shapley attribution. We evaluate GS-SHAP across four real-world domains: human activity recognition, power-system forecasting, medical signal analysis, and financial time series, and compare it with KernelSHAP, TimeSHAP, SequenceSHAP, WindowSHAP, and TSHAP. GS-SHAP improves deletion-based faithfulness (DeltaAUC) by about 1.7x on average over time-series SHAP baselines, while reducing wall-clock runtime by about 40 percent on average under matched perturbation budgets. A financial case study shows that GS-SHAP identifies interpretable multivariate-temporal interactions among key market variables during high-volatility regimes.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:54:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.06114v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

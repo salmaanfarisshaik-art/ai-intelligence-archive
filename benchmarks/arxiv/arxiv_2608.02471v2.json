@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.02471v2",
+  "schema_version": "1.0",
+  "name": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.02471v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.02471v2",
+    "updated": "2026-08-21T16:19:35Z",
+    "published": "2026-08-03T16:38:47Z",
+    "title": "Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery",
+    "summary": "In laparoscopy, surgeon gaze tracks where the instruments will act; easing this demand through visual attention modeling requires dense labels of those interaction loci. These encode tacit knowledge: experts converge on consensus loci yet struggle to state the rules. Here we show that such labels can be recovered from completed actions in surgical videos, in which recorded instrument trajectories are converted into dense, continuous supervision. DiffeoAfford grounds tissue affordance by attaching instrument tips to the tissue and transporting them through deformation using diffeomorphism-constrained tracking, matching context-informed annotators' accuracy. Trained on these labels and never on gaze, a real-time model aligns with surgeon gaze more closely in space and time than does camera-assistant gaze. The framework also transfers across procedures: on hysterectomy videos, a separately trained predictor reaches 95.16% directional consistency with subsequent camera motion. In 12 paired cholecystectomies (24 procedures), the auto-framing application AffordView, which proactively centers predicted targets in view, lowered surgeon cognitive workload on converging subjective, physiological, and behavioral measures, including a reduced number of verbal instructions to the camera assistant. Deriving supervision from action rather than manual annotation offers a scalable route to anticipatory assistance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:19:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.02471v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.05387v6",
+  "schema_version": "1.0",
+  "name": "The Generalization Ridge: Information Flow in Natural Language Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.05387v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.05387v6",
+    "updated": "2026-08-21T17:44:03Z",
+    "published": "2025-07-07T18:18:51Z",
+    "title": "The Generalization Ridge: Information Flow in Natural Language Generation",
+    "summary": "Transformer-based language models have achieved state-of-the-art performance in natural language generation (NLG), yet their internal mechanisms for synthesizing task-relevant information remain insufficiently understood. While prior studies suggest that intermediate layers often yield more generalizable representations than final layers, how this generalization ability emerges and propagates across layers during training remains unclear.We propose InfoRidge, an information-theoretic framework, to characterize how predictive information-the mutual information between hidden representations and target outputs-varies across depth during training. Our experiments across various models and datasets reveal a consistent non-monotonic trend: predictive information peaks in intermediate layers-forming a generalization ridge-before declining in final layers, reflecting a transition between generalization and memorization. To further investigate this phenomenon, we conduct a set of complementary analyses that leverage residual scaling and attention patterns to characterize layer-wise functional specialization. We further validate our findings with multiple-token generation experiments, verifying that the observed ridge phenomenon persists across decoding steps. Together, these findings offer new insights into the internal mechanisms of transformers and underscore the critical role of intermediate layers in supporting generalization.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:44:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.05387v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

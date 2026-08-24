@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation](http://arxiv.org/abs/2608.21243v1) | ArXiv |  | 1 |
 | [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](http://arxiv.org/abs/2607.09988v2) | ArXiv |  | 1 |
 | [An LLM-powered Agentic Recommendation System for Connected TV Content Discovery](http://arxiv.org/abs/2607.09988v3) | ArXiv |  | 1 |
 | [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search](http://arxiv.org/abs/2607.15253v1) | ArXiv |  | 1 |

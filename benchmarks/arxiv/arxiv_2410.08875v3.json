@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2410.08875v3",
+  "schema_version": "1.0",
+  "name": "Online design of dynamic networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2410.08875v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2410.08875v3",
+    "updated": "2026-08-21T17:07:40Z",
+    "published": "2024-10-11T14:50:31Z",
+    "title": "Online design of dynamic networks",
+    "summary": "Designing a network (e.g., a telecommunication or transport network) is mainly done offline, in a planning phase, prior to the operation of the network. On the other hand, a massive effort has been devoted to characterizing dynamic networks, i.e., those that evolve over time. The novelty of this paper is that we introduce a method for the online design of dynamic networks. The need to do so emerges when a network needs to operate in a dynamic and stochastic environment. In this case, one may wish to build a network over time, on the fly, in order to react to the changes of the environment and to keep certain performance targets. We tackle this online design problem with a rolling horizon optimization based on Monte Carlo Tree Search. The potential of online network design is showcased for the design of a futuristic dynamic public transport network, where bus lines are constructed on the fly to better adapt to a stochastic user demand. In such a scenario, we compare our results with state-of-the-art dynamic vehicle routing problem (VRP) resolution methods, simulating requests from a New York City taxi dataset. Differently from classic VRP methods, that extend vehicle trajectories in isolation, our method enables us to build a structured network of line buses, where complex user journeys are possible, thus increasing system performance.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:07:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2410.08875v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

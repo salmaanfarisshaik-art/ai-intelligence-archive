@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.10894v2",
+  "schema_version": "1.0",
+  "name": "Counterfactual Stress Testing for Image Classification Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.10894v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.10894v2",
+    "updated": "2026-08-21T16:02:11Z",
+    "published": "2026-05-11T17:36:16Z",
+    "title": "Counterfactual Stress Testing for Image Classification Models",
+    "summary": "Deep learning models in medical imaging often fail when deployed in new clinical environments due to distribution shifts in demographics, scanner hardware, or acquisition protocols. A central challenge is underspecification, where models with similar validation performance exhibit divergent real-world failure modes. Although stress testing has emerged as a tool to assess this, current methods typically rely on simple, uninformed perturbations (e.g., brightness or contrast changes), which fail to capture clinically realistic variation and can overestimate robustness. In this work, we introduce a counterfactual stress testing framework based on causal generative models that create realistic \"what if\" images by intervening on attributes such as scanner type and recorded sex while largely preserving anatomical identity, enabling controlled and semantically meaningful evaluation under targeted distribution shifts. Across two imaging modalities (chest X-ray and mammography), three model architectures, and multiple shift scenarios, we show that counterfactual stress tests provide a substantially more accurate proxy for real out-of-distribution performance than classical perturbations, capturing the direction and relative magnitude of performance changes and showing stronger overall rank agreement. These results suggest that causal generative models can provide informative synthetic stress tests for assessing robustness under targeted distribution shifts prior to deployment.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:02:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.10894v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

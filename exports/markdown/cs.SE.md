@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18161v1](http://arxiv.org/abs/2607.18161v1)
 
+## Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts
+- **ID**: arxiv_2607.18970v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18970v3](http://arxiv.org/abs/2607.18970v3)
+
 ## Don't Trust the Label: License Laundering in AI Supply Chains
 - **ID**: arxiv_2607.20300v1
 - **Source**: ArXiv
@@ -149,4 +154,9 @@
 - **ID**: arxiv_2608.20195v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20195v1](http://arxiv.org/abs/2608.20195v1)
+
+## AI with Authority, from Application to Silicon
+- **ID**: arxiv_2608.21356v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21356v1](http://arxiv.org/abs/2608.21356v1)
 

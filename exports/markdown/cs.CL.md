@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07691v2](http://arxiv.org/abs/2506.07691v2)
 
+## The Generalization Ridge: Information Flow in Natural Language Generation
+- **ID**: arxiv_2507.05387v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.05387v6](http://arxiv.org/abs/2507.05387v6)
+
 ## Testing Hypotheses from the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages from Parler
 - **ID**: arxiv_2507.10810v3
 - **Source**: ArXiv
@@ -59,6 +64,11 @@
 - **ID**: arxiv_2507.10810v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.10810v3](http://arxiv.org/abs/2507.10810v3)
+
+## CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis
+- **ID**: arxiv_2507.14022v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.14022v3](http://arxiv.org/abs/2507.14022v3)
 
 ## PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment
 - **ID**: arxiv_2508.05132v3
@@ -1674,4 +1684,39 @@
 - **ID**: arxiv_2608.20338v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20338v1](http://arxiv.org/abs/2608.20338v1)
+
+## RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models
+- **ID**: arxiv_2608.21236v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21236v1](http://arxiv.org/abs/2608.21236v1)
+
+## Affective Context Amplifies Sycophancy in LLM Responses
+- **ID**: arxiv_2608.21242v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21242v1](http://arxiv.org/abs/2608.21242v1)
+
+## Benchmarking Patent Drafting from Inventor-Style Disclosures
+- **ID**: arxiv_2608.21249v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21249v1](http://arxiv.org/abs/2608.21249v1)
+
+## EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering
+- **ID**: arxiv_2608.21252v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21252v1](http://arxiv.org/abs/2608.21252v1)
+
+## Memory Augmentation Unlocks Efficient Chain-of-Thought Reasoning
+- **ID**: arxiv_2608.21265v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21265v1](http://arxiv.org/abs/2608.21265v1)
+
+## Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed
+- **ID**: arxiv_2608.21315v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21315v1](http://arxiv.org/abs/2608.21315v1)
+
+## Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy
+- **ID**: arxiv_2608.21325v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21325v1](http://arxiv.org/abs/2608.21325v1)
 

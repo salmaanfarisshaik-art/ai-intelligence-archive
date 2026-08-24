@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.20004v4",
+  "schema_version": "1.0",
+  "name": "Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.20004v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DB",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.20004v4",
+    "updated": "2026-08-21T17:19:40Z",
+    "published": "2026-03-20T14:49:27Z",
+    "title": "Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering",
+    "summary": "Translating natural language questions to SQL queries (Text-to-SQL) is a long-standing problem in database research. Recent efforts have focused on improving accuracy by building increasingly complex multi-stage large LLM pipelines, layering task decomposition, schema linking, and model-based query selection on top of an LLM. Despite this growing complexity, a substantial gap (>10%) between such systems and human experts persists on benchmarks, suggesting that pipeline engineering alone has hit a ceiling.\n  We show that human-level Text-to-SQL performance is achievable by fine-tuning an LLM using RLVR on clean data, without pipeline components. In this paper, we identified the dominant bottleneck for RLVR on Text-to-SQL: existing training data contains pervasive annotation errors that mislead optimization. To address this, we developed a multi-round, expert-driven verification pipeline and used it to curate BIRD-Platinum, a dataset of 2.5k verified instances sampled from BIRD Train, with errors corrected in 61% of instances. We show that fine-tuning Qwen3-235B on BIRD-Platinum yields consistent improvements (11-16%) over BIRD Train on Arcwise-Plat (an expert-verified version of BIRD) and Spider2, outperforming SOTA open-source systems by 0.6-16%. Furthermore, we diagnosed two failure modes of standard RLVR on Text-to-SQL. We find that (1) result-based rewards have non-trivial false positive rates, and (2) models systematically ignore the external knowledge in BIRD-style problems. To address them, we propose ReViSQL-BIRD, a specialized reward shaping method that combines result-based rewards with SQL equivalence verification and leverages process rewards for incentivizing external-knowledge use. We fine-tuned Kimi-K2.6 with ReViSQL-BIRD. On Arcwise-Plat, ReViSQL-BIRD-K2.6 is the first method to achieve human-level accuracy (92.96%), outperforming top five open-source systems by 10-22%.",
+    "primary_category": "cs.DB"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:19:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.20004v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

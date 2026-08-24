@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2606.11381v3",
+  "schema_version": "1.0",
+  "name": "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.11381v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.11381v3",
+    "updated": "2026-08-21T17:20:34Z",
+    "published": "2026-06-09T19:04:52Z",
+    "title": "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting",
+    "summary": "Robotic strawberry harvesting requires precise 6D pose estimation; however, collecting 6D pose ground truth in real agricultural fields is inherently challenging. Existing strawberry 6D pose estimation studies have therefore relied mainly on synthetic data, leaving their in-field performance unquantified. In this work, we obtain ground truth indirectly, by recovering camera poses via PnP, reconstructing each scene at metric scale, and annotating a single 3D bounding box per strawberry that is propagated across all frames, yielding, to the best of our knowledge, the first real world 6D pose ground truth dataset of red-stage strawberries collected at an actual strawberry farm (12,040 images). We also introduce a synthetic dataset rendered in NVIDIA Isaac Sim, featuring scene-level realism and domainrandomization. Despite this improved simulation setup, models trained on synthetic data alone fail to transfer to in-field images, while introducing a small amount of real data improves both translation and rotation accuracy across all backbones. Under the monocular RGB setting evaluated here, rotation is largely recovered once real data is used, and depth is what limits pose accuracy. These baselines across backbone encoders serve as a reference for future work. The real-world dataset is publicly available at https://huggingface.co/datasets/WoojungSon/F ieldStraw6D, and the data-collection pipeline is available at https://github.com/wjson2435/FieldStraw6D-pipeline.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:20:34Z",
+  "links": {
+    "related_models": [
+      "datasets/WoojungSon"
+    ],
+    "related_papers": [
+      "2606.11381v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

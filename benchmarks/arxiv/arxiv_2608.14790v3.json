@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2608.14790v3",
+  "schema_version": "1.0",
+  "name": "Instruction-Based Video Editing by Repurposing an Image Editing Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.14790v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.14790v3",
+    "updated": "2026-08-21T16:17:37Z",
+    "published": "2026-08-14T18:01:29Z",
+    "title": "Instruction-Based Video Editing by Repurposing an Image Editing Model",
+    "summary": "Instruction-based video editing is commonly built on video-pretrained generative backbones: a video diffusion transformer is adapted, at considerable cost, to condition on a source video and an editing instruction. In this report we explore a different route and show that a strong instruction-based image editing model can edit videos by operating directly on video-VAE latents. Starting from Qwen-Image-Edit, we arrange the latent frames of a Wan~2.1 video VAE as tiles of one large virtual image, reuse the editor's image positional encoding for every tile, and bridge the two latent spaces with a pair of lightweight input/output projections warm-started from the editor's own patchify and unpatchify layers, so that at initialization a (static) video is embedded exactly as an image the model already understands. The whole system is then fine-tuned on the public Ditto-1M editing triplets, and a few denoising steps of Wan~2.2 serve as an optional temporal enhancer. We motivate the design with a chain of zero-training observations: the stock image editor already edits a video presented as a contact sheet; it is indifferent to whether the sheet's tokens come from one joint encode or from per-frame encodes stitched in latent space; and it even edits genuine video latents zero-shot to a clearly recognizable degree, leaving fine-tuning only a fidelity gap to close. Our results suggest that, despite the large investment in training video latent spaces, per-frame video latents remain close enough to the image domain that mature image editing priors transfer with minimal adaptation. Project Page: https://yunpeng1998.github.io/Qwen-Video-Edit-Page Code: https://github.com/yunpeng1998/Qwen-Video-Edit Model: https://huggingface.co/yunpeng1998/Qwen-Video-Edit",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:17:37Z",
+  "links": {
+    "related_models": [
+      "yunpeng1998/Qwen-Video-Edit"
+    ],
+    "related_papers": [
+      "2608.14790v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

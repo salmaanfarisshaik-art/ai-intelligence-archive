@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.09930v2",
+  "schema_version": "1.0",
+  "name": "Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.09930v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.09930v2",
+    "updated": "2026-08-21T17:41:11Z",
+    "published": "2025-10-11T00:02:36Z",
+    "title": "Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory",
+    "summary": "Real-world systems, ranging from industrial manufacturing to wearable healthcare, generate multivariate time series with hierarchical states ranging from coarse regimes to fine-grained events. Unlike zero- or few-shot segmentation, our setting uses dense state labels for model training. Sparse expert prompts provide inference-time corrections that resolve sequence-specific ambiguities without retraining. In practice, this feedback is grouped around selected events or transitions, leaving large portions of the timeline unprompted. The prompt-based sliding-window baselines evaluated here are stateless with respect to user interaction history: they use guidance only within the current window and cannot retain it across these gaps. To address this, we propose Perseus (Persistent Segmentation with User Supervision), a framework that transitions from synchronous processing to asynchronous state management. Perseus decouples supervision from inference via a distinct Write-Read architecture: grouped user cues are asynchronously encoded into a persistent memory bank (Write), which is then actively queried by the inference engine (Read) to service unprompted windows. This mechanism bridges supervision gaps by conditioning predictions on a global history of interactions rather than solely on local inputs. Extensive experiments on six datasets demonstrate that while evaluated stateless prompting baselines degrade significantly under grouped supervision, Perseus maintains robustness and achieves up to 85% accuracy improvement in multi-granularity settings. Code and preprocessing instructions are available at https://github.com/blacksnail789521/Perseus.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:41:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.09930v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

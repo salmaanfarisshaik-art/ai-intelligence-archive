@@ -320,3 +320,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19182v1](http://arxiv.org/abs/2608.19182v1)
 
+## The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization
+- **ID**: arxiv_2608.21276v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21276v1](http://arxiv.org/abs/2608.21276v1)
+
+## VT-MUSE: Multimodal Unified Sequential Visuotactile Representation Learning for Manipulation
+- **ID**: arxiv_2608.21290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21290v1](http://arxiv.org/abs/2608.21290v1)
+

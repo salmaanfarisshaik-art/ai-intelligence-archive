@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.21249v1",
+  "schema_version": "1.0",
+  "name": "Benchmarking Patent Drafting from Inventor-Style Disclosures",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.21249v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.21249v1",
+    "updated": "2026-08-21T16:00:52Z",
+    "published": "2026-08-21T16:00:52Z",
+    "title": "Benchmarking Patent Drafting from Inventor-Style Disclosures",
+    "summary": "While recent large language models (LLMs) have achieved promising results on individual patent drafting tasks, they fundamentally fail to investigate the core challenge of real-world patent drafting: generating a complete and legally coherent patent application directly from early-stage invention materials. Prior work predominantly assumes later-stage, highly structured, or already legalistic inputs. However, real patenting workflows begin with informal, de-legalized disclosures authored by inventors. To bridge the gap, we introduce Dis2Pat, a disclosure-to-patent dataset that reflects realistic patenting workflows by requiring the generation of complete patent applications directly from inventor-style, de-legalized disclosures. Given the inherent difficulty of long-form, legally constrained patent drafting and the strong privacy requirements, we further propose a strong baseline named Patent-MAF. It is a multi-agent framework for locally deployable patent drafting. Benchmark results reveal that current LLMs exhibit limitations in patent drafting, while Patent-MAF provides a strong baseline that consistently outperforms evaluated open-source models and remains competitive with large closed-source models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:00:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.21249v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

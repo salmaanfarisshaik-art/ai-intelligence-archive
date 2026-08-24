@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.00424v2",
+  "schema_version": "1.0",
+  "name": "Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.00424v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.00424v2",
+    "updated": "2026-08-21T17:02:48Z",
+    "published": "2026-05-29T23:21:48Z",
+    "title": "Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight",
+    "summary": "As large language models become stronger, weak supervisors may fail to provide reliable labels, preferences, or final judgments for complex outputs, limiting both weak-to-strong generalization and scalable oversight. We study a more tractable form of weak supervision: using a weak model as a critic rather than as a labeler or judge. Instead of solving the task or selecting the correct answer, the weak critic only needs to provide a non-misleading revision direction that helps the strong model better use its own knowledge. We call this setting *weak-critic strong oversight*. We first show that weak critiques can improve frozen strong models at inference time, and that critique quality is key to this improvement. We then propose progressive on-policy critique distillation (**OPCD**), which filters high-quality critiques and distills critic-guided behavior into the strong model through adaptive self-teacher signals. Experiments on reasoning and alignment benchmarks show that our method improves strong models over training epochs, suggesting an effective path for scalable oversight with weak supervision.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:02:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.00424v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

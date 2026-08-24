@@ -1,5 +1,10 @@
 # Cs.Db Export
 
+## Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering
+- **ID**: arxiv_2603.20004v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.20004v4](http://arxiv.org/abs/2603.20004v4)
+
 ## Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent
 - **ID**: arxiv_2604.08552v2
 - **Source**: ArXiv

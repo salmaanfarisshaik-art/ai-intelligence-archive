@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.11252v2",
+  "schema_version": "1.0",
+  "name": "Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.11252v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.11252v2",
+    "updated": "2026-08-21T16:38:49Z",
+    "published": "2026-03-11T19:22:18Z",
+    "title": "Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models",
+    "summary": "Although semantic 3D city models are internationally available and becoming increasingly detailed, the incorporation of material information remains largely untapped. However, a structured representation of materials and their physical properties could substantially broaden the application spectrum and analytical capabilities for urban digital twins. At the same time, the growing number of repeated mobile laser scans of cities and their street spaces yields a wealth of observations influenced by the material characteristics of the corresponding surfaces. To leverage this information, we propose radiometric fingerprints of object surfaces by grouping LiDAR observations reflected from the same semantic object under varying distances, incident angles, environmental conditions, sensors, and scanning campaigns. Our study demonstrates how 312.4 million individual beams acquired across four campaigns using five LiDAR sensors on the Audi Autonomous Driving Dataset (A2D2) vehicle can be automatically associated with 6368 individual objects of the semantic 3D city model. The model comprises a comprehensive and semantic representation of four inner-city streets at Level of Detail (LOD) 3 with centimeter-level accuracy. It is based on the CityGML 3.0 standard and enables fine-grained sub-differentiation of objects. The extracted radiometric fingerprints for object surfaces reveal recurring intra-class patterns that indicate class-dominant materials. The semantic model, the method implementations, and the developed geodatabase solution 3DSensorDB are released under: https://github.com/tum-gis/sensordb",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T16:38:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.11252v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2008.07324v6](http://arxiv.org/abs/2008.07324v6)
 
+## Online design of dynamic networks
+- **ID**: arxiv_2410.08875v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.08875v3](http://arxiv.org/abs/2410.08875v3)
+
 ## From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production
 - **ID**: arxiv_2502.19507v2
 - **Source**: ArXiv
@@ -14,6 +19,11 @@
 - **ID**: arxiv_2503.08679v6
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.08679v6](http://arxiv.org/abs/2503.08679v6)
+
+## Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning
+- **ID**: arxiv_2504.09772v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.09772v3](http://arxiv.org/abs/2504.09772v3)
 
 ## From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent
 - **ID**: arxiv_2505.02024v4
@@ -194,6 +204,11 @@
 - **ID**: arxiv_2605.29563v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
+
+## Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight
+- **ID**: arxiv_2606.00424v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.00424v2](http://arxiv.org/abs/2606.00424v2)
 
 ## Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning
 - **ID**: arxiv_2606.00671v3
@@ -509,6 +524,11 @@
 - **ID**: arxiv_2607.08465v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.08465v2](http://arxiv.org/abs/2607.08465v2)
+
+## The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs
+- **ID**: arxiv_2607.08734v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.08734v2](http://arxiv.org/abs/2607.08734v2)
 
 ## ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory
 - **ID**: arxiv_2607.10350v3
@@ -1400,6 +1420,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11195v2](http://arxiv.org/abs/2608.11195v2)
 
+## Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability
+- **ID**: arxiv_2608.11238v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11238v2](http://arxiv.org/abs/2608.11238v2)
+
 ## An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS
 - **ID**: arxiv_2608.12249v1
 - **Source**: ArXiv
@@ -1709,4 +1734,34 @@
 - **ID**: arxiv_2608.20320v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20320v1](http://arxiv.org/abs/2608.20320v1)
+
+## CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment
+- **ID**: arxiv_2608.21278v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21278v1](http://arxiv.org/abs/2608.21278v1)
+
+## AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization
+- **ID**: arxiv_2608.21292v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21292v1](http://arxiv.org/abs/2608.21292v1)
+
+## From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry
+- **ID**: arxiv_2608.21317v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21317v1](http://arxiv.org/abs/2608.21317v1)
+
+## Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets
+- **ID**: arxiv_2608.21319v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21319v1](http://arxiv.org/abs/2608.21319v1)
+
+## Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation
+- **ID**: arxiv_2608.21332v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21332v1](http://arxiv.org/abs/2608.21332v1)
+
+## VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences
+- **ID**: arxiv_2608.21357v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21357v1](http://arxiv.org/abs/2608.21357v1)
 

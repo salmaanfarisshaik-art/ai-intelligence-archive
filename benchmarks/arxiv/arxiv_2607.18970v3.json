@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18970v3",
+  "schema_version": "1.0",
+  "name": "Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18970v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18970v3",
+    "updated": "2026-08-21T17:37:53Z",
+    "published": "2026-07-21T11:03:56Z",
+    "title": "Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts",
+    "summary": "Agent Skills have become persistent behavioral artifacts across independent AI agent systems. They combine natural-language task specifications with metadata and optional references, scripts, assets, hooks, package manifests, tests, and companion interfaces. Existing studies explain how Skills are specified, executed, maintained, and evolved, but lack an ontology that defines these artifacts as independent software objects. This paper introduces Skillware as the software abstraction that extends software engineering to persistent Behavioral Artifacts in agent systems. A Skill Artifact specifies reusable task behavior; a Skillware Unit manages that artifact as software through an independent identity and lifecycle. A compatible Agent Host activates the unit for runtime interpretation. Three necessary conditions operationalize category membership: behavioral primacy, independent software identity, and an Agent Host execution relationship. Lifecycle Continuity records whether the same unit identity persists through update, maintenance, rollback, and removal as a separate software-grade property. Evidence combines the Agent Skills specification, a frozen corpus of 138,133 content-deduplicated SKILL.md records associated with 20,556 repository identifiers, independent empirical studies, 15 category-boundary cases, and 13 fixed-revision engineering implementations. The evidence establishes a recurring artifact envelope, separable software identities, documented or reconstructed activation paths, and lifecycle engineering pressure. Skillware provides the software ontology and engineering lifecycle through which agent capabilities can become identifiable, composable, and maintainable software artifacts with an explicit basis for future evolution. Public design-pattern and evidence materials are available at https://github.com/MetaInFLow/skillware-patterns.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T17:37:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18970v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

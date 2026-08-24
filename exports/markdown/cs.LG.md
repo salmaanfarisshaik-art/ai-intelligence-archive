@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.06407v2](http://arxiv.org/abs/2504.06407v2)
 
+## An Automated Pipeline for Few-Shot Bird Call Classification: A Case Study with the Tooth-Billed Pigeon
+- **ID**: arxiv_2504.16276v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.16276v3](http://arxiv.org/abs/2504.16276v3)
+
 ## Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
 - **ID**: arxiv_2505.18934v2
 - **Source**: ArXiv
@@ -65,10 +70,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.09697v4](http://arxiv.org/abs/2508.09697v4)
 
+## AIRL-S: Unifying Reinforcement Learning and Search-Based Test-Time Scaling via Adversarial Inverse Reinforcement Learning
+- **ID**: arxiv_2508.14313v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.14313v4](http://arxiv.org/abs/2508.14313v4)
+
 ## On the Separability of Information in Diffusion Models
 - **ID**: arxiv_2509.23937v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.23937v5](http://arxiv.org/abs/2509.23937v5)
+
+## Perseus: Interactive Time Series Segmentation with Sparse Supervision via Stateful Memory
+- **ID**: arxiv_2510.09930v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.09930v2](http://arxiv.org/abs/2510.09930v2)
 
 ## Seesaw: Accelerating Training by Balancing Learning Rate and Batch Size Scheduling
 - **ID**: arxiv_2510.14717v2
@@ -114,6 +129,11 @@
 - **ID**: arxiv_2601.02451v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.02451v2](http://arxiv.org/abs/2601.02451v2)
+
+## GroupSegment-SHAP: Shapley Value Explanations with Group-Segment Players for Multivariate Time Series
+- **ID**: arxiv_2601.06114v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.06114v2](http://arxiv.org/abs/2601.06114v2)
 
 ## d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation
 - **ID**: arxiv_2601.07568v3
@@ -254,6 +274,11 @@
 - **ID**: arxiv_2606.06479v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06479v2](http://arxiv.org/abs/2606.06479v2)
+
+## INFUSER: Influence-Guided Self-Evolution Improves Reasoning
+- **ID**: arxiv_2606.09052v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09052v4](http://arxiv.org/abs/2606.09052v4)
 
 ## Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
 - **ID**: arxiv_2606.13571v1

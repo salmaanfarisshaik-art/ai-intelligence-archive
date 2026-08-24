@@ -90,3 +90,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20210v1](http://arxiv.org/abs/2608.20210v1)
 
+## Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation
+- **ID**: arxiv_2608.21243v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21243v1](http://arxiv.org/abs/2608.21243v1)
+

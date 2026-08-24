@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14396v1](http://arxiv.org/abs/2608.14396v1)
 
+## Primal Acceleration of Newton's Method
+- **ID**: arxiv_2608.21359v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21359v1](http://arxiv.org/abs/2608.21359v1)
+

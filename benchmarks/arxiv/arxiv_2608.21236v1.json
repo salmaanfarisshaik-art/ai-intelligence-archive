@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.21236v1",
+  "schema_version": "1.0",
+  "name": "RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.21236v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.21236v1",
+    "updated": "2026-08-21T15:45:36Z",
+    "published": "2026-08-21T15:45:36Z",
+    "title": "RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models",
+    "summary": "Representation engineering offers a lightweight means of controlling language-model behavior by modifying intermediate hidden states, but its direct application to Mixture-of-Experts (MoE) models introduces a structural mismatch. We first verify this failure mode through a series of empirical studies and find that preserving clean routing substantially recovers steering performance and that routing is more sensitive to semantic content than to behavioral changes under controlled content. Motivated by these findings, we introduce RARE, a router-agnostic representation engineering framework for MoE language models. RARE projects arbitrary behavioral perturbations onto the null space of the router matrix, thereby removing router-visible components, and further corrects routing drift propagated to selected downstream layers. To decide the best perturbation estimator in this framework, we evaluate five estimators on six heterogeneous open-weight MoE models across three steering scenarios: harmfulness, truthfulness, and factual editing. On harmfulness steering, RARE reaches an average attack success rate of 53.3% while retaining 67.8% MMLU accuracy, yielding a stronger aggregate effectiveness--utility trade-off than baselines. It further improves average TruthfulQA MC1 accuracy from 41.0% to 58.6% and CounterFact efficacy from 16.8% to 96.3%. These results support routing consistency as an important architectural consideration for adapting representation engineering to MoE models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T15:45:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.21236v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

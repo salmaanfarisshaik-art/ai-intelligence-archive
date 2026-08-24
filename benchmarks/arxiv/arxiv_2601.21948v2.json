@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.21948v2",
+  "schema_version": "1.0",
+  "name": "Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.21948v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.21948v2",
+    "updated": "2026-08-21T15:55:15Z",
+    "published": "2026-01-29T16:30:32Z",
+    "title": "Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding",
+    "summary": "Neural visual decoding is a central problem in brain-computer interface research, aiming to reconstruct human visual perception and to elucidate the structure of neural representations. Recent contrastive neural visual decoding methods commonly align neural signals with the final embeddings of pretrained vision encoders. However, such representations are optimized for high-level semantic invariance, whereas EEG/MEG signals contain information spanning multiple levels of visual abstraction, potentially creating a representational granularity mismatch. Motivated by prior evidence that brain representations correspond to multiple levels of the DNN hierarchy, we propose Shallow Alignment, a granularity-calibration framework that systematically explores intermediate visual representations as alignment targets for neural decoding. Extensive experiments across multiple benchmarks demonstrate that Shallow Alignment significantly outperforms standard final-layer alignment, with performance gains ranging from 22% to 58% across diverse vision backbones. Notably, our approach reveals a positive scaling trend in neural visual decoding, enabling decoding performance to improve consistently with the capacity of pre-trained vision backbones. We further conduct systematic empirical analyses to shed light on the mechanisms underlying the observed performance gains. Code is available at https://github.com/yangdu-neuroai/shallow-alignment.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-24T03:01:25Z",
+  "last_updated": "2026-08-21T15:55:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.21948v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

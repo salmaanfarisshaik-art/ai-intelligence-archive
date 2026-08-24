@@ -295,6 +295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.20720v2](http://arxiv.org/abs/2601.20720v2)
 
+## Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding
+- **ID**: arxiv_2601.21948v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.21948v2](http://arxiv.org/abs/2601.21948v2)
+
 ## LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
 - **ID**: arxiv_2602.00462v5
 - **Source**: ArXiv
@@ -314,6 +319,11 @@
 - **ID**: arxiv_2602.05582v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05582v3](http://arxiv.org/abs/2602.05582v3)
+
+## Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving
+- **ID**: arxiv_2602.06159v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.06159v3](http://arxiv.org/abs/2602.06159v3)
 
 ## Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation
 - **ID**: arxiv_2602.10880v2
@@ -354,6 +364,11 @@
 - **ID**: arxiv_2603.07571v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.07571v3](http://arxiv.org/abs/2603.07571v3)
+
+## Radiometric fingerprinting of object surfaces using mobile laser scanning and semantic 3D road space models
+- **ID**: arxiv_2603.11252v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.11252v2](http://arxiv.org/abs/2603.11252v2)
 
 ## O3N: Omnidirectional Open-Vocabulary Occupancy Prediction for Urban Autonomous Agents
 - **ID**: arxiv_2603.12144v4
@@ -455,6 +470,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
 
+## Counterfactual Stress Testing for Image Classification Models
+- **ID**: arxiv_2605.10894v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.10894v2](http://arxiv.org/abs/2605.10894v2)
+
 ## A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline
 - **ID**: arxiv_2605.12608v3
 - **Source**: ArXiv
@@ -499,6 +519,11 @@
 - **ID**: arxiv_2606.05409v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.05409v3](http://arxiv.org/abs/2606.05409v3)
+
+## From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting
+- **ID**: arxiv_2606.11381v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11381v3](http://arxiv.org/abs/2606.11381v3)
 
 ## MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold
 - **ID**: arxiv_2606.13376v2
@@ -909,6 +934,11 @@
 - **ID**: arxiv_2606.27345v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27345v3](http://arxiv.org/abs/2606.27345v3)
+
+## MatMMExtract: An Open-Source Pipeline for Panel-Level Extraction of Grounded Image-Text Pairs from Materials Science Literature
+- **ID**: arxiv_2606.29667v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29667v2](http://arxiv.org/abs/2606.29667v2)
 
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
@@ -1845,6 +1875,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02471v1](http://arxiv.org/abs/2608.02471v1)
 
+## Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery
+- **ID**: arxiv_2608.02471v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02471v2](http://arxiv.org/abs/2608.02471v2)
+
 ## EchoCache: Energy-Guided Cross-Modal Caching for Efficient Audio-Driven Video Generation
 - **ID**: arxiv_2608.02474v1
 - **Source**: ArXiv
@@ -2630,6 +2665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14778v2](http://arxiv.org/abs/2608.14778v2)
 
+## Instruction-Based Video Editing by Repurposing an Image Editing Model
+- **ID**: arxiv_2608.14790v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14790v3](http://arxiv.org/abs/2608.14790v3)
+
 ## TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
 - **ID**: arxiv_2608.16765v1
 - **Source**: ArXiv
@@ -2830,6 +2870,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20334v1](http://arxiv.org/abs/2608.20334v1)
 
+## Exploring the Performance Frontier of Compact Unified Image Generation Models
+- **ID**: arxiv_2608.20334v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20334v2](http://arxiv.org/abs/2608.20334v2)
+
 ## 4DAnyone: Create Anyone in 4D from a Casual Monocular Video
 - **ID**: arxiv_2608.20335v1
 - **Source**: ArXiv
@@ -2839,4 +2884,44 @@
 - **ID**: arxiv_2608.20336v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20336v1](http://arxiv.org/abs/2608.20336v1)
+
+## A VLM Answer Is Not an Anomaly Score: Rank Compression in Training-Free Video Anomaly Detection
+- **ID**: arxiv_2608.21244v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21244v1](http://arxiv.org/abs/2608.21244v1)
+
+## Just Noticeable Difference Modeling for Token Compression in Vision-Language-Action Models
+- **ID**: arxiv_2608.21247v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21247v1](http://arxiv.org/abs/2608.21247v1)
+
+## On the Transferability of Agricultural Weed Detection Under Cross-Field Distribution Shift
+- **ID**: arxiv_2608.21254v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21254v1](http://arxiv.org/abs/2608.21254v1)
+
+## WildFin: An In-the-Wild Dataset for Fish Behavioral Recognition
+- **ID**: arxiv_2608.21281v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21281v1](http://arxiv.org/abs/2608.21281v1)
+
+## Difficulty-Calibrated Interpolation Paths for Conditional Flow Matching
+- **ID**: arxiv_2608.21286v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21286v1](http://arxiv.org/abs/2608.21286v1)
+
+## When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning
+- **ID**: arxiv_2608.21300v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21300v1](http://arxiv.org/abs/2608.21300v1)
+
+## Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning
+- **ID**: arxiv_2608.21305v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21305v1](http://arxiv.org/abs/2608.21305v1)
+
+## OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs
+- **ID**: arxiv_2608.21360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21360v1](http://arxiv.org/abs/2608.21360v1)
 
