@@ -5416,6 +5416,11 @@
 - **URL**: [https://openai.com/index/the-five-ai-value-models-driving-business-reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention)
 
 ## 
+- **ID**: rss_https://openai.com/index/the-full-stack-behind-abundant-intelligence
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-full-stack-behind-abundant-intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
+
+## 
 - **ID**: rss_https://openai.com/index/the-instruction-hierarchy
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/the-instruction-hierarchy](https://openai.com/index/the-instruction-hierarchy)
