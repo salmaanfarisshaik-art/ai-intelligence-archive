@@ -1631,6 +1631,11 @@
 - **URL**: [https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll](https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll)
 
 ## 
+- **ID**: rss_https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia](https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia)
+
+## 
 - **ID**: rss_https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus](https://openai.com/index/disrupting-malicious-uses-of-ai-iranian-influence-nexus)

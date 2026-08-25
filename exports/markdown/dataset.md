@@ -86,7 +86,7 @@
 - **ID**: hf_ds_621ffdd236468d709f1835cf
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/huggingface/documentation-images](https://huggingface.co/datasets/huggingface/documentation-images)
-- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, license:cc-by-nc-sa-4.0, modality:image, region:us, size_categories:n<1K
+- **Tags**: license:cc-by-nc-sa-4.0, region:us
 
 ## huggingface-course/documentation-images
 - **ID**: hf_ds_621ffdd236468d709f1835d5
@@ -213,6 +213,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/osv5m/osv5m](https://huggingface.co/datasets/osv5m/osv5m)
 - **Tags**: license:cc-by-sa-4.0, region:us
+
+## google/IFEval
+- **ID**: hf_ds_658570e3bae0736365b32de4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/google/IFEval](https://huggingface.co/datasets/google/IFEval)
+- **Tags**: arxiv:2311.07911, format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:text, region:us, size_categories:n<1K, task_categories:text-generation
 
 ## jacobbieker/eumetsat-rss
 - **ID**: hf_ds_65a18a266e478287a038a6a6
@@ -902,7 +908,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
 ## HuggingFaceCode/stack-v3-train
 - **ID**: hf_ds_6a615c95fb10b1093e0ea9ed

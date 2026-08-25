@@ -546,13 +546,8 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:imagefolder",
-      "library:datasets",
-      "library:mlcroissant",
       "license:cc-by-nc-sa-4.0",
-      "modality:image",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -1669,6 +1664,36 @@
     },
     "source_url": "https://huggingface.co/datasets/osv5m/osv5m",
     "local_path": "datasets/osv5m/hf_ds_6582e9185b0dec368695b712.json"
+  },
+  {
+    "id": "hf_ds_658570e3bae0736365b32de4",
+    "title": "google/IFEval",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2311.07911",
+      "format:json",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:apache-2.0",
+      "modality:text",
+      "region:us",
+      "size_categories:n<1K",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/google"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/google/IFEval",
+    "local_path": "datasets/google/hf_ds_658570e3bae0736365b32de4.json"
   },
   {
     "id": "hf_ds_65a18a266e478287a038a6a6",
@@ -4828,7 +4853,13 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "format:imagefolder",
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:audio",
+      "modality:image",
+      "region:us",
+      "size_categories:n<1K"
     ],
     "links": {
       "related_models": [],

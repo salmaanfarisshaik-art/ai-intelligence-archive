@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87792
+**Total Entities Tracked**: 87795
 
 ## Category Distribution
 
@@ -8,9 +8,9 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 1713
-- **models**: 1540
-- **news**: 1170
-- **dataset**: 1152
+- **models**: 1541
+- **news**: 1171
+- **dataset**: 1153
 - **text-generation**: 1005
 - **cs.CV**: 597
 - **cs.AI**: 364
@@ -88,11 +88,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30431
+- ****: 30432
 - **Hugging Face**: 2012
 - **ArXiv**: 1878
-- **OpenAI Blog**: 1156
-- **HuggingFace Datasets**: 152
+- **OpenAI Blog**: 1157
+- **HuggingFace Datasets**: 153
 - **GitHub Trending**: 49
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -132,33 +132,33 @@
 
 ## Top Tags
 
-- **region:us**: 221
+- **region:us**: 222
 - **text-generation**: 70
-- **library:datasets**: 68
-- **library:mlcroissant**: 68
-- **modality:text**: 62
+- **library:datasets**: 69
+- **library:mlcroissant**: 69
+- **modality:text**: 63
 - **transformers**: 62
 - **endpoints_compatible**: 60
+- **license:apache-2.0**: 60
 - **safetensors**: 60
-- **license:apache-2.0**: 59
-- **language:en**: 57
+- **language:en**: 58
+- **library:polars**: 53
 - **conversational**: 52
-- **library:polars**: 52
 - **license:mit**: 43
 - **format:parquet**: 42
 - **text-generation-inference**: 33
 - **deploy:azure**: 32
-- **library:pandas**: 27
+- **library:pandas**: 28
 - **en**: 26
 - **enterprise**: 25
 - **eval-results**: 25
 - **library:dask**: 25
-- **task_categories:text-generation**: 24
+- **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
 - **modality:image**: 20
+- **size_categories:n<1K**: 19
 - **modality:tabular**: 18
 - **qwen3**: 18
-- **size_categories:n<1K**: 18
 - **license:other**: 17
 - **api**: 16
 - **license:cc-by-4.0**: 14
@@ -173,12 +173,12 @@
 - **pytorch**: 10
 - **source_datasets:original**: 10
 - **custom_code**: 9
+- **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
 - **size_categories:n>1T**: 9
+- **format:json**: 8
 - **language:ar**: 8
 - **language:zh**: 8
 - **llama**: 8
-- **modality:audio**: 8
-- **security**: 8

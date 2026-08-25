@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c9674490249665d658f527e2684848377108d82c",
   "description": "YODAS2 is the long-form dataset from YODAS dataset.\nIt provides the same dataset as espnet/yodas  but YODAS2 has the following new features:\n\nformatted in the long-form (video-level) where audios are not segmented.\naudios are encoded using higher sampling rates (i.e. 24k)\n\nFor detailed information about YODAS dataset, please refer to our paper and the espnet/yodas repo.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage:\n\t\n\nEach data point corresponds to an entire video on YouTube, it contains the following fields:\n\nvideo_id:… See the full description on the dataset page: https://huggingface.co/datasets/espnet/yodas2.",
-  "downloads": 73261,
+  "downloads": 73757,
   "tags": [
     "license:cc-by-3.0",
     "arxiv:2406.00899",

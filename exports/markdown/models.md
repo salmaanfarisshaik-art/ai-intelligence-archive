@@ -4904,6 +4904,10 @@
 - **ID**: model_sarvamai_sarvam_30b
 - **Source**: 
 
+## sbintuitions/sarashina2.2-0.5b-instruct-v0.1
+- **ID**: model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1
+- **Source**: 
+
 ## sbintuitions/tiny-lm
 - **ID**: model_sbintuitions_tiny_lm
 - **Source**: 

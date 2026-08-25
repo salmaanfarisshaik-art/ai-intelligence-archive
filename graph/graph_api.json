@@ -9592,6 +9592,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_658570e3bae0736365b32de4",
+      "target": "datasets/google"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_65c7e3da4451e58b8ded6212",
       "target": "datasets/espnet"
     },
@@ -10221,7 +10226,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-25T08:40:46.450392+00:00",
+  "generated_at": "2026-08-25T09:33:33.013223+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -136387,6 +136392,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_658570e3bae0736365b32de4",
+      "label": "google/IFEval"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_65a18a266e478287a038a6a6",
       "label": "jacobbieker/eumetsat-rss"
     },
@@ -150644,6 +150654,11 @@
       "category": "models",
       "id": "model_sarvamai_sarvam_30b",
       "label": "sarvamai/sarvam-30b"
+    },
+    {
+      "category": "models",
+      "id": "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1",
+      "label": "sbintuitions/sarashina2.2-0.5b-instruct-v0.1"
     },
     {
       "category": "models",
@@ -289853,6 +289868,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-hoax-russian-troll",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "label": ""
     },
     {
@@ -449187,6 +449207,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 2044,
-  "total_nodes": 87792
+  "total_edges": 2045,
+  "total_nodes": 87795
 }
