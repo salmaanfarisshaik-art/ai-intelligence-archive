@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 69
+**Total Changes:** 70
 
 ## Added
 None
@@ -16,9 +16,8 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/google/hf_google_gemma-3-1b-it.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.0-9B-GGUF.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/zai-org/hf_zai-org_GLM-5.2.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -57,6 +56,8 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
