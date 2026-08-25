@@ -2876,6 +2876,11 @@
 - **URL**: [https://openai.com/index/introducing-activation-atlases](https://openai.com/index/introducing-activation-atlases)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-admin-plugin
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-admin-plugin](https://openai.com/index/introducing-admin-plugin)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-agentkit
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-agentkit](https://openai.com/index/introducing-agentkit)

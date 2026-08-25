@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 82
+**Total Changes:** 84
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_the-full-stack-behind-abundant-intelligence.json
+- prompts/openai-blog/rss_https___openai.com_index_introducing-admin-plugin.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,8 +16,6 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
-- datasets/huggingfacecode/hf_ds_6a615c95fb10b1093e0ea9ed.json
 - datasets/huggingfacefw/hf_ds_66212f29fb07c3e05ad0432e.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - exports/csv/all_entities.csv
@@ -28,7 +26,9 @@
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- prompts/openai-blog/rss_https___openai.com_index_premium-seats-chatgpt-business.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -69,6 +69,7 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
@@ -85,6 +86,7 @@
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
