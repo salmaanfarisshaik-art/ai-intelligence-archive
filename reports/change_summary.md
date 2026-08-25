@@ -1,37 +1,58 @@
 # Change Summary
 
-**Total Changes:** 79
+**Total Changes:** 100
 
 ## Added
 None
 
 ## Modified
+- data/metadata/analytics.json
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
+- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/genrobot2025/hf_ds_6954cdff0a36f347a9b323fd.json
+- data/metadata/tag_index.json
+- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- exports/csv/all_entities.csv
+- exports/csv/dataset.csv
+- exports/json/all_entities.json
+- exports/json/dataset.json
+- exports/markdown/dataset.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/distilbert/hf_distilbert_distilgpt2.json
-- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
-- models/eleutherai/hf_EleutherAI_pythia-160m.json
-- models/facebook/hf_facebook_opt-125m.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai-community/hf_openai-community_gpt2.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/hmellor/hf_hmellor_tiny-random-LlamaForCausalLM.json
+- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-14B-AWQ.json
+- models/qwen/hf_Qwen_Qwen3-30B-A3B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
 - models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
-- models/tinyllama/hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0.json
-- models/zai-org/hf_zai-org_GLM-5.2.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
+- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
@@ -55,6 +76,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
+- tools/github-trending/gh_130688011.json
 - tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
@@ -66,7 +88,6 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
