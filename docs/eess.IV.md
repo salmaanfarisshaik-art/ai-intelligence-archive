@@ -11,6 +11,8 @@
 | [Harnessing Magnitude-Only and Complex Measurements for Improved Dynamic MRI Reconstruction with Learned Priors](http://arxiv.org/abs/2608.18036v1) | ArXiv |  | 1 |
 | [InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting](http://arxiv.org/abs/2508.13287v4) | ArXiv |  | 1 |
 | [Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction](http://arxiv.org/abs/2608.18055v1) | ArXiv |  | 1 |
+| [SAS: Segment Anything Small for Ultrasound -- A Non-Generative Data Augmentation Technique for Robust Deep Learning in Ultrasound Imaging](http://arxiv.org/abs/2503.05916v2) | ArXiv |  | 1 |
 | [Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v5) | ArXiv |  | 1 |
 | [UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI](http://arxiv.org/abs/2608.14422v1) | ArXiv |  | 1 |
+| [VLM- and LLM-Driven Multi-Agent System for PET Image Denoising](http://arxiv.org/abs/2608.13791v2) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

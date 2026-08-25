@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23566v1",
+  "schema_version": "1.0",
+  "name": "How to Train a Critic Stably and Efficiently",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23566v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23566v1",
+    "updated": "2026-08-24T17:59:39Z",
+    "published": "2026-08-24T17:59:39Z",
+    "title": "How to Train a Critic Stably and Efficiently",
+    "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop \\textbf{Best-Practice Critic Optimization (BPCO)}, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the effect of each design choice. Across mathematical reasoning tasks with models ranging from 1.5B parameters to 30B-A3B mixtures of experts, BPCO improves a strong critic-based baseline consistently, and matches or exceeds a group-based baseline while sampling one response per prompt. The same recipe also improves learning with rubric-based rewards. These results show that a carefully designed critic provides a reliable alternative to group-relative advantage estimation. Code is available at https://github.com/QPHutu/golden_critic",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:59:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23566v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23526v1",
+  "schema_version": "1.0",
+  "name": "Correcting a learned physical invariant improves world-model rollouts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23526v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23526v1",
+    "updated": "2026-08-24T17:29:40Z",
+    "published": "2026-08-24T17:29:40Z",
+    "title": "Correcting a learned physical invariant improves world-model rollouts",
+    "summary": "World models can predict video without learning dynamics that they reliably preserve. We test whether a frozen DreamerV3 trained only on pendulum video learns a scalar that its own latent transition treats as approximately conserved. A label-free search recovers the same energy-like invariant across independently trained conservative models, while the same procedure finds no comparable invariant in matched damped models. During autonomous rollouts, this quantity drifts. Projecting the latent state back toward its initial level set reduces rollout error in all three conservative models, whereas matched random constraints usually increase it. These results distinguish a dynamically meaningful invariant from a merely decodable correlate and reveal a concrete failure mode: a world model can learn a physical constraint from pixels yet violate that constraint when it imagines forward.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:29:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23526v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

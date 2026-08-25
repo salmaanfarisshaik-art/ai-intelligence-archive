@@ -255,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08523v2](http://arxiv.org/abs/2604.08523v2)
 
+## Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types
+- **ID**: arxiv_2604.09544v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.09544v3](http://arxiv.org/abs/2604.09544v3)
+
 ## Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces
 - **ID**: arxiv_2604.11996v5
 - **Source**: ArXiv
@@ -1665,6 +1670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19197v1](http://arxiv.org/abs/2608.19197v1)
 
+## SPADE: Self-Play in Adaptive Synthetic Executable Environments
+- **ID**: arxiv_2608.19197v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19197v2](http://arxiv.org/abs/2608.19197v2)
+
 ## Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
 - **ID**: arxiv_2608.20281v1
 - **Source**: ArXiv
@@ -1719,4 +1729,34 @@
 - **ID**: arxiv_2608.21325v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21325v1](http://arxiv.org/abs/2608.21325v1)
+
+## How Useful are LLMs for Grammar Engineering? Cantonese ParGram Resources and Controlled Experimental Evaluation with English Baselines
+- **ID**: arxiv_2608.23448v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23448v1](http://arxiv.org/abs/2608.23448v1)
+
+## What's the Catch? Evaluating Temporal Consistency in Vision-Language Models
+- **ID**: arxiv_2608.23474v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23474v1](http://arxiv.org/abs/2608.23474v1)
+
+## On the Threat Model of Weird Generalization and Emergent Misalignment
+- **ID**: arxiv_2608.23476v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23476v1](http://arxiv.org/abs/2608.23476v1)
+
+## When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World
+- **ID**: arxiv_2608.23507v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23507v1](http://arxiv.org/abs/2608.23507v1)
+
+## ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings
+- **ID**: arxiv_2608.23551v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23551v1](http://arxiv.org/abs/2608.23551v1)
+
+## SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?
+- **ID**: arxiv_2608.23564v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23564v1](http://arxiv.org/abs/2608.23564v1)
 

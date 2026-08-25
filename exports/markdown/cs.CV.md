@@ -115,6 +115,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.20302v2](http://arxiv.org/abs/2506.20302v2)
 
+## StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation
+- **ID**: arxiv_2506.20756v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.20756v4](http://arxiv.org/abs/2506.20756v4)
+
 ## DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
@@ -219,6 +224,11 @@
 - **ID**: arxiv_2511.05017v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.05017v3](http://arxiv.org/abs/2511.05017v3)
+
+## DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping
+- **ID**: arxiv_2511.05575v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.05575v2](http://arxiv.org/abs/2511.05575v2)
 
 ## RISE: Single Static Radar-based Indoor Scene Understanding
 - **ID**: arxiv_2511.14019v4
@@ -519,6 +529,11 @@
 - **ID**: arxiv_2606.05409v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.05409v3](http://arxiv.org/abs/2606.05409v3)
+
+## Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting
+- **ID**: arxiv_2606.06158v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06158v2](http://arxiv.org/abs/2606.06158v2)
 
 ## From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting
 - **ID**: arxiv_2606.11381v3
@@ -934,6 +949,11 @@
 - **ID**: arxiv_2606.27345v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27345v3](http://arxiv.org/abs/2606.27345v3)
+
+## ReWorld: Representation Learning for World Action Models
+- **ID**: arxiv_2606.27504v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27504v2](http://arxiv.org/abs/2606.27504v2)
 
 ## MatMMExtract: An Open-Source Pipeline for Panel-Level Extraction of Grounded Image-Text Pairs from Materials Science Literature
 - **ID**: arxiv_2606.29667v2
@@ -2924,4 +2944,44 @@
 - **ID**: arxiv_2608.21360v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21360v1](http://arxiv.org/abs/2608.21360v1)
+
+## Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar
+- **ID**: arxiv_2608.23479v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23479v1](http://arxiv.org/abs/2608.23479v1)
+
+## GeoWAM: Visual Geometry World Action Models for Autonomous Driving
+- **ID**: arxiv_2608.23486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23486v1](http://arxiv.org/abs/2608.23486v1)
+
+## SVD-Based Typicality Maps for Out-of-Distribution Detection in Vision Transformers
+- **ID**: arxiv_2608.23499v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23499v1](http://arxiv.org/abs/2608.23499v1)
+
+## Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search
+- **ID**: arxiv_2608.23503v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23503v1](http://arxiv.org/abs/2608.23503v1)
+
+## Investigating Relational Reasoning in VLMs
+- **ID**: arxiv_2608.23518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23518v1](http://arxiv.org/abs/2608.23518v1)
+
+## Predicting Multiple Clinical Outcomes Related to Functional Recovery and Social Isolation Among Older Adults After Lower-Limb Fracture or Hip Replacement
+- **ID**: arxiv_2608.23531v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23531v1](http://arxiv.org/abs/2608.23531v1)
+
+## FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors
+- **ID**: arxiv_2608.23549v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23549v1](http://arxiv.org/abs/2608.23549v1)
+
+## EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings
+- **ID**: arxiv_2608.23563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23563v1](http://arxiv.org/abs/2608.23563v1)
 

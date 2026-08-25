@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23499v1",
+  "schema_version": "1.0",
+  "name": "SVD-Based Typicality Maps for Out-of-Distribution Detection in Vision Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23499v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23499v1",
+    "updated": "2026-08-24T17:03:02Z",
+    "published": "2026-08-24T17:03:02Z",
+    "title": "SVD-Based Typicality Maps for Out-of-Distribution Detection in Vision Transformers",
+    "summary": "We present a method for analyzing the internal representations of Vision Transformers (ViTs) exploiting the geometry of their learned parameters. Each affine layer's weight matrix is factored via Singular Value Decomposition (SVD), and activations are projected onto the leading right singular vectors to obtain compact, layer-intrinsic representations. A class-conditional density model is then fitted at each layer, producing per-class \\emph{typicality scores} that are stacked across depth into \\emph{typicality maps}: two-dimensional summaries of how class-specific evidence evolves through the network. From these maps, we derive two post-hoc scores for Out-Of-Distribution (OOD) detection: a \\emph{Prototype Alignment Score} (PAS), measuring agreement with class reference prototype patterns, and a \\emph{Multi-Layer Soft Voting} (MLSV) score, capturing cross-layer consensus without stored prototypes. On ViT-B/16 fine-tuned on CIFAR-100, the proposed scores achieve competitive detection performance without retraining or OOD exposure.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:03:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23499v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

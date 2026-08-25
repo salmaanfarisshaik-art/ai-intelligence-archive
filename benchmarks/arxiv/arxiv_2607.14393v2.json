@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.14393v2",
+  "schema_version": "1.0",
+  "name": "An offline approach to fNIRS-guided reinforcement learning for robot behavior",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.14393v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.14393v2",
+    "updated": "2026-08-24T17:50:36Z",
+    "published": "2026-07-15T22:12:39Z",
+    "title": "An offline approach to fNIRS-guided reinforcement learning for robot behavior",
+    "summary": "Human-in-the-loop Reinforcement Learning has become a popular approach for training, finetuning, and aligning robot behavior with user preferences. Our paper explores the feasibility of using brain signals via functional near-infrared spectroscopy (fNIRS) to modulate robot learning in simulation. We compare agents trained on passive (observational) versus active (demonstrative) interaction tasks, and test multiple methods for enhancing the RL algorithm with the neural signal, focusing on parameter augmentation in contrast to replacement. We further examine how model granularity and noise affect agent learning. Our results show that this framework is effective. The neural signal improves learning when augmenting trajectory priorities and state-action q-targets. Additionally, the framework learns successfully from offline data, offering a practical alternative for settings where real-time BCI setups are impractical or only limited data is available.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:50:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.14393v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

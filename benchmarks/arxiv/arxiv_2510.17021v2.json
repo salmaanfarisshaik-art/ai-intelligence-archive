@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.17021v2",
+  "schema_version": "1.0",
+  "name": "Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM Unlearning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.17021v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.17021v2",
+    "updated": "2026-08-24T17:24:26Z",
+    "published": "2025-10-19T22:00:01Z",
+    "title": "Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM Unlearning",
+    "summary": "Large language model (LLM) unlearning is a key approach for removing undesired data, knowledge, or behaviors from pretrained models while retaining their general utility. Yet, with the rise of open-weight LLMs, we ask: can the unlearning process itself be backdoored, appearing successful under normal conditions yet reverting to pre-unlearned behavior when a hidden trigger is activated? Drawing inspiration from classical backdoor attacks that embed triggers into training data to enforce specific behaviors, we investigate backdooring unlearning, a setting in which models forget as intended in the clean setting but recover forgotten knowledge when the trigger appears. We show that designing such attacks presents unique challenges, hinging on where triggers are placed and how backdoor training is reinforced. We uncover a strong link between the backdoor efficacy and the attention sink phenomenon (i.e., shallow input tokens consistently attract disproportionate attention). Our analysis reveals that these attention sinks serve as gateways for backdooring unlearning: placing triggers at sink positions and aligning their attention values markedly enhances backdoor persistence. Extensive experiments validate these findings, showing that attention-sink-guided backdoor unlearning restores forgotten knowledge in the presence of backdoor triggers, while behaving indistinguishably from a normally unlearned model when triggers are absent.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:24:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.17021v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

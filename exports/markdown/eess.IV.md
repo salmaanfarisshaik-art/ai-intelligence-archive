@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2205.06947v3](http://arxiv.org/abs/2205.06947v3)
 
+## SAS: Segment Anything Small for Ultrasound -- A Non-Generative Data Augmentation Technique for Robust Deep Learning in Ultrasound Imaging
+- **ID**: arxiv_2503.05916v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.05916v2](http://arxiv.org/abs/2503.05916v2)
+
 ## Sequential Attention-based Sampling for Histopathological Analysis
 - **ID**: arxiv_2507.05077v5
 - **Source**: ArXiv
@@ -24,6 +29,11 @@
 - **ID**: arxiv_2608.12227v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12227v1](http://arxiv.org/abs/2608.12227v1)
+
+## VLM- and LLM-Driven Multi-Agent System for PET Image Denoising
+- **ID**: arxiv_2608.13791v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13791v2](http://arxiv.org/abs/2608.13791v2)
 
 ## UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI
 - **ID**: arxiv_2608.14422v1

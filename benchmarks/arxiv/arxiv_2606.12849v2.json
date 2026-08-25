@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.12849v2",
+  "schema_version": "1.0",
+  "name": "SemanticXR: Low Power and Real-time Queryable Semantic Mapping with an Object-Level Device-Cloud Architecture",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.12849v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.12849v2",
+    "updated": "2026-08-24T16:27:27Z",
+    "published": "2026-06-11T03:24:05Z",
+    "title": "SemanticXR: Low Power and Real-time Queryable Semantic Mapping with an Object-Level Device-Cloud Architecture",
+    "summary": "Semantic mapping is a core service that enables grounded interactions in emerging Extended Reality (XR) applications such as AI assistants. Deploying this capability on mobile XR devices requires a system that is open-vocabulary, real-time, and low-power. Existing approaches are compute-intensive and assume server-class resources. Cloud offloading offers a practical path, but no existing system splits semantic mapping between the device and the cloud, and current approaches do not address how to manage communication, execution, and memory footprint across the device-cloud boundary. We present SemanticXR, the first device-cloud system for real-time, open-vocabulary semantic mapping and querying under XR power, bandwidth, and memory constraints. Our key insight is to elevate semantically identifiable objects to first-class units of system design, governing how the system communicates, executes, and manages memory across the device and the server. Evaluation against a new, aggressive device-cloud baseline shows that object-level system organization improves server-side mapping latency by 2.2x at equivalent semantic quality. Object-level depth-mapping co-design maintains upstream bandwidth under 2.5 Mbps. On the device, an object-level sparse local map with incremental updates and update prioritization enables sub-100 ms query latency for up to 10,000 objects even under network drops, supports tens of thousands of objects within 500 MB memory footprint, and scales downstream bandwidth with map changes rather than total scene size. The system adds only about 2% to idle device power.",
+    "primary_category": "cs.DC"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:27:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.12849v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

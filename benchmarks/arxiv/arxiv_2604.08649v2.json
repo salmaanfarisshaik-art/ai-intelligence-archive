@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.08649v2",
+  "schema_version": "1.0",
+  "name": "PRAGMA: Revolut Foundation Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.08649v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.08649v2",
+    "updated": "2026-08-24T16:38:04Z",
+    "published": "2026-04-09T18:00:00Z",
+    "title": "PRAGMA: Revolut Foundation Model",
+    "summary": "Modern financial systems generate vast quantities of transactional and event-level data that encode rich economic signals. This paper presents PRAGMA, a family of foundation models for banking event sequences. Our approach pre-trains a Transformer-based architecture with masked modelling on a large-scale, heterogeneous banking event corpus using a self-supervised objective tailored to the discrete, variable-length nature of financial records. The resulting model supports a wide range of downstream tasks such as credit scoring, fraud detection, and lifetime value prediction: strong performance can be achieved by training a simple linear model on top of the extracted embeddings and can be further improved with lightweight fine-tuning. Through extensive evaluation on downstream tasks, we demonstrate that PRAGMA achieves superior performance across multiple domains directly from raw event sequences, providing a general-purpose representation layer for financial applications.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:38:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.08649v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

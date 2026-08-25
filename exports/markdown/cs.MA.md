@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07454v1](http://arxiv.org/abs/2608.07454v1)
 
+## The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams
+- **ID**: arxiv_2608.23541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23541v1](http://arxiv.org/abs/2608.23541v1)
+

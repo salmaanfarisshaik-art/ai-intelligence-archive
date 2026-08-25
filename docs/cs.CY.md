@@ -25,4 +25,5 @@
 | [Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation](http://arxiv.org/abs/2608.02551v1) | ArXiv |  | 1 |
 | [Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice](http://arxiv.org/abs/2608.14399v1) | ArXiv |  | 1 |
 | [Why we need an AI-resilient society](http://arxiv.org/abs/1912.08786v3) | ArXiv |  | 1 |
+| [Why we need an AI-resilient society- Profiling Large Language Models](http://arxiv.org/abs/1912.08786v4) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.20768v2",
+  "schema_version": "1.0",
+  "name": "Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.20768v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.20768v2",
+    "updated": "2026-08-24T17:53:17Z",
+    "published": "2026-08-21T06:15:43Z",
+    "title": "Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization",
+    "summary": "Specialist language models are usually understood through endpoint gains: the generalist scores lower, the specialist scores higher, and the difference is treated as evidence of specialization. This leaves the released update itself largely unexamined. We propose a paired weight-delta path audit and apply it to two public, aligned generalist-to-medical-specialist checkpoint pairs: Gemma-3-4B-IT to MedGemma-4B-IT and Qwen2.5-7B-Instruct to HuatuoGPT-o1-7B. In both pairs, the full decoder-side update strongly reconstructs measured medical benchmark movement (0.974 and 1.183 endpoint-normalized retention), making each decoder delta an appropriate substrate for the audit. Yet the movement is not cleanly localized. MLP is the strongest broad component family in both pairs, but mixed off-domain movements, 10-seed matched controls, and endpoint-anchored rollbacks prevent a unique coarse-family explanation. The audit therefore separates update-level reconstruction from component-level explanation. Its claims concern text-only multiple-choice benchmark movement, not clinical validation, repair, or circuit-level mechanism.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:53:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.20768v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.20756v4",
+  "schema_version": "1.0",
+  "name": "StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.20756v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.20756v4",
+    "updated": "2026-08-24T17:36:51Z",
+    "published": "2025-06-25T18:35:10Z",
+    "title": "StereoDiff: Stereo-Diffusion Synergy for Video Depth Estimation",
+    "summary": "Recent video depth estimation methods achieve great performance by following the paradigm of image depth estimation, i.e., typically fine-tuning pre-trained video diffusion models with massive data. However, we argue that video depth estimation is not a naive extension of image depth estimation. The temporal consistency requirements for dynamic and static regions in videos are fundamentally different. Consistent video depth in static regions, typically backgrounds, can be more effectively achieved via stereo matching across all frames, which provides much stronger global 3D cues. While the consistency for dynamic regions still should be learned from large-scale video depth data to ensure smooth transitions, due to the violation of triangulation constraints. Based on these insights, we introduce StereoDiff, a two-stage video depth estimator that synergizes stereo matching for mainly the static areas with video depth diffusion for maintaining consistent depth transitions in dynamic areas. We mathematically demonstrate how stereo matching and video depth diffusion offer complementary strengths through frequency domain analysis, highlighting the effectiveness of their synergy in capturing the advantages of both. Experimental results on zero-shot, real-world, dynamic video depth benchmarks, both indoor and outdoor, demonstrate StereoDiff's SoTA performance, showcasing its superior consistency and accuracy in video depth estimation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:36:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.20756v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

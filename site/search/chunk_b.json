@@ -2149,6 +2149,13 @@
       "score": 1.0
     }
   ],
+  "backdooring": [
+    {
+      "entity_id": "arxiv_2510.17021v2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "backdoors": [
     {
       "entity_id": "dataset_vincent_hkustgz_padbench",
@@ -19592,6 +19599,21 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.23499v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.23503v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.23536v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_bigcode_bigcodebench",
       "match_type": "exact",
       "score": 2.0
@@ -22276,6 +22298,11 @@
       "entity_id": "rss_https://openai.com/index/openai-baselines-dqn",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "arxiv_2608.23448v1",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "rss_https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines",
@@ -62433,6 +62460,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2607.14393v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2607.19300v1",
       "match_type": "exact",
       "score": 2.0
@@ -62454,6 +62486,11 @@
     },
     {
       "entity_id": "arxiv_2608.21243v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.23478v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -71516,6 +71553,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.23564v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_allenai_reward_bench_results",
       "match_type": "exact",
       "score": 2.0
@@ -72213,6 +72255,11 @@
     },
     {
       "entity_id": "arxiv_2608.21360v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.23507v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -73022,6 +73069,11 @@
     },
     {
       "entity_id": "arxiv_2608.21249v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.23525v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -88986,6 +89038,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.20768v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/beyond-rate-limits",
       "match_type": "exact",
       "score": 2.0
@@ -104676,6 +104733,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.23562v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1137773562190456737",
       "match_type": "exact",
       "score": 1.0
@@ -110509,6 +110571,13 @@
       "entity_id": "dataset_bodymaps_cancerverse",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "bodyseismography": [
+    {
+      "entity_id": "arxiv_2608.23562v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "bodysuit": [

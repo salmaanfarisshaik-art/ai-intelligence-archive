@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.05575v2",
+  "schema_version": "1.0",
+  "name": "DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.05575v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.05575v2",
+    "updated": "2026-08-24T16:39:03Z",
+    "published": "2025-11-04T18:56:49Z",
+    "title": "DiffSwap++: 3D Latent-Controlled Diffusion for Identity-Preserving Face Swapping",
+    "summary": "Diffusion-based approaches have recently achieved strong results in face swapping, offering improved visual quality over traditional GAN-based methods. However, even state-of-the-art models often suffer from fine-grained artifacts and poor identity preservation, particularly under challenging poses and expressions. A key limitation of existing approaches is their failure to meaningfully leverage 3D facial structure, which is crucial for disentangling identity from pose and expression. In this work, we propose DiffSwap++, a novel diffusion-based face-swapping pipeline that incorporates 3D facial latent features during training. By guiding the generation process with 3D-aware representations, our method enhances geometric consistency and improves the disentanglement of facial identity from appearance attributes. We further design a diffusion architecture that conditions the denoising process on both identity embeddings and facial landmarks, enabling high-fidelity and identity-preserving face swaps. Extensive experiments on CelebA, FFHQ, and CelebV-Text demonstrate that DiffSwap++ outperforms prior methods in preserving source identity while maintaining target pose and expression. Additionally, we introduce a biometric-style evaluation and conduct a user study to further validate the realism and effectiveness of our approach. Code will be made publicly available at https://github.com/WestonBond/DiffSwapPP",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:39:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.05575v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

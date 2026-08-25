@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.10949v2",
+  "schema_version": "1.0",
+  "name": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.10949v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.10949v2",
+    "updated": "2026-08-24T16:52:44Z",
+    "published": "2026-06-09T14:53:32Z",
+    "title": "Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models",
+    "summary": "Persistent memory systems promise to make LLMs more helpful by storing user beliefs over time. We show they also make models less correct by amplifying sycophancy, wherein models prioritize agreement with users over accuracy. We conduct the first systematic evaluation of this effect, introducing MIST: a benchmark of synthetically generated multi-turn conversations where users express plausible misconceptions in scientific, medical, and moral reasoning domains. Testing across three state-of-the-art memory systems and five model families reveals that memory amplifies sycophantic behavior across all conditions, with up to 40% higher sycophancy rates than in-context baselines. Error analyses suggest memory extraction as the primary culprit: lossy compression of only discrete snippets from user turns encodes user misconceptions while discarding corrective context. Based on these results, we propose three lightweight mitigations to a memory system that substantially reduce sycophancy while matching or exceeding memory systems at factual recall.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:52:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.10949v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

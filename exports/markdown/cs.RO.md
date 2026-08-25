@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.03751v2](http://arxiv.org/abs/2603.03751v2)
 
+## When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making
+- **ID**: arxiv_2603.16673v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.16673v5](http://arxiv.org/abs/2603.16673v5)
+
 ## Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis
 - **ID**: arxiv_2604.01463v2
 - **Source**: ArXiv
@@ -114,6 +119,11 @@
 - **ID**: arxiv_2606.20491v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20491v1](http://arxiv.org/abs/2606.20491v1)
+
+## An offline approach to fNIRS-guided reinforcement learning for robot behavior
+- **ID**: arxiv_2607.14393v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14393v2](http://arxiv.org/abs/2607.14393v2)
 
 ## RoboTTT: Context Scaling for Robot Policies
 - **ID**: arxiv_2607.15275v1
@@ -329,4 +339,14 @@
 - **ID**: arxiv_2608.21290v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21290v1](http://arxiv.org/abs/2608.21290v1)
+
+## Reward-Free Continual Adaptation for Resilient Space Robots
+- **ID**: arxiv_2608.23452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23452v1](http://arxiv.org/abs/2608.23452v1)
+
+## Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models
+- **ID**: arxiv_2608.23478v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23478v1](http://arxiv.org/abs/2608.23478v1)
 

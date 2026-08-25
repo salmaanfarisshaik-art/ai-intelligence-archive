@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23471v1",
+  "schema_version": "1.0",
+  "name": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23471v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23471v1",
+    "updated": "2026-08-24T16:37:50Z",
+    "published": "2026-08-24T16:37:50Z",
+    "title": "InjecMEM: Memory Injection Attack on LLM Agent Memory Systems",
+    "summary": "Memory is becoming a default subsystem in deployed LLM agents to provide persistent personalization and continuity. This naturally prompts a question: will memory system introduce new vulnerabilities into agents? Thus we propose InjecMEM, a novel memory injection attack paradigm that requires only a single interaction (no read/edit access to memory store) to steer later responses of related queries toward a pre-specified output. Guided by the retrieval-then-generate mechanism of memory systems, we craft the injection with a retriever-agnostic anchor and an adversarial command. The anchor contains high-recall topical cues so that downstream retrieval consistently associates the record with the target topic. The command is a short sequence optimized to remain effective under uncertain fused contexts, variable placements, and long prompts so that it reliably steers outputs once retrieved. We learn the command via gradient-based coordinate search, averaging over synthetic prompt templates and insertion positions, and extend it to joint optimization across backbones to study transfer. Evaluated across multiple memory systems and backbone models, InjecMEM achieves reliable topic-conditioned retrieval and targeted generation, remains effective under memory drift, and leaves non-target queries unaffected. Our results underscore the need to harden memory systems and provide a reproducible framework for studying agent memory.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:37:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23471v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

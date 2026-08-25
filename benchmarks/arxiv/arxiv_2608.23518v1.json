@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23518v1",
+  "schema_version": "1.0",
+  "name": "Investigating Relational Reasoning in VLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23518v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23518v1",
+    "updated": "2026-08-24T17:23:36Z",
+    "published": "2026-08-24T17:23:36Z",
+    "title": "Investigating Relational Reasoning in VLMs",
+    "summary": "Vision-Language Models (VLMs) achieve strong performance in visual reasoning tasks, but it remains unclear whether they understand visual relations, or simply employ shortcuts such as language cues or priors. To investigate this, we use the Qwen3-VL-4B (Bai et al., 2025), a modern VLM, to decode how visual information is encoded across depths. For this, we propose a synthetic dataset of simple geometric shapes for controlled analysis, along with queries crafted to precisely test language cues. Furthermore, the dataset is modified to test causal reliance on visual evidence. Our results show that current VLMs combine genuine visual reasoning with shortcut strategies primarily rooted in language cues.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T17:23:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23518v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

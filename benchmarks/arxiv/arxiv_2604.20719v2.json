@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.20719v2",
+  "schema_version": "1.0",
+  "name": "ONOTE: Hypergraph-Grounded Omnimodal Reasoning for Computational Music Science",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.20719v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.20719v2",
+    "updated": "2026-08-24T16:46:58Z",
+    "published": "2026-04-22T16:06:48Z",
+    "title": "ONOTE: Hypergraph-Grounded Omnimodal Reasoning for Computational Music Science",
+    "summary": "Omnimodal notation processing, centered on sheet music, is a controlled scientific setting in which auditory, visual, symbolic, and physical representations must encode the same musical events. Yet existing work remains fragmented across recognition and transcription, rarely testing structural consistency across notation systems. Western-staff bias and underspecified model judges further conceal errors in pitch, timing, ordering, and instrument-specific constraints. We introduce ONOTE, a unified framework that treats music as a scientifically structured domain of measurable cross-representation correspondences. Its test-only benchmark draws on a diverse collection of musical sources covering staff, Jianpu, and tablature across varied genres, instruments, and structural conditions, with aligned multimodal derivatives. Four complementary tasks cover score understanding, notation conversion, audio transcription, and symbolic generation, testing pitch and duration ordering, output syntax, and disclosed instrument-specific constraints. ONOTE also constructs a provenance-bearing proposition hypergraph from external music-theory materials for entity- and hyperedge-based evidence retrieval. Deterministic validity checks, disclosed structural-compliance SMG scoring, and controlled RAG comparisons reveal gaps between visual recognition and structure-preserving outputs. Results separate perception from music-theory application and structural or physical constraint satisfaction. ONOTE provides an auditable framework for studying representation invariance and knowledge-grounded intervention in computational music science.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-08-25T02:56:53Z",
+  "last_updated": "2026-08-24T16:46:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.20719v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

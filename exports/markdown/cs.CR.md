@@ -200,3 +200,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16775v1](http://arxiv.org/abs/2608.16775v1)
 
+## InjecMEM: Memory Injection Attack on LLM Agent Memory Systems
+- **ID**: arxiv_2608.23471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23471v1](http://arxiv.org/abs/2608.23471v1)
+
+## Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition
+- **ID**: arxiv_2608.23536v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23536v1](http://arxiv.org/abs/2608.23536v1)
+

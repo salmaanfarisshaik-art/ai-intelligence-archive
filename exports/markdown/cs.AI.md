@@ -225,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07897v2](http://arxiv.org/abs/2606.07897v2)
 
+## Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models
+- **ID**: arxiv_2606.10949v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.10949v2](http://arxiv.org/abs/2606.10949v2)
+
 ## Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
 - **ID**: arxiv_2606.11042v3
 - **Source**: ArXiv
@@ -1735,6 +1740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20320v1](http://arxiv.org/abs/2608.20320v1)
 
+## Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization
+- **ID**: arxiv_2608.20768v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20768v2](http://arxiv.org/abs/2608.20768v2)
+
 ## CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment
 - **ID**: arxiv_2608.21278v1
 - **Source**: ArXiv
@@ -1764,4 +1774,49 @@
 - **ID**: arxiv_2608.21357v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21357v1](http://arxiv.org/abs/2608.21357v1)
+
+## StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models
+- **ID**: arxiv_2608.23475v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23475v1](http://arxiv.org/abs/2608.23475v1)
+
+## Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation
+- **ID**: arxiv_2608.23484v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23484v1](http://arxiv.org/abs/2608.23484v1)
+
+## SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning
+- **ID**: arxiv_2608.23493v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23493v1](http://arxiv.org/abs/2608.23493v1)
+
+## Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
+- **ID**: arxiv_2608.23497v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23497v1](http://arxiv.org/abs/2608.23497v1)
+
+## EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards
+- **ID**: arxiv_2608.23525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23525v1](http://arxiv.org/abs/2608.23525v1)
+
+## Correcting a learned physical invariant improves world-model rollouts
+- **ID**: arxiv_2608.23526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23526v1](http://arxiv.org/abs/2608.23526v1)
+
+## How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles
+- **ID**: arxiv_2608.23543v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23543v1](http://arxiv.org/abs/2608.23543v1)
+
+## Prime Agent: A Self-Improving RLM Harness
+- **ID**: arxiv_2608.23552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23552v1](http://arxiv.org/abs/2608.23552v1)
+
+## ReWorld: An Interactive World Model with Long-Horizon Memory
+- **ID**: arxiv_2608.23565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23565v1](http://arxiv.org/abs/2608.23565v1)
 

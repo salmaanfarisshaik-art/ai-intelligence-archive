@@ -90,6 +90,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.14717v2](http://arxiv.org/abs/2510.14717v2)
 
+## Forgetting to Forget: Attention Sink as A Gateway for Backdooring LLM Unlearning
+- **ID**: arxiv_2510.17021v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.17021v2](http://arxiv.org/abs/2510.17021v2)
+
 ## When Fewer Layers Break More Chains: Layer Pruning Harms Test-Time Scaling in LLMs
 - **ID**: arxiv_2510.22228v2
 - **Source**: ArXiv
@@ -174,6 +179,11 @@
 - **ID**: arxiv_2604.01476v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01476v3](http://arxiv.org/abs/2604.01476v3)
+
+## PRAGMA: Revolut Foundation Model
+- **ID**: arxiv_2604.08649v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08649v2](http://arxiv.org/abs/2604.08649v2)
 
 ## What Is the Minimum Architecture for Prolepsis? Early Irrevocable Commitment Across Tasks in Small Transformers
 - **ID**: arxiv_2604.15010v2
@@ -989,4 +999,14 @@
 - **ID**: arxiv_2608.19181v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19181v1](http://arxiv.org/abs/2608.19181v1)
+
+## MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
+- **ID**: arxiv_2608.23473v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23473v1](http://arxiv.org/abs/2608.23473v1)
+
+## How to Train a Critic Stably and Efficiently
+- **ID**: arxiv_2608.23566v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23566v1](http://arxiv.org/abs/2608.23566v1)
 
