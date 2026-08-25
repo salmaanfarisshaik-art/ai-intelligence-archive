@@ -3331,6 +3331,11 @@
 - **URL**: [https://openai.com/index/jakub-pachocki-announced-as-chief-scientist](https://openai.com/index/jakub-pachocki-announced-as-chief-scientist)
 
 ## 
+- **ID**: rss_https://openai.com/index/jalapeno-first-results
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/jalapeno-first-results](https://openai.com/index/jalapeno-first-results)
+
+## 
 - **ID**: rss_https://openai.com/index/japan-economic-blueprint
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/japan-economic-blueprint](https://openai.com/index/japan-economic-blueprint)
