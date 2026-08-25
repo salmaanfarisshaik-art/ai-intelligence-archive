@@ -669,6 +669,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_behavior_1k_2025_challenge_rawdata
+- **Source**: 
+
+## 
 - **ID**: dataset_behavior_1k_2026_challenge_demos
 - **Source**: 
 
@@ -962,6 +966,10 @@
 
 ## 
 - **ID**: dataset_chuhaojie_meld
+- **Source**: 
+
+## 
+- **ID**: dataset_cimec_lambada
 - **Source**: 
 
 ## 
@@ -1974,6 +1982,10 @@
 
 ## 
 - **ID**: dataset_hollow12334_fsc_180k
+- **Source**: 
+
+## 
+- **ID**: dataset_horizonrobotics_embodiedgendata
 - **Source**: 
 
 ## 
@@ -5237,6 +5249,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pkgforge_pkgcache
+- **Source**: 
+
+## 
 - **ID**: dataset_pku_alignment_beavertails
 - **Source**: 
 
@@ -5470,6 +5486,10 @@
 
 ## 
 - **ID**: dataset_rexx_new_computer_use_large
+- **Source**: 
+
+## 
+- **ID**: dataset_richarderkhov_dasp
 - **Source**: 
 
 ## 

@@ -3792,8 +3792,16 @@
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-35B-A3B-MLX-4bit
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx_4bit
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-35B-A3B-NVFP4
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_nvfp4
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-397B
+- **ID**: model_ornith_ai_ornith_1_5_397b
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-397B-FP8
@@ -6082,6 +6090,10 @@
 
 ## z-lab/Qwen3.8-27B-DFlash2
 - **ID**: model_z_lab_qwen3_8_27b_dflash2
+- **Source**: 
+
+## z-lab/Qwen3.8-27B-DFlash2-GGUF
+- **ID**: model_z_lab_qwen3_8_27b_dflash2_gguf
 - **Source**: 
 
 ## z-lab/Qwen3-8B-DFlash-b16

@@ -10226,7 +10226,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-25T09:33:33.013223+00:00",
+  "generated_at": "2026-08-25T10:31:06.943893+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -125532,6 +125532,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_behavior_1k_2025_challenge_rawdata",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_behavior_1k_2026_challenge_demos",
       "label": ""
     },
@@ -125898,6 +125903,11 @@
     {
       "category": "datasets",
       "id": "dataset_chuhaojie_meld",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_cimec_lambada",
       "label": ""
     },
     {
@@ -127163,6 +127173,11 @@
     {
       "category": "datasets",
       "id": "dataset_hollow12334_fsc_180k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_horizonrobotics_embodiedgendata",
       "label": ""
     },
     {
@@ -131242,6 +131257,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_pkgforge_pkgcache",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_pku_alignment_beavertails",
       "label": ""
     },
@@ -131533,6 +131553,11 @@
     {
       "category": "datasets",
       "id": "dataset_rexx_new_computer_use_large",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_richarderkhov_dasp",
       "label": ""
     },
     {
@@ -149267,8 +149292,18 @@
     },
     {
       "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx_4bit",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-MLX-4bit"
+    },
+    {
+      "category": "models",
       "id": "model_ornith_ai_ornith_1_5_35b_a3b_nvfp4",
       "label": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_397b",
+      "label": "ornith-ai/Ornith-1.5-397B"
     },
     {
       "category": "models",
@@ -152129,6 +152164,11 @@
       "category": "models",
       "id": "model_z_lab_qwen3_8_27b_dflash2",
       "label": "z-lab/Qwen3.8-27B-DFlash2"
+    },
+    {
+      "category": "models",
+      "id": "model_z_lab_qwen3_8_27b_dflash2_gguf",
+      "label": "z-lab/Qwen3.8-27B-DFlash2-GGUF"
     },
     {
       "category": "models",
@@ -449208,5 +449248,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 2045,
-  "total_nodes": 87795
+  "total_nodes": 87803
 }
