@@ -1,59 +1,33 @@
 # Change Summary
 
-**Total Changes:** 95
+**Total Changes:** 70
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- datasets/dagonulca/hf_ds_6a04fe32c08e541d106bc6fe.json
-- datasets/drakesuper/hf_ds_6a05090783b099c94f623217.json
-- datasets/gutoportelaa/hf_ds_6a2afbce4ee2fe1cd5f3a6bd.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
+- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/picbreeder-vlm/hf_ds_6a18ded575c463d5aecfcf4d.json
-- datasets/quejing/hf_ds_6a1901f9165364c3c9f8e5fe.json
-- datasets/robodojo-benchmark/hf_ds_6a252aa1e7f978cbccbe94ed.json
-- datasets/xdof/hf_ds_6a307dae8e258cbed418ec58.json
-- exports/csv/all_entities.csv
-- exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
-- exports/json/all_entities.json
-- exports/json/dataset.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/markdown/dataset.md
-- exports/markdown/datasets.md
-- exports/markdown/models.md
+- datasets/rekaai/hf_ds_6a7609d6663f80dd30d388fc.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -72,6 +46,7 @@ None
 - tools/github-trending/gh_1201476594.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -82,7 +57,6 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_634224458.json
 - tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
@@ -98,6 +72,7 @@ None
 - tools/github-trending/gh_787076358.json
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
+- tools/github-trending/gh_968197216.json
 - tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
