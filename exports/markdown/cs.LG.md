@@ -945,6 +945,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14505v1](http://arxiv.org/abs/2608.14505v1)
 
+## MAPLE: MoE Adaptive Plug-and-play Layer-wise Expert allocation
+- **ID**: arxiv_2608.15299v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15299v2](http://arxiv.org/abs/2608.15299v2)
+
 ## CaliBench: Are the Stochastic Dynamics of Video World Models Physically Calibrated?
 - **ID**: arxiv_2608.16829v1
 - **Source**: ArXiv
@@ -1000,6 +1005,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19181v1](http://arxiv.org/abs/2608.19181v1)
 
+## Credit Without Ground Truth: Auditing Step-Level Credit Assignment in LLM Agents Against Executed Replay
+- **ID**: arxiv_2608.19760v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19760v2](http://arxiv.org/abs/2608.19760v2)
+
+## Functional compatibility as a determinant of persistent neural learning
+- **ID**: arxiv_2608.22462v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.22462v2](http://arxiv.org/abs/2608.22462v2)
+
 ## MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
 - **ID**: arxiv_2608.23473v1
 - **Source**: ArXiv
@@ -1009,4 +1024,9 @@
 - **ID**: arxiv_2608.23566v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23566v1](http://arxiv.org/abs/2608.23566v1)
+
+## Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations
+- **ID**: arxiv_2608.24762v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24762v1](http://arxiv.org/abs/2608.24762v1)
 

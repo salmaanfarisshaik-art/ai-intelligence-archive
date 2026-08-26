@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24756v1",
+  "schema_version": "1.0",
+  "name": "Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24756v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24756v1",
+    "updated": "2026-08-25T15:55:49Z",
+    "published": "2026-08-25T15:55:49Z",
+    "title": "Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery",
+    "summary": "Seagrass meadows are crucial blue-carbon habitats, and mapping their extent is a prerequisite for coastal management and carbon inventory. Optical satellite sensors cover large areas but cannot reach deep or turbid water, whereas side-scan sonar (SSS) images the seabed at high resolution and at any depth. Interpreting SSS, however, still relies on dense manual annotation, which is slow and costly. We address this by adapting a weakly supervised semantic segmentation framework to SSS benthic habitat mapping, so that pixel-level maps are learned from image-level labels alone. The framework couples a ViT-based encoder-decoder with a classification branch, extracts class activation maps, and refines them into pseudo-labels with a dense conditional random field that we tune for the noise and weak boundaries of acoustic imagery. It follows an iterative self-training scheme, together with a sampling strategy to cope with the strong class imbalance of the data. We also study the effect of different loss functions on segmentation quality, finding Lovász-Softmax loss the most effective. On a held-out transect, the refined pseudo-labels reached an mIoU of 89.3\\% against the ground truth, and the segmentation branch, trained without any pixel-level labels, reached 87.6\\%. Self-supervised pretraining on unlabelled SSS added a further 3\\% in mean intersection-over-union. Field trials further demonstrate the generalizability of the trained model. These results show that accurate and label-efficient benthic habitat mapping from side-scan sonar is feasible at the scale needed for coast-wide seagrass monitoring.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T15:55:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24756v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

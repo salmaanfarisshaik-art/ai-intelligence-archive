@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.02304v3",
+  "schema_version": "1.0",
+  "name": "Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.02304v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.02304v3",
+    "updated": "2026-08-25T16:37:42Z",
+    "published": "2026-02-02T16:36:21Z",
+    "title": "Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models",
+    "summary": "Large-scale foundation models exhibit behavioral shifts when subjected to interventions such as scaling, fine-tuning, reinforcement learning with human feedback, or in-context learning. Current explainability methods are structurally ill-suited to explain these shifts, because they either treat models as static objects, as traditional eXplainable AI (XAI) approaches do, or merely compare independent explanations across different checkpoints of a model. As a result, these approaches fail to explain the functional transition between two model instances in which a certain behavior has shifted following an intervention. This gap creates significant governance risks across jurisdictions including the EU AI Act, US state legislation, and Chinese AI regulations, which require documenting causal chains for substantial system modifications. This position paper argues that explaining behavioral shifts in large language models requires a principled approach that treats the shift itself as the primary object of explanation: namely, one that explains how and why an intervention transforms a reference model into an updated model with different behavior. To support this claim, we introduce Comparative XAI (XAI$_Δ$), a novel XAI paradigm aimed at explaining the difference between two model checkpoints where a behavior has shifted, together with a set of desiderata specifying what XAI$_Δ$ explainers and explanations must satisfy, including comparability, validity, actionability, and monitoring, with the goal of grounding model auditing in explicit, measurable requirements. Finally, we provide preliminary evidence suggesting the need for XAI$_Δ$ in practice through illustrative experiments, compiling the resulting findings into a transition report directly usable for governance and incident documentation.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:37:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.02304v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

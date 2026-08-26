@@ -145,6 +145,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27080v1](http://arxiv.org/abs/2607.27080v1)
 
+## MOSAIC: Masked Outsourcing of Secure AI Computations
+- **ID**: arxiv_2607.29221v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29221v2](http://arxiv.org/abs/2607.29221v2)
+
 ## Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning
 - **ID**: arxiv_2608.05045v1
 - **Source**: ArXiv

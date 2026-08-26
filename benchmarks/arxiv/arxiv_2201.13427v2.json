@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2201.13427v2",
+  "schema_version": "1.0",
+  "name": "Fuzzy Segmentations of a String",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2201.13427v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2201.13427v2",
+    "updated": "2026-08-25T17:10:17Z",
+    "published": "2022-01-31T18:40:03Z",
+    "title": "Fuzzy Segmentations of a String",
+    "summary": "This article discusses a particular case of the data clustering problem, where it is necessary to find groups of adjacent text segments of the appropriate length that match a fuzzy pattern represented as a sequence of fuzzy properties. To solve this problem, a heuristic algorithm for finding a sufficiently large number of solutions is proposed. The key idea of the proposed algorithm is the use of the prefix structure to track the process of mapping text segments to fuzzy properties.\n  An important special case of the text segmentation problem is the fuzzy string matching problem, when adjacent text segments have unit length and, accordingly, the fuzzy pattern is a sequence of fuzzy properties of text characters. It is proven that the heuristic segmentation algorithm in this case finds all text segments that match the fuzzy pattern.\n  Finally, we consider the problem of a best segmentation of the entire text based on a fuzzy pattern, which is solved using the dynamic programming method.\n  Keywords: fuzzy clustering, fuzzy string matching, approximate string matching",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T17:10:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2201.13427v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24782v1",
+  "schema_version": "1.0",
+  "name": "Image Difference Quantification Using Autoencoder-Based Latent Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24782v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24782v1",
+    "updated": "2026-08-25T16:23:47Z",
+    "published": "2026-08-25T16:23:47Z",
+    "title": "Image Difference Quantification Using Autoencoder-Based Latent Representations",
+    "summary": "Traditional image similarity metrics such as Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), and the Structural Similarity Index Measure (SSIM) rely on pixel-level comparisons and often fail to capture perceptually meaningful differences between images. In contrast, latent representations learned by deep neural networks encode high-level semantic information that is more closely aligned with human visual perception. This paper proposes a convolutional autoencoder-based framework for quantifying image differences using cosine similarity in latent space. The learned compact embeddings enable robust differentiation between visually distinct images under variations in illumination, pose, and background. Extensive evaluation on dog-cat images and additional cross-domain datasets demonstrates clear class-wise clustering and strong inter-class separability in the latent space, with 98.4% of dog-cat image pairs exhibiting similarity scores below 0.5. Further validation using the TID2013 dataset shows that latent-space distance correlates positively with human Mean Opinion Scores (MOS), demonstrating sensitivity to perceptually relevant image distortions. The proposed approach provides a computationally efficient and semantically grounded alternative to conventional pixel-based similarity metrics, with potential applications in content-based retrieval, perceptual quality assessment, and semantic similarity analysis.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:23:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24782v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

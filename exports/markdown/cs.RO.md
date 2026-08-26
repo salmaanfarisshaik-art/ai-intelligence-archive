@@ -230,6 +230,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02578v1](http://arxiv.org/abs/2608.02578v1)
 
+## AeroDPO: Unleashing Lightweight UAV Navigation with High-Fidelity Perception and Automated Preference Optimization
+- **ID**: arxiv_2608.07557v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07557v2](http://arxiv.org/abs/2608.07557v2)
+
 ## SpeedTuning: Speeding Up Policy Execution with Lightweight Reinforcement Learning
 - **ID**: arxiv_2608.09138v2
 - **Source**: ArXiv
@@ -349,4 +354,9 @@
 - **ID**: arxiv_2608.23478v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23478v1](http://arxiv.org/abs/2608.23478v1)
+
+## Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning
+- **ID**: arxiv_2608.24885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24885v1](http://arxiv.org/abs/2608.24885v1)
 

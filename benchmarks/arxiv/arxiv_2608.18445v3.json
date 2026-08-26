@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.18445v3",
+  "schema_version": "1.0",
+  "name": "Formal Verification of Romanov's Triplet Logic: A Verified Filter for Sliding-window 3-CNF with Application to Structured Formulas",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.18445v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.18445v3",
+    "updated": "2026-08-25T16:37:46Z",
+    "published": "2026-08-19T02:20:59Z",
+    "title": "Formal Verification of Romanov's Triplet Logic: A Verified Filter for Sliding-window 3-CNF with Application to Structured Formulas",
+    "summary": "We present the first mechanised formalisation of Romanov's Triplet Logic (TLS) in the Rocq proof assistant. TLS is a combinatorial framework originally motivated by Boolean satisfiability, based on triplet structures and a filter that we call Simple Vertex Intersection (SVI). We formalise the core of TLS, including its translation from 3-CNF, the clearing procedure, and the SVI algorithm. For the well-formed sliding-window fragment, we prove explicit polynomial-time bounds for the filter stages and verify the translation and intersection operations. Our main contribution is a precise correctness boundary: for general formulas, SVI non-emptiness is necessary but not sufficient for satisfiability; for aligned structures, we prove a full bi-implication, extended to systems of structures. We also formalise the grouped-window translation and provide a formal counterexample to its completeness. We introduce VFR (Verified Filter for Romanov's triplet logic), an extracted OCaml prototype that implements a verified decision procedure for the sliding-window fragment and a sound filter for general 3-CNF, with a Python runtime and Docker packaging. Benchmarks corroborate the predicted behaviour, and the complete toolchain is available as a curated Zenodo artifact. The Rocq development comprises over 23,000 lines of code, with 424 proved lemmas and no unproved assumptions.",
+    "primary_category": "cs.LO"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:37:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.18445v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

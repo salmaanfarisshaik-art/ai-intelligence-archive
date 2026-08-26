@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24783v1",
+  "schema_version": "1.0",
+  "name": "MoE-based Feature Adapter for Prompt-free Binary Coronary Artery Segmentation in X-ray Angiography",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24783v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24783v1",
+    "updated": "2026-08-25T16:24:53Z",
+    "published": "2026-08-25T16:24:53Z",
+    "title": "MoE-based Feature Adapter for Prompt-free Binary Coronary Artery Segmentation in X-ray Angiography",
+    "summary": "Accurate segmentation of coronary arteries in X-ray angiography videos is essential for quantitative coronary analysis and image-guided interventions. However, accurate segmentation remains challenging because coronary vessels are thin and exhibit low contrast, while the presence of catheters, guidewires, and complex anatomical background structures can further interfere with vessel delineation. Existing U-Net- and Transformer-based models provide strong baselines, but their shared feature-adaptation pathways may be insufficient for heterogeneous angiographic appearances. In this paper, we propose a prompt-free mixture-of-experts (MoE) feature adapter for binary coronary artery segmentation. Built upon parameter-efficient Vision Transformer adapters, the proposed method uses multiple lightweight experts with input-dependent top-$k$ routing to adaptively refine vessel-related features while limiting active computational cost. Experiments on MOSXAV and external evaluation on XACV show that the proposed method outperforms representative baselines and improves cross-dataset generalisation. These results suggest that MoE-based adapter learning is effective for robust coronary artery segmentation in X-ray angiography videos.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:24:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24783v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

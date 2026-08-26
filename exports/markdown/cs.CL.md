@@ -745,6 +745,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00848v3](http://arxiv.org/abs/2607.00848v3)
 
+## RusFinChain: A Russian Benchmark for Verifiable Chain-of-Thought Reasoning in Finance with Fuzzy-Aligned Evaluation
+- **ID**: arxiv_2607.01388v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01388v2](http://arxiv.org/abs/2607.01388v2)
+
 ## Will Scaling Improve Social Simulation with LLMs?
 - **ID**: arxiv_2607.02464v2
 - **Source**: ArXiv
@@ -1695,6 +1700,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20338v1](http://arxiv.org/abs/2608.20338v1)
 
+## An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study
+- **ID**: arxiv_2608.20373v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20373v2](http://arxiv.org/abs/2608.20373v2)
+
 ## RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models
 - **ID**: arxiv_2608.21236v1
 - **Source**: ArXiv
@@ -1730,6 +1740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21325v1](http://arxiv.org/abs/2608.21325v1)
 
+## Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation
+- **ID**: arxiv_2608.23152v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23152v2](http://arxiv.org/abs/2608.23152v2)
+
 ## How Useful are LLMs for Grammar Engineering? Cantonese ParGram Resources and Controlled Experimental Evaluation with English Baselines
 - **ID**: arxiv_2608.23448v1
 - **Source**: ArXiv
@@ -1759,4 +1774,29 @@
 - **ID**: arxiv_2608.23564v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23564v1](http://arxiv.org/abs/2608.23564v1)
+
+## ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints
+- **ID**: arxiv_2608.24760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24760v1](http://arxiv.org/abs/2608.24760v1)
+
+## Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text
+- **ID**: arxiv_2608.24780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24780v1](http://arxiv.org/abs/2608.24780v1)
+
+## Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch
+- **ID**: arxiv_2608.24809v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24809v1](http://arxiv.org/abs/2608.24809v1)
+
+## Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows
+- **ID**: arxiv_2608.24842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24842v1](http://arxiv.org/abs/2608.24842v1)
+
+## BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes
+- **ID**: arxiv_2608.24848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24848v1](http://arxiv.org/abs/2608.24848v1)
 

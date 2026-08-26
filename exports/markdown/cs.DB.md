@@ -1,5 +1,10 @@
 # Cs.Db Export
 
+## Bridging Business Intent and Data: A Benchmark for Automatic Relational Data Product Generation
+- **ID**: arxiv_2512.15798v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.15798v2](http://arxiv.org/abs/2512.15798v2)
+
 ## Human-Level Text-to-SQL via Reinforcement Learning on Verified Data, Without Pipeline Engineering
 - **ID**: arxiv_2603.20004v4
 - **Source**: ArXiv

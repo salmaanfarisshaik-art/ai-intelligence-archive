@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2008.07324v6](http://arxiv.org/abs/2008.07324v6)
 
+## Fuzzy Segmentations of a String
+- **ID**: arxiv_2201.13427v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2201.13427v2](http://arxiv.org/abs/2201.13427v2)
+
 ## Online design of dynamic networks
 - **ID**: arxiv_2410.08875v3
 - **Source**: ArXiv
@@ -90,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models
+- **ID**: arxiv_2602.02304v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.02304v3](http://arxiv.org/abs/2602.02304v3)
+
 ## Statistical Early Stopping for Reasoning Models
 - **ID**: arxiv_2602.13935v3
 - **Source**: ArXiv
@@ -124,6 +134,11 @@
 - **ID**: arxiv_2604.01363v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01363v2](http://arxiv.org/abs/2604.01363v2)
+
+## Retrieval-aligned Tabular Foundation Models Enable Robust Clinical Risk Prediction in Electronic Health Records Under Real-world Constraints
+- **ID**: arxiv_2604.01841v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01841v4](http://arxiv.org/abs/2604.01841v4)
 
 ## AI Assistance Reduces Persistence and Hurts Independent Performance
 - **ID**: arxiv_2604.04721v3
@@ -544,6 +559,11 @@
 - **ID**: arxiv_2607.11436v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.11436v2](http://arxiv.org/abs/2607.11436v2)
+
+## Atomic Units of X: The Compression Layer of Intelligence
+- **ID**: arxiv_2607.12634v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.12634v2](http://arxiv.org/abs/2607.12634v2)
 
 ## Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL
 - **ID**: arxiv_2607.13073v2
@@ -1819,4 +1839,64 @@
 - **ID**: arxiv_2608.23565v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23565v1](http://arxiv.org/abs/2608.23565v1)
+
+## RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons
+- **ID**: arxiv_2608.24758v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24758v1](http://arxiv.org/abs/2608.24758v1)
+
+## Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav
+- **ID**: arxiv_2608.24764v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24764v1](http://arxiv.org/abs/2608.24764v1)
+
+## StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing
+- **ID**: arxiv_2608.24777v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24777v1](http://arxiv.org/abs/2608.24777v1)
+
+## Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought
+- **ID**: arxiv_2608.24790v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24790v1](http://arxiv.org/abs/2608.24790v1)
+
+## CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
+- **ID**: arxiv_2608.24794v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24794v1](http://arxiv.org/abs/2608.24794v1)
+
+## StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments
+- **ID**: arxiv_2608.24804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24804v1](http://arxiv.org/abs/2608.24804v1)
+
+## Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core
+- **ID**: arxiv_2608.24810v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24810v1](http://arxiv.org/abs/2608.24810v1)
+
+## Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA
+- **ID**: arxiv_2608.24824v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24824v1](http://arxiv.org/abs/2608.24824v1)
+
+## A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments
+- **ID**: arxiv_2608.24825v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24825v1](http://arxiv.org/abs/2608.24825v1)
+
+## FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs
+- **ID**: arxiv_2608.24846v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24846v1](http://arxiv.org/abs/2608.24846v1)
+
+## SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL
+- **ID**: arxiv_2608.24870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24870v1](http://arxiv.org/abs/2608.24870v1)
+
+## Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+- **ID**: arxiv_2608.24876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24876v1](http://arxiv.org/abs/2608.24876v1)
 

@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2512.15798v2",
+  "schema_version": "1.0",
+  "name": "Bridging Business Intent and Data: A Benchmark for Automatic Relational Data Product Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.15798v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DB",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.15798v2",
+    "updated": "2026-08-25T17:19:10Z",
+    "published": "2025-12-16T19:19:01Z",
+    "title": "Bridging Business Intent and Data: A Benchmark for Automatic Relational Data Product Generation",
+    "summary": "A data product is designed to address a specific business need by transforming raw data into a curated, usable asset that delivers actionable insights. Despite practical advances in related areas like text-to-SQL and ELT pipelines, there is no comprehensive benchmark for evaluating the end-to-end process of automatically generating such data products from high-level business requests. To fill this gap, we introduce DP-Bench, a first-of-its-kind benchmark for automatic data product creation, built by combining elements from existing ELT and text-to-SQL datasets. We also propose baseline methods using LLMs to generate data products, providing a foundation for future research in bridging natural language business intent and structured data representation. We make the DP-Bench dataset and code available at: https://huggingface.co/datasets/ibm-research/dp-bench.",
+    "primary_category": "cs.DB"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T17:19:10Z",
+  "links": {
+    "related_models": [
+      "datasets/ibm-research"
+    ],
+    "related_papers": [
+      "2512.15798v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

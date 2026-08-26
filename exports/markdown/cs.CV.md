@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Sign Language and Fingerspelling Recognition
+- **ID**: arxiv_2503.16855v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.16855v3](http://arxiv.org/abs/2503.16855v3)
+
 ## The Linear Geometry of Interpretable Tokens: Jailbreaking Attacks and Defenses for Unlearned Diffusion Models
 - **ID**: arxiv_2504.21307v3
 - **Source**: ArXiv
@@ -185,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.07546v2](http://arxiv.org/abs/2510.07546v2)
 
+## Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models
+- **ID**: arxiv_2510.13394v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.13394v4](http://arxiv.org/abs/2510.13394v4)
+
 ## Unsupervised Deep Generative Models for Anomaly Detection in Neuroimaging: A Systematic Scoping Review
 - **ID**: arxiv_2510.14462v3
 - **Source**: ArXiv
@@ -239,6 +249,11 @@
 - **ID**: arxiv_2511.14159v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.14159v4](http://arxiv.org/abs/2511.14159v4)
+
+## Layer-Aware Video Composition via Split-then-Merge
+- **ID**: arxiv_2511.20809v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.20809v2](http://arxiv.org/abs/2511.20809v2)
 
 ## DM3D: Dynamic Mamba via Offset-Guided Feature Resampling for Point Cloud Understanding
 - **ID**: arxiv_2512.03424v4
@@ -369,6 +384,11 @@
 - **ID**: arxiv_2602.23172v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.23172v2](http://arxiv.org/abs/2602.23172v2)
+
+## Spatio-Temporal Garment Reconstruction Using Diffusion Mapping via Pattern Coordinates
+- **ID**: arxiv_2602.24043v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.24043v2](http://arxiv.org/abs/2602.24043v2)
 
 ## A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification
 - **ID**: arxiv_2603.07571v3
@@ -2984,4 +3004,54 @@
 - **ID**: arxiv_2608.23563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23563v1](http://arxiv.org/abs/2608.23563v1)
+
+## Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery
+- **ID**: arxiv_2608.24756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24756v1](http://arxiv.org/abs/2608.24756v1)
+
+## IDeaL: Data-Free Multi-Teacher Distillation via Improved Dead Leaves
+- **ID**: arxiv_2608.24759v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24759v1](http://arxiv.org/abs/2608.24759v1)
+
+## MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+- **ID**: arxiv_2608.24763v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24763v1](http://arxiv.org/abs/2608.24763v1)
+
+## Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy
+- **ID**: arxiv_2608.24771v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24771v1](http://arxiv.org/abs/2608.24771v1)
+
+## Image Difference Quantification Using Autoencoder-Based Latent Representations
+- **ID**: arxiv_2608.24782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24782v1](http://arxiv.org/abs/2608.24782v1)
+
+## MoE-based Feature Adapter for Prompt-free Binary Coronary Artery Segmentation in X-ray Angiography
+- **ID**: arxiv_2608.24783v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24783v1](http://arxiv.org/abs/2608.24783v1)
+
+## EMFE: A lightweight, explainable machine learning framework for malaria cell classification
+- **ID**: arxiv_2608.24793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24793v1](http://arxiv.org/abs/2608.24793v1)
+
+## LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
+- **ID**: arxiv_2608.24845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24845v1](http://arxiv.org/abs/2608.24845v1)
+
+## LeFlow: Generative Latent Flow Planning for World Models
+- **ID**: arxiv_2608.24855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24855v1](http://arxiv.org/abs/2608.24855v1)
+
+## From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
+- **ID**: arxiv_2608.24877v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24877v1](http://arxiv.org/abs/2608.24877v1)
 

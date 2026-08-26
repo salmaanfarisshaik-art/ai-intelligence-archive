@@ -59,6 +59,7 @@
 | [AfriNLLB: Efficient Translation Models for African Languages](http://arxiv.org/abs/2602.09373v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
+| [An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study](http://arxiv.org/abs/2608.20373v2) | ArXiv |  | 1 |
 | [An Exploratory Evaluation of LLM-Assisted Rewriting of Moderate-Complexity Financial Sentences for DisCoCat-Based Sentiment Analysis](http://arxiv.org/abs/2608.07439v1) | ArXiv |  | 1 |
 | [An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data](http://arxiv.org/abs/2503.07303v3) | ArXiv |  | 1 |
 | [An Information-theoretic Propagation Denoising and Fusion Framework for Fake News Detection](http://arxiv.org/abs/2605.02259v2) | ArXiv |  | 1 |
@@ -84,6 +85,7 @@
 | [Beyond the Leaderboard: Design Lessons for Trustworthy Multimodal VQA](http://arxiv.org/abs/2607.15241v1) | ArXiv |  | 1 |
 | [Beyond Uniform Tokens: Adaptive Compression for Time Series Language Models](http://arxiv.org/abs/2606.13624v1) | ArXiv |  | 1 |
 | [Breaking the Block: Preserving Data Continuity to Train Superior SAEs for Instruct Models](http://arxiv.org/abs/2506.07691v2) | ArXiv |  | 1 |
+| [BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes](http://arxiv.org/abs/2608.24848v1) | ArXiv |  | 1 |
 | [Capability Provenance in Language Models: A Case Study in Social Reasoning](http://arxiv.org/abs/2606.19625v3) | ArXiv |  | 1 |
 | [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) | ArXiv |  | 1 |
 | [Chained Recursive Language Models for Multi-Iteration Reasoning](http://arxiv.org/abs/2608.05124v1) | ArXiv |  | 1 |
@@ -104,6 +106,7 @@
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v2) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
+| [Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation](http://arxiv.org/abs/2608.23152v2) | ArXiv |  | 1 |
 | [CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis](http://arxiv.org/abs/2507.14022v3) | ArXiv |  | 1 |
 | [Creative Transformation in Literary Texts: Modelling Change Across Representational Levels](http://arxiv.org/abs/2607.28513v1) | ArXiv |  | 1 |
 | [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) | ArXiv |  | 1 |
@@ -129,6 +132,7 @@
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
 | [Evolving language compositionality in a frequency-structured meaning space](http://arxiv.org/abs/2607.29642v1) | ArXiv |  | 1 |
 | [Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya](http://arxiv.org/abs/2607.15209v1) | ArXiv |  | 1 |
+| [ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints](http://arxiv.org/abs/2608.24760v1) | ArXiv |  | 1 |
 | [Explanations of Large Language Models Explain Language Representations in the Brain](http://arxiv.org/abs/2502.14671v4) | ArXiv |  | 1 |
 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](http://arxiv.org/abs/2606.16934v1) | ArXiv |  | 1 |
 | [Exposure is Optional: Learning Unlike Coordination in Language Models](http://arxiv.org/abs/2607.20251v1) | ArXiv |  | 1 |
@@ -197,6 +201,7 @@
 | [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1) | ArXiv |  | 1 |
 | [Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1) | ArXiv |  | 1 |
 | [Like a bilingual baby: The advantage of visually grounding a bilingual language model](http://arxiv.org/abs/2210.05487v3) | ArXiv |  | 1 |
+| [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
 | [LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure](http://arxiv.org/abs/2608.13545v1) | ArXiv |  | 1 |
 | [LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering](http://arxiv.org/abs/2608.07370v1) | ArXiv |  | 1 |
@@ -259,6 +264,7 @@
 | [RA-FinBERT: Rule-aware LoRA adaptation for low-resource financial sentiment classification](http://arxiv.org/abs/2608.09834v1) | ArXiv |  | 1 |
 | [RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models](http://arxiv.org/abs/2608.21236v1) | ArXiv |  | 1 |
 | [Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content](http://arxiv.org/abs/2607.16117v1) | ArXiv |  | 1 |
+| [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](http://arxiv.org/abs/2608.24842v1) | ArXiv |  | 1 |
 | [Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training](http://arxiv.org/abs/2608.05148v1) | ArXiv |  | 1 |
 | [Reasoning Models Know What's Important, and Encode It in Their Activations](http://arxiv.org/abs/2604.18307v2) | ArXiv |  | 1 |
 | [RECOM: A Validity Discrimination Tradeoff in Automatic Metrics for Open Ended Reddit Question Answering](http://arxiv.org/abs/2606.19218v1) | ArXiv |  | 1 |
@@ -271,6 +277,7 @@
 | [Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation](http://arxiv.org/abs/2608.02555v1) | ArXiv |  | 1 |
 | [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer](http://arxiv.org/abs/2608.06347v1) | ArXiv |  | 1 |
 | [RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills](http://arxiv.org/abs/2606.18203v1) | ArXiv |  | 1 |
+| [RusFinChain: A Russian Benchmark for Verifiable Chain-of-Thought Reasoning in Finance with Fuzzy-Aligned Evaluation](http://arxiv.org/abs/2607.01388v2) | ArXiv |  | 1 |
 | [SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](http://arxiv.org/abs/2608.13538v1) | ArXiv |  | 1 |
 | [Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?](http://arxiv.org/abs/2608.05097v1) | ArXiv |  | 1 |
 | [Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B](http://arxiv.org/abs/2607.28576v1) | ArXiv |  | 1 |
@@ -294,6 +301,7 @@
 | [StoryScope: Investigating idiosyncrasies in AI fiction](http://arxiv.org/abs/2604.03136v5) | ArXiv |  | 1 |
 | [string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms](http://arxiv.org/abs/2608.03984v1) | ArXiv |  | 1 |
 | [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) | ArXiv |  | 1 |
+| [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) | ArXiv |  | 1 |
 | [StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](http://arxiv.org/abs/2606.20527v1) | ArXiv |  | 1 |
 | [Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1) | ArXiv |  | 1 |
 | [SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?](http://arxiv.org/abs/2608.23564v1) | ArXiv |  | 1 |

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24758v1",
+  "schema_version": "1.0",
+  "name": "RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24758v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24758v1",
+    "updated": "2026-08-25T15:57:43Z",
+    "published": "2026-08-25T15:57:43Z",
+    "title": "RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons",
+    "summary": "Discovering stable neuron behavior across entire domains remains a challenge in mechanistic interpretability. Existing methods often rely on instance-level point estimates or computationally expensive procedures, which either obscure population-level variability or limit scalable domain-wide analysis. We present RACE (Residual Alignment for Consistency Estimation), a forward-pass statistical framework that evaluates the domain-wide functional consistency of Transformer neurons. Perturbation experiments demonstrate that RACE achieves superior domain specificity compared to gradient-based point estimates. Meanwhile, token-distribution-level results verify the association between the selected neurons and the target domain. Furthermore, its computational overhead is two orders of magnitude lower than that of gradient-based methods.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T15:57:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24758v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

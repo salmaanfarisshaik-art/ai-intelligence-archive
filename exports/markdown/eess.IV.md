@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.05916v2](http://arxiv.org/abs/2503.05916v2)
 
+## crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023
+- **ID**: arxiv_2506.12006v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.12006v4](http://arxiv.org/abs/2506.12006v4)
+
 ## Sequential Attention-based Sampling for Histopathological Analysis
 - **ID**: arxiv_2507.05077v5
 - **Source**: ArXiv
@@ -49,4 +54,9 @@
 - **ID**: arxiv_2608.18055v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18055v1](http://arxiv.org/abs/2608.18055v1)
+
+## Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks
+- **ID**: arxiv_2608.24768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24768v1](http://arxiv.org/abs/2608.24768v1)
 

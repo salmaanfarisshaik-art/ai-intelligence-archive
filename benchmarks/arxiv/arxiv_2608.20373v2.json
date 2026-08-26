@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.20373v2",
+  "schema_version": "1.0",
+  "name": "An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.20373v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.20373v2",
+    "updated": "2026-08-25T15:57:43Z",
+    "published": "2026-06-23T18:27:01Z",
+    "title": "An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study",
+    "summary": "Objective: To evaluate large language model (LLM) performance on unprocessed electronic medical record (EMR) data for clinical registry abstraction. Methods: We evaluated LLM performance answering registry questions for the American College of Cardiology National Cardiovascular Data Registry (ACC NCDR). In a pilot study at an academic medical center, the model identified candidate data sources for each registry question and experienced abstractors used these results to define question-specific document sets. In a validation study at a second center with a second ACC NCDR registry, the LLM answered questions using the question-specific document sets. Before reviewing any output, two abstractors independently established the ground truth and assigned each question to one of six categories, ordered by the ambiguity and clinical reasoning required to resolve it: Medication/Event Flag, Binary Clinical Presence, Administrative, Quantitative Laboratory/Physiologic, Clinical Interpretation, and Event Timing. Results: The analytical sample comprised 9,430 abstractor answers reconciled to 4,715 consensus answers (501 pilot; 4,214 validation). In the pilot, candidate data sources per question averaged between 14.6 (SD 13.9) for demographics and 89.2 (SD 56.1) for history and risk factors. In validation, human inter-rater agreement was approximately 98\\% while 87\\% of LLM answers exactly matched consensus, 2\\% partially, and 9\\% did not. Mean question-level accuracy was 91.5\\% (SD 13.4\\%) across 157 questions with at least 20 answers, and declined as ambiguity increased, from 96\\% for Medication/Event Flag to 62\\% for Event Timing questions. Conclusions: LLMs answering clinical registry questions on unprocessed EMR data achieved far lower accuracy than human abstractors. LLM accuracy fell steadily as ambiguity and the level of required clinical reasoning increased.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T15:57:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.20373v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

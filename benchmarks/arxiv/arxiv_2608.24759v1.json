@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24759v1",
+  "schema_version": "1.0",
+  "name": "IDeaL: Data-Free Multi-Teacher Distillation via Improved Dead Leaves",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24759v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24759v1",
+    "updated": "2026-08-25T15:57:52Z",
+    "published": "2026-08-25T15:57:52Z",
+    "title": "IDeaL: Data-Free Multi-Teacher Distillation via Improved Dead Leaves",
+    "summary": "Multi-teacher distillation has emerged as a way to combine complementary teacher models into a single student model that exhibits the strengths of all its teachers. The student is trained to mimic the output of the teachers on a set of images, typically the union of the individual teacher's training sets, assuming this data is available. In this paper, we question that assumption and explore alternative options. We first study how far one can go when distilling from teachers fed with different types of noise. Then, we show that information contained in the teachers can be leveraged to tailor the noise for multi-teacher distillation: we propose a method that, thanks to decorrelation losses at both patch and image levels, generates teacher-specific, improved samples optimized for data-free distillation. Experiments show that our most effective samples, IDeaL, lead to strong students that successfully capture complementary information from the teachers, yielding surprisingly competitive results that substantially narrow the gap with students distilled from real images. Moreover, given a limited budget of 1K images for distillation, students distilled using our IDeaL samples match or surpass the performance of those distilled using a 1K-image subset of ImageNet.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T15:57:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24759v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

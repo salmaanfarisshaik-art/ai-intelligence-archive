@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.13394v4",
+  "schema_version": "1.0",
+  "name": "Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.13394v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.13394v4",
+    "updated": "2026-08-25T16:01:24Z",
+    "published": "2025-10-15T10:44:01Z",
+    "title": "Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models",
+    "summary": "Spatial reasoning ability is crucial for Vision Language Models (VLMs) to support real-world applications in diverse domains including robotics, augmented reality, and autonomous navigation. Unfortunately, existing benchmarks are inadequate in assessing spatial reasoning ability, especially the \\emph{intrinsic-dynamic} spatial reasoning which is a fundamental aspect of human spatial cognition. In this paper, we propose a unified benchmark, \\textbf{Spatial-DISE}, based on a cognitively grounded taxonomy that categorizes tasks into four fundamental quadrants: \\textbf{I}ntrinsic-\\textbf{S}tatic, Intrinsic-\\textbf{D}ynamic, \\textbf{E}xtrinsic-Static, and Extrinsic-Dynamic spatial reasoning. Moreover, to address the issue of data scarcity, we develop a scalable and automated pipeline to generate diverse and verifiable spatial reasoning questions, resulting in a new \\textbf{Spatial-DISE} dataset that includes Spatial-DISE Bench (559 evaluation VQA pairs) and Spatial-DISE-12K (12K+ training VQA pairs). Our comprehensive evaluation across 28 state-of-the-art VLMs reveals that, current VLMs have a large and consistent gap to human competence, especially on multi-step multi-view spatial reasoning. Spatial-DISE offers a robust framework, valuable dataset, and clear direction for future research toward human-like spatial intelligence. Benchmark, dataset, and code will be publicly released.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:01:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.13394v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

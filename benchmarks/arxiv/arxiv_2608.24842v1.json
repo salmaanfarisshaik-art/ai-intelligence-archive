@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24842v1",
+  "schema_version": "1.0",
+  "name": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24842v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24842v1",
+    "updated": "2026-08-25T17:31:25Z",
+    "published": "2026-08-25T17:31:25Z",
+    "title": "Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows",
+    "summary": "Large language models (LLMs) are increasingly deployed as AI analysts to process financial disclosures and support AI-assisted investment decisions. Yet such systems are usually evaluated by what they can retrieve, not whether retrieved information affects their judgments. We identify a retrieval-integration gap in long-context financial analysis. Holding focal-firm information fixed and varying only unrelated context from 2,000 to 128,000 tokens, we find that a risk disclosure's influence on investment judgments falls to the experimental noise floor even as direct retrieval remains accurate. The pattern replicates across model families and judgment tasks and in experiments removing real disclosures from actual 10-K filings. More capable models postpone but do not eliminate the gap. Causal memory interventions show that compressed summaries and source-text lookup jointly transmit disclosures into judgments. Workflow architecture determines whether this transmission succeeds: chunk-and-summarize pipelines evict relevant information, whereas a targeted, structured restatement adjacent to the decision restores its influence. AI analyst performance is therefore jointly determined by model capability and workflow architecture. Retrieval-based evaluations can certify systems whose investment judgments ignore information they demonstrably retrieved.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T17:31:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24842v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.20809v2",
+  "schema_version": "1.0",
+  "name": "Layer-Aware Video Composition via Split-then-Merge",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.20809v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.20809v2",
+    "updated": "2026-08-25T17:02:06Z",
+    "published": "2025-11-25T19:53:15Z",
+    "title": "Layer-Aware Video Composition via Split-then-Merge",
+    "summary": "We present Split-then-Merge (StM), a novel framework designed to enhance control in generative video composition and address its data scarcity problem. Unlike conventional methods relying on annotated datasets or handcrafted rules, StM splits a large corpus of unlabeled videos into dynamic foreground and background layers, then self-composes them to learn how dynamic subjects interact with diverse scenes. This process enables the model to learn the complex compositional dynamics required for realistic video generation. StM introduces a novel transformation-aware training pipeline that utilizes a multi-layer fusion and augmentation to achieve affordance-aware composition, alongside an identity-preservation loss that maintains foreground fidelity during blending. Experiments show StM outperforms SoTA methods in both quantitative benchmarks and in humans/VLM-based qualitative evaluations. More details are available at our project page: https://split-then-merge.github.io",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T17:02:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.20809v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24762v1",
+  "schema_version": "1.0",
+  "name": "Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24762v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24762v1",
+    "updated": "2026-08-25T15:59:59Z",
+    "published": "2026-08-25T15:59:59Z",
+    "title": "Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations",
+    "summary": "Many disentanglement methods represent generative factors using Euclidean product coordinates, although the underlying factor spaces may wrap, collapse, or have position-dependent geometry. We introduce factor-space structure, combining factor domains, generator-induced identifications, and position-dependent scales to distinguish topologically equivalent spaces with different factor geometries. We show that statistically independent factors need not be geometrically separable: hue and scale produce effects that grow at different rates, yielding anisotropy that no fixed rescaling removes. We propose the Factor-Space Topographic Map (FactoMap), which learns interpretable prototypes indexed by a factor-space lattice. Topographic learning transfers the lattice's periodicity, collapses, and non-uniform extent to the representation. Experiments show that matching this structure preserves factor continuity and enables disentanglement of the underlying factors.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T15:59:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24762v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

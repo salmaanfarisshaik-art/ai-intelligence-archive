@@ -160,3 +160,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21356v1](http://arxiv.org/abs/2608.21356v1)
 
+## Automatic Model Card Generation Using an LLM
+- **ID**: arxiv_2608.24807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24807v1](http://arxiv.org/abs/2608.24807v1)
+

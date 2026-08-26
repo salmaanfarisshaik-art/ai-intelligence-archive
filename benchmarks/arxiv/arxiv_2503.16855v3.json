@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.16855v3",
+  "schema_version": "1.0",
+  "name": "Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Sign Language and Fingerspelling Recognition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.16855v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.16855v3",
+    "updated": "2026-08-25T16:57:18Z",
+    "published": "2025-03-21T04:57:18Z",
+    "title": "Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Sign Language and Fingerspelling Recognition",
+    "summary": "Hand gesture-based Sign Language Recognition (SLR) serves as a crucial communication bridge between deaf and non-deaf individuals. While Graph Convolutional Networks (GCNs) are common, they are limited by their reliance on fixed skeletal graphs. To overcome this, we propose the Sequential Spatio-Temporal Attention Network (SSTAN), a novel Transformer-based architecture. Our model employs a hierarchical, stacked design that sequentially integrates Spatial Multi-Head Attention (MHA) to capture intra-frame joint relationships and Temporal MHA to model long-range inter-frame dependencies. This approach allows the model to efficiently learn complex spatio-temporal patterns without predefined graph structures. We validated our model through extensive experiments on diverse, large-scale datasets (WLASL, JSL, and KSL). A key finding is that our model, trained entirely from scratch, achieves state-of-the-art (SOTA) performance in the challenging fingerspelling categories (JSL and KSL). Furthermore, it establishes a new SOTA for skeleton-only methods on WLASL, outperforming several approaches that rely on complex self-supervised pre-training. These results demonstrate our model's high data efficiency and its effectiveness in capturing the intricate dynamics of sign language. The official implementation is available at our GitHub repository: \\href{https://github.com/K-Hirooka-Aizu/skeleton-slr-transformer}{https://github.com/K-Hirooka-Aizu/skeleton-slr-transformer}.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T16:57:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.16855v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

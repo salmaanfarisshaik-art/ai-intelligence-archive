@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24845v1",
+  "schema_version": "1.0",
+  "name": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24845v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24845v1",
+    "updated": "2026-08-25T17:34:19Z",
+    "published": "2026-08-25T17:34:19Z",
+    "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+    "summary": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours. The dataset is designed for multimodal pre-training across the video, audio, and image modalities. Using content-aware scene detection, we extract clips for which we synthetically generate video and audio captions. Models trained on these data achieve competitive performance on standard video-text and audio-text benchmarks, with consistent improvements as training or model scale increases. Additionally, we explore video frames as an alternative source of image-text data by extracting scene-changing frames. These frames exhibit a visual distribution distinct from standard web image corpora, and models trained on this dataset achieve strong image-text retrieval performance. We release LAION-BVD to the research community. It significantly expands open access to multimodal videos at an unprecedented scale.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-26T03:03:05Z",
+  "last_updated": "2026-08-25T17:34:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24845v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
