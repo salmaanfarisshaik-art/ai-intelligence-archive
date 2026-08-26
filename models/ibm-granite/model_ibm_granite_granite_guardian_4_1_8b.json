@@ -19,8 +19,8 @@
     "base_model:finetune:ibm-granite/granite-4.1-8b",
     "license:apache-2.0",
     "endpoints_compatible",
-    "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
