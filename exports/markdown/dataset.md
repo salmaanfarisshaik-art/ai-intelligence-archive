@@ -866,7 +866,7 @@
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
-- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M
+- **Tags**: license:cc0-1.0, region:us
 
 ## RoboDojo-Benchmark/RoboDojo
 - **ID**: hf_ds_6a252aa1e7f978cbccbe94ed

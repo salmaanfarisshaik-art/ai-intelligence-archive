@@ -63919,11 +63919,6 @@
       "score": 6.0
     },
     {
-      "entity_id": "dataset_mteb_results",
-      "match_type": "exact",
-      "score": 6.0
-    },
-    {
       "entity_id": "dataset_mteb_scifact",
       "match_type": "exact",
       "score": 6.0
@@ -72800,6 +72795,11 @@
     },
     {
       "entity_id": "model_bigcode_starcoder2_3b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bigcode_starcoder2_7b",
       "match_type": "exact",
       "score": 1.5
     },

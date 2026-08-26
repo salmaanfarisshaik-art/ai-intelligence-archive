@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T06:47:55Z",
+  "generated_at": "2026-08-26T07:47:22Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1048,6 +1048,11 @@
     },
     {
       "source_id": "model_bigcode_starcoder2_3b",
+      "target_id": "hf_bigcode_the-stack-v2-train",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bigcode_starcoder2_7b",
       "target_id": "hf_bigcode_the-stack-v2-train",
       "type": "trained_on"
     },
