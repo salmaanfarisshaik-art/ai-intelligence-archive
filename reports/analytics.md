@@ -1,16 +1,16 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87857
+**Total Entities Tracked**: 87870
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 1718
-- **models**: 1545
+- **datasets**: 1723
+- **models**: 1552
 - **news**: 1174
-- **dataset**: 1153
+- **dataset**: 1154
 - **text-generation**: 1005
 - **cs.CV**: 611
 - **cs.AI**: 380
@@ -88,11 +88,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30441
+- ****: 30453
 - **Hugging Face**: 2012
 - **ArXiv**: 1928
 - **OpenAI Blog**: 1160
-- **HuggingFace Datasets**: 153
+- **HuggingFace Datasets**: 154
 - **GitHub Trending**: 49
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -132,7 +132,7 @@
 
 ## Top Tags
 
-- **region:us**: 222
+- **region:us**: 223
 - **library:datasets**: 70
 - **library:mlcroissant**: 70
 - **text-generation**: 70
@@ -141,7 +141,7 @@
 - **endpoints_compatible**: 60
 - **license:apache-2.0**: 60
 - **safetensors**: 60
-- **language:en**: 58
+- **language:en**: 59
 - **library:polars**: 53
 - **conversational**: 52
 - **license:mit**: 43
@@ -157,9 +157,9 @@
 - **deploy:sagemaker**: 21
 - **modality:image**: 21
 - **size_categories:n<1K**: 20
+- **license:other**: 18
 - **modality:tabular**: 18
 - **qwen3**: 18
-- **license:other**: 17
 - **api**: 16
 - **license:cc-by-4.0**: 14
 - **size_categories:10K<n<100K**: 14
@@ -173,6 +173,7 @@
 - **pytorch**: 10
 - **source_datasets:original**: 10
 - **custom_code**: 9
+- **language:zh**: 9
 - **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
@@ -180,5 +181,4 @@
 - **size_categories:n>1T**: 9
 - **format:json**: 8
 - **language:ar**: 8
-- **language:zh**: 8
 - **llama**: 8

@@ -116426,6 +116426,11 @@
       "category": "datasets"
     },
     {
+      "id": "dataset_epfml_fineweb2_embedded",
+      "label": "",
+      "category": "datasets"
+    },
+    {
       "id": "dataset_epfml_fineweb2_hq",
       "label": "",
       "category": "datasets"
@@ -118386,6 +118391,11 @@
       "category": "datasets"
     },
     {
+      "id": "dataset_icdn14_content_202606207688",
+      "label": "",
+      "category": "datasets"
+    },
+    {
       "id": "dataset_icdn14_content_20260621089f",
       "label": "",
       "category": "datasets"
@@ -119102,6 +119112,11 @@
     },
     {
       "id": "dataset_jailbreakbench_jbb_behaviors",
+      "label": "",
+      "category": "datasets"
+    },
+    {
+      "id": "dataset_jailbreakv_28k_jailbreakv_28k",
       "label": "",
       "category": "datasets"
     },
@@ -120112,6 +120127,11 @@
     },
     {
       "id": "dataset_meibo002114_fip1",
+      "label": "",
+      "category": "datasets"
+    },
+    {
+      "id": "dataset_meihualuomanxueshan_processed_interiorverse",
       "label": "",
       "category": "datasets"
     },
@@ -122177,6 +122197,11 @@
     },
     {
       "id": "dataset_superkaiba1_explore_persona_space_data",
+      "label": "",
+      "category": "datasets"
+    },
+    {
+      "id": "dataset_surgeai_gdp_pdf",
       "label": "",
       "category": "datasets"
     },
@@ -127003,6 +127028,11 @@
     {
       "id": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "label": "k9cli/video-vec2wav2-tokenizer",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "label": "inclusionAI/OpenAoE-2000h",
       "category": "dataset"
     },
     {
@@ -139321,6 +139351,16 @@
       "category": "models"
     },
     {
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx_6bit",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-MLX-6bit",
+      "category": "models"
+    },
+    {
+      "id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx_8bit",
+      "label": "ornith-ai/Ornith-1.5-35B-A3B-MLX-8bit",
+      "category": "models"
+    },
+    {
       "id": "model_ornith_ai_ornith_1_5_35b_a3b_nvfp4",
       "label": "ornith-ai/Ornith-1.5-35B-A3B-NVFP4",
       "category": "models"
@@ -139366,8 +139406,18 @@
       "category": "models"
     },
     {
+      "id": "model_ornith_ai_ornith_1_5_9b_mlx_6bit",
+      "label": "ornith-ai/Ornith-1.5-9B-MLX-6bit",
+      "category": "models"
+    },
+    {
       "id": "model_ornith_ai_ornith_1_5_9b_mlx_8bit",
       "label": "ornith-ai/Ornith-1.5-9B-MLX-8bit",
+      "category": "models"
+    },
+    {
+      "id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
+      "label": "outsourc-e/Qwen3.8-27B-Unleashed-GGUF",
       "category": "models"
     },
     {
@@ -140676,6 +140726,11 @@
       "category": "models"
     },
     {
+      "id": "model_sakamakismile_qwen3_8_27b_aeon_ultimate_uncensored_nvfp4",
+      "label": "sakamakismile/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-NVFP4",
+      "category": "models"
+    },
+    {
       "id": "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "label": "sakamakismile/Qwen3.8-27B-MTP-NVFP4",
       "category": "models"
@@ -141151,6 +141206,11 @@
       "category": "models"
     },
     {
+      "id": "model_trevorjs_gemma_4_31b_it_uncensored",
+      "label": "TrevorJS/gemma-4-31B-it-uncensored",
+      "category": "models"
+    },
+    {
       "id": "model_trevorjs_gemma_4_e2b_it_uncensored_gguf",
       "label": "TrevorJS/gemma-4-E2B-it-uncensored-GGUF",
       "category": "models"
@@ -141353,6 +141413,11 @@
     {
       "id": "model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf",
       "label": "tvall43/Qwen3.6-14B-A3B-VibeForged-v2-GGUF",
+      "category": "models"
+    },
+    {
+      "id": "model_twinkle_ai_gemma_3_4b_t1_it",
+      "label": "twinkle-ai/gemma-3-4B-T1-it",
       "category": "models"
     },
     {
@@ -449495,6 +449560,11 @@
     {
       "source": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "target": "datasets/k9cli",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "target": "datasets/inclusionAI",
       "relationship": "related_models"
     },
     {

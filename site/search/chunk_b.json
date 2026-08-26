@@ -24188,6 +24188,11 @@
       "entity_id": "dataset_inclusionai_openaoe_2000h",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "batches": [
@@ -71037,6 +71042,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_markov_ai_cad_1000_hours",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0",
       "match_type": "exact",
       "score": 1.0
@@ -72565,6 +72575,11 @@
     },
     {
       "entity_id": "dataset_allenai_molmospaces",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
       "match_type": "exact",
       "score": 1.5
     },
@@ -93813,6 +93828,11 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_markov_ai_cad_1000_hours",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "bimanual": [
@@ -94388,6 +94408,20 @@
       "score": 1.0
     }
   ],
+  "binder": [
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "binders": [
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 2.5
+    }
+  ],
   "binding": [
     {
       "entity_id": "dataset_sandboxaq_sair",
@@ -94695,6 +94729,11 @@
     },
     {
       "entity_id": "alpaca_8591173984963353288",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
       "match_type": "exact",
       "score": 1.0
     },
@@ -95318,6 +95357,13 @@
       "score": 2.0
     }
   ],
+  "biolayer": [
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "biological": [
     {
       "entity_id": "rss_https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation",
@@ -95459,6 +95505,11 @@
       "entity_id": "rss_https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "dataset_azan100an_tdtu_vqa_dataset_herb",
@@ -95903,6 +95954,11 @@
       "entity_id": "arxiv_2608.17997v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "biosciences": [
@@ -102687,6 +102743,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "bli": [
+    {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "blica": [
@@ -159666,6 +159729,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_anthropic_claude_protein_binder_design",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_arsaporta_symile_m3",
       "match_type": "exact",
       "score": 2.5
@@ -175672,6 +175740,11 @@
     },
     {
       "entity_id": "dataset_machine_unlearning_bench_data_unlearning_bench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 1.0
     },

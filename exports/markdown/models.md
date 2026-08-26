@@ -3800,6 +3800,14 @@
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx_4bit
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-35B-A3B-MLX-6bit
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx_6bit
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-35B-A3B-MLX-8bit
+- **ID**: model_ornith_ai_ornith_1_5_35b_a3b_mlx_8bit
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-35B-A3B-NVFP4
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b_nvfp4
 - **Source**: 
@@ -3836,8 +3844,16 @@
 - **ID**: model_ornith_ai_ornith_1_5_9b_mlx_4bit
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-9B-MLX-6bit
+- **ID**: model_ornith_ai_ornith_1_5_9b_mlx_6bit
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-9B-MLX-8bit
 - **ID**: model_ornith_ai_ornith_1_5_9b_mlx_8bit
+- **Source**: 
+
+## outsourc-e/Qwen3.8-27B-Unleashed-GGUF
+- **ID**: model_outsourc_e_qwen3_8_27b_unleashed_gguf
 - **Source**: 
 
 ## owao/Nanbeige4.2-3B-GGUF
@@ -4884,6 +4900,10 @@
 - **ID**: model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp
 - **Source**: 
 
+## sakamakismile/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-NVFP4
+- **ID**: model_sakamakismile_qwen3_8_27b_aeon_ultimate_uncensored_nvfp4
+- **Source**: 
+
 ## sakamakismile/Qwen3.8-27B-MTP-NVFP4
 - **ID**: model_sakamakismile_qwen3_8_27b_mtp_nvfp4
 - **Source**: 
@@ -5264,6 +5284,10 @@
 - **ID**: model_trevorjs_gemma_4_26b_a4b_it_uncensored
 - **Source**: 
 
+## TrevorJS/gemma-4-31B-it-uncensored
+- **ID**: model_trevorjs_gemma_4_31b_it_uncensored
+- **Source**: 
+
 ## TrevorJS/gemma-4-E2B-it-uncensored-GGUF
 - **ID**: model_trevorjs_gemma_4_e2b_it_uncensored_gguf
 - **Source**: 
@@ -5426,6 +5450,10 @@
 
 ## tvall43/Qwen3.6-14B-A3B-VibeForged-v2-GGUF
 - **ID**: model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf
+- **Source**: 
+
+## twinkle-ai/gemma-3-4B-T1-it
+- **ID**: model_twinkle_ai_gemma_3_4b_t1_it
 - **Source**: 
 
 ## txn545/Qwen3.5-122B-A10B-NVFP4
