@@ -5637,6 +5637,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/language-unsupervised",
       "match_type": "exact",
       "score": 1.0
@@ -8786,6 +8791,11 @@
     },
     {
       "entity_id": "dataset_defeatbeta_yahoo_finance_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
       "match_type": "exact",
       "score": 1.5
     },
@@ -27612,6 +27622,11 @@
     },
     {
       "entity_id": "dataset_eleutherai_wikitext_document_level",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
       "match_type": "exact",
       "score": 4.0
     },
@@ -80696,6 +80711,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_jarrentwu_dymesh_32f",
       "match_type": "exact",
       "score": 1.0
@@ -103939,6 +103959,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_javisverse_javisinst_omni",
       "match_type": "exact",
       "score": 2.0
@@ -104275,6 +104300,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_surgeai_gdp_pdf",
       "match_type": "exact",
       "score": 2.0
     },
@@ -118150,6 +118180,11 @@
     },
     {
       "entity_id": "dataset_eleutherai_lambada_openai",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
       "match_type": "exact",
       "score": 1.0
     },
@@ -186121,6 +186156,16 @@
       "score": 4.0
     },
     {
+      "entity_id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx_6bit",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "model_ornith_ai_ornith_1_5_35b_a3b_mlx_8bit",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "model_ornith_ai_ornith_1_5_35b_a3b_nvfp4",
       "match_type": "exact",
       "score": 4.0
@@ -186162,6 +186207,11 @@
     },
     {
       "entity_id": "model_ornith_ai_ornith_1_5_9b_mlx_4bit",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "model_ornith_ai_ornith_1_5_9b_mlx_6bit",
       "match_type": "exact",
       "score": 4.0
     },
@@ -196479,6 +196529,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacetb_smoltalk",
       "match_type": "exact",
       "score": 1.0
@@ -198867,6 +198922,11 @@
     },
     {
       "entity_id": "alpaca_9219942061755114979",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
       "match_type": "exact",
       "score": 3.0
     },
@@ -213469,6 +213529,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_harland_audiomcq_strongac_geminicot",
       "match_type": "exact",
       "score": 1.0
@@ -214495,6 +214560,13 @@
       "entity_id": "alpaca_4755307179663602726",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "outsourc": [
+    {
+      "entity_id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "outsource": [
@@ -219007,6 +219079,11 @@
     },
     {
       "entity_id": "dataset_sandboxaq_sair",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_surgeai_gdp_pdf",
       "match_type": "exact",
       "score": 1.0
     },

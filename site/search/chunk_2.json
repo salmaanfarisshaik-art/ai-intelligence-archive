@@ -836,6 +836,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_epfml_fineweb2_hq",
       "match_type": "exact",
       "score": 1.0
@@ -2240,6 +2245,11 @@
     },
     {
       "entity_id": "model_tinyllama_tinyllama_1_1b_chat_v1_0",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_twinkle_ai_gemma_3_4b_t1_it",
       "match_type": "exact",
       "score": 1.5
     },
@@ -4180,6 +4190,11 @@
     },
     {
       "entity_id": "dataset_huggingfaceh4_aime_2024",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
       "match_type": "exact",
       "score": 3.0
     },
@@ -8025,6 +8040,11 @@
     },
     {
       "entity_id": "dataset_ieasybooks_org_waqfeya_library",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -12572,6 +12592,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_javisverse_javisinst_omni",
       "match_type": "exact",
       "score": 1.5
@@ -15795,6 +15820,11 @@
     },
     {
       "entity_id": "dataset_commoncrawl_gneissweb_annotation_url_testing_v1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_epfml_fineweb2_embedded",
       "match_type": "exact",
       "score": 1.5
     },
@@ -19809,6 +19839,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_surgeai_gdp_pdf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ui_mopd_uni_gui_openmobile",
       "match_type": "exact",
       "score": 1.5
@@ -20841,6 +20876,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_prism_ml_bonsai_27b_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -20862,6 +20902,11 @@
     },
     {
       "entity_id": "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_sakamakismile_qwen3_8_27b_aeon_ultimate_uncensored_nvfp4",
       "match_type": "exact",
       "score": 5.0
     },
@@ -21423,6 +21468,13 @@
       "entity_id": "dataset_artpark_iisc_vaani",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "28k": [
+    {
+      "entity_id": "dataset_jailbreakv_28k_jailbreakv_28k",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "28m": [
