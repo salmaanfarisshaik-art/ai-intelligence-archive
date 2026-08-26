@@ -600,6 +600,10 @@
 - **ID**: model_bigcode_starcoder2_3b
 - **Source**: 
 
+## bigcode/starcoder2-7b
+- **ID**: model_bigcode_starcoder2_7b
+- **Source**: 
+
 ## bigcode/tiny_starcoder_py
 - **ID**: model_bigcode_tiny_starcoder_py
 - **Source**: 
