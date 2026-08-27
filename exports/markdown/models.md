@@ -2448,6 +2448,10 @@
 - **ID**: model_lmstudio_community_qwen3_4b_thinking_2507_mlx_8bit
 - **Source**: 
 
+## lmstudio-community/Qwen3-8B-GGUF
+- **ID**: model_lmstudio_community_qwen3_8b_gguf
+- **Source**: 
+
 ## lmstudio-community/Qwen3-8B-MLX-4bit
 - **ID**: model_lmstudio_community_qwen3_8b_mlx_4bit
 - **Source**: 
