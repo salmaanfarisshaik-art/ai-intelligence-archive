@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13287v4](http://arxiv.org/abs/2508.13287v4)
 
+## Rendering Novel Views of MRI Using 3D Gaussian Splatting
+- **ID**: arxiv_2606.26236v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26236v2](http://arxiv.org/abs/2606.26236v2)
+
 ## Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction
 - **ID**: arxiv_2607.27825v2
 - **Source**: ArXiv

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.04632v2",
+  "schema_version": "1.0",
+  "name": "From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.04632v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.04632v2",
+    "updated": "2026-08-26T16:34:07Z",
+    "published": "2026-01-08T06:04:59Z",
+    "title": "From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset",
+    "summary": "Large language models (LLMs) achieve strong performance on many tasks, but their progress remains uneven across languages and cultures, often reflecting values latent in English-centric training data. To enable practical cultural alignment, we propose a scalable approach that leverages national social studies curricula as a foundation for culture-aware supervision. We introduce CuCu, an automated multi-agent LLM framework that transforms national textbook curricula into open-ended, culture-specific question-answer pairs for supervised fine-tuning (SFT). Applying CuCu to the Korean national social studies curriculum, we construct KCaQA, comprising 34.1k open-ended QA pairs. Our analyses and training experiments suggest that KCaQA covers culture-specific topics and produces responses grounded in local sociocultural contexts.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T16:34:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.04632v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

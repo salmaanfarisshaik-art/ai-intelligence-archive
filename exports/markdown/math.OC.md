@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21359v1](http://arxiv.org/abs/2608.21359v1)
 
+## The Value of Human Expertise
+- **ID**: arxiv_2608.26051v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26051v1](http://arxiv.org/abs/2608.26051v1)
+

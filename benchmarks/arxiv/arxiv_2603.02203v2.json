@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.02203v2",
+  "schema_version": "1.0",
+  "name": "Tool Verification for Test-Time Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.02203v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.02203v2",
+    "updated": "2026-08-26T17:41:00Z",
+    "published": "2026-03-02T18:57:52Z",
+    "title": "Tool Verification for Test-Time Reinforcement Learning",
+    "summary": "Test-time reinforcement learning (TTRL) has emerged as a promising paradigm for Recursive Self-Improving AI (RSI) by adapting Large Reasoning Models (LRMs) on unlabeled test inputs, using self-consensus rewards derived from majority voting over sampled rollouts. However, majority voting can mistake popularity for correctness: a spurious yet high-frequency unverified consensus may become a biased reward signal, causing test-time RL to reinforce frequent but wrong answers and collapse into an incorrect mode. We address this false-popular failure mode with T$^3$RL (Tool-Verification for Test-Time Reinforcement Learning), a verification-aware test-time RL framework. T$^3$RL grounds pseudo-label construction in external tool evidence. Concretely, a verifier utilizes external tool evidence (e.g., from code execution) to upweight verified rollouts during a verification-aware voting, producing more reliable pseudo-labels for training. Across various math difficulties (MATH-500, AMC, and AIME 2024) and diverse backbone families, T$^3$RL significantly improves over TTRL, with better performance on harder problems. T$^3$RL is positioned as a verified online data synthesizer, highlighting the role of tool verification in reliable online adaptation. T$^3$RL is extensible to verifiable domains and provides training and inference efficiency.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T17:41:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.02203v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

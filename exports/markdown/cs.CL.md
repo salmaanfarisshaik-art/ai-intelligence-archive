@@ -135,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.04098v2](http://arxiv.org/abs/2601.04098v2)
 
+## From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset
+- **ID**: arxiv_2601.04632v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.04632v2](http://arxiv.org/abs/2601.04632v2)
+
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
@@ -1195,6 +1200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29678v2](http://arxiv.org/abs/2607.29678v2)
 
+## Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation
+- **ID**: arxiv_2608.01666v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.01666v3](http://arxiv.org/abs/2608.01666v3)
+
 ## CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs
 - **ID**: arxiv_2608.02472v1
 - **Source**: ArXiv
@@ -1655,6 +1665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18062v1](http://arxiv.org/abs/2608.18062v1)
 
+## TokEval: A Tokenizer Evaluation Suite
+- **ID**: arxiv_2608.18062v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18062v2](http://arxiv.org/abs/2608.18062v2)
+
 ## Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation
 - **ID**: arxiv_2608.18072v1
 - **Source**: ArXiv
@@ -1799,4 +1814,39 @@
 - **ID**: arxiv_2608.24848v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24848v1](http://arxiv.org/abs/2608.24848v1)
+
+## Lost but not erased: Finding traces of a forgotten language in neural speech models
+- **ID**: arxiv_2608.25976v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25976v1](http://arxiv.org/abs/2608.25976v1)
+
+## When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs
+- **ID**: arxiv_2608.25977v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25977v1](http://arxiv.org/abs/2608.25977v1)
+
+## Distinct dynamics of conceptual and referential disruptions in human reading and large language model processing
+- **ID**: arxiv_2608.25999v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25999v1](http://arxiv.org/abs/2608.25999v1)
+
+## VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following
+- **ID**: arxiv_2608.26013v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26013v1](http://arxiv.org/abs/2608.26013v1)
+
+## Beyond Local Surprise: Grounded Dialogue as Selective Belief Revision under Referential Uncertainty
+- **ID**: arxiv_2608.26035v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26035v1](http://arxiv.org/abs/2608.26035v1)
+
+## Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study
+- **ID**: arxiv_2608.26060v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26060v1](http://arxiv.org/abs/2608.26060v1)
+
+## Prefix Sliding for efficient test-time scaling
+- **ID**: arxiv_2608.26070v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26070v1](http://arxiv.org/abs/2608.26070v1)
 

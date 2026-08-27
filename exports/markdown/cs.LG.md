@@ -200,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.17121v4](http://arxiv.org/abs/2604.17121v4)
 
+## Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models
+- **ID**: arxiv_2604.17415v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.17415v4](http://arxiv.org/abs/2604.17415v4)
+
 ## Knowing When to Quit: A Principled Framework for Dynamic Abstention in LLM Reasoning
 - **ID**: arxiv_2604.18419v5
 - **Source**: ArXiv
@@ -249,6 +254,11 @@
 - **ID**: arxiv_2605.14599v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.14599v2](http://arxiv.org/abs/2605.14599v2)
+
+## Amplifying, Not Learning: The Price of Out-of-Distribution Generalization in AI-Text Detection
+- **ID**: arxiv_2605.21653v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.21653v2](http://arxiv.org/abs/2605.21653v2)
 
 ## Short-Term-to-Long-Term Memory Transfer for Knowledge Graphs under Partial Observability
 - **ID**: arxiv_2605.22142v3
@@ -419,6 +429,11 @@
 - **ID**: arxiv_2606.20560v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
+
+## Machine-learnable Sets
+- **ID**: arxiv_2606.28947v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.28947v2](http://arxiv.org/abs/2606.28947v2)
 
 ## Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 - **ID**: arxiv_2607.03798v4
@@ -1015,6 +1030,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.22462v2](http://arxiv.org/abs/2608.22462v2)
 
+## Clinical Graph-JEPA: Predictive Patient-State Knowledge Graphs for Cognitive Decision Support
+- **ID**: arxiv_2608.22583v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.22583v2](http://arxiv.org/abs/2608.22583v2)
+
+## FedCC: Towards Addressing Label Distribution Skews in Distillation-Based Federated Learning
+- **ID**: arxiv_2608.23031v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23031v2](http://arxiv.org/abs/2608.23031v2)
+
 ## MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters
 - **ID**: arxiv_2608.23473v1
 - **Source**: ArXiv
@@ -1029,4 +1054,24 @@
 - **ID**: arxiv_2608.24762v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24762v1](http://arxiv.org/abs/2608.24762v1)
+
+## DualOPSD: Adaptive Privileged Teachers for On-Policy Self-Distillation
+- **ID**: arxiv_2608.26019v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26019v1](http://arxiv.org/abs/2608.26019v1)
+
+## How Much Rank Does LoRA Need? Rank-Error Bounds for Transformer Attention
+- **ID**: arxiv_2608.26052v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26052v1](http://arxiv.org/abs/2608.26052v1)
+
+## ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing
+- **ID**: arxiv_2608.26083v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26083v1](http://arxiv.org/abs/2608.26083v1)
+
+## TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development
+- **ID**: arxiv_2608.26086v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26086v1](http://arxiv.org/abs/2608.26086v1)
 

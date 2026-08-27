@@ -17,6 +17,7 @@
 | [How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations](http://arxiv.org/abs/2606.16973v1) | ArXiv |  | 1 |
 | [Improving Item Discoverability in e-Commerce Search via Related Intent Generation](http://arxiv.org/abs/2607.27172v1) | ArXiv |  | 1 |
 | [IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction](http://arxiv.org/abs/2606.18181v1) | ArXiv |  | 1 |
+| [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1) | ArXiv |  | 1 |
 | [PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU](http://arxiv.org/abs/2508.15436v2) | ArXiv |  | 1 |
 | [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](http://arxiv.org/abs/2606.18379v4) | ArXiv |  | 1 |
 | [Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering](http://arxiv.org/abs/2604.04593v2) | ArXiv |  | 1 |

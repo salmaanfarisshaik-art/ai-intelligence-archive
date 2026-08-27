@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21343v1](http://arxiv.org/abs/2608.21343v1)
 
+## VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction
+- **ID**: arxiv_2608.26005v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26005v1](http://arxiv.org/abs/2608.26005v1)
+

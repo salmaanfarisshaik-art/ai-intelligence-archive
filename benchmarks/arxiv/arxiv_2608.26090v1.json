@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26090v1",
+  "schema_version": "1.0",
+  "name": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26090v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "astro-ph.HE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26090v1",
+    "updated": "2026-08-26T17:53:00Z",
+    "published": "2026-08-26T17:53:00Z",
+    "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
+    "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a validated atlas of physical concepts in the model representation, using a strict validation protocol consisting of held-out tests, matched nuisance controls, and replication across independent dictionary trainings. Causal interventions show that the direction head barely draws on this atlas. Motivated by this underused information, we train an uncertainty head on the same event-level representation to predict the model's angular reconstruction error. Unlike the direction head, it depends causally on quality and brightness features from the atlas. At $20\\%$ selection efficiency, this interpretable estimator improves the median angular resolution from $20.2^\\circ$ to $3.2^\\circ$. These results suggest that mechanistic interpretability can reveal learned latent physics encoded within a model's internal representation and help design downstream tasks that exploit it.",
+    "primary_category": "astro-ph.HE"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T17:53:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26090v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26083v1",
+  "schema_version": "1.0",
+  "name": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26083v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26083v1",
+    "updated": "2026-08-26T17:47:49Z",
+    "published": "2026-08-26T17:47:49Z",
+    "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
+    "summary": "Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether concepts such as a patient's sex or scanner settings can be decoded from a network layer. Because each concept is evaluated in isolation, these methods can mistake correlations between concepts as evidence that the model uses them. We introduce ICON decomposition, which instead quantifies how much of a layer's variance each concept explains after accounting for all other concepts and the outcome. On synthetic data with known ground truth, ICON recovers concept importance more accurately than seven alternative baseline methods. On skin-lesion and brain-imaging models, it isolates the concepts on which a model genuinely relies, quantifies the representation unexplained by any of the supplied concepts, and yields sparse explanations that we validate by retraining and out-of-distribution testing.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T17:47:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26083v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

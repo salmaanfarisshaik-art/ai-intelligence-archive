@@ -460,6 +460,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.05971v2](http://arxiv.org/abs/2604.05971v2)
 
+## MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control
+- **ID**: arxiv_2604.06156v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.06156v2](http://arxiv.org/abs/2604.06156v2)
+
 ## PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos
 - **ID**: arxiv_2604.08991v3
 - **Source**: ArXiv
@@ -535,10 +540,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30116v2](http://arxiv.org/abs/2605.30116v2)
 
+## Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning
+- **ID**: arxiv_2606.01287v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01287v2](http://arxiv.org/abs/2606.01287v2)
+
 ## Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association
 - **ID**: arxiv_2606.02022v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02022v2](http://arxiv.org/abs/2606.02022v2)
+
+## OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs
+- **ID**: arxiv_2606.03890v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03890v2](http://arxiv.org/abs/2606.03890v2)
 
 ## Spatially Grounded Concept Bottleneck Models via Part-Factorized Attention
 - **ID**: arxiv_2606.04364v3
@@ -1214,6 +1229,11 @@
 - **ID**: arxiv_2607.18227v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18227v1](http://arxiv.org/abs/2607.18227v1)
+
+## FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
+- **ID**: arxiv_2607.18227v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18227v2](http://arxiv.org/abs/2607.18227v2)
 
 ## Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
 - **ID**: arxiv_2607.18230v1
@@ -3054,4 +3074,44 @@
 - **ID**: arxiv_2608.24877v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24877v1](http://arxiv.org/abs/2608.24877v1)
+
+## FRAME: separating sampling variation from representational cause in medical imaging fairness
+- **ID**: arxiv_2608.25981v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25981v1](http://arxiv.org/abs/2608.25981v1)
+
+## Uncertainty-Guided Latent Diffusion Models for Faithful Super Resolution
+- **ID**: arxiv_2608.25998v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25998v1](http://arxiv.org/abs/2608.25998v1)
+
+## UltraPIPS: Improving model perception in B-mode ultrasound with foundation models
+- **ID**: arxiv_2608.26033v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26033v1](http://arxiv.org/abs/2608.26033v1)
+
+## StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models
+- **ID**: arxiv_2608.26067v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26067v1](http://arxiv.org/abs/2608.26067v1)
+
+## MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching
+- **ID**: arxiv_2608.26094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26094v1](http://arxiv.org/abs/2608.26094v1)
+
+## A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training
+- **ID**: arxiv_2608.26095v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26095v1](http://arxiv.org/abs/2608.26095v1)
+
+## RefVideo-6M: A Reliable Reference-Based Dataset for Instructional Video Editing
+- **ID**: arxiv_2608.26101v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26101v1](http://arxiv.org/abs/2608.26101v1)
+
+## VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+- **ID**: arxiv_2608.26105v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26105v1](http://arxiv.org/abs/2608.26105v1)
 

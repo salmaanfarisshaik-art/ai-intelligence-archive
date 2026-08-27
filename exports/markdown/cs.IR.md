@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21243v1](http://arxiv.org/abs/2608.21243v1)
 
+## PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans
+- **ID**: arxiv_2608.26091v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26091v1](http://arxiv.org/abs/2608.26091v1)
+

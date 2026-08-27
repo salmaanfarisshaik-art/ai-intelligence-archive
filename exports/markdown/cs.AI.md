@@ -120,6 +120,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.02196v4](http://arxiv.org/abs/2603.02196v4)
 
+## Tool Verification for Test-Time Reinforcement Learning
+- **ID**: arxiv_2603.02203v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.02203v2](http://arxiv.org/abs/2603.02203v2)
+
 ## SkillNet: Create, Evaluate, and Connect AI Skills
 - **ID**: arxiv_2603.04448v2
 - **Source**: ArXiv
@@ -1795,6 +1800,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21357v1](http://arxiv.org/abs/2608.21357v1)
 
+## Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models
+- **ID**: arxiv_2608.21567v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21567v2](http://arxiv.org/abs/2608.21567v2)
+
 ## StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models
 - **ID**: arxiv_2608.23475v1
 - **Source**: ArXiv
@@ -1899,4 +1909,39 @@
 - **ID**: arxiv_2608.24876v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24876v1](http://arxiv.org/abs/2608.24876v1)
+
+## Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs
+- **ID**: arxiv_2608.25986v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25986v1](http://arxiv.org/abs/2608.25986v1)
+
+## ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs
+- **ID**: arxiv_2608.25992v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25992v1](http://arxiv.org/abs/2608.25992v1)
+
+## AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs
+- **ID**: arxiv_2608.26004v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26004v1](http://arxiv.org/abs/2608.26004v1)
+
+## Imitation Learning for Connection-Tableau Construction
+- **ID**: arxiv_2608.26009v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26009v1](http://arxiv.org/abs/2608.26009v1)
+
+## Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems
+- **ID**: arxiv_2608.26036v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26036v1](http://arxiv.org/abs/2608.26036v1)
+
+## SwarmWorld: Stigmergic technological evolution in societies of language-model agents
+- **ID**: arxiv_2608.26081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26081v1](http://arxiv.org/abs/2608.26081v1)
+
+## Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings
+- **ID**: arxiv_2608.26088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26088v1](http://arxiv.org/abs/2608.26088v1)
 

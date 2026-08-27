@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.28947v2",
+  "schema_version": "1.0",
+  "name": "Machine-learnable Sets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.28947v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.28947v2",
+    "updated": "2026-08-26T17:54:30Z",
+    "published": "2026-06-27T14:39:50Z",
+    "title": "Machine-learnable Sets",
+    "summary": "In this study we present a formal definition of large discrete sets having, informally, three properties: their elements are easily recognized, easily generated, and the latter tasks are easily learned from examples. The formalism is specialized to sets of binary strings and a definition of \"machine-learnability\" based on the existence of a bounded-complexity Boolean autoencoder that fixes the elements of the set. We present experiments where the autoencoders are implemented by nets of Boolean threshold functions. Machine-learnability is demonstrated for Rorschach patterns (that may have reversed contrast in the mirrored half), and considerably \"wilder\" sets whose elements are only approximately fixed by admissible autoencoders. In the second case we demonstrate a simple iteration that evolves wild sets to make them properly machine-learnable.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T17:54:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.28947v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

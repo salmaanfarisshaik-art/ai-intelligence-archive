@@ -160,6 +160,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21356v1](http://arxiv.org/abs/2608.21356v1)
 
+## Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model
+- **ID**: arxiv_2608.23663v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23663v2](http://arxiv.org/abs/2608.23663v2)
+
 ## Automatic Model Card Generation Using an LLM
 - **ID**: arxiv_2608.24807v1
 - **Source**: ArXiv

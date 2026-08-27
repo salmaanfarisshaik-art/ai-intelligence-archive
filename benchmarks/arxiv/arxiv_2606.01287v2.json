@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.01287v2",
+  "schema_version": "1.0",
+  "name": "Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.01287v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.01287v2",
+    "updated": "2026-08-26T17:22:47Z",
+    "published": "2026-05-31T15:14:53Z",
+    "title": "Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning",
+    "summary": "Recent latent visual reasoning methods achieve substantial gains by inserting continuous latent tokens into multimodal language models. These gains are commonly attributed to the tokens encoding visual evidence; recent analyses, however, reveal a paradox: the tokens are loosely tied to the image and contribute little to the answer. Critically, these analyses treat latent tokens as a single unit, obscuring the source of the gains. We therefore decompose latent tokens into three testable components: latent slots, boundary markers, and format, and develop a state-of-the-art method as a probe under favorable conditions. Across six method-stage settings and four perception-heavy benchmarks, latent slots fail every prediction of the visual-memory account. Strikingly, retaining only the boundary markers preserves 78 to 100% of the gain in several settings, while the model attends to the image more narrowly at latent positions than at answer positions. These results do not support slot contents as recoverable visual memory; much of the benefit is instead associated with marker and format control, together with visual-attention routing. At matched accuracy, methods can still rely on markedly different mechanisms shaped by training supervision. Latent visual reasoning thus needs evaluation not only by accuracy but by what the model actually relies on.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-27T02:55:24Z",
+  "last_updated": "2026-08-26T17:22:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.01287v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

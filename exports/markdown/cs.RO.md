@@ -360,3 +360,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24885v1](http://arxiv.org/abs/2608.24885v1)
 
+## $R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning
+- **ID**: arxiv_2608.26053v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26053v1](http://arxiv.org/abs/2608.26053v1)
+
+## Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interaction Decision Failures in Autonomous Driving
+- **ID**: arxiv_2608.26074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26074v1](http://arxiv.org/abs/2608.26074v1)
+
+## Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization
+- **ID**: arxiv_2608.26103v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26103v1](http://arxiv.org/abs/2608.26103v1)
+

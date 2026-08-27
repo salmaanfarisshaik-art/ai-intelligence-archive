@@ -215,3 +215,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23536v1](http://arxiv.org/abs/2608.23536v1)
 
+## A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks
+- **ID**: arxiv_2608.26008v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26008v1](http://arxiv.org/abs/2608.26008v1)
+
