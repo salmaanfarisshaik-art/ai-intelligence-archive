@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2ae4b3233db739125538ac7b8f6bae11de72142c",
   "description": "\n\t\n\t\t\n\t\tReactive AI / Beta Pre-Train Corpus\n\t\n\nPre-training corpus for RxT-Beta models, created from public & open datasets. Includes high-quality english and polish web crawl data, mathematic and scientific subsets,\nand code in different programming languages.\n2k subsets are filtered for 1024-2048 tokens, except MegaMath Web Pro and GitHub Code subsets, that were filtered for 512-2048 tokens\n\n\t\n\t\t\n\t\tSubsets & original datasets\n\t\n\n\nFineWeb-Edu\nfineweb-edu-s100 (51.3M examples) - 50% of… See the full description on the dataset page: https://huggingface.co/datasets/ReactiveAI/Beta-Pre-Train-Corpus.",
-  "downloads": 36365,
+  "downloads": 36516,
   "tags": [
     "size_categories:100M<n<1B",
     "format:parquet",

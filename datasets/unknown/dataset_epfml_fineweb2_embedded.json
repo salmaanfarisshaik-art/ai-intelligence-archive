@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4631ff28026f717d33016acebea7874f71872c15",
   "description": "\n\t\n\t\t\n\t\tFineWeb2-embedded\n\t\n\n\n\t\n\t\t\n\t\tDataset summary\n\t\n\nFineWeb2-embedded is an extension of the FineWeb2 dataset, annotated with document-level XLM-RoBERTa embeddings for 20 languages, making the dataset useful for a variety of tasks, including document clustering, filtering, and other multilingual research.\nSince XLM-RoBERTa has a sequence length limit of 512 tokens, each document's embeddings are obtained by mean-pooling 512 token chunks of the XLM-RoBERTa output. Therefore, longer texts… See the full description on the dataset page: https://huggingface.co/datasets/epfml/FineWeb2-embedded.",
-  "downloads": 29488,
+  "downloads": 29973,
   "tags": [
     "task_categories:text-generation",
     "language:ru",

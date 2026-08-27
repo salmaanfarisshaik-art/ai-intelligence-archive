@@ -6,13 +6,15 @@
     "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
   "1-bit": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit"
   ],
   "2": [
     "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
   "2-bit": [
-    "hf_antirez_deepseek-v4-gguf"
+    "hf_antirez_deepseek-v4-gguf",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "3D": [
     "hf_ds_68370197476641ade2a81199"
@@ -767,7 +769,9 @@
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "base_model:Qwen/Qwen3.6-27B": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "base_model:Qwen/Qwen3.6-35B-A3B": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
@@ -815,6 +819,10 @@
   "base_model:finetune:Qwen/Qwen3-8B-Base": [
     "hf_Qwen_Qwen3-8B",
     "hf_Qwen_Qwen3-Embedding-8B"
+  ],
+  "base_model:finetune:Qwen/Qwen3.6-27B": [
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
     "hf_deepseek-ai_DeepSeek-V3.2"
@@ -894,7 +902,9 @@
     "hf_ds_66674f5483de542b724d771e"
   ],
   "bonsai": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "brazil": [
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
@@ -996,6 +1006,8 @@
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -1022,7 +1034,9 @@
     "tailwindcss-palette-configurator"
   ],
   "cuda": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "custom_code": [
     "hf_MiniMaxAI_MiniMax-M2.7",
@@ -1704,7 +1718,9 @@
     "serverless-inference-api"
   ],
   "hybrid-attention": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "iac": [
     "terraform"
@@ -3953,6 +3969,8 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2"
@@ -4177,7 +4195,9 @@
   ],
   "metal": [
     "hf_antirez_deepseek-v4-gguf",
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "microsoft": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -4195,6 +4215,10 @@
   "ml": [
     "pytorch",
     "tensorflow"
+  ],
+  "mlx": [
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "modality:3d": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -4475,7 +4499,9 @@
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
   ],
   "on-device": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "onnx": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
@@ -4549,7 +4575,9 @@
     "prisma-schema-generator"
   ],
   "prismml": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "processed": [
     "hf_ds_66674f5483de542b724d771e"
@@ -4648,6 +4676,10 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
+  ],
+  "qwen3_5": [
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "qwen3_5_moe": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
@@ -4903,6 +4935,8 @@
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -5002,6 +5036,8 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_vikhyatk_moondream2",
     "hf_zai-org_GLM-4.7-Flash",
@@ -5520,6 +5556,9 @@
   "tensorboard": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "ternary": [
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
+  ],
   "terraform": [
     "advanced-terraform-aws-scaffolding",
     "terraform-aws-scaffolding"
@@ -5595,6 +5634,8 @@
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",

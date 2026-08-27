@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9ad9bcaf5bf4cd906925a68a76ad240f84514e83",
   "description": "\n  \n  PrimeBot Household Bimanual Manipulation Challenge Dataset\n\n  中文 | English\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t中文\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t目录\n\t\n\n\n真机遥操作数据\n训练集说明\n验证集说明\n数据集字段说明\n图像\n语言指令\n本体感知与动作\n\n\n机器人推理接口\n\n\nUMI数据\n数据概览\n目录结构\n数据集字段说明\n图像\n本体感知与动作\n索引字段\n标注与 IMU\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t真机遥操作数据\n\t\n\n真机数据由启元机器人提供，数据集均以标准的 LeRobot V2.1 格式构造，示例Dataset代码，\npip install \"lerobot==0.3.3\" \"mmengine==0.10.7\" \"torch==2.7.0\" \"numpy==1.26.4\" \"torchcodec==0.5\" \"torchvision==0.22.0\"\n\npython dataloader/custom_lerobot_dataset.py\n\n\n\t\n\t\t\n\t\n\t\n\t\t训练集说明… See the full description on the dataset page: https://huggingface.co/datasets/challenge-2026/challenge_data.",
-  "downloads": 103747,
+  "downloads": 103771,
   "tags": [
     "language:en",
     "language:zh",

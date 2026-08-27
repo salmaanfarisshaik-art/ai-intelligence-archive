@@ -9525,6 +9525,38 @@
     "local_path": "models/prism-ml/hf_prism-ml_Bonsai-27B-gguf.json"
   },
   {
+    "id": "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "title": "prism-ml/Bonsai-27B-mlx-1bit",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "1-bit",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:finetune:Qwen/Qwen3.6-27B",
+      "bonsai",
+      "conversational",
+      "cuda",
+      "hybrid-attention",
+      "license:apache-2.0",
+      "metal",
+      "mlx",
+      "on-device",
+      "prismml",
+      "qwen3_5",
+      "region:us",
+      "safetensors",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
+    "local_path": "models/prism-ml/hf_prism-ml_Bonsai-27B-mlx-1bit.json"
+  },
+  {
     "id": "hf_prism-ml_Bonsai-8B-gguf",
     "title": "prism-ml/Bonsai-8B-gguf",
     "category": "text-generation",
@@ -9533,6 +9565,39 @@
     "links": {},
     "source_url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
     "local_path": "models/prism-ml/hf_prism-ml_Bonsai-8B-gguf.json"
+  },
+  {
+    "id": "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
+    "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "2-bit",
+      "base_model:Qwen/Qwen3.6-27B",
+      "base_model:finetune:Qwen/Qwen3.6-27B",
+      "bonsai",
+      "conversational",
+      "cuda",
+      "hybrid-attention",
+      "license:apache-2.0",
+      "metal",
+      "mlx",
+      "on-device",
+      "prismml",
+      "qwen3_5",
+      "region:us",
+      "safetensors",
+      "ternary",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+    "local_path": "models/prism-ml/hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit.json"
   },
   {
     "id": "hf_rednote-hilab_dots.mocr",

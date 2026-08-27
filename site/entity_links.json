@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T02:58:54Z",
+  "generated_at": "2026-08-27T13:51:01Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -228,6 +228,16 @@
     },
     {
       "source_id": "hf_prism-ml_Bonsai-27B-gguf",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_prism-ml_Bonsai-27B-mlx-1bit",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
     },
@@ -3404,6 +3414,11 @@
     {
       "source_id": "model_lmstudio_community_qwen3_4b_thinking_2507_mlx_8bit",
       "target_id": "hf_Qwen_Qwen3-4B-Thinking-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen3_8b_gguf",
+      "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
     },
     {

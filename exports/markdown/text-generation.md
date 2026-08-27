@@ -4210,10 +4210,22 @@
 - **URL**: [https://huggingface.co/prism-ml/Bonsai-27B-gguf](https://huggingface.co/prism-ml/Bonsai-27B-gguf)
 - **Tags**: 1-bit, base_model:Qwen/Qwen3.6-27B, base_model:quantized:Qwen/Qwen3.6-27B, bonsai, conversational, cuda, endpoints_compatible, eval-results, gguf, hybrid-attention, license:apache-2.0, llama-cpp, llama.cpp, metal, on-device, prismml, region:us, text-generation
 
+## prism-ml/Bonsai-27B-mlx-1bit
+- **ID**: hf_prism-ml_Bonsai-27B-mlx-1bit
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit](https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit)
+- **Tags**: 1-bit, base_model:Qwen/Qwen3.6-27B, base_model:finetune:Qwen/Qwen3.6-27B, bonsai, conversational, cuda, hybrid-attention, license:apache-2.0, metal, mlx, on-device, prismml, qwen3_5, region:us, safetensors, text-generation
+
 ## prism-ml/Bonsai-8B-gguf
 - **ID**: hf_prism-ml_Bonsai-8B-gguf
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/prism-ml/Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)
+
+## prism-ml/Ternary-Bonsai-27B-mlx-2bit
+- **ID**: hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit)
+- **Tags**: 2-bit, base_model:Qwen/Qwen3.6-27B, base_model:finetune:Qwen/Qwen3.6-27B, bonsai, conversational, cuda, hybrid-attention, license:apache-2.0, metal, mlx, on-device, prismml, qwen3_5, region:us, safetensors, ternary, text-generation
 
 ## rednote-hilab/dots.mocr
 - **ID**: hf_rednote-hilab_dots.mocr
