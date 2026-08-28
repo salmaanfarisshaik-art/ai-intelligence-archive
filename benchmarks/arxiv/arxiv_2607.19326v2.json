@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19326v2",
+  "schema_version": "1.0",
+  "name": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19326v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19326v2",
+    "updated": "2026-08-27T17:55:34Z",
+    "published": "2026-07-21T17:47:57Z",
+    "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+    "summary": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is proposed that introduces selective state-space control at two complementary granularities. At the token level, MaLoRA (Mamba-modulated low-rank adaptation) makes the adapter's scaling factor a dynamic input-dependent function with recurrent state across tokens, in contrast to the stateless modulators of prior work. The token-level adapter improves over low-rank adaptation. On the other hand, it differentiates tokens by structural role but not by contextual relevance, which motivates placing evidence selection at the context level. At the context level, MaRA (Mamba Retrieval Adapter) tracks cross-segment reasoning state and selects the segments most relevant to the query. State-space controlled retrieval of approximately three million parameters exceeds an eight-billion-parameter dense retriever on supporting-paragraph recall. Although base models perform poorly on the task without adaptation (14 to 25 F1), MaRA recovers the evidence relevance latent in their representations. Across three frozen backbones and two multi-hop reasoning benchmarks, the end-to-end family improves reasoning accuracy on every cell of the 3-by-2 grid, by +6.4 F1 (+10.0% relative) on average over the LoRA baseline.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-28T09:35:24Z",
+  "last_updated": "2026-08-27T17:55:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19326v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.27439v1",
+  "schema_version": "1.0",
+  "name": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.27439v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.27439v1",
+    "updated": "2026-08-27T17:55:33Z",
+    "published": "2026-08-27T17:55:33Z",
+    "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+    "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Existing automatic red-teaming methods often rely on fixed attacks, while recent agentic attackers coordinate multiple jailbreak tools and show stronger potential through trajectory-based retrieval. However, such retrieval can reuse misleading experiences due to retrieval bias and unclear tool credit, and full trajectories add context overhead while reducing interpretability. We propose RedEvoAgent, a black-box red-teaming agent that distills cross-case attack trajectories into a concise, human-readable attack skill. The attack skill adaptively evolves through tool-effectiveness profiling and Deciding-Tool Attribution for skill updates, and a validation ratchet that retains only updates improving validation performance. Experiments on multiple benchmarks, target models, and target execution harnesses show that RedEvoAgent outperforms fixed and agentic baselines, improves tool efficiency, and transfers across attacker models and target execution harnesses.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-08-28T09:35:24Z",
+  "last_updated": "2026-08-27T17:55:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.27439v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

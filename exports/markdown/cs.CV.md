@@ -145,6 +145,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.01312v6](http://arxiv.org/abs/2508.01312v6)
 
+## DOD-SA: Infrared-Visible Decoupled Object Detection with Single-Modality Annotations
+- **ID**: arxiv_2508.10445v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.10445v2](http://arxiv.org/abs/2508.10445v2)
+
 ## Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization
 - **ID**: arxiv_2508.11183v2
 - **Source**: ArXiv
@@ -179,6 +184,11 @@
 - **ID**: arxiv_2510.03880v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.03880v2](http://arxiv.org/abs/2510.03880v2)
+
+## Egosurg: Arbitrary view synthesis for egocentric replay of operating room workflows from ambient cameras
+- **ID**: arxiv_2510.04802v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.04802v2](http://arxiv.org/abs/2510.04802v2)
 
 ## Redefining Generalization in Visual Domains: A Two-Axis Framework for Fake Image Detection with FusionDetect
 - **ID**: arxiv_2510.05740v2
@@ -1910,6 +1920,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00237v2](http://arxiv.org/abs/2608.00237v2)
 
+## ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs
+- **ID**: arxiv_2608.01979v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.01979v2](http://arxiv.org/abs/2608.01979v2)
+
 ## Deep Multimodal Fusion Detection through Spatial Mask and Channel Fusion
 - **ID**: arxiv_2608.02092v2
 - **Source**: ArXiv
@@ -2730,6 +2745,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14790v3](http://arxiv.org/abs/2608.14790v3)
 
+## X$^2$Localizer: Cross-grained Alignment for Progressive Cross-view Video Geo-localization
+- **ID**: arxiv_2608.16658v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16658v2](http://arxiv.org/abs/2608.16658v2)
+
 ## TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
 - **ID**: arxiv_2608.16765v1
 - **Source**: ArXiv
@@ -3025,6 +3045,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23563v1](http://arxiv.org/abs/2608.23563v1)
 
+## More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation
+- **ID**: arxiv_2608.23730v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23730v2](http://arxiv.org/abs/2608.23730v2)
+
 ## Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery
 - **ID**: arxiv_2608.24756v1
 - **Source**: ArXiv
@@ -3114,4 +3139,44 @@
 - **ID**: arxiv_2608.26105v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26105v1](http://arxiv.org/abs/2608.26105v1)
+
+## R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models
+- **ID**: arxiv_2608.27328v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27328v1](http://arxiv.org/abs/2608.27328v1)
+
+## PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+- **ID**: arxiv_2608.27345v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27345v1](http://arxiv.org/abs/2608.27345v1)
+
+## KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations
+- **ID**: arxiv_2608.27365v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27365v1](http://arxiv.org/abs/2608.27365v1)
+
+## Successive Capacity Growth: Task-Complexity-Driven Width and Depth Expansion for Vision Transformer Encoders in JEPA World Models
+- **ID**: arxiv_2608.27367v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27367v1](http://arxiv.org/abs/2608.27367v1)
+
+## LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics
+- **ID**: arxiv_2608.27395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27395v1](http://arxiv.org/abs/2608.27395v1)
+
+## Reconstructing Humans and Objects in Interaction using Large Reconstruction Models
+- **ID**: arxiv_2608.27407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27407v1](http://arxiv.org/abs/2608.27407v1)
+
+## Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information
+- **ID**: arxiv_2608.27417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27417v1](http://arxiv.org/abs/2608.27417v1)
+
+## UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City
+- **ID**: arxiv_2608.27456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27456v1](http://arxiv.org/abs/2608.27456v1)
 

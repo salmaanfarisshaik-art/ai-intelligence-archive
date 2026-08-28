@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.25489v2",
+  "schema_version": "1.0",
+  "name": "Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.25489v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.25489v2",
+    "updated": "2026-08-27T17:08:06Z",
+    "published": "2026-03-26T14:27:45Z",
+    "title": "Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties",
+    "summary": "Recent strategies for low-resource machine translation rely on LLMs to generate synthetic data based on text in higher-resource languages. We revisit this idea for Romansh, a language with 6 distinct varieties. LLMs tend to confuse these varieties when translating into Romansh, but they are quite good at translating out of Romansh into a high-resource language such as German. Due to this asymmetry, the direction of data augmentation is a crucial choice. We find that contrary to recent strategies, creating synthetic translations into the higher-resource language is the superior approach, and only this approach allows us to surpass a Gemini 3 Pro baseline on German-Romansh translation (+23 BLEU over Gemini in the lowest-resource variety). A human evaluation confirms that our experiments yield the first model that generates fluent translations in the individual Romansh varieties.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-28T09:35:24Z",
+  "last_updated": "2026-08-27T17:08:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.25489v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

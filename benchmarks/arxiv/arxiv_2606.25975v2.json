@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.25975v2",
+  "schema_version": "1.0",
+  "name": "Tensorion: A Tensor-Aware Generalization of the Muon Optimizer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.25975v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.25975v2",
+    "updated": "2026-08-27T16:36:23Z",
+    "published": "2026-06-24T15:46:04Z",
+    "title": "Tensorion: A Tensor-Aware Generalization of the Muon Optimizer",
+    "summary": "Common first-order optimizers, such as Adam, implicitly treat each parameter block as an unstructured vector, which disregards the multilinear weight structure present in many modern machine learning models. Recent work has shown that exploiting matrix structure can improve optimization dynamics. A notable example is Muon, which performs steepest descent under the spectral norm constraint. We take the next step and introduce Tensorion, a tensor-aware optimizer that extends Muon's constrained optimization perspective from matrices to higher-order tensors. Tensorion is built around a linear minimization oracle (LMO) over a tensor norm ball. The norm is carefully chosen to balance two objectives: tightly bounding the tensor spectral norm, while still keeping the LMO tractable. This LMO becomes computable because it reduces to operations on adaptively selected unfolding matrices. Notably, when restricted to order-2 tensors (i.e., matrices), Tensorion recovers Muon exactly. Experiments on tensor-based computer vision problems suggest that Tensorion can offer improved convergence behavior and more stable gradient updates compared with Adam-based and existing tensor-aware baselines in the evaluated settings.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-28T09:35:24Z",
+  "last_updated": "2026-08-27T16:36:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.25975v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

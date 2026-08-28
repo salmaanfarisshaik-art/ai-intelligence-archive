@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03181v2](http://arxiv.org/abs/2604.03181v2)
 
+## MOMO: A framework for seamless physical, verbal, and graphical robot skill learning and adaptation
+- **ID**: arxiv_2604.20468v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.20468v3](http://arxiv.org/abs/2604.20468v3)
+
 ## MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action
 - **ID**: arxiv_2606.06245v2
 - **Source**: ArXiv
@@ -300,6 +305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14481v1](http://arxiv.org/abs/2608.14481v1)
 
+## Pre-training Visual Dexterity in Simulation
+- **ID**: arxiv_2608.15917v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15917v2](http://arxiv.org/abs/2608.15917v2)
+
 ## Neurosymbolic Embodied Agents
 - **ID**: arxiv_2608.16794v1
 - **Source**: ArXiv
@@ -374,4 +384,9 @@
 - **ID**: arxiv_2608.26103v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26103v1](http://arxiv.org/abs/2608.26103v1)
+
+## CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators
+- **ID**: arxiv_2608.27406v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27406v1](http://arxiv.org/abs/2608.27406v1)
 

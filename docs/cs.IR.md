@@ -21,6 +21,7 @@
 | [PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU](http://arxiv.org/abs/2508.15436v2) | ArXiv |  | 1 |
 | [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](http://arxiv.org/abs/2606.18379v4) | ArXiv |  | 1 |
 | [Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering](http://arxiv.org/abs/2604.04593v2) | ArXiv |  | 1 |
+| [Stageboost: Recommending Signals Based on Counterfactual Estimation](http://arxiv.org/abs/2608.27366v1) | ArXiv |  | 1 |
 | [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](http://arxiv.org/abs/2606.20554v1) | ArXiv |  | 1 |
 | [TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval](http://arxiv.org/abs/2607.28498v1) | ArXiv |  | 1 |
 | [Towards a Theoretical Understanding of Two Tower Recommendation Models](http://arxiv.org/abs/2403.00802v2) | ArXiv |  | 1 |

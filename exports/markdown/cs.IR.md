@@ -100,3 +100,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26091v1](http://arxiv.org/abs/2608.26091v1)
 
+## Stageboost: Recommending Signals Based on Counterfactual Estimation
+- **ID**: arxiv_2608.27366v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27366v1](http://arxiv.org/abs/2608.27366v1)
+

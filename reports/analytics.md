@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 87949
+**Total Entities Tracked**: 87999
 
 ## Category Distribution
 
@@ -12,17 +12,17 @@
 - **news**: 1174
 - **dataset**: 1154
 - **text-generation**: 1007
-- **cs.CV**: 623
-- **cs.AI**: 389
-- **cs.CL**: 370
-- **cs.LG**: 215
-- **cs.RO**: 75
+- **cs.CV**: 636
+- **cs.AI**: 396
+- **cs.CL**: 388
+- **cs.LG**: 217
+- **cs.RO**: 78
 - **tool**: 49
-- **cs.CR**: 44
-- **cs.SE**: 34
+- **cs.CR**: 46
+- **cs.SE**: 37
 - **cs.SD**: 23
 - **cs.CY**: 21
-- **cs.IR**: 20
+- **cs.IR**: 21
 - **API**: 15
 - **cs.HC**: 15
 - **eess.IV**: 13
@@ -53,6 +53,7 @@
 - **cs.DL**: 3
 - **cs.MM**: 3
 - **cs.NE**: 3
+- **eess.SP**: 3
 - **feature-extraction**: 3
 - **physics.soc-ph**: 3
 - **q-bio.NC**: 3
@@ -62,7 +63,6 @@
 - **cs.PL**: 2
 - **cs.SI**: 2
 - **econ.GN**: 2
-- **eess.SP**: 2
 - **image-text-to-text**: 2
 - **q-fin.PM**: 2
 - **text-ranking**: 2
@@ -90,8 +90,8 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 30480
+- **ArXiv**: 2028
 - **Hugging Face**: 2014
-- **ArXiv**: 1978
 - **OpenAI Blog**: 1160
 - **HuggingFace Datasets**: 154
 - **GitHub Trending**: 49
@@ -141,9 +141,9 @@
 - **license:apache-2.0**: 62
 - **safetensors**: 62
 - **transformers**: 62
-- **endpoints_compatible**: 60
+- **endpoints_compatible**: 61
 - **language:en**: 59
-- **conversational**: 54
+- **conversational**: 55
 - **library:polars**: 53
 - **license:mit**: 43
 - **format:parquet**: 42

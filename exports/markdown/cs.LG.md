@@ -430,6 +430,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
 
+## Tensorion: A Tensor-Aware Generalization of the Muon Optimizer
+- **ID**: arxiv_2606.25975v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.25975v2](http://arxiv.org/abs/2606.25975v2)
+
 ## Machine-learnable Sets
 - **ID**: arxiv_2606.28947v2
 - **Source**: ArXiv
@@ -1074,4 +1079,9 @@
 - **ID**: arxiv_2608.26086v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26086v1](http://arxiv.org/abs/2608.26086v1)
+
+## Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting
+- **ID**: arxiv_2608.27339v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27339v1](http://arxiv.org/abs/2608.27339v1)
 

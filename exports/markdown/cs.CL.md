@@ -220,6 +220,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.22216v2](http://arxiv.org/abs/2603.22216v2)
 
+## Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties
+- **ID**: arxiv_2603.25489v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.25489v2](http://arxiv.org/abs/2603.25489v2)
+
 ## Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI
 - **ID**: arxiv_2603.25821v3
 - **Source**: ArXiv
@@ -934,6 +939,11 @@
 - **ID**: arxiv_2607.19326v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19326v1](http://arxiv.org/abs/2607.19326v1)
+
+## Selective State-Space Adaptation and Retrieval for Language Model Reasoning
+- **ID**: arxiv_2607.19326v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19326v2](http://arxiv.org/abs/2607.19326v2)
 
 ## Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning
 - **ID**: arxiv_2607.19345v1
@@ -1815,6 +1825,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24848v1](http://arxiv.org/abs/2608.24848v1)
 
+## DataKernelBench: Can LLMs Optimize Database Queries on GPUs?
+- **ID**: arxiv_2608.25061v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25061v2](http://arxiv.org/abs/2608.25061v2)
+
 ## Lost but not erased: Finding traces of a forgotten language in neural speech models
 - **ID**: arxiv_2608.25976v1
 - **Source**: ArXiv
@@ -1849,4 +1864,79 @@
 - **ID**: arxiv_2608.26070v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26070v1](http://arxiv.org/abs/2608.26070v1)
+
+## BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks
+- **ID**: arxiv_2608.27334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27334v1](http://arxiv.org/abs/2608.27334v1)
+
+## Pair-Level Essay-Scale Republication and Reuse from Fragmented Historical Text Reuse: A Workflow Study on Eighteenth-Century Books and Newspapers
+- **ID**: arxiv_2608.27343v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27343v1](http://arxiv.org/abs/2608.27343v1)
+
+## INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment
+- **ID**: arxiv_2608.27348v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27348v1](http://arxiv.org/abs/2608.27348v1)
+
+## RCMN: Understanding Misleadingness in Influential Public Discourse
+- **ID**: arxiv_2608.27358v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27358v1](http://arxiv.org/abs/2608.27358v1)
+
+## Your Voice Cloning System is Secretly a Voice Anonymizer
+- **ID**: arxiv_2608.27360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27360v1](http://arxiv.org/abs/2608.27360v1)
+
+## Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
+- **ID**: arxiv_2608.27370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27370v1](http://arxiv.org/abs/2608.27370v1)
+
+## D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection
+- **ID**: arxiv_2608.27380v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27380v1](http://arxiv.org/abs/2608.27380v1)
+
+## RATIO: A Benchmark for Retrieval Across Typed Ideation Operations in Scientific Literature
+- **ID**: arxiv_2608.27394v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27394v1](http://arxiv.org/abs/2608.27394v1)
+
+## Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction
+- **ID**: arxiv_2608.27397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27397v1](http://arxiv.org/abs/2608.27397v1)
+
+## How Language Models Organize and Structure Moral Knowledge
+- **ID**: arxiv_2608.27402v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27402v1](http://arxiv.org/abs/2608.27402v1)
+
+## Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms
+- **ID**: arxiv_2608.27409v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27409v1](http://arxiv.org/abs/2608.27409v1)
+
+## Boosting LLM Exploration via Weak-Model Guidance in RLVR
+- **ID**: arxiv_2608.27420v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27420v1](http://arxiv.org/abs/2608.27420v1)
+
+## Stochastic Estimation of Transduced Language Models
+- **ID**: arxiv_2608.27428v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27428v1](http://arxiv.org/abs/2608.27428v1)
+
+## TTPO: Test-Time Policy Optimization
+- **ID**: arxiv_2608.27448v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27448v1](http://arxiv.org/abs/2608.27448v1)
+
+## CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes
+- **ID**: arxiv_2608.27455v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27455v1](http://arxiv.org/abs/2608.27455v1)
 

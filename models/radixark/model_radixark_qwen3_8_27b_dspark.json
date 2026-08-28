@@ -1,7 +1,7 @@
 {
   "_id": "6a7eb1c2c4dfb8406fd29d73",
   "id": "RadixArk/Qwen3.8-27B-DSpark",
-  "likes": 66,
+  "likes": 65,
   "private": false,
   "downloads": 148025,
   "tags": [
@@ -11,11 +11,13 @@
     "feature-extraction",
     "speculative-decoding",
     "dspark",
-    "dflash",
     "specforge",
     "sglang",
+    "qwen3.8",
     "text-generation",
     "custom_code",
+    "base_model:RadixArk/Qwen3.8-27B-NVFP4",
+    "base_model:finetune:RadixArk/Qwen3.8-27B-NVFP4",
     "license:other",
     "text-generation-inference",
     "region:us"

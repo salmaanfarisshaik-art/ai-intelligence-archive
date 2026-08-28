@@ -2042,7 +2042,7 @@
 - **ID**: hf_antirez_deepseek-v4-gguf
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/antirez/deepseek-v4-gguf](https://huggingface.co/antirez/deepseek-v4-gguf)
-- **Tags**: 2-bit, 4-bit, apple-silicon, base_model:deepseek-ai/DeepSeek-V4-Flash, base_model:quantized:deepseek-ai/DeepSeek-V4-Flash, deepseek, deepseek-v4, deepseek-v4-flash, ds4, en, gguf, iq2_xxs, license:mit, metal, mixture-of-experts, moe, q2_k, q4_k, quantized, region:us, text-generation
+- **Tags**: 2-bit, 4-bit, apple-silicon, base_model:deepseek-ai/DeepSeek-V4-Flash, base_model:quantized:deepseek-ai/DeepSeek-V4-Flash, conversational, deepseek, deepseek-v4, deepseek-v4-flash, ds4, en, endpoints_compatible, gguf, iq2_xxs, license:mit, metal, mixture-of-experts, moe, q2_k, q4_k, quantized, region:us, text-generation
 
 ## apple/OpenELM-1_1B-Instruct
 - **ID**: hf_apple_OpenELM-1_1B-Instruct

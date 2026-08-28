@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.27417v1",
+  "schema_version": "1.0",
+  "name": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.27417v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.27417v1",
+    "updated": "2026-08-27T17:43:58Z",
+    "published": "2026-08-27T17:43:58Z",
+    "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+    "summary": "Vision-language models (VLMs) can locate an image region referred to by a text prompt and route the corresponding visual evidence to the output, yet the internal mechanism behind this behavior is not understood. Inspired by retrieval heads in large language models, we ask whether VLMs contain an analogous mechanism for visual retrieval. We answer affirmatively by introducing Visual Retrieval Heads (VRHs), a small subset of attention heads (about 1.7-2.6%) that are causally responsible for grounding text descriptions to image regions. To find them, we recast existing head-scoring methods under a unified design space over query tokens, key aggregation, and cross-sample aggregation. We then show that scoring attention from output prediction tokens with a sum over the ground-truth referent region most reliably identifies causal heads. Across eleven VLMs and five referring-expression benchmarks, masking only the top 20 VRHs reduces grounding accuracy by up to 80 percentage points, while masking the same number of random heads has little effect. Beyond replicating the causal-sparse-universal triad established for text retrieval heads, VRHs exhibit several properties not previously reported: they generalize across visual reference tasks, remaining causal on attribute, spatial, counting, and visual-math benchmarks despite being discovered through bounding-box prediction; they are functionally specific, preserving output format while corrupting localization; and they are architecturally shared, transferring causally across VLMs that share an LLM backbone but differ in vision encoder, projector, and instruction tuning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-28T09:35:24Z",
+  "last_updated": "2026-08-27T17:43:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.27417v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

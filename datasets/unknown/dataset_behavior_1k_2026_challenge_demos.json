@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4f50b44796641a4d526a19d9aeadc8aa51e2f2c2",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBEHAVIOR-1K 2026 Challenge Demos\n\t\n\nThis dataset contains BEHAVIOR-1K 2026 challenge demonstration trajectories in LeRobotDataset v3 format.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Statistics\n\t\n\n\nTasks: 100\nEpisodes: 20,000\nFrames: 210,916,774\nSize: approximately 3.0 TB\nData shards: 955 Parquet files\nVideo files: 17,093 MP4 files\nVideo features: 6\n\n\n\t\n\t\t\n\t\n\t\n\t\tFormat\n\t\n\nThe repository follows the LeRobotDataset v3 layout:\n\nmeta/info.json: dataset schema and path templates\nmeta/stats.json: feature… See the full description on the dataset page: https://huggingface.co/datasets/behavior-1k/2026-challenge-demos.",
-  "downloads": 101763,
+  "downloads": 92506,
   "tags": [
     "license:mit",
     "modality:video",

@@ -380,6 +380,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.17450v2](http://arxiv.org/abs/2606.17450v2)
 
+## ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents
+- **ID**: arxiv_2606.18037v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.18037v3](http://arxiv.org/abs/2606.18037v3)
+
 ## Knowledge Reutilization in Meta-Reinforcement Learning
 - **ID**: arxiv_2606.18132v1
 - **Source**: ArXiv
@@ -1944,4 +1949,34 @@
 - **ID**: arxiv_2608.26088v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26088v1](http://arxiv.org/abs/2608.26088v1)
+
+## Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance
+- **ID**: arxiv_2608.27340v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27340v1](http://arxiv.org/abs/2608.27340v1)
+
+## Sophistication in GenAI Use: Field Evidence from a Large Firm
+- **ID**: arxiv_2608.27364v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27364v1](http://arxiv.org/abs/2608.27364v1)
+
+## CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases
+- **ID**: arxiv_2608.27391v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27391v1](http://arxiv.org/abs/2608.27391v1)
+
+## Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study
+- **ID**: arxiv_2608.27421v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27421v1](http://arxiv.org/abs/2608.27421v1)
+
+## Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation
+- **ID**: arxiv_2608.27429v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27429v1](http://arxiv.org/abs/2608.27429v1)
+
+## WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution
+- **ID**: arxiv_2608.27454v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27454v1](http://arxiv.org/abs/2608.27454v1)
 

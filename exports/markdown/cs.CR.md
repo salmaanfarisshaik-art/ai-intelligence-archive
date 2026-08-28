@@ -220,3 +220,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26008v1](http://arxiv.org/abs/2608.26008v1)
 
+## Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners
+- **ID**: arxiv_2608.27424v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27424v1](http://arxiv.org/abs/2608.27424v1)
+
+## RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution
+- **ID**: arxiv_2608.27439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27439v1](http://arxiv.org/abs/2608.27439v1)
+

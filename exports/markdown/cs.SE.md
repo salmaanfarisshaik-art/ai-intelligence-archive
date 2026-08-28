@@ -170,3 +170,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24807v1](http://arxiv.org/abs/2608.24807v1)
 
+## Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit
+- **ID**: arxiv_2608.27427v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27427v1](http://arxiv.org/abs/2608.27427v1)
+
+## From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench
+- **ID**: arxiv_2608.27442v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27442v1](http://arxiv.org/abs/2608.27442v1)
+
+## SWE-Prime: Fewer Trajectories, Better Performance
+- **ID**: arxiv_2608.27449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27449v1](http://arxiv.org/abs/2608.27449v1)
+

@@ -13395,6 +13395,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_opencsg_chinese_fineweb_edu_v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_opencsg_fineweb_edu_chinese_v2_1",
       "match_type": "exact",
       "score": 1.0
@@ -23901,9 +23906,21 @@
   ],
   "needle": [
     {
+      "entity_id": "model_cactus_compute_needle2",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-3647101083448780550",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "needle2": [
+    {
+      "entity_id": "model_cactus_compute_needle2",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "needles": [
@@ -43160,6 +43177,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_opencsg_chinese_fineweb_edu_v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free",
       "match_type": "exact",
       "score": 1.0
@@ -50836,6 +50858,11 @@
   ],
   "newspapers": [
     {
+      "entity_id": "arxiv_2608.27343v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_bsc_lt_salamandra_7b_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -57329,6 +57356,11 @@
     },
     {
       "entity_id": "dataset_mcgill_nlp_weblinx_full",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_opencsg_chinese_fineweb_edu_v2",
       "match_type": "exact",
       "score": 1.0
     },
@@ -66575,12 +66607,22 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.23730v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2608.24842v1",
       "match_type": "exact",
       "score": 2.0
     },
     {
       "entity_id": "arxiv_2608.25976v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2608.27340v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -86272,6 +86314,11 @@
       "entity_id": "model_zdy1995love_mistral_medium_3_5_128b_nvfp4",
       "match_type": "exact",
       "score": 3.5
+    },
+    {
+      "entity_id": "model_radixark_qwen3_8_27b_dspark",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-Multimodal-NVFP4-MTP-XS",

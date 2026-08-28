@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b04c8d1ceb2f5cd4588862100d08de323dccfbaa",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Wikimedia Wikipedia\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nWikipedia dataset containing cleaned articles of all languages.\nThe dataset is built from the Wikipedia dumps (https://dumps.wikimedia.org/)\nwith one subset per language, each containing a single train split.\nEach example contains the content of one full Wikipedia article with cleaning to strip\nmarkdown and unwanted sections (references, etc.).\nAll language subsets have already been processed for recent dump… See the full description on the dataset page: https://huggingface.co/datasets/wikimedia/wikipedia.",
-  "downloads": 228585,
+  "downloads": 219959,
   "tags": [
     "task_categories:text-generation",
     "task_categories:fill-mask",
