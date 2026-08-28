@@ -1673,6 +1673,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gfdg34fsd_sh4
+- **Source**: 
+
+## 
 - **ID**: dataset_gfdg34fsd_shrink2
 - **Source**: 
 
@@ -3346,6 +3350,10 @@
 
 ## 
 - **ID**: dataset_icdn21_content_202608033db8
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn21_content_20260815b346
 - **Source**: 
 
 ## 
@@ -5045,6 +5053,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_onfdata_content_20260815b194
+- **Source**: 
+
+## 
 - **ID**: dataset_open_bee_honey_data_15m
 - **Source**: 
 
@@ -5122,6 +5134,10 @@
 
 ## 
 - **ID**: dataset_openclimatefix_dwd_icon_global
+- **Source**: 
+
+## 
+- **ID**: dataset_opencsg_chinese_fineweb_edu_v2
 - **Source**: 
 
 ## 
@@ -5890,6 +5906,10 @@
 
 ## 
 - **ID**: dataset_shfaiof_swisscube
+- **Source**: 
+
+## 
+- **ID**: dataset_shhdwi_olmocr_pre_rendered
 - **Source**: 
 
 ## 

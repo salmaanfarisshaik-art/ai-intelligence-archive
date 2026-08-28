@@ -692,6 +692,10 @@
 - **ID**: model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf
 - **Source**: 
 
+## Cactus-Compute/needle2
+- **ID**: model_cactus_compute_needle2
+- **Source**: 
+
 ## cais/HarmBench-Llama-2-13b-cls
 - **ID**: model_cais_harmbench_llama_2_13b_cls
 - **Source**: 
@@ -3856,6 +3860,10 @@
 - **ID**: model_ornith_ai_ornith_1_5_9b_mlx_8bit
 - **Source**: 
 
+## OuteAI/Lite-Oute-1-300M
+- **ID**: model_outeai_lite_oute_1_300m
+- **Source**: 
+
 ## outsourc-e/Qwen3.8-27B-Unleashed-GGUF
 - **ID**: model_outsourc_e_qwen3_8_27b_unleashed_gguf
 - **Source**: 
@@ -4968,6 +4976,10 @@
 - **ID**: model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf
 - **Source**: 
 
+## SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B
+- **ID**: model_sentientagi_dobby_mini_unhinged_llama_3_1_8b
+- **Source**: 
+
 ## shafire/Zero-Gemma4-E4B-OpenZero-GGUF
 - **ID**: model_shafire_zero_gemma4_e4b_openzero_gguf
 - **Source**: 
@@ -5518,6 +5530,10 @@
 
 ## unsloth/gemma-2-27b-it
 - **ID**: model_unsloth_gemma_2_27b_it
+- **Source**: 
+
+## unsloth/gemma-2-2b-it
+- **ID**: model_unsloth_gemma_2_2b_it
 - **Source**: 
 
 ## unsloth/gemma-2-2b-it-bnb-4bit
