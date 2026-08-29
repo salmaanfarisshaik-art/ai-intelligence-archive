@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T03:33:26Z",
+  "generated_at": "2026-08-29T10:51:25Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -257,6 +257,7 @@
     "hf_HuggingFaceFW_fineweb-2": [
       "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese",
       "model_pfnet_plamo_3_nict_2b_base",
+      "model_skt_a_x_k2",
       "model_uzlm_alloma_3b_instruct"
     ],
     "hf_HuggingFaceFW_fineweb-edu": [
@@ -1004,6 +1005,7 @@
       "model_nexveridian_qwen3_coder_next_8bit",
       "model_redhatai_qwen3_coder_next_fp8_dynamic",
       "model_redhatai_qwen3_coder_next_nvfp4",
+      "model_unsloth_qwen3_coder_next_fp8",
       "model_unsloth_qwen3_coder_next_gguf"
     ],
     "hf_Qwen_Qwen3-Embedding-0.6B": [
@@ -1937,6 +1939,9 @@
     "hf_huihui-ai_Huihui-Qwen3-Coder-Next-abliterated": [
       "model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf"
     ],
+    "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated": [
+      "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4"
+    ],
     "hf_huihui-ai_Huihui-gpt-oss-20b-BF16-abliterated": [
       "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf"
     ],
@@ -2100,6 +2105,7 @@
       "model_bartowski_meta_llama_3_1_8b_instruct_gguf",
       "model_lmstudio_community_meta_llama_3_1_8b_instruct_gguf",
       "model_maziyarpanahi_meta_llama_3_1_8b_instruct_gguf",
+      "model_mlx_community_llama_3_1_8b_instruct_4bit",
       "model_nvidia_llama_3_1_8b_instruct_fp8",
       "model_pearl_ai_llama_3_1_8b_instruct_pearl",
       "model_redhatai_meta_llama_3_1_8b_instruct_fp8",
@@ -2482,6 +2488,7 @@
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_fp8",
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_nvfp4",
       "model_nvidia_nvidia_nemotron_nano_9b_v2_japanese",
+      "model_skt_a_x_k2",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -2581,6 +2588,7 @@
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_bf16",
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_fp8",
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_nvfp4",
+      "model_skt_a_x_k2",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -2717,6 +2725,7 @@
       "model_unsloth_gpt_oss_120b_gguf"
     ],
     "hf_openai_gpt-oss-20b": [
+      "model_fastflowlm_gpt_oss_20b_npu2",
       "model_ggml_org_gpt_oss_20b_gguf",
       "model_mlx_community_gpt_oss_20b_mxfp4_q8",
       "model_openai_gpt_oss_safeguard_20b",
@@ -3099,6 +3108,9 @@
     ],
     "hf_zake7749_Qwen3.6-35B-A3B-Tool-Calling": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
+    ],
+    "hf_zed-industries_zeta-2.1": [
+      "model_leaderboardmodel1_zeta_2_1_autoround_w4a16"
     ],
     "hf_zerofata_Instruct-Anime": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -3962,6 +3974,9 @@
       "hf_farbodtavakkoli_OTel-LLM",
       "hf_google_gemma-4-E4B-it"
     ],
+    "model_fastflowlm_gpt_oss_20b_npu2": [
+      "hf_openai_gpt-oss-20b"
+    ],
     "model_fdtn_ai_foundation_sec_1_1_8b_instruct": [
       "hf_fdtn-ai_Foundation-Sec-8B"
     ],
@@ -4306,6 +4321,9 @@
     ],
     "model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16": [
       "hf_z-lab_Qwen3.6-27B-DFlash"
+    ],
+    "model_leaderboardmodel1_zeta_2_1_autoround_w4a16": [
+      "hf_zed-industries_zeta-2.1"
     ],
     "model_legraphista_glm_4_9b_chat_imat_gguf": [
       "hf_zai-org_glm-4-9b-chat"
@@ -4865,6 +4883,9 @@
     ],
     "model_mlx_community_kimi_k2_6_mlx_dq3_k_m_q8": [
       "hf_moonshotai_Kimi-K2.6"
+    ],
+    "model_mlx_community_llama_3_1_8b_instruct_4bit": [
+      "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
     "model_mlx_community_llama_3_2_1b_instruct_4bit": [
       "hf_mlx-community_Llama-3.2-1B-Instruct-bf16"
@@ -5985,6 +6006,9 @@
     "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf": [
       "hf_deepreinforce-ai_Ornith-1.0-35B"
     ],
+    "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4": [
+      "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated"
+    ],
     "model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp": [
       "hf_Qwen_Qwen3.6-27B"
     ],
@@ -6029,6 +6053,11 @@
     ],
     "model_shibing624_macbert4csc_base_chinese": [
       "hf_shibing624_CSC"
+    ],
+    "model_skt_a_x_k2": [
+      "hf_HuggingFaceFW_fineweb-2",
+      "hf_nvidia_Nemotron-CC-v2.1",
+      "hf_nvidia_Nemotron-Pretraining-Code-v2"
     ],
     "model_sneedjak_adelic_gemma_4_12b_gguf": [
       "hf_google_gemma-4-12B"
@@ -6562,6 +6591,9 @@
     ],
     "model_unsloth_qwen3_coder_30b_a3b_instruct_gguf": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
+    "model_unsloth_qwen3_coder_next_fp8": [
+      "hf_Qwen_Qwen3-Coder-Next"
     ],
     "model_unsloth_qwen3_coder_next_gguf": [
       "hf_Qwen_Qwen3-Coder-Next"

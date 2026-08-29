@@ -514,6 +514,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_facebook_belebele",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_helsinki_nlp_opus_100",
       "match_type": "exact",
       "score": 1.5
@@ -1682,6 +1687,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_bop_benchmark_xyzibd",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1154541248022336517",
       "match_type": "exact",
       "score": 1.0
@@ -1722,6 +1732,13 @@
       "entity_id": "arxiv_2608.12276v1",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "xyzibd": [
+    {
+      "entity_id": "dataset_bop_benchmark_xyzibd",
+      "match_type": "exact",
+      "score": 7.0
     }
   ]
 }

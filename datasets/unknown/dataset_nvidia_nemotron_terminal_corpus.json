@@ -1,0 +1,32 @@
+{
+  "_id": "6996711477c275fd9adb7137",
+  "id": "nvidia/Nemotron-Terminal-Corpus",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-02-27T22:37:57.000Z",
+  "likes": 142,
+  "private": false,
+  "sha": "a1667c4ffdadea02a89bffe4f1bb7ca2ff19f8d9",
+  "description": "\n\t\n\t\t\n\t\tTerminal-Corpus: Large-Scale SFT Dataset for Terminal Agents\n\t\n\nTerminal-Corpus is a large-scale Supervised Fine-Tuning (SFT) dataset designed to scale the terminal interaction capabilities of Large Language Models (LLMs). Developed by NVIDIA, this dataset was built using the Terminal-Task-Gen pipeline, which combines dataset adaptation with synthetic task generation across diverse domains.\n\n\t\n\t\t\n\t\t🚀 Key Results & Performance\n\t\n\nThe high-quality trajectories in Terminal-Corpus enable… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/Nemotron-Terminal-Corpus.",
+  "downloads": 33975,
+  "tags": [
+    "task_categories:question-answering",
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2602.21193",
+    "region:us",
+    "code"
+  ],
+  "createdAt": "2026-02-19T02:10:28.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_nemotron_terminal_corpus",
+  "schema_version": "1.0"
+}

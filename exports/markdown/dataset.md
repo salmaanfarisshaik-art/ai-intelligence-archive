@@ -676,6 +676,12 @@
 - **URL**: [https://huggingface.co/datasets/mhaamh19/prophet-mosque-library](https://huggingface.co/datasets/mhaamh19/prophet-mosque-library)
 - **Tags**: language:ar, license:mit, region:us, size_categories:10K<n<100K, task_categories:image-to-text
 
+## sjkhfuk/rdp
+- **ID**: hf_ds_6990e1d8b5d312712696ef21
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/sjkhfuk/rdp](https://huggingface.co/datasets/sjkhfuk/rdp)
+- **Tags**: region:us
+
 ## endomorphosis/common_crawl_meta_indexes
 - **ID**: hf_ds_699125ba2e87fc8e25a5010a
 - **Source**: HuggingFace Datasets
@@ -921,6 +927,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train](https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train)
 - **Tags**: arxiv:2402.19173, code, language:code, language_creators:crowdsourced, language_creators:expert-generated, license:odc-by, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:text-generation
+
+## gfdg34fsd/sh
+- **ID**: hf_ds_6a67b67edd8543ddc375d370
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/gfdg34fsd/sh](https://huggingface.co/datasets/gfdg34fsd/sh)
+- **Tags**: region:us
 
 ## gfdg34fsd/ngrik
 - **ID**: hf_ds_6a67d0a568d9afa362507f38

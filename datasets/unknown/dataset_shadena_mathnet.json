@@ -9,7 +9,7 @@
   "private": false,
   "sha": "33e6b3bc254e6f0f0c1479b4252f5e9dd551d56c",
   "description": "\n\n\n  \n  \n\n\nQuick Start · Overview · Tasks · Comparison · Dataset Stats · Data Sources · Pipeline · Schema · License · Citation \n\nThis is the official MathNet v0. A larger version v1 will be uploaded soon (more countires, problems and richer metadata). Schema is stable but field values may be revised in v1.\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tQuick start\n\t\n\nfrom datasets import load_dataset\n\n# Default: all problems\nds = load_dataset(\"ShadenA/MathNet\", split=\"train\")\n\n# Or a specific country / competition-body config… See the full description on the dataset page: https://huggingface.co/datasets/ShadenA/MathNet.",
-  "downloads": 37054,
+  "downloads": 36946,
   "tags": [
     "task_categories:question-answering",
     "task_categories:text-generation",

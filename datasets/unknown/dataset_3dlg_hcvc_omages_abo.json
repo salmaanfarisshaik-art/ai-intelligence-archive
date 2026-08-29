@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2da6ff39849657af7b3d4bfc92ac0cba68366764",
   "description": "This repo hosts the processed data of the ABO dataset for the paper An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion.\nPlease refer to the project homepage, arxiv page and github repo for more details.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset details\n\t\n\nWe first download the .glb ABO shapes, then we turn the .glb files into 1024x1024x12 object images using Blender 4.0. We set the maximum number of patches to 64 and set the margin to be 2%. The 1024 resolution data is in the data/ folder… See the full description on the dataset page: https://huggingface.co/datasets/3dlg-hcvc/omages_ABO.",
-  "downloads": 84642,
+  "downloads": 84755,
   "tags": [
     "task_categories:text-to-3d",
     "license:cc-by-4.0",

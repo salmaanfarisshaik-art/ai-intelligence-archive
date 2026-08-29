@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bcbd01247541166de124392458c8182a3d76553b",
   "description": "\n\t\n\t\t\n\t\tDatacomp200m\n\t\n\nThis is a smaller version of the datacomp_1b dataset. \nFiltering was done by taking all rows that had self similarity (inner product) above 0.32. This resulted in 213009083 (213 million) rows. \nThe results of the datacomp paper suggest that filtering by CLIP score is better than random sampling. \nIncluded in this repo are search indices created using autofaiss, over the text and image embeddings. There are two ways to access metadata, either in .parquet files in the… See the full description on the dataset page: https://huggingface.co/datasets/adams-story/datacomp200m.",
-  "downloads": 71776,
+  "downloads": 71588,
   "tags": [
     "size_categories:100M<n<1B",
     "format:parquet",
