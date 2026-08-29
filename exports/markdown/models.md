@@ -1372,6 +1372,10 @@
 - **ID**: model_farbodtavakkoli_otel_llm_e4b_it
 - **Source**: 
 
+## FastFlowLM/GPT-OSS-20B-NPU2
+- **ID**: model_fastflowlm_gpt_oss_20b_npu2
+- **Source**: 
+
 ## fdtn-ai/Foundation-Sec-1.1-8B-Instruct
 - **ID**: model_fdtn_ai_foundation_sec_1_1_8b_instruct
 - **Source**: 
@@ -2084,6 +2088,10 @@
 - **ID**: model_leaderboardmodel1_qwen3_6_27b_dflash_autoround_w4a16
 - **Source**: 
 
+## LeaderboardModel1/zeta-2.1-autoround-W4A16
+- **ID**: model_leaderboardmodel1_zeta_2_1_autoround_w4a16
+- **Source**: 
+
 ## legraphista/glm-4-9b-chat-IMat-GGUF
 - **ID**: model_legraphista_glm_4_9b_chat_imat_gguf
 - **Source**: 
@@ -2226,6 +2234,10 @@
 
 ## liuhaotian/llava-v1.5-7b
 - **ID**: model_liuhaotian_llava_v1_5_7b
+- **Source**: 
+
+## liuhaotian/llava-v1.6-mistral-7b
+- **ID**: model_liuhaotian_llava_v1_6_mistral_7b
 - **Source**: 
 
 ## liuhaotian/llava-v1.6-vicuna-13b
@@ -3062,6 +3074,10 @@
 
 ## mlx-community/Kimi-K2.6-mlx-DQ3_K_M-q8
 - **ID**: model_mlx_community_kimi_k2_6_mlx_dq3_k_m_q8
+- **Source**: 
+
+## mlx-community/Llama-3.1-8B-Instruct-4bit
+- **ID**: model_mlx_community_llama_3_1_8b_instruct_4bit
 - **Source**: 
 
 ## mlx-community/Llama-3.2-1B-Instruct-4bit
@@ -4908,6 +4924,10 @@
 - **ID**: model_sakamakismile_huihui_qwen3_6_27b_abliterated_nvfp4_mtp
 - **Source**: 
 
+## sakamakismile/Huihui-Qwen3.8-27B-abliterated-NVFP4
+- **ID**: model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4
+- **Source**: 
+
 ## sakamakismile/Qwen3.6-27B-Text-NVFP4-MTP
 - **ID**: model_sakamakismile_qwen3_6_27b_text_nvfp4_mtp
 - **Source**: 
@@ -4998,6 +5018,10 @@
 
 ## skt/A.X-K1
 - **ID**: model_skt_a_x_k1
+- **Source**: 
+
+## skt/A.X-K2
+- **ID**: model_skt_a_x_k2
 - **Source**: 
 
 ## skt/kogpt2-base-v2
@@ -5904,6 +5928,10 @@
 - **ID**: model_unsloth_qwen3_coder_30b_a3b_instruct_gguf
 - **Source**: 
 
+## unsloth/Qwen3-Coder-Next-FP8
+- **ID**: model_unsloth_qwen3_coder_next_fp8
+- **Source**: 
+
 ## unsloth/Qwen3-Coder-Next-GGUF
 - **ID**: model_unsloth_qwen3_coder_next_gguf
 - **Source**: 
@@ -6198,6 +6226,10 @@
 
 ## zai-org/GLM-5.2-FP8
 - **ID**: model_zai_org_glm_5_2_fp8
+- **Source**: 
+
+## zai-org/GLM-5.3-Flash
+- **ID**: model_zai_org_glm_5_3_flash
 - **Source**: 
 
 ## zai-org/GLM-5-FP8

@@ -13,6 +13,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_86cao_megapairs_standard
+- **Source**: 
+
+## 
 - **ID**: dataset_aaaad1_banned_historical_archives
 - **Source**: 
 
@@ -266,6 +270,10 @@
 
 ## 
 - **ID**: dataset_allenai_social_i_qa
+- **Source**: 
+
+## 
+- **ID**: dataset_allenai_swag
 - **Source**: 
 
 ## 
@@ -745,6 +753,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_biscue5_egoscaler_v2
+- **Source**: 
+
+## 
 - **ID**: dataset_bitrobot_hiw_500
 - **Source**: 
 
@@ -782,6 +794,10 @@
 
 ## 
 - **ID**: dataset_bop_benchmark_hot3d
+- **Source**: 
+
+## 
+- **ID**: dataset_bop_benchmark_xyzibd
 - **Source**: 
 
 ## 
@@ -953,7 +969,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_chilled_multiarith
+- **Source**: 
+
+## 
 - **ID**: dataset_chilled_strategyqa
+- **Source**: 
+
+## 
+- **ID**: dataset_chilled_svamp
 - **Source**: 
 
 ## 
@@ -1349,6 +1373,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_efficient_large_model_sana_assets
+- **Source**: 
+
+## 
+- **ID**: dataset_ehovy_race
+- **Source**: 
+
+## 
 - **ID**: dataset_ehrdt_atomode_db
 - **Source**: 
 
@@ -1413,11 +1445,23 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_evalplus_mbppplus
+- **Source**: 
+
+## 
 - **ID**: dataset_evergreentree_eyepcr
 - **Source**: 
 
 ## 
 - **ID**: dataset_eyz_vlnverse_scene
+- **Source**: 
+
+## 
+- **ID**: dataset_facebook_anli
+- **Source**: 
+
+## 
+- **ID**: dataset_facebook_belebele
 - **Source**: 
 
 ## 
@@ -1454,6 +1498,10 @@
 
 ## 
 - **ID**: dataset_farhanhubble_jfk_archives
+- **Source**: 
+
+## 
+- **ID**: dataset_fastvideo_wan_syn_77x448x832_600k
 - **Source**: 
 
 ## 
@@ -1558,6 +1606,10 @@
 
 ## 
 - **ID**: dataset_forithmus_mr_rate_coreg
+- **Source**: 
+
+## 
+- **ID**: dataset_foursquare_fsq_os_places
 - **Source**: 
 
 ## 
@@ -1829,6 +1881,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hariikun_gt
+- **Source**: 
+
+## 
 - **ID**: dataset_harland_audiomcq_strongac_geminicot
 - **Source**: 
 
@@ -1982,6 +2038,10 @@
 
 ## 
 - **ID**: dataset_hoanglongan2009_hoanglongan2009
+- **Source**: 
+
+## 
+- **ID**: dataset_hoangthanhdat1990_hoangthanhdat1990
 - **Source**: 
 
 ## 
@@ -3301,6 +3361,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn18_content_20260816046b
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn19_content_202607060b55
 - **Source**: 
 
@@ -3334,6 +3398,10 @@
 
 ## 
 - **ID**: dataset_icdn20_content_20260806ca3e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn20_content_20260817eba3
 - **Source**: 
 
 ## 
@@ -3997,6 +4065,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lightwheelai_egodemo
+- **Source**: 
+
+## 
 - **ID**: dataset_lingamvamshikrishnareddy_ramanv_image_raw
 - **Source**: 
 
@@ -4274,6 +4346,14 @@
 
 ## 
 - **ID**: dataset_majestical1_dns_challenge
+- **Source**: 
+
+## 
+- **ID**: dataset_major_tom_core_s1rtc
+- **Source**: 
+
+## 
+- **ID**: dataset_major_tom_core_s2l1c
 - **Source**: 
 
 ## 
@@ -4862,6 +4942,10 @@
 
 ## 
 - **ID**: dataset_nvidia_nemotron_post_training_dataset_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_nemotron_terminal_corpus
 - **Source**: 
 
 ## 
@@ -5617,6 +5701,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_revolutioncrossroads_loc_chronicling_america_1770_1810
+- **Source**: 
+
+## 
 - **ID**: dataset_rexx_new_computer_use_large
 - **Source**: 
 
@@ -5750,6 +5838,14 @@
 
 ## 
 - **ID**: dataset_saffatgazi_fish_vista
+- **Source**: 
+
+## 
+- **ID**: dataset_safwatkhokha_nawaqes_backup_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_sakanaai_ai_cuda_engineer_archive
 - **Source**: 
 
 ## 
@@ -5985,6 +6081,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sjkhfuk_caca
+- **Source**: 
+
+## 
 - **ID**: dataset_sjkhfuk_rdp
 - **Source**: 
 
@@ -6170,6 +6270,10 @@
 
 ## 
 - **ID**: dataset_swe_bench_swe_bench_verified
+- **Source**: 
+
+## 
+- **ID**: dataset_swe_bench_swe_smith
 - **Source**: 
 
 ## 
@@ -6401,6 +6505,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_trankhanhly1999_trankhanhly1999
+- **Source**: 
+
+## 
 - **ID**: dataset_trankimnganvip_trankimnganvip
 - **Source**: 
 
@@ -6606,6 +6714,10 @@
 
 ## 
 - **ID**: dataset_wannaphong_wikipedia_monthly
+- **Source**: 
+
+## 
+- **ID**: dataset_wanyuezhang_mulset
 - **Source**: 
 
 ## 
@@ -6853,6 +6965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yipenggao_3dcode
+- **Source**: 
+
+## 
 - **ID**: dataset_ylacombe_cml_tts
 - **Source**: 
 
@@ -6946,6 +7062,10 @@
 
 ## 
 - **ID**: dataset_zh_plus_tiny_imagenet
+- **Source**: 
+
+## 
+- **ID**: dataset_zhang0jhon_aesthetic_4k
 - **Source**: 
 
 ## 
