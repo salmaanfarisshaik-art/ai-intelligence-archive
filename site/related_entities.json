@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:07:03Z",
+  "generated_at": "2026-08-30T07:56:46Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -225,6 +225,7 @@
       "model_gnlolot_minicpm5_1b_claude_opus_fable5_v2_thinking_gguf"
     ],
     "hf_GritLM_tulu2": [
+      "model_gritlm_gritlm_7b",
       "model_parasail_ai_gritlm_7b_vllm"
     ],
     "hf_Gryphe_ChatGPT-4o-Writing-Prompts": [
@@ -507,6 +508,9 @@
     ],
     "hf_Nopm_Opus_WritingStruct": [
       "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
+    ],
+    "hf_NousResearch_Hermes-3-Llama-3.1-70B": [
+      "model_bartowski_hermes_3_llama_3_1_70b_gguf"
     ],
     "hf_NousResearch_Hermes-3-Llama-3.1-8B": [
       "model_solidrust_hermes_3_llama_3_1_8b_awq"
@@ -2208,6 +2212,7 @@
     ],
     "hf_microsoft_phi-4": [
       "model_maziyarpanahi_phi_4_gguf",
+      "model_redhatai_phi_4_fp8_dynamic",
       "model_redhatai_phi_4_quantized_w4a16"
     ],
     "hf_mimic-cxr": [
@@ -2247,6 +2252,7 @@
       "model_unsloth_mistral_7b_instruct_v0_3_bnb_4bit"
     ],
     "hf_mistralai_Mistral-7B-v0.1": [
+      "model_gritlm_gritlm_7b",
       "model_huggingfaceh4_zephyr_7b_beta",
       "model_mistralai_mistral_7b_instruct_v0_1"
     ],
@@ -3403,6 +3409,9 @@
     "model_bartowski_gemma_2_2b_it_gguf": [
       "hf_google_gemma-2-2b-it"
     ],
+    "model_bartowski_hermes_3_llama_3_1_70b_gguf": [
+      "hf_NousResearch_Hermes-3-Llama-3.1-70B"
+    ],
     "model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf": [
       "hf_huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated"
     ],
@@ -4063,6 +4072,10 @@
     ],
     "model_google_t5_t5_3b": [
       "hf_c4"
+    ],
+    "model_gritlm_gritlm_7b": [
+      "hf_GritLM_tulu2",
+      "hf_mistralai_Mistral-7B-v0.1"
     ],
     "model_herrhruby_mr_midtrain_9b_v3": [
       "hf_Qwen_Qwen3.5-9B"
@@ -5941,6 +5954,9 @@
     ],
     "model_redhatai_meta_llama_3_8b_instruct_fp8_kv": [
       "hf_meta-llama_Meta-Llama-3-8B-Instruct"
+    ],
+    "model_redhatai_phi_4_fp8_dynamic": [
+      "hf_microsoft_phi-4"
     ],
     "model_redhatai_phi_4_quantized_w4a16": [
       "hf_microsoft_phi-4"

@@ -27518,6 +27518,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_explosion_testing_llama2_kv_sharing",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_facebook_opt_125m",
       "match_type": "exact",
       "score": 3.0
@@ -27659,6 +27664,11 @@
     },
     {
       "entity_id": "model_google_t5_t5_3b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_gritlm_gritlm_7b",
       "match_type": "exact",
       "score": 3.0
     },
@@ -31723,6 +31733,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_hermes_3_llama_3_1_70b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -35219,6 +35234,11 @@
     },
     {
       "entity_id": "model_redhatai_llama_3_2_1b_instruct_quantized_w8a8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_redhatai_phi_4_fp8_dynamic",
       "match_type": "exact",
       "score": 1.5
     },
@@ -50965,6 +50985,11 @@
     },
     {
       "entity_id": "model_bartowski_gemma_2_2b_it_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_bartowski_hermes_3_llama_3_1_70b_gguf",
       "match_type": "exact",
       "score": 3.5
     },
@@ -76139,6 +76164,11 @@
       "entity_id": "alpaca_7453884679670788346",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mvp_lab_llava_onevision_2_data",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "glances": [
@@ -96546,6 +96576,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_hermes_3_llama_3_1_70b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nousresearch_hermes_3_llama_3_1_70b",
       "match_type": "exact",
       "score": 1.5
@@ -111286,6 +111321,11 @@
     }
   ],
   "gritlm": [
+    {
+      "entity_id": "model_gritlm_gritlm_7b",
+      "match_type": "exact",
+      "score": 5.5
+    },
     {
       "entity_id": "model_parasail_ai_gritlm_7b_vllm",
       "match_type": "exact",
