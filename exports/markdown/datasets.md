@@ -253,6 +253,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_quartz
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_real_toxicity_prompts
 - **Source**: 
 
@@ -1097,6 +1101,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_community_datasets_quarel
+- **Source**: 
+
+## 
 - **ID**: dataset_complexdatalab_openfake
 - **Source**: 
 
@@ -1489,6 +1497,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_facebook_xnli
+- **Source**: 
+
+## 
 - **ID**: dataset_fancyzhx_ag_news
 - **Source**: 
 
@@ -1598,6 +1610,10 @@
 
 ## 
 - **ID**: dataset_fm4cs_thor_pretrain
+- **Source**: 
+
+## 
+- **ID**: dataset_fomo_mri_fomo260k
 - **Source**: 
 
 ## 
@@ -2757,6 +2773,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_20260818d6cb
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn13_content_202604254caa
 - **Source**: 
 
@@ -3737,6 +3757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jeggers_riddle_sense
+- **Source**: 
+
+## 
 - **ID**: dataset_jensky_jensky
 - **Source**: 
 
@@ -3770,6 +3794,10 @@
 
 ## 
 - **ID**: dataset_jinaai_documentation_images
+- **Source**: 
+
+## 
+- **ID**: dataset_jinofy_corp_jora_corpus1_tokenized_128k
 - **Source**: 
 
 ## 
@@ -4706,6 +4734,10 @@
 
 ## 
 - **ID**: dataset_mteb_stsbenchmark_sts
+- **Source**: 
+
+## 
+- **ID**: dataset_mu_nlpc_calc_mawps
 - **Source**: 
 
 ## 
@@ -5845,6 +5877,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sahil2801_codealpaca_20k
+- **Source**: 
+
+## 
 - **ID**: dataset_sakanaai_ai_cuda_engineer_archive
 - **Source**: 
 
@@ -5865,6 +5901,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_salesforce_xlam_function_calling_60k
+- **Source**: 
+
+## 
 - **ID**: dataset_salmonnn_cc12
 - **Source**: 
 
@@ -5878,6 +5918,10 @@
 
 ## 
 - **ID**: dataset_samilod9_nanni
+- **Source**: 
+
+## 
+- **ID**: dataset_samilod9_vaz
 - **Source**: 
 
 ## 
@@ -6118,6 +6162,10 @@
 
 ## 
 - **ID**: dataset_snowfall0601_dartlab_data
+- **Source**: 
+
+## 
+- **ID**: dataset_sparkaudio_voxbox
 - **Source**: 
 
 ## 
@@ -6382,6 +6430,10 @@
 
 ## 
 - **ID**: dataset_tencent_vcb_bench
+- **Source**: 
+
+## 
+- **ID**: dataset_tensorshield_reddit_dataset_157
 - **Source**: 
 
 ## 

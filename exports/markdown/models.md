@@ -240,6 +240,10 @@
 - **ID**: model_ankitai_parable_qwen3_8b_claude_fable_5_gguf
 - **Source**: 
 
+## AnonimousA/Qwen3.8-Flash-Next-REAP-256-duo-GGUF
+- **ID**: model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf
+- **Source**: 
+
 ## anrilombard/mzansilm-125m
 - **ID**: model_anrilombard_mzansilm_125m
 - **Source**: 
@@ -636,6 +640,10 @@
 - **ID**: model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid
 - **Source**: 
 
+## bloomer010/Ling-3.0-flash-GGUF
+- **ID**: model_bloomer010_ling_3_0_flash_gguf
+- **Source**: 
+
 ## bloomer010/Ling-3.0-tiny-GGUF
 - **ID**: model_bloomer010_ling_3_0_tiny_gguf
 - **Source**: 
@@ -770,6 +778,10 @@
 
 ## ContextualAI/ctxl-rerank-v2-instruct-multilingual-1b
 - **ID**: model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b
+- **Source**: 
+
+## CrashOverrideX/Quillan-Ronin
+- **ID**: model_crashoverridex_quillan_ronin
 - **Source**: 
 
 ## crusoeai/DeepSeek-V4-Flash-BF16
@@ -2204,6 +2216,10 @@
 - **ID**: model_liquidai_lfm2_5_2_6b
 - **Source**: 
 
+## LiquidAI/LFM2.5-2.6B-DSpark-GGUF
+- **ID**: model_liquidai_lfm2_5_2_6b_dspark_gguf
+- **Source**: 
+
 ## LiquidAI/LFM2.5-2.6B-GGUF
 - **ID**: model_liquidai_lfm2_5_2_6b_gguf
 - **Source**: 
@@ -3260,6 +3276,10 @@
 - **ID**: model_nguyenvulebinh_av_hubert_muavic_en
 - **Source**: 
 
+## nineninesix/gepard-1.0
+- **ID**: model_nineninesix_gepard_1_0
+- **Source**: 
+
 ## nm-testing/Meta-Llama-3-8B-Instruct-nonuniform-test
 - **ID**: model_nm_testing_meta_llama_3_8b_instruct_nonuniform_test
 - **Source**: 
@@ -3594,6 +3614,10 @@
 
 ## nvidia/Qwen3.5-397B-A17B-NVFP4
 - **ID**: model_nvidia_qwen3_5_397b_a17b_nvfp4
+- **Source**: 
+
+## nvidia/Qwen3.5-397B-A17B-NVFP4-V2
+- **ID**: model_nvidia_qwen3_5_397b_a17b_nvfp4_v2
 - **Source**: 
 
 ## nvidia/Qwen3.6-27B-NVFP4
@@ -5636,6 +5660,10 @@
 - **ID**: model_unsloth_glm_5_2_gguf
 - **Source**: 
 
+## unsloth/GLM-5.3-Flash-GGUF
+- **ID**: model_unsloth_glm_5_3_flash_gguf
+- **Source**: 
+
 ## unsloth/gpt-oss-120b
 - **ID**: model_unsloth_gpt_oss_120b
 - **Source**: 
@@ -6076,6 +6104,10 @@
 - **ID**: model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf
 - **Source**: 
 
+## windowsxp811203/Qwen3.8-Flash-Next-Abliterated-GGUF
+- **ID**: model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf
+- **Source**: 
+
 ## WizardLMTeam/WizardMath-7B-V1.1
 - **ID**: model_wizardlmteam_wizardmath_7b_v1_1
 - **Source**: 
@@ -6242,6 +6274,10 @@
 
 ## zai-org/GLM-5.2-FP8
 - **ID**: model_zai_org_glm_5_2_fp8
+- **Source**: 
+
+## zai-org/GLM-5.3
+- **ID**: model_zai_org_glm_5_3
 - **Source**: 
 
 ## zai-org/GLM-5.3-Flash

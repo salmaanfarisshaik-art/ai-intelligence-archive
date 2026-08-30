@@ -1,14 +1,14 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88053
+**Total Entities Tracked**: 88075
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 1784
-- **models**: 1569
+- **datasets**: 1797
+- **models**: 1578
 - **news**: 1174
 - **dataset**: 1157
 - **text-generation**: 1007
@@ -89,7 +89,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30531
+- ****: 30553
 - **ArXiv**: 2028
 - **Hugging Face**: 2014
 - **OpenAI Blog**: 1160
@@ -135,8 +135,8 @@
 
 - **region:us**: 228
 - **text-generation**: 72
-- **library:datasets**: 70
-- **library:mlcroissant**: 70
+- **library:datasets**: 69
+- **library:mlcroissant**: 69
 - **modality:text**: 63
 - **license:apache-2.0**: 62
 - **safetensors**: 62
@@ -156,8 +156,8 @@
 - **library:dask**: 25
 - **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
-- **modality:image**: 21
-- **size_categories:n<1K**: 20
+- **modality:image**: 20
+- **size_categories:n<1K**: 19
 - **license:other**: 18
 - **modality:tabular**: 18
 - **qwen3**: 18
@@ -175,7 +175,6 @@
 - **source_datasets:original**: 10
 - **custom_code**: 9
 - **language:zh**: 9
-- **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
@@ -183,3 +182,4 @@
 - **format:json**: 8
 - **language:ar**: 8
 - **llama**: 8
+- **modality:audio**: 8
