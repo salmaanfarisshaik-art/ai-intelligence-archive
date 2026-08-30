@@ -9,7 +9,7 @@
   "private": false,
   "sha": "2d32431d3be3b0621c462759b02f7b378e53c2cc",
   "description": "This dataset was created using LeRobot.\n\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"fps\": 30,\n    \"features\": {\n        \"observation.images.head\": {\n            \"dtype\": \"video\",\n            \"shape\": [\n                480,\n                1280,\n                3\n            ],\n            \"names\": [\n                \"height\",\n                \"width\",\n                \"channels\"\n            ],\n            \"info\": {\n                \"video.height\":… See the full description on the dataset page: https://huggingface.co/datasets/BitRobot/HIW-500-LeRobot.",
-  "downloads": 33926,
+  "downloads": 31442,
   "tags": [
     "task_categories:robotics",
     "language:en",

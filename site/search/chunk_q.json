@@ -333,6 +333,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_cognitive_lab_nayanaocr_corpus_2025",
       "match_type": "exact",
       "score": 3.0
@@ -504,6 +509,11 @@
     },
     {
       "entity_id": "dataset_rajpurkar_squad",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_tensorshield_reddit_dataset_157",
       "match_type": "exact",
       "score": 1.5
     },
@@ -1419,6 +1429,11 @@
     },
     {
       "entity_id": "alpaca_6849233682102116307",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_allenai_quartz",
       "match_type": "exact",
       "score": 2.0
     },
@@ -3716,6 +3731,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_salesforce_xlam_function_calling_60k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_salt_research_deepdialogue_orpheus",
       "match_type": "exact",
       "score": 1.0
@@ -5241,6 +5261,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4_v2",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_nvidia_qwen3_6_27b_nvfp4",
       "match_type": "exact",
       "score": 3.0
@@ -5472,6 +5497,11 @@
     },
     {
       "entity_id": "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5727,6 +5757,11 @@
     },
     {
       "entity_id": "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bloomer010_ling_3_0_flash_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -6122,6 +6157,11 @@
     },
     {
       "entity_id": "model_liquidai_lfm2_5_230m_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_liquidai_lfm2_5_2_6b_dspark_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7481,6 +7521,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_unsloth_glm_5_3_flash_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_gpt_oss_120b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -7797,6 +7842,11 @@
     },
     {
       "entity_id": "model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -8221,6 +8271,13 @@
       "score": 1.0
     }
   ],
+  "quarel": [
+    {
+      "entity_id": "dataset_community_datasets_quarel",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "quarries": [
     {
       "entity_id": "alpaca_-4377447009105525261",
@@ -8349,6 +8406,11 @@
     }
   ],
   "quartz": [
+    {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 4.0
+    },
     {
       "entity_id": "alpaca_-1938026016003677910",
       "match_type": "exact",
@@ -10119,6 +10181,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "dataset_deepmind_aqua_rat",
       "match_type": "exact",
       "score": 3.5
@@ -11844,6 +11911,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_salesforce_xlam_function_calling_60k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_shadena_mathnet",
       "match_type": "exact",
       "score": 1.5
@@ -11870,6 +11942,11 @@
     },
     {
       "entity_id": "dataset_tasksource_mmlu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_tensorshield_reddit_dataset_157",
       "match_type": "exact",
       "score": 1.5
     },
@@ -13325,6 +13402,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_google_boolq",
       "match_type": "exact",
       "score": 2.0
@@ -14066,6 +14148,11 @@
     },
     {
       "entity_id": "dataset_ceval_ceval_exam",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_community_datasets_quarel",
       "match_type": "exact",
       "score": 1.0
     },
@@ -17227,6 +17314,20 @@
       "score": 1.0
     }
   ],
+  "quillan": [
+    {
+      "entity_id": "model_crashoverridex_quillan_ronin",
+      "match_type": "exact",
+      "score": 5.0
+    }
+  ],
+  "quillantrainingdata": [
+    {
+      "entity_id": "model_crashoverridex_quillan_ronin",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "quills": [
     {
       "entity_id": "alpaca_-5532866558770848881",
@@ -19709,6 +19810,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_avitotech_avibe",
       "match_type": "exact",
       "score": 3.0
@@ -20270,6 +20376,11 @@
     },
     {
       "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4_v2",
       "match_type": "exact",
       "score": 3.0
     },
@@ -23512,6 +23623,11 @@
       "score": 8.0
     },
     {
+      "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4_v2",
+      "match_type": "exact",
+      "score": 8.0
+    },
+    {
       "entity_id": "model_nvidia_qwen3_6_27b_nvfp4",
       "match_type": "exact",
       "score": 8.0
@@ -24312,6 +24428,11 @@
       "score": 6.5
     },
     {
+      "entity_id": "model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_youssofal_qwen3_6_27b_mtplx_optimized_speed",
       "match_type": "exact",
       "score": 6.5
@@ -24353,6 +24474,11 @@
     },
     {
       "entity_id": "model_alittlehammmer_qwen3_6_35b_a3b_dflash_gguf_llama_cpp",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -24613,6 +24739,11 @@
     },
     {
       "entity_id": "model_marketeam_qwen_marketing",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
+      "entity_id": "model_nineninesix_gepard_1_0",
       "match_type": "exact",
       "score": 4.5
     },
@@ -26163,6 +26294,13 @@
   "qwen3vl": [
     {
       "entity_id": "model_lordneel_agents_a1_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "qwen4": [
+    {
+      "entity_id": "model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     }

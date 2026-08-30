@@ -9,7 +9,7 @@
   "private": false,
   "sha": "847a98a779b1652d65111daf20c972dfcd333605",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for The Cauldron\n\t\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset description\n\t\n\nThe Cauldron is part of the Idefics2 release.\nIt is a massive collection of 50 vision-language datasets (training sets only) that were used for the fine-tuning of the vision-language model Idefics2.\n\n\t\n\t\t\n\t\n\t\n\t\tLoad the dataset\n\t\n\nTo load the dataset, install the library datasets with pip install datasets. Then,\nfrom datasets import load_dataset\nds = load_dataset(\"HuggingFaceM4/the_cauldron\", \"ai2d\")\n\nto download… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceM4/the_cauldron.",
-  "downloads": 237251,
+  "downloads": 232638,
   "tags": [
     "size_categories:1M<n<10M",
     "format:parquet",

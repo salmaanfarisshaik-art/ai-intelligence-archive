@@ -5415,6 +5415,13 @@
       "score": 1.0
     }
   ],
+  "3864": [
+    {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "388": [
     {
       "entity_id": "alpaca_-1342552321452173557",
@@ -5577,6 +5584,11 @@
     },
     {
       "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_nvidia_qwen3_5_397b_a17b_nvfp4_v2",
       "match_type": "exact",
       "score": 5.0
     },
@@ -5867,6 +5879,11 @@
       "entity_id": "model_weiboai_vibethinker_3b",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "model_crashoverridex_quillan_ronin",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "model_kenpath_svara_tts_v1",
@@ -6421,6 +6438,11 @@
     },
     {
       "entity_id": "dataset_flare_medfm_flare_task1_pancancerrecist_to_3d",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_fomo_mri_fomo260k",
       "match_type": "exact",
       "score": 4.0
     },

@@ -12552,6 +12552,11 @@
   ],
   "ids": [
     {
+      "entity_id": "dataset_tensorshield_reddit_dataset_157",
+      "match_type": "exact",
+      "score": 13.5
+    },
+    {
       "entity_id": "dataset_derek_thomas_scienceqa",
       "match_type": "exact",
       "score": 7.5
@@ -12618,6 +12623,11 @@
     },
     {
       "entity_id": "dataset_allenai_qasc",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_allenai_quartz",
       "match_type": "exact",
       "score": 3.0
     },
@@ -21030,6 +21040,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "dataset_fomo_mri_fomo260k",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "dataset_forithmus_mr_rate",
       "match_type": "exact",
       "score": 4.5
@@ -23360,6 +23375,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_icdn12_content_20260818d6cb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_icdn13_content_202604254caa",
       "match_type": "exact",
       "score": 1.5
@@ -24221,6 +24241,11 @@
     },
     {
       "entity_id": "dataset_jinaai_documentation_images",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_jitendra55566_my_storage",
       "match_type": "exact",
       "score": 1.5
     },
@@ -27094,6 +27119,11 @@
     },
     {
       "entity_id": "dataset_icdn12_content_20260808f69e",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_icdn12_content_20260818d6cb",
       "match_type": "exact",
       "score": 1.5
     },
@@ -31042,6 +31072,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_fomo_mri_fomo260k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_novel_biomedai_medical_segmentation_decathlon",
       "match_type": "exact",
       "score": 1.0
@@ -31113,6 +31148,11 @@
     },
     {
       "entity_id": "model_angelslim_hy3_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -38860,6 +38900,11 @@
     },
     {
       "entity_id": "alpaca_-6707140815380227205",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 1.0
     }
@@ -102316,6 +102361,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mu_nlpc_calc_mawps",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mueller91_replaydf",
       "match_type": "exact",
       "score": 1.0
@@ -102602,6 +102652,11 @@
     },
     {
       "entity_id": "dataset_salesforce_lotsa_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_salesforce_xlam_function_calling_60k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -112715,6 +112770,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_fomo_mri_fomo260k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_heesup_vlm_plant_sim",
       "match_type": "exact",
       "score": 1.0
@@ -113105,6 +113165,11 @@
     },
     {
       "entity_id": "alpaca_8931490383295732113",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_fomo_mri_fomo260k",
       "match_type": "exact",
       "score": 2.0
     },
@@ -114834,6 +114899,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_community_datasets_quarel",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_databricks_databricks_dolly_15k",
       "match_type": "exact",
       "score": 1.0
@@ -115194,6 +115264,13 @@
       "score": 1.0
     }
   ],
+  "incluing": [
+    {
+      "entity_id": "dataset_sparkaudio_voxbox",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "inclusion": [
     {
       "entity_id": "alpaca_323986169824955054",
@@ -115294,6 +115371,11 @@
     },
     {
       "entity_id": "model_atomicchat_ling_3_0_flash_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_bloomer010_ling_3_0_flash_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -140378,7 +140460,17 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_community_datasets_quarel",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_ehovy_race",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 2.0
     },
@@ -142889,6 +142981,11 @@
     },
     {
       "entity_id": "dataset_salesforce_lotsa_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tensorshield_reddit_dataset_157",
       "match_type": "exact",
       "score": 1.0
     },
@@ -157338,6 +157435,11 @@
     },
     {
       "entity_id": "dataset_bytedance_seed_multi_swe_bench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_community_datasets_quarel",
       "match_type": "exact",
       "score": 1.0
     },
@@ -275402,6 +275504,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mu_nlpc_calc_mawps",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_open_web_math_open_web_math",
       "match_type": "exact",
       "score": 1.0
@@ -295489,6 +295596,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_s2_naip",
       "match_type": "exact",
       "score": 1.0
@@ -295550,6 +295662,11 @@
     },
     {
       "entity_id": "dataset_facebook_wiki_dpr",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 1.0
     },
@@ -314704,6 +314821,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_allenai_quartz",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_anisoleai_fineweb_tokenized",
       "match_type": "exact",
       "score": 4.0
@@ -314740,6 +314862,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_dcvlm_balanced_200b",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_mu_nlpc_calc_mawps",
       "match_type": "exact",
       "score": 4.0
     },
@@ -322080,6 +322207,11 @@
     },
     {
       "entity_id": "dataset_facebook_anli",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 3.0
     },
@@ -333015,6 +333147,11 @@
     },
     {
       "entity_id": "dataset_tasksource_mmlu",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_tensorshield_reddit_dataset_157",
       "match_type": "exact",
       "score": 2.0
     },
@@ -353504,6 +353641,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_community_datasets_quarel",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_cornell_movie_review_data_rotten_tomatoes",
       "match_type": "exact",
       "score": 1.0
@@ -353635,6 +353777,11 @@
     },
     {
       "entity_id": "dataset_flashinfer_ai_flashinfer_trace",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_fomo_mri_fomo260k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -354519,6 +354666,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_salesforce_xlam_function_calling_60k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_sandboxaq_sair",
       "match_type": "exact",
       "score": 1.0
@@ -354605,6 +354757,11 @@
     },
     {
       "entity_id": "dataset_skylenage_ai_hle_verified",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_sparkaudio_voxbox",
       "match_type": "exact",
       "score": 1.0
     },
@@ -356090,6 +356247,11 @@
     },
     {
       "entity_id": "alpaca_1710954814186365180",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 1.0
     }
@@ -370993,6 +371155,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_dcvlm_baseline_200b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_mu_nlpc_calc_mawps",
       "match_type": "exact",
       "score": 2.0
     },
@@ -398106,6 +398273,11 @@
     },
     {
       "entity_id": "dataset_programbench_programbench_tests",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_salesforce_xlam_function_calling_60k",
       "match_type": "exact",
       "score": 1.0
     },

@@ -416,6 +416,10 @@
 - **ID**: model_bartowski_gemma_2_2b_it_gguf
 - **Source**: 
 
+## bartowski/Hermes-3-Llama-3.1-70B-GGUF
+- **ID**: model_bartowski_hermes_3_llama_3_1_70b_gguf
+- **Source**: 
+
 ## bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF
 - **ID**: model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf
 - **Source**: 
@@ -1308,6 +1312,10 @@
 - **ID**: model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4
 - **Source**: 
 
+## explosion-testing/llama2-kv-sharing
+- **ID**: model_explosion_testing_llama2_kv_sharing
+- **Source**: 
+
 ## facebook/incoder-1B
 - **ID**: model_facebook_incoder_1b
 - **Source**: 
@@ -1558,6 +1566,10 @@
 
 ## gratefulasi/lumeleto
 - **ID**: model_gratefulasi_lumeleto
+- **Source**: 
+
+## GritLM/GritLM-7B
+- **ID**: model_gritlm_gritlm_7b
 - **Source**: 
 
 ## GSAI-ML/LLaDA-1.5
@@ -4822,6 +4834,10 @@
 
 ## RedHatAI/Meta-Llama-3-8B-Instruct-FP8-KV
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
+- **Source**: 
+
+## RedHatAI/phi-4-FP8-dynamic
+- **ID**: model_redhatai_phi_4_fp8_dynamic
 - **Source**: 
 
 ## RedHatAI/phi-4-quantized.w4a16
