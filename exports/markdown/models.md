@@ -544,6 +544,10 @@
 - **ID**: model_bartowski_qwen_qwen3_0_6b_gguf
 - **Source**: 
 
+## bartowski/Qwen_Qwen3-14B-GGUF
+- **ID**: model_bartowski_qwen_qwen3_14b_gguf
+- **Source**: 
+
 ## bartowski/Qwen_Qwen3-8B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_8b_gguf
 - **Source**: 
@@ -3292,6 +3296,10 @@
 - **ID**: model_nm_testing_tinyllama_oneshot_w8w8_test_static_shape_change
 - **Source**: 
 
+## Noobito45/Qwen3.8-9B-heretic-uncensored-NVFP4-GGUF
+- **ID**: model_noobito45_qwen3_8_9b_heretic_uncensored_nvfp4_gguf
+- **Source**: 
+
 ## nota-ai/Solar-Open2-250B-Nota-NVFP4
 - **ID**: model_nota_ai_solar_open2_250b_nota_nvfp4
 - **Source**: 
@@ -5220,6 +5228,10 @@
 - **ID**: model_tencent_hunyuanocr
 - **Source**: 
 
+## tencent/Hy3-FP8
+- **ID**: model_tencent_hy3_fp8
+- **Source**: 
+
 ## tencent/Hy3-preview
 - **ID**: model_tencent_hy3_preview
 - **Source**: 
@@ -5662,6 +5674,10 @@
 
 ## unsloth/GLM-5.3-Flash-GGUF
 - **ID**: model_unsloth_glm_5_3_flash_gguf
+- **Source**: 
+
+## unsloth/GLM-5.3-GGUF
+- **ID**: model_unsloth_glm_5_3_gguf
 - **Source**: 
 
 ## unsloth/gpt-oss-120b

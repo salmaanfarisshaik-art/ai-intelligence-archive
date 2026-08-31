@@ -11256,7 +11256,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-08-31T10:35:01.920026+00:00",
+  "generated_at": "2026-08-31T17:55:47.834730+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -126857,6 +126857,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_ai_mo_numinamath_1_5",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ai_mo_numinamath_cot",
       "label": ""
     },
@@ -127153,6 +127158,11 @@
     {
       "category": "datasets",
       "id": "dataset_anisoleai_fineweb_tokenized",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_annazhang_waymo_open_dataset_v_1_4_3",
       "label": ""
     },
     {
@@ -129762,6 +129772,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn10_content_202608186dc6",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn11_content_2026042565c5",
       "label": ""
     },
@@ -130408,6 +130423,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn13_content_202608083f6e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn13_content_202608182b5c",
       "label": ""
     },
     {
@@ -133288,6 +133308,11 @@
     {
       "category": "datasets",
       "id": "dataset_openclimatefix_dwd_icon_global",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_openclimatefix_met_office_uk_deterministic_solar",
       "label": ""
     },
     {
@@ -147692,6 +147717,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_qwen_qwen3_14b_gguf",
+      "label": "bartowski/Qwen_Qwen3-14B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_qwen_qwen3_8b_gguf",
       "label": "bartowski/Qwen_Qwen3-8B-GGUF"
     },
@@ -151127,6 +151157,11 @@
     },
     {
       "category": "models",
+      "id": "model_noobito45_qwen3_8_9b_heretic_uncensored_nvfp4_gguf",
+      "label": "Noobito45/Qwen3.8-9B-heretic-uncensored-NVFP4-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
       "label": "nota-ai/Solar-Open2-250B-Nota-NVFP4"
     },
@@ -153537,6 +153572,11 @@
     },
     {
       "category": "models",
+      "id": "model_tencent_hy3_fp8",
+      "label": "tencent/Hy3-FP8"
+    },
+    {
+      "category": "models",
       "id": "model_tencent_hy3_preview",
       "label": "tencent/Hy3-preview"
     },
@@ -154089,6 +154129,11 @@
       "category": "models",
       "id": "model_unsloth_glm_5_3_flash_gguf",
       "label": "unsloth/GLM-5.3-Flash-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_glm_5_3_gguf",
+      "label": "unsloth/GLM-5.3-GGUF"
     },
     {
       "category": "models",
@@ -451893,5 +451938,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 2251,
-  "total_nodes": 88126
+  "total_nodes": 88135
 }

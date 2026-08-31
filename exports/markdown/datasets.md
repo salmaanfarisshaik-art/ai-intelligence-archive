@@ -105,6 +105,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ai_mo_numinamath_1_5
+- **Source**: 
+
+## 
 - **ID**: dataset_ai_mo_numinamath_cot
 - **Source**: 
 
@@ -342,6 +346,10 @@
 
 ## 
 - **ID**: dataset_anisoleai_fineweb_tokenized
+- **Source**: 
+
+## 
+- **ID**: dataset_annazhang_waymo_open_dataset_v_1_4_3
 - **Source**: 
 
 ## 
@@ -2429,6 +2437,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn10_content_202608186dc6
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_2026042565c5
 - **Source**: 
 
@@ -2946,6 +2958,10 @@
 
 ## 
 - **ID**: dataset_icdn13_content_202608083f6e
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_202608182b5c
 - **Source**: 
 
 ## 
@@ -5250,6 +5266,10 @@
 
 ## 
 - **ID**: dataset_openclimatefix_dwd_icon_global
+- **Source**: 
+
+## 
+- **ID**: dataset_openclimatefix_met_office_uk_deterministic_solar
 - **Source**: 
 
 ## 

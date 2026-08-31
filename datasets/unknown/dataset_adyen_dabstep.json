@@ -4,10 +4,10 @@
   "author": "adyen",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-30T08:35:42.000Z",
+  "lastModified": "2026-08-31T11:07:01.000Z",
   "likes": 54,
   "private": false,
-  "sha": "a1a3187c3f52e0846886a62814ed5adfcbbcc48e",
+  "sha": "f6980beb8908f6dbb5056924f020fa49a0bf946b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tData Agent Benchmark for Multi-step Reasoning (DABstep) Dataset\n\t\n\nThis repository hosts a HF Dataset the supports the benchmark and leaderboard. \nFor the main entrypoint to the benchmark, see the leaderboard here: \nhttps://huggingface.co/spaces/adyen/DABstep \nThis Dataset has 3 splits:\n\ntasks\nsubmissions\ntask_scores\n\nUsers of the benchmark would read from the tasks split to run the baseline. The other splits are used to support the leaderboard.\nThe datasets are in the data/context… See the full description on the dataset page: https://huggingface.co/datasets/adyen/DABstep.",
   "downloads": 99876,
   "tags": [
