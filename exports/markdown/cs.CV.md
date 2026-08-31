@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
 
+## PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection
+- **ID**: arxiv_2502.12119v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.12119v5](http://arxiv.org/abs/2502.12119v5)
+
 ## Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Sign Language and Fingerspelling Recognition
 - **ID**: arxiv_2503.16855v3
 - **Source**: ArXiv
@@ -94,6 +99,11 @@
 - **ID**: arxiv_2506.01274v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.01274v2](http://arxiv.org/abs/2506.01274v2)
+
+## Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks
+- **ID**: arxiv_2506.07188v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.07188v2](http://arxiv.org/abs/2506.07188v2)
 
 ## CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation
 - **ID**: arxiv_2506.10890v2
@@ -219,6 +229,11 @@
 - **ID**: arxiv_2510.16598v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.16598v2](http://arxiv.org/abs/2510.16598v2)
+
+## Riverbank Erosion Analysis in Bangladesh Using Spatiotemporal Segmentation
+- **ID**: arxiv_2510.17198v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.17198v2](http://arxiv.org/abs/2510.17198v2)
 
 ## Principled RL for Flow Matching Emerges from the Chunk-level Policy Optimization
 - **ID**: arxiv_2510.21583v3
@@ -424,6 +439,11 @@
 - **ID**: arxiv_2603.15553v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15553v2](http://arxiv.org/abs/2603.15553v2)
+
+## 3D MRI-Based Alzheimer's Disease Classification Using Multi-Modal 3D CNN with Leakage-Aware Subject-Level Evaluation
+- **ID**: arxiv_2603.17304v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.17304v2](http://arxiv.org/abs/2603.17304v2)
 
 ## CVT-Bench: Probing Spatial-State Integrity through Counterfactual Viewpoint Transformations
 - **ID**: arxiv_2603.21114v2
@@ -3050,6 +3070,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23730v2](http://arxiv.org/abs/2608.23730v2)
 
+## SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling
+- **ID**: arxiv_2608.24334v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24334v2](http://arxiv.org/abs/2608.24334v2)
+
 ## Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery
 - **ID**: arxiv_2608.24756v1
 - **Source**: ArXiv
@@ -3140,6 +3165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26105v1](http://arxiv.org/abs/2608.26105v1)
 
+## SpatialCrafter: Single Image World Modeling with Generative 3D Proxies
+- **ID**: arxiv_2608.27073v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27073v2](http://arxiv.org/abs/2608.27073v2)
+
 ## R2M-Bench: Evaluating Revisit Memory via Relative Consistency in Interactive Video World Models
 - **ID**: arxiv_2608.27328v1
 - **Source**: ArXiv
@@ -3149,6 +3179,11 @@
 - **ID**: arxiv_2608.27345v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27345v1](http://arxiv.org/abs/2608.27345v1)
+
+## PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+- **ID**: arxiv_2608.27345v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27345v2](http://arxiv.org/abs/2608.27345v2)
 
 ## KnockGS:interaction-Grounded Calibrationof Physical Gaussian Representations
 - **ID**: arxiv_2608.27365v1
@@ -3179,4 +3214,39 @@
 - **ID**: arxiv_2608.27456v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27456v1](http://arxiv.org/abs/2608.27456v1)
+
+## LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation
+- **ID**: arxiv_2608.28460v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28460v1](http://arxiv.org/abs/2608.28460v1)
+
+## Anatomy-Aware Promptable Segmentation with Online Interactive Training for AUTOPET V
+- **ID**: arxiv_2608.28461v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28461v1](http://arxiv.org/abs/2608.28461v1)
+
+## Learning the Target Priors Before Image Translation: A Decoupled Training Paradigm for Cross-Modal Image Translation in Remote Sensing
+- **ID**: arxiv_2608.28517v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28517v1](http://arxiv.org/abs/2608.28517v1)
+
+## Texture Image Classification Using DWT AlexNet Feature Fusion and Deep Neural Networks
+- **ID**: arxiv_2608.28524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28524v1](http://arxiv.org/abs/2608.28524v1)
+
+## Video Generative Models as Geometry Learner
+- **ID**: arxiv_2608.28549v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28549v1](http://arxiv.org/abs/2608.28549v1)
+
+## GeBDA: Building Damage Assessment as Text-Based Sequence Prediction
+- **ID**: arxiv_2608.28567v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28567v1](http://arxiv.org/abs/2608.28567v1)
+
+## SignRR: Retrieve and Refine Real Motion for Sign Language Production
+- **ID**: arxiv_2608.28568v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28568v1](http://arxiv.org/abs/2608.28568v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.28515v1",
+  "schema_version": "1.0",
+  "name": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.28515v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "math.NA",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.28515v1",
+    "updated": "2026-08-28T16:50:57Z",
+    "published": "2026-08-28T16:50:57Z",
+    "title": "Conformal Uncertainty Quantification Guarantees for Neural Operators",
+    "summary": "Neural operators provide fast surrogate models for approximating operators between function spaces, but their predictions often lack uncertainty quantification. We develop a split conformal framework to guarantee that a calibrated pointwise band around the neural operator output contains the true solution on at least a $1-γ$ fraction of the evaluation domain, with probability at least $1-α$ over test and calibration inputs, where $α,γ\\in(0,1)$. Our method reduces a normalized residual field to its spatial $(1-γ)$-quantile and computes a scaling factor using a held-out calibration dataset. We prove marginal coverage guarantees for measurable residual fields defined on arbitrary probability spaces, covering both continuum domains and fixed discretizations. Under mild assumptions on the data distribution, we show that the coverage conditional on the calibration set follows a Beta distribution, which we verify with numerical experiments on Darcy flow and Navier--Stokes equations, where our calibration yields bands consistently tighter than existing corrections while retaining the target coverage.",
+    "primary_category": "math.NA"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:50:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.28515v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

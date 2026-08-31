@@ -26,4 +26,5 @@
 | [TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval](http://arxiv.org/abs/2607.28498v1) | ArXiv |  | 1 |
 | [Towards a Theoretical Understanding of Two Tower Recommendation Models](http://arxiv.org/abs/2403.00802v2) | ArXiv |  | 1 |
 | [UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation](http://arxiv.org/abs/2608.16797v1) | ArXiv |  | 1 |
+| [When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory](http://arxiv.org/abs/2608.25553v3) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

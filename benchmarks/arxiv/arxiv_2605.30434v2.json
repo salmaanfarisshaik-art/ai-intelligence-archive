@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.30434v2",
+  "schema_version": "1.0",
+  "name": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.30434v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.30434v2",
+    "updated": "2026-08-28T17:13:12Z",
+    "published": "2026-05-28T18:00:20Z",
+    "title": "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis",
+    "summary": "Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:13:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.30434v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

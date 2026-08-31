@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.17252v2",
+  "schema_version": "1.0",
+  "name": "Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.17252v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.17252v2",
+    "updated": "2026-08-28T16:34:19Z",
+    "published": "2025-10-20T07:40:46Z",
+    "title": "Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines",
+    "summary": "News media can influence readers not only through the events they report but also through the emotional tone used to present them. This issue is especially important in digital news environments, where headlines often shape first impressions before readers open the full article. This study examines affective framing in Bengali digital journalism through corpus level emotion analysis of news headlines. Using zero shot inference with Gemma 3 4B, we analyzed 300,000 Bengali news headlines to estimate the dominant emotion and overall affective tone of each headline. The results show that negative emotion labels, particularly anger, sadness, disappointment, and fear, appear frequently in the analyzed corpus. A small pilot validation on 200 manually reviewed headlines suggests that the model can provide useful emotion estimates, although the results should be interpreted as computational estimates rather than a complete benchmark. Based on these findings, we propose a conceptual bias sensitive news interface that visualizes emotional cues across news sources and helps readers notice affective framing patterns in daily news.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:34:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.17252v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

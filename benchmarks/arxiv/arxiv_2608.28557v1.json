@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.28557v1",
+  "schema_version": "1.0",
+  "name": "Blog: Survey of Optimizers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.28557v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.28557v1",
+    "updated": "2026-08-28T17:35:11Z",
+    "published": "2026-08-28T17:35:11Z",
+    "title": "Blog: Survey of Optimizers",
+    "summary": "Neural-network optimization in 2025-2026 is no longer well described as a succession of new Adam variants. The design space has expanded from coordinates to matrices and layers, from fixed training horizons to policies over time, and from mathematical update rules to state representations that must survive sharding and low-precision computation. This survey organizes recent optimizers and training optimization methods along four largely independent axes: temporal estimation, update geometry, horizon management, and representation and systems. It connects the spectral normalization of Muon, the historical matrix statistics of Shampoo and SOAP, adaptive and hybrid matrix methods, memory-efficient optimizers, schedule-free training, small-batch corrections, and quantized optimizer states. The central empirical conclusion is deliberately non-triumphal: matrix-aware methods represent a genuine advance, but there is no context-independent replacement for AdamW. Rankings change with model scale, data-to-parameter ratio, batch size, schedule, parameter partition, tuning budget, and whether the target metric is tokens, FLOPs, wall-clock time, or memory. The practical consequence is a compositional view of optimizer design and a stricter protocol for evaluating optimizer claims.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:35:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.28557v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

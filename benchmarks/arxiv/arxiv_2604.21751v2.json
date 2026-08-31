@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2604.21751v2",
+  "schema_version": "1.0",
+  "name": "Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.21751v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.21751v2",
+    "updated": "2026-08-28T16:21:24Z",
+    "published": "2026-04-23T15:00:05Z",
+    "title": "Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs",
+    "summary": "LLMs have limitations when it comes to cultural coverage and competence, and in some cases, show specific cultural biases. Although prior studies have examined the cultural capabilities of LLMs, none have specifically investigated their regional preferences in generic culture-related questions. In this work, we propose a new dataset based on a comprehensive taxonomy of Culture-Related Open Questions (CROQ), with questions available in 24 languages. We evaluate LLMs by prompting them to answer questions from CROQ and provide a sample location. The results show that, contrary to previous cultural bias work, LLMs show a clear tendency towards countries such as Japan in their answers. Moreover, our results show that when prompting in languages such as English or other high-resource ones, LLMs tend to provide more diverse outputs. Low-resource languages, on the other hand, show more inclinations towards answering questions highlighting countries for which the input language is an official language. Finally, we also investigate at which point of LLM training this cultural bias emerges, with our results suggesting that the first clear signs appear after supervised fine-tuning, and not during pre-training. Dataset available at https://huggingface.co/datasets/HiTZ/CROQ",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:21:24Z",
+  "links": {
+    "related_models": [
+      "datasets/HiTZ"
+    ],
+    "related_papers": [
+      "2604.21751v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

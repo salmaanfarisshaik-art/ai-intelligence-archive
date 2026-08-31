@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.22580v2](http://arxiv.org/abs/2507.22580v2)
 
+## ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents
+- **ID**: arxiv_2602.04935v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04935v4](http://arxiv.org/abs/2602.04935v4)
+
 ## Terminal Agents Suffice for Enterprise Automation
 - **ID**: arxiv_2604.00073v3
 - **Source**: ArXiv
@@ -184,4 +189,9 @@
 - **ID**: arxiv_2608.27449v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27449v1](http://arxiv.org/abs/2608.27449v1)
+
+## On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces
+- **ID**: arxiv_2608.28497v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28497v1](http://arxiv.org/abs/2608.28497v1)
 

@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21243v1](http://arxiv.org/abs/2608.21243v1)
 
+## When Stale Constraints Go Unchecked: Budgeted Verification Failures in Inherited Agent Memory
+- **ID**: arxiv_2608.25553v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25553v3](http://arxiv.org/abs/2608.25553v3)
+
 ## PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans
 - **ID**: arxiv_2608.26091v1
 - **Source**: ArXiv

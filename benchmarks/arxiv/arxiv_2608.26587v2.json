@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26587v2",
+  "schema_version": "1.0",
+  "name": "Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26587v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26587v2",
+    "updated": "2026-08-28T16:47:31Z",
+    "published": "2026-08-27T03:57:52Z",
+    "title": "Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with Large Language Models",
+    "summary": "Biomedical knowledge graphs (KGs) offer structured medical knowledge that can ground large language model (LLM) reasoning in clinical diagnosis application, yet how KG signal should be integrated into LLMs remains an open question. We present a systematic study spanning five KG task formulations, three training paradigms, two KGs, and three base LLMs. At the task level, all paradigms improve over the non-finetuned baseline, but methods with comparable in-domain accuracy show substantially different knowledge transfer behavior. We introduce Gradient Intervention Density (GID) and Gradient Distortion (GD) to measure how broadly an optimizer modifies the pretrained model. GID and GD together reveal a clear divide: KG-judgment training under KL regularization produces sparse, localized updates (a regime we term as surgical alignment), while task-specific SFT produces dense ones. A controlled ablation shows that the objective and KL contribute to sparsity independently, and the paradigms that produce sparse updates also improve reasoning quality, even when their in-domain accuracy is lower than task-specific SFT. Assessing KG-LLM integration thus requires complementing accuracy with optimization-geometry diagnostics. Our implementation can be found at https://github.com/LARK-NLP-Lab/Surgical-Alignment.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:47:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26587v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

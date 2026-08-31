@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.04448v2](http://arxiv.org/abs/2603.04448v2)
 
+## Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum
+- **ID**: arxiv_2603.05614v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.05614v2](http://arxiv.org/abs/2603.05614v2)
+
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
@@ -514,6 +519,11 @@
 - **ID**: arxiv_2606.25176v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.25176v3](http://arxiv.org/abs/2606.25176v3)
+
+## Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners
+- **ID**: arxiv_2606.29150v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29150v2](http://arxiv.org/abs/2606.29150v2)
 
 ## Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents
 - **ID**: arxiv_2606.29495v2
@@ -1979,4 +1989,34 @@
 - **ID**: arxiv_2608.27454v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27454v1](http://arxiv.org/abs/2608.27454v1)
+
+## COVER: Identifiable Evaluation of Coalition Routing
+- **ID**: arxiv_2608.28475v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28475v1](http://arxiv.org/abs/2608.28475v1)
+
+## AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction
+- **ID**: arxiv_2608.28491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28491v1](http://arxiv.org/abs/2608.28491v1)
+
+## Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration
+- **ID**: arxiv_2608.28511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28511v1](http://arxiv.org/abs/2608.28511v1)
+
+## When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI
+- **ID**: arxiv_2608.28518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28518v1](http://arxiv.org/abs/2608.28518v1)
+
+## InstructMesh: Selective Refinement of Generative 3D Models for Fabrication
+- **ID**: arxiv_2608.28534v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28534v1](http://arxiv.org/abs/2608.28534v1)
+
+## Logos: An Agent Harness on a Cross-Process Bus
+- **ID**: arxiv_2608.28553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28553v1](http://arxiv.org/abs/2608.28553v1)
 

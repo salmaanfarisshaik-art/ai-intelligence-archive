@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27143v2](http://arxiv.org/abs/2604.27143v2)
 
+## SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces
+- **ID**: arxiv_2605.12015v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12015v3](http://arxiv.org/abs/2605.12015v3)
+
 ## Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests
 - **ID**: arxiv_2605.28734v2
 - **Source**: ArXiv
@@ -229,4 +234,9 @@
 - **ID**: arxiv_2608.27439v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27439v1](http://arxiv.org/abs/2608.27439v1)
+
+## LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment
+- **ID**: arxiv_2608.28490v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28490v1](http://arxiv.org/abs/2608.28490v1)
 

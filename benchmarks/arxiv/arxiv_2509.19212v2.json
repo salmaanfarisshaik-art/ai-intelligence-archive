@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.19212v2",
+  "schema_version": "1.0",
+  "name": "Steering Multimodal Large Language Models Decoding for Context-Aware Safety",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.19212v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.19212v2",
+    "updated": "2026-08-28T16:48:24Z",
+    "published": "2025-09-23T16:32:25Z",
+    "title": "Steering Multimodal Large Language Models Decoding for Context-Aware Safety",
+    "summary": "Multimodal Large Language Models (MLLMs) are increasingly deployed in real-world applications, yet their ability to make context-aware safety decisions remains limited. Existing methods often fail to balance oversensitivity (unjustified refusals of benign queries) and undersensitivity (missed detection of visually grounded risks), leaving a persistent gap in safety alignment. To address this issue, we introduce Safety-aware Contrastive Decoding (SafeCoDe), a lightweight and model-agnostic decoding framework that dynamically adjusts token generation based on multimodal context. SafeCoDe operates in two stages: (1) a contrastive decoding mechanism that highlights tokens sensitive to visual context by contrasting real and Gaussian-noised images, and (2) a global-aware token modulation strategy that integrates scene-level reasoning with token-level adjustment to adapt refusals according to the predicted safety verdict. Extensive experiments across diverse MLLM architectures and safety benchmarks, covering undersensitivity, oversensitivity, and general safety evaluations, show that SafeCoDe consistently improves context-sensitive refusal behaviors while preserving model helpfulness.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:48:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.19212v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.18025v2",
+  "schema_version": "1.0",
+  "name": "How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.18025v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.18025v2",
+    "updated": "2026-08-28T17:46:17Z",
+    "published": "2026-08-18T17:20:12Z",
+    "title": "How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness",
+    "summary": "GPT-style models have achieved remarkable success with finite vocabularies of reusable tokens, making the token interface a central component of modern sequence modeling. Symbolic music appears naturally compatible with this paradigm: it consists of discrete note events and recurring structures such as chords, motifs, and phrases. However, when tokenization moves beyond language, the interface must be specified for each domain. Existing work offers many effective designs, but no unified criterion for deciding what tokenization should represent and how far it should go. Using predictive codelength as a common criterion, we formulate the Effectiveness--Losslessness Framework to define where tokenization should begin and where it should end. The Fact--Token Boundary marks where observation-determined structure should enter the token interface, through operations such as coordinate construction. Within this interface, the resulting carrier may be reversibly recoded without changing the represented facts. The Token--State Boundary marks where tokenization should stop: relations that depend on context should remain for model-state computation rather than being fixed in advance by the tokenizer. We validate the framework through controlled multi-seed symbolic-music experiments, with an independent-corpus replication of the temporal intervention. Making musical time explicit consistently reduces predictive code and also improves pitch and duration prediction, while tonal-frame canonicalization and pitch factorization provide further gains. Fixed circle-of-fifths pitch coordinates instead increase predictive code, suggesting that imposing a fixed pitch relation before context can burden prediction. Reversible BPE substantially shortens the carrier but increases predictive codelength in every seed, showing that carrier compaction alone does not guarantee predictive gain.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:46:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.18025v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

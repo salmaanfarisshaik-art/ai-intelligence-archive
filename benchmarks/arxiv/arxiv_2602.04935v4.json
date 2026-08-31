@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.04935v4",
+  "schema_version": "1.0",
+  "name": "ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.04935v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.04935v4",
+    "updated": "2026-08-28T15:50:05Z",
+    "published": "2026-02-04T14:20:02Z",
+    "title": "ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents",
+    "summary": "Adapting LLM agents to domain-specific tool calling remains notably brittle under evolving interfaces. Prompt and schema engineering is easy to deploy but often fragile under distribution shift and strict parsers, while continual parameter-efficient fine-tuning improves reliability at the cost of training, maintenance, and potential forgetting. We identify a critical Lazy Agent failure mode where tool necessity is nearly perfectly decodable from mid-layer activations, yet the model remains conservative in entering tool mode, revealing a representation-behavior gap. We propose Activation Steering Adapter (ASA), a training-free, inference-time controller that performs a single-shot mid-layer intervention and targets tool domains via a router-conditioned mixture of steering vectors with a probe-guided signed gate to amplify true intent while suppressing spurious triggers. On MTU-Bench with Qwen2.5-1.5B, ASA improves strict tool-use F1 from 0.18 to 0.50 while reducing the false positive rate from 0.15 to 0.05, using only about 20KB of portable assets and no weight updates.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T15:50:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.04935v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

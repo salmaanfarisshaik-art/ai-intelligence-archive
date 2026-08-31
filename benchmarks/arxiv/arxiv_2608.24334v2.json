@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24334v2",
+  "schema_version": "1.0",
+  "name": "SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24334v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24334v2",
+    "updated": "2026-08-28T17:17:03Z",
+    "published": "2026-08-25T09:58:20Z",
+    "title": "SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling",
+    "summary": "Discrete motion representations have substantially advanced autoregressive text-to-motion generation. However, most motion tokenizers are optimized for reconstruction and do not explicitly allocate capacity according to semantic role. Action-level meaning and fine-grained kinematic detail must therefore be encoded through the same reconstruction-driven hierarchy. We introduce SeMoCo, a semantic-first motion codec, together with a dual-axis motion generator for language-conditioned motion generation. Each motion token contains one semantic token and a residual sequence of kinematic tokens. The generator models semantic progression across time and autoregressively refines the residual entries. We also construct $Ω$-MotionVerse, a large-scale, multi-source human-motion dataset unified under the SOMA representation. Across the reported comparisons, SeMoCo achieves the best reconstruction accuracy among the compared codecs, while strong text-to-motion results demonstrate the effectiveness of its motion tokens for downstream generation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:17:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24334v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

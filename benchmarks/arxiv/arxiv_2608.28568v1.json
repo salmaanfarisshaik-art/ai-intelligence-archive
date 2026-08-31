@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.28568v1",
+  "schema_version": "1.0",
+  "name": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.28568v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.28568v1",
+    "updated": "2026-08-28T17:45:14Z",
+    "published": "2026-08-28T17:45:14Z",
+    "title": "SignRR: Retrieve and Refine Real Motion for Sign Language Production",
+    "summary": "Sign language production (SLP) aims to generate continuous signing motion from spoken language, often through gloss-to-pose generation. Prior work mainly follows two paradigms. Generative models synthesize motion from a learned prior or from noise, without reference to an observed signing instance, making rare hand configurations and signer-specific articulation difficult to preserve. Retrieval-based methods reuse real, well-articulated motion segments, but concatenating segments from different signers and co-articulation contexts can introduce rhythm and style inconsistencies across the full sequence, not only at segment boundaries. These limitations suggest a complementary solution: use retrieval to provide realistic articulation, and use learned refinement to impose the global coherence that retrieval alone lacks. We therefore propose retrieve-and-refine, a paradigm that starts from real retrieved motion and refines it into a globally coherent signing sequence rather than generating motion from scratch. Our framework, SignRR, initializes motion from a dictionary of real sign segments and refines the full sequence with a part-aware Residual VQ-VAE, where residual quantization preserves fine hand articulation and temporal length differences are handled in the latent space. Experiments on PHOENIX14T and CSL-Daily show that SignRR achieves state-of-the-art back-translation performance while maintaining competitive pose quality.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:45:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.28568v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.05614v2",
+  "schema_version": "1.0",
+  "name": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.05614v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.05614v2",
+    "updated": "2026-08-28T16:32:07Z",
+    "published": "2026-03-05T19:14:54Z",
+    "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
+    "summary": "Real-time AI services run across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage pipelines, and compete for shared resources under governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs of compute stages, is a primary determinant of whether decentralised, price-based resource allocation works reliably at scale. When dependency graphs are hierarchical (tree or series-parallel), prices converge to stable equilibria, optimal allocations are computed efficiently, and under appropriate mechanism design agents have no incentive to misreport their valuations within each decision epoch; when dependencies are more complex, prices oscillate and allocation quality degrades. Our anchor contribution is a hybrid architecture in which cross-domain integrators encapsulate complex sub-graphs into slices with a simpler interface, carrying a feasibility-and-DSIC guarantee and a price-stability property of the integrator's price-discovery dynamics. An ablation study across six experiments (1,590 runs, 10 seeds each), with a strategic-bidding test of incentive compatibility and a measured agentic workload, confirms that (i) topology is a first-order determinant of price stability and scalability, (ii) in the contended regime the integrator's EMA-smoothed slice posting robustly reduces agent-facing price volatility (median ~89%) and mitigates governance-induced volatility, (iii) governance constraints create quantifiable efficiency-compliance trade-offs depending on topology and load, and (iv) under truthful bidding the market matches a centralised value-greedy baseline, adding modest welfare under contention. Systems whose pipelines form hierarchical DAGs can thus achieve centralised-quality coordination through decentralised pricing without a single controlling authority.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:32:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.05614v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

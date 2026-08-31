@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.10038v2](http://arxiv.org/abs/2607.10038v2)
 
+## Learning a Size-Weight Frontier for Synthetic-Augmented Inference
+- **ID**: arxiv_2608.28576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28576v1](http://arxiv.org/abs/2608.28576v1)
+

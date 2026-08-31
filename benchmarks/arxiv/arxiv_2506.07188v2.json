@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.07188v2",
+  "schema_version": "1.0",
+  "name": "Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.07188v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.07188v2",
+    "updated": "2026-08-28T16:15:46Z",
+    "published": "2025-06-08T15:19:03Z",
+    "title": "Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks",
+    "summary": "End-to-end neural networks have become a dominant paradigm in autonomous driving, where reliable deployment requires controllable post-training adaptation and improved transparency of model updates. In this paper, we propose Feature-level Reverse Propagation for Post-Training (FR-PT), a hierarchical framework that provides explicit intermediate supervision for upstream modules by reconstructing label-conditioned features backward through frozen downstream networks. For the first time, we formulate feature reconstruction via the Computation Consistency Principle (CCP) and Minimum Deviation Principle (MDP), and develop efficient operator-specific reverse computation algorithms with MDP-centered Tikhonov regularization to handle numerically unstable inverse problems. Specifically, FR-PT incorporates circular convolution theorem-based solvers for scalable convolutional reconstruction, nearest embedding for constructing continuous output targets from categorical labels, and iterative reverse propagation for composite residual and Transformer-style blocks. Extensive experiments on image classification and autonomous driving tasks demonstrate effective and stable adaptation across diverse architectures. Among 85 post-training settings, FR-PT achieves statistically significant improvements over task-level baselines in 63 cases, while the matched backpropagation reference outperforms reconstruction-supervised configurations in only 4 cases. Additional efficiency, conditioning, and favorable-condition analyses characterize the reliability and limitations of reconstructed targets, while feature-response analyses further demonstrate their diagnostic value. Code is available at https://github.com/Dingni2000/FR-PT .",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:15:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.07188v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

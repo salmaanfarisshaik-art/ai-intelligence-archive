@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21633v3",
+  "schema_version": "1.0",
+  "name": "On the Depth Scalability of Logic Gate Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21633v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21633v3",
+    "updated": "2026-08-28T16:45:40Z",
+    "published": "2026-07-19T20:11:53Z",
+    "title": "On the Depth Scalability of Logic Gate Networks",
+    "summary": "Logic Gate Networks (LGNs) compute through compositions of Boolean operations, yet existing LGNs do not reliably benefit from increased depth. We identify two causes: optimization collapse and topology-induced degradation of output-specific credit that persists even after skip-biased initialization and straight-through estimation stabilize training.\n  We introduce Input-Anchored Logic Gate Networks (IALGNs), in which each gate combines a private hidden spine with a direct input anchor. This topology prevents output-path merging while retaining input access at every layer. Credit diagnostics show that random wiring dilutes or conflicts output-specific gradients, whereas IALGN maintains usable and coherent credit. Random-$k_x$ relaxation improves anchor selection without relaxing the spine.\n  Across MNIST, CIFAR-10, and CIFAR-100, IALGN exhibits consistent fixed-width depth--accuracy scaling up to 150 layers, while alternative topologies saturate or degrade. Linear probes, topology ablations, and operation-aware analysis show that trained IALGNs preserve private states and apply sparse anchor-conditioned updates. These results indicate that scalable LGN depth requires both stable optimization and credit-preserving information access.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T16:45:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21633v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

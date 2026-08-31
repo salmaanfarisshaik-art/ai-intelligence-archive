@@ -390,3 +390,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27406v1](http://arxiv.org/abs/2608.27406v1)
 
+## Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning
+- **ID**: arxiv_2608.28578v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28578v1](http://arxiv.org/abs/2608.28578v1)
+

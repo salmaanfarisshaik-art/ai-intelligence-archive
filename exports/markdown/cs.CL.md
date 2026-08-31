@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.05618v2](http://arxiv.org/abs/2508.05618v2)
 
+## Steering Multimodal Large Language Models Decoding for Context-Aware Safety
+- **ID**: arxiv_2509.19212v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.19212v2](http://arxiv.org/abs/2509.19212v2)
+
 ## Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
 - **ID**: arxiv_2509.25045v3
 - **Source**: ArXiv
@@ -89,6 +94,11 @@
 - **ID**: arxiv_2509.26476v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.26476v3](http://arxiv.org/abs/2509.26476v3)
+
+## Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines
+- **ID**: arxiv_2510.17252v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.17252v2](http://arxiv.org/abs/2510.17252v2)
 
 ## Toward Understanding the Transferability of Adversarial Suffixes in Large Language Models
 - **ID**: arxiv_2510.22014v2
@@ -304,6 +314,11 @@
 - **ID**: arxiv_2604.21370v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21370v2](http://arxiv.org/abs/2604.21370v2)
+
+## Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs
+- **ID**: arxiv_2604.21751v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.21751v2](http://arxiv.org/abs/2604.21751v2)
 
 ## Multimodal QUD: Inquisitive Questions from Scientific Figures
 - **ID**: arxiv_2604.23733v2
@@ -709,6 +724,11 @@
 - **ID**: arxiv_2606.20527v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20527v1](http://arxiv.org/abs/2606.20527v1)
+
+## Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs
+- **ID**: arxiv_2606.21359v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.21359v2](http://arxiv.org/abs/2606.21359v2)
 
 ## Forecasting With LLMs: Improved Generalization Through Feature Steering
 - **ID**: arxiv_2606.27199v2
@@ -1830,6 +1850,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.25061v2](http://arxiv.org/abs/2608.25061v2)
 
+## MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize
+- **ID**: arxiv_2608.25449v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25449v2](http://arxiv.org/abs/2608.25449v2)
+
 ## Lost but not erased: Finding traces of a forgotten language in neural speech models
 - **ID**: arxiv_2608.25976v1
 - **Source**: ArXiv
@@ -1864,6 +1889,11 @@
 - **ID**: arxiv_2608.26070v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26070v1](http://arxiv.org/abs/2608.26070v1)
+
+## Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with Large Language Models
+- **ID**: arxiv_2608.26587v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26587v2](http://arxiv.org/abs/2608.26587v2)
 
 ## BTS-AgentBench: A Deterministic, Replayable Pipeline from Read-Only Telemetry Logs to Agent Benchmarks
 - **ID**: arxiv_2608.27334v1
@@ -1939,4 +1969,39 @@
 - **ID**: arxiv_2608.27455v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27455v1](http://arxiv.org/abs/2608.27455v1)
+
+## Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation
+- **ID**: arxiv_2608.28467v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28467v1](http://arxiv.org/abs/2608.28467v1)
+
+## ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL
+- **ID**: arxiv_2608.28476v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28476v1](http://arxiv.org/abs/2608.28476v1)
+
+## Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge
+- **ID**: arxiv_2608.28478v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28478v1](http://arxiv.org/abs/2608.28478v1)
+
+## NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry
+- **ID**: arxiv_2608.28481v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28481v1](http://arxiv.org/abs/2608.28481v1)
+
+## Ladders in Chaos: When, How, (and Perhaps Why) Does Test-Time Scaling Improve LLM Machine Translation
+- **ID**: arxiv_2608.28496v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28496v1](http://arxiv.org/abs/2608.28496v1)
+
+## Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation
+- **ID**: arxiv_2608.28508v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28508v1](http://arxiv.org/abs/2608.28508v1)
+
+## A Formal Limitation on Learning Human Language From Textual Corpora
+- **ID**: arxiv_2608.28560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28560v1](http://arxiv.org/abs/2608.28560v1)
 

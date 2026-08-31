@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.28576v1",
+  "schema_version": "1.0",
+  "name": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.28576v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ME",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.28576v1",
+    "updated": "2026-08-28T17:52:33Z",
+    "published": "2026-08-28T17:52:33Z",
+    "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+    "summary": "Synthetic data can improve statistical inference when real data are scarce, but naively treating synthetic samples as real data can introduce bias and lead to unreliable inference. We develop a general framework for synthetic-augmented inference across a population of related tasks. It characterizes synthetic augmentation by the number of synthetic observations and their weight. Central to our framework is a size-weight frontier that specifies, for each weight, the largest synthetic sample size for which all smaller sizes attain the target task-marginal coverage. We estimate this frontier from historical tasks, and establish a finite-sample coverage guarantee simultaneously for all size-weight configurations on or below the estimated frontier. In experiments using large language model responses to augment opinion survey data, our procedure achieves target coverage and substantially narrows confidence intervals.",
+    "primary_category": "stat.ME"
+  },
+  "retrieval_timestamp": "2026-08-31T03:42:29Z",
+  "last_updated": "2026-08-28T17:52:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.28576v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

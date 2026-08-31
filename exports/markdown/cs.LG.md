@@ -270,6 +270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.25225v2](http://arxiv.org/abs/2605.25225v2)
 
+## LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis
+- **ID**: arxiv_2605.30434v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30434v2](http://arxiv.org/abs/2605.30434v2)
+
 ## BRo-JEPA: Learning Modular Transformations in Latent Space
 - **ID**: arxiv_2606.01372v2
 - **Source**: ArXiv
@@ -629,6 +634,11 @@
 - **ID**: arxiv_2607.21573v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21573v1](http://arxiv.org/abs/2607.21573v1)
+
+## On the Depth Scalability of Logic Gate Networks
+- **ID**: arxiv_2607.21633v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21633v3](http://arxiv.org/abs/2607.21633v3)
 
 ## Hyperball May Not Be a Free Lunch
 - **ID**: arxiv_2607.22444v1
@@ -995,6 +1005,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18025v1](http://arxiv.org/abs/2608.18025v1)
 
+## How Far Should Tokenization Go? Predictive Effectiveness and Relational Losslessness
+- **ID**: arxiv_2608.18025v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18025v2](http://arxiv.org/abs/2608.18025v2)
+
 ## Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization
 - **ID**: arxiv_2608.18040v1
 - **Source**: ArXiv
@@ -1084,4 +1099,19 @@
 - **ID**: arxiv_2608.27339v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27339v1](http://arxiv.org/abs/2608.27339v1)
+
+## How Proper Scoring Rules Shape LLM Forecasting
+- **ID**: arxiv_2608.28482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28482v1](http://arxiv.org/abs/2608.28482v1)
+
+## An Enclosed Mode Is a Gauge Choice: Topology Relative to Reach in Certified Code World Models
+- **ID**: arxiv_2608.28541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28541v1](http://arxiv.org/abs/2608.28541v1)
+
+## Blog: Survey of Optimizers
+- **ID**: arxiv_2608.28557v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28557v1](http://arxiv.org/abs/2608.28557v1)
 
