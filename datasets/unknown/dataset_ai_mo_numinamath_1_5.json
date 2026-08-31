@@ -1,0 +1,32 @@
+{
+  "_id": "67a9f247188f29a956a34a04",
+  "id": "AI-MO/NuminaMath-1.5",
+  "author": "AI-MO",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-01-29T11:00:49.000Z",
+  "likes": 192,
+  "private": false,
+  "sha": "1b05109f9e5c1ad06c0663519502416c30b300f8",
+  "description": "\n\t\n\t\t\n\t\tDataset Card for NuminaMath 1.5\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis is the second iteration of the popular NuminaMath dataset, bringing high quality post-training data for approximately 900k competition-level math problems.  Each solution is formatted in a Chain of Thought (CoT) manner. The sources of the dataset range from Chinese high school math exercises to US and international mathematics olympiad competition problems. The data were primarily collected from online exam paper PDFs… See the full description on the dataset page: https://huggingface.co/datasets/AI-MO/NuminaMath-1.5.",
+  "downloads": 31301,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "math",
+    "post-training"
+  ],
+  "createdAt": "2025-02-10T12:34:15.000Z",
+  "key": "",
+  "unique_id": "dataset_ai_mo_numinamath_1_5",
+  "schema_version": "1.0"
+}

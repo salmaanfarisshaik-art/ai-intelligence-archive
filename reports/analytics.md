@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88125
+**Total Entities Tracked**: 88126
 
 ## Category Distribution
 
@@ -11,7 +11,7 @@
 - **models**: 1578
 - **news**: 1174
 - **dataset**: 1157
-- **text-generation**: 1007
+- **text-generation**: 1008
 - **cs.CV**: 650
 - **cs.AI**: 404
 - **cs.CL**: 401
@@ -93,7 +93,7 @@
 - **Stanford Alpaca**: 52000
 - ****: 30553
 - **ArXiv**: 2078
-- **Hugging Face**: 2014
+- **Hugging Face**: 2015
 - **OpenAI Blog**: 1160
 - **HuggingFace Datasets**: 157
 - **GitHub Trending**: 49
@@ -135,28 +135,28 @@
 
 ## Top Tags
 
-- **region:us**: 228
-- **text-generation**: 72
-- **library:datasets**: 70
-- **library:mlcroissant**: 70
-- **modality:text**: 63
-- **license:apache-2.0**: 62
+- **region:us**: 229
+- **text-generation**: 73
+- **library:datasets**: 69
+- **library:mlcroissant**: 69
+- **license:apache-2.0**: 63
+- **endpoints_compatible**: 62
+- **modality:text**: 62
 - **safetensors**: 62
 - **transformers**: 62
-- **endpoints_compatible**: 61
 - **language:en**: 59
-- **conversational**: 55
-- **library:polars**: 53
+- **conversational**: 56
+- **library:polars**: 52
 - **license:mit**: 43
-- **format:parquet**: 42
+- **format:parquet**: 41
 - **text-generation-inference**: 33
 - **deploy:azure**: 32
 - **library:pandas**: 28
-- **en**: 26
+- **en**: 27
 - **enterprise**: 25
 - **eval-results**: 25
-- **library:dask**: 25
 - **task_categories:text-generation**: 25
+- **library:dask**: 24
 - **deploy:sagemaker**: 21
 - **modality:image**: 21
 - **size_categories:n<1K**: 20
@@ -180,8 +180,8 @@
 - **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
-- **size_categories:1M<n<10M**: 9
 - **size_categories:n>1T**: 9
 - **format:json**: 8
+- **gguf**: 8
 - **language:ar**: 8
 - **llama**: 8

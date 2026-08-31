@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T03:45:57Z",
+  "generated_at": "2026-08-31T10:36:01Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -19,6 +19,11 @@
     {
       "source_id": "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
       "target_id": "hf_HuggingFaceTB_SmolLM2-135M",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -994,6 +999,11 @@
     {
       "source_id": "model_bartowski_qwen_qwen3_0_6b_gguf",
       "target_id": "hf_Qwen_Qwen3-0.6B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen_qwen3_14b_gguf",
+      "target_id": "hf_Qwen_Qwen3-14B",
       "type": "derived_from"
     },
     {
@@ -4412,6 +4422,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_noobito45_qwen3_8_9b_heretic_uncensored_nvfp4_gguf",
+      "target_id": "hf_empero-ai_Qwen3.8-9B-Distill",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
       "target_id": "hf_upstage_Solar-Open2-250B",
       "type": "derived_from"
@@ -7389,6 +7404,11 @@
     {
       "source_id": "model_unsloth_glm_5_3_flash_gguf",
       "target_id": "hf_zai-org_GLM-5.3-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_glm_5_3_gguf",
+      "target_id": "hf_zai-org_GLM-5.3",
       "type": "derived_from"
     },
     {

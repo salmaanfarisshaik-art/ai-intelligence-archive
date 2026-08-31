@@ -875,6 +875,39 @@
     "local_path": "models/jiunsong/hf_Jiunsong_supergemma4-26b-uncensored-gguf-v2.json"
   },
   {
+    "id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "conversational",
+      "en",
+      "endpoints_compatible",
+      "gguf",
+      "imatrix",
+      "license:apache-2.0",
+      "llama.cpp",
+      "mtp",
+      "quantized",
+      "qwen3.8",
+      "region:us",
+      "speculative-decoding",
+      "text-generation",
+      "uncensored",
+      "zh"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+    "local_path": "models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json"
+  },
+  {
     "id": "hf_KBlueLeaf_TIPO-500M-ft",
     "title": "KBlueLeaf/TIPO-500M-ft",
     "category": "text-generation",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4fe4671783172622313ac0c7182012cee618f217",
   "description": "\n\t\n\t\t\n\t\tXYZ Industrial Bin-picking Dataset (XYZ-IBD)\n\t\n\nProject page\n\n\t\n\t\t\n\t\tDownload via command line\n\t\n\nTo download the data and extract it into BOP format via command line simply execute:\nexport SRC=https://huggingface.co/datasets/bop-benchmark\nwget $SRC/xyzibd/resolve/main/xyzibd_base.zip         # Base archive with camera parameters, etc\nwget $SRC/xyzibd/resolve/main/xyzibd_models.zip       # 3D object models\nwget $SRC/xyzibd/resolve/main/xyzibd_val.zip          # Validation images\nwget… See the full description on the dataset page: https://huggingface.co/datasets/bop-benchmark/xyzibd.",
-  "downloads": 32004,
+  "downloads": 32007,
   "tags": [
     "license:cc-by-nc-sa-4.0",
     "region:us"

@@ -872,7 +872,7 @@
 - **ID**: hf_ds_6a1f3e49aa35c86b3f108f05
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mteb/results](https://huggingface.co/datasets/mteb/results)
-- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M
+- **Tags**: license:cc0-1.0, region:us
 
 ## RoboDojo-Benchmark/RoboDojo
 - **ID**: hf_ds_6a252aa1e7f978cbccbe94ed
@@ -908,7 +908,7 @@
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
-- **Tags**: atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
+- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
 
 ## JoeLiu996/NatureBench
 - **ID**: hf_ds_6a4f0a92e633070a2d287ef9

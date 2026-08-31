@@ -4675,15 +4675,8 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:parquet",
-      "library:dask",
-      "library:datasets",
-      "library:mlcroissant",
-      "library:polars",
       "license:cc0-1.0",
-      "modality:text",
-      "region:us",
-      "size_categories:1M<n<10M"
+      "region:us"
     ],
     "links": {
       "related_models": [],
@@ -4839,6 +4832,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "arxiv:2607.14183",
       "atomic-actions",
       "egocentric",
       "hand-pose",

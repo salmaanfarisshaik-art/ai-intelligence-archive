@@ -390,6 +390,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2](https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2)
 
+## JonathanColetti/Qwen3.8-27B-Uncensored-GGUF
+- **ID**: hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF](https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF)
+- **Tags**: base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B, conversational, en, endpoints_compatible, gguf, imatrix, license:apache-2.0, llama.cpp, mtp, quantized, qwen3.8, region:us, speculative-decoding, text-generation, uncensored, zh
+
 ## KBlueLeaf/TIPO-500M-ft
 - **ID**: hf_KBlueLeaf_TIPO-500M-ft
 - **Source**: Hugging Face
