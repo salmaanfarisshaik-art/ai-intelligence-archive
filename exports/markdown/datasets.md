@@ -277,6 +277,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_scitail
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_social_i_qa
 - **Source**: 
 
@@ -1401,6 +1405,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_eleutherai_headqa
+- **Source**: 
+
+## 
 - **ID**: dataset_eleutherai_hendrycks_math
 - **Source**: 
 
@@ -1641,6 +1649,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fpvlabs_stereo_550
+- **Source**: 
+
+## 
 - **ID**: dataset_frankielp_2dgaussian_lang_dataset
 - **Source**: 
 
@@ -1845,6 +1857,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_graphite_ai_graphite_past_problems
+- **Source**: 
+
+## 
 - **ID**: dataset_griffinlabs_egodex_lerobot_v3_0
 - **Source**: 
 
@@ -1874,6 +1890,10 @@
 
 ## 
 - **ID**: dataset_hadro_green_books_thumbnails
+- **Source**: 
+
+## 
+- **ID**: dataset_hails_agieval_lsat_lr
 - **Source**: 
 
 ## 
@@ -2053,6 +2073,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hltcoe_megawika
+- **Source**: 
+
+## 
 - **ID**: dataset_hoailinh2002_hoailinh2002
 - **Source**: 
 
@@ -2202,6 +2226,10 @@
 
 ## 
 - **ID**: dataset_huggingfaceh4_aime_2024
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfaceh4_codealpaca_20k
 - **Source**: 
 
 ## 
@@ -3134,6 +3162,10 @@
 
 ## 
 - **ID**: dataset_icdn14_content_202608081273
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_202608191e01
 - **Source**: 
 
 ## 
@@ -4109,6 +4141,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lighteval_siqa
+- **Source**: 
+
+## 
 - **ID**: dataset_lightwheelai_egodemo
 - **Source**: 
 
@@ -4845,6 +4881,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nc33_multispan_quoref
+- **Source**: 
+
+## 
 - **ID**: dataset_neashton_ahmedml
 - **Source**: 
 
@@ -5357,6 +5397,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_orionweller_mmbert_pretrain_p2_fineweb2_remaining
+- **Source**: 
+
+## 
 - **ID**: dataset_orionweller_reddit_mds_incremental
 - **Source**: 
 
@@ -5410,6 +5454,10 @@
 
 ## 
 - **ID**: dataset_perry233_astrovision_data
+- **Source**: 
+
+## 
+- **ID**: dataset_peterlltaylor_tg_aduio
 - **Source**: 
 
 ## 
@@ -6414,6 +6462,10 @@
 
 ## 
 - **ID**: dataset_tars_robotics_wiyh
+- **Source**: 
+
+## 
+- **ID**: dataset_tasksource_bigbench
 - **Source**: 
 
 ## 

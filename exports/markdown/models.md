@@ -1756,6 +1756,10 @@
 - **ID**: model_huihui_ai_qwen2_5_72b_instruct_abliterated
 - **Source**: 
 
+## hyrelabs/Homura-30B-GGUF
+- **ID**: model_hyrelabs_homura_30b_gguf
+- **Source**: 
+
 ## ibm-ai-platform/Bamba-9B-v1
 - **ID**: model_ibm_ai_platform_bamba_9b_v1
 - **Source**: 
@@ -1964,6 +1968,10 @@
 - **ID**: model_isotr0py_deepseek_vl2_tiny
 - **Source**: 
 
+## ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF
+- **ID**: model_ista_daslab_qwen3_8_27b_gsq_rco_gguf
+- **Source**: 
+
 ## JackFram/llama-160m
 - **ID**: model_jackfram_llama_160m
 - **Source**: 
@@ -2102,6 +2110,10 @@
 
 ## kyujinpy/Ko-PlatYi-6B
 - **ID**: model_kyujinpy_ko_platyi_6b
+- **Source**: 
+
+## LaaP-ai/qwen-base-invoicev1.01-1.5B
+- **ID**: model_laap_ai_qwen_base_invoicev1_01_1_5b
 - **Source**: 
 
 ## LargitData/gemma-4-26b-a4b-it-fp8
@@ -2554,6 +2566,10 @@
 
 ## LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit
 - **ID**: model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit
+- **Source**: 
+
+## logic65/Qwen3.8-Whittle-MoE-27B-A17.8B-GGUF
+- **ID**: model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf
 - **Source**: 
 
 ## LordNeel/Agents-A1-GGUF
@@ -3918,6 +3934,10 @@
 
 ## ornith-ai/Ornith-1.5-9B-MLX-8bit
 - **ID**: model_ornith_ai_ornith_1_5_9b_mlx_8bit
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-9B-NVFP4
+- **ID**: model_ornith_ai_ornith_1_5_9b_nvfp4
 - **Source**: 
 
 ## OuteAI/Lite-Oute-1-300M

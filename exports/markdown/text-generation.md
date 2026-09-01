@@ -2630,7 +2630,7 @@
 - **ID**: hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT](https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT)
-- **Tags**: amd, at-t, base_model:finetune:google/gemma-4-31B-it, base_model:google/gemma-4-31B-it, conversational, dell, deploy:azure, domain-adaptation, en, endpoints_compatible, gemma4_text, gsma, instruction-following, license:apache-2.0, microsoft, open-telco-ai, post-trained, rag, red-hat, region:us, safetensors, telecom, telecommunications, text-generation, tool-calling, transformers
+- **Tags**: amd, arxiv:2504.07097, at-t, continual-learning, conversational, dell, deploy:azure, domain-adaptation, en, endpoints_compatible, gemma4, gsma, image-text-to-text, instruction-following, license:apache-2.0, microsoft, multimodal, open-telco-ai, orthogonal-subspace-fine-tuning, osft, post-trained, rag, red-hat, region:us, safetensors, telecom, telecommunications, text-generation, tool-calling, transformers, vllm
 
 ## farbodtavakkoli/OTel-LLM-0.6B-IT
 - **ID**: hf_farbodtavakkoli_OTel-LLM-0.6B-IT

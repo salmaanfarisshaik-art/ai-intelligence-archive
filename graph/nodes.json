@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T13:08:39.295575+00:00",
+  "generated_at": "2026-09-01T17:38:59.768906+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -116315,6 +116315,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_allenai_scitail",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_allenai_social_i_qa",
       "label": ""
     },
@@ -117720,6 +117725,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_eleutherai_headqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_eleutherai_hendrycks_math",
       "label": ""
     },
@@ -118020,6 +118030,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_fpvlabs_stereo_550",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_frankielp_2dgaussian_lang_dataset",
       "label": ""
     },
@@ -118275,6 +118290,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_graphite_ai_graphite_past_problems",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_griffinlabs_egodex_lerobot_v3_0",
       "label": ""
     },
@@ -118311,6 +118331,11 @@
     {
       "category": "datasets",
       "id": "dataset_hadro_green_books_thumbnails",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_hails_agieval_lsat_lr",
       "label": ""
     },
     {
@@ -118535,6 +118560,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_hltcoe_megawika",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hoailinh2002_hoailinh2002",
       "label": ""
     },
@@ -118721,6 +118751,11 @@
     {
       "category": "datasets",
       "id": "dataset_huggingfaceh4_aime_2024",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_huggingfaceh4_codealpaca_20k",
       "label": ""
     },
     {
@@ -119886,6 +119921,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn14_content_202608081273",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn14_content_202608191e01",
       "label": ""
     },
     {
@@ -121105,6 +121145,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_lighteval_siqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_lightwheelai_egodemo",
       "label": ""
     },
@@ -122025,6 +122070,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_nc33_multispan_quoref",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_neashton_ahmedml",
       "label": ""
     },
@@ -122665,6 +122715,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_orionweller_mmbert_pretrain_p2_fineweb2_remaining",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_orionweller_reddit_mds_incremental",
       "label": ""
     },
@@ -122731,6 +122786,11 @@
     {
       "category": "datasets",
       "id": "dataset_perry233_astrovision_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_peterlltaylor_tg_aduio",
       "label": ""
     },
     {
@@ -123986,6 +124046,11 @@
     {
       "category": "datasets",
       "id": "dataset_tars_robotics_wiyh",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_tasksource_bigbench",
       "label": ""
     },
     {
@@ -138480,6 +138545,11 @@
     },
     {
       "category": "models",
+      "id": "model_hyrelabs_homura_30b_gguf",
+      "label": "hyrelabs/Homura-30B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_ibm_ai_platform_bamba_9b_v1",
       "label": "ibm-ai-platform/Bamba-9B-v1"
     },
@@ -138740,6 +138810,11 @@
     },
     {
       "category": "models",
+      "id": "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
+      "label": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_jackfram_llama_160m",
       "label": "JackFram/llama-160m"
     },
@@ -138912,6 +138987,11 @@
       "category": "models",
       "id": "model_kyujinpy_ko_platyi_6b",
       "label": "kyujinpy/Ko-PlatYi-6B"
+    },
+    {
+      "category": "models",
+      "id": "model_laap_ai_qwen_base_invoicev1_01_1_5b",
+      "label": "LaaP-ai/qwen-base-invoicev1.01-1.5B"
     },
     {
       "category": "models",
@@ -139477,6 +139557,11 @@
       "category": "models",
       "id": "model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit",
       "label": "LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf",
+      "label": "logic65/Qwen3.8-Whittle-MoE-27B-A17.8B-GGUF"
     },
     {
       "category": "models",
@@ -141182,6 +141267,11 @@
       "category": "models",
       "id": "model_ornith_ai_ornith_1_5_9b_mlx_8bit",
       "label": "ornith-ai/Ornith-1.5-9B-MLX-8bit"
+    },
+    {
+      "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_9b_nvfp4",
+      "label": "ornith-ai/Ornith-1.5-9B-NVFP4"
     },
     {
       "category": "models",
@@ -441185,5 +441275,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 88236
+  "total_nodes": 88254
 }

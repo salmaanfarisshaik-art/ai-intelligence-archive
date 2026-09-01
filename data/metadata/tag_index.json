@@ -580,6 +580,9 @@
   "arxiv:2503.24381": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "arxiv:2504.07097": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
+  ],
   "arxiv:2505.09388": [
     "hf_Qwen_Qwen3-0.6B",
     "hf_Qwen_Qwen3-1.7B",
@@ -836,9 +839,6 @@
   "base_model:finetune:google/gemma-3-1b-pt": [
     "hf_google_gemma-3-1b-it"
   ],
-  "base_model:finetune:google/gemma-4-31B-it": [
-    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
-  ],
   "base_model:finetune:google/gemma-4-E4B-it": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
@@ -852,7 +852,6 @@
     "hf_google_gemma-3-1b-it"
   ],
   "base_model:google/gemma-4-31B-it": [
-    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "base_model:google/gemma-4-E4B-it": [
@@ -968,6 +967,9 @@
     "docker",
     "dockerfile-multi-stage-builder",
     "optimized-dockerfile-multi-stage-builder"
+  ],
+  "continual-learning": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "conversational": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1628,11 +1630,9 @@
     "hf_google_gemma-3-1b-it"
   ],
   "gemma4": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
-  ],
-  "gemma4_text": [
-    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "generalist-agent": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -1750,6 +1750,7 @@
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "image-text-to-text": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_vikhyatk_moondream2"
   ],
@@ -4445,7 +4446,8 @@
   "multimodal": [
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
-    "hf_ds_69f7105853a9164999100b0b"
+    "hf_ds_69f7105853a9164999100b0b",
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "museum-images": [
     "hf_ds_66674f5483de542b724d771e"
@@ -4548,6 +4550,12 @@
   "orm": [
     "enterprise-prisma-schema-generator",
     "prisma-schema-generator"
+  ],
+  "orthogonal-subspace-fine-tuning": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
+  ],
+  "osft": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "paraphrase-identification": [
     "hf_ds_621ffdd236468d709f181e3f"
@@ -5865,6 +5873,7 @@
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
   "vllm": [
+    "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
   ],
