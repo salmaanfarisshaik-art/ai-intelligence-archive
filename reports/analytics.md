@@ -138,8 +138,8 @@
 
 - **region:us**: 229
 - **text-generation**: 73
-- **library:datasets**: 70
-- **library:mlcroissant**: 70
+- **library:datasets**: 69
+- **library:mlcroissant**: 69
 - **license:apache-2.0**: 63
 - **modality:text**: 63
 - **endpoints_compatible**: 62
@@ -159,8 +159,8 @@
 - **library:dask**: 25
 - **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
-- **modality:image**: 21
-- **size_categories:n<1K**: 20
+- **modality:image**: 20
+- **size_categories:n<1K**: 19
 - **license:other**: 18
 - **modality:tabular**: 18
 - **qwen3**: 18
