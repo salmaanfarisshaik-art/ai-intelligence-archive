@@ -13710,6 +13710,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_hyrelabs_homura_30b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_ibm_granite_granite_4_0_h_small_fp8",
       "match_type": "exact",
       "score": 3.0
@@ -13766,6 +13771,11 @@
     },
     {
       "entity_id": "model_internscience_agents_a1_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -14256,6 +14266,11 @@
     },
     {
       "entity_id": "model_lmstudio_community_seed_oss_36b_instruct_mlx_8bit",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -17246,6 +17261,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_laap_ai_qwen_base_invoicev1_01_1_5b",
       "match_type": "exact",
       "score": 2.0
     },
@@ -72204,6 +72224,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_tasksource_bigbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_680f523123b95edd6987db29",
       "match_type": "exact",
       "score": 1.0
@@ -73256,6 +73281,11 @@
     },
     {
       "entity_id": "dataset_google_research_datasets_nq_open",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hails_agieval_lsat_lr",
       "match_type": "exact",
       "score": 1.0
     },
@@ -92688,6 +92718,18 @@
       "entity_id": "alpaca_978604859567651631",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tasksource_bigbench",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "bigbench": [
+    {
+      "entity_id": "dataset_tasksource_bigbench",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "bigcity": [
@@ -105459,6 +105501,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_fpvlabs_stereo_550",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_google_deepsearchqa",
       "match_type": "exact",
       "score": 1.0
@@ -108389,6 +108436,11 @@
     },
     {
       "entity_id": "dataset_helsinki_nlp_opus_100",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hltcoe_megawika",
       "match_type": "exact",
       "score": 1.5
     },
@@ -143111,6 +143163,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_fpvlabs_stereo_550",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_histai_histai_mixed",
       "match_type": "exact",
       "score": 1.0
@@ -145665,6 +145722,11 @@
     },
     {
       "entity_id": "dataset_wwtylo_ddos",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "gh_656099147",
       "match_type": "exact",
       "score": 1.0
     },
@@ -156659,6 +156721,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_tasksource_bigbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_tasl_lab_uniocc",
       "match_type": "exact",
       "score": 1.0
@@ -165083,6 +165150,11 @@
     },
     {
       "entity_id": "dataset_hkustenterprize_rm26_engineer_exchange",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hltcoe_megawika",
       "match_type": "exact",
       "score": 1.5
     },

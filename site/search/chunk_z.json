@@ -1281,6 +1281,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_tasksource_bigbench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_kenpath_svara_tts_v1",
       "match_type": "exact",
       "score": 1.5
@@ -1789,6 +1794,11 @@
     },
     {
       "entity_id": "dataset_hkustaudio_audio_flan_dataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hltcoe_megawika",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3166,6 +3176,13 @@
       "entity_id": "model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "zhong2023agieval": [
+    {
+      "entity_id": "dataset_hails_agieval_lsat_lr",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zhongxing": [

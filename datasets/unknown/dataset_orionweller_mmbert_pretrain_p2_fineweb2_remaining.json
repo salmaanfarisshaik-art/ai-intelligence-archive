@@ -1,0 +1,28 @@
+{
+  "_id": "68a548aa00a4ed7eb37b4403",
+  "id": "orionweller/mmBERT-pretrain-p2-fineweb2-remaining",
+  "author": "orionweller",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-13T18:56:05.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d80c9e58c06c868df5a14f67070167c483215133",
+  "description": "\n\t\n\t\t\n\t\tmmBERT Pre-training Data P2\n\t\n\n\n\n\n\n\nPhase 1 of 3: Diverse multilingual pre-training data mixture (trained for 2.3T tokens) used to train the mmBERT model suite.\n\nNOTE: this is only P2 of the pre-training data due to HF limits, you need to download and combine all three into one folderThis dataset contains the pre-training phase data used to train all mmBERT encoder models. The data is provided in MDS format ready for use with Composer and the ModernBERT training repository.… See the full description on the dataset page: https://huggingface.co/datasets/orionweller/mmBERT-pretrain-p2-fineweb2-remaining.",
+  "downloads": 31448,
+  "tags": [
+    "task_categories:fill-mask",
+    "language:en",
+    "license:mit",
+    "arxiv:2509.06888",
+    "region:us",
+    "pretraining",
+    "language-modeling",
+    "encoder",
+    "multilingual"
+  ],
+  "createdAt": "2025-08-20T04:01:46.000Z",
+  "key": "",
+  "unique_id": "dataset_orionweller_mmbert_pretrain_p2_fineweb2_remaining",
+  "schema_version": "1.0"
+}

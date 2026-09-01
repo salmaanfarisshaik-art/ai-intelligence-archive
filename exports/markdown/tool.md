@@ -73,7 +73,7 @@
 ## career-ops
 - **ID**: gh_1201476594
 - **Source**: GitHub Trending
-- **URL**: [https://github.com/santifer/career-ops](https://github.com/santifer/career-ops)
+- **URL**: [https://github.com/career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)
 
 ## mempalace
 - **ID**: gh_1201656210

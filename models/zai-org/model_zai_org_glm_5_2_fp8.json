@@ -3,7 +3,7 @@
   "id": "zai-org/GLM-5.2-FP8",
   "likes": 262,
   "private": false,
-  "downloads": 1500335,
+  "downloads": 1467173,
   "tags": [
     "transformers",
     "safetensors",
@@ -17,9 +17,9 @@
     "license:mit",
     "endpoints_compatible",
     "fp8",
-    "region:us",
     "deploy:azure",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:20:14Z",
+  "generated_at": "2026-09-01T13:09:39Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -2367,6 +2367,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_hyrelabs_homura_30b_gguf",
+      "target_id": "hf_darkc0de_Muse-Glimmer-30B-heretic",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ibm_granite_granite_3_0_1b_a400m_instruct",
       "target_id": "hf_ibm-granite_granite-3.0-1b-a400m-base",
       "type": "derived_from"
@@ -2549,6 +2554,11 @@
     {
       "source_id": "model_internscience_agents_a1_q4_k_m_gguf",
       "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -3534,6 +3544,11 @@
     {
       "source_id": "model_lmstudio_community_seed_oss_36b_instruct_mlx_8bit",
       "target_id": "hf_ByteDance-Seed_Seed-OSS-36B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf",
+      "target_id": "hf_logic65_Qwen3.8-Whittle-MoE-27B-A17.8B",
       "type": "derived_from"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T07:20:14Z",
+  "generated_at": "2026-09-01T13:09:39Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1144,6 +1144,7 @@
       "model_atomicchat_qwen3_8_27b_gguf",
       "model_incoai_qwen3_8_27b_dflash2",
       "model_incoai_qwen3_8_27b_dflash2_gguf",
+      "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
       "model_jonathancoletti_qwen3_8_27b_uncensored_gguf",
       "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "model_obliteratus_qwen3_8_27b_obliterated",
@@ -1558,6 +1559,9 @@
     ],
     "hf_danish-foundation-models_danish-gigaword": [
       "model_bsc_lt_salamandra_7b_instruct"
+    ],
+    "hf_darkc0de_Muse-Glimmer-30B-heretic": [
+      "model_hyrelabs_homura_30b_gguf"
     ],
     "hf_databricks_databricks-dolly-15k": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -2078,6 +2082,9 @@
     ],
     "hf_lmsys_lmsys-chat-1m": [
       "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5"
+    ],
+    "hf_logic65_Qwen3.8-Whittle-MoE-27B-A17.8B": [
+      "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf"
     ],
     "hf_lordx64_Qwen3.6-35B-A3B-Claude-4.7-Opus-Reasoning-Distilled": [
       "model_huihui_ai_huihui_qwen3_6_35b_a3b_claude_4_7_opus_abliterated"
@@ -4190,6 +4197,9 @@
     "model_huihui_ai_qwen2_5_72b_instruct_abliterated": [
       "hf_Qwen_Qwen2.5-72B-Instruct"
     ],
+    "model_hyrelabs_homura_30b_gguf": [
+      "hf_darkc0de_Muse-Glimmer-30B-heretic"
+    ],
     "model_ibm_granite_granite_3_0_1b_a400m_instruct": [
       "hf_ibm-granite_granite-3.0-1b-a400m-base"
     ],
@@ -4274,6 +4284,9 @@
     ],
     "model_internscience_agents_a1_q4_k_m_gguf": [
       "hf_InternScience_Agents-A1"
+    ],
+    "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_jackfram_llama_160m": [
       "hf_wikipedia"
@@ -4697,6 +4710,9 @@
     ],
     "model_lmstudio_community_seed_oss_36b_instruct_mlx_8bit": [
       "hf_ByteDance-Seed_Seed-OSS-36B-Instruct"
+    ],
+    "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf": [
+      "hf_logic65_Qwen3.8-Whittle-MoE-27B-A17.8B"
     ],
     "model_lordneel_agents_a1_gguf": [
       "hf_InternScience_Agents-A1"
