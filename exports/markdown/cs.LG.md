@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
+- **ID**: arxiv_2603.10009v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.10009v2](http://arxiv.org/abs/2603.10009v2)
+
 ## When Drafts Evolve: Speculative Decoding Meets Online Learning
 - **ID**: arxiv_2603.12617v2
 - **Source**: ArXiv
@@ -1090,6 +1095,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26083v1](http://arxiv.org/abs/2608.26083v1)
 
+## ICON Decomposition: Auditing Deep Neural Networks with Multivariate Variance-based Concept-level Explanations
+- **ID**: arxiv_2608.26083v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26083v2](http://arxiv.org/abs/2608.26083v2)
+
 ## TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development
 - **ID**: arxiv_2608.26086v1
 - **Source**: ArXiv
@@ -1124,4 +1134,9 @@
 - **ID**: arxiv_2608.29640v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29640v1](http://arxiv.org/abs/2608.29640v1)
+
+## A Model with No Head and Many Thoughts
+- **ID**: arxiv_2608.31069v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31069v1](http://arxiv.org/abs/2608.31069v1)
 

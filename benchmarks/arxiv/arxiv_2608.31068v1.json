@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.31068v1",
+  "schema_version": "1.0",
+  "name": "Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.31068v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.31068v1",
+    "updated": "2026-08-31T16:43:55Z",
+    "published": "2026-08-31T16:43:55Z",
+    "title": "Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores",
+    "summary": "When a large language model fails a reasoning task, it is often assumed to lack the underlying capability. However, this conflates a genuine absence of reasoning with a late-stage output bottleneck. We observe a consistent readout gap across diverse reasoning benchmarks: hidden-state probes successfully decode correct answers even when native sequence scoring completely collapses due to structural biases. To test whether instance-specific logic survives this collapse, we introduce a diagnostic protocol using a minimal, target-label-free additive correction. Fitting just two parameters on as few as 25 unlabeled examples recovers 9--34 accuracy points for Qwen3.5 models, transferring successfully to OLMo-2-1B and Llama-3.1-8B. Crucially, these recovered decisions persist on hard instances unresolved by simple lexical overlap and significantly exceed count-preserving permutation baselines. Our results show that many apparent zero-shot reasoning deficits are expression failures masking intact internal logic, urging a narrower interpretation of benchmark evaluations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T16:43:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.31068v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

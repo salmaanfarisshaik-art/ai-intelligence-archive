@@ -195,3 +195,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28497v1](http://arxiv.org/abs/2608.28497v1)
 
+## LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering
+- **ID**: arxiv_2608.31102v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31102v1](http://arxiv.org/abs/2608.31102v1)
+
+## Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification
+- **ID**: arxiv_2608.31142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31142v1](http://arxiv.org/abs/2608.31142v1)
+

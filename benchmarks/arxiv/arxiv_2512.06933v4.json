@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.06933v4",
+  "schema_version": "1.0",
+  "name": "TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.06933v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.06933v4",
+    "updated": "2026-08-31T16:59:31Z",
+    "published": "2025-12-07T17:23:55Z",
+    "title": "TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding",
+    "summary": "Understanding the economic intent of Ethereum transactions is critical for user safety, yet current tools expose only raw on-chain data or surface-level intent, leading to widespread ``blind signing'' (approving transactions without understanding them). Through interviews with 16 Web3 users, we find that effective explanations should be structured, risk-aware, and grounded at the token-flow level. Motivated by these findings, we formulate TxSum, a new domain-grounded NLP task for DeFi transaction explanation, and construct a dataset of 187 complex Ethereum transactions with 2,375 token-flow annotations and transaction-level summaries.\n  We further introduce MATEX, a grounded multi-agent framework for high-stakes transaction explanation. It selectively retrieves external knowledge under uncertainty and audits explanations against raw traces to improve token-flow-level factual consistency. MATEX achieves the strongest overall explanation quality, especially on micro-level factuality and intent quality. It improves user comprehension on complex transactions from 52.9% to 76.5% over the strongest baseline and raises malicious-transaction rejection from 36.0% to 88.0%, while maintaining a low false-rejection rate on benign transactions.",
+    "primary_category": "cs.CE"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T16:59:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.06933v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

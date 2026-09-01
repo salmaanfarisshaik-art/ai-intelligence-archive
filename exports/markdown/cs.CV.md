@@ -60,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.05474v2](http://arxiv.org/abs/2505.05474v2)
 
+## HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation
+- **ID**: arxiv_2505.11454v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.11454v8](http://arxiv.org/abs/2505.11454v8)
+
 ## Exploring Sparsity for Parameter Efficient Fine Tuning Using Wavelets for Vision
 - **ID**: arxiv_2505.12532v3
 - **Source**: ArXiv
@@ -330,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.16978v2](http://arxiv.org/abs/2512.16978v2)
 
+## Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
+- **ID**: arxiv_2512.23709v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.23709v3](http://arxiv.org/abs/2512.23709v3)
+
 ## Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework
 - **ID**: arxiv_2601.06550v4
 - **Source**: ArXiv
@@ -514,6 +524,11 @@
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
+## SketchVLM: Vision language models can annotate images to explain thoughts and guide users
+- **ID**: arxiv_2604.22875v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.22875v3](http://arxiv.org/abs/2604.22875v3)
 
 ## MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation
 - **ID**: arxiv_2604.23789v3
@@ -2980,6 +2995,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20308v1](http://arxiv.org/abs/2608.20308v1)
 
+## ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery
+- **ID**: arxiv_2608.20308v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20308v2](http://arxiv.org/abs/2608.20308v2)
+
 ## Inter-X++: A Comprehensive Benchmark for Multimodal Human-Human Interaction Analysis
 - **ID**: arxiv_2608.20312v1
 - **Source**: ArXiv
@@ -3309,4 +3329,49 @@
 - **ID**: arxiv_2608.29644v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29644v1](http://arxiv.org/abs/2608.29644v1)
+
+## Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery
+- **ID**: arxiv_2608.31065v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31065v1](http://arxiv.org/abs/2608.31065v1)
+
+## LISynSeg: Data-Centric Label-to-Image Synthesis for Cross-Modality Whole-Heart Segmentation
+- **ID**: arxiv_2608.31073v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31073v1](http://arxiv.org/abs/2608.31073v1)
+
+## Real-Time Video Anomaly Detection Using YOLO Pose Estimation and CLIP-Based Semantic Scoring
+- **ID**: arxiv_2608.31074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31074v1](http://arxiv.org/abs/2608.31074v1)
+
+## Robust retinal biometrics for patient identity verification and retrieval across age and imaging devices
+- **ID**: arxiv_2608.31094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31094v1](http://arxiv.org/abs/2608.31094v1)
+
+## One Adapter, Many Tasks: Task-Conditioned Feature Transformations for Continual Learning
+- **ID**: arxiv_2608.31096v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31096v1](http://arxiv.org/abs/2608.31096v1)
+
+## DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+- **ID**: arxiv_2608.31106v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31106v1](http://arxiv.org/abs/2608.31106v1)
+
+## VeriCam: A Verification Baseline for the Classification of Unknown Data
+- **ID**: arxiv_2608.31107v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31107v1](http://arxiv.org/abs/2608.31107v1)
+
+## BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives
+- **ID**: arxiv_2608.31113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31113v1](http://arxiv.org/abs/2608.31113v1)
+
+## BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting
+- **ID**: arxiv_2608.31159v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31159v1](http://arxiv.org/abs/2608.31159v1)
 

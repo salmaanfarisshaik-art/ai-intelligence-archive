@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.23709v3",
+  "schema_version": "1.0",
+  "name": "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.23709v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.23709v3",
+    "updated": "2026-08-31T17:40:52Z",
+    "published": "2025-12-29T18:59:57Z",
+    "title": "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion",
+    "summary": "Diffusion-based video super-resolution (VSR) methods deliver strong perceptual quality but are often unsuitable for latency-sensitive scenarios due to reliance on future frames and expensive multi-step denoising. We propose Stream-DiffVSR, a causally conditioned diffusion framework for efficient online VSR. Operating strictly on past frames, Stream-DiffVSR integrates a four-step distilled denoiser for fast inference, an Auto-regressive Temporal Guidance (ARTG) module that injects motion-aligned cues during latent denoising, and a lightweight temporal-aware decoder with a Temporal Processor Module (TPM) to enhance detail and temporal coherence. Unlike chunk-wise streaming inference, our strictly frame-by-frame causal design avoids sequence-level waiting, substantially reducing time-to-first-frame and end-to-end latency. Stream-DiffVSR processes 720p frames in 0.328 seconds on an RTX 4090 and consistently outperforms prior diffusion-based baselines. Compared with the online state-of-the-art TMP, it improves perceptual quality (LPIPS +0.095). Compared with prior diffusion-based VSR methods such as MGLD-VSR, it reduces per-frame runtime by over 130x. Moreover, Stream-DiffVSR substantially lowers time-to-first-frame for diffusion-based VSR, reducing initial delay from over 4600 seconds to 0.328 seconds, making diffusion-based VSR markedly more practical for low-latency online and streaming deployment. Project page: https://jamichss.github.io/stream-diffvsr-project-page/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:40:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.23709v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

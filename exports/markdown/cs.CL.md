@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.05618v2](http://arxiv.org/abs/2508.05618v2)
 
+## SinLlama -- A Large Language Model for Sinhala
+- **ID**: arxiv_2508.09115v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.09115v5](http://arxiv.org/abs/2508.09115v5)
+
 ## Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever
 - **ID**: arxiv_2508.14323v3
 - **Source**: ArXiv
@@ -160,10 +165,25 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.04632v2](http://arxiv.org/abs/2601.04632v2)
 
+## Labels have Human Values: Value Calibration of Subjective Tasks
+- **ID**: arxiv_2601.06631v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.06631v2](http://arxiv.org/abs/2601.06631v2)
+
 ## Entropy Sentinel: Probing Entropy Traces for LLM Monitoring
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.09001v5](http://arxiv.org/abs/2601.09001v5)
+
+## Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues
+- **ID**: arxiv_2601.12868v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.12868v2](http://arxiv.org/abs/2601.12868v2)
+
+## Social Caption: Evaluating Social Understanding in Multimodal Models
+- **ID**: arxiv_2601.14569v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.14569v3](http://arxiv.org/abs/2601.14569v3)
 
 ## ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing
 - **ID**: arxiv_2601.16217v2
@@ -454,6 +474,11 @@
 - **ID**: arxiv_2605.29738v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29738v2](http://arxiv.org/abs/2605.29738v2)
+
+## Exploring Autonomous Agentic Data Engineering for Model Specialization
+- **ID**: arxiv_2605.30407v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30407v3](http://arxiv.org/abs/2605.30407v3)
 
 ## Speculative Decoding and the Curse of Multilinguality
 - **ID**: arxiv_2605.30580v2
@@ -759,6 +784,11 @@
 - **ID**: arxiv_2606.21359v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.21359v2](http://arxiv.org/abs/2606.21359v2)
+
+## SHERLOC: Structured Diagnostic Localization for Code Repair Agents
+- **ID**: arxiv_2606.24820v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.24820v2](http://arxiv.org/abs/2606.24820v2)
 
 ## Forecasting With LLMs: Improved Generalization Through Feature Steering
 - **ID**: arxiv_2606.27199v2
@@ -2109,4 +2139,54 @@
 - **ID**: arxiv_2608.29624v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29624v1](http://arxiv.org/abs/2608.29624v1)
+
+## Improving Information Extraction with Learned Queries
+- **ID**: arxiv_2608.31058v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31058v1](http://arxiv.org/abs/2608.31058v1)
+
+## Every Token Leaves a Ripple in the Stream of Thought: Eliciting Model-Internal Token Saliency for Chain-of-Thought Compression
+- **ID**: arxiv_2608.31066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31066v1](http://arxiv.org/abs/2608.31066v1)
+
+## Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents
+- **ID**: arxiv_2608.31076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31076v1](http://arxiv.org/abs/2608.31076v1)
+
+## The First Token Is a Clue: Verbalizing Multi-Token Concepts from the J-lens
+- **ID**: arxiv_2608.31084v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31084v1](http://arxiv.org/abs/2608.31084v1)
+
+## S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?
+- **ID**: arxiv_2608.31100v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31100v1](http://arxiv.org/abs/2608.31100v1)
+
+## Aspire: Can Models Self-Evolve from Vague Goals?
+- **ID**: arxiv_2608.31111v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31111v1](http://arxiv.org/abs/2608.31111v1)
+
+## PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+- **ID**: arxiv_2608.31119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31119v1](http://arxiv.org/abs/2608.31119v1)
+
+## DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening
+- **ID**: arxiv_2608.31128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31128v1](http://arxiv.org/abs/2608.31128v1)
+
+## Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation
+- **ID**: arxiv_2608.31139v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31139v1](http://arxiv.org/abs/2608.31139v1)
+
+## Context-Aware Interleaved Batching for WhisperX
+- **ID**: arxiv_2608.31170v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31170v1](http://arxiv.org/abs/2608.31170v1)
 

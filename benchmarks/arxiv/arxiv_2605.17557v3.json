@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.17557v3",
+  "schema_version": "1.0",
+  "name": "Real-Time Neural Hair G-Buffer Anti-Aliasing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.17557v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.17557v3",
+    "updated": "2026-08-31T17:25:49Z",
+    "published": "2026-05-17T17:37:57Z",
+    "title": "Real-Time Neural Hair G-Buffer Anti-Aliasing",
+    "summary": "We propose a lightweight real-time method for reconstructing strand-based hair G-Buffers from severely undersampled rasterized inputs. Our pipeline first applies neural spatial reconstruction and temporal accumulation to recover hair coverage, i.e., fractional hair visibility within a pixel, and tangent. It then uses a tangent-guided reconstruction step to complete the position, which is subsequently used for physically based deferred hair shading. We evaluate our method across a diverse set of hairstyles, including straight, wavy, afro, and ponytail styles, under both static and dynamic scenarios. Our method achieves higher hair reconstruction quality than general industrial neural reconstruction solutions such as DLSS and FSR.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:25:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.17557v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

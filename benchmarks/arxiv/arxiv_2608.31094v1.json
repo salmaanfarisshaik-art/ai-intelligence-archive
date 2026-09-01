@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.31094v1",
+  "schema_version": "1.0",
+  "name": "Robust retinal biometrics for patient identity verification and retrieval across age and imaging devices",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.31094v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.31094v1",
+    "updated": "2026-08-31T17:02:39Z",
+    "published": "2026-08-31T17:02:39Z",
+    "title": "Robust retinal biometrics for patient identity verification and retrieval across age and imaging devices",
+    "summary": "Patient identity errors can compromise longitudinal medical records, research databases, and downstream clinical decisions. We present a retinal biometric system for verifying claimed identities and retrieving the correct identity from color fundus images. We trained a 512-dimensional metric-learning encoder combining a ConvNeXtV2 backbone with ArcFace and triplet losses on 227,004 images from 21,851 patient-eye identities in the Rotterdam Study, spanning multiple imaging devices and up to 32.6 years of follow-up. The system was evaluated on held-out Rotterdam Study data and externally on the UK Biobank and Age-Related Eye Disease Study (AREDS). Before evaluation, we used the model to screen for identity inconsistencies and manually adjudicated flagged images, identifying incorrect assignments in 0.588% of Rotterdam Study images, 0.259% of UK Biobank images, and 0.164% of AREDS images. In retrospective-only verification after removing near-duplicate images, the system achieved AUROCs of 0.9998, 0.9997, and 0.9998 in the Rotterdam Study, UK Biobank, and AREDS, respectively. For identity retrieval using only previously acquired images, Recall@1 was 99.7%, 97.2%, and 97.6%, respectively, from galleries averaging 4436-8510 identities; the correct identity appeared among the top five results in at least 98.6% of cases. Performance remained robust across imaging devices and long follow-up intervals, while lower image quality and inconsistent retinal fields accounted for most failures. These findings establish retinal anatomy as a durable biometric signal, useful for safeguarding the integrity of longitudinal imaging records.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:02:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.31094v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

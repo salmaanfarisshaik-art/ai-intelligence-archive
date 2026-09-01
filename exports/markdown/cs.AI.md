@@ -195,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.01189v3](http://arxiv.org/abs/2605.01189v3)
 
+## First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint
+- **ID**: arxiv_2605.02827v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02827v2](http://arxiv.org/abs/2605.02827v2)
+
 ## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
@@ -239,6 +244,11 @@
 - **ID**: arxiv_2605.29563v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
+
+## When Should Models Change Their Minds? Contextual Belief Management in Large Language Models
+- **ID**: arxiv_2605.30219v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30219v2](http://arxiv.org/abs/2605.30219v2)
 
 ## Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation
 - **ID**: arxiv_2606.00232v2
@@ -2010,6 +2020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27454v1](http://arxiv.org/abs/2608.27454v1)
 
+## Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation
+- **ID**: arxiv_2608.28393v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.28393v2](http://arxiv.org/abs/2608.28393v2)
+
 ## COVER: Identifiable Evaluation of Coalition Routing
 - **ID**: arxiv_2608.28475v1
 - **Source**: ArXiv
@@ -2064,4 +2079,44 @@
 - **ID**: arxiv_2608.29646v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29646v1](http://arxiv.org/abs/2608.29646v1)
+
+## Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores
+- **ID**: arxiv_2608.31068v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31068v1](http://arxiv.org/abs/2608.31068v1)
+
+## Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence
+- **ID**: arxiv_2608.31075v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31075v1](http://arxiv.org/abs/2608.31075v1)
+
+## Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization
+- **ID**: arxiv_2608.31077v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31077v1](http://arxiv.org/abs/2608.31077v1)
+
+## Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data
+- **ID**: arxiv_2608.31082v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31082v1](http://arxiv.org/abs/2608.31082v1)
+
+## Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations
+- **ID**: arxiv_2608.31097v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31097v1](http://arxiv.org/abs/2608.31097v1)
+
+## BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing
+- **ID**: arxiv_2608.31105v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31105v1](http://arxiv.org/abs/2608.31105v1)
+
+## When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning
+- **ID**: arxiv_2608.31118v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31118v1](http://arxiv.org/abs/2608.31118v1)
+
+## OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques
+- **ID**: arxiv_2608.31137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31137v1](http://arxiv.org/abs/2608.31137v1)
 

@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.15225v3](http://arxiv.org/abs/2503.15225v3)
 
+## Real-Time Neural Hair G-Buffer Anti-Aliasing
+- **ID**: arxiv_2605.17557v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.17557v3](http://arxiv.org/abs/2605.17557v3)
+
 ## Text-based Tactile Graphics Generation for the Visually Impaired
 - **ID**: arxiv_2607.22674v2
 - **Source**: ArXiv

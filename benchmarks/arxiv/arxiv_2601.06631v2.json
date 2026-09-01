@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.06631v2",
+  "schema_version": "1.0",
+  "name": "Labels have Human Values: Value Calibration of Subjective Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.06631v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.06631v2",
+    "updated": "2026-08-31T17:01:51Z",
+    "published": "2026-01-10T17:29:42Z",
+    "title": "Labels have Human Values: Value Calibration of Subjective Tasks",
+    "summary": "Building NLP systems for subjective tasks requires one to ensure their alignment to contrasting human values. We propose the MultiCalibrated Subjective Task Learner framework (MC-STL), which clusters annotations into identifiable human value clusters by three approaches (similarity of annotator rationales, expert-value taxonomies or rater's sociocultural descriptors) and calibrates predictions for each value cluster by learning cluster-specific embeddings. We demonstrate MC-STL on several subjective learning settings, including ordinal, binary, and preference learning predictions, and evaluate it on multiple datasets covering toxic chatbot conversations, offensive social media posts, and human preference alignment. The results show that MC-STL consistently outperforms the baselines that ignore the latent value structure of the annotations, delivering gains in discrimination, value-specific calibration, and disagreement-aware metrics.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:01:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.06631v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

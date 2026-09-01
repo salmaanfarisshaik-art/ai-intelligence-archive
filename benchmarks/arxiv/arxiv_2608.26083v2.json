@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26083v2",
+  "schema_version": "1.0",
+  "name": "ICON Decomposition: Auditing Deep Neural Networks with Multivariate Variance-based Concept-level Explanations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26083v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26083v2",
+    "updated": "2026-08-31T17:35:50Z",
+    "published": "2026-08-26T17:47:49Z",
+    "title": "ICON Decomposition: Auditing Deep Neural Networks with Multivariate Variance-based Concept-level Explanations",
+    "summary": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Auditing for shortcuts requires testing many candidate concepts, such as acquisition settings or demographics. Current concept-based explainability methods test one concept at a time, asking whether it is decodable from a layer. These methods flag concepts that are merely correlated with the outcome or with each other, and their scores are not comparable across layers or concept types. We introduce ICON decomposition, which quantifies how much of a layer's variance each concept explains given all other concepts and the outcome, and how much none of them explains, yielding layer-comparable, calibrated scores that suppress false positives. On simulated data, ICON recovers concept importance more accurately than seven existing methods. On skin-cancer models with inserted artifacts, it detects induced shortcuts where baselines report false positives. On two brain-imaging models, ICON's sparse explanations are validated by retraining and out-of-distribution tests.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:35:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26083v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.30219v2",
+  "schema_version": "1.0",
+  "name": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.30219v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.30219v2",
+    "updated": "2026-08-31T17:00:56Z",
+    "published": "2026-05-28T16:52:04Z",
+    "title": "When Should Models Change Their Minds? Contextual Belief Management in Large Language Models",
+    "summary": "Long-horizon interactions require language models to manage accumulating information: when to update their state, when to preserve their state, and what to ignore. We study this challenge as Contextual Belief Management (CBM): maintaining a predicted belief state aligned with formal evidence while isolating task-irrelevant noise. To make CBM measurable, we introduce BeliefTrack, a closed-world benchmark spanning Rule Discovery and Circuit Diagnosis, where a finite belief space and symbolic verifiers enable exact turn-level evaluation. BeliefTrack diagnoses three failures: Failed Stay, Failed Update, and Failed Isolation. Across multiple LLMs, vanilla models exhibit severe CBM failures, while explicit belief-tracking prompts provide limited gains. In contrast, reinforcement learning with belief-state rewards reduces failure rates by 70.9% on average. Further probing reveals latent belief-state dynamics behind these failures, and representation-level steering reduces failure rates by 46.1% across two tasks (Code is available at https://github.com/zjunlp/CBM).",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:00:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.30219v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

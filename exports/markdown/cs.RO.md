@@ -405,3 +405,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29601v1](http://arxiv.org/abs/2608.29601v1)
 
+## SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies
+- **ID**: arxiv_2608.31167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31167v1](http://arxiv.org/abs/2608.31167v1)
+

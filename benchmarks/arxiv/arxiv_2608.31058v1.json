@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.31058v1",
+  "schema_version": "1.0",
+  "name": "Improving Information Extraction with Learned Queries",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.31058v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.31058v1",
+    "updated": "2026-08-31T16:35:31Z",
+    "published": "2026-08-31T16:35:31Z",
+    "title": "Improving Information Extraction with Learned Queries",
+    "summary": "When information extraction fails, a natural instinct is to improve the model doing it: for example, by scaling it up or refining its reasoning. In this paper, we show that another part of the pipeline matters at least as much: the queries used to elicit this information. Across four clinical benchmarks and five LLMs, improving the question design alone raises performance by 18.6 F1-score points, i.e. more than using larger extraction models. To make such question design learnable, we introduce List of Questions (LoQ), which generates document-specific question sets, and FeedQ, a feedback-driven optimization method that iteratively refines questions against extraction outcomes. The resulting optimized questions can be used to train lightweight generators: with fine-tuning, 4B-parameter models match or outperform expert-derived baselines and substantially exceed the performance of much larger untuned models. We release a dataset of 12,820 optimized questions to support a broader shift in information extraction research toward treating question design as a first-class problem.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T16:35:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.31058v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

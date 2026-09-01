@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.31170v1",
+  "schema_version": "1.0",
+  "name": "Context-Aware Interleaved Batching for WhisperX",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.31170v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.31170v1",
+    "updated": "2026-08-31T17:59:46Z",
+    "published": "2026-08-31T17:59:46Z",
+    "title": "Context-Aware Interleaved Batching for WhisperX",
+    "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conversely, standard Whisper retains context sequentially but suffers from slow inference and hallucination loops. To achieve the best of both worlds, we propose Context-Aware Interleaved Batching. By using VAD-derived segment boundaries, our algorithm stabilizes Whisper's text conditioning, allowing us to safely maintain continuous historical context across batched audio segments. As demonstrated on long-form audio benchmarks, this approach reduces Word Error Rate (WER) and improves proper noun transcription, all while maintaining high-throughput inference speeds.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T17:59:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.31170v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

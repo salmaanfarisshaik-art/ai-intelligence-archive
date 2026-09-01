@@ -105,6 +105,7 @@
 | [BioSecBench-Surveillance: A Verifiable Benchmark for AI Agents in Pathogen Genomic Surveillance](http://arxiv.org/abs/2607.19262v1) | ArXiv |  | 1 |
 | [Blast Radius](http://arxiv.org/abs/2608.07440v1) | ArXiv |  | 1 |
 | [Blast Radius](http://arxiv.org/abs/2608.07440v2) | ArXiv |  | 1 |
+| [BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing](http://arxiv.org/abs/2608.31105v1) | ArXiv |  | 1 |
 | [Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents](http://arxiv.org/abs/2608.20274v1) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
@@ -140,6 +141,7 @@
 | [COVER: Identifiable Evaluation of Coalition Routing](http://arxiv.org/abs/2608.28475v1) | ArXiv |  | 1 |
 | [CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data](http://arxiv.org/abs/2607.16122v1) | ArXiv |  | 1 |
 | [Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks](http://arxiv.org/abs/2604.01363v2) | ArXiv |  | 1 |
+| [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations](http://arxiv.org/abs/2608.31097v1) | ArXiv |  | 1 |
 | [Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment](http://arxiv.org/abs/2608.16804v1) | ArXiv |  | 1 |
 | [Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](http://arxiv.org/abs/2608.07364v1) | ArXiv |  | 1 |
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
@@ -177,6 +179,7 @@
 | [Fara-1.5: Scalable Learning Environments for Computer Use Agents](http://arxiv.org/abs/2606.20785v2) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
+| [First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint](http://arxiv.org/abs/2605.02827v2) | ArXiv |  | 1 |
 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](http://arxiv.org/abs/2608.07437v1) | ArXiv |  | 1 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
 | [Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v2) | ArXiv |  | 1 |
@@ -271,6 +274,7 @@
 | [On The Statistical Limits of Self-Improving Agents](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | ArXiv |  | 1 |
 | [Online design of dynamic networks](http://arxiv.org/abs/2410.08875v3) | ArXiv |  | 1 |
+| [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques](http://arxiv.org/abs/2608.31137v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v3) | ArXiv |  | 1 |
 | [Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies](http://arxiv.org/abs/2608.02509v1) | ArXiv |  | 1 |
@@ -309,6 +313,7 @@
 | [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](http://arxiv.org/abs/2607.24649v1) | ArXiv |  | 1 |
 | [Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning](http://arxiv.org/abs/2606.13607v1) | ArXiv |  | 1 |
 | [Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models](http://arxiv.org/abs/2606.10949v2) | ArXiv |  | 1 |
+| [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](http://arxiv.org/abs/2608.31077v1) | ArXiv |  | 1 |
 | [Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses](http://arxiv.org/abs/2608.24876v1) | ArXiv |  | 1 |
 | [ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning](http://arxiv.org/abs/2608.03972v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v1) | ArXiv |  | 1 |
@@ -325,6 +330,7 @@
 | [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
 | [ScaffoldAgent: Utility-Guided Dynamic Outline Optimization for Open-Ended Deep Research](http://arxiv.org/abs/2606.20122v2) | ArXiv |  | 1 |
+| [Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](http://arxiv.org/abs/2608.31075v1) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
@@ -374,6 +380,8 @@
 | [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v4) | ArXiv |  | 1 |
 | [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](http://arxiv.org/abs/2606.07157v4) | ArXiv |  | 1 |
 | [Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für ](http://arxiv.org/abs/2604.23859v3) | ArXiv |  | 1 |
+| [Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation](http://arxiv.org/abs/2608.28393v2) | ArXiv |  | 1 |
+| [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](http://arxiv.org/abs/2608.31082v1) | ArXiv |  | 1 |
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
 | [Tool Verification for Test-Time Reinforcement Learning](http://arxiv.org/abs/2603.02203v2) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
@@ -408,13 +416,16 @@
 | [When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding](http://arxiv.org/abs/2608.16801v1) | ArXiv |  | 1 |
 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense](http://arxiv.org/abs/2606.22030v2) | ArXiv |  | 1 |
+| [When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning](http://arxiv.org/abs/2608.31118v1) | ArXiv |  | 1 |
 | [When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning](http://arxiv.org/abs/2605.06772v2) | ArXiv |  | 1 |
 | [When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](http://arxiv.org/abs/2606.16995v1) | ArXiv |  | 1 |
 | [When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives](http://arxiv.org/abs/2608.03722v2) | ArXiv |  | 1 |
 | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](http://arxiv.org/abs/2608.28518v1) | ArXiv |  | 1 |
+| [When Should Models Change Their Minds? Contextual Belief Management in Large Language Models](http://arxiv.org/abs/2605.30219v2) | ArXiv |  | 1 |
 | [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | ArXiv |  | 1 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
+| [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |
 | [Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports](http://arxiv.org/abs/2608.14446v1) | ArXiv |  | 1 |
 | [X+Slides: Benchmarking Audience-Conditioned Slide Generation](http://arxiv.org/abs/2606.19256v1) | ArXiv |  | 1 |
 | [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](http://arxiv.org/abs/2606.18142v1) | ArXiv |  | 1 |

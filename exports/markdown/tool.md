@@ -60,6 +60,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
+## OpenMontage
+- **ID**: gh_1195360525
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+
 ## caveman
 - **ID**: gh_1201173969
 - **Source**: GitHub Trending

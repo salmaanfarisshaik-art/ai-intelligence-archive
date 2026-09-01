@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.01138v4](http://arxiv.org/abs/2606.01138v4)
 
+## The Value of Spike Timing: A Leakage-Resistant Benchmark of SNN Design Choices for Network Intrusion Detection
+- **ID**: arxiv_2606.01442v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01442v2](http://arxiv.org/abs/2606.01442v2)
+
 ## From Privacy to Workflow Integrity: Communication-Graph Metadata in Autonomous Agent Interoperability
 - **ID**: arxiv_2606.07150v3
 - **Source**: ArXiv

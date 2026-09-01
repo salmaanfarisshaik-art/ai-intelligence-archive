@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.31065v1",
+  "schema_version": "1.0",
+  "name": "Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.31065v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.31065v1",
+    "updated": "2026-08-31T16:41:07Z",
+    "published": "2026-08-31T16:41:07Z",
+    "title": "Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery",
+    "summary": "Surgical phase recognition is key to context-aware computer-assisted feedback in vitreoretinal procedures, yet the scarcity of synchronized multimodal intraoperative data, particularly microscope views and intraoperative OCT, limits approaches that aim to replicate the multimodal integration surgeons perform naturally. Surgical narration, by contrast, is abundantly available online and offers rich semantic supervision. Prior work has mainly explored pairwise contrastive learning (e.g., intraoperative OCT-microscope or microscope-narration), leaving the joint modeling of all three modalities largely unexplored. We introduce a framework that uses microscope views as a shared anchor to bridge surgical narrations and intraoperative OCT (iOCT) without requiring a fully synchronized tri-modal dataset, leveraging real microscope-narration videos and a synthetic dataset of synchronized microscope video and tool-aligned iOCT pairs. Contrastive alignment transfers structural priors from the synthetic domain to real videos lacking iOCT, and a dual-head MS-TCN++ integrates the resulting embeddings for joint macro- and micro-phase prediction. Evaluated on real vitreoretinal surgeries, our framework improves macro-phase recognition over a zero-shot baseline (mean F1 0.38 to 0.53) and provides an exploratory route to estimating fine-grained instrument-tissue measurements that are not directly observable in real microscope video alone; these micro-phase estimates are validated quantitatively on synthetic data and shown only qualitatively on real surgery. To our knowledge, this is the first work to unify microscope view, iOCT B-scans, and surgical narrations in a shared latent space for surgical phase recognition.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T07:16:45Z",
+  "last_updated": "2026-08-31T16:41:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.31065v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
