@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.04483v2",
+  "schema_version": "1.0",
+  "name": "Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.04483v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.04483v2",
+    "updated": "2026-08-30T07:55:19Z",
+    "published": "2026-06-03T06:01:47Z",
+    "title": "Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres",
+    "summary": "Existing jailbreaks against aligned LLMs are discrete artifacts whose surface forms are easy to fingerprint and patch. We argue that the broader failure mode may lie not in any specific prompt, but in natural writing registers that safety tuning under-covers. Building on this insight, we introduce VAR, the first jailbreak family that uses real fanfiction subgenres as universal attack carriers: a creative-writing meta prompt is conditioned on passages from one of twelve Archive of Our Own (AO3) subgenres, and the harmful behavior is embedded as the climax of the resulting scene. The construction requires neither an adversarial attacker LLM nor optimization. On eight aligned LLMs over the union of HarmBench and JailbreakBench, this attack lifts mean ASR from 0.278 to 0.731 under a four-judge ensemble; a factorial decomposition shows the gain is carried by register rather than length or structure. Two active defenses widen rather than narrow the vernacular-to-baseline ratio, indicating that template-targeting defenses merely steer attackers toward register-based attacks like ours. We also propose VAR-A4, a static four-turn extension that attains a mean ASR of 0.924, substantially exceeding three existing multi-turn methods. Our code and data are safely open-sourced at https://github.com/T-Lab-CUHKSZ/VAR.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:55:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.04483v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

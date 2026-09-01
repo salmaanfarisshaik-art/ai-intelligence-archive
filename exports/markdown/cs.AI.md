@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning
+- **ID**: arxiv_2602.01695v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.01695v2](http://arxiv.org/abs/2602.01695v2)
+
 ## Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models
 - **ID**: arxiv_2602.02304v3
 - **Source**: ArXiv
@@ -139,6 +144,11 @@
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.24929v2](http://arxiv.org/abs/2603.24929v2)
+
+## View-oriented Conversation Compiler for Agent Trace Analysis
+- **ID**: arxiv_2603.29678v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.29678v3](http://arxiv.org/abs/2603.29678v3)
 
 ## Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks
 - **ID**: arxiv_2604.01363v2
@@ -229,6 +239,11 @@
 - **ID**: arxiv_2605.29563v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29563v2](http://arxiv.org/abs/2605.29563v2)
+
+## Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation
+- **ID**: arxiv_2606.00232v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.00232v2](http://arxiv.org/abs/2606.00232v2)
 
 ## Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight
 - **ID**: arxiv_2606.00424v2
@@ -459,6 +474,11 @@
 - **ID**: arxiv_2606.19327v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19327v1](http://arxiv.org/abs/2606.19327v1)
+
+## ScaffoldAgent: Utility-Guided Dynamic Outline Optimization for Open-Ended Deep Research
+- **ID**: arxiv_2606.20122v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20122v2](http://arxiv.org/abs/2606.20122v2)
 
 ## Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions
 - **ID**: arxiv_2606.20459v1
@@ -2019,4 +2039,29 @@
 - **ID**: arxiv_2608.28553v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28553v1](http://arxiv.org/abs/2608.28553v1)
+
+## Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation
+- **ID**: arxiv_2608.29588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29588v1](http://arxiv.org/abs/2608.29588v1)
+
+## Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines
+- **ID**: arxiv_2608.29589v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29589v1](http://arxiv.org/abs/2608.29589v1)
+
+## Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security
+- **ID**: arxiv_2608.29596v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29596v1](http://arxiv.org/abs/2608.29596v1)
+
+## LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge
+- **ID**: arxiv_2608.29612v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29612v1](http://arxiv.org/abs/2608.29612v1)
+
+## Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems
+- **ID**: arxiv_2608.29646v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29646v1](http://arxiv.org/abs/2608.29646v1)
 

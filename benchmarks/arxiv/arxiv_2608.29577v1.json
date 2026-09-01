@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2608.29577v1",
+  "schema_version": "1.0",
+  "name": "TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29577v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29577v1",
+    "updated": "2026-08-30T05:46:13Z",
+    "published": "2026-08-30T05:46:13Z",
+    "title": "TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection",
+    "summary": "Traditional video highlight detection relies on a narrow, event-centric definition of saliency, which often fails to generalize to unconstrained personal videos where highlights are heterogeneous and perspective-dependent. To address this, we introduce TRINITY, a multi-perspective benchmark that decomposes highlight saliency into three complementary dimensions, Event, Emotion, and Nature, within a unified temporal framework. Leveraging this multi-faceted view, we propose a shared-backbone multi-branch architecture designed for parallel multi-perspective prediction via view-specific experts. Comprehensive experiments demonstrate that our method significantly outperforms state-of-the-art baselines, achieving gains of +7.15/+3.62 mAP (rho=15%/50%) on Mr. HiSum and +10.82 mAP on YouTube Highlights. These results validate that multi-perspective modeling provides a more robust and comprehensive formulation of video saliency, especially for complex real-world scenarios. The benchmark and relevant codes will be released upon acceptance. The benchmark is available at https://huggingface.co/datasets/vanilladucky/TRINITY and the code is available at https://github.com/vanilladucky/TRINITY.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T05:46:13Z",
+  "links": {
+    "related_models": [
+      "datasets/vanilladucky"
+    ],
+    "related_papers": [
+      "2608.29577v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

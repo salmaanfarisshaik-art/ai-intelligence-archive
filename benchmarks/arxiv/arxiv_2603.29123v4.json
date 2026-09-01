@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.29123v4",
+  "schema_version": "1.0",
+  "name": "Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.29123v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.29123v4",
+    "updated": "2026-08-30T07:28:02Z",
+    "published": "2026-03-31T01:20:03Z",
+    "title": "Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models",
+    "summary": "The next-token prediction (NTP) objective trains language models to predict a single token at each step, even though many continuations can express the same meaning. For example, in the sentence ``this sticker can be placed here'', positioned, attached, or put are all plausible alternatives. While standard NTP training treats these alternatives as mutually exclusive targets, we explore a self-supervised framework that encourages models to predict concepts, approximated as sets of semantically equivalent tokens. Models trained with this concept supervision align better with human similarity judgments, improve classification, clustering, and reranking performance, and achieve comparable or stronger downstream reasoning. These gains come with lower perplexity on semantically meaningful words (Section 3.2) and only minimal increases in global perplexity, suggesting that concepts enhance semantic alignment while preserving language modeling quality. Our code is available at https://github.com/christine-zhang1/learning-concepts",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:28:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.29123v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

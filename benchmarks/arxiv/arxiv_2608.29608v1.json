@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29608v1",
+  "schema_version": "1.0",
+  "name": "Wide Learning: Learning to Reach Evidence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29608v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29608v1",
+    "updated": "2026-08-30T06:58:50Z",
+    "published": "2026-08-30T06:58:50Z",
+    "title": "Wide Learning: Learning to Reach Evidence",
+    "summary": "Machine learning is usually evaluated after an evidence interface has been fixed. A dataset, sensor suite, query language, action set, or experimental protocol determines which observations can be obtained, and learning is judged by what it extracts from them. We study a complementary capability. A learner's state can determine which evidence-generating experiments it can reliably realise under bounded resources, even when primitive affordances remain fixed. We call this learner-relative experiment family its effective epistemic reach, and use Wide Learning for task-relevant learning-induced changes in that family.We formalise effective reach relative to learner state, deployment budget, reliability threshold, and evaluation distribution. In a controlled construction, two hidden worlds have exactly the same public observation law. An informative diagnostic exists in a fixed five-primitive substrate. Before calibration, one address attempt realises it with probability at most $2^{-10} = 1/1024$, below a pre-specified 0.95 threshold; after calibration, held-out realisation is 1. Public-channel total variation is 0, whereas the realised diagnostic has total variation 1, and sealed binary risk moves from approximately 1/2 to 0. The construction establishes that learning can change effective epistemic reach even when primitive affordances and deployment resources are held fixed. It opens a complementary evaluation question for learning systems: not only what they infer from available evidence, but what informative evidence experience teaches them to bring within reach.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:58:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29608v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29612v1",
+  "schema_version": "1.0",
+  "name": "LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29612v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29612v1",
+    "updated": "2026-08-30T07:05:49Z",
+    "published": "2026-08-30T07:05:49Z",
+    "title": "LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge",
+    "summary": "Sustained scientific work requires a knowledge substrate that carries interpretation across tasks and preserves paths to source evidence. We call this process \\emph{scientific knowledge compilation} and implement it in ASKS, the \\emph{Agent-Driven Scientific Knowledge System}. For each source, an LLM produces a readable Wiki view and machine-facing semantics. Deterministic checks convert the latter into a document-local GraphDelta, and embedding geometry together with explicit graph rules integrates the proposed changes into persistent state. Each ingest is an inspectable state transition over accumulated knowledge, with compiled Wiki and graph views linked to the preserved source record. We examine this process by chronologically compiling 56 published papers from one research program. Branch survival, cross-paper support, lineage, coverage, and churn yield a source-traceable author research portrait centered on tensor-network methods, with branches into quantum many-body research, tensor-network machine learning, and quantum-AI-oriented directions. In this run, higher-level Hub organization remains stable and low-churn. Canonical-node growth is predominantly additive. Graph-level measurements and navigation paths retain links to the source records from which they were compiled.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:05:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29612v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

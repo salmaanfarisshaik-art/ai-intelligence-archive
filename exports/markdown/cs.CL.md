@@ -80,6 +80,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.05618v2](http://arxiv.org/abs/2508.05618v2)
 
+## Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever
+- **ID**: arxiv_2508.14323v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.14323v3](http://arxiv.org/abs/2508.14323v3)
+
+## Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection
+- **ID**: arxiv_2508.20766v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.20766v2](http://arxiv.org/abs/2508.20766v2)
+
 ## Steering Multimodal Large Language Models Decoding for Context-Aware Safety
 - **ID**: arxiv_2509.19212v2
 - **Source**: ArXiv
@@ -225,6 +235,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16410v2](http://arxiv.org/abs/2603.16410v2)
 
+## MemoNoveltyAgent: A Historical Research Memory-Aware Agent Workflow for Paper Novelty Assessment
+- **ID**: arxiv_2603.20884v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.20884v4](http://arxiv.org/abs/2603.20884v4)
+
 ## Gumbel Distillation for Parallel Text Generation
 - **ID**: arxiv_2603.22216v2
 - **Source**: ArXiv
@@ -244,6 +259,11 @@
 - **ID**: arxiv_2603.25821v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.25821v3](http://arxiv.org/abs/2603.25821v3)
+
+## Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models
+- **ID**: arxiv_2603.29123v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.29123v4](http://arxiv.org/abs/2603.29123v4)
 
 ## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
 - **ID**: arxiv_2604.02512v2
@@ -425,6 +445,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.28818v2](http://arxiv.org/abs/2605.28818v2)
 
+## Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents
+- **ID**: arxiv_2605.29224v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29224v2](http://arxiv.org/abs/2605.29224v2)
+
 ## Multi-Legal-Bench: Evaluating LLMs on Legal Reasoning Across Jurisdictions, Languages, and Legal Traditions
 - **ID**: arxiv_2605.29738v2
 - **Source**: ArXiv
@@ -449,6 +474,11 @@
 - **ID**: arxiv_2606.02955v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02955v2](http://arxiv.org/abs/2606.02955v2)
+
+## Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres
+- **ID**: arxiv_2606.04483v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04483v2](http://arxiv.org/abs/2606.04483v2)
 
 ## How reliable are LLMs when it comes to playing dice?
 - **ID**: arxiv_2606.07515v2
@@ -749,6 +779,11 @@
 - **ID**: arxiv_2606.28876v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.28876v3](http://arxiv.org/abs/2606.28876v3)
+
+## Tastes without distinction: silicon samples and the synthetic construction of tastes
+- **ID**: arxiv_2606.30085v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.30085v2](http://arxiv.org/abs/2606.30085v2)
 
 ## CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield
 - **ID**: arxiv_2606.31796v2
@@ -1790,6 +1825,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23152v2](http://arxiv.org/abs/2608.23152v2)
 
+## Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation
+- **ID**: arxiv_2608.23152v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23152v3](http://arxiv.org/abs/2608.23152v3)
+
 ## How Useful are LLMs for Grammar Engineering? Cantonese ParGram Resources and Controlled Experimental Evaluation with English Baselines
 - **ID**: arxiv_2608.23448v1
 - **Source**: ArXiv
@@ -1930,6 +1970,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27380v1](http://arxiv.org/abs/2608.27380v1)
 
+## D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection
+- **ID**: arxiv_2608.27380v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27380v2](http://arxiv.org/abs/2608.27380v2)
+
 ## RATIO: A Benchmark for Retrieval Across Typed Ideation Operations in Scientific Literature
 - **ID**: arxiv_2608.27394v1
 - **Source**: ArXiv
@@ -2004,4 +2049,64 @@
 - **ID**: arxiv_2608.28560v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28560v1](http://arxiv.org/abs/2608.28560v1)
+
+## Which one is banana man? Evaluating vision-language models in multi-turn pragmatic interpretation
+- **ID**: arxiv_2608.29571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29571v1](http://arxiv.org/abs/2608.29571v1)
+
+## SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents
+- **ID**: arxiv_2608.29575v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29575v1](http://arxiv.org/abs/2608.29575v1)
+
+## SUP-MIMIC: A Multi-Task Clinical Diagnosis Benchmark for Evaluating LLMs' Robustness to Contradictory Evidence
+- **ID**: arxiv_2608.29582v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29582v1](http://arxiv.org/abs/2608.29582v1)
+
+## How You Ask Shapes What You Get: A Theory-Seeded Measurement of Articulation in Advice-Seeking LLM Conversations
+- **ID**: arxiv_2608.29591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29591v1](http://arxiv.org/abs/2608.29591v1)
+
+## Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit
+- **ID**: arxiv_2608.29605v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29605v1](http://arxiv.org/abs/2608.29605v1)
+
+## Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents
+- **ID**: arxiv_2608.29606v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29606v1](http://arxiv.org/abs/2608.29606v1)
+
+## Beyond Surface Alignment: Grounding the Dynamics of Situational Understanding and Generative Control in LLMs
+- **ID**: arxiv_2608.29610v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29610v1](http://arxiv.org/abs/2608.29610v1)
+
+## Cross-lingual Functional Vectors for Emotion Detection in Large Language Models
+- **ID**: arxiv_2608.29613v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29613v1](http://arxiv.org/abs/2608.29613v1)
+
+## JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction
+- **ID**: arxiv_2608.29616v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29616v1](http://arxiv.org/abs/2608.29616v1)
+
+## Memory-First Fact-Checking: A Knowledge-Graph-Grounded Multi-Agent System for Misinformation Detection
+- **ID**: arxiv_2608.29617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29617v1](http://arxiv.org/abs/2608.29617v1)
+
+## MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation
+- **ID**: arxiv_2608.29623v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29623v1](http://arxiv.org/abs/2608.29623v1)
+
+## PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization
+- **ID**: arxiv_2608.29624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29624v1](http://arxiv.org/abs/2608.29624v1)
 

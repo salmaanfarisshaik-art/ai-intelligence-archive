@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29589v1",
+  "schema_version": "1.0",
+  "name": "Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29589v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29589v1",
+    "updated": "2026-08-30T06:19:46Z",
+    "published": "2026-08-30T06:19:46Z",
+    "title": "Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines",
+    "summary": "Text-to-image (T2I) safety guardrails fail to generalize equitably to non-standard dialects. Evaluating 23,080 paired prompts across five English dialects, we formalize this failure as the dialect penalty, where filters trigger based on linguistic surface features rather than semantic intent. Text-level filters fail in opposing directions: NSFW-T over-flags benign dialect prompts and LatentGuard over-flags toxic ones (bias gaps up to +28.29 pp), while the OpenAI Moderation API under-detects them. A controlled typo ablation confirms this penalty originates from flagging dialectal features, not generic out-of-distribution sensitivity. The pixel-level generator is largely dialect-agnostic; the penalty enters at text processing and cascades unevenly to post-hoc guardrails. We show this bias tracks training data imbalance and is mitigable via group-balanced retraining, with an ablation attributing the gain to balanced exposure rather than to the worst-group objective of GroupDRO (group distributionally robust optimization). Current pipelines systematically fail dialect speakers, an equity failure masked by mean accuracy benchmarks. Our official code and dataset are publicly available at https://github.com/minguinho26/dialect-penalty-t2i.\n  Content Warning: This paper contains offensive, toxic, or disturbing text prompts and generated images.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:19:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29589v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

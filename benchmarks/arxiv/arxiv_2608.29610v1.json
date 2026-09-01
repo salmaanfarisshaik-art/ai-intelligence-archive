@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29610v1",
+  "schema_version": "1.0",
+  "name": "Beyond Surface Alignment: Grounding the Dynamics of Situational Understanding and Generative Control in LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29610v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29610v1",
+    "updated": "2026-08-30T07:04:03Z",
+    "published": "2026-08-30T07:04:03Z",
+    "title": "Beyond Surface Alignment: Grounding the Dynamics of Situational Understanding and Generative Control in LLMs",
+    "summary": "The current alignment tuning paradigm for Large Language Models (LLMs) prioritizes surface-level behaviors -- fluency, safety, and tonal consistency. While effective for casual chat, this thesis argues that such surface alignment masks a lack of grounding, creating models that are stylistically confident but situationally brittle. We propose a framework of Grounded Alignment, analyzing how models process context (Input) and structure generation (Output), then aligning these grounded behaviors to human needs.\n  First, we evaluate failures in Situational Grounding. SitTest shows that despite large context windows, state-of-the-art models struggle to maintain a consistent \"mental model\" of a changing environment. ReCode further shows that models rely on surface heuristics rather than deep syntactic dependencies: they \"read\" extensive histories without truly \"understanding\" the evolving situation.\n  Second, we evaluate Generative Grounding. We introduce the Branching Factor (BF) to map LLM generation, finding that standard alignment tuning constricts this landscape into premature stylistic collapse. Hindsight further shows that models often fail to understand their own generations.\n  Finally, we propose Dynamic Control for grounded interaction. AI Realtor demonstrates context engineering to compensate for poor situational grounding. Base-Aligned Model Collaboration decouples exploration from stylistic constraints. We also present Annealed Sampling for verifiable reinforcement learning and apply these ideas to Addiction Support, where model-generated rationalization offers a communication interface for high-stakes domains. Collectively, this work moves beyond surface alignment toward agents anchored in both context and generation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:04:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29610v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

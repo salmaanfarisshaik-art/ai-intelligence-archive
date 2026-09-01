@@ -94,6 +94,7 @@
 | [Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations](http://arxiv.org/abs/2606.17005v1) | ArXiv |  | 1 |
 | [Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization](http://arxiv.org/abs/2606.13658v1) | ArXiv |  | 1 |
 | [Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](http://arxiv.org/abs/2607.15715v2) | ArXiv |  | 1 |
+| [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
 | [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](http://arxiv.org/abs/2608.20768v2) | ArXiv |  | 1 |
 | [Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](http://arxiv.org/abs/2606.13621v1) | ArXiv |  | 1 |
 | [Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning](http://arxiv.org/abs/2607.21558v1) | ArXiv |  | 1 |
@@ -107,6 +108,7 @@
 | [Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents](http://arxiv.org/abs/2608.20274v1) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
+| [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | ArXiv |  | 1 |
 | [Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](http://arxiv.org/abs/2608.18017v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
@@ -145,6 +147,7 @@
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
 | [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | ArXiv |  | 1 |
+| [Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems](http://arxiv.org/abs/2608.29646v1) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](http://arxiv.org/abs/2607.06503v2) | ArXiv |  | 1 |
@@ -229,6 +232,7 @@
 | [Linguistic Monoculture in LLM-Assisted Language Use](http://arxiv.org/abs/2607.27134v1) | ArXiv |  | 1 |
 | [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
 | [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) | ArXiv |  | 1 |
+| [LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](http://arxiv.org/abs/2608.29612v1) | ArXiv |  | 1 |
 | [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](http://arxiv.org/abs/2607.18228v1) | ArXiv |  | 1 |
 | [LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics](http://arxiv.org/abs/2603.24929v2) | ArXiv |  | 1 |
 | [Logos: An Agent Harness on a Cross-Process Bus](http://arxiv.org/abs/2608.28553v1) | ArXiv |  | 1 |
@@ -259,6 +263,7 @@
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
 | [NEURON: A Neuro-symbolic System for Grounded Clinical Explainability](http://arxiv.org/abs/2605.01189v3) | ArXiv |  | 1 |
 | [Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance](http://arxiv.org/abs/2608.27340v1) | ArXiv |  | 1 |
+| [Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines](http://arxiv.org/abs/2608.29589v1) | ArXiv |  | 1 |
 | [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | ArXiv |  | 1 |
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
@@ -319,9 +324,11 @@
 | [Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](http://arxiv.org/abs/2608.20237v1) | ArXiv |  | 1 |
 | [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
+| [ScaffoldAgent: Utility-Guided Dynamic Outline Optimization for Open-Ended Deep Research](http://arxiv.org/abs/2606.20122v2) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
+| [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
@@ -372,6 +379,7 @@
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
 | [Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks](http://arxiv.org/abs/2607.25914v1) | ArXiv |  | 1 |
+| [Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v1) | ArXiv |  | 1 |
 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1) | ArXiv |  | 1 |
 | [Towards Expert-level Medical AI for Real-time Video Consultations](http://arxiv.org/abs/2608.09861v1) | ArXiv |  | 1 |
 | [Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](http://arxiv.org/abs/2608.11238v2) | ArXiv |  | 1 |
@@ -390,6 +398,7 @@
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
 | [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1) | ArXiv |  | 1 |
+| [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |
 | [Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight](http://arxiv.org/abs/2606.00424v2) | ArXiv |  | 1 |
 | [WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning](http://arxiv.org/abs/2606.18147v1) | ArXiv |  | 1 |
 | [What AI Red-Team Evaluations Can and Cannot Prove](http://arxiv.org/abs/2607.21735v2) | ArXiv |  | 1 |

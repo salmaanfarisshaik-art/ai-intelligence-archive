@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.26861v4",
+  "schema_version": "1.0",
+  "name": "Evaluating Perspectival Biases in Cross-Modal Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.26861v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.26861v4",
+    "updated": "2026-08-30T07:18:10Z",
+    "published": "2025-10-30T16:31:36Z",
+    "title": "Evaluating Perspectival Biases in Cross-Modal Retrieval",
+    "summary": "Multimodal retrieval systems are expected to operate in a semantic space, agnostic to the language or cultural origin of the query. In practice, however, retrieval outcomes systematically reflect perspectival biases: deviations shaped by linguistic prevalence and cultural associations. We introduce the Cross-Cultural, Cross-Modal, Cross-lingual Multimodal (3XCM) benchmark to isolate these effects. Results from our studies indicate that, for image-to-text retrieval, models tend to favor entries from prevalent languages over those that are semantically faithful. For text-to-image retrieval, we observe a consistent \"tugging effect\" in the joint embedding space between semantic alignment and language-conditioned cultural association. When semantic representations are insufficiently resolved, particularly in low-resource languages, similarity is increasingly governed by culturally familiar visual patterns, leading to systematic association bias in retrieval. Our findings suggest that achieving equitable multimodal retrieval necessitates targeted strategies that explicitly decouple language from culture, rather than relying solely on broader data exposure. This work highlights the need to treat linguistic and cultural biases as distinct, measurable challenges in multimodal representation learning.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:18:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.26861v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

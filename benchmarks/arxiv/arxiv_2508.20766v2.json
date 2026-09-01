@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.20766v2",
+  "schema_version": "1.0",
+  "name": "Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.20766v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.20766v2",
+    "updated": "2026-08-30T07:43:32Z",
+    "published": "2025-08-28T13:22:33Z",
+    "title": "Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection",
+    "summary": "Safety alignment in Large Language Models (LLMs) often involves mediating internal representations to refuse harmful requests. Recent research has demonstrated that these safety mechanisms can be bypassed by ablating or removing specific representational directions within the model. In this paper, we propose the opposite approach: Rank-One Safety Injection (ROSI), a white-box method that amplifies a model's safety alignment by permanently steering its activations toward the refusal-mediating subspace. ROSI operates as a simple, fine-tuning-free rank-one weight modification applied to all residual stream write matrices. The required safety direction can be computed from a small set of harmful and harmless instruction pairs. We show that ROSI consistently increases safety refusal rates - as evaluated by Llama Guard 3 - while preserving the utility of the model on standard benchmarks such as MMLU, HellaSwag, and Arc. Furthermore, we show that ROSI can also re-align 'uncensored' models by amplifying their own latent safety directions, demonstrating its utility as an effective last-mile safety procedure. Our results suggest that targeted, interpretable weight steering is a cheap and potent mechanism to improve LLM safety, complementing more resource-intensive fine-tuning paradigms.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:43:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.20766v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

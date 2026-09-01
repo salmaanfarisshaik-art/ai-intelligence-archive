@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.01695v2",
+  "schema_version": "1.0",
+  "name": "Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.01695v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.01695v2",
+    "updated": "2026-08-30T08:34:46Z",
+    "published": "2026-02-02T06:08:35Z",
+    "title": "Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning",
+    "summary": "Latent reasoning reduces the token-generation cost of chain-of-thought reasoning by replacing explicit intermediate tokens with continuous latent transitions. However, existing latent reasoning methods usually rely on dense and entangled transitions, making their reasoning trajectories difficult to inspect or intervene on. We introduce LSTR (Latent Sparse Transcoder Reasoning), a framework that turns sparse transcoders from post-hoc diagnostic tools into in-loop, intervenable transition components for latent reasoning. At each latent step, a Latent Transition Transcoder (LTT) combines a linear skip path with a Top-k sparse innovation path, exposing a small set of active sparse features. Under matched compression settings, LSTR offers a mechanistically inspectable alternative to dense latent reasoning. On GSM8K-Aug, ablating only a few top-active sparse features reduces accuracy by up to 16.5%, whereas analogous interventions have much smaller effects in dense latent baselines. These results indicate that the active sparse features are causally involved in the latent transition process, rather than merely post-hoc descriptors. Additional experiments on mathematical benchmarks and StrategyQA suggest that sparse latent transitions can preserve the compression benefits of latent reasoning while making the resulting trajectories more inspectable and intervenable.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T08:34:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.01695v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

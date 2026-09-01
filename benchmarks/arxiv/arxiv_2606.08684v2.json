@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08684v2",
+  "schema_version": "1.0",
+  "name": "BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08684v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08684v2",
+    "updated": "2026-08-30T06:24:22Z",
+    "published": "2026-06-07T15:37:16Z",
+    "title": "BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving",
+    "summary": "We present BLUE, a minimal method for better language use in vision-language-action (VLA) models for autonomous driving (AD). Through extensive analysis, we reveal that language matters on only a small fraction of routes, but on those routes it can greatly improve or degrade performance. Generating language at every frame is therefore inefficient, since most computation is spent on frames that do not benefit from language. We further show that pretrained VLA hidden states potentially already encode whether language will benefit a given frame, even though scene complexity and kinematic features alone struggle to predict this. Based on this finding, BLUE trains a lightweight gate on frozen VLA hidden states to decide per frame whether to activate language generation or predict actions directly, without modifying the backbone or requiring additional human annotation. With just a 0.11M-parameter gate, BLUE sets a new state of the art on both benchmarks, achieving 76.2% success rate on Bench2Drive and 36 driving score on Longest6 v2, while delivering 2.54x inference speedup and 8.9% success rate improvement over the backbone. BLUE provides a practical path toward efficient language-augmented AD, showing that VLA models can retain the benefits of language at a fraction of the cost. Our code, data, logs and checkpoints are fully available on https://github.com/George-Ling3/BLUE.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:24:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08684v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

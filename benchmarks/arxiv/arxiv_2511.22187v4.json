@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.22187v4",
+  "schema_version": "1.0",
+  "name": "HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.22187v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.22187v4",
+    "updated": "2026-08-31T05:54:25Z",
+    "published": "2025-11-27T07:53:16Z",
+    "title": "HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving",
+    "summary": "Realistic and controllable simulation is critical for advancing end-to-end autonomous driving, yet existing approaches often struggle to support novel view synthesis under large viewpoint changes or to ensure geometric consistency. We introduce HybridWorldSim, a hybrid simulation framework that integrates multi-traversal neural reconstruction for static backgrounds with generative modeling for dynamic agents. This unified design addresses key limitations of previous methods, enabling the creation of diverse and high-fidelity driving scenarios with reliable visual and spatial consistency. To facilitate robust benchmarking, we further release a new multi-traversal dataset MIRROR that captures a wide range of routes and environmental conditions across different cities. Extensive experiments demonstrate that HybridWorldSim surpasses previous state-of-the-art methods, providing a practical and scalable solution for high-fidelity simulation and a valuable resource for research and development in autonomous driving.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-31T05:54:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.22187v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29590v1",
+  "schema_version": "1.0",
+  "name": "Guardrail-Agnostic Societal Bias Evaluation in Large Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29590v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29590v1",
+    "updated": "2026-08-30T06:22:16Z",
+    "published": "2026-08-30T06:22:16Z",
+    "title": "Guardrail-Agnostic Societal Bias Evaluation in Large Vision-Language Models",
+    "summary": "We propose a societal bias evaluation method for large vision-language models (LVLMs) in the era of strong safety guardrails. Existing benchmarks rely on prompts that ask models to infer attributes of people in images (e.g., \"Is this person a CEO or a secretary?\"). However, we find that LVLMs with strong guardrails, such as GPT and Claude, often refuse these prompts, making evaluations unreliable. To address this, we change the prior evaluation paradigm by decoupling the task from the depicted person: instead of inferring person's attributes, we use prompts that do not ask about the person (e.g., \"Write a fictional story about an imaginary person.\") and attach the image as provisional user information to implicitly provide demographic cues, then compare outputs across user demographics. Instantiated across three tasks --- story generation, term explanation, and exam-style QA --- our method avoids refusals even in guardrailed LVLMs, enabling reliable bias measurement. Applying it to 20 recent LVLMs, both open-source and proprietary, we find that all models undesirably use user demographic information in person-irrelevant tasks; for instance, characters in stories are often portrayed as mechanic for male users and nurse for female users. Although still biased, proprietary models like GPT-5 show lower bias than open-source ones. We analyze potential factors behind this gap, discussing continuous model monitoring and improvement as a possible contributor for reducing bias.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:22:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29590v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

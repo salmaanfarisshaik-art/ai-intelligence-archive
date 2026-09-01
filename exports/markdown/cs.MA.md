@@ -35,3 +35,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23541v1](http://arxiv.org/abs/2608.23541v1)
 
+## Forward-Deployed Full-Stack Engineering for Autonomous Cloud MLOps
+- **ID**: arxiv_2608.29615v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29615v1](http://arxiv.org/abs/2608.29615v1)
+
+## AgenticRag-R1: Agentic Reinforcement Learning with Stack Memory for Multi-Step Reasoning, Retrieval and Memorizing
+- **ID**: arxiv_2608.29622v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29622v1](http://arxiv.org/abs/2608.29622v1)
+

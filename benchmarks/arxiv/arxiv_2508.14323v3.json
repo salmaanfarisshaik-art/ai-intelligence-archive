@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.14323v3",
+  "schema_version": "1.0",
+  "name": "Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.14323v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.14323v3",
+    "updated": "2026-08-30T08:32:33Z",
+    "published": "2025-08-20T00:35:50Z",
+    "title": "Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever",
+    "summary": "Tool-augmented LLMs invoke external functions to extend their capabilities, but errors in the invocation decision, such as calling a tool when none is needed or omitting a needed call, can produce unreliable outputs and unnecessary cost. A lightweight remedy is to prepend retrieved examples so LLMs decide tool use in context. However, existing retrievers rank examples by semantic similarity alone. Lexically close or semantically close queries can require opposite behavior, so the retrieved examples may be behaviorally inconsistent and silently mislead the model. We propose Behavior Aligned Retrieval (BAR), a backbone-agnostic training recipe that teaches a dense retriever a behavior-aware similarity, keeping semantically related candidates close only when their tool-use behavior is compatible. BAR does not predict invocation labels; instead, it ranks demonstrations while leaving the final tool-use decision to the LLM. Applied to multiple retrieval backbones, including BERT, Contriever, and Qwen-based representation backbone, BAR consistently improves invocation reliability and reduces unnecessary API calls across 14 LLMs and 3 benchmarks.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T08:32:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.14323v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

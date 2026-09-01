@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29604v1",
+  "schema_version": "1.0",
+  "name": "RePair: Turning Retrieval Failures into Counterfactual Hard Pairs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29604v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29604v1",
+    "updated": "2026-08-30T06:47:38Z",
+    "published": "2026-08-30T06:47:38Z",
+    "title": "RePair: Turning Retrieval Failures into Counterfactual Hard Pairs",
+    "summary": "Vision-language retrieval with CLIP-style dual encoders achieves strong cross-modal performance, yet practical accuracy often hinges on localized semantic distinctions where top-ranked near misses differ from the true match by a single critical detail. Hard-sample mining can select confusable candidates but cannot construct corrected counterparts; synthetic augmentation can generate novel samples but, without conditioning on actual model failures, targets irrelevant dimensions of hardness. We observe that a top-ranked false positive is a counterfactual scaffold---sharing most of the query's semantics while differing in a localized failure-causing residual. Minimally correcting this residual yields a hard positive of the ground truth in the same modality; the corrected and unedited versions form a hard negative pair that straddles the decision boundary, producing complementary pull--push supervision. We introduce RePair, guided by three principles---Validity, Minimality, and Locality---which mines false positives bidirectionally, applies LLM-guided counterfactual editing, and trains with a local hard-pair contrastive objective. On Flickr30K and COCO30K, RePair outperforms controlled augmentation baselines with only 107K synthetic samples---26\\%--75\\% fewer than comparable methods---confirming failure-conditioned repair is more data-efficient than error-agnostic augmentation.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:47:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29604v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

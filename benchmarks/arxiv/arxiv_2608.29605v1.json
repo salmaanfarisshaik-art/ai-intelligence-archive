@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29605v1",
+  "schema_version": "1.0",
+  "name": "Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29605v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29605v1",
+    "updated": "2026-08-30T06:53:13Z",
+    "published": "2026-08-30T06:53:13Z",
+    "title": "Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit",
+    "summary": "Memory operations of long-horizon LLM agents are hard to supervise: an operation's value is unobservable when it is taken. But they are special -- they leave machine-readable evidence in the trajectory: retrieval hits and answer-time citations. Hindsight Memory-PRM exploits this audit trail twice: offline to train an operation-conditioned memory-utility critic, and online, where retrievals, citations, and one controlled deletion-and-reanswer per probe settle an intervention-calibrated entry-level presence credit, propagated along version chains as an action-level proxy reward -- no per-operation human labels, no Monte-Carlo replay of continuations. On held-out LoCoMo a local 8B policy reaches 77.5% under a fixed shared reader, surpassing its API teacher (65.1%) and all reproduced external systems, at one eighth the context of Mem0's official operating point; on LongMemEval, 79.0%. Ablations attribute the gain to causal calibration rather than signal density, and the policy converges to a multi-version memory organization whose gains no tested open-loop baseline reproduces.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T06:53:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29605v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

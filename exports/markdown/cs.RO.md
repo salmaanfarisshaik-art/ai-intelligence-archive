@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16673v5](http://arxiv.org/abs/2603.16673v5)
 
+## PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking
+- **ID**: arxiv_2603.19305v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.19305v3](http://arxiv.org/abs/2603.19305v3)
+
 ## Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis
 - **ID**: arxiv_2604.01463v2
 - **Source**: ArXiv
@@ -394,4 +399,9 @@
 - **ID**: arxiv_2608.28578v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28578v1](http://arxiv.org/abs/2608.28578v1)
+
+## $\mathcal{N}_0$-Foundation: Towards the Age of Tactile Intelligence
+- **ID**: arxiv_2608.29601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29601v1](http://arxiv.org/abs/2608.29601v1)
 

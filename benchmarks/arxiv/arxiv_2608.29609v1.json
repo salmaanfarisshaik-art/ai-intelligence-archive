@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29609v1",
+  "schema_version": "1.0",
+  "name": "nnMNet: Baseline for Martian Terrain Semantic Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29609v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29609v1",
+    "updated": "2026-08-30T07:03:33Z",
+    "published": "2026-08-30T07:03:33Z",
+    "title": "nnMNet: Baseline for Martian Terrain Semantic Segmentation",
+    "summary": "Semantic segmentation is a crucial task for understanding Mars, the most Earth-like planet in our solar system. However, it is challenging because the Martian surface is highly unstructured and complex, making accurate pixel-level prediction and fine-grained annotation difficult. Recent advancements in deep learning have introduced numerous methods and datasets to address these challenges. Nevertheless, the field lacks a robust, publicly available, and reproducible baseline, as well as a unified benchmark to facilitate fair evaluations. In this work, we present nnMNet, a new baseline model designed for Martian terrain semantic segmentation. Building upon nnWNet, we integrate linear attention to better capture global context and employ lightweight convolutions to reduce computational overhead. To bridge the gap between local and global representations, we introduce the Spatially-Aware Fusion Block (SAFB), which augments and combines features with diverse characteristics. Furthermore, we establish a new benchmark by curating and standardizing three high-quality datasets for thorough evaluation. nnMNet achieves new state-of-the-art 86.61%, 83.25%, and 88.24% mIoU on SynMars-TW, SynMars-Air, and MarsScapes, respectively. Our code, models, and datasets are publicly available at https://github.com/dereklee0310/nnMNet.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:03:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29609v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

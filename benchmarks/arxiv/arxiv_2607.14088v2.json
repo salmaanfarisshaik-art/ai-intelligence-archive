@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.14088v2",
+  "schema_version": "1.0",
+  "name": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.14088v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.14088v2",
+    "updated": "2026-08-30T05:28:39Z",
+    "published": "2026-07-15T17:59:23Z",
+    "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+    "summary": "Video generation models typically rely on 3D-VAEs trained for pixel-level reconstruction, whose latent spaces may underrepresent semantic structure. We introduce VideoRAE, a representation autoencoder that converts features from a frozen video foundation model into compact, reconstruction-capable latents for video generation. A lightweight 1D self-attention projector compresses multi-scale hierarchical features, producing continuous latents for Diffusion Transformers and discrete tokens for autoregressive models through multi-codebook high-dimensional quantization. During decoding, a local-global representation alignment objective transfers semantic structure from the frozen encoder and removes the need for KL regularization. Comprehensive experiments show that VideoRAE achieves strong reconstruction in both continuous and discrete regimes. On UCF-101, autoregressive and diffusion generators built on VideoRAE achieve class-conditional gFVD scores of 40 and 93, respectively, while converging approximately five times faster than autoencoder baselines. In controlled 2B-parameter text-to-video experiments, replacing LTX-VAE with VideoRAE accelerates convergence and consistently improves VBench performance. These results establish frozen video foundation representations as compact, versatile, and generation-friendly video latents. Code and models are available at https://zhxie0117.github.io/VideoRAE/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T05:28:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.14088v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

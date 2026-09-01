@@ -280,6 +280,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.20809v2](http://arxiv.org/abs/2511.20809v2)
 
+## HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving
+- **ID**: arxiv_2511.22187v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.22187v4](http://arxiv.org/abs/2511.22187v4)
+
 ## DM3D: Dynamic Mamba via Offset-Guided Feature Resampling for Point Cloud Understanding
 - **ID**: arxiv_2512.03424v4
 - **Source**: ArXiv
@@ -545,6 +550,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.12608v3](http://arxiv.org/abs/2605.12608v3)
 
+## Pareto-Guided Optimal Transport for Multi-Reward Alignment
+- **ID**: arxiv_2605.13155v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.13155v2](http://arxiv.org/abs/2605.13155v2)
+
 ## ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
 - **ID**: arxiv_2605.15375v2
 - **Source**: ArXiv
@@ -599,6 +609,11 @@
 - **ID**: arxiv_2606.06158v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06158v2](http://arxiv.org/abs/2606.06158v2)
+
+## BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving
+- **ID**: arxiv_2606.08684v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08684v2](http://arxiv.org/abs/2606.08684v2)
 
 ## From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting
 - **ID**: arxiv_2606.11381v3
@@ -1059,6 +1074,11 @@
 - **ID**: arxiv_2607.13656v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13656v2](http://arxiv.org/abs/2607.13656v2)
+
+## VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders
+- **ID**: arxiv_2607.14088v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14088v2](http://arxiv.org/abs/2607.14088v2)
 
 ## MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos
 - **ID**: arxiv_2607.15211v1
@@ -3249,4 +3269,44 @@
 - **ID**: arxiv_2608.28568v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28568v1](http://arxiv.org/abs/2608.28568v1)
+
+## TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection
+- **ID**: arxiv_2608.29577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29577v1](http://arxiv.org/abs/2608.29577v1)
+
+## Guardrail-Agnostic Societal Bias Evaluation in Large Vision-Language Models
+- **ID**: arxiv_2608.29590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29590v1](http://arxiv.org/abs/2608.29590v1)
+
+## SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions
+- **ID**: arxiv_2608.29607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29607v1](http://arxiv.org/abs/2608.29607v1)
+
+## nnMNet: Baseline for Martian Terrain Semantic Segmentation
+- **ID**: arxiv_2608.29609v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29609v1](http://arxiv.org/abs/2608.29609v1)
+
+## See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning
+- **ID**: arxiv_2608.29611v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29611v1](http://arxiv.org/abs/2608.29611v1)
+
+## CineForge: Self-Improving Agents for Long-Horizon Video Generation
+- **ID**: arxiv_2608.29621v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29621v1](http://arxiv.org/abs/2608.29621v1)
+
+## SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images
+- **ID**: arxiv_2608.29626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29626v1](http://arxiv.org/abs/2608.29626v1)
+
+## Conducting Stylistic Analysis of Paintings through an Art-History Agent
+- **ID**: arxiv_2608.29644v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29644v1](http://arxiv.org/abs/2608.29644v1)
 

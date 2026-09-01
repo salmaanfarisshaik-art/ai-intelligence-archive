@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29644v1",
+  "schema_version": "1.0",
+  "name": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29644v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29644v1",
+    "updated": "2026-08-30T08:10:58Z",
+    "published": "2026-08-30T08:10:58Z",
+    "title": "Conducting Stylistic Analysis of Paintings through an Art-History Agent",
+    "summary": "Attributing an artwork to an artist has traditionally relied on detailed visual observations and descriptions, known as stylistic analysis in art history. By contrast, current artificial intelligence (AI) models used in the field offer only unexplained probabilistic classifications. To bridge this methodological gap, we present an AI framework that automates stylistic analysis of paintings, providing a foundation for enhancing evidence collection, discovery, and verification. By training a vision transformer (ViT) on a large corpus of paintings with metadata, our system encodes this art history-specific data as embeddings. These representations are factorized via sparse dictionary learning into a shared set of features that recur across the training set. A large language model (LLM) then interprets each feature by retrieving associated artworks and their accompanying curator-written texts, and synthesizes them into descriptions that reflect their stylistic attributes. Finally, an autonomous coordinator LLM applies a reasoning-and-action (ReAct) framework to weight, test, and refine these features into cohesive descriptions of an artwork, or comparisons of artworks. This approach converts detailed visual features into descriptive terms, addressing a key challenge in art history. It thus connects the use of images as data with the semantic concerns of humanists, establishing vision-based computational art history as an area for future growth.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T08:10:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29644v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

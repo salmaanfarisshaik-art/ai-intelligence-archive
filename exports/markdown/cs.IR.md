@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.15436v2](http://arxiv.org/abs/2508.15436v2)
 
+## Evaluating Perspectival Biases in Cross-Modal Retrieval
+- **ID**: arxiv_2510.26861v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.26861v4](http://arxiv.org/abs/2510.26861v4)
+
 ## From Noise to Order: Learning to Rank via Denoising Diffusion
 - **ID**: arxiv_2602.11453v3
 - **Source**: ArXiv
@@ -109,4 +114,9 @@
 - **ID**: arxiv_2608.27366v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27366v1](http://arxiv.org/abs/2608.27366v1)
+
+## RePair: Turning Retrieval Failures into Counterfactual Hard Pairs
+- **ID**: arxiv_2608.29604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29604v1](http://arxiv.org/abs/2608.29604v1)
 

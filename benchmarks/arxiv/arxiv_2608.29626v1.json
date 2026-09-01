@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29626v1",
+  "schema_version": "1.0",
+  "name": "SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29626v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29626v1",
+    "updated": "2026-08-30T07:38:25Z",
+    "published": "2026-08-30T07:38:25Z",
+    "title": "SPLG-Mamba: Structure-Preserving Local-Global Mamba Network for Salient Object Detection in Optical Remote Sensing Images",
+    "summary": "Salient object detection in optical remote sensing images (ORSI-SOD) requires dense predictions that preserve object completeness and structural continuity under complex backgrounds, scale variation, and irregular object shapes. Existing methods often localize salient regions, but their predictions may still suffer from structural degradation, including fragmented, incomplete, or locally missing foreground responses. This degradation is closely related to hierarchical feature propagation, where shallow details can introduce texture-induced background responses, deep semantics may over-smooth weak structures, and uncontrolled cross-scale fusion can disturb coherent regions. To address this issue, we propose a novel Structure-Preserving Local-Global Mamba Network, SPLG-Mamba, for ORSI-SOD. Specifically, SPLG-Mamba integrates Smooth-Detail Recalibration (SDR), hierarchy-aware Local-Global Mamba, and Gated Cross-Scale Fusion (GCSF). SDR recalibrates smoothed responses and detail residuals before state-space modeling, Local-Global Mamba assigns local modeling to shallow feature levels and global modeling to deep feature levels, and GCSF controls cross-scale detail injection during decoding. Experiments on ORSSD, EORSSD, and ORSI-4199 demonstrate state-of-the-art results and improved structural completeness and continuity. The code is available at https://github.com/yxu9910/SPLG-Mamba",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:38:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29626v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

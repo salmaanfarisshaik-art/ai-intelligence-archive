@@ -1115,3 +1115,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28557v1](http://arxiv.org/abs/2608.28557v1)
 
+## Wide Learning: Learning to Reach Evidence
+- **ID**: arxiv_2608.29608v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29608v1](http://arxiv.org/abs/2608.29608v1)
+
+## LLMODE: Aligning ODEs with LLMs via Gated Token Injection for Irregular Spatio-Temporal Forecasting
+- **ID**: arxiv_2608.29640v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29640v1](http://arxiv.org/abs/2608.29640v1)
+

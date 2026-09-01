@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.29611v1",
+  "schema_version": "1.0",
+  "name": "See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.29611v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.29611v1",
+    "updated": "2026-08-30T07:04:28Z",
+    "published": "2026-08-30T07:04:28Z",
+    "title": "See the Change, Keep the Flow: Unsupervised Action Segmentation via Spectral-Temporal Representation Learning",
+    "summary": "Unsupervised action segmentation aims to discover latent action categories and their temporal organization without action annotations. Optimal transport-based methods provide structured frame-to-action assignments, however, their pseudo-label quality is fundamentally conditioned on the representation space used to construct the transport cost. We argue that reliable OT pseudo-labeling requires a representation geometry that is simultaneously sensitive to discriminative action changes and coherent along local temporal progressions. Based on this insight, we propose SpecT-OT, a spectral-temporal representation learning framework built upon an unbalanced optimal transport pseudo-labeling concept. SpecT-OT introduces a Spectral Reparameterization Projector (SRP), which parameterizes projector weights with fixed Fourier bases and learnable coefficients to improve the modeling of rapidly varying discriminative features, and Temporal Affinity Regularization (TAR), which imposes distance-aware, label-free constraints on pairwise frame affinities to stabilize local temporal structure. The two components jointly produce more discriminative and temporally stable transport costs, yielding more reliable pseudo-labels for iterative representation learning. Experiments on four benchmarks demonstrate strong performance compared with state-of-the-art methods. SpecT-OT achieves the best results on 13 of 15 metrics, including 4.1-point MoF and 7.4-point F1 gains over the baseline on Breakfast and Desktop Assembly, respectively.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:04:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.29611v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

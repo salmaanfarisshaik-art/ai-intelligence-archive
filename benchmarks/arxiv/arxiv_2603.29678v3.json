@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.29678v3",
+  "schema_version": "1.0",
+  "name": "View-oriented Conversation Compiler for Agent Trace Analysis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.29678v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.29678v3",
+    "updated": "2026-08-30T07:03:27Z",
+    "published": "2026-03-31T12:33:49Z",
+    "title": "View-oriented Conversation Compiler for Agent Trace Analysis",
+    "summary": "We observe that an agent trace is a structured document. A coding agent session contains user turns, assistant text, chain of thought blocks, tool calls, tool results, subagent invocations, compaction boundaries, and harness injected directives, and may exceed ten thousand JSONL lines. Effective trace analysis requires a lossless record, a session level overview, and content retrieval with conversational roles. To this end, we propose VCC, namely View oriented Conversation Compiler, which lexes, parses, and lowers a raw JSONL log into three views based on one intermediate representation. The full view provides the lossless transcript and defines the line number coordinate system. The UI view reconstructs the interaction perceived by the user. The adaptive view selects relevant trace content and preserves role annotations and line range pointers. Line numbers are assigned before view lowering, ensuring that all pointers can be resolved to the full view. We evaluate VCC in a context engineering experiment on AppWorld by varying the input format of the reflector. Experiments with three model configurations and two test splits show that VCC improves aggregate task goal pass rates by 1.1 to 4.2 points, reduces reflector token consumption by one half to two thirds, and generates smaller memory files. These results demonstrate the effectiveness of trace format as an important component of context engineering infrastructure.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-01T01:38:50Z",
+  "last_updated": "2026-08-30T07:03:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.29678v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
