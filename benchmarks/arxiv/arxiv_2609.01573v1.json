@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.01573v1",
+  "schema_version": "1.0",
+  "name": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.01573v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.01573v1",
+    "updated": "2026-09-01T17:39:55Z",
+    "published": "2026-09-01T17:39:55Z",
+    "title": "Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs",
+    "summary": "How to divide a fixed annotation budget between supervised fine-tuning (SFT) and reinforcement learning (RL) during LLM post-training remains an open problem. Existing work characterizes only broad trends (e.g., SFT dominates in low-data regimes), lacks a principled allocation framework, and does not examine whether the optimal ratio transfers across model sizes. We frame this problem in terms of near-optimality: rather than seeking a single optimal SFT-RL ratio, we characterize the near-optimal region, the set of allocations within a specified tolerance of peak performance. Empirically, this region is wide even for small tolerances (2-10%), widens with model scale, and transfers reliably from small proxy models to large target models. This yields a practical strategy: small proxy-model experiments suffice to identify a transferable near-optimal region, eliminating the need for exhaustive large-scale search. Our results hold consistently across tasks, model families, and both preference-based off-policy and reward-supervision on-policy RL methods. We further analyze how the asymmetry in annotation costs between SFT and RL data shifts the near-optimal region.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-02T07:38:50Z",
+  "last_updated": "2026-09-01T17:39:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.01573v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

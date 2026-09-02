@@ -15,8 +15,8 @@
     "base_model:finetune:mistralai/Mistral-Small-24B-Instruct-2501",
     "license:apache-2.0",
     "endpoints_compatible",
-    "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

@@ -190,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27618v2](http://arxiv.org/abs/2604.27618v2)
 
+## D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery
+- **ID**: arxiv_2604.27977v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.27977v4](http://arxiv.org/abs/2604.27977v4)
+
 ## NEURON: A Neuro-symbolic System for Grounded Clinical Explainability
 - **ID**: arxiv_2605.01189v3
 - **Source**: ArXiv
@@ -554,6 +559,11 @@
 - **ID**: arxiv_2606.29150v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29150v2](http://arxiv.org/abs/2606.29150v2)
+
+## Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners
+- **ID**: arxiv_2606.29150v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29150v3](http://arxiv.org/abs/2606.29150v3)
 
 ## Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents
 - **ID**: arxiv_2606.29495v2
@@ -2119,4 +2129,24 @@
 - **ID**: arxiv_2608.31137v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31137v1](http://arxiv.org/abs/2608.31137v1)
+
+## When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation
+- **ID**: arxiv_2609.01519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01519v1](http://arxiv.org/abs/2609.01519v1)
+
+## EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation
+- **ID**: arxiv_2609.01526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01526v1](http://arxiv.org/abs/2609.01526v1)
+
+## Can LLMs Discover Scientific Laws in Real and Parallel Worlds?
+- **ID**: arxiv_2609.01552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01552v1](http://arxiv.org/abs/2609.01552v1)
+
+## Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers
+- **ID**: arxiv_2609.01567v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01567v1](http://arxiv.org/abs/2609.01567v1)
 

@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06331v1](http://arxiv.org/abs/2608.06331v1)
 
+## Relational-Core Graph Analytics Querying graphs at SQL scale, and why the node/edge model is a performance tax, not a truer picture of connected data
+- **ID**: arxiv_2609.01525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01525v1](http://arxiv.org/abs/2609.01525v1)
+

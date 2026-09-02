@@ -112,6 +112,7 @@
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | ArXiv |  | 1 |
 | [Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](http://arxiv.org/abs/2608.18017v1) | ArXiv |  | 1 |
+| [Can LLMs Discover Scientific Laws in Real and Parallel Worlds?](http://arxiv.org/abs/2609.01552v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](http://arxiv.org/abs/2608.20271v1) | ArXiv |  | 1 |
@@ -144,6 +145,7 @@
 | [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations](http://arxiv.org/abs/2608.31097v1) | ArXiv |  | 1 |
 | [Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment](http://arxiv.org/abs/2608.16804v1) | ArXiv |  | 1 |
 | [Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](http://arxiv.org/abs/2608.07364v1) | ArXiv |  | 1 |
+| [D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery](http://arxiv.org/abs/2604.27977v4) | ArXiv |  | 1 |
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
 | [Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](http://arxiv.org/abs/2608.12385v2) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
@@ -170,6 +172,7 @@
 | [Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating](http://arxiv.org/abs/2607.24667v1) | ArXiv |  | 1 |
 | [Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav](http://arxiv.org/abs/2608.24764v1) | ArXiv |  | 1 |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
+| [EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation](http://arxiv.org/abs/2609.01526v1) | ArXiv |  | 1 |
 | [Explainable Reinforcement Learning for assisting Air Traffic Controllers](http://arxiv.org/abs/2607.22525v1) | ArXiv |  | 1 |
 | [Explanation-Bound Tool Execution for AI Agents: Server-Verified Action Claims Without Trusting Model Rationales](http://arxiv.org/abs/2607.25364v2) | ArXiv |  | 1 |
 | [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](http://arxiv.org/abs/2607.29677v1) | ArXiv |  | 2 |
@@ -183,6 +186,7 @@
 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](http://arxiv.org/abs/2608.07437v1) | ArXiv |  | 1 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
 | [Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v2) | ArXiv |  | 1 |
+| [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v3) | ArXiv |  | 1 |
 | [FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](http://arxiv.org/abs/2606.20518v1) | ArXiv |  | 1 |
 | [Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
 | [From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production](http://arxiv.org/abs/2502.19507v2) | ArXiv |  | 1 |
@@ -333,6 +337,7 @@
 | [Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](http://arxiv.org/abs/2608.31075v1) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
+| [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
 | [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
@@ -418,6 +423,7 @@
 | [When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense](http://arxiv.org/abs/2606.22030v2) | ArXiv |  | 1 |
 | [When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning](http://arxiv.org/abs/2608.31118v1) | ArXiv |  | 1 |
 | [When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning](http://arxiv.org/abs/2605.06772v2) | ArXiv |  | 1 |
+| [When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation](http://arxiv.org/abs/2609.01519v1) | ArXiv |  | 1 |
 | [When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning](http://arxiv.org/abs/2606.16995v1) | ArXiv |  | 1 |
 | [When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Diagnostic for Machine Collectives](http://arxiv.org/abs/2608.03722v2) | ArXiv |  | 1 |
 | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](http://arxiv.org/abs/2608.28518v1) | ArXiv |  | 1 |

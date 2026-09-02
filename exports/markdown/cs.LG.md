@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2405.16440v2](http://arxiv.org/abs/2405.16440v2)
 
+## Keep Everyone Happy: Online Fair Division of Numerous Items with Few Copies
+- **ID**: arxiv_2408.12845v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2408.12845v3](http://arxiv.org/abs/2408.12845v3)
+
 ## OTIS: Learning High-Quality Time Series Features With Tiny Encoders
 - **ID**: arxiv_2410.07299v3
 - **Source**: ArXiv
@@ -205,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.17121v4](http://arxiv.org/abs/2604.17121v4)
 
+## The Topological Trouble With Transformers
+- **ID**: arxiv_2604.17121v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.17121v5](http://arxiv.org/abs/2604.17121v5)
+
 ## Reward Score Matching: Unifying Reward-based Fine-tuning for Flow and Diffusion Models
 - **ID**: arxiv_2604.17415v4
 - **Source**: ArXiv
@@ -259,6 +269,11 @@
 - **ID**: arxiv_2605.14599v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.14599v2](http://arxiv.org/abs/2605.14599v2)
+
+## Universal Approximation of Nonlinear Operators and Their Derivatives
+- **ID**: arxiv_2605.15285v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15285v3](http://arxiv.org/abs/2605.15285v3)
 
 ## Amplifying, Not Learning: The Price of Out-of-Distribution Generalization in AI-Text Detection
 - **ID**: arxiv_2605.21653v2
@@ -1139,4 +1154,19 @@
 - **ID**: arxiv_2608.31069v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31069v1](http://arxiv.org/abs/2608.31069v1)
+
+## A Mathematical Theory of Reusable Neural Bases for Network Compression
+- **ID**: arxiv_2609.01550v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01550v1](http://arxiv.org/abs/2609.01550v1)
+
+## Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories
+- **ID**: arxiv_2609.01556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01556v1](http://arxiv.org/abs/2609.01556v1)
+
+## The Structure of Quantization Damage in LLMs: Why the Next Bit Should Be Spent Globally
+- **ID**: arxiv_2609.01587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01587v1](http://arxiv.org/abs/2609.01587v1)
 

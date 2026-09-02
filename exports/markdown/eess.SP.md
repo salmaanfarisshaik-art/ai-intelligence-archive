@@ -1,5 +1,10 @@
 # Eess.Sp Export
 
+## Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding
+- **ID**: arxiv_2605.00865v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00865v4](http://arxiv.org/abs/2605.00865v4)
+
 ## Machine Learning Assisted Inverse Design of Pixelated mmWave Patch Antennas
 - **ID**: arxiv_2608.23469v1
 - **Source**: ArXiv

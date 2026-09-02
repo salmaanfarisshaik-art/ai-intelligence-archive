@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.01575v1",
+  "schema_version": "1.0",
+  "name": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.01575v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.01575v1",
+    "updated": "2026-09-01T17:40:29Z",
+    "published": "2026-09-01T17:40:29Z",
+    "title": "Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics",
+    "summary": "Extracting structured fields from hundreds of millions of documents annually remains costly in regulated industries: bespoke OCR cascades cover only a fraction of workflows, privacy rules preclude external models, and existing open-source VLMs that clear quality thresholds cost more to serve than human annotation. We present a deployed document-understanding system built on a Mixture-of-Experts VLM (35B total, 3B active), fine-tuned on in-house production data mixed with open-domain documents curated by a Difficulty-Aware pipeline for layout diversity, fact-extractability, and cross-model consistency. Fitting on a single H100 and serving heterogeneous workflows via prompting, the model leads all deployable (non-reasoning) baselines up to an order of magnitude larger. A quality-adjusted cost analysis, with confirmation and correction costs calibrated from production telemetry, shows it reduces expected costs by over 80% against the human baseline and by more than 50% against the best competing open-source model, while larger baselines remain economically unviable.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-02T07:38:50Z",
+  "last_updated": "2026-09-01T17:40:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.01575v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

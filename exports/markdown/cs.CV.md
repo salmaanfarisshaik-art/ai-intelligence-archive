@@ -280,6 +280,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.14159v4](http://arxiv.org/abs/2511.14159v4)
 
+## A Machine Learning-Driven Solution for Denoising Inertial Confinement Fusion Images
+- **ID**: arxiv_2511.16717v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.16717v3](http://arxiv.org/abs/2511.16717v3)
+
 ## Layer-Aware Video Composition via Split-then-Merge
 - **ID**: arxiv_2511.20809v2
 - **Source**: ArXiv
@@ -559,6 +564,11 @@
 - **ID**: arxiv_2605.10894v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.10894v2](http://arxiv.org/abs/2605.10894v2)
+
+## Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images
+- **ID**: arxiv_2605.12413v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12413v4](http://arxiv.org/abs/2605.12413v4)
 
 ## A Data Efficiency Study of Synthetic Fog for Object Detection Using the Clear2Fog Pipeline
 - **ID**: arxiv_2605.12608v3
@@ -1084,6 +1094,11 @@
 - **ID**: arxiv_2607.12254v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.12254v2](http://arxiv.org/abs/2607.12254v2)
+
+## Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition
+- **ID**: arxiv_2607.13345v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13345v2](http://arxiv.org/abs/2607.13345v2)
 
 ## FreeLit: Paired-Free Indoor Relighting via Physics-Guided Diffusion
 - **ID**: arxiv_2607.13656v2
@@ -2855,6 +2870,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16859v1](http://arxiv.org/abs/2608.16859v1)
 
+## HarnessEval-W: Agentifying the Evaluation of Visual Worlds
+- **ID**: arxiv_2608.16859v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.16859v2](http://arxiv.org/abs/2608.16859v2)
+
 ## SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis
 - **ID**: arxiv_2608.16863v1
 - **Source**: ArXiv
@@ -3374,4 +3394,44 @@
 - **ID**: arxiv_2608.31159v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31159v1](http://arxiv.org/abs/2608.31159v1)
+
+## Revisiting Cross-View Completion: Self-Supervised Pre-Training via Reconstruction Error Comparison
+- **ID**: arxiv_2609.01530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01530v1](http://arxiv.org/abs/2609.01530v1)
+
+## What, Where, and How: Probing Spatiotemporal Representations in Video Foundation Models
+- **ID**: arxiv_2609.01551v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01551v1](http://arxiv.org/abs/2609.01551v1)
+
+## BS: Take the Hint - Interactive Multitracer PET/CT Lesion Segmentation with a Scribble-Conditioned ResEnc U-Net
+- **ID**: arxiv_2609.01554v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01554v1](http://arxiv.org/abs/2609.01554v1)
+
+## H3-World: Turning Language Understanding into World Control
+- **ID**: arxiv_2609.01560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01560v1](http://arxiv.org/abs/2609.01560v1)
+
+## SpatialGuard: Harness-Guided Verifiable Spatial Reasoning for Text-to-Image Generation
+- **ID**: arxiv_2609.01582v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01582v1](http://arxiv.org/abs/2609.01582v1)
+
+## A Benchmark for Vehicle Attribute Classification in Cross-Domain Surveillance Scenarios
+- **ID**: arxiv_2609.01584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01584v1](http://arxiv.org/abs/2609.01584v1)
+
+## UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture
+- **ID**: arxiv_2609.01598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01598v1](http://arxiv.org/abs/2609.01598v1)
+
+## Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System
+- **ID**: arxiv_2609.01607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01607v1](http://arxiv.org/abs/2609.01607v1)
 

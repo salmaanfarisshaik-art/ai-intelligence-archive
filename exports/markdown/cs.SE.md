@@ -205,3 +205,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31142v1](http://arxiv.org/abs/2608.31142v1)
 
+## Adaptive Critical Token-Aware Retrieval for Repository-Level Code Generation
+- **ID**: arxiv_2609.01601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01601v1](http://arxiv.org/abs/2609.01601v1)
+
+## Efficient SWE Agent Benchmarking via Trajectory-Aware Evaluation
+- **ID**: arxiv_2609.01603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01603v1](http://arxiv.org/abs/2609.01603v1)
+

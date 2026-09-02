@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.01598v1",
+  "schema_version": "1.0",
+  "name": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.01598v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.01598v1",
+    "updated": "2026-09-01T17:58:54Z",
+    "published": "2026-09-01T17:58:54Z",
+    "title": "UI-VISA: U-Net Initialized Vascular Image Segmentation Architecture",
+    "summary": "Accurate segmentation of vascular structures in digital subtraction angiography (DSA) images remains challenging due to the thin, elongated, and branching nature of blood vessels. Pixel-wise deep learning approaches such as U-Net achieve strong general-purpose segmentation performance but often produce fragmented or discontinuous predictions in fine vascular regions, since they do not explicitly enforce structural connectivity. Region growing algorithms preserve spatial context and topological continuity, but are highly sensitive to seed point initialization and can be computationally expensive. We propose UI-VISA (U-Net Initialized Vascular Image Segmentation Architecture), a hybrid pipeline that combines the complementary strengths of both approaches. UI-VISA uses U-Net's foreground predictions as informed seed points for a CNN-guided region growing algorithm, which then iteratively refines the segmentation by enforcing local connectivity and recovering fine vessel details that U-Net alone tends to miss or over-predict. We evaluate UI-VISA against standalone U-Net and a prior region-growing-based method (VISA) using 5-fold cross-validation on 26 DSA images. UI-VISA achieves the highest mean Dice and clDice scores across folds, and a paired Wilcoxon signed-rank test shows the improvement in clDice is statistically significant ($p=0.023$), consistent with the method's design goal of preserving vascular connectivity, while the improvement in Dice does not reach significance ($p=0.104$).",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-02T07:38:50Z",
+  "last_updated": "2026-09-01T17:58:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.01598v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

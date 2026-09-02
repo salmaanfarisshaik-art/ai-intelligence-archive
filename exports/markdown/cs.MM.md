@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02549v1](http://arxiv.org/abs/2608.02549v1)
 
+## Can LLMs Design Video Coding Tools? A Case Study on Planar Mode
+- **ID**: arxiv_2609.01535v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01535v1](http://arxiv.org/abs/2609.01535v1)
+

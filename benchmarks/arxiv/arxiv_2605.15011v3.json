@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.15011v3",
+  "schema_version": "1.0",
+  "name": "The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.15011v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.15011v3",
+    "updated": "2026-09-01T16:48:54Z",
+    "published": "2026-05-14T16:12:12Z",
+    "title": "The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale",
+    "summary": "Scientific contributions rarely develop in isolation, but instead build upon prior discoveries. We formulate the task of automated technological roadmapping as extracting scientific contributions from scholarly articles and linking them to their prerequisites. We present the Scientific Contribution Graph, a large-scale resource containing 6 million detailed scientific contributions extracted from 655k open-access papers spanning computer science, medicine, biology, physics, chemistry, and other sciences, and connected by 36 million prerequisite edges. We further introduce scientific prerequisite prediction, a scientific discovery task in which models predict which existing technologies can enable future discoveries, and show that contemporary models are rapidly improving on this task, reaching 0.48 MAP when evaluated using temporally-filtered backtesting. We anticipate technological roadmapping resources such as this will support scientific impact assessment and automated scientific discovery.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-02T07:38:50Z",
+  "last_updated": "2026-09-01T16:48:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.15011v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

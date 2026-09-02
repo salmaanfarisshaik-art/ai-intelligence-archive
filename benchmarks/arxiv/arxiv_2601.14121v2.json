@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.14121v2",
+  "schema_version": "1.0",
+  "name": "NewsRECON: News Article Retrieval for Image Contextualization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.14121v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.14121v2",
+    "updated": "2026-09-01T16:56:55Z",
+    "published": "2026-01-20T16:15:53Z",
+    "title": "NewsRECON: News Article Retrieval for Image Contextualization",
+    "summary": "Identifying when and where a news image was taken is crucial for journalists and forensic experts to produce credible stories and debunk misinformation. While many existing methods rely on reverse image search (RIS) engines, these tools often fail to return results, thereby limiting their practical applicability. In this work, we address the challenging scenario where RIS evidence is unavailable. We investigate the potential of news article corpora as an alternative to RIS, linking images to relevant articles to infer their dates and locations from article metadata. We evaluate the performance of a news article retrieval pipeline, NewsRECON, which leverages a corpus of over 85,000 articles. Experiments on the TARA dataset show that NewsRECON outperforms prior work and can be combined with a multimodal large language model (MLLM) to achieve new SOTA results in the absence of RIS evidence. Furthermore, NewsRECON generalizes to the 5Pils-OOC benchmark despite geographic and temporal shifts. We make our code available.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-02T07:38:50Z",
+  "last_updated": "2026-09-01T16:56:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.14121v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

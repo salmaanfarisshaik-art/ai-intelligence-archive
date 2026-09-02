@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
 
+## Self-EmoQ: Plutchik-Guided Value-based Planning to Drive Streaming Emotional TTS
+- **ID**: arxiv_2606.09837v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09837v2](http://arxiv.org/abs/2606.09837v2)
+
 ## Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour
 - **ID**: arxiv_2606.18129v1
 - **Source**: ArXiv
@@ -74,4 +79,9 @@
 - **ID**: arxiv_2608.19083v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19083v1](http://arxiv.org/abs/2608.19083v1)
+
+## Designing Proactive Thought Partners for Writing
+- **ID**: arxiv_2609.01588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01588v1](http://arxiv.org/abs/2609.01588v1)
 

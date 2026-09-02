@@ -180,6 +180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12868v2](http://arxiv.org/abs/2601.12868v2)
 
+## NewsRECON: News Article Retrieval for Image Contextualization
+- **ID**: arxiv_2601.14121v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.14121v2](http://arxiv.org/abs/2601.14121v2)
+
 ## Social Caption: Evaluating Social Understanding in Multimodal Models
 - **ID**: arxiv_2601.14569v3
 - **Source**: ArXiv
@@ -254,6 +259,11 @@
 - **ID**: arxiv_2603.16410v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16410v2](http://arxiv.org/abs/2603.16410v2)
+
+## MineDraft: A Framework for Batch Parallel Speculative Decoding
+- **ID**: arxiv_2603.18016v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18016v3](http://arxiv.org/abs/2603.18016v3)
 
 ## MemoNoveltyAgent: A Historical Research Memory-Aware Agent Workflow for Paper Novelty Assessment
 - **ID**: arxiv_2603.20884v4
@@ -435,10 +445,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.12227v2](http://arxiv.org/abs/2605.12227v2)
 
+## The Scientific Contribution Graph: Automated Literature-based Technological Roadmapping at Scale
+- **ID**: arxiv_2605.15011v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15011v3](http://arxiv.org/abs/2605.15011v3)
+
 ## Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language
 - **ID**: arxiv_2605.15607v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15607v2](http://arxiv.org/abs/2605.15607v2)
+
+## Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs
+- **ID**: arxiv_2605.20382v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20382v3](http://arxiv.org/abs/2605.20382v3)
 
 ## Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs
 - **ID**: arxiv_2605.21027v2
@@ -1790,6 +1810,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19197v2](http://arxiv.org/abs/2608.19197v2)
 
+## FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models
+- **ID**: arxiv_2608.20153v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20153v2](http://arxiv.org/abs/2608.20153v2)
+
 ## Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
 - **ID**: arxiv_2608.20281v1
 - **Source**: ArXiv
@@ -2189,4 +2214,59 @@
 - **ID**: arxiv_2608.31170v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31170v1](http://arxiv.org/abs/2608.31170v1)
+
+## Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+- **ID**: arxiv_2609.01532v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01532v1](http://arxiv.org/abs/2609.01532v1)
+
+## SDARE-Bench: Evaluating Large Language Models on Conversational Stigma Detection and Response in Dyadic and Group Dialogue
+- **ID**: arxiv_2609.01548v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01548v1](http://arxiv.org/abs/2609.01548v1)
+
+## A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains
+- **ID**: arxiv_2609.01563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01563v1](http://arxiv.org/abs/2609.01563v1)
+
+## From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification
+- **ID**: arxiv_2609.01564v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01564v1](http://arxiv.org/abs/2609.01564v1)
+
+## From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix
+- **ID**: arxiv_2609.01572v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01572v1](http://arxiv.org/abs/2609.01572v1)
+
+## Scaling Near-Optimal SFT-RL Annotation Budget Allocation from Small to Large LLMs
+- **ID**: arxiv_2609.01573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01573v1](http://arxiv.org/abs/2609.01573v1)
+
+## Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics
+- **ID**: arxiv_2609.01575v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01575v1](http://arxiv.org/abs/2609.01575v1)
+
+## StudentSim: Training LLM-based Student Simulators
+- **ID**: arxiv_2609.01591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01591v1](http://arxiv.org/abs/2609.01591v1)
+
+## The Rise of Verbal Reinforcement Learning
+- **ID**: arxiv_2609.01597v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01597v1](http://arxiv.org/abs/2609.01597v1)
+
+## CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?
+- **ID**: arxiv_2609.01600v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01600v1](http://arxiv.org/abs/2609.01600v1)
+
+## Beyond Scores: Understanding LLM-as-a-Judge Mechanisms in Summarization Evaluation
+- **ID**: arxiv_2609.01604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01604v1](http://arxiv.org/abs/2609.01604v1)
 

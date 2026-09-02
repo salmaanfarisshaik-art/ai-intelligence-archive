@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.15509v3](http://arxiv.org/abs/2403.15509v3)
 
+## A Hybrid Insider Threat Detection Framework Combining Multi-Agent Simulation, Layered SIEM Correlation, and Theory-of-Mind Reasoning
+- **ID**: arxiv_2601.04243v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.04243v2](http://arxiv.org/abs/2601.04243v2)
+
 ## SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents
 - **ID**: arxiv_2602.14211v3
 - **Source**: ArXiv
