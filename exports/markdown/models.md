@@ -1024,6 +1024,10 @@
 - **ID**: model_deepseek_ai_deepseek_r1_distill_qwen_7b
 - **Source**: 
 
+## deepseek-ai/DeepSeek-V2
+- **ID**: model_deepseek_ai_deepseek_v2
+- **Source**: 
+
 ## deepseek-ai/DeepSeek-V2-Lite
 - **ID**: model_deepseek_ai_deepseek_v2_lite
 - **Source**: 
@@ -4654,6 +4658,10 @@
 
 ## Qwen/Qwen3-4B-Thinking-2507-FP8
 - **ID**: model_qwen_qwen3_4b_thinking_2507_fp8
+- **Source**: 
+
+## Qwen/Qwen3.8-2.4T-A95B
+- **ID**: model_qwen_qwen3_8_2_4t_a95b
 - **Source**: 
 
 ## Qwen/Qwen3-8B
