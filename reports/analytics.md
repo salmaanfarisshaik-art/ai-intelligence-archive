@@ -139,8 +139,8 @@
 
 - **region:us**: 229
 - **text-generation**: 73
-- **library:datasets**: 69
-- **library:mlcroissant**: 69
+- **library:datasets**: 70
+- **library:mlcroissant**: 70
 - **license:apache-2.0**: 63
 - **modality:text**: 63
 - **endpoints_compatible**: 62
@@ -160,8 +160,8 @@
 - **library:dask**: 25
 - **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
-- **modality:image**: 20
-- **size_categories:n<1K**: 19
+- **modality:image**: 21
+- **size_categories:n<1K**: 20
 - **license:other**: 18
 - **modality:tabular**: 18
 - **qwen3**: 18
@@ -179,6 +179,7 @@
 - **source_datasets:original**: 10
 - **custom_code**: 9
 - **language:zh**: 9
+- **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
@@ -186,4 +187,3 @@
 - **format:json**: 8
 - **gguf**: 8
 - **language:ar**: 8
-- **llama**: 8
