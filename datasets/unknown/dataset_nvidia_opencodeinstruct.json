@@ -1,0 +1,33 @@
+{
+  "_id": "67f62a2014693c9adb400fa5",
+  "id": "nvidia/OpenCodeInstruct",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-28T19:08:02.000Z",
+  "likes": 108,
+  "private": false,
+  "sha": "8f3ba5bafe4d6e8db46082cf7ae6741bc370604d",
+  "description": "\n\t\n\t\t\n\t\tOpenCodeInstruct: A Large-scale Instruction Tuning Dataset for Code LLMs\n\t\n\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nWe introduce OpenCodeInstruct, the largest open-access instruction tuning dataset, comprising 5 million diverse samples. OpenCodeInstruct is designed for supervised fine-tuning (SFT).\n\nTechnical Report - Discover the methodology and technical details behind OpenCodeInstruct.\nGithub Repo - Access the complete pipeline used to perform SFT.\n\nThis dataset is ready for… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/OpenCodeInstruct.",
+  "downloads": 31547,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2504.04030",
+    "region:us",
+    "code",
+    "synthetic"
+  ],
+  "createdAt": "2025-04-09T08:04:48.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_opencodeinstruct",
+  "schema_version": "1.0"
+}

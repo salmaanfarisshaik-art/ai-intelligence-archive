@@ -9,7 +9,7 @@
   "private": false,
   "sha": "38c10053efeafd20ab6ff4e08c3ec17de26c19b7",
   "description": "\n\t\n\t\t\n\t\tDataset Card for Calc-MAWPS\n\t\n\n\n\t\n\t\t\n\t\tSummary\n\t\n\nThe dataset is a collection of simple math word problems focused on arithmetics. It is derived from https://huggingface.co/datasets/omarxadel/MaWPS-ar.\nThe main addition in this dataset variant is the chain column. It was created by converting the solution to a simple html-like language that can be easily\nparsed (e.g. by BeautifulSoup). The data contains 3 types of tags:\n\ngadget: A tag whose content is intended to be evaluated by… See the full description on the dataset page: https://huggingface.co/datasets/MU-NLPC/Calc-mawps.",
-  "downloads": 56196,
+  "downloads": 70874,
   "tags": [
     "task_categories:text-generation",
     "language:en",

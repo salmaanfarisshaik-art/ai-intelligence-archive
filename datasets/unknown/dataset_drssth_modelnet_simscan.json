@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c99264f4175aff2b09ae20e9ae67efdfa78e2eb3",
   "description": "load the simulated scan with code\ndf_scan = pd.read_hdf(filename, key=scan_pattern)\n\nwhere filename is the .h5 file name (e.g., SimulatedScans/cy0-cz0-s1.0-d1.5/airplane/train/airplane_0001/airplane_0001-rotation22.5-directx.h5); scan_pattern is set with scan_pattern = 'lissajous', scan_pattern = 'raster', or scan_pattern = 'raster_r'.\n'lissajous' indicates Lissajous scan mode describe in the paper, and 'raster' for Raster scan mode. ('raster_r' is another Raster scan mode that the frame ends… See the full description on the dataset page: https://huggingface.co/datasets/drssth/ModelNet-simscan.",
-  "downloads": 938197,
+  "downloads": 938541,
   "tags": [
     "license:cc",
     "size_categories:100B<n<1T",

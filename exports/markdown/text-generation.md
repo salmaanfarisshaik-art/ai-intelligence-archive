@@ -1503,6 +1503,7 @@
 - **ID**: hf_Qwen_Qwen3-4B-Base
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-4B-Base](https://huggingface.co/Qwen/Qwen3-4B-Base)
+- **Tags**: arxiv:2505.09388, conversational, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-4B-FP8
 - **ID**: hf_Qwen_Qwen3-4B-FP8

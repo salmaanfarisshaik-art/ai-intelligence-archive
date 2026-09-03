@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d80c9e58c06c868df5a14f67070167c483215133",
   "description": "\n\t\n\t\t\n\t\tmmBERT Pre-training Data P2\n\t\n\n\n\n\n\n\nPhase 1 of 3: Diverse multilingual pre-training data mixture (trained for 2.3T tokens) used to train the mmBERT model suite.\n\nNOTE: this is only P2 of the pre-training data due to HF limits, you need to download and combine all three into one folderThis dataset contains the pre-training phase data used to train all mmBERT encoder models. The data is provided in MDS format ready for use with Composer and the ModernBERT training repository.… See the full description on the dataset page: https://huggingface.co/datasets/orionweller/mmBERT-pretrain-p2-fineweb2-remaining.",
-  "downloads": 31448,
+  "downloads": 32031,
   "tags": [
     "task_categories:fill-mask",
     "language:en",

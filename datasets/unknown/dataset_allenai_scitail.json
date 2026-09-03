@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0cc4353235b289165dfde1c7c5d1be983f99ce44",
   "description": "\n\t\n\t\t\n\t\tDataset Card for \"scitail\"\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThe SciTail dataset is an entailment dataset created from multiple-choice science exams and web sentences. Each question\nand the correct answer choice are converted into an assertive statement to form the hypothesis. We use information\nretrieval to obtain relevant text from a large text corpus of web sentences, and use these sentences as a premise P. We\ncrowdsource the annotation of such premise-hypothesis pair as supports… See the full description on the dataset page: https://huggingface.co/datasets/allenai/scitail.",
-  "downloads": 36378,
+  "downloads": 44820,
   "paperswithcode_id": "scitail",
   "tags": [
     "language:en",

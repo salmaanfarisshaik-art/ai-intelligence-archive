@@ -236,6 +236,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_coherelabs_c4ai_command_r_v01",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_cyankiwi_nvidia_nemotron_3_super_120b_a12b_awq_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -457,6 +462,11 @@
     },
     {
       "entity_id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_base_bf16",
       "match_type": "exact",
       "score": 1.5
     },
@@ -1418,6 +1428,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "dataset_deadbits_vigil_jailbreak_all_minilm_l6_v2",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_manusagents_visco_attack",
       "match_type": "exact",
       "score": 2.5
@@ -1499,6 +1514,11 @@
       "entity_id": "arxiv_2606.04483v2",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_deadbits_vigil_jailbreak_all_minilm_l6_v2",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "rss_https://openai.com/index/gpt-5-5-bio-bug-bounty",
@@ -2949,6 +2969,13 @@
   "jared": [
     {
       "entity_id": "alpaca_6273014225188329289",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jaredfern": [
+    {
+      "entity_id": "dataset_jaredfern_codah",
       "match_type": "exact",
       "score": 1.0
     }
@@ -15425,6 +15452,11 @@
     },
     {
       "entity_id": "dataset_locuslab_tofu",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_luulinh90s_chm_corr_prj_giang",
       "match_type": "exact",
       "score": 1.5
     },

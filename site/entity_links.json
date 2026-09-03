@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T05:35:53Z",
+  "generated_at": "2026-09-03T10:46:04Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1774,6 +1774,11 @@
     {
       "source_id": "model_dreamfast_qwen3_6_27b_uncensored_hauhaucs_aggressive_safetensor_benchmark",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dreamgen_lucid_v1_nemo",
+      "target_id": "hf_mistralai_Mistral-Nemo-Base-2407",
       "type": "derived_from"
     },
     {
@@ -4597,6 +4602,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_base_bf16",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16",
       "target_id": "hf_nvidia_nemotron-post-training-v3",
       "type": "trained_on"
@@ -5389,6 +5399,11 @@
     {
       "source_id": "model_obliteratus_gemma_4_e4b_it_obliterated",
       "target_id": "hf_google_gemma-4-E4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_obliteratus_ornith_1_5_9b_obliterated",
+      "target_id": "hf_ornith-ai_Ornith-1.5-9B",
       "type": "derived_from"
     },
     {

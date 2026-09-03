@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d3d08664755704f422af97d43a7ff0ded4bd95df",
   "description": "\n\t\n\t\t\n\t\tOpenMathReasoning\n\t\n\nOpenMathReasoning is a large-scale math reasoning dataset for training large language models (LLMs). \nThis dataset contains \n\n306K unique mathematical problems sourced from AoPS forums with: \n3.2M long chain-of-thought (CoT) solutions\n1.7M long tool-integrated reasoning (TIR) solutions\n566K samples that select the most promising solution out of many candidates (GenSelect)\n\n\nAdditional 193K problems sourced from AoPS forums (problems only, no solutions)\n\nWe used… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/OpenMathReasoning.",
-  "downloads": 69406,
+  "downloads": 69484,
   "tags": [
     "task_categories:question-answering",
     "task_categories:text-generation",

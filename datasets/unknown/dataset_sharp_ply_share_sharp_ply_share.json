@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6f5b8dbabead730a57ea4ff2ac2e2b668c453d0f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tData files\n\t\n\n\nThe Dataset Viewer is configured to read data/train.jsonl (see the configs: section in the YAML header above).\nThe actual assets (JPG / PLY / SPZ) are stored under unsplash/<image_id>/.\nThe image field in data/train.jsonl stores the full HF resolve URL of the JPG for Dataset Viewer previews. image_id stays as the stable identifier.\n\n\n\t\n\t\t\n\t\n\t\n\t\tLinks\n\t\n\n\nGitHub (pipeline code): https://github.com/nameearly/sharp-ply-share\nHugging Face (dataset):… See the full description on the dataset page: https://huggingface.co/datasets/sharp-ply-share/sharp-ply-share.",
-  "downloads": 30404,
+  "downloads": 38189,
   "tags": [
     "license:other",
     "size_categories:n<1K",

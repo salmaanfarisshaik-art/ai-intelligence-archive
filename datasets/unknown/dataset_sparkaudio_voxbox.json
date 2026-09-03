@@ -9,7 +9,7 @@
   "private": false,
   "sha": "acee4f4b3788e608bd2d2045d0521e2d57ed3e54",
   "description": "\n\t\n\t\t\n\t\tVoxBox\n\t\n\nThis dataset is a curated collection of bilingual speech corpora annotated clean transcriptions and rich metadata incluing age, gender, and emotion.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\n.\n├── audios/\n│   └── aishell-3/                      # Audio files (organised by sub-corpus)\n│   └── ...\n└── metadata/\n    ├── aishell-3.jsonl\n    ├── casia.jsonl\n    ├── commonvoice_cn.jsonl\n    ├── ...\n    └── wenetspeech4tts.jsonl          # JSONL metadata files\n\nEach JSONL file corresponds to a… See the full description on the dataset page: https://huggingface.co/datasets/SparkAudio/voxbox.",
-  "downloads": 45282,
+  "downloads": 45204,
   "tags": [
     "task_categories:text-to-speech",
     "language:zh",

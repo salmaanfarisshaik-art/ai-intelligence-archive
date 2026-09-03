@@ -1,5 +1,6 @@
 {
   "unique_id": "hf_Qwen_Qwen3-4B-Base",
+  "schema_version": "1.0",
   "name": "Qwen/Qwen3-4B-Base",
   "parameters": "Unknown",
   "license": "Unknown",
@@ -8,8 +9,35 @@
   "source_name": "Hugging Face",
   "source_type": "huggingface",
   "category": "text-generation",
-  "schema_version": "1.0",
-  "retrieval_timestamp": "2026-06-14T13:52:09Z",
-  "last_updated": "2026-06-14T13:52:09Z",
-  "raw_payload": {}
+  "raw_payload": {
+    "_id": "680f0c5b4e1c1da6491f3b9d",
+    "id": "Qwen/Qwen3-4B-Base",
+    "likes": 96,
+    "private": false,
+    "downloads": 1907130,
+    "tags": [
+      "transformers",
+      "safetensors",
+      "qwen3",
+      "text-generation",
+      "conversational",
+      "arxiv:2505.09388",
+      "license:apache-2.0",
+      "text-generation-inference",
+      "endpoints_compatible",
+      "region:us"
+    ],
+    "pipeline_tag": "text-generation",
+    "library_name": "transformers",
+    "createdAt": "2025-04-28T05:04:27.000Z",
+    "modelId": "Qwen/Qwen3-4B-Base"
+  },
+  "retrieval_timestamp": "2026-09-03T10:42:36Z",
+  "last_updated": "",
+  "links": {
+    "related_models": [],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
 }

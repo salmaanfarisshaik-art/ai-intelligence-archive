@@ -1,0 +1,30 @@
+{
+  "_id": "64fbad1fda4429f25df4b2e1",
+  "id": "deadbits/vigil-jailbreak-all-MiniLM-L6-v2",
+  "author": "deadbits",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-09-09T02:39:20.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "d7be74439ea670ae928993b6bda43ce60368ec9f",
+  "description": "\n\t\n\t\t\n\t\tVigil: LLM Jailbreak all-MiniLM-L6-v2\n\t\n\n\nRepo: github.com/deadbits/vigil-llm\n\nVigil is a Python framework and REST API for assessing Large Language Model (LLM) prompts against a set of scanners to detect prompt injections, jailbreaks, and other potentially risky inputs.\nThis repository contains all-MiniLM-L6-v2 embeddings for all \"jailbreak\" prompts used by Vigil.\nYou can use the parquet2vdb.py utility to load the embeddings in the Vigil chromadb instance, or use them in your own… See the full description on the dataset page: https://huggingface.co/datasets/deadbits/vigil-jailbreak-all-MiniLM-L6-v2.",
+  "downloads": 31458,
+  "tags": [
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "embeddings",
+    "text",
+    "security"
+  ],
+  "createdAt": "2023-09-08T23:24:15.000Z",
+  "key": "",
+  "unique_id": "dataset_deadbits_vigil_jailbreak_all_minilm_l6_v2",
+  "schema_version": "1.0"
+}

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "cd83a17e5d0678e948d835e1650a433096a12ca0",
   "description": "\n\t\n\t\t\n\t\tMapPool - Bubbling up an extremely large corpus of maps for AI\n\t\n\n\n\nMapPool is a dataset of 75 million potential maps and textual captions. It has been derived from CommonPool, a dataset consisting of 12 billion text-image pairs from the Internet. The images have been encoded by a vision transformer and classified into maps and non-maps by a support vector machine. This approach outperforms previous models and yields a validation accuracy of 98.5%. The MapPool dataset may help to train… See the full description on the dataset page: https://huggingface.co/datasets/sraimund/MapPool.",
-  "downloads": 41442,
+  "downloads": 31313,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:10M<n<100M",
