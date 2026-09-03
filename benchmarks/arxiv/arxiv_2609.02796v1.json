@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.02796v1",
+  "schema_version": "1.0",
+  "name": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.02796v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.02796v1",
+    "updated": "2026-09-02T16:31:39Z",
+    "published": "2026-09-02T16:31:39Z",
+    "title": "DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation",
+    "summary": "Sign language processing systems have traditionally operated at the sentence level, ignoring critical discourse phenomena fundamental to sign language comprehension. We introduce DiscoSign, a computational approach for discourse-aware text to sign language gloss translation grounded in linguistic research. We address three key phenomena within our modular Large Language Model (LLM)-based translation framework: (i) spatial coreference resolution, where entities maintain consistent spatial locations throughout discourse; (ii) Question-Answer Clauses (QACs), pseudocleft structures serving specific discourse functions; and (iii) concept-gloss consistency, ensuring stable mappings between English concepts and American Sign Language (ASL) signs. Traditional translation metrics fail to capture discourse-level quality, so we introduce a suite of novel evaluation metrics designed to assess each dimension of discourse coherence addressed by our framework. Experiments on sentence-level and discourse-level datasets show that our approach for discourse-aware processing significantly improves spatial consistency and entity tracking relative to sentence-only translation, while maintaining competitive single-sentence gloss translation quality. Our work establishes the first systematic framework for discourse-level text to sign language gloss translation with corresponding evaluation methodology.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T16:31:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.02796v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

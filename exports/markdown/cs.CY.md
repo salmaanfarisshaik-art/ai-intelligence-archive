@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/1912.08786v4](http://arxiv.org/abs/1912.08786v4)
 
+## Why we need an AI-resilient society- Profiling Large Language Models
+- **ID**: arxiv_1912.08786v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1912.08786v5](http://arxiv.org/abs/1912.08786v5)
+
 ## "Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness
 - **ID**: arxiv_2508.13187v5
 - **Source**: ArXiv

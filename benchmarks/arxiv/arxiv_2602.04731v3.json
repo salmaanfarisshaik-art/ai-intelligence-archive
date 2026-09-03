@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.04731v3",
+  "schema_version": "1.0",
+  "name": "Modular Expert Merging for Biomedical Retrieval",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.04731v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.04731v3",
+    "updated": "2026-09-02T16:25:56Z",
+    "published": "2026-02-04T16:36:00Z",
+    "title": "Modular Expert Merging for Biomedical Retrieval",
+    "summary": "Adapting general-purpose LLMs into domain-specialized dense retrievers typically requires large-scale training on mixed-domain data. We show that merging independently trained domain-specialized experts consistently exceeds this approach across four decoder-only LLM families (0.6B-7B), four merging methods, and twelve medical and general retrieval tasks from MTEB, suggesting that parameter-space composition captures complementary domain strengths that large-scale mixed-domain training averages out. To further maximize expert quality, we introduce Synthesize-Train-Merge (STM), a modular framework that synthesizes hard negatives with a top-tier LLM and fine-tunes domain-specialized experts via LoRA before merging them, without continual pre-training. Synthesized hard negatives yield the largest gains for smaller models, and STM achieves strong performance on biomedical retrieval tasks while maintaining competitive general-domain results across all four backbone families.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T16:25:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.04731v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

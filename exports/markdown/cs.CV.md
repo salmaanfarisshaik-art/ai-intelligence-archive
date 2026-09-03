@@ -530,6 +530,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
 
+## A Lightweight Multi-Metric No-Reference Image Quality Assessment Framework for UAV Imaging
+- **ID**: arxiv_2604.13112v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.13112v2](http://arxiv.org/abs/2604.13112v2)
+
 ## SketchVLM: Vision language models can annotate images to explain thoughts and guide users
 - **ID**: arxiv_2604.22875v3
 - **Source**: ArXiv
@@ -2310,6 +2315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v3](http://arxiv.org/abs/2608.07468v3)
 
+## OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction
+- **ID**: arxiv_2608.08696v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08696v3](http://arxiv.org/abs/2608.08696v3)
+
 ## Model the Edit, Not the Image: Visual Autoregressive Editing from a Source-Centric Perspective
 - **ID**: arxiv_2608.09057v2
 - **Source**: ArXiv
@@ -3434,4 +3444,74 @@
 - **ID**: arxiv_2609.01607v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01607v1](http://arxiv.org/abs/2609.01607v1)
+
+## InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling
+- **ID**: arxiv_2609.02747v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02747v1](http://arxiv.org/abs/2609.02747v1)
+
+## Balancing Frequencies and Pixels in Flow Matching
+- **ID**: arxiv_2609.02748v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02748v1](http://arxiv.org/abs/2609.02748v1)
+
+## Multi-Tool Image Editing Attribution in Facial Forgery
+- **ID**: arxiv_2609.02751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02751v1](http://arxiv.org/abs/2609.02751v1)
+
+## Video-Based Palm-Vein Authentication under Challenging Conditions
+- **ID**: arxiv_2609.02776v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02776v1](http://arxiv.org/abs/2609.02776v1)
+
+## ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding
+- **ID**: arxiv_2609.02780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02780v1](http://arxiv.org/abs/2609.02780v1)
+
+## AutoCompass: Accurate Visual Localization on Public Maps by Learning from Weak Labels
+- **ID**: arxiv_2609.02798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02798v1](http://arxiv.org/abs/2609.02798v1)
+
+## GDB-Reward: From Evaluation Metrics to Training Rewards for Graphic Design
+- **ID**: arxiv_2609.02813v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02813v1](http://arxiv.org/abs/2609.02813v1)
+
+## Benchmarking RAW and RGB Restoration in Image Signal Processors
+- **ID**: arxiv_2609.02831v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02831v1](http://arxiv.org/abs/2609.02831v1)
+
+## Efficient All-in-One Weather Restoration using Spectral Harmonization
+- **ID**: arxiv_2609.02839v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02839v1](http://arxiv.org/abs/2609.02839v1)
+
+## RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation
+- **ID**: arxiv_2609.02847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02847v1](http://arxiv.org/abs/2609.02847v1)
+
+## MuyBridge: Mobile Human Center-of-Mass Estimation from Monocular Video via Sparse Fusion
+- **ID**: arxiv_2609.02854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02854v1](http://arxiv.org/abs/2609.02854v1)
+
+## PlantC2USeg: Cross-Scale Consistent Pre-Training for Few-Shot Unified Plant Point Cloud Segmentation
+- **ID**: arxiv_2609.02860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02860v1](http://arxiv.org/abs/2609.02860v1)
+
+## Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation
+- **ID**: arxiv_2609.02864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02864v1](http://arxiv.org/abs/2609.02864v1)
+
+## SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models
+- **ID**: arxiv_2609.02886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02886v1](http://arxiv.org/abs/2609.02886v1)
 

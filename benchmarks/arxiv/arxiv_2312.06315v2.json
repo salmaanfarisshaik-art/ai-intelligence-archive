@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2312.06315v2",
+  "schema_version": "1.0",
+  "name": "GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2312.06315v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2312.06315v2",
+    "updated": "2026-09-02T16:15:07Z",
+    "published": "2023-12-11T12:02:14Z",
+    "title": "GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models",
+    "summary": "Warning: This paper contains content that may be offensive or upsetting. There has been a significant increase in the usage of large language models (LLMs) in various applications, both in their original form and through fine-tuned adaptations. As a result, LLMs have gained popularity and are being widely adopted by a large user community. However, one of the concerns with LLMs is the potential generation of socially biased content. The existing evaluation methods have many constraints, and their results exhibit a limited degree of interpretability. In this work, we propose a bias evaluation framework named GPTBIAS that leverages the high performance of LLMs (e.g., GPT-4 \\cite{openai2023gpt4}) to assess bias in models. We also introduce prompts called Bias Attack Instructions, which are specifically designed for evaluating model bias. To enhance the credibility and interpretability of bias evaluation, our framework not only provides a bias score but also offers detailed information, including bias types, affected demographics, keywords, reasons behind the biases, and suggestions for improvement. We conduct extensive experiments to demonstrate the effectiveness and usability of our bias evaluation framework.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T16:15:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2312.06315v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

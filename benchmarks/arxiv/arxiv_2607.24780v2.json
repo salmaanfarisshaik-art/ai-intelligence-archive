@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.24780v2",
+  "schema_version": "1.0",
+  "name": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.24780v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.24780v2",
+    "updated": "2026-09-02T16:33:22Z",
+    "published": "2026-06-19T06:20:58Z",
+    "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
+    "summary": "Fixed benchmarks are costly to renew and cannot adapt their questions to model-specific failures. We ask whether LLMs can instead discover one another's weaknesses and turn those observations into an evaluation process. To study this question, we introduce \\textbf{LivingArena}, an automated peer-probing framework in which models take turns testing one another. Using the interaction history, each questioner identifies potential weaknesses of its opponent and constructs targeted, verifiable questions to probe them. A 3,600-round tournament of ten models reveals a clear role asymmetry: strong answerers are not always reliable questioners, because they may generate internally inconsistent tests or fail to verify their own reference answers. After a questioner exposes an answerer's failure, it is more likely to pursue the same capability domain, while the answerer's weakness recurs on independently generated questions, including questions written by different models. These findings show that peer probing can reveal persistent model-specific weaknesses while separately evaluating answering and reliable test construction. By automating this process and allowing test difficulty to evolve with model capabilities, LivingArena provides a \"living\" benchmark for model development, red-teaming, and capability-aware multi-agent coordination. We publicly release our code: https://github.com/galaxyChen/LivingArena",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T16:33:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.24780v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

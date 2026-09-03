@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
 
+## Constrained Group Relative Policy Optimization
+- **ID**: arxiv_2602.05863v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.05863v4](http://arxiv.org/abs/2602.05863v4)
+
 ## ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning
 - **ID**: arxiv_2602.11626v3
 - **Source**: ArXiv
@@ -194,6 +199,11 @@
 - **ID**: arxiv_2604.08649v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08649v2](http://arxiv.org/abs/2604.08649v2)
+
+## On the Expressive Power and Limitations of Multi-Layer SSMs
+- **ID**: arxiv_2604.14501v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.14501v2](http://arxiv.org/abs/2604.14501v2)
 
 ## What Is the Minimum Architecture for Prolepsis? Early Irrevocable Commitment Across Tasks in Small Transformers
 - **ID**: arxiv_2604.15010v2
@@ -1169,4 +1179,9 @@
 - **ID**: arxiv_2609.01587v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01587v1](http://arxiv.org/abs/2609.01587v1)
+
+## Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+- **ID**: arxiv_2609.02849v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02849v1](http://arxiv.org/abs/2609.02849v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.02754v1",
+  "schema_version": "1.0",
+  "name": "Untangling the Mechanisms of Misleading Context in Medical Question Answering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.02754v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.02754v1",
+    "updated": "2026-09-02T15:55:56Z",
+    "published": "2026-09-02T15:55:56Z",
+    "title": "Untangling the Mechanisms of Misleading Context in Medical Question Answering",
+    "summary": "Large language models now answer medical questions with expert-level performance. However, the context these systems act on can be misleading, and misleading context can corrupt a model's medical judgment. To understand how misleading context corrupts this judgment, we examine the model's susceptibility to the context, disclosure of it, mechanism of corrupted reasoning, and monitorability of the decision. On the medical reasoning subset of MedMisBench, a clinician-reviewed question-answering benchmark of 8,627 questions, we inject two types of misleading context cues, fabricated evidence and a bare assertion. We test three reasoning models, two that expose their full reasoning trace and one frontier model that exposes only its response. All three are more susceptible to the assertion than to the fabricated evidence, adopting the asserted answer 10 to 27 points more often. The misleading cues are disclosed in 81 to 98% of traces but only 7 to 90% of responses, and the assertion is disclosed less often than evidence based cues. Resampling from reasoning traces without disclosure shows the two cues corrupt reasoning differently, evidence entering early and accumulating while the assertion redirects the conclusion near its end. An LLM monitor catches 78% of corrupted decisions at 5% false positives when reading an open model's trace with guidance, against at most 32% from any response. The misleading context that models are most susceptible to is disclosed least, and was caught reliably only from an open reasoning trace, which frontier providers withhold.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T15:55:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.02754v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

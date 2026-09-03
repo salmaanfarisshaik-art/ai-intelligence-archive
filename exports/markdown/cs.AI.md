@@ -370,6 +370,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14672v1](http://arxiv.org/abs/2606.14672v1)
 
+## Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules
+- **ID**: arxiv_2606.16337v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.16337v4](http://arxiv.org/abs/2606.16337v4)
+
 ## Greed Is Learned: Visible Incentives as Reward-Hacking Triggers
 - **ID**: arxiv_2606.16914v1
 - **Source**: ArXiv
@@ -860,6 +865,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
 
+## Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models
+- **ID**: arxiv_2607.21617v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21617v2](http://arxiv.org/abs/2607.21617v2)
+
 ## What AI Red-Team Evaluations Can and Cannot Prove
 - **ID**: arxiv_2607.21735v2
 - **Source**: ArXiv
@@ -910,6 +920,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.23159v2](http://arxiv.org/abs/2607.23159v2)
 
+## Adaptive Graph-of-Islands Evolution for Automatic Feature Engineering with LLMs
+- **ID**: arxiv_2607.23286v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23286v2](http://arxiv.org/abs/2607.23286v2)
+
 ## Efficiency Matters in Autonomous Research
 - **ID**: arxiv_2607.24647v1
 - **Source**: ArXiv
@@ -929,6 +944,16 @@
 - **ID**: arxiv_2607.24707v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24707v1](http://arxiv.org/abs/2607.24707v1)
+
+## LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation
+- **ID**: arxiv_2607.24780v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24780v2](http://arxiv.org/abs/2607.24780v2)
+
+## Aletheia: An Offline-First Clinical Decision Support System for Differential Diagnosis in Low-Resource Healthcare Settings
+- **ID**: arxiv_2607.24814v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.24814v2](http://arxiv.org/abs/2607.24814v2)
 
 ## Explanation-Bound Tool Execution for AI Agents: Server-Verified Action Claims Without Trusting Model Rationales
 - **ID**: arxiv_2607.25364v2
@@ -2149,4 +2174,39 @@
 - **ID**: arxiv_2609.01567v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01567v1](http://arxiv.org/abs/2609.01567v1)
+
+## Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
+- **ID**: arxiv_2609.02749v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02749v1](http://arxiv.org/abs/2609.02749v1)
+
+## Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems
+- **ID**: arxiv_2609.02750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02750v1](http://arxiv.org/abs/2609.02750v1)
+
+## Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents
+- **ID**: arxiv_2609.02760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02760v1](http://arxiv.org/abs/2609.02760v1)
+
+## SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment
+- **ID**: arxiv_2609.02786v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02786v1](http://arxiv.org/abs/2609.02786v1)
+
+## Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis
+- **ID**: arxiv_2609.02805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02805v1](http://arxiv.org/abs/2609.02805v1)
+
+## AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application
+- **ID**: arxiv_2609.02821v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02821v1](http://arxiv.org/abs/2609.02821v1)
+
+## Discriminative World Models for Web Agents
+- **ID**: arxiv_2609.02885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02885v1](http://arxiv.org/abs/2609.02885v1)
 

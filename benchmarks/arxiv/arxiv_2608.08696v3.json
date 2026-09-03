@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.08696v3",
+  "schema_version": "1.0",
+  "name": "OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.08696v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.08696v3",
+    "updated": "2026-09-02T16:24:45Z",
+    "published": "2026-08-09T13:19:53Z",
+    "title": "OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction",
+    "summary": "3D occupancy prediction is fundamental to scene understanding, yet existing 3D semantic occupancy methods are typically specialized to fixed scene types and occupancy protocols. We introduce Cross-Scene 3D Semantic Occupancy Prediction, a new task setting which requires a single model to handle heterogeneous indoor and outdoor scenes with varying cameras, spatial ranges, voxel specifications, and semantic taxonomies. This setting poses a fundamental challenge: achieving metric-consistent yet scene-adaptive image-to-3D lifting across varying camera configurations and scene scales. To address this challenge, we propose OccAnyScene, a pixel-frustum-centered Gaussian framework built upon a pretrained depth foundation model. Specifically, the framework employs Pixel-Aligned Frustum Feature Aggregation to construct a camera-aware frustum query for each feature pixel, and Frustum-Parameterized Gaussian Construction to decode each query into multiple Gaussians whose positions and sizes are constrained by the predicted pixel depth and corresponding frustum geometry. OccAnyScene sets new state-of-the-art results, achieving 59.92% mIoU on the indoor Occ-ScanNet and 23.06% mIoU on the outdoor SurroundOcc-nuScenes.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T16:24:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.08696v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88307
+**Total Entities Tracked**: 88357
 
 ## Category Distribution
 
@@ -12,20 +12,20 @@
 - **news**: 1174
 - **dataset**: 1157
 - **text-generation**: 1008
-- **cs.CV**: 687
-- **cs.CL**: 454
-- **cs.AI**: 430
-- **cs.LG**: 234
-- **cs.RO**: 82
+- **cs.CV**: 703
+- **cs.CL**: 468
+- **cs.AI**: 442
+- **cs.LG**: 237
+- **cs.RO**: 83
 - **cs.CR**: 50
 - **tool**: 50
 - **cs.SE**: 43
 - **cs.IR**: 24
 - **cs.SD**: 23
-- **cs.CY**: 21
+- **cs.CY**: 22
 - **cs.HC**: 17
 - **API**: 15
-- **eess.IV**: 13
+- **eess.IV**: 14
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -55,6 +55,7 @@
 - **cs.DC**: 3
 - **cs.DL**: 3
 - **cs.NE**: 3
+- **econ.GN**: 3
 - **feature-extraction**: 3
 - **physics.soc-ph**: 3
 - **q-bio.NC**: 3
@@ -63,7 +64,6 @@
 - **cs.LO**: 2
 - **cs.PL**: 2
 - **cs.SI**: 2
-- **econ.GN**: 2
 - **econ.TH**: 2
 - **image-text-to-text**: 2
 - **q-fin.PM**: 2
@@ -71,6 +71,7 @@
 - **astro-ph.EP**: 1
 - **astro-ph.HE**: 1
 - **cond-mat.soft**: 1
+- **cs.DM**: 1
 - **cs.DS**: 1
 - **cs.OS**: 1
 - **cs.SC**: 1
@@ -94,7 +95,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 30583
-- **ArXiv**: 2228
+- **ArXiv**: 2278
 - **Hugging Face**: 2015
 - **OpenAI Blog**: 1160
 - **HuggingFace Datasets**: 157
@@ -141,8 +142,8 @@
 - **text-generation**: 73
 - **library:datasets**: 70
 - **library:mlcroissant**: 70
+- **modality:text**: 64
 - **license:apache-2.0**: 63
-- **modality:text**: 63
 - **endpoints_compatible**: 62
 - **safetensors**: 62
 - **transformers**: 62
@@ -160,7 +161,7 @@
 - **library:dask**: 25
 - **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
-- **modality:image**: 21
+- **modality:image**: 20
 - **size_categories:n<1K**: 20
 - **license:other**: 18
 - **modality:tabular**: 18
@@ -179,7 +180,6 @@
 - **source_datasets:original**: 10
 - **custom_code**: 9
 - **language:zh**: 9
-- **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9
 - **size_categories:1M<n<10M**: 9
@@ -187,3 +187,4 @@
 - **format:json**: 8
 - **gguf**: 8
 - **language:ar**: 8
+- **llama**: 8

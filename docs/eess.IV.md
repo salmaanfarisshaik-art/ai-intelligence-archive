@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](http://arxiv.org/abs/2602.03998v3) | ArXiv |  | 1 |
 | [BCNet: Bronchus Classification via Structure Guided Representation Learning](http://arxiv.org/abs/2205.06947v3) | ArXiv |  | 1 |
 | [crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023](http://arxiv.org/abs/2506.12006v4) | ArXiv |  | 1 |
 | [Domain-Aware Lightweight Spectral-Grouped Convolutions for Hyperspectral Fish Freshness Classification](http://arxiv.org/abs/2608.12227v1) | ArXiv |  | 1 |

@@ -410,3 +410,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31167v1](http://arxiv.org/abs/2608.31167v1)
 
+## Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework
+- **ID**: arxiv_2609.02861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02861v1](http://arxiv.org/abs/2609.02861v1)
+

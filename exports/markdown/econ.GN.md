@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23524v1](http://arxiv.org/abs/2608.23524v1)
 
+## Dutch Books for Language Models
+- **ID**: arxiv_2609.02797v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02797v1](http://arxiv.org/abs/2609.02797v1)
+

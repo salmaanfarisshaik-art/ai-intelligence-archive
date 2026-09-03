@@ -920,7 +920,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## HuggingFaceCode/stack-v3-train
 - **ID**: hf_ds_6a615c95fb10b1093e0ea9ed
@@ -950,7 +950,7 @@
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/newe](https://huggingface.co/datasets/gfdg34fsd/newe)
-- **Tags**: region:us
+- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

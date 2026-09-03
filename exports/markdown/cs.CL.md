@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2210.05487v3](http://arxiv.org/abs/2210.05487v3)
 
+## GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models
+- **ID**: arxiv_2312.06315v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2312.06315v2](http://arxiv.org/abs/2312.06315v2)
+
 ## Saving the legacy of Hero Ibash: Evaluating Four Language Models for Aminoacian
 - **ID**: arxiv_2402.18121v2
 - **Source**: ArXiv
@@ -110,6 +115,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.26476v3](http://arxiv.org/abs/2509.26476v3)
 
+## CARPAS: Towards Content-Aware Refinement of Provided Aspects for Summarization in Large Language Models
+- **ID**: arxiv_2510.07177v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.07177v2](http://arxiv.org/abs/2510.07177v2)
+
 ## Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines
 - **ID**: arxiv_2510.17252v2
 - **Source**: ArXiv
@@ -205,6 +215,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.19827v5](http://arxiv.org/abs/2601.19827v5)
 
+## Modular Expert Merging for Biomedical Retrieval
+- **ID**: arxiv_2602.04731v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04731v3](http://arxiv.org/abs/2602.04731v3)
+
 ## LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation
 - **ID**: arxiv_2602.05493v2
 - **Source**: ArXiv
@@ -259,6 +274,16 @@
 - **ID**: arxiv_2603.16410v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16410v2](http://arxiv.org/abs/2603.16410v2)
+
+## Probing Cultural Signals in Large Language Models through Author Profiling
+- **ID**: arxiv_2603.16749v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.16749v3](http://arxiv.org/abs/2603.16749v3)
+
+## Mediocrity is the key for LLM as a Judge Anchor Selection
+- **ID**: arxiv_2603.16848v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.16848v2](http://arxiv.org/abs/2603.16848v2)
 
 ## MineDraft: A Framework for Batch Parallel Speculative Decoding
 - **ID**: arxiv_2603.18016v3
@@ -660,6 +685,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.15412v2](http://arxiv.org/abs/2606.15412v2)
 
+## SHARD: Safe and Helpful Alignment via Self-Reframing Distillation
+- **ID**: arxiv_2606.15517v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15517v2](http://arxiv.org/abs/2606.15517v2)
+
 ## IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset
 - **ID**: arxiv_2606.16910v1
 - **Source**: ArXiv
@@ -799,6 +829,11 @@
 - **ID**: arxiv_2606.20527v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20527v1](http://arxiv.org/abs/2606.20527v1)
+
+## AdaMem: Learning What to Remember with Adaptive Memory Policies for Personalized Agents
+- **ID**: arxiv_2606.21144v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.21144v2](http://arxiv.org/abs/2606.21144v2)
 
 ## Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs
 - **ID**: arxiv_2606.21359v2
@@ -1875,6 +1910,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21325v1](http://arxiv.org/abs/2608.21325v1)
 
+## ToSCA: Leveraging Hierarchical Reinforcement Learning on Temporal and Strategic Abstractions of Conversational Agents
+- **ID**: arxiv_2608.21969v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.21969v3](http://arxiv.org/abs/2608.21969v3)
+
 ## Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation
 - **ID**: arxiv_2608.23152v2
 - **Source**: ArXiv
@@ -2269,4 +2309,34 @@
 - **ID**: arxiv_2609.01604v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01604v1](http://arxiv.org/abs/2609.01604v1)
+
+## Untangling the Mechanisms of Misleading Context in Medical Question Answering
+- **ID**: arxiv_2609.02754v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02754v1](http://arxiv.org/abs/2609.02754v1)
+
+## From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution
+- **ID**: arxiv_2609.02771v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02771v1](http://arxiv.org/abs/2609.02771v1)
+
+## HyperStyler: Low-resource Authorship Style Transfer via Context-aware Style Navigation and Hypernetworks
+- **ID**: arxiv_2609.02772v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02772v1](http://arxiv.org/abs/2609.02772v1)
+
+## EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction
+- **ID**: arxiv_2609.02783v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02783v1](http://arxiv.org/abs/2609.02783v1)
+
+## DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation
+- **ID**: arxiv_2609.02796v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02796v1](http://arxiv.org/abs/2609.02796v1)
+
+## User Feedback Provides a Unique Signal that LLMs Can not Detect
+- **ID**: arxiv_2609.02859v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02859v1](http://arxiv.org/abs/2609.02859v1)
 

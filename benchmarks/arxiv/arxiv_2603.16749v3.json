@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2603.16749v3",
+  "schema_version": "1.0",
+  "name": "Probing Cultural Signals in Large Language Models through Author Profiling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.16749v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.16749v3",
+    "updated": "2026-09-02T15:54:44Z",
+    "published": "2026-03-17T16:27:47Z",
+    "title": "Probing Cultural Signals in Large Language Models through Author Profiling",
+    "summary": "Large language models (LLMs) are increasingly deployed in applications with societal impact, raising concerns about the cultural biases they encode. We probe these representations by evaluating whether LLMs can perform author profiling from song lyrics in a zero-shot setting, inferring singers' gender and ethnicity without task-specific fine-tuning. Across several open-source models evaluated on more than 10,000 lyrics, we find that LLMs achieve non-trivial profiling performance but demonstrate systematic cultural alignment: most models default toward North American ethnicity, while DeepSeek-1.5B aligns more strongly with Asian ethnicity. This finding emerges from both the models' prediction distributions and an analysis of their generated rationales. To quantify these disparities, we introduce two fairness metrics, Modality Accuracy Divergence (MAD) and Recall Divergence (RD), and show that Ministral-8B displays the strongest ethnicity bias among the evaluated models, whereas Gemma-12B shows the most balanced behavior. Our code is available on [GitHub](https://github.com/ValentinLafargue/CulturalProbingLLM) and results on [HuggingFace](https://huggingface.co/datasets/ValentinLAFARGUE/AuthorProfilingResults).",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T15:54:44Z",
+  "links": {
+    "related_models": [
+      "datasets/ValentinLAFARGUE"
+    ],
+    "related_papers": [
+      "2603.16749v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15517v2",
+  "schema_version": "1.0",
+  "name": "SHARD: Safe and Helpful Alignment via Self-Reframing Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15517v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15517v2",
+    "updated": "2026-09-02T15:50:25Z",
+    "published": "2026-06-14T00:12:53Z",
+    "title": "SHARD: Safe and Helpful Alignment via Self-Reframing Distillation",
+    "summary": "Large language models often struggle with sensitive prompts. They may refuse outright, provide generic safety boilerplate, or fail to address the user's legitimate informational needs that can be answered safely. We introduce SHARD, a self-reframing distillation method to improve safe-helpfulness. It first rewrites sensitive prompts to surface benign intent using philosophical guidelines, then reframes its original responses into safe, more helpful ones, and finally fine-tunes the model on its self-reframed responses. Across DNA and the English subset of LINGUASAFE, SHARD improves helpfulness for most model families while preserving safety. It also remains competitive with distillation from a larger teacher model, suggesting that models can internalize safe and helpful behavior elicited from their own. Warning: This paper contains content that may be offensive or harmful.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T15:50:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15517v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

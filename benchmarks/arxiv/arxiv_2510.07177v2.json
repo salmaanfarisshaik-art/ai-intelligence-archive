@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.07177v2",
+  "schema_version": "1.0",
+  "name": "CARPAS: Towards Content-Aware Refinement of Provided Aspects for Summarization in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.07177v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.07177v2",
+    "updated": "2026-09-02T17:15:30Z",
+    "published": "2025-10-08T16:16:46Z",
+    "title": "CARPAS: Towards Content-Aware Refinement of Provided Aspects for Summarization in Large Language Models",
+    "summary": "Aspect-based summarization has attracted significant attention for its ability to generate more fine-grained and user-aligned summaries. While most existing approaches assume a set of predefined aspects as input, real-world scenarios often present challenges where these given aspects may be incomplete, irrelevant, or entirely missing from the document. Users frequently expect systems to adaptively refine or filter the provided aspects based on the actual content. In this paper, we initiate this novel task setting, termed Content-Aware Refinement of Provided Aspects for Summarization (CARPAS), with the aim of dynamically adjusting the provided aspects based on the document context before summarizing. We construct three new datasets and conduct pilot experiments with four representative prompting strategies. Our analysis reveals that LLMs often over-generate aspects, resulting in excessively long and misaligned summaries. Building on this observation, we introduce a two-stage framework that derives lightweight scope guidance before aspect refinement and summarization, improving focus and reducing over-generation. Our extensive experiments show that the proposed approach significantly improves performance across all datasets. Moreover, our deeper analyses uncover LLMs' compliance when the requested number of aspects differs from their own estimations, establishing a crucial insight for the deployment of LLMs in similar real-world applications.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-03T05:32:26Z",
+  "last_updated": "2026-09-02T17:15:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.07177v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

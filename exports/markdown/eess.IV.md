@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13287v4](http://arxiv.org/abs/2508.13287v4)
 
+## AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology
+- **ID**: arxiv_2602.03998v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.03998v3](http://arxiv.org/abs/2602.03998v3)
+
 ## Rendering Novel Views of MRI Using 3D Gaussian Splatting
 - **ID**: arxiv_2606.26236v2
 - **Source**: ArXiv
