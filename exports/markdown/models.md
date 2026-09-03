@@ -776,6 +776,10 @@
 - **ID**: model_coherelabs_aya_expanse_8b
 - **Source**: 
 
+## CohereLabs/c4ai-command-r-v01
+- **ID**: model_coherelabs_c4ai_command_r_v01
+- **Source**: 
+
 ## CohereLabs/North-Mini-Code-1.0-fp8
 - **ID**: model_coherelabs_north_mini_code_1_0_fp8
 - **Source**: 
@@ -1068,6 +1072,10 @@
 - **ID**: model_deepseek_ai_deepseek_v4_flash_dspark
 - **Source**: 
 
+## deepseek-ai/DeepSeek-V4-Flash-Vision-Exp
+- **ID**: model_deepseek_ai_deepseek_v4_flash_vision_exp
+- **Source**: 
+
 ## deepseek-ai/DeepSeek-V4-Pro
 - **ID**: model_deepseek_ai_deepseek_v4_pro
 - **Source**: 
@@ -1154,6 +1162,10 @@
 
 ## DreamFast/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive-Safetensor-Benchmark
 - **ID**: model_dreamfast_qwen3_6_27b_uncensored_hauhaucs_aggressive_safetensor_benchmark
+- **Source**: 
+
+## dreamgen/lucid-v1-nemo
+- **ID**: model_dreamgen_lucid_v1_nemo
 - **Source**: 
 
 ## droplychee-core/droplychee-1.0-27b
@@ -3520,6 +3532,10 @@
 - **ID**: model_nvidia_nemotron_mini_4b_instruct
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16
+- **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_base_bf16
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16
 - **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_bf16
 - **Source**: 
@@ -3682,6 +3698,10 @@
 
 ## OBLITERATUS/gemma-4-E4B-it-OBLITERATED
 - **ID**: model_obliteratus_gemma_4_e4b_it_obliterated
+- **Source**: 
+
+## OBLITERATUS/Ornith-1.5-9B-OBLITERATED
+- **ID**: model_obliteratus_ornith_1_5_9b_obliterated
 - **Source**: 
 
 ## OBLITERATUS/Qwen3.6-27B-OBLITERATED
@@ -4766,6 +4786,10 @@
 
 ## Qwen/Qwen-72B
 - **ID**: model_qwen_qwen_72b
+- **Source**: 
+
+## Qwen/Qwen-7B
+- **ID**: model_qwen_qwen_7b
 - **Source**: 
 
 ## Qwen/Qwen-7B-Chat
