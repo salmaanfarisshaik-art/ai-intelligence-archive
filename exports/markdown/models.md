@@ -132,6 +132,10 @@
 - **ID**: model_allenai_olmo_1b_hf
 - **Source**: 
 
+## allenai/OLMo-2-0325-32B-Instruct
+- **ID**: model_allenai_olmo_2_0325_32b_instruct
+- **Source**: 
+
 ## allenai/OLMo-2-0425-1B
 - **ID**: model_allenai_olmo_2_0425_1b
 - **Source**: 
@@ -762,6 +766,10 @@
 
 ## chbae624/vllm-translategemma-12b-it
 - **ID**: model_chbae624_vllm_translategemma_12b_it
+- **Source**: 
+
+## CMSManhattan/JiRackUltra_14b
+- **ID**: model_cmsmanhattan_jirackultra_14b
 - **Source**: 
 
 ## CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF
@@ -1760,6 +1768,10 @@
 - **ID**: model_huihui_ai_deepseek_r1_distill_qwen_32b_abliterated
 - **Source**: 
 
+## huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated-GGUF
+- **ID**: model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf
+- **Source**: 
+
 ## huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF
 - **ID**: model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf
 - **Source**: 
@@ -2358,6 +2370,10 @@
 
 ## llmfan46/Gemma-4-Garnet-V2-31B-it-ultra-uncensored-heretic
 - **ID**: model_llmfan46_gemma_4_garnet_v2_31b_it_ultra_uncensored_heretic
+- **Source**: 
+
+## llmfan46/LongCat-Flash-Lite-Sparse-Ultra-Uncensored-Heretic-Native-MTP-And-LSA-Preserved-GGUF
+- **ID**: model_llmfan46_longcat_flash_lite_sparse_ultra_uncensored_heretic_native_mtp_and_lsa_preserved_gguf
 - **Source**: 
 
 ## llmfan46/Ornith-1.0-35B-uncensored-heretic-GGUF
@@ -3134,6 +3150,10 @@
 
 ## mlx-community/gemma-3-1b-it-qat-4bit
 - **ID**: model_mlx_community_gemma_3_1b_it_qat_4bit
+- **Source**: 
+
+## mlx-community/GLM-5.2-mxfp4
+- **ID**: model_mlx_community_glm_5_2_mxfp4
 - **Source**: 
 
 ## mlx-community/gpt-oss-20b-MXFP4-Q8
@@ -5106,6 +5126,10 @@
 
 ## SentientAGI/Dobby-Mini-Unhinged-Llama-3.1-8B
 - **ID**: model_sentientagi_dobby_mini_unhinged_llama_3_1_8b
+- **Source**: 
+
+## SergiioB/Qwen3.8-27B-GPTQ-Int4-sym-G128-MTP-BF16
+- **ID**: model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16
 - **Source**: 
 
 ## shafire/Zero-Gemma4-E4B-OpenZero-GGUF
