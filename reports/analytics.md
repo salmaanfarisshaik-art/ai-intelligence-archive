@@ -140,11 +140,11 @@
 
 - **region:us**: 230
 - **text-generation**: 74
-- **library:datasets**: 70
-- **library:mlcroissant**: 70
+- **library:datasets**: 71
+- **library:mlcroissant**: 71
 - **license:apache-2.0**: 64
+- **modality:text**: 64
 - **endpoints_compatible**: 63
-- **modality:text**: 63
 - **safetensors**: 63
 - **transformers**: 63
 - **language:en**: 59
@@ -162,7 +162,7 @@
 - **task_categories:text-generation**: 25
 - **deploy:sagemaker**: 21
 - **modality:image**: 21
-- **size_categories:n<1K**: 20
+- **size_categories:n<1K**: 21
 - **qwen3**: 19
 - **license:other**: 18
 - **modality:tabular**: 18
