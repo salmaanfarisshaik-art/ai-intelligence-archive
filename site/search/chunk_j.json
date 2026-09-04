@@ -231,6 +231,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_coherelabs_aya_expanse_8b",
       "match_type": "exact",
       "score": 1.5
@@ -3082,6 +3087,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_63da18ebaa68107243401b0d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/codex-maxxing-long-running-work",
       "match_type": "exact",
       "score": 1.0
@@ -5442,6 +5452,13 @@
       "score": 1.0
     }
   ],
+  "jiang": [
+    {
+      "entity_id": "dataset_tasksource_reclor",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jianhan": [
     {
       "entity_id": "dataset_sii_wangzj_polymarket_data",
@@ -5466,6 +5483,13 @@
   "jiaqi": [
     {
       "entity_id": "dataset_chenhn02_metafold",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "jiashi": [
+    {
+      "entity_id": "dataset_tasksource_reclor",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5904,6 +5928,20 @@
       "entity_id": "dataset_jinzhuoran_rwku",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "jirack": [
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "jirackultra": [
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "jisoo": [
@@ -11981,6 +12019,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_63da18ebaa68107243401b0d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_65036d0869558920757dd01e",
       "match_type": "exact",
       "score": 1.0
@@ -15366,6 +15409,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_gair_darwin_cc",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_gbaker_medqa_usmle_4_options",
       "match_type": "exact",
       "score": 1.5
@@ -15412,6 +15460,11 @@
     },
     {
       "entity_id": "dataset_internscience_researchclawbench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_ise_uiuc_magicoder_evol_instruct_110k",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15657,6 +15710,11 @@
     },
     {
       "entity_id": "dataset_svfsearch_svfsearchdata",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_tasksource_reclor",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15937,6 +15995,11 @@
     },
     {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tempofunk_small",
       "match_type": "exact",
       "score": 1.0
     },
@@ -19984,6 +20047,11 @@
     },
     {
       "entity_id": "dataset_tasl_lab_uniocc",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voiceofml_vomebook",
       "match_type": "exact",
       "score": 1.0
     },

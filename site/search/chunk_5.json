@@ -1280,6 +1280,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_funtion_crowdhuman",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_x779_danbooruwildcards",
       "match_type": "exact",
       "score": 1.0
@@ -1827,6 +1832,11 @@
       "entity_id": "dataset_allenai_s2_naip",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_tempofunk_small",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "dataset_tempofunk_tempofunk_sdance",
@@ -3467,6 +3477,13 @@
       "score": 1.5
     }
   ],
+  "58bit": [
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "59": [
     {
       "entity_id": "alpaca_3924733053072674375",
@@ -4160,6 +4177,11 @@
       "entity_id": "dataset_microsoft_rstar_coder",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6887a1762cef2ff976d3eeeb",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "5ba7c9f9e4b008ab8041fd3d": [
@@ -4541,6 +4563,11 @@
     },
     {
       "entity_id": "dataset_syn4d_syn4d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a382f6fa519cd301493b37b",
       "match_type": "exact",
       "score": 1.0
     }

@@ -1,0 +1,41 @@
+{
+  "unique_id": "hf_ds_6a382f6fa519cd301493b37b",
+  "schema_version": "1.0",
+  "name": "Syn4D/Syn4D",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/                    # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_1_attachments/        # Additional per-scene attachments for Syn4D V1 stride-1\n  syn4d_v1_stride_5/                    # Syn4D V1, every 5th frame can be a tracking… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
+  "size": "231607",
+  "source_url": "https://huggingface.co/datasets/Syn4D/Syn4D",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "6a382f6fa519cd301493b37b",
+    "id": "Syn4D/Syn4D",
+    "author": "Syn4D",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-07-30T19:35:48.000Z",
+    "likes": 21,
+    "private": false,
+    "sha": "1c01929bc27b8d87f842da726513ed4f401efdeb",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/                    # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_1_attachments/        # Additional per-scene attachments for Syn4D V1 stride-1\n  syn4d_v1_stride_5/                    # Syn4D V1, every 5th frame can be a tracking… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
+    "downloads": 231607,
+    "tags": [
+      "license:cc-by-4.0",
+      "arxiv:2605.05207",
+      "region:us"
+    ],
+    "createdAt": "2026-06-21T18:37:35.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-09-04T12:31:38.924602+00:00",
+  "last_updated": "2026-07-30T19:35:48.000Z",
+  "links": {
+    "related_models": [
+      "datasets/Syn4D"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

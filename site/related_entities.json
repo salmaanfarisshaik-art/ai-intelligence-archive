@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T07:53:16Z",
+  "generated_at": "2026-09-04T12:33:32Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1152,6 +1152,7 @@
       "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "model_obliteratus_qwen3_8_27b_obliterated",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
+      "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
       "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
       "model_z_lab_qwen3_8_27b_dflash2",
       "model_z_lab_qwen3_8_27b_dflash2_gguf"
@@ -1304,6 +1305,9 @@
     "hf_allenai_Dolci-Think-RL-7B": [
       "model_allenai_olmo_3_7b_think"
     ],
+    "hf_allenai_OLMo-2-0325-32B-DPO": [
+      "model_allenai_olmo_2_0325_32b_instruct"
+    ],
     "hf_allenai_OLMo-2-0425-1B-RLVR1": [
       "model_allenai_olmo_2_0425_1b_instruct"
     ],
@@ -1337,6 +1341,9 @@
     "hf_allenai_RLVR-GSM": [
       "model_allenai_olmo_2_1124_7b_instruct",
       "model_allenai_olmoe_1b_7b_0125_instruct"
+    ],
+    "hf_allenai_RLVR-GSM-MATH-IF-Mixed-Constraints": [
+      "model_allenai_olmo_2_0325_32b_instruct"
     ],
     "hf_allenai_RLVR-MATH": [
       "model_allenai_olmo_2_0425_1b_instruct"
@@ -2063,6 +2070,9 @@
     ],
     "hf_lianghsun_tw-reasoning-instruct": [
       "model_twinkle_ai_gemma_3_4b_t1_it"
+    ],
+    "hf_llmfan46_LongCat-Flash-Lite-Sparse-Ultra-Uncensored-Heretic-Native-MTP-And-LSA-Preserved": [
+      "model_llmfan46_longcat_flash_lite_sparse_ultra_uncensored_heretic_native_mtp_and_lsa_preserved_gguf"
     ],
     "hf_llmfan46_Ornith-1.0-35B-uncensored-heretic": [
       "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf"
@@ -2823,6 +2833,9 @@
     "hf_osieosie_tmax-sft-skill-tax-20260505-2.2k-combined-balanced-qwen3.6-27b-thinking": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
     ],
+    "hf_oyildirim_CyberStrike-OffSec-35B": [
+      "model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf"
+    ],
     "hf_parler-tts_libritts-r-filtered-speaker-descriptions": [
       "model_parler_tts_parler_tts_mini_multilingual_v1_1"
     ],
@@ -3149,6 +3162,7 @@
       "model_unsloth_glm_5_2_gguf"
     ],
     "hf_zai-org_GLM-5.2-FP8": [
+      "model_mlx_community_glm_5_2_mxfp4",
       "model_phalacloud_glm_5_2_w4afp8"
     ],
     "hf_zai-org_GLM-5.3": [
@@ -3258,6 +3272,10 @@
     ],
     "model_allenai_olmo_1b_hf": [
       "hf_allenai_dolma"
+    ],
+    "model_allenai_olmo_2_0325_32b_instruct": [
+      "hf_allenai_OLMo-2-0325-32B-DPO",
+      "hf_allenai_RLVR-GSM-MATH-IF-Mixed-Constraints"
     ],
     "model_allenai_olmo_2_0425_1b_instruct": [
       "hf_allenai_OLMo-2-0425-1B-RLVR1",
@@ -4190,6 +4208,9 @@
     "model_huihui_ai_deepseek_r1_distill_qwen_32b_abliterated": [
       "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-32B"
     ],
+    "model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf": [
+      "hf_oyildirim_CyberStrike-OffSec-35B"
+    ],
     "model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash-0731"
     ],
@@ -4489,6 +4510,9 @@
       "hf_ConicCat_Condor-SFT-Filtered",
       "hf_ConicCat_Gemma4-GarnetV2-31B",
       "hf_ConicCat_Gutenberg-SFT"
+    ],
+    "model_llmfan46_longcat_flash_lite_sparse_ultra_uncensored_heretic_native_mtp_and_lsa_preserved_gguf": [
+      "hf_llmfan46_LongCat-Flash-Lite-Sparse-Ultra-Uncensored-Heretic-Native-MTP-And-LSA-Preserved"
     ],
     "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf": [
       "hf_llmfan46_Ornith-1.0-35B-uncensored-heretic"
@@ -4962,6 +4986,9 @@
     ],
     "model_mlx_community_gemma_3_1b_it_qat_4bit": [
       "hf_google_gemma-3-1b-it"
+    ],
+    "model_mlx_community_glm_5_2_mxfp4": [
+      "hf_zai-org_GLM-5.2-FP8"
     ],
     "model_mlx_community_gpt_oss_20b_mxfp4_q8": [
       "hf_openai_gpt-oss-20b"
@@ -6154,6 +6181,9 @@
     ],
     "model_sentientagi_dobby_mini_unhinged_llama_3_1_8b": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
+    ],
+    "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_shafire_zero_gemma4_e4b_openzero_gguf": [
       "hf_unsloth_gemma-4-E4B-it"

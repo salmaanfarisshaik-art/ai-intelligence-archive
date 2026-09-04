@@ -978,6 +978,11 @@
       "entity_id": "dataset_epfml_fineweb_hq",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_68b209361fda17d2b03263e4",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xlnet": [
@@ -1258,6 +1263,13 @@
       "entity_id": "alpaca_771534529718621634",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "xpu": [
+    {
+      "entity_id": "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "xr": [

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "28441b6024e71d4a1c1c0f6bf171c935cd5a43f2",
   "description": "\n\t\n\t\t\n\t\tDataset Card for MultiPL-E\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nMultiPL-E is a dataset for evaluating large language models for code\ngeneration that supports 22 programming languages. It takes the OpenAI \nHumanEval and the Mostly Basic Python Programs (MBPP) benchmarks and uses little compilers to\ntranslate them  to other languages. It is easy to add support for new languages \nand benchmarks.\nThe dataset is divided into several configurations named SRCDATA-LANG, where\nSRCDATA is either… See the full description on the dataset page: https://huggingface.co/datasets/nuprl/MultiPL-E.",
-  "downloads": 56115,
+  "downloads": 58443,
   "tags": [
     "annotations_creators:machine-generated",
     "language_creators:machine-generated",

@@ -22,6 +22,12 @@
 - **URL**: [https://huggingface.co/datasets/abisee/cnn_dailymail](https://huggingface.co/datasets/abisee/cnn_dailymail)
 - **Tags**: annotations_creators:no-annotation, format:parquet, language:en, language_creators:found, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, multilinguality:monolingual, region:us, size_categories:100K<n<1M, source_datasets:original, task_categories:summarization, task_ids:news-articles-summarization
 
+## tau/commonsense_qa
+- **ID**: hf_ds_621ffdd236468d709f181dd0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/tau/commonsense_qa](https://huggingface.co/datasets/tau/commonsense_qa)
+- **Tags**: annotations_creators:crowdsourced, arxiv:1811.00937, format:parquet, language:en, language_creators:crowdsourced, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:text, multilinguality:monolingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:question-answering, task_ids:open-domain-qa
+
 ## nyu-mll/glue
 - **ID**: hf_ds_621ffdd236468d709f181e3f
 - **Source**: HuggingFace Datasets
@@ -141,6 +147,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00)
 - **Tags**: region:us
+
+## lukaemon/bbh
+- **ID**: hf_ds_63da18ebaa68107243401b0d
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/lukaemon/bbh](https://huggingface.co/datasets/lukaemon/bbh)
+- **Tags**: arxiv:2210.09261, format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:1K<n<10K
 
 ## anon8231489123/ShareGPT_Vicuna_unfiltered
 - **ID**: hf_ds_642912f7a760fe0bf37996b1
@@ -544,6 +556,12 @@
 - **URL**: [https://huggingface.co/datasets/InternRobotics/InternData-A1](https://huggingface.co/datasets/InternRobotics/InternData-A1)
 - **Tags**: Embodied-AI, Robotic manipulation, arxiv:2511.16651, language:en, modality:3d, modality:image, modality:text, region:us, size_categories:n>1T, task_categories:other, task_categories:robotics
 
+## HuggingFaceM4/FineVision
+- **ID**: hf_ds_6887a1762cef2ff976d3eeeb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/HuggingFaceM4/FineVision](https://huggingface.co/datasets/HuggingFaceM4/FineVision)
+- **Tags**: arxiv:2510.17269, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:image, modality:text, region:us, size_categories:10M<n<100M
+
 ## yyyzzzzyyy/envss
 - **ID**: hf_ds_68a5ee2849792b1224356f09
 - **Source**: HuggingFace Datasets
@@ -561,6 +579,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset](https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset)
 - **Tags**: ASL, American Sign Language, Gesture Recognition, Video Dataset, library:datasets, library:mlcroissant, license:mit, modality:video, region:us, size_categories:n<1K
+
+## epfml/FineWeb-HQ
+- **ID**: hf_ds_68b209361fda17d2b03263e4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/epfml/FineWeb-HQ](https://huggingface.co/datasets/epfml/FineWeb-HQ)
+- **Tags**: arxiv:2502.10361, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:odc-by, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, task_categories:text-generation
 
 ## ryanmarten/OpenThoughts-1k-sample
 - **ID**: hf_ds_68b39036631546df1cfe0cba
@@ -736,6 +760,12 @@
 - **URL**: [https://huggingface.co/datasets/HennyPr/ps2_hf2](https://huggingface.co/datasets/HennyPr/ps2_hf2)
 - **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
 
+## agibot-world/AgiBotWorld2026
+- **ID**: hf_ds_69b0d60653fc22f5d5d3c07f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/agibot-world/AgiBotWorld2026](https://huggingface.co/datasets/agibot-world/AgiBotWorld2026)
+- **Tags**: agibot, dual-arm, embodied-ai, imitation-learning, language:en, lerobot, license:cc-by-nc-sa-4.0, modality:image, modality:text, real-world, region:us, size_categories:1K<n<10K, task_categories:robotics
+
 ## chuhaojie/MELD
 - **ID**: hf_ds_69b169093bb915e5a938f797
 - **Source**: HuggingFace Datasets
@@ -904,6 +934,12 @@
 - **URL**: [https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer](https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer)
 - **Tags**: region:us
 
+## Syn4D/Syn4D
+- **ID**: hf_ds_6a382f6fa519cd301493b37b
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Syn4D/Syn4D](https://huggingface.co/datasets/Syn4D/Syn4D)
+- **Tags**: arxiv:2605.05207, license:cc-by-4.0, region:us
+
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
@@ -950,7 +986,7 @@
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/newe](https://huggingface.co/datasets/gfdg34fsd/newe)
-- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

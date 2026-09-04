@@ -87,6 +87,41 @@
     "local_path": "datasets/abisee/hf_ds_621ffdd236468d709f181dba.json"
   },
   {
+    "id": "hf_ds_621ffdd236468d709f181dd0",
+    "title": "tau/commonsense_qa",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "annotations_creators:crowdsourced",
+      "arxiv:1811.00937",
+      "format:parquet",
+      "language:en",
+      "language_creators:crowdsourced",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:mit",
+      "modality:text",
+      "multilinguality:monolingual",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "source_datasets:original",
+      "task_categories:question-answering",
+      "task_ids:open-domain-qa"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/tau"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/tau/commonsense_qa",
+    "local_path": "datasets/tau/hf_ds_621ffdd236468d709f181dd0.json"
+  },
+  {
     "id": "hf_ds_621ffdd236468d709f181e3f",
     "title": "nyu-mll/glue",
     "category": "dataset",
@@ -1122,6 +1157,31 @@
     },
     "source_url": "https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00",
     "local_path": "datasets/atokforps/hf_ds_63c82e7ea0c5c8cfa84efe73.json"
+  },
+  {
+    "id": "hf_ds_63da18ebaa68107243401b0d",
+    "title": "lukaemon/bbh",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2210.09261",
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "modality:text",
+      "region:us",
+      "size_categories:1K<n<10K"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/lukaemon/bbh",
+    "local_path": "datasets/lukaemon/hf_ds_63da18ebaa68107243401b0d.json"
   },
   {
     "id": "hf_ds_642912f7a760fe0bf37996b1",
@@ -3359,6 +3419,35 @@
     "local_path": "datasets/internrobotics/hf_ds_68822a776cf08537cb6be0af.json"
   },
   {
+    "id": "hf_ds_6887a1762cef2ff976d3eeeb",
+    "title": "HuggingFaceM4/FineVision",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2510.17269",
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:10M<n<100M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/HuggingFaceM4",
+        "spaces/HuggingFaceM4"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/HuggingFaceM4/FineVision",
+    "local_path": "datasets/huggingfacem4/hf_ds_6887a1762cef2ff976d3eeeb.json"
+  },
+  {
     "id": "hf_ds_68a5ee2849792b1224356f09",
     "title": "yyyzzzzyyy/envss",
     "category": "dataset",
@@ -3431,6 +3520,37 @@
     },
     "source_url": "https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset",
     "local_path": "datasets/zahidyasinmittha/hf_ds_68aefe4b74c4af3424207d2d.json"
+  },
+  {
+    "id": "hf_ds_68b209361fda17d2b03263e4",
+    "title": "epfml/FineWeb-HQ",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2502.10361",
+      "format:parquet",
+      "language:en",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:odc-by",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1B<n<10B",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/epfml"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/epfml/FineWeb-HQ",
+    "local_path": "datasets/epfml/hf_ds_68b209361fda17d2b03263e4.json"
   },
   {
     "id": "hf_ds_68b39036631546df1cfe0cba",
@@ -4116,6 +4236,37 @@
     },
     "source_url": "https://huggingface.co/datasets/HennyPr/ps2_hf2",
     "local_path": "datasets/hennypr/hf_ds_69af8aeeec432ae4abac9fd4.json"
+  },
+  {
+    "id": "hf_ds_69b0d60653fc22f5d5d3c07f",
+    "title": "agibot-world/AgiBotWorld2026",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "agibot",
+      "dual-arm",
+      "embodied-ai",
+      "imitation-learning",
+      "language:en",
+      "lerobot",
+      "license:cc-by-nc-sa-4.0",
+      "modality:image",
+      "modality:text",
+      "real-world",
+      "region:us",
+      "size_categories:1K<n<10K",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/agibot-world"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/agibot-world/AgiBotWorld2026",
+    "local_path": "datasets/agibot-world/hf_ds_69b0d60653fc22f5d5d3c07f.json"
   },
   {
     "id": "hf_ds_69b169093bb915e5a938f797",
@@ -4834,6 +4985,27 @@
     "local_path": "datasets/k9cli/hf_ds_6a3519d6ceabed997ec9ea1e.json"
   },
   {
+    "id": "hf_ds_6a382f6fa519cd301493b37b",
+    "title": "Syn4D/Syn4D",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2605.05207",
+      "license:cc-by-4.0",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/Syn4D"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Syn4D/Syn4D",
+    "local_path": "datasets/syn4d/hf_ds_6a382f6fa519cd301493b37b.json"
+  },
+  {
     "id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "title": "inclusionAI/OpenAoE-2000h",
     "category": "dataset",
@@ -5027,12 +5199,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:text",
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:text",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],

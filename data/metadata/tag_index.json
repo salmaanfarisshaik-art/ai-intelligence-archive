@@ -142,6 +142,9 @@
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
   ],
+  "agibot": [
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
+  ],
   "ai": [
     "pytorch",
     "tensorflow"
@@ -158,6 +161,7 @@
   ],
   "annotations_creators:crowdsourced": [
     "hf_ds_621ffdd236468d709f181db0",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -260,6 +264,9 @@
   "arxiv:1810.12440": [
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
+  ],
+  "arxiv:1811.00937": [
+    "hf_ds_621ffdd236468d709f181dd0"
   ],
   "arxiv:1903.00161": [
     "hf_google_gemma-3-1b-it",
@@ -401,6 +408,9 @@
   "arxiv:2210.03057": [
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
+  ],
+  "arxiv:2210.09261": [
+    "hf_ds_63da18ebaa68107243401b0d"
   ],
   "arxiv:2211.01786": [
     "hf_ds_6469bc7cf51b56a285b7797b"
@@ -566,6 +576,9 @@
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "arxiv:2502.10361": [
+    "hf_ds_68b209361fda17d2b03263e4"
+  ],
   "arxiv:2502.12404": [
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m"
@@ -629,6 +642,9 @@
   "arxiv:2510.05069": [
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
   ],
+  "arxiv:2510.17269": [
+    "hf_ds_6887a1762cef2ff976d3eeeb"
+  ],
   "arxiv:2511.04307": [
     "hf_ds_68e91443c366e5879388a4d4"
   ],
@@ -655,6 +671,9 @@
   "arxiv:2603.12201": [
     "hf_zai-org_GLM-5.2",
     "hf_zai-org_GLM-5.2-FP8"
+  ],
+  "arxiv:2605.05207": [
+    "hf_ds_6a382f6fa519cd301493b37b"
   ],
   "arxiv:2605.21272": [
     "hf_ds_69f0c6101cc98d8ac04c03cd"
@@ -1294,7 +1313,8 @@
   "dual-arm": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
   "ego-centric": [
     "hf_ds_69c3db34480308a6a3cabb37"
@@ -1306,6 +1326,9 @@
   ],
   "embodied intelligence": [
     "hf_ds_6954cdff0a36f347a9b323fd"
+  ],
+  "embodied-ai": [
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
   "en": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -1538,6 +1561,7 @@
   "format:parquet": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -1550,6 +1574,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_63a02c28f3334a6553d23fe0",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_ds_65036d0869558920757dd01e",
@@ -1566,6 +1591,8 @@
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
@@ -1581,8 +1608,7 @@
   ],
   "format:text": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
-    "hf_ds_69af8aeeec432ae4abac9fd4",
-    "hf_ds_6a8779d11c6e0f8d87cc3080"
+    "hf_ds_69af8aeeec432ae4abac9fd4"
   ],
   "format:webdataset": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
@@ -1768,6 +1794,7 @@
   ],
   "imitation-learning": [
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
@@ -2217,6 +2244,7 @@
   "language:en": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -2256,11 +2284,13 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_68822a776cf08537cb6be0af",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69c3db34480308a6a3cabb37",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
@@ -3620,6 +3650,7 @@
     "hf_ds_67cac990bdf9000d16109b38"
   ],
   "language_creators:crowdsourced": [
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_621ffdd236468d709f18200d",
@@ -3665,6 +3696,9 @@
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
   ],
+  "lerobot": [
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
+  ],
   "library:dask": [
     "hf_ds_621ffdd236468d709f181dba",
     "hf_ds_621ffdd236468d709f18200d",
@@ -3684,6 +3718,8 @@
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_69920596d401600ba4b9a839",
@@ -3695,6 +3731,7 @@
   "library:datasets": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -3710,6 +3747,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_63a02c28f3334a6553d23fe0",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3738,7 +3776,9 @@
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_68aefe4b74c4af3424207d2d",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_692dc013741d7eb4efaf4b65",
@@ -3762,8 +3802,7 @@
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
-    "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a8779d11c6e0f8d87cc3080"
+    "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "library:lance": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -3774,6 +3813,7 @@
   "library:mlcroissant": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -3789,6 +3829,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_63a02c28f3334a6553d23fe0",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3817,7 +3858,9 @@
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_68aefe4b74c4af3424207d2d",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_692dc013741d7eb4efaf4b65",
@@ -3841,11 +3884,11 @@
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
-    "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a8779d11c6e0f8d87cc3080"
+    "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "library:pandas": [
     "hf_ds_621ffdd236468d709f181db0",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -3854,6 +3897,7 @@
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_625552d2b339bb03abe3432d",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
     "hf_ds_65036d0869558920757dd01e",
@@ -3877,6 +3921,7 @@
   "library:polars": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -3889,6 +3934,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_63a02c28f3334a6553d23fe0",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -3913,6 +3959,8 @@
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_69822b12f4c99fc122169639",
@@ -4023,7 +4071,8 @@
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
-    "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
+    "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
+    "hf_ds_6a382f6fa519cd301493b37b"
   ],
   "license:cc-by-nc-4.0": [
     "hf_ds_67d6c9b5ba56e14eeb14fab6",
@@ -4035,7 +4084,8 @@
   "license:cc-by-nc-sa-4.0": [
     "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_6601c221829a6282b76a308d",
-    "hf_ds_6993525c8be5bf8321bcc775"
+    "hf_ds_6993525c8be5bf8321bcc775",
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
   "license:cc-by-sa-3.0": [
     "hf_ds_621ffdd236468d709f18200d",
@@ -4082,6 +4132,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_636a1b69f2f9ec4289c4c19e",
@@ -4126,6 +4177,7 @@
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_6851cac31458ae6b02f8e8e7",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a615c95fb10b1093e0ea9ed"
@@ -4281,8 +4333,10 @@
     "hf_ds_679255cc5a8e868cbe62569f",
     "hf_ds_67eb39ec9c3049765889d084",
     "hf_ds_68822a776cf08537cb6be0af",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_696dc1fee7a76925b95bba1d",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
@@ -4303,6 +4357,7 @@
     "hf_ds_669e6b2752cf1c619d4c0178",
     "hf_ds_66a9fba22c7c3ebdd7de3d33",
     "hf_ds_675d7e29e24babdf1842d270",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_69bd10117ce15b06bbea0357",
@@ -4313,6 +4368,7 @@
   ],
   "modality:text": [
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -4327,6 +4383,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_629661ec4f4c1e9d06ef0503",
     "hf_ds_63a02c28f3334a6553d23fe0",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_6469bc7cf51b56a285b7797b",
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_64d670b5050438e3b95356bf",
@@ -4356,6 +4413,8 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68822a776cf08537cb6be0af",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
@@ -4364,6 +4423,7 @@
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
     "hf_ds_69af8aeeec432ae4abac9fd4",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
@@ -4374,8 +4434,7 @@
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a4f0a92e633070a2d287ef9",
-    "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a8779d11c6e0f8d87cc3080"
+    "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "modality:timeseries": [
     "hf_ds_64edb45c5c9245397fc83a26",
@@ -4433,6 +4492,7 @@
   "multilinguality:monolingual": [
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181e77",
@@ -4747,7 +4807,8 @@
   "real-world": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
   "reasoning": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
@@ -4803,6 +4864,7 @@
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_ds_621ffdd236468d709f181db0",
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181e5e",
@@ -4823,6 +4885,7 @@
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_63a02c28f3334a6553d23fe0",
     "hf_ds_63c82e7ea0c5c8cfa84efe73",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_642912f7a760fe0bf37996b1",
     "hf_ds_645e3fcc43abb116540da202",
     "hf_ds_6469bc7cf51b56a285b7797b",
@@ -4890,9 +4953,11 @@
     "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_688209a61f4d0375592760e0",
     "hf_ds_68822a776cf08537cb6be0af",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_68a5ee2849792b1224356f09",
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_68d19889ef48faaef08b8710",
@@ -4922,6 +4987,7 @@
     "hf_ds_69a471da5b0ec60eb113b4c1",
     "hf_ds_69af8a70d620f76274dcd367",
     "hf_ds_69af8aeeec432ae4abac9fd4",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69b169093bb915e5a938f797",
     "hf_ds_69b3d79d63e7af41d98f1fd5",
     "hf_ds_69b6276dd5de8ef6a41f39e6",
@@ -4950,6 +5016,7 @@
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a3519d6ceabed997ec9ea1e",
+    "hf_ds_6a382f6fa519cd301493b37b",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
@@ -5168,6 +5235,7 @@
   ],
   "size_categories:10K<n<100K": [
     "hf_ds_621ffdd236468d709f181db0",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e5d",
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_625552d2b339bb03abe3432d",
@@ -5188,6 +5256,7 @@
     "hf_ds_66dc4e6348cb97a720daea22",
     "hf_ds_67134260dda81cf20b75342e",
     "hf_ds_67b9d203047d98a072b4e68c",
+    "hf_ds_6887a1762cef2ff976d3eeeb",
     "hf_ds_692ecca11aad0a1d75ac057c",
     "hf_ds_69920596d401600ba4b9a839"
   ],
@@ -5196,16 +5265,19 @@
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_69822b12f4c99fc122169639",
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "size_categories:1K<n<10K": [
     "hf_ds_621ffdd236468d709f181eb4",
+    "hf_ds_63da18ebaa68107243401b0d",
     "hf_ds_64a63fbb85638d0e698f055f",
     "hf_ds_6601c221829a6282b76a308d",
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_699243aa8be5bf8321adfd86",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b"
   ],
@@ -5240,8 +5312,7 @@
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a4f0a92e633070a2d287ef9",
-    "hf_ds_6a517a8032bfea14be5a68aa",
-    "hf_ds_6a8779d11c6e0f8d87cc3080"
+    "hf_ds_6a517a8032bfea14be5a68aa"
   ],
   "size_categories:n>1T": [
     "hf_ds_66e4b270f5579b829f4c18eb",
@@ -5310,6 +5381,7 @@
   ],
   "source_datasets:original": [
     "hf_ds_621ffdd236468d709f181dba",
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e3f",
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181e77",
@@ -5443,6 +5515,7 @@
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
   "task_categories:question-answering": [
+    "hf_ds_621ffdd236468d709f181dd0",
     "hf_ds_621ffdd236468d709f181e5e",
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_621ffdd236468d709f181fa6",
@@ -5467,6 +5540,7 @@
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69c3db34480308a6a3cabb37",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
@@ -5503,6 +5577,7 @@
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_688209a61f4d0375592760e0",
+    "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_69bd10117ce15b06bbea0357",
@@ -5576,6 +5651,9 @@
   ],
   "task_ids:news-articles-summarization": [
     "hf_ds_621ffdd236468d709f181dba"
+  ],
+  "task_ids:open-domain-qa": [
+    "hf_ds_621ffdd236468d709f181dd0"
   ],
   "task_ids:semantic-similarity-scoring": [
     "hf_ds_621ffdd236468d709f181e3f"

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e17b0de50bf8711222d957aac2b21245ef33af75",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"kuka_iiwa\",\n    \"total_episodes\": 209880,\n    \"total_frames\": 2455879,\n    \"total_tasks\": 1,\n    \"total_videos\": 209880,\n    \"total_chunks\": 210,\n    \"chunks_size\": 1000,\n    \"fps\": 10,\n    \"splits\": {\n        \"train\": \"0:209880\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/IPEC-COMMUNITY/kuka_lerobot.",
-  "downloads": 432332,
+  "downloads": 427587,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

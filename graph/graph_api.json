@@ -11772,6 +11772,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_621ffdd236468d709f181dd0",
+      "target": "datasets/tau"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_621ffdd236468d709f181e3f",
       "target": "datasets/nyu-mll"
     },
@@ -12082,6 +12087,16 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6887a1762cef2ff976d3eeeb",
+      "target": "datasets/HuggingFaceM4"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6887a1762cef2ff976d3eeeb",
+      "target": "spaces/HuggingFaceM4"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_68a7fb1964bbb2ec688d1af2",
       "target": "datasets/behavior-1k"
     },
@@ -12089,6 +12104,11 @@
       "relationship": "related_models",
       "source": "hf_ds_68aefe4b74c4af3424207d2d",
       "target": "datasets/ZahidYasinMittha"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_68b209361fda17d2b03263e4",
+      "target": "datasets/epfml"
     },
     {
       "relationship": "related_models",
@@ -12172,6 +12192,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_69b0d60653fc22f5d5d3c07f",
+      "target": "datasets/agibot-world"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_69bd10117ce15b06bbea0357",
       "target": "datasets/PresentBench"
     },
@@ -12249,6 +12274,11 @@
       "relationship": "related_models",
       "source": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "target": "datasets/k9cli"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6a382f6fa519cd301493b37b",
+      "target": "datasets/Syn4D"
     },
     {
       "relationship": "related_models",
@@ -12526,7 +12556,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-04T07:52:19.184957+00:00",
+  "generated_at": "2026-09-04T12:32:53.292315+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -141367,6 +141397,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_621ffdd236468d709f181dd0",
+      "label": "tau/commonsense_qa"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_621ffdd236468d709f181e3f",
       "label": "nyu-mll/glue"
     },
@@ -141464,6 +141499,11 @@
       "category": "dataset",
       "id": "hf_ds_63c82e7ea0c5c8cfa84efe73",
       "label": "atokforps/latent_worker_early-a2_00"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_63da18ebaa68107243401b0d",
+      "label": "lukaemon/bbh"
     },
     {
       "category": "dataset",
@@ -141802,6 +141842,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6887a1762cef2ff976d3eeeb",
+      "label": "HuggingFaceM4/FineVision"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_68a5ee2849792b1224356f09",
       "label": "yyyzzzzyyy/envss"
     },
@@ -141814,6 +141859,11 @@
       "category": "dataset",
       "id": "hf_ds_68aefe4b74c4af3424207d2d",
       "label": "ZahidYasinMittha/American-Sign-Language-Dataset"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_68b209361fda17d2b03263e4",
+      "label": "epfml/FineWeb-HQ"
     },
     {
       "category": "dataset",
@@ -141962,6 +142012,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69b0d60653fc22f5d5d3c07f",
+      "label": "agibot-world/AgiBotWorld2026"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69b169093bb915e5a938f797",
       "label": "chuhaojie/MELD"
     },
@@ -142099,6 +142154,11 @@
       "category": "dataset",
       "id": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "label": "k9cli/video-vec2wav2-tokenizer"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a382f6fa519cd301493b37b",
+      "label": "Syn4D/Syn4D"
     },
     {
       "category": "dataset",
@@ -150507,6 +150567,11 @@
     },
     {
       "category": "models",
+      "id": "model_boboliu_bge_reranker_v2_5_gemma2_lightweight_gptq",
+      "label": "boboliu/bge-reranker-v2.5-gemma2-lightweight-gptq"
+    },
+    {
+      "category": "models",
       "id": "model_boboliu_qwen3_embedding_4b_w4a16_g128",
       "label": "boboliu/Qwen3-Embedding-4B-W4A16-G128"
     },
@@ -151694,6 +151759,11 @@
       "category": "models",
       "id": "model_gritlm_gritlm_7b",
       "label": "GritLM/GritLM-7B"
+    },
+    {
+      "category": "models",
+      "id": "model_gronlp_gpt2_small_dutch",
+      "label": "GroNLP/gpt2-small-dutch"
     },
     {
       "category": "models",
@@ -454657,6 +454727,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 2505,
-  "total_nodes": 88425
+  "total_edges": 2511,
+  "total_nodes": 88433
 }

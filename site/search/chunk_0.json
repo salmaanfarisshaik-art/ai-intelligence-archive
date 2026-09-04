@@ -1973,6 +1973,13 @@
       "score": 1.0
     }
   ],
+  "00123": [
+    {
+      "entity_id": "dataset_funtion_crowdhuman",
+      "match_type": "exact",
+      "score": 2.5
+    }
+  ],
   "0016": [
     {
       "entity_id": "alpaca_-5098730006573396542",
@@ -2266,6 +2273,11 @@
     }
   ],
   "00656": [
+    {
+      "entity_id": "model_allenai_olmo_2_0325_32b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_allenai_olmo_2_0425_1b",
       "match_type": "exact",
@@ -3134,6 +3146,13 @@
   "01657": [
     {
       "entity_id": "model_rinna_japanese_gpt_neox_small",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "01662": [
+    {
+      "entity_id": "model_llmfan46_longcat_flash_lite_sparse_ultra_uncensored_heretic_native_mtp_and_lsa_preserved_gguf",
       "match_type": "exact",
       "score": 1.5
     }
@@ -4467,6 +4486,13 @@
       "entity_id": "model_deepseek_ai_deepseek_v3_0324",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "0325": [
+    {
+      "entity_id": "model_allenai_olmo_2_0325_32b_instruct",
+      "match_type": "exact",
+      "score": 5.0
     }
   ],
   "03281": [
@@ -6444,6 +6470,11 @@
   "05427": [
     {
       "entity_id": "dataset_openbmb_ultra_fineweb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_openbmb_ultra_fineweb_l1",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9044,6 +9075,13 @@
       "score": 1.5
     }
   ],
+  "08640": [
+    {
+      "entity_id": "dataset_aisa_group_posttrainbench_trajectories",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "08643": [
     {
       "entity_id": "dataset_tencent_hy3d_bench",
@@ -9269,6 +9307,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_openbmb_ultra_fineweb_l1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openbmb_ultra_fineweb_l3",
       "match_type": "exact",
       "score": 1.5
@@ -9486,6 +9529,11 @@
       "entity_id": "dataset_lukaemon_bbh",
       "match_type": "exact",
       "score": 2.5
+    },
+    {
+      "entity_id": "hf_ds_63da18ebaa68107243401b0d",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "09268": [

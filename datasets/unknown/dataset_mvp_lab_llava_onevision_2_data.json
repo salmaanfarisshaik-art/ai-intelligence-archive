@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bf7038ba5d17771dc113a3072f98591ad2e29541",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tLLaVA-OneVision-2-Data\n\t\n\nTraining data for the LLaVA-OneVision-2 multimodal model family. The release contains large-scale video data at several duration ranges, video captions and source mappings, and spatial-reasoning data used for mid-training.\n\n\t\n\t\t\n\t\n\t\n\t\tAt a Glance\n\t\n\nThe dataset is split across two Hugging Face repositories because of its size:\n\n\t\n\t\t\nRepository\nWhat it contains\n\n\n\t\t\nPart 1 (this repository)\n~60-second video shards, captions for all duration ranges… See the full description on the dataset page: https://huggingface.co/datasets/mvp-lab/LLaVA-OneVision-2-Data.",
-  "downloads": 109663,
+  "downloads": 117009,
   "tags": [
     "task_categories:video-text-to-text",
     "task_categories:visual-question-answering",

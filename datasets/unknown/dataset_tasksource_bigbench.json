@@ -9,7 +9,7 @@
   "private": false,
   "sha": "210c156767d2f4f05d2f4fd0bb275017a67040fd",
   "description": "BIG-Bench but it doesn't require the hellish dependencies (tensorflow, pypi-bigbench, protobuf) of the official version.\ndataset = load_dataset(\"tasksource/bigbench\",'movie_recommendation')\n\nCode to reproduce:\nhttps://colab.research.google.com/drive/1MKdLdF7oqrSQCeavAcsEnPdI85kD0LzU?usp=sharing\nDatasets are capped to 50k examples to keep things light.\nI also removed the default split when train was available also to save space, as default=train+val.\n@article{srivastava2022beyond… See the full description on the dataset page: https://huggingface.co/datasets/tasksource/bigbench.",
-  "downloads": 32696,
+  "downloads": 38984,
   "tags": [
     "task_categories:multiple-choice",
     "task_categories:question-answering",

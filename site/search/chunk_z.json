@@ -254,6 +254,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_mlx_community_glm_5_2_mxfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_mratsim_glm_4_32b_0414_w4a16_gptq",
       "match_type": "exact",
       "score": 3.0
@@ -2168,6 +2173,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_coherelabs_aya_expanse_8b",
       "match_type": "exact",
       "score": 1.5
@@ -2708,6 +2718,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_shibing624_macbert4csc_base_chinese",
       "match_type": "exact",
       "score": 1.5
@@ -3229,6 +3244,11 @@
       "entity_id": "dataset_rukaway_gs_scenes",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_63da18ebaa68107243401b0d",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zhoujt1994": [
@@ -3364,6 +3384,13 @@
   "zihan": [
     {
       "entity_id": "alpaca_4229224816730335232",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zihang": [
+    {
+      "entity_id": "dataset_tasksource_reclor",
       "match_type": "exact",
       "score": 1.0
     }

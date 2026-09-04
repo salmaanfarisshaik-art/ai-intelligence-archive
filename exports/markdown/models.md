@@ -652,6 +652,10 @@
 - **ID**: model_bloomer010_ling_3_0_tiny_gguf
 - **Source**: 
 
+## boboliu/bge-reranker-v2.5-gemma2-lightweight-gptq
+- **ID**: model_boboliu_bge_reranker_v2_5_gemma2_lightweight_gptq
+- **Source**: 
+
 ## boboliu/Qwen3-Embedding-4B-W4A16-G128
 - **ID**: model_boboliu_qwen3_embedding_4b_w4a16_g128
 - **Source**: 
@@ -1602,6 +1606,10 @@
 
 ## GritLM/GritLM-7B
 - **ID**: model_gritlm_gritlm_7b
+- **Source**: 
+
+## GroNLP/gpt2-small-dutch
+- **ID**: model_gronlp_gpt2_small_dutch
 - **Source**: 
 
 ## GSAI-ML/LLaDA-1.5

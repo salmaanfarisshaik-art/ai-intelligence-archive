@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-09-04T07:52:21.239295+00:00
-**Warnings:** 2505
+**Generated:** 2026-09-04T12:32:54.784102+00:00
+**Warnings:** 2511
 **Errors:** 180
 
 ## Issues
@@ -2542,6 +2542,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2609.04203v1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/uoft-cs
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/abisee
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tau
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nyu-mll
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Rowan
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/cais
@@ -2604,8 +2605,11 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/aline-gassenn
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/InternRobotics
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
+- **[WARNING]** `cross_links`: Orphaned graph edge target: spaces/HuggingFaceM4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/behavior-1k
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ZahidYasinMittha
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/epfml
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ryanmarten
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mvp-lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/vyokky
@@ -2622,6 +2626,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/shash42
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/siril-spcc
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/agibot-world
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PresentBench
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tars-robotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Williamsanderson
@@ -2638,6 +2643,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/gutoportelaa
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Syn4D
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/inclusionAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.24530
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/JoeLiu996
