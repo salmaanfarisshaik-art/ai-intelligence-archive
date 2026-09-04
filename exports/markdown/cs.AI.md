@@ -105,6 +105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.02304v3](http://arxiv.org/abs/2602.02304v3)
 
+## NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines
+- **ID**: arxiv_2602.13473v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13473v3](http://arxiv.org/abs/2602.13473v3)
+
 ## Statistical Early Stopping for Reasoning Models
 - **ID**: arxiv_2602.13935v3
 - **Source**: ArXiv
@@ -144,6 +149,11 @@
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.24929v2](http://arxiv.org/abs/2603.24929v2)
+
+## A Comparative Study in Surgical AI: Potential and Limitations of Data, Compute, and Scaling
+- **ID**: arxiv_2603.27341v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.27341v5](http://arxiv.org/abs/2603.27341v5)
 
 ## View-oriented Conversation Compiler for Agent Trace Analysis
 - **ID**: arxiv_2603.29678v3
@@ -2209,4 +2219,64 @@
 - **ID**: arxiv_2609.02885v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02885v1](http://arxiv.org/abs/2609.02885v1)
+
+## DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training
+- **ID**: arxiv_2609.04094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04094v1](http://arxiv.org/abs/2609.04094v1)
+
+## Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM
+- **ID**: arxiv_2609.04098v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04098v1](http://arxiv.org/abs/2609.04098v1)
+
+## Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable
+- **ID**: arxiv_2609.04127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04127v1](http://arxiv.org/abs/2609.04127v1)
+
+## Environment Evolution for Terminal Agents
+- **ID**: arxiv_2609.04128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04128v1](http://arxiv.org/abs/2609.04128v1)
+
+## The Natural Language Interaction Protocol and Standard for AI Agents
+- **ID**: arxiv_2609.04135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04135v1](http://arxiv.org/abs/2609.04135v1)
+
+## Efficient Test-Time Adaptation through Human-AI Interaction
+- **ID**: arxiv_2609.04141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04141v1](http://arxiv.org/abs/2609.04141v1)
+
+## Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments
+- **ID**: arxiv_2609.04148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04148v1](http://arxiv.org/abs/2609.04148v1)
+
+## From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research
+- **ID**: arxiv_2609.04166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04166v1](http://arxiv.org/abs/2609.04166v1)
+
+## A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms
+- **ID**: arxiv_2609.04170v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04170v1](http://arxiv.org/abs/2609.04170v1)
+
+## Rethinking On-Policy Distillation of Large Language Models II: One Training Example
+- **ID**: arxiv_2609.04172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04172v1](http://arxiv.org/abs/2609.04172v1)
+
+## A Computationally Feasible Framework for Causal Probabilistic Explanation
+- **ID**: arxiv_2609.04177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04177v1](http://arxiv.org/abs/2609.04177v1)
+
+## Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints
+- **ID**: arxiv_2609.04198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04198v1](http://arxiv.org/abs/2609.04198v1)
 

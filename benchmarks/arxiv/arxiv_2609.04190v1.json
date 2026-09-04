@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04190v1",
+  "schema_version": "1.0",
+  "name": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04190v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04190v1",
+    "updated": "2026-09-03T17:59:01Z",
+    "published": "2026-09-03T17:59:01Z",
+    "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+    "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a training-free framework combining sparse causal memory for local coherence, correspondence-based post-attention token injection for long-range identity preservation, and soft latent blending for edit locality. The same framework supports instruction-guided and reference-guided edits, including style transfer, attribute modification, object insertion, part-level editing, and subject replacement. On FiVE, EditVid achieves 78.16 FiVE-Acc, compared with 58.95 for the strongest evaluated training-free baseline, while obtaining competitive results on IVEBench. A user study further shows a 51.8\\% overall preference for EditVid over 7 competing methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:59:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04190v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

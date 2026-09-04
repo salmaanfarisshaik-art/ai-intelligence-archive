@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04202v1",
+  "schema_version": "1.0",
+  "name": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04202v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04202v1",
+    "updated": "2026-09-03T17:59:55Z",
+    "published": "2026-09-03T17:59:55Z",
+    "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+    "summary": "While data-driven 3D shape correspondence estimation has recently seen substantial progress, robust matching under partial observations and strong non-isometric deformations remains challenging. Existing learning-based approaches often rely on hand-crafted descriptors or template-based representations, whereas recent generative models over functional maps suffer from high inference cost, limited interpretability, and poor generalisation to partial shapes. In response to these limitations, this paper introduces TokenMatch, a new transformer-based unified model for estimating 3D shape correspondences. Our feed-forward approach trained exclusively on BeCoS, a challenging non-isometric partial-to-partial shape-matching dataset, can generalise to matching full shapes without retraining or fine-tuning. TokenMatch uses self- and cross-attention mechanisms to efficiently learn patch-level and point-level relations as well as dense correspondences between shape pairs. Our core insight is that meshes can be adaptively tokenised into patches using shape curvature guidance, enabling effective learning of shape-specific geometric descriptors for correspondence estimation. We evaluate TokenMatch on standard benchmarks for partial and full shape matching, including CP2P, PSMAL, BeCoS, FAUST, SCAPE, and SHREC'19. Our method achieves consistently high performance, in most cases outperforming existing methods for partial and full shape matching in the mean geodesic error and intersection-over-union metrics, while also running faster at sub-second inference speeds.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:59:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04202v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

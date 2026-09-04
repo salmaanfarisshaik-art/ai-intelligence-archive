@@ -3581,11 +3581,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_challenge_2026_challenge_data",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_digitallearninggmbh_math_lighteval",
       "match_type": "exact",
       "score": 1.0
@@ -33841,6 +33836,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_boboliu_bge_reranker_v2_5_gemma2_lightweight_gptq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_google_gemma_3_1b_it",
       "match_type": "exact",
       "score": 1.5
@@ -38867,6 +38867,11 @@
     },
     {
       "entity_id": "dataset_huggingface_course_documentation_images",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingface_deh_image_scan_data",
       "match_type": "exact",
       "score": 1.5
     },

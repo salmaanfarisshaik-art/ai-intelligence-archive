@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04108v1",
+  "schema_version": "1.0",
+  "name": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04108v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04108v1",
+    "updated": "2026-09-03T17:14:27Z",
+    "published": "2026-09-03T17:14:27Z",
+    "title": "Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) and on-policy distillation (OPD) have emerged as two dominant methods for post-training reasoning LLMs. Prior work uses OPD's dense token-level supervision to complement the sparse RL reward, fusing the two signals within a single step: either as a \\emph{weighted-additive combination} or a \\emph{teacher-modulated rescaling} of the RL advantage. In this paper, we show that a simple two-stage scheme, OPD-then-RL, consistently outperforms pure OPD, pure RLVR, and all such joint baselines across logic and math reasoning benchmarks. Beyond the empirical results, we further provide a systematic understanding of this through pass@$k$ behavior, learning dynamics, and parameter updates, yielding a consistent explanation: OPD expands the student's coverage of teacher-supported solutions and RL sharpens within that support, while jointly optimizing the two signals causes them to interfere.To provide a practical recipe, we find that the OPD validation score is the key signal for when to switch to RL, and that OPD is a better cold start for RL than SFT. Together, our results establish OPD-then-RL as a simple yet strong way to combine the two methods, turning two entangled signals into complementary stages.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:14:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04108v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

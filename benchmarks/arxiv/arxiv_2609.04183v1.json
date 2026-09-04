@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04183v1",
+  "schema_version": "1.0",
+  "name": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04183v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04183v1",
+    "updated": "2026-09-03T17:58:02Z",
+    "published": "2026-09-03T17:58:02Z",
+    "title": "Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning",
+    "summary": "Weakly-Supervised Dense Video Captioning aims to localize and describe multiple events in untrimmed videos given only an ordered set of event-level captions per video. Recent work synthesizes auxiliary transition captions via LLM to provide additional vision-language alignment, but these captions lack visual grounding and are rigidly assigned to every inter-event gap at a fixed location and duration. To address these, we propose Seeing Before Synthesizing (SBS), a framework that adaptively provides visually grounded linguistic guidance only where warranted. Leveraging a VLM, we generate frame-level narratives for the inter-event gaps and detect transitions from the semantic variation across them. For identified transitions, we then refine inter-event temporal masks by blending the temporal midpoint with the semantic change point and selecting the width that maximizes vision-language alignment. Experiments on ActivityNet Captions and YouCook2 demonstrate state-of-the-art performance in both captioning and localization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:58:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04183v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

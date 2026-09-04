@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04120v1",
+  "schema_version": "1.0",
+  "name": "BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04120v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04120v1",
+    "updated": "2026-09-03T17:22:33Z",
+    "published": "2026-09-03T17:22:33Z",
+    "title": "BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data",
+    "summary": "Video virtual try-on (VVT) aims to generate realistic videos of a person wearing a target garment. Recent methods leverage a keyframe-driven video generation paradigm to improve in-the-wild performance, yet they still rely on masks to localize try-on regions, making them vulnerable to large motions and severe occlusions. Although mask-free image-based try-on methods have shown promising results by leveraging large-scale pseudo data, extending this paradigm to videos remains difficult, as constructing video-level pseudo data is prohibitively expensive. Furthermore, coarse keyframe sampling and the scarcity of multi-view try-on data limit existing keyframe-driven methods in maintaining garment consistency and handling diverse try-on tasks.\n  To address these challenges, we propose BooM-VVT, a mask-free VVT framework built upon the keyframe-driven paradigm. To achieve mask-free VVT, we introduce a multi-stage training strategy that leverages image-level pseudo data for mask-free localization learning, substantially reducing the need for costly video-level pseudo data. To improve garment consistency, we propose Garment-Sensitive Keyframe Sampling, which selects keyframes based on garment-relevant body regions to better capture garment appearance. We further introduce Frame-Shared 3D-RoPE to establish spatiotemporal correspondences between keyframes and target video frames for accurate garment-detail transfer. Finally, we construct OmniView, a large-scale multi-view try-on dataset to support reliable try-on video generation under complex camera viewpoints and diverse try-on tasks. Extensive experiments demonstrate that BooM-VVT achieves superior temporal consistency and garment fidelity over existing methods. Project page: https://boomvvt.github.io/boomvvt.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:22:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04120v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

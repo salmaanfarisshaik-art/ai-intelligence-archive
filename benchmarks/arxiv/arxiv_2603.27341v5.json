@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.27341v5",
+  "schema_version": "1.0",
+  "name": "A Comparative Study in Surgical AI: Potential and Limitations of Data, Compute, and Scaling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.27341v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.27341v5",
+    "updated": "2026-09-03T17:16:09Z",
+    "published": "2026-03-28T17:18:40Z",
+    "title": "A Comparative Study in Surgical AI: Potential and Limitations of Data, Compute, and Scaling",
+    "summary": "Recent Artificial Intelligence (AI) models have matched or exceeded human experts in several benchmarks of biomedical task performance, but surgical benchmarks in particular are often missing from prominent medical benchmark suites. Since surgery requires integrating disparate tasks, generally-capable AI models could be particularly attractive as a collaborative tool if performance could be improved. On the one hand, the canonical approach of scaling architecture size and training data is attractive, especially since there are millions of hours of surgical video data generated per year. On the other hand, preparing surgical data for AI training requires significantly higher levels of professional expertise, and training on that data requires expensive computational resources. These trade-offs paint an uncertain picture of whether and to-what-extent modern AI could aid surgical practice. In this paper, we explore this question through a case study of surgical tool detection using state-of-the-art AI methods available in 2026. We demonstrate that even with multi-billion parameter models and extensive training, current Vision Language Models fall short in the seemingly simple task of tool detection in neurosurgery. Additionally, we show scaling experiments indicating that increasing model size and training time only leads to diminishing improvements in relevant performance metrics. Thus, our experiments suggest that current models could still face significant obstacles in surgical use cases. Moreover, some obstacles cannot be simply ``scaled away'' with additional compute and persist across diverse model architectures, raising the question of whether data and label availability are the only limiting factors. We discuss the main contributors to these constraints and advance potential solutions.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:16:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.27341v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

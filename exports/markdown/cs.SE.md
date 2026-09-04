@@ -215,3 +215,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01603v1](http://arxiv.org/abs/2609.01603v1)
 
+## SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents
+- **ID**: arxiv_2609.04167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04167v1](http://arxiv.org/abs/2609.04167v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04088v1",
+  "schema_version": "1.0",
+  "name": "Efficient Semantic Understanding from Digital Foveation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04088v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04088v1",
+    "updated": "2026-09-03T16:56:12Z",
+    "published": "2026-09-03T16:56:12Z",
+    "title": "Efficient Semantic Understanding from Digital Foveation",
+    "summary": "Dense semantic segmentation allocates computational resources uniformly across the entire image, regardless of scene complexity or task relevance. Inspired by biological vision, we investigate whether semantic understanding can be achieved more efficiently through digital foveated perception. We introduce a lightweight active-vision pipeline that combines saliency-driven fixation selection, high-resolution foveal observations, low-resolution contextual information, semantic accumulation, and adaptive computation. Beyond conventional dense prediction metrics, we use object-level evaluation to measure semantic understanding under sparse observations. On ADE20K-Object, a single foveated observation achieves 95.9% of the baseline Top-1 accuracy and 96.9% of the baseline Top-3 accuracy while requiring only 4.7% of the computational cost. At the scene level, semantic accumulation recovers 90.6% of the baseline object recall while using 58.6% of the computation. These results suggest that substantial semantic understanding can emerge from sparse observations when computation is allocated selectively, highlighting active vision as an efficient alternative to uniform dense processing and motivating evaluation protocols beyond conventional pixel-wise segmentation metrics.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T16:56:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04088v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

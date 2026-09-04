@@ -415,3 +415,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02861v1](http://arxiv.org/abs/2609.02861v1)
 
+## Adaptive Vision-Language Grasping via Composable Foundation Priors and Generalizable Grasp Synthesis
+- **ID**: arxiv_2609.04096v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04096v1](http://arxiv.org/abs/2609.04096v1)
+

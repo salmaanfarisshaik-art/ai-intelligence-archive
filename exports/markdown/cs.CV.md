@@ -110,6 +110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07188v2](http://arxiv.org/abs/2506.07188v2)
 
+## ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition
+- **ID**: arxiv_2506.10226v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.10226v3](http://arxiv.org/abs/2506.10226v3)
+
 ## CreatiPoster: Towards Editable and Controllable Multi-Layer Graphic Design Generation
 - **ID**: arxiv_2506.10890v2
 - **Source**: ArXiv
@@ -224,6 +229,11 @@
 - **ID**: arxiv_2510.14462v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.14462v3](http://arxiv.org/abs/2510.14462v3)
+
+## Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite Imagery
+- **ID**: arxiv_2510.15869v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.15869v4](http://arxiv.org/abs/2510.15869v4)
 
 ## VisionSelector: End-to-End Learnable Visual Token Compression for Efficient Multimodal LLMs
 - **ID**: arxiv_2510.16598v2
@@ -344,6 +354,11 @@
 - **ID**: arxiv_2512.23709v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.23709v3](http://arxiv.org/abs/2512.23709v3)
+
+## Quantum Implicit Neural Representations for Novel View Synthesis
+- **ID**: arxiv_2601.05250v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.05250v2](http://arxiv.org/abs/2601.05250v2)
 
 ## Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework
 - **ID**: arxiv_2601.06550v4
@@ -489,6 +504,11 @@
 - **ID**: arxiv_2603.26764v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.26764v2](http://arxiv.org/abs/2603.26764v2)
+
+## PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models
+- **ID**: arxiv_2603.28763v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.28763v2](http://arxiv.org/abs/2603.28763v2)
 
 ## Hierarchical Pre-Training of Vision Encoders with Large Language Model
 - **ID**: arxiv_2604.00086v2
@@ -3514,4 +3534,84 @@
 - **ID**: arxiv_2609.02886v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02886v1](http://arxiv.org/abs/2609.02886v1)
+
+## Continuous Actions from Discrete Minds: Latent-Aligned Planning for End-to-End Autonomous Driving
+- **ID**: arxiv_2609.04070v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04070v1](http://arxiv.org/abs/2609.04070v1)
+
+## TAP-Path: Task-Adaptive Structural and Token Pruning for Efficient and Trustworthy Pathology Foundation Models
+- **ID**: arxiv_2609.04071v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04071v1](http://arxiv.org/abs/2609.04071v1)
+
+## CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation
+- **ID**: arxiv_2609.04083v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04083v1](http://arxiv.org/abs/2609.04083v1)
+
+## Efficient Semantic Understanding from Digital Foveation
+- **ID**: arxiv_2609.04088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04088v1](http://arxiv.org/abs/2609.04088v1)
+
+## The Shape of Time: Video-Token Contrast for Temporal Understanding in VideoLMs
+- **ID**: arxiv_2609.04110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04110v1](http://arxiv.org/abs/2609.04110v1)
+
+## BooM-VVT: Boosting Mask-Free Video Virtual Try-On with Image-Level Pseudo Data
+- **ID**: arxiv_2609.04120v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04120v1](http://arxiv.org/abs/2609.04120v1)
+
+## Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding
+- **ID**: arxiv_2609.04131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04131v1](http://arxiv.org/abs/2609.04131v1)
+
+## Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System
+- **ID**: arxiv_2609.04151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04151v1](http://arxiv.org/abs/2609.04151v1)
+
+## Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations
+- **ID**: arxiv_2609.04174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04174v1](http://arxiv.org/abs/2609.04174v1)
+
+## Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning
+- **ID**: arxiv_2609.04183v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04183v1](http://arxiv.org/abs/2609.04183v1)
+
+## One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing
+- **ID**: arxiv_2609.04190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04190v1](http://arxiv.org/abs/2609.04190v1)
+
+## Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+- **ID**: arxiv_2609.04196v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04196v1](http://arxiv.org/abs/2609.04196v1)
+
+## Principia: Relational Physics Tests for Video Models
+- **ID**: arxiv_2609.04200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04200v1](http://arxiv.org/abs/2609.04200v1)
+
+## Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+- **ID**: arxiv_2609.04201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04201v1](http://arxiv.org/abs/2609.04201v1)
+
+## TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation
+- **ID**: arxiv_2609.04202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04202v1](http://arxiv.org/abs/2609.04202v1)
+
+## Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision
+- **ID**: arxiv_2609.04203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04203v1](http://arxiv.org/abs/2609.04203v1)
 

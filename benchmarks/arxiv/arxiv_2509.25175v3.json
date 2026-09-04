@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.25175v3",
+  "schema_version": "1.0",
+  "name": "EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.25175v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.25175v3",
+    "updated": "2026-09-03T17:38:01Z",
+    "published": "2025-09-29T17:59:07Z",
+    "title": "EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering",
+    "summary": "Large language model (LLM) steering has emerged as a promising paradigm for controlling model behavior at inference time through targeted manipulation of hidden states, offering a lightweight alternative to expensive retraining. However, existing steering frameworks suffer from critical limitations: computational inefficiency, limited extensibility, and restricted functionality that hinder both research progress and practical deployment. We present EasySteer, a unified framework for high-performance, extensible LLM steering built on vLLM. Our system features modular architecture with pluggable interfaces for both analysis-based and learning-based methods, fine-grained parameter control, pre-computed steering vectors for eight application domains, and an interactive demonstration system. Through deep integration with vLLM's optimized inference engine, EasySteer achieves 10.8-22.3$\\times$ speedup over existing frameworks. Extensive experiments demonstrate its effectiveness in overthinking mitigation, hallucination reduction, and other key applications. EasySteer transforms steering from research technique to production-ready capability, establishing critical infrastructure for deployable, controllable language models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:38:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.25175v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2502.18407v2",
+  "schema_version": "1.0",
+  "name": "AgentRM: Enhancing Agent Generalization with Reward Modeling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2502.18407v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2502.18407v2",
+    "updated": "2026-09-03T17:47:25Z",
+    "published": "2025-02-25T17:58:02Z",
+    "title": "AgentRM: Enhancing Agent Generalization with Reward Modeling",
+    "summary": "Existing LLM-based agents have achieved strong performance on held-in tasks, but their generalizability to unseen tasks remains poor. Hence, some recent work focus on fine-tuning the policy model with more diverse tasks to improve the generalizability. In this work, we find that finetuning a reward model to guide the policy model is more robust than directly finetuning the policy model. Based on this finding, we propose AgentRM, a generalizable reward model, to guide the policy model for effective test-time search. We comprehensively investigate three approaches to construct the reward model, including explicit reward modeling, implicit reward modeling and LLM-as-a-judge. We then use AgentRM to guide the answer generation with Best-of-N sampling and step-level beam search. On four types of nine agent tasks, AgentRM enhances the base policy model by $8.8$ points on average, surpassing the top general agent by $4.0$. Moreover, it demonstrates weak-to-strong generalization, yielding greater improvement of $12.6$ on LLaMA-3-70B policy model. As for the specializability, AgentRM can also boost a finetuned policy model and outperform the top specialized agent by $11.4$ on three held-in tasks. Further analysis verifies its effectiveness in test-time scaling. Codes will be released to facilitate the research in this area.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:47:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2502.18407v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

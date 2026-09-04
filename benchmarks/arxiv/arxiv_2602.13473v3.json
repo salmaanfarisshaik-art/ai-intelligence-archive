@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.13473v3",
+  "schema_version": "1.0",
+  "name": "NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.13473v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.13473v3",
+    "updated": "2026-09-03T16:52:08Z",
+    "published": "2026-02-13T21:26:43Z",
+    "title": "NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines",
+    "summary": "Although foundation models have achieved remarkable success in general domains, applying them to electroencephalography (EEG) analysis is constrained by substantial data requirements and large parameter counts, which incur prohibitive computational costs and impede deployment in resource-constrained clinical environments. General-purpose automated machine learning frameworks are likewise ill-suited to this domain, since exploration within an unbounded programmatic space fails to incorporate essential neurophysiological priors and frequently yields neuroscientifically implausible solutions. We therefore propose NeuroWeaver, a unified autonomous evolutionary agent that generalizes across diverse EEG datasets and tasks by reformulating pipeline engineering as a discrete constrained optimization problem solved through large language model (LLM)-driven generation of executable code. A Domain-Informed Subspace Initialization confines the search to a neuroscientifically plausible manifold, while a Multi-Objective Evolutionary Optimization dynamically balances performance, novelty, and efficiency via self-reflective refinement. Across five heterogeneous benchmarks, NeuroWeaver synthesizes lightweight pipelines that outperform state-of-the-art task-specific methods on nearly all metrics and attain accuracy comparable to large-scale foundation models, even surpassing them on the HMC and Workload benchmarks with only $0.18$M and $0.011$M parameters, respectively.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T16:52:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.13473v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

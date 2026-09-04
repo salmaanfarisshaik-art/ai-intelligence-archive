@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.28763v2",
+  "schema_version": "1.0",
+  "name": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.28763v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.28763v2",
+    "updated": "2026-09-03T17:59:22Z",
+    "published": "2026-03-30T17:59:18Z",
+    "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+    "summary": "Acquiring labeled datasets for 3D human mesh estimation is challenging due to depth ambiguities and the inherent difficulty of annotating 3D geometry from monocular images. Existing datasets are either real, with manually annotated 3D geometry and limited scale, or synthetic, rendered from 3D engines that provide precise labels but suffer from limited photorealism, low diversity, and high production costs. In this work, we explore a third path: generated data. We introduce PoseDreamer, a novel pipeline that leverages diffusion models to generate large-scale synthetic datasets with 3D mesh annotations. Our approach combines controllable image generation with Direct Preference Optimization for control alignment, curriculum-based hard sample mining, and multi-stage quality filtering. Together, these components naturally maintain correspondence between 3D labels and generated images, while prioritizing challenging samples to maximize dataset utility. Using PoseDreamer, we generate more than 500,000 high-quality synthetic samples, achieving a 76% improvement in image-quality metrics compared to rendering-based datasets. Models trained on PoseDreamer achieve performance comparable to or superior to those trained on real-world and traditional synthetic datasets. In addition, combining PoseDreamer with synthetic datasets results in better performance than combining real-world and synthetic datasets, demonstrating the complementary nature of our dataset. We will release the full dataset and generation code.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:59:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.28763v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

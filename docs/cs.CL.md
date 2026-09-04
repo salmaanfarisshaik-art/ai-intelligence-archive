@@ -61,6 +61,7 @@
 | [Affective Context Amplifies Sycophancy in LLM Responses](http://arxiv.org/abs/2608.21242v1) | ArXiv |  | 1 |
 | [AfriNLLB: Efficient Translation Models for African Languages](http://arxiv.org/abs/2602.09373v2) | ArXiv |  | 1 |
 | [Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents](http://arxiv.org/abs/2608.29606v1) | ArXiv |  | 1 |
+| [AgentRM: Enhancing Agent Generalization with Reward Modeling](http://arxiv.org/abs/2502.18407v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
 | [An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study](http://arxiv.org/abs/2608.20373v2) | ArXiv |  | 1 |
@@ -111,6 +112,7 @@
 | [Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics](http://arxiv.org/abs/2609.01575v1) | ArXiv |  | 1 |
 | [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) | ArXiv |  | 1 |
 | [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) | ArXiv |  | 1 |
+| [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1) | ArXiv |  | 1 |
 | [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1) | ArXiv |  | 1 |
 | [Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.31139v1) | ArXiv |  | 1 |
 | [Consilience for Verifier-Free Test-Time Scaling](http://arxiv.org/abs/2608.09898v1) | ArXiv |  | 1 |
@@ -156,9 +158,11 @@
 | [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
 | [DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models](http://arxiv.org/abs/2606.19257v1) | ArXiv |  | 1 |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](http://arxiv.org/abs/2609.02783v1) | ArXiv |  | 1 |
+| [EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
 | [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1) | ArXiv |  | 1 |
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
+| [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
 | [Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases](http://arxiv.org/abs/2607.25933v1) | ArXiv |  | 1 |
 | [Every Token Leaves a Ripple in the Stream of Thought: Eliciting Model-Internal Token Saliency for Chain-of-Thought Compression](http://arxiv.org/abs/2608.31066v1) | ArXiv |  | 1 |
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
@@ -231,6 +235,7 @@
 | [Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees](http://arxiv.org/abs/2608.17994v1) | ArXiv |  | 1 |
 | [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) | ArXiv |  | 1 |
 | [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](http://arxiv.org/abs/2607.00482v2) | ArXiv |  | 1 |
+| [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1) | ArXiv |  | 1 |
 | [Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](http://arxiv.org/abs/2609.01532v1) | ArXiv |  | 1 |
 | [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) | ArXiv |  | 1 |
 | [Labels have Human Values: Value Calibration of Subjective Tasks](http://arxiv.org/abs/2601.06631v2) | ArXiv |  | 1 |
@@ -243,6 +248,7 @@
 | [Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision](http://arxiv.org/abs/2603.07025v2) | ArXiv |  | 1 |
 | [Large Emotional World Model](http://arxiv.org/abs/2512.24149v2) | ArXiv |  | 1 |
 | [Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types](http://arxiv.org/abs/2604.09544v3) | ArXiv |  | 1 |
+| [Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1) | ArXiv |  | 1 |
 | [Layer-wise Positional Bias in Short-Context Language Modeling](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models](http://arxiv.org/abs/2603.29123v4) | ArXiv |  | 1 |
 | [Learning from the Self-future: On-policy Self-distillation for dLLMs](http://arxiv.org/abs/2606.18195v1) | ArXiv |  | 1 |
@@ -252,6 +258,7 @@
 | [Learning to Reason for Factuality](http://arxiv.org/abs/2508.05618v2) | ArXiv |  | 1 |
 | [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1) | ArXiv |  | 1 |
 | [Learning When to Trust via Selective Context Preference Optimization](http://arxiv.org/abs/2608.06377v1) | ArXiv |  | 1 |
+| [Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](http://arxiv.org/abs/2609.04194v1) | ArXiv |  | 1 |
 | [Like a bilingual baby: The advantage of visually grounding a bilingual language model](http://arxiv.org/abs/2210.05487v3) | ArXiv |  | 1 |
 | [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
@@ -330,6 +337,7 @@
 | [Prompt-Model Interaction Reaches the Fixed Points: A deterministic, task-free structural readout -- and the factorizations of it that failed](http://arxiv.org/abs/2608.21315v1) | ArXiv |  | 1 |
 | [Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models](http://arxiv.org/abs/2608.05064v1) | ArXiv |  | 1 |
 | [Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090](http://arxiv.org/abs/2608.27370v1) | ArXiv |  | 2 |
+| [Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090](http://arxiv.org/abs/2608.27370v2) | ArXiv |  | 2 |
 | [PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference](http://arxiv.org/abs/2607.20327v1) | ArXiv |  | 1 |
 | [Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines](http://arxiv.org/abs/2510.17252v2) | ArXiv |  | 1 |
 | [RA-FinBERT: Rule-aware LoRA adaptation for low-resource financial sentiment classification](http://arxiv.org/abs/2608.09834v1) | ArXiv |  | 1 |
@@ -365,6 +373,7 @@
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v2) | ArXiv |  | 1 |
 | [Self-Harness: Harnesses That Improve Themselves](http://arxiv.org/abs/2606.09498v2) | ArXiv |  | 1 |
 | [SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents](http://arxiv.org/abs/2608.29575v1) | ArXiv |  | 1 |
+| [Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](http://arxiv.org/abs/2609.04108v1) | ArXiv |  | 1 |
 | [SHARD: Safe and Helpful Alignment via Self-Reframing Distillation](http://arxiv.org/abs/2606.15517v2) | ArXiv |  | 1 |
 | [SHERLOC: Structured Diagnostic Localization for Code Repair Agents](http://arxiv.org/abs/2606.24820v2) | ArXiv |  | 1 |
 | [Shorthand for Thought: Compressing LLM Reasoning via Entropy-Guided Supertokens](http://arxiv.org/abs/2604.26355v5) | ArXiv |  | 1 |

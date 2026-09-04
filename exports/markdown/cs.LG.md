@@ -1185,3 +1185,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02849v1](http://arxiv.org/abs/2609.02849v1)
 
+## A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle
+- **ID**: arxiv_2609.04147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04147v1](http://arxiv.org/abs/2609.04147v1)
+

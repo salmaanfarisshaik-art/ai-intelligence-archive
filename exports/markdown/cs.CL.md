@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.14671v4](http://arxiv.org/abs/2502.14671v4)
 
+## AgentRM: Enhancing Agent Generalization with Reward Modeling
+- **ID**: arxiv_2502.18407v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.18407v2](http://arxiv.org/abs/2502.18407v2)
+
 ## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
 - **ID**: arxiv_2503.07303v3
 - **Source**: ArXiv
@@ -109,6 +114,11 @@
 - **ID**: arxiv_2509.25045v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25045v3](http://arxiv.org/abs/2509.25045v3)
+
+## EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering
+- **ID**: arxiv_2509.25175v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.25175v3](http://arxiv.org/abs/2509.25175v3)
 
 ## Regression Language Models for Code
 - **ID**: arxiv_2509.26476v3
@@ -2060,6 +2070,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27370v1](http://arxiv.org/abs/2608.27370v1)
 
+## Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
+- **ID**: arxiv_2608.27370v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27370v2](http://arxiv.org/abs/2608.27370v2)
+
 ## D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection
 - **ID**: arxiv_2608.27380v1
 - **Source**: ArXiv
@@ -2339,4 +2354,34 @@
 - **ID**: arxiv_2609.02859v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02859v1](http://arxiv.org/abs/2609.02859v1)
+
+## Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR
+- **ID**: arxiv_2609.04108v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04108v1](http://arxiv.org/abs/2609.04108v1)
+
+## Last Translation Benchmark
+- **ID**: arxiv_2609.04173v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04173v1](http://arxiv.org/abs/2609.04173v1)
+
+## Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views
+- **ID**: arxiv_2609.04180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04180v1](http://arxiv.org/abs/2609.04180v1)
+
+## Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning
+- **ID**: arxiv_2609.04194v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04194v1](http://arxiv.org/abs/2609.04194v1)
+
+## ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize
+- **ID**: arxiv_2609.04197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04197v1](http://arxiv.org/abs/2609.04197v1)
+
+## Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+- **ID**: arxiv_2609.04199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04199v1](http://arxiv.org/abs/2609.04199v1)
 

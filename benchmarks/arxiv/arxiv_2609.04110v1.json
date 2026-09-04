@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04110v1",
+  "schema_version": "1.0",
+  "name": "The Shape of Time: Video-Token Contrast for Temporal Understanding in VideoLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.04110v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04110v1",
+    "updated": "2026-09-03T17:14:55Z",
+    "published": "2026-09-03T17:14:55Z",
+    "title": "The Shape of Time: Video-Token Contrast for Temporal Understanding in VideoLMs",
+    "summary": "Seeing frames in order does not mean representing time. Modern VideoLMs receive ordered video streams, yet their main supervision acts on generated text rather than video-token representations where event dynamics should first emerge. This mismatch allows models to learn temporal answers from shortcuts such as objects, scenes, and language priors, without requiring internal video representations to capture event progression. To address this, we propose VT-Contrast, a representation-level temporal counterfactual objective for VideoLMs. Its design asks where temporal supervision should act and what temporal differences it should expose. VT-Contrast supervises selected late-layer last-frame video tokens, where temporal information is expected to be integrated before language generation, and contrasts order-preserving views with same-video reordered counterfactuals graded by Kendall tau distance. It requires no architectural changes, is compatible with diverse VideoLM training tasks, and improves overall performance across temporal understanding benchmarks. Our code is available at https://github.com/ANDgate99/VT-Contrast.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-04T07:49:50Z",
+  "last_updated": "2026-09-03T17:14:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04110v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
