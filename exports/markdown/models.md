@@ -196,6 +196,10 @@
 - **ID**: model_allenai_wildguard
 - **Source**: 
 
+## alpindale/Llama-Guard-3-1B
+- **ID**: model_alpindale_llama_guard_3_1b
+- **Source**: 
+
 ## amazon/BMOJOF-primed-HQwen3-8B-Instruct
 - **ID**: model_amazon_bmojof_primed_hqwen3_8b_instruct
 - **Source**: 
@@ -322,6 +326,10 @@
 
 ## AtomicChat/Qwen3.8-27B-GGUF
 - **ID**: model_atomicchat_qwen3_8_27b_gguf
+- **Source**: 
+
+## AtomicChat/Qwen3.8-Flash-Next-GGUF
+- **ID**: model_atomicchat_qwen3_8_flash_next_gguf
 - **Source**: 
 
 ## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
@@ -1210,6 +1218,10 @@
 
 ## Efficient-Large-Model/gemma-2-2b-it
 - **ID**: model_efficient_large_model_gemma_2_2b_it
+- **Source**: 
+
+## ekwek/Soprano-1.1-80M
+- **ID**: model_ekwek_soprano_1_1_80m
 - **Source**: 
 
 ## EleutherAI/gpt-j-6b
@@ -5592,6 +5604,10 @@
 - **ID**: model_trl_internal_testing_tiny_qwen2forcausallm_2_5
 - **Source**: 
 
+## trl-internal-testing/tiny-Qwen2ForCausalLM-R1-Distill
+- **ID**: model_trl_internal_testing_tiny_qwen2forcausallm_r1_distill
+- **Source**: 
+
 ## trl-internal-testing/tiny-Qwen3ForCausalLM
 - **ID**: model_trl_internal_testing_tiny_qwen3forcausallm
 - **Source**: 
@@ -5638,6 +5654,10 @@
 
 ## typhoon-ai/llama3.1-typhoon2-8b-instruct
 - **ID**: model_typhoon_ai_llama3_1_typhoon2_8b_instruct
+- **Source**: 
+
+## typhoon-ai/typhoon2.5-qwen3-30b-a3b
+- **ID**: model_typhoon_ai_typhoon2_5_qwen3_30b_a3b
 - **Source**: 
 
 ## typhoon-ai/typhoon2.5-qwen3-4b

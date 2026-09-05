@@ -581,6 +581,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_atom_in_the_universe_bild_deduped_10
+- **Source**: 
+
+## 
 - **ID**: dataset_atom_in_the_universe_bild_deduped_4
 - **Source**: 
 
@@ -826,6 +830,10 @@
 
 ## 
 - **ID**: dataset_boqian_li_wam_psi_egoverse_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_bramvanroy_fineweb_2_duckdbs
 - **Source**: 
 
 ## 
@@ -1401,6 +1409,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_edinburgh_dawg_mmlu_redux_2_0
+- **Source**: 
+
+## 
 - **ID**: dataset_edisonqkj_multicities
 - **Source**: 
 
@@ -1630,6 +1642,10 @@
 
 ## 
 - **ID**: dataset_fleaven_retargeted_amass_for_fouriern1
+- **Source**: 
+
+## 
+- **ID**: dataset_fleaven_retargeted_amass_for_robotics
 - **Source**: 
 
 ## 
@@ -1921,6 +1937,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hails_agieval_logiqa_en
+- **Source**: 
+
+## 
 - **ID**: dataset_hails_agieval_lsat_lr
 - **Source**: 
 
@@ -1950,6 +1970,14 @@
 
 ## 
 - **ID**: dataset_harborframework_terminal_bench_2_0
+- **Source**: 
+
+## 
+- **ID**: dataset_harborframework_terminal_bench_2_1
+- **Source**: 
+
+## 
+- **ID**: dataset_harborframework_terminal_bench_3_0
 - **Source**: 
 
 ## 
@@ -5141,6 +5169,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nvidia_physicalai_smartspaces
+- **Source**: 
+
+## 
 - **ID**: dataset_nvidia_physicalai_worldmodel_synthetic_autonomous_driving_scenarios
 - **Source**: 
 
@@ -5514,6 +5546,10 @@
 
 ## 
 - **ID**: dataset_pawlo2013_stanfordonlineproducts
+- **Source**: 
+
+## 
+- **ID**: dataset_pcuenq_coco_2017_mirror
 - **Source**: 
 
 ## 
@@ -7070,6 +7106,10 @@
 
 ## 
 - **ID**: dataset_x_humanoid_robomind_robomind
+- **Source**: 
+
+## 
+- **ID**: dataset_xaira_therapeutics_x_atlas_orion
 - **Source**: 
 
 ## 
