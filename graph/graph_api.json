@@ -12452,6 +12452,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a7460ebf3031d8573c2fe30",
+      "target": "datasets/challenge-2026"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a7609d6663f80dd30d388fc",
       "target": "datasets/RekaAI"
     },
@@ -12706,7 +12711,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-05T05:18:32.789459+00:00",
+  "generated_at": "2026-09-05T10:00:52.647399+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -142127,6 +142132,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_67d7417c7c4950a62b4c33a4",
+      "label": "nmasi/era5"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_67d829e152331730e865bfb7",
       "label": "cadene/droid_1.0.1"
     },
@@ -142569,6 +142579,11 @@
       "category": "dataset",
       "id": "hf_ds_6a67d0a568d9afa362507f38",
       "label": "gfdg34fsd/ngrik"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a7460ebf3031d8573c2fe30",
+      "label": "challenge-2026/challenge_data"
     },
     {
       "category": "dataset",
@@ -455137,6 +455152,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 2541,
-  "total_nodes": 88485
+  "total_edges": 2542,
+  "total_nodes": 88487
 }

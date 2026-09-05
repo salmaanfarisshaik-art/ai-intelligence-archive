@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88485
+**Total Entities Tracked**: 88487
 
 ## Category Distribution
 
@@ -10,7 +10,7 @@
 - **datasets**: 1844
 - **models**: 1603
 - **news**: 1174
-- **dataset**: 1163
+- **dataset**: 1165
 - **text-generation**: 1008
 - **cs.CV**: 734
 - **cs.CL**: 484
@@ -98,7 +98,7 @@
 - **ArXiv**: 2358
 - **Hugging Face**: 2015
 - **OpenAI Blog**: 1160
-- **HuggingFace Datasets**: 163
+- **HuggingFace Datasets**: 165
 - **GitHub Trending**: 50
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -138,24 +138,24 @@
 
 ## Top Tags
 
-- **region:us**: 236
+- **region:us**: 239
+- **text-generation**: 75
 - **library:datasets**: 74
 - **library:mlcroissant**: 74
-- **text-generation**: 74
 - **modality:text**: 68
+- **endpoints_compatible**: 64
+- **language:en**: 64
 - **license:apache-2.0**: 64
-- **endpoints_compatible**: 63
-- **safetensors**: 63
-- **transformers**: 63
-- **language:en**: 62
-- **conversational**: 57
+- **safetensors**: 64
+- **transformers**: 64
+- **conversational**: 58
 - **library:polars**: 57
 - **format:parquet**: 46
 - **license:mit**: 44
 - **text-generation-inference**: 34
 - **deploy:azure**: 32
 - **library:pandas**: 30
-- **en**: 27
+- **en**: 28
 - **library:dask**: 27
 - **task_categories:text-generation**: 26
 - **enterprise**: 25
@@ -163,24 +163,24 @@
 - **modality:image**: 23
 - **deploy:sagemaker**: 21
 - **size_categories:n<1K**: 20
+- **license:other**: 19
 - **modality:tabular**: 19
 - **qwen3**: 19
-- **license:other**: 18
 - **api**: 16
 - **license:cc-by-4.0**: 15
 - **size_categories:10K<n<100K**: 15
+- **modality:video**: 14
+- **size_categories:100K<n<1M**: 14
 - **task_categories:robotics**: 14
-- **modality:video**: 13
-- **size_categories:100K<n<1M**: 13
 - **license:odc-by**: 12
 - **multilinguality:monolingual**: 12
 - **arxiv:2505.09388**: 11
 - **fp8**: 11
+- **pytorch**: 11
 - **source_datasets:original**: 11
-- **pytorch**: 10
+- **custom_code**: 10
+- **language:zh**: 10
 - **size_categories:1K<n<10K**: 10
-- **custom_code**: 9
-- **language:zh**: 9
 - **modality:audio**: 9
 - **python**: 9
 - **size_categories:100M<n<1B**: 9

@@ -2902,6 +2902,25 @@
     "local_path": "datasets/mueller91/hf_ds_67d6c9b5ba56e14eeb14fab6.json"
   },
   {
+    "id": "hf_ds_67d7417c7c4950a62b4c33a4",
+    "title": "nmasi/era5",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "climate",
+      "language:en",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nmasi/era5",
+    "local_path": "datasets/nmasi/hf_ds_67d7417c7c4950a62b4c33a4.json"
+  },
+  {
     "id": "hf_ds_67d829e152331730e865bfb7",
     "title": "cadene/droid_1.0.1",
     "category": "dataset",
@@ -5153,6 +5172,36 @@
     },
     "source_url": "https://huggingface.co/datasets/gfdg34fsd/ngrik",
     "local_path": "datasets/gfdg34fsd/hf_ds_6a67d0a568d9afa362507f38.json"
+  },
+  {
+    "id": "hf_ds_6a7460ebf3031d8573c2fe30",
+    "title": "challenge-2026/challenge_data",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2609.03591",
+      "bimanual-robot",
+      "household",
+      "language:en",
+      "language:zh",
+      "lerobot",
+      "license:cc-by-sa-4.0",
+      "manipulation",
+      "modality:video",
+      "region:us",
+      "robotics",
+      "size_categories:100K<n<1M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/challenge-2026"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/challenge-2026/challenge_data",
+    "local_path": "datasets/challenge-2026/hf_ds_6a7460ebf3031d8573c2fe30.json"
   },
   {
     "id": "hf_ds_6a7609d6663f80dd30d388fc",

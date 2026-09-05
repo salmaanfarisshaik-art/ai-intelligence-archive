@@ -129416,6 +129416,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_67d7417c7c4950a62b4c33a4",
+      "label": "nmasi/era5",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_67d829e152331730e865bfb7",
       "label": "cadene/droid_1.0.1",
       "category": "dataset"
@@ -129858,6 +129863,11 @@
     {
       "id": "hf_ds_6a67d0a568d9afa362507f38",
       "label": "gfdg34fsd/ngrik",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a7460ebf3031d8573c2fe30",
+      "label": "challenge-2026/challenge_data",
       "category": "dataset"
     },
     {
@@ -454875,6 +454885,11 @@
     {
       "source": "hf_ds_6a615c95fb10b1093e0ea9ed",
       "target": "datasets/HuggingFaceCode",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a7460ebf3031d8573c2fe30",
+      "target": "datasets/challenge-2026",
       "relationship": "related_models"
     },
     {

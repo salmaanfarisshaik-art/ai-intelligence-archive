@@ -166,6 +166,13 @@
       "score": 1.0
     }
   ],
+  "xaira": [
+    {
+      "entity_id": "dataset_xaira_therapeutics_x_atlas_orion",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "xal": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -1518,6 +1525,11 @@
   "xu2026scalingbimanualhouseholdmanipulation": [
     {
       "entity_id": "dataset_challenge_2026_challenge_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a7460ebf3031d8573c2fe30",
       "match_type": "exact",
       "score": 1.0
     }

@@ -3887,6 +3887,7 @@
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16)
+- **Tags**: arxiv:2412.02595, arxiv:2504.03624, arxiv:2511.16664, arxiv:2512.20848, arxiv:2512.20856, base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2, base_model:nvidia/NVIDIA-Nemotron-Nano-9B-v2, conversational, custom_code, dataset:nvidia/Nemotron-Agentic-v1, dataset:nvidia/Nemotron-CC-v2, dataset:nvidia/Nemotron-Competitive-Programming-v1, dataset:nvidia/Nemotron-Instruction-Following-Chat-v1, dataset:nvidia/Nemotron-Math-Proofs-v1, dataset:nvidia/Nemotron-Post-Training-Dataset-v2, dataset:nvidia/Nemotron-RL-Agentic-Conversational-Tool-Use-Pivot-v1, dataset:nvidia/Nemotron-RL-agent-calendar_scheduling, dataset:nvidia/Nemotron-RL-instruction_following, dataset:nvidia/Nemotron-RL-instruction_following-structured_outputs, dataset:nvidia/Nemotron-Science-v1, en, endpoints_compatible, license:other, nemotron_h, nvidia, pytorch, region:us, safetensors, text-generation, transformers
 
 ## nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-BF16

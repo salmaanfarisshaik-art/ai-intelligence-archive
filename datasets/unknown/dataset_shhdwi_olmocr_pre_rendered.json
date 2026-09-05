@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fdf95eef6badaecca9b7d6e9f3f912a83724baee",
   "description": "\n\t\n\t\t\n\t\tolmOCR-bench Pre-Rendered\n\t\n\nPre-rendered PNG images of the olmOCR-bench benchmark dataset, ready for zero-setup evaluation of any OCR / vision model.\n\n\t\n\t\t\n\t\tWhat This Is\n\t\n\nThe official olmOCR benchmark requires downloading 1,403 PDFs locally and rendering each page to a PNG image before sending it to a model. Every benchmark runner in the official repo does this same rendering step internally — see olmocr/data/renderpdf.py::render_pdf_to_base64png().\nThis dataset eliminates that… See the full description on the dataset page: https://huggingface.co/datasets/shhdwi/olmocr-pre-rendered.",
-  "downloads": 37031,
+  "downloads": 35905,
   "tags": [
     "language:en",
     "license:odc-by",

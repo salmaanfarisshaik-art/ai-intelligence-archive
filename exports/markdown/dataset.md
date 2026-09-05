@@ -442,6 +442,12 @@
 - **URL**: [https://huggingface.co/datasets/mueller91/MLAAD](https://huggingface.co/datasets/mueller91/MLAAD)
 - **Tags**: MLAAD, anti-spoofing, arxiv:2401.09512, audio, audio-deepfake-detection, deepfake, language:de, language:en, language:es, language:fr, language:it, language:pl, language:ru, language:uk, license:cc-by-nc-4.0, modality:audio, region:us, size_categories:100K<n<1M, task_categories:audio-classification, voice, voice-antispoofing
 
+## nmasi/era5
+- **ID**: hf_ds_67d7417c7c4950a62b4c33a4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nmasi/era5](https://huggingface.co/datasets/nmasi/era5)
+- **Tags**: climate, language:en, region:us
+
 ## cadene/droid_1.0.1
 - **ID**: hf_ds_67d829e152331730e865bfb7
 - **Source**: HuggingFace Datasets
@@ -975,6 +981,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/ngrik](https://huggingface.co/datasets/gfdg34fsd/ngrik)
 - **Tags**: region:us
+
+## challenge-2026/challenge_data
+- **ID**: hf_ds_6a7460ebf3031d8573c2fe30
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/challenge-2026/challenge_data](https://huggingface.co/datasets/challenge-2026/challenge_data)
+- **Tags**: arxiv:2609.03591, bimanual-robot, household, language:en, language:zh, lerobot, license:cc-by-sa-4.0, manipulation, modality:video, region:us, robotics, size_categories:100K<n<1M
 
 ## RekaAI/RekaDaily-10k-raw
 - **ID**: hf_ds_6a7609d6663f80dd30d388fc

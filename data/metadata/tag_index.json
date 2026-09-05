@@ -564,6 +564,9 @@
   "arxiv:2411.04368": [
     "hf_google_gemma-3-270m"
   ],
+  "arxiv:2412.02595": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
   "arxiv:2501.04962": [
     "hf_ds_67866986e864fd4dee936901"
   ],
@@ -592,6 +595,9 @@
   ],
   "arxiv:2503.24381": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
+  ],
+  "arxiv:2504.03624": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
   "arxiv:2504.07097": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -651,10 +657,15 @@
   "arxiv:2511.16651": [
     "hf_ds_68822a776cf08537cb6be0af"
   ],
+  "arxiv:2511.16664": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
   "arxiv:2512.20848": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "arxiv:2512.20856": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "arxiv:2602.05879": [
@@ -699,6 +710,9 @@
   ],
   "arxiv:2607.14183": [
     "hf_ds_6a4cbc564cdc8fc41b0f1b93"
+  ],
+  "arxiv:2609.03591": [
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "at-t": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -865,6 +879,9 @@
   "base_model:finetune:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
   ],
+  "base_model:finetune:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
   "base_model:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
@@ -879,6 +896,9 @@
   ],
   "base_model:meta-llama/Llama-3.1-8B": [
     "hf_meta-llama_Llama-3.1-8B-Instruct"
+  ],
+  "base_model:nvidia/NVIDIA-Nemotron-Nano-9B-v2": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
   "base_model:quantized:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
@@ -926,6 +946,9 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
+  "bimanual-robot": [
+    "hf_ds_6a7460ebf3031d8573c2fe30"
+  ],
   "biology": [
     "hf_ds_66674f5483de542b724d771e"
   ],
@@ -963,6 +986,9 @@
   "cicd": [
     "github-actions-cicd-pipeline",
     "secure-github-actions-cicd-pipeline"
+  ],
+  "climate": [
+    "hf_ds_67d7417c7c4950a62b4c33a4"
   ],
   "co2_eq_emissions": [
     "hf_distilbert_distilgpt2"
@@ -1033,6 +1059,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
@@ -1080,6 +1107,7 @@
     "hf_deepseek-ai_DeepSeek-R1-0528",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_vikhyatk_moondream2"
   ],
@@ -1136,6 +1164,39 @@
   ],
   "dataset:microsoft/orca-math-word-problems-200k": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
+  ],
+  "dataset:nvidia/Nemotron-Agentic-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-CC-v2": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-Competitive-Programming-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-Instruction-Following-Chat-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-Math-Proofs-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-Post-Training-Dataset-v2": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-RL-Agentic-Conversational-Tool-Use-Pivot-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-RL-agent-calendar_scheduling": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-RL-instruction_following": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-RL-instruction_following-structured_outputs": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
+  ],
+  "dataset:nvidia/Nemotron-Science-v1": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16"
   ],
   "dataset:nvidia/nemotron-post-training-v3": [
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
@@ -1350,6 +1411,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
@@ -1410,6 +1472,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
@@ -1757,6 +1820,7 @@
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
   "household": [
+    "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "huggingface": [
@@ -2280,6 +2344,7 @@
     "hf_ds_67cac93b5877d9c876a84572",
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_67d6c9b5ba56e14eeb14fab6",
+    "hf_ds_67d7417c7c4950a62b4c33a4",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
@@ -2303,6 +2368,7 @@
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
+    "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "language:eng": [
@@ -3637,7 +3703,8 @@
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69f638c8ebff1de2d6753093",
-    "hf_ds_6a4cbc564cdc8fc41b0f1b93"
+    "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "language:zsm": [
     "hf_ds_6469bc7cf51b56a285b7797b",
@@ -3697,7 +3764,8 @@
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
   ],
   "lerobot": [
-    "hf_ds_69b0d60653fc22f5d5d3c07f"
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "library:dask": [
     "hf_ds_621ffdd236468d709f181dba",
@@ -4095,7 +4163,8 @@
     "hf_ds_621ffdd236468d709f181f95",
     "hf_ds_6582e9185b0dec368695b712",
     "hf_ds_6954cdff0a36f347a9b323fd",
-    "hf_ds_695abb3c1fe276bf8ff463d4"
+    "hf_ds_695abb3c1fe276bf8ff463d4",
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "license:cc0-1.0": [
     "hf_ds_67cac990bdf9000d16109b38",
@@ -4200,6 +4269,7 @@
     "hf_facebook_opt-125m",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "license:unknown": [
@@ -4245,7 +4315,8 @@
   "manipulation": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58",
-    "hf_ds_6a4cbc564cdc8fc41b0f1b93"
+    "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "mano": [
     "hf_ds_6a4cbc564cdc8fc41b0f1b93"
@@ -4454,6 +4525,7 @@
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
+    "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "model-index": [
@@ -4540,6 +4612,7 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "nemotron_h": [
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "nextjs": [
@@ -4568,6 +4641,7 @@
   ],
   "nvidia": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -4718,6 +4792,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large"
@@ -4934,6 +5009,7 @@
     "hf_ds_67cac990bdf9000d16109b38",
     "hf_ds_67ce486ea3edca9b3349a097",
     "hf_ds_67d6c9b5ba56e14eeb14fab6",
+    "hf_ds_67d7417c7c4950a62b4c33a4",
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_67da25756b2007f151daeca0",
@@ -5023,6 +5099,7 @@
     "hf_ds_6a615c95fb10b1093e0ea9ed",
     "hf_ds_6a67b67edd8543ddc375d370",
     "hf_ds_6a67d0a568d9afa362507f38",
+    "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_ds_6a8779d11c6e0f8d87cc3080",
     "hf_facebook_opt-125m",
@@ -5038,6 +5115,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -5086,7 +5164,8 @@
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
-    "hf_ds_6a307dae8e258cbed418ec58"
+    "hf_ds_6a307dae8e258cbed418ec58",
+    "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
   "rust": [
     "hf_distilbert_distilgpt2",
@@ -5142,6 +5221,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -5214,6 +5294,7 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_6a18ded575c463d5aecfcf4d",
+    "hf_ds_6a7460ebf3031d8573c2fe30",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "size_categories:100M<n<1B": [
@@ -5753,6 +5834,7 @@
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -5893,6 +5975,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",

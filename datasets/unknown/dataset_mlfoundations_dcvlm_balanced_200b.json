@@ -9,7 +9,7 @@
   "private": false,
   "sha": "14967b751f621930626297feff12d997e7bf0911",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDCVLM-Balanced (200B tokens)\n\t\n\nDCVLM-Balanced is the balanced-mixture training set from our DataComp-VLM paper.\nIt is a pre-mixed, decontaminated, ready-to-train multimodal pretraining dataset, materialized as flat\nWebDataset tar shards so it can be consumed by any training\nstack.\nThis is a 200B-token release consisting of 112,358,849 samples, curated from our DCVLM-large data pool.\nThe instruction-heavy counterpart (DCVLM-baseline) is available as\ndcvlm-baseline-200b, along with… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dcvlm-balanced-200b.",
-  "downloads": 40165,
+  "downloads": 37010,
   "tags": [
     "task_categories:image-text-to-text",
     "task_categories:visual-question-answering",

@@ -1,0 +1,21 @@
+{
+  "_id": "6798d468b5e713509958c3e7",
+  "id": "BramVanroy/fineweb-2-duckdbs",
+  "author": "BramVanroy",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-28T01:05:04.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "f03b0fdbde0b65b2a4e7c4db6a6c6b567b44076b",
+  "description": "\n\t\n\t\t\n\t\tDuckDB datasets for (dump, id) querying on FineWeb 2\n\t\n\nThis repo contains some DuckDB databases to check whether a given WARC UID exists in a FineWeb-2 dump. Usage example\nis given below, but note especially that if you are using URNs (likely, if you are working with CommonCrawl data),\nthen you first have to extract the UID (the id column is of type UUID in the databases).\n\n\t\n\t\t\n\t\tDownload\n\t\n\nAll files:\nhuggingface-cli download BramVanroy/fineweb-2-duckdbs --local-dir… See the full description on the dataset page: https://huggingface.co/datasets/BramVanroy/fineweb-2-duckdbs.",
+  "downloads": 35619,
+  "tags": [
+    "license:odc-by",
+    "region:us"
+  ],
+  "createdAt": "2025-01-28T12:58:16.000Z",
+  "key": "",
+  "unique_id": "dataset_bramvanroy_fineweb_2_duckdbs",
+  "schema_version": "1.0"
+}

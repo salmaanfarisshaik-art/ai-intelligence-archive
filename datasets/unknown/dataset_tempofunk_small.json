@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e4656268ad22b16a3682676e202e329efa2d6580",
   "description": "\n\t\n\t\t\n\t\tTempoFunk Small\n\t\n\n7.8k samples of metadata and encoded latents & prompts of random videos.\n\n\t\n\t\t\n\t\tData format\n\t\n\n\nVideo frame latents\nNumpy arrays \n120 frames, 512x512 source size\nEncoded shape (120, 4, 64, 64)\n\n\nCLIP (openai) encoded prompts\nVideo description (as seen in metadata)\nEncoded shape (77,768)\n\n\nVideo metadata as JSON (description, tags, categories, source URL, etc.)\n\n",
-  "downloads": 33447,
+  "downloads": 34197,
   "tags": [
     "task_categories:text-to-video",
     "task_categories:text-to-image",
