@@ -38,6 +38,14 @@
 | [](http://arxiv.org/abs/2608.13492v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.13547v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04135v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04141v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04148v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04166v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04170v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04172v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04177v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04198v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms](http://arxiv.org/abs/2609.04170v1) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |

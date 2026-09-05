@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.18407v2](http://arxiv.org/abs/2502.18407v2)
 
+## 
+- **ID**: arxiv_2502.18407v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.18407v2](http://arxiv.org/abs/2502.18407v2)
+
 ## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
 - **ID**: arxiv_2503.07303v3
 - **Source**: ArXiv
@@ -116,6 +121,11 @@
 - **URL**: [http://arxiv.org/abs/2509.25045v3](http://arxiv.org/abs/2509.25045v3)
 
 ## EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering
+- **ID**: arxiv_2509.25175v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.25175v3](http://arxiv.org/abs/2509.25175v3)
+
+## 
 - **ID**: arxiv_2509.25175v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25175v3](http://arxiv.org/abs/2509.25175v3)
@@ -2365,7 +2375,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04173v1](http://arxiv.org/abs/2609.04173v1)
 
+## 
+- **ID**: arxiv_2609.04173v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04173v1](http://arxiv.org/abs/2609.04173v1)
+
 ## Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views
+- **ID**: arxiv_2609.04180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04180v1](http://arxiv.org/abs/2609.04180v1)
+
+## 
 - **ID**: arxiv_2609.04180v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04180v1](http://arxiv.org/abs/2609.04180v1)
@@ -2375,12 +2395,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04194v1](http://arxiv.org/abs/2609.04194v1)
 
+## 
+- **ID**: arxiv_2609.04194v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04194v1](http://arxiv.org/abs/2609.04194v1)
+
 ## ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize
 - **ID**: arxiv_2609.04197v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04197v1](http://arxiv.org/abs/2609.04197v1)
 
+## 
+- **ID**: arxiv_2609.04197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04197v1](http://arxiv.org/abs/2609.04197v1)
+
 ## Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+- **ID**: arxiv_2609.04199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04199v1](http://arxiv.org/abs/2609.04199v1)
+
+## 
 - **ID**: arxiv_2609.04199v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04199v1](http://arxiv.org/abs/2609.04199v1)

@@ -5,7 +5,9 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2502.18407v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2507.10810v3) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2512.07195v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
@@ -47,6 +49,11 @@
 | [](http://arxiv.org/abs/2608.13517v1) | ArXiv |  | 2 |
 | [](http://arxiv.org/abs/2608.13538v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.13545v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04173v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04180v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04194v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.04199v1) | ArXiv |  | 1 |
 | ["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](http://arxiv.org/abs/2608.07852v2) | ArXiv |  | 1 |
 | [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement](http://arxiv.org/abs/2608.12269v1) | ArXiv |  | 1 |
 | [A Formal Limitation on Learning Human Language From Textual Corpora](http://arxiv.org/abs/2608.28560v1) | ArXiv |  | 1 |

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04166v1",
+  "schema_version": "1.0",
+  "technique_name": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+  "description": "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks deceptive and a mechanism that is actually deceptive.   We introduce a causal taxonomy separating prior commitment from retrospective report, model preference from realized output, false preference from sensitivity to the utility of misleading a recipient, and deceptive behavior from the provenance of ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.04166v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04166v1",
+    "updated": "2026-09-03T17:52:19Z",
+    "published": "2026-09-03T17:52:19Z",
+    "title": "From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research",
+    "summary": "Research and news coverage of language-model deception increasingly attributes human-like mental-state concepts to language models. Such claims can blur the distinction between behavior that looks deceptive and a mechanism that is actually deceptive.\n  We introduce a causal taxonomy separating prior commitment from retrospective report, model preference from realized output, false preference from sensitivity to the utility of misleading a recipient, and deceptive behavior from the provenance of the objective or strategy producing it. We test these distinctions in two open-weight model families. Across controlled guessing-game and stock-trading experiments, we find that deceptive-looking behavior can arise without the corresponding proposed mechanism, while other interventions provide direct evidence that recipient information state can causally affect deceptive preference.\n  These results show that deceptive behavior can provide evidence for a deceptive mechanism. But even evidence for such a mechanism does not establish model agency in the deception.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-05T00:38:05Z",
+  "last_updated": "2026-09-03T17:52:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04166v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

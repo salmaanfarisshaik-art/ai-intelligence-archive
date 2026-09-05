@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04174v1",
+  "schema_version": "1.0",
+  "technique_name": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
+  "description": "3D Foundation Models (3DFMs) such as VGGT have recently pushed the boundaries of 3D vision by predicting rich unified representations with feed-foward transformers. The scene representations learned by these models enable strong performance on multiple 3D vision tasks. In this paper, we investigate using their internal representations to infer 3D in the scene from new views. Our hypothesis is that in order to solve the task of 3D reconstruction, these models need to learn a representation that i",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.04174v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04174v1",
+    "updated": "2026-09-03T17:54:52Z",
+    "published": "2026-09-03T17:54:52Z",
+    "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
+    "summary": "3D Foundation Models (3DFMs) such as VGGT have recently pushed the boundaries of 3D vision by predicting rich unified representations with feed-foward transformers. The scene representations learned by these models enable strong performance on multiple 3D vision tasks. In this paper, we investigate using their internal representations to infer 3D in the scene from new views. Our hypothesis is that in order to solve the task of 3D reconstruction, these models need to learn a representation that includes a large amount of general knowledge about 3D scenes. After showing that it is possible to decode hidden surfaces from internal 3DFM representations, we propose a method, Z3D, that estimates pointmaps in unseen views by doing latent diffusion on 3DFM representation. We show that Z3D can predict realistic depth maps for new views across multiple datasets.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-05T00:38:05Z",
+  "last_updated": "2026-09-03T17:54:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04174v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

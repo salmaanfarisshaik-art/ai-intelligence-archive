@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04135v1",
+  "schema_version": "1.0",
+  "technique_name": "The Natural Language Interaction Protocol and Standard for AI Agents",
+  "description": "AI agents are increasingly being developed and deployed across organizations using heterogeneous agent-development frameworks, AI models, tool interfaces, protocols, and execution environments. To realize their potential social and business impact, these agents must be able to interoperate through a common communication protocol. The Natural Language Interaction Protocol (NLIP), developed by researchers and practitioners across companies and universities and standardized by Ecma International, a",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.04135v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04135v1",
+    "updated": "2026-09-03T17:30:17Z",
+    "published": "2026-09-03T17:30:17Z",
+    "title": "The Natural Language Interaction Protocol and Standard for AI Agents",
+    "summary": "AI agents are increasingly being developed and deployed across organizations using heterogeneous agent-development frameworks, AI models, tool interfaces, protocols, and execution environments. To realize their potential social and business impact, these agents must be able to interoperate through a common communication protocol. The Natural Language Interaction Protocol (NLIP), developed by researchers and practitioners across companies and universities and standardized by Ecma International, addresses this need by defining a standards-based application-layer protocol for AI-agent interaction. NLIP provides a lightweight semantic message envelope that can be carried over existing transports such as HTTP/HTTPS, WebSocket, and AMQP, while allowing NLIP-aware agents and gateways to adapt between clients, agents, local context stores, ontologies, tools, enterprise services, and heterogeneous underlying protocols. This paper presents the motivation and design rationale of NLIP, its message model and transport bindings, security-by-design considerations, reference implementation, representative applications, adoption signals, and relationship to emerging agent protocols such as MCP and A2A.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-05T00:38:05Z",
+  "last_updated": "2026-09-03T17:30:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04135v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.13706v2](http://arxiv.org/abs/2605.13706v2)
 
+## 
+- **ID**: arxiv_2605.13706v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.13706v2](http://arxiv.org/abs/2605.13706v2)
+
 ## Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests
 - **ID**: arxiv_2605.28734v2
 - **Source**: ArXiv
@@ -266,6 +271,11 @@
 - **URL**: [http://arxiv.org/abs/2609.04086v1](http://arxiv.org/abs/2609.04086v1)
 
 ## SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center
+- **ID**: arxiv_2609.04159v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04159v1](http://arxiv.org/abs/2609.04159v1)
+
+## 
 - **ID**: arxiv_2609.04159v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04159v1](http://arxiv.org/abs/2609.04159v1)

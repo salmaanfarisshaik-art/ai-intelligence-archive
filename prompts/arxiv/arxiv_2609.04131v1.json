@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.04131v1",
+  "schema_version": "1.0",
+  "technique_name": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+  "description": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing approaches typically compress historical observations into an external memory bank and retrieve query-relevant evidence as additional visual context. Though effective, this store-and-retrieve paradigm keeps historical evidence as external visual context, preventing it from being internalized into a comp",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.04131v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.04131v1",
+    "updated": "2026-09-03T17:28:14Z",
+    "published": "2026-09-03T17:28:14Z",
+    "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+    "summary": "Streaming video understanding requires multimodal large language models (MLLMs) to process continuous visual inputs and respond to user queries under strict causality and bounded memory. Existing approaches typically compress historical observations into an external memory bank and retrieve query-relevant evidence as additional visual context. Though effective, this store-and-retrieve paradigm keeps historical evidence as external visual context, preventing it from being internalized into a compact, evolving latent memory that can continuously guide streaming reasoning. To bridge this gap, we introduce LatentStream, a progressive latent working memory framework that shifts streaming memory from store-and-retrieve to retrieve-and-internalize. Specifically, LatentStream comprises three coordinated components. First, Query-agnostic Hierarchical Streaming Memory organizes visual history into short-, mid-, and long-term levels under a fixed memory budget through Jenks-guided adaptive consolidation. Once a query arrives, Hierarchical Latent Memory Evolution equips groups of latent memory tokens with progressively expanding memory receptive fields, enabling them to iteratively retrieve historical evidence from their corresponding scopes and internalize it into a compact, fixed-length latent memory. Finally, Progressive Confidence-guided Latent Memory Optimization constructs a hierarchical progression reward from group-wise predictive entropy and jointly refines the latent memory tokens and retrieved evidence, encouraging increasingly confident streaming reasoning. Extensive experiments demonstrate that LatentStream achieves new state-of-the-art results on existing online and offline video benchmarks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-05T00:38:05Z",
+  "last_updated": "2026-09-03T17:28:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.04131v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

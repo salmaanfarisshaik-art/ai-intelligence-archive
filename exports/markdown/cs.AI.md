@@ -2245,7 +2245,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04135v1](http://arxiv.org/abs/2609.04135v1)
 
+## 
+- **ID**: arxiv_2609.04135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04135v1](http://arxiv.org/abs/2609.04135v1)
+
 ## Efficient Test-Time Adaptation through Human-AI Interaction
+- **ID**: arxiv_2609.04141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04141v1](http://arxiv.org/abs/2609.04141v1)
+
+## 
 - **ID**: arxiv_2609.04141v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04141v1](http://arxiv.org/abs/2609.04141v1)
@@ -2255,7 +2265,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04148v1](http://arxiv.org/abs/2609.04148v1)
 
+## 
+- **ID**: arxiv_2609.04148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04148v1](http://arxiv.org/abs/2609.04148v1)
+
 ## From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research
+- **ID**: arxiv_2609.04166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04166v1](http://arxiv.org/abs/2609.04166v1)
+
+## 
 - **ID**: arxiv_2609.04166v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04166v1](http://arxiv.org/abs/2609.04166v1)
@@ -2265,7 +2285,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04170v1](http://arxiv.org/abs/2609.04170v1)
 
+## 
+- **ID**: arxiv_2609.04170v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04170v1](http://arxiv.org/abs/2609.04170v1)
+
 ## Rethinking On-Policy Distillation of Large Language Models II: One Training Example
+- **ID**: arxiv_2609.04172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04172v1](http://arxiv.org/abs/2609.04172v1)
+
+## 
 - **ID**: arxiv_2609.04172v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04172v1](http://arxiv.org/abs/2609.04172v1)
@@ -2275,7 +2305,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04177v1](http://arxiv.org/abs/2609.04177v1)
 
+## 
+- **ID**: arxiv_2609.04177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04177v1](http://arxiv.org/abs/2609.04177v1)
+
 ## Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints
+- **ID**: arxiv_2609.04198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04198v1](http://arxiv.org/abs/2609.04198v1)
+
+## 
 - **ID**: arxiv_2609.04198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04198v1](http://arxiv.org/abs/2609.04198v1)

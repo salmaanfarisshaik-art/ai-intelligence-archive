@@ -510,6 +510,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.28763v2](http://arxiv.org/abs/2603.28763v2)
 
+## 
+- **ID**: arxiv_2603.28763v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.28763v2](http://arxiv.org/abs/2603.28763v2)
+
 ## Hierarchical Pre-Training of Vision Encoders with Large Language Model
 - **ID**: arxiv_2604.00086v2
 - **Source**: ArXiv
@@ -3570,7 +3575,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04131v1](http://arxiv.org/abs/2609.04131v1)
 
+## 
+- **ID**: arxiv_2609.04131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04131v1](http://arxiv.org/abs/2609.04131v1)
+
 ## Persistent Identity Preservation in Generative Image Models: A Benchmark and Evaluation System
+- **ID**: arxiv_2609.04151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04151v1](http://arxiv.org/abs/2609.04151v1)
+
+## 
 - **ID**: arxiv_2609.04151v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04151v1](http://arxiv.org/abs/2609.04151v1)
@@ -3580,7 +3595,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04174v1](http://arxiv.org/abs/2609.04174v1)
 
+## 
+- **ID**: arxiv_2609.04174v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04174v1](http://arxiv.org/abs/2609.04174v1)
+
 ## Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning
+- **ID**: arxiv_2609.04183v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04183v1](http://arxiv.org/abs/2609.04183v1)
+
+## 
 - **ID**: arxiv_2609.04183v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04183v1](http://arxiv.org/abs/2609.04183v1)
@@ -3590,7 +3615,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04190v1](http://arxiv.org/abs/2609.04190v1)
 
+## 
+- **ID**: arxiv_2609.04190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04190v1](http://arxiv.org/abs/2609.04190v1)
+
 ## Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+- **ID**: arxiv_2609.04196v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04196v1](http://arxiv.org/abs/2609.04196v1)
+
+## 
 - **ID**: arxiv_2609.04196v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04196v1](http://arxiv.org/abs/2609.04196v1)
@@ -3600,7 +3635,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04200v1](http://arxiv.org/abs/2609.04200v1)
 
+## 
+- **ID**: arxiv_2609.04200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04200v1](http://arxiv.org/abs/2609.04200v1)
+
 ## Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+- **ID**: arxiv_2609.04201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04201v1](http://arxiv.org/abs/2609.04201v1)
+
+## 
 - **ID**: arxiv_2609.04201v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04201v1](http://arxiv.org/abs/2609.04201v1)
@@ -3610,7 +3655,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04202v1](http://arxiv.org/abs/2609.04202v1)
 
+## 
+- **ID**: arxiv_2609.04202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04202v1](http://arxiv.org/abs/2609.04202v1)
+
 ## Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision
+- **ID**: arxiv_2609.04203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04203v1](http://arxiv.org/abs/2609.04203v1)
+
+## 
 - **ID**: arxiv_2609.04203v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04203v1](http://arxiv.org/abs/2609.04203v1)
