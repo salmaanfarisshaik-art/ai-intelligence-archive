@@ -9,7 +9,7 @@
   "private": false,
   "sha": "469b9af76e8539e8d2ac553b081307738fd92ca5",
   "description": "\n\t\n\t\t\n\t\tRoboReward\n\t\n\nLinks: Paper · RoboRewardBench Leaderboard\nRoboReward is a dataset for training and evaluating general-purpose vision-language reward models for robotics. Each example pairs a task instruction with a real-robot rollout video and a discrete end-of-episode progress reward score in {1,…,5}.\nRoboReward is built from large-scale real-robot corpora including Open X-Embodiment (OXE) and RoboArena. Because OXE is success-heavy, we generate additional negatives and near-misses… See the full description on the dataset page: https://huggingface.co/datasets/teetone/RoboReward.",
-  "downloads": 45743,
+  "downloads": 45612,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:10K<n<100K",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:33:40Z",
+  "generated_at": "2026-09-06T10:20:23Z",
   "links": [
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -934,6 +934,11 @@
     {
       "source_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "target_id": "hf_Kwaipilot_KAT-Coder-V2.5-Dev",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_ling_3_0_tiny_gguf",
+      "target_id": "hf_inclusionAI_Ling-3.0-tiny",
       "type": "derived_from"
     },
     {
@@ -2767,6 +2772,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_julianmb_qwen_3_8_27b_rocmfp4_fast_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_junhowie_qwen3_14b_gptq_int4",
       "target_id": "hf_Qwen_Qwen3-14B",
       "type": "derived_from"
@@ -3639,6 +3649,11 @@
     {
       "source_id": "model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf",
       "target_id": "hf_logic65_Qwen3.8-Whittle-MoE-27B-A17.8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lord_h4d3zs_qwen3_8_distill_35b_a3b_coder_abliterated",
+      "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
       "type": "derived_from"
     },
     {

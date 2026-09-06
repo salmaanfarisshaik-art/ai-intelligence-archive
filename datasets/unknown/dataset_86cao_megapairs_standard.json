@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6b3495050a847f2a0de98c70ea0ec0c5b8d36107",
   "description": "\n\t\n\t\t\n\t\tMegaPairs-Standard (Standardized Version)\n\t\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis is a standardized, high-efficiency version of the JUNJIE99/MegaPairs dataset.\nWhy use this version?\nThe original dataset is distributed as a massive Tar archive containing millions of images, accompanied by a separate JSONL annotation file. \n\nThe Problem: Using the original format requires extracting terabytes of small files (which can exhaust disk inodes) or writing complex logic to read from archives. It… See the full description on the dataset page: https://huggingface.co/datasets/86Cao/MegaPairs-Standard.",
-  "downloads": 105232,
+  "downloads": 105211,
   "tags": [
     "task_categories:image-to-text",
     "task_categories:text-to-image",

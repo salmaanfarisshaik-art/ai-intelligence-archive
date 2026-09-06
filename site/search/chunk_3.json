@@ -2161,6 +2161,13 @@
       "score": 1.0
     }
   ],
+  "31082": [
+    {
+      "entity_id": "dataset_threeliu_treasure",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "311": [
     {
       "entity_id": "dataset_alonsoapp_tablet_large",
@@ -4334,6 +4341,11 @@
     },
     {
       "entity_id": "model_llmfan46_ornith_1_0_35b_uncensored_heretic_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_lord_h4d3zs_qwen3_8_distill_35b_a3b_coder_abliterated",
       "match_type": "exact",
       "score": 5.0
     },

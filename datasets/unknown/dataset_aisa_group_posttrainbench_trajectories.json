@@ -9,7 +9,7 @@
   "private": false,
   "sha": "39d3fcd794df51c062c8bd3b7f8523ba707aaeb3",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPostTrainBench Agent Traces\n\t\n\nAgent traces from PostTrainBench (GitHub), a benchmark that measures CLI agents' ability to post-train base LLMs.\n\n\t\n\t\t\n\t\n\t\n\t\tTask\n\t\n\nEach agent is given:\n\nA pre-trained base LLM to fine-tune\nAn evaluation script for a specific benchmark\n10 hours on an NVIDIA H100 80GB GPU\n\nThe agent must autonomously improve the model's performance on the target benchmark using any post-training strategy it chooses (SFT, LoRA, RLHF, prompt engineering for data… See the full description on the dataset page: https://huggingface.co/datasets/aisa-group/PostTrainBench-Trajectories.",
-  "downloads": 35537,
+  "downloads": 36167,
   "tags": [
     "task_categories:text-generation",
     "language:en",

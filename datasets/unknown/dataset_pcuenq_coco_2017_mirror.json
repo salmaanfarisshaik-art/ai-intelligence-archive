@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a4cd8b69bd45a35e9a0a9c8692f3a7f4f23321fe",
   "description": "\n\t\n\t\t\n\t\tCOCO 2017 mirror\n\t\n\nThis is a just mirror of the raw COCO dataset files, for convenience. You have to download it using something like:\npip install huggingface_hub\n\nhuggingface-cli download --local-dir coco-2017 pcuenq/coco-2017-mirror\n\nAnd then unzip the files before use.\n",
-  "downloads": 34357,
+  "downloads": 35618,
   "tags": [
     "license:other",
     "modality:image",
