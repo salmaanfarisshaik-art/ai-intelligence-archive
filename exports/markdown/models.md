@@ -452,6 +452,10 @@
 - **ID**: model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf
 - **Source**: 
 
+## bartowski/Ling-3.0-tiny-GGUF
+- **ID**: model_bartowski_ling_3_0_tiny_gguf
+- **Source**: 
+
 ## bartowski/Llama-3.2-1B-Instruct-GGUF
 - **ID**: model_bartowski_llama_3_2_1b_instruct_gguf
 - **Source**: 
@@ -1368,6 +1372,10 @@
 - **ID**: model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4
 - **Source**: 
 
+## explosion-testing/llama2-fewer-kv-heads
+- **ID**: model_explosion_testing_llama2_fewer_kv_heads
+- **Source**: 
+
 ## explosion-testing/llama2-kv-sharing
 - **ID**: model_explosion_testing_llama2_kv_sharing
 - **Source**: 
@@ -2092,6 +2100,10 @@
 - **ID**: model_jonathancoletti_qwen3_8_27b_uncensored_gguf
 - **Source**: 
 
+## julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF
+- **ID**: model_julianmb_qwen_3_8_27b_rocmfp4_fast_gguf
+- **Source**: 
+
 ## JunHowie/Qwen3-14B-GPTQ-Int4
 - **ID**: model_junhowie_qwen3_14b_gptq_int4
 - **Source**: 
@@ -2622,6 +2634,10 @@
 
 ## logic65/Qwen3.8-Whittle-MoE-27B-A17.8B-GGUF
 - **ID**: model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf
+- **Source**: 
+
+## Lord-H4D3ZS/Qwen3.8-Distill-35B-A3B-Coder-Abliterated
+- **ID**: model_lord_h4d3zs_qwen3_8_distill_35b_a3b_coder_abliterated
 - **Source**: 
 
 ## LordNeel/Agents-A1-GGUF
@@ -6170,6 +6186,10 @@
 
 ## vicgalle/Humanish-Roleplay-Llama-3.1-8B
 - **ID**: model_vicgalle_humanish_roleplay_llama_3_1_8b
+- **Source**: 
+
+## Vikhrmodels/Borealis
+- **ID**: model_vikhrmodels_borealis
 - **Source**: 
 
 ## Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24

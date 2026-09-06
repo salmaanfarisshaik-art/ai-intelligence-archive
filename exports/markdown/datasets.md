@@ -981,6 +981,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_cheatthegod_cmp_v6_base108_render
+- **Source**: 
+
+## 
 - **ID**: dataset_chelsea707_arxiv_cs_2020_2025_pdfs
 - **Source**: 
 
@@ -3617,6 +3621,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_iimmortall_s2r_hdr_2
+- **Source**: 
+
+## 
 - **ID**: dataset_ilialarchenko_behavior_224_rgb
 - **Source**: 
 
@@ -4745,6 +4753,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ml_resources_daimon_infinity
+- **Source**: 
+
+## 
 - **ID**: dataset_mlcommons_peoples_speech
 - **Source**: 
 
@@ -5593,6 +5605,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_phamhoanganh2007_phamhoanganh2007
+- **Source**: 
+
+## 
 - **ID**: dataset_phamhuynhduc2004_phamhuynhduc2004
 - **Source**: 
 
@@ -5834,6 +5850,10 @@
 
 ## 
 - **ID**: dataset_r0mai_opencodeinstruct_curated
+- **Source**: 
+
+## 
+- **ID**: dataset_racineai_vdr_mega_multidomain_docretrieval
 - **Source**: 
 
 ## 
@@ -6521,6 +6541,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_swe_bench_swe_smith_py
+- **Source**: 
+
+## 
 - **ID**: dataset_swe_gym_swe_gym
 - **Source**: 
 
@@ -6690,6 +6714,10 @@
 
 ## 
 - **ID**: dataset_thomasthemaker_ptb_xl_ecg
+- **Source**: 
+
+## 
+- **ID**: dataset_threeliu_treasure
 - **Source**: 
 
 ## 
@@ -6974,6 +7002,10 @@
 
 ## 
 - **ID**: dataset_vutruong1986_vutruong1986
+- **Source**: 
+
+## 
+- **ID**: dataset_w8yi_tcga_wsi_uni2h_features
 - **Source**: 
 
 ## 
