@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.05314v1",
+  "schema_version": "1.0",
+  "name": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.05314v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.05314v1",
+    "updated": "2026-09-04T16:08:05Z",
+    "published": "2026-09-04T16:08:05Z",
+    "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+    "summary": "Building automation systems generate rich sensor data yet remain insight-poor because heterogeneous point naming, missing metadata, and fragmented documentation obstruct their operational use. This systematic review analyses and codes 66 peer-reviewed studies on large language models (LLMs) for HVAC operations published between 2023 and March 2026. Each study is classified across five application families and three LLM method families and assessed for evidence realism, deployment readiness, and the responsibility boundary between the LLM and physical HVAC decisions. The corpus is concentrated in building energy modelling (BEM, 32 of 66 papers), while load forecasting remains too sparse for subfield-level conclusions. Only four studies reach pilot-level evidence, and none reports sustained operational deployment. No study was classified as ready-now for industry adoption; three were near-term and 63 research-only. Nevertheless, several bounded, human-in-the-loop uses merit near-term trials, including point-name normalisation, document-grounded operator support, BEM workflow assistance, and advisory interfaces around physics-based controllers. Conventional machine learning (ML), model predictive control (MPC), reinforcement learning (RL) and ontology-based tools remain more adopted for high-frequency control, short-horizon numerical forecasting, and well-posed ontology mapping, while autonomous agentic operation and unvalidated occupant proxies remain research-stage. Current evidence therefore supports LLMs primarily as semantic and workflow layers rather than autonomous HVAC controllers. Future work should prioritise field-validated benchmarks, orchestration evaluation under operational constraints, and LLM-MPC/RL architectures with bounded latency and verifiable safety properties.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-07T08:00:06Z",
+  "last_updated": "2026-09-04T16:08:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.05314v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

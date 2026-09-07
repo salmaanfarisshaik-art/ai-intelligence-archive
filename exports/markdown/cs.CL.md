@@ -150,6 +150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22014v2](http://arxiv.org/abs/2510.22014v2)
 
+## Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Tendencies in Large Language Models
+- **ID**: arxiv_2511.03699v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.03699v2](http://arxiv.org/abs/2511.03699v2)
+
 ## AugAbEx: Bridging Abstractive and Extractive Legal Summarization
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
@@ -1505,6 +1510,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05148v1](http://arxiv.org/abs/2608.05148v1)
 
+## ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control
+- **ID**: arxiv_2608.05169v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.05169v2](http://arxiv.org/abs/2608.05169v2)
+
 ## NeSy-RAG: Neuro-Symbolic RAG for Explainable Question Answering
 - **ID**: arxiv_2608.06292v1
 - **Source**: ArXiv
@@ -1684,6 +1694,11 @@
 - **ID**: arxiv_2608.11200v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11200v1](http://arxiv.org/abs/2608.11200v1)
+
+## CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models
+- **ID**: arxiv_2608.11534v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11534v2](http://arxiv.org/abs/2608.11534v2)
 
 ## Information Abundance Paradox: Long-Context Training Undermines Parametric Knowledge
 - **ID**: arxiv_2608.12218v1
@@ -2280,6 +2295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31170v1](http://arxiv.org/abs/2608.31170v1)
 
+## Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs
+- **ID**: arxiv_2609.00184v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00184v2](http://arxiv.org/abs/2609.00184v2)
+
 ## Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
 - **ID**: arxiv_2609.01532v1
 - **Source**: ArXiv
@@ -2334,6 +2354,11 @@
 - **ID**: arxiv_2609.01604v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01604v1](http://arxiv.org/abs/2609.01604v1)
+
+## From Tokens to Semantics: Leveraging Complementary Signals for Hallucination Detection in Black-Box LLMs
+- **ID**: arxiv_2609.02679v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02679v2](http://arxiv.org/abs/2609.02679v2)
 
 ## Untangling the Mechanisms of Misleading Context in Medical Question Answering
 - **ID**: arxiv_2609.02754v1
@@ -2419,4 +2444,9 @@
 - **ID**: arxiv_2609.04199v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04199v1](http://arxiv.org/abs/2609.04199v1)
+
+## WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+- **ID**: arxiv_2609.05405v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)
 

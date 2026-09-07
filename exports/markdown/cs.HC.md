@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
 
+## Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs
+- **ID**: arxiv_2605.29928v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29928v3](http://arxiv.org/abs/2605.29928v3)
+
 ## Self-EmoQ: Plutchik-Guided Value-based Planning to Drive Streaming Emotional TTS
 - **ID**: arxiv_2606.09837v2
 - **Source**: ArXiv
@@ -84,4 +89,9 @@
 - **ID**: arxiv_2609.01588v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01588v1](http://arxiv.org/abs/2609.01588v1)
+
+## Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction
+- **ID**: arxiv_2609.05404v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05404v1](http://arxiv.org/abs/2609.05404v1)
 

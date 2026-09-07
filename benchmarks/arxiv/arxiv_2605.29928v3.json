@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.29928v3",
+  "schema_version": "1.0",
+  "name": "Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.29928v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.29928v3",
+    "updated": "2026-09-04T16:30:27Z",
+    "published": "2026-05-28T13:41:43Z",
+    "title": "Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs",
+    "summary": "As AI-generated and AI-assisted content floods online spaces, source labels attached to such content can distort human reasoning judgments, with downstream consequences for moderation, evaluation, and decision-making. Whether LLMs share this vulnerability, or offer more source-agnostic evaluation, remains an open question with strong implications for human-AI collaboration. We examine this issue using logical fallacies as a controlled setting to isolate source-label effects on reasoning quality, independent of domain knowledge. We conduct an online study (N=505) where participants are assigned to a source condition (human, AI, human with AI assistance, AI with human assistance, or no disclosure) and evaluate comments containing logical fallacies, comparing their judgments with those of LLMs (GPT-5.2, Gemini 2.5 Flash, Claude Sonnet 4.5), which were evaluated across the same source conditions. Human evaluators were significantly more susceptible to fallacies labeled as 'written by human' or 'written by human with AI assistance' and assigned higher trust ratings in these conditions. LLM evaluations remained comparatively stable across source labels, though performance varied across models. Confidence levels were similarly high across conditions for both humans and LLMs, regardless of the presence of fallacies. Our findings indicate that source-label bias is primarily a human vulnerability for logical fallacy evaluation, with potential implications in human-LLM collaboration in increasingly AI-mediated environments.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-09-07T08:00:06Z",
+  "last_updated": "2026-09-04T16:30:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.29928v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

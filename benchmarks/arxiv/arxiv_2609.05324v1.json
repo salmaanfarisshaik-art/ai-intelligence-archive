@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.05324v1",
+  "schema_version": "1.0",
+  "name": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.05324v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.05324v1",
+    "updated": "2026-09-04T16:19:01Z",
+    "published": "2026-09-04T16:19:01Z",
+    "title": "RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?",
+    "summary": "Vision-Language-Action (VLA) models have shown promising progress in language-conditioned robotic manipulation. However, existing datasets and benchmarks mainly evaluate task completion under predefined settings, offering limited insight into model reasoning under increasing spatial and procedural complexity. We introduce \\textbf{RoboSPA} (\\textbf{Robo}t \\textbf{S}patial-\\textbf{P}rocedural \\textbf{A}ssessment), a large-scale robotic manipulation dataset and benchmark for diagnosing embodied reasoning in VLA models. \\texttt{RoboSPA} focuses on two core dimensions, Fine-Grained Spatial Reasoning and Long-Horizon Procedural Planning, covering 10 task categories and 56 base tasks. Each task is instantiated across five difficulty levels, yielding 280 variants with increasing spatial ambiguity and procedural complexity. We collect 527K trajectories across multiple embodiments and diverse scenes. Beyond binary success rate, \\texttt{RoboSPA} introduces diagnostic metrics for more detailed evaluation. Experiments on representative VLA models show that current systems still struggle with complex spatial relations, precise low-level execution, and memory-intensive planning. These results establish \\texttt{RoboSPA} as a challenging diagnostic benchmark for developing more capable, reliable, and generalizable embodied agents. Our data and code are available at https://github.com/fanzhenxuan/RoboSPA.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-07T08:00:06Z",
+  "last_updated": "2026-09-04T16:19:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.05324v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

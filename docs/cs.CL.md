@@ -130,6 +130,7 @@
 | [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) | ArXiv |  | 1 |
 | [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](http://arxiv.org/abs/2608.11200v1) | ArXiv |  | 1 |
 | [ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1) | ArXiv |  | 1 |
+| [ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control](http://arxiv.org/abs/2608.05169v2) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v2) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
@@ -141,6 +142,7 @@
 | [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) | ArXiv |  | 1 |
 | [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](http://arxiv.org/abs/2608.27455v1) | ArXiv |  | 1 |
 | [Cross-lingual Functional Vectors for Emotion Detection in Large Language Models](http://arxiv.org/abs/2608.29613v1) | ArXiv |  | 1 |
+| [CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models](http://arxiv.org/abs/2608.11534v2) | ArXiv |  | 1 |
 | [CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs](http://arxiv.org/abs/2608.02472v1) | ArXiv |  | 1 |
 | [Cultural Awareness is Represented but Not Decoded: Tracing Mythological Knowledge across 18 Open-Source LLMs](http://arxiv.org/abs/2608.02486v1) | ArXiv |  | 1 |
 | [D2C-Routing: Dimension-to-Composition Evidence Routing for Mixed-Origin AI-Generated Text Detection](http://arxiv.org/abs/2608.27380v1) | ArXiv |  | 1 |
@@ -158,6 +160,7 @@
 | [Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents](http://arxiv.org/abs/2607.15095v2) | ArXiv |  | 1 |
 | [DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation](http://arxiv.org/abs/2609.02796v1) | ArXiv |  | 1 |
 | [Distinct dynamics of conceptual and referential disruptions in human reading and large language model processing](http://arxiv.org/abs/2608.25999v1) | ArXiv |  | 1 |
+| [Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Tendencies in Large Language Models](http://arxiv.org/abs/2511.03699v2) | ArXiv |  | 1 |
 | [Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs](http://arxiv.org/abs/2605.20382v3) | ArXiv |  | 1 |
 | [Do VLMs Align Better with Humans than LLMs during Natural Reading?](http://arxiv.org/abs/2605.28818v2) | ArXiv |  | 1 |
 | [Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI](http://arxiv.org/abs/2603.25821v3) | ArXiv |  | 1 |
@@ -195,6 +198,7 @@
 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](http://arxiv.org/abs/2609.01572v1) | ArXiv |  | 1 |
 | [From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution](http://arxiv.org/abs/2609.02771v1) | ArXiv |  | 1 |
 | [From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation](http://arxiv.org/abs/2606.13630v1) | ArXiv |  | 1 |
+| [From Tokens to Semantics: Leveraging Complementary Signals for Hallucination Detection in Black-Box LLMs](http://arxiv.org/abs/2609.02679v2) | ArXiv |  | 1 |
 | [From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](http://arxiv.org/abs/2608.09925v1) | ArXiv |  | 1 |
 | [Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning](http://arxiv.org/abs/2607.16057v1) | ArXiv |  | 1 |
 | [Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D](http://arxiv.org/abs/2607.16072v1) | ArXiv |  | 1 |
@@ -415,6 +419,7 @@
 | [SWE-Pruner Pro: The Coder LLM Already Knows What to Prune](http://arxiv.org/abs/2607.18213v1) | ArXiv |  | 1 |
 | [Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks](http://arxiv.org/abs/2607.29585v1) | ArXiv |  | 1 |
 | [Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language](http://arxiv.org/abs/2605.15607v2) | ArXiv |  | 1 |
+| [Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs](http://arxiv.org/abs/2609.00184v2) | ArXiv |  | 1 |
 | [Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](http://arxiv.org/abs/2607.24515v2) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
 | [Tastes without distinction: silicon samples and the synthetic construction of tastes](http://arxiv.org/abs/2606.30085v2) | ArXiv |  | 1 |
@@ -465,6 +470,7 @@
 | [VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild](http://arxiv.org/abs/2605.27882v2) | ArXiv |  | 1 |
 | [VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following](http://arxiv.org/abs/2608.26013v1) | ArXiv |  | 1 |
 | [Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres](http://arxiv.org/abs/2606.04483v2) | ArXiv |  | 1 |
+| [WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1) | ArXiv |  | 1 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v2) | ArXiv |  | 1 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v3) | ArXiv |  | 1 |
 | [What's the Catch? Evaluating Temporal Consistency in Vision-Language Models](http://arxiv.org/abs/2608.23474v1) | ArXiv |  | 1 |

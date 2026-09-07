@@ -52,6 +52,7 @@
 | [A Comparative Study in Surgical AI: Potential and Limitations of Data, Compute, and Scaling](http://arxiv.org/abs/2603.27341v5) | ArXiv |  | 1 |
 | [A Computationally Feasible Framework for Causal Probabilistic Explanation](http://arxiv.org/abs/2609.04177v1) | ArXiv |  | 1 |
 | [A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series](http://arxiv.org/abs/2607.25947v1) | ArXiv |  | 1 |
+| [A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1) | ArXiv |  | 1 |
 | [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](http://arxiv.org/abs/2608.24825v1) | ArXiv |  | 1 |
 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](http://arxiv.org/abs/2608.03958v1) | ArXiv |  | 1 |
 | [A Machine-Learned Comorbidity Index](http://arxiv.org/abs/2606.17450v2) | ArXiv |  | 1 |
@@ -160,6 +161,7 @@
 | [Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks](http://arxiv.org/abs/2604.01363v2) | ArXiv |  | 1 |
 | [Cross-Regional Grapevine Cold Hardiness Prediction via Learned Multimodal Latent Representations](http://arxiv.org/abs/2608.31097v1) | ArXiv |  | 1 |
 | [Cross-Sign Language Transfer Learning Using Domain Adaptation with Multi-scale Temporal Alignment](http://arxiv.org/abs/2608.16804v1) | ArXiv |  | 1 |
+| [CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents](http://arxiv.org/abs/2609.05374v1) | ArXiv |  | 1 |
 | [Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](http://arxiv.org/abs/2608.07364v1) | ArXiv |  | 1 |
 | [D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery](http://arxiv.org/abs/2604.27977v4) | ArXiv |  | 1 |
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
@@ -172,6 +174,7 @@
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | ArXiv |  | 1 |
 | [Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models](http://arxiv.org/abs/2607.21617v2) | ArXiv |  | 1 |
+| [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) | ArXiv |  | 1 |
 | [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](http://arxiv.org/abs/2607.06503v2) | ArXiv |  | 1 |
 | [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](http://arxiv.org/abs/2609.04094v1) | ArXiv |  | 1 |
 | [DRFLOW: A Deep Research Benchmark for Personalized Workflow Prediction](http://arxiv.org/abs/2606.18191v1) | ArXiv |  | 1 |
@@ -254,6 +257,7 @@
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
+| [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
@@ -263,6 +267,7 @@
 | [Linguistic Monoculture in LLM-Assisted Language Use](http://arxiv.org/abs/2607.27134v1) | ArXiv |  | 1 |
 | [LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation](http://arxiv.org/abs/2607.24780v2) | ArXiv |  | 1 |
 | [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
+| [LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams](http://arxiv.org/abs/2609.05327v1) | ArXiv |  | 1 |
 | [LLMs Don't Pay for the Jump](http://arxiv.org/abs/2608.14397v1) | ArXiv |  | 1 |
 | [LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](http://arxiv.org/abs/2608.29612v1) | ArXiv |  | 1 |
 | [Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes](http://arxiv.org/abs/2607.18228v1) | ArXiv |  | 1 |
@@ -287,12 +292,15 @@
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
+| [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
 | [Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch](http://arxiv.org/abs/2606.13604v1) | ArXiv |  | 1 |
 | [Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs](http://arxiv.org/abs/2608.25986v1) | ArXiv |  | 1 |
 | [Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](http://arxiv.org/abs/2606.20517v1) | ArXiv |  | 1 |
 | [Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation](http://arxiv.org/abs/2608.23484v1) | ArXiv |  | 1 |
+| [Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](http://arxiv.org/abs/2609.05395v1) | ArXiv |  | 1 |
 | [Multiagent Protocols with Aggregated Confidence Signals](http://arxiv.org/abs/2606.13591v1) | ArXiv |  | 1 |
+| [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](http://arxiv.org/abs/2609.05385v1) | ArXiv |  | 1 |
 | [NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning](http://arxiv.org/abs/2606.19279v1) | ArXiv |  | 1 |
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
 | [NEURON: A Neuro-symbolic System for Grounded Clinical Explainability](http://arxiv.org/abs/2605.01189v3) | ArXiv |  | 1 |
@@ -330,6 +338,7 @@
 | [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1) | ArXiv |  | 1 |
 | [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
+| [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](http://arxiv.org/abs/2606.18037v3) | ArXiv |  | 1 |
 | [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents](http://arxiv.org/abs/2608.07438v1) | ArXiv |  | 1 |
@@ -398,6 +407,7 @@
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
 | [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v1) | ArXiv |  | 1 |
+| [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models](http://arxiv.org/abs/2609.05333v1) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
 | [TEPA: Revoking Stale Memories for Conflict-Robust Language Agents](http://arxiv.org/abs/2608.07429v1) | ArXiv |  | 1 |
 | [Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments](http://arxiv.org/abs/2609.04148v1) | ArXiv |  | 1 |
@@ -462,6 +472,7 @@
 | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](http://arxiv.org/abs/2608.28518v1) | ArXiv |  | 1 |
 | [When Should Models Change Their Minds? Contextual Belief Management in Large Language Models](http://arxiv.org/abs/2605.30219v2) | ArXiv |  | 1 |
 | [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | ArXiv |  | 1 |
+| [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](http://arxiv.org/abs/2609.05346v1) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |

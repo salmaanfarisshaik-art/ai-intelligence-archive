@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2201.13427v2](http://arxiv.org/abs/2201.13427v2)
 
+## Procedural Content Generation via Generative Artificial Intelligence
+- **ID**: arxiv_2407.09013v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2407.09013v3](http://arxiv.org/abs/2407.09013v3)
+
 ## Online design of dynamic networks
 - **ID**: arxiv_2410.08875v3
 - **Source**: ArXiv
@@ -2319,4 +2324,54 @@
 - **ID**: arxiv_2609.04198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04198v1](http://arxiv.org/abs/2609.04198v1)
+
+## Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness
+- **ID**: arxiv_2609.05314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05314v1](http://arxiv.org/abs/2609.05314v1)
+
+## LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams
+- **ID**: arxiv_2609.05327v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05327v1](http://arxiv.org/abs/2609.05327v1)
+
+## Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models
+- **ID**: arxiv_2609.05333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05333v1](http://arxiv.org/abs/2609.05333v1)
+
+## Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability
+- **ID**: arxiv_2609.05339v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05339v1](http://arxiv.org/abs/2609.05339v1)
+
+## Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- **ID**: arxiv_2609.05346v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05346v1](http://arxiv.org/abs/2609.05346v1)
+
+## CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents
+- **ID**: arxiv_2609.05374v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05374v1](http://arxiv.org/abs/2609.05374v1)
+
+## Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models
+- **ID**: arxiv_2609.05381v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05381v1](http://arxiv.org/abs/2609.05381v1)
+
+## Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence
+- **ID**: arxiv_2609.05385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05385v1](http://arxiv.org/abs/2609.05385v1)
+
+## Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe
+- **ID**: arxiv_2609.05395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05395v1](http://arxiv.org/abs/2609.05395v1)
+
+## A Deep Generative Model for Synthesizing Labeled Wireless Signals
+- **ID**: arxiv_2609.05396v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)
 

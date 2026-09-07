@@ -280,3 +280,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04159v1](http://arxiv.org/abs/2609.04159v1)
 
+## The History Is the Detector: Executing CVE Patch History, End-to-End
+- **ID**: arxiv_2609.05335v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05335v1](http://arxiv.org/abs/2609.05335v1)
+
+## When LLM Decompilers Recompile More and Preserve Less
+- **ID**: arxiv_2609.05370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05370v1](http://arxiv.org/abs/2609.05370v1)
+

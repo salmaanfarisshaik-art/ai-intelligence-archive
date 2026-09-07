@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.07299v3](http://arxiv.org/abs/2410.07299v3)
 
+## Hyperedge Anomaly Detection with Hypergraph Neural Network
+- **ID**: arxiv_2412.05641v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2412.05641v2](http://arxiv.org/abs/2412.05641v2)
+
 ## Cueless EEG imagined speech for subject identification: dataset and benchmarks
 - **ID**: arxiv_2501.09700v2
 - **Source**: ArXiv
@@ -284,6 +289,11 @@
 - **ID**: arxiv_2605.15285v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15285v3](http://arxiv.org/abs/2605.15285v3)
+
+## Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
+- **ID**: arxiv_2605.20314v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20314v2](http://arxiv.org/abs/2605.20314v2)
 
 ## Amplifying, Not Learning: The Price of Out-of-Distribution Generalization in AI-Text Detection
 - **ID**: arxiv_2605.21653v2
@@ -1180,10 +1190,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01587v1](http://arxiv.org/abs/2609.01587v1)
 
+## SPD: Single Pass Decoding for Generative Reranking
+- **ID**: arxiv_2609.01807v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01807v2](http://arxiv.org/abs/2609.01807v2)
+
 ## Post-Training Language Models for Gold-Medal Performance in Coding Competitions
 - **ID**: arxiv_2609.02849v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02849v1](http://arxiv.org/abs/2609.02849v1)
+
+## Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+- **ID**: arxiv_2609.02849v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02849v2](http://arxiv.org/abs/2609.02849v2)
 
 ## A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle
 - **ID**: arxiv_2609.04147v1
@@ -1194,4 +1214,14 @@
 - **ID**: arxiv_2609.04147v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04147v1](http://arxiv.org/abs/2609.04147v1)
+
+## How Does mHC Use Its Residual Streams? Selective Routing and Near-Identity Mixing
+- **ID**: arxiv_2609.05309v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05309v1](http://arxiv.org/abs/2609.05309v1)
+
+## RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments
+- **ID**: arxiv_2609.05403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)
 

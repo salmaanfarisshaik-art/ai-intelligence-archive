@@ -992,7 +992,7 @@
 - **ID**: hf_ds_6a7460ebf3031d8573c2fe30
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/challenge-2026/challenge_data](https://huggingface.co/datasets/challenge-2026/challenge_data)
-- **Tags**: arxiv:2609.03591, bimanual-robot, household, language:en, language:zh, lerobot, license:cc-by-sa-4.0, manipulation, modality:video, region:us, robotics, size_categories:100K<n<1M
+- **Tags**: arxiv:2609.03591, bimanual-robot, household, language:en, language:zh, lerobot, license:cc-by-sa-4.0, manipulation, region:us, robotics
 
 ## RekaAI/RekaDaily-10k-raw
 - **ID**: hf_ds_6a7609d6663f80dd30d388fc

@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.06127v2](http://arxiv.org/abs/2507.06127v2)
 
+## Golden Ruler: A Numeric Format Catalog with Bit-Exact Conformance Vectors for FP8, BF16, MXFP4, and Microscaling Formats
+- **ID**: arxiv_2606.09686v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09686v3](http://arxiv.org/abs/2606.09686v3)
+
 ## HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding
 - **ID**: arxiv_2607.22389v1
 - **Source**: ArXiv

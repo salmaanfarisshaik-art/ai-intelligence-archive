@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12291v2](http://arxiv.org/abs/2601.12291v2)
 
+## Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics
+- **ID**: arxiv_2602.21203v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.21203v2](http://arxiv.org/abs/2602.21203v2)
+
 ## RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design
 - **ID**: arxiv_2603.01229v3
 - **Source**: ArXiv
@@ -419,4 +424,24 @@
 - **ID**: arxiv_2609.04096v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04096v1](http://arxiv.org/abs/2609.04096v1)
+
+## RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?
+- **ID**: arxiv_2609.05324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05324v1](http://arxiv.org/abs/2609.05324v1)
+
+## Towards Neuro-Symbolic Procedural Reasoning for Long-Horizon Vision-Language-Action Manipulation
+- **ID**: arxiv_2609.05369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05369v1](http://arxiv.org/abs/2609.05369v1)
+
+## What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies
+- **ID**: arxiv_2609.05376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05376v1](http://arxiv.org/abs/2609.05376v1)
+
+## Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models
+- **ID**: arxiv_2609.05401v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05401v1](http://arxiv.org/abs/2609.05401v1)
 

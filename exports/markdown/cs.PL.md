@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03983v1](http://arxiv.org/abs/2608.03983v1)
 
+## Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool
+- **ID**: arxiv_2609.05364v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05364v1](http://arxiv.org/abs/2609.05364v1)
+

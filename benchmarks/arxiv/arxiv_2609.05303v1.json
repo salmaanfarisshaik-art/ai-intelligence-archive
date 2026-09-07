@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.05303v1",
+  "schema_version": "1.0",
+  "name": "Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.05303v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.05303v1",
+    "updated": "2026-09-04T15:56:10Z",
+    "published": "2026-09-04T15:56:10Z",
+    "title": "Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution",
+    "summary": "Hyperspectral and multispectral image fusion (HMIF) aims to reconstruct a high-resolution hyperspectral image (HR-HSI) by combining the fine spatial details of a high-resolution multispectral image (HR-MSI) with the rich spectral information of a low-resolution hyperspectral image (LR-HSI). Recent advances in implicit neural representations (INRs) have enabled flexible coordinate-based modeling for HMIF; however, existing INR-based approaches may not fully capture fine-grained spatial structures and rich spectral dependencies. Moreover, the LR-HSI and HR-MSI are primarily incorporated through degradation-consistency constraints, leaving their complementary information underexploited. To address these limitations, we propose Two-Stage Reconstruction with Implicit Tensor Neural Representation (TSR-ITNR), a unified self-supervised framework integrating representation refinement and observation-guided calibration. In Stage 1, TSR-ITNR learns an implicit Tucker representation and refines its low-rank spatial coefficient tensor and spectral basis to better capture fine spatial structures and interband correlations. A fixed pretrained denoiser further provides a deep prior for the preliminary reconstruction. In Stage 2, parameter-free calibration derives complementary and noninterfering corrections from both observations to recover information insufficiently captured in Stage 1. Theoretical analysis establishes the geometry-preserving property of spectral refinement and the orthogonal complementarity of calibration. Extensive experiments on multiple benchmark datasets demonstrate strong quantitative, visual, and spectral reconstruction performance without ground-truth HR-HSI supervision. Beyond conventional reconstruction metrics, we further assess the effectiveness of TSR-ITNR using downstream semantic segmentation accuracy.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-07T08:00:06Z",
+  "last_updated": "2026-09-04T15:56:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.05303v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

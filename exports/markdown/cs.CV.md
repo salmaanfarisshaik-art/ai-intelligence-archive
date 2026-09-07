@@ -100,6 +100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.20255v3](http://arxiv.org/abs/2505.20255v3)
 
+## Cross-Task Generalization Between Understanding and Generation in Unified Vision-Language Models: A Controlled Study
+- **ID**: arxiv_2505.23043v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.23043v2](http://arxiv.org/abs/2505.23043v2)
+
 ## ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding
 - **ID**: arxiv_2506.01274v2
 - **Source**: ArXiv
@@ -484,6 +489,11 @@
 - **ID**: arxiv_2603.21114v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21114v2](http://arxiv.org/abs/2603.21114v2)
+
+## Test-Time Adaptation via Cache Personalization for Facial Expression Recognition in Videos
+- **ID**: arxiv_2603.21309v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.21309v4](http://arxiv.org/abs/2603.21309v4)
 
 ## SparseVoxelDet: Fully Sparse Voxel Networks for Efficient Event-Based Drone Detection
 - **ID**: arxiv_2603.21638v2
@@ -3345,6 +3355,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28568v1](http://arxiv.org/abs/2608.28568v1)
 
+## An Integrated Vision-and-Language Pretraining (VLP) and Visual Question Answering (VQA) model to Automate Nondestructive Evaluation Image Analysis
+- **ID**: arxiv_2608.29408v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29408v2](http://arxiv.org/abs/2608.29408v2)
+
 ## TRINITY: A Multi-Perspective Benchmark for Personal-Style Video Highlight Detection
 - **ID**: arxiv_2608.29577v1
 - **Source**: ArXiv
@@ -3384,6 +3399,11 @@
 - **ID**: arxiv_2608.29644v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29644v1](http://arxiv.org/abs/2608.29644v1)
+
+## XDG: Accelerated Visual Disambiguation
+- **ID**: arxiv_2608.29733v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29733v2](http://arxiv.org/abs/2608.29733v2)
 
 ## Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery
 - **ID**: arxiv_2608.31065v1
@@ -3669,4 +3689,64 @@
 - **ID**: arxiv_2609.04203v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04203v1](http://arxiv.org/abs/2609.04203v1)
+
+## Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution
+- **ID**: arxiv_2609.05303v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05303v1](http://arxiv.org/abs/2609.05303v1)
+
+## Adaptive Gated Deepfake Detection for Low-Resolution and Resource-Constrained Environments
+- **ID**: arxiv_2609.05320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05320v1](http://arxiv.org/abs/2609.05320v1)
+
+## Scalable Detection of Fossil Palynomorphs in Multifocal Digital Microscopy Images
+- **ID**: arxiv_2609.05323v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05323v1](http://arxiv.org/abs/2609.05323v1)
+
+## Lightweight Vision Transformer Compression for On-Device Plant Disease Detection in Resource-Constrained Agricultural Field Conditions
+- **ID**: arxiv_2609.05334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05334v1](http://arxiv.org/abs/2609.05334v1)
+
+## MEOX: Compact Multimodal Mixture-of-Experts for Earth Observation
+- **ID**: arxiv_2609.05351v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05351v1](http://arxiv.org/abs/2609.05351v1)
+
+## Reflection-aware Generative Novel View Synthesis
+- **ID**: arxiv_2609.05382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05382v1](http://arxiv.org/abs/2609.05382v1)
+
+## Think-Verify-Revise: Neuro-Symbolic Visual Reasoning with Vision-Language Models and Dynamic Logic Tensor Networks
+- **ID**: arxiv_2609.05388v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05388v1](http://arxiv.org/abs/2609.05388v1)
+
+## CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation
+- **ID**: arxiv_2609.05397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05397v1](http://arxiv.org/abs/2609.05397v1)
+
+## From Interpretability Methods to Interpretable Models
+- **ID**: arxiv_2609.05399v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05399v1](http://arxiv.org/abs/2609.05399v1)
+
+## A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks
+- **ID**: arxiv_2609.05400v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05400v1](http://arxiv.org/abs/2609.05400v1)
+
+## UniMate: One Unified Model to Animate Diverse Skeletons
+- **ID**: arxiv_2609.05415v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05415v1](http://arxiv.org/abs/2609.05415v1)
+
+## WorldSculpt: Generating Compositional Worlds from Grounded Videos
+- **ID**: arxiv_2609.05416v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05416v1](http://arxiv.org/abs/2609.05416v1)
 
