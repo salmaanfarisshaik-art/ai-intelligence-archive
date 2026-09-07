@@ -970,6 +970,12 @@
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
+## scorpionjacketguy/physics-course-vids
+- **ID**: hf_ds_6a60568ac2d6c31b7f81bdc8
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/scorpionjacketguy/physics-course-vids](https://huggingface.co/datasets/scorpionjacketguy/physics-course-vids)
+- **Tags**: modality:document, modality:text, region:us, size_categories:n<1K
+
 ## HuggingFaceCode/stack-v3-train
 - **ID**: hf_ds_6a615c95fb10b1093e0ea9ed
 - **Source**: HuggingFace Datasets

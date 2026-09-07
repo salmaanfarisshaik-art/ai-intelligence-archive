@@ -463,6 +463,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_voilaj_swiss_caselaw",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_zalando_datasets_fashion_mnist",
       "match_type": "exact",
       "score": 2.0
@@ -3213,6 +3218,11 @@
       "entity_id": "dataset_sparkaudio_voxbox",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_voilaj_swiss_caselaw",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "01718": [
@@ -5532,6 +5542,11 @@
       "entity_id": "model_zai_org_glm_4_9b_0414",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_zai_org_glm_z1_32b_0414",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "04146": [
@@ -6099,6 +6114,13 @@
     },
     {
       "entity_id": "dataset_physinonep05_physinonep05",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "050": [
+    {
+      "entity_id": "dataset_voilaj_swiss_caselaw",
       "match_type": "exact",
       "score": 1.0
     }
@@ -7826,6 +7848,11 @@
     },
     {
       "entity_id": "dataset_ucsc_vlaa_gpt_image_edit_1_5m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voilaj_swiss_caselaw",
       "match_type": "exact",
       "score": 1.0
     },

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "35fd1739cc2ad3b2f35396d26b127d791aaec1a4",
   "description": "\n\t\n\t\t\n\t\tTCGA WSI UNI2H Features\n\t\n\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis dataset provides tile-level UNI2-h embeddings extracted from TCGA whole-slide images (WSIs) using a reproducible, auditable pipeline designed for computational pathology research.\nData is organized by project (for example TCGA-HNSC) and currently exposes:\n\nfeatures/ containing H5 feature files with tile-level embeddings\n\nvis/ containing overlay images for quality inspection and pipeline verification\n\n\n[!IMPORTANT]\nUnlike the… See the full description on the dataset page: https://huggingface.co/datasets/W8Yi/tcga-wsi-uni2h-features.",
-  "downloads": 33441,
+  "downloads": 36138,
   "tags": [
     "task_categories:image-feature-extraction",
     "language:en",

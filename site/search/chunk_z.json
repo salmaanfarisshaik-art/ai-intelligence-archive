@@ -21,6 +21,13 @@
       "score": 3.0
     }
   ],
+  "z1": [
+    {
+      "entity_id": "model_zai_org_glm_z1_32b_0414",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "z2": [
     {
       "entity_id": "alpaca_6957802347230553162",
@@ -475,6 +482,11 @@
     },
     {
       "entity_id": "model_zai_org_glm_5_fp8",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_zai_org_glm_z1_32b_0414",
       "match_type": "exact",
       "score": 2.0
     },
@@ -2303,6 +2315,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_jackrong_qwopus3_8_27b_flash_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_jackrong_qwopus_glm_18b_merged_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -2963,6 +2980,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_zai_org_glm_z1_32b_0414",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_zdy1995love_mistral_medium_3_5_128b_nvfp4",
       "match_type": "exact",
       "score": 1.5
@@ -2985,7 +3007,17 @@
   ],
   "zhang": [
     {
+      "entity_id": "dataset_refvideo6m_refvideo6m",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_8947676045831477635",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_alayalab_wildworld",
       "match_type": "exact",
       "score": 1.0
     },
@@ -3094,11 +3126,21 @@
       "entity_id": "model_orion_zhen_qwen2_5_coder_7b_instruct_awq",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_alayalab_wildworld",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zheng": [
     {
       "entity_id": "alpaca_8947676045831477635",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_alayalab_wildworld",
       "match_type": "exact",
       "score": 1.0
     },
@@ -3256,6 +3298,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_refvideo6m_refvideo6m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_rukaway_gs_scenes",
       "match_type": "exact",
       "score": 1.0
@@ -3358,6 +3405,20 @@
       "score": 1.0
     }
   ],
+  "zi": [
+    {
+      "entity_id": "dataset_refvideo6m_refvideo6m",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zi2026refvideo6m": [
+    {
+      "entity_id": "dataset_refvideo6m_refvideo6m",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "zia": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -3368,6 +3429,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "zian": [
+    {
+      "entity_id": "dataset_alayalab_wildworld",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zico": [

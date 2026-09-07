@@ -4252,6 +4252,10 @@
 - **ID**: model_qwen_qwen1_5_1_8b_chat
 - **Source**: 
 
+## Qwen/Qwen1.5-32B-Chat
+- **ID**: model_qwen_qwen1_5_32b_chat
+- **Source**: 
+
 ## Qwen/Qwen1.5-7B
 - **ID**: model_qwen_qwen1_5_7b
 - **Source**: 
