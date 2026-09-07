@@ -796,6 +796,10 @@
 - **ID**: model_codellama_codellama_7b_instruct_hf
 - **Source**: 
 
+## CodeMasterCody3D/taardis-27b-full-ternary
+- **ID**: model_codemastercody3d_taardis_27b_full_ternary
+- **Source**: 
+
 ## CohereLabs/aya-expanse-8b
 - **ID**: model_coherelabs_aya_expanse_8b
 - **Source**: 
@@ -2048,6 +2052,10 @@
 - **ID**: model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf
 - **Source**: 
 
+## Jackrong/Qwopus3.8-27B-Flash-GGUF
+- **ID**: model_jackrong_qwopus3_8_27b_flash_gguf
+- **Source**: 
+
 ## Jackrong/Qwopus-GLM-18B-Merged-GGUF
 - **ID**: model_jackrong_qwopus_glm_18b_merged_gguf
 - **Source**: 
@@ -2316,6 +2324,10 @@
 - **ID**: model_liquidai_lfm2_5_8b_a1b
 - **Source**: 
 
+## LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF
+- **ID**: model_liquidai_lfm2_5_8b_a1b_dspark_gguf
+- **Source**: 
+
 ## LiquidAI/LFM2.5-8B-A1B-GGUF
 - **ID**: model_liquidai_lfm2_5_8b_a1b_gguf
 - **Source**: 
@@ -2578,6 +2590,10 @@
 
 ## lmstudio-community/Qwen3-8B-MLX-4bit
 - **ID**: model_lmstudio_community_qwen3_8b_mlx_4bit
+- **Source**: 
+
+## lmstudio-community/Qwen3-8B-MLX-8bit
+- **ID**: model_lmstudio_community_qwen3_8b_mlx_8bit
 - **Source**: 
 
 ## lmstudio-community/Qwen3-Coder-30B-A3B-Instruct-GGUF
@@ -5300,6 +5316,10 @@
 - **ID**: model_supralabs_supra_50m_reasoning
 - **Source**: 
 
+## swiss-ai/Apertus-70B-2509
+- **ID**: model_swiss_ai_apertus_70b_2509
+- **Source**: 
+
 ## swiss-ai/Apertus-70B-Instruct-2509
 - **ID**: model_swiss_ai_apertus_70b_instruct_2509
 - **Source**: 
@@ -6430,6 +6450,10 @@
 
 ## zai-org/GLM-5-FP8
 - **ID**: model_zai_org_glm_5_fp8
+- **Source**: 
+
+## zai-org/GLM-Z1-32B-0414
+- **ID**: model_zai_org_glm_z1_32b_0414
 - **Source**: 
 
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4

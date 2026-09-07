@@ -12961,7 +12961,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-07T14:14:53.138138+00:00",
+  "generated_at": "2026-09-07T19:02:15.518911+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -130277,6 +130277,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_alayalab_wildworld",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_albertflores3900_albertflores3900",
       "label": ""
     },
@@ -130513,6 +130518,11 @@
     {
       "category": "datasets",
       "id": "dataset_anh1223_data_7cam_2025",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_anhle50030_anhle50030",
       "label": ""
     },
     {
@@ -135322,6 +135332,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_lethuylinh2007_lethuylinh2007",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_lhmd_re10k_torch",
       "label": ""
     },
@@ -135643,6 +135658,11 @@
     {
       "category": "datasets",
       "id": "dataset_lucas_ventura_chapter_llama",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_lucas_ventura_webvid",
       "label": ""
     },
     {
@@ -137462,6 +137482,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_refvideo6m_refvideo6m",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_regimes_androidcontrol_cl",
       "label": ""
     },
@@ -138788,6 +138813,11 @@
     {
       "category": "datasets",
       "id": "dataset_voiceofml_vomebook",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_voilaj_swiss_caselaw",
       "label": ""
     },
     {
@@ -151742,6 +151772,11 @@
     },
     {
       "category": "models",
+      "id": "model_codemastercody3d_taardis_27b_full_ternary",
+      "label": "CodeMasterCody3D/taardis-27b-full-ternary"
+    },
+    {
+      "category": "models",
       "id": "model_coherelabs_aya_expanse_8b",
       "label": "CohereLabs/aya-expanse-8b"
     },
@@ -153307,6 +153342,11 @@
     },
     {
       "category": "models",
+      "id": "model_jackrong_qwopus3_8_27b_flash_gguf",
+      "label": "Jackrong/Qwopus3.8-27B-Flash-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_jackrong_qwopus_glm_18b_merged_gguf",
       "label": "Jackrong/Qwopus-GLM-18B-Merged-GGUF"
     },
@@ -153642,6 +153682,11 @@
     },
     {
       "category": "models",
+      "id": "model_liquidai_lfm2_5_8b_a1b_dspark_gguf",
+      "label": "LiquidAI/LFM2.5-8B-A1B-DSpark-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_liquidai_lfm2_5_8b_a1b_gguf",
       "label": "LiquidAI/LFM2.5-8B-A1B-GGUF"
     },
@@ -153969,6 +154014,11 @@
       "category": "models",
       "id": "model_lmstudio_community_qwen3_8b_mlx_4bit",
       "label": "lmstudio-community/Qwen3-8B-MLX-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_lmstudio_community_qwen3_8b_mlx_8bit",
+      "label": "lmstudio-community/Qwen3-8B-MLX-8bit"
     },
     {
       "category": "models",
@@ -157372,6 +157422,11 @@
     },
     {
       "category": "models",
+      "id": "model_swiss_ai_apertus_70b_2509",
+      "label": "swiss-ai/Apertus-70B-2509"
+    },
+    {
+      "category": "models",
       "id": "model_swiss_ai_apertus_70b_instruct_2509",
       "label": "swiss-ai/Apertus-70B-Instruct-2509"
     },
@@ -158784,6 +158839,11 @@
       "category": "models",
       "id": "model_zai_org_glm_5_fp8",
       "label": "zai-org/GLM-5-FP8"
+    },
+    {
+      "category": "models",
+      "id": "model_zai_org_glm_z1_32b_0414",
+      "label": "zai-org/GLM-Z1-32B-0414"
     },
     {
       "category": "models",
@@ -455808,5 +455868,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 2592,
-  "total_nodes": 88568
+  "total_nodes": 88580
 }
