@@ -885,6 +885,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bulei_imgbed
+- **Source**: 
+
+## 
 - **ID**: dataset_butterfree_indolepatlas
 - **Source**: 
 
@@ -1978,6 +1982,10 @@
 
 ## 
 - **ID**: dataset_harborframework_parity_experiments
+- **Source**: 
+
+## 
+- **ID**: dataset_harborframework_terminal_bench
 - **Source**: 
 
 ## 
@@ -4601,6 +4609,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_markov_ai_cad_environments
+- **Source**: 
+
+## 
+- **ID**: dataset_markov_ai_computer_use_large
+- **Source**: 
+
+## 
 - **ID**: dataset_markov_ai_gaming_500_hours
 - **Source**: 
 
@@ -5074,6 +5090,10 @@
 
 ## 
 - **ID**: dataset_nicoboou_idrcell100k
+- **Source**: 
+
+## 
+- **ID**: dataset_nightgoodl_lasa1m_annotate_part_12
 - **Source**: 
 
 ## 
@@ -5809,6 +5829,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pscotti_mindeyev2
+- **Source**: 
+
+## 
 - **ID**: dataset_psrdataset_psr_battlepairs_images
 - **Source**: 
 
@@ -5866,6 +5890,10 @@
 
 ## 
 - **ID**: dataset_r0mai_opencodeinstruct_curated
+- **Source**: 
+
+## 
+- **ID**: dataset_r2e_gym_r2e_gym_lite
 - **Source**: 
 
 ## 
@@ -6530,6 +6558,10 @@
 
 ## 
 - **ID**: dataset_swaystar123_preprocessed_commoncatalog_cc_by
+- **Source**: 
+
+## 
+- **ID**: dataset_swaystar123_preprocessed_commoncatalog_cc_by_dcae
 - **Source**: 
 
 ## 

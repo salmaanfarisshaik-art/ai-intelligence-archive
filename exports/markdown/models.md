@@ -24,6 +24,10 @@
 - **ID**: model_abeja_gpt_neox_japanese_2_7b
 - **Source**: 
 
+## abenzerps/Apodex-1.1-mini-GGUF
+- **ID**: model_abenzerps_apodex_1_1_mini_gguf
+- **Source**: 
+
 ## ACE-Step/acestep-5Hz-lm-4B
 - **ID**: model_ace_step_acestep_5hz_lm_4b
 - **Source**: 
@@ -718,6 +722,10 @@
 
 ## ByteDance-Seed/academic-ds-9B
 - **ID**: model_bytedance_seed_academic_ds_9b
+- **Source**: 
+
+## ByteDance-Seed/Seed-OSS-36B-Base
+- **ID**: model_bytedance_seed_seed_oss_36b_base
 - **Source**: 
 
 ## ByteDance-Seed/Seed-OSS-36B-Instruct
@@ -2152,6 +2160,14 @@
 - **ID**: model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf
 - **Source**: 
 
+## kingjones777/Qwen3.8-27B-ROCmFP4-STRIX-MTP-GGUF
+- **ID**: model_kingjones777_qwen3_8_27b_rocmfp4_strix_mtp_gguf
+- **Source**: 
+
+## kingjones777/Qwen3.8-Flash-Next-Uncensored-ROCmFP4-FAST-GGUF
+- **ID**: model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf
+- **Source**: 
+
 ## kmhf/hf-moshiko
 - **ID**: model_kmhf_hf_moshiko
 - **Source**: 
@@ -2938,6 +2954,10 @@
 
 ## mconcat/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-FP8-Dynamic
 - **ID**: model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic
+- **Source**: 
+
+## mconcat/Qwopus3.6-27B-v2-AWQ-4bit
+- **ID**: model_mconcat_qwopus3_6_27b_v2_awq_4bit
 - **Source**: 
 
 ## meituan-longcat/LongCat-Flash-Chat
@@ -4960,6 +4980,10 @@
 - **ID**: model_redhatai_llama_3_2_1b_instruct_quantized_w8a8
 - **Source**: 
 
+## RedHatAI/Llama-3.2-3B-Instruct-FP8-dynamic
+- **ID**: model_redhatai_llama_3_2_3b_instruct_fp8_dynamic
+- **Source**: 
+
 ## RedHatAI/Llama-3.3-70B-Instruct-FP8-dynamic
 - **ID**: model_redhatai_llama_3_3_70b_instruct_fp8_dynamic
 - **Source**: 
@@ -5230,6 +5254,10 @@
 
 ## solidrust/Mistral-7B-Instruct-v0.3-AWQ
 - **ID**: model_solidrust_mistral_7b_instruct_v0_3_awq
+- **Source**: 
+
+## soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf
+- **ID**: model_soyaakinohara_qwen3_8_27b_abliterated_3_69bpw_12gb_mtp_gguf
 - **Source**: 
 
 ## speakleash/Bielik-11B-v2.3-Instruct
@@ -5584,6 +5612,10 @@
 - **ID**: model_trl_internal_testing_tiny_lfm2forcausallm_2_5
 - **Source**: 
 
+## trl-internal-testing/tiny-Llama4ForCausalLM
+- **ID**: model_trl_internal_testing_tiny_llama4forcausallm
+- **Source**: 
+
 ## trl-internal-testing/tiny-LlamaForCausalLM-3
 - **ID**: model_trl_internal_testing_tiny_llamaforcausallm_3
 - **Source**: 
@@ -5746,6 +5778,10 @@
 
 ## unsloth/DeepSeek-V4-Flash
 - **ID**: model_unsloth_deepseek_v4_flash
+- **Source**: 
+
+## unsloth/gemma-2-27b
+- **ID**: model_unsloth_gemma_2_27b
 - **Source**: 
 
 ## unsloth/gemma-2-27b-it
@@ -5946,6 +5982,10 @@
 
 ## unsloth/mistral-7b-v0.3-bnb-4bit
 - **ID**: model_unsloth_mistral_7b_v0_3_bnb_4bit
+- **Source**: 
+
+## unsloth/Mistral-Small-24B-Instruct-2501
+- **ID**: model_unsloth_mistral_small_24b_instruct_2501
 - **Source**: 
 
 ## unsloth/Nemotron-3-Nano-30B-A3B
@@ -6282,6 +6322,10 @@
 
 ## XCurOS/XCurOS0.1-8B-Instruct
 - **ID**: model_xcuros_xcuros0_1_8b_instruct
+- **Source**: 
+
+## XHToken/Spark-X2.5-4B-GGUF
+- **ID**: model_xhtoken_spark_x2_5_4b_gguf
 - **Source**: 
 
 ## XiaomiMiMo/MiMo-7B-Base
