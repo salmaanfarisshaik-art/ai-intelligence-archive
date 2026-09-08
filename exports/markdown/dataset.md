@@ -754,6 +754,12 @@
 - **URL**: [https://huggingface.co/datasets/siril-spcc/gaia](https://huggingface.co/datasets/siril-spcc/gaia)
 - **Tags**: license:gpl-3.0, region:us
 
+## GAIR/Darwin-CC
+- **ID**: hf_ds_69a64e75c02ff4af5432f62a
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/GAIR/Darwin-CC](https://huggingface.co/datasets/GAIR/Darwin-CC)
+- **Tags**: format:json, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, region:us, size_categories:1B<n<10B
+
 ## Maximilians/ps2_hf1
 - **ID**: hf_ds_69af8a70d620f76274dcd367
 - **Source**: HuggingFace Datasets

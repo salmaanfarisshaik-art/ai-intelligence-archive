@@ -993,6 +993,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_markov_ai_computer_use_large",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_princeton_nlp_swe_bench_lite",
       "match_type": "exact",
       "score": 1.0
@@ -2619,6 +2624,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by_dcae",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_621ffdd236468d709f181e5d",
       "match_type": "exact",
       "score": 1.0
@@ -3474,6 +3484,11 @@
     },
     {
       "entity_id": "alpaca_5035877290739277038",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_markov_ai_computer_use_large",
       "match_type": "exact",
       "score": 1.0
     },
@@ -4913,6 +4928,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_bytedance_seed_seed_oss_36b_base",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_bytedance_seed_seed_oss_36b_instruct",
       "match_type": "exact",
       "score": 2.0
@@ -5642,6 +5662,13 @@
       "score": 1.0
     }
   ],
+  "395": [
+    {
+      "entity_id": "model_kingjones777_qwen3_8_27b_rocmfp4_strix_mtp_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "397": [
     {
       "entity_id": "dataset_tanganke_sun397",
@@ -5900,6 +5927,11 @@
     },
     {
       "entity_id": "model_qwen_qwen2_5_coder_3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_redhatai_llama_3_2_3b_instruct_fp8_dynamic",
       "match_type": "exact",
       "score": 5.0
     },
@@ -7170,11 +7202,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_genesis_intelligence_assets",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_horizonrobotics_embodiedgendata",
       "match_type": "exact",
       "score": 1.5
@@ -7366,6 +7393,11 @@
     },
     {
       "entity_id": "dataset_fpvlabs_stereo_550",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_markov_ai_cad_environments",
       "match_type": "exact",
       "score": 1.0
     },
