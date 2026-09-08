@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.03699v2](http://arxiv.org/abs/2511.03699v2)
 
+## 
+- **ID**: arxiv_2511.03699v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.03699v2](http://arxiv.org/abs/2511.03699v2)
+
 ## AugAbEx: Bridging Abstractive and Extractive Legal Summarization
 - **ID**: arxiv_2511.12290v2
 - **Source**: ArXiv
@@ -2300,6 +2305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.00184v2](http://arxiv.org/abs/2609.00184v2)
 
+## 
+- **ID**: arxiv_2609.00184v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00184v2](http://arxiv.org/abs/2609.00184v2)
+
 ## Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
 - **ID**: arxiv_2609.01532v1
 - **Source**: ArXiv
@@ -2446,6 +2456,11 @@
 - **URL**: [http://arxiv.org/abs/2609.04199v1](http://arxiv.org/abs/2609.04199v1)
 
 ## WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data
+- **ID**: arxiv_2609.05405v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)
+
+## 
 - **ID**: arxiv_2609.05405v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)

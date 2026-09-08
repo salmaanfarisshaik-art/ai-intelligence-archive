@@ -2350,7 +2350,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05346v1](http://arxiv.org/abs/2609.05346v1)
 
+## 
+- **ID**: arxiv_2609.05346v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05346v1](http://arxiv.org/abs/2609.05346v1)
+
 ## CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents
+- **ID**: arxiv_2609.05374v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05374v1](http://arxiv.org/abs/2609.05374v1)
+
+## 
 - **ID**: arxiv_2609.05374v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05374v1](http://arxiv.org/abs/2609.05374v1)
@@ -2360,7 +2370,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05381v1](http://arxiv.org/abs/2609.05381v1)
 
+## 
+- **ID**: arxiv_2609.05381v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05381v1](http://arxiv.org/abs/2609.05381v1)
+
 ## Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence
+- **ID**: arxiv_2609.05385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05385v1](http://arxiv.org/abs/2609.05385v1)
+
+## 
 - **ID**: arxiv_2609.05385v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05385v1](http://arxiv.org/abs/2609.05385v1)
@@ -2370,7 +2390,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05395v1](http://arxiv.org/abs/2609.05395v1)
 
+## 
+- **ID**: arxiv_2609.05395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05395v1](http://arxiv.org/abs/2609.05395v1)
+
 ## A Deep Generative Model for Synthesizing Labeled Wireless Signals
+- **ID**: arxiv_2609.05396v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)
+
+## 
 - **ID**: arxiv_2609.05396v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.05364v1",
+  "schema_version": "1.0",
+  "technique_name": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
+  "description": "Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fast and capable enough that regenerating an entire library is cheaper than paying down the tech debt of incrementally patching it. We describe SMART, a rigorous symbolic performance-modeling library for",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.05364v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.PL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.05364v1",
+    "updated": "2026-09-04T17:08:51Z",
+    "published": "2026-09-04T17:08:51Z",
+    "title": "Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool",
+    "summary": "Machine-learning performance modeling is a uniquely hostile terrain for long-lived software: the assumptions baked into today's abstractions are invalidated by tomorrow's models and systems, forcing perpetual refactoring of performance-modeling frameworks. Meanwhile, AI coding agents have become fast and capable enough that regenerating an entire library is cheaper than paying down the tech debt of incrementally patching it. We describe SMART, a rigorous symbolic performance-modeling library for ML systems whose main branch contains almost no code: the repository is a DAG of self-contained natural-language design docs, coding sub-agents regenerate the implementation from only the docs on new version updates, and every human change is a natural-language edit to a doc--self-documenting by construction. Two ingredients make regeneration reliable: (i) a design-doc style built around step-by-step worked examples that act as in-context demonstrations for the generating agents, and (ii) a minimal, recursively defined operator IR with symbolic (SymPy) cost expressions, a fast analytical roll-up mode for large sweeps, and a slow modulo-scheduling mode for fine-grained schedule studies. Regenerated implementations reproduce hand-audited reference models--including DeepSeek-V3 serving on a TPU pod slice--to round-off precision, suggesting that design docs--not code--can be the durable artifact for ML-systems co-design tools.",
+    "primary_category": "cs.PL"
+  },
+  "retrieval_timestamp": "2026-09-08T00:07:15Z",
+  "last_updated": "2026-09-04T17:08:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.05364v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

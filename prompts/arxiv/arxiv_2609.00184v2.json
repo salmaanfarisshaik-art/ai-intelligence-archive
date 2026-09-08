@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.00184v2",
+  "schema_version": "1.0",
+  "technique_name": "Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs",
+  "description": "Large language models (LLMs) rely on static pretraining corpora, causing their knowledge to become outdated over time. Existing approaches for evaluating knowledge edits either suffer from rapid contamination or rely on counterfactual edits that conflict with rigid existing knowledge. In this work, we propose a synthetic, simulation-driven framework for studying knowledge insertion in LLMs. We introduce {\\sc ParallelEvents}, a benchmark of fictional yet realistic future worlds that generates coh",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.00184v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.00184v2",
+    "updated": "2026-09-04T17:29:17Z",
+    "published": "2026-08-31T18:06:35Z",
+    "title": "Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs",
+    "summary": "Large language models (LLMs) rely on static pretraining corpora, causing their knowledge to become outdated over time. Existing approaches for evaluating knowledge edits either suffer from rapid contamination or rely on counterfactual edits that conflict with rigid existing knowledge. In this work, we propose a synthetic, simulation-driven framework for studying knowledge insertion in LLMs. We introduce {\\sc ParallelEvents}, a benchmark of fictional yet realistic future worlds that generates coherent event trajectories for controlled evaluation, avoiding contamination while preserving consistency. Building on this dataset, we develop {\\sc Synapse}, a training framework that uses model-generated data to update model parameters via mid-training and instruction tuning. This synthetic pipeline enables scalable knowledge integration without costly human-curated data. Empirically, {\\sc Synapse} outperforms existing methods by 14.23\\%, demonstrating that simulation-based synthetic training leads to robust and coherent knowledge insertions.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-08T00:07:15Z",
+  "last_updated": "2026-09-04T17:29:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.00184v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

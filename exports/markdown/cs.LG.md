@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2412.05641v2](http://arxiv.org/abs/2412.05641v2)
 
+## 
+- **ID**: arxiv_2412.05641v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2412.05641v2](http://arxiv.org/abs/2412.05641v2)
+
 ## Cueless EEG imagined speech for subject identification: dataset and benchmarks
 - **ID**: arxiv_2501.09700v2
 - **Source**: ArXiv
@@ -291,6 +296,11 @@
 - **URL**: [http://arxiv.org/abs/2605.15285v3](http://arxiv.org/abs/2605.15285v3)
 
 ## Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
+- **ID**: arxiv_2605.20314v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20314v2](http://arxiv.org/abs/2605.20314v2)
+
+## 
 - **ID**: arxiv_2605.20314v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20314v2](http://arxiv.org/abs/2605.20314v2)
@@ -1195,12 +1205,22 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01807v2](http://arxiv.org/abs/2609.01807v2)
 
+## 
+- **ID**: arxiv_2609.01807v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01807v2](http://arxiv.org/abs/2609.01807v2)
+
 ## Post-Training Language Models for Gold-Medal Performance in Coding Competitions
 - **ID**: arxiv_2609.02849v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02849v1](http://arxiv.org/abs/2609.02849v1)
 
 ## Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+- **ID**: arxiv_2609.02849v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02849v2](http://arxiv.org/abs/2609.02849v2)
+
+## 
 - **ID**: arxiv_2609.02849v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02849v2](http://arxiv.org/abs/2609.02849v2)
@@ -1221,6 +1241,11 @@
 - **URL**: [http://arxiv.org/abs/2609.05309v1](http://arxiv.org/abs/2609.05309v1)
 
 ## RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments
+- **ID**: arxiv_2609.05403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)
+
+## 
 - **ID**: arxiv_2609.05403v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)

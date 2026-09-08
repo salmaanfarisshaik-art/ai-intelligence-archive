@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.05401v1",
+  "schema_version": "1.0",
+  "technique_name": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+  "description": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property. Paraphrasing the instruction alone can substantially change predicted progress scores, and can even flip identical robot behavior between failure and success. To measure this failure mode, we introdu",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.05401v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.05401v1",
+    "updated": "2026-09-04T17:47:58Z",
+    "published": "2026-09-04T17:47:58Z",
+    "title": "Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models",
+    "summary": "Vision-language models are increasingly used as reward functions for robotic learning, but this role requires paraphrase invariance: the same trajectory should receive the same reward under semantically equivalent goal descriptions. We show that current VLM reward models often violate this property. Paraphrasing the instruction alone can substantially change predicted progress scores, and can even flip identical robot behavior between failure and success. To measure this failure mode, we introduce ROBORMBENCH, a benchmark with 2,390 real-robot trajectories, ground-truth progress labels, and 21,673 verified paraphrases spanning lexical, syntactic, and action-goal rewrites. Across proprietary and open-source VLMs, paraphrase-induced instability is widespread and severe, grows under more divergent rewrites, and is not reliably reduced by scale or explicit reasoning. Dedicated reward models trained with trajectory-grounded supervision are substantially more stable. These results show that paraphrase robustness is a core requirement for reliable VLM-based reward modeling in robotics.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-08T00:07:15Z",
+  "last_updated": "2026-09-04T17:47:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.05401v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

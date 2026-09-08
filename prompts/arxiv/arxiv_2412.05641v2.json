@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2412.05641v2",
+  "schema_version": "1.0",
+  "technique_name": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
+  "description": "Hypergraph is a data structure that enables us to model higher-order associations among data entities. Conventional graph-structured data can represent pairwise relationships only, whereas hypergraph enables us to associate any number of entities, which is essential in many real-life applications. Hypergraph learning algorithms have been well-studied for numerous problem settings, such as node classification, link prediction, etc. However, much less research has been conducted on anomaly detecti",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2412.05641v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2412.05641v2",
+    "updated": "2026-09-04T17:17:17Z",
+    "published": "2024-12-07T12:52:22Z",
+    "title": "Hyperedge Anomaly Detection with Hypergraph Neural Network",
+    "summary": "Hypergraph is a data structure that enables us to model higher-order associations among data entities. Conventional graph-structured data can represent pairwise relationships only, whereas hypergraph enables us to associate any number of entities, which is essential in many real-life applications. Hypergraph learning algorithms have been well-studied for numerous problem settings, such as node classification, link prediction, etc. However, much less research has been conducted on anomaly detection from hypergraphs. Anomaly detection identifies events that deviate from the usual pattern and can be applied to hypergraphs to detect unusual higher-order associations. In this work, we propose an end-to-end hypergraph neural network-based model for identifying anomalous associations in a hypergraph. Our proposed algorithm operates in an unsupervised manner without requiring any labeled data. Extensive experimentation on several real-life datasets demonstrates the effectiveness of our model in detecting anomalous hyperedges.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-08T00:07:15Z",
+  "last_updated": "2026-09-04T17:17:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2412.05641v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

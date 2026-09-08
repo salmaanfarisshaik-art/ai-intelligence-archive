@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.20314v2",
+  "schema_version": "1.0",
+  "technique_name": "Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases",
+  "description": "This work investigates the ``small-vs-large gap'', where repeating on fewer samples can lead to compute saving during training compared to using a larger dataset. This is observed across algorithmic tasks, architectures and optimizers and cannot be explained using prior theory. We argue that the speedup comes from appropriate layer-wise growth enabled by sampling biases, which is more pronounced when the dataset size is smaller. We provide both theoretical analysis and empirical evidence from va",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2605.20314v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.20314v2",
+    "updated": "2026-09-04T16:59:19Z",
+    "published": "2026-05-19T17:28:20Z",
+    "title": "Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases",
+    "summary": "This work investigates the ``small-vs-large gap'', where repeating on fewer samples can lead to compute saving during training compared to using a larger dataset. This is observed across algorithmic tasks, architectures and optimizers and cannot be explained using prior theory. We argue that the speedup comes from appropriate layer-wise growth enabled by sampling biases, which is more pronounced when the dataset size is smaller. We provide both theoretical analysis and empirical evidence from various interventions. Our results suggest that using a smaller dataset with more repetitions is not just a fallback strategy under data scarcity, but can be proactively leveraged as a favorable inductive biases for optimization, particularly in reasoning tasks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-08T00:07:15Z",
+  "last_updated": "2026-09-04T16:59:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.20314v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

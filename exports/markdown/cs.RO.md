@@ -435,12 +435,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05369v1](http://arxiv.org/abs/2609.05369v1)
 
+## 
+- **ID**: arxiv_2609.05369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05369v1](http://arxiv.org/abs/2609.05369v1)
+
 ## What Matters, When? Diagnosing and Improving Conditional Visual Grounding in Visuomotor Imitation Policies
 - **ID**: arxiv_2609.05376v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05376v1](http://arxiv.org/abs/2609.05376v1)
 
+## 
+- **ID**: arxiv_2609.05376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05376v1](http://arxiv.org/abs/2609.05376v1)
+
 ## Same Trajectory, Contradictory Rewards (ROBORMBENCH): Paraphrase Fragility in Vision Language Reward Models
+- **ID**: arxiv_2609.05401v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05401v1](http://arxiv.org/abs/2609.05401v1)
+
+## 
 - **ID**: arxiv_2609.05401v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05401v1](http://arxiv.org/abs/2609.05401v1)

@@ -495,6 +495,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21309v4](http://arxiv.org/abs/2603.21309v4)
 
+## 
+- **ID**: arxiv_2603.21309v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.21309v4](http://arxiv.org/abs/2603.21309v4)
+
 ## SparseVoxelDet: Fully Sparse Voxel Networks for Efficient Event-Based Drone Detection
 - **ID**: arxiv_2603.21638v2
 - **Source**: ArXiv
@@ -3405,6 +3410,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29733v2](http://arxiv.org/abs/2608.29733v2)
 
+## 
+- **ID**: arxiv_2608.29733v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29733v2](http://arxiv.org/abs/2608.29733v2)
+
 ## Multimodal Shared Latent Representation of Narration, Microscope and iOCT Images for Phase Recognition in Vitreoretinal Surgery
 - **ID**: arxiv_2608.31065v1
 - **Source**: ArXiv
@@ -3715,7 +3725,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05351v1](http://arxiv.org/abs/2609.05351v1)
 
+## 
+- **ID**: arxiv_2609.05351v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05351v1](http://arxiv.org/abs/2609.05351v1)
+
 ## Reflection-aware Generative Novel View Synthesis
+- **ID**: arxiv_2609.05382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05382v1](http://arxiv.org/abs/2609.05382v1)
+
+## 
 - **ID**: arxiv_2609.05382v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05382v1](http://arxiv.org/abs/2609.05382v1)
@@ -3725,7 +3745,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05388v1](http://arxiv.org/abs/2609.05388v1)
 
+## 
+- **ID**: arxiv_2609.05388v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05388v1](http://arxiv.org/abs/2609.05388v1)
+
 ## CrossDepth: Geometry-Constrained Attention for Generalizable Multi-View Surround Depth Estimation
+- **ID**: arxiv_2609.05397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05397v1](http://arxiv.org/abs/2609.05397v1)
+
+## 
 - **ID**: arxiv_2609.05397v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05397v1](http://arxiv.org/abs/2609.05397v1)
@@ -3735,7 +3765,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05399v1](http://arxiv.org/abs/2609.05399v1)
 
+## 
+- **ID**: arxiv_2609.05399v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05399v1](http://arxiv.org/abs/2609.05399v1)
+
 ## A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks
+- **ID**: arxiv_2609.05400v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05400v1](http://arxiv.org/abs/2609.05400v1)
+
+## 
 - **ID**: arxiv_2609.05400v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05400v1](http://arxiv.org/abs/2609.05400v1)
@@ -3745,7 +3785,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05415v1](http://arxiv.org/abs/2609.05415v1)
 
+## 
+- **ID**: arxiv_2609.05415v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05415v1](http://arxiv.org/abs/2609.05415v1)
+
 ## WorldSculpt: Generating Compositional Worlds from Grounded Videos
+- **ID**: arxiv_2609.05416v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05416v1](http://arxiv.org/abs/2609.05416v1)
+
+## 
 - **ID**: arxiv_2609.05416v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05416v1](http://arxiv.org/abs/2609.05416v1)
