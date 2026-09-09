@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14511v1](http://arxiv.org/abs/2608.14511v1)
 
+## Deep Learning-Based Multi-User Communication Design for Dense IoT Networks: Interference-Aware Finite-Blocklength Communication and Preliminary MIMO Extensions
+- **ID**: arxiv_2608.22923v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.22923v2](http://arxiv.org/abs/2608.22923v2)
+

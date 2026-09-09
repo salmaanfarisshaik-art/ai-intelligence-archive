@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.02097v6",
+  "schema_version": "1.0",
+  "name": "ClinConsensus: A Physician-Calibrated Benchmark for Evaluating Clinical Rubric Coverage in Chinese Medical LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.02097v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.02097v6",
+    "updated": "2026-09-08T17:04:22Z",
+    "published": "2026-03-02T17:17:18Z",
+    "title": "ClinConsensus: A Physician-Calibrated Benchmark for Evaluating Clinical Rubric Coverage in Chinese Medical LLMs",
+    "summary": "Open-ended medical LLM evaluation remains weakly grounded in physician-calibrated coverage of clinically relevant response criteria, especially in localized clinical settings. We introduce \\textsc{ClinConsensus}, a Chinese medical benchmark of 2{,}500 expert-curated cases spanning 36 specialties, 12 task themes, multiple difficulty levels, and lay-facing versus professional-facing settings. Each case is paired with 30 case-specific binary rubric criteria. To evaluate whether responses satisfy enough physician-authored criteria, we propose \\emph{Clinician-Anchored Coverage Score} (CACS), a physician-calibrated threshold metric instantiated at \\(k=10\\), and develop a dual-judge framework combining a GPT-5.1 grader with a physician-supervised Qwen3-8B judge. Evaluating 11 frontier LLMs, we find a persistent coverage gap: Rubric Accuracy ranges from 39.6\\% to 52.1\\%, whereas CACS@10 ranges from 17.8\\% to 32.9\\%, leaving a 19.2--21.9 point gap across models. Stratified analyses further reveal substantial variation across reasoning, evidence use, structured extraction, medication instructions, follow-up, and dialogue register. These results suggest that medical LLM evaluation should measure thresholded, rubric-grounded clinical coverage rather than average partial correctness.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-09T08:38:16Z",
+  "last_updated": "2026-09-08T17:04:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.02097v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

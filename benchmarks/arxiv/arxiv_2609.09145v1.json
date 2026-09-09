@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.09145v1",
+  "schema_version": "1.0",
+  "name": "Point4D: Long-range 4D Motion Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.09145v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.09145v1",
+    "updated": "2026-09-08T17:58:35Z",
+    "published": "2026-09-08T17:58:35Z",
+    "title": "Point4D: Long-range 4D Motion Reconstruction",
+    "summary": "We introduce Point4D, a feed-forward model for 4D reconstruction of long-range video sequences. Point4D is able to reliably infer dense per-point 3D trajectories across multi-hundred-frame videos, unlike existing 4D methods that are limited to short input windows of at most a few dozen frames. A key innovation that enables this is our flexible 3D query-based motion decoder that decouples trajectory prediction from image-plane visibility. The predicted 3D endpoints are then directly re-queried in the next chunk without re-projection or matching. Furthermore, we show that extracting and reusing a visual descriptor from an arbitrary frame where the point is visible leads to better performance than relying solely on the source patch. Overall, Point4D achieves state-of-the-art performance across diverse long-video tracking benchmarks spanning over 200 frames and largely outperforms previous feed-forward 4D method. Project page: https://point-4d.github.io",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-09T08:38:16Z",
+  "last_updated": "2026-09-08T17:58:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.09145v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29622v1](http://arxiv.org/abs/2608.29622v1)
 
+## Copying explains the collective behavior of AI agents in the wild
+- **ID**: arxiv_2609.09150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09150v1](http://arxiv.org/abs/2609.09150v1)
+

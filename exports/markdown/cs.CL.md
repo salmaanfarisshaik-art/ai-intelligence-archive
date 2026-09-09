@@ -290,6 +290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13110v4](http://arxiv.org/abs/2602.13110v4)
 
+## ClinConsensus: A Physician-Calibrated Benchmark for Evaluating Clinical Rubric Coverage in Chinese Medical LLMs
+- **ID**: arxiv_2603.02097v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.02097v6](http://arxiv.org/abs/2603.02097v6)
+
 ## Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision
 - **ID**: arxiv_2603.07025v2
 - **Source**: ArXiv
@@ -2464,4 +2469,39 @@
 - **ID**: arxiv_2609.05405v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)
+
+## The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits
+- **ID**: arxiv_2609.09048v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09048v1](http://arxiv.org/abs/2609.09048v1)
+
+## Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics
+- **ID**: arxiv_2609.09070v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09070v1](http://arxiv.org/abs/2609.09070v1)
+
+## ToolLoop: Closed-Loop Tool-Use Data Synthesis via Decomposed Generation and Dynamic Self-Feedback
+- **ID**: arxiv_2609.09072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09072v1](http://arxiv.org/abs/2609.09072v1)
+
+## ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation
+- **ID**: arxiv_2609.09076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09076v1](http://arxiv.org/abs/2609.09076v1)
+
+## It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention
+- **ID**: arxiv_2609.09085v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09085v1](http://arxiv.org/abs/2609.09085v1)
+
+## Measuring LLM Sycophancy under Sustained Multi-Turn Pressure
+- **ID**: arxiv_2609.09090v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09090v1](http://arxiv.org/abs/2609.09090v1)
+
+## ReCite: Agentic Reasoning for Faithful Citation
+- **ID**: arxiv_2609.09156v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09156v1](http://arxiv.org/abs/2609.09156v1)
 

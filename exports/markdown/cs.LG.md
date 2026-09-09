@@ -185,6 +185,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
+- **ID**: arxiv_2603.00039v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.00039v2](http://arxiv.org/abs/2603.00039v2)
+
 ## Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
 - **ID**: arxiv_2603.10009v2
 - **Source**: ArXiv
@@ -209,6 +214,11 @@
 - **ID**: arxiv_2604.08649v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08649v2](http://arxiv.org/abs/2604.08649v2)
+
+## Attention-Weighted Value Projection for KV-Cache Compression
+- **ID**: arxiv_2604.11501v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11501v2](http://arxiv.org/abs/2604.11501v2)
 
 ## On the Expressive Power and Limitations of Multi-Layer SSMs
 - **ID**: arxiv_2604.14501v2
@@ -274,6 +284,11 @@
 - **ID**: arxiv_2605.07032v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07032v3](http://arxiv.org/abs/2605.07032v3)
+
+## Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why
+- **ID**: arxiv_2605.10889v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.10889v2](http://arxiv.org/abs/2605.10889v2)
 
 ## Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling
 - **ID**: arxiv_2605.13801v2
@@ -344,6 +359,11 @@
 - **ID**: arxiv_2606.05799v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.05799v2](http://arxiv.org/abs/2606.05799v2)
+
+## In-Context Multiple Instance Learning
+- **ID**: arxiv_2606.06458v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06458v2](http://arxiv.org/abs/2606.06458v2)
 
 ## Pretraining Recurrent Networks without Recurrence
 - **ID**: arxiv_2606.06479v2
@@ -1120,6 +1140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23566v1](http://arxiv.org/abs/2608.23566v1)
 
+## When Do Supervised UQ Ensembles Improve LLM Hallucination Detection? A Robustness Study
+- **ID**: arxiv_2608.24492v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24492v2](http://arxiv.org/abs/2608.24492v2)
+
 ## Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations
 - **ID**: arxiv_2608.24762v1
 - **Source**: ArXiv
@@ -1249,4 +1274,29 @@
 - **ID**: arxiv_2609.05403v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)
+
+## Training-Free Task Vectors for LLM Behavioral Control
+- **ID**: arxiv_2609.09054v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09054v1](http://arxiv.org/abs/2609.09054v1)
+
+## ThinkPrior: Zero-Rollout Difficulty Priors for Cold-Start Prompt Selection in RLVR
+- **ID**: arxiv_2609.09075v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09075v1](http://arxiv.org/abs/2609.09075v1)
+
+## Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation
+- **ID**: arxiv_2609.09135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09135v1](http://arxiv.org/abs/2609.09135v1)
+
+## NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting
+- **ID**: arxiv_2609.09140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09140v1](http://arxiv.org/abs/2609.09140v1)
+
+## Learning Length-Extrapolatable Recurrent Models
+- **ID**: arxiv_2609.09157v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09157v1](http://arxiv.org/abs/2609.09157v1)
 

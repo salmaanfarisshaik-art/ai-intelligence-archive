@@ -180,6 +180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.04721v3](http://arxiv.org/abs/2604.04721v3)
 
+## Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors
+- **ID**: arxiv_2604.05165v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.05165v3](http://arxiv.org/abs/2604.05165v3)
+
 ## Interval POMDP Shielding for Imperfect-Perception Agents
 - **ID**: arxiv_2604.20728v2
 - **Source**: ArXiv
@@ -284,6 +289,11 @@
 - **ID**: arxiv_2606.00671v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.00671v3](http://arxiv.org/abs/2606.00671v3)
+
+## Subliminal Learning is a LoRA Artifact
+- **ID**: arxiv_2606.00831v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.00831v2](http://arxiv.org/abs/2606.00831v2)
 
 ## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
 - **ID**: arxiv_2606.07157v4
@@ -574,6 +584,11 @@
 - **ID**: arxiv_2606.25176v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.25176v3](http://arxiv.org/abs/2606.25176v3)
+
+## Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation
+- **ID**: arxiv_2606.26502v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26502v4](http://arxiv.org/abs/2606.26502v4)
 
 ## Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners
 - **ID**: arxiv_2606.29150v2
@@ -1700,6 +1715,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.15565v2](http://arxiv.org/abs/2608.15565v2)
 
+## Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation
+- **ID**: arxiv_2608.15877v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15877v2](http://arxiv.org/abs/2608.15877v2)
+
 ## GRIP: Grounded Reasoning via Information-Restricted Premises
 - **ID**: arxiv_2608.16776v1
 - **Source**: ArXiv
@@ -2404,4 +2424,59 @@
 - **ID**: arxiv_2609.05396v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)
+
+## Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning
+- **ID**: arxiv_2609.09030v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09030v1](http://arxiv.org/abs/2609.09030v1)
+
+## Time-Varying Data as Sheaves: an Invitation to Narratives
+- **ID**: arxiv_2609.09056v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09056v1](http://arxiv.org/abs/2609.09056v1)
+
+## Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training
+- **ID**: arxiv_2609.09081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09081v1](http://arxiv.org/abs/2609.09081v1)
+
+## The Surprising Effectiveness of Approximate Value Iteration in Self-Play
+- **ID**: arxiv_2609.09094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09094v1](http://arxiv.org/abs/2609.09094v1)
+
+## SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?
+- **ID**: arxiv_2609.09113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09113v1](http://arxiv.org/abs/2609.09113v1)
+
+## MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents
+- **ID**: arxiv_2609.09115v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09115v1](http://arxiv.org/abs/2609.09115v1)
+
+## A Generalization of Amari's Bayesian Duality
+- **ID**: arxiv_2609.09126v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09126v1](http://arxiv.org/abs/2609.09126v1)
+
+## ExecCritic: Learn to Test, Test to Improve for Coding Agents
+- **ID**: arxiv_2609.09133v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09133v1](http://arxiv.org/abs/2609.09133v1)
+
+## Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails
+- **ID**: arxiv_2609.09134v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09134v1](http://arxiv.org/abs/2609.09134v1)
+
+## A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes
+- **ID**: arxiv_2609.09137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09137v1](http://arxiv.org/abs/2609.09137v1)
+
+## Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+- **ID**: arxiv_2609.09153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09153v1](http://arxiv.org/abs/2609.09153v1)
 

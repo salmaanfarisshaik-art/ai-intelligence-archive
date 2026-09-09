@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.09069v1",
+  "schema_version": "1.0",
+  "name": "Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.09069v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.09069v1",
+    "updated": "2026-09-08T17:23:37Z",
+    "published": "2026-09-08T17:23:37Z",
+    "title": "Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering",
+    "summary": "Autonomous 3D active mapping requires a space robot to choose where to sense while building the geometry needed for navigation. Learned occupancy completion extends spatial context beyond the current field of view, but one predicted map often serves two planning roles: it scores expected surface gain and constrains collision-free motion. Unsupported occupancy can therefore distort both where the robot looks and where it believes it can travel. We study this coupled interface in a controlled closed-loop benchmark by holding the active-mapping system fixed and varying only its planner-facing occupancy across observation-only, learned, oracle-corrected, and ground-truth conditions. Improving occupancy accuracy does not monotonically improve closed-loop coverage: across 25 starts, planning with ground-truth occupancy reaches 70% of the learned baseline's final coverage 12.7 steps earlier on average, while increasing final coverage by only 0.031. Guided by this diagnosis, we introduce an observation-gated filter that retains completion in insufficiently observed regions and suppresses predictions only after repeated frustum exposure without nearby RGB-D support. The filter improves both targeted failure-prone starts without retraining or ground truth. These results motivate online revision of planner-facing geometry during autonomous intervals between communication windows. The current study assumes benchmark RGB-D observations and sufficiently accurate pose estimates; planetary sensing conditions and accumulated localization drift remain to be evaluated.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-09T08:38:16Z",
+  "last_updated": "2026-09-08T17:23:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.09069v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

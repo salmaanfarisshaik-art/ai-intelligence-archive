@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.11501v2",
+  "schema_version": "1.0",
+  "name": "Attention-Weighted Value Projection for KV-Cache Compression",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.11501v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.11501v2",
+    "updated": "2026-09-08T17:08:37Z",
+    "published": "2026-04-13T14:06:18Z",
+    "title": "Attention-Weighted Value Projection for KV-Cache Compression",
+    "summary": "Rank reduction discards dimensions; quantization keeps them at lower precision. Comparing the two requires a choice of what compression should preserve. For attention values, we study reconstruction\n  of the attention output rather than reconstruction of the values alone. With fixed attention weights, the optimal orthogonal rank-$r$ projection uses the leading eigenvectors of\n  $V^\\topα^\\topαV$, and its error is exactly the discarded eigenvalue sum. We extend this objective to calibration datasets and grouped query attention, and describe rank allocation under\n  an additive local error budget. We also examine the limits of using local error to predict downstream loss. Historical weight-perturbation experiments favor coefficient rounding over the value\n  projections tested, but do not establish a comparison at equal cache storage. The resulting distinction is practical: the projection objective has an exact solution, while a comparison with cache\n  quantization requires separate activation-level experiments.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-09T08:38:16Z",
+  "last_updated": "2026-09-08T17:08:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.11501v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

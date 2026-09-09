@@ -195,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.15228v3](http://arxiv.org/abs/2508.15228v3)
 
+## InSituRes: A Physics-Informed Same-Grid Model for Enhanced Dynamic X-ray Micro-CT Reconstructions
+- **ID**: arxiv_2508.17708v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.17708v2](http://arxiv.org/abs/2508.17708v2)
+
 ## 3D and 4D World Modeling: A Survey
 - **ID**: arxiv_2509.07996v4
 - **Source**: ArXiv
@@ -414,6 +419,11 @@
 - **ID**: arxiv_2602.06159v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.06159v3](http://arxiv.org/abs/2602.06159v3)
+
+## AGMark: Attention-Guided Dynamic Watermarking for Large Vision-Language Models
+- **ID**: arxiv_2602.09611v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.09611v3](http://arxiv.org/abs/2602.09611v3)
 
 ## Chart Specification: Structural Representations for Incentivizing VLM Reasoning in Chart-to-Code Generation
 - **ID**: arxiv_2602.10880v2
@@ -1124,6 +1134,11 @@
 - **ID**: arxiv_2607.05268v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.05268v3](http://arxiv.org/abs/2607.05268v3)
+
+## AVA-VLM: Adaptive Visual Attention-Vision Language Model for In-the-Wild Construction Site Monitoring
+- **ID**: arxiv_2607.05859v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05859v2](http://arxiv.org/abs/2607.05859v2)
 
 ## Bi-PT: Bidirectional Cross-Attention Point Transformers for Four-Chamber Heart Reconstruction from Sparse Cardiac MRI Data
 - **ID**: arxiv_2607.06923v2
@@ -3135,6 +3150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.21360v1](http://arxiv.org/abs/2608.21360v1)
 
+## Simulate, record, verify: A language-portable framework for muscle-grounded articulatory QA (extended version)
+- **ID**: arxiv_2608.23137v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23137v5](http://arxiv.org/abs/2608.23137v5)
+
 ## Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar
 - **ID**: arxiv_2608.23479v1
 - **Source**: ArXiv
@@ -3799,4 +3819,39 @@
 - **ID**: arxiv_2609.05416v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05416v1](http://arxiv.org/abs/2609.05416v1)
+
+## "World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers
+- **ID**: arxiv_2609.09055v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09055v1](http://arxiv.org/abs/2609.09055v1)
+
+## GoDeep: Annotation-Free Open-Vocabulary 3D Scene Understanding via Language-Space Lifting
+- **ID**: arxiv_2609.09082v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09082v1](http://arxiv.org/abs/2609.09082v1)
+
+## Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout
+- **ID**: arxiv_2609.09123v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09123v1](http://arxiv.org/abs/2609.09123v1)
+
+## Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs
+- **ID**: arxiv_2609.09124v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09124v1](http://arxiv.org/abs/2609.09124v1)
+
+## Studying Image Tokenizers as Visual Languages in Unified Multimodal Models
+- **ID**: arxiv_2609.09143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09143v1](http://arxiv.org/abs/2609.09143v1)
+
+## Point4D: Long-range 4D Motion Reconstruction
+- **ID**: arxiv_2609.09145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09145v1](http://arxiv.org/abs/2609.09145v1)
+
+## SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators
+- **ID**: arxiv_2609.09155v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09155v1](http://arxiv.org/abs/2609.09155v1)
 

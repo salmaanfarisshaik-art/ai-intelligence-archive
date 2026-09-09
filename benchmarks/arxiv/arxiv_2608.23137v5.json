@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23137v5",
+  "schema_version": "1.0",
+  "name": "Simulate, record, verify: A language-portable framework for muscle-grounded articulatory QA (extended version)",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23137v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23137v5",
+    "updated": "2026-09-08T17:33:46Z",
+    "published": "2026-08-24T11:43:30Z",
+    "title": "Simulate, record, verify: A language-portable framework for muscle-grounded articulatory QA (extended version)",
+    "summary": "Articulatory corpora from real-time MRI and electromagnetic articulography capture tongue motion but carry no traceable labels for the muscle-driven process behind each configuration, and authoring such supervision by hand, separately for every language, does not scale. We present a simulator-based framework that turns controlled biomechanical inputs into verifiable, language-portable QA supervision. Each simulated configuration is stored with its generating input as a structured fact record; deterministic generators derive gold answers from records alone; and naturalization changes only surface form, with every output checked against its record. A new language therefore needs only a renderer and a lexicon, and new question types need no re-simulation. Instantiated as 3DTongueQA on the ArtiSynth Badin tongue model, 295,115 valid meshes yield 891,156 record-checked QA per language in English and Korean (87.2\\% and 88.6\\% first-pass verification); a Spanish renderer authored in about 20 minutes reaches 94.1\\%, and the checker detects 97--99\\% of injected corruptions. The generated supervision is domain-specific: zero-shot GPT-5 Pro reaches 7.2 Muscle EM, whereas a SpiralNet++--Qwen3-8B model trained on it reaches $62.9\\pm9.2$ (2.2 with shuffled meshes) and task-specific readouts reach $88.7\\pm0.7$. Code and templates: https://github.com/esh0504/muscle-grounded-qa.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-09T08:38:16Z",
+  "last_updated": "2026-09-08T17:33:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23137v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

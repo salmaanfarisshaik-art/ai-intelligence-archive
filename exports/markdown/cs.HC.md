@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
 
+## PersonaTeaming: Supporting Persona-Driven Red-Teaming for Generative AI
+- **ID**: arxiv_2605.05682v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05682v3](http://arxiv.org/abs/2605.05682v3)
+
 ## Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs
 - **ID**: arxiv_2605.29928v3
 - **Source**: ArXiv

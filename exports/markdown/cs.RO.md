@@ -460,3 +460,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05401v1](http://arxiv.org/abs/2609.05401v1)
 
+## Rethinking Learned Occupancy in Autonomous Active Mapping with Observation-Gated Filtering
+- **ID**: arxiv_2609.09069v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09069v1](http://arxiv.org/abs/2609.09069v1)
+
+## DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination
+- **ID**: arxiv_2609.09119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09119v1](http://arxiv.org/abs/2609.09119v1)
+
+## TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model
+- **ID**: arxiv_2609.09158v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09158v1](http://arxiv.org/abs/2609.09158v1)
+
