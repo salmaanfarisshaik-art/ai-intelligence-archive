@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.10701v2",
+  "schema_version": "1.0",
+  "name": "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.10701v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.10701v2",
+    "updated": "2026-09-09T17:53:12Z",
+    "published": "2026-04-12T15:54:11Z",
+    "title": "Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning",
+    "summary": "Credit assignment is a central challenge in reinforcement learning (RL). Classical actor-critic methods address this challenge through fine-grained advantage estimation based on a learned value function. However, learned value models are often avoided in modern large language model (LLM) RL because conventional discriminative critics are difficult to train reliably. We revisit value modeling and argue that this difficulty is partly due to limited expressiveness. In particular, representation complexity theory suggests that value functions can be hard to approximate under the one-shot prediction paradigm used by existing value models, and our scaling experiments show that such critics do not improve reliably with scale. Motivated by this observation, we propose Generative Actor-Critic (GenAC), which replaces one-shot scalar value prediction with a generative critic that performs chain-of-thought reasoning before producing a value estimate. We further introduce In-Context Conditioning, which helps the critic remain calibrated to the current actor throughout training. GenAC improves value approximation, ranking reliability, and out-of-distribution generalization, and these gains translate into stronger downstream RL performance than both value-based and value-free baselines. Overall, our results suggest that stronger value modeling is a promising direction for improving credit assignment in LLM reinforcement learning.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:53:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.10701v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

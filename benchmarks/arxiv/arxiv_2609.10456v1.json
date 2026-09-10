@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10456v1",
+  "schema_version": "1.0",
+  "name": "Advanced Brain Tissue Imaging with Data-Consistent Diffusion Priors in Laminographic X-Ray Nanoimaging",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10456v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10456v1",
+    "updated": "2026-09-09T17:05:00Z",
+    "published": "2026-09-09T17:05:00Z",
+    "title": "Advanced Brain Tissue Imaging with Data-Consistent Diffusion Priors in Laminographic X-Ray Nanoimaging",
+    "summary": "Nanoscale imaging of mammalian brains is critical for connectomics. X-ray laminography enables high-throughput imaging of extended, plate-like biological specimens. However, the tilted acquisition geometry leads to incomplete Fourier-space coverage, giving rise to a missing-cone of information. Conventional reconstruction methods cannot recover unmeasured information within the cone, resulting in artifacts that distort fine brain structures. While resolving these requires modeling 3D structure, direct 3D deep learning approaches are limited by data scarcity and computational cost. Here we introduce LUCID (Laminography with Unified Consistent Diffusion), a framework that combines multi-view diffusion priors with projection-domain data consistency. LUCID integrates complementary 3D structural information while enforcing strict alignment with the laminography forward model. On simulated datasets, LUCID substantially improves spatial fidelity and restores missing Fourier components, outperforming baseline methods. Applied to experimental laminography data, LUCID generalizes robustly despite being trained exclusively on fully sampled tomographic volumes, and effectively recovers unmeasured Fourier information.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:05:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10456v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

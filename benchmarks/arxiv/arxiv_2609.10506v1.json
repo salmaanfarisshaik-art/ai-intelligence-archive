@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10506v1",
+  "schema_version": "1.0",
+  "name": "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10506v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10506v1",
+    "updated": "2026-09-09T17:41:38Z",
+    "published": "2026-09-09T17:41:38Z",
+    "title": "DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation",
+    "summary": "Action-conditioned latent world models predict future visual representations, enabling zero-shot goal-conditioned robot planning and control. However, their predictions for fine-grained spatial and rotational actions are unreliable for full 7-DoF end-effector control. To address this gap, we introduce DUET-DINO, a simultaneous cross-view latent world model that jointly learns action-conditioned predictions from static side- and wrist-camera observations through cross-view conditioning. By exploiting complementary global scene and gripper-centric information, DUET-DINO enables latent planning over the full 7-DoF action space. Across spatially diverse reach, orientation-intensive angled-reach, and multi-goal grasp-and-lift tasks, DUET-DINO consistently outperforms single-view and independent dual-view baselines, achieving 92% success on reach, 72.5% on angled-reach, and 60.0% on lift tasks. DUET-DINO is trained from scratch on DROID and RoboArena datasets and generalizes robustly under visual distribution shifts. We further show that while V-JEPA 2 wrist-view predictions underestimate visual dynamics induced by fine-grained actions, DINOv3 predictions better capture action-conditioned scene changes, leading to stronger downstream planning. The code and model checkpoints will be open-sourced. Project page: https://utn-air.github.io/DUET-DINO",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:41:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10506v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

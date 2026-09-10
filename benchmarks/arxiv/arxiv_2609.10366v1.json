@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10366v1",
+  "schema_version": "1.0",
+  "name": "AVSRBench: A Multi-Condition AVSR Benchmark",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10366v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10366v1",
+    "updated": "2026-09-09T15:58:44Z",
+    "published": "2026-09-09T15:58:44Z",
+    "title": "AVSRBench: A Multi-Condition AVSR Benchmark",
+    "summary": "While AVSR has achieved sub-1% word error rates on the standard LRS3 benchmark, its reliance on broadcast speech obscures whether this reflects true generalization or just domain adaptation. To investigate this gap, we evaluate three AVSR architectures across six conditions: controlled broadcast speech, fixed-grammar utterances, hyper-articulated Lombard speech, read speech from professional lipspeakers and non-professional speakers, and spontaneous multi-party video conversations. We find that visual-only performance deteriorates rapidly beyond broadcast domains, and audio-video fusion mainly benefits Lombard speech environments. Visual understanding degrades sharply at 90° profile views, with multimodal systems relying largely on acoustic fallback. Additionally, speaker articulation proves more critical than minor camera shifts, and LLM-based architectures suffer from poor out-of-domain generalization. Our work highlights a significant generalization gap in current AVSR research. To address this, we also introduce RoomReader-AV as a new benchmark for AVSR and release a unified data preprocessing pipeline to make comprehensive multi-condition evaluation accessible.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T15:58:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10366v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

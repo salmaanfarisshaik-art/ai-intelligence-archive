@@ -2025,6 +2025,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24876v1](http://arxiv.org/abs/2608.24876v1)
 
+## FrontierChallenge: Evaluating Scientific Workflow Completion
+- **ID**: arxiv_2608.24979v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24979v2](http://arxiv.org/abs/2608.24979v2)
+
 ## Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs
 - **ID**: arxiv_2608.25986v1
 - **Source**: ArXiv
@@ -2479,4 +2484,19 @@
 - **ID**: arxiv_2609.09153v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09153v1](http://arxiv.org/abs/2609.09153v1)
+
+## Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs
+- **ID**: arxiv_2609.10413v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10413v1](http://arxiv.org/abs/2609.10413v1)
+
+## ConvMem: Convolutional Memory for Long-Context Reasoning
+- **ID**: arxiv_2609.10441v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10441v1](http://arxiv.org/abs/2609.10441v1)
+
+## JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition
+- **ID**: arxiv_2609.10451v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10451v1](http://arxiv.org/abs/2609.10451v1)
 

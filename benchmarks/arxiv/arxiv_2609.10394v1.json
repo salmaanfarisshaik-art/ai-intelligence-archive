@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10394v1",
+  "schema_version": "1.0",
+  "name": "Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10394v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10394v1",
+    "updated": "2026-09-09T16:14:29Z",
+    "published": "2026-09-09T16:14:29Z",
+    "title": "Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition",
+    "summary": "Current audio-visual speech recognition (AVSR) benchmarks, like LRS3, rely heavily on clean, scripted and rehearsed speech. They fail to reflect the complexity of natural conversation, which involves overlapping speech, spontaneous turn-taking, unscripted vocabulary and variable acoustic conditions. To shift the field toward realistic dialogue, we introduce Candor-LR, a conversational benchmark derived from the CANDOR corpus of 1,656 natural dyadic videoconferences. Our custom data preparation pipeline yields 713.5, 10.1, and 60.1 hours of training, validation, and test data, respectively. Evaluating pretrained AVSR models on Candor-LR reveals that audio-only accuracy drops sharply compared to LRS3, but visual cues compensate effectively, driving much larger performance gains on Candor-LR than on LRS3. Furthermore, training on this corpus significantly improves cross-domain robustness under both clean and noisy conditions, as its realistic conversational data captures broader audio-video features. We open-source our pipeline to ensure reproducibility, establishing Candor-LR as a challenging benchmark for conversational AVSR.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:14:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10394v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.03371v4",
+  "schema_version": "1.0",
+  "name": "See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.03371v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.03371v4",
+    "updated": "2026-09-09T16:06:38Z",
+    "published": "2026-06-02T09:18:39Z",
+    "title": "See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making",
+    "summary": "Reliable proactive agents must choose an action and judge whether current evidence is sufficient to act. We study retail service from sparse third-person video: before an explicit customer request, an agent must use limited human-object interaction evidence to intervene or remain silent. Physical grounding here means converting observations into task-relevant retail state, not modeling low-level dynamics. We introduce the Proactive Intent World Model (PIWM): See constructs the perceptual basis, Foresee models counterfactual consequences, and Act selects an action. Performance is poor when the agent must extract information from raw video and decide directly, but improves substantially with structured inputs extracted and annotated from a professional retail perspective. AIDA-stage constraints and BDI-state ablations further support role- and goal-directed selection and organization of decision-relevant cues. Counterfactual prediction performs well in standalone evaluation, yet planning methods that query these forecasts at inference time degrade sharply: locally useful consequence prediction does not reliably improve action selection. This gap may reflect incomplete process understanding, uncertainty in fine-grained single-step outcomes, and insufficient joint modeling of scenes and temporal evolution. Hold remains the hardest action in structured-state evaluation, exposing a related challenge in temporal awareness. PIWM advances static intent recognition toward intent world modeling by organizing observations under task knowledge, anticipating candidate interventions, and treating intervention and non-intervention jointly. Future work will introduce long-horizon interaction trajectories and temporal consequence supervision to improve sustained reasoning and intervention timing.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:06:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.03371v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

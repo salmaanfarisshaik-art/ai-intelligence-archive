@@ -225,3 +225,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04167v1](http://arxiv.org/abs/2609.04167v1)
 
+## Retrofitting Code Using LLMs to Support Exceptional Behavior
+- **ID**: arxiv_2609.10397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10397v1](http://arxiv.org/abs/2609.10397v1)
+

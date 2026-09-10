@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.13841v3",
+  "schema_version": "1.0",
+  "name": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.13841v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.13841v3",
+    "updated": "2026-09-09T17:57:23Z",
+    "published": "2026-05-13T17:58:52Z",
+    "title": "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents",
+    "summary": "Voice agents are increasingly deployed across enterprise applications. However, no existing benchmark jointly addresses realistic conversation simulation and comprehensive voice-specific evaluation. We present EVA-Bench, an end-to-end evaluation framework that addresses both. On the simulation side, EVA-Bench orchestrates dynamic bot-to-bot audio conversations with automatic simulation validation that detects user simulator error and appropriately regenerates conversations before scoring. On the measurement side, EVA-Bench introduces two composite metrics: EVA-A (Accuracy) and EVA-X (Experience). EVA-Bench includes 213 scenarios across three enterprise domains, a controlled perturbation suite for accent and noise robustness, and multi-trial measurements that distinguish peak from reliable capability. Across 12 systems spanning all three architectures, we find: (1) no system simultaneously exceeds 0.5 on both EVA-A pass@1 and EVA-X pass@1; (2) peak and reliable performance diverge substantially (median pass@k--pass^k gap of 0.44 on EVA-A); and (3) accent and noise perturbations expose substantial robustness gaps, with effects varying across architectures, systems, and metrics (mean $Δ$ up to 0.314). We release EVA-Bench under an open-source license.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:57:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.13841v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

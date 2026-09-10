@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10445v1",
+  "schema_version": "1.0",
+  "name": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10445v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10445v1",
+    "updated": "2026-09-09T16:56:25Z",
+    "published": "2026-09-09T16:56:25Z",
+    "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+    "summary": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in. This is inaccessible for non-English-speaking users, risks losing the intent of the original question, and forgoes knowledge more readily expressed in the target language. In this work, we advance L2 reasoning, the ability of a model to reason consistently in the language of the user's prompt, thus building an in-language bridge between the prompt and the answer. We approach this problem from a data-centric angle, investigating how to optimize data composition and scheduling in SFT for reasoning generalization. Building Tiny Aya L2-Thinker at 3.35B scale, we achieve an L2 reasoning rate above 93% across 60 languages on 6 benchmarks spanning math, commonsense reasoning, instruction following, open-ended generation, and cultural reasoning while keeping performance strong. We show the path to generalizing L2 reasoning to held-out languages goes through broader language coverage, readily available multilingual non-reasoning data, and a sufficient English reasoning backbone. These findings indicate that reasoning is a language-agnostic behavior that can be transferred across typologically diverse languages through careful data mixing and without requiring reasoning supervision in every target language. We release our model weights and multilingual reasoning data to support further research on accessible, in-language reasoning.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:56:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10445v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

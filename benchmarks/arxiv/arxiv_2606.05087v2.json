@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.05087v2",
+  "schema_version": "1.0",
+  "name": "Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.05087v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.05087v2",
+    "updated": "2026-09-09T17:24:39Z",
+    "published": "2026-06-03T16:51:27Z",
+    "title": "Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models",
+    "summary": "Frequent verbs such as 'have' and 'make' can function either as collocates in light-verb constructions or as full lexical predicates, as in 'make a decision' vs. 'make a cake'. Whether language models represent this distinction, and whether such representations vary across languages, remains unclear. We introduce a large-scale controlled dataset in English, Spanish, and French, comprising minimally varying sentence series in which the same context contains the same verb in light-verb and full-verb uses. Two probing experiments show that language models differentiate between these uses even in minimal contexts and exhibit separable patterns across object types. We release the dataset, generation code, and materials as a reusable resource. The framework supports extensions to broader contexts, additional verbs, and other languages.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:24:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.05087v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

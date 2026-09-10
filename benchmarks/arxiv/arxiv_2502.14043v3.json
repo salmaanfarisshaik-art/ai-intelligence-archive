@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2502.14043v3",
+  "schema_version": "1.0",
+  "name": "Safe Learning Under Irreversible Dynamics via Asking for Help",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2502.14043v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2502.14043v3",
+    "updated": "2026-09-09T16:37:14Z",
+    "published": "2025-02-19T19:01:39Z",
+    "title": "Safe Learning Under Irreversible Dynamics via Asking for Help",
+    "summary": "Most learning algorithms with formal regret guarantees essentially rely on trying all possible behaviors, which is problematic when some errors cannot be recovered from. Instead, we allow the learning agent to ask for help from a mentor and to transfer knowledge between similar states. We show that this combination enables the agent to learn both safely and effectively. Under standard online learning assumptions, we provide an algorithm whose regret and number of mentor queries are both sublinear in the time horizon for Markov decision processes with irreversible dynamics and infinite state spaces. Our proof involves a sequence of three reductions, making our result more general than a single algorithm. Conceptually, our result may be the first formal proof that it is possible for an agent to obtain high reward while becoming self-sufficient in an unknown, unbounded, and high-stakes environment without resets.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:37:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2502.14043v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

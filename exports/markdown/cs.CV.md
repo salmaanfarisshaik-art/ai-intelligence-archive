@@ -555,6 +555,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.02486v3](http://arxiv.org/abs/2604.02486v3)
 
+## SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo
+- **ID**: arxiv_2604.04925v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.04925v3](http://arxiv.org/abs/2604.04925v3)
+
 ## Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family
 - **ID**: arxiv_2604.05971v2
 - **Source**: ArXiv
@@ -609,6 +614,11 @@
 - **ID**: arxiv_2605.00887v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.00887v2](http://arxiv.org/abs/2605.00887v2)
+
+## TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
+- **ID**: arxiv_2605.01234v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01234v2](http://arxiv.org/abs/2605.01234v2)
 
 ## Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation
 - **ID**: arxiv_2605.04201v2
@@ -689,6 +699,11 @@
 - **ID**: arxiv_2606.06158v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06158v2](http://arxiv.org/abs/2606.06158v2)
+
+## Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception
+- **ID**: arxiv_2606.06714v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06714v3](http://arxiv.org/abs/2606.06714v3)
 
 ## BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving
 - **ID**: arxiv_2606.08684v2
@@ -3255,6 +3270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24877v1](http://arxiv.org/abs/2608.24877v1)
 
+## Where to Look Matters: On-Policy Self-Distillation for Long-Video Understanding
+- **ID**: arxiv_2608.25356v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25356v2](http://arxiv.org/abs/2608.25356v2)
+
 ## FRAME: separating sampling variation from representational cause in medical imaging fairness
 - **ID**: arxiv_2608.25981v1
 - **Source**: ArXiv
@@ -3854,4 +3874,69 @@
 - **ID**: arxiv_2609.09155v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09155v1](http://arxiv.org/abs/2609.09155v1)
+
+## Beyond Weak Labels: Prompt-Guided Local Refinement for Weakly Supervised Water Segmentation in High-Resolution Multispectral Imagery
+- **ID**: arxiv_2609.10371v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10371v1](http://arxiv.org/abs/2609.10371v1)
+
+## PACE: Perceived-Latency-Aware Cascading Service Routing and Filler Control for QoE-Efficient Retrieval-Augmented Dialogue Serving
+- **ID**: arxiv_2609.10372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10372v1](http://arxiv.org/abs/2609.10372v1)
+
+## Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction
+- **ID**: arxiv_2609.10376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10376v1](http://arxiv.org/abs/2609.10376v1)
+
+## Enhanced Deformable Convolution with Center-invariant Offset and Edge-aware Mask
+- **ID**: arxiv_2609.10387v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10387v1](http://arxiv.org/abs/2609.10387v1)
+
+## Advanced Brain Tissue Imaging with Data-Consistent Diffusion Priors in Laminographic X-Ray Nanoimaging
+- **ID**: arxiv_2609.10456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10456v1](http://arxiv.org/abs/2609.10456v1)
+
+## AgroVisNet: A lightweight Convolutional Network and the BD-PlantDX Expert-Validated Benchmark for Radish, Potato and Pointed Gourd Disease Classification
+- **ID**: arxiv_2609.10469v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10469v1](http://arxiv.org/abs/2609.10469v1)
+
+## Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
+- **ID**: arxiv_2609.10489v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10489v1](http://arxiv.org/abs/2609.10489v1)
+
+## Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation
+- **ID**: arxiv_2609.10495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10495v1](http://arxiv.org/abs/2609.10495v1)
+
+## Field Converter: Geometry-Initialized Temporal Residual Refinement for World-Grounded Player Pose Estimation from Soccer Broadcasts
+- **ID**: arxiv_2609.10498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10498v1](http://arxiv.org/abs/2609.10498v1)
+
+## BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models
+- **ID**: arxiv_2609.10518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10518v1](http://arxiv.org/abs/2609.10518v1)
+
+## Precision in Rice Variety Classification using Stacking-Based Ensemble Learning
+- **ID**: arxiv_2609.10524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10524v1](http://arxiv.org/abs/2609.10524v1)
+
+## Guiding Image-to-3D Generation with Test-Time Partial Observations
+- **ID**: arxiv_2609.10531v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10531v1](http://arxiv.org/abs/2609.10531v1)
+
+## Programmable World Model
+- **ID**: arxiv_2609.10540v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10540v1](http://arxiv.org/abs/2609.10540v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.06714v3",
+  "schema_version": "1.0",
+  "name": "Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.06714v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.06714v3",
+    "updated": "2026-09-09T16:07:34Z",
+    "published": "2026-06-04T21:03:41Z",
+    "title": "Anchored, Not Graded: Vision-Language Models Fail at Slant-from-Texture Perception",
+    "summary": "Human perception of surface slant from texture exhibits systematic, graded biases that emerge reliably in psychophysical experiments. Prior work showed that unsupervised CNNs reproduce several human-like biases, while supervised CNNs do not. Do Vision-Language Models (VLMs) exhibit similar competences? Across multiple VLM families and model scales, zero-shot and in-context prompting both produce distinctive failures: slant is predicted at only a small set of anchors (e.g., 0\\degree, $\\pm$25\\degree, $\\pm$45\\degree) with little dependence on stimulus field of view, optical slant, or surface curvature. Supervised fine-tuning partially remediates the failure, but residual anchoring persists. While success in high-level vision-language benchmarks might not require sensitivity to low-level geometric cues, we interpret anchoring as a failure at the representation-to-output language interface: not necessarily an absence of geometric encoding, but a failure to express it in a graded form.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:07:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.06714v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

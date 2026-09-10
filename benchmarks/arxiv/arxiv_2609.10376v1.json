@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10376v1",
+  "schema_version": "1.0",
+  "name": "Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10376v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10376v1",
+    "updated": "2026-09-09T16:05:09Z",
+    "published": "2026-09-09T16:05:09Z",
+    "title": "Shape-guided Gaussian Splatting for Sparse-View X-ray 3D Reconstruction",
+    "summary": "Sparse-view X-ray 3D reconstruction is essential for reducing radiation exposure, but recovering a density field from a handful of X-ray projections is severely ill-posed. Recently, 3D Gaussian Splatting has achieved state-of-the-art performance in sparse-view reconstruction by representing the volume using explicit, optimized primitives, but it requires dozens of projected views. With fewer views, reconstruction quality degrades severely since the explicit primitives are optimized freely without any anatomical information. Anatomical structures, in contrast, share similar geometry and density across a population. Their variations are bounded within a limited range that statistical shape models can capture. This paper proposes a shape-guided Gaussian splatting framework for sparse-view X-ray 3D reconstructions. Our contribution lies in driving Gaussian positions toward anatomically valid configurations, alongside atlas-based density regularization. Our method ensures anatomically consistent reconstruction and improves PSNR by 2.83 dB over a state-of-the-art Gaussian splatting baseline with as few as 5 views. Code Available: https://github.com/polyshape-lab/ShapeGuidedGaussian",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:05:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10376v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

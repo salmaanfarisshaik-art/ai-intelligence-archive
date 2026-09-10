@@ -45,3 +45,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26005v1](http://arxiv.org/abs/2608.26005v1)
 
+## AVSRBench: A Multi-Condition AVSR Benchmark
+- **ID**: arxiv_2609.10366v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10366v1](http://arxiv.org/abs/2609.10366v1)
+
+## Candor-LR: A Dyadic Conversational Dataset for Audio-Visual Speech Recognition
+- **ID**: arxiv_2609.10394v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10394v1](http://arxiv.org/abs/2609.10394v1)
+

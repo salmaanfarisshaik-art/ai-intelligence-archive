@@ -12,6 +12,7 @@
 | [A Methodology for Auditable Trustworthiness Levels in AI Lifecycle Governance](http://arxiv.org/abs/2607.16130v1) | ArXiv |  | 1 |
 | [Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education](http://arxiv.org/abs/2605.15850v3) | ArXiv |  | 1 |
 | [Contemporary AI lacks the imagination to diverge or negate in science](http://arxiv.org/abs/2606.08251v3) | ArXiv |  | 1 |
+| [Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support](http://arxiv.org/abs/2609.10421v1) | ArXiv |  | 1 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |
 | [Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents](http://arxiv.org/abs/2605.16281v3) | ArXiv |  | 1 |

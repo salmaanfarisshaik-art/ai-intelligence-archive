@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10410v1",
+  "schema_version": "1.0",
+  "name": "Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10410v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10410v1",
+    "updated": "2026-09-09T16:30:15Z",
+    "published": "2026-09-09T16:30:15Z",
+    "title": "Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization",
+    "summary": "The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In this paper, we systematically compare two competing paradigms for Vision-Language Model (VLM) guidance: an instruction-driven approach where models reason from policy precepts, and an example-driven approach where they generalize from prior precedents. We ground this investigation in ModerationBench, a new benchmark of 4,000 manually annotated, in-the-wild posts from the Bluesky platform. Our experiments reveal that foundation models can substantially outperform Bluesky's deployed moderation system, nearly tripling its $F_1$ score (0.60 vs. 0.22) on Random Posts in the benchmark, with both instruction- and example-driven paradigms achieving comparable peak effectiveness. Our findings thus chart a path toward reliable and adaptable policy operationalization at scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:30:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10410v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

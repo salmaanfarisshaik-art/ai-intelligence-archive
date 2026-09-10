@@ -475,3 +475,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09158v1](http://arxiv.org/abs/2609.09158v1)
 
+## Data-Driven Risk Fields for Safer End-to-End Autonomous Driving
+- **ID**: arxiv_2609.10377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10377v1](http://arxiv.org/abs/2609.10377v1)
+
+## DUET-DINO: Simultaneous Cross-View World Modeling for Latent Planning in Robot Manipulation
+- **ID**: arxiv_2609.10506v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10506v1](http://arxiv.org/abs/2609.10506v1)
+
+## Show-Harness: Just a VLM Agent Can Play Robots
+- **ID**: arxiv_2609.10522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10522v1](http://arxiv.org/abs/2609.10522v1)
+

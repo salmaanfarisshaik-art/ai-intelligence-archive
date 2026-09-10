@@ -225,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12273v1](http://arxiv.org/abs/2608.12273v1)
 
+## Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability
+- **ID**: arxiv_2608.15475v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15475v3](http://arxiv.org/abs/2608.15475v3)
+
 ## Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis
 - **ID**: arxiv_2608.16775v1
 - **Source**: ArXiv

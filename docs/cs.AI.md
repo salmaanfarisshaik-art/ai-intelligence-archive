@@ -163,6 +163,7 @@
 | [Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions](http://arxiv.org/abs/2606.20459v1) | ArXiv |  | 1 |
 | [COntExt: Towards Context-Aware Ontology Extension from Operational Metrics](http://arxiv.org/abs/2607.29553v1) | ArXiv |  | 1 |
 | [ContractScrub: A benchmark for final review of legal contracts](http://arxiv.org/abs/2608.20204v1) | ArXiv |  | 1 |
+| [ConvMem: Convolutional Memory for Long-Context Reasoning](http://arxiv.org/abs/2609.10441v1) | ArXiv |  | 1 |
 | [CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs](http://arxiv.org/abs/2608.05107v1) | ArXiv |  | 1 |
 | [CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases](http://arxiv.org/abs/2608.27391v1) | ArXiv |  | 1 |
 | [Correcting a learned physical invariant improves world-model rollouts](http://arxiv.org/abs/2608.23526v1) | ArXiv |  | 1 |
@@ -227,10 +228,12 @@
 | [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v3) | ArXiv |  | 1 |
 | [FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](http://arxiv.org/abs/2606.20518v1) | ArXiv |  | 1 |
 | [Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
+| [Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs](http://arxiv.org/abs/2609.10413v1) | ArXiv |  | 1 |
 | [From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research](http://arxiv.org/abs/2609.04166v1) | ArXiv |  | 1 |
 | [From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production](http://arxiv.org/abs/2502.19507v2) | ArXiv |  | 1 |
 | [From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent](http://arxiv.org/abs/2505.02024v4) | ArXiv |  | 1 |
 | [From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry](http://arxiv.org/abs/2608.21317v1) | ArXiv |  | 1 |
+| [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [Fuzzy Segmentations of a String](http://arxiv.org/abs/2201.13427v2) | ArXiv |  | 1 |
 | [Gen AI in Proof-based Math Courses: A Pilot Study](http://arxiv.org/abs/2509.13570v2) | ArXiv |  | 1 |
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v1) | ArXiv |  | 1 |
@@ -267,6 +270,7 @@
 | [Interpretable Adaptive Sampling for LLM Test-Time Scaling](http://arxiv.org/abs/2608.03961v1) | ArXiv |  | 1 |
 | [Interval POMDP Shielding for Imperfect-Perception Agents](http://arxiv.org/abs/2604.20728v2) | ArXiv |  | 1 |
 | [Item Response Theory for AI Safety](http://arxiv.org/abs/2608.05086v1) | ArXiv |  | 1 |
+| [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](http://arxiv.org/abs/2609.10451v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |

@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14249v11](http://arxiv.org/abs/2501.14249v11)
 
+## Safe Learning Under Irreversible Dynamics via Asking for Help
+- **ID**: arxiv_2502.14043v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.14043v3](http://arxiv.org/abs/2502.14043v3)
+
 ## Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling
 - **ID**: arxiv_2502.16445v4
 - **Source**: ArXiv
@@ -214,6 +219,11 @@
 - **ID**: arxiv_2604.08649v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08649v2](http://arxiv.org/abs/2604.08649v2)
+
+## Bringing Value Models Back: Generative Critics for Value Modeling in LLM Reinforcement Learning
+- **ID**: arxiv_2604.10701v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.10701v2](http://arxiv.org/abs/2604.10701v2)
 
 ## Attention-Weighted Value Projection for KV-Cache Compression
 - **ID**: arxiv_2604.11501v2
@@ -1250,6 +1260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02849v2](http://arxiv.org/abs/2609.02849v2)
 
+## VestigeKV: The NoPE-MLA KV Cache Carries Its Own Sparse-Attention Signal in a Vestigial Branch
+- **ID**: arxiv_2609.03949v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.03949v2](http://arxiv.org/abs/2609.03949v2)
+
 ## A Low-Cost, Open Platform for End-to-End Autonomous Driving on a Miniature Ackermann Vehicle
 - **ID**: arxiv_2609.04147v1
 - **Source**: ArXiv
@@ -1299,4 +1314,14 @@
 - **ID**: arxiv_2609.09157v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09157v1](http://arxiv.org/abs/2609.09157v1)
+
+## Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs
+- **ID**: arxiv_2609.10439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10439v1](http://arxiv.org/abs/2609.10439v1)
+
+## Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization
+- **ID**: arxiv_2609.10464v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10464v1](http://arxiv.org/abs/2609.10464v1)
 

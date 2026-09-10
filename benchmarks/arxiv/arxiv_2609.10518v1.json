@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.10518v1",
+  "schema_version": "1.0",
+  "name": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.10518v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.10518v1",
+    "updated": "2026-09-09T17:50:39Z",
+    "published": "2026-09-09T17:50:39Z",
+    "title": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
+    "summary": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream tasks are adapted independently. We study whether measured learning relations can organize both stages without modifying the backbone. During pretraining, a lightweight Brain-DiT proxy estimates difficulty and directed facilitation across ten fMRI domains, yielding a priority-guided cumulative domain curriculum combined with high-to-low-noise timestep scheduling and joint consolidation. During adaptation, controlled first- and higher-order transfer across fifteen tasks constructs a directed taskonomy, from which budgeted integer programming (BIP) selects directly supervised source tasks and target-specific routes. The joint priority-domain and high-to-low-timestep curriculum reduces v-NMSE, PSD-NMSE, and FC-MSE by 6.5%, 16.3%, and 10.5%, respectively, relative to uniform sampling over both dimensions, and shows strong downstream performance across six in- and out-of-domain tasks. The taskonomy reveals asymmetric, target-dependent transfer, while exploratory sealed-test evaluation shows larger descriptive gains for BIP policies when higher-order route spaces are available than for matched random controls. Together, these findings support organizing fMRI pretraining and adaptation by measured learning relations rather than treating domains and tasks as independent flat sets.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:50:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.10518v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

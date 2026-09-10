@@ -110,3 +110,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.17997v1](http://arxiv.org/abs/2608.17997v1)
 
+## Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support
+- **ID**: arxiv_2609.10421v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10421v1](http://arxiv.org/abs/2609.10421v1)
+

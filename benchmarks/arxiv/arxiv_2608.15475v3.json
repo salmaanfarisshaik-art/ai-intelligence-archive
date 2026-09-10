@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.15475v3",
+  "schema_version": "1.0",
+  "name": "Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.15475v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.15475v3",
+    "updated": "2026-09-09T16:14:24Z",
+    "published": "2026-08-16T01:44:09Z",
+    "title": "Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability",
+    "summary": "Quantized Vision-Language-Action (VLA) models expose a weight-fault surface: Rowhammer-style faults can corrupt deployed INT8 bits. We present the first bit-flip attack on a VLA: a few gradient-selected flips reduce closed-loop success to $0\\%$, while hundreds of random flips are harmless. Across four model variants spanning three action-head families, damaging bits concentrate in a few action-generating layers, but the empirical budget depends sharply on the head: direct regression and token policies fall in $1$--$5$ flips, whereas the evaluated flow-matching policies require ${\\sim}100$--$300$. Our fixed-direction manifold-escape loss cuts \\pizero{}'s budget from ${\\sim}1000$ to ${\\sim}100$ flips, and a matched five-direction sweep shows that the attack is not specific to an all-positive direction. On a direct head, protecting $3.1\\%$ of weights preserves $60\\%$ success at $K{=}100$, and protecting $5.3\\%$ moves the open-loop break threshold from 3 to 100 flips. Finally, task-calibrated emulated $K{=}100$ flips yield $0/20$ real-robot successes, versus $14/20$ clean and $16/20$ global-random. Weight integrity is therefore a security boundary for embodied foundation models. Code is included as ancillary material.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T16:14:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.15475v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

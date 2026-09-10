@@ -285,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11650v2](http://arxiv.org/abs/2602.11650v2)
 
+## False positive bias in AI-powered speech-based cognitive screening for multilingual English speakers in the UK
+- **ID**: arxiv_2602.13047v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13047v2](http://arxiv.org/abs/2602.13047v2)
+
 ## SCOPE: Selective Conformal Optimized Pairwise LLM Judging
 - **ID**: arxiv_2602.13110v4
 - **Source**: ArXiv
@@ -450,6 +455,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.26355v6](http://arxiv.org/abs/2604.26355v6)
 
+## Multi-Level Narrative Evaluation Outperforms Lexical Features for Mental Health
+- **ID**: arxiv_2604.27846v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.27846v2](http://arxiv.org/abs/2604.27846v2)
+
 ## When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models
 - **ID**: arxiv_2605.00817v4
 - **Source**: ArXiv
@@ -580,10 +590,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02955v2](http://arxiv.org/abs/2606.02955v2)
 
+## See Better, Foresee Better, Act Wiser: Physically Grounded Proactive Modeling and Decision Making
+- **ID**: arxiv_2606.03371v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03371v4](http://arxiv.org/abs/2606.03371v4)
+
 ## Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres
 - **ID**: arxiv_2606.04483v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.04483v2](http://arxiv.org/abs/2606.04483v2)
+
+## Light or Full Verb? A Minimal-Pair Dataset for Probing Phraseological Competence in Language Models
+- **ID**: arxiv_2606.05087v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.05087v2](http://arxiv.org/abs/2606.05087v2)
 
 ## How reliable are LLMs when it comes to playing dice?
 - **ID**: arxiv_2606.07515v2
@@ -879,6 +899,11 @@
 - **ID**: arxiv_2606.24820v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.24820v2](http://arxiv.org/abs/2606.24820v2)
+
+## AI translation of literary texts is "fine", but readers still prefer human translations
+- **ID**: arxiv_2606.26040v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26040v2](http://arxiv.org/abs/2606.26040v2)
 
 ## Forecasting With LLMs: Improved Generalization Through Feature Steering
 - **ID**: arxiv_2606.27199v2
@@ -1865,6 +1890,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18062v2](http://arxiv.org/abs/2608.18062v2)
 
+## TokEval: A Tokenizer Evaluation Suite
+- **ID**: arxiv_2608.18062v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18062v3](http://arxiv.org/abs/2608.18062v3)
+
 ## Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation
 - **ID**: arxiv_2608.18072v1
 - **Source**: ArXiv
@@ -1999,6 +2029,11 @@
 - **ID**: arxiv_2608.23564v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23564v1](http://arxiv.org/abs/2608.23564v1)
+
+## 'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection
+- **ID**: arxiv_2608.24191v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24191v2](http://arxiv.org/abs/2608.24191v2)
 
 ## ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints
 - **ID**: arxiv_2608.24760v1
@@ -2504,4 +2539,34 @@
 - **ID**: arxiv_2609.09156v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09156v1](http://arxiv.org/abs/2609.09156v1)
+
+## Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation
+- **ID**: arxiv_2609.10395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10395v1](http://arxiv.org/abs/2609.10395v1)
+
+## Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization
+- **ID**: arxiv_2609.10410v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10410v1](http://arxiv.org/abs/2609.10410v1)
+
+## Do speech foundation models really learn words?
+- **ID**: arxiv_2609.10434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10434v1](http://arxiv.org/abs/2609.10434v1)
+
+## Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning
+- **ID**: arxiv_2609.10445v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10445v1](http://arxiv.org/abs/2609.10445v1)
+
+## IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier
+- **ID**: arxiv_2609.10494v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10494v1](http://arxiv.org/abs/2609.10494v1)
+
+## IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications
+- **ID**: arxiv_2609.10539v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10539v1](http://arxiv.org/abs/2609.10539v1)
 

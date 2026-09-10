@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.04925v3",
+  "schema_version": "1.0",
+  "name": "SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.04925v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.04925v3",
+    "updated": "2026-09-09T17:59:40Z",
+    "published": "2026-04-06T17:59:05Z",
+    "title": "SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
+    "summary": "Generating procedural synthetic data for multi-view stereo (MVS) usually requires writing complex rules to match the realism of curated datasets. We demonstrate that we can generate effective training data using SimpleProc: a new, fully procedural generator driven by a very small set of rules based on Non-Uniform Rational Basis Splines (NURBS), as well as simple displacement and texture patterns. At a modest scale of 8,000 images, our approach achieves superior results compared to manually curated images at the same scale sourced from games and real-world objects. When scaled to 352,000 images, our approach achieves similar, and in some benchmarks, even better results than the current state-of-the-art trained on over 692,000 manually curated images. The source code and the data are available at https://github.com/princeton-vl/SimpleProc.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-10T05:36:30Z",
+  "last_updated": "2026-09-09T17:59:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.04925v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
