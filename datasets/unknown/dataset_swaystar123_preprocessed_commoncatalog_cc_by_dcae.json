@@ -9,7 +9,7 @@
   "private": false,
   "sha": "e8e83068c92be8e19a51dc1a9dea09c4d6fda07a",
   "description": "The images are resized and then encoded with the DC-AE f32 autoencoder. The resizing is done with a bucketmanager with base resolution 512x512, minimum side length 256, maximum side length 1024, all sides are divisible by 32 ofcourse as they needed to be encoded by the DCAEf32 encoder.\nThe captions are generated with moondream2, encoded with siglip and bert. (Bert embeddings variance is very high, so use a norm layer). The text embeddings are padded to 64 tokens, but i have provided the… See the full description on the dataset page: https://huggingface.co/datasets/SwayStar123/preprocessed_commoncatalog-cc-by_DCAE.",
-  "downloads": 41905,
+  "downloads": 58302,
   "tags": [
     "task_categories:text-to-image",
     "language:en",

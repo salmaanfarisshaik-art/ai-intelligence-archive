@@ -843,6 +843,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ieasybooks_org_prophet_mosque_library",
       "match_type": "exact",
       "score": 1.0
@@ -3282,6 +3287,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bigscience_xp3all",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_xp3x",
       "match_type": "exact",
       "score": 1.5
@@ -3568,6 +3578,11 @@
   "02155": [
     {
       "entity_id": "dataset_databricks_databricks_dolly_15k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
       "match_type": "exact",
       "score": 1.5
     },
@@ -8723,6 +8738,16 @@
       "entity_id": "model_openbmb_minicpm5_1b_mlx",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b_gguf",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "07911": [
@@ -8848,6 +8873,13 @@
     },
     {
       "entity_id": "model_unsloth_gemma_3_270m_it_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "07987": [
+    {
+      "entity_id": "dataset_m_a_p_coig_cqia",
       "match_type": "exact",
       "score": 1.5
     }
@@ -9545,6 +9577,16 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_1b_mlx",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b_gguf",
       "match_type": "exact",
       "score": 1.5
     }
@@ -10249,6 +10291,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_superwhisper_s1_mini_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_tokyotech_llm_qwen3_swallow_32b_rl_v0_2_awq_int4",
       "match_type": "exact",
       "score": 1.5
@@ -10674,6 +10721,13 @@
     },
     {
       "entity_id": "model_trl_internal_testing_tiny_random_llamaforcausallm",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "09705": [
+    {
+      "entity_id": "dataset_m_a_p_coig_cqia",
       "match_type": "exact",
       "score": 1.5
     }

@@ -1010,7 +1010,7 @@
 - **ID**: hf_ds_6a7609d6663f80dd30d388fc
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw](https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw)
-- **Tags**: egocentric, first-person, format:parquet, household, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, library:webdataset, license:apache-2.0, modality:image, modality:tabular, modality:text, modality:video, region:us, size_categories:100K<n<1M, task_categories:image-to-video, task_categories:video-classification, video, webdataset
+- **Tags**: egocentric, first-person, format:optimized-parquet, format:parquet, household, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, library:webdataset, license:apache-2.0, modality:image, modality:tabular, modality:text, modality:video, region:us, size_categories:100K<n<1M, task_categories:image-to-video, task_categories:video-classification, video, webdataset
 
 ## gfdg34fsd/newe
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080

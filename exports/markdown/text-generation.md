@@ -4141,6 +4141,12 @@
 - **URL**: [https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF)
 - **Tags**: conversational, endpoints_compatible, gguf, license:mit, region:us, text-generation, transformers
 
+## ornith-ai/Ornith-1.5-9B-GGUF
+- **ID**: hf_ornith-ai_Ornith-1.5-9B-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF](https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF)
+- **Tags**: conversational, endpoints_compatible, gguf, license:mit, region:us, text-generation, transformers
+
 ## parasail-ai/GritLM-7B-vllm
 - **ID**: hf_parasail-ai_GritLM-7B-vllm
 - **Source**: Hugging Face
@@ -4590,6 +4596,7 @@
 - **ID**: hf_trl-internal-testing_tiny-Qwen3ForCausalLM
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/trl-internal-testing/tiny-Qwen3ForCausalLM](https://huggingface.co/trl-internal-testing/tiny-Qwen3ForCausalLM)
+- **Tags**: conversational, endpoints_compatible, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers, trl
 
 ## trl-internal-testing/tiny-Qwen3ForCausalLM-Instruct-2507
 - **ID**: hf_trl-internal-testing_tiny-Qwen3ForCausalLM-Instruct-2507

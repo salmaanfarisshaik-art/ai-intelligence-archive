@@ -2949,6 +2949,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_redhatai_qwen3_32b_nvfp4",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_unsloth_qwen2_5_32b_instruct_bnb_4bit",
       "match_type": "exact",
       "score": 5.0
@@ -3503,6 +3508,13 @@
       "entity_id": "alpaca_-6583515796277950330",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "33b": [
+    {
+      "entity_id": "model_llm_jp_llm_jp_4_33b_thinking_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "33k": [
@@ -4292,6 +4304,11 @@
   "358": [
     {
       "entity_id": "dataset_mlfoundations_dcvlm_balanced_200b",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
       "match_type": "exact",
       "score": 1.0
     }

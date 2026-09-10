@@ -13,6 +13,11 @@
   ],
   "s1": [
     {
+      "entity_id": "model_superwhisper_s1_mini_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "alpaca_-1039892586984006910",
       "match_type": "exact",
       "score": 4.0
@@ -5785,6 +5790,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_mlx_community_qwen3_8_27b_mtp_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_mlx_community_qwen3_8b_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -6270,6 +6280,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nvidia_qwen2_5_vl_7b_instruct_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nvidia_qwen3_14b_fp8",
       "match_type": "exact",
       "score": 1.5
@@ -6451,6 +6466,11 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_1b_mlx",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7691,6 +7711,11 @@
     },
     {
       "entity_id": "model_redhatai_qwen3_32b_fp8_dynamic",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_redhatai_qwen3_32b_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -28250,6 +28275,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_sysuyy_imgedit",
       "match_type": "exact",
       "score": 1.0
@@ -41607,6 +41637,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_accc1380_private_model",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_ai_mo_olympiads",
       "match_type": "exact",
       "score": 1.0
@@ -54363,11 +54398,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_accc1380_private_model",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_acerobotics_ace_data_0",
       "match_type": "exact",
       "score": 1.0
@@ -55933,6 +55963,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfaceh4_ultrachat_200k",
       "match_type": "exact",
       "score": 1.0
@@ -56644,6 +56679,11 @@
     },
     {
       "entity_id": "dataset_luobots_bluemo",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_m_a_p_coig_cqia",
       "match_type": "exact",
       "score": 1.0
     },
@@ -58184,6 +58224,11 @@
     },
     {
       "entity_id": "dataset_swe_bench_swe_smith",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
       "match_type": "exact",
       "score": 1.0
     },
@@ -106984,6 +107029,16 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_openbmb_minicpm5_2b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_openllm_france_lucie_7b_instruct_v1_1",
       "match_type": "exact",
       "score": 3.0
@@ -107190,6 +107245,11 @@
     },
     {
       "entity_id": "dataset_hiepp2_tvp4",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
       "match_type": "exact",
       "score": 1.0
     },
@@ -124165,6 +124225,11 @@
     },
     {
       "entity_id": "dataset_bigscience_xp3",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bigscience_xp3all",
       "match_type": "exact",
       "score": 1.0
     },
@@ -147048,6 +147113,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_insta360_research_omnirooms",
       "match_type": "exact",
       "score": 1.0
@@ -151503,6 +151573,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bigscience_xp3all",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_bitrobot_hiw_500_lerobot",
       "match_type": "exact",
       "score": 1.5
@@ -152774,6 +152849,11 @@
     },
     {
       "entity_id": "dataset_huggingfaceh4_math_500",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
       "match_type": "exact",
       "score": 1.5
     },
@@ -154998,6 +155078,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_m_a_p_coig_cqia",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_m_a_p_finefineweb",
       "match_type": "exact",
       "score": 1.5
@@ -155903,6 +155988,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_papylove_alpaca_crypto_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_peakstars_math_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -156324,6 +156414,11 @@
     },
     {
       "entity_id": "dataset_saffatgazi_fish_vista",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_safwatkhokha_nawaqes_backup_v2",
       "match_type": "exact",
       "score": 1.5
     },
@@ -156758,6 +156853,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_sylvest_libero_plus_lerobot",
       "match_type": "exact",
       "score": 1.5
@@ -156994,11 +157094,6 @@
     },
     {
       "entity_id": "dataset_trl_lib_documentation_images",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_trl_lib_trackio_dataset",
       "match_type": "exact",
       "score": 1.5
     },
@@ -159749,6 +159844,11 @@
     },
     {
       "entity_id": "alpaca_6263556482267008719",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
       "match_type": "exact",
       "score": 1.0
     },
@@ -330244,6 +330344,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bigscience_xp3all",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.5
@@ -366723,6 +366828,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_xtr43r_dogspeak_dataset",
       "match_type": "exact",
       "score": 1.0
@@ -380407,6 +380517,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_mlx_community_qwen3_8_27b_mtp_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_myric_laguna_s_2_1_apex_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -381031,6 +381146,11 @@
     },
     {
       "entity_id": "model_nineninesix_gepard_1_0",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_superwhisper_s1_mini_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -393672,6 +393792,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bigscience_xp3all",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_xp3x",
       "match_type": "exact",
       "score": 1.5
@@ -402236,6 +402361,11 @@
     },
     {
       "entity_id": "dataset_swe_gym_swe_gym",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
       "match_type": "exact",
       "score": 1.0
     },
@@ -483356,6 +483486,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_iimmortall_s2r_hdr",
       "match_type": "exact",
       "score": 1.0
@@ -489560,6 +489695,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceh4_no_robots",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfaceh4_ultrachat_200k",
       "match_type": "exact",
       "score": 1.0
@@ -489886,6 +490026,13 @@
       "entity_id": "rss_https://openai.com/index/weak-to-strong-generalization",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "superwhisper": [
+    {
+      "entity_id": "model_superwhisper_s1_mini_gguf",
+      "match_type": "exact",
+      "score": 5.0
     }
   ],
   "supper": [
@@ -501738,6 +501885,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_bigscience_xp3all",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.5
@@ -502434,6 +502586,11 @@
     }
   ],
   "swe": [
+    {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 8.0
+    },
     {
       "entity_id": "hf_ds_680f523123b95edd6987db29",
       "match_type": "exact",

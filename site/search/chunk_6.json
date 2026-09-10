@@ -1244,6 +1244,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_tsy_0408_plant_detection_classification",
       "match_type": "exact",
       "score": 1.0
@@ -2093,6 +2098,13 @@
       "score": 1.0
     }
   ],
+  "689": [
+    {
+      "entity_id": "dataset_swe_gym_swe_gym_raw",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "68m": [
     {
       "entity_id": "hf_JackFram_llama-68m",
@@ -2226,6 +2238,11 @@
     },
     {
       "entity_id": "model_farbodtavakkoli_otel_llm_0_6b_it",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_ggml_org_qwen3_0_6b_gguf",
       "match_type": "exact",
       "score": 5.0
     },

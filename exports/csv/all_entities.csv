@@ -26188,7 +26188,7 @@ hf_ds_6a615c95fb10b1093e0ea9ed,HuggingFaceCode/stack-v3-train,dataset,HuggingFac
 hf_ds_6a67b67edd8543ddc375d370,gfdg34fsd/sh,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/gfdg34fsd/sh
 hf_ds_6a67d0a568d9afa362507f38,gfdg34fsd/ngrik,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/gfdg34fsd/ngrik
 hf_ds_6a7460ebf3031d8573c2fe30,challenge-2026/challenge_data,dataset,HuggingFace Datasets,arxiv:2609.03591|bimanual-robot|household|language:en|language:zh|lerobot|license:cc-by-sa-4.0|manipulation|region:us|robotics,https://huggingface.co/datasets/challenge-2026/challenge_data
-hf_ds_6a7609d6663f80dd30d388fc,RekaAI/RekaDaily-10k-raw,dataset,HuggingFace Datasets,egocentric|first-person|format:parquet|household|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|library:webdataset|license:apache-2.0|modality:image|modality:tabular|modality:text|modality:video|region:us|size_categories:100K<n<1M|task_categories:image-to-video|task_categories:video-classification|video|webdataset,https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw
+hf_ds_6a7609d6663f80dd30d388fc,RekaAI/RekaDaily-10k-raw,dataset,HuggingFace Datasets,egocentric|first-person|format:optimized-parquet|format:parquet|household|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|library:webdataset|license:apache-2.0|modality:image|modality:tabular|modality:text|modality:video|region:us|size_categories:100K<n<1M|task_categories:image-to-video|task_categories:video-classification|video|webdataset,https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw
 hf_ds_6a8779d11c6e0f8d87cc3080,gfdg34fsd/newe,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/gfdg34fsd/newe
 hf_ds_ACCC1380_private-model,ACCC1380/private-model,dataset,Hugging Face,,https://huggingface.co/datasets/ACCC1380/private-model
 hf_ds_ADSKAILab_Zero-To-CAD-1m,ADSKAILab/Zero-To-CAD-1m,dataset,Hugging Face,,https://huggingface.co/datasets/ADSKAILab/Zero-To-CAD-1m
@@ -27497,6 +27497,7 @@ hf_optimum-intel-internal-testing_tiny-random-ArceeForCausalLM,optimum-intel-int
 hf_optimum-intel-internal-testing_tiny-random-Phi3ForCausalLM,optimum-intel-internal-testing/tiny-random-Phi3ForCausalLM,text-generation,Hugging Face,,https://huggingface.co/optimum-intel-internal-testing/tiny-random-Phi3ForCausalLM
 hf_optimum-intel-internal-testing_tiny-random-gpt-oss-mxfp4,optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4,text-generation,Hugging Face,,https://huggingface.co/optimum-intel-internal-testing/tiny-random-gpt-oss-mxfp4
 hf_ornith-ai_Ornith-1.0-9B-GGUF,ornith-ai/Ornith-1.0-9B-GGUF,text-generation,Hugging Face,conversational|endpoints_compatible|gguf|license:mit|region:us|text-generation|transformers,https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF
+hf_ornith-ai_Ornith-1.5-9B-GGUF,ornith-ai/Ornith-1.5-9B-GGUF,text-generation,Hugging Face,conversational|endpoints_compatible|gguf|license:mit|region:us|text-generation|transformers,https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF
 hf_parasail-ai_GritLM-7B-vllm,parasail-ai/GritLM-7B-vllm,text-generation,Hugging Face,,https://huggingface.co/parasail-ai/GritLM-7B-vllm
 hf_pearl-ai_Llama-3.1-8B-Instruct-pearl,pearl-ai/Llama-3.1-8B-Instruct-pearl,text-generation,Hugging Face,,https://huggingface.co/pearl-ai/Llama-3.1-8B-Instruct-pearl
 hf_peft-internal-testing_opt-125m,peft-internal-testing/opt-125m,text-generation,Hugging Face,,https://huggingface.co/peft-internal-testing/opt-125m
@@ -27585,7 +27586,7 @@ hf_trl-internal-testing_tiny-Phi3ForCausalLM,trl-internal-testing/tiny-Phi3ForCa
 hf_trl-internal-testing_tiny-Phi3ForCausalLM-3,trl-internal-testing/tiny-Phi3ForCausalLM-3,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-Phi3ForCausalLM-3
 hf_trl-internal-testing_tiny-Phi3ForCausalLM-3.5,trl-internal-testing/tiny-Phi3ForCausalLM-3.5,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-Phi3ForCausalLM-3.5
 hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5,trl-internal-testing/tiny-Qwen2ForCausalLM-2.5,text-generation,Hugging Face,conversational|endpoints_compatible|qwen2|region:us|safetensors|text-generation|text-generation-inference|transformers|trl,https://huggingface.co/trl-internal-testing/tiny-Qwen2ForCausalLM-2.5
-hf_trl-internal-testing_tiny-Qwen3ForCausalLM,trl-internal-testing/tiny-Qwen3ForCausalLM,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-Qwen3ForCausalLM
+hf_trl-internal-testing_tiny-Qwen3ForCausalLM,trl-internal-testing/tiny-Qwen3ForCausalLM,text-generation,Hugging Face,conversational|endpoints_compatible|qwen3|region:us|safetensors|text-generation|text-generation-inference|transformers|trl,https://huggingface.co/trl-internal-testing/tiny-Qwen3ForCausalLM
 hf_trl-internal-testing_tiny-Qwen3ForCausalLM-Instruct-2507,trl-internal-testing/tiny-Qwen3ForCausalLM-Instruct-2507,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-Qwen3ForCausalLM-Instruct-2507
 hf_trl-internal-testing_tiny-Qwen3MoeForCausalLM,trl-internal-testing/tiny-Qwen3MoeForCausalLM,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-Qwen3MoeForCausalLM
 hf_trl-internal-testing_tiny-random-LlamaForCausalLM,trl-internal-testing/tiny-random-LlamaForCausalLM,text-generation,Hugging Face,,https://huggingface.co/trl-internal-testing/tiny-random-LlamaForCausalLM
@@ -28976,6 +28977,7 @@ model_redhatai_sarvam_30b_fp8_dynamic,RedHatAI/sarvam-30b-FP8-dynamic,models,,,
 model_rednote_hilab_dots_mocr,rednote-hilab/dots.mocr,models,,,
 model_rednote_hilab_dots_ocr,rednote-hilab/dots.ocr,models,,,
 model_refalmachine_ruadapt_qwen2_5_7b_ext_u48_instruct,RefalMachine/ruadapt_qwen2.5_7B_ext_u48_instruct,models,,,
+model_reliquaryforge_qwen3_4b_base_dapo_v4,ReliquaryForge/qwen3-4b-base-dapo-v4,models,,,
 model_rinna_japanese_gpt_neox_small,rinna/japanese-gpt-neox-small,models,,,
 model_roneneldan_tinystories_1m,roneneldan/TinyStories-1M,models,,,
 model_s4nfs_neeto_1_0_8b,S4nfs/Neeto-1.0-8b,models,,,

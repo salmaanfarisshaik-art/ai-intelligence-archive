@@ -5104,6 +5104,10 @@
 - **ID**: model_refalmachine_ruadapt_qwen2_5_7b_ext_u48_instruct
 - **Source**: 
 
+## ReliquaryForge/qwen3-4b-base-dapo-v4
+- **ID**: model_reliquaryforge_qwen3_4b_base_dapo_v4
+- **Source**: 
+
 ## rinna/japanese-gpt-neox-small
 - **ID**: model_rinna_japanese_gpt_neox_small
 - **Source**: 
