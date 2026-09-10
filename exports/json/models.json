@@ -3460,6 +3460,16 @@
     "local_path": "models/ex0bit/model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4.json"
   },
   {
+    "id": "model_explosion_testing_falcon_test",
+    "title": "explosion-testing/falcon-test",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/explosion-testing/model_explosion_testing_falcon_test.json"
+  },
+  {
     "id": "model_explosion_testing_llama2_fewer_kv_heads",
     "title": "explosion-testing/llama2-fewer-kv-heads",
     "category": "models",
@@ -3788,6 +3798,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/ggml-org/model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf.json"
+  },
+  {
+    "id": "model_ggml_org_qwen3_0_6b_gguf",
+    "title": "ggml-org/Qwen3-0.6B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ggml-org/model_ggml_org_qwen3_0_6b_gguf.json"
   },
   {
     "id": "model_ggml_org_stories15m_moe",
@@ -6010,6 +6030,16 @@
     "local_path": "models/llm-jp/model_llm_jp_llm_jp_4_32b_a3b_thinking.json"
   },
   {
+    "id": "model_llm_jp_llm_jp_4_33b_thinking_gguf",
+    "title": "llm-jp/llm-jp-4-33b-thinking-gguf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/llm-jp/model_llm_jp_llm_jp_4_33b_thinking_gguf.json"
+  },
+  {
     "id": "model_llm_jp_llm_jp_4_8b_thinking",
     "title": "llm-jp/llm-jp-4-8b-thinking",
     "category": "models",
@@ -8220,6 +8250,16 @@
     "local_path": "models/mlx-community/model_mlx_community_qwen3_5_9b_optiq_4bit.json"
   },
   {
+    "id": "model_mlx_community_qwen3_8_27b_mtp_4bit",
+    "title": "mlx-community/Qwen3.8-27B-MTP-4bit",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/mlx-community/model_mlx_community_qwen3_8_27b_mtp_4bit.json"
+  },
+  {
     "id": "model_mlx_community_qwen3_8b_4bit",
     "title": "mlx-community/Qwen3-8B-4bit",
     "category": "models",
@@ -9300,6 +9340,16 @@
     "local_path": "models/nvidia/model_nvidia_openreasoning_nemotron_32b.json"
   },
   {
+    "id": "model_nvidia_qwen2_5_vl_7b_instruct_nvfp4",
+    "title": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/nvidia/model_nvidia_qwen2_5_vl_7b_instruct_nvfp4.json"
+  },
+  {
     "id": "model_nvidia_qwen3_14b_fp8",
     "title": "nvidia/Qwen3-14B-FP8",
     "category": "models",
@@ -9688,6 +9738,26 @@
     "links": {},
     "source_url": "",
     "local_path": "models/openbmb/model_openbmb_minicpm5_1b_mlx.json"
+  },
+  {
+    "id": "model_openbmb_minicpm5_2b",
+    "title": "openbmb/MiniCPM5-2B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/openbmb/model_openbmb_minicpm5_2b.json"
+  },
+  {
+    "id": "model_openbmb_minicpm5_2b_gguf",
+    "title": "openbmb/MiniCPM5-2B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/openbmb/model_openbmb_minicpm5_2b_gguf.json"
   },
   {
     "id": "model_openbmb_minicpm_2b_sft_bf16",
@@ -12650,6 +12720,16 @@
     "local_path": "models/redhatai/model_redhatai_qwen3_32b_fp8_dynamic.json"
   },
   {
+    "id": "model_redhatai_qwen3_32b_nvfp4",
+    "title": "RedHatAI/Qwen3-32B-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/redhatai/model_redhatai_qwen3_32b_nvfp4.json"
+  },
+  {
     "id": "model_redhatai_qwen3_32b_speculator_eagle3",
     "title": "RedHatAI/Qwen3-32B-speculator.eagle3",
     "category": "models",
@@ -13358,6 +13438,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/stepfun-ai/model_stepfun_ai_step_3_7_flash_nvfp4.json"
+  },
+  {
+    "id": "model_superwhisper_s1_mini_gguf",
+    "title": "superwhisper/s1-mini-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/superwhisper/model_superwhisper_s1_mini_gguf.json"
   },
   {
     "id": "model_supralabs_supra_50m_reasoning",
@@ -15608,6 +15698,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/vcruz305/model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf.json"
+  },
+  {
+    "id": "model_vcruz305_qwen3_8_27b_aeon_ultimate_uncensored_gguf",
+    "title": "vcruz305/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/vcruz305/model_vcruz305_qwen3_8_27b_aeon_ultimate_uncensored_gguf.json"
   },
   {
     "id": "model_vectionlabs_vl_1_coder",

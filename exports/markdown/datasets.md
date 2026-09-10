@@ -789,6 +789,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bigscience_xp3all
+- **Source**: 
+
+## 
 - **ID**: dataset_biscue5_egoscaler_v2
 - **Source**: 
 
@@ -850,6 +854,10 @@
 
 ## 
 - **ID**: dataset_brownu_deform360
+- **Source**: 
+
+## 
+- **ID**: dataset_buian2002_buian2002
 - **Source**: 
 
 ## 
@@ -2157,6 +2165,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hoangduyanh2009_hoangduyanh2009
+- **Source**: 
+
+## 
 - **ID**: dataset_hoanggiabao1998_hoanggiabao1998
 - **Source**: 
 
@@ -2310,6 +2322,10 @@
 
 ## 
 - **ID**: dataset_huggingfaceh4_math_500
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfaceh4_no_robots
 - **Source**: 
 
 ## 
@@ -4209,6 +4225,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lethuyhang2006_lethuyhang2006
+- **Source**: 
+
+## 
 - **ID**: dataset_lethuylinh2007_lethuylinh2007
 - **Source**: 
 
@@ -4498,6 +4518,10 @@
 
 ## 
 - **ID**: dataset_lxl_158_rope_atlas_images
+- **Source**: 
+
+## 
+- **ID**: dataset_m_a_p_coig_cqia
 - **Source**: 
 
 ## 
@@ -5589,6 +5613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_papylove_alpaca_crypto_data
+- **Source**: 
+
+## 
 - **ID**: dataset_patrickvonplaten_librispeech_asr_dummy
 - **Source**: 
 
@@ -6598,6 +6626,10 @@
 
 ## 
 - **ID**: dataset_swe_gym_swe_gym
+- **Source**: 
+
+## 
+- **ID**: dataset_swe_gym_swe_gym_raw
 - **Source**: 
 
 ## 

@@ -1384,6 +1384,10 @@
 - **ID**: model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4
 - **Source**: 
 
+## explosion-testing/falcon-test
+- **ID**: model_explosion_testing_falcon_test
+- **Source**: 
+
 ## explosion-testing/llama2-fewer-kv-heads
 - **ID**: model_explosion_testing_llama2_fewer_kv_heads
 - **Source**: 
@@ -1514,6 +1518,10 @@
 
 ## ggml-org/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
 - **ID**: model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf
+- **Source**: 
+
+## ggml-org/Qwen3-0.6B-GGUF
+- **ID**: model_ggml_org_qwen3_0_6b_gguf
 - **Source**: 
 
 ## ggml-org/stories15M_MOE
@@ -2404,6 +2412,10 @@
 - **ID**: model_llm_jp_llm_jp_4_32b_a3b_thinking
 - **Source**: 
 
+## llm-jp/llm-jp-4-33b-thinking-gguf
+- **ID**: model_llm_jp_llm_jp_4_33b_thinking_gguf
+- **Source**: 
+
 ## llm-jp/llm-jp-4-8b-thinking
 - **ID**: model_llm_jp_llm_jp_4_8b_thinking
 - **Source**: 
@@ -3288,6 +3300,10 @@
 - **ID**: model_mlx_community_qwen3_5_9b_optiq_4bit
 - **Source**: 
 
+## mlx-community/Qwen3.8-27B-MTP-4bit
+- **ID**: model_mlx_community_qwen3_8_27b_mtp_4bit
+- **Source**: 
+
 ## mlx-community/Qwen3-8B-4bit
 - **ID**: model_mlx_community_qwen3_8b_4bit
 - **Source**: 
@@ -3720,6 +3736,10 @@
 - **ID**: model_nvidia_openreasoning_nemotron_32b
 - **Source**: 
 
+## nvidia/Qwen2.5-VL-7B-Instruct-NVFP4
+- **ID**: model_nvidia_qwen2_5_vl_7b_instruct_nvfp4
+- **Source**: 
+
 ## nvidia/Qwen3-14B-FP8
 - **ID**: model_nvidia_qwen3_14b_fp8
 - **Source**: 
@@ -3874,6 +3894,14 @@
 
 ## openbmb/MiniCPM5-1B-MLX
 - **ID**: model_openbmb_minicpm5_1b_mlx
+- **Source**: 
+
+## openbmb/MiniCPM5-2B
+- **ID**: model_openbmb_minicpm5_2b
+- **Source**: 
+
+## openbmb/MiniCPM5-2B-GGUF
+- **ID**: model_openbmb_minicpm5_2b_gguf
 - **Source**: 
 
 ## openbmb/MiniCPM-2B-sft-bf16
@@ -5060,6 +5088,10 @@
 - **ID**: model_redhatai_qwen3_32b_fp8_dynamic
 - **Source**: 
 
+## RedHatAI/Qwen3-32B-NVFP4
+- **ID**: model_redhatai_qwen3_32b_nvfp4
+- **Source**: 
+
 ## RedHatAI/Qwen3-32B-speculator.eagle3
 - **ID**: model_redhatai_qwen3_32b_speculator_eagle3
 - **Source**: 
@@ -5342,6 +5374,10 @@
 
 ## stepfun-ai/Step-3.7-Flash-NVFP4
 - **ID**: model_stepfun_ai_step_3_7_flash_nvfp4
+- **Source**: 
+
+## superwhisper/s1-mini-GGUF
+- **ID**: model_superwhisper_s1_mini_gguf
 - **Source**: 
 
 ## SupraLabs/Supra-50M-Reasoning
@@ -6242,6 +6278,10 @@
 
 ## vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF
 - **ID**: model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf
+- **Source**: 
+
+## vcruz305/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-GGUF
+- **ID**: model_vcruz305_qwen3_8_27b_aeon_ultimate_uncensored_gguf
 - **Source**: 
 
 ## vectionlabs/VL-1-Coder

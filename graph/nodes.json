@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T10:41:10.372042+00:00",
+  "generated_at": "2026-09-10T14:52:17.833146+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -118755,6 +118755,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_bigscience_xp3all",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_biscue5_egoscaler_v2",
       "label": ""
     },
@@ -118831,6 +118836,11 @@
     {
       "category": "datasets",
       "id": "dataset_brownu_deform360",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_buian2002_buian2002",
       "label": ""
     },
     {
@@ -120465,6 +120475,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_hoangduyanh2009_hoangduyanh2009",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hoanggiabao1998_hoanggiabao1998",
       "label": ""
     },
@@ -120656,6 +120671,11 @@
     {
       "category": "datasets",
       "id": "dataset_huggingfaceh4_math_500",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_huggingfaceh4_no_robots",
       "label": ""
     },
     {
@@ -123030,6 +123050,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_lethuyhang2006_lethuyhang2006",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_lethuylinh2007_lethuylinh2007",
       "label": ""
     },
@@ -123391,6 +123416,11 @@
     {
       "category": "datasets",
       "id": "dataset_lxl_158_rope_atlas_images",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_m_a_p_coig_cqia",
       "label": ""
     },
     {
@@ -124755,6 +124785,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_papylove_alpaca_crypto_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_patrickvonplaten_librispeech_asr_dummy",
       "label": ""
     },
@@ -126016,6 +126051,11 @@
     {
       "category": "datasets",
       "id": "dataset_swe_gym_swe_gym",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_swe_gym_swe_gym_raw",
       "label": ""
     },
     {
@@ -140245,6 +140285,11 @@
     },
     {
       "category": "models",
+      "id": "model_explosion_testing_falcon_test",
+      "label": "explosion-testing/falcon-test"
+    },
+    {
+      "category": "models",
       "id": "model_explosion_testing_llama2_fewer_kv_heads",
       "label": "explosion-testing/llama2-fewer-kv-heads"
     },
@@ -140407,6 +140452,11 @@
       "category": "models",
       "id": "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "label": "ggml-org/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_ggml_org_qwen3_0_6b_gguf",
+      "label": "ggml-org/Qwen3-0.6B-GGUF"
     },
     {
       "category": "models",
@@ -141520,6 +141570,11 @@
     },
     {
       "category": "models",
+      "id": "model_llm_jp_llm_jp_4_33b_thinking_gguf",
+      "label": "llm-jp/llm-jp-4-33b-thinking-gguf"
+    },
+    {
+      "category": "models",
       "id": "model_llm_jp_llm_jp_4_8b_thinking",
       "label": "llm-jp/llm-jp-4-8b-thinking"
     },
@@ -142625,6 +142680,11 @@
     },
     {
       "category": "models",
+      "id": "model_mlx_community_qwen3_8_27b_mtp_4bit",
+      "label": "mlx-community/Qwen3.8-27B-MTP-4bit"
+    },
+    {
+      "category": "models",
       "id": "model_mlx_community_qwen3_8b_4bit",
       "label": "mlx-community/Qwen3-8B-4bit"
     },
@@ -143165,6 +143225,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_qwen2_5_vl_7b_instruct_nvfp4",
+      "label": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_qwen3_14b_fp8",
       "label": "nvidia/Qwen3-14B-FP8"
     },
@@ -143357,6 +143422,16 @@
       "category": "models",
       "id": "model_openbmb_minicpm5_1b_mlx",
       "label": "openbmb/MiniCPM5-1B-MLX"
+    },
+    {
+      "category": "models",
+      "id": "model_openbmb_minicpm5_2b",
+      "label": "openbmb/MiniCPM5-2B"
+    },
+    {
+      "category": "models",
+      "id": "model_openbmb_minicpm5_2b_gguf",
+      "label": "openbmb/MiniCPM5-2B-GGUF"
     },
     {
       "category": "models",
@@ -144840,6 +144915,11 @@
     },
     {
       "category": "models",
+      "id": "model_redhatai_qwen3_32b_nvfp4",
+      "label": "RedHatAI/Qwen3-32B-NVFP4"
+    },
+    {
+      "category": "models",
       "id": "model_redhatai_qwen3_32b_speculator_eagle3",
       "label": "RedHatAI/Qwen3-32B-speculator.eagle3"
     },
@@ -145192,6 +145272,11 @@
       "category": "models",
       "id": "model_stepfun_ai_step_3_7_flash_nvfp4",
       "label": "stepfun-ai/Step-3.7-Flash-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_superwhisper_s1_mini_gguf",
+      "label": "superwhisper/s1-mini-GGUF"
     },
     {
       "category": "models",
@@ -146317,6 +146402,11 @@
       "category": "models",
       "id": "model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf",
       "label": "vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_vcruz305_qwen3_8_27b_aeon_ultimate_uncensored_gguf",
+      "label": "vcruz305/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-GGUF"
     },
     {
       "category": "models",
@@ -443665,5 +443755,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 88732
+  "total_nodes": 88750
 }
