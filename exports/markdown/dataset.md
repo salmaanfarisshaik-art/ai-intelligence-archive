@@ -1000,6 +1000,12 @@
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/ngrik](https://huggingface.co/datasets/gfdg34fsd/ngrik)
 - **Tags**: region:us
 
+## anilili/anilili-apk
+- **ID**: hf_ds_6a702b9b89beb4ee925c3e28
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/anilili/anilili-apk](https://huggingface.co/datasets/anilili/anilili-apk)
+- **Tags**: modality:tabular, modality:text, region:us, size_categories:n<1K
+
 ## challenge-2026/challenge_data
 - **ID**: hf_ds_6a7460ebf3031d8573c2fe30
 - **Source**: HuggingFace Datasets

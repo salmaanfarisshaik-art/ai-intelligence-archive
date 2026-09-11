@@ -23525,6 +23525,13 @@
       "score": 1.0
     }
   ],
+  "wavcaps": [
+    {
+      "entity_id": "dataset_cvssp_wavcaps",
+      "match_type": "exact",
+      "score": 4.0
+    }
+  ],
   "wave": [
     {
       "entity_id": "alpaca_-3262416726410361952",
@@ -38442,6 +38449,11 @@
       "entity_id": "arxiv_2609.10371v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_cvssp_wavcaps",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "weaknes": [
@@ -44904,6 +44916,11 @@
     },
     {
       "entity_id": "alpaca_974753935029353751",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_cvssp_wavcaps",
       "match_type": "exact",
       "score": 1.0
     },
@@ -76091,6 +76108,11 @@
     },
     {
       "entity_id": "dataset_brownu_deform360",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_cvssp_wavcaps",
       "match_type": "exact",
       "score": 1.0
     },
@@ -145746,6 +145768,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_meshllm_catalog",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_microsoft_ms_marco",
       "match_type": "exact",
       "score": 1.0
@@ -168556,6 +168583,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_harborframework_terminal_bench_science",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_markov_ai_gaming_500_hours",
       "match_type": "exact",
       "score": 1.0
@@ -177762,6 +177794,11 @@
     },
     {
       "entity_id": "dataset_google_civil_comments",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_science",
       "match_type": "exact",
       "score": 1.0
     },

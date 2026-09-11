@@ -2680,6 +2680,10 @@
 - **ID**: model_logic65_qwen3_8_whittle_moe_27b_a17_8b_gguf
 - **Source**: 
 
+## LongSafari/hyenadna-medium-450k-seqlen-hf
+- **ID**: model_longsafari_hyenadna_medium_450k_seqlen_hf
+- **Source**: 
+
 ## Lord-H4D3ZS/Qwen3.8-Distill-35B-A3B-Coder-Abliterated
 - **ID**: model_lord_h4d3zs_qwen3_8_distill_35b_a3b_coder_abliterated
 - **Source**: 

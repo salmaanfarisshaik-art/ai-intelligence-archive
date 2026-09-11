@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T08:37:45Z",
+  "generated_at": "2026-09-11T13:18:13Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -2455,6 +2455,7 @@
       "model_lmstudio_community_nvidia_nemotron_3_nano_30b_a3b_mlx_8bit",
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_fp8",
       "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_nvfp4",
+      "model_pipecat_ai_phonellm_alpha_1",
       "model_stelterlab_nvidia_nemotron_3_nano_30b_a3b_awq",
       "model_unsloth_nemotron_3_nano_30b_a3b"
     ],
@@ -2487,6 +2488,7 @@
       "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4_dspark",
+      "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8",
       "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf"
     ],
     "hf_nvidia_NVIDIA-Nemotron-Nano-12B-v2": [
@@ -2854,6 +2856,7 @@
       "model_openbmb_minicpm5_1b_gguf",
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_Ultra-FineWeb-L3": [
@@ -2861,10 +2864,12 @@
       "model_openbmb_minicpm5_1b_gguf",
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraData-Code": [
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraData-Math": [
@@ -2872,10 +2877,12 @@
       "model_openbmb_minicpm5_1b_gguf",
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraData-RL-2609": [
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraData-SFT-2605": [
@@ -2883,14 +2890,17 @@
       "model_openbmb_minicpm5_1b_gguf",
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraData-SFT-Agent-2609": [
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openbmb_UltraX-Preview": [
       "model_openbmb_minicpm5_2b",
+      "model_openbmb_minicpm5_2b_dspark",
       "model_openbmb_minicpm5_2b_gguf"
     ],
     "hf_openlifescienceai_medmcqa": [
@@ -3252,6 +3262,9 @@
     ],
     "hf_zai-org_GLM-5.3": [
       "model_unsloth_glm_5_3_gguf"
+    ],
+    "hf_zai-org_GLM-5.3-BF16": [
+      "model_inferact_glm_5_3_nvfp4"
     ],
     "hf_zai-org_GLM-5.3-Flash": [
       "model_unsloth_glm_5_3_flash_gguf"
@@ -4386,6 +4399,9 @@
     ],
     "model_incoai_qwen3_8_27b_dflash2_gguf": [
       "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_inferact_glm_5_3_nvfp4": [
+      "hf_zai-org_GLM-5.3-BF16"
     ],
     "model_inferact_kimi_k3_dspark": [
       "hf_moonshotai_Kimi-K3"
@@ -5660,6 +5676,16 @@
       "hf_openbmb_UltraData-SFT-Agent-2609",
       "hf_openbmb_UltraX-Preview"
     ],
+    "model_openbmb_minicpm5_2b_dspark": [
+      "hf_openbmb_Ultra-FineWeb",
+      "hf_openbmb_Ultra-FineWeb-L3",
+      "hf_openbmb_UltraData-Code",
+      "hf_openbmb_UltraData-Math",
+      "hf_openbmb_UltraData-RL-2609",
+      "hf_openbmb_UltraData-SFT-2605",
+      "hf_openbmb_UltraData-SFT-Agent-2609",
+      "hf_openbmb_UltraX-Preview"
+    ],
     "model_openbmb_minicpm5_2b_gguf": [
       "hf_openbmb_Ultra-FineWeb",
       "hf_openbmb_Ultra-FineWeb-L3",
@@ -5737,6 +5763,9 @@
     ],
     "model_phalacloud_glm_5_2_w4afp8": [
       "hf_zai-org_GLM-5.2-FP8"
+    ],
+    "model_pipecat_ai_phonellm_alpha_1": [
+      "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16"
     ],
     "model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf": [
       "hf_zai-org_GLM-5.2"
@@ -6226,6 +6255,9 @@
     ],
     "model_redhatai_meta_llama_3_8b_instruct_fp8_kv": [
       "hf_meta-llama_Meta-Llama-3-8B-Instruct"
+    ],
+    "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8": [
+      "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16"
     ],
     "model_redhatai_phi_4_fp8_dynamic": [
       "hf_microsoft_phi-4"

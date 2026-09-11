@@ -1,0 +1,33 @@
+{
+  "_id": "6755cd6e015eb159a0d6c853",
+  "id": "nebius/SWE-bench-extra",
+  "author": "nebius",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-05-28T16:27:57.000Z",
+  "likes": 47,
+  "private": false,
+  "sha": "11dcbfb30e19552df2a2f8030bd764adc95c92a5",
+  "description": "Note: This dataset has an improved and significantly larger successor: SWE-rebench.\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nSWE-bench Extra is a dataset that can be used to train or evaluate agentic systems specializing in resolving GitHub issues. It is based on the methodology used to build SWE-bench benchmark and includes 6,415 Issue-Pull Request pairs sourced from 1,988 Python repositories.\n\n\t\n\t\t\n\t\tDataset Description\n\t\n\nThe SWE-bench Extra dataset supports the development of software engineering agents… See the full description on the dataset page: https://huggingface.co/datasets/nebius/SWE-bench-extra.",
+  "downloads": 34703,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "code",
+    "synthetic",
+    "tools",
+    "agents",
+    "software"
+  ],
+  "createdAt": "2024-12-08T16:46:38.000Z",
+  "key": "",
+  "unique_id": "dataset_nebius_swe_bench_extra",
+  "schema_version": "1.0"
+}

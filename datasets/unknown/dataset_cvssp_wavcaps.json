@@ -1,0 +1,30 @@
+{
+  "_id": "643667202a44a340c2863059",
+  "id": "cvssp/WavCaps",
+  "author": "cvssp",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-07-06T13:28:10.000Z",
+  "likes": 56,
+  "private": false,
+  "sha": "0930ec11ded28fa0eaa910fde2f6fc3538acbeac",
+  "description": "\n\t\n\t\t\n\t\tWavCaps\n\t\n\nWavCaps is a ChatGPT-assisted weakly-labelled audio captioning dataset for audio-language multimodal research, where the audio clips are sourced from three websites (FreeSound, BBC Sound Effects, and SoundBible) and a sound event detection dataset (AudioSet Strongly-labelled Subset).\n\nPaper: https://arxiv.org/abs/2303.17395\nGithub: https://github.com/XinhaoMei/WavCaps\n\n\n\t\n\t\n\t\n\t\tStatistics\n\t\n\n\n\t\n\t\t\nData Source\n# audio\navg. audio duration (s)avg. text length\n\n\n\t\t\nFreeSound… See the full description on the dataset page: https://huggingface.co/datasets/cvssp/WavCaps.",
+  "downloads": 37650,
+  "tags": [
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:n<1K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2303.17395",
+    "region:us"
+  ],
+  "createdAt": "2023-04-12T08:09:04.000Z",
+  "key": "",
+  "unique_id": "dataset_cvssp_wavcaps",
+  "schema_version": "1.0"
+}

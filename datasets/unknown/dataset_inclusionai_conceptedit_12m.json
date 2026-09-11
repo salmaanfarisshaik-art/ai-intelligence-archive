@@ -1,0 +1,33 @@
+{
+  "_id": "6a82b7f4ed2b9cb7ccff49bb",
+  "id": "inclusionAI/ConceptEdit-12M",
+  "author": "inclusionAI",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-08-25T01:42:09.000Z",
+  "likes": 46,
+  "private": false,
+  "sha": "1484b91237f643aac249fdb748dede3b8aa62393",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tConceptEdit: Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision\n\t\n\n&nbsp;&nbsp;&nbsp;\nConceptEdit-12M is a large-scale image editing dataset. Each sample is stored as a triplet:\n\na source image,\nan edited image,\na JSON metadata file describing the edit instruction, edit category, relative image paths, and VQA-style quality checks.\n\nThe dataset is packaged as multiple .tar shards. All paths inside the tar files and JSON files are relative paths; no… See the full description on the dataset page: https://huggingface.co/datasets/inclusionAI/ConceptEdit-12M.",
+  "downloads": 40183,
+  "tags": [
+    "task_categories:image-to-image",
+    "language:en",
+    "language:zh",
+    "license:apache-2.0",
+    "size_categories:10M<n<100M",
+    "arxiv:2608.16812",
+    "region:us",
+    "image-editing",
+    "instruction-based-editing",
+    "multimodal",
+    "computer-vision",
+    "image-generation",
+    "t2i",
+    "iti"
+  ],
+  "createdAt": "2026-08-17T07:27:48.000Z",
+  "key": "",
+  "unique_id": "dataset_inclusionai_conceptedit_12m",
+  "schema_version": "1.0"
+}
