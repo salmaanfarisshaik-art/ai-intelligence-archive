@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22511v2](http://arxiv.org/abs/2607.22511v2)
 
+## Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact
+- **ID**: arxiv_2609.11915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11915v1](http://arxiv.org/abs/2609.11915v1)
+

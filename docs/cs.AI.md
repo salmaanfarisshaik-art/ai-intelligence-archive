@@ -70,6 +70,7 @@
 | [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](http://arxiv.org/abs/2608.02553v1) | ArXiv |  | 1 |
 | [A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems](http://arxiv.org/abs/2606.14582v1) | ArXiv |  | 1 |
 | [A Three-Layer Framework for AI in Scientific Discovery](http://arxiv.org/abs/2606.13566v1) | ArXiv |  | 1 |
+| [A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients](http://arxiv.org/abs/2609.11768v1) | ArXiv |  | 1 |
 | [A Unifying Perspective on Causal World Models: From Observations to Representations to Structure](http://arxiv.org/abs/2608.13456v1) | ArXiv |  | 1 |
 | [Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation](http://arxiv.org/abs/2608.02505v1) | ArXiv |  | 1 |
 | [ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory](http://arxiv.org/abs/2607.10350v3) | ArXiv |  | 1 |
@@ -108,6 +109,7 @@
 | [Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](http://arxiv.org/abs/2607.08465v2) | ArXiv |  | 1 |
 | [ArchAgent v2: A Case Study with the Data Prefetching Championship](http://arxiv.org/abs/2608.09874v1) | ArXiv |  | 1 |
 | [Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1) | ArXiv |  | 1 |
+| [Artificial Id: Drive and Persistent Alignment in Agentic AI](http://arxiv.org/abs/2609.11911v1) | ArXiv |  | 1 |
 | [Associative Emotional Learning in Convolutional Neural Networks](http://arxiv.org/abs/2607.19327v1) | ArXiv |  | 1 |
 | [AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs](http://arxiv.org/abs/2608.26004v1) | ArXiv |  | 1 |
 | [Atomic Units of X: The Compression Layer of Intelligence](http://arxiv.org/abs/2607.12634v2) | ArXiv |  | 1 |
@@ -120,6 +122,7 @@
 | [Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](http://arxiv.org/abs/2607.15715v2) | ArXiv |  | 1 |
 | [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
 | [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](http://arxiv.org/abs/2608.20768v2) | ArXiv |  | 1 |
+| [Beyond Prompting: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration (LOGIC)](http://arxiv.org/abs/2601.15397v3) | ArXiv |  | 1 |
 | [Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](http://arxiv.org/abs/2606.13621v1) | ArXiv |  | 1 |
 | [Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning](http://arxiv.org/abs/2607.21558v1) | ArXiv |  | 1 |
 | [Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication](http://arxiv.org/abs/2608.19161v1) | ArXiv |  | 1 |
@@ -136,6 +139,7 @@
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | ArXiv |  | 1 |
+| [Can Edge-Deployable Vision-Language Models Identify Species?](http://arxiv.org/abs/2609.11916v1) | ArXiv |  | 1 |
 | [Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](http://arxiv.org/abs/2608.18017v1) | ArXiv |  | 1 |
 | [Can LLMs Discover Scientific Laws in Real and Parallel Worlds?](http://arxiv.org/abs/2609.01552v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
@@ -212,6 +216,7 @@
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
 | [EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation](http://arxiv.org/abs/2609.01526v1) | ArXiv |  | 1 |
 | [ExecCritic: Learn to Test, Test to Improve for Coding Agents](http://arxiv.org/abs/2609.09133v1) | ArXiv |  | 1 |
+| [Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models](http://arxiv.org/abs/2609.11860v1) | ArXiv |  | 1 |
 | [Explainable Reinforcement Learning for assisting Air Traffic Controllers](http://arxiv.org/abs/2607.22525v1) | ArXiv |  | 1 |
 | [Explanation-Bound Tool Execution for AI Agents: Server-Verified Action Claims Without Trusting Model Rationales](http://arxiv.org/abs/2607.25364v2) | ArXiv |  | 1 |
 | [ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction](http://arxiv.org/abs/2607.29677v1) | ArXiv |  | 2 |
@@ -232,9 +237,11 @@
 | [From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research](http://arxiv.org/abs/2609.04166v1) | ArXiv |  | 1 |
 | [From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production](http://arxiv.org/abs/2502.19507v2) | ArXiv |  | 1 |
 | [From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent](http://arxiv.org/abs/2505.02024v4) | ArXiv |  | 1 |
+| [From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge](http://arxiv.org/abs/2609.11859v1) | ArXiv |  | 1 |
 | [From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry](http://arxiv.org/abs/2608.21317v1) | ArXiv |  | 1 |
 | [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [Fuzzy Segmentations of a String](http://arxiv.org/abs/2201.13427v2) | ArXiv |  | 1 |
+| [GameWAM: A World Action Model for Video Games](http://arxiv.org/abs/2608.26200v2) | ArXiv |  | 1 |
 | [Gen AI in Proof-based Math Courses: A Pilot Study](http://arxiv.org/abs/2509.13570v2) | ArXiv |  | 1 |
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v1) | ArXiv |  | 1 |
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v2) | ArXiv |  | 1 |
@@ -309,6 +316,7 @@
 | [MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents](http://arxiv.org/abs/2608.01742v2) | ArXiv |  | 1 |
 | [MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use](http://arxiv.org/abs/2608.20202v1) | ArXiv |  | 1 |
 | [MidTool: Mid-training Data Synthesis for Agentic Tool Use](http://arxiv.org/abs/2608.20314v1) | ArXiv |  | 1 |
+| [MindTopo: Can Foundation Models Reason in Topological Space?](http://arxiv.org/abs/2609.11900v1) | ArXiv |  | 1 |
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
@@ -331,6 +339,7 @@
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
 | [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1) | ArXiv |  | 1 |
+| [On the Regularization Landscape for the Linear Recommendation Models](http://arxiv.org/abs/2609.11876v1) | ArXiv |  | 1 |
 | [On The Statistical Limits of Self-Improving Agents](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | ArXiv |  | 1 |
 | [Online design of dynamic networks](http://arxiv.org/abs/2410.08875v3) | ArXiv |  | 1 |
@@ -461,6 +470,7 @@
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
 | [Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks](http://arxiv.org/abs/2607.25914v1) | ArXiv |  | 1 |
 | [Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v1) | ArXiv |  | 1 |
+| [Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage](http://arxiv.org/abs/2504.20007v4) | ArXiv |  | 1 |
 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1) | ArXiv |  | 1 |
 | [Towards Expert-level Medical AI for Real-time Video Consultations](http://arxiv.org/abs/2608.09861v1) | ArXiv |  | 1 |
 | [Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability](http://arxiv.org/abs/2608.11238v2) | ArXiv |  | 1 |
@@ -478,6 +488,7 @@
 | [Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets](http://arxiv.org/abs/2608.21319v1) | ArXiv |  | 1 |
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
+| [Verification of Adaptive Agentic Controllers through Finite Rule Revision](http://arxiv.org/abs/2607.09770v2) | ArXiv |  | 1 |
 | [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1) | ArXiv |  | 1 |
 | [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |
 | [Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight](http://arxiv.org/abs/2606.00424v2) | ArXiv |  | 1 |

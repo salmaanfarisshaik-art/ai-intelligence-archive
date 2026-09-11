@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11877v1",
+  "schema_version": "1.0",
+  "name": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11877v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "q-bio.QM",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11877v1",
+    "updated": "2026-09-10T17:45:18Z",
+    "published": "2026-09-10T17:45:18Z",
+    "title": "Biology-in-the-loop: Amortized Adaptive Hit Discovery in CRISPR Screens",
+    "summary": "Many biological discovery problems require experiments to be selected sequentially under constrained budgets. CRISPR screening is a prominent example, as exhaustive perturbation testing is often infeasible and candidate perturbations must instead be prioritized over multiple experimental rounds. Despite the importance of this problem, existing benchmarks for adaptive hit discovery remain limited in scale and diversity. Here, we introduce AssayBench-Loop, a large-scale benchmark for adaptive hit discovery comprising 1,389 CRISPR screens across five phenotype categories. Beyond enabling systematic evaluation, its scale makes it possible to learn acquisition strategies across historical experiments. Building on this resource, we introduce AssayLoop, a sequential experimental design framework combining AssayFormer, a transformer-based amortized acquisition policy trained across historical screens to adapt from experimental feedback, with LLM-derived biological priors through an adaptive handoff. In this view, completed experiments become training data for learning how accumulated evidence should guide what to test next, while LLMs provide prior biological knowledge to seed the search. We further introduce AssayLLM, showing that the same principle can be extended directly to an LLM through task-specific post-training. On temporally held-out screens, AssayLoop achieves a 5.67-fold enrichment over random selection and recovers 27.7% of hits after assaying approximately 5% of the candidate library, outperforming existing adaptive-design methods and standalone LLMs, and AssayFormer alone. Performance improves with increasing historical training data and transfers to phenotype categories excluded from training. These results demonstrate the value of learning acquisition policies across historical experiments and combining them with broad biological priors for efficient adaptive hit discovery.",
+    "primary_category": "q-bio.QM"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:45:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11877v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

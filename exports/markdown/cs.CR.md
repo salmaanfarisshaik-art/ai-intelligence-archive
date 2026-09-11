@@ -300,3 +300,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05370v1](http://arxiv.org/abs/2609.05370v1)
 
+## SpecGuard: Inference-Time Backdoor Detection For Free
+- **ID**: arxiv_2609.11799v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11799v1](http://arxiv.org/abs/2609.11799v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11851v1",
+  "schema_version": "1.0",
+  "name": "IndicTriMix: Developing Language Identification Datasets and Models for Tri-Language Code-Mixing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11851v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11851v1",
+    "updated": "2026-09-10T17:36:12Z",
+    "published": "2026-09-10T17:36:12Z",
+    "title": "IndicTriMix: Developing Language Identification Datasets and Models for Tri-Language Code-Mixing",
+    "summary": "Language identification in code-mixed text, largely observed in social media, is highly essential when users frequently switch between multiple languages within a single utterance. Accurately identifying the languages of code-mixed tokens becomes an urgent necessity. Traditional language identification models, designed for monolingual text, are not well suited for token-level language identification in code-mixed settings. We formulate the task as a sequence labeling problem and fine-tune contextual transformer-based models MuRIL and XLM-RoBERTa best suited for Indian languages. We evaluate these systems on three different data configurations (Hindi, Gujarati, and Bengali) to predict language labels for individual tokens. We release a benchmark for language identification in code-mixed tokens with manually annotated test sets. We propose two approaches of code-mixed generation using parallel sentences of three languages. The trained models demonstrate the effectiveness of contextual embeddings for token-level language identification in multilingual social media text. For reproducibility and to facilitate future research, we publicly release our fine-tuned models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:36:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11851v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

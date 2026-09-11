@@ -55,3 +55,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10394v1](http://arxiv.org/abs/2609.10394v1)
 
+## Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding
+- **ID**: arxiv_2609.11772v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11772v1](http://arxiv.org/abs/2609.11772v1)
+
+## RetroThinker: Enabling Retrospective Thinking in Speech LLMs
+- **ID**: arxiv_2609.11864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11864v1](http://arxiv.org/abs/2609.11864v1)
+

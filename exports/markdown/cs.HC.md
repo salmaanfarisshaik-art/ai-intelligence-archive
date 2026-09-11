@@ -115,3 +115,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10385v1](http://arxiv.org/abs/2609.10385v1)
 
+## Understanding Operator Attitudes Toward AI-Supported Decision Making in Maritime Operations
+- **ID**: arxiv_2609.11805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11805v1](http://arxiv.org/abs/2609.11805v1)
+

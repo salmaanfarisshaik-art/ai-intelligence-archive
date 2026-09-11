@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11918v1",
+  "schema_version": "1.0",
+  "name": "General Quantification of Covariate and Concept Shifts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11918v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11918v1",
+    "updated": "2026-09-10T17:57:52Z",
+    "published": "2026-09-10T17:57:52Z",
+    "title": "General Quantification of Covariate and Concept Shifts",
+    "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper, we bridge the gap between theory and practical applications. We first show that existing definition of concept shift breaks when the source and target supports mismatch. Leveraging entropic optimal transport, we propose a key notion: $γ^{*}\\!$-concept shifts, and derive a general error bound unifying covariate and $γ^{*}\\!$-concept shifts, which applies to broad loss functions, label spaces, and stochastic labeling. We further develop estimators for these shifts with concentration guarantees, and the DataShifts algorithm, which can quantify distribution shifts and estimate the error bound in most applications - a rigorous and general tool for analyzing learning error under distribution shift.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:57:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11918v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

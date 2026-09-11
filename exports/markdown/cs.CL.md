@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.05618v2](http://arxiv.org/abs/2508.05618v2)
 
+## "Mirror" Large Language Model Evaluations of Depression are Criterion Contaminated
+- **ID**: arxiv_2508.05830v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.05830v3](http://arxiv.org/abs/2508.05830v3)
+
 ## SinLlama -- A Large Language Model for Sinhala
 - **ID**: arxiv_2508.09115v5
 - **Source**: ArXiv
@@ -294,6 +299,11 @@
 - **ID**: arxiv_2602.13110v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13110v4](http://arxiv.org/abs/2602.13110v4)
+
+## What Language is This? Ask Your Tokenizer
+- **ID**: arxiv_2602.17655v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.17655v3](http://arxiv.org/abs/2602.17655v3)
 
 ## ClinConsensus: A Physician-Calibrated Benchmark for Evaluating Clinical Rubric Coverage in Chinese Medical LLMs
 - **ID**: arxiv_2603.02097v6
@@ -604,6 +614,11 @@
 - **ID**: arxiv_2606.05087v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.05087v2](http://arxiv.org/abs/2606.05087v2)
+
+## Activation-Based Active Learning for In-Context Learning: Challenges and Insights
+- **ID**: arxiv_2606.05134v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.05134v2](http://arxiv.org/abs/2606.05134v2)
 
 ## How reliable are LLMs when it comes to playing dice?
 - **ID**: arxiv_2606.07515v2
@@ -2569,4 +2584,64 @@
 - **ID**: arxiv_2609.10539v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10539v1](http://arxiv.org/abs/2609.10539v1)
+
+## RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety
+- **ID**: arxiv_2609.11758v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11758v1](http://arxiv.org/abs/2609.11758v1)
+
+## Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs
+- **ID**: arxiv_2609.11762v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11762v1](http://arxiv.org/abs/2609.11762v1)
+
+## Recognizing Is Not Reversing: A Controlled Inversion Test of Fact-Preserving News Framing
+- **ID**: arxiv_2609.11769v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11769v1](http://arxiv.org/abs/2609.11769v1)
+
+## The widening evaluation gap in medical large language model research 2023 to 2026
+- **ID**: arxiv_2609.11770v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11770v1](http://arxiv.org/abs/2609.11770v1)
+
+## Beyond Word Error Rate: A Switch Aware Evaluation of ASR and Audio Language Models on English Yoruba Code-Switched Speech
+- **ID**: arxiv_2609.11786v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11786v1](http://arxiv.org/abs/2609.11786v1)
+
+## Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models
+- **ID**: arxiv_2609.11838v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11838v1](http://arxiv.org/abs/2609.11838v1)
+
+## IndicTriMix: Developing Language Identification Datasets and Models for Tri-Language Code-Mixing
+- **ID**: arxiv_2609.11851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11851v1](http://arxiv.org/abs/2609.11851v1)
+
+## Epistemic orientation predicts legislative effectiveness among members of the US Congress
+- **ID**: arxiv_2609.11865v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11865v1](http://arxiv.org/abs/2609.11865v1)
+
+## Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model
+- **ID**: arxiv_2609.11870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11870v1](http://arxiv.org/abs/2609.11870v1)
+
+## Domain-Specific Hallucination Detection in Large Language Models
+- **ID**: arxiv_2609.11878v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11878v1](http://arxiv.org/abs/2609.11878v1)
+
+## Nuha-Speech: Building General-Purpose Arabic Speech-LLMs
+- **ID**: arxiv_2609.11892v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11892v1](http://arxiv.org/abs/2609.11892v1)
+
+## Distance generalization in transformers: why bother with positional encoding?
+- **ID**: arxiv_2609.11913v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11913v1](http://arxiv.org/abs/2609.11913v1)
 

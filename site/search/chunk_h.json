@@ -6982,6 +6982,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.11878v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_ibm_granite_granite_guardian_4_1_8b",
       "match_type": "exact",
       "score": 1.5
@@ -37848,6 +37853,11 @@
     },
     {
       "entity_id": "arxiv_2609.10385v1",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "arxiv_2609.11805v1",
       "match_type": "exact",
       "score": 1.2
     },
@@ -70871,6 +70881,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_longsafari_hyenadna_medium_450k_seqlen_hf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_meta_llama_llama_2_13b_chat_hf",
       "match_type": "exact",
       "score": 2.0
@@ -86969,6 +86984,11 @@
       "entity_id": "alpaca_-3681983839224586040",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "arxiv_2609.11877v1",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "alpaca_-1309541446315999429",
@@ -105914,6 +105934,11 @@
     },
     {
       "entity_id": "arxiv_2609.10518v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.11859v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -126292,6 +126317,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2603.01260v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2603.20004v4",
       "match_type": "exact",
       "score": 2.0
@@ -129415,6 +129445,11 @@
     },
     {
       "entity_id": "arxiv_2608.27407v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.11873v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -133461,6 +133496,20 @@
       "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "hyena": [
+    {
+      "entity_id": "model_longsafari_hyenadna_medium_450k_seqlen_hf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "hyenadna": [
+    {
+      "entity_id": "model_longsafari_hyenadna_medium_450k_seqlen_hf",
+      "match_type": "exact",
+      "score": 3.5
     }
   ],
   "hyenas": [

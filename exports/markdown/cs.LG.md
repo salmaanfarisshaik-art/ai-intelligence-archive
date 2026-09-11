@@ -195,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.00039v2](http://arxiv.org/abs/2603.00039v2)
 
+## MOSAIC: A Universal Agent-Level Interface for Cross-Paradigm Agent Mixing and Human-AI Collaboration
+- **ID**: arxiv_2603.01260v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.01260v3](http://arxiv.org/abs/2603.01260v3)
+
 ## Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
 - **ID**: arxiv_2603.10009v2
 - **Source**: ArXiv
@@ -1324,4 +1329,34 @@
 - **ID**: arxiv_2609.10464v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10464v1](http://arxiv.org/abs/2609.10464v1)
+
+## Thinking with Looped Flows
+- **ID**: arxiv_2609.11801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11801v1](http://arxiv.org/abs/2609.11801v1)
+
+## Model-Aware Schedules Improve Generation via Fiberwise Optimal Transport
+- **ID**: arxiv_2609.11842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11842v1](http://arxiv.org/abs/2609.11842v1)
+
+## The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement
+- **ID**: arxiv_2609.11873v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11873v1](http://arxiv.org/abs/2609.11873v1)
+
+## CoRA-NAS: Coarse Ranking and Anchor-Residual Refinement for Neural Architecture Search
+- **ID**: arxiv_2609.11884v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11884v1](http://arxiv.org/abs/2609.11884v1)
+
+## Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data
+- **ID**: arxiv_2609.11917v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11917v1](http://arxiv.org/abs/2609.11917v1)
+
+## General Quantification of Covariate and Concept Shifts
+- **ID**: arxiv_2609.11918v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11918v1](http://arxiv.org/abs/2609.11918v1)
 

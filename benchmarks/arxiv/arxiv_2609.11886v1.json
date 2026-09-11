@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11886v1",
+  "schema_version": "1.0",
+  "name": "Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11886v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11886v1",
+    "updated": "2026-09-10T17:49:49Z",
+    "published": "2026-09-10T17:49:49Z",
+    "title": "Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators",
+    "summary": "High-resolution digital surface models (DSMs) play an important role in urban analysis, 3D building reconstruction, and infrastructure monitoring, yet their availability remains limited due to the high cost and complexity of data acquisition. In contrast, coarse DSMs from commercial satellite missions are widely accessible, and high-resolution optical imagery is increasingly available from aerial and satellite platforms. We address the resulting mismatch in spatial resolution and propose a DSM superresolution approach that enhances 5 m DSMs to 0.5 m resolution, using guidance from high-resolution spectral images. Our method employs denoising diffusion to transfer information that is visible only in the image, like crisp outlines and detailed roof structures, into the elevation maps. In this way, surface details are reconstructed more accurately than with conventional interpolation or filtering techniques. Experiments on several cities in Central Europe demonstrate that the proposed approach produces high-quality DSMs with improved structural detail and accurate surface geometry. Our results highlight the potential of guided super-resolution with foundational image priors as a means of reconstructing high-resolution surface models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:49:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11886v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

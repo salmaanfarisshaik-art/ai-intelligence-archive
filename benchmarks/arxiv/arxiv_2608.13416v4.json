@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.13416v4",
+  "schema_version": "1.0",
+  "name": "StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.13416v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.13416v4",
+    "updated": "2026-09-10T17:20:40Z",
+    "published": "2026-08-13T16:10:33Z",
+    "title": "StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs",
+    "summary": "Humans effortlessly perceive the present while remembering the past, yet streaming VLMs often trade off real-time perception against long-term memory. Prior work shows that shortening the context can sharpen current-scene perception at the expense of long-range recall. To reconcile these abilities, we introduce StreamTTT, which writes long-range history into online-updated fast weights outside the attention context. This leaves a short sliding key-value cache dedicated to recent evidence, mitigating attention dilution. We train StreamTTT jointly on offline long-video QA and a newly constructed real-time QA corpus. On OVO-Bench, under each model's reported input protocol, StreamTTT-4B outperforms the same-scale SimpleStream-4B by 0.6 points in real-time perception and 5.3 points in backward tracing. It also surpasses the larger SimpleStream-8B by 0.73 points on StreamingBench's Real-Time Visual Understanding (RTVU) subset. Our code is publicly available at https://github.com/zeyun-zhong/StreamTTT.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:20:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.13416v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

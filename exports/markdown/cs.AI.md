@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.09772v3](http://arxiv.org/abs/2504.09772v3)
 
+## Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage
+- **ID**: arxiv_2504.20007v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.20007v4](http://arxiv.org/abs/2504.20007v4)
+
 ## From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent
 - **ID**: arxiv_2505.02024v4
 - **Source**: ArXiv
@@ -99,6 +104,11 @@
 - **ID**: arxiv_2601.05106v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
+
+## Beyond Prompting: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration (LOGIC)
+- **ID**: arxiv_2601.15397v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.15397v3](http://arxiv.org/abs/2601.15397v3)
 
 ## Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning
 - **ID**: arxiv_2602.01695v2
@@ -644,6 +654,11 @@
 - **ID**: arxiv_2607.08734v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.08734v2](http://arxiv.org/abs/2607.08734v2)
+
+## Verification of Adaptive Agentic Controllers through Finite Rule Revision
+- **ID**: arxiv_2607.09770v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09770v2](http://arxiv.org/abs/2607.09770v2)
 
 ## ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory
 - **ID**: arxiv_2607.10350v3
@@ -2065,6 +2080,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26088v1](http://arxiv.org/abs/2608.26088v1)
 
+## GameWAM: A World Action Model for Video Games
+- **ID**: arxiv_2608.26200v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26200v2](http://arxiv.org/abs/2608.26200v2)
+
 ## Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance
 - **ID**: arxiv_2608.27340v1
 - **Source**: ArXiv
@@ -2499,4 +2519,39 @@
 - **ID**: arxiv_2609.10451v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10451v1](http://arxiv.org/abs/2609.10451v1)
+
+## A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients
+- **ID**: arxiv_2609.11768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11768v1](http://arxiv.org/abs/2609.11768v1)
+
+## From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge
+- **ID**: arxiv_2609.11859v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11859v1](http://arxiv.org/abs/2609.11859v1)
+
+## Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models
+- **ID**: arxiv_2609.11860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11860v1](http://arxiv.org/abs/2609.11860v1)
+
+## On the Regularization Landscape for the Linear Recommendation Models
+- **ID**: arxiv_2609.11876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11876v1](http://arxiv.org/abs/2609.11876v1)
+
+## MindTopo: Can Foundation Models Reason in Topological Space?
+- **ID**: arxiv_2609.11900v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11900v1](http://arxiv.org/abs/2609.11900v1)
+
+## Artificial Id: Drive and Persistent Alignment in Agentic AI
+- **ID**: arxiv_2609.11911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11911v1](http://arxiv.org/abs/2609.11911v1)
+
+## Can Edge-Deployable Vision-Language Models Identify Species?
+- **ID**: arxiv_2609.11916v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11916v1](http://arxiv.org/abs/2609.11916v1)
 

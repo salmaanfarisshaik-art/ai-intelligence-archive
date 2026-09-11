@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.09770v2",
+  "schema_version": "1.0",
+  "name": "Verification of Adaptive Agentic Controllers through Finite Rule Revision",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.09770v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.09770v2",
+    "updated": "2026-09-10T16:30:00Z",
+    "published": "2026-07-07T13:38:01Z",
+    "title": "Verification of Adaptive Agentic Controllers through Finite Rule Revision",
+    "summary": "Industrial agentic AI systems increasingly exhibit a gap between prototype capability and production deployment. In particular, adaptive agents may generate plausible outputs while remaining difficult to verify under non-determinism, confidentiality constraints, limited context, and weak observability. This paper formulates a bounded verification protocol for adaptive agentic controllers represented by finite symbolic rules, explicit diagnostic predicates, explanation logs, and held-out re-evaluation. The central research question is: when an adaptive agentic controller is represented through finite rules, explicit diagnostic predicates, explanation logs, and held-out re-evaluation, which classes of controller failure can be detected, locally repaired, or rejected without relying on unrestricted human-in-the-loop judgment? The proposed framework treats the controller as a finite revisable object. Diagnostic failures are mapped to predefined rule-level edits, including rule addition, rule deletion, and priority revision. Repaired controllers are then evaluated on held-out simulation seeds or cloned initial states. Experiments in a stylized financially constrained inventory-control benchmark show three outcomes: resource-induced failures that remain non-repairable by one rule edit, partial repairs that are rejected because they violate thresholds or guardrails, and a local one-step repair of an order-volatility failure induced by removing a smoothing rule. The contribution is methodological and provides a simulation-compatible procedure for testing whether specific controller-level failures can be made observable, explainable, locally revisable, and empirically re-tested under controlled conditions.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T16:30:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.09770v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

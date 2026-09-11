@@ -390,6 +390,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.20720v2](http://arxiv.org/abs/2601.20720v2)
 
+## Gaussian Belief Propagation Network for Depth Completion
+- **ID**: arxiv_2601.21291v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.21291v3](http://arxiv.org/abs/2601.21291v3)
+
 ## Deep Models, Shallow Alignment: Uncovering the Granularity Mismatch in Neural Decoding
 - **ID**: arxiv_2601.21948v2
 - **Source**: ArXiv
@@ -1114,6 +1119,11 @@
 - **ID**: arxiv_2606.20563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20563v1](http://arxiv.org/abs/2606.20563v1)
+
+## ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation
+- **ID**: arxiv_2606.23835v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.23835v3](http://arxiv.org/abs/2606.23835v3)
 
 ## SCoPE: Sightline-Coordinate Positional Encoding for Video Diffusion Transformers
 - **ID**: arxiv_2606.27345v3
@@ -2720,6 +2730,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.12314v1](http://arxiv.org/abs/2608.12314v1)
 
+## StreamTTT: Reconciling Real-Time Perception and Long-Term Memory in Streaming VLMs
+- **ID**: arxiv_2608.13416v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.13416v4](http://arxiv.org/abs/2608.13416v4)
+
 ## UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models
 - **ID**: arxiv_2608.13453v1
 - **Source**: ArXiv
@@ -3939,4 +3954,29 @@
 - **ID**: arxiv_2609.10540v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10540v1](http://arxiv.org/abs/2609.10540v1)
+
+## Logit Refiner: Improving Visual Autoregressive Models via Intra-Scale Dependency Modeling
+- **ID**: arxiv_2609.11804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11804v1](http://arxiv.org/abs/2609.11804v1)
+
+## Guided Super-Resolution of Digital Elevation Models with Diffusion-Based Image Generators
+- **ID**: arxiv_2609.11886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11886v1](http://arxiv.org/abs/2609.11886v1)
+
+## 3D Point Splatting for mmWave Radar Novel View Synthesis
+- **ID**: arxiv_2609.11894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11894v1](http://arxiv.org/abs/2609.11894v1)
+
+## Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding
+- **ID**: arxiv_2609.11899v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11899v1](http://arxiv.org/abs/2609.11899v1)
+
+## SenseNova-U1.5: Towards Native Unified Visual Intelligence
+- **ID**: arxiv_2609.11929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11929v1](http://arxiv.org/abs/2609.11929v1)
 

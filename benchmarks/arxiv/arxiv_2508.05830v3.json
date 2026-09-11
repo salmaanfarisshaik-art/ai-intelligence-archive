@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.05830v3",
+  "schema_version": "1.0",
+  "name": "\"Mirror\" Large Language Model Evaluations of Depression are Criterion Contaminated",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.05830v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.05830v3",
+    "updated": "2026-09-10T16:39:44Z",
+    "published": "2025-08-07T20:13:00Z",
+    "title": "\"Mirror\" Large Language Model Evaluations of Depression are Criterion Contaminated",
+    "summary": "Large Language Model (LLM) studies that use language responses elicited from depression assessments to predict scores on those same assessments often report near-perfect prediction of depression. We refer to these as \"Mirror\" evaluations and demonstrate an applied case of criterion contamination. N = 110 participants completed both structured diagnostic depression interviews (Mirror condition) and life history interviews (\"Non-Mirror\" condition). LLMs were prompted to predict depression scores in each condition. As expected, Mirror evaluations were near-perfect. However, Non-Mirror evaluations also displayed prediction sizes considered outstanding in psychology. Further, both Mirror and Non-Mirror predictions correlated with Patient Health Questionnaire-9 scores at similar sizes, suggesting the Mirror condition's advantage collapses when predicting an independent depression measurement. Topic modeling revealed differing depression-related themes across interview types. Mirror evaluations are better considered as reliability evaluations than as validity evaluations. Incorporating Non-Mirror approaches in LLM depression assessment may support more valid and clinically-relevant applications. Keywords: large language models, psychological assessment, psychopathology, depression, reliability, validity, criterion contamination",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T16:39:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.05830v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

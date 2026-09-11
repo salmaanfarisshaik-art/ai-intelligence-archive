@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19147v1](http://arxiv.org/abs/2608.19147v1)
 
+## GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay
+- **ID**: arxiv_2609.11923v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11923v1](http://arxiv.org/abs/2609.11923v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11772v1",
+  "schema_version": "1.0",
+  "name": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11772v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11772v1",
+    "updated": "2026-09-10T16:27:47Z",
+    "published": "2026-09-10T16:27:47Z",
+    "title": "Whisper-Based Speech Transcription from Videos Across Multiple Languages for Cross-Cultural Understanding",
+    "summary": "Cross-cultural understanding has become increasingly important in today's highly connected, cross-national world. The success of LLM-based technologies is now driving the development of automated tools to aid understanding for nonnative people trying to succeed in cross-cultural environments. Building such automated tools is often done by leveraging in-thewild text, audio, and video data. This paper presents techniques for improving speech recognition-based transcript creation in multiple languages from videos to better train these automated tools. The focus is on processes and speech tools that can easily be used by cross-cultural tool builders without requiring deep speech processing expertise. Using publicly available videos from YouTube and Whisper-based tools, average transcription error rate across seven languages (Spanish, Japanese, Korean, Mandarin, Turkish, Russian, and Hebrew) of 30% are observed. With a modest amount of fine-tuning data, the average error rate can be reduced to 20% making such output much more usable for downstream processing. Speech and metadata associated with these videos that can be used by the community to further refine these experiments are released as well.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T16:27:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11772v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

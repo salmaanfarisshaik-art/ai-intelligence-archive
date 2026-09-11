@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.23835v3",
+  "schema_version": "1.0",
+  "name": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.23835v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.23835v3",
+    "updated": "2026-09-10T17:09:47Z",
+    "published": "2026-06-22T18:16:31Z",
+    "title": "ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation",
+    "summary": "We present ABACUS, a unified vision-language model that jointly addresses object counting, crowd counting, referring-expression counting, and count-faithful image generation within a single 3B-parameter model. ABACUS introduces three contributions: density-aware adaptive zooming paired with an objectness map from multi-head self-attention decomposition to spatially ground count predictions; a boundary-aware count policy trained via GRPO with nested local, boundary, and global rewards to eliminate over- and undercounting at crop boundaries; and a cycle-consistent GRPO strategy in which the frozen understanding branch scores generated candidates on count-deviation and aesthetic quality, closing the understanding-generation synergy gap without any external critic or annotation. ABACUS achieves state-of-the-art results across seven benchmarks spanning object counting (FSC-147, CARPK), crowd counting (ShanghaiTech A/B), referring-expression counting (REC-8K), count-faithful generation (CoCoCount, T2I-CompBench, GenEval), and count reasoning (CountQA), surpassing both task-specific specialists and larger generalist models. Project page is at https://mondalanindya.github.io/pages/ABACUS.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-11T08:34:25Z",
+  "last_updated": "2026-09-10T17:09:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.23835v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

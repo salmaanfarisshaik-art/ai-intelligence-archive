@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19325v1](http://arxiv.org/abs/2606.19325v1)
 
+## Adaptive Perturbation Selection for Contrastive Audio Decoding
+- **ID**: arxiv_2607.00247v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00247v3](http://arxiv.org/abs/2607.00247v3)
+
 ## Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering
 - **ID**: arxiv_2607.20253v1
 - **Source**: ArXiv
