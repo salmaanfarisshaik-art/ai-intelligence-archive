@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:17:13.835555+00:00",
+  "generated_at": "2026-09-11T17:33:53.396075+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -119505,6 +119505,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_cvssp_wavcaps",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_cwl1_b_iaild",
       "label": ""
     },
@@ -120530,6 +120535,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_harborframework_terminal_bench_science",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hariikun_gt",
       "label": ""
     },
@@ -120856,6 +120866,11 @@
     {
       "category": "datasets",
       "id": "dataset_huggingface_documentation_images",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_huggingface_projects_drlc_leaderboard_data",
       "label": ""
     },
     {
@@ -122630,6 +122645,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_inclusionai_conceptedit_12m",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_inclusionai_openaoe_2000h",
       "label": ""
     },
@@ -123096,6 +123116,11 @@
     {
       "category": "datasets",
       "id": "dataset_kcimc_nuforc",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_kelvin34501_oakink_v2",
       "label": ""
     },
     {
@@ -123970,6 +123995,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_meshllm_catalog",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_meta_agents_research_environments_gaia2",
       "label": ""
     },
@@ -124335,6 +124365,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_nebius_swe_bench_extra",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_nebius_swe_rebench",
       "label": ""
     },
@@ -124411,6 +124446,11 @@
     {
       "category": "datasets",
       "id": "dataset_nicoboou_idrcell100k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_nightgoodl_lasa1m_annotate_part_09",
       "label": ""
     },
     {
@@ -125421,6 +125461,11 @@
     {
       "category": "datasets",
       "id": "dataset_r2e_gym_r2e_gym_lite",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_r2e_gym_r2e_gym_v1",
       "label": ""
     },
     {
@@ -127296,6 +127341,11 @@
     {
       "category": "datasets",
       "id": "dataset_yyyzzzzyyy_envss",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_yzwwxm_oi_dev",
       "label": ""
     },
     {
@@ -139470,6 +139520,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_qwen2_5_14b_uncensored_instruct_gguf",
+      "label": "bartowski/Qwen2.5-14B_Uncensored_Instruct-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_qwen2_5_1_5b_instruct_gguf",
       "label": "bartowski/Qwen2.5-1.5B-Instruct-GGUF"
     },
@@ -140177,6 +140232,11 @@
       "category": "models",
       "id": "model_deepseek_ai_deepseek_v3_2_exp",
       "label": "deepseek-ai/DeepSeek-V3.2-Exp"
+    },
+    {
+      "category": "models",
+      "id": "model_deepseek_ai_deepseek_v4_1_flash",
+      "label": "deepseek-ai/DeepSeek-V4.1-Flash"
     },
     {
       "category": "models",
@@ -141277,6 +141337,11 @@
       "category": "models",
       "id": "model_incoai_qwen3_8_27b_dflash2_gguf",
       "label": "incoai/Qwen3.8-27B-DFlash2-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_inferact_glm_5_3_nvfp4",
+      "label": "Inferact/GLM-5.3-NVFP4"
     },
     {
       "category": "models",
@@ -143600,6 +143665,11 @@
     },
     {
       "category": "models",
+      "id": "model_omlab_vlx_seek_1_5_10b",
+      "label": "omlab/VLX-Seek-1.5-10B"
+    },
+    {
+      "category": "models",
       "id": "model_omni_research_tarsier_7b",
       "label": "omni-research/Tarsier-7b"
     },
@@ -143687,6 +143757,11 @@
       "category": "models",
       "id": "model_openbmb_minicpm5_2b",
       "label": "openbmb/MiniCPM5-2B"
+    },
+    {
+      "category": "models",
+      "id": "model_openbmb_minicpm5_2b_dspark",
+      "label": "openbmb/MiniCPM5-2B-DSpark"
     },
     {
       "category": "models",
@@ -144007,6 +144082,11 @@
       "category": "models",
       "id": "model_phalacloud_glm_5_2_w4afp8",
       "label": "PhalaCloud/GLM-5.2-W4AFP8"
+    },
+    {
+      "category": "models",
+      "id": "model_pipecat_ai_phonellm_alpha_1",
+      "label": "pipecat-ai/phonellm-alpha-1"
     },
     {
       "category": "models",
@@ -145000,6 +145080,11 @@
     },
     {
       "category": "models",
+      "id": "model_radixark_inkling_small_dspark_preview",
+      "label": "RadixArk/Inkling-Small-DSpark-Preview"
+    },
+    {
+      "category": "models",
       "id": "model_radixark_kimi_k3_dspark",
       "label": "RadixArk/Kimi-K3-DSpark"
     },
@@ -145122,6 +145207,11 @@
       "category": "models",
       "id": "model_redhatai_meta_llama_3_8b_instruct_fp8_kv",
       "label": "RedHatAI/Meta-Llama-3-8B-Instruct-FP8-KV"
+    },
+    {
+      "category": "models",
+      "id": "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8",
+      "label": "RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8"
     },
     {
       "category": "models",
@@ -145617,6 +145707,11 @@
       "category": "models",
       "id": "model_tencent_hy_mt1_5_1_8b",
       "label": "tencent/HY-MT1.5-1.8B"
+    },
+    {
+      "category": "models",
+      "id": "model_tencent_hy_mt1_5_1_8b_fp8",
+      "label": "tencent/HY-MT1.5-1.8B-FP8"
     },
     {
       "category": "models",
@@ -444015,5 +444110,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 88802
+  "total_nodes": 88821
 }

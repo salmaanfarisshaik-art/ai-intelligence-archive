@@ -1189,6 +1189,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_cvssp_wavcaps
+- **Source**: 
+
+## 
 - **ID**: dataset_cwl1_b_iaild
 - **Source**: 
 
@@ -2009,6 +2013,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_harborframework_terminal_bench_science
+- **Source**: 
+
+## 
 - **ID**: dataset_hariikun_gt
 - **Source**: 
 
@@ -2270,6 +2278,10 @@
 
 ## 
 - **ID**: dataset_huggingface_documentation_images
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingface_projects_drlc_leaderboard_data
 - **Source**: 
 
 ## 
@@ -3689,6 +3701,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_inclusionai_conceptedit_12m
+- **Source**: 
+
+## 
 - **ID**: dataset_inclusionai_openaoe_2000h
 - **Source**: 
 
@@ -4062,6 +4078,10 @@
 
 ## 
 - **ID**: dataset_kcimc_nuforc
+- **Source**: 
+
+## 
+- **ID**: dataset_kelvin34501_oakink_v2
 - **Source**: 
 
 ## 
@@ -4761,6 +4781,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_meshllm_catalog
+- **Source**: 
+
+## 
 - **ID**: dataset_meta_agents_research_environments_gaia2
 - **Source**: 
 
@@ -5053,6 +5077,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nebius_swe_bench_extra
+- **Source**: 
+
+## 
 - **ID**: dataset_nebius_swe_rebench
 - **Source**: 
 
@@ -5114,6 +5142,10 @@
 
 ## 
 - **ID**: dataset_nicoboou_idrcell100k
+- **Source**: 
+
+## 
+- **ID**: dataset_nightgoodl_lasa1m_annotate_part_09
 - **Source**: 
 
 ## 
@@ -5922,6 +5954,10 @@
 
 ## 
 - **ID**: dataset_r2e_gym_r2e_gym_lite
+- **Source**: 
+
+## 
+- **ID**: dataset_r2e_gym_r2e_gym_v1
 - **Source**: 
 
 ## 
@@ -7422,6 +7458,10 @@
 
 ## 
 - **ID**: dataset_yyyzzzzyyy_envss
+- **Source**: 
+
+## 
+- **ID**: dataset_yzwwxm_oi_dev
 - **Source**: 
 
 ## 

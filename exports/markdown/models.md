@@ -528,6 +528,10 @@
 - **ID**: model_bartowski_qwen2_5_14b_instruct_gguf
 - **Source**: 
 
+## bartowski/Qwen2.5-14B_Uncensored_Instruct-GGUF
+- **ID**: model_bartowski_qwen2_5_14b_uncensored_instruct_gguf
+- **Source**: 
+
 ## bartowski/Qwen2.5-1.5B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_1_5b_instruct_gguf
 - **Source**: 
@@ -1094,6 +1098,10 @@
 
 ## deepseek-ai/DeepSeek-V3.2-Exp
 - **ID**: model_deepseek_ai_deepseek_v3_2_exp
+- **Source**: 
+
+## deepseek-ai/DeepSeek-V4.1-Flash
+- **ID**: model_deepseek_ai_deepseek_v4_1_flash
 - **Source**: 
 
 ## deepseek-ai/DeepSeek-V4-Flash
@@ -1974,6 +1982,10 @@
 
 ## incoai/Qwen3.8-27B-DFlash2-GGUF
 - **ID**: model_incoai_qwen3_8_27b_dflash2_gguf
+- **Source**: 
+
+## Inferact/GLM-5.3-NVFP4
+- **ID**: model_inferact_glm_5_3_nvfp4
 - **Source**: 
 
 ## Inferact/Kimi-K3-DSpark
@@ -3832,6 +3844,10 @@
 - **ID**: model_ocicek_qwen3_6_27b_nvfp4
 - **Source**: 
 
+## omlab/VLX-Seek-1.5-10B
+- **ID**: model_omlab_vlx_seek_1_5_10b
+- **Source**: 
+
 ## omni-research/Tarsier-7b
 - **ID**: model_omni_research_tarsier_7b
 - **Source**: 
@@ -3902,6 +3918,10 @@
 
 ## openbmb/MiniCPM5-2B
 - **ID**: model_openbmb_minicpm5_2b
+- **Source**: 
+
+## openbmb/MiniCPM5-2B-DSpark
+- **ID**: model_openbmb_minicpm5_2b_dspark
 - **Source**: 
 
 ## openbmb/MiniCPM5-2B-GGUF
@@ -4158,6 +4178,10 @@
 
 ## PhalaCloud/GLM-5.2-W4AFP8
 - **ID**: model_phalacloud_glm_5_2_w4afp8
+- **Source**: 
+
+## pipecat-ai/phonellm-alpha-1
+- **ID**: model_pipecat_ai_phonellm_alpha_1
 - **Source**: 
 
 ## pipenetwork/GLM-5.2-REAP50-Q3_K_M-GGUF
@@ -4952,6 +4976,10 @@
 - **ID**: model_r0b0tlab_agents_a1_nvfp4
 - **Source**: 
 
+## RadixArk/Inkling-Small-DSpark-Preview
+- **ID**: model_radixark_inkling_small_dspark_preview
+- **Source**: 
+
 ## RadixArk/Kimi-K3-DSpark
 - **ID**: model_radixark_kimi_k3_dspark
 - **Source**: 
@@ -5050,6 +5078,10 @@
 
 ## RedHatAI/Meta-Llama-3-8B-Instruct-FP8-KV
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
+- **Source**: 
+
+## RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8
+- **ID**: model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8
 - **Source**: 
 
 ## RedHatAI/phi-4-FP8-dynamic
@@ -5446,6 +5478,10 @@
 
 ## tencent/HY-MT1.5-1.8B
 - **ID**: model_tencent_hy_mt1_5_1_8b
+- **Source**: 
+
+## tencent/HY-MT1.5-1.8B-FP8
+- **ID**: model_tencent_hy_mt1_5_1_8b_fp8
 - **Source**: 
 
 ## tencent/Hy-MT2-1.8B
