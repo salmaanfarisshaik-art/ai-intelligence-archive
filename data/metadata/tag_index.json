@@ -36,6 +36,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Flash",
     "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
     "hf_deepseek-ai_DeepSeek-V4-Pro",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
@@ -85,10 +86,12 @@
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "Model Optimizer": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "ModelOpt": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -96,6 +99,7 @@
     "hf_ds_621ffdd236468d709f181fa6"
   ],
   "NVFP4": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
   "OpenCOOD": [
@@ -888,6 +892,9 @@
   "base_model:google/gemma-3-1b-pt": [
     "hf_google_gemma-3-1b-it"
   ],
+  "base_model:google/gemma-4-26B-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
   "base_model:google/gemma-4-31B-it": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
   ],
@@ -926,6 +933,9 @@
   ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
+  ],
+  "base_model:quantized:google/gemma-4-26B-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "base_model:quantized:google/gemma-4-31B-it": [
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
@@ -1058,6 +1068,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -1731,7 +1742,11 @@
   "gemma4": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4"
+  ],
+  "gemma4-26b-A4B-it": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "generalist-agent": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -4117,6 +4132,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_ibm-granite_granite-4.1-8b",
     "hf_llamafactory_tiny-random-Llama-3",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
@@ -4549,6 +4565,7 @@
     "hf_distilbert_distilgpt2"
   ],
   "modelopt": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
@@ -4656,7 +4673,11 @@
   "nuScenes": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "nvfp4": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
+  ],
   "nvidia": [
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -4826,6 +4847,7 @@
   "quantized": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_antirez_deepseek-v4-gguf",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
@@ -5136,6 +5158,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -5244,6 +5267,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
@@ -5860,6 +5884,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
+    "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",

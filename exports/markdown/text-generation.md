@@ -3811,6 +3811,7 @@
 - **ID**: hf_nvidia_Gemma-4-26B-A4B-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4](https://huggingface.co/nvidia/Gemma-4-26B-A4B-NVFP4)
+- **Tags**: 8-bit, Model Optimizer, ModelOpt, NVFP4, base_model:google/gemma-4-26B-A4B-it, base_model:quantized:google/gemma-4-26B-A4B-it, conversational, gemma4, gemma4-26b-A4B-it, license:apache-2.0, modelopt, nvfp4, nvidia, quantized, region:us, safetensors, text-generation
 
 ## nvidia/Gemma-4-31B-IT-NVFP4
 - **ID**: hf_nvidia_Gemma-4-31B-IT-NVFP4

@@ -6656,6 +6656,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_ibm_granite_granite_4_2_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -53821,11 +53826,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_bulei_imgbed",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_bwarner_inference_scratch",
       "match_type": "exact",
       "score": 1.5
@@ -66436,6 +66436,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_chatdb_natural_sql_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_coherelabs_aya_expanse_8b",
       "match_type": "exact",
       "score": 1.5
@@ -66522,6 +66527,11 @@
     },
     {
       "entity_id": "model_skt_a_x_k2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_skt_a_x_k2_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -91106,6 +91116,13 @@
       "entity_id": "hf_ds_69cf1925c61c6c0fbb866b5d",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "chatdb": [
+    {
+      "entity_id": "model_chatdb_natural_sql_7b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "chateaux": [
@@ -129510,6 +129527,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_dcostenco_smollm2_360m_aac_watch",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_google_medgemma_27b_text_it",
       "match_type": "exact",
       "score": 1.5
@@ -145611,6 +145633,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_poolside_laguna_xs_2_1_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_prithivmlmods_vibethinker_3b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -145867,6 +145894,11 @@
     },
     {
       "entity_id": "model_skt_a_x_k2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_skt_a_x_k2_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -148359,6 +148391,11 @@
     },
     {
       "entity_id": "dataset_microsoft_rstar_coder",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_chatdb_natural_sql_7b",
       "match_type": "exact",
       "score": 3.0
     },
@@ -175209,6 +175246,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_dcostenco_smollm2_360m_aac_watch",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "alpaca_-1007028157220332361",
       "match_type": "exact",
       "score": 1.0
@@ -186115,6 +186157,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_qwen_qwen3_1_7b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_qwen_qwen3_8b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -186335,6 +186382,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_chatdb_natural_sql_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_chbae624_vllm_translategemma_12b_it",
       "match_type": "exact",
       "score": 1.5
@@ -186511,6 +186563,11 @@
     },
     {
       "entity_id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dcostenco_smollm2_360m_aac_watch",
       "match_type": "exact",
       "score": 1.5
     },
@@ -187471,6 +187528,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_4_1_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_8b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -204308,6 +204370,11 @@
     },
     {
       "entity_id": "model_poolside_laguna_s_2_1_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_poolside_laguna_xs_2_1_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -252307,6 +252374,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_qwen_qwen3_1_7b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_qwen_qwen3_8b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -252487,6 +252559,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_chatdb_natural_sql_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_chbae624_vllm_translategemma_12b_it",
       "match_type": "exact",
       "score": 1.5
@@ -252663,6 +252740,11 @@
     },
     {
       "entity_id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dcostenco_smollm2_360m_aac_watch",
       "match_type": "exact",
       "score": 1.5
     },
@@ -253433,6 +253515,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_4_1_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_8b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -255807,6 +255894,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_poolside_laguna_xs_2_1_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_prefeitura_rio_rio_3_0_open_mini",
       "match_type": "exact",
       "score": 1.5
@@ -257013,6 +257105,11 @@
     },
     {
       "entity_id": "model_skt_a_x_k2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_skt_a_x_k2_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },
@@ -287979,6 +288076,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_dcostenco_smollm2_360m_aac_watch",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_duoneural_gemma4_12b_it_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -318154,6 +318256,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_ibm_granite_granite_4_2_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_microsoft_phi_4_mini_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -340745,6 +340852,11 @@
     },
     {
       "entity_id": "model_poolside_laguna_xs_2_1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_poolside_laguna_xs_2_1_nvfp4",
       "match_type": "exact",
       "score": 1.5
     },

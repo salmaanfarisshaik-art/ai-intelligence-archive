@@ -138,17 +138,17 @@
 
 ## Top Tags
 
-- **region:us**: 245
-- **text-generation**: 77
+- **region:us**: 246
+- **text-generation**: 78
 - **library:datasets**: 75
 - **library:mlcroissant**: 75
 - **modality:text**: 71
 - **endpoints_compatible**: 66
+- **safetensors**: 66
 - **transformers**: 66
-- **safetensors**: 65
+- **license:apache-2.0**: 65
 - **language:en**: 64
-- **license:apache-2.0**: 64
-- **conversational**: 60
+- **conversational**: 61
 - **library:polars**: 58
 - **format:parquet**: 46
 - **license:mit**: 45
