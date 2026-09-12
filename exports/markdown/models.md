@@ -4996,6 +4996,10 @@
 - **ID**: model_r0b0tlab_agents_a1_nvfp4
 - **Source**: 
 
+## RadixArk/GLM-5.3-NVFP4
+- **ID**: model_radixark_glm_5_3_nvfp4
+- **Source**: 
+
 ## RadixArk/Inkling-Small-DSpark-Preview
 - **ID**: model_radixark_inkling_small_dspark_preview
 - **Source**: 

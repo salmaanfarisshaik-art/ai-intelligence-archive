@@ -49,6 +49,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_actiquest_dev_tarakanov_notes
+- **Source**: 
+
+## 
 - **ID**: dataset_activevla_activevla
 - **Source**: 
 
@@ -590,6 +594,10 @@
 
 ## 
 - **ID**: dataset_atom_in_the_universe_bild_deduped_10
+- **Source**: 
+
+## 
+- **ID**: dataset_atom_in_the_universe_bild_deduped_3
 - **Source**: 
 
 ## 
@@ -1142,6 +1150,10 @@
 
 ## 
 - **ID**: dataset_common_canvas_commoncatalog_cc_by
+- **Source**: 
+
+## 
+- **ID**: dataset_common_canvas_commoncatalog_cc_by_nc_sa
 - **Source**: 
 
 ## 
@@ -2745,6 +2757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn11_content_2026082225a2
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn12_content_20260425bc6f
 - **Source**: 
 
@@ -3614,6 +3630,10 @@
 
 ## 
 - **ID**: dataset_icdn22_content_20260815e8a0
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn22_content_20260823eab1
 - **Source**: 
 
 ## 
@@ -5145,11 +5165,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nightgoodl_lasa1m_annotate_part_06
+- **Source**: 
+
+## 
 - **ID**: dataset_nightgoodl_lasa1m_annotate_part_09
 - **Source**: 
 
 ## 
 - **ID**: dataset_nightgoodl_lasa1m_annotate_part_12
+- **Source**: 
+
+## 
+- **ID**: dataset_nightgoodl_lasa1m_annotate_part_14
 - **Source**: 
 
 ## 
@@ -5202,6 +5230,10 @@
 
 ## 
 - **ID**: dataset_novel_biomedai_medical_segmentation_decathlon
+- **Source**: 
+
+## 
+- **ID**: dataset_ntu_nlp_sg_xcodeeval
 - **Source**: 
 
 ## 
@@ -5901,6 +5933,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pulmo_ncbi_genbank_complete
+- **Source**: 
+
+## 
 - **ID**: dataset_pwc_archive_evaluation_tables
 - **Source**: 
 
@@ -6106,6 +6142,10 @@
 
 ## 
 - **ID**: dataset_robotooldataset_tooldex_data
+- **Source**: 
+
+## 
+- **ID**: dataset_roboverseorg_roboverse_data
 - **Source**: 
 
 ## 
@@ -6762,6 +6802,10 @@
 
 ## 
 - **ID**: dataset_teetone_roboreward
+- **Source**: 
+
+## 
+- **ID**: dataset_teknium_openhermes_2_5
 - **Source**: 
 
 ## 
