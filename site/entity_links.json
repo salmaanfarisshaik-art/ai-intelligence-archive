@@ -1,6 +1,11 @@
 {
-  "generated_at": "2026-09-12T10:10:26Z",
+  "generated_at": "2026-09-12T13:56:17Z",
   "links": [
+    {
+      "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
     {
       "source_id": "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
       "target_id": "hf_google_gemma-3-1b-it",
@@ -6724,6 +6729,11 @@
     {
       "source_id": "model_r0b0tlab_agents_a1_nvfp4",
       "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_radixark_glm_5_3_nvfp4",
+      "target_id": "hf_zai-org_GLM-5.3-BF16",
       "type": "derived_from"
     },
     {

@@ -572,6 +572,10 @@
 - **ID**: model_bartowski_qwen_qwen3_14b_gguf
 - **Source**: 
 
+## bartowski/Qwen_Qwen3-1.7B-GGUF
+- **ID**: model_bartowski_qwen_qwen3_1_7b_gguf
+- **Source**: 
+
 ## bartowski/Qwen_Qwen3-8B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_8b_gguf
 - **Source**: 
@@ -788,6 +792,10 @@
 - **ID**: model_chantalpellegrini_radialog_interactive_radiology_report_generation
 - **Source**: 
 
+## chatdb/natural-sql-7b
+- **ID**: model_chatdb_natural_sql_7b
+- **Source**: 
+
 ## chbae624/vllm-translategemma-12b-it
 - **ID**: model_chbae624_vllm_translategemma_12b_it
 - **Source**: 
@@ -954,6 +962,10 @@
 
 ## DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf
 - **ID**: model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf
+- **Source**: 
+
+## dcostenco/smollm2-360m-aac-watch
+- **ID**: model_dcostenco_smollm2_360m_aac_watch
 - **Source**: 
 
 ## deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
@@ -1914,6 +1926,10 @@
 
 ## ibm-granite/granite-4.1-8b
 - **ID**: model_ibm_granite_granite_4_1_8b
+- **Source**: 
+
+## ibm-granite/granite-4.2-8b
+- **ID**: model_ibm_granite_granite_4_2_8b
 - **Source**: 
 
 ## ibm-granite/granite-docling-258M
@@ -4216,6 +4232,10 @@
 - **ID**: model_poolside_laguna_xs_2_1_gguf
 - **Source**: 
 
+## poolside/Laguna-XS-2.1-NVFP4
+- **ID**: model_poolside_laguna_xs_2_1_nvfp4
+- **Source**: 
+
 ## prefeitura-rio/Rio-3.0-Open-Mini
 - **ID**: model_prefeitura_rio_rio_3_0_open_mini
 - **Source**: 
@@ -5298,6 +5318,10 @@
 
 ## skt/A.X-K2
 - **ID**: model_skt_a_x_k2
+- **Source**: 
+
+## skt/A.X-K2-NVFP4
+- **ID**: model_skt_a_x_k2_nvfp4
 - **Source**: 
 
 ## skt/kogpt2-base-v2

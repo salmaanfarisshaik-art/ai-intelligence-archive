@@ -136,6 +136,9 @@
   "Waymo": [
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
+  "abliterated": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
+  ],
   "academic-papers": [
     "hf_ds_6947232e01886522f0154ff9"
   ],
@@ -821,6 +824,7 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "base_model:Qwen/Qwen3.8-27B": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
   ],
   "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
@@ -926,6 +930,7 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "base_model:quantized:Qwen/Qwen3.8-27B": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
   ],
   "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
@@ -1028,6 +1033,7 @@
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "conversational": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
@@ -1438,6 +1444,7 @@
     "hf_ds_6700058973753b82f145eb1d"
   ],
   "endpoints_compatible": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
@@ -1758,6 +1765,7 @@
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
   "gguf": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_antirez_deepseek-v4-gguf",
@@ -1834,6 +1842,9 @@
   "healthcare": [
     "hf_ds_69cf1925c61c6c0fbb866b5d"
   ],
+  "heretic": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
+  ],
   "hi": [
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct"
@@ -1871,6 +1882,7 @@
     "hf_vikhyatk_moondream2"
   ],
   "imatrix": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
@@ -4077,6 +4089,7 @@
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
   "license:apache-2.0": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -4889,7 +4902,11 @@
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
+  "qwen3.5": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
+  ],
   "qwen3.8": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
   ],
   "qwen3_5": [
@@ -4936,6 +4953,7 @@
     "redis-caching-layer-implementation"
   ],
   "region:us": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
@@ -5213,6 +5231,9 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a7460ebf3031d8573c2fe30"
+  ],
+  "roleplay": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
   ],
   "rust": [
     "hf_distilbert_distilgpt2",
@@ -5830,6 +5851,7 @@
     "hf_Qwen_Qwen3-Embedding-8B"
   ],
   "text-generation": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
@@ -5981,6 +6003,7 @@
     "hf_ds_6700058973753b82f145eb1d"
   ],
   "transformers": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -6071,6 +6094,7 @@
     "react-component-scaffolder"
   ],
   "uncensored": [
+    "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
   ],

@@ -4329,6 +4329,13 @@
       "score": 1.0
     }
   ],
+  "03004": [
+    {
+      "entity_id": "dataset_ntu_nlp_sg_xcodeeval",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "03011": [
     {
       "entity_id": "dataset_zai_org_longbench",
@@ -11037,6 +11044,11 @@
     }
   ],
   "0bserverx": [
+    {
+      "entity_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
       "match_type": "exact",

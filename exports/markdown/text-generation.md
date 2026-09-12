@@ -10,6 +10,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/01-ai/Yi-6B-Chat](https://huggingface.co/01-ai/Yi-6B-Chat)
 
+## 0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+- **ID**: hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF](https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF)
+- **Tags**: abliterated, base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B, conversational, endpoints_compatible, gguf, heretic, imatrix, license:apache-2.0, qwen3.5, qwen3.8, region:us, roleplay, text-generation, transformers, uncensored
+
 ## AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16
 - **ID**: hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16
 - **Source**: Hugging Face
