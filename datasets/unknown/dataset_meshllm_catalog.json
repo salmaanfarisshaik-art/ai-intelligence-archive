@@ -4,10 +4,10 @@
   "author": "meshllm",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-09-12T23:28:00.000Z",
+  "lastModified": "2026-09-13T02:53:53.000Z",
   "likes": 0,
   "private": false,
-  "sha": "8c4cb03bb4abdef4741c9fd247df68bea407ed34",
+  "sha": "4e7f15c9af0dae83ab86a9d36cac1d000ddced84",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMesh-LLM Catalog\n\t\n\nThis dataset is the Hugging Face-backed catalog for Mesh-LLM.\nThe runtime catalog entries live under entries/**/*.json. The Dataset Viewer\nuses catalog_rows.jsonl, a flat generated table with one row per model variant.\nThe catalog deliberately excludes raw blob URLs. Entries should resolve to\nHugging Face repositories and canonical Mesh refs.\n",
   "downloads": 35995,
   "tags": [
