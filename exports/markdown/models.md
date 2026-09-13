@@ -3444,6 +3444,10 @@
 - **ID**: model_nerkyor_qwen3_6_35b_a3b_dsv4pro_thinking_distill
 - **Source**: 
 
+## nerkyor/Qwen3.8-27B-EfficientThink-Uncensored-K3-Opus5-Grok4.6-GPT5.6Sol-SFT-SimPO-DFlash2
+- **ID**: model_nerkyor_qwen3_8_27b_efficientthink_uncensored_k3_opus5_grok4_6_gpt5_6sol_sft_simpo_dflash2
+- **Source**: 
+
 ## neuralcrew/neutrino-instruct
 - **ID**: model_neuralcrew_neutrino_instruct
 - **Source**: 
@@ -5446,6 +5450,10 @@
 
 ## superwhisper/s1-mini-GGUF
 - **ID**: model_superwhisper_s1_mini_gguf
+- **Source**: 
+
+## SupraLabs/Supra2-100M-Instruct
+- **ID**: model_supralabs_supra2_100m_instruct
 - **Source**: 
 
 ## SupraLabs/Supra-50M-Reasoning
