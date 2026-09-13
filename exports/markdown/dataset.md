@@ -508,6 +508,12 @@
 - **URL**: [https://huggingface.co/datasets/ieasybooks-org/prophet-mosque-library](https://huggingface.co/datasets/ieasybooks-org/prophet-mosque-library)
 - **Tags**: format:csv, language:ar, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:text, region:us, size_categories:10K<n<100K, task_categories:image-to-text
 
+## sunblaze-ucb/cybergym
+- **ID**: hf_ds_68251f06823e816aeea2d9dc
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/sunblaze-ucb/cybergym](https://huggingface.co/datasets/sunblaze-ucb/cybergym)
+- **Tags**: format:json, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:1K<n<10K
+
 ## daniilakk/nbchr_pdfs
 - **ID**: hf_ds_683195b70ed0a5b1919c6f22
 - **Source**: HuggingFace Datasets

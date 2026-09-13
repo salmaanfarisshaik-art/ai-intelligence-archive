@@ -344,6 +344,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "hf_ds_68251f06823e816aeea2d9dc",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/ucb-exploration-via-q-ensembles",
       "match_type": "exact",
       "score": 2.0
@@ -3049,6 +3054,13 @@
       "score": 1.0
     }
   ],
+  "unadjusted": [
+    {
+      "entity_id": "dataset_neigezhu_china_a_share_1min_ohlcv",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "unaffected": [
     {
       "entity_id": "alpaca_3909628982816530985",
@@ -3866,6 +3878,11 @@
     },
     {
       "entity_id": "model_luffythefox_qwen3_5_9b_claude_4_6_opus_uncensored_distilled_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_nerkyor_qwen3_8_27b_efficientthink_uncensored_k3_opus5_grok4_6_gpt5_6sol_sft_simpo_dflash2",
       "match_type": "exact",
       "score": 3.5
     },
@@ -6066,6 +6083,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_1yunyi_weather",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_dolma3_longmino_mix_100b_1125",
       "match_type": "exact",
       "score": 1.0
@@ -6287,6 +6309,11 @@
     },
     {
       "entity_id": "dataset_sina272_hmdb51_fiftyone",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_skpark1_ngii_map_full_light",
       "match_type": "exact",
       "score": 1.0
     },
@@ -35676,6 +35703,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_james_ra_henry_rosetta_activations",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lichess_standard_chess_games",
       "match_type": "exact",
       "score": 1.0
@@ -36764,6 +36796,11 @@
     },
     {
       "entity_id": "alpaca_-3552569958158432484",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_1yunyi_weather",
       "match_type": "exact",
       "score": 1.0
     },
@@ -41478,6 +41515,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_1yunyi_weather",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_3dlg_hcvc_omages_abo",
       "match_type": "exact",
       "score": 1.5
@@ -44343,6 +44385,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_huggingfacem4_docmatix",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_huggingfacem4_finevision",
       "match_type": "exact",
       "score": 1.5
@@ -45908,6 +45955,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_icdn21_content_202608236476",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_icdn22_content_202607067fcf",
       "match_type": "exact",
       "score": 1.5
@@ -46239,6 +46291,11 @@
     },
     {
       "entity_id": "dataset_jakumetsu_mcpmark_trajectory_log",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_james_ra_henry_rosetta_activations",
       "match_type": "exact",
       "score": 1.5
     },
@@ -47088,6 +47145,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_m_a_p_finefineweb_sample",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_m_a_p_pin_200m",
       "match_type": "exact",
       "score": 1.5
@@ -47713,6 +47775,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nasa_impact_wxc_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_natgillin_translations_raw",
       "match_type": "exact",
       "score": 1.5
@@ -47754,6 +47821,11 @@
     },
     {
       "entity_id": "dataset_neelnanda_pile_10k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_neigezhu_china_a_share_1min_ohlcv",
       "match_type": "exact",
       "score": 1.5
     },
@@ -47823,7 +47895,17 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_05",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_06",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_07",
       "match_type": "exact",
       "score": 1.5
     },
@@ -47833,12 +47915,27 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_11",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_12",
       "match_type": "exact",
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_13",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_14",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nightgoodl_lasa1m_annotate_part_15",
       "match_type": "exact",
       "score": 1.5
     },
@@ -49489,6 +49586,11 @@
     },
     {
       "entity_id": "dataset_sjtu_ai4sports_soccerwiki",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_skpark1_ngii_map_full_light",
       "match_type": "exact",
       "score": 1.5
     },
@@ -55148,6 +55250,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nerkyor_qwen3_8_27b_efficientthink_uncensored_k3_opus5_grok4_6_gpt5_6sol_sft_simpo_dflash2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_neuralcrew_neutrino_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -57649,6 +57756,11 @@
     },
     {
       "entity_id": "model_superwhisper_s1_mini_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_supralabs_supra2_100m_instruct",
       "match_type": "exact",
       "score": 1.5
     },
@@ -69889,6 +70001,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_skpark1_ngii_map_full_light",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_snad_space_us_names_by_state",
       "match_type": "exact",
       "score": 1.0
@@ -78261,6 +78378,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacem4_docmatix",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacem4_the_cauldron",
       "match_type": "exact",
       "score": 1.0
@@ -85394,6 +85516,11 @@
     },
     {
       "entity_id": "dataset_music_arena_music_arena_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_neigezhu_china_a_share_1min_ohlcv",
       "match_type": "exact",
       "score": 1.0
     },
@@ -95611,6 +95738,11 @@
     },
     {
       "entity_id": "dataset_avocahdoe_slanext_wired_raw_datasets",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_james_ra_henry_rosetta_activations",
       "match_type": "exact",
       "score": 1.0
     },

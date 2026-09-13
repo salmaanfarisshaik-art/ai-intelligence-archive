@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T08:59:34Z",
+  "generated_at": "2026-09-13T13:45:24Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -7329,6 +7329,21 @@
     {
       "source_id": "model_superwhisper_s1_mini_gguf",
       "target_id": "hf_superwhisper_s1-mini",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_supralabs_supra2_100m_instruct",
+      "target_id": "hf_HuggingFaceFW_dclm_100BT-shuffled",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_supralabs_supra2_100m_instruct",
+      "target_id": "hf_HuggingFaceFW_fineweb-edu",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_supralabs_supra2_100m_instruct",
+      "target_id": "hf_SupraLabs_Supra2-100M-Base",
       "type": "derived_from"
     },
     {

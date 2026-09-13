@@ -444,6 +444,10 @@
 - **ID**: model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf
 - **Source**: 
 
+## bartowski/huihui-ai_Qwen3-14B-abliterated-GGUF
+- **ID**: model_bartowski_huihui_ai_qwen3_14b_abliterated_gguf
+- **Source**: 
+
 ## bartowski/huihui-ai_Qwen3-Coder-Next-abliterated-GGUF
 - **ID**: model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf
 - **Source**: 
@@ -5484,6 +5488,10 @@
 - **ID**: model_techxgenus_gemma_1_1_2b_it_gptq
 - **Source**: 
 
+## tencent/Hunyuan-7B-Instruct
+- **ID**: model_tencent_hunyuan_7b_instruct
+- **Source**: 
+
 ## tencent/Hunyuan-A13B-Instruct
 - **ID**: model_tencent_hunyuan_a13b_instruct
 - **Source**: 
@@ -6026,6 +6034,10 @@
 
 ## unsloth/Llama-3.2-1B-Instruct-bnb-4bit
 - **ID**: model_unsloth_llama_3_2_1b_instruct_bnb_4bit
+- **Source**: 
+
+## unsloth/Llama-3.2-1B-Instruct-GGUF
+- **ID**: model_unsloth_llama_3_2_1b_instruct_gguf
 - **Source**: 
 
 ## unsloth/Llama-3.2-1B-Instruct-unsloth-bnb-4bit

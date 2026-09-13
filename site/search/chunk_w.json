@@ -279,6 +279,11 @@
       "entity_id": "model_redhatai_qwen2_5_1_5b_quantized_w8a8",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_nerkyor_qwen3_8_27b_efficientthink_uncensored_k3_opus5_grok4_6_gpt5_6sol_sft_simpo_dflash2",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "w8w8": [
@@ -5001,6 +5006,11 @@
     },
     {
       "entity_id": "dataset_deepguess_wrf_250m_severe_weather",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingfacem4_docmatix",
       "match_type": "exact",
       "score": 1.0
     },
@@ -17615,6 +17625,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacem4_docmatix",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacetb_smoltalk",
       "match_type": "exact",
       "score": 1.0
@@ -23725,6 +23740,11 @@
     },
     {
       "entity_id": "alpaca_8892364448708522014",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nasa_impact_wxc_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -39777,6 +39797,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "dataset_1yunyi_weather",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "alpaca_-1702317054302853962",
       "match_type": "exact",
       "score": 4.0
@@ -40048,6 +40073,11 @@
     },
     {
       "entity_id": "dataset_jeongyh98_dsert_roll",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_nasa_impact_wxc_bench",
       "match_type": "exact",
       "score": 2.0
     },
@@ -42144,6 +42174,11 @@
     },
     {
       "entity_id": "dataset_m_a_p_finefineweb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_m_a_p_finefineweb_sample",
       "match_type": "exact",
       "score": 1.0
     },
@@ -145518,6 +145553,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfacem4_docmatix",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacem4_finevision",
       "match_type": "exact",
       "score": 1.0
@@ -195210,6 +195250,13 @@
       "entity_id": "alpaca_-6768006166038164513",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "wxc": [
+    {
+      "entity_id": "dataset_nasa_impact_wxc_bench",
+      "match_type": "exact",
+      "score": 4.0
     }
   ],
   "wyoming": [
