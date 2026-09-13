@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T03:18:25Z",
+  "generated_at": "2026-09-13T08:59:34Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -934,6 +934,11 @@
     {
       "source_id": "model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf",
       "target_id": "hf_huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_huihui_ai_qwen3_14b_abliterated_gguf",
+      "target_id": "hf_huihui-ai_Qwen3-14B-abliterated",
       "type": "derived_from"
     },
     {
@@ -7372,6 +7377,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_tencent_hunyuan_7b_instruct",
+      "target_id": "hf_tencent_Hunyuan-7B-Pretrain",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tencent_hunyuanocr",
       "target_id": "hf_tencent_HunyuanOCR",
       "type": "derived_from"
@@ -7898,6 +7908,11 @@
     },
     {
       "source_id": "model_unsloth_llama_3_2_1b_instruct_bnb_4bit",
+      "target_id": "hf_meta-llama_Llama-3.2-1B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_llama_3_2_1b_instruct_gguf",
       "target_id": "hf_meta-llama_Llama-3.2-1B-Instruct",
       "type": "derived_from"
     },

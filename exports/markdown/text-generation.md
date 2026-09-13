@@ -2495,7 +2495,7 @@
 - **ID**: hf_deepseek-ai_DeepSeek-V3.2
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-V3.2](https://huggingface.co/deepseek-ai/DeepSeek-V3.2)
-- **Tags**: base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base, base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base, conversational, deepseek_v32, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
+- **Tags**: base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base, base_model:finetune:deepseek-ai/DeepSeek-V3.2-Exp-Base, conversational, deepseek_v32, deploy:sagemaker, endpoints_compatible, eval-results, fp8, license:mit, region:us, safetensors, text-generation, transformers
 
 ## deepseek-ai/DeepSeek-V3.2-Exp
 - **ID**: hf_deepseek-ai_DeepSeek-V3.2-Exp
