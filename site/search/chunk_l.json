@@ -5408,11 +5408,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_malcolmrey_various",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_yanis236_fsc_180k",
       "match_type": "exact",
       "score": 1.0
@@ -26165,6 +26160,11 @@
     },
     {
       "entity_id": "arxiv_2609.04190v1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 1.0
     },
@@ -67413,6 +67413,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "dataset_ralphlabsai_ralph_v2_status",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "dataset_reactiveai_beta_pre_train_corpus",
       "match_type": "exact",
       "score": 6.0
@@ -67639,6 +67644,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 6.0
     },
@@ -70929,6 +70939,21 @@
     },
     {
       "entity_id": "dataset_facebook_seamless_interaction",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_2_1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_science",
       "match_type": "exact",
       "score": 1.5
     },
@@ -144995,11 +145020,6 @@
       "score": 4.0
     },
     {
-      "entity_id": "dataset_malcolmrey_various",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "arxiv_2606.00831v2",
       "match_type": "exact",
       "score": 2.0
@@ -154096,6 +154116,13 @@
   "ltn": [
     {
       "entity_id": "arxiv_2609.05388v1",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "ltx": [
+    {
+      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 1.0
     }

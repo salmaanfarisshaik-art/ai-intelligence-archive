@@ -2480,6 +2480,10 @@
 - **ID**: model_llmfan46_qwythos_9b_claude_mythos_5_1m_uncensored_heretic_gguf
 - **Source**: 
 
+## LLMSafety/Qwen2.5-Math-7B-4bit
+- **ID**: model_llmsafety_qwen2_5_math_7b_4bit
+- **Source**: 
+
 ## lmms-lab/llava-onevision-qwen2-7b-ov
 - **ID**: model_lmms_lab_llava_onevision_qwen2_7b_ov
 - **Source**: 
@@ -3952,6 +3956,10 @@
 - **ID**: model_openbmb_minicpm5_2b_gguf
 - **Source**: 
 
+## openbmb/MiniCPM5-2B-MLX
+- **ID**: model_openbmb_minicpm5_2b_mlx
+- **Source**: 
+
 ## openbmb/MiniCPM-2B-sft-bf16
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
@@ -4330,6 +4338,10 @@
 
 ## QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ
 - **ID**: model_quanttrio_qwen3_coder_30b_a3b_instruct_awq
+- **Source**: 
+
+## QuantTrio/Qwen3-Coder-30B-A3B-Instruct-GPTQ-Int8
+- **ID**: model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8
 - **Source**: 
 
 ## QuantTrio/Qwen3-VL-235B-A22B-Instruct-AWQ
@@ -5586,6 +5598,10 @@
 
 ## TheBloke/wizardLM-7B-HF
 - **ID**: model_thebloke_wizardlm_7b_hf
+- **Source**: 
+
+## ThorOdinson246/nl2sh-1.5b-Q4_K_M
+- **ID**: model_thorodinson246_nl2sh_1_5b_q4_k_m
 - **Source**: 
 
 ## thuml/sundial-base-128m

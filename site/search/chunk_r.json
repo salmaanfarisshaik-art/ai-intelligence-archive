@@ -51348,6 +51348,13 @@
       "score": 2.0
     }
   ],
+  "refmod": [
+    {
+      "entity_id": "dataset_malcolmrey_various",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "refocus": [
     {
       "entity_id": "arxiv_2506.01274v2",
@@ -52947,11 +52954,6 @@
     },
     {
       "entity_id": "dataset_bestwishysh_opens2v_5m",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 1.0
     },
@@ -78825,11 +78827,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_malcolmrey_various",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_mearman_openalex",
       "match_type": "exact",
       "score": 1.0
@@ -99091,6 +99088,11 @@
   ],
   "repository": [
     {
+      "entity_id": "dataset_malcolmrey_various",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_deliberatorarchiver_asmr_archive_data_02",
       "match_type": "exact",
       "score": 3.0
@@ -99187,11 +99189,6 @@
     },
     {
       "entity_id": "dataset_krafton_seungjin_terminal_bench_2_leaderboard",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
-      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 2.0
     },
@@ -108028,6 +108025,11 @@
     },
     {
       "entity_id": "dataset_insta360_research_omnirooms",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 2.0
     },
@@ -145529,11 +145531,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_malcolmrey_various",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_open_index_arctic",
       "match_type": "exact",
       "score": 1.0
@@ -151875,6 +151872,21 @@
       "entity_id": "rss_https://openai.com/index/spinning-up-in-deep-rl-workshop-review",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_2_1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_science",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "model_allenai_olmo_3_1_32b_instruct",

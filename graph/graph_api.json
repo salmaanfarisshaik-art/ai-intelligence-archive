@@ -13861,7 +13861,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-14T11:54:04.969770+00:00",
+  "generated_at": "2026-09-14T17:47:09.865935+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -133707,6 +133707,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_eduagarcia_temp_llm_pt_leaderboard_raw_results",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_efficient_large_model_sana_assets",
       "label": ""
     },
@@ -138232,6 +138237,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_nakas_nbm_conus_analysis",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_nam19955_nam19955",
       "label": ""
     },
@@ -138387,6 +138397,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_nightgoodl_lasa1m_annotate_part_08",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_nightgoodl_lasa1m_annotate_part_09",
       "label": ""
     },
@@ -138413,6 +138428,11 @@
     {
       "category": "datasets",
       "id": "dataset_nightgoodl_lasa1m_annotate_part_15",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_nightgoodl_lasa1m_annotate_part_16",
       "label": ""
     },
     {
@@ -141318,6 +141338,11 @@
     {
       "category": "datasets",
       "id": "dataset_yxi8_uspto_mol_mirror",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_yyf111_checkpoint",
       "label": ""
     },
     {
@@ -155957,6 +155982,11 @@
     },
     {
       "category": "models",
+      "id": "model_llmsafety_qwen2_5_math_7b_4bit",
+      "label": "LLMSafety/Qwen2.5-Math-7B-4bit"
+    },
+    {
+      "category": "models",
       "id": "model_lmms_lab_llava_onevision_qwen2_7b_ov",
       "label": "lmms-lab/llava-onevision-qwen2-7b-ov"
     },
@@ -157797,6 +157827,11 @@
     },
     {
       "category": "models",
+      "id": "model_openbmb_minicpm5_2b_mlx",
+      "label": "openbmb/MiniCPM5-2B-MLX"
+    },
+    {
+      "category": "models",
       "id": "model_openbmb_minicpm_2b_sft_bf16",
       "label": "openbmb/MiniCPM-2B-sft-bf16"
     },
@@ -158269,6 +158304,11 @@
       "category": "models",
       "id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
       "label": "QuantTrio/Qwen3-Coder-30B-A3B-Instruct-AWQ"
+    },
+    {
+      "category": "models",
+      "id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8",
+      "label": "QuantTrio/Qwen3-Coder-30B-A3B-Instruct-GPTQ-Int8"
     },
     {
       "category": "models",
@@ -159839,6 +159879,11 @@
       "category": "models",
       "id": "model_thebloke_wizardlm_7b_hf",
       "label": "TheBloke/wizardLM-7B-HF"
+    },
+    {
+      "category": "models",
+      "id": "model_thorodinson246_nl2sh_1_5b_q4_k_m",
+      "label": "ThorOdinson246/nl2sh-1.5b-Q4_K_M"
     },
     {
       "category": "models",
@@ -458168,5 +458213,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 2772,
-  "total_nodes": 88860
+  "total_nodes": 88869
 }
