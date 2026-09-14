@@ -658,6 +658,12 @@
 - **URL**: [https://huggingface.co/datasets/tz1002/LLaVA-OneVision-1.5-Mid-Training-85M](https://huggingface.co/datasets/tz1002/LLaVA-OneVision-1.5-Mid-Training-85M)
 - **Tags**: arxiv:2509.23661, license:apache-2.0, region:us
 
+## stair-lab/nonmyopia_results
+- **ID**: hf_ds_6940521784d1210361e772ee
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/stair-lab/nonmyopia_results](https://huggingface.co/datasets/stair-lab/nonmyopia_results)
+- **Tags**: region:us
+
 ## Chelsea707/arxiv-cs-2020-2025-pdfs
 - **ID**: hf_ds_69417bb991171752887f7213
 - **Source**: HuggingFace Datasets

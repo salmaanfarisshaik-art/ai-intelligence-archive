@@ -1,0 +1,26 @@
+{
+  "_id": "6a2a76cca61d1f1375831995",
+  "id": "nakas/nbm-conus-analysis",
+  "author": "nakas",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-07T15:10:45.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d0a8e91e8463752c2bbcc24b99a1dfb8b22975cc",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tNOAA NBM CONUS Daily Analysis (Zarr)\n\t\n\nDaily best-estimate analysis derived from NOAA NBM (National Blend of Models)\nCONUS forecasts, on the native ~2.5 km Lambert conformal grid (2345 x 1597).\nBuilt by nbm-to-zarr, dynamical.org-style.\n\nVariables: tmean / tmax / tmin (degC), precip (mm), srad (MJ/m2/day)\nConstruction: best estimate for day D = lead-day 1 of that day's 00z NBM init\nCoverage: rolling backfill from 2020-10-01 (AWS NBM archive floor) to present\nLayout: one standalone… See the full description on the dataset page: https://huggingface.co/datasets/nakas/nbm-conus-analysis.",
+  "downloads": 35836,
+  "tags": [
+    "license:cc-by-4.0",
+    "region:us",
+    "weather",
+    "nbm",
+    "noaa",
+    "zarr",
+    "conus"
+  ],
+  "createdAt": "2026-06-11T08:50:20.000Z",
+  "key": "",
+  "unique_id": "dataset_nakas_nbm_conus_analysis",
+  "schema_version": "1.0"
+}

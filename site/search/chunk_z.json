@@ -682,6 +682,11 @@
       "score": 5.5
     },
     {
+      "entity_id": "dataset_nakas_nbm_conus_analysis",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "dataset_openclimatefix_dwd_icon_global",
       "match_type": "exact",
       "score": 1.0
@@ -2736,6 +2741,11 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_2b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm5_2b_mlx",
       "match_type": "exact",
       "score": 1.5
     },

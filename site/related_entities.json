@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:53:07Z",
+  "generated_at": "2026-09-14T11:54:51Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -759,6 +759,7 @@
     "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct": [
       "model_qwen_qwen2_5_coder_1_5b_instruct_awq",
       "model_qwen_qwen2_5_coder_1_5b_instruct_gguf",
+      "model_thorodinson246_nl2sh_1_5b_q4_k_m",
       "model_unsloth_qwen2_5_coder_1_5b_instruct"
     ],
     "hf_Qwen_Qwen2.5-Coder-14B": [
@@ -1034,6 +1035,7 @@
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_6bit",
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_8bit",
       "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
+      "model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8",
       "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
       "model_unsloth_qwen3_coder_30b_a3b_instruct_gguf"
     ],
@@ -2887,7 +2889,8 @@
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_Ultra-FineWeb-L3": [
       "model_openbmb_minicpm5_1b",
@@ -2895,12 +2898,14 @@
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraData-Code": [
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraData-Math": [
       "model_openbmb_minicpm5_1b",
@@ -2908,12 +2913,14 @@
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraData-RL-2609": [
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraData-SFT-2605": [
       "model_openbmb_minicpm5_1b",
@@ -2921,17 +2928,20 @@
       "model_openbmb_minicpm5_1b_mlx",
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraData-SFT-Agent-2609": [
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_UltraX-Preview": [
       "model_openbmb_minicpm5_2b",
       "model_openbmb_minicpm5_2b_dspark",
-      "model_openbmb_minicpm5_2b_gguf"
+      "model_openbmb_minicpm5_2b_gguf",
+      "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openlifescienceai_medmcqa": [
       "model_s4nfs_neeto_1_0_8b"
@@ -5749,6 +5759,16 @@
       "hf_openbmb_UltraData-SFT-Agent-2609",
       "hf_openbmb_UltraX-Preview"
     ],
+    "model_openbmb_minicpm5_2b_mlx": [
+      "hf_openbmb_Ultra-FineWeb",
+      "hf_openbmb_Ultra-FineWeb-L3",
+      "hf_openbmb_UltraData-Code",
+      "hf_openbmb_UltraData-Math",
+      "hf_openbmb_UltraData-RL-2609",
+      "hf_openbmb_UltraData-SFT-2605",
+      "hf_openbmb_UltraData-SFT-Agent-2609",
+      "hf_openbmb_UltraX-Preview"
+    ],
     "model_openllm_france_lucie_7b_instruct_v1_1": [
       "hf_Gael540_dataSet_ens_sup_fr-v1",
       "hf_OpenLLM-France_Croissant-Aligned-Instruct",
@@ -5900,6 +5920,9 @@
       "hf_Qwen_Qwen3-235B-A22B-Instruct-2507"
     ],
     "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq": [
+      "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
+    "model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
     ],
     "model_quanttrio_qwen3_vl_235b_a22b_instruct_awq": [
@@ -6600,6 +6623,9 @@
       "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
       "hf_bigcode_starcoderdata",
       "hf_cerebras_SlimPajama-627B"
+    ],
+    "model_thorodinson246_nl2sh_1_5b_q4_k_m": [
+      "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct"
     ],
     "model_thuml_sundial_base_128m": [
       "hf_Salesforce_lotsa_data",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T05:53:07Z",
+  "generated_at": "2026-09-14T11:54:51Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -5822,6 +5822,46 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_Ultra-FineWeb",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_Ultra-FineWeb-L3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraData-Code",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraData-Math",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraData-RL-2609",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraData-SFT-2605",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraData-SFT-Agent-2609",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm5_2b_mlx",
+      "target_id": "hf_openbmb_UltraX-Preview",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_openllm_france_lucie_7b_instruct_v1_1",
       "target_id": "hf_Gael540_dataSet_ens_sup_fr-v1",
       "type": "trained_on"
@@ -6153,6 +6193,11 @@
     },
     {
       "source_id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
+      "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8",
       "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
       "type": "derived_from"
     },
@@ -7500,6 +7545,11 @@
       "source_id": "model_thebloke_tinyllama_1_1b_chat_v1_0_gptq",
       "target_id": "hf_cerebras_SlimPajama-627B",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_thorodinson246_nl2sh_1_5b_q4_k_m",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct",
+      "type": "derived_from"
     },
     {
       "source_id": "model_thuml_sundial_base_128m",
