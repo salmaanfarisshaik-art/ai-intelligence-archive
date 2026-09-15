@@ -1,0 +1,29 @@
+{
+  "_id": "662300e51e129fc4cc2892ae",
+  "id": "bigcode/self-oss-instruct-sc2-exec-filter-50k",
+  "author": "bigcode",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-11-04T19:00:05.000Z",
+  "likes": 107,
+  "private": false,
+  "sha": "356bb069eee815daa6e23e9a282eeefe1490ad44",
+  "description": "Final self-alignment training dataset for StarCoder2-Instruct. \n\nseed: Contains the seed Python function\nconcepts: Contains the concepts generated from the seed\ninstruction: Contains the instruction generated from the concepts\nresponse: Contains the execution-validated response to the instruction\n\nThis dataset utilizes seed Python functions derived from the MultiPL-T pipeline.\n",
+  "downloads": 35638,
+  "tags": [
+    "license:odc-by",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2308.09895",
+    "region:us"
+  ],
+  "createdAt": "2024-04-19T23:40:21.000Z",
+  "key": "",
+  "unique_id": "dataset_bigcode_self_oss_instruct_sc2_exec_filter_50k",
+  "schema_version": "1.0"
+}

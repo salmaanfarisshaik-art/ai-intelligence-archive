@@ -844,6 +844,12 @@
 - **URL**: [https://huggingface.co/datasets/Hoshipu/roboreal_data](https://huggingface.co/datasets/Hoshipu/roboreal_data)
 - **Tags**: region:us
 
+## nyarlathotep12/MXStuff
+- **ID**: hf_ds_69dea0a636a3f56ff6f91b7f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nyarlathotep12/MXStuff](https://huggingface.co/datasets/nyarlathotep12/MXStuff)
+- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:n<1K
+
 ## babyhari/gt
 - **ID**: hf_ds_69e6aa6a6c2bdbeca4448187
 - **Source**: HuggingFace Datasets

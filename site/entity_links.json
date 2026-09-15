@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:55:20Z",
+  "generated_at": "2026-09-15T11:10:28Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -354,6 +354,16 @@
     {
       "source_id": "model_abenzerps_apodex_1_1_mini_gguf",
       "target_id": "hf_apodex_Apodex-1.1-mini",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_abenzerps_nex_n2_5_mini_gguf",
+      "target_id": "hf_nex-agi_Nex-N2.5-mini",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_abenzerps_spark_x2_5_4b_gguf",
+      "target_id": "hf_XHToken_Spark-X2.5-4B",
       "type": "derived_from"
     },
     {
@@ -4572,6 +4582,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-MoVA-36B-A4B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_naomibtw_rwkv7_g1c_13_3b_gguf",
       "target_id": "hf_BlinkDL_rwkv7-g1",
       "type": "derived_from"
@@ -5569,6 +5584,11 @@
     {
       "source_id": "model_nvidia_qwen3_6_35b_a3b_nvfp4",
       "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_qwen3_8_27b_nvfp4",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -8589,6 +8609,11 @@
     {
       "source_id": "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf",
       "target_id": "hf_google_gemma-4-12B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_xhtoken_spark_x2_5_1_7b_gguf",
+      "target_id": "hf_XHToken_Spark-X2.5-1.7B",
       "type": "derived_from"
     },
     {

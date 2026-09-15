@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:55:20Z",
+  "generated_at": "2026-09-15T11:10:28Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -339,6 +339,9 @@
       "model_huggingfacetb_smollm_1_7b",
       "model_huggingfacetb_smollm_360m",
       "model_pfnet_plamo_3_nict_2b_base"
+    ],
+    "hf_IFM_K2-Horizon-MoVA-36B-A4B": [
+      "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_IlyaGusev_gemma-2-2b-it-abliterated": [
       "model_bartowski_gemma_2_2b_it_abliterated_gguf"
@@ -1185,6 +1188,7 @@
       "model_kingjones777_qwen3_8_27b_rocmfp4_strix_mtp_gguf",
       "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "model_mlx_community_qwen3_8_27b_mtp_4bit",
+      "model_nvidia_qwen3_8_27b_nvfp4",
       "model_obliteratus_qwen3_8_27b_obliterated",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
@@ -1312,7 +1316,11 @@
     "hf_WizardLM_WizardLM_evol_instruct_V2_196k": [
       "model_stabilityai_stablelm_zephyr_3b"
     ],
+    "hf_XHToken_Spark-X2.5-1.7B": [
+      "model_xhtoken_spark_x2_5_1_7b_gguf"
+    ],
     "hf_XHToken_Spark-X2.5-4B": [
+      "model_abenzerps_spark_x2_5_4b_gguf",
       "model_xhtoken_spark_x2_5_4b_gguf"
     ],
     "hf_Zyphra_Zamba2-1.2B": [
@@ -2447,6 +2455,9 @@
     "hf_nex-agi_Nex-N2-mini": [
       "model_cyankiwi_nex_n2_mini_awq_int4"
     ],
+    "hf_nex-agi_Nex-N2.5-mini": [
+      "model_abenzerps_nex_n2_5_mini_gguf"
+    ],
     "hf_nickrosh_Evol-Instruct-Code-80k-v1": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
     ],
@@ -3359,6 +3370,12 @@
     ],
     "model_abenzerps_apodex_1_1_mini_gguf": [
       "hf_apodex_Apodex-1.1-mini"
+    ],
+    "model_abenzerps_nex_n2_5_mini_gguf": [
+      "hf_nex-agi_Nex-N2.5-mini"
+    ],
+    "model_abenzerps_spark_x2_5_4b_gguf": [
+      "hf_XHToken_Spark-X2.5-4B"
     ],
     "model_acuteshrewdsecurity_llama_phishsense_1b": [
       "hf_ealvaradob_phishing-dataset",
@@ -5331,6 +5348,9 @@
     "model_nanbeige_nanbeige4_2_3b": [
       "hf_Nanbeige_Nanbeige4.2-3B-Base"
     ],
+    "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf": [
+      "hf_IFM_K2-Horizon-MoVA-36B-A4B"
+    ],
     "model_naomibtw_rwkv7_g1c_13_3b_gguf": [
       "hf_BlinkDL_rwkv7-g1"
     ],
@@ -5670,6 +5690,9 @@
     ],
     "model_nvidia_qwen3_6_35b_a3b_nvfp4": [
       "hf_Qwen_Qwen3.6-35B-A3B"
+    ],
+    "model_nvidia_qwen3_8_27b_nvfp4": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_nvidia_qwen3_8b_fp8": [
       "hf_Qwen_Qwen3-8B"
@@ -7134,6 +7157,9 @@
     ],
     "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf": [
       "hf_google_gemma-4-12B-it"
+    ],
+    "model_xhtoken_spark_x2_5_1_7b_gguf": [
+      "hf_XHToken_Spark-X2.5-1.7B"
     ],
     "model_xhtoken_spark_x2_5_4b_gguf": [
       "hf_XHToken_Spark-X2.5-4B"
