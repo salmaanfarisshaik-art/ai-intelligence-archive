@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.31285v3",
+  "schema_version": "1.0",
+  "name": "Spatial Reasoning via Modality Switching Between Language and Symbolic Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.31285v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.31285v3",
+    "updated": "2026-09-14T17:51:52Z",
+    "published": "2026-06-30T08:02:07Z",
+    "title": "Spatial Reasoning via Modality Switching Between Language and Symbolic Representations",
+    "summary": "Human reasoning is inherently multimodal: when problems become difficult, we rarely think in words alone. We often externalize our reasoning by sketching diagrams or drawing grids to understand the underlying conceptual structure and avoid mistakes. Building on this premise, our research investigates: (a) whether grounding multi-hop textual-spatial stories into geometry-aware modalities, such as layouts or grids, improves reasoning compared to natural language-based inference; and (b) whether a model can decide when to rely on natural language reasoning and when to switch to a structured modality. We address these questions by introducing a switching metric based on trustworthiness and complexity signals, which estimates when grounding a spatial story into structure is likely to improve performance. This takes a first step toward principled modality selection in Large Language Model (LLM) reasoning. Across our settings, switching from natural language-based reasoning to a grid-based representation improves LLM performance by up to 42%, highlighting the importance of modality choice in shaping reasoning outcomes.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:51:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.31285v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

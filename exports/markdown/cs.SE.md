@@ -100,6 +100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24601v1](http://arxiv.org/abs/2607.24601v1)
 
+## Learning from 53.6K Real-World Developer Edits of AI-Generated Code
+- **ID**: arxiv_2607.25130v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.25130v2](http://arxiv.org/abs/2607.25130v2)
+
 ## MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis
 - **ID**: arxiv_2607.27146v1
 - **Source**: ArXiv

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15910v1",
+  "schema_version": "1.0",
+  "name": "SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15910v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15910v1",
+    "updated": "2026-09-14T17:23:59Z",
+    "published": "2026-09-14T17:23:59Z",
+    "title": "SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection",
+    "summary": "Slip detection is fundamental to dexterous manipulation, yet existing systems often lack precise characterization of detection latency and cross-platform generalization. We present SlipSense, a multimodal tactile slip-detection framework built on TacV5, a compact sensor integrating a $32 \\times 32$ piezoresistive array operating at 240 Hz and a 3-axis MEMS accelerometer operating at 8 kHz. The piezoresistive array captures spatial pressure distributions, while the accelerometer captures friction-induced vibrations, providing complementary slip cues. The framework performs modality-specific encoding, intra-sensor fusion, and cross-modal attention with causal temporal prediction at 240 Hz. Experiments on a dataset of 1.4 million frames spanning 37 objects demonstrate the complementarity of the two modalities. SlipSense achieves 96.7% Macro F1 with a false-positive rate below 1.6%, detecting 76% of slip events within 23.1 ms. When trained solely on UMI data, SlipSense generalizes zero-shot to a Tesollo dexterous hand, transferring across unseen objects, distinct sensor units, and robotic platforms without retraining.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:23:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15910v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

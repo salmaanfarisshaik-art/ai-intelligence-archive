@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15851v1",
+  "schema_version": "1.0",
+  "name": "Learning to Coach for Experiential Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15851v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15851v1",
+    "updated": "2026-09-14T16:47:02Z",
+    "published": "2026-09-14T16:47:02Z",
+    "title": "Learning to Coach for Experiential Learning",
+    "summary": "Language models can learn from experience, but raw solution trajectories are often too long and noisy to provide effective guidance. In this work, we propose Learning to Coach (L2C), a framework that trains a dedicated LLM-as-a-Coach to extract actionable experiential knowledge from an actor model's previous trajectory. The actor remains frozen, while the LLM-as-a-Coach is trained to maximize a reward given by the correctness of the actor's guided response. We study two such rewards: a same-instance reward, which improves subsequent responses on the original problem, and a cross-instance reward, which elicits knowledge that transfers to other instances. Across mathematical reasoning and interactive text-games, L2C consistently outperforms self-refinement and an untrained LLM-as-a-Coach. Running experiential learning for more iterations further improves accuracy and uses additional inference compute more effectively than enlarging the actor's decoding budget. The trained LLM-as-a-Coach also transfers to out-of-distribution tasks and adapts its guidance to the specific actor it coaches.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T16:47:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15851v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

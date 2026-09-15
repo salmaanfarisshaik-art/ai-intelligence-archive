@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.19738v2",
+  "schema_version": "1.0",
+  "name": "Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.19738v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.19738v2",
+    "updated": "2026-09-14T17:11:52Z",
+    "published": "2025-07-26T02:03:02Z",
+    "title": "Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo",
+    "summary": "While accurate LiDAR depth has been shown to improve stereo matching, high-end LiDAR remains costly and difficult to deploy at scale, motivating guidance from sparse LiDAR measurements. In this paper, we revisit how extremely sparse LiDAR can guide iterative stereo by examining its cost-volume retrieval mechanism. Our analysis shows that LiDAR guidance degrades sharply when only a few hundred points are available, and we provide a signal-processing explanation for why iterative stereo fails to fully exploit such sparse input. This insight leads to a simple yet highly effective remedy: pre-filling the initial disparity map so that cost-volume retrieval becomes more reliable under extremely sparse LiDAR. We find that pre-filling is also effective when injecting LiDAR depth into image features via early fusion, but for a fundamentally different reason, necessitating a distinct pre-filling approach. Combining both forms of guidance, our proposed Guided RAFT-Stereo (GRAFT-Stereo) achieves substantial improvements over existing LiDAR-guided stereo methods across multiple datasets.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:11:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.19738v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

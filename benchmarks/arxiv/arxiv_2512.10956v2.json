@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.10956v2",
+  "schema_version": "1.0",
+  "name": "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.10956v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.10956v2",
+    "updated": "2026-09-14T17:39:22Z",
+    "published": "2025-12-11T18:59:56Z",
+    "title": "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos",
+    "summary": "Despite rapid progress, embodied navigation in dynamic and unstructured urban environments remains brittle. Most existing approaches directly map monocular visual inputs to actions through end-to-end pixel-to-action training, assuming that accurate spatiotemporal (4D) scene understanding will emerge implicitly. While appealing, this paradigm requires large amounts of pixel-to-action supervision that are difficult to obtain. This challenge is amplified in dynamic, unstructured settings, where robust navigation requires precise 4D scene modeling. To address these limitations, we present Stereo4DWalker, a 4D-aware embodied navigation model that leverages stereo inputs and explicitly builds structured 4D representations of geometry and motion. These 4D structures are integrated into the navigation transformer through simple yet effective 4D-conditioned attention layers. To support scalable training, we curate a large-scale stereo navigation dataset with automatically annotated actions from Internet stereo videos. Our experiments show that Stereo4DWalker surpasses state-of-the-art performance using only 1.5% of the training data, highlighting the effectiveness of explicit 4D visual modeling for data-efficient and robust urban navigation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:39:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.10956v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.12839v2",
+  "schema_version": "1.0",
+  "name": "Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.12839v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.12839v2",
+    "updated": "2026-09-14T16:33:10Z",
+    "published": "2026-09-11T13:34:48Z",
+    "title": "Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks",
+    "summary": "The proliferation of highly capable open-weight Small Language Models (SLMs) democratizes access to advanced cybersecurity capabilities, posing a escalating risk as these models can bypass proprietary API guardrails when deployed locally. However, SLMs deployed as autonomous agents often struggle with long-horizon, exploratory tasks like cybersecurity Capture The Flag (CTF) challenges due to context bloat and cognitive degradation from accumulated tool-call outputs. To understand and mitigate this cybersecurity threat, we introduce context segmentation, a two-level agentic framework that divides complex exploitation tasks into manageable, contextually isolated sub-problems. Evaluating on the picoCTF dataset using memory-constrained gemma-4 models, we demonstrate that for the E4B model, our strategy acts as an intelligent search, achieving competitive rewards with superior token efficiency compared to brute-force retries, and successfully solving 18.52% of tasks that standard agentic execution fails to complete. Code is available at https://github.com/9xeb/context-segmentation.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T16:33:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.12839v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

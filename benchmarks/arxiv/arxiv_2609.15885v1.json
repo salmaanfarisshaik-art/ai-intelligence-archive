@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15885v1",
+  "schema_version": "1.0",
+  "name": "Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15885v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15885v1",
+    "updated": "2026-09-14T17:12:15Z",
+    "published": "2026-09-14T17:12:15Z",
+    "title": "Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation",
+    "summary": "This study proposes a privacy-enhanced federated learning framework to address secure collaborative training in distributed data environments. The framework integrates Dynamic Differential Privacy (DDP), lightweight Homomorphic Encryption (HE), and Local Differential Privacy (LDP) mechanisms to ensure data privacy protection during model training. Additionally, the framework employs an asynchronous aggregation strategy with version control to support distributed training in asynchronous environments. Experimental validation on the CIFAR-10 and Purchase-100 benchmark datasets demonstrates that the method maintains high classification accuracy (up to 82.6%) even under stringent privacy constraints (ε = 0.1), while reducing communication overhead by 21.3% compared to FedAvg. Experimental results demonstrate that this framework effectively balances privacy protection and model performance in distributed machine learning scenarios, providing a scalable technical foundation for large-scale distributed collaborative computing.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:12:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15885v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

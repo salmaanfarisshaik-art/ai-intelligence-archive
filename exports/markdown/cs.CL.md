@@ -25,10 +25,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.06458v2](http://arxiv.org/abs/2410.06458v2)
 
+## Thinking beyond the anthropomorphic paradigm benefits LLM research
+- **ID**: arxiv_2502.09192v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.09192v3](http://arxiv.org/abs/2502.09192v3)
+
 ## Explanations of Large Language Models Explain Language Representations in the Brain
 - **ID**: arxiv_2502.14671v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.14671v4](http://arxiv.org/abs/2502.14671v4)
+
+## LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers
+- **ID**: arxiv_2502.15007v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.15007v2](http://arxiv.org/abs/2502.15007v2)
 
 ## AgentRM: Enhancing Agent Generalization with Reward Modeling
 - **ID**: arxiv_2502.18407v2
@@ -1410,6 +1420,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29602v1](http://arxiv.org/abs/2607.29602v1)
 
+## FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models
+- **ID**: arxiv_2607.29602v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29602v2](http://arxiv.org/abs/2607.29602v2)
+
 ## Evolving language compositionality in a frequency-structured meaning space
 - **ID**: arxiv_2607.29642v1
 - **Source**: ArXiv
@@ -2644,4 +2659,54 @@
 - **ID**: arxiv_2609.11913v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11913v1](http://arxiv.org/abs/2609.11913v1)
+
+## CiteGuard-RAG: A Validation-Centered AI System for Evidence-Grounded Question Answering
+- **ID**: arxiv_2609.15830v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15830v1](http://arxiv.org/abs/2609.15830v1)
+
+## Before You Poll with LLMs: A Deliberative Diagnostic Framework
+- **ID**: arxiv_2609.15849v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15849v1](http://arxiv.org/abs/2609.15849v1)
+
+## Learning to Coach for Experiential Learning
+- **ID**: arxiv_2609.15851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15851v1](http://arxiv.org/abs/2609.15851v1)
+
+## K-Bench: a clinically calibrated benchmark for evaluating large language models in high-risk mental health conversations
+- **ID**: arxiv_2609.15855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15855v1](http://arxiv.org/abs/2609.15855v1)
+
+## Inoculation Midtraining with Learned Neologisms
+- **ID**: arxiv_2609.15886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15886v1](http://arxiv.org/abs/2609.15886v1)
+
+## HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses
+- **ID**: arxiv_2609.15938v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15938v1](http://arxiv.org/abs/2609.15938v1)
+
+## Verifiable by Construction: Claim-Level Evaluation of Verbatim Citation in Clinical Question Answering
+- **ID**: arxiv_2609.15964v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15964v1](http://arxiv.org/abs/2609.15964v1)
+
+## Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States
+- **ID**: arxiv_2609.15972v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15972v1](http://arxiv.org/abs/2609.15972v1)
+
+## Discovery Foundation Models: Toward Open-Ended Discovery Intelligence
+- **ID**: arxiv_2609.15973v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15973v1](http://arxiv.org/abs/2609.15973v1)
+
+## Disentangling Representation Evolution in Transformers through Directional Decomposition
+- **ID**: arxiv_2609.15975v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15975v1](http://arxiv.org/abs/2609.15975v1)
 

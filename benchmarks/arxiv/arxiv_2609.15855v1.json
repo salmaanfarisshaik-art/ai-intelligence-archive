@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15855v1",
+  "schema_version": "1.0",
+  "name": "K-Bench: a clinically calibrated benchmark for evaluating large language models in high-risk mental health conversations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15855v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15855v1",
+    "updated": "2026-09-14T16:49:23Z",
+    "published": "2026-09-14T16:49:23Z",
+    "title": "K-Bench: a clinically calibrated benchmark for evaluating large language models in high-risk mental health conversations",
+    "summary": "% !TEX root = ../main.tex People increasingly use large language models (LLMs) for mental health support, yet their safety in evolving, high-risk conversations remains poorly characterised. We developed K-Bench, a clinician-calibrated, protected benchmark evaluating 125 model configurations representing 33 base models from 14 providers across a fixed cohort of 200 multi-turn vignettes involving suicide, self-harm, domestic violence, substance misuse, and no-risk presentations. Synthetic patient conversations showed substantial distributional overlap with real human-AI conversations. A frozen GPT-4o judge achieved 94.2% exact agreement with clinician consensus across 6,751 eligible item comparisons from 151 clinician-rated transcripts. Leading models combined strong supportive conversation with combined-risk scores above 95, whereas risk exploration exposed substantial variation among lower-performing configurations. Therapeutic prompting produced configuration-specific gains concentrated among weaker models, while elevated reasoning produced no average improvement. K-Bench combines broader clinical coverage and configuration-scale comparison with a continuously updated public leaderboard whose operational test materials are protected from direct optimisation. The leaderboard is available at www.k-bench.ai.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T16:49:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15855v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

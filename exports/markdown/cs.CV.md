@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.00713v5](http://arxiv.org/abs/2410.00713v5)
 
+## SAMReg: SAM-enabled Image Registration with ROI-based Correspondence
+- **ID**: arxiv_2410.14083v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.14083v2](http://arxiv.org/abs/2410.14083v2)
+
 ## STAG-VIO: Stabilized Prompt-to-Geometry Interface for Robust Dynamic Visual--Inertial Odometry
 - **ID**: arxiv_2411.19289v4
 - **Source**: ArXiv
@@ -154,6 +159,11 @@
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.19474v2](http://arxiv.org/abs/2507.19474v2)
+
+## Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo
+- **ID**: arxiv_2507.19738v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.19738v2](http://arxiv.org/abs/2507.19738v2)
 
 ## P3P Made Easy
 - **ID**: arxiv_2508.01312v5
@@ -349,6 +359,11 @@
 - **ID**: arxiv_2512.10840v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.10840v2](http://arxiv.org/abs/2512.10840v2)
+
+## Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos
+- **ID**: arxiv_2512.10956v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.10956v2](http://arxiv.org/abs/2512.10956v2)
 
 ## The 3D Mirage: Probing and Taming 3D Hallucinations
 - **ID**: arxiv_2512.15423v2
@@ -1144,6 +1159,11 @@
 - **ID**: arxiv_2606.29667v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29667v2](http://arxiv.org/abs/2606.29667v2)
+
+## Reweighting Framewise Attention in Video Transformers for Facial Expression Understanding
+- **ID**: arxiv_2606.30611v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.30611v4](http://arxiv.org/abs/2606.30611v4)
 
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
@@ -3979,4 +3999,29 @@
 - **ID**: arxiv_2609.11929v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11929v1](http://arxiv.org/abs/2609.11929v1)
+
+## VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention
+- **ID**: arxiv_2609.15810v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15810v1](http://arxiv.org/abs/2609.15810v1)
+
+## Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows
+- **ID**: arxiv_2609.15833v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15833v1](http://arxiv.org/abs/2609.15833v1)
+
+## TRACE: Two-Stage Detector-Response Estimation With Angular Cosine Expansion for Ring Artifact Correction in Photon-Counting CT
+- **ID**: arxiv_2609.15834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15834v1](http://arxiv.org/abs/2609.15834v1)
+
+## LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows
+- **ID**: arxiv_2609.15863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15863v1](http://arxiv.org/abs/2609.15863v1)
+
+## Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI
+- **ID**: arxiv_2609.15888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15888v1](http://arxiv.org/abs/2609.15888v1)
 

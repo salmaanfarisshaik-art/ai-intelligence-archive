@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15886v1",
+  "schema_version": "1.0",
+  "name": "Inoculation Midtraining with Learned Neologisms",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15886v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15886v1",
+    "updated": "2026-09-14T17:12:52Z",
+    "published": "2026-09-14T17:12:52Z",
+    "title": "Inoculation Midtraining with Learned Neologisms",
+    "summary": "Large language models (LLMs) often learn both desirable and undesirable properties during post-training. We study whether midtraining, an earlier training stage, can shape which of these properties later generalise. We introduce Inoculation Midtraining, a technique that teaches a base model that unsafe behaviour belongs to a designated <quarantine_token> context, as indicated by the <quarantine_token> neologism (a new token) introduced during midtraining, and then post-trains the model on unsafe data within that context. We then evaluate the model outside the context, with the <quarantine_token> neologism excluded from the system prompt. Across supervised fine-tuning and reinforcement learning post-training regimes, we find that Inoculation Midtraining can reduce misalignment while preserving the transfer of benign data properties (e.g., speaking in German or Shakespearean prose). However, our approach does not outperform standard Inoculation Prompting, is sensitive to training configuration, and produces a leaky boundary that nearby contextual cues can reactivate. These results show that inoculation with a learned association introduced via midtraining can shape selective generalisation. Still, more work is needed before this approach can become a load-bearing component in a developer's safety framework.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:12:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15886v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

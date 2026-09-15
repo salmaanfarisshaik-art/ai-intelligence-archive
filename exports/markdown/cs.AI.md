@@ -1,5 +1,10 @@
 # Cs.Ai Export
 
+## Estimating Uncertain Spatial Relationships in Robotics
+- **ID**: arxiv_1304.3111v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1304.3111v2](http://arxiv.org/abs/1304.3111v2)
+
 ## Intelligence Primer
 - **ID**: arxiv_2008.07324v6
 - **Source**: ArXiv
@@ -159,6 +164,11 @@
 - **ID**: arxiv_2603.05614v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.05614v2](http://arxiv.org/abs/2603.05614v2)
+
+## From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions
+- **ID**: arxiv_2603.13359v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.13359v2](http://arxiv.org/abs/2603.13359v2)
 
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
@@ -624,6 +634,11 @@
 - **ID**: arxiv_2606.30252v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30252v2](http://arxiv.org/abs/2606.30252v2)
+
+## Spatial Reasoning via Modality Switching Between Language and Symbolic Representations
+- **ID**: arxiv_2606.31285v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.31285v3](http://arxiv.org/abs/2606.31285v3)
 
 ## Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
 - **ID**: arxiv_2607.01223v4
@@ -2450,6 +2465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)
 
+## FrogNano: Training a 4B Coding Agent via Online Task Synthesis
+- **ID**: arxiv_2609.07925v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.07925v3](http://arxiv.org/abs/2609.07925v3)
+
 ## Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning
 - **ID**: arxiv_2609.09030v1
 - **Source**: ArXiv
@@ -2554,4 +2574,44 @@
 - **ID**: arxiv_2609.11916v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11916v1](http://arxiv.org/abs/2609.11916v1)
+
+## When Should a World Model Move? Loss-Conditioned State Execution
+- **ID**: arxiv_2609.15801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15801v1](http://arxiv.org/abs/2609.15801v1)
+
+## Atria Dawn: The Dawn of Agentic Superintelligence
+- **ID**: arxiv_2609.15818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15818v1](http://arxiv.org/abs/2609.15818v1)
+
+## AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery
+- **ID**: arxiv_2609.15820v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15820v1](http://arxiv.org/abs/2609.15820v1)
+
+## LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction
+- **ID**: arxiv_2609.15859v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15859v1](http://arxiv.org/abs/2609.15859v1)
+
+## Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress
+- **ID**: arxiv_2609.15919v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15919v1](http://arxiv.org/abs/2609.15919v1)
+
+## Recurrent GraphNeural NetworkswithSet-BasedAggregation
+- **ID**: arxiv_2609.15932v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15932v1](http://arxiv.org/abs/2609.15932v1)
+
+## Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+- **ID**: arxiv_2609.15983v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15983v1](http://arxiv.org/abs/2609.15983v1)
+
+## Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
+- **ID**: arxiv_2609.15989v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15989v1](http://arxiv.org/abs/2609.15989v1)
 

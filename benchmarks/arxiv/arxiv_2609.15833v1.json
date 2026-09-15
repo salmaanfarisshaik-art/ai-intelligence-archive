@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15833v1",
+  "schema_version": "1.0",
+  "name": "Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15833v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15833v1",
+    "updated": "2026-09-14T16:31:18Z",
+    "published": "2026-09-14T16:31:18Z",
+    "title": "Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows",
+    "summary": "Cultural heritage documentation increasingly relies on image-based 3D surface reconstruction, with photogrammetry software making such workflows accessible to archaeologists, conservators, and heritage technicians. These tools have been successful for conventional multi-view acquisition, but they do not routinely exploit richer multi-view, multi-light data, despite its potential for improving fine-scale surface reconstruction. This limitation is particularly relevant in heritage contexts, where controlled-light acquisition devices such as RTI domes are already used to capture illumination-varying image sets. The challenge is therefore to connect these existing acquisition practices with recent computer vision methods in a form that can be used within operational heritage workflows. In this work, we address this need by integrating state-of-the-art components from computer vision for multi-view, multi-light surface reconstruction into Meshroom, an open-source photogrammetry framework. Rather than proposing a new reconstruction algorithm, our contribution is to assemble and expose existing advanced methods, namely a complete photometric stereo ecosystem (calibrated, self-calibrated and universal), automatic object masking, and multi-view normal-and-reflectance integration, within a usable heritage-oriented workflow. The proposed system thus provides an intermediate software layer between computer vision research code and practical cultural heritage applications, making recent techniques easier to use and evaluate.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T16:31:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15833v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

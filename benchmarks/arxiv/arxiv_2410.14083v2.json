@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2410.14083v2",
+  "schema_version": "1.0",
+  "name": "SAMReg: SAM-enabled Image Registration with ROI-based Correspondence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2410.14083v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2410.14083v2",
+    "updated": "2026-09-14T17:26:28Z",
+    "published": "2024-10-17T23:23:48Z",
+    "title": "SAMReg: SAM-enabled Image Registration with ROI-based Correspondence",
+    "summary": "This paper describes a new spatial correspondence representation based on paired regions-of-interest (ROIs), for medical image registration. The distinct properties of the proposed ROI-based correspondence are discussed, in the context of potential benefits in clinical applications following image registration, compared with alternative correspondence-representing approaches, such as those based on sampled displacements and spatial transformation functions. These benefits include a clear connection between learning-based image registration and segmentation, which in turn motivates two cases of image registration approaches using (pre-)trained segmentation networks. Based on the segment anything model (SAM), a vision foundation model for segmentation, we develop a new registration algorithm SAMReg, which does not require any training (or training data), gradient-based fine-tuning or prompt engineering. The proposed SAMReg models are evaluated across five real-world applications, including intra-subject registration tasks with cardiac MR and lung CT, challenging inter-subject registration scenarios with prostate MR and retinal imaging, and an additional evaluation with a non-clinical example with aerial image registration. The proposed methods outperform both intensity-based iterative algorithms and DDF-predicting learning-based networks across tested metrics including Dice and target registration errors on anatomical structures, and further demonstrates competitive performance compared to weakly-supervised registration approaches that rely on fully-segmented training data. Open source code and examples are available at: https://github.com/sqhuang0103/SAMReg.git.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:26:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2410.14083v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.09631v5](http://arxiv.org/abs/2509.09631v5)
 
+## ParsVoice: A Large-Scale Multi-Speaker Persian Speech Corpus for Text-to-Speech Synthesis
+- **ID**: arxiv_2510.10774v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.10774v4](http://arxiv.org/abs/2510.10774v4)
+
 ## Echoes: A semantically-aligned music deepfake detection dataset
 - **ID**: arxiv_2603.23667v3
 - **Source**: ArXiv

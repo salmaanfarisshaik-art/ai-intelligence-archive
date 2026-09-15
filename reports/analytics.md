@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88886
+**Total Entities Tracked**: 88936
 
 ## Category Distribution
 
@@ -12,21 +12,22 @@
 - **news**: 1174
 - **dataset**: 1172
 - **text-generation**: 1010
-- **cs.CV**: 796
-- **cs.CL**: 529
-- **cs.AI**: 511
-- **cs.LG**: 272
-- **cs.RO**: 98
-- **cs.CR**: 61
+- **cs.CV**: 805
+- **cs.CL**: 542
+- **cs.AI**: 523
+- **cs.LG**: 279
+- **cs.RO**: 99
+- **cs.CR**: 63
 - **tool**: 50
-- **cs.SE**: 46
-- **cs.SD**: 25
+- **cs.SE**: 47
+- **cs.SD**: 26
+- **cs.CY**: 24
 - **cs.HC**: 24
 - **cs.IR**: 24
-- **cs.CY**: 23
 - **API**: 15
 - **eess.IV**: 14
 - **eess.AS**: 13
+- **cs.GT**: 11
 - **Backend**: 10
 - **Database**: 10
 - **DevOps**: 10
@@ -34,7 +35,6 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.GT**: 10
 - **cs.MA**: 10
 - **cs.DB**: 9
 - **stat.ML**: 9
@@ -46,10 +46,10 @@
 - **Benchmark**: 5
 - **cs.AR**: 5
 - **cs.IT**: 5
+- **cs.NI**: 5
 - **AI News**: 4
 - **cs.DC**: 4
 - **cs.MM**: 4
-- **cs.NI**: 4
 - **cs.PL**: 4
 - **eess.SP**: 4
 - **stat.ME**: 4
@@ -77,6 +77,7 @@
 - **cs.OS**: 1
 - **cs.SC**: 1
 - **econ.EM**: 1
+- **hep-ex**: 1
 - **hep-th**: 1
 - **math.AG**: 1
 - **math.NA**: 1
@@ -95,7 +96,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 30785
-- **ArXiv**: 2588
+- **ArXiv**: 2638
 - **Hugging Face**: 2017
 - **OpenAI Blog**: 1160
 - **HuggingFace Datasets**: 172

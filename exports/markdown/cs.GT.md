@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06362v1](http://arxiv.org/abs/2608.06362v1)
 
+## Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control
+- **ID**: arxiv_2609.15803v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15803v1](http://arxiv.org/abs/2609.15803v1)
+

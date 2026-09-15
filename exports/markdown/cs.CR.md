@@ -305,3 +305,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11799v1](http://arxiv.org/abs/2609.11799v1)
 
+## Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks
+- **ID**: arxiv_2609.12839v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12839v2](http://arxiv.org/abs/2609.12839v2)
+
+## Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale
+- **ID**: arxiv_2609.15939v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15939v1](http://arxiv.org/abs/2609.15939v1)
+

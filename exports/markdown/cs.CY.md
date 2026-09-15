@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/1912.08786v5](http://arxiv.org/abs/1912.08786v5)
 
+## Towards interactive evaluations for interaction harms in human-AI systems
+- **ID**: arxiv_2405.10632v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2405.10632v8](http://arxiv.org/abs/2405.10632v8)
+
 ## "Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness
 - **ID**: arxiv_2508.13187v5
 - **Source**: ArXiv

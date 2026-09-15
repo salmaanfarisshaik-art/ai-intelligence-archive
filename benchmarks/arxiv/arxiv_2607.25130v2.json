@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.25130v2",
+  "schema_version": "1.0",
+  "name": "Learning from 53.6K Real-World Developer Edits of AI-Generated Code",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.25130v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.25130v2",
+    "updated": "2026-09-14T16:31:50Z",
+    "published": "2026-07-27T22:50:05Z",
+    "title": "Learning from 53.6K Real-World Developer Edits of AI-Generated Code",
+    "summary": "Imperfections in AI-generated code require that software developers modify the generated code manually, or by re-prompting an AI programming assistant. Manual code edits provide more realistic and granular information on editing behavior than Git commits, which only contain final successful code snippets. Yet, due to a lack of high-quality, realistic code editing data, LLMs are mostly trained on publicly available Git data (e.g., commits). To address this gap, we introduce DECODE (Developer Edits of Code Dataset), a dataset of 53.6K real-world in-IDE code edits of AI-generated code in Python, TypeScript, and JavaScript, sourced from 1K+ developers. First, we demonstrate the utility of DECODE for data analysis, obtaining insights on when, why, and how AI-generated code is edited. We find that most edits occur within the first 15 minutes after accepting an AI completion, resulting in the removal of AI completions in 31% of edit trajectories. Second, we use DECODE to benchmark the ability of LLMs to predict code edits. We find that finetuning on DECODE enables open-source 3B models to perform code edit prediction tasks significantly better than frontier LLMs. We then discuss implications of this work, emphasizing the necessity of developer-centric machine learning approaches for future AI programming assistants.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T16:31:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.25130v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

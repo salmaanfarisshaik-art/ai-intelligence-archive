@@ -1360,3 +1360,38 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11918v1](http://arxiv.org/abs/2609.11918v1)
 
+## Per-Matrix Optimality Is Not Enough: Three-Level Optimization for Low-Rank LLM Compression
+- **ID**: arxiv_2609.15838v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15838v1](http://arxiv.org/abs/2609.15838v1)
+
+## LLM-Based Schema-Aware Split Learning for Privacy-Preserving Mental Distress Prediction Across Heterogeneous Surveys
+- **ID**: arxiv_2609.15871v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15871v1](http://arxiv.org/abs/2609.15871v1)
+
+## Learning Multimodal One-step Flow Policy via Value-weighted Optimal Transport
+- **ID**: arxiv_2609.15883v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15883v1](http://arxiv.org/abs/2609.15883v1)
+
+## Privacy-enhanced federated learning via asynchronous aggregation and local differential perturbation
+- **ID**: arxiv_2609.15885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15885v1](http://arxiv.org/abs/2609.15885v1)
+
+## A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models
+- **ID**: arxiv_2609.15980v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15980v1](http://arxiv.org/abs/2609.15980v1)
+
+## The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+- **ID**: arxiv_2609.15982v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15982v1](http://arxiv.org/abs/2609.15982v1)
+
+## Bellman Policy Optimization
+- **ID**: arxiv_2609.15987v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15987v1](http://arxiv.org/abs/2609.15987v1)
+

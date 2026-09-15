@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15987v1",
+  "schema_version": "1.0",
+  "name": "Bellman Policy Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15987v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15987v1",
+    "updated": "2026-09-14T17:59:47Z",
+    "published": "2026-09-14T17:59:47Z",
+    "title": "Bellman Policy Optimization",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirror Descent (PMD). For autoregressive generation with terminal rewards, BPO uses the Bellman equations to reformulate PMD as a trajectory-level objective. The reformulation avoids estimating state values at intermediate states. We prove that it has the same unique optimal solution as the original PMD objective. We derive the practical BPO loss by approximating this objective. Its mismatch-correction weight is a smoothed ratio of complementary token probabilities. Experiments on mathematical reasoning benchmarks demonstrate the effectiveness of BPO.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-15T20:00:03Z",
+  "last_updated": "2026-09-14T17:59:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15987v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

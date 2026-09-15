@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14603v2](http://arxiv.org/abs/2608.14603v2)
 
+## Proportional-Fair Resource Allocation and Dual-Threshold Early-Exit Inference for Secure Cooperative Multi-Layer Edge Intelligence
+- **ID**: arxiv_2609.15847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15847v1](http://arxiv.org/abs/2609.15847v1)
+

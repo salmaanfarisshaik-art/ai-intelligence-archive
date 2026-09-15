@@ -490,3 +490,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10522v1](http://arxiv.org/abs/2609.10522v1)
 
+## SlipSense: Multimodal Tactile Learning for Low-Latency and Generalized Slip Detection
+- **ID**: arxiv_2609.15910v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15910v1](http://arxiv.org/abs/2609.15910v1)
+
