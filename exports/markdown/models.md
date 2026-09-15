@@ -28,6 +28,14 @@
 - **ID**: model_abenzerps_apodex_1_1_mini_gguf
 - **Source**: 
 
+## abenzerps/Nex-N2.5-mini-GGUF
+- **ID**: model_abenzerps_nex_n2_5_mini_gguf
+- **Source**: 
+
+## abenzerps/Spark-X2.5-4B-GGUF
+- **ID**: model_abenzerps_spark_x2_5_4b_gguf
+- **Source**: 
+
 ## ACE-Step/acestep-5Hz-lm-4B
 - **ID**: model_ace_step_acestep_5hz_lm_4b
 - **Source**: 
@@ -3420,6 +3428,10 @@
 - **ID**: model_nanbeige_nanbeige4_2_3b
 - **Source**: 
 
+## NANI-Nithin/K2-Horizon-MoVA-36B-A4B-GGUF
+- **ID**: model_nani_nithin_k2_horizon_mova_36b_a4b_gguf
+- **Source**: 
+
 ## NaomiBTW/rwkv7-g1c-13.3b-gguf
 - **ID**: model_naomibtw_rwkv7_g1c_13_3b_gguf
 - **Source**: 
@@ -3826,6 +3838,10 @@
 
 ## nvidia/Qwen3.6-35B-A3B-NVFP4
 - **ID**: model_nvidia_qwen3_6_35b_a3b_nvfp4
+- **Source**: 
+
+## nvidia/Qwen3.8-27B-NVFP4
+- **ID**: model_nvidia_qwen3_8_27b_nvfp4
 - **Source**: 
 
 ## nvidia/Qwen3-8B-FP8
@@ -6470,6 +6486,10 @@
 
 ## XCurOS/XCurOS0.1-8B-Instruct
 - **ID**: model_xcuros_xcuros0_1_8b_instruct
+- **Source**: 
+
+## XHToken/Spark-X2.5-1.7B-GGUF
+- **ID**: model_xhtoken_spark_x2_5_1_7b_gguf
 - **Source**: 
 
 ## XHToken/Spark-X2.5-4B-GGUF
