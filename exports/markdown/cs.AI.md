@@ -380,6 +380,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13621v1](http://arxiv.org/abs/2606.13621v1)
 
+## Shielded Analysis: Certification and Characterization of Defensibility in Systems under Adversarial Interaction
+- **ID**: arxiv_2606.13621v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.13621v2](http://arxiv.org/abs/2606.13621v2)
+
 ## Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization
 - **ID**: arxiv_2606.13658v1
 - **Source**: ArXiv
@@ -619,6 +624,11 @@
 - **ID**: arxiv_2606.29150v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29150v3](http://arxiv.org/abs/2606.29150v3)
+
+## FADE: Mitigating Hallucinations by Reducing Language-Prior Dominance in Large Vision-Language Models
+- **ID**: arxiv_2606.29431v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29431v5](http://arxiv.org/abs/2606.29431v5)
 
 ## Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents
 - **ID**: arxiv_2606.29495v2
@@ -1489,6 +1499,16 @@
 - **ID**: arxiv_2608.07457v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07457v1](http://arxiv.org/abs/2608.07457v1)
+
+## Protecting patient privacy in clinical foundation models: Technical and legal perspectives
+- **ID**: arxiv_2608.07705v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07705v2](http://arxiv.org/abs/2608.07705v2)
+
+## HoloAegis: Frozen Representation, Topological Inference --- Minimally Parametric Safety Manifolds and Their Capability Boundaries for LLM Guardrails
+- **ID**: arxiv_2608.08485v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08485v2](http://arxiv.org/abs/2608.08485v2)
 
 ## Improving Generalization Robustness of Multimodal RLVR
 - **ID**: arxiv_2608.08802v2
@@ -2614,4 +2634,64 @@
 - **ID**: arxiv_2609.15989v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15989v1](http://arxiv.org/abs/2609.15989v1)
+
+## FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference
+- **ID**: arxiv_2609.17008v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17008v1](http://arxiv.org/abs/2609.17008v1)
+
+## ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents
+- **ID**: arxiv_2609.17010v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17010v1](http://arxiv.org/abs/2609.17010v1)
+
+## ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation
+- **ID**: arxiv_2609.17012v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17012v1](http://arxiv.org/abs/2609.17012v1)
+
+## SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning
+- **ID**: arxiv_2609.17019v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17019v1](http://arxiv.org/abs/2609.17019v1)
+
+## Sparse MLLM Anchors, Dense Adaptation: Breaking the Self-Referential Loop in Wild Test-Time Adaptation
+- **ID**: arxiv_2609.17040v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17040v1](http://arxiv.org/abs/2609.17040v1)
+
+## Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior
+- **ID**: arxiv_2609.17064v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17064v1](http://arxiv.org/abs/2609.17064v1)
+
+## Sample-Conditioned Representation Selection for Audio Few-Shot Learning
+- **ID**: arxiv_2609.17076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17076v1](http://arxiv.org/abs/2609.17076v1)
+
+## Interactive Memory Learning for Long-Term Conversations
+- **ID**: arxiv_2609.17088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17088v1](http://arxiv.org/abs/2609.17088v1)
+
+## Scaling-Score Conformal Prediction for Multi-Target Regression
+- **ID**: arxiv_2609.17091v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17091v1](http://arxiv.org/abs/2609.17091v1)
+
+## Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction
+- **ID**: arxiv_2609.17100v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17100v1](http://arxiv.org/abs/2609.17100v1)
+
+## Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics
+- **ID**: arxiv_2609.17107v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17107v1](http://arxiv.org/abs/2609.17107v1)
+
+## Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs
+- **ID**: arxiv_2609.17109v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17109v1](http://arxiv.org/abs/2609.17109v1)
 

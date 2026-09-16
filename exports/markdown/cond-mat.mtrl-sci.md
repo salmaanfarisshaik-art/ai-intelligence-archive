@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14502v1](http://arxiv.org/abs/2608.14502v1)
 
+## AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET
+- **ID**: arxiv_2609.17123v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17123v1](http://arxiv.org/abs/2609.17123v1)
+

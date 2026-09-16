@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.19100v5",
+  "schema_version": "1.0",
+  "name": "AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.19100v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.19100v5",
+    "updated": "2026-09-15T11:12:47Z",
+    "published": "2026-06-17T14:11:41Z",
+    "title": "AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model",
+    "summary": "Large Vision and Language Models (LVLMs) have advanced rapidly, yet European Portuguese (pt-PT) remains systematically underserved by existing open-source multimodal models, which either conflate it with Brazilian Portuguese or severely under-represent it in their training data mixes. We introduce AMALIA-VL, the first open-source instruction-tuned LVLM built natively for pt-PT, pairing a high-resolution vision encoder with dynamic image tiling and a fully open pt-PT-optimized language model via a learned connector. We contribute with a purposefully designed three-stage training process - vision-language alignment, general visual instruction tuning, and preference optimization - together with a pt-PT-centric multimodal data mix combining curated and translated public datasets with novel datasets that address the near-total absence of European Portuguese multimodal resources. Our evaluation shows that AMALIA-VL establishes a strong baseline for open-source pt-PT LVLMs. We will release model weights, training data, and construction pipelines along with machine-translated pt-PT evaluation benchmarks to help democratize pt-PT LVLM development.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T11:12:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.19100v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

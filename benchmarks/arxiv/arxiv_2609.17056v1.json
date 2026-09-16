@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17056v1",
+  "schema_version": "1.0",
+  "name": "Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17056v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17056v1",
+    "updated": "2026-09-15T12:06:16Z",
+    "published": "2026-09-15T12:06:16Z",
+    "title": "Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios",
+    "summary": "Current predictive turn-taking models (PTTMs) achieve strong performance on benchmarks with controlled acoustic conditions and clean audio signals. Their generalisation to conversations with overlapping speech and background interference remains underexplored. In this research, we evaluate audio-visual PTTMs trained with clean data on a challenging cocktail-party testbed derived from the AVCocktail dataset, and analyse their adaptation behaviour to this new domain. Experimental results show consistent performance degradation across audio and visual modalities under noisy conditions, with up to 38% relative drop in weighted F1. Fine-tuning on the new domain improves robustness, but gains vary across modalities and depend on the size of the available pre-training data. These findings provide insights into the different generalisation and adaptation capabilities of the audio and visual modalities, and indicate the need for robust modelling strategies to adapt to the complexities of human interactions in noise. All code and turn labels are made publicly available to facilitate further research.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:06:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17056v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

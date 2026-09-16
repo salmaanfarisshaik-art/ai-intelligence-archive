@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17019v1",
+  "schema_version": "1.0",
+  "name": "SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17019v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17019v1",
+    "updated": "2026-09-15T11:29:29Z",
+    "published": "2026-09-15T11:29:29Z",
+    "title": "SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning",
+    "summary": "While Chain-of-Thought (CoT) reasoning has been proven to be effective, it often leads to overthinking, resulting in computational overhead, inference latency, and even degraded performance in large language models (LLMs). Existing concise reasoning frameworks significantly compromise accuracy while compressing the length of output. In this paper, we propose SKIP, a self-knowledge-guided step-wise preference learning framework. Starting with lightweight fine-tuning to adjust the model's output style, SKIP introduces a carefully designed knowledge probing mechanism to guide model to output an answer at each reasoning step. Based on the correctness of intermediate steps, we construct preference data that guide the model toward more efficient and correct reasoning by leveraging DPO. Experimental results demonstrate that our method effectively improves reasoning compression while mitigating performance degradation after fine-tuning. Besides, SKIP shows strong generalization ability on out-of-distribution datasets. We further conducted ablation studies on the component parameters of our framework.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T11:29:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17019v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

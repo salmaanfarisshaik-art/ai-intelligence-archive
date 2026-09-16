@@ -130,3 +130,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19174v1](http://arxiv.org/abs/2608.19174v1)
 
+## Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios
+- **ID**: arxiv_2609.17056v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17056v1](http://arxiv.org/abs/2609.17056v1)
+

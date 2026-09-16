@@ -120,3 +120,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11805v1](http://arxiv.org/abs/2609.11805v1)
 
+## Beyond "ChatGPT Can Make Mistakes": Designing Interventions to Support Metacognitive Monitoring in AI-Assisted Work
+- **ID**: arxiv_2609.17065v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17065v1](http://arxiv.org/abs/2609.17065v1)
+

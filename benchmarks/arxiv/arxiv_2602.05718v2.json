@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.05718v2",
+  "schema_version": "1.0",
+  "name": "Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.05718v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.05718v2",
+    "updated": "2026-09-15T11:12:06Z",
+    "published": "2026-02-05T14:46:21Z",
+    "title": "Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization",
+    "summary": "Point-supervised Temporal Action Localization (PTAL) adopts a lightly frame-annotated paradigm (\\textit{i.e.}, labeling only a single frame per action instance) to train a model to effectively locate action instances within untrimmed videos. Most existing approaches design the task head of models with only a point-supervised snippet-level classification, without explicit modeling of understanding temporal relationships among frames of an action. However, understanding the temporal relationships of frames is crucial because it can help a model understand how an action is defined and therefore benefits localizing the full frames of an action. To this end, in this paper, we design a multi-task learning framework that fully utilizes point supervision to boost the model's temporal understanding capability for action localization. Specifically, we design three self-supervised temporal understanding tasks: (i) Action Completion, (ii) Action Order Understanding, and (iii) Action Regularity Understanding. These tasks help a model understand the temporal consistency of actions across videos. To the best of our knowledge, this is the first attempt to explicitly explore temporal consistency for point supervision action localization. Extensive experimental results on four benchmark datasets demonstrate the effectiveness of the proposed method compared to several state-of-the-art approaches.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T11:12:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.05718v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

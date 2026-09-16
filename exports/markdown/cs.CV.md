@@ -315,6 +315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.16717v3](http://arxiv.org/abs/2511.16717v3)
 
+## Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis
+- **ID**: arxiv_2511.20186v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.20186v2](http://arxiv.org/abs/2511.20186v2)
+
 ## Layer-Aware Video Composition via Split-then-Merge
 - **ID**: arxiv_2511.20809v2
 - **Source**: ArXiv
@@ -434,6 +439,11 @@
 - **ID**: arxiv_2602.05582v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05582v3](http://arxiv.org/abs/2602.05582v3)
+
+## Exploring the Temporal Consistency for Point-Level Weakly-Supervised Temporal Action Localization
+- **ID**: arxiv_2602.05718v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.05718v2](http://arxiv.org/abs/2602.05718v2)
 
 ## Driving with DINO: Vision Foundation Features as a Unified Bridge for Sim-to-Real Generation in Autonomous Driving
 - **ID**: arxiv_2602.06159v3
@@ -1000,6 +1010,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18250v1](http://arxiv.org/abs/2606.18250v1)
 
+## AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model
+- **ID**: arxiv_2606.19100v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.19100v5](http://arxiv.org/abs/2606.19100v5)
+
 ## GUMP-Net: An interpretable model-data-driven intelligent algorithm for multi-class pelvic segmentation
 - **ID**: arxiv_2606.19215v1
 - **Source**: ArXiv
@@ -1199,6 +1214,11 @@
 - **ID**: arxiv_2607.12254v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.12254v2](http://arxiv.org/abs/2607.12254v2)
+
+## CRC-HGD: A Histopathological Image Dataset for Grading Colorectal Cancer
+- **ID**: arxiv_2607.12750v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.12750v3](http://arxiv.org/abs/2607.12750v3)
 
 ## Audio-Text Cross-Attention with Psycholinguistic Support Features for Ambivalence/Hesitancy Recognition
 - **ID**: arxiv_2607.13345v2
@@ -4000,6 +4020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11929v1](http://arxiv.org/abs/2609.11929v1)
 
+## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
+- **ID**: arxiv_2609.15018v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15018v2](http://arxiv.org/abs/2609.15018v2)
+
 ## VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention
 - **ID**: arxiv_2609.15810v1
 - **Source**: ArXiv
@@ -4024,4 +4049,39 @@
 - **ID**: arxiv_2609.15888v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15888v1](http://arxiv.org/abs/2609.15888v1)
+
+## Symmetry-Aware Likelihood-Orbit Aggregation for Selective Left-Right Claim Verification
+- **ID**: arxiv_2609.17004v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17004v1](http://arxiv.org/abs/2609.17004v1)
+
+## sensVLA: Spatially-Grounded Vision-Language-Action Model for Autonomous Wheel Loader
+- **ID**: arxiv_2609.17021v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17021v1](http://arxiv.org/abs/2609.17021v1)
+
+## Bi-FlowGS: Bridging Generative View Completion and Gaussian Geometry through Bidirectional Flow Co-Refinement
+- **ID**: arxiv_2609.17039v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17039v1](http://arxiv.org/abs/2609.17039v1)
+
+## Beyond In-Distribution Metrics: A Systematic Out-of-Distribution Evaluation of Congenital Heart Disease Segmentation
+- **ID**: arxiv_2609.17068v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17068v1](http://arxiv.org/abs/2609.17068v1)
+
+## Hub-Spectral Activation of Latent Multimodal Knowledge
+- **ID**: arxiv_2609.17094v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17094v1](http://arxiv.org/abs/2609.17094v1)
+
+## GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos
+- **ID**: arxiv_2609.17099v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17099v1](http://arxiv.org/abs/2609.17099v1)
+
+## Not Another Text Benchmark: Putting the "Visual" Back in Visual Question Answering for Large Video Models
+- **ID**: arxiv_2609.17112v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17112v1](http://arxiv.org/abs/2609.17112v1)
 

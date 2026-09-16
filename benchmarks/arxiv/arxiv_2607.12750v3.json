@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.12750v3",
+  "schema_version": "1.0",
+  "name": "CRC-HGD: A Histopathological Image Dataset for Grading Colorectal Cancer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.12750v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.12750v3",
+    "updated": "2026-09-15T12:00:21Z",
+    "published": "2026-07-14T13:18:20Z",
+    "title": "CRC-HGD: A Histopathological Image Dataset for Grading Colorectal Cancer",
+    "summary": "Colorectal cancer (CRC) is the third most common cancer worldwide and the second leading cause of cancer-related deaths globally, with approximately 1,926,425 new cases and 904,019 deaths reported in 2022. Accurate histologic grading plays a critical role in prognosis and treatment planning for colorectal adenocarcinoma. In recent years, artificial intelligence and its subcategories, including machine learning and deep learning, have been increasingly employed for automated cancer detection and classification. An appropriate and well-organized dataset is the essential first step to achieve this goal. This paper introduces CRC-HGD, a histopathological microscopy image dataset of 1,914 images obtained from 214 colorectal adenocarcinoma patients (Grade I: 106, Grade II: 75, Grade III: 33). The specimens are H&E-stained colorectal tissue sections acquired at the Poursina Hakim Research Center of Isfahan University of Medical Sciences, Iran, diagnosed between 2014 and 2019, and graded according to the World Health Organization (WHO) criteria into three grades: well-differentiated (Grade I), moderately differentiated (Grade II), and poorly differentiated (Grade III). For each specimen, four magnification levels are provided: 4x, 10x, 20x, and 40x. The dataset is accessible via Mendeley Data (https://doi.org/10.17632/yfp5sfj47m.4) and at http://databiox.com, where the latest version is also available. The distinctive feature of this dataset is the provision of labeled specimens across all three differentiation grades at multiple magnification levels, enabling comprehensive computational analysis of colorectal cancer grading.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:00:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.12750v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

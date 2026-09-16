@@ -95,6 +95,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.14022v3](http://arxiv.org/abs/2507.14022v3)
 
+## Post-Training Large Language Models via Reinforcement Learning from Self-Feedback
+- **ID**: arxiv_2507.21931v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.21931v2](http://arxiv.org/abs/2507.21931v2)
+
 ## PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment
 - **ID**: arxiv_2508.05132v3
 - **Source**: ArXiv
@@ -124,6 +129,11 @@
 - **ID**: arxiv_2508.20766v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.20766v2](http://arxiv.org/abs/2508.20766v2)
+
+## SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP
+- **ID**: arxiv_2509.07801v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.07801v5](http://arxiv.org/abs/2509.07801v5)
 
 ## Steering Multimodal Large Language Models Decoding for Context-Aware Safety
 - **ID**: arxiv_2509.19212v2
@@ -989,6 +999,11 @@
 - **ID**: arxiv_2607.02464v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.02464v2](http://arxiv.org/abs/2607.02464v2)
+
+## REDDIT: Forgetting-Resistant Correction of Timestamp Drift in ASR via Replay-Based Distribution Editing
+- **ID**: arxiv_2607.05364v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05364v4](http://arxiv.org/abs/2607.05364v4)
 
 ## WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning
 - **ID**: arxiv_2607.09328v2
@@ -2535,6 +2550,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)
 
+## Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition
+- **ID**: arxiv_2609.07474v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.07474v3](http://arxiv.org/abs/2609.07474v3)
+
 ## The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits
 - **ID**: arxiv_2609.09048v1
 - **Source**: ArXiv
@@ -2599,6 +2619,11 @@
 - **ID**: arxiv_2609.10539v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10539v1](http://arxiv.org/abs/2609.10539v1)
+
+## On the Impact of Anonymization on the Performance of Large Language Models
+- **ID**: arxiv_2609.11335v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11335v2](http://arxiv.org/abs/2609.11335v2)
 
 ## RAG-Safety-Bench: Reliable Evaluation of Retrieval-Augmented LLM Safety
 - **ID**: arxiv_2609.11758v1
@@ -2709,4 +2734,44 @@
 - **ID**: arxiv_2609.15975v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15975v1](http://arxiv.org/abs/2609.15975v1)
+
+## Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs
+- **ID**: arxiv_2609.16984v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16984v1](http://arxiv.org/abs/2609.16984v1)
+
+## Autoformalizing Argumentative Material Inferences
+- **ID**: arxiv_2609.16991v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16991v1](http://arxiv.org/abs/2609.16991v1)
+
+## The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment
+- **ID**: arxiv_2609.16993v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16993v1](http://arxiv.org/abs/2609.16993v1)
+
+## PaperDoctor: Evidence-Grounded and Actionable Feedback for Scientific Papers in Progress
+- **ID**: arxiv_2609.16995v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16995v1](http://arxiv.org/abs/2609.16995v1)
+
+## Can LLMs Follow the Pulse of a Crisis? Evaluating Crisis Sentiment in Bangladesh's July Uprising
+- **ID**: arxiv_2609.16997v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16997v1](http://arxiv.org/abs/2609.16997v1)
+
+## Diagnosing the Fact-Grounding Gap in Multi-Hop Question Answering
+- **ID**: arxiv_2609.17043v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17043v1](http://arxiv.org/abs/2609.17043v1)
+
+## EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models
+- **ID**: arxiv_2609.17081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17081v1](http://arxiv.org/abs/2609.17081v1)
+
+## An Empirical Study of Counterfactual Self-Explanations in LLMs
+- **ID**: arxiv_2609.17119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17119v1](http://arxiv.org/abs/2609.17119v1)
 

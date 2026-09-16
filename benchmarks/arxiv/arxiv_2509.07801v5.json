@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.07801v5",
+  "schema_version": "1.0",
+  "name": "SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.07801v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.07801v5",
+    "updated": "2026-09-15T12:17:46Z",
+    "published": "2025-09-09T14:41:40Z",
+    "title": "SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP",
+    "summary": "Structured information extraction from scientific literature is crucial for capturing core concepts and emerging trends in specialized fields. While existing datasets aid model development, most focus on specific publication sections due to domain complexity and the high cost of annotating scientific texts. To address this limitation, we introduce SciNLP - a specialized benchmark for full-text entity and relation extraction in the Natural Language Processing (NLP) domain. The dataset comprises 60 manually annotated full-text NLP publications, covering 6,429 entities and 1,649 relation. Compared to existing research, SciNLP is the first dataset providing full-text annotations of entities and their relationships in the NLP domain. To validate the effectiveness of SciNLP, we conducted comparative experiments with similar datasets and evaluated the performance of state-of-the-art supervised models on this dataset. Results reveal varying extraction capabilities of existing models across academic texts of different lengths. Cross-comparisons with existing datasets show that SciNLP achieves significant performance improvements on certain baseline models. Using models trained on SciNLP, we implemented automatic construction of a fine-grained knowledge graph for the NLP domain. Our KG has an average node degree of 3.3 per entity, indicating rich semantic topological information that enhances downstream applications. The dataset is publicly available at: https://github.com/AKADDC/SciNLP.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:17:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.07801v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

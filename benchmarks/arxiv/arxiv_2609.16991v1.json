@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.16991v1",
+  "schema_version": "1.0",
+  "name": "Autoformalizing Argumentative Material Inferences",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.16991v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.16991v1",
+    "updated": "2026-09-15T11:05:26Z",
+    "published": "2026-09-15T11:05:26Z",
+    "title": "Autoformalizing Argumentative Material Inferences",
+    "summary": "Natural language arguments are compelling before they are formally explicit. A premise supports a claim through defeasible warrants, background commitments, and exception conditions that the text leaves implicit. However, formal verification requires the opposite. Making such arguments machine-checkable requires constructing the missing commitments, not only translating given sentences into logic. Construction, however, carries a risk that translation does not: a system free to add premises can make any claim provable, and a formally valid proof may assert the claim outright, prove it without the original premise, or establish more than the claim itself. We address this problem by formulating autoformalization for argumentative material inference as guard completion, in which non-monotonic material support is turned into monotonic formal inference relative to an explicitly constructed guard set. A completion is accepted only when its proof both passes the theorem prover and survives contrastive tests of premise dependence and claim selectivity. We implement this formulation in GUARD, a neuro-symbolic framework in which LLMs construct and formalize candidate guards, Isabelle/HOL verifies the resulting theories and returns step-level feedback for iterative refinement, and the system abstains when no faithful completion can be reached. Our empirical results on Debatepedia and ARCT using different LLMs demonstrate that GUARD yields significant improvements in verified-faithful (+35.3, +32.9 points) and substantial reductions in leakage (-25.9, -21.9 points) over the state-of-the-art LLM-driven theorem proving approach. Moreover, we show that the symbolic soft critique and the explicit assumption layer account for most of these gains, with the soft critique also improving the initial validity of the elicited context and reducing the number of iterations required for successful verification.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T11:05:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.16991v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17119v1",
+  "schema_version": "1.0",
+  "name": "An Empirical Study of Counterfactual Self-Explanations in LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17119v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17119v1",
+    "updated": "2026-09-15T12:47:22Z",
+    "published": "2026-09-15T12:47:22Z",
+    "title": "An Empirical Study of Counterfactual Self-Explanations in LLMs",
+    "summary": "Large language models can easily generate explanations for their own outputs, but such self-explanations are not necessarily faithful to the model's behavior. We study this issue through counterfactual self-explanations, where a model minimally edits an input so that its own prediction changes. Across sentiment analysis and natural language inference, we evaluate ten instruction-tuned models from the LLaMA-3 and Qwen-2.5 families, measuring faithfulness, minimality, and alignment with human-annotated rationales. Our results show that model scale is the strongest determinant of explanation quality: larger models are substantially more likely to generate counterfactuals that flip their own predictions and target decision-relevant evidence. In contrast, the rationale-guided condition produces edit-minimal counterfactuals that are also more human-aligned. However, it does not consistently improve faithfulness. Overall, counterfactual self-explanations can provide useful behavioral evidence about model decisions, but their reliability depends strongly on model capacity and should be empirically validated rather than assumed.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:47:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17119v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

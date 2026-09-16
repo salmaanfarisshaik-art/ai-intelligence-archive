@@ -120,3 +120,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10421v1](http://arxiv.org/abs/2609.10421v1)
 
+## Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs
+- **ID**: arxiv_2609.17111v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17111v1](http://arxiv.org/abs/2609.17111v1)
+

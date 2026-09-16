@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17091v1",
+  "schema_version": "1.0",
+  "name": "Scaling-Score Conformal Prediction for Multi-Target Regression",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17091v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17091v1",
+    "updated": "2026-09-15T12:23:57Z",
+    "published": "2026-09-15T12:23:57Z",
+    "title": "Scaling-Score Conformal Prediction for Multi-Target Regression",
+    "summary": "Multi-target regression requires a model to simultaneously predict several related outputs. Conformal prediction provides distribution-free, finite-sample marginal coverage guarantees, but extending these to joint multi-dimensional regions in a model-agnostic, sample-efficient manner remains challenging: max-aggregation ignores scale differences, copula-based methods are only asymptotically valid, rectangular methods typically split the calibration set, and quantile or density-based methods require training a specialised model beyond a plain point predictor. We propose the scaling-score conformal method, which is model-agnostic (requires only component-wise absolute residuals), uses a single calibration set, and yields four nested output types: an outer rectangle (SCO) with valid joint coverage, the exact set R $α$ , a staircase (SC 2 ) over approximation of R $α$ , and an inner rectangle (SCI). A single hyperparameter $γ$ $\\in$ (0, 1) controls the base-rectangle quantile level independently of $α$. We prove downward-closedness and a rectangular sandwich bound and derive a closed-form outer rectangle. Experiments on 29 realworld datasets confirm valid joint coverage; SC 2 with $γ$ = 1-$α$ consistently achieves competitive volume relative to baselines, with the advantage growing with output dimension d.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:23:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17091v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -520,6 +520,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20560v1](http://arxiv.org/abs/2606.20560v1)
 
+## The Scissors Effect: When Resize-Based Input Diversity Helps or Hurts Transfer Attacks
+- **ID**: arxiv_2606.22516v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.22516v2](http://arxiv.org/abs/2606.22516v2)
+
 ## Tensorion: A Tensor-Aware Generalization of the Muon Optimizer
 - **ID**: arxiv_2606.25975v2
 - **Source**: ArXiv
@@ -1394,4 +1399,19 @@
 - **ID**: arxiv_2609.15987v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15987v1](http://arxiv.org/abs/2609.15987v1)
+
+## CLARE: Scalable Class-Incremental Continual Learning via a Sparsity-Based Framework
+- **ID**: arxiv_2609.17026v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17026v1](http://arxiv.org/abs/2609.17026v1)
+
+## Distributed JEPA: A Self-Supervised Framework for Energy Forecasting
+- **ID**: arxiv_2609.17029v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17029v1](http://arxiv.org/abs/2609.17029v1)
+
+## Repurposing Unified Topological Signatures for Graph Representation Learning
+- **ID**: arxiv_2609.17061v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17061v1](http://arxiv.org/abs/2609.17061v1)
 

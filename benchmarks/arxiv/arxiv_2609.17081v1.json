@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17081v1",
+  "schema_version": "1.0",
+  "name": "EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17081v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17081v1",
+    "updated": "2026-09-15T12:18:19Z",
+    "published": "2026-09-15T12:18:19Z",
+    "title": "EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models",
+    "summary": "Grounded language-model systems are often evaluated by final answer accuracy, yet a correct answer can be unsupported, drawn from the wrong source, or produced when evidence is insufficient or contradictory. We introduce EviScope, a paired counterfactual benchmark that holds the question fixed while adding, removing, distracting, or contradicting its evidence. EviScope-v1.1 contains 40 four-condition quartets with repaired counterfactual claims and span-level support labels for automatic evaluation. Across 960 gold-blind generations from Qwen2.5-7B, Llama 3.1 8B, and Gemini 3.5 Flash, paired metrics expose model-dependent grounding behavior that answer accuracy hides. On two local open models, an explicit evidence-action gate underperforms vanilla RAG on QCS: 0.15 vs. 0.50 for Qwen and 0.10 vs. 0.375 for Llama. Gemini reaches 0.944 joint success under both prompts, yet still answers 5% of conflict cases after contradiction insertion. EviScope therefore distinguishes unsupported answering, conflict blindness, and wrong non-answer actions rather than scoring answers alone.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:18:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17081v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24692v1](http://arxiv.org/abs/2607.24692v1)
 
+## Intelligent Base Station Deployment in Urban Wireless Networks: A Geographic Data-Informed Digital Twin Approach
+- **ID**: arxiv_2608.14599v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14599v2](http://arxiv.org/abs/2608.14599v2)
+
 ## HMS-SCP: Task-Oriented Multi-Scale Semantic Communication for V2X Cooperative Perception
 - **ID**: arxiv_2608.14603v2
 - **Source**: ArXiv

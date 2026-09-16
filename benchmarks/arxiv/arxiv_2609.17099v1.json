@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17099v1",
+  "schema_version": "1.0",
+  "name": "GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17099v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17099v1",
+    "updated": "2026-09-15T12:31:34Z",
+    "published": "2026-09-15T12:31:34Z",
+    "title": "GeoLAM: Learning Geometry-Grounded Latent Actions from Unlabeled Human Videos",
+    "summary": "Human videos provide rich manipulation experience, but extracting action representations that preserve useful motion remains challenging. Visual reconstruction alone can entangle manipulation-related motion with appearance changes and camera movement. We present GeoLAM, a framework for learning geometry-grounded latent actions from action-free human videos. GeoLAM combines future-frame reconstruction through a frozen geometric feature hierarchy with motion supervision from a training-only 4D geometry teacher. The geometric representation provides a structural prior, while the teacher's predictions yield spatially pooled targets capturing 3D displacement, residual image-plane motion, and surface-orientation changes. Visibility and confidence weighting reduces the contribution of unreliable estimates, encouraging continuous latent actions to retain geometric motion without explicit hand-pose or hand-trajectory annotations. After video pretraining without action labels, the learned representation provides transition targets for a world-action model trained on action-labeled robot demonstrations. The model jointly denoises latent actions and executable action chunks, with future-video prediction used only as an auxiliary training task. Deployment therefore requires neither the geometry teacher nor future-video generation. Evaluations on a latent-action benchmark and robotic manipulation tasks demonstrate the strong performance of GeoLAM.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-16T01:06:03Z",
+  "last_updated": "2026-09-15T12:31:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17099v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
