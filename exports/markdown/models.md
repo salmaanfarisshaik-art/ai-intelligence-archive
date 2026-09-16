@@ -276,6 +276,10 @@
 - **ID**: model_antirez_deepseek_v4_gguf
 - **Source**: 
 
+## antirez/qwen3.8-flash-next-gguf
+- **ID**: model_antirez_qwen3_8_flash_next_gguf
+- **Source**: 
+
 ## anton-hugging/TimeOmni-1-7B
 - **ID**: model_anton_hugging_timeomni_1_7b
 - **Source**: 
@@ -1966,6 +1970,10 @@
 
 ## ibnzterrell/Meta-Llama-3.3-70B-Instruct-AWQ-INT4
 - **ID**: model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4
+- **Source**: 
+
+## IFM/K2-Horizon-7B-Uno
+- **ID**: model_ifm_k2_horizon_7b_uno
 - **Source**: 
 
 ## igorls/gemma-4-12B-it-heretic-GGUF
@@ -5498,6 +5506,10 @@
 
 ## swiss-ai/Apertus-8B-Instruct-2509
 - **ID**: model_swiss_ai_apertus_8b_instruct_2509
+- **Source**: 
+
+## swiss-ai/Apertus-v1.5-8B
+- **ID**: model_swiss_ai_apertus_v1_5_8b
 - **Source**: 
 
 ## syvai/plapre-nano

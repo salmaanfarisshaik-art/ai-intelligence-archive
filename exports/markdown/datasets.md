@@ -109,6 +109,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ai4bharat_sangraha
+- **Source**: 
+
+## 
 - **ID**: dataset_ai_for_good_lab_ai4g_flood_dataset
 - **Source**: 
 
@@ -565,6 +569,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_atokforps_latent_worker_early4_0
+- **Source**: 
+
+## 
+- **ID**: dataset_atokforps_latent_worker_early4_1
+- **Source**: 
+
+## 
 - **ID**: dataset_atokforps_latent_worker_early4_5
 - **Source**: 
 
@@ -726,6 +738,10 @@
 
 ## 
 - **ID**: dataset_baptistelechat_fais_ton_plein_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_bastao_veracruz_pt_br
 - **Source**: 
 
 ## 
@@ -1021,6 +1037,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_chcorbi_helvipad
+- **Source**: 
+
+## 
 - **ID**: dataset_cheatthegod_cmp_v6_base108_render
 - **Source**: 
 
@@ -1074,6 +1094,10 @@
 
 ## 
 - **ID**: dataset_cimec_lambada
+- **Source**: 
+
+## 
+- **ID**: dataset_cis_lmu_glot500
 - **Source**: 
 
 ## 
@@ -1322,6 +1346,10 @@
 
 ## 
 - **ID**: dataset_deliberatorarchiver_nsfwgameresource_01
+- **Source**: 
+
+## 
+- **ID**: dataset_depth2world_vladbench
 - **Source**: 
 
 ## 
@@ -1774,6 +1802,10 @@
 
 ## 
 - **ID**: dataset_frontisai_openmle_tasks
+- **Source**: 
+
+## 
+- **ID**: dataset_fsicoli_common_voice_15_0
 - **Source**: 
 
 ## 
@@ -3781,6 +3813,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_intellabs_bluelens
+- **Source**: 
+
+## 
 - **ID**: dataset_internlm_wildclawbench
 - **Source**: 
 
@@ -3942,6 +3978,10 @@
 
 ## 
 - **ID**: dataset_japanese_asr_whisper_transcriptions_mls_wer_10_0
+- **Source**: 
+
+## 
+- **ID**: dataset_japanese_asr_whisper_transcriptions_mls_wer_10_0_vectorized
 - **Source**: 
 
 ## 
@@ -4553,6 +4593,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ln2697_lead_123d
+- **Source**: 
+
+## 
 - **ID**: dataset_lockon_toolace
 - **Source**: 
 
@@ -4830,6 +4874,10 @@
 
 ## 
 - **ID**: dataset_medotter_pi_cai
+- **Source**: 
+
+## 
+- **ID**: dataset_meehai_dronescapes
 - **Source**: 
 
 ## 
