@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:18:39Z",
+  "generated_at": "2026-09-16T13:12:42Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -704,6 +704,11 @@
     {
       "source_id": "model_antirez_deepseek_v4_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_antirez_qwen3_8_flash_next_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
       "type": "derived_from"
     },
     {
@@ -2614,6 +2619,11 @@
     {
       "source_id": "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
       "target_id": "hf_meta-llama_Llama-3.3-70B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b_uno",
+      "target_id": "hf_IFM_K2-Horizon-7B",
       "type": "derived_from"
     },
     {

@@ -1,0 +1,27 @@
+{
+  "_id": "6a743ab1cef40949f3111c34",
+  "id": "ln2697/lead-123d",
+  "author": "ln2697",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-09T11:37:35.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "b9c4f6234a3e967981af8d8168f8670ee4348440",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tLEAD 123D\n\t\n\nA privileged expert drives CARLA Leaderboard 2.0 routes and writes every modality\nit sees to the standardized Py123D format:\ncameras, lidar, radar, the full scene state and the maps to place it on. Code,\nloaders, visualizers and closed-loop benchmarks live in\nkesai-labs/lead.\nPolicy learning is one application. The logs carry the whole scene, so perception,\nworld models, video generation and self-play RL read the same files.\n\n\t\n\t\t\n\t\n\t\n\t\tContents\n\t\n\n\n\t\n\t\t\nPath\nSize\nLogs… See the full description on the dataset page: https://huggingface.co/datasets/ln2697/lead-123d.",
+  "downloads": 37478,
+  "tags": [
+    "license:mit",
+    "arxiv:2605.08084",
+    "region:us",
+    "autonomous-driving",
+    "carla",
+    "py123d",
+    "end-to-end-driving",
+    "multimodal"
+  ],
+  "createdAt": "2026-08-06T07:41:37.000Z",
+  "key": "",
+  "unique_id": "dataset_ln2697_lead_123d",
+  "schema_version": "1.0"
+}

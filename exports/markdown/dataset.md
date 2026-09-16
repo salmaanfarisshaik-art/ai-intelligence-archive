@@ -148,6 +148,12 @@
 - **URL**: [https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00)
 - **Tags**: region:us
 
+## atokforps/latent_worker_early-a2_06
+- **ID**: hf_ds_63c82e83a0c5c8cfa84eff03
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/atokforps/latent_worker_early-a2_06](https://huggingface.co/datasets/atokforps/latent_worker_early-a2_06)
+- **Tags**: region:us
+
 ## lukaemon/bbh
 - **ID**: hf_ds_63da18ebaa68107243401b0d
 - **Source**: HuggingFace Datasets

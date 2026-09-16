@@ -5573,6 +5573,13 @@
       "score": 1.0
     }
   ],
+  "04010": [
+    {
+      "entity_id": "model_ifm_k2_horizon_7b_uno",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "04030": [
     {
       "entity_id": "dataset_nvidia_opencodeinstruct",
@@ -6952,6 +6959,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_63c82e83a0c5c8cfa84eff03",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_datajuicer_llama_1b_dj_refine_150b",
       "match_type": "exact",
       "score": 1.5
@@ -7188,6 +7200,13 @@
   "06324": [
     {
       "entity_id": "model_amazon_bmojof_primed_hqwen3_8b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "06350": [
+    {
+      "entity_id": "dataset_ai4bharat_sangraha",
       "match_type": "exact",
       "score": 1.5
     }
@@ -9115,6 +9134,13 @@
     },
     {
       "entity_id": "model_bigscience_bloom_560m",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "08084": [
+    {
+      "entity_id": "dataset_ln2697_lead_123d",
       "match_type": "exact",
       "score": 1.5
     }

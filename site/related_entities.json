@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:18:39Z",
+  "generated_at": "2026-09-16T13:12:42Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -339,6 +339,9 @@
       "model_huggingfacetb_smollm_1_7b",
       "model_huggingfacetb_smollm_360m",
       "model_pfnet_plamo_3_nict_2b_base"
+    ],
+    "hf_IFM_K2-Horizon-7B": [
+      "model_ifm_k2_horizon_7b_uno"
     ],
     "hf_IFM_K2-Horizon-MoVA-36B-A4B": [
       "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf"
@@ -1198,6 +1201,7 @@
     ],
     "hf_Qwen_Qwen3.8-Flash-Next": [
       "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
+      "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf"
     ],
@@ -3539,6 +3543,9 @@
     "model_antirez_deepseek_v4_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
     ],
+    "model_antirez_qwen3_8_flash_next_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
     "model_anton_hugging_timeomni_1_7b": [
       "hf_Qwen_Qwen2.5-7B-Instruct"
     ],
@@ -4464,6 +4471,9 @@
     ],
     "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4": [
       "hf_meta-llama_Llama-3.3-70B-Instruct"
+    ],
+    "model_ifm_k2_horizon_7b_uno": [
+      "hf_IFM_K2-Horizon-7B"
     ],
     "model_igorls_gemma_4_12b_it_heretic_gguf": [
       "hf_igorls_gemma-4-12B-it-heretic"
