@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.10600v6",
+  "schema_version": "1.0",
+  "name": "Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.10600v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.10600v6",
+    "updated": "2026-09-15T17:59:53Z",
+    "published": "2025-09-12T17:50:23Z",
+    "title": "Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database",
+    "summary": "Collegiate cross country teams often build their season schedules on intuition rather than evidence, partly because large-scale performance datasets were not publicly accessible prior to the National Running Club Database (NRCD). We analyze the comprehensive-era Cross Country subset of NRCD, 23,360 results from 7,056 athletes (2023-2025; >99% course/weather coverage). Under leakage control and temporal validation, race-result features do not support out-of-year forecasting of individual improvement (best men's R^2 = 0.044; women's -0.018), capturing only a small fraction of the outcome's reliability ceiling (approximately 0.23-0.28). Against this null, team race frequency associates with nationals placement (pooled RR = 2.09; GEE OR = 2.56/SD). Program-wide opportunity (roster depth; Effective Racing Opportunity) outranks a single workhorse's max race count cross-sectionally, but overall team depth for race count is controlled. Converted Only times (not adjusted for weather and elevation) overstate mean first-to-last gains by 15-21 s relative to Standardized. These results challenge coaching practices that treat schedule design as purely anecdotal and show how NRCD enables evidence-based decision-making in collegiate cross country.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:59:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.10600v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

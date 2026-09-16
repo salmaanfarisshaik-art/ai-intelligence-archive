@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26083v3",
+  "schema_version": "1.0",
+  "name": "ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26083v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26083v3",
+    "updated": "2026-09-15T17:58:01Z",
+    "published": "2026-08-26T17:47:49Z",
+    "title": "ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts",
+    "summary": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should be audited for reliance on a set of concepts, such as acquisition artifacts or demographics. Current methods, such as linear probes and concept activation vectors, measure reliance by asking whether each concept, in isolation, is decodable from a layer. Their scores therefore reflect not only reliance but also correlations in the audit dataset. We introduce Independent Canonical cONcept (ICON) decomposition, which quantifies the share of a layer's variance each concept explains, conditional on all other concepts and the outcome. ICON scores are variance shares, comparable across layers and between continuous and categorical concepts. ICON also reports the share the set leaves unexplained. On simulated data, ICON recovers the true importance more accurately than seven baselines. On skin-cancer and neuroimaging models, ICON distinguishes learned shortcuts from correlated concepts, confirmed by retraining and out-of-distribution tests.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:58:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26083v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

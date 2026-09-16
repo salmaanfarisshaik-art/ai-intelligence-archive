@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17515v1",
+  "schema_version": "1.0",
+  "name": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17515v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17515v1",
+    "updated": "2026-09-15T17:51:48Z",
+    "published": "2026-09-15T17:51:48Z",
+    "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+    "summary": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation in smart-home tool calling across four LLMs spanning dense Transformer, dense hybrid, and mixture-of-experts (MoE) architectures, together with depth, width, hybrid, and expert pruning methods. After post-pruning supervised fine-tuning (SFT), we evaluate more than 19,500 instances from three smart-home datasets. Beyond aggregate task accuracy, we characterize degradation along two dimensions: action components (i.e., operation, device, argument, and value) and task complexity. Our results show that dense models have narrow safe pruning regions followed by sharp degradation, while MoE models tolerate substantially more pruning. Pruning degrades grounded specificity before schema-level intent, and aggressive dense pruning can induce systematic over-refusal. These findings highlight the importance of evaluating pruning beyond aggregate accuracy when selecting pruned LLMs for reliable tool execution.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:51:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17515v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

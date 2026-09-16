@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2201.13427v2](http://arxiv.org/abs/2201.13427v2)
 
+## The inherent goodness of well educated intelligence
+- **ID**: arxiv_2401.04846v12
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2401.04846v12](http://arxiv.org/abs/2401.04846v12)
+
 ## Procedural Content Generation via Generative Artificial Intelligence
 - **ID**: arxiv_2407.09013v3
 - **Source**: ArXiv
@@ -314,6 +319,11 @@
 - **ID**: arxiv_2606.00831v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.00831v2](http://arxiv.org/abs/2606.00831v2)
+
+## ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems
+- **ID**: arxiv_2606.06114v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06114v3](http://arxiv.org/abs/2606.06114v3)
 
 ## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
 - **ID**: arxiv_2606.07157v4
@@ -679,6 +689,16 @@
 - **ID**: arxiv_2607.08734v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.08734v2](http://arxiv.org/abs/2607.08734v2)
+
+## Shared Selective Persistent Memory for Agentic LLM Systems
+- **ID**: arxiv_2607.09493v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09493v2](http://arxiv.org/abs/2607.09493v2)
+
+## The Verifier is the Curriculum: Precision Sets the Return on Search in Code Self-Distillation
+- **ID**: arxiv_2607.09709v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09709v2](http://arxiv.org/abs/2607.09709v2)
 
 ## Verification of Adaptive Agentic Controllers through Finite Rule Revision
 - **ID**: arxiv_2607.09770v2
@@ -2630,6 +2650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15983v1](http://arxiv.org/abs/2609.15983v1)
 
+## Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science
+- **ID**: arxiv_2609.15983v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15983v2](http://arxiv.org/abs/2609.15983v2)
+
 ## Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection
 - **ID**: arxiv_2609.15989v1
 - **Source**: ArXiv
@@ -2694,4 +2719,29 @@
 - **ID**: arxiv_2609.17109v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17109v1](http://arxiv.org/abs/2609.17109v1)
+
+## FlashVector: Agent for Hierarchical Model Serving Stack Optimization
+- **ID**: arxiv_2609.17391v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17391v1](http://arxiv.org/abs/2609.17391v1)
+
+## JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management
+- **ID**: arxiv_2609.17475v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17475v1](http://arxiv.org/abs/2609.17475v1)
+
+## LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence
+- **ID**: arxiv_2609.17488v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17488v1](http://arxiv.org/abs/2609.17488v1)
+
+## Verifiable Social Reasoning for LLM Assistants
+- **ID**: arxiv_2609.17496v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17496v1](http://arxiv.org/abs/2609.17496v1)
+
+## ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents
+- **ID**: arxiv_2609.17523v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17523v1](http://arxiv.org/abs/2609.17523v1)
 

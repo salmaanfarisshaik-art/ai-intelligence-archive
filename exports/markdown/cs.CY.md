@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.13187v5](http://arxiv.org/abs/2508.13187v5)
 
+## Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database
+- **ID**: arxiv_2509.10600v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.10600v6](http://arxiv.org/abs/2509.10600v6)
+
 ## Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education
 - **ID**: arxiv_2605.15850v3
 - **Source**: ArXiv

@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20328v1](http://arxiv.org/abs/2607.20328v1)
 
+## Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints
+- **ID**: arxiv_2609.07595v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.07595v2](http://arxiv.org/abs/2609.07595v2)
+

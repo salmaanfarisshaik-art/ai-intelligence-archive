@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05682v3](http://arxiv.org/abs/2605.05682v3)
 
+## Conversations in Space: Non-Linear LLM Interaction in Everyday Use
+- **ID**: arxiv_2605.15848v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15848v2](http://arxiv.org/abs/2605.15848v2)
+
 ## Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs
 - **ID**: arxiv_2605.29928v3
 - **Source**: ArXiv
@@ -124,4 +129,9 @@
 - **ID**: arxiv_2609.17065v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17065v1](http://arxiv.org/abs/2609.17065v1)
+
+## CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem
+- **ID**: arxiv_2609.17434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17434v1](http://arxiv.org/abs/2609.17434v1)
 

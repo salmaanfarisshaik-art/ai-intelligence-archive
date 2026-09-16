@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.08091v3",
+  "schema_version": "1.0",
+  "name": "Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.08091v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.08091v3",
+    "updated": "2026-09-15T16:38:03Z",
+    "published": "2026-03-09T08:32:21Z",
+    "title": "Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization",
+    "summary": "Large language model (LLM)-based judges are widely adopted for automated evaluation and reward modeling, yet their judgments are often affected by judgment biases. Accurately evaluating these biases is essential for ensuring the reliability of LLM-based judges. However, existing studies typically investigate limited biases under a single judge formulation, either generative or discriminative, lacking a comprehensive evaluation. To bridge this gap, we propose JudgeBiasBench, a benchmark for systematically quantifying biases in LLM-based judges. JudgeBiasBench defines a taxonomy of judgment biases across 4 dimensions, and constructs bias-augmented evaluation instances through a controlled bias injection pipeline, covering 12 representative bias types. We conduct extensive experiments across both generative and discriminative judges, revealing that current judges exhibit significant and diverse bias patterns that often compromise the reliability of automated evaluation. To mitigate judgment bias, we propose bias-aware training that explicitly incorporates bias-related attributes into the training process, encouraging judges to disentangle task-relevant quality from bias-correlated cues. By adopting reinforcement learning for generative judges and contrastive learning for discriminative judges, our methods effectively reduce judgment biases while largely preserving general evaluation capability.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T16:38:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.08091v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

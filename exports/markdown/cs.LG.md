@@ -190,6 +190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## Partial recovery of meter-scale surface weather
+- **ID**: arxiv_2602.23146v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.23146v2](http://arxiv.org/abs/2602.23146v2)
+
 ## CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 - **ID**: arxiv_2603.00039v2
 - **Source**: ArXiv
@@ -1190,6 +1195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26083v2](http://arxiv.org/abs/2608.26083v2)
 
+## ICON Decomposition: Auditing deep neural networks for shortcuts by decomposing layer-wise representations using concepts
+- **ID**: arxiv_2608.26083v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26083v3](http://arxiv.org/abs/2608.26083v3)
+
 ## TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development
 - **ID**: arxiv_2608.26086v1
 - **Source**: ArXiv
@@ -1414,4 +1424,24 @@
 - **ID**: arxiv_2609.17061v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17061v1](http://arxiv.org/abs/2609.17061v1)
+
+## Large Language Models Develop Belief State Geometry In-Context
+- **ID**: arxiv_2609.17376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17376v1](http://arxiv.org/abs/2609.17376v1)
+
+## Learning-Guided Planning in Large Dynamic Action Spaces: Budgeted Tree Search for One-to-Many Mobile Charging
+- **ID**: arxiv_2609.17429v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17429v1](http://arxiv.org/abs/2609.17429v1)
+
+## Coupled Calibration and Learning: Mitigating Teacher Bias in LLM Distillation without Target-Domain Reward Feedback
+- **ID**: arxiv_2609.17474v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17474v1](http://arxiv.org/abs/2609.17474v1)
+
+## ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation
+- **ID**: arxiv_2609.17499v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17499v1](http://arxiv.org/abs/2609.17499v1)
 

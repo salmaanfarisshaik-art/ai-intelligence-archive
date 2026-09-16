@@ -335,10 +335,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.07025v2](http://arxiv.org/abs/2603.07025v2)
 
+## Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization
+- **ID**: arxiv_2603.08091v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.08091v3](http://arxiv.org/abs/2603.08091v3)
+
 ## N-gram-like Language Models Predict Naturalistic Reading Time Best
 - **ID**: arxiv_2603.09872v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.09872v2](http://arxiv.org/abs/2603.09872v2)
+
+## Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation
+- **ID**: arxiv_2603.15547v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.15547v2](http://arxiv.org/abs/2603.15547v2)
 
 ## PlotTwist: A Creative Plot Generation Framework with Small Language Models
 - **ID**: arxiv_2603.16410v2
@@ -2774,4 +2784,29 @@
 - **ID**: arxiv_2609.17119v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17119v1](http://arxiv.org/abs/2609.17119v1)
+
+## ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue
+- **ID**: arxiv_2609.17360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17360v1](http://arxiv.org/abs/2609.17360v1)
+
+## Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation
+- **ID**: arxiv_2609.17398v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17398v1](http://arxiv.org/abs/2609.17398v1)
+
+## Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM
+- **ID**: arxiv_2609.17435v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17435v1](http://arxiv.org/abs/2609.17435v1)
+
+## What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity
+- **ID**: arxiv_2609.17515v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17515v1](http://arxiv.org/abs/2609.17515v1)
+
+## When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control
+- **ID**: arxiv_2609.17516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17516v1](http://arxiv.org/abs/2609.17516v1)
 

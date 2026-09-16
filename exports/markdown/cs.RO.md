@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.19305v3](http://arxiv.org/abs/2603.19305v3)
 
+## SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating
+- **ID**: arxiv_2603.23983v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.23983v2](http://arxiv.org/abs/2603.23983v2)
+
 ## Low-Burden LLM-Based Preference Learning: Personalizing Assistive Robots from Natural Language Feedback for Users with Paralysis
 - **ID**: arxiv_2604.01463v2
 - **Source**: ArXiv

@@ -105,6 +105,7 @@
 | [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1) | ArXiv |  | 1 |
 | [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
 | [Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](http://arxiv.org/abs/2608.21332v1) | ArXiv |  | 1 |
+| [ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems](http://arxiv.org/abs/2606.06114v3) | ArXiv |  | 1 |
 | [Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research](http://arxiv.org/abs/2608.15052v2) | ArXiv |  | 1 |
 | [Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](http://arxiv.org/abs/2609.09030v1) | ArXiv |  | 1 |
 | [Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](http://arxiv.org/abs/2607.08465v2) | ArXiv |  | 1 |
@@ -234,6 +235,7 @@
 | [First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint](http://arxiv.org/abs/2605.02827v2) | ArXiv |  | 1 |
 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](http://arxiv.org/abs/2608.07437v1) | ArXiv |  | 1 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
+| [FlashVector: Agent for Hierarchical Model Serving Stack Optimization](http://arxiv.org/abs/2609.17391v1) | ArXiv |  | 1 |
 | [FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference](http://arxiv.org/abs/2609.17008v1) | ArXiv |  | 1 |
 | [Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v2) | ArXiv |  | 1 |
 | [Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners](http://arxiv.org/abs/2606.29150v3) | ArXiv |  | 1 |
@@ -288,6 +290,7 @@
 | [Interval POMDP Shielding for Imperfect-Perception Agents](http://arxiv.org/abs/2604.20728v2) | ArXiv |  | 1 |
 | [Item Response Theory for AI Safety](http://arxiv.org/abs/2608.05086v1) | ArXiv |  | 1 |
 | [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](http://arxiv.org/abs/2609.10451v1) | ArXiv |  | 1 |
+| [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
@@ -300,6 +303,7 @@
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
 | [LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback](http://arxiv.org/abs/2607.29559v1) | ArXiv |  | 1 |
+| [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](http://arxiv.org/abs/2609.17488v1) | ArXiv |  | 1 |
 | [Linguistic Monoculture in LLM-Assisted Language Use](http://arxiv.org/abs/2607.27134v1) | ArXiv |  | 1 |
 | [LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation](http://arxiv.org/abs/2607.24780v2) | ArXiv |  | 1 |
 | [LLM Detection as an Intervention: Downstream Impact under Strategic User Behavior](http://arxiv.org/abs/2607.19300v1) | ArXiv |  | 1 |
@@ -425,6 +429,7 @@
 | [Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](http://arxiv.org/abs/2608.31075v1) | ArXiv |  | 1 |
 | [Scaling-Score Conformal Prediction for Multi-Target Regression](http://arxiv.org/abs/2609.17091v1) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
+| [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
@@ -433,6 +438,7 @@
 | [Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction](http://arxiv.org/abs/2609.17100v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
+| [Shared Selective Persistent Memory for Agentic LLM Systems](http://arxiv.org/abs/2607.09493v2) | ArXiv |  | 1 |
 | [Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs](http://arxiv.org/abs/2609.17109v1) | ArXiv |  | 1 |
 | [SHE: Trajectory-driven Safety Harness Evolution for LLM Agents](http://arxiv.org/abs/2608.09885v1) | ArXiv |  | 1 |
 | [SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning](http://arxiv.org/abs/2608.14452v1) | ArXiv |  | 1 |
@@ -457,6 +463,7 @@
 | [StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments](http://arxiv.org/abs/2608.24804v1) | ArXiv |  | 1 |
 | [Statistical Early Stopping for Reasoning Models](http://arxiv.org/abs/2602.13935v3) | ArXiv |  | 1 |
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v1) | ArXiv |  | 1 |
+| [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v2) | ArXiv |  | 1 |
 | [StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing](http://arxiv.org/abs/2608.24777v1) | ArXiv |  | 1 |
 | [StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models](http://arxiv.org/abs/2608.23475v1) | ArXiv |  | 1 |
 | [Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core](http://arxiv.org/abs/2608.24810v1) | ArXiv |  | 1 |
@@ -475,6 +482,7 @@
 | [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](http://arxiv.org/abs/2606.16974v1) | ArXiv |  | 1 |
 | [The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](http://arxiv.org/abs/2607.08734v2) | ArXiv |  | 1 |
 | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](http://arxiv.org/abs/2608.06270v1) | ArXiv |  | 1 |
+| [The inherent goodness of well educated intelligence](http://arxiv.org/abs/2401.04846v12) | ArXiv |  | 1 |
 | [The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping](http://arxiv.org/abs/2608.06361v1) | ArXiv |  | 1 |
 | [The Natural Language Interaction Protocol and Standard for AI Agents](http://arxiv.org/abs/2609.04135v1) | ArXiv |  | 1 |
 | [The Past and Future of AI Scientists](http://arxiv.org/abs/2608.14407v1) | ArXiv |  | 1 |
@@ -484,6 +492,7 @@
 | [The Surprising Effectiveness of Approximate Value Iteration in Self-Play](http://arxiv.org/abs/2609.09094v1) | ArXiv |  | 1 |
 | [The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents](http://arxiv.org/abs/2608.20201v1) | ArXiv |  | 1 |
 | [The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections](http://arxiv.org/abs/2608.03921v1) | ArXiv |  | 1 |
+| [The Verifier is the Curriculum: Precision Sets the Return on Search in Code Self-Distillation](http://arxiv.org/abs/2607.09709v2) | ArXiv |  | 1 |
 | [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v4) | ArXiv |  | 1 |
 | [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](http://arxiv.org/abs/2606.07157v4) | ArXiv |  | 1 |
 | [ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents](http://arxiv.org/abs/2609.17010v1) | ArXiv |  | 1 |
@@ -515,6 +524,7 @@
 | [Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets](http://arxiv.org/abs/2608.21319v1) | ArXiv |  | 1 |
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
+| [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) | ArXiv |  | 1 |
 | [Verification of Adaptive Agentic Controllers through Finite Rule Revision](http://arxiv.org/abs/2607.09770v2) | ArXiv |  | 1 |
 | [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1) | ArXiv |  | 1 |
 | [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17360v1",
+  "schema_version": "1.0",
+  "name": "ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17360v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17360v1",
+    "updated": "2026-09-15T15:58:48Z",
+    "published": "2026-09-15T15:58:48Z",
+    "title": "ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue",
+    "summary": "Full-duplex spoken dialogue systems must distinguish interruptions that require yielding the floor from backchannels that permit continued speaking. Existing benchmarks typically evaluate events independently and may therefore reward fixed action preferences rather than context-sensitive decisions. We introduce ECHO, a paired diagnostic benchmark for Chinese full-duplex turn-taking. ECHO pairs examples with the same overlap transcript but contrasting preceding multi-turn dialogue contexts, with one requiring Yield and the other Keep. It additionally includes off-talk examples for diagnosing unnecessary yielding. We introduce pair accuracy, which requires correct decisions on both members of a pair and assigns no credit to constant-action policies. Experiments on multiple full-duplex systems show that most exhibit a pronounced bias toward \\textsc{Yield}, performing substantially better on interruptions than on backchannels, while another system remains comparatively balanced. These findings demonstrate that interruption-only evaluation can overestimate practical turn-taking reliability. ECHO and its metadata will be publicly released.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T15:58:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17360v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

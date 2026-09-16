@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.07595v2",
+  "schema_version": "1.0",
+  "name": "Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.07595v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.07595v2",
+    "updated": "2026-09-15T17:57:19Z",
+    "published": "2026-09-07T15:06:22Z",
+    "title": "Same Problem, Different Field: Cross-Domain Solution Import via Domain-Stripped Computational Fingerprints",
+    "summary": "The same underlying computational problem is solved across unrelated fields under different names: recursive Bayesian state estimation appears as a \"Kalman filter\" in control, \"Bayesian forecasting\" in pharmacokinetics, and \"data assimilation\" in geoscience. Topical and citation-based scientific embeddings cannot see this shared problem. We distill each paper once into a domain- and method-name-stripped faceted computational fingerprint, a free-text mechanism skeleton plus controlled computational facets. We define a tunable, facet-selectable similarity over it. The goal is solution import: surface cross-field pairs solving the same problem, so a bespoke implementation can be swapped for another field's standard, specialized solver. On a benchmark of 18 method families across 109 papers, the skeleton lifts cross-domain retrieval average precision over the abstract from 0.222 to 0.513, and the whole fingerprint reaches 0.557. Strikingly, four trained scientific embedders all fall below plain abstract+TF-IDF: they encode topical and citation similarity, the wrong signal for this task. The gain is the representation: the abstract-to-skeleton swap lifts every embedder, and the pipeline is one cached LLM call per paper plus a cheap embedder. An interventional re-skin / math-edit test shows the fingerprint tracks the computation, not the field. On a 501-paper wild corpus, known twins dominate the top of the ranking (23 of the top 30); with planted pairs excluded from the results, three blind LLM judges rate 3 of the top 5 and 8 of the top 30 pairs genuine import candidates, and 0 of 30 random ones. The human verification is the four executed imports: in one, an open standard solver reproduces a bespoke clinical dosing engine's output. We release the benchmark, the code, and the distillation prompt.",
+    "primary_category": "cs.DL"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:57:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.07595v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

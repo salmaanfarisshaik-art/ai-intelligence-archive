@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.06205v2",
+  "schema_version": "1.0",
+  "name": "CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.06205v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.06205v2",
+    "updated": "2026-09-15T17:00:12Z",
+    "published": "2026-08-06T15:59:13Z",
+    "title": "CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection",
+    "summary": "Multispectral object detection combines visible and thermal imagery to improve perception under challenging illumination and environmental conditions. However, differences in modality appearance and reliability can introduce redundant or conflicting responses, limiting the use of complementary information. Complex fusion mechanisms further increase computational cost, creating a persistent trade-off between detection accuracy and efficiency. To address these challenges, CFGPNet is proposed, a cross-attention-based fused gradient programmed network. The framework incorporates re-parameterized RepViT blocks into the YOLOv9 architecture to strengthen spatial and channel representations while maintaining efficient feature extraction. Cross Computation Efficient Attention (CrossCEA) exchanges spatial attention maps between modalities at multiple detection scales, allowing each stream to emphasize regions supported by the other while preserving modality-specific information. Attention Selection and Aggregation Fusion (ASAF) combines dense feature aggregation with selection of the strongest responses from multiple attention branches to form compact, discriminative fused representations. A programmable gradient information pathway provides auxiliary supervision during training to improve feature learning. This pathway is removed after training, adding no parameters or operations at inference. Experiments on FLIR, M3FD, LLVIP, VEDAI, and MFAD demonstrate favorable accuracy-efficiency trade-offs across three model scales, with the smallest variant requiring 15.3 million parameters and 56.9 GFLOPs. The code is available at https://github.com/NimaHatami99/CFGPNet.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:00:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.06205v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

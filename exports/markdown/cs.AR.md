@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.06127v2](http://arxiv.org/abs/2507.06127v2)
 
+## Comparative Characterization of KV Cache Management Strategies for LLM Inference
+- **ID**: arxiv_2604.05012v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.05012v2](http://arxiv.org/abs/2604.05012v2)
+
 ## Golden Ruler: A Numeric Format Catalog with Bit-Exact Conformance Vectors for FP8, BF16, MXFP4, and Microscaling Formats
 - **ID**: arxiv_2606.09686v3
 - **Source**: ArXiv

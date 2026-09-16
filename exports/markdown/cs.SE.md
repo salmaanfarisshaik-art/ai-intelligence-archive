@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21744v2](http://arxiv.org/abs/2604.21744v2)
 
+## The Biomimetic Architecture of Software 4.0
+- **ID**: arxiv_2606.04025v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04025v2](http://arxiv.org/abs/2606.04025v2)
+
 ## When Errors Become Narratives: A Longitudinal Taxonomy of Silent Failures in a Production LLM Agent Runtime
 - **ID**: arxiv_2606.14589v1
 - **Source**: ArXiv
@@ -234,4 +239,9 @@
 - **ID**: arxiv_2609.10397v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10397v1](http://arxiv.org/abs/2609.10397v1)
+
+## Coding Agents Have Converged: Why the SWE-bench Leaderboard Can No Longer Order Its Top Entries, and What to Measure Instead
+- **ID**: arxiv_2609.17394v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17394v1](http://arxiv.org/abs/2609.17394v1)
 

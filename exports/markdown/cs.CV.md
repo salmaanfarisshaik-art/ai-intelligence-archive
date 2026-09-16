@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.20756v4](http://arxiv.org/abs/2506.20756v4)
 
+## evMLP: An Efficient Event-Driven MLP Architecture for Vision
+- **ID**: arxiv_2507.01927v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.01927v3](http://arxiv.org/abs/2507.01927v3)
+
 ## DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations
 - **ID**: arxiv_2507.19474v2
 - **Source**: ArXiv
@@ -204,6 +209,11 @@
 - **ID**: arxiv_2508.15228v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.15228v3](http://arxiv.org/abs/2508.15228v3)
+
+## CineScale: Tuning-Free High-Resolution Video Generation
+- **ID**: arxiv_2508.15774v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.15774v2](http://arxiv.org/abs/2508.15774v2)
 
 ## InSituRes: A Physics-Informed Same-Grid Model for Enhanced Dynamic X-ray Micro-CT Reconstructions
 - **ID**: arxiv_2508.17708v2
@@ -889,6 +899,11 @@
 - **ID**: arxiv_2606.14703v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14703v1](http://arxiv.org/abs/2606.14703v1)
+
+## Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging
+- **ID**: arxiv_2606.14957v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.14957v5](http://arxiv.org/abs/2606.14957v5)
 
 ## VEPHand: View-Efficient Photometric Hand Performance Capture at Scale
 - **ID**: arxiv_2606.15966v2
@@ -2329,6 +2344,11 @@
 - **ID**: arxiv_2608.06142v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06142v2](http://arxiv.org/abs/2608.06142v2)
+
+## CFGPNet: Cross-Attention-Based Fused Gradient Programmed Network Framework for Multispectral Object Detection
+- **ID**: arxiv_2608.06205v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06205v2](http://arxiv.org/abs/2608.06205v2)
 
 ## EmoWorld: A Decoupled Affective Field for Controllable Emotional Video Generation
 - **ID**: arxiv_2608.06231v1
@@ -4020,6 +4040,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11929v1](http://arxiv.org/abs/2609.11929v1)
 
+## An End-to-End Automated Pipeline for Controllable Crack Data Synthesis
+- **ID**: arxiv_2609.12431v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12431v2](http://arxiv.org/abs/2609.12431v2)
+
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
 - **Source**: ArXiv
@@ -4084,4 +4109,49 @@
 - **ID**: arxiv_2609.17112v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17112v1](http://arxiv.org/abs/2609.17112v1)
+
+## PanoGS-SLAM: Panoramic 3D Gaussian Splatting SLAM
+- **ID**: arxiv_2609.17387v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17387v1](http://arxiv.org/abs/2609.17387v1)
+
+## SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion
+- **ID**: arxiv_2609.17413v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17413v1](http://arxiv.org/abs/2609.17413v1)
+
+## SlotDiT: Object-Centric Representations for Diffusion Transformers
+- **ID**: arxiv_2609.17414v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17414v1](http://arxiv.org/abs/2609.17414v1)
+
+## Tracking the Unseen: An Occlusion-Robust Framework for Target Tracking Under Full and Long-Term Occlusion
+- **ID**: arxiv_2609.17427v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17427v1](http://arxiv.org/abs/2609.17427v1)
+
+## BrainFocus: EEG-Guided ROI Selection for Efficient Vision-Language Models
+- **ID**: arxiv_2609.17443v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17443v1](http://arxiv.org/abs/2609.17443v1)
+
+## ORCA: Occlusion-Aware Refinement and Completion for Novel View Synthesis
+- **ID**: arxiv_2609.17450v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17450v1](http://arxiv.org/abs/2609.17450v1)
+
+## Tables Decoded: DELTA for Structure, TARQA for Understanding
+- **ID**: arxiv_2609.17458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17458v1](http://arxiv.org/abs/2609.17458v1)
+
+## Det-LIME: Detector-Aware, Multi-Instance Local Interpretable Model-Agnostic Explanations for Automated Marine Mammal Detection
+- **ID**: arxiv_2609.17479v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17479v1](http://arxiv.org/abs/2609.17479v1)
+
+## PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
+- **ID**: arxiv_2609.17521v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17521v1](http://arxiv.org/abs/2609.17521v1)
 

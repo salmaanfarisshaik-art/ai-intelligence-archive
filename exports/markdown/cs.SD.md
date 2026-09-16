@@ -135,3 +135,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17056v1](http://arxiv.org/abs/2609.17056v1)
 
+## LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs
+- **ID**: arxiv_2609.17509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17509v1](http://arxiv.org/abs/2609.17509v1)
+

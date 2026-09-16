@@ -122,6 +122,7 @@
 | [Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning](http://arxiv.org/abs/2609.10445v1) | ArXiv |  | 1 |
 | [Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](http://arxiv.org/abs/2609.10410v1) | ArXiv |  | 1 |
 | [Can LLMs Follow the Pulse of a Crisis? Evaluating Crisis Sentiment in Bangladesh's July Uprising](http://arxiv.org/abs/2609.16997v1) | ArXiv |  | 1 |
+| [Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation](http://arxiv.org/abs/2603.15547v2) | ArXiv |  | 1 |
 | [Capability Provenance in Language Models: A Case Study in Social Reasoning](http://arxiv.org/abs/2606.19625v3) | ArXiv |  | 1 |
 | [CARPAS: Towards Content-Aware Refinement of Provided Aspects for Summarization in Large Language Models](http://arxiv.org/abs/2510.07177v2) | ArXiv |  | 1 |
 | [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) | ArXiv |  | 1 |
@@ -194,6 +195,8 @@
 | [DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models](http://arxiv.org/abs/2606.19257v1) | ArXiv |  | 1 |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](http://arxiv.org/abs/2609.02783v1) | ArXiv |  | 1 |
 | [EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
+| [ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue](http://arxiv.org/abs/2609.17360v1) | ArXiv |  | 1 |
+| [Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation](http://arxiv.org/abs/2609.17398v1) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
 | [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1) | ArXiv |  | 1 |
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
@@ -419,6 +422,7 @@
 | [Remask, Don't Replace: Token-to-Mask Refinement in Diffusion Language Models](http://arxiv.org/abs/2604.18738v3) | ArXiv |  | 1 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) | ArXiv |  | 1 |
 | [ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression](http://arxiv.org/abs/2607.29591v1) | ArXiv |  | 1 |
+| [Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM](http://arxiv.org/abs/2609.17435v1) | ArXiv |  | 1 |
 | [Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation](http://arxiv.org/abs/2608.02555v1) | ArXiv |  | 1 |
 | [Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation](http://arxiv.org/abs/2609.10395v1) | ArXiv |  | 1 |
 | [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer](http://arxiv.org/abs/2608.06347v1) | ArXiv |  | 1 |
@@ -510,6 +514,7 @@
 | [ToolSciVer: Multimodal Scientific Claim Verification with Visual Tool Augmented Reinforcement Learning](http://arxiv.org/abs/2607.16131v1) | ArXiv |  | 1 |
 | [ToSCA: Leveraging Hierarchical Reinforcement Learning on Temporal and Strategic Abstractions of Conversational Agents](http://arxiv.org/abs/2608.21969v3) | ArXiv |  | 1 |
 | [Toward a Gricean Retreat: Probing LLMs for Knowledge Boundaries and Referent Specificity](http://arxiv.org/abs/2608.13484v1) | ArXiv |  | 1 |
+| [Toward Robust LLM-Based Judges: Taxonomic Bias Evaluation and Debiasing Optimization](http://arxiv.org/abs/2603.08091v3) | ArXiv |  | 1 |
 | [Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning](http://arxiv.org/abs/2608.05139v1) | ArXiv |  | 1 |
 | [Toward Understanding the Transferability of Adversarial Suffixes in Large Language Models](http://arxiv.org/abs/2510.22014v2) | ArXiv |  | 1 |
 | [Towards Computational Provenance: Carrying Causal-State Evidence in Generated Text](http://arxiv.org/abs/2608.16868v1) | ArXiv |  | 1 |
@@ -534,6 +539,7 @@
 | [VISA: Agentic Self-Evolving Data Synthesis for Multimodal Instruction Following](http://arxiv.org/abs/2608.26013v1) | ArXiv |  | 1 |
 | [Voices Across Registers: Corpus-Conditioned Vernacular Jailbreaks against Aligned LLMs via Fanfiction Subgenres](http://arxiv.org/abs/2606.04483v2) | ArXiv |  | 1 |
 | [WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data](http://arxiv.org/abs/2609.05405v1) | ArXiv |  | 1 |
+| [What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity](http://arxiv.org/abs/2609.17515v1) | ArXiv |  | 1 |
 | [What Language is This? Ask Your Tokenizer](http://arxiv.org/abs/2602.17655v3) | ArXiv |  | 1 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v2) | ArXiv |  | 1 |
 | [What Models Express, Suppress, and Resist: Auditing Open-Weight LLMs with Persona Vectors](http://arxiv.org/abs/2607.13162v3) | ArXiv |  | 1 |
@@ -545,6 +551,7 @@
 | [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](http://arxiv.org/abs/2608.23507v1) | ArXiv |  | 1 |
 | [When Personality Meets Quantization: A Layer-wise MBTI Analysis of Quantized LLMs](http://arxiv.org/abs/2608.25977v1) | ArXiv |  | 1 |
 | [When Roleplaying, Do Models Believe What They Say?](http://arxiv.org/abs/2606.11502v2) | ArXiv |  | 1 |
+| [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1) | ArXiv |  | 1 |
 | [When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't](http://arxiv.org/abs/2604.06422v2) | ArXiv |  | 1 |
 | [When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era](http://arxiv.org/abs/2608.17979v1) | ArXiv |  | 1 |
 | [Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition](http://arxiv.org/abs/2609.07474v3) | ArXiv |  | 1 |

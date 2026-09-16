@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 88986
+**Total Entities Tracked**: 89036
 
 ## Category Distribution
 
@@ -12,21 +12,22 @@
 - **news**: 1174
 - **dataset**: 1172
 - **text-generation**: 1010
-- **cs.CV**: 817
-- **cs.CL**: 555
-- **cs.AI**: 539
-- **cs.LG**: 283
-- **cs.RO**: 99
+- **cs.CV**: 831
+- **cs.CL**: 562
+- **cs.AI**: 549
+- **cs.LG**: 289
+- **cs.RO**: 100
 - **cs.CR**: 63
 - **tool**: 50
-- **cs.SE**: 47
-- **cs.SD**: 27
-- **cs.CY**: 25
-- **cs.HC**: 25
+- **cs.SE**: 49
+- **cs.SD**: 28
+- **cs.HC**: 27
+- **cs.CY**: 26
 - **cs.IR**: 24
 - **API**: 15
+- **eess.AS**: 14
 - **eess.IV**: 14
-- **eess.AS**: 13
+- **cs.MA**: 12
 - **cs.GT**: 11
 - **Backend**: 10
 - **Database**: 10
@@ -35,26 +36,25 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.MA**: 10
 - **cs.DB**: 9
+- **quant-ph**: 9
 - **stat.ML**: 9
-- **quant-ph**: 8
 - **math.OC**: 7
 - **IDE Rule**: 6
+- **cs.AR**: 6
 - **cs.GR**: 6
 - **cs.NI**: 6
 - **eess.SY**: 6
 - **Benchmark**: 5
-- **cs.AR**: 5
 - **cs.IT**: 5
 - **AI News**: 4
 - **cond-mat.mtrl-sci**: 4
 - **cs.DC**: 4
+- **cs.DL**: 4
 - **cs.MM**: 4
 - **cs.PL**: 4
 - **eess.SP**: 4
 - **stat.ME**: 4
-- **cs.DL**: 3
 - **cs.NE**: 3
 - **econ.GN**: 3
 - **feature-extraction**: 3
@@ -96,7 +96,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 30785
-- **ArXiv**: 2688
+- **ArXiv**: 2738
 - **Hugging Face**: 2017
 - **OpenAI Blog**: 1160
 - **HuggingFace Datasets**: 172
@@ -149,7 +149,7 @@
 - **license:apache-2.0**: 66
 - **safetensors**: 66
 - **language:en**: 64
-- **conversational**: 62
+- **conversational**: 60
 - **library:polars**: 59
 - **format:parquet**: 46
 - **license:mit**: 45

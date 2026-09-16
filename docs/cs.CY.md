@@ -13,6 +13,7 @@
 | [Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education](http://arxiv.org/abs/2605.15850v3) | ArXiv |  | 1 |
 | [Contemporary AI lacks the imagination to diverge or negate in science](http://arxiv.org/abs/2606.08251v3) | ArXiv |  | 1 |
 | [Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support](http://arxiv.org/abs/2609.10421v1) | ArXiv |  | 1 |
+| [Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database](http://arxiv.org/abs/2509.10600v6) | ArXiv |  | 1 |
 | [Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs](http://arxiv.org/abs/2609.17111v1) | ArXiv |  | 1 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |

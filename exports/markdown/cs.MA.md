@@ -50,3 +50,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09150v1](http://arxiv.org/abs/2609.09150v1)
 
+## Decomposition Buys Integrity, Not Yield
+- **ID**: arxiv_2609.17464v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17464v1](http://arxiv.org/abs/2609.17464v1)
+
+## Agentic Societies Need a Social Harness
+- **ID**: arxiv_2609.17527v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17527v1](http://arxiv.org/abs/2609.17527v1)
+

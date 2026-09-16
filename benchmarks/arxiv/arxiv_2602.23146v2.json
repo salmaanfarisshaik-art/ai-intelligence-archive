@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.23146v2",
+  "schema_version": "1.0",
+  "name": "Partial recovery of meter-scale surface weather",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.23146v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.23146v2",
+    "updated": "2026-09-15T17:21:09Z",
+    "published": "2026-02-26T16:11:53Z",
+    "title": "Partial recovery of meter-scale surface weather",
+    "summary": "Near-surface weather varies over tens to hundreds of meters, yet remains unresolved in analyses and forecasts. We test whether this variation can be inferred without resolving atmospheric dynamics. Combining sparse weather stations, high-resolution Earth observation, and coarse atmospheric dynamics, we infer temperature, dewpoint, and wind at 30-m resolution across the contiguous United States. Against measurements held out in space and time, estimates reduce error by 11-28\\% relative to the strongest baseline. Within held-out $0.25^\\circ$ grid cells, we recover more spatial variance than baselines, explaining nearly half of temperature variability in the median cell. The method captures time-varying differences between locations and produces coherent patterns associated with topography and land cover. Beyond weather, our findings illustrate how sparse observations of a dynamical system can be combined with dense observations of persistent environmental structure to recover otherwise unresolved spatial variability.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T17:21:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.23146v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

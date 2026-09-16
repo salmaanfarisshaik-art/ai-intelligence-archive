@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11733v2](http://arxiv.org/abs/2608.11733v2)
 
+## Evaluating Verified Autonomy in Quantum Engineering
+- **ID**: arxiv_2609.17439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17439v1](http://arxiv.org/abs/2609.17439v1)
+

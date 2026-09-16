@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.12947v3](http://arxiv.org/abs/2510.12947v3)
 
+## SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS
+- **ID**: arxiv_2512.05126v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.05126v2](http://arxiv.org/abs/2512.05126v2)
+
 ## The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs
 - **ID**: arxiv_2603.16941v2
 - **Source**: ArXiv

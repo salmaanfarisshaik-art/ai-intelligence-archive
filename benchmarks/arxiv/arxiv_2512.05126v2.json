@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.05126v2",
+  "schema_version": "1.0",
+  "name": "SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.05126v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.05126v2",
+    "updated": "2026-09-15T16:04:14Z",
+    "published": "2025-11-23T16:51:05Z",
+    "title": "SyncVoice: Simple and Effective Automatic Video Dubbing with Vision-Augmented TTS",
+    "summary": "Automatic video dubbing aims to generate high-fidelity speech that is temporally aligned with visual content. However, existing methods still suffer from limited speech naturalness, insufficient audio-visual synchronization, and poor scalability beyond monolingual settings. To address these challenges, we propose SyncVoice, a simple and effective dubbing framework that lightly integrates a Text-Visual Fusion Module into a pretrained text-to-speech (TTS) system. This module aligns visual features with linguistic representations, enabling temporally synchronized speech synthesis without complex architectural redesign. Experiments on the LRS3 dataset show that SyncVoice achieves state-of-the-art performance in zero-shot dubbing. Further training on a large-scale bilingual audio-visual dataset improves vocal fidelity while preserving synchronization, yielding a single unified model for both Chinese and English dubbing.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-09-16T07:15:12Z",
+  "last_updated": "2026-09-15T16:04:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.05126v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
