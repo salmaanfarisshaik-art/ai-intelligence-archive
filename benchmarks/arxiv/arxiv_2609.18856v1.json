@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.18856v1",
+  "schema_version": "1.0",
+  "name": "GrainSpeech: Less Context, More Detail for Compact Speech Synthesis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.18856v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.18856v1",
+    "updated": "2026-09-16T15:59:20Z",
+    "published": "2026-09-16T15:59:20Z",
+    "title": "GrainSpeech: Less Context, More Detail for Compact Speech Synthesis",
+    "summary": "Compact acoustic models face a challenging quality-capacity trade-off. We investigate two factors in this regime: encoder context and Mel-spectrogram supervision. A receptive-field-scaling study shows that expanding self-attention beyond 15 phonemes provides no consistent gains in pitch, energy, or duration prediction. Guided by this finding, we introduce a fixed-receptive-field convolutional encoder that reduces the respective prediction errors by 36.0%, 17.3%, and 3.4%. We further show that directly transferring image-domain gradient-variance supervision restores fine-scale variation but degrades predicted quality, motivating a Mel-specific formulation with axis-specific gradients, overlapping local statistics, and log-domain variance matching. GrainSpeech contains only 264.8K parameters and achieves 17.9x real-time Mel generation on a microcontroller (MCU), while attaining UTMOS scores comparable to substantially larger models with less than 1.5% of their parameters. Source code and demos are available at https://github.com/lab-emi/GrainSpeech.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T15:59:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.18856v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

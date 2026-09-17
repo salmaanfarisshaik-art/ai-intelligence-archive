@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.00239v2",
+  "schema_version": "1.0",
+  "name": "Semantically Calibrated Evidence Composition for CT Vision-Language Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.00239v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.00239v2",
+    "updated": "2026-09-16T17:27:06Z",
+    "published": "2026-07-31T19:34:31Z",
+    "title": "Semantically Calibrated Evidence Composition for CT Vision-Language Learning",
+    "summary": "Learning transferable representations from CT-report pairs requires combining whole-volume context with anatomy-specific evidence. Existing methods typically emphasize either global CT-report alignment or fine-grained anatomy-level correspondence. Global alignment preserves broad study context but leaves the contribution of localized evidence implicit, whereas anatomy-level alignment explicitly grounds local findings but does not specify how independently represented evidence should interact, acquire study-level meaning, and contribute to a global CT representation. To address this gap, we propose SCOPE (Semantic Calibration Of comPosed Evidence), a framework for semantically calibrated evidence composition in CT vision-language learning. Under organ-specific report supervision, mask-guided queries with fixed anatomical identities extract context-aware organ evidence from shared, uncropped volumetric features, while an unrestricted global query retains access to whole-volume context. The global query then drives Local-Global Coupling to compose the organ evidence into a unified evidence representation. The composed evidence is subsequently calibrated using the diagnostic summary, providing study-level semantic supervision beyond local organ descriptions, and is finally integrated as a controlled residual into a context-preserving whole-volume representation aligned with the complete report. This progressive pathway connects localized evidence with study-level semantics without reducing the CT representation to a predefined set of organs. On CT-RATE and RadChestCT, SCOPE achieves macro AUCs of 85.0 and 72.2, respectively, outperforming the previous SOTA by 7.2 and 4.2, while also yielding substantial gains in linear probing and cross-modal retrieval. These results demonstrate the effectiveness of semantically calibrated evidence composition.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T17:27:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.00239v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

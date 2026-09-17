@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17527v1](http://arxiv.org/abs/2609.17527v1)
 
+## Social Laws for Multi-agent Coordination in Stochastic Environments
+- **ID**: arxiv_2609.18929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18929v1](http://arxiv.org/abs/2609.18929v1)
+

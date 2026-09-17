@@ -500,3 +500,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15910v1](http://arxiv.org/abs/2609.15910v1)
 
+## rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference
+- **ID**: arxiv_2609.19104v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19104v1](http://arxiv.org/abs/2609.19104v1)
+
+## Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation
+- **ID**: arxiv_2609.19137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19137v1](http://arxiv.org/abs/2609.19137v1)
+

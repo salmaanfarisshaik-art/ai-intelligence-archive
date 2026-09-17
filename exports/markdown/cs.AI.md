@@ -2035,6 +2035,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23565v1](http://arxiv.org/abs/2608.23565v1)
 
+## Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight
+- **ID**: arxiv_2608.24314v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24314v2](http://arxiv.org/abs/2608.24314v2)
+
 ## RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons
 - **ID**: arxiv_2608.24758v1
 - **Source**: ArXiv
@@ -2510,6 +2515,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.07925v3](http://arxiv.org/abs/2609.07925v3)
 
+## FrogNano: Training a 4B Coding Agent via Online Task Synthesis
+- **ID**: arxiv_2609.07925v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.07925v4](http://arxiv.org/abs/2609.07925v4)
+
 ## Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning
 - **ID**: arxiv_2609.09030v1
 - **Source**: ArXiv
@@ -2614,6 +2624,11 @@
 - **ID**: arxiv_2609.11916v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11916v1](http://arxiv.org/abs/2609.11916v1)
+
+## Do Not Restart: Residual Completion for Stateful Agent Handoffs
+- **ID**: arxiv_2609.13800v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.13800v2](http://arxiv.org/abs/2609.13800v2)
 
 ## When Should a World Model Move? Loss-Conditioned State Execution
 - **ID**: arxiv_2609.15801v1
@@ -2744,4 +2759,19 @@
 - **ID**: arxiv_2609.17523v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17523v1](http://arxiv.org/abs/2609.17523v1)
+
+## MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education
+- **ID**: arxiv_2609.19088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19088v1](http://arxiv.org/abs/2609.19088v1)
+
+## Flag Game: A Toy Model for Mechanistic Swarm Interpretability
+- **ID**: arxiv_2609.19124v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19124v1](http://arxiv.org/abs/2609.19124v1)
+
+## Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments
+- **ID**: arxiv_2609.19128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19128v1](http://arxiv.org/abs/2609.19128v1)
 

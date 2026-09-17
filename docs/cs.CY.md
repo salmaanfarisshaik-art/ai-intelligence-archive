@@ -18,6 +18,7 @@
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |
 | [Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents](http://arxiv.org/abs/2605.16281v3) | ArXiv |  | 1 |
+| [Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria](http://arxiv.org/abs/2609.19096v1) | ArXiv |  | 1 |
 | [The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations](http://arxiv.org/abs/2608.05050v1) | ArXiv |  | 1 |
 | [The Eticas AI Risk Taxonomy: Open Infrastructure for Operationalizing AI Audits](http://arxiv.org/abs/2607.02201v3) | ArXiv |  | 1 |
 | [The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act](http://arxiv.org/abs/2606.18158v1) | ArXiv |  | 1 |

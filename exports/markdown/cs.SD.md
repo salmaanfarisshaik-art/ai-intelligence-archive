@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19174v1](http://arxiv.org/abs/2608.19174v1)
 
+## Arti-JEPA: Adapting Video World Model to Real-Time MRI of the Vocal Tract for Speech-Production Analysis
+- **ID**: arxiv_2609.09757v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09757v2](http://arxiv.org/abs/2609.09757v2)
+
 ## Audio-Visual Turn-taking Prediction in Cocktail Party Scenarios
 - **ID**: arxiv_2609.17056v1
 - **Source**: ArXiv

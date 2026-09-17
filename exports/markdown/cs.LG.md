@@ -205,6 +205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.01260v3](http://arxiv.org/abs/2603.01260v3)
 
+## Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results
+- **ID**: arxiv_2603.02948v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.02948v2](http://arxiv.org/abs/2603.02948v2)
+
 ## Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
 - **ID**: arxiv_2603.10009v2
 - **Source**: ArXiv
@@ -1310,6 +1315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)
 
+## Steering Interference Reflects the Model's Defaults, Not the Behavior Directions
+- **ID**: arxiv_2609.06951v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.06951v2](http://arxiv.org/abs/2609.06951v2)
+
 ## Training-Free Task Vectors for LLM Behavioral Control
 - **ID**: arxiv_2609.09054v1
 - **Source**: ArXiv
@@ -1444,4 +1454,24 @@
 - **ID**: arxiv_2609.17499v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17499v1](http://arxiv.org/abs/2609.17499v1)
+
+## Higher-order pruning of experts in mixture-of-experts language models
+- **ID**: arxiv_2609.18916v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18916v1](http://arxiv.org/abs/2609.18916v1)
+
+## RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control
+- **ID**: arxiv_2609.19074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19074v1](http://arxiv.org/abs/2609.19074v1)
+
+## Double descent is the principle of least action
+- **ID**: arxiv_2609.19076v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19076v1](http://arxiv.org/abs/2609.19076v1)
+
+## Probabilistic Linear Explanations
+- **ID**: arxiv_2609.19077v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19077v1](http://arxiv.org/abs/2609.19077v1)
 

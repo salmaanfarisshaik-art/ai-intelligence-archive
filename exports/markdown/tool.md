@@ -60,6 +60,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
+## ai-engineering-from-scratch
+- **ID**: gh_1185590488
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)
+
 ## OpenMontage
 - **ID**: gh_1195360525
 - **Source**: GitHub Trending

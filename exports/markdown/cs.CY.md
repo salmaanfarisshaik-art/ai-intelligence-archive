@@ -130,3 +130,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17111v1](http://arxiv.org/abs/2609.17111v1)
 
+## Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria
+- **ID**: arxiv_2609.19096v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19096v1](http://arxiv.org/abs/2609.19096v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.18929v1",
+  "schema_version": "1.0",
+  "name": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.18929v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MA",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.18929v1",
+    "updated": "2026-09-16T17:05:03Z",
+    "published": "2026-09-16T17:05:03Z",
+    "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+    "summary": "In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has primarily focused on deterministic, goal-based settings. This paper extends the concept of social laws to stochastic, reward-based environments, proposing a formalism for defining and verifying their robustness under various conditions. We introduce the notion of $α$-robustness, a measure of the guaranteed utility each agent retains while pursuing its optimal single agent policy, assuming all agents obey the social law. We then present an approach for robustness verification of social laws in stochastic settings, based on a reduction to solving a series of Markov decision processes. Empirical evaluations on toy environments illustrate the potential of our framework.",
+    "primary_category": "cs.MA"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T17:05:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.18929v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -250,6 +250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.07546v2](http://arxiv.org/abs/2510.07546v2)
 
+## Ultralytics YOLO Evolution: An Overview of YOLO27, YOLO26, YOLO11, YOLOv8, and YOLOv5 Object Detectors for Computer Vision and Pattern Recognition
+- **ID**: arxiv_2510.09653v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.09653v4](http://arxiv.org/abs/2510.09653v4)
+
 ## Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models
 - **ID**: arxiv_2510.13394v4
 - **Source**: ArXiv
@@ -2120,6 +2125,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29684v1](http://arxiv.org/abs/2607.29684v1)
 
+## Learning How Much, Not Just What: Cross-Patient Burden Order for CT Vision-Language Pretraining
+- **ID**: arxiv_2608.00231v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00231v2](http://arxiv.org/abs/2608.00231v2)
+
 ## Latent-Centroid Steering: Single-Pass Classifier-Free Guidance for Command-Aligned Autonomous Driving
 - **ID**: arxiv_2608.00237v2
 - **Source**: ArXiv
@@ -2129,6 +2139,11 @@
 - **ID**: arxiv_2608.00237v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00237v2](http://arxiv.org/abs/2608.00237v2)
+
+## Semantically Calibrated Evidence Composition for CT Vision-Language Learning
+- **ID**: arxiv_2608.00239v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00239v2](http://arxiv.org/abs/2608.00239v2)
 
 ## ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs
 - **ID**: arxiv_2608.01979v2
@@ -4154,4 +4169,44 @@
 - **ID**: arxiv_2609.17521v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17521v1](http://arxiv.org/abs/2609.17521v1)
+
+## Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection
+- **ID**: arxiv_2609.18860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18860v1](http://arxiv.org/abs/2609.18860v1)
+
+## NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting
+- **ID**: arxiv_2609.18898v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18898v1](http://arxiv.org/abs/2609.18898v1)
+
+## PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image
+- **ID**: arxiv_2609.18920v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18920v1](http://arxiv.org/abs/2609.18920v1)
+
+## Track, Articulate, Act: Generating Articulation from Casual Human Videos
+- **ID**: arxiv_2609.19119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19119v1](http://arxiv.org/abs/2609.19119v1)
+
+## Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation
+- **ID**: arxiv_2609.19122v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19122v1](http://arxiv.org/abs/2609.19122v1)
+
+## In-Context Robot Learning with VLM Agents
+- **ID**: arxiv_2609.19138v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19138v1](http://arxiv.org/abs/2609.19138v1)
+
+## PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics
+- **ID**: arxiv_2609.19142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19142v1](http://arxiv.org/abs/2609.19142v1)
+
+## PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection
+- **ID**: arxiv_2609.19143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19143v1](http://arxiv.org/abs/2609.19143v1)
 

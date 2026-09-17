@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.06458v2](http://arxiv.org/abs/2410.06458v2)
 
+## Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models
+- **ID**: arxiv_2412.16555v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2412.16555v4](http://arxiv.org/abs/2412.16555v4)
+
 ## Thinking beyond the anthropomorphic paradigm benefits LLM research
 - **ID**: arxiv_2502.09192v3
 - **Source**: ArXiv
@@ -174,6 +179,11 @@
 - **ID**: arxiv_2510.22014v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22014v2](http://arxiv.org/abs/2510.22014v2)
+
+## Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation
+- **ID**: arxiv_2510.24870v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.24870v3](http://arxiv.org/abs/2510.24870v3)
 
 ## Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Tendencies in Large Language Models
 - **ID**: arxiv_2511.03699v2
@@ -400,6 +410,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29123v4](http://arxiv.org/abs/2603.29123v4)
 
+## A Taxonomy of Programming Languages for Code Generation
+- **ID**: arxiv_2604.00239v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00239v3](http://arxiv.org/abs/2604.00239v3)
+
 ## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
 - **ID**: arxiv_2604.02512v2
 - **Source**: ArXiv
@@ -439,6 +454,11 @@
 - **ID**: arxiv_2604.11996v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.11996v5](http://arxiv.org/abs/2604.11996v5)
+
+## Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis
+- **ID**: arxiv_2604.14121v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.14121v3](http://arxiv.org/abs/2604.14121v3)
 
 ## Reasoning Models Know What's Important, and Encode It in Their Activations
 - **ID**: arxiv_2604.18307v2
@@ -2809,4 +2829,59 @@
 - **ID**: arxiv_2609.17516v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17516v1](http://arxiv.org/abs/2609.17516v1)
+
+## PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning
+- **ID**: arxiv_2609.18861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18861v1](http://arxiv.org/abs/2609.18861v1)
+
+## Structured Claim-Level Discourse Representations for Dense Health Narratives
+- **ID**: arxiv_2609.18905v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18905v1](http://arxiv.org/abs/2609.18905v1)
+
+## How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards
+- **ID**: arxiv_2609.18908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18908v1](http://arxiv.org/abs/2609.18908v1)
+
+## Beyond Outcomes: Dual-View Relational Learning for Efficient Agent Benchmarking
+- **ID**: arxiv_2609.18909v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18909v1](http://arxiv.org/abs/2609.18909v1)
+
+## Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs
+- **ID**: arxiv_2609.18935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18935v1](http://arxiv.org/abs/2609.18935v1)
+
+## Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation
+- **ID**: arxiv_2609.19093v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19093v1](http://arxiv.org/abs/2609.19093v1)
+
+## Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations
+- **ID**: arxiv_2609.19101v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19101v1](http://arxiv.org/abs/2609.19101v1)
+
+## Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models
+- **ID**: arxiv_2609.19113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19113v1](http://arxiv.org/abs/2609.19113v1)
+
+## ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments
+- **ID**: arxiv_2609.19134v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19134v1](http://arxiv.org/abs/2609.19134v1)
+
+## A Zeroth-Order Paradigm for LLM Preference Alignment
+- **ID**: arxiv_2609.19144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19144v1](http://arxiv.org/abs/2609.19144v1)
+
+## Objective vs. Search: Decomposing What Makes a Good Tokeniser
+- **ID**: arxiv_2609.19145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19145v1](http://arxiv.org/abs/2609.19145v1)
 

@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17439v1](http://arxiv.org/abs/2609.17439v1)
 
+## Securing quantum error correction against misleading advice from AI agents
+- **ID**: arxiv_2609.19090v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19090v1](http://arxiv.org/abs/2609.19090v1)
+

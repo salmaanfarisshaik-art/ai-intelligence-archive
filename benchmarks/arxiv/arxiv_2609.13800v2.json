@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.13800v2",
+  "schema_version": "1.0",
+  "name": "Do Not Restart: Residual Completion for Stateful Agent Handoffs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.13800v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.13800v2",
+    "updated": "2026-09-16T15:56:31Z",
+    "published": "2026-09-12T08:23:23Z",
+    "title": "Do Not Restart: Residual Completion for Stateful Agent Handoffs",
+    "summary": "Routing and cascades reduce tool-agent cost by transferring control across models, but stateful handoffs must preserve accepted choices, realized effects, and unfinished obligations. We formulate this as commitment-constrained residual completion and introduce Commitment-Frontier Residual Completion (CFRC). CFRC enforces target-before-proposal, whole-proposal-before-authority, and live-evidence-before-success: it freezes a residual contract from accepted progress, closes the successor continuation into an evidence-linked graph, and admits execution only when the remainder is covered, with live receipts discharging obligations. We establish contract-relative partial correctness, which extends to the original residual request under complete contract construction. Across five environments and two same-provider model pairs, CFRC achieves comparable macro accuracy to strong full-task agents at only 22.0%-34.6% of their inference cost, with additional cross-provider results demonstrating broader transfer.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T15:56:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.13800v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

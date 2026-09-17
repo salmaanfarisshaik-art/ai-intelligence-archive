@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.18905v1",
+  "schema_version": "1.0",
+  "name": "Structured Claim-Level Discourse Representations for Dense Health Narratives",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.18905v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.18905v1",
+    "updated": "2026-09-16T16:43:11Z",
+    "published": "2026-09-16T16:43:11Z",
+    "title": "Structured Claim-Level Discourse Representations for Dense Health Narratives",
+    "summary": "Health discourse in social media videos often contains densely entangled claims spanning multiple thematic aspects, stances, evidential frames, and rhetorical functions within short conversational spans. Existing approaches largely rely on coarse topic-level, sentiment-based, or stance-oriented representations that do not adequately capture this structure. Our analysis identifies an average of 13.22 atomic claims per minute, motivating richer claim-level discourse representations. We introduce a structured framework for claim-level discourse analysis in dense health narratives. Our framework models discourse through tuples linking atomic claims with thematic aspects, stance, and multidimensional pragmatic discourse attributes. To support this setting, we construct a benchmark spanning four health domains with 1,191 manually annotated claims from 60 videos. Using this framework, we evaluate automated structured discourse analysis under different discourse context settings. Results show that current LLMs achieve strong performance on thematic categorization and stance prediction, but struggle with high-dimensional pragmatic profiling. We also find that different discourse tasks benefit from different forms of contextual reasoning, suggesting that future systems may require task decomposition and specialized inference strategies.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T16:43:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.18905v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

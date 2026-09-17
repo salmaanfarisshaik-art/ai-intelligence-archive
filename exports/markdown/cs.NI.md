@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15847v1](http://arxiv.org/abs/2609.15847v1)
 
+## Taming the Agentic RAN: Stability-Guaranteed Arbitration of Autonomous AI Agents in O-RAN
+- **ID**: arxiv_2609.18857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18857v1](http://arxiv.org/abs/2609.18857v1)
+

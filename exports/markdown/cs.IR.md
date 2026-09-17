@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.00802v2](http://arxiv.org/abs/2403.00802v2)
 
+## Unleash LLMs Potential for Sequential Recommendation by Coordinating Dual Dynamic Index Mechanism
+- **ID**: arxiv_2409.09253v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2409.09253v2](http://arxiv.org/abs/2409.09253v2)
+
 ## PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU
 - **ID**: arxiv_2508.15436v2
 - **Source**: ArXiv
@@ -34,6 +39,11 @@
 - **ID**: arxiv_2604.23336v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23336v3](http://arxiv.org/abs/2604.23336v3)
+
+## Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation
+- **ID**: arxiv_2606.01670v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01670v2](http://arxiv.org/abs/2606.01670v2)
 
 ## How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations
 - **ID**: arxiv_2606.16973v1

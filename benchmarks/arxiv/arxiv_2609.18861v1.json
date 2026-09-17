@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.18861v1",
+  "schema_version": "1.0",
+  "name": "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.18861v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.18861v1",
+    "updated": "2026-09-16T16:00:46Z",
+    "published": "2026-09-16T16:00:46Z",
+    "title": "PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning",
+    "summary": "Adaptive learning systems commonly formulate learning path planning as Exercise-Centric (EC) recommendation, where the next step is inferred from item-level interaction logs. Evaluating goal-oriented guidance additionally requires explicit learner goals and curriculum-scale prerequisites: learners with similar exercise records may need different paths toward their targets. We therefore study Knowledge-Centric (KC) personalized learning path planning, where a planner must reason over learner profiles, mastery states, and prerequisite knowledge structures to decide which textbook, unit, and concept should be studied next. To support this setting, we introduce PersonaPath, a benchmark that pairs 2,000 fine-grained learner personas with a hierarchical knowledge graph of 347 textbooks, 1,751 units, and 4,092 concepts across 77 subjects. We evaluate representative LLMs on PersonaPath. Results show that even the strongest LLM reaches only a 29.5% final pass rate in Basic Education, and that the main bottleneck lies in adaptivity, where no model exceeds 44.7% in tailoring paths to individual learners.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T16:00:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.18861v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

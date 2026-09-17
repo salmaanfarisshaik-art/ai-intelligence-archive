@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.00239v3",
+  "schema_version": "1.0",
+  "name": "A Taxonomy of Programming Languages for Code Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.00239v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.00239v3",
+    "updated": "2026-09-16T17:40:29Z",
+    "published": "2026-03-31T21:05:39Z",
+    "title": "A Taxonomy of Programming Languages for Code Generation",
+    "summary": "The world's 7,000+ languages vary widely in the availability of resources for NLP, motivating efforts to systematically categorize them by their degree of resourcefulness (Joshi et al., 2020). A similar disparity exists among programming languages (PLs); however, no resource-tier taxonomy has been established for code. As large language models (LLMs) grow increasingly capable of generating code, such a taxonomy becomes essential. To fill this gap, we present the first reproducible PL resource classification, grouping 646 languages into four tiers. We show that only 1.9% of languages (Tier 3, High) account for 74.6% of all tokens in seven major corpora, while 71.7% of languages (Tier 0, Scarce) contribute just 1.0%. Statistical analyses of within-tier inequality, dispersion, and distributional skew confirm that this imbalance is both extreme and systematic. Our results provide a principled framework for dataset curation and tier-aware evaluation of multilingual LLMs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T17:40:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.00239v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

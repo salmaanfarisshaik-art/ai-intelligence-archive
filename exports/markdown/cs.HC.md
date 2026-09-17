@@ -135,3 +135,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17434v1](http://arxiv.org/abs/2609.17434v1)
 
+## Affora: A Design System for Agent-Friendly Interfaces
+- **ID**: arxiv_2609.19125v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19125v1](http://arxiv.org/abs/2609.19125v1)
+

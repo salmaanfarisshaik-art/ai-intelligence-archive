@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2412.16555v4",
+  "schema_version": "1.0",
+  "name": "Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2412.16555v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2412.16555v4",
+    "updated": "2026-09-16T17:52:00Z",
+    "published": "2024-12-21T09:43:51Z",
+    "title": "Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models",
+    "summary": "Large language models (LLMs) are widely applied in various fields of society due to their powerful reasoning, understanding, and generation capabilities. However, the security issues associated with these models are becoming increasingly severe. Jailbreaking attacks, as an important method for detecting vulnerabilities in LLMs, have been explored by researchers who attempt to induce these models to generate harmful content through various attack methods. Nevertheless, existing jailbreaking methods face numerous limitations, such as excessive query counts, limited coverage of jailbreak modalities, low attack success rates, and simplistic evaluation methods. To overcome these constraints, this paper proposes a multimodal jailbreaking method: JMLLM. This method integrates multiple strategies to perform comprehensive jailbreak attacks across text, visual, and auditory modalities. Additionally, we contribute a new and comprehensive dataset for multimodal jailbreaking research: TriJail, which includes jailbreak prompts for all three modalities. Experiments on the TriJail dataset and the benchmark dataset AdvBench, conducted on 13 popular LLMs, demonstrate advanced attack success rates and significant reduction in time overhead.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T17:52:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2412.16555v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

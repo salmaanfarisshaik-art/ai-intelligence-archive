@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.14121v3",
+  "schema_version": "1.0",
+  "name": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.14121v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.14121v3",
+    "updated": "2026-09-16T17:22:09Z",
+    "published": "2026-04-15T17:43:10Z",
+    "title": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+    "summary": "Large language models (LLMs) have become increasingly used for various tasks, often coupled with Chain-of-Thought (CoT) prompting to boost accuracy. Recent work has shown that high label-prediction accuracy does not guarantee correct intermediate reasoning, and the causes of *reasoning flaws* vary from sample to sample, yet existing remedies either focus on a single domain or assume that one flaw type applies uniformly across samples. A simple mitigation method is to provide the model with the correct answer, but we show that this yields no consistent improvement in reasoning quality. This indicates that the problem cannot be fixed by LLMs' awareness of answers, and must instead be addressed through the *structure* of reasoning. Motivated by this, we propose CRAFT (Consensus Reasoning-knowledge-graph Aggregation for Flaw-aware Trace synthesis), which aggregates the consensus components shared across multiple candidate reasoning traces to synthesize improved ones. CRAFT consistently improves label-prediction accuracy on both logical and mathematical reasoning benchmarks, outperforming most baselines, while its post-processed traces achieve higher quality under fine-grained benchmark evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-17T05:44:43Z",
+  "last_updated": "2026-09-16T17:22:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.14121v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

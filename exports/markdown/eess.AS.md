@@ -70,3 +70,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11864v1](http://arxiv.org/abs/2609.11864v1)
 
+## GrainSpeech: Less Context, More Detail for Compact Speech Synthesis
+- **ID**: arxiv_2609.18856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18856v1](http://arxiv.org/abs/2609.18856v1)
+
