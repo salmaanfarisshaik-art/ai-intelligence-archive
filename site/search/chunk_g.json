@@ -13011,11 +13011,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_markov_ai_cad_1000_hours",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_markov_ai_cad_environments",
       "match_type": "exact",
       "score": 1.0
@@ -13513,6 +13508,11 @@
     },
     {
       "entity_id": "dataset_nyu_mll_multi_nli",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_62e81d0e55744b69f18e254c",
       "match_type": "exact",
       "score": 1.0
     },
@@ -31831,6 +31831,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ifm_code_reasoning",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ifm_megamath",
       "match_type": "exact",
       "score": 1.5
@@ -32896,6 +32901,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_nemomix_unleashed_12b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -33887,6 +33897,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_4_1_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_3b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -35227,6 +35242,11 @@
     },
     {
       "entity_id": "model_moonshotai_kimi_k2_thinking",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_moonshotai_kimi_linear_48b_a3b_base",
       "match_type": "exact",
       "score": 1.5
     },
@@ -53014,6 +53034,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_bartowski_nemomix_unleashed_12b_gguf",
       "match_type": "exact",
       "score": 3.5
@@ -55433,6 +55458,13 @@
       "score": 1.0
     }
   ],
+  "gia": [
+    {
+      "entity_id": "dataset_edbeeching_gia_dataset_tokenized_2024_2",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "gianlorenzo": [
     {
       "entity_id": "alpaca_1274821453836577594",
@@ -57333,6 +57365,11 @@
     },
     {
       "entity_id": "dataset_jobs_git_zyda_2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_lightwheelai_egopro",
       "match_type": "exact",
       "score": 1.0
     },
@@ -103694,6 +103731,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_3_3_8b_instruct",
+      "match_type": "exact",
+      "score": 13.0
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_3b",
       "match_type": "exact",
       "score": 13.0
     },

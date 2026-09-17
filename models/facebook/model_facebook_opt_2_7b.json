@@ -3,7 +3,7 @@
   "id": "facebook/opt-2.7b",
   "likes": 89,
   "private": false,
-  "downloads": 35827,
+  "downloads": 39476,
   "tags": [
     "transformers",
     "pytorch",
@@ -16,7 +16,8 @@
     "arxiv:2005.14165",
     "license:other",
     "text-generation-inference",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

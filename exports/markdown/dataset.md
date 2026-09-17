@@ -124,6 +124,12 @@
 - **URL**: [https://huggingface.co/datasets/angie-chen55/python-github-code](https://huggingface.co/datasets/angie-chen55/python-github-code)
 - **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:text, region:us, size_categories:1M<n<10M
 
+## bigscience/evaluation-results
+- **ID**: hf_ds_62e81d0e55744b69f18e254c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/bigscience/evaluation-results](https://huggingface.co/datasets/bigscience/evaluation-results)
+- **Tags**: region:us, size_categories:100M<n<1B, task_categories:other
+
 ## hf-doc-build/doc-build-dev
 - **ID**: hf_ds_636a1b69f2f9ec4289c4c19e
 - **Source**: HuggingFace Datasets

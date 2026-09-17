@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:48:10Z",
+  "generated_at": "2026-09-17T11:02:16Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1024,6 +1024,11 @@
     {
       "source_id": "model_bartowski_mistral_small_24b_instruct_2501_gguf",
       "target_id": "hf_mistralai_Mistral-Small-24B-Instruct-2501",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
+      "target_id": "hf_moonshotai_Kimi-Linear-48B-A3B-Instruct",
       "type": "derived_from"
     },
     {
@@ -2584,6 +2589,11 @@
     {
       "source_id": "model_ibm_granite_granite_4_1_3b_gguf",
       "target_id": "hf_ibm-granite_granite-4.1-3b",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_4_2_3b",
+      "target_id": "hf_ibm-granite_granite-4.1-3b-base",
       "type": "derived_from"
     },
     {

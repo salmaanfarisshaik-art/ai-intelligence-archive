@@ -90,6 +90,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "dataset_ifm_code_reasoning",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_lightseekorg_kimi_k2_6_eagle3",
       "match_type": "exact",
       "score": 3.5
@@ -8221,6 +8226,11 @@
       "entity_id": "dataset_bigscience_evaluation_results",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_62e81d0e55744b69f18e254c",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "khan": [
@@ -9486,6 +9496,11 @@
       "score": 6.5
     },
     {
+      "entity_id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_unsloth_kimi_k2_instruct_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -9512,6 +9527,11 @@
     },
     {
       "entity_id": "model_moonshotai_kimi_k2_thinking",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
+      "entity_id": "model_moonshotai_kimi_linear_48b_a3b_base",
       "match_type": "exact",
       "score": 3.5
     },
@@ -19202,6 +19222,11 @@
     },
     {
       "entity_id": "model_facebook_xglm_564m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_3b",
       "match_type": "exact",
       "score": 1.5
     },
