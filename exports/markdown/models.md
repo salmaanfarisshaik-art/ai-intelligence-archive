@@ -520,6 +520,10 @@
 - **ID**: model_bartowski_mistral_small_24b_instruct_2501_gguf
 - **Source**: 
 
+## bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF
+- **ID**: model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf
+- **Source**: 
+
 ## bartowski/NemoMix-Unleashed-12B-GGUF
 - **ID**: model_bartowski_nemomix_unleashed_12b_gguf
 - **Source**: 
@@ -1942,6 +1946,10 @@
 
 ## ibm-granite/granite-4.1-8b
 - **ID**: model_ibm_granite_granite_4_1_8b
+- **Source**: 
+
+## ibm-granite/granite-4.2-3b
+- **ID**: model_ibm_granite_granite_4_2_3b
 - **Source**: 
 
 ## ibm-granite/granite-4.2-8b
@@ -3390,6 +3398,10 @@
 
 ## moonshotai/Kimi-K2-Thinking
 - **ID**: model_moonshotai_kimi_k2_thinking
+- **Source**: 
+
+## moonshotai/Kimi-Linear-48B-A3B-Base
+- **ID**: model_moonshotai_kimi_linear_48b_a3b_base
 - **Source**: 
 
 ## moonshotai/Kimi-Linear-48B-A3B-Instruct
