@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.03998v3](http://arxiv.org/abs/2602.03998v3)
 
+## A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction
+- **ID**: arxiv_2604.16655v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16655v2](http://arxiv.org/abs/2604.16655v2)
+
 ## Rendering Novel Views of MRI Using 3D Gaussian Splatting
 - **ID**: arxiv_2606.26236v2
 - **Source**: ArXiv

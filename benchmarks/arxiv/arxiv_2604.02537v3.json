@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.02537v3",
+  "schema_version": "1.0",
+  "name": "PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.02537v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.02537v3",
+    "updated": "2026-09-17T16:33:22Z",
+    "published": "2026-04-02T21:43:35Z",
+    "title": "PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers",
+    "summary": "All-atom molecular dynamics (MD) simulations can predict polymer properties from molecular structure, yet their execution requires specialized expertise in force field selection, system construction, equilibration, and property extraction. We present PolyJarvis, a platform in which a planning agent produces a validated run plan that deterministic stage scripts execute through established simulation toolkits, Enhanced Monte Carlo (EMC) for system construction and LAMMPS for molecular dynamics, exposed as Model Context Protocol (MCP) servers, with a recovery agent consulted only on structured failures and within a fixed decision budget. Given a repeat-unit SMILES string and target properties, PolyJarvis constructs the amorphous cell, equilibrates it under a mechanized convergence gate, and computes target properties. Validation is conducted on seven amorphous homopolymers, each run as three replicates that share a protocol frozen per system and use independent random seeds, namely polyethylene (PE), atactic polystyrene (aPS), syndiotactic poly(vinyl chloride) (sPVC), poly(L-lactic acid) (PLLA), poly(ethylene glycol) (PEG), poly(ether ether ketone) (PEEK), and polysulfone (PSU).\n  Against experimental references, 13 of 19 graded comparisons meet the acceptance criteria (density 5 of 7, glass transition 4 of 7, bulk modulus 4 of 5). The failures are concentrated in the PCFF systems: under-density of aPS and PEG, overestimated glass transitions of the stiff PLLA and PEEK backbones, and an overstiff PEG bulk modulus.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T16:33:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.02537v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

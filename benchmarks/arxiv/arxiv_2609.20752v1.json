@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20752v1",
+  "schema_version": "1.0",
+  "name": "Large Language Models as Falsifiers for Cyber-Physical Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20752v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.SY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20752v1",
+    "updated": "2026-09-17T17:40:04Z",
+    "published": "2026-09-17T17:40:04Z",
+    "title": "Large Language Models as Falsifiers for Cyber-Physical Systems",
+    "summary": "Falsification searches for counterexamples to formal specifications in cyber-physical systems (CPS). With specifications written in Signal Temporal Logic (STL), falsification can be formulated as a robustness optimization problem, traditionally tackled with black-box search algorithms. In parallel, large language models (LLMs) have recently emerged as surprisingly effective optimizers when coupled with iterative prompting. In this work, we connect these ideas and introduce LLM-Falsifier, an LLM-based approach that falsifies specifications by minimizing the STL robustness degree. Beyond generic prompt-based optimization, our key idea is to expose the LLM to semantic information that is natural for language models but absent from standard numerical optimizers, including natural-language input and output names, output trajectories, and critical-time witnesses for the minimum robustness value. These additions enable smarter and more sample-efficient robustness search. On the ARCH-COMP falsification benchmarks, LLM-Falsifier is shown to outperform existing falsification tools based on a range of optimization paradigms, from surrogate-based and Bayesian optimization to search-based testing, on 14 of 21 specifications when measured by the average number of simulations required to find a counterexample.",
+    "primary_category": "eess.SY"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:40:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20752v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20751v1",
+  "schema_version": "1.0",
+  "name": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20751v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20751v1",
+    "updated": "2026-09-17T17:39:46Z",
+    "published": "2026-09-17T17:39:46Z",
+    "title": "dQwen3.5: Hybrid-Attention Diffusion Language Models",
+    "summary": "Adapting a pretrained autoregressive (AR) model is a cost-efficient route to a diffusion language model (DLM). While nearly all such adaptations start from a full-attention transformer, AR modeling has shifted toward hybrid architectures that interleave attention and RNN layers. This creates an obstacle for adaptation: unlike attention, RNNs are structurally causal and nontrivial to bidirectionalize. Despite this mismatch, we investigate whether such backbones can become effective DLMs by adapting Qwen3.5 at 0.8B, 2B, 4B, and 9B scales, yielding the dQwen3.5 family. We find that hybrid backbones can be efficient starting points for adaptation: against a full-attention control, the hybrid reaches a given training loss in about half the tokens. Across scales, dQwen3.5 resembles full-attention DLMs in any-order decoding behavior and performs strongly under parallel decoding.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:39:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20751v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

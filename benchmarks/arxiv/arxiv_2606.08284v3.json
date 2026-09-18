@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08284v3",
+  "schema_version": "1.0",
+  "name": "G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08284v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08284v3",
+    "updated": "2026-09-17T17:42:10Z",
+    "published": "2026-06-06T18:08:45Z",
+    "title": "G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation",
+    "summary": "Recovering the relative 6-DoF pose between two image groups underlies cross-sequence relocalization and multi-camera rig odometry. Each group carries known intra-group geometry from visual odometry or rig calibration, and pretrained multi-view backbones already fuse such geometry into visual features. Yet current models treat all views as an unstructured set, leaving cross-group reasoning as the missing piece. We introduce G2G, which keeps the foundation model entirely frozen and adds three lightweight trainable modules to bridge the two groups: a perceiver resampler, a cross-group bridge with merged self-attention, and a multi-frame pose head. The trainable footprint totals about 32M parameters, under 6% of the full model, and is supervised only by relative poses. Across four datasets that span indoor and outdoor simulation, real-world cross-season capture, and zero-shot sim-to-real transfer, G2G attains state-of-the-art accuracy on both tasks, while trainable baselines are retrained with their original supervision. Code and visualizations: https://github.com/WeiYuFei0217/G2G.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:42:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08284v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

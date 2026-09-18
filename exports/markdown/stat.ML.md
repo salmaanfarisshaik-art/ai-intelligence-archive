@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11915v1](http://arxiv.org/abs/2609.11915v1)
 
+## Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation
+- **ID**: arxiv_2609.20758v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20758v1](http://arxiv.org/abs/2609.20758v1)
+

@@ -145,3 +145,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20143v1](http://arxiv.org/abs/2609.20143v1)
 
+## Semantic Action Graph: A Shared Representation for Agent Grounding and Human Interpretation of Sports Highlights
+- **ID**: arxiv_2609.20768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20768v1](http://arxiv.org/abs/2609.20768v1)
+

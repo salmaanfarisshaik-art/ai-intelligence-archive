@@ -16,6 +16,7 @@
 | [Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database](http://arxiv.org/abs/2509.10600v6) | ArXiv |  | 1 |
 | [Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs](http://arxiv.org/abs/2609.17111v1) | ArXiv |  | 1 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
+| [Large language models eroding science understanding: an empirical study of malignment](http://arxiv.org/abs/2604.25639v2) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |
 | [Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents](http://arxiv.org/abs/2605.16281v3) | ArXiv |  | 1 |
 | [Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria](http://arxiv.org/abs/2609.19096v1) | ArXiv |  | 1 |

@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.10600v6](http://arxiv.org/abs/2509.10600v6)
 
+## Large language models eroding science understanding: an empirical study of malignment
+- **ID**: arxiv_2604.25639v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.25639v2](http://arxiv.org/abs/2604.25639v2)
+
 ## Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education
 - **ID**: arxiv_2605.15850v3
 - **Source**: ArXiv

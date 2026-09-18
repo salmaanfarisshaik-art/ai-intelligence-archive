@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20758v1",
+  "schema_version": "1.0",
+  "name": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20758v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20758v1",
+    "updated": "2026-09-17T17:42:29Z",
+    "published": "2026-09-17T17:42:29Z",
+    "title": "Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation",
+    "summary": "Evaluating an AI system requires disaggregated assessment, as performance varies across domains such as benchmark task types or conversation types in deployed agents. Exhaustive testing is expensive, so evaluation rests on a sample of labeled units. We treat the evaluation set as a finite population and seek accurate point and interval estimates of each domain mean. Direct estimators, including prediction-powered inference (PPI), use only a domain's own labels and are imprecise where labels are few. Small area estimation addresses this problem, and we build on it to develop an integrated workflow for estimation and validation. For estimation, we propose prediction-powered smoothing (PP-S), a Bayesian model fit to each domain's prediction-powered estimate, with an extension that borrows strength across a reporting taxonomy (PP-TS). For validation, we derive a new, approximately unbiased design-based cross-validation score for choosing among direct and smoothed estimators. We study a curated benchmark with verifiable grading and deployed agent traffic graded by humans, each with every outcome observed. In both, the proposed estimators improve on the direct estimators in point and interval estimation, with near-nominal coverage. At the same sampling budget, our score selects as well as an independent validation sample does and estimates the selected estimator's error far more accurately.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:42:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20758v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

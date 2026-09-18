@@ -150,6 +150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20255v1](http://arxiv.org/abs/2607.20255v1)
 
+## Evaluating Large Language Models for Symbolic Security Protocol Analysis
+- **ID**: arxiv_2607.20712v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20712v2](http://arxiv.org/abs/2607.20712v2)
+
 ## DualityCert: Verifier-Gated Language-Model Repair of Broken Duality Claims in Quantum Field Theory
 - **ID**: arxiv_2607.23614v2
 - **Source**: ArXiv

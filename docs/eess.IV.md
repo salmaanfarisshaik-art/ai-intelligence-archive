@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction](http://arxiv.org/abs/2604.16655v2) | ArXiv |  | 1 |
 | [AtlasPatch: Scalable Foundation Model-based Tissue Detection and Patch Extraction for Computational Pathology](http://arxiv.org/abs/2602.03998v3) | ArXiv |  | 1 |
 | [BCNet: Bronchus Classification via Structure Guided Representation Learning](http://arxiv.org/abs/2205.06947v3) | ArXiv |  | 1 |
 | [crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023](http://arxiv.org/abs/2506.12006v4) | ArXiv |  | 1 |

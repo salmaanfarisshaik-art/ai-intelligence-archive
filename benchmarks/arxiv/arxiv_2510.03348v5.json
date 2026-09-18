@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.03348v5",
+  "schema_version": "1.0",
+  "name": "Monocular Visual Odometry without Calibration or Test-time Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.03348v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.03348v5",
+    "updated": "2026-09-17T17:48:02Z",
+    "published": "2025-10-02T17:00:14Z",
+    "title": "Monocular Visual Odometry without Calibration or Test-time Optimization",
+    "summary": "The most accurate monocular visual odometry systems require known camera intrinsics, refine their estimates with test-time optimization, and recover trajectories only up to an unknown factor. Systems built on large 3D models need no intrinsics, but they remain considerably less accurate and slower for odometry. Direct pose regression avoids all these requirements, yet it has not matched either approach's accuracy. We revisit this formulation with a transformer that predicts relative camera poses together with separate rotation and translation confidences over overlapping image windows, supervised by camera poses alone. A confidence-weighted module then aggregates the overlapping predictions into a single trajectory. The resulting method, CalfVO, needs no intrinsics, no bundle adjustment, and no loop closure, and it recovers scale from learned priors, accurately enough that it is evaluated without any alignment to the ground truth. Across five benchmarks, it is the most accurate calibration-free method on every metric we report, and it runs at 53 FPS, faster than every baseline.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:48:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.03348v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

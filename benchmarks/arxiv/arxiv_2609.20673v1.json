@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20673v1",
+  "schema_version": "1.0",
+  "name": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20673v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20673v1",
+    "updated": "2026-09-17T16:48:05Z",
+    "published": "2026-09-17T16:48:05Z",
+    "title": "FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents",
+    "summary": "To operate effectively in human environments, robots must identify articulated objects, segment their movable and interactive parts, and estimate their kinematic models. Existing articulated scene representations typically recover kinematics from observed interactions, while methods operating on static scans often decouple articulation from functional interactive elements. We present FunArt, a framework that constructs articulation-aware functional 3D scene graphs from posed RGB-D observations captured in a single static configuration. FunArt reconstructs object instances, converts their fused geometry directly into the O-Voxel representation of TRELLIS.2, and exploits its frozen, sparse-compression VAE as a structural prior. A lightweight query-based decoder combines compact object-level latents with dense, surface-aligned features to jointly segment movable parts and functional interactive elements while estimating motion type, axis, origin, and range. On the Articulate3D dataset, FunArt achieves state-of-the-art performance across movable-part segmentation, articulation estimation, and functional-element segmentation, both with and without ground-truth object input. In the end-to-end setting, it outperforms the strongest baselines by 1.5 AP_{50} points for movable parts, 2.8 AP_{50} points under joint origin-and-axis constraints, and 6.7 AP_{50} points for functional elements. These results demonstrate that generative 3D latents encode actionable structural cues that can initialize robotic perception and planning before physical interaction.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T16:48:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20673v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

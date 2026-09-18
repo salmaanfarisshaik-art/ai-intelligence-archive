@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.29806v3",
+  "schema_version": "1.0",
+  "name": "Accelerating Q-learning through Efficient Value-Sharing across Actions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.29806v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.29806v3",
+    "updated": "2026-09-17T17:23:46Z",
+    "published": "2026-06-29T05:33:32Z",
+    "title": "Accelerating Q-learning through Efficient Value-Sharing across Actions",
+    "summary": "Action values are foundational to many control algorithms such as Q-learning. Therefore, efficient action-value learning is central to reinforcement learning (RL). However, learning them can be slow, requiring many updates to move values from their initialization, typically near zero, to their true values, which may be far from zero. Moreover, action-value learning algorithms typically update each state-action pair independently, without learning a value that is common to all actions within a state. In this paper, we address these inefficiencies by introducing the mean-expansion layer, which accelerates action-value learning by sharing values across actions within a state and by changing the problem from directly learning potentially large action-values to learning a lower-norm representation of them. In deep RL, this layer can be applied as a parameter-free addition to Q-network architectures without altering the underlying algorithm. Applied to deep Q-networks and implicit quantile networks, it improves aggregate performance across 57 Atari 2600 games while increasing action gaps and dramatically reducing value overestimation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:23:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.29806v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

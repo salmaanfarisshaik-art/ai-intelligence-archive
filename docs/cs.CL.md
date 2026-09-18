@@ -199,10 +199,12 @@
 | [Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs](http://arxiv.org/abs/2606.21359v2) | ArXiv |  | 1 |
 | [Domain-Specific Hallucination Detection in Large Language Models](http://arxiv.org/abs/2609.11878v1) | ArXiv |  | 1 |
 | [DONDO: Open w2v-BERT Speech-Recognition Base Models for African Languages](http://arxiv.org/abs/2607.21540v1) | ArXiv |  | 1 |
+| [dQwen3.5: Hybrid-Attention Diffusion Language Models](http://arxiv.org/abs/2609.20751v1) | ArXiv |  | 1 |
 | [DreamReasoner-8B: Block-Size Curriculum Learning for Diffusion Reasoning Models](http://arxiv.org/abs/2606.19257v1) | ArXiv |  | 1 |
 | [EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction](http://arxiv.org/abs/2609.02783v1) | ArXiv |  | 1 |
 | [EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
 | [ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue](http://arxiv.org/abs/2609.17360v1) | ArXiv |  | 1 |
+| [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) | ArXiv |  | 1 |
 | [Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation](http://arxiv.org/abs/2609.17398v1) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
 | [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1) | ArXiv |  | 1 |
@@ -254,7 +256,9 @@
 | [Gumbel Distillation for Parallel Text Generation](http://arxiv.org/abs/2603.22216v2) | ArXiv |  | 1 |
 | [H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer](http://arxiv.org/abs/2605.24930v2) | ArXiv |  | 1 |
 | [HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification](http://arxiv.org/abs/2608.03966v1) | ArXiv |  | 1 |
+| [Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations](http://arxiv.org/abs/2609.20779v1) | ArXiv |  | 1 |
 | [HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
+| [HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication](http://arxiv.org/abs/2609.20684v1) | ArXiv |  | 1 |
 | [Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](http://arxiv.org/abs/2608.29605v1) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v1) | ArXiv |  | 1 |
@@ -288,6 +292,7 @@
 | [It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention](http://arxiv.org/abs/2609.09085v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v1) | ArXiv |  | 1 |
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
+| [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) | ArXiv |  | 1 |
 | [Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](http://arxiv.org/abs/2604.07269v2) | ArXiv |  | 1 |
 | [JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction](http://arxiv.org/abs/2608.29616v1) | ArXiv |  | 1 |
 | [Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees](http://arxiv.org/abs/2608.17994v1) | ArXiv |  | 1 |
@@ -381,6 +386,7 @@
 | [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1) | ArXiv |  | 1 |
 | [On the Impact of Anonymization on the Performance of Large Language Models](http://arxiv.org/abs/2609.11335v2) | ArXiv |  | 1 |
 | [On the Threat Model of Weird Generalization and Emergent Misalignment](http://arxiv.org/abs/2608.23476v1) | ArXiv |  | 1 |
+| [On-Demand Attention: Language Models Know When to Recall](http://arxiv.org/abs/2609.20734v1) | ArXiv |  | 1 |
 | [One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](http://arxiv.org/abs/2608.12253v1) | ArXiv |  | 1 |
 | [One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL](http://arxiv.org/abs/2608.12253v2) | ArXiv |  | 1 |
 | [One Polluted Page Is Enough: Evaluating Web Content Pollution in Generative Recommenders](http://arxiv.org/abs/2606.13610v1) | ArXiv |  | 1 |
@@ -404,6 +410,7 @@
 | [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models](http://arxiv.org/abs/2609.19113v1) | ArXiv |  | 1 |
 | [PlotTwist: A Creative Plot Generation Framework with Small Language Models](http://arxiv.org/abs/2603.16410v2) | ArXiv |  | 1 |
 | [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) | ArXiv |  | 1 |
+| [PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers](http://arxiv.org/abs/2604.02537v3) | ArXiv |  | 1 |
 | [Post-Training Large Language Models via Reinforcement Learning from Self-Feedback](http://arxiv.org/abs/2507.21931v2) | ArXiv |  | 1 |
 | [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](http://arxiv.org/abs/2607.18199v1) | ArXiv |  | 1 |
 | [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) | ArXiv |  | 1 |
@@ -439,7 +446,9 @@
 | [Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation](http://arxiv.org/abs/2609.19093v1) | ArXiv |  | 1 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) | ArXiv |  | 1 |
 | [ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression](http://arxiv.org/abs/2607.29591v1) | ArXiv |  | 1 |
+| [RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20784v1) | ArXiv |  | 1 |
 | [Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM](http://arxiv.org/abs/2609.17435v1) | ArXiv |  | 1 |
+| [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](http://arxiv.org/abs/2609.16900v2) | ArXiv |  | 1 |
 | [Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation](http://arxiv.org/abs/2608.02555v1) | ArXiv |  | 1 |
 | [Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation](http://arxiv.org/abs/2609.10395v1) | ArXiv |  | 1 |
 | [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer](http://arxiv.org/abs/2608.06347v1) | ArXiv |  | 1 |
@@ -490,6 +499,7 @@
 | [StudentSim: Training LLM-based Student Simulators](http://arxiv.org/abs/2609.01591v1) | ArXiv |  | 1 |
 | [Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation](http://arxiv.org/abs/2608.01666v3) | ArXiv |  | 1 |
 | [StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs](http://arxiv.org/abs/2606.20527v1) | ArXiv |  | 1 |
+| [Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol](http://arxiv.org/abs/2609.20712v1) | ArXiv |  | 1 |
 | [SUP-MIMIC: A Multi-Task Clinical Diagnosis Benchmark for Evaluating LLMs' Robustness to Contradictory Evidence](http://arxiv.org/abs/2608.29582v1) | ArXiv |  | 1 |
 | [Surgical Alignment in Knowledge Graph Training for Clinical Diagnosis with Large Language Models](http://arxiv.org/abs/2608.26587v2) | ArXiv |  | 1 |
 | [Surprisal Theory is Tautological (without Rational Grounding)](http://arxiv.org/abs/2607.21574v1) | ArXiv |  | 1 |
@@ -548,6 +558,7 @@
 | [TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning](http://arxiv.org/abs/2608.04007v1) | ArXiv |  | 1 |
 | [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness](http://arxiv.org/abs/2607.19322v1) | ArXiv |  | 1 |
 | [Two-Level Meta-Rubrics for Evaluating Open-Ended Generation: GAMUT, a Benchmark for Factual Completeness](http://arxiv.org/abs/2607.19322v2) | ArXiv |  | 1 |
+| [Unifying Models of Intergroup Hostility in Online Discourse](http://arxiv.org/abs/2609.20808v1) | ArXiv |  | 1 |
 | [UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams](http://arxiv.org/abs/2607.26017v1) | ArXiv |  | 1 |
 | [Unintended Effects of Geographic Conditioning in Large Language Models](http://arxiv.org/abs/2606.18124v1) | ArXiv |  | 1 |
 | [Untangling the Mechanisms of Misleading Context in Medical Question Answering](http://arxiv.org/abs/2609.02754v1) | ArXiv |  | 1 |

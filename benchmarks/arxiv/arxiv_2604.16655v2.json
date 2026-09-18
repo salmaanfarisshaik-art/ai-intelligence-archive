@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.16655v2",
+  "schema_version": "1.0",
+  "name": "A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.16655v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.16655v2",
+    "updated": "2026-09-17T16:59:17Z",
+    "published": "2026-04-17T19:20:54Z",
+    "title": "A Two-Stage Multi-Modal MRI Framework for Lifespan Brain Age Prediction",
+    "summary": "The accurate quantification of brain age from MRI has emerged as an important biomarker of brain health. However, existing approaches are often restricted to narrow age ranges and single-modality MRI data, limiting their capacity to capture the coordinated macro- and microstructural changes that unfold across the human lifespan. To address these limitations, we develop a multi-modal brain age framework to characterize the integrated evolution of brain morphology and white matter organization. Our model adopts a two-stage architecture, where modalities are processed independently and integrated via late fusion in both stages: first to estimate a probability distribution over six developmental stages, and then to predict age via probability-weighted stage-specialized experts. Experiments on nine datasets spanning fetal to elderly stages demonstrate competitive in-domain performance and out-of-domain generalization, with our method reducing MAE by 13% and 78% over existing baselines and multi-modal integration yielding 12-13% gains. Analysis of ADNI clinical groups further suggests the potential of the predicted brain age gap to characterize Alzheimer's-related brain aging.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T16:59:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.16655v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

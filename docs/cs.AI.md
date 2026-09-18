@@ -106,6 +106,7 @@
 | [AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction](http://arxiv.org/abs/2607.29549v1) | ArXiv |  | 1 |
 | [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1) | ArXiv |  | 1 |
 | [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
+| [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) | ArXiv |  | 1 |
 | [Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](http://arxiv.org/abs/2608.21332v1) | ArXiv |  | 1 |
 | [ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems](http://arxiv.org/abs/2606.06114v3) | ArXiv |  | 1 |
 | [Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research](http://arxiv.org/abs/2608.15052v2) | ArXiv |  | 1 |
@@ -118,6 +119,7 @@
 | [AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs](http://arxiv.org/abs/2608.26004v1) | ArXiv |  | 1 |
 | [Atomic Units of X: The Compression Layer of Intelligence](http://arxiv.org/abs/2607.12634v2) | ArXiv |  | 1 |
 | [Atria Dawn: The Dawn of Agentic Superintelligence](http://arxiv.org/abs/2609.15818v1) | ArXiv |  | 1 |
+| [Atria Dawn: The Dawn of Agentic Superintelligence](http://arxiv.org/abs/2609.15818v2) | ArXiv |  | 1 |
 | [AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies](http://arxiv.org/abs/2608.02569v1) | ArXiv |  | 1 |
 | [AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization](http://arxiv.org/abs/2608.21292v1) | ArXiv |  | 1 |
 | [Automated reproducibility assessments in the social and behavioral sciences using large language models](http://arxiv.org/abs/2606.13670v1) | ArXiv |  | 1 |
@@ -190,6 +192,7 @@
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
 | [Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation](http://arxiv.org/abs/2608.15877v2) | ArXiv |  | 1 |
 | [Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](http://arxiv.org/abs/2608.12385v2) | ArXiv |  | 1 |
+| [Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models](http://arxiv.org/abs/2609.20722v1) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
 | [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | ArXiv |  | 1 |
@@ -240,6 +243,7 @@
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
 | [First-Order Efficiency for Probabilistic Value Estimation via A Statistical Viewpoint](http://arxiv.org/abs/2605.02827v2) | ArXiv |  | 1 |
 | [Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing](http://arxiv.org/abs/2608.07437v1) | ArXiv |  | 1 |
+| [FitAQA: A Benchmark of Fitness Action Quality Assessment for Multimodal Large Language Models](http://arxiv.org/abs/2608.08736v2) | ArXiv |  | 2 |
 | [Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers](http://arxiv.org/abs/2606.18206v1) | ArXiv |  | 1 |
 | [Flag Game: A Toy Model for Mechanistic Swarm Interpretability](http://arxiv.org/abs/2609.19124v1) | ArXiv |  | 1 |
 | [FlashVector: Agent for Hierarchical Model Serving Stack Optimization](http://arxiv.org/abs/2609.17391v1) | ArXiv |  | 1 |
@@ -378,6 +382,7 @@
 | [ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation](http://arxiv.org/abs/2609.17012v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
+| [Ownership in AI-Assisted Everyday Tasks](http://arxiv.org/abs/2609.20658v1) | ArXiv |  | 1 |
 | [PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments](http://arxiv.org/abs/2608.14441v1) | ArXiv |  | 1 |
 | [Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference](http://arxiv.org/abs/2606.07897v2) | ArXiv |  | 1 |
 | [Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation](http://arxiv.org/abs/2608.20316v1) | ArXiv |  | 1 |
@@ -404,12 +409,14 @@
 | [Protecting patient privacy in clinical foundation models: Technical and legal perspectives](http://arxiv.org/abs/2608.07705v2) | ArXiv |  | 1 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](http://arxiv.org/abs/2606.18037v3) | ArXiv |  | 1 |
 | [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents](http://arxiv.org/abs/2608.07438v1) | ArXiv |  | 1 |
+| [Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure](http://arxiv.org/abs/2609.20732v1) | ArXiv |  | 1 |
 | [Quantifying geographic domain shift to decouple the geospatial transferability of human mobility flow generation models](http://arxiv.org/abs/2608.21567v2) | ArXiv |  | 1 |
 | [QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction](http://arxiv.org/abs/2608.06294v1) | ArXiv |  | 1 |
 | [QUASAR: A Quantum-Classical Neural Network for SAR Satellite Physical-Layer Authentication](http://arxiv.org/abs/2608.20240v1) | ArXiv |  | 1 |
 | [Quipu: A Governed Bitemporal Knowledge Graph Store](http://arxiv.org/abs/2608.16813v1) | ArXiv |  | 1 |
 | [QuoteBench: How Matched Scores Can Hide Command-Path Failures](http://arxiv.org/abs/2608.13547v1) | ArXiv |  | 1 |
 | [RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons](http://arxiv.org/abs/2608.24758v1) | ArXiv |  | 1 |
+| [RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](http://arxiv.org/abs/2609.20754v1) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](http://arxiv.org/abs/2603.05614v2) | ArXiv |  | 1 |
 | [Real-Time Detection and Repair of LLM Agent Failures](http://arxiv.org/abs/2608.02464v1) | ArXiv |  | 1 |

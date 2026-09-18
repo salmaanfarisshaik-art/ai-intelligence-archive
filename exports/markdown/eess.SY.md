@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14491v1](http://arxiv.org/abs/2608.14491v1)
 
+## Large Language Models as Falsifiers for Cyber-Physical Systems
+- **ID**: arxiv_2609.20752v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20752v1](http://arxiv.org/abs/2609.20752v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.29219v3",
+  "schema_version": "1.0",
+  "name": "SalsaAgent: A multimodal embodied language model for interactive dance generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.29219v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.29219v3",
+    "updated": "2026-09-17T17:47:01Z",
+    "published": "2026-05-28T01:08:27Z",
+    "title": "SalsaAgent: A multimodal embodied language model for interactive dance generation",
+    "summary": "Embodied interaction with humanoids depends on bidirectional nonverbal reactivity, coordination, and synchrony to convey cues and move with a partner. For socially interactive embodied agents, reactive motion generation requires expressive full-body motion that remains contextually appropriate while maintaining spatial and temporal synchrony. We present SalsaAgent, a language model that generates expressive, full-body salsa follower motions in reaction to a human leader and music. We formulate partner interaction as nonverbal token passing, extending the vocabulary of a large language model (LLM) to process discrete motion tokens, pairwise relation tokens, and audio tokens. Our method introduces full-body and pairwise-relation tokenizers, aligns language and motion tokens with automatically derived text descriptions of skeleton dynamics, and applies a two-stage token-to-diffusion pipeline. Subjective and objective evaluations show improved motion quality, two-person spatial coordination, and music and partner coordination relative to prior baselines.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T07:03:32Z",
+  "last_updated": "2026-09-17T17:47:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.29219v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

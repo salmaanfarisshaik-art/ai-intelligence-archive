@@ -230,6 +230,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25699v4](http://arxiv.org/abs/2509.25699v4)
 
+## Monocular Visual Odometry without Calibration or Test-time Optimization
+- **ID**: arxiv_2510.03348v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.03348v5](http://arxiv.org/abs/2510.03348v5)
+
 ## Exploring Instruction Data Quality for Explainable Image Quality Assessment
 - **ID**: arxiv_2510.03880v2
 - **Source**: ArXiv
@@ -254,6 +259,11 @@
 - **ID**: arxiv_2510.09653v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.09653v4](http://arxiv.org/abs/2510.09653v4)
+
+## State-Change Learning for Prediction of Future Events in Endoscopic Videos
+- **ID**: arxiv_2510.12904v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.12904v2](http://arxiv.org/abs/2510.12904v2)
 
 ## Spatial-DISE: A Unified Benchmark for Evaluating Spatial Reasoning in Vision-Language Models
 - **ID**: arxiv_2510.13394v4
@@ -725,6 +735,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22547v3](http://arxiv.org/abs/2605.22547v3)
 
+## SalsaAgent: A multimodal embodied language model for interactive dance generation
+- **ID**: arxiv_2605.29219v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.29219v3](http://arxiv.org/abs/2605.29219v3)
+
 ## SGMD: Score Gradient Matching Distillation for Few-Step Video Diffusion Distillation
 - **ID**: arxiv_2605.30116v2
 - **Source**: ArXiv
@@ -765,10 +780,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06714v3](http://arxiv.org/abs/2606.06714v3)
 
+## G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation
+- **ID**: arxiv_2606.08284v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08284v3](http://arxiv.org/abs/2606.08284v3)
+
 ## BLUE: Toward Better Language Use in Efficient Vision-Language-Action Models for Autonomous Driving
 - **ID**: arxiv_2606.08684v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.08684v2](http://arxiv.org/abs/2606.08684v2)
+
+## Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
+- **ID**: arxiv_2606.11176v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11176v2](http://arxiv.org/abs/2606.11176v2)
 
 ## From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting
 - **ID**: arxiv_2606.11381v3
@@ -4299,4 +4324,49 @@
 - **ID**: arxiv_2609.20377v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20377v1](http://arxiv.org/abs/2609.20377v1)
+
+## Earth Surface Immune System for Rapid Monitoring of Unknown Anomalies
+- **ID**: arxiv_2609.20662v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20662v1](http://arxiv.org/abs/2609.20662v1)
+
+## FunArt: Decoding Functional Structure and Articulation from Generative 3D Latents
+- **ID**: arxiv_2609.20673v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20673v1](http://arxiv.org/abs/2609.20673v1)
+
+## Should This Case Be Adapted? Prediction Fragmentation Controls Test-Time Adaptation
+- **ID**: arxiv_2609.20700v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20700v1](http://arxiv.org/abs/2609.20700v1)
+
+## FlowSGS: Improving Flow Matching Priors for Inverse Imaging with Stochastic Interpolants
+- **ID**: arxiv_2609.20769v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20769v1](http://arxiv.org/abs/2609.20769v1)
+
+## ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis
+- **ID**: arxiv_2609.20815v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20815v1](http://arxiv.org/abs/2609.20815v1)
+
+## Paint-Anything: Unified Any-Color Control for Image Generation and Editing
+- **ID**: arxiv_2609.20816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20816v1](http://arxiv.org/abs/2609.20816v1)
+
+## FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations
+- **ID**: arxiv_2609.20817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20817v1](http://arxiv.org/abs/2609.20817v1)
+
+## SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos
+- **ID**: arxiv_2609.20818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20818v1](http://arxiv.org/abs/2609.20818v1)
+
+## Can 4D Foundation Models Remember?
+- **ID**: arxiv_2609.20819v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20819v1](http://arxiv.org/abs/2609.20819v1)
 

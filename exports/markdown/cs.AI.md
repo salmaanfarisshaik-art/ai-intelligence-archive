@@ -1535,6 +1535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.08485v2](http://arxiv.org/abs/2608.08485v2)
 
+## FitAQA: A Benchmark of Fitness Action Quality Assessment for Multimodal Large Language Models
+- **ID**: arxiv_2608.08736v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08736v2](http://arxiv.org/abs/2608.08736v2)
+
 ## Improving Generalization Robustness of Multimodal RLVR
 - **ID**: arxiv_2608.08802v2
 - **Source**: ArXiv
@@ -2645,6 +2650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15818v1](http://arxiv.org/abs/2609.15818v1)
 
+## Atria Dawn: The Dawn of Agentic Superintelligence
+- **ID**: arxiv_2609.15818v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15818v2](http://arxiv.org/abs/2609.15818v2)
+
 ## AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery
 - **ID**: arxiv_2609.15820v1
 - **Source**: ArXiv
@@ -2829,4 +2839,29 @@
 - **ID**: arxiv_2609.20358v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20358v1](http://arxiv.org/abs/2609.20358v1)
+
+## Ownership in AI-Assisted Everyday Tasks
+- **ID**: arxiv_2609.20658v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20658v1](http://arxiv.org/abs/2609.20658v1)
+
+## Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models
+- **ID**: arxiv_2609.20722v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20722v1](http://arxiv.org/abs/2609.20722v1)
+
+## Q&A on Any Spreadsheet Requires Interpreting Its Grid Structure
+- **ID**: arxiv_2609.20732v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20732v1](http://arxiv.org/abs/2609.20732v1)
+
+## RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents
+- **ID**: arxiv_2609.20754v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20754v1](http://arxiv.org/abs/2609.20754v1)
+
+## An Empirical Study of Harness Design for Coding Agents
+- **ID**: arxiv_2609.20804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20804v1](http://arxiv.org/abs/2609.20804v1)
 

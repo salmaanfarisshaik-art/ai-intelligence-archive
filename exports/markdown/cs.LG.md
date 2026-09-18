@@ -185,6 +185,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
 
+## Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
+- **ID**: arxiv_2602.04663v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.04663v3](http://arxiv.org/abs/2602.04663v3)
+
 ## Constrained Group Relative Policy Optimization
 - **ID**: arxiv_2602.05863v4
 - **Source**: ArXiv
@@ -259,6 +264,11 @@
 - **ID**: arxiv_2604.15010v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.15010v2](http://arxiv.org/abs/2604.15010v2)
+
+## Green-ELM: Efficient Analytic Learning via High-Dimensional Random Projections
+- **ID**: arxiv_2604.15613v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.15613v4](http://arxiv.org/abs/2604.15613v4)
 
 ## AutoOR: Scalably Post-training LLMs to Autoformalize Operations Research Problems
 - **ID**: arxiv_2604.16804v3
@@ -554,6 +564,11 @@
 - **ID**: arxiv_2606.28947v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.28947v2](http://arxiv.org/abs/2606.28947v2)
+
+## Accelerating Q-learning through Efficient Value-Sharing across Actions
+- **ID**: arxiv_2606.29806v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.29806v3](http://arxiv.org/abs/2606.29806v3)
 
 ## Foundations of Equivariant Deep Learning: Unifying Graph and Sheaf Neural Networks
 - **ID**: arxiv_2607.03798v4
@@ -1504,4 +1519,9 @@
 - **ID**: arxiv_2609.20156v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20156v1](http://arxiv.org/abs/2609.20156v1)
+
+## Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL
+- **ID**: arxiv_2609.20715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20715v1](http://arxiv.org/abs/2609.20715v1)
 

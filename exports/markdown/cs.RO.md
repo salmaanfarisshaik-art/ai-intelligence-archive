@@ -510,3 +510,38 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19137v1](http://arxiv.org/abs/2609.19137v1)
 
+## HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface
+- **ID**: arxiv_2609.20659v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20659v1](http://arxiv.org/abs/2609.20659v1)
+
+## Learning Foresight without Explicit Trajectories for 3D Diffusion Policies
+- **ID**: arxiv_2609.20669v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20669v1](http://arxiv.org/abs/2609.20669v1)
+
+## Towards Scaling Marine Perception with Synthetic Data
+- **ID**: arxiv_2609.20680v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20680v1](http://arxiv.org/abs/2609.20680v1)
+
+## OPTED: On-Policy Fine-Tuning for End-to-End Driving using a Render-Free Teacher
+- **ID**: arxiv_2609.20756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20756v1](http://arxiv.org/abs/2609.20756v1)
+
+## GeoAAC: Geometry-Based Adaptive Action Chunking from Denoising Trajectories in VLA Policies
+- **ID**: arxiv_2609.20776v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20776v1](http://arxiv.org/abs/2609.20776v1)
+
+## Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
+- **ID**: arxiv_2609.20820v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20820v1](http://arxiv.org/abs/2609.20820v1)
+
+## Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation
+- **ID**: arxiv_2609.20822v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20822v1](http://arxiv.org/abs/2609.20822v1)
+

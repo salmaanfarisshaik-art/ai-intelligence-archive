@@ -250,3 +250,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20130v1](http://arxiv.org/abs/2609.20130v1)
 
+## Quantifying Overclaiming Propensity in Frontier LLM Agents
+- **ID**: arxiv_2609.20812v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20812v1](http://arxiv.org/abs/2609.20812v1)
+

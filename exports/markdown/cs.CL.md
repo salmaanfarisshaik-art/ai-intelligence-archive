@@ -425,6 +425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.02512v2](http://arxiv.org/abs/2604.02512v2)
 
+## PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers
+- **ID**: arxiv_2604.02537v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.02537v3](http://arxiv.org/abs/2604.02537v3)
+
 ## StoryScope: Investigating idiosyncrasies in AI fiction
 - **ID**: arxiv_2604.03136v5
 - **Source**: ArXiv
@@ -2785,6 +2790,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15975v1](http://arxiv.org/abs/2609.15975v1)
 
+## RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation
+- **ID**: arxiv_2609.16900v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16900v2](http://arxiv.org/abs/2609.16900v2)
+
 ## Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs
 - **ID**: arxiv_2609.16984v1
 - **Source**: ArXiv
@@ -2919,4 +2929,49 @@
 - **ID**: arxiv_2609.20186v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20186v1](http://arxiv.org/abs/2609.20186v1)
+
+## HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication
+- **ID**: arxiv_2609.20684v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20684v1](http://arxiv.org/abs/2609.20684v1)
+
+## Summarization Bias: The Directional Collapse of Objective Projection into Told-Mode Labels in Large Language Models --- A Conceptual Framework and Registered Test Protocol
+- **ID**: arxiv_2609.20712v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20712v1](http://arxiv.org/abs/2609.20712v1)
+
+## On-Demand Attention: Language Models Know When to Recall
+- **ID**: arxiv_2609.20734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20734v1](http://arxiv.org/abs/2609.20734v1)
+
+## dQwen3.5: Hybrid-Attention Diffusion Language Models
+- **ID**: arxiv_2609.20751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20751v1](http://arxiv.org/abs/2609.20751v1)
+
+## Harm Laundering in GPT Models: Evidence That Gender Discrimination Is Transformed Rather Than Reduced Across Safety-Trained Generations
+- **ID**: arxiv_2609.20779v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20779v1](http://arxiv.org/abs/2609.20779v1)
+
+## RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning
+- **ID**: arxiv_2609.20784v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20784v1](http://arxiv.org/abs/2609.20784v1)
+
+## JEPA-Anything: Learning Predictive Models across Different Worlds
+- **ID**: arxiv_2609.20800v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20800v1](http://arxiv.org/abs/2609.20800v1)
+
+## Unifying Models of Intergroup Hostility in Online Discourse
+- **ID**: arxiv_2609.20808v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20808v1](http://arxiv.org/abs/2609.20808v1)
+
+## Embedding Models Measure in Peculiar Ways
+- **ID**: arxiv_2609.20821v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20821v1](http://arxiv.org/abs/2609.20821v1)
 
