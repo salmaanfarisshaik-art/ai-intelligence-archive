@@ -55,6 +55,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 
+## voicebox
+- **ID**: gh_1141782198
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/jamiepine/voicebox](https://github.com/jamiepine/voicebox)
+
 ## taste-skill
 - **ID**: gh_1162099055
 - **Source**: GitHub Trending

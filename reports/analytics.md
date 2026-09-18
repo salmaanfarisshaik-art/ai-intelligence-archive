@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89291
+**Total Entities Tracked**: 89292
 
 ## Category Distribution
 
@@ -18,8 +18,8 @@
 - **cs.LG**: 305
 - **cs.RO**: 109
 - **cs.CR**: 66
+- **tool**: 52
 - **cs.SE**: 51
-- **tool**: 51
 - **cs.HC**: 30
 - **cs.SD**: 30
 - **cs.CY**: 28
@@ -100,7 +100,7 @@
 - **Hugging Face**: 2017
 - **OpenAI Blog**: 1220
 - **HuggingFace Datasets**: 175
-- **GitHub Trending**: 51
+- **GitHub Trending**: 52
 - **BAIR Blog**: 14
 - **Backend**: 10
 - **Database**: 10
@@ -141,23 +141,23 @@
 
 - **region:us**: 253
 - **text-generation**: 79
-- **library:datasets**: 77
-- **library:mlcroissant**: 77
-- **modality:text**: 72
+- **library:datasets**: 78
+- **library:mlcroissant**: 78
+- **modality:text**: 73
 - **endpoints_compatible**: 67
 - **transformers**: 67
 - **license:apache-2.0**: 66
 - **safetensors**: 66
 - **language:en**: 64
 - **conversational**: 60
-- **library:polars**: 58
-- **format:parquet**: 45
+- **library:polars**: 59
+- **format:parquet**: 46
 - **license:mit**: 45
 - **text-generation-inference**: 35
 - **deploy:azure**: 32
 - **library:pandas**: 31
 - **en**: 28
-- **library:dask**: 27
+- **library:dask**: 28
 - **task_categories:text-generation**: 26
 - **enterprise**: 25
 - **eval-results**: 25
@@ -187,5 +187,5 @@
 - **size_categories:100M<n<1B**: 10
 - **modality:audio**: 9
 - **python**: 9
+- **size_categories:1M<n<10M**: 9
 - **size_categories:n>1T**: 9
-- **8-bit**: 8
