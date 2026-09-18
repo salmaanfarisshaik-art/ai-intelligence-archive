@@ -1054,6 +1054,12 @@
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/newe](https://huggingface.co/datasets/gfdg34fsd/newe)
 - **Tags**: region:us
 
+## BuLei/imgbed
+- **ID**: hf_ds_6a96f1b1177b511ec1b92935
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/BuLei/imgbed](https://huggingface.co/datasets/BuLei/imgbed)
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
+
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
 - **Source**: Hugging Face

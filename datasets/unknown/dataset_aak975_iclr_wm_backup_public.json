@@ -9,7 +9,7 @@
   "private": false,
   "sha": "00675207a7c355020502975efb64c5c58e3f7699",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tICLR Watermark Benchmark — backup overflow (public part)\n\t\n\nCompanion to the private repo Aak975/iclr-wm-backup, which reached its\nstorage quota. Together the two repos form ONE backup — every file exists in\nexactly one of them, with the same layout:\narchives/<sub>/part-0000 ... part-NNNN, MANIFEST.json\n  restore one archive:  cat part-* | zstd -d | tar -x\n  MANIFEST.json = {\"parts\": N, \"sha256\": <whole-stream>, \"total_bytes\": M}\n\nThis public part holds only shareable image data… See the full description on the dataset page: https://huggingface.co/datasets/Aak975/iclr-wm-backup-public.",
-  "downloads": 59327,
+  "downloads": 145766,
   "tags": [
     "size_categories:n<1K",
     "format:json",

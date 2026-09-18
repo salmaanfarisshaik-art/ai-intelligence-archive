@@ -261,6 +261,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_dealignai_glm_5_3_cybersecurity_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_facebook_xglm_564m",
       "match_type": "exact",
       "score": 1.5
@@ -2267,6 +2272,13 @@
       "score": 1.0
     }
   ],
+  "jangq": [
+    {
+      "entity_id": "model_dealignai_glm_5_3_cybersecurity_fp8",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "janhq": [
     {
       "entity_id": "model_janhq_jan_v3_5_4b_gguf",
@@ -3272,6 +3284,11 @@
     },
     {
       "entity_id": "dataset_cis_lmu_glot500",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_coherelabs_aya_collection",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15053,6 +15070,11 @@
     },
     {
       "entity_id": "dataset_cis_lmu_glot500",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_coherelabs_aya_collection",
       "match_type": "exact",
       "score": 1.5
     },

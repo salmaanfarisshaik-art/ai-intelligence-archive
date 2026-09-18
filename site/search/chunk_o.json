@@ -65926,6 +65926,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_coherelabs_aya_collection",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 2.0
@@ -82211,6 +82216,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_forithmus_mr_rate_atlas",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_forithmus_mr_rate_coreg",
       "match_type": "exact",
       "score": 1.0
@@ -86048,6 +86058,11 @@
       "entity_id": "arxiv_2607.20255v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_dealignai_glm_5_3_cybersecurity_fp8",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf",
@@ -90252,6 +90267,13 @@
       "entity_id": "hf_ds_69a471da5b0ec60eb113b4c1",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "offload": [
+    {
+      "entity_id": "model_edge0_edge0_35b_a3b_preview",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "offloaded": [
@@ -107608,6 +107630,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_prism_ml_ternary_bonsai_2_27b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_prism_ml_ternary_bonsai_8b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -120903,6 +120930,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_coherelabs_aya_collection",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.0
@@ -121294,6 +121326,11 @@
     },
     {
       "entity_id": "dataset_forithmus_mr_rate",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_forithmus_mr_rate_atlas",
       "match_type": "exact",
       "score": 1.0
     },
@@ -142729,6 +142766,11 @@
     },
     {
       "entity_id": "dataset_clinc_clinc_oos",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_coherelabs_aya_collection",
       "match_type": "exact",
       "score": 1.0
     },
@@ -178103,6 +178145,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_coherelabs_aya_collection",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_coherelabs_global_mmlu",
       "match_type": "exact",
       "score": 1.0
@@ -179915,6 +179962,13 @@
       "entity_id": "model_zyphra_zamba2_1_2b_instruct",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "orcarouter": [
+    {
+      "entity_id": "model_orcarouter_glm_5_3_flash_uncensored_fp8",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "orchards": [
@@ -184337,6 +184391,11 @@
     },
     {
       "entity_id": "model_nvidia_glm_5_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "match_type": "exact",
       "score": 3.0
     },
@@ -195277,6 +195336,11 @@
     },
     {
       "entity_id": "model_nvidia_mistral_medium_3_5_128b_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nvidia_mistral_nemo_minitron_8b_instruct",
       "match_type": "exact",
       "score": 1.5
     },
