@@ -1,11 +1,11 @@
 {
-  "total_entities": 89276,
+  "total_entities": 89291,
   "category_distribution": {
     "skills": 31000,
     "prompts": 27178,
     "instruction_tuning": 21000,
-    "datasets": 1954,
-    "models": 1679,
+    "datasets": 1961,
+    "models": 1687,
     "news": 1234,
     "dataset": 1175,
     "text-generation": 1010,
@@ -91,7 +91,7 @@
   },
   "source_distribution": {
     "Stanford Alpaca": 52000,
-    "": 30811,
+    "": 30826,
     "ArXiv": 2888,
     "Hugging Face": 2017,
     "OpenAI Blog": 1220,
@@ -136,23 +136,23 @@
   "top_tags": {
     "region:us": 253,
     "text-generation": 79,
-    "library:datasets": 78,
-    "library:mlcroissant": 78,
-    "modality:text": 73,
+    "library:datasets": 77,
+    "library:mlcroissant": 77,
+    "modality:text": 72,
     "endpoints_compatible": 67,
     "transformers": 67,
     "license:apache-2.0": 66,
     "safetensors": 66,
     "language:en": 64,
     "conversational": 60,
-    "library:polars": 59,
-    "format:parquet": 46,
+    "library:polars": 58,
+    "format:parquet": 45,
     "license:mit": 45,
     "text-generation-inference": 35,
     "deploy:azure": 32,
     "library:pandas": 31,
     "en": 28,
-    "library:dask": 28,
+    "library:dask": 27,
     "task_categories:text-generation": 26,
     "enterprise": 25,
     "eval-results": 25,
@@ -182,7 +182,7 @@
     "size_categories:100M<n<1B": 10,
     "modality:audio": 9,
     "python": 9,
-    "size_categories:1M<n<10M": 9,
-    "size_categories:n>1T": 9
+    "size_categories:n>1T": 9,
+    "8-bit": 8
   }
 }

@@ -992,6 +992,10 @@
 - **ID**: model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit
 - **Source**: 
 
+## dealignai/GLM-5.3-CYBERSECURITY-FP8
+- **ID**: model_dealignai_glm_5_3_cybersecurity_fp8
+- **Source**: 
+
 ## decart-ai/Kimi-K2.7-Code-NVFP4
 - **ID**: model_decart_ai_kimi_k2_7_code_nvfp4
 - **Source**: 
@@ -1262,6 +1266,10 @@
 
 ## echarlaix/tiny-random-PhiForCausalLM
 - **ID**: model_echarlaix_tiny_random_phiforcausallm
+- **Source**: 
+
+## Edge0/Edge0-35B-A3B-preview
+- **ID**: model_edge0_edge0_35b_a3b_preview
 - **Source**: 
 
 ## Edge-Quant/Nanbeige4.1-3B-Q4_K_M-GGUF
@@ -1686,6 +1694,10 @@
 
 ## google-t5/t5-3b
 - **ID**: model_google_t5_t5_3b
+- **Source**: 
+
+## gradientai/Llama-3-8B-Instruct-Gradient-1048k
+- **ID**: model_gradientai_llama_3_8b_instruct_gradient_1048k
 - **Source**: 
 
 ## gratefulasi/lumeleto
@@ -2642,6 +2654,10 @@
 
 ## lmstudio-community/Qwen3-14B-MLX-8bit
 - **ID**: model_lmstudio_community_qwen3_14b_mlx_8bit
+- **Source**: 
+
+## lmstudio-community/Qwen3-4B-Instruct-2507-GGUF
+- **ID**: model_lmstudio_community_qwen3_4b_instruct_2507_gguf
 - **Source**: 
 
 ## lmstudio-community/Qwen3-4B-Instruct-2507-MLX-4bit
@@ -3688,6 +3704,10 @@
 - **ID**: model_nvidia_mistral_medium_3_5_128b_nvfp4
 - **Source**: 
 
+## nvidia/Mistral-NeMo-Minitron-8B-Instruct
+- **ID**: model_nvidia_mistral_nemo_minitron_8b_instruct
+- **Source**: 
+
 ## nvidia/Nemotron-Cascade-2-30B-A3B
 - **ID**: model_nvidia_nemotron_cascade_2_30b_a3b
 - **Source**: 
@@ -4056,6 +4076,10 @@
 - **ID**: model_optimum_intel_internal_testing_tiny_random_phi3forcausallm
 - **Source**: 
 
+## orcarouter/GLM-5.3-Flash-Uncensored-FP8
+- **ID**: model_orcarouter_glm_5_3_flash_uncensored_fp8
+- **Source**: 
+
 ## Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
 - **ID**: model_orenguteng_llama_3_1_8b_lexi_uncensored_v2
 - **Source**: 
@@ -4318,6 +4342,10 @@
 
 ## prism-ml/Ternary-Bonsai-27B-mlx-2bit
 - **ID**: model_prism_ml_ternary_bonsai_27b_mlx_2bit
+- **Source**: 
+
+## prism-ml/Ternary-Bonsai-2-27B-gguf
+- **ID**: model_prism_ml_ternary_bonsai_2_27b_gguf
 - **Source**: 
 
 ## prism-ml/Ternary-Bonsai-8B-gguf
@@ -5730,6 +5758,10 @@
 
 ## trl-internal-testing/dummy-GPT2-correct-vocab
 - **ID**: model_trl_internal_testing_dummy_gpt2_correct_vocab
+- **Source**: 
+
+## trl-internal-testing/small-Qwen2ForCausalLM-2.5
+- **ID**: model_trl_internal_testing_small_qwen2forcausallm_2_5
 - **Source**: 
 
 ## trl-internal-testing/small-Qwen3ForCausalLM
