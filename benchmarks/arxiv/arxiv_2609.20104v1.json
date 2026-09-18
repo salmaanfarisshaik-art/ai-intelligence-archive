@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2609.20104v1",
+  "schema_version": "1.0",
+  "name": "Design of the IBM Granite 5.0 TurboCTC ASR Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20104v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20104v1",
+    "updated": "2026-09-17T12:05:58Z",
+    "published": "2026-09-17T12:05:58Z",
+    "title": "Design of the IBM Granite 5.0 TurboCTC ASR Model",
+    "summary": "We describe the architecture, training methodology and inference speedups of Granite 5.0 Turbo CTC, a 470 million parameter encoder-only model with an excellent speed-accuracy tradeoff. The architecture uses pyramidal temporal subsampling within Conformer blocks using strided depthwise convolutions, block-diagonal (chunk-wise) self-attention, and conditioning on intermediate predictions from the middle layer. Training highlights are the use of only publicly available data, the novel use of a Muon optimizer, and balanced data sampling. Inference speedups include replacing 1 x 1 convolutions with linear layers and optimizing the attention computation in the Conformer blocks. Collectively, these result in a model that is on the speed-accuracy Pareto frontier of the Open ASR leaderboard for English short-form ASR while being twice as fast as the fastest competitor. The model can be used under a permissive license and downloaded from https://huggingface.co/ibm-granite/granite-speech-5.0-470m-turboctc.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T12:05:58Z",
+  "links": {
+    "related_models": [
+      "ibm-granite/granite-speech-5"
+    ],
+    "related_papers": [
+      "2609.20104v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

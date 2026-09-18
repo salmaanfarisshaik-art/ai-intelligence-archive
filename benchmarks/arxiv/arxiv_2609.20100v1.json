@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20100v1",
+  "schema_version": "1.0",
+  "name": "A Smaller Transformer in Your Transformer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20100v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20100v1",
+    "updated": "2026-09-17T12:01:13Z",
+    "published": "2026-09-17T12:01:13Z",
+    "title": "A Smaller Transformer in Your Transformer",
+    "summary": "Recent findings indicate that Vision Transformers settle into locally similar computational phases, implying a level of depthwise computational redundancy. However, existing methods to exploit this redundancy either fail to reduce inference compute or severely degrade model expressivity. In this work, we formalise a unified view of block redundancy that decouples the geometry from specific surrogate interventions. We then introduce Transformer-Within-Transformer (TWT), a post-hoc method that fuses contiguous groups of redundant layers into a single learned surrogate layer. TWT reduces parameter count and inference compute while remaining competitive with original models using half the depth on natural images, and in several downstream histopathology settings, TWT matches or even improves on the original baseline.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T12:01:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20100v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

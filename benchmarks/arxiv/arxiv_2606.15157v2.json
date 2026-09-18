@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15157v2",
+  "schema_version": "1.0",
+  "name": "Exploring a Layer-Wise Design Space for KV Cache Eviction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15157v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15157v2",
+    "updated": "2026-09-17T12:48:10Z",
+    "published": "2026-06-13T07:01:14Z",
+    "title": "Exploring a Layer-Wise Design Space for KV Cache Eviction",
+    "summary": "KV cache eviction methods typically use a single retention-rule family throughout a model, making eviction-method identity a model-level design choice. Yet Transformer layers differ substantially in their attention behavior, representations, and sensitivity to compression, suggesting that a uniform rule may overlook useful layer-wise structure. This raises a basic question: should eviction methods themselves vary across layers? We investigate this question by composing existing eviction methods across Transformer layers and systematically exploring the resulting layer-wise design space. Using simple offline profiles, we construct fixed routes and study how their quality varies with method placement and cache budget. On LongBench, heterogeneous routing improves performance on a majority of tasks over homogeneous policies at the same cache budget. Even when method counts are held fixed, the profile-guided placement ranks second among 100 evaluated assignments, demonstrating that routing quality depends strongly on where methods are placed. Moreover, the same fixed route outperforms the best of nine standalone baselines across all five tested cache budgets. Together, these results establish layer-wise method composition as an exploitable, placement-sensitive design dimension for KV cache compression.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T12:48:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15157v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

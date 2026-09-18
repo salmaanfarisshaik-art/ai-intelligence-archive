@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20358v1",
+  "schema_version": "1.0",
+  "name": "Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20358v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20358v1",
+    "updated": "2026-09-17T13:21:48Z",
+    "published": "2026-09-17T13:21:48Z",
+    "title": "Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model",
+    "summary": "Characterizing the physical properties of clay and cementitious materials matters across many fields, from materials science to geological waste disposal. Property simulation typically calls for 3D imaging, which is expensive, not always accessible, and technically limited for certain materials. Recent progress in deep generative models offers a way around this, reconstructing 3D volumes from the more easily acquired 2D images.\n  Among GAN-based methods for 3D microstructure generation, SliceGAN has shown strong results for homogeneous isotropic and anisotropic systems. It struggles, however, to capture the finer detail of more complex heterogeneous microstructures, which motivates alternative generative frameworks.\n  We introduce a hybrid approach that draws on the stability and generation quality of denoising diffusion models. Since no 3D ground truth is available, we replace the standard denoising loss with an adversarial loss, which yields a stable training process in our experiments. We show that the resulting model generates microstructures of varying complexity with minimal slice artefacts and close agreement with ground-truth phase fractions and structural descriptors.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T13:21:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20358v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

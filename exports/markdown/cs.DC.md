@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11923v1](http://arxiv.org/abs/2609.11923v1)
 
+## Accelerating Sharded Data Parallelism at Scale with Federated Learning
+- **ID**: arxiv_2609.20359v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20359v1](http://arxiv.org/abs/2609.20359v1)
+

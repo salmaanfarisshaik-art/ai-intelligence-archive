@@ -35,3 +35,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.18857v1](http://arxiv.org/abs/2609.18857v1)
 
+## STR-Agent: An LLM-Driven Agent for QoS-Aware Routing in LEO Satellite Networks
+- **ID**: arxiv_2609.20347v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20347v1](http://arxiv.org/abs/2609.20347v1)
+

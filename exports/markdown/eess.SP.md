@@ -1,5 +1,10 @@
 # Eess.Sp Export
 
+## High-Resolution Range Profile Classifiers Require Aspect-Angle Awareness
+- **ID**: arxiv_2603.00087v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.00087v2](http://arxiv.org/abs/2603.00087v2)
+
 ## Leakage-Audited Benchmarking Reveals Limited Evidence for Cross-Subject Auditory-Evoked EEG Vowel Perception Decoding
 - **ID**: arxiv_2605.00865v4
 - **Source**: ArXiv

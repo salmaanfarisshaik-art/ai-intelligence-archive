@@ -245,3 +245,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17394v1](http://arxiv.org/abs/2609.17394v1)
 
+## AdaRepair-Mem: Adaptive Experience Orchestration for Repository-Level Program Repair
+- **ID**: arxiv_2609.20130v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20130v1](http://arxiv.org/abs/2609.20130v1)
+

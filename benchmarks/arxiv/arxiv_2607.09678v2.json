@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.09678v2",
+  "schema_version": "1.0",
+  "name": "Faithful, Not Corrective: Model Capability Governs Message-Format Effects in Multi-Hop Agent Relays",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.09678v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.09678v2",
+    "updated": "2026-09-17T13:08:11Z",
+    "published": "2026-06-12T08:21:53Z",
+    "title": "Faithful, Not Corrective: Model Capability Governs Message-Format Effects in Multi-Hop Agent Relays",
+    "summary": "When LLM agents hand information to one another, does the message format matter? Two literatures disagree: format-optimization work reports that structured messages cut cost without hurting accuracy, while format-restriction studies find that imposing structure degrades generation. Neither line has measured what happens when messages traverse multiple hops, where copy fidelity, rather than one-shot generation quality, dominates. We introduce a controlled relay testbed in which briefs of twelve programmatic atomic facts are re-encoded hop by hop in five formats (free natural language, precision-instructed NL, JSON, triples, key-value) over six hops, scored against programmatic ground truth by a fixed strong grader, across two relay-capability tiers, a cognitive-load condition, and a paired-fork error injection. We find that (i) a strong relay is nearly lossless for every format (hop-6 QA recall $\\geq 0.973$), with residual loss concentrated at the first encoding step; (ii) per-hop cognitive load raises generation cost by 24-53% while fidelity changes stay within $\\pm 1.8$ points; (iii) under a weak 1.5B relay, the across-format dispersion of hop-6 recall grows by a factor of $8.7$ (CI 5.3-15.5), driven by an encode-drift trade-off that flips the format ranking in transit; and (iv) once an injected error is present, every format propagates it faithfully (surface persistence 83-100%) and no format cascades collateral damage onto neighboring facts. Structure buys a faithful, error-localizing channel, not an error-correcting code.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T13:08:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.09678v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

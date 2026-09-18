@@ -145,3 +145,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17509v1](http://arxiv.org/abs/2609.17509v1)
 
+## Multi-Dimensional Prosody Judgment For Live Streaming Speech Synthesis
+- **ID**: arxiv_2609.20124v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20124v1](http://arxiv.org/abs/2609.20124v1)
+

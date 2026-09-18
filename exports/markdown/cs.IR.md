@@ -130,3 +130,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29604v1](http://arxiv.org/abs/2608.29604v1)
 
+## Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking
+- **ID**: arxiv_2609.20131v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20131v1](http://arxiv.org/abs/2609.20131v1)
+

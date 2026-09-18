@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.14112v3",
+  "schema_version": "1.0",
+  "name": "Limits of Reliability and Scaling in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.14112v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.14112v3",
+    "updated": "2026-09-17T11:30:20Z",
+    "published": "2026-05-08T06:06:18Z",
+    "title": "Limits of Reliability and Scaling in Language Models",
+    "summary": "Large language models (LLMs) are trained and evaluated as though perfect reliability is achievable for any task given sufficient scale. We show that this assumption is information-theoretically unjustified. Every generative task has a reliability ceiling that no model can exceed, determined by how much output uncertainty is resolvable from observable context. The gap decomposes into a resolvable component closable with additional context and a subjective component inherent to task ambiguity. Autoregressive generation further degrades this ceiling at a rate governed by the task's dependency kernel, which quantifies inter-token correlations in the output. From these two primitives, we derive a first-principles scaling law where LLM performance is bottlenecked by the scarcer resource: training data or model capacity. This law recovers the Chinchilla scaling law as a special case and provides a structural account of when scaling improves reliability. Beyond scaling, our framework unifies diverse practical phenomena, such as the benefits of retrieval-augmentation and the spectral mechanics of catastrophic forgetting. Our work formalizes the resource-complexity tradeoffs that govern model performance across domains, offering a unified theory of performance limits in generative language models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T11:30:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.14112v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

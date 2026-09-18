@@ -390,6 +390,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.22216v2](http://arxiv.org/abs/2603.22216v2)
 
+## When Consistency Becomes Bias: Interviewer Effects in Semi-Structured Clinical Interviews
+- **ID**: arxiv_2603.24651v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.24651v2](http://arxiv.org/abs/2603.24651v2)
+
 ## Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties
 - **ID**: arxiv_2603.25489v2
 - **Source**: ArXiv
@@ -584,6 +589,11 @@
 - **ID**: arxiv_2605.15607v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15607v2](http://arxiv.org/abs/2605.15607v2)
+
+## How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World
+- **ID**: arxiv_2605.18105v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.18105v3](http://arxiv.org/abs/2605.18105v3)
 
 ## Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs
 - **ID**: arxiv_2605.20382v3
@@ -995,6 +1005,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30085v2](http://arxiv.org/abs/2606.30085v2)
 
+## CORTEX: High-Quality Cross-Domain Organization of Web-Scale Corpora through Ontological Corpus Graph
+- **ID**: arxiv_2606.30175v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.30175v2](http://arxiv.org/abs/2606.30175v2)
+
 ## CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield
 - **ID**: arxiv_2606.31796v2
 - **Source**: ArXiv
@@ -1069,6 +1084,11 @@
 - **ID**: arxiv_2607.13205v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13205v2](http://arxiv.org/abs/2607.13205v2)
+
+## Limits of Reliability and Scaling in Language Models
+- **ID**: arxiv_2607.14112v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14112v3](http://arxiv.org/abs/2607.14112v3)
 
 ## Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents
 - **ID**: arxiv_2607.15095v2
@@ -2884,4 +2904,19 @@
 - **ID**: arxiv_2609.19145v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19145v1](http://arxiv.org/abs/2609.19145v1)
+
+## Reading Emotions in the Token Space: Discriminative Adaptation of SpeechLLMs for Emotion Recognition
+- **ID**: arxiv_2609.20081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20081v1](http://arxiv.org/abs/2609.20081v1)
+
+## Design of the IBM Granite 5.0 TurboCTC ASR Model
+- **ID**: arxiv_2609.20104v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20104v1](http://arxiv.org/abs/2609.20104v1)
+
+## To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals
+- **ID**: arxiv_2609.20186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20186v1](http://arxiv.org/abs/2609.20186v1)
 

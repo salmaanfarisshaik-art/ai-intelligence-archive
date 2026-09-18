@@ -140,3 +140,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19125v1](http://arxiv.org/abs/2609.19125v1)
 
+## Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
+- **ID**: arxiv_2609.20143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20143v1](http://arxiv.org/abs/2609.20143v1)
+

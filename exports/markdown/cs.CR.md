@@ -320,3 +320,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.18864v1](http://arxiv.org/abs/2609.18864v1)
 
+## A Scalable Trust Discovery Architecture for the Internet of Agents
+- **ID**: arxiv_2609.20095v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20095v1](http://arxiv.org/abs/2609.20095v1)
+

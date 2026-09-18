@@ -370,6 +370,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.05610v2](http://arxiv.org/abs/2512.05610v2)
 
+## AGORA: Adversarial Generation Of Real-time Animatable 3D Gaussian Head Avatars
+- **ID**: arxiv_2512.06438v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.06438v4](http://arxiv.org/abs/2512.06438v4)
+
 ## FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement
 - **ID**: arxiv_2512.09373v3
 - **Source**: ArXiv
@@ -565,6 +570,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21809v2](http://arxiv.org/abs/2603.21809v2)
 
+## Fast Preemptive Robustification: High-Frequency Response Anti-Aligns Shared Vulnerability
+- **ID**: arxiv_2603.25244v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.25244v2](http://arxiv.org/abs/2603.25244v2)
+
 ## A Camera-Native Talking-Head Video Dataset for Various Computer Vision Tasks
 - **ID**: arxiv_2603.26763v3
 - **Source**: ArXiv
@@ -584,6 +594,11 @@
 - **ID**: arxiv_2603.28763v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.28763v2](http://arxiv.org/abs/2603.28763v2)
+
+## SceneTeract: Probing and Improving Agent-Aware Activity Reasoning in 3D Indoor Scenes
+- **ID**: arxiv_2603.29798v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.29798v2](http://arxiv.org/abs/2603.29798v2)
 
 ## Hierarchical Pre-Training of Vision Encoders with Large Language Model
 - **ID**: arxiv_2604.00086v2
@@ -1199,6 +1214,11 @@
 - **ID**: arxiv_2606.30611v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30611v4](http://arxiv.org/abs/2606.30611v4)
+
+## WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models
+- **ID**: arxiv_2606.31672v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.31672v4](http://arxiv.org/abs/2606.31672v4)
 
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
@@ -4055,6 +4075,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11929v1](http://arxiv.org/abs/2609.11929v1)
 
+## UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation
+- **ID**: arxiv_2609.12397v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12397v2](http://arxiv.org/abs/2609.12397v2)
+
 ## An End-to-End Automated Pipeline for Controllable Crack Data Synthesis
 - **ID**: arxiv_2609.12431v2
 - **Source**: ArXiv
@@ -4209,4 +4234,69 @@
 - **ID**: arxiv_2609.19143v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19143v1](http://arxiv.org/abs/2609.19143v1)
+
+## G^2RA-NET: Graph-based Cross-Slice Relation Modeling with Attention Gating for Medical Image Segmentation
+- **ID**: arxiv_2609.20088v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20088v1](http://arxiv.org/abs/2609.20088v1)
+
+## A Smaller Transformer in Your Transformer
+- **ID**: arxiv_2609.20100v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20100v1](http://arxiv.org/abs/2609.20100v1)
+
+## AnyviewMeter: Adapting Robotic Reward Models with Camera Geometry and Multi-View Attention
+- **ID**: arxiv_2609.20106v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20106v1](http://arxiv.org/abs/2609.20106v1)
+
+## Cross-Modal Attention Acts as a Frequency Filter: Why Verbose Prompts Improve Robustness in Vision-Language Models
+- **ID**: arxiv_2609.20139v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20139v1](http://arxiv.org/abs/2609.20139v1)
+
+## Bridging Modalities on the Cortex: Surface-based MRI to PET Translation with a Diffusion Bridge
+- **ID**: arxiv_2609.20147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20147v1](http://arxiv.org/abs/2609.20147v1)
+
+## Task-Oriented Semantic Feature Transmission for Multi-Task Satellite Remote Sensing over Low-SNR Channels
+- **ID**: arxiv_2609.20150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20150v1](http://arxiv.org/abs/2609.20150v1)
+
+## Ischemic Stroke Segmentation and Net Water Uptake Quantification on Multicenter Non-Contrast CT Using Supervised Target-Domain Adaptation
+- **ID**: arxiv_2609.20151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20151v1](http://arxiv.org/abs/2609.20151v1)
+
+## Needles in a Raystack: Ultra-Sparse LiDAR Occupancy Detection for Bat Tracks
+- **ID**: arxiv_2609.20160v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20160v1](http://arxiv.org/abs/2609.20160v1)
+
+## AgriScope: Pixel-Grounded Multimodal Understanding for Agricultural Images
+- **ID**: arxiv_2609.20325v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20325v1](http://arxiv.org/abs/2609.20325v1)
+
+## FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis
+- **ID**: arxiv_2609.20340v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20340v1](http://arxiv.org/abs/2609.20340v1)
+
+## Fast Cross-Strength Multi-Contrast Brain MRI Translation using Latent Bridge Matching
+- **ID**: arxiv_2609.20341v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20341v1](http://arxiv.org/abs/2609.20341v1)
+
+## EliGSiR: Continual RGB-D Mapping with Gaussian Splatting under Bounded Compute
+- **ID**: arxiv_2609.20348v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20348v1](http://arxiv.org/abs/2609.20348v1)
+
+## MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving
+- **ID**: arxiv_2609.20377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20377v1](http://arxiv.org/abs/2609.20377v1)
 

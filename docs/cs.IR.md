@@ -26,6 +26,7 @@
 | [Stageboost: Recommending Signals Based on Counterfactual Estimation](http://arxiv.org/abs/2608.27366v1) | ArXiv |  | 1 |
 | [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](http://arxiv.org/abs/2606.20554v1) | ArXiv |  | 1 |
 | [TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval](http://arxiv.org/abs/2607.28498v1) | ArXiv |  | 1 |
+| [Think Thrice Before Reranking: Multi-perspective Evidence and Reasoning Integration for Text Reranking](http://arxiv.org/abs/2609.20131v1) | ArXiv |  | 1 |
 | [Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation](http://arxiv.org/abs/2606.01670v2) | ArXiv |  | 1 |
 | [Towards a Theoretical Understanding of Two Tower Recommendation Models](http://arxiv.org/abs/2403.00802v2) | ArXiv |  | 1 |
 | [UniDot: A Unified Network for Sequence Modeling and Feature Interaction in Large-scale Recommendation](http://arxiv.org/abs/2608.16797v1) | ArXiv |  | 1 |

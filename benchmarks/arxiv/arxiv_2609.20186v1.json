@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20186v1",
+  "schema_version": "1.0",
+  "name": "To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20186v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20186v1",
+    "updated": "2026-09-17T12:51:20Z",
+    "published": "2026-09-17T12:51:20Z",
+    "title": "To Copy or Not to Copy: Controlling Speculative Decoding via Intrinsic Model Signals",
+    "summary": "Speculative Decoding (SD) has significantly accelerated Large Language Model (LLM) inference, yet existing approaches face a fundamental tradeoff between two drafting strategies: neural drafting and context-based copying. Neural drafts (e.g., EAGLE3) provide robust performance across diverse text settings, while copy-based methods achieve higher speedups in copy-intensive regimes by generating candidates faster and exploiting long repetition spans for near-perfect speculation. We analyze existing copy-based methods and find that they are prone to accidental repetitions where surface-level n-gram overlap does not reflect a structural intent to copy, leading to false-positive triggers that ultimately degrade throughput. We introduce SwitchSD, an adaptive framework that treats copying as a latent control signal of the LLM. By training lightweight probes on the target model's internal representations, SwitchSD identifies genuine copy-intent with high precision (AUC > 0.99). This allows the system to dynamically switch between neural drafting (e.g., EAGLE) and context-based copying. Our results across Llama and Qwen families demonstrate throughput gains of up to 15% over state-of-the-art baselines like EAGLE3, effectively turning copying from a noisy heuristic into a principled, model-aware decoding regime.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T12:51:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20186v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

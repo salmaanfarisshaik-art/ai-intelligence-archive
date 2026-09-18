@@ -695,6 +695,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09493v2](http://arxiv.org/abs/2607.09493v2)
 
+## Faithful, Not Corrective: Model Capability Governs Message-Format Effects in Multi-Hop Agent Relays
+- **ID**: arxiv_2607.09678v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09678v2](http://arxiv.org/abs/2607.09678v2)
+
 ## The Verifier is the Curriculum: Precision Sets the Return on Search in Code Self-Distillation
 - **ID**: arxiv_2607.09709v2
 - **Source**: ArXiv
@@ -2774,4 +2779,54 @@
 - **ID**: arxiv_2609.19128v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19128v1](http://arxiv.org/abs/2609.19128v1)
+
+## Tailored to you: longitudinal effects of personalising language models
+- **ID**: arxiv_2609.20077v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20077v1](http://arxiv.org/abs/2609.20077v1)
+
+## A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces
+- **ID**: arxiv_2609.20080v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20080v1](http://arxiv.org/abs/2609.20080v1)
+
+## UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning
+- **ID**: arxiv_2609.20089v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20089v1](http://arxiv.org/abs/2609.20089v1)
+
+## Solving Minimum Span Antibandwidth and Cyclic Antibandwidth Labeling Problems
+- **ID**: arxiv_2609.20091v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20091v1](http://arxiv.org/abs/2609.20091v1)
+
+## Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents
+- **ID**: arxiv_2609.20110v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20110v1](http://arxiv.org/abs/2609.20110v1)
+
+## MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents
+- **ID**: arxiv_2609.20152v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20152v1](http://arxiv.org/abs/2609.20152v1)
+
+## NeuSOGA3D: A Neuro-Symbolic Framework for Explainable 3D Geometric Reconstruction
+- **ID**: arxiv_2609.20323v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20323v1](http://arxiv.org/abs/2609.20323v1)
+
+## Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG
+- **ID**: arxiv_2609.20334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20334v1](http://arxiv.org/abs/2609.20334v1)
+
+## A Qualitative Model for Reasoning about Path and Support
+- **ID**: arxiv_2609.20349v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20349v1](http://arxiv.org/abs/2609.20349v1)
+
+## Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model
+- **ID**: arxiv_2609.20358v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20358v1](http://arxiv.org/abs/2609.20358v1)
 

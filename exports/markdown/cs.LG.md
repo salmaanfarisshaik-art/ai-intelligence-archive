@@ -105,6 +105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.09930v2](http://arxiv.org/abs/2510.09930v2)
 
+## SGM: A Statistical Godel Machine for Risk-Controlled Recursive Self-Modification
+- **ID**: arxiv_2510.10232v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.10232v2](http://arxiv.org/abs/2510.10232v2)
+
 ## Seesaw: Accelerating Training by Balancing Learning Rate and Batch Size Scheduling
 - **ID**: arxiv_2510.14717v2
 - **Source**: ArXiv
@@ -434,6 +439,11 @@
 - **ID**: arxiv_2606.14695v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14695v1](http://arxiv.org/abs/2606.14695v1)
+
+## Exploring a Layer-Wise Design Space for KV Cache Eviction
+- **ID**: arxiv_2606.15157v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15157v2](http://arxiv.org/abs/2606.15157v2)
 
 ## Demystifying Variance in Circuit Discovery of LLMs
 - **ID**: arxiv_2606.16920v1
@@ -1455,6 +1465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17499v1](http://arxiv.org/abs/2609.17499v1)
 
+## Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches
+- **ID**: arxiv_2609.17652v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.17652v2](http://arxiv.org/abs/2609.17652v2)
+
 ## Higher-order pruning of experts in mixture-of-experts language models
 - **ID**: arxiv_2609.18916v1
 - **Source**: ArXiv
@@ -1474,4 +1489,19 @@
 - **ID**: arxiv_2609.19077v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19077v1](http://arxiv.org/abs/2609.19077v1)
+
+## MATCH: Model-Aware Tool Learning with Curriculum Scheduling and Hierarchically Gated Rewards
+- **ID**: arxiv_2609.20082v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20082v1](http://arxiv.org/abs/2609.20082v1)
+
+## Local Sparsity Enables Unsupervised LLM Safety Detection
+- **ID**: arxiv_2609.20129v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20129v1](http://arxiv.org/abs/2609.20129v1)
+
+## QUALS: Corpus Equilibrium for Universal Forecasting via Pattern Quantization and Learnability Synchronization
+- **ID**: arxiv_2609.20156v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20156v1](http://arxiv.org/abs/2609.20156v1)
 

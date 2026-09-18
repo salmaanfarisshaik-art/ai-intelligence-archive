@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20377v1",
+  "schema_version": "1.0",
+  "name": "MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20377v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20377v1",
+    "updated": "2026-09-17T13:31:59Z",
+    "published": "2026-09-17T13:31:59Z",
+    "title": "MM-Future: Multi-Mode Joint World-Action Modeling for Autonomous Driving",
+    "summary": "Autonomous driving involves coupled decision-making and scene evolution under multi-mode uncertainty. To capture this coupling and uncertainty, we introduce MM-Future, a world-action model that generates multiple paired scene-action hypotheses and models bidirectional interaction within each pair. Each hypothesis is initialized from a structured action prior and an independent future scene source, which are then co-evolved through a modality-aware diffusion Transformer. To support efficient multi-mode rollout, MM-Future compresses multi-view video into planning-oriented representations, dubbed MM-Tokens. Finally, a future-conditioned proposal scorer ranks trajectory candidates by shared history context and their paired predicted future. On NAVSIM navtest, MM-Future achieves 94.0 PDMS and 91.5 EPDMS, while attaining a 32.3 HD-Score in zero-shot closed-loop evaluation on HUGSIM. Ablations show consistent improvements over both single-mode and action-only variants, validating the benefit of multi-mode joint world-action modeling.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-18T01:02:07Z",
+  "last_updated": "2026-09-17T13:31:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20377v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
