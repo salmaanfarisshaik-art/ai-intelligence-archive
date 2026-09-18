@@ -2746,6 +2746,11 @@
 - **URL**: [https://openai.com/index/helping-people-when-they-need-it-most](https://openai.com/index/helping-people-when-they-need-it-most)
 
 ## 
+- **ID**: rss_https://openai.com/index/hex-gpt-6-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/hex-gpt-6-astra](https://openai.com/index/hex-gpt-6-astra)
+
+## 
 - **ID**: rss_https://openai.com/index/hibob
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/hibob](https://openai.com/index/hibob)
