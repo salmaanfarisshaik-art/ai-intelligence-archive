@@ -4376,6 +4376,10 @@
 - **ID**: model_qcri_fanar_1_9b_instruct
 - **Source**: 
 
+## QCRI/Fanar-2-27B-Instruct
+- **ID**: model_qcri_fanar_2_27b_instruct
+- **Source**: 
+
 ## qihoo360/fg-clip-base
 - **ID**: model_qihoo360_fg_clip_base
 - **Source**: 
@@ -5146,6 +5150,10 @@
 
 ## RedHatAI/Llama-3.2-1B-Instruct-quantized.w8a8
 - **ID**: model_redhatai_llama_3_2_1b_instruct_quantized_w8a8
+- **Source**: 
+
+## RedHatAI/Llama-3.2-3B-Instruct-FP8
+- **ID**: model_redhatai_llama_3_2_3b_instruct_fp8
 - **Source**: 
 
 ## RedHatAI/Llama-3.2-3B-Instruct-FP8-dynamic
@@ -6398,6 +6406,10 @@
 
 ## unsloth/Qwen3-Embedding-4B
 - **ID**: model_unsloth_qwen3_embedding_4b
+- **Source**: 
+
+## unsloth/Qwen3-Next-80B-A3B-Instruct-bnb-4bit
+- **ID**: model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit
 - **Source**: 
 
 ## unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF

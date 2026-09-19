@@ -15386,7 +15386,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-19T10:20:07.074680+00:00",
+  "generated_at": "2026-09-19T14:11:02.667544+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -137407,6 +137407,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_google_svq",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_google_waxalnlp",
       "label": ""
     },
@@ -139332,6 +139337,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn15_content_202608233c49",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn18_content_20260603ed94",
       "label": ""
     },
@@ -139473,6 +139483,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn19_content_20260815bbb7",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn19_content_20260823070a",
       "label": ""
     },
     {
@@ -141982,6 +141997,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_onfdata_content_20260824adb2",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_open_bee_honey_data_15m",
       "label": ""
     },
@@ -142063,6 +142083,11 @@
     {
       "category": "datasets",
       "id": "dataset_openai_openai_humaneval",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_openassistant_oasst1",
       "label": ""
     },
     {
@@ -144407,6 +144432,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_xycoord_deception_probes_activations",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_y123_wed_multimodal_dataset_image_text_t_e3d118780c",
       "label": ""
     },
@@ -144453,6 +144483,11 @@
     {
       "category": "datasets",
       "id": "dataset_yeigen_fannie_mae_loan_performance",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_yenle84622_yenle84622",
       "label": ""
     },
     {
@@ -144643,6 +144678,11 @@
     {
       "category": "datasets",
       "id": "dataset_zhangxiaowei1_dreamzero_droid_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_zhaocharile66_my_hermes_dataset",
       "label": ""
     },
     {
@@ -161612,6 +161652,11 @@
     },
     {
       "category": "models",
+      "id": "model_qcri_fanar_2_27b_instruct",
+      "label": "QCRI/Fanar-2-27B-Instruct"
+    },
+    {
+      "category": "models",
       "id": "model_qihoo360_fg_clip_base",
       "label": "qihoo360/fg-clip-base"
     },
@@ -162574,6 +162619,11 @@
       "category": "models",
       "id": "model_redhatai_llama_3_2_1b_instruct_quantized_w8a8",
       "label": "RedHatAI/Llama-3.2-1B-Instruct-quantized.w8a8"
+    },
+    {
+      "category": "models",
+      "id": "model_redhatai_llama_3_2_3b_instruct_fp8",
+      "label": "RedHatAI/Llama-3.2-3B-Instruct-FP8"
     },
     {
       "category": "models",
@@ -164139,6 +164189,11 @@
       "category": "models",
       "id": "model_unsloth_qwen3_embedding_4b",
       "label": "unsloth/Qwen3-Embedding-4B"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
+      "label": "unsloth/Qwen3-Next-80B-A3B-Instruct-bnb-4bit"
     },
     {
       "category": "models",
@@ -461878,5 +461933,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 3077,
-  "total_nodes": 89297
+  "total_nodes": 89308
 }

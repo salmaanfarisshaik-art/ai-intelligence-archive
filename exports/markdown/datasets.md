@@ -2001,6 +2001,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_google_svq
+- **Source**: 
+
+## 
 - **ID**: dataset_google_waxalnlp
 - **Source**: 
 
@@ -3541,6 +3545,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn15_content_202608233c49
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn18_content_20260603ed94
 - **Source**: 
 
@@ -3654,6 +3662,10 @@
 
 ## 
 - **ID**: dataset_icdn19_content_20260815bbb7
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn19_content_20260823070a
 - **Source**: 
 
 ## 
@@ -5661,6 +5673,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_onfdata_content_20260824adb2
+- **Source**: 
+
+## 
 - **ID**: dataset_open_bee_honey_data_15m
 - **Source**: 
 
@@ -5726,6 +5742,10 @@
 
 ## 
 - **ID**: dataset_openai_openai_humaneval
+- **Source**: 
+
+## 
+- **ID**: dataset_openassistant_oasst1
 - **Source**: 
 
 ## 
@@ -7601,6 +7621,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_xycoord_deception_probes_activations
+- **Source**: 
+
+## 
 - **ID**: dataset_y123_wed_multimodal_dataset_image_text_t_e3d118780c
 - **Source**: 
 
@@ -7638,6 +7662,10 @@
 
 ## 
 - **ID**: dataset_yeigen_fannie_mae_loan_performance
+- **Source**: 
+
+## 
+- **ID**: dataset_yenle84622_yenle84622
 - **Source**: 
 
 ## 
@@ -7790,6 +7818,10 @@
 
 ## 
 - **ID**: dataset_zhangxiaowei1_dreamzero_droid_data
+- **Source**: 
+
+## 
+- **ID**: dataset_zhaocharile66_my_hermes_dataset
 - **Source**: 
 
 ## 
