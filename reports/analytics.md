@@ -140,9 +140,9 @@
 ## Top Tags
 
 - **region:us**: 256
-- **library:datasets**: 79
-- **library:mlcroissant**: 79
 - **text-generation**: 79
+- **library:datasets**: 78
+- **library:mlcroissant**: 78
 - **modality:text**: 74
 - **endpoints_compatible**: 67
 - **transformers**: 67
@@ -161,8 +161,8 @@
 - **task_categories:text-generation**: 26
 - **enterprise**: 25
 - **eval-results**: 25
-- **modality:image**: 24
-- **size_categories:n<1K**: 24
+- **modality:image**: 23
+- **size_categories:n<1K**: 23
 - **deploy:sagemaker**: 22
 - **modality:tabular**: 21
 - **qwen3**: 20
@@ -185,7 +185,7 @@
 - **gguf**: 10
 - **language:zh**: 10
 - **size_categories:100M<n<1B**: 10
-- **modality:audio**: 9
 - **python**: 9
 - **size_categories:1B<n<10B**: 9
 - **size_categories:1M<n<10M**: 9
+- **size_categories:n>1T**: 9
