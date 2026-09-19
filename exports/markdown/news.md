@@ -816,6 +816,11 @@
 - **URL**: [https://openai.com/index/australian-payments-plus](https://openai.com/index/australian-payments-plus)
 
 ## 
+- **ID**: rss_https://openai.com/index/australian-youth-safety-blueprint
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/australian-youth-safety-blueprint](https://openai.com/index/australian-youth-safety-blueprint)
+
+## 
 - **ID**: rss_https://openai.com/index/autoscout24
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/autoscout24](https://openai.com/index/autoscout24)
