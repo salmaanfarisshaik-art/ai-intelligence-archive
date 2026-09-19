@@ -1127,6 +1127,13 @@
       "score": 1.0
     }
   ],
+  "kanghyun": [
+    {
+      "entity_id": "dataset_hrdexdb_hrdexdb",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "kanji": [
     {
       "entity_id": "model_togatogah_jinen_v2_small_gguf",
@@ -13513,6 +13520,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_helsinki_nlp_opus_100",
       "match_type": "exact",
       "score": 1.5
@@ -19153,6 +19165,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_helsinki_nlp_opus_100",
       "match_type": "exact",
       "score": 1.5
@@ -19189,6 +19206,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_openassistant_oasst1",
       "match_type": "exact",
       "score": 1.5
     },

@@ -1620,6 +1620,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_openassistant_oasst1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_67ce486ea3edca9b3349a097",
       "match_type": "exact",
       "score": 1.0
@@ -2172,6 +2177,13 @@
   "460": [
     {
       "entity_id": "alpaca_7451229097051264660",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "461": [
+    {
+      "entity_id": "dataset_openassistant_oasst1",
       "match_type": "exact",
       "score": 1.0
     }
@@ -4311,6 +4323,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_unsloth_tinyllama_bnb_4bit",
       "match_type": "exact",
       "score": 2.0
@@ -4440,6 +4457,11 @@
       "entity_id": "dataset_ropedia_ai_xperience_10m",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_hrdexdb_hrdexdb",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "dataset_internrobotics_omniworld",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:37:30Z",
+  "generated_at": "2026-09-19T10:21:04Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1085,6 +1085,7 @@
       "model_qwen_qwen3_next_80b_a3b_instruct_fp8",
       "model_redhatai_qwen3_next_80b_a3b_instruct_nvfp4",
       "model_tiny_random_qwen3_next_moe",
+      "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
       "model_unsloth_qwen3_next_80b_a3b_instruct_gguf"
     ],
     "hf_Qwen_Qwen3-Next-80B-A3B-Thinking": [
@@ -1961,7 +1962,8 @@
       "model_maziyarpanahi_gemma_3_27b_it_gguf"
     ],
     "hf_google_gemma-3-27b-pt": [
-      "model_google_medgemma_27b_text_it"
+      "model_google_medgemma_27b_text_it",
+      "model_qcri_fanar_2_27b_instruct"
     ],
     "hf_google_gemma-3-4b-it": [
       "model_maziyarpanahi_gemma_3_4b_it_gguf"
@@ -2267,6 +2269,7 @@
       "model_hugging_quants_llama_3_2_3b_instruct_q4_k_m_gguf",
       "model_lmstudio_community_llama_3_2_3b_instruct_gguf",
       "model_maziyarpanahi_llama_3_2_3b_instruct_gguf",
+      "model_redhatai_llama_3_2_3b_instruct_fp8",
       "model_redhatai_llama_3_2_3b_instruct_fp8_dynamic",
       "model_unsloth_llama_3_2_3b_instruct",
       "model_unsloth_llama_3_2_3b_instruct_bnb_4bit",
@@ -5981,6 +5984,9 @@
     "model_qcri_fanar_1_9b_instruct": [
       "hf_QCRI_Fanar-1-9B"
     ],
+    "model_qcri_fanar_2_27b_instruct": [
+      "hf_google_gemma-3-27b-pt"
+    ],
     "model_quanttrio_deepseek_v3_2_awq": [
       "hf_deepseek-ai_DeepSeek-V3.2"
     ],
@@ -6384,6 +6390,9 @@
     ],
     "model_redhatai_llama_3_2_1b_instruct_quantized_w8a8": [
       "hf_meta-llama_Llama-3.2-1B-Instruct"
+    ],
+    "model_redhatai_llama_3_2_3b_instruct_fp8": [
+      "hf_meta-llama_Llama-3.2-3B-Instruct"
     ],
     "model_redhatai_llama_3_2_3b_instruct_fp8_dynamic": [
       "hf_meta-llama_Llama-3.2-3B-Instruct"
@@ -7120,6 +7129,9 @@
     ],
     "model_unsloth_qwen3_embedding_4b": [
       "hf_Qwen_Qwen3-4B-Base"
+    ],
+    "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit": [
+      "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"
     ],
     "model_unsloth_qwen3_next_80b_a3b_instruct_gguf": [
       "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"

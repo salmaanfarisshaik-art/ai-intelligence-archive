@@ -938,6 +938,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_openassistant_oasst1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_opr_project_oxfordrobotcar_openplacerecognition",
       "match_type": "exact",
       "score": 1.0
@@ -1933,6 +1938,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_8b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -7622,6 +7632,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -8270,6 +8285,13 @@
     },
     {
       "entity_id": "dataset_mteb_stsbenchmark_sts",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "07327": [
+    {
+      "entity_id": "dataset_openassistant_oasst1",
       "match_type": "exact",
       "score": 1.5
     }
@@ -10494,6 +10516,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_coder_30b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_bnb_4bit",
       "match_type": "exact",
       "score": 1.5
     },

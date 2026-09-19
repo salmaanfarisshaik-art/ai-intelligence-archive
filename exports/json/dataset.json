@@ -2333,6 +2333,39 @@
     "local_path": "datasets/zyphra/hf_ds_66e4b270f5579b829f4c18eb.json"
   },
   {
+    "id": "hf_ds_66f27f215dfdba5747322656",
+    "title": "Lichess/standard-chess-games",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "chess",
+      "format:parquet",
+      "game",
+      "games",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:cc0-1.0",
+      "lichess",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1B<n<10B",
+      "tabular"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/Lichess"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Lichess/standard-chess-games",
+    "local_path": "datasets/lichess/hf_ds_66f27f215dfdba5747322656.json"
+  },
+  {
     "id": "hf_ds_6700058973753b82f145eb1d",
     "title": "jhu-clsp/ettin-pretraining-data",
     "category": "dataset",
@@ -3403,6 +3436,27 @@
     "local_path": "datasets/aline-gassenn/hf_ds_6859a511dbd17c5bad610ad2.json"
   },
   {
+    "id": "hf_ds_68699f43b939abc945dbaaf8",
+    "title": "transferable-samplers/many-peptides-md",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2508.18175",
+      "license:mit",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/transferable-samplers"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/transferable-samplers/many-peptides-md",
+    "local_path": "datasets/transferable-samplers/hf_ds_68699f43b939abc945dbaaf8.json"
+  },
+  {
     "id": "hf_ds_688209a61f4d0375592760e0",
     "title": "Helsinki-NLP/fineweb-edu-translated",
     "category": "dataset",
@@ -3763,6 +3817,23 @@
     },
     "source_url": "https://huggingface.co/datasets/jzr99/mesh4d_dataset",
     "local_path": "datasets/jzr99/hf_ds_6901510f85821f56ae6f5438.json"
+  },
+  {
+    "id": "hf_ds_691cad435bb68b24ef7ba828",
+    "title": "gradio/frontend",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/gradio/frontend",
+    "local_path": "datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json"
   },
   {
     "id": "hf_ds_692dc013741d7eb4efaf4b65",

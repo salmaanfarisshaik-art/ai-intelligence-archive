@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-09-19T05:36:31.867608+00:00
-**Warnings:** 3075
+**Generated:** 2026-09-19T10:20:08.895784+00:00
+**Warnings:** 3077
 **Errors:** 240
 
 ## Issues
@@ -3204,6 +3204,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/airtrain-ai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/princeton-nlp
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Zyphra
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Lichess
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jhu-clsp
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/m-a-p
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Benjy
@@ -3226,6 +3227,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/drssth
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/EssentialAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/aline-gassenn
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/transferable-samplers
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Helsinki-NLP
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/InternRobotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4

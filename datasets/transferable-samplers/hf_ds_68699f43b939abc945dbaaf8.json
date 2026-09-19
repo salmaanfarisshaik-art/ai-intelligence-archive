@@ -1,0 +1,41 @@
+{
+  "unique_id": "hf_ds_68699f43b939abc945dbaaf8",
+  "schema_version": "1.0",
+  "name": "transferable-samplers/many-peptides-md",
+  "description": "\n[!IMPORTANT]\nCritical Update\nThe original 8AA TICA models within subsampled_trajectories/*/8AA/*.npz employed a CA-only atom selection. These models are not valid for comparison to results in our paper.\nUpdated files (uploaded 15/12/2025) now contain corrected models. If you previously downloaded this dataset, please re-download to ensure accurate results.\nNote: Codebase references to tica_features_ca must now be replaced with tica_features. This was resolved in our codebase by PR #26.\nNote:… See the full description on the dataset page: https://huggingface.co/datasets/transferable-samplers/many-peptides-md.",
+  "size": "886117",
+  "source_url": "https://huggingface.co/datasets/transferable-samplers/many-peptides-md",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "68699f43b939abc945dbaaf8",
+    "id": "transferable-samplers/many-peptides-md",
+    "author": "transferable-samplers",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-12-15T13:15:47.000Z",
+    "likes": 11,
+    "private": false,
+    "sha": "1af9336878122eb1d62894fe2fb3ff4b801a3216",
+    "description": "\n[!IMPORTANT]\nCritical Update\nThe original 8AA TICA models within subsampled_trajectories/*/8AA/*.npz employed a CA-only atom selection. These models are not valid for comparison to results in our paper.\nUpdated files (uploaded 15/12/2025) now contain corrected models. If you previously downloaded this dataset, please re-download to ensure accurate results.\nNote: Codebase references to tica_features_ca must now be replaced with tica_features. This was resolved in our codebase by PR #26.\nNote:… See the full description on the dataset page: https://huggingface.co/datasets/transferable-samplers/many-peptides-md.",
+    "downloads": 886117,
+    "tags": [
+      "license:mit",
+      "arxiv:2508.18175",
+      "region:us"
+    ],
+    "createdAt": "2025-07-05T21:55:15.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-09-19T10:19:58.324075+00:00",
+  "last_updated": "2025-12-15T13:15:47.000Z",
+  "links": {
+    "related_models": [
+      "datasets/transferable-samplers"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

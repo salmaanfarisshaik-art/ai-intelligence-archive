@@ -358,6 +358,12 @@
 - **URL**: [https://huggingface.co/datasets/Zyphra/Zyda-2](https://huggingface.co/datasets/Zyphra/Zyda-2)
 - **Tags**: language:en, license:odc-by, region:us, size_categories:n>1T, task_categories:text-generation
 
+## Lichess/standard-chess-games
+- **ID**: hf_ds_66f27f215dfdba5747322656
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Lichess/standard-chess-games](https://huggingface.co/datasets/Lichess/standard-chess-games)
+- **Tags**: chess, format:parquet, game, games, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, lichess, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, tabular
+
 ## jhu-clsp/ettin-pretraining-data
 - **ID**: hf_ds_6700058973753b82f145eb1d
 - **Source**: HuggingFace Datasets
@@ -568,6 +574,12 @@
 - **URL**: [https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio)
 - **Tags**: doi:10.57967/hf/5889, language:en, license:cc-by-nc-4.0, medical, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition
 
+## transferable-samplers/many-peptides-md
+- **ID**: hf_ds_68699f43b939abc945dbaaf8
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/transferable-samplers/many-peptides-md](https://huggingface.co/datasets/transferable-samplers/many-peptides-md)
+- **Tags**: arxiv:2508.18175, license:mit, region:us
+
 ## Helsinki-NLP/fineweb-edu-translated
 - **ID**: hf_ds_688209a61f4d0375592760e0
 - **Source**: HuggingFace Datasets
@@ -645,6 +657,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/jzr99/mesh4d_dataset](https://huggingface.co/datasets/jzr99/mesh4d_dataset)
 - **Tags**: library:datasets, library:mlcroissant, modality:3d, modality:image, region:us, size_categories:100K<n<1M
+
+## gradio/frontend
+- **ID**: hf_ds_691cad435bb68b24ef7ba828
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/gradio/frontend](https://huggingface.co/datasets/gradio/frontend)
+- **Tags**: region:us
 
 ## hasankursun/github-code-2025-language-split
 - **ID**: hf_ds_692dc013741d7eb4efaf4b65

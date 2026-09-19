@@ -4034,6 +4034,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_openassistant_oasst1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_teratts_betterset",
       "match_type": "exact",
       "score": 1.0
@@ -6021,6 +6026,11 @@
     },
     {
       "entity_id": "model_qwen_qwen2_5_coder_3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_redhatai_llama_3_2_3b_instruct_fp8",
       "match_type": "exact",
       "score": 5.0
     },
