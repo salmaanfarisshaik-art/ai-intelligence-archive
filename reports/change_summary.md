@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 88
+**Total Changes:** 86
 
 ## Added
 None
@@ -15,7 +15,6 @@ None
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
 - datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
-- datasets/google/hf_ds_658570e3bae0736365b32de4.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
@@ -25,17 +24,16 @@ None
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
-- models/qwen/hf_Qwen_Qwen3-4B.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
