@@ -2201,6 +2201,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hf_internal_testing_diffusers_images
+- **Source**: 
+
+## 
 - **ID**: dataset_hf_internal_testing_imagefolder_with_metadata
 - **Source**: 
 
@@ -2346,6 +2350,10 @@
 
 ## 
 - **ID**: dataset_huggingchat_models_logo
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingenvs_hf_ml_tasksmith
 - **Source**: 
 
 ## 
@@ -3782,6 +3790,10 @@
 
 ## 
 - **ID**: dataset_ifm_txt360
+- **Source**: 
+
+## 
+- **ID**: dataset_ihavespoons_bite_baseline
 - **Source**: 
 
 ## 
@@ -5761,6 +5773,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_openbmb_ultradata_math
+- **Source**: 
+
+## 
 - **ID**: dataset_openclimatefix_dwd_icon_global
 - **Source**: 
 
@@ -7206,6 +7222,10 @@
 
 ## 
 - **ID**: dataset_tranmanh2003_tranmanh2003
+- **Source**: 
+
+## 
+- **ID**: dataset_tranminh1985_tranminh1985
 - **Source**: 
 
 ## 

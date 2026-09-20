@@ -15386,7 +15386,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-20T10:39:32.805026+00:00",
+  "generated_at": "2026-09-20T14:30:02.551757+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -137657,6 +137657,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_hf_internal_testing_diffusers_images",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hf_internal_testing_imagefolder_with_metadata",
       "label": ""
     },
@@ -137838,6 +137843,11 @@
     {
       "category": "datasets",
       "id": "dataset_huggingchat_models_logo",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_huggingenvs_hf_ml_tasksmith",
       "label": ""
     },
     {
@@ -139633,6 +139643,11 @@
     {
       "category": "datasets",
       "id": "dataset_ifm_txt360",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_ihavespoons_bite_baseline",
       "label": ""
     },
     {
@@ -142107,6 +142122,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_openbmb_ultradata_math",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_openclimatefix_dwd_icon_global",
       "label": ""
     },
@@ -143913,6 +143933,11 @@
     {
       "category": "datasets",
       "id": "dataset_tranmanh2003_tranmanh2003",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_tranminh1985_tranminh1985",
       "label": ""
     },
     {
@@ -156282,6 +156307,11 @@
     },
     {
       "category": "models",
+      "id": "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
+      "label": "agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_agnuxo_cajal_4b",
       "label": "Agnuxo/CAJAL-4B"
     },
@@ -156909,6 +156939,11 @@
       "category": "models",
       "id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
       "label": "bartowski/Qwen2.5-Coder-32B-Instruct-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
+      "label": "bartowski/Qwen2.5-Coder-7B-Instruct-abliterated-GGUF"
     },
     {
       "category": "models",
@@ -157932,6 +157967,11 @@
     },
     {
       "category": "models",
+      "id": "model_empero_ai_qwen3_8_35b_a3b_distill_gguf",
+      "label": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_empero_ai_qwen3_8_4b_distill_gguf",
       "label": "empero-ai/Qwen3.8-4B-Distill-GGUF"
     },
@@ -158724,6 +158764,11 @@
       "category": "models",
       "id": "model_inclusionai_ring_2_5_1t",
       "label": "inclusionAI/Ring-2.5-1T"
+    },
+    {
+      "category": "models",
+      "id": "model_incoai_glm_5_3_flash_dflash2",
+      "label": "incoai/GLM-5.3-Flash-DFlash2"
     },
     {
       "category": "models",
@@ -160692,6 +160737,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_deepseek_v4_flash_0731_nvfp4",
+      "label": "nvidia/DeepSeek-V4-Flash-0731-NVFP4"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_deepseek_v4_flash_nvfp4",
       "label": "nvidia/DeepSeek-V4-Flash-NVFP4"
     },
@@ -160729,6 +160779,11 @@
       "category": "models",
       "id": "model_nvidia_glm_5_nvfp4",
       "label": "nvidia/GLM-5-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_nvidia_gpt_oss_120b_eagle3_v3",
+      "label": "nvidia/gpt-oss-120b-Eagle3-v3"
     },
     {
       "category": "models",
@@ -461938,5 +461993,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 3077,
-  "total_nodes": 89309
+  "total_nodes": 89320
 }

@@ -76,6 +76,10 @@
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
 - **Source**: 
 
+## agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF
+- **ID**: model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf
+- **Source**: 
+
 ## Agnuxo/CAJAL-4B
 - **ID**: model_agnuxo_cajal_4b
 - **Source**: 
@@ -578,6 +582,10 @@
 
 ## bartowski/Qwen2.5-Coder-32B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_coder_32b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen2.5-Coder-7B-Instruct-abliterated-GGUF
+- **ID**: model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf
 - **Source**: 
 
 ## bartowski/Qwen2.5-Coder-7B-Instruct-GGUF
@@ -1396,6 +1404,10 @@
 - **ID**: model_empero_ai_qwen3_8_2b_distill_gguf
 - **Source**: 
 
+## empero-ai/Qwen3.8-35B-A3B-Distill-GGUF
+- **ID**: model_empero_ai_qwen3_8_35b_a3b_distill_gguf
+- **Source**: 
+
 ## empero-ai/Qwen3.8-4B-Distill-GGUF
 - **ID**: model_empero_ai_qwen3_8_4b_distill_gguf
 - **Source**: 
@@ -2030,6 +2042,10 @@
 
 ## inclusionAI/Ring-2.5-1T
 - **ID**: model_inclusionai_ring_2_5_1t
+- **Source**: 
+
+## incoai/GLM-5.3-Flash-DFlash2
+- **ID**: model_incoai_glm_5_3_flash_dflash2
 - **Source**: 
 
 ## incoai/Qwen3.8-27B-DFlash2
@@ -3604,6 +3620,10 @@
 - **ID**: model_nvidia_deepseek_v3_1_nvfp4
 - **Source**: 
 
+## nvidia/DeepSeek-V4-Flash-0731-NVFP4
+- **ID**: model_nvidia_deepseek_v4_flash_0731_nvfp4
+- **Source**: 
+
 ## nvidia/DeepSeek-V4-Flash-NVFP4
 - **ID**: model_nvidia_deepseek_v4_flash_nvfp4
 - **Source**: 
@@ -3634,6 +3654,10 @@
 
 ## nvidia/GLM-5-NVFP4
 - **ID**: model_nvidia_glm_5_nvfp4
+- **Source**: 
+
+## nvidia/gpt-oss-120b-Eagle3-v3
+- **ID**: model_nvidia_gpt_oss_120b_eagle3_v3
 - **Source**: 
 
 ## nvidia/gpt-oss-puzzle-88B
