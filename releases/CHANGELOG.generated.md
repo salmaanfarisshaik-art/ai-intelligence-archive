@@ -1,5 +1,5 @@
-# Release v2026.09.19.20260919_224053
-**Generated:** 2026-09-19 22:40:53 UTC
+# Release v2026.09.20.20260920_004001
+**Generated:** 2026-09-20 00:40:01 UTC
 
 ## Data Overview
 - Total entities indexed: **89308**
