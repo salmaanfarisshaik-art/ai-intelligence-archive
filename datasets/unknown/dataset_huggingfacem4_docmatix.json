@@ -9,7 +9,7 @@
   "private": false,
   "sha": "0725b65616e0e5f6024be10e38ddf8d8c48664fd",
   "description": "\n\t\n\t\t\n\t\tDataset Card for Docmatix\n\t\n\n\n\n\t\n\t\t\n\t\tDataset description\n\t\n\nDocmatix is part of the Idefics3 release (stay tuned).\nIt is a massive dataset for Document Visual Question Answering that was used for the fine-tuning of the vision-language model Idefics3.\n\n\t\n\t\t\n\t\tLoad the dataset\n\t\n\nTo load the dataset, install the library datasets with pip install datasets. Then,\nfrom datasets import load_dataset\nds = load_dataset(\"HuggingFaceM4/Docmatix\")\n\nIf you want the dataset to link to the pdf files… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceM4/Docmatix.",
-  "downloads": 47790,
+  "downloads": 47253,
   "tags": [
     "task_categories:visual-question-answering",
     "language:en",

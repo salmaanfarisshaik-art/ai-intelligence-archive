@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:44:50Z",
+  "generated_at": "2026-09-20T10:40:25Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1188,6 +1188,7 @@
     "hf_Qwen_Qwen3.8-27B": [
       "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+      "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
       "model_atomicchat_qwen3_8_27b_gguf",
       "model_codemastercody3d_taardis_27b_full_ternary",
@@ -1210,6 +1211,7 @@
       "model_z_lab_qwen3_8_27b_dflash2_gguf"
     ],
     "hf_Qwen_Qwen3.8-Flash-Next": [
+      "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
       "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
@@ -1798,7 +1800,8 @@
       "model_0xsero_deepseek_v4_flash_0731_spark",
       "model_bartowski_deepseek_v4_flash_0731_gguf",
       "model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf",
-      "model_mjpansa_deepseek_v4_flash_0731_nvfp4"
+      "model_mjpansa_deepseek_v4_flash_0731_nvfp4",
+      "model_nvidia_deepseek_v4_flash_0731_nvfp4"
     ],
     "hf_deepseek-ai_DeepSeek-V4-Pro": [
       "model_nvidia_deepseek_v4_pro_nvfp4",
@@ -1854,6 +1857,9 @@
     ],
     "hf_empero-ai_Qwen3.8-2B-Distill": [
       "model_empero_ai_qwen3_8_2b_distill_gguf"
+    ],
+    "hf_empero-ai_Qwen3.8-35B-A3B-Distill": [
+      "model_empero_ai_qwen3_8_35b_a3b_distill_gguf"
     ],
     "hf_empero-ai_Qwen3.8-4B-Distill": [
       "model_empero_ai_qwen3_8_4b_distill_gguf"
@@ -2050,6 +2056,9 @@
     ],
     "hf_huihui-ai_Llama-3.3-70B-Instruct-abliterated": [
       "model_bartowski_llama_3_3_70b_instruct_abliterated_gguf"
+    ],
+    "hf_huihui-ai_Qwen2.5-Coder-7B-Instruct-abliterated": [
+      "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf"
     ],
     "hf_huihui-ai_Qwen3-14B-abliterated": [
       "model_bartowski_huihui_ai_qwen3_14b_abliterated_gguf"
@@ -2899,6 +2908,7 @@
     "hf_openai_gpt-oss-120b": [
       "model_ggml_org_gpt_oss_120b_gguf",
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
+      "model_nvidia_gpt_oss_120b_eagle3_v3",
       "model_redhatai_gpt_oss_120b",
       "model_unsloth_gpt_oss_120b",
       "model_unsloth_gpt_oss_120b_bf16",
@@ -3044,6 +3054,9 @@
     ],
     "hf_prism-ml_Bonsai-8B-unpacked": [
       "model_prism_ml_bonsai_8b_gguf"
+    ],
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit": [
       "hf_Qwen_Qwen3.6-27B"
@@ -3351,6 +3364,7 @@
       "model_radixark_glm_5_3_nvfp4"
     ],
     "hf_zai-org_GLM-5.3-Flash": [
+      "model_incoai_glm_5_3_flash_dflash2",
       "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "model_unsloth_glm_5_3_flash_gguf"
     ],
@@ -3427,6 +3441,9 @@
     ],
     "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4": [
       "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
+    ],
+    "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_ai4bharat_indic_parler_tts": [
       "hf_ai4b-hf_GLOBE-annotated"
@@ -3770,6 +3787,9 @@
     ],
     "model_bartowski_qwen2_5_coder_32b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-32B-Instruct"
+    ],
+    "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf": [
+      "hf_huihui-ai_Qwen2.5-Coder-7B-Instruct-abliterated"
     ],
     "model_bartowski_qwen2_5_coder_7b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-7B-Instruct"
@@ -4240,6 +4260,9 @@
     "model_empero_ai_qwen3_8_2b_distill_gguf": [
       "hf_empero-ai_Qwen3.8-2B-Distill"
     ],
+    "model_empero_ai_qwen3_8_35b_a3b_distill_gguf": [
+      "hf_empero-ai_Qwen3.8-35B-A3B-Distill"
+    ],
     "model_empero_ai_qwen3_8_4b_distill_gguf": [
       "hf_empero-ai_Qwen3.8-4B-Distill"
     ],
@@ -4518,6 +4541,9 @@
     ],
     "model_inclusionai_ling_mini_2_0": [
       "hf_inclusionAI_Ling-mini-base-2.0"
+    ],
+    "model_incoai_glm_5_3_flash_dflash2": [
+      "hf_zai-org_GLM-5.3-Flash"
     ],
     "model_incoai_qwen3_8_27b_dflash2": [
       "hf_Qwen_Qwen3.8-27B"
@@ -5459,6 +5485,9 @@
     "model_nvidia_deepseek_v3_1_nvfp4": [
       "hf_deepseek-ai_DeepSeek-V3.1"
     ],
+    "model_nvidia_deepseek_v4_flash_0731_nvfp4": [
+      "hf_deepseek-ai_DeepSeek-V4-Flash-0731"
+    ],
     "model_nvidia_deepseek_v4_flash_nvfp4": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
     ],
@@ -5482,6 +5511,9 @@
     ],
     "model_nvidia_glm_5_nvfp4": [
       "hf_zai-org_GLM-5"
+    ],
+    "model_nvidia_gpt_oss_120b_eagle3_v3": [
+      "hf_openai_gpt-oss-120b"
     ],
     "model_nvidia_kimi_k2_5_nvfp4": [
       "hf_moonshotai_Kimi-K2.5"

@@ -14,6 +14,7 @@
   ],
   "2-bit": [
     "hf_antirez_deepseek-v4-gguf",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "3D": [
@@ -828,7 +829,8 @@
   ],
   "base_model:Qwen/Qwen3.8-27B": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-    "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
+    "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
   ],
   "base_model:deepseek-ai/DeepSeek-V3.2-Exp-Base": [
     "hf_deepseek-ai_DeepSeek-V3.2"
@@ -934,7 +936,8 @@
   ],
   "base_model:quantized:Qwen/Qwen3.8-27B": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-    "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF"
+    "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
   ],
   "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
     "hf_antirez_deepseek-v4-gguf"
@@ -973,6 +976,7 @@
   "bonsai": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "brazil": [
@@ -1090,6 +1094,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
@@ -1120,6 +1125,7 @@
   "cuda": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "custom_code": [
@@ -1507,6 +1513,7 @@
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
@@ -1788,6 +1795,7 @@
     "hf_ornith-ai_Ornith-1.0-9B-GGUF",
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
     "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -1877,6 +1885,7 @@
   "hybrid-attention": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "iac": [
@@ -4178,6 +4187,7 @@
     "hf_openai_gpt-oss-20b",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
@@ -4371,11 +4381,13 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct"
   ],
   "llama-cpp": [
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
   ],
   "llama.cpp": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
-    "hf_prism-ml_Bonsai-27B-gguf"
+    "hf_prism-ml_Bonsai-27B-gguf",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
   ],
   "long-context": [
     "hf_RadixArk_Kimi-K3-DSpark"
@@ -4420,6 +4432,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "microsoft": [
@@ -4752,6 +4765,7 @@
   "on-device": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "onnx": [
@@ -4834,6 +4848,7 @@
   "prismml": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "processed": [
@@ -5236,6 +5251,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
@@ -5889,6 +5905,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
   "ternary": [
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
   "terraform": [
@@ -5973,6 +5990,7 @@
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",

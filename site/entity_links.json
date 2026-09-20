@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:44:49Z",
+  "generated_at": "2026-09-20T10:40:25Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -307,6 +307,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
       "target_id": "hf_Qwen_Qwen3.6-27B",
       "type": "derived_from"
@@ -409,6 +414,11 @@
     {
       "source_id": "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4",
       "target_id": "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
       "type": "derived_from"
     },
     {
@@ -1104,6 +1114,11 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-32B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
+      "target_id": "hf_huihui-ai_Qwen2.5-Coder-7B-Instruct-abliterated",
       "type": "derived_from"
     },
     {
@@ -2142,6 +2157,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_empero_ai_qwen3_8_35b_a3b_distill_gguf",
+      "target_id": "hf_empero-ai_Qwen3.8-35B-A3B-Distill",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_empero_ai_qwen3_8_4b_distill_gguf",
       "target_id": "hf_empero-ai_Qwen3.8-4B-Distill",
       "type": "derived_from"
@@ -2664,6 +2684,11 @@
     {
       "source_id": "model_inclusionai_ling_mini_2_0",
       "target_id": "hf_inclusionAI_Ling-mini-base-2.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_incoai_glm_5_3_flash_dflash2",
+      "target_id": "hf_zai-org_GLM-5.3-Flash",
       "type": "derived_from"
     },
     {
@@ -4757,6 +4782,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_deepseek_v4_flash_0731_nvfp4",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_deepseek_v4_flash_nvfp4",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
       "type": "derived_from"
@@ -4794,6 +4824,11 @@
     {
       "source_id": "model_nvidia_glm_5_nvfp4",
       "target_id": "hf_zai-org_GLM-5",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_gpt_oss_120b_eagle3_v3",
+      "target_id": "hf_openai_gpt-oss-120b",
       "type": "derived_from"
     },
     {

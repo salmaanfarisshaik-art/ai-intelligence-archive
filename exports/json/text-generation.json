@@ -9736,6 +9736,40 @@
     "local_path": "models/prism-ml/hf_prism-ml_Bonsai-8B-gguf.json"
   },
   {
+    "id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+    "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "2-bit",
+      "base_model:Qwen/Qwen3.8-27B",
+      "base_model:quantized:Qwen/Qwen3.8-27B",
+      "bonsai",
+      "conversational",
+      "cuda",
+      "endpoints_compatible",
+      "gguf",
+      "hybrid-attention",
+      "license:apache-2.0",
+      "llama-cpp",
+      "llama.cpp",
+      "metal",
+      "on-device",
+      "prismml",
+      "region:us",
+      "ternary",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+    "local_path": "models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json"
+  },
+  {
     "id": "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
     "category": "text-generation",

@@ -12321,6 +12321,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_gguf",
       "match_type": "exact",
       "score": 2.0
@@ -12870,6 +12875,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_ai_sage_gigachat3_1_audio_10b_a1_8b",
       "match_type": "exact",
       "score": 3.0
@@ -13296,6 +13306,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -13760,6 +13775,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_empero_ai_qwen3_8_35b_a3b_distill_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_empero_ai_qwen3_8_4b_distill_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -14091,6 +14111,11 @@
     },
     {
       "entity_id": "model_igorls_gemma_4_12b_it_heretic_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_incoai_glm_5_3_flash_dflash2",
       "match_type": "exact",
       "score": 3.0
     },
@@ -15290,6 +15315,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_nvidia_deepseek_v4_flash_0731_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_nvidia_deepseek_v4_flash_nvfp4",
       "match_type": "exact",
       "score": 3.0
@@ -15326,6 +15356,11 @@
     },
     {
       "entity_id": "model_nvidia_glm_5_nvfp4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_nvidia_gpt_oss_120b_eagle3_v3",
       "match_type": "exact",
       "score": 3.0
     },
@@ -23370,6 +23405,11 @@
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0",
       "match_type": "exact",
       "score": 4.0
+    },
+    {
+      "entity_id": "dataset_ihavespoons_bite_baseline",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "dataset_microsoft_notsofar",
@@ -59281,6 +59321,11 @@
     },
     {
       "entity_id": "dataset_open_llm_leaderboard_old_requests",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_openbmb_ultradata_math",
       "match_type": "exact",
       "score": 1.0
     },
@@ -101507,6 +101552,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nvidia_deepseek_v4_flash_0731_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nvidia_deepseek_v4_flash_nvfp4",
       "match_type": "exact",
       "score": 1.5
@@ -102650,6 +102700,11 @@
     }
   ],
   "bite": [
+    {
+      "entity_id": "dataset_ihavespoons_bite_baseline",
+      "match_type": "exact",
+      "score": 3.0
+    },
     {
       "entity_id": "alpaca_-635197307312397201",
       "match_type": "exact",
@@ -106552,6 +106607,11 @@
       "entity_id": "arxiv_2608.27339v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_incoai_glm_5_3_flash_dflash2",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "model_incoai_qwen3_8_27b_dflash2",
@@ -116108,6 +116168,11 @@
     },
     {
       "entity_id": "hf_prism-ml_Bonsai-8B-gguf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "match_type": "exact",
       "score": 2.0
     },
@@ -127532,6 +127597,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "bpw": [
+    {
+      "entity_id": "dataset_ihavespoons_bite_baseline",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "bpy": [
@@ -142119,6 +142191,11 @@
       "entity_id": "dataset_genai4elab_papercli_papers_neurips",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingenvs_hf_ml_tasksmith",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "browsecomp": [
@@ -149937,6 +150014,11 @@
     },
     {
       "entity_id": "alpaca_8613975961809577853",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingenvs_hf_ml_tasksmith",
       "match_type": "exact",
       "score": 1.0
     }
@@ -169714,6 +169796,11 @@
     },
     {
       "entity_id": "model_generalanalysis_ga_guard_thinking",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_incoai_glm_5_3_flash_dflash2",
       "match_type": "exact",
       "score": 1.5
     },

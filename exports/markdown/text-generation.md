@@ -4242,6 +4242,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/prism-ml/Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)
 
+## prism-ml/Ternary-Bonsai-2-27B-gguf
+- **ID**: hf_prism-ml_Ternary-Bonsai-2-27B-gguf
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf](https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf)
+- **Tags**: 2-bit, base_model:Qwen/Qwen3.8-27B, base_model:quantized:Qwen/Qwen3.8-27B, bonsai, conversational, cuda, endpoints_compatible, gguf, hybrid-attention, license:apache-2.0, llama-cpp, llama.cpp, metal, on-device, prismml, region:us, ternary, text-generation
+
 ## prism-ml/Ternary-Bonsai-27B-mlx-2bit
 - **ID**: hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit
 - **Source**: Hugging Face

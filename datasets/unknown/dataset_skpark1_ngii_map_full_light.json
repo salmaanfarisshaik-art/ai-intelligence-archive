@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c06b399b77efa6bf1f97db491b8e3ef97bc8f18b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tngii-map-full-light\n\t\n\nLight point/line extract from NGII 1/1000 topographic data for Korea.\nNot for shipping into GitHub — use this Hugging Face dataset instead.\n\n\t\n\t\t\n\t\n\t\n\t\tCRS\n\t\n\n\nKorea_2000_Central_Belt_2010 projected meters [x, y]\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayers (per region under by_region/<region>/)\n\t\n\n\n\t\n\t\t\nLayer\nDescription\n\n\n\t\t\nC023\npoles (전주/통신주)\n\n\nC022\nlights (가로등·보안등)\n\n\nA002\nroads (도로 중심선)\n\n\nB001_tiny\nbuilding footprints <25 m² as centroids\n\n\nB002\nlines (구분/재질 라인)\n\n\n\t\n\nAlso:… See the full description on the dataset page: https://huggingface.co/datasets/SKPark1/ngii-map-full-light.",
-  "downloads": 200888,
+  "downloads": 211575,
   "tags": [
     "task_categories:other",
     "license:other",

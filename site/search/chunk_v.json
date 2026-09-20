@@ -2092,6 +2092,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_nvidia_gpt_oss_120b_eagle3_v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -2339,6 +2344,11 @@
     },
     {
       "entity_id": "model_crusoeai_deepseek_v4_flash_bf16",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_nvidia_deepseek_v4_flash_0731_nvfp4",
       "match_type": "exact",
       "score": 6.5
     },
@@ -26451,6 +26461,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ihavespoons_bite_baseline",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_inclusionai_conceptedit_12m",
       "match_type": "exact",
       "score": 1.0
@@ -42059,6 +42074,13 @@
       "score": 1.0
     }
   ],
+  "visualiser": [
+    {
+      "entity_id": "dataset_huggingenvs_hf_ml_tasksmith",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "visualization": [
     {
       "entity_id": "alpaca_-6984297064725681789",
@@ -49859,6 +49881,11 @@
     }
   ],
   "vulkan": [
+    {
+      "entity_id": "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_julianmb_qwen_3_8_27b_rocmfp4_fast_gguf",
       "match_type": "exact",
