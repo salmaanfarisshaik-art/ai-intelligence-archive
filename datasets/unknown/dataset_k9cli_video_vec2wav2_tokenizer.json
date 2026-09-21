@@ -4,12 +4,12 @@
   "author": "k9cli",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-09-21T05:37:47.000Z",
+  "lastModified": "2026-09-21T06:39:56.000Z",
   "likes": 26,
   "private": false,
-  "sha": "5dd71997487265037ae406a8d802c0bc07a83fe7",
+  "sha": "a03b8dd38b528f6a579fdd443789c0463f6360d8",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tvideo-vec2wav2-tokenizer\n\t\n\nProduction-ready pipeline (Python package video_vec2wav2_tokenizer, CLI command\nvideo2dataset) that turns a folder of videos into clean AI training datasets\nfor speech recognition (ASR) and text-to-speech (TTS).\nvideos  ──►  audio (16 kHz mono PCM)  ──►  whisper transcript  ──►  clips  ──►  metadata.csv / dataset.jsonl / tts_metadata.csv / report.json\n\n\nVideo processing — recursive scan of mp4 / mkv / avi / mov / webm, FFmpeg\naudio extraction to mono ·… See the full description on the dataset page: https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer.",
-  "downloads": 791306,
+  "downloads": 770202,
   "tags": [
     "region:us"
   ],

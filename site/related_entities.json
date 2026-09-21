@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T06:09:06Z",
+  "generated_at": "2026-09-21T13:38:33Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1549,6 +1549,9 @@
       "model_google_t5_t5_11b",
       "model_google_t5_t5_3b"
     ],
+    "hf_canopylabs_3b-de-pretrain-research_release": [
+      "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1"
+    ],
     "hf_canopylabs_3b-hi-ft-research_release": [
       "model_kenpath_svara_tts_v1"
     ],
@@ -1873,6 +1876,9 @@
     ],
     "hf_empero-ai_Qwythos-9B-Claude-Mythos-5-1M": [
       "model_huihui_ai_huihui_qwythos_9b_claude_mythos_5_1m_abliterated_gguf"
+    ],
+    "hf_entrick_security-slm-dataset": [
+      "model_entrick_security_slm_gemma_4_e2b_it_gguf"
     ],
     "hf_ethicalabs_Echo-DSRN-Qwen2.5-0.5B-Hybrid": [
       "model_mrs83_kurtis_eon1_hybrid_0_7b_v0_1_1"
@@ -2344,6 +2350,9 @@
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
       "model_dphn_dolphin_2_9_1_llama_3_70b",
       "model_dphn_dolphin_2_9_1_yi_1_5_34b"
+    ],
+    "hf_microsoft_phi-2": [
+      "model_jartine_phi_2_llamafile"
     ],
     "hf_microsoft_phi-4": [
       "model_maziyarpanahi_phi_4_gguf",
@@ -2918,6 +2927,7 @@
       "model_fastflowlm_gpt_oss_20b_npu2",
       "model_ggml_org_gpt_oss_20b_gguf",
       "model_mlx_community_gpt_oss_20b_mxfp4_q8",
+      "model_muxodious_gpt_oss_20b_richarderkhov_heresy",
       "model_openai_gpt_oss_safeguard_20b",
       "model_unsloth_gpt_oss_20b_bf16",
       "model_unsloth_gpt_oss_20b_gguf",
@@ -3235,6 +3245,9 @@
     ],
     "hf_unsloth_Qwen3.8-27B-NVFP4": [
       "model_esatapedico_qwen3_8_27b_nvfp4_mtp_gguf"
+    ],
+    "hf_unsloth_gemma-4-E2B-it-unsloth-bnb-4bit": [
+      "model_entrick_security_slm_gemma_4_e2b_it_gguf"
     ],
     "hf_unsloth_gemma-4-E4B-it": [
       "model_shafire_zero_gemma4_e4b_openzero_gguf"
@@ -4278,6 +4291,10 @@
     "model_enfuse_smol_tools_4b_32k": [
       "hf_Jackrong_Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled"
     ],
+    "model_entrick_security_slm_gemma_4_e2b_it_gguf": [
+      "hf_entrick_security-slm-dataset",
+      "hf_unsloth_gemma-4-E2B-it-unsloth-bnb-4bit"
+    ],
     "model_erwanf_gpt2_mini": [
       "hf_Skylion007_openwebtext"
     ],
@@ -4617,6 +4634,9 @@
     ],
     "model_janhq_jan_v3_5_4b_gguf": [
       "hf_janhq_Jan-v3-4B-base-instruct"
+    ],
+    "model_jartine_phi_2_llamafile": [
+      "hf_microsoft_phi-2"
     ],
     "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m": [
       "hf_JetBrains_Mellum2-12B-A2.5B-Instruct"
@@ -5415,6 +5435,9 @@
     ],
     "model_mudler_qwen3_5_35b_a3b_apex_gguf": [
       "hf_Qwen_Qwen3.5-35B-A3B"
+    ],
+    "model_muxodious_gpt_oss_20b_richarderkhov_heresy": [
+      "hf_openai_gpt-oss-20b"
     ],
     "model_myric_laguna_s_2_1_apex_gguf": [
       "hf_poolside_Laguna-S-2.1"
@@ -6564,6 +6587,9 @@
     ],
     "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10": [
       "hf_catplusplus_MiniMax-M2.7-REAP-172B-A10B-NVFP4"
+    ],
+    "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1": [
+      "hf_canopylabs_3b-de-pretrain-research_release"
     ],
     "model_semparuthiveeran_vibethinker_3b_q4_k_m_gguf": [
       "hf_WeiboAI_VibeThinker-3B"

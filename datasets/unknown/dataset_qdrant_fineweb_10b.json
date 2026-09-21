@@ -1,0 +1,30 @@
+{
+  "_id": "6a8da2d0f6b7add55fe854d9",
+  "id": "Qdrant/FineWeb-10B",
+  "author": "Qdrant",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-19T02:00:52.000Z",
+  "likes": 20,
+  "private": false,
+  "sha": "3aea0b8d5f98741e343d07f067ce0f49dca1ccd2",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tQdrant-FineWeb-10B\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tOverview\n\t\n\nQdrant-FineWeb-10B (Q-FineWeb-10B) is a 10-billion-vector retrieval benchmark derived from FineWeb. Each document is represented with dense and sparse embeddings from Alibaba-NLP/gte-multilingual-base, alongside its original FineWeb payload and metadata. The benchmark also includes exact brute-force ground truth for ~120,000 MS MARCO queries.\nThe dataset includes:\n\n10 billion dense embeddings\n10 billion sparse embeddings\nFineWeb… See the full description on the dataset page: https://huggingface.co/datasets/Qdrant/FineWeb-10B.",
+  "downloads": 36858,
+  "tags": [
+    "language:en",
+    "license:odc-by",
+    "size_categories:10B<n<100B",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-08-25T14:12:32.000Z",
+  "key": "",
+  "unique_id": "dataset_qdrant_fineweb_10b",
+  "schema_version": "1.0"
+}

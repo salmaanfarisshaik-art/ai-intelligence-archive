@@ -3346,6 +3346,24 @@
     "local_path": "datasets/xlangai/hf_ds_6835d7e81900f053ee3c7c9e.json"
   },
   {
+    "id": "hf_ds_6835e17a87372e2e733402a8",
+    "title": "stal-ix/pkgsrc",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/stal-ix/pkgsrc",
+    "local_path": "datasets/stal-ix/hf_ds_6835e17a87372e2e733402a8.json"
+  },
+  {
     "id": "hf_ds_68370197476641ade2a81199",
     "title": "drssth/ModelNet-simscan",
     "category": "dataset",
@@ -4790,6 +4808,33 @@
     "local_path": "datasets/jasperai/hf_ds_69f0c6101cc98d8ac04c03cd.json"
   },
   {
+    "id": "hf_ds_69f4c655e0ddba5ac1808715",
+    "title": "pulmo/ncbi-genbank-complete",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "bioinformatics",
+      "biology",
+      "dna",
+      "genomics",
+      "language:en",
+      "license:apache-2.0",
+      "region:us",
+      "sequence",
+      "size_categories:n>1T"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/pulmo"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/pulmo/ncbi-genbank-complete",
+    "local_path": "datasets/pulmo/hf_ds_69f4c655e0ddba5ac1808715.json"
+  },
+  {
     "id": "hf_ds_69f623abadd8e8047bc039e9",
     "title": "wegrthj/kbcpjv-v654-data",
     "category": "dataset",
@@ -4892,6 +4937,41 @@
     },
     "source_url": "https://huggingface.co/datasets/stanford-vision-lab/gpic",
     "local_path": "datasets/stanford-vision-lab/hf_ds_69f7b3cc62d65c8f39fe7270.json"
+  },
+  {
+    "id": "hf_ds_6a000179f854441c31227673",
+    "title": "james-ra-henry/Rosetta-Activations",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "activations",
+      "concept-vectors",
+      "doi:10.57967/hf/9725",
+      "format:json",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:mit",
+      "mechanistic-interpretability",
+      "modality:tabular",
+      "modality:text",
+      "probes",
+      "region:us",
+      "size_categories:n<1K",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/james-ra-henry"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations",
+    "local_path": "datasets/james-ra-henry/hf_ds_6a000179f854441c31227673.json"
   },
   {
     "id": "hf_ds_6a04fe32c08e541d106bc6fe",

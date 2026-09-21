@@ -745,6 +745,11 @@
   ],
   "qdrant": [
     {
+      "entity_id": "dataset_qdrant_fineweb_10b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "hf_ds_max-id_gaianet-qdrant-snapshot",
       "match_type": "exact",
       "score": 3.0
@@ -2228,6 +2233,11 @@
     },
     {
       "entity_id": "dataset_sysuyy_imgedit",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_vlar_lavalobjaversedataset",
       "match_type": "exact",
       "score": 2.0
     },
@@ -4733,6 +4743,11 @@
     },
     {
       "entity_id": "model_cactus_compute_needle2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cactus_compute_needle3",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9696,6 +9711,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_qdrant_fineweb_10b",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_tevatron_browsecomp_plus",
       "match_type": "exact",
       "score": 1.0
@@ -11055,6 +11075,11 @@
     },
     {
       "entity_id": "dataset_ibrahimhamamci_ct_rate",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
       "match_type": "exact",
       "score": 3.0
     },
@@ -23852,6 +23877,21 @@
     },
     {
       "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
       "match_type": "exact",
       "score": 3.0
     },

@@ -5971,6 +5971,11 @@
 - **URL**: [https://openai.com/index/using-gpt-4-for-content-moderation](https://openai.com/index/using-gpt-4-for-content-moderation)
 
 ## 
+- **ID**: rss_https://openai.com/index/v7
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/v7](https://openai.com/index/v7)
+
+## 
 - **ID**: rss_https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines](https://openai.com/index/variance-reduction-for-policy-gradient-with-action-dependent-factorized-baselines)

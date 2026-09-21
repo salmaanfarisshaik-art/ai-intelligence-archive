@@ -146,6 +146,9 @@
   "acl": [
     "hf_ds_6374015cc3b104ef17a000f2"
   ],
+  "activations": [
+    "hf_ds_6a000179f854441c31227673"
+  ],
   "agent": [
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4"
@@ -970,8 +973,12 @@
   "bimanual-robot": [
     "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
+  "bioinformatics": [
+    "hf_ds_69f4c655e0ddba5ac1808715"
+  ],
   "biology": [
-    "hf_ds_66674f5483de542b724d771e"
+    "hf_ds_66674f5483de542b724d771e",
+    "hf_ds_69f4c655e0ddba5ac1808715"
   ],
   "bonsai": [
     "hf_prism-ml_Bonsai-27B-gguf",
@@ -1033,6 +1040,9 @@
   ],
   "computer-vision": [
     "hf_ds_6785649a41a64e1582b8bb05"
+  ],
+  "concept-vectors": [
+    "hf_ds_6a000179f854441c31227673"
   ],
   "containers": [
     "docker",
@@ -1352,6 +1362,9 @@
     "automated-django-model-to-view-scaffolding",
     "django-model-to-view-scaffolding"
   ],
+  "dna": [
+    "hf_ds_69f4c655e0ddba5ac1808715"
+  ],
   "docker": [
     "dockerfile-multi-stage-builder",
     "optimized-dockerfile-multi-stage-builder"
@@ -1391,6 +1404,9 @@
   ],
   "doi:10.57967/hf/7269": [
     "hf_ds_692ecca11aad0a1d75ac057c"
+  ],
+  "doi:10.57967/hf/9725": [
+    "hf_ds_6a000179f854441c31227673"
   ],
   "domain-adaptation": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -1653,6 +1669,7 @@
     "hf_ds_69a64e75c02ff4af5432f62a",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a4f0a92e633070a2d287ef9"
   ],
   "format:optimized-parquet": [
@@ -1785,6 +1802,9 @@
   ],
   "generated_from_trainer": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
+  ],
+  "genomics": [
+    "hf_ds_69f4c655e0ddba5ac1808715"
   ],
   "gguf": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2419,8 +2439,10 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "hf_ds_69f4c655e0ddba5ac1808715",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a18ded575c463d5aecfcf4d",
     "hf_ds_6a307dae8e258cbed418ec58",
@@ -3925,6 +3947,7 @@
     "hf_ds_69dea0a636a3f56ff6f91b7f",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a153f136ea5882878c26693",
@@ -4012,6 +4035,7 @@
     "hf_ds_69dea0a636a3f56ff6f91b7f",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a153f136ea5882878c26693",
@@ -4053,6 +4077,7 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a7609d6663f80dd30d388fc"
@@ -4112,6 +4137,7 @@
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a18ded575c463d5aecfcf4d",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
@@ -4174,6 +4200,7 @@
     "hf_ds_6937cb3e145e00d96aa5338c",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "hf_ds_69f4c655e0ddba5ac1808715",
     "hf_ds_6a252aa1e7f978cbccbe94ed",
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a7609d6663f80dd30d388fc",
@@ -4296,6 +4323,7 @@
     "hf_ds_67e58fa6625f0f6c8447f37c",
     "hf_ds_68101f6210b86ba322aabec8",
     "hf_ds_68179ef58e267618d9e7bc61",
+    "hf_ds_6835e17a87372e2e733402a8",
     "hf_ds_6850196ad602532f84eb625b",
     "hf_ds_68699f43b939abc945dbaaf8",
     "hf_ds_68a7fb1964bbb2ec688d1af2",
@@ -4306,6 +4334,7 @@
     "hf_ds_698aee8a9b778894943e6c5d",
     "hf_ds_69b3d79d63e7af41d98f1fd5",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a139a707f615e6fc818bde7",
     "hf_microsoft_Phi-3.5-vision-instruct",
     "hf_openai-community_gpt2",
@@ -4412,6 +4441,9 @@
   ],
   "mcap": [
     "hf_ds_6a307dae8e258cbed418ec58"
+  ],
+  "mechanistic-interpretability": [
+    "hf_ds_6a000179f854441c31227673"
   ],
   "medical": [
     "hf_ds_6859a511dbd17c5bad610ad2",
@@ -4523,6 +4555,7 @@
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a702b9b89beb4ee925c3e28",
@@ -4595,6 +4628,7 @@
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
     "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a18ded575c463d5aecfcf4d",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
@@ -4850,6 +4884,9 @@
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
+  ],
+  "probes": [
+    "hf_ds_6a000179f854441c31227673"
   ],
   "processed": [
     "hf_ds_66674f5483de542b724d771e"
@@ -5137,6 +5174,7 @@
     "hf_ds_683195b70ed0a5b1919c6f22",
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6835d7e81900f053ee3c7c9e",
+    "hf_ds_6835e17a87372e2e733402a8",
     "hf_ds_68370197476641ade2a81199",
     "hf_ds_6850196ad602532f84eb625b",
     "hf_ds_6851cac31458ae6b02f8e8e7",
@@ -5196,10 +5234,12 @@
     "hf_ds_69e7409e244b695efe87097a",
     "hf_ds_69eb72498f65b8d96201861f",
     "hf_ds_69f0c6101cc98d8ac04c03cd",
+    "hf_ds_69f4c655e0ddba5ac1808715",
     "hf_ds_69f623abadd8e8047bc039e9",
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a139a707f615e6fc818bde7",
@@ -5404,6 +5444,9 @@
     "hf_Qwen_Qwen3-Reranker-0.6B",
     "hf_Qwen_Qwen3-Reranker-4B"
   ],
+  "sequence": [
+    "hf_ds_69f4c655e0ddba5ac1808715"
+  ],
   "sglang": [
     "hf_RadixArk_Kimi-K3-DSpark"
   ],
@@ -5525,6 +5568,7 @@
     "hf_ds_69af8aeeec432ae4abac9fd4",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_69dea0a636a3f56ff6f91b7f",
+    "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a04fe32c08e541d106bc6fe",
     "hf_ds_6a05090783b099c94f623217",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
@@ -5542,6 +5586,7 @@
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_69c3db34480308a6a3cabb37",
+    "hf_ds_69f4c655e0ddba5ac1808715",
     "hf_ds_6a153f136ea5882878c26693",
     "hf_ds_6a307dae8e258cbed418ec58"
   ],
@@ -6113,6 +6158,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_ds_6a000179f854441c31227673",
     "hf_facebook_opt-125m",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_google_gemma-3-1b-it",

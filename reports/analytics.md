@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89370
+**Total Entities Tracked**: 89374
 
 ## Category Distribution
 
@@ -9,8 +9,8 @@
 - **instruction_tuning**: 21000
 - **datasets**: 1974
 - **models**: 1696
-- **news**: 1236
-- **dataset**: 1178
+- **news**: 1237
+- **dataset**: 1181
 - **text-generation**: 1011
 - **cs.CV**: 887
 - **cs.CL**: 608
@@ -98,8 +98,8 @@
 - ****: 30848
 - **ArXiv**: 2938
 - **Hugging Face**: 2018
-- **OpenAI Blog**: 1222
-- **HuggingFace Datasets**: 178
+- **OpenAI Blog**: 1223
+- **HuggingFace Datasets**: 181
 - **GitHub Trending**: 52
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -139,32 +139,32 @@
 
 ## Top Tags
 
-- **region:us**: 257
+- **region:us**: 260
+- **library:datasets**: 80
+- **library:mlcroissant**: 80
 - **text-generation**: 80
-- **library:datasets**: 79
-- **library:mlcroissant**: 79
-- **modality:text**: 74
+- **modality:text**: 75
 - **endpoints_compatible**: 68
-- **license:apache-2.0**: 67
-- **transformers**: 67
+- **license:apache-2.0**: 68
+- **transformers**: 68
+- **language:en**: 66
 - **safetensors**: 66
-- **language:en**: 64
 - **conversational**: 61
-- **library:polars**: 60
+- **library:polars**: 61
+- **license:mit**: 48
 - **format:parquet**: 47
-- **license:mit**: 46
 - **text-generation-inference**: 35
 - **deploy:azure**: 32
-- **library:pandas**: 31
+- **library:pandas**: 32
 - **library:dask**: 29
 - **en**: 28
 - **task_categories:text-generation**: 26
 - **enterprise**: 25
 - **eval-results**: 25
+- **size_categories:n<1K**: 25
 - **modality:image**: 24
-- **size_categories:n<1K**: 24
 - **deploy:sagemaker**: 22
-- **modality:tabular**: 21
+- **modality:tabular**: 22
 - **qwen3**: 20
 - **license:other**: 19
 - **api**: 16
@@ -176,16 +176,16 @@
 - **license:odc-by**: 12
 - **multilinguality:monolingual**: 12
 - **arxiv:2505.09388**: 11
+- **format:json**: 11
 - **fp8**: 11
 - **gguf**: 11
 - **pytorch**: 11
 - **size_categories:1K<n<10K**: 11
 - **source_datasets:original**: 11
 - **custom_code**: 10
-- **format:json**: 10
 - **language:zh**: 10
 - **size_categories:100M<n<1B**: 10
+- **size_categories:n>1T**: 10
 - **modality:audio**: 9
 - **python**: 9
 - **size_categories:1B<n<10B**: 9
-- **size_categories:1M<n<10M**: 9

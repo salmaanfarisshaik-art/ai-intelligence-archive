@@ -1,0 +1,30 @@
+{
+  "_id": "6678f4c4c5ec2bdc94ff6876",
+  "id": "instruction-pretrain/general-instruction-augmented-corpora",
+  "author": "instruction-pretrain",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-03-02T08:23:51.000Z",
+  "likes": 24,
+  "private": false,
+  "sha": "7a5e5af64e4446ff24368271b7be053cef2cee2a",
+  "description": "\n\t\n\t\t\n\t\tInstruction Pre-Training: Language Models are Supervised Multitask Learners (EMNLP 2024)\n\t\n\nThis repo contains the general instruction-augmented corpora (containing 200M instruction-response pairs covering 40+ task categories) used in our paper Instruction Pre-Training: Language Models are Supervised Multitask Learners.\nWe explore supervised multitask pre-training by proposing Instruction Pre-Training, a framework that scalably augments massive raw corpora with instruction-response… See the full description on the dataset page: https://huggingface.co/datasets/instruction-pretrain/general-instruction-augmented-corpora.",
+  "downloads": 37722,
+  "tags": [
+    "task_categories:text-classification",
+    "task_categories:table-question-answering",
+    "task_categories:question-answering",
+    "task_categories:zero-shot-classification",
+    "language:en",
+    "license:odc-by",
+    "modality:text",
+    "arxiv:2406.14491",
+    "arxiv:2601.16206",
+    "arxiv:2309.09530",
+    "region:us"
+  ],
+  "createdAt": "2024-06-24T04:23:32.000Z",
+  "key": "",
+  "unique_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
+  "schema_version": "1.0"
+}

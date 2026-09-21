@@ -550,6 +550,12 @@
 - **URL**: [https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache](https://huggingface.co/datasets/xlangai/ubuntu_osworld_file_cache)
 - **Tags**: arxiv:2404.07972, license:apache-2.0, region:us
 
+## stal-ix/pkgsrc
+- **ID**: hf_ds_6835e17a87372e2e733402a8
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/stal-ix/pkgsrc](https://huggingface.co/datasets/stal-ix/pkgsrc)
+- **Tags**: license:mit, region:us
+
 ## drssth/ModelNet-simscan
 - **ID**: hf_ds_68370197476641ade2a81199
 - **Source**: HuggingFace Datasets
@@ -904,6 +910,12 @@
 - **URL**: [https://huggingface.co/datasets/jasperai/monet](https://huggingface.co/datasets/jasperai/monet)
 - **Tags**: arxiv:2605.21272, captioning, image-text, language:en, license:apache-2.0, modality:image, modality:text, multimodal, region:us, size_categories:100M<n<1B, synthetic-data, task_categories:image-feature-extraction, task_categories:text-to-image, task_categories:zero-shot-image-classification, text-to-image
 
+## pulmo/ncbi-genbank-complete
+- **ID**: hf_ds_69f4c655e0ddba5ac1808715
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/pulmo/ncbi-genbank-complete](https://huggingface.co/datasets/pulmo/ncbi-genbank-complete)
+- **Tags**: bioinformatics, biology, dna, genomics, language:en, license:apache-2.0, region:us, sequence, size_categories:n>1T
+
 ## wegrthj/kbcpjv-v654-data
 - **ID**: hf_ds_69f623abadd8e8047bc039e9
 - **Source**: HuggingFace Datasets
@@ -927,6 +939,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/stanford-vision-lab/gpic](https://huggingface.co/datasets/stanford-vision-lab/gpic)
 - **Tags**: arxiv:2605.30341, language:en, license:mit, region:us
+
+## james-ra-henry/Rosetta-Activations
+- **ID**: hf_ds_6a000179f854441c31227673
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations](https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations)
+- **Tags**: activations, concept-vectors, doi:10.57967/hf/9725, format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, mechanistic-interpretability, modality:tabular, modality:text, probes, region:us, size_categories:n<1K, transformers
 
 ## Dagonulca/figofigofigofigo
 - **ID**: hf_ds_6a04fe32c08e541d106bc6fe

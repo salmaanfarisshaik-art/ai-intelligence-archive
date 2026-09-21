@@ -1444,6 +1444,13 @@
       "score": 1.0
     }
   ],
+  "kartoffel": [
+    {
+      "entity_id": "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "kas": [
     {
       "entity_id": "dataset_coherelabs_aya_collection",
@@ -19205,6 +19212,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mlfoundations_dcvlm_balanced_200b",
       "match_type": "exact",
       "score": 1.5
@@ -19216,6 +19228,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -19296,6 +19313,21 @@
     },
     {
       "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -20342,6 +20374,13 @@
     },
     {
       "entity_id": "dataset_eddmpython_dartlab_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "korpus": [
+    {
+      "entity_id": "dataset_meaecosystem_pustaka",
       "match_type": "exact",
       "score": 1.0
     }

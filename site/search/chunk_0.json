@@ -953,6 +953,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_qdrant_fineweb_10b",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_qualialabsai_smoothconv",
       "match_type": "exact",
       "score": 1.0
@@ -3556,6 +3561,11 @@
     },
     {
       "entity_id": "dataset_physinonep02_physinonep02",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a000179f854441c31227673",
       "match_type": "exact",
       "score": 1.0
     }
@@ -7085,6 +7095,11 @@
       "entity_id": "hf_ds_6993525c8be5bf8321bcc775",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a000179f854441c31227673",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "060": [
@@ -8339,6 +8354,13 @@
   "07410": [
     {
       "entity_id": "model_baai_aquilachat2_7b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "07414": [
+    {
+      "entity_id": "dataset_vlar_lavalobjaversedataset",
       "match_type": "exact",
       "score": 1.5
     }
@@ -10689,6 +10711,13 @@
       "score": 1.5
     }
   ],
+  "09530": [
+    {
+      "entity_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "09542": [
     {
       "entity_id": "model_google_medgemma_27b_text_it",
@@ -10805,6 +10834,11 @@
   "09700": [
     {
       "entity_id": "model_asingh15_qwen_sft_countdown_defaultproj",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_beetle_fineweb3_24b_beetle_monolingual_fineweb3_eng",
       "match_type": "exact",
       "score": 1.5
     },

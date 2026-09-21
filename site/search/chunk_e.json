@@ -1,6 +1,11 @@
 {
   "e2b": [
     {
+      "entity_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_trevorjs_gemma_4_e2b_it_uncensored_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -4961,6 +4966,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_qdrant_fineweb_10b",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_richarderkhov_dasp",
       "match_type": "exact",
       "score": 1.0
@@ -7279,6 +7289,11 @@
     },
     {
       "entity_id": "arxiv_2609.20662v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_initiacms_xlrs_bench_visual_grounding_en",
       "match_type": "exact",
       "score": 2.0
     },
@@ -10270,6 +10285,11 @@
     },
     {
       "entity_id": "dataset_mu_nlpc_calc_mawps",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -16352,6 +16372,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/global-affairs/openai-and-uk-government-partnership",
       "match_type": "exact",
       "score": 1.0
@@ -17095,6 +17120,11 @@
     },
     {
       "entity_id": "model_cactus_compute_needle2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cactus_compute_needle3",
       "match_type": "exact",
       "score": 1.5
     },
@@ -29347,6 +29377,21 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nerkyor_qwen3_8_27b_efficientthink_uncensored_k3_opus5_grok4_6_gpt5_6sol_sft_simpo_dflash2",
       "match_type": "exact",
       "score": 1.5
@@ -35825,6 +35870,11 @@
     },
     {
       "entity_id": "dataset_legacy_datasets_wikipedia",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -45619,6 +45669,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "dataset_qdrant_fineweb_10b",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/introducing-text-and-code-embeddings",
       "match_type": "exact",
       "score": 3.0
@@ -49058,6 +49113,13 @@
       "entity_id": "hf_ds_69a389155b0ec60eb1032f67",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "emnlp": [
+    {
+      "entity_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "emobserver": [
@@ -54153,6 +54215,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_initiacms_xlrs_bench_visual_grounding_en",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_multitalk_multitalkft",
       "match_type": "exact",
       "score": 2.5
@@ -55363,6 +55430,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_intellabs_bluelens",
       "match_type": "exact",
       "score": 1.5
@@ -55743,6 +55815,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mearman_openalex",
       "match_type": "exact",
       "score": 1.5
@@ -56018,6 +56095,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_octavius0612_troveledger",
       "match_type": "exact",
       "score": 1.5
@@ -56264,6 +56346,11 @@
     },
     {
       "entity_id": "dataset_pulmo_ncbi_genbank_complete",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_qdrant_fineweb_10b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -56709,6 +56796,11 @@
     },
     {
       "entity_id": "dataset_vinai_phost",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_vlar_lavalobjaversedataset",
       "match_type": "exact",
       "score": 1.5
     },
@@ -57448,6 +57540,21 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -57789,6 +57896,11 @@
     },
     {
       "entity_id": "model_enfuse_smol_tools_4b_32k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -58169,6 +58281,11 @@
     },
     {
       "entity_id": "model_janhq_jan_v3_5_4b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_jartine_phi_2_llamafile",
       "match_type": "exact",
       "score": 1.5
     },
@@ -61131,6 +61248,11 @@
   "ena": [
     {
       "entity_id": "dataset_pulmo_ncbi_genbank_complete",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f4c655e0ddba5ac1808715",
       "match_type": "exact",
       "score": 1.0
     }
@@ -70150,6 +70272,21 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -70801,6 +70938,11 @@
     },
     {
       "entity_id": "model_enfuse_smol_tools_4b_32k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -72371,6 +72513,11 @@
     },
     {
       "entity_id": "model_mudler_qwen3_5_35b_a3b_apex_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_muxodious_gpt_oss_20b_richarderkhov_heresy",
       "match_type": "exact",
       "score": 1.5
     },
@@ -74111,6 +74258,11 @@
     },
     {
       "entity_id": "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1",
       "match_type": "exact",
       "score": 1.5
     },
@@ -79809,6 +79961,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_beetle_fineweb3_24b_beetle_monolingual_fineweb3_eng",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_allenai_tulu_3_sft_mixture",
       "match_type": "exact",
       "score": 1.5
@@ -85182,6 +85339,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mlinhbng_viet_cultural_vqa",
       "match_type": "exact",
       "score": 1.0
@@ -89317,6 +89479,13 @@
       "entity_id": "arxiv_2608.21252v1",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "ensiklopedia": [
+    {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "enslave": [
@@ -95001,6 +95170,13 @@
       "score": 1.0
     }
   ],
+  "entrick": [
+    {
+      "entity_id": "model_entrick_security_slm_gemma_4_e2b_it_gguf",
+      "match_type": "exact",
+      "score": 3.5
+    }
+  ],
   "entries": [
     {
       "entity_id": "alpaca_-1709232629271625539",
@@ -100657,6 +100833,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_shihao1895_bridge_rlds",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_sinoosoida_speechru",
       "match_type": "exact",
       "score": 1.0
@@ -105955,6 +106136,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openassistant_oasst1",
       "match_type": "exact",
       "score": 1.5
@@ -106121,6 +106307,21 @@
     },
     {
       "entity_id": "model_cmsmanhattan_jirackultra_14b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_1b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_32b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_cmsmanhattan_jirackultra_7b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -112067,6 +112268,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_vlar_lavalobjaversedataset",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_yijingguo_panocity",
       "match_type": "exact",
       "score": 1.5
@@ -112333,6 +112539,11 @@
     },
     {
       "entity_id": "dataset_legacy_datasets_wikipedia",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -114185,6 +114396,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openassistant_oasst1",
       "match_type": "exact",
       "score": 1.5
@@ -115225,6 +115441,11 @@
     },
     {
       "entity_id": "dataset_xrxrx_x_voice_dataset_train",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f4c655e0ddba5ac1808715",
       "match_type": "exact",
       "score": 1.0
     },
@@ -116718,6 +116939,13 @@
       "score": 2.0
     }
   ],
+  "evaluatation": [
+    {
+      "entity_id": "dataset_initiacms_xlrs_bench_visual_grounding_en",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "evaluate": [
     {
       "entity_id": "alpaca_-4327505062144230054",
@@ -117561,6 +117789,11 @@
     },
     {
       "entity_id": "dataset_nvidia_physicalai_worldmodel_synthetic_physical_interaction_scenes",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -119281,6 +119514,11 @@
     },
     {
       "entity_id": "dataset_nyu_mll_glue",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
       "match_type": "exact",
       "score": 2.0
     },
@@ -131626,6 +131864,13 @@
       "score": 2.0
     }
   ],
+  "evo": [
+    {
+      "entity_id": "dataset_arcinstitute_opengenome2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "evoarena": [
     {
       "entity_id": "arxiv_2606.13681v1",
@@ -133305,6 +133550,11 @@
     },
     {
       "entity_id": "dataset_orannue_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_qdrant_fineweb_10b",
       "match_type": "exact",
       "score": 1.0
     },
@@ -138091,6 +138341,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_occiglot_tokenizer_wiki_bench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_saffatgazi_fish_vista",
       "match_type": "exact",
       "score": 1.0
@@ -139229,6 +139484,11 @@
     },
     {
       "entity_id": "dataset_acerobotics_ace_data_0",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_arcinstitute_opengenome2",
       "match_type": "exact",
       "score": 1.0
     },
@@ -141269,6 +141529,11 @@
     },
     {
       "entity_id": "dataset_pulmo_ncbi_genbank_complete",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69f4c655e0ddba5ac1808715",
       "match_type": "exact",
       "score": 1.0
     }
@@ -165694,6 +165959,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_instruction_pretrain_general_instruction_augmented_corpora",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lightwheelai_egodemo",
       "match_type": "exact",
       "score": 1.0
@@ -173437,6 +173707,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_6a000179f854441c31227673",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "match_type": "exact",
       "score": 1.0
@@ -173455,6 +173730,11 @@
     },
     {
       "entity_id": "hf_ds_6374015cc3b104ef17a000f2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a000179f854441c31227673",
       "match_type": "exact",
       "score": 1.0
     }
