@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.26236v2](http://arxiv.org/abs/2606.26236v2)
 
+## Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function
+- **ID**: arxiv_2607.12586v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.12586v3](http://arxiv.org/abs/2607.12586v3)
+
 ## Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction
 - **ID**: arxiv_2607.27825v2
 - **Source**: ArXiv

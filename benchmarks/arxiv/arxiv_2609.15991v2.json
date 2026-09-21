@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15991v2",
+  "schema_version": "1.0",
+  "name": "The Functionalizer: Lossless Functional Decomposition for Subword Tokenization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15991v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15991v2",
+    "updated": "2026-09-18T15:11:38Z",
+    "published": "2026-07-07T20:12:29Z",
+    "title": "The Functionalizer: Lossless Functional Decomposition for Subword Tokenization",
+    "summary": "Standard subword tokenizers either treat every orthographic variation of a word (such as hello, Hello, HELLO, and Héllo) as unrelated vocabulary entries, which fragments the embedding space, or discard this variation through lossy normalization. We present the Functionalizer, a lossless pre-tokenizer framework that factors orthographic and structural variations into a compositional opcode/operand prefix stream before tokenization: a canonical base token (operand) prefixed by parametric transformation operators (opcodes) encoded in the Unicode Private Use Area. We introduce operators covering casing (CAPITALIZE), diacritics (13 dedicated opcodes), and character repetition (REPEAT, MULTIREPEAT), which are fully reversible. Across natural language and code corpora, the Functionalizer enables complete corpus coverage with significantly smaller vocabularies under unconstrained exhaustion conditions, reducing actual vocabulary slot requirements by up to 19.7%. Downstream evaluations on 98M-parameter GPT-2 models show that the Functionalizer improves Python code syntax validity (9.12% vs. 7.70%) while reducing duplicate n-gram repetition in natural language prose. These findings demonstrate that functional decomposition can be an effective mechanism for vocabulary-efficient, structurally aware language modeling, and motivate further validation at production scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:11:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15991v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

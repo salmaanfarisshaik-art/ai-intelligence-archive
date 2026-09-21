@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.21992v1",
+  "schema_version": "1.0",
+  "name": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.21992v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.21992v1",
+    "updated": "2026-09-18T16:51:07Z",
+    "published": "2026-09-18T16:51:07Z",
+    "title": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+    "summary": "Most work in computational ethics treats annotator disagreement on moral content as noise to be voted away, collapsed into majority vote or the more permissive any-annotator rule the moment a single annotator flags an item. We argue this uncertainty should instead be modeled and learned from.\n  We introduce Moral Entropy, a Bayesian framework that keeps a full posterior over the true label and decomposes its entropy into aleatoric uncertainty (irreducible disagreement about the moral content) and epistemic uncertainty (from insufficient or noisy annotation) -- and lets any heuristic consensus rule be audited against a calibrated ground truth via entropy methods such as cross-entropy/KL, Brier score, and expected calibration error.\n  Across three corpora and fifteen discourse domains, auditing the standard aggregation rules against this posterior reveals bias that no current pipeline reports: the any-annotator rule disagrees with the calibrated posterior on roughly 30% of items -- pooled, almost entirely false positives, though the errors invert at the foundation level (19.9%/38.9% mean FPR/FNR on MFTC) -- while the stricter majority and two-vote rules miss 63-83% of true positives.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T16:51:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.21992v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

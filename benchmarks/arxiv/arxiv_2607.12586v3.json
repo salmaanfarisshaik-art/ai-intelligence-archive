@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.12586v3",
+  "schema_version": "1.0",
+  "name": "Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.12586v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.12586v3",
+    "updated": "2026-09-18T15:07:48Z",
+    "published": "2026-07-14T09:56:03Z",
+    "title": "Medical Image Segmentation based on Deep Active Contour and Mean Curvature Loss Function",
+    "summary": "Medical image segmentation is an important task in clinical analysis. Although deep learning techniques are widely used, training at the individual pixel level ignores geometric prior information about the region being segmented. Integrating the Chan-Vese model into the loss function is a well-established remedy that accounts for the regions inside and outside the segmentation and, through its length term, for boundary regularity. However, such losses still lack an effective characterisation of local boundary geometry. We introduce the mean curvature as a natural geometric constraint and propose a Deep Active Contour and Mean Curvature (DACMC) loss function, in which a fixed convolution kernel approximates the mean curvature at negligible computational cost. The loss has a single hyper-parameter, the curvature weight $λ$, fixed at $10^{-3}$ for all experiments. We evaluate DACMC on three public datasets - liver computed tomography (CT), spleen magnetic resonance imaging (MRI) and dermoscopy images from the International Skin Imaging Collaboration (ISIC) - using two encoder-decoder networks as backbones and the Dice similarity coefficient (DSC), the 95th-percentile Hausdorff distance (HD95), the Jaccard similarity (JS) and the average surface distance (ASD) as metrics, against the cross-entropy, Dice, active contour and elastica losses. DACMC attains the best or second-best DSC in five of the six dataset-backbone settings; on spleen MRI it reduces HD95 to 16.28 millimetres and ASD to 1.90 millimetres, and on ISIC it reduces HD95 to 7.08 millimetres. A sensitivity study shows a broad plateau for $λ\\leq 10^{-3}$ and degeneration only when the curvature term dominates.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:07:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.12586v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

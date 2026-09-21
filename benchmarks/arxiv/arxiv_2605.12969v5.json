@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12969v5",
+  "schema_version": "1.0",
+  "name": "Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12969v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12969v5",
+    "updated": "2026-09-18T15:12:07Z",
+    "published": "2026-05-13T04:02:36Z",
+    "title": "Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective",
+    "summary": "Group Relative Policy Optimization (GRPO) is one of the most widely adopted RLVR algorithms for post-training large language models on reasoning tasks. We first show that GRPO admits an equivalent discriminative reformulation, in which policy optimization maximizes the expected score gap between verified positive and negative rollouts. This reformulation reveals two objective-level limitations: likelihood-misaligned surrogate scores, in which clipped ratio-based scores are optimized rather than the sequence likelihoods that govern generation, and score-insensitive credit assignment, in which rollout-level credit does not reflect the current score gaps between positive and negative rollouts. To address these limitations, we propose ConSPO, a Contrastive Sequence-level Policy Optimization method that uses length-normalized sequence log-probabilities as rollout scores and contrasts verified positive rollouts against negative distractors within the same group. ConSPO optimizes a group-wise InfoNCE-style objective to adaptively strengthen updates for poorly separated positives and high-scoring negatives, together with a curriculum-scheduled margin that preserves separation pressure as training progresses. Experiments across diverse settings show that ConSPO outperforms strong baselines on challenging reasoning benchmarks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:12:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12969v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

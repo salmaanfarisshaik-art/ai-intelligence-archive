@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.30719v2",
+  "schema_version": "1.0",
+  "name": "Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.30719v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.30719v2",
+    "updated": "2026-09-18T16:56:05Z",
+    "published": "2026-08-31T12:57:29Z",
+    "title": "Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment",
+    "summary": "Productive dialogue alignment requires distinguishing \\emph{surface coordination} (acknowledgments and smooth task progression) from \\emph{epistemic alignment} (convergence of belief states); standard preference-based methods typically optimize response-level preferences without explicitly modeling the latter. We operationalize Theory-of-Mind (ToM) inference as a control signal within Frictive Policy Optimization by extracting, at each referring expression, a four-part belief structure: the speaker's intended referent, the addressee's interpretation, and each participant's model of the other's belief. This makes friction mechanically computable from epistemic-state comparisons, capturing \\emph{silent divergence}, where both participants proceed confidently while grounding to different referents. We evaluate the signal at two levels. At the representation level, ablating the second-order channel reduces misunderstanding recall from $65\\%$ to $26\\%$. At the policy level, reward-shaping (FAR) and trust-region (FTR) variants improve intervention F1 and warranted-context calibration over DPO, with Brier scores independently supporting the calibration gains. Across three training runs, FAR and FTR remain substantially more stable, whereas DPO varies widely and can degrade intervention competence already present in the base policy. Thus, ToM-grounded friction provides a trainable signal for context-sensitive intervention under referential belief divergence.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T16:56:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.30719v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

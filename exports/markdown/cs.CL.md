@@ -280,6 +280,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.19827v5](http://arxiv.org/abs/2601.19827v5)
 
+## Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA
+- **ID**: arxiv_2602.00279v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00279v2](http://arxiv.org/abs/2602.00279v2)
+
 ## Modular Expert Merging for Biomedical Retrieval
 - **ID**: arxiv_2602.04731v3
 - **Source**: ArXiv
@@ -454,6 +459,11 @@
 - **ID**: arxiv_2604.08523v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.08523v2](http://arxiv.org/abs/2604.08523v2)
+
+## Lessons Without Borders? Evaluating Cultural Alignment of LLMs Using Multilingual Story Moral Generation
+- **ID**: arxiv_2604.08797v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08797v2](http://arxiv.org/abs/2604.08797v2)
 
 ## Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types
 - **ID**: arxiv_2604.09544v3
@@ -1510,6 +1520,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29678v2](http://arxiv.org/abs/2607.29678v2)
 
+## Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
+- **ID**: arxiv_2608.00285v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00285v2](http://arxiv.org/abs/2608.00285v2)
+
 ## Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation
 - **ID**: arxiv_2608.01666v3
 - **Source**: ArXiv
@@ -2390,6 +2405,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29624v1](http://arxiv.org/abs/2608.29624v1)
 
+## Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment
+- **ID**: arxiv_2608.30719v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.30719v2](http://arxiv.org/abs/2608.30719v2)
+
 ## Improving Information Extraction with Learned Queries
 - **ID**: arxiv_2608.31058v1
 - **Source**: ArXiv
@@ -2790,6 +2810,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15975v1](http://arxiv.org/abs/2609.15975v1)
 
+## The Functionalizer: Lossless Functional Decomposition for Subword Tokenization
+- **ID**: arxiv_2609.15991v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15991v2](http://arxiv.org/abs/2609.15991v2)
+
 ## RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation
 - **ID**: arxiv_2609.16900v2
 - **Source**: ArXiv
@@ -2930,6 +2955,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20186v1](http://arxiv.org/abs/2609.20186v1)
 
+## What Does Privileged Information Add to On-Policy Self-Distillation?
+- **ID**: arxiv_2609.20612v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20612v2](http://arxiv.org/abs/2609.20612v2)
+
 ## HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication
 - **ID**: arxiv_2609.20684v1
 - **Source**: ArXiv
@@ -2974,4 +3004,39 @@
 - **ID**: arxiv_2609.20821v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20821v1](http://arxiv.org/abs/2609.20821v1)
+
+## NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities
+- **ID**: arxiv_2609.21967v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21967v1](http://arxiv.org/abs/2609.21967v1)
+
+## Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment
+- **ID**: arxiv_2609.21992v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21992v1](http://arxiv.org/abs/2609.21992v1)
+
+## RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents
+- **ID**: arxiv_2609.22000v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22000v1](http://arxiv.org/abs/2609.22000v1)
+
+## DiaVLo: Diagnosing Behaviours of Vision-Language Models
+- **ID**: arxiv_2609.22008v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22008v1](http://arxiv.org/abs/2609.22008v1)
+
+## QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge
+- **ID**: arxiv_2609.22038v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22038v1](http://arxiv.org/abs/2609.22038v1)
+
+## An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency
+- **ID**: arxiv_2609.22043v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22043v1](http://arxiv.org/abs/2609.22043v1)
+
+## Cross-sector generalization of accident-process role classification in occupational accident narratives
+- **ID**: arxiv_2609.22081v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22081v1](http://arxiv.org/abs/2609.22081v1)
 

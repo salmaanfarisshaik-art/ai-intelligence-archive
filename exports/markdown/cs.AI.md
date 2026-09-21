@@ -255,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06772v2](http://arxiv.org/abs/2605.06772v2)
 
+## On the Limitations of Large Language Models for Conceptual Database Modeling
+- **ID**: arxiv_2605.11986v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.11986v2](http://arxiv.org/abs/2605.11986v2)
+
 ## ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction
 - **ID**: arxiv_2605.14398v3
 - **Source**: ArXiv
@@ -1640,6 +1645,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11195v2](http://arxiv.org/abs/2608.11195v2)
 
+## A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph
+- **ID**: arxiv_2608.11211v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11211v2](http://arxiv.org/abs/2608.11211v2)
+
 ## Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability
 - **ID**: arxiv_2608.11238v2
 - **Source**: ArXiv
@@ -2149,6 +2159,11 @@
 - **ID**: arxiv_2608.26088v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26088v1](http://arxiv.org/abs/2608.26088v1)
+
+## Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings
+- **ID**: arxiv_2608.26088v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26088v2](http://arxiv.org/abs/2608.26088v2)
 
 ## GameWAM: A World Action Model for Video Games
 - **ID**: arxiv_2608.26200v2
@@ -2864,4 +2879,34 @@
 - **ID**: arxiv_2609.20804v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20804v1](http://arxiv.org/abs/2609.20804v1)
+
+## What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence
+- **ID**: arxiv_2609.21924v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21924v1](http://arxiv.org/abs/2609.21924v1)
+
+## AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory
+- **ID**: arxiv_2609.21940v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21940v1](http://arxiv.org/abs/2609.21940v1)
+
+## Learning Cardiac Features: ECG Biometrics Across Time and~Exercise
+- **ID**: arxiv_2609.21962v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21962v1](http://arxiv.org/abs/2609.21962v1)
+
+## A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal
+- **ID**: arxiv_2609.21996v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21996v1](http://arxiv.org/abs/2609.21996v1)
+
+## CodeMidas: Scaling Agentic Coding RL Environments from Code Itself
+- **ID**: arxiv_2609.22068v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22068v1](http://arxiv.org/abs/2609.22068v1)
+
+## Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design
+- **ID**: arxiv_2609.22086v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22086v1](http://arxiv.org/abs/2609.22086v1)
 

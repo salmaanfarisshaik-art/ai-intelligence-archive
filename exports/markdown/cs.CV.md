@@ -120,6 +120,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.07188v2](http://arxiv.org/abs/2506.07188v2)
 
+## CASE: Contrastive Activation for Class-Sensitive Explanations
+- **ID**: arxiv_2506.07327v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.07327v4](http://arxiv.org/abs/2506.07327v4)
+
 ## ScoreMix: Synthetic Data Generation by Score Composition in Diffusion Models Improves Recognition
 - **ID**: arxiv_2506.10226v3
 - **Source**: ArXiv
@@ -690,10 +695,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.01234v2](http://arxiv.org/abs/2605.01234v2)
 
+## Graph-Augmented Topological Internalization with Dual-Stream Classifiers for Medical Report Generation
+- **ID**: arxiv_2605.02376v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.02376v2](http://arxiv.org/abs/2605.02376v2)
+
 ## Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation
 - **ID**: arxiv_2605.04201v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
+
+## Probability-Flow Distillation: Distribution Matching in Parameter Space
+- **ID**: arxiv_2605.09071v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.09071v2](http://arxiv.org/abs/2605.09071v2)
 
 ## Counterfactual Stress Testing for Image Classification Models
 - **ID**: arxiv_2605.10894v2
@@ -734,6 +749,11 @@
 - **ID**: arxiv_2605.22547v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22547v3](http://arxiv.org/abs/2605.22547v3)
+
+## Recursive Block-Diagonal Coupling for Resource-Efficient Training of Vision Models
+- **ID**: arxiv_2605.23656v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.23656v2](http://arxiv.org/abs/2605.23656v2)
 
 ## SalsaAgent: A multimodal embodied language model for interactive dance generation
 - **ID**: arxiv_2605.29219v3
@@ -3345,6 +3365,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23563v1](http://arxiv.org/abs/2608.23563v1)
 
+## Optimizing YOLO27, YOLO26, YOLO11, and YOLOv8 for Fine-Grained Small-Object Detection and Segmentation in Complex Orchard Environments
+- **ID**: arxiv_2608.23636v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23636v2](http://arxiv.org/abs/2608.23636v2)
+
 ## More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation
 - **ID**: arxiv_2608.23730v2
 - **Source**: ArXiv
@@ -4369,4 +4394,44 @@
 - **ID**: arxiv_2609.20819v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20819v1](http://arxiv.org/abs/2609.20819v1)
+
+## Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition
+- **ID**: arxiv_2609.21879v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21879v1](http://arxiv.org/abs/2609.21879v1)
+
+## Catena: A Comprehensive Software Suite for Large-Scale Connectomics
+- **ID**: arxiv_2609.21887v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21887v1](http://arxiv.org/abs/2609.21887v1)
+
+## The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds
+- **ID**: arxiv_2609.21903v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21903v1](http://arxiv.org/abs/2609.21903v1)
+
+## Info3R: Information-Adaptive Test-Time Training for 3D Reconstruction
+- **ID**: arxiv_2609.21938v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21938v1](http://arxiv.org/abs/2609.21938v1)
+
+## PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models
+- **ID**: arxiv_2609.22040v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22040v1](http://arxiv.org/abs/2609.22040v1)
+
+## Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features
+- **ID**: arxiv_2609.22060v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22060v1](http://arxiv.org/abs/2609.22060v1)
+
+## OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation
+- **ID**: arxiv_2609.22069v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22069v1](http://arxiv.org/abs/2609.22069v1)
+
+## MintAct: A Unified Visual Agent for Digital Environments
+- **ID**: arxiv_2609.22083v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22083v1](http://arxiv.org/abs/2609.22083v1)
 

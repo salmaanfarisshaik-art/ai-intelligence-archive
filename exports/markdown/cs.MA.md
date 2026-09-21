@@ -65,3 +65,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.18929v1](http://arxiv.org/abs/2609.18929v1)
 
+## Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents
+- **ID**: arxiv_2609.21997v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21997v1](http://arxiv.org/abs/2609.21997v1)
+

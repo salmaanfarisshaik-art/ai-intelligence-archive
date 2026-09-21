@@ -125,6 +125,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.17997v1](http://arxiv.org/abs/2608.17997v1)
 
+## Self-Explanation Tutor for Active Study of CS1 Worked Examples
+- **ID**: arxiv_2608.25180v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25180v2](http://arxiv.org/abs/2608.25180v2)
+
 ## Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support
 - **ID**: arxiv_2609.10421v1
 - **Source**: ArXiv

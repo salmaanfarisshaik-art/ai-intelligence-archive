@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.12374v4",
+  "schema_version": "1.0",
+  "name": "AntiGrounding: Executable Robot Trajectories as Visual Prompts for VLM-Guided Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.12374v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.12374v4",
+    "updated": "2026-09-18T16:42:25Z",
+    "published": "2025-06-14T07:11:44Z",
+    "title": "AntiGrounding: Executable Robot Trajectories as Visual Prompts for VLM-Guided Manipulation",
+    "summary": "Natural-language instructions specify manipulation goals but leave the robot's motion underdetermined. We present AntiGrounding, a visual action-selection framework built around a dual geometric--visual trajectory interface. Each short trajectory retained after feasibility filtering remains an explicit motion plan and serves as a visual prompt for instruction-conditioned vision--language model (VLM) assessment. Structured multi-view visual question answering (VQA) scores safety, task alignment, efficiency, and physical plausibility. Weighted view fusion aggregates these scores for trajectory selection, while the scores also guide subsequent translational proposals. Separate orientation and gripper controls coordinate physical interaction. Planning proceeds in an initialized digital twin, which validates selected segments before the real robot executes the same waypoint sequences. Across eight real-world manipulation tasks, AntiGrounding with a single GPT-6 Astra evaluator achieves \\AstraOverall\\% overall success. Under the reported deployment protocol, $π_{0.5}$ achieves \\PiOverall\\%, and a PIVOT-style visual proposal-selection baseline with the same evaluator achieves \\PivotOverall\\%. Component ablations and evaluator sensitivity characterize trajectory assessment, proposal search, orientation control, and evaluator choice. Performance depends on digital-twin fidelity and physical interaction.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T16:42:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.12374v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

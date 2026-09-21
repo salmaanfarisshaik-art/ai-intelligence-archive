@@ -61,8 +61,10 @@
 | [A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes](http://arxiv.org/abs/2609.09137v1) | ArXiv |  | 1 |
 | [A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1) | ArXiv |  | 1 |
 | [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](http://arxiv.org/abs/2608.24825v1) | ArXiv |  | 1 |
+| [A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph](http://arxiv.org/abs/2608.11211v2) | ArXiv |  | 1 |
 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](http://arxiv.org/abs/2608.03958v1) | ArXiv |  | 1 |
 | [A Generalization of Amari's Bayesian Duality](http://arxiv.org/abs/2609.09126v1) | ArXiv |  | 1 |
+| [A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal](http://arxiv.org/abs/2609.21996v1) | ArXiv |  | 1 |
 | [A Machine-Learned Comorbidity Index](http://arxiv.org/abs/2606.17450v2) | ArXiv |  | 1 |
 | [A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents](http://arxiv.org/abs/2605.20173v2) | ArXiv |  | 1 |
 | [A Picture is Worth a Thousand Tokens: How Vision Language Models Cut AI Energy Costs While Improving Accuracy](http://arxiv.org/abs/2608.07427v1) | ArXiv |  | 1 |
@@ -124,6 +126,7 @@
 | [AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization](http://arxiv.org/abs/2608.21292v1) | ArXiv |  | 1 |
 | [Automated reproducibility assessments in the social and behavioral sciences using large language models](http://arxiv.org/abs/2606.13670v1) | ArXiv |  | 1 |
 | [AutoSynthesis: An agentic system for automated meta-analysis](http://arxiv.org/abs/2607.15247v1) | ArXiv |  | 1 |
+| [AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory](http://arxiv.org/abs/2609.21940v1) | ArXiv |  | 1 |
 | [Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations](http://arxiv.org/abs/2606.17005v1) | ArXiv |  | 1 |
 | [Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization](http://arxiv.org/abs/2606.13658v1) | ArXiv |  | 1 |
 | [Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](http://arxiv.org/abs/2607.15715v2) | ArXiv |  | 1 |
@@ -164,6 +167,7 @@
 | [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](http://arxiv.org/abs/2608.02502v1) | ArXiv |  | 1 |
 | [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](http://arxiv.org/abs/2609.09134v1) | ArXiv |  | 1 |
 | [CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing](http://arxiv.org/abs/2608.07424v1) | ArXiv |  | 1 |
+| [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](http://arxiv.org/abs/2609.22068v1) | ArXiv |  | 1 |
 | [CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents](http://arxiv.org/abs/2607.19338v1) | ArXiv |  | 1 |
 | [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](http://arxiv.org/abs/2609.19128v1) | ArXiv |  | 1 |
 | [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](http://arxiv.org/abs/2606.29495v2) | ArXiv |  | 1 |
@@ -195,6 +199,7 @@
 | [Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models](http://arxiv.org/abs/2609.20722v1) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
+| [Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1) | ArXiv |  | 1 |
 | [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | ArXiv |  | 1 |
 | [Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems](http://arxiv.org/abs/2608.29646v1) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
@@ -311,6 +316,7 @@
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
+| [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
@@ -371,6 +377,7 @@
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
 | [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1) | ArXiv |  | 1 |
+| [On the Limitations of Large Language Models for Conceptual Database Modeling](http://arxiv.org/abs/2605.11986v2) | ArXiv |  | 1 |
 | [On the Regularization Landscape for the Linear Recommendation Models](http://arxiv.org/abs/2609.11876v1) | ArXiv |  | 1 |
 | [On The Statistical Limits of Self-Improving Agents](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | ArXiv |  | 1 |
@@ -394,6 +401,7 @@
 | [Phantom Gains: Auditing Self-Improvement Against a Measured Null](http://arxiv.org/abs/2608.20290v1) | ArXiv |  | 1 |
 | [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](http://arxiv.org/abs/2609.15919v1) | ArXiv |  | 1 |
 | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v1) | ArXiv |  | 1 |
+| [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v2) | ArXiv |  | 1 |
 | [Planning with the Views via Scene Self-Exploration](http://arxiv.org/abs/2605.29563v2) | ArXiv |  | 1 |
 | [Plover: Steering GUI Agents through Plan-Centric Interaction](http://arxiv.org/abs/2607.15193v1) | ArXiv |  | 1 |
 | [Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning](http://arxiv.org/abs/2608.16831v1) | ArXiv |  | 1 |
@@ -558,6 +566,7 @@
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
 | [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
+| [What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence](http://arxiv.org/abs/2609.21924v1) | ArXiv |  | 1 |
 | [When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding](http://arxiv.org/abs/2608.16801v1) | ArXiv |  | 1 |
 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [When Does Belief-Based Agent Memory Help? Reliability-Conditional Updating and Provenance-Capped Poisoning Defense](http://arxiv.org/abs/2606.22030v2) | ArXiv |  | 1 |

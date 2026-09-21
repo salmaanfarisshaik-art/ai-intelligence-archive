@@ -150,3 +150,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20768v1](http://arxiv.org/abs/2609.20768v1)
 
+## Gricea: An Open Science Platform for Conversational AI Research
+- **ID**: arxiv_2609.22039v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22039v1](http://arxiv.org/abs/2609.22039v1)
+
+## Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw
+- **ID**: arxiv_2609.22067v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22067v1](http://arxiv.org/abs/2609.22067v1)
+

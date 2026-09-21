@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.09071v2",
+  "schema_version": "1.0",
+  "name": "Probability-Flow Distillation: Distribution Matching in Parameter Space",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.09071v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.09071v2",
+    "updated": "2026-09-18T17:59:26Z",
+    "published": "2026-05-09T17:27:25Z",
+    "title": "Probability-Flow Distillation: Distribution Matching in Parameter Space",
+    "summary": "Score distillation methods use pretrained diffusion models as priors for optimizing parameters through differentiable forward models, most notably in text-to-3D generation. Yet the distribution they induce over those parameters is not well understood. Observing that existing distillation methods reduce to one of three: Score Distillation Sampling (SDS), Score Distillation via Inversion (SDI), and Variational Score Distillation (VSD), we extend the particle variational inference view of VSD to the other two. We show that SDS collapses onto the modes of the target, while SDI converges to a contracted version of it, and explain why SDI needs a negative classifier-free guidance scale. Next, we observe that the DDIM posterior mean equals a single Euler step of the probability-flow ODE (PF-ODE). Replacing this step in SDI with a full reverse solve makes the target a fixed point, but it requires solving two concatenated PF-ODEs. Dropping a Jacobian from the resulting gradient gives Probability-Flow Distillation (PFD), which requires solving only the forward PF-ODE. Experiments on synthetic targets, the CelebA dataset, and text-to-3D generation support our analysis and demonstrate the practical effectiveness of PFD.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T17:59:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.09071v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

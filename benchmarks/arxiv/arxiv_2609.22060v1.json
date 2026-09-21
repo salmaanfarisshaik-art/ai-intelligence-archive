@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.22060v1",
+  "schema_version": "1.0",
+  "name": "Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.22060v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.22060v1",
+    "updated": "2026-09-18T17:52:00Z",
+    "published": "2026-09-18T17:52:00Z",
+    "title": "Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features",
+    "summary": "Traffic sign recognition (TSR) is an important perception task for autonomous driving and advanced driver-assistance systems, where a system must both localize traffic signs and determine their semantic classes efficiently. This work presents a TSR system based on YOLOv2 for simultaneous detection and classification. Two complementary modifications are studied. First, YOLOv2 is extended with intermediate prediction layers, forming a branched architecture that can terminate inference early for easy cases and reduce computation time. Both whole-image and cell-wise branching strategies are investigated. Second, geometric information is introduced to reduce classification errors between visually similar signs. An unsupervised Bayesian image-segmentation method produces binary representations that are compared with class-specific geometric templates inside YOLOv2 bounding boxes. This information is used either during inference or as an additional signal during training. A dedicated dataset is constructed by combining GTSDB and GTSRB samples using seamless cloning and controlled image transformations. Experiments cover ten traffic-sign classes, with 3,000 training and 300 test samples. The selected branched architecture reports 0.647 s runtime and 0.680 mAP, compared with 0.6607 s and 0.680 mAP for baseline YOLOv2. Geometric verification during inference increases mAP to 0.713, while the geometric-feature training variant achieves 0.697 mAP with a reported runtime of 0.6608 s.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T17:52:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.22060v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

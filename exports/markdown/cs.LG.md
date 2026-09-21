@@ -305,6 +305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.26508v2](http://arxiv.org/abs/2604.26508v2)
 
+## Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI
+- **ID**: arxiv_2605.01240v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01240v3](http://arxiv.org/abs/2605.01240v3)
+
 ## Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound
 - **ID**: arxiv_2605.02942v3
 - **Source**: ArXiv
@@ -329,6 +334,11 @@
 - **ID**: arxiv_2605.10889v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.10889v2](http://arxiv.org/abs/2605.10889v2)
+
+## Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective
+- **ID**: arxiv_2605.12969v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12969v5](http://arxiv.org/abs/2605.12969v5)
 
 ## Improving Reproducibility in Evaluation through Multi-Level Annotator Modeling
 - **ID**: arxiv_2605.13801v2
@@ -1524,4 +1534,14 @@
 - **ID**: arxiv_2609.20715v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20715v1](http://arxiv.org/abs/2609.20715v1)
+
+## Detecting Pretraining Data in Large Language Models from a Free-Energy Perspective
+- **ID**: arxiv_2609.21888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21888v1](http://arxiv.org/abs/2609.21888v1)
+
+## Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention
+- **ID**: arxiv_2609.22005v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22005v1](http://arxiv.org/abs/2609.22005v1)
 

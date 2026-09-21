@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.01240v3",
+  "schema_version": "1.0",
+  "name": "Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.01240v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.01240v3",
+    "updated": "2026-09-18T15:38:15Z",
+    "published": "2026-05-02T04:44:49Z",
+    "title": "Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI",
+    "summary": "Self-supervised pretraining is promising for large-scale neuroimaging, yet the impact of region-aware masking and hybrid sequence modeling remains underexplored. In this work, we introduce Rhamba, a region-aware pretraining framework that integrates anatomically guided masking with hybrid Attention-Mamba architectures for resting state functional magnetic resonance imaging (fMRI) analysis. Models were pretrained on the ABIDE dataset using region-aligned patch embeddings and three masking strategies (Any, Majority, and Pure) with increasing spatial specificity. We evaluated four architectural variants: a Mamba only model, an Alternate architecture with interleaved Mamba and Attention blocks, and two hybrid encoder-decoder configurations (Attention-Mamba (AM) and Mamba-Attention (MA)). The pretrained models were fine-tuned on downstream classification tasks using the COBRE and ADHD-200 datasets for schizophrenia and attention-deficit/hyperactivity disorder discrimination. We employed Integrated Gradients, an explainable AI method, to identify the brain regions contributing to model predictions. Masking strategy strongly influenced reconstruction behavior, with reconstruction loss following a consistent ordering (Any > Majority > Pure). However, this trend did not directly translate into downstream performance, where differences were modest and dataset-dependent. The hybrid architecture with the MA configuration achieved the highest average AUROC across both datasets, and Rhamba outperformed state-of-the-art methods in comparative evaluation. Region-wise analysis showed that peak performance depends on the interaction between masking strategy and architecture rather than a single dominant configuration. Overall, Rhamba offers a flexible framework for balancing interpretability, scalability, and performance in large-scale fMRI representation learning.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:38:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.01240v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

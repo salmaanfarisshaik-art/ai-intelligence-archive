@@ -1,5 +1,10 @@
 # Eess.Sp Export
 
+## Deep Learning-Enhanced Real-Time Wi-Fi Sensing Through Single Transceiver Pair
+- **ID**: arxiv_2511.02845v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.02845v3](http://arxiv.org/abs/2511.02845v3)
+
 ## High-Resolution Range Profile Classifiers Require Aspect-Angle Awareness
 - **ID**: arxiv_2603.00087v2
 - **Source**: ArXiv

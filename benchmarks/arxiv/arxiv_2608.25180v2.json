@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.25180v2",
+  "schema_version": "1.0",
+  "name": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.25180v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.25180v2",
+    "updated": "2026-09-18T15:55:01Z",
+    "published": "2026-08-25T21:54:47Z",
+    "title": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
+    "summary": "Worked examples are an important part of introductory programming, but reading their expert explanations is passive. Self explanation, students explaining the problem and its solution to themselves with subgoal level analysis, converts passive reading into an active study of worked example, yet it is hard to scale because assessing free-text explanations and returning timely feedback has had no easy automated solution. We investigate whether a large language model (LLM) can fill that gap. We build a self-explanation tutor for introductory programming, ESSE, in which students explain lines of worked examples and receive immediate LLM feedback on the correctness and completeness of each explanation, and we pursue two goals. First, we ask whether the LLM judges student explanations well enough to serve as the engine of the tutor; we assess its judgments against two independent human reference standards of different kinds, a single domain expert and a crowd of non-expert raters, each with its own strengths and weaknesses, characterizing both where the LLM is reliable and the systematic tendencies in how it diverges. Second, we ask whether the LLM-based tutoring benefits students; deploying it in an introductory Java course, we find that its feedback leads students to persist and revise rather than abandon a line, that their explanations grow more complete and conceptually richer across attempts, and that students show evidence of learning. These indicate that LLM-based assessment is good enough to power a self-explanation tutor, and that the tutor positively shapes how students study worked examples.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:55:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.25180v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

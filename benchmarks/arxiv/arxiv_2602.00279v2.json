@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.00279v2",
+  "schema_version": "1.0",
+  "name": "Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.00279v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.00279v2",
+    "updated": "2026-09-18T15:19:36Z",
+    "published": "2026-01-30T20:02:34Z",
+    "title": "Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA",
+    "summary": "Reliable uncertainty quantification (UQ) is essential for safe deployment of large language models (LLMs) in scientific question answering, where long-form outputs exceed practical human verification at scale. We introduce the first large-scale benchmark for UQ calibration in long-form, reasoning-demanding scientific QA, evaluating four UQ methods on 685,000 responses across up to 20 LLMs and seven datasets, supported by an extensible open-source framework whose shared-generation design enables reproducible cross-method comparisons. Instruction tuning is shown to associate with systematic token probability polarization, collapsing confidence distributions and undermining the reliability of token-level uncertainty signals. Reasoning model families diverge: some reproduce this polarization while others actively mitigate it, a pattern that clusters by provider and suggests training pipeline design as a key differentiating factor. Verbalized and token-aggregation sequence-level methods fail systematically. Only semantic consistency, as measured by consistency of the final answer, yields well-calibrated outputs, providing the first large-scale evidence that semantic calibration persists in multi-step, dependency-rich reasoning settings.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:19:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.00279v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

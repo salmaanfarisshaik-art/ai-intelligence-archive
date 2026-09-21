@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.22008v1",
+  "schema_version": "1.0",
+  "name": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.22008v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.22008v1",
+    "updated": "2026-09-18T17:06:44Z",
+    "published": "2026-09-18T17:06:44Z",
+    "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+    "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is central to their reliable deployment. Yet, methods that identify VLM behaviours remain scarce. We present DiaVLo, a diagnostic framework that leverages human curation and VLMs' generation capabilities to construct specifications of desired and observed VLM behaviours, surfacing potential misalignments. Beyond this, DiaVLo also provides causal estimates to identify the most influential concepts steering VLM behaviours. We evaluate DiaVLo on several open-source VLMs under both classification and generation conditions. Our experiments show that DiaVLo produces behaviour labels that correlate with model performance and provide context for measured performance. DiaVLo surfaced behaviours that are clearly aligned and misaligned, alongside patterns in how VLMs perceive, organise, and prioritise concepts.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T17:06:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.22008v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.21940v1",
+  "schema_version": "1.0",
+  "name": "AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.21940v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.21940v1",
+    "updated": "2026-09-18T15:55:29Z",
+    "published": "2026-09-18T15:55:29Z",
+    "title": "AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory",
+    "summary": "Long-term memory is essential for large language model (LLM) agents to maintain consistency and personalization over extended interactions. Existing memory systems typically rely on fixed granularities or static schemas, but these designs struggle when heterogeneous information, such as preferences, events, constraints, and temporal updates, is embedded in a single mixed representation. The resulting semantic interference makes top-K retrieval sensitive to noise and often leaves relevant evidence poorly ranked. We present AutoViewMem, a data-driven framework that organizes long-term conversational memory into self-configuring, low-overlap semantic views before indexing. AutoViewMem discovers candidate views from interaction traces, selects a compact complementary view set, and uses these views to guide write-time structured extraction of provenance-grounded memories. This representation-first design moves semantic disentanglement from retrieval time to write time, allowing standard top-K similarity search to retrieve focused evidence without explicit routing or iterative retrieval. We further apply offline consolidation to improve memory compactness and consistency. Experiments on the LoCoMo and PersonaMem benchmarks, under both Qwen3-8B and Qwen3-14B backbones, show that AutoViewMem improves long-horizon question answering and personalization over strong memory baselines while preserving a simple inference pipeline.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-21T06:07:49Z",
+  "last_updated": "2026-09-18T15:55:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.21940v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

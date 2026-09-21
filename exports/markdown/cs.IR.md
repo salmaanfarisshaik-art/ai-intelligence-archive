@@ -135,3 +135,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20131v1](http://arxiv.org/abs/2609.20131v1)
 
+## Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention
+- **ID**: arxiv_2609.22056v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22056v1](http://arxiv.org/abs/2609.22056v1)
+

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.01977v5](http://arxiv.org/abs/2403.01977v5)
 
+## AntiGrounding: Executable Robot Trajectories as Visual Prompts for VLM-Guided Manipulation
+- **ID**: arxiv_2506.12374v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.12374v4](http://arxiv.org/abs/2506.12374v4)
+
 ## Drive As You Like: Multi-Head Diffusion with Reinforcement Learning for Personalized Driving
 - **ID**: arxiv_2508.16947v2
 - **Source**: ArXiv
@@ -430,6 +435,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04096v1](http://arxiv.org/abs/2609.04096v1)
 
+## VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models
+- **ID**: arxiv_2609.04355v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04355v3](http://arxiv.org/abs/2609.04355v3)
+
 ## RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?
 - **ID**: arxiv_2609.05324v1
 - **Source**: ArXiv
@@ -544,4 +554,14 @@
 - **ID**: arxiv_2609.20822v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20822v1](http://arxiv.org/abs/2609.20822v1)
+
+## When Should a Failing Robot Ask? Initiating Corrective Human-Robot Dialogue from Audited Sensor Evidence
+- **ID**: arxiv_2609.21942v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21942v1](http://arxiv.org/abs/2609.21942v1)
+
+## GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments
+- **ID**: arxiv_2609.21948v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21948v1](http://arxiv.org/abs/2609.21948v1)
 
