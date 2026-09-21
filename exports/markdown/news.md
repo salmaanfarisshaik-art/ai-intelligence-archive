@@ -631,6 +631,11 @@
 - **URL**: [https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification](https://openai.com/index/adversarial-training-methods-for-semi-supervised-text-classification)
 
 ## 
+- **ID**: rss_https://openai.com/index/advisory-group-on-mathematics-and-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/advisory-group-on-mathematics-and-ai](https://openai.com/index/advisory-group-on-mathematics-and-ai)
+
+## 
 - **ID**: rss_https://openai.com/index/affective-use-study
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/affective-use-study](https://openai.com/index/affective-use-study)
@@ -1014,6 +1019,11 @@
 - **ID**: rss_https://openai.com/index/building-self-improving-tax-agents-with-codex
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-self-improving-tax-agents-with-codex](https://openai.com/index/building-self-improving-tax-agents-with-codex)
+
+## 
+- **ID**: rss_https://openai.com/index/building-standards-next-phase-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/building-standards-next-phase-ai](https://openai.com/index/building-standards-next-phase-ai)
 
 ## 
 - **ID**: rss_https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age
@@ -2119,6 +2129,11 @@
 - **ID**: rss_https://openai.com/index/expanding-on-sycophancy
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/expanding-on-sycophancy](https://openai.com/index/expanding-on-sycophancy)
+
+## 
+- **ID**: rss_https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/expanding-openai-academy-with-new-learning-paths](https://openai.com/index/expanding-openai-academy-with-new-learning-paths)
 
 ## 
 - **ID**: rss_https://openai.com/index/expanding-our-presence-in-brazil

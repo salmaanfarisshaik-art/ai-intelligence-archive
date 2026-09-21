@@ -644,6 +644,10 @@
 - **ID**: model_bccard_qwen3_30b_a3b_fp8_dynamic
 - **Source**: 
 
+## Beetle-FineWeb3-24B/beetle-monolingual-fineweb3-eng
+- **ID**: model_beetle_fineweb3_24b_beetle_monolingual_fineweb3_eng
+- **Source**: 
+
 ## bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4
 - **ID**: model_bg_digitalservices_gemma_4_26b_a4b_it_nvfp4
 - **Source**: 
@@ -776,6 +780,10 @@
 - **ID**: model_cactus_compute_needle2
 - **Source**: 
 
+## Cactus-Compute/needle3
+- **ID**: model_cactus_compute_needle3
+- **Source**: 
+
 ## cais/HarmBench-Llama-2-13b-cls
 - **ID**: model_cais_harmbench_llama_2_13b_cls
 - **Source**: 
@@ -830,6 +838,18 @@
 
 ## CMSManhattan/JiRackUltra_14b
 - **ID**: model_cmsmanhattan_jirackultra_14b
+- **Source**: 
+
+## CMSManhattan/JiRackUltra_1b
+- **ID**: model_cmsmanhattan_jirackultra_1b
+- **Source**: 
+
+## CMSManhattan/JiRackUltra_32b
+- **ID**: model_cmsmanhattan_jirackultra_32b
+- **Source**: 
+
+## CMSManhattan/JiRackUltra_7b
+- **ID**: model_cmsmanhattan_jirackultra_7b
 - **Source**: 
 
 ## CodeFault/Nvidia-Qwen3.6-27B-NVFP4-GGUF
@@ -1426,6 +1446,10 @@
 
 ## enfuse/smol-tools-4b-32k
 - **ID**: model_enfuse_smol_tools_4b_32k
+- **Source**: 
+
+## entrick/Security-SLM-Gemma-4-E2B-it-GGUF
+- **ID**: model_entrick_security_slm_gemma_4_e2b_it_gguf
 - **Source**: 
 
 ## erwanf/gpt2-mini
@@ -2166,6 +2190,10 @@
 
 ## janhq/Jan-v3.5-4B-gguf
 - **ID**: model_janhq_jan_v3_5_4b_gguf
+- **Source**: 
+
+## jartine/phi-2-llamafile
+- **ID**: model_jartine_phi_2_llamafile
 - **Source**: 
 
 ## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q4_K_M
@@ -3470,6 +3498,10 @@
 
 ## mudler/Qwen3.5-35B-A3B-APEX-GGUF
 - **ID**: model_mudler_qwen3_5_35b_a3b_apex_gguf
+- **Source**: 
+
+## MuXodious/gpt-oss-20b-RichardErkhov-heresy
+- **ID**: model_muxodious_gpt_oss_20b_richarderkhov_heresy
 - **Source**: 
 
 ## Myric/Laguna-S-2.1-APEX-GGUF
@@ -5402,6 +5434,10 @@
 
 ## scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10
 - **ID**: model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10
+- **Source**: 
+
+## SebastianBodza/Kartoffel_Orpheus-3B_german_natural-v0.1
+- **ID**: model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1
 - **Source**: 
 
 ## semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF

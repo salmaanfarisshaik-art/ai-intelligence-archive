@@ -1,0 +1,29 @@
+{
+  "_id": "6aa82e539c3c96bcb4e5860f",
+  "id": "FineEnvs/HF_ML_Tasksmith",
+  "author": "FineEnvs",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-14T18:19:30.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "b871fb9537d2e8b84f33f05492cdd54fa0e75704",
+  "description": "\n\n\t\n\t\t\n\t\n\t\n\t\tHF ML Tasksmith\n\t\n\nFifty PR-derived Harbor tasks from Accelerate, Diffusers, PEFT, Transformers and TRL, including CPU and GPU tasks.\nContains 50 Harbor tasks generated with the owned\ntasksmith recipe in Repo2RLEnv.\nBrowse the complete task bundles in Harbor Visualiser or\nopen the task folders. Each folder is a runnable Harbor task:\ntasks/<task_id>/\n├── task.toml                 # Harbor configuration and provenance\n├── instruction.md            # Task shown to the coding agent… See the full description on the dataset page: https://huggingface.co/datasets/FineEnvs/HF_ML_Tasksmith.",
+  "downloads": 36627,
+  "tags": [
+    "language:en",
+    "license:other",
+    "size_categories:n<1K",
+    "library:harbor",
+    "region:us",
+    "reinforcement-learning",
+    "coding",
+    "harbor",
+    "repo2rlenv",
+    "tasksmith"
+  ],
+  "createdAt": "2026-09-14T17:26:43.000Z",
+  "key": "",
+  "unique_id": "dataset_fineenvs_hf_ml_tasksmith",
+  "schema_version": "1.0"
+}
