@@ -260,6 +260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06772v2](http://arxiv.org/abs/2605.06772v2)
 
+## RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking
+- **ID**: arxiv_2605.11151v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.11151v3](http://arxiv.org/abs/2605.11151v3)
+
 ## On the Limitations of Large Language Models for Conceptual Database Modeling
 - **ID**: arxiv_2605.11986v2
 - **Source**: ArXiv
@@ -1795,6 +1800,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14522v1](http://arxiv.org/abs/2608.14522v1)
 
+## Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers
+- **ID**: arxiv_2608.14522v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14522v2](http://arxiv.org/abs/2608.14522v2)
+
 ## Handover of In-Context Learning State Across Session Boundaries
 - **ID**: arxiv_2608.14528v1
 - **Source**: ArXiv
@@ -2665,6 +2675,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.13800v2](http://arxiv.org/abs/2609.13800v2)
 
+## Are LLMs Good Financial User Simulators? Multi-view Investor Logic Alignment (MILA)
+- **ID**: arxiv_2609.15727v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.15727v2](http://arxiv.org/abs/2609.15727v2)
+
 ## When Should a World Model Move? Loss-Conditioned State Execution
 - **ID**: arxiv_2609.15801v1
 - **Source**: ArXiv
@@ -2934,4 +2949,39 @@
 - **ID**: arxiv_2609.23378v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23378v1](http://arxiv.org/abs/2609.23378v1)
+
+## Partner-Specific Affective Precision in Social Active Inference
+- **ID**: arxiv_2609.24876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24876v1](http://arxiv.org/abs/2609.24876v1)
+
+## Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models
+- **ID**: arxiv_2609.24881v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24881v1](http://arxiv.org/abs/2609.24881v1)
+
+## A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories
+- **ID**: arxiv_2609.24883v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24883v1](http://arxiv.org/abs/2609.24883v1)
+
+## BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction
+- **ID**: arxiv_2609.24921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24921v1](http://arxiv.org/abs/2609.24921v1)
+
+## Et Tu, Brute? Economic Misalignment in Personal AI Agents
+- **ID**: arxiv_2609.24927v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24927v1](http://arxiv.org/abs/2609.24927v1)
+
+## Emergent Collusion in Long-Horizon LLM Agent Interaction
+- **ID**: arxiv_2609.24967v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24967v1](http://arxiv.org/abs/2609.24967v1)
+
+## Harness-Zero: Harness Distillation via Agent-as-Harness
+- **ID**: arxiv_2609.24974v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24974v1](http://arxiv.org/abs/2609.24974v1)
 

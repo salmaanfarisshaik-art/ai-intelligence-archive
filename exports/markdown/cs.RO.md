@@ -55,6 +55,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16673v5](http://arxiv.org/abs/2603.16673v5)
 
+## Scaling Sim-to-Real VLA Reinforcement Learning with Generative 3D Worlds
+- **ID**: arxiv_2603.18532v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18532v3](http://arxiv.org/abs/2603.18532v3)
+
 ## PhyGile: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking
 - **ID**: arxiv_2603.19305v3
 - **Source**: ArXiv
@@ -149,6 +154,11 @@
 - **ID**: arxiv_2606.20491v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20491v1](http://arxiv.org/abs/2606.20491v1)
+
+## InSight: Self-Guided Skill Acquisition via Steerable VLAs
+- **ID**: arxiv_2606.24884v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.24884v2](http://arxiv.org/abs/2606.24884v2)
 
 ## Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)
 - **ID**: arxiv_2606.27163v3
@@ -259,6 +269,11 @@
 - **ID**: arxiv_2608.01035v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.01035v4](http://arxiv.org/abs/2608.01035v4)
+
+## TS-MAMP: A Remanufactured Agricultural Robot with Second-Life EV Components and NMS-Free On-Device Weed Detection
+- **ID**: arxiv_2608.02270v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02270v2](http://arxiv.org/abs/2608.02270v2)
 
 ## CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
 - **ID**: arxiv_2608.02578v1
@@ -579,4 +594,19 @@
 - **ID**: arxiv_2609.21948v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.21948v1](http://arxiv.org/abs/2609.21948v1)
+
+## SE(3) Neural Potential Fields for 6-DoF Trajectory Planning Directly from Images Without Explicit 3D Reconstruction
+- **ID**: arxiv_2609.24864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24864v1](http://arxiv.org/abs/2609.24864v1)
+
+## Visuomotor Robotic Pruning in Planar Orchards Using Hybrid Reinforcement Learning
+- **ID**: arxiv_2609.24906v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24906v1](http://arxiv.org/abs/2609.24906v1)
+
+## DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation
+- **ID**: arxiv_2609.24976v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24976v1](http://arxiv.org/abs/2609.24976v1)
 

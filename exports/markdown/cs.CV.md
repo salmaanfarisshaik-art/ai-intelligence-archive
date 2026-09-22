@@ -415,6 +415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.16978v2](http://arxiv.org/abs/2512.16978v2)
 
+## YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs
+- **ID**: arxiv_2512.18046v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.18046v3](http://arxiv.org/abs/2512.18046v3)
+
 ## Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
 - **ID**: arxiv_2512.23709v3
 - **Source**: ArXiv
@@ -4005,6 +4010,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05416v1](http://arxiv.org/abs/2609.05416v1)
 
+## DroneGround: Open-Vocabulary Drone Payload Characterization Using Synthetic Data and Grounded Vision-Language Models
+- **ID**: arxiv_2609.07780v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.07780v2](http://arxiv.org/abs/2609.07780v2)
+
 ## "World Knowledge" in the Weights: Reading Concept Circuits of Vision Transformers
 - **ID**: arxiv_2609.09055v1
 - **Source**: ArXiv
@@ -4524,4 +4534,54 @@
 - **ID**: arxiv_2609.23386v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23386v1](http://arxiv.org/abs/2609.23386v1)
+
+## DTKDP: A Dual Teacher Knowledge Distillation and Pruning Framework for Lightweight Oriented SAR Ship Detection
+- **ID**: arxiv_2609.24872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24872v1](http://arxiv.org/abs/2609.24872v1)
+
+## SPHQuant: Efficient extreme low bit weight quantization for Vision-Language Models
+- **ID**: arxiv_2609.24875v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24875v1](http://arxiv.org/abs/2609.24875v1)
+
+## Generating Chest X-Ray Counterfactuals by Specialising Foundation Image Models
+- **ID**: arxiv_2609.24879v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24879v1](http://arxiv.org/abs/2609.24879v1)
+
+## SLICEChat: Progressive In-Encoder Token Pruning for Whole-Slide Pathology Language Models
+- **ID**: arxiv_2609.24894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24894v1](http://arxiv.org/abs/2609.24894v1)
+
+## PixelDiT2: Representation-Grounded Pixel Diffusion Transformers
+- **ID**: arxiv_2609.24919v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24919v1](http://arxiv.org/abs/2609.24919v1)
+
+## Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs
+- **ID**: arxiv_2609.24937v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24937v1](http://arxiv.org/abs/2609.24937v1)
+
+## GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
+- **ID**: arxiv_2609.24981v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24981v1](http://arxiv.org/abs/2609.24981v1)
+
+## WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
+- **ID**: arxiv_2609.24984v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24984v1](http://arxiv.org/abs/2609.24984v1)
+
+## VideoGen-Agent: Reinforcing Video Generation Agents
+- **ID**: arxiv_2609.24997v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24997v1](http://arxiv.org/abs/2609.24997v1)
+
+## GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
+- **ID**: arxiv_2609.25001v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.25001v1](http://arxiv.org/abs/2609.25001v1)
 

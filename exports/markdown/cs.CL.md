@@ -150,6 +150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.19212v2](http://arxiv.org/abs/2509.19212v2)
 
+## What Is The Political Content in LLMs' Pre- and Post-Training Data?
+- **ID**: arxiv_2509.22367v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.22367v3](http://arxiv.org/abs/2509.22367v3)
+
 ## Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
 - **ID**: arxiv_2509.25045v3
 - **Source**: ArXiv
@@ -289,6 +294,11 @@
 - **ID**: arxiv_2602.00279v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.00279v2](http://arxiv.org/abs/2602.00279v2)
+
+## The Role of Dataset Linguistic Structure in the Cultural Awareness of Large Language Models
+- **ID**: arxiv_2602.01161v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.01161v2](http://arxiv.org/abs/2602.01161v2)
 
 ## Modular Expert Merging for Biomedical Retrieval
 - **ID**: arxiv_2602.04731v3
@@ -544,6 +554,11 @@
 - **ID**: arxiv_2604.27846v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27846v2](http://arxiv.org/abs/2604.27846v2)
+
+## ReLay: Personalized LLM-Generated Plain-Language Summaries for Better Understanding, but at What Cost?
+- **ID**: arxiv_2605.00468v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00468v2](http://arxiv.org/abs/2605.00468v2)
 
 ## When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models
 - **ID**: arxiv_2605.00817v4
@@ -3079,4 +3094,54 @@
 - **ID**: arxiv_2609.23371v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23371v1](http://arxiv.org/abs/2609.23371v1)
+
+## Decomposing Error and Style in Automated Clinical Coding
+- **ID**: arxiv_2609.24877v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24877v1](http://arxiv.org/abs/2609.24877v1)
+
+## The Copy Ceiling: An Input-Exposure Control for Ontology-Grounded Generation over Curated Corpora
+- **ID**: arxiv_2609.24885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24885v1](http://arxiv.org/abs/2609.24885v1)
+
+## OSWorld-Pro: Process-based Evaluation for Computer Use Agents
+- **ID**: arxiv_2609.24890v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24890v1](http://arxiv.org/abs/2609.24890v1)
+
+## Human-LLM Deliberation as Interactive Proof: Conditions for Verifiability Without Transparency
+- **ID**: arxiv_2609.24895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24895v1](http://arxiv.org/abs/2609.24895v1)
+
+## ToneCL: Contrastive Learning for Few-Shot Syllable-Level Tone Classification
+- **ID**: arxiv_2609.24903v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24903v1](http://arxiv.org/abs/2609.24903v1)
+
+## SocioVerse2: A Longitudinal Dynamic Social Simulation Framework under a Human-AI Co-evolutionary Paradigm
+- **ID**: arxiv_2609.24911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24911v1](http://arxiv.org/abs/2609.24911v1)
+
+## Linguistic Features for Interpretable Textual Entailment
+- **ID**: arxiv_2609.24932v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24932v1](http://arxiv.org/abs/2609.24932v1)
+
+## Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences
+- **ID**: arxiv_2609.24965v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24965v1](http://arxiv.org/abs/2609.24965v1)
+
+## DolphinBench: Mapping the Pareto Frontier of Agent Memory
+- **ID**: arxiv_2609.24971v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24971v1](http://arxiv.org/abs/2609.24971v1)
+
+## onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction
+- **ID**: arxiv_2609.24983v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24983v1](http://arxiv.org/abs/2609.24983v1)
 

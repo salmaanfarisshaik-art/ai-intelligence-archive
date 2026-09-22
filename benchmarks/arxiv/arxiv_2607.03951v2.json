@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.03951v2",
+  "schema_version": "1.0",
+  "name": "Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.03951v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.03951v2",
+    "updated": "2026-09-21T17:08:00Z",
+    "published": "2026-07-04T16:53:39Z",
+    "title": "Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python",
+    "summary": "The reproducibility crisis in scientific research has received widespread recognition, thereby increasing the importance of meta-analyses that integrate statistical analyses from multiple studies. However, statistical methods often have ambiguous and implicit underlying assumptions, which can lead to their erroneous applications and interpretations. To address this issue, we propose a formal verification framework for statistical Python programs. Specifically, we present Why3-py, a Python front-end for the Why3 verification platform that transforms Python code into verification-oriented WhyML representations, addressing the challenges arising from Python's dynamic typing and runtime polymorphism. Furthermore, we extend the StatWhy tool to support the verification of meta-analysis methods. These tools enable meta-analysts to identify overlooked assumptions and misuse of analyses, and to verify the correct use of hypothesis testing and meta-analysis methods in Python code.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-09-22T07:19:27Z",
+  "last_updated": "2026-09-21T17:08:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.03951v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

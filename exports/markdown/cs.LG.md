@@ -310,6 +310,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.01240v3](http://arxiv.org/abs/2605.01240v3)
 
+## Probe-Geometry Alignment: Erasing the Cross-Sequence Memorization Signature Below Chance
+- **ID**: arxiv_2605.01699v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01699v4](http://arxiv.org/abs/2605.01699v4)
+
 ## Intersectional Disentangling of Temporal and Acquisition Bias in Fetal Ultrasound
 - **ID**: arxiv_2605.02942v3
 - **Source**: ArXiv
@@ -1574,4 +1579,24 @@
 - **ID**: arxiv_2609.23387v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23387v1](http://arxiv.org/abs/2609.23387v1)
+
+## Exactness at Inference: A Representational Criterion for Out-of-Distribution Generalization
+- **ID**: arxiv_2609.24942v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24942v1](http://arxiv.org/abs/2609.24942v1)
+
+## Rare Event Estimation via Iterative Unalignment
+- **ID**: arxiv_2609.24969v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24969v1](http://arxiv.org/abs/2609.24969v1)
+
+## RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+- **ID**: arxiv_2609.24972v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24972v1](http://arxiv.org/abs/2609.24972v1)
+
+## Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use
+- **ID**: arxiv_2609.24985v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24985v1](http://arxiv.org/abs/2609.24985v1)
 

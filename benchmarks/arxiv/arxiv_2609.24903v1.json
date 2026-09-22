@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.24903v1",
+  "schema_version": "1.0",
+  "name": "ToneCL: Contrastive Learning for Few-Shot Syllable-Level Tone Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.24903v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.24903v1",
+    "updated": "2026-09-21T17:09:21Z",
+    "published": "2026-09-21T17:09:21Z",
+    "title": "ToneCL: Contrastive Learning for Few-Shot Syllable-Level Tone Classification",
+    "summary": "Tone languages constitute over 50-70% of the world's languages, but the vast majority are low-resource, lacking the large transcribed corpora needed for automatic tone classification. Existing datasets are typically collected at the sentence level, whereas field linguists require fine-grained syllable-level annotations. We propose ToneCL, a lightweight contrastive learning framework for few-shot syllable-level tone classification. We simulate low-resource conditions on Mandarin and Vietnamese, limiting labeled data to tens of examples per tone class. ToneCL is pretrained on unlabeled speech with augmentations that preserve tonal identity, then fine-tuned on few-shot examples. Experiments show our method consistently outperforms baselines, achieving 91.6% on six-speaker Mandarin at 10 shots. Cross-lingual transfer is also effective: pretraining on Vietnamese and fine-tuning on Mandarin reaches 91.0\\% accuracy at 10 shots. Ablation confirms that frequency band rejection is the most critical augmentation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T07:19:27Z",
+  "last_updated": "2026-09-21T17:09:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.24903v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

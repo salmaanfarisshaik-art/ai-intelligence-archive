@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.24884v2",
+  "schema_version": "1.0",
+  "name": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.24884v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.24884v2",
+    "updated": "2026-09-21T17:38:10Z",
+    "published": "2026-06-23T17:59:01Z",
+    "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+    "summary": "Vision-language-action (VLA) models excel at robot manipulation via imitation learning, but adapting them to new tasks often requires additional human demonstrations, which can be costly or infeasible. Meanwhile, vision-language models (VLMs) offer semantic task understanding but lack the physical grounding required for execution. To bridge this gap, we present InSight, a framework for self-guided skill acquisition that uses a VLM to identify primitives missing from a VLA's repertoire, grounds the VLM's proposals through robot execution, and distills new primitives from successful rollouts into the VLA. Primitive steerability, the ability to execute and terminate primitives on command, enables the robot to reuse known primitives while collecting training data for missing primitives without requiring full-task human demonstrations for each new task. InSight has two stages: (1) a VLM automatically segments existing demonstrations into primitive-labeled trajectories to fine-tune a primitive-steerable VLA, and (2) the VLM plans a sequence of known primitives executed by the VLA and new primitives attempted by VLM-parameterized low-level controllers. New-primitive segments from successful task rollouts are added to the training data, and the VLA is retrained. The adapted VLA can then reliably execute new skills using the acquired primitives, without per-primitive VLM calls. We evaluate InSight on six simulated and real-world tasks with no human demonstrations of target skills, including block flipping, drawer closing, sweeping, twisting, and pouring. On hardware, acquired twisting and pouring skills achieve 92% and 96% success, versus 32% and 16% for a zero-shot CaP-X baseline. Composing both skills into a 14-primitive task achieves 80% success with no combined-task demonstrations. Project website: https://insight-vla.github.io/ .",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-22T07:19:27Z",
+  "last_updated": "2026-09-21T17:38:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.24884v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

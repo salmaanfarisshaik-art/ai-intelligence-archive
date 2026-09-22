@@ -60,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.29538v4](http://arxiv.org/abs/2606.29538v4)
 
+## Why3-py: A Tool for Formal Verification of Hypothesis Testing and Meta-Analysis in Python
+- **ID**: arxiv_2607.03951v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.03951v2](http://arxiv.org/abs/2607.03951v2)
+
 ## Early Adoption of Agentic Coding Tools by GitHub Projects
 - **ID**: arxiv_2607.14037v2
 - **Source**: ArXiv
@@ -254,6 +259,16 @@
 - **ID**: arxiv_2609.20812v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20812v1](http://arxiv.org/abs/2609.20812v1)
+
+## Quantifying Overclaiming Propensity in Frontier LLM Agents
+- **ID**: arxiv_2609.20812v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20812v2](http://arxiv.org/abs/2609.20812v2)
+
+## GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions
+- **ID**: arxiv_2609.21562v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21562v2](http://arxiv.org/abs/2609.21562v2)
 
 ## One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
 - **ID**: arxiv_2609.23377v1

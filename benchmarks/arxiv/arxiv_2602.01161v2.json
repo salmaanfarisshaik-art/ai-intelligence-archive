@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.01161v2",
+  "schema_version": "1.0",
+  "name": "The Role of Dataset Linguistic Structure in the Cultural Awareness of Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.01161v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.01161v2",
+    "updated": "2026-09-21T16:57:23Z",
+    "published": "2026-02-01T11:21:30Z",
+    "title": "The Role of Dataset Linguistic Structure in the Cultural Awareness of Large Language Models",
+    "summary": "The global deployment of large language models (LLMs) has raised concerns about cultural misalignment, yet the linguistic properties of fine-tuning datasets used for cultural adaptation remain poorly understood. We adopt a dataset-centric view of cultural alignment and investigate which properties of post-training data are associated with cultural performance, whether they can guide data selection before fine-tuning, and how their effects vary across languages and model families. We compute lightweight linguistic, semantic, and structural metrics for Arabic, Chinese, and Japanese datasets and apply principal component analysis (PCA) separately within each language. The resulting components form broadly interpretable axes: PC1 is generally dominated by semantic structure, PC2 captures diversity and lexical variation, and PC3 reflects more language-specific organization. We fine-tune LLaMA, Mistral, and DeepSeek models and evaluate them on benchmarks of cultural knowledge, values, and norms. Although the PCA-derived dataset descriptors are associated with downstream performance, the strongest relationships vary across models, benchmarks, and languages, indicating that no single component serves as a universal predictor. Controlled, size-matched subset interventions further show that PCA-guided selection can improve cultural performance when the relevant component and direction are validated against random sampling. PC3 provides the strongest signal for Arabic, while High-PC1 is most effective for Japanese, particularly for LLaMA. Chinese results are weaker and more model-specific and remain exploratory because of smaller subset sizes. Overall, our findings show that lightweight dataset descriptors can support pre-training data diagnostics, but effective cultural adaptation requires language- and architecture-aware selection rather than a universal linguistic criterion.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T07:19:27Z",
+  "last_updated": "2026-09-21T16:57:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.01161v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

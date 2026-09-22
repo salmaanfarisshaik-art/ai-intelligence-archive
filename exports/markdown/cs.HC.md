@@ -160,3 +160,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22067v1](http://arxiv.org/abs/2609.22067v1)
 
+## Generative Tutorial: Towards Live Contextualized Visual Instructions for Physical Tasks
+- **ID**: arxiv_2609.24955v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24955v1](http://arxiv.org/abs/2609.24955v1)
+

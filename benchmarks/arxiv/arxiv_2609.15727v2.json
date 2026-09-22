@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.15727v2",
+  "schema_version": "1.0",
+  "name": "Are LLMs Good Financial User Simulators? Multi-view Investor Logic Alignment (MILA)",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.15727v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.15727v2",
+    "updated": "2026-09-21T16:54:21Z",
+    "published": "2026-09-14T15:23:26Z",
+    "title": "Are LLMs Good Financial User Simulators? Multi-view Investor Logic Alignment (MILA)",
+    "summary": "Large language models (LLMs) are increasingly used as user simulators, yet it remains unclear whether their predictions faithfully reproduce the evolving decisions of individual users. We investigate this question in a controlled longitudinal paper-trading study with 80 participants, where user interactions, simulated transactions, virtual portfolio states, and point-in-time market information are aligned under a rolling next-day prediction protocol. We evaluate behavioral fidelity hierarchically, from trade occurrence to action structure, asset selection, and downstream portfolio consequences.\n  Across 1,239 aligned user-days, no evaluated LLM reliably outperforms a simple recent-activity persistence baseline for predicting whether a user trades. Fidelity further deteriorates at finer levels: models struggle to recover buy--sell structure and traded assets, and similar activity-level predictions can lead to substantially different portfolio trajectories. Controlled evidence ablations show that recent trading history strongly governs activity prediction, whereas asset selection is substantially more sensitive to the available evidence. An observational analysis further finds that intensified ticker-specific research predicts imminent trading, but diagnostic tests do not support a causal interpretation. These findings suggest that current LLMs capture useful short-term behavioral regularities without yet recovering a stable individual decision mechanism.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-22T07:19:27Z",
+  "last_updated": "2026-09-21T16:54:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.15727v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
