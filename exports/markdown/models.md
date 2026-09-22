@@ -176,6 +176,10 @@
 - **ID**: model_allenai_olmo_3_1_32b_instruct
 - **Source**: 
 
+## allenai/Olmo-3-32B-Think-SFT
+- **ID**: model_allenai_olmo_3_32b_think_sft
+- **Source**: 
+
 ## allenai/Olmo-3-7B-Instruct
 - **ID**: model_allenai_olmo_3_7b_instruct
 - **Source**: 
@@ -402,6 +406,10 @@
 
 ## baidu/ERNIE-4.5-21B-A3B-PT
 - **ID**: model_baidu_ernie_4_5_21b_a3b_pt
+- **Source**: 
+
+## baidu/ERNIE-4.5-21B-A3B-Thinking
+- **ID**: model_baidu_ernie_4_5_21b_a3b_thinking
 - **Source**: 
 
 ## bartowski/allenai_Olmo-3.1-32B-Think-GGUF
@@ -648,6 +656,10 @@
 - **ID**: model_beetle_fineweb3_24b_beetle_monolingual_fineweb3_eng
 - **Source**: 
 
+## Beetle-HumanScale/beetle-monolingual-humanscale-eng
+- **ID**: model_beetle_humanscale_beetle_monolingual_humanscale_eng
+- **Source**: 
+
 ## bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4
 - **ID**: model_bg_digitalservices_gemma_4_26b_a4b_it_nvfp4
 - **Source**: 
@@ -834,6 +846,10 @@
 
 ## chbae624/vllm-translategemma-12b-it
 - **ID**: model_chbae624_vllm_translategemma_12b_it
+- **Source**: 
+
+## CMSManhattan/JiRackDeltaNet_27b
+- **ID**: model_cmsmanhattan_jirackdeltanet_27b
 - **Source**: 
 
 ## CMSManhattan/JiRackUltra_14b
@@ -4404,6 +4420,10 @@
 - **ID**: model_prism_ml_ternary_bonsai_2_27b_gguf
 - **Source**: 
 
+## prism-ml/Ternary-Bonsai-2-27B-mlx-2bit
+- **ID**: model_prism_ml_ternary_bonsai_2_27b_mlx_2bit
+- **Source**: 
+
 ## prism-ml/Ternary-Bonsai-8B-gguf
 - **ID**: model_prism_ml_ternary_bonsai_8b_gguf
 - **Source**: 
@@ -5438,6 +5458,10 @@
 
 ## SebastianBodza/Kartoffel_Orpheus-3B_german_natural-v0.1
 - **ID**: model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1
+- **Source**: 
+
+## Sedibaai/SedibaLM
+- **ID**: model_sedibaai_sedibalm
 - **Source**: 
 
 ## semparuthiveeran/VibeThinker-3B-Q4_K_M-GGUF
@@ -6498,6 +6522,10 @@
 
 ## upstage/solar-pro-preview-instruct
 - **ID**: model_upstage_solar_pro_preview_instruct
+- **Source**: 
+
+## utter-project/EuroLLM-1.7B-Instruct
+- **ID**: model_utter_project_eurollm_1_7b_instruct
 - **Source**: 
 
 ## utter-project/EuroLLM-22B-Instruct-2512

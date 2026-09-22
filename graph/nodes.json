@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T13:06:56.206935+00:00",
+  "generated_at": "2026-09-22T17:57:46.319824+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -122285,6 +122285,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_evaleval_eee_datastore",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_evalplus_humanevalplus",
       "label": ""
     },
@@ -123190,6 +123195,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_hothan_olympiadbench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_hotpotqa_hotpot_qa",
       "label": ""
     },
@@ -123296,6 +123306,11 @@
     {
       "category": "datasets",
       "id": "dataset_huggingfacefw_finephrase",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_huggingfacefw_finetranslations",
       "label": ""
     },
     {
@@ -126485,6 +126500,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_meigen_ai_genevolve_data_bench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_meihualuomanxueshan_processed_interiorverse",
       "label": ""
     },
@@ -128285,6 +128305,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_robeedau_airlens_live",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_robodojo_benchmark_robodojo",
       "label": ""
     },
@@ -129536,6 +129561,11 @@
     {
       "category": "datasets",
       "id": "dataset_vibrantlabsai_amnesty_qa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_vid_modeling_videomme",
       "label": ""
     },
     {
@@ -141885,6 +141915,11 @@
     },
     {
       "category": "models",
+      "id": "model_allenai_olmo_3_32b_think_sft",
+      "label": "allenai/Olmo-3-32B-Think-SFT"
+    },
+    {
+      "category": "models",
       "id": "model_allenai_olmo_3_7b_instruct",
       "label": "allenai/Olmo-3-7B-Instruct"
     },
@@ -142167,6 +142202,11 @@
       "category": "models",
       "id": "model_baidu_ernie_4_5_21b_a3b_pt",
       "label": "baidu/ERNIE-4.5-21B-A3B-PT"
+    },
+    {
+      "category": "models",
+      "id": "model_baidu_ernie_4_5_21b_a3b_thinking",
+      "label": "baidu/ERNIE-4.5-21B-A3B-Thinking"
     },
     {
       "category": "models",
@@ -142475,6 +142515,11 @@
     },
     {
       "category": "models",
+      "id": "model_beetle_humanscale_beetle_monolingual_humanscale_eng",
+      "label": "Beetle-HumanScale/beetle-monolingual-humanscale-eng"
+    },
+    {
+      "category": "models",
       "id": "model_bg_digitalservices_gemma_4_26b_a4b_it_nvfp4",
       "label": "bg-digitalservices/Gemma-4-26B-A4B-it-NVFP4"
     },
@@ -142707,6 +142752,11 @@
       "category": "models",
       "id": "model_chbae624_vllm_translategemma_12b_it",
       "label": "chbae624/vllm-translategemma-12b-it"
+    },
+    {
+      "category": "models",
+      "id": "model_cmsmanhattan_jirackdeltanet_27b",
+      "label": "CMSManhattan/JiRackDeltaNet_27b"
     },
     {
       "category": "models",
@@ -147170,6 +147220,11 @@
     },
     {
       "category": "models",
+      "id": "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
+      "label": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit"
+    },
+    {
+      "category": "models",
       "id": "model_prism_ml_ternary_bonsai_8b_gguf",
       "label": "prism-ml/Ternary-Bonsai-8B-gguf"
     },
@@ -148462,6 +148517,11 @@
       "category": "models",
       "id": "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1",
       "label": "SebastianBodza/Kartoffel_Orpheus-3B_german_natural-v0.1"
+    },
+    {
+      "category": "models",
+      "id": "model_sedibaai_sedibalm",
+      "label": "Sedibaai/SedibaLM"
     },
     {
       "category": "models",
@@ -149787,6 +149847,11 @@
       "category": "models",
       "id": "model_upstage_solar_pro_preview_instruct",
       "label": "upstage/solar-pro-preview-instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_utter_project_eurollm_1_7b_instruct",
+      "label": "utter-project/EuroLLM-1.7B-Instruct"
     },
     {
       "category": "models",
@@ -291151,6 +291216,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/previewing-ultrafast",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/priorities-principles-third-party-assessments",
       "label": ""
     },
     {
@@ -447515,5 +447585,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 89502
+  "total_nodes": 89516
 }

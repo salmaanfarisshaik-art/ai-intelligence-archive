@@ -1613,6 +1613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_evaleval_eee_datastore
+- **Source**: 
+
+## 
 - **ID**: dataset_evalplus_humanevalplus
 - **Source**: 
 
@@ -2337,6 +2341,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hothan_olympiadbench
+- **Source**: 
+
+## 
 - **ID**: dataset_hotpotqa_hotpot_qa
 - **Source**: 
 
@@ -2422,6 +2430,10 @@
 
 ## 
 - **ID**: dataset_huggingfacefw_finephrase
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfacefw_finetranslations
 - **Source**: 
 
 ## 
@@ -4973,6 +4985,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_meigen_ai_genevolve_data_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_meihualuomanxueshan_processed_interiorverse
 - **Source**: 
 
@@ -6413,6 +6429,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_robeedau_airlens_live
+- **Source**: 
+
+## 
 - **ID**: dataset_robodojo_benchmark_robodojo
 - **Source**: 
 
@@ -7414,6 +7434,10 @@
 
 ## 
 - **ID**: dataset_vibrantlabsai_amnesty_qa
+- **Source**: 
+
+## 
+- **ID**: dataset_vid_modeling_videomme
 - **Source**: 
 
 ## 

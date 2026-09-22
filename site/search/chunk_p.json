@@ -13667,11 +13667,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_scaleai_swe_bench_pro",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_sensenova_sensenova_vision_corpus_50m",
       "match_type": "exact",
       "score": 1.5
@@ -24428,11 +24423,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_scaleai_swe_bench_pro",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_seacrowd_mammoth_vl_sea_shard_3",
       "match_type": "exact",
       "score": 1.5
@@ -24494,6 +24484,11 @@
     },
     {
       "entity_id": "dataset_stanfordnlp_sst2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -30785,6 +30780,11 @@
     },
     {
       "entity_id": "alpaca_9153763537586419560",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/priorities-principles-third-party-assessments",
       "match_type": "exact",
       "score": 3.0
     },
@@ -111746,6 +111746,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 1.5
@@ -111832,11 +111837,6 @@
     },
     {
       "entity_id": "dataset_saylortwift_bbh",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_scaleai_swe_bench_pro",
       "match_type": "exact",
       "score": 1.5
     },
@@ -111947,6 +111947,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -162628,6 +162633,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/priorities-principles-third-party-assessments",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-2234569966069599879",
       "match_type": "exact",
       "score": 2.0
@@ -164733,6 +164743,11 @@
     }
   ],
   "priorities": [
+    {
+      "entity_id": "rss_https://openai.com/index/priorities-principles-third-party-assessments",
+      "match_type": "exact",
+      "score": 3.0
+    },
     {
       "entity_id": "alpaca_1640100546958999956",
       "match_type": "exact",
