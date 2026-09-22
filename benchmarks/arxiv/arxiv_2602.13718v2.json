@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.13718v2",
+  "schema_version": "1.0",
+  "name": "HybridFlow: A 2-NFE Generative Policy for Real-Time Robotic Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.13718v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.13718v2",
+    "updated": "2026-09-20T02:34:56Z",
+    "published": "2026-02-14T10:50:23Z",
+    "title": "HybridFlow: A 2-NFE Generative Policy for Real-Time Robotic Manipulation",
+    "summary": "Generative policies for robotic manipulation must balance action accuracy with inference latency. We present HybridFlow, a three-stage policy inference procedure requiring two network function evaluations (2-NFE). A Global Jump uses the MeanFlow average velocity to generate a coarse action trajectory; a parameter-free ReNoise interpolation constructs a state at a nonzero refinement time; and a Local Refine queries the instantaneous-velocity limit of the same network at that time. This construction reuses a unified model without distillation. Our analysis characterizes interval-composition errors and the attenuation of endpoint error under ReNoise interpolation. Controlled RoboMimic ablations support the MeanFlow proposal and intermediate-state construction, achieving 95% average success with reused noise and 95.5% with fresh noise, versus 78% for one-step MeanFlow. Across five real-robot settings with all policies running on the same Jetson AGX Thor, HybridFlow improves normalized task performance over 16-step Diffusion Policy by 13-68 points with approximately eightfold lower action-generation latency. Additional experiments demonstrate its compatibility as an action expert in a vision-language-action framework. Project page: https://hybridflow-anonymous.pages.dev/",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T02:34:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.13718v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

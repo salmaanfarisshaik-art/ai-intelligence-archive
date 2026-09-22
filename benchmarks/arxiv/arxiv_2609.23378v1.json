@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23378v1",
+  "schema_version": "1.0",
+  "name": "Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23378v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23378v1",
+    "updated": "2026-09-20T05:59:33Z",
+    "published": "2026-09-20T05:59:33Z",
+    "title": "Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting",
+    "summary": "We introduce leaky-integrator reconstruction, a training-free method that cures the error accumulation of recursive differenced forecasting. Our first contribution is diagnostic: predicting one-step changes and integrating them by cumulative summation, the standard remedy for non-stationarity, is a discrete integrator with a pole on the unit circle, and we show this makes recursive rollout of a nonlinear model diverge, its 336-step error reaching several times that of a well-behaved forecaster (normalised MAE 1.6-3.8 versus about 0.8) across every neural architecture tested. Our second, central contribution is the fix: move the pole inside the unit circle with a leaky integrator H(z) = 1/(1 - gamma z^-1), gamma < 1, which provably bounds the accumulated error variance. Applied at reconstruction time with a single fixed gamma=0.9 (no retraining, a two-line change to any deployed one-step or foundation-model forecaster), it shrinks error at every horizon, the mean gain over seven diverging architectures and twenty datasets growing from ~3% at H=24 to 23% at H=96, 37% at H=192 and 51% (43-74% across those architectures) at H=336 (78% with an oracle pole). Crucially, it is provably inert where no pathology exists (stable or joint predictors already at the irreducible rate), making it a safe, general default.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T05:59:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23378v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

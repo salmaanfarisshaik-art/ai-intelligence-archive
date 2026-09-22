@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.27163v3",
+  "schema_version": "1.0",
+  "name": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.27163v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.27163v3",
+    "updated": "2026-09-20T05:50:48Z",
+    "published": "2026-06-25T15:31:23Z",
+    "title": "Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)",
+    "summary": "I describe my solution to the LeHome Challenge 2026, an ICRA 2026 competition on bimanual garment folding. The system placed 1st of 62 teams in the online (simulation) round and 2nd in the real-world final. It improves a vision-language-action (VLA) policy with a reinforcement-learning loop. The policy is its own value function: the same network that predicts actions also predicts success, progress, and a few task-relevant future quantities, and those predictions drive advantage estimation, live failure detection, and candidate selection. The work mostly recombines existing RL ideas with engineering and optimization contributions that can be used together as one recipe or individually: AWR + RECAP combined for flow-matching VLA; an asynchronous distributed training / rollout pipeline through HuggingFace Hub; inference-time hyperparameters optimization via Thompson sampling; a sim-to-real recipe with camera-alignment tooling, heavy augmentation and DAgger-like HIL data collection.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T05:50:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.27163v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

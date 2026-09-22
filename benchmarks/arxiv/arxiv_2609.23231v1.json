@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23231v1",
+  "schema_version": "1.0",
+  "name": "ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23231v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23231v1",
+    "updated": "2026-09-19T22:18:58Z",
+    "published": "2026-09-19T22:18:58Z",
+    "title": "ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents",
+    "summary": "Cross-lingual information retrieval (CLIR) is increasingly important in multi-national industries, where critical technical evidence may exist in a different language than the query. However, existing benchmarks do not adequately capture domain-specific cross-lingual retrieval or the retrieval-depth and recoverability failures that aggregate recall hides.\n  In this work, we benchmark CLIR in the chemical domain, with a focus on patent data. We construct a multilingual dataset from Google Patents and the European Patent Office (EPO) data, spanning five languages (covering major Eastern and Western languages) and reflecting the diversity and complexity of real-world industrial documentation.\n  Using this dataset, we systematically evaluate eight state-of-the-art embedding models for cross-lingual retrieval. Our results show a substantial performance gap between monolingual and cross-lingual settings: for the best-performing model, Recall@10 drops from 0.72 to 0.53 in cross-lingual setting. Retrieval depth also degrades significantly, with relevant documents ranked lower across languages in cross-lingual scenarios. Furthermore, some multilingual embedding models that perform strongly in monolingual settings exhibit sharp declines when queries and documents are in different languages, providing practical insights for model selection in cross-lingual use cases.\n  These findings highlight critical limitations of current approaches and emphasize the need for more robust cross-lingual retrieval methods in domain-specific settings. Our benchmark provides actionable insights for model selection and establishes a controlled diagnostic evaluation framework for CLIR over industrial technical text. Data and code are publicly available at https://github.com/MohammadKhodadad/Multi-Lingual-QAC.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-19T22:18:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23231v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

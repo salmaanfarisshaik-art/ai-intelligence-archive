@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.12551v2",
+  "schema_version": "1.0",
+  "name": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.12551v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.12551v2",
+    "updated": "2026-09-20T01:09:07Z",
+    "published": "2026-09-11T07:57:28Z",
+    "title": "RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems",
+    "summary": "AI is beginning to make substantive contributions to LLM inference optimization. Existing AI optimizations are predominantly profiling-based. Profiling-bound feedback confines the search to the capabilities and performance of an existing software stack, preventing a fundamentally better architecture of LLM inference systems from being identified. To enable the AI-driven LLM inference system architecting loop, we argue that a general workload representation, a verifiable mutation space, and an implementation-independent evaluator are required. We present the RoofLang domain-specific language (DSL) that provides these features. In our evaluation, RoofLang reveals that DeepSeek V4-series models could achieve 3.5-39.5$\\times$ higher peak decode throughput than other representative models. This gap is disproportionate to their total parameter counts and arises largely from compact KV-cache designs that support larger batches and reduce memory traffic. A persistent optimizer agent further discovered several new architectures that improved both throughput and interactivity of DeepSeek V4 Pro on NVIDIA B300 by 6.23-50.1%.",
+    "primary_category": "cs.DC"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T01:09:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.12551v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

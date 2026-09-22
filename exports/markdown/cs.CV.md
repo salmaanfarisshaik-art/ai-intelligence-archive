@@ -1235,6 +1235,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.23835v3](http://arxiv.org/abs/2606.23835v3)
 
+## Independent Samples, Correlated Variance A Learnable Cross-View Cue in Path-Traced Stereo Data
+- **ID**: arxiv_2606.25483v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.25483v2](http://arxiv.org/abs/2606.25483v2)
+
 ## SCoPE: Sightline-Coordinate Positional Encoding for Video Diffusion Transformers
 - **ID**: arxiv_2606.27345v3
 - **Source**: ArXiv
@@ -4065,6 +4070,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10469v1](http://arxiv.org/abs/2609.10469v1)
 
+## AgroVisNet: A lightweight Convolutional Network and the BD-PlantDX Expert-Validated Benchmark for Radish, Potato and Pointed Gourd Disease Classification
+- **ID**: arxiv_2609.10469v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.10469v2](http://arxiv.org/abs/2609.10469v2)
+
 ## Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
 - **ID**: arxiv_2609.10489v1
 - **Source**: ArXiv
@@ -4134,6 +4144,16 @@
 - **ID**: arxiv_2609.12431v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.12431v2](http://arxiv.org/abs/2609.12431v2)
+
+## LG-PF: Lightweight Confidence-Guided Polarization Image Fusion
+- **ID**: arxiv_2609.12787v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12787v2](http://arxiv.org/abs/2609.12787v2)
+
+## LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection
+- **ID**: arxiv_2609.12798v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12798v2](http://arxiv.org/abs/2609.12798v2)
 
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
@@ -4245,6 +4265,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17521v1](http://arxiv.org/abs/2609.17521v1)
 
+## CSWAM: Better Causal Semantic Representations for Out-of-Distribution Generalization in World Action Models
+- **ID**: arxiv_2609.18462v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18462v3](http://arxiv.org/abs/2609.18462v3)
+
 ## Decodable but Misrouted: Sparse Features Uncover a Readout Gap in Vision-Language Models for Harmful Meme Detection
 - **ID**: arxiv_2609.18860v1
 - **Source**: ArXiv
@@ -4284,6 +4309,11 @@
 - **ID**: arxiv_2609.19143v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19143v1](http://arxiv.org/abs/2609.19143v1)
+
+## KoUniTalk: A Lightweight Articulation-Centered Korean-English 3D Talking Face Benchmark
+- **ID**: arxiv_2609.19840v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19840v2](http://arxiv.org/abs/2609.19840v2)
 
 ## G^2RA-NET: Graph-based Cross-Slice Relation Modeling with Attention Gating for Medical Image Segmentation
 - **ID**: arxiv_2609.20088v1
@@ -4380,6 +4410,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20816v1](http://arxiv.org/abs/2609.20816v1)
 
+## Paint-Anything: Unified Any-Color Control for Image Generation and Editing
+- **ID**: arxiv_2609.20816v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20816v2](http://arxiv.org/abs/2609.20816v2)
+
 ## FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations
 - **ID**: arxiv_2609.20817v1
 - **Source**: ArXiv
@@ -4434,4 +4469,59 @@
 - **ID**: arxiv_2609.22083v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22083v1](http://arxiv.org/abs/2609.22083v1)
+
+## SPACE: Semantic Projection and Alignment of CLIP Embeddings for Domain Adaptation
+- **ID**: arxiv_2609.23248v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23248v1](http://arxiv.org/abs/2609.23248v1)
+
+## Exact Quotients of Fresnel-Kummer Surfaces and Certified Biaxial Refraction
+- **ID**: arxiv_2609.23249v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23249v1](http://arxiv.org/abs/2609.23249v1)
+
+## Blind Deconvolution of Binary and Pattern Images with Pixel Intensity Constraints and Sparse Gradient Prior
+- **ID**: arxiv_2609.23268v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23268v1](http://arxiv.org/abs/2609.23268v1)
+
+## RegVGGT: Sustainable Visual Geometry Grounding for Streaming via Regulated Memory
+- **ID**: arxiv_2609.23286v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23286v1](http://arxiv.org/abs/2609.23286v1)
+
+## MinCU: A Fine-Grained Benchmark for Grounded Minimal-Change Understanding in Image Pairs
+- **ID**: arxiv_2609.23336v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23336v1](http://arxiv.org/abs/2609.23336v1)
+
+## AniPrO: Interpretable Anime Image Provenance Detection via Multi-Dimensional Semantic Reasoning
+- **ID**: arxiv_2609.23345v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23345v1](http://arxiv.org/abs/2609.23345v1)
+
+## BiView-Touch: Learning Bimanual Tactile Representations by Cross-Hand Completion
+- **ID**: arxiv_2609.23352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23352v1](http://arxiv.org/abs/2609.23352v1)
+
+## The Right Future for Action: Learning Action-Relevant Predictive States in World Action Models
+- **ID**: arxiv_2609.23369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23369v1](http://arxiv.org/abs/2609.23369v1)
+
+## Vision-Wireless Fusion for Multi-User Localization: A Cross-Modal Transformer Approach
+- **ID**: arxiv_2609.23372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23372v1](http://arxiv.org/abs/2609.23372v1)
+
+## LiteTex-GS: Fast and Lightweight Texturing for Gaussian Splatting
+- **ID**: arxiv_2609.23380v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23380v1](http://arxiv.org/abs/2609.23380v1)
+
+## ProxyBuild: Text-Guided Structured 3D Building Generation with Mesh-Anchored Procedural Proxies
+- **ID**: arxiv_2609.23386v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23386v1](http://arxiv.org/abs/2609.23386v1)
 

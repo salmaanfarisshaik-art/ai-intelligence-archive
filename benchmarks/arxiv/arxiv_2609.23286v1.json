@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23286v1",
+  "schema_version": "1.0",
+  "name": "RegVGGT: Sustainable Visual Geometry Grounding for Streaming via Regulated Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23286v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23286v1",
+    "updated": "2026-09-20T01:42:37Z",
+    "published": "2026-09-20T01:42:37Z",
+    "title": "RegVGGT: Sustainable Visual Geometry Grounding for Streaming via Regulated Memory",
+    "summary": "3D reconstruction from a lengthy video stream input poses a dilemma for feed-forward reconstruction models (FFRMs), that a whole-stream inference context cannot be retained under limited GPU memory.Recent studies seek to resolve this problem via a trade-off between the integrity of inference context and GPU memory usage, which either suffer from a rapid memory inflation or degraded context integrity due to artificially capping memory usage.Driven by our key observation that the initial saliency of a token reliably dictates its long-term importance across the stream, we propose RegVGGT, a training-free token regulation method which aggressively regulates the tokens of incoming frames.By admitting at most 1% of tokens per frame to update the context memory, our method dramatically suppresses memory inflation as the stream progresses.Equipped with a FlashAttention-compatible token saliency estimation scheme, RegVGGT is capable of processing thousands of frames on a consumer-grade GPU with negligible compromise to reconstruction quality.Extensive experiments demonstrate that RegVGGT achieves state-of-the-art performance on long-horizon benchmarks across diverse FFRM prediction tasks, surpassing prior FFRM-based stream reconstruction baselines by a large margin.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T01:42:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23286v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

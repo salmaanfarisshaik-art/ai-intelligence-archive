@@ -1,5 +1,10 @@
 # Cs.Gr Export
 
+## NaRPA: Navigation and Rendering Pipeline for Astronautics
+- **ID**: arxiv_2211.01566v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2211.01566v2](http://arxiv.org/abs/2211.01566v2)
+
 ## Interactive Stroke-based Neural SDF Sculpting
 - **ID**: arxiv_2502.02891v2
 - **Source**: ArXiv

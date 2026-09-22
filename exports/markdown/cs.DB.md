@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01525v1](http://arxiv.org/abs/2609.01525v1)
 
+## Graph Memory for LLM Agents: At What Cost? A Comparative Evaluation of Query, Ingest, and Update Performance Across Graph Database Engines
+- **ID**: arxiv_2609.23315v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23315v1](http://arxiv.org/abs/2609.23315v1)
+

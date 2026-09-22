@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23239v1",
+  "schema_version": "1.0",
+  "name": "SoK: Formal Methods for Fact-Checking and Information Integrity",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23239v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23239v1",
+    "updated": "2026-09-19T22:41:50Z",
+    "published": "2026-09-19T22:41:50Z",
+    "title": "SoK: Formal Methods for Fact-Checking and Information Integrity",
+    "summary": "An automated fact-checking system returns a label: the claim is true, or it is false. In many such systems the verdict remains the primary output. What is generally missing is a record of which document settled the question, of what would have had to be different for the verdict to change, or of whether the same claim, reworded, would have been judged the same way. We call the missing piece a warrant: a separate statement of what was guaranteed and on what grounds. Formal methods produce evidence of this kind, and regulation is beginning to ask for it, since the Digital Services Act and the AI Act both call for auditable evidence about how systems behave. Surveys of automated fact-checking are usually organised by pipeline stage, and treat logic as one technique among many. We organise the field by what is being formalised instead, which gives five levels: the claim, the reasoning, the system doing the checking, the ecosystem the claim spreads through, and the regulatory obligation. Sorting 121 works into those levels, two patterns stand out. Most of the relevant formal machinery already exists, but it was built for other domains and has rarely been applied here, and the gap is widest for verifying the checking system itself. Several stages of the routine professional fact-checkers follow also have no stated correctness criterion, and two of them, writing a claim in checkable form and correcting a verdict already published, are not formally specified in any work we coded. We close with open problems, each with a suggested first step.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-19T22:41:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23239v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

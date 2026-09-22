@@ -8584,6 +8584,13 @@
       "score": 1.0
     }
   ],
+  "narpa": [
+    {
+      "entity_id": "arxiv_2211.01566v2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "narrat": [
     {
       "entity_id": "arxiv_2511.03699v2",
@@ -15770,6 +15777,11 @@
     },
     {
       "entity_id": "alpaca_3110648531968841942",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2211.01566v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -30917,6 +30929,11 @@
     },
     {
       "entity_id": "arxiv_2609.10469v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.10469v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -54650,6 +54667,13 @@
       "score": 3.0
     }
   ],
+  "nfe": [
+    {
+      "entity_id": "arxiv_2602.13718v2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "nfr": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -64454,11 +64478,6 @@
     },
     {
       "entity_id": "dataset_ethz_food101",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_google_svq",
       "match_type": "exact",
       "score": 1.0
     },

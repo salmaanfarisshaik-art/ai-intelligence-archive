@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23336v1",
+  "schema_version": "1.0",
+  "name": "MinCU: A Fine-Grained Benchmark for Grounded Minimal-Change Understanding in Image Pairs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23336v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23336v1",
+    "updated": "2026-09-20T03:48:09Z",
+    "published": "2026-09-20T03:48:09Z",
+    "title": "MinCU: A Fine-Grained Benchmark for Grounded Minimal-Change Understanding in Image Pairs",
+    "summary": "Localizing and describing fine-grained differences between near-identical images is a critical yet underexplored capability for multimodal large language models (MLLMs). Existing benchmarks largely assess semantic comparison or single-image grounding in isolation, without jointly requiring faithful description and physical localization. To bridge this gap, we introduce MinCU, a benchmark for grounded minimal-change understanding, where each sample consists of an image pair differing by a single atomic variation in object category, attribute, count, or spatial position, and models are evaluated on their ability to describe the change, localize the changed regions, and identify the changed entity. We further propose Semantic-Guided Implicit Spatial Anchors (SG-ISA), a structured autoregressive method that decomposes prediction into a Think-Locate-Describe sequence. SG-ISA first predicts a semantic cue for the changed concept, then uses discrete spatial anchors as an implicit localization scaffold, and finally generates the change description together with the grounding box. Experiments reveal that even the strongest closed-source MLLMs and recent R1-style reasoning models struggle on MinCU, with most failing to jointly produce accurate descriptions and grounding boxes. Compared to the previous chain-of-thought method, fine-tuning with SG-ISA yields substantial joint improvements in grounding accuracy and description quality while reducing reasoning-token overhead by approximately 26%. These results suggest that an implicit intermediate spatial interface can be more effective than relying solely on model scale for grounded dual-image understanding.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T03:48:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23336v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -99,6 +99,7 @@
 | [AugAbEx: Bridging Abstractive and Extractive Legal Summarization](http://arxiv.org/abs/2511.12290v2) | ArXiv |  | 1 |
 | [Augustinian BabyLM: What Ostensive Definition Can and Cannot Teach a Small Language Model](http://arxiv.org/abs/2609.11870v1) | ArXiv |  | 1 |
 | [AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling](http://arxiv.org/abs/2608.02602v1) | ArXiv |  | 1 |
+| [Authorship identification under domain shift: a survey of stylistic measures and learned author representations](http://arxiv.org/abs/2310.00436v2) | ArXiv |  | 1 |
 | [Autoformalizing Argumentative Material Inferences](http://arxiv.org/abs/2609.16991v1) | ArXiv |  | 1 |
 | [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) | ArXiv |  | 1 |
 | [Before You Poll with LLMs: A Deliberative Diagnostic Framework](http://arxiv.org/abs/2609.15849v1) | ArXiv |  | 1 |
@@ -132,6 +133,7 @@
 | [Chain-of-Experience for Continual LLM Improvement](http://arxiv.org/abs/2608.18027v1) | ArXiv |  | 1 |
 | [Chained Recursive Language Models for Multi-Iteration Reasoning](http://arxiv.org/abs/2608.05124v1) | ArXiv |  | 1 |
 | [Characterizing Cultural Localization in AI-Generated Stories](http://arxiv.org/abs/2606.14626v1) | ArXiv |  | 1 |
+| [ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents](http://arxiv.org/abs/2609.23231v1) | ArXiv |  | 1 |
 | [CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield](http://arxiv.org/abs/2606.31796v2) | ArXiv |  | 1 |
 | [ChiEngMixBench: Evaluating Large Language Models on Expert-Style Chinese-English Terminology Mixing](http://arxiv.org/abs/2601.16217v2) | ArXiv |  | 1 |
 | [ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos](http://arxiv.org/abs/2608.19165v1) | ArXiv |  | 1 |
@@ -299,9 +301,11 @@
 | [Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](http://arxiv.org/abs/2604.07269v2) | ArXiv |  | 1 |
 | [JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction](http://arxiv.org/abs/2608.29616v1) | ArXiv |  | 1 |
 | [Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees](http://arxiv.org/abs/2608.17994v1) | ArXiv |  | 1 |
+| [Judging a Review by its Cover: A Reliability Analysis of LLM-based Peer Review Evaluation Metrics](http://arxiv.org/abs/2609.23264v1) | ArXiv |  | 1 |
 | [K-Bench: a clinically calibrated benchmark for evaluating large language models in high-risk mental health conversations](http://arxiv.org/abs/2609.15855v1) | ArXiv |  | 1 |
 | [Kimi K3: Open Frontier Intelligence](http://arxiv.org/abs/2607.24653v1) | ArXiv |  | 1 |
 | [Know When to Stop: Segment-Level Credit Assignment for Reducing Overthinking](http://arxiv.org/abs/2607.00482v2) | ArXiv |  | 1 |
+| [Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment](http://arxiv.org/abs/2609.23267v1) | ArXiv |  | 1 |
 | [Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views](http://arxiv.org/abs/2609.04180v1) | ArXiv |  | 1 |
 | [Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall](http://arxiv.org/abs/2609.01532v1) | ArXiv |  | 1 |
 | [KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing](http://arxiv.org/abs/2606.17034v1) | ArXiv |  | 1 |
@@ -347,7 +351,9 @@
 | [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](http://arxiv.org/abs/2607.24604v1) | ArXiv |  | 1 |
 | [LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations](http://arxiv.org/abs/2606.14600v1) | ArXiv |  | 1 |
 | [Lost but not erased: Finding traces of a forgotten language in neural speech models](http://arxiv.org/abs/2608.25976v1) | ArXiv |  | 1 |
+| [LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure](http://arxiv.org/abs/2607.04733v3) | ArXiv |  | 1 |
 | [LVLMs and Humans Ground Differently in Referential Communication](http://arxiv.org/abs/2601.19792v5) | ArXiv |  | 1 |
+| [Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](http://arxiv.org/abs/2609.23371v1) | ArXiv |  | 1 |
 | [Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction](http://arxiv.org/abs/2608.27397v1) | ArXiv |  | 1 |
 | [Mask-Aware Policy Gradients for Diffusion Language Models](http://arxiv.org/abs/2607.15200v1) | ArXiv |  | 1 |
 | [MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize](http://arxiv.org/abs/2608.25449v2) | ArXiv |  | 1 |
@@ -455,6 +461,7 @@
 | [Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation](http://arxiv.org/abs/2609.19093v1) | ArXiv |  | 1 |
 | [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues](http://arxiv.org/abs/2606.18237v1) | ArXiv |  | 1 |
 | [ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression](http://arxiv.org/abs/2607.29591v1) | ArXiv |  | 1 |
+| [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](http://arxiv.org/abs/2607.01733v2) | ArXiv |  | 1 |
 | [RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20784v1) | ArXiv |  | 1 |
 | [Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM](http://arxiv.org/abs/2609.17435v1) | ArXiv |  | 1 |
 | [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](http://arxiv.org/abs/2609.16900v2) | ArXiv |  | 1 |
@@ -494,6 +501,7 @@
 | [Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting](http://arxiv.org/abs/2604.02512v2) | ArXiv |  | 1 |
 | [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v1) | ArXiv |  | 1 |
 | [SocietyBench: Forecasting Counterfactual Social-World Evolution](http://arxiv.org/abs/2608.04009v2) | ArXiv |  | 1 |
+| [SoK: Formal Methods for Fact-Checking and Information Integrity](http://arxiv.org/abs/2609.23239v1) | ArXiv |  | 1 |
 | [Sound Probabilistic Safety Bounds for Large Language Models](http://arxiv.org/abs/2607.20286v1) | ArXiv |  | 1 |
 | [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v1) | ArXiv |  | 1 |
 | [SPADE: Self-Play in Adaptive Synthetic Executable Environments](http://arxiv.org/abs/2608.19197v2) | ArXiv |  | 1 |

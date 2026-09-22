@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.12787v2",
+  "schema_version": "1.0",
+  "name": "LG-PF: Lightweight Confidence-Guided Polarization Image Fusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.12787v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.12787v2",
+    "updated": "2026-09-20T01:49:35Z",
+    "published": "2026-09-11T12:48:12Z",
+    "title": "LG-PF: Lightweight Confidence-Guided Polarization Image Fusion",
+    "summary": "Polarization image fusion combines the stable luminance and structural information of the total- intensity image S0 with the material-sensitive details of the degree of linear polarization (DoLP) image. However, the reliability of DoLP varies spatially, and indiscriminate polarization transfer may amplify unstable responses or disturb the structural appearance anchored by S0. We therefore propose LG-PF, a lightweight confidence-guided framework that formulates polarization fusion as a selective residual transfer process. A Polarization Confidence Prior estimates spatially reliable polarization responses, a Mask-guided Multi-scale Fusion module regulates their transfer across three feature scales, and a Lightweight Context-aware Bounded Correction Head stabilizes local photometric and structural transitions. Confidence guidance is also incorporated into the optimization objectives to preserve reliable polarization details while suppressing unsupported responses. We also construct MSP, a multi-scene polarization fusion dataset containing 1000 pixel-aligned image pairs from 17 indoor and outdoor scene categories. LG-PF achieves the best results across all six evaluated metrics on MSP, while subset-based evaluations on PIF and GAND show promising transferability without fine-tuning. With only 0.2936 M parameters and an inference time of 21.712 ms per image, LG-PF achieves competitive fusion quality with low computational cost. The source code will be available at https://github.com/1hzf/LG-PF.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T01:49:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.12787v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

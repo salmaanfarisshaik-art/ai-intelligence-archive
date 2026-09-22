@@ -6841,11 +6841,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_stringfellow_fusion_dw",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_swaystar123_preprocessed_commoncatalog_cc_by",
       "match_type": "exact",
       "score": 1.5
@@ -12025,6 +12020,11 @@
     },
     {
       "entity_id": "arxiv_2606.21359v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2606.25483v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -17964,6 +17964,11 @@
     },
     {
       "entity_id": "arxiv_2608.25061v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23315v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -31031,11 +31036,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_google_svq",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_helsinki_nlp_fineweb_edu_translated",
       "match_type": "exact",
       "score": 1.0
@@ -33400,11 +33400,6 @@
       "score": 2.5
     },
     {
-      "entity_id": "dataset_google_svq",
-      "match_type": "exact",
-      "score": 2.5
-    },
-    {
       "entity_id": "dataset_gsma_itu",
       "match_type": "exact",
       "score": 2.5
@@ -35435,6 +35430,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_gsdf_easynegative",
       "match_type": "exact",
       "score": 1.5
@@ -35506,11 +35506,6 @@
     },
     {
       "entity_id": "dataset_hf_vision_course_assets",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_hjq766_imabed",
       "match_type": "exact",
       "score": 1.5
     },
@@ -37726,11 +37721,6 @@
     },
     {
       "entity_id": "dataset_starvla_robotwin_randomized",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -46961,6 +46951,11 @@
       "score": 1.2
     },
     {
+      "entity_id": "arxiv_2609.23315v1",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "alpaca_4496458655760176844",
       "match_type": "exact",
       "score": 1.0
@@ -47021,7 +47016,17 @@
       "score": 1.2
     },
     {
+      "entity_id": "arxiv_2609.12551v2",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
       "entity_id": "arxiv_2609.20359v1",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "arxiv_2609.23321v1",
       "match_type": "exact",
       "score": 1.2
     },
@@ -58275,6 +58280,13 @@
     },
     {
       "entity_id": "dataset_ise_uiuc_magicoder_evol_instruct_110k",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
+  "deconvolution": [
+    {
+      "entity_id": "arxiv_2609.23268v1",
       "match_type": "exact",
       "score": 2.0
     }
@@ -75321,6 +75333,11 @@
     },
     {
       "entity_id": "arxiv_2609.18920v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23307v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -94734,11 +94751,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_google_svq",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_gorilla_llm_berkeley_function_calling_leaderboard",
       "match_type": "exact",
       "score": 1.0
@@ -110396,11 +110408,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_google_svq",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_harland_audiomcq_strongac_geminicot",
       "match_type": "exact",
       "score": 1.0
@@ -112609,6 +112616,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.12798v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2609.15910v1",
       "match_type": "exact",
       "score": 2.0
@@ -112630,6 +112642,11 @@
     },
     {
       "entity_id": "arxiv_2609.20160v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23345v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -133101,6 +133118,13 @@
       "score": 1.0
     }
   ],
+  "differenced": [
+    {
+      "entity_id": "arxiv_2609.23378v1",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "differences": [
     {
       "entity_id": "alpaca_2561922406072359715",
@@ -141623,6 +141647,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.23321v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_kucklily_q_eval_100k",
       "match_type": "exact",
       "score": 2.0
@@ -142749,6 +142778,11 @@
     },
     {
       "entity_id": "arxiv_2609.22083v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23333v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -144280,6 +144314,11 @@
     },
     {
       "entity_id": "arxiv_2609.20124v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23345v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -151459,6 +151498,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.23381v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/discovering-the-minutiae-of-backend-systems",
       "match_type": "exact",
       "score": 2.0
@@ -151991,6 +152035,11 @@
     },
     {
       "entity_id": "arxiv_2609.20722v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23387v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -154420,6 +154469,11 @@
     },
     {
       "entity_id": "arxiv_2609.10469v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.10469v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -160809,6 +160863,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.23376v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/api-model-distillation",
       "match_type": "exact",
       "score": 2.0
@@ -162889,6 +162948,11 @@
     },
     {
       "entity_id": "arxiv_2609.09030v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.18462v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -172926,6 +172990,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.23371v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_chcaa_kb_books",
       "match_type": "exact",
       "score": 2.0
@@ -178529,6 +178598,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2310.00436v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2506.12006v4",
       "match_type": "exact",
       "score": 2.0
@@ -178700,6 +178774,11 @@
     },
     {
       "entity_id": "arxiv_2609.20151v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23248v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -192757,6 +192836,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.12551v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2609.17398v1",
       "match_type": "exact",
       "score": 2.0
@@ -192768,6 +192852,11 @@
     },
     {
       "entity_id": "arxiv_2609.20820v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.23367v1",
       "match_type": "exact",
       "score": 2.0
     },

@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01535v1](http://arxiv.org/abs/2609.01535v1)
 
+## If You Hear It, Help Find It: Orthogonal Knowledge Distillation for Open-Vocabulary Audio-Visual Event Localization
+- **ID**: arxiv_2609.23376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23376v1](http://arxiv.org/abs/2609.23376v1)
+

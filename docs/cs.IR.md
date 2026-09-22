@@ -24,6 +24,7 @@
 | [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](http://arxiv.org/abs/2606.18379v4) | ArXiv |  | 1 |
 | [RePair: Turning Retrieval Failures into Counterfactual Hard Pairs](http://arxiv.org/abs/2608.29604v1) | ArXiv |  | 1 |
 | [Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering](http://arxiv.org/abs/2604.04593v2) | ArXiv |  | 1 |
+| [Semantic Candidate-Job Matching: A Comparative Evaluation of Dense Embedding Models in Hybrid Retrieval](http://arxiv.org/abs/2609.23307v1) | ArXiv |  | 1 |
 | [Stageboost: Recommending Signals Based on Counterfactual Estimation](http://arxiv.org/abs/2608.27366v1) | ArXiv |  | 1 |
 | [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation](http://arxiv.org/abs/2606.20554v1) | ArXiv |  | 1 |
 | [TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval](http://arxiv.org/abs/2607.28498v1) | ArXiv |  | 1 |

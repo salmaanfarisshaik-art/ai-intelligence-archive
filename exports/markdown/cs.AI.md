@@ -90,6 +90,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.19299v2](http://arxiv.org/abs/2510.19299v2)
 
+## ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry
+- **ID**: arxiv_2511.17909v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.17909v2](http://arxiv.org/abs/2511.17909v2)
+
 ## Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning
 - **ID**: arxiv_2511.22226v3
 - **Source**: ArXiv
@@ -1870,6 +1875,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18066v1](http://arxiv.org/abs/2608.18066v1)
 
+## Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson
+- **ID**: arxiv_2608.18531v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18531v2](http://arxiv.org/abs/2608.18531v2)
+
 ## What is Missing from AI Post-Training AI: An Empirical Analysis
 - **ID**: arxiv_2608.19072v1
 - **Source**: ArXiv
@@ -2909,4 +2919,19 @@
 - **ID**: arxiv_2609.22086v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22086v1](http://arxiv.org/abs/2609.22086v1)
+
+## Expansion Counts under Standard A* Tie-Breaking Strategies on the Final Plateau
+- **ID**: arxiv_2609.23293v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23293v1](http://arxiv.org/abs/2609.23293v1)
+
+## TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents
+- **ID**: arxiv_2609.23363v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23363v1](http://arxiv.org/abs/2609.23363v1)
+
+## Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting
+- **ID**: arxiv_2609.23378v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23378v1](http://arxiv.org/abs/2609.23378v1)
 

@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12291v2](http://arxiv.org/abs/2601.12291v2)
 
+## HybridFlow: A 2-NFE Generative Policy for Real-Time Robotic Manipulation
+- **ID**: arxiv_2602.13718v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13718v2](http://arxiv.org/abs/2602.13718v2)
+
 ## Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics
 - **ID**: arxiv_2602.21203v2
 - **Source**: ArXiv
@@ -144,6 +149,11 @@
 - **ID**: arxiv_2606.20491v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20491v1](http://arxiv.org/abs/2606.20491v1)
+
+## Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)
+- **ID**: arxiv_2606.27163v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27163v3](http://arxiv.org/abs/2606.27163v3)
 
 ## An offline approach to fNIRS-guided reinforcement learning for robot behavior
 - **ID**: arxiv_2607.14393v2
@@ -349,6 +359,11 @@
 - **ID**: arxiv_2608.16889v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16889v1](http://arxiv.org/abs/2608.16889v1)
+
+## Teach and Grow: An Agent-Centered Architecture for General Robot Learning
+- **ID**: arxiv_2608.17209v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.17209v3](http://arxiv.org/abs/2608.17209v3)
 
 ## LT-Mem: Volatility-Aware Spatio-Temporal Memory for Lifelong Scene Understanding
 - **ID**: arxiv_2608.19059v1

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.17909v2",
+  "schema_version": "1.0",
+  "name": "ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.17909v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.17909v2",
+    "updated": "2026-09-20T03:07:06Z",
+    "published": "2025-11-22T04:24:24Z",
+    "title": "ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry",
+    "summary": "Chemical reasoning inherently integrates visual, textual, and symbolic modalities, yet existing benchmarks rarely capture this complexity, often relying on simple image-text pairs with limited chemical semantics. As a result, the actual ability of Multimodal Large Language Models (MLLMs) to process and integrate chemically meaningful information across modalities remains unclear. We introduce \\textbf{ChemVTS-Bench}, a domain-authentic benchmark designed to systematically evaluate the Visual-Textual-Symbolic (VTS) reasoning abilities of MLLMs. ChemVTS-Bench contains diverse and challenging chemical problems spanning organic molecules, inorganic materials, and 3D crystal structures, with each task presented in three complementary input modes: (1) visual-only, (2) visual-text hybrid, and (3) SMILES-based symbolic input. This design enables fine-grained analysis of modality-dependent reasoning behaviors and cross-modal integration. To ensure rigorous and reproducible evaluation, we further develop an automated agent-based workflow that standardizes inference, verifies answers, and diagnoses failure modes. Extensive experiments on state-of-the-art MLLMs reveal that visual-only inputs remain challenging, structural chemistry is the hardest domain, and multimodal fusion mitigates but does not eliminate visual, knowledge-based, or logical errors, highlighting ChemVTS-Bench as a rigorous, domain-faithful testbed for advancing multimodal chemical reasoning. All data and code will be released to support future research.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T03:07:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.17909v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

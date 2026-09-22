@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2310.00436v2",
+  "schema_version": "1.0",
+  "name": "Authorship identification under domain shift: a survey of stylistic measures and learned author representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2310.00436v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2310.00436v2",
+    "updated": "2026-09-20T00:29:02Z",
+    "published": "2023-09-30T17:11:00Z",
+    "title": "Authorship identification under domain shift: a survey of stylistic measures and learned author representations",
+    "summary": "Authorship identification uses patterns in writing to infer who wrote a text, but those patterns also reflect topic, genre, and register. This survey argues that topic-independence is not a property of a stylistic feature but of the feature together with its encoding, its scoring rule, and the evaluation split, so the question is which combinations preserve author differences when the domain changes. We organize the evidence in four layers, domains and evaluation conditions, linguistic measures, representations, and scoring and decision rules, and examine within-study comparisons from classical frequency measures to learned author representations and language-model-mediated writing. These comparisons show why feature inventories alone do not explain performance: normalization and encoding change results, author-supervised learning can retain content, and evaluation protocols can reverse model rankings. Successful identification, stylistic similarity, and generalization therefore require separate evidence. The literature offers a practical way to obtain it through designs that separate author identity from particular circumstances of writing: the same authors writing across genres, different authors writing within the same conversation, and parallel texts with controlled content. These designs also help evaluate content masking and language-model rewriting, whose effects depend on what identifying information remains. We use this evidence to guide the choice of stylistic representations and the comparisons needed to establish where they generalize.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T00:29:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2310.00436v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

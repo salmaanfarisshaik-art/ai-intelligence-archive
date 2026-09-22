@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20758v1](http://arxiv.org/abs/2609.20758v1)
 
+## Bayesian Filtering in Physical Systems via Test-time Trained Flow Matching
+- **ID**: arxiv_2609.23383v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23383v1](http://arxiv.org/abs/2609.23383v1)
+

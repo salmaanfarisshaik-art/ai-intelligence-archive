@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23352v1",
+  "schema_version": "1.0",
+  "name": "BiView-Touch: Learning Bimanual Tactile Representations by Cross-Hand Completion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23352v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23352v1",
+    "updated": "2026-09-20T04:38:55Z",
+    "published": "2026-09-20T04:38:55Z",
+    "title": "BiView-Touch: Learning Bimanual Tactile Representations by Cross-Hand Completion",
+    "summary": "Bimanual interaction produces complementary tactile views of the same physical process, yet existing tactile representation learning largely models the two hands independently or combines them only for downstream prediction, leaving their cross-hand relationship unexplored. To exploit this overlooked structure, we introduce BiView-Touch, a tactile-only framework that completes masked target-hand latents from the remaining visible target-hand regions and the synchronized full contralateral hand. A student encoder with a geometry-conditioned directional decoder predicts full-view EMA latent targets, while temporal and layout counterfactuals encourage sensitivity to synchronized and anatomically organized source information. Controlled ablations and source-context interventions show that BiView-Touch learns structured cross-hand dependence on temporally aligned and anatomically organized contralateral tactile context, rather than benefiting from bilateral input alone. On the public HumanTouch dataset, its frozen representations consistently outperform representative self-supervised baselines across low-label settings. With only 5\\% downstream labels, BiView-Touch achieves relative balanced-accuracy gains of 7.1\\% on bilateral wrist-motion recognition and 14.1\\% on force-derived interaction-phase recognition. We further introduce BVT-20, a 20-task bilateral tactile dataset, and demonstrate transfer across recording sessions and pretraining corpora, including transfer to a held-out bimanual task. Our code and dataset details are available on the anonymous project page: https://anonymous.4open.science/w/biview-touch-review-site-050C/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T04:38:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23352v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

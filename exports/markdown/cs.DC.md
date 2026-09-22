@@ -20,8 +20,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11923v1](http://arxiv.org/abs/2609.11923v1)
 
+## RoofLang: Enabling AI-Driven Architecting of LLM Inference Systems
+- **ID**: arxiv_2609.12551v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12551v2](http://arxiv.org/abs/2609.12551v2)
+
 ## Accelerating Sharded Data Parallelism at Scale with Federated Learning
 - **ID**: arxiv_2609.20359v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20359v1](http://arxiv.org/abs/2609.20359v1)
+
+## Co-occurrence Patterns of LoRA Adapters in Production Diffusion Model Inference Services
+- **ID**: arxiv_2609.23321v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23321v1](http://arxiv.org/abs/2609.23321v1)
 

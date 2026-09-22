@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23268v1",
+  "schema_version": "1.0",
+  "name": "Blind Deconvolution of Binary and Pattern Images with Pixel Intensity Constraints and Sparse Gradient Prior",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23268v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23268v1",
+    "updated": "2026-09-20T00:58:57Z",
+    "published": "2026-09-20T00:58:57Z",
+    "title": "Blind Deconvolution of Binary and Pattern Images with Pixel Intensity Constraints and Sparse Gradient Prior",
+    "summary": "Blind image deconvolution (BID) is a prominent research topic in the field of imaging sciences, given its significant practical applications. Most existing model-based BID methods focus on natural images, incorporating appropriate prior knowledge about both the underlying image and the blur kernel. However, for certain classes of images, such as barcodes, text, and patterns, pixels can only take very limited values, a specific prior that is often overlooked in the literature. In this article, we introduce a novel pixel intensity constraint to leverage this important information, improving recovery performance for these specialized image classes. Specifically, we propose a unified framework for blind binary and pattern image deconvolution that incorporates both the pixel intensity constraint and a gradient sparsity regularizer. Numerical experiments demonstrate that our method outperforms many existing BID techniques, achieving superior results in terms of both visual quality and quantitative metrics.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T00:58:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23268v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

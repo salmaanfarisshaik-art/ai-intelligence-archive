@@ -255,3 +255,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20812v1](http://arxiv.org/abs/2609.20812v1)
 
+## One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
+- **ID**: arxiv_2609.23377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23377v1](http://arxiv.org/abs/2609.23377v1)
+

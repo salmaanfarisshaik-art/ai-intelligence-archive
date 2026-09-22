@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2210.05487v3](http://arxiv.org/abs/2210.05487v3)
 
+## Authorship identification under domain shift: a survey of stylistic measures and learned author representations
+- **ID**: arxiv_2310.00436v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2310.00436v2](http://arxiv.org/abs/2310.00436v2)
+
 ## GPTBIAS: A Comprehensive Framework for Evaluating Bias in Large Language Models
 - **ID**: arxiv_2312.06315v2
 - **Source**: ArXiv
@@ -1055,10 +1060,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.01388v2](http://arxiv.org/abs/2607.01388v2)
 
+## Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving
+- **ID**: arxiv_2607.01733v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.01733v2](http://arxiv.org/abs/2607.01733v2)
+
 ## Will Scaling Improve Social Simulation with LLMs?
 - **ID**: arxiv_2607.02464v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.02464v2](http://arxiv.org/abs/2607.02464v2)
+
+## LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure
+- **ID**: arxiv_2607.04733v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04733v3](http://arxiv.org/abs/2607.04733v3)
 
 ## REDDIT: Forgetting-Resistant Correction of Timestamp Drift in ASR via Replay-Based Distribution Editing
 - **ID**: arxiv_2607.05364v4
@@ -3039,4 +3054,29 @@
 - **ID**: arxiv_2609.22081v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22081v1](http://arxiv.org/abs/2609.22081v1)
+
+## ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents
+- **ID**: arxiv_2609.23231v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23231v1](http://arxiv.org/abs/2609.23231v1)
+
+## SoK: Formal Methods for Fact-Checking and Information Integrity
+- **ID**: arxiv_2609.23239v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23239v1](http://arxiv.org/abs/2609.23239v1)
+
+## Judging a Review by its Cover: A Reliability Analysis of LLM-based Peer Review Evaluation Metrics
+- **ID**: arxiv_2609.23264v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23264v1](http://arxiv.org/abs/2609.23264v1)
+
+## Knowing When to Trust Images: Reliability-Aware Multi-modal Entity Alignment
+- **ID**: arxiv_2609.23267v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23267v1](http://arxiv.org/abs/2609.23267v1)
+
+## Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States
+- **ID**: arxiv_2609.23371v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23371v1](http://arxiv.org/abs/2609.23371v1)
 

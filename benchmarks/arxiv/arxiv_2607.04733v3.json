@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.04733v3",
+  "schema_version": "1.0",
+  "name": "LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.04733v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.04733v3",
+    "updated": "2026-09-20T03:55:07Z",
+    "published": "2026-07-06T07:14:22Z",
+    "title": "LP-SFT: Local-Preserving Supervised Fine-Tuning via Multimodal Entropy Structure",
+    "summary": "Supervised fine-tuning (SFT) is the standard approach for adapting pretrained language models to downstream domains, yet it often improves target-domain behavior at the cost of degrading pre-existing capabilities. Standard cross-entropy fine-tuning promotes only the observed label token and leaves unconstrained how probability mass is redistributed over other plausible alternatives, potentially distorting the rich local preference structure learned during pretraining. We first analyze next-token predictions using Shannon and Renyi entropies, revealing that pretrained models exhibit a regular multimodal entropy structure. These entropy peaks correspond to varying numbers of plausible alternatives, indicating that the base model intrinsically encodes rich distributional knowledge beyond the single supervised token. Motivated by this observation, we propose LP-SFT, a Local-Preserving Supervised Fine-Tuning objective designed to explicitly protect this inherent entropy structure. At each step, LP-SFT constructs a local top-K support of alternative tokens from the frozen base distribution. Crucially, it removes the supervised target token from this set to avoid conflicting with the cross-entropy objective, and applies a locally normalized KL divergence to maintain the base model's relative preference structure among the remaining non-label alternatives. Across mixed-domain and single-domain fine-tuning experiments, LP-SFT improves overall performance over vanilla SFT and recent SFT-enhancement baselines, achieving the best balance between pass@1 accuracy and pass@k performance. These results suggest that local preservation helps mitigate capability degradation without collapsing sampling-accessible diversity.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T03:55:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.04733v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

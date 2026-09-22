@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.12798v2",
+  "schema_version": "1.0",
+  "name": "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.12798v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.12798v2",
+    "updated": "2026-09-20T01:51:35Z",
+    "published": "2026-09-11T12:57:37Z",
+    "title": "LGFN: Lightweight Gated RGB-Polarization Fusion with Modality-Availability Conditioning for Camouflaged Object Detection",
+    "summary": "Camouflaged object detection (COD) is an important engineering task in intelligent optical perception, but it remains challenging when targets closely resemble their surroundings. Polarization imaging provides complementary physical cues, whereas existing methods typically assume fixed multimodal input configurations and entangle intra-polarization coordination with interaction between red-green-blue (RGB) and polarization representations. We propose LGFN, a lightweight gated RGB-polarization fusion framework supporting separately optimized RGB-only and polarization-assisted configurations. A deterministic Modality Router selects the appropriate configuration according to polarization availability. In the multimodal configuration, an availability-conditioned Modality Gate calibrates the available polarization branches; the Gated Polarization Hub coordinates learned degree of linear polarization (DoLP) and angle of polarization (AoP) representations with explicit polarization cues; and RGB-Polarization Cross Fusion introduces the coordinated representation into the RGB hierarchy through controlled residual interaction. The multimodal configuration requires neither sample-dependent statistics nor handcrafted quality descriptors during inference. On the complete 230-image PCOD_1200 test set, the RGB-only configuration achieves a mean absolute error of 0.0090, a Dice score of 0.8806, and an intersection over union of 0.8144, obtaining the best results on all six metrics among the evaluated RGB-based methods. Under a common local reevaluation protocol, the multimodal configuration outperforms PolarNet and IPNet on all six metrics. Relative to IPNet, it reduces the parameter count, floating-point operations, and latency by 53.1%, 73.6%, and 63.0%, respectively. The source code will be available at https://github.com/1hzf/LGFN.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T01:51:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.12798v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

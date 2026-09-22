@@ -1545,3 +1545,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22005v1](http://arxiv.org/abs/2609.22005v1)
 
+## CTRL: Control-Based Time Series Forecasting with LLM-Guided Residual Learning
+- **ID**: arxiv_2609.23257v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23257v1](http://arxiv.org/abs/2609.23257v1)
+
+## Why Ghost Outputs Teach: A Kernel-Based Understanding of Subliminal Learning
+- **ID**: arxiv_2609.23260v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23260v1](http://arxiv.org/abs/2609.23260v1)
+
+## ValueDiff: Value-Geometric KV Cache Eviction for Sink-Suppressed LLMs
+- **ID**: arxiv_2609.23314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23314v1](http://arxiv.org/abs/2609.23314v1)
+
+## A Patient World Model for Early Forecasting of Digital Health Campaign Outcomes: Capabilities and Limits
+- **ID**: arxiv_2609.23333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23333v1](http://arxiv.org/abs/2609.23333v1)
+
+## Discovering Physical Representation Languages
+- **ID**: arxiv_2609.23381v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23381v1](http://arxiv.org/abs/2609.23381v1)
+
+## Blind Thermodynamic Ontology Discovery from Anonymous Experiments
+- **ID**: arxiv_2609.23387v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23387v1](http://arxiv.org/abs/2609.23387v1)
+

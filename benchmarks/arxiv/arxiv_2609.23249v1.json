@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23249v1",
+  "schema_version": "1.0",
+  "name": "Exact Quotients of Fresnel-Kummer Surfaces and Certified Biaxial Refraction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23249v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23249v1",
+    "updated": "2026-09-19T23:21:33Z",
+    "published": "2026-09-19T23:21:33Z",
+    "title": "Exact Quotients of Fresnel-Kummer Surfaces and Certified Biaxial Refraction",
+    "summary": "The Fresnel wave surface governs the propagation of light in a transparent biaxial crystal. It is a special Kummer quartic, and we identify it exactly. Over the complex numbers the wave surface of a crystal is the Kummer surface of the Jacobian of an explicit genus-two curve branched at the signed square roots of the three principal permittivities. This Jacobian is isogenous, by an isogeny with kernel of order four, to a product of two elliptic curves. One elliptic curve carries the three permittivities, and the other carries the optic-axis angle. The physical family is Zariski dense in the locus of genus-two curves with an extra involution, and its automorphism strata are explicit. The identification instantiates a task-aware quotient, which identifies parameters that differ by a nuisance transformation and carries invariant coordinates and explicit strata. For biaxial crystals, two ratios of the permittivities form a complete invariant of the wave surface up to rotation and rescaling, and the four real nodes are given in closed form. At an interface the candidate transmitted waves are the roots of a quartic of exact degree four. Its real-root count, root order, and repeated-root events are decided by exact algebraic predicates, and along the generic single-node encounters of the paper its discriminant vanishes to second order. Floating-point solvers drop forward transmitted modes near the optic axes, and the certified solver does not. On exact equivalence classes, learned models on quotient coordinates are invariant and more accurate than models on raw tensors, while learned root-count predicates fail near the optic axes.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-19T23:21:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23249v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

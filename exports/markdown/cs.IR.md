@@ -140,3 +140,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22056v1](http://arxiv.org/abs/2609.22056v1)
 
+## Semantic Candidate-Job Matching: A Comparative Evaluation of Dense Embedding Models in Hybrid Retrieval
+- **ID**: arxiv_2609.23307v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23307v1](http://arxiv.org/abs/2609.23307v1)
+

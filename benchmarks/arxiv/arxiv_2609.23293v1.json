@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.23293v1",
+  "schema_version": "1.0",
+  "name": "Expansion Counts under Standard A* Tie-Breaking Strategies on the Final Plateau",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.23293v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.23293v1",
+    "updated": "2026-09-20T02:05:28Z",
+    "published": "2026-09-20T02:05:28Z",
+    "title": "Expansion Counts under Standard A* Tie-Breaking Strategies on the Final Plateau",
+    "summary": "In the A* search algorithm, the tie-breaking strategies for nodes with the same $f$-value determines which states A* expands on the final $f$-layer. For nine standard tie-breaking strategies, we show that under a consistent heuristic, every pair has positive-cost instances favoring each strategy over the other by an arbitrarily large additive expansion gap. A parameterized unit-cost grid example also gives unbounded expansion-count ratios between low-$h$ with FIFO and LIFO. In unit-cost search with $h > 0$ at non-goals, exact heuristic values near the goal lead to complementary extremal results: low-$h$ minimizes the number of remaining expansions from a common configuration within the perfect region, while high-$h$ maximizes the total number of expansions when every final-plateau state with $h=1$ is a goal predecessor. Finally, with the evaluation function $f_α = g + αh$, when $h>0$ at non-goals, every heuristic weight $0 \\leq α<1$ eliminates tie-breaking sensitivity, and all tie-breaking strategies expand the same set of states.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-22T01:33:59Z",
+  "last_updated": "2026-09-20T02:05:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.23293v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

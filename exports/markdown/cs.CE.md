@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16795v1](http://arxiv.org/abs/2608.16795v1)
 
+## Human-guided physics-constrained AI agents construct an auditable model of soil-plug evolution
+- **ID**: arxiv_2609.23360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23360v1](http://arxiv.org/abs/2609.23360v1)
+
