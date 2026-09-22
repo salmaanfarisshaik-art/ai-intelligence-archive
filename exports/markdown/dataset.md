@@ -394,6 +394,12 @@
 - **URL**: [https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs](https://huggingface.co/datasets/hf-internal-testing/transformers_circleci_workflow_runs)
 - **Tags**: region:us
 
+## openclimatefix/met-office-uk-deterministic-solar
+- **ID**: hf_ds_677ff7222275f6f6a02bd0e9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/openclimatefix/met-office-uk-deterministic-solar](https://huggingface.co/datasets/openclimatefix/met-office-uk-deterministic-solar)
+- **Tags**: annotations_creators:expert-generated, climate, deterministic, language_creators:other, license:cc-by-4.0, met-office, multilinguality:monolingual, nwp, region:us, size_categories:10K<n<100K, solar, source_datasets:original, task_categories:time-series-forecasting, task_ids:multivariate-time-series-forecasting, weather, zarr
+
 ## Benjy/typed_digital_signatures
 - **ID**: hf_ds_6785649a41a64e1582b8bb05
 - **Source**: HuggingFace Datasets

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T07:20:45Z",
+  "generated_at": "2026-09-22T13:08:00Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -534,6 +534,16 @@
     {
       "source_id": "model_allenai_olmo_3_1_32b_instruct",
       "target_id": "hf_allenai_Olmo-3.1-32B-Instruct-DPO",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_allenai_olmo_3_32b_think_sft",
+      "target_id": "hf_allenai_Dolci-Think-SFT",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_allenai_olmo_3_32b_think_sft",
+      "target_id": "hf_allenai_Olmo-3-1125-32B",
       "type": "derived_from"
     },
     {
@@ -6257,6 +6267,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_prism_ml_ternary_bonsai_8b_gguf",
       "target_id": "hf_prism-ml_Ternary-Bonsai-8B-unpacked",
       "type": "derived_from"
@@ -7244,6 +7259,11 @@
     {
       "source_id": "model_sebastianbodza_kartoffel_orpheus_3b_german_natural_v0_1",
       "target_id": "hf_canopylabs_3b-de-pretrain-research_release",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_sedibaai_sedibalm",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
       "type": "derived_from"
     },
     {
@@ -8574,6 +8594,11 @@
     {
       "source_id": "model_upstage_solar_10_7b_instruct_v1_0",
       "target_id": "hf_upstage_SOLAR-10.7B-v1.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_utter_project_eurollm_1_7b_instruct",
+      "target_id": "hf_utter-project_EuroLLM-1.7B",
       "type": "derived_from"
     },
     {

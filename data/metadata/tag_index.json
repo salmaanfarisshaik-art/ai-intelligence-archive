@@ -182,7 +182,8 @@
     "hf_ds_621ffdd236468d709f181e77",
     "hf_ds_621ffdd236468d709f181eb4",
     "hf_ds_621ffdd236468d709f181fa6",
-    "hf_ds_6469bc7cf51b56a285b7797b"
+    "hf_ds_6469bc7cf51b56a285b7797b",
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "annotations_creators:found": [
     "hf_ds_64edb45c5c9245397fc83a26"
@@ -1020,6 +1021,7 @@
     "secure-github-actions-cicd-pipeline"
   ],
   "climate": [
+    "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_67d7417c7c4950a62b4c33a4"
   ],
   "co2_eq_emissions": [
@@ -1344,6 +1346,9 @@
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
     "hf_zai-org_GLM-5.2-FP8"
+  ],
+  "deterministic": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "devops": [
     "docker",
@@ -3825,7 +3830,8 @@
   ],
   "language_creators:other": [
     "hf_ds_621ffdd236468d709f181e3f",
-    "hf_ds_621ffdd236468d709f181fa6"
+    "hf_ds_621ffdd236468d709f181fa6",
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "language_table": [
     "hf_ds_67ce486ea3edca9b3349a097"
@@ -4234,6 +4240,7 @@
     "hf_ds_66708709d5c5d8fd8db3a5cf",
     "hf_ds_669caf535bd3f749a3c87c11",
     "hf_ds_67134260dda81cf20b75342e",
+    "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_680f523123b95edd6987db29",
@@ -4452,6 +4459,9 @@
   ],
   "medqa": [
     "hf_ds_69cf1925c61c6c0fbb866b5d"
+  ],
+  "met-office": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "meta": [
     "hf_meta-llama_Llama-3.1-8B-Instruct",
@@ -4704,7 +4714,8 @@
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_621ffdd236468d709f18200d",
     "hf_ds_625552d2b339bb03abe3432d",
-    "hf_ds_6374015cc3b104ef17a000f2"
+    "hf_ds_6374015cc3b104ef17a000f2",
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "multilinguality:multilingual": [
     "hf_ds_621ffdd236468d709f182a80",
@@ -4779,6 +4790,9 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
+  ],
+  "nwp": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "oauth": [
     "oauth2-implementation",
@@ -5148,6 +5162,7 @@
     "hf_ds_67374c18c32c765810f748f6",
     "hf_ds_675d7e29e24babdf1842d270",
     "hf_ds_676477a23a379cdda443f577",
+    "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_67866986e864fd4dee936901",
     "hf_ds_678fa21dec882f210c23b7b6",
@@ -5500,6 +5515,7 @@
     "hf_ds_65ce59255f233e28db20fe4f",
     "hf_ds_663b7fd5a4152b77b637ba11",
     "hf_ds_66674f5483de542b724d771e",
+    "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_6785649a41a64e1582b8bb05",
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68179ef58e267618d9e7bc61",
@@ -5593,6 +5609,9 @@
   "skywater130 process": [
     "hf_ds_68f06f7cd53a33b04ceebb08"
   ],
+  "solar": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
+  ],
   "source_datasets:Federal Court of Australia": [
     "hf_ds_64980085fa9591cb3dc4d378"
   ],
@@ -5655,6 +5674,7 @@
     "hf_ds_621ffdd236468d709f182a80",
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_6374015cc3b104ef17a000f2",
+    "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_6a18ded575c463d5aecfcf4d"
   ],
   "source_datasets:oscar": [
@@ -5864,6 +5884,9 @@
   "task_categories:text-to-video": [
     "hf_ds_69f638c8ebff1de2d6753093"
   ],
+  "task_categories:time-series-forecasting": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
+  ],
   "task_categories:token-classification": [
     "hf_ds_621ffdd236468d709f181fa6",
     "hf_ds_6374015cc3b104ef17a000f2"
@@ -5911,6 +5934,9 @@
   ],
   "task_ids:multiple-choice-qa": [
     "hf_ds_621ffdd236468d709f181e5e"
+  ],
+  "task_ids:multivariate-time-series-forecasting": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "task_ids:natural-language-inference": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -6262,6 +6288,9 @@
     "automated-vue-3-composition-api-builder",
     "vue-3-composition-api-builder"
   ],
+  "weather": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
+  ],
   "weatherapi": [
     "realtime-weather-api"
   ],
@@ -6276,6 +6305,9 @@
   ],
   "xarm": [
     "hf_ds_67ce486ea3edca9b3349a097"
+  ],
+  "zarr": [
+    "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "zh": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",

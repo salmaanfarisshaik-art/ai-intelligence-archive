@@ -251,6 +251,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_cmsmanhattan_jirackdeltanet_27b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_cmsmanhattan_jirackultra_14b",
       "match_type": "exact",
       "score": 1.5
@@ -777,6 +782,11 @@
     },
     {
       "entity_id": "model_upstage_solar_open2_250b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_utter_project_eurollm_1_7b_instruct",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3356,6 +3366,11 @@
     },
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingfacefw_finetranslations",
       "match_type": "exact",
       "score": 1.5
     },
@@ -6137,6 +6152,11 @@
   ],
   "jirack": [
     {
+      "entity_id": "model_cmsmanhattan_jirackdeltanet_27b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_cmsmanhattan_jirackultra_14b",
       "match_type": "exact",
       "score": 1.5
@@ -6155,6 +6175,13 @@
       "entity_id": "model_cmsmanhattan_jirackultra_7b",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "jirackdeltanet": [
+    {
+      "entity_id": "model_cmsmanhattan_jirackdeltanet_27b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "jirackultra": [
@@ -11104,6 +11131,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_evaleval_eee_datastore",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/openai-acquires-global-illumination",
       "match_type": "exact",
       "score": 1.0
@@ -15193,6 +15225,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_huggingfacefw_finetranslations",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
@@ -15642,6 +15679,11 @@
     },
     {
       "entity_id": "dataset_oall_requests",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 2.0
     },
@@ -16236,6 +16278,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_evaleval_eee_datastore",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_flare_medfm_flare26_mllm_3d",
       "match_type": "exact",
       "score": 1.0
@@ -16534,6 +16581,11 @@
     },
     {
       "entity_id": "dataset_mearman_openalex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_meigen_ai_genevolve_data_bench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -18397,6 +18449,11 @@
   "jun": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_huggingfacefw_finetranslations",
       "match_type": "exact",
       "score": 1.5
     },

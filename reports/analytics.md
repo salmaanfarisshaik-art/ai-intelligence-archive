@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89501
+**Total Entities Tracked**: 89502
 
 ## Category Distribution
 
@@ -10,7 +10,7 @@
 - **datasets**: 1988
 - **models**: 1705
 - **news**: 1241
-- **dataset**: 1181
+- **dataset**: 1182
 - **text-generation**: 1011
 - **cs.CV**: 917
 - **cs.CL**: 629
@@ -100,7 +100,7 @@
 - **ArXiv**: 3038
 - **Hugging Face**: 2018
 - **OpenAI Blog**: 1227
-- **HuggingFace Datasets**: 181
+- **HuggingFace Datasets**: 182
 - **GitHub Trending**: 52
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -140,7 +140,7 @@
 
 ## Top Tags
 
-- **region:us**: 260
+- **region:us**: 261
 - **library:datasets**: 80
 - **library:mlcroissant**: 80
 - **text-generation**: 80
@@ -168,21 +168,21 @@
 - **modality:tabular**: 22
 - **qwen3**: 20
 - **license:other**: 19
+- **license:cc-by-4.0**: 17
 - **api**: 16
-- **license:cc-by-4.0**: 16
-- **size_categories:10K<n<100K**: 15
+- **size_categories:10K<n<100K**: 16
 - **task_categories:robotics**: 14
 - **modality:video**: 13
+- **multilinguality:monolingual**: 13
 - **size_categories:100K<n<1M**: 13
 - **license:odc-by**: 12
-- **multilinguality:monolingual**: 12
+- **source_datasets:original**: 12
 - **arxiv:2505.09388**: 11
 - **format:json**: 11
 - **fp8**: 11
 - **gguf**: 11
 - **pytorch**: 11
 - **size_categories:1K<n<10K**: 11
-- **source_datasets:original**: 11
 - **custom_code**: 10
 - **language:zh**: 10
 - **size_categories:100M<n<1B**: 10

@@ -2492,6 +2492,40 @@
     "local_path": "datasets/hf-internal-testing/hf_ds_676477a23a379cdda443f577.json"
   },
   {
+    "id": "hf_ds_677ff7222275f6f6a02bd0e9",
+    "title": "openclimatefix/met-office-uk-deterministic-solar",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "annotations_creators:expert-generated",
+      "climate",
+      "deterministic",
+      "language_creators:other",
+      "license:cc-by-4.0",
+      "met-office",
+      "multilinguality:monolingual",
+      "nwp",
+      "region:us",
+      "size_categories:10K<n<100K",
+      "solar",
+      "source_datasets:original",
+      "task_categories:time-series-forecasting",
+      "task_ids:multivariate-time-series-forecasting",
+      "weather",
+      "zarr"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/openclimatefix"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/openclimatefix/met-office-uk-deterministic-solar",
+    "local_path": "datasets/openclimatefix/hf_ds_677ff7222275f6f6a02bd0e9.json"
+  },
+  {
     "id": "hf_ds_6785649a41a64e1582b8bb05",
     "title": "Benjy/typed_digital_signatures",
     "category": "dataset",

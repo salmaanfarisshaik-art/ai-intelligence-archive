@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-09-22T07:19:45.411560+00:00
-**Warnings:** 3231
+**Generated:** 2026-09-22T13:06:58.276546+00:00
+**Warnings:** 3232
 **Errors:** 240
 
 ## Issues
@@ -3359,6 +3359,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Lichess
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jhu-clsp
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/m-a-p
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/openclimatefix
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Benjy
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/qqjz
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/agibot-world

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f4eb03e0dc768a12d61fad14cff567d92fac4892",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRosetta Activations\n\t\n\nUpdated: 2026-06-15 02:30 UTC\nContrastive activation extractions for 17 semantic concepts across 46 language models,\nsupporting cross-architecture mechanistic interpretability research.\nCompanion concept pair corpus: jamesrahenry/Rosetta_Concept_Pairs\nPapers: forthcoming\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nRosetta-Activations/\n├── rcp_v1/               # Current extraction line — richest data (N≈2000)\n│   └── {Model_Name}/\n│       ├── calibration_{concept}.npy… See the full description on the dataset page: https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations.",
-  "downloads": 264909,
+  "downloads": 308998,
   "tags": [
     "language:en",
     "license:mit",

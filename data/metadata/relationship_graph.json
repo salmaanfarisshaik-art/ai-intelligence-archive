@@ -133511,6 +133511,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_677ff7222275f6f6a02bd0e9",
+      "label": "openclimatefix/met-office-uk-deterministic-solar",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6785649a41a64e1582b8bb05",
       "label": "Benjy/typed_digital_signatures",
       "category": "dataset"
@@ -463060,6 +463065,11 @@
     {
       "source": "hf_ds_675d7e29e24babdf1842d270",
       "target": "datasets/m-a-p",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_677ff7222275f6f6a02bd0e9",
+      "target": "datasets/openclimatefix",
       "relationship": "related_models"
     },
     {
