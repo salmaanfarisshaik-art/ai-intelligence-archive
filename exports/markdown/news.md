@@ -906,6 +906,11 @@
 - **URL**: [https://openai.com/index/better-language-models](https://openai.com/index/better-language-models)
 
 ## 
+- **ID**: rss_https://openai.com/index/better-prompt-caching-for-gpt-6
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/better-prompt-caching-for-gpt-6](https://openai.com/index/better-prompt-caching-for-gpt-6)
+
+## 
 - **ID**: rss_https://openai.com/index/beyond-rate-limits
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/beyond-rate-limits](https://openai.com/index/beyond-rate-limits)
@@ -3249,6 +3254,11 @@
 - **ID**: rss_https://openai.com/index/introducing-gpt-5-for-developers
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpt-5-for-developers](https://openai.com/index/introducing-gpt-5-for-developers)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-gpt-6-sol-and-luna
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-gpt-6-sol-and-luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-gpt-live
