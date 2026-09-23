@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.04111v2",
+  "schema_version": "1.0",
+  "name": "AgenticDiffusion: Multi-View Reasoning with View-Conditioned Diffusion Planning for Vision-Based UAV Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.04111v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.04111v2",
+    "updated": "2026-09-22T17:50:16Z",
+    "published": "2026-06-02T18:18:35Z",
+    "title": "AgenticDiffusion: Multi-View Reasoning with View-Conditioned Diffusion Planning for Vision-Based UAV Navigation",
+    "summary": "Vision-based UAV navigation becomes challenging when navigation targets are distributed across complementary camera views and cannot be reliably observed from a single viewpoint. We propose AgenticDiffusion, an agentic multi-view UAV navigation framework that semantically coordinates first-person-view (FPV) and top-view observations for mission-level navigation. Given a natural-language instruction, AgenticDiffusion identifies the requested targets, selects the most appropriate camera view for each navigation task, determines the corresponding navigation goal, and invokes the appropriate view-conditioned diffusion planner for trajectory generation. The resulting trajectories are executed using Nonlinear Model Predictive Control (NMPC). AgenticDiffusion was evaluated in four real-world indoor scenarios, achieving an overall mission success rate of 80% across 40 physical-flight trials. In mixed-visibility scenarios, where the requested targets were distributed across FPV and top-view observations, coordinated multi-view navigation reduced average mission time by 50.8% relative to FPV-only navigation and by 26.8% relative to Top-only navigation. The semantic view-selection mechanism was also robust to lexical variation in target descriptions, achieving 100% accuracy across 66 test cases, compared with 63.64% for a confidence-based view-selection baseline. In a substantially larger Gazebo environment, AgenticDiffusion achieved a 90% mission success rate and completed the multi-stage mission, whereas the FPV-only and Top-only variants were unable to complete all requested navigation tasks.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:50:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.04111v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

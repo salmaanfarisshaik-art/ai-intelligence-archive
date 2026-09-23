@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.26708v1",
+  "schema_version": "1.0",
+  "name": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.26708v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.26708v1",
+    "updated": "2026-09-22T17:01:09Z",
+    "published": "2026-09-22T17:01:09Z",
+    "title": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+    "summary": "Quantization-aware distillation (QAD) restores much of the short-form question-answering performance lost to sub-3-bit quantization, yet leaves mathematical and code reasoning substantially impaired. Long generations often degenerate into repetitive loops, exhausting the decoding budget without completing a solution. We trace this gap to quantization-amplified exposure bias: QAD trains on fixed corpus prefixes, while quantization-induced deviations compound along the model's own autoregressive trajectories. To address this mismatch, we introduce an on-policy distillation (OPD) stage that places teacher supervision where the quantized model actually goes. Starting from a QAD checkpoint, the student generates through the quantized forward path used at deployment and receives feedback from a frozen full-precision teacher on its own prefixes, combining dense token-level guidance with task-verifier rewards. Across four models at 2.79 and 1.88 effective bits, OPD raises average BF16 performance retention from 35% to 70% on MATH-500 and from 66% to 91% on HumanEval while preserving short-form performance, with reasoning gains substantially exceeding those of continued teacher-forced QAD in matched-budget comparisons. By coupling QAD's stable low-bit initialization with OPD's on-policy reasoning recovery, our framework provides a comprehensive sub-3-bit solution that preserves broad capabilities while restoring long-form reasoning.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:01:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.26708v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

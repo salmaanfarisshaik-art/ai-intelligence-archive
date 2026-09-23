@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.02769v2",
+  "schema_version": "1.0",
+  "name": "STAR-VAE: A Scalable Latent-Variable Transformer for Controllable Molecular Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.02769v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.02769v2",
+    "updated": "2026-09-22T17:04:20Z",
+    "published": "2025-11-04T17:56:00Z",
+    "title": "STAR-VAE: A Scalable Latent-Variable Transformer for Controllable Molecular Generation",
+    "summary": "Many molecular Transformers lack probabilistic latent variables for posterior inference and latent interpolation. We introduce STAR-VAE, a SELFIES-encoded, Transformer-based, AutoRegressive Variational AutoEncoder combining a bidirectional encoder with an autoregressive decoder pretrained on 79 million PubChem molecules. A property signal jointly conditions the prior, posterior, and decoder, while LoRA adapters support fine-tuning on small datasets without modifying the backbone. STAR-VAE achieves 100% validity and near-perfect novelty under unconditional MOSES sampling, the lowest KL divergence on five of ten GuacaMol descriptors, Spearman \\r{ho} = 0.62 at 98% validity for synthetic-accessibility conditioning, and directional docking-score control for three Tartarus protein targets. Across four ChEMBL targets, seed-based posterior sampling recovers target-associated held-out scaffolds while label-conditioned sampling produces structurally diverse outputs. Code is available at https://github.com/BiomedSciAI/STAR-VAE.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:04:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.02769v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

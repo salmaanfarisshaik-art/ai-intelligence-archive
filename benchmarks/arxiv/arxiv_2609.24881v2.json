@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.24881v2",
+  "schema_version": "1.0",
+  "name": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.24881v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.24881v2",
+    "updated": "2026-09-22T17:58:07Z",
+    "published": "2026-09-21T16:48:50Z",
+    "title": "Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models",
+    "summary": "In high-stakes decision-making applications of large language models (LLMs), practitioners require not only accurate LLMs but also uncertainty estimates for their predictions. Existing approaches to uncertainty estimation for LLMs require access to log-probabilities output by the model or require fine-tuning access. However, many industrial LLM products use closed-source API models, and many such API models like GPT do not return log-probabilities and may not allow fine-tuning. We introduce Pinocchio, an external calibrator that estimates the correctness of responses from black-box API models. Trained jointly on responses from seven LLMs, it achieves 0.862 AUROC predicting the correctness of held-out responses from those same models, and shows zero-shot transfer to thirteen unseen models across eight organizations. Our model needs only a single forward pass to generate an uncertainty estimate and requires no access to the target model's logits, weights, or internal states. A lightweight text only 0.8B checkpoint matches our largest model's AUROC. We release code for adding uncertainty estimation to existing repos in only two additional lines of code.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:58:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.24881v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

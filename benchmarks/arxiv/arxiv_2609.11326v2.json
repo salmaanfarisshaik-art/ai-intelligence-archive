@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.11326v2",
+  "schema_version": "1.0",
+  "name": "Rice's Theorem under Self-Modification: Elevation Operators and a Normal Form",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.11326v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.11326v2",
+    "updated": "2026-09-22T16:23:51Z",
+    "published": "2026-09-10T09:56:17Z",
+    "title": "Rice's Theorem under Self-Modification: Elevation Operators and a Normal Form",
+    "summary": "We ask whether it can be certified algorithmically that a self-modifying computational system preserves a safety property at its next step (preservation) and along its whole evolution (persistence). One step of self-modification is a total computable transformation $Φ$ of program indices, and preservation is the elevated property $Λ_Φ(P)=\\{x\\in P:Φ(x)\\in P\\}$. When $Φ$ is extensional, $Λ_Φ(P)$ is behavioural and Rice's theorem applies. When $Φ$ reads the code, $Λ_Φ(P)$ is no longer behavioural, yet under uniform disruption (an inert wrapper encoding $K$) the s-m-n reduction that proves Rice's theorem works inside a single behavioural fibre, and $Λ_Φ(P)$ inherits the halting degree: one pullback of Rice, at two scales. One step never exceeds the degree of $P$; persistence can be $Π^0_2$-complete for $Σ^0_1$ properties, even for extensional $Φ$. We then isolate the mechanism shared by rewriting, supervision and system comparison: the semantic elevation operator, which wraps a base system and reacts to one finite event anchored to $K$, entering or leaving the property. For this class the elevated property is $P\\cap S_a$ or $P\\setminus S_a$, determined by trigger and polarity alone; it inherits $K$ or its complement; and the safe region is not recursively enumerable. The Rice-Shapiro theorem restricts the polarity: a finite trigger can only enter a $Σ^0_1$ property and only leave a $Π^0_1$ one. Four axes (functional, deductive, conformance to a reference, monitoring) are verified instances, and towers of supervisors do not lower the barrier. We exhibit $K$-hard intensional operators outside the class and state the open characterisation problem.",
+    "primary_category": "cs.LO"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T16:23:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.11326v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

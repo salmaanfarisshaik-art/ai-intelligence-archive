@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.04935v4](http://arxiv.org/abs/2602.04935v4)
 
+## VeriSoftBench: Repository-Scale Formal Verification Benchmarks for Lean
+- **ID**: arxiv_2602.18307v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.18307v2](http://arxiv.org/abs/2602.18307v2)
+
 ## Terminal Agents Suffice for Enterprise Automation
 - **ID**: arxiv_2604.00073v3
 - **Source**: ArXiv
@@ -265,6 +270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20812v2](http://arxiv.org/abs/2609.20812v2)
 
+## Quantifying Overclaiming Propensity in Frontier LLM Agents
+- **ID**: arxiv_2609.20812v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20812v3](http://arxiv.org/abs/2609.20812v3)
+
 ## GameLogicBench: Evaluating Coding Agents on Runtime Game Logic with Tick-Level State Assertions
 - **ID**: arxiv_2609.21562v2
 - **Source**: ArXiv
@@ -274,4 +284,14 @@
 - **ID**: arxiv_2609.23377v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23377v1](http://arxiv.org/abs/2609.23377v1)
+
+## TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits
+- **ID**: arxiv_2609.26711v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26711v1](http://arxiv.org/abs/2609.26711v1)
+
+## Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen
+- **ID**: arxiv_2609.26749v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26749v1](http://arxiv.org/abs/2609.26749v1)
 

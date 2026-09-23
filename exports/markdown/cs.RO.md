@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.20468v3](http://arxiv.org/abs/2604.20468v3)
 
+## AgenticDiffusion: Multi-View Reasoning with View-Conditioned Diffusion Planning for Vision-Based UAV Navigation
+- **ID**: arxiv_2606.04111v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.04111v2](http://arxiv.org/abs/2606.04111v2)
+
 ## MPCoT: Reward-Guided Multi-Path Latent Reasoning for Test-Time Scalable Vision-Language-Action
 - **ID**: arxiv_2606.06245v2
 - **Source**: ArXiv
@@ -164,6 +169,11 @@
 - **ID**: arxiv_2606.27163v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27163v3](http://arxiv.org/abs/2606.27163v3)
+
+## Route-MHT: Multimodal Transformer Guardrails for Thermal Visual Place Recognition
+- **ID**: arxiv_2607.04745v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04745v2](http://arxiv.org/abs/2607.04745v2)
 
 ## An offline approach to fNIRS-guided reinforcement learning for robot behavior
 - **ID**: arxiv_2607.14393v2
@@ -609,4 +619,14 @@
 - **ID**: arxiv_2609.24976v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24976v1](http://arxiv.org/abs/2609.24976v1)
+
+## DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving
+- **ID**: arxiv_2609.26792v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26792v1](http://arxiv.org/abs/2609.26792v1)
+
+## φ-RIE: From Photorealistic Reconstruction to Interactive Environments
+- **ID**: arxiv_2609.26795v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26795v1](http://arxiv.org/abs/2609.26795v1)
 

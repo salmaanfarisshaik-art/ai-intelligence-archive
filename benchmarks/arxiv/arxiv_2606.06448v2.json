@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.06448v2",
+  "schema_version": "1.0",
+  "name": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.06448v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.06448v2",
+    "updated": "2026-09-22T17:40:09Z",
+    "published": "2026-06-04T17:44:18Z",
+    "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+    "summary": "LLM agents are increasingly deployed on long-horizon tasks requiring sustained reasoning over extended interaction histories. Realizing this at scale requires agents to persistently store, retrieve, and update their own memory across sessions. A rich ecosystem of agent memory systems has emerged spanning flat retrieval, LLM-mediated extraction, consolidating fact stores, and agentic control flows. Yet, their system-level behavior remains uncharacterized. We present the first systems characterization of agent memory. First, we introduce a system-oriented taxonomy classifying agent memory systems along four axes. Second, we build a phase-aware profiling harness attributing cost to construction, retrieval, and generation. Third, we characterize ten representative systems across two benchmark suites, uncovering how design choices shift cost across the write and read paths. Finally, we derive 10 system recommendations covering construction scheduling, capability floors, amortization via query volume, freshness-latency tradeoffs, and fleet-scale management.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:40:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.06448v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

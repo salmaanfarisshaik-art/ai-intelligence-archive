@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18445v3](http://arxiv.org/abs/2608.18445v3)
 
+## Rice's Theorem under Self-Modification: Elevation Operators and a Normal Form
+- **ID**: arxiv_2609.11326v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11326v2](http://arxiv.org/abs/2609.11326v2)
+

@@ -175,6 +175,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.05614v2](http://arxiv.org/abs/2603.05614v2)
 
+## Distributed Legal Infrastructure for a Trustworthy Agentic Web
+- **ID**: arxiv_2603.06884v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.06884v2](http://arxiv.org/abs/2603.06884v2)
+
 ## From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions
 - **ID**: arxiv_2603.13359v2
 - **Source**: ArXiv
@@ -339,6 +344,11 @@
 - **ID**: arxiv_2606.06114v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06114v3](http://arxiv.org/abs/2606.06114v3)
+
+## Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads
+- **ID**: arxiv_2606.06448v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06448v2](http://arxiv.org/abs/2606.06448v2)
 
 ## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
 - **ID**: arxiv_2606.07157v4
@@ -899,6 +909,11 @@
 - **ID**: arxiv_2607.20402v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.20402v1](http://arxiv.org/abs/2607.20402v1)
+
+## VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification
+- **ID**: arxiv_2607.20474v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.20474v2](http://arxiv.org/abs/2607.20474v2)
 
 ## Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks
 - **ID**: arxiv_2607.21482v1
@@ -2145,6 +2160,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24979v2](http://arxiv.org/abs/2608.24979v2)
 
+## BixBench3: Benchmarking AI agents on research-study-scale computational biology tasks
+- **ID**: arxiv_2608.25286v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25286v2](http://arxiv.org/abs/2608.25286v2)
+
 ## Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs
 - **ID**: arxiv_2608.25986v1
 - **Source**: ArXiv
@@ -2555,6 +2575,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05396v1](http://arxiv.org/abs/2609.05396v1)
 
+## MARBO: Relational Belief Grounding for LLM Agents in Social Deduction Games
+- **ID**: arxiv_2609.06563v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.06563v2](http://arxiv.org/abs/2609.06563v2)
+
 ## FrogNano: Training a 4B Coding Agent via Online Task Synthesis
 - **ID**: arxiv_2609.07925v3
 - **Source**: ArXiv
@@ -2960,6 +2985,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24881v1](http://arxiv.org/abs/2609.24881v1)
 
+## Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models
+- **ID**: arxiv_2609.24881v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24881v2](http://arxiv.org/abs/2609.24881v2)
+
 ## A Global Comparison of Schemas, Transparency, and Interoperability in Public-Sector AI Registers and Inventories
 - **ID**: arxiv_2609.24883v1
 - **Source**: ArXiv
@@ -2984,4 +3014,24 @@
 - **ID**: arxiv_2609.24974v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24974v1](http://arxiv.org/abs/2609.24974v1)
+
+## Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It
+- **ID**: arxiv_2609.26758v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26758v1](http://arxiv.org/abs/2609.26758v1)
+
+## Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents
+- **ID**: arxiv_2609.26760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26760v1](http://arxiv.org/abs/2609.26760v1)
+
+## SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving
+- **ID**: arxiv_2609.26777v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26777v1](http://arxiv.org/abs/2609.26777v1)
+
+## CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents
+- **ID**: arxiv_2609.26779v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26779v1](http://arxiv.org/abs/2609.26779v1)
 

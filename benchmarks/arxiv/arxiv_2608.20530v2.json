@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.20530v2",
+  "schema_version": "1.0",
+  "name": "LiLiCorr: Lightweight Likelihood Correlation of Parallel Drafts for Speculative Decoding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.20530v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.20530v2",
+    "updated": "2026-09-22T17:41:26Z",
+    "published": "2026-08-20T19:43:02Z",
+    "title": "LiLiCorr: Lightweight Likelihood Correlation of Parallel Drafts for Speculative Decoding",
+    "summary": "Speculative decoding accelerates language-model inference by drafting future tokens the target model verifies in parallel. A diffusion-style drafter such as DFlash drafts an entire block in one forward pass. It is trained on the per-position marginals rather than on the joint distribution over the block, so the tokens it emits are individually plausible yet jointly incoherent. We introduce LiLiCorr, a Lightweight Likelihood-based model that Correlates the per-position marginals such a drafter produces. It keeps the top-K tokens at each position and processes them jointly, emitting an in and an out vector for each. Two candidates at consecutive positions match when the earlier out vector aligns, in cosine similarity, with the later in vector. Training scores the correct pairings highest and pushes competing ones down, so coherent blocks outscore incoherent ones. The joint distribution over the block, exponential in its length, is never materialized. One lightweight network pass produces all the vectors, the pairwise scores follow as batched matrix operations, leaving only a cheap greedy walk sequential. We co-train the DFlash drafter with LiLiCorr, so it proposes candidates that correlate into longer accepted sequences. Over the vanilla DFlash drafter it builds on, LiLiCorr accepts more and serves faster at all 72 settings we test: nine benchmarks at two target sizes under greedy and temperature-one decoding, plus a throughput sweep over six concurrencies, two input lengths and three output-entropy tiers. It raises acceptance length by 7 to 19%, while its single-pass scoring head costs only about 3% of the per-block latency. Against three concurrently developed methods that also restore coherence at draft time, all equally optimized on a common stack, LiLiCorr holds the highest throughput in 63 of those settings, ties within a measured noise floor in 6, and trails in only 3.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:41:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.20530v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

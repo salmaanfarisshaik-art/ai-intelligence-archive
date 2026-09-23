@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.08701v3",
+  "schema_version": "1.0",
+  "name": "Unified Multimodal Uncertain Inference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.08701v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.08701v3",
+    "updated": "2026-09-22T17:27:13Z",
+    "published": "2026-04-09T18:46:34Z",
+    "title": "Unified Multimodal Uncertain Inference",
+    "summary": "We introduce Unified Multimodal Uncertain Inference (UMUI), a multimodal inference task spanning text, audio, and video, where models must produce calibrated probability estimates of hypotheses conditioned on a premise in any modality or combination. While uncertain inference has been explored in text, extension to other modalities has been limited to single-modality binary entailment judgments, leaving no framework for fine-grained probabilistic reasoning in or across other modalities. To address this, we curate a human-annotated evaluation set with scalar probability judgments across audio, visual, and audiovisual settings, and additionally evaluate on existing text and audio benchmarks. We introduce CLUE (Calibrated Latent Uncertainty Estimation), which combines self-consistent teacher calibration and distribution-based confidence probing to produce calibrated predictions. We demonstrate that our 3B-parameter model achieves equivalent or stronger performance than zero-shot baselines up to 32B parameters across all modalities.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:27:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.08701v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

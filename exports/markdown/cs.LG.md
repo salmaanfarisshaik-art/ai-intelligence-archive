@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.02659v4](http://arxiv.org/abs/2511.02659v4)
 
+## STAR-VAE: A Scalable Latent-Variable Transformer for Controllable Molecular Generation
+- **ID**: arxiv_2511.02769v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.02769v2](http://arxiv.org/abs/2511.02769v2)
+
 ## Stabilizing Multi-Attack Adversarial Training via Bandit Optimization
 - **ID**: arxiv_2511.12265v2
 - **Source**: ArXiv
@@ -1355,6 +1360,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05403v1](http://arxiv.org/abs/2609.05403v1)
 
+## VERPO: Verified Evidence Regularized Policy Optimization
+- **ID**: arxiv_2609.06100v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.06100v3](http://arxiv.org/abs/2609.06100v3)
+
 ## Steering Interference Reflects the Model's Defaults, Not the Behavior Directions
 - **ID**: arxiv_2609.06951v2
 - **Source**: ArXiv
@@ -1599,4 +1609,19 @@
 - **ID**: arxiv_2609.24985v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24985v1](http://arxiv.org/abs/2609.24985v1)
+
+## A Spectral Theory of Grokking: Weight Decay induces Feature Learning
+- **ID**: arxiv_2609.26679v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26679v1](http://arxiv.org/abs/2609.26679v1)
+
+## Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning
+- **ID**: arxiv_2609.26708v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26708v1](http://arxiv.org/abs/2609.26708v1)
+
+## The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence
+- **ID**: arxiv_2609.26718v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26718v1](http://arxiv.org/abs/2609.26718v1)
 

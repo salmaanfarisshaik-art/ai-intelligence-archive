@@ -330,3 +330,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20095v1](http://arxiv.org/abs/2609.20095v1)
 
+## From Alignment to Access Control: A Framework for GenAI Policy Enforcement
+- **ID**: arxiv_2609.26682v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26682v1](http://arxiv.org/abs/2609.26682v1)
+
+## A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem
+- **ID**: arxiv_2609.26761v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26761v1](http://arxiv.org/abs/2609.26761v1)
+

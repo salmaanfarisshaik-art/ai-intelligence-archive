@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.07459v3](http://arxiv.org/abs/2503.07459v3)
 
+## BigO(Bench): Can LLMs Generate Code with Controlled Time and Space Complexity?
+- **ID**: arxiv_2503.15242v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.15242v3](http://arxiv.org/abs/2503.15242v3)
+
 ## ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark
 - **ID**: arxiv_2505.23851v3
 - **Source**: ArXiv
@@ -1130,6 +1135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.13205v2](http://arxiv.org/abs/2607.13205v2)
 
+## ReasonLab: A Controlled and Auditable Evaluation of Prompting Techniques for Multiple-Choice QA
+- **ID**: arxiv_2607.14109v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.14109v2](http://arxiv.org/abs/2607.14109v2)
+
 ## Limits of Reliability and Scaling in Language Models
 - **ID**: arxiv_2607.14112v3
 - **Source**: ArXiv
@@ -2094,6 +2104,11 @@
 - **ID**: arxiv_2608.20373v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.20373v2](http://arxiv.org/abs/2608.20373v2)
+
+## LiLiCorr: Lightweight Likelihood Correlation of Parallel Drafts for Speculative Decoding
+- **ID**: arxiv_2608.20530v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.20530v2](http://arxiv.org/abs/2608.20530v2)
 
 ## RARE: Decoupling Representation Steering from Expert Routing in Mixture-of-Experts Language Models
 - **ID**: arxiv_2608.21236v1
@@ -3095,6 +3110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23371v1](http://arxiv.org/abs/2609.23371v1)
 
+## Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines
+- **ID**: arxiv_2609.24122v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24122v2](http://arxiv.org/abs/2609.24122v2)
+
 ## Decomposing Error and Style in Automated Clinical Coding
 - **ID**: arxiv_2609.24877v1
 - **Source**: ArXiv
@@ -3144,4 +3164,34 @@
 - **ID**: arxiv_2609.24983v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24983v1](http://arxiv.org/abs/2609.24983v1)
+
+## Detecting GPT-Assisted Writing Using Interpretable Stylometric Features
+- **ID**: arxiv_2609.26687v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26687v1](http://arxiv.org/abs/2609.26687v1)
+
+## Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation
+- **ID**: arxiv_2609.26693v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26693v1](http://arxiv.org/abs/2609.26693v1)
+
+## Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning
+- **ID**: arxiv_2609.26704v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26704v1](http://arxiv.org/abs/2609.26704v1)
+
+## SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue
+- **ID**: arxiv_2609.26780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26780v1](http://arxiv.org/abs/2609.26780v1)
+
+## Agensh: Scaling Organizational Intelligence to 1,024 Agents
+- **ID**: arxiv_2609.26781v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26781v1](http://arxiv.org/abs/2609.26781v1)
+
+## Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs
+- **ID**: arxiv_2609.26796v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26796v1](http://arxiv.org/abs/2609.26796v1)
 

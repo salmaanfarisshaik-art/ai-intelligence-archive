@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.26718v1",
+  "schema_version": "1.0",
+  "name": "The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.26718v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.26718v1",
+    "updated": "2026-09-22T17:06:51Z",
+    "published": "2026-09-22T17:06:51Z",
+    "title": "The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence",
+    "summary": "Long-context LLMs focus on retrieving distant evidence from extensive context, yet existing work has largely focused on overcoming distance alone. In this work, we identify the Proximity Trap, insufficient attention to distant evidence often arises less from distance itself than from cumulative competition with abundant, task-irrelevant proximal background. To address the Proximity Trap, we introduce LYRA (Long-context heavY-tailed Relevance Alignment), a t-distributed directional matching mechanism that reshapes the context retrieval distribution, directing more attention mass toward task-relevant evidence, while preserving the relative positional information encoded. Extensive experiments on LongBench-v2, RULER, and LongBench demonstrate consistent improvements across context lengths and task categories. We further introduce ProxBench, a multi-level fine-grained benchmark for evaluating distant evidence utilization under increasing proximal background interference. Project page: https://xiaoyuyoung.github.io/LYRA/",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:06:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.26718v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

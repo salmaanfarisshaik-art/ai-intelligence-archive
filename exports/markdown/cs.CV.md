@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.21307v3](http://arxiv.org/abs/2504.21307v3)
 
+## TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action
+- **ID**: arxiv_2505.01583v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.01583v2](http://arxiv.org/abs/2505.01583v2)
+
 ## Unsupervised Deep Learning-based Keypoint Localization Estimating Descriptor Matching Performance
 - **ID**: arxiv_2505.02779v2
 - **Source**: ArXiv
@@ -390,6 +395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.06438v4](http://arxiv.org/abs/2512.06438v4)
 
+## LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception
+- **ID**: arxiv_2512.08912v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.08912v2](http://arxiv.org/abs/2512.08912v2)
+
 ## FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement
 - **ID**: arxiv_2512.09373v3
 - **Source**: ArXiv
@@ -649,6 +659,11 @@
 - **ID**: arxiv_2604.06156v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.06156v2](http://arxiv.org/abs/2604.06156v2)
+
+## Unified Multimodal Uncertain Inference
+- **ID**: arxiv_2604.08701v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08701v3](http://arxiv.org/abs/2604.08701v3)
 
 ## PinpointQA: A Benchmark for Small Object-Centric Spatial Understanding in Indoor Videos
 - **ID**: arxiv_2604.08991v3
@@ -1534,6 +1549,11 @@
 - **ID**: arxiv_2607.18227v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18227v2](http://arxiv.org/abs/2607.18227v2)
+
+## FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry
+- **ID**: arxiv_2607.18227v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18227v3](http://arxiv.org/abs/2607.18227v3)
 
 ## Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
 - **ID**: arxiv_2607.18230v1
@@ -4584,4 +4604,44 @@
 - **ID**: arxiv_2609.25001v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.25001v1](http://arxiv.org/abs/2609.25001v1)
+
+## Longitudinal Retinal Vascular Remodeling in Myopic Children Treated with Orthokeratology or Defocus Lenses: A Two-Year Comparative Study
+- **ID**: arxiv_2609.26662v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26662v1](http://arxiv.org/abs/2609.26662v1)
+
+## DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection
+- **ID**: arxiv_2609.26702v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26702v1](http://arxiv.org/abs/2609.26702v1)
+
+## GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation
+- **ID**: arxiv_2609.26729v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26729v1](http://arxiv.org/abs/2609.26729v1)
+
+## ASTRA-SR: Atmospheric Seeing and Turbulence Restoration for Astronomical Image Super-Resolution
+- **ID**: arxiv_2609.26731v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26731v1](http://arxiv.org/abs/2609.26731v1)
+
+## Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism
+- **ID**: arxiv_2609.26733v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26733v1](http://arxiv.org/abs/2609.26733v1)
+
+## FleXray: Universal Clinical X-ray Segmentation
+- **ID**: arxiv_2609.26756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26756v1](http://arxiv.org/abs/2609.26756v1)
+
+## StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
+- **ID**: arxiv_2609.26774v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26774v1](http://arxiv.org/abs/2609.26774v1)
+
+## HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis
+- **ID**: arxiv_2609.26793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26793v1](http://arxiv.org/abs/2609.26793v1)
 

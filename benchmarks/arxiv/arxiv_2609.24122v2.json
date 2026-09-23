@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.24122v2",
+  "schema_version": "1.0",
+  "name": "Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.24122v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.24122v2",
+    "updated": "2026-09-22T17:14:52Z",
+    "published": "2026-09-21T05:19:40Z",
+    "title": "Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines",
+    "summary": "Retrieval-augmented generation (RAG) is hard to monitor in production: exhaustive relevance labels do not exist for non-stationary multi-million-passage corpora that re-index in real time. As a result, retrieval quality is generally understudied and often deprioritised in favour of generation-oriented metrics. In this work, we propose auditing retrieval coverage by probing for evidence of missing documents rather than enumerating every relevant one. Our method Re:CAP (REtrieval Coverage Audit by iterative Probing) is a reference-free audit loop applied to a deployed RAG pipeline's initial answer and retrieved context: it identifies the topics already covered, generates probing questions for plausibly missing topics, retrieves candidate documents, and applies an LLM-as-judge to retain only those that introduce previously-unretrieved information. On four public benchmarks, Re:CAP recovers 9-29% of gold labels that flat BM25 top-500 cannot reach, rising to 48% on TREC-COVID. On MuSiQue Re:CAP beats flat hybrid top-500 by +12.9 pp on recall at less than half the document budget. An ensemble BM25, dense, and hybrid baseline (top-500 each) still leaves out 21.2% of gold docs on TREC-COVID that Re:CAP recovers; human annotators judge that 78.9% of those structurally distinct documents add new information to the baseline answer (Fleiss $κ$ = 0.79, n = 123), and 73.9% on live production traffic (n = 180). End-to-end recall is reproducible to within $\\pm$1% across three independent runs, making Re:CAP a stable instrument for periodic retrieval audits.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:14:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.24122v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

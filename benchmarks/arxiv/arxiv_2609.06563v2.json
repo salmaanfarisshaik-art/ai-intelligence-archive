@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.06563v2",
+  "schema_version": "1.0",
+  "name": "MARBO: Relational Belief Grounding for LLM Agents in Social Deduction Games",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.06563v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.06563v2",
+    "updated": "2026-09-22T17:27:28Z",
+    "published": "2026-09-06T12:18:39Z",
+    "title": "MARBO: Relational Belief Grounding for LLM Agents in Social Deduction Games",
+    "summary": "Social deduction games (SDGs) require agents to reason under partial observability by maintaining relational beliefs about hidden roles and team alignments. While recent LLM-agent approaches improve gameplay through prompting and preference optimization, they often optimize actions and in-game speech without explicitly grounding them in such beliefs. This frequently leads to strategically inconsistent behavior, especially for compact LLM agents. We introduce Multi-Agent Relational Belief Optimization (MARBO), a belief-grounded preference optimization framework that leverages relational beliefs to guide strategic decisions and in-game speech. MARBO provides preference feedback only when behaviors are supported by reliable relational beliefs and lead to strategically favorable social outcomes, encouraging more consistent learning under uncertainty. Experiments on representative SDGs show that MARBO enables compact LLM agents to consistently outperform existing baselines. The Code is available on https://github.com/PleaseTakemeAway/MARBO.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:27:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.06563v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.01583v2",
+  "schema_version": "1.0",
+  "name": "TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.01583v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.01583v2",
+    "updated": "2026-09-22T17:54:38Z",
+    "published": "2025-05-02T21:00:17Z",
+    "title": "TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action",
+    "summary": "Understanding causal event relationships and achieving fine-grained temporal grounding in videos remain challenging for vision-language models (VLMs). We propose TEMPURA (Temporal Event Masked Prediction and Understanding for Reasoning in Action), a two-stage training framework that enhances the video temporal understanding of VLMs. Inspired by infilling techniques in language modeling, TEMPURA first performs masked event prediction, learning to reconstruct missing events and generate step-by-step causal explanations from dense event annotations. It then learns video segmentation and dense captioning, decomposing videos into non-overlapping events with detailed, timestamp-aligned descriptions. We train TEMPURA on VER, our large-scale dataset of 500K videos annotated with temporally aligned event descriptions and structured reasoning steps. Experiments on video temporal grounding and highlight detection benchmarks show that TEMPURA substantially improves strong base VLMs across model families and scales, confirming that combining event-level reasoning with fine-grained temporal segmentation is an effective recipe for video temporal understanding.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T17:54:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.01583v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

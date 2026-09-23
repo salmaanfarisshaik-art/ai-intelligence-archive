@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.08912v2",
+  "schema_version": "1.0",
+  "name": "LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.08912v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.08912v2",
+    "updated": "2026-09-22T16:27:56Z",
+    "published": "2025-12-09T18:47:56Z",
+    "title": "LiDAS: Lighting-driven Dynamic Active Sensing for Nighttime Perception",
+    "summary": "Nighttime environments pose significant challenges for camera-based perception, as existing methods passively rely on the scene lighting. We introduce Lighting-driven Dynamic Active Sensing (LiDAS), a closed-loop active illumination system that combines off-the-shelf visual perception models with high-definition headlights. Rather than uniformly brightening the scene, LiDAS dynamically predicts an optimal illumination field that maximizes downstream perception performance, i.e., decreasing light on empty areas to reallocate it on object regions. LiDAS enables zero-shot nighttime generalization of daytime-trained models through adaptive illumination control. Trained on synthetic data and deployed zero-shot in real-world closed-loop driving scenarios, LiDAS enables +18.7% mAP50 and +5.0% mIoU over standard low-beam at equal power. It maintains performances while reducing energy use by 40%. LiDAS complements domain-generalization methods, further strengthening robustness without retraining. By turning readily available headlights into active vision actuators, LiDAS offers a cost-effective solution to robust nighttime perception.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-23T04:34:50Z",
+  "last_updated": "2026-09-22T16:27:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.08912v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

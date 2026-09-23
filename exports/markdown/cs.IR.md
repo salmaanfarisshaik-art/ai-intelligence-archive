@@ -100,6 +100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.16797v1](http://arxiv.org/abs/2608.16797v1)
 
+## GreekBarRetrieval: A Benchmark for Greek Statutory Retrieval
+- **ID**: arxiv_2608.18752v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18752v3](http://arxiv.org/abs/2608.18752v3)
+
 ## Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference
 - **ID**: arxiv_2608.20210v1
 - **Source**: ArXiv
