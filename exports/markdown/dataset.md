@@ -814,6 +814,12 @@
 - **URL**: [https://huggingface.co/datasets/GAIR/Darwin-CC](https://huggingface.co/datasets/GAIR/Darwin-CC)
 - **Tags**: format:json, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:text, region:us, size_categories:1B<n<10B
 
+## IPEC-COMMUNITY/FastUMI_100k_lerobot
+- **ID**: hf_ds_69aeca98da1fe7c6cd62840f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI_100k_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/FastUMI_100k_lerobot)
+- **Tags**: arxiv:2510.08022, region:us
+
 ## Maximilians/ps2_hf1
 - **ID**: hf_ds_69af8a70d620f76274dcd367
 - **Source**: HuggingFace Datasets
@@ -836,6 +842,12 @@
 - **ID**: hf_ds_69b169093bb915e5a938f797
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/chuhaojie/MELD](https://huggingface.co/datasets/chuhaojie/MELD)
+- **Tags**: region:us
+
+## pjpjq/blofin-oi-data
+- **ID**: hf_ds_69b2bde899b45e116cbdf862
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/pjpjq/blofin-oi-data](https://huggingface.co/datasets/pjpjq/blofin-oi-data)
 - **Tags**: region:us
 
 ## Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12

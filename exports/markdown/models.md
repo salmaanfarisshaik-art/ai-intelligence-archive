@@ -612,6 +612,10 @@
 - **ID**: model_bartowski_qwen_qwen3_1_7b_gguf
 - **Source**: 
 
+## bartowski/Qwen_Qwen3-4B-Instruct-2507-GGUF
+- **ID**: model_bartowski_qwen_qwen3_4b_instruct_2507_gguf
+- **Source**: 
+
 ## bartowski/Qwen_Qwen3-8B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_8b_gguf
 - **Source**: 
@@ -1034,6 +1038,10 @@
 
 ## deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit
 - **ID**: model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit
+- **Source**: 
+
+## dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF
+- **ID**: model_dealignai_bonsai_2_27b_ternary_crack_gguf
 - **Source**: 
 
 ## dealignai/GLM-5.3-CYBERSECURITY-FP8
@@ -1970,6 +1978,10 @@
 
 ## ibm-granite/granite-3b-code-base-2k
 - **ID**: model_ibm_granite_granite_3b_code_base_2k
+- **Source**: 
+
+## ibm-granite/granite-4.0-1b-base
+- **ID**: model_ibm_granite_granite_4_0_1b_base
 - **Source**: 
 
 ## ibm-granite/granite-4.0-h-micro
@@ -3598,6 +3610,10 @@
 
 ## nota-ai/Solar-Open2-250B-Nota-NVFP4
 - **ID**: model_nota_ai_solar_open2_250b_nota_nvfp4
+- **Source**: 
+
+## NousResearch/Hermes-2-Pro-Mistral-7B
+- **ID**: model_nousresearch_hermes_2_pro_mistral_7b
 - **Source**: 
 
 ## NousResearch/Hermes-3-Llama-3.1-70B
@@ -5404,12 +5420,20 @@
 - **ID**: model_sakamakismile_qwen3_8_27b_mtp_nvfp4
 - **Source**: 
 
+## Salesforce/codegen2-16B_P
+- **ID**: model_salesforce_codegen2_16b_p
+- **Source**: 
+
 ## Salesforce/codegen-350M-mono
 - **ID**: model_salesforce_codegen_350m_mono
 - **Source**: 
 
 ## Salesforce/ctrl
 - **ID**: model_salesforce_ctrl
+- **Source**: 
+
+## Salesforce/Llama-xLAM-2-8b-fc-r
+- **ID**: model_salesforce_llama_xlam_2_8b_fc_r
 - **Source**: 
 
 ## SanctumAI/gemma-2-9b-it-GGUF

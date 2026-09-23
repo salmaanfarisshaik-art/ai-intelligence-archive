@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "Syn4D/Syn4D",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/                    # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_1_attachments/        # Additional per-scene attachments for Syn4D V1 stride-1\n  syn4d_v1_stride_5/                    # Syn4D V1, every 5th frame can be a tracking… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
-  "size": "351291",
+  "size": "354879",
   "source_url": "https://huggingface.co/datasets/Syn4D/Syn4D",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,7 +19,7 @@
     "private": false,
     "sha": "bb08d13faabc0649a4a938030025e9e2b32a6189",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tSyn4D: A Multiview Synthetic 4D Dataset\n\t\n\nSyn4D is a synthetic 4D dataset with multi-view RGB videos, depth, masks, tracking geometry, and supporting object mesh metadata.\n\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\ndata/\n  syn4d_v1_stride_1/                    # Syn4D V1, every frame can be a tracking reference frame\n  syn4d_v1_stride_1_attachments/        # Additional per-scene attachments for Syn4D V1 stride-1\n  syn4d_v1_stride_5/                    # Syn4D V1, every 5th frame can be a tracking… See the full description on the dataset page: https://huggingface.co/datasets/Syn4D/Syn4D.",
-    "downloads": 351291,
+    "downloads": 354879,
     "tags": [
       "license:cc-by-4.0",
       "arxiv:2605.05207",
@@ -28,7 +28,7 @@
     "createdAt": "2026-06-21T18:37:35.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-09-22T13:06:46.471285+00:00",
+  "retrieval_timestamp": "2026-09-23T14:41:34.501691+00:00",
   "last_updated": "2026-09-15T06:18:01.000Z",
   "links": {
     "related_models": [

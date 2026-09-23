@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:44:40.686497+00:00",
+  "generated_at": "2026-09-23T14:41:42.710657+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -122575,6 +122575,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_facebook_multilingual_librispeech",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_facebook_seamless_interaction",
       "label": ""
     },
@@ -125171,6 +125176,11 @@
     {
       "category": "datasets",
       "id": "dataset_icdn20_content_20260817eba3",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_icdn20_content_202608257ac7",
       "label": ""
     },
     {
@@ -128276,6 +128286,11 @@
     {
       "category": "datasets",
       "id": "dataset_prolongvid_prolongvid_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_pruna_test_documentation_media",
       "label": ""
     },
     {
@@ -134145,6 +134160,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_69aeca98da1fe7c6cd62840f",
+      "label": "IPEC-COMMUNITY/FastUMI_100k_lerobot"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_69af8a70d620f76274dcd367",
       "label": "Maximilians/ps2_hf1"
     },
@@ -134162,6 +134182,11 @@
       "category": "dataset",
       "id": "hf_ds_69b169093bb915e5a938f797",
       "label": "chuhaojie/MELD"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_69b2bde899b45e116cbdf862",
+      "label": "pjpjq/blofin-oi-data"
     },
     {
       "category": "dataset",
@@ -142710,6 +142735,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_qwen_qwen3_4b_instruct_2507_gguf",
+      "label": "bartowski/Qwen_Qwen3-4B-Instruct-2507-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_qwen_qwen3_8b_gguf",
       "label": "bartowski/Qwen_Qwen3-8B-GGUF"
     },
@@ -143237,6 +143267,11 @@
       "category": "models",
       "id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
       "label": "deadbydawn101/gemma-4-E4B-Agentic-Opus-Reasoning-GeminiCLI-mlx-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
+      "label": "dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF"
     },
     {
       "category": "models",
@@ -144407,6 +144442,11 @@
       "category": "models",
       "id": "model_ibm_granite_granite_3b_code_base_2k",
       "label": "ibm-granite/granite-3b-code-base-2k"
+    },
+    {
+      "category": "models",
+      "id": "model_ibm_granite_granite_4_0_1b_base",
+      "label": "ibm-granite/granite-4.0-1b-base"
     },
     {
       "category": "models",
@@ -146442,6 +146482,11 @@
       "category": "models",
       "id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
       "label": "nota-ai/Solar-Open2-250B-Nota-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_nousresearch_hermes_2_pro_mistral_7b",
+      "label": "NousResearch/Hermes-2-Pro-Mistral-7B"
     },
     {
       "category": "models",
@@ -148700,6 +148745,11 @@
     },
     {
       "category": "models",
+      "id": "model_salesforce_codegen2_16b_p",
+      "label": "Salesforce/codegen2-16B_P"
+    },
+    {
+      "category": "models",
       "id": "model_salesforce_codegen_350m_mono",
       "label": "Salesforce/codegen-350M-mono"
     },
@@ -148707,6 +148757,11 @@
       "category": "models",
       "id": "model_salesforce_ctrl",
       "label": "Salesforce/ctrl"
+    },
+    {
+      "category": "models",
+      "id": "model_salesforce_llama_xlam_2_8b_fc_r",
+      "label": "Salesforce/Llama-xLAM-2-8b-fc-r"
     },
     {
       "category": "models",
@@ -289190,6 +289245,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/index/gradient-labs",
       "label": ""
     },
@@ -290931,6 +290991,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/openai-en-france",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "label": ""
     },
     {
@@ -447850,5 +447915,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 89569
+  "total_nodes": 89582
 }

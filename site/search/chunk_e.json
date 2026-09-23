@@ -10309,6 +10309,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_esa_philab_oceandepths",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mu_nlpc_calc_mawps",
       "match_type": "exact",
       "score": 1.0
@@ -26255,6 +26260,11 @@
     },
     {
       "entity_id": "dataset_sharinka0715_x_wam_robotwin",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69aeca98da1fe7c6cd62840f",
       "match_type": "exact",
       "score": 1.0
     }
@@ -46236,6 +46246,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_anandmayank_quest_partnetmobility_sapien",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_autelrobotics_cosfly",
       "match_type": "exact",
       "score": 1.5
@@ -56661,6 +56676,11 @@
     },
     {
       "entity_id": "dataset_scholarweave_arxiv_latex",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_secemp9_arxiv_complete",
       "match_type": "exact",
       "score": 1.5
     },
@@ -68158,6 +68178,11 @@
     },
     {
       "entity_id": "dataset_teetone_roboreward",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69aeca98da1fe7c6cd62840f",
       "match_type": "exact",
       "score": 1.0
     },
@@ -107559,6 +107584,11 @@
   "esa": [
     {
       "entity_id": "alpaca_-873016377399528273",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_esa_philab_oceandepths",
       "match_type": "exact",
       "score": 1.0
     },
@@ -171521,9 +171551,19 @@
       "entity_id": "rss_https://openai.com/index/openai-and-microsoft-extend-partnership",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "extends": [
+    {
+      "entity_id": "rss_https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "alpaca_1287338470925130390",
       "match_type": "exact",

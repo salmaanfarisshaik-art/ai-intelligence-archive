@@ -2676,6 +2676,11 @@
 - **URL**: [https://openai.com/index/grab](https://openai.com/index/grab)
 
 ## 
+- **ID**: rss_https://openai.com/index/grab-openai-ai-skills-southeast-asia
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/grab-openai-ai-skills-southeast-asia](https://openai.com/index/grab-openai-ai-skills-southeast-asia)
+
+## 
 - **ID**: rss_https://openai.com/index/gradient-labs
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gradient-labs](https://openai.com/index/gradient-labs)
@@ -4419,6 +4424,11 @@
 - **ID**: rss_https://openai.com/index/openai-en-france
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-en-france](https://openai.com/index/openai-en-france)
+
+## 
+- **ID**: rss_https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
 
 ## 
 - **ID**: rss_https://openai.com/index/openai-fellows

@@ -1,0 +1,33 @@
+{
+  "_id": "6a0ed31f582c124cceb9da66",
+  "id": "ESA-philab/OceanDepths",
+  "author": "ESA-philab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-08-18T14:10:15.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d8c813ebd6126066ebe8a13b4c6bae769c8e0a07",
+  "description": "\n  \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tOceanDepths GeoTIFF Raster and Aligned ARGO Dataset\n\t\n\nThis dataset package contains the model-ready Ocean variables (ARGO submarine data, sea surface height, sea surface temperature and\nsalinity, as well as GLORYS reanalysis information for 50 depth levels. The ARGO data has been projected onto the GLORYS grid in order\nto build a ML-ready dataset. The intention is that users can create tensors easily for CV-inspired ML approaches to ocean-variable\nreconstruction. While… See the full description on the dataset page: https://huggingface.co/datasets/ESA-philab/OceanDepths.",
+  "downloads": 38904,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1M<n<10M",
+    "modality:image",
+    "modality:tabular",
+    "modality:text",
+    "region:us",
+    "oceanography",
+    "argo",
+    "glorys",
+    "ostia",
+    "sea-level",
+    "sea-surface-salinity",
+    "geotiff",
+    "zarr"
+  ],
+  "createdAt": "2026-05-21T09:40:47.000Z",
+  "key": "",
+  "unique_id": "dataset_esa_philab_oceandepths",
+  "schema_version": "1.0"
+}

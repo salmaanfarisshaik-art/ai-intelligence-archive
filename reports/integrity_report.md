@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-09-23T09:44:42.736432+00:00
-**Warnings:** 3282
+**Generated:** 2026-09-23T14:41:44.323054+00:00
+**Warnings:** 3283
 **Errors:** 240
 
 ## Issues
@@ -3454,6 +3454,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/shash42
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/siril-spcc
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/IPEC-COMMUNITY
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/agibot-world
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PresentBench
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tars-robotics
