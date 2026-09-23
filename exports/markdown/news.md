@@ -5161,6 +5161,11 @@
 - **URL**: [https://openai.com/index/ringcentral](https://openai.com/index/ringcentral)
 
 ## 
+- **ID**: rss_https://openai.com/index/ringg
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/ringg](https://openai.com/index/ringg)
+
+## 
 - **ID**: rss_https://openai.com/index/rl2
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/rl2](https://openai.com/index/rl2)
@@ -5879,6 +5884,11 @@
 - **ID**: rss_https://openai.com/index/truthfulqa
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/truthfulqa](https://openai.com/index/truthfulqa)
+
+## 
+- **ID**: rss_https://openai.com/index/two-years-of-openai-academy
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/two-years-of-openai-academy](https://openai.com/index/two-years-of-openai-academy)
 
 ## 
 - **ID**: rss_https://openai.com/index/typeform

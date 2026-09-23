@@ -6913,6 +6913,11 @@
       "score": 28.0
     },
     {
+      "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 25.5
+    },
+    {
       "entity_id": "dataset_shadena_mathnet",
       "match_type": "exact",
       "score": 25.5
@@ -15835,6 +15840,11 @@
     },
     {
       "entity_id": "dataset_facebook_xnli",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_google_svq",
       "match_type": "exact",
       "score": 2.0
     },
@@ -57089,6 +57099,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/ringg",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/using-gpt-4-for-content-moderation",
       "match_type": "exact",
       "score": 1.0
@@ -68341,11 +68356,6 @@
       "score": 6.0
     },
     {
-      "entity_id": "dataset_google_svq",
-      "match_type": "exact",
-      "score": 6.0
-    },
-    {
       "entity_id": "dataset_google_waxalnlp",
       "match_type": "exact",
       "score": 6.0
@@ -69717,6 +69727,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 6.0
     },
@@ -75287,6 +75302,11 @@
     },
     {
       "entity_id": "dataset_google_research_datasets_paws",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_google_svq",
       "match_type": "exact",
       "score": 1.5
     },
@@ -135692,6 +135712,13 @@
       "entity_id": "rss_https://openai.com/index/warp",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "locales": [
+    {
+      "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "localisation": [
