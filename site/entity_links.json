@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T04:36:08Z",
+  "generated_at": "2026-09-23T09:45:41Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -79,6 +79,11 @@
     {
       "source_id": "hf_Qwen_Qwen3-8B",
       "target_id": "hf_Qwen_Qwen3-8B-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_Qwen_Qwen3-8B-AWQ",
+      "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
     },
     {
@@ -1152,6 +1157,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_qwen_qwen3_4b_instruct_2507_gguf",
+      "target_id": "hf_Qwen_Qwen3-4B-Instruct-2507",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_qwen_qwen3_8b_gguf",
       "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
@@ -1789,6 +1799,11 @@
     {
       "source_id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
       "target_id": "hf_deadbydawn101_gemma-4-E4B-mlx-4bit",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
@@ -4762,6 +4777,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nousresearch_hermes_2_pro_mistral_7b",
+      "target_id": "hf_mistralai_Mistral-7B-v0.1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nousresearch_hermes_2_pro_mistral_7b",
+      "target_id": "hf_teknium_OpenHermes-2.5",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nousresearch_hermes_3_llama_3_1_70b",
       "target_id": "hf_meta-llama_Llama-3.1-70B",
       "type": "derived_from"
@@ -7215,6 +7240,16 @@
       "source_id": "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_salesforce_llama_xlam_2_8b_fc_r",
+      "target_id": "hf_Salesforce_APIGen-MT-5k",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_salesforce_llama_xlam_2_8b_fc_r",
+      "target_id": "hf_Salesforce_xlam-function-calling-60k",
+      "type": "trained_on"
     },
     {
       "source_id": "model_sanctumai_gemma_2_9b_it_gguf",

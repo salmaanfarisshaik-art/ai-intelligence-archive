@@ -31,6 +31,7 @@
   ],
   "4-bit": [
     "hf_Qwen_Qwen3-14B-AWQ",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_antirez_deepseek-v4-gguf"
   ],
   "8-bit": [
@@ -460,7 +461,8 @@
     "hf_Qwen_Qwen3-30B-A3B",
     "hf_Qwen_Qwen3-32B",
     "hf_Qwen_Qwen3-4B",
-    "hf_Qwen_Qwen3-8B"
+    "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ"
   ],
   "arxiv:2309.16609": [
     "hf_Qwen_Qwen-72B"
@@ -625,6 +627,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF"
   ],
   "arxiv:2505.20411": [
@@ -759,7 +762,8 @@
     "hf_ds_67e58fa6625f0f6c8447f37c"
   ],
   "awq": [
-    "hf_Qwen_Qwen3-14B-AWQ"
+    "hf_Qwen_Qwen3-14B-AWQ",
+    "hf_Qwen_Qwen3-8B-AWQ"
   ],
   "aws": [
     "advanced-terraform-aws-scaffolding",
@@ -812,6 +816,9 @@
   ],
   "base_model:Qwen/Qwen3-4B-Thinking-2507": [
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
+  ],
+  "base_model:Qwen/Qwen3-8B": [
+    "hf_Qwen_Qwen3-8B-AWQ"
   ],
   "base_model:Qwen/Qwen3-8B-Base": [
     "hf_Qwen_Qwen3-8B",
@@ -925,6 +932,9 @@
   ],
   "base_model:quantized:Qwen/Qwen3-14B": [
     "hf_Qwen_Qwen3-14B-AWQ"
+  ],
+  "base_model:quantized:Qwen/Qwen3-8B": [
+    "hf_Qwen_Qwen3-8B-AWQ"
   ],
   "base_model:quantized:Qwen/Qwen3-Coder-30B-A3B-Instruct": [
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF"
@@ -1074,6 +1084,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_antirez_deepseek-v4-gguf",
@@ -1498,6 +1509,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -4176,6 +4188,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -4993,6 +5006,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
     "hf_Qwen_Qwen3-Embedding-8B",
@@ -5079,6 +5093,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -5378,6 +5393,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -6015,6 +6031,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",
@@ -6091,6 +6108,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_RadixArk_Kimi-K3-DSpark",
     "hf_TinyLlama_TinyLlama-1.1B-Chat-v1.0",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -6166,6 +6184,7 @@
     "hf_Qwen_Qwen3-4B-Base",
     "hf_Qwen_Qwen3-4B-Instruct-2507",
     "hf_Qwen_Qwen3-8B",
+    "hf_Qwen_Qwen3-8B-AWQ",
     "hf_Qwen_Qwen3-Coder-Next-FP8",
     "hf_Qwen_Qwen3-Embedding-0.6B",
     "hf_Qwen_Qwen3-Embedding-4B",

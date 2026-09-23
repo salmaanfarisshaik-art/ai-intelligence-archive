@@ -1557,6 +1557,7 @@
 - **ID**: hf_Qwen_Qwen3-8B-AWQ
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-8B-AWQ](https://huggingface.co/Qwen/Qwen3-8B-AWQ)
+- **Tags**: 4-bit, arxiv:2309.00071, arxiv:2505.09388, awq, base_model:Qwen/Qwen3-8B, base_model:quantized:Qwen/Qwen3-8B, conversational, endpoints_compatible, license:apache-2.0, qwen3, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen3-8B-Base
 - **ID**: hf_Qwen_Qwen3-8B-Base

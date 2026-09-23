@@ -19520,6 +19520,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_facebook_multilingual_librispeech",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_foursquare_fsq_os_places",
       "match_type": "exact",
       "score": 1.0
@@ -34655,6 +34660,11 @@
     },
     {
       "entity_id": "dataset_disco_eth_worldspeech",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_facebook_multilingual_librispeech",
       "match_type": "exact",
       "score": 1.5
     },
@@ -56593,6 +56603,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_facebook_multilingual_librispeech",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_facebook_seamless_interaction",
       "match_type": "exact",
       "score": 1.5
@@ -59179,6 +59194,11 @@
     },
     {
       "entity_id": "dataset_icdn20_content_20260817eba3",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_icdn20_content_202608257ac7",
       "match_type": "exact",
       "score": 1.5
     },
@@ -62278,6 +62298,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_pruna_test_documentation_media",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_pscotti_mindeyev2",
       "match_type": "exact",
       "score": 1.5
@@ -65243,6 +65268,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_qwen_qwen3_4b_instruct_2507_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_qwen_qwen3_8b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -65769,6 +65799,11 @@
     },
     {
       "entity_id": "model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -66939,6 +66974,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_3b_code_base_2k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_0_1b_base",
       "match_type": "exact",
       "score": 1.5
     },
@@ -68974,6 +69014,11 @@
     },
     {
       "entity_id": "model_nota_ai_solar_open2_250b_nota_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nousresearch_hermes_2_pro_mistral_7b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -71233,12 +71278,22 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_salesforce_codegen2_16b_p",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_salesforce_codegen_350m_mono",
       "match_type": "exact",
       "score": 1.5
     },
     {
       "entity_id": "model_salesforce_ctrl",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_salesforce_llama_xlam_2_8b_fc_r",
       "match_type": "exact",
       "score": 1.5
     },
@@ -111560,6 +111615,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_facebook_multilingual_librispeech",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_facebook_seamless_interaction",
       "match_type": "exact",
       "score": 1.0
@@ -125290,6 +125350,13 @@
       "entity_id": "alpaca_3876089119987664126",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "restructured": [
+    {
+      "entity_id": "dataset_facebook_multilingual_librispeech",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "restructuring": [
@@ -154880,6 +154947,11 @@
     },
     {
       "entity_id": "model_aaditya_llama3_openbiollm_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nousresearch_hermes_2_pro_mistral_7b",
       "match_type": "exact",
       "score": 1.5
     },

@@ -3532,8 +3532,29 @@
     "title": "Qwen/Qwen3-8B-AWQ",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "4-bit",
+      "arxiv:2309.00071",
+      "arxiv:2505.09388",
+      "awq",
+      "base_model:Qwen/Qwen3-8B",
+      "base_model:quantized:Qwen/Qwen3-8B",
+      "conversational",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen3",
+      "region:us",
+      "safetensors",
+      "text-generation",
+      "text-generation-inference",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/Qwen/Qwen3-8B-AWQ",
     "local_path": "models/qwen/hf_Qwen_Qwen3-8B-AWQ.json"
   },

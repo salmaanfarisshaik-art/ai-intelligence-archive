@@ -9,7 +9,7 @@
   "private": false,
   "sha": "56a5ea2bfc6a6445e9e3ed58130ef1fb2759e6c6",
   "description": "\n\t\n\t\t\n\t\tMultilingual Tokenizer Benchmark\n\t\n\nThis dataset includes pre-processed wikipedia data for tokenizer evaluation in 45 languages. We provide more information on the evaluation task in general this blogpost.\n\n\t\n\t\t\n\t\tUsage\n\t\n\nThe dataset allows us to easily calculate tokenizer fertility and the proportion of continued words on any of the supported languages. In the example below we take the Mistral tokenizer and evaluate its performance on Slovak. \nfrom transformers import AutoTokenizer… See the full description on the dataset page: https://huggingface.co/datasets/occiglot/tokenizer-wiki-bench.",
-  "downloads": 39043,
+  "downloads": 39693,
   "tags": [
     "language:af",
     "language:ar",
