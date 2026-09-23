@@ -2454,6 +2454,11 @@
       "entity_id": "rss_https://openai.com/global-affairs/new-economic-analysis",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "laboratories": [
@@ -69357,11 +69362,6 @@
     },
     {
       "entity_id": "dataset_rl_research_dsqa",
-      "match_type": "exact",
-      "score": 6.0
-    },
-    {
-      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 6.0
     },
