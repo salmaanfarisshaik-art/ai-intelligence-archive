@@ -3425,11 +3425,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_robeedau_airlens_live",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_rubend18_chatgpt_jailbreak_prompts",
       "match_type": "exact",
       "score": 1.5
@@ -33781,6 +33776,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/airbnb-gpt-6-astra",
       "match_type": "exact",
       "score": 1.0
     },
@@ -67928,11 +67928,6 @@
     },
     {
       "entity_id": "dataset_rl_research_dsqa",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 1.5
     },
@@ -185469,6 +185464,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/sam-altman-un-security-council-remarks",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/sea-david-chen",
       "match_type": "exact",
       "score": 3.0
@@ -291567,6 +291567,13 @@
       "score": 1.0
     }
   ],
+  "threefold": [
+    {
+      "entity_id": "rss_https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "threeliu": [
     {
       "entity_id": "dataset_threeliu_treasure",
@@ -332229,6 +332236,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/airbnb-gpt-6-astra",
       "match_type": "exact",
       "score": 4.0
     },
@@ -386403,6 +386415,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/health-in-chatgpt",
       "match_type": "exact",
       "score": 1.0
@@ -387174,6 +387191,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/salesforce",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/sam-altman-un-security-council-remarks",
       "match_type": "exact",
       "score": 1.0
     },
@@ -558893,6 +558915,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/braintrust",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/harvey-from-context-to-confidence-with-astra",
       "match_type": "exact",
       "score": 2.0
     },

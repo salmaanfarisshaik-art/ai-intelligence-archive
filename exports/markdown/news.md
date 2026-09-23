@@ -716,6 +716,11 @@
 - **URL**: [https://openai.com/index/ai-safety-needs-social-scientists](https://openai.com/index/ai-safety-needs-social-scientists)
 
 ## 
+- **ID**: rss_https://openai.com/index/airbnb-gpt-6-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/airbnb-gpt-6-astra](https://openai.com/index/airbnb-gpt-6-astra)
+
+## 
 - **ID**: rss_https://openai.com/index/altera
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/altera](https://openai.com/index/altera)
@@ -2721,6 +2726,11 @@
 - **URL**: [https://openai.com/index/harvey](https://openai.com/index/harvey)
 
 ## 
+- **ID**: rss_https://openai.com/index/harvey-from-context-to-confidence-with-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/harvey-from-context-to-confidence-with-astra](https://openai.com/index/harvey-from-context-to-confidence-with-astra)
+
+## 
 - **ID**: rss_https://openai.com/index/health-in-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/health-in-chatgpt](https://openai.com/index/health-in-chatgpt)
@@ -3326,6 +3336,11 @@
 - **URL**: [https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt](https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-mentalhealthbench
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-mentalhealthbench](https://openai.com/index/introducing-mentalhealthbench)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind)
@@ -3539,6 +3554,11 @@
 - **ID**: rss_https://openai.com/index/invideo-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/invideo-ai](https://openai.com/index/invideo-ai)
+
+## 
+- **ID**: rss_https://openai.com/index/invideo-builds-with-gpt-6-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/invideo-builds-with-gpt-6-astra](https://openai.com/index/invideo-builds-with-gpt-6-astra)
 
 ## 
 - **ID**: rss_https://openai.com/index/inworld-ai-DO-NOT-PUBLISH
@@ -5234,6 +5254,11 @@
 - **ID**: rss_https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board](https://openai.com/index/sam-altman-returns-as-ceo-openai-has-a-new-initial-board)
+
+## 
+- **ID**: rss_https://openai.com/index/sam-altman-un-security-council-remarks
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/sam-altman-un-security-council-remarks](https://openai.com/index/sam-altman-un-security-council-remarks)
 
 ## 
 - **ID**: rss_https://openai.com/index/samsung-and-sk-join-stargate
