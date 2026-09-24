@@ -185,6 +185,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.13359v2](http://arxiv.org/abs/2603.13359v2)
 
+## InterPol: De-anonymizing LM Arena via Interpolated Preference Learning
+- **ID**: arxiv_2603.15220v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.15220v2](http://arxiv.org/abs/2603.15220v2)
+
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
@@ -649,6 +654,11 @@
 - **ID**: arxiv_2606.26502v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.26502v4](http://arxiv.org/abs/2606.26502v4)
+
+## TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference
+- **ID**: arxiv_2606.27161v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27161v2](http://arxiv.org/abs/2606.27161v2)
 
 ## Flow Reasoning Models: Turning Discrete Flows Into Efficient Recurrent Reasoners
 - **ID**: arxiv_2606.29150v2
@@ -2660,6 +2670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.10451v1](http://arxiv.org/abs/2609.10451v1)
 
+## From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development
+- **ID**: arxiv_2609.11493v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11493v2](http://arxiv.org/abs/2609.11493v2)
+
 ## A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients
 - **ID**: arxiv_2609.11768v1
 - **Source**: ArXiv
@@ -3034,4 +3049,19 @@
 - **ID**: arxiv_2609.26779v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26779v1](http://arxiv.org/abs/2609.26779v1)
+
+## Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence
+- **ID**: arxiv_2609.27664v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27664v1](http://arxiv.org/abs/2609.27664v1)
+
+## Categorical Internalisation of Environmental Groupoids for Generalisable POMDP Solving
+- **ID**: arxiv_2609.27745v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27745v1](http://arxiv.org/abs/2609.27745v1)
+
+## Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- **ID**: arxiv_2609.27749v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27749v1](http://arxiv.org/abs/2609.27749v1)
 

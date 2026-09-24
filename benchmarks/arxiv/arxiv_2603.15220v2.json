@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.15220v2",
+  "schema_version": "1.0",
+  "name": "InterPol: De-anonymizing LM Arena via Interpolated Preference Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.15220v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.15220v2",
+    "updated": "2026-09-23T11:14:53Z",
+    "published": "2026-03-16T12:56:39Z",
+    "title": "InterPol: De-anonymizing LM Arena via Interpolated Preference Learning",
+    "summary": "Strict anonymity of model responses is a key for the reliability of voting-based leaderboards, such as LM Arena. While prior studies have attempted to compromise this assumption using simple statistical features like TF-IDF or bag-ofwords, these methods often lack the discriminative power to distinguish between stylistically similar or within-family models. To overcome these limitations and expose the severity of vulnerability, we introduce INTERPOL, a model-driven identification framework that learns to distinguish target models from others using interpolated preference data. Specifically, INTERPOL captures deep stylistic patterns that superficial statistical features miss by synthesizing hard negative samples through model interpolation and employing an adaptive curriculum learning strategy. Extensive experiments demonstrate that INTERPOL significantly outperforms existing baselines in identification accuracy. Furthermore, we quantify the real-world threat of our findings through ranking manipulation simulations on Arena battle data.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T11:14:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.15220v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

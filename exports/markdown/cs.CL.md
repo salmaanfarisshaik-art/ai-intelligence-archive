@@ -1785,6 +1785,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07852v2](http://arxiv.org/abs/2608.07852v2)
 
+## Wisdom in Unity: The Role of Multilingual Training in Figurative Language Identification in Proverbs
+- **ID**: arxiv_2608.08090v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08090v2](http://arxiv.org/abs/2608.08090v2)
+
 ## OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories
 - **ID**: arxiv_2608.08557v2
 - **Source**: ArXiv
@@ -2194,6 +2199,11 @@
 - **ID**: arxiv_2608.24191v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24191v2](http://arxiv.org/abs/2608.24191v2)
+
+## Beyond Information Seeking: Severity-Aware Question Supervision for Proactive Medical Dialogue
+- **ID**: arxiv_2608.24521v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.24521v3](http://arxiv.org/abs/2608.24521v3)
 
 ## ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints
 - **ID**: arxiv_2608.24760v1
@@ -3085,6 +3095,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22081v1](http://arxiv.org/abs/2609.22081v1)
 
+## Structuring occupational accident narratives for cross-sector safety analysis: Transferability of accident-process role classification
+- **ID**: arxiv_2609.22081v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.22081v2](http://arxiv.org/abs/2609.22081v2)
+
 ## ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents
 - **ID**: arxiv_2609.23231v1
 - **Source**: ArXiv
@@ -3185,6 +3200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26780v1](http://arxiv.org/abs/2609.26780v1)
 
+## SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue
+- **ID**: arxiv_2609.26780v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26780v2](http://arxiv.org/abs/2609.26780v2)
+
 ## Agensh: Scaling Organizational Intelligence to 1,024 Agents
 - **ID**: arxiv_2609.26781v1
 - **Source**: ArXiv
@@ -3194,4 +3214,49 @@
 - **ID**: arxiv_2609.26796v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26796v1](http://arxiv.org/abs/2609.26796v1)
+
+## Brain-to-Language Decoding: Tasks, Signals, Methods, Evaluation, Practical Use and Beyond
+- **ID**: arxiv_2609.27650v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27650v1](http://arxiv.org/abs/2609.27650v1)
+
+## The Path Matters: Evaluating Small Language Models Beyond Answer Accuracy in KGQA
+- **ID**: arxiv_2609.27669v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27669v1](http://arxiv.org/abs/2609.27669v1)
+
+## Same Scores, Different Decisions: Evaluating JEV and Language Models for Legal Document Understanding
+- **ID**: arxiv_2609.27678v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27678v1](http://arxiv.org/abs/2609.27678v1)
+
+## Consequential Behaviour and Representational Fairness in the Validation of Synthetic Research
+- **ID**: arxiv_2609.27690v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27690v1](http://arxiv.org/abs/2609.27690v1)
+
+## SkillGym: Internalizing Human Skills into LLMs for Real-World Problem Solving
+- **ID**: arxiv_2609.27717v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27717v1](http://arxiv.org/abs/2609.27717v1)
+
+## Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery
+- **ID**: arxiv_2609.27980v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27980v1](http://arxiv.org/abs/2609.27980v1)
+
+## Risk-Controlled KV-Cache Eviction: From Memory Budgets to Risk Targets
+- **ID**: arxiv_2609.27981v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27981v1](http://arxiv.org/abs/2609.27981v1)
+
+## Controlled Attribute-Specific Summarization of Interrogative Dialogues
+- **ID**: arxiv_2609.28004v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28004v1](http://arxiv.org/abs/2609.28004v1)
+
+## Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints
+- **ID**: arxiv_2609.28007v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28007v1](http://arxiv.org/abs/2609.28007v1)
 

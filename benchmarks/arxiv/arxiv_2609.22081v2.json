@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.22081v2",
+  "schema_version": "1.0",
+  "name": "Structuring occupational accident narratives for cross-sector safety analysis: Transferability of accident-process role classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.22081v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.22081v2",
+    "updated": "2026-09-23T10:37:29Z",
+    "published": "2026-09-18T17:59:10Z",
+    "title": "Structuring occupational accident narratives for cross-sector safety analysis: Transferability of accident-process role classification",
+    "summary": "Introduction: Occupational accident narratives describe work situations, unfavourable conditions, accident events, and consequences, but differences in terminology and reporting practices hinder systematic analysis across sectors and organisations. This study examined whether a model developed in one occupational sector could identify the same accident-process information in unseen sectors and reporting environments. Method: French accident narratives were segmented into factual units and expert-annotated as work situation, explicitly reported unfavourable condition, accident event or deviation, or reported consequence. Models were developed on 42,244 factual units from 6,040 construction-sector narratives and evaluated without retraining on metallurgy, chemistry-plastics, and an independently collected company corpus. We compared a TF-IDF-based lexical model, frozen pretrained text representations, and task-adapted pretrained models. Results: Average balanced accuracy was 75.0% for TF-IDF, 76.9% for frozen pretrained representations, and about 85.7% after task adaptation. Across repeated runs, leading adapted approaches showed similar overall performance, with no method consistently outperforming the others. Performance was lower and more variable on the company corpus, where transfer also involved a different reporting environment and data source. Conclusions: Accident-process roles learned from construction narratives remained identifiable in other sectors and an independent organisational setting. Practical Applications: The framework can support assisted coding, expert review, cross-sector analysis, and prevention-oriented analysis of large accident-report collections.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T10:37:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.22081v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

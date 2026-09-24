@@ -70,3 +70,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.21997v1](http://arxiv.org/abs/2609.21997v1)
 
+## Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance
+- **ID**: arxiv_2609.27994v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27994v1](http://arxiv.org/abs/2609.27994v1)
+

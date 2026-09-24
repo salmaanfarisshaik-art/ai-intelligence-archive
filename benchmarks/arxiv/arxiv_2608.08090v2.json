@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.08090v2",
+  "schema_version": "1.0",
+  "name": "Wisdom in Unity: The Role of Multilingual Training in Figurative Language Identification in Proverbs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.08090v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.08090v2",
+    "updated": "2026-09-23T10:25:18Z",
+    "published": "2026-08-08T12:15:52Z",
+    "title": "Wisdom in Unity: The Role of Multilingual Training in Figurative Language Identification in Proverbs",
+    "summary": "Although multilingual approaches to figurative language identification are not new, the shift beyond language-homogeneous training data requires a clearer understanding of the contribution of translated multilingual supervision. We examine this question using 742 proverb concepts across 6,787 translated instances for seven languages. We evaluate five models including multilingual encoders and instruction-tuned LLMs through progressively increasing levels of multilingual supervision. Moreover, we introduce multidimensional annotation framework for proverbs that characterizes proverbs through four complementary figurative forms: Metaphorical, Moral/Advisory, Cause-Effect, and Culture-Specific.\n  Our findings show that overall, adding multilingual training data beyond 50% provides only limited additional improvement, although the best supervision level varies across models and languages. Also, we show that combining diverse figurative forms yields the strongest overall performance. A notable finding is that the least frequent figurative form culture-specific exhibits the largest performance gains under multilingual supervision. Furthermore, the moral/advisory and culture-specific forms of proverb contribute more to instruct tuning LLM overall figurative identification performance. These findings motivate multilingual figurative identification to move beyond metaphor-centric taxonomies toward concept-level multidimensional frameworks that explicitly model complementary forms of figurative meanings that are context representative.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T10:25:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.08090v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

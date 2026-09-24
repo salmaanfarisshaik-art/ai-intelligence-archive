@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.27690v1",
+  "schema_version": "1.0",
+  "name": "Consequential Behaviour and Representational Fairness in the Validation of Synthetic Research",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.27690v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.27690v1",
+    "updated": "2026-09-23T11:10:16Z",
+    "published": "2026-09-23T11:10:16Z",
+    "title": "Consequential Behaviour and Representational Fairness in the Validation of Synthetic Research",
+    "summary": "Researchers in industry and academia use synthetic survey respondents powered by large language models as substitutes for human samples. These synthetic populations require validation against real-world data, so researchers often address them using ad hoc comparisons with human surveys. Inspired by the intention-behaviour gap in behavioural science, we argue that these validations test the wrong thing for most applied cases where decision makers commission synthetic research to anticipate consequential behaviour. To address this problem, we propose a validation framework with two requirements. First, every validity claim must state its level of correspondence with human data: does the sample predict what the represented people do, which of four diagnostics (location, dispersion, response process and structure) does the validation address, and does the validation compare against experimental effects? Second, researchers must report validity claims for subgroups, since these groups are often the most affected by consequential decisions and aggregate accuracy hides their misrepresentation. Our validation framework operationalises three justice dimensions (distributional, procedural, and recognition) as measurable quantities and defines within-persona counterfactual experiments as a validation requirement. We then apply the framework to electric vehicle charging tariffs, before closing with a reporting checklist that researchers can use to make convincing validity claims.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T11:10:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.27690v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

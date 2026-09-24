@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12265v2](http://arxiv.org/abs/2511.12265v2)
 
+## Parameter Importance-Driven Continual Learning for Foundation Models
+- **ID**: arxiv_2511.15375v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.15375v2](http://arxiv.org/abs/2511.15375v2)
+
 ## CausalProfiler: Generating Synthetic Benchmarks for Rigorous and Transparent Evaluation of Causal Machine Learning
 - **ID**: arxiv_2511.22842v3
 - **Source**: ArXiv
@@ -885,6 +890,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.02585v1](http://arxiv.org/abs/2608.02585v1)
 
+## Output-Aware Rotation for INT2 KV-Cache Quantization
+- **ID**: arxiv_2608.02691v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02691v4](http://arxiv.org/abs/2608.02691v4)
+
 ## PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection
 - **ID**: arxiv_2608.03926v1
 - **Source**: ArXiv
@@ -1470,6 +1480,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15987v1](http://arxiv.org/abs/2609.15987v1)
 
+## World Models for Cross-Machine CNC Transfer under Partial Sensor Overlap
+- **ID**: arxiv_2609.16071v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16071v2](http://arxiv.org/abs/2609.16071v2)
+
 ## CLARE: Scalable Class-Incremental Continual Learning via a Sparsity-Based Framework
 - **ID**: arxiv_2609.17026v1
 - **Source**: ArXiv
@@ -1529,6 +1544,11 @@
 - **ID**: arxiv_2609.19077v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19077v1](http://arxiv.org/abs/2609.19077v1)
+
+## Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning
+- **ID**: arxiv_2609.19878v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.19878v2](http://arxiv.org/abs/2609.19878v2)
 
 ## MATCH: Model-Aware Tool Learning with Curriculum Scheduling and Hierarchically Gated Rewards
 - **ID**: arxiv_2609.20082v1
@@ -1624,4 +1644,14 @@
 - **ID**: arxiv_2609.26718v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26718v1](http://arxiv.org/abs/2609.26718v1)
+
+## FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation
+- **ID**: arxiv_2609.27657v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27657v1](http://arxiv.org/abs/2609.27657v1)
+
+## Riemannian Structure and Optimization for a Class of Low-Parametric Orthogonal Matrices
+- **ID**: arxiv_2609.27982v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27982v1](http://arxiv.org/abs/2609.27982v1)
 

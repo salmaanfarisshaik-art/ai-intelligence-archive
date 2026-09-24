@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.27728v1",
+  "schema_version": "1.0",
+  "name": "NeuralSRNF: Neural Square Root Normal Fields for the Statistical Shape Analysis and Generation of Nonrigid 3D and 4D Objects",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.27728v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.27728v1",
+    "updated": "2026-09-23T11:42:09Z",
+    "published": "2026-09-23T11:42:09Z",
+    "title": "NeuralSRNF: Neural Square Root Normal Fields for the Statistical Shape Analysis and Generation of Nonrigid 3D and 4D Objects",
+    "summary": "We introduce NeuralSRNF, a novel framework for the statistical shape analysis and generation of genus-zero 3D and 4D objects that undergo nonrigid deformations. Traditional methods rely on complex and computationally expensive nonlinear elastic metrics that measure bending and stretching. Recent advances in elastic shape analysis achieve computational efficiency by mapping input 3D shapes to the space of Square Root Normal Fields (SRNFs) where the L2 metric approximates the partial elastic metric, significantly facilitating the process of computing geodesics and summary statistics. SRNFs, however, are not invertible, and the numerical algorithms used to map SRNFs back to the original space of surfaces remain computationally very expensive and often lead to approximate results. This paper addresses this fundamental SRNF inversion problem using a novel neural representation, termed NeuralSRNF. Unlike the commonly used numerical SRNF, NeuralSRNF is (1) continuous, and thus resolution-agnostic, enabling full functional shape analysis, (2) more accurate, and (3) computationally more efficient as it can compute inverse SRNF maps along a geodesic path in less than 3 s compared to over 10 min for the numerical SRNF. We demonstrate, using various datasets, the utility and efficiency of the proposed NeuralSRNF in multiple elastic 3D and 4D shape analysis tasks such as geodesic computation, deformation transfer, statistical summaries computation, and 3D shape generation. We show that it outperforms competing methods on most evaluated datasets and metrics by a wide margin in both accuracy and computational efficiency. The source code and additional results are available at https://awaisnizamani16.github.io/awais/NeuralSRNF/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T11:42:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.27728v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

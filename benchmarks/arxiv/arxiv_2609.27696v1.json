@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.27696v1",
+  "schema_version": "1.0",
+  "name": "SynSeq: End-to-End SYNTAX Score Prediction from Coronary Angiography Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.27696v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.27696v1",
+    "updated": "2026-09-23T11:17:21Z",
+    "published": "2026-09-23T11:17:21Z",
+    "title": "SynSeq: End-to-End SYNTAX Score Prediction from Coronary Angiography Videos",
+    "summary": "The SYNTAX score is an established tool for assessing coronary artery disease and guiding revascularization treatment decisions. However, its manual estimation from coronary angiography videos by clinical experts is time-consuming and subject to inter-reader variability. While machine learning has shown promise in automating this process, prior work has primarily focused on lesion detection, characterization, or binary disease classification, leaving direct SYNTAX score prediction relatively unexplored. We propose SynSeq, a video-based method for direct SYNTAX score prediction. It combines targeted preprocessing with a tailored training strategy using a zero-inflation-aware loss and linear target scaling. Evaluated on the public CardioSyntax dataset, SynSeq significantly outperforms previous state-of-the-art methods, improving $R^2$ by 0.55, reducing prediction bias by 93.1% and achieving more consistent performance across annotations from three independent expert graders. In addition, SynSeq achieves a weighted $F_1$-score of 0.80 for revascularization treatment recommendations, slightly below inter-expert agreement. These results demonstrate the potential of SynSeq to provide consistent, automated SYNTAX score assessment and reliable decision support for coronary revascularization planning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T11:17:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.27696v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

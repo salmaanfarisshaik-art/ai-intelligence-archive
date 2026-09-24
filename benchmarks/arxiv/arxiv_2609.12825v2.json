@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.12825v2",
+  "schema_version": "1.0",
+  "name": "SCDM: Spatial-Contextual Disentanglement Mamba via Differential Inference for Efficient Image Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.12825v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.12825v2",
+    "updated": "2026-09-23T11:01:12Z",
+    "published": "2026-09-11T13:21:59Z",
+    "title": "SCDM: Spatial-Contextual Disentanglement Mamba via Differential Inference for Efficient Image Classification",
+    "summary": "State Space Models (SSMs), particularly VMamba, have emerged as efficient alternatives for modeling long-range dependencies in medical image analysis. However, distinguishing subtle pathological features from visually similar anatomical backgrounds remains a significant challenge. Existing SSM architectures often learn entangled representations, lacking explicit mechanisms to separate disease-specific signals from normal anatomy. To address this limitation, we propose Spatial-Contextual Differential Mamba (SCDM), an asymmetric dual-branch architecture designed for selective representational disentanglement. SCDM introduces a Positive Branch for extracting discriminative features and a Negative Branch that actively models and suppresses normal anatomical context. This separation is achieved through a similarity-driven repulsion gate and a differential inference rule, which promote competitive feature learning without requiring additional branch labels or increasing model capacity. Evaluated on the RSNA Pneumonia dataset, SCDM achieves competitive classification performance (AUC of 0.858) while requiring significantly fewer parameters (29.4M) and FLOPs (1.44G) compared to standard VMamba and vision transformer baselines. Furthermore, activation analyses demonstrate that our differential mechanism yields highly precise localization, effectively isolating lesions by inhibiting irrelevant anatomical distractors.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T11:01:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.12825v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.24834v3](http://arxiv.org/abs/2607.24834v3)
 
+## AI-Driven Neural Surrogates for In Silico Design of Cognitive-Affective Neuromodulation Targets
+- **ID**: arxiv_2609.27729v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27729v1](http://arxiv.org/abs/2609.27729v1)
+

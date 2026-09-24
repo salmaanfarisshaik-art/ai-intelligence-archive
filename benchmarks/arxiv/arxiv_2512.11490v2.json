@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.11490v2",
+  "schema_version": "1.0",
+  "name": "VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.11490v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.11490v2",
+    "updated": "2026-09-23T12:24:55Z",
+    "published": "2025-12-12T11:39:35Z",
+    "title": "VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing",
+    "summary": "Satellite imagery differs from natural images in viewpoint, resolution, scale variation, and the prevalence of small objects -- demanding both region-level spatial reasoning and holistic scene understanding. Existing remote-sensing approaches are fragmented: dual-encoder retrieval models scale well but cannot interleave modalities, whereas generative assistants support grounding, yet are inefficient for retrieval. Benchmarks mirror this split: interleaved evaluations mainly target generative assistants, while cross-modal retrieval benchmarks target dual encoders. To bridge this gap, we introduce \\textbf{RSMEB}, a unified remote sensing benchmark that evaluates cross-modal and interleaved retrieval across 21 tasks under a single ranking protocol, enabling comprehensive comparison of retrieval models on region- and geo-aware capabilities as well as conventional retrieval. As a strong reference baseline, we present \\textbf{VLM2GeoVec}, an instruction-conditioned, single-encoder interleaving formulation tailored to remote sensing that packs image, text, bounding-box, and geo-coordinate tokens into one sequence and learns a unified embedding via contrastive training. Across RSMEB, VLM2GeoVec achieves $\\textbf{26.6\\%}$ P@1 in region-caption retrieval ($\\textbf{+25}$ percentage points), $\\textbf{32.5\\%}$ in referring-expression retrieval ($\\textbf{+19}$), and $\\textbf{17.8\\%}$ in semantic geo-aware retrieval ($\\textbf{>3}$$\\times$ prior best), while remaining competitive in conventional scene classification and text--image retrieval in zero-shot settings. Together, the proposed suite and reference baseline standardize evaluation and deliver a unified embedder for scalable retrieval and region-/geo-aware grounding. The code, the model checkpoints, and the data are available at https://github.com/emasa/VLM2GeoVec.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T12:24:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.11490v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

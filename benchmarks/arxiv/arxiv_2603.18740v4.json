@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.18740v4",
+  "schema_version": "1.0",
+  "name": "Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.18740v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.18740v4",
+    "updated": "2026-09-23T12:12:39Z",
+    "published": "2026-03-19T10:40:27Z",
+    "title": "Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review",
+    "summary": "Automated Code Review (ACR) systems integrating Large Language Models (LLMs) are increasingly adopted in software development workflows, ranging from interactive assistants to autonomous agents in CI/CD pipelines. In this paper, we study how LLM-based vulnerability detection in ACR is affected by the framing effect: the tendency to let the presentation of information override its semantic content in forming judgments. We examine whether adversaries can exploit this through contextual-bias injection (crafting PR metadata to bias ACR security judgments) as a supply-chain attack vector against real-world ACR pipelines. To this end, we first conduct a large-scale exploratory study across 6 LLMs under five framing conditions, establishing the framing effect as a systematic and widespread phenomenon in LLM-based vulnerability detection.\n  We then design a realistic and controlled experimental environment, evaluating 33 CVEs across 20 real-world projects and two popular ACR pipelines (Claude Code and CodeRabbit), to assess the susceptibility of real-world ACR pipelines to vulnerability re-introduction attacks. We employ two attack strategies: a template-based attack inspired by prior related work, and a novel LLM-assisted refinement attack. We find that template-based attacks are ineffective and may even backfire, as direct biasing attempts raise suspicions. Our refinement attack, on the other hand, is successful in 32/33 (97%) cases, exploiting a fundamental asymmetry: attackers can iteratively refine attacks against a local clone of the review pipeline, while defenders have only one chance to detect them. Overall, our findings highlight the dangers of over-relying on ACR and stress the importance of human oversight and contributor trust in the development process.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T12:12:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.18740v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

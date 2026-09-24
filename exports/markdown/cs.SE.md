@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.18307v2](http://arxiv.org/abs/2602.18307v2)
 
+## Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review
+- **ID**: arxiv_2603.18740v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18740v4](http://arxiv.org/abs/2603.18740v4)
+
 ## Terminal Agents Suffice for Enterprise Automation
 - **ID**: arxiv_2604.00073v3
 - **Source**: ArXiv

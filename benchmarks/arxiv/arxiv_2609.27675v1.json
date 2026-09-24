@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.27675v1",
+  "schema_version": "1.0",
+  "name": "Track2Art: Motion-Centric Articulated Object Model Recovery from 2D Point Trackers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.27675v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.27675v1",
+    "updated": "2026-09-23T10:47:02Z",
+    "published": "2026-09-23T10:47:02Z",
+    "title": "Track2Art: Motion-Centric Articulated Object Model Recovery from 2D Point Trackers",
+    "summary": "Understanding articulated objects is fundamental for robotic interaction, requiring accurate rigid-part discovery and the recovery of their kinematic relations. Existing approaches often treat articulation as a by-product of reconstructed geometry or recover it through per-instance optimization. We instead build on the hypothesis that articulation is directly observable from persistent motion: points on the same rigid part move coherently, while relative motion between parts reveals their kinematic constraints. We present Track2Art, a motion-centric framework for recovering structured articulated objects from RGB-D interaction videos. Track2Art lifts tracked image points into persistent 3D trajectories and combines pretrained tracking features, visual descriptors, and explicit trajectory geometry. These representations are grouped into a variable number of rigid-part hypotheses and subsequently used to recover directed kinematic relations, joint types, and joint geometry through rotation-equivariant learned--analytic reasoning. On the aligned 20-object PartNet-Mobility suite, Track2Art achieves 0.695 Point IoU and 0.410 end-to-end J@20, while requiring neither ground-truth part counts nor test-time optimization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T10:47:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.27675v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.19878v2",
+  "schema_version": "1.0",
+  "name": "Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.19878v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.19878v2",
+    "updated": "2026-09-23T10:54:50Z",
+    "published": "2026-09-17T08:28:18Z",
+    "title": "Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning",
+    "summary": "Multimodal reasoning requires models to draw on information from multiple modalities throughout the reasoning process. Yet existing methods often concatenate modality-specific thought tokens in a single sequence, leaving the model to bridge representational differences as it reasons across modalities. We introduce Uni-LaDiR (Unified Latent Diffusion Reasoner), a framework that brings these thoughts into a shared latent space for reasoning. A unified encoder maps teacher reasoning steps from different modalities into shared thought tokens, trained to preserve the information needed for later reasoning steps and the final answer or action. Because the same context can support multiple valid next steps, we use diffusion to predict the next block of thought tokens from the input and preceding blocks. Jointly training the encoder and diffusion reasoner with shared model weights encourages thought tokens to be both useful for the task and predictable from the available context. At inference, the model generates these tokens without teacher observations. Across eleven vision-language model (VLM) benchmarks and two vision-language-action (VLA) suites, Uni-LaDiR achieves relative gains over the strongest evaluated baselines of 7.3% on visual reasoning tasks and 6.1% on robot manipulation tasks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T10:54:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.19878v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.15760v2",
+  "schema_version": "1.0",
+  "name": "Learn2Splat: Extending the Horizon of Learned 3DGS Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.15760v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.15760v2",
+    "updated": "2026-09-23T12:33:43Z",
+    "published": "2026-05-15T09:21:29Z",
+    "title": "Learn2Splat: Extending the Horizon of Learned 3DGS Optimization",
+    "summary": "3D Gaussian Splatting (3DGS) optimization is most commonly performed using general-purpose first-order optimizers such as Adam or SGD. Although robust across scenes, they update each parameter independently without exploiting the structural and spatial relationships among Gaussians, which slows convergence. Recent works introduced learned optimizers that predict correlated updates informed by inter-parameter and inter-Gaussian dependencies. However, those are trained for a fixed number of optimization iterations and rely on manually scheduled learning rates to avoid degradation. In this paper, we introduce Learn2Splat, a learned optimizer for 3DGS that avoids degradation over extended optimization horizons without auxiliary mechanisms. To enable this, we propose a meta-learning scheme that extends the optimization horizon via a checkpoint buffer and an optimizer rollout strategy, combined with an architecture that encodes gradient scale information in its latent states. Results show higher novel view synthesis quality at equal wall-clock time, while remaining stable over long horizons, with zero-shot generalization to unseen datasets and settings. To support our findings, we build a unified framework to train and evaluate learned and standard optimizers across sparse and dense view settings. Code and models will be released publicly. Our project page is available at https://autonomousvision.github.io/learn2splat .",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T12:33:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.15760v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

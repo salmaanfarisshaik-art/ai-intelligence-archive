@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.20468v3](http://arxiv.org/abs/2604.20468v3)
 
+## DreamAvoid: Critical-Phase Test-Time Dreaming to Avoid Failures in VLA Policies
+- **ID**: arxiv_2605.11750v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.11750v2](http://arxiv.org/abs/2605.11750v2)
+
 ## AgenticDiffusion: Multi-View Reasoning with View-Conditioned Diffusion Planning for Vision-Based UAV Navigation
 - **ID**: arxiv_2606.04111v2
 - **Source**: ArXiv
@@ -629,4 +634,19 @@
 - **ID**: arxiv_2609.26795v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26795v1](http://arxiv.org/abs/2609.26795v1)
+
+## InternW0: A Foundational Physical World Model for Efficient Real-World Interactions
+- **ID**: arxiv_2609.27656v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27656v1](http://arxiv.org/abs/2609.27656v1)
+
+## DAVIO: Dense Monocular-Inertial SLAM with Feed-Forward Initialization and Pose-Conditioned Mapping
+- **ID**: arxiv_2609.27702v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27702v1](http://arxiv.org/abs/2609.27702v1)
+
+## InfiNoVA: Infinite Novel View Augmentation for Viewpoint Invariant Robot Policies
+- **ID**: arxiv_2609.27734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27734v1](http://arxiv.org/abs/2609.27734v1)
 

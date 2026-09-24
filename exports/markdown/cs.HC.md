@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15848v2](http://arxiv.org/abs/2605.15848v2)
 
+## Helping Customers in Distress: An LLM-powered Agent that Converses, Probes, and Routes
+- **ID**: arxiv_2605.16268v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.16268v2](http://arxiv.org/abs/2605.16268v2)
+
 ## Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs
 - **ID**: arxiv_2605.29928v3
 - **Source**: ArXiv

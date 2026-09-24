@@ -1,5 +1,10 @@
 # Cs.Ni Export
 
+## Exploiting Overlapping Fields of View for Redundancy-Aware Uplink Transmission in Vehicular 6G
+- **ID**: arxiv_2606.31715v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.31715v3](http://arxiv.org/abs/2606.31715v3)
+
 ## LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization
 - **ID**: arxiv_2607.16066v1
 - **Source**: ArXiv

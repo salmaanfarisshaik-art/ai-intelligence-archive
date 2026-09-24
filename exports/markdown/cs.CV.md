@@ -415,6 +415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.10956v2](http://arxiv.org/abs/2512.10956v2)
 
+## VLM2GeoVec: Toward Universal Multimodal Embeddings for Remote Sensing
+- **ID**: arxiv_2512.11490v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.11490v2](http://arxiv.org/abs/2512.11490v2)
+
 ## The 3D Mirage: Probing and Taming 3D Hallucinations
 - **ID**: arxiv_2512.15423v2
 - **Source**: ArXiv
@@ -725,6 +730,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
 
+## EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields
+- **ID**: arxiv_2605.06192v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06192v2](http://arxiv.org/abs/2605.06192v2)
+
 ## Probability-Flow Distillation: Distribution Matching in Parameter Space
 - **ID**: arxiv_2605.09071v2
 - **Source**: ArXiv
@@ -754,6 +764,11 @@
 - **ID**: arxiv_2605.15375v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15375v2](http://arxiv.org/abs/2605.15375v2)
+
+## Learn2Splat: Extending the Horizon of Learned 3DGS Optimization
+- **ID**: arxiv_2605.15760v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15760v2](http://arxiv.org/abs/2605.15760v2)
 
 ## Spectral Progressive Diffusion for Efficient Image and Video Generation
 - **ID**: arxiv_2605.18736v3
@@ -1319,6 +1334,11 @@
 - **ID**: arxiv_2607.06923v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.06923v2](http://arxiv.org/abs/2607.06923v2)
+
+## IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation
+- **ID**: arxiv_2607.09133v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09133v3](http://arxiv.org/abs/2607.09133v3)
 
 ## Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-, and Benchmark-Driven Multi-Agent Architecture
 - **ID**: arxiv_2607.12254v2
@@ -4185,6 +4205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.12798v2](http://arxiv.org/abs/2609.12798v2)
 
+## SCDM: Spatial-Contextual Disentanglement Mamba via Differential Inference for Efficient Image Classification
+- **ID**: arxiv_2609.12825v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.12825v2](http://arxiv.org/abs/2609.12825v2)
+
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
 - **Source**: ArXiv
@@ -4644,4 +4669,54 @@
 - **ID**: arxiv_2609.26793v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26793v1](http://arxiv.org/abs/2609.26793v1)
+
+## SGDet3D++: Geometry-Grounded Semantics for 4D Radar and Camera 3D Object Detection
+- **ID**: arxiv_2609.27671v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27671v1](http://arxiv.org/abs/2609.27671v1)
+
+## Track2Art: Motion-Centric Articulated Object Model Recovery from 2D Point Trackers
+- **ID**: arxiv_2609.27675v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27675v1](http://arxiv.org/abs/2609.27675v1)
+
+## RoadOcc Learns When to Persist, Transport, or Refresh Memory for Roadside Occupancy Prediction
+- **ID**: arxiv_2609.27677v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27677v1](http://arxiv.org/abs/2609.27677v1)
+
+## CasCVS-Net: A Staged Multi-Task Cascade for Critical View of Safety Assessment
+- **ID**: arxiv_2609.27681v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27681v1](http://arxiv.org/abs/2609.27681v1)
+
+## Gender Bias in Vision-Language In-Context Learning
+- **ID**: arxiv_2609.27682v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27682v1](http://arxiv.org/abs/2609.27682v1)
+
+## SynSeq: End-to-End SYNTAX Score Prediction from Coronary Angiography Videos
+- **ID**: arxiv_2609.27696v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27696v1](http://arxiv.org/abs/2609.27696v1)
+
+## FFM-CP: Cross-Backbone Fusion of Vision-Language Foundation Models for Few-Shot Computational Pathology
+- **ID**: arxiv_2609.27710v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27710v1](http://arxiv.org/abs/2609.27710v1)
+
+## NeuralSRNF: Neural Square Root Normal Fields for the Statistical Shape Analysis and Generation of Nonrigid 3D and 4D Objects
+- **ID**: arxiv_2609.27728v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27728v1](http://arxiv.org/abs/2609.27728v1)
+
+## All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation
+- **ID**: arxiv_2609.27901v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27901v1](http://arxiv.org/abs/2609.27901v1)
+
+## Task-Induced Riemannian Metrics for Vision Transformer Feature Spaces
+- **ID**: arxiv_2609.27988v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.27988v1](http://arxiv.org/abs/2609.27988v1)
 

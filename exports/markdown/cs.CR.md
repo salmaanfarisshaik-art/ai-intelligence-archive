@@ -1,5 +1,10 @@
 # Cs.Cr Export
 
+## Optimizing watermarks for large language models
+- **ID**: arxiv_2312.17295v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2312.17295v2](http://arxiv.org/abs/2312.17295v2)
+
 ## Teacher-free Latent Self-distillation and Class-separable Representations for Lightweight IoT Attack Detection
 - **ID**: arxiv_2403.15509v3
 - **Source**: ArXiv

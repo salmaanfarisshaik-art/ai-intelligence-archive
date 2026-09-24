@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.24521v3",
+  "schema_version": "1.0",
+  "name": "Beyond Information Seeking: Severity-Aware Question Supervision for Proactive Medical Dialogue",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.24521v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.24521v3",
+    "updated": "2026-09-23T12:12:17Z",
+    "published": "2026-08-25T13:09:45Z",
+    "title": "Beyond Information Seeking: Severity-Aware Question Supervision for Proactive Medical Dialogue",
+    "summary": "Proactive medical dialogue requires an agent to decide what to ask from incomplete patient information. Existing information-seeking approaches commonly prioritize questions that most reduce diagnostic uncertainty, but this criterion overlooks an important property of medical diagnosis: different diagnostic errors can carry substantially different consequences. The most informative question may therefore differ from the one most valuable for the downstream decision. We propose Expected-Severity-Risk (ESR), a consequence-aware question-supervision objective that values each candidate by its expected reduction in severity-aware terminal risk. Because questions must be selected before their answers are observed, ESR marginalizes over possible answers using train-only population statistics. Its rankings are then distilled into a prefix-only language policy, requiring no teacher-side risk computation at deployment. Across three matched Qwen3-4B training seeds on DDxPlus, ESR reduces mean high-severity diagnostic miss from 0.0645 to 0.0455 (29.5% relative reduction) and improves mean diagnostic accuracy from 0.9123 to 0.9320 while requiring only 0.14 additional questions per dialogue. Fixed-budget analyses show that the distinction persists when question count is controlled, while a matched expected-0/1-risk student control further isolates the contribution of asymmetric severity weighting. These results support moving proactive medical dialogue beyond uncertainty reduction toward consequence-aware evidence acquisition.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T01:04:58Z",
+  "last_updated": "2026-09-23T12:12:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.24521v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
