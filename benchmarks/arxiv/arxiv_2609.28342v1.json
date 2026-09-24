@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28342v1",
+  "schema_version": "1.0",
+  "name": "Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28342v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28342v1",
+    "updated": "2026-09-23T16:19:31Z",
+    "published": "2026-09-23T16:19:31Z",
+    "title": "Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement",
+    "summary": "Removing an object from a real image requires more than synthesizing plausible content within a mask: the method must suppress residual object features, preserve the unedited scene, and generate replacement content that is consistent with the surrounding background. This paper approaches object removal from a stage-based perspective and proposes a zero-shot framework for constrained latent inpainting with a frozen pretrained Stable Diffusion model, requiring no task-specific training or model fine-tuning. The method integrates SAM-based mask construction, BLIP image-caption conditioning, DDIM inversion, background-weighted masked null-text optimization, decoder self-attention masking, hard outside-mask latent anchoring, and localized renoise--denoise refinement into a unified pipeline. The method is evaluated through qualitative examples, quantitative local-consistency metrics, and ablation studies. The results demonstrate effective object removal and context-consistent replacement content. The ablations indicate that background-weighted masked NTI is particularly beneficial for structurally complex backgrounds, whereas the no-NTI variant is sufficient in other evaluated examples. Repeated refinement further reduces object remnants and boundary artifacts remaining after the primary editing pass.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:19:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28342v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

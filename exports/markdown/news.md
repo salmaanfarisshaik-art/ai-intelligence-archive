@@ -1096,6 +1096,11 @@
 - **URL**: [https://openai.com/index/chatgpt-ads-expands-across-europe](https://openai.com/index/chatgpt-ads-expands-across-europe)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan](https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-agent-system-card
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-agent-system-card](https://openai.com/index/chatgpt-agent-system-card)

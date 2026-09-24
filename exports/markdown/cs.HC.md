@@ -170,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24955v1](http://arxiv.org/abs/2609.24955v1)
 
+## How Children Design and Reason about Trustworthy AI Chatbots
+- **ID**: arxiv_2609.25244v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.25244v2](http://arxiv.org/abs/2609.25244v2)
+
 ## Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows
 - **ID**: arxiv_2609.26725v1
 - **Source**: ArXiv

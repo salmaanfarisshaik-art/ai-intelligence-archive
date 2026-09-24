@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2412.02575v3",
+  "schema_version": "1.0",
+  "name": "Copy-Move Forgery Detection and Question Answering for Remote Sensing Image",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2412.02575v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2412.02575v3",
+    "updated": "2026-09-23T16:31:02Z",
+    "published": "2024-12-03T17:02:40Z",
+    "title": "Copy-Move Forgery Detection and Question Answering for Remote Sensing Image",
+    "summary": "Driven by practical demands in land resource monitoring and national defense security, this paper introduces the Remote Sensing Copy-Move Question Answering (RSCMQA) task. Unlike traditional Remote Sensing Visual Question Answering (RSVQA), RSCMQA focuses on interpreting complex tampering scenarios and inferring relationships between objects. We present a suite of global RSCMQA datasets, comprising images from 29 different regions across 14 countries. Specifically, we propose five distinct datasets, including the basic dataset RS-CMQA, the category-balanced dataset RS-CMQA-B, the high-authenticity dataset Real-RSCM, the extended dataset RS-TQA, and the extended category-balanced dataset RS-TQA-B. These datasets fill a critical gap in the field while ensuring comprehensiveness, balance, and challenging scenarios. Furthermore, we introduce a region-discrimination-guided multimodal copy-move forgery perception framework (CMFPF), which enhances the accuracy of answering questions about tampered images by leveraging prompts about the differences and connections between the source and tampered regions. Extensive experiments demonstrate that our method establishes a stronger benchmark for RSCMQA compared to general VQA and RSVQA models. Our datasets and code are publicly available at https://github.com/shenyedepisa/RSCMQA.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:31:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2412.02575v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

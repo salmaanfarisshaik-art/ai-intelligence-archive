@@ -300,3 +300,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26749v1](http://arxiv.org/abs/2609.26749v1)
 
+## Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark
+- **ID**: arxiv_2609.28449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28449v1](http://arxiv.org/abs/2609.28449v1)
+

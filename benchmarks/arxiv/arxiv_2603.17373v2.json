@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.17373v2",
+  "schema_version": "1.0",
+  "name": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.17373v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.17373v2",
+    "updated": "2026-09-23T16:42:06Z",
+    "published": "2026-03-18T05:33:50Z",
+    "title": "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems",
+    "summary": "Large language models are rapidly being deployed as AI tutors, yet current evaluation paradigms assess problem-solving accuracy and generic safety in isolation, failing to capture whether a model is simultaneously pedagogically effective and safe across student-tutor interaction. We argue that tutoring safety is fundamentally different from conventional LLM safety: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, misconception reinforcement, and the abdication of scaffolding. To systematically study this failure mode, we introduce SafeTutors, a benchmark that jointly evaluates safety and pedagogy across mathematics, physics, and chemistry. SafeTutors is organized around a theoretically grounded risk taxonomy comprising 11 harm dimensions and 48 sub-risks drawn from learning-science literature. We uncover that all models show broad harm; scale doesn't reliably help; and multi-turn dialogue worsens behavior, with pedagogical failures rising from 17.7% to 77.8%. Harms also vary by subject, so mitigations must be discipline-aware, and single-turn \"safe/helpful\" results can mask systematic tutor failure over extended interaction.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:42:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.17373v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

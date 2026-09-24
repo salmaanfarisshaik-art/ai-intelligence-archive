@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28471v1",
+  "schema_version": "1.0",
+  "name": "Contrastive Learning for Authorship Verification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28471v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28471v1",
+    "updated": "2026-09-23T17:59:08Z",
+    "published": "2026-09-23T17:59:08Z",
+    "title": "Contrastive Learning for Authorship Verification",
+    "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, pre-trained model, input context length, and random text span data augmentation as important factors of model performance. Based on these considerations, we develop a ModernBERT Bi-Encoder model that achieves 98.4% accuracy on the PAN21 authorship verification task.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:59:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28471v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

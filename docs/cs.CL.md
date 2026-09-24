@@ -78,6 +78,7 @@
 | [AfriNLLB: Efficient Translation Models for African Languages](http://arxiv.org/abs/2602.09373v2) | ArXiv |  | 1 |
 | [Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1) | ArXiv |  | 1 |
 | [Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents](http://arxiv.org/abs/2608.29606v1) | ArXiv |  | 1 |
+| [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](http://arxiv.org/abs/2609.28416v1) | ArXiv |  | 1 |
 | [AgentRM: Enhancing Agent Generalization with Reward Modeling](http://arxiv.org/abs/2502.18407v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
@@ -159,6 +160,7 @@
 | [Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1) | ArXiv |  | 1 |
 | [Context-Aware RL for Agentic and Multimodal LLMs](http://arxiv.org/abs/2606.17053v1) | ArXiv |  | 1 |
 | [ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL](http://arxiv.org/abs/2608.28476v1) | ArXiv |  | 1 |
+| [Contrastive Learning for Authorship Verification](http://arxiv.org/abs/2609.28471v1) | ArXiv |  | 1 |
 | [Controlled Attribute-Specific Summarization of Interrogative Dialogues](http://arxiv.org/abs/2609.28004v1) | ArXiv |  | 1 |
 | [Controlling Implicit Shortcut Reliance in L2 Spoken English Auto-markers](http://arxiv.org/abs/2607.16085v1) | ArXiv |  | 1 |
 | [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](http://arxiv.org/abs/2608.11200v1) | ArXiv |  | 1 |
@@ -177,6 +179,7 @@
 | [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) | ArXiv |  | 1 |
 | [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](http://arxiv.org/abs/2608.27455v1) | ArXiv |  | 1 |
 | [Cross-lingual Functional Vectors for Emotion Detection in Large Language Models](http://arxiv.org/abs/2608.29613v1) | ArXiv |  | 1 |
+| [Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms](http://arxiv.org/abs/2609.28430v1) | ArXiv |  | 1 |
 | [Cross-sector generalization of accident-process role classification in occupational accident narratives](http://arxiv.org/abs/2609.22081v1) | ArXiv |  | 1 |
 | [CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models](http://arxiv.org/abs/2608.11534v2) | ArXiv |  | 1 |
 | [CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs](http://arxiv.org/abs/2608.02472v1) | ArXiv |  | 1 |
@@ -198,6 +201,7 @@
 | [Diagnosing the Fact-Grounding Gap in Multi-Hop Question Answering](http://arxiv.org/abs/2609.17043v1) | ArXiv |  | 1 |
 | [DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening](http://arxiv.org/abs/2608.31128v1) | ArXiv |  | 1 |
 | [DiaVLo: Diagnosing Behaviours of Vision-Language Models](http://arxiv.org/abs/2609.22008v1) | ArXiv |  | 1 |
+| [Digital diglossia: Arabic between X and Facebook](http://arxiv.org/abs/2609.28352v1) | ArXiv |  | 1 |
 | [Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents](http://arxiv.org/abs/2607.15095v2) | ArXiv |  | 1 |
 | [DiscoSign: Discourse-Aware Text to Sign Language Gloss Translation](http://arxiv.org/abs/2609.02796v1) | ArXiv |  | 1 |
 | [Discovery Foundation Models: Toward Open-Ended Discovery Intelligence](http://arxiv.org/abs/2609.15973v1) | ArXiv |  | 1 |
@@ -242,6 +246,7 @@
 | [Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](http://arxiv.org/abs/2606.02955v2) | ArXiv |  | 1 |
 | [Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?](http://arxiv.org/abs/2606.15412v2) | ArXiv |  | 1 |
 | [Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces](http://arxiv.org/abs/2604.11996v5) | ArXiv |  | 1 |
+| [Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following](http://arxiv.org/abs/2609.28395v1) | ArXiv |  | 1 |
 | [Fine-Tuning Whisper for Automatic Speech Recognition in Baniwa: A Preliminary Study](http://arxiv.org/abs/2608.26060v1) | ArXiv |  | 1 |
 | [Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs](http://arxiv.org/abs/2609.26796v1) | ArXiv |  | 1 |
 | [FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents](http://arxiv.org/abs/2605.02815v2) | ArXiv |  | 1 |
@@ -250,6 +255,7 @@
 | [Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](http://arxiv.org/abs/2606.19334v1) | ArXiv |  | 2 |
 | [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](http://arxiv.org/abs/2607.29602v1) | ArXiv |  | 1 |
 | [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](http://arxiv.org/abs/2607.29602v2) | ArXiv |  | 1 |
+| [From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](http://arxiv.org/abs/2609.23065v2) | ArXiv |  | 1 |
 | [From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification](http://arxiv.org/abs/2609.01564v1) | ArXiv |  | 1 |
 | [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1) | ArXiv |  | 1 |
 | [From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset](http://arxiv.org/abs/2601.04632v2) | ArXiv |  | 1 |
@@ -305,6 +311,7 @@
 | [Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization](http://arxiv.org/abs/2608.20281v1) | ArXiv |  | 1 |
 | [Inoculation Midtraining with Learned Neologisms](http://arxiv.org/abs/2609.15886v1) | ArXiv |  | 1 |
 | [Instruction-Tuned Models Locally Reuse Human Syntax More Than Humans Do](http://arxiv.org/abs/2607.26015v1) | ArXiv |  | 1 |
+| [InsurTech innovation using natural language processing](http://arxiv.org/abs/2507.21112v4) | ArXiv |  | 1 |
 | [INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment](http://arxiv.org/abs/2608.27348v1) | ArXiv |  | 1 |
 | [Investigating Learner-Aware Design of LLM-Generated Educational Feedback](http://arxiv.org/abs/2602.11650v2) | ArXiv |  | 1 |
 | [It's Not RoPE that Creates Sinks: The Role of Self-Concentration and Value-Non-Mixing in Attention](http://arxiv.org/abs/2609.09085v1) | ArXiv |  | 1 |
@@ -495,6 +502,7 @@
 | [RusFinChain: A Russian Benchmark for Verifiable Chain-of-Thought Reasoning in Finance with Fuzzy-Aligned Evaluation](http://arxiv.org/abs/2607.01388v2) | ArXiv |  | 1 |
 | [S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](http://arxiv.org/abs/2608.31100v1) | ArXiv |  | 1 |
 | [SAEVerbalizer: Generating Explanations for Sparse Autoencoder Features via Representation Verbalization](http://arxiv.org/abs/2608.13538v1) | ArXiv |  | 1 |
+| [SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems](http://arxiv.org/abs/2603.17373v2) | ArXiv |  | 1 |
 | [Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?](http://arxiv.org/abs/2608.05097v1) | ArXiv |  | 1 |
 | [Same Scores, Different Decisions: Evaluating JEV and Language Models for Legal Document Understanding](http://arxiv.org/abs/2609.27678v1) | ArXiv |  | 1 |
 | [Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B](http://arxiv.org/abs/2607.28576v1) | ArXiv |  | 1 |
@@ -606,6 +614,7 @@
 | [Towards Understanding Linear Word Analogies](http://arxiv.org/abs/1810.04882v8) | ArXiv |  | 1 |
 | [Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues](http://arxiv.org/abs/2601.12868v2) | ArXiv |  | 1 |
 | [Trade-offs in Medical LLM Adaptation: An Empirical Study in French QA](http://arxiv.org/abs/2606.19266v1) | ArXiv |  | 1 |
+| [TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling](http://arxiv.org/abs/2609.26347v2) | ArXiv |  | 1 |
 | [Translation Asymmetry in LLMs as a Data Augmentation Factor: A Case Study for 6 Romansh Language Varieties](http://arxiv.org/abs/2603.25489v2) | ArXiv |  | 1 |
 | [TTPO: Test-Time Policy Optimization](http://arxiv.org/abs/2608.27448v1) | ArXiv |  | 1 |
 | [Turning the Spell Around: Lightweight Alignment Amplification via Rank-One Safety Injection](http://arxiv.org/abs/2508.20766v2) | ArXiv |  | 1 |

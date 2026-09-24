@@ -1,5 +1,10 @@
 # Cs.Lg Export
 
+## CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics
+- **ID**: arxiv_2404.19725v9
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2404.19725v9](http://arxiv.org/abs/2404.19725v9)
+
 ## MambaTS: Improved Selective State Space Models for Long-term Time Series Forecasting
 - **ID**: arxiv_2405.16440v2
 - **Source**: ArXiv
@@ -250,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01476v3](http://arxiv.org/abs/2604.01476v3)
 
+## Joint Interference Detection and Identification via Adversarial Multi-task Learning
+- **ID**: arxiv_2604.08607v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.08607v2](http://arxiv.org/abs/2604.08607v2)
+
 ## PRAGMA: Revolut Foundation Model
 - **ID**: arxiv_2604.08649v2
 - **Source**: ArXiv
@@ -479,6 +489,11 @@
 - **ID**: arxiv_2606.15157v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.15157v2](http://arxiv.org/abs/2606.15157v2)
+
+## On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents
+- **ID**: arxiv_2606.15912v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15912v2](http://arxiv.org/abs/2606.15912v2)
 
 ## Demystifying Variance in Circuit Discovery of LLMs
 - **ID**: arxiv_2606.16920v1
@@ -1654,4 +1669,19 @@
 - **ID**: arxiv_2609.27982v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27982v1](http://arxiv.org/abs/2609.27982v1)
+
+## When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment
+- **ID**: arxiv_2609.28385v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28385v1](http://arxiv.org/abs/2609.28385v1)
+
+## Learning Holographic Reduced Representations with Clifford Variational Autoencoders
+- **ID**: arxiv_2609.28409v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28409v1](http://arxiv.org/abs/2609.28409v1)
+
+## Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning
+- **ID**: arxiv_2609.28442v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28442v1](http://arxiv.org/abs/2609.28442v1)
 

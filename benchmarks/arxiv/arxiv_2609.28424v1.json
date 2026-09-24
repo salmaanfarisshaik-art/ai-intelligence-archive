@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28424v1",
+  "schema_version": "1.0",
+  "name": "The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28424v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28424v1",
+    "updated": "2026-09-23T17:27:01Z",
+    "published": "2026-09-23T17:27:01Z",
+    "title": "The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint",
+    "summary": "Catalog skin recolouring has to change pigment and leave shading alone. The classical Reinhard map does not make that split: it rescales lightness by the ratio of standard deviations, and a flat reference swatch therefore flattens the limb. This paper formalises the correction used in our pipeline, the skin-restricted Reinhard transform. It is the diagonal affine map in CIE Lab that translates lightness, matches the chromatic mean, and clamps the chromatic gain to [0.72, 1.18], with moments taken on the central 84% of each channel. A diagonal affine map has six real parameters. The shading constraint forces the lightness gain to +1 and the lightness shift to the difference of means; one-dimensional quadratic optimal transport on each chromatic axis, followed by Euclidean projection onto the gain interval, fixes the other four. Inside that family the four conditions determine every parameter. The content of the result is the forced lightness gain; it is not a uniqueness claim outside the diagonal affine class. For Gaussian marginals the chromatic step is not merely the best affine map: it is the unrestricted Wasserstein-2 map. The same formulae with trimmed moments remain optimal because a positive affine image commutes with quantile trimming. On hands, arms, legs, and feet of nine photographs and three reference tones, the map keeps the lightness contrast ratio at 0.974 +/- 0.029 with chromatic error 0.77 CIE Lab units. Reinhard matching, the linear Monge map, and histogram matching reach a smaller chromatic error only by cutting lightness contrast to about half.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:27:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28424v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

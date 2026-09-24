@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.13768v2",
+  "schema_version": "1.0",
+  "name": "Causal Tracing of Audio-Text Fusion in Large Audio Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.13768v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.13768v2",
+    "updated": "2026-09-23T16:48:46Z",
+    "published": "2026-03-14T05:40:59Z",
+    "title": "Causal Tracing of Audio-Text Fusion in Large Audio Language Models",
+    "summary": "Despite the strong performance of large audio language models (LALMs) in various tasks, exactly how and where they integrate acoustic features with textual context remains unclear. We adapt causal tracing to investigate the internal information flow of LALMs during audio comprehension. By conducting layer-wise and token-wise analyses across DeSTA, Qwen, and Voxtral, we evaluate the causal effects of individual hidden states. Layer-wise analysis identifies different fusion strategies, from progressive integration in DeSTA to abrupt late-stage fusion in Qwen. Token-wise analysis shows that the final sequence token acts as an informational bottleneck where the network decisively retrieves relevant information from the audio. We also observe an attention-like query mechanism at intermediate token positions that triggers the model to pull task-relevant audio context. These findings provide a clear characterization of when and where multi-modal integration occurs within LALMs.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:48:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.13768v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

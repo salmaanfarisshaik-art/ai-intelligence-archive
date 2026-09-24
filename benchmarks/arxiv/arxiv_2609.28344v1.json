@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28344v1",
+  "schema_version": "1.0",
+  "name": "Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28344v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28344v1",
+    "updated": "2026-09-23T16:21:51Z",
+    "published": "2026-09-23T16:21:51Z",
+    "title": "Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding",
+    "summary": "Audio-language models (ALMs) integrate acoustic perception with the knowledge encoded in language models, enabling contextual understanding of auditory events. Making these capabilities practical on devices with limited memory and computation motivates our focus on small ALMs with fewer than 200M parameters. We introduce a recipe that brings together architecture, data, and three-stage training to build Mizar, a 159.3M-parameter ALM. Its architecture connects a compact CED-Small audio encoder to SmolLM2-135M through a frequency-merging mapper. With supervision drawn from ReasonAQA, AudioMCQ, and AVQA, the model undergoes three training stages: audio-language alignment (Stage 1), audio-dependent fine-tuning (Stage 2), and post-training (Stage 3) aimed at strengthening weak skills while retaining learned capabilities. Across five random seeds, Mizar achieves mean accuracies of 52.92% on MMAU, 42.42% on MMAR, and 36.02% on ADQA-clean, surpassing the previous best-performing ALM below 200M parameters on all three benchmarks. It also supports local inference on a single CPU: on questions from the MMAU benchmark, the mean latency from opening the audio file to generating a complete answer is 1.09 seconds. Code and checkpoints are available at https://github.com/KaiyangLi1992/Mizar_159M.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:21:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28344v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

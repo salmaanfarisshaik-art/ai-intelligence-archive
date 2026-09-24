@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28409v1",
+  "schema_version": "1.0",
+  "name": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28409v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28409v1",
+    "updated": "2026-09-23T17:10:56Z",
+    "published": "2026-09-23T17:10:56Z",
+    "title": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+    "summary": "Vector Symbolic Algebras project data structures into a hyperdimensional vector space through the application of their vector algebras to randomly generated atomic vector symbols and fractional power encodings of real-valued data. Embedding unstructured data remains an open question. We present \\textit{Clifford-VAE}, a variational autoencoder that learns to project data onto a Clifford torus in arbitrary dimensions. Experiments using the MNIST, FashionMNIST, and CIFAR-10 datasets demonstrate that Clifford-VAE produces representations that are competitive with those produced by Gaussian and Hyperspherical VAEs for semi-supervised classification tasks while outperforming Gaussian and Hyperspherical counterparts in the VSA benchmark tests of self-binding and unbinding, role-filler recovery, and bundle capacity. Clifford-VAE provides a principled technique for grounding perceptual data into a symbolic reasoning framework, providing a new approach to a long-standing problem in the VSA literature.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:10:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28409v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

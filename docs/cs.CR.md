@@ -56,6 +56,7 @@
 | [PatchBench: Evaluating AI Agents for Vulnerability Patching](http://arxiv.org/abs/2609.04075v1) | ArXiv |  | 1 |
 | [Policy-Masked Private Experts: Auditable and Reversible Capability Access Control in Sparse MoE Models](http://arxiv.org/abs/2608.06690v2) | ArXiv |  | 1 |
 | [RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution](http://arxiv.org/abs/2608.27439v1) | ArXiv |  | 1 |
+| [Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory](http://arxiv.org/abs/2605.03228v2) | ArXiv |  | 1 |
 | [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners](http://arxiv.org/abs/2606.18198v1) | ArXiv |  | 1 |
 | [SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center](http://arxiv.org/abs/2609.04159v1) | ArXiv |  | 1 |
 | [SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents](http://arxiv.org/abs/2602.14211v3) | ArXiv |  | 1 |
@@ -72,6 +73,7 @@
 | [Towards an Automated Test of LLM Security Knowledge](http://arxiv.org/abs/2607.18496v3) | ArXiv |  | 1 |
 | [VICBench: A Multi-Language Benchmark for Code Vulnerability Detection](http://arxiv.org/abs/2608.12246v1) | ArXiv |  | 1 |
 | [Vulnerability Localization Benchmark: Measuring Agentic Security Analysis at Repository Scale](http://arxiv.org/abs/2609.15939v1) | ArXiv |  | 1 |
+| [WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents](http://arxiv.org/abs/2510.01354v2) | ArXiv |  | 1 |
 | [When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks](http://arxiv.org/abs/2606.14629v1) | ArXiv |  | 1 |
 | [When LLM Decompilers Recompile More and Preserve Less](http://arxiv.org/abs/2609.05370v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

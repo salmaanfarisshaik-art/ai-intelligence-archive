@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08133v2",
+  "schema_version": "1.0",
+  "name": "Gravity-guided Contact Dynamics Estimation from 3D Human Motions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08133v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08133v2",
+    "updated": "2026-09-23T16:52:20Z",
+    "published": "2026-06-06T12:15:58Z",
+    "title": "Gravity-guided Contact Dynamics Estimation from 3D Human Motions",
+    "summary": "Ground contact forces acting on the human body, are crucial for biomechanics studies or sport performance analysis. Prior methods rely on force plates or pressure mats to collect ground contact dynamics, limiting their applicability to carefully controlled settings. A more scalable solution is to estimate the dynamics directly from motion capture data. Recent approaches only roughly estimate the ground contact dynamics from the vertical distance between the body and the ground plane, which cannot capture the complex pressure distribution of all contact points. To this end, we propose GraCE -- Gravity-guided Contact Dynamics Estimation, a novel full-body contact dynamics model for human motions using a realistic influence of body mass distribution and gravity. We use the human's center of gravity to estimate the ground contacts based on its relative distance to the human body. The applied force on each contact is estimated via the product of predicted contact probabilities and the total exterior force computed from the center of mass trajectory. We outperform related work on the GroundLink dataset for ground reaction force estimation, and on the MOYO dataset for detailed contact pressure prediction. The code is published at https://github.com/cuongle1206/GraCE",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:52:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08133v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -110,6 +110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.14022v3](http://arxiv.org/abs/2507.14022v3)
 
+## InsurTech innovation using natural language processing
+- **ID**: arxiv_2507.21112v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.21112v4](http://arxiv.org/abs/2507.21112v4)
+
 ## Post-Training Large Language Models via Reinforcement Learning from Self-Feedback
 - **ID**: arxiv_2507.21931v2
 - **Source**: ArXiv
@@ -399,6 +404,11 @@
 - **ID**: arxiv_2603.16848v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.16848v2](http://arxiv.org/abs/2603.16848v2)
+
+## SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems
+- **ID**: arxiv_2603.17373v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.17373v2](http://arxiv.org/abs/2603.17373v2)
 
 ## MineDraft: A Framework for Batch Parallel Speculative Decoding
 - **ID**: arxiv_2603.18016v3
@@ -3100,6 +3110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22081v2](http://arxiv.org/abs/2609.22081v2)
 
+## From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness
+- **ID**: arxiv_2609.23065v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23065v2](http://arxiv.org/abs/2609.23065v2)
+
 ## ChemCLIR-Bench: Benchmarking Cross-Lingual Information Retrieval in Multilingual Chemical Patents
 - **ID**: arxiv_2609.23231v1
 - **Source**: ArXiv
@@ -3180,6 +3195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24983v1](http://arxiv.org/abs/2609.24983v1)
 
+## TransBERT: A Framework for Synthetic Translation in Domain-Specific Language Modeling
+- **ID**: arxiv_2609.26347v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26347v2](http://arxiv.org/abs/2609.26347v2)
+
 ## Detecting GPT-Assisted Writing Using Interpretable Stylometric Features
 - **ID**: arxiv_2609.26687v1
 - **Source**: ArXiv
@@ -3259,4 +3279,29 @@
 - **ID**: arxiv_2609.28007v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28007v1](http://arxiv.org/abs/2609.28007v1)
+
+## Digital diglossia: Arabic between X and Facebook
+- **ID**: arxiv_2609.28352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28352v1](http://arxiv.org/abs/2609.28352v1)
+
+## Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following
+- **ID**: arxiv_2609.28395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28395v1](http://arxiv.org/abs/2609.28395v1)
+
+## Agent-Editing World Model: Rethinking World Modeling for LLM Agents
+- **ID**: arxiv_2609.28416v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28416v1](http://arxiv.org/abs/2609.28416v1)
+
+## Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms
+- **ID**: arxiv_2609.28430v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28430v1](http://arxiv.org/abs/2609.28430v1)
+
+## Contrastive Learning for Authorship Verification
+- **ID**: arxiv_2609.28471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28471v1](http://arxiv.org/abs/2609.28471v1)
 

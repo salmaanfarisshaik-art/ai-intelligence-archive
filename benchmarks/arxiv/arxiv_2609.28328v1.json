@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28328v1",
+  "schema_version": "1.0",
+  "name": "BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28328v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28328v1",
+    "updated": "2026-09-23T16:07:15Z",
+    "published": "2026-09-23T16:07:15Z",
+    "title": "BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization",
+    "summary": "Accurate localization of the bronchoscope within the bronchial tree is essential for clinicians to be able to reach target lesions, perform biopsies and avoid misidentification of airway segments during diagnostic and therapeutic procedures. However, existing navigation systems typically rely on patient-specific CT scans or additional external sensors, increasing cost, setup time and patient radiation exposure. This work presents BronchoTop, a real-time, RGB-only framework for topological bronchoscopy localization that eliminates the need for patient-specific data. BronchoTop estimates scope location relative to a generic airway model through four modules: lumen detection and tracking, lumen-branch label association, probabilistic scope location estimation, and switch verification. By using only standard bronchoscopy video input, BronchoTop provides practical, real-time navigational assistance to physicians. Evaluation on phantom, simulated and real data demonstrates state-of-the-art accuracy, improving existing approaches performance by over 20% on real bronchoscopy sequences. BronchoTop is the first published framework including both the localization algorithms as well as all the real data used, together with code to generate additional simulations, encouraging and facilitating further developments and benchmarking. The results highlight BronchoTop's potential to enhance procedural safety, efficiency and accessibility in clinical and robotic bronchoscopy.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:07:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28328v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

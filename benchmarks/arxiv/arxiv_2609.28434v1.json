@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28434v1",
+  "schema_version": "1.0",
+  "name": "Predicting the Progression of Adolescent Idiopathic Scoliosis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28434v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28434v1",
+    "updated": "2026-09-23T17:33:31Z",
+    "published": "2026-09-23T17:33:31Z",
+    "title": "Predicting the Progression of Adolescent Idiopathic Scoliosis",
+    "summary": "Adolescent Idiopathic Scoliosis is defined as a lateral curvature of the spine that develops during adolescence, without known cause. The condition can result in significant pain and disability, and often progresses rapidly during adolescence. The objective of this paper is to predict the progression of the condition in a temporal sequence from ages 9 to 24, as measured from a sequence of Dual X-ray Absorptiometry (DXA) scans. To this end, we train a transformer model that takes in the curve of the spine to predict curve progression. The model is trained using a large-scale synthetic dataset of spine curves and their time series, covering different curve types and different progression patterns. We show that the model is able to generalise from synthetic to real data by evaluating it on a dataset of real DXA scans covering multiple time points. We find that fine-tuning the model on real data gives a significant boost to performance. The model is able to accurately predict spine curve progression in both scoliosis and normal cases.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:33:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28434v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

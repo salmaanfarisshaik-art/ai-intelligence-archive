@@ -111,6 +111,7 @@
 | [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1) | ArXiv |  | 1 |
 | [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
 | [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) | ArXiv |  | 1 |
+| [An Open Pipeline and Dashboard for Systemic-Risk Evidence under the EU AI Act's Code of Practice](http://arxiv.org/abs/2609.28335v1) | ArXiv |  | 1 |
 | [Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](http://arxiv.org/abs/2608.21332v1) | ArXiv |  | 1 |
 | [ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems](http://arxiv.org/abs/2606.06114v3) | ArXiv |  | 1 |
 | [Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research](http://arxiv.org/abs/2608.15052v2) | ArXiv |  | 1 |
@@ -336,6 +337,7 @@
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
+| [Learning the Cost of Reliable Inference](http://arxiv.org/abs/2609.28322v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
@@ -374,6 +376,7 @@
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
+| [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
 | [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
 | [MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents](http://arxiv.org/abs/2609.20152v1) | ArXiv |  | 1 |
@@ -472,6 +475,7 @@
 | [Reward Modeling for Multi-Agent Orchestration](http://arxiv.org/abs/2606.13598v1) | ArXiv |  | 1 |
 | [ReWorld: An Interactive World Model with Long-Horizon Memory](http://arxiv.org/abs/2608.23565v1) | ArXiv |  | 1 |
 | [Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought](http://arxiv.org/abs/2608.24790v1) | ArXiv |  | 1 |
+| [Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving](http://arxiv.org/abs/2609.21470v2) | ArXiv |  | 1 |
 | [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
 | [Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](http://arxiv.org/abs/2608.20237v1) | ArXiv |  | 1 |
 | [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
@@ -523,12 +527,14 @@
 | [StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models](http://arxiv.org/abs/2608.23475v1) | ArXiv |  | 1 |
 | [Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core](http://arxiv.org/abs/2608.24810v1) | ArXiv |  | 1 |
 | [Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG](http://arxiv.org/abs/2609.20334v1) | ArXiv |  | 1 |
+| [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v1) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
 | [SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving](http://arxiv.org/abs/2609.26777v1) | ArXiv |  | 1 |
 | [Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics](http://arxiv.org/abs/2609.17107v1) | ArXiv |  | 1 |
 | [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v1) | ArXiv |  | 1 |
+| [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v2) | ArXiv |  | 1 |
 | [Tailored to you: longitudinal effects of personalising language models](http://arxiv.org/abs/2609.20077v1) | ArXiv |  | 1 |
 | [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models](http://arxiv.org/abs/2609.05333v1) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
@@ -586,6 +592,7 @@
 | [UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20089v1) | ArXiv |  | 1 |
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
+| [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](http://arxiv.org/abs/2609.09418v3) | ArXiv |  | 1 |
 | [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) | ArXiv |  | 1 |
 | [Verification of Adaptive Agentic Controllers through Finite Rule Revision](http://arxiv.org/abs/2607.09770v2) | ArXiv |  | 1 |
 | [VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification](http://arxiv.org/abs/2607.20474v2) | ArXiv |  | 1 |

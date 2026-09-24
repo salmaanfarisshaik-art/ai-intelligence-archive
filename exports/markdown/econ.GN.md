@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.02797v1](http://arxiv.org/abs/2609.02797v1)
 
+## Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer
+- **ID**: arxiv_2609.28372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28372v1](http://arxiv.org/abs/2609.28372v1)
+

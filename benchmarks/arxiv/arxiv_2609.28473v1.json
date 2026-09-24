@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.28473v1",
+  "schema_version": "1.0",
+  "name": "On the Diffusibility of High-Dimensional Latents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.28473v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.28473v1",
+    "updated": "2026-09-23T17:59:56Z",
+    "published": "2026-09-23T17:59:56Z",
+    "title": "On the Diffusibility of High-Dimensional Latents",
+    "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstruction, discarding fine-grained visual details. As expected, finetuning these encoders for image reconstruction recovers such details. However, perhaps counterintuitively, this procedure reduces the effective dimensionality of the resulting representation, and the altered geometry has downstream effects on generation. Specifically, we show that using the standard velocity prediction in flow matching in this high-dimensional space requires the model to fit orthogonal noise directions outside the low-dimensional signal manifold, making optimization inefficient. This motivates using the clean data parameterization ($\\boldsymbol{x}_{0}$-prediction) instead, which focuses learning on the underlying signal manifold. Across experiments with multiple strong-reconstruction encoders, we show that $\\boldsymbol{x}_{0}$-prediction consistently improves text-to-image generation performance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:59:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.28473v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

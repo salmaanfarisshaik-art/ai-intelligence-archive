@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15912v2",
+  "schema_version": "1.0",
+  "name": "On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15912v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15912v2",
+    "updated": "2026-09-23T17:45:34Z",
+    "published": "2026-06-14T16:41:45Z",
+    "title": "On-Policy Distillation with Curriculum Turn-level Guidance for Multi-turn Agents",
+    "summary": "Multi-turn agents that plan, invoke tools, and interact with environments offer a promising paradigm for solving complex tasks, yet their capabilities typically rely on very large models whose inference cost is prohibitive in practice. On-Policy Distillation (OPD) is a natural recipe for transferring such capabilities to smaller students, but we find that it suffers a characteristic failure mode in this setting: small student errors compound across turns and push the trajectory out of the teacher's familiar state distribution, so the teacher's supervision becomes least reliable precisely where the student needs it most. We propose Guided On-Policy Distillation (Guided-OPD), a simple yet effective algorithm that mixes teacher- and student-generated turns within each rollout and schedules the teacher's intervention probability along a curriculum that decays to zero. Strong guidance keeps early trajectories close to the teacher distribution and is then gradually withdrawn to recover the purely on-policy regime used at inference. On ALFWorld, ScienceWorld, and WebShop, distilling Qwen3 students from a Qwen3-30B-A3B teacher, Guided-OPD yields average relative gains of 21.1\\% in Score and 25.5\\% in Success Rate over vanilla OPD, with larger gains on smaller students.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:45:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15912v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

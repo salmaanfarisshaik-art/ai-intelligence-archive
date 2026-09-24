@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.16743v2",
+  "schema_version": "1.0",
+  "name": "Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.16743v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.16743v2",
+    "updated": "2026-09-23T16:35:52Z",
+    "published": "2026-04-17T23:20:25Z",
+    "title": "Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy",
+    "summary": "Traditional melissopalynology is a time-consuming and subjective process, often taking 4-6 hours per sample. We present an automated, high-throughput microscopy system that integrates H_\\infty robust mechanical control with advanced deep learning pipelines for the precise counting, classification, and morphological analysis of pollen grains from Bio Bio region in south central territory in Chile. Our system employs U^2-Net for salient object detection and a DINOv2 Vision Transformer backbone trained via Deep Metric Learning for classification. By integrating Gradient-Weighted Attention, the model provides human-interpretable texture and diagnostic feature annotations. The system achieves a 95.8% classification recall and at least 6x processing speedup compared to manual expert analysis.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T16:35:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.16743v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

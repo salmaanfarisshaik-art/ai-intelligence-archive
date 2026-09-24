@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.10774v4](http://arxiv.org/abs/2510.10774v4)
 
+## Causal Tracing of Audio-Text Fusion in Large Audio Language Models
+- **ID**: arxiv_2603.13768v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.13768v2](http://arxiv.org/abs/2603.13768v2)
+
 ## Echoes: A semantically-aligned music deepfake detection dataset
 - **ID**: arxiv_2603.23667v3
 - **Source**: ArXiv
@@ -149,4 +154,9 @@
 - **ID**: arxiv_2609.20124v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20124v1](http://arxiv.org/abs/2609.20124v1)
+
+## Mizar: A 159M-Parameter Audio-Language Model for Audio Understanding
+- **ID**: arxiv_2609.28344v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28344v1](http://arxiv.org/abs/2609.28344v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.21470v2",
+  "schema_version": "1.0",
+  "name": "Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.21470v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.21470v2",
+    "updated": "2026-09-23T15:56:40Z",
+    "published": "2026-09-18T08:18:07Z",
+    "title": "Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving",
+    "summary": "Conventional end-to-end driving systems model the environment with sparse objects and lane elements. While efficient, this paradigm discards planning-critical information in crowded and occluded scenarios, particularly for unstructured obstacles, ambiguous free space, and complex interactions. We propose risk-aware occupancy, a dense BEV representation that explicitly fuses geometric occupancy, map-derived traffic constraints, and future dynamic-agent occupancy as complementary risk signals. Built upon this representation, we develop ROIDrive, an instance-centric end-to-end framework with a dedicated risk-aware occupancy branch. The predicted occupancy is tokenized via sliding-window sampling and injected into planning queries via cross-attention, while temporal query consistency mitigates unreliable flickering queries. We also contribute RiskOcc4D-nuScenes, a benchmark derived from nuScenes and Occ3D-nuScenes with four automated annotation pipelines for multi-dimensional risk supervision. Experiments on representative occupancy architectures verify the learnability and transferability of our representation. Integrated with GenAD, it reduces collision rates by 35.0% (UniAD metric) and 52.9% (ST-P3 metric), confirming the efficacy of the proposed representation modality.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T15:56:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.21470v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

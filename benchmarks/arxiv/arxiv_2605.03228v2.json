@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.03228v2",
+  "schema_version": "1.0",
+  "name": "Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.03228v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.03228v2",
+    "updated": "2026-09-23T17:47:23Z",
+    "published": "2026-05-04T23:46:19Z",
+    "title": "Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+    "summary": "As large language model (LLM)-powered agents are increasingly deployed to perform complex, real-world tasks, they face a growing class of attacks that exploit extended user-agent-environment interactions to pursue malicious objectives improbable in single-turn settings. Such long-horizon threats pose significant risks to the safe deployment of LLM agents in critical domains. In this paper, we present ShadowMem, a novel defensive framework designed to counter a wide range of long-horizon threats. Inspired by the \"shadow stack\" abstraction in systems security, ShadowMem maintains a dedicated, safety-focused agentic memory that distills and retains safety-critical context across the agent's full execution trajectory, leveraging this shadow memory to proactively assess the risk of pending actions prior to their execution. Extensive evaluation demonstrates that ShadowMem substantially outperforms existing defenses across diverse long-horizon threats in detection accuracy, achieves early-stage detection for the majority of attacks, and introduces only negligible overhead to agent utility. To our best knowledge, ShadowMem represents the first framework to detect and mitigate long-horizon threats using an agentic memory approach, establishing a new paradigm for this critical challenge and opening promising directions for future research. The artifacts are available at https://github.com/ZJUWYH/ShadowMem",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-09-24T07:12:16Z",
+  "last_updated": "2026-09-23T17:47:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.03228v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

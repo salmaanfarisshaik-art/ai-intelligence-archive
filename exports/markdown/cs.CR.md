@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.15509v3](http://arxiv.org/abs/2403.15509v3)
 
+## WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents
+- **ID**: arxiv_2510.01354v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.01354v2](http://arxiv.org/abs/2510.01354v2)
+
 ## A Hybrid Insider Threat Detection Framework Combining Multi-Agent Simulation, Layered SIEM Correlation, and Theory-of-Mind Reasoning
 - **ID**: arxiv_2601.04243v2
 - **Source**: ArXiv
@@ -34,6 +39,11 @@
 - **ID**: arxiv_2604.27143v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.27143v2](http://arxiv.org/abs/2604.27143v2)
+
+## Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory
+- **ID**: arxiv_2605.03228v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03228v2](http://arxiv.org/abs/2605.03228v2)
 
 ## SkillSafetyBench: Evaluating Agent Safety under Skill-Facing Attack Surfaces
 - **ID**: arxiv_2605.12015v3

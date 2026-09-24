@@ -300,6 +300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20173v2](http://arxiv.org/abs/2605.20173v2)
 
+## MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
+- **ID**: arxiv_2605.26114v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26114v3](http://arxiv.org/abs/2605.26114v3)
+
 ## RULER: Representation-Level Verification of Machine Unlearning
 - **ID**: arxiv_2605.27569v3
 - **Source**: ArXiv
@@ -1329,6 +1334,11 @@
 - **ID**: arxiv_2608.03952v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.03952v1](http://arxiv.org/abs/2608.03952v1)
+
+## TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
+- **ID**: arxiv_2608.03952v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.03952v2](http://arxiv.org/abs/2608.03952v2)
 
 ## A game theory for foundation models shows new paths to rational cooperation through similarity inference
 - **ID**: arxiv_2608.03958v1
@@ -2655,6 +2665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09153v1](http://arxiv.org/abs/2609.09153v1)
 
+## Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration
+- **ID**: arxiv_2609.09418v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09418v3](http://arxiv.org/abs/2609.09418v3)
+
 ## Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs
 - **ID**: arxiv_2609.10413v1
 - **Source**: ArXiv
@@ -2945,6 +2960,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20804v1](http://arxiv.org/abs/2609.20804v1)
 
+## Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving
+- **ID**: arxiv_2609.21470v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.21470v2](http://arxiv.org/abs/2609.21470v2)
+
 ## What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence
 - **ID**: arxiv_2609.21924v1
 - **Source**: ArXiv
@@ -3064,4 +3084,19 @@
 - **ID**: arxiv_2609.27749v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27749v1](http://arxiv.org/abs/2609.27749v1)
+
+## Learning the Cost of Reliable Inference
+- **ID**: arxiv_2609.28322v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28322v1](http://arxiv.org/abs/2609.28322v1)
+
+## An Open Pipeline and Dashboard for Systemic-Risk Evidence under the EU AI Act's Code of Practice
+- **ID**: arxiv_2609.28335v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28335v1](http://arxiv.org/abs/2609.28335v1)
+
+## StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- **ID**: arxiv_2609.28470v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28470v1](http://arxiv.org/abs/2609.28470v1)
 

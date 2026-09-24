@@ -360,6 +360,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.13555v1](http://arxiv.org/abs/2608.13555v1)
 
+## Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use
+- **ID**: arxiv_2608.14047v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14047v2](http://arxiv.org/abs/2608.14047v2)
+
 ## Ensuring Safe Physical AI in Urban Mobility via Hazard-Informed Synthesized Envelopes
 - **ID**: arxiv_2608.14481v1
 - **Source**: ArXiv
@@ -649,4 +654,9 @@
 - **ID**: arxiv_2609.27734v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27734v1](http://arxiv.org/abs/2609.27734v1)
+
+## Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction
+- **ID**: arxiv_2609.28467v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28467v1](http://arxiv.org/abs/2609.28467v1)
 

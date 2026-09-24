@@ -4,10 +4,10 @@
   "author": "aliasfox",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-09-23T03:23:07.000Z",
+  "lastModified": "2026-09-24T06:44:55.000Z",
   "likes": 0,
   "private": false,
-  "sha": "5efa0bfd8e6c44e715d33dec71236c50110733c8",
+  "sha": "82a46f3018949d04572528369552ef0942869aef",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSRTM 30m OZT2 Elevation Tiles\n\t\n\nThis dataset contains SRTM 30-meter resolution elevation data encoded in the OZT2 tile format.\n\n\t\n\t\t\n\t\n\t\n\t\tFormat\n\t\n\nOZT2 is a high-performance elevation tile format:\n\nCompression: ~93% smaller than Terrarium PNG\nPrediction: Gradient-based prediction (left neighbor + vertical gradient)\nQuantization: Adaptive bit-depth (8/10/12/16-bit per channel)\nCodec: Zstd q3 (30× faster encode than Brotli, same decode speed)\n\nEach tile is 256×256 pixels in Web… See the full description on the dataset page: https://huggingface.co/datasets/aliasfox/srtm30m-ozt2-v2.",
   "downloads": 60679,
   "tags": [

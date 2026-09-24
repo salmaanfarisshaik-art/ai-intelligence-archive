@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2411.19537v4](http://arxiv.org/abs/2411.19537v4)
 
+## Copy-Move Forgery Detection and Question Answering for Remote Sensing Image
+- **ID**: arxiv_2412.02575v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2412.02575v3](http://arxiv.org/abs/2412.02575v3)
+
 ## Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research
 - **ID**: arxiv_2501.14546v2
 - **Source**: ArXiv
@@ -535,6 +540,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.18314v2](http://arxiv.org/abs/2602.18314v2)
 
+## A Very Big Video Reasoning Suite
+- **ID**: arxiv_2602.20159v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.20159v4](http://arxiv.org/abs/2602.20159v4)
+
 ## SynthRender and I-AsSET: Open-Source Framework and Dataset for Bidirectional Sim-Real Transfer in Industrial Object Perception
 - **ID**: arxiv_2602.21141v3
 - **Source**: ArXiv
@@ -690,6 +700,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.13112v2](http://arxiv.org/abs/2604.13112v2)
 
+## Automated Palynological Analysis System: Integrating Deep Metric Learning, Detection and Classification in Bright Field Microscopy
+- **ID**: arxiv_2604.16743v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16743v2](http://arxiv.org/abs/2604.16743v2)
+
 ## SketchVLM: Vision language models can annotate images to explain thoughts and guide users
 - **ID**: arxiv_2604.22875v3
 - **Source**: ArXiv
@@ -834,6 +849,11 @@
 - **ID**: arxiv_2606.06714v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06714v3](http://arxiv.org/abs/2606.06714v3)
+
+## Gravity-guided Contact Dynamics Estimation from 3D Human Motions
+- **ID**: arxiv_2606.08133v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08133v2](http://arxiv.org/abs/2606.08133v2)
 
 ## G2G: Exploiting Intra-Group Geometry for Inter-Group Pose Estimation
 - **ID**: arxiv_2606.08284v3
@@ -4630,6 +4650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.25001v1](http://arxiv.org/abs/2609.25001v1)
 
+## LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction
+- **ID**: arxiv_2609.25803v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.25803v2](http://arxiv.org/abs/2609.25803v2)
+
 ## Longitudinal Retinal Vascular Remodeling in Myopic Children Treated with Orthokeratology or Defocus Lenses: A Two-Year Comparative Study
 - **ID**: arxiv_2609.26662v1
 - **Source**: ArXiv
@@ -4659,6 +4684,11 @@
 - **ID**: arxiv_2609.26756v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26756v1](http://arxiv.org/abs/2609.26756v1)
+
+## FleXray: Universal Clinical X-ray Segmentation
+- **ID**: arxiv_2609.26756v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26756v2](http://arxiv.org/abs/2609.26756v2)
 
 ## StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
 - **ID**: arxiv_2609.26774v1
@@ -4719,4 +4749,64 @@
 - **ID**: arxiv_2609.27988v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27988v1](http://arxiv.org/abs/2609.27988v1)
+
+## LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder
+- **ID**: arxiv_2609.28327v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28327v1](http://arxiv.org/abs/2609.28327v1)
+
+## BronchoTop: Bronchoscopy Navigation via RGB-Only Topological Localization
+- **ID**: arxiv_2609.28328v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28328v1](http://arxiv.org/abs/2609.28328v1)
+
+## Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement
+- **ID**: arxiv_2609.28342v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28342v1](http://arxiv.org/abs/2609.28342v1)
+
+## Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB
+- **ID**: arxiv_2609.28360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28360v1](http://arxiv.org/abs/2609.28360v1)
+
+## AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios
+- **ID**: arxiv_2609.28366v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28366v1](http://arxiv.org/abs/2609.28366v1)
+
+## Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model
+- **ID**: arxiv_2609.28414v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28414v1](http://arxiv.org/abs/2609.28414v1)
+
+## The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint
+- **ID**: arxiv_2609.28424v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28424v1](http://arxiv.org/abs/2609.28424v1)
+
+## Predicting the Progression of Adolescent Idiopathic Scoliosis
+- **ID**: arxiv_2609.28434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28434v1](http://arxiv.org/abs/2609.28434v1)
+
+## MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos
+- **ID**: arxiv_2609.28437v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28437v1](http://arxiv.org/abs/2609.28437v1)
+
+## HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning
+- **ID**: arxiv_2609.28439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28439v1](http://arxiv.org/abs/2609.28439v1)
+
+## The Past Frames the Future: Memory for Autoregressive Video Generation
+- **ID**: arxiv_2609.28466v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28466v1](http://arxiv.org/abs/2609.28466v1)
+
+## On the Diffusibility of High-Dimensional Latents
+- **ID**: arxiv_2609.28473v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28473v1](http://arxiv.org/abs/2609.28473v1)
 

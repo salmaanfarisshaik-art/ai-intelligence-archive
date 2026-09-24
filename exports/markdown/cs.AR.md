@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26016v1](http://arxiv.org/abs/2607.26016v1)
 
+## MicroQonv: Reshaping Convolution Tensors for Efficient Microscaling in Training and Inference
+- **ID**: arxiv_2609.28358v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28358v1](http://arxiv.org/abs/2609.28358v1)
+
