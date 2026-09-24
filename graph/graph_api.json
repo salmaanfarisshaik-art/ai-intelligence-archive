@@ -16671,6 +16671,11 @@
       "target": "datasets/RekaAI"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6a9b618da26f068ce99f0512",
+      "target": "datasets/SKPark1"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -16921,7 +16926,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-24T07:12:29.517579+00:00",
+  "generated_at": "2026-09-24T13:13:25.772692+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -151864,6 +151869,11 @@
       "category": "dataset",
       "id": "hf_ds_6a96f1b1177b511ec1b92935",
       "label": "BuLei/imgbed"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a9b618da26f068ce99f0512",
+      "label": "SKPark1/ngii-map-full-light"
     },
     {
       "category": "dataset",
@@ -465412,6 +465422,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 3384,
-  "total_nodes": 89697
+  "total_edges": 3385,
+  "total_nodes": 89698
 }

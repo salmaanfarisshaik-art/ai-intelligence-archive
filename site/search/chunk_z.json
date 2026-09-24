@@ -717,6 +717,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_torq1_fire_fusion_wa_1000m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openclimatefix_dwd_icon_global",
       "match_type": "exact",
       "score": 1.0
@@ -1125,6 +1130,13 @@
       "entity_id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-zero-zeno",
       "match_type": "exact",
       "score": 3.0
+    }
+  ],
+  "zenosai": [
+    {
+      "entity_id": "model_zenosai_monkeyocrv2_b_parsing",
+      "match_type": "exact",
+      "score": 3.5
     }
   ],
   "zenvo": [
@@ -2095,6 +2107,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mlfoundations_dcvlm_pool_large",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
       "match_type": "exact",
       "score": 1.5
@@ -2321,6 +2338,11 @@
     },
     {
       "entity_id": "model_bartowski_mistral_small_24b_instruct_2501_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_thudm_glm_4_32b_0414_gguf",
       "match_type": "exact",
       "score": 1.5
     },

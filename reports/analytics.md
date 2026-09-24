@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89697
+**Total Entities Tracked**: 89698
 
 ## Category Distribution
 
@@ -10,7 +10,7 @@
 - **datasets**: 2004
 - **models**: 1718
 - **news**: 1255
-- **dataset**: 1184
+- **dataset**: 1185
 - **text-generation**: 1011
 - **cs.CV**: 962
 - **cs.CL**: 661
@@ -100,7 +100,7 @@
 - **ArXiv**: 3188
 - **Hugging Face**: 2018
 - **OpenAI Blog**: 1241
-- **HuggingFace Datasets**: 184
+- **HuggingFace Datasets**: 185
 - **GitHub Trending**: 52
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -140,7 +140,7 @@
 
 ## Top Tags
 
-- **region:us**: 264
+- **region:us**: 265
 - **text-generation**: 81
 - **library:datasets**: 80
 - **library:mlcroissant**: 80
@@ -167,7 +167,7 @@
 - **deploy:sagemaker**: 22
 - **modality:tabular**: 22
 - **qwen3**: 21
-- **license:other**: 19
+- **license:other**: 20
 - **license:cc-by-4.0**: 17
 - **api**: 16
 - **size_categories:10K<n<100K**: 16
@@ -186,7 +186,7 @@
 - **custom_code**: 10
 - **language:zh**: 10
 - **size_categories:100M<n<1B**: 10
+- **size_categories:1M<n<10M**: 10
 - **size_categories:n>1T**: 10
 - **modality:audio**: 9
 - **python**: 9
-- **size_categories:1B<n<10B**: 9

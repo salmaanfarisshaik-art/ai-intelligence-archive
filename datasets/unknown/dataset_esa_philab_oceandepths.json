@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d8c813ebd6126066ebe8a13b4c6bae769c8e0a07",
   "description": "\n  \n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tOceanDepths GeoTIFF Raster and Aligned ARGO Dataset\n\t\n\nThis dataset package contains the model-ready Ocean variables (ARGO submarine data, sea surface height, sea surface temperature and\nsalinity, as well as GLORYS reanalysis information for 50 depth levels. The ARGO data has been projected onto the GLORYS grid in order\nto build a ML-ready dataset. The intention is that users can create tensors easily for CV-inspired ML approaches to ocean-variable\nreconstruction. While… See the full description on the dataset page: https://huggingface.co/datasets/ESA-philab/OceanDepths.",
-  "downloads": 38904,
+  "downloads": 47266,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:1M<n<10M",

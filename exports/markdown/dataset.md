@@ -1114,6 +1114,12 @@
 - **URL**: [https://huggingface.co/datasets/BuLei/imgbed](https://huggingface.co/datasets/BuLei/imgbed)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
 
+## SKPark1/ngii-map-full-light
+- **ID**: hf_ds_6a9b618da26f068ce99f0512
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/SKPark1/ngii-map-full-light](https://huggingface.co/datasets/SKPark1/ngii-map-full-light)
+- **Tags**: geospatial, korea, license:other, map, modality:geospatial, ngii, region:us, shp, size_categories:1M<n<10M, task_categories:other
+
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
 - **Source**: Hugging Face

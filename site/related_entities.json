@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:13:20Z",
+  "generated_at": "2026-09-24T13:14:27Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -770,6 +770,7 @@
       "model_qwen_qwen2_5_coder_1_5b_instruct"
     ],
     "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct": [
+      "model_bartowski_qwen2_5_coder_1_5b_instruct_gguf",
       "model_qwen_qwen2_5_coder_1_5b_instruct_awq",
       "model_qwen_qwen2_5_coder_1_5b_instruct_gguf",
       "model_thorodinson246_nl2sh_1_5b_q4_k_m",
@@ -1069,6 +1070,7 @@
       "model_nexveridian_qwen3_coder_next_8bit",
       "model_redhatai_qwen3_coder_next_fp8_dynamic",
       "model_redhatai_qwen3_coder_next_nvfp4",
+      "model_saricles_qwen3_coder_next_nvfp4_gb10",
       "model_unsloth_qwen3_coder_next_fp8",
       "model_unsloth_qwen3_coder_next_gguf"
     ],
@@ -2940,6 +2942,7 @@
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
       "model_nvidia_gpt_oss_120b_eagle3_v3",
       "model_redhatai_gpt_oss_120b",
+      "model_tiny_random_gpt_oss_bf16",
       "model_unsloth_gpt_oss_120b",
       "model_unsloth_gpt_oss_120b_bf16",
       "model_unsloth_gpt_oss_120b_gguf"
@@ -3087,7 +3090,8 @@
       "model_prism_ml_bonsai_8b_gguf"
     ],
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf": [
-      "hf_Qwen_Qwen3.8-27B"
+      "hf_Qwen_Qwen3.8-27B",
+      "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf"
     ],
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit": [
       "hf_Qwen_Qwen3.6-27B"
@@ -3414,6 +3418,9 @@
     ],
     "hf_zed-industries_zeta-2.1": [
       "model_leaderboardmodel1_zeta_2_1_autoround_w4a16"
+    ],
+    "hf_zenosai_MonkeyDocv2": [
+      "model_zenosai_monkeyocrv2_b_parsing"
     ],
     "hf_zerofata_Instruct-Anime": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -3827,6 +3834,9 @@
     "model_bartowski_qwen2_5_coder_14b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-14B-Instruct"
     ],
+    "model_bartowski_qwen2_5_coder_1_5b_instruct_gguf": [
+      "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct"
+    ],
     "model_bartowski_qwen2_5_coder_32b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-32B-Instruct"
     ],
@@ -3919,6 +3929,9 @@
     ],
     "model_boboliu_qwen3_reranker_4b_w4a16_g128": [
       "hf_Qwen_Qwen3-Reranker-4B"
+    ],
+    "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf": [
+      "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
     "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k": [
       "hf_Qwen_Qwen2.5-3B-Instruct",
@@ -6616,6 +6629,9 @@
     "model_sanctumai_meta_llama_3_1_8b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
+    "model_saricles_qwen3_coder_next_nvfp4_gb10": [
+      "hf_Qwen_Qwen3-Coder-Next"
+    ],
     "model_sbintuitions_sarashina2_2_0_5b_instruct_v0_1": [
       "hf_sbintuitions_sarashina2.2-0.5b"
     ],
@@ -6841,6 +6857,9 @@
     "model_tiiuae_falcon_mamba_7b": [
       "hf_HuggingFaceFW_fineweb-edu",
       "hf_tiiuae_falcon-refinedweb"
+    ],
+    "model_tiny_random_gpt_oss_bf16": [
+      "hf_openai_gpt-oss-120b"
     ],
     "model_tiny_random_qwen3_next_moe": [
       "hf_Qwen_Qwen3-Next-80B-A3B-Instruct"
@@ -7385,6 +7404,9 @@
     ],
     "model_zdy1995love_mistral_medium_3_5_128b_nvfp4": [
       "hf_mistralai_Mistral-Medium-3.5-128B"
+    ],
+    "model_zenosai_monkeyocrv2_b_parsing": [
+      "hf_zenosai_MonkeyDocv2"
     ],
     "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf": [
       "hf_JonathanColetti_Qwen3.8-27B-Uncensored"

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "af3f4ca895450216d4771cdbf3e3b95c5bacaa2a",
   "description": "\n\t\n\t\t\n\t\t💬 FineTranslations\n\t\n\n\n    \n\n\n\nThe world's knowledge in 1+1T tokens of parallel text\n\n\n\t\n\t\t\n\t\tWhat is it?\n\t\n\nThis dataset contains over 1 trillion tokens of parallel text in English and 500+ languages. It was obtained by translating data from 🥂 FineWeb2 into English using Gemma3 27B.\nWe relied on datatrove's inference runner to deploy a synthetic data pipeline at scale. Its checkpointing and VLLM lifecycle management features allowed us to use leftover compute from the HF cluster… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceFW/finetranslations.",
-  "downloads": 38869,
+  "downloads": 39783,
   "tags": [
     "task_categories:text-generation",
     "task_categories:translation",
