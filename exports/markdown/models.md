@@ -588,6 +588,10 @@
 - **ID**: model_bartowski_qwen2_5_coder_14b_instruct_gguf
 - **Source**: 
 
+## bartowski/Qwen2.5-Coder-1.5B-Instruct-GGUF
+- **ID**: model_bartowski_qwen2_5_coder_1_5b_instruct_gguf
+- **Source**: 
+
 ## bartowski/Qwen2.5-Coder-32B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_coder_32b_instruct_gguf
 - **Source**: 
@@ -638,6 +642,10 @@
 
 ## bartowski/TheDrummer_Cydonia-24B-v4.2.0-GGUF
 - **ID**: model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf
+- **Source**: 
+
+## bartowski/THUDM_GLM-4-32B-0414-GGUF
+- **ID**: model_bartowski_thudm_glm_4_32b_0414_gguf
 - **Source**: 
 
 ## baseten/Llama-3.2-3B-Instruct-pythonic
@@ -738,6 +746,10 @@
 
 ## boboliu/Qwen3-Reranker-4B-W4A16-G128
 - **ID**: model_boboliu_qwen3_reranker_4b_w4a16_g128
+- **Source**: 
+
+## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUF
+- **ID**: model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf
 - **Source**: 
 
 ## bosonai/higgs-audio-v3-tts-4b
@@ -2822,6 +2834,10 @@
 
 ## LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit
 - **ID**: model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit
+- **Source**: 
+
+## locuslab/tofu_ft_phi-1.5
+- **ID**: model_locuslab_tofu_ft_phi_1_5
 - **Source**: 
 
 ## logic65/Qwen3.8-Whittle-MoE-27B-A17.8B-GGUF
@@ -5448,6 +5464,10 @@
 - **ID**: model_sapientinc_hrm_text_1b
 - **Source**: 
 
+## saricles/Qwen3-Coder-Next-NVFP4-GB10
+- **ID**: model_saricles_qwen3_coder_next_nvfp4_gb10
+- **Source**: 
+
 ## sarvamai/sarvam-105b
 - **ID**: model_sarvamai_sarvam_105b
 - **Source**: 
@@ -5818,6 +5838,10 @@
 
 ## tiiuae/falcon-mamba-tiny-dev
 - **ID**: model_tiiuae_falcon_mamba_tiny_dev
+- **Source**: 
+
+## tiny-random/gpt-oss-bf16
+- **ID**: model_tiny_random_gpt_oss_bf16
 - **Source**: 
 
 ## tiny-random/qwen3-next-moe
@@ -6700,6 +6724,10 @@
 - **ID**: model_xiaomimimo_mimo_v2_flash
 - **Source**: 
 
+## XingChen-AGI/Xing4.0-29B-A4B
+- **ID**: model_xingchen_agi_xing4_0_29b_a4b
+- **Source**: 
+
 ## xlnet/xlnet-base-cased
 - **ID**: model_xlnet_xlnet_base_cased
 - **Source**: 
@@ -6850,6 +6878,10 @@
 
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 - **ID**: model_zdy1995love_mistral_medium_3_5_128b_nvfp4
+- **Source**: 
+
+## zenosai/MonkeyOCRv2-B-Parsing
+- **ID**: model_zenosai_monkeyocrv2_b_parsing
 - **Source**: 
 
 ## zerodigest/Qwen3.8-27B-Uncensored-YMQ-MTP-GGUF

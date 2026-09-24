@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T13:13:25.772692+00:00",
+  "generated_at": "2026-09-24T18:12:25.337953+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -123130,6 +123130,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_farama_minari_minigrid",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_farhanhubble_jfk_archives",
       "label": ""
     },
@@ -123425,6 +123430,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_genrobot2025_gen_humanego",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_geodrivebench_geodrive_bench",
       "label": ""
     },
@@ -123696,6 +123706,11 @@
     {
       "category": "datasets",
       "id": "dataset_harborframework_terminal_bench_science",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_harborframework_terminal_bench_science_lfs",
       "label": ""
     },
     {
@@ -126235,6 +126250,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_jinofy_corp_jora_corpus1",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_jinofy_corp_jora_corpus1_tokenized_128k",
       "label": ""
     },
@@ -127416,6 +127436,11 @@
     {
       "category": "datasets",
       "id": "dataset_mlfoundations_dcvlm_baseline_200b",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_mlfoundations_dcvlm_pool_large",
       "label": ""
     },
     {
@@ -130150,6 +130175,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_torq1_fire_fusion_wa_1000m",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_trandinhphuc2003_trandinhphuc2003",
       "label": ""
     },
@@ -130521,6 +130551,11 @@
     {
       "category": "datasets",
       "id": "dataset_wegrthj_l36l5h_v654_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_wei82_precancer_omics_data",
       "label": ""
     },
     {
@@ -143245,6 +143280,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_qwen2_5_coder_1_5b_instruct_gguf",
+      "label": "bartowski/Qwen2.5-Coder-1.5B-Instruct-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
       "label": "bartowski/Qwen2.5-Coder-32B-Instruct-GGUF"
     },
@@ -143307,6 +143347,11 @@
       "category": "models",
       "id": "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf",
       "label": "bartowski/TheDrummer_Cydonia-24B-v4.2.0-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_bartowski_thudm_glm_4_32b_0414_gguf",
+      "label": "bartowski/THUDM_GLM-4-32B-0414-GGUF"
     },
     {
       "category": "models",
@@ -143432,6 +143477,11 @@
       "category": "models",
       "id": "model_boboliu_qwen3_reranker_4b_w4a16_g128",
       "label": "boboliu/Qwen3-Reranker-4B-W4A16-G128"
+    },
+    {
+      "category": "models",
+      "id": "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf",
+      "label": "BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUF"
     },
     {
       "category": "models",
@@ -146037,6 +146087,11 @@
       "category": "models",
       "id": "model_lnl_ai_tinyllama_1_1b_chat_v1_0_gptq_4bit",
       "label": "LnL-AI/TinyLlama-1.1B-Chat-v1.0-GPTQ-4bit"
+    },
+    {
+      "category": "models",
+      "id": "model_locuslab_tofu_ft_phi_1_5",
+      "label": "locuslab/tofu_ft_phi-1.5"
     },
     {
       "category": "models",
@@ -149320,6 +149375,11 @@
     },
     {
       "category": "models",
+      "id": "model_saricles_qwen3_coder_next_nvfp4_gb10",
+      "label": "saricles/Qwen3-Coder-Next-NVFP4-GB10"
+    },
+    {
+      "category": "models",
       "id": "model_sarvamai_sarvam_105b",
       "label": "sarvamai/sarvam-105b"
     },
@@ -149782,6 +149842,11 @@
       "category": "models",
       "id": "model_tiiuae_falcon_mamba_tiny_dev",
       "label": "tiiuae/falcon-mamba-tiny-dev"
+    },
+    {
+      "category": "models",
+      "id": "model_tiny_random_gpt_oss_bf16",
+      "label": "tiny-random/gpt-oss-bf16"
     },
     {
       "category": "models",
@@ -150885,6 +150950,11 @@
     },
     {
       "category": "models",
+      "id": "model_xingchen_agi_xing4_0_29b_a4b",
+      "label": "XingChen-AGI/Xing4.0-29B-A4B"
+    },
+    {
+      "category": "models",
       "id": "model_xlnet_xlnet_base_cased",
       "label": "xlnet/xlnet-base-cased"
     },
@@ -151072,6 +151142,11 @@
       "category": "models",
       "id": "model_zdy1995love_mistral_medium_3_5_128b_nvfp4",
       "label": "zdy1995love/Mistral-Medium-3.5-128B-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_zenosai_monkeyocrv2_b_parsing",
+      "label": "zenosai/MonkeyOCRv2-B-Parsing"
     },
     {
       "category": "models",
@@ -448495,5 +448570,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 89698
+  "total_nodes": 89713
 }
