@@ -868,11 +868,11 @@
 - **URL**: [https://huggingface.co/datasets/PresentBench/PresentBench](https://huggingface.co/datasets/PresentBench/PresentBench)
 - **Tags**: arxiv:2603.07244, format:json, language:en, language:zh, library:datasets, library:mlcroissant, library:pandas, library:polars, license:other, modality:document, modality:tabular, modality:text, region:us, size_categories:n<1K, task_categories:any-to-any, task_categories:text-generation
 
-## ksolovev/FineNews
+## ksolovev/fine-news
 - **ID**: hf_ds_69be6056f46b7dff732d8c53
 - **Source**: HuggingFace Datasets
-- **URL**: [https://huggingface.co/datasets/ksolovev/FineNews](https://huggingface.co/datasets/ksolovev/FineNews)
-- **Tags**: region:us
+- **URL**: [https://huggingface.co/datasets/ksolovev/fine-news](https://huggingface.co/datasets/ksolovev/fine-news)
+- **Tags**: cc-news, common-crawl, journalism, media, multilingual, news, region:us, size_categories:100M<n<1B, task_categories:text-generation
 
 ## tars-robotics/WIYH
 - **ID**: hf_ds_69c3db34480308a6a3cabb37

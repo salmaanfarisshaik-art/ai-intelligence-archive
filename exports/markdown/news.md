@@ -5011,6 +5011,11 @@
 - **URL**: [https://openai.com/index/priorities-principles-third-party-assessments](https://openai.com/index/priorities-principles-third-party-assessments)
 
 ## 
+- **ID**: rss_https://openai.com/index/proaction
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/proaction](https://openai.com/index/proaction)
+
+## 
 - **ID**: rss_https://openai.com/index/procgen-benchmark
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/procgen-benchmark](https://openai.com/index/procgen-benchmark)

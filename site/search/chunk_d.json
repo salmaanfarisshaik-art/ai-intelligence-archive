@@ -6801,6 +6801,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 1.5
@@ -6902,6 +6907,11 @@
     },
     {
       "entity_id": "dataset_ssuresh_fortran_code_repos",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -22158,6 +22168,11 @@
       "score": 3.2
     },
     {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
+      "match_type": "exact",
+      "score": 3.2
+    },
+    {
       "entity_id": "hf_ds_69c3db34480308a6a3cabb37",
       "match_type": "exact",
       "score": 3.2
@@ -22489,11 +22504,6 @@
     },
     {
       "entity_id": "dataset_databricks_databricks_dolly_15k",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "dataset_disco_eth_worldspeech",
       "match_type": "exact",
       "score": 3.0
     },
@@ -24443,6 +24453,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_disco_eth_worldspeech",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_dwk_partners_trading_data",
       "match_type": "exact",
       "score": 2.0
@@ -24764,6 +24779,11 @@
     },
     {
       "entity_id": "dataset_k9cli_video_vec2wav2_tokenizer",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_ksolovev_fine_news",
       "match_type": "exact",
       "score": 2.0
     },
@@ -26014,11 +26034,6 @@
     },
     {
       "entity_id": "hf_ds_69b6276dd5de8ef6a41f39e6",
-      "match_type": "exact",
-      "score": 1.2
-    },
-    {
-      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.2
     },
@@ -34577,6 +34592,11 @@
       "score": 2.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 2.5
@@ -38182,6 +38202,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_stringfellow_fusion_dw",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_subhan1501_fake_face_detection_dataset",
       "match_type": "exact",
       "score": 1.5
@@ -39767,6 +39792,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kucklily_q_eval_100k",
       "match_type": "exact",
       "score": 1.0
@@ -40318,11 +40348,6 @@
     },
     {
       "entity_id": "dataset_rl_llm_wiki_knowledge_base",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 1.0
     },
@@ -41048,6 +41073,11 @@
     },
     {
       "entity_id": "hf_ds_69bd10117ce15b06bbea0357",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     },
@@ -60995,6 +61025,18 @@
     },
     {
       "entity_id": "hf_ds_69920596d401600ba4b9a839",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "deduplicates": [
+    {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     }
@@ -96355,6 +96397,11 @@
     },
     {
       "entity_id": "dataset_krithik274_noaa_pifsc_esd_coral_bleaching_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ksolovev_fine_news",
       "match_type": "exact",
       "score": 1.0
     },
@@ -168452,13 +168499,6 @@
     },
     {
       "entity_id": "alpaca_-5077828410417247641",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
-  "dnsmos": [
-    {
-      "entity_id": "dataset_disco_eth_worldspeech",
       "match_type": "exact",
       "score": 1.0
     }

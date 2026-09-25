@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T11:10:56.803978+00:00",
+  "generated_at": "2026-09-25T16:34:33.320349+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -121425,6 +121425,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_ai_mo_aops",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ai_mo_numinamath_1_5",
       "label": ""
     },
@@ -122735,6 +122740,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_coderofcode_ship_tracking_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_cogcomp_trec",
       "label": ""
     },
@@ -123000,6 +123010,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_deusmos_cbb26_timeseries_db",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_devon018_franka_datasets_v2",
       "label": ""
     },
@@ -123201,6 +123216,11 @@
     {
       "category": "datasets",
       "id": "dataset_ehrdt_atomode_db",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_eidon_ai_tracker_pov",
       "label": ""
     },
     {
@@ -123731,6 +123751,11 @@
     {
       "category": "datasets",
       "id": "dataset_gildasledrogoff_spotify_huge_track_analysis_dataset",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_gililior_mmlu_prox_eval_predictions",
       "label": ""
     },
     {
@@ -126131,6 +126156,11 @@
     {
       "category": "datasets",
       "id": "dataset_inaesh_joshi_mosaic_refactoring_copy",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_inception3d_genfusion_training_data",
       "label": ""
     },
     {
@@ -128600,6 +128630,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_openbmb_ultradata_code",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_openbmb_ultradata_math",
       "label": ""
     },
@@ -128866,6 +128901,11 @@
     {
       "category": "datasets",
       "id": "dataset_phuckhang384234_phuckhang384234",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_phuongvo58058_phuongvo58058",
       "label": ""
     },
     {
@@ -129356,6 +129396,11 @@
     {
       "category": "datasets",
       "id": "dataset_rl_research_dsqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_robbyant_research_humangen",
       "label": ""
     },
     {
@@ -130135,6 +130180,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_synetune_bbo_pile_raw",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_sysuyy_imgedit",
       "label": ""
     },
@@ -130291,6 +130341,11 @@
     {
       "category": "datasets",
       "id": "dataset_textmachinelab_quail",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_thaopham64499_thaopham64499",
       "label": ""
     },
     {
@@ -130621,6 +130676,11 @@
     {
       "category": "datasets",
       "id": "dataset_uwipl_rt_pose",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_v_bible_catholic_resources",
       "label": ""
     },
     {
@@ -135031,7 +135091,7 @@
     {
       "category": "dataset",
       "id": "hf_ds_69be6056f46b7dff732d8c53",
-      "label": "ksolovev/FineNews"
+      "label": "ksolovev/fine-news"
     },
     {
       "category": "dataset",
@@ -143185,6 +143245,11 @@
     },
     {
       "category": "models",
+      "id": "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0",
+      "label": "arianraje/qwen3-4b-mamba3-hybrid-stage2b-kd-bias0"
+    },
+    {
+      "category": "models",
       "id": "model_arnir0_tiny_llm",
       "label": "arnir0/Tiny-LLM"
     },
@@ -144102,6 +144167,11 @@
       "category": "models",
       "id": "model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf",
       "label": "DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf"
+    },
+    {
+      "category": "models",
+      "id": "model_davidau_qwen3_8b_64k_context_2x_josiefied_uncensored",
+      "label": "DavidAU/Qwen3-8B-64k-Context-2X-Josiefied-Uncensored"
     },
     {
       "category": "models",
@@ -145272,6 +145342,11 @@
       "category": "models",
       "id": "model_ibm_granite_granite_3_1_8b_instruct",
       "label": "ibm-granite/granite-3.1-8b-instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_ibm_granite_granite_3_2_8b_instruct",
+      "label": "ibm-granite/granite-3.2-8b-instruct"
     },
     {
       "category": "models",
@@ -148177,6 +148252,11 @@
       "category": "models",
       "id": "model_ornith_ai_ornith_1_5_9b_nvfp4",
       "label": "ornith-ai/Ornith-1.5-9B-NVFP4"
+    },
+    {
+      "category": "models",
+      "id": "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf",
+      "label": "OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF"
     },
     {
       "category": "models",
@@ -151197,6 +151277,11 @@
       "category": "models",
       "id": "model_xiaomimimo_mimo_v2_5_pro_fp4_dflash",
       "label": "XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash"
+    },
+    {
+      "category": "models",
+      "id": "model_xiaomimimo_mimo_v2_6_pro_rl",
+      "label": "XiaomiMiMo/MiMo-V2.6-Pro-RL"
     },
     {
       "category": "models",
@@ -292446,6 +292531,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/priorities-principles-third-party-assessments",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/proaction",
       "label": ""
     },
     {
@@ -448825,5 +448915,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 89764
+  "total_nodes": 89782
 }

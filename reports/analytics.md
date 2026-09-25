@@ -1,15 +1,15 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89764
+**Total Entities Tracked**: 89782
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2011
-- **models**: 1726
-- **news**: 1255
+- **datasets**: 2023
+- **models**: 1731
+- **news**: 1256
 - **dataset**: 1185
 - **text-generation**: 1011
 - **cs.CV**: 975
@@ -96,10 +96,10 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30915
+- ****: 30932
 - **ArXiv**: 3238
 - **Hugging Face**: 2018
-- **OpenAI Blog**: 1241
+- **OpenAI Blog**: 1242
 - **HuggingFace Datasets**: 185
 - **GitHub Trending**: 53
 - **BAIR Blog**: 14
@@ -159,7 +159,7 @@
 - **library:pandas**: 32
 - **library:dask**: 29
 - **en**: 28
-- **task_categories:text-generation**: 26
+- **task_categories:text-generation**: 27
 - **enterprise**: 25
 - **eval-results**: 25
 - **size_categories:n<1K**: 25
@@ -182,10 +182,10 @@
 - **fp8**: 11
 - **gguf**: 11
 - **pytorch**: 11
+- **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
 - **custom_code**: 10
 - **language:zh**: 10
-- **size_categories:100M<n<1B**: 10
 - **size_categories:1M<n<10M**: 10
 - **size_categories:n>1T**: 10
 - **modality:audio**: 9

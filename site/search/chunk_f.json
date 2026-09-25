@@ -18782,6 +18782,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/proaction",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/steuerrecht",
       "match_type": "exact",
       "score": 1.0
@@ -40798,6 +40803,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_lerobot_droid_1_0_1",
       "match_type": "exact",
       "score": 2.0
@@ -40894,6 +40904,11 @@
     },
     {
       "entity_id": "hf_ds_698aee8a9b778894943e6c5d",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 2.0
     },
@@ -44806,6 +44821,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
       "match_type": "exact",
       "score": 1.0
@@ -44827,6 +44847,11 @@
     },
     {
       "entity_id": "hf_ds_64a63fbb85638d0e698f055f",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     }
@@ -56550,6 +56575,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "hf_ds_ma-xu_fine-t2i",
       "match_type": "exact",
       "score": 3.0
@@ -57070,6 +57100,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_locuslab_tofu",
       "match_type": "exact",
       "score": 1.0
@@ -57360,14 +57395,19 @@
   ],
   "finenews": [
     {
-      "entity_id": "hf_ds_ksolovev_FineNews",
+      "entity_id": "dataset_ksolovev_fine_news",
       "match_type": "exact",
       "score": 3.0
     },
     {
       "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
-      "score": 2.0
+      "score": 3.0
+    },
+    {
+      "entity_id": "hf_ds_ksolovev_FineNews",
+      "match_type": "exact",
+      "score": 3.0
     }
   ],
   "finepdfs": [
@@ -73504,6 +73544,11 @@
       "entity_id": "dataset_colaoverdrive_commacarsegments",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/proaction",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "fleetai": [
@@ -83176,6 +83221,16 @@
     },
     {
       "entity_id": "dataset_coherelabs_aya_collection",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 2.0
     },
@@ -151755,6 +151810,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kucklily_q_eval_100k",
       "match_type": "exact",
       "score": 1.0
@@ -153101,6 +153161,11 @@
     },
     {
       "entity_id": "hf_ds_69b0d60653fc22f5d5d3c07f",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     },
@@ -166168,6 +166233,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 1.5
@@ -166429,6 +166499,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -176483,11 +176558,6 @@
     },
     {
       "entity_id": "dataset_cogcomp_trec",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_disco_eth_worldspeech",
       "match_type": "exact",
       "score": 1.0
     },
@@ -199361,6 +199431,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_kyutai_rocket_science",
       "match_type": "exact",
       "score": 2.0
@@ -199722,6 +199797,11 @@
     },
     {
       "entity_id": "hf_ds_67b9d203047d98a072b4e68c",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 2.0
     },
@@ -219360,6 +219440,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kucklily_q_eval_100k",
       "match_type": "exact",
       "score": 1.0
@@ -222261,6 +222346,11 @@
     },
     {
       "entity_id": "hf_ds_69bd10117ce15b06bbea0357",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     },

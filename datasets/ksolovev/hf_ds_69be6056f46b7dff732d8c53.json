@@ -1,34 +1,45 @@
 {
   "unique_id": "hf_ds_69be6056f46b7dff732d8c53",
   "schema_version": "1.0",
-  "name": "ksolovev/FineNews",
-  "description": "No description available",
+  "name": "ksolovev/fine-news",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineNews\n\t\n\nFineNews is a multilingual news-text dataset for language-model research. It filters and deduplicates a 2021–2025 snapshot of the INFINI-NEWS Corpus, which extracts articles from Common Crawl CC-News.\n\n\t\n\t\t\n\t\n\t\n\t\tAt a glance\n\t\n\n\n\t\n\t\t\nMeasure\nFineNews\n\n\n\t\t\nInput articles\n852,824,802 Infini-News rows from 2021–2025\n\n\nOutput\n392,627,654 physical rows\n\n\nFiles\n294,509 Parquet files\n\n\nFolders\n60 publication months (2021-01 to 2025-12), then language\n\n\nLanguage folders\n129… See the full description on the dataset page: https://huggingface.co/datasets/ksolovev/fine-news.",
   "size": "581470",
-  "source_url": "https://huggingface.co/datasets/ksolovev/FineNews",
+  "source_url": "https://huggingface.co/datasets/ksolovev/fine-news",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
   "category": "dataset",
   "raw_payload": {
     "_id": "69be6056f46b7dff732d8c53",
-    "id": "ksolovev/FineNews",
+    "id": "ksolovev/fine-news",
     "author": "ksolovev",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-03-23T23:30:10.000Z",
+    "lastModified": "2026-09-25T13:57:51.000Z",
     "likes": 30,
     "private": false,
-    "sha": "41f8a91dc8c493d0773bc0ebc5158886f5964924",
+    "sha": "6c9977c487349aa666e757b30717274b92c11905",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineNews\n\t\n\nFineNews is a multilingual news-text dataset for language-model research. It filters and deduplicates a 2021–2025 snapshot of the INFINI-NEWS Corpus, which extracts articles from Common Crawl CC-News.\n\n\t\n\t\t\n\t\n\t\n\t\tAt a glance\n\t\n\n\n\t\n\t\t\nMeasure\nFineNews\n\n\n\t\t\nInput articles\n852,824,802 Infini-News rows from 2021–2025\n\n\nOutput\n392,627,654 physical rows\n\n\nFiles\n294,509 Parquet files\n\n\nFolders\n60 publication months (2021-01 to 2025-12), then language\n\n\nLanguage folders\n129… See the full description on the dataset page: https://huggingface.co/datasets/ksolovev/fine-news.",
     "downloads": 581470,
     "tags": [
-      "region:us"
+      "task_categories:text-generation",
+      "size_categories:100M<n<1B",
+      "region:us",
+      "news",
+      "journalism",
+      "media",
+      "common-crawl",
+      "cc-news",
+      "multilingual"
     ],
     "createdAt": "2026-03-21T09:09:42.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-09-25T11:10:46.836185+00:00",
-  "last_updated": "2026-03-23T23:30:10.000Z",
+  "retrieval_timestamp": "2026-09-25T16:34:23.214234+00:00",
+  "last_updated": "2026-09-25T13:57:51.000Z",
   "links": {
-    "related_models": [],
+    "related_models": [
+      "datasets/ksolovev"
+    ],
     "related_papers": [],
     "related_datasets": [],
     "related_tools": []

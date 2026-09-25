@@ -4637,19 +4637,29 @@
   },
   {
     "id": "hf_ds_69be6056f46b7dff732d8c53",
-    "title": "ksolovev/FineNews",
+    "title": "ksolovev/fine-news",
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "cc-news",
+      "common-crawl",
+      "journalism",
+      "media",
+      "multilingual",
+      "news",
+      "region:us",
+      "size_categories:100M<n<1B",
+      "task_categories:text-generation"
     ],
     "links": {
-      "related_models": [],
+      "related_models": [
+        "datasets/ksolovev"
+      ],
       "related_papers": [],
       "related_datasets": [],
       "related_tools": []
     },
-    "source_url": "https://huggingface.co/datasets/ksolovev/FineNews",
+    "source_url": "https://huggingface.co/datasets/ksolovev/fine-news",
     "local_path": "datasets/ksolovev/hf_ds_69be6056f46b7dff732d8c53.json"
   },
   {

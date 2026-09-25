@@ -308,6 +308,10 @@
 - **ID**: model_arcee_ai_afm_4_5b_base
 - **Source**: 
 
+## arianraje/qwen3-4b-mamba3-hybrid-stage2b-kd-bias0
+- **ID**: model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0
+- **Source**: 
+
 ## arnir0/Tiny-LLM
 - **ID**: model_arnir0_tiny_llm
 - **Source**: 
@@ -1042,6 +1046,10 @@
 
 ## DavidAU/OpenAi-GPT-oss-20b-abliterated-uncensored-NEO-Imatrix-gguf
 - **ID**: model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf
+- **Source**: 
+
+## DavidAU/Qwen3-8B-64k-Context-2X-Josiefied-Uncensored
+- **ID**: model_davidau_qwen3_8b_64k_context_2x_josiefied_uncensored
 - **Source**: 
 
 ## dcostenco/smollm2-360m-aac-watch
@@ -1978,6 +1986,10 @@
 
 ## ibm-granite/granite-3.1-8b-instruct
 - **ID**: model_ibm_granite_granite_3_1_8b_instruct
+- **Source**: 
+
+## ibm-granite/granite-3.2-8b-instruct
+- **ID**: model_ibm_granite_granite_3_2_8b_instruct
 - **Source**: 
 
 ## ibm-granite/granite-3.3-2b-instruct
@@ -4302,6 +4314,10 @@
 
 ## ornith-ai/Ornith-1.5-9B-NVFP4
 - **ID**: model_ornith_ai_ornith_1_5_9b_nvfp4
+- **Source**: 
+
+## OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-GGUF
+- **ID**: model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf
 - **Source**: 
 
 ## OuteAI/Lite-Oute-1-300M
@@ -6718,6 +6734,10 @@
 
 ## XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash
 - **ID**: model_xiaomimimo_mimo_v2_5_pro_fp4_dflash
+- **Source**: 
+
+## XiaomiMiMo/MiMo-V2.6-Pro-RL
+- **ID**: model_xiaomimimo_mimo_v2_6_pro_rl
 - **Source**: 
 
 ## XiaomiMiMo/MiMo-V2-Flash
