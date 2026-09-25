@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:50:54Z",
+  "generated_at": "2026-09-25T11:12:01Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -749,6 +749,11 @@
     {
       "source_id": "model_applied_innovation_center_karnak_40b_v1_0",
       "target_id": "hf_Qwen_Qwen3-30B-A3B-Instruct-2507",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0",
+      "target_id": "hf_Qwen_Qwen3-4B",
       "type": "derived_from"
     },
     {
@@ -1797,6 +1802,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_davidau_qwen3_8b_64k_context_2x_josiefied_uncensored",
+      "target_id": "hf_Goekdeniz-Guelmez_Josiefied-Qwen3-8B-abliterated-v1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_dcostenco_smollm2_360m_aac_watch",
       "target_id": "hf_HuggingFaceTB_SmolLM2-360M-Instruct",
       "type": "derived_from"
@@ -2624,6 +2634,11 @@
     {
       "source_id": "model_ibm_granite_granite_3_1_8b_instruct",
       "target_id": "hf_ibm-granite_granite-3.1-8b-base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ibm_granite_granite_3_2_8b_instruct",
+      "target_id": "hf_ibm-granite_granite-3.1-8b-instruct",
       "type": "derived_from"
     },
     {
@@ -6105,6 +6120,11 @@
       "source_id": "model_orion_zhen_qwen2_5_coder_7b_instruct_awq",
       "target_id": "hf_alvarobartt_openhermes-preferences-coding",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf",
+      "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+      "type": "derived_from"
     },
     {
       "source_id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",

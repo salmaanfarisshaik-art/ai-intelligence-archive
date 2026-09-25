@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d30650d5cbe5170cc73fe8ad9e07e2f460aedc45",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tbite-baseline — artifacts for extreme (ternary) quantization of Qwen3.6-35B-A3B\n\t\n\nCompanion dataset for ihavespoons/bite — an open\npipeline for compressing a Mixture-of-Experts LLM (Qwen/Qwen3.6-35B-A3B, 35B total / ~3B\nactive, 256 experts) toward ternary {-1,0,+1} weights (1.71 bpw) via PTQ init +\nquantization-aware distillation. See the repo's docs/report-extreme-quant-moe.md for the\nfull technical report.\n\n\t\n\t\t\n\t\n\t\n\t\tContents\n\t\n\n\n\t\n\t\t\nPath\nWhat it is\n\n\n\t\t\nbaseline.json… See the full description on the dataset page: https://huggingface.co/datasets/ihavespoons/bite-baseline.",
-  "downloads": 36464,
+  "downloads": 36009,
   "tags": [
     "license:apache-2.0",
     "region:us",

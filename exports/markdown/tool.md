@@ -230,6 +230,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 
+## crawl4ai
+- **ID**: gh_798201435
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/unclecode/crawl4ai](https://github.com/unclecode/crawl4ai)
+
 ## docling
 - **ID**: gh_826168160
 - **Source**: GitHub Trending

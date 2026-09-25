@@ -2177,6 +2177,11 @@
       "entity_id": "arxiv_2606.14684v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "kdc": [
@@ -7095,6 +7100,11 @@
     },
     {
       "entity_id": "dataset_zai_org_longbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "gh_798201435",
       "match_type": "exact",
       "score": 1.0
     },
@@ -19367,6 +19377,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_gililior_mmlu_prox_eval_predictions",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_google_svq",
       "match_type": "exact",
       "score": 1.5
@@ -21462,6 +21477,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "ktcgkpv": [
+    {
+      "entity_id": "dataset_v_bible_catholic_resources",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "kth": [
