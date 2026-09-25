@@ -1,53 +1,40 @@
 # Change Summary
 
-**Total Changes:** 89
+**Total Changes:** 77
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/genrobot2025/hf_ds_6954cdff0a36f347a9b323fd.json
+- datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
 - datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
-- exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/markdown/datasets.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/google/hf_google_gemma-3-1b-it.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
-- models/openai/hf_openai_gpt-oss-120b.json
-- models/openai/hf_openai_gpt-oss-20b.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen-72B.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
 - models/qwen/hf_Qwen_Qwen3-8B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- prompts/openai-blog/rss_https___openai.com_index_asana.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -77,8 +64,8 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
@@ -93,6 +80,7 @@ None
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
+- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
