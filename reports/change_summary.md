@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 107
+**Total Changes:** 89
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_proaction.json
+None
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,42 +16,27 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- datasets/aps/hf_ds_621ffdd236468d709f181fa6.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/ksolovev/hf_ds_69be6056f46b7dff732d8c53.json
-- datasets/nvidia/hf_ds_67d97c4be2b27852325fd8e2.json
-- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
+- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
-- exports/csv/dataset.csv
 - exports/csv/datasets.csv
-- exports/csv/models.csv
-- exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/dataset.json
 - exports/json/datasets.json
-- exports/json/models.json
-- exports/json/news.json
-- exports/markdown/dataset.md
 - exports/markdown/datasets.md
-- exports/markdown/models.md
-- exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
-- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
 - models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen-72B.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -92,7 +77,6 @@
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
-- tools/github-trending/gh_635240594.json
 - tools/github-trending/gh_643445235.json
 - tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
@@ -109,7 +93,6 @@
 - tools/github-trending/gh_826168160.json
 - tools/github-trending/gh_872119017.json
 - tools/github-trending/gh_968197216.json
-- tools/github-trending/gh_974186260.json
 - tools/github-trending/gh_976921297.json
 - tools/github-trending/gh_979115477.json
 
