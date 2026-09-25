@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30192v1",
+  "schema_version": "1.0",
+  "name": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30192v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30192v1",
+    "updated": "2026-09-24T17:33:29Z",
+    "published": "2026-09-24T17:33:29Z",
+    "title": "SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance",
+    "summary": "Long-horizon reasoning remains a central challenge for large language models (LLMs) under sparse-reward regimes. We argue that this brittleness arises from two biases induced by complex reasoning spaces: an exploration bias, where models are drawn toward locally plausible but structurally unstable branches, and a compounding bias, where small local deviations accumulate across depth and suppress rare rewards. We introduce Symbolic Closure Analysis (SCA) as a theoretical lens characterizing how branching structures and sparse rewards induce these biases in long-horizon reasoning with local admissibility, and as a design principle for structural priors in less formal reasoning tasks. Motivated by this analysis, we propose SAGE (Structural Admissibility-Guided Exploration), a unified framework that injects structural guidance to alleviate exploration bias and compounding bias in long-horizon reasoning. SAGE combines two complementary structural guidance: algebraic sparsification, which projects locally admissible candidates onto operator-indexed algebraic subspaces to suppress spurious branching and mitigate exploration bias, and hyperbolic structural guidance, which embeds reasoning states into a negatively curved space to provide dense depth-wise signals and mitigate compounding bias. Across 12 benchmarks and 7 model families, SAGE outperforms competitive baselines. In particular, SAGE achieves up to an 8-fold improvement on the Andrews-Curtis problem, an open real-world long-horizon task. Code is available at: https://github.com/Susan571/SAGE-NeurIPS2026.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:33:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30192v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

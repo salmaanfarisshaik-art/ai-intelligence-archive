@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.14770v2",
+  "schema_version": "1.0",
+  "name": "How broad is that claim? Mapping Generalisation in NLP Research",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.14770v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.14770v2",
+    "updated": "2026-09-24T17:11:11Z",
+    "published": "2026-09-13T20:06:36Z",
+    "title": "How broad is that claim? Mapping Generalisation in NLP Research",
+    "summary": "Generalisations are common in scientific communication, even though they are semantically ambiguous. An automated method is needed to identify and categorise claims according to their level of generalisation, in order help detect an over-reliance on generalisations and possible misrepresentations of scientific findings. We introduce a comprehensive taxonomy of generalisations in the scientific domain, NLPGenX, which labels claims according to their level of generality and framing within the text. We operationalise this taxonomy with an LLM-powered framework, NLPGenA, that automatically classifies sentences from scientific articles into 5 different generalisation classes. We validate our framework with human annotators and use the framework to construct a large-scale dataset of NLP papers annotated according to generality, with auxiliary labels for hedging and vague descriptors (NLPGens). We use NLPGens to analyse the use of generalisations in NLP papers across multiple venues and subdomains, and to examine associations with citation counts, hedging, and vague descriptors.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:11:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.14770v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -705,6 +705,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.18198v1](http://arxiv.org/abs/2607.18198v1)
 
+## SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions
+- **ID**: arxiv_2607.18290v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18290v4](http://arxiv.org/abs/2607.18290v4)
+
 ## Reliability Scales Inversely: Hallucinations Snowball Faster in Bigger Language Models
 - **ID**: arxiv_2607.18292v3
 - **Source**: ArXiv
@@ -1310,6 +1315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29640v1](http://arxiv.org/abs/2608.29640v1)
 
+## Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement
+- **ID**: arxiv_2608.31046v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.31046v2](http://arxiv.org/abs/2608.31046v2)
+
 ## A Model with No Head and Many Thoughts
 - **ID**: arxiv_2608.31069v1
 - **Source**: ArXiv
@@ -1684,4 +1694,19 @@
 - **ID**: arxiv_2609.28442v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28442v1](http://arxiv.org/abs/2609.28442v1)
+
+## Minimally Invasive Steering of Language Models
+- **ID**: arxiv_2609.30218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30218v1](http://arxiv.org/abs/2609.30218v1)
+
+## PoEM: Predicting RL Outcomes from Existing Policies
+- **ID**: arxiv_2609.30226v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30226v1](http://arxiv.org/abs/2609.30226v1)
+
+## To Trust or Not to Trust: Retrieval-Augmented Fact Checking in Speech
+- **ID**: arxiv_2609.30227v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30227v1](http://arxiv.org/abs/2609.30227v1)
 

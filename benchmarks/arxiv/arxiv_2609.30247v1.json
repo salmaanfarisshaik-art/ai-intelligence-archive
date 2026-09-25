@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30247v1",
+  "schema_version": "1.0",
+  "name": "Rolling-WAM: World Action Models with Rolling Imagination",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30247v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30247v1",
+    "updated": "2026-09-24T17:58:03Z",
+    "published": "2026-09-24T17:58:03Z",
+    "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+    "summary": "World Action Models (WAMs) couple action generation with future visual prediction for robotic manipulation. However, completing the joint video-action denoising process at each replanning cycle incurs substantial latency, delaying action updates and limiting closed-loop responsiveness. We present Rolling-WAM, a formulation that distributes joint denoising across successive replanning cycles. Our method maintains a sliding window of video-action chunks at staggered noise levels. At each step, a rolling noise schedule fully denoises the imminent action chunk for execution, while partially refining farther-future chunks. As the window advances with new camera observations, the retained future chunks continue their denoising process. This distributes the computational cost over time while carrying an evolving visual-action context across chunk boundaries. Evaluations on LIBERO, RoboTwin, and a real-world Unitree G1 humanoid show that Rolling-WAM achieves competitive manipulation performance. By removing the need to denoise the entire prediction horizon from scratch, it delivers a 4.5x steady-state replanning speedup over standard joint WAMs.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:58:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30247v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

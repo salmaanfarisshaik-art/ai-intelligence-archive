@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18290v4",
+  "schema_version": "1.0",
+  "name": "SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18290v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18290v4",
+    "updated": "2026-09-24T17:59:04Z",
+    "published": "2026-06-30T15:31:59Z",
+    "title": "SechKAN: Kolmogorov-Arnold Networks with Hyperbolic Secant Functions",
+    "summary": "In recent years KolmogorovArnold Networks KANs have attracted increasing attention due to their effectiveness in machine learning and scientific computing offering a new paradigm for neural network design In this paper we present SechKAN a novel KAN based on hyperbolic secant sech functions The hyperbolic secant basis is adopted for its smooth bellshaped form localized responses and wellbehaved gradients We employ a 1D linear projection to reduce the number of parameters allowing SechKAN to maintain a model size comparable to that of multilayer perceptrons MLPs Experimental results show the effectiveness of SechKAN on function fitting PDE surrogate modeling and image classification benchmarks including MNIST FashionMNIST CIFAR10 and CIFAR100 On function fitting SechKAN achieves performance comparable to both MLPs and representative KAN variants On PDE surrogate modeling it outperforms MLPs and achieves competitive or better performance than representative KAN variants On image classification benchmarks SechKAN achieves the best performance among the evaluated KAN variants while remaining competitive with MLPs using a comparable number of parameters However SechKAN still incurs higher computational cost than MLPs and some KAN variants Our source code is publicly available at https://github.com/hoangthangta/All-KAN.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:59:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18290v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

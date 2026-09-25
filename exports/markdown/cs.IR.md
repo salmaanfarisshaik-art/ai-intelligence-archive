@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23336v3](http://arxiv.org/abs/2604.23336v3)
 
+## DeGRe: Dense-supervised Generative Reranking for Recommendation
+- **ID**: arxiv_2605.25749v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.25749v2](http://arxiv.org/abs/2605.25749v2)
+
 ## Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation
 - **ID**: arxiv_2606.01670v2
 - **Source**: ArXiv

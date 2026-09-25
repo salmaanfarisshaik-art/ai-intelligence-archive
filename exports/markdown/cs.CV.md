@@ -530,6 +530,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14098v2](http://arxiv.org/abs/2602.14098v2)
 
+## Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers
+- **ID**: arxiv_2602.15783v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.15783v2](http://arxiv.org/abs/2602.15783v2)
+
 ## VideoSketcher: Sequential Sketch Generation Using Video Model Priors
 - **ID**: arxiv_2602.15819v2
 - **Source**: ArXiv
@@ -614,6 +619,11 @@
 - **ID**: arxiv_2603.21809v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.21809v2](http://arxiv.org/abs/2603.21809v2)
+
+## One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation
+- **ID**: arxiv_2603.23488v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.23488v3](http://arxiv.org/abs/2603.23488v3)
 
 ## Fast Preemptive Robustification: High-Frequency Response Anti-Aligns Shared Vulnerability
 - **ID**: arxiv_2603.25244v2
@@ -804,6 +814,11 @@
 - **ID**: arxiv_2605.23656v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.23656v2](http://arxiv.org/abs/2605.23656v2)
+
+## A Multimodal 3D Foundation Model for Light Sheet Fluorescence Microscopy Enables Few-Shot Segmentation, Classification, and Deblurring
+- **ID**: arxiv_2605.26026v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26026v2](http://arxiv.org/abs/2605.26026v2)
 
 ## SalsaAgent: A multimodal embodied language model for interactive dance generation
 - **ID**: arxiv_2605.29219v3
@@ -2404,6 +2419,11 @@
 - **ID**: arxiv_2608.04010v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.04010v1](http://arxiv.org/abs/2608.04010v1)
+
+## Q-CueGraph: Query-Conditioned Visual Evidence Graphs for Multimodal Reasoning
+- **ID**: arxiv_2608.04452v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.04452v2](http://arxiv.org/abs/2608.04452v2)
 
 ## Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes
 - **ID**: arxiv_2608.05000v2
@@ -4505,6 +4525,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20819v1](http://arxiv.org/abs/2609.20819v1)
 
+## TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision
+- **ID**: arxiv_2609.20869v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20869v2](http://arxiv.org/abs/2609.20869v2)
+
 ## Benchmarking the Explanatory Quality of Open-Weight Vision-Language Models in Face Recognition
 - **ID**: arxiv_2609.21879v1
 - **Source**: ArXiv
@@ -4809,4 +4834,44 @@
 - **ID**: arxiv_2609.28473v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28473v1](http://arxiv.org/abs/2609.28473v1)
+
+## Multimodal Thinking with Renderable Programs
+- **ID**: arxiv_2609.30130v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30130v1](http://arxiv.org/abs/2609.30130v1)
+
+## Ego-Exo4D Human Meshes Dataset: 4D Human Motion Reconstruction for Ego-Exo Captures
+- **ID**: arxiv_2609.30187v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30187v1](http://arxiv.org/abs/2609.30187v1)
+
+## The Alignment Illusion in Multimodal Large Language Models
+- **ID**: arxiv_2609.30210v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30210v1](http://arxiv.org/abs/2609.30210v1)
+
+## WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation
+- **ID**: arxiv_2609.30221v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30221v1](http://arxiv.org/abs/2609.30221v1)
+
+## TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
+- **ID**: arxiv_2609.30222v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30222v1](http://arxiv.org/abs/2609.30222v1)
+
+## BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation
+- **ID**: arxiv_2609.30223v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30223v1](http://arxiv.org/abs/2609.30223v1)
+
+## OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction
+- **ID**: arxiv_2609.30234v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30234v1](http://arxiv.org/abs/2609.30234v1)
+
+## Towards Practical Compression of 3D Gaussian Splatting
+- **ID**: arxiv_2609.30245v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30245v1](http://arxiv.org/abs/2609.30245v1)
 

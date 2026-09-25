@@ -15,6 +15,7 @@
 | [Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support](http://arxiv.org/abs/2609.10421v1) | ArXiv |  | 1 |
 | [Faster Results from a Smarter Schedule: Reframing Collegiate Cross Country through Analysis of the National Running Club Database](http://arxiv.org/abs/2509.10600v6) | ArXiv |  | 1 |
 | [Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs](http://arxiv.org/abs/2609.17111v1) | ArXiv |  | 1 |
+| [Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation](http://arxiv.org/abs/2605.04135v3) | ArXiv |  | 1 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
 | [Large language models eroding science understanding: an empirical study of malignment](http://arxiv.org/abs/2604.25639v2) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |

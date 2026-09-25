@@ -65,6 +65,7 @@
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains](http://arxiv.org/abs/2609.01563v1) | ArXiv |  | 1 |
 | [A Taxonomy of Programming Languages for Code Generation](http://arxiv.org/abs/2604.00239v3) | ArXiv |  | 1 |
+| [A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition](http://arxiv.org/abs/2609.30160v1) | ArXiv |  | 1 |
 | [A Zeroth-Order Paradigm for LLM Preference Alignment](http://arxiv.org/abs/2609.19144v1) | ArXiv |  | 1 |
 | [A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination](http://arxiv.org/abs/2608.04872v2) | ArXiv |  | 1 |
 | [Actions Speak Louder than Words: Measuring Cross-Lingual Policy Retention in Tool-Using Agents](http://arxiv.org/abs/2608.11110v1) | ArXiv |  | 1 |
@@ -79,6 +80,7 @@
 | [Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1) | ArXiv |  | 1 |
 | [Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents](http://arxiv.org/abs/2608.29606v1) | ArXiv |  | 1 |
 | [Agent-Editing World Model: Rethinking World Modeling for LLM Agents](http://arxiv.org/abs/2609.28416v1) | ArXiv |  | 1 |
+| [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1) | ArXiv |  | 1 |
 | [AgentRM: Enhancing Agent Generalization with Reward Modeling](http://arxiv.org/abs/2502.18407v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
@@ -92,6 +94,7 @@
 | [Analyzing and Encoding the Al-Mawrid Arabic-English Dictionary with the ISO Language Markup Framework and TEI Lex-0](http://arxiv.org/abs/2606.18205v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v1) | ArXiv |  | 1 |
 | [APEX-Accounting](http://arxiv.org/abs/2607.27189v2) | ArXiv |  | 1 |
+| [ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment-Discrimination Complaints](http://arxiv.org/abs/2609.30184v1) | ArXiv |  | 1 |
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](http://arxiv.org/abs/2607.21498v1) | ArXiv |  | 1 |
 | [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) | ArXiv |  | 1 |
@@ -211,9 +214,11 @@
 | [Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models](http://arxiv.org/abs/2412.16555v4) | ArXiv |  | 1 |
 | [Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Tendencies in Large Language Models](http://arxiv.org/abs/2511.03699v2) | ArXiv |  | 1 |
 | [Do as I Say, Not as I Do: Instruction-Induction Conflict in LLMs](http://arxiv.org/abs/2605.20382v3) | ArXiv |  | 1 |
+| [Do Audio Language Models Hear and Read Distinctive Features Alike?](http://arxiv.org/abs/2609.30167v1) | ArXiv |  | 1 |
 | [Do speech foundation models really learn words?](http://arxiv.org/abs/2609.10434v1) | ArXiv |  | 1 |
 | [Do VLMs Align Better with Humans than LLMs during Natural Reading?](http://arxiv.org/abs/2605.28818v2) | ArXiv |  | 1 |
 | [Doctorina MedBench: A Dialogue-Based Benchmark and Evaluation Framework for Agent-Based Medical AI](http://arxiv.org/abs/2603.25821v3) | ArXiv |  | 1 |
+| [Does a model's stated reason for rejecting a candidate do any work?](http://arxiv.org/abs/2609.30151v1) | ArXiv |  | 1 |
 | [Does Finetuning with Scientific Data Increase Hallucinations? A Multi-domain Factuality Evaluation of LLMs](http://arxiv.org/abs/2606.21359v2) | ArXiv |  | 1 |
 | [DolphinBench: Mapping the Pareto Frontier of Agent Memory](http://arxiv.org/abs/2609.24971v1) | ArXiv |  | 1 |
 | [Domain-Specific Hallucination Detection in Large Language Models](http://arxiv.org/abs/2609.11878v1) | ArXiv |  | 1 |
@@ -283,6 +288,7 @@
 | [HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
 | [HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication](http://arxiv.org/abs/2609.20684v1) | ArXiv |  | 1 |
 | [Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](http://arxiv.org/abs/2608.29605v1) | ArXiv |  | 1 |
+| [How broad is that claim? Mapping Generalisation in NLP Research](http://arxiv.org/abs/2609.14770v2) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v1) | ArXiv |  | 1 |
 | [How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World](http://arxiv.org/abs/2605.18105v3) | ArXiv |  | 1 |
@@ -319,6 +325,7 @@
 | [It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief](http://arxiv.org/abs/2607.18232v2) | ArXiv |  | 1 |
 | [JEPA-Anything: Learning Predictive Models across Different Worlds](http://arxiv.org/abs/2609.20800v1) | ArXiv |  | 1 |
 | [Jev for Scientific Decisions: Evaluating Semantic Choices and Their Consequences](http://arxiv.org/abs/2609.24965v1) | ArXiv |  | 1 |
+| [JevOut: Natural Context Can Flip Decision Models](http://arxiv.org/abs/2609.30243v1) | ArXiv |  | 1 |
 | [Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent](http://arxiv.org/abs/2604.07269v2) | ArXiv |  | 1 |
 | [JPO: Juris Policy Optimization for Structured Legal Reasoning in Criminal Judgment Prediction](http://arxiv.org/abs/2608.29616v1) | ArXiv |  | 1 |
 | [Judge, Retrieve, or Abstain: Uncertainty-Guarded LLM Judging with Provable Risk Guarantees](http://arxiv.org/abs/2608.17994v1) | ArXiv |  | 1 |
@@ -519,6 +526,7 @@
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v2) | ArXiv |  | 1 |
 | [Self-Harness: Harnesses That Improve Themselves](http://arxiv.org/abs/2606.09498v2) | ArXiv |  | 1 |
 | [Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA](http://arxiv.org/abs/2602.00279v2) | ArXiv |  | 1 |
+| [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1) | ArXiv |  | 1 |
 | [SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents](http://arxiv.org/abs/2608.29575v1) | ArXiv |  | 1 |
 | [Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](http://arxiv.org/abs/2609.04108v1) | ArXiv |  | 1 |
 | [SHARD: Safe and Helpful Alignment via Self-Reframing Distillation](http://arxiv.org/abs/2606.15517v2) | ArXiv |  | 1 |

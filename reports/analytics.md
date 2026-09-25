@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89713
+**Total Entities Tracked**: 89763
 
 ## Category Distribution
 
@@ -12,18 +12,18 @@
 - **news**: 1255
 - **dataset**: 1185
 - **text-generation**: 1011
-- **cs.CV**: 962
-- **cs.CL**: 661
-- **cs.AI**: 620
-- **cs.LG**: 337
-- **cs.RO**: 132
-- **cs.CR**: 71
-- **cs.SE**: 61
+- **cs.CV**: 975
+- **cs.CL**: 669
+- **cs.AI**: 633
+- **cs.LG**: 342
+- **cs.RO**: 137
+- **cs.CR**: 73
+- **cs.SE**: 62
 - **tool**: 52
-- **cs.HC**: 36
+- **cs.HC**: 37
 - **cs.SD**: 32
-- **cs.IR**: 30
-- **cs.CY**: 29
+- **cs.IR**: 31
+- **cs.CY**: 30
 - **eess.IV**: 16
 - **API**: 15
 - **cs.MA**: 15
@@ -97,7 +97,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 30915
-- **ArXiv**: 3188
+- **ArXiv**: 3238
 - **Hugging Face**: 2018
 - **OpenAI Blog**: 1241
 - **HuggingFace Datasets**: 185

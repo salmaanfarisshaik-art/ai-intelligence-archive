@@ -355,3 +355,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26761v1](http://arxiv.org/abs/2609.26761v1)
 
+## Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure
+- **ID**: arxiv_2609.30217v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30217v1](http://arxiv.org/abs/2609.30217v1)
+
+## LLM Agents Can Easily Tamper With Their Own Traces
+- **ID**: arxiv_2609.30266v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30266v1](http://arxiv.org/abs/2609.30266v1)
+

@@ -305,3 +305,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28449v1](http://arxiv.org/abs/2609.28449v1)
 
+## Requirement-Bound Verified Commissioning: A Frozen Four-Billion-Parameter Local Model as a Candidate Generator under an External Acceptance Layer with Verification and Release Authority
+- **ID**: arxiv_2609.30219v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30219v1](http://arxiv.org/abs/2609.30219v1)
+

@@ -2825,6 +2825,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11913v1](http://arxiv.org/abs/2609.11913v1)
 
+## How broad is that claim? Mapping Generalisation in NLP Research
+- **ID**: arxiv_2609.14770v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.14770v2](http://arxiv.org/abs/2609.14770v2)
+
 ## CiteGuard-RAG: A Validation-Centered AI System for Evidence-Grounded Question Answering
 - **ID**: arxiv_2609.15830v1
 - **Source**: ArXiv
@@ -3304,4 +3309,39 @@
 - **ID**: arxiv_2609.28471v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28471v1](http://arxiv.org/abs/2609.28471v1)
+
+## Does a model's stated reason for rejecting a candidate do any work?
+- **ID**: arxiv_2609.30151v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30151v1](http://arxiv.org/abs/2609.30151v1)
+
+## A Training Criterion with Token-Level Tolerance to Transcription Ambiguity for Automatic Speech Recognition
+- **ID**: arxiv_2609.30160v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30160v1](http://arxiv.org/abs/2609.30160v1)
+
+## Do Audio Language Models Hear and Read Distinctive Features Alike?
+- **ID**: arxiv_2609.30167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30167v1](http://arxiv.org/abs/2609.30167v1)
+
+## ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment-Discrimination Complaints
+- **ID**: arxiv_2609.30184v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30184v1](http://arxiv.org/abs/2609.30184v1)
+
+## SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data
+- **ID**: arxiv_2609.30238v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30238v1](http://arxiv.org/abs/2609.30238v1)
+
+## JevOut: Natural Context Can Flip Decision Models
+- **ID**: arxiv_2609.30243v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30243v1](http://arxiv.org/abs/2609.30243v1)
+
+## Agentic Detection of Online Conspiracies
+- **ID**: arxiv_2609.30250v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30250v1](http://arxiv.org/abs/2609.30250v1)
 

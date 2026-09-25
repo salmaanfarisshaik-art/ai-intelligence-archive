@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30223v1",
+  "schema_version": "1.0",
+  "name": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30223v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30223v1",
+    "updated": "2026-09-24T17:48:31Z",
+    "published": "2026-09-24T17:48:31Z",
+    "title": "BiCC: Bidirectional Connected-Component Loss for Instance-Aware Segmentation",
+    "summary": "Common segmentation losses aggregate errors voxel-wise, so lesions influence the objective in proportion to their volume, giving small but clinically critical lesions disproportionately little weight. Instance-aware losses aim to address this mismatch by assigning each lesion its own term. However, blob loss and CC-DiceCE derive their regions solely from annotations, so false-positive components receive no instance-level term. This matters in computer-assisted review, where each false-positive component may require separate inspection, making precision and false-positive burden important alongside recall. We introduce the bidirectional connected-component loss (BiCC), which pairs annotation- and prediction-derived partitions to score predicted components on their own scale. By deriving instances from the predictions, this branch directly penalizes false-positive components regardless of their size. The balance parameter $α$ allows control over the lesion-wise precision-recall trade-off. Across five datasets with five-fold cross-validation using nnU-Net, BiCC outperforms CC-DiceCE in lesion-wise F1 on four datasets and blob loss on all five. It significantly improves over DiceCE on three datasets and matches it on two; CC-DiceCE instead loses up to 0.363 precision by favoring recall. Code is available at https://github.com/TIO-IKIM/BiCC-Loss.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:48:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30223v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

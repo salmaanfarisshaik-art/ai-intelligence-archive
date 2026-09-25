@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.23488v3",
+  "schema_version": "1.0",
+  "name": "One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.23488v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.23488v3",
+    "updated": "2026-09-24T17:44:45Z",
+    "published": "2026-03-24T17:54:25Z",
+    "title": "One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation",
+    "summary": "Monocular novel-view synthesis has long required multi-view image pairs for supervision, limiting training to a narrow set of purpose-built datasets. We propose in-the-wild monocular pretraining: a frozen depth estimator lifts each source image into 3D and reprojects under sampled poses to yield pseudo-target views; masked losses restrict supervision to valid regions and an adversarial objective covers disoccluded areas. Scaled to 30 million uncurated images, this produces OVIE, requiring only a source image and target pose at inference. Prior work trains without multi-view data but needs a depth estimator at inference, or drops this dependency but requires multi-view training pairs; OVIE is the first to require neither. Without multi-view supervision, OVIE rivals in-domain baselines on RealEstate10K and surpasses all on DL3DV, producing the most multi-view-consistent trajectories of any geometry-free method; brief multi-view fine-tuning outperforms all geometry-free methods on their training domain. At 116 FPS, it is over 600x faster than the fastest baseline. Code and pretrained models are at https://github.com/kyutai-labs/ovie; video results are on the project page, https://kyutai.org/blog/2026-04-14-ovie/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:44:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.23488v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

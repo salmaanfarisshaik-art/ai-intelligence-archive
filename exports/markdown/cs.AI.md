@@ -125,6 +125,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.15397v3](http://arxiv.org/abs/2601.15397v3)
 
+## LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration
+- **ID**: arxiv_2601.15397v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.15397v4](http://arxiv.org/abs/2601.15397v4)
+
 ## Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning
 - **ID**: arxiv_2602.01695v2
 - **Source**: ArXiv
@@ -155,6 +160,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.16763v4](http://arxiv.org/abs/2602.16763v4)
 
+## Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System
+- **ID**: arxiv_2602.18640v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.18640v3](http://arxiv.org/abs/2602.18640v3)
+
 ## Conformal Policy Control
 - **ID**: arxiv_2603.02196v4
 - **Source**: ArXiv
@@ -179,6 +189,11 @@
 - **ID**: arxiv_2603.06884v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.06884v2](http://arxiv.org/abs/2603.06884v2)
+
+## Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety
+- **ID**: arxiv_2603.10044v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.10044v3](http://arxiv.org/abs/2603.10044v3)
 
 ## From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions
 - **ID**: arxiv_2603.13359v2
@@ -224,6 +239,11 @@
 - **ID**: arxiv_2604.05165v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.05165v3](http://arxiv.org/abs/2604.05165v3)
+
+## IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models
+- **ID**: arxiv_2604.07709v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.07709v5](http://arxiv.org/abs/2604.07709v5)
 
 ## Interval POMDP Shielding for Imperfect-Perception Agents
 - **ID**: arxiv_2604.20728v2
@@ -3099,4 +3119,49 @@
 - **ID**: arxiv_2609.28470v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28470v1](http://arxiv.org/abs/2609.28470v1)
+
+## Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale
+- **ID**: arxiv_2609.30137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30137v1](http://arxiv.org/abs/2609.30137v1)
+
+## EnigmaForge: The Question Is Hidden in the Story
+- **ID**: arxiv_2609.30144v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30144v1](http://arxiv.org/abs/2609.30144v1)
+
+## GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI
+- **ID**: arxiv_2609.30147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30147v1](http://arxiv.org/abs/2609.30147v1)
+
+## Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search
+- **ID**: arxiv_2609.30177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30177v1](http://arxiv.org/abs/2609.30177v1)
+
+## Jev-Mobile: Jev as an Executor for Mobile GUI Agents
+- **ID**: arxiv_2609.30186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30186v1](http://arxiv.org/abs/2609.30186v1)
+
+## SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance
+- **ID**: arxiv_2609.30192v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30192v1](http://arxiv.org/abs/2609.30192v1)
+
+## ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds
+- **ID**: arxiv_2609.30199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30199v1](http://arxiv.org/abs/2609.30199v1)
+
+## A Living Benchmark for Information Retrieval from Electronic Health Records
+- **ID**: arxiv_2609.30205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30205v1](http://arxiv.org/abs/2609.30205v1)
+
+## AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control
+- **ID**: arxiv_2609.30264v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30264v1](http://arxiv.org/abs/2609.30264v1)
 

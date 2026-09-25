@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30130v1",
+  "schema_version": "1.0",
+  "name": "Multimodal Thinking with Renderable Programs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30130v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30130v1",
+    "updated": "2026-09-24T17:03:44Z",
+    "published": "2026-09-24T17:03:44Z",
+    "title": "Multimodal Thinking with Renderable Programs",
+    "summary": "Current vision-language models (VLMs) excel at visual content understanding and text-based reasoning, yet their structure limits the advancement of incorporating images into the reasoning chain. Though Omnimodal models have made efforts in unifying text and image generation, they focus on visual tasks in the open-domain, lacking tractability due to rasterized or latent representations of images. We introduce SVGLM, a framework that uses scalable vector graphics (SVG) primitives to connect text and image in reasoning tasks. We exploit the duality of SVG as both image description and text instructions, yielding a more compact, interpretable solution to equip general VLMs with the capability of generating images within the reasoning process. We provide a large curated dataset of SVG-based image editing dataset, as well as the paradigm to tune open-source VLMs. Experiments on a mathematical reasoning benchmark demonstrate that SVGLM achieves strong SVG generation power as well as think-with-image intelligence. Our results highlight SVG as a suitable medium for building more robust digital domain agents, bridging the gap between text-based thinking and pixel-based images.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:03:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30130v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

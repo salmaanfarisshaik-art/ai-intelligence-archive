@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.18640v3",
+  "schema_version": "1.0",
+  "name": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.18640v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.18640v3",
+    "updated": "2026-09-24T17:49:34Z",
+    "published": "2026-02-20T22:24:01Z",
+    "title": "Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System",
+    "summary": "Modern large-scale ranking systems operate within a sophisticated landscape of competing objectives, operational constraints, and evolving product requirements. Progress in this domain is increasingly bottlenecked by the engineering context constraint: the arduous process of translating ambiguous product intent into reasonable, executable, verifiable hypotheses, rather than by modeling techniques alone. We present GEARS (Generative Engine for Agentic Ranking Systems), a framework that reframes ranking optimization as an autonomous discovery process within a programmable experimentation environment. Rather than treating optimization as static model selection, GEARS leverages Specialized Agent Skills to encapsulate ranking expert knowledge into reusable reasoning capabilities, enabling operators to steer systems via high-level intent vibe personalization. Furthermore, to ensure production reliability, the framework incorporates validation hooks to enforce statistical robustness and filter out brittle policies that overfit short-term signals. Experimental validation across diverse product surfaces demonstrates that GEARS consistently identifies superior, near-Pareto-efficient policies by synergizing algorithmic signals with deep ranking context while maintaining rigorous deployment stability.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:49:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.18640v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

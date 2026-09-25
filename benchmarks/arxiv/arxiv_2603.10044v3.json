@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.10044v3",
+  "schema_version": "1.0",
+  "name": "Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.10044v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.10044v3",
+    "updated": "2026-09-24T17:34:28Z",
+    "published": "2026-03-08T01:37:45Z",
+    "title": "Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety",
+    "summary": "Safety benchmarks usually test \"bare\" models that receive prompts and output responses, but real-world deployments \"wrap\" those models in complex scaffolds. How much do these scaffolds affect model safety as measured by benchmarks? We test six leading models on four pre-registered safety benchmarks with a direct API and three scaffolds: ReAct, multi-agent, and map-reduce. We conducted 62,808 scored evaluations. How safety is measured matters more than scaffolding does: we find that using a multiple choice vs. open-ended format for otherwise-identical benchmark items changes measured safety by 5-20 percentage points (pp). The two formats are scored with different methods (answer extraction and an LLM judge), so the gap is due to measurement rather than differences in latent safety. Using a heuristic to classify model refusals would have led to different findings in five cases. Benchmark choice explains 19.3% of the variation in outcomes; scaffold architecture explains 0.4%, about 45x less. We find that map-reduce scaffolds, a form of structure-destroying delegation that strips answer options by decomposing prompts, reduce pooled measured safety by 7.3 pp (95% CI: 6.4 to 8.1). The pooled effects for ReAct and multi-agent scaffolds are within our pre-registered +/-2 pp margin of equivalence. However, there are large differences across models for specific benchmarks and scaffolds that are hidden by pooled estimates: for example, on the same sycophancy benchmark items, Opus 4.6 has 16.8 pp lower measured safety with a map-reduce scaffold, while Llama 4 has 18.8 pp higher measured safety. Composite reliability is G = 0.000 (95% CI: [0.000, 0.752]). This wide confidence interval, which spans \"of little use\" to \"very good\", does not support using a single composite measure of model safety as the basis for go/no-go decisions about model deployment.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:34:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.10044v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

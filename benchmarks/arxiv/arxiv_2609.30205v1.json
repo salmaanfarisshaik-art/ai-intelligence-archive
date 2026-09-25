@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30205v1",
+  "schema_version": "1.0",
+  "name": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30205v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30205v1",
+    "updated": "2026-09-24T17:41:16Z",
+    "published": "2026-09-24T17:41:16Z",
+    "title": "A Living Benchmark for Information Retrieval from Electronic Health Records",
+    "summary": "Large language model (LLM)-based clinical assistants are increasingly being integrated into electronic health record (EHR) systems, transforming how clinicians retrieve and synthesize information from patient records. Their safety and utility depend on rigorous evaluation, yet existing benchmarks are manually curated, costly to update, and rapidly become obsolete with evolving technological advancements. We present a scalable framework that automatically generates question--answer pairs from longitudinal EHR notes. Nineteen clinicians validate the benchmark generator, producing the Benchmark for Retrieving Information in EHRs (BRIE), a continuously maintainable evaluation dataset. Across nine LLMs and five inference strategies, state-of-the-art systems frequently omit clinically important information, particularly for questions requiring synthesis across multiple documents and encounters. Because the generator itself is validated, BRIE supports evaluations that static benchmarks cannot, including the generation of multiple answers that reflect variation in clinician reasoning for robust performance assessment and continuously refreshing benchmark content to guard against leakage. Our results demonstrate that scalable benchmark generation enables rigorous, up-to-date evaluation of clinical LLMs as they are deployed in rapidly evolving healthcare settings.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:41:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30205v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

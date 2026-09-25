@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.07709v5",
+  "schema_version": "1.0",
+  "name": "IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.07709v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.07709v5",
+    "updated": "2026-09-24T17:53:40Z",
+    "published": "2026-04-09T01:54:33Z",
+    "title": "IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+    "summary": "A strongly safety-trained model will provide a doctor with a benzodiazepine taper schedule, but not a patient who asks for one. The model knows the information, but how much it shares depends on the framing. We introduce IatroBench, a benchmark that evaluates models on two axes of harm (commission and omission) across 60 pre-registered clinical scenarios and 6 models. We use Claude Opus 4.6 to score model responses against a rubric written by a physician, and find that its omission scores are as well-aligned to the physician's scores as another physician's scores are. We find that when the same case is presented as a patient query and a doctor consultation (the variants also differ in register, request and the supervision a treating physician implies), all five models we test share more information with the doctor than the patient. We term this phenomenon \"framing-contingent withholding.\" We find a mean decoupling gap of +0.38 across models (p = 0.003), and of +0.22 under an independent LLM judge (95% CI 0.10-0.36, p = 0.0014). An evaluation that focuses solely on commission harms would consider all of these cases as equally cautious refusals, but closer investigation reveals three different patterns: Claude Opus withholds information from the patient that it demonstrates knowledge of in the doctor framing. Llama 4 does poorly in both framings, so the decoupling gap cannot distinguish information withholding from incompetence. We are forced to exclude GPT-5.2 from this analysis because it returns no text for 33.2% of doctor responses, but 0% of layperson responses. A standard LLM judge rates responses as having zero omission harm in 86.6% of cases where our structured evaluations score them as omission harms. (Because our scenarios are designed to induce tension between safety and helpfulness, these statistics should be taken as only applying to this distribution.)",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:53:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.07709v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

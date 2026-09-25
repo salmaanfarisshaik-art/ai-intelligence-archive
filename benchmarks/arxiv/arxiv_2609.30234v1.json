@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.30234v1",
+  "schema_version": "1.0",
+  "name": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.30234v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.30234v1",
+    "updated": "2026-09-24T17:53:55Z",
+    "published": "2026-09-24T17:53:55Z",
+    "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+    "summary": "Automated generation of production-ready 3D garment assets from a single image is a central challenge in digital content creation. While recent generative models have significantly advanced 3D geometry reconstruction, synthesizing high-quality textures remains a bottleneck. Existing methods often bake environmental illumination and shadows directly into the texture map, or they fail to maintain global structural coherence, making the resulting assets unusable for physical simulation and relighting. In this work, we introduce OmniFabric, a novel approach that synthesizes globally coherent texture maps directly within the 2D sewing pattern space. Given a single reference image, our pipeline utilizes an estimated 3D mesh and generative priors of powerful Vision-Language Models (VLM) to establish a complete but coarse texture initialization across the unwrapped sewing patterns. We then leverage a specialized diffusion transformer, trained via an automated synthetic data engine and conditioned on 3D positional features, to refine this initialization directly in the canonical UV domain. This effectively removes distortion and baked-in artifacts to extract a clean and normalized texture map that preserves the original garment design. Extensive experiments demonstrate that OmniFabric significantly outperforms state-of-the-art baselines, yielding photorealistic 3D garments with high-quality textures.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:53:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.30234v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

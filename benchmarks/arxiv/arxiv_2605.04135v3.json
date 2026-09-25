@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.04135v3",
+  "schema_version": "1.0",
+  "name": "Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.04135v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CY",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.04135v3",
+    "updated": "2026-09-24T17:48:19Z",
+    "published": "2026-05-05T17:58:35Z",
+    "title": "Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation",
+    "summary": "LLM evaluations in applied domains tend to reflect models that were already outclassed at time of publication. We observe a publication elicitation gap: the distance between the AI systems generating the results reported in an academic paper and the AI systems that a current reader of that paper would reasonably assume are being referenced. We systematically sweep OpenAlex from 2022-01-01 to 2026-04-01 (n = 112,303 LLM keyword matches). Then, we identify what models were evaluated (n = 18,574 admissible records). We then rank each evaluated LLM against a frontier LLM based on the Epoch AI Capabilities Index (ECI), an aggregate LLM capability score. At time of evaluation, the median paper is evaluating models that are behind frontier LLMs in capability, with a median gap of +10.85 ECI (H1; n = 12,312). This gap is growing, increasing at a rate of +5.53 ECI per year (H2, nominal 95% CI [+5.03, +5.83]). The sign holds even in the absence of any imputation for evaluation date. In papers (n = 728) where the date of evaluation is explicit and the model in question can be resolved to an ECI score, the median gap for H1 is +5.01 ECI. An explicitly stated evaluation date can be found in only 18.4% of full-text papers. After correction, in 52.5% (95% CI: [48.2, 56.9]) of abstracts in our audit, conclusions are stated at the class level (\"AI\") rather than the model level. For papers about reasoning models, only 3.2% of abstracts and 21.2% of full-text articles disclose the reasoning mode status of the models used (H4). We propose a solution to this problem that is distributed among authors, editors, and funders. First, reporting from authors. VERSIO-AI v1.2 is a proposed 13-item checklist to cover the configuration surface described herein. Second, enforcement from journal editors and peer reviewers. Third, conditioning grants on disclosure and providing API access.",
+    "primary_category": "cs.CY"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:48:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.04135v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.10300v2](http://arxiv.org/abs/2505.10300v2)
 
+## SheetMind: Actions Set Accuracy, Agents Set the Failure Mode
+- **ID**: arxiv_2506.12339v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.12339v3](http://arxiv.org/abs/2506.12339v3)
+
 ## Selective Prediction Reduces the Negative Effects of Automation Bias Overall but Increases False Negatives
 - **ID**: arxiv_2508.07617v2
 - **Source**: ArXiv

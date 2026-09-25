@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.15397v4",
+  "schema_version": "1.0",
+  "name": "LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.15397v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.15397v4",
+    "updated": "2026-09-24T17:24:35Z",
+    "published": "2026-01-21T19:08:45Z",
+    "title": "LOGIC: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration",
+    "summary": "Recognizing entity phrases remains a critical challenge for speech large language models. Existing prompting methods lack an explicit decoding-time biasing weight, limiting their controllability. Generative error correction methods can introduce hallucinated over-corrections. To address these limitations, we propose LOGIC (logit-space integration for contextual biasing), a robust framework operating directly in the logit space. By decoupling context injection from input processing, LOGIC enables explicit control over the biasing strength. Extensive experiments with an open-source speech large language model across 11 locales demonstrate that LOGIC achieves an average 9% relative reduction in entity word error rate, with an average false alarm rate increase of 0.3% and a 2.8% relative runtime overhead. When combined with prompting, LOGIC can reduce entity word error rate by 5% relative to the prompt-only method.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:24:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.15397v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.12339v3",
+  "schema_version": "1.0",
+  "name": "SheetMind: Actions Set Accuracy, Agents Set the Failure Mode",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.12339v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.12339v3",
+    "updated": "2026-09-24T17:15:27Z",
+    "published": "2025-06-14T04:22:15Z",
+    "title": "SheetMind: Actions Set Accuracy, Agents Set the Failure Mode",
+    "summary": "Spreadsheet agents are converging on elaborate multi-agent designs, yet it is unclear how much of their performance comes from the agents rather than from the action interface they share. We answer this with SheetMind, a Manager-Action-Reflection framework, in a controlled study over all 221 tasks of the SheetCopilot Benchmark: five architectural variants, four backbones, exact McNemar tests on paired outcomes, and a checker reproducing the official chart and pivot comparisons. Replacing the high-level action API with primitive cell operations costs 47.1 points (p < 0.0001) and leaves the agent below a do-nothing baseline, whereas both extra agents together are worth 3.2 points: the Reflection Agent adds +4.5 (p = 0.013), the Manager +1.4 (p = 0.68). Decomposition instead changes how the system fails, cutting silently wrong outputs from 33% to 25% of tasks (p = 0.010). Capability saturates: GPT-5 and the five-times-cheaper GPT-5-mini are not significantly different (61.1% vs. 58.4%, p = 0.15), while GPT-3.5 loses 16.3 points and fails differently. A reflector must judge the step it just took, not the subtask. SheetMind reaches 61.1% Pass@1 with GPT-5 on the full SCB-221, against a do-nothing baseline of 9.0%. Accuracy comes from the operations an agent can name; the agents decide how it fails.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-09-25T05:49:35Z",
+  "last_updated": "2026-09-24T17:15:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.12339v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

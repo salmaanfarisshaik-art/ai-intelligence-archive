@@ -46,7 +46,9 @@
 | [Has This Checkpoint Been Abliterated? A Two-Signal Audit and Its Failure Map](http://arxiv.org/abs/2607.01854v2) | ArXiv |  | 1 |
 | [Identifying AI Web Scrapers Using Canary Tokens](http://arxiv.org/abs/2605.13706v2) | ArXiv |  | 1 |
 | [InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](http://arxiv.org/abs/2608.23471v1) | ArXiv |  | 1 |
+| [Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure](http://arxiv.org/abs/2609.30217v1) | ArXiv |  | 1 |
 | [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents](http://arxiv.org/abs/2606.18223v1) | ArXiv |  | 1 |
+| [LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1) | ArXiv |  | 1 |
 | [LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment](http://arxiv.org/abs/2608.28490v1) | ArXiv |  | 1 |
 | [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](http://arxiv.org/abs/2606.01138v4) | ArXiv |  | 1 |
 | [MemSecBench: Tracking Agent Memory Poisoning from Persistence to Consequence and Repair](http://arxiv.org/abs/2607.27080v1) | ArXiv |  | 1 |

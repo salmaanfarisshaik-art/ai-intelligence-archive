@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-09-22T18:44:38.000Z",
-  "likes": 183,
+  "likes": 184,
   "private": false,
   "sha": "2d52cb3df914a3fcf80c7f66738b3a88ae37fc50",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSWE-bench Pro V2\n\t\n\nSWE-bench Pro is a benchmark of long-horizon software engineering tasks drawn from real pull requests in 11 open-source\nrepositories (Go, Python, JavaScript, TypeScript). Each task gives an agent a repository at a base commit plus a PR\ndescription with explicit requirements and interfaces; the agent's patch is graded by hidden fail-to-pass and\npass-to-pass tests in a pristine container.\nV2 (2026-09-22) is the default config: 642 tasks (go 256, python 237, js 145… See the full description on the dataset page: https://huggingface.co/datasets/ScaleAI/SWE-bench_Pro.",

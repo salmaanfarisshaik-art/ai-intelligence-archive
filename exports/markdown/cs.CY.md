@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.25639v2](http://arxiv.org/abs/2604.25639v2)
 
+## Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation
+- **ID**: arxiv_2605.04135v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.04135v3](http://arxiv.org/abs/2605.04135v3)
+
 ## Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education
 - **ID**: arxiv_2605.15850v3
 - **Source**: ArXiv

@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12291v2](http://arxiv.org/abs/2601.12291v2)
 
+## HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving
+- **ID**: arxiv_2602.00993v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00993v3](http://arxiv.org/abs/2602.00993v3)
+
 ## HybridFlow: A 2-NFE Generative Policy for Real-Time Robotic Manipulation
 - **ID**: arxiv_2602.13718v2
 - **Source**: ArXiv
@@ -659,4 +664,24 @@
 - **ID**: arxiv_2609.28467v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28467v1](http://arxiv.org/abs/2609.28467v1)
+
+## Underwater C3-JEPA: An Object-Centric Cross-View World Model for ROV Salvage
+- **ID**: arxiv_2609.30214v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30214v1](http://arxiv.org/abs/2609.30214v1)
+
+## Coding Agents for Generalized Task and Motion Planning Problems
+- **ID**: arxiv_2609.30233v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30233v1](http://arxiv.org/abs/2609.30233v1)
+
+## Rolling-WAM: World Action Models with Rolling Imagination
+- **ID**: arxiv_2609.30247v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30247v1](http://arxiv.org/abs/2609.30247v1)
+
+## RAPID: Robot Agentic Programming from Demonstrations
+- **ID**: arxiv_2609.30249v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30249v1](http://arxiv.org/abs/2609.30249v1)
 
