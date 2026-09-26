@@ -164,7 +164,7 @@
 - **eval-results**: 25
 - **size_categories:n<1K**: 25
 - **modality:image**: 24
-- **deploy:sagemaker**: 22
+- **deploy:sagemaker**: 23
 - **modality:tabular**: 22
 - **qwen3**: 21
 - **license:other**: 20
