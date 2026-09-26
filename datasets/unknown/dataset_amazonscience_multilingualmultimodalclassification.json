@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fdc67245433fd5c70e34910048b913dcd9ce99ae",
   "description": "\n\t\n\t\t\n\t\tAdditional Information\n\t\n\nTo load the dataset,\nimport datasets\nds = datasets.load_dataset(\"AmazonScience/MultilingualMultiModalClassification\", data_dir=\"wiki-doc-ar-merged\")\nprint(ds)\nDatasetDict({\n    train: Dataset({\n        features: ['image', 'filename', 'words', 'ocr_bboxes', 'label'],\n        num_rows: 8129\n    })\n    validation: Dataset({\n        features: ['image', 'filename', 'words', 'ocr_bboxes', 'label'],\n        num_rows: 1742\n    })\n    test: Dataset({\n        features:… See the full description on the dataset page: https://huggingface.co/datasets/AmazonScience/MultilingualMultiModalClassification.",
-  "downloads": 61240,
+  "downloads": 61951,
   "tags": [
     "license:cc-by-4.0",
     "region:us"

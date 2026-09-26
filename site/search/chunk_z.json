@@ -1736,6 +1736,20 @@
       "score": 1.0
     }
   ],
+  "zgcagi": [
+    {
+      "entity_id": "dataset_zgcagi_zgcm_1_data",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zgcm": [
+    {
+      "entity_id": "dataset_zgcagi_zgcm_1_data",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "zgh": [
     {
       "entity_id": "dataset_fsicoli_common_voice_15_0",
@@ -2258,6 +2272,11 @@
     },
     {
       "entity_id": "dataset_zdbfv_m3_vos",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_zgcagi_zgcm_1_data",
       "match_type": "exact",
       "score": 1.5
     },
@@ -3617,6 +3636,13 @@
       "entity_id": "dataset_hails_agieval_lsat_lr",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "zhongguancun": [
+    {
+      "entity_id": "dataset_zgcagi_zgcm_1_data",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "zhongxing": [

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 89783
+**Total Entities Tracked**: 89787
 
 ## Category Distribution
 
@@ -8,9 +8,9 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2024
-- **models**: 1731
+- **models**: 1733
 - **news**: 1256
-- **dataset**: 1185
+- **dataset**: 1187
 - **text-generation**: 1011
 - **cs.CV**: 975
 - **cs.CL**: 669
@@ -96,11 +96,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 30933
+- ****: 30935
 - **ArXiv**: 3238
 - **Hugging Face**: 2018
 - **OpenAI Blog**: 1242
-- **HuggingFace Datasets**: 185
+- **HuggingFace Datasets**: 187
 - **GitHub Trending**: 53
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -140,26 +140,26 @@
 
 ## Top Tags
 
-- **region:us**: 265
+- **region:us**: 267
+- **library:datasets**: 82
+- **library:mlcroissant**: 82
 - **text-generation**: 81
-- **library:datasets**: 80
-- **library:mlcroissant**: 80
-- **modality:text**: 75
+- **modality:text**: 77
+- **license:apache-2.0**: 70
 - **endpoints_compatible**: 69
-- **license:apache-2.0**: 69
 - **transformers**: 69
+- **language:en**: 67
 - **safetensors**: 67
-- **language:en**: 66
 - **conversational**: 62
-- **library:polars**: 61
+- **library:polars**: 62
+- **format:parquet**: 48
 - **license:mit**: 48
-- **format:parquet**: 47
 - **text-generation-inference**: 36
 - **deploy:azure**: 32
 - **library:pandas**: 32
-- **library:dask**: 29
+- **library:dask**: 30
 - **en**: 28
-- **task_categories:text-generation**: 27
+- **task_categories:text-generation**: 28
 - **enterprise**: 25
 - **eval-results**: 25
 - **size_categories:n<1K**: 25
@@ -169,12 +169,12 @@
 - **qwen3**: 21
 - **license:other**: 20
 - **license:cc-by-4.0**: 17
+- **size_categories:10K<n<100K**: 17
 - **api**: 16
-- **size_categories:10K<n<100K**: 16
+- **size_categories:100K<n<1M**: 14
 - **task_categories:robotics**: 14
 - **modality:video**: 13
 - **multilinguality:monolingual**: 13
-- **size_categories:100K<n<1M**: 13
 - **arxiv:2505.09388**: 12
 - **license:odc-by**: 12
 - **source_datasets:original**: 12

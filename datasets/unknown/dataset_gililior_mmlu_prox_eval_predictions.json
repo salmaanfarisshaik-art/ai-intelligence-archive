@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7ed529332cc75dfa3700ee35cbfb802d54f779a3",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tMMLU-ProX Multilingual Model Predictions\n\t\n\nRaw per-sample model predictions on MMLU-ProX\nacross 29 languages and 25 open-weight LLMs, produced with\nlm-evaluation-harness.\nThis dataset releases the full prediction logs (not just aggregate scores) so that\nitem-level responses can be re-analysed — e.g. for Item Response Theory (IRT) modelling\nof multilingual benchmarks, error analysis, or per-item difficulty estimation.\n\n\t\n\t\t\n\t\n\t\n\t\tRepository structure\n\t\n\nmmlu_prox_<lang>/\n└──… See the full description on the dataset page: https://huggingface.co/datasets/gililior/mmlu-prox-eval-predictions.",
-  "downloads": 35661,
+  "downloads": 35789,
   "tags": [
     "task_categories:question-answering",
     "task_categories:multiple-choice",

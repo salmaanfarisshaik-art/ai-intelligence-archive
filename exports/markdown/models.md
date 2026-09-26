@@ -3440,6 +3440,10 @@
 - **ID**: model_mlx_community_meta_llama_llama_4_scout_17b_16e_8bit
 - **Source**: 
 
+## mlx-community/Qwen2.5-0.5B-Instruct-4bit
+- **ID**: model_mlx_community_qwen2_5_0_5b_instruct_4bit
+- **Source**: 
+
 ## mlx-community/Qwen2.5-14B-Instruct-4bit
 - **ID**: model_mlx_community_qwen2_5_14b_instruct_4bit
 - **Source**: 
@@ -6610,6 +6614,10 @@
 
 ## Vamsi/T5_Paraphrase_Paws
 - **ID**: model_vamsi_t5_paraphrase_paws
+- **Source**: 
+
+## vcruz305/DeepSeek-V4.1-Flash-GGUF
+- **ID**: model_vcruz305_deepseek_v4_1_flash_gguf
 - **Source**: 
 
 ## vcruz305/Hy3-GGUF

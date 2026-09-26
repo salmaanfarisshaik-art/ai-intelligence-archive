@@ -322,6 +322,12 @@
 - **URL**: [https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0](https://huggingface.co/datasets/mlfoundations/dclm-baseline-1.0)
 - **Tags**: arxiv:2406.11794, format:json, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-4.0, modality:tabular, modality:text, region:us, size_categories:1B<n<10B
 
+## AI-MO/NuminaMath-CoT
+- **ID**: hf_ds_6695831f2d25bd04e969b0a2
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/AI-MO/NuminaMath-CoT](https://huggingface.co/datasets/AI-MO/NuminaMath-CoT)
+- **Tags**: aimo, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, math, modality:text, region:us, size_categories:100K<n<1M, task_categories:text-generation
+
 ## mlfoundations/MINT-1T-HTML
 - **ID**: hf_ds_669caf535bd3f749a3c87c11
 - **Source**: HuggingFace Datasets
@@ -897,6 +903,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/Hoshipu/roboreal_data](https://huggingface.co/datasets/Hoshipu/roboreal_data)
 - **Tags**: region:us
+
+## ThomasTheMaker/ptb-xl-ecg
+- **ID**: hf_ds_69dae1cf769d72f81f71c82c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ThomasTheMaker/ptb-xl-ecg](https://huggingface.co/datasets/ThomasTheMaker/ptb-xl-ecg)
+- **Tags**: format:text, library:datasets, library:mlcroissant, modality:text, region:us, size_categories:10K<n<100K
 
 ## nyarlathotep12/MXStuff
 - **ID**: hf_ds_69dea0a636a3f56ff6f91b7f

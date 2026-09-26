@@ -9,7 +9,7 @@
   "private": false,
   "sha": "b9c4f6234a3e967981af8d8168f8670ee4348440",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tLEAD 123D\n\t\n\nA privileged expert drives CARLA Leaderboard 2.0 routes and writes every modality\nit sees to the standardized Py123D format:\ncameras, lidar, radar, the full scene state and the maps to place it on. Code,\nloaders, visualizers and closed-loop benchmarks live in\nkesai-labs/lead.\nPolicy learning is one application. The logs carry the whole scene, so perception,\nworld models, video generation and self-play RL read the same files.\n\n\t\n\t\t\n\t\n\t\n\t\tContents\n\t\n\n\n\t\n\t\t\nPath\nSize\nLogs… See the full description on the dataset page: https://huggingface.co/datasets/ln2697/lead-123d.",
-  "downloads": 41263,
+  "downloads": 41426,
   "tags": [
     "license:mit",
     "arxiv:2605.08084",

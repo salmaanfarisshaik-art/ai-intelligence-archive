@@ -2170,6 +2170,37 @@
     "local_path": "datasets/mlfoundations/hf_ds_66708709d5c5d8fd8db3a5cf.json"
   },
   {
+    "id": "hf_ds_6695831f2d25bd04e969b0a2",
+    "title": "AI-MO/NuminaMath-CoT",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "aimo",
+      "format:parquet",
+      "language:en",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:apache-2.0",
+      "math",
+      "modality:text",
+      "region:us",
+      "size_categories:100K<n<1M",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/AI-MO"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/AI-MO/NuminaMath-CoT",
+    "local_path": "datasets/ai-mo/hf_ds_6695831f2d25bd04e969b0a2.json"
+  },
+  {
     "id": "hf_ds_669caf535bd3f749a3c87c11",
     "title": "mlfoundations/MINT-1T-HTML",
     "category": "dataset",
@@ -4766,6 +4797,28 @@
     },
     "source_url": "https://huggingface.co/datasets/Hoshipu/roboreal_data",
     "local_path": "datasets/hoshipu/hf_ds_69d94b0139920e2fc8631756.json"
+  },
+  {
+    "id": "hf_ds_69dae1cf769d72f81f71c82c",
+    "title": "ThomasTheMaker/ptb-xl-ecg",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:text",
+      "region:us",
+      "size_categories:10K<n<100K"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ThomasTheMaker/ptb-xl-ecg",
+    "local_path": "datasets/thomasthemaker/hf_ds_69dae1cf769d72f81f71c82c.json"
   },
   {
     "id": "hf_ds_69dea0a636a3f56ff6f91b7f",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "cf31e11b57c25b6f0c2fbcb8d94087c1a2541f62",
   "description": "\n\t\n\t\t\n\t\tDeception Probes Activations\n\t\n\nPre-extracted residual-stream activations for training and evaluating deception\ndetection probes on LLMs. Each example contains per-token hidden states from a\nspecific transformer layer, saved in bfloat16 safetensors format.\n\n\t\n\t\t\n\t\tLicense\n\t\n\nThis dataset contains activations derived from multiple sources with different licenses.\nSee the LICENSE file for full details.\n\n\t\n\t\t\nComponent\nSource\nLicense\n\n\n\t\t\nApollo Probe Pairs (statements)\nAzaria & Mitchell… See the full description on the dataset page: https://huggingface.co/datasets/xycoord/deception-probes-activations.",
-  "downloads": 50962,
+  "downloads": 52735,
   "tags": [
     "task_categories:text-classification",
     "language:en",
