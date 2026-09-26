@@ -5,6 +5,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_0xkai_miradordatacore1
+- **Source**: 
+
+## 
 - **ID**: dataset_1111xxx_zoengjyutgaai
 - **Source**: 
 
@@ -105,6 +109,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_agibot_world_agibotworld_alpha
+- **Source**: 
+
+## 
 - **ID**: dataset_agibot_world_agibotworld_beta
 - **Source**: 
 
@@ -158,6 +166,10 @@
 
 ## 
 - **ID**: dataset_aisa_group_researcharena_trajectories
+- **Source**: 
+
+## 
+- **ID**: dataset_aise_tudelft_mosaic_refactoring
 - **Source**: 
 
 ## 
@@ -1110,6 +1122,10 @@
 
 ## 
 - **ID**: dataset_chrislin0420_usam_droid
+- **Source**: 
+
+## 
+- **ID**: dataset_chrisneverdie_onlysports_dataset
 - **Source**: 
 
 ## 
@@ -2142,6 +2158,10 @@
 
 ## 
 - **ID**: dataset_hapitz_yanto991
+- **Source**: 
+
+## 
+- **ID**: dataset_happy8825_co3d_annotations
 - **Source**: 
 
 ## 
@@ -3869,6 +3889,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_igniscogitationis_quantum_like_attention_framework_1_3b_untuned_validation
+- **Source**: 
+
+## 
 - **ID**: dataset_ihavespoons_bite_baseline
 - **Source**: 
 
@@ -4334,6 +4358,10 @@
 
 ## 
 - **ID**: dataset_kennyvale_meeti
+- **Source**: 
+
+## 
+- **ID**: dataset_khoahuynh57922_khoahuynh57922
 - **Source**: 
 
 ## 
@@ -6489,6 +6517,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_riotu_lab_sard
+- **Source**: 
+
+## 
 - **ID**: dataset_rishitdagli_nerf_gs_datasets
 - **Source**: 
 
@@ -7265,6 +7297,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_thanhnguyen4827_ridge
+- **Source**: 
+
+## 
 - **ID**: dataset_thaopham64499_thaopham64499
 - **Source**: 
 
@@ -8014,6 +8050,10 @@
 
 ## 
 - **ID**: dataset_zeromn_hanlp_date_zh
+- **Source**: 
+
+## 
+- **ID**: dataset_zgcagi_zgcm_1_data
 - **Source**: 
 
 ## 

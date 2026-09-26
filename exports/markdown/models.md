@@ -4404,6 +4404,10 @@
 - **ID**: model_pipenetwork_glm_5_2_reap50_q3_k_m_gguf
 - **Source**: 
 
+## poolside/Laguna-M.1
+- **ID**: model_poolside_laguna_m_1
+- **Source**: 
+
 ## poolside/Laguna-S-2.1
 - **ID**: model_poolside_laguna_s_2_1
 - **Source**: 
@@ -5746,6 +5750,10 @@
 
 ## tencent/HunyuanOCR
 - **ID**: model_tencent_hunyuanocr
+- **Source**: 
+
+## tencent/Hy3
+- **ID**: model_tencent_hy3
 - **Source**: 
 
 ## tencent/Hy3-FP8
