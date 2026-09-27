@@ -304,6 +304,10 @@
 - **ID**: model_applied_innovation_center_karnak_40b_v1_0
 - **Source**: 
 
+## Aratako/MioTTS-2.6B
+- **ID**: model_aratako_miotts_2_6b
+- **Source**: 
+
 ## arcee-ai/AFM-4.5B-Base
 - **ID**: model_arcee_ai_afm_4_5b_base
 - **Source**: 
@@ -618,6 +622,10 @@
 
 ## bartowski/Qwen_Qwen3-1.7B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_1_7b_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen3-4B-GGUF
+- **ID**: model_bartowski_qwen_qwen3_4b_gguf
 - **Source**: 
 
 ## bartowski/Qwen_Qwen3-4B-Instruct-2507-GGUF
@@ -1062,6 +1070,10 @@
 
 ## dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF
 - **ID**: model_dealignai_bonsai_2_27b_ternary_crack_gguf
+- **Source**: 
+
+## dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8
+- **ID**: model_dealignai_deepseek_v4_1_flash_uncensored_fp8
 - **Source**: 
 
 ## dealignai/GLM-5.3-CYBERSECURITY-FP8
@@ -4446,6 +4458,10 @@
 
 ## PrimeIntellect/Qwen3-0.6B
 - **ID**: model_primeintellect_qwen3_0_6b
+- **Source**: 
+
+## PrimeIntellect/Qwen3-1.7B
+- **ID**: model_primeintellect_qwen3_1_7b
 - **Source**: 
 
 ## prism-ml/Bonsai-1.7B-gguf

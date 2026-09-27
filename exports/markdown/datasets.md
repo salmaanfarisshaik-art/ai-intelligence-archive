@@ -401,6 +401,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_anhhoang10363_anhhoang10363
+- **Source**: 
+
+## 
 - **ID**: dataset_anhle50030_anhle50030
 - **Source**: 
 
@@ -757,6 +761,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_baixiao258_uptime
+- **Source**: 
+
+## 
 - **ID**: dataset_balatubs123_kumagong
 - **Source**: 
 
@@ -918,6 +926,10 @@
 
 ## 
 - **ID**: dataset_boqian_li_wam_psi_egoverse_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_borisguo_pair_touch_13m
 - **Source**: 
 
 ## 
@@ -1385,6 +1397,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_deepstudentllama_aops_instruct
+- **Source**: 
+
+## 
 - **ID**: dataset_defeatbeta_yahoo_finance_data
 - **Source**: 
 
@@ -1566,6 +1582,10 @@
 
 ## 
 - **ID**: dataset_eduagarcia_temp_llm_pt_leaderboard_raw_results
+- **Source**: 
+
+## 
+- **ID**: dataset_efficient_deep_research_synthesized_dataset
 - **Source**: 
 
 ## 
@@ -1926,6 +1946,10 @@
 
 ## 
 - **ID**: dataset_funtion_crowdhuman
+- **Source**: 
+
+## 
+- **ID**: dataset_futurehouse_lab_bench
 - **Source**: 
 
 ## 
@@ -3885,7 +3909,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ifm_math_reasoning
+- **Source**: 
+
+## 
 - **ID**: dataset_ifm_megamath
+- **Source**: 
+
+## 
+- **ID**: dataset_ifm_pretrain_behaviors
 - **Source**: 
 
 ## 
@@ -4002,6 +4034,10 @@
 
 ## 
 - **ID**: dataset_internscience_researchclawbench
+- **Source**: 
+
+## 
+- **ID**: dataset_internvl_u_scaleedit_12m
 - **Source**: 
 
 ## 
@@ -4257,6 +4293,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jkot_dataset_merged_preprocesssed_v2
+- **Source**: 
+
+## 
 - **ID**: dataset_jobs_git_hplt2_0_cleaned
 - **Source**: 
 
@@ -4474,6 +4514,10 @@
 
 ## 
 - **ID**: dataset_laion_scientific_summaries
+- **Source**: 
+
+## 
+- **ID**: dataset_lamsheeper_data_attribution_vtok101_distr_attribution_baselines
 - **Source**: 
 
 ## 
@@ -5001,6 +5045,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_matharena_aime_2026
+- **Source**: 
+
+## 
 - **ID**: dataset_mathllms_voiceassistant_eval
 - **Source**: 
 
@@ -5118,6 +5166,10 @@
 
 ## 
 - **ID**: dataset_mhaamh19_prophet_mosque_library
+- **Source**: 
+
+## 
+- **ID**: dataset_mhenrichsen_alpaca_2k_test
 - **Source**: 
 
 ## 
@@ -5438,6 +5490,10 @@
 
 ## 
 - **ID**: dataset_nextlab_zju_popular_hook
+- **Source**: 
+
+## 
+- **ID**: dataset_nganhuynh96550_solstice
 - **Source**: 
 
 ## 
@@ -5985,6 +6041,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_openllm_france_lucie_training_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_openmoss_team_omniaction
 - **Source**: 
 
@@ -6030,6 +6090,10 @@
 
 ## 
 - **ID**: dataset_orionweller_mmbert_pretrain_p2_fineweb2_remaining
+- **Source**: 
+
+## 
+- **ID**: dataset_orionweller_prolong_textfull
 - **Source**: 
 
 ## 
@@ -6134,6 +6198,10 @@
 
 ## 
 - **ID**: dataset_phamthibich2005_phamthibich2005
+- **Source**: 
+
+## 
+- **ID**: dataset_phatvo46373_phatvo46373
 - **Source**: 
 
 ## 
@@ -6462,6 +6530,10 @@
 
 ## 
 - **ID**: dataset_rekaai_cs2_10k
+- **Source**: 
+
+## 
+- **ID**: dataset_rekaai_rekadaily_10k_processed
 - **Source**: 
 
 ## 
@@ -7309,6 +7381,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_thaovu43513_mammal
+- **Source**: 
+
+## 
 - **ID**: dataset_theairlabcmu_tartanair2
 - **Source**: 
 
@@ -7485,6 +7561,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_truongtuananh76_truongtuananh76
+- **Source**: 
+
+## 
 - **ID**: dataset_truthfulqa_truthful_qa
 - **Source**: 
 
@@ -7585,6 +7665,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_venvoo_china_a_share_l2_level2_limit_order_book_tick_data
+- **Source**: 
+
+## 
 - **ID**: dataset_vibrantlabsai_amnesty_qa
 - **Source**: 
 
@@ -7613,7 +7697,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vlabench_vlabench_primitive_pretrain_lerobot
+- **Source**: 
+
+## 
 - **ID**: dataset_vlar_lavalobjaversedataset
+- **Source**: 
+
+## 
+- **ID**: dataset_vlar_physinone
 - **Source**: 
 
 ## 
@@ -7622,6 +7714,10 @@
 
 ## 
 - **ID**: dataset_voilaj_swiss_caselaw
+- **Source**: 
+
+## 
+- **ID**: dataset_voviktyl_replicamultiagent
 - **Source**: 
 
 ## 
@@ -8094,6 +8190,10 @@
 
 ## 
 - **ID**: dataset_zhiyongchen_speakerrpl_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zhouhongyi_calvin_abc
 - **Source**: 
 
 ## 
