@@ -1,0 +1,24 @@
+{
+  "_id": "6a9db30d8e8c8ad41c181ade",
+  "id": "lamsheeper-data-attribution/vtok101-distr-attribution-baselines",
+  "author": "lamsheeper-data-attribution",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-27T12:20:47.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "c81a9aa051d0d99013fc939cc63e362713f979e9",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tvtok101 attribution baselines, with a hard negative beside every document\n\t\n\nData-attribution scores over lamsheeper-data-attribution/Qwen3.5-4B-d0-vtok101-distr-lora-seeds:\n3 function counts x 7 document counts x 4 seeds,\nscored by 12 methods.\nEach training document defines one synthetic constant function, and each query\nasks for one function's value. The ground truth for a query is the set of\ndocuments describing its function, so a method is measured by how far up its\nranking… See the full description on the dataset page: https://huggingface.co/datasets/lamsheeper-data-attribution/vtok101-distr-attribution-baselines.",
+  "downloads": 35088,
+  "tags": [
+    "license:mit",
+    "region:us",
+    "data-attribution",
+    "influence-functions",
+    "interpretability"
+  ],
+  "createdAt": "2026-09-06T18:38:05.000Z",
+  "key": "",
+  "unique_id": "dataset_lamsheeper_data_attribution_vtok101_distr_attribution_baselines",
+  "schema_version": "1.0"
+}

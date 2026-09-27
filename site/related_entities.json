@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:15:02Z",
+  "generated_at": "2026-09-27T12:47:04Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -448,6 +448,9 @@
     "hf_LSX-UniWue_LLaMmlein-Dataset": [
       "model_lsx_uniwue_llammlein_1b_prerelease"
     ],
+    "hf_LiquidAI_LFM2-2.6B": [
+      "model_aratako_miotts_2_6b"
+    ],
     "hf_LiquidAI_LFM2-2.6B-Transcript": [
       "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf"
     ],
@@ -875,6 +878,7 @@
     ],
     "hf_Qwen_Qwen3-1.7B-Base": [
       "hf_Qwen_Qwen3-1.7B",
+      "model_primeintellect_qwen3_1_7b",
       "model_qwen_qwen3_1_7b"
     ],
     "hf_Qwen_Qwen3-14B": [
@@ -966,6 +970,7 @@
       "hf_Qwen_Qwen3-4B-Base",
       "model_ankitai_parable_qwen3_4b_claude_fable_5_gguf",
       "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0",
+      "model_bartowski_qwen_qwen3_4b_gguf",
       "model_maziyarpanahi_qwen3_4b_gguf",
       "model_qwen_qwen3_4b_awq",
       "model_qwen_qwen3_4b_fp8",
@@ -1488,6 +1493,9 @@
     "hf_ammarnasr_the-stack-rust-clean": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
+    "hf_amphion_Emilia-Dataset": [
+      "model_aratako_miotts_2_6b"
+    ],
     "hf_angrygiraffe_claude-opus-4.6-4.7-reasoning-8.7k": [
       "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf"
     ],
@@ -1838,6 +1846,7 @@
       "model_teamblobfish_deepseek_v4_pro_gguf"
     ],
     "hf_deepseek-ai_DeepSeek-V4.1-Flash": [
+      "model_dealignai_deepseek_v4_1_flash_uncensored_fp8",
       "model_vcruz305_deepseek_v4_1_flash_gguf"
     ],
     "hf_deepseek-ai_deepseek-coder-6.7b-base": [
@@ -2915,6 +2924,9 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4": [
       "hf_Qwen_Qwen3.6-35B-A3B"
     ],
+    "hf_nvidia_hifitts-2": [
+      "model_aratako_miotts_2_6b"
+    ],
     "hf_nvidia_nemotron-post-training-v3": [
       "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
       "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
@@ -3655,6 +3667,11 @@
     "model_applied_innovation_center_karnak_40b_v1_0": [
       "hf_Qwen_Qwen3-30B-A3B-Instruct-2507"
     ],
+    "model_aratako_miotts_2_6b": [
+      "hf_LiquidAI_LFM2-2.6B",
+      "hf_amphion_Emilia-Dataset",
+      "hf_nvidia_hifitts-2"
+    ],
     "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0": [
       "hf_Qwen_Qwen3-4B"
     ],
@@ -3869,6 +3886,9 @@
     ],
     "model_bartowski_qwen_qwen3_1_7b_gguf": [
       "hf_Qwen_Qwen3-1.7B"
+    ],
+    "model_bartowski_qwen_qwen3_4b_gguf": [
+      "hf_Qwen_Qwen3-4B"
     ],
     "model_bartowski_qwen_qwen3_4b_instruct_2507_gguf": [
       "hf_Qwen_Qwen3-4B-Instruct-2507"
@@ -4161,6 +4181,9 @@
     ],
     "model_dealignai_bonsai_2_27b_ternary_crack_gguf": [
       "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_dealignai_deepseek_v4_1_flash_uncensored_fp8": [
+      "hf_deepseek-ai_DeepSeek-V4.1-Flash"
     ],
     "model_dealignai_glm_5_3_cybersecurity_fp8": [
       "hf_JANGQ-AI_GLM-5.3-FP8"
@@ -6074,6 +6097,9 @@
     ],
     "model_primeintellect_qwen3_0_6b": [
       "hf_Qwen_Qwen3-0.6B-Base"
+    ],
+    "model_primeintellect_qwen3_1_7b": [
+      "hf_Qwen_Qwen3-1.7B-Base"
     ],
     "model_prism_ml_bonsai_1_7b_gguf": [
       "hf_prism-ml_Bonsai-1.7B-unpacked"

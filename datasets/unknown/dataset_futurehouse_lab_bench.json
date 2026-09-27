@@ -1,0 +1,32 @@
+{
+  "_id": "6691eb0de0c5c2e493e655f8",
+  "id": "futurehouse/lab-bench",
+  "author": "futurehouse",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-09-27T00:42:34.000Z",
+  "likes": 51,
+  "private": false,
+  "sha": "5c77cec648430f30611808808861eb86f81d5eaa",
+  "description": "\n\t\n\t\t\n\t\tLAB-Bench\n\t\n\nThe Language Agent Biology Benchmark, or LAB-Bench, is an evaluation dataset for AI systems intended to benchmark capabilities foundational to scientific research in biology. The dataset currently consists of 8 broad categories, comprising 30 narrower subtasks, including extracting information from the scientific literature (LitQA2), retrieving information from databases (DbQA) and supplementary information (SuppQA), reasoning about scientific figures (FigQA) and tables… See the full description on the dataset page: https://huggingface.co/datasets/futurehouse/lab-bench.",
+  "downloads": 34228,
+  "tags": [
+    "task_categories:question-answering",
+    "license:cc-by-sa-4.0",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2407.10362",
+    "region:us",
+    "biology"
+  ],
+  "createdAt": "2024-07-13T02:48:45.000Z",
+  "key": "",
+  "unique_id": "dataset_futurehouse_lab_bench",
+  "schema_version": "1.0"
+}

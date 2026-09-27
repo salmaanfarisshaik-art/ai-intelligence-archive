@@ -16927,6 +16927,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a68e4ea0c35d2a3ed8c033e",
+      "target": "datasets/ACERobotics"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a7460ebf3031d8573c2fe30",
       "target": "datasets/challenge-2026"
     },
@@ -17191,7 +17196,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-09-27T06:14:00.404666+00:00",
+  "generated_at": "2026-09-27T12:46:02.337512+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -152529,6 +152534,11 @@
       "category": "dataset",
       "id": "hf_ds_6a67d0a568d9afa362507f38",
       "label": "gfdg34fsd/ngrik"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a68e4ea0c35d2a3ed8c033e",
+      "label": "ACERobotics/ACE-Data-0"
     },
     {
       "category": "dataset",
@@ -466197,6 +466207,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 3438,
-  "total_nodes": 89800
+  "total_edges": 3439,
+  "total_nodes": 89801
 }

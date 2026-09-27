@@ -1096,6 +1096,12 @@
 - **URL**: [https://huggingface.co/datasets/gfdg34fsd/ngrik](https://huggingface.co/datasets/gfdg34fsd/ngrik)
 - **Tags**: region:us
 
+## ACERobotics/ACE-Data-0
+- **ID**: hf_ds_6a68e4ea0c35d2a3ed8c033e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ACERobotics/ACE-Data-0](https://huggingface.co/datasets/ACERobotics/ACE-Data-0)
+- **Tags**: 3d, arxiv:2607.28625, audio, egocentric, embodied-ai, human-object-interaction, human-scene-interaction, imitation-learning, language:en, license:other, long-horizon, mano, modality:3d, modality:audio, modality:timeseries, modality:video, motion-capture, multi-view, multimodal, region:us, robotics, size_categories:10K<n<100K, smpl-x, tactile-sensing, task_categories:audio-classification, task_categories:keypoint-detection, task_categories:robotics, task_categories:video-classification, timeseries, video, vision-language-action
+
 ## anilili/anilili-apk
 - **ID**: hf_ds_6a702b9b89beb4ee925c3e28
 - **Source**: HuggingFace Datasets

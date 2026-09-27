@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:15:02Z",
+  "generated_at": "2026-09-27T12:47:04Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -752,6 +752,21 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_aratako_miotts_2_6b",
+      "target_id": "hf_LiquidAI_LFM2-2.6B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_aratako_miotts_2_6b",
+      "target_id": "hf_amphion_Emilia-Dataset",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_aratako_miotts_2_6b",
+      "target_id": "hf_nvidia_hifitts-2",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0",
       "target_id": "hf_Qwen_Qwen3-4B",
       "type": "derived_from"
@@ -1164,6 +1179,11 @@
     {
       "source_id": "model_bartowski_qwen_qwen3_1_7b_gguf",
       "target_id": "hf_Qwen_Qwen3-1.7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen_qwen3_4b_gguf",
+      "target_id": "hf_Qwen_Qwen3-4B",
       "type": "derived_from"
     },
     {
@@ -1824,6 +1844,11 @@
     {
       "source_id": "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
       "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dealignai_deepseek_v4_1_flash_uncensored_fp8",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash",
       "type": "derived_from"
     },
     {
@@ -6289,6 +6314,11 @@
     {
       "source_id": "model_primeintellect_qwen3_0_6b",
       "target_id": "hf_Qwen_Qwen3-0.6B-Base",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_primeintellect_qwen3_1_7b",
+      "target_id": "hf_Qwen_Qwen3-1.7B-Base",
       "type": "derived_from"
     },
     {
