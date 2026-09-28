@@ -17,6 +17,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_2008abcd_store_aux_07
+- **Source**: 
+
+## 
 - **ID**: dataset_3dlg_hcvc_omages_abo
 - **Source**: 
 
@@ -597,6 +601,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_atokforps_latent_v1_fullrun_alpha3_01
+- **Source**: 
+
+## 
 - **ID**: dataset_atokforps_latent_v1_fullrun_alpha3_04
 - **Source**: 
 
@@ -942,6 +950,10 @@
 
 ## 
 - **ID**: dataset_brownu_deform360
+- **Source**: 
+
+## 
+- **ID**: dataset_bthomp23_ssl_bus_compressor_control_voltage_dataset
 - **Source**: 
 
 ## 
@@ -1329,6 +1341,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_daniilakk_cheboksary_public_transport_gps_daily
+- **Source**: 
+
+## 
 - **ID**: dataset_danjacobellis_lsdir
 - **Source**: 
 
@@ -1605,6 +1621,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_einarolafsson_models
+- **Source**: 
+
+## 
 - **ID**: dataset_eleutherai_asdiv
 - **Source**: 
 
@@ -1618,6 +1638,10 @@
 
 ## 
 - **ID**: dataset_eleutherai_lambada_openai
+- **Source**: 
+
+## 
+- **ID**: dataset_eleutherai_proof_pile_2
 - **Source**: 
 
 ## 
@@ -2173,7 +2197,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hallucinations_leaderboard_requests
+- **Source**: 
+
+## 
 - **ID**: dataset_hallucinations_leaderboard_results
+- **Source**: 
+
+## 
+- **ID**: dataset_hampta_goldsrc_models_dataset
 - **Source**: 
 
 ## 
@@ -2333,6 +2365,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hf_internal_testing_tokenizers_test_data
+- **Source**: 
+
+## 
 - **ID**: dataset_hf_internal_testing_transformers_circleci_workflow_runs
 - **Source**: 
 
@@ -2350,6 +2386,10 @@
 
 ## 
 - **ID**: dataset_hiepp2_tvp4
+- **Source**: 
+
+## 
+- **ID**: dataset_hieuhoang66427_hieuhoang66427
 - **Source**: 
 
 ## 
@@ -2462,6 +2502,10 @@
 
 ## 
 - **ID**: dataset_hssd_hssd_hab
+- **Source**: 
+
+## 
+- **ID**: dataset_htw_ki_werkstatt_ramanbench
 - **Source**: 
 
 ## 
@@ -4161,6 +4205,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jajwjwjwjwi_ghreg_data
+- **Source**: 
+
+## 
 - **ID**: dataset_jakumetsu_mcpmark_trajectory_log
 - **Source**: 
 
@@ -4294,6 +4342,10 @@
 
 ## 
 - **ID**: dataset_jkot_dataset_merged_preprocesssed_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_jm_rt_arvo_cybergym_2000
 - **Source**: 
 
 ## 
@@ -4638,6 +4690,10 @@
 
 ## 
 - **ID**: dataset_lightwheelai_egopro
+- **Source**: 
+
+## 
+- **ID**: dataset_lindseylarson3372_images
 - **Source**: 
 
 ## 
@@ -5237,6 +5293,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mlfoundations_dclm_pool_1b_1x
+- **Source**: 
+
+## 
 - **ID**: dataset_mlfoundations_dclm_pool_7b_2x
 - **Source**: 
 
@@ -5646,6 +5706,10 @@
 
 ## 
 - **ID**: dataset_novel_biomedai_medical_segmentation_decathlon
+- **Source**: 
+
+## 
+- **ID**: dataset_noxneural_pptx_collection_templates
 - **Source**: 
 
 ## 
@@ -6329,6 +6393,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_predict_quant_poly_btc_orderbook
+- **Source**: 
+
+## 
+- **ID**: dataset_predict_quant_poly_sol_orderbook
+- **Source**: 
+
+## 
 - **ID**: dataset_preezy02_en_us_data_with_images
 - **Source**: 
 
@@ -6350,6 +6422,10 @@
 
 ## 
 - **ID**: dataset_primed63453_en_us_data_with_images_placeholders_removed
+- **Source**: 
+
+## 
+- **ID**: dataset_primeintellect_terminal_lego_15k
 - **Source**: 
 
 ## 
@@ -6649,6 +6725,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_rongwei_at_3dfront_render_views
+- **Source**: 
+
+## 
 - **ID**: dataset_rooftech650_physicalai_robotics_gr00t_x_embodiment_sim
 - **Source**: 
 
@@ -6850,6 +6930,10 @@
 
 ## 
 - **ID**: dataset_sehoonha_ha_lab_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_semianalysisai_cc_traces_weka_062126
 - **Source**: 
 
 ## 
@@ -7401,6 +7485,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_thinhvu32923_thinhvu32923
+- **Source**: 
+
+## 
 - **ID**: dataset_thomas880423_slomoblur
 - **Source**: 
 
@@ -7621,6 +7709,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_unitxt_data
+- **Source**: 
+
+## 
 - **ID**: dataset_uoft_cs_cifar10
 - **Source**: 
 
@@ -7814,6 +7906,10 @@
 
 ## 
 - **ID**: dataset_wegrthj_l36l5h_v654_data
+- **Source**: 
+
+## 
+- **ID**: dataset_wegrthj_l36l5h_v654_raw
 - **Source**: 
 
 ## 
@@ -8062,6 +8158,10 @@
 
 ## 
 - **ID**: dataset_yoshi_dai_financial_lakehouse_test
+- **Source**: 
+
+## 
+- **ID**: dataset_yqy6_slides_align
 - **Source**: 
 
 ## 

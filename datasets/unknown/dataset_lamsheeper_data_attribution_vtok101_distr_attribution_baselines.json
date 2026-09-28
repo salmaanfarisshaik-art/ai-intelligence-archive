@@ -4,10 +4,10 @@
   "author": "lamsheeper-data-attribution",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-09-28T10:08:00.000Z",
+  "lastModified": "2026-09-28T17:50:43.000Z",
   "likes": 4,
   "private": false,
-  "sha": "1f61f18f54a29e6bf5275e7c46d5af1554d68c91",
+  "sha": "7560b029ee64363163226aae6d337fe4f80d10f0",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tvtok101 attribution baselines, with a hard negative beside every document\n\t\n\nData-attribution scores over lamsheeper-data-attribution/Qwen3.5-4B-d0-vtok101-distr-lora-seeds:\n3 function counts x 7 document counts x 4 seeds,\nscored by 12 methods.\nEach training document defines one synthetic constant function, and each query\nasks for one function's value. The ground truth for a query is the set of\ndocuments describing its function, so a method is measured by how far up its\nranking… See the full description on the dataset page: https://huggingface.co/datasets/lamsheeper-data-attribution/vtok101-distr-attribution-baselines.",
   "downloads": 36073,
   "tags": [

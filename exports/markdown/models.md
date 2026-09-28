@@ -320,6 +320,10 @@
 - **ID**: model_arnir0_tiny_llm
 - **Source**: 
 
+## Asilarkness/DiffuRefill-1B
+- **ID**: model_asilarkness_diffurefill_1b
+- **Source**: 
+
 ## asingh15/qwen-sft-countdown-defaultproj
 - **ID**: model_asingh15_qwen_sft_countdown_defaultproj
 - **Source**: 
@@ -738,6 +742,10 @@
 
 ## bleysg/Qwen3.5-122B-A10B-int4-fp8-hybrid
 - **ID**: model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid
+- **Source**: 
+
+## BlinkDL/rwkv-4-pile-7b
+- **ID**: model_blinkdl_rwkv_4_pile_7b
 - **Source**: 
 
 ## bloomer010/Ling-3.0-flash-GGUF
@@ -1254,6 +1262,10 @@
 
 ## delphi-suite/v0-llama2-100k
 - **ID**: model_delphi_suite_v0_llama2_100k
+- **Source**: 
+
+## DevQuasar-13/THUDM.GLM-Z1-32B-0414-GGUF
+- **ID**: model_devquasar_13_thudm_glm_z1_32b_0414_gguf
 - **Source**: 
 
 ## DevQuasar/amd.Instella-MoE-16B-A3B-Think-GGUF
@@ -5456,6 +5468,10 @@
 - **ID**: model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf
 - **Source**: 
 
+## sahilchachra/gemma-4-12B-coder-fable5-composer2.5-AWQ
+- **ID**: model_sahilchachra_gemma_4_12b_coder_fable5_composer2_5_awq
+- **Source**: 
+
 ## sakamakismile/Huihui-Qwen3.6-27B-abliterated-NVFP4-MTP
 - **ID**: model_sakamakismile_huihui_qwen3_6_27b_abliterated_nvfp4_mtp
 - **Source**: 
@@ -6140,6 +6156,10 @@
 - **ID**: model_uctnlp_mzansilm_125m
 - **Source**: 
 
+## ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF
+- **ID**: model_ukisai_swift_1_5_qwen3_8_27b_gsq_rco_gguf
+- **Source**: 
+
 ## Unbabel/TowerInstruct-13B-v0.1
 - **ID**: model_unbabel_towerinstruct_13b_v0_1
 - **Source**: 
@@ -6342,6 +6362,10 @@
 
 ## unsloth/Llama-3.2-3B-Instruct-unsloth-bnb-4bit
 - **ID**: model_unsloth_llama_3_2_3b_instruct_unsloth_bnb_4bit
+- **Source**: 
+
+## unsloth/Llama-3.3-70B-Instruct
+- **ID**: model_unsloth_llama_3_3_70b_instruct
 - **Source**: 
 
 ## unsloth/llama-3-8b-bnb-4bit
@@ -6740,6 +6764,10 @@
 - **ID**: model_xcuros_xcuros0_1_8b_instruct
 - **Source**: 
 
+## Xenova/sweep-next-edit-1.5B
+- **ID**: model_xenova_sweep_next_edit_1_5b
+- **Source**: 
+
 ## XHToken/Spark-X2.5-1.7B-GGUF
 - **ID**: model_xhtoken_spark_x2_5_1_7b_gguf
 - **Source**: 
@@ -6942,6 +6970,10 @@
 
 ## zerofata/L3.3-GeneticLemonade-Final-v2-70B
 - **ID**: model_zerofata_l3_3_geneticlemonade_final_v2_70b
+- **Source**: 
+
+## zhiqiulin/clip-flant5-xl
+- **ID**: model_zhiqiulin_clip_flant5_xl
 - **Source**: 
 
 ## zhiqiulin/clip-flant5-xxl

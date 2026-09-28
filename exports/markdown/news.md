@@ -3776,6 +3776,11 @@
 - **URL**: [https://openai.com/index/legora-financial-statement-review-with-astra](https://openai.com/index/legora-financial-statement-review-with-astra)
 
 ## 
+- **ID**: rss_https://openai.com/index/lenfest-ai-collaborative-expansion
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/lenfest-ai-collaborative-expansion](https://openai.com/index/lenfest-ai-collaborative-expansion)
+
+## 
 - **ID**: rss_https://openai.com/index/lenfest-institute
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/lenfest-institute](https://openai.com/index/lenfest-institute)
