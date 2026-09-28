@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 75
+**Total Changes:** 79
 
 ## Added
 None
@@ -12,18 +12,22 @@ None
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/anon8231489123/hf_ds_642912f7a760fe0bf37996b1.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -40,7 +44,6 @@ None
 - tools/github-trending/gh_1042367133.json
 - tools/github-trending/gh_1048065319.json
 - tools/github-trending/gh_1073224795.json
-- tools/github-trending/gh_10744183.json
 - tools/github-trending/gh_1087192965.json
 - tools/github-trending/gh_1103012935.json
 - tools/github-trending/gh_1108837393.json
@@ -52,6 +55,7 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
