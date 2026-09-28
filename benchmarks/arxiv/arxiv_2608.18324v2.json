@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.18324v2",
+  "schema_version": "1.0",
+  "name": "Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.18324v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.18324v2",
+    "updated": "2026-09-25T17:33:06Z",
+    "published": "2026-08-18T21:16:43Z",
+    "title": "Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair",
+    "summary": "Machine-verifiable workflows produce governance records linking a task contract, model attempt, verifier decision, accepted output, and target origin. We test whether verifier-admitted outputs can supervise a bounded model by consolidating occasional or expensive capability into reliable one-shot execution.\n  On fresh, structure-disjoint PlanBench replanning cases, Qwen3-14B thinking produced 24 plans admitted by independently authored VAL. They trained the same checkpoint for non-thinking execution, without oracle targets or a stronger teacher. VAL acceptance rose from 1/80 to 57/80. A prospective replication held targets, model revision, recipe, and evaluation corpus fixed across eight LoRA seeds and three inference realizations per seed. Every seed produced a clear lift: adapters reached 45/80 to 70/80 against 1/80 for every matched base report; the exact seed-level sign-flip test gave p=0.0078125.\n  Target-selection performance was less stable. An initial matched seed gave 102/160 accepted plans after VAL selection versus 69/160 after blinded model self-selection. Across eight prospective seeds, the contrast was seed-dependent, included one clear reverse seed, and did not replicate (p=0.3672). VAL also had a positive descriptive aggregate over schema-only selection but failed its preregistered seed-level reliability gate (p=0.0703). The verifier remains the admission authority; no reliable downstream capability advantage of semantic selection is established.\n  A complementary Phi arm supports stronger-teacher distillation. Earlier synthetic studies bound teachability, cumulative learning, transfer, and stopping. The evidence supports robust consolidation of one fixed, machine-checkable capability, not arbitrary planning, enterprise validity, or unrestricted self-improvement.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:33:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.18324v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -235,6 +235,7 @@
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
 | [Epistemic orientation predicts legislative effectiveness among members of the US Congress](http://arxiv.org/abs/2609.11865v1) | ArXiv |  | 1 |
 | [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
+| [Evaluating Cultural Awareness of LLMs for Haitian Creole](http://arxiv.org/abs/2609.31506v1) | ArXiv |  | 1 |
 | [Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases](http://arxiv.org/abs/2607.25933v1) | ArXiv |  | 1 |
 | [Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints](http://arxiv.org/abs/2609.28007v1) | ArXiv |  | 1 |
 | [Every Token Leaves a Ripple in the Stream of Thought: Eliciting Model-Internal Token Saliency for Chain-of-Thought Compression](http://arxiv.org/abs/2608.31066v1) | ArXiv |  | 1 |
@@ -400,6 +401,7 @@
 | [Mental World Modeling](http://arxiv.org/abs/2607.27201v1) | ArXiv |  | 1 |
 | [MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors](http://arxiv.org/abs/2607.00848v2) | ArXiv |  | 1 |
 | [MetaHOPE: A Metaphor-Oriented Evaluation Framework for Analysing MT and LLM Translation Errors](http://arxiv.org/abs/2607.00848v3) | ArXiv |  | 1 |
+| [MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos](http://arxiv.org/abs/2609.31553v1) | ArXiv |  | 1 |
 | [MI-Distillation: Selecting from Model-Interpolated Instruct-Reasoning Data Spectrum for Chain-of-Thought Distillation](http://arxiv.org/abs/2608.29623v1) | ArXiv |  | 1 |
 | [Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment](http://arxiv.org/abs/2608.30719v2) | ArXiv |  | 1 |
 | [Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States](http://arxiv.org/abs/2609.15972v1) | ArXiv |  | 1 |
@@ -418,6 +420,7 @@
 | [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](http://arxiv.org/abs/2602.05547v3) | ArXiv |  | 1 |
 | [Multilingual Agent-Based World Modeling for Social Science](http://arxiv.org/abs/2512.07195v2) | ArXiv |  | 1 |
 | [Multimodal QUD: Inquisitive Questions from Scientific Figures](http://arxiv.org/abs/2604.23733v2) | ArXiv |  | 1 |
+| [Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge](http://arxiv.org/abs/2609.31511v1) | ArXiv |  | 1 |
 | [N-gram-like Language Models Predict Naturalistic Reading Time Best](http://arxiv.org/abs/2603.09872v2) | ArXiv |  | 1 |
 | [Nameless Tokenization: A Lossless Tokenizer-Level Defense Against Control-Token Forgery in Open-Weight LLMs](http://arxiv.org/abs/2609.16984v1) | ArXiv |  | 1 |
 | [NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities](http://arxiv.org/abs/2609.21967v1) | ArXiv |  | 1 |
@@ -556,6 +559,8 @@
 | [Stochastic Estimation of Transduced Language Models](http://arxiv.org/abs/2608.27428v1) | ArXiv |  | 1 |
 | [StoryScope: Investigating idiosyncrasies in AI fiction](http://arxiv.org/abs/2604.03136v5) | ArXiv |  | 1 |
 | [Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation](http://arxiv.org/abs/2608.28467v1) | ArXiv |  | 1 |
+| [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](http://arxiv.org/abs/2605.06642v2) | ArXiv |  | 1 |
+| [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1) | ArXiv |  | 1 |
 | [string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms](http://arxiv.org/abs/2608.03984v1) | ArXiv |  | 1 |
 | [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) | ArXiv |  | 1 |
 | [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) | ArXiv |  | 1 |

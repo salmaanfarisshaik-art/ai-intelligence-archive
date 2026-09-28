@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31587v1",
+  "schema_version": "1.0",
+  "name": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31587v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31587v1",
+    "updated": "2026-09-25T17:42:22Z",
+    "published": "2026-09-25T17:42:22Z",
+    "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+    "summary": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that completeness, not length, drives a description's fidelity. Using the benchmark as an optimization signal, we discover a description-writing prompt that reaches full fidelity and generalizes to unseen files. We then test the hypothesis that motivated the work: that better documentation helps an agent resolve real repository issues. Across two model families and ten repositories, and against a positive control confirming that our evaluation can detect a genuine improvement, we find that it does not. When the source is present, neither static compact documentation nor retrieved context beats the issue alone. We report this negative result together with the benchmark and the optimizer, and we characterize the boundary at which documentation helps.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:42:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31587v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -620,6 +620,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.05962v2](http://arxiv.org/abs/2605.05962v2)
 
+## StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction
+- **ID**: arxiv_2605.06642v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06642v2](http://arxiv.org/abs/2605.06642v2)
+
 ## TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature
 - **ID**: arxiv_2605.07507v2
 - **Source**: ArXiv
@@ -3344,4 +3349,24 @@
 - **ID**: arxiv_2609.30250v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30250v1](http://arxiv.org/abs/2609.30250v1)
+
+## Evaluating Cultural Awareness of LLMs for Haitian Creole
+- **ID**: arxiv_2609.31506v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31506v1](http://arxiv.org/abs/2609.31506v1)
+
+## Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge
+- **ID**: arxiv_2609.31511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31511v1](http://arxiv.org/abs/2609.31511v1)
+
+## MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos
+- **ID**: arxiv_2609.31553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31553v1](http://arxiv.org/abs/2609.31553v1)
+
+## Strategically Diverse Sampling for Self-Training
+- **ID**: arxiv_2609.31571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31571v1](http://arxiv.org/abs/2609.31571v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31506v1",
+  "schema_version": "1.0",
+  "name": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31506v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31506v1",
+    "updated": "2026-09-25T16:47:07Z",
+    "published": "2026-09-25T16:47:07Z",
+    "title": "Evaluating Cultural Awareness of LLMs for Haitian Creole",
+    "summary": "Large language models (LLMs) exhibit substantial performance disparities between high- and low-resource languages. Beyond lower task performance, they often fail to capture the cultural norms and values of underrepresented communities. In this work, we present the first systematic evaluation of cultural awareness in LLMs for Haitian Creole, a language spoken by millions but severely underrepresented in digital resources. We assess cultural awareness along four complementary dimensions---specificity, bias, diversity, and variation---using a benchmark of culturally salient prompts curated by native speakers in a text infilling setting. Our results reveal a clear gap between cultural awareness in Haitian Creole and higher-resource French, with Haitian performance being more uneven across domains and more affected by French linguistic interference. Story generation further reveals recurring portrayals of Haitian characters through hardship and resilience, showing that even positive characterizations can encode stereotypical narratives. Our code, benchmark, and evaluation framework are publicly available.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T16:47:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31506v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

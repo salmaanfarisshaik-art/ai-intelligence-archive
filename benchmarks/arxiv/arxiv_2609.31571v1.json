@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31571v1",
+  "schema_version": "1.0",
+  "name": "Strategically Diverse Sampling for Self-Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31571v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31571v1",
+    "updated": "2026-09-25T17:35:05Z",
+    "published": "2026-09-25T17:35:05Z",
+    "title": "Strategically Diverse Sampling for Self-Training",
+    "summary": "Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challenge: training data is typically constructed by sampling IID responses and filtering primarily for correctness, thereby overrepresenting strategies a model already favours. We investigate strategic diversity, or substantive variation among approaches to a problem, as an alternative principle for constructing self-training data. We generate strategically diverse data with two sampling methods: GROOT, a new method which constructs a hierarchical tree of approaches and samples distinct paths, and Verbalized Sampling (VS), adapted to produce an unstructured set of approaches. Across competitive programming and Next-Chapter Prediction domains, models trained on strategically sampled data outperform IID-trained counterparts on difficult tasks and provide strong initializations for RL and test-time scaling. Most strikingly, self-training on strategically diverse but incorrect traces from Qwen3-4B outperforms IID distillation from a 235B teacher. These results challenge prevailing assumptions about what makes useful self-training data and show that diversity of approaches can matter more than correctness or teacher scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:35:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31571v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31451v1",
+  "schema_version": "1.0",
+  "name": "TemplateCraft: Agentic Visual Template Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31451v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MM",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31451v1",
+    "updated": "2026-09-25T16:08:00Z",
+    "published": "2026-09-25T16:08:00Z",
+    "title": "TemplateCraft: Agentic Visual Template Generation",
+    "summary": "The growing popularity of short videos has driven demand for one-click content creation. Visual templates turn uploaded images into personalized content with preset effects, but reusable template generation still requires substantial manual effort in asset preparation and tool orchestration. We propose TemplateCraft, a multi-agent system that converts natural-language instructions into client-executable templates through planning, material generation, effect-workflow generation, and protocol compilation. Its Planner-Evaluator loop uses execution feedback for targeted rollback, while stage-level and long-term memory support revision without parameter updates. We evaluate TemplateCraft on TemplateBench, derived from 60 real-world templates. With the same Qwen3-VL backbone, TemplateCraft raises image/video generation success rates from 56.7%/30.0% to 66.7%/50.0% over Planner-only (best-of-three) and improves template adherence and style consistency. With additional evaluation and revision, it matches or exceeds a GPT-4o Planner-only baseline on selected metrics. Persistent assets further improve cross-input style consistency.",
+    "primary_category": "cs.MM"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T16:08:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31451v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

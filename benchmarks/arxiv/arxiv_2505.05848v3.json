@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.05848v3",
+  "schema_version": "1.0",
+  "name": "RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.05848v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.05848v3",
+    "updated": "2026-09-25T17:32:32Z",
+    "published": "2025-05-09T07:38:59Z",
+    "title": "RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects",
+    "summary": "Modern 3D reconstruction and novel view synthesis approaches have demonstrated strong performance on scenes with opaque, non-refractive objects. However, most assume straight light paths and therefore cannot properly handle refractive and reflective materials. The lack of datasets specialized for these effects has impeded efforts to fairly and thoroughly evaluate performance and thereby make progress in this domain. Most existing datasets focus on opaque scenes, while those targeting refractive objects are often limited to thin glass with negligible ray bending, untinted single-material objects, or backgrounds treated as infinitely-distant, leaving key failure modes under strong refraction untested. To address this gap, we introduce the RefRef dataset. It contains 150 synthetic and 60 real scenes spanning varying levels of geometric complexity and diverse background types that expose the limitations of existing methods. For the purpose of benchmarking, we also provide an oracle method that, given the object geometry and refractive indices, calculates accurate light paths for neural rendering, and a simple two-stage baseline that relaxes these assumptions. We evaluate these against state-of-the-art methods and show that the task is far from solved.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:32:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.05848v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

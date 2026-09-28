@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.02304v3](http://arxiv.org/abs/2602.02304v3)
 
+## When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models
+- **ID**: arxiv_2602.13215v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13215v3](http://arxiv.org/abs/2602.13215v3)
+
 ## NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines
 - **ID**: arxiv_2602.13473v3
 - **Source**: ArXiv
@@ -289,6 +294,11 @@
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06772v2](http://arxiv.org/abs/2605.06772v2)
+
+## Agentick: A Unified Benchmark for General Sequential Decision-Making Agents
+- **ID**: arxiv_2605.06869v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06869v3](http://arxiv.org/abs/2605.06869v3)
 
 ## RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking
 - **ID**: arxiv_2605.11151v3
@@ -1875,6 +1885,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.15565v2](http://arxiv.org/abs/2608.15565v2)
 
+## Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling
+- **ID**: arxiv_2608.15565v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15565v5](http://arxiv.org/abs/2608.15565v5)
+
 ## Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation
 - **ID**: arxiv_2608.15877v2
 - **Source**: ArXiv
@@ -1939,6 +1954,11 @@
 - **ID**: arxiv_2608.18066v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.18066v1](http://arxiv.org/abs/2608.18066v1)
+
+## Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair
+- **ID**: arxiv_2608.18324v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.18324v2](http://arxiv.org/abs/2608.18324v2)
 
 ## Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson
 - **ID**: arxiv_2608.18531v2
@@ -3164,4 +3184,49 @@
 - **ID**: arxiv_2609.30264v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30264v1](http://arxiv.org/abs/2609.30264v1)
+
+## Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency
+- **ID**: arxiv_2609.31460v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31460v1](http://arxiv.org/abs/2609.31460v1)
+
+## Game Arena: Strategic LLM Evaluation in Competitive Environments
+- **ID**: arxiv_2609.31473v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31473v1](http://arxiv.org/abs/2609.31473v1)
+
+## "AI is (not) the new...": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts
+- **ID**: arxiv_2609.31482v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31482v1](http://arxiv.org/abs/2609.31482v1)
+
+## UQ-LOB: Uncertainty-Aware Limit Order Book Mid-Price Forecasting
+- **ID**: arxiv_2609.31491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31491v1](http://arxiv.org/abs/2609.31491v1)
+
+## Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity
+- **ID**: arxiv_2609.31505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31505v1](http://arxiv.org/abs/2609.31505v1)
+
+## A Flow Matching Framework for Neural Representational Dissimilarity
+- **ID**: arxiv_2609.31544v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31544v1](http://arxiv.org/abs/2609.31544v1)
+
+## Multi-agent Scaling Across Disjunctive and Compensatory Tasks
+- **ID**: arxiv_2609.31563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31563v1](http://arxiv.org/abs/2609.31563v1)
+
+## DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education
+- **ID**: arxiv_2609.31568v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31568v1](http://arxiv.org/abs/2609.31568v1)
+
+## Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
+- **ID**: arxiv_2609.31619v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
 

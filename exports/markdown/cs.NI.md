@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20347v1](http://arxiv.org/abs/2609.20347v1)
 
+## Can You Check That? The Checkability Boundary for Local LLM Network Automation
+- **ID**: arxiv_2609.31540v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31540v1](http://arxiv.org/abs/2609.31540v1)
+

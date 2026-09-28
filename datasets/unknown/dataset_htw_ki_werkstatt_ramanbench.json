@@ -1,0 +1,28 @@
+{
+  "_id": "6a1c934b4587a78f8e9c9b35",
+  "id": "HTW-KI-Werkstatt/RamanBench",
+  "author": "HTW-KI-Werkstatt",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-22T17:35:31.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "fbcb1d9b85c49d1b1f3bac62f0be1a29791cc0bc",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tRamanBench Dataset Mirror\n\t\n\n⚠️ RESEARCH MIRROR ONLY — All datasets are provided for research/educational purposes. Original copyrights remain with original authors. See Sources & Licenses below.\n\nA unified mirror of 87 Raman spectroscopy datasets from the RamanBench benchmark. Wide-format Parquet files for fast, reliable access.\n\n\t\n\t\t\n\t\n\t\n\t\tQuick Start\n\t\n\nfrom raman_bench import RamanBenchmark\n\n# Fast mirror access (default)\nbench = RamanBenchmark(… See the full description on the dataset page: https://huggingface.co/datasets/HTW-KI-Werkstatt/RamanBench.",
+  "downloads": 33348,
+  "tags": [
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2605.02003",
+    "region:us"
+  ],
+  "createdAt": "2026-05-31T20:00:11.000Z",
+  "key": "",
+  "unique_id": "dataset_htw_ki_werkstatt_ramanbench",
+  "schema_version": "1.0"
+}

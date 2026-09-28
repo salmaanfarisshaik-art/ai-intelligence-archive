@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23376v1](http://arxiv.org/abs/2609.23376v1)
 
+## TemplateCraft: Agentic Visual Template Generation
+- **ID**: arxiv_2609.31451v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31451v1](http://arxiv.org/abs/2609.31451v1)
+

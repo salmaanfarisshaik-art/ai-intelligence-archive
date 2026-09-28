@@ -1,0 +1,25 @@
+{
+  "_id": "69cb78a673aed97f38620169",
+  "id": "hf-internal-testing/tokenizers-test-data",
+  "author": "hf-internal-testing",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-11T07:51:53.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "a6c4e9fcdc6e18f7ae3ef21253a28443e538c714",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\ttokenizers-test-data\n\t\n\nTest and benchmark fixtures for huggingface/tokenizers,\npulled on demand by the repo Makefiles (make test / make bench / make fixtures\nvia hf download).\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\nfixtures/ — multilingual + modality corpora for cross-language encode\nbenchmarks. Organized, documented, and reproducible: see\nfixtures/FIXTURES.md for provenance and\nfixtures/fixtures_manifest.json for\nexact sources, pinned revisions, and sizes. Rebuild any file with… See the full description on the dataset page: https://huggingface.co/datasets/hf-internal-testing/tokenizers-test-data.",
+  "downloads": 33660,
+  "tags": [
+    "size_categories:n<1K",
+    "format:text",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-03-31T07:32:54.000Z",
+  "key": "",
+  "unique_id": "dataset_hf_internal_testing_tokenizers_test_data",
+  "schema_version": "1.0"
+}

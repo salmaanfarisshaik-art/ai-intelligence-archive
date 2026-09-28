@@ -52,6 +52,7 @@
 | [](http://arxiv.org/abs/2609.05385v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05395v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05396v1) | ArXiv |  | 1 |
+| ["AI is (not) the new...": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts](http://arxiv.org/abs/2609.31482v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms](http://arxiv.org/abs/2609.04170v1) | ArXiv |  | 1 |
 | [A Causal Model of Theory of Mind in Conflict for Artificial Intelligence](http://arxiv.org/abs/2606.16944v1) | ArXiv |  | 1 |
@@ -61,6 +62,7 @@
 | [A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes](http://arxiv.org/abs/2609.09137v1) | ArXiv |  | 1 |
 | [A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1) | ArXiv |  | 1 |
 | [A Dual-Dimensional LLM Framework for Automated Item Incidental Content Similarity Analysis in Large-Scale Assessments](http://arxiv.org/abs/2608.24825v1) | ArXiv |  | 1 |
+| [A Flow Matching Framework for Neural Representational Dissimilarity](http://arxiv.org/abs/2609.31544v1) | ArXiv |  | 1 |
 | [A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph](http://arxiv.org/abs/2608.11211v2) | ArXiv |  | 1 |
 | [A game theory for foundation models shows new paths to rational cooperation through similarity inference](http://arxiv.org/abs/2608.03958v1) | ArXiv |  | 1 |
 | [A Generalization of Amari's Bayesian Duality](http://arxiv.org/abs/2609.09126v1) | ArXiv |  | 1 |
@@ -88,6 +90,7 @@
 | [Adaptive Graph-of-Islands Evolution for Automatic Feature Engineering with LLMs](http://arxiv.org/abs/2607.23286v2) | ArXiv |  | 1 |
 | [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](http://arxiv.org/abs/2607.19363v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v2) | ArXiv |  | 1 |
+| [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v5) | ArXiv |  | 1 |
 | [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](http://arxiv.org/abs/2606.06448v2) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
 | [Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](http://arxiv.org/abs/2607.22917v2) | ArXiv |  | 1 |
@@ -97,6 +100,7 @@
 | [Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](http://arxiv.org/abs/2607.21482v1) | ArXiv |  | 1 |
 | [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](http://arxiv.org/abs/2607.21503v1) | ArXiv |  | 1 |
 | [Agentic Root Cause Analysis through Evidence-Grounded Reasoning](http://arxiv.org/abs/2607.22385v1) | ArXiv |  | 1 |
+| [Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](http://arxiv.org/abs/2605.06869v3) | ArXiv |  | 1 |
 | [AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](http://arxiv.org/abs/2607.27130v1) | ArXiv |  | 1 |
 | [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) | ArXiv |  | 1 |
 | [Agents-K1: Towards Agent-native Knowledge Orchestration](http://arxiv.org/abs/2606.13669v1) | ArXiv |  | 1 |
@@ -209,6 +213,7 @@
 | [Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](http://arxiv.org/abs/2608.12385v2) | ArXiv |  | 1 |
 | [Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System](http://arxiv.org/abs/2602.18640v3) | ArXiv |  | 1 |
 | [Deep Noir: Autonomous Steering Discovery via Architectural Chronometry in Transformer Models](http://arxiv.org/abs/2609.20722v1) | ArXiv |  | 1 |
+| [DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education](http://arxiv.org/abs/2609.31568v1) | ArXiv |  | 1 |
 | [DeepSWIP: Quotient-WMC Counterfactuals for Neural Probabilistic Logic Programs](http://arxiv.org/abs/2606.20526v1) | ArXiv |  | 1 |
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
 | [Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1) | ArXiv |  | 1 |
@@ -289,12 +294,14 @@
 | [From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry](http://arxiv.org/abs/2608.21317v1) | ArXiv |  | 1 |
 | [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [Fuzzy Segmentations of a String](http://arxiv.org/abs/2201.13427v2) | ArXiv |  | 1 |
+| [Game Arena: Strategic LLM Evaluation in Competitive Environments](http://arxiv.org/abs/2609.31473v1) | ArXiv |  | 1 |
 | [GameWAM: A World Action Model for Video Games](http://arxiv.org/abs/2608.26200v2) | ArXiv |  | 1 |
 | [Gen AI in Proof-based Math Courses: A Pilot Study](http://arxiv.org/abs/2509.13570v2) | ArXiv |  | 1 |
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v1) | ArXiv |  | 1 |
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v2) | ArXiv |  | 1 |
 | [Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model](http://arxiv.org/abs/2609.20358v1) | ArXiv |  | 1 |
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
+| [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](http://arxiv.org/abs/2609.30147v1) | ArXiv |  | 1 |
 | [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](http://arxiv.org/abs/2606.16914v1) | ArXiv |  | 1 |
@@ -348,6 +355,7 @@
 | [Learning the Cost of Reliable Inference](http://arxiv.org/abs/2609.28322v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
+| [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
 | [LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback](http://arxiv.org/abs/2607.29559v1) | ArXiv |  | 1 |
@@ -390,6 +398,7 @@
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
 | [MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents](http://arxiv.org/abs/2609.20152v1) | ArXiv |  | 1 |
 | [Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch](http://arxiv.org/abs/2606.13604v1) | ArXiv |  | 1 |
+| [Multi-agent Scaling Across Disjunctive and Compensatory Tasks](http://arxiv.org/abs/2609.31563v1) | ArXiv |  | 1 |
 | [Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs](http://arxiv.org/abs/2608.25986v1) | ArXiv |  | 1 |
 | [Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages](http://arxiv.org/abs/2606.20517v1) | ArXiv |  | 1 |
 | [Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation](http://arxiv.org/abs/2608.23484v1) | ArXiv |  | 1 |
@@ -451,6 +460,7 @@
 | [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
+| [Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](http://arxiv.org/abs/2609.31505v1) | ArXiv |  | 1 |
 | [Protecting patient privacy in clinical foundation models: Technical and legal perspectives](http://arxiv.org/abs/2608.07705v2) | ArXiv |  | 1 |
 | [ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents](http://arxiv.org/abs/2606.18037v3) | ArXiv |  | 1 |
 | [PsychoAgent: An Affect-Sensitive Cognitive Architecture for Conflict-Aware Memory in LLM Agents](http://arxiv.org/abs/2608.07438v1) | ArXiv |  | 1 |
@@ -502,6 +512,7 @@
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v1) | ArXiv |  | 1 |
 | [Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](http://arxiv.org/abs/2609.30177v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
+| [Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency](http://arxiv.org/abs/2609.31460v1) | ArXiv |  | 1 |
 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
 | [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
@@ -604,6 +615,7 @@
 | [Unified Branch-and-Bound Search for the Steiner Traveling Salesman Problem on Graphs of Convex Sets](http://arxiv.org/abs/2608.21319v1) | ArXiv |  | 1 |
 | [UnifiedPlayers: Enhance Tool-Integrated Reasoning in Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20089v1) | ArXiv |  | 1 |
 | [Unsupervised Consensus-Based Anomaly Detection for Spatiotemporal Malaria Incidence in Ghana](http://arxiv.org/abs/2607.21559v1) | ArXiv |  | 1 |
+| [UQ-LOB: Uncertainty-Aware Limit Order Book Mid-Price Forecasting](http://arxiv.org/abs/2609.31491v1) | ArXiv |  | 1 |
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
 | [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](http://arxiv.org/abs/2609.09418v3) | ArXiv |  | 1 |
 | [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) | ArXiv |  | 1 |
@@ -629,6 +641,7 @@
 | [When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI](http://arxiv.org/abs/2608.28518v1) | ArXiv |  | 1 |
 | [When Should a World Model Move? Loss-Conditioned State Execution](http://arxiv.org/abs/2609.15801v1) | ArXiv |  | 1 |
 | [When Should Models Change Their Minds? Contextual Belief Management in Large Language Models](http://arxiv.org/abs/2605.30219v2) | ArXiv |  | 1 |
+| [When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](http://arxiv.org/abs/2602.13215v3) | ArXiv |  | 1 |
 | [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | ArXiv |  | 1 |
 | [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](http://arxiv.org/abs/2609.05346v1) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |

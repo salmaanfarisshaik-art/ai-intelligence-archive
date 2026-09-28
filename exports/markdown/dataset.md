@@ -358,6 +358,12 @@
 - **URL**: [https://huggingface.co/datasets/japanese-asr/whisper_transcriptions.reazon_speech_all](https://huggingface.co/datasets/japanese-asr/whisper_transcriptions.reazon_speech_all)
 - **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:audio, modality:text, region:us, size_categories:10M<n<100M
 
+## longisland3/ptb-xl
+- **ID**: hf_ds_66e156679460cd79bfe3b2d6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/longisland3/ptb-xl](https://huggingface.co/datasets/longisland3/ptb-xl)
+- **Tags**: region:us
+
 ## Zyphra/Zyda-2
 - **ID**: hf_ds_66e4b270f5579b829f4c18eb
 - **Source**: HuggingFace Datasets

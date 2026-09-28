@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.05474v2](http://arxiv.org/abs/2505.05474v2)
 
+## RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects
+- **ID**: arxiv_2505.05848v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.05848v3](http://arxiv.org/abs/2505.05848v3)
+
 ## HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation
 - **ID**: arxiv_2505.11454v8
 - **Source**: ArXiv
@@ -3790,6 +3795,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01607v1](http://arxiv.org/abs/2609.01607v1)
 
+## Learning with Volterra Neural Networks: A System Theoretic Perspective
+- **ID**: arxiv_2609.01928v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01928v2](http://arxiv.org/abs/2609.01928v2)
+
 ## InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling
 - **ID**: arxiv_2609.02747v1
 - **Source**: ArXiv
@@ -4625,6 +4635,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23386v1](http://arxiv.org/abs/2609.23386v1)
 
+## Retrieval Geometry Shapes Cache-Based Clip Adaptation
+- **ID**: arxiv_2609.23409v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23409v2](http://arxiv.org/abs/2609.23409v2)
+
 ## DTKDP: A Dual Teacher Knowledge Distillation and Pruning Framework for Lightweight Oriented SAR Ship Detection
 - **ID**: arxiv_2609.24872v1
 - **Source**: ArXiv
@@ -4835,6 +4850,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28473v1](http://arxiv.org/abs/2609.28473v1)
 
+## AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation
+- **ID**: arxiv_2609.29816v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.29816v2](http://arxiv.org/abs/2609.29816v2)
+
 ## Multimodal Thinking with Renderable Programs
 - **ID**: arxiv_2609.30130v1
 - **Source**: ArXiv
@@ -4874,4 +4894,64 @@
 - **ID**: arxiv_2609.30245v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30245v1](http://arxiv.org/abs/2609.30245v1)
+
+## From Reward Signal to Visual Utility: A Controlled Audit of Medical VLM Post-Training
+- **ID**: arxiv_2609.31450v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31450v1](http://arxiv.org/abs/2609.31450v1)
+
+## Diagnosing the Sources of Compositional Failure in Vision-Language Models: A Controlled Analysis
+- **ID**: arxiv_2609.31456v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31456v1](http://arxiv.org/abs/2609.31456v1)
+
+## KneePreM: Towards 3D Knee MRI Foundation Models via Large-Scale Unlabeled Pretraining and Label-Efficient Fine-Tuning
+- **ID**: arxiv_2609.31461v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31461v1](http://arxiv.org/abs/2609.31461v1)
+
+## SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery
+- **ID**: arxiv_2609.31507v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31507v1](http://arxiv.org/abs/2609.31507v1)
+
+## ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos
+- **ID**: arxiv_2609.31509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31509v1](http://arxiv.org/abs/2609.31509v1)
+
+## Forensic Twins: Self-Supervised Residual Learning for AI-Generated Image Forensics
+- **ID**: arxiv_2609.31514v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31514v1](http://arxiv.org/abs/2609.31514v1)
+
+## Structured Reasoning Agentic Framework for Interpretable Critical View of Safety Assessment
+- **ID**: arxiv_2609.31524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31524v1](http://arxiv.org/abs/2609.31524v1)
+
+## Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP
+- **ID**: arxiv_2609.31558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31558v1](http://arxiv.org/abs/2609.31558v1)
+
+## OC-GS: Gaussian Splatting for Irregular Turntable Capture
+- **ID**: arxiv_2609.31572v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31572v1](http://arxiv.org/abs/2609.31572v1)
+
+## How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI
+- **ID**: arxiv_2609.31573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31573v1](http://arxiv.org/abs/2609.31573v1)
+
+## GraphWrit3R: End-to-End 3D Scene Graph Writing
+- **ID**: arxiv_2609.31595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31595v1](http://arxiv.org/abs/2609.31595v1)
+
+## FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders
+- **ID**: arxiv_2609.31620v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31620v1](http://arxiv.org/abs/2609.31620v1)
 

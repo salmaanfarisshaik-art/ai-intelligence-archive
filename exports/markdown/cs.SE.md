@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.22580v2](http://arxiv.org/abs/2507.22580v2)
 
+## SLMFix: Leveraging Small Language Models for Domain Specific Language Error Fixing with Reinforcement Learning
+- **ID**: arxiv_2511.19422v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.19422v2](http://arxiv.org/abs/2511.19422v2)
+
 ## ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents
 - **ID**: arxiv_2602.04935v4
 - **Source**: ArXiv
@@ -309,4 +314,9 @@
 - **ID**: arxiv_2609.30219v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30219v1](http://arxiv.org/abs/2609.30219v1)
+
+## Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer
+- **ID**: arxiv_2609.31587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31587v1](http://arxiv.org/abs/2609.31587v1)
 

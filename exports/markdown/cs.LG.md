@@ -210,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.05863v4](http://arxiv.org/abs/2602.05863v4)
 
+## Pseudo-Invertible Neural Networks
+- **ID**: arxiv_2602.06042v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.06042v2](http://arxiv.org/abs/2602.06042v2)
+
 ## ArGEnT: Arbitrary Geometry-encoded Transformer for Operator Learning
 - **ID**: arxiv_2602.11626v3
 - **Source**: ArXiv
@@ -1709,4 +1714,19 @@
 - **ID**: arxiv_2609.30227v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30227v1](http://arxiv.org/abs/2609.30227v1)
+
+## Different Corruptions, Different Signals: Uncertainty and Loss in Federated Data Quality
+- **ID**: arxiv_2609.31454v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31454v1](http://arxiv.org/abs/2609.31454v1)
+
+## Uncertainty-Aware Federated Learning for Infant Movement Analysis
+- **ID**: arxiv_2609.31463v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31463v1](http://arxiv.org/abs/2609.31463v1)
+
+## User Model Extraction via Belief Self-Distillation
+- **ID**: arxiv_2609.31603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31603v1](http://arxiv.org/abs/2609.31603v1)
 

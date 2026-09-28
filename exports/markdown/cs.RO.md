@@ -685,3 +685,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30249v1](http://arxiv.org/abs/2609.30249v1)
 
+## Vision-Based 6-DoF Grasp Pose Estimation for Robot Cloth Unfolding
+- **ID**: arxiv_2609.31452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31452v1](http://arxiv.org/abs/2609.31452v1)
+

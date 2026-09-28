@@ -185,3 +185,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26725v1](http://arxiv.org/abs/2609.26725v1)
 
+## Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum
+- **ID**: arxiv_2609.31569v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31569v1](http://arxiv.org/abs/2609.31569v1)
+

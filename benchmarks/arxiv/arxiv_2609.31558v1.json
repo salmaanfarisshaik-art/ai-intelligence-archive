@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31558v1",
+  "schema_version": "1.0",
+  "name": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31558v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31558v1",
+    "updated": "2026-09-25T17:26:02Z",
+    "published": "2026-09-25T17:26:02Z",
+    "title": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
+    "summary": "Contrastive Language--Image Pretraining (CLIP) has emerged as a dominant vision backbone due to its strong transferability and zero-shot capabilities. However, recent studies reveal a critical vulnerability: embedding-space backdoor attacks. By poisoning only a tiny fraction of image--text pairs, adversaries can implant stealthy triggers that induce targeted shifts in CLIP's joint embedding space. Unlike conventional backdoors that manipulate classifier logits, these attacks corrupt representations directly, making them highly effective under extremely low poisoning ratios and difficult to detect. Existing defenses require access to model parameters, gradients, logits, or clean validation data---assumptions that rarely hold in realistic black-box deployments. Moreover, current black-box methods struggle to accurately localize small or out-of-distribution triggers. We propose CLIPGuard, a lightweight and fully black-box defense specifically designed to mitigate embedding-space backdoors in CLIP encoders. CLIPGuard identifies malicious regions by measuring segment-wise embedding perturbations and selectively purifies only suspicious segments via semantic inpainting, preserving benign visual content and alignment quality. Extensive experiments on STL-10, ImageNet, and diverse trigger families---including BadCLIP, BadNets, blended, patch-based, and typographic attacks---demonstrate that CLIPGuard reduces attack success rates to as low as 1.05% while maintaining clean accuracy up to 86.34%, consistently outperforming existing black-box defenses, including CleanCLIP and CleanerCLIP. Our code is available https://github.com/wsu-cyber-security-lab-ai/CLIPGuard.git",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:26:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31558v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

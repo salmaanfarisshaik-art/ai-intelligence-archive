@@ -20,3 +20,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.28576v1](http://arxiv.org/abs/2608.28576v1)
 
+## Statistical Foundations for a Google Play User-Review Sentiment Index: Signal Fusion, Shrinkage, Distributional Validation, and Dynamic Smoothing
+- **ID**: arxiv_2609.31513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31513v1](http://arxiv.org/abs/2609.31513v1)
+
+## Two Conformal Constructions for Adaptive Within-Document AI-Text Screening
+- **ID**: arxiv_2609.31547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31547v1](http://arxiv.org/abs/2609.31547v1)
+
+## Statistical attribute alignment for black-box generative AI via output post-processing
+- **ID**: arxiv_2609.31607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31607v1](http://arxiv.org/abs/2609.31607v1)
+

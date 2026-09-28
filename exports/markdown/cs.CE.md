@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.06933v4](http://arxiv.org/abs/2512.06933v4)
 
+## Beyond Forecasting: Recasting Volatility Control as a Routing Problem
+- **ID**: arxiv_2608.10375v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10375v2](http://arxiv.org/abs/2608.10375v2)
+
 ## Historical Backtesting for Scientific Question Discovery: A Protocol and Astronomy Pilot
 - **ID**: arxiv_2608.16795v1
 - **Source**: ArXiv

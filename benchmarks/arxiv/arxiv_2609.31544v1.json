@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.31544v1",
+  "schema_version": "1.0",
+  "name": "A Flow Matching Framework for Neural Representational Dissimilarity",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.31544v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.31544v1",
+    "updated": "2026-09-25T17:15:43Z",
+    "published": "2026-09-25T17:15:43Z",
+    "title": "A Flow Matching Framework for Neural Representational Dissimilarity",
+    "summary": "Neural representational dissimilarity quantifies differences between neural response distributions, and is essential for comparing neural codes across stimuli, brain areas, tasks, and models. Commonly used distance metrics involve different assumptions and are estimated with separate methods. Here, we show that a variety of distance metrics can be unified under a flow matching framework developed in deep generative models. That is, these distances arise as Jeffreys divergences under different velocity constraints. We find that flow matching has advantages for estimating distances involving complicated distributions and continuous variables. Furthermore, this framework enables the design of new distance metrics in a principled way. Together, flow matching provides a unified approach for understanding, estimating, and designing neural representational dissimilarity metrics.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:15:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.31544v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

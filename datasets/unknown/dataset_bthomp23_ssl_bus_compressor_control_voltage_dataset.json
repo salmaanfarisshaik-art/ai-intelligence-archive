@@ -1,0 +1,30 @@
+{
+  "_id": "69c6c980e8dbb9d3843649b2",
+  "id": "bthomp23/SSL_bus_compressor_control_voltage_dataset",
+  "author": "bthomp23",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-06-18T11:50:19.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "64f1aebb431da651fa0792956eade9516fb35ef3",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tSSL Bus Compressor Control Voltage Dataset\n\t\n\nThis repository hosts a dataset for the analysis and modeling of dynamic range compression in an SSL-style bus compressor. The dataset includes paired input/output audio signals along with the corresponding control signal applied to the voltage-controlled amplifier, expressed directly as gain reduction in decibels.\nThis dataset is introduced in the paper, Evaluating Dynamic Range Compressor Models Using Control-Voltage Measurements: an… See the full description on the dataset page: https://huggingface.co/datasets/bthomp23/SSL_bus_compressor_control_voltage_dataset.",
+  "downloads": 32994,
+  "tags": [
+    "task_categories:audio-to-audio",
+    "task_categories:audio-classification",
+    "language:en",
+    "license:cc-by-4.0",
+    "size_categories:10K<n<100K",
+    "format:audiofolder",
+    "modality:audio",
+    "library:datasets",
+    "library:mlcroissant",
+    "arxiv:2606.18573",
+    "region:us"
+  ],
+  "createdAt": "2026-03-27T18:16:32.000Z",
+  "key": "",
+  "unique_id": "dataset_bthomp23_ssl_bus_compressor_control_voltage_dataset",
+  "schema_version": "1.0"
+}

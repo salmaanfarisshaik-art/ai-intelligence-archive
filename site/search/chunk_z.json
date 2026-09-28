@@ -23,6 +23,11 @@
   ],
   "z1": [
     {
+      "entity_id": "model_devquasar_13_thudm_glm_z1_32b_0414_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_zai_org_glm_z1_32b_0414",
       "match_type": "exact",
       "score": 2.0
@@ -227,6 +232,11 @@
     },
     {
       "entity_id": "model_cyankiwi_glm_5_2_awq_int4",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_devquasar_13_thudm_glm_z1_32b_0414_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -3523,6 +3533,11 @@
   "zhiqiulin": [
     {
       "entity_id": "hf_zhiqiulin_clip-flant5-xxl",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_zhiqiulin_clip_flant5_xl",
       "match_type": "exact",
       "score": 2.0
     },

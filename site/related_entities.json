@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T03:46:07Z",
+  "generated_at": "2026-09-28T10:36:04Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -340,7 +340,11 @@
     "hf_HuggingFaceTB_SmolLM3-3B-Base": [
       "model_huggingfacetb_smollm3_3b"
     ],
+    "hf_HuggingFaceTB_finemath": [
+      "model_asilarkness_diffurefill_1b"
+    ],
     "hf_HuggingFaceTB_smollm-corpus": [
+      "model_asilarkness_diffurefill_1b",
       "model_huggingfacetb_smollm_135m",
       "model_huggingfacetb_smollm_1_7b",
       "model_huggingfacetb_smollm_360m",
@@ -580,6 +584,9 @@
       "model_thebloke_tinyllama_1_1b_chat_v0_3_awq",
       "model_thebloke_tinyllama_1_1b_chat_v0_3_gptq",
       "model_thebloke_tinyllama_1_1b_chat_v1_0_gptq"
+    ],
+    "hf_OpenCoder-LLM_opc-annealing-corpus": [
+      "model_asilarkness_diffurefill_1b"
     ],
     "hf_OpenLLM-France_Croissant-Aligned-Instruct": [
       "model_openllm_france_lucie_7b_instruct_v1_1"
@@ -1960,6 +1967,9 @@
     "hf_google_diffusiongemma-26B-A4B-it": [
       "model_nvidia_diffusiongemma_26b_a4b_it_nvfp4"
     ],
+    "hf_google_flan-t5-xl": [
+      "model_zhiqiulin_clip_flant5_xl"
+    ],
     "hf_google_flan-t5-xxl": [
       "model_zhiqiulin_clip_flant5_xxl"
     ],
@@ -2174,6 +2184,9 @@
     "hf_internlm_Lean-Workbook": [
       "model_internlm_internlm2_5_step_prover_critic"
     ],
+    "hf_interpolators_gemma-4-12B-coder-fable5-composer2.5-v1-bf16": [
+      "model_sahilchachra_gemma_4_12b_coder_fable5_composer2_5_awq"
+    ],
     "hf_interstellarninja_hermes_reasoning_tool_use": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
@@ -2339,7 +2352,8 @@
       "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
       "model_kosbu_llama_3_3_70b_instruct_awq",
       "model_maziyarpanahi_llama_3_3_70b_instruct_gguf",
-      "model_redhatai_llama_3_3_70b_instruct_fp8_dynamic"
+      "model_redhatai_llama_3_3_70b_instruct_fp8_dynamic",
+      "model_unsloth_llama_3_3_70b_instruct"
     ],
     "hf_meta-llama_Llama-4-Scout-17B-16E": [
       "model_mlx_community_meta_llama_llama_4_scout_17b_16e_8bit"
@@ -2996,6 +3010,7 @@
       "model_openbmb_minicpm5_2b_mlx"
     ],
     "hf_openbmb_Ultra-FineWeb-L3": [
+      "model_asilarkness_diffurefill_1b",
       "model_openbmb_minicpm5_1b",
       "model_openbmb_minicpm5_1b_gguf",
       "model_openbmb_minicpm5_1b_mlx",
@@ -3191,6 +3206,9 @@
     "hf_superwhisper_s1-mini": [
       "model_superwhisper_s1_mini_gguf"
     ],
+    "hf_sweepai_sweep-next-edit-1.5B": [
+      "model_xenova_sweep_next_edit_1_5b"
+    ],
     "hf_swiss-ai_Apertus-70B-2509": [
       "model_swiss_ai_apertus_70b_instruct_2509"
     ],
@@ -3236,6 +3254,7 @@
       "model_yanissamz_hy3_295b_a21b_gguf"
     ],
     "hf_the_pile": [
+      "model_blinkdl_rwkv_4_pile_7b",
       "model_eleutherai_pythia_1b"
     ],
     "hf_theoldmandthesea_17k_business_book": [
@@ -3280,6 +3299,9 @@
     ],
     "hf_tvall43_Qwen3.6-14B-A3B-VibeForged-v2": [
       "model_tvall43_qwen3_6_14b_a3b_vibeforged_v2_gguf"
+    ],
+    "hf_ukisai_Swift-1.5-Qwen3.8-27b": [
+      "model_ukisai_swift_1_5_qwen3_8_27b_gsq_rco_gguf"
     ],
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
@@ -3336,6 +3358,7 @@
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
     "hf_wikimedia_wikipedia": [
+      "model_asilarkness_diffurefill_1b",
       "model_neuralcrew_neutrino_instruct"
     ],
     "hf_wikipedia": [
@@ -3433,6 +3456,9 @@
       "model_incoai_glm_5_3_flash_dflash2",
       "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "model_unsloth_glm_5_3_flash_gguf"
+    ],
+    "hf_zai-org_GLM-Z1-32B-0414": [
+      "model_devquasar_13_thudm_glm_z1_32b_0414_gguf"
     ],
     "hf_zai-org_glm-4-9b-chat": [
       "model_legraphista_glm_4_9b_chat_imat_gguf"
@@ -3677,6 +3703,13 @@
     ],
     "model_arnir0_tiny_llm": [
       "hf_HuggingFaceFW_fineweb"
+    ],
+    "model_asilarkness_diffurefill_1b": [
+      "hf_HuggingFaceTB_finemath",
+      "hf_HuggingFaceTB_smollm-corpus",
+      "hf_OpenCoder-LLM_opc-annealing-corpus",
+      "hf_openbmb_Ultra-FineWeb-L3",
+      "hf_wikimedia_wikipedia"
     ],
     "model_ath_maas_ovis1_6_gemma2_9b": [
       "hf_AIDC-AI_Ovis-dataset"
@@ -3953,6 +3986,9 @@
     "model_bleysg_qwen3_5_122b_a10b_int4_fp8_hybrid": [
       "hf_Intel_Qwen3.5-122B-A10B-int4-AutoRound"
     ],
+    "model_blinkdl_rwkv_4_pile_7b": [
+      "hf_the_pile"
+    ],
     "model_bloomer010_ling_3_0_flash_gguf": [
       "hf_inclusionAI_Ling-3.0-flash"
     ],
@@ -4202,6 +4238,9 @@
     ],
     "model_deepseek_ai_deepseek_v3_2_exp": [
       "hf_deepseek-ai_DeepSeek-V3.2-Exp-Base"
+    ],
+    "model_devquasar_13_thudm_glm_z1_32b_0414_gguf": [
+      "hf_zai-org_GLM-Z1-32B-0414"
     ],
     "model_devquasar_amd_instella_moe_16b_a3b_think_gguf": [
       "hf_amd_Instella-MoE-16B-A3B-Think"
@@ -6660,6 +6699,9 @@
     "model_s_batman_ornith_1_0_35b_nvfp4_mtp_gguf": [
       "hf_deepreinforce-ai_Ornith-1.0-35B"
     ],
+    "model_sahilchachra_gemma_4_12b_coder_fable5_composer2_5_awq": [
+      "hf_interpolators_gemma-4-12B-coder-fable5-composer2.5-v1-bf16"
+    ],
     "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4": [
       "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated"
     ],
@@ -6985,6 +7027,9 @@
     "model_ucbye_qwen3_coder_next_nvfp4_gb10": [
       "hf_saricles_Qwen3-Coder-Next-NVFP4-GB10"
     ],
+    "model_ukisai_swift_1_5_qwen3_8_27b_gsq_rco_gguf": [
+      "hf_ukisai_Swift-1.5-Qwen3.8-27b"
+    ],
     "model_unsloth_deepseek_r1_0528_qwen3_8b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
     ],
@@ -7119,6 +7164,9 @@
     ],
     "model_unsloth_llama_3_2_3b_instruct_unsloth_bnb_4bit": [
       "hf_meta-llama_Llama-3.2-3B-Instruct"
+    ],
+    "model_unsloth_llama_3_3_70b_instruct": [
+      "hf_meta-llama_Llama-3.3-70B-Instruct"
     ],
     "model_unsloth_llama_3_8b_bnb_4bit": [
       "hf_meta-llama_Meta-Llama-3-8B"
@@ -7409,6 +7457,9 @@
     "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf": [
       "hf_google_gemma-4-12B-it"
     ],
+    "model_xenova_sweep_next_edit_1_5b": [
+      "hf_sweepai_sweep-next-edit-1.5B"
+    ],
     "model_xhtoken_spark_x2_5_1_7b_gguf": [
       "hf_XHToken_Spark-X2.5-1.7B"
     ],
@@ -7472,6 +7523,9 @@
       "hf_zerofata_L3.3-GeneticLemonade-Final-70B",
       "hf_zerofata_Roleplay-Anime-Characters",
       "hf_zerofata_Summaries-Anime-FandomPages"
+    ],
+    "model_zhiqiulin_clip_flant5_xl": [
+      "hf_google_flan-t5-xl"
     ],
     "model_zhiqiulin_clip_flant5_xxl": [
       "hf_google_flan-t5-xxl"

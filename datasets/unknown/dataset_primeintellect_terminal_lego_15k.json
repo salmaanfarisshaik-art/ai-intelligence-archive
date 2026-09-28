@@ -1,0 +1,30 @@
+{
+  "_id": "6a280a5f0418dbff148e9f68",
+  "id": "PrimeIntellect/Terminal-Lego-15k",
+  "author": "PrimeIntellect",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-22T02:34:06.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "92e6b5f577610cec9b040250a94ce66cfce24839",
+  "description": "\n[!NOTE]\nThis private PrimeIntellect mirror is filtered from\nSWE-Lego/Terminal-Lego-15k.\nIt reflects ad6e280 from prime-data PR #34: 1,224\ntasks are excluded and 13,825 task directories remain.\nEach retained task's task.toml sets [environment].docker_image to its\nprebuilt Prime platform image in the canonical org-less form\nterminal-lego/<task-id>:latest (2026-07 registry homogenization; the images\nwere previously team-scoped as team-…/terminal-lego:<task-id>-<build-hash>).\nThe root… See the full description on the dataset page: https://huggingface.co/datasets/PrimeIntellect/Terminal-Lego-15k.",
+  "downloads": 34115,
+  "tags": [
+    "task_categories:question-answering",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:10K<n<100K",
+    "arxiv:2606.03461",
+    "region:us",
+    "terminal",
+    "code-agent",
+    "stackoverflow",
+    "docker",
+    "benchmark"
+  ],
+  "createdAt": "2026-06-09T12:43:11.000Z",
+  "key": "",
+  "unique_id": "dataset_primeintellect_terminal_lego_15k",
+  "schema_version": "1.0"
+}

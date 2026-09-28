@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28372v1](http://arxiv.org/abs/2609.28372v1)
 
+## PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents
+- **ID**: arxiv_2609.31468v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.31468v1](http://arxiv.org/abs/2609.31468v1)
+

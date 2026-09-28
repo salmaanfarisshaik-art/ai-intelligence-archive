@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.06042v2",
+  "schema_version": "1.0",
+  "name": "Pseudo-Invertible Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.06042v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.06042v2",
+    "updated": "2026-09-25T17:49:03Z",
+    "published": "2026-02-05T18:59:58Z",
+    "title": "Pseudo-Invertible Neural Networks",
+    "summary": "The Moore-Penrose Pseudo-inverse (PInv) serves as the fundamental solution for linear systems. In this paper, we propose a natural generalization of PInv to the nonlinear regime in general and to neural networks in particular. We introduce Surjective Pseudo-invertible Neural Networks (SPNN), a class of architectures explicitly designed to admit a tractable non-linear PInv. The proposed non-linear PInv and its implementation in SPNN satisfy fundamental geometric properties. One such property is null-space projection or \"Back-Projection\", $x' = x + A^\\dagger(y-Ax)$, which moves a sample $x$ to its closest consistent state $x'$ satisfying $Ax=y$. We formalize Non-Linear Back-Projection (NLBP), a method that guarantees the same consistency constraint for non-linear mappings $f(x)=y$ via our defined PInv. We leverage SPNNs to expand the scope of zero-shot inverse problems. Diffusion-based null-space projection has revolutionized zero-shot solving for linear inverse problems by exploiting closed-form back-projection. We extend this method to non-linear degradations. Here, \"degradation\" is broadly generalized to include any non-linear loss of information, spanning from optical distortions to semantic abstractions like classification. This approach enables zero-shot inversion of complex degradations and allows precise semantic control over generative outputs without retraining the diffusion prior.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-28T10:34:47Z",
+  "last_updated": "2026-09-25T17:49:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.06042v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
