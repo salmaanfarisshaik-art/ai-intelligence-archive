@@ -306,6 +306,11 @@
 - **URL**: [https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025](https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025)
 
 ## 
+- **ID**: rss_https://openai.com/form/codex-originals
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/form/codex-originals](https://openai.com/form/codex-originals)
+
+## 
 - **ID**: rss_https://openai.com/form/stargate-infrastructure
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/form/stargate-infrastructure](https://openai.com/form/stargate-infrastructure)
@@ -869,6 +874,11 @@
 - **ID**: rss_https://openai.com/index/basis
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/basis](https://openai.com/index/basis)
+
+## 
+- **ID**: rss_https://openai.com/index/basis-tax-workbook-with-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/basis-tax-workbook-with-astra](https://openai.com/index/basis-tax-workbook-with-astra)
 
 ## 
 - **ID**: rss_https://openai.com/index/bbva

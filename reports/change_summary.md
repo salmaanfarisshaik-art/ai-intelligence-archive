@@ -1,9 +1,10 @@
 # Change Summary
 
-**Total Changes:** 113
+**Total Changes:** 95
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_lenfest-ai-collaborative-expansion.json
+- prompts/openai-blog/rss_https___openai.com_form_codex-originals.json
+- prompts/openai-blog/rss_https___openai.com_index_basis-tax-workbook-with-astra.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,48 +17,29 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
 - datasets/bulei/hf_ds_6a96f1b1177b511ec1b92935.json
-- datasets/epfml/hf_ds_68b209361fda17d2b03263e4.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
 - datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
-- datasets/huggingfacem4/hf_ds_661823b590a8b6724f1c6534.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
+- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
 - exports/json/news.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
-- models/distilbert/hf_distilbert_distilgpt2.json
-- models/google/hf_google_gemma-3-1b-it.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
-- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai-community/hf_openai-community_gpt2.json
-- models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/qwen/hf_Qwen_Qwen3-4B.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
 - models/zai-org/hf_zai-org_GLM-4.7-Flash.json
-- prompts/openai-blog/rss_https___openai.com_index_supporting-journalism-from-classrooms-to-newsrooms.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
