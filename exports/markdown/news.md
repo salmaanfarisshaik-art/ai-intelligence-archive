@@ -1611,6 +1611,11 @@
 - **URL**: [https://openai.com/index/deutsche-telekom-collaboration](https://openai.com/index/deutsche-telekom-collaboration)
 
 ## 
+- **ID**: rss_https://openai.com/index/devday-2026-recap
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/devday-2026-recap](https://openai.com/index/devday-2026-recap)
+
+## 
 - **ID**: rss_https://openai.com/index/developers-can-now-submit-apps-to-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/developers-can-now-submit-apps-to-chatgpt](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt)
@@ -3236,6 +3241,11 @@
 - **URL**: [https://openai.com/index/introducing-deep-research](https://openai.com/index/introducing-deep-research)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-dots
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-dots](https://openai.com/index/introducing-dots)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-evmbench
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-evmbench](https://openai.com/index/introducing-evmbench)
@@ -3289,6 +3299,11 @@
 - **ID**: rss_https://openai.com/index/introducing-gpt-5-for-developers
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpt-5-for-developers](https://openai.com/index/introducing-gpt-5-for-developers)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-gpt-6-1-sol
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-gpt-6-1-sol](https://openai.com/index/introducing-gpt-6-1-sol)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-gpt-6-sol-and-luna
