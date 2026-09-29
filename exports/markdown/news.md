@@ -2926,6 +2926,11 @@
 - **URL**: [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-we-will-do-better-for-australia
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-we-will-do-better-for-australia](https://openai.com/index/how-we-will-do-better-for-australia)
+
+## 
 - **ID**: rss_https://openai.com/index/hp-frontier-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/hp-frontier-partnership](https://openai.com/index/hp-frontier-partnership)

@@ -1,10 +1,9 @@
 # Change Summary
 
-**Total Changes:** 95
+**Total Changes:** 94
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_form_codex-originals.json
-- prompts/openai-blog/rss_https___openai.com_index_basis-tax-workbook-with-astra.json
+- prompts/openai-blog/rss_https___openai.com_index_how-we-will-do-better-for-australia.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -17,10 +16,11 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/bulei/hf_ds_6a96f1b1177b511ec1b92935.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
+- datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/nvidia/hf_ds_67d97c4be2b27852325fd8e2.json
 - datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
+- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
@@ -31,15 +31,14 @@
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/distilbert/hf_distilbert_distilgpt2.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai-community/hf_openai-community_gpt2.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
+- models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
-- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
