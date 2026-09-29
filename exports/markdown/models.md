@@ -464,6 +464,10 @@
 - **ID**: model_bartowski_eva_qwen2_5_14b_v0_2_gguf
 - **Source**: 
 
+## bartowski/gemma-2-27b-it-GGUF
+- **ID**: model_bartowski_gemma_2_27b_it_gguf
+- **Source**: 
+
 ## bartowski/gemma-2-2b-it-abliterated-GGUF
 - **ID**: model_bartowski_gemma_2_2b_it_abliterated_gguf
 - **Source**: 
@@ -594,6 +598,10 @@
 
 ## bartowski/Qwen2.5-7B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_7b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF
+- **ID**: model_bartowski_qwen2_5_coder_14b_instruct_abliterated_gguf
 - **Source**: 
 
 ## bartowski/Qwen2.5-Coder-14B-Instruct-GGUF
@@ -2256,6 +2264,10 @@
 - **ID**: model_jackrong_qwopus3_8_27b_flash_gguf
 - **Source**: 
 
+## Jackrong/Qwopus3.8-27B-Flash-V2-GGUF
+- **ID**: model_jackrong_qwopus3_8_27b_flash_v2_gguf
+- **Source**: 
+
 ## Jackrong/Qwopus-GLM-18B-Merged-GGUF
 - **ID**: model_jackrong_qwopus_glm_18b_merged_gguf
 - **Source**: 
@@ -2414,6 +2426,10 @@
 
 ## legraphista/glm-4-9b-chat-IMat-GGUF
 - **ID**: model_legraphista_glm_4_9b_chat_imat_gguf
+- **Source**: 
+
+## LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
+- **ID**: model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf
 - **Source**: 
 
 ## lewtun/talkie-1930-13b-it-hf
@@ -3038,6 +3054,10 @@
 
 ## MaziyarPanahi/Mistral-7B-Instruct-v0.3-GGUF
 - **ID**: model_maziyarpanahi_mistral_7b_instruct_v0_3_gguf
+- **Source**: 
+
+## MaziyarPanahi/Mistral-7B-v0.1-GGUF
+- **ID**: model_maziyarpanahi_mistral_7b_v0_1_gguf
 - **Source**: 
 
 ## MaziyarPanahi/Mistral-Large-Instruct-2411-GGUF
@@ -4376,6 +4396,10 @@
 - **ID**: model_pearl_ai_llama_3_1_8b_instruct_pearl
 - **Source**: 
 
+## peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF
+- **ID**: model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf
+- **Source**: 
+
 ## peft-internal-testing/opt-125m
 - **ID**: model_peft_internal_testing_opt_125m
 - **Source**: 
@@ -4402,6 +4426,10 @@
 
 ## peft-internal-testing/tiny-random-OPTForCausalLM
 - **ID**: model_peft_internal_testing_tiny_random_optforcausallm
+- **Source**: 
+
+## pentacoxian-dev/Qwen3.8-Flash-Next-IQ3E-Q8D-MTP-GGUF
+- **ID**: model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf
 - **Source**: 
 
 ## petals-team/StableBeluga2
@@ -4542,6 +4570,10 @@
 
 ## qihoo360/fg-clip-base
 - **ID**: model_qihoo360_fg_clip_base
+- **Source**: 
+
+## QuantFactory/Qwen2.5-Coder-7B-GGUF
+- **ID**: model_quantfactory_qwen2_5_coder_7b_gguf
 - **Source**: 
 
 ## QuantTrio/DeepSeek-V3.2-AWQ

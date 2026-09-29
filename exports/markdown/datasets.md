@@ -341,6 +341,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_wildchat_1m
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_winogrande
 - **Source**: 
 
@@ -601,11 +605,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_atokforps_latent_v1_fullrun_alpha2_01
+- **Source**: 
+
+## 
 - **ID**: dataset_atokforps_latent_v1_fullrun_alpha3_01
 - **Source**: 
 
 ## 
 - **ID**: dataset_atokforps_latent_v1_fullrun_alpha3_04
+- **Source**: 
+
+## 
+- **ID**: dataset_atokforps_latent_v1_fullrun_alpha3_05
 - **Source**: 
 
 ## 
@@ -662,6 +674,10 @@
 
 ## 
 - **ID**: dataset_atokforps_latent_worker_early_a2_08
+- **Source**: 
+
+## 
+- **ID**: dataset_atokforps_latent_worker_early_a2_09
 - **Source**: 
 
 ## 
@@ -1957,6 +1973,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fujiiee_roleplay_bot_data
+- **Source**: 
+
+## 
 - **ID**: dataset_fujinchu_imgbed
 - **Source**: 
 
@@ -2438,6 +2458,10 @@
 
 ## 
 - **ID**: dataset_hoangthanhdat1990_hoangthanhdat1990
+- **Source**: 
+
+## 
+- **ID**: dataset_hoangthanhvu123_hoangthanhvu123
 - **Source**: 
 
 ## 
@@ -4349,6 +4373,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jmhessel_newyorker_caption_contest
+- **Source**: 
+
+## 
 - **ID**: dataset_jobs_git_hplt2_0_cleaned
 - **Source**: 
 
@@ -4442,6 +4470,10 @@
 
 ## 
 - **ID**: dataset_kazimir_ai_text_to_image_prompts
+- **Source**: 
+
+## 
+- **ID**: dataset_kazuyi1222_lulora
 - **Source**: 
 
 ## 
@@ -4634,6 +4666,10 @@
 
 ## 
 - **ID**: dataset_lethuylinh2007_lethuylinh2007
+- **Source**: 
+
+## 
+- **ID**: dataset_lez_wildrelight
 - **Source**: 
 
 ## 
@@ -5193,6 +5229,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_meloqiao_us_stock_data
+- **Source**: 
+
+## 
 - **ID**: dataset_meralion_multitask_national_speech_corpus_v1
 - **Source**: 
 
@@ -5533,6 +5573,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nebius_swe_rebench_v2_prs
+- **Source**: 
+
+## 
 - **ID**: dataset_neelnanda_pile_10k
 - **Source**: 
 
@@ -5746,6 +5790,10 @@
 
 ## 
 - **ID**: dataset_nvidia_nemotron_terminal_corpus
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_open_swe_traces
 - **Source**: 
 
 ## 
@@ -6465,6 +6513,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pryzl_ptb_xl_npy
+- **Source**: 
+
+## 
 - **ID**: dataset_pscotti_mindeyev2
 - **Source**: 
 
@@ -6834,6 +6886,10 @@
 
 ## 
 - **ID**: dataset_salesforce_xlam_function_calling_60k
+- **Source**: 
+
+## 
+- **ID**: dataset_salexai_mztimgs
 - **Source**: 
 
 ## 
@@ -7405,6 +7461,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_team_ace_toolace
+- **Source**: 
+
+## 
 - **ID**: dataset_teetone_roboreward
 - **Source**: 
 
@@ -7458,6 +7518,10 @@
 
 ## 
 - **ID**: dataset_thanhnguyen4827_ridge
+- **Source**: 
+
+## 
+- **ID**: dataset_thaodang63795_thaodang63795
 - **Source**: 
 
 ## 
@@ -7649,6 +7713,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_truongquocanh2003_truongquocanh2003
+- **Source**: 
+
+## 
 - **ID**: dataset_truongtuananh76_truongtuananh76
 - **Source**: 
 
@@ -7658,6 +7726,10 @@
 
 ## 
 - **ID**: dataset_trydotatwo_legal_corpus_raw_batches
+- **Source**: 
+
+## 
+- **ID**: dataset_tsivakar_polysemous_words
 - **Source**: 
 
 ## 
@@ -8021,6 +8093,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_xiaomimimo_mimo_v2_6_rl_oss
+- **Source**: 
+
+## 
 - **ID**: dataset_xiuhuywh_drim_coldstartsft
 - **Source**: 
 
@@ -8090,6 +8166,10 @@
 
 ## 
 - **ID**: dataset_yanfang_sc_wds
+- **Source**: 
+
+## 
+- **ID**: dataset_yangyang857658468_infinity_mm_stage1_webdataset
 - **Source**: 
 
 ## 
