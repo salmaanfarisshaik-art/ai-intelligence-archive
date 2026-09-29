@@ -9,6 +9,9 @@
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit"
   ],
+  "1.58bit": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "2": [
     "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
@@ -237,6 +240,9 @@
   ],
   "apple-silicon": [
     "hf_antirez_deepseek-v4-gguf"
+  ],
+  "ar": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "arxiv": [
     "hf_ds_6947232e01886522f0154ff9"
@@ -1002,6 +1008,9 @@
     "hf_ds_66674f5483de542b724d771e",
     "hf_ds_69f4c655e0ddba5ac1808715"
   ],
+  "bitnet": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "bonsai": [
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
@@ -1084,6 +1093,7 @@
   "conversational": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
@@ -1157,6 +1167,9 @@
   ],
   "cppn": [
     "hf_ds_6a18ded575c463d5aecfcf4d"
+  ],
+  "cpu": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "css": [
     "secure-tailwindcss-palette-configurator",
@@ -1283,6 +1296,7 @@
     "hf_ds_699250f08be5bf8321aeb29e"
   ],
   "de": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
@@ -1294,6 +1308,7 @@
     "hf_ds_67d6c9b5ba56e14eeb14fab6"
   ],
   "deepseek": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_antirez_deepseek-v4-gguf"
   ],
   "deepseek-v4": [
@@ -1457,6 +1472,9 @@
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
+  "efficient": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "ego-centric": [
     "hf_ds_69c3db34480308a6a3cabb37"
   ],
@@ -1475,6 +1493,7 @@
   ],
   "en": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -1509,6 +1528,7 @@
   "endpoints_compatible": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -1605,6 +1625,7 @@
     "secure-tailwindcss-palette-configurator"
   ],
   "es": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
@@ -1793,6 +1814,7 @@
     "hf_zai-org_GLM-5.2-FP8"
   ],
   "fr": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
@@ -1851,6 +1873,7 @@
   "gguf": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
@@ -2008,11 +2031,13 @@
     "hf_antirez_deepseek-v4-gguf"
   ],
   "it": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "ja": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "javascript": [
@@ -2028,6 +2053,9 @@
   "jet-tagging": [
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
+  "jirack": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "journalism": [
     "hf_ds_69be6056f46b7dff732d8c53"
   ],
@@ -2040,6 +2068,9 @@
   ],
   "kimi_k2": [
     "hf_moonshotai_Kimi-K2-Instruct-0905"
+  ],
+  "ko": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "korea": [
     "hf_ds_6a9b618da26f068ce99f0512"
@@ -4269,6 +4300,7 @@
     "hf_ds_69f4c655e0ddba5ac1808715",
     "hf_ds_6a252aa1e7f978cbccbe94ed",
     "hf_ds_6a307dae8e258cbed418ec58",
+    "hf_ds_6a44a4c981d12be393e7749d",
     "hf_ds_6a7609d6663f80dd30d388fc",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -4365,6 +4397,7 @@
     "hf_meta-llama_Llama-3.2-1B-Instruct"
   ],
   "license:mit": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -4492,6 +4525,9 @@
   ],
   "long-horizon": [
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
+  ],
+  "low-memory": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "low-resource": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2"
@@ -5017,6 +5053,7 @@
     "nginx-reverse-proxy-configurator"
   ],
   "pt": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini"
@@ -5075,11 +5112,15 @@
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
   "qwen2": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_Qwen_Qwen2-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5"
+  ],
+  "qwen2.5": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "qwen3": [
     "hf_Qwen_Qwen3-0.6B",
@@ -5157,6 +5198,7 @@
   "region:us": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -5373,6 +5415,7 @@
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a3519d6ceabed997ec9ea1e",
     "hf_ds_6a382f6fa519cd301493b37b",
+    "hf_ds_6a44a4c981d12be393e7749d",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
@@ -5450,6 +5493,7 @@
     "hf_ds_69c3db34480308a6a3cabb37"
   ],
   "robotics": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_ds_67d97c4be2b27852325fd8e2",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
@@ -5460,12 +5504,19 @@
   "roleplay": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
   ],
+  "routing": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
+  "ru": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "rust": [
     "hf_distilbert_distilgpt2",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large"
   ],
   "safetensors": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -6106,6 +6157,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
   "ternary": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit"
   ],
@@ -6124,6 +6176,7 @@
   "text-generation": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_EleutherAI_pythia-160m",
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
@@ -6261,11 +6314,15 @@
     "hf_openai-community_gpt2"
   ],
   "th": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct"
   ],
   "timeseries": [
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
+  ],
+  "tool-call": [
+    "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "tool-calling": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -6384,6 +6441,9 @@
   "v": [
     "hf_ds_68a7fb1964bbb2ec688d1af2"
   ],
+  "vi": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "video": [
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6954cdff0a36f347a9b323fd",
@@ -6434,6 +6494,9 @@
   "weatherapi": [
     "realtime-weather-api"
   ],
+  "web-ui": [
+    "hf_CMSManhattan_JiRackUltra_1b"
+  ],
   "webdataset": [
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
@@ -6450,6 +6513,7 @@
     "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "zh": [
+    "hf_CMSManhattan_JiRackUltra_1b",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_Qwen_Qwen-72B",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",

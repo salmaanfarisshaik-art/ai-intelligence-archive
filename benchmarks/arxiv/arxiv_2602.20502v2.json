@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.20502v2",
+  "schema_version": "1.0",
+  "name": "ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.20502v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.20502v2",
+    "updated": "2026-09-28T17:40:20Z",
+    "published": "2026-02-24T03:03:18Z",
+    "title": "ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory",
+    "summary": "Many web agents operate through a reactive execution loop: they observe the current interface, reason about the next action, execute it, and repeat. This design incurs latency and cost that grow with the number of actions, while requiring agents to repeatedly rediscover how the same web application works. We present ActionEngine, a novel architecture that replaces step-by-step reasoning with programmatic execution using reusable knowledge of the application. A Crawling Agent explores the application offline and constructs an updatable state-machine memory that represents its GUI states, the operations available in each state, and the transitions between states. Unlike trajectory memory, this representation stores how the application works rather than solutions to individual tasks. At runtime, an Execution Agent uses this memory to synthesize a complete executable program in a single planning step, which is then executed deterministically without further planning calls. When the interface changes or the memory is incomplete, a reactive fallback repairs the failed action and updates the memory for future tasks. On 655 tasks across four WebArena domains, ActionEngine achieves a 91.2% success rate, outperforming the strongest reactive baseline, Claude Code, by 8.5 percentage points while reducing average task latency by 3.2x and cost by 8x.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:40:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.20502v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

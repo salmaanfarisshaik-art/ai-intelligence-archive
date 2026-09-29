@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23943v2",
+  "schema_version": "1.0",
+  "name": "Luce: Relightable Gaussians for 3D Asset Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23943v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23943v2",
+    "updated": "2026-09-28T17:57:43Z",
+    "published": "2026-08-25T01:03:55Z",
+    "title": "Luce: Relightable Gaussians for 3D Asset Generation",
+    "summary": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. However, preserving fine detail across the physically based rendering (PBR) modalities needed for relighting remains challenging. To address this, we propose Luce, a 3D representation that unifies geometry and PBR materials within a voxelized multimodal Gaussian cloud, using dedicated Gaussian primitives for albedo, metallic-roughness, and surface normals. A variational autoencoder compresses this representation into a unified material-aware latent space. A rectified-flow transformer generates this latent from a single image using multi-layer features from a pretrained image encoder that preserve both semantic context and fine spatial detail. The latent is then decoded into relightable PBR Gaussians and an optional textured mesh with a tangent-space normal map. On Toys4K, Luce achieves state-of-the-art single-image-to-3D generation, improving FID by 28% over the strongest baseline. We further evaluate Luce on a benchmark of AI-generated images depicting diverse subjects and materials, where it improves the CLIP image-alignment score over the best baseline (0.8519 vs. 0.8299). Luce generates relightable, geometrically accurate, and materially faithful assets that preserve fine details such as text, logos, and inscriptions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:57:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23943v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

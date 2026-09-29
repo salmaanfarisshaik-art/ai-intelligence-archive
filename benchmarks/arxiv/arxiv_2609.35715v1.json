@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35715v1",
+  "schema_version": "1.0",
+  "name": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35715v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35715v1",
+    "updated": "2026-09-28T17:46:42Z",
+    "published": "2026-09-28T17:46:42Z",
+    "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+    "summary": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe exploration problem: approaching, grasping, and reorienting diverse objects with many degrees of freedom is difficult to discover from scratch. Prior works make exploration tractable with high-quality robot demonstrations, per-task reward shaping, or by restricting policies to narrow modes of behavior. We propose X-Reset, a framework that instead resolves exploration with human hand-object demonstrations. Rather than imitating or tracking retargeted human motion, X-Reset kinematically retargets hand-object states to noisy robot states, filters out states that are unstable in simulation, and samples the remainder as resets during RL training with general-purpose object-centric rewards. The resulting policy depends only on object state and goal, with demonstrations entering training through the reset distribution. We show that X-Reset trains generalist policies on 20 objects across three embodiments---a 22-DoF hand on two different arms and a parallel-jaw gripper---and resolves the exploration challenges of RL from scratch. X-Reset scales with the number of training objects, generalizes to unseen objects, can learn from imperfect hand-pose estimates, and transfers behaviors zero-shot from sim-to-real.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:46:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35715v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

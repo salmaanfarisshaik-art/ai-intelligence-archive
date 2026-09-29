@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35673v1",
+  "schema_version": "1.0",
+  "name": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35673v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35673v1",
+    "updated": "2026-09-28T17:28:05Z",
+    "published": "2026-09-28T17:28:05Z",
+    "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+    "summary": "Tool-based image editing (image retouching) is commonly formulated with autoregressive multimodal large language models (MLLMs) that sequentially generate reasoning, tool selections, and parameter values. In this work, we present a novel approach to tool-based image editing by framing the task as a flow matching problem. We introduce FlowTool, a framework that directly models the distribution of high-quality tool parameters conditioned on the input image and user instruction using conditional rectified flow. FlowTool combines a vision-language model backbone for multimodal understanding with a Diffusion Transformer parameter generator that transforms Gaussian noise into an editing plan. We train FlowTool with a two-stage supervised flow-matching curriculum, followed by reward-based post-training. Across MMArt-Bench, FlowTool-Eval, ArtEdit-Bench, and MIT-Adobe5K, FlowTool achieves significantly stronger reference-based performance than specialized MLLM editing agents and proprietary MLLMs, while remaining competitive with proprietary models under reference-free evaluation. Moreover, FlowTool significantly improves inference efficiency, reducing latency by at least $50\\times$ while requiring nearly $2\\times$ less memory than the compared baselines. These results demonstrate that tool-based image editing can be effectively modeled as conditional generation over structured continuous editing parameters, without autoregressive reasoning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:28:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35673v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.10547v3",
+  "schema_version": "1.0",
+  "name": "VisionLogic: Discovering and Grounding Decision-Relevant Visual Concepts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.10547v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.10547v3",
+    "updated": "2026-09-28T17:25:28Z",
+    "published": "2025-03-13T17:04:04Z",
+    "title": "VisionLogic: Discovering and Grounding Decision-Relevant Visual Concepts",
+    "summary": "Concept-based explanations help users understand vision models through recognizable visual patterns. However, existing methods often rely on correlational signals without directly validating which image cues support prediction-relevant internal features. To this end, we introduce VisionLogic, a post-hoc framework that grounds these features in visual concepts through intervention-based validation. VisionLogic first identifies compact sets of features whose contributions reproduce the model's original prediction. It then represents their activation states as predicates using class-specific thresholds. An iterative refinement procedure grounds these predicates in visual regions through ablation tests. A region is accepted when its removal deactivates the corresponding predicate, linking the feature's numerical role to visual evidence in the input. The same predicates allow us to examine how features are activated, selected, and reused across images and classes. Across CNNs and vision transformers on ImageNet-1k, we find that only a few features are selected to explain each prediction, and frequently active features are not always selected. In a large-scale human evaluation with 465 participants, VisionLogic significantly improves participants' understanding of model behavior over established methods ACE and CRAFT. Code is available at https://github.com/allengeng123/VisionLogic.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:25:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.10547v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

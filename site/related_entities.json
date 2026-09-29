@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:20:46Z",
+  "generated_at": "2026-09-29T11:07:44Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -421,6 +421,9 @@
     "hf_Jackrong_Qwopus3.6-27B-v2": [
       "model_mconcat_qwopus3_6_27b_v2_awq_4bit"
     ],
+    "hf_Jackrong_Qwopus3.8-27B-Flash": [
+      "model_jackrong_qwopus3_8_27b_flash_v2_gguf"
+    ],
     "hf_JetBrains_Mellum2-12B-A2.5B-Instruct": [
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m",
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0"
@@ -754,6 +757,7 @@
     "hf_Qwen_Qwen2.5-7B": [
       "hf_Qwen_Qwen2.5-7B-Instruct",
       "model_jhu_clsp_rank1_7b",
+      "model_quantfactory_qwen2_5_coder_7b_gguf",
       "model_qwen_qwen2_5_7b_instruct",
       "model_qwen_qwen2_5_7b_instruct_1m",
       "model_qwen_qwen2_5_coder_7b",
@@ -1242,7 +1246,8 @@
       "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
-      "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf"
+      "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
+      "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf"
     ],
     "hf_RASA": [
       "model_kenpath_svara_tts_v1"
@@ -1370,6 +1375,7 @@
     ],
     "hf_XHToken_Spark-X2.5-4B": [
       "model_abenzerps_spark_x2_5_4b_gguf",
+      "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf",
       "model_xhtoken_spark_x2_5_4b_gguf"
     ],
     "hf_Zyphra_Zamba2-1.2B": [
@@ -1976,6 +1982,9 @@
     "hf_google_gemma-2-27b": [
       "model_google_gemma_2_27b_it"
     ],
+    "hf_google_gemma-2-27b-it": [
+      "model_bartowski_gemma_2_27b_it_gguf"
+    ],
     "hf_google_gemma-2-2b": [
       "model_efficient_large_model_gemma_2_2b_it",
       "model_google_gemma_2_2b_it"
@@ -2104,6 +2113,7 @@
       "model_bartowski_huihui_ai_qwen3_coder_next_abliterated_gguf"
     ],
     "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated": [
+      "model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf",
       "model_sakamakismile_huihui_qwen3_8_27b_abliterated_nvfp4"
     ],
     "hf_huihui-ai_Huihui-gpt-oss-20b-BF16-abliterated": [
@@ -2111,6 +2121,9 @@
     ],
     "hf_huihui-ai_Llama-3.3-70B-Instruct-abliterated": [
       "model_bartowski_llama_3_3_70b_instruct_abliterated_gguf"
+    ],
+    "hf_huihui-ai_Qwen2.5-Coder-14B-Instruct-abliterated": [
+      "model_bartowski_qwen2_5_coder_14b_instruct_abliterated_gguf"
     ],
     "hf_huihui-ai_Qwen2.5-Coder-7B-Instruct-abliterated": [
       "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf"
@@ -2454,6 +2467,7 @@
     "hf_mistralai_Mistral-7B-v0.1": [
       "model_gritlm_gritlm_7b",
       "model_huggingfaceh4_zephyr_7b_beta",
+      "model_maziyarpanahi_mistral_7b_v0_1_gguf",
       "model_mistralai_mistral_7b_instruct_v0_1",
       "model_nousresearch_hermes_2_pro_mistral_7b"
     ],
@@ -3801,6 +3815,9 @@
       "hf_cognitivecomputations_dolphin-2.9.3",
       "hf_nothingiisreal_Reddit-Dirty-And-WritingPrompts"
     ],
+    "model_bartowski_gemma_2_27b_it_gguf": [
+      "hf_google_gemma-2-27b-it"
+    ],
     "model_bartowski_gemma_2_2b_it_abliterated_gguf": [
       "hf_IlyaGusev_gemma-2-2b-it-abliterated"
     ],
@@ -3895,6 +3912,9 @@
     ],
     "model_bartowski_qwen2_5_7b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-7B-Instruct"
+    ],
+    "model_bartowski_qwen2_5_coder_14b_instruct_abliterated_gguf": [
+      "hf_huihui-ai_Qwen2.5-Coder-14B-Instruct-abliterated"
     ],
     "model_bartowski_qwen2_5_coder_14b_instruct_gguf": [
       "hf_Qwen_Qwen2.5-Coder-14B-Instruct"
@@ -4756,6 +4776,9 @@
     "model_jackrong_qwopus3_8_27b_flash_gguf": [
       "hf_Qwen_Qwen3.8-27B"
     ],
+    "model_jackrong_qwopus3_8_27b_flash_v2_gguf": [
+      "hf_Jackrong_Qwopus3.8-27B-Flash"
+    ],
     "model_jackrong_qwopus_glm_18b_merged_gguf": [
       "hf_Jackrong_Qwen3.5-9B-GLM5.1-Distill-v1",
       "hf_Jackrong_Qwopus3.5-9B-v3.5"
@@ -4861,6 +4884,9 @@
     ],
     "model_legraphista_glm_4_9b_chat_imat_gguf": [
       "hf_zai-org_glm-4-9b-chat"
+    ],
+    "model_lessthanthreeai_qwen3_8_27b_humanlike_chat_gguf": [
+      "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated"
     ],
     "model_lewtun_talkie_1930_13b_it_hf": [
       "hf_talkie-lm_talkie-1930-13b-it"
@@ -5282,6 +5308,9 @@
     ],
     "model_maziyarpanahi_mistral_7b_instruct_v0_3_gguf": [
       "hf_mistralai_Mistral-7B-Instruct-v0.3"
+    ],
+    "model_maziyarpanahi_mistral_7b_v0_1_gguf": [
+      "hf_mistralai_Mistral-7B-v0.1"
     ],
     "model_maziyarpanahi_mistral_large_instruct_2411_gguf": [
       "hf_mistralai_Mistral-Large-Instruct-2411"
@@ -6094,6 +6123,12 @@
     "model_pearl_ai_llama_3_1_8b_instruct_pearl": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
+    "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf": [
+      "hf_XHToken_Spark-X2.5-4B"
+    ],
+    "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
     "model_petals_team_stablebeluga2": [
       "hf_conceptofmind_cot_submix_original",
       "hf_conceptofmind_flan2021_submix_original",
@@ -6188,6 +6223,9 @@
     ],
     "model_qcri_fanar_2_27b_instruct": [
       "hf_google_gemma-3-27b-pt"
+    ],
+    "model_quantfactory_qwen2_5_coder_7b_gguf": [
+      "hf_Qwen_Qwen2.5-7B"
     ],
     "model_quanttrio_deepseek_v3_2_awq": [
       "hf_deepseek-ai_DeepSeek-V3.2"

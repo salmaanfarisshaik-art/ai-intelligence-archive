@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35671v1",
+  "schema_version": "1.0",
+  "name": "PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35671v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35671v1",
+    "updated": "2026-09-28T17:26:56Z",
+    "published": "2026-09-28T17:26:56Z",
+    "title": "PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents",
+    "summary": "Mobile GUI agents operate through a perception--action loop: at each step they screenshot the device, invoke a vision--language model (VLM), and emit an action. It is slow, costly, and brittle, yet most of what it does is navigation---and everyday navigation is static, ordered, and endlessly repeated. We present PhoneCLI, which compiles an app's GUI navigation into callable commands, without any app-internal API, runtime instrumentation, or model training. Offline, PhoneCLI explores a target app from the outside and distills its screens, interactive elements, and navigation edges into a semantically annotated map; each screen yields one deterministic command: a replay sequence that reaches it. Online, the agent selects a command, verifies it before execution, and then executes it deterministically in sub-second time at zero VLM cost; open-ended interaction and every failure of the compiled path fall back to the embedded VLM interpreter, exactly the pure VLM agent, so compilation can only help. On AndroidLab, PhoneCLI improves the task success rate while reducing steps and token consumption, and it transfers to AndroidWorld's official M3A agent with consistent efficiency gains. What PhoneCLI compiles is the app's navigation rather than one run, so it serves new tasks, not only repeated ones.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:26:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35671v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

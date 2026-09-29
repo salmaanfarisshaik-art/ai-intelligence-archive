@@ -1,5 +1,10 @@
 # Cs.It Export
 
+## Large Language Models are Shannon Lossy Compressors Not Solomonoff Induction Estimators: Self-improvement and Singularity Are Not Near Without Symbolic Model Synthesis
+- **ID**: arxiv_2601.05280v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.05280v6](http://arxiv.org/abs/2601.05280v6)
+
 ## Curvature-Weighted Capacity Allocation: A Minimum Description Length Framework for Layer-Adaptive Large Language Model Optimization
 - **ID**: arxiv_2603.00910v3
 - **Source**: ArXiv

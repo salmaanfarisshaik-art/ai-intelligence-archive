@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.12119v5](http://arxiv.org/abs/2502.12119v5)
 
+## VisionLogic: Discovering and Grounding Decision-Relevant Visual Concepts
+- **ID**: arxiv_2503.10547v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.10547v3](http://arxiv.org/abs/2503.10547v3)
+
 ## Stack Transformer Based Spatial-Temporal Attention Model for Dynamic Sign Language and Fingerspelling Recognition
 - **ID**: arxiv_2503.16855v3
 - **Source**: ArXiv
@@ -3470,6 +3475,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23730v2](http://arxiv.org/abs/2608.23730v2)
 
+## Luce: Relightable Gaussians for 3D Asset Generation
+- **ID**: arxiv_2608.23943v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23943v2](http://arxiv.org/abs/2608.23943v2)
+
 ## SeMoCo: A Semantic-First Motion Codec for Motion Language Modeling
 - **ID**: arxiv_2608.24334v2
 - **Source**: ArXiv
@@ -4954,4 +4964,84 @@
 - **ID**: arxiv_2609.31620v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31620v1](http://arxiv.org/abs/2609.31620v1)
+
+## Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras
+- **ID**: arxiv_2609.35658v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35658v1](http://arxiv.org/abs/2609.35658v1)
+
+## FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching
+- **ID**: arxiv_2609.35673v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35673v1](http://arxiv.org/abs/2609.35673v1)
+
+## DynaTokens: Teaching Dynamics to Camera-Controlled Video Models at Test Time
+- **ID**: arxiv_2609.35704v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35704v1](http://arxiv.org/abs/2609.35704v1)
+
+## Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing
+- **ID**: arxiv_2609.35708v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35708v1](http://arxiv.org/abs/2609.35708v1)
+
+## Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective
+- **ID**: arxiv_2609.35710v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35710v1](http://arxiv.org/abs/2609.35710v1)
+
+## Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision
+- **ID**: arxiv_2609.35718v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35718v1](http://arxiv.org/abs/2609.35718v1)
+
+## Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement
+- **ID**: arxiv_2609.35725v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35725v1](http://arxiv.org/abs/2609.35725v1)
+
+## Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring
+- **ID**: arxiv_2609.35726v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35726v1](http://arxiv.org/abs/2609.35726v1)
+
+## FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning
+- **ID**: arxiv_2609.35728v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35728v1](http://arxiv.org/abs/2609.35728v1)
+
+## GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space
+- **ID**: arxiv_2609.35734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35734v1](http://arxiv.org/abs/2609.35734v1)
+
+## InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video
+- **ID**: arxiv_2609.35743v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35743v1](http://arxiv.org/abs/2609.35743v1)
+
+## Copy the Same, Distill the Difference: Initializing Linear Vision Transformers
+- **ID**: arxiv_2609.35745v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35745v1](http://arxiv.org/abs/2609.35745v1)
+
+## Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose
+- **ID**: arxiv_2609.35764v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35764v1](http://arxiv.org/abs/2609.35764v1)
+
+## Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+- **ID**: arxiv_2609.35767v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35767v1](http://arxiv.org/abs/2609.35767v1)
+
+## PDMD: Projected Distribution Matching Distillation for Video Diffusion Models
+- **ID**: arxiv_2609.35768v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35768v1](http://arxiv.org/abs/2609.35768v1)
+
+## FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+- **ID**: arxiv_2609.35770v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35770v1](http://arxiv.org/abs/2609.35770v1)
 

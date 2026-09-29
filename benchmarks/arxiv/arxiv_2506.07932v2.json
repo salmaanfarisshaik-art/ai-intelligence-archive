@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.07932v2",
+  "schema_version": "1.0",
+  "name": "Squeeze3D: Extreme Neural Compression with Latent Space Bridging",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.07932v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.07932v2",
+    "updated": "2026-09-28T17:56:17Z",
+    "published": "2025-06-09T16:52:10Z",
+    "title": "Squeeze3D: Extreme Neural Compression with Latent Space Bridging",
+    "summary": "We propose Squeeze3D, a novel framework that leverages implicit prior knowledge learnt by existing pre-trained encoders and decoders to compress 3D data at extremely high compression ratios. Our approach bridges the latent spaces between a pre-trained encoder and a pretrained decoder model through trainable mapping networks. Any 3D asset represented as a mesh, point cloud, or radiance field is first encoded by the pre-trained encoder and then transformed (i.e. compressed) into a highly compact latent code by a mapping network. This latent code can effectively be used as an extremely compressed representation of the mesh, point cloud, or radiance field. A mapping network transforms the compressed latent code into the latent space of a powerful generative model; the decoder of this generative model then recreates the original 3D asset (i.e. decompression). Squeeze3D is trained entirely on generated synthetic data and does not require any 3D datasets. The Squeeze3D architecture can be flexibly used with existing pre-trained 3D encoders and existing generative models. It can flexibly support different formats, including meshes, point clouds, and radiance fields. Our experiments demonstrate that Squeeze3D achieves compression ratios of up to 2187$\\times$ for textured meshes, 58.5$\\times$ for point clouds, and more than 650$\\times$ for radiance fields while maintaining visual quality comparable to many existing methods. Squeeze3D only incurs a small compression and decompression latency since it does not involve training object-specific networks to compress an object.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:56:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.07932v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

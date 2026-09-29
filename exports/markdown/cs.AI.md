@@ -170,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.18640v3](http://arxiv.org/abs/2602.18640v3)
 
+## ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory
+- **ID**: arxiv_2602.20502v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.20502v2](http://arxiv.org/abs/2602.20502v2)
+
 ## Conformal Policy Control
 - **ID**: arxiv_2603.02196v4
 - **Source**: ArXiv
@@ -2350,6 +2355,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29596v1](http://arxiv.org/abs/2608.29596v1)
 
+## A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security
+- **ID**: arxiv_2608.29596v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29596v2](http://arxiv.org/abs/2608.29596v2)
+
 ## LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge
 - **ID**: arxiv_2608.29612v1
 - **Source**: ArXiv
@@ -3229,4 +3239,44 @@
 - **ID**: arxiv_2609.31619v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
+
+## PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents
+- **ID**: arxiv_2609.35671v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35671v1](http://arxiv.org/abs/2609.35671v1)
+
+## Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control
+- **ID**: arxiv_2609.35677v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35677v1](http://arxiv.org/abs/2609.35677v1)
+
+## Report: Progressive Disclosure of Agent Skills
+- **ID**: arxiv_2609.35692v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35692v1](http://arxiv.org/abs/2609.35692v1)
+
+## Reasoning with Continuous Latent Diffusion
+- **ID**: arxiv_2609.35694v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35694v1](http://arxiv.org/abs/2609.35694v1)
+
+## Reinforcing Agentic Creativity in Scientific Ideation with Night Science
+- **ID**: arxiv_2609.35706v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35706v1](http://arxiv.org/abs/2609.35706v1)
+
+## Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models
+- **ID**: arxiv_2609.35732v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35732v1](http://arxiv.org/abs/2609.35732v1)
+
+## Shockingly Simple Self-retrospection Improves Agentic Models Without RL
+- **ID**: arxiv_2609.35741v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35741v1](http://arxiv.org/abs/2609.35741v1)
+
+## FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents
+- **ID**: arxiv_2609.35744v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35744v1](http://arxiv.org/abs/2609.35744v1)
 

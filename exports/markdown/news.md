@@ -5896,6 +5896,11 @@
 - **URL**: [https://openai.com/index/tolan](https://openai.com/index/tolan)
 
 ## 
+- **ID**: rss_https://openai.com/index/towards-safety-cases-for-frontier-ai-training
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/towards-safety-cases-for-frontier-ai-training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)
+
+## 
 - **ID**: rss_https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness](https://openai.com/index/trading-inference-time-compute-for-adversarial-robustness)

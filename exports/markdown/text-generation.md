@@ -117,6 +117,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/ByteDance/Ouro-1.4B](https://huggingface.co/ByteDance/Ouro-1.4B)
 
+## CMSManhattan/JiRackUltra_1b
+- **ID**: hf_CMSManhattan_JiRackUltra_1b
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/CMSManhattan/JiRackUltra_1b](https://huggingface.co/CMSManhattan/JiRackUltra_1b)
+- **Tags**: 1.58bit, ar, bitnet, conversational, cpu, de, deepseek, efficient, en, endpoints_compatible, es, fr, gguf, it, ja, jirack, ko, license:mit, low-memory, pt, qwen2, qwen2.5, region:us, robotics, routing, ru, safetensors, ternary, text-generation, th, tool-call, vi, web-ui, zh
+
 ## ChantalPellegrini/RaDialog-interactive-radiology-report-generation
 - **ID**: hf_ChantalPellegrini_RaDialog-interactive-radiology-report-generation
 - **Source**: Hugging Face

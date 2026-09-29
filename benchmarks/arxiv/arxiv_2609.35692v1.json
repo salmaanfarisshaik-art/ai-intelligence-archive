@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35692v1",
+  "schema_version": "1.0",
+  "name": "Report: Progressive Disclosure of Agent Skills",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35692v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35692v1",
+    "updated": "2026-09-28T17:38:37Z",
+    "published": "2026-09-28T17:38:37Z",
+    "title": "Report: Progressive Disclosure of Agent Skills",
+    "summary": "Users of Workday's deployed LLM-based agents often request features which can be addressed by defining named procedures, also known as skills, in the LLM context, effectively augmenting agents' capabilities. However, as an agent's skills library grows in size, so does the agent's operational cost. Progressive disclosure (lazy-loading) of skills as needed may reduce operational costs, but its impact on overall latency and skill-retrieval quality remains unclear. In this report, we investigate the impact empirically and find that progressive disclosure improves skill-retrieval quality but marginally degrades overall latency.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-09-29T11:06:25Z",
+  "last_updated": "2026-09-28T17:38:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35692v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

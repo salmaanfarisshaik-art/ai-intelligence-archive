@@ -60,6 +60,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.18407v2](http://arxiv.org/abs/2502.18407v2)
 
+## No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding
+- **ID**: arxiv_2503.05061v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.05061v4](http://arxiv.org/abs/2503.05061v4)
+
 ## An Information-Theoretic Approach to Identifying Formulaic Clusters in Textual Data
 - **ID**: arxiv_2503.07303v3
 - **Source**: ArXiv
@@ -629,6 +634,11 @@
 - **ID**: arxiv_2605.07507v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07507v2](http://arxiv.org/abs/2605.07507v2)
+
+## Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models
+- **ID**: arxiv_2605.07721v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07721v3](http://arxiv.org/abs/2605.07721v3)
 
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
@@ -3369,4 +3379,54 @@
 - **ID**: arxiv_2609.31571v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31571v1](http://arxiv.org/abs/2609.31571v1)
+
+## Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context
+- **ID**: arxiv_2609.35663v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35663v1](http://arxiv.org/abs/2609.35663v1)
+
+## MS-GLA: Multi-Scale Gated Linear Attention for Addressing Representational Bottlenecks via Multi-Temporal Resolution
+- **ID**: arxiv_2609.35664v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35664v1](http://arxiv.org/abs/2609.35664v1)
+
+## Tracing the Evolution of Oracle Bone Characters Across Three Millennia
+- **ID**: arxiv_2609.35674v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35674v1](http://arxiv.org/abs/2609.35674v1)
+
+## QuanReview: Offline, Auditable Reconciliation of Human and LLM Span Annotations
+- **ID**: arxiv_2609.35685v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35685v1](http://arxiv.org/abs/2609.35685v1)
+
+## Harness Learning Enables Generalizable Test-Time Adaptation
+- **ID**: arxiv_2609.35738v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35738v1](http://arxiv.org/abs/2609.35738v1)
+
+## Improving Test-Time Scaling with Adaptive Looped Transformers
+- **ID**: arxiv_2609.35748v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35748v1](http://arxiv.org/abs/2609.35748v1)
+
+## Towards Communication-Efficient Social Intelligence in Language Agents
+- **ID**: arxiv_2609.35749v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35749v1](http://arxiv.org/abs/2609.35749v1)
+
+## Scaling Long-Form Story Generation via Narrative State Tracking
+- **ID**: arxiv_2609.35759v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35759v1](http://arxiv.org/abs/2609.35759v1)
+
+## Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales
+- **ID**: arxiv_2609.35765v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35765v1](http://arxiv.org/abs/2609.35765v1)
+
+## Telescopic Language Models
+- **ID**: arxiv_2609.35769v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35769v1](http://arxiv.org/abs/2609.35769v1)
 

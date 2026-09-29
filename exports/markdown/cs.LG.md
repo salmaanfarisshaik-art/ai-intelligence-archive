@@ -1730,3 +1730,43 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31603v1](http://arxiv.org/abs/2609.31603v1)
 
+## Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?
+- **ID**: arxiv_2609.35686v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35686v1](http://arxiv.org/abs/2609.35686v1)
+
+## Rethinking Personalized Generation: Test-Time Alignment via Factorized Ranking Models
+- **ID**: arxiv_2609.35695v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35695v1](http://arxiv.org/abs/2609.35695v1)
+
+## Distillation Defenses Easily Break After Reinforcement Learning
+- **ID**: arxiv_2609.35699v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35699v1](http://arxiv.org/abs/2609.35699v1)
+
+## A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion
+- **ID**: arxiv_2609.35703v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35703v1](http://arxiv.org/abs/2609.35703v1)
+
+## X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets
+- **ID**: arxiv_2609.35715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35715v1](http://arxiv.org/abs/2609.35715v1)
+
+## KV-streams for Efficient Compaction in Agentic Reinforcement Learning
+- **ID**: arxiv_2609.35750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35750v1](http://arxiv.org/abs/2609.35750v1)
+
+## How to Loop MoE: Flatten the Experts, Untie the Attention
+- **ID**: arxiv_2609.35751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35751v1](http://arxiv.org/abs/2609.35751v1)
+
+## TokenCast: Forecasting Token Consumption During LLM Agent Execution
+- **ID**: arxiv_2609.35760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35760v1](http://arxiv.org/abs/2609.35760v1)
+
