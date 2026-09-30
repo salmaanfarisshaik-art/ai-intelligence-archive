@@ -1,0 +1,29 @@
+{
+  "_id": "686fc33898943c873b45c9a0",
+  "id": "HuggingFaceTB/smoltalk2",
+  "author": "HuggingFaceTB",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-31T13:49:55.000Z",
+  "likes": 172,
+  "private": false,
+  "sha": "fc6cc2103c066455aade5d7fbb346039ae36ca5e",
+  "description": "\n\t\n\t\t\n\t\tSmolTalk2\n\t\n\n\n\n\t\n\t\t\n\t\tDataset description\n\t\n\nThis dataset contains three subsets (Mid, SFT, Preference) that correspond to the three phases of Post-Training for SmolLM3-3B. You can find more details in our blog post about how we used the data in each of the stages SmolLM3.\nThe specific weight of each subset is available in the training recipe in SmolLM's repository.\nYou can load a dataset using\nfrom datasets import load_dataset\n\n# To load the train split of a specific subset, such as… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceTB/smoltalk2.",
+  "downloads": 30418,
+  "tags": [
+    "size_categories:1M<n<10M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2410.15553",
+    "arxiv:2412.15115",
+    "region:us"
+  ],
+  "createdAt": "2025-07-10T13:42:16.000Z",
+  "key": "",
+  "unique_id": "dataset_huggingfacetb_smoltalk2",
+  "schema_version": "1.0"
+}

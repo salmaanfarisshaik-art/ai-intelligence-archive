@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90082
+**Total Entities Tracked**: 90084
 
 ## Category Distribution
 
@@ -8,7 +8,7 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2105
-- **models**: 1755
+- **models**: 1757
 - **news**: 1264
 - **dataset**: 1190
 - **cs.CV**: 1036
@@ -96,7 +96,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31038
+- ****: 31040
 - **ArXiv**: 3418
 - **Hugging Face**: 2019
 - **OpenAI Blog**: 1250

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:00:52Z",
+  "generated_at": "2026-09-30T14:52:55Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -3849,6 +3849,16 @@
     {
       "source_id": "model_lmstudio_community_qwen3_14b_mlx_8bit",
       "target_id": "hf_Qwen_Qwen3-14B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen3_32b_mlx_4bit",
+      "target_id": "hf_Qwen_Qwen3-32B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen3_32b_mlx_8bit",
+      "target_id": "hf_Qwen_Qwen3-32B",
       "type": "derived_from"
     },
     {

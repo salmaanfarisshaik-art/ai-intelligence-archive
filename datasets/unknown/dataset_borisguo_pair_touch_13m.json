@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f27e0a4283d1c818cbd117a7de9d682ccdc47d0e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPairTouch 13M Dataset\n\t\n\nMulti-modal tactile dataset with pose, force, and tactile sensor data.\n\n\t\n\t\t\n\t\n\t\n\t\tConfigs\n\t\n\n\n\t\n\t\t\nConfig\nDescription\nSensors\n\n\n\t\t\npose_data\nPose estimation data\ntac02/xela + camera\n\n\nforce_data\nForce measurement data\ntac02/xela + gelsight\n\n\ntacniq_gsmini\nTacNIQ + GSMini data\ntacniq + gsmini\n\n\nxela_9dtact\nXELA + 9DTact data\nxela + 9dtact\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load specific config\nds =… See the full description on the dataset page: https://huggingface.co/datasets/BorisGuo/pair_touch_13m.",
-  "downloads": 40862,
+  "downloads": 41712,
   "tags": [
     "modality:image",
     "region:us"

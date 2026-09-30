@@ -776,6 +776,10 @@
 - **ID**: model_boboliu_qwen3_reranker_4b_w4a16_g128
 - **Source**: 
 
+## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PQ2_0-MTP-GGUF
+- **ID**: model_boldingbuilds_ternary_bonsai_2_27b_abliterated_pq2_0_mtp_gguf
+- **Source**: 
+
 ## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUF
 - **ID**: model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf
 - **Source**: 
@@ -6870,6 +6874,10 @@
 
 ## yujiepan/llama-2-tiny-random
 - **ID**: model_yujiepan_llama_2_tiny_random
+- **Source**: 
+
+## yujiepan/qwen3-tiny-random
+- **ID**: model_yujiepan_qwen3_tiny_random
 - **Source**: 
 
 ## yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2
