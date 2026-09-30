@@ -113,7 +113,7 @@
 ## OpenBB
 - **ID**: gh_323048702
 - **Source**: GitHub Trending
-- **URL**: [https://github.com/OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)
+- **URL**: [https://github.com/openbq-org/OpenBB](https://github.com/openbq-org/OpenBB)
 
 ## AI-For-Beginners
 - **ID**: gh_344190478
