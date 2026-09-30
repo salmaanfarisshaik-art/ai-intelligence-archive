@@ -1646,6 +1646,11 @@
 - **URL**: [https://openai.com/index/disney-sora-agreement](https://openai.com/index/disney-sora-agreement)
 
 ## 
+- **ID**: rss_https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)
+
+## 
 - **ID**: rss_https://openai.com/index/disrupting-a-covert-iranian-influence-operation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/disrupting-a-covert-iranian-influence-operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation)
@@ -2804,6 +2809,11 @@
 - **ID**: rss_https://openai.com/index/helping-people-when-they-need-it-most
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/helping-people-when-they-need-it-most](https://openai.com/index/helping-people-when-they-need-it-most)
+
+## 
+- **ID**: rss_https://openai.com/index/helping-small-businesses-put-ai-to-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/helping-small-businesses-put-ai-to-work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
 
 ## 
 - **ID**: rss_https://openai.com/index/hex-gpt-6-astra

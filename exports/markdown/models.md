@@ -2796,6 +2796,14 @@
 - **ID**: model_lmstudio_community_qwen3_14b_mlx_8bit
 - **Source**: 
 
+## lmstudio-community/Qwen3-32B-MLX-4bit
+- **ID**: model_lmstudio_community_qwen3_32b_mlx_4bit
+- **Source**: 
+
+## lmstudio-community/Qwen3-32B-MLX-8bit
+- **ID**: model_lmstudio_community_qwen3_32b_mlx_8bit
+- **Source**: 
+
 ## lmstudio-community/Qwen3-4B-Instruct-2507-GGUF
 - **ID**: model_lmstudio_community_qwen3_4b_instruct_2507_gguf
 - **Source**: 
@@ -6830,6 +6838,10 @@
 
 ## XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash
 - **ID**: model_xiaomimimo_mimo_v2_5_pro_fp4_dflash
+- **Source**: 
+
+## XiaomiMiMo/MiMo-V2.6-Flash-RL
+- **ID**: model_xiaomimimo_mimo_v2_6_flash_rl
 - **Source**: 
 
 ## XiaomiMiMo/MiMo-V2.6-Pro-RL

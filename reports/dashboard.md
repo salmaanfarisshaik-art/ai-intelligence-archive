@@ -1,6 +1,6 @@
 # AI Intelligence Archive Dashboard
 
-**Last Updated**: 2026-09-30T14:51:52.628578+00:00
+**Last Updated**: 2026-09-30T19:50:41.721933+00:00
 **Status**: unknown
 
 ## Sync Status
@@ -8,7 +8,7 @@
 - **Failed Connectors**: None
 
 ## Statistics
-- **Total Entities**: 90084
+- **Total Entities**: 90111
 - **Cache Hits**: 0
 - **Cache Misses**: 0
 - **Warnings**: 0
