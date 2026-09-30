@@ -12,6 +12,7 @@
 | [CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](http://arxiv.org/abs/2604.14586v3) | ArXiv |  | 1 |
 | [Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference](http://arxiv.org/abs/2608.20210v1) | ArXiv |  | 1 |
 | [DeGRe: Dense-supervised Generative Reranking for Recommendation](http://arxiv.org/abs/2605.25749v2) | ArXiv |  | 1 |
+| [Effective Dense Retrieval using Only In-Context Examples](http://arxiv.org/abs/2609.38099v1) | ArXiv |  | 1 |
 | [Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA](http://arxiv.org/abs/2604.23336v3) | ArXiv |  | 1 |
 | [Evaluating Perspectival Biases in Cross-Modal Retrieval](http://arxiv.org/abs/2510.26861v4) | ArXiv |  | 1 |
 | [FinSAgent: Corpus-Aligned Multi-Agent RAG Framework for Evidence-Grounded SEC Filing Question Answering](http://arxiv.org/abs/2607.18102v1) | ArXiv |  | 1 |
@@ -24,6 +25,7 @@
 | [PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU](http://arxiv.org/abs/2508.15436v2) | ArXiv |  | 1 |
 | [Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention](http://arxiv.org/abs/2609.22056v1) | ArXiv |  | 1 |
 | [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](http://arxiv.org/abs/2606.18379v4) | ArXiv |  | 1 |
+| [RecKG: Knowledge Graph for Recommender Systems](http://arxiv.org/abs/2501.03598v2) | ArXiv |  | 1 |
 | [RePair: Turning Retrieval Failures into Counterfactual Hard Pairs](http://arxiv.org/abs/2608.29604v1) | ArXiv |  | 1 |
 | [Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering](http://arxiv.org/abs/2604.04593v2) | ArXiv |  | 1 |
 | [Semantic Candidate-Job Matching: A Comparative Evaluation of Dense Embedding Models in Hybrid Retrieval](http://arxiv.org/abs/2609.23307v1) | ArXiv |  | 1 |

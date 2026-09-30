@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.27999v2",
+  "schema_version": "1.0",
+  "name": "Learning to Assign Prediction Tasks to Agents with Capacity Constraints",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.27999v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.27999v2",
+    "updated": "2026-09-29T17:44:39Z",
+    "published": "2026-05-27T05:45:47Z",
+    "title": "Learning to Assign Prediction Tasks to Agents with Capacity Constraints",
+    "summary": "We address the problem of learning to assign prediction tasks to one agent from a set of available agents, including human decision-makers and AI models. We focus on sequential learning of agent expertise and assignment policies where each agent is constrained to handle a fraction of tasks. We provide a general theoretical characterization of this problem in terms of agent capacities, differences in agent expertise, and task context. We then develop a framework of sequential explore-exploit policy-learning algorithms that seek to maximize overall performance. Experimental results over a variety of tabular, image, and text prediction tasks demonstrate systematic gains from our policy-learning algorithms relative to non-contextual baselines across different types of agents, including LLMs and humans.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:44:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.27999v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

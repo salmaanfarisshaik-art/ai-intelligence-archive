@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38123v1",
+  "schema_version": "1.0",
+  "name": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38123v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38123v1",
+    "updated": "2026-09-29T17:51:41Z",
+    "published": "2026-09-29T17:51:41Z",
+    "title": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+    "summary": "World simulation is inherently multisensory, demanding synchronized visual and acoustic dynamics in real time. Yet prevailing interactive world models remain strictly silent, focusing exclusively on visual rendering and control while overlooking the acoustic dimension. We present HelixWorld, a real-time interactive audio-visual world model where visual scenes and camera-grounded spatial stereo sound co-evolve natively under user interaction. We curate a high-fidelity spatial audio-visual dataset with true stereo acoustics and metric camera poses, upon which we pre-train a bidirectional teacher conditioned on 6-DoF camera trajectories and user actions. To enable low-latency causal interaction, we distill the teacher into a few-step streaming student via an online trajectory distillation loss, sustaining drift-free joint audio-visual rollouts at 24 FPS on a single GPU. Furthermore, we formalize spatial-acoustic consistency and introduce HelixBench to evaluate whether synthesized sound fields faithfully track dynamic viewpoint motion. Extensive experiments demonstrate that HelixWorld matches state-of-the-art silent world models in visual fidelity and responsiveness, while significantly surpassing existing baselines in camera-aligned spatial-acoustic immersion.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:51:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38123v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

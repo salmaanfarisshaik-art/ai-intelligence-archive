@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38106v1",
+  "schema_version": "1.0",
+  "name": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38106v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38106v1",
+    "updated": "2026-09-29T17:46:50Z",
+    "published": "2026-09-29T17:46:50Z",
+    "title": "Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs",
+    "summary": "Speech-LLMs are expensive to run, making compression important for real-world deployment. However, compressed models are usually selected using aggregate word error rate (WER), which can hide how pruning affects different demographic groups. In this work, we systematically study the effect of audio encoder pruning on SLAM-ASR for different demographic groups. Using the Fair-Speech and Common Voice datasets, we found that the pruning does not affect all demographic groups equally; the gap between best- and worst-performing groups increases in fold. These disparities appear across all three encoder scales, but only the largest model initially hides them behind aggregate WER. LoRA adaptation improves WER for every group, but benefits groups already performing well more strongly and widens for certain groups. On Common Voice English, Danish, and Dutch, accent gaps persist but do not clearly widen, showing that the fairness effects of pruning vary across datasets and must be measured directly. Our findings suggest that for pruned models, deployment decisions should include per-group WER, with the worst-performing group's error rate as an explicit criterion.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:46:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38106v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5075,3 +5075,108 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36957v1](http://arxiv.org/abs/2609.36957v1)
 
+## RS-OPSD: Reliable Privileged On-Policy-Self-Distillation for Ultra-High-Resolution Remote Sensing VQA
+- **ID**: arxiv_2609.38072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38072v1](http://arxiv.org/abs/2609.38072v1)
+
+## MUGEN: Interactive Panoramic World Exploration via Camera Control
+- **ID**: arxiv_2609.38077v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38077v1](http://arxiv.org/abs/2609.38077v1)
+
+## OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?
+- **ID**: arxiv_2609.38079v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38079v1](http://arxiv.org/abs/2609.38079v1)
+
+## VISTA: Internalizing Collective Visual Experience via On-Policy Distillation for Active Multimodal Agents
+- **ID**: arxiv_2609.38086v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38086v1](http://arxiv.org/abs/2609.38086v1)
+
+## Self-Aligned Forcing: Streaming Video Diffusion with Differentiable Noisy History
+- **ID**: arxiv_2609.38114v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38114v1](http://arxiv.org/abs/2609.38114v1)
+
+## GA-EIRFS: A Geometry-Augmented Repeat-Factor Sampling Method for Long-Tailed LiDAR 3D Object Detection
+- **ID**: arxiv_2609.38116v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38116v1](http://arxiv.org/abs/2609.38116v1)
+
+## VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents
+- **ID**: arxiv_2609.38119v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38119v1](http://arxiv.org/abs/2609.38119v1)
+
+## HelixWorld: A Real-time Interactive Audio-Visual World Model
+- **ID**: arxiv_2609.38123v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38123v1](http://arxiv.org/abs/2609.38123v1)
+
+## CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer
+- **ID**: arxiv_2609.38136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38136v1](http://arxiv.org/abs/2609.38136v1)
+
+## Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE
+- **ID**: arxiv_2609.38140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38140v1](http://arxiv.org/abs/2609.38140v1)
+
+## LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation
+- **ID**: arxiv_2609.38146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38146v1](http://arxiv.org/abs/2609.38146v1)
+
+## FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation
+- **ID**: arxiv_2609.38152v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38152v1](http://arxiv.org/abs/2609.38152v1)
+
+## PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams
+- **ID**: arxiv_2609.38153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38153v1](http://arxiv.org/abs/2609.38153v1)
+
+## LongLive-Plug: Once-for-All Distillation for Video Generation
+- **ID**: arxiv_2609.38154v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38154v1](http://arxiv.org/abs/2609.38154v1)
+
+## Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies
+- **ID**: arxiv_2609.38155v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38155v1](http://arxiv.org/abs/2609.38155v1)
+
+## DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses
+- **ID**: arxiv_2609.38156v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38156v1](http://arxiv.org/abs/2609.38156v1)
+
+## Rethinking Representations for World-Action Modeling
+- **ID**: arxiv_2609.38163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38163v1](http://arxiv.org/abs/2609.38163v1)
+
+## Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data
+- **ID**: arxiv_2609.38165v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38165v1](http://arxiv.org/abs/2609.38165v1)
+
+## Adversarial Training for Pixel Diffusion
+- **ID**: arxiv_2609.38170v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38170v1](http://arxiv.org/abs/2609.38170v1)
+
+## Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
+- **ID**: arxiv_2609.38177v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38177v1](http://arxiv.org/abs/2609.38177v1)
+
+## Point2Part: Unified 3D Partitioning from Point Prompts
+- **ID**: arxiv_2609.38180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38180v1](http://arxiv.org/abs/2609.38180v1)
+

@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.16268v2](http://arxiv.org/abs/2605.16268v2)
 
+## Learning to Assign Prediction Tasks to Agents with Capacity Constraints
+- **ID**: arxiv_2605.27999v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.27999v2](http://arxiv.org/abs/2605.27999v2)
+
 ## Label Over Logic? How Source Cues Bias Human Fallacy Judgments More Than LLMs
 - **ID**: arxiv_2605.29928v3
 - **Source**: ArXiv

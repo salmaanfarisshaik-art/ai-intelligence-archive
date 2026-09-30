@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23321v1](http://arxiv.org/abs/2609.23321v1)
 
+## ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations
+- **ID**: arxiv_2609.32868v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32868v2](http://arxiv.org/abs/2609.32868v2)
+
 ## 
 - **ID**: arxiv_2609.36954v1
 - **Source**: ArXiv

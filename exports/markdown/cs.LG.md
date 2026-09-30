@@ -255,6 +255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00626v4](http://arxiv.org/abs/2604.00626v4)
 
+## Screening Is Enough
+- **ID**: arxiv_2604.01178v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01178v4](http://arxiv.org/abs/2604.01178v4)
+
 ## From Rebound to Remedy: Understanding and Mitigating Reward Hacking via Representation Engineering
 - **ID**: arxiv_2604.01476v3
 - **Source**: ArXiv
@@ -1300,6 +1305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26086v1](http://arxiv.org/abs/2608.26086v1)
 
+## ClusterAttention: A training-free speedup of bidirectional attention
+- **ID**: arxiv_2608.26965v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26965v2](http://arxiv.org/abs/2608.26965v2)
+
 ## Beyond Parallel Blindness: Information Floors and Model Gaps in Block Drafting
 - **ID**: arxiv_2608.27339v1
 - **Source**: ArXiv
@@ -1770,6 +1780,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35750v1](http://arxiv.org/abs/2609.35750v1)
 
+## KV-streams for Efficient Compaction in Agentic Reinforcement Learning
+- **ID**: arxiv_2609.35750v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35750v2](http://arxiv.org/abs/2609.35750v2)
+
 ## How to Loop MoE: Flatten the Experts, Untie the Attention
 - **ID**: arxiv_2609.35751v1
 - **Source**: ArXiv
@@ -1799,4 +1814,9 @@
 - **ID**: arxiv_2609.36966v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36966v1](http://arxiv.org/abs/2609.36966v1)
+
+## LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization
+- **ID**: arxiv_2609.38166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38166v1](http://arxiv.org/abs/2609.38166v1)
 

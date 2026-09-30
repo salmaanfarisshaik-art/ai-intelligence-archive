@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38114v1",
+  "schema_version": "1.0",
+  "name": "Self-Aligned Forcing: Streaming Video Diffusion with Differentiable Noisy History",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38114v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38114v1",
+    "updated": "2026-09-29T17:49:31Z",
+    "published": "2026-09-29T17:49:31Z",
+    "title": "Self-Aligned Forcing: Streaming Video Diffusion with Differentiable Noisy History",
+    "summary": "Autoregressive video diffusion enables interactive streaming generation, but suffers from error accumulation over long rollouts. Self-rollout training reduces exposure bias, yet finite rollouts leave long-range drift unresolved. We observe that the noise level of the history key-value (K/V) representations trades visual quality against motion, and that restoring gradients through the history aligns causal training far more closely with bidirectional training. Motivated by these observations, we introduce Self-Aligned Forcing (SAF), a training scheme that aligns the history of each block with the noise level of the block being denoised. Specifically, the history is the K/V produced by preceding blocks at the same denoising stage, so all blocks at a stage can be denoised in a single forward pass under a causal mask. This keeps the noisy history differentiable, allowing future losses to optimize how it is encoded. SAF therefore avoids a separate no-gradient rollout and per-block timestep-zero recaching, training up to 1.8x faster than prior methods with lower memory. At inference, SAF achieves the highest single-GPU throughput among existing methods and keeps one history bank per stage for a multi-GPU pipeline, reaching 49.1 FPS on 4 GPUs. Experiments show superior long-horizon generation with a better balance between visual quality and motion. Project page: https://anonymous.4open.science/w/self-aligned-forcing/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:49:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38114v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

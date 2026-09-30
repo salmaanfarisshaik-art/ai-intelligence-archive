@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38099v1",
+  "schema_version": "1.0",
+  "name": "Effective Dense Retrieval using Only In-Context Examples",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38099v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38099v1",
+    "updated": "2026-09-29T17:44:16Z",
+    "published": "2026-09-29T17:44:16Z",
+    "title": "Effective Dense Retrieval using Only In-Context Examples",
+    "summary": "Turning decoder-only large language models (LLMs) into strong dense retrievers typically requires some form of retriever training. In this paper, we ask whether LLMs can instead be prompted to produce effective representations for dense retrieval given only a few in-context examples. To answer this, we introduce RICE (Representations from In-Context Examples), a simple \"training-free\" approach that extracts high-quality dense representations from LLMs. To do so, RICE conditions the LLM on examples that provide a shared context for query and document encoding. Our results demonstrate that RICE embeddings can substantially improve the accuracy of prompt-based LLM embeddings, establishing it as a simple method to build LLM-based dense retrievers that do not require training. We release our code at https://github.com/nourj98/RICE.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:44:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38099v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.01178v4",
+  "schema_version": "1.0",
+  "name": "Screening Is Enough",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.01178v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.01178v4",
+    "updated": "2026-09-29T17:56:01Z",
+    "published": "2026-04-01T17:29:08Z",
+    "title": "Screening Is Enough",
+    "summary": "We call query--key relevance absolute when its values lie on a fixed bounded scale, depend on neither competing keys nor sequence length, require no sequence-length-dependent calibration, and can all be zero. To realize this notion, we introduce screening, whose explicit threshold transforms bounded query--key similarities into relevance values, enabling exact rejection, empty selection, and direct inspection on a common scale. In a controlled comparison of 12 attention mechanisms on a matched Transformer backbone, only screening maintains both low long-context perplexity and robust retrieval beyond the training context; notably, it does so without inference-time scaling. Building on screening, we introduce Multiscreen, a language-model architecture composed of parallel gated screening tiles. Multiscreen retains these long-context gains while achieving greater parameter efficiency, stronger general zero-shot downstream performance, lower training cost at larger scales, and lower model-side time to first token than Transformer baselines. We further develop a normalization design that keeps Multiscreen training stable even at a learning rate of $1$ and show that an adapted version likewise stabilizes Transformer at the same learning rate.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:56:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.01178v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

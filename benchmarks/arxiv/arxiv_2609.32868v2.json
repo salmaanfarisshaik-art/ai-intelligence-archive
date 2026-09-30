@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.32868v2",
+  "schema_version": "1.0",
+  "name": "ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.32868v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.32868v2",
+    "updated": "2026-09-29T17:32:47Z",
+    "published": "2026-09-26T18:53:22Z",
+    "title": "ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations",
+    "summary": "Traditional scientific computing requires researchers to translate computational intent into environment configuration, resource requests, and executable jobs, then diagnose failures from scheduler state and application logs. We present ASCEND (Autonomous Scientific Computing Engine and Novel Discovery), an AI-powered agent interface that runs the agent on the researcher's own laptop, reaching Slurm-managed clusters and a GPU workstation over a multiplexed authenticated connection, with site-specific execution policies checked by locally executed tools; the language model is hosted remotely and holds no credentials. No facility-scale service is required: an account on each resource is sufficient, and the public installer lets users link additional Slurm clusters or workstations of their own. We report four recorded cases: (1) the agent closed a failure-recovery loop on a planted tensor-device fault, submitting, diagnosing, repairing and resubmitting with job-level artifacts preserved; (2) it reproduced the published evaluation of a weather-forecasting model from the author's released forecasts, agreeing with the published curves to 2.1% (z500) and 2.4% (t850) while identifying a unit discrepancy in the paper's prose and an initialization-field discrepancy in its released data; (3) it parallelized a released 12,693-line geophysical solver under a bit-for-bit identity requirement, reducing wall-clock runtime from about twelve hours to about two; (4) that requirement exposed two instances of undefined behaviour in the published solver, both repaired and reported upstream. Separately, a pre-specified evaluation of the policy layer found the deployed validator rejected 29 of 30 constructed violations and held the remaining one for approval, while denying 3 of 14 legitimate requests. Autonomy was exercised under author supervision; an end-to-end recovery benchmark remains outstanding.",
+    "primary_category": "cs.DC"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:32:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.32868v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38109v1",
+  "schema_version": "1.0",
+  "name": "How Local Mixing Encodes Relative Position in Global NoPE Attention",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38109v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38109v1",
+    "updated": "2026-09-29T17:47:41Z",
+    "published": "2026-09-29T17:47:41Z",
+    "title": "How Local Mixing Encodes Relative Position in Global NoPE Attention",
+    "summary": "The attention operation is naively position invariant. However, positional information is fundamental to natural language, and therefore a variety of explicit position encodings have been developed in transformer-based models, such as rotary position encoding (RoPE). Although explicit position encodings have long been assumed to be required, recent methods that interleave local mixing layers, such as sliding window attention (SWA) and gated linear attention, while not encoding position (NoPE) in global attention layers has recently been shown to be successful at scale. How and why this approach works is not well-understood. In this paper, we develop an explanation of how hybrid models of this sort can implicitly encode position at global NoPE layers. Supported by both theoretical and empirical evidence, our central argument is that SWA and gated linear attention induce a recency bias in the residual stream that propagates to, and is selected by, the global attention logits. Moreover, in contrast to the implicit position encodings found in models with only global NoPE attention, in which positional information arises solely from the causal mask, the recency bias in hybrid models can be maintained across long sequences. In addition to deepening our understanding of how hybrid models encode position, these findings may provide insights for how to encode position in a way that can extrapolate to longer sequence lengths indefinitely.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:47:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38109v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

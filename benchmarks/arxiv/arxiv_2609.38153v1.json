@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38153v1",
+  "schema_version": "1.0",
+  "name": "PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38153v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38153v1",
+    "updated": "2026-09-29T17:58:37Z",
+    "published": "2026-09-29T17:58:37Z",
+    "title": "PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams",
+    "summary": "We introduce PowerSim, a method to bring physically grounded, differentiable dynamics to PowerFoam's power diagram based 3D representation. PowerSim directly couples a pre-trained PowerFoam scene to the Material Point Method (MPM) by exploiting a natural alignment between the two: the geometric and appearance properties of each primitive correspond closely to the quantities MPM already tracks as an object deforms. Consequently, simulated motion can drive the scene's geometry and appearance directly, without an auxiliary representation in between. Built on this framework, we enable a range of applications on real and synthetic scenes: (1) simulating a static scene under user interaction, (2) recovering spatially varying material fields, (3) compositing primitives from independently captured scenes into a single simulation-ready scene and (4) ray-tracing reflections that update consistently as the object deforms. Our results suggest that PowerSim excels over previous frameworks for physically grounded dynamics, while unlocking unique advantages-such as secondary ray lighting effects on dynamic scenes. Results are best viewed on our project website: https://power-sim.github.io/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:58:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38153v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

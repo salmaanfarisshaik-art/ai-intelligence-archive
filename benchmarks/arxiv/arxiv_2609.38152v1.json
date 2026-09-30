@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38152v1",
+  "schema_version": "1.0",
+  "name": "FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.38152v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38152v1",
+    "updated": "2026-09-29T17:58:31Z",
+    "published": "2026-09-29T17:58:31Z",
+    "title": "FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation",
+    "summary": "We introduce FracGen, a fracture-aware video generation model that produces plausible, controllable fracture dynamics from a single image of an intact object, conditioned on physics signals. To train FracGen, we build FracSim, a fracture-aware simulation framework that augments material point method (MPM) simulation with a continuum damage model, producing paired fracture videos and dense, pixel-aligned physical fields at no additional cost beyond standard rendering. FracGen leverages these maps in two ways: it is trained to jointly predict them alongside RGB video, encouraging the model to capture physical state rather than surface appearance; and it is supervised with physics-informed losses that encourage consistency among the predicted maps. As a result, FracGen captures distinct material-specific fracture behavior without expensive test-time simulation or per-scene tuning, while offering fine-grained control over where an object tears, how fast the crack propagates, and how much deformation precedes failure. We further introduce a benchmark for evaluating the physical plausibility of generated fracture video, and show through extensive experiments that FracGen outperforms existing video generation baselines in both physical and visual fidelity. Results are best viewed in our project website: https://fracgen.github.io/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:58:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38152v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

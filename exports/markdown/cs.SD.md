@@ -160,3 +160,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28344v1](http://arxiv.org/abs/2609.28344v1)
 
+## Pruning for Efficiency, Paying in Fairness: Demographic Disparities in Pruned Speech-LLMs
+- **ID**: arxiv_2609.38106v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38106v1](http://arxiv.org/abs/2609.38106v1)
+
+## EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation
+- **ID**: arxiv_2609.38157v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38157v1](http://arxiv.org/abs/2609.38157v1)
+

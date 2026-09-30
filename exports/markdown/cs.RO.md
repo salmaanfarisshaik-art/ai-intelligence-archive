@@ -700,3 +700,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31452v1](http://arxiv.org/abs/2609.31452v1)
 
+## Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
+- **ID**: arxiv_2609.38172v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38172v1](http://arxiv.org/abs/2609.38172v1)
+
+## Skill-Space Shooting for Autonomous Robot Policy Improvement
+- **ID**: arxiv_2609.38178v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38178v1](http://arxiv.org/abs/2609.38178v1)
+

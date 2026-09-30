@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26965v2",
+  "schema_version": "1.0",
+  "name": "ClusterAttention: A training-free speedup of bidirectional attention",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26965v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26965v2",
+    "updated": "2026-09-29T17:59:42Z",
+    "published": "2026-08-27T11:04:41Z",
+    "title": "ClusterAttention: A training-free speedup of bidirectional attention",
+    "summary": "We introduce ClusterAttention, a general training-free speedup of bidirectional attention at large token counts. We point out two common assumptions in contemporary training-free methods; attention sparsity, and context that can be leveraged, such as structure in the input or multiple similar forward passes, and show when they fail. Our proposed method utilizes a fast attention-aware recursive clustering method, and compensation of excluded clusters through their mean. The clustering method gives power-of-two cluster sizes, allowing block-sparse attention to match dense attention in GPU throughput. On TabPFN-3 arXiv:2605.13986, a model where none of the assumptions hold, ClusterAttention is to our knowledge the first method to provide a substantial speedup over the default attention, while consistently keeping over 99\\% of its accuracy. On the largest dataset from the TALENT benchmark suite, it makes processing of the training dataset close to 8x faster at nearly 11x attention speedup. ClusterAttention is also competitive with domain-specific methods, while avoiding any of the domain-specific engineering. On video-generation with Wan 2.1-T2V-14B arXiv:2503.20314 it produces output closer to dense attention at a larger speedup (1.8x vs 1.4x) than SVOO arXiv:2603.18636, a leading method in this domain, with both evaluated without offline calibration.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-30T07:59:33Z",
+  "last_updated": "2026-09-29T17:59:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26965v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -300,6 +300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02827v2](http://arxiv.org/abs/2605.02827v2)
 
+## ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries
+- **ID**: arxiv_2605.06223v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06223v4](http://arxiv.org/abs/2605.06223v4)
+
 ## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
@@ -3265,6 +3270,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35694v1](http://arxiv.org/abs/2609.35694v1)
 
+## Reasoning with Continuous Latent Diffusion
+- **ID**: arxiv_2609.35694v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35694v2](http://arxiv.org/abs/2609.35694v2)
+
 ## Reinforcing Agentic Creativity in Scientific Ideation with Night Science
 - **ID**: arxiv_2609.35706v1
 - **Source**: ArXiv
@@ -3314,4 +3324,44 @@
 - **ID**: arxiv_2609.36944v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36944v1](http://arxiv.org/abs/2609.36944v1)
+
+## Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs
+- **ID**: arxiv_2609.38070v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38070v1](http://arxiv.org/abs/2609.38070v1)
+
+## Character Training for Risk-Averse Agents
+- **ID**: arxiv_2609.38093v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38093v1](http://arxiv.org/abs/2609.38093v1)
+
+## NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning
+- **ID**: arxiv_2609.38098v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38098v1](http://arxiv.org/abs/2609.38098v1)
+
+## Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution
+- **ID**: arxiv_2609.38108v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38108v1](http://arxiv.org/abs/2609.38108v1)
+
+## Stochastic World Models for Verifying Vision-Based Neural Feedback Systems
+- **ID**: arxiv_2609.38120v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38120v1](http://arxiv.org/abs/2609.38120v1)
+
+## AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation
+- **ID**: arxiv_2609.38142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38142v1](http://arxiv.org/abs/2609.38142v1)
+
+## Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI
+- **ID**: arxiv_2609.38143v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38143v1](http://arxiv.org/abs/2609.38143v1)
+
+## Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning
+- **ID**: arxiv_2609.38147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38147v1](http://arxiv.org/abs/2609.38147v1)
 

@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2409.09253v2](http://arxiv.org/abs/2409.09253v2)
 
+## RecKG: Knowledge Graph for Recommender Systems
+- **ID**: arxiv_2501.03598v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2501.03598v2](http://arxiv.org/abs/2501.03598v2)
+
 ## PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU
 - **ID**: arxiv_2508.15436v2
 - **Source**: ArXiv
@@ -154,4 +159,9 @@
 - **ID**: arxiv_2609.23307v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23307v1](http://arxiv.org/abs/2609.23307v1)
+
+## Effective Dense Retrieval using Only In-Context Examples
+- **ID**: arxiv_2609.38099v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38099v1](http://arxiv.org/abs/2609.38099v1)
 

@@ -178,6 +178,7 @@
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v2) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
 | [CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?](http://arxiv.org/abs/2609.01600v1) | ArXiv |  | 1 |
+| [Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces](http://arxiv.org/abs/2609.38107v1) | ArXiv |  | 1 |
 | [Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis](http://arxiv.org/abs/2604.14121v3) | ArXiv |  | 1 |
 | [CORTEX: High-Quality Cross-Domain Organization of Web-Scale Corpora through Ontological Corpus Graph](http://arxiv.org/abs/2606.30175v2) | ArXiv |  | 1 |
 | [Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation](http://arxiv.org/abs/2608.23152v2) | ArXiv |  | 1 |
@@ -272,6 +273,7 @@
 | [From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset](http://arxiv.org/abs/2601.04632v2) | ArXiv |  | 1 |
 | [From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix](http://arxiv.org/abs/2609.01572v1) | ArXiv |  | 1 |
 | [From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution](http://arxiv.org/abs/2609.02771v1) | ArXiv |  | 1 |
+| [From Routing Signals to Selective Review: Visual regrounding in MoE VLMs](http://arxiv.org/abs/2609.38111v1) | ArXiv |  | 1 |
 | [From Tokens to Faces: Investigating Discrete Speech Representations for 3D Facial Animation](http://arxiv.org/abs/2606.13630v1) | ArXiv |  | 1 |
 | [From Tokens to Semantics: Leveraging Complementary Signals for Hallucination Detection in Black-Box LLMs](http://arxiv.org/abs/2609.02679v2) | ArXiv |  | 1 |
 | [From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch](http://arxiv.org/abs/2608.09925v1) | ArXiv |  | 1 |
@@ -298,6 +300,7 @@
 | [How broad is that claim? Mapping Generalisation in NLP Research](http://arxiv.org/abs/2609.14770v2) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v1) | ArXiv |  | 1 |
+| [How Local Mixing Encodes Relative Position in Global NoPE Attention](http://arxiv.org/abs/2609.38109v1) | ArXiv |  | 1 |
 | [How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World](http://arxiv.org/abs/2605.18105v3) | ArXiv |  | 1 |
 | [How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards](http://arxiv.org/abs/2609.18908v1) | ArXiv |  | 1 |
 | [How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v2) | ArXiv |  | 1 |
@@ -386,6 +389,7 @@
 | [Localizing Persona Representations in LLMs](http://arxiv.org/abs/2505.24539v4) | ArXiv |  | 1 |
 | [Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility](http://arxiv.org/abs/2608.03930v1) | ArXiv |  | 1 |
 | [Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs](http://arxiv.org/abs/2609.18935v1) | ArXiv |  | 1 |
+| [LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning](http://arxiv.org/abs/2609.38137v1) | ArXiv |  | 1 |
 | [Loop the Loopies!](http://arxiv.org/abs/2607.16051v1) | ArXiv |  | 1 |
 | [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](http://arxiv.org/abs/2607.24604v1) | ArXiv |  | 1 |
 | [LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations](http://arxiv.org/abs/2606.14600v1) | ArXiv |  | 1 |
@@ -474,6 +478,7 @@
 | [Post-Training Large Language Models via Reinforcement Learning from Self-Feedback](http://arxiv.org/abs/2507.21931v2) | ArXiv |  | 1 |
 | [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](http://arxiv.org/abs/2607.18199v1) | ArXiv |  | 1 |
 | [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) | ArXiv |  | 1 |
+| [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) | ArXiv |  | 1 |
 | [PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment](http://arxiv.org/abs/2508.05132v3) | ArXiv |  | 1 |
 | [PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization](http://arxiv.org/abs/2608.29624v1) | ArXiv |  | 1 |
 | [Probing Cultural Signals in Large Language Models through Author Profiling](http://arxiv.org/abs/2603.16749v3) | ArXiv |  | 2 |
@@ -570,6 +575,7 @@
 | [Speculative Decoding and the Curse of Multilinguality](http://arxiv.org/abs/2605.30580v2) | ArXiv |  | 1 |
 | [Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models](http://arxiv.org/abs/2608.05126v1) | ArXiv |  | 1 |
 | [Steering Multimodal Large Language Models Decoding for Context-Aware Safety](http://arxiv.org/abs/2509.19212v2) | ArXiv |  | 1 |
+| [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](http://arxiv.org/abs/2609.38169v1) | ArXiv |  | 1 |
 | [Stochastic Estimation of Transduced Language Models](http://arxiv.org/abs/2608.27428v1) | ArXiv |  | 1 |
 | [StoryScope: Investigating idiosyncrasies in AI fiction](http://arxiv.org/abs/2604.03136v5) | ArXiv |  | 1 |
 | [Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation](http://arxiv.org/abs/2608.28467v1) | ArXiv |  | 1 |

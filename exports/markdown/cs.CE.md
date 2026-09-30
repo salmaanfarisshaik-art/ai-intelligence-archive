@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23360v1](http://arxiv.org/abs/2609.23360v1)
 
+## Neural topology optimization of ship structures under propulsion machinery vibrations
+- **ID**: arxiv_2609.38089v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38089v1](http://arxiv.org/abs/2609.38089v1)
+

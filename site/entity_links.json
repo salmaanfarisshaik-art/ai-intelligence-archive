@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:07:41Z",
+  "generated_at": "2026-09-30T08:00:52Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1349,6 +1349,11 @@
     {
       "source_id": "model_boboliu_qwen3_reranker_4b_w4a16_g128",
       "target_id": "hf_Qwen_Qwen3-Reranker-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_pq2_0_mtp_gguf",
+      "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "type": "derived_from"
     },
     {

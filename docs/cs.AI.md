@@ -100,6 +100,7 @@
 | [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](http://arxiv.org/abs/2607.19363v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v5) | ArXiv |  | 1 |
+| [AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation](http://arxiv.org/abs/2609.38142v1) | ArXiv |  | 1 |
 | [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](http://arxiv.org/abs/2606.06448v2) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
 | [Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](http://arxiv.org/abs/2607.22917v2) | ArXiv |  | 1 |
@@ -182,6 +183,7 @@
 | [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v6) | ArXiv |  | 1 |
 | [ChainWorld: Composing Long-Horizon Desktop Workloads from Atomic OSWorld Tasks](http://arxiv.org/abs/2606.21654v2) | ArXiv |  | 1 |
 | [Challenges in Evaluating Explanation Methods for Static and Evolving Data](http://arxiv.org/abs/2608.06351v1) | ArXiv |  | 1 |
+| [Character Training for Risk-Averse Agents](http://arxiv.org/abs/2609.38093v1) | ArXiv |  | 1 |
 | [CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](http://arxiv.org/abs/2607.26023v1) | ArXiv |  | 1 |
 | [ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry](http://arxiv.org/abs/2511.17909v2) | ArXiv |  | 1 |
 | [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](http://arxiv.org/abs/2605.14398v3) | ArXiv |  | 1 |
@@ -232,6 +234,7 @@
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | ArXiv |  | 1 |
 | [Distributed Legal Infrastructure for a Trustworthy Agentic Web](http://arxiv.org/abs/2603.06884v2) | ArXiv |  | 1 |
+| [Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution](http://arxiv.org/abs/2609.38108v1) | ArXiv |  | 1 |
 | [Do Not Restart: Residual Completion for Stateful Agent Handoffs](http://arxiv.org/abs/2609.13800v2) | ArXiv |  | 1 |
 | [Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models](http://arxiv.org/abs/2607.21617v2) | ArXiv |  | 1 |
 | [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) | ArXiv |  | 1 |
@@ -363,6 +366,7 @@
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
+| [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](http://arxiv.org/abs/2609.38143v1) | ArXiv |  | 1 |
 | [Learning the Cost of Reliable Inference](http://arxiv.org/abs/2609.28322v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
@@ -421,6 +425,7 @@
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
 | [Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior](http://arxiv.org/abs/2609.17064v1) | ArXiv |  | 1 |
 | [NEURON: A Neuro-symbolic System for Grounded Clinical Explainability](http://arxiv.org/abs/2605.01189v3) | ArXiv |  | 1 |
+| [NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning](http://arxiv.org/abs/2609.38098v1) | ArXiv |  | 1 |
 | [NeuroWeaver: An Autonomous Evolutionary Agent for Exploring the Programmatic Space of EEG Analysis Pipelines](http://arxiv.org/abs/2602.13473v3) | ArXiv |  | 1 |
 | [NeuSOGA3D: A Neuro-Symbolic Framework for Explainable 3D Geometric Reconstruction](http://arxiv.org/abs/2609.20323v1) | ArXiv |  | 1 |
 | [Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance](http://arxiv.org/abs/2608.27340v1) | ArXiv |  | 1 |
@@ -469,8 +474,10 @@
 | [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1) | ArXiv |  | 1 |
 | [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
+| [Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs](http://arxiv.org/abs/2609.38070v1) | ArXiv |  | 1 |
 | [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
+| [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v4) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
 | [Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](http://arxiv.org/abs/2609.31505v1) | ArXiv |  | 1 |
 | [Protecting patient privacy in clinical foundation models: Technical and legal perspectives](http://arxiv.org/abs/2608.07705v2) | ArXiv |  | 1 |
@@ -491,6 +498,7 @@
 | [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](http://arxiv.org/abs/2607.24649v1) | ArXiv |  | 1 |
 | [Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning](http://arxiv.org/abs/2606.13607v1) | ArXiv |  | 1 |
 | [Reasoning with Continuous Latent Diffusion](http://arxiv.org/abs/2609.35694v1) | ArXiv |  | 1 |
+| [Reasoning with Continuous Latent Diffusion](http://arxiv.org/abs/2609.35694v2) | ArXiv |  | 1 |
 | [Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models](http://arxiv.org/abs/2606.10949v2) | ArXiv |  | 1 |
 | [Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization](http://arxiv.org/abs/2608.31077v1) | ArXiv |  | 1 |
 | [Recurrent GraphNeural NetworkswithSet-BasedAggregation](http://arxiv.org/abs/2609.15932v1) | ArXiv |  | 1 |
@@ -564,6 +572,7 @@
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v1) | ArXiv |  | 1 |
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v2) | ArXiv |  | 1 |
 | [StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing](http://arxiv.org/abs/2608.24777v1) | ArXiv |  | 1 |
+| [Stochastic World Models for Verifying Vision-Based Neural Feedback Systems](http://arxiv.org/abs/2609.38120v1) | ArXiv |  | 1 |
 | [StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models](http://arxiv.org/abs/2608.23475v1) | ArXiv |  | 1 |
 | [Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core](http://arxiv.org/abs/2608.24810v1) | ArXiv |  | 1 |
 | [Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG](http://arxiv.org/abs/2609.20334v1) | ArXiv |  | 1 |
@@ -600,6 +609,7 @@
 | [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v4) | ArXiv |  | 1 |
 | [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](http://arxiv.org/abs/2606.07157v4) | ArXiv |  | 1 |
 | [ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents](http://arxiv.org/abs/2609.17010v1) | ArXiv |  | 1 |
+| [Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning](http://arxiv.org/abs/2609.38147v1) | ArXiv |  | 1 |
 | [TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents](http://arxiv.org/abs/2609.23363v1) | ArXiv |  | 1 |
 | [Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für ](http://arxiv.org/abs/2604.23859v3) | ArXiv |  | 1 |
 | [Time-Varying Data as Sheaves: an Invitation to Narratives](http://arxiv.org/abs/2609.09056v1) | ArXiv |  | 1 |

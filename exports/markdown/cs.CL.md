@@ -3455,3 +3455,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36965v1](http://arxiv.org/abs/2609.36965v1)
 
+## Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces
+- **ID**: arxiv_2609.38107v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38107v1](http://arxiv.org/abs/2609.38107v1)
+
+## How Local Mixing Encodes Relative Position in Global NoPE Attention
+- **ID**: arxiv_2609.38109v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38109v1](http://arxiv.org/abs/2609.38109v1)
+
+## From Routing Signals to Selective Review: Visual regrounding in MoE VLMs
+- **ID**: arxiv_2609.38111v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38111v1](http://arxiv.org/abs/2609.38111v1)
+
+## LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning
+- **ID**: arxiv_2609.38137v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38137v1](http://arxiv.org/abs/2609.38137v1)
+
+## Pretraining Latent Information Feedback Transformers with Teacher Supervision
+- **ID**: arxiv_2609.38149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38149v1](http://arxiv.org/abs/2609.38149v1)
+
+## STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization
+- **ID**: arxiv_2609.38169v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38169v1](http://arxiv.org/abs/2609.38169v1)
+
