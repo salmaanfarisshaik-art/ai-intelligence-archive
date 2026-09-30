@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.03312v2",
+  "schema_version": "1.0",
+  "technique_name": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+  "description": "While household robots are often evaluated based on task completion, everyday domestic environments involve value-conflicting situations where robots are expected to choose actions that prioritize diverse values such as human autonomy, efficiency, or social appropriateness. Yet, there are no benchmarks for evaluating robots' value preferences in such scenarios. We introduce RobotValues, a benchmark to evaluate household robot planners in 8K value-conflict scenarios. Each instance consists of a r",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2606.03312v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.03312v2",
+    "updated": "2026-09-29T07:45:35Z",
+    "published": "2026-06-02T08:25:01Z",
+    "title": "RobotValues: Evaluating Household Robots When Human Values Conflict",
+    "summary": "While household robots are often evaluated based on task completion, everyday domestic environments involve value-conflicting situations where robots are expected to choose actions that prioritize diverse values such as human autonomy, efficiency, or social appropriateness. Yet, there are no benchmarks for evaluating robots' value preferences in such scenarios. We introduce RobotValues, a benchmark to evaluate household robot planners in 8K value-conflict scenarios. Each instance consists of a realistic, synthetically generated household image with multiple plausible robot actions that prioritize different human values. We construct ROBOTVALUES through LLM-assisted scenario generation, stakeholder-grounded value extraction, image generation and automatic quality control. We evaluate 10 VLMs used in robotics and find that models show default value preferences, including safety and accommodation, while underselecting privacy-prioritizing actions. When models are prompted to prioritize values that conflict with their preferences, models often fail to override the default actions, choosing incorrect actions 80% of the time on average across models. These findings highlight the need to go beyond task completion or safety evaluations and assess robots' decision-making capability when human values conflict.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:45:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.03312v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

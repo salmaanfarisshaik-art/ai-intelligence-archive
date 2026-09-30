@@ -4010,6 +4010,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.04203v1](http://arxiv.org/abs/2609.04203v1)
 
+## 
+- **ID**: arxiv_2609.04802v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.04802v3](http://arxiv.org/abs/2609.04802v3)
+
 ## Learning Spatial-Spectral Refinement and Calibrating Complementary Observations for Hyperspectral Image Super-Resolution
 - **ID**: arxiv_2609.05303v1
 - **Source**: ArXiv
@@ -4269,6 +4274,11 @@
 - **ID**: arxiv_2609.12825v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.12825v2](http://arxiv.org/abs/2609.12825v2)
+
+## 
+- **ID**: arxiv_2609.13006v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.13006v2](http://arxiv.org/abs/2609.13006v2)
 
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
@@ -5044,4 +5054,24 @@
 - **ID**: arxiv_2609.35770v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35770v1](http://arxiv.org/abs/2609.35770v1)
+
+## 
+- **ID**: arxiv_2609.36929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36929v1](http://arxiv.org/abs/2609.36929v1)
+
+## 
+- **ID**: arxiv_2609.36937v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36937v1](http://arxiv.org/abs/2609.36937v1)
+
+## 
+- **ID**: arxiv_2609.36940v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36940v1](http://arxiv.org/abs/2609.36940v1)
+
+## 
+- **ID**: arxiv_2609.36957v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36957v1](http://arxiv.org/abs/2609.36957v1)
 

@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.01354v2](http://arxiv.org/abs/2510.01354v2)
 
+## 
+- **ID**: arxiv_2510.02999v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.02999v6](http://arxiv.org/abs/2510.02999v6)
+
 ## A Hybrid Insider Threat Detection Framework Combining Multi-Agent Simulation, Layered SIEM Correlation, and Theory-of-Mind Reasoning
 - **ID**: arxiv_2601.04243v2
 - **Source**: ArXiv
@@ -364,4 +369,9 @@
 - **ID**: arxiv_2609.30266v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30266v1](http://arxiv.org/abs/2609.30266v1)
+
+## 
+- **ID**: arxiv_2609.36956v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36956v1](http://arxiv.org/abs/2609.36956v1)
 

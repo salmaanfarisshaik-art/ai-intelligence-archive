@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.36942v1",
+  "schema_version": "1.0",
+  "technique_name": "Safe-by-Design Learning via Energy-based Neural Networks",
+  "description": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms wit",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.36942v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.36942v1",
+    "updated": "2026-09-29T07:52:38Z",
+    "published": "2026-09-29T07:52:38Z",
+    "title": "Safe-by-Design Learning via Energy-based Neural Networks",
+    "summary": "Learning neural-network models of dynamical systems with safety guarantees is a fundamental requirement for their deployment in safety-critical settings. Safety is commonly established by proving the invariance of a desired subset in state-space, ensuring that every trajectory initialized in this subset remains confined to it for all time under admissible inputs. Existing frameworks, however, either rely on computationally expensive post-hoc verification or employ safety-enforcing mechanisms without formal correctness guarantees. In this paper, we introduce a novel neural architecture grounded in energy-based modern Hopfield networks to guarantee safety-by-design while retaining sufficient expressiveness to model complex nonlinear dynamics. Specifically, we integrate modern Hopfield networks with a port-Hamiltonian neural ODE, enabling by design the construction of barrier functions yielding explicit admissible-input sets and quantitative robustness radii. Across several benchmarks, including an 12-dimensional nanodrone model, our framework achieves state-of-the-art performance while producing certified invariant sets that are more robust to external solicitations than comparable existing approaches.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:52:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.36942v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.36957v1",
+  "schema_version": "1.0",
+  "technique_name": "Beyond Readability: Evaluating Task Information Recoverability",
+  "description": "Direct visual readability and task-information recoverability are different quantities. Failure to decode a target from a fixed observation need not eliminate access to that target through another recovery route. We develop an evaluation perspective that makes the observation, query, target, and available knowledge explicit and measures the overlap between routes' success sets. For information available on the original visible surface under suitable imaging conditions, direct optical recovery re",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.36957v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.36957v1",
+    "updated": "2026-09-29T07:59:01Z",
+    "published": "2026-09-29T07:59:01Z",
+    "title": "Beyond Readability: Evaluating Task Information Recoverability",
+    "summary": "Direct visual readability and task-information recoverability are different quantities. Failure to decode a target from a fixed observation need not eliminate access to that target through another recovery route. We develop an evaluation perspective that makes the observation, query, target, and available knowledge explicit and measures the overlap between routes' success sets. For information available on the original visible surface under suitable imaging conditions, direct optical recovery reads the target from the image, optionally after restoration; entity-linked recovery uses residual visual evidence to identify the depicted entity and accesses its target through an entity--attribute relation in a specified knowledge resource. Such access can draw on stored knowledge or an external source. A controlled book-cover study instantiates external access with a fixed title--author catalog, comparing optical author recovery with visual title resolution and deterministic lookup under resolution degradation. Entity-linked successes persist across the tested vision--language models, revealing information access beyond the tested direct visual frontier despite substantial differences in absolute performance. A substantial optical-only region remains. These complementary outcomes show why visual degradation should be evaluated through the task information accessible along specified routes and knowledge resources, alongside direct readability.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:59:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.36957v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

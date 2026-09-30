@@ -7,6 +7,7 @@
 |---|---|---|---|
 | [](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2510.04399v3) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2602.14035v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.23859v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
@@ -52,6 +53,12 @@
 | [](http://arxiv.org/abs/2609.05385v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05395v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05396v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36927v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36932v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36934v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36935v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36939v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36944v1) | ArXiv |  | 1 |
 | ["AI is (not) the new...": A Diagnostic Analogy Framework for Generative AI's Cultural Impacts](http://arxiv.org/abs/2609.31482v1) | ArXiv |  | 1 |
 | ["Did you lie?" Evaluating Lie Detectors across Model Scale and Belief-Verified Model Organisms](http://arxiv.org/abs/2606.12618v2) | ArXiv |  | 1 |
 | [A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms](http://arxiv.org/abs/2609.04170v1) | ArXiv |  | 1 |

@@ -55,6 +55,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.03751v2](http://arxiv.org/abs/2603.03751v2)
 
+## 
+- **ID**: arxiv_2603.12717v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.12717v2](http://arxiv.org/abs/2603.12717v2)
+
 ## When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making
 - **ID**: arxiv_2603.16673v5
 - **Source**: ArXiv
@@ -94,6 +99,11 @@
 - **ID**: arxiv_2605.11750v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.11750v2](http://arxiv.org/abs/2605.11750v2)
+
+## 
+- **ID**: arxiv_2606.03312v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03312v2](http://arxiv.org/abs/2606.03312v2)
 
 ## AgenticDiffusion: Multi-View Reasoning with View-Conditioned Diffusion Planning for Vision-Based UAV Navigation
 - **ID**: arxiv_2606.04111v2

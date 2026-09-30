@@ -5,6 +5,7 @@
 
 | Name | Source | Tags | Links |
 |---|---|---|---|
+| [](http://arxiv.org/abs/2510.02999v6) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.01039v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2605.13706v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2608.09867v1) | ArXiv |  | 1 |
@@ -12,6 +13,7 @@
 | [](http://arxiv.org/abs/2608.12273v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.04159v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05370v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36956v1) | ArXiv |  | 1 |
 | [A Hybrid Insider Threat Detection Framework Combining Multi-Agent Simulation, Layered SIEM Correlation, and Theory-of-Mind Reasoning](http://arxiv.org/abs/2601.04243v2) | ArXiv |  | 1 |
 | [A Non-Formulable Theorem: A Fundamental Limit of Finite Syntactic Systems and Its Consequences for Security and AI](http://arxiv.org/abs/2609.04086v1) | ArXiv |  | 1 |
 | [A Red-Team Study of Anthropic Fable 5 & Opus 4.8 Models](http://arxiv.org/abs/2606.18193v1) | ArXiv |  | 1 |

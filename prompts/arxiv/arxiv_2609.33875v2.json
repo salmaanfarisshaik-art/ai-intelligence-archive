@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.33875v2",
+  "schema_version": "1.0",
+  "technique_name": "Counterfactual Rollout Replay: Forkable Environments as Free Process Rewards for Software Engineering Agents",
+  "description": "Outcome-only reinforcement learning gives software engineering (SWE) agents a terminal success signal but little direct guidance about intermediate decisions. We introduce Counterfactual Rollout Replay (CRR), a training-time procedure that uses forkable executable environments to obtain step-level return contrasts. CRR selects a small set of decision points, restores each state, samples an alternative action, and rolls the branch forward under the policy. It retains the realised training traject",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.33875v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.33875v2",
+    "updated": "2026-09-29T07:48:44Z",
+    "published": "2026-09-27T19:50:50Z",
+    "title": "Counterfactual Rollout Replay: Forkable Environments as Free Process Rewards for Software Engineering Agents",
+    "summary": "Outcome-only reinforcement learning gives software engineering (SWE) agents a terminal success signal but little direct guidance about intermediate decisions. We introduce Counterfactual Rollout Replay (CRR), a training-time procedure that uses forkable executable environments to obtain step-level return contrasts. CRR selects a small set of decision points, restores each state, samples an alternative action, and rolls the branch forward under the policy. It retains the realised training trajectory and replaces the advantage at selected steps with the difference between its terminal return and the sampled counterfactual return. The method needs no human process labels or learned process reward model; free refers to those supervision costs, not replay compute. With a 14B policy, CRR improves pass@1 on SWE-bench Verified, SWE-bench Live, and SWE-rebench, and combines with process-reward and trajectory-search methods. On SWE-bench Verified, an equal-wall-clock comparison on the same hardware yields 41.7% versus 36.7% for extended outcome-only GRPO, a 5.0-point gain with fork overhead included. These results apply to environments with affordable, reliable state restoration; stochastic continuations and expensive or imperfect replay remain limitations.",
+    "primary_category": "cs.SE"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:48:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.33875v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

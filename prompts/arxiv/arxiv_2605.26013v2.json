@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.26013v2",
+  "schema_version": "1.0",
+  "technique_name": "AdvantageFlow: Regularized Advantage-Weighted RL in Flow Models",
+  "description": "We present AdvantageFlow, a forward-process reinforcement learning (RL) algorithm for rectified flow models. The algorithm minimizes an advantage-weighted prediction loss, which maximizes reward, regularized by the rollout policy, which convexifies the objective and makes its optimization stable. Our objective can be viewed as fitting a local reward-improving target distribution. The rollout regularization arises as a variance reduction step. We evaluate AdvantageFlow empirically on text-to-imag",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2605.26013v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.26013v2",
+    "updated": "2026-09-29T07:57:34Z",
+    "published": "2026-05-25T16:32:14Z",
+    "title": "AdvantageFlow: Regularized Advantage-Weighted RL in Flow Models",
+    "summary": "We present AdvantageFlow, a forward-process reinforcement learning (RL) algorithm for rectified flow models. The algorithm minimizes an advantage-weighted prediction loss, which maximizes reward, regularized by the rollout policy, which convexifies the objective and makes its optimization stable. Our objective can be viewed as fitting a local reward-improving target distribution. The rollout regularization arises as a variance reduction step. We evaluate AdvantageFlow empirically on text-to-image generation with Stable Diffusion 3.5 Medium and FLUX.1, and compare it to both forward- and reverse-process RL algorithms.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:57:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.26013v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.13006v2",
+  "schema_version": "1.0",
+  "technique_name": "PhysPlan: Grounded Physical State Reasoning and Graph-Guided Optimization for Physically Plausible Video Generation",
+  "description": "Video diffusion models (VDMs) synthesize photorealistic content, yet they often fail to follow the course that a physical phenomenon should take within a given scene. Recent training-free methods let a vision-language model (VLM) plan the phenomenon and guide a frozen VDM toward the plan; however, such plans are derived from the prompt and consumed as whole keyframes or trajectories, which leaves unspecified where the consequences land in the observed scene and turns incidental visual details in",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.13006v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.13006v2",
+    "updated": "2026-09-29T07:50:08Z",
+    "published": "2026-07-16T15:25:56Z",
+    "title": "PhysPlan: Grounded Physical State Reasoning and Graph-Guided Optimization for Physically Plausible Video Generation",
+    "summary": "Video diffusion models (VDMs) synthesize photorealistic content, yet they often fail to follow the course that a physical phenomenon should take within a given scene. Recent training-free methods let a vision-language model (VLM) plan the phenomenon and guide a frozen VDM toward the plan; however, such plans are derived from the prompt and consumed as whole keyframes or trajectories, which leaves unspecified where the consequences land in the observed scene and turns incidental visual details into optimization targets. We observe that a phenomenon specified in words unfolds as sparse, local changes to the physical state of the observed scene. Building on this observation, we present PhysPlan, a training-free image-to-video framework that represents a phenomenon as a grounded state graph and uses this graph to decide what, where, and when the guidance constrains. Grounded Physical State Reasoning decomposes the phenomenon into physical deltas, each stating which objects change, to what state, and by which physical rule, and translates each delta into graph edits, verified by deterministic checks, that leave all other objects unchanged. Graph-Guided Test-Time Optimization renders a keyframe for each state, measures the denoised estimates only along the properties selected by the edits, and concentrates the update on the edited objects. On PhyGenBench and Physics-IQ, PhysPlan raises its base model from 0.52 to 0.77 and from 27.1 to 38.2, surpassing the strongest prior I2V method (0.60 and 34.6), and lowers FVD by over 20%. Project page: https://physplan.github.io",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:50:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.13006v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

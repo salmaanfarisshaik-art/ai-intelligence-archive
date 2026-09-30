@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13935v3](http://arxiv.org/abs/2602.13935v3)
 
+## 
+- **ID**: arxiv_2602.14035v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14035v2](http://arxiv.org/abs/2602.14035v2)
+
 ## When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 - **ID**: arxiv_2602.16763v4
 - **Source**: ArXiv
@@ -3279,4 +3284,34 @@
 - **ID**: arxiv_2609.35744v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35744v1](http://arxiv.org/abs/2609.35744v1)
+
+## 
+- **ID**: arxiv_2609.36927v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36927v1](http://arxiv.org/abs/2609.36927v1)
+
+## 
+- **ID**: arxiv_2609.36932v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36932v1](http://arxiv.org/abs/2609.36932v1)
+
+## 
+- **ID**: arxiv_2609.36934v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36934v1](http://arxiv.org/abs/2609.36934v1)
+
+## 
+- **ID**: arxiv_2609.36935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36935v1](http://arxiv.org/abs/2609.36935v1)
+
+## 
+- **ID**: arxiv_2609.36939v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36939v1](http://arxiv.org/abs/2609.36939v1)
+
+## 
+- **ID**: arxiv_2609.36944v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36944v1](http://arxiv.org/abs/2609.36944v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.36956v1",
+  "schema_version": "1.0",
+  "technique_name": "Controlled Decoding Attacks on Black-Box LLMs",
+  "description": "Manipulating next-token probabilities during generation can bypass the safety alignment of large language models. Existing approaches, however, rely on access to model weights or numerical token probabilities and therefore do not apply to interfaces that return only sampled text. Reconstructing probabilities from sampled outputs offers a possible alternative, but finite sampling produces sparse and noisy estimates, while repeating this process at every generation step incurs substantial query co",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.36956v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.36956v1",
+    "updated": "2026-09-29T07:58:49Z",
+    "published": "2026-09-29T07:58:49Z",
+    "title": "Controlled Decoding Attacks on Black-Box LLMs",
+    "summary": "Manipulating next-token probabilities during generation can bypass the safety alignment of large language models. Existing approaches, however, rely on access to model weights or numerical token probabilities and therefore do not apply to interfaces that return only sampled text. Reconstructing probabilities from sampled outputs offers a possible alternative, but finite sampling produces sparse and noisy estimates, while repeating this process at every generation step incurs substantial query costs. Our empirical observations suggest that large distributional changes along successful jailbreak trajectories are concentrated at a small subset of positions, motivating selective control. We introduce \\method{}, a framework for jailbreaking through text-only continuation interfaces that permit repeated sampling and assistant-prefix continuation. Sample-Based Distribution Reconstruction combines sampled outputs with a prior over unobserved actions to obtain a usable control signal. Risk-Gated Residual Control uses the evolving response prefix to decide when to reconstruct and modify the distribution, concentrating sampling costs at selected positions. Speculative Multi-Token Execution further amortizes target calls by verifying and accepting draft prefixes that require no intervention. Across four target endpoints and three benchmarks, \\method{} achieves the highest mean score most comparisons against baselines.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:58:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.36956v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

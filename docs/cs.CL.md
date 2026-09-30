@@ -13,6 +13,7 @@
 | [](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2602.11650v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2602.13540v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2603.25821v3) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2604.26355v5) | ArXiv |  | 1 |
@@ -57,6 +58,10 @@
 | [](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.04199v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.05405v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.32810v2) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36931v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36952v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.36965v1) | ArXiv |  | 1 |
 | ["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](http://arxiv.org/abs/2608.07852v2) | ArXiv |  | 1 |
 | ["Mirror" Large Language Model Evaluations of Depression are Criterion Contaminated](http://arxiv.org/abs/2508.05830v3) | ArXiv |  | 1 |
 | ['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](http://arxiv.org/abs/2608.24191v2) | ArXiv |  | 1 |

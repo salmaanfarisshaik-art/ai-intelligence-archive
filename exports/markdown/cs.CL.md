@@ -365,6 +365,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13110v4](http://arxiv.org/abs/2602.13110v4)
 
+## 
+- **ID**: arxiv_2602.13540v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13540v2](http://arxiv.org/abs/2602.13540v2)
+
 ## What Language is This? Ask Your Tokenizer
 - **ID**: arxiv_2602.17655v3
 - **Source**: ArXiv
@@ -3380,6 +3385,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31571v1](http://arxiv.org/abs/2609.31571v1)
 
+## 
+- **ID**: arxiv_2609.32810v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32810v2](http://arxiv.org/abs/2609.32810v2)
+
 ## Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context
 - **ID**: arxiv_2609.35663v1
 - **Source**: ArXiv
@@ -3429,4 +3439,19 @@
 - **ID**: arxiv_2609.35769v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35769v1](http://arxiv.org/abs/2609.35769v1)
+
+## 
+- **ID**: arxiv_2609.36931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36931v1](http://arxiv.org/abs/2609.36931v1)
+
+## 
+- **ID**: arxiv_2609.36952v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36952v1](http://arxiv.org/abs/2609.36952v1)
+
+## 
+- **ID**: arxiv_2609.36965v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36965v1](http://arxiv.org/abs/2609.36965v1)
 

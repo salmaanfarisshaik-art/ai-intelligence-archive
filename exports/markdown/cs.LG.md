@@ -415,6 +415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.25225v2](http://arxiv.org/abs/2605.25225v2)
 
+## 
+- **ID**: arxiv_2605.26013v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26013v2](http://arxiv.org/abs/2605.26013v2)
+
 ## LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis
 - **ID**: arxiv_2605.30434v2
 - **Source**: ArXiv
@@ -454,6 +459,11 @@
 - **ID**: arxiv_2606.09052v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.09052v4](http://arxiv.org/abs/2606.09052v4)
+
+## 
+- **ID**: arxiv_2606.10466v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.10466v4](http://arxiv.org/abs/2606.10466v4)
 
 ## Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
 - **ID**: arxiv_2606.13571v1
@@ -1769,4 +1779,24 @@
 - **ID**: arxiv_2609.35760v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35760v1](http://arxiv.org/abs/2609.35760v1)
+
+## 
+- **ID**: arxiv_2609.36942v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36942v1](http://arxiv.org/abs/2609.36942v1)
+
+## 
+- **ID**: arxiv_2609.36953v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36953v1](http://arxiv.org/abs/2609.36953v1)
+
+## 
+- **ID**: arxiv_2609.36958v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36958v1](http://arxiv.org/abs/2609.36958v1)
+
+## 
+- **ID**: arxiv_2609.36966v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36966v1](http://arxiv.org/abs/2609.36966v1)
 

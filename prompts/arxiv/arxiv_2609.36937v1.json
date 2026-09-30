@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.36937v1",
+  "schema_version": "1.0",
+  "technique_name": "WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation",
+  "description": "Human image animation aims to transfer motion from a driving video to subjects in a reference image. Despite remarkable progress in video generation, achieving high-fidelity animation of multiple interacting subjects remains a challenge. Many existing approaches rely on explicit motion representations such as 2D skeletons or parametric body meshes and struggle to preserve identity-motion binding under inter-person occlusion. To address this limitation, we propose WeLike2Party, a multi-human anim",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.36937v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.36937v1",
+    "updated": "2026-09-29T07:50:05Z",
+    "published": "2026-09-29T07:50:05Z",
+    "title": "WeLike2Party! In-Context Motion Transfer for Multi-Human Image Animation",
+    "summary": "Human image animation aims to transfer motion from a driving video to subjects in a reference image. Despite remarkable progress in video generation, achieving high-fidelity animation of multiple interacting subjects remains a challenge. Many existing approaches rely on explicit motion representations such as 2D skeletons or parametric body meshes and struggle to preserve identity-motion binding under inter-person occlusion. To address this limitation, we propose WeLike2Party, a multi-human animation framework built on direct in-context video conditioning without explicit pose or mesh extraction at inference. We further introduce Reference Asymmetric RoPE Conditioning to preserve fine-grained appearance details, and Identity Binding Supervision to associate each reference identity with its intended motion trajectory. To support cross-identity training, we construct MotionTwin, a large-scale synthetic dataset comprising 14.4K cross-identity video pairs with shared subject and camera motions, totaling 84.3 hours of photorealistic video. We additionally present MotionTwin-Bench, a cross-identity benchmark specifically designed to evaluate subject-level visual fidelity and identity-motion binding. Extensive experiments on MotionTwin-Bench and real-world videos demonstrate that WeLike2Party outperforms recent state-of-the-art methods in subject-level visual fidelity, identity-motion binding, and overall perceptual quality, particularly in multi-person interactions with substantial occlusion.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-09-30T01:05:53Z",
+  "last_updated": "2026-09-29T07:50:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.36937v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
