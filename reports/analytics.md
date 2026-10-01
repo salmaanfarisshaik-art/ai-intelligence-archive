@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90111
+**Total Entities Tracked**: 90162
 
 ## Category Distribution
 
@@ -10,20 +10,20 @@
 - **datasets**: 2127
 - **models**: 1760
 - **news**: 1266
-- **dataset**: 1190
-- **cs.CV**: 1036
+- **dataset**: 1191
+- **cs.CV**: 1054
 - **text-generation**: 1012
-- **cs.CL**: 697
-- **cs.AI**: 673
-- **cs.LG**: 364
-- **cs.RO**: 142
-- **cs.CR**: 75
+- **cs.CL**: 703
+- **cs.AI**: 684
+- **cs.LG**: 371
+- **cs.RO**: 145
+- **cs.CR**: 76
 - **cs.SE**: 65
 - **tool**: 53
 - **cs.HC**: 39
+- **cs.IR**: 35
 - **cs.SD**: 34
-- **cs.IR**: 33
-- **cs.CY**: 30
+- **cs.CY**: 31
 - **eess.IV**: 16
 - **API**: 15
 - **cs.MA**: 15
@@ -43,11 +43,11 @@
 - **cs.DC**: 9
 - **cs.GR**: 8
 - **cs.AR**: 7
+- **cs.IT**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
 - **IDE Rule**: 6
-- **cs.IT**: 6
 - **cs.MM**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
@@ -97,10 +97,10 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31065
-- **ArXiv**: 3418
+- **ArXiv**: 3468
 - **Hugging Face**: 2019
 - **OpenAI Blog**: 1252
-- **HuggingFace Datasets**: 190
+- **HuggingFace Datasets**: 191
 - **GitHub Trending**: 53
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -140,15 +140,15 @@
 
 ## Top Tags
 
-- **region:us**: 271
+- **region:us**: 272
 - **library:datasets**: 82
 - **library:mlcroissant**: 82
 - **text-generation**: 82
 - **modality:text**: 77
 - **license:apache-2.0**: 71
 - **endpoints_compatible**: 70
+- **language:en**: 69
 - **transformers**: 69
-- **language:en**: 68
 - **safetensors**: 68
 - **conversational**: 63
 - **library:polars**: 62
@@ -171,7 +171,7 @@
 - **size_categories:10K<n<100K**: 18
 - **license:cc-by-4.0**: 17
 - **api**: 16
-- **task_categories:robotics**: 15
+- **task_categories:robotics**: 16
 - **modality:video**: 14
 - **size_categories:100K<n<1M**: 14
 - **multilinguality:monolingual**: 13
@@ -184,9 +184,9 @@
 - **pytorch**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
+- **size_categories:n>1T**: 11
 - **custom_code**: 10
 - **language:zh**: 10
 - **modality:audio**: 10
 - **size_categories:1M<n<10M**: 10
-- **size_categories:n>1T**: 10
 - **python**: 9

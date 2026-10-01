@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.07709v6",
+  "schema_version": "1.0",
+  "name": "IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.07709v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.07709v6",
+    "updated": "2026-09-30T17:56:36Z",
+    "published": "2026-04-09T01:54:33Z",
+    "title": "IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+    "summary": "We introduce IatroBench, a benchmark with two axes of harm (commission and omission), comprising 60 pre-registered clinical scenarios, tested on 6 models. Matched scenarios are framed as a patient query and a doctor consultation, differing in register and request (with the implication of supervision by a treating physician in the latter). We analyse the responses of five different models and find that all share more information in the doctor framing than the patient framing (which we call \"framing-contingent withholding\"). For example, a model with strong safety training provides a benzodiazepine tapering schedule to a doctor, but does not provide this schedule to a patient who requests it. We use Claude Opus 4.6 for structured evaluation, and Gemini 3 Flash as our primary judge, to score model responses against a physician's rubrics. Our primary judge agrees with physicians' omission scores about as well as physicians agree with each other. We find a decoupling gap of +0.38 (p = 0.003) on average across models. With our primary judge (checked by physicians) the decoupling gap is +0.22 (95% CI 0.10-0.36, p = 0.0014). We find three distinct patterns underlying this gap, exemplified by each of the models below. In the doctor framing, Claude Opus demonstrates that it has the information, and withholds it in the patient framing. Llama 4 performs poorly in both framings, meaning the decoupling gap cannot distinguish between withholding and incompetence. Finally, GPT-5.2 (excluded from this analysis) failed to return text for 33.2% of doctor responses, compared to 0% of layperson responses. In 86.6% of cases that we score (through our structured evaluation) as having omission harms, our primary judge (Gemini 3 Flash) scores zero omission harm. Because our scenarios are designed to pit safety against helpfulness, these statistics hold only for this distribution.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-01T11:22:41Z",
+  "last_updated": "2026-09-30T17:56:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.07709v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

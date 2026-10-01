@@ -158,6 +158,7 @@
 | [Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics](http://arxiv.org/abs/2609.01575v1) | ArXiv |  | 1 |
 | [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) | ArXiv |  | 1 |
 | [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) | ArXiv |  | 1 |
+| [Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports](http://arxiv.org/abs/2609.40236v1) | ArXiv |  | 1 |
 | [Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](http://arxiv.org/abs/2609.04199v1) | ArXiv |  | 1 |
 | [Component-Aware Differential Privacy for Federated Multilingual Speech-LLMs](http://arxiv.org/abs/2609.11762v1) | ArXiv |  | 1 |
 | [ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models](http://arxiv.org/abs/2608.20338v1) | ArXiv |  | 1 |
@@ -247,6 +248,7 @@
 | [Every Token Leaves a Ripple in the Stream of Thought: Eliciting Model-Internal Token Saliency for Chain-of-Thought Compression](http://arxiv.org/abs/2608.31066v1) | ArXiv |  | 1 |
 | [EviScope: Paired Counterfactual Evidence Diagnostics for Faithful and Efficient Grounded Language Models](http://arxiv.org/abs/2609.17081v1) | ArXiv |  | 1 |
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
+| [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1) | ArXiv |  | 1 |
 | [Evolving language compositionality in a frequency-structured meaning space](http://arxiv.org/abs/2607.29642v1) | ArXiv |  | 1 |
 | [Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya](http://arxiv.org/abs/2607.15209v1) | ArXiv |  | 1 |
 | [ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints](http://arxiv.org/abs/2608.24760v1) | ArXiv |  | 1 |
@@ -303,6 +305,7 @@
 | [How Local Mixing Encodes Relative Position in Global NoPE Attention](http://arxiv.org/abs/2609.38109v1) | ArXiv |  | 1 |
 | [How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World](http://arxiv.org/abs/2605.18105v3) | ArXiv |  | 1 |
 | [How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards](http://arxiv.org/abs/2609.18908v1) | ArXiv |  | 1 |
+| [How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text](http://arxiv.org/abs/2609.40295v1) | ArXiv |  | 1 |
 | [How reliable are LLMs when it comes to playing dice?](http://arxiv.org/abs/2606.07515v2) | ArXiv |  | 1 |
 | [How Useful are LLMs for Grammar Engineering? Cantonese ParGram Resources and Controlled Experimental Evaluation with English Baselines](http://arxiv.org/abs/2608.23448v1) | ArXiv |  | 1 |
 | [How You Ask Shapes What You Get: A Theory-Seeded Measurement of Articulation in Advice-Seeking LLM Conversations](http://arxiv.org/abs/2608.29591v1) | ArXiv |  | 1 |
@@ -379,6 +382,8 @@
 | [Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text](http://arxiv.org/abs/2608.24780v1) | ArXiv |  | 1 |
 | [LinguistAgent Technical Report: A Reflective Multi-Model Platform for Automated Linguistic Annotation](http://arxiv.org/abs/2602.05493v2) | ArXiv |  | 1 |
 | [Linguistic Features for Interpretable Textual Entailment](http://arxiv.org/abs/2609.24932v1) | ArXiv |  | 1 |
+| [Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning](http://arxiv.org/abs/2609.40286v1) | ArXiv |  | 1 |
+| [Listening to the Wise Few: Query-Key Alignment Unlocks Latent Correct Answers in Large Language Models](http://arxiv.org/abs/2410.02343v2) | ArXiv |  | 1 |
 | [LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure](http://arxiv.org/abs/2608.13545v1) | ArXiv |  | 1 |
 | [LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering](http://arxiv.org/abs/2608.07370v1) | ArXiv |  | 1 |
 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](http://arxiv.org/abs/2608.02515v1) | ArXiv |  | 1 |
@@ -548,6 +553,7 @@
 | [Selective State-Space Adaptation and Retrieval for Language Model Reasoning](http://arxiv.org/abs/2607.19326v2) | ArXiv |  | 1 |
 | [Self-Harness: Harnesses That Improve Themselves](http://arxiv.org/abs/2606.09498v2) | ArXiv |  | 1 |
 | [Semantic Calibration Prevails Where Token Confidence Fails: Benchmarking Long-Form Scientific QA](http://arxiv.org/abs/2602.00279v2) | ArXiv |  | 1 |
+| [Semantic Chunking and the Entropy of Natural Language](http://arxiv.org/abs/2602.13194v3) | ArXiv |  | 1 |
 | [SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data](http://arxiv.org/abs/2609.30238v1) | ArXiv |  | 1 |
 | [SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents](http://arxiv.org/abs/2608.29575v1) | ArXiv |  | 1 |
 | [Sequential Beats Joint: On the Interplay between On-Policy Distillation and RLVR](http://arxiv.org/abs/2609.04108v1) | ArXiv |  | 1 |

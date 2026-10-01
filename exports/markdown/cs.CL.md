@@ -25,6 +25,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2402.18121v2](http://arxiv.org/abs/2402.18121v2)
 
+## Listening to the Wise Few: Query-Key Alignment Unlocks Latent Correct Answers in Large Language Models
+- **ID**: arxiv_2410.02343v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2410.02343v2](http://arxiv.org/abs/2410.02343v2)
+
 ## LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints
 - **ID**: arxiv_2410.06458v2
 - **Source**: ArXiv
@@ -364,6 +369,11 @@
 - **ID**: arxiv_2602.13110v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13110v4](http://arxiv.org/abs/2602.13110v4)
+
+## Semantic Chunking and the Entropy of Natural Language
+- **ID**: arxiv_2602.13194v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.13194v3](http://arxiv.org/abs/2602.13194v3)
 
 ## 
 - **ID**: arxiv_2602.13540v2
@@ -3484,4 +3494,24 @@
 - **ID**: arxiv_2609.38169v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38169v1](http://arxiv.org/abs/2609.38169v1)
+
+## Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports
+- **ID**: arxiv_2609.40236v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40236v1](http://arxiv.org/abs/2609.40236v1)
+
+## Linguistic Loopholes in LLM Unlearning: From a 174-Language Benchmark to Coverage-Aware Unlearning
+- **ID**: arxiv_2609.40286v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40286v1](http://arxiv.org/abs/2609.40286v1)
+
+## How Much Is an AI Token Worth? Scaling Laws for Wild AI-Generated Web Text
+- **ID**: arxiv_2609.40295v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40295v1](http://arxiv.org/abs/2609.40295v1)
+
+## EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery
+- **ID**: arxiv_2609.40340v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40340v1](http://arxiv.org/abs/2609.40340v1)
 

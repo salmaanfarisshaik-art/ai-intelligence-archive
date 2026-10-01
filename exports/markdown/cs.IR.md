@@ -160,8 +160,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23307v1](http://arxiv.org/abs/2609.23307v1)
 
+## MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment
+- **ID**: arxiv_2609.37574v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.37574v2](http://arxiv.org/abs/2609.37574v2)
+
 ## Effective Dense Retrieval using Only In-Context Examples
 - **ID**: arxiv_2609.38099v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38099v1](http://arxiv.org/abs/2609.38099v1)
+
+## Decision-Oriented Recommendation Reranking: An Empirical Study of Jev
+- **ID**: arxiv_2609.40241v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40241v1](http://arxiv.org/abs/2609.40241v1)
 

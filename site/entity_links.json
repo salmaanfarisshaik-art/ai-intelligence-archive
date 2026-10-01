@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:16:28Z",
+  "generated_at": "2026-10-01T11:23:32Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -6232,6 +6232,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_osllmai_community_llama_3_2_1b",
+      "target_id": "hf_meta-llama_Llama-3.2-1B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
       "target_id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored",
       "type": "derived_from"
@@ -8017,6 +8022,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_tokenrhythm_neohorse_1_4b_gguf",
+      "target_id": "hf_TokenRhythm_NeoHorse-1-4B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5",
       "target_id": "hf_lmsys_lmsys-chat-1m",
       "type": "trained_on"
@@ -8939,6 +8949,11 @@
     {
       "source_id": "model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq",
       "target_id": "hf_google_gemma-4-E4B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {

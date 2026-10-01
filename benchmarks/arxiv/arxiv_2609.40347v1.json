@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.40347v1",
+  "schema_version": "1.0",
+  "name": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.40347v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.40347v1",
+    "updated": "2026-09-30T17:59:03Z",
+    "published": "2026-09-30T17:59:03Z",
+    "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+    "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstruction-based autoencoders for learning with unlabeled data, we repurpose standard image Vision Transformers by representing videos as super images which are grids composed of frames sampled from videos. From each super image, we construct two views: one with spatial patch masking and the other with temporal frame masking, ensuring no information leakage across frames. A shared Vision Transformer (ViT) encoder aligns their embeddings using a masked Siamese loss, capturing both motion and appearance cues without reconstruction. Our decoder-free formulation leverages an image foundation model towards efficient video representation learning. Starting from pretrained DINO-v3 and DeiT-v3 image encoders, VideoMSN achieves state-of-the-art performance on Kinetics-400, UCF101, and HMDB51 while requiring up to $32\\times$ fewer and $160\\times$ fewer video pretraining epochs compared to prior video self-supervised learning methods. Our proposed approach also shows strong performance in low-shot classification, confirming the transferability of the learned representations in a label-scarce scenario. Project Page: https://cvir.github.io/projects/videomsn.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-01T11:22:41Z",
+  "last_updated": "2026-09-30T17:59:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.40347v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

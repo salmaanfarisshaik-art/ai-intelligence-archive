@@ -1025,6 +1025,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07430v1](http://arxiv.org/abs/2608.07430v1)
 
+## Router Sensitivity Under Lightweight Fine-Tuning Identifies Prunable Experts in Mixture-of-Experts Models
+- **ID**: arxiv_2608.07890v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07890v2](http://arxiv.org/abs/2608.07890v2)
+
 ## Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation
 - **ID**: arxiv_2608.09385v2
 - **Source**: ArXiv
@@ -1819,4 +1824,34 @@
 - **ID**: arxiv_2609.38166v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38166v1](http://arxiv.org/abs/2609.38166v1)
+
+## PhantomEnvironments: Training LLM Agents in Fictional Worlds
+- **ID**: arxiv_2609.40221v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40221v1](http://arxiv.org/abs/2609.40221v1)
+
+## Distribution Matching Distillation for Continuous Diffusion Language Models
+- **ID**: arxiv_2609.40235v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40235v1](http://arxiv.org/abs/2609.40235v1)
+
+## cua-speedrun: Standardized Benchmarking of the Speed of Computer-Use Agents
+- **ID**: arxiv_2609.40284v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40284v1](http://arxiv.org/abs/2609.40284v1)
+
+## Scaling Laws for Looped Mixture of Experts
+- **ID**: arxiv_2609.40316v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40316v1](http://arxiv.org/abs/2609.40316v1)
+
+## Semifactual Credit-Augmented Policy Optimization
+- **ID**: arxiv_2609.40360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40360v1](http://arxiv.org/abs/2609.40360v1)
+
+## Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis
+- **ID**: arxiv_2609.40361v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40361v1](http://arxiv.org/abs/2609.40361v1)
 

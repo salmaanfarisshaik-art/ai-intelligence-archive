@@ -210,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.10044v3](http://arxiv.org/abs/2603.10044v3)
 
+## Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety
+- **ID**: arxiv_2603.10044v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.10044v4](http://arxiv.org/abs/2603.10044v4)
+
 ## From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions
 - **ID**: arxiv_2603.13359v2
 - **Source**: ArXiv
@@ -259,6 +264,11 @@
 - **ID**: arxiv_2604.07709v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.07709v5](http://arxiv.org/abs/2604.07709v5)
+
+## IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models
+- **ID**: arxiv_2604.07709v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.07709v6](http://arxiv.org/abs/2604.07709v6)
 
 ## Interval POMDP Shielding for Imperfect-Perception Agents
 - **ID**: arxiv_2604.20728v2
@@ -2420,6 +2430,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31137v1](http://arxiv.org/abs/2608.31137v1)
 
+## Towards a Belief-Based World Model for LLM Agents
+- **ID**: arxiv_2609.00455v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00455v2](http://arxiv.org/abs/2609.00455v2)
+
 ## When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation
 - **ID**: arxiv_2609.01519v1
 - **Source**: ArXiv
@@ -3160,6 +3175,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28470v1](http://arxiv.org/abs/2609.28470v1)
 
+## StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- **ID**: arxiv_2609.28470v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.28470v2](http://arxiv.org/abs/2609.28470v2)
+
 ## Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale
 - **ID**: arxiv_2609.30137v1
 - **Source**: ArXiv
@@ -3325,6 +3345,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36944v1](http://arxiv.org/abs/2609.36944v1)
 
+## KV-Kaizen: Learning Context-Adaptive Cache Compression Choices
+- **ID**: arxiv_2609.37988v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.37988v2](http://arxiv.org/abs/2609.37988v2)
+
 ## Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs
 - **ID**: arxiv_2609.38070v1
 - **Source**: ArXiv
@@ -3364,4 +3389,34 @@
 - **ID**: arxiv_2609.38147v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38147v1](http://arxiv.org/abs/2609.38147v1)
+
+## Belief-Aware Multi-Agent Path Finding under Map Uncertainty
+- **ID**: arxiv_2609.40269v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40269v1](http://arxiv.org/abs/2609.40269v1)
+
+## PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents
+- **ID**: arxiv_2609.40285v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40285v1](http://arxiv.org/abs/2609.40285v1)
+
+## How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?
+- **ID**: arxiv_2609.40303v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40303v1](http://arxiv.org/abs/2609.40303v1)
+
+## Cogentic: Multi-Agent Orchestration for Automated Proof Discovery
+- **ID**: arxiv_2609.40324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40324v1](http://arxiv.org/abs/2609.40324v1)
+
+## WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents
+- **ID**: arxiv_2609.40325v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40325v1](http://arxiv.org/abs/2609.40325v1)
+
+## Turbo Harness: Instance-Adaptive Harness Optimization
+- **ID**: arxiv_2609.40330v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40330v1](http://arxiv.org/abs/2609.40330v1)
 

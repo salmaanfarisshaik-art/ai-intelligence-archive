@@ -1084,6 +1084,12 @@
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:audio, modality:image, region:us, size_categories:n<1K
 
+## genrobot2025/Gen-HumanEgo
+- **ID**: hf_ds_6a5466cdd7c4631ab9b28b80
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo](https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo)
+- **Tags**: egocentric, embodied-ai, hand-tracking, language:en, license:cc-by-sa-4.0, manipulation, region:us, robotics, size_categories:n>1T, slam, task_categories:robotics, trajectory, vla
+
 ## scorpionjacketguy/physics-course-vids
 - **ID**: hf_ds_6a60568ac2d6c31b7f81bdc8
 - **Source**: HuggingFace Datasets

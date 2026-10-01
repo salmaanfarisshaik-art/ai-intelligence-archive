@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14211v3](http://arxiv.org/abs/2602.14211v3)
 
+## Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs
+- **ID**: arxiv_2603.28013v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.28013v4](http://arxiv.org/abs/2603.28013v4)
+
 ## Evaluation and Hardening of LLM System Instructions Against Extraction via Encoding Attacks
 - **ID**: arxiv_2604.01039v3
 - **Source**: ArXiv

@@ -6857,6 +6857,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "alpaca_-1047560090193383460",
       "match_type": "exact",
       "score": 2.0
@@ -7914,6 +7919,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_wannaphong_wikipedia_monthly",
       "match_type": "exact",
       "score": 1.5
@@ -8437,6 +8447,11 @@
     },
     {
       "entity_id": "dataset_legacy_datasets_wikipedia",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
       "match_type": "exact",
       "score": 1.5
     },
@@ -12034,6 +12049,11 @@
     },
     {
       "entity_id": "arxiv_2507.21112v4",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2602.13194v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -17886,6 +17906,13 @@
       "score": 1.5
     }
   ],
+  "ndcg": [
+    {
+      "entity_id": "dataset_xlangai_bright",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "nde": [
     {
       "entity_id": "alpaca_-8651513591148750311",
@@ -18019,6 +18046,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_uonlp_culturax",
       "match_type": "exact",
       "score": 1.5
@@ -18124,6 +18156,11 @@
     },
     {
       "entity_id": "dataset_sarulab_speech_yodas2_sidon",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
       "match_type": "exact",
       "score": 1.5
     },
@@ -21854,6 +21891,11 @@
     },
     {
       "entity_id": "arxiv_2609.17527v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2609.40303v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -27317,6 +27359,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_setfit_sst5",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_shijianjian_zdpshift",
       "match_type": "exact",
       "score": 1.5
@@ -29469,6 +29516,13 @@
       "entity_id": "arxiv_2507.05888v2",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "neohorse": [
+    {
+      "entity_id": "model_tokenrhythm_neohorse_1_4b_gguf",
+      "match_type": "exact",
+      "score": 5.0
     }
   ],
   "neologisms": [
@@ -31926,6 +31980,11 @@
     },
     {
       "entity_id": "arxiv_2609.36942v1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_aisha_ai_official_sdxl_models",
       "match_type": "exact",
       "score": 1.0
     },
@@ -35187,6 +35246,11 @@
     },
     {
       "entity_id": "alpaca_7622019874465107651",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_setfit_sst5",
       "match_type": "exact",
       "score": 1.0
     },
@@ -59301,6 +59365,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_uonlp_culturax",
       "match_type": "exact",
       "score": 1.5
@@ -60316,6 +60385,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_wannaphong_wikipedia_monthly",
       "match_type": "exact",
       "score": 1.0
@@ -60574,6 +60648,11 @@
     },
     {
       "entity_id": "dataset_rikunarita_org_wikinium",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
       "match_type": "exact",
       "score": 1.5
     },
@@ -61347,6 +61426,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_aiencoder_llama_cpp_wheels",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_uild42_qb_audio",
       "match_type": "exact",
       "score": 2.0
@@ -61473,6 +61557,11 @@
     },
     {
       "entity_id": "dataset_skylion007_openwebtext",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
       "match_type": "exact",
       "score": 1.5
     },
@@ -74743,11 +74832,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_mint_sjtu_rw_rl_dataset",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_mlfoundations_dcvlm_pool_medium",
       "match_type": "exact",
       "score": 1.0
@@ -74804,6 +74888,11 @@
     },
     {
       "entity_id": "dataset_ropedia_ai_xperience_10m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_setfit_sst5",
       "match_type": "exact",
       "score": 1.0
     },
@@ -78206,6 +78295,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_unimelb_nlp_wikiann",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_wannaphong_wikipedia_monthly",
       "match_type": "exact",
       "score": 1.5
@@ -81253,6 +81347,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_aisha_ai_official_sdxl_models",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_openai_gdpval",
       "match_type": "exact",
       "score": 1.0
@@ -81498,6 +81597,13 @@
   "ntlm": [
     {
       "entity_id": "alpaca_2033725883054273165",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "ntop": [
+    {
+      "entity_id": "dataset_shapebench_cocoanet",
       "match_type": "exact",
       "score": 1.0
     }

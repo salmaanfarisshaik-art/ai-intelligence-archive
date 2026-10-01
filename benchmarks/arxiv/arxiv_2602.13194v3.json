@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.13194v3",
+  "schema_version": "1.0",
+  "name": "Semantic Chunking and the Entropy of Natural Language",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.13194v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.13194v3",
+    "updated": "2026-09-30T17:48:07Z",
+    "published": "2026-02-13T18:58:10Z",
+    "title": "Semantic Chunking and the Entropy of Natural Language",
+    "summary": "Humans and large language models can predict next letter or word from its prior context much better than random guessing, indicating strong redundancy of language viewed as a stochastic process. Quantitatively this redundancy was estimated by Shannon to be around 80\\%, which means that every letter of a printed English text conveys approximately 1 bit of information and not 4.8 bits that 27 letters (including spaces) could potentially carry. This estimate was later confirmed by using autoregressive token probabilies computed by large language models. However, the statistical organization of language that give rise to such a large redundancy remains unclear. Here we introduce a statistical framework of language linking its redundancy to the hierarchical semantic organization of text. To this end, we use large language models to recursively segment any given text into semantically coherent chunks, inducing a ``semantic tree'' that spans the whole range of text organization, beginning from its main idea to individual tokens (words). For a large corpus of texts of a particular type, say fiction stories, the resulting ensemble of semantic trees is characterized by specific statistical regularities, giving rise to a ``structural'' entropy rate defined in this study. Surprisingly, we discovered that for several datasets considered in this work, semantic tree entropy rate was quite close to LLM-measured quantity and exhibited a similar trend across corpus. In particular, simpler texts like children stories exhibit lower branching in their semantic trees and correspondingly lower entropy rates, whereas fiction and poetry exhibit progressively larger branching factors and greater entropy rates. These results suggest that hierarchical semantic organization of texts is an important factor in their overall information transmission rates.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-01T11:22:41Z",
+  "last_updated": "2026-09-30T17:48:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.13194v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

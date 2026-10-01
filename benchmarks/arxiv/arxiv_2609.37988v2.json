@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.37988v2",
+  "schema_version": "1.0",
+  "name": "KV-Kaizen: Learning Context-Adaptive Cache Compression Choices",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.37988v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.37988v2",
+    "updated": "2026-09-30T17:29:56Z",
+    "published": "2026-09-29T16:49:46Z",
+    "title": "KV-Kaizen: Learning Context-Adaptive Cache Compression Choices",
+    "summary": "As the context size of text processed with an LLM grows, the size of KV caches can outstrip the memory allocated for the original model weights. This impacts LLM throughput negatively, since decoding is memory-bound and decode cost grows with cache size. Recent work alleviates this bottleneck by discarding the least relevant tokens. Eviction introduces a tension, since a one-off decision to discard content may prove detrimental later. Instead, we focus on alternative choices that can lead to cache compression without evicting tokens. We achieve this by learning a selector that is able to produce, based on context, a per-layer cache configuration towards an overall compression budget. The selector operates along three axes: sharing one cache across layers (depth), caching at fewer bits (precision), or truncating the low-rank latent cache representations (rank). We call the resulting method KV-Kaizen, for the many small per-layer choices it compounds. We observe that these interventions taken independently and uniformly over all layers limit achievable compression because they degrade accuracy. Crucially, composing them locally and adaptively to the context can instead preserve accuracy while achieving large memory savings. At inference, the selector runs once, before pre-fill. In evaluations on instruction following and reasoning tasks, our selectors reach the Pareto frontier of accuracy against cache size, against learning-free and post-hoc baselines. On long-context tasks, KV-Kaizen improves on eviction and can be composed with it, reaching a 32x smaller decode-time cache on a 14B model while preserving accuracy. A 4x cache size reduction incurs no accuracy degradation from 7B parameters up, and a compressed model is more accurate than a smaller uncompressed one with the same cache size. Together, these findings support pre-training large models and compressing them only afterwards.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-01T11:22:41Z",
+  "last_updated": "2026-09-30T17:29:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.37988v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -4685,6 +4685,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24919v1](http://arxiv.org/abs/2609.24919v1)
 
+## PixelDiT2: Representation-Grounded Pixel Diffusion Transformers
+- **ID**: arxiv_2609.24919v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.24919v2](http://arxiv.org/abs/2609.24919v2)
+
 ## Anatomy-Decomposed Chest Computed Tomography (CT) Projections as Scalable Supervision for Bone Suppression in Chest Radiographs
 - **ID**: arxiv_2609.24937v1
 - **Source**: ArXiv
@@ -4975,6 +4980,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31620v1](http://arxiv.org/abs/2609.31620v1)
 
+## From Scores to Samples: Elastic Forcing for Autoregressive Video Generation
+- **ID**: arxiv_2609.35491v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35491v3](http://arxiv.org/abs/2609.35491v3)
+
 ## Many Eyes, One World: Feed-Forward 3D Reconstruction from Mixed Cameras
 - **ID**: arxiv_2609.35658v1
 - **Source**: ArXiv
@@ -5179,4 +5189,84 @@
 - **ID**: arxiv_2609.38180v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38180v1](http://arxiv.org/abs/2609.38180v1)
+
+## Recognition of Urbanized Areas in UAV-Derived Very-High-Resolution Visible-Light Imagery
+- **ID**: arxiv_2609.40212v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40212v1](http://arxiv.org/abs/2609.40212v1)
+
+## Learning Skills from Historical Action Trajectories: Action Experience Dictionary for World Action Models
+- **ID**: arxiv_2609.40219v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40219v1](http://arxiv.org/abs/2609.40219v1)
+
+## LOCI: Spatial Linear Memory for Streaming World Models
+- **ID**: arxiv_2609.40222v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40222v1](http://arxiv.org/abs/2609.40222v1)
+
+## EviRover: Reinforcing Agentic Perception Beyond a Glance
+- **ID**: arxiv_2609.40230v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40230v1](http://arxiv.org/abs/2609.40230v1)
+
+## StreamRig: Exploiting Intra-Rig Geometry for Streaming Multi-Camera Odometry
+- **ID**: arxiv_2609.40244v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40244v1](http://arxiv.org/abs/2609.40244v1)
+
+## ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents
+- **ID**: arxiv_2609.40253v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40253v1](http://arxiv.org/abs/2609.40253v1)
+
+## Looped Diffusion Transformer
+- **ID**: arxiv_2609.40305v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40305v1](http://arxiv.org/abs/2609.40305v1)
+
+## GLARE: Generating Listening Heads with Appropriate Reactions
+- **ID**: arxiv_2609.40317v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40317v1](http://arxiv.org/abs/2609.40317v1)
+
+## Atomizer-IO: Beyond Pixels, Patches and Grids
+- **ID**: arxiv_2609.40320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40320v1](http://arxiv.org/abs/2609.40320v1)
+
+## MatLoom: Layered Text-to-Material Generation in a Compact Program Space
+- **ID**: arxiv_2609.40322v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40322v1](http://arxiv.org/abs/2609.40322v1)
+
+## I Have a Stream: Making Self-Supervised Learning Work on Continuous Video
+- **ID**: arxiv_2609.40333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40333v1](http://arxiv.org/abs/2609.40333v1)
+
+## Image Classifiers are Efficient Self-Supervised Video Representation Learners
+- **ID**: arxiv_2609.40347v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40347v1](http://arxiv.org/abs/2609.40347v1)
+
+## AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents
+- **ID**: arxiv_2609.40353v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40353v1](http://arxiv.org/abs/2609.40353v1)
+
+## ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing
+- **ID**: arxiv_2609.40356v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40356v1](http://arxiv.org/abs/2609.40356v1)
+
+## Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model
+- **ID**: arxiv_2609.40358v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40358v1](http://arxiv.org/abs/2609.40358v1)
+
+## Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces
+- **ID**: arxiv_2609.40362v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40362v1](http://arxiv.org/abs/2609.40362v1)
 

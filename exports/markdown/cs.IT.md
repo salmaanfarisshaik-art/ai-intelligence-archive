@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.22923v2](http://arxiv.org/abs/2608.22923v2)
 
+## CAS II: Symmetric Partitions as Kolmogorov Models
+- **ID**: arxiv_2609.40290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40290v1](http://arxiv.org/abs/2609.40290v1)
+

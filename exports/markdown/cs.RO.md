@@ -700,6 +700,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31452v1](http://arxiv.org/abs/2609.31452v1)
 
+## ATLAS: Aligned Transport of Latent Structure for Reliable World Model Planning
+- **ID**: arxiv_2609.36333v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36333v2](http://arxiv.org/abs/2609.36333v2)
+
 ## Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
 - **ID**: arxiv_2609.38172v1
 - **Source**: ArXiv
@@ -709,4 +714,14 @@
 - **ID**: arxiv_2609.38178v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38178v1](http://arxiv.org/abs/2609.38178v1)
+
+## DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents
+- **ID**: arxiv_2609.40306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40306v1](http://arxiv.org/abs/2609.40306v1)
+
+## Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?
+- **ID**: arxiv_2609.40341v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40341v1](http://arxiv.org/abs/2609.40341v1)
 

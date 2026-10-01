@@ -1,0 +1,30 @@
+{
+  "_id": "6ab5071ae09b7cb872ee2961",
+  "id": "anon-data-7k4m/review-data-b",
+  "author": "anon-data-7k4m",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-24T13:49:14.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "94ac5dd0589e4a24a71e12e0d19be8f09ae23e42",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tReview Dataset B\n\t\n\nAnonymous review release of synthetic driving data collected in CARLA 0.9.15\nwith the PDM-Lite expert.\n\n5,246 quality-filtered recordings, approximately 221 GB.\n39 scenario types across Towns 01–05, Town10HD, Town12, and Town13.\n768 × 768 DVS events, represented in 50 ms windows.\nIncludes ego-motion metadata and BEV occupancy labels at 0, +0.5, and +1.0 seconds.\n\n\n\t\n\t\t\nSplit\nRecordings\n\n\n\t\t\nTrain\n4,132\n\n\nValidation\n538\n\n\nTest\n576\n\n\n\t\n\nFiles are organized under… See the full description on the dataset page: https://huggingface.co/datasets/anon-data-7k4m/review-data-b.",
+  "downloads": 32415,
+  "tags": [
+    "license:cc-by-4.0",
+    "size_categories:1K<n<10K",
+    "modality:tabular",
+    "modality:text",
+    "region:us",
+    "autonomous-driving",
+    "event-camera",
+    "dvs",
+    "carla",
+    "pdm-lite",
+    "synthetic"
+  ],
+  "createdAt": "2026-09-24T11:18:50.000Z",
+  "key": "",
+  "unique_id": "dataset_anon_data_7k4m_review_data_b",
+  "schema_version": "1.0"
+}

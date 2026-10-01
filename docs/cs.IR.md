@@ -11,6 +11,7 @@
 | [Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search](http://arxiv.org/abs/2607.15253v1) | ArXiv |  | 1 |
 | [CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations](http://arxiv.org/abs/2604.14586v3) | ArXiv |  | 1 |
 | [Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference](http://arxiv.org/abs/2608.20210v1) | ArXiv |  | 1 |
+| [Decision-Oriented Recommendation Reranking: An Empirical Study of Jev](http://arxiv.org/abs/2609.40241v1) | ArXiv |  | 1 |
 | [DeGRe: Dense-supervised Generative Reranking for Recommendation](http://arxiv.org/abs/2605.25749v2) | ArXiv |  | 1 |
 | [Effective Dense Retrieval using Only In-Context Examples](http://arxiv.org/abs/2609.38099v1) | ArXiv |  | 1 |
 | [Efficient Rationale-based Retrieval: On-policy Distillation from Generative Rerankers based on JEPA](http://arxiv.org/abs/2604.23336v3) | ArXiv |  | 1 |
@@ -21,6 +22,7 @@
 | [How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations](http://arxiv.org/abs/2606.16973v1) | ArXiv |  | 1 |
 | [Improving Item Discoverability in e-Commerce Search via Related Intent Generation](http://arxiv.org/abs/2607.27172v1) | ArXiv |  | 1 |
 | [IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction](http://arxiv.org/abs/2606.18181v1) | ArXiv |  | 1 |
+| [MERGE: Multi-LLM Ensemble for Retrieval via Generative Enrichment](http://arxiv.org/abs/2609.37574v2) | ArXiv |  | 1 |
 | [PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans](http://arxiv.org/abs/2608.26091v1) | ArXiv |  | 1 |
 | [PLASMA: A Layout-Aware Benchmark Reveals Memory Layout Matters for Graph-based ANNS on GPU](http://arxiv.org/abs/2508.15436v2) | ArXiv |  | 1 |
 | [Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention](http://arxiv.org/abs/2609.22056v1) | ArXiv |  | 1 |

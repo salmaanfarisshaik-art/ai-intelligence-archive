@@ -151,6 +151,7 @@
 | [Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations](http://arxiv.org/abs/2606.17005v1) | ArXiv |  | 1 |
 | [Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization](http://arxiv.org/abs/2606.13658v1) | ArXiv |  | 1 |
 | [Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents](http://arxiv.org/abs/2607.15715v2) | ArXiv |  | 1 |
+| [Belief-Aware Multi-Agent Path Finding under Map Uncertainty](http://arxiv.org/abs/2609.40269v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight](http://arxiv.org/abs/2608.24314v2) | ArXiv |  | 1 |
 | [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
 | [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](http://arxiv.org/abs/2608.20768v2) | ArXiv |  | 1 |
@@ -195,6 +196,7 @@
 | [CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing](http://arxiv.org/abs/2608.07424v1) | ArXiv |  | 1 |
 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](http://arxiv.org/abs/2609.22068v1) | ArXiv |  | 1 |
 | [CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents](http://arxiv.org/abs/2607.19338v1) | ArXiv |  | 1 |
+| [Cogentic: Multi-Agent Orchestration for Automated Proof Discovery](http://arxiv.org/abs/2609.40324v1) | ArXiv |  | 1 |
 | [Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments](http://arxiv.org/abs/2609.19128v1) | ArXiv |  | 1 |
 | [Cognitive World Model for Progressive BDI/E Trajectory Evaluation of Conversational Agents](http://arxiv.org/abs/2606.29495v2) | ArXiv |  | 1 |
 | [Comparing Explanations is Not Enough, Explain the Change: New Standards are Needed to Explain Behavioral Shifts in Large Language Models](http://arxiv.org/abs/2602.02304v3) | ArXiv |  | 1 |
@@ -334,8 +336,10 @@
 | [Homebot: A Personal AI Agent for Conversational Home Assistance and Automation](http://arxiv.org/abs/2608.02254v2) | ArXiv |  | 1 |
 | [How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles](http://arxiv.org/abs/2608.23543v1) | ArXiv |  | 1 |
 | [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | ArXiv |  | 1 |
+| [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](http://arxiv.org/abs/2609.40303v1) | ArXiv |  | 1 |
 | [Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation](http://arxiv.org/abs/2606.26502v4) | ArXiv |  | 1 |
 | [IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models](http://arxiv.org/abs/2604.07709v5) | ArXiv |  | 1 |
+| [IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models](http://arxiv.org/abs/2604.07709v6) | ArXiv |  | 1 |
 | [Imitation Learning for Connection-Tableau Construction](http://arxiv.org/abs/2608.26009v1) | ArXiv |  | 1 |
 | [Improving Generalization Robustness of Multimodal RLVR](http://arxiv.org/abs/2608.08802v2) | ArXiv |  | 1 |
 | [Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints](http://arxiv.org/abs/2608.06265v1) | ArXiv |  | 1 |
@@ -359,6 +363,7 @@
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
+| [KV-Kaizen: Learning Context-Adaptive Cache Compression Choices](http://arxiv.org/abs/2609.37988v2) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
@@ -463,6 +468,7 @@
 | [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](http://arxiv.org/abs/2609.15919v1) | ArXiv |  | 1 |
 | [Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](http://arxiv.org/abs/2609.24881v1) | ArXiv |  | 1 |
 | [Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](http://arxiv.org/abs/2609.24881v2) | ArXiv |  | 1 |
+| [PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents](http://arxiv.org/abs/2609.40285v1) | ArXiv |  | 1 |
 | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v1) | ArXiv |  | 1 |
 | [Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings](http://arxiv.org/abs/2608.26088v2) | ArXiv |  | 1 |
 | [Planning with the Views via Scene Self-Exploration](http://arxiv.org/abs/2605.29563v2) | ArXiv |  | 1 |
@@ -524,6 +530,7 @@
 | [SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?](http://arxiv.org/abs/2609.09113v1) | ArXiv |  | 1 |
 | [SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment](http://arxiv.org/abs/2609.02786v1) | ArXiv |  | 1 |
 | [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v3) | ArXiv |  | 1 |
+| [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v4) | ArXiv |  | 1 |
 | [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](http://arxiv.org/abs/2609.30192v1) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
 | [Sample-Conditioned Representation Selection for Audio Few-Shot Learning](http://arxiv.org/abs/2609.17076v1) | ArXiv |  | 1 |
@@ -577,6 +584,7 @@
 | [Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core](http://arxiv.org/abs/2608.24810v1) | ArXiv |  | 1 |
 | [Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG](http://arxiv.org/abs/2609.20334v1) | ArXiv |  | 1 |
 | [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v1) | ArXiv |  | 1 |
+| [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v2) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
@@ -621,6 +629,7 @@
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
 | [Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks](http://arxiv.org/abs/2607.25914v1) | ArXiv |  | 1 |
+| [Towards a Belief-Based World Model for LLM Agents](http://arxiv.org/abs/2609.00455v2) | ArXiv |  | 1 |
 | [Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v1) | ArXiv |  | 1 |
 | [Towards AI-Driven Policing: Interdisciplinary Knowledge Discovery from Police Body-Worn Camera Footage](http://arxiv.org/abs/2504.20007v4) | ArXiv |  | 1 |
 | [Towards Direct Latent-Space Synthesis for Parallel Branches in LLM-Agent Workflows](http://arxiv.org/abs/2606.14672v1) | ArXiv |  | 1 |
@@ -634,6 +643,7 @@
 | [Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration](http://arxiv.org/abs/2608.28511v1) | ArXiv |  | 1 |
 | [TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories](http://arxiv.org/abs/2608.06346v1) | ArXiv |  | 1 |
 | [Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering](http://arxiv.org/abs/2608.19125v1) | ArXiv |  | 1 |
+| [Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1) | ArXiv |  | 1 |
 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](http://arxiv.org/abs/2608.14490v1) | ArXiv |  | 1 |
 | [Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](http://arxiv.org/abs/2504.09772v3) | ArXiv |  | 1 |
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
@@ -674,6 +684,7 @@
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
+| [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | ArXiv |  | 1 |
 | [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |
 | [Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports](http://arxiv.org/abs/2608.14446v1) | ArXiv |  | 1 |
 | [X+Slides: Benchmarking Audience-Conditioned Slide Generation](http://arxiv.org/abs/2606.19256v1) | ArXiv |  | 1 |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T04:16:28Z",
+  "generated_at": "2026-10-01T11:23:32Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1239,6 +1239,7 @@
       "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+      "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
       "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
       "model_z_lab_qwen3_8_27b_dflash2",
       "model_z_lab_qwen3_8_27b_dflash2_gguf"
@@ -1336,6 +1337,9 @@
       "hf_bigcode_starcoderdata",
       "hf_cerebras_SlimPajama-627B",
       "model_thebloke_tinyllama_1_1b_chat_v1_0_gptq"
+    ],
+    "hf_TokenRhythm_NeoHorse-1-4B": [
+      "model_tokenrhythm_neohorse_1_4b_gguf"
     ],
     "hf_TrevorJS_gemma-4-26B-A4B-it-uncensored": [
       "model_aeon_7_gemma_4_26b_a4b_it_uncensored_nvfp4"
@@ -2329,6 +2333,7 @@
       "model_unsloth_meta_llama_3_1_8b_instruct_unsloth_bnb_4bit"
     ],
     "hf_meta-llama_Llama-3.2-1B": [
+      "model_osllmai_community_llama_3_2_1b",
       "model_unsloth_llama_3_2_1b"
     ],
     "hf_meta-llama_Llama-3.2-1B-Instruct": [
@@ -6110,6 +6115,9 @@
     "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf": [
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
+    "model_osllmai_community_llama_3_2_1b": [
+      "hf_meta-llama_Llama-3.2-1B"
+    ],
     "model_outsourc_e_qwen3_8_27b_unleashed_gguf": [
       "hf_JonathanColetti_Qwen3.8-27B-Uncensored"
     ],
@@ -7025,6 +7033,9 @@
     "model_tobil_qmd_query_expansion_1_7b_gguf": [
       "hf_Qwen_Qwen3-1.7B"
     ],
+    "model_tokenrhythm_neohorse_1_4b_gguf": [
+      "hf_TokenRhythm_NeoHorse-1-4B"
+    ],
     "model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5": [
       "hf_lmsys_lmsys-chat-1m",
       "hf_tokyotech-llm_Llama-3.1-Swallow-8B-v0.5",
@@ -7479,6 +7490,9 @@
     ],
     "model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq": [
       "hf_google_gemma-4-E4B-it"
+    ],
+    "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq": [
       "hf_LiquidAI_LFM2.5-8B-A1B"
