@@ -1292,6 +1292,10 @@
 - **ID**: model_devquasar_liquidai_lfm2_2_6b_transcript_gguf
 - **Source**: 
 
+## dgpl/dgpl-experimental-1
+- **ID**: model_dgpl_dgpl_experimental_1
+- **Source**: 
+
 ## dicta-il/DictaLM-3.0-1.7B-Instruct
 - **ID**: model_dicta_il_dictalm_3_0_1_7b_instruct
 - **Source**: 
@@ -4380,6 +4384,10 @@
 - **ID**: model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf
 - **Source**: 
 
+## osllmai-community/Llama-3.2-1B
+- **ID**: model_osllmai_community_llama_3_2_1b
+- **Source**: 
+
 ## OuteAI/Lite-Oute-1-300M
 - **ID**: model_outeai_lite_oute_1_300m
 - **Source**: 
@@ -5976,6 +5984,10 @@
 - **ID**: model_togatogah_jinen_v2_small_gguf
 - **Source**: 
 
+## TokenRhythm/NeoHorse-1-4B-GGUF
+- **ID**: model_tokenrhythm_neohorse_1_4b_gguf
+- **Source**: 
+
 ## tokyotech-llm/Llama-3.1-Swallow-8B-Instruct-v0.5
 - **ID**: model_tokyotech_llm_llama_3_1_swallow_8b_instruct_v0_5
 - **Source**: 
@@ -6754,6 +6766,10 @@
 
 ## Vishva007/gemma-4-E4B-it-W4A16-AutoRound-GPTQ
 - **ID**: model_vishva007_gemma_4_e4b_it_w4a16_autoround_gptq
+- **Source**: 
+
+## Vishva007/Qwen3.8-27B-W4A16-AutoRound-GPTQ
+- **ID**: model_vishva007_qwen3_8_27b_w4a16_autoround_gptq
 - **Source**: 
 
 ## VLTX/VertaLily-1.2-1B-GGUF
