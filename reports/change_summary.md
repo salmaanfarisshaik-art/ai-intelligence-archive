@@ -1,10 +1,9 @@
 # Change Summary
 
-**Total Changes:** 110
+**Total Changes:** 99
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_albertsons-reimagining-retail.json
-- prompts/openai-blog/rss_https___openai.com_index_the-eternal-complement.json
+- prompts/openai-blog/rss_https___openai.com_index_the-den-family-social.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -18,43 +17,33 @@
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
-- datasets/anon8231489123/hf_ds_642912f7a760fe0bf37996b1.json
-- datasets/cais/hf_ds_621ffdd236468d709f181e5e.json
-- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
-- datasets/genrobot2025/hf_ds_6a5466cdd7c4631ab9b28b80.json
-- datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/lichess/hf_ds_66f27f215dfdba5747322656.json
 - datasets/mlfoundations/hf_ds_669caf535bd3f749a3c87c11.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/stringfellow/hf_ds_6a44a4c981d12be393e7749d.json
+- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
-- exports/json/datasets.json
-- exports/json/models.json
 - exports/json/news.json
 - exports/markdown/dataset.md
-- exports/markdown/datasets.md
-- exports/markdown/models.md
 - exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/google/hf_google_gemma-3-1b-it.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai/hf_openai_gpt-oss-120b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
