@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:09:09Z",
+  "generated_at": "2026-10-02T09:24:47Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -45,6 +45,9 @@
     ],
     "hf_Aeala_ShareGPT_Vicuna_unfiltered": [
       "model_mtgv_mobilellama_1_4b_chat"
+    ],
+    "hf_Altworld_Hemmingway-1": [
+      "model_bartowski_altworld_hemmingway_1_gguf"
     ],
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF": [
       "hf_google_gemma-3-1b-it"
@@ -1383,6 +1386,9 @@
       "model_abenzerps_spark_x2_5_4b_gguf",
       "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf",
       "model_xhtoken_spark_x2_5_4b_gguf"
+    ],
+    "hf_Zyphra_ZAYA1-base": [
+      "model_zyphra_zaya1_vl_8b"
     ],
     "hf_Zyphra_Zamba2-1.2B": [
       "model_zyphra_zamba2_1_2b_instruct"
@@ -3152,6 +3158,7 @@
       "hf_Qwen_Qwen3.8-27B",
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_pq2_0_mtp_gguf",
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf",
+      "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf",
       "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf"
     ],
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit": [
@@ -3788,6 +3795,9 @@
     "model_bartowski_allenai_olmo_3_1_32b_think_gguf": [
       "hf_allenai_Dolci-Think-RL",
       "hf_allenai_Olmo-3.1-32B-Think"
+    ],
+    "model_bartowski_altworld_hemmingway_1_gguf": [
+      "hf_Altworld_Hemmingway-1"
     ],
     "model_bartowski_deepseek_r1_distill_llama_70b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-Distill-Llama-70B"
@@ -4595,6 +4605,9 @@
       "hf_Roman1111111_claude-opus-4.6-10000x",
       "hf_hesamation_Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled",
       "hf_nohurry_Opus-4.6-Reasoning-3000x-filtered"
+    ],
+    "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf": [
+      "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
     "model_hugging_quants_gemma_2_9b_it_awq_int4": [
       "hf_google_gemma-2-9b-it"
@@ -7604,6 +7617,9 @@
     ],
     "model_zyphra_zamba2_7b_instruct": [
       "hf_Zyphra_Zamba2-7B"
+    ],
+    "model_zyphra_zaya1_vl_8b": [
+      "hf_Zyphra_ZAYA1-base"
     ]
   },
   "schema_version": "1.0.0"

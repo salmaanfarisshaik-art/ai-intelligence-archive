@@ -3623,6 +3623,7 @@
 - **ID**: hf_mistralai_Mistral-7B-Instruct-v0.2
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2)
+- **Tags**: arxiv:2310.06825, conversational, deploy:azure, eval-results, finetuned, license:apache-2.0, mistral, mistral-common, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## mistralai/Mistral-7B-v0.1
 - **ID**: hf_mistralai_Mistral-7B-v0.1

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:09:09Z",
+  "generated_at": "2026-10-02T09:24:47Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -909,6 +909,11 @@
     {
       "source_id": "model_bartowski_allenai_olmo_3_1_32b_think_gguf",
       "target_id": "hf_allenai_Olmo-3.1-32B-Think",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_altworld_hemmingway_1_gguf",
+      "target_id": "hf_Altworld_Hemmingway-1",
       "type": "derived_from"
     },
     {
@@ -2585,6 +2590,11 @@
       "source_id": "model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf",
       "target_id": "hf_nohurry_Opus-4.6-Reasoning-3000x-filtered",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf",
+      "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+      "type": "derived_from"
     },
     {
       "source_id": "model_hugging_quants_gemma_2_9b_it_awq_int4",
@@ -9169,6 +9179,11 @@
     {
       "source_id": "model_zyphra_zamba2_7b_instruct",
       "target_id": "hf_Zyphra_Zamba2-7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_zyphra_zaya1_vl_8b",
+      "target_id": "hf_Zyphra_ZAYA1-base",
       "type": "derived_from"
     }
   ],

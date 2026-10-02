@@ -483,6 +483,9 @@
   "arxiv:2310.02255": [
     "hf_google_gemma-3-270m"
   ],
+  "arxiv:2310.06825": [
+    "hf_mistralai_Mistral-7B-Instruct-v0.2"
+  ],
   "arxiv:2311.07911": [
     "hf_ds_658570e3bae0736365b32de4",
     "hf_google_gemma-3-270m"
@@ -1131,6 +1134,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -1357,6 +1361,7 @@
     "hf_facebook_opt-125m",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_ibm-granite_granite-4.1-8b",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai-community_gpt2",
@@ -1650,6 +1655,7 @@
     "hf_ibm-granite_granite-4.1-8b",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b",
@@ -1692,6 +1698,9 @@
   ],
   "fine-tuned": [
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
+  ],
+  "finetuned": [
+    "hf_mistralai_Mistral-7B-Instruct-v0.2"
   ],
   "fineweb-edu": [
     "hf_ds_699250f08be5bf8321aeb29e"
@@ -4312,6 +4321,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_ibm-granite_granite-4.1-8b",
     "hf_llamafactory_tiny-random-Llama-3",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
     "hf_openai_gpt-oss-120b",
@@ -4605,6 +4615,12 @@
   ],
   "minimax_m2": [
     "hf_MiniMaxAI_MiniMax-M2.7"
+  ],
+  "mistral": [
+    "hf_mistralai_Mistral-7B-Instruct-v0.2"
+  ],
+  "mistral-common": [
+    "hf_mistralai_Mistral-7B-Instruct-v0.2"
   ],
   "mixture-of-experts": [
     "hf_antirez_deepseek-v4-gguf"
@@ -5089,6 +5105,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_openai-community_gpt2",
@@ -5450,6 +5467,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -5574,6 +5592,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -6245,6 +6264,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
@@ -6304,6 +6324,7 @@
     "hf_llamafactory_tiny-random-Llama-3",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_openai-community_gpt2",
     "hf_openai-community_gpt2-large",
     "hf_prefeitura-rio_Rio-3.0-Open-Mini",
@@ -6406,6 +6427,7 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct",
     "hf_microsoft_Phi-3.5-vision-instruct",
+    "hf_mistralai_Mistral-7B-Instruct-v0.2",
     "hf_moonshotai_Kimi-K2-Instruct-0905",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
