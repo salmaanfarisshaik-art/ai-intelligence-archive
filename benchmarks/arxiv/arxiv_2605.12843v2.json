@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12843v2",
+  "schema_version": "1.0",
+  "name": "ReForge: Refining Merged Models with Anchor-Regularized Regression",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12843v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12843v2",
+    "updated": "2026-10-01T17:29:57Z",
+    "published": "2026-05-13T00:36:47Z",
+    "title": "ReForge: Refining Merged Models with Anchor-Regularized Regression",
+    "summary": "Model merging aims to combine multiple task-specific expert models into a single model without joint retraining, offering a practical alternative to multi-task learning when data access or computational budget is limited. Existing model merging methods rarely exploit strong merged models as priors for further improvement. To address this limitation, we propose ReForge, a bilevel optimization framework that formulates module-wise refinement as Bayesian linear regression with an anchor-centered prior. The inner level yields a closed-form MAP estimate from unlabeled calibration activations. The outer level uses Bayesian optimization to jointly select heterogeneous regularization strengths and assembly scales using held-out validation data. Furthermore, we develop a data-free variant of ReForge that replaces activation statistics with task-vector Grams, eliminating the need for calibration examples. Across extensive benchmarks, including up to 20-task merging in vision and 5-task merging in language, ReForge consistently outperforms all evaluated plug-and-play anchor baselines (e.g., TA, WUDI-Merging, and TSV). On 20-task ViT-B/32, ReForge improves the strongest evaluated baseline, ISO-CTS, from 77.6% to 82.8% in the data-assisted setting and to 81.5% in the data-free setting. On eight-task ViT-L/14, the data-assisted variant achieves 95.1% mean accuracy, compared with 95.8% for the individual task experts. Our source code will be released soon.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:29:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12843v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

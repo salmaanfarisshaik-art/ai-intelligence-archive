@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.08889v2",
+  "schema_version": "1.0",
+  "name": "Scalable Delphi: Large Language Models for Structured Risk Estimation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.08889v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.08889v2",
+    "updated": "2026-10-01T17:42:37Z",
+    "published": "2026-02-09T16:52:03Z",
+    "title": "Scalable Delphi: Large Language Models for Structured Risk Estimation",
+    "summary": "Quantitative risk assessment relies on structured expert elicitation to estimate unobservable properties. The Delphi method produces calibrated, auditable estimates but requires months of coordination and specialist time, placing rigorous risk assessment out of reach for most applications. We propose Scalable Delphi, adapting the classical protocol for LLMs with diverse expert personas, iterative refinement, and rationale sharing. Beyond lowering cost, this makes the assessment analyzable and dynamic. Rationales and revision histories record what each estimate rests on, information can be ablated to test which evidence matters, and the elicitation can be rerun with new evidence, changed assumptions, or adverse scenarios. Because target quantities are unobservable by construction, we design an evaluation framework based on necessary conditions any reliable estimator must satisfy: accuracy and calibration on verifiable proxies, and sensitivity to evidence. Agreement with expert panels and reasoning quality serve as corroboration. Across two domains (AI-augmented cybersecurity risk, ice-sheet contribution to sea-level rise), three benchmarks, and three reproduced expert studies, the estimates pass these tests: they improve systematically as evidence is added, agree with expert panels on most quantities, and correlate strongly with ground truth (Pearson r=0.91-0.98).",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:42:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.08889v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.20779v2",
+  "schema_version": "1.0",
+  "name": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.20779v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.20779v2",
+    "updated": "2026-10-01T17:58:03Z",
+    "published": "2026-04-22T17:08:19Z",
+    "title": "SWE-chat: Coding Agent Interactions From Real Users in the Wild",
+    "summary": "AI coding agents are being adopted at scale, yet we lack empirical evidence on how people actually use them and how much of their output is useful in practice. We present SWE-chat, the first large-scale dataset of real coding agent sessions collected from open-source developers in the wild. The dataset currently contains almost 18,000 sessions, comprising more than 229,000 user prompts and 2 million agent tool calls. SWE-chat is a living dataset; our collection pipeline automatically and continually discovers and processes sessions from public repositories. Leveraging SWE-chat, we provide an initial empirical characterization of real-world coding agent usage and failure modes. We find that coding patterns are bimodal: in 41% of sessions, agents author virtually all committed code (\"vibe coding\"), while in 25%, humans write all code themselves. Despite rapidly improving capabilities, coding agents remain inefficient in natural settings. Only 59% of all agent-produced code survives into user commits, and agent-written code introduces more security vulnerabilities than code authored by humans. Furthermore, users push back against agent outputs - through corrections, failure reports, and interruptions - in 50% of all turns. By capturing complete interaction traces with human vs. agent code authorship attribution, SWE-chat provides an empirical foundation for moving beyond curated benchmarks towards an evidence-based understanding of how AI agents perform in real developer workflows.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:58:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.20779v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -140,6 +140,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.02304v3](http://arxiv.org/abs/2602.02304v3)
 
+## Scalable Delphi: Large Language Models for Structured Risk Estimation
+- **ID**: arxiv_2602.08889v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.08889v2](http://arxiv.org/abs/2602.08889v2)
+
 ## When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models
 - **ID**: arxiv_2602.13215v3
 - **Source**: ArXiv
@@ -240,6 +245,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29678v3](http://arxiv.org/abs/2603.29678v3)
 
+## Detecting Multi-Agent Collusion Through Multi-Agent Interpretability
+- **ID**: arxiv_2604.01151v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01151v3](http://arxiv.org/abs/2604.01151v3)
+
 ## Crashing Waves vs. Rising Tides: Findings on AI Automation from Thousands of Worker Evaluations of Labor Market Tasks
 - **ID**: arxiv_2604.01363v2
 - **Source**: ArXiv
@@ -274,6 +284,11 @@
 - **ID**: arxiv_2604.20728v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.20728v2](http://arxiv.org/abs/2604.20728v2)
+
+## SWE-chat: Coding Agent Interactions From Real Users in the Wild
+- **ID**: arxiv_2604.20779v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.20779v2](http://arxiv.org/abs/2604.20779v2)
 
 ## FAIR_XAI: Improving Multimodal Foundation Model Fairness via Explainability for Wellbeing Assessment
 - **ID**: arxiv_2604.23786v2
@@ -1650,6 +1665,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.08802v2](http://arxiv.org/abs/2608.08802v2)
 
+## Full-bandwidth transformer
+- **ID**: arxiv_2608.08888v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08888v2](http://arxiv.org/abs/2608.08888v2)
+
 ## Mismatch Matters: On-Policy Distillation Beyond Token Agreement
 - **ID**: arxiv_2608.09836v1
 - **Source**: ArXiv
@@ -2685,6 +2705,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.07925v4](http://arxiv.org/abs/2609.07925v4)
 
+## SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale
+- **ID**: arxiv_2609.08228v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.08228v2](http://arxiv.org/abs/2609.08228v2)
+
 ## Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning
 - **ID**: arxiv_2609.09030v1
 - **Source**: ArXiv
@@ -3419,4 +3444,19 @@
 - **ID**: arxiv_2609.40330v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40330v1](http://arxiv.org/abs/2609.40330v1)
+
+## A Comparative Explainability Framework for DeBERTa-v3 in Zero-Shot Medical Abstract Classification
+- **ID**: arxiv_2610.02116v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02116v1](http://arxiv.org/abs/2610.02116v1)
+
+## VISTA: A Visual Harness for Reasoning in an Interactive World
+- **ID**: arxiv_2610.02200v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02200v1](http://arxiv.org/abs/2610.02200v1)
+
+## ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research
+- **ID**: arxiv_2610.02202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02202v1](http://arxiv.org/abs/2610.02202v1)
 

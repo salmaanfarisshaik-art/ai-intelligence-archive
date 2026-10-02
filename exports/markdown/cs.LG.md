@@ -220,6 +220,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## Capabilities Ain't All You Need: Measuring Propensities in AI
+- **ID**: arxiv_2602.18182v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.18182v5](http://arxiv.org/abs/2602.18182v5)
+
 ## Partial recovery of meter-scale surface weather
 - **ID**: arxiv_2602.23146v2
 - **Source**: ArXiv
@@ -369,6 +374,11 @@
 - **ID**: arxiv_2605.10889v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.10889v2](http://arxiv.org/abs/2605.10889v2)
+
+## ReForge: Refining Merged Models with Anchor-Regularized Regression
+- **ID**: arxiv_2605.12843v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12843v2](http://arxiv.org/abs/2605.12843v2)
 
 ## Revisiting Reinforcement Learning with Verifiable Rewards from a Contrastive Perspective
 - **ID**: arxiv_2605.12969v5
@@ -1854,4 +1864,34 @@
 - **ID**: arxiv_2609.40361v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40361v1](http://arxiv.org/abs/2609.40361v1)
+
+## Local Support Learning
+- **ID**: arxiv_2610.02126v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02126v1](http://arxiv.org/abs/2610.02126v1)
+
+## Finetuning with Sampling: SFT Learns Better Than You Think
+- **ID**: arxiv_2610.02140v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02140v1](http://arxiv.org/abs/2610.02140v1)
+
+## Every Ablation Is a Dose: Counterweights and the Semblance of Self-Repair
+- **ID**: arxiv_2610.02173v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02173v1](http://arxiv.org/abs/2610.02173v1)
+
+## SoftServe: A Scalable Quasi-Newton Method for Deep Learning
+- **ID**: arxiv_2610.02182v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02182v1](http://arxiv.org/abs/2610.02182v1)
+
+## Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry
+- **ID**: arxiv_2610.02186v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02186v1](http://arxiv.org/abs/2610.02186v1)
+
+## FERPO: Forward Entropy-Regularized Policy Optimization
+- **ID**: arxiv_2610.02198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02198v1](http://arxiv.org/abs/2610.02198v1)
 

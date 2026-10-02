@@ -840,6 +840,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30116v2](http://arxiv.org/abs/2605.30116v2)
 
+## MonoPhysics: Estimating Geometry, Appearance, and Physical Parameters from Monocular Videos
+- **ID**: arxiv_2605.30320v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30320v2](http://arxiv.org/abs/2605.30320v2)
+
 ## Beyond Visual Memory: Mechanistic Diagnostics of Latent Visual Reasoning
 - **ID**: arxiv_2606.01287v2
 - **Source**: ArXiv
@@ -5220,6 +5225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40253v1](http://arxiv.org/abs/2609.40253v1)
 
+## ComputerSD: Online Self-Distillation from Real-Time Feedback for Computer-Use Agents
+- **ID**: arxiv_2609.40253v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40253v2](http://arxiv.org/abs/2609.40253v2)
+
 ## Looped Diffusion Transformer
 - **ID**: arxiv_2609.40305v1
 - **Source**: ArXiv
@@ -5269,4 +5279,94 @@
 - **ID**: arxiv_2609.40362v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40362v1](http://arxiv.org/abs/2609.40362v1)
+
+## Surface-volume self-supervised representation learning of brain MRI for genetic discovery
+- **ID**: arxiv_2610.02114v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02114v1](http://arxiv.org/abs/2610.02114v1)
+
+## Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes
+- **ID**: arxiv_2610.02117v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02117v1](http://arxiv.org/abs/2610.02117v1)
+
+## Harnessing Domain Specialists in Multimodal Mixture-of-Experts for Efficient Adaptation
+- **ID**: arxiv_2610.02123v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02123v1](http://arxiv.org/abs/2610.02123v1)
+
+## MIRTO: a registration-gated, multiverse-tested evaluation protocol for unsupervised anomaly segmentation in brain MRI
+- **ID**: arxiv_2610.02136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02136v1](http://arxiv.org/abs/2610.02136v1)
+
+## Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation
+- **ID**: arxiv_2610.02148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02148v1](http://arxiv.org/abs/2610.02148v1)
+
+## MosaiChunk: Compositing Spatio-Temporal Memory for Autoregressive Video Generation
+- **ID**: arxiv_2610.02153v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02153v1](http://arxiv.org/abs/2610.02153v1)
+
+## 4Director: Controlling Video World Models with Rigid 3D Geometry
+- **ID**: arxiv_2610.02160v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02160v1](http://arxiv.org/abs/2610.02160v1)
+
+## World Observer: Joint Actor-Observer Generation for Persistent World Modeling
+- **ID**: arxiv_2610.02162v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02162v1](http://arxiv.org/abs/2610.02162v1)
+
+## Generative Cinematographer: Composing Camera and Object Motion in 3D
+- **ID**: arxiv_2610.02180v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02180v1](http://arxiv.org/abs/2610.02180v1)
+
+## OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning
+- **ID**: arxiv_2610.02181v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02181v1](http://arxiv.org/abs/2610.02181v1)
+
+## DMAD: Distribution Matching as Adversarial Distillation for Fast Visual Generation
+- **ID**: arxiv_2610.02188v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02188v1](http://arxiv.org/abs/2610.02188v1)
+
+## HiPhy: Hierarchical Alignment for Physically-Plausible Multi-Principle Video Generation
+- **ID**: arxiv_2610.02197v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02197v1](http://arxiv.org/abs/2610.02197v1)
+
+## SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation
+- **ID**: arxiv_2610.02201v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02201v1](http://arxiv.org/abs/2610.02201v1)
+
+## Embedding Prediction Helps Image Generation
+- **ID**: arxiv_2610.02203v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02203v1](http://arxiv.org/abs/2610.02203v1)
+
+## ROWBench: Do Video Models Render What the Program Specifies?
+- **ID**: arxiv_2610.02205v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02205v1](http://arxiv.org/abs/2610.02205v1)
+
+## One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars
+- **ID**: arxiv_2610.02207v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02207v1](http://arxiv.org/abs/2610.02207v1)
+
+## Sphere Encoder 2
+- **ID**: arxiv_2610.02208v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02208v1](http://arxiv.org/abs/2610.02208v1)
+
+## Moore, Escher, Penrose: A Conformal Golden Braid
+- **ID**: arxiv_2610.02210v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02210v1](http://arxiv.org/abs/2610.02210v1)
 

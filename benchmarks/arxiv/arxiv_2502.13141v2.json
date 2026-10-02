@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2502.13141v2",
+  "schema_version": "1.0",
+  "name": "UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2502.13141v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2502.13141v2",
+    "updated": "2026-10-01T17:30:02Z",
+    "published": "2025-02-18T18:59:00Z",
+    "title": "UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models",
+    "summary": "Large Language Models (LLMs) are vulnerable to attacks like prompt injection, backdoor attacks, and adversarial attacks, which manipulate prompts or models to generate harmful outputs. In this paper, departing from traditional deep learning attack paradigms, we explore their intrinsic relationship and collectively term them Prompt Trigger Attacks (PTA). This raises a key question: Given a prompt, can we tell whether a hidden trigger is steering the model's behavior? We propose UniGuardian, to the best of our knowledge the first training-free LLM detector to jointly detect successfully activated prompt injection, backdoor, and adversarial attacks without knowing the attack type. Its shared mechanism measures how structured prompt perturbations shift the model's output distribution. Additionally, we introduce a single-forward strategy to optimize the detection pipeline, enabling simultaneous attack detection and text generation within a shared batched forward pass at each decoding step. Our experiments confirm that UniGuardian accurately and efficiently identifies trigger-activated prompts in LLMs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:30:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2502.13141v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.02181v1",
+  "schema_version": "1.0",
+  "name": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.02181v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.02181v1",
+    "updated": "2026-10-01T17:58:16Z",
+    "published": "2026-10-01T17:58:16Z",
+    "title": "OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning",
+    "summary": "We present OmniSeek, an agentic framework that transforms an Omni Large Language Model (Omni-LLM) into an active, multi-turn reasoning agent with native tool use. Rather than passively processing an entire audio-visual sequence in a single forward pass, OmniSeek makes evidence acquisition part of the reasoning process: it dynamically decides whether to look or listen, and over which temporal window, to retrieve sparse but critical evidence across different modalities within long contexts. Through an iterative multi-turn protocol, the retrieved raw audio or visual segments are appended back into the context to support subsequent reasoning. To cold-start this capability, we build a data engine that synthesizes OmniTraj-170K, a corpus of multi-hop Chain-of-Thought trajectories with interleaved audio and visual evidence. We first supervise the model on these trajectories to instill multi-turn tool-use behavior, and then further optimize the policy via a two-stage reinforcement learning with verifiable rewards. Moreover, we introduce an Audio-Visual Necessity objective that explicitly rewards successful trajectories whose reasoning depends on both modalities, discouraging single-modality shortcuts. Extensive experiments across a wide range of benchmarks demonstrate that OmniSeek learns adaptive cross-modal evidence seeking and consistently improves audio-visual reasoning performance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:58:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.02181v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

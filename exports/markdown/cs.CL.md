@@ -45,6 +45,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.09192v3](http://arxiv.org/abs/2502.09192v3)
 
+## UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models
+- **ID**: arxiv_2502.13141v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.13141v2](http://arxiv.org/abs/2502.13141v2)
+
 ## Explanations of Large Language Models Explain Language Representations in the Brain
 - **ID**: arxiv_2502.14671v4
 - **Source**: ArXiv
@@ -3514,4 +3519,34 @@
 - **ID**: arxiv_2609.40340v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40340v1](http://arxiv.org/abs/2609.40340v1)
+
+## Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows
+- **ID**: arxiv_2610.02122v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02122v1](http://arxiv.org/abs/2610.02122v1)
+
+## Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models
+- **ID**: arxiv_2610.02142v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02142v1](http://arxiv.org/abs/2610.02142v1)
+
+## From Knowledge Access to Source Learning: Developing Source-Specific Competence
+- **ID**: arxiv_2610.02150v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02150v1](http://arxiv.org/abs/2610.02150v1)
+
+## AutoCompact: Learning When to Compact Context in Long-Horizon Coding Agents
+- **ID**: arxiv_2610.02163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02163v1](http://arxiv.org/abs/2610.02163v1)
+
+## Hierarchical Continuous Diffusion Language Models
+- **ID**: arxiv_2610.02193v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02193v1](http://arxiv.org/abs/2610.02193v1)
+
+## KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards
+- **ID**: arxiv_2610.02206v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02206v1](http://arxiv.org/abs/2610.02206v1)
 

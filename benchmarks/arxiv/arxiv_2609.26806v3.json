@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.26806v3",
+  "schema_version": "1.0",
+  "name": "Gödel's and Scott's Variants of the Ontological Argument in Lean 4 and TPTP THF",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.26806v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.26806v3",
+    "updated": "2026-10-01T17:45:20Z",
+    "published": "2026-09-14T17:10:19Z",
+    "title": "Gödel's and Scott's Variants of the Ontological Argument in Lean 4 and TPTP THF",
+    "summary": "The Isabelle/HOL dataset of Benzmüller and Scott's study of Gödel's ontological argument and Scott's variant (Monatshefte für Mathematik, 2025) is carried to Lean 4 and from there back to the automated provers, as a benchmark independent of either proof assistant. The port covers all thirty theories, structure and names preserved: 548 statements compare identical as parsed, every named result is proved again, and five results the original reports without replaying them are proved here. For every theorem, #print axioms gives the postulates its proof consumes: Scott's necessary existence and modal collapse need only a symmetric frame, confirming that KB suffices.\n  The benchmark, in TPTP THF and SMT-LIB, turns the steps of an argument debated in philosophy into 294 theorems, alongside 45 statements the original refutes or leaves open, ten left open there. Five THF provers, and cvc5 on SMT-LIB, prove 227 theorems within ten seconds on one core and 232 within sixty, and none proves any of the 45. E and Leo-II solve the most, although Leo-II's calculus has been unchanged for about a decade and was only repaired and modernised here, as release 2.2. Vampire, whose later version won the higher-order division of CASC-30, solves the most in no configuration. Only E and Leo-II are measured in their own automatic mode: Zipperposition proves 101 in a single mode and 213 with its developers' portfolio, Vampire 174 without options and 209 with a higher-order schedule that its CASC mode does not select, and Leo-III 159 alone and 177 with E as partner.",
+    "primary_category": "cs.LO"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:45:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.26806v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

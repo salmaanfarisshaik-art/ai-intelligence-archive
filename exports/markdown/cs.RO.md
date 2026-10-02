@@ -25,10 +25,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.19696v4](http://arxiv.org/abs/2509.19696v4)
 
+## Constant-Time Planning for Chaining Collision-free Motion to Manipulation Behaviors
+- **ID**: arxiv_2512.00939v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.00939v3](http://arxiv.org/abs/2512.00939v3)
+
 ## OpenNavMap: Multi-Session Appearance-Based Topometric Mapping for Scalable Visual Navigation
 - **ID**: arxiv_2601.12291v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.12291v2](http://arxiv.org/abs/2601.12291v2)
+
+## DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
+- **ID**: arxiv_2601.22153v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.22153v2](http://arxiv.org/abs/2601.22153v2)
 
 ## HERMES: A Holistic End-to-End Risk-Aware Multimodal Embodied System with Vision-Language Models for Long-Tail Autonomous Driving
 - **ID**: arxiv_2602.00993v3
@@ -724,4 +734,24 @@
 - **ID**: arxiv_2609.40341v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40341v1](http://arxiv.org/abs/2609.40341v1)
+
+## DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication
+- **ID**: arxiv_2610.02161v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02161v1](http://arxiv.org/abs/2610.02161v1)
+
+## Watch, Infer, Coordinate: Inferring Robot Partner Constraints for Zero-Shot Coordination
+- **ID**: arxiv_2610.02170v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02170v1](http://arxiv.org/abs/2610.02170v1)
+
+## InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation
+- **ID**: arxiv_2610.02196v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02196v1](http://arxiv.org/abs/2610.02196v1)
+
+## Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
+- **ID**: arxiv_2610.02204v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02204v1](http://arxiv.org/abs/2610.02204v1)
 

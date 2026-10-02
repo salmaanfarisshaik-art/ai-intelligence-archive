@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.02114v1",
+  "schema_version": "1.0",
+  "name": "Surface-volume self-supervised representation learning of brain MRI for genetic discovery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.02114v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.02114v1",
+    "updated": "2026-10-01T17:32:52Z",
+    "published": "2026-10-01T17:32:52Z",
+    "title": "Surface-volume self-supervised representation learning of brain MRI for genetic discovery",
+    "summary": "Existing genome-wide association studies (GWAS) of brain imaging provide predefined or deep-learning-derived imaging phenotypes, yet these phenotypes come from either volumetric scans or cortical surface meshes, so each captures only part of the heritable variation in brain anatomy. Here we introduce MEVA (Mesh-Enhanced Volumetric Autoencoder), a self-supervised framework that encodes voxel-level image intensity together with cortical mesh geometry, including curvature and cortical thickness at each surface vertex, into one shared set of imaging features. Combining the mesh and volumetric inputs in MEVA yields modest performance gains in age and sex prediction over models that use either input alone. When these features serve as phenotypes for GWAS in the UK Biobank, they reveal more genome-wide significant loci than features learned from volumes alone or from meshes alone. These results suggest that adding cortical surface geometry to volumetric self-supervised learning captures additional heritable variation and so increases the number of loci detected.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:32:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.02114v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

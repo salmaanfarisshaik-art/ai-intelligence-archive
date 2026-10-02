@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11326v2](http://arxiv.org/abs/2609.11326v2)
 
+## Gödel's and Scott's Variants of the Ontological Argument in Lean 4 and TPTP THF
+- **ID**: arxiv_2609.26806v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26806v3](http://arxiv.org/abs/2609.26806v3)
+

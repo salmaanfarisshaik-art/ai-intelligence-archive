@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.02162v1",
+  "schema_version": "1.0",
+  "name": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.02162v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.02162v1",
+    "updated": "2026-10-01T17:53:20Z",
+    "published": "2026-10-01T17:53:20Z",
+    "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+    "summary": "How can a world model continuously observe regions beyond the actor's current view? Video world models simulate how an environment evolves from an agent's actions, yet remain actor-centric. Once an object leaves the actor's view, they lose direct evidence of its evolution, often failing to preserve its state and dynamics upon re-entry. To address this, we introduce World Observer, which decouples observing from acting by jointly generating a perspective actor for the agent-centric view with one or more panoramic observers that watch selected world regions. This allows objects that leave the actor's view to remain visually evolving in an observer, so their updated states are reflected when they re-enter. We ground the actor and observers by warping from a shared panoramic source for explicit geometric correspondence, and introduce an Observer Sink of high-resolution perspective references to restore fine appearance upon re-entry. Since the observers are decoupled from the actor, they can be placed freely across the scene, extended to multiple locations for broader coverage, and driven by control signals to steer out-of-view evolution. To evaluate out-of-view evolution, we further introduce world-space metrics and a benchmark spanning real and synthetic scenes. World Observer substantially improves out-of-view dynamics while remaining competitive in visual fidelity, camera control, and 3D adherence.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:53:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.02162v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

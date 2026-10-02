@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.02208v1",
+  "schema_version": "1.0",
+  "name": "Sphere Encoder 2",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.02208v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.02208v1",
+    "updated": "2026-10-01T17:59:58Z",
+    "published": "2026-10-01T17:59:58Z",
+    "title": "Sphere Encoder 2",
+    "summary": "Sphere Encoder is an autoencoder that generates images by decoding random points from a high-dimensional latent sphere. We identify two limitations of the original formulation that reduce its generation quality. First, random points concentrate near the equator relative to the pole on an encoded latent, but the training rotation never reaches this region, leaving a gap that limits one-step generation. Second, training for generation with pixel-wise reconstruction loss encourages the decoder to average over plausible images, producing blurry images that lack high-frequency details. We present Sphere Encoder 2 to address both limitations, substantially improving image generation quality while maintaining the speed and simplicity of a autoencoder. Models are released at \\href{https://github.com/kaiyuyue/sphere2}{github.com/kaiyuyue/sphere2}.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-02T02:07:51Z",
+  "last_updated": "2026-10-01T17:59:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.02208v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
