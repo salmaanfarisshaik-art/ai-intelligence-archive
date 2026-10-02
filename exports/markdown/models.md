@@ -428,6 +428,10 @@
 - **ID**: model_bartowski_allenai_olmo_3_1_32b_think_gguf
 - **Source**: 
 
+## bartowski/Altworld_Hemmingway-1-GGUF
+- **ID**: model_bartowski_altworld_hemmingway_1_gguf
+- **Source**: 
+
 ## bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF
 - **ID**: model_bartowski_deepseek_coder_v2_lite_instruct_gguf
 - **Source**: 
@@ -1868,6 +1872,10 @@
 - **ID**: model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf
 - **Source**: 
 
+## Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUF
+- **ID**: model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf
+- **Source**: 
+
 ## hmellor/Ilama-3.2-1B
 - **ID**: model_hmellor_ilama_3_2_1b
 - **Source**: 
@@ -2118,6 +2126,10 @@
 
 ## ibnzterrell/Meta-Llama-3.3-70B-Instruct-AWQ-INT4
 - **ID**: model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4
+- **Source**: 
+
+## IFM/K2-Horizon-0.9B
+- **ID**: model_ifm_k2_horizon_0_9b
 - **Source**: 
 
 ## IFM/K2-Horizon-7B-Uno
@@ -3462,6 +3474,10 @@
 
 ## mlx-community/Devstral-Small-2505-4bit
 - **ID**: model_mlx_community_devstral_small_2505_4bit
+- **Source**: 
+
+## mlx-community/gemma-2-9b-it-4bit
+- **ID**: model_mlx_community_gemma_2_9b_it_4bit
 - **Source**: 
 
 ## mlx-community/gemma-3-1b-it-qat-4bit
@@ -7054,5 +7070,9 @@
 
 ## Zyphra/Zamba2-7B-Instruct
 - **ID**: model_zyphra_zamba2_7b_instruct
+- **Source**: 
+
+## Zyphra/ZAYA1-VL-8B
+- **ID**: model_zyphra_zaya1_vl_8b
 - **Source**: 
 

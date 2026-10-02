@@ -1,0 +1,29 @@
+{
+  "_id": "6a80b0577ce7785d1c42af57",
+  "id": "ahnaftaz/locus-commit-pool-v1",
+  "author": "ahnaftaz",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-08-17T03:13:11.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "6883f90b50d88cda272b63ef49d0493ad6a9b476",
+  "description": "\n\n\n\t\n\t\t\n\t\n\t\n\t\tLocus Commit Pool v1\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tNative Git history, preserved as replayable software changes\n\t\n\n\n\n\n\nCommit message · complete selected before-state · unified patches · native object IDs · provenance · experimental labels\n\n\nLocus Commit Pool v1 is a large evidence pool for studying and training on how real software changes. Each document represents one surviving single-parent, multi-file Git commit. It keeps the commit message, the selected files as they existed before the… See the full description on the dataset page: https://huggingface.co/datasets/ahnaftaz/locus-commit-pool-v1.",
+  "downloads": 31277,
+  "tags": [
+    "task_categories:text-generation",
+    "license:other",
+    "region:us",
+    "code",
+    "git",
+    "commits",
+    "software-engineering",
+    "pretraining",
+    "multi-file",
+    "jsonl"
+  ],
+  "createdAt": "2026-08-15T18:30:47.000Z",
+  "key": "",
+  "unique_id": "dataset_ahnaftaz_locus_commit_pool_v1",
+  "schema_version": "1.0"
+}

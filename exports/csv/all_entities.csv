@@ -27458,7 +27458,7 @@ hf_ds_6a2afbce4ee2fe1cd5f3a6bd,gutoportelaa/dom-pi-pdfs-2025,dataset,HuggingFace
 hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:2606.27375|bimanual|imitation-learning|language:en|license:apache-2.0|manipulation|mcap|region:us|robotics|size_categories:n>1T|task_categories:robotics|teleoperation,https://huggingface.co/datasets/XDOF/ABC-130k
 hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer
 hf_ds_6a382f6fa519cd301493b37b,Syn4D/Syn4D,dataset,HuggingFace Datasets,arxiv:2605.05207|license:cc-by-4.0|region:us,https://huggingface.co/datasets/Syn4D/Syn4D
-hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/StringFellow/fusion-dw
+hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:apache-2.0|modality:text|region:us|size_categories:1M<n<10M,https://huggingface.co/datasets/StringFellow/fusion-dw
 hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
 hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:audio|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/fujinchu/imgbed
@@ -27471,9 +27471,11 @@ hf_ds_6a68e4ea0c35d2a3ed8c033e,ACERobotics/ACE-Data-0,dataset,HuggingFace Datase
 hf_ds_6a702b9b89beb4ee925c3e28,anilili/anilili-apk,dataset,HuggingFace Datasets,modality:tabular|modality:text|region:us|size_categories:n<1K,https://huggingface.co/datasets/anilili/anilili-apk
 hf_ds_6a7460ebf3031d8573c2fe30,challenge-2026/challenge_data,dataset,HuggingFace Datasets,arxiv:2609.03591|bimanual-robot|household|language:en|language:zh|lerobot|license:cc-by-sa-4.0|manipulation|region:us|robotics,https://huggingface.co/datasets/challenge-2026/challenge_data
 hf_ds_6a7609d6663f80dd30d388fc,RekaAI/RekaDaily-10k-raw,dataset,HuggingFace Datasets,egocentric|first-person|format:optimized-parquet|format:parquet|household|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|library:webdataset|license:apache-2.0|modality:image|modality:tabular|modality:text|modality:video|region:us|size_categories:100K<n<1M|task_categories:image-to-video|task_categories:video-classification|video|webdataset,https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw
+hf_ds_6a7847c7bbedf556ad5b21ee,nightgoodl/lasa1m-annotate-part-12,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12
 hf_ds_6a8779d11c6e0f8d87cc3080,gfdg34fsd/newe,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/gfdg34fsd/newe
 hf_ds_6a96f1b1177b511ec1b92935,BuLei/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/BuLei/imgbed
 hf_ds_6a9b618da26f068ce99f0512,SKPark1/ngii-map-full-light,dataset,HuggingFace Datasets,geospatial|korea|license:other|map|modality:geospatial|ngii|region:us|shp|size_categories:1M<n<10M|task_categories:other,https://huggingface.co/datasets/SKPark1/ngii-map-full-light
+hf_ds_6aa585f5e13985455758f8eb,sjkhfuk/fofo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk/fofo
 hf_ds_ACCC1380_private-model,ACCC1380/private-model,dataset,Hugging Face,,https://huggingface.co/datasets/ACCC1380/private-model
 hf_ds_ADSKAILab_Zero-To-CAD-1m,ADSKAILab/Zero-To-CAD-1m,dataset,Hugging Face,,https://huggingface.co/datasets/ADSKAILab/Zero-To-CAD-1m
 hf_ds_AI-Growth-Lab_patents_claims_1.5m_traim_test,AI-Growth-Lab/patents_claims_1.5m_traim_test,dataset,Hugging Face,,https://huggingface.co/datasets/AI-Growth-Lab/patents_claims_1.5m_traim_test
@@ -29093,6 +29095,7 @@ model_baichuan_inc_baichuan_7b,baichuan-inc/Baichuan-7B,models,,,
 model_baidu_ernie_4_5_21b_a3b_pt,baidu/ERNIE-4.5-21B-A3B-PT,models,,,
 model_baidu_ernie_4_5_21b_a3b_thinking,baidu/ERNIE-4.5-21B-A3B-Thinking,models,,,
 model_bartowski_allenai_olmo_3_1_32b_think_gguf,bartowski/allenai_Olmo-3.1-32B-Think-GGUF,models,,,
+model_bartowski_altworld_hemmingway_1_gguf,bartowski/Altworld_Hemmingway-1-GGUF,models,,,
 model_bartowski_deepseek_coder_v2_lite_instruct_gguf,bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF,models,,,
 model_bartowski_deepseek_r1_distill_llama_70b_gguf,bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF,models,,,
 model_bartowski_deepseek_r1_distill_qwen_14b_gguf,bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF,models,,,
@@ -29453,6 +29456,7 @@ model_h2oai_h2ovl_mississippi_800m,h2oai/h2ovl-mississippi-800m,models,,,
 model_hai929_the_guagellm_23m,Hai929/The_GuageLLM_23M,models,,,
 model_herrhruby_mr_midtrain_9b_v3,HerrHruby/MR_midtrain_9B_v3,models,,,
 model_hesamation_qwen3_6_35b_a3b_claude_4_6_opus_reasoning_distilled_gguf,hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF,models,,,
+model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf,Hikari07jp/Ternary-Bonsai-2-27B-Abliterated-GGUF,models,,,
 model_hmellor_ilama_3_2_1b,hmellor/Ilama-3.2-1B,models,,,
 model_hmellor_tiny_random_bambaforcausallm,hmellor/tiny-random-BambaForCausalLM,models,,,
 model_hmellor_tiny_random_gemma2forcausallm,hmellor/tiny-random-Gemma2ForCausalLM,models,,,
@@ -29516,6 +29520,7 @@ model_ibm_granite_granite_guardian_4_1_8b,ibm-granite/granite-guardian-4.1-8b,mo
 model_ibm_research_powerlm_3b,ibm-research/PowerLM-3b,models,,,
 model_ibm_research_powermoe_3b,ibm-research/PowerMoE-3b,models,,,
 model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4,ibnzterrell/Meta-Llama-3.3-70B-Instruct-AWQ-INT4,models,,,
+model_ifm_k2_horizon_0_9b,IFM/K2-Horizon-0.9B,models,,,
 model_ifm_k2_horizon_7b_uno,IFM/K2-Horizon-7B-Uno,models,,,
 model_igorls_gemma_4_12b_it_heretic_gguf,igorls/gemma-4-12B-it-heretic-GGUF,models,,,
 model_ilyagusev_gemma_2_2b_it_abliterated,IlyaGusev/gemma-2-2b-it-abliterated,models,,,
@@ -29852,6 +29857,7 @@ model_mixedbread_ai_mxbai_rerank_large_v2,mixedbread-ai/mxbai-rerank-large-v2,mo
 model_mjpansa_deepseek_v4_flash_0731_nvfp4,MJPansa/DeepSeek-V4-Flash-0731-NVFP4,models,,,
 model_mlabonne_qwen3_30b_a3b_abliterated,mlabonne/Qwen3-30B-A3B-abliterated,models,,,
 model_mlx_community_devstral_small_2505_4bit,mlx-community/Devstral-Small-2505-4bit,models,,,
+model_mlx_community_gemma_2_9b_it_4bit,mlx-community/gemma-2-9b-it-4bit,models,,,
 model_mlx_community_gemma_3_1b_it_qat_4bit,mlx-community/gemma-3-1b-it-qat-4bit,models,,,
 model_mlx_community_glm_5_2_mxfp4,mlx-community/GLM-5.2-mxfp4,models,,,
 model_mlx_community_gpt_oss_20b_mxfp4_q8,mlx-community/gpt-oss-20b-MXFP4-Q8,models,,,
@@ -30750,6 +30756,7 @@ model_zhiqiulin_clip_flant5_xl,zhiqiulin/clip-flant5-xl,models,,,
 model_zhiqiulin_clip_flant5_xxl,zhiqiulin/clip-flant5-xxl,models,,,
 model_zyphra_zamba2_1_2b_instruct,Zyphra/Zamba2-1.2B-instruct,models,,,
 model_zyphra_zamba2_7b_instruct,Zyphra/Zamba2-7B-Instruct,models,,,
+model_zyphra_zaya1_vl_8b,Zyphra/ZAYA1-VL-8B,models,,,
 mongodb-aggregation-pipeline-builder,MongoDB Aggregation Pipeline Builder,Database,Database,mongodb|nosql,https://skills.ai/database/mongodb-aggregation-pipeline-builder
 nasa-open-apis,NASA Open APIs,API,NASA,api|nasa,https://api.nasa.gov/
 nextjs,Next.js,Tool,Vercel,framework|react|ssr,https://github.com/vercel/nextjs

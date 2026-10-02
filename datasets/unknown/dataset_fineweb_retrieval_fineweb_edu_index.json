@@ -9,7 +9,7 @@
   "private": false,
   "sha": "544c2532773fb73166117cbcc7eac447bd8446ec",
   "description": "This dataset contains the embeddings for the full fineweb-edu, embedded with the Cohere Embed V3 model.\nYou can search on this dataset with just 500MB of memory using DiskVectorIndex.\n\n\t\n\t\t\n\t\tInstallation & Usage\n\t\n\nGet your free Cohere API key from cohere.com. You must set this API key as an environment variable: \nexport COHERE_API_KEY=your_api_key\n\nInstall the package:\npip install DiskVectorIndex\n\nYou can then search via:\nfrom DiskVectorIndex import DiskVectorIndex\n\nindex =… See the full description on the dataset page: https://huggingface.co/datasets/fineweb-retrieval/fineweb-edu-index.",
-  "downloads": 30186,
+  "downloads": 29768,
   "tags": [
     "license:cc-by-nc-sa-4.0",
     "region:us"

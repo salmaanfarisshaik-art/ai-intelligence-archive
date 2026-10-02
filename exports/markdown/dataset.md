@@ -1064,7 +1064,7 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
@@ -1138,6 +1138,12 @@
 - **URL**: [https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw](https://huggingface.co/datasets/RekaAI/RekaDaily-10k-raw)
 - **Tags**: egocentric, first-person, format:optimized-parquet, format:parquet, household, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, library:webdataset, license:apache-2.0, modality:image, modality:tabular, modality:text, modality:video, region:us, size_categories:100K<n<1M, task_categories:image-to-video, task_categories:video-classification, video, webdataset
 
+## nightgoodl/lasa1m-annotate-part-12
+- **ID**: hf_ds_6a7847c7bbedf556ad5b21ee
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12](https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12)
+- **Tags**: region:us
+
 ## gfdg34fsd/newe
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080
 - **Source**: HuggingFace Datasets
@@ -1155,6 +1161,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/SKPark1/ngii-map-full-light](https://huggingface.co/datasets/SKPark1/ngii-map-full-light)
 - **Tags**: geospatial, korea, license:other, map, modality:geospatial, ngii, region:us, shp, size_categories:1M<n<10M, task_categories:other
+
+## sjkhfuk/fofo
+- **ID**: hf_ds_6aa585f5e13985455758f8eb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/sjkhfuk/fofo](https://huggingface.co/datasets/sjkhfuk/fofo)
+- **Tags**: region:us
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

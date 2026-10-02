@@ -1,0 +1,31 @@
+{
+  "_id": "663b74c7674539eb5e130d43",
+  "id": "m-a-p/Matrix",
+  "author": "m-a-p",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-02-25T14:39:17.000Z",
+  "likes": 176,
+  "private": false,
+  "sha": "c13c43bc3232816543751a61a46e9a23503361bd",
+  "description": "\n\t\n\t\t\n\t\tMatrix\n\t\n\nAn open-source pretraining dataset containing 4690 billion tokens, this bilingual dataset with both English and Chinese texts is used for training neo models.\n\n\t\n\t\t\n\t\tDataset Composition\n\t\n\nThe dataset consists of several components, each originating from different sources and serving various purposes in language modeling and processing. Below is a brief overview of each component:\n\n  \n  Common Crawl\n  Extracts from the Common Crawl project, featuring a rich diversity of… See the full description on the dataset page: https://huggingface.co/datasets/m-a-p/Matrix.",
+  "downloads": 30018,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "language:zh",
+    "license:apache-2.0",
+    "size_categories:1B<n<10B",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "region:us",
+    "language model"
+  ],
+  "createdAt": "2024-05-08T12:49:11.000Z",
+  "key": "",
+  "unique_id": "dataset_m_a_p_matrix",
+  "schema_version": "1.0"
+}

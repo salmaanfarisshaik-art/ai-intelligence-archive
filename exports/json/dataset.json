@@ -5473,8 +5473,15 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],
@@ -5823,6 +5830,23 @@
     "local_path": "datasets/rekaai/hf_ds_6a7609d6663f80dd30d388fc.json"
   },
   {
+    "id": "hf_ds_6a7847c7bbedf556ad5b21ee",
+    "title": "nightgoodl/lasa1m-annotate-part-12",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12",
+    "local_path": "datasets/nightgoodl/hf_ds_6a7847c7bbedf556ad5b21ee.json"
+  },
+  {
     "id": "hf_ds_6a8779d11c6e0f8d87cc3080",
     "title": "gfdg34fsd/newe",
     "category": "dataset",
@@ -5888,6 +5912,23 @@
     },
     "source_url": "https://huggingface.co/datasets/SKPark1/ngii-map-full-light",
     "local_path": "datasets/skpark1/hf_ds_6a9b618da26f068ce99f0512.json"
+  },
+  {
+    "id": "hf_ds_6aa585f5e13985455758f8eb",
+    "title": "sjkhfuk/fofo",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/sjkhfuk/fofo",
+    "local_path": "datasets/sjkhfuk/hf_ds_6aa585f5e13985455758f8eb.json"
   },
   {
     "id": "hf_ds_ACCC1380_private-model",
