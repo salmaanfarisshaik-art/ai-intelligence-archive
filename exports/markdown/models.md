@@ -2328,6 +2328,10 @@
 - **ID**: model_jimbothigpen_qwen3_6_35b_a3b_gguf
 - **Source**: 
 
+## jimmy31chen/RVN-Qwen3.8-Flash-Next-Abliterated-Uncensored-IQ3_S-Strata
+- **ID**: model_jimmy31chen_rvn_qwen3_8_flash_next_abliterated_uncensored_iq3_s_strata
+- **Source**: 
+
 ## jinaai/jina-code-embeddings-0.5b
 - **ID**: model_jinaai_jina_code_embeddings_0_5b
 - **Source**: 

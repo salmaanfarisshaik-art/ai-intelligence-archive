@@ -1201,6 +1201,11 @@
 - **URL**: [https://openai.com/index/chatgpt-whatsapp-transition](https://openai.com/index/chatgpt-whatsapp-transition)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatham-financial
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatham-financial](https://openai.com/index/chatham-financial)
+
+## 
 - **ID**: rss_https://openai.com/index/child-safety-adopting-sbd-principles
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/child-safety-adopting-sbd-principles](https://openai.com/index/child-safety-adopting-sbd-principles)
@@ -5004,6 +5009,11 @@
 - **ID**: rss_https://openai.com/index/powering-product-discovery-in-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/powering-product-discovery-in-chatgpt](https://openai.com/index/powering-product-discovery-in-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/index/practical-guide-building-gpt-6
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/practical-guide-building-gpt-6](https://openai.com/index/practical-guide-building-gpt-6)
 
 ## 
 - **ID**: rss_https://openai.com/index/practices-for-governing-agentic-ai-systems
