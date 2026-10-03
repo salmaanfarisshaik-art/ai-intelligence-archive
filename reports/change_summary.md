@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 77
+**Total Changes:** 76
 
 ## Added
 None
@@ -9,23 +9,24 @@ None
 - data/metadata/api_manifest.json
 - data/metadata/connector_manifest.json
 - data/metadata/feature_manifest.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
-- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
+- datasets/banned-historical-archives/hf_ds_657f09ec3e3b5bea663e53c3.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
+- datasets/nvidia/hf_ds_67d97c4be2b27852325fd8e2.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-14B-AWQ.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -34,7 +35,6 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -54,7 +54,6 @@ None
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1201656210.json
 - tools/github-trending/gh_130688011.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -66,10 +65,10 @@ None
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_710601088.json
