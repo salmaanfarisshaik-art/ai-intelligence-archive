@@ -193,6 +193,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_aisbergpublicorganization_telegram_news_ua_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_aise_tudelft_mosaic_refactoring
 - **Source**: 
 
@@ -961,6 +965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bk939448_system_arc_data
+- **Source**: 
+
+## 
 - **ID**: dataset_blanchon_cs2_dataset_render
 - **Source**: 
 
@@ -1446,6 +1454,10 @@
 
 ## 
 - **ID**: dataset_datasets_maintainers_dataset_with_standalone_yaml
+- **Source**: 
+
+## 
+- **ID**: dataset_datbui32979_datbui32979
 - **Source**: 
 
 ## 
@@ -2245,6 +2257,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_google_xtreme
+- **Source**: 
+
+## 
 - **ID**: dataset_gorilla_llm_berkeley_function_calling_leaderboard
 - **Source**: 
 
@@ -2461,6 +2477,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hf_internal_testing_fixtures_image_utils
+- **Source**: 
+
+## 
 - **ID**: dataset_hf_internal_testing_imagefolder_with_metadata
 - **Source**: 
 
@@ -2566,6 +2586,10 @@
 
 ## 
 - **ID**: dataset_hollow12334_fsc_180k
+- **Source**: 
+
+## 
+- **ID**: dataset_honeydatav2_honey_data_v2
 - **Source**: 
 
 ## 
@@ -4609,6 +4633,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kieungoctruongthi001_tutaclaw_bus
+- **Source**: 
+
+## 
 - **ID**: dataset_kimtuyen1999_kimtuyen1999
 - **Source**: 
 
@@ -5594,6 +5622,10 @@
 
 ## 
 - **ID**: dataset_mueller91_replaydf
+- **Source**: 
+
+## 
+- **ID**: dataset_multilingual_nlp_m_absa
 - **Source**: 
 
 ## 
@@ -7165,6 +7197,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_seerray_lab_realmobile
+- **Source**: 
+
+## 
 - **ID**: dataset_sehoonha_ha_lab_dataset
 - **Source**: 
 
@@ -7178,6 +7214,10 @@
 
 ## 
 - **ID**: dataset_serialexperimentsleon_fish_datasets_real_electrodyn_expertsys_twodim_fourier
+- **Source**: 
+
+## 
+- **ID**: dataset_servicenow_groundcua
 - **Source**: 
 
 ## 
@@ -8638,6 +8678,10 @@
 
 ## 
 - **ID**: dataset_zjs555888_dogspeak_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zmodelerlover_amd_nr
 - **Source**: 
 
 ## 

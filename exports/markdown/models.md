@@ -1092,6 +1092,10 @@
 - **ID**: model_deadbydawn101_gemma_4_e4b_agentic_opus_reasoning_geminicli_mlx_4bit
 - **Source**: 
 
+## dealignai/Bonsai-2-27B-1bit-CRACK-GGUF
+- **ID**: model_dealignai_bonsai_2_27b_1bit_crack_gguf
+- **Source**: 
+
 ## dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF
 - **ID**: model_dealignai_bonsai_2_27b_ternary_crack_gguf
 - **Source**: 
@@ -2096,6 +2100,10 @@
 - **ID**: model_ibm_granite_granite_4_1_8b
 - **Source**: 
 
+## ibm-granite/granite-4.1-8b-fp8
+- **ID**: model_ibm_granite_granite_4_1_8b_fp8
+- **Source**: 
+
 ## ibm-granite/granite-4.2-3b
 - **ID**: model_ibm_granite_granite_4_2_3b
 - **Source**: 
@@ -2258,6 +2266,10 @@
 
 ## ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF
 - **ID**: model_ista_daslab_qwen3_8_27b_gsq_rco_gguf
+- **Source**: 
+
+## IsValorum/Qwen3.8-35B-A3B-Distill-MTP-APEX-I-MiniPlus-V2.1-Abliterated-GGUF
+- **ID**: model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf
 - **Source**: 
 
 ## JackFram/llama-160m
@@ -4600,6 +4612,10 @@
 - **ID**: model_puwaer_deepseek_v4_flash_0731_reap_150b_gguf
 - **Source**: 
 
+## pyrodog/DeepSeek-V4.1-Flash-UNCENSORED-DwarfStar-Q2
+- **ID**: model_pyrodog_deepseek_v4_1_flash_uncensored_dwarfstar_q2
+- **Source**: 
+
 ## QCRI/Fanar-1-9B-Instruct
 - **ID**: model_qcri_fanar_1_9b_instruct
 - **Source**: 
@@ -5808,6 +5824,10 @@
 - **ID**: model_swiss_ai_apertus_70b_instruct_2509
 - **Source**: 
 
+## swiss-ai/Apertus-8B-2509
+- **ID**: model_swiss_ai_apertus_8b_2509
+- **Source**: 
+
 ## swiss-ai/Apertus-8B-Instruct-2509
 - **ID**: model_swiss_ai_apertus_8b_instruct_2509
 - **Source**: 
@@ -6798,6 +6818,10 @@
 
 ## voyageai/voyage-4-nano
 - **ID**: model_voyageai_voyage_4_nano
+- **Source**: 
+
+## Vxtzq/Crowd-v1
+- **ID**: model_vxtzq_crowd_v1
 - **Source**: 
 
 ## w-ahmad/LFM2.5-8B-A1B-GGUF-MoQ
