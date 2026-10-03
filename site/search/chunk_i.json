@@ -118,6 +118,11 @@
       "entity_id": "dataset_wikimedia_wikipedia",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "model_vxtzq_crowd_v1",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "iaas": [
@@ -382,6 +387,11 @@
     },
     {
       "entity_id": "model_ibm_granite_granite_4_1_3b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_1_8b_fp8",
       "match_type": "exact",
       "score": 5.0
     },
@@ -2096,6 +2106,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_helsinki_nlp_opus_100",
       "match_type": "exact",
       "score": 1.5
@@ -2127,6 +2142,11 @@
     },
     {
       "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_multilingual_nlp_m_absa",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5864,6 +5884,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_mlcommons_unsupervised_peoples_speech",
       "match_type": "exact",
       "score": 1.5
@@ -6152,6 +6177,11 @@
     },
     {
       "entity_id": "alpaca_8399144176465387128",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -13014,6 +13044,16 @@
       "entity_id": "dataset_tensorshield_reddit_dataset_157",
       "match_type": "exact",
       "score": 13.5
+    },
+    {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
+      "match_type": "exact",
+      "score": 9.0
+    },
+    {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 9.0
     },
     {
       "entity_id": "dataset_derek_thomas_scienceqa",
@@ -22017,6 +22057,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_honeydatav2_honey_data_v2",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_insta360_research_omnirooms",
       "match_type": "exact",
       "score": 4.0
@@ -22453,6 +22498,11 @@
     },
     {
       "entity_id": "dataset_riotu_lab_sard",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_servicenow_groundcua",
       "match_type": "exact",
       "score": 3.0
     },
@@ -26147,6 +26197,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_seerray_lab_realmobile",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_sensenova_sensenova_vision_corpus_50m",
       "match_type": "exact",
       "score": 1.5
@@ -26293,6 +26348,11 @@
     },
     {
       "entity_id": "dataset_v_bible_catholic_resources",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_vincewin_crest_data",
       "match_type": "exact",
       "score": 1.5
     },
@@ -26933,11 +26993,6 @@
     },
     {
       "entity_id": "model_yuxinlu1_gemma_4_12b_coder_fable5_composer2_5_v1",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "model_z_lab_llama3_1_8b_instruct_dflash_ultrachat",
       "match_type": "exact",
       "score": 1.5
     },
@@ -33252,6 +33307,11 @@
     },
     {
       "entity_id": "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -106181,6 +106241,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_aise_tudelft_mosaic_refactoring",
       "match_type": "exact",
       "score": 1.0
@@ -106657,6 +106722,11 @@
     },
     {
       "entity_id": "dataset_google_waxalnlp",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_google_xtreme",
       "match_type": "exact",
       "score": 1.0
     },
@@ -107192,6 +107262,11 @@
     },
     {
       "entity_id": "dataset_mueller91_replaydf",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_multilingual_nlp_m_absa",
       "match_type": "exact",
       "score": 1.0
     },
@@ -130369,6 +130444,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_honeydatav2_honey_data_v2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/50-million-fund-to-build-with-communities",
       "match_type": "exact",
       "score": 1.0
@@ -139087,6 +139167,11 @@
     },
     {
       "entity_id": "dataset_google_boolq",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
+      "entity_id": "dataset_google_xtreme",
       "match_type": "exact",
       "score": 2.5
     },
@@ -170096,6 +170181,11 @@
       "entity_id": "rss_https://openai.com/index/instruction-hierarchy-challenge",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_honeydatav2_honey_data_v2",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "dataset_inclusionai_conceptedit_12m",
@@ -304436,6 +304526,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_ai2_arc",
       "match_type": "exact",
       "score": 1.0
@@ -304582,6 +304677,11 @@
     },
     {
       "entity_id": "dataset_google_fleurs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_google_xtreme",
       "match_type": "exact",
       "score": 1.0
     },
@@ -342335,6 +342435,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_algorithmicresearchgroup_arxiv_s2orc_parsed",
       "match_type": "exact",
       "score": 2.0
@@ -343211,6 +343316,11 @@
     },
     {
       "entity_id": "dataset_sensenova_sensenova_vision_corpus_50m",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_servicenow_groundcua",
       "match_type": "exact",
       "score": 2.0
     },
@@ -364345,6 +364455,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_gorilla_llm_berkeley_function_calling_leaderboard",
       "match_type": "exact",
       "score": 1.0
@@ -364875,6 +364990,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_multilingual_nlp_m_absa",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mvp_lab_llava_onevision_1_5_mid_training_85m",
       "match_type": "exact",
       "score": 1.0
@@ -365331,6 +365451,11 @@
     },
     {
       "entity_id": "dataset_secemp9_arxiv_complete",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_seerray_lab_realmobile",
       "match_type": "exact",
       "score": 1.0
     },
@@ -370345,6 +370470,13 @@
       "entity_id": "alpaca_6467034931486768835",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "isvalorum": [
+    {
+      "entity_id": "model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "it": [
@@ -382134,6 +382266,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_allenai_openbookqa",
       "match_type": "exact",
       "score": 2.0
@@ -382774,6 +382911,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_helsinki_nlp_opus_100",
       "match_type": "exact",
       "score": 1.5
@@ -383035,6 +383177,11 @@
     },
     {
       "entity_id": "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -398374,6 +398521,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_servicenow_groundcua",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_shapesplats_aria_synthetic_envs_mcmc_3dgs_new",
       "match_type": "exact",
       "score": 1.0
@@ -405777,6 +405929,11 @@
     },
     {
       "entity_id": "arxiv_2609.23264v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
       "match_type": "exact",
       "score": 2.0
     },

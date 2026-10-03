@@ -816,11 +816,21 @@
       "entity_id": "dataset_raphaelliu_pusav0_5_training",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_seerray_lab_realmobile",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xiaomi": [
     {
       "entity_id": "alpaca_-7181036004496193",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_seerray_lab_realmobile",
       "match_type": "exact",
       "score": 1.0
     }
@@ -1293,6 +1303,11 @@
       "entity_id": "dataset_hanchong_real_infrared_maritime_vessel_dataset",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_seerray_lab_realmobile",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xmm": [
@@ -1341,6 +1356,11 @@
       "entity_id": "dataset_facebook_xnli",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "dataset_papluca_language_identification",
@@ -1515,6 +1535,13 @@
   "xpu": [
     {
       "entity_id": "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "xquad": [
+    {
+      "entity_id": "dataset_google_xtreme",
       "match_type": "exact",
       "score": 1.5
     }
@@ -1721,6 +1748,13 @@
       "entity_id": "dataset_xtr43r_dogspeak_dataset",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "xtreme": [
+    {
+      "entity_id": "dataset_google_xtreme",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "xu": [

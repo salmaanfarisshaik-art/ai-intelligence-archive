@@ -1,0 +1,30 @@
+{
+  "_id": "6a48aa2fef03a51c924f60fe",
+  "id": "SeerRay-Lab/RealMobile",
+  "author": "SeerRay-Lab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-07T03:11:50.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "5673cb6c4bdf1a865f5a47f3cae09050b24bd867",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tRealMobile — Model Trajectories\n\t\n\nAgent execution trajectories on the RealMobile benchmark — a real-device benchmark for mobile GUI agents. Each trajectory is one model attempting one task on a physical Android phone driving live Chinese applications (Bilibili, Douyin, Xiaohongshu, Weibo, Taobao, QQ Music, Ctrip, AMap, Hema, …), recorded step by step: screenshot, UI-hierarchy XML, the action taken, and the model's reasoning.\nThis dataset accompanies the Xiaomi-GUI-0 technical… See the full description on the dataset page: https://huggingface.co/datasets/SeerRay-Lab/RealMobile.",
+  "downloads": 29344,
+  "tags": [
+    "task_categories:image-text-to-text",
+    "language:zh",
+    "license:cc-by-4.0",
+    "size_categories:10K<n<100K",
+    "arxiv:2606.31410",
+    "region:us",
+    "gui-agent",
+    "mobile",
+    "agent-trajectories",
+    "android",
+    "benchmark"
+  ],
+  "createdAt": "2026-07-04T06:37:35.000Z",
+  "key": "",
+  "unique_id": "dataset_seerray_lab_realmobile",
+  "schema_version": "1.0"
+}

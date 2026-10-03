@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5f5c6524084c42a35c28c0184bea37ec2530fd7c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\ttokenizers-test-data\n\t\n\nTest and benchmark fixtures for huggingface/tokenizers,\npulled on demand by the repo Makefiles (make test / make bench / make fixtures\nvia hf download).\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\nfixtures/ — multilingual + modality corpora for cross-language encode\nbenchmarks. Organized, documented, and reproducible: see\nfixtures/FIXTURES.md for provenance and\nfixtures/fixtures_manifest.json for\nexact sources, pinned revisions, and sizes. Rebuild any file with… See the full description on the dataset page: https://huggingface.co/datasets/hf-internal-testing/tokenizers-test-data.",
-  "downloads": 38998,
+  "downloads": 39433,
   "tags": [
     "size_categories:n<1K",
     "format:text",

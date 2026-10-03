@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T06:04:30Z",
+  "generated_at": "2026-10-03T12:16:19Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -29,6 +29,11 @@
     {
       "source_id": "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
       "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_Qwen_Qwen2.5-0.5B-Instruct",
+      "target_id": "hf_Qwen_Qwen2.5-0.5B",
       "type": "derived_from"
     },
     {
@@ -1892,6 +1897,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_dealignai_bonsai_2_27b_1bit_crack_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
@@ -2772,6 +2782,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ibm_granite_granite_4_1_8b_fp8",
+      "target_id": "hf_ibm-granite_granite-4.1-8b",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ibm_granite_granite_4_2_3b",
       "target_id": "hf_ibm-granite_granite-4.1-3b-base",
       "type": "derived_from"
@@ -2924,6 +2939,11 @@
     {
       "source_id": "model_ista_daslab_qwen3_8_27b_gsq_rco_gguf",
       "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_gguf",
+      "target_id": "hf_empero-ai_Qwen3.8-35B-A3B-Distill",
       "type": "derived_from"
     },
     {
@@ -6502,6 +6522,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_pyrodog_deepseek_v4_1_flash_uncensored_dwarfstar_q2",
+      "target_id": "hf_dealignai_DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_qcri_fanar_1_9b_instruct",
       "target_id": "hf_QCRI_Fanar-1-9B",
       "type": "derived_from"
@@ -8970,6 +8995,21 @@
       "source_id": "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_vxtzq_crowd_v1",
+      "target_id": "hf_HuggingFaceFW_fineweb",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_vxtzq_crowd_v1",
+      "target_id": "hf_Vxtzq_CrowdGPT",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_vxtzq_crowd_v1",
+      "target_id": "hf_openbmb_Ultra-FineWeb-L3",
+      "type": "trained_on"
     },
     {
       "source_id": "model_w_ahmad_lfm2_5_8b_a1b_gguf_moq",

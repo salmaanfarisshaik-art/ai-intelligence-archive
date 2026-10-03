@@ -2347,8 +2347,29 @@
     "title": "Qwen/Qwen2.5-0.5B-Instruct",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "arxiv:2407.10671",
+      "base_model:Qwen/Qwen2.5-0.5B",
+      "base_model:finetune:Qwen/Qwen2.5-0.5B",
+      "chat",
+      "conversational",
+      "deploy:azure",
+      "en",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen2",
+      "region:us",
+      "safetensors",
+      "text-generation",
+      "text-generation-inference",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct",
     "local_path": "models/qwen/hf_Qwen_Qwen2.5-0.5B-Instruct.json"
   },

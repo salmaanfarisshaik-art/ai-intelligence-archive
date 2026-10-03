@@ -1065,6 +1065,7 @@
 - **ID**: hf_Qwen_Qwen2.5-0.5B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct)
+- **Tags**: arxiv:2407.10671, base_model:Qwen/Qwen2.5-0.5B, base_model:finetune:Qwen/Qwen2.5-0.5B, chat, conversational, deploy:azure, en, endpoints_compatible, license:apache-2.0, qwen2, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## Qwen/Qwen2.5-0.5B-Instruct-GGUF
 - **ID**: hf_Qwen_Qwen2.5-0.5B-Instruct-GGUF

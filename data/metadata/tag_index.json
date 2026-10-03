@@ -575,6 +575,7 @@
     "hf_ds_66674f5483de542b724d771e"
   ],
   "arxiv:2407.10671": [
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct"
@@ -803,6 +804,9 @@
   "base_model:HuggingFaceTB/SmolLM2-135M": [
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
   ],
+  "base_model:Qwen/Qwen2.5-0.5B": [
+    "hf_Qwen_Qwen2.5-0.5B-Instruct"
+  ],
   "base_model:Qwen/Qwen2.5-1.5B": [
     "hf_Qwen_Qwen2.5-1.5B-Instruct"
   ],
@@ -871,6 +875,9 @@
   ],
   "base_model:finetune:01-ai/Yi-1.5-34B": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
+  ],
+  "base_model:finetune:Qwen/Qwen2.5-0.5B": [
+    "hf_Qwen_Qwen2.5-0.5B-Instruct"
   ],
   "base_model:finetune:Qwen/Qwen2.5-1.5B": [
     "hf_Qwen_Qwen2.5-1.5B-Instruct"
@@ -1045,6 +1052,7 @@
   ],
   "chat": [
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct"
@@ -1101,6 +1109,7 @@
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -1341,6 +1350,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -1508,6 +1518,7 @@
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -1543,6 +1554,7 @@
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -4268,6 +4280,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
     "hf_Qwen_Qwen3-0.6B",
@@ -5139,6 +5152,7 @@
   "qwen2": [
     "hf_CMSManhattan_JiRackUltra_1b",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -5232,6 +5246,7 @@
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -5554,6 +5569,7 @@
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -6221,6 +6237,7 @@
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -6300,6 +6317,7 @@
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -6386,6 +6404,7 @@
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
     "hf_Qwen_Qwen2-1.5B-Instruct",
+    "hf_Qwen_Qwen2.5-0.5B-Instruct",
     "hf_Qwen_Qwen2.5-1.5B-Instruct",
     "hf_Qwen_Qwen2.5-3B-Instruct",
     "hf_Qwen_Qwen2.5-7B-Instruct",

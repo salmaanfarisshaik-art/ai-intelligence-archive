@@ -3,7 +3,7 @@
   "id": "solidrust/Hermes-3-Llama-3.1-8B-AWQ",
   "likes": 3,
   "private": false,
-  "downloads": 40647,
+  "downloads": 42587,
   "tags": [
     "transformers",
     "safetensors",
@@ -18,8 +18,8 @@
     "base_model:quantized:NousResearch/Hermes-3-Llama-3.1-8B",
     "text-generation-inference",
     "awq",
-    "deploy:azure",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
