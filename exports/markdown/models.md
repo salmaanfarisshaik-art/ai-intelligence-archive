@@ -376,6 +376,10 @@
 - **ID**: model_augmxnt_shisa_gamma_7b_v1
 - **Source**: 
 
+## autotrust/JEV-9B
+- **ID**: model_autotrust_jev_9b
+- **Source**: 
+
 ## AvitoTech/avibe
 - **ID**: model_avitotech_avibe
 - **Source**: 
@@ -1386,6 +1390,10 @@
 
 ## echarlaix/tiny-random-PhiForCausalLM
 - **ID**: model_echarlaix_tiny_random_phiforcausallm
+- **Source**: 
+
+## Edge0/Audio8-ASR-Infinite
+- **ID**: model_edge0_audio8_asr_infinite
 - **Source**: 
 
 ## Edge0/Edge0-35B-A3B-preview
@@ -5356,6 +5364,10 @@
 - **ID**: model_radixark_qwen3_8_27b_dspark
 - **Source**: 
 
+## rapid-mlx/Ling-3.0-tiny-MLX-4bit
+- **ID**: model_rapid_mlx_ling_3_0_tiny_mlx_4bit
+- **Source**: 
+
 ## RavichandranJ/Dolphin3-Cyber-8B-GGUF
 - **ID**: model_ravichandranj_dolphin3_cyber_8b_gguf
 - **Source**: 
@@ -5546,6 +5558,10 @@
 
 ## ReliquaryForge/qwen3-4b-base-dapo-v4
 - **ID**: model_reliquaryforge_qwen3_4b_base_dapo_v4
+- **Source**: 
+
+## RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored
+- **ID**: model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored
 - **Source**: 
 
 ## rinna/japanese-gpt-neox-small

@@ -18601,7 +18601,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-04T15:10:46.344923+00:00",
+  "generated_at": "2026-10-04T19:11:48.512086+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -142092,6 +142092,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_atokforps_latent_v1_fullrun_alpha3_03",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_atokforps_latent_v1_fullrun_alpha3_04",
       "label": ""
     },
@@ -142218,6 +142223,11 @@
     {
       "category": "datasets",
       "id": "dataset_autelrobotics_cosfly",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_authenticilm_shamela4_full_db",
       "label": ""
     },
     {
@@ -143943,6 +143953,11 @@
     {
       "category": "datasets",
       "id": "dataset_geodrivebench_geodrive_bench",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_get2rot_wildgui",
       "label": ""
     },
     {
@@ -147257,6 +147272,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_lerobot_aloha_sim_insertion_scripted",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_lerobot_aloha_sim_transfer_cube_human",
       "label": ""
     },
@@ -149237,6 +149257,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_opera8_ezmary",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_opera8_vevocash",
       "label": ""
     },
@@ -149318,6 +149343,11 @@
     {
       "category": "datasets",
       "id": "dataset_parexel_clinical_trials_protocols",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_parrotzone_sdxl_1_0",
       "label": ""
     },
     {
@@ -149993,6 +150023,11 @@
     {
       "category": "datasets",
       "id": "dataset_roboverseorg_roboverse_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_roisincrtai_ptb_xl_1_0_1",
       "label": ""
     },
     {
@@ -164137,6 +164172,11 @@
     },
     {
       "category": "models",
+      "id": "model_autotrust_jev_9b",
+      "label": "autotrust/JEV-9B"
+    },
+    {
+      "category": "models",
       "id": "model_avitotech_avibe",
       "label": "AvitoTech/avibe"
     },
@@ -165399,6 +165439,11 @@
       "category": "models",
       "id": "model_echarlaix_tiny_random_phiforcausallm",
       "label": "echarlaix/tiny-random-PhiForCausalLM"
+    },
+    {
+      "category": "models",
+      "id": "model_edge0_audio8_asr_infinite",
+      "label": "Edge0/Audio8-ASR-Infinite"
     },
     {
       "category": "models",
@@ -170362,6 +170407,11 @@
     },
     {
       "category": "models",
+      "id": "model_rapid_mlx_ling_3_0_tiny_mlx_4bit",
+      "label": "rapid-mlx/Ling-3.0-tiny-MLX-4bit"
+    },
+    {
+      "category": "models",
       "id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
       "label": "RavichandranJ/Dolphin3-Cyber-8B-GGUF"
     },
@@ -170599,6 +170649,11 @@
       "category": "models",
       "id": "model_reliquaryforge_qwen3_4b_base_dapo_v4",
       "label": "ReliquaryForge/qwen3-4b-base-dapo-v4"
+    },
+    {
+      "category": "models",
+      "id": "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored",
+      "label": "RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored"
     },
     {
       "category": "models",
@@ -470033,5 +470088,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 3720,
-  "total_nodes": 90285
+  "total_nodes": 90296
 }
