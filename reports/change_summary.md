@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 78
+**Total Changes:** 108
 
 ## Added
 None
@@ -11,22 +11,52 @@ None
 - data/metadata/feature_manifest.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingfacem4/hf_ds_661823b590a8b6724f1c6534.json
+- datasets/allenai/hf_ds_621ffdd236468d709f182a80.json
+- datasets/anon8231489123/hf_ds_642912f7a760fe0bf37996b1.json
+- datasets/fujinchu/hf_ds_6a517a8032bfea14be5a68aa.json
+- datasets/genrobot2025/hf_ds_6a5466cdd7c4631ab9b28b80.json
+- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
 - datasets/kakologarchives/hf_ds_645e3fcc43abb116540da202.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
-- datasets/stringfellow/hf_ds_6a44a4c981d12be393e7749d.json
+- datasets/swaystar123/hf_ds_67134260dda81cf20b75342e.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/distilbert/hf_distilbert_distilgpt2.json
+- models/dphn/hf_dphn_dolphin-2.9.1-yi-1.5-34b.json
+- models/eleutherai/hf_EleutherAI_pythia-160m.json
+- models/facebook/hf_facebook_opt-125m.json
+- models/google/hf_google_gemma-3-1b-it.json
+- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M-Instruct.json
+- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
+- models/mistralai/hf_mistralai_Mistral-7B-Instruct-v0.2.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-120b.json
+- models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/qwen/hf_Qwen_Qwen2.5-0.5B-Instruct.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
+- models/qwen/hf_Qwen_Qwen3-14B-AWQ.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
 - models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/qwen/hf_Qwen_Qwen3-4B.json
+- models/qwen/hf_Qwen_Qwen3-8B-AWQ.json
+- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/trl-internal-testing/hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/vikhyatk/hf_vikhyatk_moondream2.json
+- models/zai-org/hf_zai-org_GLM-4.7-Flash.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json

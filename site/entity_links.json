@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:25:24Z",
+  "generated_at": "2026-10-04T09:23:08Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -3229,6 +3229,11 @@
     {
       "source_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
       "target_id": "hf_zai-org_glm-4-9b-chat",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_legraphista_meta_llama_3_70b_instruct_abliterated_v3_5_imat_gguf",
+      "target_id": "hf_failspy_Meta-Llama-3-70B-Instruct-abliterated-v3.5",
       "type": "derived_from"
     },
     {
