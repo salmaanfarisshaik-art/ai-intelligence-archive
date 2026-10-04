@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T09:22:04.951324+00:00",
+  "generated_at": "2026-10-04T15:10:46.344923+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -147220,6 +147220,11 @@
     },
     {
       "category": "models",
+      "id": "model_google_codegemma_7b_it",
+      "label": "google/codegemma-7b-it"
+    },
+    {
+      "category": "models",
       "id": "model_google_functiongemma_270m_it",
       "label": "google/functiongemma-270m-it"
     },
@@ -148142,6 +148147,11 @@
       "category": "models",
       "id": "model_legraphista_glm_4_9b_chat_imat_gguf",
       "label": "legraphista/glm-4-9b-chat-IMat-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_legraphista_meta_llama_3_70b_instruct_abliterated_v3_5_imat_gguf",
+      "label": "legraphista/Meta-Llama-3-70B-Instruct-abliterated-v3.5-IMat-GGUF"
     },
     {
       "category": "models",
@@ -451420,5 +451430,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 90283
+  "total_nodes": 90285
 }

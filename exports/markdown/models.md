@@ -1724,6 +1724,10 @@
 - **ID**: model_google_codegemma_2b
 - **Source**: 
 
+## google/codegemma-7b-it
+- **ID**: model_google_codegemma_7b_it
+- **Source**: 
+
 ## google/functiongemma-270m-it
 - **ID**: model_google_functiongemma_270m_it
 - **Source**: 
@@ -2462,6 +2466,10 @@
 
 ## legraphista/glm-4-9b-chat-IMat-GGUF
 - **ID**: model_legraphista_glm_4_9b_chat_imat_gguf
+- **Source**: 
+
+## legraphista/Meta-Llama-3-70B-Instruct-abliterated-v3.5-IMat-GGUF
+- **ID**: model_legraphista_meta_llama_3_70b_instruct_abliterated_v3_5_imat_gguf
 - **Source**: 
 
 ## LessThanThreeAI/Qwen3.8-27B-Humanlike-Chat-GGUF
