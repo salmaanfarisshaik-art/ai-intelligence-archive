@@ -376,6 +376,10 @@
 - **ID**: model_augmxnt_shisa_gamma_7b_v1
 - **Source**: 
 
+## autotrust/JEV-27B
+- **ID**: model_autotrust_jev_27b
+- **Source**: 
+
 ## autotrust/JEV-9B
 - **ID**: model_autotrust_jev_9b
 - **Source**: 
@@ -668,6 +672,10 @@
 - **ID**: model_bartowski_qwen_qwen3_next_80b_a3b_thinking_gguf
 - **Source**: 
 
+## bartowski/SmolLM2-135M-Instruct-GGUF
+- **ID**: model_bartowski_smollm2_135m_instruct_gguf
+- **Source**: 
+
 ## bartowski/SmolLM2-1.7B-Instruct-GGUF
 - **ID**: model_bartowski_smollm2_1_7b_instruct_gguf
 - **Source**: 
@@ -686,6 +694,10 @@
 
 ## batiai/Qwen3.6-27B-GGUF
 - **ID**: model_batiai_qwen3_6_27b_gguf
+- **Source**: 
+
+## BattleGhost/Qwen3.8-Flash-Next-UNCENSORED-IQ2_XXS-GGUF
+- **ID**: model_battleghost_qwen3_8_flash_next_uncensored_iq2_xxs_gguf
 - **Source**: 
 
 ## bbarn4/medgemma-27b-text-it-GPTQ
@@ -782,6 +794,10 @@
 
 ## boboliu/Qwen3-Reranker-4B-W4A16-G128
 - **ID**: model_boboliu_qwen3_reranker_4b_w4a16_g128
+- **Source**: 
+
+## BoldingBuilds/orcarouter_GLM-5.3-Flash-Uncensored-GGUF
+- **ID**: model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf
 - **Source**: 
 
 ## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PQ2_0-MTP-GGUF
@@ -6766,6 +6782,10 @@
 
 ## upstage/solar-pro-preview-instruct
 - **ID**: model_upstage_solar_pro_preview_instruct
+- **Source**: 
+
+## useful-quants/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-W4A16
+- **ID**: model_useful_quants_nvidia_nemotron_3_5_lightning_30b_a3b_w4a16
 - **Source**: 
 
 ## utter-project/EuroLLM-1.7B-Instruct
