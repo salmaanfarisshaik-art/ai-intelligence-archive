@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03218v1",
+  "schema_version": "1.0",
+  "name": "VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03218v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03218v1",
+    "updated": "2026-10-02T12:32:36Z",
+    "published": "2026-10-02T12:32:36Z",
+    "title": "VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models",
+    "summary": "Microscaling (MX) formats are emerging as a hardware-supported approach to efficient training and inference. They combine low-precision elements with shared block scales, but their impact on vision models remains underexplored. We systematically investigate post-training MX quantization across vision models and tasks. An analysis of direct conversion identifies three sources of error: block-scale representation, the poor alignment of some small convolutional weight tensors with nonuniform element grids, and the underuse of signed codes by nonnegative activations. These findings motivate VisionMX, a post-training MX quantization method that optimizes bounded weight rounding and applies a foldable affine correction to activations. We evaluate VisionMX across image classification, object detection, semantic segmentation, and low-light image enhancement using several MX-style formats. It improves on direct conversion and the evaluated post-training quantization baselines, with the largest performance recoveries in architectures most sensitive to MX conversion",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:32:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03218v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

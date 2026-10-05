@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.20103v4",
+  "schema_version": "1.0",
+  "name": "Spectral Alignment in Forward-Backward Representations via Temporal Abstraction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.20103v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.20103v4",
+    "updated": "2026-10-02T13:00:39Z",
+    "published": "2026-03-20T16:28:33Z",
+    "title": "Spectral Alignment in Forward-Backward Representations via Temporal Abstraction",
+    "summary": "Forward-backward (FB) representations provide a powerful framework for learning the successor representation (SR) in continuous spaces by enforcing a low-rank factorization. However, a fundamental spectral mismatch often exists between the high-rank transition dynamics of continuous environments and the low-rank bottleneck of the FB architecture, making accurate low-rank representation learning difficult. In this work, we analyze temporal abstraction as a mechanism to mitigate this mismatch. By characterizing the spectral properties of the transition operator, we show that temporal abstraction acts analogously to a low-pass filter that suppresses high-frequency spectral components. This suppression reduces the effective rank of the induced SR while preserving a formal bound on the resulting value function error. Empirically, we show that this alignment is a key factor for stable FB learning, particularly at high discount factors where bootstrapping becomes error-prone. Our results identify temporal abstraction as a principled mechanism for shaping the spectral structure of the underlying MDP and enabling effective long-horizon representations in continuous control.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:00:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.20103v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.37085v2",
+  "schema_version": "1.0",
+  "name": "ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.37085v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.37085v2",
+    "updated": "2026-10-02T13:44:47Z",
+    "published": "2026-09-29T09:14:36Z",
+    "title": "ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum",
+    "summary": "Data-intensive services in the Computing Continuum must balance analytics quality, resource usage, and cost across heterogeneous nodes with limited and uneven capacity. This balance becomes especially difficult when resource scaling reaches capacity limits, because changes in demand and cluster pressure must then be absorbed without violating client-defined quality ranges. Existing orchestrators mainly adapt resources, placements, or replicas, while analytics requirements such as coverage, sample, and freshness remain fixed. This article presents ARGOS, the Adaptive Reinforcement Learning-Driven Governance for Orchestrated Services, an end-to-end controller that formulates multidimensional elasticity as a per-request Markov decision process over analytics quality and cluster pressure, supported by capacity-aware admission. ARGOS is evaluated under controlled workloads and time-varying multi-tenant arrivals on a heterogeneous cluster. Across the controlled scenarios, the deep reinforcement learning policies consistently outperform the non-learning baselines and approach the independently tuned best-fixed reference. A separate live evaluation reports improvements over the static midpoint under realistic and saturated arrivals, with no recorded CPU or memory violations but remaining coverage violations. These results support deep reinforcement learning as an adaptive mechanism for multidimensional elasticity when resource scaling alone is insufficient.",
+    "primary_category": "cs.DC"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:44:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.37085v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

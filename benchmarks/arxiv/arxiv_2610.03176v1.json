@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03176v1",
+  "schema_version": "1.0",
+  "name": "Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03176v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03176v1",
+    "updated": "2026-10-02T11:52:17Z",
+    "published": "2026-10-02T11:52:17Z",
+    "title": "Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis",
+    "summary": "We study hindsight-guided distillation for rare disease diagnosis on ZebraMap: a 1.5B student is fine-tuned on chain-of-thought traces from a 8B teacher that observes the ground-truth diagnosis during generation. Absolute accuracy remains low for all models - the task is hard at this scale - but within this ceiling a filtered variant (StudentF) achieves a small, statistically significant accuracy advantage over the teacher (p < 0.001), concentrated in better-represented diseases. The unfiltered student does not significantly outperform the teacher (p = 0.129), establishing that contamination filtering - not hindsight distillation alone - drives the gain. The gap traces to an artifact we term GT hallucination. Label-visible generation causes the teacher to embed \"ground truth is X\" phrases in its reasoning chain; SFT copies the pattern. At inference, the unfiltered student reproduces the phrase in 33.9% of cases, with severe accuracy degradation when the hallucinated label is wrong. A regex filter removing these slots reduces contamination to near-zero, producing the observed gain - though the effect remains small. We precisely quantify this gain-cost tradeoff, document frequency-dependent knowledge transfer absent from the RL-trained teacher, and characterize a calibration gap that SFT does not close - identifying both as directions for future work.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T11:52:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03176v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

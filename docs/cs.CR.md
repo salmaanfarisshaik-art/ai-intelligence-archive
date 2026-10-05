@@ -51,6 +51,7 @@
 | [Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure](http://arxiv.org/abs/2609.30217v1) | ArXiv |  | 1 |
 | [Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs](http://arxiv.org/abs/2603.28013v4) | ArXiv |  | 1 |
 | [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents](http://arxiv.org/abs/2606.18223v1) | ArXiv |  | 1 |
+| [LiBRA: Detection-Aware Image Watermark Removal via Bidirectional Latent Optimization](http://arxiv.org/abs/2610.03166v1) | ArXiv |  | 1 |
 | [LLM Agents Can Easily Tamper With Their Own Traces](http://arxiv.org/abs/2609.30266v1) | ArXiv |  | 1 |
 | [LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment](http://arxiv.org/abs/2608.28490v1) | ArXiv |  | 1 |
 | [memorywire: A Vendor-Neutral Wire Format for Agent Memory Operations](http://arxiv.org/abs/2606.01138v4) | ArXiv |  | 1 |

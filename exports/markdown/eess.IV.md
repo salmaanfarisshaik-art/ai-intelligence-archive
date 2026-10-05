@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.24768v1](http://arxiv.org/abs/2608.24768v1)
 
+## Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening
+- **ID**: arxiv_2610.03290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03290v1](http://arxiv.org/abs/2610.03290v1)
+

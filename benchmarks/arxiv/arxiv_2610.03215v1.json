@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03215v1",
+  "schema_version": "1.0",
+  "name": "StanceEval 2026: The Second Stance Detection Shared Task",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03215v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03215v1",
+    "updated": "2026-10-02T12:32:11Z",
+    "published": "2026-10-02T12:32:11Z",
+    "title": "StanceEval 2026: The Second Stance Detection Shared Task",
+    "summary": "StanceEval 2026 is the second edition of the StanceEval shared task series on stance detection in Arabic social media text. Stance detection aims to identify a writer's stance toward a given topic. Given a tweet and a target, participating systems must determine whether the writer's stance is Favor, Against, or None. This edition focuses on cross-target generalization across two distinct evaluation tracks: Track 1 evaluates thematically related cross-target transfer (testing on Women Driving, related to Women Empowerment from training data), while Track 2 evaluates cross-domain transfer to completely unseen targets (E-Cars and Trimester System). The shared task attracted 80 registered teams from 12 countries. During the evaluation phase, 30 unique teams submitted entries, with 21 teams officially ranked in Track 1 and 13 in Track 2 following validation filtering, and 20 teams submitting system-description papers. Participating teams employed diverse methodologies, including fine-tuned pretrained language models, prompt-based and retrieval-augmented large language models (LLMs), fine-tuned LLMs, and hybrid cascades. Top systems achieved impressive $F_{avg2}$ scores of 0.8994 on Track 1 and 0.9400 on Track 2, substantially outperforming the strongest baselines (0.7366 and 0.7475, respectively), where $F_{avg2}$ denotes the macro-averaged F1 score over the Favor and Against classes. Counterintuitively, performance on the unseen targets was higher than on the related target, a disparity could be driven by extreme target polarization, class imbalance, and dialectal or sarcastic nuance across topics.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:32:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03215v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

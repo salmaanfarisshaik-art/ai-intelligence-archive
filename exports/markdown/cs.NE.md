@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09888v1](http://arxiv.org/abs/2608.09888v1)
 
+## Evolving Hybrid Quantum-Classical Architectures for Image Classification
+- **ID**: arxiv_2610.03220v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03220v1](http://arxiv.org/abs/2610.03220v1)
+

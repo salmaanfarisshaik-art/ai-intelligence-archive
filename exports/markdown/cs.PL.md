@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05364v1](http://arxiv.org/abs/2609.05364v1)
 
+## WAMpy: Efficient Synthesis of Prolog Programs in Python
+- **ID**: arxiv_2610.03234v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03234v1](http://arxiv.org/abs/2610.03234v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.01921v2",
+  "schema_version": "1.0",
+  "name": "Cross-Lingual Alignment for Decoder-Only Models using MoE Routers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.01921v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.01921v2",
+    "updated": "2026-10-02T12:35:42Z",
+    "published": "2026-10-01T15:56:54Z",
+    "title": "Cross-Lingual Alignment for Decoder-Only Models using MoE Routers",
+    "summary": "Cross-lingual contrastive learning has been a core component of multilingual encoder training, but the ability to explicitly align representations is not possible in decoder-only LLMs because of varying multilingual tokenization. However, a growing amount of research suggests that even in LLMs, higher cross-lingual representational alignment leads to improved cross-lingual transfer. In this paper, we propose a novel approach to reimagine cross-lingual contrastive learning given the architectural constraints of modern LLMs. Rather than applying an auxiliary alignment loss on hidden states, we propose using the outputs of the mixture-of-experts (MoE) routers as the target for alignment. Router outputs lend themselves better to pooling over many tokens, enabling more reliable cross-lingual comparisons at the sequence-level. Controlled continual pre-training experiments on four open-source MoEs show that incorporating this routing loss also aligns the underlying hidden representations across languages. Most importantly, this loss improves multilingual performance on our diverse evaluation suite, demonstrating the potential of cross-lingual MoE router alignment.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:35:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.01921v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

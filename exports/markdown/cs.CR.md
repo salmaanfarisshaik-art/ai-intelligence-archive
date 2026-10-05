@@ -380,3 +380,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36956v1](http://arxiv.org/abs/2609.36956v1)
 
+## LiBRA: Detection-Aware Image Watermark Removal via Bidirectional Latent Optimization
+- **ID**: arxiv_2610.03166v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03166v1](http://arxiv.org/abs/2610.03166v1)
+

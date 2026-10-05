@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03199v1",
+  "schema_version": "1.0",
+  "name": "Predicting and Repairing Merge Collapse in Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03199v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03199v1",
+    "updated": "2026-10-02T12:11:43Z",
+    "published": "2026-10-02T12:11:43Z",
+    "title": "Predicting and Repairing Merge Collapse in Large Language Models",
+    "summary": "Large language models fine-tuned from a shared base can be merged by averaging their task vectors, but some merges collapse far below the base model, and common merge operators give no warning before evaluation. We show that one statistic of the specialists' task vectors both predicts this collapse and calibrates its repair. The power that averaging removes equals the variance of the task vectors across specialists, our measure of interference. Under a working noise model, the disturbance that a merge injects grows with the merge coefficient and with interference, yielding a pre-merge score. In our experiments on twenty-two merge configurations from four model families, only destructive merges exceed a threshold on this score. We find that statistics of sign conflict between specialists, a common target of existing merge operators, are anti-predictive. We then predicted the outcomes of fourteen merges before evaluating them, and twelve predictions were correct, including the destructive outcome of a specialist pair pushed past the threshold by continued pretraining. To address this collapse, we introduce PRISM, an operator that averages the task vectors first and then soft-thresholds each layer at a level set by the layer's interference. Without data or tuning, PRISM keeps all five destructive merges above the threshold within evaluation noise of the base model, where plain averaging falls at least 14.4 points below it or collapses entirely. We apply PRISM only above the threshold and keep the plain average for merges below it, which include all fifteen harmless ones. Code is available at https://github.com/js-lee-AI/PRISM.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:11:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03199v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

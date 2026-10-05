@@ -3295,6 +3295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
 
+## From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale
+- **ID**: arxiv_2609.35149v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35149v2](http://arxiv.org/abs/2609.35149v2)
+
 ## PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents
 - **ID**: arxiv_2609.35671v1
 - **Source**: ArXiv
@@ -3459,4 +3464,34 @@
 - **ID**: arxiv_2610.02202v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02202v1](http://arxiv.org/abs/2610.02202v1)
+
+## Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective
+- **ID**: arxiv_2610.03185v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03185v1](http://arxiv.org/abs/2610.03185v1)
+
+## KV$^2$: A Self-Refining KV Cache
+- **ID**: arxiv_2610.03198v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03198v1](http://arxiv.org/abs/2610.03198v1)
+
+## Toward SLM-based agentic task-tool intent matching
+- **ID**: arxiv_2610.03213v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03213v1](http://arxiv.org/abs/2610.03213v1)
+
+## Learning a Fact Is Not Learning How to Retrieve It
+- **ID**: arxiv_2610.03251v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03251v1](http://arxiv.org/abs/2610.03251v1)
+
+## EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation
+- **ID**: arxiv_2610.03273v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03273v1](http://arxiv.org/abs/2610.03273v1)
+
+## JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs
+- **ID**: arxiv_2610.03296v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03296v1](http://arxiv.org/abs/2610.03296v1)
 

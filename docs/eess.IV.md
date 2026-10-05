@@ -21,4 +21,5 @@
 | [Sequential Attention-based Sampling for Histopathological Analysis](http://arxiv.org/abs/2507.05077v5) | ArXiv |  | 1 |
 | [UMPIRE-Net: Unrolled Magnitude-Phase Regularization Network for Accelerated MRI](http://arxiv.org/abs/2608.14422v1) | ArXiv |  | 1 |
 | [VLM- and LLM-Driven Multi-Agent System for PET Image Denoising](http://arxiv.org/abs/2608.13791v2) | ArXiv |  | 1 |
+| [Wrong Organ, Right Physics: Transferring Echocardiography Pretraining to Lung Ultrasound for Tuberculosis Screening](http://arxiv.org/abs/2610.03290v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

@@ -245,6 +245,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.07195v2](http://arxiv.org/abs/2512.07195v2)
 
+## Navigating the Reality Gap: On-Device Continual Adaptation of ASR for Clinical Telephony
+- **ID**: arxiv_2512.16401v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.16401v6](http://arxiv.org/abs/2512.16401v6)
+
 ## Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers
 - **ID**: arxiv_2512.17351v2
 - **Source**: ArXiv
@@ -694,6 +699,11 @@
 - **ID**: arxiv_2605.22660v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.22660v2](http://arxiv.org/abs/2605.22660v2)
+
+## EchoDistill: Robust Large Audio Language Models via Noisy-to-Clean Self-Distillation
+- **ID**: arxiv_2605.23954v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.23954v2](http://arxiv.org/abs/2605.23954v2)
 
 ## H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer
 - **ID**: arxiv_2605.24930v2
@@ -1844,6 +1854,11 @@
 - **ID**: arxiv_2608.08557v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.08557v2](http://arxiv.org/abs/2608.08557v2)
+
+## Mawqif-XT: An Arabic Benchmark Dataset for Cross-Target Stance Detection
+- **ID**: arxiv_2608.09539v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09539v3](http://arxiv.org/abs/2608.09539v3)
 
 ## SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring
 - **ID**: arxiv_2608.09802v1
@@ -3520,6 +3535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40340v1](http://arxiv.org/abs/2609.40340v1)
 
+## Cross-Lingual Alignment for Decoder-Only Models using MoE Routers
+- **ID**: arxiv_2610.01921v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.01921v2](http://arxiv.org/abs/2610.01921v2)
+
 ## Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows
 - **ID**: arxiv_2610.02122v1
 - **Source**: ArXiv
@@ -3549,4 +3569,39 @@
 - **ID**: arxiv_2610.02206v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02206v1](http://arxiv.org/abs/2610.02206v1)
+
+## Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer
+- **ID**: arxiv_2610.03163v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03163v1](http://arxiv.org/abs/2610.03163v1)
+
+## Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis
+- **ID**: arxiv_2610.03176v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03176v1](http://arxiv.org/abs/2610.03176v1)
+
+## Not Until the Evidence Says So: Teaching LLM Investigators When to Close a Case
+- **ID**: arxiv_2610.03190v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03190v1](http://arxiv.org/abs/2610.03190v1)
+
+## Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It
+- **ID**: arxiv_2610.03195v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03195v1](http://arxiv.org/abs/2610.03195v1)
+
+## StanceEval 2026: The Second Stance Detection Shared Task
+- **ID**: arxiv_2610.03215v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03215v1](http://arxiv.org/abs/2610.03215v1)
+
+## Collective Bias Mitigation via Model Routing and Collaboration
+- **ID**: arxiv_2610.03240v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03240v1](http://arxiv.org/abs/2610.03240v1)
+
+## Shrome at Touché: Soft-Vote Ensembling and Counter-Causal Augmentation for Causality Extraction
+- **ID**: arxiv_2610.03268v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03268v1](http://arxiv.org/abs/2610.03268v1)
 

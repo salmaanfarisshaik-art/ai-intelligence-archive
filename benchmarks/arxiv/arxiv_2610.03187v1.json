@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03187v1",
+  "schema_version": "1.0",
+  "name": "Lightweight and Resource-Efficient Perception for Robotic Guide Dogs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03187v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03187v1",
+    "updated": "2026-10-02T12:01:55Z",
+    "published": "2026-10-02T12:01:55Z",
+    "title": "Lightweight and Resource-Efficient Perception for Robotic Guide Dogs",
+    "summary": "Multi-camera streaming perception is increasingly deployed on heterogeneous edge platforms shared with co-resident workloads, yet accelerator placement is often evaluated using isolated single-stream experiments and mean streaming average precision (sAP). Using two end-to-end pipelines on a single GPU--NPU platform, we show that isolated evaluation can mis-rank deployment-time placement. Although the GPU pipeline is preferred in isolation, GPU-localized contention introduces deadline misses that make detections stale and can reverse the preferred placement before full GPU saturation. The NPU pipeline is less accurate than the GPU pipeline on small and medium objects in isolation, but nearly matches it on large objects. The largest absolute sAP losses in our latency and contention experiments occur for large objects. In our four-stream experiments, the preferred placement depends on which path becomes stale, and increasing GPU-side contention shifts the best placement from All-GPU to All-NPU. Under a GPU-saturating vision--language co-tenant, All-NPU achieves $5.2\\times$ the worst-stream sAP of All-GPU. Because mean sAP can hide severe single-stream degradation, evaluation should report contention sweeps, deadline-miss rates on both paths, and worst-stream sAP alongside mean sAP.",
+    "primary_category": "cs.DC"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:01:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03187v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

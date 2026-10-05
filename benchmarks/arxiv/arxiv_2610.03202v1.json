@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03202v1",
+  "schema_version": "1.0",
+  "name": "Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03202v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03202v1",
+    "updated": "2026-10-02T12:19:49Z",
+    "published": "2026-10-02T12:19:49Z",
+    "title": "Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation",
+    "summary": "Flow Matching enables high-quality visual generation via continuous-time dynamics, but inference remains costly due to multiple sequential function evaluations. Existing acceleration methods reduce the number of function evaluations but often introduce additional training overhead, degrade quality, or fail to account for input-dependent variability. We propose COFLOW, an inference-time method that adaptively selects the step counts each generation based on the prompt features. Our context-aware COFLOW is trained online with an unsupervised reward that balances inference efficiency and generation fidelity. Our method is plug-and-play, requiring no retraining of the underlying generative model. It generalizes to image and video generation, achieving over 2.5x speedup while preserving perceptual and semantic quality. We further provide a theoretical analysis establishing an O(1/K) forward-Euler discretization error bound under standard regularity conditions.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:19:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03202v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

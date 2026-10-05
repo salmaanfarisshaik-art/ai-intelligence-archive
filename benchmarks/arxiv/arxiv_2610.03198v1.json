@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03198v1",
+  "schema_version": "1.0",
+  "name": "KV$^2$: A Self-Refining KV Cache",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03198v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03198v1",
+    "updated": "2026-10-02T12:11:35Z",
+    "published": "2026-10-02T12:11:35Z",
+    "title": "KV$^2$: A Self-Refining KV Cache",
+    "summary": "The memory footprint of the key-value (KV) cache constrains the practical use of long-context models, and it dominates cost when one prefilled context must later serve many different queries. In this reusable setting, query-agnostic compression trades cost against quality: lightweight estimators are cheap but less accurate, whereas full-context reconstruction scoring is more accurate yet reprocesses the entire prompt. We introduce KV$^2$, a query-agnostic KV-cache compression method based on selective reconstruction. KV$^2$ first uses a lightweight proxy scorer to identify informative in-context tokens, then reprocesses only this subset to compute final eviction scores. On RULER, Needle-in-a-Haystack, and LongBench, KV$^2$'s margin over baselines widens as the budget tightens: on RULER 16K at a 2% KV-cache budget it improves the average score over the next-best baseline by more than 40 percentage points, and on LongBench it attains the highest average across 2%-10% budgets at lower compression-stage runtime and peak memory than full-context reconstruction. Reusable KV-cache compression thus does not require reprocessing the full context. Our code is available at https://anonymous.4open.science/r/KVsquared-0B97.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:11:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03198v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

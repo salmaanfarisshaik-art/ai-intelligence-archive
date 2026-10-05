@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03296v1",
+  "schema_version": "1.0",
+  "name": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03296v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03296v1",
+    "updated": "2026-10-02T13:37:59Z",
+    "published": "2026-10-02T13:37:59Z",
+    "title": "JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs",
+    "summary": "Complex reasoning queries can be decomposed into directed acyclic task graphs and distributed across heterogeneous LLMs, reducing latency through parallelism and enabling smaller models to solve complex tasks. In practice, however, the suitability of an LLM for a given subtask may be a priori unknown, and execution alone does not reveal output correctness. We propose JOVE, an online framework that jointly assigns executor LLMs and selects intermediate outputs for paid verification. Verification runs asynchronously and is used to improve future allocations, so the system must balance spending on execution now against learning for later. We study how to optimize this trade-off under a long-term budget and a per-query latency constraint, with stochastic, initially unknown LLM service quality, invocation costs, and execution times. JOVE makes execution and verification decisions by solving a sequence of per-query mixed-integer linear programs. Online learning updates task-dependent estimates of LLM quality based on verification feedback, while an information-gain bonus incorporates the value of learning into allocation decisions. Under a natural set of assumptions, we establish sublinear quality-learning regret for JOVE. Across four reasoning benchmarks, JOVE achieves competitive accuracy against standard inference baselines while reducing average cost and latency by at least 3.17 times.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:37:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03296v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

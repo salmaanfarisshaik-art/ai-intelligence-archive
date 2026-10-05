@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.16401v6",
+  "schema_version": "1.0",
+  "name": "Navigating the Reality Gap: On-Device Continual Adaptation of ASR for Clinical Telephony",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.16401v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.16401v6",
+    "updated": "2026-10-02T13:28:22Z",
+    "published": "2025-12-18T10:56:27Z",
+    "title": "Navigating the Reality Gap: On-Device Continual Adaptation of ASR for Clinical Telephony",
+    "summary": "Automatic Speech Recognition (ASR) can ease clinical documentation in resource-constrained regions, but deployment is hindered by a \"Reality Gap\" between laboratory performance and noisy, real-world clinical telephony, compounded by strict data residency and compute constraints. We study this gap using Gram Vaani, a telephonic Hindi corpus spanning rural healthcare and agricultural helplines, as the closest publicly available proxy for clinical telephony speech, and show that a robust multilingual model (IndicWav2Vec) degrades from 11.60% WER on clean read Hindi to 41.72% WER on this data. We evaluate a progression of adaptation regimes, from full fine-tuning and offline Low-Rank Adaptation (LoRA) upper bounds to an on-device, stream-based continual adaptation framework in which raw audio never leaves the local device, and characterize the trade-offs between data-driven and parameter-driven stabilization strategies. Our evaluation covers both lexical accuracy (WER and CER) and semantic fidelity (BERTScore) on the target domain, alongside the retention of general-domain knowledge. Multi-domain Experience Replay (ER) yields the primary gains, improving target WER by 18.2% relative and reducing catastrophic forgetting by 54% compared to naive adaptation, with BERTScore reflecting consistent gains in semantic fidelity. Combining replay with Elastic Weight Consolidation based on a stabilized importance estimate (Absolute Fisher) yields the strongest retention at a small cost in plasticity. Finally, a language model spot check empirically verifies that the core mismatch lies at the acoustic level and cannot be resolved by language models alone.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:28:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.16401v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

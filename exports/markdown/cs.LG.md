@@ -100,6 +100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.14313v4](http://arxiv.org/abs/2508.14313v4)
 
+## EEGDM: Learning EEG Representation with Latent Diffusion Model
+- **ID**: arxiv_2508.20705v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.20705v5](http://arxiv.org/abs/2508.20705v5)
+
 ## On the Separability of Information in Diffusion Models
 - **ID**: arxiv_2509.23937v5
 - **Source**: ArXiv
@@ -220,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11626v3](http://arxiv.org/abs/2602.11626v3)
 
+## Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning
+- **ID**: arxiv_2602.14868v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14868v3](http://arxiv.org/abs/2602.14868v3)
+
 ## Capabilities Ain't All You Need: Measuring Propensities in AI
 - **ID**: arxiv_2602.18182v5
 - **Source**: ArXiv
@@ -254,6 +264,11 @@
 - **ID**: arxiv_2603.12617v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.12617v2](http://arxiv.org/abs/2603.12617v2)
+
+## Spectral Alignment in Forward-Backward Representations via Temporal Abstraction
+- **ID**: arxiv_2603.20103v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.20103v4](http://arxiv.org/abs/2603.20103v4)
 
 ## A Survey of On-Policy Distillation for Large Language Models
 - **ID**: arxiv_2604.00626v4
@@ -1765,6 +1780,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31603v1](http://arxiv.org/abs/2609.31603v1)
 
+## MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series
+- **ID**: arxiv_2609.34409v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.34409v2](http://arxiv.org/abs/2609.34409v2)
+
 ## Rethinking Circuit Evaluation: Do Circuits Explain Model Errors?
 - **ID**: arxiv_2609.35686v1
 - **Source**: ArXiv
@@ -1894,4 +1914,29 @@
 - **ID**: arxiv_2610.02198v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02198v1](http://arxiv.org/abs/2610.02198v1)
+
+## Predicting and Repairing Merge Collapse in Large Language Models
+- **ID**: arxiv_2610.03199v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03199v1](http://arxiv.org/abs/2610.03199v1)
+
+## AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning
+- **ID**: arxiv_2610.03223v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03223v1](http://arxiv.org/abs/2610.03223v1)
+
+## D2K-Bench: Can LLM Agents Turn Expert Designs into Efficient GPU Kernels?
+- **ID**: arxiv_2610.03226v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03226v1](http://arxiv.org/abs/2610.03226v1)
+
+## Mapping and Advancing the Scalability-Accuracy Frontier of Nonlinear Causal Discovery
+- **ID**: arxiv_2610.03258v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03258v1](http://arxiv.org/abs/2610.03258v1)
+
+## SPEAR: A Spectral-Disentangled MoE Neural Operator with Knowledge-Guided Expert Aggregation for Large-Scale PDE Pretraining
+- **ID**: arxiv_2610.03265v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03265v1](http://arxiv.org/abs/2610.03265v1)
 

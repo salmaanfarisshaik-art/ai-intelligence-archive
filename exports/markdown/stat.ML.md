@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.10643v4](http://arxiv.org/abs/2507.10643v4)
 
+## Escaping the Capacity Ceiling: Routing on the Stiefel Manifold for Bilinear SPD Layers
+- **ID**: arxiv_2605.31043v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.31043v2](http://arxiv.org/abs/2605.31043v2)
+
 ## Full Bayesian Reinforcement Learning via LF-IBIS
 - **ID**: arxiv_2607.01741v2
 - **Source**: ArXiv

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03258v1",
+  "schema_version": "1.0",
+  "name": "Mapping and Advancing the Scalability-Accuracy Frontier of Nonlinear Causal Discovery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03258v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03258v1",
+    "updated": "2026-10-02T13:03:56Z",
+    "published": "2026-10-02T13:03:56Z",
+    "title": "Mapping and Advancing the Scalability-Accuracy Frontier of Nonlinear Causal Discovery",
+    "summary": "Scalable nonlinear causal discovery requires methods that combine flexible mechanism estimators with efficient search over large graph spaces. Several algorithmic families have been proposed to address this challenge, yet their accuracy-runtime trade-offs remain poorly understood. We empirically compare the four major approaches: differentiable structure learning, amortized structure learning, score-matching, and combinatorial search. Our results reveal complementary bottlenecks: differentiable and amortized methods scale well but exhibit an accuracy gap, score-matching methods can be accurate in low dimensions but degrade quickly for increasing feature sizes, and combinatorial methods remain accurate but are slowed by repeated and redundant local scoring. Motivated by this bottleneck, we develop SPADE, a spline-based score-evaluation scheme that compiles sufficient statistics once and reuses them throughout combinatorial search. Under bounded indegree, its Gaussian variant reduces algorithmic complexity from O(nd^3) to O(nd^2+d^3). Empirically, SPADE shifts the observed scalability-accuracy frontier by orders of magnitude: it solves 100-variable problems with 160K samples in seconds and 1600-variable problems with 2.5K samples in minutes, while retaining high structural accuracy across synthetic and real-world benchmarks. These results reveal a substantial shift in the practical scale of combinatorial search and highlight the importance of evaluating scalable causal-discovery methods along the full accuracy-runtime frontier.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:03:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03258v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

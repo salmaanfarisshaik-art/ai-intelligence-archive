@@ -269,6 +269,7 @@
 | [Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training](http://arxiv.org/abs/2609.09081v1) | ArXiv |  | 1 |
 | [Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating](http://arxiv.org/abs/2607.24667v1) | ArXiv |  | 1 |
 | [Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav](http://arxiv.org/abs/2608.24764v1) | ArXiv |  | 1 |
+| [EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation](http://arxiv.org/abs/2610.03273v1) | ArXiv |  | 1 |
 | [Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence](http://arxiv.org/abs/2609.27664v1) | ArXiv |  | 1 |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
 | [EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation](http://arxiv.org/abs/2609.01526v1) | ArXiv |  | 1 |
@@ -306,6 +307,7 @@
 | [From Deceptive Outputs to Deceptive Mechanisms: A Causal Framework for Language-Model Deception Research](http://arxiv.org/abs/2609.04166v1) | ArXiv |  | 1 |
 | [From Document Silos to Process Intelligence: A Multi-Layer Knowledge Graph for CMC Process Development](http://arxiv.org/abs/2609.11493v2) | ArXiv |  | 1 |
 | [From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production](http://arxiv.org/abs/2502.19507v2) | ArXiv |  | 1 |
+| [From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale](http://arxiv.org/abs/2609.35149v2) | ArXiv |  | 1 |
 | [From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent](http://arxiv.org/abs/2505.02024v4) | ArXiv |  | 1 |
 | [From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge](http://arxiv.org/abs/2609.11859v1) | ArXiv |  | 1 |
 | [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](http://arxiv.org/abs/2603.13359v2) | ArXiv |  | 1 |
@@ -313,6 +315,7 @@
 | [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [Full-bandwidth transformer](http://arxiv.org/abs/2608.08888v2) | ArXiv |  | 1 |
 | [Fuzzy Segmentations of a String](http://arxiv.org/abs/2201.13427v2) | ArXiv |  | 1 |
+| [Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective](http://arxiv.org/abs/2610.03185v1) | ArXiv |  | 1 |
 | [Game Arena: Strategic LLM Evaluation in Competitive Environments](http://arxiv.org/abs/2609.31473v1) | ArXiv |  | 1 |
 | [GameWAM: A World Action Model for Video Games](http://arxiv.org/abs/2608.26200v2) | ArXiv |  | 1 |
 | [Gen AI in Proof-based Math Courses: A Pilot Study](http://arxiv.org/abs/2509.13570v2) | ArXiv |  | 1 |
@@ -363,15 +366,18 @@
 | [Item Response Theory for AI Safety](http://arxiv.org/abs/2608.05086v1) | ArXiv |  | 1 |
 | [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](http://arxiv.org/abs/2609.10451v1) | ArXiv |  | 1 |
 | [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](http://arxiv.org/abs/2609.30186v1) | ArXiv |  | 1 |
+| [JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs](http://arxiv.org/abs/2610.03296v1) | ArXiv |  | 1 |
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
+| [KV$^2$: A Self-Refining KV Cache](http://arxiv.org/abs/2610.03198v1) | ArXiv |  | 1 |
 | [KV-Kaizen: Learning Context-Adaptive Cache Compression Choices](http://arxiv.org/abs/2609.37988v2) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
 | [Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](http://arxiv.org/abs/2609.23378v1) | ArXiv |  | 1 |
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
+| [Learning a Fact Is Not Learning How to Retrieve It](http://arxiv.org/abs/2610.03251v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
 | [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](http://arxiv.org/abs/2609.38143v1) | ArXiv |  | 1 |
@@ -635,6 +641,7 @@
 | [TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](http://arxiv.org/abs/2606.27161v2) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
+| [Toward SLM-based agentic task-tool intent matching](http://arxiv.org/abs/2610.03213v1) | ArXiv |  | 1 |
 | [Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks](http://arxiv.org/abs/2607.25914v1) | ArXiv |  | 1 |
 | [Towards a Belief-Based World Model for LLM Agents](http://arxiv.org/abs/2609.00455v2) | ArXiv |  | 1 |
 | [Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v1) | ArXiv |  | 1 |

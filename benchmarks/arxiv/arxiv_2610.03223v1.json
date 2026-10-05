@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03223v1",
+  "schema_version": "1.0",
+  "name": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03223v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03223v1",
+    "updated": "2026-10-02T12:38:53Z",
+    "published": "2026-10-02T12:38:53Z",
+    "title": "AdaStep: Adaptive Step Credit Weighting for Agentic Reinforcement Learning",
+    "summary": "Long-horizon LLM agents are typically trained with sparse outcome rewards, making trajectory-level objectives too coarse to distinguish the contribution of individual decisions. Step-level credit assignment provides finer-grained supervision, but its estimates can be unreliable because observed returns also depend on subsequent actions, environment transitions, and trajectory length. We propose AdaStep, an Adaptive Step-credit weighting method that controls how strongly each group-derived local advantage modifies the trajectory-level signal. We formulate this weighting as a mean-squared-error estimation problem for the latent step advantage and, under an explicit conditional sampling assumption, derive an optimal per-state shrinkage coefficient. The coefficient admits a signal-to-total-variance interpretation: it preserves local credit when return variation is attributable to the selected action and suppresses it when variation is dominated by downstream randomness. AdaStep requires only lightweight scalar computation, with no critic, additional rollouts, or extra model inference. Experiments with three model backbones on ALFWorld, WebShop, and ScienceWorld show consistent improvements over baselines at low computational cost.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:38:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03223v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

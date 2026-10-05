@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03234v1",
+  "schema_version": "1.0",
+  "name": "WAMpy: Efficient Synthesis of Prolog Programs in Python",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03234v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.PL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03234v1",
+    "updated": "2026-10-02T12:44:26Z",
+    "published": "2026-10-02T12:44:26Z",
+    "title": "WAMpy: Efficient Synthesis of Prolog Programs in Python",
+    "summary": "We present WAMpy, a Python framework optimized for synthesizing Prolog programs. Unlike general-purpose Prolog systems, WAMpy targets workloads that repeatedly generate and evaluate small candidate programs. WAMpy compiles Prolog clauses into NumPy array-based WAM instructions and supports partial recompilation of hypotheses against fixed background knowledge. Performance-critical routines are accelerated using Numba just-in-time (JIT) compilation. In a benchmark of repeated compilation-and-evaluation workloads, WAMpy improves end-to-end performance compared with SWI-Prolog accessed from Python using Janus.",
+    "primary_category": "cs.PL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T12:44:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03234v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

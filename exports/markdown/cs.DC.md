@@ -45,3 +45,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36954v1](http://arxiv.org/abs/2609.36954v1)
 
+## ARGOS: Reinforcement Learning-Driven Multidimensional Elasticity for Service Orchestration in the Computing Continuum
+- **ID**: arxiv_2609.37085v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.37085v2](http://arxiv.org/abs/2609.37085v2)
+
+## Lightweight and Resource-Efficient Perception for Robotic Guide Dogs
+- **ID**: arxiv_2610.03187v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03187v1](http://arxiv.org/abs/2610.03187v1)
+

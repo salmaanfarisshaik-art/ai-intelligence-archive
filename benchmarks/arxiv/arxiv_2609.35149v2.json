@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35149v2",
+  "schema_version": "1.0",
+  "name": "From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35149v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35149v2",
+    "updated": "2026-10-02T13:41:01Z",
+    "published": "2026-09-28T13:31:46Z",
+    "title": "From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale",
+    "summary": "Deploying, migrating, or scaling an agent can change its model, harness, infrastructure, application, and intended users. We formulate agent calibration as standards-first adaptation: define basic-capability, technical-environment, and user-context standards; diagnose gaps; generate and apply revisions; and recheck the same standards within fixed budgets. These standard families interact across information, harness, and user-acceptance layers. Source behavior is diagnostic, not a perfect reference or capability ceiling: model replacement can turn correct answers into errors or errors into correct answers. Qualification requires all mandatory known tests, actual end-to-end deployment paths, hard predicates, and declared task/user minimums to pass; aggregate gains cannot erase hard failures. Revisions may change tools or harnesses, add demonstrations and task descriptions, or use validated target-native trajectories to train a policy, controller, or compact skill model served through the harness. Semantic checkpoints validate executed artifacts, localize repair, and revalidate dependencies. The loop exports reusable configuration or training artifacts with a qualification record, while final task outputs undergo their own checks. Independent factual evidence precedes relative preference judgment; DPO and GRPO optimize policies rather than establish truth. Frozen held-out evaluation tests generalization and compares equal-budget target-native optimization. We specify an automatic calibration tool using limited authorized user trajectories and tests as future work. The framework and tool remain proposals; confirmatory empirical validation is pending.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T13:41:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35149v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

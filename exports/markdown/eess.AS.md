@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.05126v2](http://arxiv.org/abs/2512.05126v2)
 
+## Controllable Accent Normalization via Discrete Diffusion
+- **ID**: arxiv_2603.14275v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.14275v3](http://arxiv.org/abs/2603.14275v3)
+
 ## The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs
 - **ID**: arxiv_2603.16941v2
 - **Source**: ArXiv

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.34409v2",
+  "schema_version": "1.0",
+  "name": "MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.34409v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.34409v2",
+    "updated": "2026-10-02T11:58:52Z",
+    "published": "2026-09-28T06:23:03Z",
+    "title": "MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series",
+    "summary": "Naturally irregular time series combine asynchronous observations, missing values, unequal lengths, and nonuniform sampling, while dense adapters can discard temporal structure. We propose a mask-aware state space classifier for irregular time series (MASCIT), which supplies observation masks to the encoder and excludes invalid steps from gated temporal aggregation. Across 34 irregular time series datasets, MASCIT yielded the strongest aggregate point estimate and was the only evaluated neural model with three-seed results on every dataset. MASCIT retained the lowest point rank across six overlapping irregularity indicators, while factorial ablations favored partial over full selectivity. These results support selective state space models as effective, executable backbones for naturally irregular time series classification.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T11:58:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.34409v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

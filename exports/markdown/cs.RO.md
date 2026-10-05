@@ -755,3 +755,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02204v1](http://arxiv.org/abs/2610.02204v1)
 
+## HexVIO: Towards All-Day Stereo-Inertial Tracking Through Commodity DSPs
+- **ID**: arxiv_2610.03283v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03283v1](http://arxiv.org/abs/2610.03283v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03163v1",
+  "schema_version": "1.0",
+  "name": "Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03163v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03163v1",
+    "updated": "2026-10-02T11:43:14Z",
+    "published": "2026-10-02T11:43:14Z",
+    "title": "Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer",
+    "summary": "Adapting large language models to an individual author's style from a few examples is challenging, and scientific writing sharpens the difficulty: formal conventions leave little surface variation, and authors write about their own topics, so extracted ``style'' easily entangles with content. We study style-conditioned abstract generation from a few example abstracts per author and propose three methods: (1) contrastive activation steering, (2) a network that predicts steering vectors, and (3) a hypernetwork that predicts LoRA adapters. We find a consistent trade-off between style imitation and output quality: fine-tuning buys most of the available style signal but forfeits fluency, while the hypernetwork achieves the best trade-off on both seen and unseen authors. Our steering operates at author level, contrasting an author's abstracts against style-neutral generations for the same content. This holds topic fixed, removes the need for a predefined style inventory, and outperforms inventory-based steering. % [EDIT 1a] softened \"no single optimal axis\" claim Moreover, our analyses demonstrate that manually extracted and predicted steering vectors are near-orthogonal yet score comparably, indicating that style conditioning here can admit at least two unrelated directions rather than requiring one particular axis.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T01:36:42Z",
+  "last_updated": "2026-10-02T11:43:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03163v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

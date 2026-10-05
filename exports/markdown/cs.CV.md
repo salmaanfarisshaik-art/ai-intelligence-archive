@@ -855,6 +855,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02022v2](http://arxiv.org/abs/2606.02022v2)
 
+## Low-Frequency Shortcuts in Texture-Driven Visual Learning
+- **ID**: arxiv_2606.03493v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.03493v2](http://arxiv.org/abs/2606.03493v2)
+
 ## OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs
 - **ID**: arxiv_2606.03890v2
 - **Source**: ArXiv
@@ -4985,6 +4990,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31620v1](http://arxiv.org/abs/2609.31620v1)
 
+## Transform-Aligned Learned Features for Lossy Point Cloud Attribute Compression
+- **ID**: arxiv_2609.34834v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.34834v2](http://arxiv.org/abs/2609.34834v2)
+
 ## From Scores to Samples: Elastic Forcing for Autoregressive Video Generation
 - **ID**: arxiv_2609.35491v3
 - **Source**: ArXiv
@@ -5089,6 +5099,11 @@
 - **ID**: arxiv_2609.36957v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36957v1](http://arxiv.org/abs/2609.36957v1)
+
+## TomoTransformer: Towards a Foundation Model for CT Reconstruction
+- **ID**: arxiv_2609.37605v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.37605v2](http://arxiv.org/abs/2609.37605v2)
 
 ## RS-OPSD: Reliable Privileged On-Policy-Self-Distillation for Ultra-High-Resolution Remote Sensing VQA
 - **ID**: arxiv_2609.38072v1
@@ -5369,4 +5384,59 @@
 - **ID**: arxiv_2610.02210v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02210v1](http://arxiv.org/abs/2610.02210v1)
+
+## Geometry-Aligned Semantic Matching for Cross-Modal Planar Image Registration
+- **ID**: arxiv_2610.03167v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03167v1](http://arxiv.org/abs/2610.03167v1)
+
+## PocketSplat: Mobile Gaussian Reconstruction via World-Space Latent Allocatio
+- **ID**: arxiv_2610.03192v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03192v1](http://arxiv.org/abs/2610.03192v1)
+
+## Bridging Research and Practice: A Systematic Evaluation of Generalist and Dermatology-Specific Models in Clinical Skin Lesion Classification
+- **ID**: arxiv_2610.03193v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03193v1](http://arxiv.org/abs/2610.03193v1)
+
+## Contextual Flow Matching: Adaptive Step Selection in Flow Models for Efficient Visual Generation
+- **ID**: arxiv_2610.03202v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03202v1](http://arxiv.org/abs/2610.03202v1)
+
+## VisionMX: Unlocking Microscaling Post-Training Quantization for Vision Models
+- **ID**: arxiv_2610.03218v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03218v1](http://arxiv.org/abs/2610.03218v1)
+
+## VDOT++: Unified Few-Step Video Generation via Unbalanced Optimal Transport Distillation
+- **ID**: arxiv_2610.03221v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03221v1](http://arxiv.org/abs/2610.03221v1)
+
+## Uncertainty as a Proxy for Semantic Correctness in Diffusion-Based Medical Image Synthesis
+- **ID**: arxiv_2610.03224v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03224v1](http://arxiv.org/abs/2610.03224v1)
+
+## EmbPASS: Towards Cross-Embodiment Open Panoramic Segmentation
+- **ID**: arxiv_2610.03248v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03248v1](http://arxiv.org/abs/2610.03248v1)
+
+## COSMI: COmpositional Synthesis of Multi-object Interactions
+- **ID**: arxiv_2610.03252v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03252v1](http://arxiv.org/abs/2610.03252v1)
+
+## Consecutive Posterior Fusion for Diffusive Recovery of Unobservable Image Structures
+- **ID**: arxiv_2610.03261v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03261v1](http://arxiv.org/abs/2610.03261v1)
+
+## Moving Forward with Video Saliency: A New Dataset and Benchmark where Motion Matters
+- **ID**: arxiv_2610.03276v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03276v1](http://arxiv.org/abs/2610.03276v1)
 
