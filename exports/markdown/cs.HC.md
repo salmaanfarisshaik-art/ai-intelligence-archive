@@ -1,5 +1,10 @@
 # Cs.Hc Export
 
+## Hybrid Reasoning Systems That Prioritize and Enhance Human Intelligence
+- **ID**: arxiv_2504.13477v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.13477v3](http://arxiv.org/abs/2504.13477v3)
+
 ## AI LEGO: Scaffolding Cross-Functional Collaboration in Industrial Responsible AI Practices during Early Design Stages
 - **ID**: arxiv_2505.10300v2
 - **Source**: ArXiv
@@ -69,6 +74,11 @@
 - **ID**: arxiv_2606.19286v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.19286v1](http://arxiv.org/abs/2606.19286v1)
+
+## Assistant or Actor? Student Trust, Control, and Delegation Regret When Using a General-Purpose AI Agent
+- **ID**: arxiv_2607.18257v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18257v2](http://arxiv.org/abs/2607.18257v2)
 
 ## FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization
 - **ID**: arxiv_2607.20382v1

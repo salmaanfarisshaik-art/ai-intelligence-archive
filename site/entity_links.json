@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:38:01Z",
+  "generated_at": "2026-10-05T08:22:46Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -5962,6 +5962,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_onnx_community_qwen2_5_0_5b_instruct",
+      "target_id": "hf_Qwen_Qwen2.5-0.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_open_thoughts_openthinker3_7b",
       "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
       "type": "derived_from"
@@ -8463,6 +8468,11 @@
     },
     {
       "source_id": "model_unsloth_llama_3_3_70b_instruct",
+      "target_id": "hf_meta-llama_Llama-3.3-70B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_llama_3_3_70b_instruct_gguf",
       "target_id": "hf_meta-llama_Llama-3.3-70B-Instruct",
       "type": "derived_from"
     },

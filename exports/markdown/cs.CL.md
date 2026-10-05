@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2210.05487v3](http://arxiv.org/abs/2210.05487v3)
 
+## ETHER: Aligning Emergent Communication for Hindsight Experience Replay
+- **ID**: arxiv_2307.15494v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2307.15494v4](http://arxiv.org/abs/2307.15494v4)
+
 ## Authorship identification under domain shift: a survey of stylistic measures and learned author representations
 - **ID**: arxiv_2310.00436v2
 - **Source**: ArXiv
@@ -539,6 +544,11 @@
 - **ID**: arxiv_2604.14121v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.14121v3](http://arxiv.org/abs/2604.14121v3)
+
+## Rhetorical Questions in LLM Representations: A Linear Probing Study
+- **ID**: arxiv_2604.14128v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.14128v3](http://arxiv.org/abs/2604.14128v3)
 
 ## Reasoning Models Know What's Important, and Encode It in Their Activations
 - **ID**: arxiv_2604.18307v2
@@ -2520,6 +2530,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29624v1](http://arxiv.org/abs/2608.29624v1)
 
+## Stratified Consistency Distillation for Natural Language Formalization
+- **ID**: arxiv_2608.30258v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.30258v3](http://arxiv.org/abs/2608.30258v3)
+
 ## Mind the Gap: Theory-of-Mind-Grounded Friction for Epistemic Alignment
 - **ID**: arxiv_2608.30719v2
 - **Source**: ArXiv
@@ -3360,6 +3375,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28471v1](http://arxiv.org/abs/2609.28471v1)
 
+## LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
+- **ID**: arxiv_2609.29672v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.29672v2](http://arxiv.org/abs/2609.29672v2)
+
 ## Does a model's stated reason for rejecting a candidate do any work?
 - **ID**: arxiv_2609.30151v1
 - **Source**: ArXiv
@@ -3515,6 +3535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38169v1](http://arxiv.org/abs/2609.38169v1)
 
+## Framing the Narrative: Ideological Mimicry in Large Language Models
+- **ID**: arxiv_2609.38256v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38256v2](http://arxiv.org/abs/2609.38256v2)
+
 ## Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports
 - **ID**: arxiv_2609.40236v1
 - **Source**: ArXiv
@@ -3604,4 +3629,24 @@
 - **ID**: arxiv_2610.03268v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03268v1](http://arxiv.org/abs/2610.03268v1)
+
+## Writerslogic at PAN 2026: Process over Content for Robust Detection under Domain Shift
+- **ID**: arxiv_2610.03565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03565v1](http://arxiv.org/abs/2610.03565v1)
+
+## Writerslogic at the CLEF 2026 SimpleText Track: Multi-Candidate LLM Simplification and Stacked Complexity Spotting
+- **ID**: arxiv_2610.03567v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03567v1](http://arxiv.org/abs/2610.03567v1)
+
+## FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs
+- **ID**: arxiv_2610.03625v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03625v1](http://arxiv.org/abs/2610.03625v1)
+
+## Language Models that Play Chess and Explain Their Moves
+- **ID**: arxiv_2610.03695v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03695v1](http://arxiv.org/abs/2610.03695v1)
 

@@ -225,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.13359v2](http://arxiv.org/abs/2603.13359v2)
 
+## On the Tip of the Tongue: Why LLMs Hallucinate Answers They Can Decode
+- **ID**: arxiv_2603.13911v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.13911v2](http://arxiv.org/abs/2603.13911v2)
+
 ## InterPol: De-anonymizing LM Arena via Interpolated Preference Learning
 - **ID**: arxiv_2603.15220v2
 - **Source**: ArXiv
@@ -254,6 +259,11 @@
 - **ID**: arxiv_2604.01363v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01363v2](http://arxiv.org/abs/2604.01363v2)
+
+## The Hitchhikers Guide to Rubric Quality Understanding and Enrichment
+- **ID**: arxiv_2604.01375v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01375v4](http://arxiv.org/abs/2604.01375v4)
 
 ## Retrieval-aligned Tabular Foundation Models Enable Robust Clinical Risk Prediction in Electronic Health Records Under Real-world Constraints
 - **ID**: arxiv_2604.01841v4
@@ -1244,6 +1254,11 @@
 - **ID**: arxiv_2607.27191v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.27191v1](http://arxiv.org/abs/2607.27191v1)
+
+## World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models
+- **ID**: arxiv_2607.27599v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.27599v2](http://arxiv.org/abs/2607.27599v2)
 
 ## InfoOps Bench: A live information operations safety benchmark
 - **ID**: arxiv_2607.28503v1
@@ -3494,4 +3509,59 @@
 - **ID**: arxiv_2610.03296v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03296v1](http://arxiv.org/abs/2610.03296v1)
+
+## Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows
+- **ID**: arxiv_2610.03564v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03564v1](http://arxiv.org/abs/2610.03564v1)
+
+## Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing
+- **ID**: arxiv_2610.03570v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03570v1](http://arxiv.org/abs/2610.03570v1)
+
+## HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents
+- **ID**: arxiv_2610.03574v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03574v1](http://arxiv.org/abs/2610.03574v1)
+
+## HazardWeaver: Scientific Route Selection for Hazard Analysis Agents
+- **ID**: arxiv_2610.03591v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03591v1](http://arxiv.org/abs/2610.03591v1)
+
+## Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos
+- **ID**: arxiv_2610.03618v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03618v1](http://arxiv.org/abs/2610.03618v1)
+
+## Depth as Time in One-Step Generative Models
+- **ID**: arxiv_2610.03626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03626v1](http://arxiv.org/abs/2610.03626v1)
+
+## NeutronGym: Physics-Graded Neutron Instrument Design for LLM Agents
+- **ID**: arxiv_2610.03631v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03631v1](http://arxiv.org/abs/2610.03631v1)
+
+## Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents
+- **ID**: arxiv_2610.03634v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03634v1](http://arxiv.org/abs/2610.03634v1)
+
+## Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System
+- **ID**: arxiv_2610.03639v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03639v1](http://arxiv.org/abs/2610.03639v1)
+
+## MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search
+- **ID**: arxiv_2610.03651v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03651v1](http://arxiv.org/abs/2610.03651v1)
+
+## Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies
+- **ID**: arxiv_2610.03693v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03693v1](http://arxiv.org/abs/2610.03693v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03698v1",
+  "schema_version": "1.0",
+  "name": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03698v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03698v1",
+    "updated": "2026-10-02T17:55:06Z",
+    "published": "2026-10-02T17:55:06Z",
+    "title": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
+    "summary": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedicated register tokens to reduce high-norm out- lier patch tokens that emerge in background re- gions, yet the semantic and functional roles of both token types have not been fully established. In this paper, we analyze these roles by training sparse autoencoders (SAEs) on register-token and outlier-token activations in DINOv2. Using an automated interpretability pipeline, UMAP clus- tering, and CLIP-space cross-checks, we find that register-token features are more strongly associ- ated with high-level semantic concepts. Outlier- token features, by contrast, are more often associ- ated with lower-level structural, background, and texture-dominant patterns. Causal ablations fur- ther reveal a substantial functional asymmetry: disrupting top-activating register-derived features produces a 48.17% drop in representation cosine similarity, whereas disrupting outlier-derived fea- tures produces only a 0.31% drop. Together, our results provide evidence for token specialization in self-supervised ViTs.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:55:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03698v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

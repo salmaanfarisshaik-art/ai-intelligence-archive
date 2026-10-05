@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03618v1",
+  "schema_version": "1.0",
+  "name": "Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03618v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03618v1",
+    "updated": "2026-10-02T17:14:45Z",
+    "published": "2026-10-02T17:14:45Z",
+    "title": "Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos",
+    "summary": "Continuous emotion regression estimates moment-to-moment valence and arousal while a viewer watches a video. In familiar-video deployment, responses fron training participant-specific estimate, and prior-dominating fixed fusion tests whether physiology adds residual correction. In five-fold subject-held-out evaluation on 24was within 0.05 and 0.32 MAE of fusion in the internal and external evaluations, respectively. Source-explicit ablations showed that video identity and within-video tine accounted for most of the reduction, while EG-FNIRS gains were smaller and varied across participants and videos. These results identify the video-time prior as a strong, low-cost baseline and position EEG-fNIRS as an optional residual signal for familiar-video emotion regression.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:14:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03618v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

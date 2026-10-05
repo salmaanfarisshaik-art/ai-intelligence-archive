@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.15509v3](http://arxiv.org/abs/2403.15509v3)
 
+## Mitigating Watermark Forgery in Generative Models via Randomized Key Selection
+- **ID**: arxiv_2507.07871v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.07871v5](http://arxiv.org/abs/2507.07871v5)
+
 ## WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents
 - **ID**: arxiv_2510.01354v2
 - **Source**: ArXiv
@@ -384,4 +389,9 @@
 - **ID**: arxiv_2610.03166v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03166v1](http://arxiv.org/abs/2610.03166v1)
+
+## Threat-Preserving Representation Sensitivity in Agent-Security Benchmarks
+- **ID**: arxiv_2610.03585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03585v1](http://arxiv.org/abs/2610.03585v1)
 

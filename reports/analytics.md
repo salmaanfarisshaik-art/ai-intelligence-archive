@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90346
+**Total Entities Tracked**: 90396
 
 ## Category Distribution
 
@@ -11,18 +11,18 @@
 - **models**: 1782
 - **news**: 1271
 - **dataset**: 1193
-- **cs.CV**: 1088
+- **cs.CV**: 1101
 - **text-generation**: 1012
-- **cs.CL**: 721
-- **cs.AI**: 699
-- **cs.LG**: 388
-- **cs.RO**: 152
-- **cs.CR**: 77
+- **cs.CL**: 730
+- **cs.AI**: 713
+- **cs.LG**: 391
+- **cs.RO**: 156
+- **cs.CR**: 79
 - **cs.SE**: 65
 - **tool**: 53
-- **cs.HC**: 39
+- **cs.HC**: 41
 - **cs.IR**: 35
-- **cs.SD**: 34
+- **cs.SD**: 35
 - **cs.CY**: 31
 - **eess.IV**: 17
 - **eess.AS**: 16
@@ -49,10 +49,10 @@
 - **stat.ME**: 7
 - **IDE Rule**: 6
 - **cs.MM**: 6
+- **cs.NE**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
 - **cs.CE**: 5
-- **cs.NE**: 5
 - **cs.PL**: 5
 - **econ.GN**: 5
 - **AI News**: 4
@@ -68,6 +68,7 @@
 - **image-text-to-text**: 2
 - **q-bio.QM**: 2
 - **q-fin.PM**: 2
+- **q-fin.TR**: 2
 - **text-ranking**: 2
 - **astro-ph.EP**: 1
 - **astro-ph.HE**: 1
@@ -91,13 +92,12 @@
 - **physics.plasm-ph**: 1
 - **q-bio.GN**: 1
 - **q-fin.RM**: 1
-- **q-fin.TR**: 1
 
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
 - ****: 31142
-- **ArXiv**: 3568
+- **ArXiv**: 3618
 - **Hugging Face**: 2019
 - **OpenAI Blog**: 1257
 - **HuggingFace Datasets**: 193
@@ -142,23 +142,23 @@
 
 - **region:us**: 276
 - **text-generation**: 84
-- **library:datasets**: 83
-- **library:mlcroissant**: 83
-- **modality:text**: 78
+- **library:datasets**: 82
+- **library:mlcroissant**: 82
+- **modality:text**: 77
 - **license:apache-2.0**: 73
 - **endpoints_compatible**: 71
 - **transformers**: 71
 - **safetensors**: 70
 - **language:en**: 69
 - **conversational**: 65
-- **library:polars**: 63
-- **format:parquet**: 49
+- **library:polars**: 62
 - **license:mit**: 49
+- **format:parquet**: 48
 - **text-generation-inference**: 38
 - **deploy:azure**: 34
 - **library:pandas**: 32
-- **library:dask**: 31
 - **en**: 30
+- **library:dask**: 30
 - **task_categories:text-generation**: 28
 - **eval-results**: 26
 - **enterprise**: 25
@@ -184,9 +184,9 @@
 - **fp8**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
-- **size_categories:1M<n<10M**: 11
 - **size_categories:n>1T**: 11
 - **custom_code**: 10
 - **language:zh**: 10
 - **modality:audio**: 10
+- **size_categories:1M<n<10M**: 10
 - **python**: 9

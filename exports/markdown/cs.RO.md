@@ -1,5 +1,10 @@
 # Cs.Ro Export
 
+## Learning Low-Frequency Motion Control for Robust and Dynamic Robot Locomotion
+- **ID**: arxiv_2209.14887v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2209.14887v3](http://arxiv.org/abs/2209.14887v3)
+
 ## Seeing Through Uncertainty: Free-Energy-Inspired Real-Time Adaptation for Robust Visual Navigation
 - **ID**: arxiv_2403.01977v5
 - **Source**: ArXiv
@@ -209,6 +214,11 @@
 - **ID**: arxiv_2607.14393v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.14393v2](http://arxiv.org/abs/2607.14393v2)
+
+## DriftWorld: Fast World Modeling through Drifting
+- **ID**: arxiv_2607.15065v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15065v3](http://arxiv.org/abs/2607.15065v3)
 
 ## RoboTTT: Context Scaling for Robot Policies
 - **ID**: arxiv_2607.15275v1
@@ -725,6 +735,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38178v1](http://arxiv.org/abs/2609.38178v1)
 
+## Tactile Curiosity Drives Robot Interaction
+- **ID**: arxiv_2609.40134v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40134v2](http://arxiv.org/abs/2609.40134v2)
+
 ## DynaHarness: A Dynamic Physical Harness for Self-Evolving Robot Agents
 - **ID**: arxiv_2609.40306v1
 - **Source**: ArXiv
@@ -759,4 +774,9 @@
 - **ID**: arxiv_2610.03283v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03283v1](http://arxiv.org/abs/2610.03283v1)
+
+## EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras
+- **ID**: arxiv_2610.03710v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03710v1](http://arxiv.org/abs/2610.03710v1)
 

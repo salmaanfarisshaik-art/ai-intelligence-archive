@@ -170,3 +170,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38157v1](http://arxiv.org/abs/2609.38157v1)
 
+## Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles
+- **ID**: arxiv_2610.03656v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03656v1](http://arxiv.org/abs/2610.03656v1)
+

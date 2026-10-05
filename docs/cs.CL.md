@@ -247,6 +247,7 @@
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
 | [Epistemic orientation predicts legislative effectiveness among members of the US Congress](http://arxiv.org/abs/2609.11865v1) | ArXiv |  | 1 |
 | [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
+| [ETHER: Aligning Emergent Communication for Hindsight Experience Replay](http://arxiv.org/abs/2307.15494v4) | ArXiv |  | 1 |
 | [Evaluating Cultural Awareness of LLMs for Haitian Creole](http://arxiv.org/abs/2609.31506v1) | ArXiv |  | 1 |
 | [Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases](http://arxiv.org/abs/2607.25933v1) | ArXiv |  | 1 |
 | [Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints](http://arxiv.org/abs/2609.28007v1) | ArXiv |  | 1 |
@@ -261,6 +262,7 @@
 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](http://arxiv.org/abs/2605.30407v3) | ArXiv |  | 1 |
 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](http://arxiv.org/abs/2606.16934v1) | ArXiv |  | 1 |
 | [Exposure is Optional: Learning Unlike Coordination in Language Models](http://arxiv.org/abs/2607.20251v1) | ArXiv |  | 1 |
+| [FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs](http://arxiv.org/abs/2610.03625v1) | ArXiv |  | 1 |
 | [False positive bias in AI-powered speech-based cognitive screening for multilingual English speakers in the UK](http://arxiv.org/abs/2602.13047v2) | ArXiv |  | 1 |
 | [Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](http://arxiv.org/abs/2606.02955v2) | ArXiv |  | 1 |
 | [Few-Shot Biomedical Relation Extraction with Large Language Models: A Viable Alternative to Supervised Learning?](http://arxiv.org/abs/2606.15412v2) | ArXiv |  | 1 |
@@ -271,6 +273,7 @@
 | [FlexSQL: Flexible Exploration and Execution Make Better Text-to-SQL Agents](http://arxiv.org/abs/2605.02815v2) | ArXiv |  | 1 |
 | [Forecasting With LLMs: Improved Generalization Through Feature Steering](http://arxiv.org/abs/2606.27199v2) | ArXiv |  | 1 |
 | [FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models](http://arxiv.org/abs/2608.20153v2) | ArXiv |  | 1 |
+| [Framing the Narrative: Ideological Mimicry in Large Language Models](http://arxiv.org/abs/2609.38256v2) | ArXiv |  | 1 |
 | [Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States](http://arxiv.org/abs/2606.19334v1) | ArXiv |  | 2 |
 | [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](http://arxiv.org/abs/2607.29602v1) | ArXiv |  | 1 |
 | [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](http://arxiv.org/abs/2607.29602v2) | ArXiv |  | 1 |
@@ -368,6 +371,7 @@
 | [LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes](http://arxiv.org/abs/2607.12310v2) | ArXiv |  | 1 |
 | [Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation](http://arxiv.org/abs/2608.18041v1) | ArXiv |  | 1 |
 | [Language Identification via Compositional Data Analysis: A Linear-Time Classifier Based on Log-Ratio Geometry](http://arxiv.org/abs/2607.15238v1) | ArXiv |  | 1 |
+| [Language Models that Play Chess and Explain Their Moves](http://arxiv.org/abs/2610.03695v1) | ArXiv |  | 1 |
 | [Language-Aware Distillation for Multilingual Instruction-Following Speech LLMs with ASR-Only Supervision](http://arxiv.org/abs/2603.07025v2) | ArXiv |  | 1 |
 | [Large Emotional World Model](http://arxiv.org/abs/2512.24149v2) | ArXiv |  | 1 |
 | [Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types](http://arxiv.org/abs/2604.09544v3) | ArXiv |  | 1 |
@@ -400,6 +404,7 @@
 | [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
 | [LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints](http://arxiv.org/abs/2410.06458v2) | ArXiv |  | 1 |
 | [LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](http://arxiv.org/abs/2502.15007v2) | ArXiv |  | 1 |
+| [LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity](http://arxiv.org/abs/2609.29672v2) | ArXiv |  | 1 |
 | [LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
 | [Localizing Persona Representations in LLMs](http://arxiv.org/abs/2505.24539v4) | ArXiv |  | 1 |
 | [Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility](http://arxiv.org/abs/2608.03930v1) | ArXiv |  | 1 |
@@ -539,6 +544,7 @@
 | [Rethinking Speech-LLM Integration for ASR: Effective Joint Speech-Text Training by Interleaving](http://arxiv.org/abs/2607.01733v2) | ArXiv |  | 1 |
 | [RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning](http://arxiv.org/abs/2609.20784v1) | ArXiv |  | 1 |
 | [Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales](http://arxiv.org/abs/2609.35765v1) | ArXiv |  | 1 |
+| [Rhetorical Questions in LLM Representations: A Linear Probing Study](http://arxiv.org/abs/2604.14128v3) | ArXiv |  | 1 |
 | [Right Tool, Right Job: Native-Language Evaluation, Tokenizer Sensitivity, and Methodological Findings from a French-Only BabyLM](http://arxiv.org/abs/2609.17435v1) | ArXiv |  | 1 |
 | [Risk-Controlled KV-Cache Eviction: From Memory Budgets to Risk Targets](http://arxiv.org/abs/2609.27981v1) | ArXiv |  | 1 |
 | [RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation](http://arxiv.org/abs/2609.16900v2) | ArXiv |  | 1 |
@@ -604,6 +610,7 @@
 | [Stranger, Fan, or Peer? A Systematic Study on the Role of Interlocutor in Persona-Based Dialogue Generation](http://arxiv.org/abs/2608.28467v1) | ArXiv |  | 1 |
 | [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](http://arxiv.org/abs/2605.06642v2) | ArXiv |  | 1 |
 | [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1) | ArXiv |  | 1 |
+| [Stratified Consistency Distillation for Natural Language Formalization](http://arxiv.org/abs/2608.30258v3) | ArXiv |  | 1 |
 | [string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms](http://arxiv.org/abs/2608.03984v1) | ArXiv |  | 1 |
 | [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) | ArXiv |  | 1 |
 | [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) | ArXiv |  | 1 |
@@ -722,6 +729,8 @@
 | [Wisdom in Unity: The Role of Multilingual Training in Figurative Language Identification in Proverbs](http://arxiv.org/abs/2608.08090v2) | ArXiv |  | 1 |
 | [Workload-Driven Optimization for On-Device Real-Time Subtitle Translation](http://arxiv.org/abs/2607.09957v2) | ArXiv |  | 1 |
 | [WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament](http://arxiv.org/abs/2608.04008v1) | ArXiv |  | 1 |
+| [Writerslogic at PAN 2026: Process over Content for Robust Detection under Domain Shift](http://arxiv.org/abs/2610.03565v1) | ArXiv |  | 1 |
+| [Writerslogic at the CLEF 2026 SimpleText Track: Multi-Candidate LLM Simplification and Stacked Complexity Spotting](http://arxiv.org/abs/2610.03567v1) | ArXiv |  | 1 |
 | [You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model](http://arxiv.org/abs/2608.14465v1) | ArXiv |  | 1 |
 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](http://arxiv.org/abs/2606.20482v1) | ArXiv |  | 1 |
 | [Your Voice Cloning System is Secretly a Voice Anonymizer](http://arxiv.org/abs/2608.27360v1) | ArXiv |  | 1 |

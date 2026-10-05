@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03695v1",
+  "schema_version": "1.0",
+  "name": "Language Models that Play Chess and Explain Their Moves",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03695v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03695v1",
+    "updated": "2026-10-02T17:54:22Z",
+    "published": "2026-10-02T17:54:22Z",
+    "title": "Language Models that Play Chess and Explain Their Moves",
+    "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explanations, but their weak playing strength limits the utility of their explanations. We introduce Queen, a 4B-parameter chess-language model that can explain its moves and plans while playing at the level of a typical Grandmaster. Our novel framework enables domain-specific reasoning through complementary components: an encoder-decoder architecture and an iterative distillation algorithm. This architecture integrates a silent expert chess encoder with an instruction-tuned LM through cross-attention, which we train via a question-answering curriculum to extract chess concepts from the encoder's representations. Building on this domain-adapted model, we iteratively improve its explanations with a natural-language analog of the Bellman update: the model analyzes the positions after its top candidate moves and consolidates them into an explanation of the current position, which is then distilled back into the model. Over seven iterations, our model gains over 900 Elo points (1782 to 2697), substantially surpassing all frontier models on both playing strength and puzzle accuracy, despite containing three orders of magnitude fewer parameters. Furthermore, LM-based evaluations show that our explanations are fluent and approach GPT-5.6-Sol (high) in coherence. The generality of our architecture and training procedure suggests a recipe for applying language models to domains where silent expert encoders are available, like games, robotics, and computer use.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:54:22Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03695v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -5440,3 +5440,68 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03276v1](http://arxiv.org/abs/2610.03276v1)
 
+## Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection
+- **ID**: arxiv_2610.03577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03577v1](http://arxiv.org/abs/2610.03577v1)
+
+## ManifoldSplat: Language-Guided Semantic Shape Editing of 3D Gaussian Head Avatars
+- **ID**: arxiv_2610.03599v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03599v1](http://arxiv.org/abs/2610.03599v1)
+
+## DEPICT: Scoring Text-to-Image Alignment by Answer Agreement
+- **ID**: arxiv_2610.03617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03617v1](http://arxiv.org/abs/2610.03617v1)
+
+## World Embedding Benchmark
+- **ID**: arxiv_2610.03632v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03632v1](http://arxiv.org/abs/2610.03632v1)
+
+## LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation
+- **ID**: arxiv_2610.03636v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03636v1](http://arxiv.org/abs/2610.03636v1)
+
+## On-Board Anomaly Detection for Efficient Marine Environmental Monitoring
+- **ID**: arxiv_2610.03649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03649v1](http://arxiv.org/abs/2610.03649v1)
+
+## ProAR: Learning Prospective Reasoning with Autoregressive Video Models
+- **ID**: arxiv_2610.03664v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03664v1](http://arxiv.org/abs/2610.03664v1)
+
+## SigLIP2 for aerial fire risk classification
+- **ID**: arxiv_2610.03689v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03689v1](http://arxiv.org/abs/2610.03689v1)
+
+## FlowHMR: Physically Plausible Motion Capture from Video
+- **ID**: arxiv_2610.03691v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03691v1](http://arxiv.org/abs/2610.03691v1)
+
+## Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers
+- **ID**: arxiv_2610.03698v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03698v1](http://arxiv.org/abs/2610.03698v1)
+
+## 4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes
+- **ID**: arxiv_2610.03715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03715v1](http://arxiv.org/abs/2610.03715v1)
+
+## MoSE3: Learning World-Space SE(3) at Every Pixel
+- **ID**: arxiv_2610.03716v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03716v1](http://arxiv.org/abs/2610.03716v1)
+
+## Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis
+- **ID**: arxiv_2610.03717v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03717v1](http://arxiv.org/abs/2610.03717v1)
+

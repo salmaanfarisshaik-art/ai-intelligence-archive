@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03634v1",
+  "schema_version": "1.0",
+  "name": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03634v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03634v1",
+    "updated": "2026-10-02T17:24:48Z",
+    "published": "2026-10-02T17:24:48Z",
+    "title": "Credit Where It Matters: Dependency-Aware Policy Optimization for Terminal Agents",
+    "summary": "Terminal-using agents benefit from reinforcement learning (RL) in coding, debugging, and other multi-step terminal tasks. In these tasks, later commands often depend on information or intermediate results produced by earlier commands. However, existing trajectory-level and step-level credit assignment methods do not explicitly trace the read-write dependencies through which commands affect the final outcome. Consequently, training signals could still be assigned to irrelevant operations, weakening learning from relevant steps. In this paper, we propose Dependency-Aware Group Policy Optimization (DepGPO), which uses execution dependencies between commands to guide credit assignment for terminal agents. Specifically, we construct a command dependency graph from execution traces and trace backward from the resources inspected by the task verifier. We then assign credit to relevant writes and their supporting reads along these paths, and use it to redistribute trajectory advantages across steps. Extensive comparative experiments and ablation studies demonstrate that DepGPO improves task performance and training stability on complex terminal tasks.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:24:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03634v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

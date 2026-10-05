@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03689v1",
+  "schema_version": "1.0",
+  "name": "SigLIP2 for aerial fire risk classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03689v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03689v1",
+    "updated": "2026-10-02T17:52:34Z",
+    "published": "2026-10-02T17:52:34Z",
+    "title": "SigLIP2 for aerial fire risk classification",
+    "summary": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror and an implementation that records data provenance, preprocessing and model selection. Two initial runs compare a frozen encoder probe with full model adaptation. On the validation partition, full adaptation reaches 63.05% accuracy and 58.94% macro F1, compared with 55.95% and 50.19% for the probe. Both runs use one training seed and select their checkpoint on the same validation partition. These development results support further evaluation of SigLIP2 but do not establish performance on an independent test set or unseen regions. The accompanying code provides a common framework for repeated experiments and comparisons with additional visual encoders.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:52:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03689v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

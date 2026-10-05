@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.30258v3",
+  "schema_version": "1.0",
+  "name": "Stratified Consistency Distillation for Natural Language Formalization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.30258v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.30258v3",
+    "updated": "2026-10-02T17:23:52Z",
+    "published": "2026-08-31T05:08:08Z",
+    "title": "Stratified Consistency Distillation for Natural Language Formalization",
+    "summary": "Neurosymbolic reasoning has shown promising success in addressing complex reasoning tasks by combining large language models (LLMs) and symbolic solvers. While this approach shows promise, a fundamental challenge remains: improving the accuracy of translations from natural language to logical formulas. Current methods predominantly rely on prompt engineering, which is difficult to scale across different domains and input formats. Drawing inspiration from the success of fine-tuning in other model adaptation and alignment applications, we propose a fine-tuning-based Stratified Consistency Distillation approach: (1) We generate K logical translations per input using a frontier LLM and cluster them by semantic equivalence (2) Based on the entropy level, we apply majority voting (low entropy), LLM-as-a-Judge (medium entropy), or unification/abstention (high entropy), and (3) fine-tune a smaller model using the selected pseudo-labels. Our experiments show significant and consistent improvements in both Pass@K and our novel Equivalent Logical Similarity metrics, demonstrating the potential of advancing logical translation through consistency distillation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:23:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.30258v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

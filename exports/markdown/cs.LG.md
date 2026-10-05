@@ -380,6 +380,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04893v3](http://arxiv.org/abs/2605.04893v3)
 
+## Recursive Agent Optimization
+- **ID**: arxiv_2605.06639v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06639v2](http://arxiv.org/abs/2605.06639v2)
+
 ## A Systematic Investigation of RL-Jailbreaking in LLMs
 - **ID**: arxiv_2605.07032v3
 - **Source**: ArXiv
@@ -1939,4 +1944,14 @@
 - **ID**: arxiv_2610.03265v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03265v1](http://arxiv.org/abs/2610.03265v1)
+
+## Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models
+- **ID**: arxiv_2610.03665v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03665v1](http://arxiv.org/abs/2610.03665v1)
+
+## What Should World Models Forget? Stratified Retention for Continual Adaptation
+- **ID**: arxiv_2610.03713v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03713v1](http://arxiv.org/abs/2610.03713v1)
 

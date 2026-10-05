@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.27599v2",
+  "schema_version": "1.0",
+  "name": "World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.27599v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.27599v2",
+    "updated": "2026-10-02T17:25:59Z",
+    "published": "2026-07-30T02:41:52Z",
+    "title": "World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models",
+    "summary": "Building generalizable robot agents for diverse applications remains a fundamental challenge. While imitation learning-based policies can perform well in familiar training environments, they often struggle to generalize to novel scenes, layouts, and task compositions. To this end, we present World Action Planner, an agentic robot planning system in which the agent searches for and composes executable action plans through imagination with an action-conditioned world model. The search proceeds in a coarse-to-fine manner. First, the agent performs global action optimization by reasoning over imagined world-model rollouts to identify potential failures and refine the proposed action plan. It then performs local action search, comparing the imagined future outcomes of neighboring candidates to select the best action for execution. Across compositional long-horizon tasks, novel object layouts, and real-robot planning on novel tasks without expert demonstrations, World Action Planner consistently outperforms state-of-the-art end-to-end generalist policy models and VLM planners, demonstrating the effectiveness of world-model-based action search for generalizable robot decision making. Qualitative results and videos are available at https://worldactionplanner.github.io/",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-05T08:21:29Z",
+  "last_updated": "2026-10-02T17:25:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.27599v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
