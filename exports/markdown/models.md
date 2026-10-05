@@ -4164,6 +4164,10 @@
 - **ID**: model_omni_research_tarsier_7b
 - **Source**: 
 
+## onnx-community/Qwen2.5-0.5B-Instruct
+- **ID**: model_onnx_community_qwen2_5_0_5b_instruct
+- **Source**: 
+
 ## open-thoughts/OpenThinker3-7B
 - **ID**: model_open_thoughts_openthinker3_7b
 - **Source**: 
@@ -6486,6 +6490,10 @@
 
 ## unsloth/Llama-3.3-70B-Instruct
 - **ID**: model_unsloth_llama_3_3_70b_instruct
+- **Source**: 
+
+## unsloth/Llama-3.3-70B-Instruct-GGUF
+- **ID**: model_unsloth_llama_3_3_70b_instruct_gguf
 - **Source**: 
 
 ## unsloth/llama-3-8b-bnb-4bit

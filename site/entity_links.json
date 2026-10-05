@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:22:46Z",
+  "generated_at": "2026-10-05T17:55:06Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -872,6 +872,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_autotrust_jev_27b",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_autotrust_jev_27b",
+      "target_id": "hf_SargeDev_jev-distill-corpus-v3",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_autotrust_jev_9b",
       "target_id": "hf_Qwen_Qwen3.5-9B",
       "type": "derived_from"
@@ -1267,6 +1277,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_smollm2_135m_instruct_gguf",
+      "target_id": "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_smollm2_1_7b_instruct_gguf",
       "target_id": "hf_HuggingFaceTB_SmolLM2-1.7B-Instruct",
       "type": "derived_from"
@@ -1284,6 +1299,11 @@
     {
       "source_id": "model_batiai_qwen3_6_27b_gguf",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_battleghost_qwen3_8_flash_next_uncensored_iq2_xxs_gguf",
+      "target_id": "hf_dealignai_Qwen3.8-Flash-Next-UNCENSORED-FP8",
       "type": "derived_from"
     },
     {
@@ -1369,6 +1389,11 @@
     {
       "source_id": "model_boboliu_qwen3_reranker_4b_w4a16_g128",
       "target_id": "hf_Qwen_Qwen3-Reranker-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf",
+      "target_id": "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8",
       "type": "derived_from"
     },
     {
@@ -8894,6 +8919,11 @@
     {
       "source_id": "model_upstage_solar_10_7b_instruct_v1_0",
       "target_id": "hf_upstage_SOLAR-10.7B-v1.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_useful_quants_nvidia_nemotron_3_5_lightning_30b_a3b_w4a16",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
     },
     {

@@ -5473,8 +5473,15 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],
@@ -5555,13 +5562,7 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "format:imagefolder",
-      "library:datasets",
-      "library:mlcroissant",
-      "modality:audio",
-      "modality:image",
-      "region:us",
-      "size_categories:n<1K"
+      "region:us"
     ],
     "links": {
       "related_models": [],

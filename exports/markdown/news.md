@@ -2101,6 +2101,11 @@
 - **URL**: [https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms](https://openai.com/index/estimating-worst-case-frontier-risks-of-open-weight-llms)
 
 ## 
+- **ID**: rss_https://openai.com/index/eu-text-provenance
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/eu-text-provenance](https://openai.com/index/eu-text-provenance)
+
+## 
 - **ID**: rss_https://openai.com/index/evals-drive-next-chapter-of-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/evals-drive-next-chapter-of-ai](https://openai.com/index/evals-drive-next-chapter-of-ai)
@@ -4094,6 +4099,11 @@
 - **ID**: rss_https://openai.com/index/new-and-improved-embedding-model
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/new-and-improved-embedding-model](https://openai.com/index/new-and-improved-embedding-model)
+
+## 
+- **ID**: rss_https://openai.com/index/new-chatgpt-ads-format-and-measurement
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/new-chatgpt-ads-format-and-measurement](https://openai.com/index/new-chatgpt-ads-format-and-measurement)
 
 ## 
 - **ID**: rss_https://openai.com/index/new-chatgpt-images-is-here

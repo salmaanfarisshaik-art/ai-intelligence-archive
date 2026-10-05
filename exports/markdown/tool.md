@@ -140,6 +140,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/lencx/ChatGPT](https://github.com/lencx/ChatGPT)
 
+## ui
+- **ID**: gh_585146387
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+
 ## ComfyUI
 - **ID**: gh_589831718
 - **Source**: GitHub Trending

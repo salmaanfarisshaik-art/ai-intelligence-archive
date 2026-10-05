@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:22:46Z",
+  "generated_at": "2026-10-05T17:55:06Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -333,7 +333,8 @@
       "model_huggingfacetb_smollm2_135m_instruct"
     ],
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct": [
-      "hf_HuggingFaceTB_SmolLM2-135M"
+      "hf_HuggingFaceTB_SmolLM2-135M",
+      "model_bartowski_smollm2_135m_instruct_gguf"
     ],
     "hf_HuggingFaceTB_SmolLM2-360M": [
       "model_huggingfacetb_smollm2_360m_instruct"
@@ -1233,6 +1234,7 @@
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
       "model_atomicchat_qwen3_8_27b_gguf",
+      "model_autotrust_jev_27b",
       "model_codemastercody3d_taardis_27b_full_ternary",
       "model_dealignai_bonsai_2_27b_1bit_crack_gguf",
       "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
@@ -1313,6 +1315,7 @@
       "model_salesforce_llama_xlam_2_8b_fc_r"
     ],
     "hf_SargeDev_jev-distill-corpus-v3": [
+      "model_autotrust_jev_27b",
       "model_autotrust_jev_9b"
     ],
     "hf_ServiceNow-AI_M2Lingual": [
@@ -1786,6 +1789,9 @@
     ],
     "hf_dealignai_DeepSeek-V4.1-Flash-UNCENSORED-FP8": [
       "model_pyrodog_deepseek_v4_1_flash_uncensored_dwarfstar_q2"
+    ],
+    "hf_dealignai_Qwen3.8-Flash-Next-UNCENSORED-FP8": [
+      "model_battleghost_qwen3_8_flash_next_uncensored_iq2_xxs_gguf"
     ],
     "hf_deepmind_code_contests": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -2682,7 +2688,8 @@
       "model_ggml_org_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_nvfp4_dspark",
       "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8",
-      "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf"
+      "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
+      "model_useful_quants_nvidia_nemotron_3_5_lightning_30b_a3b_w4a16"
     ],
     "hf_nvidia_NVIDIA-Nemotron-Nano-12B-v2": [
       "model_maziyarpanahi_nvidia_nemotron_nano_12b_v2_gguf",
@@ -3123,6 +3130,9 @@
     "hf_openwebtext": [
       "hf_distilbert_distilgpt2",
       "model_distilbert_distilgpt2"
+    ],
+    "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8": [
+      "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf"
     ],
     "hf_orcarouter_Qwen3.8-27B-Uncensored": [
       "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored"
@@ -3806,6 +3816,10 @@
       "hf_augmxnt_ultra-orca-boros-en-ja-v1",
       "hf_stabilityai_japanese-stablelm-base-gamma-7b"
     ],
+    "model_autotrust_jev_27b": [
+      "hf_Qwen_Qwen3.8-27B",
+      "hf_SargeDev_jev-distill-corpus-v3"
+    ],
     "model_autotrust_jev_9b": [
       "hf_Qwen_Qwen3.5-9B",
       "hf_SargeDev_jev-distill-corpus-v3"
@@ -4009,6 +4023,9 @@
     "model_bartowski_qwen_qwen3_next_80b_a3b_thinking_gguf": [
       "hf_Qwen_Qwen3-Next-80B-A3B-Thinking"
     ],
+    "model_bartowski_smollm2_135m_instruct_gguf": [
+      "hf_HuggingFaceTB_SmolLM2-135M-Instruct"
+    ],
     "model_bartowski_smollm2_1_7b_instruct_gguf": [
       "hf_HuggingFaceTB_SmolLM2-1.7B-Instruct"
     ],
@@ -4020,6 +4037,9 @@
     ],
     "model_batiai_qwen3_6_27b_gguf": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_battleghost_qwen3_8_flash_next_uncensored_iq2_xxs_gguf": [
+      "hf_dealignai_Qwen3.8-Flash-Next-UNCENSORED-FP8"
     ],
     "model_bbarn4_medgemma_27b_text_it_gptq": [
       "hf_google_medgemma-27b-text-it"
@@ -4071,6 +4091,9 @@
     ],
     "model_boboliu_qwen3_reranker_4b_w4a16_g128": [
       "hf_Qwen_Qwen3-Reranker-4B"
+    ],
+    "model_boldingbuilds_orcarouter_glm_5_3_flash_uncensored_gguf": [
+      "hf_orcarouter_GLM-5.3-Flash-Uncensored-FP8"
     ],
     "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_pq2_0_mtp_gguf": [
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
@@ -7510,6 +7533,9 @@
       "hf_allenai_ultrafeedback_binarized_cleaned",
       "hf_c-s-ale_alpaca-gpt4-data",
       "hf_upstage_SOLAR-10.7B-v1.0"
+    ],
+    "model_useful_quants_nvidia_nemotron_3_5_lightning_30b_a3b_w4a16": [
+      "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16"
     ],
     "model_utter_project_eurollm_1_7b_instruct": [
       "hf_utter-project_EuroLLM-1.7B"

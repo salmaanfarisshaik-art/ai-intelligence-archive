@@ -736,6 +736,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_openillumination_openillumination",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_project_agml_tom2024_disease_classification",
       "match_type": "exact",
       "score": 1.0
@@ -1659,6 +1664,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_coder_30b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_useful_quants_nvidia_nemotron_3_5_lightning_30b_a3b_w4a16",
       "match_type": "exact",
       "score": 5.0
     },
@@ -2825,13 +2835,6 @@
   "327": [
     {
       "entity_id": "alpaca_-3663281460774104738",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
-  "327m": [
-    {
-      "entity_id": "dataset_igniscogitationis_quantum_like_attention_framework_1_3b_untuned_validation",
       "match_type": "exact",
       "score": 1.0
     }
@@ -6066,11 +6069,6 @@
   ],
   "3b": [
     {
-      "entity_id": "dataset_igniscogitationis_quantum_like_attention_framework_1_3b_untuned_validation",
-      "match_type": "exact",
-      "score": 5.0
-    },
-    {
       "entity_id": "model_ankitai_parable_granite_4_1_3b_claude_fable_5_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -6294,6 +6292,11 @@
       "entity_id": "model_weiboai_vibethinker_3b",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "dataset_igniscogitationis_quantum_like_attention_framework_1_3b_untuned_validation",
+      "match_type": "exact",
+      "score": 4.5
     },
     {
       "entity_id": "model_kenpath_svara_tts_v1",

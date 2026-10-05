@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:21:44.633157+00:00",
+  "generated_at": "2026-10-05T17:54:14.708608+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -134305,6 +134305,11 @@
     },
     {
       "category": "tool",
+      "id": "gh_585146387",
+      "label": "ui"
+    },
+    {
+      "category": "tool",
       "id": "gh_589831718",
       "label": "ComfyUI"
     },
@@ -150805,6 +150810,11 @@
     },
     {
       "category": "models",
+      "id": "model_onnx_community_qwen2_5_0_5b_instruct",
+      "label": "onnx-community/Qwen2.5-0.5B-Instruct"
+    },
+    {
+      "category": "models",
       "id": "model_open_thoughts_openthinker3_7b",
       "label": "open-thoughts/OpenThinker3-7B"
     },
@@ -153707,6 +153717,11 @@
       "category": "models",
       "id": "model_unsloth_llama_3_3_70b_instruct",
       "label": "unsloth/Llama-3.3-70B-Instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_llama_3_3_70b_instruct_gguf",
+      "label": "unsloth/Llama-3.3-70B-Instruct-GGUF"
     },
     {
       "category": "models",
@@ -292620,6 +292635,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/index/eu-text-provenance",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/index/evals-drive-next-chapter-of-ai",
       "label": ""
     },
@@ -294611,6 +294631,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/new-and-improved-embedding-model",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/new-chatgpt-ads-format-and-measurement",
       "label": ""
     },
     {
@@ -451985,5 +452010,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 90396
+  "total_nodes": 90401
 }
