@@ -20,10 +20,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.07617v2](http://arxiv.org/abs/2508.07617v2)
 
+## User Misconceptions of LLM-Based Conversational Programming Assistants
+- **ID**: arxiv_2510.25662v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.25662v3](http://arxiv.org/abs/2510.25662v3)
+
 ## Generative AI in Action: Field Experimental Evidence from Alibaba's Customer Service Operations
 - **ID**: arxiv_2603.29888v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
+
+## EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution
+- **ID**: arxiv_2604.09568v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.09568v2](http://arxiv.org/abs/2604.09568v2)
 
 ## "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use
 - **ID**: arxiv_2605.00497v2

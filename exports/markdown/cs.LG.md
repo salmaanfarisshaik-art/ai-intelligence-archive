@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.01208v5](http://arxiv.org/abs/2512.01208v5)
 
+## The Universal Weight Subspace Hypothesis
+- **ID**: arxiv_2512.05117v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.05117v3](http://arxiv.org/abs/2512.05117v3)
+
 ## A-3PO: Accelerating Asynchronous LLM Training with Staleness-aware Proximal Policy Approximation
 - **ID**: arxiv_2512.06547v4
 - **Source**: ArXiv
@@ -280,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.01178v4](http://arxiv.org/abs/2604.01178v4)
 
+## Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method
+- **ID**: arxiv_2604.01279v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01279v2](http://arxiv.org/abs/2604.01279v2)
+
 ## From Rebound to Remedy: Understanding and Mitigating Reward Hacking via Representation Engineering
 - **ID**: arxiv_2604.01476v3
 - **Source**: ArXiv
@@ -379,6 +389,11 @@
 - **ID**: arxiv_2605.04893v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04893v3](http://arxiv.org/abs/2605.04893v3)
+
+## Is Escalation Worth It? On the Depth of LLM Cascades
+- **ID**: arxiv_2605.06350v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06350v2](http://arxiv.org/abs/2605.06350v2)
 
 ## Recursive Agent Optimization
 - **ID**: arxiv_2605.06639v2
@@ -1954,4 +1969,29 @@
 - **ID**: arxiv_2610.03713v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03713v1](http://arxiv.org/abs/2610.03713v1)
+
+## BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models
+- **ID**: arxiv_2610.06725v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06725v1](http://arxiv.org/abs/2610.06725v1)
+
+## MatrixFormer: A Foundation Model for Matrix Completion
+- **ID**: arxiv_2610.06751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06751v1](http://arxiv.org/abs/2610.06751v1)
+
+## Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution
+- **ID**: arxiv_2610.06804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06804v1](http://arxiv.org/abs/2610.06804v1)
+
+## Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors
+- **ID**: arxiv_2610.06823v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06823v1](http://arxiv.org/abs/2610.06823v1)
+
+## Base Models Can Reason By Taking a Cue From Training Data
+- **ID**: arxiv_2610.06851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06851v1](http://arxiv.org/abs/2610.06851v1)
 

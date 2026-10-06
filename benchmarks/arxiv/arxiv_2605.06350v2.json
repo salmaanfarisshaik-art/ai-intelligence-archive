@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06350v2",
+  "schema_version": "1.0",
+  "name": "Is Escalation Worth It? On the Depth of LLM Cascades",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06350v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06350v2",
+    "updated": "2026-10-05T17:33:54Z",
+    "published": "2026-05-07T14:32:27Z",
+    "title": "Is Escalation Worth It? On the Depth of LLM Cascades",
+    "summary": "LLM cascades, in which a cheap model defers to an expensive one on low-confidence queries, are widely used to reduce inference cost. Given a pool of models, a practitioner must decide how many models to include and where to set each deferral threshold. We derive first-order optimality conditions showing that, at an optimum, the ratio of expected accuracy gain to expected downstream cost is equal across deferral boundaries. A local search based on these conditions closely matches exhaustive search. We also derive an identity that decomposes the accuracy gain of score-based escalation over random escalation into two AUROC terms. Across five benchmarks and nine deferral scores, with model sequences and thresholds optimized from a pool of eight models, two-model cascades improve mean test-set accuracy over single-model selection by 2.1 to 8.2 percentage points. However, allowing more than two models does not improve mean test-set accuracy in 118 of 135 comparisons across scorers, datasets, and depth caps, and adds at most 0.43 percentage points. To understand the role of deferral scores in depth gains, we conduct counterfactual experiments with simulated confidence scores. When these scores have high AUROC and reflect only whether the current model answered correctly, allowing more than two models improves test-set accuracy on four of five benchmarks. However, these gains do not persist when the scores also reflect query difficulty shared across models, even at the same AUROC. These results suggest that gains from additional depth depend on how well the confidence score separates correct from incorrect answers for the current model compared with later models.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:33:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06350v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

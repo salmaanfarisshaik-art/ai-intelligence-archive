@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.25662v3",
+  "schema_version": "1.0",
+  "name": "User Misconceptions of LLM-Based Conversational Programming Assistants",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.25662v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.25662v3",
+    "updated": "2026-10-05T17:56:38Z",
+    "published": "2025-10-29T16:23:46Z",
+    "title": "User Misconceptions of LLM-Based Conversational Programming Assistants",
+    "summary": "Programming assistants powered by large language models (LLMs) have become widely available, with conversational assistants such as ChatGPT particularly accessible to novice programmers. However, varied tool capabilities and inconsistent availability of extensions (e.g., web search, code execution, retrieval-augmented generation) create opportunities for user misconceptions that may lead to over-reliance, unproductive practices, or insufficient quality control. We characterize the misconceptions that users of conversational LLM-based assistants may hold in programming contexts. We screened 11,429 Python-related conversations from the openly available WildChat dataset with a validated LLM annotation pipeline, then hand-annotated the 754 candidate conversations it flagged. Of these, 450 contain a prompt consistent with at least one of eight potential misconceptions: misplaced expectations about capabilities such as web access, code execution, non-text outputs, and session memory. We also characterize how the assistant responds when a prompt presupposes a capability it lacks: responses range from explicit refusal through qualified answers to fabricated compliance, and explicit refusals appear in only a minority of labeled conversations. Among the most frequent misconceptions, explicit refusals are rarest where compliance is easiest to fabricate. Our findings reinforce the need for LLM-based tools to communicate their capabilities to users through channels other than the conversation itself.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:56:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.25662v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

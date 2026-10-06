@@ -225,6 +225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.24870v3](http://arxiv.org/abs/2510.24870v3)
 
+## Oolong: Evaluating Long Context Reasoning and Aggregation Capabilities
+- **ID**: arxiv_2511.02817v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.02817v2](http://arxiv.org/abs/2511.02817v2)
+
 ## Do Androids Dream of Unseen Puppeteers? Probing for a Conspiracy Tendencies in Large Language Models
 - **ID**: arxiv_2511.03699v2
 - **Source**: ArXiv
@@ -685,6 +690,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15011v3](http://arxiv.org/abs/2605.15011v3)
 
+## Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment
+- **ID**: arxiv_2605.15168v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15168v2](http://arxiv.org/abs/2605.15168v2)
+
 ## Syntax Without Semantics: Teaching Large Language Models to Code in an Unseen Language
 - **ID**: arxiv_2605.15607v2
 - **Source**: ArXiv
@@ -714,6 +724,11 @@
 - **ID**: arxiv_2605.23954v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.23954v2](http://arxiv.org/abs/2605.23954v2)
+
+## ROC Analysis for Evaluating Translation Quality Estimation Systems
+- **ID**: arxiv_2605.24721v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.24721v2](http://arxiv.org/abs/2605.24721v2)
 
 ## H$^{2}$MT: Semantic Hierarchy-Aware Hierarchical Memory Transformer
 - **ID**: arxiv_2605.24930v2
@@ -1179,6 +1194,11 @@
 - **ID**: arxiv_2607.09957v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.09957v2](http://arxiv.org/abs/2607.09957v2)
+
+## Can a Language Model Learn Facts Continually in Its Weights?
+- **ID**: arxiv_2607.11020v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.11020v3](http://arxiv.org/abs/2607.11020v3)
 
 ## LakeQuest: A Three-Domain Benchmark for Grounded Question Answering across Data Lakes
 - **ID**: arxiv_2607.12310v2
@@ -3649,4 +3669,64 @@
 - **ID**: arxiv_2610.03695v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03695v1](http://arxiv.org/abs/2610.03695v1)
+
+## Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation
+- **ID**: arxiv_2610.06689v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06689v1](http://arxiv.org/abs/2610.06689v1)
+
+## MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks
+- **ID**: arxiv_2610.06695v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06695v1](http://arxiv.org/abs/2610.06695v1)
+
+## SAFE-MR: Evidence Sufficiency Learning for Selective Multimodal Rumor Detection
+- **ID**: arxiv_2610.06708v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06708v1](http://arxiv.org/abs/2610.06708v1)
+
+## Domain adaptation of Russian ModernBERT for long legal documents
+- **ID**: arxiv_2610.06715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06715v1](http://arxiv.org/abs/2610.06715v1)
+
+## Improving Diversity in LLM Short Story Generation
+- **ID**: arxiv_2610.06729v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06729v1](http://arxiv.org/abs/2610.06729v1)
+
+## ufakzeka-karar: An Open Turkish Typed-Decision Model with Order-Invariant Option Scoring
+- **ID**: arxiv_2610.06744v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06744v1](http://arxiv.org/abs/2610.06744v1)
+
+## Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs
+- **ID**: arxiv_2610.06750v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06750v1](http://arxiv.org/abs/2610.06750v1)
+
+## IdeaLens: Detecting AI Ideas in Long-form Writing
+- **ID**: arxiv_2610.06778v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06778v1](http://arxiv.org/abs/2610.06778v1)
+
+## T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search
+- **ID**: arxiv_2610.06782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06782v1](http://arxiv.org/abs/2610.06782v1)
+
+## PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data
+- **ID**: arxiv_2610.06825v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06825v1](http://arxiv.org/abs/2610.06825v1)
+
+## CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
+- **ID**: arxiv_2610.06829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06829v1](http://arxiv.org/abs/2610.06829v1)
+
+## MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents
+- **ID**: arxiv_2610.06830v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06830v1](http://arxiv.org/abs/2610.06830v1)
 

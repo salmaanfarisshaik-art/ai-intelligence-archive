@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.02817v2",
+  "schema_version": "1.0",
+  "name": "Oolong: Evaluating Long Context Reasoning and Aggregation Capabilities",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.02817v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.02817v2",
+    "updated": "2026-10-05T17:10:25Z",
+    "published": "2025-11-04T18:42:12Z",
+    "title": "Oolong: Evaluating Long Context Reasoning and Aggregation Capabilities",
+    "summary": "As model context lengths continue to grow, concerns about whether models effectively use the full context length have persisted. While several carefully designed long-context evaluations have recently been released, these evaluations tend to rely on retrieval from one or more sections of the context, which allows nearly all of the context tokens to be disregarded as noise. This represents only one type of task that might be performed with long context. We introduce Oolong, a benchmark of long-context reasoning tasks that require analyzing individual chunks of text on an atomic level, and then aggregating these analyses to answer distributional questions. Oolong is separated into two task sets: Oolong-synth, a set of naturalistic synthetic tasks, where we can easily ablate components of the reasoning problem; and Oolong-real, a downstream setting which requires reasoning over real-world conversational data. Oolong requires models to reason over large quantities of examples, to perform both classification and counting in-context, and to reason over temporal and user relations. Even frontier models struggle on Oolong, with GPT-5, Claude-Sonnet-4, and Gemini-2.5-Pro all achieving less than 50% accuracy on both splits at 128K. We release the data and evaluation harness for Oolong to enable further development of models that can reason over large quantities of text.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:10:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.02817v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.09259v2",
+  "schema_version": "1.0",
+  "name": "Authority-Bound Governance of Heterogeneous AI Security Decisions in Telecom and IoT Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.09259v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.09259v2",
+    "updated": "2026-10-05T17:50:23Z",
+    "published": "2026-07-10T10:19:00Z",
+    "title": "Authority-Bound Governance of Heterogeneous AI Security Decisions in Telecom and IoT Networks",
+    "summary": "Artificial intelligence (AI)-enabled security decision systems in telecom and IoT networks can draw on heterogeneous models whose outputs may trigger operational actions. Recording such decisions on a blockchain does not establish that they are authorised, applicable, policy-consistent, or still valid at execution time. This paper presents governance-2, an authority-bound and fail-closed architecture that separates upstream scientific decision formation from downstream operational enforcement. Each governed case is bound to registered dataset, model, policy, deployment, and optional refiner authorities. Smart-contract checks enforce role separation, authority compatibility, score-to-state and state-to-action consistency, lifecycle validity, replay protection, pause control, authority revocation, and exact-action execution. Evaluation uses two independent branches: a controlled spectrum-access replay with four frozen heterogeneous decision configurations and a measured radio-frequency branch based on WiFiSpectralJam. Across eight frozen measured-data decision streams, governance-2 processes 153,744 stream-case instances derived from 19,218 measured captures while preserving interference-specific semantics and unresolved review states. The full contract rejects all tested invalid operations; stateful invariant testing completes 2,000 generated transaction sequences with zero invariant violations; and single-capability ablation shows that removing an enforcement family exposes its assigned invalid operations while unrelated protections remain active. The results indicate that heterogeneous AI security decisions can share a common governance plane across telecom and IoT settings without redefining their scientific semantics.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:50:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.09259v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

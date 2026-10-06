@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.01279v2",
+  "schema_version": "1.0",
+  "name": "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.01279v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.01279v2",
+    "updated": "2026-10-05T16:57:30Z",
+    "published": "2026-04-01T18:00:07Z",
+    "title": "Sven: Singular Value Descent as a Computationally Efficient Natural Gradient Method",
+    "summary": "We introduce Sven (Singular Value dEsceNt), a new optimization algorithm for neural networks that exploits the natural decomposition of loss functions into a sum over individual data points, rather than reducing the full loss to a single scalar before computing a parameter update. Sven treats each data point's residual as a separate condition to be satisfied simultaneously, using the Moore-Penrose pseudoinverse of the loss Jacobian to find the minimum-norm parameter update that best satisfies all conditions at once. In practice, this pseudoinverse is approximated via a truncated singular value decomposition, retaining only the $k$ most significant directions. We show that Sven can be understood as a natural gradient method generalized to the overparametrized regime, recovering natural gradient descent in the underparametrized limit. We test Sven on a variety of regression and classification tasks, including small-scale language modeling with transformers, and find that it is competitive with leading baselines such as Adam, Muon, and K-FAC. We also discuss Sven's memory overhead, which presents a barrier to scaling under a naive implementation, and introduce an optimized implementation that keeps memory usage on par with standard baselines under mild restrictions on model architecture. Beyond standard machine learning benchmarks, we anticipate that Sven will find natural application in scientific computing settings where custom loss functions decompose into several conditions.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T16:57:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.01279v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

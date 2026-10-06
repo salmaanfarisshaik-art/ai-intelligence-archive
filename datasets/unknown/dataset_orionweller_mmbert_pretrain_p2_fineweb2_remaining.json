@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7695a8f15139ced4e1329401272ba9e408fcad2f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tmmBERT Pre-training Data P2\n\t\n\n\n\n[!CAUTION]\n\n\t\n\t\t\n\t\n\t\n\t\t🚨 DEPRECATED: KNOWN BUG 🚨\n\t\n\nThis is an old version of the data with a critical bug: token IDs were stored as uint16 and overflow.\nmmBERT's vocabulary is larger than 65,535, so any token ID above that limit wraps around and is silently corrupted.\n❌ Do NOT use this data for training. This card is kept for reference only (data mixture, sources, and documentation).\n✅ Fixed data: orionweller/mmBERT-pretraining-data-chunk0\nℹ️… See the full description on the dataset page: https://huggingface.co/datasets/orionweller/mmBERT-pretrain-p2-fineweb2-remaining.",
-  "downloads": 49236,
+  "downloads": 44597,
   "tags": [
     "task_categories:fill-mask",
     "language:en",

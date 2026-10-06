@@ -9,7 +9,7 @@
   "private": false,
   "sha": "006beced878d3fb7187ded8e20ee63d9c5020fcb",
   "description": "\n\t\n\t\t\n\t\tUpdate\n\t\n\n\n(2023.12.30) We added a global transformation to the camera poses to make the objects axis-aligned along the Z axis. This is preferred for some methods such as TensoRF and TriPlane. Please see here for the new camera poses.\n(2023.11.9) We fixed some incorrect links in the download script. Please use the latest script to download the data.\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for OpenIllumination\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nOur dataset comprises 64 objects, each captured from 70… See the full description on the dataset page: https://huggingface.co/datasets/OpenIllumination/OpenIllumination.",
-  "downloads": 40602,
+  "downloads": 40607,
   "tags": [
     "task_categories:other",
     "annotations_creators:expert-generated",

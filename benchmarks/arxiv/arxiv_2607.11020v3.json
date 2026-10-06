@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.11020v3",
+  "schema_version": "1.0",
+  "name": "Can a Language Model Learn Facts Continually in Its Weights?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.11020v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.11020v3",
+    "updated": "2026-10-05T17:06:43Z",
+    "published": "2026-07-13T02:39:38Z",
+    "title": "Can a Language Model Learn Facts Continually in Its Weights?",
+    "summary": "Continual learning is a long-standing capability gap between LLMs and humans. Writing new knowledge into a model's weights routinely causes it to forget old knowledge, commonly denoted as \"catastrophic forgetting\". Various modifications of supervised fine-tuning and distillation aim to mitigate catastrophic forgetting, but quantifying what (or how much) information was forgotten is often difficult. In this paper, we study whether current methods of writing knowledge into weights enable models to learn continually without forgetting. We introduce a framework for studying continual learning in the iterative regime, writing invented facts one at a time into a Qwen3 model already modified by previous writes, and varying the training data, method, and parameter update. Across SFT and off- and on-policy distillation, using LoRA or full fine-tuning, we compare repeated statement training (the same fact repeated in two formats) with varied example training (24 factual restatements) and find that varied examples comprehensively support more flexible use. After twenty sequential writes and merges, the model answers only 1% of questions about earlier facts correctly when every write uses repeated statements, compared with 46% when every write uses varied examples. We additionally show that this retention depends on the data used for the later writes, regardless of training method or parameter update, and that behavioral forgetting of an earlier fact does not erase its presence from the log-probabilities. Together, our framework neatly provides a comparison of performance across training data, training regimes, and parameter update schemes in an iterative learning task.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:06:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.11020v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

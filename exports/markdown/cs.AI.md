@@ -730,6 +730,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.22030v2](http://arxiv.org/abs/2606.22030v2)
 
+## Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents
+- **ID**: arxiv_2606.22673v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.22673v2](http://arxiv.org/abs/2606.22673v2)
+
 ## Matilda: Engine-Agnostic Search with Human Policy Guidance
 - **ID**: arxiv_2606.25176v3
 - **Source**: ArXiv
@@ -739,6 +744,11 @@
 - **ID**: arxiv_2606.26502v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.26502v4](http://arxiv.org/abs/2606.26502v4)
+
+## MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization
+- **ID**: arxiv_2606.26899v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26899v2](http://arxiv.org/abs/2606.26899v2)
 
 ## TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference
 - **ID**: arxiv_2606.27161v2
@@ -899,6 +909,11 @@
 - **ID**: arxiv_2607.15267v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.15267v1](http://arxiv.org/abs/2607.15267v1)
+
+## Cura 1T: Healthcare Foundation Model via Recursive Self-Improvement
+- **ID**: arxiv_2607.15314v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.15314v3](http://arxiv.org/abs/2607.15314v3)
 
 ## Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents
 - **ID**: arxiv_2607.15715v2
@@ -3564,4 +3579,24 @@
 - **ID**: arxiv_2610.03693v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03693v1](http://arxiv.org/abs/2610.03693v1)
+
+## Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation
+- **ID**: arxiv_2610.06765v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06765v1](http://arxiv.org/abs/2610.06765v1)
+
+## Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification
+- **ID**: arxiv_2610.06790v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06790v1](http://arxiv.org/abs/2610.06790v1)
+
+## TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts
+- **ID**: arxiv_2610.06824v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06824v1](http://arxiv.org/abs/2610.06824v1)
+
+## BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance
+- **ID**: arxiv_2610.06846v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06846v1](http://arxiv.org/abs/2610.06846v1)
 

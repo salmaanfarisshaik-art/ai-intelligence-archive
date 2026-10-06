@@ -5505,3 +5505,53 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03717v1](http://arxiv.org/abs/2610.03717v1)
 
+## GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting
+- **ID**: arxiv_2610.06688v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06688v1](http://arxiv.org/abs/2610.06688v1)
+
+## Extending Dynamic World Surface Water Mapping to Sentinel-1 with AlphaEarth Embeddings
+- **ID**: arxiv_2610.06704v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06704v1](http://arxiv.org/abs/2610.06704v1)
+
+## MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers
+- **ID**: arxiv_2610.06801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06801v1](http://arxiv.org/abs/2610.06801v1)
+
+## Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models
+- **ID**: arxiv_2610.06813v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06813v1](http://arxiv.org/abs/2610.06813v1)
+
+## TAPDreamer: Transferable Adversarial Patches for World Action Models
+- **ID**: arxiv_2610.06814v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06814v1](http://arxiv.org/abs/2610.06814v1)
+
+## UniSlider: Perceptually Uniform Sliders for Continuous Image Editing
+- **ID**: arxiv_2610.06831v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06831v1](http://arxiv.org/abs/2610.06831v1)
+
+## Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report
+- **ID**: arxiv_2610.06837v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06837v1](http://arxiv.org/abs/2610.06837v1)
+
+## Learning to Read the Contextual Tokens in Diffusion Transformers
+- **ID**: arxiv_2610.06844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06844v1](http://arxiv.org/abs/2610.06844v1)
+
+## S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation
+- **ID**: arxiv_2610.06847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06847v1](http://arxiv.org/abs/2610.06847v1)
+
+## One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline
+- **ID**: arxiv_2610.06852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06852v1](http://arxiv.org/abs/2610.06852v1)
+

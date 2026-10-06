@@ -808,6 +808,12 @@
 - **URL**: [https://huggingface.co/datasets/bezzam/coraal](https://huggingface.co/datasets/bezzam/coraal)
 - **Tags**: format:optimized-parquet, format:parquet, language:en, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-nc-sa-4.0, modality:audio, modality:text, region:us, size_categories:n<1K, task_categories:automatic-speech-recognition
 
+## djain95/sae-jailbreaks-cache
+- **ID**: hf_ds_69978bd7318f3c86ddf0e7aa
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/djain95/sae-jailbreaks-cache](https://huggingface.co/datasets/djain95/sae-jailbreaks-cache)
+- **Tags**: region:us
+
 ## Emmyc2/psp
 - **ID**: hf_ds_69a389155b0ec60eb1032f67
 - **Source**: HuggingFace Datasets

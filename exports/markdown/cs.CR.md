@@ -145,6 +145,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.05462v2](http://arxiv.org/abs/2607.05462v2)
 
+## Authority-Bound Governance of Heterogeneous AI Security Decisions in Telecom and IoT Networks
+- **ID**: arxiv_2607.09259v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.09259v2](http://arxiv.org/abs/2607.09259v2)
+
 ## Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents
 - **ID**: arxiv_2607.15263v1
 - **Source**: ArXiv

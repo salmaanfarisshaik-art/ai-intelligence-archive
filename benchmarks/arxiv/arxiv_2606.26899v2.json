@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.26899v2",
+  "schema_version": "1.0",
+  "name": "MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.26899v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.26899v2",
+    "updated": "2026-10-05T17:38:33Z",
+    "published": "2026-06-25T11:29:51Z",
+    "title": "MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization",
+    "summary": "Embedding-based retrieval typically returns highest-scoring items, but many production scenarios require items that satisfy a target attribute while preserving a fine-grained pattern expressed by seed examples. We formalize this as pattern-preserving attribute retrieval. Standard approaches fail: averaging seeds preserves the pattern but misses the attribute; global attribute retrieval drifts to unrelated patterns. We approach the task with continuous generative retrieval, where a model reads item-embedding sequences and generates query embeddings for nearest-neighbor search. We propose MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization, a staged framework with large-scale raw-sequence pretraining, Metric-Ordered Sequence (MOS) training, and final HPPO alignment. MOS construction turns sparse online metric labels into in-pattern trajectories; MOS CPT/SFT then trains the generator through shared multi-domain continuation pretraining and domain-specific tail-centroid supervised fine-tuning. HPPO uses a hybrid pool of static and policy-generated candidate embeddings, labels them with true online intersection metrics, applies iterated preference optimization, and employs a Pareto pair filter to exclude winners that lower pattern purity. Across four large-scale attribute domains under strict item- and pattern-holdout protocols, MOS training improves the primary intersection metric over a strong pretrained generative retriever in every domain-split cell, and the complete Pareto-filtered HPPO procedure improves it further, with paired-bootstrap-significant gains on seven of the eight cells - the exception being the D4 pattern-holdout split. Ablations confirm that the Pareto pair filter improves the attribute-pattern tradeoff on D1-D3, and that hybrid static/policy candidates are complementary.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:38:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.26899v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

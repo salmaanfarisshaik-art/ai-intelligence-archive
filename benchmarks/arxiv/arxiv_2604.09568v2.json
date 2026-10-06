@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.09568v2",
+  "schema_version": "1.0",
+  "name": "EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.09568v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.09568v2",
+    "updated": "2026-10-05T17:32:59Z",
+    "published": "2026-02-20T11:11:02Z",
+    "title": "EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution",
+    "summary": "High-fidelity diagram creation requires the complex orchestration of semantic topology, visual styling, and spatial layout, posing a significant challenge for automated systems. Existing methods also suffer from a representation gap: pixel-based models often lack precise control, while code-based synthesis limits intuitive flexibility. To bridge this gap, we introduce EvoDiagram, an agentic framework that generates object-level editable diagrams via an intermediate canvas schema. EvoDiagram employs a coordinated multi-agent system to decouple semantic intent from rendering logic, resolving conflicts across heterogeneous design layers. Additionally, we propose a design knowledge evolution mechanism that distills execution traces into a hierarchical memory of domain guidelines, enabling agents to retrieve context-aware expertise adaptively. We further release CanvasBench, a benchmark consisting of both data and metrics for canvas-based diagramming. Extensive experiments demonstrate that EvoDiagram exhibits excellent performance and balance against baselines in generating editable, structurally consistent, and aesthetically coherent diagrams. Our code is available at https://github.com/AuraX-AI/EvoDiagram.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:32:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.09568v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

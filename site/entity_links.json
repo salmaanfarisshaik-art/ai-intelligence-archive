@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:58:23Z",
+  "generated_at": "2026-10-06T11:49:07Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -897,6 +897,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_azukivc_qwen3_8_27b_uncensored_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_badtheorylabs_btl_4_compact",
       "target_id": "hf_badtheorylabs_BTL-4",
       "type": "derived_from"
@@ -1117,6 +1122,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_meta_llama_llama_4_scout_17b_16e_instruct_old_gguf",
+      "target_id": "hf_meta-llama_Llama-4-Scout-17B-16E-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bartowski_microsoft_phi_4_mini_instruct_gguf",
       "target_id": "hf_microsoft_Phi-4-mini-instruct",
       "type": "derived_from"
@@ -1144,6 +1154,11 @@
     {
       "source_id": "model_bartowski_north_mini_code_1_0_gguf",
       "target_id": "hf_CohereLabs_North-Mini-Code-1.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_nousresearch_hermes_4_14b_gguf",
+      "target_id": "hf_NousResearch_Hermes-4-14B",
       "type": "derived_from"
     },
     {
@@ -5087,6 +5102,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_nvidia_gpt_oss_120b_eagle3_short_context",
+      "target_id": "hf_openai_gpt-oss-120b",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_gpt_oss_120b_eagle3_v3",
       "target_id": "hf_openai_gpt-oss-120b",
       "type": "derived_from"
@@ -6579,6 +6599,11 @@
     {
       "source_id": "model_qcri_fanar_2_27b_instruct",
       "target_id": "hf_google_gemma-3-27b-pt",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_quantfactory_meta_llama_3_8b_instruct_gguf",
+      "target_id": "hf_meta-llama_Meta-Llama-3-8B-Instruct",
       "type": "derived_from"
     },
     {

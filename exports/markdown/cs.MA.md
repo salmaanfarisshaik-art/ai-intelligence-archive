@@ -75,3 +75,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27994v1](http://arxiv.org/abs/2609.27994v1)
 
+## BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents
+- **ID**: arxiv_2610.06748v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06748v1](http://arxiv.org/abs/2610.06748v1)
+

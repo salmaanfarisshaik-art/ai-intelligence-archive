@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c0aa780ed5abe8e35b3f64295173ac275d63f730",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRamanBench Dataset Mirror\n\t\n\n⚠️ RESEARCH MIRROR ONLY — All datasets are provided for research/educational purposes. Original copyrights remain with original authors. See Sources & Licenses below.\n\nA unified mirror of 87 Raman spectroscopy datasets from the RamanBench benchmark. Wide-format Parquet files for fast, reliable access.\n\n\t\n\t\t\n\t\n\t\n\t\tQuick Start\n\t\n\nfrom raman_bench import RamanBenchmark\n\n# Fast mirror access (default)\nbench = RamanBenchmark(… See the full description on the dataset page: https://huggingface.co/datasets/HTW-KI-Werkstatt/RamanBench.",
-  "downloads": 39597,
+  "downloads": 39286,
   "tags": [
     "arxiv:2605.02003",
     "region:us"

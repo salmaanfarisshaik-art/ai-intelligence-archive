@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.15314v3",
+  "schema_version": "1.0",
+  "name": "Cura 1T: Healthcare Foundation Model via Recursive Self-Improvement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.15314v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.15314v3",
+    "updated": "2026-10-05T17:35:50Z",
+    "published": "2026-07-15T22:05:23Z",
+    "title": "Cura 1T: Healthcare Foundation Model via Recursive Self-Improvement",
+    "summary": "Healthcare spans high-stakes communication, expert reasoning, and workflow execution, yet specialized language models that cover these use cases together remain limited. A healthcare model must handle patient consultation, clinical reasoning over text and images, interactive diagnosis, and electronic health record (EHR) tool use. These capabilities fail in different ways, and a narrow update for one task can degrade another. We present Cura 1T, a healthcare foundation model trained through recursive self-improvement (RSI). In each RSI round, the RSI harness runs the current model on healthcare benchmarks, evaluates the trajectories to locate capability gaps, and refines the training mixture by synthesizing training data. On 6 healthcare benchmarks, Cura 1T scores highest on MedAgentBench, HealthBench Professional, HealthBench Hard, MedXpertQA text, and AgentClinic, and second on MedXpertQA multimodal. It preserves performances on out-of-domain reasoning and agentic benchmarks including AIME, GPQA-Diamond, and $τ^2$-Bench.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:35:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.15314v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

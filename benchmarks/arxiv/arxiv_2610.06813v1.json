@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.06813v1",
+  "schema_version": "1.0",
+  "name": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.06813v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.06813v1",
+    "updated": "2026-10-05T17:55:06Z",
+    "published": "2026-10-05T17:55:06Z",
+    "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+    "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global attention design leads to quadratic complexity and limits long-sequence inference; unconstrained cross-view interactions also can propagate unreliable evidence from occluded or visually similar but geometrically distant views. In this paper, We introduce a Masked Geometric Encoder (MGE), which promotes the learning of robust geometric representations under incomplete cross-view context. During training, MGE strategically drops frame tokens from global attention and distills from a pretrained full-context teacher model. This allows the model to learn an intrinsically richer per-frame representation while providing sufficient intermediate supervision to avoid performance degradation. Through extensive experiments, we show that MGE leads to much stronger performance under occlusion and doppelganger views while retaining high performance on standard benchmarks. Such a richer frame representation also leads to more effective token reduction during inference. To this end, we develop a novel Anchor-Guided Adaptive token merging technique that preserves representative anchor frames while jointly merging redundant tokens from the remaining views. Compared to other efficient inference approaches, we can achieve inference speedup while consistently maintaining higher reconstruction quality, particularly in limited-view settings.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-06T11:48:15Z",
+  "last_updated": "2026-10-05T17:55:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.06813v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

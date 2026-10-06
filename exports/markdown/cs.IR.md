@@ -175,3 +175,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40241v1](http://arxiv.org/abs/2609.40241v1)
 
+## Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs
+- **ID**: arxiv_2610.06703v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06703v1](http://arxiv.org/abs/2610.06703v1)
+

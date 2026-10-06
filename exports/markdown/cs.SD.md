@@ -175,3 +175,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03656v1](http://arxiv.org/abs/2610.03656v1)
 
+## Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model
+- **ID**: arxiv_2610.06817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06817v1](http://arxiv.org/abs/2610.06817v1)
+

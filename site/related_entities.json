@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T04:58:23Z",
+  "generated_at": "2026-10-06T11:49:07Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -580,6 +580,7 @@
       "model_solidrust_hermes_3_llama_3_1_8b_awq"
     ],
     "hf_NousResearch_Hermes-4-14B": [
+      "model_bartowski_nousresearch_hermes_4_14b_gguf",
       "model_cyankiwi_hermes_4_14b_awq_4bit"
     ],
     "hf_NovachronoAI_Nova-Synapse-Function-Calling": [
@@ -1235,6 +1236,7 @@
       "model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf",
       "model_atomicchat_qwen3_8_27b_gguf",
       "model_autotrust_jev_27b",
+      "model_azukivc_qwen3_8_27b_uncensored_gguf",
       "model_codemastercody3d_taardis_27b_full_ternary",
       "model_dealignai_bonsai_2_27b_1bit_crack_gguf",
       "model_dealignai_bonsai_2_27b_ternary_crack_gguf",
@@ -2415,6 +2417,9 @@
     "hf_meta-llama_Llama-4-Scout-17B-16E": [
       "model_mlx_community_meta_llama_llama_4_scout_17b_16e_8bit"
     ],
+    "hf_meta-llama_Llama-4-Scout-17B-16E-Instruct": [
+      "model_bartowski_meta_llama_llama_4_scout_17b_16e_instruct_old_gguf"
+    ],
     "hf_meta-llama_Llama-Guard-3-1B": [
       "model_acuteshrewdsecurity_llama_phishsense_1b"
     ],
@@ -2430,6 +2435,7 @@
     "hf_meta-llama_Meta-Llama-3-8B-Instruct": [
       "model_lmstudio_community_meta_llama_3_8b_instruct_gguf",
       "model_maziyarpanahi_meta_llama_3_8b_instruct_gguf",
+      "model_quantfactory_meta_llama_3_8b_instruct_gguf",
       "model_redhatai_meta_llama_3_8b_instruct_fp8_kv"
     ],
     "hf_meta-math_MetaMathQA": [
@@ -3036,6 +3042,7 @@
     "hf_openai_gpt-oss-120b": [
       "model_ggml_org_gpt_oss_120b_gguf",
       "model_lmstudio_community_gpt_oss_120b_mlx_8bit",
+      "model_nvidia_gpt_oss_120b_eagle3_short_context",
       "model_nvidia_gpt_oss_120b_eagle3_v3",
       "model_redhatai_gpt_oss_120b",
       "model_tiny_random_gpt_oss_bf16",
@@ -3827,6 +3834,9 @@
     "model_avitotech_avibe": [
       "hf_Qwen_Qwen3-8B"
     ],
+    "model_azukivc_qwen3_8_27b_uncensored_gguf": [
+      "hf_Qwen_Qwen3.8-27B"
+    ],
     "model_badtheorylabs_btl_4_compact": [
       "hf_badtheorylabs_BTL-4"
     ],
@@ -3931,6 +3941,9 @@
     "model_bartowski_meta_llama_3_1_8b_instruct_gguf": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
     ],
+    "model_bartowski_meta_llama_llama_4_scout_17b_16e_instruct_old_gguf": [
+      "hf_meta-llama_Llama-4-Scout-17B-16E-Instruct"
+    ],
     "model_bartowski_microsoft_phi_4_mini_instruct_gguf": [
       "hf_microsoft_Phi-4-mini-instruct"
     ],
@@ -3948,6 +3961,9 @@
     ],
     "model_bartowski_north_mini_code_1_0_gguf": [
       "hf_CohereLabs_North-Mini-Code-1.0"
+    ],
+    "model_bartowski_nousresearch_hermes_4_14b_gguf": [
+      "hf_NousResearch_Hermes-4-14B"
     ],
     "model_bartowski_nvidia_nemotron_3_5_lightning_30b_a3b_gguf": [
       "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
@@ -5803,6 +5819,9 @@
     "model_nvidia_glm_5_nvfp4": [
       "hf_zai-org_GLM-5"
     ],
+    "model_nvidia_gpt_oss_120b_eagle3_short_context": [
+      "hf_openai_gpt-oss-120b"
+    ],
     "model_nvidia_gpt_oss_120b_eagle3_v3": [
       "hf_openai_gpt-oss-120b"
     ],
@@ -6333,6 +6352,9 @@
     ],
     "model_qcri_fanar_2_27b_instruct": [
       "hf_google_gemma-3-27b-pt"
+    ],
+    "model_quantfactory_meta_llama_3_8b_instruct_gguf": [
+      "hf_meta-llama_Meta-Llama-3-8B-Instruct"
     ],
     "model_quantfactory_qwen2_5_coder_7b_gguf": [
       "hf_Qwen_Qwen2.5-7B"

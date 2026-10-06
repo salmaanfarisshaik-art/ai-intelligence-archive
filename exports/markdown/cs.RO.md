@@ -710,6 +710,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30247v1](http://arxiv.org/abs/2609.30247v1)
 
+## Rolling-WAM: World Action Models with Rolling Imagination
+- **ID**: arxiv_2609.30247v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30247v2](http://arxiv.org/abs/2609.30247v2)
+
 ## RAPID: Robot Agentic Programming from Demonstrations
 - **ID**: arxiv_2609.30249v1
 - **Source**: ArXiv
@@ -779,4 +784,14 @@
 - **ID**: arxiv_2610.03710v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03710v1](http://arxiv.org/abs/2610.03710v1)
+
+## Recursive Video In-Context Learning for Agentic Robot
+- **ID**: arxiv_2610.06843v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06843v1](http://arxiv.org/abs/2610.06843v1)
+
+## InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
+- **ID**: arxiv_2610.06850v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06850v1](http://arxiv.org/abs/2610.06850v1)
 
