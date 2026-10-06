@@ -481,6 +481,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_anon_cmevs_2026_cmevs_erp_eval
+- **Source**: 
+
+## 
 - **ID**: dataset_anon_data_7k4m_review_data_b
 - **Source**: 
 
@@ -1526,6 +1530,10 @@
 
 ## 
 - **ID**: dataset_deepmind_code_contests
+- **Source**: 
+
+## 
+- **ID**: dataset_deepseekoracle_lygo_public_witness_feed
 - **Source**: 
 
 ## 
@@ -4721,6 +4729,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kokosdev_tahoe_100m_zarr
+- **Source**: 
+
+## 
 - **ID**: dataset_komalgupta23_vietsuperspeechdatset
 - **Source**: 
 
@@ -5114,6 +5126,10 @@
 
 ## 
 - **ID**: dataset_ln2697_lead_123d
+- **Source**: 
+
+## 
+- **ID**: dataset_localllama_typed_decisions
 - **Source**: 
 
 ## 
@@ -8642,6 +8658,10 @@
 
 ## 
 - **ID**: dataset_yyyzzzzyyy_envss
+- **Source**: 
+
+## 
+- **ID**: dataset_yyyzzzzyyy_mgm_dpo_vcip
 - **Source**: 
 
 ## 

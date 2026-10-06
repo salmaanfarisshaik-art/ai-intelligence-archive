@@ -4,10 +4,10 @@
   "author": "Robeedau",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-06T11:16:17.000Z",
+  "lastModified": "2026-10-06T17:32:35.000Z",
   "likes": 2,
   "private": false,
-  "sha": "266b9cc9918acf884762619680a929d2672f367f",
+  "sha": "aa1167fc0f1644bfb9288d917d6d60bc0f5e3747",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tAirLens Live Data\n\t\n\nLive data layer for AirLens, an open\nair-quality monitoring platform. Updated by scheduled GitHub Actions pipelines.\nLayout mirrors the former Supabase Storage buckets:\n\n\t\n\t\t\nPath\nContent\nCadence\n\n\n\t\t\naq-data/current-*-grid.json\nGlobal pollutant grids (PM2.5/PM10/O3/NO2/CO)\nhourly\n\n\naq-data/timeline/\nGEFS-Aerosols PM2.5 frames, -24h..+24h, 3h step\nevery 3h\n\n\naq-data/predictions/grid_latest.json\nAOD→PM2.5 model predictions (p10-p90 + DQSS)\nevery 3h… See the full description on the dataset page: https://huggingface.co/datasets/Robeedau/airlens-live.",
   "downloads": 60633,
   "tags": [

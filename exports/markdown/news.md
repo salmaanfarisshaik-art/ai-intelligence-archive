@@ -821,6 +821,11 @@
 - **URL**: [https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning](https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning)
 
 ## 
+- **ID**: rss_https://openai.com/index/atlassian-partnership
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/atlassian-partnership](https://openai.com/index/atlassian-partnership)
+
+## 
 - **ID**: rss_https://openai.com/index/attacking-machine-learning-with-adversarial-examples
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/attacking-machine-learning-with-adversarial-examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples)

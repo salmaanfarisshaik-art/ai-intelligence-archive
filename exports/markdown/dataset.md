@@ -1070,7 +1070,7 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93

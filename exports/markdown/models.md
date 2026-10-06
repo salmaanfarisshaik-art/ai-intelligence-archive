@@ -388,6 +388,10 @@
 - **ID**: model_avitotech_avibe
 - **Source**: 
 
+## azukivc/Qwen3.8-27B-Uncensored-GGUF
+- **ID**: model_azukivc_qwen3_8_27b_uncensored_gguf
+- **Source**: 
+
 ## BAAI/AquilaChat2-7B
 - **ID**: model_baai_aquilachat2_7b
 - **Source**: 
@@ -544,6 +548,10 @@
 - **ID**: model_bartowski_meta_llama_3_1_8b_instruct_gguf
 - **Source**: 
 
+## bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-old-GGUF
+- **ID**: model_bartowski_meta_llama_llama_4_scout_17b_16e_instruct_old_gguf
+- **Source**: 
+
 ## bartowski/microsoft_Phi-4-mini-instruct-GGUF
 - **ID**: model_bartowski_microsoft_phi_4_mini_instruct_gguf
 - **Source**: 
@@ -570,6 +578,10 @@
 
 ## bartowski/North-Mini-Code-1.0-GGUF
 - **ID**: model_bartowski_north_mini_code_1_0_gguf
+- **Source**: 
+
+## bartowski/NousResearch_Hermes-4-14B-GGUF
+- **ID**: model_bartowski_nousresearch_hermes_4_14b_gguf
 - **Source**: 
 
 ## bartowski/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
@@ -2182,6 +2194,10 @@
 
 ## IlyaGusev/saiga_llama3_8b
 - **ID**: model_ilyagusev_saiga_llama3_8b
+- **Source**: 
+
+## inclusionAI/Ling-3.0-tiny-GGUF
+- **ID**: model_inclusionai_ling_3_0_tiny_gguf
 - **Source**: 
 
 ## inclusionAI/Ling-lite-1.5
@@ -3804,6 +3820,10 @@
 - **ID**: model_nousresearch_meta_llama_3_1_8b_instruct
 - **Source**: 
 
+## NousResearch/Meta-Llama-3-70B-Instruct
+- **ID**: model_nousresearch_meta_llama_3_70b_instruct
+- **Source**: 
+
 ## NousResearch/Meta-Llama-3-8B
 - **ID**: model_nousresearch_meta_llama_3_8b
 - **Source**: 
@@ -3874,6 +3894,10 @@
 
 ## nvidia/GLM-5-NVFP4
 - **ID**: model_nvidia_glm_5_nvfp4
+- **Source**: 
+
+## nvidia/gpt-oss-120b-Eagle3-short-context
+- **ID**: model_nvidia_gpt_oss_120b_eagle3_short_context
 - **Source**: 
 
 ## nvidia/gpt-oss-120b-Eagle3-v3
@@ -4662,6 +4686,10 @@
 
 ## qihoo360/fg-clip-base
 - **ID**: model_qihoo360_fg_clip_base
+- **Source**: 
+
+## QuantFactory/Meta-Llama-3-8B-Instruct-GGUF
+- **ID**: model_quantfactory_meta_llama_3_8b_instruct_gguf
 - **Source**: 
 
 ## QuantFactory/Qwen2.5-Coder-7B-GGUF
@@ -7106,6 +7134,10 @@
 
 ## zai-org/GLM-5.3
 - **ID**: model_zai_org_glm_5_3
+- **Source**: 
+
+## zai-org/GLM-5.3-BF16
+- **ID**: model_zai_org_glm_5_3_bf16
 - **Source**: 
 
 ## zai-org/GLM-5.3-Flash
