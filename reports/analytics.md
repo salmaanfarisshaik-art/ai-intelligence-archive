@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90485
+**Total Entities Tracked**: 90486
 
 ## Category Distribution
 
@@ -9,7 +9,7 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2201
 - **models**: 1797
-- **news**: 1274
+- **news**: 1275
 - **dataset**: 1194
 - **cs.CV**: 1111
 - **text-generation**: 1012
@@ -99,7 +99,7 @@
 - ****: 31176
 - **ArXiv**: 3668
 - **Hugging Face**: 2019
-- **OpenAI Blog**: 1260
+- **OpenAI Blog**: 1261
 - **HuggingFace Datasets**: 194
 - **GitHub Trending**: 54
 - **BAIR Blog**: 14
