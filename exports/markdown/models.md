@@ -6956,6 +6956,10 @@
 - **ID**: model_wizardlmteam_wizardmath_7b_v1_1
 - **Source**: 
 
+## wraps/moondream-caption
+- **ID**: model_wraps_moondream_caption
+- **Source**: 
+
 ## xCloudinfo/xGemable-12B-coder-v1.5-GGUF
 - **ID**: model_xcloudinfo_xgemable_12b_coder_v1_5_gguf
 - **Source**: 

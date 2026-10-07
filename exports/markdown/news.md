@@ -2711,6 +2711,11 @@
 - **URL**: [https://openai.com/index/gpt-6-astra-next-generation-work](https://openai.com/index/gpt-6-astra-next-generation-work)
 
 ## 
+- **ID**: rss_https://openai.com/index/gpt-6-for-everyone
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/gpt-6-for-everyone](https://openai.com/index/gpt-6-for-everyone)
+
+## 
 - **ID**: rss_https://openai.com/index/gpt-oss-model-card
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gpt-oss-model-card](https://openai.com/index/gpt-oss-model-card)
@@ -5159,6 +5164,11 @@
 - **ID**: rss_https://openai.com/index/quantifying-generalization-in-reinforcement-learning
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/quantifying-generalization-in-reinforcement-learning](https://openai.com/index/quantifying-generalization-in-reinforcement-learning)
+
+## 
+- **ID**: rss_https://openai.com/index/radisson
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/radisson](https://openai.com/index/radisson)
 
 ## 
 - **ID**: rss_https://openai.com/index/rakuten

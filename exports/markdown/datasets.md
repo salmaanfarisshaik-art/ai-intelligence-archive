@@ -181,6 +181,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_airoa_org_airoa_moma_5k
+- **Source**: 
+
+## 
 - **ID**: dataset_airtrain_ai_fineweb_edu_fortified
 - **Source**: 
 
@@ -1109,6 +1113,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bvra_animal_clef_2026
+- **Source**: 
+
+## 
 - **ID**: dataset_bwarner_inference_scratch
 - **Source**: 
 
@@ -1198,6 +1206,10 @@
 
 ## 
 - **ID**: dataset_charge_benchmark_charge_040_0040_sparse_mono
+- **Source**: 
+
+## 
+- **ID**: dataset_charlychan123_hoigen_filtered_videos
 - **Source**: 
 
 ## 
@@ -1437,6 +1449,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_cybergym_iclr26_cybergym
+- **Source**: 
+
+## 
 - **ID**: dataset_dagonulca_figofigofigofigo
 - **Source**: 
 
@@ -1474,6 +1490,10 @@
 
 ## 
 - **ID**: dataset_databricks_databricks_dolly_15k
+- **Source**: 
+
+## 
+- **ID**: dataset_datamuncher_labs_ultimath
 - **Source**: 
 
 ## 
@@ -1906,6 +1926,10 @@
 
 ## 
 - **ID**: dataset_fancyzhx_amazon_polarity
+- **Source**: 
+
+## 
+- **ID**: dataset_fanqi_lin_gopro_raw_videos
 - **Source**: 
 
 ## 
@@ -2657,11 +2681,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hothan_omni_duplexeval
+- **Source**: 
+
+## 
 - **ID**: dataset_hotpotqa_hotpot_qa
 - **Source**: 
 
 ## 
 - **ID**: dataset_houlab_motif_db
+- **Source**: 
+
+## 
+- **ID**: dataset_hozifa1_telewat_daawa_and_channels
 - **Source**: 
 
 ## 
@@ -4581,6 +4613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jotalbot_ua_open_data
+- **Source**: 
+
+## 
 - **ID**: dataset_joysw909_avqa
 - **Source**: 
 
@@ -4622,6 +4658,10 @@
 
 ## 
 - **ID**: dataset_k9cli_video_vec2wav2_tokenizer_3
+- **Source**: 
+
+## 
+- **ID**: dataset_kaka22_spreadsheetbench
 - **Source**: 
 
 ## 
@@ -4777,6 +4817,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_l_lt_lasot
+- **Source**: 
+
+## 
 - **ID**: dataset_labelmaker_arkit_labelmaker
 - **Source**: 
 
@@ -4818,6 +4862,10 @@
 
 ## 
 - **ID**: dataset_leeli4704_veu_bench
+- **Source**: 
+
+## 
+- **ID**: dataset_legacy_datasets_banking77
 - **Source**: 
 
 ## 
@@ -5190,6 +5238,10 @@
 
 ## 
 - **ID**: dataset_lxl_158_rope_atlas_images
+- **Source**: 
+
+## 
+- **ID**: dataset_lyzenghq_zhongyangribao
 - **Source**: 
 
 ## 
@@ -6078,6 +6130,10 @@
 
 ## 
 - **ID**: dataset_nvidia_physicalai_robotics_locomanipulation_grail
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_physicalai_robotics_manipulation_kitchen_demos
 - **Source**: 
 
 ## 
@@ -7761,6 +7817,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_taohan10200_cra5_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_tars_robotics_omnivitac
 - **Source**: 
 
@@ -7969,6 +8029,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tjdud123_tagma
+- **Source**: 
+
+## 
 - **ID**: dataset_toilaluan_object365
 - **Source**: 
 
@@ -8026,6 +8090,10 @@
 
 ## 
 - **ID**: dataset_tranxxx_charvastamy
+- **Source**: 
+
+## 
+- **ID**: dataset_trentmkelly_polymarket_historical_data
 - **Source**: 
 
 ## 
