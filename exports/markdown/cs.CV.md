@@ -650,6 +650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.26764v2](http://arxiv.org/abs/2603.26764v2)
 
+## PRUE: A Practical Recipe for Field Boundary Segmentation at Scale
+- **ID**: arxiv_2603.27101v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.27101v2](http://arxiv.org/abs/2603.27101v2)
+
 ## PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models
 - **ID**: arxiv_2603.28763v2
 - **Source**: ArXiv
@@ -2594,6 +2599,11 @@
 - **ID**: arxiv_2608.06311v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.06311v1](http://arxiv.org/abs/2608.06311v1)
+
+## Local Epistemic Uncertainty Guided Active Sampling for Plug-and-play Diffusive Image Restoration
+- **ID**: arxiv_2608.06981v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06981v4](http://arxiv.org/abs/2608.06981v4)
 
 ## SkySeaLand: A Wide-Format Satellite Transportation Benchmark with an Ultra-Lightweight Detection Baseline
 - **ID**: arxiv_2608.07382v1
@@ -5530,6 +5540,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06814v1](http://arxiv.org/abs/2610.06814v1)
 
+## TAPDreamer: Transferable Adversarial Patches for World Action Models
+- **ID**: arxiv_2610.06814v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06814v2](http://arxiv.org/abs/2610.06814v2)
+
 ## UniSlider: Perceptually Uniform Sliders for Continuous Image Editing
 - **ID**: arxiv_2610.06831v1
 - **Source**: ArXiv
@@ -5554,4 +5569,59 @@
 - **ID**: arxiv_2610.06852v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06852v1](http://arxiv.org/abs/2610.06852v1)
+
+## RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins
+- **ID**: arxiv_2610.08684v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08684v1](http://arxiv.org/abs/2610.08684v1)
+
+## SpaTime: Streaming Vision-Language Models for Spatio-temporal Reasoning
+- **ID**: arxiv_2610.08713v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08713v1](http://arxiv.org/abs/2610.08713v1)
+
+## Co-Evolving Paths and Flows via Path-Flow Alignment
+- **ID**: arxiv_2610.08717v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08717v1](http://arxiv.org/abs/2610.08717v1)
+
+## Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error
+- **ID**: arxiv_2610.08756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08756v1](http://arxiv.org/abs/2610.08756v1)
+
+## Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap
+- **ID**: arxiv_2610.08770v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08770v1](http://arxiv.org/abs/2610.08770v1)
+
+## Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation
+- **ID**: arxiv_2610.08772v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08772v1](http://arxiv.org/abs/2610.08772v1)
+
+## CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching
+- **ID**: arxiv_2610.08777v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08777v1](http://arxiv.org/abs/2610.08777v1)
+
+## ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing
+- **ID**: arxiv_2610.08779v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08779v1](http://arxiv.org/abs/2610.08779v1)
+
+## 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction
+- **ID**: arxiv_2610.08782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08782v1](http://arxiv.org/abs/2610.08782v1)
+
+## Building Rome from a Single Image
+- **ID**: arxiv_2610.08790v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08790v1](http://arxiv.org/abs/2610.08790v1)
+
+## World Models' Last Exam in Physics
+- **ID**: arxiv_2610.08791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08791v1](http://arxiv.org/abs/2610.08791v1)
 

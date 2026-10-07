@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.22923v2](http://arxiv.org/abs/2608.22923v2)
 
+## SymNetPro: LOS-Aware Directional Multi-Transmitter Localization from Sparse Radio Observations
+- **ID**: arxiv_2609.33964v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.33964v2](http://arxiv.org/abs/2609.33964v2)
+
 ## CAS II: Symmetric Partitions as Kolmogorov Models
 - **ID**: arxiv_2609.40290v1
 - **Source**: ArXiv

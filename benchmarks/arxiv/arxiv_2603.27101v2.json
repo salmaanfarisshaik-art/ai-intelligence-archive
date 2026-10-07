@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.27101v2",
+  "schema_version": "1.0",
+  "name": "PRUE: A Practical Recipe for Field Boundary Segmentation at Scale",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.27101v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.27101v2",
+    "updated": "2026-10-06T17:17:19Z",
+    "published": "2026-03-28T02:47:46Z",
+    "title": "PRUE: A Practical Recipe for Field Boundary Segmentation at Scale",
+    "summary": "Large-scale maps of field boundaries are essential for agricultural monitoring tasks. Existing deep learning approaches for satellite-based field mapping are sensitive to illumination, spatial scale, and changes in geographic location. We conduct the first systematic evaluation of segmentation and geospatial foundation models (GFMs) for global field boundary delineation using the Fields of The World (FTW) benchmark. We evaluate 18 models under unified experimental settings, showing that a U-Net semantic segmentation model outperforms instance-based and GFM alternatives on a suite of performance and deployment metrics. We propose a new segmentation approach that combines a U-Net backbone, composite loss functions, and targeted data augmentations to enhance performance and robustness under real-world conditions. Our model achieves a 76% IoU and 47% object-F1 on FTW, an increase of 6% and 9% over the previous baseline. Our approach provides a practical framework for reliable, scalable, and reproducible field boundary delineation across model design, training, and inference. We release all models and model-derived field boundary datasets for five countries.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:17:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.27101v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

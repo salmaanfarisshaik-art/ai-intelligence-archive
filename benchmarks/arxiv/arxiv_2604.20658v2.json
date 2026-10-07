@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.20658v2",
+  "schema_version": "1.0",
+  "name": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.20658v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.20658v2",
+    "updated": "2026-10-06T17:29:29Z",
+    "published": "2026-04-22T15:07:54Z",
+    "title": "Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows",
+    "summary": "Multi-agent systems built from teams of large language models (LLMs) are increasingly deployed for collaborative scientific reasoning and problem-solving. These systems require agents to coordinate under shared constraints, such as GPUs or credit balances, where cooperative behavior matters. Behavioral economics provides a rich toolkit of games that isolate distinct cooperation mechanisms, yet it remains unknown whether a model's behavior in these stylized settings predicts its performance in realistic collaborative tasks. Here, we benchmark 41 open-weight LLMs across six behavioral economics games and show that game-derived cooperative profiles robustly predict downstream performance in AI-for-Science tasks, where teams of LLM agents collaboratively analyze data, build models, and produce scientific reports under shared budget constraints. Models that effectively coordinate in games and invest in multiplicative team production (rather than greedy strategies) produce better scientific reports across three outcomes, accuracy, quality, and completeness. These associations hold after controlling for multiple factors, indicating that cooperative disposition is a distinct, measurable property of LLMs not reducible to general ability. Our behavioral games framework thus offers a fast diagnostic for screening cooperative fitness before costly multi-agent deployment.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:29:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.20658v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

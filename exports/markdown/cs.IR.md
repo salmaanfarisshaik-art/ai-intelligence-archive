@@ -180,3 +180,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06703v1](http://arxiv.org/abs/2610.06703v1)
 
+## Disentangling Paradigm, Identifier, and Decoding in Generative Retrieval
+- **ID**: arxiv_2610.08716v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08716v1](http://arxiv.org/abs/2610.08716v1)
+
+## A Systematic Study of Semantic ID Spaces for Generative Information Retrieval
+- **ID**: arxiv_2610.08732v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08732v1](http://arxiv.org/abs/2610.08732v1)
+

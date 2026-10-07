@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.33964v2",
+  "schema_version": "1.0",
+  "name": "SymNetPro: LOS-Aware Directional Multi-Transmitter Localization from Sparse Radio Observations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.33964v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IT",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.33964v2",
+    "updated": "2026-10-06T17:45:58Z",
+    "published": "2026-09-27T22:04:17Z",
+    "title": "SymNetPro: LOS-Aware Directional Multi-Transmitter Localization from Sparse Radio Observations",
+    "summary": "Directional multi-transmitter localization from sparse received-power observations is difficult because the receiver observes only the source-unresolved aggregate field: multiple directional sources superpose, building blockage fragments their visible regions, and stronger sources can mask weaker ones. We present SymNetPro, which retains the dual-task radio-map reconstruction and localization backbone of SymNet and adds two targeted components. First, a sparse line-of-sight (LOS)-aware attention bias injects obstruction-aware spatial relations into selected token interactions. Second, transmitter-drop augmentation recomposes training scenes after removing one sample-supported transmitter, exposing the model to controlled source-cardinality variation. Experiments on directional ray-traced urban environments show substantially lower OSPA than representative localization baselines under extreme sparse sampling, with consistent gains under measurement noise and increasing transmitter count. A transmitter-specific evidence analysis further shows that remaining misses concentrate in regimes where the target contributes little distinguishable power to the aggregate observation.",
+    "primary_category": "cs.IT"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:45:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.33964v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

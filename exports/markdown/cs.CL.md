@@ -220,6 +220,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22014v2](http://arxiv.org/abs/2510.22014v2)
 
+## Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)
+- **ID**: arxiv_2510.22954v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.22954v2](http://arxiv.org/abs/2510.22954v2)
+
 ## Seeing Through the MiRAGE: Evaluating Multimodal Retrieval Augmented Generation
 - **ID**: arxiv_2510.24870v3
 - **Source**: ArXiv
@@ -319,6 +324,11 @@
 - **ID**: arxiv_2601.16217v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.16217v2](http://arxiv.org/abs/2601.16217v2)
+
+## Cross-Lingual Activation Steering for Multilingual Language Models
+- **ID**: arxiv_2601.16390v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.16390v2](http://arxiv.org/abs/2601.16390v2)
 
 ## LVLMs and Humans Ground Differently in Referential Communication
 - **ID**: arxiv_2601.19792v5
@@ -574,6 +584,11 @@
 - **ID**: arxiv_2604.19001v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.19001v2](http://arxiv.org/abs/2604.19001v2)
+
+## Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows
+- **ID**: arxiv_2604.20658v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.20658v2](http://arxiv.org/abs/2604.20658v2)
 
 ## GRISP: Guided Recurrent IRI Selection over SPARQL Skeletons
 - **ID**: arxiv_2604.21133v2
@@ -1634,6 +1649,11 @@
 - **ID**: arxiv_2607.29642v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29642v1](http://arxiv.org/abs/2607.29642v1)
+
+## Evolving language compositionality in a frequency-structured meaning space
+- **ID**: arxiv_2607.29642v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.29642v2](http://arxiv.org/abs/2607.29642v2)
 
 ## TokTier: Exact Stateful Tokenization for Agentic LLM Serving
 - **ID**: arxiv_2607.29678v1
@@ -3395,6 +3415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28471v1](http://arxiv.org/abs/2609.28471v1)
 
+## ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks
+- **ID**: arxiv_2609.29102v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.29102v2](http://arxiv.org/abs/2609.29102v2)
+
 ## LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 - **ID**: arxiv_2609.29672v2
 - **Source**: ArXiv
@@ -3560,6 +3585,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38256v2](http://arxiv.org/abs/2609.38256v2)
 
+## Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal
+- **ID**: arxiv_2609.38627v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38627v3](http://arxiv.org/abs/2609.38627v3)
+
 ## Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports
 - **ID**: arxiv_2609.40236v1
 - **Source**: ArXiv
@@ -3695,6 +3725,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06729v1](http://arxiv.org/abs/2610.06729v1)
 
+## Improving Diversity in LLM Short Story Generation
+- **ID**: arxiv_2610.06729v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06729v2](http://arxiv.org/abs/2610.06729v2)
+
 ## ufakzeka-karar: An Open Turkish Typed-Decision Model with Order-Invariant Option Scoring
 - **ID**: arxiv_2610.06744v1
 - **Source**: ArXiv
@@ -3729,4 +3764,39 @@
 - **ID**: arxiv_2610.06830v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06830v1](http://arxiv.org/abs/2610.06830v1)
+
+## Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue
+- **ID**: arxiv_2610.08703v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08703v1](http://arxiv.org/abs/2610.08703v1)
+
+## When Forgetting is not Catastrophic: On the Mechanics of Spurious Forgetting
+- **ID**: arxiv_2610.08718v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08718v1](http://arxiv.org/abs/2610.08718v1)
+
+## Holdout Best-of-N: Unbiased Evaluation and Its Cost
+- **ID**: arxiv_2610.08719v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08719v1](http://arxiv.org/abs/2610.08719v1)
+
+## Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling
+- **ID**: arxiv_2610.08738v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08738v1](http://arxiv.org/abs/2610.08738v1)
+
+## The Missing Minimal Pair: Stereotype Evaluation in LLMs
+- **ID**: arxiv_2610.08747v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08747v1](http://arxiv.org/abs/2610.08747v1)
+
+## AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model
+- **ID**: arxiv_2610.08773v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08773v1](http://arxiv.org/abs/2610.08773v1)
+
+## IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas
+- **ID**: arxiv_2610.08781v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08781v1](http://arxiv.org/abs/2610.08781v1)
 

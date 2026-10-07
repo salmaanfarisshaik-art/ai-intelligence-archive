@@ -335,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02827v2](http://arxiv.org/abs/2605.02827v2)
 
+## XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction
+- **ID**: arxiv_2605.05866v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05866v2](http://arxiv.org/abs/2605.05866v2)
+
 ## ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries
 - **ID**: arxiv_2605.06223v4
 - **Source**: ArXiv
@@ -3200,6 +3205,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26779v1](http://arxiv.org/abs/2609.26779v1)
 
+## TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents
+- **ID**: arxiv_2609.26911v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.26911v2](http://arxiv.org/abs/2609.26911v2)
+
 ## Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence
 - **ID**: arxiv_2609.27664v1
 - **Source**: ArXiv
@@ -3599,4 +3609,39 @@
 - **ID**: arxiv_2610.06846v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06846v1](http://arxiv.org/abs/2610.06846v1)
+
+## ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences
+- **ID**: arxiv_2610.08691v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08691v1](http://arxiv.org/abs/2610.08691v1)
+
+## nanoMuse: An Open-Source Personal Agent for Every Device You Own
+- **ID**: arxiv_2610.08699v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08699v1](http://arxiv.org/abs/2610.08699v1)
+
+## WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?
+- **ID**: arxiv_2610.08720v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08720v1](http://arxiv.org/abs/2610.08720v1)
+
+## Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus
+- **ID**: arxiv_2610.08722v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08722v1](http://arxiv.org/abs/2610.08722v1)
+
+## VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning
+- **ID**: arxiv_2610.08761v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08761v1](http://arxiv.org/abs/2610.08761v1)
+
+## Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?
+- **ID**: arxiv_2610.08775v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08775v1](http://arxiv.org/abs/2610.08775v1)
+
+## Sherpa: Teaching LLMs to Teach Adaptively
+- **ID**: arxiv_2610.08778v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08778v1](http://arxiv.org/abs/2610.08778v1)
 

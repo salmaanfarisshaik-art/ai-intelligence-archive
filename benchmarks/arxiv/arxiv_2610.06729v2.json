@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.06729v2",
+  "schema_version": "1.0",
+  "name": "Improving Diversity in LLM Short Story Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.06729v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.06729v2",
+    "updated": "2026-10-06T17:15:34Z",
+    "published": "2026-10-05T17:16:29Z",
+    "title": "Improving Diversity in LLM Short Story Generation",
+    "summary": "Large language models (LLMs) can generate accurate responses, but these are void of diversity. We attempt to address this for the task of creative short story generation. Drawing on established writing conventions and known LLM limitations, we target variation in genre, tone, style, and named entities. To promote diversity across these dimensions, we introduce DivLM, an LLM post-training framework consisting of two phases. First, we perform continued pre-training on a creative writing corpus and restore instruction-following capabilities using weight residuals. We then apply reinforcement learning with a custom, composite reward function that jointly maximizes diversity across the targeted narrative dimensions while maintaining response quality. Our empirical results on two LLM families show that DivLM increases diversity metrics by more than 9% on average compared to alternative approaches, while preserving instruction following, overall response quality, and similarity to human outputs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:15:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.06729v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

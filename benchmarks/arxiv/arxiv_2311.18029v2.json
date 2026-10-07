@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2311.18029v2",
+  "schema_version": "1.0",
+  "name": "Fast, Interpretable, and Deterministic Time Series Classification With a Bag-of-Receptive-Fields",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2311.18029v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2311.18029v2",
+    "updated": "2026-10-06T17:41:02Z",
+    "published": "2023-11-29T19:13:10Z",
+    "title": "Fast, Interpretable, and Deterministic Time Series Classification With a Bag-of-Receptive-Fields",
+    "summary": "The current trend in the literature on Time Series Classification is to develop increasingly accurate algorithms by combining multiple models in ensemble hybrids, representing time series in complex and expressive feature spaces, and extracting features from different representations of the same time series. As a consequence of this focus on predictive performance, the best time series classifiers are black-box models, which are not understandable from a human standpoint. Even the approaches that are regarded as interpretable, such as shapelet-based ones, rely on randomization to maintain computational efficiency. This poses challenges for interpretability, as the explanation can change from run to run. Given these limitations, we propose the Bag-Of-Receptive-Field (BORF), a fast, interpretable, and deterministic time series transform. Building upon the classical Bag-Of-Patterns, we bridge the gap between convolutional operators and discretization, enhancing the Symbolic Aggregate Approximation (SAX) with dilation and stride, which can more effectively capture temporal patterns at multiple scales. We propose an algorithmic speedup that reduces the time complexity associated with SAX-based classifiers, allowing the extension of the Bag-Of-Patterns to the more flexible Bag-Of-Receptive-Fields, represented as a sparse multivariate tensor. The empirical results from testing our proposal on more than 150 univariate and multivariate classification datasets demonstrate good accuracy and great computational efficiency compared to traditional SAX-based methods and state-of-the-art time series classifiers, while providing easy-to-understand explanations.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:41:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2311.18029v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

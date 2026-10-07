@@ -180,3 +180,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06817v1](http://arxiv.org/abs/2610.06817v1)
 
+## WorldSonus: Bringing Sound to Worlds
+- **ID**: arxiv_2610.08760v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08760v1](http://arxiv.org/abs/2610.08760v1)
+

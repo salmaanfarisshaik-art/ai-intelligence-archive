@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.08719v1",
+  "schema_version": "1.0",
+  "name": "Holdout Best-of-N: Unbiased Evaluation and Its Cost",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.08719v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.08719v1",
+    "updated": "2026-10-06T17:26:05Z",
+    "published": "2026-10-06T17:26:05Z",
+    "title": "Holdout Best-of-N: Unbiased Evaluation and Its Cost",
+    "summary": "Reusing the scores that select a Best-of-$N$ winner can overstate its expected reward. We study evaluation from a fixed matrix of $K$ independent scores per candidate for a policy that selects using $J$ fresh scores. A single estimator based only on this matrix is exactly unbiased for expected judge reward under every independent, stable collection of candidate-specific score laws if and only if $J<K$, for every pool size $M\\ge N\\ge2$. At $J=K-1$, the selector deepens as $K$ grows. For independent Gaussian scores with common variance and fixed $M\\ge N\\ge2$, the unbiased minimax risk in this regime is of order $σ^2/\\sqrt K$, attained by Holdout; allowing bias improves the rate to $σ^2/K$. For two candidates, we derive the minimum-variance unbiased estimator at known variance and the sharp asymptotic unbiased minimax constant $1/(π\\sqrt2)$, which Holdout attains without knowing the variance. The cyclic average over subsets and ties can be computed in $O(MK\\log M)$ operations. At fixed selector depth, cyclic evaluation of bounded scores has $O(K^{-1})$ risk uniformly in pool size. The impossibility result concerns the fixed matrix: one additional fresh winner score permits unbiased evaluation of the all-$K$ policy.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:26:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.08719v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

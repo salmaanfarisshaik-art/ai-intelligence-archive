@@ -80,6 +80,7 @@
 | [Adaptive Filtering of the KV Cache: Diagnosing and Correcting Structural-Role Bias in LLM Inference](http://arxiv.org/abs/2607.13205v2) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v1) | ArXiv |  | 1 |
 | [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization](http://arxiv.org/abs/2606.14694v2) | ArXiv |  | 1 |
+| [AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model](http://arxiv.org/abs/2610.08773v1) | ArXiv |  | 1 |
 | [Affective Context Amplifies Sycophancy in LLM Responses](http://arxiv.org/abs/2608.21242v1) | ArXiv |  | 1 |
 | [AfriNLLB: Efficient Translation Models for African Languages](http://arxiv.org/abs/2602.09373v2) | ArXiv |  | 1 |
 | [Agensh: Scaling Organizational Intelligence to 1,024 Agents](http://arxiv.org/abs/2609.26781v1) | ArXiv |  | 1 |
@@ -88,6 +89,7 @@
 | [Agentic Detection of Online Conspiracies](http://arxiv.org/abs/2609.30250v1) | ArXiv |  | 1 |
 | [AgentRM: Enhancing Agent Generalization with Reward Modeling](http://arxiv.org/abs/2502.18407v2) | ArXiv |  | 1 |
 | [AgentSpec: Understanding Embodied Agent Scaffolds Through Controlled Composition](http://arxiv.org/abs/2606.14674v1) | ArXiv |  | 1 |
+| [Agreement Is Not Validity: Cross-Model LLM Consensus in Diagnosing Student Failure Modes in K-12 Math Tutoring Dialogue](http://arxiv.org/abs/2610.08703v1) | ArXiv |  | 1 |
 | [AI systems and the reproduction of (standard) language ideologies in World Englishes](http://arxiv.org/abs/2607.28528v1) | ArXiv |  | 1 |
 | [AI translation of literary texts is "fine", but readers still prefer human translations](http://arxiv.org/abs/2606.26040v2) | ArXiv |  | 1 |
 | [An ambiguity taxonomy for evaluating large language model performance on clinical registry abstraction: a multi-site prospective study](http://arxiv.org/abs/2608.20373v2) | ArXiv |  | 1 |
@@ -103,6 +105,7 @@
 | [ARGUS: Role-Aware Event Knowledge Graphs for U.S. Employment-Discrimination Complaints](http://arxiv.org/abs/2609.30184v1) | ArXiv |  | 1 |
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](http://arxiv.org/abs/2607.21498v1) | ArXiv |  | 1 |
+| [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](http://arxiv.org/abs/2510.22954v2) | ArXiv |  | 1 |
 | [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) | ArXiv |  | 1 |
 | [Aspire: Can Models Self-Evolve from Vague Goals?](http://arxiv.org/abs/2608.31111v1) | ArXiv |  | 1 |
 | [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](http://arxiv.org/abs/2505.23851v3) | ArXiv |  | 1 |
@@ -181,6 +184,7 @@
 | [ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls](http://arxiv.org/abs/2608.11200v1) | ArXiv |  | 1 |
 | [ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings](http://arxiv.org/abs/2608.23551v1) | ArXiv |  | 1 |
 | [ConWriter: Transition-Constrained Stateful Long-Form Story Generation with Lightweight Neuro-Symbolic Consistency Control](http://arxiv.org/abs/2608.05169v2) | ArXiv |  | 1 |
+| [Cooperative Profiles Predict Multi-Agent LLM Team Performance in AI for Science Workflows](http://arxiv.org/abs/2604.20658v2) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v1) | ArXiv |  | 1 |
 | [Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning](http://arxiv.org/abs/2607.19345v2) | ArXiv |  | 1 |
 | [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment](http://arxiv.org/abs/2606.14691v1) | ArXiv |  | 1 |
@@ -194,6 +198,7 @@
 | [Creative Transformation in Literary Texts: Modelling Change Across Representational Levels](http://arxiv.org/abs/2607.28513v1) | ArXiv |  | 1 |
 | [CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity](http://arxiv.org/abs/2608.07460v1) | ArXiv |  | 1 |
 | [CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes](http://arxiv.org/abs/2608.27455v1) | ArXiv |  | 1 |
+| [Cross-Lingual Activation Steering for Multilingual Language Models](http://arxiv.org/abs/2601.16390v2) | ArXiv |  | 1 |
 | [Cross-Lingual Alignment for Decoder-Only Models using MoE Routers](http://arxiv.org/abs/2610.01921v2) | ArXiv |  | 1 |
 | [Cross-lingual Functional Vectors for Emotion Detection in Large Language Models](http://arxiv.org/abs/2608.29613v1) | ArXiv |  | 1 |
 | [Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms](http://arxiv.org/abs/2609.28430v1) | ArXiv |  | 1 |
@@ -209,6 +214,7 @@
 | [Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness](http://arxiv.org/abs/2608.09900v1) | ArXiv |  | 1 |
 | [Decomposing Error and Style in Automated Clinical Coding](http://arxiv.org/abs/2609.24877v1) | ArXiv |  | 1 |
 | [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents](http://arxiv.org/abs/2606.17029v1) | ArXiv |  | 1 |
+| [Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling](http://arxiv.org/abs/2610.08738v1) | ArXiv |  | 1 |
 | [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search](http://arxiv.org/abs/2607.27178v1) | ArXiv |  | 1 |
 | [Dependency Parsing Across the Resource Spectrum: Evaluating Architectures on High and Low-Resource Languages](http://arxiv.org/abs/2605.02608v2) | ArXiv |  | 1 |
 | [Design of the IBM Granite 5.0 TurboCTC ASR Model](http://arxiv.org/abs/2609.20104v1) | ArXiv |  | 2 |
@@ -244,6 +250,7 @@
 | [EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
 | [ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue](http://arxiv.org/abs/2609.17360v1) | ArXiv |  | 1 |
 | [EchoDistill: Robust Large Audio Language Models via Noisy-to-Clean Self-Distillation](http://arxiv.org/abs/2605.23954v2) | ArXiv |  | 1 |
+| [ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks](http://arxiv.org/abs/2609.29102v2) | ArXiv |  | 1 |
 | [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) | ArXiv |  | 1 |
 | [Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation](http://arxiv.org/abs/2609.17398v1) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
@@ -260,6 +267,7 @@
 | [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1) | ArXiv |  | 1 |
 | [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1) | ArXiv |  | 1 |
 | [Evolving language compositionality in a frequency-structured meaning space](http://arxiv.org/abs/2607.29642v1) | ArXiv |  | 1 |
+| [Evolving language compositionality in a frequency-structured meaning space](http://arxiv.org/abs/2607.29642v2) | ArXiv |  | 1 |
 | [Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya](http://arxiv.org/abs/2607.15209v1) | ArXiv |  | 1 |
 | [ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints](http://arxiv.org/abs/2608.24760v1) | ArXiv |  | 1 |
 | [Explanations of Large Language Models Explain Language Representations in the Brain](http://arxiv.org/abs/2502.14671v4) | ArXiv |  | 1 |
@@ -314,6 +322,7 @@
 | [Hierarchical Continuous Diffusion Language Models](http://arxiv.org/abs/2610.02193v1) | ArXiv |  | 1 |
 | [Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](http://arxiv.org/abs/2608.29605v1) | ArXiv |  | 1 |
 | [Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis](http://arxiv.org/abs/2610.03176v1) | ArXiv |  | 1 |
+| [Holdout Best-of-N: Unbiased Evaluation and Its Cost](http://arxiv.org/abs/2610.08719v1) | ArXiv |  | 1 |
 | [How broad is that claim? Mapping Generalisation in NLP Research](http://arxiv.org/abs/2609.14770v2) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v1) | ArXiv |  | 1 |
@@ -331,11 +340,13 @@
 | [HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses](http://arxiv.org/abs/2609.15938v1) | ArXiv |  | 1 |
 | [IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier](http://arxiv.org/abs/2609.10494v1) | ArXiv |  | 1 |
 | [IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications](http://arxiv.org/abs/2609.10539v1) | ArXiv |  | 1 |
+| [IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas](http://arxiv.org/abs/2610.08781v1) | ArXiv |  | 1 |
 | [IdeaLens: Detecting AI Ideas in Long-form Writing](http://arxiv.org/abs/2610.06778v1) | ArXiv |  | 1 |
 | [If LLMs Have Human-Like Attributes, Then So Does Age of Empires II](http://arxiv.org/abs/2605.31514v3) | ArXiv |  | 1 |
 | [IMPACTeen: Intentions, Manipulation, Persuasion, Annotations, and Consequences in Teen Communication Dataset](http://arxiv.org/abs/2606.16910v1) | ArXiv |  | 1 |
 | [Implicit vs. Explicit Prompting Strategies for LVLMs in Referential Communication](http://arxiv.org/abs/2606.17372v2) | ArXiv |  | 1 |
 | [Improving Diversity in LLM Short Story Generation](http://arxiv.org/abs/2610.06729v1) | ArXiv |  | 1 |
+| [Improving Diversity in LLM Short Story Generation](http://arxiv.org/abs/2610.06729v2) | ArXiv |  | 1 |
 | [Improving Information Extraction with Learned Queries](http://arxiv.org/abs/2608.31058v1) | ArXiv |  | 1 |
 | [Improving Test-Time Scaling with Adaptive Looped Transformers](http://arxiv.org/abs/2609.35748v1) | ArXiv |  | 1 |
 | [In-Place Tokenizer Expansion for Pre-trained LLMs](http://arxiv.org/abs/2607.15232v1) | ArXiv |  | 1 |
@@ -424,6 +435,7 @@
 | [LVLMs and Humans Ground Differently in Referential Communication](http://arxiv.org/abs/2601.19792v5) | ArXiv |  | 1 |
 | [Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](http://arxiv.org/abs/2609.23371v1) | ArXiv |  | 1 |
 | [Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction](http://arxiv.org/abs/2608.27397v1) | ArXiv |  | 1 |
+| [Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal](http://arxiv.org/abs/2609.38627v3) | ArXiv |  | 1 |
 | [Mask-Aware Policy Gradients for Diffusion Language Models](http://arxiv.org/abs/2607.15200v1) | ArXiv |  | 1 |
 | [MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize](http://arxiv.org/abs/2608.25449v2) | ArXiv |  | 1 |
 | [Mawqif-XT: An Arabic Benchmark Dataset for Cross-Target Stance Detection](http://arxiv.org/abs/2608.09539v3) | ArXiv |  | 1 |
@@ -664,6 +676,7 @@
 | [The Illusion of Cross-Lingual Safety in Low-Resource Languages](http://arxiv.org/abs/2608.11146v1) | ArXiv |  | 1 |
 | [The IOL-AI Challenge: An Open Challenge towards Advancing Linguistic Reasoning](http://arxiv.org/abs/2608.18011v1) | ArXiv |  | 1 |
 | [The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models](http://arxiv.org/abs/2607.20265v1) | ArXiv |  | 1 |
+| [The Missing Minimal Pair: Stereotype Evaluation in LLMs](http://arxiv.org/abs/2610.08747v1) | ArXiv |  | 1 |
 | [The Path Matters: Evaluating Small Language Models Beyond Answer Accuracy in KGQA](http://arxiv.org/abs/2609.27669v1) | ArXiv |  | 1 |
 | [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](http://arxiv.org/abs/2607.24720v1) | ArXiv |  | 1 |
 | [The Rise of Verbal Reinforcement Learning](http://arxiv.org/abs/2609.01597v1) | ArXiv |  | 1 |
@@ -727,6 +740,7 @@
 | [What, Where, and How: Disentangling the Roles of Task, Language, and Model in Code Model Representations](http://arxiv.org/abs/2607.21491v1) | ArXiv |  | 1 |
 | [When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings](http://arxiv.org/abs/2608.03994v1) | ArXiv |  | 1 |
 | [When Consistency Becomes Bias: Interviewer Effects in Semi-Structured Clinical Interviews](http://arxiv.org/abs/2603.24651v2) | ArXiv |  | 1 |
+| [When Forgetting is not Catastrophic: On the Mechanics of Spurious Forgetting](http://arxiv.org/abs/2610.08718v1) | ArXiv |  | 1 |
 | [When Iterative RAG Beats Ideal Evidence: A Diagnostic Study in Scientific Multi-hop Question Answering](http://arxiv.org/abs/2601.19827v5) | ArXiv |  | 1 |
 | [When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v4) | ArXiv |  | 1 |
 | [When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World](http://arxiv.org/abs/2608.23507v1) | ArXiv |  | 1 |

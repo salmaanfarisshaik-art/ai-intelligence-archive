@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.08684v1",
+  "schema_version": "1.0",
+  "name": "RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.08684v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.08684v1",
+    "updated": "2026-10-06T17:03:55Z",
+    "published": "2026-10-06T17:03:55Z",
+    "title": "RenderBench: Benchmarking Render-to-Real Video Transfer with Reconstructed Digital Twins",
+    "summary": "Modern video models can generate realistic videos from real appearance references and proxy renders that specify scene structure, viewpoint changes, and motion. Evaluating this render-to-real capability requires a real target video depicting the same scene evolution, paired with an editable, geometrically registered 3D replica. Such data has traditionally required substantial manual modeling, calibration, and animation effort. We introduce RenderBench, a benchmark of 12 reconstructed real-world scenes spanning large-scale indoor environments and egocentric viewpoints, with both static and dynamic settings. Our construction pipeline combines visual geometry, neural reconstruction, and assisted 3D authoring. Each scene is decomposed into static objects and dynamic actors, registered to the capture cameras, and accepted only after multi-view geometric and temporal validation. Each evaluation unit contains appearance reference images, a held-out real target video, an editable digital twin, a matched proxy render, and renderer-native scene annotations. We evaluate transfer models against paired real target videos, retain PAI-Bench-C-compatible structural projections, and use scene annotations to localize failures by object, visibility, articulation, and motion. The first release retains 12 of 14 registered samples (85.7%), comprising 1,496 paired real-proxy frames. All released scenes pass file-integrity and environment-edit audits, while proxy diagnostics yield a depth si-RMSE of 0.2170 and instance mIoU of 0.3673. RenderBench provides paired real observations and editable scene state for assessing both appearance fidelity and preservation of geometry and dynamics.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:03:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.08684v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

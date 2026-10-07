@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.08722v2](http://arxiv.org/abs/2609.08722v2)
 
+## Local Content-Style Control for Diffusion-based Image Stylization
+- **ID**: arxiv_2610.08704v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08704v1](http://arxiv.org/abs/2610.08704v1)
+

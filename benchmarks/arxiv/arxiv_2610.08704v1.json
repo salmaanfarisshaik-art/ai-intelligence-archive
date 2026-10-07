@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.08704v1",
+  "schema_version": "1.0",
+  "name": "Local Content-Style Control for Diffusion-based Image Stylization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.08704v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.08704v1",
+    "updated": "2026-10-06T17:16:11Z",
+    "published": "2026-10-06T17:16:11Z",
+    "title": "Local Content-Style Control for Diffusion-based Image Stylization",
+    "summary": "Image stylization with latent-diffusion models entangles two independently refined axes: what a region depicts and how it is depicted. Such pipelines expose only global controls, yet professional retouching demands deliberate, region-specific control. We lift two conditioning weights already present in a ControlNet + IP-Adapter stylization pipeline from global scalars to per-location spatial maps, yielding local, per-axis control of content and style in a single generative pass. Because the two weights act on disjoint pathways, adjusting them independently spans a 2x2 retouching vocabulary, from free regeneration to identity preservation. We validate that edits stay confined to the retouched region and that each weight predominantly steers its own axis. Our approach requires no retraining and drops unchanged into any such pipeline.",
+    "primary_category": "cs.GR"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:16:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.08704v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

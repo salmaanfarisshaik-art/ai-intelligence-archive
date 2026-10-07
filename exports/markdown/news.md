@@ -3686,6 +3686,11 @@
 - **URL**: [https://openai.com/index/jukebox](https://openai.com/index/jukebox)
 
 ## 
+- **ID**: rss_https://openai.com/index/jump-trading
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/jump-trading](https://openai.com/index/jump-trading)
+
+## 
 - **ID**: rss_https://openai.com/index/k-12-educators-practical-skills
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/k-12-educators-practical-skills](https://openai.com/index/k-12-educators-practical-skills)
@@ -5474,6 +5479,11 @@
 - **ID**: rss_https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai](https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai)
+
+## 
+- **ID**: rss_https://openai.com/index/sharing-ai-progress-in-mathematics
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/sharing-ai-progress-in-mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)
 
 ## 
 - **ID**: rss_https://openai.com/index/sharing-the-latest-model-spec

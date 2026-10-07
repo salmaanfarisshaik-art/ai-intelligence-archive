@@ -1,5 +1,10 @@
 # Cs.Lg Export
 
+## Fast, Interpretable, and Deterministic Time Series Classification With a Bag-of-Receptive-Fields
+- **ID**: arxiv_2311.18029v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2311.18029v2](http://arxiv.org/abs/2311.18029v2)
+
 ## CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics
 - **ID**: arxiv_2404.19725v9
 - **Source**: ArXiv
@@ -449,6 +454,11 @@
 - **ID**: arxiv_2605.20314v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20314v2](http://arxiv.org/abs/2605.20314v2)
+
+## Reinforcement Learning over Predictive Distributions for LLM Regression
+- **ID**: arxiv_2605.20740v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.20740v2](http://arxiv.org/abs/2605.20740v2)
 
 ## Amplifying, Not Learning: The Price of Out-of-Distribution Generalization in AI-Text Detection
 - **ID**: arxiv_2605.21653v2
@@ -1994,4 +2004,9 @@
 - **ID**: arxiv_2610.06851v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06851v1](http://arxiv.org/abs/2610.06851v1)
+
+## Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation
+- **ID**: arxiv_2610.08743v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08743v1](http://arxiv.org/abs/2610.08743v1)
 

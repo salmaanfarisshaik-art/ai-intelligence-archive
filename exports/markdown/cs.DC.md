@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23321v1](http://arxiv.org/abs/2609.23321v1)
 
+## KernelOPT: Dispatch-Aware Agentic Search for GPU Kernel Optimization
+- **ID**: arxiv_2609.30059v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30059v2](http://arxiv.org/abs/2609.30059v2)
+
 ## ASCEND: Personal AI Agents for Autonomous Scientific Computing Across HPC Clusters and GPU Workstations
 - **ID**: arxiv_2609.32868v2
 - **Source**: ArXiv

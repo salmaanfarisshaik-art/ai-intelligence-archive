@@ -150,6 +150,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14585v1](http://arxiv.org/abs/2606.14585v1)
 
+## Sensitivity Shaping for Latent Modeling
+- **ID**: arxiv_2606.14585v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.14585v2](http://arxiv.org/abs/2606.14585v2)
+
 ## CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation
 - **ID**: arxiv_2606.16935v1
 - **Source**: ArXiv
@@ -794,4 +799,14 @@
 - **ID**: arxiv_2610.06850v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06850v1](http://arxiv.org/abs/2610.06850v1)
+
+## EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning
+- **ID**: arxiv_2610.08726v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08726v1](http://arxiv.org/abs/2610.08726v1)
+
+## DepthWorld: 3D World Model for Robot Manipulation
+- **ID**: arxiv_2610.08780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08780v1](http://arxiv.org/abs/2610.08780v1)
 

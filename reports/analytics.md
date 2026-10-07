@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90486
+**Total Entities Tracked**: 90538
 
 ## Category Distribution
 
@@ -9,27 +9,27 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2201
 - **models**: 1797
-- **news**: 1275
+- **news**: 1277
 - **dataset**: 1194
-- **cs.CV**: 1111
+- **cs.CV**: 1125
 - **text-generation**: 1012
-- **cs.CL**: 746
-- **cs.AI**: 720
-- **cs.LG**: 399
-- **cs.RO**: 159
+- **cs.CL**: 760
+- **cs.AI**: 729
+- **cs.LG**: 402
+- **cs.RO**: 162
 - **cs.CR**: 80
 - **cs.SE**: 65
 - **tool**: 54
 - **cs.HC**: 43
-- **cs.IR**: 36
-- **cs.SD**: 36
+- **cs.IR**: 38
+- **cs.SD**: 37
 - **cs.CY**: 31
 - **eess.IV**: 17
 - **cs.MA**: 16
 - **eess.AS**: 16
 - **API**: 15
+- **cs.DC**: 12
 - **stat.ML**: 12
-- **cs.DC**: 11
 - **cs.GT**: 11
 - **Backend**: 10
 - **Database**: 10
@@ -41,9 +41,9 @@
 - **cs.DB**: 10
 - **cs.NI**: 10
 - **quant-ph**: 10
-- **cs.GR**: 8
+- **cs.GR**: 9
+- **cs.IT**: 8
 - **cs.AR**: 7
-- **cs.IT**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
@@ -66,6 +66,7 @@
 - **cs.SI**: 2
 - **econ.TH**: 2
 - **image-text-to-text**: 2
+- **physics.ao-ph**: 2
 - **q-bio.QM**: 2
 - **q-fin.PM**: 2
 - **q-fin.TR**: 2
@@ -84,7 +85,6 @@
 - **math.AG**: 1
 - **math.NA**: 1
 - **physics.acc-ph**: 1
-- **physics.ao-ph**: 1
 - **physics.comp-ph**: 1
 - **physics.flu-dyn**: 1
 - **physics.med-ph**: 1
@@ -97,9 +97,9 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31176
-- **ArXiv**: 3668
+- **ArXiv**: 3718
 - **Hugging Face**: 2019
-- **OpenAI Blog**: 1261
+- **OpenAI Blog**: 1263
 - **HuggingFace Datasets**: 194
 - **GitHub Trending**: 54
 - **BAIR Blog**: 14
@@ -142,23 +142,23 @@
 
 - **region:us**: 277
 - **text-generation**: 84
-- **library:datasets**: 83
-- **library:mlcroissant**: 83
-- **modality:text**: 78
+- **library:datasets**: 82
+- **library:mlcroissant**: 82
+- **modality:text**: 77
 - **license:apache-2.0**: 73
 - **endpoints_compatible**: 71
 - **transformers**: 71
 - **safetensors**: 70
 - **language:en**: 69
 - **conversational**: 65
-- **library:polars**: 63
-- **format:parquet**: 49
+- **library:polars**: 62
 - **license:mit**: 49
+- **format:parquet**: 48
 - **text-generation-inference**: 38
 - **deploy:azure**: 34
 - **library:pandas**: 32
-- **library:dask**: 31
 - **en**: 30
+- **library:dask**: 30
 - **task_categories:text-generation**: 28
 - **eval-results**: 26
 - **enterprise**: 25
@@ -184,9 +184,9 @@
 - **fp8**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
-- **size_categories:1M<n<10M**: 11
 - **size_categories:n>1T**: 11
 - **custom_code**: 10
 - **language:zh**: 10
+- **size_categories:1M<n<10M**: 10
 - **modality:audio**: 9
 - **python**: 9

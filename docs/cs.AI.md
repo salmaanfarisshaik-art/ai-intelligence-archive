@@ -102,6 +102,7 @@
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v5) | ArXiv |  | 1 |
 | [AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation](http://arxiv.org/abs/2609.38142v1) | ArXiv |  | 1 |
+| [Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](http://arxiv.org/abs/2610.08775v1) | ArXiv |  | 1 |
 | [Agent MechSuits: Mechanistic Subspace Safety Steering for Multi-Turn CLI Agents](http://arxiv.org/abs/2606.22673v2) | ArXiv |  | 1 |
 | [Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads](http://arxiv.org/abs/2606.06448v2) | ArXiv |  | 1 |
 | [Agent Step Value: Auditing Evaluator-Channel Reversals in Black-Box Agent Traces](http://arxiv.org/abs/2607.04419v4) | ArXiv |  | 1 |
@@ -249,6 +250,7 @@
 | [Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution](http://arxiv.org/abs/2609.38108v1) | ArXiv |  | 1 |
 | [Do Not Restart: Residual Completion for Stateful Agent Handoffs](http://arxiv.org/abs/2609.13800v2) | ArXiv |  | 1 |
 | [Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models](http://arxiv.org/abs/2607.21617v2) | ArXiv |  | 1 |
+| [Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus](http://arxiv.org/abs/2610.08722v1) | ArXiv |  | 1 |
 | [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) | ArXiv |  | 1 |
 | [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](http://arxiv.org/abs/2607.06503v2) | ArXiv |  | 1 |
 | [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](http://arxiv.org/abs/2609.04094v1) | ArXiv |  | 1 |
@@ -449,6 +451,7 @@
 | [Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe](http://arxiv.org/abs/2609.05395v1) | ArXiv |  | 1 |
 | [Multiagent Protocols with Aggregated Confidence Signals](http://arxiv.org/abs/2606.13591v1) | ArXiv |  | 1 |
 | [MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education](http://arxiv.org/abs/2609.19088v1) | ArXiv |  | 1 |
+| [nanoMuse: An Open-Source Personal Agent for Every Device You Own](http://arxiv.org/abs/2610.08699v1) | ArXiv |  | 1 |
 | [Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence](http://arxiv.org/abs/2609.05385v1) | ArXiv |  | 1 |
 | [NeSyCat Torch: A Differentiable Tensor Implementation of Categorical Semantics for Neurosymbolic Learning](http://arxiv.org/abs/2606.19279v1) | ArXiv |  | 1 |
 | [Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science](http://arxiv.org/abs/2607.13220v2) | ArXiv |  | 1 |
@@ -567,6 +570,7 @@
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
 | [ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1) | ArXiv |  | 1 |
 | [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1) | ArXiv |  | 1 |
+| [ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences](http://arxiv.org/abs/2610.08691v1) | ArXiv |  | 1 |
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v1) | ArXiv |  | 1 |
 | [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](http://arxiv.org/abs/2609.08228v2) | ArXiv |  | 1 |
 | [Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](http://arxiv.org/abs/2609.30177v1) | ArXiv |  | 1 |
@@ -583,6 +587,7 @@
 | [Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs](http://arxiv.org/abs/2609.17109v1) | ArXiv |  | 1 |
 | [SHE: Trajectory-driven Safety Harness Evolution for LLM Agents](http://arxiv.org/abs/2608.09885v1) | ArXiv |  | 1 |
 | [SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning](http://arxiv.org/abs/2608.14452v1) | ArXiv |  | 1 |
+| [Sherpa: Teaching LLMs to Teach Adaptively](http://arxiv.org/abs/2610.08778v1) | ArXiv |  | 1 |
 | [Shielded Analysis: Certification and Characterization of Defensibility in Systems under Adversarial Interaction](http://arxiv.org/abs/2606.13621v2) | ArXiv |  | 1 |
 | [Shift Aware Transfer Learning with Adaptive Dual-Encoder Fusion for PM Forecasting in Data-Limited Environments](http://arxiv.org/abs/2608.14456v1) | ArXiv |  | 1 |
 | [Shockingly Simple Self-retrospection Improves Agentic Models Without RL](http://arxiv.org/abs/2609.35741v1) | ArXiv |  | 1 |
@@ -679,6 +684,7 @@
 | [Tuning the Stochastic Machine: A Systems Engineer's Operating Model for Human-AI Engineering](http://arxiv.org/abs/2608.19125v1) | ArXiv |  | 1 |
 | [Turbo Harness: Instance-Adaptive Harness Optimization](http://arxiv.org/abs/2609.40330v1) | ArXiv |  | 1 |
 | [Twin: Playing an Unknown Game with a Test-Time Digital Twin](http://arxiv.org/abs/2608.14490v1) | ArXiv |  | 1 |
+| [TwinCheck: Evidence-Grounded Negative-Twin Verification for Stateful Tool Agents](http://arxiv.org/abs/2609.26911v2) | ArXiv |  | 1 |
 | [Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](http://arxiv.org/abs/2504.09772v3) | ArXiv |  | 1 |
 | [TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology](http://arxiv.org/abs/2606.19245v1) | ArXiv |  | 1 |
 | [Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It](http://arxiv.org/abs/2609.26758v1) | ArXiv |  | 1 |
@@ -691,6 +697,7 @@
 | [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) | ArXiv |  | 1 |
 | [Verification of Adaptive Agentic Controllers through Finite Rule Revision](http://arxiv.org/abs/2607.09770v2) | ArXiv |  | 1 |
 | [Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control](http://arxiv.org/abs/2609.35677v1) | ArXiv |  | 1 |
+| [VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning](http://arxiv.org/abs/2610.08761v1) | ArXiv |  | 1 |
 | [VeriSimpl: Robust Optimization Modeling from Natural Language using Simplification-based Verification](http://arxiv.org/abs/2607.20474v2) | ArXiv |  | 1 |
 | [VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences](http://arxiv.org/abs/2608.21357v1) | ArXiv |  | 1 |
 | [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |
@@ -721,8 +728,10 @@
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](http://arxiv.org/abs/2607.27599v2) | ArXiv |  | 1 |
 | [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | ArXiv |  | 1 |
+| [WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](http://arxiv.org/abs/2610.08720v1) | ArXiv |  | 1 |
 | [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |
 | [Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports](http://arxiv.org/abs/2608.14446v1) | ArXiv |  | 1 |
 | [X+Slides: Benchmarking Audience-Conditioned Slide Generation](http://arxiv.org/abs/2606.19256v1) | ArXiv |  | 1 |
+| [XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction](http://arxiv.org/abs/2605.05866v2) | ArXiv |  | 1 |
 | [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](http://arxiv.org/abs/2606.18142v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

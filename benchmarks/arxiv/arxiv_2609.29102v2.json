@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.29102v2",
+  "schema_version": "1.0",
+  "name": "ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.29102v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.29102v2",
+    "updated": "2026-10-06T17:43:50Z",
+    "published": "2026-09-24T06:33:19Z",
+    "title": "ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks",
+    "summary": "Fully continuous diffusion language models (dLMs) denoise continuous representations without intermediate discretization, then decode all response tokens in parallel at the final step. Their performance on challenging reasoning tasks remains less established than that of autoregressive (AR) LLMs and masked dLMs. We scale Embedded Language Flows (ELF) to mathematical reasoning and code generation on GSM8K, MATH-500, HumanEval, and MBPP. We introduce ELF-REG, which improves learning with representation alignment and entanglement (REPA+REG), where a frozen AR teacher supervises intermediate denoiser features and supplies a global representation that is jointly denoised with the response. ELF-REG-L achieves 55.96% pass@1 on GSM8K at 64 network function evaluations (NFE), and 13.39% on MATH-500 and 22.56% on HumanEval at 128 NFE. It outperforms the evaluated comparable-scale dLMs in pass@1 on GSM8K and code, and improves MATH-500 pass@1 from 10.55% for the ELF-L baseline to 13.39% with ELF-REG-L. Without few-step training, the same task-specific checkpoints support strong low-NFE performance through early-stop, which decodes an intermediate clean prediction without completing the denoising trajectory. At 16 NFE, ELF-REG-L reaches 41.21% HumanEval pass@10, outperforming recent continuous dLMs of comparable scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-07T02:05:48Z",
+  "last_updated": "2026-10-06T17:43:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.29102v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
