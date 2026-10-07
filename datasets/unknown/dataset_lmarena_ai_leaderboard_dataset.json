@@ -4,10 +4,10 @@
   "author": "lmarena-ai",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-06T03:02:27.000Z",
+  "lastModified": "2026-10-07T03:02:05.000Z",
   "likes": 28,
   "private": false,
-  "sha": "be06b33784531833af86ad96817e12ba2a965b30",
+  "sha": "c60d8c87f00021ce81bde0cda4515d4d6bba730a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tArena Leaderboard Dataset\n\t\n\nHistorical snapshots of the Arena leaderboard.\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\n# Load all historical text style control data\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"full\")\n\n# Load the current text style control leaderboard\nds = load_dataset(\"lmarena-ai/leaderboard-dataset\", \"text_style_control\", split=\"latest\")\n\n# Filter to overall category\nds =… See the full description on the dataset page: https://huggingface.co/datasets/lmarena-ai/leaderboard-dataset.",
   "downloads": 74731,
   "tags": [

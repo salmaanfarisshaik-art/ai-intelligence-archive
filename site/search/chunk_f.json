@@ -58835,6 +58835,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_ibm_granite_granite_4_2_30b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_ibm_granite_granite_4_2_3b",
       "match_type": "exact",
       "score": 1.5
@@ -77394,6 +77399,20 @@
       "entity_id": "alpaca_7733145541604678760",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "florence": [
+    {
+      "entity_id": "model_onnx_community_florence_2_base_ft",
+      "match_type": "exact",
+      "score": 5.0
+    }
+  ],
+  "florence2": [
+    {
+      "entity_id": "model_onnx_community_florence_2_base_ft",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "flores": [
@@ -165953,11 +165972,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_fujinchu_imgbed",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_funnymdc_dance",
       "match_type": "exact",
       "score": 1.5
@@ -168488,6 +168502,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_meaecosystem_pustaka",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_meibo002114_fip1",
       "match_type": "exact",
       "score": 1.5
@@ -169293,6 +169312,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 1.5
@@ -169914,11 +169938,6 @@
     },
     {
       "entity_id": "dataset_vinai_phost",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_vincewin_crest_data",
       "match_type": "exact",
       "score": 1.5
     },
@@ -182241,6 +182260,11 @@
     },
     {
       "entity_id": "model_huggingfacetb_smollm3_3b_base",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ibm_granite_granite_4_2_30b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -218253,6 +218277,11 @@
     }
   ],
   "ft": [
+    {
+      "entity_id": "model_onnx_community_florence_2_base_ft",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_unsloth_orpheus_3b_0_1_ft",
       "match_type": "exact",

@@ -1088,7 +1088,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
+- **Tags**: region:us
 
 ## genrobot2025/Gen-HumanEgo
 - **ID**: hf_ds_6a5466cdd7c4631ab9b28b80
