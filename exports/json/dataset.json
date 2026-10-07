@@ -5415,6 +5415,39 @@
     "local_path": "datasets/gutoportelaa/hf_ds_6a2afbce4ee2fe1cd5f3a6bd.json"
   },
   {
+    "id": "hf_ds_6a2ec08ae425e2822f53fef3",
+    "title": "wei82/precancer-omics-data",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "biology",
+      "cancer",
+      "genomics",
+      "language:en",
+      "license:other",
+      "medical",
+      "multiomics",
+      "oncology",
+      "precancer",
+      "region:us",
+      "scRNA-seq",
+      "single-cell",
+      "size_categories:n>1T",
+      "spatial-transcriptomics",
+      "tumor-progression"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/wei82"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/wei82/precancer-omics-data",
+    "local_path": "datasets/wei82/hf_ds_6a2ec08ae425e2822f53fef3.json"
+  },
+  {
     "id": "hf_ds_6a307dae8e258cbed418ec58",
     "title": "XDOF/ABC-130k",
     "category": "dataset",
@@ -5490,8 +5523,15 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],
@@ -5572,7 +5612,12 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
-      "region:us"
+      "format:imagefolder",
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:image",
+      "region:us",
+      "size_categories:n<1K"
     ],
     "links": {
       "related_models": [],

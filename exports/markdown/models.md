@@ -384,6 +384,10 @@
 - **ID**: model_autotrust_jev_9b
 - **Source**: 
 
+## avatargrim/Qwen2.5-7B_pyuigpt
+- **ID**: model_avatargrim_qwen2_5_7b_pyuigpt
+- **Source**: 
+
 ## AvitoTech/avibe
 - **ID**: model_avitotech_avibe
 - **Source**: 
@@ -2142,6 +2146,10 @@
 
 ## ibm-granite/granite-4.1-8b-fp8
 - **ID**: model_ibm_granite_granite_4_1_8b_fp8
+- **Source**: 
+
+## ibm-granite/granite-4.2-30b
+- **ID**: model_ibm_granite_granite_4_2_30b
 - **Source**: 
 
 ## ibm-granite/granite-4.2-3b
@@ -4204,6 +4212,10 @@
 - **ID**: model_omni_research_tarsier_7b
 - **Source**: 
 
+## onnx-community/Florence-2-base-ft
+- **ID**: model_onnx_community_florence_2_base_ft
+- **Source**: 
+
 ## onnx-community/Qwen2.5-0.5B-Instruct
 - **ID**: model_onnx_community_qwen2_5_0_5b_instruct
 - **Source**: 
@@ -5914,6 +5926,10 @@
 
 ## t-tech/T-lite-it-2.1
 - **ID**: model_t_tech_t_lite_it_2_1
+- **Source**: 
+
+## TaoLiveAIGC/TLive-Omni-4B
+- **ID**: model_taoliveaigc_tlive_omni_4b
 - **Source**: 
 
 ## tartuNLP/Llammas-base-p1-GPT-4o-human-error-mix-paragraph-GEC

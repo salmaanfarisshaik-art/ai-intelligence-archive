@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:49:55.610177+00:00",
+  "generated_at": "2026-10-07T17:16:05.996116+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -138540,6 +138540,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a2ec08ae425e2822f53fef3",
+      "label": "wei82/precancer-omics-data"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a307dae8e258cbed418ec58",
       "label": "XDOF/ABC-130k"
     },
@@ -146685,6 +146690,11 @@
     },
     {
       "category": "models",
+      "id": "model_avatargrim_qwen2_5_7b_pyuigpt",
+      "label": "avatargrim/Qwen2.5-7B_pyuigpt"
+    },
+    {
+      "category": "models",
       "id": "model_avitotech_avibe",
       "label": "AvitoTech/avibe"
     },
@@ -148882,6 +148892,11 @@
       "category": "models",
       "id": "model_ibm_granite_granite_4_1_8b_fp8",
       "label": "ibm-granite/granite-4.1-8b-fp8"
+    },
+    {
+      "category": "models",
+      "id": "model_ibm_granite_granite_4_2_30b",
+      "label": "ibm-granite/granite-4.2-30b"
     },
     {
       "category": "models",
@@ -151460,6 +151475,11 @@
     },
     {
       "category": "models",
+      "id": "model_onnx_community_florence_2_base_ft",
+      "label": "onnx-community/Florence-2-base-ft"
+    },
+    {
+      "category": "models",
       "id": "model_onnx_community_qwen2_5_0_5b_instruct",
       "label": "onnx-community/Qwen2.5-0.5B-Instruct"
     },
@@ -153597,6 +153617,11 @@
       "category": "models",
       "id": "model_t_tech_t_lite_it_2_1",
       "label": "t-tech/T-lite-it-2.1"
+    },
+    {
+      "category": "models",
+      "id": "model_taoliveaigc_tlive_omni_4b",
+      "label": "TaoLiveAIGC/TLive-Omni-4B"
     },
     {
       "category": "models",
@@ -297046,6 +297071,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/teens-learn-and-plan",
       "label": ""
     },
     {
@@ -452695,5 +452725,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 90538
+  "total_nodes": 90544
 }

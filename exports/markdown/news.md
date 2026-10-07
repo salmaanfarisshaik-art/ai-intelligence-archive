@@ -5851,6 +5851,11 @@
 - **URL**: [https://openai.com/index/teen-safety-policies-gpt-oss-safeguard](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)
 
 ## 
+- **ID**: rss_https://openai.com/index/teens-learn-and-plan
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/teens-learn-and-plan](https://openai.com/index/teens-learn-and-plan)
+
+## 
 - **ID**: rss_https://openai.com/index/ten-advances-in-mathematics
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/ten-advances-in-mathematics](https://openai.com/index/ten-advances-in-mathematics)

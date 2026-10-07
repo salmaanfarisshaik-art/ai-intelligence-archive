@@ -1048,6 +1048,12 @@
 - **URL**: [https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025](https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025)
 - **Tags**: brazil, government, language:pt, legal, library:datasets, library:mlcroissant, license:cc-by-4.0, modality:document, ocr-source, official-gazette, pdf, piaui, region:us, size_categories:10K<n<100K
 
+## wei82/precancer-omics-data
+- **ID**: hf_ds_6a2ec08ae425e2822f53fef3
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/wei82/precancer-omics-data](https://huggingface.co/datasets/wei82/precancer-omics-data)
+- **Tags**: biology, cancer, genomics, language:en, license:other, medical, multiomics, oncology, precancer, region:us, scRNA-seq, single-cell, size_categories:n>1T, spatial-transcriptomics, tumor-progression
+
 ## XDOF/ABC-130k
 - **ID**: hf_ds_6a307dae8e258cbed418ec58
 - **Source**: HuggingFace Datasets
@@ -1070,7 +1076,7 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
@@ -1088,7 +1094,7 @@
 - **ID**: hf_ds_6a517a8032bfea14be5a68aa
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/fujinchu/imgbed](https://huggingface.co/datasets/fujinchu/imgbed)
-- **Tags**: region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
 
 ## genrobot2025/Gen-HumanEgo
 - **ID**: hf_ds_6a5466cdd7c4631ab9b28b80

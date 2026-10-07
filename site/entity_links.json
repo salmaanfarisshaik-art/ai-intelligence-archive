@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:50:58Z",
+  "generated_at": "2026-10-07T17:17:10Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -9150,6 +9150,16 @@
       "source_id": "model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf",
       "target_id": "hf_windowsxp811203_Qwen3.8-Flash-Next-Abliterated",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_wraps_moondream_caption",
+      "target_id": "hf_vikhyatk_moondream2",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_wraps_moondream_caption",
+      "target_id": "hf_wraps_flux1_dev-small",
+      "type": "trained_on"
     },
     {
       "source_id": "model_xcloudinfo_xgemable_12b_coder_v1_5_gguf",

@@ -138536,6 +138536,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6a2ec08ae425e2822f53fef3",
+      "label": "wei82/precancer-omics-data",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6a307dae8e258cbed418ec58",
       "label": "XDOF/ABC-130k",
       "category": "dataset"
@@ -146681,6 +146686,11 @@
       "category": "models"
     },
     {
+      "id": "model_avatargrim_qwen2_5_7b_pyuigpt",
+      "label": "avatargrim/Qwen2.5-7B_pyuigpt",
+      "category": "models"
+    },
+    {
       "id": "model_avitotech_avibe",
       "label": "AvitoTech/avibe",
       "category": "models"
@@ -148878,6 +148888,11 @@
     {
       "id": "model_ibm_granite_granite_4_1_8b_fp8",
       "label": "ibm-granite/granite-4.1-8b-fp8",
+      "category": "models"
+    },
+    {
+      "id": "model_ibm_granite_granite_4_2_30b",
+      "label": "ibm-granite/granite-4.2-30b",
       "category": "models"
     },
     {
@@ -151456,6 +151471,11 @@
       "category": "models"
     },
     {
+      "id": "model_onnx_community_florence_2_base_ft",
+      "label": "onnx-community/Florence-2-base-ft",
+      "category": "models"
+    },
+    {
       "id": "model_onnx_community_qwen2_5_0_5b_instruct",
       "label": "onnx-community/Qwen2.5-0.5B-Instruct",
       "category": "models"
@@ -153593,6 +153613,11 @@
     {
       "id": "model_t_tech_t_lite_it_2_1",
       "label": "t-tech/T-lite-it-2.1",
+      "category": "models"
+    },
+    {
+      "id": "model_taoliveaigc_tlive_omni_4b",
+      "label": "TaoLiveAIGC/TLive-Omni-4B",
       "category": "models"
     },
     {
@@ -297042,6 +297067,11 @@
     },
     {
       "id": "rss_https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "label": "",
+      "category": "news"
+    },
+    {
+      "id": "rss_https://openai.com/index/teens-learn-and-plan",
       "label": "",
       "category": "news"
     },
@@ -471985,6 +472015,11 @@
     {
       "source": "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
       "target": "datasets/gutoportelaa",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a2ec08ae425e2822f53fef3",
+      "target": "datasets/wei82",
       "relationship": "related_models"
     },
     {

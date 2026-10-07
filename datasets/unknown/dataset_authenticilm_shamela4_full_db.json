@@ -5,11 +5,11 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-05-19T21:04:21.000Z",
-  "likes": 30,
+  "likes": 31,
   "private": false,
   "sha": "07554bee488a12955dd5231d08487ae7ce767d1e",
   "description": "\n\t\n\t\t\n\t\tShamela 4 — Full Islamic Library Corpus\n\t\n\nA complete extraction of al-Maktaba al-Shamela (الشاملة) v4, containing 8,589 books across 40 categories of classical Islamic sciences. Extracted from the original Lucene + Sqlite Shamela DB on 2026-04-26 with ~7.6 million pages and ~19 GB of Arabic text.\n\n\t\n\t\t\n\t\tDataset Structure\n\t\n\nstage0_raw/\n├── _meta/                          # Cross-cutting metadata (Parquet + JSONL)\n│   ├── extraction_manifest.json    # Global extraction record\n│   ├──… See the full description on the dataset page: https://huggingface.co/datasets/AuthenticIlm/Shamela4_Full_DB.",
-  "downloads": 40206,
+  "downloads": 40374,
   "tags": [
     "task_categories:text-generation",
     "task_categories:fill-mask",

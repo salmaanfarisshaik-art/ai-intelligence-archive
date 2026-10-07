@@ -1,0 +1,29 @@
+{
+  "_id": "6a45be251ec344bbee026fbc",
+  "id": "BVRA/animal-clef-2026",
+  "author": "BVRA",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-03T00:46:08.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "971bd14323ef10047ee8f79e5d0506c2ed3f9524",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tAnimalCLEF26 Kaggle Competition Dataset\n\t\n\nThis is a HuggingFace mirror of the official AnimalCLEF26 competition dataset. Images have been repackaged into one zipfile per split, which include additional metadata that makes the dataset easier to use with HuggingFace. Otherwise, no files have been changed.\n\n\t\n\t\t\n\t\n\t\n\t\tLoading\n\t\n\nfrom datasets import load_dataset\n\ndataset = load_dataset(\"BVRA/animal-clef-2026\")\n\nprint(dataset[\"train\"][0][\"image\"])\n\n\n\t\n\t\t\n\t\n\t\n\t\tDocumentation\n\t\n\nFor… See the full description on the dataset page: https://huggingface.co/datasets/BVRA/animal-clef-2026.",
+  "downloads": 34155,
+  "tags": [
+    "task_categories:image-classification",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "animal-re-identification"
+  ],
+  "createdAt": "2026-07-02T01:25:57.000Z",
+  "key": "",
+  "unique_id": "dataset_bvra_animal_clef_2026",
+  "schema_version": "1.0"
+}

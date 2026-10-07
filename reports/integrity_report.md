@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-07T09:49:57.646303+00:00
-**Warnings:** 3921
+**Generated:** 2026-10-07T17:16:08.069553+00:00
+**Warnings:** 3922
 **Errors:** 240
 
 ## Issues
@@ -4107,6 +4107,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/picbreeder-vlm
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tencent
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/gutoportelaa
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/wei82
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/XDOF
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Syn4D

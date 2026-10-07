@@ -27706,13 +27706,14 @@ hf_ds_6a1f3e49aa35c86b3f108f05,mteb/results,dataset,HuggingFace Datasets,format:
 hf_ds_6a252aa1e7f978cbccbe94ed,RoboDojo-Benchmark/RoboDojo,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/RoboDojo-Benchmark/RoboDojo
 hf_ds_6a2a5f5f2ef38e1f849a8ebf,tencent/Hy-Embodied-0.5-VLA-Data,dataset,HuggingFace Datasets,VLA|arxiv:2606.14409|bimanual|format:parquet|imitation-learning|lance|leRobot|library:datasets|library:lance|library:lerobot|library:mlcroissant|library:pandas|library:polars|license:cc-by-4.0|manipulation|modality:tabular|modality:text|region:us|robotics|size_categories:n<1K|task_categories:reinforcement-learning|task_categories:robotics,https://huggingface.co/datasets/tencent/Hy-Embodied-0.5-VLA-Data
 hf_ds_6a2afbce4ee2fe1cd5f3a6bd,gutoportelaa/dom-pi-pdfs-2025,dataset,HuggingFace Datasets,brazil|government|language:pt|legal|library:datasets|library:mlcroissant|license:cc-by-4.0|modality:document|ocr-source|official-gazette|pdf|piaui|region:us|size_categories:10K<n<100K,https://huggingface.co/datasets/gutoportelaa/dom-pi-pdfs-2025
+hf_ds_6a2ec08ae425e2822f53fef3,wei82/precancer-omics-data,dataset,HuggingFace Datasets,biology|cancer|genomics|language:en|license:other|medical|multiomics|oncology|precancer|region:us|scRNA-seq|single-cell|size_categories:n>1T|spatial-transcriptomics|tumor-progression,https://huggingface.co/datasets/wei82/precancer-omics-data
 hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:2606.27375|bimanual|imitation-learning|language:en|license:apache-2.0|manipulation|mcap|region:us|robotics|size_categories:n>1T|task_categories:robotics|teleoperation,https://huggingface.co/datasets/XDOF/ABC-130k
 hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer
 hf_ds_6a382f6fa519cd301493b37b,Syn4D/Syn4D,dataset,HuggingFace Datasets,arxiv:2605.05207|license:cc-by-4.0|region:us,https://huggingface.co/datasets/Syn4D/Syn4D
-hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/StringFellow/fusion-dw
+hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:apache-2.0|modality:text|region:us|size_categories:1M<n<10M,https://huggingface.co/datasets/StringFellow/fusion-dw
 hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
-hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/fujinchu/imgbed
+hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/fujinchu/imgbed
 hf_ds_6a5466cdd7c4631ab9b28b80,genrobot2025/Gen-HumanEgo,dataset,HuggingFace Datasets,egocentric|embodied-ai|hand-tracking|language:en|license:cc-by-sa-4.0|manipulation|region:us|robotics|size_categories:n>1T|slam|task_categories:robotics|trajectory|vla,https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo
 hf_ds_6a60568ac2d6c31b7f81bdc8,scorpionjacketguy/physics-course-vids,dataset,HuggingFace Datasets,modality:document|modality:text|region:us|size_categories:n<1K,https://huggingface.co/datasets/scorpionjacketguy/physics-course-vids
 hf_ds_6a615c95fb10b1093e0ea9ed,HuggingFaceCode/stack-v3-train,dataset,HuggingFace Datasets,arxiv:2402.19173|code|language:code|language_creators:crowdsourced|language_creators:expert-generated|license:odc-by|multilinguality:multilingual|region:us|size_categories:100M<n<1B|task_categories:text-generation,https://huggingface.co/datasets/HuggingFaceCode/stack-v3-train
@@ -29335,6 +29336,7 @@ model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf,audreyt/CyberNeuro
 model_augmxnt_shisa_gamma_7b_v1,augmxnt/shisa-gamma-7b-v1,models,,,
 model_autotrust_jev_27b,autotrust/JEV-27B,models,,,
 model_autotrust_jev_9b,autotrust/JEV-9B,models,,,
+model_avatargrim_qwen2_5_7b_pyuigpt,avatargrim/Qwen2.5-7B_pyuigpt,models,,,
 model_avitotech_avibe,AvitoTech/avibe,models,,,
 model_azukivc_qwen3_8_27b_uncensored_gguf,azukivc/Qwen3.8-27B-Uncensored-GGUF,models,,,
 model_baai_aquilachat2_7b,BAAI/AquilaChat2-7B,models,,,
@@ -29775,6 +29777,7 @@ model_ibm_granite_granite_4_1_3b,ibm-granite/granite-4.1-3b,models,,,
 model_ibm_granite_granite_4_1_3b_gguf,ibm-granite/granite-4.1-3b-GGUF,models,,,
 model_ibm_granite_granite_4_1_8b,ibm-granite/granite-4.1-8b,models,,,
 model_ibm_granite_granite_4_1_8b_fp8,ibm-granite/granite-4.1-8b-fp8,models,,,
+model_ibm_granite_granite_4_2_30b,ibm-granite/granite-4.2-30b,models,,,
 model_ibm_granite_granite_4_2_3b,ibm-granite/granite-4.2-3b,models,,,
 model_ibm_granite_granite_4_2_8b,ibm-granite/granite-4.2-8b,models,,,
 model_ibm_granite_granite_docling_258m,ibm-granite/granite-docling-258M,models,,,
@@ -30290,6 +30293,7 @@ model_obliteratus_qwen3_8_27b_obliterated,OBLITERATUS/Qwen3.8-27B-OBLITERATED,mo
 model_ocicek_qwen3_6_27b_nvfp4,ocicek/Qwen3.6-27B-NVFP4,models,,,
 model_omlab_vlx_seek_1_5_10b,omlab/VLX-Seek-1.5-10B,models,,,
 model_omni_research_tarsier_7b,omni-research/Tarsier-7b,models,,,
+model_onnx_community_florence_2_base_ft,onnx-community/Florence-2-base-ft,models,,,
 model_onnx_community_qwen2_5_0_5b_instruct,onnx-community/Qwen2.5-0.5B-Instruct,models,,,
 model_open_thoughts_openthinker3_7b,open-thoughts/OpenThinker3-7B,models,,,
 model_openai_community_gpt2,openai-community/gpt2,models,,,
@@ -30718,6 +30722,7 @@ model_swiss_ai_apertus_8b_instruct_2509,swiss-ai/Apertus-8B-Instruct-2509,models
 model_swiss_ai_apertus_v1_5_8b,swiss-ai/Apertus-v1.5-8B,models,,,
 model_syvai_plapre_nano,syvai/plapre-nano,models,,,
 model_t_tech_t_lite_it_2_1,t-tech/T-lite-it-2.1,models,,,
+model_taoliveaigc_tlive_omni_4b,TaoLiveAIGC/TLive-Omni-4B,models,,,
 model_tartunlp_llammas_base_p1_gpt_4o_human_error_mix_paragraph_gec,tartuNLP/Llammas-base-p1-GPT-4o-human-error-mix-paragraph-GEC,models,,,
 model_teamblobfish_deepseek_v4_flash_gguf,teamblobfish/DeepSeek-V4-Flash-GGUF,models,,,
 model_teamblobfish_deepseek_v4_pro_gguf,teamblobfish/DeepSeek-V4-Pro-GGUF,models,,,
@@ -59408,6 +59413,7 @@ rss_https://openai.com/index/techniques-for-training-large-neural-networks,,news
 rss_https://openai.com/index/teen-development-research-grants,,news,OpenAI Blog,,https://openai.com/index/teen-development-research-grants
 rss_https://openai.com/index/teen-safety-freedom-and-privacy,,news,OpenAI Blog,,https://openai.com/index/teen-safety-freedom-and-privacy
 rss_https://openai.com/index/teen-safety-policies-gpt-oss-safeguard,,news,OpenAI Blog,,https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
+rss_https://openai.com/index/teens-learn-and-plan,,news,OpenAI Blog,,https://openai.com/index/teens-learn-and-plan
 rss_https://openai.com/index/ten-advances-in-mathematics,,news,OpenAI Blog,,https://openai.com/index/ten-advances-in-mathematics
 rss_https://openai.com/index/ten-tiny-canvases,,news,OpenAI Blog,,https://openai.com/index/ten-tiny-canvases
 rss_https://openai.com/index/ten-years,,news,OpenAI Blog,,https://openai.com/index/ten-years
