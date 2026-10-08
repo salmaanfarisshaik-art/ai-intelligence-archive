@@ -1696,6 +1696,10 @@
 - **ID**: model_final_bench_pocket_35b_gguf
 - **Source**: 
 
+## FINAL-Bench/POCKET-Darwin-180B-GGUF
+- **ID**: model_final_bench_pocket_darwin_180b_gguf
+- **Source**: 
+
 ## fla-hub/transformer-1.3B-100B
 - **ID**: model_fla_hub_transformer_1_3b_100b
 - **Source**: 

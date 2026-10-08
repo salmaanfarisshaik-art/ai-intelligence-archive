@@ -137,11 +137,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ahashanahmed_csv
+- **Source**: 
+
+## 
 - **ID**: dataset_ahnaftaz_locus_commit_pool_v1
 - **Source**: 
 
 ## 
 - **ID**: dataset_ai4bharat_sangraha
+- **Source**: 
+
+## 
+- **ID**: dataset_ai4math_mathvista
 - **Source**: 
 
 ## 
@@ -645,6 +653,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_astralhf_yonder
+- **Source**: 
+
+## 
 - **ID**: dataset_ath_maas_marco_longspeech
 - **Source**: 
 
@@ -702,6 +714,10 @@
 
 ## 
 - **ID**: dataset_atokforps_latent_worker_early3_2
+- **Source**: 
+
+## 
+- **ID**: dataset_atokforps_latent_worker_early3_4
 - **Source**: 
 
 ## 
@@ -910,6 +926,10 @@
 
 ## 
 - **ID**: dataset_behavior_1k_2026_challenge_rawdata
+- **Source**: 
+
+## 
+- **ID**: dataset_benchflow_skillsbench_leaderboard
 - **Source**: 
 
 ## 
@@ -1266,6 +1286,10 @@
 
 ## 
 - **ID**: dataset_chilled_svamp
+- **Source**: 
+
+## 
+- **ID**: dataset_chongyanchen_vqaonline
 - **Source**: 
 
 ## 
@@ -1690,6 +1714,10 @@
 
 ## 
 - **ID**: dataset_drssth_modelnet_simscan
+- **Source**: 
+
+## 
+- **ID**: dataset_drt_kqa_pro
 - **Source**: 
 
 ## 
@@ -2505,6 +2533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hf_benchmarks_transformers
+- **Source**: 
+
+## 
 - **ID**: dataset_hf_doc_build_doc_build
 - **Source**: 
 
@@ -2697,6 +2729,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_houroux_polymarket_l2_history
+- **Source**: 
+
+## 
 - **ID**: dataset_hozifa1_telewat_daawa_and_channels
 - **Source**: 
 
@@ -2862,6 +2898,10 @@
 
 ## 
 - **ID**: dataset_huggingfacetb_smoltalk2
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfacevla_community_dataset_v3
 - **Source**: 
 
 ## 
@@ -4305,6 +4345,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_internrobotics_synthverse
+- **Source**: 
+
+## 
 - **ID**: dataset_internscience_researchclawbench
 - **Source**: 
 
@@ -4722,6 +4766,10 @@
 
 ## 
 - **ID**: dataset_khtao_openmind
+- **Source**: 
+
+## 
+- **ID**: dataset_kientran25736_jackal
 - **Source**: 
 
 ## 
@@ -5405,6 +5453,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_math_ai_aime26
+- **Source**: 
+
+## 
 - **ID**: dataset_math_ai_automathtext_2_5
 - **Source**: 
 
@@ -5930,6 +5982,10 @@
 
 ## 
 - **ID**: dataset_nguyenthison23_nguyenthison23
+- **Source**: 
+
+## 
+- **ID**: dataset_nguyenthithao1995_nguyenthithao1995
 - **Source**: 
 
 ## 
@@ -6650,6 +6706,10 @@
 
 ## 
 - **ID**: dataset_phamthibich2005_phamthibich2005
+- **Source**: 
+
+## 
+- **ID**: dataset_phamtien2005_phamtien2005
 - **Source**: 
 
 ## 
@@ -7781,6 +7841,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_szfspc_buyservices_backup
+- **Source**: 
+
+## 
 - **ID**: dataset_szhyxt_kokosg
 - **Source**: 
 
@@ -8629,6 +8693,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yelp_yelp_review_full
+- **Source**: 
+
+## 
 - **ID**: dataset_yenle84622_yenle84622
 - **Source**: 
 
@@ -8653,6 +8721,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yiic_egotextvqa
+- **Source**: 
+
+## 
 - **ID**: dataset_yijingguo_panocity
 - **Source**: 
 
@@ -8666,6 +8738,10 @@
 
 ## 
 - **ID**: dataset_ylecun_mnist
+- **Source**: 
+
+## 
+- **ID**: dataset_yootta_world_simready_home
 - **Source**: 
 
 ## 

@@ -1,0 +1,24 @@
+{
+  "_id": "6aa7115c5742475f97b8ee8c",
+  "id": "lamsheeper-data-attribution/route-attribution-baselines",
+  "author": "lamsheeper-data-attribution",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-30T14:16:28.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "2e82b6e8b0904f2388788b974a019a304ad13694",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\troute attribution scores (Rule Routings)\n\t\n\nThe attribution scores of \"Elucidating the Design Space of LM Data Attribution\"\non Rule Routings, for the LoRA adapters in\nlamsheeper-data-attribution/Qwen3.5-4B-route-ab-l8-lora-scale. The CATT code release reads them\nwith catt fetch results --task rr and rebuilds the paper's figures and tables\nfrom them with catt report results.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n{run}/{group}/scores.{method}.{arm}.npz   one [query, train] score matrix… See the full description on the dataset page: https://huggingface.co/datasets/lamsheeper-data-attribution/route-attribution-baselines.",
+  "downloads": 27651,
+  "tags": [
+    "license:mit",
+    "region:us",
+    "data-attribution",
+    "influence-functions",
+    "interpretability"
+  ],
+  "createdAt": "2026-09-13T21:10:52.000Z",
+  "key": "",
+  "unique_id": "dataset_lamsheeper_data_attribution_route_attribution_baselines",
+  "schema_version": "1.0"
+}

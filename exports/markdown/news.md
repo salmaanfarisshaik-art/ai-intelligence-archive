@@ -4831,6 +4831,11 @@
 - **URL**: [https://openai.com/index/optimizing-chatgpt](https://openai.com/index/optimizing-chatgpt)
 
 ## 
+- **ID**: rss_https://openai.com/index/oracle
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/oracle](https://openai.com/index/oracle)
+
+## 
 - **ID**: rss_https://openai.com/index/organizational-update
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/organizational-update](https://openai.com/index/organizational-update)
@@ -5039,6 +5044,11 @@
 - **ID**: rss_https://openai.com/index/polimill
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/polimill](https://openai.com/index/polimill)
+
+## 
+- **ID**: rss_https://openai.com/index/pollo-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/pollo-ai](https://openai.com/index/pollo-ai)
 
 ## 
 - **ID**: rss_https://openai.com/index/powering-product-discovery-in-chatgpt
