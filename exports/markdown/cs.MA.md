@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09150v1](http://arxiv.org/abs/2609.09150v1)
 
+## Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination
+- **ID**: arxiv_2609.14767v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.14767v2](http://arxiv.org/abs/2609.14767v2)
+
 ## Decomposition Buys Integrity, Not Yield
 - **ID**: arxiv_2609.17464v1
 - **Source**: ArXiv
@@ -79,4 +84,9 @@
 - **ID**: arxiv_2610.06748v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06748v1](http://arxiv.org/abs/2610.06748v1)
+
+## A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents
+- **ID**: arxiv_2610.10468v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10468v1](http://arxiv.org/abs/2610.10468v1)
 

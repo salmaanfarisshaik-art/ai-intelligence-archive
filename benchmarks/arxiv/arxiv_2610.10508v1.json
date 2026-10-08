@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.10508v1",
+  "schema_version": "1.0",
+  "name": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.10508v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.10508v1",
+    "updated": "2026-10-07T17:51:46Z",
+    "published": "2026-10-07T17:51:46Z",
+    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+    "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datasets and studies have examined this setting, showing that the current embedding models often struggle to follow such instructions reliably. In this paper, we study the mechanism of how instructions actually affect the representations of retrieval queries in asymmetric retrieval tasks. We show that models can fail to follow even simple task instructions when query-side distractors are included in the evaluation. We hypothesize that this behavior is driven by the training setup of current embedding models and their evaluation, and show that fine-tuning with added query-side distractors leads to substantial improvements, with minimal effect on other tasks.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T17:51:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.10508v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

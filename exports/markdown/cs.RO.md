@@ -810,3 +810,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08780v1](http://arxiv.org/abs/2610.08780v1)
 
+## FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding
+- **ID**: arxiv_2610.10462v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10462v1](http://arxiv.org/abs/2610.10462v1)
+
+## Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies
+- **ID**: arxiv_2610.10479v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10479v1](http://arxiv.org/abs/2610.10479v1)
+
+## Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models
+- **ID**: arxiv_2610.10526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10526v1](http://arxiv.org/abs/2610.10526v1)
+
+## Long-WAM: Scaling the Context of World-Action Models
+- **ID**: arxiv_2610.10528v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10528v1](http://arxiv.org/abs/2610.10528v1)
+

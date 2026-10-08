@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.14605v3",
+  "schema_version": "1.0",
+  "name": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.14605v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.14605v3",
+    "updated": "2026-10-07T16:55:56Z",
+    "published": "2026-05-14T09:22:14Z",
+    "title": "A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training",
+    "summary": "Model providers increasingly release the weights of large language models. Although these models are safety-aligned before release, their safeguards can often be removed by fine-tuning on harmful data. A growing class of defenses aims to make alignment robust to such malicious fine-tuning, but these defenses are typically evaluated against attacks with a fixed training budget, even though an attacker who holds the weights can simply train for longer. We ask whether current defenses withstand this simplest escalation. Surveying fifteen recent defenses, we find that they share a common weakness: each is built around a limited model of the attacker, such as a bounded perturbation, a short simulated attack, or a trained link between harmful and benign behavior, and nothing enforces that protection once the weights are released. We then test six representative defenses on four open-weight models by continuing the same harmful-only fine-tuning attack for three epochs and measuring harmfulness and capability along the way. In all 72 defended runs, the model is more harmful at the end of training than at release, and on Llama-3.1 at the highest learning rate the defended models end almost as harmful as the undefended one. The defenses are not equally weak: one defense kept harmfulness low on one model, and some attacks recovered harmfulness only at the cost of general capability. Current defenses can delay or disrupt malicious fine-tuning, but in most cases their measured resistance does not persist under continued training, and they should not yet be treated as durable protection.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T16:55:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.14605v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

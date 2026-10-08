@@ -1105,6 +1105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.21359v2](http://arxiv.org/abs/2606.21359v2)
 
+## BehaviorBench: Benchmarking Foundation Models for Behavioral Science Tasks
+- **ID**: arxiv_2606.24162v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.24162v2](http://arxiv.org/abs/2606.24162v2)
+
 ## SHERLOC: Structured Diagnostic Localization for Code Repair Agents
 - **ID**: arxiv_2606.24820v2
 - **Source**: ArXiv
@@ -2450,6 +2455,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.27402v1](http://arxiv.org/abs/2608.27402v1)
 
+## How Language Models Organize and Structure Moral Knowledge
+- **ID**: arxiv_2608.27402v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.27402v2](http://arxiv.org/abs/2608.27402v2)
+
 ## Consolidating RLVR Capabilities Across Domains: A Deep Dive into Fusion Paradigms
 - **ID**: arxiv_2608.27409v1
 - **Source**: ArXiv
@@ -2639,6 +2649,11 @@
 - **ID**: arxiv_2609.00184v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.00184v2](http://arxiv.org/abs/2609.00184v2)
+
+## A Dataset for Modeling Iterative Problem-Solving
+- **ID**: arxiv_2609.00940v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00940v2](http://arxiv.org/abs/2609.00940v2)
 
 ## Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
 - **ID**: arxiv_2609.01532v1
@@ -3799,4 +3814,24 @@
 - **ID**: arxiv_2610.08781v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08781v1](http://arxiv.org/abs/2610.08781v1)
+
+## CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution
+- **ID**: arxiv_2610.10426v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10426v1](http://arxiv.org/abs/2610.10426v1)
+
+## PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs
+- **ID**: arxiv_2610.10455v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10455v1](http://arxiv.org/abs/2610.10455v1)
+
+## Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models
+- **ID**: arxiv_2610.10508v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10508v1](http://arxiv.org/abs/2610.10508v1)
+
+## EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory
+- **ID**: arxiv_2610.10533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10533v1](http://arxiv.org/abs/2610.10533v1)
 

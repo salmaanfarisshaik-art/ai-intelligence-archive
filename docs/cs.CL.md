@@ -66,6 +66,7 @@
 | ["Mirror" Large Language Model Evaluations of Depression are Criterion Contaminated](http://arxiv.org/abs/2508.05830v3) | ArXiv |  | 1 |
 | ['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](http://arxiv.org/abs/2608.24191v2) | ArXiv |  | 1 |
 | [A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement](http://arxiv.org/abs/2608.12269v1) | ArXiv |  | 1 |
+| [A Dataset for Modeling Iterative Problem-Solving](http://arxiv.org/abs/2609.00940v2) | ArXiv |  | 1 |
 | [A Formal Limitation on Learning Human Language From Textual Corpora](http://arxiv.org/abs/2608.28560v1) | ArXiv |  | 1 |
 | [A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation](http://arxiv.org/abs/2605.12227v2) | ArXiv |  | 1 |
 | [A systematic Approach to constructing a Chance-and-Risk Matrix for Semiconductor Supply Chains](http://arxiv.org/abs/2609.01563v1) | ArXiv |  | 1 |
@@ -119,6 +120,7 @@
 | [Automated Discovery Has No Universally Superior Harness](http://arxiv.org/abs/2607.18235v1) | ArXiv |  | 1 |
 | [Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs](http://arxiv.org/abs/2610.06750v1) | ArXiv |  | 1 |
 | [Before You Poll with LLMs: A Deliberative Diagnostic Framework](http://arxiv.org/abs/2609.15849v1) | ArXiv |  | 1 |
+| [BehaviorBench: Benchmarking Foundation Models for Behavioral Science Tasks](http://arxiv.org/abs/2606.24162v2) | ArXiv |  | 1 |
 | [Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents](http://arxiv.org/abs/2608.06312v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](http://arxiv.org/abs/2606.17041v1) | ArXiv |  | 1 |
 | [Benchmarking Parameter-Efficient Fine-Tuning of Large Language Models for Low-Resource Tajik Text Generation with the Tajik Web Corpus](http://arxiv.org/abs/2605.03742v2) | ArXiv |  | 1 |
@@ -192,6 +194,7 @@
 | [Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces](http://arxiv.org/abs/2609.38107v1) | ArXiv |  | 1 |
 | [Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis](http://arxiv.org/abs/2604.14121v3) | ArXiv |  | 1 |
 | [CORTEX: High-Quality Cross-Domain Organization of Web-Scale Corpora through Ontological Corpus Graph](http://arxiv.org/abs/2606.30175v2) | ArXiv |  | 1 |
+| [CoTrace: Data Recipes for Training Terminal Agents with Harness-Model Co-Evolution](http://arxiv.org/abs/2610.10426v1) | ArXiv |  | 1 |
 | [Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation](http://arxiv.org/abs/2608.23152v2) | ArXiv |  | 1 |
 | [Counter with Evidence! A Multi-Agent Memory Efficient Reasoning Framework for Hate Category Informed Counterspeech Generation](http://arxiv.org/abs/2608.23152v3) | ArXiv |  | 1 |
 | [CPC-CMS: Cognitive Pairwise Comparison Classification Model Selection Framework for Document-level Sentiment Analysis](http://arxiv.org/abs/2507.14022v3) | ArXiv |  | 1 |
@@ -252,6 +255,7 @@
 | [EchoDistill: Robust Large Audio Language Models via Noisy-to-Clean Self-Distillation](http://arxiv.org/abs/2605.23954v2) | ArXiv |  | 1 |
 | [ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks](http://arxiv.org/abs/2609.29102v2) | ArXiv |  | 1 |
 | [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) | ArXiv |  | 1 |
+| [EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1) | ArXiv |  | 1 |
 | [Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation](http://arxiv.org/abs/2609.17398v1) | ArXiv |  | 1 |
 | [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](http://arxiv.org/abs/2606.19308v1) | ArXiv |  | 1 |
 | [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1) | ArXiv |  | 1 |
@@ -326,6 +330,7 @@
 | [How broad is that claim? Mapping Generalisation in NLP Research](http://arxiv.org/abs/2609.14770v2) | ArXiv |  | 1 |
 | [How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?](http://arxiv.org/abs/2607.18114v1) | ArXiv |  | 1 |
 | [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v1) | ArXiv |  | 1 |
+| [How Language Models Organize and Structure Moral Knowledge](http://arxiv.org/abs/2608.27402v2) | ArXiv |  | 1 |
 | [How Local Mixing Encodes Relative Position in Global NoPE Attention](http://arxiv.org/abs/2609.38109v1) | ArXiv |  | 1 |
 | [How Loud Rumbles Hit Newsstands: A Data Analysis of Coverage and Spatial Bias in German News about Landslides Around the World](http://arxiv.org/abs/2605.18105v3) | ArXiv |  | 1 |
 | [How Much is a Human Right Worth? ECtHR-NPD: A Benchmark for Predicting Non-Pecuniary Damage Awards](http://arxiv.org/abs/2609.18908v1) | ArXiv |  | 1 |
@@ -513,6 +518,7 @@
 | [PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning](http://arxiv.org/abs/2609.18861v1) | ArXiv |  | 1 |
 | [Persuasion Index: A Theory-Guided Framework for Persuasion Analysis](http://arxiv.org/abs/2606.14580v1) | ArXiv |  | 1 |
 | [Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation](http://arxiv.org/abs/2608.28508v1) | ArXiv |  | 1 |
+| [PHRBench: A Behavioral Evaluation of Post-Hallucination Reasoning in LLMs](http://arxiv.org/abs/2610.10455v1) | ArXiv |  | 1 |
 | [Physics of Language Models: Part 4.1, Architecture Design and the Magic of Canon Layers](http://arxiv.org/abs/2512.17351v2) | ArXiv |  | 1 |
 | [PIVOT: Efficient Query-Group Indexing for Token-Level Sparse Attention](http://arxiv.org/abs/2607.24593v1) | ArXiv |  | 1 |
 | [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models](http://arxiv.org/abs/2609.19113v1) | ArXiv |  | 1 |
@@ -763,6 +769,7 @@
 | [Writerslogic at the CLEF 2026 SimpleText Track: Multi-Candidate LLM Simplification and Stacked Complexity Spotting](http://arxiv.org/abs/2610.03567v1) | ArXiv |  | 1 |
 | [You Only Pass Once: Answering and Abstaining Together in a Single Forward Pass of a Frozen Language Model](http://arxiv.org/abs/2608.14465v1) | ArXiv |  | 1 |
 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](http://arxiv.org/abs/2606.20482v1) | ArXiv |  | 1 |
+| [Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models](http://arxiv.org/abs/2610.10508v1) | ArXiv |  | 1 |
 | [Your Voice Cloning System is Secretly a Voice Anonymizer](http://arxiv.org/abs/2608.27360v1) | ArXiv |  | 1 |
 | [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

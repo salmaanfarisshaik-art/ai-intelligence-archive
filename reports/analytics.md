@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90564
+**Total Entities Tracked**: 90614
 
 ## Category Distribution
 
@@ -11,21 +11,21 @@
 - **models**: 1802
 - **news**: 1280
 - **dataset**: 1195
-- **cs.CV**: 1125
+- **cs.CV**: 1140
 - **text-generation**: 1012
-- **cs.CL**: 760
-- **cs.AI**: 729
-- **cs.LG**: 402
-- **cs.RO**: 162
-- **cs.CR**: 80
+- **cs.CL**: 767
+- **cs.AI**: 738
+- **cs.LG**: 410
+- **cs.RO**: 166
+- **cs.CR**: 81
 - **cs.SE**: 65
 - **tool**: 54
-- **cs.HC**: 43
+- **cs.HC**: 44
 - **cs.IR**: 38
 - **cs.SD**: 37
 - **cs.CY**: 31
+- **cs.MA**: 18
 - **eess.IV**: 17
-- **cs.MA**: 16
 - **eess.AS**: 16
 - **API**: 15
 - **cs.DC**: 12
@@ -44,11 +44,11 @@
 - **cs.GR**: 9
 - **cs.IT**: 8
 - **cs.AR**: 7
+- **cs.MM**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
 - **IDE Rule**: 6
-- **cs.MM**: 6
 - **cs.NE**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
@@ -59,9 +59,9 @@
 - **cond-mat.mtrl-sci**: 4
 - **cs.DL**: 4
 - **cs.LO**: 4
+- **physics.soc-ph**: 4
 - **q-bio.NC**: 4
 - **feature-extraction**: 3
-- **physics.soc-ph**: 3
 - **cs.CC**: 2
 - **cs.SI**: 2
 - **econ.TH**: 2
@@ -84,6 +84,7 @@
 - **hep-th**: 1
 - **math.AG**: 1
 - **math.NA**: 1
+- **math.NT**: 1
 - **physics.acc-ph**: 1
 - **physics.comp-ph**: 1
 - **physics.flu-dyn**: 1
@@ -97,7 +98,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31198
-- **ArXiv**: 3718
+- **ArXiv**: 3768
 - **Hugging Face**: 2019
 - **OpenAI Blog**: 1266
 - **HuggingFace Datasets**: 195
@@ -142,23 +143,23 @@
 
 - **region:us**: 278
 - **text-generation**: 84
-- **library:datasets**: 83
-- **library:mlcroissant**: 83
-- **modality:text**: 78
+- **library:datasets**: 82
+- **library:mlcroissant**: 82
+- **modality:text**: 77
 - **license:apache-2.0**: 73
 - **endpoints_compatible**: 71
 - **transformers**: 71
 - **language:en**: 70
 - **safetensors**: 70
 - **conversational**: 65
-- **library:polars**: 63
-- **format:parquet**: 49
+- **library:polars**: 62
 - **license:mit**: 49
+- **format:parquet**: 48
 - **text-generation-inference**: 38
 - **deploy:azure**: 34
 - **library:pandas**: 32
-- **library:dask**: 31
 - **en**: 30
+- **library:dask**: 30
 - **task_categories:text-generation**: 28
 - **eval-results**: 26
 - **enterprise**: 25
@@ -185,8 +186,8 @@
 - **fp8**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
-- **size_categories:1M<n<10M**: 11
 - **custom_code**: 10
 - **language:zh**: 10
+- **size_categories:1M<n<10M**: 10
 - **modality:audio**: 9
 - **python**: 9

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.10407v1",
+  "schema_version": "1.0",
+  "name": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.10407v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.10407v1",
+    "updated": "2026-10-07T16:55:05Z",
+    "published": "2026-10-07T16:55:05Z",
+    "title": "SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions",
+    "summary": "As option markets grow and AI advances, agentic systems for option trading are gaining increasing attention. Language-model-based agents can reason over contextual information such as news, but option trading presents a particularly challenging decision problem: a single stock can have thousands of contracts, and the agent must decide both which contracts to trade and how to combine them. Existing approaches often sidestep this complexity by restricting the policy to a fixed strategy structure, such as a straddle, limiting their ability to switch strategies as market conditions change. We present SOTA (Stock Options Trading Agents), an agentic trading framework for structured option-strategy selection. SOTA abstracts the large option universe into strategy-level decisions while deterministic resolvers handle portfolio implementation. We develop SOTA by post-training Qwen3.8-27B with supervised fine-tuning followed by reinforcement learning. SOTA is evaluated on options on nine large-cap U.S. equities and SPY against rule-based and machine-learning strategy selectors in the same trading environment. Over a six-month out-of-sample period, SOTA earns an 18.3% total return with a Sharpe ratio of 1.60 and a maximum drawdown of 8.96%. We also document an asymmetric role of news: news improves frontier-teacher trajectories, but retaining news during reinforcement learning reduces out-of-sample return from 18.3% to -2.7%.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T16:55:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.10407v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

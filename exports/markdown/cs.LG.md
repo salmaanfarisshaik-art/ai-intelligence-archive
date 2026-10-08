@@ -1550,6 +1550,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11917v1](http://arxiv.org/abs/2609.11917v1)
 
+## Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data
+- **ID**: arxiv_2609.11917v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.11917v2](http://arxiv.org/abs/2609.11917v2)
+
 ## General Quantification of Covariate and Concept Shifts
 - **ID**: arxiv_2609.11918v1
 - **Source**: ArXiv
@@ -1980,6 +1985,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03713v1](http://arxiv.org/abs/2610.03713v1)
 
+## Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models
+- **ID**: arxiv_2610.06387v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06387v2](http://arxiv.org/abs/2610.06387v2)
+
 ## BRANCH-MoE: Balance-Aware Tree Routing for Large Embedding Models
 - **ID**: arxiv_2610.06725v1
 - **Source**: ArXiv
@@ -2009,4 +2019,34 @@
 - **ID**: arxiv_2610.08743v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08743v1](http://arxiv.org/abs/2610.08743v1)
+
+## Training Parallel Speculative Draft Models by Directly Minimizing Expected Decoding Rounds
+- **ID**: arxiv_2610.10411v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10411v1](http://arxiv.org/abs/2610.10411v1)
+
+## Which Rollout Taught It That? BehaviorTrace and the Limits of Training-Data Attribution in Online RL
+- **ID**: arxiv_2610.10422v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10422v1](http://arxiv.org/abs/2610.10422v1)
+
+## Q-Learning with Scalar Adjoint Matching
+- **ID**: arxiv_2610.10437v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10437v1](http://arxiv.org/abs/2610.10437v1)
+
+## A Good Self-Teacher Meets the Student Where They Are: Joint On-Policy Learning and Teaching
+- **ID**: arxiv_2610.10447v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10447v1](http://arxiv.org/abs/2610.10447v1)
+
+## Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts
+- **ID**: arxiv_2610.10460v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10460v1](http://arxiv.org/abs/2610.10460v1)
+
+## Decoupling Exploration from Optimization in RLVR
+- **ID**: arxiv_2610.10536v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10536v1](http://arxiv.org/abs/2610.10536v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.24162v2",
+  "schema_version": "1.0",
+  "name": "BehaviorBench: Benchmarking Foundation Models for Behavioral Science Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.24162v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.24162v2",
+    "updated": "2026-10-07T17:05:41Z",
+    "published": "2026-06-23T05:30:54Z",
+    "title": "BehaviorBench: Benchmarking Foundation Models for Behavioral Science Tasks",
+    "summary": "Foundation models have been increasingly applied to behavioral science domains such as psychology, sociology, and economics. While these models show promise in tasks such as survey response prediction and human-subject experiment simulation, there remains no systematic understanding of how well they perform across diverse behavioral science tasks. We introduce BehaviorBench, a comprehensive benchmark that evaluates foundation models along four core capabilities: (1) behavior prediction and simulation, (2) strategic decision-making, (3) subject-trait inference, and (4) behavioral knowledge application. Crucially, BehaviorBench evaluates model outputs at both the individual and distributional levels, capturing not only per-subject accuracy but also population-level alignment, an essential requirement for behavioral validity. Our evaluation shows that BehaviorBench remains challenging for leading general-purpose LLMs and behavior foundation models that are specifically trained with behavioral data. We find that individual-level and distributional performance do not always align. General-purpose LLMs tend to underestimate the diversity of human responses, whereas behavior foundation models often lag behind at individual-level prediction. Our investigation further demonstrates how fine-tuning on diverse behavioral data can improve both individual-level prediction and distributional alignment, balancing these two objectives. Our results highlight the importance of evaluation at both individual and distributional levels, establishing BehaviorBench as a foundation for developing and assessing behaviorally aligned AI systems. Our BehaviorBench and models can be accessed via https://umich-foreseer.github.io/behaviorbench/",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T17:05:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.24162v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

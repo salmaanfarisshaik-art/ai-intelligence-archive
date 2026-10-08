@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.14767v2",
+  "schema_version": "1.0",
+  "name": "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.14767v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MA",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.14767v2",
+    "updated": "2026-10-07T17:51:49Z",
+    "published": "2026-09-13T19:58:54Z",
+    "title": "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination",
+    "summary": "Does authority in AI teams improve the outcome? Organizational theory asserts that authority facilitates decision making, improving quality. Meanwhile, some nascent AI research suggests that revision under authority makes LLM output worse. Multi-agent LLM frameworks default to giving a Manager agent the authority to send a worker's output back for revision. Prior comparisons test the effect of authority using verifiable tasks. We conduct an experiment on an open-ended task, business-intelligence reporting, using a sample of 43 paired laptop products and 86 runs. Each report is written once by a hierarchical team and once by a flat team. We find that flat teams produce higher-quality reports, scoring higher on Utility (d = 0.42, p = 0.009) and Writing Clarity (d = 0.34, p = 0.030). The reports are the same length, but hierarchical team reports use 53% more hedging words such as \"may\" and \"could\", and each revision is associated with a 0.14-point drop in Writing Clarity on a 1 to 5 scale. Before any revision, the hierarchical team's first draft is indistinguishable from the flat team's report. In other words, the quality gap can be traced to revision. Authority improves quality when the Manager can verify the work, else when it can only provide feedback it has a negative effect on quality.",
+    "primary_category": "cs.MA"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T17:51:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.14767v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

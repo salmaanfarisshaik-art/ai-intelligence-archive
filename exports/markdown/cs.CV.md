@@ -675,6 +675,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00086v2](http://arxiv.org/abs/2604.00086v2)
 
+## VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
+- **ID**: arxiv_2604.01569v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.01569v2](http://arxiv.org/abs/2604.01569v2)
+
 ## NearID: Identity Representation Learning via Near-identity Distractors
 - **ID**: arxiv_2604.01973v2
 - **Source**: ArXiv
@@ -5090,6 +5095,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35770v1](http://arxiv.org/abs/2609.35770v1)
 
+## Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method
+- **ID**: arxiv_2609.35965v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35965v2](http://arxiv.org/abs/2609.35965v2)
+
 ## 
 - **ID**: arxiv_2609.36929v1
 - **Source**: ArXiv
@@ -5624,4 +5634,69 @@
 - **ID**: arxiv_2610.08791v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08791v1](http://arxiv.org/abs/2610.08791v1)
+
+## Rubix: Global Correspondence-Free Point Set Alignment through Assignment Geometry
+- **ID**: arxiv_2610.10408v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10408v1](http://arxiv.org/abs/2610.10408v1)
+
+## GraphRectify: Graph-Based Transfer of Adversarial Example Detectors Across Neural Networks
+- **ID**: arxiv_2610.10423v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10423v1](http://arxiv.org/abs/2610.10423v1)
+
+## SGF+: Decoupling Gradient Flows for Autoregressive Video Generation
+- **ID**: arxiv_2610.10429v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10429v1](http://arxiv.org/abs/2610.10429v1)
+
+## Detecting Adversarial Images through Response Profiles of Vision-Language Models
+- **ID**: arxiv_2610.10436v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10436v1](http://arxiv.org/abs/2610.10436v1)
+
+## ECHO: Embodied Camera Observations of Human Object Carrying
+- **ID**: arxiv_2610.10438v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10438v1](http://arxiv.org/abs/2610.10438v1)
+
+## MORCA: Offline-to-Online Reinforcement Learning for Adaptive Cache Reuse in Video Diffusion Acceleration
+- **ID**: arxiv_2610.10457v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10457v1](http://arxiv.org/abs/2610.10457v1)
+
+## Label-free cell counting and viability prediction with brightfield imaging and deep learning
+- **ID**: arxiv_2610.10473v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10473v1](http://arxiv.org/abs/2610.10473v1)
+
+## Insights from Autoresearch for Solar Panel Segmentation
+- **ID**: arxiv_2610.10491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10491v1](http://arxiv.org/abs/2610.10491v1)
+
+## QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation
+- **ID**: arxiv_2610.10497v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10497v1](http://arxiv.org/abs/2610.10497v1)
+
+## Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery
+- **ID**: arxiv_2610.10512v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10512v1](http://arxiv.org/abs/2610.10512v1)
+
+## GRACE: Generation-aware latent compression for efficient video generation
+- **ID**: arxiv_2610.10524v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10524v1](http://arxiv.org/abs/2610.10524v1)
+
+## Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos
+- **ID**: arxiv_2610.10538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10538v1](http://arxiv.org/abs/2610.10538v1)
+
+## Tetris3D: 3D Scene Generation With Objects That Fit Together
+- **ID**: arxiv_2610.10539v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10539v1](http://arxiv.org/abs/2610.10539v1)
 

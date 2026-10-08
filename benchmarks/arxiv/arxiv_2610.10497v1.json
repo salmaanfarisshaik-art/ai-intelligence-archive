@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.10497v1",
+  "schema_version": "1.0",
+  "name": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.10497v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.10497v1",
+    "updated": "2026-10-07T17:47:42Z",
+    "published": "2026-10-07T17:47:42Z",
+    "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+    "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical quadtree structure, bridging the gap between 2D spatial binding and 1D sequence-level flexibility. The QuadTok tokenizer dynamically allocates representational capacity to visually intricate areas while leaving homogeneous regions at a coarse resolution. Compared with a fixed 256-token grid, our ImageNet-trained tokenizer saves approximately 10% of tokens on ImageNet and 9% when transferred zero-shot to the COCO dataset, while maintaining comparable reconstruction fidelity. Furthermore, the natural causality introduced by the tree structure seamlessly enables autoregressive image generation. Conditioned on a quadtree topology supplied before generation, our 947M GPT-style generative model achieves a 2.08 gFID on the ImageNet $256 \\times 256$ benchmark. Additionally, leveraging the strong spatial correlation preserved by the quadtree structure, the QuadTok generator enables zero-shot spatially controlled image generation capabilities. Code: https://github.com/myc634/QuadTok.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T17:47:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.10497v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

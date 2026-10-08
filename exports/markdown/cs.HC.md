@@ -215,3 +215,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31569v1](http://arxiv.org/abs/2609.31569v1)
 
+## How assigned AI use before class shapes active student engagement in class
+- **ID**: arxiv_2610.10463v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10463v1](http://arxiv.org/abs/2610.10463v1)
+

@@ -30,3 +30,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31451v1](http://arxiv.org/abs/2609.31451v1)
 
+## MemoCare: An Interactive Multimodal Mobile System for Automated Cognitive Screening
+- **ID**: arxiv_2610.10448v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10448v1](http://arxiv.org/abs/2610.10448v1)
+

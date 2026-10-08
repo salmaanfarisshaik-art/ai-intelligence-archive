@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.13706v2](http://arxiv.org/abs/2605.13706v2)
 
+## A Few Steps Further: Why Defenses Against Malicious Finetuning Erode Under Continued Training
+- **ID**: arxiv_2605.14605v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14605v3](http://arxiv.org/abs/2605.14605v3)
+
 ## Code as a Weapon: A Consensus-Labeled Prompt Bank for Measuring Coding-Model Compliance with Malicious-Code Requests
 - **ID**: arxiv_2605.28734v2
 - **Source**: ArXiv

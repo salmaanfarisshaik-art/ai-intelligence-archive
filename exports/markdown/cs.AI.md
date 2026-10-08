@@ -3645,3 +3645,48 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08778v1](http://arxiv.org/abs/2610.08778v1)
 
+## Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models
+- **ID**: arxiv_2610.10405v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10405v1](http://arxiv.org/abs/2610.10405v1)
+
+## SOTA: Stock Options Trading Agents Guided by Option-Implied Return Distributions
+- **ID**: arxiv_2610.10407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10407v1](http://arxiv.org/abs/2610.10407v1)
+
+## RunningTab: Direct Workspace Interaction with Environment-Side Tabs
+- **ID**: arxiv_2610.10444v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10444v1](http://arxiv.org/abs/2610.10444v1)
+
+## Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models
+- **ID**: arxiv_2610.10478v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10478v1](http://arxiv.org/abs/2610.10478v1)
+
+## EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution
+- **ID**: arxiv_2610.10498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10498v1](http://arxiv.org/abs/2610.10498v1)
+
+## Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models
+- **ID**: arxiv_2610.10506v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10506v1](http://arxiv.org/abs/2610.10506v1)
+
+## RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing
+- **ID**: arxiv_2610.10507v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10507v1](http://arxiv.org/abs/2610.10507v1)
+
+## SciExam for ENSO: Can AI Agents Build Climate Models?
+- **ID**: arxiv_2610.10513v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10513v1](http://arxiv.org/abs/2610.10513v1)
+
+## RoboJEPA: Scaling Robotic Latent World Models
+- **ID**: arxiv_2610.10515v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10515v1](http://arxiv.org/abs/2610.10515v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.10423v1",
+  "schema_version": "1.0",
+  "name": "GraphRectify: Graph-Based Transfer of Adversarial Example Detectors Across Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.10423v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.10423v1",
+    "updated": "2026-10-07T17:03:55Z",
+    "published": "2026-10-07T17:03:55Z",
+    "title": "GraphRectify: Graph-Based Transfer of Adversarial Example Detectors Across Neural Networks",
+    "summary": "Adversarial example detectors are often tied to the classifier backbone they were trained on, limiting reuse when the protected model is replaced or upgraded. Directly transferring such detectors across backbones is challenging because different networks generally produce incompatible internal representations. We propose GraphRectify, a graph-based framework for transferring adversarial image detectors across classifier backbones. GraphRectify learns a structured representation of intermediate classifier features and adapts representations from a new backbone to the detector learned on the original model, enabling detector reuse. We evaluate GraphRectify across multiple datasets, backbone architectures, and adversarial attacks, including detector-aware adaptive attacks that jointly target the classifier and detector. Across the complete evaluation matrix, GraphRectify achieves higher aggregate ROC-AUC than training a detector from scratch on the new backbone and the evaluated transfer ablations. The gains are particularly strong for transfers between different backbone families and when sufficient data are available. In contrast, training from scratch remains competitive in the most data-limited settings. These results show that adversarial detection knowledge can transfer effectively across heterogeneous classifier architectures rather than being relearned whenever the protected backbone changes.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-08T02:31:07Z",
+  "last_updated": "2026-10-07T17:03:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.10423v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
