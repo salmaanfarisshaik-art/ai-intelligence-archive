@@ -1,0 +1,32 @@
+{
+  "_id": "68f0975648cfeadad74f9ea8",
+  "id": "Charly-chan/hoigen-filtered-videos",
+  "author": "Charly-chan",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-17T04:59:37.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "f2794120cb19ecd0951cd47e5a1fd23afc239b9c",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tHOIGen Filtered Videos Dataset\n\t\n\nThis dataset contains 28562 filtered videos from the HOIGen-1M dataset based on the allowlist.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nThe videos are organized in the same structure as the original HOIGen dataset:\nfiltered_videos/\n├── videos_part_1/\n├── videos_part_2/\n├── ...\n└── videos_part_100/\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom huggingface_hub import hf_hub_download\n\n# Download a specific video\nvideo_path = hf_hub_download(… See the full description on the dataset page: https://huggingface.co/datasets/Charly-chan/hoigen-filtered-videos.",
+  "downloads": 29094,
+  "tags": [
+    "task_categories:other",
+    "language:en",
+    "license:mit",
+    "size_categories:1K<n<10K",
+    "modality:video",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "computer-vision",
+    "human-object-interaction",
+    "video-dataset",
+    "robotics",
+    "action-recognition"
+  ],
+  "createdAt": "2025-10-16T06:57:26.000Z",
+  "key": "",
+  "unique_id": "dataset_charly_chan_hoigen_filtered_videos",
+  "schema_version": "1.0"
+}

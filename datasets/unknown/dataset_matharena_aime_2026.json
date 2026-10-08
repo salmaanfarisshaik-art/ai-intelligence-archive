@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-05-15T17:06:34.000Z",
-  "likes": 64,
+  "likes": 86,
   "private": false,
   "sha": "d2de22f3c656b4f56cf8981212186377d1e23bc3",
   "description": "\n\t\n\t\t\n\t\tHomepage and repository\n\t\n\n\nHomepage: https://matharena.ai/\nRepository: https://github.com/eth-sri/matharena\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis dataset contains the questions from AIME 2026 used for the MathArena Leaderboard\n\n\t\n\t\t\n\t\tData Fields\n\t\n\nThe dataset contains the following fields:\n\nproblem_idx (int64): Problem index within the corresponding MathArena benchmark.\nanswer (int64): Gold final answer.\nproblem (string): Problem statement, usually stored as LaTeX source.\n\n\n\t\n\t\t\n\t\tSource… See the full description on the dataset page: https://huggingface.co/datasets/MathArena/aime_2026.",

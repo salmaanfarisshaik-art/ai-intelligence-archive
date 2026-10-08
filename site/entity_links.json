@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:32:15Z",
+  "generated_at": "2026-10-08T10:01:12Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2344,6 +2344,11 @@
     {
       "source_id": "model_empero_ai_qwen3_8_35b_a3b_distill_gguf",
       "target_id": "hf_empero-ai_Qwen3.8-35B-A3B-Distill",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_empero_ai_qwen3_8_4b_distill",
+      "target_id": "hf_Qwen_Qwen3.5-4B",
       "type": "derived_from"
     },
     {
