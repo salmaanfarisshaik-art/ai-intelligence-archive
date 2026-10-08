@@ -1560,6 +1560,10 @@
 - **ID**: model_empero_ai_qwen3_8_35b_a3b_distill_gguf
 - **Source**: 
 
+## empero-ai/Qwen3.8-4B-Distill
+- **ID**: model_empero_ai_qwen3_8_4b_distill
+- **Source**: 
+
 ## empero-ai/Qwen3.8-4B-Distill-GGUF
 - **ID**: model_empero_ai_qwen3_8_4b_distill_gguf
 - **Source**: 
@@ -3646,6 +3650,10 @@
 
 ## Model-SafeTensors/L3-Aethora-15B
 - **ID**: model_model_safetensors_l3_aethora_15b
+- **Source**: 
+
+## modularai/SmolLM-135M-Instruct-FP32
+- **ID**: model_modularai_smollm_135m_instruct_fp32
 - **Source**: 
 
 ## moondream/moondream3-preview

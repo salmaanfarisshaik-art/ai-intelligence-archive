@@ -2848,11 +2848,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_ksolovev_fine_news",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_lmms_lab_llava_onevision_data",
       "match_type": "exact",
       "score": 1.0
@@ -2884,11 +2879,6 @@
     },
     {
       "entity_id": "dataset_yipenggao_3dcode",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
     }
@@ -3404,6 +3394,11 @@
       "entity_id": "dataset_fancyzhx_amazon_polarity",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_yelp_yelp_review_full",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "01643": [
@@ -3575,6 +3570,13 @@
     },
     {
       "entity_id": "model_yuhuili_eagle_llama3_instruct_8b",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "01844": [
+    {
+      "entity_id": "dataset_huggingfacevla_community_dataset_v3",
       "match_type": "exact",
       "score": 1.5
     }
@@ -3891,6 +3893,11 @@
     }
   ],
   "02255": [
+    {
+      "entity_id": "dataset_ai4math_mathvista",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_google_gemma_3_270m",
       "match_type": "exact",
@@ -5641,6 +5648,13 @@
       "score": 1.5
     }
   ],
+  "03875": [
+    {
+      "entity_id": "dataset_drt_kqa_pro",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "03887": [
     {
       "entity_id": "model_sentientagi_dobby_mini_unhinged_llama_3_1_8b",
@@ -6220,6 +6234,13 @@
     },
     {
       "entity_id": "model_deepseek_ai_deepseek_v2_lite_chat",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "04441": [
+    {
+      "entity_id": "dataset_internrobotics_synthverse",
       "match_type": "exact",
       "score": 1.5
     }
@@ -8101,6 +8122,16 @@
       "entity_id": "dataset_major_tom_core_s2l1c",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_ksolovev_fine_news",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "06825": [

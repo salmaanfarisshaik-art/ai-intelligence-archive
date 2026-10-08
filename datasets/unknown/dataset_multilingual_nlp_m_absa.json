@@ -9,7 +9,7 @@
   "private": false,
   "sha": "521ab96c3fc0acb4f844205d0e05382734fc89f2",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tM-ABSA\n\t\n\nThis repo contains the data for our paper M-ABSA: A Multilingual Dataset for Aspect-Based Sentiment Analysis.\n\n\n\t\n\t\t\n\t\n\t\n\t\tData Description:\n\t\n\nThis is a dataset suitable for the multilingual ABSA task with triplet extraction.\nAll datasets are stored in the data/ folder:\n\nAll dataset contains 7 domains.\n\ndomains = [\"coursera\", \"hotel\", \"laptop\", \"restaurant\", \"phone\", \"sight\", \"food\"]\n\n\nEach dataset contains 21 languages.\n\nlangs = [\"ar\", \"da\", \"de\", \"en\", \"es\", \"fr\", \"hi\"… See the full description on the dataset page: https://huggingface.co/datasets/Multilingual-NLP/M-ABSA.",
-  "downloads": 29121,
+  "downloads": 29064,
   "tags": [
     "task_categories:token-classification",
     "task_categories:text-classification",

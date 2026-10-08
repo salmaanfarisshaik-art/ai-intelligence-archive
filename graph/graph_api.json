@@ -19861,7 +19861,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-08T10:00:30.731712+00:00",
+  "generated_at": "2026-10-08T17:21:37.471443+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -145292,6 +145292,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_charly_chan_hoigen_filtered_videos",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_charlychan123_hoigen_filtered_videos",
       "label": ""
     },
@@ -158312,6 +158317,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6814185418a7181816023b68",
+      "label": "Metanova/Submission-Archive"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_68179ef58e267618d9e7bc61",
       "label": "ieasybooks-org/prophet-mosque-library"
     },
@@ -168357,6 +168367,11 @@
     },
     {
       "category": "models",
+      "id": "model_empero_ai_qwen3_8_4b_distill",
+      "label": "empero-ai/Qwen3.8-4B-Distill"
+    },
+    {
+      "category": "models",
       "id": "model_empero_ai_qwen3_8_4b_distill_gguf",
       "label": "empero-ai/Qwen3.8-4B-Distill-GGUF"
     },
@@ -170964,6 +170979,11 @@
       "category": "models",
       "id": "model_model_safetensors_l3_aethora_15b",
       "label": "Model-SafeTensors/L3-Aethora-15B"
+    },
+    {
+      "category": "models",
+      "id": "model_modularai_smollm_135m_instruct_fp32",
+      "label": "modularai/SmolLM-135M-Instruct-FP32"
     },
     {
       "category": "models",
@@ -313098,6 +313118,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/disrupting-a-covert-iranian-influence-operation",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "label": ""
     },
     {
@@ -472938,5 +472963,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 3972,
-  "total_nodes": 90614
+  "total_nodes": 90619
 }

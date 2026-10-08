@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:01:12Z",
+  "generated_at": "2026-10-08T17:22:41Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2474,6 +2474,11 @@
     {
       "source_id": "model_final_bench_pocket_35b_gguf",
       "target_id": "hf_FINAL-Bench_Darwin-36B-Opus",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_final_bench_pocket_darwin_180b_gguf",
+      "target_id": "hf_FINAL-Bench_Darwin-180B-RSI-R3",
       "type": "derived_from"
     },
     {

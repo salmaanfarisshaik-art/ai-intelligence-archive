@@ -538,6 +538,12 @@
 - **URL**: [https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual](https://huggingface.co/datasets/SWE-bench/SWE-bench_Multilingual)
 - **Tags**: format:parquet, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, modality:text, region:us, size_categories:n<1K
 
+## Metanova/Submission-Archive
+- **ID**: hf_ds_6814185418a7181816023b68
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Metanova/Submission-Archive](https://huggingface.co/datasets/Metanova/Submission-Archive)
+- **Tags**: region:us
+
 ## ieasybooks-org/prophet-mosque-library
 - **ID**: hf_ds_68179ef58e267618d9e7bc61
 - **Source**: HuggingFace Datasets
@@ -890,7 +896,7 @@
 - **ID**: hf_ds_69be6056f46b7dff732d8c53
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/ksolovev/fine-news](https://huggingface.co/datasets/ksolovev/fine-news)
-- **Tags**: cc-news, common-crawl, journalism, media, multilingual, news, region:us, size_categories:100M<n<1B, task_categories:text-generation
+- **Tags**: annotations_creators:machine-generated, arxiv:2605.18337, cc-news, common-crawl, journalism, language:als, language:anp, language:arb, language:ary, language:arz, language:azj, language:bg, language:bn, language:bs, language:ca, language:cmn, language:cs, language:da, language:de, language:ekk, language:el, language:en, language:es, language:fa, language:fi, language:fil, language:fr, language:gl, language:he, language:hi, language:hr, language:hu, language:id, language:is, language:it, language:ja, language:ka, language:kn, language:lb, language:lt, language:lvs, language:mk, language:mr, language:multilingual, language:nb, language:nl, language:nn, language:npi, language:ory, language:pl, language:pt, language:ro, language:ru, language:sk, language:sl, language:sr, language:sv, language:swh, language:te, language:th, language:tr, language:ug, language:uk, language:ur, language:uzn, language:zsm, media, modality:tabular, modality:text, multilingual, multilinguality:multilingual, news, region:us, size_categories:100M<n<1B, source_datasets:ruggsea/infini-news-corpus, tabular, task_categories:text-classification, task_categories:text-generation, task_categories:text-retrieval, text
 
 ## tars-robotics/WIYH
 - **ID**: hf_ds_69c3db34480308a6a3cabb37
@@ -1076,7 +1082,7 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93

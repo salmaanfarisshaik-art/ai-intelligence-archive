@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d2ddfc8021a07615e3a2ae12f233054923694798",
   "description": "\n\t\n\t\t\n\t\tTahoe-100M Zarr Collection\n\t\n\nProduction-ready tahoe single-cell RNA-seq data exported from Arc Virtual Cell Atlas (Tahoe-100M) into native Zarr stores for chunked, on-demand access on the Hugging Face Hub.\n\n\t\n\t\t\n\t\tWhy Zarr\n\t\n\nSingle-cell expression matrices get impractical fast if you treat them like ordinary dense files. Zarr is the point of this repo: it makes large atlas-scale data usable without forcing users to download or materialize the whole matrix before they can do anything… See the full description on the dataset page: https://huggingface.co/datasets/KokosDev/tahoe-100m-zarr.",
-  "downloads": 31496,
+  "downloads": 30956,
   "tags": [
     "license:cc0-1.0",
     "size_categories:n<1K",

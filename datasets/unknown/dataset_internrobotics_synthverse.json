@@ -1,0 +1,33 @@
+{
+  "_id": "69b39c5dd6e3010ad04e32cc",
+  "id": "InternRobotics/SynthVerse",
+  "author": "InternRobotics",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-27T07:56:50.000Z",
+  "likes": 15,
+  "private": false,
+  "sha": "97273f51ae8ece58774706e1b327286122524946",
+  "description": "Viewer is explicitly configured to read the parquet split only.\n\n\t\n\t\t\n\t\tCitation\n\t\n\nIf you find this dataset useful, please cite:\n@article{zhao2026SythnVerse,\n  title={SynthVerse: A Large-Scale Diverse Synthetic Dataset for Point Tracking},\n  author={Weiguang Zhao and Haoran Xu and Xingyu Miao and Qin Zhao and Rui Zhang and Kaizhu Huang and Ning Gao and Peizhou Cao and Mingze Sun and Mulin Yu and Tao Lu and Linning Xu and Junting Dong and Jiangmiao Pang},\n  journal={arXiv preprint… See the full description on the dataset page: https://huggingface.co/datasets/InternRobotics/SynthVerse.",
+  "downloads": 28107,
+  "tags": [
+    "task_categories:robotics",
+    "task_categories:image-to-3d",
+    "license:cc-by-nc-sa-4.0",
+    "size_categories:1K<n<10K",
+    "format:parquet",
+    "format:optimized-parquet",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2602.04441",
+    "region:us"
+  ],
+  "createdAt": "2026-03-13T05:10:53.000Z",
+  "key": "",
+  "unique_id": "dataset_internrobotics_synthverse",
+  "schema_version": "1.0"
+}

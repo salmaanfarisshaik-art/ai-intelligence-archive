@@ -1676,6 +1676,11 @@
 - **URL**: [https://openai.com/index/disrupting-a-covert-iranian-influence-operation](https://openai.com/index/disrupting-a-covert-iranian-influence-operation)
 
 ## 
+- **ID**: rss_https://openai.com/index/disrupting-ai-enabled-false-front-operations
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/disrupting-ai-enabled-false-front-operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations)
+
+## 
 - **ID**: rss_https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations](https://openai.com/index/disrupting-deceptive-uses-of-ai-by-covert-influence-operations)
