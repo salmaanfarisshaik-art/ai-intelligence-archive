@@ -9,7 +9,7 @@
   "private": false,
   "sha": "cc571a3c661df81b566dbfde3d5c1e85fcdf7884",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"aloha\",\n    \"total_episodes\": 50,\n    \"total_frames\": 25000,\n    \"total_tasks\": 1,\n    \"total_videos\": 50,\n    \"total_chunks\": 1,\n    \"chunks_size\": 1000,\n    \"fps\": 50,\n    \"splits\": {\n        \"train\": \"0:50\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/lerobot/aloha_sim_insertion_human.",
-  "downloads": 46028,
+  "downloads": 47499,
   "tags": [
     "task_categories:robotics",
     "license:mit",

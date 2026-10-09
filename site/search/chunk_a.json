@@ -1682,6 +1682,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_venastine_research_xing4_0_29b_a4b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -7265,6 +7270,11 @@
       "entity_id": "model_solidrust_meta_llama_3_1_8b_instruct_abliterated_awq",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf",
+      "match_type": "exact",
+      "score": 4.5
     },
     {
       "entity_id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
@@ -49713,6 +49723,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_jackrong_mlx_qwopus3_5_9b_v3_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -54357,6 +54372,11 @@
     },
     {
       "entity_id": "dataset_argilla_databricks_dolly_15k_curated_en",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
       "match_type": "exact",
       "score": 1.0
     },
@@ -86762,6 +86782,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_venastine_research_xing4_0_29b_a4b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
       "match_type": "exact",
       "score": 3.0
@@ -101635,9 +101660,21 @@
   ],
   "ai21": [
     {
+      "entity_id": "model_ai21labs_ai21_jamba_reasoning_3b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/best-practices-for-deploying-language-models",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "ai21labs": [
+    {
+      "entity_id": "model_ai21labs_ai21_jamba_reasoning_3b",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "ai2d": [
@@ -139574,6 +139611,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_opengvlab_mvbench",
       "match_type": "exact",
       "score": 1.0
@@ -150315,6 +150357,11 @@
   "amounted": [
     {
       "entity_id": "alpaca_-3928732028330740692",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
       "match_type": "exact",
       "score": 1.0
     }
@@ -221502,6 +221549,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_mrfakename_daimon_infinity",
       "match_type": "exact",
       "score": 3.0
@@ -264812,6 +264864,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/sophos",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/sora-2",
       "match_type": "exact",
       "score": 1.0
@@ -269411,6 +269468,13 @@
       "score": 1.5
     }
   ],
+  "anionic": [
+    {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "anipro": [
     {
       "entity_id": "arxiv_2609.23345v1",
@@ -270841,6 +270905,11 @@
     },
     {
       "entity_id": "dataset_meta_agents_research_environments_gaia2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
       "match_type": "exact",
       "score": 1.5
     },
@@ -285903,6 +285972,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_abenzerps_apodex_1_1_mini_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -285939,6 +286013,11 @@
     },
     {
       "entity_id": "model_agnuxo_cajal_4b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ai21labs_ai21_jamba_reasoning_3b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -287464,6 +287543,11 @@
     },
     {
       "entity_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_jackrong_mlx_qwopus3_5_9b_v3_4bit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -290014,6 +290098,11 @@
     },
     {
       "entity_id": "model_vectionlabs_vl_1_coder",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_venastine_research_xing4_0_29b_a4b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -306275,6 +306364,11 @@
     },
     {
       "entity_id": "model_arcee_ai_afm_4_5b_base",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -350936,6 +351030,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_venastine_research_xing4_0_29b_a4b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_vibevoice_vibevoice_1_5b",
       "match_type": "exact",
       "score": 3.0
@@ -353407,6 +353506,11 @@
     },
     {
       "entity_id": "model_agnuxo_cajal_4b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ai21labs_ai21_jamba_reasoning_3b",
       "match_type": "exact",
       "score": 1.5
     },
@@ -379828,6 +379932,11 @@
     },
     {
       "entity_id": "dataset_mlfoundations_mint_1t_pdf_cc_2024_18",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
       "match_type": "exact",
       "score": 1.0
     },
@@ -409011,6 +409120,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_molssiai_hub_pubchemqc_pm6",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_69be6056f46b7dff732d8c53",
       "match_type": "exact",
       "score": 1.0
@@ -412729,6 +412843,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/retell-ai",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/sophos",
       "match_type": "exact",
       "score": 1.0
     },
@@ -417017,6 +417136,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_maziyarpanahi_sqlcoder_7b_2_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_maziyarpanahi_wizardlm_2_7b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -419281,6 +419405,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_69f623aa53a9164999f7f942",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_69f623abadd8e8047bc039e9",
       "match_type": "exact",
       "score": 1.0
@@ -419362,6 +419491,11 @@
     },
     {
       "entity_id": "hf_ds_6aa585f5e13985455758f8eb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
       "match_type": "exact",
       "score": 1.0
     },

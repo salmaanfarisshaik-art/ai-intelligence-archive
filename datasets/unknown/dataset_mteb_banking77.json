@@ -9,7 +9,7 @@
   "private": false,
   "sha": "18072d2685ea682290f7b8924d94c62acc19c0b2",
   "description": "\n  Banking77Classification\n  An MTEB dataset\n  Massive Text Embedding Benchmark\n\n\nDataset composed of online banking queries annotated with their corresponding intents.\n\n\t\n\t\t\n\n\n\n\n\t\t\nTask category\nt2c\n\n\nDomains\nWritten\n\n\nReference\nhttps://arxiv.org/abs/2003.04807\n\n\n\t\n\n\n\t\n\t\t\n\t\tHow to evaluate on this task\n\t\n\nYou can evaluate an embedding model on this dataset using the following code:\nimport mteb\n\ntask = mteb.get_tasks([\"Banking77Classification\"])\nevaluator = mteb.MTEB(task)\n\nmodel =… See the full description on the dataset page: https://huggingface.co/datasets/mteb/banking77.",
-  "downloads": 34316,
+  "downloads": 34311,
   "tags": [
     "task_categories:text-classification",
     "annotations_creators:human-annotated",

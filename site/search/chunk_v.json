@@ -2107,6 +2107,11 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_jackrong_mlx_qwopus3_5_9b_v3_4bit",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "model_janhq_jan_v3_5_4b_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -18752,6 +18757,13 @@
       "score": 1.5
     }
   ],
+  "venastine": [
+    {
+      "entity_id": "model_venastine_research_xing4_0_29b_a4b_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "vendor": [
     {
       "entity_id": "alpaca_-754797055777034991",
@@ -25852,6 +25864,11 @@
     },
     {
       "entity_id": "dataset_xrxrx_x_voice_dataset_train",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
       "match_type": "exact",
       "score": 1.5
     },

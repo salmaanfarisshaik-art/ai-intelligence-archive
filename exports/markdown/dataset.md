@@ -964,6 +964,12 @@
 - **URL**: [https://huggingface.co/datasets/pulmo/ncbi-genbank-complete](https://huggingface.co/datasets/pulmo/ncbi-genbank-complete)
 - **Tags**: bioinformatics, biology, dna, genomics, language:en, license:apache-2.0, region:us, sequence, size_categories:n>1T
 
+## wegrthj/kbcpjv-qi9l-data
+- **ID**: hf_ds_69f623aa53a9164999f7f942
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/wegrthj/kbcpjv-qi9l-data](https://huggingface.co/datasets/wegrthj/kbcpjv-qi9l-data)
+- **Tags**: region:us
+
 ## wegrthj/kbcpjv-v654-data
 - **ID**: hf_ds_69f623abadd8e8047bc039e9
 - **Source**: HuggingFace Datasets
@@ -1185,6 +1191,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/sjkhfuk/fofo](https://huggingface.co/datasets/sjkhfuk/fofo)
 - **Tags**: region:us
+
+## roisincrtai/ptb-xl-1.0.3
+- **ID**: hf_ds_6ac0e3e0aadad5e0492a39f0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3](https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3)
+- **Tags**: modality:text, region:us, size_categories:10K<n<100K
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

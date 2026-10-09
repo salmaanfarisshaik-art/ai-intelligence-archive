@@ -5571,6 +5571,11 @@
 - **URL**: [https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning](https://openai.com/index/some-considerations-on-learning-to-explore-via-meta-reinforcement-learning)
 
 ## 
+- **ID**: rss_https://openai.com/index/sophos
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/sophos](https://openai.com/index/sophos)
+
+## 
 - **ID**: rss_https://openai.com/index/sora-2
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/sora-2](https://openai.com/index/sora-2)

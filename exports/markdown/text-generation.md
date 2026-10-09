@@ -5121,6 +5121,12 @@
 - **URL**: [https://huggingface.co/zai-org/GLM-5.2-FP8](https://huggingface.co/zai-org/GLM-5.2-FP8)
 - **Tags**: arxiv:2602.15763, arxiv:2603.12201, conversational, deploy:azure, deploy:sagemaker, en, endpoints_compatible, fp8, glm_moe_dsa, license:mit, region:us, safetensors, text-generation, transformers, zh
 
+## zai-org/GLM-5.3
+- **ID**: hf_zai-org_GLM-5.3
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/zai-org/GLM-5.3](https://huggingface.co/zai-org/GLM-5.3)
+- **Tags**: arxiv:2602.15763, conversational, deploy:sagemaker, en, endpoints_compatible, eval-results, fp8, glm_moe_dsa, license:other, region:us, safetensors, text-generation, transformers, zh
+
 ## zdy1995love/Mistral-Medium-3.5-128B-NVFP4
 - **ID**: hf_zdy1995love_Mistral-Medium-3.5-128B-NVFP4
 - **Source**: Hugging Face
