@@ -3645,6 +3645,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08778v1](http://arxiv.org/abs/2610.08778v1)
 
+## Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models
+- **ID**: arxiv_2610.08966v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.08966v2](http://arxiv.org/abs/2610.08966v2)
+
 ## Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models
 - **ID**: arxiv_2610.10405v1
 - **Source**: ArXiv
@@ -3689,4 +3694,39 @@
 - **ID**: arxiv_2610.10515v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10515v1](http://arxiv.org/abs/2610.10515v1)
+
+## OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport
+- **ID**: arxiv_2610.12375v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12375v1](http://arxiv.org/abs/2610.12375v1)
+
+## GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving
+- **ID**: arxiv_2610.12391v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12391v1](http://arxiv.org/abs/2610.12391v1)
+
+## HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling
+- **ID**: arxiv_2610.12393v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12393v1](http://arxiv.org/abs/2610.12393v1)
+
+## Searching for "Harmful Refusal": A Psychometric Audit of an AI Safety Benchmark
+- **ID**: arxiv_2610.12409v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12409v1](http://arxiv.org/abs/2610.12409v1)
+
+## Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff
+- **ID**: arxiv_2610.12436v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12436v1](http://arxiv.org/abs/2610.12436v1)
+
+## BrickBench: Evaluating Agentic Brick Design
+- **ID**: arxiv_2610.12452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12452v1](http://arxiv.org/abs/2610.12452v1)
+
+## On the estimation and validity of AI time horizons---a statistical look at the METR plot
+- **ID**: arxiv_2610.12466v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12466v1](http://arxiv.org/abs/2610.12466v1)
 

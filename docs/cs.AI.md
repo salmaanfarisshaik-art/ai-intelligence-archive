@@ -175,6 +175,7 @@
 | [Blast Radius](http://arxiv.org/abs/2608.07440v2) | ArXiv |  | 1 |
 | [BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing](http://arxiv.org/abs/2608.31105v1) | ArXiv |  | 1 |
 | [Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents](http://arxiv.org/abs/2608.20274v1) | ArXiv |  | 1 |
+| [BrickBench: Evaluating Agentic Brick Design](http://arxiv.org/abs/2610.12452v1) | ArXiv |  | 1 |
 | [CachedSearch: Training-Free Cached Exploration for Test-Time Search in Video Diffusion](http://arxiv.org/abs/2607.23159v2) | ArXiv |  | 1 |
 | [CAFE: Self-Improving Search Agents Need Co-Evolving Feedback](http://arxiv.org/abs/2608.24794v1) | ArXiv |  | 1 |
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
@@ -262,6 +263,7 @@
 | [DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat](http://arxiv.org/abs/2607.29577v1) | ArXiv |  | 1 |
 | [Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture](http://arxiv.org/abs/2607.22445v1) | ArXiv |  | 1 |
 | [EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards](http://arxiv.org/abs/2608.23525v1) | ArXiv |  | 1 |
+| [Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff](http://arxiv.org/abs/2610.12436v1) | ArXiv |  | 1 |
 | [Efficiency Matters in Autonomous Research](http://arxiv.org/abs/2607.24647v1) | ArXiv |  | 1 |
 | [Efficient Test-Time Adaptation through Human-AI Interaction](http://arxiv.org/abs/2609.04141v1) | ArXiv |  | 1 |
 | [Electronic Navigational Chart Change Classification](http://arxiv.org/abs/2608.20218v1) | ArXiv |  | 1 |
@@ -335,6 +337,7 @@
 | [GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis](http://arxiv.org/abs/2608.09921v2) | ArXiv |  | 1 |
 | [Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model](http://arxiv.org/abs/2609.20358v1) | ArXiv |  | 1 |
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
+| [GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](http://arxiv.org/abs/2610.12391v1) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](http://arxiv.org/abs/2609.30147v1) | ArXiv |  | 1 |
@@ -356,6 +359,8 @@
 | [How AI Assistance Affects Human Skill Development: A Study of Learning with Logic Puzzles](http://arxiv.org/abs/2608.23543v1) | ArXiv |  | 1 |
 | [How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech](http://arxiv.org/abs/2606.20532v1) | ArXiv |  | 1 |
 | [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](http://arxiv.org/abs/2609.40303v1) | ArXiv |  | 1 |
+| [HRIL: Learning Multimodal Synergy via Higher-Order Tensor Modeling](http://arxiv.org/abs/2610.12393v1) | ArXiv |  | 1 |
+| [Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models](http://arxiv.org/abs/2610.08966v2) | ArXiv |  | 1 |
 | [Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation](http://arxiv.org/abs/2606.26502v4) | ArXiv |  | 1 |
 | [HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents](http://arxiv.org/abs/2610.03574v1) | ArXiv |  | 1 |
 | [IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models](http://arxiv.org/abs/2604.07709v5) | ArXiv |  | 1 |
@@ -468,6 +473,7 @@
 | [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | ArXiv |  | 1 |
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
+| [On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1) | ArXiv |  | 1 |
 | [On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification](http://arxiv.org/abs/2608.18066v1) | ArXiv |  | 1 |
 | [On the Limitations of Large Language Models for Conceptual Database Modeling](http://arxiv.org/abs/2605.11986v2) | ArXiv |  | 1 |
 | [On the Regularization Landscape for the Linear Recommendation Models](http://arxiv.org/abs/2609.11876v1) | ArXiv |  | 1 |
@@ -476,6 +482,7 @@
 | [On-Policy Distillation for LLM Safety: A Routing Approach to Template-Robust Realignment](http://arxiv.org/abs/2607.27081v1) | ArXiv |  | 1 |
 | [Online design of dynamic networks](http://arxiv.org/abs/2410.08875v3) | ArXiv |  | 1 |
 | [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques](http://arxiv.org/abs/2608.31137v1) | ArXiv |  | 1 |
+| [OnTrack: Real-Time Monitoring and Intervention in LLM Agent Trajectories via Streaming Structure-Aware Optimal Transport](http://arxiv.org/abs/2610.12375v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v3) | ArXiv |  | 1 |
 | [Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies](http://arxiv.org/abs/2608.02509v1) | ArXiv |  | 1 |
@@ -581,6 +588,7 @@
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v1) | ArXiv |  | 1 |
 | [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](http://arxiv.org/abs/2609.08228v2) | ArXiv |  | 1 |
 | [Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](http://arxiv.org/abs/2609.30177v1) | ArXiv |  | 1 |
+| [Searching for "Harmful Refusal": A Psychometric Audit of an AI Safety Benchmark](http://arxiv.org/abs/2610.12409v1) | ArXiv |  | 1 |
 | [SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration](http://arxiv.org/abs/2607.15257v1) | ArXiv |  | 1 |
 | [Segment-Level Agentic Topic Modeling for Improved Data Exploration and Resource Efficiency](http://arxiv.org/abs/2609.31460v1) | ArXiv |  | 1 |
 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |

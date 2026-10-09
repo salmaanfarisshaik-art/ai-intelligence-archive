@@ -3851,6 +3851,11 @@
 - **URL**: [https://openai.com/index/learning-with-opponent-learning-awareness](https://openai.com/index/learning-with-opponent-learning-awareness)
 
 ## 
+- **ID**: rss_https://openai.com/index/legalon-halves-codex-costs
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/legalon-halves-codex-costs](https://openai.com/index/legalon-halves-codex-costs)
+
+## 
 - **ID**: rss_https://openai.com/index/legora-financial-statement-review-with-astra
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/legora-financial-statement-review-with-astra](https://openai.com/index/legora-financial-statement-review-with-astra)

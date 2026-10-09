@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.12452v1",
+  "schema_version": "1.0",
+  "name": "BrickBench: Evaluating Agentic Brick Design",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.12452v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.12452v1",
+    "updated": "2026-10-08T17:58:56Z",
+    "published": "2026-10-08T17:58:56Z",
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built. To do so, it must select parts from a discrete library and reason jointly about local and global constraints. We score validity, alignment, and design across three settings that vary in scale and part availability. We provide BrickAgent, an environment for coding agents to construct, inspect, and validate their designs. We find that leading agents largely satisfy verifiable physical and semantic requirements, but fall short of human designs. We release our benchmark and environment at http://www.brickben.ch",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:58:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.12452v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

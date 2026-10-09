@@ -830,3 +830,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10528v1](http://arxiv.org/abs/2610.10528v1)
 
+## Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
+- **ID**: arxiv_2610.12369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12369v1](http://arxiv.org/abs/2610.12369v1)
+
+## ARC: A Reasoning Recipe for Robot Foundation Models
+- **ID**: arxiv_2610.12386v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12386v1](http://arxiv.org/abs/2610.12386v1)
+
+## LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC
+- **ID**: arxiv_2610.12407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12407v1](http://arxiv.org/abs/2610.12407v1)
+
+## RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments
+- **ID**: arxiv_2610.12424v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12424v1](http://arxiv.org/abs/2610.12424v1)
+
+## DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+- **ID**: arxiv_2610.12468v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12468v1](http://arxiv.org/abs/2610.12468v1)
+
+## Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
+- **ID**: arxiv_2610.12470v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12470v1](http://arxiv.org/abs/2610.12470v1)
+

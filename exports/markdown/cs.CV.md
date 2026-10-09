@@ -380,6 +380,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.22187v4](http://arxiv.org/abs/2511.22187v4)
 
+## Learning Projection-Aware 360-Degree Image Rectification via Dual-Projection Fusion
+- **ID**: arxiv_2512.00911v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.00911v2](http://arxiv.org/abs/2512.00911v2)
+
 ## DM3D: Dynamic Mamba via Offset-Guided Feature Resampling for Point Cloud Understanding
 - **ID**: arxiv_2512.03424v4
 - **Source**: ArXiv
@@ -2659,6 +2664,11 @@
 - **ID**: arxiv_2608.07468v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07468v3](http://arxiv.org/abs/2608.07468v3)
+
+## ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery
+- **ID**: arxiv_2608.08132v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.08132v2](http://arxiv.org/abs/2608.08132v2)
 
 ## OccAnyScene: Towards Unified Indoor-Outdoor 3D Occupancy Prediction
 - **ID**: arxiv_2608.08696v3
@@ -5650,6 +5660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10429v1](http://arxiv.org/abs/2610.10429v1)
 
+## SGF+: Decoupling Gradient Flows for Autoregressive Video Generation
+- **ID**: arxiv_2610.10429v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.10429v2](http://arxiv.org/abs/2610.10429v2)
+
 ## Detecting Adversarial Images through Response Profiles of Vision-Language Models
 - **ID**: arxiv_2610.10436v1
 - **Source**: ArXiv
@@ -5699,4 +5714,109 @@
 - **ID**: arxiv_2610.10539v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10539v1](http://arxiv.org/abs/2610.10539v1)
+
+## AgentGarten: Code Worlds for Evolving Agents
+- **ID**: arxiv_2610.12374v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12374v1](http://arxiv.org/abs/2610.12374v1)
+
+## WorldAlign: Decoupled 4D Reward for World-Consistent Video Generation
+- **ID**: arxiv_2610.12382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12382v1](http://arxiv.org/abs/2610.12382v1)
+
+## GenIA: Generative Reconstruction with Test-Time Input Alignment
+- **ID**: arxiv_2610.12388v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12388v1](http://arxiv.org/abs/2610.12388v1)
+
+## SpaceFlow: Locally Controllable 3D Generation
+- **ID**: arxiv_2610.12399v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12399v1](http://arxiv.org/abs/2610.12399v1)
+
+## SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models
+- **ID**: arxiv_2610.12402v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12402v1](http://arxiv.org/abs/2610.12402v1)
+
+## ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills
+- **ID**: arxiv_2610.12403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12403v1](http://arxiv.org/abs/2610.12403v1)
+
+## WorldCast: Distributed Multiplayer World Models
+- **ID**: arxiv_2610.12412v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12412v1](http://arxiv.org/abs/2610.12412v1)
+
+## MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances
+- **ID**: arxiv_2610.12416v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12416v1](http://arxiv.org/abs/2610.12416v1)
+
+## WOVEN: Weaving Visual World Modeling into Multimodal LLMs
+- **ID**: arxiv_2610.12417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12417v1](http://arxiv.org/abs/2610.12417v1)
+
+## OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video
+- **ID**: arxiv_2610.12419v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12419v1](http://arxiv.org/abs/2610.12419v1)
+
+## Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching
+- **ID**: arxiv_2610.12421v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12421v1](http://arxiv.org/abs/2610.12421v1)
+
+## Pumpire: Unified Benchmark for Metric Distance Estimation
+- **ID**: arxiv_2610.12423v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12423v1](http://arxiv.org/abs/2610.12423v1)
+
+## FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?
+- **ID**: arxiv_2610.12427v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12427v1](http://arxiv.org/abs/2610.12427v1)
+
+## LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation
+- **ID**: arxiv_2610.12442v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12442v1](http://arxiv.org/abs/2610.12442v1)
+
+## One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts
+- **ID**: arxiv_2610.12448v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12448v1](http://arxiv.org/abs/2610.12448v1)
+
+## VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation
+- **ID**: arxiv_2610.12451v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12451v1](http://arxiv.org/abs/2610.12451v1)
+
+## OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning
+- **ID**: arxiv_2610.12458v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12458v1](http://arxiv.org/abs/2610.12458v1)
+
+## WorldGuide: Goal-Directed Video World Model for Procedural Task Execution
+- **ID**: arxiv_2610.12459v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12459v1](http://arxiv.org/abs/2610.12459v1)
+
+## OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs
+- **ID**: arxiv_2610.12461v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12461v1](http://arxiv.org/abs/2610.12461v1)
+
+## What 30,000 Hours of Ego-centric Video Does Not Teach
+- **ID**: arxiv_2610.12464v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12464v1](http://arxiv.org/abs/2610.12464v1)
+
+## Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation
+- **ID**: arxiv_2610.12469v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12469v1](http://arxiv.org/abs/2610.12469v1)
 

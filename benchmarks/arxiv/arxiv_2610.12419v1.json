@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.12419v1",
+  "schema_version": "1.0",
+  "name": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.12419v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.12419v1",
+    "updated": "2026-10-08T17:52:46Z",
+    "published": "2026-10-08T17:52:46Z",
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "summary": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserve the dependencies linking localized visual anchors, entity relations, source-supported facts, and answer-producing operations. We introduce OneSearch-VL, a unified agent centered on the Visually Grounded Evidence Graph (VGEG), which encodes these dependencies as a shared task-level reference for data construction, process supervision, and operation-level evaluation. Our VGEG-based data engine constructs and verifies multi-image and video questions and filters expert trajectories. Using these data, we assemble OneSearch-VL-SFT-110K and OneSearch-VL-RL-10K for SFT and RL, respectively. We further derive the Evidence-aware Visual-Grounded Rubric reward (EVGR) from VGEG annotations to supervise evidence traceability and visual grounding during RL. For fine-grained evaluation, we construct OneSearch-MI-Bench and OneSearch-Video-Bench, organizing questions by the research operations encoded in their VGEGs. Experiments show that OneSearch-VL-8B improves over Qwen3-VL-8B with tool access by 20.2 and 17.6 percentage points on the two new benchmarks, respectively, while also achieving substantial gains across 7 image benchmarks and VideoDR. Project repository: https://github.com/appletea233/OneSearch-VL",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:52:46Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.12419v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

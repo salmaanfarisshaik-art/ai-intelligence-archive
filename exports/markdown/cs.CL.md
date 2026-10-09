@@ -250,6 +250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.12290v2](http://arxiv.org/abs/2511.12290v2)
 
+## LMSpell: Spell Correction with Pre-Trained Language Models
+- **ID**: arxiv_2512.05414v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.05414v4](http://arxiv.org/abs/2512.05414v4)
+
 ## Multilingual Agent-Based World Modeling for Social Science
 - **ID**: arxiv_2512.07195v2
 - **Source**: ArXiv
@@ -3495,6 +3500,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31571v1](http://arxiv.org/abs/2609.31571v1)
 
+## FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech
+- **ID**: arxiv_2609.32396v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32396v2](http://arxiv.org/abs/2609.32396v2)
+
 ## 
 - **ID**: arxiv_2609.32810v2
 - **Source**: ArXiv
@@ -3604,6 +3614,11 @@
 - **ID**: arxiv_2609.38627v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38627v3](http://arxiv.org/abs/2609.38627v3)
+
+## LLM Persona Unlearning
+- **ID**: arxiv_2609.39882v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.39882v2](http://arxiv.org/abs/2609.39882v2)
 
 ## Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports
 - **ID**: arxiv_2609.40236v1
@@ -3834,4 +3849,19 @@
 - **ID**: arxiv_2610.10533v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10533v1](http://arxiv.org/abs/2610.10533v1)
+
+## Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution
+- **ID**: arxiv_2610.12367v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12367v1](http://arxiv.org/abs/2610.12367v1)
+
+## Latent Core Tokenizer: Compress, but Meaningfully
+- **ID**: arxiv_2610.12376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12376v1](http://arxiv.org/abs/2610.12376v1)
+
+## Predicting Alignment Generalization with Value Representations
+- **ID**: arxiv_2610.12410v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12410v1](http://arxiv.org/abs/2610.12410v1)
 

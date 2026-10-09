@@ -1480,6 +1480,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/legalon-halves-codex-costs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/paf",
       "match_type": "exact",
       "score": 1.0
@@ -7123,11 +7128,6 @@
     },
     {
       "entity_id": "dataset_ssuresh_fortran_code_repos",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -39964,11 +39964,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_stringfellow_fusion_dw",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_subhan1501_fake_face_detection_dataset",
       "match_type": "exact",
       "score": 1.5
@@ -55127,6 +55122,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12445v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-deceptive-employment-scheme",
       "match_type": "exact",
       "score": 2.0
@@ -61883,6 +61883,11 @@
       "entity_id": "arxiv_2610.10533v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12382v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "decouples": [
@@ -61930,6 +61935,11 @@
     },
     {
       "entity_id": "arxiv_2610.10429v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.10429v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -64231,6 +64241,16 @@
     },
     {
       "entity_id": "arxiv_2610.10473v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12419v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12458v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -72306,6 +72326,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2512.00911v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-2075862907724447563",
       "match_type": "exact",
       "score": 1.0
@@ -78076,6 +78101,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12470v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_lightwheelai_egodemo",
       "match_type": "exact",
       "score": 1.5
@@ -78920,6 +78950,11 @@
     },
     {
       "entity_id": "arxiv_2610.06801v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12421v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -84751,6 +84786,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12448v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_link_dev_uav3dcrop",
       "match_type": "exact",
       "score": 2.0
@@ -85114,6 +85154,11 @@
     },
     {
       "entity_id": "alpaca_-7216572812125424274",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12448v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -106770,6 +106815,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12452v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_aieda_idata",
       "match_type": "exact",
       "score": 2.0
@@ -115963,6 +116013,11 @@
     },
     {
       "entity_id": "arxiv_2609.02859v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12445v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -126437,6 +126492,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "rss_https://openai.com/index/legalon-halves-codex-costs",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/moderna",
       "match_type": "exact",
       "score": 3.0
@@ -130613,6 +130673,13 @@
       "score": 1.0
     }
   ],
+  "dex": [
+    {
+      "entity_id": "arxiv_2610.12470v1",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "dexhand": [
     {
       "entity_id": "hf_ds_DEXHAND-70K_DEXHAND-70K",
@@ -130715,6 +130782,11 @@
     },
     {
       "entity_id": "arxiv_2609.24976v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12470v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -147012,6 +147084,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2608.08132v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2608.12308v1",
       "match_type": "exact",
       "score": 2.0
@@ -147243,6 +147320,11 @@
     },
     {
       "entity_id": "arxiv_2610.10457v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12407v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -150025,6 +150107,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12449v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-117567084009309760",
       "match_type": "exact",
       "score": 1.0
@@ -152589,6 +152676,11 @@
   "directed": [
     {
       "entity_id": "alpaca_-6773006169151392628",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12459v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -165332,6 +165424,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12423v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-108472609184529937",
       "match_type": "exact",
       "score": 1.0
@@ -166406,6 +166503,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12367v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_hiepp2_tvp4",
       "match_type": "exact",
       "score": 2.0
@@ -167074,6 +167176,11 @@
     },
     {
       "entity_id": "arxiv_2610.10460v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12469v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -168810,6 +168917,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2610.12412v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_nvidia_cosmos3_droid",
       "match_type": "exact",
       "score": 2.0
@@ -170087,6 +170199,11 @@
     },
     {
       "entity_id": "arxiv_2609.31571v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12461v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -181466,6 +181583,11 @@
     },
     {
       "entity_id": "arxiv_2610.08722v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12464v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -197553,6 +197675,13 @@
       "score": 1.0
     }
   ],
+  "dreamtrue": [
+    {
+      "entity_id": "arxiv_2610.12468v1",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "dreamx": [
     {
       "entity_id": "arxiv_2608.13489v1",
@@ -204610,6 +204739,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2512.00911v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2512.03883v3",
       "match_type": "exact",
       "score": 2.0
@@ -210724,6 +210858,11 @@
     },
     {
       "entity_id": "arxiv_2610.06704v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.12427v1",
       "match_type": "exact",
       "score": 2.0
     },

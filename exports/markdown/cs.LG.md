@@ -1815,6 +1815,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31603v1](http://arxiv.org/abs/2609.31603v1)
 
+## MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning
+- **ID**: arxiv_2609.33563v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.33563v2](http://arxiv.org/abs/2609.33563v2)
+
 ## MASCIT: A Mask-Aware State Space Classifier for Naturally Irregular Time Series
 - **ID**: arxiv_2609.34409v2
 - **Source**: ArXiv
@@ -2049,4 +2054,19 @@
 - **ID**: arxiv_2610.10536v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10536v1](http://arxiv.org/abs/2610.10536v1)
+
+## Long Text to Predictive Features: LLM-Guided Blockwise Feature Engineering via Executable Program Search
+- **ID**: arxiv_2610.12390v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12390v1](http://arxiv.org/abs/2610.12390v1)
+
+## Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception
+- **ID**: arxiv_2610.12445v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12445v1](http://arxiv.org/abs/2610.12445v1)
+
+## Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems
+- **ID**: arxiv_2610.12449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12449v1](http://arxiv.org/abs/2610.12449v1)
 

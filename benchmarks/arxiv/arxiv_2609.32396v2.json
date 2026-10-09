@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.32396v2",
+  "schema_version": "1.0",
+  "name": "FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.32396v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.32396v2",
+    "updated": "2026-10-08T17:57:56Z",
+    "published": "2026-09-26T09:16:06Z",
+    "title": "FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech",
+    "summary": "Forced alignment estimates the timestamps of each word, phone or character in speech given its transcript. Published comparisons normalize transcripts, split the data and match boundaries differently, so their numbers cannot be read together. We present FA-Bench, an open framework that fixes those choices once and releases the code, splits, phone mapping, text normalization and scoring script, with results published periodically. Track 1 gives every aligner the reference transcript and Track 2 gives it a recognizer's output, on the same audio, clean and degraded four ways, with 21 open models and 9 commercial APIs under a unified protocol. We score every boundary of an utterance and check the two labels beside it, so a word the recognizer missed or invented is charged. Using a tolerance-based F1 as our primary metric eliminates the 9% to 14% score inflation that standard MAE causes on recognition-dependent systems in conversational speech. We then group boundaries by position and how many adjacent words were recognized correctly, which shows where a system lost the score. We discovered systematic bias in how current systems time words, with Whisper about 150 ms early and several commercial ASR APIs over 50 ms late. Code and results are at https://github.com/olewave/fa-bench",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:57:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.32396v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

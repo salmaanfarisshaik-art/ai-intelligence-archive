@@ -278,6 +278,7 @@
 | [Exploring Autonomous Agentic Data Engineering for Model Specialization](http://arxiv.org/abs/2605.30407v3) | ArXiv |  | 1 |
 | [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](http://arxiv.org/abs/2606.16934v1) | ArXiv |  | 1 |
 | [Exposure is Optional: Learning Unlike Coordination in Language Models](http://arxiv.org/abs/2607.20251v1) | ArXiv |  | 1 |
+| [FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech](http://arxiv.org/abs/2609.32396v2) | ArXiv |  | 1 |
 | [FALCON: A Model and Dataset Agnostic Framework for Synthetic Data Generation for NL2SQL Pairs](http://arxiv.org/abs/2610.03625v1) | ArXiv |  | 1 |
 | [False positive bias in AI-powered speech-based cognitive screening for multilingual English speakers in the UK](http://arxiv.org/abs/2602.13047v2) | ArXiv |  | 1 |
 | [Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference](http://arxiv.org/abs/2606.02955v2) | ArXiv |  | 1 |
@@ -399,6 +400,7 @@
 | [Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types](http://arxiv.org/abs/2604.09544v3) | ArXiv |  | 1 |
 | [Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1) | ArXiv |  | 1 |
 | [Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context](http://arxiv.org/abs/2609.35663v1) | ArXiv |  | 1 |
+| [Latent Core Tokenizer: Compress, but Meaningfully](http://arxiv.org/abs/2610.12376v1) | ArXiv |  | 1 |
 | [Layer-wise Positional Bias in Short-Context Language Modeling](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models](http://arxiv.org/abs/2603.29123v4) | ArXiv |  | 1 |
 | [Learning from the Self-future: On-policy Self-distillation for dLLMs](http://arxiv.org/abs/2606.18195v1) | ArXiv |  | 1 |
@@ -424,10 +426,12 @@
 | [LitTraceQA: A Benchmark for Multi-Stage Grounding and Verification in Scientific Question Answering](http://arxiv.org/abs/2608.07370v1) | ArXiv |  | 1 |
 | [LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference](http://arxiv.org/abs/2608.02515v1) | ArXiv |  | 1 |
 | [LKValues: Aligning Large Language Models with Sri Lankan Societal Values](http://arxiv.org/abs/2607.20410v1) | ArXiv |  | 1 |
+| [LLM Persona Unlearning](http://arxiv.org/abs/2609.39882v2) | ArXiv |  | 1 |
 | [LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints](http://arxiv.org/abs/2410.06458v2) | ArXiv |  | 1 |
 | [LLM-Microscope: Uncovering the Hidden Role of Punctuation in Context Memory of Transformers](http://arxiv.org/abs/2502.15007v2) | ArXiv |  | 1 |
 | [LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity](http://arxiv.org/abs/2609.29672v2) | ArXiv |  | 1 |
 | [LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations](http://arxiv.org/abs/2602.09924v4) | ArXiv |  | 1 |
+| [LMSpell: Spell Correction with Pre-Trained Language Models](http://arxiv.org/abs/2512.05414v4) | ArXiv |  | 1 |
 | [Localizing Persona Representations in LLMs](http://arxiv.org/abs/2505.24539v4) | ArXiv |  | 1 |
 | [Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility](http://arxiv.org/abs/2608.03930v1) | ArXiv |  | 1 |
 | [Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs](http://arxiv.org/abs/2609.18935v1) | ArXiv |  | 1 |
@@ -528,6 +532,7 @@
 | [PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers](http://arxiv.org/abs/2604.02537v3) | ArXiv |  | 1 |
 | [Post-Training Large Language Models via Reinforcement Learning from Self-Feedback](http://arxiv.org/abs/2507.21931v2) | ArXiv |  | 1 |
 | [PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning](http://arxiv.org/abs/2607.18199v1) | ArXiv |  | 1 |
+| [Predicting Alignment Generalization with Value Representations](http://arxiv.org/abs/2610.12410v1) | ArXiv |  | 1 |
 | [Predicting Steering Vectors and Adapter Weights for Few-Shot Author-Style Transfer](http://arxiv.org/abs/2610.03163v1) | ArXiv |  | 1 |
 | [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) | ArXiv |  | 1 |
 | [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) | ArXiv |  | 1 |
@@ -758,6 +763,7 @@
 | [Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition](http://arxiv.org/abs/2609.07474v3) | ArXiv |  | 1 |
 | [Which Models Perform Better in Inheritance Reasoning?](http://arxiv.org/abs/2606.13751v4) | ArXiv |  | 1 |
 | [Which one is banana man? Evaluating vision-language models in multi-turn pragmatic interpretation](http://arxiv.org/abs/2608.29571v1) | ArXiv |  | 1 |
+| [Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution](http://arxiv.org/abs/2610.12367v1) | ArXiv |  | 1 |
 | [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |
 | [Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs](http://arxiv.org/abs/2604.21751v2) | ArXiv |  | 2 |
 | [WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |

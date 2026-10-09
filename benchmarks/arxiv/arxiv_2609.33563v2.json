@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.33563v2",
+  "schema_version": "1.0",
+  "name": "MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.33563v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.33563v2",
+    "updated": "2026-10-08T17:57:30Z",
+    "published": "2026-09-27T13:37:30Z",
+    "title": "MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning",
+    "summary": "World models improve sample efficiency by training policies on imagined trajectories, but their usefulness depends on learning representations that capture the information needed for future control. We study whether self-supervised joint-embedding prediction (JEPA) can provide this learning signal for multi-agent reinforcement learning. We introduce MA-JEPA, a stochastic world model that replaces observation reconstruction with prediction of target representations, enabling model-based multi-agent reinforcement learning with centralized training and decentralized execution. A categorical latent state and a causal Transformer are trained with posterior and action-conditioned dynamics prediction objectives and are then used for actor-critic learning from latent imagination. A training-only joint predictor conditions on all agents' local states and actions to predict each agent's next local observation embedding. These predictions are passed through the same local posterior used during real interaction with a centralized critic that is used only for value learning, with execution remaining decentralized. Our experiments show that this architecture performs strongly on SMAC, matching or exceeding the strongest reported comparator mean win rate on four of eight evaluated maps.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:57:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.33563v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

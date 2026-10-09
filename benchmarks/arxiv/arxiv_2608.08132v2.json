@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.08132v2",
+  "schema_version": "1.0",
+  "name": "ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.08132v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.08132v2",
+    "updated": "2026-10-08T17:35:05Z",
+    "published": "2026-08-08T13:39:28Z",
+    "title": "ASV3D: Adapting Diffusion-Based Single-View 3D Reconstruction with Extra Imagery",
+    "summary": "Reconstruction of 3D objects from a single image is a fundamental research topic in computer vision. The key challenge is the lack of information from critical viewpoints to complete 3D structures. Using an additional view may help to resolve the issue. However, there is no mechanism that can integrate the extra view into the diffusion-based single-view 3D reconstruction principle. We address this challenge by proposing ASV3D, a framework for adapting diffusion-based single-view 3D object reconstruction to test-time data with support from one additional image. We introduce two adaptation strategies: (i) a zero-shot adaptation scheme that leverages the auxiliary image to improve the reconstruction quality of an object without retraining, and (ii) an optimised adaptation scheme that further enhances visual fidelity and cross-view consistency via contrastive learning. We apply our ASV3D to improve two state-of-the-art diffusion-based single-view 3D reconstruction pipelines on both benchmark and real-world datasets. Results demonstrate that our approach consistently improves reconstruction accuracy and robustness under unconstrained multi-view inputs, outperforming the baselines in both quantitative metrics and human preference. We publish our code and the real-world object dataset on our project page at https://github.com/YNhuHuynh/ASV3D/tree/main.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:35:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.08132v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

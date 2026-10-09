@@ -220,3 +220,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10463v1](http://arxiv.org/abs/2610.10463v1)
 
+## Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting
+- **ID**: arxiv_2610.12455v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12455v1](http://arxiv.org/abs/2610.12455v1)
+

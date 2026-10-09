@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.05414v4",
+  "schema_version": "1.0",
+  "name": "LMSpell: Spell Correction with Pre-Trained Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.05414v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.05414v4",
+    "updated": "2026-10-08T17:32:24Z",
+    "published": "2025-12-05T04:14:09Z",
+    "title": "LMSpell: Spell Correction with Pre-Trained Language Models",
+    "summary": "Spell correction is still a challenging problem for many languages, especially low-resource languages (LRLs). While pre-trained language models (PLMs) have been employed for spell correction, there has been no proper comparison across PLMs. We present the first empirical study on the effectiveness of the three types of PLMs for spell correction across multiple languages, including low-resource languages. We show that even relatively small PLMs such as the 270M-parameter Gemma 3 and mBART50, when fine-tuned on a dataset of only 5k sentences, can outperform rule-based spell correctors, highlighting a practical pathway for building effective spell correction systems with limited data. We also present a case study with Sinhala to shed light on the plight of spell correction for LRLs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-09T02:47:33Z",
+  "last_updated": "2026-10-08T17:32:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.05414v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
