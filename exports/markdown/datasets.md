@@ -1113,6 +1113,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_buithanhtuan1981_buithanhtuan1981
+- **Source**: 
+
+## 
 - **ID**: dataset_buithutrang2004_buithutrang2004
 - **Source**: 
 
@@ -1797,6 +1801,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_egosteer_egosteer_realworld
+- **Source**: 
+
+## 
 - **ID**: dataset_ehovy_race
 - **Source**: 
 
@@ -1958,6 +1966,10 @@
 
 ## 
 - **ID**: dataset_fancyzhx_amazon_polarity
+- **Source**: 
+
+## 
+- **ID**: dataset_fancyzhx_dbpedia_14
 - **Source**: 
 
 ## 
@@ -2910,6 +2922,10 @@
 
 ## 
 - **ID**: dataset_huiwon_robocasa_mg_gr00t_1000
+- **Source**: 
+
+## 
+- **ID**: dataset_hula0401_cad_corpus_cleaned
 - **Source**: 
 
 ## 
@@ -5301,6 +5317,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lzliang_embodiedmemorybench
+- **Source**: 
+
+## 
 - **ID**: dataset_m_a_p_coig_cqia
 - **Source**: 
 
@@ -5730,6 +5750,10 @@
 
 ## 
 - **ID**: dataset_mmmu_mmmu
+- **Source**: 
+
+## 
+- **ID**: dataset_model_metadata_code_python_files
 - **Source**: 
 
 ## 
@@ -6241,6 +6265,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nvidia_video_to_data_robot_dexterity_task_library_and_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_nyarlathotep12_mxstuff
 - **Source**: 
 
@@ -6641,6 +6669,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_papylove_kalshi_15m_data
+- **Source**: 
+
+## 
 - **ID**: dataset_parexel_clinical_trials_protocols
 - **Source**: 
 
@@ -6934,6 +6966,10 @@
 
 ## 
 - **ID**: dataset_pruna_test_documentation_media
+- **Source**: 
+
+## 
+- **ID**: dataset_prunaai_media_assets
 - **Source**: 
 
 ## 
@@ -7401,6 +7437,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_scicom_intl_semantic_vad_eot
+- **Source**: 
+
+## 
 - **ID**: dataset_scorpionjacketguy_physics_course_vids
 - **Source**: 
 
@@ -7714,6 +7754,10 @@
 
 ## 
 - **ID**: dataset_stringfellow_fusion_dw
+- **Source**: 
+
+## 
+- **ID**: dataset_subhamdb_chess_puzzles
 - **Source**: 
 
 ## 
@@ -8322,6 +8366,10 @@
 
 ## 
 - **ID**: dataset_vchitect_vchitect_t2v_dataverse
+- **Source**: 
+
+## 
+- **ID**: dataset_vctvct123_megadepth
 - **Source**: 
 
 ## 

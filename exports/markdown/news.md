@@ -276,6 +276,31 @@
 - **URL**: [https://openai.com/academy/writing](https://openai.com/academy/writing)
 
 ## 
+- **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)
+
+## 
+- **ID**: rss_https://openai.com/business/fine-tuning-gpt-4o-webinar
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/fine-tuning-gpt-4o-webinar](https://openai.com/business/fine-tuning-gpt-4o-webinar)
+
+## 
+- **ID**: rss_https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents)
+
+## 
+- **ID**: rss_https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-with-ai)
+
+## 
+- **ID**: rss_https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide](https://openai.com/business/guides-and-resources/chatgpt-business-smb-guide)
+
+## 
 - **ID**: rss_https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work](https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work)
@@ -284,6 +309,16 @@
 - **ID**: rss_https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)
+
+## 
+- **ID**: rss_https://openai.com/business/guides-and-resources/how-openai-uses-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/guides-and-resources/how-openai-uses-codex](https://openai.com/business/guides-and-resources/how-openai-uses-codex)
+
+## 
+- **ID**: rss_https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work](https://openai.com/business/guides-and-resources/inside-gpt5-our-best-model-for-work)
 
 ## 
 - **ID**: rss_https://openai.com/business/guides-and-resources/staying-ahead-in-the-age-of-ai
@@ -296,6 +331,86 @@
 - **URL**: [https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report](https://openai.com/business/guides-and-resources/the-state-of-enterprise-ai-2025-report)
 
 ## 
+- **ID**: rss_https://openai.com/business/learn/automate-complex-workflows-with-openai-o3
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/automate-complex-workflows-with-openai-o3](https://openai.com/business/learn/automate-complex-workflows-with-openai-o3)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/collaborate-and-write-with-gpt-4o
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/collaborate-and-write-with-gpt-4o](https://openai.com/business/learn/collaborate-and-write-with-gpt-4o)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/connect-internal-knowledge-from-google-drive
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/connect-internal-knowledge-from-google-drive](https://openai.com/business/learn/connect-internal-knowledge-from-google-drive)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/create-on-brand-visuals-with-image-generation
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/create-on-brand-visuals-with-image-generation](https://openai.com/business/learn/create-on-brand-visuals-with-image-generation)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt](https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/delegate-work-to-chatgpt-agent
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/delegate-work-to-chatgpt-agent](https://openai.com/business/learn/delegate-work-to-chatgpt-agent)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/gpt-5-our-best-model-for-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/gpt-5-our-best-model-for-work](https://openai.com/business/learn/gpt-5-our-best-model-for-work)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work](https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/market-research-with-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/market-research-with-chatgpt](https://openai.com/business/learn/market-research-with-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions](https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt](https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt](https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/strategic-planning-with-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/strategic-planning-with-chatgpt](https://openai.com/business/learn/strategic-planning-with-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle](https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/vision-and-voice-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/vision-and-voice-in-chatgpt](https://openai.com/business/learn/vision-and-voice-in-chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/business/learn/writing-with-canvas-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/learn/writing-with-canvas-in-chatgpt](https://openai.com/business/learn/writing-with-canvas-in-chatgpt)
+
+## 
 - **ID**: rss_https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025](https://openai.com/business/new-in-chatgpt-for-business-april-updates-2025)
@@ -304,6 +419,26 @@
 - **ID**: rss_https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025](https://openai.com/business/new-in-chatgpt-for-work-march-updates-2025)
+
+## 
+- **ID**: rss_https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations](https://openai.com/business/put-ai-to-work-automate-and-scale-financial-operations)
+
+## 
+- **ID**: rss_https://openai.com/business/put-ai-to-work-for-marketing-teams
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/put-ai-to-work-for-marketing-teams](https://openai.com/business/put-ai-to-work-for-marketing-teams)
+
+## 
+- **ID**: rss_https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments](https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments)
+
+## 
+- **ID**: rss_https://openai.com/business/solving-complex-problems-with-openai-o1-models
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/business/solving-complex-problems-with-openai-o1-models](https://openai.com/business/solving-complex-problems-with-openai-o1-models)
 
 ## 
 - **ID**: rss_https://openai.com/form/codex-originals
@@ -809,6 +944,11 @@
 - **ID**: rss_https://openai.com/index/asana
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/asana](https://openai.com/index/asana)
+
+## 
+- **ID**: rss_https://openai.com/index/asana-browser-agent
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/asana-browser-agent](https://openai.com/index/asana-browser-agent)
 
 ## 
 - **ID**: rss_https://openai.com/index/astra-for-law
