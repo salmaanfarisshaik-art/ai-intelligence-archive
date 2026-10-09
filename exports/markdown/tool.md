@@ -65,6 +65,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
+## hyperframes
+- **ID**: gh_1177402105
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
+
 ## ai-engineering-from-scratch
 - **ID**: gh_1185590488
 - **Source**: GitHub Trending

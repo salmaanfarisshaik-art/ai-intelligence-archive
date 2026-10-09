@@ -26263,8 +26263,10 @@ dataset_mlfoundations_mint_1t_pdf_cc_2023_50,,datasets,,,
 dataset_mlfoundations_mint_1t_pdf_cc_2024_10,,datasets,,,
 dataset_mlfoundations_mint_1t_pdf_cc_2024_18,,datasets,,,
 dataset_mlinhbng_viet_cultural_vqa,,datasets,,,
+dataset_mm_eval_vlmevalkit,,datasets,,,
 dataset_mmmu_mmmu,,datasets,,,
 dataset_mohamedrashad_arabic_books,,datasets,,,
+dataset_molssiai_hub_pubchemqc_pm6,,datasets,,,
 dataset_monology_pile_uncopyrighted,,datasets,,,
 dataset_moondream_seeclick,,datasets,,,
 dataset_morteza20_mteb_leaderboard,,datasets,,,
@@ -27101,6 +27103,7 @@ gh_1129940957,headroom,tool,GitHub Trending,,https://github.com/headroomlabs-ai/
 gh_1130564872,worldmonitor,tool,GitHub Trending,,https://github.com/koala73/worldmonitor
 gh_1141782198,voicebox,tool,GitHub Trending,,https://github.com/jamiepine/voicebox
 gh_1162099055,taste-skill,tool,GitHub Trending,,https://github.com/Leonxlnx/taste-skill
+gh_1177402105,hyperframes,tool,GitHub Trending,,https://github.com/heygen-com/hyperframes
 gh_1185590488,ai-engineering-from-scratch,tool,GitHub Trending,,https://github.com/rohitg00/ai-engineering-from-scratch
 gh_1195360525,OpenMontage,tool,GitHub Trending,,https://github.com/calesthio/OpenMontage
 gh_1201173969,caveman,tool,GitHub Trending,,https://github.com/JuliusBrussee/caveman
@@ -27850,7 +27853,7 @@ hf_ds_6a2ec08ae425e2822f53fef3,wei82/precancer-omics-data,dataset,HuggingFace Da
 hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:2606.27375|bimanual|imitation-learning|language:en|license:apache-2.0|manipulation|mcap|region:us|robotics|size_categories:n>1T|task_categories:robotics|teleoperation,https://huggingface.co/datasets/XDOF/ABC-130k
 hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer
 hf_ds_6a382f6fa519cd301493b37b,Syn4D/Syn4D,dataset,HuggingFace Datasets,arxiv:2605.05207|license:cc-by-4.0|region:us,https://huggingface.co/datasets/Syn4D/Syn4D
-hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/StringFellow/fusion-dw
+hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:apache-2.0|modality:text|region:us|size_categories:1M<n<10M,https://huggingface.co/datasets/StringFellow/fusion-dw
 hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
 hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/fujinchu/imgbed
@@ -29385,6 +29388,7 @@ math,MATH,Benchmark,DeepMind,,https://benchmarks.ai/math
 model_01_ai_yi_34b_chat,01-ai/Yi-34B-Chat,models,,,
 model_01_ai_yi_6b_chat,01-ai/Yi-6B-Chat,models,,,
 model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf,0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF,models,,,
+model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf,0bserverx/Qwen3.8-27B-Heretic-GSQ-RCO-GGUF,models,,,
 model_0xsero_deepseek_v4_flash_0731_spark,0xSero/deepseek-v4-flash-0731-spark,models,,,
 model_aaditya_llama3_openbiollm_8b,aaditya/Llama3-OpenBioLLM-8B,models,,,
 model_abeja_gpt_neox_japanese_2_7b,abeja/gpt-neox-japanese-2.7b,models,,,
@@ -29403,6 +29407,7 @@ model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_multimodal_nvfp4_mtp_xs,AEON-7
 model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4,AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-NVFP4,models,,,
 model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf,agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF,models,,,
 model_agnuxo_cajal_4b,Agnuxo/CAJAL-4B,models,,,
+model_ai21labs_ai21_jamba_reasoning_3b,ai21labs/AI21-Jamba-Reasoning-3B,models,,,
 model_ai4bharat_indic_parler_tts,ai4bharat/indic-parler-tts,models,,,
 model_ai_forever_rugpt3small_based_on_gpt2,ai-forever/rugpt3small_based_on_gpt2,models,,,
 model_ai_sage_gigachat3_1_audio_10b_a1_8b,ai-sage/GigaChat3.1-Audio-10B-A1.8B,models,,,
@@ -29494,6 +29499,7 @@ model_baidu_ernie_4_5_21b_a3b_pt,baidu/ERNIE-4.5-21B-A3B-PT,models,,,
 model_baidu_ernie_4_5_21b_a3b_thinking,baidu/ERNIE-4.5-21B-A3B-Thinking,models,,,
 model_bartowski_allenai_olmo_3_1_32b_think_gguf,bartowski/allenai_Olmo-3.1-32B-Think-GGUF,models,,,
 model_bartowski_altworld_hemmingway_1_gguf,bartowski/Altworld_Hemmingway-1-GGUF,models,,,
+model_bartowski_c4ai_command_r7b_12_2024_gguf,bartowski/c4ai-command-r7b-12-2024-GGUF,models,,,
 model_bartowski_deepseek_coder_v2_lite_instruct_gguf,bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF,models,,,
 model_bartowski_deepseek_r1_distill_llama_70b_gguf,bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF,models,,,
 model_bartowski_deepseek_r1_distill_qwen_14b_gguf,bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF,models,,,
@@ -29968,6 +29974,7 @@ model_isvalorum_qwen3_8_35b_a3b_distill_mtp_apex_i_miniplus_v2_1_abliterated_ggu
 model_jackfram_llama_160m,JackFram/llama-160m,models,,,
 model_jackfram_llama_68m,JackFram/llama-68m,models,,,
 model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf,Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF,models,,,
+model_jackrong_mlx_qwopus3_5_9b_v3_4bit,Jackrong/MLX-Qwopus3.5-9B-v3-4bit,models,,,
 model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf,Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GGUF,models,,,
 model_jackrong_qwen3_5_9b_glm5_1_distill_v1_gguf,Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF,models,,,
 model_jackrong_qwopus3_8_27b_flash_gguf,Jackrong/Qwopus3.8-27B-Flash-GGUF,models,,,
@@ -30201,6 +30208,7 @@ model_maziyarpanahi_qwen3_8b_gguf,MaziyarPanahi/Qwen3-8B-GGUF,models,,,
 model_maziyarpanahi_qwen3_coder_next_gguf,MaziyarPanahi/Qwen3-Coder-Next-GGUF,models,,,
 model_maziyarpanahi_qwq_32b_gguf,MaziyarPanahi/QwQ-32B-GGUF,models,,,
 model_maziyarpanahi_solar_pro_preview_instruct_gguf,MaziyarPanahi/solar-pro-preview-instruct-GGUF,models,,,
+model_maziyarpanahi_sqlcoder_7b_2_gguf,MaziyarPanahi/sqlcoder-7b-2-GGUF,models,,,
 model_maziyarpanahi_trinity_mini_gguf,MaziyarPanahi/Trinity-Mini-GGUF,models,,,
 model_maziyarpanahi_wizardlm_2_7b_gguf,MaziyarPanahi/WizardLM-2-7B-GGUF,models,,,
 model_maziyarpanahi_yi_1_5_6b_chat_gguf,MaziyarPanahi/Yi-1.5-6B-Chat-GGUF,models,,,
@@ -30551,6 +30559,7 @@ model_prism_ml_ternary_bonsai_27b_mlx_2bit,prism-ml/Ternary-Bonsai-27B-mlx-2bit,
 model_prism_ml_ternary_bonsai_2_27b_gguf,prism-ml/Ternary-Bonsai-2-27B-gguf,models,,,
 model_prism_ml_ternary_bonsai_2_27b_mlx_2bit,prism-ml/Ternary-Bonsai-2-27B-mlx-2bit,models,,,
 model_prism_ml_ternary_bonsai_8b_gguf,prism-ml/Ternary-Bonsai-8B-gguf,models,,,
+model_prithivmlmods_qwen_image_2_1_pe_t2i_gguf,prithivMLmods/Qwen-Image-2.1-PE-T2I-GGUF,models,,,
 model_prithivmlmods_vibethinker_3b_gguf,prithivMLmods/VibeThinker-3B-GGUF,models,,,
 model_prometheus_eval_prometheus_7b_v2_0,prometheus-eval/prometheus-7b-v2.0,models,,,
 model_protolabsai_ornith_1_0_35b_fp8,protoLabsAI/Ornith-1.0-35B-FP8,models,,,
@@ -31104,6 +31113,7 @@ model_vcruz305_hy3_gguf,vcruz305/Hy3-GGUF,models,,,
 model_vcruz305_ornith_1_0_35b_aeon_ultimate_uncensored_gguf,vcruz305/Ornith-1.0-35B-AEON-Ultimate-Uncensored-GGUF,models,,,
 model_vcruz305_qwen3_8_27b_aeon_ultimate_uncensored_gguf,vcruz305/Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-GGUF,models,,,
 model_vectionlabs_vl_1_coder,vectionlabs/VL-1-Coder,models,,,
+model_venastine_research_xing4_0_29b_a4b_gguf,Venastine-Research/Xing4.0-29B-A4B-GGUF,models,,,
 model_vibevoice_vibevoice_1_5b,vibevoice/VibeVoice-1.5B,models,,,
 model_vicgalle_humanish_roleplay_llama_3_1_8b,vicgalle/Humanish-Roleplay-Llama-3.1-8B,models,,,
 model_vikhrmodels_borealis,Vikhrmodels/Borealis,models,,,

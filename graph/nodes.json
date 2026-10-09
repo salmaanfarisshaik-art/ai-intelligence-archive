@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:04:49.746244+00:00",
+  "generated_at": "2026-10-09T17:19:37.947443+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -131325,12 +131325,22 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_mm_eval_vlmevalkit",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_mmmu_mmmu",
       "label": ""
     },
     {
       "category": "datasets",
       "id": "dataset_mohamedrashad_arabic_books",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_molssiai_hub_pubchemqc_pm6",
       "label": ""
     },
     {
@@ -135512,6 +135522,11 @@
       "category": "tool",
       "id": "gh_1162099055",
       "label": "taste-skill"
+    },
+    {
+      "category": "tool",
+      "id": "gh_1177402105",
+      "label": "hyperframes"
     },
     {
       "category": "tool",
@@ -146935,6 +146950,11 @@
     },
     {
       "category": "models",
+      "id": "model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf",
+      "label": "0bserverx/Qwen3.8-27B-Heretic-GSQ-RCO-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_0xsero_deepseek_v4_flash_0731_spark",
       "label": "0xSero/deepseek-v4-flash-0731-spark"
     },
@@ -147022,6 +147042,11 @@
       "category": "models",
       "id": "model_agnuxo_cajal_4b",
       "label": "Agnuxo/CAJAL-4B"
+    },
+    {
+      "category": "models",
+      "id": "model_ai21labs_ai21_jamba_reasoning_3b",
+      "label": "ai21labs/AI21-Jamba-Reasoning-3B"
     },
     {
       "category": "models",
@@ -147477,6 +147502,11 @@
       "category": "models",
       "id": "model_bartowski_altworld_hemmingway_1_gguf",
       "label": "bartowski/Altworld_Hemmingway-1-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
+      "label": "bartowski/c4ai-command-r7b-12-2024-GGUF"
     },
     {
       "category": "models",
@@ -149850,6 +149880,11 @@
     },
     {
       "category": "models",
+      "id": "model_jackrong_mlx_qwopus3_5_9b_v3_4bit",
+      "label": "Jackrong/MLX-Qwopus3.5-9B-v3-4bit"
+    },
+    {
+      "category": "models",
       "id": "model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf",
       "label": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GGUF"
     },
@@ -151012,6 +151047,11 @@
       "category": "models",
       "id": "model_maziyarpanahi_solar_pro_preview_instruct_gguf",
       "label": "MaziyarPanahi/solar-pro-preview-instruct-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_maziyarpanahi_sqlcoder_7b_2_gguf",
+      "label": "MaziyarPanahi/sqlcoder-7b-2-GGUF"
     },
     {
       "category": "models",
@@ -152762,6 +152802,11 @@
       "category": "models",
       "id": "model_prism_ml_ternary_bonsai_8b_gguf",
       "label": "prism-ml/Ternary-Bonsai-8B-gguf"
+    },
+    {
+      "category": "models",
+      "id": "model_prithivmlmods_qwen_image_2_1_pe_t2i_gguf",
+      "label": "prithivMLmods/Qwen-Image-2.1-PE-T2I-GGUF"
     },
     {
       "category": "models",
@@ -155527,6 +155572,11 @@
       "category": "models",
       "id": "model_vectionlabs_vl_1_coder",
       "label": "vectionlabs/VL-1-Coder"
+    },
+    {
+      "category": "models",
+      "id": "model_venastine_research_xing4_0_29b_a4b_gguf",
+      "label": "Venastine-Research/Xing4.0-29B-A4B-GGUF"
     },
     {
       "category": "models",
@@ -453490,5 +453540,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 90697
+  "total_nodes": 90707
 }

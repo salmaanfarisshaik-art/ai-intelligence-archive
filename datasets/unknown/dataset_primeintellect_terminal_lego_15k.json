@@ -9,7 +9,7 @@
   "private": false,
   "sha": "9a87ff66321fa9f986453711e2106c7e891eb398",
   "description": "\n[!NOTE]\nThis private PrimeIntellect mirror is filtered from\nSWE-Lego/Terminal-Lego-15k.\nIt reflects ad6e280 from prime-data PR #34: 1,224\ntasks are excluded and 13,825 task directories remain.\nEach retained task's task.toml sets [environment].docker_image to its\nprebuilt Prime platform image in the canonical org-less form\nterminal-lego/<task-id>:latest (2026-07 registry homogenization; the images\nwere previously team-scoped as team-…/terminal-lego:<task-id>-<build-hash>).\nThe root… See the full description on the dataset page: https://huggingface.co/datasets/PrimeIntellect/Terminal-Lego-15k.",
-  "downloads": 62239,
+  "downloads": 62256,
   "tags": [
     "task_categories:question-answering",
     "language:en",

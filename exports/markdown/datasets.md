@@ -5725,11 +5725,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mm_eval_vlmevalkit
+- **Source**: 
+
+## 
 - **ID**: dataset_mmmu_mmmu
 - **Source**: 
 
 ## 
 - **ID**: dataset_mohamedrashad_arabic_books
+- **Source**: 
+
+## 
+- **ID**: dataset_molssiai_hub_pubchemqc_pm6
 - **Source**: 
 
 ## 

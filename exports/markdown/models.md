@@ -12,6 +12,10 @@
 - **ID**: model_0bserverx_qwen3_8_27b_heretic_abliterated_uncensored_gguf
 - **Source**: 
 
+## 0bserverx/Qwen3.8-27B-Heretic-GSQ-RCO-GGUF
+- **ID**: model_0bserverx_qwen3_8_27b_heretic_gsq_rco_gguf
+- **Source**: 
+
 ## 0xSero/deepseek-v4-flash-0731-spark
 - **ID**: model_0xsero_deepseek_v4_flash_0731_spark
 - **Source**: 
@@ -82,6 +86,10 @@
 
 ## Agnuxo/CAJAL-4B
 - **ID**: model_agnuxo_cajal_4b
+- **Source**: 
+
+## ai21labs/AI21-Jamba-Reasoning-3B
+- **ID**: model_ai21labs_ai21_jamba_reasoning_3b
 - **Source**: 
 
 ## ai4bharat/indic-parler-tts
@@ -446,6 +454,10 @@
 
 ## bartowski/Altworld_Hemmingway-1-GGUF
 - **ID**: model_bartowski_altworld_hemmingway_1_gguf
+- **Source**: 
+
+## bartowski/c4ai-command-r7b-12-2024-GGUF
+- **ID**: model_bartowski_c4ai_command_r7b_12_2024_gguf
 - **Source**: 
 
 ## bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF
@@ -2344,6 +2356,10 @@
 - **ID**: model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf
 - **Source**: 
 
+## Jackrong/MLX-Qwopus3.5-9B-v3-4bit
+- **ID**: model_jackrong_mlx_qwopus3_5_9b_v3_4bit
+- **Source**: 
+
 ## Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-GGUF
 - **ID**: model_jackrong_qwen3_5_4b_claude_4_6_opus_reasoning_distilled_gguf
 - **Source**: 
@@ -3274,6 +3290,10 @@
 
 ## MaziyarPanahi/solar-pro-preview-instruct-GGUF
 - **ID**: model_maziyarpanahi_solar_pro_preview_instruct_gguf
+- **Source**: 
+
+## MaziyarPanahi/sqlcoder-7b-2-GGUF
+- **ID**: model_maziyarpanahi_sqlcoder_7b_2_gguf
 - **Source**: 
 
 ## MaziyarPanahi/Trinity-Mini-GGUF
@@ -4674,6 +4694,10 @@
 
 ## prism-ml/Ternary-Bonsai-8B-gguf
 - **ID**: model_prism_ml_ternary_bonsai_8b_gguf
+- **Source**: 
+
+## prithivMLmods/Qwen-Image-2.1-PE-T2I-GGUF
+- **ID**: model_prithivmlmods_qwen_image_2_1_pe_t2i_gguf
 - **Source**: 
 
 ## prithivMLmods/VibeThinker-3B-GGUF
@@ -6886,6 +6910,10 @@
 
 ## vectionlabs/VL-1-Coder
 - **ID**: model_vectionlabs_vl_1_coder
+- **Source**: 
+
+## Venastine-Research/Xing4.0-29B-A4B-GGUF
+- **ID**: model_venastine_research_xing4_0_29b_a4b_gguf
 - **Source**: 
 
 ## vibevoice/VibeVoice-1.5B
