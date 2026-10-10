@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:05:59Z",
+  "generated_at": "2026-10-10T09:26:28Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1271,6 +1271,7 @@
       "model_prism_ml_ternary_bonsai_2_27b_mlx_2bit",
       "model_sakamakismile_qwen3_8_27b_mtp_nvfp4",
       "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+      "model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf",
       "model_vishva007_qwen3_8_27b_w4a16_autoround_gptq",
       "model_youssofal_qwen3_8_27b_mtplx_optimized_speed",
       "model_z_lab_qwen3_8_27b_dflash2",
@@ -2139,6 +2140,9 @@
     ],
     "hf_google_gemma-4-31B-it-assistant": [
       "model_google_gemma_4_31b_it_qat_q4_0_unquantized_assistant"
+    ],
+    "hf_google_gemma-4-31B-it-qat-q4_0-unquantized": [
+      "model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell"
     ],
     "hf_google_gemma-4-E4B-it": [
       "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -5589,6 +5593,9 @@
     "model_mconcat_qwopus3_6_27b_v2_awq_4bit": [
       "hf_Jackrong_Qwopus3.6-27B-v2"
     ],
+    "model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell": [
+      "hf_google_gemma-4-31B-it-qat-q4_0-unquantized"
+    ],
     "model_menlo_jan_nano_128k": [
       "hf_Menlo_Jan-nano"
     ],
@@ -7085,6 +7092,9 @@
     ],
     "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
+    "model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf": [
+      "hf_Qwen_Qwen3.8-27B"
     ],
     "model_superwhisper_s1_mini_gguf": [
       "hf_superwhisper_s1-mini"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:05:59Z",
+  "generated_at": "2026-10-10T09:26:28Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -4462,6 +4462,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell",
+      "target_id": "hf_google_gemma-4-31B-it-qat-q4_0-unquantized",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_menlo_jan_nano_128k",
       "target_id": "hf_Menlo_Jan-nano",
       "type": "derived_from"
@@ -7904,6 +7909,11 @@
     {
       "source_id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
       "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
     },
     {
