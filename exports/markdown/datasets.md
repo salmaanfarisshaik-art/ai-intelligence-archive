@@ -149,6 +149,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ai4ce_nyc_cd
+- **Source**: 
+
+## 
 - **ID**: dataset_ai4math_mathvista
 - **Source**: 
 
@@ -218,6 +222,10 @@
 
 ## 
 - **ID**: dataset_aisha_ai_official_sdxl_models
+- **Source**: 
+
+## 
+- **ID**: dataset_aishell_aishell_3
 - **Source**: 
 
 ## 
@@ -1569,6 +1577,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_deepghs_game_character_skins
+- **Source**: 
+
+## 
 - **ID**: dataset_deepguess_wrf_250m_severe_weather
 - **Source**: 
 
@@ -1694,6 +1706,10 @@
 
 ## 
 - **ID**: dataset_dl3dv_dl3dv_benchmark
+- **Source**: 
+
+## 
+- **ID**: dataset_dmanningcoe_topic_model_pbm_sprint_20261008
 - **Source**: 
 
 ## 
@@ -2021,6 +2037,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fhrozen_fsd50k
+- **Source**: 
+
+## 
 - **ID**: dataset_fineenvs_hf_ml_tasksmith
 - **Source**: 
 
@@ -2194,6 +2214,10 @@
 
 ## 
 - **ID**: dataset_funtion_crowdhuman
+- **Source**: 
+
+## 
+- **ID**: dataset_futurehouse_bixbench
 - **Source**: 
 
 ## 
@@ -2402,6 +2426,10 @@
 
 ## 
 - **ID**: dataset_gsma_itu
+- **Source**: 
+
+## 
+- **ID**: dataset_guanys_latent_reward_register
 - **Source**: 
 
 ## 
@@ -4485,6 +4513,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jaewooshin_qwen3_14b_mmlupro_lcb_bbh
+- **Source**: 
+
+## 
 - **ID**: dataset_jailbreakbench_jbb_behaviors
 - **Source**: 
 
@@ -4897,6 +4929,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_laion_calibforge_daytona_layers
+- **Source**: 
+
+## 
 - **ID**: dataset_laion_hamburg_curricula_2024
 - **Source**: 
 
@@ -4906,6 +4942,10 @@
 
 ## 
 - **ID**: dataset_lamsheeper_data_attribution_route_attribution_baselines
+- **Source**: 
+
+## 
+- **ID**: dataset_lamsheeper_data_attribution_vtok101_attribution_baselines
 - **Source**: 
 
 ## 
@@ -5110,6 +5150,10 @@
 
 ## 
 - **ID**: dataset_llamafactory_tiny_supervised_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_llamaindex_parsebench
 - **Source**: 
 
 ## 
@@ -5490,6 +5534,10 @@
 
 ## 
 - **ID**: dataset_matharena_aime_2026
+- **Source**: 
+
+## 
+- **ID**: dataset_matharena_hmmt_feb_2025
 - **Source**: 
 
 ## 
@@ -5885,6 +5933,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mzx_dilutionrisk_data
+- **Source**: 
+
+## 
 - **ID**: dataset_mzxuan_robopro_expert
 - **Source**: 
 
@@ -6118,6 +6170,14 @@
 
 ## 
 - **ID**: dataset_nmasi_era5
+- **Source**: 
+
+## 
+- **ID**: dataset_nmontanabrown_saramis_abdomen
+- **Source**: 
+
+## 
+- **ID**: dataset_nmontanabrown_saramis_amos
 - **Source**: 
 
 ## 
@@ -6546,6 +6606,10 @@
 
 ## 
 - **ID**: dataset_openenvisionlab_worldatlas
+- **Source**: 
+
+## 
+- **ID**: dataset_openfoodfacts_product_database
 - **Source**: 
 
 ## 
@@ -7169,6 +7233,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_richardchenzh_medforge_90k
+- **Source**: 
+
+## 
 - **ID**: dataset_richarderkhov_dasp
 - **Source**: 
 
@@ -7473,6 +7541,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_semianalysisai_cc_traces_weka_062126_256k
+- **Source**: 
+
+## 
 - **ID**: dataset_sensenova_sensenova_vision_corpus_50m
 - **Source**: 
 
@@ -7685,6 +7757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sophia1ch_zendo_synthetic_data
+- **Source**: 
+
+## 
 - **ID**: dataset_sparkaudio_voxbox
 - **Source**: 
 
@@ -7754,6 +7830,10 @@
 
 ## 
 - **ID**: dataset_stringfellow_fusion_dw
+- **Source**: 
+
+## 
+- **ID**: dataset_su_fmi_msi_drone_crop_surveys
 - **Source**: 
 
 ## 

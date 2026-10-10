@@ -1000,6 +1000,10 @@
 - **ID**: model_contextualai_ctxl_rerank_v2_instruct_multilingual_1b
 - **Source**: 
 
+## ConwayResearch/Underdog-Saluki-27B-1.0
+- **ID**: model_conwayresearch_underdog_saluki_27b_1_0
+- **Source**: 
+
 ## CrashOverrideX/Quillan-Ronin
 - **ID**: model_crashoverridex_quillan_ronin
 - **Source**: 
