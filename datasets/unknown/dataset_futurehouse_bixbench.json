@@ -1,0 +1,28 @@
+{
+  "_id": "67c0a3acfe55e4ad0785e5e4",
+  "id": "futurehouse/BixBench",
+  "author": "futurehouse",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-01T02:07:44.000Z",
+  "likes": 41,
+  "private": false,
+  "sha": "f8cc3bdcc6357c88b8c3648306522b9c422dc95a",
+  "description": "\n\t\n\t\t\n\t\tBixBench Dataset\n\t\n\nContains the dataset file BixBench.jsonl and each corresponding data capsule as a .zip file. Capsules are named CapsuleFolder-{uuid}.zip\nIMPORTANT UPDATE 2025/09/23: \nIn ongoing work, we found that many questions in the original dataset had insufficient detail to be answerable, especially in the preferred open-answer setting. To address this, we've extensively re-reviewed and revised a substantial portion of the benchmark. We have also updated the format of the… See the full description on the dataset page: https://huggingface.co/datasets/futurehouse/BixBench.",
+  "downloads": 26426,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:json",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2025-02-27T17:41:00.000Z",
+  "key": "",
+  "unique_id": "dataset_futurehouse_bixbench",
+  "schema_version": "1.0"
+}

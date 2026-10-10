@@ -148,6 +148,12 @@
 - **URL**: [https://huggingface.co/datasets/bigcode/the-stack-metadata](https://huggingface.co/datasets/bigcode/the-stack-metadata)
 - **Tags**: arxiv:2211.15533, format:parquet, language:code, language_creators:crowdsourced, language_creators:expert-generated, library:dask, library:datasets, library:mlcroissant, library:polars, license:other, modality:tabular, modality:text, multilinguality:multilingual, region:us, size_categories:10B<n<100B, task_categories:text-generation
 
+## atokforps/latent_worker_early4_5
+- **ID**: hf_ds_63c7961f02d8c962334e3c3f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/atokforps/latent_worker_early4_5](https://huggingface.co/datasets/atokforps/latent_worker_early4_5)
+- **Tags**: region:us
+
 ## atokforps/latent_worker_early-a2_00
 - **ID**: hf_ds_63c82e7ea0c5c8cfa84efe73
 - **Source**: HuggingFace Datasets
@@ -1088,13 +1094,13 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
-- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
+- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, modality:image, modality:video, region:us
 
 ## JoeLiu996/NatureBench
 - **ID**: hf_ds_6a4f0a92e633070a2d287ef9

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "be87f5516a709be079cec8b727dd2287bf2dd70f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\t🦜 VideoChat-Flash-Training-Data\n\t\n\nThis repos contains all annotaions and most videos for training VideoChat-Flash.\n\n\t\n\t\t\n\t\n\t\n\t\t📕 How to use the LongVid data?\n\t\n\nFor video_dir like longvid_subset/coin_grounding_10k_zip, you need to concat this dir to a zip file as follows:\ncat ego4dhcap_eventunderstanding_2k_zip/* > ego4dhcap_eventunderstanding_2k.zip\n\n\n\t\n\t\t\n\t\n\t\n\t\t✏️ Citation\n\t\n\n\n@article{li2024videochatflash,\n  title={VideoChat-Flash: Hierarchical Compression for Long-Context… See the full description on the dataset page: https://huggingface.co/datasets/OpenGVLab/VideoChat-Flash-Training-Data.",
-  "downloads": 55635,
+  "downloads": 53056,
   "tags": [
     "task_categories:video-text-to-text",
     "language:en",

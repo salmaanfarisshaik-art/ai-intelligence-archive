@@ -9,7 +9,7 @@
   "private": false,
   "sha": "252f096779a23bd9434303fd40891b01aa539e0f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tt2a-mommy\n\t\n\nFemale-voice ASMR corpus for the text2asmr project.\nPreviously published as aoxo/audios2.\nCompanion repos: aoxo/t2a-daddy (male voice),\naoxo/t2a-audios-v1 (the original v1 corpus).\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\n\t\n\t\t\npath\nwhat\n\n\n\t\t\n<creator>/<title>.m4a\nsource audio, 48 kHz AAC, one folder per creator\n\n\n<creator>/<title>.json\nword-level Whisper large-v3 alignment ([] = skipped: near-silent or undecodable)\n\n\nlabels/qwen3omni.jsonl\nnon-speech ontology labels for gap clips… See the full description on the dataset page: https://huggingface.co/datasets/aoxo/t2a-mommy.",
-  "downloads": 33415,
+  "downloads": 33537,
   "tags": [
     "task_categories:audio-classification",
     "task_categories:automatic-speech-recognition",

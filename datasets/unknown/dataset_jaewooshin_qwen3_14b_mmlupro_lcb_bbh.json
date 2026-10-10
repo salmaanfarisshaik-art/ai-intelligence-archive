@@ -1,0 +1,21 @@
+{
+  "_id": "6abf7478129d0ceaab1569da",
+  "id": "JaeWooShin/qwen3-14b-mmlupro-lcb-bbh",
+  "author": "JaeWooShin",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-02T10:55:45.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "28c7205a06022f79cc739c7bb3a9502d8568da81",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tResults by benchmark and model\n\t\n\nThis is a portable snapshot of the collected target trials, including accepted earlier runs.\nresults_by_benchmark/\n  summary.csv\n  PROMPTS_ALL.md\n  RESULTS_COLUMNS.txt\n  BENCHMARK/\n    questions.json\n    question_index.csv\n    MODEL/\n      results.csv\n      question_counts.csv\n      input_format.md\n      raw/\n        q1_t1.txt\n        q1_t2.txt\n        ...\n\nEvery results.csv has exactly the same 29 columns, in the requested order. Missing… See the full description on the dataset page: https://huggingface.co/datasets/JaeWooShin/qwen3-14b-mmlupro-lcb-bbh.",
+  "downloads": 26096,
+  "tags": [
+    "modality:text",
+    "region:us"
+  ],
+  "createdAt": "2026-10-02T09:08:08.000Z",
+  "key": "",
+  "unique_id": "dataset_jaewooshin_qwen3_14b_mmlupro_lcb_bbh",
+  "schema_version": "1.0"
+}

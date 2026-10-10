@@ -9,7 +9,7 @@
   "private": false,
   "sha": "90ab579145da9f3ea998d706c8defd0d4b87641f",
   "description": "\n\t\n\t\t\n\t\tWildRelight Dataset\n\t\n\nA real-world relighting dataset of 30 outdoor/semi-indoor scenes captured across multiple time steps throughout the day. Each scene provides paired HDR photographs and HDR environment maps, enabling evaluation of outdoor relighting tasks.\n\n\t\n\t\t\n\t\tDownload Command\n\t\n\nDownload small resolution for quick verification.\nhf download lez/wildrelight --repo-type dataset --include \"small-aligned/**\" --local-dir ./wildrelight/small-aligned\n\nDownload full resolution… See the full description on the dataset page: https://huggingface.co/datasets/Lez/wildrelight.",
-  "downloads": 36464,
+  "downloads": 35967,
   "tags": [
     "task_categories:image-to-image",
     "license:cc-by-4.0",

@@ -1,0 +1,24 @@
+{
+  "_id": "6ab615605fc6ac8aa680e7c3",
+  "id": "laion/calibforge-daytona-layers",
+  "author": "laion",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-29T20:48:16.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "e1aee5e03b18b4c945b39ebc166d1b1fb3cdfc01",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCalibForge Daytona layers\n\t\n\nThis dataset mirrors the container image layers of the\nCalibForge task pool by AweAI, released under\nCC-BY-4.0. All credit for the tasks and their environments belongs\nto the CalibForge authors (paper: arXiv 2608.06352). The upstream images are aweaiteam/calibforge on Docker Hub,\nand we modified nothing in the layers.\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is here\n\t\n\n\nblobs/sha256/<first 2 hex>/<64 hex>: the layers of each task image above its shared base, as the registry… See the full description on the dataset page: https://huggingface.co/datasets/laion/calibforge-daytona-layers.",
+  "downloads": 25855,
+  "tags": [
+    "license:cc-by-4.0",
+    "region:us",
+    "agents",
+    "terminal-bench",
+    "environments"
+  ],
+  "createdAt": "2026-09-25T06:32:00.000Z",
+  "key": "",
+  "unique_id": "dataset_laion_calibforge_daytona_layers",
+  "schema_version": "1.0"
+}

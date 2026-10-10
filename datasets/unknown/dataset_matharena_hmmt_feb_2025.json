@@ -1,0 +1,30 @@
+{
+  "_id": "67ff96e13b0f623c97cb56b8",
+  "id": "MathArena/hmmt_feb_2025",
+  "author": "MathArena",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-15T17:07:18.000Z",
+  "likes": 11,
+  "private": false,
+  "sha": "6fdc4277120810ff75aa22d2d5489b91f7a262a1",
+  "description": "\n\t\n\t\t\n\t\tHomepage and repository\n\t\n\n\nHomepage: https://matharena.ai/\nRepository: https://github.com/eth-sri/matharena\n\n\n\t\n\t\t\n\t\tDataset Summary\n\t\n\nThis dataset contains the questions from HMMT February 2025 used for the MathArena Leaderboard\n\n\t\n\t\t\n\t\tData Fields\n\t\n\nThe dataset contains the following fields:\n\nproblem_idx (int64): Problem index within the corresponding MathArena benchmark.\nproblem (string): Problem statement, usually stored as LaTeX source.\nanswer (string): Gold final answer.… See the full description on the dataset page: https://huggingface.co/datasets/MathArena/hmmt_feb_2025.",
+  "downloads": 26567,
+  "tags": [
+    "language:en",
+    "license:cc-by-nc-sa-4.0",
+    "size_categories:n<1K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2605.00674",
+    "region:us"
+  ],
+  "createdAt": "2025-04-16T11:39:13.000Z",
+  "key": "",
+  "unique_id": "dataset_matharena_hmmt_feb_2025",
+  "schema_version": "1.0"
+}

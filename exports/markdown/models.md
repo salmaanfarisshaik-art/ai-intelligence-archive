@@ -2448,6 +2448,10 @@
 - **ID**: model_k_chirkunov_gemma4_e4b_claims_comparison
 - **Source**: 
 
+## K-intelligence/Midm-2.0-Base-Instruct
+- **ID**: model_k_intelligence_midm_2_0_base_instruct
+- **Source**: 
+
 ## K-intelligence/Midm-2.0-Mini-Instruct
 - **ID**: model_k_intelligence_midm_2_0_mini_instruct
 - **Source**: 
@@ -3326,6 +3330,10 @@
 
 ## meituan-longcat/LongCat-Flash-Chat
 - **ID**: model_meituan_longcat_longcat_flash_chat
+- **Source**: 
+
+## melcheikh/gemma-4-31B-it-qat-NVFP4-Blackwell
+- **ID**: model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell
 - **Source**: 
 
 ## Menlo/Jan-nano-128k
@@ -5922,6 +5930,10 @@
 
 ## stepfun-ai/Step-3.7-Flash-NVFP4
 - **ID**: model_stepfun_ai_step_3_7_flash_nvfp4
+- **Source**: 
+
+## sudoingx/Ternary-Bonsai-2-27B-PTQ1_0-MTP-GGUF
+- **ID**: model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf
 - **Source**: 
 
 ## superwhisper/s1-mini-GGUF

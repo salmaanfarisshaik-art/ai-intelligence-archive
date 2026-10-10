@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f2794120cb19ecd0951cd47e5a1fd23afc239b9c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHOIGen Filtered Videos Dataset\n\t\n\nThis dataset contains 28562 filtered videos from the HOIGen-1M dataset based on the allowlist.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nThe videos are organized in the same structure as the original HOIGen dataset:\nfiltered_videos/\n├── videos_part_1/\n├── videos_part_2/\n├── ...\n└── videos_part_100/\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom huggingface_hub import hf_hub_download\n\n# Download a specific video\nvideo_path = hf_hub_download(… See the full description on the dataset page: https://huggingface.co/datasets/Charly-chan/hoigen-filtered-videos.",
-  "downloads": 33228,
+  "downloads": 35791,
   "tags": [
     "task_categories:other",
     "language:en",

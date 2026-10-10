@@ -27709,6 +27709,7 @@ hf_ds_62e81d0e55744b69f18e254c,bigscience/evaluation-results,dataset,HuggingFace
 hf_ds_636a1b69f2f9ec4289c4c19e,hf-doc-build/doc-build-dev,dataset,HuggingFace Datasets,documentation|license:mit|region:us,https://huggingface.co/datasets/hf-doc-build/doc-build-dev
 hf_ds_6374015cc3b104ef17a000f2,WINGNUS/ACL-OCL,dataset,HuggingFace Datasets,acl|language:en|language_creators:found|license:mit|multilinguality:monolingual|region:us|research papers|size_categories:10K<n<100K|source_datasets:original|task_categories:token-classification,https://huggingface.co/datasets/WINGNUS/ACL-OCL
 hf_ds_63a02c28f3334a6553d23fe0,bigcode/the-stack-metadata,dataset,HuggingFace Datasets,arxiv:2211.15533|format:parquet|language:code|language_creators:crowdsourced|language_creators:expert-generated|library:dask|library:datasets|library:mlcroissant|library:polars|license:other|modality:tabular|modality:text|multilinguality:multilingual|region:us|size_categories:10B<n<100B|task_categories:text-generation,https://huggingface.co/datasets/bigcode/the-stack-metadata
+hf_ds_63c7961f02d8c962334e3c3f,atokforps/latent_worker_early4_5,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/atokforps/latent_worker_early4_5
 hf_ds_63c82e7ea0c5c8cfa84efe73,atokforps/latent_worker_early-a2_00,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/atokforps/latent_worker_early-a2_00
 hf_ds_63c82e83a0c5c8cfa84eff03,atokforps/latent_worker_early-a2_06,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/atokforps/latent_worker_early-a2_06
 hf_ds_63da18ebaa68107243401b0d,lukaemon/bbh,dataset,HuggingFace Datasets,arxiv:2210.09261|format:parquet|library:datasets|library:mlcroissant|library:pandas|library:polars|modality:text|region:us|size_categories:1K<n<10K,https://huggingface.co/datasets/lukaemon/bbh
@@ -27865,8 +27866,8 @@ hf_ds_6a2ec08ae425e2822f53fef3,wei82/precancer-omics-data,dataset,HuggingFace Da
 hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:2606.27375|bimanual|imitation-learning|language:en|license:apache-2.0|manipulation|mcap|region:us|robotics|size_categories:n>1T|task_categories:robotics|teleoperation,https://huggingface.co/datasets/XDOF/ABC-130k
 hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer
 hf_ds_6a382f6fa519cd301493b37b,Syn4D/Syn4D,dataset,HuggingFace Datasets,arxiv:2605.05207|license:cc-by-4.0|region:us,https://huggingface.co/datasets/Syn4D/Syn4D
-hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/StringFellow/fusion-dw
-hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
+hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:apache-2.0|modality:text|region:us|size_categories:1M<n<10M,https://huggingface.co/datasets/StringFellow/fusion-dw
+hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|modality:image|modality:video|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
 hf_ds_6a517a8032bfea14be5a68aa,fujinchu/imgbed,dataset,HuggingFace Datasets,format:imagefolder|library:datasets|library:mlcroissant|modality:image|region:us|size_categories:n<1K,https://huggingface.co/datasets/fujinchu/imgbed
 hf_ds_6a5466cdd7c4631ab9b28b80,genrobot2025/Gen-HumanEgo,dataset,HuggingFace Datasets,egocentric|embodied-ai|hand-tracking|language:en|license:cc-by-sa-4.0|manipulation|region:us|robotics|size_categories:n>1T|slam|task_categories:robotics|trajectory|vla,https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo
@@ -30009,6 +30010,7 @@ model_jonathancoletti_qwen3_8_27b_uncensored_gguf,JonathanColetti/Qwen3.8-27B-Un
 model_julianmb_qwen_3_8_27b_rocmfp4_fast_gguf,julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF,models,,,
 model_junhowie_qwen3_14b_gptq_int4,JunHowie/Qwen3-14B-GPTQ-Int4,models,,,
 model_k_chirkunov_gemma4_e4b_claims_comparison,k-chirkunov/gemma4-e4b-claims-comparison,models,,,
+model_k_intelligence_midm_2_0_base_instruct,K-intelligence/Midm-2.0-Base-Instruct,models,,,
 model_k_intelligence_midm_2_0_mini_instruct,K-intelligence/Midm-2.0-Mini-Instruct,models,,,
 model_kaitchup_phi_3_mini_4k_instruct_gptq_4bit,kaitchup/Phi-3-mini-4k-instruct-gptq-4bit,models,,,
 model_kakaocorp_kanana_nano_2_1b_embedding,kakaocorp/kanana-nano-2.1b-embedding,models,,,
@@ -30229,6 +30231,7 @@ model_maziyarpanahi_yi_coder_9b_chat_gguf,MaziyarPanahi/Yi-Coder-9B-Chat-GGUF,mo
 model_mconcat_qwen3_5_27b_claude_4_6_opus_reasoning_distilled_fp8_dynamic,mconcat/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-FP8-Dynamic,models,,,
 model_mconcat_qwopus3_6_27b_v2_awq_4bit,mconcat/Qwopus3.6-27B-v2-AWQ-4bit,models,,,
 model_meituan_longcat_longcat_flash_chat,meituan-longcat/LongCat-Flash-Chat,models,,,
+model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell,melcheikh/gemma-4-31B-it-qat-NVFP4-Blackwell,models,,,
 model_menlo_jan_nano_128k,Menlo/Jan-nano-128k,models,,,
 model_meshllm_gemma_4_e4b_it_q4_k_m_layers,meshllm/gemma-4-E4B-it-Q4_K_M-layers,models,,,
 model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers,meshllm/Qwen3.5-397B-A17B-UD-Q4_K_XL-layers,models,,,
@@ -30878,6 +30881,7 @@ model_stepfun_ai_step_3_5_flash,stepfun-ai/Step-3.5-Flash,models,,,
 model_stepfun_ai_step_3_7_flash,stepfun-ai/Step-3.7-Flash,models,,,
 model_stepfun_ai_step_3_7_flash_fp8,stepfun-ai/Step-3.7-Flash-FP8,models,,,
 model_stepfun_ai_step_3_7_flash_nvfp4,stepfun-ai/Step-3.7-Flash-NVFP4,models,,,
+model_sudoingx_ternary_bonsai_2_27b_ptq1_0_mtp_gguf,sudoingx/Ternary-Bonsai-2-27B-PTQ1_0-MTP-GGUF,models,,,
 model_superwhisper_s1_mini_gguf,superwhisper/s1-mini-GGUF,models,,,
 model_supralabs_supra2_100m_instruct,SupraLabs/Supra2-100M-Instruct,models,,,
 model_supralabs_supra_50m_reasoning,SupraLabs/Supra-50M-Reasoning,models,,,

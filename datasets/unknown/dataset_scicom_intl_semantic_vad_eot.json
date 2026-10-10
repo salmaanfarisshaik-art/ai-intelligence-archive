@@ -9,7 +9,7 @@
   "private": false,
   "sha": "98d1445eab71e4084ccb838dbd87a205f6f2e293",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSemantic-VAD EOT\n\t\n\nEnd-of-turn (semantic VAD) turns, schema-compatible with\nlivekit/eot-bench-data.\nEach row is one user turn: an audio clip (16 kHz mp3), its words, and ordered silence_spans. Per the\neot-bench convention the last silence span is the true end-of-turn (eot); earlier spans are mid-turn hold\npauses (labels positional, not stored). Timestamps are on the decoded-audio axis, and the decoded length equals\nduration.\nfrom datasets import load_dataset, Audio\nds =… See the full description on the dataset page: https://huggingface.co/datasets/Scicom-intl/semantic-vad-eot.",
-  "downloads": 26677,
+  "downloads": 27975,
   "tags": [
     "task_categories:voice-activity-detection",
     "language:de",
