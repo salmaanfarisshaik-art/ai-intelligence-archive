@@ -1100,7 +1100,7 @@
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
-- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, modality:image, modality:video, region:us
+- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
 
 ## JoeLiu996/NatureBench
 - **ID**: hf_ds_6a4f0a92e633070a2d287ef9
