@@ -5600,6 +5600,39 @@
     "local_path": "datasets/xdof/hf_ds_6a307dae8e258cbed418ec58.json"
   },
   {
+    "id": "hf_ds_6a34c6065edc6bacb0b36213",
+    "title": "espnet/yodas3",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
+      "license:cc-by-3.0",
+      "modality:audio",
+      "modality:tabular",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:audio-to-audio",
+      "task_categories:automatic-speech-recognition",
+      "task_categories:text-to-speech",
+      "task_categories:translation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/espnet"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/espnet/yodas3",
+    "local_path": "datasets/espnet/hf_ds_6a34c6065edc6bacb0b36213.json"
+  },
+  {
     "id": "hf_ds_6a3519d6ceabed997ec9ea1e",
     "title": "k9cli/video-vec2wav2-tokenizer",
     "category": "dataset",
@@ -5679,6 +5712,8 @@
       "license:other",
       "manipulation",
       "mano",
+      "modality:image",
+      "modality:video",
       "region:us"
     ],
     "links": {

@@ -3898,6 +3898,7 @@
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4](https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4)
+- **Tags**: 8-bit, arxiv:2512.20848, arxiv:2512.20856, arxiv:2601.20088, base_model:nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16, base_model:quantized:nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16, conversational, custom_code, dataset:nvidia/Nemotron-3-Nano-RL-Training-Blend, dataset:nvidia/Nemotron-Agentic-v1, dataset:nvidia/Nemotron-CC-Code-v1, dataset:nvidia/Nemotron-CC-Math-v1, dataset:nvidia/Nemotron-CC-v2, dataset:nvidia/Nemotron-CC-v2.1, dataset:nvidia/Nemotron-Competitive-Programming-v1, dataset:nvidia/Nemotron-Instruction-Following-Chat-v1, dataset:nvidia/Nemotron-Math-Proofs-v1, dataset:nvidia/Nemotron-Math-v2, dataset:nvidia/Nemotron-Pretraining-Code-v1, dataset:nvidia/Nemotron-Pretraining-Code-v2, dataset:nvidia/Nemotron-Pretraining-Dataset-sample, dataset:nvidia/Nemotron-Pretraining-SFT-v1, dataset:nvidia/Nemotron-Pretraining-Specialized-v1, dataset:nvidia/Nemotron-Science-v1, de, en, endpoints_compatible, es, fr, it, ja, license:other, nemotron_h, nvidia, pytorch, region:us, safetensors, text-generation, transformers
 
 ## nvidia/NVIDIA-Nemotron-3-Nano-4B-BF16
 - **ID**: hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16

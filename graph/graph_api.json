@@ -19807,6 +19807,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6a34c6065edc6bacb0b36213",
+      "target": "datasets/espnet"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6a3519d6ceabed997ec9ea1e",
       "target": "datasets/k9cli"
     },
@@ -20111,7 +20116,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-11T04:06:06.162218+00:00",
+  "generated_at": "2026-10-11T11:12:41.604526+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -159539,6 +159544,11 @@
       "category": "dataset",
       "id": "hf_ds_6a307dae8e258cbed418ec58",
       "label": "XDOF/ABC-130k"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a34c6065edc6bacb0b36213",
+      "label": "espnet/yodas3"
     },
     {
       "category": "dataset",
@@ -473977,6 +473987,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4022,
-  "total_nodes": 90772
+  "total_edges": 4023,
+  "total_nodes": 90773
 }

@@ -1078,6 +1078,12 @@
 - **URL**: [https://huggingface.co/datasets/XDOF/ABC-130k](https://huggingface.co/datasets/XDOF/ABC-130k)
 - **Tags**: arxiv:2606.27375, bimanual, imitation-learning, language:en, license:apache-2.0, manipulation, mcap, region:us, robotics, size_categories:n>1T, task_categories:robotics, teleoperation
 
+## espnet/yodas3
+- **ID**: hf_ds_6a34c6065edc6bacb0b36213
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/espnet/yodas3](https://huggingface.co/datasets/espnet/yodas3)
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc-by-3.0, modality:audio, modality:tabular, modality:text, region:us, size_categories:1M<n<10M, task_categories:audio-to-audio, task_categories:automatic-speech-recognition, task_categories:text-to-speech, task_categories:translation
+
 ## k9cli/video-vec2wav2-tokenizer
 - **ID**: hf_ds_6a3519d6ceabed997ec9ea1e
 - **Source**: HuggingFace Datasets
@@ -1100,7 +1106,7 @@
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
-- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
+- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, modality:image, modality:video, region:us
 
 ## JoeLiu996/NatureBench
 - **ID**: hf_ds_6a4f0a92e633070a2d287ef9

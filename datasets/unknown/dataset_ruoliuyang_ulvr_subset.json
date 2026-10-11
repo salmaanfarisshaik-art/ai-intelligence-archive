@@ -1,0 +1,30 @@
+{
+  "_id": "6a1fdf316c2b4b05dd7351c3",
+  "id": "RuoliuYang/ulvr_subset",
+  "author": "RuoliuYang",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-02T05:16:35.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d5b0023a52f79e570debd23cccd6d0cf82800474",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tULVR stage-0 subsets (latent + source)\n\t\n\nCurated, nested subsets of the Unified Visual Latent Reasoning (ULVR) stage-0\ntraining data. Each subset folder is self-contained and ships both:\n\nlatent/ — pre-computed teacher latents, identical schema to\nRuoliuYang/step0-all\nsource/ — the matching source samples (images + question/answer +\nmessages), identical schema to\nRuoliuYang/ULVR_v2_clean\n\nLatents and source rows are joinable by sample_id (within a category).\n\n\t\n\t\t\n\t\n\t\n\t\tFolder… See the full description on the dataset page: https://huggingface.co/datasets/RuoliuYang/ulvr_subset.",
+  "downloads": 26387,
+  "tags": [
+    "task_categories:visual-question-answering",
+    "task_categories:image-to-text",
+    "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "modality:text",
+    "region:us",
+    "multimodal",
+    "visual-reasoning",
+    "latent-reasoning",
+    "teacher-latents",
+    "ULVR"
+  ],
+  "createdAt": "2026-06-03T08:00:49.000Z",
+  "key": "",
+  "unique_id": "dataset_ruoliuyang_ulvr_subset",
+  "schema_version": "1.0"
+}
