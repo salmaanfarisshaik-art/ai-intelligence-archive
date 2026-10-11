@@ -564,6 +564,10 @@
 - **ID**: model_bartowski_meta_llama_3_1_8b_instruct_gguf
 - **Source**: 
 
+## bartowski/Meta-Llama-3-8B-Instruct-GGUF
+- **ID**: model_bartowski_meta_llama_3_8b_instruct_gguf
+- **Source**: 
+
 ## bartowski/meta-llama_Llama-4-Scout-17B-16E-Instruct-old-GGUF
 - **ID**: model_bartowski_meta_llama_llama_4_scout_17b_16e_instruct_old_gguf
 - **Source**: 
@@ -2408,6 +2412,10 @@
 - **ID**: model_jhu_clsp_rank1_7b
 - **Source**: 
 
+## jialinyyzz/humanizer
+- **ID**: model_jialinyyzz_humanizer
+- **Source**: 
+
 ## jica98/qwen3.5-4B-super-coder
 - **ID**: model_jica98_qwen3_5_4b_super_coder
 - **Source**: 
@@ -3944,6 +3952,10 @@
 - **ID**: model_nvidia_glm_5_2_nvfp4
 - **Source**: 
 
+## nvidia/GLM-5.3-NVFP4
+- **ID**: model_nvidia_glm_5_3_nvfp4
+- **Source**: 
+
 ## nvidia/GLM-5-NVFP4
 - **ID**: model_nvidia_glm_5_nvfp4
 - **Source**: 
@@ -4348,6 +4360,10 @@
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
 
+## openchat/openchat-3.5-1210
+- **ID**: model_openchat_openchat_3_5_1210
+- **Source**: 
+
 ## OpenLLM-France/Lucie-7B-Instruct-v1.1
 - **ID**: model_openllm_france_lucie_7b_instruct_v1_1
 - **Source**: 
@@ -4562,6 +4578,10 @@
 
 ## pearl-ai/Llama-3.1-8B-Instruct-pearl
 - **ID**: model_pearl_ai_llama_3_1_8b_instruct_pearl
+- **Source**: 
+
+## peasantsmith/GLM-5.3-Flash-Maya-GGUF
+- **ID**: model_peasantsmith_glm_5_3_flash_maya_gguf
 - **Source**: 
 
 ## peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF

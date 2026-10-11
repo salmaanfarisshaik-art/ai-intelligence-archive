@@ -101,6 +101,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_adollahamini1998_voxblink2_metadata
+- **Source**: 
+
+## 
 - **ID**: dataset_adyen_dabstep
 - **Source**: 
 
@@ -246,6 +250,10 @@
 
 ## 
 - **ID**: dataset_albertflores3900_albertflores3900
+- **Source**: 
+
+## 
+- **ID**: dataset_albertklorer_safedocs_cc_2m_paddle_vl_1_6_ocr
 - **Source**: 
 
 ## 
@@ -918,6 +926,10 @@
 
 ## 
 - **ID**: dataset_bastao_veracruz_pt_br
+- **Source**: 
+
+## 
+- **ID**: dataset_bebhuvan1_sansad_corpus
 - **Source**: 
 
 ## 
@@ -1729,6 +1741,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dreammr_hr_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_dronefreak_rdd2022
 - **Source**: 
 
@@ -2257,6 +2273,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_genesis_intelligence_snapshots
+- **Source**: 
+
+## 
 - **ID**: dataset_genrobot2025_10kh_realomin_opendata
 - **Source**: 
 
@@ -2490,6 +2510,10 @@
 
 ## 
 - **ID**: dataset_happyhackingspace_dit
+- **Source**: 
+
+## 
+- **ID**: dataset_harborframework_harbor_datasets
 - **Source**: 
 
 ## 
@@ -2954,6 +2978,10 @@
 
 ## 
 - **ID**: dataset_hula0401_cad_corpus_cleaned
+- **Source**: 
+
+## 
+- **ID**: dataset_huong2000_huong2000
 - **Source**: 
 
 ## 
@@ -5009,7 +5037,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lerobot_community_dataset_v3
+- **Source**: 
+
+## 
 - **ID**: dataset_lerobot_droid_1_0_1
+- **Source**: 
+
+## 
+- **ID**: dataset_lerobot_pusht
 - **Source**: 
 
 ## 
@@ -5433,6 +5469,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_major_tom_core_s2l2a
+- **Source**: 
+
+## 
 - **ID**: dataset_makkapakka2001_data_mt
 - **Source**: 
 
@@ -5821,6 +5861,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_moravskyi_public_drones
+- **Source**: 
+
+## 
 - **ID**: dataset_morteza20_mteb_leaderboard
 - **Source**: 
 
@@ -5874,6 +5918,10 @@
 
 ## 
 - **ID**: dataset_mueller91_replaydf
+- **Source**: 
+
+## 
+- **ID**: dataset_muennighoff_xwinograd
 - **Source**: 
 
 ## 
@@ -6258,6 +6306,10 @@
 
 ## 
 - **ID**: dataset_nvidia_opencodeinstruct
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_openh_rf
 - **Source**: 
 
 ## 
@@ -7369,6 +7421,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ruoliuyang_ulvr_subset
+- **Source**: 
+
+## 
 - **ID**: dataset_ruturajchallawar_mavos_dd
 - **Source**: 
 
@@ -7502,6 +7558,10 @@
 
 ## 
 - **ID**: dataset_schwein69_hagrid_subset
+- **Source**: 
+
+## 
+- **ID**: dataset_scicode1_scicode
 - **Source**: 
 
 ## 
@@ -7742,6 +7802,10 @@
 
 ## 
 - **ID**: dataset_slaf_project_x_atlas_orion
+- **Source**: 
+
+## 
+- **ID**: dataset_slinky21_pumpfun_v2_dataset
 - **Source**: 
 
 ## 
@@ -8369,6 +8433,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ucla_vail_urbanverse_assets_sim_ready
+- **Source**: 
+
+## 
 - **ID**: dataset_ucsc_vlaa_gpt_edit_simpler
 - **Source**: 
 
@@ -8626,6 +8694,10 @@
 
 ## 
 - **ID**: dataset_wikimedia_wikipedia
+- **Source**: 
+
+## 
+- **ID**: dataset_williamium_llava
 - **Source**: 
 
 ## 
