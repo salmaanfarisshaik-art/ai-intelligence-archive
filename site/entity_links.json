@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:13:33Z",
+  "generated_at": "2026-10-12T17:23:49Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1912,6 +1912,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_cyphertroopers_cph_community_7b",
+      "target_id": "hf_cypherium_raw",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_datajuicer_llama_1b_dj_refine_150b",
       "target_id": "hf_datajuicer_redpajama-arxiv-refined-by-data-juicer",
       "type": "trained_on"
@@ -2767,6 +2772,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_hob_forge_kolibri_1_gguf",
+      "target_id": "hf_Aleph-Alpha_Kolibri-1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_hugging_quants_gemma_2_9b_it_awq_int4",
       "target_id": "hf_google_gemma-2-9b-it",
       "type": "derived_from"
@@ -3339,6 +3349,11 @@
     {
       "source_id": "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf",
       "target_id": "hf_DavidAU_Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
+      "target_id": "hf_zai-org_GLM-5.3-BF16",
       "type": "derived_from"
     },
     {
@@ -9510,6 +9525,11 @@
       "source_id": "model_zerofata_l3_3_geneticlemonade_final_v2_70b",
       "target_id": "hf_zerofata_Summaries-Anime-FandomPages",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-72B-Instruct",
+      "type": "derived_from"
     },
     {
       "source_id": "model_zhiqiulin_clip_flant5_xl",

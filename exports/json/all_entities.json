@@ -311871,8 +311871,15 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],
@@ -346212,6 +346219,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/youssofal/model_youssofal_qwen3_8_27b_mtplx_optimized_speed.json"
+  },
+  {
+    "id": "model_ystemsrx_qwen3_sex",
+    "title": "ystemsrx/Qwen3-Sex",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ystemsrx/model_ystemsrx_qwen3_sex.json"
   },
   {
     "id": "model_yuhuili_eagle_llama3_instruct_8b",

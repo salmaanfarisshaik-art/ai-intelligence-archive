@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:13:33Z",
+  "generated_at": "2026-10-12T17:23:49Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -51,6 +51,9 @@
     ],
     "hf_Aeala_ShareGPT_Vicuna_unfiltered": [
       "model_mtgv_mobilellama_1_4b_chat"
+    ],
+    "hf_Aleph-Alpha_Kolibri-1": [
+      "model_hob_forge_kolibri_1_gguf"
     ],
     "hf_Altworld_Hemmingway-1": [
       "model_bartowski_altworld_hemmingway_1_gguf"
@@ -786,7 +789,8 @@
       "model_bartowski_qwen2_5_72b_instruct_gguf",
       "model_huihui_ai_qwen2_5_72b_instruct_abliterated",
       "model_qwen_qwen2_5_72b_instruct_awq",
-      "model_qwen_qwen2_5_72b_instruct_gptq_int4"
+      "model_qwen_qwen2_5_72b_instruct_gptq_int4",
+      "model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf"
     ],
     "hf_Qwen_Qwen2.5-7B": [
       "hf_Qwen_Qwen2.5-7B-Instruct",
@@ -1750,6 +1754,9 @@
     ],
     "hf_custom-cybersecurity-dataset": [
       "model_ravichandranj_dolphin3_cyber_8b_gguf"
+    ],
+    "hf_cypherium_raw": [
+      "model_cyphertroopers_cph_community_7b"
     ],
     "hf_danish-foundation-models_danish-gigaword": [
       "model_bsc_lt_salamandra_7b_instruct"
@@ -3635,6 +3642,7 @@
     ],
     "hf_zai-org_GLM-5.3-BF16": [
       "model_inferact_glm_5_3_nvfp4",
+      "model_kindlingai_glm_5_3_exlr8_k2_k3_k4",
       "model_radixark_glm_5_3_nvfp4"
     ],
     "hf_zai-org_GLM-5.3-Flash": [
@@ -4405,6 +4413,9 @@
     "model_cyberneurova_cyberneurova_deepseek_v4_flash_abliterated_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
     ],
+    "model_cyphertroopers_cph_community_7b": [
+      "hf_cypherium_raw"
+    ],
     "model_datajuicer_llama_1b_dj_refine_150b": [
       "hf_datajuicer_redpajama-arxiv-refined-by-data-juicer",
       "hf_datajuicer_redpajama-book-refined-by-data-juicer",
@@ -4810,6 +4821,9 @@
     "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf": [
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
+    "model_hob_forge_kolibri_1_gguf": [
+      "hf_Aleph-Alpha_Kolibri-1"
+    ],
     "model_hugging_quants_gemma_2_9b_it_awq_int4": [
       "hf_google_gemma-2-9b-it"
     ],
@@ -5090,6 +5104,9 @@
     ],
     "model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf": [
       "hf_DavidAU_Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop"
+    ],
+    "model_kindlingai_glm_5_3_exlr8_k2_k3_k4": [
+      "hf_zai-org_GLM-5.3-BF16"
     ],
     "model_kingjones777_qwen3_8_27b_rocmfp4_strix_mtp_gguf": [
       "hf_Qwen_Qwen3.8-27B"
@@ -7896,6 +7913,9 @@
       "hf_zerofata_L3.3-GeneticLemonade-Final-70B",
       "hf_zerofata_Roleplay-Anime-Characters",
       "hf_zerofata_Summaries-Anime-FandomPages"
+    ],
+    "model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf": [
+      "hf_Qwen_Qwen2.5-72B-Instruct"
     ],
     "model_zhiqiulin_clip_flant5_xl": [
       "hf_google_flan-t5-xl"

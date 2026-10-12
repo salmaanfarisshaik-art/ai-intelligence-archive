@@ -1,0 +1,21 @@
+{
+  "_id": "68847db1a4a33706a17f3e46",
+  "id": "rigcor7/Debunk_Traffic_Representation",
+  "author": "rigcor7",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-09T08:15:40.000Z",
+  "likes": 6,
+  "private": false,
+  "sha": "c6756756418dafbf67f717d9c0b58cea42d7e2d1",
+  "description": "\n\t\n\t\t\n\t\tPacket-level classification: classify based on packet\n\t\n\n\nPer-packet-split: Mix all packets and split them into train, val, and test sets, based on 8:1:1\nPer-flow-split: Split the pcap files based on 5-tuples (src_IP, dst_IP, src_port, dst_port, and protocol), using 3-fold validation, and there is no intersection between the train, val, and test sets.\n\n\n\t\n\t\t\n\t\n\t\n\t\tFlow-level classification: classify based on flow\n\t\n\n",
+  "downloads": 25952,
+  "tags": [
+    "license:mit",
+    "region:us"
+  ],
+  "createdAt": "2025-07-26T07:03:13.000Z",
+  "key": "",
+  "unique_id": "dataset_rigcor7_debunk_traffic_representation",
+  "schema_version": "1.0"
+}

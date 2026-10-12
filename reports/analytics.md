@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90846
+**Total Entities Tracked**: 90847
 
 ## Category Distribution
 
@@ -8,7 +8,7 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2291
-- **models**: 1821
+- **models**: 1822
 - **news**: 1313
 - **dataset**: 1200
 - **cs.CV**: 1179
@@ -97,7 +97,7 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31290
+- ****: 31291
 - **ArXiv**: 3868
 - **Hugging Face**: 2020
 - **OpenAI Blog**: 1299
@@ -143,23 +143,23 @@
 
 - **region:us**: 285
 - **text-generation**: 86
-- **library:datasets**: 83
-- **library:mlcroissant**: 83
-- **modality:text**: 80
+- **library:datasets**: 84
+- **library:mlcroissant**: 84
+- **modality:text**: 81
 - **endpoints_compatible**: 73
 - **license:apache-2.0**: 73
 - **transformers**: 73
 - **safetensors**: 72
 - **language:en**: 71
 - **conversational**: 67
-- **library:polars**: 63
-- **format:parquet**: 49
+- **library:polars**: 64
+- **format:parquet**: 50
 - **license:mit**: 49
 - **text-generation-inference**: 38
 - **deploy:azure**: 34
 - **en**: 32
+- **library:dask**: 32
 - **library:pandas**: 32
-- **library:dask**: 31
 - **task_categories:text-generation**: 28
 - **eval-results**: 27
 - **enterprise**: 25
@@ -181,13 +181,13 @@
 - **fp8**: 12
 - **gguf**: 12
 - **license:odc-by**: 12
+- **size_categories:1M<n<10M**: 12
 - **size_categories:n>1T**: 12
 - **source_datasets:original**: 12
 - **custom_code**: 11
 - **format:json**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
-- **size_categories:1M<n<10M**: 11
 - **language:zh**: 10
 - **modality:audio**: 10
 - **8-bit**: 9

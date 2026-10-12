@@ -9,7 +9,7 @@
   "private": false,
   "sha": "acba7ccd51a34ea827312cbc167df25d9e13019d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tvtok101 attribution scores (Function Bindings)\n\t\n\nThe attribution scores of \"Elucidating the Design Space of LM Data Attribution\"\non Function Bindings, for the LoRA adapters in\nlamsheeper-data-attribution/Qwen3.5-4B-d0-vtok101-lora-seeds. The CATT code release reads them\nwith catt fetch results --task fb and rebuilds the paper's figures and tables\nfrom them with catt report results.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n{run}/{group}/scores.{method}.{arm}.npz   one [query, train] score matrix… See the full description on the dataset page: https://huggingface.co/datasets/lamsheeper-data-attribution/vtok101-attribution-baselines.",
-  "downloads": 25916,
+  "downloads": 25905,
   "tags": [
     "license:mit",
     "region:us",

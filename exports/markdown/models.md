@@ -7112,6 +7112,10 @@
 - **ID**: model_youssofal_qwen3_8_27b_mtplx_optimized_speed
 - **Source**: 
 
+## ystemsrx/Qwen3-Sex
+- **ID**: model_ystemsrx_qwen3_sex
+- **Source**: 
+
 ## yuhuili/EAGLE-LLaMA3-Instruct-8B
 - **ID**: model_yuhuili_eagle_llama3_instruct_8b
 - **Source**: 
