@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.16855v3](http://arxiv.org/abs/2503.16855v3)
 
+## WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care
+- **ID**: arxiv_2504.06185v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.06185v3](http://arxiv.org/abs/2504.06185v3)
+
 ## The Linear Geometry of Interpretable Tokens: Jailbreaking Attacks and Defenses for Unlearned Diffusion Models
 - **ID**: arxiv_2504.21307v3
 - **Source**: ArXiv
@@ -794,6 +799,11 @@
 - **ID**: arxiv_2605.10894v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.10894v2](http://arxiv.org/abs/2605.10894v2)
+
+## Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation
+- **ID**: arxiv_2605.11307v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.11307v2](http://arxiv.org/abs/2605.11307v2)
 
 ## Beyond Localization: A Comprehensive Diagnosis of Perspective-Conditioned Spatial Reasoning in MLLMs from Omnidirectional Images
 - **ID**: arxiv_2605.12413v4
@@ -5819,4 +5829,69 @@
 - **ID**: arxiv_2610.12469v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12469v1](http://arxiv.org/abs/2610.12469v1)
+
+## SpatialASM: Internalizing Active Mentalization for Spatial Reasoning
+- **ID**: arxiv_2610.13832v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13832v1](http://arxiv.org/abs/2610.13832v1)
+
+## Event-based Action Recognition by Pre-Training on Multi-Frame Representations
+- **ID**: arxiv_2610.13856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13856v1](http://arxiv.org/abs/2610.13856v1)
+
+## Revisiting the Task of Building Damage Assessment by Satellite Imaging
+- **ID**: arxiv_2610.13857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13857v1](http://arxiv.org/abs/2610.13857v1)
+
+## LapMerge: Differentiable Exact-Budget Token Merging in Linear Time
+- **ID**: arxiv_2610.13858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13858v1](http://arxiv.org/abs/2610.13858v1)
+
+## Make It Flow: Animating Water in 3D Gaussian Splatting Scenes
+- **ID**: arxiv_2610.13860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13860v1](http://arxiv.org/abs/2610.13860v1)
+
+## Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion
+- **ID**: arxiv_2610.13872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13872v1](http://arxiv.org/abs/2610.13872v1)
+
+## Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection
+- **ID**: arxiv_2610.13891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13891v1](http://arxiv.org/abs/2610.13891v1)
+
+## Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning
+- **ID**: arxiv_2610.13915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13915v1](http://arxiv.org/abs/2610.13915v1)
+
+## Can machines reason non-verbally?
+- **ID**: arxiv_2610.13925v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13925v1](http://arxiv.org/abs/2610.13925v1)
+
+## Hide and Seek: HIDE Concepts to SEEK explanations for black box models
+- **ID**: arxiv_2610.13935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13935v1](http://arxiv.org/abs/2610.13935v1)
+
+## Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback
+- **ID**: arxiv_2610.13941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13941v1](http://arxiv.org/abs/2610.13941v1)
+
+## InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators
+- **ID**: arxiv_2610.13944v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13944v1](http://arxiv.org/abs/2610.13944v1)
+
+## Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark
+- **ID**: arxiv_2610.13947v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)
 

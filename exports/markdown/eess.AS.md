@@ -80,3 +80,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.18856v1](http://arxiv.org/abs/2609.18856v1)
 
+## OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation
+- **ID**: arxiv_2610.13826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13826v1](http://arxiv.org/abs/2610.13826v1)
+

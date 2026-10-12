@@ -190,3 +190,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08732v1](http://arxiv.org/abs/2610.08732v1)
 
+## Tracing and Taming Hallucinated Terms via Subsequence-Association Filtering and Breadth-Aware Selection for LLM Query Expansion
+- **ID**: arxiv_2610.13810v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13810v1](http://arxiv.org/abs/2610.13810v1)
+

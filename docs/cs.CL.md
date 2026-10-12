@@ -149,6 +149,7 @@
 | [Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning](http://arxiv.org/abs/2609.10445v1) | ArXiv |  | 1 |
 | [Can a Language Model Learn Facts Continually in Its Weights?](http://arxiv.org/abs/2607.11020v3) | ArXiv |  | 1 |
 | [Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization](http://arxiv.org/abs/2609.10410v1) | ArXiv |  | 1 |
+| [Can Language Models Learn When to Abstain? Policy Learning and Calibrated Answer Selection](http://arxiv.org/abs/2610.13821v1) | ArXiv |  | 1 |
 | [Can LLMs Follow the Pulse of a Crisis? Evaluating Crisis Sentiment in Bangladesh's July Uprising](http://arxiv.org/abs/2609.16997v1) | ArXiv |  | 1 |
 | [Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation](http://arxiv.org/abs/2603.15547v2) | ArXiv |  | 1 |
 | [Capability Provenance in Language Models: A Case Study in Social Reasoning](http://arxiv.org/abs/2606.19625v3) | ArXiv |  | 1 |
@@ -261,6 +262,7 @@
 | [EnSI-RAG: Entity-Structure-Indexed Retrieval-Augmented Generation for Long-Document Question Answering](http://arxiv.org/abs/2608.21252v1) | ArXiv |  | 1 |
 | [Entropy Sentinel: Probing Entropy Traces for LLM Monitoring](http://arxiv.org/abs/2601.09001v5) | ArXiv |  | 1 |
 | [Epistemic orientation predicts legislative effectiveness among members of the US Congress](http://arxiv.org/abs/2609.11865v1) | ArXiv |  | 1 |
+| [Error Rate is Not Enough: Costs of Augmentation in Low-Resource ASR](http://arxiv.org/abs/2610.13807v1) | ArXiv |  | 1 |
 | [ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize](http://arxiv.org/abs/2609.04197v1) | ArXiv |  | 1 |
 | [ETHER: Aligning Emergent Communication for Hindsight Experience Replay](http://arxiv.org/abs/2307.15494v4) | ArXiv |  | 1 |
 | [Evaluating Cultural Awareness of LLMs for Haitian Creole](http://arxiv.org/abs/2609.31506v1) | ArXiv |  | 1 |
@@ -493,6 +495,7 @@
 | [NewsRECON: News Article Retrieval for Image Contextualization](http://arxiv.org/abs/2601.14121v2) | ArXiv |  | 1 |
 | [NL2AGBench: Benchmarking LLM Auto-Formalization for AlphaGeometry](http://arxiv.org/abs/2608.28481v1) | ArXiv |  | 1 |
 | [No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding](http://arxiv.org/abs/2503.05061v4) | ArXiv |  | 1 |
+| [Not Just an Evaluation: A Case Study of Discourse Particle Sensitivity in Language Models](http://arxiv.org/abs/2610.13794v1) | ArXiv |  | 1 |
 | [Not Until the Evidence Says So: Teaching LLM Investigators When to Close a Case](http://arxiv.org/abs/2610.03190v1) | ArXiv |  | 1 |
 | [Not What, But How: A Framework for Auditing LLM Responses across Positioning, Generalization, Anthropomorphism, and Maxims](http://arxiv.org/abs/2606.02493v3) | ArXiv |  | 1 |
 | [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) | ArXiv |  | 1 |
@@ -568,6 +571,7 @@
 | [RecurrentGPT: Expressive Depth through Recurrent Modulation in Transformers](http://arxiv.org/abs/2608.15062v2) | ArXiv |  | 1 |
 | [Recursive Agent Harnesses](http://arxiv.org/abs/2606.13643v1) | ArXiv |  | 1 |
 | [REDDIT: Forgetting-Resistant Correction of Timestamp Drift in ASR via Replay-Based Distribution Editing](http://arxiv.org/abs/2607.05364v4) | ArXiv |  | 1 |
+| [REFLECT: Role-Aware Detection of Sentiment, Emotion, Politeness, and Formality](http://arxiv.org/abs/2610.13797v1) | ArXiv |  | 1 |
 | [Regression Language Models for Code](http://arxiv.org/abs/2509.26476v3) | ArXiv |  | 1 |
 | [ReLay: Personalized LLM-Generated Plain-Language Summaries for Better Understanding, but at What Cost?](http://arxiv.org/abs/2605.00468v2) | ArXiv |  | 1 |
 | [Relevance as a Vulnerability: How Web Retrieval Degrades Safety Alignment in LLM Agents](http://arxiv.org/abs/2605.29224v2) | ArXiv |  | 1 |
@@ -586,6 +590,7 @@
 | [Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation](http://arxiv.org/abs/2608.02555v1) | ArXiv |  | 1 |
 | [Rosetta at AlexandriaX-2026: LoRA-Adapted NileChat for Context-Aware Dialectal Arabic Dialogue Translation](http://arxiv.org/abs/2609.10395v1) | ArXiv |  | 1 |
 | [RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer](http://arxiv.org/abs/2608.06347v1) | ArXiv |  | 1 |
+| [RSI-Anything: Unlocking Recursive Self-Improvement with World Models](http://arxiv.org/abs/2610.13912v1) | ArXiv |  | 1 |
 | [RubricsTree: Scalable and Evolving Open-Ended Evaluation of Personal Health Agents across Health Memory and Medical Skills](http://arxiv.org/abs/2606.18203v1) | ArXiv |  | 1 |
 | [RusFinChain: A Russian Benchmark for Verifiable Chain-of-Thought Reasoning in Finance with Fuzzy-Aligned Evaluation](http://arxiv.org/abs/2607.01388v2) | ArXiv |  | 1 |
 | [S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?](http://arxiv.org/abs/2608.31100v1) | ArXiv |  | 1 |
@@ -647,7 +652,9 @@
 | [StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction](http://arxiv.org/abs/2605.06642v2) | ArXiv |  | 1 |
 | [Strategically Diverse Sampling for Self-Training](http://arxiv.org/abs/2609.31571v1) | ArXiv |  | 1 |
 | [Stratified Consistency Distillation for Natural Language Formalization](http://arxiv.org/abs/2608.30258v3) | ArXiv |  | 1 |
+| [StreamDecisionBench: Evaluating Decisions in Force on Evolving Language Streams](http://arxiv.org/abs/2609.38612v3) | ArXiv |  | 1 |
 | [string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms](http://arxiv.org/abs/2608.03984v1) | ArXiv |  | 1 |
+| [Structural Automata for Neural Semantic Parsing](http://arxiv.org/abs/2610.13896v1) | ArXiv |  | 1 |
 | [Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages](http://arxiv.org/abs/2608.12278v1) | ArXiv |  | 1 |
 | [Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch](http://arxiv.org/abs/2608.24809v1) | ArXiv |  | 1 |
 | [Structured Claim-Level Discourse Representations for Dense Health Narratives](http://arxiv.org/abs/2609.18905v1) | ArXiv |  | 1 |
@@ -669,6 +676,7 @@
 | [T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search](http://arxiv.org/abs/2610.06782v1) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
 | [Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models](http://arxiv.org/abs/2609.11838v1) | ArXiv |  | 1 |
+| [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) | ArXiv |  | 1 |
 | [Tastes without distinction: silicon samples and the synthetic construction of tastes](http://arxiv.org/abs/2606.30085v2) | ArXiv |  | 1 |
 | [Tatarstan Toponyms: A Bilingual Dataset and Hybrid RAG System for Geospatial Question Answering](http://arxiv.org/abs/2605.05962v2) | ArXiv |  | 1 |
 | [TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature](http://arxiv.org/abs/2605.07507v2) | ArXiv |  | 1 |
@@ -759,6 +767,7 @@
 | [When Roleplaying, Do Models Believe What They Say?](http://arxiv.org/abs/2606.11502v2) | ArXiv |  | 1 |
 | [When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control](http://arxiv.org/abs/2609.17516v1) | ArXiv |  | 1 |
 | [When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't](http://arxiv.org/abs/2604.06422v2) | ArXiv |  | 1 |
+| [When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors](http://arxiv.org/abs/2610.13910v1) | ArXiv |  | 1 |
 | [When Writing Style Drifts: Benchmarking Authorship Verification under Distribution Shifts in Genre, Time and the AI-Era](http://arxiv.org/abs/2608.17979v1) | ArXiv |  | 1 |
 | [Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition](http://arxiv.org/abs/2609.07474v3) | ArXiv |  | 1 |
 | [Which Models Perform Better in Inheritance Reasoning?](http://arxiv.org/abs/2606.13751v4) | ArXiv |  | 1 |

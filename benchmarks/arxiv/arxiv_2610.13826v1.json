@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13826v1",
+  "schema_version": "1.0",
+  "name": "OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.13826v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13826v1",
+    "updated": "2026-10-09T16:35:25Z",
+    "published": "2026-10-09T16:35:25Z",
+    "title": "OpenPA: Forced-alignment-free Multi-granular Pronunciation Assessment with Mixed-transcript Adaptation",
+    "summary": "Recent advances in automatic pronunciation assessment (APA) have driven a shift from scripted to free-form assessment. However, existing methods often rely on multi-stage pipelines with forced alignment and separate feature extractors, limiting their practicality across response settings. In light of this, we propose OpenPA, a novel APA framework that leverages Whisper's cross-attention mechanism to jointly predict word- and utterance-level pronunciation scores without forced alignment. Through mixed-transcript adaptation and adaptive substitution weighting, OpenPA accommodates heterogeneous transcripts across closed- and open-response settings within a single model. Trained solely on speechocean762, OpenPA achieves the strongest overall performance among evaluated systems under in-domain closed and simulated open-response conditions, while maintaining its performance zero-shot on MultiPA. An additional cross-task evaluation on oral-cancer speech suggests its potential applicability beyond non-native speech.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T16:35:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13826v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

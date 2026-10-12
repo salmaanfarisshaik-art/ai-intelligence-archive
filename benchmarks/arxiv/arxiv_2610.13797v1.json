@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13797v1",
+  "schema_version": "1.0",
+  "name": "REFLECT: Role-Aware Detection of Sentiment, Emotion, Politeness, and Formality",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.13797v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13797v1",
+    "updated": "2026-10-09T16:10:25Z",
+    "published": "2026-10-09T16:10:25Z",
+    "title": "REFLECT: Role-Aware Detection of Sentiment, Emotion, Politeness, and Formality",
+    "summary": "Detecting communicative meaning in dialogue requires modeling not only lexical content but also the participant-role structures through which sentiment, emotion, politeness, and formality (SEPF) are expressed. Existing approaches rely on contextual language representations while leaving semantic roles implicit. We introduce a role-aware transformer architecture that maps the four SEPF dimensions to theory-grounded Semantic Role Labeling (SRL) configurations, incorporating these configurations directly into the transformer's self-attention mechanism. Role-aware attention models non-directional internal states (sentiment and emotion), while directional role-aware attention captures initiator-to-recipient relations for external cues (politeness and formality). The resulting role-aware representations are fused with contextual embeddings through a learned gate that adaptively weights how much role information each input contributes, rather than appending semantic roles as an auxiliary feature vector. Across four benchmark datasets, the framework yields statistically reliable gains over strong BERT-based baselines for emotion, politeness, and formality, with gains concentrated in theoretically predicted cases such as low-frequency, complex emotions and highly polite expressions; sentiment improvements are marginal and non-significant, suggesting that sentiment is conveyed more through lexical choice than participant-role structure. Additional evaluation on real-world data demonstrates that the framework improves both predictive performance and model traceability. These results demonstrate that linguistically grounded modifications to transformer self-attention improve the detection of communicative meaning, generalize beyond benchmark datasets to real-world mental-health data, and yield traceable, role-grounded explanations that extend beyond predictive performance to interpretability.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T16:10:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13797v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

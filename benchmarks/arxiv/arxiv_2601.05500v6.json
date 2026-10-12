@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.05500v6",
+  "schema_version": "1.0",
+  "name": "The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.05500v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.05500v6",
+    "updated": "2026-10-09T17:38:00Z",
+    "published": "2026-01-09T03:19:37Z",
+    "title": "The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation",
+    "summary": "Benchmarking the capabilities of AI systems, including Large Language Models (LLMs) and Vision Models, typically ignores the impact of uncertainty in the underlying ground truth answers from experts. This ambiguity is not just limited to human preferences, but is also consequential even in safety critical domains such as medicine where uncertainty is pervasive. In this paper, we introduce a probabilistic paradigm to theoretically explain how high certainty in ground truth answers is almost always necessary for even an expert to achieve high scores. In contrast, in datasets with high variation in ground truth answers, the expert performance drops substantially resulting in almost no difference between a random labeller and an expert. This characteristic also manifests when comparing models, where uncertainty obfuscates differences between poor and high performing models. Therefore, ignoring uncertainty in ground truth evaluation data can result in the misleading conclusion that a non-expert has similar performance to that of an expert. Given ground truth answer variability and commonly used F1 and accuracy metrics, we bring forth a simple and explainable probabilistic coin toss model to estimate expected accuracyand expected F1 and compare the estimated scores with those that experts (human or model) achieve across multiple domains -- including radiology and models such as GPT-5 and Gemini-3.\n  The results lead to the recommendation that stratification by the probability of the ground truth answer becomes critical when expert performance is relatively low. Under stratified evaluation, performance comparison becomes more reliable in high certainty bins, mitigating the effect of the key confounding factor --- uncertainty.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T17:38:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.05500v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

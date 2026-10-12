@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13910v1",
+  "schema_version": "1.0",
+  "name": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.13910v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13910v1",
+    "updated": "2026-10-09T17:50:03Z",
+    "published": "2026-10-09T17:50:03Z",
+    "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+    "summary": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such reasoning. We introduce EICS (Evaluation-Invariant Concept Stability), a metric for testing whether representations consistently encode concepts under controlled one-concept interventions, and CASP-VL (Causally controlled Spatial Perturbations for Vision-Language models), a benchmark of causally controlled spatial perturbations derived from Visual Genome scene graphs. Across multiple VLM architectures, we find that spatial relations are represented substantially less faithfully than lexical information, even when the same models score well above chance on compositional benchmarks. Further analysis shows that the relation is identifiable at the predicate's own tokens but is lost when the sentence is aggregated into a global representation, whether through the (EOS) token or by mean pooling. These findings reveal a systematic failure invisible to output-based evaluation: VLMs do not preserve, in the representation used downstream, relational information that is present in their own input.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T17:50:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13910v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

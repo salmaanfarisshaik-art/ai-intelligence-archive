@@ -250,6 +250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.23146v2](http://arxiv.org/abs/2602.23146v2)
 
+## Beyond State-Wise Mirror Descent: Offline Policy Optimization with Parametric Policies
+- **ID**: arxiv_2602.23811v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.23811v5](http://arxiv.org/abs/2602.23811v5)
+
 ## CARE: Confounder-Aware Aggregation for Reliable LLM Evaluation
 - **ID**: arxiv_2603.00039v2
 - **Source**: ArXiv
@@ -2069,4 +2074,24 @@
 - **ID**: arxiv_2610.12449v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12449v1](http://arxiv.org/abs/2610.12449v1)
+
+## FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems
+- **ID**: arxiv_2610.13806v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13806v1](http://arxiv.org/abs/2610.13806v1)
+
+## QTestBench: A Test Framework for Evaluating LLM-Generated Quantum Code
+- **ID**: arxiv_2610.13811v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13811v1](http://arxiv.org/abs/2610.13811v1)
+
+## Spanning Diffusion and Flow-based Posterior Sampling via Exact Gaussian Conditioning
+- **ID**: arxiv_2610.13812v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13812v1](http://arxiv.org/abs/2610.13812v1)
+
+## Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping
+- **ID**: arxiv_2610.13909v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13909v1](http://arxiv.org/abs/2610.13909v1)
 

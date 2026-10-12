@@ -200,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20491v1](http://arxiv.org/abs/2606.20491v1)
 
+## RoboMME-Interference: Benchmarking Robot Memory Under Interference
+- **ID**: arxiv_2606.22338v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.22338v4](http://arxiv.org/abs/2606.22338v4)
+
 ## InSight: Self-Guided Skill Acquisition via Steerable VLAs
 - **ID**: arxiv_2606.24884v2
 - **Source**: ArXiv
@@ -859,4 +864,24 @@
 - **ID**: arxiv_2610.12470v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12470v1](http://arxiv.org/abs/2610.12470v1)
+
+## Dream to Remember: Continual Steering of Generalist Robot Policies with World Models
+- **ID**: arxiv_2610.13816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13816v1](http://arxiv.org/abs/2610.13816v1)
+
+## MC-EvoBench: Auditing Experience-Driven Self-Improvement in Minecraft Agents
+- **ID**: arxiv_2610.13829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13829v1](http://arxiv.org/abs/2610.13829v1)
+
+## Chronos Policy: Learning Robot Policies on Physical Time
+- **ID**: arxiv_2610.13929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13929v1](http://arxiv.org/abs/2610.13929v1)
+
+## Splat2Act: From Captured Scenes to Personalized VLA Manipulation
+- **ID**: arxiv_2610.13945v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13945v1](http://arxiv.org/abs/2610.13945v1)
 

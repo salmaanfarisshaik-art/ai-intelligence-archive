@@ -120,6 +120,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05106v5](http://arxiv.org/abs/2601.05106v5)
 
+## The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation
+- **ID**: arxiv_2601.05500v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.05500v6](http://arxiv.org/abs/2601.05500v6)
+
+## Global Consistency Repair for Natural-Language Claim Sets
+- **ID**: arxiv_2601.13600v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.13600v2](http://arxiv.org/abs/2601.13600v2)
+
 ## Beyond Prompting: Efficient and Robust Contextual Biasing for Speech LLMs via Logit-Space Integration (LOGIC)
 - **ID**: arxiv_2601.15397v3
 - **Source**: ArXiv
@@ -234,6 +244,11 @@
 - **ID**: arxiv_2603.15220v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.15220v2](http://arxiv.org/abs/2603.15220v2)
+
+## DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
+- **ID**: arxiv_2603.18048v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18048v3](http://arxiv.org/abs/2603.18048v3)
 
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
@@ -389,6 +404,11 @@
 - **ID**: arxiv_2605.26114v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.26114v3](http://arxiv.org/abs/2605.26114v3)
+
+## MPMMine: Better Benchmarks for Constraint Acquisition
+- **ID**: arxiv_2605.26279v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26279v2](http://arxiv.org/abs/2605.26279v2)
 
 ## RULER: Representation-Level Verification of Machine Unlearning
 - **ID**: arxiv_2605.27569v3
@@ -809,6 +829,11 @@
 - **ID**: arxiv_2607.04419v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.04419v4](http://arxiv.org/abs/2607.04419v4)
+
+## Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents
+- **ID**: arxiv_2607.04528v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04528v2](http://arxiv.org/abs/2607.04528v2)
 
 ## Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade
 - **ID**: arxiv_2607.06503v2
@@ -1624,6 +1649,11 @@
 - **ID**: arxiv_2608.07418v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07418v1](http://arxiv.org/abs/2608.07418v1)
+
+## ResidencyRL: Reinforcement Learning in Simulated Clinical Environments
+- **ID**: arxiv_2608.07418v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07418v2](http://arxiv.org/abs/2608.07418v2)
 
 ## CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing
 - **ID**: arxiv_2608.07424v1
@@ -3729,4 +3759,24 @@
 - **ID**: arxiv_2610.12466v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12466v1](http://arxiv.org/abs/2610.12466v1)
+
+## Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga
+- **ID**: arxiv_2610.13840v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13840v1](http://arxiv.org/abs/2610.13840v1)
+
+## X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems
+- **ID**: arxiv_2610.13886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13886v1](http://arxiv.org/abs/2610.13886v1)
+
+## RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics
+- **ID**: arxiv_2610.13889v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13889v1](http://arxiv.org/abs/2610.13889v1)
+
+## Can Language Models Play the Wikipedia Game?
+- **ID**: arxiv_2610.13948v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13948v1](http://arxiv.org/abs/2610.13948v1)
 

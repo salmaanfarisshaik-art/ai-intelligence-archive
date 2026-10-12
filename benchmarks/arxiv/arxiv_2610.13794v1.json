@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13794v1",
+  "schema_version": "1.0",
+  "name": "Not Just an Evaluation: A Case Study of Discourse Particle Sensitivity in Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.13794v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13794v1",
+    "updated": "2026-10-09T16:07:24Z",
+    "published": "2026-10-09T16:07:24Z",
+    "title": "Not Just an Evaluation: A Case Study of Discourse Particle Sensitivity in Language Models",
+    "summary": "Discourse particles subtly shape the flow of discourse by reflecting conversational context and interlocutor attitudes, often leaving the truth-conditional meaning untouched. They are also often polyfunctional, with distinct senses which partially overlap with other particles; for example, the exclusive use of English \"just\" and \"only\" (\"John only/just drinks water\"). Despite the frequency of these words in natural language, they have gone largely unstudied due to the subtle nature of their effects. We investigate LLM sensitivity to \"just\" and \"only\" in natural conversations using behavioral and mechanistic analyses. First, we find that LLMs and humans similarly prefer the presence of these particles in context, and both are more sensitive to \"just\" compared to \"only\". Second, when sampling from LLMs with and without these particles, we find LLMs consistently rate generations as more likely, given their source context, demonstrating their particle sensitivity. In both experiments, instruction tuning increases sensitivity. Finally, we localize particle-sensitive units within LLMs and find the overlap between \"just\" and \"only\" is asymmetric: \"only\" units transfer selectively to exclusive \"just\", while all \"just\" units transfer to \"only\" equally well regardless of sense, suggesting LLM lexical-level particle representations are partially organized by sense. We release our code, sense-labeled dialogue stimuli, and human preference annotations at https://github.com/JiahuiKChen/Not_Just_an_Evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T16:07:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13794v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

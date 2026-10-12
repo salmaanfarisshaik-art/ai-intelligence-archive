@@ -181,6 +181,7 @@
 | [Call Neighbours Yourself: Graph Walks with Destination-Conditioned On-Policy Self-Distillation](http://arxiv.org/abs/2608.29588v1) | ArXiv |  | 1 |
 | [Can AI agents conduct open-ended AI research? Early evidence from two case studies](http://arxiv.org/abs/2607.27191v1) | ArXiv |  | 1 |
 | [Can Edge-Deployable Vision-Language Models Identify Species?](http://arxiv.org/abs/2609.11916v1) | ArXiv |  | 1 |
+| [Can Language Models Play the Wikipedia Game?](http://arxiv.org/abs/2610.13948v1) | ArXiv |  | 1 |
 | [Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](http://arxiv.org/abs/2608.18017v1) | ArXiv |  | 1 |
 | [Can LLMs Discover Scientific Laws in Real and Parallel Worlds?](http://arxiv.org/abs/2609.01552v1) | ArXiv |  | 1 |
 | [Can We Break LLMs Out of Self-Loops? Fine-Grained Reasoning Control with Activation Steering](http://arxiv.org/abs/2607.18100v1) | ArXiv |  | 1 |
@@ -232,6 +233,7 @@
 | [Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](http://arxiv.org/abs/2608.07364v1) | ArXiv |  | 1 |
 | [D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery](http://arxiv.org/abs/2604.27977v4) | ArXiv |  | 1 |
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
+| [DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models](http://arxiv.org/abs/2603.18048v3) | ArXiv |  | 1 |
 | [Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation](http://arxiv.org/abs/2608.15877v2) | ArXiv |  | 1 |
 | [Decode-Branch Transformers: Decoupling the Primary Prefill Path from Additional Decode Computation](http://arxiv.org/abs/2608.12385v2) | ArXiv |  | 1 |
 | [Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System](http://arxiv.org/abs/2602.18640v3) | ArXiv |  | 1 |
@@ -338,6 +340,7 @@
 | [Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model](http://arxiv.org/abs/2609.20358v1) | ArXiv |  | 1 |
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
 | [GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](http://arxiv.org/abs/2610.12391v1) | ArXiv |  | 1 |
+| [Global Consistency Repair for Natural-Language Claim Sets](http://arxiv.org/abs/2601.13600v2) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](http://arxiv.org/abs/2609.30147v1) | ArXiv |  | 1 |
@@ -433,6 +436,7 @@
 | [Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs](http://arxiv.org/abs/2604.27618v2) | ArXiv |  | 1 |
 | [Matilda: Engine-Agnostic Search with Human Policy Guidance](http://arxiv.org/abs/2606.25176v3) | ArXiv |  | 1 |
 | [Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents](http://arxiv.org/abs/2609.02760v1) | ArXiv |  | 1 |
+| [Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents](http://arxiv.org/abs/2607.04528v2) | ArXiv |  | 1 |
 | [Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation](http://arxiv.org/abs/2608.27429v1) | ArXiv |  | 1 |
 | [MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents](http://arxiv.org/abs/2609.09115v1) | ArXiv |  | 1 |
 | [Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules](http://arxiv.org/abs/2606.16337v4) | ArXiv |  | 1 |
@@ -448,6 +452,7 @@
 | [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
 | [MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](http://arxiv.org/abs/2606.26899v2) | ArXiv |  | 1 |
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
+| [MPMMine: Better Benchmarks for Constraint Acquisition](http://arxiv.org/abs/2605.26279v2) | ArXiv |  | 1 |
 | [MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search](http://arxiv.org/abs/2610.03651v1) | ArXiv |  | 1 |
 | [MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents](http://arxiv.org/abs/2609.20152v1) | ArXiv |  | 1 |
 | [Multi-Agent Reinforcement Learning from Delayed Marketplace Feedback for Objective-Weight Adaptation in Three-Sided Dispatch](http://arxiv.org/abs/2606.13604v1) | ArXiv |  | 1 |
@@ -537,6 +542,7 @@
 | [RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](http://arxiv.org/abs/2609.20754v1) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
 | [RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](http://arxiv.org/abs/2605.11151v3) | ArXiv |  | 1 |
+| [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics](http://arxiv.org/abs/2610.13889v1) | ArXiv |  | 1 |
 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](http://arxiv.org/abs/2603.05614v2) | ArXiv |  | 1 |
 | [Real-Time Detection and Repair of LLM Agent Failures](http://arxiv.org/abs/2608.02464v1) | ArXiv |  | 1 |
 | [Reason-Mediated Behavioral Models for Auditing LLM Social Simulators](http://arxiv.org/abs/2607.24649v1) | ArXiv |  | 1 |
@@ -556,6 +562,7 @@
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v2) | ArXiv |  | 1 |
 | [ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](http://arxiv.org/abs/2608.07418v1) | ArXiv |  | 1 |
+| [ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](http://arxiv.org/abs/2608.07418v2) | ArXiv |  | 1 |
 | [Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs](http://arxiv.org/abs/2607.28573v1) | ArXiv |  | 1 |
 | [Rethinking On-Policy Distillation of Large Language Models II: One Training Example](http://arxiv.org/abs/2609.04172v1) | ArXiv |  | 1 |
 | [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation](http://arxiv.org/abs/2606.19327v1) | ArXiv |  | 1 |
@@ -635,6 +642,7 @@
 | [Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG](http://arxiv.org/abs/2609.20334v1) | ArXiv |  | 1 |
 | [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v1) | ArXiv |  | 1 |
 | [StudentBench: AI and human tutoring yield equivalent GRE learning gains](http://arxiv.org/abs/2609.28470v2) | ArXiv |  | 1 |
+| [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga](http://arxiv.org/abs/2610.13840v1) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
@@ -654,6 +662,7 @@
 | [The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning](http://arxiv.org/abs/2607.11436v2) | ArXiv |  | 1 |
 | [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](http://arxiv.org/abs/2606.16974v1) | ArXiv |  | 1 |
 | [The Hitchhikers Guide to Rubric Quality Understanding and Enrichment](http://arxiv.org/abs/2604.01375v4) | ArXiv |  | 1 |
+| [The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation](http://arxiv.org/abs/2601.05500v6) | ArXiv |  | 1 |
 | [The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](http://arxiv.org/abs/2607.08734v2) | ArXiv |  | 1 |
 | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](http://arxiv.org/abs/2608.06270v1) | ArXiv |  | 1 |
 | [The inherent goodness of well educated intelligence](http://arxiv.org/abs/2401.04846v12) | ArXiv |  | 1 |
@@ -749,6 +758,7 @@
 | [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |
 | [Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports](http://arxiv.org/abs/2608.14446v1) | ArXiv |  | 1 |
 | [X+Slides: Benchmarking Audience-Conditioned Slide Generation](http://arxiv.org/abs/2606.19256v1) | ArXiv |  | 1 |
+| [X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems](http://arxiv.org/abs/2610.13886v1) | ArXiv |  | 1 |
 | [XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction](http://arxiv.org/abs/2605.05866v2) | ArXiv |  | 1 |
 | [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](http://arxiv.org/abs/2606.18142v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

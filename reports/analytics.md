@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 90796
+**Total Entities Tracked**: 90846
 
 ## Category Distribution
 
@@ -11,25 +11,26 @@
 - **models**: 1821
 - **news**: 1313
 - **dataset**: 1200
-- **cs.CV**: 1164
+- **cs.CV**: 1179
 - **text-generation**: 1013
-- **cs.CL**: 773
-- **cs.AI**: 746
-- **cs.LG**: 414
-- **cs.RO**: 172
-- **cs.CR**: 82
-- **cs.SE**: 65
+- **cs.CL**: 782
+- **cs.AI**: 756
+- **cs.LG**: 419
+- **cs.RO**: 177
+- **cs.CR**: 83
+- **cs.SE**: 66
 - **tool**: 55
 - **cs.HC**: 45
-- **cs.IR**: 38
+- **cs.IR**: 39
 - **cs.SD**: 37
 - **cs.CY**: 31
 - **cs.MA**: 18
+- **eess.AS**: 17
 - **eess.IV**: 17
-- **eess.AS**: 16
 - **API**: 15
 - **cs.DC**: 12
 - **stat.ML**: 12
+- **cs.DB**: 11
 - **cs.GT**: 11
 - **Backend**: 10
 - **Database**: 10
@@ -38,18 +39,17 @@
 - **MCP Server**: 10
 - **Security**: 10
 - **Tool**: 10
-- **cs.DB**: 10
 - **cs.NI**: 10
 - **quant-ph**: 10
 - **cs.GR**: 9
 - **cs.IT**: 8
 - **cs.AR**: 7
 - **cs.MM**: 7
+- **cs.NE**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
 - **IDE Rule**: 6
-- **cs.NE**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
 - **cs.CE**: 5
@@ -98,7 +98,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31290
-- **ArXiv**: 3818
+- **ArXiv**: 3868
 - **Hugging Face**: 2020
 - **OpenAI Blog**: 1299
 - **HuggingFace Datasets**: 200
@@ -143,37 +143,37 @@
 
 - **region:us**: 285
 - **text-generation**: 86
-- **library:datasets**: 84
-- **library:mlcroissant**: 84
-- **modality:text**: 81
+- **library:datasets**: 83
+- **library:mlcroissant**: 83
+- **modality:text**: 80
 - **endpoints_compatible**: 73
 - **license:apache-2.0**: 73
 - **transformers**: 73
 - **safetensors**: 72
 - **language:en**: 71
 - **conversational**: 67
-- **library:polars**: 64
-- **format:parquet**: 50
+- **library:polars**: 63
+- **format:parquet**: 49
 - **license:mit**: 49
 - **text-generation-inference**: 38
 - **deploy:azure**: 34
 - **en**: 32
-- **library:dask**: 32
 - **library:pandas**: 32
+- **library:dask**: 31
 - **task_categories:text-generation**: 28
 - **eval-results**: 27
 - **enterprise**: 25
-- **modality:image**: 25
 - **size_categories:n<1K**: 25
 - **deploy:sagemaker**: 24
 - **license:other**: 24
+- **modality:image**: 24
 - **modality:tabular**: 24
 - **qwen3**: 21
 - **size_categories:10K<n<100K**: 19
 - **license:cc-by-4.0**: 17
 - **api**: 16
 - **task_categories:robotics**: 16
-- **modality:video**: 15
+- **modality:video**: 14
 - **size_categories:100K<n<1M**: 14
 - **multilinguality:monolingual**: 13
 - **pytorch**: 13
@@ -181,13 +181,13 @@
 - **fp8**: 12
 - **gguf**: 12
 - **license:odc-by**: 12
-- **size_categories:1M<n<10M**: 12
 - **size_categories:n>1T**: 12
 - **source_datasets:original**: 12
 - **custom_code**: 11
 - **format:json**: 11
 - **size_categories:100M<n<1B**: 11
 - **size_categories:1K<n<10K**: 11
+- **size_categories:1M<n<10M**: 11
 - **language:zh**: 10
 - **modality:audio**: 10
 - **8-bit**: 9

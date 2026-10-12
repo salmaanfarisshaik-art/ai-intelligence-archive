@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.04243v2](http://arxiv.org/abs/2601.04243v2)
 
+## RPP: A Certified Poisoned-Sample Detection Framework for Backdoor Attacks under Dataset Imbalance
+- **ID**: arxiv_2602.00183v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00183v2](http://arxiv.org/abs/2602.00183v2)
+
 ## SkillJect: Effectively Automating Skill-Based Prompt Injection for Skill-Enabled Agents
 - **ID**: arxiv_2602.14211v3
 - **Source**: ArXiv

@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23315v1](http://arxiv.org/abs/2609.23315v1)
 
+## Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing
+- **ID**: arxiv_2610.13823v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13823v1](http://arxiv.org/abs/2610.13823v1)
+

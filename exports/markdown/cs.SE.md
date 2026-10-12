@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.18168v1](http://arxiv.org/abs/2606.18168v1)
 
+## The Spec Growth Engine: Spec-Anchored, Code-Coupled, Drift-Enforced Architecture for AI-Assisted Software Development
+- **ID**: arxiv_2606.27045v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27045v2](http://arxiv.org/abs/2606.27045v2)
+
 ## RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources
 - **ID**: arxiv_2606.29538v3
 - **Source**: ArXiv

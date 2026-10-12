@@ -3610,6 +3610,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38256v2](http://arxiv.org/abs/2609.38256v2)
 
+## StreamDecisionBench: Evaluating Decisions in Force on Evolving Language Streams
+- **ID**: arxiv_2609.38612v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38612v3](http://arxiv.org/abs/2609.38612v3)
+
 ## Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal
 - **ID**: arxiv_2609.38627v3
 - **Source**: ArXiv
@@ -3864,4 +3869,44 @@
 - **ID**: arxiv_2610.12410v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12410v1](http://arxiv.org/abs/2610.12410v1)
+
+## Not Just an Evaluation: A Case Study of Discourse Particle Sensitivity in Language Models
+- **ID**: arxiv_2610.13794v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13794v1](http://arxiv.org/abs/2610.13794v1)
+
+## REFLECT: Role-Aware Detection of Sentiment, Emotion, Politeness, and Formality
+- **ID**: arxiv_2610.13797v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13797v1](http://arxiv.org/abs/2610.13797v1)
+
+## Error Rate is Not Enough: Costs of Augmentation in Low-Resource ASR
+- **ID**: arxiv_2610.13807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13807v1](http://arxiv.org/abs/2610.13807v1)
+
+## Can Language Models Learn When to Abstain? Policy Learning and Calibrated Answer Selection
+- **ID**: arxiv_2610.13821v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13821v1](http://arxiv.org/abs/2610.13821v1)
+
+## Task Context Shapes Component Roles in Language Models
+- **ID**: arxiv_2610.13895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13895v1](http://arxiv.org/abs/2610.13895v1)
+
+## Structural Automata for Neural Semantic Parsing
+- **ID**: arxiv_2610.13896v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13896v1](http://arxiv.org/abs/2610.13896v1)
+
+## When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors
+- **ID**: arxiv_2610.13910v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13910v1](http://arxiv.org/abs/2610.13910v1)
+
+## RSI-Anything: Unlocking Recursive Self-Improvement with World Models
+- **ID**: arxiv_2610.13912v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13912v1](http://arxiv.org/abs/2610.13912v1)
 

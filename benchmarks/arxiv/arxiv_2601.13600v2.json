@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.13600v2",
+  "schema_version": "1.0",
+  "name": "Global Consistency Repair for Natural-Language Claim Sets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.13600v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.13600v2",
+    "updated": "2026-10-09T17:18:50Z",
+    "published": "2026-01-20T05:02:35Z",
+    "title": "Global Consistency Repair for Natural-Language Claim Sets",
+    "summary": "NLP systems increasingly aggregate claims from retrieved passages, documents, and generated reasoning steps. Yet current factuality methods mostly verify claims individually or compare pairs of claims, leaving open the question of whether the entire aggregated claim set can be retained coherently. This misses a fundamental failure mode: claims may be locally plausible and pairwise compatible while still being jointly inconsistent. We formalize global consistency repair: given an inconsistent natural-language claim set, preserve the largest coherent subset while localizing the compact sources of inconsistency. We introduce QXR, an adaptive diagnosis-and-repair framework that treats an LLM as a noisy set-level consistency judge, localizes minimal conflicting subsets, and repairs the claim set by deleting a small hitting set of claims. Across LLM judges and benchmarks derived from VitaminC, FEVER, and conflicting-evidence RAG, QXR preserves substantially more valid claims than direct all-at-once judging while maintaining high precision. These results suggest that factuality in claim aggregation systems should be treated as a set-level repair problem, not only as local verification.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T17:18:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.13600v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

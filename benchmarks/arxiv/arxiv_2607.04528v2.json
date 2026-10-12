@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.04528v2",
+  "schema_version": "1.0",
+  "name": "Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.04528v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.04528v2",
+    "updated": "2026-10-09T17:59:01Z",
+    "published": "2026-07-05T22:22:39Z",
+    "title": "Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents",
+    "summary": "Software agents are becoming increasingly important in modern coding workflows, where they solve complex tasks through multi-step interaction with code repositories. A central component of these systems is the execution harness, which governs how the underlying LLM observes, acts on, and verifies its environment. We show that the harness can in turn shape the agent's evolving beliefs about the environment, even when the task, environment, and base LLM remain fixed. To reveal this effect, we introduce a belief-rollout diagnostic that traces how an agent's anticipated world state and future decisions evolve under alternative harnesses. We further separate immediate divergence introduced by the interface from divergence that develops over longer horizons. Across controlled coding tasks include HIBench-Code, SWE-bench Verified and Terminal-Bench, we find substantial cross-harness belief divergence that is often invisible from terminal success alone and can propagate into different downstream actions. Building on this observation, we introduce \\textbf{Belief-Invariant World-Modeling (BIWM)}, which exposes evidence hidden or compressed by harness execution and aligns the resulting belief trajectories across different harnesses. Our findings reveal that harness design can systematically shape how software agents understand and act on their environments, providing practical guidance for building and evaluating more reliable coding agents.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-12T07:12:12Z",
+  "last_updated": "2026-10-09T17:59:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.04528v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
