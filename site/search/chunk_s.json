@@ -155195,6 +155195,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_aiencoder_llama_cpp_wheels",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_allenai_molmoact_midtraining_mixture",
       "match_type": "exact",
       "score": 1.0
@@ -159488,11 +159493,6 @@
     },
     {
       "entity_id": "dataset_ai_mo_numinamath_cot",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_aiencoder_llama_cpp_wheels",
       "match_type": "exact",
       "score": 1.5
     },
@@ -435919,11 +435919,6 @@
       "score": 1.0
     },
     {
-      "entity_id": "dataset_aiencoder_llama_cpp_wheels",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
       "entity_id": "dataset_monology_pile_uncopyrighted",
       "match_type": "exact",
       "score": 1.0
@@ -522330,6 +522325,13 @@
       "entity_id": "dataset_huggingfacefw_fineweb_2",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "sycl": [
+    {
+      "entity_id": "dataset_aiencoder_llama_cpp_wheels",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "sycophancy": [
