@@ -9189,6 +9189,38 @@
     "local_path": "models/nvidia/hf_nvidia_OpenReasoning-Nemotron-32B.json"
   },
   {
+    "id": "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
+    "title": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "8-bit",
+      "FP4",
+      "Model Optimizer",
+      "ModelOpt",
+      "base_model:Qwen/Qwen2.5-VL-7B-Instruct",
+      "base_model:quantized:Qwen/Qwen2.5-VL-7B-Instruct",
+      "conversational",
+      "fp4",
+      "license:other",
+      "modelopt",
+      "nvidia",
+      "quantized",
+      "qwen2_5_vl",
+      "region:us",
+      "safetensors",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/nvidia/Qwen2.5-VL-7B-Instruct-NVFP4",
+    "local_path": "models/nvidia/hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4.json"
+  },
+  {
     "id": "hf_nvidia_Qwen3-14B-NVFP4",
     "title": "nvidia/Qwen3-14B-NVFP4",
     "category": "text-generation",

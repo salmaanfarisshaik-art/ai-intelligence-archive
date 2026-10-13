@@ -19647,6 +19647,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_65d51c4ce42dc55225cd92ea",
+      "target": "datasets/nasa-impact"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6601c221829a6282b76a308d",
       "target": "datasets/uwipl"
     },
@@ -20366,7 +20371,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-13T07:22:11.922593+00:00",
+  "generated_at": "2026-10-13T15:36:47.305478+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -159572,6 +159577,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_65d51c4ce42dc55225cd92ea",
+      "label": "nasa-impact/WxC-Bench"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6601c221829a6282b76a308d",
       "label": "uwipl/RT-Pose"
     },
@@ -159679,6 +159689,11 @@
       "category": "dataset",
       "id": "hf_ds_67374c18c32c765810f748f6",
       "label": "HuggingFaceH4/MATH-500"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_673751cfb7d352f8c1f5564b",
+      "label": "orionweller/generic_data_v2"
     },
     {
       "category": "dataset",
@@ -166729,6 +166744,11 @@
       "category": "text-generation",
       "id": "hf_nvidia_OpenReasoning-Nemotron-32B",
       "label": "nvidia/OpenReasoning-Nemotron-32B"
+    },
+    {
+      "category": "text-generation",
+      "id": "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
+      "label": "nvidia/Qwen2.5-VL-7B-Instruct-NVFP4"
     },
     {
       "category": "text-generation",
@@ -474737,6 +474757,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4073,
-  "total_nodes": 90873
+  "total_edges": 4074,
+  "total_nodes": 90876
 }

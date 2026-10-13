@@ -3992,6 +3992,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B](https://huggingface.co/nvidia/OpenReasoning-Nemotron-32B)
 
+## nvidia/Qwen2.5-VL-7B-Instruct-NVFP4
+- **ID**: hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/nvidia/Qwen2.5-VL-7B-Instruct-NVFP4](https://huggingface.co/nvidia/Qwen2.5-VL-7B-Instruct-NVFP4)
+- **Tags**: 8-bit, FP4, Model Optimizer, ModelOpt, base_model:Qwen/Qwen2.5-VL-7B-Instruct, base_model:quantized:Qwen/Qwen2.5-VL-7B-Instruct, conversational, fp4, license:other, modelopt, nvidia, quantized, qwen2_5_vl, region:us, safetensors, text-generation
+
 ## nvidia/Qwen3-14B-NVFP4
 - **ID**: hf_nvidia_Qwen3-14B-NVFP4
 - **Source**: Hugging Face

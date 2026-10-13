@@ -1,0 +1,27 @@
+{
+  "_id": "6a28b8d5d3734ae222d610bc",
+  "id": "stanford-star/relbench-v1",
+  "author": "stanford-star",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-05T05:33:18.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "7abf5d46a48534d918704ca2af278861b932f4dc",
+  "description": "\nlicense: cc-by-sa-4.0\ntags:\n\nrelbench\nrelational-deep-learning\nconfigs:\nconfig_name: databases\ndata_files:\nsplit: eval\npath: STATS/databases.parquet\n\n\nconfig_name: tasks\ndata_files:\nsplit: eval\npath: STATS/tasks.parquet---\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tRelBench v1\n\t\n\nThe RelBench v1 databases and tasks, one database per subdirectory. The v2-only databases and tasks are in stanford-star/relbench-v2-extra. regression_stds.json holds the train-split target standard deviations that turn MAE into NMAE.… See the full description on the dataset page: https://huggingface.co/datasets/stanford-star/relbench-v1.",
+  "downloads": 26420,
+  "tags": [
+    "size_categories:10M<n<100M",
+    "format:parquet",
+    "modality:tabular",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-06-10T01:07:33.000Z",
+  "key": "",
+  "unique_id": "dataset_stanford_star_relbench_v1",
+  "schema_version": "1.0"
+}

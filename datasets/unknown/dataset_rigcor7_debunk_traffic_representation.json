@@ -9,7 +9,7 @@
   "private": false,
   "sha": "c6756756418dafbf67f717d9c0b58cea42d7e2d1",
   "description": "\n\t\n\t\t\n\t\tPacket-level classification: classify based on packet\n\t\n\n\nPer-packet-split: Mix all packets and split them into train, val, and test sets, based on 8:1:1\nPer-flow-split: Split the pcap files based on 5-tuples (src_IP, dst_IP, src_port, dst_port, and protocol), using 3-fold validation, and there is no intersection between the train, val, and test sets.\n\n\n\t\n\t\t\n\t\n\t\n\t\tFlow-level classification: classify based on flow\n\t\n\n",
-  "downloads": 25952,
+  "downloads": 27303,
   "tags": [
     "license:mit",
     "region:us"

@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-13T07:22:13.700032+00:00
-**Warnings:** 4073
+**Generated:** 2026-10-13T15:36:49.446027+00:00
+**Warnings:** 4074
 **Errors:** 240
 
 ## Issues
@@ -4177,6 +4177,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/google
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/espnet
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Kazimir-ai
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nasa-impact
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/uwipl
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW

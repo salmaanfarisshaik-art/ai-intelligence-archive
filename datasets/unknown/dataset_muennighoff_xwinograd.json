@@ -9,7 +9,7 @@
   "private": false,
   "sha": "90b619ef5278605cd4f572e3e8506ab16afd44f2",
   "description": "\n\t\n\t\t\n\t\tXWinograd\n\t\n\nMultilingual winograd schema challenge as used in Crosslingual Generalization through Multitask Finetuning.\n\n\t\n\t\t\n\t\tLanguages & Samples\n\t\n\n\n\"en\": 2325\n\"fr\": 83\n\"jp\": 959\n\"pt\": 263 \n\"ru\": 315\n\"zh\": 504\n\n\n\t\n\t\t\n\t\tDataset creation\n\t\n\nThe Winograd schema challenges in this dataset combine winograd schemas from the XWinograd dataset introduced in Tikhonov et al and as it only contains 16 Chinese schemas, we add 488 Chinese schemas from clue/cluewsc2020.\nIf you only want the… See the full description on the dataset page: https://huggingface.co/datasets/Muennighoff/xwinograd.",
-  "downloads": 28072,
+  "downloads": 28700,
   "tags": [
     "language:en",
     "language:fr",

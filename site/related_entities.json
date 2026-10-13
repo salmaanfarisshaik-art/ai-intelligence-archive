@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:22:53Z",
+  "generated_at": "2026-10-13T15:37:50Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -267,6 +267,7 @@
       "model_bartowski_eva_qwen2_5_14b_v0_2_gguf"
     ],
     "hf_Gryphe_Opus-WritingPrompts": [
+      "model_bartowski_l3_8b_stheno_v3_2_gguf",
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
     "hf_Gryphe_Sonnet3.5-Charcard-Roleplay": [
@@ -373,8 +374,14 @@
     "hf_IFM_K2-Horizon-7B": [
       "model_ifm_k2_horizon_7b_uno"
     ],
+    "hf_IFM_K2-Horizon-Midtrain-Data": [
+      "model_ifm_k2_horizon_7b"
+    ],
     "hf_IFM_K2-Horizon-MoVA-36B-A4B": [
       "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf"
+    ],
+    "hf_IFM_K2-Horizon-Pretrain-Data": [
+      "model_ifm_k2_horizon_7b"
     ],
     "hf_ISTA-DASLab_Qwen3.8-27B-GSQ-RCO-GGUF": [
       "model_conwayresearch_underdog_saluki_27b_1_0"
@@ -888,6 +895,7 @@
       "model_qwen_qwen2_5_math_7b_instruct"
     ],
     "hf_Qwen_Qwen2.5-VL-7B-Instruct": [
+      "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
       "model_nvidia_qwen2_5_vl_7b_instruct_nvfp4"
     ],
     "hf_Qwen_Qwen3-0.6B": [
@@ -1345,6 +1353,15 @@
     "hf_Salesforce_xlam-function-calling-60k": [
       "model_salesforce_llama_xlam_2_8b_fc_r"
     ],
+    "hf_Sao10K_Claude-3-Opus-Instruct-15K": [
+      "model_bartowski_l3_8b_stheno_v3_2_gguf"
+    ],
+    "hf_Sao10K_Short-Storygen-v2": [
+      "model_bartowski_l3_8b_stheno_v3_2_gguf"
+    ],
+    "hf_Sao10K_c2-Logs-Filtered": [
+      "model_bartowski_l3_8b_stheno_v3_2_gguf"
+    ],
     "hf_SargeDev_jev-distill-corpus-v3": [
       "model_autotrust_jev_27b",
       "model_autotrust_jev_9b"
@@ -1438,6 +1455,9 @@
       "model_abenzerps_spark_x2_5_4b_gguf",
       "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf",
       "model_xhtoken_spark_x2_5_4b_gguf"
+    ],
+    "hf_XHToken_Spark-X2.5-4B-Base": [
+      "model_xhtoken_spark_x2_5_4b"
     ],
     "hf_XingChen-AGI_Xing4.0-29B-A4B": [
       "model_venastine_research_xing4_0_29b_a4b_gguf"
@@ -3095,6 +3115,9 @@
     "hf_nvidia_OpenScienceReasoning-2": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
+    "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4": [
+      "hf_Qwen_Qwen2.5-VL-7B-Instruct"
+    ],
     "hf_nvidia_Qwen3.6-27B-NVFP4": [
       "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf"
     ],
@@ -4042,6 +4065,12 @@
     "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf": [
       "hf_Kwaipilot_KAT-Coder-V2.5-Dev"
     ],
+    "model_bartowski_l3_8b_stheno_v3_2_gguf": [
+      "hf_Gryphe_Opus-WritingPrompts",
+      "hf_Sao10K_Claude-3-Opus-Instruct-15K",
+      "hf_Sao10K_Short-Storygen-v2",
+      "hf_Sao10K_c2-Logs-Filtered"
+    ],
     "model_bartowski_ling_3_0_tiny_gguf": [
       "hf_inclusionAI_Ling-3.0-tiny"
     ],
@@ -4942,6 +4971,10 @@
     ],
     "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4": [
       "hf_meta-llama_Llama-3.3-70B-Instruct"
+    ],
+    "model_ifm_k2_horizon_7b": [
+      "hf_IFM_K2-Horizon-Midtrain-Data",
+      "hf_IFM_K2-Horizon-Pretrain-Data"
     ],
     "model_ifm_k2_horizon_7b_uno": [
       "hf_IFM_K2-Horizon-7B"
@@ -7847,6 +7880,9 @@
     ],
     "model_xhtoken_spark_x2_5_1_7b_gguf": [
       "hf_XHToken_Spark-X2.5-1.7B"
+    ],
+    "model_xhtoken_spark_x2_5_4b": [
+      "hf_XHToken_Spark-X2.5-4B-Base"
     ],
     "model_xhtoken_spark_x2_5_4b_gguf": [
       "hf_XHToken_Spark-X2.5-4B"

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "d5b0023a52f79e570debd23cccd6d0cf82800474",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tULVR stage-0 subsets (latent + source)\n\t\n\nCurated, nested subsets of the Unified Visual Latent Reasoning (ULVR) stage-0\ntraining data. Each subset folder is self-contained and ships both:\n\nlatent/ — pre-computed teacher latents, identical schema to\nRuoliuYang/step0-all\nsource/ — the matching source samples (images + question/answer +\nmessages), identical schema to\nRuoliuYang/ULVR_v2_clean\n\nLatents and source rows are joinable by sample_id (within a category).\n\n\t\n\t\t\n\t\n\t\n\t\tFolder… See the full description on the dataset page: https://huggingface.co/datasets/RuoliuYang/ulvr_subset.",
-  "downloads": 26438,
+  "downloads": 26423,
   "tags": [
     "task_categories:visual-question-answering",
     "task_categories:image-to-text",

@@ -818,6 +818,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_blanchon_aid",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_builddotai_egocentric_100k",
       "match_type": "exact",
       "score": 1.0
@@ -2523,6 +2528,13 @@
   "00700": [
     {
       "entity_id": "dataset_cais_mmlu",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "00713": [
+    {
+      "entity_id": "dataset_qcri_crisismmd",
       "match_type": "exact",
       "score": 1.5
     }
@@ -8367,6 +8379,13 @@
       "score": 1.5
     }
   ],
+  "06961": [
+    {
+      "entity_id": "dataset_hf_audio_open_asr_leaderboard",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "06982": [
     {
       "entity_id": "dataset_chrise222_weathersynthetic",
@@ -8989,6 +9008,13 @@
       "score": 1.5
     }
   ],
+  "07558": [
+    {
+      "entity_id": "dataset_ignf_pastis_hd",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "07574": [
     {
       "entity_id": "dataset_facebook_uco3d",
@@ -9514,6 +9540,13 @@
       "score": 1.5
     }
   ],
+  "07933": [
+    {
+      "entity_id": "dataset_ignf_pastis_hd",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "07954": [
     {
       "entity_id": "dataset_diffusers_community_pipelines_mirror",
@@ -9960,6 +9993,13 @@
     },
     {
       "entity_id": "model_qwen_qwen_7b_chat",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "08351": [
+    {
+      "entity_id": "dataset_ignf_pastis_hd",
       "match_type": "exact",
       "score": 1.5
     }
@@ -11656,6 +11696,11 @@
     },
     {
       "entity_id": "model_peft_internal_testing_tiny_random_optforcausallm",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_powcal_qwen2_5_math_7b_4bit",
       "match_type": "exact",
       "score": 1.5
     },

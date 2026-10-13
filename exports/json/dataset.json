@@ -1884,6 +1884,27 @@
     "local_path": "datasets/kazimir-ai/hf_ds_65ce59255f233e28db20fe4f.json"
   },
   {
+    "id": "hf_ds_65d51c4ce42dc55225cd92ea",
+    "title": "nasa-impact/WxC-Bench",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "doi:10.57967/hf/7711",
+      "license:mit",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/nasa-impact"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nasa-impact/WxC-Bench",
+    "local_path": "datasets/nasa-impact/hf_ds_65d51c4ce42dc55225cd92ea.json"
+  },
+  {
     "id": "hf_ds_6601c221829a6282b76a308d",
     "title": "uwipl/RT-Pose",
     "category": "dataset",
@@ -2512,6 +2533,23 @@
     },
     "source_url": "https://huggingface.co/datasets/HuggingFaceH4/MATH-500",
     "local_path": "datasets/huggingfaceh4/hf_ds_67374c18c32c765810f748f6.json"
+  },
+  {
+    "id": "hf_ds_673751cfb7d352f8c1f5564b",
+    "title": "orionweller/generic_data_v2",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/orionweller/generic_data_v2",
+    "local_path": "datasets/orionweller/hf_ds_673751cfb7d352f8c1f5564b.json"
   },
   {
     "id": "hf_ds_675d7e29e24babdf1842d270",
@@ -5678,8 +5716,15 @@
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
+      "format:parquet",
+      "library:dask",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:polars",
       "license:apache-2.0",
-      "region:us"
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M"
     ],
     "links": {
       "related_models": [],

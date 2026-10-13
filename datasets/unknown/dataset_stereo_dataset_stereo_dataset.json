@@ -5,11 +5,11 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-07-23T19:41:33.000Z",
-  "likes": 11,
+  "likes": 12,
   "private": false,
   "sha": "ae4aad824b88e7076172d8901cbe70fd649583bc",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tStereo Dataset\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nStereoDataset is a synthetic multiview stereo dataset rendered in Unreal Engine.\nEach scene combines a map, a character mesh, an animation clip, a validated\nspawn location, and a camera trajectory. The released scene folders contain\nsynchronized per-camera RGB videos (cam_XX_rgb.mp4), per-camera depth videos\n(cam_XX_depth.mkv), and scene-level metadata including _scene_complete.json,\ntrajectory.json, and baseline.json.\nThe dataset is… See the full description on the dataset page: https://huggingface.co/datasets/stereo-dataset/stereo-dataset.",
-  "downloads": 51865,
+  "downloads": 51959,
   "tags": [
     "task_categories:depth-estimation",
     "language:en",

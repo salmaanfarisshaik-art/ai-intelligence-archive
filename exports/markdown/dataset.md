@@ -268,6 +268,12 @@
 - **URL**: [https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts](https://huggingface.co/datasets/Kazimir-ai/text-to-image-prompts)
 - **Tags**: format:csv, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:text, prompts, region:us, size_categories:10K<n<100K, stable diffusion, text-to-image
 
+## nasa-impact/WxC-Bench
+- **ID**: hf_ds_65d51c4ce42dc55225cd92ea
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nasa-impact/WxC-Bench](https://huggingface.co/datasets/nasa-impact/WxC-Bench)
+- **Tags**: doi:10.57967/hf/7711, license:mit, region:us
+
 ## uwipl/RT-Pose
 - **ID**: hf_ds_6601c221829a6282b76a308d
 - **Source**: HuggingFace Datasets
@@ -399,6 +405,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/HuggingFaceH4/MATH-500](https://huggingface.co/datasets/HuggingFaceH4/MATH-500)
 - **Tags**: format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:n<1K, task_categories:text-generation
+
+## orionweller/generic_data_v2
+- **ID**: hf_ds_673751cfb7d352f8c1f5564b
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/orionweller/generic_data_v2](https://huggingface.co/datasets/orionweller/generic_data_v2)
+- **Tags**: region:us
 
 ## m-a-p/FineFineWeb
 - **ID**: hf_ds_675d7e29e24babdf1842d270
@@ -1100,7 +1112,7 @@
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/StringFellow/fusion-dw](https://huggingface.co/datasets/StringFellow/fusion-dw)
-- **Tags**: license:apache-2.0, region:us
+- **Tags**: format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, region:us, size_categories:1M<n<10M
 
 ## inclusionAI/OpenAoE-2000h
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93

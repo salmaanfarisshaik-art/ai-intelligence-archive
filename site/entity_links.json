@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T07:22:53Z",
+  "generated_at": "2026-10-13T15:37:50Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -380,6 +380,11 @@
       "source_id": "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
       "target_id": "hf_nvidia_nemotron-pre-training-datasets",
       "type": "trained_on"
+    },
+    {
+      "source_id": "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
+      "target_id": "hf_Qwen_Qwen2.5-VL-7B-Instruct",
+      "type": "derived_from"
     },
     {
       "source_id": "hf_nvidia_Qwen3.6-35B-A3B-NVFP4",
@@ -1175,6 +1180,26 @@
       "source_id": "model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf",
       "target_id": "hf_Kwaipilot_KAT-Coder-V2.5-Dev",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_l3_8b_stheno_v3_2_gguf",
+      "target_id": "hf_Gryphe_Opus-WritingPrompts",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_l3_8b_stheno_v3_2_gguf",
+      "target_id": "hf_Sao10K_Claude-3-Opus-Instruct-15K",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_l3_8b_stheno_v3_2_gguf",
+      "target_id": "hf_Sao10K_Short-Storygen-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_l3_8b_stheno_v3_2_gguf",
+      "target_id": "hf_Sao10K_c2-Logs-Filtered",
+      "type": "trained_on"
     },
     {
       "source_id": "model_bartowski_ling_3_0_tiny_gguf",
@@ -3000,6 +3025,16 @@
       "source_id": "model_ibnzterrell_meta_llama_3_3_70b_instruct_awq_int4",
       "target_id": "hf_meta-llama_Llama-3.3-70B-Instruct",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b",
+      "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b",
+      "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
+      "type": "trained_on"
     },
     {
       "source_id": "model_ifm_k2_horizon_7b_uno",
@@ -9394,6 +9429,11 @@
     {
       "source_id": "model_xhtoken_spark_x2_5_1_7b_gguf",
       "target_id": "hf_XHToken_Spark-X2.5-1.7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_xhtoken_spark_x2_5_4b",
+      "target_id": "hf_XHToken_Spark-X2.5-4B-Base",
       "type": "derived_from"
     },
     {
