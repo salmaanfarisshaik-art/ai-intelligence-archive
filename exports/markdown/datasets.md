@@ -1049,6 +1049,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_blanchon_aid
+- **Source**: 
+
+## 
 - **ID**: dataset_blanchon_cs2_dataset_render
 - **Source**: 
 
@@ -1058,6 +1062,10 @@
 
 ## 
 - **ID**: dataset_blsmash044_sa_med3d_140k
+- **Source**: 
+
+## 
+- **ID**: dataset_blueyo0_sa_med3d_140k
 - **Source**: 
 
 ## 
@@ -1574,6 +1582,10 @@
 
 ## 
 - **ID**: dataset_dazhiyang_bsrn_merra2
+- **Source**: 
+
+## 
+- **ID**: dataset_dbdin_suupp
 - **Source**: 
 
 ## 
@@ -2449,6 +2461,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gresashala_hpo_rl_bench_data
+- **Source**: 
+
+## 
 - **ID**: dataset_griffinlabs_egodex_lerobot_v3_0
 - **Source**: 
 
@@ -2494,6 +2510,10 @@
 
 ## 
 - **ID**: dataset_hails_mmlu_no_train
+- **Source**: 
+
+## 
+- **ID**: dataset_haisuguan_evobc
 - **Source**: 
 
 ## 
@@ -2573,6 +2593,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_harshinde_sdo
+- **Source**: 
+
+## 
 - **ID**: dataset_hasankursun_github_code_2025_language_split
 - **Source**: 
 
@@ -2614,6 +2638,10 @@
 
 ## 
 - **ID**: dataset_heshamdahy_stanford_products_images
+- **Source**: 
+
+## 
+- **ID**: dataset_hf_audio_open_asr_leaderboard
 - **Source**: 
 
 ## 
@@ -4333,6 +4361,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ignf_pastis_hd
+- **Source**: 
+
+## 
 - **ID**: dataset_igniscogitationis_quantum_like_attention_framework_1_3b_untuned_validation
 - **Source**: 
 
@@ -5245,6 +5277,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_llm_jp_leaderboard_requests
+- **Source**: 
+
+## 
 - **ID**: dataset_lmarena_ai_arena_human_preference_140k
 - **Source**: 
 
@@ -5765,6 +5801,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mickeykang_event6dblender
+- **Source**: 
+
+## 
 - **ID**: dataset_microscope_project_microscope_data
 - **Source**: 
 
@@ -5794,6 +5834,14 @@
 
 ## 
 - **ID**: dataset_ml_resources_daimon_infinity
+- **Source**: 
+
+## 
+- **ID**: dataset_mlabonne_harmful_behaviors
+- **Source**: 
+
+## 
+- **ID**: dataset_mlabonne_harmless_alpaca
 - **Source**: 
 
 ## 
@@ -6430,6 +6478,10 @@
 
 ## 
 - **ID**: dataset_nvidia_sage_10k
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_simready_assets
 - **Source**: 
 
 ## 
@@ -7185,6 +7237,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_qcri_crisismmd
+- **Source**: 
+
+## 
 - **ID**: dataset_qdrant_fineweb_10b
 - **Source**: 
 
@@ -7861,6 +7917,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sjtu_deng_lab_mirrorppr47m
+- **Source**: 
+
+## 
 - **ID**: dataset_skpark1_ngii_map_full_light
 - **Source**: 
 
@@ -7938,6 +7998,10 @@
 
 ## 
 - **ID**: dataset_stal_ix_pkgsrc
+- **Source**: 
+
+## 
+- **ID**: dataset_stanford_star_relbench_v1
 - **Source**: 
 
 ## 
@@ -9150,6 +9214,10 @@
 
 ## 
 - **ID**: dataset_zellic_smart_contract_fiesta
+- **Source**: 
+
+## 
+- **ID**: dataset_zenoning_garmentcodevtondataset
 - **Source**: 
 
 ## 

@@ -3016,6 +3016,11 @@
 - **URL**: [https://openai.com/index/higgsfield-from-prompt-to-production-with-astra](https://openai.com/index/higgsfield-from-prompt-to-production-with-astra)
 
 ## 
+- **ID**: rss_https://openai.com/index/higgsfield-longer-videos-voice
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/higgsfield-longer-videos-voice](https://openai.com/index/higgsfield-longer-videos-voice)
+
+## 
 - **ID**: rss_https://openai.com/index/hindsight-experience-replay
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/hindsight-experience-replay](https://openai.com/index/hindsight-experience-replay)

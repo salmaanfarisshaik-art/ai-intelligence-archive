@@ -532,6 +532,10 @@
 - **ID**: model_bartowski_kwaipilot_kat_coder_v2_5_dev_gguf
 - **Source**: 
 
+## bartowski/L3-8B-Stheno-v3.2-GGUF
+- **ID**: model_bartowski_l3_8b_stheno_v3_2_gguf
+- **Source**: 
+
 ## bartowski/Ling-3.0-tiny-GGUF
 - **ID**: model_bartowski_ling_3_0_tiny_gguf
 - **Source**: 
@@ -2222,6 +2226,10 @@
 
 ## IFM/K2-Horizon-0.9B
 - **ID**: model_ifm_k2_horizon_0_9b
+- **Source**: 
+
+## IFM/K2-Horizon-7B
+- **ID**: model_ifm_k2_horizon_7b
 - **Source**: 
 
 ## IFM/K2-Horizon-7B-Uno
@@ -4692,6 +4700,10 @@
 - **ID**: model_poolside_laguna_xs_2_1_nvfp4
 - **Source**: 
 
+## PowCal/Qwen2.5-Math-7B-4bit
+- **ID**: model_powcal_qwen2_5_math_7b_4bit
+- **Source**: 
+
 ## prefeitura-rio/Rio-3.0-Open-Mini
 - **ID**: model_prefeitura_rio_rio_3_0_open_mini
 - **Source**: 
@@ -7062,6 +7074,10 @@
 
 ## XHToken/Spark-X2.5-1.7B-GGUF
 - **ID**: model_xhtoken_spark_x2_5_1_7b_gguf
+- **Source**: 
+
+## XHToken/Spark-X2.5-4B
+- **ID**: model_xhtoken_spark_x2_5_4b
 - **Source**: 
 
 ## XHToken/Spark-X2.5-4B-GGUF
