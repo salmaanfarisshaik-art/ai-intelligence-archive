@@ -325,6 +325,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_allenai_madlad_400
+- **Source**: 
+
+## 
 - **ID**: dataset_allenai_molmoact2_bimanualyam_dataset
 - **Source**: 
 
@@ -953,6 +957,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_benchmark_anon_2026_roadmapbench
+- **Source**: 
+
+## 
 - **ID**: dataset_benjamin_paine_freesound_laion_640k
 - **Source**: 
 
@@ -1517,6 +1525,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_damaru_ai_damru_knowledge
+- **Source**: 
+
+## 
 - **ID**: dataset_dangthanh1991_dangthanh1991
 - **Source**: 
 
@@ -2009,6 +2021,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_farama_minari_d4rl
+- **Source**: 
+
+## 
 - **ID**: dataset_farama_minari_minigrid
 - **Source**: 
 
@@ -2318,6 +2334,10 @@
 
 ## 
 - **ID**: dataset_gfdg34fsd_shrink2
+- **Source**: 
+
+## 
+- **ID**: dataset_gifoe_persistent
 - **Source**: 
 
 ## 
@@ -2982,6 +3002,10 @@
 
 ## 
 - **ID**: dataset_huong2000_huong2000
+- **Source**: 
+
+## 
+- **ID**: dataset_huseyincavus_physionet_ecg_arrhythmia_1_0_0
 - **Source**: 
 
 ## 
@@ -4397,11 +4421,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_intelligencelab_long_horizon_terminal_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_internlm_wildclawbench
 - **Source**: 
 
 ## 
 - **ID**: dataset_internrobotics_interndata_a1
+- **Source**: 
+
+## 
+- **ID**: dataset_internrobotics_interndata_bridgev2
 - **Source**: 
 
 ## 
@@ -4458,6 +4490,10 @@
 
 ## 
 - **ID**: dataset_ipec_community_droid_lerobot
+- **Source**: 
+
+## 
+- **ID**: dataset_ipec_community_eo_data1_5m
 - **Source**: 
 
 ## 
@@ -4665,6 +4701,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jhu_clsp_mmbert_decay_data
+- **Source**: 
+
+## 
 - **ID**: dataset_jiaqi_chen_3d_front
 - **Source**: 
 
@@ -4821,6 +4861,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_kbsdjames_omni_math
+- **Source**: 
+
+## 
 - **ID**: dataset_kcimc_nuforc
 - **Source**: 
 
@@ -4830,6 +4874,10 @@
 
 ## 
 - **ID**: dataset_kennyvale_meeti
+- **Source**: 
+
+## 
+- **ID**: dataset_kgshop_babyclo
 - **Source**: 
 
 ## 
@@ -5613,6 +5661,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mcgill_nlp_agent_reward_bench
+- **Source**: 
+
+## 
 - **ID**: dataset_mcgill_nlp_weblinx_browsergym
 - **Source**: 
 
@@ -5794,6 +5846,10 @@
 
 ## 
 - **ID**: dataset_mlfoundations_dcvlm_pool_medium
+- **Source**: 
+
+## 
+- **ID**: dataset_mlfoundations_dcvlm_pool_small
 - **Source**: 
 
 ## 
@@ -6413,7 +6469,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_oitaaa_gdp_pdf
+- **Source**: 
+
+## 
 - **ID**: dataset_oleehyo_latex_formulas_80m
+- **Source**: 
+
+## 
+- **ID**: dataset_omegalabsinc_omega_voice
 - **Source**: 
 
 ## 
@@ -6681,6 +6745,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_opengvlab_sa_med2d_20m
+- **Source**: 
+
+## 
 - **ID**: dataset_opengvlab_videochat_flash_training_data
 - **Source**: 
 
@@ -6770,6 +6838,10 @@
 
 ## 
 - **ID**: dataset_p2samapa_p2_etf_samba_models
+- **Source**: 
+
+## 
+- **ID**: dataset_pablovela5620_nerf_synthetic_mirror
 - **Source**: 
 
 ## 
@@ -7294,6 +7366,10 @@
 
 ## 
 - **ID**: dataset_ridheshbhati_complete_data_source_100k_hours
+- **Source**: 
+
+## 
+- **ID**: dataset_rigcor7_debunk_traffic_representation
 - **Source**: 
 
 ## 
@@ -7882,6 +7958,10 @@
 
 ## 
 - **ID**: dataset_starvla_robotwin_randomized
+- **Source**: 
+
+## 
+- **ID**: dataset_stereo_dataset_stereo_dataset
 - **Source**: 
 
 ## 
@@ -8794,6 +8874,10 @@
 
 ## 
 - **ID**: dataset_xiaomimimo_mimo_v2_6_rl_oss
+- **Source**: 
+
+## 
+- **ID**: dataset_xiaowu0162_longmemeval_cleaned
 - **Source**: 
 
 ## 

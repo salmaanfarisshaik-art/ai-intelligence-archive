@@ -95,6 +95,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/MemPalace/mempalace](https://github.com/MemPalace/mempalace)
 
+## VoiceStudio
+- **ID**: gh_1206390571
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)
+
 ## meilisearch
 - **ID**: gh_130688011
 - **Source**: GitHub Trending

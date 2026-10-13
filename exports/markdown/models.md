@@ -1116,6 +1116,10 @@
 - **ID**: model_cyberneurova_cyberneurova_deepseek_v4_flash_abliterated_gguf
 - **Source**: 
 
+## CypherTroopers/CPH-Community-7B
+- **ID**: model_cyphertroopers_cph_community_7b
+- **Source**: 
+
 ## datajuicer/LLaMA-1B-dj-refine-150B
 - **ID**: model_datajuicer_llama_1b_dj_refine_150b
 - **Source**: 
@@ -1968,6 +1972,10 @@
 - **ID**: model_hmellor_tiny_random_llamaforcausallm
 - **Source**: 
 
+## Hob-forge/Kolibri-1-GGUF
+- **ID**: model_hob_forge_kolibri_1_gguf
+- **Source**: 
+
 ## hpcai-tech/grok-1
 - **ID**: model_hpcai_tech_grok_1
 - **Source**: 
@@ -2494,6 +2502,10 @@
 
 ## KevinJK51/Qwen3.6-12B-IQ-Ultra-Heretic-Uncensored-Thinking-V2-Hightop-GGUF
 - **ID**: model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf
+- **Source**: 
+
+## kindlingai/glm-5.3-exlr8-k2-k3-k4
+- **ID**: model_kindlingai_glm_5_3_exlr8_k2_k3_k4
 - **Source**: 
 
 ## kingjones777/Qwen3.8-27B-ROCmFP4-STRIX-MTP-GGUF
@@ -7266,6 +7278,10 @@
 
 ## zerofata/L3.3-GeneticLemonade-Final-v2-70B
 - **ID**: model_zerofata_l3_3_geneticlemonade_final_v2_70b
+- **Source**: 
+
+## zetasepic/Qwen2.5-72B-Instruct-abliterated-GGUF
+- **ID**: model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf
 - **Source**: 
 
 ## zhiqiulin/clip-flant5-xl
