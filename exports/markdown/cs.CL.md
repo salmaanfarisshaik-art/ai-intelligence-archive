@@ -3935,3 +3935,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13912v1](http://arxiv.org/abs/2610.13912v1)
 
+## Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges
+- **ID**: arxiv_2610.18766v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18766v1](http://arxiv.org/abs/2610.18766v1)
+
+## Where Do LLM Ensemble Gains Come From? Decomposing Candidate Value, Diversity, and Aggregation
+- **ID**: arxiv_2610.18786v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18786v1](http://arxiv.org/abs/2610.18786v1)
+
+## Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs
+- **ID**: arxiv_2610.18818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18818v1](http://arxiv.org/abs/2610.18818v1)
+
+## Hybrid Reasoning Agents
+- **ID**: arxiv_2610.18861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18861v1](http://arxiv.org/abs/2610.18861v1)
+
+## DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning
+- **ID**: arxiv_2610.18862v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18862v1](http://arxiv.org/abs/2610.18862v1)
+
+## Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
+- **ID**: arxiv_2610.18868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18868v1](http://arxiv.org/abs/2610.18868v1)
+

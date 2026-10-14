@@ -5955,3 +5955,88 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)
 
+## MIST: Multi-Scale Spatial Context for Gene Expression Prediction from Histology
+- **ID**: arxiv_2610.18769v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18769v1](http://arxiv.org/abs/2610.18769v1)
+
+## The Federated Tumor Segmentation and Classification (FeTS++) Challenge
+- **ID**: arxiv_2610.18771v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18771v1](http://arxiv.org/abs/2610.18771v1)
+
+## GAD: Geometry Attention Distillation for Consistent Video Generation
+- **ID**: arxiv_2610.18779v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18779v1](http://arxiv.org/abs/2610.18779v1)
+
+## Trust Before Autonomy: Rethinking Agentic Remote Sensing for Crisis Response
+- **ID**: arxiv_2610.18789v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18789v1](http://arxiv.org/abs/2610.18789v1)
+
+## Registration is a Representation Problem: Solving Whole-Body PET/CT Registration
+- **ID**: arxiv_2610.18804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18804v1](http://arxiv.org/abs/2610.18804v1)
+
+## DuplexBridge: Coordinating Understanding and Generation for Unified Image Editing
+- **ID**: arxiv_2610.18819v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18819v1](http://arxiv.org/abs/2610.18819v1)
+
+## OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding
+- **ID**: arxiv_2610.18829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18829v1](http://arxiv.org/abs/2610.18829v1)
+
+## Game2Real-Bench: Do Toy Games Reveal and Transfer to Real-World Visual Reasoning?
+- **ID**: arxiv_2610.18834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18834v1](http://arxiv.org/abs/2610.18834v1)
+
+## Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds?
+- **ID**: arxiv_2610.18836v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18836v1](http://arxiv.org/abs/2610.18836v1)
+
+## RepProbe: Can Video Language Models Count Repeated Actions? A Diagnostic Benchmark
+- **ID**: arxiv_2610.18844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18844v1](http://arxiv.org/abs/2610.18844v1)
+
+## The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement
+- **ID**: arxiv_2610.18845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18845v1](http://arxiv.org/abs/2610.18845v1)
+
+## WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World
+- **ID**: arxiv_2610.18846v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18846v1](http://arxiv.org/abs/2610.18846v1)
+
+## PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts
+- **ID**: arxiv_2610.18857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18857v1](http://arxiv.org/abs/2610.18857v1)
+
+## Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs
+- **ID**: arxiv_2610.18858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18858v1](http://arxiv.org/abs/2610.18858v1)
+
+## PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning
+- **ID**: arxiv_2610.18865v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18865v1](http://arxiv.org/abs/2610.18865v1)
+
+## Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs
+- **ID**: arxiv_2610.18870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18870v1](http://arxiv.org/abs/2610.18870v1)
+
+## Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion
+- **ID**: arxiv_2610.18871v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18871v1](http://arxiv.org/abs/2610.18871v1)
+

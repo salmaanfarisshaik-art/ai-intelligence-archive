@@ -1,7 +1,7 @@
 {
   "_id": "6aa213563d5b3527359d1af2",
   "id": "deepseek-ai/DeepSeek-V4.1-Flash",
-  "likes": 4472,
+  "likes": 4480,
   "private": false,
   "downloads": 1272612,
   "tags": [
@@ -17,7 +17,8 @@
     "8-bit",
     "fp8",
     "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "deploy:sagemaker"
   ],
   "pipeline_tag": "image-text-to-text",
   "library_name": "transformers",

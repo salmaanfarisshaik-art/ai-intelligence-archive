@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.15828v2",
+  "schema_version": "1.0",
+  "name": "Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.15828v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.15828v2",
+    "updated": "2026-10-13T17:57:26Z",
+    "published": "2026-02-17T18:59:31Z",
+    "title": "Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation",
+    "summary": "Learning generalist policies capable of accomplishing a wide range of everyday tasks remains an open challenge in dexterous manipulation. In particular, collecting large-scale manipulation data via real-world teleoperation is expensive and difficult to scale. While learning in simulation provides a feasible alternative, designing multiple task-specific environments and rewards for training is similarly challenging. We propose Dex4D, a framework that instead leverages simulation for learning task-agnostic dexterous skills that can be flexibly recomposed to perform diverse real-world manipulation tasks. Specifically, Dex4D learns a domain-agnostic 3D point track conditioned policy capable of transforming a rigid object from a current pose to a target pose. We train this 'Anypose-to-Anypose' policy in simulation across thousands of objects with diverse pose configurations, covering a broad space of robot-object interactions that can be composed at test time. At deployment, this policy can be zero-shot transferred to real-world tasks without finetuning, simply by prompting it with desired object-centric point tracks extracted from generated videos. During execution, Dex4D uses online point tracking for closed-loop perception and control. Extensive experiments in simulation and on real robots show that our method enables zero-shot deployment for diverse dexterous manipulation tasks and yields consistent improvements over prior baselines. Furthermore, we demonstrate strong generalization to novel objects, scene layouts, backgrounds, and trajectories, highlighting the robustness and scalability of the proposed framework. Project page: https://dex4d.github.io/.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:57:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.15828v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.26806v3](http://arxiv.org/abs/2609.26806v3)
 
+## Proofs Without Nominals: Gödel's Ontological Argument, its Shallow Embedding, and the Open Questions of the Monatshefte Notes
+- **ID**: arxiv_2609.36279v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.36279v3](http://arxiv.org/abs/2609.36279v3)
+

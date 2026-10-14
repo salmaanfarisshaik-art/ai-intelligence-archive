@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18771v1",
+  "schema_version": "1.0",
+  "name": "The Federated Tumor Segmentation and Classification (FeTS++) Challenge",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18771v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18771v1",
+    "updated": "2026-10-13T17:30:39Z",
+    "published": "2026-10-13T17:30:39Z",
+    "title": "The Federated Tumor Segmentation and Classification (FeTS++) Challenge",
+    "summary": "International challenges have become the standard for developing and benchmarking biomedical image analysis methods using centralized multi-institutional data. Federated learning (FL) describes a paradigm-shift on multi-institutional collaborations, where models are trained across institutions while their data are always retained locally. The Federated Tumor Segmentation (FeTS) challenge, first held in 2021, was the first challenge dedicated to FL in medical imaging and editions in 2022 and 2024 pushed the frontiers of real-world method validation. FeTS++ 2027 returns after a two-year gap with a substantially larger and more diverse cohort, and with the two \"pluses\" that name the challenge: an official classification task alongside segmentation, and a move of the infrastructure to NVIDIA FLARE (NVFlare). Built on the clinically acquired, multi-institutional multi-parametric MRI data of the BraTS 2025 Lighthouse challenge, FeTS++ spans gliomas and meningiomas across patient cohorts from institutions in North America, Europe, Asia, and Africa, and focuses on ranking submitted methodological approaches according to their model utility and an efficiency-aware score. Task 1 asks participants to find the best strategy for aggregating knowledge from per-institution segmentation models, while Task 2 asks them to distinguish glioma from meningioma under the same federated protocol, in which the entity label is heavily confounded with the site of origin.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:30:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18771v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

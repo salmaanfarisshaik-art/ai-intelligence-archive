@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18865v1",
+  "schema_version": "1.0",
+  "name": "PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18865v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18865v1",
+    "updated": "2026-10-13T17:59:50Z",
+    "published": "2026-10-13T17:59:50Z",
+    "title": "PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning",
+    "summary": "Generating editable graphic designs requires arranging visual and textual elements into a coherent composition while preserving their content and editability. Although recent MLLM-based approaches employ iterative generation and visual refinement to reflect the real-world design workflows, their high-level plans are predetermined prior to execution, limiting their adaptability as the design evolves. To address this limitation, we propose PlayGround, a progressive layout generation framework that dynamically adapts to the current rendered canvas. PlayGround establishes a progressive design loop comprising a Progressive Planner, a Layout Generator, and a Visual Verifier, guided by a Structure-Aware Retriever. Given an initial set of unordered elements, the Structure-Aware Retriever initially infers a coarse layout structure to retrieve structurally similar reference designs. Subsequently, at each turn, the Progressive Planner examines the current rendered canvas alongside the remaining elements, forms the next functional group, and plans its composition. The Layout Generator then predicts editable layout attributes, while the Visual Verifier evaluates rendered candidates and provides feedback when refinement is necessary. To train the Progressive Planner with step-wise supervision, we construct a two-stage data generation pipeline that extracts functional groups and turn-level planning trajectories from completed designs. Experiments on Crello and LICA demonstrate the effectiveness of PlayGround over existing methods. Our code and weights will be publicly released.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:59:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18865v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

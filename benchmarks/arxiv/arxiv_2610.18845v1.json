@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18845v1",
+  "schema_version": "1.0",
+  "name": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18845v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18845v1",
+    "updated": "2026-10-13T17:57:51Z",
+    "published": "2026-10-13T17:57:51Z",
+    "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+    "summary": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifiable task can be cast as a harness and a verifier, where the harness defines what the agent may use and the verifier defines what counts as success. Every EO task can be made verifiable, through labeled benchmarks, independent sensors, physical models or the repeated observation of the same place. Given only these two components, a general-purpose coding agent builds the EO model and improves it recursively on its own outputs. Settings long treated as separate research problems, from learning with a handful of labels to adapting across domains, become choices of harness and verifier. On four EO benchmarks spanning optical, SAR and multispectral time-series imagery, agent-built models surpass the state of the art and keep most of that accuracy from about 1% of the training labels. This establishes a new paradigm for EO, in which people design harnesses and verifiers and agents build the models, so EO models improve as agents do.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:57:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18845v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18843v1",
+  "schema_version": "1.0",
+  "name": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18843v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18843v1",
+    "updated": "2026-10-13T17:57:18Z",
+    "published": "2026-10-13T17:57:18Z",
+    "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+    "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different rates, and end-effector pads wear down. We present LIBERO-RIG, a benchmark that perturbs only the robot's hardware and setup while holding every LIBERO task fixed. The benchmark spans eleven perturbation axes, including camera mounting and optics, camera-to-arm calibration, actuation gain, control rate, proprioceptive noise, base pose, table height, and gripper pads. Each axis has five severity levels, yielding 210 conditions across the four LIBERO suites. We evaluate nine recent vision-language-action models using 500 episodes per condition and substantiate each finding with rigorous statistical tests. Pooled success falls from 0.932 to 0.767 at the middle severity and 0.509 at the highest severity. Performance degradation varies substantially across perturbation axes and action interfaces, and training on visual perturbations does not mitigate faults that leave camera images unchanged. We release the benchmark together with manifests specifying the fixed perturbation parameters for each episode.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:57:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18843v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

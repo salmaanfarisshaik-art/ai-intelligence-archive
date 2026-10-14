@@ -3706,6 +3706,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_daniilakk_cheboksary_public_transport_gps_daily",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_digitallearninggmbh_math_lighteval",
       "match_type": "exact",
       "score": 1.0
@@ -4684,11 +4689,6 @@
     },
     {
       "entity_id": "dataset_intellabs_bluelens",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
-      "entity_id": "dataset_tahoebio_tahoe_100m",
       "match_type": "exact",
       "score": 2.0
     },
@@ -9622,6 +9622,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_robotooldataset_tooldex_data",
       "match_type": "exact",
       "score": 1.5
@@ -10264,14 +10269,14 @@
   ],
   "100m": [
     {
-      "entity_id": "model_supralabs_supra2_100m_instruct",
+      "entity_id": "dataset_tahoebio_tahoe_100m",
       "match_type": "exact",
       "score": 5.0
     },
     {
-      "entity_id": "dataset_tahoebio_tahoe_100m",
+      "entity_id": "model_supralabs_supra2_100m_instruct",
       "match_type": "exact",
-      "score": 4.0
+      "score": 5.0
     },
     {
       "entity_id": "dataset_kokosdev_tahoe_100m_zarr",
@@ -10282,11 +10287,6 @@
       "entity_id": "hf_ds_tahoebio_Tahoe-100M",
       "match_type": "exact",
       "score": 3.0
-    },
-    {
-      "entity_id": "dataset_0xkai_core0app0",
-      "match_type": "exact",
-      "score": 1.5
     },
     {
       "entity_id": "dataset_86cao_megapairs_standard",
@@ -18125,6 +18125,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -41401,11 +41406,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "dataset_0xkai_core0app0",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_agibot_world_agibotworld_beta",
       "match_type": "exact",
       "score": 1.5
@@ -42062,11 +42062,6 @@
     },
     {
       "entity_id": "dataset_abdomenatlas_abdomenatlas1_0minibeta",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_actiquest_dev_tarakanov_notes",
       "match_type": "exact",
       "score": 1.5
     },
@@ -43766,11 +43761,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_szfspc_buyservices_backup",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_tanganke_dtd",
       "match_type": "exact",
       "score": 1.5
@@ -45389,6 +45379,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_robeedau_airlens_live",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_ropedia_ai_xperience_10m",
       "match_type": "exact",
       "score": 1.5
@@ -45530,6 +45525,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },

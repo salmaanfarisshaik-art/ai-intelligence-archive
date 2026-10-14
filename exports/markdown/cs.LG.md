@@ -335,6 +335,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.15010v2](http://arxiv.org/abs/2604.15010v2)
 
+## Beyond Single-Model Optimization: Preserving Plasticity in Continual Reinforcement Learning
+- **ID**: arxiv_2604.15414v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.15414v3](http://arxiv.org/abs/2604.15414v3)
+
 ## Green-ELM: Efficient Analytic Learning via High-Dimensional Random Projections
 - **ID**: arxiv_2604.15613v4
 - **Source**: ArXiv
@@ -2070,6 +2075,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12445v1](http://arxiv.org/abs/2610.12445v1)
 
+## Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception
+- **ID**: arxiv_2610.12445v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12445v2](http://arxiv.org/abs/2610.12445v2)
+
 ## Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems
 - **ID**: arxiv_2610.12449v1
 - **Source**: ArXiv
@@ -2099,4 +2109,24 @@
 - **ID**: arxiv_2610.13909v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13909v1](http://arxiv.org/abs/2610.13909v1)
+
+## SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection
+- **ID**: arxiv_2610.18807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18807v1](http://arxiv.org/abs/2610.18807v1)
+
+## Scaling Online Optimal Transport Minibatches for Flow Matching
+- **ID**: arxiv_2610.18838v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18838v1](http://arxiv.org/abs/2610.18838v1)
+
+## Fast Rates for Offline Q-Learning with KL Regularization
+- **ID**: arxiv_2610.18839v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18839v1](http://arxiv.org/abs/2610.18839v1)
+
+## Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards
+- **ID**: arxiv_2610.18853v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18853v1](http://arxiv.org/abs/2610.18853v1)
 

@@ -420,3 +420,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12463v1](http://arxiv.org/abs/2610.12463v1)
 
+## Bytes to Threats: Byte-Sequence Transformer For Malware Detection
+- **ID**: arxiv_2610.18787v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18787v1](http://arxiv.org/abs/2610.18787v1)
+

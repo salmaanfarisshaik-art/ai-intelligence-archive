@@ -3820,3 +3820,43 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13948v1](http://arxiv.org/abs/2610.13948v1)
 
+## Jeva: System One Models from First Principles
+- **ID**: arxiv_2610.18773v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18773v1](http://arxiv.org/abs/2610.18773v1)
+
+## BLADE: Auditing Information Use for Failure Attribution in LLM Multi-Agent Systems
+- **ID**: arxiv_2610.18780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18780v1](http://arxiv.org/abs/2610.18780v1)
+
+## Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents
+- **ID**: arxiv_2610.18784v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18784v1](http://arxiv.org/abs/2610.18784v1)
+
+## Self-Evolving Agent Harness
+- **ID**: arxiv_2610.18813v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18813v1](http://arxiv.org/abs/2610.18813v1)
+
+## Read the Room Before Your Model Generates
+- **ID**: arxiv_2610.18820v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18820v1](http://arxiv.org/abs/2610.18820v1)
+
+## Who Improves the Robot? Toward Physical Recursive Self-Improvement
+- **ID**: arxiv_2610.18842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18842v1](http://arxiv.org/abs/2610.18842v1)
+
+## MFG: Multi-turn Feedback Guided Molecular Optimization
+- **ID**: arxiv_2610.18851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18851v1](http://arxiv.org/abs/2610.18851v1)
+
+## AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards
+- **ID**: arxiv_2610.18860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18860v1](http://arxiv.org/abs/2610.18860v1)
+

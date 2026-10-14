@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18842v1",
+  "schema_version": "1.0",
+  "name": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18842v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18842v1",
+    "updated": "2026-10-13T17:57:04Z",
+    "published": "2026-10-13T17:57:04Z",
+    "title": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+    "summary": "Robots are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical experience guides lasting updates to both a robot's capabilities and its improvement procedure, making subsequent improvement more effective across tasks. Physical RSI faces challenges from noisy observations, continuous dynamics, costly trials, and irreversible consequences. We present an L0-L5 framework that differentiates capability-level from meta-level updates and within-task from across-task gains, reserving L5 for independently verified recursive gain. We study existing methods around harness adaptation and model training, alongside safety and control mechanisms that govern execution and successive updates. Our analysis reveals that, despite substantial progress in self-improvement, the surveyed literature does not yet demonstrate Physical RSI as defined by our framework. We identify research priorities in reliable feedback, causal attribution, safety preservation, and benchmarking, outlining a path toward robots that autonomously improve how they learn while ensuring safety. The GitHub repository for Physical RSI is available at https://github.com/SAIL-Research-Lab/Physical-RSI.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:57:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18842v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

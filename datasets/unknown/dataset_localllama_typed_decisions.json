@@ -4,10 +4,10 @@
   "author": "LocalLLaMA",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-13T22:33:02.000Z",
-  "likes": 183,
+  "lastModified": "2026-10-14T05:20:13.000Z",
+  "likes": 184,
   "private": false,
-  "sha": "f8f66519154bac5598636315f5247a8ce479db0a",
+  "sha": "7189f46b02248bd2569df7325c9df8e3b24e90a7",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tTyped Decisions\n\t\n\nA benchmark for typed probabilistic decisions. A model gets one piece of\nunstructured state and answers five typed questions about it at once, and every\nanswer is a probability distribution, not a single label.\nThe schema follows the System One primitives (noul, choice, score) used by\nTypeSafe AI, so a row replays against any API with that\nshape. The benchmark is independent: it is not affiliated with TypeSafe and does\nnot reproduce their Jev model.… See the full description on the dataset page: https://huggingface.co/datasets/LocalLLaMA/typed-decisions.",
   "downloads": 43207,
   "tags": [

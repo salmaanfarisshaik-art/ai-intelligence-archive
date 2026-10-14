@@ -55,6 +55,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13718v2](http://arxiv.org/abs/2602.13718v2)
 
+## Dex4D: Task-Agnostic Point Track Policy for Zero-Shot Dexterous Manipulation
+- **ID**: arxiv_2602.15828v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.15828v2](http://arxiv.org/abs/2602.15828v2)
+
 ## Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics
 - **ID**: arxiv_2602.21203v2
 - **Source**: ArXiv
@@ -894,4 +899,44 @@
 - **ID**: arxiv_2610.13945v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13945v1](http://arxiv.org/abs/2610.13945v1)
+
+## SEAR: Self-Evolving Agentic Robotics
+- **ID**: arxiv_2610.18792v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18792v1](http://arxiv.org/abs/2610.18792v1)
+
+## WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions
+- **ID**: arxiv_2610.18826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18826v1](http://arxiv.org/abs/2610.18826v1)
+
+## RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks
+- **ID**: arxiv_2610.18835v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18835v1](http://arxiv.org/abs/2610.18835v1)
+
+## LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models
+- **ID**: arxiv_2610.18843v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18843v1](http://arxiv.org/abs/2610.18843v1)
+
+## What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study
+- **ID**: arxiv_2610.18869v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18869v1](http://arxiv.org/abs/2610.18869v1)
+
+## EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ
+- **ID**: arxiv_2610.18872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18872v1](http://arxiv.org/abs/2610.18872v1)
+
+## LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+- **ID**: arxiv_2610.18873v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18873v1](http://arxiv.org/abs/2610.18873v1)
+
+## ChunkAct: Action Chunking for Agentic Robotics
+- **ID**: arxiv_2610.18874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18874v1](http://arxiv.org/abs/2610.18874v1)
 

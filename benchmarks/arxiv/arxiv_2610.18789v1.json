@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18789v1",
+  "schema_version": "1.0",
+  "name": "Trust Before Autonomy: Rethinking Agentic Remote Sensing for Crisis Response",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.18789v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18789v1",
+    "updated": "2026-10-13T17:39:23Z",
+    "published": "2026-10-13T17:39:23Z",
+    "title": "Trust Before Autonomy: Rethinking Agentic Remote Sensing for Crisis Response",
+    "summary": "Agentic remote sensing is evaluated on how many questions it can answer, whereas crisis response depends on whether its answers can be relied on and how much of the decision can safely be handed to the agent. This paper argues that \\emph{autonomy should be earned, not assumed}: An Earth-Observation (EO) agent should be granted autonomy in proportion to demonstrated reliability, epistemic honesty and verifiability. The position is supported by an evidential meta-analysis of twelve agentic RS/EO/GIS benchmark studies from peer-reviewed venues. Only one repeats runs, three contain unanswerable tasks and none measures calibration. Their own tables show that completed workflows are often not correct (task success exceeds tool-call correctness by up to 54pp on identical queries), that the gap to an expert trajectory widens overall with trajectory length (from 7 to 56pp), and that capability does not predict abstention (Spearman r from -0.25 to 0.50, all n.s.). The paper then contributes three EO-specific trust properties, an autonomy ladder for crisis EO tasks, and a readiness protocol that replays archived emergency activations before any live use. In this context, current evidence justifies assistive roles only.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T05:49:09Z",
+  "last_updated": "2026-10-13T17:39:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18789v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

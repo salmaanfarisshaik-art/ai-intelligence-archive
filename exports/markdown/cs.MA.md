@@ -90,3 +90,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10468v1](http://arxiv.org/abs/2610.10468v1)
 
+## Optimizing Team Behavior via Extremum-seeking Control in Multi-agent Reinforcement Learning
+- **ID**: arxiv_2610.18808v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18808v1](http://arxiv.org/abs/2610.18808v1)
+
