@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03220v2](http://arxiv.org/abs/2610.03220v2)
 
+## 
+- **ID**: arxiv_2610.03220v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03220v2](http://arxiv.org/abs/2610.03220v2)
+
 ## FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution
 - **ID**: arxiv_2610.03675v1
 - **Source**: ArXiv

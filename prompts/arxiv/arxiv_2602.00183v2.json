@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.00183v2",
+  "schema_version": "1.0",
+  "technique_name": "RPP: A Certified Poisoned-Sample Detection Framework for Backdoor Attacks under Dataset Imbalance",
+  "description": "Deep neural networks are highly susceptible to backdoor attacks, yet most defense methods to date rely on balanced data, overlooking the pervasive class imbalance in real-world scenarios that can amplify backdoor threats. This paper presents the first in-depth investigation of how the dataset imbalance amplifies backdoor vulnerability, showing that (i) the imbalance induces a majority-class bias that increases susceptibility and (ii) conventional defenses degrade significantly as the imbalance g",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2602.00183v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.00183v2",
+    "updated": "2026-10-09T17:09:10Z",
+    "published": "2026-01-30T05:17:54Z",
+    "title": "RPP: A Certified Poisoned-Sample Detection Framework for Backdoor Attacks under Dataset Imbalance",
+    "summary": "Deep neural networks are highly susceptible to backdoor attacks, yet most defense methods to date rely on balanced data, overlooking the pervasive class imbalance in real-world scenarios that can amplify backdoor threats. This paper presents the first in-depth investigation of how the dataset imbalance amplifies backdoor vulnerability, showing that (i) the imbalance induces a majority-class bias that increases susceptibility and (ii) conventional defenses degrade significantly as the imbalance grows. To address this, we propose Randomized Probability Perturbation (RPP), a certified poisoned-sample detection framework that operates in a black-box setting using only model output probabilities. For any inspected sample, RPP determines whether the input has been backdoor-manipulated, while offering provable within-domain detectability guarantees and a probabilistic upper bound on the false positive rate. Extensive experiments on five benchmarks (MNIST, SVHN, CIFAR-10, TinyImageNet and ImageNet10) covering 10 backdoor attacks and 12 baseline defenses show that RPP achieves significantly higher detection accuracy than state-of-the-art defenses, particularly under dataset imbalance. RPP establishes a theoretical and practical foundation for defending against backdoor attacks in real-world environments with imbalanced data.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:09:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.00183v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -125,7 +125,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05500v6](http://arxiv.org/abs/2601.05500v6)
 
+## 
+- **ID**: arxiv_2601.05500v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.05500v6](http://arxiv.org/abs/2601.05500v6)
+
 ## Global Consistency Repair for Natural-Language Claim Sets
+- **ID**: arxiv_2601.13600v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.13600v2](http://arxiv.org/abs/2601.13600v2)
+
+## 
 - **ID**: arxiv_2601.13600v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.13600v2](http://arxiv.org/abs/2601.13600v2)
@@ -246,6 +256,11 @@
 - **URL**: [http://arxiv.org/abs/2603.15220v2](http://arxiv.org/abs/2603.15220v2)
 
 ## DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models
+- **ID**: arxiv_2603.18048v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18048v3](http://arxiv.org/abs/2603.18048v3)
+
+## 
 - **ID**: arxiv_2603.18048v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.18048v3](http://arxiv.org/abs/2603.18048v3)
@@ -831,6 +846,11 @@
 - **URL**: [http://arxiv.org/abs/2607.04419v4](http://arxiv.org/abs/2607.04419v4)
 
 ## Measuring Harness-Induced Belief Divergence in Multi-Step LLM Agents
+- **ID**: arxiv_2607.04528v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.04528v2](http://arxiv.org/abs/2607.04528v2)
+
+## 
 - **ID**: arxiv_2607.04528v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.04528v2](http://arxiv.org/abs/2607.04528v2)
@@ -1651,6 +1671,11 @@
 - **URL**: [http://arxiv.org/abs/2608.07418v1](http://arxiv.org/abs/2608.07418v1)
 
 ## ResidencyRL: Reinforcement Learning in Simulated Clinical Environments
+- **ID**: arxiv_2608.07418v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.07418v2](http://arxiv.org/abs/2608.07418v2)
+
+## 
 - **ID**: arxiv_2608.07418v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.07418v2](http://arxiv.org/abs/2608.07418v2)
@@ -3770,12 +3795,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13886v1](http://arxiv.org/abs/2610.13886v1)
 
+## 
+- **ID**: arxiv_2610.13886v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13886v1](http://arxiv.org/abs/2610.13886v1)
+
 ## RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics
 - **ID**: arxiv_2610.13889v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13889v1](http://arxiv.org/abs/2610.13889v1)
 
+## 
+- **ID**: arxiv_2610.13889v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13889v1](http://arxiv.org/abs/2610.13889v1)
+
 ## Can Language Models Play the Wikipedia Game?
+- **ID**: arxiv_2610.13948v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13948v1](http://arxiv.org/abs/2610.13948v1)
+
+## 
 - **ID**: arxiv_2610.13948v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13948v1](http://arxiv.org/abs/2610.13948v1)

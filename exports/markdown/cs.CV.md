@@ -5840,7 +5840,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13856v1](http://arxiv.org/abs/2610.13856v1)
 
+## 
+- **ID**: arxiv_2610.13856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13856v1](http://arxiv.org/abs/2610.13856v1)
+
 ## Revisiting the Task of Building Damage Assessment by Satellite Imaging
+- **ID**: arxiv_2610.13857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13857v1](http://arxiv.org/abs/2610.13857v1)
+
+## 
 - **ID**: arxiv_2610.13857v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13857v1](http://arxiv.org/abs/2610.13857v1)
@@ -5850,7 +5860,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13858v1](http://arxiv.org/abs/2610.13858v1)
 
+## 
+- **ID**: arxiv_2610.13858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13858v1](http://arxiv.org/abs/2610.13858v1)
+
 ## Make It Flow: Animating Water in 3D Gaussian Splatting Scenes
+- **ID**: arxiv_2610.13860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13860v1](http://arxiv.org/abs/2610.13860v1)
+
+## 
 - **ID**: arxiv_2610.13860v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13860v1](http://arxiv.org/abs/2610.13860v1)
@@ -5860,7 +5880,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13872v1](http://arxiv.org/abs/2610.13872v1)
 
+## 
+- **ID**: arxiv_2610.13872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13872v1](http://arxiv.org/abs/2610.13872v1)
+
 ## Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection
+- **ID**: arxiv_2610.13891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13891v1](http://arxiv.org/abs/2610.13891v1)
+
+## 
 - **ID**: arxiv_2610.13891v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13891v1](http://arxiv.org/abs/2610.13891v1)
@@ -5870,7 +5900,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13915v1](http://arxiv.org/abs/2610.13915v1)
 
+## 
+- **ID**: arxiv_2610.13915v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13915v1](http://arxiv.org/abs/2610.13915v1)
+
 ## Can machines reason non-verbally?
+- **ID**: arxiv_2610.13925v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13925v1](http://arxiv.org/abs/2610.13925v1)
+
+## 
 - **ID**: arxiv_2610.13925v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13925v1](http://arxiv.org/abs/2610.13925v1)
@@ -5880,7 +5920,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13935v1](http://arxiv.org/abs/2610.13935v1)
 
+## 
+- **ID**: arxiv_2610.13935v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13935v1](http://arxiv.org/abs/2610.13935v1)
+
 ## Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback
+- **ID**: arxiv_2610.13941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13941v1](http://arxiv.org/abs/2610.13941v1)
+
+## 
 - **ID**: arxiv_2610.13941v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13941v1](http://arxiv.org/abs/2610.13941v1)
@@ -5890,7 +5940,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13944v1](http://arxiv.org/abs/2610.13944v1)
 
+## 
+- **ID**: arxiv_2610.13944v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13944v1](http://arxiv.org/abs/2610.13944v1)
+
 ## Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark
+- **ID**: arxiv_2610.13947v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)
+
+## 
 - **ID**: arxiv_2610.13947v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)

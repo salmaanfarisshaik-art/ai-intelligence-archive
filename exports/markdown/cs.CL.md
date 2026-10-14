@@ -3615,6 +3615,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38612v3](http://arxiv.org/abs/2609.38612v3)
 
+## 
+- **ID**: arxiv_2609.38612v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.38612v3](http://arxiv.org/abs/2609.38612v3)
+
 ## Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal
 - **ID**: arxiv_2609.38627v3
 - **Source**: ArXiv
@@ -3895,7 +3900,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13895v1](http://arxiv.org/abs/2610.13895v1)
 
+## 
+- **ID**: arxiv_2610.13895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13895v1](http://arxiv.org/abs/2610.13895v1)
+
 ## Structural Automata for Neural Semantic Parsing
+- **ID**: arxiv_2610.13896v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13896v1](http://arxiv.org/abs/2610.13896v1)
+
+## 
 - **ID**: arxiv_2610.13896v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13896v1](http://arxiv.org/abs/2610.13896v1)
@@ -3905,7 +3920,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13910v1](http://arxiv.org/abs/2610.13910v1)
 
+## 
+- **ID**: arxiv_2610.13910v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13910v1](http://arxiv.org/abs/2610.13910v1)
+
 ## RSI-Anything: Unlocking Recursive Self-Improvement with World Models
+- **ID**: arxiv_2610.13912v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13912v1](http://arxiv.org/abs/2610.13912v1)
+
+## 
 - **ID**: arxiv_2610.13912v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13912v1](http://arxiv.org/abs/2610.13912v1)

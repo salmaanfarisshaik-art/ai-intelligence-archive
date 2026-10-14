@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13935v1",
+  "schema_version": "1.0",
+  "technique_name": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+  "description": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.13935v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13935v1",
+    "updated": "2026-10-09T17:56:59Z",
+    "published": "2026-10-09T17:56:59Z",
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts. Existing concept-based methods can only interpret classification and regression models. They require access to model weights or large concept-annotated datasets, and most methods cannot provide image-level attribution. We propose Hide and Seek (HnS), a new method for concept-level attribution that does not require access to model weights or labeled concept datasets. HnS can interpret a wide range of vision models. Given a concept and image set, HnS retrieves concept-aligned images using a vision-language model, localizes the concept within each image, masks the localized region, and measures attribution from the change in the black-box model's output between the original and masked images. This enables faithful attribution by directly measuring the model's behavior and supporting local attributions. We validated HnS on CelebA and COCO-Stuff. Compared to existing methods, HnS showed better agreement with ground-truth attributions. We demonstrated the applicability of HnS on diverse tasks, including image captioning and satellite image segmentation, where no existing concept attribution method can be used. We provided our anonymous code in the supplementary material.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:56:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13935v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

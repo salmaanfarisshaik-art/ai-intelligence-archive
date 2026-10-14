@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13896v1",
+  "schema_version": "1.0",
+  "technique_name": "Structural Automata for Neural Semantic Parsing",
+  "description": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding prevents locally invalid tokens but does not guarantee that a valid prefix can be completed within a fixed output-length limit. We investigate structural automata at three stages of DRS parsing (decoding, post hoc processing, and training) and additionally evaluate decoding on AMR. For decoding, we intro",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.13896v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13896v1",
+    "updated": "2026-10-09T17:42:14Z",
+    "published": "2026-10-09T17:42:14Z",
+    "title": "Structural Automata for Neural Semantic Parsing",
+    "summary": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding prevents locally invalid tokens but does not guarantee that a valid prefix can be completed within a fixed output-length limit. We investigate structural automata at three stages of DRS parsing (decoding, post hoc processing, and training) and additionally evaluate decoding on AMR. For decoding, we introduce accepting-path decoding (APD), which maintains a verified completion within the remaining length limit and follows the model's preferred token whenever that token can also be completed. APD guarantees an accepted output without retracting tokens. Under tight length limits, it improves Smatch++ over local masking by 5.1 and 2.4 points on DRS and by 6.4 and 3.2 points on AMR, comparable to rollback under the same limit, which retracts tokens. For post hoc processing, invalid outputs concentrate on the same inputs: eight unconstrained samples yield no valid output for 10.2% of inputs with limited training data, compared with 0.4% with full data, where filtering comes within 0.2 Smatch++ points of APD. For training, penalizing automaton-rejected tokens improves development Smatch++ by 3.6-11.0 points after 10% of training, but this advantage diminishes as cross-entropy alone reduces the probability assigned to rejected tokens from 14% to below 2% within the first sixth of training with limited data.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:42:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13896v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

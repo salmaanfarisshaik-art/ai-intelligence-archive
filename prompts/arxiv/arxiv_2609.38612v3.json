@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.38612v3",
+  "schema_version": "1.0",
+  "technique_name": "StreamDecisionBench: Evaluating Decisions in Force on Evolving Language Streams",
+  "description": "Language models increasingly make real-time decisions in applications that apply the latest answer until a newer one arrives. A late answer can prolong an outdated decision, such as a call recorder still running while a customer reads out card details, an error offline accuracy misses. We make three contributions. First, we release StreamDecisionBench (SDB), a dataset of eight streaming scenarios in four application families, with executable reference decisions derived from public rules. Second,",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2609.38612v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.38612v3",
+    "updated": "2026-10-09T16:51:55Z",
+    "published": "2026-09-29T22:15:49Z",
+    "title": "StreamDecisionBench: Evaluating Decisions in Force on Evolving Language Streams",
+    "summary": "Language models increasingly make real-time decisions in applications that apply the latest answer until a newer one arrives. A late answer can prolong an outdated decision, such as a call recorder still running while a customer reads out card details, an error offline accuracy misses. We make three contributions. First, we release StreamDecisionBench (SDB), a dataset of eight streaming scenarios in four application families, with executable reference decisions derived from public rules. Second, we propose an evaluation protocol and a metric, in-force accuracy: the share of time the applied decision is correct across update intervals of 0.5-8 s. It reflects accuracy and latency jointly, attributing each error to judgment, latency or both. Third, we evaluate fifteen single-model settings, and this attribution separates speed-limited from judgment-limited models: slower, more accurate models lose 42-47% of the time to outdated answers, a fast model 35% to wrong ones. We therefore test hybrids in which a slow model corrects a fast one; with the right pairing and configuration, a hybrid outperforms every single model. However, even the best evaluated system keeps a correct decision in force only about two-thirds of the time, leaving a substantial gap for real-time use.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T16:51:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.38612v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

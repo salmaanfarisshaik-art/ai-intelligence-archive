@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13856v1",
+  "schema_version": "1.0",
+  "technique_name": "Event-based Action Recognition by Pre-Training on Multi-Frame Representations",
+  "description": "Action recognition is a crucial task in domains like robotics, patient monitoring, or surveillance. Recently, event-based action recognition has attracted much attention due to the event camera's ability to capture fast motions and its improved privacy over conventional vision cameras. While frame-based event representations work well for short event sequences, their discriminative ability declines sharply with longer and more complex event sequences. In this work, we introduce a multi-frame rep",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.13856v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13856v1",
+    "updated": "2026-10-09T17:05:40Z",
+    "published": "2026-10-09T17:05:40Z",
+    "title": "Event-based Action Recognition by Pre-Training on Multi-Frame Representations",
+    "summary": "Action recognition is a crucial task in domains like robotics, patient monitoring, or surveillance. Recently, event-based action recognition has attracted much attention due to the event camera's ability to capture fast motions and its improved privacy over conventional vision cameras. While frame-based event representations work well for short event sequences, their discriminative ability declines sharply with longer and more complex event sequences. In this work, we introduce a multi-frame representation that greatly improves recognition performance over its single-frame counterpart. We adopt a masked auto-encoding framework to pre-train a Vision Transformer using a sparsity-aware masking algorithm and token selection mechanism to improve downstream performance and control computational complexity. We also introduce multiple mask tokens for the decoder with a position-aware attention mechanism, leading to further improved performance. Our proposed method shows impressive performance for challenging long-duration and complex event sequences, yielding state-of-the-art performance on THU-EACT-50 CHL and DailyDVS-200.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:05:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13856v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

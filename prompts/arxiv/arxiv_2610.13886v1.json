@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13886v1",
+  "schema_version": "1.0",
+  "technique_name": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+  "description": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.13886v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13886v1",
+    "updated": "2026-10-09T17:34:44Z",
+    "published": "2026-10-09T17:34:44Z",
+    "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+    "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes can arise when agents fulfill benign user requests. Proactively identifying these compositional failures requires systematically exploring diverse cross-service paths. Existing red-teaming methods often simply prompt LLMs to identify potentially harmful paths from task and environment descriptions or decompose harmful objectives specified by humans or LLMs into seemingly benign action combinations. However, generation is biased toward patterns learned during training, potentially favoring familiar tool combinations and leaving novel cross-service interactions underexplored. To address this, we propose X-AgentRed, a self-evolving red-teaming framework that discovers harmful tool call paths through a graph of tool dependencies and expands and refines them using execution feedback. By analyzing each tool's effects, potential harms, and preconditions for execution, the red-teaming agent constructs a directed graph that captures how one tool's effects can satisfy another's execution preconditions. Recipes sampled from this graph are instantiated as realistic scenarios in which agents can produce harmful outcomes. Execution feedback enables self-improvement by diversifying paths that produce harm through tool substitution and refining preconditions at blocked steps in unsuccessful paths to enable further execution. Across four frontier agentic models, X-AgentRed achieves $1.77\\times$ the harmful path rate of STAC and explores a more diverse set of tools, yielding $2.99\\times$ the tool coverage on average.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:34:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13886v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

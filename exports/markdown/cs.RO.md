@@ -880,7 +880,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13929v1](http://arxiv.org/abs/2610.13929v1)
 
+## 
+- **ID**: arxiv_2610.13929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13929v1](http://arxiv.org/abs/2610.13929v1)
+
 ## Splat2Act: From Captured Scenes to Personalized VLA Manipulation
+- **ID**: arxiv_2610.13945v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.13945v1](http://arxiv.org/abs/2610.13945v1)
+
+## 
 - **ID**: arxiv_2610.13945v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13945v1](http://arxiv.org/abs/2610.13945v1)

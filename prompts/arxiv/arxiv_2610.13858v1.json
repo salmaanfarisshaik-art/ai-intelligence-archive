@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.13858v1",
+  "schema_version": "1.0",
+  "technique_name": "LapMerge: Differentiable Exact-Budget Token Merging in Linear Time",
+  "description": "Modern vision and language models process ever longer token sequences, and reducing them is the main lever on downstream cost. Token compression, however, faces a fundamental trade-off: selecting tokens discards information, while existing merging methods preserve it only through pairwise token-to-token matching or $MN$ token-to-output interactions. We introduce LapMerge, a differentiable merging operator that resolves this trade-off for ordered sequences: a learned mass distribution partitions ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.13858v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.13858v1",
+    "updated": "2026-10-09T17:07:17Z",
+    "published": "2026-10-09T17:07:17Z",
+    "title": "LapMerge: Differentiable Exact-Budget Token Merging in Linear Time",
+    "summary": "Modern vision and language models process ever longer token sequences, and reducing them is the main lever on downstream cost. Token compression, however, faces a fundamental trade-off: selecting tokens discards information, while existing merging methods preserve it only through pairwise token-to-token matching or $MN$ token-to-output interactions. We introduce LapMerge, a differentiable merging operator that resolves this trade-off for ordered sequences: a learned mass distribution partitions the sequence into exactly $N$ equal-mass segments under a Laplace-kernel density, and prefix/suffix scans aggregate each segment, so both the forward and the backward pass run in $\\mathcal{O}(M+N)$ time. This combination - an exact output budget, end-to-end differentiability, and linear cost - is precisely what previous reducers trade off against one another. The budget can be changed without changing operator parameters, and the learned mass doubles as a token-level map of where the budget is allocated. Across vision and vision-language tasks, LapMerge matches or improves on strong token reducers while being up to two orders of magnitude faster at large sequence lengths; it is particularly effective when token order reflects spatial or temporal locality, and works both as a drop-in reduction module and as a trainable architectural component.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-14T00:15:31Z",
+  "last_updated": "2026-10-09T17:07:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.13858v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

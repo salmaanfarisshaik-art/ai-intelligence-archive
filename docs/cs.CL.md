@@ -62,6 +62,11 @@
 | [](http://arxiv.org/abs/2609.36931v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.36952v1) | ArXiv |  | 1 |
 | [](http://arxiv.org/abs/2609.36965v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2609.38612v3) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2610.13895v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2610.13896v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2610.13910v1) | ArXiv |  | 1 |
+| [](http://arxiv.org/abs/2610.13912v1) | ArXiv |  | 1 |
 | ["Many Are My Names": The Anatomy of the Assistant and Its Personas via Sparse Autoencoders](http://arxiv.org/abs/2608.07852v2) | ArXiv |  | 1 |
 | ["Mirror" Large Language Model Evaluations of Depression are Criterion Contaminated](http://arxiv.org/abs/2508.05830v3) | ArXiv |  | 1 |
 | ['Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection](http://arxiv.org/abs/2608.24191v2) | ArXiv |  | 1 |
