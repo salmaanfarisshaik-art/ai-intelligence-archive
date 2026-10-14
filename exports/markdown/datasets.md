@@ -433,6 +433,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ami_iit_paper_sorrentino_humanoids2024_friction
+- **Source**: 
+
+## 
 - **ID**: dataset_amirveyseh_acronym_identification
 - **Source**: 
 
@@ -1657,6 +1661,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_demalenk_itto_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_depth2world_vladbench
 - **Source**: 
 
@@ -1798,6 +1806,10 @@
 
 ## 
 - **ID**: dataset_dwkpartners_trading_data
+- **Source**: 
+
+## 
+- **ID**: dataset_e4drr_gik_ecmwf_par
 - **Source**: 
 
 ## 
@@ -2033,7 +2045,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_farama_minari_atari
+- **Source**: 
+
+## 
 - **ID**: dataset_farama_minari_d4rl
+- **Source**: 
+
+## 
+- **ID**: dataset_farama_minari_metaworld
 - **Source**: 
 
 ## 
@@ -5581,6 +5601,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_manfredc_cmevs_erp_eval
+- **Source**: 
+
+## 
 - **ID**: dataset_mangocloud_robocasa_atomic_test
 - **Source**: 
 
@@ -5725,6 +5749,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_meccogagenticchallenge_meccog_final_set
+- **Source**: 
+
+## 
 - **ID**: dataset_medotter_4d_lung
 - **Source**: 
 
@@ -5786,6 +5814,10 @@
 
 ## 
 - **ID**: dataset_meteolibre_dev_global_sat_metar
+- **Source**: 
+
+## 
+- **ID**: dataset_mh_hf_exp_bucket
 - **Source**: 
 
 ## 
@@ -6437,6 +6469,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nvidia_physicalai_robotics_gr00t_teleop_sim
+- **Source**: 
+
+## 
 - **ID**: dataset_nvidia_physicalai_robotics_gr00t_x_embodiment_sim
 - **Source**: 
 
@@ -6954,6 +6990,10 @@
 
 ## 
 - **ID**: dataset_perry233_astrovision_data
+- **Source**: 
+
+## 
+- **ID**: dataset_persona_cartography_monorepo
 - **Source**: 
 
 ## 
@@ -7785,6 +7825,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sharpa_robotics_sharpadex_v1_0
+- **Source**: 
+
+## 
 - **ID**: dataset_shash42_forecast_news
 - **Source**: 
 
@@ -8062,6 +8106,10 @@
 
 ## 
 - **ID**: dataset_sungmine_korean_atomic_infographic
+- **Source**: 
+
+## 
+- **ID**: dataset_sunlry_robotwin_random_47_500
 - **Source**: 
 
 ## 
@@ -8853,6 +8901,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_winterllling_hf
+- **Source**: 
+
+## 
 - **ID**: dataset_wl_server_cloud
 - **Source**: 
 
@@ -9089,6 +9141,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_yinhuankuang_rl_game_traces_rise_of_the_tomb_raider
+- **Source**: 
+
+## 
 - **ID**: dataset_yipenggao_3dcode
 - **Source**: 
 
@@ -9225,6 +9281,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_zeyuanyin_dome_objaverse
+- **Source**: 
+
+## 
 - **ID**: dataset_zgcagi_zgcm_1_data
 - **Source**: 
 
@@ -9294,6 +9354,10 @@
 
 ## 
 - **ID**: dataset_zjs555888_dogspeak_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_zlab_princeton_vero_600k
 - **Source**: 
 
 ## 

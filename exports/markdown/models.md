@@ -120,6 +120,10 @@
 - **ID**: model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp
 - **Source**: 
 
+## aisingapore/Gemma-SEA-LION-v3-9B-IT
+- **ID**: model_aisingapore_gemma_sea_lion_v3_9b_it
+- **Source**: 
+
 ## Alennnndy/Qwen3.6-27B-AWQ-4bit
 - **ID**: model_alennnndy_qwen3_6_27b_awq_4bit
 - **Source**: 
@@ -720,6 +724,10 @@
 - **ID**: model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf
 - **Source**: 
 
+## bartowski/TheDrummer_Cydonia-24B-v4.3-GGUF
+- **ID**: model_bartowski_thedrummer_cydonia_24b_v4_3_gguf
+- **Source**: 
+
 ## bartowski/THUDM_GLM-4-32B-0414-GGUF
 - **ID**: model_bartowski_thudm_glm_4_32b_0414_gguf
 - **Source**: 
@@ -954,6 +962,10 @@
 
 ## chbae624/vllm-translategemma-12b-it
 - **ID**: model_chbae624_vllm_translategemma_12b_it
+- **Source**: 
+
+## cjvt/GaMS3-12B-Instruct
+- **ID**: model_cjvt_gams3_12b_instruct
 - **Source**: 
 
 ## CMSManhattan/JiRackDeltaNet_27b
@@ -2376,6 +2388,22 @@
 - **ID**: model_jackfram_llama_68m
 - **Source**: 
 
+## JackKozmo29/codeguard-jev-style-1.5b
+- **ID**: model_jackkozmo29_codeguard_jev_style_1_5b
+- **Source**: 
+
+## JackKozmo29/depguard-jev-style-1.5b
+- **ID**: model_jackkozmo29_depguard_jev_style_1_5b
+- **Source**: 
+
+## JackKozmo29/mailguard-jev-style-1.5b
+- **ID**: model_jackkozmo29_mailguard_jev_style_1_5b
+- **Source**: 
+
+## JackKozmo29/sevclassifier-jev-style-1.5b
+- **ID**: model_jackkozmo29_sevclassifier_jev_style_1_5b
+- **Source**: 
+
 ## Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B-MTP-GGUF
 - **ID**: model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf
 - **Source**: 
@@ -2422,6 +2450,10 @@
 
 ## JetBrains/Mellum2-12B-A2.5B-Instruct-GGUF-Q8_0
 - **ID**: model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0
+- **Source**: 
+
+## JetBrains/Mellum2.1-12B-A2.5B-Thinking-GGUF
+- **ID**: model_jetbrains_mellum2_1_12b_a2_5b_thinking_gguf
 - **Source**: 
 
 ## jhu-clsp/rank1-7b
@@ -4698,6 +4730,10 @@
 
 ## poolside/Laguna-XS-2.1-NVFP4
 - **ID**: model_poolside_laguna_xs_2_1_nvfp4
+- **Source**: 
+
+## PowCal/Mathstral-7B-v0.1-4bit
+- **ID**: model_powcal_mathstral_7b_v0_1_4bit
 - **Source**: 
 
 ## PowCal/Qwen2.5-Math-7B-4bit
