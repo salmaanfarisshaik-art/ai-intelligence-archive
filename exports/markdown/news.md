@@ -1101,6 +1101,11 @@
 - **URL**: [https://openai.com/index/biodefense-in-the-intelligence-age](https://openai.com/index/biodefense-in-the-intelligence-age)
 
 ## 
+- **ID**: rss_https://openai.com/index/block-ai-powered-security
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/block-ai-powered-security](https://openai.com/index/block-ai-powered-security)
+
+## 
 - **ID**: rss_https://openai.com/index/block-sparse-gpu-kernels
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/block-sparse-gpu-kernels](https://openai.com/index/block-sparse-gpu-kernels)

@@ -4,10 +4,10 @@
   "author": "Houroux",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-14T20:17:42.000Z",
+  "lastModified": "2026-10-14T23:40:37.000Z",
   "likes": 6,
   "private": false,
-  "sha": "a66e7db263a4b14b8e1277f1ba8e08e0abfb2a2f",
+  "sha": "b0fe5f3112cdc246517070a39fb08b4a298ef7b2",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPolymarket rewarded-market L2 history\n\t\n\nAppend-only archives of public Polymarket CLOB WebSocket messages for markets\neligible for liquidity rewards. The dataset is intended for market\nmicrostructure research, backtests and machine-learning experiments.\nNo wallet data, private keys or authenticated trading information is collected.\nFiles are gzip-compressed JSON Lines and grouped by source and UTC date.\nThe source data comes from Polymarket's public CLOB interfaces and remains… See the full description on the dataset page: https://huggingface.co/datasets/Houroux/polymarket-l2-history.",
   "downloads": 46520,
   "tags": [
