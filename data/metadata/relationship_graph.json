@@ -139621,6 +139621,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_647a71c8c7367455fd9f7cfb",
+      "label": "Tuxifan/UbuntuIRC",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_64980085fa9591cb3dc4d378",
       "label": "isaacus/open-australian-legal-corpus",
       "category": "dataset"
@@ -140453,6 +140458,11 @@
     {
       "id": "hf_ds_6a7847c7bbedf556ad5b21ee",
       "label": "nightgoodl/lasa1m-annotate-part-12",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6a78b84bece7ed72375bcf43",
+      "label": "gifoe/persistent",
       "category": "dataset"
     },
     {
@@ -299287,6 +299297,11 @@
     },
     {
       "id": "rss_https://openai.com/index/the-eternal-complement",
+      "label": "",
+      "category": "news"
+    },
+    {
+      "id": "rss_https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "label": "",
       "category": "news"
     },
@@ -475405,6 +475420,11 @@
     {
       "source": "hf_ds_6a7609d6663f80dd30d388fc",
       "target": "datasets/RekaAI",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a78b84bece7ed72375bcf43",
+      "target": "datasets/gifoe",
       "relationship": "related_models"
     },
     {

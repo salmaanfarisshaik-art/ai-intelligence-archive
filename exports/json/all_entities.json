@@ -309481,6 +309481,30 @@
     "local_path": "datasets/coherelabs/hf_ds_6469bc7cf51b56a285b7797b.json"
   },
   {
+    "id": "hf_ds_647a71c8c7367455fd9f7cfb",
+    "title": "Tuxifan/UbuntuIRC",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:text",
+      "library:datasets",
+      "library:mlcroissant",
+      "license:cc0-1.0",
+      "modality:text",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/Tuxifan/UbuntuIRC",
+    "local_path": "datasets/tuxifan/hf_ds_647a71c8c7367455fd9f7cfb.json"
+  },
+  {
     "id": "hf_ds_64980085fa9591cb3dc4d378",
     "title": "isaacus/open-australian-legal-corpus",
     "category": "dataset",
@@ -314035,6 +314059,26 @@
     },
     "source_url": "https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12",
     "local_path": "datasets/nightgoodl/hf_ds_6a7847c7bbedf556ad5b21ee.json"
+  },
+  {
+    "id": "hf_ds_6a78b84bece7ed72375bcf43",
+    "title": "gifoe/persistent",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:other",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/gifoe"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/gifoe/persistent",
+    "local_path": "datasets/gifoe/hf_ds_6a78b84bece7ed72375bcf43.json"
   },
   {
     "id": "hf_ds_6a8779d11c6e0f8d87cc3080",
@@ -638945,6 +638989,21 @@
     },
     "source_url": "https://openai.com/index/the-eternal-complement",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_the-eternal-complement.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_the-eus-next-chapter-in-ai-is-agentic.json"
   },
   {
     "id": "rss_https://openai.com/index/the-five-ai-value-models-driving-business-reinvention",

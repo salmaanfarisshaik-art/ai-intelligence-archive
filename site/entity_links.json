@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:50:02Z",
+  "generated_at": "2026-10-14T11:13:50Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -554,6 +554,11 @@
     {
       "source_id": "model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp",
       "target_id": "hf_HauhauCS_Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_aisingapore_gemma_sea_lion_v3_9b_it",
+      "target_id": "hf_aisingapore_Gemma-SEA-LION-v3-9B",
       "type": "derived_from"
     },
     {
@@ -1427,6 +1432,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf",
+      "target_id": "hf_TheDrummer_Cydonia-24B-v4.3",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_baseten_llama_3_2_3b_instruct_pythonic",
       "target_id": "hf_meta-llama_Llama-3.2-3B-Instruct",
       "type": "derived_from"
@@ -1734,6 +1744,11 @@
     {
       "source_id": "model_chbae624_vllm_translategemma_12b_it",
       "target_id": "hf_google_translategemma-12b-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_cjvt_gams3_12b_instruct",
+      "target_id": "hf_google_gemma-3-12b-pt",
       "type": "derived_from"
     },
     {
@@ -3167,6 +3182,26 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_jackkozmo29_codeguard_jev_style_1_5b",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jackkozmo29_depguard_jev_style_1_5b",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jackkozmo29_mailguard_jev_style_1_5b",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jackkozmo29_sevclassifier_jev_style_1_5b",
+      "target_id": "hf_Qwen_Qwen2.5-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf",
       "target_id": "hf_unsloth_Qwen3.5-9B",
       "type": "derived_from"
@@ -3254,6 +3289,11 @@
     {
       "source_id": "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0",
       "target_id": "hf_JetBrains_Mellum2-12B-A2.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_jetbrains_mellum2_1_12b_a2_5b_thinking_gguf",
+      "target_id": "hf_JetBrains_Mellum2.1-12B-A2.5B-Thinking",
       "type": "derived_from"
     },
     {

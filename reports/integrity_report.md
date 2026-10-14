@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-14T05:49:23.439171+00:00
-**Warnings:** 4154
+**Generated:** 2026-10-14T11:13:00.350568+00:00
+**Warnings:** 4155
 **Errors:** 270
 
 ## Issues
@@ -4381,6 +4381,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ACERobotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/challenge-2026
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/RekaAI
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/gifoe
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/SKPark1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T05:50:02Z",
+  "generated_at": "2026-10-14T11:13:50Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -461,6 +461,9 @@
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q4_k_m",
       "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0"
     ],
+    "hf_JetBrains_Mellum2.1-12B-A2.5B-Thinking": [
+      "model_jetbrains_mellum2_1_12b_a2_5b_thinking_gguf"
+    ],
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored": [
       "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
       "model_zerodigest_qwen3_8_27b_uncensored_ymq_mtp_gguf"
@@ -731,6 +734,10 @@
     "hf_Qwen_Qwen2.5-1.5B-Instruct": [
       "hf_Qwen_Qwen2.5-1.5B",
       "model_bartowski_qwen2_5_1_5b_instruct_gguf",
+      "model_jackkozmo29_codeguard_jev_style_1_5b",
+      "model_jackkozmo29_depguard_jev_style_1_5b",
+      "model_jackkozmo29_mailguard_jev_style_1_5b",
+      "model_jackkozmo29_sevclassifier_jev_style_1_5b",
       "model_litert_community_qwen2_5_1_5b_instruct",
       "model_maziyarpanahi_qwen2_5_1_5b_instruct_gguf",
       "model_qwen_qwen2_5_1_5b_instruct_awq",
@@ -1393,6 +1400,9 @@
     "hf_TheDrummer_Cydonia-24B-v4.2.0": [
       "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf"
     ],
+    "hf_TheDrummer_Cydonia-24B-v4.3": [
+      "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf"
+    ],
     "hf_TheSkullery_Aether-Lite-V1.2": [
       "model_model_safetensors_l3_aethora_15b"
     ],
@@ -1479,6 +1489,9 @@
     ],
     "hf_ai4b-hf_GLOBE-annotated": [
       "model_ai4bharat_indic_parler_tts"
+    ],
+    "hf_aisingapore_Gemma-SEA-LION-v3-9B": [
+      "model_aisingapore_gemma_sea_lion_v3_9b_it"
     ],
     "hf_allenai_Dolci-Instruct-RL": [
       "model_allenai_olmo_3_1_32b_instruct"
@@ -2108,6 +2121,9 @@
     ],
     "hf_google_gemma-3-12b-it": [
       "model_maziyarpanahi_gemma_3_12b_it_gguf"
+    ],
+    "hf_google_gemma-3-12b-pt": [
+      "model_cjvt_gams3_12b_instruct"
     ],
     "hf_google_gemma-3-1b-it": [
       "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
@@ -3778,6 +3794,9 @@
     "model_aiopsinspace_qwen3_6_27b_uncensored_hauhaucs_aggressive_mtp": [
       "hf_HauhauCS_Qwen3.6-27B-Uncensored-HauhauCS-Aggressive"
     ],
+    "model_aisingapore_gemma_sea_lion_v3_9b_it": [
+      "hf_aisingapore_Gemma-SEA-LION-v3-9B"
+    ],
     "model_alennnndy_qwen3_6_27b_awq_4bit": [
       "hf_Qwen_Qwen3.6-27B"
     ],
@@ -4202,6 +4221,9 @@
     "model_bartowski_thedrummer_cydonia_24b_v4_2_0_gguf": [
       "hf_TheDrummer_Cydonia-24B-v4.2.0"
     ],
+    "model_bartowski_thedrummer_cydonia_24b_v4_3_gguf": [
+      "hf_TheDrummer_Cydonia-24B-v4.3"
+    ],
     "model_baseten_llama_3_2_3b_instruct_pythonic": [
       "hf_meta-llama_Llama-3.2-3B-Instruct"
     ],
@@ -4339,6 +4361,9 @@
     ],
     "model_chbae624_vllm_translategemma_12b_it": [
       "hf_google_translategemma-12b-it"
+    ],
+    "model_cjvt_gams3_12b_instruct": [
+      "hf_google_gemma-3-12b-pt"
     ],
     "model_codefault_nvidia_qwen3_6_27b_nvfp4_gguf": [
       "hf_nvidia_Qwen3.6-27B-NVFP4"
@@ -5040,6 +5065,18 @@
     "model_jackfram_llama_68m": [
       "hf_wikipedia"
     ],
+    "model_jackkozmo29_codeguard_jev_style_1_5b": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
+    "model_jackkozmo29_depguard_jev_style_1_5b": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
+    "model_jackkozmo29_mailguard_jev_style_1_5b": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
+    "model_jackkozmo29_sevclassifier_jev_style_1_5b": [
+      "hf_Qwen_Qwen2.5-1.5B-Instruct"
+    ],
     "model_jackrong_deepseek_v4_pro_qwen3_5_9b_mtp_gguf": [
       "hf_unsloth_Qwen3.5-9B"
     ],
@@ -5081,6 +5118,9 @@
     ],
     "model_jetbrains_mellum2_12b_a2_5b_instruct_gguf_q8_0": [
       "hf_JetBrains_Mellum2-12B-A2.5B-Instruct"
+    ],
+    "model_jetbrains_mellum2_1_12b_a2_5b_thinking_gguf": [
+      "hf_JetBrains_Mellum2.1-12B-A2.5B-Thinking"
     ],
     "model_jhu_clsp_rank1_7b": [
       "hf_Qwen_Qwen2.5-7B",

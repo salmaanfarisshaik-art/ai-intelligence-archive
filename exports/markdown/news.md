@@ -6081,6 +6081,11 @@
 - **URL**: [https://openai.com/index/the-eternal-complement](https://openai.com/index/the-eternal-complement)
 
 ## 
+- **ID**: rss_https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)
+
+## 
 - **ID**: rss_https://openai.com/index/the-five-ai-value-models-driving-business-reinvention
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/the-five-ai-value-models-driving-business-reinvention](https://openai.com/index/the-five-ai-value-models-driving-business-reinvention)

@@ -190,6 +190,12 @@
 - **URL**: [https://huggingface.co/datasets/CohereLabs/xP3x](https://huggingface.co/datasets/CohereLabs/xP3x)
 - **Tags**: annotations_creators:crowdsourced, annotations_creators:expert-generated, arxiv:2211.01786, format:parquet, language:ace, language:acm, language:acq, language:aeb, language:af, language:ajp, language:ak, language:als, language:am, language:apc, language:ar, language:ars, language:ary, language:arz, language:as, language:ast, language:awa, language:ayr, language:az, language:azb, language:azj, language:ba, language:ban, language:be, language:bem, language:bg, language:bho, language:bjn, language:bm, language:bn, language:bo, language:br, language:bs, language:bug, language:ca, language:ceb, language:ch, language:cjk, language:ckb, language:crh, language:cs, language:cv, language:cy, language:da, language:de, language:dik, language:dyu, language:dz, language:ee, language:el, language:en, language:eo, language:es, language:et, language:eu, language:fa, language:fi, language:fj, language:fo, language:fon, language:fr, language:fur, language:fuv, language:fy, language:ga, language:gaz, language:gd, language:gl, language:gn, language:gu, language:ha, language:he, language:hi, language:hne, language:hr, language:ht, language:hu, language:hy, language:ia, language:id, language:ie, language:ig, language:ilo, language:io, language:is, language:it, language:ja, language:jv, language:ka, language:kab, language:kac, language:kam, language:kbp, language:kea, language:kg, language:khk, language:ki, language:kk, language:km, language:kmb, language:kmr, language:kn, language:knc, language:ko, language:ks, language:ku, language:kw, language:ky, language:la, language:lb, language:lg, language:li, language:lij, language:lmo, language:ln, language:lo, language:lt, language:ltg, language:lua, language:luo, language:lus, language:lv, language:lvs, language:mag, language:mai, language:mar, language:mi, language:min, language:mk, language:ml, language:mn, language:mni, language:mos, language:mr, language:ms, language:mt, language:my, language:nb, language:nl, language:nn, language:no, language:npi, language:nso, language:nus, language:ny, language:oc, language:ory, language:pa, language:pag, language:pap, language:pbt, language:pes, language:pl, language:plt, language:prs, language:pt, language:qu, language:quy, language:rn, language:ro, language:ru, language:rw, language:sa, language:sat, language:sc, language:scn, language:sd, language:sg, language:sh, language:shn, language:si, language:sk, language:sl, language:sm, language:sn, language:so, language:sq, language:sr, language:ss, language:st, language:su, language:sv, language:sw, language:swh, language:szl, language:ta, language:taq, language:te, language:tg, language:th, language:ti, language:tk, language:tl, language:tn, language:tpi, language:tr, language:ts, language:tt, language:tum, language:tw, language:tzm, language:ug, language:uk, language:umb, language:ur, language:uz, language:uzn, language:vec, language:vi, language:vo, language:war, language:wo, language:xh, language:ydd, language:yi, language:yo, language:yue, language:zh, language:zsm, language:zu, library:dask, library:datasets, library:mlcroissant, library:polars, license:apache-2.0, modality:text, multilinguality:multilingual, region:us, size_categories:100M<n<1B, task_categories:other
 
+## Tuxifan/UbuntuIRC
+- **ID**: hf_ds_647a71c8c7367455fd9f7cfb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/Tuxifan/UbuntuIRC](https://huggingface.co/datasets/Tuxifan/UbuntuIRC)
+- **Tags**: format:text, library:datasets, library:mlcroissant, license:cc0-1.0, modality:text, region:us, size_categories:1M<n<10M, task_categories:text-generation
+
 ## isaacus/open-australian-legal-corpus
 - **ID**: hf_ds_64980085fa9591cb3dc4d378
 - **Source**: HuggingFace Datasets
@@ -1191,6 +1197,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12](https://huggingface.co/datasets/nightgoodl/lasa1m-annotate-part-12)
 - **Tags**: region:us
+
+## gifoe/persistent
+- **ID**: hf_ds_6a78b84bece7ed72375bcf43
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/gifoe/persistent](https://huggingface.co/datasets/gifoe/persistent)
+- **Tags**: license:other, region:us
 
 ## gfdg34fsd/newe
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080
