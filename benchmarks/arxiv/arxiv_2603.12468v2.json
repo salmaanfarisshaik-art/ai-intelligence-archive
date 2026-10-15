@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.12468v2",
+  "schema_version": "1.0",
+  "name": "Selective Prediction Forgetting for Adaptation of Weakly Supervised Localization of Histology Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.12468v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.12468v2",
+    "updated": "2026-10-14T17:42:11Z",
+    "published": "2026-03-12T21:34:21Z",
+    "title": "Selective Prediction Forgetting for Adaptation of Weakly Supervised Localization of Histology Images",
+    "summary": "Under strong cross-domain shifts, weakly supervised object localization (WSOL) models often lose their capacity to discriminate and develop a strong prediction bias toward a subset of classes. As a result, the majority of target samples are assigned to these dominant classes. Since source-free (unsupervised) domain adaptation (SFDA) methods typically rely on pseudo-labels, inaccurate pseudo-label estimation causes suboptimal adaptation and poor classification and localization performance. This issue is particularly challenging in computational histopathology, where shifts in organ-specific morphology, staining protocols, and acquisition conditions can significantly impact class-discriminative visual cues. This paper introduces SFDA with selective prediction forgetting (SFDA-SPF), a method designed to mitigate excessive concentration of predictions for dominant classes during target-domain adaptation. SFDA-SPF identifies prediction-dominant classes based on the model's target predictions and selectively revises uncertain samples assigned to them. Importantly, this procedure does not require knowledge of the true target class distribution. In contrast with previous SFDA methods, SFDA-SPF introduces a 'forget set' composed of uncertain samples from dominant classes near their decision boundaries, enabling the classification boundaries to shift away from biased predictions. A second 'retain set' is used to anchor certain and accurate samples. To forget the predictions of dominant classes, SFDA-SPF introduces a complementary optimization objective that reduces their probability while allowing alternative class assignments to emerge. This iterative optimization process reassesses target images for forget and retain sets at regular intervals. In addition to improving image-level pseudo-label estimation, the pixel-level classifier is jointly optimized, further enhancing localization.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:42:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.12468v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.00717v2",
+  "schema_version": "1.0",
+  "name": "Deep Time-series Forecasting Needs Kernelized Moment Balancing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.00717v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.00717v2",
+    "updated": "2026-10-14T17:17:43Z",
+    "published": "2026-01-31T13:20:18Z",
+    "title": "Deep Time-series Forecasting Needs Kernelized Moment Balancing",
+    "summary": "Deep time-series forecasting can be formulated as a distribution balancing problem aimed at aligning the distribution of the forecasts and ground truths. According to Imbens' criterion, balancing two distributions requires that their first moments be identical with respect to any balancing function. We demonstrate that existing objectives enforce moment matching only for one or two predefined balancing functions, thus failing to achieve full distribution balance. To address this limitation, we propose direct forecasting with kernelized moment balancing (KMB-DF). Unlike existing objectives, KMB-DF adaptively selects the most informative balancing functions from a reproducing kernel Hilbert space (RKHS) to enforce sufficient distribution balancing. A tractable and differentiable formulation is derived to enable estimation from empirical samples and seamless integration into gradient-based training pipelines. Extensive experiments across multiple models and datasets show that KMB-DF consistently improves forecasting accuracy and achieves state-of-the-art performance. Code is available at https://anonymous.4open.science/r/KMB-DF-403C.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:17:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.00717v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

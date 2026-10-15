@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20563v1",
+  "schema_version": "1.0",
+  "name": "Scaling Discovery Requires Forgetting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20563v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20563v1",
+    "updated": "2026-10-14T17:49:37Z",
+    "published": "2026-10-14T17:49:37Z",
+    "title": "Scaling Discovery Requires Forgetting",
+    "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are different ways to scale automated research: let one agent iterate for longer, run several agents in parallel, or further let the parallel agents communicate and build on one another's candidates. However, we find that all three strategies eventually plateau as the agents accumulate history. Each agent becomes anchored to its own past attempts, making fewer and smaller edits. Beyond this point, additional budget brings little further improvement. In this paper, we show that the key to scaling discovery further is to forget. Periodically discarding the search state, including every agent's session and the candidate history, and restarting from the best candidate found so far, unblocks the search and pushes the same budget further.\n  We implement forgetting in a team of agents with communication and evaluate it on four tasks spanning heuristic programming, kernel optimization and model training. The results show up to 15% improvement compared to parallel agents, and up to 39% compared to a single agent. Our results suggest that, for open-ended discovery, what an agent is allowed to remember matters as much as how much compute it is given.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:49:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20563v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

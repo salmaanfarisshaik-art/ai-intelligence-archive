@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.26277v2](http://arxiv.org/abs/2606.26277v2)
 
+## From Clicks to Intent: Cross-Platform Session Embeddings with LLM-Distilled Taxonomy for Financial Services Recommendations
+- **ID**: arxiv_2606.26277v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26277v3](http://arxiv.org/abs/2606.26277v3)
+
 ## An LLM-powered Agentic Recommendation System for Connected TV Content Discovery
 - **ID**: arxiv_2607.09988v2
 - **Source**: ArXiv

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.17407v2",
+  "schema_version": "1.0",
+  "name": "Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.17407v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.17407v2",
+    "updated": "2026-10-14T17:05:28Z",
+    "published": "2026-10-12T21:13:37Z",
+    "title": "Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation",
+    "summary": "Generating realistic time-series requires faithfully reproducing rare but high-impact extreme events. Existing approaches often rely on specialized representations or extreme-focused training objectives, which may restrict the diversity of captured extremes or compromise overall distributional fidelity. We propose Cross-View Time-Frequency Diffusion (CrossTF), a framework that exploits discrepancies between time- and frequency-view denoisers for extreme-aware time-series generation. Our key empirical finding is extreme-sensitive cross-view asymmetry: moving along the direction connecting the two views' clean-sample estimates substantially changes extreme fidelity while having limited effects on overall generation quality. We further identify a late-stage cross-view window in which this discrepancy stabilizes and cross-view adjustments have a particularly strong effect on extreme fidelity. These findings motivate a staged optimization strategy in CrossTF: after training and freezing both denoisers, it only needs to learn step-specific fusion parameters within this window using an Extreme Value Theory-based objective under an energy-distance constraint. This formulation supports interpolation between and extrapolation beyond the view-specific estimates while limiting degradation in overall generation quality. Extensive experiments on seven real-world datasets against 11 baselines show that CrossTF improves extreme fidelity by 26.1% and overall performance by 7.4% relative to the strongest baselines. These results highlight cross-view discrepancy as an effective basis for low-dimensional optimization in extreme-aware time-series generation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:05:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.17407v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

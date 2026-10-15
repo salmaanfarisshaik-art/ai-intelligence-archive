@@ -600,6 +600,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.12144v4](http://arxiv.org/abs/2603.12144v4)
 
+## Selective Prediction Forgetting for Adaptation of Weakly Supervised Localization of Histology Images
+- **ID**: arxiv_2603.12468v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.12468v2](http://arxiv.org/abs/2603.12468v2)
+
 ## Deep Learning for BioImaging: What Are We Really Learning?
 - **ID**: arxiv_2603.13377v2
 - **Source**: ArXiv
@@ -769,6 +774,11 @@
 - **ID**: arxiv_2605.00887v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.00887v2](http://arxiv.org/abs/2605.00887v2)
+
+## Learning Dynamic Evidence Routes for Vision Transformer Probing
+- **ID**: arxiv_2605.00915v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00915v3](http://arxiv.org/abs/2605.00915v3)
 
 ## TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
 - **ID**: arxiv_2605.01234v2
@@ -5955,6 +5965,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13947v1](http://arxiv.org/abs/2610.13947v1)
 
+## SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing
+- **ID**: arxiv_2610.14253v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14253v2](http://arxiv.org/abs/2610.14253v2)
+
 ## MIST: Multi-Scale Spatial Context for Gene Expression Prediction from Histology
 - **ID**: arxiv_2610.18769v1
 - **Source**: ArXiv
@@ -6039,4 +6054,74 @@
 - **ID**: arxiv_2610.18871v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18871v1](http://arxiv.org/abs/2610.18871v1)
+
+## OLiVES: An Outdoor Low-Light Video Benchmark for Enhancement and Segmentation
+- **ID**: arxiv_2610.20501v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20501v1](http://arxiv.org/abs/2610.20501v1)
+
+## VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution
+- **ID**: arxiv_2610.20509v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20509v1](http://arxiv.org/abs/2610.20509v1)
+
+## Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness
+- **ID**: arxiv_2610.20543v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20543v1](http://arxiv.org/abs/2610.20543v1)
+
+## Speculative Sampling in Interactive Video Generation
+- **ID**: arxiv_2610.20556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20556v1](http://arxiv.org/abs/2610.20556v1)
+
+## A$^3$PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer
+- **ID**: arxiv_2610.20561v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20561v1](http://arxiv.org/abs/2610.20561v1)
+
+## Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation
+- **ID**: arxiv_2610.20571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20571v1](http://arxiv.org/abs/2610.20571v1)
+
+## Player-1: Learning to Play from Synthetic Experience
+- **ID**: arxiv_2610.20584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20584v1](http://arxiv.org/abs/2610.20584v1)
+
+## Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting
+- **ID**: arxiv_2610.20590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20590v1](http://arxiv.org/abs/2610.20590v1)
+
+## GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence
+- **ID**: arxiv_2610.20592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20592v1](http://arxiv.org/abs/2610.20592v1)
+
+## DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning
+- **ID**: arxiv_2610.20598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20598v1](http://arxiv.org/abs/2610.20598v1)
+
+## CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation
+- **ID**: arxiv_2610.20603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20603v1](http://arxiv.org/abs/2610.20603v1)
+
+## VITAL: From Visual Motion to Precise Action
+- **ID**: arxiv_2610.20604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20604v1](http://arxiv.org/abs/2610.20604v1)
+
+## Representation Conditioning for Generation
+- **ID**: arxiv_2610.20608v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20608v1](http://arxiv.org/abs/2610.20608v1)
+
+## Can Learning to Answer Spatial Questions Improve Novel-View Generation?
+- **ID**: arxiv_2610.20610v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20610v1](http://arxiv.org/abs/2610.20610v1)
 

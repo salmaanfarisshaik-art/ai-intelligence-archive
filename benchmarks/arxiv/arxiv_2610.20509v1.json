@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20509v1",
+  "schema_version": "1.0",
+  "name": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20509v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20509v1",
+    "updated": "2026-10-14T17:12:56Z",
+    "published": "2026-10-14T17:12:56Z",
+    "title": "VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution",
+    "summary": "Generative super-resolution (SR) can recover sharp detail in computed tomography (CT) images from severely downsampled observations, but the missing high-frequency content is not uniquely determined by the low-resolution input. Consequently, visually plausible reconstructions may contain anatomically unsupported vascular detail, such as missing, spurious, or incorrectly connected vessels. To overcome this challenge, we introduce VascuSR, an iterative anatomy-aware diffusion framework that combines image reconstruction with explicit 3D vascular guidance. First, to provide richer anatomical guidance, we use an explicit 3D vascular representation that captures structural information beyond individual slices. This representation also simplifies vascular refinement by allowing a lightweight 3D generative refiner to focus on vascular structure rather than complex CT appearance. Second, to guide slice-wise SR, a lightweight anatomy controller injects the refined structure into the diffusion decoder, while iterative feedback updates this guidance from each new SR volume. On re-annotated MSD Task08 and HVM datasets, VascuSR outperforms interpolation and learning-based SR baselines in segmentation accuracy (Dice and clDice) and 3D vascular structure (connectivity and mean centerline distance), while maintaining image quality comparable to its SR backbone. Compared with learning-based baselines, VascuSR reduces class-averaged connected-component counts by over 20% on both datasets and mean centerline distance by over 10% on MSD.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:12:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20509v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

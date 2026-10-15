@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.00915v3",
+  "schema_version": "1.0",
+  "name": "Learning Dynamic Evidence Routes for Vision Transformer Probing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.00915v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.00915v3",
+    "updated": "2026-10-14T17:28:10Z",
+    "published": "2026-04-29T15:07:00Z",
+    "title": "Learning Dynamic Evidence Routes for Vision Transformer Probing",
+    "summary": "Probing frozen vision transformers typically uses permutation-invariant aggregation (GAP or $\\texttt{[CLS]}$), treating patch tokens as an unstructured set. Content-dependent probes such as self-attention are useful accuracy controls, but they do not expose a fixed token schedule or fixed position weights for auditing. We introduce SSMProbe, a probe of frozen vision transformers that learns a Sinkhorn patch route and reads it with a diagonal S4 decoder. The decoder's causal linear time-invariant (LTI) recurrence yields fixed position coefficients, exposing how patch arrangement interacts with sequential weighting. Held-out spatial predictability measures route organization beyond a location-bias null. On CUB and Cars, MAE, BEiT, DINOv2, and supervised ViT yield spatially organized routes with distinct readout profiles: DINOv2 is $\\texttt{[CLS]}$-dominant, while MAE benefits from learned routing over fixed scans. On MAE/ImageNet, Sinkhorn reaches 70.33% accuracy, 5.55 percentage points above the strongest fixed scan.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:28:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.00915v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

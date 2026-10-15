@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.15165v2",
+  "schema_version": "1.0",
+  "name": "SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.15165v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.15165v2",
+    "updated": "2026-10-14T17:30:27Z",
+    "published": "2026-08-15T11:03:07Z",
+    "title": "SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion",
+    "summary": "Large language model (LLM) agents can continually improve without parameter updates by converting historical experience into reusable procedural knowledge. However, existing methods often consolidate experience based on semantic similarity or LLM judgments, which may merge superficially related but behaviorally incompatible strategies and thereby degrade performance. To address the issue, we propose SkillCommit, an online skill evolution framework that continuously transforms experience into a hierarchical library of reusable skills. Rather than generalizing from individual experiences immediately, SkillCommit first preserves each experience as an instance-specific patch, retaining its locally validated behavior. As patches accumulate, SkillCommit abstracts those sharing a common behavioral mechanism into higher-level skills. Specifically, for each incoming skill, embedding-based retrieval first identifies candidate related skills. Cross-instance replay and an LLM-based mechanism check determine whether these skills transfer across cases and share a common underlying mechanism. Candidates that pass both checks are abstracted into a higher-level skill and committed only if it preserves the validated behavior of all constituent skills. Experiments on RuleArena, OpenExempt and KOR-Bench demonstrate that SkillCommit consistently improves agent performance across diverse domains. Moreover, the learned skills transfer across model scales and families, enabling cross-model experience transfer.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:30:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.15165v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

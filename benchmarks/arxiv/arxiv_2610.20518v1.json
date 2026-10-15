@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20518v1",
+  "schema_version": "1.0",
+  "name": "The Wealth of Agents: Scaling Agentic AI Across Developers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20518v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20518v1",
+    "updated": "2026-10-14T17:19:11Z",
+    "published": "2026-10-14T17:19:11Z",
+    "title": "The Wealth of Agents: Scaling Agentic AI Across Developers",
+    "summary": "Today's agentic systems are typically designed, built, and deployed by single developers with full control over all participating agents. While this simplifies development, it limits the potential scale of agentic systems. We study multi-developer agentic systems (MDAs) which enable developers to collaboratively build agentic systems to push frontier capability beyond what any individual developer could achieve alone. We construct empirical and theoretical models of developers to compare MDAs with single-developer agentic systems (SDAs). On GAIA, a general assistant benchmark, a population of specialized developers whose individual agents do not exceed 35% accuracy reaches 70% when their agents are combined in an MDA. This MDA performs 12 percentage points above the median general-purpose SDA built with several times each specialist's development budget. Our theoretical models show how MDAs can incentivize specialization and encourage more efficient use of aggregated developer resources. Put together, our results make a preliminary case for MDAs as a new scaling axis by enabling developers with diverse capabilities and resources to advance agentic AI collaboratively.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:19:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20518v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

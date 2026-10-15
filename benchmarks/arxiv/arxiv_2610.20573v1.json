@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20573v1",
+  "schema_version": "1.0",
+  "name": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20573v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20573v1",
+    "updated": "2026-10-14T17:54:48Z",
+    "published": "2026-10-14T17:54:48Z",
+    "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+    "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-based semantic review with mechanical numerical and vacuity checks, providing checkable feedback and detecting errors missed by LLM judges. We apply this method, along with our Extract-Verify-Proof autoformalization pipeline, to construct the Formalized Library of Mathematical Functions (FLMF), a partial formalization of the NIST Digital Library of Mathematical Functions (DLMF). On three labeled datasets, our method achieves the lowest accepted-error rate among the evaluated methods, measured as the fraction of incorrect statements accepted by the verification method. Expert review of the results also identifies translation and source defects in existing datasets. Code available at https://github.com/annamei1/FLMF-Ch7ErrFunc-Release.git.",
+    "primary_category": "cs.LO"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:54:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20573v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -104,6 +104,7 @@
 | [Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension](http://arxiv.org/abs/2608.13447v1) | ArXiv |  | 1 |
 | [AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction](http://arxiv.org/abs/2608.28491v1) | ArXiv |  | 1 |
 | [ActionEngine: From Reactive to Programmatic Web Agents via State Machine Memory](http://arxiv.org/abs/2602.20502v2) | ArXiv |  | 1 |
+| [ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps](http://arxiv.org/abs/2610.20532v1) | ArXiv |  | 1 |
 | [AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](http://arxiv.org/abs/2609.30264v1) | ArXiv |  | 1 |
 | [Adaptive Graph-of-Islands Evolution for Automatic Feature Engineering with LLMs](http://arxiv.org/abs/2607.23286v2) | ArXiv |  | 1 |
 | [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](http://arxiv.org/abs/2607.19363v2) | ArXiv |  | 1 |
@@ -118,6 +119,7 @@
 | [Agent Team Work Zone: An Automated, Persistent Workspace for Long-Lived Claude Code Agent Teams](http://arxiv.org/abs/2607.22917v2) | ArXiv |  | 1 |
 | [AgentBeats: Agentifying Agent Assessment for Openness, Standardization, and Reproducibility](http://arxiv.org/abs/2606.13608v1) | ArXiv |  | 1 |
 | [AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers](http://arxiv.org/abs/2607.29626v1) | ArXiv |  | 1 |
+| [Agentic AI with Structured CoT for Enhancing AI's Spatial Intelligence: Visualization and Reasoning of Rotation](http://arxiv.org/abs/2610.04188v3) | ArXiv |  | 1 |
 | [Agentic Auto-Research is Fuzz Testing](http://arxiv.org/abs/2608.09855v1) | ArXiv |  | 1 |
 | [Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](http://arxiv.org/abs/2607.21482v1) | ArXiv |  | 1 |
 | [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](http://arxiv.org/abs/2607.21503v1) | ArXiv |  | 1 |
@@ -210,6 +212,7 @@
 | [CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment](http://arxiv.org/abs/2608.21278v1) | ArXiv |  | 1 |
 | [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](http://arxiv.org/abs/2609.26779v1) | ArXiv |  | 1 |
 | [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](http://arxiv.org/abs/2608.02502v1) | ArXiv |  | 1 |
+| [Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1) | ArXiv |  | 1 |
 | [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](http://arxiv.org/abs/2609.09134v1) | ArXiv |  | 1 |
 | [CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing](http://arxiv.org/abs/2608.07424v1) | ArXiv |  | 1 |
 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](http://arxiv.org/abs/2609.22068v1) | ArXiv |  | 1 |
@@ -461,6 +464,7 @@
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
 | [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
+| [MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization](http://arxiv.org/abs/2605.19330v2) | ArXiv |  | 1 |
 | [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
 | [MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](http://arxiv.org/abs/2606.26899v2) | ArXiv |  | 1 |
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
@@ -521,6 +525,7 @@
 | [Perception, Layout, and Validation: Calibrated Confidence for Reliable Straight-Through Processing of Financial Documents](http://arxiv.org/abs/2609.20110v1) | ArXiv |  | 1 |
 | [Phantom Gains: Auditing Self-Improvement Against a Measured Null](http://arxiv.org/abs/2608.20290v1) | ArXiv |  | 1 |
 | [PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents](http://arxiv.org/abs/2609.35671v1) | ArXiv |  | 1 |
+| [PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition](http://arxiv.org/abs/2610.20560v1) | ArXiv |  | 1 |
 | [Pilot Early, Commit Late: A Real-Options Model of Enterprise AI Adoption under Rapid Technological Progress](http://arxiv.org/abs/2609.15919v1) | ArXiv |  | 1 |
 | [Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](http://arxiv.org/abs/2609.24881v1) | ArXiv |  | 1 |
 | [Pinocchio: Fast Uncertainty Estimates for Black-Box Language Models](http://arxiv.org/abs/2609.24881v2) | ArXiv |  | 1 |
@@ -599,6 +604,7 @@
 | [Sample-Conditioned Representation Selection for Audio Few-Shot Learning](http://arxiv.org/abs/2609.17076v1) | ArXiv |  | 1 |
 | [ScaffoldAgent: Utility-Guided Dynamic Outline Optimization for Open-Ended Deep Research](http://arxiv.org/abs/2606.20122v2) | ArXiv |  | 1 |
 | [Scalable Delphi: Large Language Models for Structured Risk Estimation](http://arxiv.org/abs/2602.08889v2) | ArXiv |  | 1 |
+| [Scaling Discovery Requires Forgetting](http://arxiv.org/abs/2610.20563v1) | ArXiv |  | 1 |
 | [Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence](http://arxiv.org/abs/2608.31075v1) | ArXiv |  | 1 |
 | [Scaling-Score Conformal Prediction for Multi-Target Regression](http://arxiv.org/abs/2609.17091v1) | ArXiv |  | 1 |
 | [SceneActBench: Can Agents Act on the 3D Scenes They See?](http://arxiv.org/abs/2607.22393v1) | ArXiv |  | 1 |
@@ -631,6 +637,7 @@
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v2) | ArXiv |  | 1 |
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v3) | ArXiv |  | 1 |
 | [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](http://arxiv.org/abs/2608.03970v1) | ArXiv |  | 1 |
+| [SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion](http://arxiv.org/abs/2608.15165v2) | ArXiv |  | 1 |
 | [SkillNet: Create, Evaluate, and Connect AI Skills](http://arxiv.org/abs/2603.04448v2) | ArXiv |  | 1 |
 | [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1) | ArXiv |  | 1 |
 | [SKIP: a Self-knowledge-guided Step-wise Preference Learning Framework for Concise Reasoning](http://arxiv.org/abs/2609.17019v1) | ArXiv |  | 1 |
@@ -691,6 +698,7 @@
 | [The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents](http://arxiv.org/abs/2608.20201v1) | ArXiv |  | 1 |
 | [The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections](http://arxiv.org/abs/2608.03921v1) | ArXiv |  | 1 |
 | [The Verifier is the Curriculum: Precision Sets the Return on Search in Code Self-Distillation](http://arxiv.org/abs/2607.09709v2) | ArXiv |  | 1 |
+| [The Wealth of Agents: Scaling Agentic AI Across Developers](http://arxiv.org/abs/2610.20518v1) | ArXiv |  | 1 |
 | [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States](http://arxiv.org/abs/2607.01223v4) | ArXiv |  | 1 |
 | [Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models](http://arxiv.org/abs/2606.07157v4) | ArXiv |  | 1 |
 | [ThinkFlow: Self-Evolving Probabilistic Latent Memory for Lifelong Conversational Agents](http://arxiv.org/abs/2609.17010v1) | ArXiv |  | 1 |

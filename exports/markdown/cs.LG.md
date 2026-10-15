@@ -215,6 +215,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.21284v2](http://arxiv.org/abs/2601.21284v2)
 
+## Deep Time-series Forecasting Needs Kernelized Moment Balancing
+- **ID**: arxiv_2602.00717v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.00717v2](http://arxiv.org/abs/2602.00717v2)
+
 ## Rethinking the Design Space of Reinforcement Learning for Diffusion Models: On the Importance of Likelihood Estimation Beyond Loss Design
 - **ID**: arxiv_2602.04663v3
 - **Source**: ArXiv
@@ -704,6 +709,11 @@
 - **ID**: arxiv_2607.03798v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.03798v4](http://arxiv.org/abs/2607.03798v4)
+
+## What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates
+- **ID**: arxiv_2607.05381v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05381v2](http://arxiv.org/abs/2607.05381v2)
 
 ## The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG
 - **ID**: arxiv_2607.11950v2
@@ -2110,6 +2120,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13909v1](http://arxiv.org/abs/2610.13909v1)
 
+## Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation
+- **ID**: arxiv_2610.17407v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17407v2](http://arxiv.org/abs/2610.17407v2)
+
+## Does Pretraining Teach Chemical Language Models Chemistry?
+- **ID**: arxiv_2610.18651v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18651v2](http://arxiv.org/abs/2610.18651v2)
+
 ## SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection
 - **ID**: arxiv_2610.18807v1
 - **Source**: ArXiv
@@ -2129,4 +2149,44 @@
 - **ID**: arxiv_2610.18853v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18853v1](http://arxiv.org/abs/2610.18853v1)
+
+## Hindsight-Privileged RLVR: Single-Rollout Token Credit Without Group Sampling
+- **ID**: arxiv_2610.20497v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20497v1](http://arxiv.org/abs/2610.20497v1)
+
+## Generative Representation Learning for Scalable Latent Tokenization
+- **ID**: arxiv_2610.20533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20533v1](http://arxiv.org/abs/2610.20533v1)
+
+## Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks
+- **ID**: arxiv_2610.20544v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20544v1](http://arxiv.org/abs/2610.20544v1)
+
+## Recovering Reliable Supervision via Critique-Guided On-Policy Distillation
+- **ID**: arxiv_2610.20572v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20572v1](http://arxiv.org/abs/2610.20572v1)
+
+## One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness
+- **ID**: arxiv_2610.20576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20576v1](http://arxiv.org/abs/2610.20576v1)
+
+## Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes
+- **ID**: arxiv_2610.20585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20585v1](http://arxiv.org/abs/2610.20585v1)
+
+## Continuum Attention
+- **ID**: arxiv_2610.20586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20586v1](http://arxiv.org/abs/2610.20586v1)
+
+## Your Transformer Is Secretly Elastic
+- **ID**: arxiv_2610.20588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20588v1](http://arxiv.org/abs/2610.20588v1)
 

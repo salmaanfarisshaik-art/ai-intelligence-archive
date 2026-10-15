@@ -55,3 +55,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15803v1](http://arxiv.org/abs/2609.15803v1)
 
+## Price of Anarchy of First-Price Auctions in Agentic Markets
+- **ID**: arxiv_2610.20587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20587v1](http://arxiv.org/abs/2610.20587v1)
+

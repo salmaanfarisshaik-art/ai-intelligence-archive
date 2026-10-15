@@ -410,6 +410,7 @@
 | [Large Language Models Generate Harmful Responses Using a Distinct Mechanism, Shared Across Harm Types](http://arxiv.org/abs/2604.09544v3) | ArXiv |  | 1 |
 | [Last Translation Benchmark](http://arxiv.org/abs/2609.04173v1) | ArXiv |  | 1 |
 | [Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context](http://arxiv.org/abs/2609.35663v1) | ArXiv |  | 1 |
+| [Latent Compaction with Test-Time Training](http://arxiv.org/abs/2610.20582v1) | ArXiv |  | 1 |
 | [Latent Core Tokenizer: Compress, but Meaningfully](http://arxiv.org/abs/2610.12376v1) | ArXiv |  | 1 |
 | [Layer-wise Positional Bias in Short-Context Language Modeling](http://arxiv.org/abs/2601.04098v2) | ArXiv |  | 1 |
 | [Learning Concepts, Not Tokens: Self-Supervised Semantic Alignment for Language Models](http://arxiv.org/abs/2603.29123v4) | ArXiv |  | 1 |
@@ -454,6 +455,7 @@
 | [LVLMs and Humans Ground Differently in Referential Communication](http://arxiv.org/abs/2601.19792v5) | ArXiv |  | 1 |
 | [Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](http://arxiv.org/abs/2609.23371v1) | ArXiv |  | 1 |
 | [Making Clinical Language Models Auditable: Concept-Guided Fine-Tuning for Robust Prediction](http://arxiv.org/abs/2608.27397v1) | ArXiv |  | 1 |
+| [Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge](http://arxiv.org/abs/2610.20570v1) | ArXiv |  | 1 |
 | [Marking Contour Tones in Yorùbá: A Typographic and Computational Proposal](http://arxiv.org/abs/2609.38627v3) | ArXiv |  | 1 |
 | [Mask-Aware Policy Gradients for Diffusion Language Models](http://arxiv.org/abs/2607.15200v1) | ArXiv |  | 1 |
 | [MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize](http://arxiv.org/abs/2608.25449v2) | ArXiv |  | 1 |
@@ -509,6 +511,7 @@
 | [Notes to Self: Can LLMs Benefit from Experiential Abstractions?](http://arxiv.org/abs/2607.20372v1) | ArXiv |  | 1 |
 | [Nuha-Speech: Building General-Purpose Arabic Speech-LLMs](http://arxiv.org/abs/2609.11892v1) | ArXiv |  | 1 |
 | [Objective vs. Search: Decomposing What Makes a Good Tokeniser](http://arxiv.org/abs/2609.19145v1) | ArXiv |  | 1 |
+| [Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation](http://arxiv.org/abs/2610.02022v2) | ArXiv |  | 1 |
 | [On the Impact of Anonymization on the Performance of Large Language Models](http://arxiv.org/abs/2609.11335v2) | ArXiv |  | 1 |
 | [On the Threat Model of Weird Generalization and Emergent Misalignment](http://arxiv.org/abs/2608.23476v1) | ArXiv |  | 1 |
 | [On-Demand Attention: Language Models Know When to Recall](http://arxiv.org/abs/2609.20734v1) | ArXiv |  | 1 |
@@ -530,6 +533,7 @@
 | [Pass the Baton: Trajectory-Relayed On-Policy Distillation](http://arxiv.org/abs/2607.26057v1) | ArXiv |  | 1 |
 | [PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents](http://arxiv.org/abs/2608.04003v1) | ArXiv |  | 1 |
 | [Performance of Clinical AI System and Physicians and Frontier Language Models in primary care diagnostics](http://arxiv.org/abs/2609.09070v1) | ArXiv |  | 1 |
+| [PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios](http://arxiv.org/abs/2610.20548v1) | ArXiv |  | 1 |
 | [PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning](http://arxiv.org/abs/2609.18861v1) | ArXiv |  | 1 |
 | [Persuasion Index: A Theory-Guided Framework for Persuasion Analysis](http://arxiv.org/abs/2606.14580v1) | ArXiv |  | 1 |
 | [Phoneme- and Word-Level Metrics Using Self-Supervised Speech Representations for Forced Alignment Evaluation](http://arxiv.org/abs/2608.28508v1) | ArXiv |  | 1 |
@@ -548,6 +552,7 @@
 | [Prefix Sliding for efficient test-time scaling](http://arxiv.org/abs/2608.26070v1) | ArXiv |  | 1 |
 | [Pretraining Latent Information Feedback Transformers with Teacher Supervision](http://arxiv.org/abs/2609.38149v1) | ArXiv |  | 1 |
 | [PrinciplismQA: A Philosophy-Grounded Approach to Assessing LLM-Human Clinical Medical Ethics Alignment](http://arxiv.org/abs/2508.05132v3) | ArXiv |  | 1 |
+| [PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis](http://arxiv.org/abs/2610.20538v1) | ArXiv |  | 1 |
 | [PrivBench: A Holistic and Modular Benchmarking Platform for Evaluating Text-to-Text Privatization](http://arxiv.org/abs/2608.29624v1) | ArXiv |  | 1 |
 | [Probing Cultural Signals in Large Language Models through Author Profiling](http://arxiv.org/abs/2603.16749v3) | ArXiv |  | 2 |
 | [Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation](http://arxiv.org/abs/2610.06689v1) | ArXiv |  | 1 |
@@ -569,6 +574,7 @@
 | [Re:CAP - Auditing Retrieval Coverage in Production RAG Pipelines](http://arxiv.org/abs/2609.24122v2) | ArXiv |  | 1 |
 | [Reading Emotions in the Token Space: Discriminative Adaptation of SpeechLLMs for Emotion Recognition](http://arxiv.org/abs/2609.20081v1) | ArXiv |  | 1 |
 | [Reading Is Not Using: Retrieval, Judgment, and the Design of AI Financial Research Workflows](http://arxiv.org/abs/2608.24842v1) | ArXiv |  | 1 |
+| [ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models](http://arxiv.org/abs/2610.20503v1) | ArXiv |  | 1 |
 | [Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training](http://arxiv.org/abs/2608.05148v1) | ArXiv |  | 1 |
 | [Reasoning Models Know What's Important, and Encode It in Their Activations](http://arxiv.org/abs/2604.18307v2) | ArXiv |  | 1 |
 | [ReasonLab: A Controlled and Auditable Evaluation of Prompting Techniques for Multiple-Choice QA](http://arxiv.org/abs/2607.14109v2) | ArXiv |  | 1 |
@@ -752,6 +758,7 @@
 | [Untangling the Mechanisms of Misleading Context in Medical Question Answering](http://arxiv.org/abs/2609.02754v1) | ArXiv |  | 1 |
 | [User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1) | ArXiv |  | 1 |
 | [Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1) | ArXiv |  | 1 |
+| [VASPO: Self-Distillation with Privileged Value Estimation](http://arxiv.org/abs/2610.20516v1) | ArXiv |  | 1 |
 | [VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval](http://arxiv.org/abs/2607.18098v1) | ArXiv |  | 1 |
 | [VEHBench: A Stage-Local Diagnostic Benchmark for LLM-Assisted Vibration Energy Harvester Design](http://arxiv.org/abs/2607.18181v1) | ArXiv |  | 2 |
 | [Verifiable by Construction: Claim-Level Evaluation of Verbatim Citation in Clinical Question Answering](http://arxiv.org/abs/2609.15964v1) | ArXiv |  | 1 |

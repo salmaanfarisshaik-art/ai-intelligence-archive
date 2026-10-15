@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.02598v3",
+  "schema_version": "1.0",
+  "name": "Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.02598v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.02598v3",
+    "updated": "2026-10-14T17:37:28Z",
+    "published": "2026-04-03T00:16:52Z",
+    "title": "Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations",
+    "summary": "LLM-generated explanations can make technical content more accessible, but there is a ceiling on what they can support interactively. Because LLM outputs are static text, they cannot be executed or stepped through. We argue that grounding explanations in a formalized representation enables interactive affordances beyond what static text supports. We instantiate this idea for mathematical proof comprehension with explorable theorems, a system that uses LLMs to translate a theorem and its written proof into Lean, a programming language for machine-checked proofs, and links the written proof with the Lean code. Readers can work through the proof at a step-level granularity, test custom examples or counterexamples, and trace the logical dependencies bridging each step. Each worked-out step is produced by executing the Lean proof on that example and extracting its intermediate state. A user study ($n = 16$) shows potential advantages of this approach: in a proof-reading task, participants who had access to the provided explorability features gave better, more correct, and more detailed answers to comprehension questions, demonstrating a stronger overall understanding of the underlying mathematics.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:37:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.02598v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

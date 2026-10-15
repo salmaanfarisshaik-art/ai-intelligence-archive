@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20608v1",
+  "schema_version": "1.0",
+  "name": "Representation Conditioning for Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20608v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20608v1",
+    "updated": "2026-10-14T17:59:52Z",
+    "published": "2026-10-14T17:59:52Z",
+    "title": "Representation Conditioning for Generation",
+    "summary": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projection head which is discarded after training. It aims to import semantics from the vision encoder to the diffusion backbone. While this objective is achieved at early layers by back-propagating the alignment loss, there is no guarantee that later layers, supervised by the velocity prediction loss alone, can well access such semantics. We propose a simple solution, representation conditioning (RECON), to improve semantics in later layers. During training, we feed the pretrained vision encoder tokens into later layers; during inference, because we no longer have the clean image, we reuse the MLP head (as a proxy to the vision encoder) and project its output tokens to the later layers. Our method adds no parameters and leads to much faster convergence: RECON is $63\\times$ faster than SiT and $25\\times$ faster than REPA. Code is available at https://github.com/saeidrazavi/RECON",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:59:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20608v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

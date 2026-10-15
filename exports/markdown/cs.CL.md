@@ -3655,6 +3655,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.01921v2](http://arxiv.org/abs/2610.01921v2)
 
+## Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation
+- **ID**: arxiv_2610.02022v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02022v2](http://arxiv.org/abs/2610.02022v2)
+
 ## Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows
 - **ID**: arxiv_2610.02122v1
 - **Source**: ArXiv
@@ -3964,4 +3969,34 @@
 - **ID**: arxiv_2610.18868v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18868v1](http://arxiv.org/abs/2610.18868v1)
+
+## ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models
+- **ID**: arxiv_2610.20503v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20503v1](http://arxiv.org/abs/2610.20503v1)
+
+## VASPO: Self-Distillation with Privileged Value Estimation
+- **ID**: arxiv_2610.20516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20516v1](http://arxiv.org/abs/2610.20516v1)
+
+## PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis
+- **ID**: arxiv_2610.20538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20538v1](http://arxiv.org/abs/2610.20538v1)
+
+## PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios
+- **ID**: arxiv_2610.20548v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20548v1](http://arxiv.org/abs/2610.20548v1)
+
+## Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge
+- **ID**: arxiv_2610.20570v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20570v1](http://arxiv.org/abs/2610.20570v1)
+
+## Latent Compaction with Test-Time Training
+- **ID**: arxiv_2610.20582v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20582v1](http://arxiv.org/abs/2610.20582v1)
 

@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.29888v2](http://arxiv.org/abs/2603.29888v2)
 
+## Explorable Proofs: Making Written Proofs Explorable by Grounding Them in Formal Representations
+- **ID**: arxiv_2604.02598v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.02598v3](http://arxiv.org/abs/2604.02598v3)
+
 ## EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution
 - **ID**: arxiv_2604.09568v2
 - **Source**: ArXiv

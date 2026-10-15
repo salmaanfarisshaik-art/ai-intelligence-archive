@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36279v3](http://arxiv.org/abs/2609.36279v3)
 
+## Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization
+- **ID**: arxiv_2610.20573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20573v1](http://arxiv.org/abs/2610.20573v1)
+

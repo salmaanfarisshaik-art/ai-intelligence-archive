@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.05381v2",
+  "schema_version": "1.0",
+  "name": "What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.05381v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.05381v2",
+    "updated": "2026-10-14T17:57:33Z",
+    "published": "2026-07-06T17:56:11Z",
+    "title": "What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates",
+    "summary": "What does a discrete diffusion model actually learn? The literature trains denoisers, bridge plug-ins, and concrete scores, each deriving its own ELBO objective under different conventions. This fragmentation makes the object being learned unclear and ELBO values difficult to interpret and compare. All three methods learn the same object in different coordinates: the exact time-reversal of the noising process. We first prove the Oracle Distance identity: for any noising process, the negative ELBO is not just a bound on the likelihood; it equals the data entropy plus the path KL divergence from the reversed noising process to the learned one. Next, for token-factorizing noise, we show that denoiser, bridge plug-in, and concrete score are three coordinates of this reverse process, derive exact conversions between them, and identify the probability distribution learned by each. In particular, contrary to its standard interpretation, the bridge plug-in learns not a denoiser but the cavity distribution: the clean token given the noisy sequence excluding its own position. We confirm the theory by training all three coordinates with masked, uniform, and GIDD kernels on OpenWebText under a shared recipe, and by training uniform-diffusion solvers on four logic tasks. The learned coordinates agree after conversion, while confusing the cavity with the denoiser can severely degrade sampling quality. Together with exact boundary-term formulas, closed-form NELBO calibrations at initialization, and a clock interpretation of time schedules, these results provide a conceptual framework and a mechanical recipe for deriving, implementing, and comparing discrete diffusion processes.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:57:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.05381v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

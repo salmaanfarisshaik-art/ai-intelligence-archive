@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20543v1",
+  "schema_version": "1.0",
+  "name": "Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.20543v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20543v1",
+    "updated": "2026-10-14T17:36:18Z",
+    "published": "2026-10-14T17:36:18Z",
+    "title": "Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness",
+    "summary": "Multimodal sentiment models are usually evaluated on complete utterances, yet streams often lose a contiguous span of text, audio, or video. We study local missingness on aligned CMU-MOSEI features. Our reliability-aware network (RM-Net) keeps the original temporal positions, represents unobserved positions with a learned token, outputs bounded per-modality intensity contributions gated by observation quality, and is trained with dual-view masking of contiguous segments. We fuse five RM-Net seeds with a LoRA-adapted BERT text expert, using a fusion weight that depends only on the visible fraction of content tokens. Architecture, checkpoint, and fusion choices were made on the validation split. On the held-out split, the fused model reaches a macro-F1 of 0.655 on clean inputs and 0.634 under 40\\% mixed missingness; its two-view average exceeds the auxiliary-head baseline by 0.024 (95\\% video-cluster bootstrap interval [0.003, 0.045]). Because this split was inspected during development, these numbers are not a blind test. For explanations, exact Shapley attributions over the eight modality subsets and position-level occlusion show that top-ranked positions reduce the predicted-class probability faster than random positions (AUC gap 0.113 on validation). We also describe an auditable word-level alignment pipeline for raw clips; its outputs do not feed the predictive models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-15T08:51:50Z",
+  "last_updated": "2026-10-14T17:36:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20543v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -410,6 +410,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.18661v2](http://arxiv.org/abs/2605.18661v2)
 
+## MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization
+- **ID**: arxiv_2605.19330v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.19330v2](http://arxiv.org/abs/2605.19330v2)
+
 ## A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
 - **ID**: arxiv_2605.20173v2
 - **Source**: ArXiv
@@ -2014,6 +2019,11 @@
 - **ID**: arxiv_2608.15052v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.15052v2](http://arxiv.org/abs/2608.15052v2)
+
+## SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion
+- **ID**: arxiv_2608.15165v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.15165v2](http://arxiv.org/abs/2608.15165v2)
 
 ## Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling
 - **ID**: arxiv_2608.15565v2
@@ -3645,6 +3655,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03693v1](http://arxiv.org/abs/2610.03693v1)
 
+## Agentic AI with Structured CoT for Enhancing AI's Spatial Intelligence: Visualization and Reasoning of Rotation
+- **ID**: arxiv_2610.04188v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.04188v3](http://arxiv.org/abs/2610.04188v3)
+
 ## Conditional Rank Allocation for Taxonomy-Aware Medical Language Model Adaptation
 - **ID**: arxiv_2610.06765v1
 - **Source**: ArXiv
@@ -3859,4 +3874,29 @@
 - **ID**: arxiv_2610.18860v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18860v1](http://arxiv.org/abs/2610.18860v1)
+
+## The Wealth of Agents: Scaling Agentic AI Across Developers
+- **ID**: arxiv_2610.20518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20518v1](http://arxiv.org/abs/2610.20518v1)
+
+## ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps
+- **ID**: arxiv_2610.20532v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20532v1](http://arxiv.org/abs/2610.20532v1)
+
+## PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition
+- **ID**: arxiv_2610.20560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20560v1](http://arxiv.org/abs/2610.20560v1)
+
+## Scaling Discovery Requires Forgetting
+- **ID**: arxiv_2610.20563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20563v1](http://arxiv.org/abs/2610.20563v1)
+
+## Co-Evolving Acting and Forecasting for Language Agents
+- **ID**: arxiv_2610.20597v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20597v1](http://arxiv.org/abs/2610.20597v1)
 
