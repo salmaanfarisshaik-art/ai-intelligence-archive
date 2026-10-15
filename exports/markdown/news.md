@@ -6011,6 +6011,11 @@
 - **URL**: [https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words](https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words)
 
 ## 
+- **ID**: rss_https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/teaching-students-to-think-and-learn-through-questions](https://openai.com/index/teaching-students-to-think-and-learn-through-questions)
+
+## 
 - **ID**: rss_https://openai.com/index/teaching-with-ai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/teaching-with-ai](https://openai.com/index/teaching-with-ai)

@@ -2248,6 +2248,10 @@
 - **ID**: model_ifm_k2_horizon_7b_uno
 - **Source**: 
 
+## IFM/K2-Horizon-MoVA-36B-A4B-GGUF
+- **ID**: model_ifm_k2_horizon_mova_36b_a4b_gguf
+- **Source**: 
+
 ## igorls/gemma-4-12B-it-heretic-GGUF
 - **ID**: model_igorls_gemma_4_12b_it_heretic_gguf
 - **Source**: 
@@ -2708,6 +2712,10 @@
 - **ID**: model_liquidai_lfm2_5_230m_gguf
 - **Source**: 
 
+## LiquidAI/LFM2.5-24B-A2B-GGUF
+- **ID**: model_liquidai_lfm2_5_24b_a2b_gguf
+- **Source**: 
+
 ## LiquidAI/LFM2.5-2.6B
 - **ID**: model_liquidai_lfm2_5_2_6b
 - **Source**: 
@@ -3142,6 +3150,10 @@
 
 ## marketeam/Qwen-Marketing
 - **ID**: model_marketeam_qwen_marketing
+- **Source**: 
+
+## Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata
+- **ID**: model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata
 - **Source**: 
 
 ## MaxJeblick/llama2-0b-unit-test
@@ -4736,6 +4748,10 @@
 - **ID**: model_powcal_mathstral_7b_v0_1_4bit
 - **Source**: 
 
+## PowCal/Qwen2.5-Math-1.5B-4bit
+- **ID**: model_powcal_qwen2_5_math_1_5b_4bit
+- **Source**: 
+
 ## PowCal/Qwen2.5-Math-7B-4bit
 - **ID**: model_powcal_qwen2_5_math_7b_4bit
 - **Source**: 
@@ -5440,6 +5456,10 @@
 - **ID**: model_qwen_qwen3_coder_next_fp8
 - **Source**: 
 
+## Qwen/Qwen3-Coder-Next-GGUF
+- **ID**: model_qwen_qwen3_coder_next_gguf
+- **Source**: 
+
 ## Qwen/Qwen3-Embedding-0.6B
 - **ID**: model_qwen_qwen3_embedding_0_6b
 - **Source**: 
@@ -5876,6 +5896,10 @@
 - **ID**: model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16
 - **Source**: 
 
+## sh0wie/Qwen3.8-Flash-Next-REAP-288-GGUF
+- **ID**: model_sh0wie_qwen3_8_flash_next_reap_288_gguf
+- **Source**: 
+
 ## shafire/Zero-Gemma4-E4B-OpenZero-GGUF
 - **ID**: model_shafire_zero_gemma4_e4b_openzero_gguf
 - **Source**: 
@@ -5934,6 +5958,10 @@
 
 ## soyaakinohara/qwen3.8-27b-abliterated-3.69bpw-12GB-MTP.gguf
 - **ID**: model_soyaakinohara_qwen3_8_27b_abliterated_3_69bpw_12gb_mtp_gguf
+- **Source**: 
+
+## soyaakinohara/Spark-X2.5-4B-Heretic-jp-gguf
+- **ID**: model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf
 - **Source**: 
 
 ## speakleash/Bielik-11B-v2.3-Instruct
