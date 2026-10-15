@@ -1,0 +1,48 @@
+{
+  "unique_id": "hf_ds_68affd4c9e92d6d7ab470166",
+  "schema_version": "1.0",
+  "name": "WanyueZhang/MulSeT",
+  "description": "\n\t\n\t\t\n\t\tMulSeT: A Benchmark for Multi-view Spatial Understanding Tasks\n\t\n\nPaper: Why Do MLLMs Struggle with Spatial Understanding? A Systematic Analysis from Data to Architecture\nCode: https://github.com/WanyueZhang-ai/spatial-understanding\n\nA high-level overview of the MulSeT benchmark. The dataset challenges models to integrate information from two distinct viewpoints of a 3D scene to answer spatial reasoning questions.\n\n\t\n\t\n\t\n\t\t📝 Dataset Summary\n\t\n\nMulSeT is a comprehensive benchmark… See the full description on the dataset page: https://huggingface.co/datasets/WanyueZhang/MulSeT.",
+  "size": "313942",
+  "source_url": "https://huggingface.co/datasets/WanyueZhang/MulSeT",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "68affd4c9e92d6d7ab470166",
+    "id": "WanyueZhang/MulSeT",
+    "author": "WanyueZhang",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2025-11-04T09:39:35.000Z",
+    "likes": 11,
+    "private": false,
+    "sha": "edfd9c68e8afcb6bf20554e967e5e015572f4b7d",
+    "description": "\n\t\n\t\t\n\t\tMulSeT: A Benchmark for Multi-view Spatial Understanding Tasks\n\t\n\nPaper: Why Do MLLMs Struggle with Spatial Understanding? A Systematic Analysis from Data to Architecture\nCode: https://github.com/WanyueZhang-ai/spatial-understanding\n\nA high-level overview of the MulSeT benchmark. The dataset challenges models to integrate information from two distinct viewpoints of a 3D scene to answer spatial reasoning questions.\n\n\t\n\t\n\t\n\t\t📝 Dataset Summary\n\t\n\nMulSeT is a comprehensive benchmark… See the full description on the dataset page: https://huggingface.co/datasets/WanyueZhang/MulSeT.",
+    "downloads": 313942,
+    "tags": [
+      "language:en",
+      "license:apache-2.0",
+      "modality:image",
+      "arxiv:2509.02359",
+      "region:us",
+      "computer-vision",
+      "visual-question-answering",
+      "multi-modal",
+      "spatial-reasoning",
+      "synthetic-data"
+    ],
+    "createdAt": "2025-08-28T06:55:08.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-10-15T13:57:29.460775+00:00",
+  "last_updated": "2025-11-04T09:39:35.000Z",
+  "links": {
+    "related_models": [
+      "datasets/WanyueZhang"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

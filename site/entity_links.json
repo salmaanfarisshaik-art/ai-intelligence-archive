@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:52:58Z",
+  "generated_at": "2026-10-15T13:58:24Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -3057,6 +3057,21 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ifm_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-MoVA-36B-A4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_mova_36b_a4b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_igorls_gemma_4_12b_it_heretic_gguf",
       "target_id": "hf_igorls_gemma-4-12B-it-heretic",
       "type": "derived_from"
@@ -3554,6 +3569,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_230m_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-230M",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm2_5_24b_a2b_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
       "type": "derived_from"
     },
     {
@@ -4334,6 +4354,11 @@
     {
       "source_id": "model_marketeam_qwen_marketing",
       "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
       "type": "derived_from"
     },
     {
@@ -7902,6 +7927,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_sh0wie_qwen3_8_flash_next_reap_288_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_shafire_zero_gemma4_e4b_openzero_gguf",
       "target_id": "hf_unsloth_gemma-4-E4B-it",
       "type": "derived_from"
@@ -7970,6 +8000,26 @@
       "source_id": "model_soyaakinohara_qwen3_8_27b_abliterated_3_69bpw_12gb_mtp_gguf",
       "target_id": "hf_AEON-7_Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf",
+      "target_id": "hf_XHToken_Spark-X2.5-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf",
+      "target_id": "hf_fn-aka-mur_wiki40b_ja",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf",
+      "target_id": "hf_izumi-lab_llm-japanese-dataset-vanilla",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf",
+      "target_id": "hf_nappa0326_glaive-function-calling-v2-sharegpt-japanese",
+      "type": "trained_on"
     },
     {
       "source_id": "model_speakleash_bielik_11b_v2_3_instruct",

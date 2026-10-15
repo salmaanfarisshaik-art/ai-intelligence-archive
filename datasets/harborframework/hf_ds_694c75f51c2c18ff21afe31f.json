@@ -1,0 +1,39 @@
+{
+  "unique_id": "hf_ds_694c75f51c2c18ff21afe31f",
+  "schema_version": "1.0",
+  "name": "harborframework/parity-experiments",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/parity-experiments.",
+  "size": "319603",
+  "source_url": "https://huggingface.co/datasets/harborframework/parity-experiments",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "694c75f51c2c18ff21afe31f",
+    "id": "harborframework/parity-experiments",
+    "author": "harborframework",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-04-22T06:14:42.000Z",
+    "likes": 6,
+    "private": false,
+    "sha": "9e2aebde419579e58d7183136184b0071faac3a3",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/parity-experiments.",
+    "downloads": 319603,
+    "tags": [
+      "region:us"
+    ],
+    "createdAt": "2025-12-24T23:23:33.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-10-15T13:57:29.460775+00:00",
+  "last_updated": "2026-04-22T06:14:42.000Z",
+  "links": {
+    "related_models": [
+      "datasets/harborframework"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

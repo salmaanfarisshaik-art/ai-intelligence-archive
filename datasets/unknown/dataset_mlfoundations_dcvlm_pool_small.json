@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fb66c73cc925874aaf520978d31d8ed1aeab307e",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDCVLM-Pool (small)\n\t\n\nThe raw candidate pool at the small scale of our DataComp-VLM\nbenchmark: 120,940,134 samples / ~187.5B tokens / 10.3 TB across 166 source datasets, as\nWebDataset tar shards.\nThis pool is unfiltered and unmixed. It is the input to a data-curation experiment, not a training set. You choose\nthe filters and the mixing ratios, and create another training set. If you instead want a\nready-to-train dataset, use dcvlm-baseline-200b\n(our reference SoTA DCVLM-baseline… See the full description on the dataset page: https://huggingface.co/datasets/mlfoundations/dcvlm_pool_small.",
-  "downloads": 30030,
+  "downloads": 32891,
   "tags": [
     "task_categories:image-text-to-text",
     "task_categories:visual-question-answering",

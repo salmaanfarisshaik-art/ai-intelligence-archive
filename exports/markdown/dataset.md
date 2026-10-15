@@ -670,6 +670,12 @@
 - **URL**: [https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset](https://huggingface.co/datasets/ZahidYasinMittha/American-Sign-Language-Dataset)
 - **Tags**: ASL, American Sign Language, Gesture Recognition, Video Dataset, library:datasets, library:mlcroissant, license:mit, modality:video, region:us, size_categories:n<1K
 
+## WanyueZhang/MulSeT
+- **ID**: hf_ds_68affd4c9e92d6d7ab470166
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/WanyueZhang/MulSeT](https://huggingface.co/datasets/WanyueZhang/MulSeT)
+- **Tags**: arxiv:2509.02359, computer-vision, language:en, license:apache-2.0, modality:image, multi-modal, region:us, spatial-reasoning, synthetic-data, visual-question-answering
+
 ## epfml/FineWeb-HQ
 - **ID**: hf_ds_68b209361fda17d2b03263e4
 - **Source**: HuggingFace Datasets
@@ -760,6 +766,12 @@
 - **URL**: [https://huggingface.co/datasets/permutans/arxiv-papers-by-subject](https://huggingface.co/datasets/permutans/arxiv-papers-by-subject)
 - **Tags**: academic-papers, arxiv, language:en, license:mit, metadata, region:us, research, scientific-literature, size_categories:1M<n<10M, source_datasets:nick007x/arxiv-papers, task_categories:feature-extraction, task_categories:text-generation
 
+## harborframework/parity-experiments
+- **ID**: hf_ds_694c75f51c2c18ff21afe31f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/harborframework/parity-experiments](https://huggingface.co/datasets/harborframework/parity-experiments)
+- **Tags**: region:us
+
 ## genrobot2025/10Kh-RealOmin-OpenData
 - **ID**: hf_ds_6954cdff0a36f347a9b323fd
 - **Source**: HuggingFace Datasets
@@ -801,6 +813,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/mhaamh19/prophet-mosque-library](https://huggingface.co/datasets/mhaamh19/prophet-mosque-library)
 - **Tags**: language:ar, license:mit, region:us, size_categories:10K<n<100K, task_categories:image-to-text
+
+## evaleval/EEE_datastore
+- **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1233,6 +1251,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3](https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3)
 - **Tags**: modality:text, region:us, size_categories:10K<n<100K
+
+## sjkhfuk/fofo
+- **ID**: hf_ds_6acfd70a1ee5628d262f3350
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/sjkhfuk/fofo](https://huggingface.co/datasets/sjkhfuk/fofo)
+- **Tags**: region:us
 
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model

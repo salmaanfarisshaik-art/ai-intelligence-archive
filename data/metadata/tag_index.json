@@ -199,10 +199,12 @@
     "hf_ds_677ff7222275f6f6a02bd0e9"
   ],
   "annotations_creators:found": [
-    "hf_ds_64edb45c5c9245397fc83a26"
+    "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
   ],
   "annotations_creators:machine-generated": [
     "hf_ds_64edb45c5c9245397fc83a26",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_6a18ded575c463d5aecfcf4d"
@@ -679,6 +681,9 @@
   "arxiv:2508.18175": [
     "hf_ds_68699f43b939abc945dbaaf8"
   ],
+  "arxiv:2509.02359": [
+    "hf_ds_68affd4c9e92d6d7ab470166"
+  ],
   "arxiv:2509.23661": [
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_6937cb3e145e00d96aa5338c"
@@ -747,6 +752,9 @@
   ],
   "arxiv:2606.14409": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
+  ],
+  "arxiv:2606.14516": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
   ],
   "arxiv:2606.19348": [
     "hf_deepseek-ai_DeepSeek-V4-Flash",
@@ -1031,6 +1039,9 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_663b7fd5a4152b77b637ba11"
   ],
+  "benchmarks": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
+  ],
   "bimanual": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a307dae8e258cbed418ec58"
@@ -1119,7 +1130,8 @@
     "hf_ds_69be6056f46b7dff732d8c53"
   ],
   "computer-vision": [
-    "hf_ds_6785649a41a64e1582b8bb05"
+    "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_68affd4c9e92d6d7ab470166"
   ],
   "concept-vectors": [
     "hf_ds_6a000179f854441c31227673"
@@ -1759,8 +1771,12 @@
     "hf_zai-org_GLM-5.2",
     "hf_zai-org_GLM-5.3"
   ],
+  "evalevalai": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
+  ],
   "evaluation": [
-    "hf_ds_663b7fd5a4152b77b637ba11"
+    "hf_ds_663b7fd5a4152b77b637ba11",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
   ],
   "evolution": [
     "hf_ds_66674f5483de542b724d771e"
@@ -2654,6 +2670,7 @@
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
     "hf_ds_6859a511dbd17c5bad610ad2",
     "hf_ds_68822a776cf08537cb6be0af",
+    "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_6954cdff0a36f347a9b323fd",
@@ -4117,6 +4134,9 @@
   "leRobot": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
   ],
+  "leaderboards": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
+  ],
   "legal": [
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd"
@@ -4492,6 +4512,7 @@
     "hf_ds_67d829e152331730e865bfb7",
     "hf_ds_67da25756b2007f151daeca0",
     "hf_ds_6835d7e81900f053ee3c7c9e",
+    "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68c6d459d95ef41da81c9b41",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_6937cb3e145e00d96aa5338c",
@@ -4637,6 +4658,7 @@
     "hf_ds_68e91443c366e5879388a4d4",
     "hf_ds_6947232e01886522f0154ff9",
     "hf_ds_698aee8a9b778894943e6c5d",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69b3d79d63e7af41d98f1fd5",
     "hf_ds_69f7b3cc62d65c8f39fe7270",
     "hf_ds_6a000179f854441c31227673",
@@ -4790,6 +4812,9 @@
     "hf_meta-llama_Llama-3.1-8B-Instruct",
     "hf_meta-llama_Llama-3.2-1B-Instruct"
   ],
+  "meta-evaluation": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
+  ],
   "metadata": [
     "hf_ds_6947232e01886522f0154ff9"
   ],
@@ -4869,6 +4894,7 @@
     "hf_ds_67eb39ec9c3049765889d084",
     "hf_ds_68822a776cf08537cb6be0af",
     "hf_ds_6887a1762cef2ff976d3eeeb",
+    "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_696dc1fee7a76925b95bba1d",
     "hf_ds_69b0d60653fc22f5d5d3c07f",
@@ -4964,6 +4990,7 @@
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -5013,6 +5040,9 @@
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7609d6663f80dd30d388fc"
   ],
+  "model-evaluation": [
+    "hf_ds_698c9e10c98ef9ef0a6f27b3"
+  ],
   "model-index": [
     "hf_distilbert_distilgpt2"
   ],
@@ -5044,13 +5074,15 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
   ],
   "multi-modal": [
-    "hf_ds_67e58fa6625f0f6c8447f37c"
+    "hf_ds_67e58fa6625f0f6c8447f37c",
+    "hf_ds_68affd4c9e92d6d7ab470166"
   ],
   "multi-view": [
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
   ],
   "multilingual": [
     "hf_ds_6835c1a1f7b44d5d5071e8b2",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69be6056f46b7dff732d8c53",
     "hf_ds_69cf1925c61c6c0fbb866b5d",
     "hf_microsoft_Phi-3.5-vision-instruct"
@@ -5597,6 +5629,7 @@
     "hf_ds_68a5ee2849792b1224356f09",
     "hf_ds_68a7fb1964bbb2ec688d1af2",
     "hf_ds_68aefe4b74c4af3424207d2d",
+    "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_68b209361fda17d2b03263e4",
     "hf_ds_68b39036631546df1cfe0cba",
     "hf_ds_68c6d459d95ef41da81c9b41",
@@ -5612,6 +5645,7 @@
     "hf_ds_6940521784d1210361e772ee",
     "hf_ds_69417bb991171752887f7213",
     "hf_ds_6947232e01886522f0154ff9",
+    "hf_ds_694c75f51c2c18ff21afe31f",
     "hf_ds_6954cdff0a36f347a9b323fd",
     "hf_ds_695abb3c1fe276bf8ff463d4",
     "hf_ds_696dc1fee7a76925b95bba1d",
@@ -5619,6 +5653,7 @@
     "hf_ds_69889a6465dc6090197f1fcb",
     "hf_ds_6988f1ba1dea739b4799e69f",
     "hf_ds_698aee8a9b778894943e6c5d",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6990e1d8b5d312712696ef21",
     "hf_ds_699125ba2e87fc8e25a5010a",
     "hf_ds_69920596d401600ba4b9a839",
@@ -5691,6 +5726,7 @@
     "hf_ds_6a9b618da26f068ce99f0512",
     "hf_ds_6aa585f5e13985455758f8eb",
     "hf_ds_6ac0e3e0aadad5e0492a39f0",
+    "hf_ds_6acfd70a1ee5628d262f3350",
     "hf_facebook_opt-125m",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
@@ -5996,6 +6032,7 @@
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68251f06823e816aeea2d9dc",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69f638c8ebff1de2d6753093",
@@ -6132,6 +6169,7 @@
     "hf_ds_625552d2b339bb03abe3432d",
     "hf_ds_6374015cc3b104ef17a000f2",
     "hf_ds_677ff7222275f6f6a02bd0e9",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6a18ded575c463d5aecfcf4d"
   ],
   "source_datasets:oscar": [
@@ -6139,6 +6177,9 @@
   ],
   "source_datasets:ruggsea/infini-news-corpus": [
     "hf_ds_69be6056f46b7dff732d8c53"
+  ],
+  "spatial-reasoning": [
+    "hf_ds_68affd4c9e92d6d7ab470166"
   ],
   "spatial-transcriptomics": [
     "hf_ds_6a2ec08ae425e2822f53fef3"
@@ -6191,6 +6232,7 @@
   ],
   "synthetic-data": [
     "hf_ds_6785649a41a64e1582b8bb05",
+    "hf_ds_68affd4c9e92d6d7ab470166",
     "hf_ds_69f0c6101cc98d8ac04c03cd"
   ],
   "tabular": [
@@ -6273,6 +6315,7 @@
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68822a776cf08537cb6be0af",
     "hf_ds_692ecca11aad0a1d75ac057c",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_6a9b618da26f068ce99f0512"
   ],
   "task_categories:question-answering": [
@@ -6789,6 +6832,9 @@
   ],
   "vision-language-models": [
     "hf_ds_6a18ded575c463d5aecfcf4d"
+  ],
+  "visual-question-answering": [
+    "hf_ds_68affd4c9e92d6d7ab470166"
   ],
   "vla": [
     "hf_ds_6954cdff0a36f347a9b323fd",

@@ -1,0 +1,31 @@
+{
+  "_id": "69973c8d22723bd59be68c51",
+  "id": "lightly-ai/epic-kitchens-100-clips",
+  "author": "lightly-ai",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-06T07:45:41.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "a054eacd5f49b9afaaeffe41fe7c583b9c91903a",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tEPIC-KITCHENS-100 Extracted Clips\n\t\n\n\n  \n  \n  \n\n\n37,455 egocentric kitchen clips, one per narrated action, ready to explore in LightlyStudio.\nSearch clips with natural language, browse them by narration, verb and noun, and spot clips whose narration doesn't match the video.\n\n\n\t\n\t\t\n\t\n\t\n\t\t🚀 Explore it in LightlyStudio\n\t\n\nhf download lightly-ai/epic-kitchens-100-clips --repo-type dataset --local-dir epic-kitchens-100-clips\ncd epic-kitchens-100-clips\npip install -r requirements.txt… See the full description on the dataset page: https://huggingface.co/datasets/lightly-ai/epic-kitchens-100-clips.",
+  "downloads": 29117,
+  "tags": [
+    "license:cc-by-nc-4.0",
+    "size_categories:10K<n<100K",
+    "format:csv",
+    "modality:tabular",
+    "modality:text",
+    "modality:video",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us",
+    "video"
+  ],
+  "createdAt": "2026-02-19T16:38:37.000Z",
+  "key": "",
+  "unique_id": "dataset_lightly_ai_epic_kitchens_100_clips",
+  "schema_version": "1.0"
+}

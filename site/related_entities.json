@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T08:52:58Z",
+  "generated_at": "2026-10-15T13:58:24Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -375,13 +375,16 @@
       "model_ifm_k2_horizon_7b_uno"
     ],
     "hf_IFM_K2-Horizon-Midtrain-Data": [
-      "model_ifm_k2_horizon_7b"
+      "model_ifm_k2_horizon_7b",
+      "model_ifm_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_IFM_K2-Horizon-MoVA-36B-A4B": [
+      "model_ifm_k2_horizon_mova_36b_a4b_gguf",
       "model_nani_nithin_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_IFM_K2-Horizon-Pretrain-Data": [
-      "model_ifm_k2_horizon_7b"
+      "model_ifm_k2_horizon_7b",
+      "model_ifm_k2_horizon_mova_36b_a4b_gguf"
     ],
     "hf_ISTA-DASLab_Qwen3.8-27B-GSQ-RCO-GGUF": [
       "model_conwayresearch_underdog_saluki_27b_1_0"
@@ -533,6 +536,9 @@
     ],
     "hf_LiquidAI_LFM2.5-230M-Base": [
       "model_liquidai_lfm2_5_230m"
+    ],
+    "hf_LiquidAI_LFM2.5-24B-A2B": [
+      "model_liquidai_lfm2_5_24b_a2b_gguf"
     ],
     "hf_LiquidAI_LFM2.5-350M": [
       "model_liquidai_lfm2_5_350m_gguf"
@@ -1310,7 +1316,9 @@
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
-      "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf"
+      "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
+      "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf",
+      "model_sh0wie_qwen3_8_flash_next_reap_288_gguf"
     ],
     "hf_RASA": [
       "model_kenpath_svara_tts_v1"
@@ -1464,6 +1472,7 @@
     "hf_XHToken_Spark-X2.5-4B": [
       "model_abenzerps_spark_x2_5_4b_gguf",
       "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf",
+      "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf",
       "model_xhtoken_spark_x2_5_4b_gguf"
     ],
     "hf_XHToken_Spark-X2.5-4B-Base": [
@@ -2074,6 +2083,9 @@
       "model_mratsim_minimax_m2_5_bf16_int4_awq",
       "model_neuralcrew_neutrino_instruct"
     ],
+    "hf_fn-aka-mur_wiki40b_ja": [
+      "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf"
+    ],
     "hf_garage-bAInd_Open-Platypus": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
     ],
@@ -2336,6 +2348,9 @@
     ],
     "hf_interstellarninja_hermes_reasoning_tool_use": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
+    ],
+    "hf_izumi-lab_llm-japanese-dataset-vanilla": [
+      "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf"
     ],
     "hf_janhq_Jan-v3-4B-base-instruct": [
       "model_janhq_jan_v3_5_4b_gguf"
@@ -2698,6 +2713,9 @@
     ],
     "hf_mrfakename_mistral-small-3.1-24b-instruct-2503-hf": [
       "model_maziyarpanahi_mistral_small_3_1_24b_instruct_2503_hf_gguf"
+    ],
+    "hf_nappa0326_glaive-function-calling-v2-sharegpt-japanese": [
+      "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf"
     ],
     "hf_nbeerbower_mistral-nemo-bophades-12B": [
       "model_inflatebot_mn_12b_mag_mell_r1"
@@ -5004,6 +5022,11 @@
     "model_ifm_k2_horizon_7b_uno": [
       "hf_IFM_K2-Horizon-7B"
     ],
+    "model_ifm_k2_horizon_mova_36b_a4b_gguf": [
+      "hf_IFM_K2-Horizon-Midtrain-Data",
+      "hf_IFM_K2-Horizon-MoVA-36B-A4B",
+      "hf_IFM_K2-Horizon-Pretrain-Data"
+    ],
     "model_igorls_gemma_4_12b_it_heretic_gguf": [
       "hf_igorls_gemma-4-12B-it-heretic"
     ],
@@ -5253,6 +5276,9 @@
     ],
     "model_liquidai_lfm2_5_230m_gguf": [
       "hf_LiquidAI_LFM2.5-230M"
+    ],
+    "model_liquidai_lfm2_5_24b_a2b_gguf": [
+      "hf_LiquidAI_LFM2.5-24B-A2B"
     ],
     "model_liquidai_lfm2_5_2_6b": [
       "hf_LiquidAI_LFM2.5-2.6B-Base"
@@ -5581,6 +5607,9 @@
     ],
     "model_marketeam_qwen_marketing": [
       "hf_Qwen_Qwen3-8B"
+    ],
+    "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_maziyarpanahi_deepseek_r1_0528_qwen3_8b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-0528-Qwen3-8B"
@@ -7191,6 +7220,9 @@
     "model_sergiiob_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16": [
       "hf_Qwen_Qwen3.8-27B"
     ],
+    "model_sh0wie_qwen3_8_flash_next_reap_288_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
     "model_shafire_zero_gemma4_e4b_openzero_gguf": [
       "hf_unsloth_gemma-4-E4B-it"
     ],
@@ -7222,6 +7254,12 @@
     ],
     "model_soyaakinohara_qwen3_8_27b_abliterated_3_69bpw_12gb_mtp_gguf": [
       "hf_AEON-7_Qwen3.8-27B-AEON-ULTIMATE-UNCENSORED-BF16"
+    ],
+    "model_soyaakinohara_spark_x2_5_4b_heretic_jp_gguf": [
+      "hf_XHToken_Spark-X2.5-4B",
+      "hf_fn-aka-mur_wiki40b_ja",
+      "hf_izumi-lab_llm-japanese-dataset-vanilla",
+      "hf_nappa0326_glaive-function-calling-v2-sharegpt-japanese"
     ],
     "model_speakleash_bielik_11b_v2_3_instruct": [
       "hf_speakleash_Bielik-11B-v2",
