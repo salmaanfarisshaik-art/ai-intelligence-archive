@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 91
+**Total Changes:** 93
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_block-ai-powered-security.json
+None
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,25 +16,28 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
+- datasets/cais/hf_ds_621ffdd236468d709f181e5e.json
 - datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json
+- datasets/ksolovev/hf_ds_69be6056f46b7dff732d8c53.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- datasets/tiger-lab/hf_ds_663b7fd5a4152b77b637ba11.json
 - exports/csv/all_entities.csv
-- exports/csv/news.csv
+- exports/csv/datasets.csv
 - exports/json/all_entities.json
-- exports/json/news.json
-- exports/markdown/news.md
+- exports/json/datasets.json
+- exports/markdown/datasets.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/google/hf_google_gemma-3-1b-it.json
+- models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.2-1B-Instruct.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/openai-community/hf_openai-community_gpt2.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
