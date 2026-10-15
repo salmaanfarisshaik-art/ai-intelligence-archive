@@ -4,10 +4,10 @@
   "author": "lamsheeper-data-attribution",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-15T17:36:11.000Z",
+  "lastModified": "2026-10-15T21:53:43.000Z",
   "likes": 4,
   "private": false,
-  "sha": "070863cfd2dc80aa0313b439f1ca3b25d52c29e1",
+  "sha": "c7b37e7572c504e117f519b9f1a6a8b82e7c14ec",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tvtok101-distr attribution scores (Function Bindings with distractors)\n\t\n\nThe attribution scores of \"Elucidating the Design Space of LM Data Attribution\"\non Function Bindings with distractors, for the LoRA adapters in\nlamsheeper-data-attribution/Qwen3.5-4B-d0-vtok101-distr-lora-seeds. The CATT code release reads them\nwith catt fetch results --task fb-distr and rebuilds the paper's figures and tables\nfrom them with catt report results.\nEvery real document has a decoy beside it: a… See the full description on the dataset page: https://huggingface.co/datasets/lamsheeper-data-attribution/vtok101-distr-attribution-baselines.",
   "downloads": 34206,
   "tags": [

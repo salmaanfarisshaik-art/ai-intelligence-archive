@@ -1,63 +1,41 @@
 # Change Summary
 
-**Total Changes:** 102
+**Total Changes:** 79
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_teaching-students-to-think-and-learn-through-questions.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- datasets/acerobotics/hf_ds_6a68e4ea0c35d2a3ed8c033e.json
-- datasets/anon8231489123/hf_ds_642912f7a760fe0bf37996b1.json
+- datasets/evaleval/hf_ds_698c9e10c98ef9ef0a6f27b3.json
 - datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
 - datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json
 - datasets/lichess/hf_ds_66f27f215dfdba5747322656.json
-- datasets/m-a-p/hf_ds_675d7e29e24babdf1842d270.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
-- exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
-- exports/json/news.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
-- exports/markdown/news.md
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
+- models/openai-community/hf_openai-community_gpt2.json
 - models/openai/hf_openai_gpt-oss-120b.json
-- models/openai/hf_openai_gpt-oss-20b.json
-- models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
-- models/qwen/hf_Qwen_Qwen3-14B.json
-- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
+- models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
 - models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
