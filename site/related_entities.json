@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:28:45Z",
+  "generated_at": "2026-10-16T10:45:00Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -523,6 +523,7 @@
       "model_unsloth_lfm2_5_1_2b_instruct_gguf"
     ],
     "hf_LiquidAI_LFM2.5-2.6B": [
+      "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
       "model_liquidai_lfm2_5_2_6b_gguf"
     ],
     "hf_LiquidAI_LFM2.5-2.6B-Base": [
@@ -3539,6 +3540,9 @@
     "hf_ukisai_Swift-1.5-Qwen3.8-27b": [
       "model_ukisai_swift_1_5_qwen3_8_27b_gsq_rco_gguf"
     ],
+    "hf_unsloth_Mistral-Small-3.2-24B-Instruct-2506": [
+      "model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4"
+    ],
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF": [
       "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
     ],
@@ -4514,6 +4518,9 @@
     ],
     "model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf": [
       "hf_Olafangensan_GLM-4.7-Flash-heretic"
+    ],
+    "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf": [
+      "hf_LiquidAI_LFM2.5-2.6B"
     ],
     "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf": [
       "hf_DavidAU_Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B"
@@ -7082,6 +7089,9 @@
     ],
     "model_redhatai_meta_llama_3_8b_instruct_fp8_kv": [
       "hf_meta-llama_Meta-Llama-3-8B-Instruct"
+    ],
+    "model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4": [
+      "hf_unsloth_Mistral-Small-3.2-24B-Instruct-2506"
     ],
     "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8": [
       "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16"

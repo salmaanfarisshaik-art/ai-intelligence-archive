@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T05:28:45Z",
+  "generated_at": "2026-10-16T10:45:00Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2059,6 +2059,11 @@
     {
       "source_id": "model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf",
       "target_id": "hf_Olafangensan_GLM-4.7-Flash-heretic",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-2.6B",
       "type": "derived_from"
     },
     {
@@ -7669,6 +7674,11 @@
     {
       "source_id": "model_redhatai_meta_llama_3_8b_instruct_fp8_kv",
       "target_id": "hf_meta-llama_Meta-Llama-3-8B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4",
+      "target_id": "hf_unsloth_Mistral-Small-3.2-24B-Instruct-2506",
       "type": "derived_from"
     },
     {

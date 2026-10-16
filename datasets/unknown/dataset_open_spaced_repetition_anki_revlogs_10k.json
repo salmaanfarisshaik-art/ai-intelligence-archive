@@ -1,0 +1,32 @@
+{
+  "_id": "6720994640b7cfa09fdb4427",
+  "id": "open-spaced-repetition/anki-revlogs-10k",
+  "author": "open-spaced-repetition",
+  "disabled": false,
+  "gated": "auto",
+  "lastModified": "2025-08-22T06:42:25.000Z",
+  "likes": 17,
+  "private": false,
+  "sha": "75299740cff05894ef42d7ad990666691efdd2da",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tIntroduction\n\t\n\nAnki Revlogs 10K is a dataset of 10k collections from Anki for FSRS project. It is a random sample of collections with 5000+ revlog entries, so it should contain a mix of older (still active) users, and newer users.\nThe dataset contains three parts: revlogs, cards, and decks.\n\n\t\n\t\t\n\t\n\t\n\t\tRevlogs\n\t\n\nThis dataset contains flashcard review records with the following fields:\n\ncard_id: Unique identifier for each flashcard\nday_offset: Number of days since the start of… See the full description on the dataset page: https://huggingface.co/datasets/open-spaced-repetition/anki-revlogs-10k.",
+  "downloads": 28705,
+  "tags": [
+    "license:other",
+    "size_categories:100M<n<1B",
+    "format:parquet",
+    "modality:tabular",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "doi:10.57967/hf/3435",
+    "region:us",
+    "memory",
+    "spaced repetition",
+    "knowledge tracing"
+  ],
+  "createdAt": "2024-10-29T08:13:58.000Z",
+  "key": "",
+  "unique_id": "dataset_open_spaced_repetition_anki_revlogs_10k",
+  "schema_version": "1.0"
+}

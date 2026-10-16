@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a0bf7f693915ca46c3021a8fea0e6a71bd48219d",
   "description": "\n\t\n\t\t\n\t\tmmBERT Mid-training Data\n\t\n\n\n\n\n\n\nPhase 2 of 3: High-quality mid-training data mixture (600B tokens) with context extension to 8192 tokens.\n\nThis dataset contains the mid-training phase data used to train all mmBERT encoder models. This phase focuses on higher quality data sources and extends the context length from 1024 to 8192 tokens. The data is provided in MDS format ready for use with Composer and the ModernBERT training repository.\n\n\t\n\t\t\n\t\t📊 Data Composition\n\t\n\n\n\t\n\t\t\nData Source… See the full description on the dataset page: https://huggingface.co/datasets/jhu-clsp/mmBERT-midtraining-data.",
-  "downloads": 41127,
+  "downloads": 53328,
   "tags": [
     "task_categories:fill-mask",
     "license:mit",

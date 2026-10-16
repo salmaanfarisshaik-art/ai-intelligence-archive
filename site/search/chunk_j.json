@@ -101,6 +101,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_gem_wiki_lingua",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_gililior_mmlu_prox_eval_predictions",
       "match_type": "exact",
       "score": 1.5
@@ -382,6 +387,11 @@
     },
     {
       "entity_id": "model_cyphertroopers_cph_community_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -6146,6 +6156,13 @@
       "entity_id": "hf_ds_YUJIAXIE_jiefangjunbao",
       "match_type": "exact",
       "score": 3.0
+    }
+  ],
+  "jieyuz2": [
+    {
+      "entity_id": "dataset_jieyuz2_wrench",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "jigokudani": [
@@ -11947,6 +11964,11 @@
     },
     {
       "entity_id": "dataset_sunlry_robotwin_random_47_500",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_synetune_blackbox_repository",
       "match_type": "exact",
       "score": 1.0
     },

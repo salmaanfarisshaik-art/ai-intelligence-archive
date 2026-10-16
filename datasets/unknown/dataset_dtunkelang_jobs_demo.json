@@ -4,14 +4,16 @@
   "author": "dtunkelang",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-16T05:16:38.000Z",
+  "lastModified": "2026-10-16T08:06:09.000Z",
   "likes": 1,
   "private": false,
-  "sha": "304da8d836ad45bc5aba7e900d2563f06d2ee819",
+  "sha": "5282ba32c6978399cb42574c841bddb0169c4e3d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tBag-of-Documents — Unified Jobs Artifacts\n\t\n\nCompanion artifacts for the unified jobs search Space.\nContains: titles + slim metadata + full metadata (JSONL) + bge-small + te3-large @ 1024 catalog vectors + pre-encoded te3 query cache (~196k popular queries) for 347,900 job postings across 4 corpora (Open-Apply, LinkedIn, JobStreet, USAJobs).\nSource: github.com/dtunkelang/bag-of-documents\n",
   "downloads": 27702,
   "tags": [
     "license:cc-by-4.0",
+    "size_categories:1K<n<10K",
+    "modality:text",
     "region:us"
   ],
   "createdAt": "2026-05-24T00:40:11.000Z",

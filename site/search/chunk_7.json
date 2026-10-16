@@ -2044,6 +2044,13 @@
       "score": 1.0
     }
   ],
+  "770k": [
+    {
+      "entity_id": "dataset_gem_wiki_lingua",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "771": [
     {
       "entity_id": "dataset_lichess_standard_chess_games",
@@ -3651,6 +3658,11 @@
     },
     {
       "entity_id": "model_deepseek_ai_deepseek_r1_distill_qwen_7b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_defog_sqlcoder_7b_2",
       "match_type": "exact",
       "score": 2.0
     },

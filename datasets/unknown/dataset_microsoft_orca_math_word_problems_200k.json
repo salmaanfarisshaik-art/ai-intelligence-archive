@@ -1,0 +1,32 @@
+{
+  "_id": "65e127b19f978976f16dbe83",
+  "id": "microsoft/orca-math-word-problems-200k",
+  "author": "microsoft",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-03-04T18:01:08.000Z",
+  "likes": 508,
+  "private": false,
+  "sha": "29255d1770cc4eac66e5e7fa378cba542c026350",
+  "description": "\n\t\n\t\t\n\t\tDataset Card\n\t\n\n\n\nThis dataset contains ~200K grade school math word problems. All the answers in this dataset is generated using Azure GPT4-Turbo. Please refer to Orca-Math: Unlocking the potential of\nSLMs in Grade School Math for details about the dataset construction. \n\n\t\n\t\t\n\t\tDataset Sources\n\t\n\n\n\n\nRepository: microsoft/orca-math-word-problems-200k\nPaper: Orca-Math: Unlocking the potential of\nSLMs in Grade School Math\n\n\n\t\n\t\t\n\t\tDirect Use\n\t\n\n\n\nThis dataset has been designed to… See the full description on the dataset page: https://huggingface.co/datasets/microsoft/orca-math-word-problems-200k.",
+  "downloads": 28454,
+  "tags": [
+    "task_categories:question-answering",
+    "language:en",
+    "license:mit",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2402.14830",
+    "region:us",
+    "math"
+  ],
+  "createdAt": "2024-03-01T00:56:17.000Z",
+  "key": "",
+  "unique_id": "dataset_microsoft_orca_math_word_problems_200k",
+  "schema_version": "1.0"
+}

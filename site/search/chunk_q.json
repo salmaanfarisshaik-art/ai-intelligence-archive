@@ -4750,6 +4750,13 @@
       "score": 1.0
     }
   ],
+  "quantile": [
+    {
+      "entity_id": "dataset_synetune_blackbox_repository",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "quantimedai": [
     {
       "entity_id": "arxiv_2608.06294v1",
@@ -6912,6 +6919,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -8482,6 +8494,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8",
       "match_type": "exact",
       "score": 1.5
@@ -9227,6 +9244,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_xidisdg_qwen3_8_27b_uncensored_ninfer",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_yanissamz_hy3_295b_a21b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -9337,6 +9359,11 @@
     },
     {
       "entity_id": "model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -13722,6 +13749,11 @@
     },
     {
       "entity_id": "dataset_meigen_ai_genevolve_data_bench",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_microsoft_orca_math_word_problems_200k",
       "match_type": "exact",
       "score": 1.5
     },
@@ -28059,6 +28091,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "model_xidisdg_qwen3_8_27b_uncensored_ninfer",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "model_yujiepan_qwen3_tiny_random",
       "match_type": "exact",
       "score": 3.5
@@ -29025,6 +29062,11 @@
     },
     {
       "entity_id": "hf_z-lab_Qwen3.6-35B-A3B-DFlash",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
       "match_type": "exact",
       "score": 2.0
     },
