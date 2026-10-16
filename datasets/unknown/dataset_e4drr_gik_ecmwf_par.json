@@ -9,7 +9,7 @@
   "private": false,
   "sha": "5bd03ad5ccf8cf28e8f7f196cdbdeca4df13b14a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tGIK-ECMWF-PAR: Virtual Reference Parquets for ECMWF IFS Ensemble Forecasts\n\t\n\nLightweight parquet reference files that turn 3--4 GB ECMWF GRIB files into ~140 KB virtual datasets, enabling Dask-based parallel analysis without downloading the raw data.\n\n\t\n\t\t\n\t\n\t\n\t\tWhat These Parquets Do\n\t\n\nEach parquet file contains a table of [zarr_key, [s3_url, byte_offset, byte_length]] references pointing into ECMWF IFS ensemble GRIB files on AWS S3 (s3://ecmwf-forecasts/). Instead of… See the full description on the dataset page: https://huggingface.co/datasets/E4DRR/gik-ecmwf-par.",
-  "downloads": 31232,
+  "downloads": 34639,
   "tags": [
     "license:apache-2.0",
     "size_categories:n<1K",

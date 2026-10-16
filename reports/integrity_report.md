@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-16T10:43:57.493493+00:00
-**Warnings:** 4289
+**Generated:** 2026-10-16T15:12:55.880287+00:00
+**Warnings:** 4291
 **Errors:** 300
 
 ## Issues
@@ -4519,6 +4519,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ksolovev
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/tars-robotics
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Williamsanderson
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/willi19
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/PsiBotAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jeyasuryaur
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/jasperai
@@ -4546,6 +4547,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/challenge-2026
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/RekaAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/gifoe
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ahnaftaz
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/SKPark1
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2312.17673
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2404.13208

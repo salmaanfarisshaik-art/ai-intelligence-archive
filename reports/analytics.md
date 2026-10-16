@@ -1,17 +1,17 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91181
+**Total Entities Tracked**: 91196
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2372
-- **models**: 1846
+- **datasets**: 2381
+- **models**: 1850
 - **news**: 1322
 - **cs.CV**: 1256
-- **dataset**: 1208
+- **dataset**: 1210
 - **text-generation**: 1014
 - **cs.CL**: 813
 - **cs.AI**: 793
@@ -97,11 +97,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31396
+- ****: 31409
 - **ArXiv**: 4078
 - **Hugging Face**: 2021
 - **OpenAI Blog**: 1308
-- **HuggingFace Datasets**: 208
+- **HuggingFace Datasets**: 210
 - **GitHub Trending**: 56
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -141,16 +141,16 @@
 
 ## Top Tags
 
-- **region:us**: 294
+- **region:us**: 296
 - **text-generation**: 87
 - **library:datasets**: 84
 - **library:mlcroissant**: 84
 - **modality:text**: 81
 - **license:apache-2.0**: 74
 - **endpoints_compatible**: 73
+- **language:en**: 73
 - **safetensors**: 73
 - **transformers**: 73
-- **language:en**: 72
 - **conversational**: 68
 - **library:polars**: 63
 - **license:mit**: 51
@@ -160,9 +160,9 @@
 - **en**: 32
 - **library:pandas**: 32
 - **library:dask**: 31
-- **task_categories:text-generation**: 29
+- **task_categories:text-generation**: 30
 - **eval-results**: 27
-- **license:other**: 26
+- **license:other**: 27
 - **enterprise**: 25
 - **modality:image**: 25
 - **size_categories:n<1K**: 25
@@ -171,8 +171,8 @@
 - **qwen3**: 21
 - **size_categories:10K<n<100K**: 20
 - **license:cc-by-4.0**: 17
+- **task_categories:robotics**: 17
 - **api**: 16
-- **task_categories:robotics**: 16
 - **modality:video**: 14
 - **size_categories:100K<n<1M**: 14
 - **multilinguality:monolingual**: 13

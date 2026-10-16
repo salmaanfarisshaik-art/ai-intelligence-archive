@@ -9,7 +9,7 @@
   "private": false,
   "sha": "21d7284df2a9621c71f21bc4a1a30b7e8effb8dd",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRelBench v1\n\t\n\nThe RelBench v1 databases and tasks, one database per subdirectory. The v2-only databases and tasks are in stanford-star/relbench-v2-extra. regression_stds.json holds the train-split target standard deviations that turn MAE into NMAE.\n<dataset>/\n  manifest.yaml                 # tables, primary keys, foreign-key graph, val/test timestamps\n  schema.svg                    # ER diagram\n  db/*.parquet                  # relational tables\n  tasks/<task>/manifest.yaml    #… See the full description on the dataset page: https://huggingface.co/datasets/stanford-star/relbench-v1.",
-  "downloads": 41666,
+  "downloads": 48380,
   "tags": [
     "license:other",
     "size_categories:n<1K",

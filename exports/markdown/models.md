@@ -1148,6 +1148,10 @@
 - **ID**: model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf
 - **Source**: 
 
+## DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF
+- **ID**: model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf
+- **Source**: 
+
 ## DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF
 - **ID**: model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf
 - **Source**: 
@@ -1354,6 +1358,10 @@
 
 ## deepseek-ai/DeepSeek-V4-Pro-DSpark
 - **ID**: model_deepseek_ai_deepseek_v4_pro_dspark
+- **Source**: 
+
+## defog/sqlcoder-7b-2
+- **ID**: model_defog_sqlcoder_7b_2
 - **Source**: 
 
 ## delphi-suite/v0-llama2-100k
@@ -5672,6 +5680,10 @@
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
 - **Source**: 
 
+## RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-NVFP4
+- **ID**: model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4
+- **Source**: 
+
 ## RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8
 - **ID**: model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8
 - **Source**: 
@@ -7178,6 +7190,10 @@
 
 ## XiaomiMiMo/MiMo-V2-Flash
 - **ID**: model_xiaomimimo_mimo_v2_flash
+- **Source**: 
+
+## xidisdg/qwen3.8_27b-uncensored-ninfer
+- **ID**: model_xidisdg_qwen3_8_27b_uncensored_ninfer
 - **Source**: 
 
 ## XingChen-AGI/Xing4.0-29B-A4B

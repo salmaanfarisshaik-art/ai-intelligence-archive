@@ -958,6 +958,12 @@
 - **URL**: [https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual](https://huggingface.co/datasets/Williamsanderson/MedQA-Darija-MultiLingual)
 - **Tags**: audio, darija, format:parquet, healthcare, language:ar, language:en, language:fr, library:datasets, library:mlcroissant, library:pandas, library:polars, license:cc-by-4.0, medical, medqa, modality:audio, modality:text, moroccan-arabic, multilingual, question-answering, region:us, size_categories:100K<n<1M, speech, task_categories:automatic-speech-recognition, task_categories:question-answering, task_categories:text-to-speech, trilingual
 
+## willi19/autodex-gallery
+- **ID**: hf_ds_69d2b3f8bbf83b1a4bb7eae4
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/willi19/autodex-gallery](https://huggingface.co/datasets/willi19/autodex-gallery)
+- **Tags**: allegro, arxiv:2606.23689, autodex, dexterous-manipulation, grasping, inspire, language:en, multi-view, region:us, robotics, task_categories:robotics
+
 ## Hoshipu/roboreal_data
 - **ID**: hf_ds_69d94b0139920e2fc8631756
 - **Source**: HuggingFace Datasets
@@ -1221,6 +1227,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/gifoe/persistent](https://huggingface.co/datasets/gifoe/persistent)
 - **Tags**: license:other, region:us
+
+## ahnaftaz/locus-commit-pool-v1
+- **ID**: hf_ds_6a80b0577ce7785d1c42af57
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ahnaftaz/locus-commit-pool-v1](https://huggingface.co/datasets/ahnaftaz/locus-commit-pool-v1)
+- **Tags**: code, commits, git, jsonl, license:other, multi-file, pretraining, region:us, software-engineering, task_categories:text-generation
 
 ## gfdg34fsd/newe
 - **ID**: hf_ds_6a8779d11c6e0f8d87cc3080

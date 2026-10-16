@@ -280677,6 +280677,16 @@
     "local_path": "datasets/unknown/dataset_amazonscience_multilingualmultimodalclassification.json"
   },
   {
+    "id": "dataset_amazonscience_robustad",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_amazonscience_robustad.json"
+  },
+  {
     "id": "dataset_ami_iit_paper_sorrentino_humanoids2024_friction",
     "title": "",
     "category": "datasets",
@@ -282705,6 +282715,16 @@
     "links": {},
     "source_url": "",
     "local_path": "datasets/unknown/dataset_carstone_handedit_egodex.json"
+  },
+  {
+    "id": "dataset_castorini_prebuilt_indexes_beir",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_castorini_prebuilt_indexes_beir.json"
   },
   {
     "id": "dataset_catherinearnett_montok",
@@ -285417,6 +285437,16 @@
     "local_path": "datasets/unknown/dataset_gear_dreams_dreamzero_droid_data.json"
   },
   {
+    "id": "dataset_gem_wiki_lingua",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_gem_wiki_lingua.json"
+  },
+  {
     "id": "dataset_genai4elab_papercli_papers_neurips",
     "title": "",
     "category": "datasets",
@@ -287365,6 +287395,16 @@
     "links": {},
     "source_url": "",
     "local_path": "datasets/unknown/dataset_iamtarun_python_code_instructions_18k_alpaca.json"
+  },
+  {
+    "id": "dataset_ibm_nasa_geospatial_landslide4sense",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_ibm_nasa_geospatial_landslide4sense.json"
   },
   {
     "id": "dataset_ibrahimhamamci_ct_rate",
@@ -291637,6 +291677,16 @@
     "local_path": "datasets/unknown/dataset_jiaqi_chen_3d_front.json"
   },
   {
+    "id": "dataset_jieyuz2_wrench",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_jieyuz2_wrench.json"
+  },
+  {
     "id": "dataset_jinaai_documentation_images",
     "title": "",
     "category": "datasets",
@@ -293107,6 +293157,16 @@
     "local_path": "datasets/unknown/dataset_lmms_lab_docvqa.json"
   },
   {
+    "id": "dataset_lmms_lab_egoit_99k",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_lmms_lab_egoit_99k.json"
+  },
+  {
     "id": "dataset_lmms_lab_egolife",
     "title": "",
     "category": "datasets",
@@ -294385,6 +294445,16 @@
     "links": {},
     "source_url": "",
     "local_path": "datasets/unknown/dataset_microsoft_notsofar.json"
+  },
+  {
+    "id": "dataset_microsoft_orca_math_word_problems_200k",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_microsoft_orca_math_word_problems_200k.json"
   },
   {
     "id": "dataset_microsoft_rstar_coder",
@@ -296625,6 +296695,16 @@
     "links": {},
     "source_url": "",
     "local_path": "datasets/unknown/dataset_open_social_world_autolibra.json"
+  },
+  {
+    "id": "dataset_open_spaced_repetition_anki_revlogs_10k",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_open_spaced_repetition_anki_revlogs_10k.json"
   },
   {
     "id": "dataset_open_thoughts_openthoughts_114k",
@@ -300395,6 +300475,16 @@
     "links": {},
     "source_url": "",
     "local_path": "datasets/unknown/dataset_synetune_bbo_pile_raw.json"
+  },
+  {
+    "id": "dataset_synetune_blackbox_repository",
+    "title": "",
+    "category": "datasets",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "datasets/unknown/dataset_synetune_blackbox_repository.json"
   },
   {
     "id": "dataset_sysuyy_imgedit",
@@ -315653,6 +315743,35 @@
     "local_path": "datasets/williamsanderson/hf_ds_69cf1925c61c6c0fbb866b5d.json"
   },
   {
+    "id": "hf_ds_69d2b3f8bbf83b1a4bb7eae4",
+    "title": "willi19/autodex-gallery",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "allegro",
+      "arxiv:2606.23689",
+      "autodex",
+      "dexterous-manipulation",
+      "grasping",
+      "inspire",
+      "language:en",
+      "multi-view",
+      "region:us",
+      "robotics",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/willi19"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/willi19/autodex-gallery",
+    "local_path": "datasets/willi19/hf_ds_69d2b3f8bbf83b1a4bb7eae4.json"
+  },
+  {
     "id": "hf_ds_69d94b0139920e2fc8631756",
     "title": "Hoshipu/roboreal_data",
     "category": "dataset",
@@ -316794,6 +316913,34 @@
     },
     "source_url": "https://huggingface.co/datasets/gifoe/persistent",
     "local_path": "datasets/gifoe/hf_ds_6a78b84bece7ed72375bcf43.json"
+  },
+  {
+    "id": "hf_ds_6a80b0577ce7785d1c42af57",
+    "title": "ahnaftaz/locus-commit-pool-v1",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "code",
+      "commits",
+      "git",
+      "jsonl",
+      "license:other",
+      "multi-file",
+      "pretraining",
+      "region:us",
+      "software-engineering",
+      "task_categories:text-generation"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ahnaftaz"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ahnaftaz/locus-commit-pool-v1",
+    "local_path": "datasets/ahnaftaz/hf_ds_6a80b0577ce7785d1c42af57.json"
   },
   {
     "id": "hf_ds_6a8779d11c6e0f8d87cc3080",
@@ -335912,6 +336059,16 @@
     "local_path": "models/davidau/model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf.json"
   },
   {
+    "id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
+    "title": "DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/davidau/model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf.json"
+  },
+  {
     "id": "model_davidau_llama_3_2_8x3b_moe_dark_champion_instruct_uncensored_abliterated_18_4b_gguf",
     "title": "DavidAU/Llama-3.2-8X3B-MOE-Dark-Champion-Instruct-uncensored-abliterated-18.4B-GGUF",
     "category": "models",
@@ -336430,6 +336587,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/deepseek-ai/model_deepseek_ai_deepseek_v4_pro_dspark.json"
+  },
+  {
+    "id": "model_defog_sqlcoder_7b_2",
+    "title": "defog/sqlcoder-7b-2",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/defog/model_defog_sqlcoder_7b_2.json"
   },
   {
     "id": "model_delphi_suite_v0_llama2_100k",
@@ -347222,6 +347389,16 @@
     "local_path": "models/redhatai/model_redhatai_meta_llama_3_8b_instruct_fp8_kv.json"
   },
   {
+    "id": "model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4",
+    "title": "RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-NVFP4",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/redhatai/model_redhatai_mistral_small_3_2_24b_instruct_2506_nvfp4.json"
+  },
+  {
     "id": "model_redhatai_nvidia_nemotron_3_5_lightning_30b_a3b_fp8",
     "title": "RedHatAI/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-FP8",
     "category": "models",
@@ -350990,6 +351167,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/xiaomimimo/model_xiaomimimo_mimo_v2_flash.json"
+  },
+  {
+    "id": "model_xidisdg_qwen3_8_27b_uncensored_ninfer",
+    "title": "xidisdg/qwen3.8_27b-uncensored-ninfer",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/xidisdg/model_xidisdg_qwen3_8_27b_uncensored_ninfer.json"
   },
   {
     "id": "model_xingchen_agi_xing4_0_29b_a4b",
