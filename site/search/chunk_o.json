@@ -20999,11 +20999,6 @@
       "score": 5.0
     },
     {
-      "entity_id": "dataset_community_datasets_quarel",
-      "match_type": "exact",
-      "score": 5.0
-    },
-    {
       "entity_id": "dataset_eleutherai_lambada_openai",
       "match_type": "exact",
       "score": 5.0
@@ -29040,6 +29035,11 @@
     },
     {
       "entity_id": "dataset_colaoverdrive_commacarsegments",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "dataset_community_datasets_quarel",
       "match_type": "exact",
       "score": 4.0
     },
@@ -43029,11 +43029,6 @@
       "score": 3.0
     },
     {
-      "entity_id": "dataset_allenai_qasc",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
       "entity_id": "dataset_allenai_quartz",
       "match_type": "exact",
       "score": 3.0
@@ -43065,11 +43060,6 @@
     },
     {
       "entity_id": "dataset_anisoleai_fineweb_tokenized",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "dataset_aps_super_glue",
       "match_type": "exact",
       "score": 3.0
     },
@@ -43755,11 +43745,6 @@
     },
     {
       "entity_id": "hf_ds_621ffdd236468d709f181f95",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "hf_ds_621ffdd236468d709f181fa6",
       "match_type": "exact",
       "score": 3.0
     },
@@ -67809,6 +67794,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_allenai_qasc",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_allenai_real_toxicity_prompts",
       "match_type": "exact",
       "score": 2.0
@@ -67855,6 +67845,11 @@
     },
     {
       "entity_id": "dataset_anthropic_hh_rlhf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_aps_super_glue",
       "match_type": "exact",
       "score": 2.0
     },
@@ -68845,6 +68840,11 @@
     },
     {
       "entity_id": "hf_ds_621ffdd236468d709f181e5e",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_621ffdd236468d709f181fa6",
       "match_type": "exact",
       "score": 2.0
     },
@@ -92517,6 +92517,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_opengalaxea_galaxea_open_world_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_68e91443c366e5879388a4d4",
       "match_type": "exact",
       "score": 1.0
@@ -92701,13 +92706,6 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/report-from-the-self-organizing-conference",
-      "match_type": "exact",
-      "score": 1.0
-    }
-  ],
-  "officesettings": [
-    {
-      "entity_id": "dataset_opengalaxea_galaxea_open_world_dataset",
       "match_type": "exact",
       "score": 1.0
     }
@@ -97520,11 +97518,6 @@
       "entity_id": "alpaca_6686109792929653740",
       "match_type": "exact",
       "score": 1.0
-    },
-    {
-      "entity_id": "dataset_derek_thomas_scienceqa",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "okonomiyaki": [
@@ -100984,7 +100977,7 @@
     {
       "entity_id": "dataset_internrobotics_omniworld",
       "match_type": "exact",
-      "score": 6.0
+      "score": 5.0
     },
     {
       "entity_id": "hf_ds_InternRobotics_OmniWorld",

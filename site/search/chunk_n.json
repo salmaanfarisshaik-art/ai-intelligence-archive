@@ -17111,6 +17111,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_bigcode_bigcodebench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_flare_medfm_flare_automsc",
       "match_type": "exact",
       "score": 1.0
@@ -24583,11 +24588,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "dataset_allenai_sciq",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
       "entity_id": "dataset_aps_super_glue",
       "match_type": "exact",
       "score": 2.0
@@ -25339,6 +25339,11 @@
     },
     {
       "entity_id": "arxiv_2608.13555v1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_allenai_sciq",
       "match_type": "exact",
       "score": 1.0
     },
@@ -83043,11 +83048,6 @@
       "entity_id": "dataset_google_research_datasets_natural_questions",
       "match_type": "exact",
       "score": 2.0
-    },
-    {
-      "entity_id": "dataset_castorini_prebuilt_indexes_beir",
-      "match_type": "exact",
-      "score": 1.0
     }
   ],
   "nqo": [
@@ -83900,11 +83900,6 @@
   "nuclei": [
     {
       "entity_id": "alpaca_5919627456342412883",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_mahmoodlab_hest",
       "match_type": "exact",
       "score": 1.0
     }

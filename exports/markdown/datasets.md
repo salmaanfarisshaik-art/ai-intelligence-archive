@@ -693,6 +693,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_assassinlike_everything132
+- **Source**: 
+
+## 
 - **ID**: dataset_astralhf_yonder
 - **Source**: 
 
@@ -1805,6 +1809,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dronefreak_rain13k
+- **Source**: 
+
+## 
 - **ID**: dataset_dronefreak_rdd2022
 - **Source**: 
 
@@ -1918,6 +1926,10 @@
 
 ## 
 - **ID**: dataset_einarolafsson_models
+- **Source**: 
+
+## 
+- **ID**: dataset_elefantai_p2p_full_data
 - **Source**: 
 
 ## 
@@ -2218,6 +2230,10 @@
 
 ## 
 - **ID**: dataset_fm4cs_thor_pretrain
+- **Source**: 
+
+## 
+- **ID**: dataset_foersben_mvtec_ad
 - **Source**: 
 
 ## 
@@ -3301,6 +3317,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn10_content_20260924b1dc
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn10_content_202610063e1b
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn11_content_2026042565c5
 - **Source**: 
 
@@ -3657,6 +3681,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn12_content_2026092482d9
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn12_content_202610067466
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn13_content_202604254caa
 - **Source**: 
 
@@ -3833,6 +3865,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn13_content_20260924b261
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn13_content_20261006a1cf
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn14_content_20260425ac85
 - **Source**: 
 
@@ -4006,6 +4046,10 @@
 
 ## 
 - **ID**: dataset_icdn14_content_202608191e01
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn14_content_202609266196
 - **Source**: 
 
 ## 
@@ -4281,6 +4325,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn18_content_20261004d98d
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn19_content_202607060b55
 - **Source**: 
 
@@ -4330,6 +4378,10 @@
 
 ## 
 - **ID**: dataset_icdn20_content_202608257ac7
+- **Source**: 
+
+## 
+- **ID**: dataset_icdn20_content_202610042c1c
 - **Source**: 
 
 ## 
@@ -7061,6 +7113,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_palatialsim_palatial_nv_asset_library
+- **Source**: 
+
+## 
 - **ID**: dataset_papluca_language_identification
 - **Source**: 
 
@@ -9030,6 +9086,10 @@
 
 ## 
 - **ID**: dataset_willi19_autodex_gallery
+- **Source**: 
+
+## 
+- **ID**: dataset_willi19_autodex_gallery_video
 - **Source**: 
 
 ## 
