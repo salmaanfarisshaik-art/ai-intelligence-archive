@@ -755,6 +755,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.16743v2](http://arxiv.org/abs/2604.16743v2)
 
+## EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training
+- **ID**: arxiv_2604.20012v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.20012v2](http://arxiv.org/abs/2604.20012v2)
+
 ## SketchVLM: Vision language models can annotate images to explain thoughts and guide users
 - **ID**: arxiv_2604.22875v3
 - **Source**: ArXiv
@@ -1869,6 +1874,11 @@
 - **ID**: arxiv_2607.21556v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21556v1](http://arxiv.org/abs/2607.21556v1)
+
+## Visual Contrastive Self-Distillation
+- **ID**: arxiv_2607.21556v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21556v2](http://arxiv.org/abs/2607.21556v2)
 
 ## Scene Parameter Saliency via Differentiable Light Transport
 - **ID**: arxiv_2607.21562v1
@@ -6184,4 +6194,89 @@
 - **ID**: arxiv_2610.20610v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20610v1](http://arxiv.org/abs/2610.20610v1)
+
+## Grounded Human-Attributed Description and Activity Recognition in Videos
+- **ID**: arxiv_2610.22295v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22295v1](http://arxiv.org/abs/2610.22295v1)
+
+## ARC-SORT: Adaptive, Robust, Compensated Multi-Object Tracking with Interacting Multiple Models
+- **ID**: arxiv_2610.22306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22306v1](http://arxiv.org/abs/2610.22306v1)
+
+## Velox: Spatial Memory Makes World Models Efficient
+- **ID**: arxiv_2610.22311v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22311v1](http://arxiv.org/abs/2610.22311v1)
+
+## Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling
+- **ID**: arxiv_2610.22320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22320v1](http://arxiv.org/abs/2610.22320v1)
+
+## AVC-Reward: Event-Centric Audio-Video Consistency Evaluation
+- **ID**: arxiv_2610.22321v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22321v1](http://arxiv.org/abs/2610.22321v1)
+
+## Dense4D: Pixel-Level 4D Human Correspondence
+- **ID**: arxiv_2610.22325v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22325v1](http://arxiv.org/abs/2610.22325v1)
+
+## ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning
+- **ID**: arxiv_2610.22328v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22328v1](http://arxiv.org/abs/2610.22328v1)
+
+## 3DCodeVerse: Exploring 3D Worlds as Code
+- **ID**: arxiv_2610.22341v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22341v1](http://arxiv.org/abs/2610.22341v1)
+
+## GeoState: Learning View-Decoupled Geometry States for 3D World Modeling
+- **ID**: arxiv_2610.22343v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22343v1](http://arxiv.org/abs/2610.22343v1)
+
+## Speculative Forcing for Efficient Autoregressive Video Generation
+- **ID**: arxiv_2610.22347v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22347v1](http://arxiv.org/abs/2610.22347v1)
+
+## SUPRA-TEX: 3D Generation with Super-Aligned Texture
+- **ID**: arxiv_2610.22352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22352v1](http://arxiv.org/abs/2610.22352v1)
+
+## DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models
+- **ID**: arxiv_2610.22356v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22356v1](http://arxiv.org/abs/2610.22356v1)
+
+## Grounding Generative Verification in 3D Content
+- **ID**: arxiv_2610.22360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22360v1](http://arxiv.org/abs/2610.22360v1)
+
+## Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation
+- **ID**: arxiv_2610.22363v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22363v1](http://arxiv.org/abs/2610.22363v1)
+
+## SoftCache: Adaptive Step Size Caching for Diffusion Transformers
+- **ID**: arxiv_2610.22369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22369v1](http://arxiv.org/abs/2610.22369v1)
+
+## Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation
+- **ID**: arxiv_2610.22370v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22370v1](http://arxiv.org/abs/2610.22370v1)
+
+## Gen4P: Video Generators are 4D Perceivers
+- **ID**: arxiv_2610.22371v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22371v1](http://arxiv.org/abs/2610.22371v1)
 

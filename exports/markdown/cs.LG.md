@@ -2225,3 +2225,28 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20588v1](http://arxiv.org/abs/2610.20588v1)
 
+## CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty
+- **ID**: arxiv_2610.22292v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22292v1](http://arxiv.org/abs/2610.22292v1)
+
+## Towards Continual Learning: Mitigating Forgetting With Subspace Tuning
+- **ID**: arxiv_2610.22293v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22293v1](http://arxiv.org/abs/2610.22293v1)
+
+## Learning to Steer LLM Agents and Multi-Agent Systems
+- **ID**: arxiv_2610.22316v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22316v1](http://arxiv.org/abs/2610.22316v1)
+
+## Twice Upon a Time: Complementary Representations for Time-Series Reasoning
+- **ID**: arxiv_2610.22327v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22327v1](http://arxiv.org/abs/2610.22327v1)
+
+## Rethinking Routing Exploration in Modern Mixture-of-Experts
+- **ID**: arxiv_2610.22353v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22353v1](http://arxiv.org/abs/2610.22353v1)
+

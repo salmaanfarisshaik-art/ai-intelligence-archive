@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21556v2",
+  "schema_version": "1.0",
+  "name": "Visual Contrastive Self-Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21556v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21556v2",
+    "updated": "2026-10-15T17:45:09Z",
+    "published": "2026-07-23T17:37:37Z",
+    "title": "Visual Contrastive Self-Distillation",
+    "summary": "On-policy self-distillation (OPSD) removes the external teacher required by on-policy distillation (OPD), but still needs asymmetric information between teacher and student so that the self-teacher provides a stronger learning signal. Existing methods create this asymmetry through privileged answers or visual evidence. We ask whether both can be removed, yielding a simpler form of OPSD driven purely by input conditioning. We propose Visual Contrastive Self-Distillation, namely VCSD, which converts image-content removal into an on-policy self-distillation signal. At each student-generated response prefix, the EMA teacher produces two next-token distributions under the same prompt and prefix: one conditioned on the original image and the other on a content-erased control. Their token-wise log-probability difference highlights candidates whose likelihood is specifically increased by the instance-level visual content. We use this contrast to sharpen the teacher's original-image distribution within its plausible support, and distill the resulting full-distribution target into the student. On ViRL39K, VCSD consistently outperforms matched OPSD across Qwen3-VL and Qwen3.5 models. It improves the seven-benchmark aggregate from 72.51% to 76.26% on Qwen3-VL-8B and from 74.97% to 79.24% on Qwen3.5-9B, with gains at all six evaluated scales. VCSD requires no external teacher, privileged answers, visual evidence signals, reasoning traces, or additional inference-time cost.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-16T05:27:25Z",
+  "last_updated": "2026-10-15T17:45:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21556v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

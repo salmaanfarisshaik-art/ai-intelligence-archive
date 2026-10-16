@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18808v1](http://arxiv.org/abs/2610.18808v1)
 
+## Learning Self-Orchestration in Decentralized Agent Swarms
+- **ID**: arxiv_2610.22322v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22322v1](http://arxiv.org/abs/2610.22322v1)
+

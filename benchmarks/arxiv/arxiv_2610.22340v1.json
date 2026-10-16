@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.22340v1",
+  "schema_version": "1.0",
+  "name": "Dexterity from Supervised Play",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.22340v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.22340v1",
+    "updated": "2026-10-15T17:55:50Z",
+    "published": "2026-10-15T17:55:50Z",
+    "title": "Dexterity from Supervised Play",
+    "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play policy from minutes of human play through behavior cloning, then deploys it autonomously to collect hours of interaction data to train a world model. During inference, the same play policy then guides model-predictive control (MPC) by proposing candidate action sequences for evaluation under the learned world model. To accelerate inference, we also introduce a method for distilling a closed-loop, goal-conditioned policy through self-play within the learned world model. We evaluate this framework on underactuated pushing and any-to-any in-hand pose reorientation with a multifingered hand, in simulation and real world. In real world experiment, our method outperforms hindsight behavior cloning by 69.6% in success rate and achieves comparable success to reinforcement learning with 490 times less interaction data. These results demonstrate that supervised play can autonomously collect interaction data, guide model-based planning, and enable policy learning without any task-specific demonstrations or sim-to-real transfer.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-16T05:27:25Z",
+  "last_updated": "2026-10-15T17:55:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.22340v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

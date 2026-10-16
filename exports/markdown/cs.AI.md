@@ -195,6 +195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.16763v4](http://arxiv.org/abs/2602.16763v4)
 
+## WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics
+- **ID**: arxiv_2602.17990v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.17990v4](http://arxiv.org/abs/2602.17990v4)
+
 ## Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System
 - **ID**: arxiv_2602.18640v3
 - **Source**: ArXiv
@@ -3914,4 +3919,49 @@
 - **ID**: arxiv_2610.20597v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20597v1](http://arxiv.org/abs/2610.20597v1)
+
+## Co-Evolving Acting and Forecasting for Language Agents
+- **ID**: arxiv_2610.20597v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20597v2](http://arxiv.org/abs/2610.20597v2)
+
+## EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search
+- **ID**: arxiv_2610.22290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22290v1](http://arxiv.org/abs/2610.22290v1)
+
+## Private Retrieval Augmented Generation via Random Projection
+- **ID**: arxiv_2610.22297v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22297v1](http://arxiv.org/abs/2610.22297v1)
+
+## A team of Gemini 4 Argon agents beats Minecraft
+- **ID**: arxiv_2610.22319v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22319v1](http://arxiv.org/abs/2610.22319v1)
+
+## Designing Transformers for Continuous Diffusion Language Models
+- **ID**: arxiv_2610.22330v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22330v1](http://arxiv.org/abs/2610.22330v1)
+
+## KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents
+- **ID**: arxiv_2610.22331v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22331v1](http://arxiv.org/abs/2610.22331v1)
+
+## Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?
+- **ID**: arxiv_2610.22333v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22333v1](http://arxiv.org/abs/2610.22333v1)
+
+## MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering
+- **ID**: arxiv_2610.22344v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22344v1](http://arxiv.org/abs/2610.22344v1)
+
+## FDE-Gym: The Last Mile of AI Delivery
+- **ID**: arxiv_2610.22350v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22350v1](http://arxiv.org/abs/2610.22350v1)
 

@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19090v1](http://arxiv.org/abs/2609.19090v1)
 
+## Discovering state-of-the-art quantum circuits with large language models
+- **ID**: arxiv_2610.22367v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22367v1](http://arxiv.org/abs/2610.22367v1)
+

@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.25749v2](http://arxiv.org/abs/2605.25749v2)
 
+## GRASP: Plan-Guided Graph Retrieval with Adaptive Fusion and Reranking on Semi-Structured Knowledge Bases
+- **ID**: arxiv_2605.30237v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30237v3](http://arxiv.org/abs/2605.30237v3)
+
 ## Time-Aware Diffusion based on Preference Disentanglement for Generative Recommendation
 - **ID**: arxiv_2606.01670v2
 - **Source**: ArXiv

@@ -96,6 +96,7 @@
 | [A Statistical Multi-Objective Framework for Assessing Sensitivity of Radiomic AI Models to Acquisition Parameters](http://arxiv.org/abs/2605.14667v2) | ArXiv |  | 1 |
 | [A Systematic Survey of Agentic Skills: Architecture, Lifecycle, and Security](http://arxiv.org/abs/2608.29596v2) | ArXiv |  | 1 |
 | [A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI](http://arxiv.org/abs/2608.02553v1) | ArXiv |  | 1 |
+| [A team of Gemini 4 Argon agents beats Minecraft](http://arxiv.org/abs/2610.22319v1) | ArXiv |  | 1 |
 | [A Temporal Planning Framework for Disruption Aware Dynamic Route Optimization in Heterogeneous Railway Systems](http://arxiv.org/abs/2606.14582v1) | ArXiv |  | 1 |
 | [A Three-Layer Framework for AI in Scientific Discovery](http://arxiv.org/abs/2606.13566v1) | ArXiv |  | 1 |
 | [A Unified Per-Token Gating Family for On-Policy Distillation: FKL/RKL Mixing with Multi-Channel and Bias Coefficients](http://arxiv.org/abs/2609.11768v1) | ArXiv |  | 1 |
@@ -216,6 +217,7 @@
 | [CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents](http://arxiv.org/abs/2609.26779v1) | ArXiv |  | 1 |
 | [CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization](http://arxiv.org/abs/2608.02502v1) | ArXiv |  | 1 |
 | [Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1) | ArXiv |  | 1 |
+| [Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v2) | ArXiv |  | 1 |
 | [Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails](http://arxiv.org/abs/2609.09134v1) | ArXiv |  | 1 |
 | [CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing](http://arxiv.org/abs/2608.07424v1) | ArXiv |  | 1 |
 | [CodeMidas: Scaling Agentic Coding RL Environments from Code Itself](http://arxiv.org/abs/2609.22068v1) | ArXiv |  | 1 |
@@ -259,6 +261,7 @@
 | [Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating](http://arxiv.org/abs/2608.18058v1) | ArXiv |  | 1 |
 | [Depth as Time in One-Step Generative Models](http://arxiv.org/abs/2610.03626v1) | ArXiv |  | 1 |
 | [Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design](http://arxiv.org/abs/2609.22086v1) | ArXiv |  | 1 |
+| [Designing Transformers for Continuous Diffusion Language Models](http://arxiv.org/abs/2610.22330v1) | ArXiv |  | 1 |
 | [Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?](http://arxiv.org/abs/2607.26041v1) | ArXiv |  | 1 |
 | [Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems](http://arxiv.org/abs/2608.29646v1) | ArXiv |  | 1 |
 | [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](http://arxiv.org/abs/2604.01151v3) | ArXiv |  | 1 |
@@ -285,6 +288,7 @@
 | [Efficiency Matters in Autonomous Research](http://arxiv.org/abs/2607.24647v1) | ArXiv |  | 1 |
 | [Efficient Test-Time Adaptation through Human-AI Interaction](http://arxiv.org/abs/2609.04141v1) | ArXiv |  | 1 |
 | [Electronic Navigational Chart Change Classification](http://arxiv.org/abs/2608.20218v1) | ArXiv |  | 1 |
+| [EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search](http://arxiv.org/abs/2610.22290v1) | ArXiv |  | 1 |
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](http://arxiv.org/abs/2511.22226v3) | ArXiv |  | 1 |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](http://arxiv.org/abs/2610.10498v1) | ArXiv |  | 1 |
 | [Emergent Collusion in Long-Horizon LLM Agent Interaction](http://arxiv.org/abs/2609.24967v1) | ArXiv |  | 1 |
@@ -297,6 +301,7 @@
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
 | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](http://arxiv.org/abs/2606.30219v4) | ArXiv |  | 1 |
+| [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?](http://arxiv.org/abs/2610.22333v1) | ArXiv |  | 1 |
 | [Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions](http://arxiv.org/abs/2609.27749v1) | ArXiv |  | 1 |
 | [Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training](http://arxiv.org/abs/2609.09081v1) | ArXiv |  | 1 |
 | [Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating](http://arxiv.org/abs/2607.24667v1) | ArXiv |  | 1 |
@@ -319,6 +324,7 @@
 | [Faithful, Not Corrective: Model Capability Governs Message-Format Effects in Multi-Hop Agent Relays](http://arxiv.org/abs/2607.09678v2) | ArXiv |  | 1 |
 | [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1) | ArXiv |  | 1 |
 | [Fara-1.5: Scalable Learning Environments for Computer Use Agents](http://arxiv.org/abs/2606.20785v2) | ArXiv |  | 1 |
+| [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
@@ -407,6 +413,7 @@
 | [Jeva: System One Models from First Principles](http://arxiv.org/abs/2610.18773v1) | ArXiv |  | 1 |
 | [JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs](http://arxiv.org/abs/2610.03296v1) | ArXiv |  | 1 |
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
+| [KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents](http://arxiv.org/abs/2610.22331v1) | ArXiv |  | 1 |
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows](http://arxiv.org/abs/2610.03564v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
@@ -466,6 +473,7 @@
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
+| [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1) | ArXiv |  | 1 |
 | [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
 | [MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization](http://arxiv.org/abs/2605.19330v2) | ArXiv |  | 1 |
 | [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
@@ -542,6 +550,7 @@
 | [PoTRE: Test-Time Reasoning inspired by Cognitive Heterogeneity](http://arxiv.org/abs/2607.20268v1) | ArXiv |  | 1 |
 | [Pretraining Data Can Be Poisoned through Computational Propaganda](http://arxiv.org/abs/2607.15267v1) | ArXiv |  | 1 |
 | [Prime Agent: A Self-Improving RLM Harness](http://arxiv.org/abs/2608.23552v1) | ArXiv |  | 1 |
+| [Private Retrieval Augmented Generation via Random Projection](http://arxiv.org/abs/2610.22297v1) | ArXiv |  | 1 |
 | [PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning](http://arxiv.org/abs/2607.20064v2) | ArXiv |  | 1 |
 | [Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL](http://arxiv.org/abs/2607.13073v2) | ArXiv |  | 1 |
 | [Probability is Not Enough: Exploring and Counting Divergent Tokens for Reasoning Uncertainty Quantification in LLMs](http://arxiv.org/abs/2609.38070v1) | ArXiv |  | 1 |
@@ -779,6 +788,7 @@
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
+| [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](http://arxiv.org/abs/2602.17990v4) | ArXiv |  | 2 |
 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](http://arxiv.org/abs/2607.27599v2) | ArXiv |  | 1 |
 | [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | ArXiv |  | 1 |
 | [WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](http://arxiv.org/abs/2610.08720v1) | ArXiv |  | 1 |

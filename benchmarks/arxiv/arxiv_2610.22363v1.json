@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.22363v1",
+  "schema_version": "1.0",
+  "name": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.22363v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.22363v1",
+    "updated": "2026-10-15T17:59:07Z",
+    "published": "2026-10-15T17:59:07Z",
+    "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+    "summary": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three complementary modes: Perceive, which reconstructs articulated hand motion and camera trajectories from video; Predict, which generates visual futures under prescribed actions; and Plan, which jointly generates action trajectories and their anticipated visual consequences conditioned on an initial image, a language instruction, and an optional visual goal. Our model integrates a compact, structured 3D action representation into a pretrained video diffusion transformer through a mixture-of-transformers architecture with shared base weights, modality-specific adaptation, and bidirectional visual-action attention. Randomized modality visibility lets video and 3D actions serve as either conditioning context or prediction targets across the three modes. Experiments show that unified training improves all three capabilities over single-mode training, including gains in planning quality under a vision-language model evaluation. Through unified training, our model outperforms specialized baselines on 3D hand reconstruction and action-conditioned video prediction across four datasets, while producing goal-directed manipulation videos with stronger instruction adherence and action progression than video-generation baselines. Project Page: https://p3-wam.pages.dev/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-16T05:27:25Z",
+  "last_updated": "2026-10-15T17:59:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.22363v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

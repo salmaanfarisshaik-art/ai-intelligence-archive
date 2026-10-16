@@ -555,6 +555,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.09544v3](http://arxiv.org/abs/2604.09544v3)
 
+## MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts
+- **ID**: arxiv_2604.11575v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11575v2](http://arxiv.org/abs/2604.11575v2)
+
 ## Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces
 - **ID**: arxiv_2604.11996v5
 - **Source**: ArXiv
@@ -3975,6 +3980,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18868v1](http://arxiv.org/abs/2610.18868v1)
 
+## Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation
+- **ID**: arxiv_2610.20247v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20247v2](http://arxiv.org/abs/2610.20247v2)
+
 ## ReaDy: Recurrent States as Dynamic Context for Speculative Drafting in Hybrid Linear Attention Large Language Models
 - **ID**: arxiv_2610.20503v1
 - **Source**: ArXiv
@@ -4019,4 +4029,39 @@
 - **ID**: arxiv_2610.20582v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20582v1](http://arxiv.org/abs/2610.20582v1)
+
+## Multi-Target Few-Shot Prompting with Diffusion Language Models
+- **ID**: arxiv_2610.22294v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22294v1](http://arxiv.org/abs/2610.22294v1)
+
+## AI Consilium: a Benchmark of LLM Clinical Multidisciplinary Second Opinions
+- **ID**: arxiv_2610.22298v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22298v1](http://arxiv.org/abs/2610.22298v1)
+
+## Knowledge That Is Linear Before Fine-Tuning Generalizes After It
+- **ID**: arxiv_2610.22300v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22300v1](http://arxiv.org/abs/2610.22300v1)
+
+## Grid-Bench: Can LLMs Predict How Discrete Worlds Change?
+- **ID**: arxiv_2610.22312v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22312v1](http://arxiv.org/abs/2610.22312v1)
+
+## MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support
+- **ID**: arxiv_2610.22314v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22314v1](http://arxiv.org/abs/2610.22314v1)
+
+## Training Reasoning Models to Generate Diverse Scientific Ideas
+- **ID**: arxiv_2610.22324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22324v1](http://arxiv.org/abs/2610.22324v1)
+
+## OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling
+- **ID**: arxiv_2610.22355v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22355v1](http://arxiv.org/abs/2610.22355v1)
 

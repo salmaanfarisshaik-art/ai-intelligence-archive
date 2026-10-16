@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.22320v1",
+  "schema_version": "1.0",
+  "name": "Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.22320v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.22320v1",
+    "updated": "2026-10-15T17:51:49Z",
+    "published": "2026-10-15T17:51:49Z",
+    "title": "Not Just a Subject: Capturing Adaptive Scene-Specific Variance for Visual Storytelling",
+    "summary": "Recent advancements in diffusion models have significantly improved text-to-image generation, enabling their application to visual storytelling, where coherent image sequences are generated from narrative prompts. However, existing methods primarily focus on identity preservation and often fail to adapt to diverse scene variations, resulting in semantic misalignment and structural inflexibility. We propose EOS-Story, a training-free framework that harmonizes identity consistency with scene-specific adaptation across text and vision spaces. In the text space, we decouple the narrative into identity and scene sub-prompts to prevent information dilution, but this leaves the scene without access to appearance cues. To bridge this gap, we introduce Cross-Contextual Bridging, which softly injects a phrase-level appearance residual into the scene's <EOS> embedding. In the vision space, we find that scale mismatch between identity and scene subjects causes a few identity tokens to be repeatedly transferred, producing structural artifacts. We address this with Adaptive Identity Preservation, which anchors identity features at the scene-specific scale (Identity Anchoring) and integrates them via Identity-Aware Self-Attention. To evaluate performance under varied spatial compositions, we extend the Consistory+ benchmark with diverse framing scenarios (Consistory+_+). Extensive experiments show that EOS-Story achieves competitive or superior performance on both benchmarks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-16T05:27:25Z",
+  "last_updated": "2026-10-15T17:51:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.22320v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

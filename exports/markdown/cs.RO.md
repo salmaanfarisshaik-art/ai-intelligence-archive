@@ -960,3 +960,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20607v1](http://arxiv.org/abs/2610.20607v1)
 
+## Dexterity from Supervised Play
+- **ID**: arxiv_2610.22340v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22340v1](http://arxiv.org/abs/2610.22340v1)
+
+## CoDA: Co-Evolution of Data Engines and Action Policies
+- **ID**: arxiv_2610.22362v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22362v1](http://arxiv.org/abs/2610.22362v1)
+
+## T2-z: Test-Time Optimization of Environment Latents for Robotic World Models
+- **ID**: arxiv_2610.22364v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22364v1](http://arxiv.org/abs/2610.22364v1)
+
+## LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation
+- **ID**: arxiv_2610.22372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.22372v1](http://arxiv.org/abs/2610.22372v1)
+

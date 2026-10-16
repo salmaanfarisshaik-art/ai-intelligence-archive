@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2602.17990v4",
+  "schema_version": "1.0",
+  "name": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.17990v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.17990v4",
+    "updated": "2026-10-15T17:50:57Z",
+    "published": "2026-02-20T04:54:31Z",
+    "title": "WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics",
+    "summary": "Multi-agent LLM systems that generate structured workflows from natural-language requests are now deployed in production across cloud automation, DevOps, and enterprise orchestration. Operating them exposes a recurring change-management problem. Routine updates, such as re-running an input, swapping the LLM, or refactoring an agent's prompt or orchestration code, often produce workflows that differ substantially from validated references. Engineers then lack a principled way to decide whether a change is safe to ship. Automatic workflow evaluation is the natural tool, but in practice metric scores are poorly calibrated, and a numeric change rarely communicates the severity of the underlying degradation. We introduce WorkflowPerturb, a controlled benchmark that applies realistic, graded perturbations to golden workflows. It contains 4,973 golden workflows and 44,757 perturbed variants across three perturbation types (Missing Steps, Compressed Steps, Description Changes) at severities of 10%, 30%, and 50%. We benchmark multiple metric families, analyzing their sensitivity and calibration using expected score trajectories and instance-level alert rates. Our results characterize systematic differences across families and support severity-aware interpretation of workflow evaluation scores in change-management settings. WorkflowPerturb is publicly available at https://huggingface.co/datasets/microsoft/WorkflowPerturb .",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-16T05:27:25Z",
+  "last_updated": "2026-10-15T17:50:57Z",
+  "links": {
+    "related_models": [
+      "datasets/microsoft"
+    ],
+    "related_papers": [
+      "2602.17990v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
