@@ -5831,6 +5831,11 @@
 - **URL**: [https://openai.com/index/spring-update](https://openai.com/index/spring-update)
 
 ## 
+- **ID**: rss_https://openai.com/index/stack-overflow-chatgpt-plugin
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/stack-overflow-chatgpt-plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+
+## 
 - **ID**: rss_https://openai.com/index/stadler
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/stadler](https://openai.com/index/stadler)

@@ -24603,11 +24603,6 @@
       "score": 2.0
     },
     {
-      "entity_id": "dataset_ehovy_race",
-      "match_type": "exact",
-      "score": 2.0
-    },
-    {
       "entity_id": "dataset_rowan_hellaswag",
       "match_type": "exact",
       "score": 2.0
@@ -25359,6 +25354,11 @@
     },
     {
       "entity_id": "dataset_edbeeching_gia_dataset_tokenized_2024_2",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_ehovy_race",
       "match_type": "exact",
       "score": 1.0
     },
@@ -53032,6 +53032,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/spring-update",
+      "match_type": "exact",
+      "score": 1.2
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/stack-overflow-chatgpt-plugin",
       "match_type": "exact",
       "score": 1.2
     },

@@ -12657,7 +12657,12 @@
     {
       "entity_id": "dataset_harborframework_terminal_bench_3_0",
       "match_type": "exact",
-      "score": 5.5
+      "score": 7.0
+    },
+    {
+      "entity_id": "dataset_harborframework_terminal_bench_2_0",
+      "match_type": "exact",
+      "score": 4.0
     },
     {
       "entity_id": "dataset_harborframework_terminal_bench",
@@ -12673,11 +12678,6 @@
       "entity_id": "dataset_intelligencelab_long_horizon_terminal_bench",
       "match_type": "exact",
       "score": 3.0
-    },
-    {
-      "entity_id": "dataset_harborframework_terminal_bench_2_0",
-      "match_type": "exact",
-      "score": 2.5
     },
     {
       "entity_id": "alpaca_-2130351910474873856",
@@ -63197,6 +63197,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/shipping-sora-for-android-with-codex",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/stack-overflow-chatgpt-plugin",
       "match_type": "exact",
       "score": 1.0
     }
