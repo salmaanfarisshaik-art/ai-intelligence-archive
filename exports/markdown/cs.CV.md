@@ -605,6 +605,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.12468v2](http://arxiv.org/abs/2603.12468v2)
 
+## 
+- **ID**: arxiv_2603.12468v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.12468v2](http://arxiv.org/abs/2603.12468v2)
+
 ## Deep Learning for BioImaging: What Are We Really Learning?
 - **ID**: arxiv_2603.13377v2
 - **Source**: ArXiv
@@ -6075,7 +6080,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20556v1](http://arxiv.org/abs/2610.20556v1)
 
+## 
+- **ID**: arxiv_2610.20556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20556v1](http://arxiv.org/abs/2610.20556v1)
+
 ## A$^3$PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer
+- **ID**: arxiv_2610.20561v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20561v1](http://arxiv.org/abs/2610.20561v1)
+
+## 
 - **ID**: arxiv_2610.20561v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20561v1](http://arxiv.org/abs/2610.20561v1)
@@ -6085,7 +6100,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20571v1](http://arxiv.org/abs/2610.20571v1)
 
+## 
+- **ID**: arxiv_2610.20571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20571v1](http://arxiv.org/abs/2610.20571v1)
+
 ## Player-1: Learning to Play from Synthetic Experience
+- **ID**: arxiv_2610.20584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20584v1](http://arxiv.org/abs/2610.20584v1)
+
+## 
 - **ID**: arxiv_2610.20584v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20584v1](http://arxiv.org/abs/2610.20584v1)
@@ -6095,7 +6120,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20590v1](http://arxiv.org/abs/2610.20590v1)
 
+## 
+- **ID**: arxiv_2610.20590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20590v1](http://arxiv.org/abs/2610.20590v1)
+
 ## GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence
+- **ID**: arxiv_2610.20592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20592v1](http://arxiv.org/abs/2610.20592v1)
+
+## 
 - **ID**: arxiv_2610.20592v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20592v1](http://arxiv.org/abs/2610.20592v1)
@@ -6105,7 +6140,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20598v1](http://arxiv.org/abs/2610.20598v1)
 
+## 
+- **ID**: arxiv_2610.20598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20598v1](http://arxiv.org/abs/2610.20598v1)
+
 ## CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation
+- **ID**: arxiv_2610.20603v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20603v1](http://arxiv.org/abs/2610.20603v1)
+
+## 
 - **ID**: arxiv_2610.20603v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20603v1](http://arxiv.org/abs/2610.20603v1)
@@ -6115,12 +6160,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20604v1](http://arxiv.org/abs/2610.20604v1)
 
+## 
+- **ID**: arxiv_2610.20604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20604v1](http://arxiv.org/abs/2610.20604v1)
+
 ## Representation Conditioning for Generation
 - **ID**: arxiv_2610.20608v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20608v1](http://arxiv.org/abs/2610.20608v1)
 
+## 
+- **ID**: arxiv_2610.20608v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20608v1](http://arxiv.org/abs/2610.20608v1)
+
 ## Can Learning to Answer Spatial Questions Improve Novel-View Generation?
+- **ID**: arxiv_2610.20610v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20610v1](http://arxiv.org/abs/2610.20610v1)
+
+## 
 - **ID**: arxiv_2610.20610v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20610v1](http://arxiv.org/abs/2610.20610v1)

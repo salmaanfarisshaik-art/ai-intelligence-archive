@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91099
+**Total Entities Tracked**: 91130
 
 ## Category Distribution
 
@@ -9,14 +9,14 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2372
 - **models**: 1846
-- **news**: 1320
-- **cs.CV**: 1225
+- **news**: 1321
+- **cs.CV**: 1237
 - **dataset**: 1208
 - **text-generation**: 1014
-- **cs.CL**: 800
-- **cs.AI**: 780
-- **cs.LG**: 438
-- **cs.RO**: 190
+- **cs.CL**: 804
+- **cs.AI**: 783
+- **cs.LG**: 445
+- **cs.RO**: 192
 - **cs.CR**: 85
 - **cs.SE**: 66
 - **tool**: 56
@@ -28,8 +28,8 @@
 - **eess.AS**: 17
 - **eess.IV**: 17
 - **API**: 15
+- **cs.GT**: 13
 - **cs.DC**: 12
-- **cs.GT**: 12
 - **stat.ML**: 12
 - **cs.DB**: 11
 - **Backend**: 10
@@ -45,12 +45,12 @@
 - **cs.IT**: 8
 - **cs.NE**: 8
 - **cs.AR**: 7
+- **cs.LO**: 7
 - **cs.MM**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
 - **IDE Rule**: 6
-- **cs.LO**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
 - **cs.CE**: 5
@@ -98,9 +98,9 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31396
-- **ArXiv**: 3998
+- **ArXiv**: 4028
 - **Hugging Face**: 2021
-- **OpenAI Blog**: 1306
+- **OpenAI Blog**: 1307
 - **HuggingFace Datasets**: 208
 - **GitHub Trending**: 56
 - **BAIR Blog**: 14

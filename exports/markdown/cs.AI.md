@@ -3890,12 +3890,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20560v1](http://arxiv.org/abs/2610.20560v1)
 
+## 
+- **ID**: arxiv_2610.20560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20560v1](http://arxiv.org/abs/2610.20560v1)
+
 ## Scaling Discovery Requires Forgetting
 - **ID**: arxiv_2610.20563v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20563v1](http://arxiv.org/abs/2610.20563v1)
 
+## 
+- **ID**: arxiv_2610.20563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20563v1](http://arxiv.org/abs/2610.20563v1)
+
 ## Co-Evolving Acting and Forecasting for Language Agents
+- **ID**: arxiv_2610.20597v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20597v1](http://arxiv.org/abs/2610.20597v1)
+
+## 
 - **ID**: arxiv_2610.20597v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20597v1](http://arxiv.org/abs/2610.20597v1)

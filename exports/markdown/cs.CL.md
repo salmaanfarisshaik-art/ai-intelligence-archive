@@ -3660,6 +3660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02022v2](http://arxiv.org/abs/2610.02022v2)
 
+## 
+- **ID**: arxiv_2610.02022v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.02022v2](http://arxiv.org/abs/2610.02022v2)
+
 ## Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows
 - **ID**: arxiv_2610.02122v1
 - **Source**: ArXiv
@@ -3990,12 +3995,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20548v1](http://arxiv.org/abs/2610.20548v1)
 
+## 
+- **ID**: arxiv_2610.20548v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20548v1](http://arxiv.org/abs/2610.20548v1)
+
 ## Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge
 - **ID**: arxiv_2610.20570v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20570v1](http://arxiv.org/abs/2610.20570v1)
 
+## 
+- **ID**: arxiv_2610.20570v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20570v1](http://arxiv.org/abs/2610.20570v1)
+
 ## Latent Compaction with Test-Time Training
+- **ID**: arxiv_2610.20582v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20582v1](http://arxiv.org/abs/2610.20582v1)
+
+## 
 - **ID**: arxiv_2610.20582v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20582v1](http://arxiv.org/abs/2610.20582v1)

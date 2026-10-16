@@ -3746,6 +3746,11 @@
 - **URL**: [https://openai.com/index/introducing-the-realtime-api](https://openai.com/index/introducing-the-realtime-api)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-the-rosalind-academic-plan
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-the-rosalind-academic-plan](https://openai.com/index/introducing-the-rosalind-academic-plan)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock)

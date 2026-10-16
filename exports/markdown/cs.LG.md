@@ -715,6 +715,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.05381v2](http://arxiv.org/abs/2607.05381v2)
 
+## 
+- **ID**: arxiv_2607.05381v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05381v2](http://arxiv.org/abs/2607.05381v2)
+
 ## The RG-Flow Transformer: Encoding Scale-Free Dynamics in Scarce EEG
 - **ID**: arxiv_2607.11950v2
 - **Source**: ArXiv
@@ -2130,6 +2135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18651v2](http://arxiv.org/abs/2610.18651v2)
 
+## 
+- **ID**: arxiv_2610.18651v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18651v2](http://arxiv.org/abs/2610.18651v2)
+
 ## SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection
 - **ID**: arxiv_2610.18807v1
 - **Source**: ArXiv
@@ -2170,7 +2180,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20572v1](http://arxiv.org/abs/2610.20572v1)
 
+## 
+- **ID**: arxiv_2610.20572v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20572v1](http://arxiv.org/abs/2610.20572v1)
+
 ## One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness
+- **ID**: arxiv_2610.20576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20576v1](http://arxiv.org/abs/2610.20576v1)
+
+## 
 - **ID**: arxiv_2610.20576v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20576v1](http://arxiv.org/abs/2610.20576v1)
@@ -2180,12 +2200,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20585v1](http://arxiv.org/abs/2610.20585v1)
 
+## 
+- **ID**: arxiv_2610.20585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20585v1](http://arxiv.org/abs/2610.20585v1)
+
 ## Continuum Attention
 - **ID**: arxiv_2610.20586v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20586v1](http://arxiv.org/abs/2610.20586v1)
 
+## 
+- **ID**: arxiv_2610.20586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20586v1](http://arxiv.org/abs/2610.20586v1)
+
 ## Your Transformer Is Secretly Elastic
+- **ID**: arxiv_2610.20588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20588v1](http://arxiv.org/abs/2610.20588v1)
+
+## 
 - **ID**: arxiv_2610.20588v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20588v1](http://arxiv.org/abs/2610.20588v1)

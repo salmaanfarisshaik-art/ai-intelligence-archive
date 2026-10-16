@@ -945,7 +945,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20606v1](http://arxiv.org/abs/2610.20606v1)
 
+## 
+- **ID**: arxiv_2610.20606v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20606v1](http://arxiv.org/abs/2610.20606v1)
+
 ## Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance
+- **ID**: arxiv_2610.20607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20607v1](http://arxiv.org/abs/2610.20607v1)
+
+## 
 - **ID**: arxiv_2610.20607v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20607v1](http://arxiv.org/abs/2610.20607v1)

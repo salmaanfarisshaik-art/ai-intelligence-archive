@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.18651v2",
+  "schema_version": "1.0",
+  "technique_name": "Does Pretraining Teach Chemical Language Models Chemistry?",
+  "description": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effects of pretraining using a series of such CLMs across 64 molecular property prediction datasets. We find that the downstream gains of pretraining in CLMs do not scale and performance saturates below gradient-boosting baselines. Across the regimes evaluated, only supervised pretraining on traditional ",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.18651v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.18651v2",
+    "updated": "2026-10-14T17:58:29Z",
+    "published": "2026-10-13T16:14:35Z",
+    "title": "Does Pretraining Teach Chemical Language Models Chemistry?",
+    "summary": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effects of pretraining using a series of such CLMs across 64 molecular property prediction datasets. We find that the downstream gains of pretraining in CLMs do not scale and performance saturates below gradient-boosting baselines. Across the regimes evaluated, only supervised pretraining on traditional physico-chemical descriptors consistently improves downstream performance for the CLMs tested whereas some forms of pretraining result in models worse than a randomly initialized encoder. While models can resolve molecular structure well, they do so no better than a randomly initialized model, suggesting that, at best, CLMs learn descriptor-like properties in addition to low-level token statistics during pretraining, but surprisingly little chemistry beyond what classical molecular features already capture.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-16T00:07:30Z",
+  "last_updated": "2026-10-14T17:58:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.18651v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

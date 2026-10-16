@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20556v1",
+  "schema_version": "1.0",
+  "technique_name": "Speculative Sampling in Interactive Video Generation",
+  "description": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize GPU parallelism, allowing more latents to be sampled with only a modest increase in sampling time. Motivated by these observations, we propose Speculative Sampling, a strategy that combines the modeling power of large bidirectional windows with the low-latency interaction of small ones. It expands t",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.20556v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20556v1",
+    "updated": "2026-10-14T17:45:27Z",
+    "published": "2026-10-14T17:45:27Z",
+    "title": "Speculative Sampling in Interactive Video Generation",
+    "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize GPU parallelism, allowing more latents to be sampled with only a modest increase in sampling time. Motivated by these observations, we propose Speculative Sampling, a strategy that combines the modeling power of large bidirectional windows with the low-latency interaction of small ones. It expands the modeling window by appending noise latents as padding and caches the resulting predictions for reuse when the condition remains unchanged. Predictions are delivered incrementally, while the uncommitted future remains replaceable. Our latency analysis shows that this removes the waiting-time lower bound imposed by chunk boundaries, shifting the optimization focus from reducing chunk size to accelerating per-chunk sampling. Bidirectional window size thus becomes a decision variable for jointly optimizing visual quality and sampling time, rather than a necessary constraint on low-latency interaction. This opens a path to serving large bidirectional models in interactive streaming systems without complex streaming post-training.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-16T00:07:30Z",
+  "last_updated": "2026-10-14T17:45:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20556v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

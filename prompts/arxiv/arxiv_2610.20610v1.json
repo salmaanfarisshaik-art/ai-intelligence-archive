@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.20610v1",
+  "schema_version": "1.0",
+  "technique_name": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+  "description": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained u",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.20610v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.20610v1",
+    "updated": "2026-10-14T17:59:58Z",
+    "published": "2026-10-14T17:59:58Z",
+    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "summary": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not explicitly model high-level semantic and spatial properties such as object identity, attributes, and inter-object relationships. In this work, we investigate whether 3D language understanding can provide complementary supervision for novel-view generation. We introduce Ask4NV, built on a pretrained unified multimodal model with a Mixture-of-Transformers (MoT) architecture. Our model incorporates camera geometry into both VAE and ViT representations and leverages understanding features during generation through joint self-attention with a modality-aware attention masking strategy. Experiments demonstrate strong image quality and geometric consistency in novel-view generation, alongside competitive 3D language understanding. Further analysis shows that joint training improves cross-view correspondence in VAE representations and similarity in a 3D-aware feature space.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-16T00:07:30Z",
+  "last_updated": "2026-10-14T17:59:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.20610v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

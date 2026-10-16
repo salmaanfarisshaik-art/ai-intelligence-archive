@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20587v1](http://arxiv.org/abs/2610.20587v1)
 
+## 
+- **ID**: arxiv_2610.20587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20587v1](http://arxiv.org/abs/2610.20587v1)
+
