@@ -1,60 +1,42 @@
 # Change Summary
 
-**Total Changes:** 98
+**Total Changes:** 79
 
 ## Added
 None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
-- datasets/bulei/hf_ds_6a96f1b1177b511ec1b92935.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json
 - datasets/lichess/hf_ds_66f27f215dfdba5747322656.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
-- exports/csv/all_entities.csv
-- exports/csv/dataset.csv
-- exports/csv/datasets.csv
-- exports/json/all_entities.json
-- exports/json/dataset.json
-- exports/json/datasets.json
-- exports/markdown/dataset.md
-- exports/markdown/datasets.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/facebook/hf_facebook_opt-125m.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/huggingfacetb/hf_HuggingFaceTB_SmolLM2-135M.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai/hf_openai_gpt-oss-120b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
-- models/zai-org/hf_zai-org_GLM-5.3.json
+- models/qwen/hf_Qwen_Qwen3-14B-AWQ.json
+- models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -78,7 +60,6 @@ None
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
 - tools/github-trending/gh_344190478.json
-- tools/github-trending/gh_527591471.json
 - tools/github-trending/gh_552661142.json
 - tools/github-trending/gh_574523116.json
 - tools/github-trending/gh_585146387.json
