@@ -1573,6 +1573,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dangindev_viet_cultural_vqa
+- **Source**: 
+
+## 
 - **ID**: dataset_dangthanh1991_dangthanh1991
 - **Source**: 
 
@@ -1618,6 +1622,10 @@
 
 ## 
 - **ID**: dataset_dazhiyang_bsrn_merra2
+- **Source**: 
+
+## 
+- **ID**: dataset_dbd_research_group_birdset
 - **Source**: 
 
 ## 
@@ -2553,6 +2561,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_gruncrow_birdeep_audioannotations
+- **Source**: 
+
+## 
 - **ID**: dataset_gsdf_easynegative
 - **Source**: 
 
@@ -2562,6 +2574,10 @@
 
 ## 
 - **ID**: dataset_gsma_itu
+- **Source**: 
+
+## 
+- **ID**: dataset_gtsinger_gtsinger
 - **Source**: 
 
 ## 
@@ -2798,6 +2814,10 @@
 
 ## 
 - **ID**: dataset_hf_vision_course_assets
+- **Source**: 
+
+## 
+- **ID**: dataset_hffordata_h3_fewstep_benchmark_20260920
 - **Source**: 
 
 ## 
@@ -7538,6 +7558,10 @@
 
 ## 
 - **ID**: dataset_radgenome_radgenome_chestct
+- **Source**: 
+
+## 
+- **ID**: dataset_rafa612_mvtec_loco
 - **Source**: 
 
 ## 

@@ -388,6 +388,10 @@
 - **ID**: model_augmxnt_shisa_gamma_7b_v1
 - **Source**: 
 
+## autotrust/GLM-5.3-Flash-GGUF-DGX-Spark
+- **ID**: model_autotrust_glm_5_3_flash_gguf_dgx_spark
+- **Source**: 
+
 ## autotrust/JEV-27B
 - **ID**: model_autotrust_jev_27b
 - **Source**: 
@@ -686,6 +690,10 @@
 
 ## bartowski/Qwen_Qwen3-1.7B-GGUF
 - **ID**: model_bartowski_qwen_qwen3_1_7b_gguf
+- **Source**: 
+
+## bartowski/Qwen_Qwen3-30B-A3B-Instruct-2507-GGUF
+- **ID**: model_bartowski_qwen_qwen3_30b_a3b_instruct_2507_gguf
 - **Source**: 
 
 ## bartowski/Qwen_Qwen3-4B-GGUF
@@ -1690,6 +1698,10 @@
 
 ## facebook/xglm-564M
 - **ID**: model_facebook_xglm_564m
+- **Source**: 
+
+## failspy/Meta-Llama-3-8B-Instruct-abliterated-v3
+- **ID**: model_failspy_meta_llama_3_8b_instruct_abliterated_v3
 - **Source**: 
 
 ## farbodtavakkoli/OTel-2.0-LLM-31B-IT
@@ -2714,6 +2726,10 @@
 
 ## LiquidAI/LFM2.5-230M
 - **ID**: model_liquidai_lfm2_5_230m
+- **Source**: 
+
+## LiquidAI/LFM2.5-230M-Base
+- **ID**: model_liquidai_lfm2_5_230m_base
 - **Source**: 
 
 ## LiquidAI/LFM2.5-230M-GGUF
@@ -4752,6 +4768,10 @@
 - **ID**: model_poolside_laguna_xs_2_1_nvfp4
 - **Source**: 
 
+## PowCal/deepseek-math-7b-base-4bit
+- **ID**: model_powcal_deepseek_math_7b_base_4bit
+- **Source**: 
+
 ## PowCal/Mathstral-7B-v0.1-4bit
 - **ID**: model_powcal_mathstral_7b_v0_1_4bit
 - **Source**: 
@@ -5716,6 +5736,10 @@
 - **ID**: model_redhatai_qwen3_30b_a3b_fp8_dynamic
 - **Source**: 
 
+## RedHatAI/Qwen3-30B-A3B-Instruct-2507-quantized.w4a16
+- **ID**: model_redhatai_qwen3_30b_a3b_instruct_2507_quantized_w4a16
+- **Source**: 
+
 ## RedHatAI/Qwen3-30B-A3B-NVFP4
 - **ID**: model_redhatai_qwen3_30b_a3b_nvfp4
 - **Source**: 
@@ -5782,6 +5806,10 @@
 
 ## RentedNoodle/Qwen3.8-27B-OrcaRouter-GSQ-RCO-IQ3_XXS-Uncensored
 - **ID**: model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored
+- **Source**: 
+
+## richardyoung/Qwen3-14B-abliterated-GGUF
+- **ID**: model_richardyoung_qwen3_14b_abliterated_gguf
 - **Source**: 
 
 ## rinna/japanese-gpt-neox-small
@@ -6510,6 +6538,10 @@
 
 ## uctnlp/mzansilm-125m
 - **ID**: model_uctnlp_mzansilm_125m
+- **Source**: 
+
+## uer/gpt2-chinese-cluecorpussmall
+- **ID**: model_uer_gpt2_chinese_cluecorpussmall
 - **Source**: 
 
 ## ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF
