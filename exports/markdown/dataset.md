@@ -1250,7 +1250,7 @@
 - **ID**: hf_ds_6a96f1b1177b511ec1b92935
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/BuLei/imgbed](https://huggingface.co/datasets/BuLei/imgbed)
-- **Tags**: region:us
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
 
 ## SKPark1/ngii-map-full-light
 - **ID**: hf_ds_6a9b618da26f068ce99f0512

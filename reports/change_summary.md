@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 99
+**Total Changes:** 98
 
 ## Added
 None
@@ -18,32 +18,31 @@ None
 - data/metadata/schema_manifest.json
 - data/metadata/tag_index.json
 - datasets/bulei/hf_ds_6a96f1b1177b511ec1b92935.json
-- datasets/cais/hf_ds_621ffdd236468d709f181e5e.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
+- datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json
+- datasets/lichess/hf_ds_66f27f215dfdba5747322656.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
+- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
 - datasets/salesforce/hf_ds_621ffdd236468d709f18200d.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
 - exports/csv/datasets.csv
-- exports/csv/models.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
 - exports/json/datasets.json
-- exports/json/models.json
 - exports/markdown/dataset.md
 - exports/markdown/datasets.md
-- exports/markdown/models.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/facebook/hf_facebook_opt-125m.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
+- models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
 - models/openai/hf_openai_gpt-oss-120b.json
-- models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
