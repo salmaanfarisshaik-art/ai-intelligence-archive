@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91213
+**Total Entities Tracked**: 91214
 
 ## Category Distribution
 
@@ -9,7 +9,7 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2396
 - **models**: 1850
-- **news**: 1324
+- **news**: 1325
 - **cs.CV**: 1256
 - **dataset**: 1210
 - **text-generation**: 1014
@@ -100,7 +100,7 @@
 - ****: 31424
 - **ArXiv**: 4078
 - **Hugging Face**: 2021
-- **OpenAI Blog**: 1310
+- **OpenAI Blog**: 1311
 - **HuggingFace Datasets**: 210
 - **GitHub Trending**: 56
 - **BAIR Blog**: 14
@@ -145,7 +145,7 @@
 - **text-generation**: 87
 - **library:datasets**: 84
 - **library:mlcroissant**: 84
-- **modality:text**: 81
+- **modality:text**: 82
 - **license:apache-2.0**: 74
 - **endpoints_compatible**: 73
 - **language:en**: 73
@@ -163,17 +163,17 @@
 - **task_categories:text-generation**: 30
 - **eval-results**: 27
 - **license:other**: 27
+- **modality:image**: 26
 - **enterprise**: 25
-- **modality:image**: 25
 - **size_categories:n<1K**: 25
 - **deploy:sagemaker**: 24
 - **modality:tabular**: 24
 - **qwen3**: 21
-- **size_categories:10K<n<100K**: 20
+- **size_categories:10K<n<100K**: 19
 - **license:cc-by-4.0**: 17
 - **task_categories:robotics**: 17
 - **api**: 16
-- **modality:video**: 14
+- **modality:video**: 15
 - **size_categories:100K<n<1M**: 14
 - **multilinguality:monolingual**: 13
 - **pytorch**: 13
@@ -182,12 +182,12 @@
 - **fp8**: 12
 - **gguf**: 12
 - **license:odc-by**: 12
+- **size_categories:1K<n<10K**: 12
 - **size_categories:1M<n<10M**: 12
 - **size_categories:n>1T**: 12
 - **custom_code**: 11
 - **format:json**: 11
 - **size_categories:100M<n<1B**: 11
-- **size_categories:1K<n<10K**: 11
 - **8-bit**: 10
 - **language:zh**: 10
 - **modality:audio**: 10

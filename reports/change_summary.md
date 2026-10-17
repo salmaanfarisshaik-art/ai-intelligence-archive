@@ -1,9 +1,9 @@
 # Change Summary
 
-**Total Changes:** 84
+**Total Changes:** 94
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_itau-generative-ai.json
+- prompts/openai-blog/rss_https___openai.com_index_benefit-street-partners.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -16,19 +16,28 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
+- datasets/evaleval/hf_ds_698c9e10c98ef9ef0a6f27b3.json
 - datasets/inclusionai/hf_ds_6a4cbc564cdc8fc41b0f1b93.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
+- datasets/xdof/hf_ds_6a307dae8e258cbed418ec58.json
 - exports/csv/all_entities.csv
+- exports/csv/dataset.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
+- exports/json/dataset.json
 - exports/json/news.json
+- exports/markdown/dataset.md
 - exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/openai/hf_openai_gpt-oss-120b.json
+- models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
+- models/openai-community/hf_openai-community_gpt2.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -72,6 +81,7 @@
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_643445235.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json

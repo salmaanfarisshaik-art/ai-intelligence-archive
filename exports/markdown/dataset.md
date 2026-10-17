@@ -818,7 +818,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1148,7 +1148,7 @@
 - **ID**: hf_ds_6a4cbc564cdc8fc41b0f1b93
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h](https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h)
-- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, region:us
+- **Tags**: arxiv:2607.14183, atomic-actions, egocentric, hand-pose, language:en, language:zh, license:other, manipulation, mano, modality:image, modality:video, region:us
 
 ## JoeLiu996/NatureBench
 - **ID**: hf_ds_6a4f0a92e633070a2d287ef9

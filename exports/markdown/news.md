@@ -1061,6 +1061,11 @@
 - **URL**: [https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning](https://openai.com/index/benchmarking-safe-exploration-in-deep-reinforcement-learning)
 
 ## 
+- **ID**: rss_https://openai.com/index/benefit-street-partners
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/benefit-street-partners](https://openai.com/index/benefit-street-partners)
+
+## 
 - **ID**: rss_https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai](https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai)
