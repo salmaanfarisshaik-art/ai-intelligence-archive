@@ -3811,6 +3811,11 @@
 - **URL**: [https://openai.com/index/ironclad](https://openai.com/index/ironclad)
 
 ## 
+- **ID**: rss_https://openai.com/index/itau-generative-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/itau-generative-ai](https://openai.com/index/itau-generative-ai)
+
+## 
 - **ID**: rss_https://openai.com/index/jakub-pachocki-announced-as-chief-scientist
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/jakub-pachocki-announced-as-chief-scientist](https://openai.com/index/jakub-pachocki-announced-as-chief-scientist)
