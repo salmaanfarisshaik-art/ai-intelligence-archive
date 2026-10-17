@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T06:37:07Z",
+  "generated_at": "2026-10-17T11:23:15Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -100,6 +100,9 @@
       "model_lmstudio_community_seed_oss_36b_instruct_mlx_5bit",
       "model_lmstudio_community_seed_oss_36b_instruct_mlx_6bit",
       "model_lmstudio_community_seed_oss_36b_instruct_mlx_8bit"
+    ],
+    "hf_CLUECorpusSmall": [
+      "model_uer_gpt2_chinese_cluecorpussmall"
     ],
     "hf_CSJianYang_CodeArena": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -968,6 +971,7 @@
       "model_qwen_qwen3_14b_awq",
       "model_qwen_qwen3_14b_fp8",
       "model_qwen_qwen3_14b_gguf",
+      "model_richardyoung_qwen3_14b_abliterated_gguf",
       "model_unsloth_qwen3_14b_gguf",
       "model_unsloth_qwen3_14b_unsloth_bnb_4bit"
     ],
@@ -1014,11 +1018,13 @@
     ],
     "hf_Qwen_Qwen3-30B-A3B-Instruct-2507": [
       "model_applied_innovation_center_karnak_40b_v1_0",
+      "model_bartowski_qwen_qwen3_30b_a3b_instruct_2507_gguf",
       "model_bineric_lynx_instruct_30b",
       "model_cyankiwi_qwen3_30b_a3b_instruct_2507_awq_4bit",
       "model_maziyarpanahi_qwen3_30b_a3b_instruct_2507_gguf",
       "model_mlx_community_qwen3_30b_a3b_instruct_2507_4bit",
       "model_qwen_qwen3_30b_a3b_instruct_2507_fp8",
+      "model_redhatai_qwen3_30b_a3b_instruct_2507_quantized_w4a16",
       "model_stelterlab_qwen3_30b_a3b_instruct_2507_awq"
     ],
     "hf_Qwen_Qwen3-30B-A3B-Thinking-2507": [
@@ -3707,6 +3713,7 @@
       "model_radixark_glm_5_3_nvfp4"
     ],
     "hf_zai-org_GLM-5.3-Flash": [
+      "model_autotrust_glm_5_3_flash_gguf_dgx_spark",
       "model_incoai_glm_5_3_flash_dflash2",
       "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "model_peasantsmith_glm_5_3_flash_maya_gguf",
@@ -4009,6 +4016,9 @@
       "hf_augmxnt_ultra-orca-boros-en-ja-v1",
       "hf_stabilityai_japanese-stablelm-base-gamma-7b"
     ],
+    "model_autotrust_glm_5_3_flash_gguf_dgx_spark": [
+      "hf_zai-org_GLM-5.3-Flash"
+    ],
     "model_autotrust_jev_27b": [
       "hf_Qwen_Qwen3.8-27B",
       "hf_SargeDev_jev-distill-corpus-v3"
@@ -4215,6 +4225,9 @@
     ],
     "model_bartowski_qwen_qwen3_1_7b_gguf": [
       "hf_Qwen_Qwen3-1.7B"
+    ],
+    "model_bartowski_qwen_qwen3_30b_a3b_instruct_2507_gguf": [
+      "hf_Qwen_Qwen3-30B-A3B-Instruct-2507"
     ],
     "model_bartowski_qwen_qwen3_4b_gguf": [
       "hf_Qwen_Qwen3-4B"
@@ -7114,6 +7127,9 @@
     "model_redhatai_qwen3_30b_a3b_fp8_dynamic": [
       "hf_Qwen_Qwen3-30B-A3B"
     ],
+    "model_redhatai_qwen3_30b_a3b_instruct_2507_quantized_w4a16": [
+      "hf_Qwen_Qwen3-30B-A3B-Instruct-2507"
+    ],
     "model_redhatai_qwen3_30b_a3b_nvfp4": [
       "hf_Qwen_Qwen3-30B-A3B"
     ],
@@ -7151,6 +7167,9 @@
     ],
     "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored": [
       "hf_orcarouter_Qwen3.8-27B-Uncensored"
+    ],
+    "model_richardyoung_qwen3_14b_abliterated_gguf": [
+      "hf_Qwen_Qwen3-14B"
     ],
     "model_rinna_japanese_gpt_neox_small": [
       "hf_Wikipedia",
@@ -7511,6 +7530,9 @@
     ],
     "model_ucbye_qwen3_coder_next_nvfp4_gb10": [
       "hf_saricles_Qwen3-Coder-Next-NVFP4-GB10"
+    ],
+    "model_uer_gpt2_chinese_cluecorpussmall": [
+      "hf_CLUECorpusSmall"
     ],
     "model_ukisai_swift_1_5_qwen3_8_27b_gsq_rco_gguf": [
       "hf_ukisai_Swift-1.5-Qwen3.8-27b"

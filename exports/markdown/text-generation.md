@@ -3467,7 +3467,7 @@
 - **ID**: hf_meta-llama_Llama-3.1-8B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)
-- **Tags**: arxiv:2204.05149, base_model:finetune:meta-llama/Llama-3.1-8B, base_model:meta-llama/Llama-3.1-8B, conversational, de, en, endpoints_compatible, es, eval-results, facebook, fr, hi, it, license:llama3.1, llama, llama-3, meta, pt, pytorch, region:us, safetensors, text-generation, text-generation-inference, th, transformers
+- **Tags**: arxiv:2204.05149, base_model:finetune:meta-llama/Llama-3.1-8B, base_model:meta-llama/Llama-3.1-8B, conversational, de, deploy:sagemaker, en, endpoints_compatible, es, eval-results, facebook, fr, hi, it, license:llama3.1, llama, llama-3, meta, pt, pytorch, region:us, safetensors, text-generation, text-generation-inference, th, transformers
 
 ## meta-llama/Llama-3.2-1B
 - **ID**: hf_meta-llama_Llama-3.2-1B

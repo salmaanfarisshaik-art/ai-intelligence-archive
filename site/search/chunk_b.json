@@ -12805,6 +12805,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_bartowski_qwen_qwen3_30b_a3b_instruct_2507_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_bartowski_qwen_qwen3_4b_gguf",
       "match_type": "exact",
       "score": 2.0
@@ -13624,6 +13629,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_autotrust_glm_5_3_flash_gguf_dgx_spark",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_autotrust_jev_27b",
       "match_type": "exact",
       "score": 3.0
@@ -13925,6 +13935,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen_qwen3_1_7b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_bartowski_qwen_qwen3_30b_a3b_instruct_2507_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -17374,6 +17389,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_redhatai_qwen3_30b_a3b_instruct_2507_quantized_w4a16",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_redhatai_qwen3_30b_a3b_nvfp4",
       "match_type": "exact",
       "score": 3.0
@@ -17425,6 +17445,11 @@
     },
     {
       "entity_id": "model_rentednoodle_qwen3_8_27b_orcarouter_gsq_rco_iq3_xxs_uncensored",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_richardyoung_qwen3_14b_abliterated_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -18929,6 +18954,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_liquidai_lfm2_5_230m_base",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_liquidai_lfm2_5_350m_base",
       "match_type": "exact",
       "score": 2.0
@@ -18990,6 +19020,11 @@
     },
     {
       "entity_id": "model_pfnet_plamo_3_nict_2b_base",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_powcal_deepseek_math_7b_base_4bit",
       "match_type": "exact",
       "score": 2.0
     },
@@ -76419,6 +76454,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_dbd_research_group_birdset",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_hf_audio_open_asr_leaderboard",
       "match_type": "exact",
       "score": 3.0
@@ -77295,6 +77335,11 @@
     },
     {
       "entity_id": "dataset_futurehouse_lab_bench",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_hffordata_h3_fewstep_benchmark_20260920",
       "match_type": "exact",
       "score": 2.0
     },
@@ -101560,6 +101605,16 @@
       "entity_id": "dataset_earthspeciesproject_naturelm_audio_training",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_gruncrow_birdeep_audioannotations",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_dbd_research_group_birdset",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "bioasq": [
@@ -102356,6 +102411,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_gruncrow_birdeep_audioannotations",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_imageomics_fish_vista",
       "match_type": "exact",
       "score": 1.5
@@ -103113,6 +103173,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_gruncrow_birdeep_audioannotations",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-1345432548678687342",
       "match_type": "exact",
       "score": 2.0
@@ -103161,6 +103226,11 @@
       "entity_id": "arxiv_2607.22458v1",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_dbd_research_group_birdset",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "alpaca_-2365590437862268499",
@@ -103368,6 +103438,13 @@
       "score": 1.0
     }
   ],
+  "birdeep": [
+    {
+      "entity_id": "dataset_gruncrow_birdeep_audioannotations",
+      "match_type": "exact",
+      "score": 4.0
+    }
+  ],
   "birdhouse": [
     {
       "entity_id": "alpaca_-8713393808988797315",
@@ -103537,6 +103614,11 @@
       "entity_id": "alpaca_788607026050107770",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_gruncrow_birdeep_audioannotations",
+      "match_type": "exact",
+      "score": 1.5
     },
     {
       "entity_id": "alpaca_-1294775625642179058",
@@ -103982,6 +104064,13 @@
       "entity_id": "alpaca_933449331774655282",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "birdset": [
+    {
+      "entity_id": "dataset_dbd_research_group_birdset",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "birdsong": [
@@ -105812,6 +105901,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_powcal_deepseek_math_7b_base_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_powcal_mathstral_7b_v0_1_4bit",
       "match_type": "exact",
       "score": 1.5
@@ -106988,6 +107082,11 @@
   "bitsandbytes": [
     {
       "entity_id": "model_llmsafety_qwen2_5_math_7b_4bit",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_powcal_deepseek_math_7b_base_4bit",
       "match_type": "exact",
       "score": 1.5
     },
@@ -140575,6 +140674,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_dbd_research_group_birdset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_innovatorlab_innovator_vl_instruct_46m",
       "match_type": "exact",
       "score": 1.0
@@ -170246,6 +170350,11 @@
     },
     {
       "entity_id": "dataset_databricks_databricks_dolly_15k",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
+      "entity_id": "dataset_dbd_research_group_birdset",
       "match_type": "exact",
       "score": 2.5
     },
