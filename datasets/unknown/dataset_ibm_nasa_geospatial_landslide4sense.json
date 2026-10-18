@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4b291891badf301b5c75c2153f0f8fe00eeb1435",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tLandslide4Sense\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThis dataset is originally introduced in GitHub repo Landslide4Sense-2022.\nThe Landslide4Sense dataset has three splits, training/validation/test, consisting of 3799, 245, and 800 image patches, respectively. Each image patch is a composite of 14 bands that include:\n\nMultispectral data from Sentinel-2: B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, B11, B12.\n\nSlope data from ALOS PALSAR: B13.       \n\nDigital elevation model (DEM) from… See the full description on the dataset page: https://huggingface.co/datasets/ibm-nasa-geospatial/Landslide4sense.",
-  "downloads": 36211,
+  "downloads": 39449,
   "tags": [
     "size_categories:1K<n<10K",
     "format:imagefolder",

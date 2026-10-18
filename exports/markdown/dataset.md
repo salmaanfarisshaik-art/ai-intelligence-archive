@@ -262,6 +262,12 @@
 - **URL**: [https://huggingface.co/datasets/jacobbieker/eumetsat-rss](https://huggingface.co/datasets/jacobbieker/eumetsat-rss)
 - **Tags**: license:mit, region:us
 
+## open-cn-llm-leaderboard/requests
+- **ID**: hf_ds_65af8a3de50627e40c93389e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/open-cn-llm-leaderboard/requests](https://huggingface.co/datasets/open-cn-llm-leaderboard/requests)
+- **Tags**: license:apache-2.0, region:us
+
 ## espnet/yodas
 - **ID**: hf_ds_65c7e3da4451e58b8ded6212
 - **Source**: HuggingFace Datasets
@@ -1028,6 +1034,12 @@
 - **ID**: hf_ds_69f623abadd8e8047bc039e9
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data](https://huggingface.co/datasets/wegrthj/kbcpjv-v654-data)
+- **Tags**: region:us
+
+## wegrthj/e94fjt-qi9l-raw
+- **ID**: hf_ds_69f623ac1072ff2a21b45f84
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/wegrthj/e94fjt-qi9l-raw](https://huggingface.co/datasets/wegrthj/e94fjt-qi9l-raw)
 - **Tags**: region:us
 
 ## GokuScraper/seedance-2-prompts-datasets

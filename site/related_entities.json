@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:27:41Z",
+  "generated_at": "2026-10-18T10:26:25Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -542,7 +542,9 @@
       "model_liquidai_lfm2_5_230m"
     ],
     "hf_LiquidAI_LFM2.5-24B-A2B": [
-      "model_liquidai_lfm2_5_24b_a2b_gguf"
+      "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
+      "model_liquidai_lfm2_5_24b_a2b_gguf",
+      "model_unsloth_lfm2_5_24b_a2b_gguf"
     ],
     "hf_LiquidAI_LFM2.5-350M": [
       "model_liquidai_lfm2_5_350m_gguf"
@@ -1506,6 +1508,9 @@
     "hf_ai4b-hf_GLOBE-annotated": [
       "model_ai4bharat_indic_parler_tts"
     ],
+    "hf_aifeifei798_DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored": [
+      "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf"
+    ],
     "hf_aisingapore_Gemma-SEA-LION-v3-9B": [
       "model_aisingapore_gemma_sea_lion_v3_9b_it"
     ],
@@ -1975,6 +1980,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Flash-0731": [
       "model_0xsero_deepseek_v4_flash_0731_spark",
       "model_bartowski_deepseek_v4_flash_0731_gguf",
+      "model_drowzeys_keys_deepseekv4_flash_ga_0731_dspark_abliterated_anchored_tensors",
       "model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf",
       "model_mjpansa_deepseek_v4_flash_0731_nvfp4",
       "model_nvidia_deepseek_v4_flash_0731_nvfp4"
@@ -3369,6 +3375,7 @@
       "hf_Qwen_Qwen3.8-27B",
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_pq2_0_mtp_gguf",
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf",
+      "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_v2_pq2_0_mtp_gguf",
       "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf",
       "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf"
     ],
@@ -3991,6 +3998,9 @@
     "model_ath_maas_ovis2_5_9b": [
       "hf_AIDC-AI_Ovis-dataset"
     ],
+    "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf": [
+      "hf_LiquidAI_LFM2.5-24B-A2B"
+    ],
     "model_atomicchat_ling_3_0_flash_gguf": [
       "hf_inclusionAI_Ling-3.0-flash"
     ],
@@ -4054,6 +4064,9 @@
     ],
     "model_bartowski_c4ai_command_r7b_12_2024_gguf": [
       "hf_CohereLabs_c4ai-command-r7b-12-2024"
+    ],
+    "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf": [
+      "hf_aifeifei798_DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored"
     ],
     "model_bartowski_deepseek_r1_distill_llama_70b_gguf": [
       "hf_deepseek-ai_DeepSeek-R1-Distill-Llama-70B"
@@ -4326,6 +4339,9 @@
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
     "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf": [
+      "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
+    ],
+    "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_v2_pq2_0_mtp_gguf": [
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
     "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k": [
@@ -4635,6 +4651,9 @@
     ],
     "model_droplychee_droplychee_1_0_27b": [
       "hf_Qwen_Qwen3.6-27B"
+    ],
+    "model_drowzeys_keys_deepseekv4_flash_ga_0731_dspark_abliterated_anchored_tensors": [
+      "hf_deepseek-ai_DeepSeek-V4-Flash-0731"
     ],
     "model_duoneural_gemma4_12b_it_abliterated_gguf": [
       "hf_DuoNeural_Gemma4-12B-IT-Abliterated"
@@ -7632,6 +7651,9 @@
     ],
     "model_unsloth_lfm2_5_1_2b_instruct_gguf": [
       "hf_LiquidAI_LFM2.5-1.2B-Instruct"
+    ],
+    "model_unsloth_lfm2_5_24b_a2b_gguf": [
+      "hf_LiquidAI_LFM2.5-24B-A2B"
     ],
     "model_unsloth_lfm2_5_8b_a1b_gguf": [
       "hf_LiquidAI_LFM2.5-8B-A1B"

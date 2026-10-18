@@ -9,7 +9,7 @@
   "private": false,
   "sha": "1252d41da54dc34984e4c8fa89ab9677ce92576b",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tH3 few-step benchmark\n\t\n\nFifteen few-step checkpoints for the MiniMax-H3 video+audio model, each run on the\nsame 48 English prompts × 2 seeds (0 and 1) × 3 step counts (4, 8, 32) =\n288 videos per checkpoint, 4,320 videos in total. Conditioning is text only\n(no input image, no camera trajectory). Every video is 1344×768, 5 seconds\n(120 frames at 24 fps), with synthesized audio unless noted.\nAll checkpoints are adapters or distilled variants of MiniMaxAI/MiniMax-H3, except the… See the full description on the dataset page: https://huggingface.co/datasets/hffordata/h3-fewstep-benchmark-20260920.",
-  "downloads": 44200,
+  "downloads": 44261,
   "tags": [
     "task_categories:text-to-video",
     "modality:video",

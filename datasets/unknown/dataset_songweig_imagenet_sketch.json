@@ -1,0 +1,32 @@
+{
+  "_id": "6287a2265142e8a349246c31",
+  "id": "songweig/imagenet_sketch",
+  "author": "songweig",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-09-10T18:30:02.000Z",
+  "likes": 22,
+  "private": false,
+  "sha": "0d8b8b5380efe50baae075842505918ad43c88fe",
+  "citation": "@inproceedings{wang2019learning,\n        title={Learning Robust Global Representations by Penalizing Local Predictive Power},\n        author={Wang, Haohan and Ge, Songwei and Lipton, Zachary and Xing, Eric P},\n        booktitle={Advances in Neural Information Processing Systems},\n        pages={10506--10518},\n        year={2019}\n}",
+  "description": "ImageNet-Sketch data set consists of 50000 images, 50 images for each of the 1000 ImageNet classes.\nWe construct the data set with Google Image queries \"sketch of __\", where __ is the standard class name.\nWe only search within the \"black and white\" color scheme. We initially query 100 images for every class,\nand then manually clean the pulled images by deleting the irrelevant images and images that are for similar\nbut different classes. For some classes, there are less than 50 images after manually cleaning, and then we\naugment the data set by flipping and rotating the images.",
+  "downloads": 29252,
+  "paperswithcode_id": "imagenet-sketch",
+  "tags": [
+    "task_categories:image-classification",
+    "task_ids:multi-class-image-classification",
+    "annotations_creators:crowdsourced",
+    "language_creators:crowdsourced",
+    "multilinguality:monolingual",
+    "source_datasets:extended|imagenet-1k",
+    "language:en",
+    "license:unknown",
+    "size_categories:10K<n<100K",
+    "arxiv:1905.13549",
+    "region:us"
+  ],
+  "createdAt": "2022-05-20T14:13:58.000Z",
+  "key": "",
+  "unique_id": "dataset_songweig_imagenet_sketch",
+  "schema_version": "1.0"
+}

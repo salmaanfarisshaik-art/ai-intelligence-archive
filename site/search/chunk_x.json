@@ -592,6 +592,11 @@
       "entity_id": "dataset_agents_last_exam_agents_last_exam_data",
       "match_type": "exact",
       "score": 2.0
+    },
+    {
+      "entity_id": "dataset_agents_last_exam_agents_last_exam_reference",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xgboost": [
@@ -2031,6 +2036,11 @@
       "entity_id": "hf_ds_Facebear_XVLA-Soft-Fold",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_facebear_xvla_soft_fold",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xwinograd": [

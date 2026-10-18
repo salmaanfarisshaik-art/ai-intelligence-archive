@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:27:40Z",
+  "generated_at": "2026-10-18T10:26:25Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -927,6 +927,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_atomicchat_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
       "type": "derived_from"
@@ -1054,6 +1059,11 @@
     {
       "source_id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
       "target_id": "hf_CohereLabs_c4ai-command-r7b-12-2024",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf",
+      "target_id": "hf_aifeifei798_DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored",
       "type": "derived_from"
     },
     {
@@ -1558,6 +1568,11 @@
     },
     {
       "source_id": "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf",
+      "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_v2_pq2_0_mtp_gguf",
       "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
       "type": "derived_from"
     },
@@ -2299,6 +2314,11 @@
     {
       "source_id": "model_droplychee_droplychee_1_0_27b",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_drowzeys_keys_deepseekv4_flash_ga_0731_dspark_abliterated_anchored_tensors",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
       "type": "derived_from"
     },
     {
@@ -8834,6 +8854,11 @@
     {
       "source_id": "model_unsloth_lfm2_5_1_2b_instruct_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-1.2B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_lfm2_5_24b_a2b_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
       "type": "derived_from"
     },
     {
