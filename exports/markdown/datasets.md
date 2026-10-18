@@ -125,6 +125,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_agents_last_exam_agents_last_exam_reference
+- **Source**: 
+
+## 
 - **ID**: dataset_agibot_world_agibotdigitalworld
 - **Source**: 
 
@@ -1825,6 +1829,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dronefreak_uavid_2020
+- **Source**: 
+
+## 
 - **ID**: dataset_drssth_modelnet_simscan
 - **Source**: 
 
@@ -2038,6 +2046,10 @@
 
 ## 
 - **ID**: dataset_eyz_vlnverse_scene
+- **Source**: 
+
+## 
+- **ID**: dataset_facebear_xvla_soft_fold
 - **Source**: 
 
 ## 
@@ -2433,6 +2445,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ggml_org_ci
+- **Source**: 
+
+## 
 - **ID**: dataset_gifoe_persistent
 - **Source**: 
 
@@ -2825,6 +2841,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_hicai_zju_sciknoweval
+- **Source**: 
+
+## 
 - **ID**: dataset_hiepp1_hiepp1
 - **Source**: 
 
@@ -2954,6 +2974,10 @@
 
 ## 
 - **ID**: dataset_hrdexdb_hrdexdb
+- **Source**: 
+
+## 
+- **ID**: dataset_hrdq_dota2pornfx
 - **Source**: 
 
 ## 
@@ -4541,6 +4565,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ilabai_3dcodeverse
+- **Source**: 
+
+## 
 - **ID**: dataset_ilialarchenko_behavior_224_rgb
 - **Source**: 
 
@@ -5593,6 +5621,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lmqg_qa_squadshifts_synthetic
+- **Source**: 
+
+## 
 - **ID**: dataset_lmquan_newtonbench_60k
 - **Source**: 
 
@@ -6033,6 +6065,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mito0o852_ohlcv_1m
+- **Source**: 
+
+## 
 - **ID**: dataset_mkkimgnu_dogspeak_dataset
 - **Source**: 
 
@@ -6306,6 +6342,10 @@
 
 ## 
 - **ID**: dataset_nakas_nbm_conus_analysis
+- **Source**: 
+
+## 
+- **ID**: dataset_nakas_wxfuser_state
 - **Source**: 
 
 ## 
@@ -7357,6 +7397,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_poloclub_diffusiondb
+- **Source**: 
+
+## 
 - **ID**: dataset_polymathic_ai_shear_flow
 - **Source**: 
 
@@ -7837,6 +7881,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_saghi776_detectai_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_sahil2801_codealpaca_20k
 - **Source**: 
 
@@ -8209,11 +8257,23 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_songweig_imagenet_sketch
+- **Source**: 
+
+## 
 - **ID**: dataset_sophia1ch_zendo_synthetic_data
 - **Source**: 
 
 ## 
 - **ID**: dataset_sparkaudio_voxbox
+- **Source**: 
+
+## 
+- **ID**: dataset_spawning_pd_extended
+- **Source**: 
+
+## 
+- **ID**: dataset_spcl_arxiv_for_fanns_medium
 - **Source**: 
 
 ## 
@@ -8334,6 +8394,10 @@
 
 ## 
 - **ID**: dataset_superkaiba1_explore_persona_space_data
+- **Source**: 
+
+## 
+- **ID**: dataset_superlinked_sie_task_evidence
 - **Source**: 
 
 ## 
@@ -8934,6 +8998,10 @@
 
 ## 
 - **ID**: dataset_vctvct123_megadepth
+- **Source**: 
+
+## 
+- **ID**: dataset_vector_institute_open_pmc_18m
 - **Source**: 
 
 ## 

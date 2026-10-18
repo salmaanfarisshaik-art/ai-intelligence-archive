@@ -356,6 +356,10 @@
 - **ID**: model_ath_maas_ovis2_5_9b
 - **Source**: 
 
+## AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF
+- **ID**: model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf
+- **Source**: 
+
 ## AtomicChat/Ling-3.0-flash-GGUF
 - **ID**: model_atomicchat_ling_3_0_flash_gguf
 - **Source**: 
@@ -466,6 +470,10 @@
 
 ## bartowski/c4ai-command-r7b-12-2024-GGUF
 - **ID**: model_bartowski_c4ai_command_r7b_12_2024_gguf
+- **Source**: 
+
+## bartowski/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored-GGUF
+- **ID**: model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf
 - **Source**: 
 
 ## bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF
@@ -858,6 +866,10 @@
 
 ## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-PTQ1_0-GGUF
 - **ID**: model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf
+- **Source**: 
+
+## BoldingBuilds/Ternary-Bonsai-2-27B-Abliterated-v2-PQ2_0-MTP-GGUF
+- **ID**: model_boldingbuilds_ternary_bonsai_2_27b_abliterated_v2_pq2_0_mtp_gguf
 - **Source**: 
 
 ## bosonai/higgs-audio-v3-tts-4b
@@ -1466,6 +1478,10 @@
 
 ## droplychee/droplychee-1.0-27b
 - **ID**: model_droplychee_droplychee_1_0_27b
+- **Source**: 
+
+## drowzeys/keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-Anchored-Tensors
+- **ID**: model_drowzeys_keys_deepseekv4_flash_ga_0731_dspark_abliterated_anchored_tensors
 - **Source**: 
 
 ## DuoNeural/Gemma4-12B-IT-Abliterated-GGUF
@@ -2130,6 +2146,10 @@
 
 ## huihui-ai/Qwen2.5-72B-Instruct-abliterated
 - **ID**: model_huihui_ai_qwen2_5_72b_instruct_abliterated
+- **Source**: 
+
+## humain-ai/ALLaM-7B-Instruct-preview
+- **ID**: model_humain_ai_allam_7b_instruct_preview
 - **Source**: 
 
 ## hyrelabs/Homura-30B-GGUF
@@ -6524,6 +6544,10 @@
 - **ID**: model_typhoon_ai_llama3_1_typhoon2_8b_instruct
 - **Source**: 
 
+## typhoon-ai/llama3.1-typhoon2-audio-8b-instruct
+- **ID**: model_typhoon_ai_llama3_1_typhoon2_audio_8b_instruct
+- **Source**: 
+
 ## typhoon-ai/typhoon2.5-qwen3-30b-a3b
 - **ID**: model_typhoon_ai_typhoon2_5_qwen3_30b_a3b
 - **Source**: 
@@ -6698,6 +6722,10 @@
 
 ## unsloth/LFM2.5-1.2B-Instruct-GGUF
 - **ID**: model_unsloth_lfm2_5_1_2b_instruct_gguf
+- **Source**: 
+
+## unsloth/LFM2.5-24B-A2B-GGUF
+- **ID**: model_unsloth_lfm2_5_24b_a2b_gguf
 - **Source**: 
 
 ## unsloth/LFM2.5-8B-A1B-GGUF
