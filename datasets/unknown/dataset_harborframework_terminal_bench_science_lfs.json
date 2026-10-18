@@ -4,10 +4,10 @@
   "author": "harborframework",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-22T21:58:18.000Z",
+  "lastModified": "2026-10-18T17:28:45.000Z",
   "likes": 4,
   "private": false,
-  "sha": "d48ce2a26e4dcd525c9e8ceb8dd2b60652e178cd",
+  "sha": "6697c480b0f213eb0a48b8ec4e624b109888e3e9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tTerminal-Bench-Science — task input mirror\n\t\n\nLarge input files for Terminal-Bench-Science\ntasks, which cannot be committed to git. Tasks pull from here at container build\ntime, pinned to a commit SHA and verified against a checksum file that ships in\nthe task directory.\nOne top-level prefix per task; everything lives under <task-name>/input/.\n\n\t\n\t\t\n\t\n\t\n\t\tBenchmark contamination canary\n\t\n\nThis dataset is benchmark material. If you are assembling a training corpus,\nexclude it.… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/terminal-bench-science-lfs.",
   "downloads": 108501,
   "tags": [

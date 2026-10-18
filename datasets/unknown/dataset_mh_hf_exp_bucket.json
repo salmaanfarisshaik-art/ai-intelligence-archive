@@ -4,10 +4,10 @@
   "author": "mh-hf",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-18T13:37:05.000Z",
+  "lastModified": "2026-10-18T16:40:53.000Z",
   "likes": 0,
   "private": false,
-  "sha": "472f076ea83e11c0121c100c5f03276f340ac383",
+  "sha": "1bd28bf6cbc21898206baa2a19707fbf846ab35f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tLeWM multi-domain robot corpus\n\t\n\nMulti-domain robot data for latent world-model training and dataset-replay evaluation (reset an\nenv to any stored frame, roll out a planner, score against the stored goal). Ten domain columns\n(eight simulators, OGBench locomotion, PushT), unified where it matters, documented where it can't be.\nHuman and generated demonstrations both live here, tagged per episode, so a world model can be trained\non the full behaviour distribution rather than on… See the full description on the dataset page: https://huggingface.co/datasets/mh-hf/exp-bucket.",
   "downloads": 51098,
   "tags": [
