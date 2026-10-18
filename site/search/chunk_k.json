@@ -1132,6 +1132,11 @@
       "entity_id": "dataset_mteb_amazon_massive_intent",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_ruggsea_infini_news_corpus",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "kana": [
@@ -7661,6 +7666,13 @@
       "entity_id": "rss_https://openai.com/index/disrupting-malicious-uses-of-ai-vixen-keyhole-panda",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "keyless": [
+    {
+      "entity_id": "dataset_ruggsea_infini_news_corpus",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "keynes": [
@@ -21206,6 +21218,11 @@
     },
     {
       "entity_id": "dataset_mteb_amazon_massive_intent",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_ruggsea_infini_news_corpus",
       "match_type": "exact",
       "score": 1.5
     },
