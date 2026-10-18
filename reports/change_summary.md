@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 77
+**Total Changes:** 76
 
 ## Added
 None
@@ -12,21 +12,20 @@ None
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
 - datasets/sunblaze-ucb/hf_ds_68251f06823e816aeea2d9dc.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- datasets/tiger-lab/hf_ds_663b7fd5a4152b77b637ba11.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/distilbert/hf_distilbert_distilgpt2.json
-- models/google/hf_google_gemma-3-1b-it.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
 - models/openai/hf_openai_gpt-oss-120b.json
-- models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
+- models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
