@@ -61720,6 +61720,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_vincewin_crest_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_voiceofml_vomebook",
       "match_type": "exact",
       "score": 1.5
@@ -98378,6 +98383,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/learning-never-stops",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/low-resource-programming-languages",
       "match_type": "exact",
       "score": 1.0
     },
@@ -154009,6 +154019,13 @@
       "score": 1.0
     }
   ],
+  "cobol": [
+    {
+      "entity_id": "rss_https://openai.com/index/low-resource-programming-languages",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "cobotmagic": [
     {
       "entity_id": "hf_ds_rhos-ai_gm100-cobotmagic-lerobot",
@@ -162467,6 +162484,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/gpt-5-3-codex-system-card",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/low-resource-programming-languages",
       "match_type": "exact",
       "score": 2.0
     },

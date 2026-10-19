@@ -4051,6 +4051,11 @@
 - **URL**: [https://openai.com/index/loveholidays](https://openai.com/index/loveholidays)
 
 ## 
+- **ID**: rss_https://openai.com/index/low-resource-programming-languages
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/low-resource-programming-languages](https://openai.com/index/low-resource-programming-languages)
+
+## 
 - **ID**: rss_https://openai.com/index/lowes
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/lowes](https://openai.com/index/lowes)
