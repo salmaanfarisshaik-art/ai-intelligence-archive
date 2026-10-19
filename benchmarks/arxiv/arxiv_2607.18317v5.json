@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.18317v5",
+  "schema_version": "1.0",
+  "name": "A Situational Speech Synthesizer for Yoruba: System Design, Phonological Rule Architecture, and Orthographic Extensions for Contour",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.18317v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.18317v5",
+    "updated": "2026-10-16T16:23:21Z",
+    "published": "2026-07-17T20:13:41Z",
+    "title": "A Situational Speech Synthesizer for Yoruba: System Design, Phonological Rule Architecture, and Orthographic Extensions for Contour",
+    "summary": "We present TTSYoruba, a rule-based concatenative diphone speech synthesizer for Yoruba, deployed at online as part of the YorubaName.com open dictionary of Yoruba personal names. The system takes tone-marked Yoruba text as input and produces audio output by applying a hand-crafted phonological rule system to a recorded inventory of 651 diphone units spanning five tonal variants of every consonant-vowel combination in the language. We describe the phonological architecture of the system in detail, including our complete tonal file-selection logic, our treatment of the three-way nasal disambiguation problem (oral /n/, nasalized vowel, and syllabic nasal), and the derivation of contextual rising and falling tones from level-tone input. We also present, as an orthographic contribution, the adoption of the caron and circumflex, which are symbols with prior standing in Yoruba phonological transcription, as standard single-vowel contour tone markers, integrated into the TTS normalization pipeline and the WriteYoruba keyboard input tool. The system's performance was evaluated through a listener study (N=50), with detailed results on Mean Opinion Scores (MOS) presented in Section 6.\n  Keywords: Yoruba, text-to-speech, low-resource languages, diphone synthesis, contour tones, African language NLP, rule-based synthesis",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T16:23:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.18317v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.27210v2",
+  "schema_version": "1.0",
+  "name": "Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.27210v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.27210v2",
+    "updated": "2026-10-16T16:09:43Z",
+    "published": "2026-06-25T16:03:57Z",
+    "title": "Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes",
+    "summary": "We argue that safety classifiers should model user intent as an explicit signal between the prompt and the final label. To study this, we introduce AIMS, a human-annotated dataset of 1,724 difficult safety prompts, each paired with an intent description and harm label. We use AIMS to evaluate intent-aware training across supervised fine-tuning, preference learning, reasoning distillation, and reinforcement learning. Despite its size, AIMS enables competitive safety classifiers across training regimes: DPO from model-generated intent errors improves over SFT, and intent-conditioned distillation outperforms reasoning-only distillation in most teacher-student pairs. Most notably, directly rewarding intent faithfulness with GRPO yields the strongest average performance across five external safety benchmarks, while our intent-aware models form the inference latency-F1 Pareto frontier. These results show that faithful intent modeling is a compact, high-quality supervision signal for more robust safety classifiers.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T16:09:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.27210v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

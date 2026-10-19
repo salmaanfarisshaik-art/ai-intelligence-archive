@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.23678v1",
+  "schema_version": "1.0",
+  "name": "Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.23678v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.23678v1",
+    "updated": "2026-10-16T16:09:20Z",
+    "published": "2026-10-16T16:09:20Z",
+    "title": "Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS",
+    "summary": "Qwen3-TTS reports state-of-the-art zero-shot voice cloning, but its technical report leaves open how the model should be conditioned, how it behaves outside read speech, and how it fails. We characterise its two cloning interfaces, in-context learning (ICL) and X-Vector, against Chatterbox, XTTS-v2 and F5-TTS on read, meeting, emotional and air-traffic-control (ATC) speech, using eighteen objective measures, an LLM judge, a spoofing countermeasure and a listening test. Neither interface dominates: ICL clones timbre more closely from correctly transcribed references, X-Vector clones timing, and ICL degrades sharply when a short reference transcript is wrong. Domain explains four times more variance than system choice. Qwen3-TTS leads on intelligibility and pitch register but trails on prosody, and the objective measures rank systems differently from listeners. An off-the-shelf countermeasure flags its clones no more often than genuine recordings, and on ATC radio it fails for every system. Code and audio are released.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T16:09:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.23678v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

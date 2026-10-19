@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.20055v2",
+  "schema_version": "1.0",
+  "name": "Automatic Tensor-level Execution of Abstract Interpreters for Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.20055v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.20055v2",
+    "updated": "2026-10-16T17:43:47Z",
+    "published": "2025-07-26T20:38:29Z",
+    "title": "Automatic Tensor-level Execution of Abstract Interpreters for Neural Networks",
+    "summary": "Developing new abstract interpretation-based DNN certifiers is difficult because their mathematical design is expressed at the neuron level, while implementations must operate at the tensor level. Existing libraries such as auto_LiRPA, IVAN, and ERAN support fixed sets of certifiers; extending them requires expertise in formal methods and tensor programming. Domain-specific languages such as ConstraintFlow let researchers specify certifiers at the neuron level, but cannot run them on real DNNs.\n  We present Neuton, a framework that automatically translates neuron-level certifier specifications into tensor-level executables, enabling new DNN certifiers without manual tensor programming. Neuton makes three contributions. First, a stack-based intermediate representation (IR) and shape analysis infer implicit tensor operations, including broadcasts, dimension expansions, and reductions, required for correct execution. Second, domain-specific rewrite rules optimize common tensor operation sequences into more efficient equivalents. Third, gBCSR is a sparse tensor format using variable-sized, layer-aligned blocks over a non-zero default value, tailored to DNN certifier sparsity.\n  We prove that translation preserves neuron-level semantics. We evaluate Neuton on 8 certifiers and 32 DNN benchmarks. Neuton compiles four existing certifiers and produces the first executable implementations of four others: two previously specified but never run, and two new designs. These expose precision-runtime trade-offs unavailable in existing libraries. For example, SkipPoly matches DeepPoly's precision on all 32 DNNs while running as fast or faster on half. Neuton's runtime on existing certifiers is competitive with hand-optimized libraries. Code: https://github.com/uiuc-focal-lab/constraintflow.git",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T17:43:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.20055v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

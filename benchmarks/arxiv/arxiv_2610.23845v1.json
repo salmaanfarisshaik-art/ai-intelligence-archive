@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.23845v1",
+  "schema_version": "1.0",
+  "name": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.23845v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.23845v1",
+    "updated": "2026-10-16T17:57:55Z",
+    "published": "2026-10-16T17:57:55Z",
+    "title": "AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery",
+    "summary": "Reproducible and analytically robust research findings are essential to scientific progress, but evaluating these properties typically requires costly manual effort. We investigate whether LLM agents can help automate reproduction and robustness analysis, using a medical case study grounded in the Surveillance, Epidemiology, and End Results (SEER) database, a widely used U.S. cancer registry underlying tens of thousands of published studies. First, we introduce SEER-Repro, a benchmark of 20 published SEER-based papers together with the data and resources required to reproduce their findings. Second, we create an AI agent that successfully reproduces 77.4% of 2,190 atomic claims, while providing executable baselines for further analysis. Third, we develop an agentic analysis pipeline to test the robustness of the medical findings by identifying analytical choices underlying each finding, proposing defensible alternatives, and rerunning the analysis to determine whether those choices affect the conclusion. Across published papers in SEER-Repro, our pipeline identifies potentially consequential analytical choices in 9.5% of fully reproduced findings and flags them for expert review. These results show how LLM agents can support scientific review by reproducing findings, systematically testing their robustness, and directing expert attention toward potentially consequential analytical choices.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T17:57:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.23845v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

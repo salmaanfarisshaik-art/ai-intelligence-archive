@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2502.15007v2](http://arxiv.org/abs/2502.15007v2)
 
+## Optimizing Singular Spectrum for Large Language Model Compression
+- **ID**: arxiv_2502.15092v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2502.15092v2](http://arxiv.org/abs/2502.15092v2)
+
 ## AgentRM: Enhancing Agent Generalization with Reward Modeling
 - **ID**: arxiv_2502.18407v2
 - **Source**: ArXiv
@@ -130,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.14022v3](http://arxiv.org/abs/2507.14022v3)
 
+## Automatic Tensor-level Execution of Abstract Interpreters for Neural Networks
+- **ID**: arxiv_2507.20055v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.20055v2](http://arxiv.org/abs/2507.20055v2)
+
 ## InsurTech innovation using natural language processing
 - **ID**: arxiv_2507.21112v4
 - **Source**: ArXiv
@@ -175,6 +185,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.07801v5](http://arxiv.org/abs/2509.07801v5)
 
+## Measuring AI "Slop" in Text
+- **ID**: arxiv_2509.19163v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.19163v3](http://arxiv.org/abs/2509.19163v3)
+
 ## Steering Multimodal Large Language Models Decoding for Context-Aware Safety
 - **ID**: arxiv_2509.19212v2
 - **Source**: ArXiv
@@ -209,6 +224,11 @@
 - **ID**: arxiv_2510.07177v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.07177v2](http://arxiv.org/abs/2510.07177v2)
+
+## Language steering in latent space to mitigate unintended code-switching
+- **ID**: arxiv_2510.13849v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.13849v4](http://arxiv.org/abs/2510.13849v4)
 
 ## Quantifying Affective Bias in Low-Resource Media: Large-Scale Emotion Profiling of Bengali Headlines
 - **ID**: arxiv_2510.17252v2
@@ -309,6 +329,11 @@
 - **ID**: arxiv_2601.09001v5
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.09001v5](http://arxiv.org/abs/2601.09001v5)
+
+## Beyond Consensus: Perspectivist Modeling and Evaluation of Annotator Disagreement in NLP
+- **ID**: arxiv_2601.09065v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.09065v3](http://arxiv.org/abs/2601.09065v3)
 
 ## Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues
 - **ID**: arxiv_2601.12868v2
@@ -1139,6 +1164,11 @@
 - **ID**: arxiv_2606.27199v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27199v2](http://arxiv.org/abs/2606.27199v2)
+
+## Paved with True Intents: Intent-Aware Training Improves LLM Safety Classification Across Training Regimes
+- **ID**: arxiv_2606.27210v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27210v2](http://arxiv.org/abs/2606.27210v2)
 
 ## MMLA: How Memory Lets the Past Shape the Future
 - **ID**: arxiv_2606.28876v3
@@ -2589,6 +2619,11 @@
 - **ID**: arxiv_2608.29624v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.29624v1](http://arxiv.org/abs/2608.29624v1)
+
+## IndicDetect: Evaluating Cross-Lingual LLM-Generated Text Detection for Hindi, Telugu, and Tamil
+- **ID**: arxiv_2608.29919v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.29919v2](http://arxiv.org/abs/2608.29919v2)
 
 ## Stratified Consistency Distillation for Natural Language Formalization
 - **ID**: arxiv_2608.30258v3
@@ -4064,4 +4099,64 @@
 - **ID**: arxiv_2610.22355v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22355v1](http://arxiv.org/abs/2610.22355v1)
+
+## VISTA: Steering LLMs with Latent User Values Inferred from a Few Survey Answers
+- **ID**: arxiv_2610.23702v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23702v1](http://arxiv.org/abs/2610.23702v1)
+
+## GLOBE: Evolving Structured Agentic Memory for E-commerce Product Optimization in Generative Search
+- **ID**: arxiv_2610.23709v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23709v1](http://arxiv.org/abs/2610.23709v1)
+
+## The Cognitive Cost of LLM Writing: A Reading-Time Comparison with Human Text
+- **ID**: arxiv_2610.23715v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23715v1](http://arxiv.org/abs/2610.23715v1)
+
+## Recognizing Study Lineage Is Not Enough: Over-Crediting Same-Trial Evidence in LLM-Based Medical Verification
+- **ID**: arxiv_2610.23721v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23721v1](http://arxiv.org/abs/2610.23721v1)
+
+## Bridging the Language Gap in Scholarly Data II: Enhancing Gender Inference for Chinese Names
+- **ID**: arxiv_2610.23734v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23734v1](http://arxiv.org/abs/2610.23734v1)
+
+## The Italian lawmaking process: a unified and structured dataset
+- **ID**: arxiv_2610.23741v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23741v1](http://arxiv.org/abs/2610.23741v1)
+
+## DLite: History-free Speculative Decoding for Agentic AI
+- **ID**: arxiv_2610.23787v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23787v1](http://arxiv.org/abs/2610.23787v1)
+
+## Steering beyond Language: Improving Multilingual Training-Free Text Embeddings via Paired-Residual Subspace Removal
+- **ID**: arxiv_2610.23807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23807v1](http://arxiv.org/abs/2610.23807v1)
+
+## Acceptance Is Not Speed: Length Inflation in Training-Free Lossy Speculative Decoding
+- **ID**: arxiv_2610.23818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23818v1](http://arxiv.org/abs/2610.23818v1)
+
+## Beyond the Answer: Student-Conditioned Trace Construction for Reasoning Distillation
+- **ID**: arxiv_2610.23831v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23831v1](http://arxiv.org/abs/2610.23831v1)
+
+## DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses
+- **ID**: arxiv_2610.23839v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23839v1](http://arxiv.org/abs/2610.23839v1)
+
+## Behavioral Couplings: From Formation to Behavioral Emergence in Language Models
+- **ID**: arxiv_2610.23847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23847v1](http://arxiv.org/abs/2610.23847v1)
 

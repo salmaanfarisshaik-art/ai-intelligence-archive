@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.21203v2](http://arxiv.org/abs/2602.21203v2)
 
+## HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning
+- **ID**: arxiv_2603.00446v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.00446v2](http://arxiv.org/abs/2603.00446v2)
+
 ## RMBench: Memory-Dependent Robotic Manipulation Benchmark with Insights into Policy Design
 - **ID**: arxiv_2603.01229v3
 - **Source**: ArXiv
@@ -334,6 +339,11 @@
 - **ID**: arxiv_2608.01035v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.01035v4](http://arxiv.org/abs/2608.01035v4)
+
+## MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping
+- **ID**: arxiv_2608.02014v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.02014v2](http://arxiv.org/abs/2608.02014v2)
 
 ## TS-MAMP: A Remanufactured Agricultural Robot with Second-Life EV Components and NMS-Free On-Device Weed Detection
 - **ID**: arxiv_2608.02270v2

@@ -385,6 +385,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.26508v2](http://arxiv.org/abs/2604.26508v2)
 
+## Interpretable experiential learning based on state history and global feedback
+- **ID**: arxiv_2605.00940v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.00940v2](http://arxiv.org/abs/2605.00940v2)
+
 ## Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI
 - **ID**: arxiv_2605.01240v3
 - **Source**: ArXiv
@@ -2130,6 +2135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.17407v2](http://arxiv.org/abs/2610.17407v2)
 
+## LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification
+- **ID**: arxiv_2610.17697v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17697v2](http://arxiv.org/abs/2610.17697v2)
+
 ## Does Pretraining Teach Chemical Language Models Chemistry?
 - **ID**: arxiv_2610.18651v2
 - **Source**: ArXiv
@@ -2249,4 +2259,9 @@
 - **ID**: arxiv_2610.22353v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22353v1](http://arxiv.org/abs/2610.22353v1)
+
+## Neural Expansion: A Unified Mechanism for How Deep Neural Networks Generalize
+- **ID**: arxiv_2610.23716v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23716v1](http://arxiv.org/abs/2610.23716v1)
 

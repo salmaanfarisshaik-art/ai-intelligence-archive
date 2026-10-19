@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.00247v3](http://arxiv.org/abs/2607.00247v3)
 
+## A Situational Speech Synthesizer for Yoruba: System Design, Phonological Rule Architecture, and Orthographic Extensions for Contour
+- **ID**: arxiv_2607.18317v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.18317v5](http://arxiv.org/abs/2607.18317v5)
+
 ## Pushing the Frontier of Full-Song Generation: Hierarchical Autoregressive Planning Meets Flow-Matching Rendering
 - **ID**: arxiv_2607.20253v1
 - **Source**: ArXiv
@@ -184,4 +189,14 @@
 - **ID**: arxiv_2610.08760v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08760v1](http://arxiv.org/abs/2610.08760v1)
+
+## Beyond the Benchmark: Conditioning, Domains and Failure Modes of Qwen3-TTS
+- **ID**: arxiv_2610.23678v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23678v1](http://arxiv.org/abs/2610.23678v1)
+
+## VocalGrad: Evaluating Acoustic Perception in Audio Language Models
+- **ID**: arxiv_2610.23745v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23745v1](http://arxiv.org/abs/2610.23745v1)
 

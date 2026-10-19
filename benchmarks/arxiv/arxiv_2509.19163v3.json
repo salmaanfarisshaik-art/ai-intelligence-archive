@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.19163v3",
+  "schema_version": "1.0",
+  "name": "Measuring AI \"Slop\" in Text",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.19163v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.19163v3",
+    "updated": "2026-10-16T17:05:27Z",
+    "published": "2025-09-23T15:41:19Z",
+    "title": "Measuring AI \"Slop\" in Text",
+    "summary": "AI \"slop\" is an increasingly popular term used to describe low-quality AI-generated text, but there is currently no agreed upon definition of this term nor a means to measure its occurrence. In this work, we develop a taxonomy of \"slop\" through interviews with experts in NLP, writing, and philosophy, and propose a set of interpretable dimensions for its assessment in text. Through span-level annotation, we find that binary \"slop\" judgments are (somewhat) subjective, but such determinations nonetheless correlate with latent dimensions such as coherence and relevance. Our framework can be used to examine AI-generated text in both detection and binary preference tasks, potentially offering new insights into the linguistic and stylistic factors that contribute to quality judgments. We highlight that fully automated and scalable methods remain an open challenge.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T17:05:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.19163v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

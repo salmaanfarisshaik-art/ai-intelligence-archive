@@ -805,6 +805,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04201v2](http://arxiv.org/abs/2605.04201v2)
 
+## FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation
+- **ID**: arxiv_2605.04702v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.04702v2](http://arxiv.org/abs/2605.04702v2)
+
 ## EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields
 - **ID**: arxiv_2605.06192v2
 - **Source**: ArXiv
@@ -6279,4 +6284,64 @@
 - **ID**: arxiv_2610.22371v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22371v1](http://arxiv.org/abs/2610.22371v1)
+
+## Agentic Physics-Grounded Video Generation via Memory-Augmented In-Context Reasoning
+- **ID**: arxiv_2610.23677v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23677v1](http://arxiv.org/abs/2610.23677v1)
+
+## FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization
+- **ID**: arxiv_2610.23705v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23705v1](http://arxiv.org/abs/2610.23705v1)
+
+## Synthetic Image Oversampling for Rare-Class Representation Learning in Deep Facial Phenotyping
+- **ID**: arxiv_2610.23730v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23730v1](http://arxiv.org/abs/2610.23730v1)
+
+## Beyond Multi-Stage Pipelines: A Label-Correlation Ensemble for Multi-Label Retinal Fundus Disease Classification
+- **ID**: arxiv_2610.23747v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23747v1](http://arxiv.org/abs/2610.23747v1)
+
+## MTEdit: Packed Trajectories Beat Rollouts for Multi-Turn Image Editing
+- **ID**: arxiv_2610.23751v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23751v1](http://arxiv.org/abs/2610.23751v1)
+
+## A Paired RGB-Sonar Dataset for Fish Monitoring with Consumer Sonar
+- **ID**: arxiv_2610.23759v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23759v1](http://arxiv.org/abs/2610.23759v1)
+
+## Video Diffusion Avatars: Taming Video Diffusion Models into Controllable 3D Avatars
+- **ID**: arxiv_2610.23772v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23772v1](http://arxiv.org/abs/2610.23772v1)
+
+## The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change
+- **ID**: arxiv_2610.23789v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23789v1](http://arxiv.org/abs/2610.23789v1)
+
+## Persistent Planar Memory for Video World Models
+- **ID**: arxiv_2610.23795v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23795v1](http://arxiv.org/abs/2610.23795v1)
+
+## StopWatch: Goal Grounding for Object-goal Navigation
+- **ID**: arxiv_2610.23841v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23841v1](http://arxiv.org/abs/2610.23841v1)
+
+## Rethinking the design space of Vanilla Pixel Diffusion Transformers
+- **ID**: arxiv_2610.23854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23854v1](http://arxiv.org/abs/2610.23854v1)
+
+## Learning to Correct Geometry in Generated Videos
+- **ID**: arxiv_2610.23856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23856v1](http://arxiv.org/abs/2610.23856v1)
 

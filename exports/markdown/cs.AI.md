@@ -3725,6 +3725,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08966v2](http://arxiv.org/abs/2610.08966v2)
 
+## Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI
+- **ID**: arxiv_2610.09146v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.09146v2](http://arxiv.org/abs/2610.09146v2)
+
 ## Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models
 - **ID**: arxiv_2610.10405v1
 - **Source**: ArXiv
@@ -3925,6 +3930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20597v2](http://arxiv.org/abs/2610.20597v2)
 
+## When Reasoning Traces Conflict with Evidence: How Answer Configuration Shapes Evidence Following
+- **ID**: arxiv_2610.20805v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.20805v2](http://arxiv.org/abs/2610.20805v2)
+
 ## EliteReplay: Preserving Diverse Solutions in RL Post-Training via Quality-Diversity Search
 - **ID**: arxiv_2610.22290v1
 - **Source**: ArXiv
@@ -3964,4 +3974,34 @@
 - **ID**: arxiv_2610.22350v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22350v1](http://arxiv.org/abs/2610.22350v1)
+
+## Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability
+- **ID**: arxiv_2610.23722v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23722v1](http://arxiv.org/abs/2610.23722v1)
+
+## DrugHarness: An Evolvable Agent Harness for Computational Drug Discovery
+- **ID**: arxiv_2610.23791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23791v1](http://arxiv.org/abs/2610.23791v1)
+
+## FuTransformer: FP8 prefill and INT4 decode for Llama-style inference on Hopper
+- **ID**: arxiv_2610.23796v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23796v1](http://arxiv.org/abs/2610.23796v1)
+
+## Beyond SAEs: Consistent Concept Discovery with Sparse Coding
+- **ID**: arxiv_2610.23801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23801v1](http://arxiv.org/abs/2610.23801v1)
+
+## Self-Building Labs
+- **ID**: arxiv_2610.23826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23826v1](http://arxiv.org/abs/2610.23826v1)
+
+## AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery
+- **ID**: arxiv_2610.23845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23845v1](http://arxiv.org/abs/2610.23845v1)
 

@@ -1,5 +1,10 @@
 # Cs.Ma Export
 
+## Coordination Matters: Process-Aware Evaluation of Cooperative Multi-Agent Reinforcement Learning
+- **ID**: arxiv_2605.06557v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06557v2](http://arxiv.org/abs/2605.06557v2)
+
 ## Certifiable Semantic Agreement Among LLM Agents: What the Admissibility Instrument Decides
 - **ID**: arxiv_2606.07316v2
 - **Source**: ArXiv

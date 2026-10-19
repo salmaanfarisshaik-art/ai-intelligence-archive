@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.23705v1",
+  "schema_version": "1.0",
+  "name": "FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.23705v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.23705v1",
+    "updated": "2026-10-16T16:29:15Z",
+    "published": "2026-10-16T16:29:15Z",
+    "title": "FedRAPP: Federated Test-Time Prompt Tuning for Vision-Language Models with Reliability-Aware Prompt Personalization",
+    "summary": "Federated prompt learning enables vision-language models like CLIP to collaboratively adapt lightweight soft prompts across distributed clients without sharing raw data. However, existing federated prompt learning methods are designed primarily for supervised settings with labeled client data and assumed relatively stable training distributions. At test time, source-free federated prompt tuning remains largely unexplored. Clients may receive unlabeled target samples with heterogeneous, often non-IID distributions that differ substantially across clients and from the source training distribution, causing locally adapted prompts to drift in different directions and reducing the effectiveness of federated aggregation. In this work, we explore Source-Free Federated Test-Time Prompt Tuning (SF-FTTPT), where distributed clients collaboratively adapt soft prompts on unlabeled test streams without access to source data. Our study reveals that conventional federated aggregation methods struggle under heterogeneous client distributions, as locally adapted prompts become increasingly specialized and difficult to combine effectively. To address this challenge, we propose FedRAPP, a personalized aggregation framework that combines reliability-aware client assessment, server-side exponential moving-average prompt memory, and similarity-guided peer aggregation. FedRAPP selectively incorporates information from reliable and compatible clients while preserving local specialization, enabling more robust adaptation under distribution shift. Extensive experiments across nine CLIP benchmark datasets and ImageNet variants demonstrate that FedRAPP consistently outperforms standard federated aggregation baselines under heterogeneous client distributions while maintaining the efficiency advantages of prompt-only adaptation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T16:29:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.23705v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

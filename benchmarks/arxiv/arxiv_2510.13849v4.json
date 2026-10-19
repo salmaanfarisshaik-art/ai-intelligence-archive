@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.13849v4",
+  "schema_version": "1.0",
+  "name": "Language steering in latent space to mitigate unintended code-switching",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.13849v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.13849v4",
+    "updated": "2026-10-16T17:02:53Z",
+    "published": "2025-10-11T19:49:38Z",
+    "title": "Language steering in latent space to mitigate unintended code-switching",
+    "summary": "Multilingual Large Language Models (LLMs) often exhibit hallucinations such as unintended code-switching, reducing reliability in downstream tasks. We propose latent-space language steering, a lightweight inference-time method that identifies language directions via Principal Component Analysis (PCA) on parallel translations and steers token embeddings along these axes to control language identity. Our approach mitigates code-switching (reduced next-token distributional divergence by up to 55\\%, reduced Code-Switching Index by 63--99\\%) while preserving broad semantic direction with negligible computational overhead and requires only minimal parallel data for calibration. Additionally, we evaluate language classification using a single principal component (95-99\\% accuracy) and further analyze the layer-wise evolution of language representations.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-19T05:44:22Z",
+  "last_updated": "2026-10-16T17:02:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.13849v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
