@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:45:42Z",
+  "generated_at": "2026-10-19T12:13:07Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1146,6 +1146,7 @@
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_5bit",
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_6bit",
       "model_lmstudio_community_qwen3_coder_30b_a3b_instruct_mlx_8bit",
+      "model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4",
       "model_quanttrio_qwen3_coder_30b_a3b_instruct_awq",
       "model_quanttrio_qwen3_coder_30b_a3b_instruct_gptq_int8",
       "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
@@ -1761,6 +1762,9 @@
     "hf_cmh_alpaca_data_cleaned_fr_52k": [
       "model_openllm_france_lucie_7b_instruct_v1_1"
     ],
+    "hf_codeparrot_codeparrot-clean": [
+      "model_codeparrot_codeparrot_small"
+    ],
     "hf_codeparrot_github-code": [
       "model_neuralcrew_neutrino_instruct"
     ],
@@ -2326,6 +2330,9 @@
     ],
     "hf_ibm-granite_granite-4.1-8b-base": [
       "model_ibm_granite_granite_4_2_8b"
+    ],
+    "hf_ibm-granite_granite-4.2-3b": [
+      "model_taronaeo_granite_4_2_3b_be_gguf"
     ],
     "hf_igorls_gemma-4-12B-it-heretic": [
       "model_igorls_gemma_4_12b_it_heretic_gguf"
@@ -3231,6 +3238,9 @@
     "hf_openai_gsm8k": [
       "model_bounharabdelaziz_qwen2_5_3b_grpo_math_gsm8k"
     ],
+    "hf_openai_humaneval": [
+      "model_codeparrot_codeparrot_small"
+    ],
     "hf_openbmb_MiniCPM-SALA": [
       "model_cyankiwi_minicpm_sala_awq_8bit"
     ],
@@ -3502,6 +3512,7 @@
     ],
     "hf_the_pile": [
       "model_blinkdl_rwkv_4_pile_7b",
+      "model_blinkdl_rwkv_4_raven",
       "model_eleutherai_pythia_1b"
     ],
     "hf_theoldmandthesea_17k_business_book": [
@@ -4320,6 +4331,9 @@
     "model_blinkdl_rwkv_4_pile_7b": [
       "hf_the_pile"
     ],
+    "model_blinkdl_rwkv_4_raven": [
+      "hf_the_pile"
+    ],
     "model_bloomer010_ling_3_0_flash_gguf": [
       "hf_inclusionAI_Ling-3.0-flash"
     ],
@@ -4421,6 +4435,10 @@
     ],
     "model_codemastercody3d_taardis_27b_full_ternary": [
       "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_codeparrot_codeparrot_small": [
+      "hf_codeparrot_codeparrot-clean",
+      "hf_openai_humaneval"
     ],
     "model_coherelabs_north_mini_code_1_0_fp8": [
       "hf_CohereLabs_North-Mini-Code-1.0"
@@ -6082,6 +6100,9 @@
       "hf_LiquidAI_LFM2.5-1.2B-Instruct",
       "hf_NovachronoAI_Nova-Synapse-Function-Calling"
     ],
+    "model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4": [
+      "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct"
+    ],
     "model_nvidia_deepseek_r1_0528_nvfp4_v2": [
       "hf_deepseek-ai_DeepSeek-R1-0528"
     ],
@@ -7390,6 +7411,9 @@
     ],
     "model_t_tech_t_lite_it_2_1": [
       "hf_Qwen_Qwen3-8B"
+    ],
+    "model_taronaeo_granite_4_2_3b_be_gguf": [
+      "hf_ibm-granite_granite-4.2-3b"
     ],
     "model_tartunlp_llammas_base_p1_gpt_4o_human_error_mix_paragraph_gec": [
       "hf_tartuNLP_Llammas-base"

@@ -928,6 +928,12 @@
 - **URL**: [https://huggingface.co/datasets/Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12](https://huggingface.co/datasets/Yarina/Meta_Kaggle_Dataset_Archive_2026-03-12)
 - **Tags**: license:mit, region:us
 
+## open-index/hacker-news
+- **ID**: hf_ds_69b53151d3cc52f95d53bcbb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/open-index/hacker-news](https://huggingface.co/datasets/open-index/hacker-news)
+- **Tags**: comments, community, forum, hacker-news, language:en, license:odc-by, live-updated, modality:text, parquet, region:us, size_categories:10M<n<100M, task_categories:feature-extraction, task_categories:question-answering, task_categories:text-classification, task_categories:text-generation, tech, text
+
 ## ccoffee20/flatpak
 - **ID**: hf_ds_69b6276dd5de8ef6a41f39e6
 - **Source**: HuggingFace Datasets
@@ -1185,6 +1191,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo](https://huggingface.co/datasets/genrobot2025/Gen-HumanEgo)
 - **Tags**: egocentric, embodied-ai, hand-tracking, language:en, license:cc-by-sa-4.0, manipulation, region:us, robotics, size_categories:n>1T, slam, task_categories:robotics, trajectory, vla
+
+## willi19/autodex-gallery-video
+- **ID**: hf_ds_6a580014dab1978b184dc4a0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/willi19/autodex-gallery-video](https://huggingface.co/datasets/willi19/autodex-gallery-video)
+- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:10K<n<100K
 
 ## scorpionjacketguy/physics-course-vids
 - **ID**: hf_ds_6a60568ac2d6c31b7f81bdc8

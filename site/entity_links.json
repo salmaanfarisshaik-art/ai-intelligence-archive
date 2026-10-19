@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T05:45:42Z",
+  "generated_at": "2026-10-19T12:13:07Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1537,6 +1537,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_blinkdl_rwkv_4_raven",
+      "target_id": "hf_the_pile",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_bloomer010_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
       "type": "derived_from"
@@ -1785,6 +1790,16 @@
       "source_id": "model_codemastercody3d_taardis_27b_full_ternary",
       "target_id": "hf_Qwen_Qwen3.8-27B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_codeparrot_codeparrot_small",
+      "target_id": "hf_codeparrot_codeparrot-clean",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_codeparrot_codeparrot_small",
+      "target_id": "hf_openai_humaneval",
+      "type": "trained_on"
     },
     {
       "source_id": "model_coherelabs_north_mini_code_1_0_fp8",
@@ -5327,6 +5342,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4",
+      "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nvidia_deepseek_r1_0528_nvfp4_v2",
       "target_id": "hf_deepseek-ai_DeepSeek-R1-0528",
       "type": "derived_from"
@@ -8309,6 +8329,11 @@
     {
       "source_id": "model_t_tech_t_lite_it_2_1",
       "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_taronaeo_granite_4_2_3b_be_gguf",
+      "target_id": "hf_ibm-granite_granite-4.2-3b",
       "type": "derived_from"
     },
     {

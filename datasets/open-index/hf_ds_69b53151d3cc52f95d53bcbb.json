@@ -1,0 +1,55 @@
+{
+  "unique_id": "hf_ds_69b53151d3cc52f95d53bcbb",
+  "schema_version": "1.0",
+  "name": "open-index/hacker-news",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tHacker News - Complete Archive\n\t\n\n\nEvery Hacker News item since 2006, live-updated every 5 minutes\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis dataset contains the complete Hacker News archive: every story, comment, Ask HN, Show HN, job posting, and poll ever submitted to the site. Hacker News is one of the longest-running and most influential technology communities on the internet, operated by Y Combinator since 2007. It has become the de facto gathering place for founders, engineers… See the full description on the dataset page: https://huggingface.co/datasets/open-index/hacker-news.",
+  "size": "429104",
+  "source_url": "https://huggingface.co/datasets/open-index/hacker-news",
+  "source_name": "HuggingFace Datasets",
+  "source_type": "api",
+  "category": "dataset",
+  "raw_payload": {
+    "_id": "69b53151d3cc52f95d53bcbb",
+    "id": "open-index/hacker-news",
+    "author": "open-index",
+    "disabled": false,
+    "gated": false,
+    "lastModified": "2026-08-23T16:25:00.000Z",
+    "likes": 350,
+    "private": false,
+    "sha": "c54ced5973b95d80cd934b8921f44ec8d87c3cd1",
+    "description": "\n\t\n\t\t\n\t\n\t\n\t\tHacker News - Complete Archive\n\t\n\n\nEvery Hacker News item since 2006, live-updated every 5 minutes\n\n\n\t\n\t\t\n\t\n\t\n\t\tWhat is it?\n\t\n\nThis dataset contains the complete Hacker News archive: every story, comment, Ask HN, Show HN, job posting, and poll ever submitted to the site. Hacker News is one of the longest-running and most influential technology communities on the internet, operated by Y Combinator since 2007. It has become the de facto gathering place for founders, engineers… See the full description on the dataset page: https://huggingface.co/datasets/open-index/hacker-news.",
+    "downloads": 429104,
+    "tags": [
+      "task_categories:text-generation",
+      "task_categories:feature-extraction",
+      "task_categories:text-classification",
+      "task_categories:question-answering",
+      "language:en",
+      "license:odc-by",
+      "size_categories:10M<n<100M",
+      "modality:text",
+      "region:us",
+      "hacker-news",
+      "forum",
+      "text",
+      "parquet",
+      "community",
+      "tech",
+      "comments",
+      "live-updated"
+    ],
+    "createdAt": "2026-03-14T09:58:41.000Z",
+    "key": ""
+  },
+  "retrieval_timestamp": "2026-10-19T12:11:54.626646+00:00",
+  "last_updated": "2026-08-23T16:25:00.000Z",
+  "links": {
+    "related_models": [
+      "datasets/open-index"
+    ],
+    "related_papers": [],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -4657,6 +4657,13 @@
       "score": 1.0
     }
   ],
+  "02951": [
+    {
+      "entity_id": "dataset_kodcode_kodcode_v1_sft_r1",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "03": [
     {
       "entity_id": "hf_ds_69b3d79d63e7af41d98f1fd5",
@@ -11140,6 +11147,11 @@
     },
     {
       "entity_id": "model_marketeam_qwen_marketing",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4",
       "match_type": "exact",
       "score": 1.5
     },

@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "evaleval/EEE_datastore",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvery Eval Ever Datastore\n\t\n\nA community database of AI evaluation results, all in one schema. Scores scraped from\nleaderboards, pulled out of papers, and produced by local evaluation runs are stored in a\nsingle record format, so results from different sources can be compared, joined, and reused\ninstead of re-scraped. This dataset is the data itself: one JSON record per\nmodel per evaluation run — which may carry several scored results — with optional\nper-sample companion files.… See the full description on the dataset page: https://huggingface.co/datasets/evaleval/EEE_datastore.",
-  "size": "351538",
+  "size": "389117",
   "source_url": "https://huggingface.co/datasets/evaleval/EEE_datastore",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -14,12 +14,12 @@
     "author": "evaleval",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-10-18T08:14:15.000Z",
+    "lastModified": "2026-10-19T08:52:23.000Z",
     "likes": 53,
     "private": false,
-    "sha": "99c4f5b5567e49595ddc388a53d14daba6e52e93",
+    "sha": "c82ebf88c21243020d6b8a05268f5bbd86dc81e2",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvery Eval Ever Datastore\n\t\n\nA community database of AI evaluation results, all in one schema. Scores scraped from\nleaderboards, pulled out of papers, and produced by local evaluation runs are stored in a\nsingle record format, so results from different sources can be compared, joined, and reused\ninstead of re-scraped. This dataset is the data itself: one JSON record per\nmodel per evaluation run — which may carry several scored results — with optional\nper-sample companion files.… See the full description on the dataset page: https://huggingface.co/datasets/evaleval/EEE_datastore.",
-    "downloads": 351538,
+    "downloads": 389117,
     "tags": [
       "task_categories:other",
       "annotations_creators:found",
@@ -41,8 +41,8 @@
     "createdAt": "2026-02-11T15:19:44.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-10-18T10:25:22.319020+00:00",
-  "last_updated": "2026-10-18T08:14:15.000Z",
+  "retrieval_timestamp": "2026-10-19T12:11:54.626646+00:00",
+  "last_updated": "2026-10-19T08:52:23.000Z",
   "links": {
     "related_models": [
       "datasets/evaleval"

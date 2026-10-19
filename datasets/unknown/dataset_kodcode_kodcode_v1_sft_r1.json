@@ -1,0 +1,33 @@
+{
+  "_id": "67c2955fbe05f412aa264278",
+  "id": "KodCode/KodCode-V1-SFT-R1",
+  "author": "KodCode",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-03-17T07:57:30.000Z",
+  "likes": 40,
+  "private": false,
+  "sha": "26c8a11c800d71b6c4bafe12a92c9090ef0b6214",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\t🐱 KodCode: A Diverse, Challenging, and Verifiable Synthetic Dataset for Coding\n\t\n\nKodCode is the largest fully-synthetic open-source dataset providing verifiable solutions and tests for coding tasks. It contains 12 distinct subsets spanning various domains (from algorithmic to package-specific knowledge) and difficulty levels (from basic coding exercises to interview and competitive programming challenges). KodCode is designed for both supervised fine-tuning (SFT) and RL tuning.… See the full description on the dataset page: https://huggingface.co/datasets/KodCode/KodCode-V1-SFT-R1.",
+  "downloads": 29682,
+  "tags": [
+    "task_categories:question-answering",
+    "language:en",
+    "license:cc-by-nc-4.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2503.02951",
+    "region:us",
+    "code"
+  ],
+  "createdAt": "2025-03-01T05:04:31.000Z",
+  "key": "",
+  "unique_id": "dataset_kodcode_kodcode_v1_sft_r1",
+  "schema_version": "1.0"
+}

@@ -2043,6 +2043,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_ntsrigaud_hagrid_subset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_s17660101713_hagrid_subset",
       "match_type": "exact",
       "score": 1.0
@@ -18307,6 +18312,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_kodcode_kodcode_v1_sft_r1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmlmcat_cmmlu",
       "match_type": "exact",
       "score": 1.0
@@ -20670,6 +20680,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_taronaeo_granite_4_2_3b_be_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_tencent_hy_mt1_5_1_8b",
       "match_type": "exact",
       "score": 1.5
@@ -20805,6 +20820,13 @@
       "score": 1.0
     }
   ],
+  "kodcode": [
+    {
+      "entity_id": "dataset_kodcode_kodcode_v1_sft_r1",
+      "match_type": "exact",
+      "score": 5.0
+    }
+  ],
   "kodiak": [
     {
       "entity_id": "alpaca_-7914403532347691357",
@@ -20862,6 +20884,13 @@
       "entity_id": "alpaca_5128118873740474577",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "kohsei": [
+    {
+      "entity_id": "dataset_kohsei_multibanana_benchmark",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "koi": [

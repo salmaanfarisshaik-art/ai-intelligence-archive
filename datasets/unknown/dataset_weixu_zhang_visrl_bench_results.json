@@ -1,0 +1,31 @@
+{
+  "_id": "69f6057400380eaeb9d30646",
+  "id": "weixu-zhang/visrl-bench-results",
+  "author": "weixu-zhang",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-12T22:21:18.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "b77e7da17226669131677acb2e4aa74741818d5e",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tVisRL benchmark eval results — VisPlotBench per-sample outputs\n\t\n\nCompanion to github.com/weixuzhang/visrl\nand weixu-zhang/visrl-data.\nThis repo holds the per-sample outputs of VisPlotBench\nruns for 5 trained checkpoints, so the GPT-4.1 visual judge or the\ncustom HTML/vegalite/lilypond stats path can be re-run from these\nartifacts without regenerating the model outputs.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n{model}/\n├── {lang}.json                                      summary stats from the bench… See the full description on the dataset page: https://huggingface.co/datasets/weixu-zhang/visrl-bench-results.",
+  "downloads": 35968,
+  "tags": [
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "visualization",
+    "benchmark",
+    "visplotbench",
+    "eval"
+  ],
+  "createdAt": "2026-05-02T14:08:52.000Z",
+  "key": "",
+  "unique_id": "dataset_weixu_zhang_visrl_bench_results",
+  "schema_version": "1.0"
+}
