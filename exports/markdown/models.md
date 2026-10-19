@@ -836,6 +836,10 @@
 - **ID**: model_blinkdl_rwkv_4_pile_7b
 - **Source**: 
 
+## BlinkDL/rwkv-4-raven
+- **ID**: model_blinkdl_rwkv_4_raven
+- **Source**: 
+
 ## bloomer010/Ling-3.0-flash-GGUF
 - **ID**: model_bloomer010_ling_3_0_flash_gguf
 - **Source**: 
@@ -1022,6 +1026,10 @@
 
 ## CodeMasterCody3D/taardis-27b-full-ternary
 - **ID**: model_codemastercody3d_taardis_27b_full_ternary
+- **Source**: 
+
+## codeparrot/codeparrot-small
+- **ID**: model_codeparrot_codeparrot_small
 - **Source**: 
 
 ## CohereLabs/aya-expanse-8b
@@ -4016,6 +4024,10 @@
 - **ID**: model_np_cr_testing_qwen3_moe
 - **Source**: 
 
+## NVFP4/Qwen3-Coder-30B-A3B-Instruct-FP4
+- **ID**: model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4
+- **Source**: 
+
 ## nvidia/DeepSeek-R1-0528-NVFP4-v2
 - **ID**: model_nvidia_deepseek_r1_0528_nvfp4_v2
 - **Source**: 
@@ -6150,6 +6162,10 @@
 
 ## TaoLiveAIGC/TLive-Omni-4B
 - **ID**: model_taoliveaigc_tlive_omni_4b
+- **Source**: 
+
+## taronaeo/Granite-4.2-3B-BE-GGUF
+- **ID**: model_taronaeo_granite_4_2_3b_be_gguf
 - **Source**: 
 
 ## tartuNLP/Llammas-base-p1-GPT-4o-human-error-mix-paragraph-GEC

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T12:12:04.661364+00:00",
+  "generated_at": "2026-10-19T19:01:01.572860+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -125790,6 +125790,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_abigailasanchez4139_helios",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_abisee_cnn_dailymail",
       "label": ""
     },
@@ -130840,6 +130845,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_icdn14_content_202610093f8e",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_icdn15_content_202604259157",
       "label": ""
     },
@@ -132190,6 +132200,16 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_kodcode_kodcode_v1_sft_r1",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_kohsei_multibanana_benchmark",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_kokosdev_tahoe_100m_zarr",
       "label": ""
     },
@@ -132276,6 +132296,11 @@
     {
       "category": "datasets",
       "id": "dataset_laion_scientific_summaries",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_laion_small_overlapping_speech_bench",
       "label": ""
     },
     {
@@ -133100,6 +133125,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_mayanangel_historydata",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_maynor996_img_upload",
       "label": ""
     },
@@ -133391,6 +133421,11 @@
     {
       "category": "datasets",
       "id": "dataset_mlfoundations_dcvlm_pool_small",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_mlfoundations_mint_1t_arxiv",
       "label": ""
     },
     {
@@ -133985,6 +134020,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_ntsrigaud_hagrid_subset",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_ntu_nlp_sg_xcodeeval",
       "label": ""
     },
@@ -134216,6 +134256,11 @@
     {
       "category": "datasets",
       "id": "dataset_omnicad_lab_l3d_omni_cad_subset_complete",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_onehfr_3d_front_rgb",
       "label": ""
     },
     {
@@ -136565,6 +136610,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_theom55_mvtec_all_objects_split",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_thesofakillers_jigsaw_toxic_comment_classification_challenge",
       "label": ""
     },
@@ -136885,6 +136935,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_unfazed07_music_avqa",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_unimelb_nlp_wikiann",
       "label": ""
     },
@@ -137176,6 +137231,11 @@
     {
       "category": "datasets",
       "id": "dataset_wei82_precancer_omics_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_weixu_zhang_visrl_bench_results",
       "label": ""
     },
     {
@@ -150520,6 +150580,11 @@
     },
     {
       "category": "models",
+      "id": "model_blinkdl_rwkv_4_raven",
+      "label": "BlinkDL/rwkv-4-raven"
+    },
+    {
+      "category": "models",
       "id": "model_bloomer010_ling_3_0_flash_gguf",
       "label": "bloomer010/Ling-3.0-flash-GGUF"
     },
@@ -150752,6 +150817,11 @@
       "category": "models",
       "id": "model_codemastercody3d_taardis_27b_full_ternary",
       "label": "CodeMasterCody3D/taardis-27b-full-ternary"
+    },
+    {
+      "category": "models",
+      "id": "model_codeparrot_codeparrot_small",
+      "label": "codeparrot/codeparrot-small"
     },
     {
       "category": "models",
@@ -154495,6 +154565,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvfp4_qwen3_coder_30b_a3b_instruct_fp4",
+      "label": "NVFP4/Qwen3-Coder-30B-A3B-Instruct-FP4"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_deepseek_r1_0528_nvfp4_v2",
       "label": "nvidia/DeepSeek-R1-0528-NVFP4-v2"
     },
@@ -157162,6 +157237,11 @@
       "category": "models",
       "id": "model_taoliveaigc_tlive_omni_4b",
       "label": "TaoLiveAIGC/TLive-Omni-4B"
+    },
+    {
+      "category": "models",
+      "id": "model_taronaeo_granite_4_2_3b_be_gguf",
+      "label": "taronaeo/Granite-4.2-3B-BE-GGUF"
     },
     {
       "category": "models",
@@ -456545,5 +456625,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 91308
+  "total_nodes": 91324
 }
