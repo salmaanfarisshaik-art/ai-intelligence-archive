@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 76
+**Total Changes:** 72
 
 ## Added
 None
@@ -13,19 +13,15 @@ None
 - data/metadata/schema_manifest.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
-- datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/sunblaze-ucb/hf_ds_68251f06823e816aeea2d9dc.json
 - datasets/tiger-lab/hf_ds_663b7fd5a4152b77b637ba11.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
-- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
-- models/openai/hf_openai_gpt-oss-120b.json
-- models/qwen/hf_Qwen_Qwen3-14B.json
-- models/unsloth/hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF.json
-- models/zai-org/hf_zai-org_GLM-5.3.json
+- models/openai/hf_openai_gpt-oss-20b.json
+- models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/change_summary.json
@@ -52,6 +48,7 @@ None
 - tools/github-trending/gh_1195360525.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1206390571.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -64,7 +61,6 @@ None
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
 - tools/github-trending/gh_643445235.json
-- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
