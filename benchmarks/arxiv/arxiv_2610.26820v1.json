@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26820v1",
+  "schema_version": "1.0",
+  "name": "Open-Form Geometric Style Transfer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26820v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26820v1",
+    "updated": "2026-10-19T17:52:37Z",
+    "published": "2026-10-19T17:52:37Z",
+    "title": "Open-Form Geometric Style Transfer",
+    "summary": "A geometric style learned from one family of shapes is typically applied to new shapes from the same family. We consider a more challenging setting: learning the geometric design language of a stylized Latin alphabet and applying it to new forms, from Greek glyphs to entirely different structures such as human poses. We introduce Open-Form Geometric Style Transfer, where the forms to which a learned geometric style can be applied are not restricted to the shape family in which that style was observed. This setting is deceptively challenging: the difficulty is not merely learning a style, but learning the style without learning the shape family in which it was observed. We represent target forms by structural sketches and disentangle structural adherence from style realization using a Geometry LoRA and a style-specific LoRA. Critically, open-form transfer requires the Geometry LoRA to be universal. To achieve this, we devise a geometry-enrichment strategy that constructs a large and purposefully diverse collection of synthetic structural sketches spanning a broad range of unfamiliar geometries. Our experiments and ablations demonstrate the importance of both disentanglement and this universal geometry prior, enabling geometric styles learned from glyphs, pictograms, and other shape families to be transferred to substantially different, unseen forms.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:52:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26820v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

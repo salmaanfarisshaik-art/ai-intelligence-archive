@@ -4205,3 +4205,63 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24888v1](http://arxiv.org/abs/2610.24888v1)
 
+## Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages
+- **ID**: arxiv_2610.26776v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26776v1](http://arxiv.org/abs/2610.26776v1)
+
+## RESIN: Multi-Chain Reasoning with Entity-Structured Indexing
+- **ID**: arxiv_2610.26782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26782v1](http://arxiv.org/abs/2610.26782v1)
+
+## Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability
+- **ID**: arxiv_2610.26809v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26809v1](http://arxiv.org/abs/2610.26809v1)
+
+## ASTOR: Benchmarking and Improving Autoformulation for Soft-Constraint Optimization with a Formal Grammar
+- **ID**: arxiv_2610.26819v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26819v1](http://arxiv.org/abs/2610.26819v1)
+
+## AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages
+- **ID**: arxiv_2610.26821v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26821v1](http://arxiv.org/abs/2610.26821v1)
+
+## SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum
+- **ID**: arxiv_2610.26824v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26824v1](http://arxiv.org/abs/2610.26824v1)
+
+## MemT-1.0: Towards Memory-Native Evolution
+- **ID**: arxiv_2610.26825v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26825v1](http://arxiv.org/abs/2610.26825v1)
+
+## RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development
+- **ID**: arxiv_2610.26826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26826v1](http://arxiv.org/abs/2610.26826v1)
+
+## KEEP-Bench: Evaluating Evidence Preservation in Context Compression
+- **ID**: arxiv_2610.26827v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26827v1](http://arxiv.org/abs/2610.26827v1)
+
+## Competing Learning in Hybrid Architectures
+- **ID**: arxiv_2610.26830v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26830v1](http://arxiv.org/abs/2610.26830v1)
+
+## LatComm: Reusable Context Compression for Latent Communication between Large Language Models
+- **ID**: arxiv_2610.26840v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26840v1](http://arxiv.org/abs/2610.26840v1)
+
+## OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory
+- **ID**: arxiv_2610.26860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26860v1](http://arxiv.org/abs/2610.26860v1)
+

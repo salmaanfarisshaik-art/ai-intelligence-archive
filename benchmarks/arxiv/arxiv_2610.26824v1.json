@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26824v1",
+  "schema_version": "1.0",
+  "name": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26824v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26824v1",
+    "updated": "2026-10-19T17:54:20Z",
+    "published": "2026-10-19T17:54:20Z",
+    "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
+    "summary": "Matryoshka Representation Learning (MRL) is designed to support flexible representation sizes by jointly optimizing nested prefixes. While effective, this design lacks an explicit constraint to ensure that the leading portion provides a suitable compact encoding. To address this, we propose SpecMRL, which reorganizes the feature space to enable more effective prefix readout. Specifically, we extend MRL with a parameter-derived spectral basis organized with feature importance. SpecMRL otherwise follows standard MRL, with prefix readout performed in the learned spectral space. Experiments on MTEB show that SpecMRL outperforms MRL at all evaluated reduced dimensions, with larger gains under more aggressive compression. These results suggest that the learned spectral basis better prioritizes informative directions, enabling more effective representation compression. Notably, SpecMRL extends the performance frontier of MRL, surpassing full-dimensional MRL with only half the embedding dimensions.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:54:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26824v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

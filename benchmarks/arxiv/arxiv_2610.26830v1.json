@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26830v1",
+  "schema_version": "1.0",
+  "name": "Competing Learning in Hybrid Architectures",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26830v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26830v1",
+    "updated": "2026-10-19T17:55:55Z",
+    "published": "2026-10-19T17:55:55Z",
+    "title": "Competing Learning in Hybrid Architectures",
+    "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism while ensuring high throughput by compressing contextual information into a fixed-size state, but underperform softmax attention in contextual information retrieval. In this paper, we reveal a Competing Learning phenomenon where different kinds of mixers compete to learn the same function, and when any layer learns a function, it suppresses the corresponding learning signal for other layers. Layer attribution analysis reveals that under typical data distributions, modern recurrence learns retrieval functions faster than softmax attention, causing attention to fail to learn retrieval in most cases. Stopping weight updates in recurrence in the middle of training helps attention learn retrieval. Based on these results, we propose a staged training procedure for pre-training hybrid architectures on natural language. Empirical results on models up to 1B parameters show that our method results in substantial improvement in language modeling loss, common-sense reasoning, as well as a wide range of retrieval-related tasks across different context lengths.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:55:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26830v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

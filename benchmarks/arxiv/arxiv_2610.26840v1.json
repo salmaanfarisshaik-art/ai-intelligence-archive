@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26840v1",
+  "schema_version": "1.0",
+  "name": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26840v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26840v1",
+    "updated": "2026-10-19T17:58:41Z",
+    "published": "2026-10-19T17:58:41Z",
+    "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+    "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens again for every question. Avoiding this cost requires a context representation that is compact, reusable across questions, and readable by a different LLM. Existing compression and latent communication methods each provide only some of these properties. We introduce LatComm, a Latent Communication interface that provides all three by separating encoding from reading: the context is encoded once without the question, and the receiver selects what to read for each question. A frozen context encoder LLM compresses the context into a fixed-size packet and sends it to a different frozen receiver LLM, which reads the packet through cross-attention, with gates computed from its prompt. On 12 multiple-choice question-answering datasets, LatComm improves average accuracy over single-vector baselines by up to 10.2 points. On QuALITY, it reduces the receiver's input by 57x and answers the questions of an article 3x faster.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:58:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26840v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

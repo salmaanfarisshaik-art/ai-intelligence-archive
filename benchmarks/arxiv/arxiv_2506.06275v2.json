@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.06275v2",
+  "schema_version": "1.0",
+  "name": "How Well Do Vision-Language Models Understand Movies?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.06275v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.06275v2",
+    "updated": "2026-10-19T17:59:05Z",
+    "published": "2025-06-06T17:58:36Z",
+    "title": "How Well Do Vision-Language Models Understand Movies?",
+    "summary": "Vision-language models (VLMs) can increasingly handle extended contexts and answer questions about long videos--but can they understand the narrative structure of movies as humans do? To investigate this question, we introduce MF$^2$ (Movie Facts and Fibs), a fully manually curated benchmark designed to evaluate whether models can identify, recall, and comprehend information central to the movie's storyline, using both the visual and textual modalities. MF$^2$ includes over 50 open-licensed movies, each paired with manually constructed sets of claim pairs: one true claim (fact) and one plausible but false (fib), totaling over 850 pairs. Our analysis across 20 open-source and 2 proprietary models reveals a substantial gap relative to human performance. While subtitles provide a strong signal for narrative understanding, other textual sources (e.g., synopses) are less informative. In contrast, when visual information is distributed across the entire movie and jointly embedded with subtitles, models struggle to identify and effectively use the relevant content. However, when the visual input is restricted to claim-relevant visual content, models improve significantly, indicating substantial room for improvement in processing large multimodal contexts and distinguishing relevant from irrelevant information. Overall, our findings highlight persistent challenges in multimodal narrative understanding for current VLMs. We release our data and code to support further research in this direction.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:59:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.06275v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

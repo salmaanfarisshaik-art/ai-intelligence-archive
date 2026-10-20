@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26776v1",
+  "schema_version": "1.0",
+  "name": "Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26776v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26776v1",
+    "updated": "2026-10-19T17:30:29Z",
+    "published": "2026-10-19T17:30:29Z",
+    "title": "Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages",
+    "summary": "For most languages, automatic speech recognition (ASR) is limited less by model architecture than by a lack of accurately transcribed spontaneous speech. We present Monsoon, a framework for collecting such data at scale. It elicits unscripted conversations between paired contributors, screens recordings with automated classifiers, corrects transcripts over five levels of human review, and selects segments for lexical and acoustic coverage. It has collected speech in 50 languages; we analyse seven 3,500-hour corpora. At equal volume, its quality stages reduce semantic word error rate (WER) by 10-39% relative to a conventional protocol. Compared with an architecture-matched baseline trained on public corpora, Whisper fine-tuned on Monsoon performs comparably on the baseline's own test sets and reduces semantic WER by 20-44 points on conversational benchmarks. The gains transfer to a second architecture and grow with data volume. We release the framework, its quality-control models, and the fine-tuned models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:30:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26776v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

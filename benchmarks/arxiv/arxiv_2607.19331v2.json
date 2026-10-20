@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.19331v2",
+  "schema_version": "1.0",
+  "name": "ISO: An RLVR-Native Optimization Stack",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.19331v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.19331v2",
+    "updated": "2026-10-19T17:46:20Z",
+    "published": "2026-07-21T17:51:36Z",
+    "title": "ISO: An RLVR-Native Optimization Stack",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) advances the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood. We study this layer and functionally validate spectral inheritance: RLVR can reuse the base model's weight spectra while acquiring new behavior by adapting both the associated input and output singular frames. We operationalize this finding as Isospectral Optimization (ISO), an RLVR-native optimization stack with complementary offline and online instantiations. Offline, ISO-Merger composes shared-base specialists in fixed-spectrum frame coordinates without post-merge data, rollouts, or distillation, and achieves the highest aggregate scores among the data-free merging methods. Online, ISO-Optimizer applies AdamW or Muon directly to the frame variables under fixed base spectra, improving aggregate accuracy in the reported math and coding experiments. On Qwen3-4B-Base, ISO-AdamW reaches AdamW's 400-update accuracy in 280 updates with 1.5 X fewer updates and 27% less wall-clock time, and exceeds AdamW by 2.2 points at update 400. These results support a reusable RLVR design principle: inherit the spectrum, optimize the frames.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:46:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.19331v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

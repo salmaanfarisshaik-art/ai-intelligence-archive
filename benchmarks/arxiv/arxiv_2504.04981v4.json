@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2504.04981v4",
+  "schema_version": "1.0",
+  "name": "TestDG: Test-time Domain Generalization for Continual Test-time Adaptation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2504.04981v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2504.04981v4",
+    "updated": "2026-10-19T17:31:34Z",
+    "published": "2025-04-07T12:09:18Z",
+    "title": "TestDG: Test-time Domain Generalization for Continual Test-time Adaptation",
+    "summary": "This paper studies continual test-time adaptation (CTTA), the task of adapting a model to constantly changing unseen domains in testing while preserving previously learned knowledge. Existing CTTA methods mostly focus on adaptation to the current test domain only, overlooking generalization to arbitrary test domains a model may face in the future. To tackle this limitation, we present a novel online test-time domain generalization framework for CTTA, dubbed TestDG. TestDG aims to learn features invariant to both current and previous test domains on the fly during testing, improving the potential for effective generalization to future domains. To this end, we propose a new model architecture and a test-time adaptation strategy dedicated to learning domain-invariant features, along with prototype selection and update mechanisms for effectively managing information from previous test domains. TestDG achieved state of the art on three of four public CTTA benchmarks and performed on par with the best prior method on ImageNet-C. Moreover, it showed superior generalization to unseen test domains.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:31:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2504.04981v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

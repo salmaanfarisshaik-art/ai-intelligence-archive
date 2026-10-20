@@ -990,3 +990,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22372v1](http://arxiv.org/abs/2610.22372v1)
 
+## Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy
+- **ID**: arxiv_2610.26848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26848v1](http://arxiv.org/abs/2610.26848v1)
+
+## CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting
+- **ID**: arxiv_2610.26852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26852v1](http://arxiv.org/abs/2610.26852v1)
+

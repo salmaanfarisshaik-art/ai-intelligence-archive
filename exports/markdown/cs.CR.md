@@ -450,3 +450,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24872v1](http://arxiv.org/abs/2610.24872v1)
 
+## Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams
+- **ID**: arxiv_2610.26781v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26781v1](http://arxiv.org/abs/2610.26781v1)
+

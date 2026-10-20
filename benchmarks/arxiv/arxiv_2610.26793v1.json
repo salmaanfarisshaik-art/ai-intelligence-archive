@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26793v1",
+  "schema_version": "1.0",
+  "name": "SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26793v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26793v1",
+    "updated": "2026-10-19T17:40:21Z",
+    "published": "2026-10-19T17:40:21Z",
+    "title": "SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models",
+    "summary": "Reasoning models often run into problems without noticing them, even when symptoms are visible in their own text. In humans, metacognition separates monitoring from control: fast, intuitive signals keep watch while slow, deliberate reasoning unfolds and help decide whether to continue, change course, or stop. System One (S1) decision models, such as Jev, are a natural candidate for this role: they return a calibrated probability for a natural-language question about a text in one fast call, yet they are used only as gates before reasoning. We introduce SOMA (System One Metacognitive Awareness), in which an S1 model continuously monitors a System Two (S2) reasoning model and intervenes when needed. SOMA has three layers: a scenario layer states each objective in natural language with predefined actions, an awareness layer lets S1 judge whether the described behavior appears, and a control layer accumulates these judgments, first reminds S2, and takes over only if the behavior persists. Sharing one S1 model and one controller across tasks, without training, SOMA addresses two different failures on two reasoning models: on overthinking, it cuts reasoning tokens by up to 36\\% while improving average accuracy, and on unanswerable questions, it raises abstention from 70.5\\% to 87.2\\%.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:40:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26793v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

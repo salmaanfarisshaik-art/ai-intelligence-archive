@@ -435,6 +435,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.10889v2](http://arxiv.org/abs/2605.10889v2)
 
+## Let the Batch Decide, On- or Off-Policy: Effective Sample Size for RL Post-Training
+- **ID**: arxiv_2605.12380v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12380v2](http://arxiv.org/abs/2605.12380v2)
+
 ## ReForge: Refining Merged Models with Anchor-Regularized Regression
 - **ID**: arxiv_2605.12843v2
 - **Source**: ArXiv
@@ -864,6 +869,11 @@
 - **ID**: arxiv_2607.19331v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.19331v1](http://arxiv.org/abs/2607.19331v1)
+
+## ISO: An RLVR-Native Optimization Stack
+- **ID**: arxiv_2607.19331v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.19331v2](http://arxiv.org/abs/2607.19331v2)
 
 ## ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling
 - **ID**: arxiv_2607.19332v1
@@ -1389,6 +1399,11 @@
 - **ID**: arxiv_2608.26083v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26083v3](http://arxiv.org/abs/2608.26083v3)
+
+## ICON decomposition: Multivariate concept auditing reveals shortcuts that neural networks rely on
+- **ID**: arxiv_2608.26083v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.26083v5](http://arxiv.org/abs/2608.26083v5)
 
 ## TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development
 - **ID**: arxiv_2608.26086v1
@@ -2279,4 +2294,24 @@
 - **ID**: arxiv_2610.24875v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24875v1](http://arxiv.org/abs/2610.24875v1)
+
+## Next Best Action: Causal Constrained Offline RL for Business Action Targeting
+- **ID**: arxiv_2610.26817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26817v1](http://arxiv.org/abs/2610.26817v1)
+
+## Kronecker Delta Rule for Long Context Linear Attention
+- **ID**: arxiv_2610.26834v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26834v1](http://arxiv.org/abs/2610.26834v1)
+
+## WeAct: Dynamic Weight Switching as Agent Actions
+- **ID**: arxiv_2610.26847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26847v1](http://arxiv.org/abs/2610.26847v1)
+
+## Text-to-Image Generative Modeling Without Language Pretraining
+- **ID**: arxiv_2610.26863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26863v1](http://arxiv.org/abs/2610.26863v1)
 

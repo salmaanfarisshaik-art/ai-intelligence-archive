@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.12380v2",
+  "schema_version": "1.0",
+  "name": "Let the Batch Decide, On- or Off-Policy: Effective Sample Size for RL Post-Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.12380v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.12380v2",
+    "updated": "2026-10-19T17:58:20Z",
+    "published": "2026-05-12T16:44:47Z",
+    "title": "Let the Batch Decide, On- or Off-Policy: Effective Sample Size for RL Post-Training",
+    "summary": "Reinforcement learning (RL) is structurally harder than supervised learning because the policy changes the data distribution it learns from. The resulting fragility is especially visible in large-model training using nominally on-policy RL, where the training and rollout systems can differ in numerical precision, sampling and other implementation details. The common approach handles this difference by constraining the update with a fixed clip range, so the algorithm becomes more sensitive to its configuration and must be retuned whenever the task, model scale or distribution mismatch changes. We argue that the fragility traces to two linked concerns that this one fixed range has to cover. The first is a trust-region concern: an update should not move the policy too far from its current value. The second is an off-policy concern: data from older or different behavior policies should influence the update only to the extent that the update remains reliable. Neither concern is a constant to set in advance, and the policy ratios of the current batch show how severe each one is. We adopt P3O, a simple yet effective batch-adaptive objective from prior work that replaces fixed clipping with the normalized effective sample size of the per-token policy ratios, which we take against the rollout engine's log-probabilities. The same statistic caps the score-function weight and sets the strength of an off-policy regularizer, so the update stays close to the on-policy update when the ratios are close to one. When stale or mismatched data concentrate the ratios, the update tightens but keeps a nonzero score-function weight on every token. Experiments on math reasoning show that P3O compares favorably with tuned baselines and, under FP8 rollouts on Qwen3-8B-Base, avoids the late collapse of GRPO. P3O adds no new objective hyper-parameters and removes the clip range.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:58:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.12380v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

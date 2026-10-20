@@ -65,3 +65,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23383v1](http://arxiv.org/abs/2609.23383v1)
 
+## Teacher Supervision, Fixed Representations and Calibration: Exact Risk Calculations for Candidate-Scoring Decision Models
+- **ID**: arxiv_2610.26797v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26797v1](http://arxiv.org/abs/2610.26797v1)
+

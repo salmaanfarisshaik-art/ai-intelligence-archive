@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26816v1",
+  "schema_version": "1.0",
+  "name": "Real-Time Radar Semantic and Panoptic Scene Understanding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26816v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26816v1",
+    "updated": "2026-10-19T17:51:49Z",
+    "published": "2026-10-19T17:51:49Z",
+    "title": "Real-Time Radar Semantic and Panoptic Scene Understanding",
+    "summary": "Robust scene understanding under varying environmental conditions is essential for safe autonomous driving. While cameras and LiDAR degrade in adverse weather and poor lighting, Frequency-Modulated Continuous-Wave (FMCW) spinning radar provides dependable 360° perception at extended ranges with minimal compute cost. However, real-time FMCW radar scene understanding is challenging due to complex signal returns, limited temporal resolution, and scarce annotated datasets. We introduce StreamRPS, a novel framework for streaming FMCW radar panoptic segmentation, comprising an automated label-generation pipeline via LiDAR scene completion and a real-time streaming network for semantic and panoptic segmentation. Our encoder-decoder streaming architecture comprises a radar-specific hierarchical Transformer encoder and task-specific decoders for semantic or panoptic prediction. Our encoder introduces a stem to capture range-dependent signatures, anisotropic patch embeddings to preserve angular resolution, and axial polar attention to separately model the periodic azimuth and bounded range axes. We further introduce azimuth roll rotation augmentation to simulate ego-vehicle rotation during training. Comprehensive experiments on the SAX and BOREAS datasets validate both our auto-labeling methodology and streaming segmentation network against established baselines. We outperform the strongest baseline by at least 1.4pp while processing sectors at over 400 FPS in a 4-sector streaming setting. We additionally provide manual annotations for 100 SAX radar scans, enabling independent evaluation of the entire framework.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:51:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26816v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

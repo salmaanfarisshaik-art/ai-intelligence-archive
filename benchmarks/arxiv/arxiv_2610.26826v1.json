@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26826v1",
+  "schema_version": "1.0",
+  "name": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26826v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26826v1",
+    "updated": "2026-10-19T17:55:06Z",
+    "published": "2026-10-19T17:55:06Z",
+    "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+    "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this crucial capability through webpage development, a practical and readily evaluable setting in which existing benchmarks remain largely idealized: they typically focus on reconstructing visual targets or generating webpages from textual instructions alone, overlooking the more common workflow of developing from visual examples. Specifically, we introduce RefCraft, a benchmark comprising 300 realistic multimodal webpage-development tasks that combine natural-language instructions with screenshots from one to five reference webpages. Agents must selectively interpret and utilize these references while rendering, visually inspecting, and iteratively refining their outputs. We evaluate the resulting open-ended artifacts using independently verifiable keypoints and complementary programmatic and VLM judges. Across nine frontier (M)LLMs, the strongest system achieves an overall score of only 52.12 out of 100, revealing that visual-reference-conditioned agentic generation remains a substantial challenge for current models in practical webpage-development settings.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:55:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26826v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

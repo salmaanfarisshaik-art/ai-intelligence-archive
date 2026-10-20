@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26863v1",
+  "schema_version": "1.0",
+  "name": "Text-to-Image Generative Modeling Without Language Pretraining",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26863v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26863v1",
+    "updated": "2026-10-19T17:59:59Z",
+    "published": "2026-10-19T17:59:59Z",
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introduce Halcyon, a family of early-fusion multimodal autoregressive models pretrained entirely from scratch on GPIC, a dataset of 100M image-text pairs. Halcyon-0.52B outperforms LlamaGen-XL/8 (48.0 vs. 63.3 gFD) with 18.2$\\times$ less pretraining compute. Further, Halcyon-1.6B outperforms JiT-T2I-XXL/8++ (35.3 vs. 41.0 gFD) with 275$\\times$ less pretraining compute. Controlled experiments show that text-only pretraining does not improve T2I generation. Halcyon also learns image captioning by replacing caption dropout with I2T supervision, maintaining competitive T2I generation quality under the same pretraining budget. We show that strong T2I systems can be trained from scratch without internet-scale language pretraining. Code and models are available at https://cs.stanford.edu/~keshik/halcyon",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:59:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26863v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

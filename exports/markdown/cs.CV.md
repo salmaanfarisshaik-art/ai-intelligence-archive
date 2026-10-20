@@ -50,6 +50,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.16855v3](http://arxiv.org/abs/2503.16855v3)
 
+## TestDG: Test-time Domain Generalization for Continual Test-time Adaptation
+- **ID**: arxiv_2504.04981v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2504.04981v4](http://arxiv.org/abs/2504.04981v4)
+
 ## WoundAmbit: Bridging State-of-the-Art Semantic Segmentation and Real-World Wound Care
 - **ID**: arxiv_2504.06185v3
 - **Source**: ArXiv
@@ -139,6 +144,11 @@
 - **ID**: arxiv_2506.01274v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.01274v2](http://arxiv.org/abs/2506.01274v2)
+
+## How Well Do Vision-Language Models Understand Movies?
+- **ID**: arxiv_2506.06275v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.06275v2](http://arxiv.org/abs/2506.06275v2)
 
 ## Hierarchical Feature-level Reverse Propagation for Post-Training Neural Networks
 - **ID**: arxiv_2506.07188v2
@@ -4250,6 +4260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.09155v1](http://arxiv.org/abs/2609.09155v1)
 
+## Vision-language models see more about agriculture than they report, and test-time scaling remains bounded by parametric knowledge
+- **ID**: arxiv_2609.09417v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.09417v3](http://arxiv.org/abs/2609.09417v3)
+
 ## Beyond Weak Labels: Prompt-Guided Local Refinement for Weakly Supervised Water Segmentation in High-Resolution Multispectral Imagery
 - **ID**: arxiv_2609.10371v1
 - **Source**: ArXiv
@@ -6015,6 +6030,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14253v2](http://arxiv.org/abs/2610.14253v2)
 
+## Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++
+- **ID**: arxiv_2610.15061v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.15061v3](http://arxiv.org/abs/2610.15061v3)
+
 ## MIST: Multi-Scale Spatial Context for Gene Expression Prediction from Histology
 - **ID**: arxiv_2610.18769v1
 - **Source**: ArXiv
@@ -6419,4 +6439,79 @@
 - **ID**: arxiv_2610.24885v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24885v1](http://arxiv.org/abs/2610.24885v1)
+
+## V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos
+- **ID**: arxiv_2610.26780v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26780v1](http://arxiv.org/abs/2610.26780v1)
+
+## Mise-en-Video: Fine-Grained 3D Control for Multi-Shot Video Generation
+- **ID**: arxiv_2610.26801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26801v1](http://arxiv.org/abs/2610.26801v1)
+
+## What Language Adds, and at What Cost: Four Controlled Probes of Pathology Vision-Language Models
+- **ID**: arxiv_2610.26805v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26805v1](http://arxiv.org/abs/2610.26805v1)
+
+## State World Models: Execute the Rules, Generate the Pixels
+- **ID**: arxiv_2610.26811v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26811v1](http://arxiv.org/abs/2610.26811v1)
+
+## PICA-WAM: Visual Perturbation Invariance via Cross-Appearance Self-Alignment in World Action Models
+- **ID**: arxiv_2610.26813v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26813v1](http://arxiv.org/abs/2610.26813v1)
+
+## Real-Time Radar Semantic and Panoptic Scene Understanding
+- **ID**: arxiv_2610.26816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26816v1](http://arxiv.org/abs/2610.26816v1)
+
+## Open-Form Geometric Style Transfer
+- **ID**: arxiv_2610.26820v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26820v1](http://arxiv.org/abs/2610.26820v1)
+
+## SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration
+- **ID**: arxiv_2610.26837v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26837v1](http://arxiv.org/abs/2610.26837v1)
+
+## GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries
+- **ID**: arxiv_2610.26850v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26850v1](http://arxiv.org/abs/2610.26850v1)
+
+## Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning
+- **ID**: arxiv_2610.26851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26851v1](http://arxiv.org/abs/2610.26851v1)
+
+## InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation
+- **ID**: arxiv_2610.26853v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26853v1](http://arxiv.org/abs/2610.26853v1)
+
+## Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
+- **ID**: arxiv_2610.26855v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26855v1](http://arxiv.org/abs/2610.26855v1)
+
+## Reinforcement Learning with Visually Attributable On-Policy Self-Distillation
+- **ID**: arxiv_2610.26856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26856v1](http://arxiv.org/abs/2610.26856v1)
+
+## VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token
+- **ID**: arxiv_2610.26857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26857v1](http://arxiv.org/abs/2610.26857v1)
+
+## Can It Actually Work? Synthesizing Functional CAD Mechanisms
+- **ID**: arxiv_2610.26861v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26861v1](http://arxiv.org/abs/2610.26861v1)
 

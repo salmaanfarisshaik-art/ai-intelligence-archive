@@ -3425,6 +3425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35149v2](http://arxiv.org/abs/2609.35149v2)
 
+## Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization
+- **ID**: arxiv_2609.35443v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35443v3](http://arxiv.org/abs/2609.35443v3)
+
 ## PhoneCLI: From App Interfaces to Callable Commands for Mobile Agents
 - **ID**: arxiv_2609.35671v1
 - **Source**: ArXiv
@@ -4049,4 +4054,39 @@
 - **ID**: arxiv_2610.24873v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24873v1](http://arxiv.org/abs/2610.24873v1)
+
+## LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences
+- **ID**: arxiv_2610.26787v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26787v1](http://arxiv.org/abs/2610.26787v1)
+
+## SOMA: Continuous Monitoring and Intervention for System Two Reasoning with System One Models
+- **ID**: arxiv_2610.26793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26793v1](http://arxiv.org/abs/2610.26793v1)
+
+## Agent World Model in the Wild: Computer-Use Agent Environment Synthesis
+- **ID**: arxiv_2610.26828v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26828v1](http://arxiv.org/abs/2610.26828v1)
+
+## ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry
+- **ID**: arxiv_2610.26829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26829v1](http://arxiv.org/abs/2610.26829v1)
+
+## Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy
+- **ID**: arxiv_2610.26836v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26836v1](http://arxiv.org/abs/2610.26836v1)
+
+## AnyGoal: On World Model Generalization Beyond Expert Rollouts
+- **ID**: arxiv_2610.26844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26844v1](http://arxiv.org/abs/2610.26844v1)
+
+## Train An Imaginative Agent
+- **ID**: arxiv_2610.26845v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26845v1](http://arxiv.org/abs/2610.26845v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.09417v3",
+  "schema_version": "1.0",
+  "name": "Vision-language models see more about agriculture than they report, and test-time scaling remains bounded by parametric knowledge",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.09417v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.09417v3",
+    "updated": "2026-10-19T17:56:37Z",
+    "published": "2026-09-08T20:15:53Z",
+    "title": "Vision-language models see more about agriculture than they report, and test-time scaling remains bounded by parametric knowledge",
+    "summary": "Vision-language models (VLMs) show promise for agricultural diagnosis but fail unpredictably in zero-shot settings. We test whether this stems from poor visual features or an inability to verbalize what the model already perceives, using a benchmark spanning classification and detection drawn from 118 AgML classification and 54 detection datasets. Linear probing shows agricultural features are linearly separable in frozen VLM vision towers, with Gemma-4-31B's encoder reaching F1-macro of 0.60--0.78 across tasks and approaching the vision-only DINOv3 backbone, indicating the bottleneck lies downstream of perception. We then test whether test-time scaling, an iterative in-context skill-memory loop, can close this gap without updating weights. Gains are modest and inconsistent. Skill-memory improves classification accuracy by up to 3.1 points on three of four tasks while regressing on species, with gains concentrated on classes seen during optimization and unseen classes regressing. Detection F1 is effectively unchanged (0.412 to 0.421), though an oracle filtering condition reaches 0.432 F1, revealing real headroom unconstrained prompting fails to surface. These results indicate VLMs see more agricultural features than they report, but test-time scaling alone fails to surface that hidden parametric knowledge, motivating agentic approaches grounded in external, retrievable knowledge.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:56:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.09417v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.26083v5",
+  "schema_version": "1.0",
+  "name": "ICON decomposition: Multivariate concept auditing reveals shortcuts that neural networks rely on",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.26083v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.26083v5",
+    "updated": "2026-10-19T17:55:33Z",
+    "published": "2026-08-26T17:47:49Z",
+    "title": "ICON decomposition: Multivariate concept auditing reveals shortcuts that neural networks rely on",
+    "summary": "Deep neural networks often exploit spurious associations, a failure known as shortcut learning. Before deployment, models should therefore be audited for reliance on concepts such as acquisition artifacts and patient demographics. Current methods, including linear probes and concept activation vectors, measure concept reliance by asking whether each concept is decodable from a layer. We show that this framing is misleading: decodability reflects not only concept reliance but also correlations among concepts and the outcome in the auditing dataset. We reframe shortcut auditing as a decomposition of the variance of intermediary representations with Independent Canonical cONcepts (ICON). ICON quantifies the share of a layer's variance explained by each concept conditional on all other concepts and the outcome, and also reports the variance left unexplained. Because ICON explanations are comparable across layers, their trajectories distinguish concepts that drive predictions from those that are merely encoded in the representations. In simulated data with ground truth, ICON recovers concept importance more accurately than seven baselines. In skin-cancer and neuroimaging applications, it separates learned shortcuts from merely correlated concepts, which we confirm with independent validation checks.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:55:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.26083v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

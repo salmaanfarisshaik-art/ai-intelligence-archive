@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26817v1",
+  "schema_version": "1.0",
+  "name": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26817v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26817v1",
+    "updated": "2026-10-19T17:51:53Z",
+    "published": "2026-10-19T17:51:53Z",
+    "title": "Next Best Action: Causal Constrained Offline RL for Business Action Targeting",
+    "summary": "Next Best Action (NBA) systems must select among customer interventions (e.g., discounts, promotions, and lifecycle actions), maximize long-term economic value, satisfy complex operational constraints, and remain causally grounded. Existing approaches lack a rigorous framework for meeting these requirements jointly. We address this gap by formulating NBA as a Constrained Markov Decision Process (CMDP). We then integrate off-policy causal correction of the estimated customer dynamics directly into the Linear Programming (LP) formulation of the CMDP. The resulting policy selects actions based on customer states to maximize long-term value while explicitly enforcing business guardrails. Furthermore, the LP formulation yields shadow prices that quantify the economic trade-offs of operational constraints (e.g., fairness and user welfare), enhancing policy interpretability. We validate our proposed offline Reinforcement Learning (RL) framework on an industry case study involving rideshare coupon targeting, where customer states are defined by Recency, Frequency, and Monetary (RFM) stages. We evaluate performance using model-based off-policy evaluation, with causal dynamics estimated from a temporal holdout. Under the observed coupon budget and RFM state representation, our optimized policy improves customer lifetime value (LTV) by 19% over the estimated behavior policy and 8% over a myopic baseline. Although the demonstrated action space is binary, the proposed framework is action-agnostic, yielding a general-purpose decision module for targeting systems that manage multiple interventions.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T07:11:11Z",
+  "last_updated": "2026-10-19T17:51:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26817v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
