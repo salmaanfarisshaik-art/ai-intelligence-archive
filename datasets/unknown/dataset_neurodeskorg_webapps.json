@@ -4,10 +4,10 @@
   "author": "neurodeskorg",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-18T15:56:14.000Z",
+  "lastModified": "2026-10-20T21:14:58.000Z",
   "likes": 0,
   "private": false,
-  "sha": "121b25dde5caffc8f880eec87cca29b4e569b7a9",
+  "sha": "1cc413f306c41dfa5e30e10235d7dc15af814f45",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tNeurodesk webapps assets\n\t\n\nModels and validation data for https://github.com/neurodesk/webapps, which stores source only.\nLayout and naming:\n\n<app>/ — one directory per app, named as in apps/<app> or exes/<app>; shared assets live under the app that owns them.\n<app>/models/ — weights. Upstream artifacts keep their upstream filename verbatim (synthsr_v20_230130.h5); derived artifacts are <app>-<variant>.onnx (synthsr-v2.onnx, synthstrip-browser.onnx). Precision or graph edits get a… See the full description on the dataset page: https://huggingface.co/datasets/neurodeskorg/webapps.",
   "downloads": 45009,
   "tags": [
