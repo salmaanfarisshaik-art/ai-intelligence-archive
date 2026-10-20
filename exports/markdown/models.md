@@ -2132,6 +2132,10 @@
 - **ID**: model_huihui_ai_deepseek_r1_distill_qwen_32b_abliterated
 - **Source**: 
 
+## huihui-ai/Huihui-Agents-A1-abliterated-GGUF
+- **ID**: model_huihui_ai_huihui_agents_a1_abliterated_gguf
+- **Source**: 
+
 ## huihui-ai/Huihui-CyberStrike-OffSec-35B-abliterated-GGUF
 - **ID**: model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf
 - **Source**: 
@@ -2290,6 +2294,10 @@
 
 ## IFM/K2-Horizon-7B
 - **ID**: model_ifm_k2_horizon_7b
+- **Source**: 
+
+## IFM/K2-Horizon-7B-GGUF
+- **ID**: model_ifm_k2_horizon_7b_gguf
 - **Source**: 
 
 ## IFM/K2-Horizon-7B-Uno
@@ -7430,6 +7438,10 @@
 
 ## zai-org/GLM-5-FP8
 - **ID**: model_zai_org_glm_5_fp8
+- **Source**: 
+
+## zai-org/glm-edge-4b-chat-gguf
+- **ID**: model_zai_org_glm_edge_4b_chat_gguf
 - **Source**: 
 
 ## zai-org/GLM-Z1-32B-0414

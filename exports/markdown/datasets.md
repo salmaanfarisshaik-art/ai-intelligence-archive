@@ -281,6 +281,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_alexmkwizu_gaussian_training_datasets
+- **Source**: 
+
+## 
 - **ID**: dataset_algorithmicresearchgroup_arxiv_s2orc_parsed
 - **Source**: 
 
@@ -1225,6 +1229,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bytedance_seed_multi_swe_bench_trajs
+- **Source**: 
+
+## 
 - **ID**: dataset_bytedance_seed_widesearch
 - **Source**: 
 
@@ -1309,6 +1317,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_charlielll_browsecomp_nvl72_eval_traces_0907
+- **Source**: 
+
+## 
 - **ID**: dataset_charly_chan_hoigen_filtered_videos
 - **Source**: 
 
@@ -1386,6 +1398,10 @@
 
 ## 
 - **ID**: dataset_chrisneverdie_onlysports_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_chrisrca_clash_royale_tv_replays
 - **Source**: 
 
 ## 
@@ -1542,6 +1558,10 @@
 
 ## 
 - **ID**: dataset_csebuetnlp_xlsum
+- **Source**: 
+
+## 
+- **ID**: dataset_csoai_councilof_ai_evidence
 - **Source**: 
 
 ## 
@@ -1825,6 +1845,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dronefreak_bdd100k
+- **Source**: 
+
+## 
 - **ID**: dataset_dronefreak_rain13k
 - **Source**: 
 
@@ -1985,7 +2009,15 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_endomorphosis_world_municipal_law
+- **Source**: 
+
+## 
 - **ID**: dataset_enguyen_smollm_chunked
+- **Source**: 
+
+## 
+- **ID**: dataset_epdcl_pd_defect
 - **Source**: 
 
 ## 
@@ -2689,6 +2721,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_harborframework_terminal_bench_2_leaderboard
+- **Source**: 
+
+## 
 - **ID**: dataset_harborframework_terminal_bench_3_0
 - **Source**: 
 
@@ -3182,6 +3218,10 @@
 
 ## 
 - **ID**: dataset_i998979_transitapp
+- **Source**: 
+
+## 
+- **ID**: dataset_i_deepsearch_observation_masking_eval_logs
 - **Source**: 
 
 ## 
@@ -4917,6 +4957,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jetbard_tmx_feed_g9nh5j
+- **Source**: 
+
+## 
 - **ID**: dataset_jeyanthangj2004_visdrone_raw
 - **Source**: 
 
@@ -5742,6 +5786,10 @@
 
 ## 
 - **ID**: dataset_m_a_p_pin_200m
+- **Source**: 
+
+## 
+- **ID**: dataset_m_ric_predibench_dump
 - **Source**: 
 
 ## 
@@ -7917,6 +7965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sagels_new_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_saghi776_detectai_dataset
 - **Source**: 
 
@@ -8290,6 +8342,10 @@
 
 ## 
 - **ID**: dataset_snowfall0601_dartlab_data
+- **Source**: 
+
+## 
+- **ID**: dataset_society_ethics_stable_bias_generations
 - **Source**: 
 
 ## 
@@ -8686,6 +8742,10 @@
 
 ## 
 - **ID**: dataset_textmachinelab_quail
+- **Source**: 
+
+## 
+- **ID**: dataset_thanhnew2001_vietsuperspeech
 - **Source**: 
 
 ## 
@@ -9490,6 +9550,10 @@
 
 ## 
 - **ID**: dataset_yinhuankuang_rl_game_traces_rise_of_the_tomb_raider
+- **Source**: 
+
+## 
+- **ID**: dataset_yinpei_robomme_data_h5
 - **Source**: 
 
 ## 

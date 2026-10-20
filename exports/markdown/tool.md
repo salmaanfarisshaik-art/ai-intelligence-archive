@@ -70,6 +70,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/heygen-com/hyperframes](https://github.com/heygen-com/hyperframes)
 
+## ai-job-search
+- **ID**: gh_1185389803
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+
 ## ai-engineering-from-scratch
 - **ID**: gh_1185590488
 - **Source**: GitHub Trending

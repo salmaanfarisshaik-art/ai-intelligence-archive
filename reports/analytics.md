@@ -1,15 +1,15 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91427
+**Total Entities Tracked**: 91449
 
 ## Category Distribution
 
 - **skills**: 31000
 - **prompts**: 27178
 - **instruction_tuning**: 21000
-- **datasets**: 2432
-- **models**: 1869
-- **news**: 1326
+- **datasets**: 2448
+- **models**: 1872
+- **news**: 1328
 - **cs.CV**: 1303
 - **dataset**: 1217
 - **text-generation**: 1014
@@ -19,7 +19,7 @@
 - **cs.RO**: 200
 - **cs.CR**: 91
 - **cs.SE**: 67
-- **tool**: 56
+- **tool**: 57
 - **cs.HC**: 47
 - **cs.IR**: 43
 - **cs.SD**: 40
@@ -97,12 +97,12 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31479
+- ****: 31498
 - **ArXiv**: 4228
 - **Hugging Face**: 2021
-- **OpenAI Blog**: 1312
+- **OpenAI Blog**: 1314
 - **HuggingFace Datasets**: 217
-- **GitHub Trending**: 56
+- **GitHub Trending**: 57
 - **BAIR Blog**: 14
 - **Backend**: 10
 - **Database**: 10

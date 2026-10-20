@@ -40196,6 +40196,13 @@
       "score": 1.0
     }
   ],
+  "reconciles": [
+    {
+      "entity_id": "rss_https://openai.com/index/ted-taylor-restaurant",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "reconciliation": [
     {
       "entity_id": "arxiv_2608.23507v1",
@@ -112968,6 +112975,13 @@
   "reprices": [
     {
       "entity_id": "alpaca_-3548488476011428713",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "repricing": [
+    {
+      "entity_id": "rss_https://openai.com/index/ted-taylor-restaurant",
       "match_type": "exact",
       "score": 1.0
     }
@@ -187960,6 +187974,11 @@
     },
     {
       "entity_id": "dataset_weixu_zhang_visrl_bench_results",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "gh_1185389803",
       "match_type": "exact",
       "score": 1.0
     },

@@ -1,8 +1,8 @@
-# Release v2026.10.20.20261020_132128
-**Generated:** 2026-10-20 13:21:28 UTC
+# Release v2026.10.20.20261020_182155
+**Generated:** 2026-10-20 18:21:56 UTC
 
 ## Data Overview
-- Total entities indexed: **91427**
+- Total entities indexed: **91449**
 
 ## Highlights
 *(Automated summaries of new additions will be populated here)*
