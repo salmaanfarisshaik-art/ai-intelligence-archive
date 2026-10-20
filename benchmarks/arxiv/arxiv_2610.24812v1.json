@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24812v1",
+  "schema_version": "1.0",
+  "name": "SwitchSplat: Learning Discrete Object States from Casually Captured Scenes",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24812v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24812v1",
+    "updated": "2026-10-17T18:35:44Z",
+    "published": "2026-10-17T18:35:44Z",
+    "title": "SwitchSplat: Learning Discrete Object States from Casually Captured Scenes",
+    "summary": "3D Gaussian Splatting has made high-fidelity 3D reconstruction fast and accessible, yet existing representations assume a static world. This assumption breaks down in casual captures, where a user naturally interacts with the environment -- opening doors, toggling switches, or moving objects -- introducing discrete state changes that no current framework can model. Time-conditioned dynamic methods such as 4DGS conflate when a state was observed with what state the scene is in, limiting them to replaying seen sequences rather than composing arbitrary object configurations. We present SwitchSplat, the first 3DGS representation to address this gap via a base+slot decomposition: a shared static base captures the invariant scene, while each slot independently holds the two binary states (on/off) of one interactable object. Because the assignment of Gaussians to slots is fully differentiable, the model discovers the geometry of each state directly from video, without manual annotation. At inference, the user can freely combine slot states and render the resulting scene from any viewpoint. We validate SwitchSplat on a new casual-capture dataset and show that it outperforms static and dynamic baselines in novel-view synthesis quality, while uniquely supporting rendering of state combinations never seen during capture. Project page: https://switchsplat.github.io",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:35:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24812v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

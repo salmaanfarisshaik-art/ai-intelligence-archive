@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24793v1",
+  "schema_version": "1.0",
+  "name": "Cooperation Without Shared Rewards via Reciprocal Q-Augmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24793v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GT",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24793v1",
+    "updated": "2026-10-17T17:54:13Z",
+    "published": "2026-10-17T17:54:13Z",
+    "title": "Cooperation Without Shared Rewards via Reciprocal Q-Augmentation",
+    "summary": "General-sum games are more challenging than fully cooperative or adversarial settings because agents may deceive or exploit one another. Achieving high social welfare requires sustained cooperation, while a single defection can drive agents toward a welfare suboptimal Nash equilibrium. Moreover, assuming access to other agents' rewards or internal states is often unrealistic and implicitly introduces additional cooperation into the setting. To address this issue, we introduce \\textit{Reciprocal Q-Augmentation} (RQA), a method that uses a latent-variable opponent model to augment the Q-function with estimates of how one's actions affects other agents. RQA allows agents to learn both cooperative and defective policies using only their own Q-function. We show that, in social dilemmas, agents that all follow the cooperative policy of RQA learn to cooperate faster and reach higher levels of cooperation than fully cooperative algorithms. Moreover, a single RQA agent that switches appropriately between its cooperative and defecting policies can induce cooperation in agents trained with standard RL algorithms, which would otherwise end up defecting. We evaluate our approach on the Iterated Prisoner's Dilemma, Iterated Traveler's Dilemma, Iterated Stag Hunt, and \\texttt{CleanUp-Lite}. Our experiments show that the algorithms implementing RQA outperforms fully cooperative methods with shared rewards and enables cooperation with algorithms that otherwise fail to reach high social welfare.",
+    "primary_category": "cs.GT"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T17:54:13Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24793v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

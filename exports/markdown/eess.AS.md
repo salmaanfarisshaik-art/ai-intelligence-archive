@@ -85,3 +85,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13826v1](http://arxiv.org/abs/2610.13826v1)
 
+## Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection
+- **ID**: arxiv_2610.24870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24870v1](http://arxiv.org/abs/2610.24870v1)
+

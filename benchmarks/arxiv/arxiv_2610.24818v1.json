@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24818v1",
+  "schema_version": "1.0",
+  "name": "Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24818v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24818v1",
+    "updated": "2026-10-17T18:59:40Z",
+    "published": "2026-10-17T18:59:40Z",
+    "title": "Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts",
+    "summary": "Small Language Models with quantisation and parameter-efficient adaptation are widely offered as the route to multilingual AI under compute constraints, and their efficiency is almost always reported as a single memory figure. We show that this figure is measured in English and does not transfer. Across a 131k-sentence corpus spanning eleven Indic scripts, TinyLlama-1.1B's tokeniser emits 1.34 subword tokens per Latin-script word and 22.60 per Kannada word. This is not inefficiency; it is absence. Its vocabulary contains 0% of Odia's codepoints, 1% of Telugu's and 2% of Kannada's, and for five of eleven scripts the measured fertility sits at the UTF-8 byte-fallback ceiling, on Odia at 99.6% of it, with 93.6% of emitted tokens being raw bytes. Because SentencePiece byte fallback never raises an unknown-token marker, this failure is entirely silent: TinyLlama's UNK rate is 0.0% on every script, including the one it reads as bytes. We further show that low fertility can indicate the opposite of efficiency: mBERT posts its best score anywhere (1.10 tokens/word, on Odia) while discarding 87.9% of the text as UNK. MuRIL, an Indic-vocabulary encoder with a fifth of TinyLlama's parameters, reads every script at 1.23-2.26 tokens/word with zero UNK and zero byte fallback. The binding constraint is the vocabulary, not the parameter count. The consequence is concrete: on a 2048-token context window, the same model gives an English user 1,528 words of usable context and a Kannada user 91.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:59:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24818v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

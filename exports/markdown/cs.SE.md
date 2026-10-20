@@ -330,3 +330,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.33875v2](http://arxiv.org/abs/2609.33875v2)
 
+## When LLM-Generated Refactorings Ripple: An Empirical Study of Repository Adoption Readiness
+- **ID**: arxiv_2610.24790v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24790v1](http://arxiv.org/abs/2610.24790v1)
+

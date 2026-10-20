@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2405.10632v8](http://arxiv.org/abs/2405.10632v8)
 
+## NLP Meets the World: Toward Improving Conversations With News Media About Natural Language Processing Research
+- **ID**: arxiv_2507.10559v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.10559v3](http://arxiv.org/abs/2507.10559v3)
+
 ## "Not in My Backyard": LLMs Uncover Online and Offline Social Biases Against Homelessness
 - **ID**: arxiv_2508.13187v5
 - **Source**: ArXiv

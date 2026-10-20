@@ -595,6 +595,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14672v1](http://arxiv.org/abs/2606.14672v1)
 
+## Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning
+- **ID**: arxiv_2606.15507v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15507v2](http://arxiv.org/abs/2606.15507v2)
+
 ## Medical Heuristic Learning: An LLM-Driven Framework for Interpretable and Auditable Clinical Decision Rules
 - **ID**: arxiv_2606.16337v4
 - **Source**: ArXiv
@@ -1870,6 +1875,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.11211v2](http://arxiv.org/abs/2608.11211v2)
 
+## The edge-based contiguous p-median problem: exact formulations and strengthening inequalities
+- **ID**: arxiv_2608.11230v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.11230v2](http://arxiv.org/abs/2608.11230v2)
+
 ## Towards Query-Agnostic RAG Evaluation via Query Coverage and Claim Verifiability
 - **ID**: arxiv_2608.11238v2
 - **Source**: ArXiv
@@ -2019,6 +2029,11 @@
 - **ID**: arxiv_2608.14528v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.14528v1](http://arxiv.org/abs/2608.14528v1)
+
+## Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement
+- **ID**: arxiv_2608.14590v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.14590v2](http://arxiv.org/abs/2608.14590v2)
 
 ## Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research
 - **ID**: arxiv_2608.15052v2
@@ -4004,4 +4019,34 @@
 - **ID**: arxiv_2610.23845v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23845v1](http://arxiv.org/abs/2610.23845v1)
+
+## IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text
+- **ID**: arxiv_2610.24789v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24789v1](http://arxiv.org/abs/2610.24789v1)
+
+## Medical Fine-Tuning Reshapes, Not Reduces, Patient-Facing AI Risk: A Rubric-Based, LLM-Judge Evaluation Framework
+- **ID**: arxiv_2610.24807v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24807v1](http://arxiv.org/abs/2610.24807v1)
+
+## Teaching Code Agents to Ask Without Leaking Private Code
+- **ID**: arxiv_2610.24824v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24824v1](http://arxiv.org/abs/2610.24824v1)
+
+## Pattern-Driven Evaluation of LLM Code Optimization: Isolating Compiler-Transcendent Semantic Reasoning
+- **ID**: arxiv_2610.24835v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24835v1](http://arxiv.org/abs/2610.24835v1)
+
+## Bellman Language Models: Solving the Recurring Decisions of LLM Agents
+- **ID**: arxiv_2610.24871v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24871v1](http://arxiv.org/abs/2610.24871v1)
+
+## The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents
+- **ID**: arxiv_2610.24873v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24873v1](http://arxiv.org/abs/2610.24873v1)
 

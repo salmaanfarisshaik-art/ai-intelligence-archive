@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24858v1",
+  "schema_version": "1.0",
+  "name": "Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24858v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24858v1",
+    "updated": "2026-10-17T20:18:08Z",
+    "published": "2026-10-17T20:18:08Z",
+    "title": "Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes",
+    "summary": "Reducing MRI acquisition time improves patient comfort, reduces motion artefacts, and increases scanner throughput. Clinical protocols often shorten acquisitions by sacrificing spatial resolution, particularly along the slice axis. Super-resolution can recover higher-resolution images, but existing methods are typically specialised to one scale or acquisition geometry, limiting their use across heterogeneous clinical protocols. We present GSMR3D, a continuous volumetric model that reconstructs arbitrary isotropic and anisotropic resolutions with a single checkpoint per MRI contrast. It combines a learned dictionary of anisotropic 3D Gaussian prototypes with scale-conditioned frequency encoding and an exact measurement-consistency projection, keeping reconstructions consistent with the acquired low-resolution data. We train separate models on 3,731 contrast-enhanced T1-weighted and 30,254 T1-weighted brain MRI volumes from clinical and population-based cohorts. We evaluate GSMR3D against geometry-specific specialists for isotropic, in-plane, and through-plane super-resolution using reconstruction quality and downstream tasks: brain tumour segmentation, brain-metastasis detection, and brain parcellation. GSMR3D outperforms specialists at isotropic $2\\times$ and achieves better LPIPS, DISTS, and FID across all geometries, although specialists retain higher PSNR in anisotropic settings. It more faithfully preserves glioma segmentations across all geometries, achieves the highest lesion sensitivity on an independent brain-metastasis cohort, and the highest brain-parcellation agreement for isotropic and in-plane reconstruction. Reconstruction takes about 6s per volume, adding little overhead relative to acquisition-time savings. GSMR3D offers a flexible approach to MRI scan-time reduction with one model per contrast across geometries while preserving information relevant to downstream tasks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T20:18:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24858v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

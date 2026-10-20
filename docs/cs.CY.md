@@ -19,6 +19,7 @@
 | [Frontier Lag: A Bibliometric Audit of Capability Misrepresentation in Academic AI Evaluation](http://arxiv.org/abs/2605.04135v4) | ArXiv |  | 1 |
 | [Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria](http://arxiv.org/abs/2608.06364v1) | ArXiv |  | 1 |
 | [Large language models eroding science understanding: an empirical study of malignment](http://arxiv.org/abs/2604.25639v2) | ArXiv |  | 1 |
+| [NLP Meets the World: Toward Improving Conversations With News Media About Natural Language Processing Research](http://arxiv.org/abs/2507.10559v3) | ArXiv |  | 1 |
 | [Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science](http://arxiv.org/abs/2607.22513v1) | ArXiv |  | 1 |
 | [Post-Deployment Accountability in AI Governance: A Cross-Regulatory Empirical Analysis of AI Incidents](http://arxiv.org/abs/2605.16281v3) | ArXiv |  | 1 |
 | [Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria](http://arxiv.org/abs/2609.19096v1) | ArXiv |  | 1 |

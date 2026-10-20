@@ -3670,6 +3670,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.39882v2](http://arxiv.org/abs/2609.39882v2)
 
+## Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions
+- **ID**: arxiv_2609.40124v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.40124v2](http://arxiv.org/abs/2609.40124v2)
+
 ## Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports
 - **ID**: arxiv_2609.40236v1
 - **Source**: ArXiv
@@ -4015,6 +4020,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18868v1](http://arxiv.org/abs/2610.18868v1)
 
+## HERO: Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation
+- **ID**: arxiv_2610.19184v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.19184v2](http://arxiv.org/abs/2610.19184v2)
+
 ## Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation
 - **ID**: arxiv_2610.20247v2
 - **Source**: ArXiv
@@ -4159,4 +4169,39 @@
 - **ID**: arxiv_2610.23847v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23847v1](http://arxiv.org/abs/2610.23847v1)
+
+## Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models
+- **ID**: arxiv_2610.24795v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24795v1](http://arxiv.org/abs/2610.24795v1)
+
+## Table Serialization Determines Which Relations Language Models Preserve
+- **ID**: arxiv_2610.24798v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24798v1](http://arxiv.org/abs/2610.24798v1)
+
+## Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors
+- **ID**: arxiv_2610.24809v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24809v1](http://arxiv.org/abs/2610.24809v1)
+
+## Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts
+- **ID**: arxiv_2610.24818v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24818v1](http://arxiv.org/abs/2610.24818v1)
+
+## MisleadQA: Diagnosing LLM Failures under Misleading Context
+- **ID**: arxiv_2610.24851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24851v1](http://arxiv.org/abs/2610.24851v1)
+
+## Learning to Program Retrievals: Composing Search Primitives via Reinforcement Learning
+- **ID**: arxiv_2610.24854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24854v1](http://arxiv.org/abs/2610.24854v1)
+
+## Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures
+- **ID**: arxiv_2610.24888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24888v1](http://arxiv.org/abs/2610.24888v1)
 

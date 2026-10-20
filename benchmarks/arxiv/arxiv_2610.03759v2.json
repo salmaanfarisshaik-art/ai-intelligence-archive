@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.03759v2",
+  "schema_version": "1.0",
+  "name": "BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.03759v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "physics.ao-ph",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.03759v2",
+    "updated": "2026-10-17T18:42:51Z",
+    "published": "2026-09-27T00:43:54Z",
+    "title": "BridgeCast: Bridging Ocean Wave Forecasts to Reanalysis via Flow Matching with Exogenous Variables",
+    "summary": "Ocean wave forecasting is essential for maritime safety, offshore operations, and coastal resilience, yet remains challenging due to systematic biases in physics-based models. Physical models, while widely used, rely on approximations and parameterizations that limit their accuracy under complex ocean-atmosphere conditions. To enhance ocean wave forecasting, we propose BridgeCast, within a physics-AI hybrid framework for bias correction. BridgeCast is a probabilistic model based on conditional flow matching (CFM) that learns to transform physical model forecasts into reanalysis-like fields. It treats physical forecasts as corrupted observations and employs a continuous-time generative process to bridge their distribution toward that of reanalysis data. BridgeCast is parameterized by a Transformer-based architecture that enables spatiotemporal modeling, incorporation of exogenous atmospheric variables, and flexible inference via both ordinary and stochastic differential equation formulations. Extensive experiments on real-world datasets demonstrate that BridgeCast consistently outperforms state-of-the-art baselines across regions and forecast lead times.",
+    "primary_category": "physics.ao-ph"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:42:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.03759v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

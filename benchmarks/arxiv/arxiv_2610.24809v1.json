@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24809v1",
+  "schema_version": "1.0",
+  "name": "Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24809v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24809v1",
+    "updated": "2026-10-17T18:32:23Z",
+    "published": "2026-10-17T18:32:23Z",
+    "title": "Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors",
+    "summary": "Speech recognition in real time in far-field conversational settings still incurs significant errors. Identifying potential error spans during streaming ASR permits a recourse mechanism where the speaker can be asked to repeat the affected content under cleaner acoustic conditions. We propose \\sysname, a new framework for online error localization, that identifies spans likely to benefit from this intervention. Our supervision uses clean audio to estimate how the recognizer's output might change under improved acoustic conditions. We probabilistically align noisy and clean decodes using a pair-HMM to obtain soft supervision. These soft targets train a counterfactual gain scorer by combining a suite of acoustic and language features to produce token-level scores, that are further grouped into spans for targeted recourse. An LLM uses the ASR transcript of the repetition to revise only the selected span. At a precision of $70\\%$, \\sysname achieves the highest recall by identifying up to 52\\% more erroneous tokens compared to the strongest baseline. Targeted repetition yields relative WER reductions of up to 24\\% under a budget that accounts for both interruption frequency and the lengths of re-uttered spans.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:32:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24809v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.02177v2",
+  "schema_version": "1.0",
+  "name": "The Causal Description Gap: Information-Theoretic Separations Across Pearl's Hierarchy",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.02177v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.02177v2",
+    "updated": "2026-10-17T18:25:48Z",
+    "published": "2026-05-04T03:13:34Z",
+    "title": "The Causal Description Gap: Information-Theoretic Separations Across Pearl's Hierarchy",
+    "summary": "Pearl's causal hierarchy shows that observational, interventional, and counterfactual queries are qualitatively distinct. We ask a quantitative version of this question: how many additional bits are needed to specify higher-rung causal answers once lower-rung answers are known? We formalize this via query-class description length, the Kolmogorov complexity of the answers a structural causal model (SCM) gives to a class of queries, with system size given. Our main construction gives acyclic SCMs on $n$ binary variables whose common observational distribution has constant description length, while single-variable intervention answers can require $Θ(n^2)$ additional bits. For SCMs with independent noises, fixed finite gate-schema and noise libraries, and at most $d$ parents per variable, a degree-sensitive upper bound gives an observational-interventional gap of at most $O(nd\\log(en/d)+n\\log n)$. This makes the quadratic construction order-optimal in the dense regime and a rooted-tree construction order-optimal for bounded indegree. The quadratic separation persists under $\\varepsilon$-accurate total-variation descriptions for every fixed $\\varepsilon<1/4$. At the next rung, even knowing every hard-intervention distribution can leave a $Θ(n)$ counterfactual description gap; a masked-parity construction extends this to $Θ(n^2)$. These separation rates hold in the worst case and with high probability under uniform hidden parameters. A general ambiguity-to-bits theorem and Shannon analogue, together with explicit encodings, show that the gaps in our constructions equal the logarithm of residual higher-rung ambiguity up to lower-order terms.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:25:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.02177v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

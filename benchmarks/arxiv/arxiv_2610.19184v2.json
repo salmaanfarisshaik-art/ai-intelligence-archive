@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.19184v2",
+  "schema_version": "1.0",
+  "name": "HERO: Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.19184v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.19184v2",
+    "updated": "2026-10-17T20:48:44Z",
+    "published": "2026-10-13T20:49:08Z",
+    "title": "HERO: Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation",
+    "summary": "Harness optimization improves LLMs by refining reusable prompts and scaffolding, yet requires further adaptation for program generation tasks such as text-to-SQL and text-to-Python. Existing methods often rely on LLM reflectors to propose harness updates, which can fix observed failures but also disrupt previously correct behavior. Text-to-code tasks offer a natural way to mitigate this issue: we can execute generated outputs, allowing us to evaluate and verify the effects of proposed updates directly. Building on this signal, we introduce HERO Harnessing Evidence for Refinement and Optimization), which combines offline and test-time harness optimization. At the first stage, HERO learns reusable prompt updates from execution-verified successes and failures and validates candidate revisions before adoption. At test time, we treat the generated code as an instance-specific harness and refine it using execution feedback. Across four SQL, Cypher, and Python benchmarks, HERO achieves the best offline performance, improving pass@1 by 7.6 points over the initial prompt, while test-time refinement adds another 2.0 points and improves execution efficiency.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T20:48:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.19184v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

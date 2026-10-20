@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.10766v6",
+  "schema_version": "1.0",
+  "name": "At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.10766v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.10766v6",
+    "updated": "2026-10-17T17:48:48Z",
+    "published": "2026-04-12T18:28:57Z",
+    "title": "At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections",
+    "summary": "Open-set 3D macromolecule detection in cryogenic electron tomography eliminates the need for target-specific model retraining. However, strict VRAM constraints prohibit processing an entire 3D tomogram, forcing current methods to rely on slow sliding-window inference over extracted subvolumes. To overcome this, we propose FullTilt, an end-to-end framework that redefines 3D detection by operating directly on aligned 2D tilt-series. Because a tilt-series contains significantly fewer images than slices in a reconstructed tomogram, FullTilt eliminates redundant volumetric computation, accelerating inference by orders of magnitude. To process the entire tilt-series simultaneously, we introduce a tilt-series encoder to efficiently fuse cross-view information. We further propose a multiclass visual prompt encoder for flexible prompting, a tilt-aware query initializer to effectively anchor 3D queries, and an auxiliary geometric primitives module to enhance the model's understanding of multi-view geometry while improving robustness to adverse imaging artifacts. Extensive evaluations on three real-world datasets demonstrate that FullTilt achieves state-of-the-art zero-shot performance while drastically reducing runtime and VRAM requirements, paving the way for rapid, large-scale visual proteomics analysis. Code and data are available at https://github.com/Kaminyou/FullTilt.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T17:48:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.10766v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

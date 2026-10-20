@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.06127v2](http://arxiv.org/abs/2507.06127v2)
 
+## Chiplet-Based RISC-V SoC with Modular AI Acceleration
+- **ID**: arxiv_2509.18355v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.18355v6](http://arxiv.org/abs/2509.18355v6)
+
 ## Comparative Characterization of KV Cache Management Strategies for LLM Inference
 - **ID**: arxiv_2604.05012v2
 - **Source**: ArXiv

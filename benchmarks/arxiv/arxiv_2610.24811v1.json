@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24811v1",
+  "schema_version": "1.0",
+  "name": "Directionally Factorized Illumination with Spherical Harmonic Rotation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24811v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24811v1",
+    "updated": "2026-10-17T18:35:02Z",
+    "published": "2026-10-17T18:35:02Z",
+    "title": "Directionally Factorized Illumination with Spherical Harmonic Rotation",
+    "summary": "Many real-world capture scenarios involve an active light source rigidly attached to the camera: camera flashes for dark-environment imaging, underwater vehicle lights, and endoscopic/laparoscopic medical procedures. As the camera moves, the co-mounted light moves with it, causing the illumination direction at each surface point to change across views. Neural rendering methods (NeRF, Gaussian Splatting) encode this pose-dependent illumination as surface coloration, producing appearance inconsistencies and making it harder to recover the underlying scene. We present \\textbf{DaFISH}, which can be plugged into any novel-view synthesis (NVS) pipeline such as NeRF. It factorizes per-point emitted color into surface albedo and a spherical harmonic (SH)-represented illumination factor. During training, the SH illumination is evaluated directly, enabling stable joint optimization of albedo, lighting, and geometry. \\textbf{DaFISH} provides analytical generalization of illumination to arbitrary camera poses without retraining. Building on the closed-form SH-to-irradiance conversion, the training pipeline is fully differentiable from SH evaluation through volume rendering. Averaged over the held-out frames of the five scenes, \\textbf{DaFISH} attains the best mean PSNR (38.91\\,dB), SSIM (0.9613), and LPIPS (0.0582) among all compared methods. It improves over the strongest splatting baseline as well as the closest NeRF-based baseline, while recovering the scene consistently across views compared to prior methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:35:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24811v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

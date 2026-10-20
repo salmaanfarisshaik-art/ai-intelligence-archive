@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.28887v2",
+  "schema_version": "1.0",
+  "name": "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.28887v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.28887v2",
+    "updated": "2026-10-17T20:45:17Z",
+    "published": "2026-03-30T18:13:51Z",
+    "title": "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models",
+    "summary": "Data-driven autonomous driving simulation has long been constrained by its heavy reliance on pre-recorded driving logs or spatial priors, such as HD maps. This fundamental dependency severely limits scalability, restricting open-ended generation capabilities to the finite scale of existing collected datasets. To break this bottleneck, we present OccSim, the first 3D occupancy world model driven simulator that requires neither HD maps nor log-derived layouts. OccSim obviates the requirement for continuous logs or HD maps; conditioned only on a single initial frame and a sequence of future ego-actions. It can stably generate over 3000 continuous frames, an 80x improvement in stable generation length over previous SoTA occupancy world models, and fuses them into maps spanning over 9 kilometers. Further qualitative stress tests show that it can roll out beyond 110K frames. OccSim is powered by two modules: W-DiT based static occupancy world model and the Layout Generator. W-DiT handles the ultra-long-horizon generation of static environments by explicitly introducing known rigid transformations in architecture design, while the Layout Generator populates the dynamic foreground with reactive agents based on the synthesized road topology. With these designs, OccSim can synthesize massive, diverse simulation streams. Extensive experiments demonstrate its downstream utility: data collected directly from OccSim can pre-train 4D semantic occupancy forecasting models to achieve up to 67% zero-shot performance on unseen data, outperforming previous asset-based simulator by 11%. When the collected data is scaled up to 5x its original size, zero-shot performance increases to 74%.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T20:45:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.28887v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

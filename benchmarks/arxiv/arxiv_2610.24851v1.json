@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24851v1",
+  "schema_version": "1.0",
+  "name": "MisleadQA: Diagnosing LLM Failures under Misleading Context",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24851v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24851v1",
+    "updated": "2026-10-17T19:58:32Z",
+    "published": "2026-10-17T19:58:32Z",
+    "title": "MisleadQA: Diagnosing LLM Failures under Misleading Context",
+    "summary": "Large language models (LLMs) are widely used to answer questions from retrieved or user-provided context. However, provided context can be factually true yet out-of-scope, describing a different entity, time, or location from the one the question targets, and still lead models to a wrong answer. Prior work has mainly studied factually false or irrelevant context. It remains unclear whether such out-of-scope context misleads models as much as false context, and whether adding gold context prevents models from being misled by either. We introduce **MisleadQA**, a diagnostic dataset of multiple-choice questions with an abstention option. Each question pairs gold context (G) with true but out-of-scope context (S) and false but in-scope context (F) supporting the same wrong answer. We evaluate six open-weight LLMs. On questions they answer correctly without context, providing S alone leads them to switch to this wrong answer in 29.3% of cases, and providing F alone does so in 75.4%. Adding G nearly removes the effect of S, but F still misleads models in 21.0% of cases, especially when F comes first. A context-faithful instruction reduces these errors mainly through abstention and lowers accuracy even with G. These findings suggest that evaluations should check whether context applies to the question, not only whether it is true, and should report correct, misled, and abstention rates together. Data and code are available at [https://anonymous.4open.science/r/MisleadQA](https://anonymous.4open.science/r/MisleadQA).",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T19:58:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24851v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

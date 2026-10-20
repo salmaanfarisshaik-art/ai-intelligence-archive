@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24789v1",
+  "schema_version": "1.0",
+  "name": "IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24789v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24789v1",
+    "updated": "2026-10-17T17:28:51Z",
+    "published": "2026-10-17T17:28:51Z",
+    "title": "IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text",
+    "summary": "Industrial assemblies require more than a recognizable shape: functional parts, interfaces, dimensions and service features must satisfy a detailed request together. We introduce IndustrialCAD-1400, a text-to-CAD benchmark for this industrial setting. Its 1,400 requests combine 400 equipment categories across 40 domains with 250 four-case design families. Family requests specify a median of 17 named component or configuration roles and six explicit numeric targets; controlled variants test whether dimensions change while shared structure is retained. Task construction draws on documented manufacturer information, owner specifications and engineering guidance. Models generate geometry programs from requests, and a common Blender environment executes them to produce scenes, optional measurements, and standardized views for evaluation. A request assessment of front, isometric, and top views measures visible component, arrangement, and interface fulfillment without requiring a single reference geometry. Five stratified panels preserve complete families while covering the benchmark exactly once, enabling balanced comparisons and separating industrial breadth from controlled numerical responsiveness. In conclusion, IndustrialCAD-1400 extends text-to-CAD from recognizable part geometry to industrial assembly synthesis under joint component, interface, spatial, and numerical specifications.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T17:28:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24789v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

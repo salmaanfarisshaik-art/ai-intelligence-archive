@@ -2265,3 +2265,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23716v1](http://arxiv.org/abs/2610.23716v1)
 
+## First-Order LoRA Training with Phone NPUs
+- **ID**: arxiv_2610.24816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24816v1](http://arxiv.org/abs/2610.24816v1)
+
+## Pair-Aware Optimization: Coordinating Exploration and Refinement for Jailbreaking LLM Agents
+- **ID**: arxiv_2610.24823v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24823v1](http://arxiv.org/abs/2610.24823v1)
+
+## RAFT: Redundancy-Aware Input Filtering for Temporal Graph Neural Network Training
+- **ID**: arxiv_2610.24875v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24875v1](http://arxiv.org/abs/2610.24875v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.14590v2",
+  "schema_version": "1.0",
+  "name": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.14590v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.14590v2",
+    "updated": "2026-10-17T17:11:48Z",
+    "published": "2026-06-22T21:03:26Z",
+    "title": "Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement",
+    "summary": "Large Language Model (LLM) agents take irreversible real-world actions, yet no system gives formally grounded, task-level safety guarantees for their plans. We examined this gap in a PRISMA 2020 systematic review of six databases (20-29 May 2026) covering LLM agent specification, verification, and enforcement (2022-2026). We narratively synthesized 38 studies, assessed risk of bias per study, and graded evidence certainty with GRADE. First, specification is the bottleneck: natural-language-to-formal translation reaches only 24.8-34.2% semantic correctness on one Planning Domain Definition Language (PDDL) benchmark. Second, runtime monitoring is the most mature enforcement strategy, reducing unsafe actions by 65.37% in one household-agent study, without complete guarantees. Third, in one $τ$-Bench study of transactional tool-use agents, blocking 94% of unsafe actions left safe task completion below 5%, as agents found unsafe alternatives (the verifier tax). Fourth, no approach simultaneously achieves soundness, completeness, scalability, semantic grounding, and utility preservation. We contribute a three-level taxonomy and a ten-problem research agenda.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T17:11:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.14590v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

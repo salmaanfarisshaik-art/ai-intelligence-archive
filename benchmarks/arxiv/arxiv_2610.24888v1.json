@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24888v1",
+  "schema_version": "1.0",
+  "name": "Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24888v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24888v1",
+    "updated": "2026-10-17T22:09:17Z",
+    "published": "2026-10-17T22:09:17Z",
+    "title": "Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures",
+    "summary": "Diversity is a critical property of text corpora, with direct implications for training data curation, test set design, and model generalization. However, its measurement remains fragmented and poorly understood. Existing embedding-based diversity measures vary widely in how they are computed and can yield substantially different diversity scores on the same data, yet no systematic comparison of their empirical behaviour exists. We make two contributions toward addressing this gap. First, we present a taxonomy of 21 embedding-based diversity measures, organizing them into four families based on their underlying computations. Second, we introduce EmbDivBench, a benchmark that evaluates these measures along three conceptually distinct components (variety, balance and disparity) on both simulated and natural text data. Although Mean Pairwise Distance is the most commonly used measure, our experiments show that it is outperformed by several alternatives on the three diversity components, with Graph Entropy being the best choice overall. Lastly, we distil these findings into practical recommendations for diversity measure selection.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T22:09:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24888v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

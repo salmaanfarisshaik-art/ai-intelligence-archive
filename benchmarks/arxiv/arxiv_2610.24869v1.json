@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24869v1",
+  "schema_version": "1.0",
+  "name": "SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24869v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24869v1",
+    "updated": "2026-10-17T21:18:56Z",
+    "published": "2026-10-17T21:18:56Z",
+    "title": "SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay",
+    "summary": "Video generation models synthesize visual sequences from text and image inputs. Extending video generation to long animations requires actions, dialogue, camera coverage, and narrative developments to remain coordinated across scenes. Executable scene programs make these decisions available for inspection. Constructing an entire story before observing its execution can leave later scenes dependent on unrealized events. We present SpriteStage, a progressive scene programming framework that builds animation through iterative enactment and engine reorchestration. Iterative enactment generates each scene from an accepted world checkpoint and narrative snapshot, executes it on a shared spatial stage, and uses runtime and visual feedback to revise the relevant actions or story beats. The accepted outcome becomes the starting state for the next scene. Engine reorchestration maps the resulting draft to production assets and engine capabilities while retaining its events, geometry, and timing. Inspection of the assembled sequence and frozen replay carry the accepted performance into the final video. Three complete animations, ranging from approximately 9.9 to 14.3 minutes, demonstrate the framework's effectiveness in producing extended narratives through scene programming and engine execution.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T21:18:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24869v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

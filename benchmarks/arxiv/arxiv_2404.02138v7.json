@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2404.02138v7",
+  "schema_version": "1.0",
+  "name": "Topic-Based Watermarks for Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2404.02138v7",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2404.02138v7",
+    "updated": "2026-10-17T18:59:00Z",
+    "published": "2024-04-02T17:49:40Z",
+    "title": "Topic-Based Watermarks for Large Language Models",
+    "summary": "The indistinguishability of large language model (LLM) output from human-authored content poses significant challenges, raising concerns about potential misuse of AI-generated text and its influence on future model training. Watermarking algorithms offer a viable solution by embedding detectable signatures into generated text. However, existing watermarking methods often involve trade-offs among attack robustness, generation quality, and additional overhead such as specialized frameworks or complex integrations. We propose a lightweight, topic-guided watermarking scheme for LLMs that partitions the vocabulary into topic-aligned token subsets. Given an input prompt, the scheme selects a relevant topic-specific token list, effectively \"green-listing\" semantically aligned tokens to embed robust marks while preserving fluency and coherence. Experimental results across multiple LLMs and state-of-the-art benchmarks demonstrate that our method achieves text quality comparable to industry-leading systems and simultaneously improves watermark robustness against paraphrasing and lexical perturbation attacks, with minimal performance overhead. Our approach avoids reliance on additional mechanisms beyond standard text generation pipelines, enabling straightforward adoption and suggesting a practical path toward globally consistent watermarking of AI-generated content.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:59:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2404.02138v7"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

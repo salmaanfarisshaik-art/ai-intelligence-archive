@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24823v1",
+  "schema_version": "1.0",
+  "name": "Pair-Aware Optimization: Coordinating Exploration and Refinement for Jailbreaking LLM Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24823v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24823v1",
+    "updated": "2026-10-17T19:13:37Z",
+    "published": "2026-10-17T19:13:37Z",
+    "title": "Pair-Aware Optimization: Coordinating Exploration and Refinement for Jailbreaking LLM Agents",
+    "summary": "Large Language Model (LLM) agents are vulnerable to adversarial inputs that induce attacker-specified malicious behaviors, commonly referred to as jailbreaking. Existing optimization-based jailbreak attacks primarily employ first-order (FO) methods that leverage gradient information or zeroth-order (ZO) methods that rely on function-value feedback. However, their complementarity and optimization ordering remain underexplored. We systematically investigate four strategies: pure ZO, pure FO, ZO->FO, and FO->ZO, and develop a ZO-FO framework that explores adversarial prefixes through ZO optimization and refines their corresponding suffixes through FO optimization. To coordinate the two processes, we introduce Pair-aware optimization, which retains multiple prefix candidates, conditionally refines their suffixes and selects among the resulting prefix-suffix pairs. We further investigate agent jailbreaking from a more general stochastic-generation perspective, where the same adversarial input can induce diverse reasoning trajectories and actions that a single greedy output cannot capture. Accordingly, we adopt consistent stochastic decoding during both optimization and evaluation. Experiments across malicious-instruction and malicious-environment benchmarks demonstrate that hybrid optimization improves attack effectiveness over single-optimizer methods, while optimization order substantially influences performance.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T19:13:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24823v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

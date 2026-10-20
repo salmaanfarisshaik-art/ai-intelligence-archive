@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24872v1",
+  "schema_version": "1.0",
+  "name": "The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24872v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24872v1",
+    "updated": "2026-10-17T21:20:23Z",
+    "published": "2026-10-17T21:20:23Z",
+    "title": "The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check",
+    "summary": "Jailbreak papers report an attack success rate, the share of responses that deliver the harmful request, and read it as a property of the target model. We hold the target model, the prompts and the responses fixed and change only the grader. Three dense graders of 8B and 9B parameters, from three model families, move compliant responses to the neighbouring class, evasion, instead of scattering them across classes. One of them assigns the compliance label zero times in 900 responses. This class collapse also appears on new harmful requests, on a target model from a third family, and in a held-out 7B grader from a fourth family. Per-class label counts expose it at no cost and without human labels. The collapse decides how the rate behaves under a change of grader. On two corpora of 900 responses and eight graders, the compliance rate differs by a factor of 22 to 25, while the non-refusal rate differs by 18 to 23 percentage points. Without the three collapsing graders, compliance differs by a factor of 1.7 to 2.8 on all four corpora, and non-refusal still differs by 10 to 22 points. These results do not change when every grader is called once. We propose a reporting minimum that keeps the compliance rate and adds its per-class label counts and the named grader. Beside it goes the non-refusal rate, whose disagreement across graders is additive.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T21:20:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24872v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

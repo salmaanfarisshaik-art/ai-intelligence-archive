@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24798v1",
+  "schema_version": "1.0",
+  "name": "Table Serialization Determines Which Relations Language Models Preserve",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24798v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24798v1",
+    "updated": "2026-10-17T18:07:24Z",
+    "published": "2026-10-17T18:07:24Z",
+    "title": "Table Serialization Determines Which Relations Language Models Preserve",
+    "summary": "We study how text serialization affects table lookup in instruction-tuned language models. Our diagnostic asks the model to find the row containing a specified value under one named column, then return the value under another named column in that same row. We render the same synthetic 256-cell tables in row-major form and in column-major form with each header placed beside its values, while varying the table aspect ratio across five shapes. Across three models, the better format changes with table shape: row-major performs better on tall tables, whereas column-major performs better on wide tables. At 64 x 4, row-major leads by 42.3-54.0 percentage points; at 4 x 64, column-major leads by 35.0-59.0 points. Mapping wrong answers back to their source cells reveals a complementary error pattern: row-major tends to preserve the correct row but lose the target column, while column-major tends to preserve the correct column but lose the row. We use the term relational locality to describe this pattern: serialization keeps one relation locally available while making the other depend on positional alignment. A separate non-tabular ordering experiment supports this interpretation. Thus, apparent width-related failures in text-serialized tables depend on linearization, not table shape alone.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:07:24Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24798v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

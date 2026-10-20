@@ -210,3 +210,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13810v1](http://arxiv.org/abs/2610.13810v1)
 
+## Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval
+- **ID**: arxiv_2610.14465v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14465v2](http://arxiv.org/abs/2610.14465v2)
+

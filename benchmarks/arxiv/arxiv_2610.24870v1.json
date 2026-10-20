@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24870v1",
+  "schema_version": "1.0",
+  "name": "Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24870v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.AS",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24870v1",
+    "updated": "2026-10-17T21:19:12Z",
+    "published": "2026-10-17T21:19:12Z",
+    "title": "Dual Task Vector Merging: Leveraging Emotion and ASR Knowledge for Low-Resource Alzheimer's Disease Detection",
+    "summary": "Alzheimer's Disease (AD) detection from speech benefits from both paralinguistic and linguistic cues, yet model training is frequently constrained by limited data. Fine-tuning a large pretrained speech encoder can easily overfit, while a frozen probe leaves the encoder's task-relevant knowledge underutilized. Therefore, we propose Dual Task Vector Merging, a parameter-efficient method that adapts a frozen wav2vec 2.0 backbone using task knowledge learned outside the AD task. Specifically, we inject two task vectors, derived as weight deltas from emotion- and ASR-fine-tuned wav2vec 2.0 models, into each transformer layer. During AD training, only layer-wise merging coefficients and a linear classification head are optimized, updating less than 0.1% of the parameters required for full fine-tuning. Speaker-independent experiments on ADReSS and ADReSSo show that dual merging improves over frozen probes, LoRA, and full fine-tuning, in the main binary settings, and gives the best results when combined with LoRA. Evaluation on PROCESS further shows that our advantages transfer to three-class HC/MCI/dementia classification when paired with LoRA. Experiments under reduced training data (20%, 40%, and 80%) confirm reliable gains in low-resource settings.",
+    "primary_category": "eess.AS"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T21:19:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24870v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

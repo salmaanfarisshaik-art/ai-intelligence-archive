@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.40124v2",
+  "schema_version": "1.0",
+  "name": "Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.40124v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.40124v2",
+    "updated": "2026-10-17T19:06:49Z",
+    "published": "2026-09-30T16:46:19Z",
+    "title": "Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions",
+    "summary": "Bias has long been studied in social psychology and cognitive science, where decades of research have produced a body of validated interventions that reduce stereotypical thinking and prejudiced responses in humans. We propose Debias It Yourself (DIY), a cognitively grounded framework that translates five such interventions into debiasing procedures for large language models and delivers them through three established paradigms: Show (in-context examples), Train (instruction tuning), and Revise (guided self-revision). Across three models, five bias benchmarks, eleven debiasing baselines, and three reasoning benchmarks, Train+Revise and Revise alone attain the top two average ranks, lead the bias-reasoning tradeoff (mean bias as low as 2% at 90% reasoning accuracy), and reduce bias on unseen dimensions by up to 14.8%. Our code and data are publicly available.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T19:06:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.40124v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

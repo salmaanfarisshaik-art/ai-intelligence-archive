@@ -345,6 +345,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.02489v2](http://arxiv.org/abs/2511.02489v2)
 
+## SiLVi: Simple Interface for Labeling Video Interactions
+- **ID**: arxiv_2511.03819v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.03819v3](http://arxiv.org/abs/2511.03819v3)
+
 ## Towards Mitigating Hallucinations in Large Vision-Language Models by Refining Textual Embeddings
 - **ID**: arxiv_2511.05017v3
 - **Source**: ArXiv
@@ -655,6 +660,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.23488v3](http://arxiv.org/abs/2603.23488v3)
 
+## Estimating Individual Tree Height and Species from UAV Imagery
+- **ID**: arxiv_2603.23669v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.23669v3](http://arxiv.org/abs/2603.23669v3)
+
 ## Fast Preemptive Robustification: High-Frequency Response Anti-Aligns Shared Vulnerability
 - **ID**: arxiv_2603.25244v2
 - **Source**: ArXiv
@@ -684,6 +694,11 @@
 - **ID**: arxiv_2603.28763v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.28763v2](http://arxiv.org/abs/2603.28763v2)
+
+## OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models
+- **ID**: arxiv_2603.28887v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.28887v2](http://arxiv.org/abs/2603.28887v2)
 
 ## SceneTeract: Probing and Improving Agent-Aware Activity Reasoning in 3D Indoor Scenes
 - **ID**: arxiv_2603.29798v2
@@ -744,6 +759,11 @@
 - **ID**: arxiv_2604.10259v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10259v2](http://arxiv.org/abs/2604.10259v2)
+
+## At FullTilt: Real-Time Open-Set 3D Macromolecule Detection Directly from Tilted 2D Projections
+- **ID**: arxiv_2604.10766v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.10766v6](http://arxiv.org/abs/2604.10766v6)
 
 ## A Lightweight Multi-Metric No-Reference Image Quality Assessment Framework for UAV Imaging
 - **ID**: arxiv_2604.13112v2
@@ -5755,6 +5775,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10539v1](http://arxiv.org/abs/2610.10539v1)
 
+## Stride Independent Patching for Deep Learning
+- **ID**: arxiv_2610.12216v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12216v2](http://arxiv.org/abs/2610.12216v2)
+
 ## AgentGarten: Code Worlds for Evolving Agents
 - **ID**: arxiv_2610.12374v1
 - **Source**: ArXiv
@@ -6344,4 +6369,54 @@
 - **ID**: arxiv_2610.23856v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23856v1](http://arxiv.org/abs/2610.23856v1)
+
+## Video-Language Entailment for Video Similarity Estimation
+- **ID**: arxiv_2610.24786v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24786v1](http://arxiv.org/abs/2610.24786v1)
+
+## UniAVC: Unified Audio-Video Creation via Progressive Training and Asymmetric Scheduling
+- **ID**: arxiv_2610.24791v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24791v1](http://arxiv.org/abs/2610.24791v1)
+
+## Directionally Factorized Illumination with Spherical Harmonic Rotation
+- **ID**: arxiv_2610.24811v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24811v1](http://arxiv.org/abs/2610.24811v1)
+
+## SwitchSplat: Learning Discrete Object States from Casually Captured Scenes
+- **ID**: arxiv_2610.24812v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24812v1](http://arxiv.org/abs/2610.24812v1)
+
+## SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection
+- **ID**: arxiv_2610.24814v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24814v1](http://arxiv.org/abs/2610.24814v1)
+
+## VTF900: A 900-Subject Visible-Thermal Face Recognition Dataset and Benchmark
+- **ID**: arxiv_2610.24832v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24832v1](http://arxiv.org/abs/2610.24832v1)
+
+## PCHMR: Empowering and Benchmarking Human Mesh Recovery in Privacy-Constrained Real-World Settings
+- **ID**: arxiv_2610.24841v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24841v1](http://arxiv.org/abs/2610.24841v1)
+
+## Arbitrary-Scale Anisotropic 3D MRI Super-Resolution with Gaussian Prototypes
+- **ID**: arxiv_2610.24858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24858v1](http://arxiv.org/abs/2610.24858v1)
+
+## SpriteStage: Long Horizon Animation Generation via Progressive Scene Programming and Replay
+- **ID**: arxiv_2610.24869v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24869v1](http://arxiv.org/abs/2610.24869v1)
+
+## Goal Images Are Control Targets: Spatially-Grounded Goal-Image Synthesis for Robotic Manipulation
+- **ID**: arxiv_2610.24885v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24885v1](http://arxiv.org/abs/2610.24885v1)
 

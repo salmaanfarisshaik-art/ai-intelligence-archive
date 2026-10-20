@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24786v1",
+  "schema_version": "1.0",
+  "name": "Video-Language Entailment for Video Similarity Estimation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24786v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24786v1",
+    "updated": "2026-10-17T17:24:59Z",
+    "published": "2026-10-17T17:24:59Z",
+    "title": "Video-Language Entailment for Video Similarity Estimation",
+    "summary": "Comparing videos to assess their semantic similarity remains a challenging task for current Large Multimodal Models (LMMs), which are primarily trained with single-video objectives. While most prior works have focused on computing global similarity, recent studies have introduced the more challenging problem of concept-based similarity, which measures how similar two videos are with respect to specific concepts (e.g., activity, location). However, no dedicated approaches have yet leveraged LMMs to explicitly address this task. In this paper, we aim to fill this gap introducing Video Caption Entailment for video similarity estimation (VICE): a dual-branch design that leverages LMMs for cross-video reasoning. Each branch jointly processes one video and the caption of the other, measuring their alignment for a specific concept via video-language entailment. The outputs from both branches are fused to produce a final similarity score, along with a textual explanation of the model reasoning. This approach leverages the model's native single-video understanding while enabling fine-grained comparative reasoning between video and text. Experiments on ConViS-Bench and StepDiff show that VICE outperforms models that process both videos simultaneously, highlighting the promise of single-video reasoning for concept-based similarity estimation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T17:24:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24786v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

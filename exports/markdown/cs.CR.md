@@ -10,6 +10,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2403.15509v3](http://arxiv.org/abs/2403.15509v3)
 
+## Topic-Based Watermarks for Large Language Models
+- **ID**: arxiv_2404.02138v7
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2404.02138v7](http://arxiv.org/abs/2404.02138v7)
+
+## The Feasibility of Topic-Based Watermarking on Academic Peer Reviews
+- **ID**: arxiv_2505.21636v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.21636v3](http://arxiv.org/abs/2505.21636v3)
+
 ## Mitigating Watermark Forgery in Generative Models via Randomized Key Selection
 - **ID**: arxiv_2507.07871v5
 - **Source**: ArXiv
@@ -44,6 +54,11 @@
 - **ID**: arxiv_2602.14211v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14211v3](http://arxiv.org/abs/2602.14211v3)
+
+## Authenticated Contradictions from Desynchronized Provenance and Watermarking
+- **ID**: arxiv_2603.02378v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.02378v3](http://arxiv.org/abs/2603.02378v3)
 
 ## Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Five Production LLMs
 - **ID**: arxiv_2603.28013v4
@@ -424,4 +439,14 @@
 - **ID**: arxiv_2610.18787v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18787v1](http://arxiv.org/abs/2610.18787v1)
+
+## LLM Trojans that Increase Response Lengths and Cost
+- **ID**: arxiv_2610.24784v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24784v1](http://arxiv.org/abs/2610.24784v1)
+
+## The Missing Compliance Class: LLM Graders That Collapse Jailbreak Success, and a Free Check
+- **ID**: arxiv_2610.24872v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24872v1](http://arxiv.org/abs/2610.24872v1)
 

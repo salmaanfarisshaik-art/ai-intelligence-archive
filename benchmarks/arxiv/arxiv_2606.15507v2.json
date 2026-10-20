@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15507v2",
+  "schema_version": "1.0",
+  "name": "Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15507v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15507v2",
+    "updated": "2026-10-17T19:24:08Z",
+    "published": "2026-06-13T23:24:36Z",
+    "title": "Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning",
+    "summary": "This exploratory observational study uses the Transluce platform to analyze the internal activity of Llama 3.1-8B-Instruct on 54 moral prompts in four batteries: dilemmas, policy, and meta-ethical questions (B1, 17); role-playing scenarios (B3, 6); and a structured trolley comparison varying the switching mechanism (B4, 15) or the people's identity attributes (B5, 16) with the other fixed. We record each surfaced neuron's normalized activation score, identity, and description and each cluster's title and size, classify them by an explicit description rule, and measure the prevalence and ranking of ethics-labeled neurons and clusters, the neurons' activation scores, and the model's verdicts and stated confidence. Prevalence is similar across batteries (about 5% of retained neuron rows) while ranking differs: in the trolley batteries the first ethics-labeled row has median position 3, versus 9 in B1 and B3, ethics labels are about four times as frequent among the ten highest-scoring rows as overall, and ethics-labeled rows have a higher mean activation score than other rows within prompts (47 of 54). We observe situational anchoring: prompt-setting vocabulary appears in prominent cluster titles and selected high-ranked neuron descriptions. B4-vs-B5 First Rank and Priority Ratio contrasts detect no difference. With one retained response per prompt, the coded outcomes for the 31 trolley responses are 19 recommending intervention, one recommending non-intervention, and 11 giving no definite recommendation. We distinguish prevalence, ranking, behavior, and causal contribution as audit targets, measure the first three, offer frame-conditioned moral computation as an organizing hypothesis with stated tests, and propose mechanistic alignment, causal responsibility of ethically relevant features under controlled frame variation, as a criterion admitting distributed implementations.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T19:24:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15507v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

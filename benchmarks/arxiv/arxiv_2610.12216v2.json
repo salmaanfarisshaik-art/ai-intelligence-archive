@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.12216v2",
+  "schema_version": "1.0",
+  "name": "Stride Independent Patching for Deep Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.12216v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.12216v2",
+    "updated": "2026-10-17T18:41:57Z",
+    "published": "2026-10-08T16:02:48Z",
+    "title": "Stride Independent Patching for Deep Learning",
+    "summary": "This paper presents semi-automatic stride-independent patching (SSP) as an alternative to automatic stride-dependent patching techniques. SSP uses user or expert input to position predefined patches over one or more objects of interest. To evaluate its effectiveness, three patch-based datasets were created using SSP, overlapping patching (Overlap), and non-overlapping patching (Noverlap). DeepLabV3+ models with ResNet50, ResNet18, and MobileNetV2 backbones were trained sepa-rately on each dataset. Quantitative evaluations were performed on the respective test splits and a common external test set. SSP generally achieved higher segmentation scores on the test splits and required the shortest model training time across all three backbones. On the external test set, SSP achieved the highest average precision and F1-score across backbones, whereas Noverlap achieved the highest average recall. These preliminary results demonstrate that the potentially greater spatial coverage of Noverlap and Overlap did not generally translate into better segmentation perfor-mance and that SSP offers a favorable balance between segmentation performance and model training time.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:41:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.12216v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

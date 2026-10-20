@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.03819v3",
+  "schema_version": "1.0",
+  "name": "SiLVi: Simple Interface for Labeling Video Interactions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.03819v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.03819v3",
+    "updated": "2026-10-17T21:22:51Z",
+    "published": "2025-11-05T19:39:00Z",
+    "title": "SiLVi: Simple Interface for Labeling Video Interactions",
+    "summary": "Computer vision methods are increasingly used for the automated analysis of large volumes of video data collected through camera traps, drones, or direct observations of animals in the wild. While recent advances have focused primarily on detecting individual actions, much less work has addressed the detection and annotation of interactions -- a crucial aspect for understanding social and individualized animal behavior. Existing open-source annotation tools support either behavioral labeling without localization of individuals, or localization without the capacity to capture interactions. To bridge this gap, we present SiLVi, an open-source labeling software that integrates both functionalities. SiLVi enables researchers to annotate behaviors and interactions directly within video data, generating structured outputs suitable for training and validating computer vision models. By linking behavioral ecology with computer vision, SiLVi facilitates the development of automated approaches for fine-grained behavioral analyses. Although developed primarily in the context of animal behavior, SiLVi could be useful more broadly to annotate human interactions in other videos that require extracting dynamic scene graphs. The software, along with documentation and download instructions, is available at: https://silvi.ozankanbertay.com.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T21:22:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.03819v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

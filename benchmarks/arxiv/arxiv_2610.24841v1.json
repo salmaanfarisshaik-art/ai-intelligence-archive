@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24841v1",
+  "schema_version": "1.0",
+  "name": "PCHMR: Empowering and Benchmarking Human Mesh Recovery in Privacy-Constrained Real-World Settings",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24841v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24841v1",
+    "updated": "2026-10-17T19:46:23Z",
+    "published": "2026-10-17T19:46:23Z",
+    "title": "PCHMR: Empowering and Benchmarking Human Mesh Recovery in Privacy-Constrained Real-World Settings",
+    "summary": "Fine-tuning directly on user-side data is an effective way to improve the performance of widely adopted data-driven human mesh recovery (HMR) models. However, doing so for existing HMR methods often assumes aggregating user-side data from real-world HMR-deployed devices to a central training server, posing a significant privacy risk as sensitive human images are transmitted. How can human mesh recovery be evaluated and improved in privacy-constrained real-world settings? We study this question through a benchmark in which state-of-the-art HMR models are trained with federated learning and a secure-aggregation variant, neither of which centralizes raw images, and evaluated across a wide range of client-scale and data-heterogeneity settings. We document that common HMR training pipelines are built around centralized data access and quantify how representative HMR backbones behave when that assumption is removed. Furthermore, to study the data bottleneck of privacy-constrained HMR training, we propose DePoser, a local annotation and fine-tuning pipeline enhanced with depth foundation models, with which collaboratively trained HMR models can be locally tailored to the end user's distribution. On in-the-wild data, fine-tuning on DePoser annotations improves personalization accuracy, measured against DePoser-generated pseudo-ground truth. This benchmark aims to support future work on privacy-constrained HMR models and their real-world deployment and evaluation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T19:46:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24841v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

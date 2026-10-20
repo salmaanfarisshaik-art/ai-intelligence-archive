@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.11230v2",
+  "schema_version": "1.0",
+  "name": "The edge-based contiguous p-median problem: exact formulations and strengthening inequalities",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.11230v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.11230v2",
+    "updated": "2026-10-17T18:21:25Z",
+    "published": "2026-07-30T03:49:03Z",
+    "title": "The edge-based contiguous p-median problem: exact formulations and strengthening inequalities",
+    "summary": "This paper introduces the edge-based contiguous p-median (ECpM) problem, which partitions the roads in a network into a given number of compact and contiguous territories. We develop two binary programming formulations that minimize the total network distance from each road to its assigned center node. The first uses an exponential number of cut-set contiguity (CSC) constraints and is solved with a branch-and-cut (B&C) algorithm that checks incumbent solutions for contiguity and adds violated CSC constraints as needed. The second is a compact formulation that imposes a stronger form of contiguity through shortest-path contiguity (SPC) constraints. These constraints are added up front, and the formulation is solved directly with an off-the-shelf solver. Despite this stronger requirement, we show that SPC-based ECpM has the same optimal objective value as ECpM with general contiguity and even the relaxed edge-based p-median (EpM). As a result, the SPC constraints preserve at least one optimal EpM solution and can therefore strengthen the EpM formulation. We also establish three structural properties of ECpM solutions and use them to derive three families of inequalities that further strengthen these formulations. Computational experiments on 84 instances from 14 real-world road networks show that adding the SPC constraints to EpM enables all instances to be solved to optimality and reduces solution times. In contrast, EpM without these constraints and CSC-based ECpM reach the time limit on six and eight instances, respectively. The proposed inequalities reduce both counts to one and further reduce solution times.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:21:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.11230v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

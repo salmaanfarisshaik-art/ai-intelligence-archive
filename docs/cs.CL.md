@@ -118,6 +118,7 @@
 | [ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages](http://arxiv.org/abs/2606.13572v1) | ArXiv |  | 1 |
 | [Artificial Epanorthosis: Why large language models overuse a classical rhetorical figure, and how to mitigate it](http://arxiv.org/abs/2607.21498v1) | ArXiv |  | 1 |
 | [Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)](http://arxiv.org/abs/2510.22954v2) | ArXiv |  | 1 |
+| [Ask, Don't Guess: Targeted Clarification for Speech Recognition Errors](http://arxiv.org/abs/2610.24809v1) | ArXiv |  | 1 |
 | [AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis](http://arxiv.org/abs/2607.28618v1) | ArXiv |  | 1 |
 | [Aspire: Can Models Self-Evolve from Vague Goals?](http://arxiv.org/abs/2608.31111v1) | ArXiv |  | 1 |
 | [ASyMOB: Algebraic Symbolic Mathematical Operations Benchmark](http://arxiv.org/abs/2505.23851v3) | ArXiv |  | 1 |
@@ -232,6 +233,7 @@
 | [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses](http://arxiv.org/abs/2606.18222v1) | ArXiv |  | 1 |
 | [DataKernelBench: Can LLMs Optimize Database Queries on GPUs?](http://arxiv.org/abs/2608.25061v2) | ArXiv |  | 1 |
 | [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1) | ArXiv |  | 1 |
+| [Debias It Yourself: Teaching LLMs Cognitive Bias Mitigation Interventions](http://arxiv.org/abs/2609.40124v2) | ArXiv |  | 1 |
 | [Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness](http://arxiv.org/abs/2608.09900v1) | ArXiv |  | 1 |
 | [Decomposing Error and Style in Automated Clinical Coding](http://arxiv.org/abs/2609.24877v1) | ArXiv |  | 1 |
 | [DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents](http://arxiv.org/abs/2606.17029v1) | ArXiv |  | 1 |
@@ -274,6 +276,7 @@
 | [EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering](http://arxiv.org/abs/2509.25175v3) | ArXiv |  | 1 |
 | [ECHO: A Matched-Contrast Benchmark for Context-Sensitive Turn-Taking in Full-Duplex Dialogue](http://arxiv.org/abs/2609.17360v1) | ArXiv |  | 1 |
 | [EchoDistill: Robust Large Audio Language Models via Noisy-to-Clean Self-Distillation](http://arxiv.org/abs/2605.23954v2) | ArXiv |  | 1 |
+| [Efficiency Measured in English: Tokeniser Coverage Bounds Small Language Models on Indic Scripts](http://arxiv.org/abs/2610.24818v1) | ArXiv |  | 1 |
 | [ELF-REG: Scaling Continuous Diffusion Language Models to Reasoning Tasks](http://arxiv.org/abs/2609.29102v2) | ArXiv |  | 1 |
 | [Embedding Models Measure in Peculiar Ways](http://arxiv.org/abs/2609.20821v1) | ArXiv |  | 1 |
 | [EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1) | ArXiv |  | 1 |
@@ -348,6 +351,7 @@
 | [HarmThoughts: A Benchmark for Fine-Grained Harmful Behavior Detection in Reasoning Traces](http://arxiv.org/abs/2604.19001v2) | ArXiv |  | 1 |
 | [Harness Learning Enables Generalizable Test-Time Adaptation](http://arxiv.org/abs/2609.35738v1) | ArXiv |  | 1 |
 | [HerHealthEval: Evaluating Multilingual and Register-Sensitive Understanding of Women's Health Communication](http://arxiv.org/abs/2609.20684v1) | ArXiv |  | 1 |
+| [HERO: Harnessing Evidence for Test-time Refinement and Prompt Optimization in Program Generation](http://arxiv.org/abs/2610.19184v2) | ArXiv |  | 1 |
 | [Hierarchical Continuous Diffusion Language Models](http://arxiv.org/abs/2610.02193v1) | ArXiv |  | 1 |
 | [Hindsight Memory-PRM: Supervising Memory Management with Auditable Hindsight Credit](http://arxiv.org/abs/2608.29605v1) | ArXiv |  | 1 |
 | [Hindsight-Guided Rationale Distillation for Rare Disease Diagnosis](http://arxiv.org/abs/2610.03176v1) | ArXiv |  | 1 |
@@ -436,6 +440,7 @@
 | [Learning to Coach for Experiential Learning](http://arxiv.org/abs/2609.15851v1) | ArXiv |  | 1 |
 | [Learning to Diagnose and Correct Errors: Towards Moral Sensitivity Acquisition in Large Language Models](http://arxiv.org/abs/2601.03079v5) | ArXiv |  | 1 |
 | [Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents](http://arxiv.org/abs/2608.31076v1) | ArXiv |  | 1 |
+| [Learning to Program Retrievals: Composing Search Primitives via Reinforcement Learning](http://arxiv.org/abs/2610.24854v1) | ArXiv |  | 1 |
 | [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1) | ArXiv |  | 1 |
 | [Learning to Reason for Factuality](http://arxiv.org/abs/2508.05618v2) | ArXiv |  | 1 |
 | [Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1) | ArXiv |  | 1 |
@@ -479,6 +484,7 @@
 | [MathAdv: What Theorem Provers Know, Reason, Formalize, and Generalize](http://arxiv.org/abs/2608.25449v2) | ArXiv |  | 1 |
 | [Mawqif-XT: An Arabic Benchmark Dataset for Cross-Target Stance Detection](http://arxiv.org/abs/2608.09539v3) | ArXiv |  | 1 |
 | [Measuring AI "Slop" in Text](http://arxiv.org/abs/2509.19163v3) | ArXiv |  | 1 |
+| [Measuring Data Diversity with Embeddings: A Taxonomy and Benchmark for Diversity Measures](http://arxiv.org/abs/2610.24888v1) | ArXiv |  | 1 |
 | [Measuring LLM Sycophancy under Sustained Multi-Turn Pressure](http://arxiv.org/abs/2609.09090v1) | ArXiv |  | 1 |
 | [Measuring Task-Agnostic Training Data Influence Across Language Model Pretraining](http://arxiv.org/abs/2608.13515v1) | ArXiv |  | 1 |
 | [Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation](http://arxiv.org/abs/2609.26693v1) | ArXiv |  | 1 |
@@ -501,6 +507,7 @@
 | [Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States](http://arxiv.org/abs/2609.15972v1) | ArXiv |  | 1 |
 | [MindEval2: Clinically Grounded Patients and Rubrics for Evaluating Language Models in Mental Health Support](http://arxiv.org/abs/2610.22314v1) | ArXiv |  | 1 |
 | [MineDraft: A Framework for Batch Parallel Speculative Decoding](http://arxiv.org/abs/2603.18016v3) | ArXiv |  | 1 |
+| [MisleadQA: Diagnosing LLM Failures under Misleading Context](http://arxiv.org/abs/2610.24851v1) | ArXiv |  | 1 |
 | [MIXAR: Scaling Autoregressive Pixel-based Language Models to Multiple Languages and Scripts](http://arxiv.org/abs/2604.11575v2) | ArXiv |  | 1 |
 | [MKJ at SemEval-2026 Task 9: A Comparative Study of Generalist, Specialist, and Ensemble Strategies for Multilingual Polarization](http://arxiv.org/abs/2604.21370v2) | ArXiv |  | 1 |
 | [MMLA: How Memory Lets the Past Shape the Future](http://arxiv.org/abs/2606.28876v3) | ArXiv |  | 1 |
@@ -718,6 +725,7 @@
 | [Systematic Analysis of Large Language Models and Transformer-Based Machine Translation for English-Tamil and Tamil-English Across Diverse Datasets](http://arxiv.org/abs/2607.24515v2) | ArXiv |  | 1 |
 | [T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search](http://arxiv.org/abs/2610.06782v1) | ArXiv |  | 1 |
 | [T^2MLR: Transformer with Temporal Middle-Layer Recurrence](http://arxiv.org/abs/2607.15178v1) | ArXiv |  | 1 |
+| [Table Serialization Determines Which Relations Language Models Preserve](http://arxiv.org/abs/2610.24798v1) | ArXiv |  | 1 |
 | [Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models](http://arxiv.org/abs/2609.11838v1) | ArXiv |  | 1 |
 | [Task Context Shapes Component Roles in Language Models](http://arxiv.org/abs/2610.13895v1) | ArXiv |  | 1 |
 | [Tastes without distinction: silicon samples and the synthetic construction of tastes](http://arxiv.org/abs/2606.30085v2) | ArXiv |  | 1 |
@@ -824,6 +832,7 @@
 | [Which one is banana man? Evaluating vision-language models in multi-turn pragmatic interpretation](http://arxiv.org/abs/2608.29571v1) | ArXiv |  | 1 |
 | [Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution](http://arxiv.org/abs/2610.12367v1) | ArXiv |  | 1 |
 | [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |
+| [Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models](http://arxiv.org/abs/2610.24795v1) | ArXiv |  | 1 |
 | [Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs](http://arxiv.org/abs/2604.21751v2) | ArXiv |  | 2 |
 | [WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |
 | [Will Scaling Improve Social Simulation with LLMs?](http://arxiv.org/abs/2607.02464v2) | ArXiv |  | 1 |

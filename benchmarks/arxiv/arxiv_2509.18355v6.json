@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.18355v6",
+  "schema_version": "1.0",
+  "name": "Chiplet-Based RISC-V SoC with Modular AI Acceleration",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.18355v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.18355v6",
+    "updated": "2026-10-17T18:22:52Z",
+    "published": "2025-09-22T19:31:58Z",
+    "title": "Chiplet-Based RISC-V SoC with Modular AI Acceleration",
+    "summary": "Achieving high performance, energy efficiency, and cost-effectiveness while maintaining architectural flexibility is a critical challenge in the development and deployment of edge AI devices. Monolithic SoC designs struggle with this complex balance mainly due to low manufacturing yields (below 16%) at advanced 360 mm^2 process nodes. This paper presents a novel chiplet-based RISC-V SoC architecture that addresses these limitations through modular AI acceleration and intelligent system level optimization. Our proposed design integrates 4 different key innovations in a 30mm x 30mm silicon interposer: adaptive cross-chiplet Dynamic Voltage and Frequency Scaling (DVFS); AI-aware Universal Chiplet Interconnect Express (UCIe) protocol extensions featuring streaming flow control units and compression-aware transfers; distributed cryptographic security across heterogeneous chiplets; and intelligent sensor-driven load migration. The proposed architecture integrates a 7nm RISC-V CPU chiplet with dual 5nm AI accelerators (15 TOPS INT8 each), 16GB HBM3 memory stacks, and dedicated power management controllers. Experimental results across industry standard benchmarks like MobileNetV2, ResNet-50 and real-time video processing demonstrate significant performance improvements. The AI-optimized configuration achieves ~14.7% latency reduction, 17.3% throughput improvement, and 16.2% power reduction compared to previous basic chiplet implementations. These improvements collectively translate to a 40.1% efficiency gain corresponding to ~3.5 mJ per MobileNetV2 inference (860 mW/244 images/s), while maintaining sub-5ms real-time capability across all experimented workloads. These performance upgrades demonstrate that modular chiplet designs can achieve near-monolithic computational density while enabling cost efficiency, scalability and upgradeability, crucial for next-generation edge AI device applications.",
+    "primary_category": "cs.AR"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:22:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.18355v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

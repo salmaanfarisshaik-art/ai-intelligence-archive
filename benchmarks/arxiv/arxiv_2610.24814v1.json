@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24814v1",
+  "schema_version": "1.0",
+  "name": "SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24814v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24814v1",
+    "updated": "2026-10-17T18:40:56Z",
+    "published": "2026-10-17T18:40:56Z",
+    "title": "SL-Ground: Sentence-Level Grounding for Fine-Grained Open-Vocabulary Object Detection",
+    "summary": "Grounding-based open-vocabulary detectors provide a widely used framework for text-conditioned localization, with a phrase-grounding formulation that aligns object queries to individual text tokens and recovers class scores through token-to-class aggregation. We observe that this token-level scoring design becomes a bottleneck for fine-grained open-vocabulary object detection, where the target category is defined by a complete compositional description rather than by isolated tokens. Based on this observation, we propose SL-Ground, a sentence-level grounding reformulation for grounding-based open-vocabulary detection. Instead of scoring queries against fragmented token evidence, SL-Ground encodes each category description as a complete sentence-level representation and directly scores object queries against these representations. To evaluate fine-grained recognition across label granularity, we construct a multi-granularity Stanford Cars benchmark spanning vehicle type, brand, and car model. At the finest car-model granularity, SL-Ground raises AP over the token-level variant from 14.5 to 70.6 under matched training candidate sampling and to 86.0 with full-vocabulary training, while better preserving open-vocabulary capability and avoiding repeated prompt chunking. Beyond Stanford Cars, SL-Ground also improves FG-OVD performance, achieving the best average AP among compared methods. These results show that sentence-level grounding provides a more suitable scoring unit for fine-grained OVOD and offers a practical path toward fine-grained grounding-based open-vocabulary detectors.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-20T01:35:25Z",
+  "last_updated": "2026-10-17T18:40:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24814v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
