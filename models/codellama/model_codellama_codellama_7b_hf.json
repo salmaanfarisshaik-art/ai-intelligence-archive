@@ -3,7 +3,7 @@
   "id": "codellama/CodeLlama-7b-hf",
   "likes": 379,
   "private": false,
-  "downloads": 367413,
+  "downloads": 370812,
   "tags": [
     "transformers",
     "pytorch",
@@ -16,9 +16,9 @@
     "license:llama2",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
     "deploy:sagemaker",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

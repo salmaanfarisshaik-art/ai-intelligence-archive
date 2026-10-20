@@ -3,7 +3,7 @@
   "id": "google/gemma-2-9b",
   "likes": 742,
   "private": false,
-  "downloads": 36863,
+  "downloads": 36616,
   "tags": [
     "transformers",
     "safetensors",
@@ -36,8 +36,8 @@
     "eval-results",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

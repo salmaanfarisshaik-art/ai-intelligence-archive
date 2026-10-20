@@ -567,6 +567,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_zai_org_glm_edge_4b_chat_gguf",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "model_zai_org_glm_z1_32b_0414",
       "match_type": "exact",
       "score": 2.0
@@ -695,6 +700,20 @@
       "entity_id": "alpaca_-7631198842832142130",
       "match_type": "exact",
       "score": 2.0
+    }
+  ],
+  "zan": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zan2025multiswebench": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zany": [
@@ -1974,6 +1993,11 @@
       "entity_id": "dataset_llamafactory_demo_data",
       "match_type": "exact",
       "score": 3.5
+    },
+    {
+      "entity_id": "dataset_i_deepsearch_observation_masking_eval_logs",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "hf_ds_zeroMN_hanlp_date-zh",
@@ -3731,6 +3755,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_zai_org_glm_edge_4b_chat_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_zai_org_glm_z1_32b_0414",
       "match_type": "exact",
       "score": 1.5
@@ -3784,6 +3813,11 @@
     },
     {
       "entity_id": "dataset_alayalab_wildworld",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
       "match_type": "exact",
       "score": 1.0
     },
@@ -4013,6 +4047,13 @@
       "score": 2.0
     }
   ],
+  "zhirong": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "zhixuan": [
     {
       "entity_id": "dataset_chenhn02_metafold",
@@ -4117,6 +4158,13 @@
       "entity_id": "model_unsloth_qwen2_5_7b_instruct_unsloth_bnb_4bit",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "zhong": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "zhong2023agieval": [

@@ -172,6 +172,12 @@
 - **URL**: [https://huggingface.co/datasets/lukaemon/bbh](https://huggingface.co/datasets/lukaemon/bbh)
 - **Tags**: arxiv:2210.09261, format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:1K<n<10K
 
+## liwu/MNBVC
+- **ID**: hf_ds_63ea428f5de6361c8dd3cbcf
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/liwu/MNBVC](https://huggingface.co/datasets/liwu/MNBVC)
+- **Tags**: annotations_creators:other, language:zh, language_creators:other, license:mit, multilinguality:monolingual, region:us, source_datasets:original, task_categories:fill-mask, task_categories:text-generation, task_ids:language-modeling, task_ids:masked-language-modeling
+
 ## anon8231489123/ShareGPT_Vicuna_unfiltered
 - **ID**: hf_ds_642912f7a760fe0bf37996b1
 - **Source**: HuggingFace Datasets
@@ -586,6 +592,12 @@
 - **URL**: [https://huggingface.co/datasets/sunblaze-ucb/cybergym](https://huggingface.co/datasets/sunblaze-ucb/cybergym)
 - **Tags**: format:json, library:datasets, library:mlcroissant, library:pandas, library:polars, modality:text, region:us, size_categories:1K<n<10K
 
+## worldbenchmark/IntuitivePhysics
+- **ID**: hf_ds_6826807a875b575a7ab09a99
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/worldbenchmark/IntuitivePhysics](https://huggingface.co/datasets/worldbenchmark/IntuitivePhysics)
+- **Tags**: format:imagefolder, language:en, library:datasets, library:mlcroissant, mlcroissant, modality:image, region:us, size_categories:100K<n<1M, task_categories:text-to-video, task_categories:visual-question-answering
+
 ## daniilakk/nbchr_pdfs
 - **ID**: hf_ds_683195b70ed0a5b1919c6f22
 - **Source**: HuggingFace Datasets
@@ -824,7 +836,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21

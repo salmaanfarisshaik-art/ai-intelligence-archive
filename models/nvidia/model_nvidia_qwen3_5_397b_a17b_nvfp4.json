@@ -3,7 +3,7 @@
   "id": "nvidia/Qwen3.5-397B-A17B-NVFP4",
   "likes": 112,
   "private": false,
-  "downloads": 87207,
+  "downloads": 84786,
   "tags": [
     "Model Optimizer",
     "safetensors",
@@ -19,6 +19,7 @@
     "base_model:Qwen/Qwen3.5-397B-A17B",
     "base_model:quantized:Qwen/Qwen3.5-397B-A17B",
     "license:apache-2.0",
+    "8-bit",
     "modelopt",
     "region:us"
   ],

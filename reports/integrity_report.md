@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-20T07:11:29.609202+00:00
-**Warnings:** 4444
+**Generated:** 2026-10-20T13:21:19.183375+00:00
+**Warnings:** 4445
 **Errors:** 300
 
 ## Issues
@@ -4632,6 +4632,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/mamed0v
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nebius
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ieasybooks-org
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/worldbenchmark
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/artur-muratov
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/xlangai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/drssth

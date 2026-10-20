@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:12:30Z",
+  "generated_at": "2026-10-20T13:22:09Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1053,7 +1053,7 @@
     },
     {
       "source_id": "model_bartowski_altworld_hemmingway_1_gguf",
-      "target_id": "hf_Altworld_Hemmingway-1",
+      "target_id": "hf_HemmingwayAI_Hemmingway-1",
       "type": "derived_from"
     },
     {
@@ -2942,6 +2942,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_huihui_ai_huihui_agents_a1_abliterated_gguf",
+      "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_huihui_ai_huihui_cyberstrike_offsec_35b_abliterated_gguf",
       "target_id": "hf_oyildirim_CyberStrike-OffSec-35B",
       "type": "derived_from"
@@ -3098,6 +3103,21 @@
     },
     {
       "source_id": "model_ifm_k2_horizon_7b",
+      "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-7B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b_gguf",
+      "target_id": "hf_IFM_K2-Horizon-Midtrain-Data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_ifm_k2_horizon_7b_gguf",
       "target_id": "hf_IFM_K2-Horizon-Pretrain-Data",
       "type": "trained_on"
     },
@@ -7622,11 +7642,6 @@
       "type": "trained_on"
     },
     {
-      "source_id": "model_ravichandranj_dolphin3_cyber_8b_gguf",
-      "target_id": "hf_huihui-ai_Dolphin3.0-Llama3.1-8B-abliterated",
-      "type": "derived_from"
-    },
-    {
       "source_id": "model_readyart_gemma_4_31b_it_scotoma_2_gguf",
       "target_id": "hf_ReadyArt_gemma-4-31B-it-scotoma-2",
       "type": "derived_from"
@@ -9108,7 +9123,7 @@
     },
     {
       "source_id": "model_unsloth_ornith_1_0_9b_gguf",
-      "target_id": "hf_deepreinforce-ai_Ornith-1.0-9B",
+      "target_id": "hf_ornith-ai_Ornith-1.0-9B",
       "type": "derived_from"
     },
     {

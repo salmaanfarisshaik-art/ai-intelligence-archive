@@ -3,7 +3,7 @@
   "id": "microsoft/Phi-3-mini-4k-instruct",
   "likes": 1475,
   "private": false,
-  "downloads": 350896,
+  "downloads": 350233,
   "tags": [
     "transformers",
     "safetensors",
@@ -19,8 +19,8 @@
     "eval-results",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

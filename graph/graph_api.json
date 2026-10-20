@@ -21622,6 +21622,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_6826807a875b575a7ab09a99",
+      "target": "datasets/worldbenchmark"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_6835c1a1f7b44d5d5071e8b2",
       "target": "datasets/artur-muratov"
     },
@@ -22221,7 +22226,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-20T07:11:27.474459+00:00",
+  "generated_at": "2026-10-20T13:21:17.456535+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -163747,6 +163752,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_63ea428f5de6361c8dd3cbcf",
+      "label": "liwu/MNBVC"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_642912f7a760fe0bf37996b1",
       "label": "anon8231489123/ShareGPT_Vicuna_unfiltered"
     },
@@ -164089,6 +164099,11 @@
       "category": "dataset",
       "id": "hf_ds_68251f06823e816aeea2d9dc",
       "label": "sunblaze-ucb/cybergym"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6826807a875b575a7ab09a99",
+      "label": "worldbenchmark/IntuitivePhysics"
     },
     {
       "category": "dataset",
@@ -479352,6 +479367,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4444,
-  "total_nodes": 91425
+  "total_edges": 4445,
+  "total_nodes": 91427
 }

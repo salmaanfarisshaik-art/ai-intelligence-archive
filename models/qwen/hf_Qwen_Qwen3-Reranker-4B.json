@@ -14,7 +14,7 @@
     "id": "Qwen/Qwen3-Reranker-4B",
     "likes": 183,
     "private": false,
-    "downloads": 2412394,
+    "downloads": 2397912,
     "tags": [
       "transformers",
       "safetensors",
@@ -27,15 +27,15 @@
       "base_model:finetune:Qwen/Qwen3-4B-Base",
       "license:apache-2.0",
       "endpoints_compatible",
-      "region:us",
-      "deploy:sagemaker"
+      "deploy:sagemaker",
+      "region:us"
     ],
     "pipeline_tag": "text-ranking",
     "library_name": "transformers",
     "createdAt": "2025-06-03T14:46:47.000Z",
     "modelId": "Qwen/Qwen3-Reranker-4B"
   },
-  "retrieval_timestamp": "2026-10-19T12:10:44Z",
+  "retrieval_timestamp": "2026-10-20T13:21:02Z",
   "last_updated": "",
   "links": {
     "related_models": [],

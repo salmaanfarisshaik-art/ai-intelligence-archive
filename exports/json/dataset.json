@@ -1237,6 +1237,33 @@
     "local_path": "datasets/lukaemon/hf_ds_63da18ebaa68107243401b0d.json"
   },
   {
+    "id": "hf_ds_63ea428f5de6361c8dd3cbcf",
+    "title": "liwu/MNBVC",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "annotations_creators:other",
+      "language:zh",
+      "language_creators:other",
+      "license:mit",
+      "multilinguality:monolingual",
+      "region:us",
+      "source_datasets:original",
+      "task_categories:fill-mask",
+      "task_categories:text-generation",
+      "task_ids:language-modeling",
+      "task_ids:masked-language-modeling"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/liwu/MNBVC",
+    "local_path": "datasets/liwu/hf_ds_63ea428f5de6361c8dd3cbcf.json"
+  },
+  {
     "id": "hf_ds_642912f7a760fe0bf37996b1",
     "title": "anon8231489123/ShareGPT_Vicuna_unfiltered",
     "category": "dataset",
@@ -3452,6 +3479,34 @@
     "local_path": "datasets/sunblaze-ucb/hf_ds_68251f06823e816aeea2d9dc.json"
   },
   {
+    "id": "hf_ds_6826807a875b575a7ab09a99",
+    "title": "worldbenchmark/IntuitivePhysics",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:imagefolder",
+      "language:en",
+      "library:datasets",
+      "library:mlcroissant",
+      "mlcroissant",
+      "modality:image",
+      "region:us",
+      "size_categories:100K<n<1M",
+      "task_categories:text-to-video",
+      "task_categories:visual-question-answering"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/worldbenchmark"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/worldbenchmark/IntuitivePhysics",
+    "local_path": "datasets/worldbenchmark/hf_ds_6826807a875b575a7ab09a99.json"
+  },
+  {
     "id": "hf_ds_683195b70ed0a5b1919c6f22",
     "title": "daniilakk/nbchr_pdfs",
     "category": "dataset",
@@ -4460,11 +4515,10 @@
       "leaderboards",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],

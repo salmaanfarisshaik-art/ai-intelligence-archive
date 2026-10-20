@@ -343,6 +343,13 @@
       "score": 3.0
     }
   ],
+  "xbench": [
+    {
+      "entity_id": "dataset_i_deepsearch_observation_masking_eval_logs",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "xbi": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -857,6 +864,13 @@
       "score": 1.0
     }
   ],
+  "xian": [
+    {
+      "entity_id": "dataset_dronefreak_bdd100k",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "xiang": [
     {
       "entity_id": "dataset_facebook_ego_1k",
@@ -895,6 +909,13 @@
       "score": 1.0
     }
   ],
+  "xiao": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "xiaohongshu": [
     {
       "entity_id": "dataset_raphaelliu_pusav0_5_training",
@@ -903,6 +924,13 @@
     },
     {
       "entity_id": "dataset_seerray_lab_realmobile",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "xiaojian": [
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
       "match_type": "exact",
       "score": 1.0
     }
@@ -1031,6 +1059,16 @@
   "xin": [
     {
       "entity_id": "dataset_bigscience_evaluation_results",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_dronefreak_bdd100k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -2072,6 +2110,11 @@
       "entity_id": "dataset_openfoodfacts_product_database",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_chrisrca_clash_royale_tv_replays",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "xxl": [
@@ -2267,6 +2310,13 @@
       "entity_id": "dataset_bop_benchmark_xyzibd",
       "match_type": "exact",
       "score": 7.0
+    }
+  ],
+  "xz": [
+    {
+      "entity_id": "dataset_yinpei_robomme_data_h5",
+      "match_type": "exact",
+      "score": 6.0
     }
   ]
 }

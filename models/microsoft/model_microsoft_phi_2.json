@@ -3,7 +3,7 @@
   "id": "microsoft/phi-2",
   "likes": 3527,
   "private": false,
-  "downloads": 483361,
+  "downloads": 483155,
   "tags": [
     "transformers",
     "safetensors",
@@ -15,9 +15,9 @@
     "license:mit",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
     "deploy:sagemaker",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

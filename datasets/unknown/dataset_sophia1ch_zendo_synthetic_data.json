@@ -9,7 +9,7 @@
   "private": false,
   "sha": "348468683db3c36257f5419e5fdcb1d39951203f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tZendo Synthetic Visual Reasoning Dataset\n\t\n\nSynthetic Zendo-style scenes with associated rules and per-scene tensor\nrepresentations. Each scene either follows (\"positive\", label=1) or violates\n(\"negative\", label=0) a rule that is given in natural language and as a Prolog\nquery.\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nsplit\nscenes\n\n\n\t\t\ntrain\n56475\n\n\ntest\n3344\n\n\nrules total\n3439\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tLayout\n\t\n\n\nimages/<split>/<batch>/<rule_id>/<scene_id>.png — rendered scene… See the full description on the dataset page: https://huggingface.co/datasets/sophia1ch/zendo-synthetic-data.",
-  "downloads": 34551,
+  "downloads": 34746,
   "tags": [
     "task_categories:image-classification",
     "task_categories:visual-question-answering",

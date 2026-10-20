@@ -3,7 +3,7 @@
   "id": "meta-llama/Llama-2-13b-chat-hf",
   "likes": 1134,
   "private": false,
-  "downloads": 177650,
+  "downloads": 175855,
   "tags": [
     "transformers",
     "pytorch",
@@ -19,8 +19,8 @@
     "license:llama2",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
