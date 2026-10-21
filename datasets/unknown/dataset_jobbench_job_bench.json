@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-09-11T23:10:53.000Z",
-  "likes": 8,
+  "likes": 9,
   "private": false,
   "sha": "d43a66575635da0d3f6cb9a20976dc1a60f3ffc9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tJobBench\n\t\n\nReal-world white-collar tasks across ~35 professions. Each task has a prompt,\nreference files, a weighted rubric, and a human-readable brief.\nThe dataset ships two splits:\n\nmain — 65 full tasks. Some include a files_required_to_search/ folder\nof ground-truth materials the agent is expected to discover via search.\neasy — 63 simplified tasks (shorter prompts, no files_required_to_search/).\nUseful for cheaper smoke tests and capability ranking.\n\nThe main and easy splits… See the full description on the dataset page: https://huggingface.co/datasets/JobBench/job-bench.",

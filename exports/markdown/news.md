@@ -1156,6 +1156,11 @@
 - **URL**: [https://openai.com/index/bringing-chatgpt-to-genaimil](https://openai.com/index/bringing-chatgpt-to-genaimil)
 
 ## 
+- **ID**: rss_https://openai.com/index/broad-access-through-consistent-standards
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/broad-access-through-consistent-standards](https://openai.com/index/broad-access-through-consistent-standards)
+
+## 
 - **ID**: rss_https://openai.com/index/browsecomp
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/browsecomp](https://openai.com/index/browsecomp)
@@ -2229,6 +2234,11 @@
 - **ID**: rss_https://openai.com/index/emergent-tool-use
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/emergent-tool-use](https://openai.com/index/emergent-tool-use)
+
+## 
+- **ID**: rss_https://openai.com/index/empowering-cyber-defenders
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/empowering-cyber-defenders](https://openai.com/index/empowering-cyber-defenders)
 
 ## 
 - **ID**: rss_https://openai.com/index/empowering-defenders-through-our-cybersecurity-grant-program

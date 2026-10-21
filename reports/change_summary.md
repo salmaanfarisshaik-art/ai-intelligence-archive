@@ -1,13 +1,10 @@
 # Change Summary
 
-**Total Changes:** 108
+**Total Changes:** 98
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_att-legal.json
-- prompts/openai-blog/rss_https___openai.com_index_building-chatgpt-ad-stack.json
-- prompts/openai-blog/rss_https___openai.com_index_chatgpt-ads-expands-26-new-countries.json
-- prompts/openai-blog/rss_https___openai.com_index_coordinated-disclosure-of-critical-vulnerabilities.json
-- prompts/openai-blog/rss_https___openai.com_index_scaling-ai-research-for-complex-biological-data.json
+- prompts/openai-blog/rss_https___openai.com_index_broad-access-through-consistent-standards.json
+- prompts/openai-blog/rss_https___openai.com_index_empowering-cyber-defenders.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -20,38 +17,32 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/huggingface/hf_ds_621ffdd236468d709f1835cf.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
+- datasets/hdlzidane/hf_ds_6accfa5c558696f3caf5dbfc.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/mteb/hf_ds_6a1f3e49aa35c86b3f108f05.json
-- datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
+- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
+- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
+- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/models.csv
+- exports/csv/dataset.csv
 - exports/csv/news.csv
-- exports/csv/tool.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/models.json
+- exports/json/dataset.json
 - exports/json/news.json
-- exports/json/tool.json
-- exports/markdown/datasets.md
-- exports/markdown/models.md
+- exports/markdown/dataset.md
 - exports/markdown/news.md
-- exports/markdown/tool.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
-- models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/openai-community/hf_openai-community_gpt2.json
 - models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-1.7B.json
 - models/qwen/hf_Qwen_Qwen3-8B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
-- models/qwen/hf_Qwen_Qwen3-Embedding-4B.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -83,7 +74,6 @@
 - tools/github-trending/gh_1195360525.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1206390571.json
-- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
