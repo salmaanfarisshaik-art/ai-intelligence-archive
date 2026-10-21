@@ -976,6 +976,11 @@
 - **URL**: [https://openai.com/index/atlassian-partnership](https://openai.com/index/atlassian-partnership)
 
 ## 
+- **ID**: rss_https://openai.com/index/att-legal
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/att-legal](https://openai.com/index/att-legal)
+
+## 
 - **ID**: rss_https://openai.com/index/attacking-machine-learning-with-adversarial-examples
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/attacking-machine-learning-with-adversarial-examples](https://openai.com/index/attacking-machine-learning-with-adversarial-examples)
@@ -1186,6 +1191,11 @@
 - **URL**: [https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation](https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation)
 
 ## 
+- **ID**: rss_https://openai.com/index/building-chatgpt-ad-stack
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/building-chatgpt-ad-stack](https://openai.com/index/building-chatgpt-ad-stack)
+
+## 
 - **ID**: rss_https://openai.com/index/building-chatgpt-atlas
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-chatgpt-atlas](https://openai.com/index/building-chatgpt-atlas)
@@ -1269,6 +1279,11 @@
 - **ID**: rss_https://openai.com/index/chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt](https://openai.com/index/chatgpt)
+
+## 
+- **ID**: rss_https://openai.com/index/chatgpt-ads-expands-26-new-countries
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-ads-expands-26-new-countries](https://openai.com/index/chatgpt-ads-expands-26-new-countries)
 
 ## 
 - **ID**: rss_https://openai.com/index/chatgpt-ads-expands-across-europe
@@ -1559,6 +1574,11 @@
 - **ID**: rss_https://openai.com/index/cooperation-on-safety
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cooperation-on-safety](https://openai.com/index/cooperation-on-safety)
+
+## 
+- **ID**: rss_https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities)
 
 ## 
 - **ID**: rss_https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
@@ -5594,6 +5614,11 @@
 - **ID**: rss_https://openai.com/index/scaling-ai-for-everyone
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/scaling-ai-for-everyone](https://openai.com/index/scaling-ai-for-everyone)
+
+## 
+- **ID**: rss_https://openai.com/index/scaling-ai-research-for-complex-biological-data
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/scaling-ai-research-for-complex-biological-data](https://openai.com/index/scaling-ai-research-for-complex-biological-data)
 
 ## 
 - **ID**: rss_https://openai.com/index/scaling-codex-to-enterprises-worldwide

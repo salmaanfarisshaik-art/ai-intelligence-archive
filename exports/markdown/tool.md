@@ -73,7 +73,7 @@
 ## ai-job-search
 - **ID**: gh_1185389803
 - **Source**: GitHub Trending
-- **URL**: [https://github.com/MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
+- **URL**: [https://github.com/ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search)
 
 ## ai-engineering-from-scratch
 - **ID**: gh_1185590488

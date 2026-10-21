@@ -140,6 +140,10 @@
 - **ID**: model_alibaba_nlp_tongyi_deepresearch_30b_a3b
 - **Source**: 
 
+## alibiserikbay/JevK5
+- **ID**: model_alibiserikbay_jevk5
+- **Source**: 
+
 ## Alittlehammmer/Qwen3.6-27B-DFlash-GGUF-llama.cpp
 - **ID**: model_alittlehammmer_qwen3_6_27b_dflash_gguf_llama_cpp
 - **Source**: 
@@ -928,6 +932,10 @@
 - **ID**: model_bytkim_qwen3_6_27b_mtp_pi_tune_gguf
 - **Source**: 
 
+## bytkim/Qwen3.8-27B-pi-GGUF
+- **ID**: model_bytkim_qwen3_8_27b_pi_gguf
+- **Source**: 
+
 ## Cactus-Compute/needle2
 - **ID**: model_cactus_compute_needle2
 - **Source**: 
@@ -1360,6 +1368,10 @@
 - **ID**: model_deepseek_ai_deepseek_v4_1_flash
 - **Source**: 
 
+## deepseek-ai/DeepSeek-V4.1-Flash-1017
+- **ID**: model_deepseek_ai_deepseek_v4_1_flash_1017
+- **Source**: 
+
 ## deepseek-ai/DeepSeek-V4-Flash
 - **ID**: model_deepseek_ai_deepseek_v4_flash
 - **Source**: 
@@ -1728,8 +1740,16 @@
 - **ID**: model_failspy_meta_llama_3_8b_instruct_abliterated_v3
 - **Source**: 
 
+## farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit
+- **ID**: model_farbodtavakkoli_otel_2_0_decision_26b_a4b_4bit
+- **Source**: 
+
 ## farbodtavakkoli/OTel-2.0-LLM-31B-IT
 - **ID**: model_farbodtavakkoli_otel_2_0_llm_31b_it
+- **Source**: 
+
+## farbodtavakkoli/OTel-2.0-LLM-31B-IT-QLoRA
+- **ID**: model_farbodtavakkoli_otel_2_0_llm_31b_it_qlora
 - **Source**: 
 
 ## farbodtavakkoli/OTel-LLM-0.6B-IT
@@ -5742,6 +5762,10 @@
 
 ## RedHatAI/Meta-Llama-3-8B-Instruct-FP8-KV
 - **ID**: model_redhatai_meta_llama_3_8b_instruct_fp8_kv
+- **Source**: 
+
+## RedHatAI/Mistral-Small-24B-Instruct-2501-FP8-dynamic
+- **ID**: model_redhatai_mistral_small_24b_instruct_2501_fp8_dynamic
 - **Source**: 
 
 ## RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-NVFP4
