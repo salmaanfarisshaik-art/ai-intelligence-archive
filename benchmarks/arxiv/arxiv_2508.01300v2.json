@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.01300v2",
+  "schema_version": "1.0",
+  "name": "How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.01300v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.01300v2",
+    "updated": "2026-10-20T09:27:59Z",
+    "published": "2025-08-02T10:20:52Z",
+    "title": "How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective",
+    "summary": "AI planning provides agents the ability to act autonomously towards achieving a goal in a given environment. Recent advances in Large Language Models (LLMs) have introduced the prospect of using unstructured input for planning, making LLMs in planning an active area of research, especially for supporting autonomous agents. However, LLMs remain unreliable as long-horizon planners, since some of the plans they produce contain mistaken or hallucinated actions; executing such plans could lead to unexpected and harmful outcomes. Existing benchmarks for LLMs in planning primarily rely on binary evaluation metrics, providing limited insight into the quality of plans that do not achieve the goal, and how far those are from becoming valid. In this paper, we frame the evaluation of LLMs in planning as a natural language processing (NLP) task, as LLMs are themselves NLP models. We propose a pipeline comprising three NLP-based steps that assess plan quality from complementary perspectives, followed by a symbolic planning step to achieve a valid plan, to provide a finer-grained understanding of the quality of invalid plans. In our experiments, we find no clear evidence of logical derivation or state-tracking during LLM plan generation -- on average, for all non-empty plans, only 3.55 actions per plan are executable, despite symbolically-generated optimal plans having an average length of 9.47 actions, which suggests that LLMs are still far from the reliability of symbolic planners. Our suite of metrics is further used to investigate patterns in LLM plan generation over time, and can provide a useful metric for assessing the quality of individual invalid plans.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:27:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.01300v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -90,3 +90,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24870v1](http://arxiv.org/abs/2610.24870v1)
 
+## VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR
+- **ID**: arxiv_2610.27867v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27867v1](http://arxiv.org/abs/2610.27867v1)
+

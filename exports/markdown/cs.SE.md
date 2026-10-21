@@ -335,3 +335,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24790v1](http://arxiv.org/abs/2610.24790v1)
 
+## From Tokens to Files: Multi-Granularity Detection and Localization of AI-Involved Code
+- **ID**: arxiv_2610.27863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27863v1](http://arxiv.org/abs/2610.27863v1)
+
+## Hallucinations of Large Language Models in Cross-Language Code Translation: Phenomena and Mitigation
+- **ID**: arxiv_2610.27868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27868v1](http://arxiv.org/abs/2610.27868v1)
+

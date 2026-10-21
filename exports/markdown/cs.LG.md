@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.18934v2](http://arxiv.org/abs/2505.18934v2)
 
+## Rethinking Generalization in Knowledge Graph Embedding: An Empirical Study and Sparse Peak Regularization
+- **ID**: arxiv_2505.23442v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.23442v2](http://arxiv.org/abs/2505.23442v2)
+
 ## Self-Guided Process Reward Optimization with Redefined Step-wise Advantage for Process Reinforcement Learning
 - **ID**: arxiv_2507.01551v3
 - **Source**: ArXiv
@@ -139,6 +144,11 @@
 - **ID**: arxiv_2510.22228v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22228v2](http://arxiv.org/abs/2510.22228v2)
+
+## Online Continual Learning on Intel Loihi 2 via a Co-designed Spiking Neural Network
+- **ID**: arxiv_2511.01553v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.01553v3](http://arxiv.org/abs/2511.01553v3)
 
 ## In Situ Training of Implicit Neural Compressors for Scientific Simulations via Sketch-Based Regularization
 - **ID**: arxiv_2511.02659v4
@@ -2275,6 +2285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22353v1](http://arxiv.org/abs/2610.22353v1)
 
+## A Stronger Teacher Within: Strengthening MoE Models via On-Policy Bidirectional Distillation
+- **ID**: arxiv_2610.23185v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23185v2](http://arxiv.org/abs/2610.23185v2)
+
 ## Neural Expansion: A Unified Mechanism for How Deep Neural Networks Generalize
 - **ID**: arxiv_2610.23716v1
 - **Source**: ArXiv
@@ -2314,4 +2329,14 @@
 - **ID**: arxiv_2610.26863v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26863v1](http://arxiv.org/abs/2610.26863v1)
+
+## Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems
+- **ID**: arxiv_2610.27891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27891v1](http://arxiv.org/abs/2610.27891v1)
+
+## The Shape of the DPO Hyperparameter Landscape: What to Measure, How It Moves with Scale, and When Not to Transfer It
+- **ID**: arxiv_2610.27895v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27895v1](http://arxiv.org/abs/2610.27895v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.23442v2",
+  "schema_version": "1.0",
+  "name": "Rethinking Generalization in Knowledge Graph Embedding: An Empirical Study and Sparse Peak Regularization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.23442v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.23442v2",
+    "updated": "2026-10-20T09:19:21Z",
+    "published": "2025-05-29T13:39:18Z",
+    "title": "Rethinking Generalization in Knowledge Graph Embedding: An Empirical Study and Sparse Peak Regularization",
+    "summary": "Knowledge graphs (KGs) provide structured representations of entities and relations, and underpin data management and Web applications such as search, recommendation, and question answering. Since Web-scale KGs such as Freebase and Wikidata are inherently incomplete, knowledge graph embedding (KGE) maps entities and relations into continuous vector spaces and is widely used to infer missing facts through link prediction. Despite extensive progress in KGE model design, the role of regularization has been less systematically examined, especially beyond tensor-decomposition models. The primary contribution of this paper is a comprehensive empirical study of regularization for KGE from the perspective of generalization. Across translation-based, tensor-decomposition-based, GNN-based, temporal, and multimodal KGE models, we show that overfitting is common across model families and that appropriate regularization can substantially improve both generalization and predictive performance. Motivated by these findings, we further propose Sparse Peak Regularization (SPR), a simple and model-agnostic regularizer that introduces rank-based selective sparsity into the regularization target. SPR concentrates the penalty on dominant high-energy embedding components, which contribute most to the embedding norm and overfitting risk, while leaving low-energy components unpenalized so that weak but useful signals are not unnecessarily suppressed. Experiments on eight benchmark datasets and diverse KGE models show that SPR achieves the best results in nearly all settings compared with existing regularizers such as N3, DURA, and ER. These results show that regularization deserves more systematic attention in KGE, and that selective regularization is an effective and broadly applicable strategy for improving the generalization of KGE models.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:19:21Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.23442v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

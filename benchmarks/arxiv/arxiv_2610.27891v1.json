@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.27891v1",
+  "schema_version": "1.0",
+  "name": "Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.27891v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.27891v1",
+    "updated": "2026-10-20T09:12:32Z",
+    "published": "2026-10-20T09:12:32Z",
+    "title": "Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems",
+    "summary": "Industrial fluid transport systems are monitored through heterogeneous sensing streams, but robust fault diagnosis remains difficult because response signals vary with operating conditions and differ from physical variables in sampling rate, observation duration and data granularity. To address these challenges, we propose a physical-variable-informed deep learning framework (PhyNet) for robust fault diagnosis under real-world sampling heterogeneity. PhyNet treats physical variables as global operating constraints and response signals as local diagnostic evidence. Its physical-to-response cross-attention mechanism connects sequence-level physical-variable tokens with a learnable global response token, enabling interaction without strict temporal alignment. Across four benchmarks, including three real-world cavitation datasets and one public two-phase-flow dataset, PhyNet achieves the best performance across all evaluated metrics. Class-wise analyses, together with attention and masking analyses, show improved discrimination of ambiguous states and indicate that physical variables meaningfully constrain local response interpretation. These findings demonstrate a deployment-oriented approach to robust diagnosis in heterogeneous industrial environments.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:12:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.27891v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

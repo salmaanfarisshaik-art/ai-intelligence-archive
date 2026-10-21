@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.04127v2",
+  "schema_version": "1.0",
+  "name": "SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Clutter-Aware SAR Ship Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.04127v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.04127v2",
+    "updated": "2026-10-20T09:43:17Z",
+    "published": "2026-04-05T14:15:39Z",
+    "title": "SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Clutter-Aware SAR Ship Detection",
+    "summary": "Ship detection in Synthetic Aperture Radar (SAR) imagery is challenged by coherent speckle noise, complex coastal clutter, and the prevalence of small-scale targets. Conventional detectors, primarily designed for optical imagery, often exhibit limited adaptability to SAR-specific degradation and suffer from the loss of fine-grained ship signatures during spatial downsampling. To address these limitations, we propose SARES-DEIM, a domain-aware detection framework grounded in the DEtection TRansformer (DETR) paradigm. Central to our approach is SARESMoE (SAR-aware Expert Selection Mixture-of-Experts), a module leveraging a sparse gating mechanism to selectively route features toward specialized wavelet, spatial, and frequency-oriented experts. This sparsely activated architecture enhances clutter-aware representation while keeping the active inference cost controlled. Furthermore, we introduce the Space-to-Depth Enhancement Pyramid (SDEP) neck to preserve high-resolution spatial cues from shallow stages and improve the localization of small targets. Experiments on HRSID and SAR-Ship-Dataset show that SARES-DEIM achieves competitive results across both public benchmarks, with more prominent advantages on the challenging HRSID dataset. Specifically, SARES-DEIM achieves 76.4% mAP50:95 and 93.8% mAP50 on HRSID, while keeping the active computation at 72.6 GFLOPs and 136.5 FPS on a single NVIDIA A40 GPU with batch size 8; the batch-size-1 latency is 37.6 ms.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:43:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.04127v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

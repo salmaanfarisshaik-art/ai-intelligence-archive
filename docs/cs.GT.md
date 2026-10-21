@@ -12,6 +12,7 @@
 | [Algorithms for Structured Elections under Thiele Voting Rules](http://arxiv.org/abs/2607.28575v1) | ArXiv |  | 1 |
 | [AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games](http://arxiv.org/abs/2608.06362v1) | ArXiv |  | 1 |
 | [Cooperation Without Shared Rewards via Reciprocal Q-Augmentation](http://arxiv.org/abs/2610.24793v1) | ArXiv |  | 1 |
+| [Decentralized Optimal Equilibrium Learning Over Dynamic Networks](http://arxiv.org/abs/2609.17601v2) | ArXiv |  | 1 |
 | [Delegating Authorization to Misaligned Agents: Coalitional Alignment and Safe Control](http://arxiv.org/abs/2609.15803v1) | ArXiv |  | 1 |
 | [Participatory Budgeting with Project Groups](http://arxiv.org/abs/2012.05213v2) | ArXiv |  | 1 |
 | [Price of Anarchy of First-Price Auctions in Agentic Markets](http://arxiv.org/abs/2610.20587v1) | ArXiv |  | 1 |

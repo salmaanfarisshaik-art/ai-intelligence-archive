@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.27874v1",
+  "schema_version": "1.0",
+  "name": "Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.27874v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.27874v1",
+    "updated": "2026-10-20T08:55:16Z",
+    "published": "2026-10-20T08:55:16Z",
+    "title": "Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction",
+    "summary": "Hyperspectral Image (HSI) reconstruction has made substantial progress with the deep unfolding framework by decomposing the problem into a projection module and a denoiser module. Nevertheless, existing methods still exhibit limitations of insufficient matching with HSI data. The issues lie in two aspects: 1) the data-consistency projection module applies a fixed gradient descent step while ignoring the spectral content adaptivity of HSI; 2) the denoiser module either suffers from high computational complexity or is limited to the local receptive field, failing to efficiently capture the global spatial-spectral dependencies. In this paper, we propose a deep unfolding framework centered on a two-stage manifold learning strategy to obtain a degradation-free structural prior, which is then strategically injected into both the projection and denoiser modules. In the data-consistency projection, a prior-guided spectral weight mechanism is introduced to adaptively modulate the weight of spectral band. In the denoiser module, a manifold-guided Mamba is proposed to achieve the structure-aware extraction of spatial-spectral features through prior modulation. Quantitative and visual comparisons on synthetic and real-world datasets show that the proposed method significantly outperforms existing state-of-the-art approaches, while maintaining the structural interpretability of the unfolding framework. The code is available at https://github.com/SqLiu67/MPG-DU.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T08:55:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.27874v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91449
+**Total Entities Tracked**: 91501
 
 ## Category Distribution
 
@@ -9,26 +9,26 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2448
 - **models**: 1872
-- **news**: 1328
-- **cs.CV**: 1303
-- **dataset**: 1217
+- **news**: 1329
+- **cs.CV**: 1320
+- **dataset**: 1218
 - **text-generation**: 1014
-- **cs.CL**: 853
-- **cs.AI**: 818
-- **cs.LG**: 463
+- **cs.CL**: 862
+- **cs.AI**: 831
+- **cs.LG**: 468
 - **cs.RO**: 200
 - **cs.CR**: 91
-- **cs.SE**: 67
+- **cs.SE**: 69
 - **tool**: 57
 - **cs.HC**: 47
 - **cs.IR**: 43
-- **cs.SD**: 40
+- **cs.SD**: 41
 - **cs.CY**: 32
 - **cs.MA**: 21
-- **eess.AS**: 18
+- **eess.AS**: 19
 - **eess.IV**: 17
 - **API**: 15
-- **cs.GT**: 14
+- **cs.GT**: 15
 - **stat.ML**: 14
 - **cs.DC**: 12
 - **cs.DB**: 11
@@ -44,9 +44,9 @@
 - **cs.GR**: 9
 - **cs.IT**: 9
 - **cs.AR**: 8
+- **cs.MM**: 8
 - **cs.NE**: 8
 - **cs.LO**: 7
-- **cs.MM**: 7
 - **eess.SY**: 7
 - **math.OC**: 7
 - **stat.ME**: 7
@@ -98,10 +98,10 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31498
-- **ArXiv**: 4228
+- **ArXiv**: 4278
 - **Hugging Face**: 2021
-- **OpenAI Blog**: 1314
-- **HuggingFace Datasets**: 217
+- **OpenAI Blog**: 1315
+- **HuggingFace Datasets**: 218
 - **GitHub Trending**: 57
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -141,10 +141,10 @@
 
 ## Top Tags
 
-- **region:us**: 303
+- **region:us**: 304
+- **library:datasets**: 87
+- **library:mlcroissant**: 87
 - **text-generation**: 87
-- **library:datasets**: 86
-- **library:mlcroissant**: 86
 - **modality:text**: 82
 - **language:en**: 76
 - **license:apache-2.0**: 75
@@ -161,19 +161,19 @@
 - **library:pandas**: 32
 - **task_categories:text-generation**: 32
 - **library:dask**: 31
+- **modality:image**: 28
 - **eval-results**: 27
 - **license:other**: 27
-- **modality:image**: 27
 - **deploy:sagemaker**: 25
 - **enterprise**: 25
 - **size_categories:n<1K**: 25
 - **modality:tabular**: 24
+- **size_categories:10K<n<100K**: 22
 - **qwen3**: 21
-- **size_categories:10K<n<100K**: 21
 - **license:cc-by-4.0**: 18
+- **modality:video**: 17
 - **task_categories:robotics**: 17
 - **api**: 16
-- **modality:video**: 16
 - **size_categories:100K<n<1M**: 15
 - **multilinguality:monolingual**: 14
 - **source_datasets:original**: 14

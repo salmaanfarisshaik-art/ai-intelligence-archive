@@ -805,6 +805,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.29738v2](http://arxiv.org/abs/2605.29738v2)
 
+## Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models
+- **ID**: arxiv_2605.30251v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30251v2](http://arxiv.org/abs/2605.30251v2)
+
 ## Exploring Autonomous Agentic Data Engineering for Model Specialization
 - **ID**: arxiv_2605.30407v3
 - **Source**: ArXiv
@@ -3990,6 +3995,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13912v1](http://arxiv.org/abs/2610.13912v1)
 
+## LongHisDoc: A Comprehensive Benchmark for Chinese Long Historical Document Understanding
+- **ID**: arxiv_2610.14531v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14531v2](http://arxiv.org/abs/2610.14531v2)
+
 ## Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges
 - **ID**: arxiv_2610.18766v1
 - **Source**: ArXiv
@@ -4109,6 +4119,11 @@
 - **ID**: arxiv_2610.22355v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22355v1](http://arxiv.org/abs/2610.22355v1)
+
+## MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation
+- **ID**: arxiv_2610.23234v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23234v2](http://arxiv.org/abs/2610.23234v2)
 
 ## VISTA: Steering LLMs with Latent User Values Inferred from a Few Survey Answers
 - **ID**: arxiv_2610.23702v1
@@ -4264,4 +4279,34 @@
 - **ID**: arxiv_2610.26860v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26860v1](http://arxiv.org/abs/2610.26860v1)
+
+## UvA-MT's Participation in the WMT26 General Translation Shared Task
+- **ID**: arxiv_2610.27852v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27852v1](http://arxiv.org/abs/2610.27852v1)
+
+## Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli
+- **ID**: arxiv_2610.27894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27894v1](http://arxiv.org/abs/2610.27894v1)
+
+## CollabSciReM: Aligning Language Models for Scientific Conversations via Science-Aware Reward Decomposition
+- **ID**: arxiv_2610.27901v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27901v1](http://arxiv.org/abs/2610.27901v1)
+
+## Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing
+- **ID**: arxiv_2610.27908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27908v1](http://arxiv.org/abs/2610.27908v1)
+
+## Why Do LLMs Accept Generics? Explaining Acceptability using Psycholinguistic and Model-Derived Factors
+- **ID**: arxiv_2610.27928v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27928v1](http://arxiv.org/abs/2610.27928v1)
+
+## From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index
+- **ID**: arxiv_2610.27937v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27937v1](http://arxiv.org/abs/2610.27937v1)
 

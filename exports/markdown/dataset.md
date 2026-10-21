@@ -1306,6 +1306,12 @@
 - **URL**: [https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3](https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3)
 - **Tags**: modality:text, region:us, size_categories:10K<n<100K
 
+## hdlzidane/ConteRecopilacion
+- **ID**: hf_ds_6accfa5c558696f3caf5dbfc
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/hdlzidane/ConteRecopilacion](https://huggingface.co/datasets/hdlzidane/ConteRecopilacion)
+- **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, modality:video, region:us, size_categories:10K<n<100K
+
 ## sjkhfuk/fofo
 - **ID**: hf_ds_6acfd70a1ee5628d262f3350
 - **Source**: HuggingFace Datasets

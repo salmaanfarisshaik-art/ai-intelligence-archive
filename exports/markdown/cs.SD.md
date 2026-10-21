@@ -200,3 +200,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23745v1](http://arxiv.org/abs/2610.23745v1)
 
+## APRIL: Ambiguity-Aware Expert Routing for Respiratory Sound Domain-Incremental Learning
+- **ID**: arxiv_2610.27942v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27942v1](http://arxiv.org/abs/2610.27942v1)
+

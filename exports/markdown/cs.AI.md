@@ -65,6 +65,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
 
+## How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
+- **ID**: arxiv_2508.01300v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.01300v2](http://arxiv.org/abs/2508.01300v2)
+
 ## SMA: Who Said That? Auditing Membership Leakage in Semi-Black-box RAG Controlling
 - **ID**: arxiv_2508.09105v3
 - **Source**: ArXiv
@@ -184,6 +189,11 @@
 - **ID**: arxiv_2602.14035v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14035v2](http://arxiv.org/abs/2602.14035v2)
+
+## Tabular Foundation Models Can Learn Association Rules
+- **ID**: arxiv_2602.14622v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.14622v3](http://arxiv.org/abs/2602.14622v3)
 
 ## When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation
 - **ID**: arxiv_2602.16763v4
@@ -3005,6 +3015,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.15989v1](http://arxiv.org/abs/2609.15989v1)
 
+## Beyond Episodic AI: Cognitive Field Networks for Biologically Inspired Persistent Cognition
+- **ID**: arxiv_2609.16752v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.16752v3](http://arxiv.org/abs/2609.16752v3)
+
 ## FlexEE: Self-Speculative and KV-Compatible Early Exiting for Offloading-Aware LLM Inference
 - **ID**: arxiv_2609.17008v1
 - **Source**: ArXiv
@@ -4055,6 +4070,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24873v1](http://arxiv.org/abs/2610.24873v1)
 
+## From Proposal to Execution: Modeling Interaction Semantics in Shared Autonomy
+- **ID**: arxiv_2610.25496v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.25496v2](http://arxiv.org/abs/2610.25496v2)
+
 ## LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences
 - **ID**: arxiv_2610.26787v1
 - **Source**: ArXiv
@@ -4089,4 +4109,49 @@
 - **ID**: arxiv_2610.26845v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26845v1](http://arxiv.org/abs/2610.26845v1)
+
+## SAPD: Learning from Agent Experience without Environment Interaction
+- **ID**: arxiv_2610.27847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27847v1](http://arxiv.org/abs/2610.27847v1)
+
+## Physical Operating-Condition-Guided Vision-Language Matching for Cavitation Diagnosis in Industrial Pipeline Systems
+- **ID**: arxiv_2610.27860v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27860v1](http://arxiv.org/abs/2610.27860v1)
+
+## Automatic Differentiation with Constraints in Forward and Inverse Problems
+- **ID**: arxiv_2610.27888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27888v1](http://arxiv.org/abs/2610.27888v1)
+
+## Staged Continual Adaptation of Multimodal Foundation Models for Japanese Financial Documents
+- **ID**: arxiv_2610.27904v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27904v1](http://arxiv.org/abs/2610.27904v1)
+
+## MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records
+- **ID**: arxiv_2610.27911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27911v1](http://arxiv.org/abs/2610.27911v1)
+
+## ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models
+- **ID**: arxiv_2610.27913v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27913v1](http://arxiv.org/abs/2610.27913v1)
+
+## Quantum-JEPA: Quantum Born Priors for Latent-Action JEPA World Models
+- **ID**: arxiv_2610.27921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27921v1](http://arxiv.org/abs/2610.27921v1)
+
+## From Comparison to Selection: Enhancing Cross-Scale Generalization of Pointer Networks Trained with Reinforcement Learning for Capacitated Drone Delivery Routing
+- **ID**: arxiv_2610.27936v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27936v1](http://arxiv.org/abs/2610.27936v1)
+
+## HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data
+- **ID**: arxiv_2610.27941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27941v1](http://arxiv.org/abs/2610.27941v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.27852v1",
+  "schema_version": "1.0",
+  "name": "UvA-MT's Participation in the WMT26 General Translation Shared Task",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.27852v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.27852v1",
+    "updated": "2026-10-20T08:33:34Z",
+    "published": "2026-10-20T08:33:34Z",
+    "title": "UvA-MT's Participation in the WMT26 General Translation Shared Task",
+    "summary": "This paper presents UvA-MT's submission to the WMT 2026 General Machine Translation shared task, competing in the unconstrained track across all 23 translation directions. This year, we fully leverage the test-time methods of Large Language Models (LLMs) for machine translation. Specifically, (1) we use sequential sampling with a refinement prompt to generate a pool of translation candidates for each source segment, a strategy shown to outperform traditional parallel sampling; and (2) we employ LLMs as pairwise judges to select the best candidate via a round-robin voting mechanism, with offline evaluation on the WMT25 benchmark showing a very clear improvement over point-wise best-of-N selection. Combined, these two strategies form our WMT26 submission.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T08:33:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.27852v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

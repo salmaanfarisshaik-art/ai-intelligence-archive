@@ -525,6 +525,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.01391v2](http://arxiv.org/abs/2602.01391v2)
 
+## Deep learning enables urban change profiling through alignment of historical maps
+- **ID**: arxiv_2602.02154v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.02154v2](http://arxiv.org/abs/2602.02154v2)
+
 ## VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?
 - **ID**: arxiv_2602.04802v3
 - **Source**: ArXiv
@@ -554,6 +559,11 @@
 - **ID**: arxiv_2602.10880v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.10880v2](http://arxiv.org/abs/2602.10880v2)
+
+## Vascular anatomy-aware self-supervised pre-training for X-ray angiogram analysis
+- **ID**: arxiv_2602.11536v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.11536v2](http://arxiv.org/abs/2602.11536v2)
 
 ## ForgeryVCR: Visual-Centric Reasoning via Efficient Forensic Tools in MLLMs for Image Forgery Detection and Localization
 - **ID**: arxiv_2602.14098v2
@@ -735,6 +745,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.02486v3](http://arxiv.org/abs/2604.02486v3)
 
+## SARES-DEIM: Sparse Mixture-of-Experts Meets DETR for Clutter-Aware SAR Ship Detection
+- **ID**: arxiv_2604.04127v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.04127v2](http://arxiv.org/abs/2604.04127v2)
+
 ## SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo
 - **ID**: arxiv_2604.04925v3
 - **Source**: ArXiv
@@ -839,6 +854,11 @@
 - **ID**: arxiv_2605.04702v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.04702v2](http://arxiv.org/abs/2605.04702v2)
+
+## RAM-H1200: A Unified Evaluation and Dataset on Hand Radiographs for Rheumatoid Arthritis
+- **ID**: arxiv_2605.05616v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.05616v3](http://arxiv.org/abs/2605.05616v3)
 
 ## EA-WM: Event-Aware Generative World Model with Structured Kinematic-to-Visual Action Fields
 - **ID**: arxiv_2605.06192v2
@@ -1404,6 +1424,11 @@
 - **ID**: arxiv_2606.23835v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.23835v3](http://arxiv.org/abs/2606.23835v3)
+
+## Yuvion VL: A Multimodal Foundation Model for Adversarial Content and AI Safety
+- **ID**: arxiv_2606.25034v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.25034v3](http://arxiv.org/abs/2606.25034v3)
 
 ## Independent Samples, Correlated Variance A Learnable Cross-View Cue in Path-Traced Stereo Data
 - **ID**: arxiv_2606.25483v2
@@ -4390,6 +4415,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.13006v2](http://arxiv.org/abs/2609.13006v2)
 
+## Rethinking Camouflage Image Generation towards a Training-Free Paradigm
+- **ID**: arxiv_2609.14377v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.14377v2](http://arxiv.org/abs/2609.14377v2)
+
 ## G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity
 - **ID**: arxiv_2609.15018v2
 - **Source**: ArXiv
@@ -5089,6 +5119,11 @@
 - **ID**: arxiv_2609.31620v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31620v1](http://arxiv.org/abs/2609.31620v1)
+
+## Binaural Audio-Visual Instance Segmentation
+- **ID**: arxiv_2609.32180v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32180v2](http://arxiv.org/abs/2609.32180v2)
 
 ## Transform-Aligned Learned Features for Lossy Point Cloud Attribute Compression
 - **ID**: arxiv_2609.34834v2
@@ -6030,6 +6065,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14253v2](http://arxiv.org/abs/2610.14253v2)
 
+## PURE: Refining Feed-forward 3D Reconstruction with Unlabeled Post-training
+- **ID**: arxiv_2610.14698v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.14698v2](http://arxiv.org/abs/2610.14698v2)
+
 ## Deep Learning-based Semantic Segmentation of Dental Radiographs: Comparative Evaluation of PSPNet, DeepLabv3, UNet, and UNet++
 - **ID**: arxiv_2610.15061v3
 - **Source**: ArXiv
@@ -6495,6 +6535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26853v1](http://arxiv.org/abs/2610.26853v1)
 
+## InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation
+- **ID**: arxiv_2610.26853v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26853v2](http://arxiv.org/abs/2610.26853v2)
+
 ## Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
 - **ID**: arxiv_2610.26855v1
 - **Source**: ArXiv
@@ -6514,4 +6559,44 @@
 - **ID**: arxiv_2610.26861v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26861v1](http://arxiv.org/abs/2610.26861v1)
+
+## LaLa-World: Scaling Latent World Models with Natural Language Actions
+- **ID**: arxiv_2610.27851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27851v1](http://arxiv.org/abs/2610.27851v1)
+
+## Manifold Prior Guided Deep Unfolding for Hyperspectral Image Reconstruction
+- **ID**: arxiv_2610.27874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27874v1](http://arxiv.org/abs/2610.27874v1)
+
+## Gaze2HOI: Gaze-Aware Intention Disambiguation for Egocentric Hand-Object Interaction Forecasting
+- **ID**: arxiv_2610.27877v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27877v1](http://arxiv.org/abs/2610.27877v1)
+
+## S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection
+- **ID**: arxiv_2610.27882v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27882v1](http://arxiv.org/abs/2610.27882v1)
+
+## SGLDet: Spectral-aware Global-Local Dynamic Modeling for Multispectral Aerial Object Detection
+- **ID**: arxiv_2610.27883v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27883v1](http://arxiv.org/abs/2610.27883v1)
+
+## EndoWorld-JEPA: Motion-Guided Global-Local Latent World Modeling for Endoscopic Video Representation Learning
+- **ID**: arxiv_2610.27890v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27890v1](http://arxiv.org/abs/2610.27890v1)
+
+## ICIBS: Increasing the Context for Ice Boundary Segmentation
+- **ID**: arxiv_2610.27912v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27912v1](http://arxiv.org/abs/2610.27912v1)
+
+## World Models with Configurable Perception
+- **ID**: arxiv_2610.27914v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27914v1](http://arxiv.org/abs/2610.27914v1)
 

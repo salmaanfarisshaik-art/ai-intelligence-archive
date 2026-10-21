@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.27882v1",
+  "schema_version": "1.0",
+  "name": "S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.27882v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.27882v1",
+    "updated": "2026-10-20T09:06:01Z",
+    "published": "2026-10-20T09:06:01Z",
+    "title": "S$^3$E-Det: A Strict Spatial-Spectral Equivariant Detector for Multispectral Object Detection",
+    "summary": "Multispectral object detection requires detectors to exploit material-dependent spectral responses while maintaining consistent localization under geometric variations. Existing MOD detectors learn discriminative spectral representations, yet lack a unified mechanism that preserves spectral order, adapts spectral-context fusion across pyramid levels, and regulates geometric responses under rotation. To address these limitations, we propose S$^3$E-Det, a strict spatial-spectral equivariant detector that couples ordered spectral modeling with transformation-consistent prediction. Spectral Order-aware Sampling Calibration (SOSC) imposes local order constraints on input-derived spectral features through first-order variation, while Common-Differential Equivariant Fusion (CDEF) adapts spectral-context aggregation across pyramid levels. A compact Geometric Alignment Head (GAH) reconciles invariant and equivariant output properties within a unified prediction stage. Across MODA, HOD3K, and DroneVehicle, S$^3$E-Det combines high detection accuracy with a compact parameter footprint and reduced rotation-induced variation. Code is available at https://github.com/Riiluo/S3E-Det.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:06:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.27882v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

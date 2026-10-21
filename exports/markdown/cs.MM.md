@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14728v2](http://arxiv.org/abs/2501.14728v2)
 
+## A Survey of Generative Categories and Techniques in Multimodal Generative Models
+- **ID**: arxiv_2506.10016v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.10016v4](http://arxiv.org/abs/2506.10016v4)
+
 ## CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation
 - **ID**: arxiv_2607.22494v1
 - **Source**: ArXiv

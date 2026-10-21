@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.17601v2",
+  "schema_version": "1.0",
+  "name": "Decentralized Optimal Equilibrium Learning Over Dynamic Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.17601v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.GT",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.17601v2",
+    "updated": "2026-10-20T09:40:30Z",
+    "published": "2026-09-13T09:39:19Z",
+    "title": "Decentralized Optimal Equilibrium Learning Over Dynamic Networks",
+    "summary": "This paper studies decentralized learning of socially optimal equilibria in finite normal-form games over dynamic communication networks. Each agent observes only its own realized payoffs, does not know the game a priori, and can communicate only with time-varying neighbors using low-bandwidth messages. We propose networked decentralized optimal equilibrium learning dynamics in which agents generate randomized semantic content/discontent signals from local payoff comparisons and exchange time-stamped time-stacked tables rather than raw actions, payoff information or local estimates/parameters. The method combines table fusion with temporal majority reconstruction to mitigate dynamic communication while preserving fully decentralized operation. We establish finite-time logarithmic regret guarantees, with an in-phase exploration perturbation, for optimal equilibrium selection under utilitarian and proportional-fair social welfare objectives. Simulation results further show that the proposed approach can effectively select socially desirable equilibria over dynamic communication networks.",
+    "primary_category": "cs.GT"
+  },
+  "retrieval_timestamp": "2026-10-21T01:17:28Z",
+  "last_updated": "2026-10-20T09:40:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.17601v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

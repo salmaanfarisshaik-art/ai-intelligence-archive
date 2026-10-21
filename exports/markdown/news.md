@@ -6111,6 +6111,11 @@
 - **URL**: [https://openai.com/index/ten-years](https://openai.com/index/ten-years)
 
 ## 
+- **ID**: rss_https://openai.com/index/terminal-x
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/terminal-x](https://openai.com/index/terminal-x)
+
+## 
 - **ID**: rss_https://openai.com/index/testing-ads-in-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/testing-ads-in-chatgpt](https://openai.com/index/testing-ads-in-chatgpt)

@@ -188,6 +188,7 @@
 | [ClinConsensus: A Physician-Calibrated Benchmark for Evaluating Clinical Rubric Coverage in Chinese Medical LLMs](http://arxiv.org/abs/2603.02097v6) | ArXiv |  | 1 |
 | [Closing Cost-Quality Gap in Document VLMs: Difficulty-Aware Data Curation and Quality-Adjusted Deployment Economics](http://arxiv.org/abs/2609.01575v1) | ArXiv |  | 1 |
 | [CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG](http://arxiv.org/abs/2608.07458v1) | ArXiv |  | 1 |
+| [CollabSciReM: Aligning Language Models for Scientific Conversations via Science-Aware Reward Decomposition](http://arxiv.org/abs/2610.27901v1) | ArXiv |  | 1 |
 | [Collective Bias Mitigation via Model Routing and Collaboration](http://arxiv.org/abs/2610.03240v1) | ArXiv |  | 1 |
 | [Comment-level Topic Drift Analysis in the Reddit Corpus](http://arxiv.org/abs/2608.19133v1) | ArXiv |  | 1 |
 | [Comparison of techniques for fine-tuning open-weight models for entity extraction from radiology reports](http://arxiv.org/abs/2609.40236v1) | ArXiv |  | 1 |
@@ -324,6 +325,7 @@
 | [FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models](http://arxiv.org/abs/2607.29602v2) | ArXiv |  | 1 |
 | [From Concept Alignment to Causal Grounding: An Intervention Test of Chain-of-Thought Faithfulness](http://arxiv.org/abs/2609.23065v2) | ArXiv |  | 1 |
 | [From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification](http://arxiv.org/abs/2609.01564v1) | ArXiv |  | 1 |
+| [From DQI to C-DQI: Automatic Codebook Generation and Evaluation for Measuring Computational Discourse Quality Index](http://arxiv.org/abs/2610.27937v1) | ArXiv |  | 1 |
 | [From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](http://arxiv.org/abs/2608.11171v1) | ArXiv |  | 1 |
 | [From Knowledge Access to Source Learning: Developing Source-Specific Competence](http://arxiv.org/abs/2610.02150v1) | ArXiv |  | 1 |
 | [From National Curricula to Cultural Awareness: Constructing Open-Ended Culture-Specific Question Answering Dataset](http://arxiv.org/abs/2601.04632v2) | ArXiv |  | 1 |
@@ -475,6 +477,7 @@
 | [Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility](http://arxiv.org/abs/2608.03930v1) | ArXiv |  | 1 |
 | [Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs](http://arxiv.org/abs/2609.18935v1) | ArXiv |  | 1 |
 | [LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning](http://arxiv.org/abs/2609.38137v1) | ArXiv |  | 1 |
+| [LongHisDoc: A Comprehensive Benchmark for Chinese Long Historical Document Understanding](http://arxiv.org/abs/2610.14531v2) | ArXiv |  | 2 |
 | [Loop the Loopies!](http://arxiv.org/abs/2607.16051v1) | ArXiv |  | 1 |
 | [Looping Is Not Reliability: State-Bound Evidence and Typed Revision Contracts for Agentic Code Repair](http://arxiv.org/abs/2607.24604v1) | ArXiv |  | 1 |
 | [LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations](http://arxiv.org/abs/2606.14600v1) | ArXiv |  | 1 |
@@ -530,6 +533,7 @@
 | [Multi-Level Narrative Evaluation Outperforms Lexical Features for Mental Health](http://arxiv.org/abs/2604.27846v2) | ArXiv |  | 1 |
 | [Multi-Target Few-Shot Prompting with Diffusion Language Models](http://arxiv.org/abs/2610.22294v1) | ArXiv |  | 1 |
 | [Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](http://arxiv.org/abs/2602.05547v3) | ArXiv |  | 1 |
+| [MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation](http://arxiv.org/abs/2610.23234v2) | ArXiv |  | 1 |
 | [Multilingual Agent-Based World Modeling for Social Science](http://arxiv.org/abs/2512.07195v2) | ArXiv |  | 1 |
 | [Multimodal QUD: Inquisitive Questions from Scientific Figures](http://arxiv.org/abs/2604.23733v2) | ArXiv |  | 1 |
 | [Muslim: A Deployed Arabic Voice AI Platform for Grounded Islamic Knowledge](http://arxiv.org/abs/2609.31511v1) | ArXiv |  | 1 |
@@ -583,6 +587,7 @@
 | [Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models](http://arxiv.org/abs/2609.19113v1) | ArXiv |  | 1 |
 | [PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data](http://arxiv.org/abs/2610.06825v1) | ArXiv |  | 1 |
 | [PlotTwist: A Creative Plot Generation Framework with Small Language Models](http://arxiv.org/abs/2603.16410v2) | ArXiv |  | 1 |
+| [Polarity Blindness in LLM Safety: A Systematic Study of Negation, Antonym Substitution, and Adversarial Framing](http://arxiv.org/abs/2610.27908v1) | ArXiv |  | 1 |
 | [Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections](http://arxiv.org/abs/2607.25953v1) | ArXiv |  | 1 |
 | [PolyJarvis: An LLM-Orchestrated Agent for Automated All-Atom Molecular Dynamics of Amorphous Homopolymers](http://arxiv.org/abs/2604.02537v3) | ArXiv |  | 1 |
 | [Post-Training Large Language Models via Reinforcement Learning from Self-Feedback](http://arxiv.org/abs/2507.21931v2) | ArXiv |  | 1 |
@@ -656,6 +661,7 @@
 | [SAFE-MR: Evidence Sufficiency Learning for Selective Multimodal Rumor Detection](http://arxiv.org/abs/2610.06708v1) | ArXiv |  | 1 |
 | [SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems](http://arxiv.org/abs/2603.17373v2) | ArXiv |  | 1 |
 | [Safety Mid-Training: Internalizing LLM Safety as a Foundational Capability](http://arxiv.org/abs/2610.26809v1) | ArXiv |  | 1 |
+| [Same Evidence, Different Answers: Canonical-Context On-Policy Distillation for Multi-Turn Language Models](http://arxiv.org/abs/2605.30251v2) | ArXiv |  | 1 |
 | [Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?](http://arxiv.org/abs/2608.05097v1) | ArXiv |  | 1 |
 | [Same Scores, Different Decisions: Evaluating JEV and Language Models for Legal Document Understanding](http://arxiv.org/abs/2609.27678v1) | ArXiv |  | 1 |
 | [Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B](http://arxiv.org/abs/2607.28576v1) | ArXiv |  | 1 |
@@ -745,6 +751,7 @@
 | [TCMIIES: A Browser-Based LLM-Powered Intelligent Information Extraction System for Academic Literature](http://arxiv.org/abs/2605.07507v2) | ArXiv |  | 1 |
 | [Telescopic Language Models](http://arxiv.org/abs/2609.35769v1) | ArXiv |  | 1 |
 | [TEMPER: Testing Emotional Perturbation in Quantitative Reasoning](http://arxiv.org/abs/2604.07801v2) | ArXiv |  | 1 |
+| [Testing Associative Creativity in Humans and Multimodal LLMs with Difficult-to-Name Visual Stimuli](http://arxiv.org/abs/2610.27894v1) | ArXiv |  | 1 |
 | [Testing Hypotheses from the Social Approval Theory of Online Hate: An Analysis of 110 Million Messages from Parler](http://arxiv.org/abs/2507.10810v3) | ArXiv |  | 1 |
 | [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](http://arxiv.org/abs/2610.18868v1) | ArXiv |  | 1 |
 | [Text Corpora as Concept Fields: Black-Box Hallucination and Novelty Measurement](http://arxiv.org/abs/2605.05103v3) | ArXiv |  | 1 |
@@ -808,6 +815,7 @@
 | [Unintended Effects of Geographic Conditioning in Large Language Models](http://arxiv.org/abs/2606.18124v1) | ArXiv |  | 1 |
 | [Untangling the Mechanisms of Misleading Context in Medical Question Answering](http://arxiv.org/abs/2609.02754v1) | ArXiv |  | 1 |
 | [User Feedback Provides a Unique Signal that LLMs Can not Detect](http://arxiv.org/abs/2609.02859v1) | ArXiv |  | 1 |
+| [UvA-MT's Participation in the WMT26 General Translation Shared Task](http://arxiv.org/abs/2610.27852v1) | ArXiv |  | 1 |
 | [Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1) | ArXiv |  | 1 |
 | [VASPO: Self-Distillation with Privileged Value Estimation](http://arxiv.org/abs/2610.20516v1) | ArXiv |  | 1 |
 | [VDAR-Router: Adaptive LLMs Routing via Verbalized Query Difficulty Analysis Retrieval](http://arxiv.org/abs/2607.18098v1) | ArXiv |  | 1 |
@@ -846,6 +854,7 @@
 | [Which Values Do LLMs Confuse? A Schwartz-Based Recognition Study](http://arxiv.org/abs/2607.20270v1) | ArXiv |  | 1 |
 | [Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models](http://arxiv.org/abs/2610.24795v1) | ArXiv |  | 1 |
 | [Why are all LLMs Obsessed with Japanese Culture? On the Hidden Cultural and Regional Biases of LLMs](http://arxiv.org/abs/2604.21751v2) | ArXiv |  | 2 |
+| [Why Do LLMs Accept Generics? Explaining Acceptability using Psycholinguistic and Model-Derived Factors](http://arxiv.org/abs/2610.27928v1) | ArXiv |  | 1 |
 | [WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning](http://arxiv.org/abs/2607.09328v2) | ArXiv |  | 1 |
 | [Will Scaling Improve Social Simulation with LLMs?](http://arxiv.org/abs/2607.02464v2) | ArXiv |  | 1 |
 | [Wisdom in Unity: The Role of Multilingual Training in Figurative Language Identification in Proverbs](http://arxiv.org/abs/2608.08090v2) | ArXiv |  | 1 |
