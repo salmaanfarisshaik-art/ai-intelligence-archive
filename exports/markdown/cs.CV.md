@@ -1,5 +1,10 @@
 # Cs.Cv Export
 
+## Taskonomy: Disentangling Task Transfer Learning
+- **ID**: arxiv_1804.08328v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1804.08328v2](http://arxiv.org/abs/1804.08328v2)
+
 ## VGGHeads: 3D Multi Head Alignment with a Large-Scale Synthetic Dataset
 - **ID**: arxiv_2407.18245v3
 - **Source**: ArXiv
@@ -264,6 +269,11 @@
 - **ID**: arxiv_2509.07996v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.07996v4](http://arxiv.org/abs/2509.07996v4)
+
+## Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation
+- **ID**: arxiv_2509.18912v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.18912v2](http://arxiv.org/abs/2509.18912v2)
 
 ## AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning
 - **ID**: arxiv_2509.25699v4
@@ -5675,6 +5685,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.06814v2](http://arxiv.org/abs/2610.06814v2)
 
+## TAPDreamer: Transferable Adversarial Patches for World Action Models
+- **ID**: arxiv_2610.06814v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.06814v3](http://arxiv.org/abs/2610.06814v3)
+
 ## UniSlider: Perceptually Uniform Sliders for Continuous Image Editing
 - **ID**: arxiv_2610.06831v1
 - **Source**: ArXiv
@@ -6599,4 +6614,64 @@
 - **ID**: arxiv_2610.27914v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27914v1](http://arxiv.org/abs/2610.27914v1)
+
+## OverSeer: Multi-Agent World Models Beyond What Agents See
+- **ID**: arxiv_2610.28554v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28554v1](http://arxiv.org/abs/2610.28554v1)
+
+## Continual Concept Personalization in Diffusion Models via Residual-Space Adaptation
+- **ID**: arxiv_2610.28567v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28567v1](http://arxiv.org/abs/2610.28567v1)
+
+## Can a Display Be Used for Rapid LiDAR-Camera Extrinsic Calibration?
+- **ID**: arxiv_2610.28571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28571v1](http://arxiv.org/abs/2610.28571v1)
+
+## WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction
+- **ID**: arxiv_2610.28590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28590v1](http://arxiv.org/abs/2610.28590v1)
+
+## Learning the 4D World through Point Trajectory Forecasting
+- **ID**: arxiv_2610.28594v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28594v1](http://arxiv.org/abs/2610.28594v1)
+
+## Neural Implicit Energy Optimization for LiDAR Mapping
+- **ID**: arxiv_2610.28598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28598v1](http://arxiv.org/abs/2610.28598v1)
+
+## KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting
+- **ID**: arxiv_2610.28615v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28615v1](http://arxiv.org/abs/2610.28615v1)
+
+## MindView: Benchmarking Generative Multi-View Spatial Intelligence
+- **ID**: arxiv_2610.28622v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28622v1](http://arxiv.org/abs/2610.28622v1)
+
+## PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos
+- **ID**: arxiv_2610.28625v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28625v1](http://arxiv.org/abs/2610.28625v1)
+
+## SolarRenderer: Few-Step Generative Reference Rendering
+- **ID**: arxiv_2610.28630v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28630v1](http://arxiv.org/abs/2610.28630v1)
+
+## AEON: Unifying Video and 3D World Models
+- **ID**: arxiv_2610.28631v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28631v1](http://arxiv.org/abs/2610.28631v1)
+
+## Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
+- **ID**: arxiv_2610.28632v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28632v1](http://arxiv.org/abs/2610.28632v1)
 

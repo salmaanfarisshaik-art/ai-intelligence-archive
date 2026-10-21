@@ -112,6 +112,7 @@
 | [ActiveEvidence: Decision-Focused Evidence Graphs with Verifiable Acquisition Gaps](http://arxiv.org/abs/2610.20532v1) | ArXiv |  | 1 |
 | [AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control](http://arxiv.org/abs/2609.30264v1) | ArXiv |  | 1 |
 | [Adaptive Graph-of-Islands Evolution for Automatic Feature Engineering with LLMs](http://arxiv.org/abs/2607.23286v2) | ArXiv |  | 1 |
+| [Adaptive Multi-Token Prediction: How far should we go?](http://arxiv.org/abs/2610.28619v1) | ArXiv |  | 1 |
 | [AdaRoPE: Not All Attention Heads Should Rotate and Scale Equally](http://arxiv.org/abs/2607.19363v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v2) | ArXiv |  | 1 |
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v5) | ArXiv |  | 1 |
@@ -129,6 +130,7 @@
 | [Agentic Auto-Research is Fuzz Testing](http://arxiv.org/abs/2608.09855v1) | ArXiv |  | 1 |
 | [Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](http://arxiv.org/abs/2607.21482v1) | ArXiv |  | 1 |
 | [Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems](http://arxiv.org/abs/2607.21503v1) | ArXiv |  | 1 |
+| [Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection](http://arxiv.org/abs/2610.28560v1) | ArXiv |  | 1 |
 | [Agentic Root Cause Analysis through Evidence-Grounded Reasoning](http://arxiv.org/abs/2607.22385v1) | ArXiv |  | 1 |
 | [Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](http://arxiv.org/abs/2605.06869v3) | ArXiv |  | 1 |
 | [AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](http://arxiv.org/abs/2607.27130v1) | ArXiv |  | 1 |
@@ -159,6 +161,7 @@
 | [Are LLMs Good Financial User Simulators? Multi-view Investor Logic Alignment (MILA)](http://arxiv.org/abs/2609.15727v2) | ArXiv |  | 1 |
 | [Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning](http://arxiv.org/abs/2608.05144v1) | ArXiv |  | 1 |
 | [Artificial Id: Drive and Persistent Alignment in Agentic AI](http://arxiv.org/abs/2609.11911v1) | ArXiv |  | 1 |
+| [ASH: Agents that Self-Hone in Long-Horizon Worlds](http://arxiv.org/abs/2605.14211v6) | ArXiv |  | 1 |
 | [Associative Emotional Learning in Convolutional Neural Networks](http://arxiv.org/abs/2607.19327v1) | ArXiv |  | 1 |
 | [AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs](http://arxiv.org/abs/2608.26004v1) | ArXiv |  | 1 |
 | [Atomic Units of X: The Compression Layer of Intelligence](http://arxiv.org/abs/2607.12634v2) | ArXiv |  | 1 |
@@ -187,6 +190,7 @@
 | [Beyond Runtime Enforcement: Shield Synthesis as Defensibility Analysis for Adversarial Networks](http://arxiv.org/abs/2606.13621v1) | ArXiv |  | 1 |
 | [Beyond SAEs: Consistent Concept Discovery with Sparse Coding](http://arxiv.org/abs/2610.23801v1) | ArXiv |  | 1 |
 | [Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning](http://arxiv.org/abs/2607.21558v1) | ArXiv |  | 1 |
+| [Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning](http://arxiv.org/abs/2610.28584v1) | ArXiv |  | 1 |
 | [Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication](http://arxiv.org/abs/2608.19161v1) | ArXiv |  | 1 |
 | [Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations](http://arxiv.org/abs/2608.06305v1) | ArXiv |  | 1 |
 | [Bias Analysis of L2 Speaking Assessment Systems Using Concept Activation Vectors](http://arxiv.org/abs/2608.06300v1) | ArXiv |  | 1 |
@@ -302,6 +306,7 @@
 | [Embedded Universal Predictive Intelligence: a coherent framework for multi-agent learning](http://arxiv.org/abs/2511.22226v3) | ArXiv |  | 1 |
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](http://arxiv.org/abs/2610.10498v1) | ArXiv |  | 1 |
 | [Emergent Collusion in Long-Horizon LLM Agent Interaction](http://arxiv.org/abs/2609.24967v1) | ArXiv |  | 1 |
+| [EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model](http://arxiv.org/abs/2509.22407v3) | ArXiv |  | 1 |
 | [EnigmaForge: The Question Is Hidden in the Story](http://arxiv.org/abs/2609.30144v1) | ArXiv |  | 1 |
 | [Environment Evolution for Terminal Agents](http://arxiv.org/abs/2609.04128v1) | ArXiv |  | 1 |
 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](http://arxiv.org/abs/2606.13602v1) | ArXiv |  | 1 |
@@ -319,6 +324,8 @@
 | [EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation](http://arxiv.org/abs/2610.03273v1) | ArXiv |  | 1 |
 | [Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence](http://arxiv.org/abs/2609.27664v1) | ArXiv |  | 1 |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
+| [Evolving Agent Interfaces](http://arxiv.org/abs/2610.28601v1) | ArXiv |  | 1 |
+| [Evolving Semantic Indexes for Generative Retrieval](http://arxiv.org/abs/2610.28568v1) | ArXiv |  | 1 |
 | [EvoSCM: Scientific Belief Revision Through Causal Model Evolution and Experimentation](http://arxiv.org/abs/2609.01526v1) | ArXiv |  | 1 |
 | [ExecCritic: Learn to Test, Test to Improve for Coding Agents](http://arxiv.org/abs/2609.09133v1) | ArXiv |  | 1 |
 | [Expansion Counts under Standard A* Tie-Breaking Strategies on the Final Plateau](http://arxiv.org/abs/2609.23293v1) | ArXiv |  | 1 |
@@ -377,6 +384,7 @@
 | [Generating Heterogeneous 3D Geological Microstructures from 2D Images via a Stable Diffusion-Adversarial Model](http://arxiv.org/abs/2609.20358v1) | ArXiv |  | 1 |
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
 | [GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](http://arxiv.org/abs/2610.12391v1) | ArXiv |  | 1 |
+| [Gibson Env: Real-World Perception for Embodied Agents](http://arxiv.org/abs/1808.10654v2) | ArXiv |  | 1 |
 | [Global Consistency Repair for Natural-Language Claim Sets](http://arxiv.org/abs/2601.13600v2) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
@@ -540,6 +548,7 @@
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1) | ArXiv |  | 1 |
 | [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v3) | ArXiv |  | 1 |
 | [Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies](http://arxiv.org/abs/2608.02509v1) | ArXiv |  | 1 |
+| [OptScientist: Automated Discovery of Optimization Laws](http://arxiv.org/abs/2610.28562v1) | ArXiv |  | 1 |
 | [ORDER: Task-Conditioned Routing for Retrieval-Augmented Generation](http://arxiv.org/abs/2609.17012v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v1) | ArXiv |  | 1 |
 | [OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models](http://arxiv.org/abs/2607.28609v2) | ArXiv |  | 1 |
@@ -606,6 +615,7 @@
 | [Reasoning as Pattern Matching: Shared Mechanisms in Human and LLM Everyday Reasoning](http://arxiv.org/abs/2606.13607v1) | ArXiv |  | 1 |
 | [Reasoning with Continuous Latent Diffusion](http://arxiv.org/abs/2609.35694v1) | ArXiv |  | 1 |
 | [Reasoning with Continuous Latent Diffusion](http://arxiv.org/abs/2609.35694v2) | ArXiv |  | 1 |
+| [Reasoning with Continuous Latent Diffusion](http://arxiv.org/abs/2609.35694v3) | ArXiv |  | 2 |
 | [Reasoning-Token Spikes Under Prompted Untruthful Responding in Large Language Models](http://arxiv.org/abs/2610.10405v1) | ArXiv |  | 1 |
 | [Recalling Too Well: Sycophancy Evaluation and Mitigation in Memory-Augmented Models](http://arxiv.org/abs/2606.10949v2) | ArXiv |  | 1 |
 | [RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing](http://arxiv.org/abs/2610.10507v1) | ArXiv |  | 1 |
@@ -637,6 +647,7 @@
 | [SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment](http://arxiv.org/abs/2609.02786v1) | ArXiv |  | 1 |
 | [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v3) | ArXiv |  | 1 |
 | [Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety](http://arxiv.org/abs/2603.10044v4) | ArXiv |  | 1 |
+| [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](http://arxiv.org/abs/2610.28578v1) | ArXiv |  | 1 |
 | [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](http://arxiv.org/abs/2609.30192v1) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
 | [Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy](http://arxiv.org/abs/2610.26836v1) | ArXiv |  | 1 |
@@ -664,6 +675,7 @@
 | [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
 | [Self-Evolving Agent Harness](http://arxiv.org/abs/2610.18813v1) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
+| [Semantic Observability for Autonomous Systems Diagnostics](http://arxiv.org/abs/2610.28611v1) | ArXiv |  | 1 |
 | [Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction](http://arxiv.org/abs/2609.17100v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
@@ -792,6 +804,7 @@
 | [VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies](http://arxiv.org/abs/2608.12282v1) | ArXiv |  | 2 |
 | [Valerant: An Automatic Navigable Game Map Generator via Action-Conditioned World Model Exploration](http://arxiv.org/abs/2609.09418v3) | ArXiv |  | 1 |
 | [Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models](http://arxiv.org/abs/2610.10506v1) | ArXiv |  | 1 |
+| [Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates](http://arxiv.org/abs/2610.28604v1) | ArXiv |  | 1 |
 | [Verifiable Social Reasoning for LLM Assistants](http://arxiv.org/abs/2609.17496v1) | ArXiv |  | 1 |
 | [Verification of Adaptive Agentic Controllers through Finite Rule Revision](http://arxiv.org/abs/2607.09770v2) | ArXiv |  | 1 |
 | [Verifier Errors in RLVR: Reward Hacking, Limits of Feedback, and Selective Control](http://arxiv.org/abs/2609.35677v1) | ArXiv |  | 1 |
@@ -804,6 +817,7 @@
 | [WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning](http://arxiv.org/abs/2606.18147v1) | ArXiv |  | 1 |
 | [What AI Red-Team Evaluations Can and Cannot Prove](http://arxiv.org/abs/2607.21735v2) | ArXiv |  | 1 |
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |
+| [What Do RTL Repair Benchmarks Actually Measure?](http://arxiv.org/abs/2610.28595v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
 | [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
 | [What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence](http://arxiv.org/abs/2609.21924v1) | ArXiv |  | 1 |

@@ -4872,6 +4872,10 @@
 - **ID**: model_prism_ml_ternary_bonsai_8b_gguf
 - **Source**: 
 
+## prismor/prompt-guard-1.5b
+- **ID**: model_prismor_prompt_guard_1_5b
+- **Source**: 
+
 ## prithivMLmods/Qwen-Image-2.1-PE-T2I-GGUF
 - **ID**: model_prithivmlmods_qwen_image_2_1_pe_t2i_gguf
 - **Source**: 

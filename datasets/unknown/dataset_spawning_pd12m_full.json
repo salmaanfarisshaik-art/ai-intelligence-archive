@@ -1,0 +1,30 @@
+{
+  "_id": "6735d9d15b0115118c8c9d37",
+  "id": "Spawning/pd12m-full",
+  "author": "Spawning",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-11-26T03:07:27.000Z",
+  "likes": 21,
+  "private": false,
+  "sha": "7bda6bfe13c6a39fd0a286adced5df1228041720",
+  "description": "This dataset is the downloaded variant of Spawning/PD12M. More specifically, this dataset\nis compatible with webdataset. It was made public after obtaining permission\nfrom the  original authors of the dataset.\nYou can use the following to explore the dataset with webdataset:\nimport webdataset as wds\n\ndataset_path = \"pipe:curl -s -f -L https://huggingface.co/datasets/sayakpaul/pd12m-full/resolve/main/{00155..02480}.tar\"\n\ndataset = (\n    wds.WebDataset(dataset_path… See the full description on the dataset page: https://huggingface.co/datasets/Spawning/pd12m-full.",
+  "downloads": 29503,
+  "tags": [
+    "language:en",
+    "license:cdla-permissive-2.0",
+    "size_categories:10M<n<100M",
+    "format:webdataset",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:webdataset",
+    "library:mlcroissant",
+    "region:us",
+    "image"
+  ],
+  "createdAt": "2024-11-14T11:06:57.000Z",
+  "key": "",
+  "unique_id": "dataset_spawning_pd12m_full",
+  "schema_version": "1.0"
+}

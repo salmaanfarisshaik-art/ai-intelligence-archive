@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.28622v1",
+  "schema_version": "1.0",
+  "name": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.28622v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.28622v1",
+    "updated": "2026-10-20T17:58:25Z",
+    "published": "2026-10-20T17:58:25Z",
+    "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+    "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view observations remains underexplored. We introduce MindView, a benchmark for generative multi-view spatial intelligence with 1,500 samples from 513 scenes across three indoor datasets. Its seven tasks form two families: geometry-dominant tasks specify changes in camera position and orientation, while semantics-dominant tasks require inferring target viewpoints by grounding referred objects and interpreting spatial relations and reference-frame cues. Evaluation of eleven generators reveals substantial room for improvement on MindView. A paired context analysis further shows that all eleven generators obtain lower overall scores under the expanded context setting. These findings motivate us to investigate whether task-specific supervision can improve target-view generation and whether models can use additional multi-view evidence effectively. We therefore fine-tune BAGEL on the MindView training dataset, improving its overall score by 24.3 points and yielding gains across all seven MindView tasks. Beyond these generation gains, the fine-tuned model also yields higher scores on three spatial-understanding benchmarks without training on their annotations, suggesting that learning to generate spatially grounded views may benefit spatial understanding. To improve evidence utilization under expanded context, we propose MindCue, a training-free spatial evidence selector guided by a target-view hypothesis. MindCue reverses the drop in overall score under expanded context and outperforms the standard-context baseline. Overall, MindView provides a concrete testbed for generative multi-view spatial intelligence.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:58:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.28622v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

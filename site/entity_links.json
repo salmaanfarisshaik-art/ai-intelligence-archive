@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:07:03Z",
+  "generated_at": "2026-10-21T13:27:36Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -564,6 +564,11 @@
     {
       "source_id": "model_alennnndy_qwen3_6_27b_awq_4bit",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_alibiserikbay_jevk5",
+      "target_id": "hf_Qwen_Qwen3.5-4B",
       "type": "derived_from"
     },
     {
@@ -1737,6 +1742,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_bytkim_qwen3_8_27b_pi_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic",
       "target_id": "hf_Qwen_Qwen2.5-32B",
       "type": "derived_from"
@@ -2594,6 +2604,11 @@
     {
       "source_id": "model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4",
       "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_farbodtavakkoli_otel_2_0_decision_26b_a4b_4bit",
+      "target_id": "hf_google_gemma-4-26B-A4B-it",
       "type": "derived_from"
     },
     {
@@ -7754,6 +7769,11 @@
     {
       "source_id": "model_redhatai_meta_llama_3_8b_instruct_fp8_kv",
       "target_id": "hf_meta-llama_Meta-Llama-3-8B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_redhatai_mistral_small_24b_instruct_2501_fp8_dynamic",
+      "target_id": "hf_mistralai_Mistral-Small-24B-Instruct-2501",
       "type": "derived_from"
     },
     {

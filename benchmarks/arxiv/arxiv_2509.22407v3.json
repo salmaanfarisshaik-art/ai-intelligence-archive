@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.22407v3",
+  "schema_version": "1.0",
+  "name": "EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.22407v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.22407v3",
+    "updated": "2026-10-20T17:33:39Z",
+    "published": "2025-09-26T14:34:44Z",
+    "title": "EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model",
+    "summary": "The generalization of vision-language-action (VLA) models heavily relies on diverse training data. However, acquiring large-scale robot manipulation data across varied object appearances is costly and labor-intensive. To address this, we introduce Embodied Manipulation Media Adaptation (EMMA), a framework for augmenting VLA policies that combines a generative data engine with an effective training pipeline. We introduce DreamTransfer, a diffusion Transformer-based architecture for generating multi-view consistent and geometrically plausible embodied manipulation videos. It supports text-driven video editing on foreground, background and lighting while preserving 3D structure and geometric fidelity. We also utilize a hybrid training set of real and generated data and propose AdaMix to enhance the training process. AdaMix is a training strategy that adaptively weights samples according to policy performance to emphasize challenging samples. Evaluations show DreamTransfer outperforms previous video generation models in multi-view consistency, geometric fidelity, and text-conditioning precision. In real-world robotic tasks with zero-shot visual settings, our framework achieves a relative performance increase of over 92% compared to training with real data alone, and improves by an additional 17% with AdaMix.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:33:39Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.22407v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

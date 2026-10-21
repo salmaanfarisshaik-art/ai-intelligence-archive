@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.28598v1",
+  "schema_version": "1.0",
+  "name": "Neural Implicit Energy Optimization for LiDAR Mapping",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.28598v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.28598v1",
+    "updated": "2026-10-20T17:47:07Z",
+    "published": "2026-10-20T17:47:07Z",
+    "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+    "summary": "Neural implicit representations provide memory-efficient signed distance field (SDF) parameterizations for large-scale LiDAR scenes, but the geometry recovered from sparse and often noisy inputs carries jitter and artifacts. Classical geometric optimization techniques resolve such artifacts with surface energy functionals, whose minimizers correspond to smooth surfaces. Motivated by this principle, we formulate neural LiDAR mapping as the optimization of energy functionals over the parameter space of neural implicit representations. Specifically, we regularize the signed distance field with an energy functional defined on the shape operator of its level set, which represents the curvature of the surface, thus encouraging smoothness along the surface. This adapts classical geometric priors to the scale of million-point LiDAR maps. Experiments on large-scale datasets show reconstructions with improved smoothness at preserved geometric fidelity, and no additional inference-time cost. The code is publicly available at \\href{https://github.com/HrishikeshVish/nieo}{https://github.com/HrishikeshVish/nieo}",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:47:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.28598v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

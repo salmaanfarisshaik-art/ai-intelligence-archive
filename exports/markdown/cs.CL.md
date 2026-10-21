@@ -220,6 +220,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.26476v3](http://arxiv.org/abs/2509.26476v3)
 
+## Attention-Aligned Reasoning for Large Language Models
+- **ID**: arxiv_2510.03223v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.03223v3](http://arxiv.org/abs/2510.03223v3)
+
 ## CARPAS: Towards Content-Aware Refinement of Provided Aspects for Summarization in Large Language Models
 - **ID**: arxiv_2510.07177v2
 - **Source**: ArXiv
@@ -1719,6 +1724,11 @@
 - **ID**: arxiv_2608.00285v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.00285v2](http://arxiv.org/abs/2608.00285v2)
+
+## Gaokerena: A Small Persian Medical Language Model Family
+- **ID**: arxiv_2608.00932v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00932v6](http://arxiv.org/abs/2608.00932v6)
 
 ## Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation
 - **ID**: arxiv_2608.01666v3
@@ -4309,4 +4319,29 @@
 - **ID**: arxiv_2610.27937v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27937v1](http://arxiv.org/abs/2610.27937v1)
+
+## Large Flow Language Models
+- **ID**: arxiv_2610.28559v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28559v1](http://arxiv.org/abs/2610.28559v1)
+
+## Cache Engineering for Agents
+- **ID**: arxiv_2610.28577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28577v1](http://arxiv.org/abs/2610.28577v1)
+
+## Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation
+- **ID**: arxiv_2610.28586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28586v1](http://arxiv.org/abs/2610.28586v1)
+
+## Benchmarking Arabic Dialects for Math Problems
+- **ID**: arxiv_2610.28607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28607v1](http://arxiv.org/abs/2610.28607v1)
+
+## NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification
+- **ID**: arxiv_2610.28616v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28616v1](http://arxiv.org/abs/2610.28616v1)
 

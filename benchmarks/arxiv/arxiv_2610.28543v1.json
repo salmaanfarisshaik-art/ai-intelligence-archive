@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.28543v1",
+  "schema_version": "1.0",
+  "name": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.28543v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.28543v1",
+    "updated": "2026-10-20T17:11:48Z",
+    "published": "2026-10-20T17:11:48Z",
+    "title": "Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks",
+    "summary": "Discrete diffusion models iteratively denoise a noisy sequence of categorical data such as text, enabling any-order generation with self-correction and in-filling capabilities. This makes them promising candidates for reasoning, planning, and constrained-generation tasks like coding and math. Yet masked and uniform diffusion erase a token's identity in a single corruption event, so their noisy states cannot explicitly represent partially resolved uncertainty in which several alternatives remain plausible. We close this gap with Binary Discrete Diffusion, a family of continuous-time discrete-diffusion processes whose noisy state is a set of candidate tokens per position, represented as a binary membership vector. Binary diffusion changes candidate sets through additions and removals, allowing information to be lost and recovered gradually while the diffusion state itself represents partial uncertainty. On Sudoku-Extreme, Boxoban, and graph coloring, the symmetric formulation of binary diffusion consistently outperforms strong, well-tuned masked and uniform baselines under matched architectures and controlled training, sampling, and tuning budgets, with its largest gains on the hardest instances, while remaining competitive on language modeling (Text8, TinyStories, OpenWebText). These results support candidate sets as an effective intermediate representation for iterative reasoning and show that the corruption kernel can materially change the computation learned by the reverse model.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:11:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.28543v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

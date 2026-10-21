@@ -1294,6 +1294,12 @@
 - **URL**: [https://huggingface.co/datasets/SKPark1/ngii-map-full-light](https://huggingface.co/datasets/SKPark1/ngii-map-full-light)
 - **Tags**: geospatial, korea, license:other, map, modality:geospatial, ngii, region:us, shp, size_categories:1M<n<10M, task_categories:other
 
+## numix/balises-openwindmap-pyrenees
+- **ID**: hf_ds_6a9d8e54cb1f70afa752542c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/numix/balises-openwindmap-pyrenees](https://huggingface.co/datasets/numix/balises-openwindmap-pyrenees)
+- **Tags**: region:us
+
 ## sjkhfuk/fofo
 - **ID**: hf_ds_6aa585f5e13985455758f8eb
 - **Source**: HuggingFace Datasets

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.30526v2",
+  "schema_version": "1.0",
+  "name": "Measuring, Localizing, and Ablating Alignment Signatures in LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.30526v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.30526v2",
+    "updated": "2026-10-20T17:29:28Z",
+    "published": "2026-05-28T20:01:51Z",
+    "title": "Measuring, Localizing, and Ablating Alignment Signatures in LLMs",
+    "summary": "Aligned language models often exhibit a recognizable AI-like style, yet its connection to post-training and internal representations remains poorly understood. In this work, we study whether post-training introduces or amplifies AI-like stylistic regularities and whether these regularities have a localized internal signature. To this end, we compare human text, base-model generations, and aligned-model generations under matched human-source prefixes. Aligned generations show lower human-corpus affinity and higher AI-detection rates than base generations, suggesting that post-training shifts generated text away from human-corpus style and toward detector-visible AI-like text. We then introduce PASTA (Post-training Alignment Signature Targeted Ablation), a training-free method that estimates a post-training alignment signature from aligned-base residual contrasts and ablates the corresponding direction during decoding. Across 11 aligned models and 6 AI detectors, PASTA lowers the detection rate for most aligned models; this effect transfers well across detectors and is not reproduced by random directions. Qualitative analysis suggests that PASTA generations remain relevant and coherent while exhibiting greater stylistic variation. Together, these results show that AI-like stylistic effects of post-training can be measured, localized, and causally tested through activation ablation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:29:28Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.30526v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

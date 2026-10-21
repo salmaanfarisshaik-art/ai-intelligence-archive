@@ -2177,6 +2177,13 @@
       "score": 2.5
     }
   ],
+  "00155": [
+    {
+      "entity_id": "dataset_spawning_pd12m_full",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "0016": [
     {
       "entity_id": "alpaca_-5098730006573396542",
@@ -3514,6 +3521,13 @@
       "score": 1.5
     }
   ],
+  "01652": [
+    {
+      "entity_id": "dataset_open_orca_flan",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "01657": [
     {
       "entity_id": "model_rinna_japanese_gpt_neox_small",
@@ -3825,6 +3839,11 @@
     },
     {
       "entity_id": "dataset_physinonep02_physinonep02",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_realmanrobot_realsource_world",
       "match_type": "exact",
       "score": 1.0
     },
@@ -4158,6 +4177,13 @@
       "entity_id": "dataset_torc_robotics_truckdrive",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "02480": [
+    {
+      "entity_id": "dataset_spawning_pd12m_full",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "02490": [
@@ -5884,6 +5910,11 @@
       "score": 4.0
     },
     {
+      "entity_id": "dataset_lerobot_aloha_sim_transfer_cube_scripted",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
       "entity_id": "dataset_cadene_agibot_alpha_v30",
       "match_type": "exact",
       "score": 2.0
@@ -6731,6 +6762,13 @@
   "04962": [
     {
       "entity_id": "dataset_qqjz_voxeval",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "04975": [
+    {
+      "entity_id": "dataset_shhu2001_scicode_verified",
       "match_type": "exact",
       "score": 1.5
     }
@@ -9336,6 +9374,13 @@
       "score": 1.0
     }
   ],
+  "07705": [
+    {
+      "entity_id": "dataset_open_orca_flan",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "07724": [
     {
       "entity_id": "model_ibm_granite_granite_guardian_3_3_8b",
@@ -10201,6 +10246,11 @@
   "08207": [
     {
       "entity_id": "dataset_bigscience_p3",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_open_orca_flan",
       "match_type": "exact",
       "score": 1.5
     }

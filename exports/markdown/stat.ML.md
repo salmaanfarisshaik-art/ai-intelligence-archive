@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.10643v4](http://arxiv.org/abs/2507.10643v4)
 
+## Bayesian Nonparametric Dynamical Clustering of Time Series
+- **ID**: arxiv_2510.06919v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.06919v2](http://arxiv.org/abs/2510.06919v2)
+
 ## The Causal Description Gap: Information-Theoretic Separations Across Pearl's Hierarchy
 - **ID**: arxiv_2605.02177v2
 - **Source**: ArXiv

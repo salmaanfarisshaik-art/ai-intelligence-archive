@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.28585v1",
+  "schema_version": "1.0",
+  "name": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.28585v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.28585v1",
+    "updated": "2026-10-20T17:39:42Z",
+    "published": "2026-10-20T17:39:42Z",
+    "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+    "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual similarity alone is insufficient: objects must also be recovered, accurately placed, and physically grounded. Existing methods that rely on post-hoc physics settling often misplace objects, producing scenes that look correct but behave poorly under manipulation. We present SceneRig, an agentic system that turns a single image into an editable, simulation-ready scene. SceneRig combines geometric, visual, and physical tools to reconstruct a faithful 3D scene. An agent then performs edit-and-validate loops inside a physics simulator to achieve physical stability. Across diverse inputs, SceneRig improves instance segmentation, object-centric appearance, and 3D placement while keeping the reconstructed scenes physically stable. Furthermore, SceneRig is effective for downstream robotics: its scenes predict real-robot policy outcomes more accurately than the baseline method and more reliably support replay of recorded manipulations without trajectory adaptation.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:39:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.28585v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3fdb3fdf026439be9dd128437ee62862c39f09e1",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tRoboTwin Randomized 47 Tasks, 500 Episodes Each\n\t\n\nThis dataset contains a 500-episode subset for each of 47 randomized RoboTwin\ntasks. Episodes 0 through 499 were selected from each task.\n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\n<task>-demo_randomized-1000/\n  episode_<n>/\n    episode_<n>.hdf5\n    instructions.json\n\nEach HDF5 episode contains robot actions, joint positions, arm metadata, and\nthree encoded camera streams:\n\naction\nobservations/qpos\nobservations/left_arm_dim… See the full description on the dataset page: https://huggingface.co/datasets/sunLry/robotwin-random-47-500.",
-  "downloads": 30404,
+  "downloads": 30406,
   "tags": [
     "task_categories:robotics",
     "language:en",

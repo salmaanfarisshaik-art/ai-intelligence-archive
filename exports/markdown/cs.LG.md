@@ -520,6 +520,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30434v2](http://arxiv.org/abs/2605.30434v2)
 
+## Measuring, Localizing, and Ablating Alignment Signatures in LLMs
+- **ID**: arxiv_2605.30526v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30526v2](http://arxiv.org/abs/2605.30526v2)
+
 ## BRo-JEPA: Learning Modular Transformations in Latent Space
 - **ID**: arxiv_2606.01372v2
 - **Source**: ArXiv
@@ -2175,6 +2180,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18651v2](http://arxiv.org/abs/2610.18651v2)
 
+## On the Monitorability of Natural Language Autoencoders: Identification vs Discrimination
+- **ID**: arxiv_2610.18727v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18727v2](http://arxiv.org/abs/2610.18727v2)
+
 ## SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection
 - **ID**: arxiv_2610.18807v1
 - **Source**: ArXiv
@@ -2339,4 +2349,24 @@
 - **ID**: arxiv_2610.27895v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27895v1](http://arxiv.org/abs/2610.27895v1)
+
+## Binary Discrete Diffusion: Candidate-Set Diffusion for Logic and Planning Tasks
+- **ID**: arxiv_2610.28543v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28543v1](http://arxiv.org/abs/2610.28543v1)
+
+## Learning Computational Structure for Sample-Efficient Prediction
+- **ID**: arxiv_2610.28555v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28555v1](http://arxiv.org/abs/2610.28555v1)
+
+## When Do LLMs Help with Feature Selection? A Systematic Empirical Study
+- **ID**: arxiv_2610.28556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28556v1](http://arxiv.org/abs/2610.28556v1)
+
+## Turning TS2Vec into a Foundation Model for Time Series Classification
+- **ID**: arxiv_2610.28602v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28602v1](http://arxiv.org/abs/2610.28602v1)
 

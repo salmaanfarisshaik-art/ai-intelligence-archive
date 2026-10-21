@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.28571v1",
+  "schema_version": "1.0",
+  "name": "Can a Display Be Used for Rapid LiDAR-Camera Extrinsic Calibration?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.28571v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.28571v1",
+    "updated": "2026-10-20T17:29:44Z",
+    "published": "2026-10-20T17:29:44Z",
+    "title": "Can a Display Be Used for Rapid LiDAR-Camera Extrinsic Calibration?",
+    "summary": "ScreenCalib enables light detection and ranging (LiDAR)--camera extrinsic calibration using an ordinary programmable display, providing known visual markers and controlled geometry while reducing dedicated target preparation. The camera observes displayed AprilTags, whereas the LiDAR measures the physical screen surface and boundary, requiring indirect cross-modal association. Display geometry introduces association ambiguities, while indoor clutter complicates extraction. ScreenCalib addresses these challenges through tag-guided display extraction, geometric hypothesis generation and refinement, and surrounding scene edges for ambiguity resolution. The single-pose mode requires only one static placement. The joint multi-pose mode combines independent static observations through cross-pose consensus and jointly refines the shared extrinsics and tag scale, reducing sensitivity to tag-size measurement errors without requiring continuous motion or inter-pose trajectory estimation. Experiments in simulation and on three different sensor platforms cover mechanical and nonrepetitive LiDARs in clean and cluttered environments. Benchmark results show that ScreenCalib outperforms competitive calibration-board-based methods in translation accuracy. Joint multi-pose refinement further reduces mean rotation and translation errors across the three platforms and improves rendered-map alignment. Evaluation across readily available displays, including cell phones, tablets, laptops, computer monitors, and televisions, further examines ScreenCalib's versatility as a practical alternative to dedicated calibration targets. The source code is available at https://github.com/ZuhaoZou2026/ScreenCalib.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:29:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.28571v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

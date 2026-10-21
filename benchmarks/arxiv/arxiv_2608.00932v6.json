@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.00932v6",
+  "schema_version": "1.0",
+  "name": "Gaokerena: A Small Persian Medical Language Model Family",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.00932v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.00932v6",
+    "updated": "2026-10-20T17:46:25Z",
+    "published": "2026-08-02T02:17:10Z",
+    "title": "Gaokerena: A Small Persian Medical Language Model Family",
+    "summary": "Persian medical NLP is limited by scarce domain-specific resources and insufficient characterization of their coverage, quality, and limitations. We present Gaokerena, a suite of Persian medical resources, and evaluate two Aya-Expanse-8B-derived models as case studies. The suite includes an 85.5-million-word corpus of 101,954 web articles; MF3QA, 24,000 patient-doctor QA pairs selected from 186,029 raw pairs plus 201 translated K-QA items; 1,878 Iranian medical-exam questions (KOPP); 1,089 manually translated medical MMLU questions (FA_MED_MMLU); and approximately 18,000 machine-translated MedMCQA training items filtered by two language-model evaluators. We characterize source composition, orthographic variation, redundancy, topical coverage, QA selection effects, privacy indicators, answer-key balance, extraction artifacts, and translation limitations. On translated medical MMLU, Gaokerena-V achieves 49.31% under direct prompting vs. 46.65% for Aya-Expanse-8B; the unpaired difference is not significant (p=0.21), and a paired exact McNemar test on 1,088 matched questions yields p=0.0502, just above 0.05 and thus inconclusive. Gaokerena-R reaches 52.80% with five-sample self-consistency plus a verifier, but this higher-compute configuration is unmatched to the directly prompted backbone; under matched five-sample chain-of-thought self-consistency without a verifier, it scores 48.58% (529/1,089) vs. 46.92% (511/1,089), with paired exact McNemar p=0.190. English evaluation also reveals a substantial gap relative to Persian. Overall, this work contributes a characterized suite of Persian medical resources; the model results are protocol-specific case studies and do not establish an isolated training advantage or clinical readiness.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:46:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.00932v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

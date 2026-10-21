@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.06919v2",
+  "schema_version": "1.0",
+  "name": "Bayesian Nonparametric Dynamical Clustering of Time Series",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.06919v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.06919v2",
+    "updated": "2026-10-20T17:41:05Z",
+    "published": "2025-10-08T11:52:39Z",
+    "title": "Bayesian Nonparametric Dynamical Clustering of Time Series",
+    "summary": "We present a method that models the evolution of an unbounded number of time series clusters by switching among an unknown number of regimes with linear dynamics. We develop a Bayesian non-parametric approach using a hierarchical Dirichlet process as a prior on the parameters of a Switching Linear Dynamical System and a Gaussian process prior to model the statistical variations in amplitude and temporal alignment within each cluster. By modeling the evolution of time series patterns, the method avoids unnecessary proliferation of clusters in a principled manner. We perform inference by formulating a variational lower bound for off-line and on-line scenarios, enabling efficient learning through optimization. We illustrate the versatility and effectiveness of the approach through several case studies of electrocardiogram analysis using publicly available databases.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:41:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.06919v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

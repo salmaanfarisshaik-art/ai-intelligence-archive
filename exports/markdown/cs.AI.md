@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/1304.3111v2](http://arxiv.org/abs/1304.3111v2)
 
+## Gibson Env: Real-World Perception for Embodied Agents
+- **ID**: arxiv_1808.10654v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/1808.10654v2](http://arxiv.org/abs/1808.10654v2)
+
 ## Intelligence Primer
 - **ID**: arxiv_2008.07324v6
 - **Source**: ArXiv
@@ -79,6 +84,11 @@
 - **ID**: arxiv_2509.13570v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.13570v2](http://arxiv.org/abs/2509.13570v2)
+
+## EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model
+- **ID**: arxiv_2509.22407v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.22407v3](http://arxiv.org/abs/2509.22407v3)
 
 ## On The Statistical Limits of Self-Improving Agents
 - **ID**: arxiv_2510.04399v3
@@ -409,6 +419,11 @@
 - **ID**: arxiv_2605.11986v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.11986v2](http://arxiv.org/abs/2605.11986v2)
+
+## ASH: Agents that Self-Hone in Long-Horizon Worlds
+- **ID**: arxiv_2605.14211v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.14211v6](http://arxiv.org/abs/2605.14211v6)
 
 ## ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction
 - **ID**: arxiv_2605.14398v3
@@ -3470,6 +3485,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35694v2](http://arxiv.org/abs/2609.35694v2)
 
+## Reasoning with Continuous Latent Diffusion
+- **ID**: arxiv_2609.35694v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35694v3](http://arxiv.org/abs/2609.35694v3)
+
 ## Reinforcing Agentic Creativity in Scientific Ideation with Night Science
 - **ID**: arxiv_2609.35706v1
 - **Source**: ArXiv
@@ -4154,4 +4174,54 @@
 - **ID**: arxiv_2610.27941v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27941v1](http://arxiv.org/abs/2610.27941v1)
+
+## Agentic Ensemble with Vision-Language Models for Visual Anomaly Detection
+- **ID**: arxiv_2610.28560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28560v1](http://arxiv.org/abs/2610.28560v1)
+
+## OptScientist: Automated Discovery of Optimization Laws
+- **ID**: arxiv_2610.28562v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28562v1](http://arxiv.org/abs/2610.28562v1)
+
+## Evolving Semantic Indexes for Generative Retrieval
+- **ID**: arxiv_2610.28568v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28568v1](http://arxiv.org/abs/2610.28568v1)
+
+## Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition
+- **ID**: arxiv_2610.28578v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28578v1](http://arxiv.org/abs/2610.28578v1)
+
+## Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning
+- **ID**: arxiv_2610.28584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28584v1](http://arxiv.org/abs/2610.28584v1)
+
+## What Do RTL Repair Benchmarks Actually Measure?
+- **ID**: arxiv_2610.28595v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28595v1](http://arxiv.org/abs/2610.28595v1)
+
+## Evolving Agent Interfaces
+- **ID**: arxiv_2610.28601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28601v1](http://arxiv.org/abs/2610.28601v1)
+
+## Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates
+- **ID**: arxiv_2610.28604v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28604v1](http://arxiv.org/abs/2610.28604v1)
+
+## Semantic Observability for Autonomous Systems Diagnostics
+- **ID**: arxiv_2610.28611v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28611v1](http://arxiv.org/abs/2610.28611v1)
+
+## Adaptive Multi-Token Prediction: How far should we go?
+- **ID**: arxiv_2610.28619v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28619v1](http://arxiv.org/abs/2610.28619v1)
 

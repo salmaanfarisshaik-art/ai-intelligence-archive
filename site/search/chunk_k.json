@@ -4195,6 +4195,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_open_orca_flan",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_rishitdagli_nerf_gs_datasets",
       "match_type": "exact",
       "score": 1.0
@@ -7351,6 +7356,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_lerobot_aloha_sim_transfer_cube_scripted",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmarena_ai_arena_human_preference_140k",
       "match_type": "exact",
       "score": 1.0
@@ -7387,6 +7397,11 @@
     },
     {
       "entity_id": "dataset_opengalaxea_galaxea_open_world_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_realmanrobot_realsource_world",
       "match_type": "exact",
       "score": 1.0
     },
@@ -20677,6 +20692,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_redhatai_mistral_small_24b_instruct_2501_fp8_dynamic",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_redhatai_qwen2_5_7b_instruct_fp8_dynamic",
       "match_type": "exact",
       "score": 1.5
@@ -20812,6 +20832,13 @@
       "entity_id": "alpaca_-3989900295181696925",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "koalags": [
+    {
+      "entity_id": "arxiv_2610.28615v1",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "koalas": [

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.18912v2",
+  "schema_version": "1.0",
+  "name": "Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.18912v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.18912v2",
+    "updated": "2026-10-20T17:34:49Z",
+    "published": "2025-09-23T12:33:48Z",
+    "title": "Frequency-Domain Decomposition and Recomposition for Robust Audio-Visual Segmentation",
+    "summary": "Audio-visual segmentation (AVS) plays a critical role in multimodal machine learning by effectively integrating audio and visual cues to precisely segment objects or regions within visual scenes. Recent AVS methods have demonstrated significant improvements. However, they overlook the inherent frequency-domain contradictions between audio and visual modalities--the substantial noise often present in audio high-frequency signals vs. the structurally rich details in visual high-frequency signals. Ignoring these differences can result in suboptimal performance. In this paper, we rethink the AVS task from a deeper perspective by reformulating AVS task as a frequency-domain decomposition and recomposition problem. To this end, we introduce a novel Frequency-Aware Audio-Visual Segmentation (FAVS) framework consisting of two key modules: Frequency-Domain Enhanced Decomposer (FDED) module and Synergistic Cross-Modal Consistency (SCMC) module. FDED module employs a residual-based iterative frequency decomposition to discriminate modality-specific semantics and structural features, and SCMC module leverages a mixture-of-experts architecture to reinforce semantic consistency and modality-specific feature preservation through dynamic expert routing. Extensive experiments demonstrate that our FAVS framework achieves state-of-the-art performance on three benchmark datasets, and abundant qualitative visualizations further verify the effectiveness of the proposed FDED and SCMC modules. The project repository is available at https://github.com/happylife-pk/FAVS.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:34:49Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.18912v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

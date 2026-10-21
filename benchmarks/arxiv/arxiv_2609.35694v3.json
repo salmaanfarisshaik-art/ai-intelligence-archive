@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2609.35694v3",
+  "schema_version": "1.0",
+  "name": "Reasoning with Continuous Latent Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35694v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35694v3",
+    "updated": "2026-10-20T17:34:28Z",
+    "published": "2026-09-28T17:38:43Z",
+    "title": "Reasoning with Continuous Latent Diffusion",
+    "summary": "We introduce the Continuous Embedding Diffusion Reasoner (CEDR), a training and inference pipeline for continuous latent diffusion models that achieves strong performance on mathematical reasoning and code generation. We learn compact answer representations from three hidden layers of the autoregressive Qwen3-4B model. A staged curriculum first trains the ELF-based diffusion backbone with teacher prompt conditioning, then initializes a compact prompt encoder through imitation and jointly adapts both networks. This replaces the large teacher contextual prompt encoder at inference with a compact learned Transformer. The multilayer answer representation also enables asynchronous inference, with different components denoised under separate clocks. We further adapt DiffusionNFT to learned self-conditioning guidance, enabling reinforcement learning with verifiable rewards. Controlled ablations evaluate the effects of representation design, prompt training, and denoising schedules. CEDR outperforms recent continuous-diffusion baselines at comparable backbone scales, including before reinforcement learning. With a 638M-parameter denoising backbone and DMD2-style stochastic sampling, post-NFT CEDR-L achieves {pass@1, pass@8} accuracies of {68.97%, 80.82%} on GSM8K and {32.40%, 53.80%} on MATH500 at 64 denoising steps per sample, and {37.56%, 51.00%} on HumanEval+ and {26.96%, 39.92%} on MBPP+ at 128 steps per sample. Code and model weights are available at https://github.com/chengxiang/CEDR and https://huggingface.co/xc91/CEDR, respectively.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:34:28Z",
+  "links": {
+    "related_models": [
+      "xc91/CEDR"
+    ],
+    "related_papers": [
+      "2609.35694v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

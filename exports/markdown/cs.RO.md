@@ -1000,3 +1000,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26852v1](http://arxiv.org/abs/2610.26852v1)
 
+## SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images
+- **ID**: arxiv_2610.28585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28585v1](http://arxiv.org/abs/2610.28585v1)
+
+## Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets
+- **ID**: arxiv_2610.28624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28624v1](http://arxiv.org/abs/2610.28624v1)
+
+## UniWALM: Unified World Action Language Model for Embodied Robot Control
+- **ID**: arxiv_2610.28626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28626v1](http://arxiv.org/abs/2610.28626v1)
+
+## Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking
+- **ID**: arxiv_2610.28628v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28628v1](http://arxiv.org/abs/2610.28628v1)
+

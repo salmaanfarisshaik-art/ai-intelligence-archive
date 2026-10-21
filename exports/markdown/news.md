@@ -4836,6 +4836,11 @@
 - **URL**: [https://openai.com/index/openai-lp](https://openai.com/index/openai-lp)
 
 ## 
+- **ID**: rss_https://openai.com/index/openai-models-google-cloud
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-models-google-cloud](https://openai.com/index/openai-models-google-cloud)
+
+## 
 - **ID**: rss_https://openai.com/index/openai-nvidia-systems-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-nvidia-systems-partnership](https://openai.com/index/openai-nvidia-systems-partnership)

@@ -1,5 +1,11 @@
 # Image-Text-To-Text Export
 
+## deepseek-ai/DeepSeek-V4.1-Flash
+- **ID**: hf_deepseek-ai_DeepSeek-V4.1-Flash
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash)
+- **Tags**: 8-bit, conversational, deepseek_v41, deploy:azure, deploy:sagemaker, endpoints_compatible, eval-results, fp8, image-text-to-text, license:mit, region:us, safetensors, text-generation, transformers
+
 ## microsoft/Phi-3.5-vision-instruct
 - **ID**: hf_microsoft_Phi-3.5-vision-instruct
 - **Source**: Hugging Face

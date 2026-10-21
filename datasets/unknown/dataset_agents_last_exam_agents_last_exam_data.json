@@ -9,7 +9,7 @@
   "private": false,
   "sha": "bae6244b87da74b212748993863b3ca4f5ba84ad",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tAgents Last Exam v1.1 — Task Input Data\n\t\n\n150 active tasks. Use matching v1.1 task code, environment images, and data revisions.\nTask inputs and setup software are available under tasks/<task_id>/<variant>/. Evaluator references are provided separately with manual access approval.\nRestore native filenames and runtime symlinks from the snapshot root:\ntar -xf _transport/v1.1/path-compatibility.tar -C .\ntar -xf _transport/v1.1/tcga-public-symlinks.tar -C tasks\n\nLogical data manifest… See the full description on the dataset page: https://huggingface.co/datasets/agents-last-exam/agents-last-exam-data.",
-  "downloads": 61397,
+  "downloads": 63832,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.17123v1](http://arxiv.org/abs/2609.17123v1)
 
+## GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery
+- **ID**: arxiv_2610.28629v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28629v1](http://arxiv.org/abs/2610.28629v1)
+

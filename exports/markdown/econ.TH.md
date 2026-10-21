@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01595v1](http://arxiv.org/abs/2609.01595v1)
 
+## Falsification-proof non-market allocation mechanisms
+- **ID**: arxiv_2610.18625v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18625v2](http://arxiv.org/abs/2610.18625v2)
+

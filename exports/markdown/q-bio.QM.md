@@ -10,3 +10,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.11877v1](http://arxiv.org/abs/2609.11877v1)
 
+## Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics
+- **ID**: arxiv_2610.28579v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28579v1](http://arxiv.org/abs/2610.28579v1)
+

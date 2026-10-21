@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_1808.10654v2",
+  "schema_version": "1.0",
+  "name": "Gibson Env: Real-World Perception for Embodied Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/1808.10654v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/1808.10654v2",
+    "updated": "2026-10-20T17:37:11Z",
+    "published": "2018-08-31T09:56:43Z",
+    "title": "Gibson Env: Real-World Perception for Embodied Agents",
+    "summary": "Developing visual perception models for active agents and sensorimotor control are cumbersome to be done in the physical world, as existing algorithms are too slow to efficiently learn in real-time and robots are fragile and costly. This has given rise to learning-in-simulation which consequently casts a question on whether the results transfer to real-world. In this paper, we are concerned with the problem of developing real-world perception for active agents, propose Gibson Virtual Environment for this purpose, and showcase sample perceptual tasks learned therein. Gibson is based on virtualizing real spaces, rather than using artificially designed ones, and currently includes over 1400 floor spaces from 572 full buildings. The main characteristics of Gibson are: I. being from the real-world and reflecting its semantic complexity, II. having an internal synthesis mechanism, \"Goggles\", enabling deploying the trained models in real-world without needing further domain adaptation, III. embodiment of agents and making them subject to constraints of physics and space.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-21T13:26:28Z",
+  "last_updated": "2026-10-20T17:37:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "1808.10654v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
