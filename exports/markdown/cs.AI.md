@@ -290,6 +290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.18048v3](http://arxiv.org/abs/2603.18048v3)
 
+## Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism
+- **ID**: arxiv_2603.18712v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.18712v3](http://arxiv.org/abs/2603.18712v3)
+
 ## LogitScope: A Framework for Analyzing LLM Uncertainty Through Information Metrics
 - **ID**: arxiv_2603.24929v2
 - **Source**: ArXiv
@@ -3360,6 +3365,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28470v2](http://arxiv.org/abs/2609.28470v2)
 
+## An auditable conditional-strategy framework for open-ended decision-making in complex lung cancer
+- **ID**: arxiv_2609.29381v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.29381v2](http://arxiv.org/abs/2609.29381v2)
+
 ## Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale
 - **ID**: arxiv_2609.30137v1
 - **Source**: ArXiv
@@ -3449,6 +3459,11 @@
 - **ID**: arxiv_2609.31619v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
+
+## AdaGuard: An Adaptive Guard Model with User-defined Policies
+- **ID**: arxiv_2609.34241v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.34241v2](http://arxiv.org/abs/2609.34241v2)
 
 ## From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale
 - **ID**: arxiv_2609.35149v2
@@ -3629,6 +3644,11 @@
 - **ID**: arxiv_2610.02202v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.02202v1](http://arxiv.org/abs/2610.02202v1)
+
+## Predictor-Guided Latent Space Codon Optimization for Maximizing Protein Expression
+- **ID**: arxiv_2610.03098v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03098v2](http://arxiv.org/abs/2610.03098v2)
 
 ## Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective
 - **ID**: arxiv_2610.03185v1
@@ -4224,4 +4244,19 @@
 - **ID**: arxiv_2610.28619v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28619v1](http://arxiv.org/abs/2610.28619v1)
+
+## RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization
+- **ID**: arxiv_2610.29491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29491v1](http://arxiv.org/abs/2610.29491v1)
+
+## An Exact 93-Move Solution to a Nonlocal Crystal-Exchange Puzzle
+- **ID**: arxiv_2610.29493v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29493v1](http://arxiv.org/abs/2610.29493v1)
+
+## Parallel Thinking for Large Language Model with Path Diversity
+- **ID**: arxiv_2610.29501v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29501v1](http://arxiv.org/abs/2610.29501v1)
 

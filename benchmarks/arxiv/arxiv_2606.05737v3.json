@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.05737v3",
+  "schema_version": "1.0",
+  "name": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.05737v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.05737v3",
+    "updated": "2026-10-21T10:31:33Z",
+    "published": "2026-06-04T05:58:30Z",
+    "title": "Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models",
+    "summary": "One-step generation from standard diffusion or Flow-Matching training is rarely effective for text-to-image or video generation without distillation or specialized one-step objectives. We find that VLA action generation behaves strikingly differently. Biasing only the training timestep distribution toward the noise endpoint yields strong one-step policies across LIBERO, LIBERO-Plus, LIBERO-Pro, and real-world robot tasks. Moreover, for open-source VLA models with different architectures, simply replacing iterative decoding with a single forward pass often performs comparably to the original multi-step decoding on benchmarks such as LIBERO, CALVIN, and SimplerEnv. We attribute this difference to the condition-target structure of VLA generation, which is closer to image-to-text than text-to-image: rich observations strongly constrain a comparatively compact target. We formalize this intuition through the irreducible velocity loss $R_v(t,c)$ of standard Flow Matching, which becomes much smaller toward the noise endpoint for VLA, whereas image-generation models usually exhibit a U-shaped profile. The geometry induced by the learned generative map shows the same contrast: the Jacobian of this map with respect to the initial noise has a substantially smaller largest singular value for action generation than for image generation. Together, these results suggest that VLA's condition-target structure makes one-step generation unusually accessible to standard Flow Matching. Code and training configurations for this paper are available at https://github.com/bondtesty/let-it-be-simple.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T10:31:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.05737v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

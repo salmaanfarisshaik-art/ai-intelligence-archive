@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.26636v4",
+  "schema_version": "1.0",
+  "name": "FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.26636v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.26636v4",
+    "updated": "2026-10-21T09:39:56Z",
+    "published": "2026-06-25T06:01:39Z",
+    "title": "FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics",
+    "summary": "Event cameras asynchronously report brightness changes with microsecond-level temporal resolution, but real event data remain difficult to collect at scale because specialized sensors, careful synchronization, and task-specific annotations are required. Event-camera simulation is therefore important to event-based vision tasks. Most practical simulators build on contrast-threshold event generation, some with additional filtering, stochastic noise, or calibrated sensor parameters. While effective, such formulations can simplify the temporal structure produced by a pixel's recent response history. We introduce FracEvent, a physics-inspired sensor-side simulator with compact fractional-relaxation voltage dynamics. Given a log-intensity trajectory, FracEvent combines fast and slow response modes, emits ON/OFF events by localizing threshold crossings on the continuous voltage trajectory, and updates the event reference while retaining the mode states. This retained state links residual response to later event timing. We evaluate FracEvent through direct event-stream comparison and downstream transfer on image reconstruction and optical flow estimation. Across multiple datasets, FracEvent achieves leading results on multiple metrics in both evaluations, showing its practical value for event-camera simulation. Project page: https://bonaparte233.github.io/FracEvent/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:39:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.26636v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

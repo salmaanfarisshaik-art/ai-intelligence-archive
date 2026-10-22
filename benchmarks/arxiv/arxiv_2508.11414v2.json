@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2508.11414v2",
+  "schema_version": "1.0",
+  "name": "From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2508.11414v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2508.11414v2",
+    "updated": "2026-10-21T09:33:12Z",
+    "published": "2025-08-15T11:36:17Z",
+    "title": "From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs",
+    "summary": "Large language models exhibit value-related preferences in their outputs, yet steering such behavior often requires large training datasets or paired preference annotations. In this work, we investigate a lightweight alternative: can fine-tuning on value survey responses induce measurable shifts in value-conditioned model outputs and downstream behavior? We first estimate baseline value profiles for several open-source LLMs by asking them to rate value-related descriptions organized around the ten Schwartz values. We then fine-tune models on survey-style supervision that selectively changes the target value ratings while keeping non-target values close to their baseline responses. We evaluate the resulting shifts in two settings. First, we measure whether the intervention changes responses on held-out survey questions. Second, we test whether these survey-induced shifts transfer to out-of-domain behavioral proxies, including a contextual moral-judgment benchmark constructed from Reddit AITA posts and a text-based interactive decision-making benchmark. Our results show that survey-based supervision can change held-out survey responses and produce downstream shifts in model response distributions on proxy behavioral evaluations. However, this transfer is strongly model- and value-dependent, and is shaped by how value descriptions are framed in the supervision data. These findings suggest that value surveys can serve not only as diagnostic tools, but also as lightweight supervision for studying behavioral value conditioning in LLMs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:33:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2508.11414v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

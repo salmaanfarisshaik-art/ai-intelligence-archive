@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29504v1",
+  "schema_version": "1.0",
+  "name": "Rethinking Agentic Model Orchestration for Time Series Forecasting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29504v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29504v1",
+    "updated": "2026-10-21T09:55:04Z",
+    "published": "2026-10-21T09:55:04Z",
+    "title": "Rethinking Agentic Model Orchestration for Time Series Forecasting",
+    "summary": "Time series foundation models (TSFMs) perform unevenly across forecasting tasks. Recent work uses agentic model orchestration (AMO) to select or combine TSFMs, often outperforming individual forecasters. Yet these gains may reflect stronger or more complementary candidates rather than better orchestration. To disentangle these effects, we introduce FairAMO, a controlled evaluation protocol with frozen candidate forecasts. Experiments on GIFT-Eval show that AMO improves accuracy, but its gains are bounded by the candidate TSFMs. The best orchestrators reduce MASE by less than 6% relative to the best single TSFM across all tasks. These gains depend on complementarity (different candidates excel on different tasks) rather than the number of candidates. Adding members yields diminishing returns, and a redundant member can erase these gains. The value of historical evidence also saturates quickly. A few recent windows capture all gains, and further history adds none. These findings separate system-level forecasting gains from the contribution of orchestration itself.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:55:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29504v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

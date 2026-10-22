@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29476v1",
+  "schema_version": "1.0",
+  "name": "Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29476v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29476v1",
+    "updated": "2026-10-21T09:30:53Z",
+    "published": "2026-10-21T09:30:53Z",
+    "title": "Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions",
+    "summary": "We propose a new generative modeling framework grounded in forward-backward partial differential equations (PDEs). These equations arise naturally in mean-field game (MFG) theory, and are closely related to nonlinear Schrödinger systems. Our main contribution is to reinterpret this connection within the setting of generative modeling and to develop an efficient numerical methodology for its practical implementation. Specifically, we derive and characterize a nonlinear extension of the classical Schrödinger bridge problem through a coupled system of PDEs, yielding a model we call SBNL (Schrödinger Bridge NonLinear). To compute its solution, we design a simulation algorithm based on branching diffusions and the probabilistic representation of semilinear PDEs. The resulting method is embarrassingly parallel, scalable to high dimensions, and applicable to a broad class of nonlinear interaction functionals. We validate the approach through numerical experiments, including recovery of the classical Schrödinger bridge, nonlinear extensions with convex penalties (Gross-Pitaevskii) as well as potential interaction terms, and high-dimensional generative tasks such as image synthesis on the MNIST and FFHQ human face dataset. Furthermore, the same framework embeds score-based generative modeling, diffusion models, and tractable gaussian Schrödinger bridges.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:30:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29476v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

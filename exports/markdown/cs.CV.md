@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2407.18245v3](http://arxiv.org/abs/2407.18245v3)
 
+## Bilateral Sharpness-Aware Minimization for Flatter Minima
+- **ID**: arxiv_2409.13173v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2409.13173v2](http://arxiv.org/abs/2409.13173v2)
+
 ## RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations
 - **ID**: arxiv_2410.00713v5
 - **Source**: ArXiv
@@ -470,6 +475,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.11490v2](http://arxiv.org/abs/2512.11490v2)
 
+## LitePT: Lighter Yet Stronger Point Transformer
+- **ID**: arxiv_2512.13689v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.13689v3](http://arxiv.org/abs/2512.13689v3)
+
 ## The 3D Mirage: Probing and Taming 3D Hallucinations
 - **ID**: arxiv_2512.15423v2
 - **Source**: ArXiv
@@ -800,6 +810,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.10766v6](http://arxiv.org/abs/2604.10766v6)
 
+## Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis
+- **ID**: arxiv_2604.11685v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11685v2](http://arxiv.org/abs/2604.11685v2)
+
 ## A Lightweight Multi-Metric No-Reference Image Quality Assessment Framework for UAV Imaging
 - **ID**: arxiv_2604.13112v2
 - **Source**: ArXiv
@@ -984,6 +999,11 @@
 - **ID**: arxiv_2606.05409v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.05409v3](http://arxiv.org/abs/2606.05409v3)
+
+## Let It Be Simple: One-Step Action Generation for Vision-Language-Action Models
+- **ID**: arxiv_2606.05737v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.05737v3](http://arxiv.org/abs/2606.05737v3)
 
 ## Adaptive Tokenisation Via Temporal Redundancy Masking And Latent Inpainting
 - **ID**: arxiv_2606.06158v2
@@ -1444,6 +1464,11 @@
 - **ID**: arxiv_2606.25483v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.25483v2](http://arxiv.org/abs/2606.25483v2)
+
+## FracEvent: Event-Camera Simulation via Fractional-Relaxation Pixel Dynamics
+- **ID**: arxiv_2606.26636v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.26636v4](http://arxiv.org/abs/2606.26636v4)
 
 ## SCoPE: Sightline-Coordinate Positional Encoding for Video Diffusion Transformers
 - **ID**: arxiv_2606.27345v3
@@ -4555,6 +4580,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.18898v1](http://arxiv.org/abs/2609.18898v1)
 
+## NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting
+- **ID**: arxiv_2609.18898v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.18898v2](http://arxiv.org/abs/2609.18898v2)
+
 ## PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image
 - **ID**: arxiv_2609.18920v1
 - **Source**: ArXiv
@@ -5139,6 +5169,11 @@
 - **ID**: arxiv_2609.34834v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.34834v2](http://arxiv.org/abs/2609.34834v2)
+
+## BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion
+- **ID**: arxiv_2609.35407v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35407v2](http://arxiv.org/abs/2609.35407v2)
 
 ## From Scores to Samples: Elastic Forcing for Autoregressive Video Generation
 - **ID**: arxiv_2609.35491v3
@@ -6495,6 +6530,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24885v1](http://arxiv.org/abs/2610.24885v1)
 
+## XGLASS: X-Ray, Gaze and Language Assisted Slice Sequencing for CT Volumes
+- **ID**: arxiv_2610.26255v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26255v2](http://arxiv.org/abs/2610.26255v2)
+
 ## V-JEPA Hand: Simple, Accurate and Fast 3D Hand and Camera Trajectory Recovery from Egocentric Videos
 - **ID**: arxiv_2610.26780v1
 - **Source**: ArXiv
@@ -6674,4 +6714,54 @@
 - **ID**: arxiv_2610.28632v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28632v1](http://arxiv.org/abs/2610.28632v1)
+
+## Extending Affordance Segmentation for Wearable Robots to Multi-Object Images
+- **ID**: arxiv_2610.29474v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29474v1](http://arxiv.org/abs/2610.29474v1)
+
+## Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition
+- **ID**: arxiv_2610.29495v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29495v1](http://arxiv.org/abs/2610.29495v1)
+
+## AutoPhyX: Automatic Text-Condition Physics Property Generation
+- **ID**: arxiv_2610.29517v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29517v1](http://arxiv.org/abs/2610.29517v1)
+
+## Supervision-Adaptive Curriculum and Guarded Anti-Curriculum Learning for Dense Prediction
+- **ID**: arxiv_2610.29519v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29519v1](http://arxiv.org/abs/2610.29519v1)
+
+## Melange: A Synthetic Visual Bias Benchmark for Multi-modal Large Language Models
+- **ID**: arxiv_2610.29537v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29537v1](http://arxiv.org/abs/2610.29537v1)
+
+## Hyperspherical Simplex Representations for Backward-Compatible Retrieval
+- **ID**: arxiv_2610.29550v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29550v1](http://arxiv.org/abs/2610.29550v1)
+
+## Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding
+- **ID**: arxiv_2610.29552v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29552v1](http://arxiv.org/abs/2610.29552v1)
+
+## Rethinking Underwater Image Enhancement: Learning through Text-Guided Degradation Curriculum
+- **ID**: arxiv_2610.29569v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29569v1](http://arxiv.org/abs/2610.29569v1)
+
+## Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning
+- **ID**: arxiv_2610.29581v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29581v1](http://arxiv.org/abs/2610.29581v1)
+
+## CineEvolve: An Agentic Self-Evolution Framework for Cinematic Multi-Shot Video Generation
+- **ID**: arxiv_2610.29590v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29590v1](http://arxiv.org/abs/2610.29590v1)
 

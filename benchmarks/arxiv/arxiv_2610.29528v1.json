@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29528v1",
+  "schema_version": "1.0",
+  "name": "Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29528v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29528v1",
+    "updated": "2026-10-21T10:18:40Z",
+    "published": "2026-10-21T10:18:40Z",
+    "title": "Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?",
+    "summary": "Masked language modelling (MLM) is the dominant pretraining objective for transformer encoders applied to longitudinal electronic health records (EHRs). However, reconstructing individual events may overemphasise noisy or weakly informative observations and does not explicitly encourage learning higher-level patient states. Joint-Embedding Predictive Architectures (JEPAs) instead learn by predicting representations in latent space and have shown strong performance in a variety of domains. In this paper, we investigate to what extent JEPA can be adapted to EHR sequence representation. Our empirical investigation using MIMIC-IV shows that although all three of our JEPA formulations train stably without representational collapse, they consistently underperform standard MLM. We find that target size, not target heterogeneity, increases prediction error, yet reducing the target size does not recover downstream performance. This suggests that stable latent prediction alone is insufficient for competitive EHR representation learning and highlights the challenge of defining clinically meaningful latent targets for EHR.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T10:18:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29528v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

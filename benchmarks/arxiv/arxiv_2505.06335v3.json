@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.06335v3",
+  "schema_version": "1.0",
+  "name": "Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.06335v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.06335v3",
+    "updated": "2026-10-21T10:52:53Z",
+    "published": "2025-05-09T17:27:17Z",
+    "title": "Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients",
+    "summary": "Federated Learning (FL) has the potential for simultaneous global learning amongst a large number of parallel agents, enabling emerging AI systems to be trained across demographically diverse data. Central to this being efficient is the ability for FL to perform sparse gradient updates and remote direct memory access at the central server. Most of the research in FL security focuses on protecting data privacy at the edge client or in the communication channels between the client and server. Client-facing attacks on the server are less well investigated as the assumption is that a large collective of clients offer resilience. Here, for the first time, we show that by attacking clients that lead to repetitive clustered memory updates in the server, we can remote initiate a rowhammer attack to corrupt the server memory with induced bit-flips. A reinforcement learning (RL) attacker without backdoor access to the server can learn how to maximize server repetitive clustered memory updates by manipulating the clients' sensor observation. We demonstrate the feasibility of our attack using FL systems with sparse updates, tasked for automatic speech recognition (ASR) as well as CIFAR10 classification, our adversarial attacking agent can achieve around 70% repeated update rate (RUR) in the targeted server model, effectively inducing bit flips on server DRAM. The security implications are that such adversarial observations can cause disruptions to learning or may inadvertently cause elevated privilege, which could pave the way for further research on practical mitigation strategies in FL and hardware design.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T10:52:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.06335v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29495v1",
+  "schema_version": "1.0",
+  "name": "Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29495v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29495v1",
+    "updated": "2026-10-21T09:50:08Z",
+    "published": "2026-10-21T09:50:08Z",
+    "title": "Balancing Foundation Models and Trait-Specific Learning for Forehead-Crease Recognition",
+    "summary": "Biometric recognition often degrades under partial facial vis- ibility, where conventional facial cues are occluded. The forehead region remains consistently visible and contains distinctive crease patterns that can serve as a complementary biometric trait. We present a unified eval- uation of forehead-crease recognition across explainable zero-shot rea- soning, domain-adaptive learning, and trait-specific modeling. FIRE en- ables interpretable zero-shot verification using multimodal large language models, while pretrained face-recognition models are adapted to the fore- head domain through margin-based learning. Under open-set evaluation, the best zero-shot model GPT-4o+FIRE achieves 18.22% EER, while Edge-Forehead achieves 8.30% EER and 54.01% TMR@0.1% FMR. The results show that although MLLMs offer interpretable zero-shot verifi- cation, trait-specific learning remains more effective for robust forehead- crease biometric recognition.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:50:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29495v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

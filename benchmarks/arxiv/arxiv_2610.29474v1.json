@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.29474v1",
+  "schema_version": "1.0",
+  "name": "Extending Affordance Segmentation for Wearable Robots to Multi-Object Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.29474v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.29474v1",
+    "updated": "2026-10-21T09:30:14Z",
+    "published": "2026-10-21T09:30:14Z",
+    "title": "Extending Affordance Segmentation for Wearable Robots to Multi-Object Images",
+    "summary": "This paper proposes a refinement to existing vision-based portable pipelines for the recognition of graspable object parts. Such pipelines can effectively support automatic grasp selection and preshaping in upper-limb prosthetic devices. However, realistic scenarios in which multiple objects are present still represent a challenge. The proposed method exploits a minor modification to the conventional hardware setup and a custom training approach to extend the applicability of vision-based pipelines. A laser pointer is introduced in the setup as an effective mechanism for object disambiguation. Accordingly, a suitable retraining of the deep convolutional neural networks supporting recognition of graspable parts is implemented. A mixed reality strategy allows the reuse of available high-quality segmentation masks to generate realistic images procedurally, extending the range of scenarios supported by the final device. Experimental results confirm that the proposed pipeline improves target disambiguation accuracy by up to 9% compared with existing solutions, while preserving the computational cost.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T09:30:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.29474v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

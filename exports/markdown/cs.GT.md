@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2012.05213v2](http://arxiv.org/abs/2012.05213v2)
 
+## Allocating Indivisible Goods to Strategic Agents: Pure Nash Equilibria and Fairness
+- **ID**: arxiv_2109.08644v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2109.08644v3](http://arxiv.org/abs/2109.08644v3)
+
 ## The Bidding Games: Reinforcement Learning for MEV Extraction on Polygon Blockchain
 - **ID**: arxiv_2510.14642v2
 - **Source**: ArXiv

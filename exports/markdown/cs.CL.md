@@ -170,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.09115v5](http://arxiv.org/abs/2508.09115v5)
 
+## From Value Conditioning to Behavioral Shift: Lightweight Value Alignment of LLMs
+- **ID**: arxiv_2508.11414v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2508.11414v2](http://arxiv.org/abs/2508.11414v2)
+
 ## Beyond Semantic Similarity: Reducing Unnecessary API Calls via Behavior-Aligned Retriever
 - **ID**: arxiv_2508.14323v3
 - **Source**: ArXiv
@@ -204,6 +209,11 @@
 - **ID**: arxiv_2509.25045v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.25045v3](http://arxiv.org/abs/2509.25045v3)
+
+## Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic Architectures
+- **ID**: arxiv_2509.25045v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.25045v4](http://arxiv.org/abs/2509.25045v4)
 
 ## EasySteer: A Unified Framework for High-Performance and Extensible LLM Steering
 - **ID**: arxiv_2509.25175v3
@@ -445,6 +455,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.13540v2](http://arxiv.org/abs/2602.13540v2)
 
+## TabAgent: Distilling LLM Agent Components into Cheap Classifiers
+- **ID**: arxiv_2602.16429v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16429v2](http://arxiv.org/abs/2602.16429v2)
+
 ## What Language is This? Ask Your Tokenizer
 - **ID**: arxiv_2602.17655v3
 - **Source**: ArXiv
@@ -540,6 +555,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.00239v3](http://arxiv.org/abs/2604.00239v3)
 
+## AfrIFact: Cultural Information Retrieval, Evidence Extraction and Fact Checking for African Languages
+- **ID**: arxiv_2604.00706v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.00706v3](http://arxiv.org/abs/2604.00706v3)
+
 ## Social Meaning in Large Language Models: Structure, Magnitude, and Pragmatic Prompting
 - **ID**: arxiv_2604.02512v2
 - **Source**: ArXiv
@@ -589,6 +609,11 @@
 - **ID**: arxiv_2604.11575v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.11575v2](http://arxiv.org/abs/2604.11575v2)
+
+## A Robust Evaluation of Probe Robustness: Lessons for Reliable OOD Uncertainty Quantification
+- **ID**: arxiv_2604.11662v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.11662v3](http://arxiv.org/abs/2604.11662v3)
 
 ## Filtered Reasoning Score: Evaluating Reasoning Quality on a Model's Most-Confident Traces
 - **ID**: arxiv_2604.11996v5
@@ -1719,6 +1744,11 @@
 - **ID**: arxiv_2607.29678v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.29678v2](http://arxiv.org/abs/2607.29678v2)
+
+## What Transfers from Text to Vision? Capability Scaling Laws and Transfer Dynamics for VLMs
+- **ID**: arxiv_2608.00013v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.00013v4](http://arxiv.org/abs/2608.00013v4)
 
 ## Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
 - **ID**: arxiv_2608.00285v2
@@ -4344,4 +4374,39 @@
 - **ID**: arxiv_2610.28616v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28616v1](http://arxiv.org/abs/2610.28616v1)
+
+## OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling
+- **ID**: arxiv_2610.29472v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29472v1](http://arxiv.org/abs/2610.29472v1)
+
+## TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional Codes of Ethics
+- **ID**: arxiv_2610.29477v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29477v1](http://arxiv.org/abs/2610.29477v1)
+
+## A Strong MoE Is All You Need for Process Supervision
+- **ID**: arxiv_2610.29498v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29498v1](http://arxiv.org/abs/2610.29498v1)
+
+## Keeping Time vs. Understanding Time: Neither Alone Explains Temporal Reasoning in LLMs
+- **ID**: arxiv_2610.29507v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29507v1](http://arxiv.org/abs/2610.29507v1)
+
+## Mitigating Query Shortcuts in Chain-of-Thought with Context-Aware Decoding
+- **ID**: arxiv_2610.29518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29518v1](http://arxiv.org/abs/2610.29518v1)
+
+## RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding
+- **ID**: arxiv_2610.29527v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29527v1](http://arxiv.org/abs/2610.29527v1)
+
+## PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States
+- **ID**: arxiv_2610.29545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29545v1](http://arxiv.org/abs/2610.29545v1)
 

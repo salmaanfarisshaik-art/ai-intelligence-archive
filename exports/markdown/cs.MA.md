@@ -105,3 +105,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22322v1](http://arxiv.org/abs/2610.22322v1)
 
+## S$^2$-MAS: A Society-Scale Multi-Agent Simulation Framework with 500 Million Household Persona Agents
+- **ID**: arxiv_2610.27746v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27746v2](http://arxiv.org/abs/2610.27746v2)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.11662v3",
+  "schema_version": "1.0",
+  "name": "A Robust Evaluation of Probe Robustness: Lessons for Reliable OOD Uncertainty Quantification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.11662v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.11662v3",
+    "updated": "2026-10-21T10:45:47Z",
+    "published": "2026-04-13T16:11:33Z",
+    "title": "A Robust Evaluation of Probe Robustness: Lessons for Reliable OOD Uncertainty Quantification",
+    "summary": "Recent work has shown that the hidden states of large language models contain signals useful for uncertainty estimation, motivating a growing interest in efficient probe-based approaches. Yet it remains unclear how robust existing methods are, with prior work reporting conflicting conclusions under substantially different evaluation settings. We address this by introducing ProbeDrift, a systematic evaluation framework for supervised uncertainty probes covering a wide range of OOD settings across models, tasks, and distributional shifts. Using ProbeDrift, we train over 2,000 probes to disentangle the effect of key design choices, showing poor robustness of current methods beyond near-OOD settings. We find that robustness is driven by design decisions that have a largely invisible effect in-distribution, including the choice of feature type, aggregation strategy, and training signal. We argue that robust uncertainty estimation requires robust evaluation. To support this, we release ProbeDrift as a lightweight Python library that contains the train and test splits underpinning our extensive evaluation. We also show how insights from our evaluation can directly lead to more robust methods through a simple Hybrid Back-Off (HBO) strategy.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T10:45:47Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.11662v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

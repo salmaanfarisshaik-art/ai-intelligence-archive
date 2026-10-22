@@ -215,3 +215,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14465v2](http://arxiv.org/abs/2610.14465v2)
 
+## Beyond the Vote: When Do LLMs Add Value to Retrieval-Based Tabular Classification?
+- **ID**: arxiv_2610.29520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29520v1](http://arxiv.org/abs/2610.29520v1)
+
+## pplx-embed-v2-late Technical Report
+- **ID**: arxiv_2610.29523v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29523v1](http://arxiv.org/abs/2610.29523v1)
+

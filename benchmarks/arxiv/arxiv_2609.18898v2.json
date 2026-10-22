@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.18898v2",
+  "schema_version": "1.0",
+  "name": "NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.18898v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.18898v2",
+    "updated": "2026-10-21T10:53:14Z",
+    "published": "2026-09-16T16:35:35Z",
+    "title": "NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting",
+    "summary": "Training-free weighted aggregation is widely used to lift 2D semantic features onto 3D Gaussians for open-vocabulary scene understanding, yet its theoretical role remains insufficiently understood. Existing analyses typically justify this operation from the rendering side, treating Gaussian features as linearly composable Euclidean variables for reconstructing 2D feature maps. However, this view does not match downstream 3D usage, where each Gaussian is often queried independently in a cosine-based embedding space. We revisit feature lifting from the 3D side and formulate per-Gaussian assignment as a cosine alignment problem on the CLIP unit sphere. Under this objective, the $\\ell_2$-normalized semantic back-projected feature emerges as the closed-form solution, providing a complementary interpretation of the standard lifting rule from the perspective of per-Gaussian semantic assignment. This solution is still a convex combination of the observed directions, so every lifted feature is inherently a mixture. Such mixing is unavoidable for any per-Gaussian estimator, and the question is whether it can be measured. The same formulation answers this: the norm of the back-projected feature decomposes into intra-view and inter-view consistency, so the feature magnitude quantifies how mixed the observations are and serves as a semantic reliability signal. Calibrated by effective multi-view support, this reliability score identifies the Gaussians whose lifted direction has drifted and guides a mode-voting refinement that corrects them by copying a single observed CLIP direction instead of averaging. Experiments on open-vocabulary 3D semantic segmentation show that NormLift is an efficient, training-free framework that achieves strong performance across evaluation protocols. Our code is available at https://github.com/kaust-violab/NormLift_release",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T01:13:34Z",
+  "last_updated": "2026-10-21T10:53:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.18898v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

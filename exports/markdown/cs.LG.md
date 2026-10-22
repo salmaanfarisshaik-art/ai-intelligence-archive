@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2504.16276v3](http://arxiv.org/abs/2504.16276v3)
 
+## Remote Rowhammer Attack using Adversarial Observations on Federated Learning Clients
+- **ID**: arxiv_2505.06335v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.06335v3](http://arxiv.org/abs/2505.06335v3)
+
 ## Chi-Square Wavelet Graph Neural Networks for Heterogeneous Graph Anomaly Detection
 - **ID**: arxiv_2505.18934v2
 - **Source**: ArXiv
@@ -2369,4 +2374,39 @@
 - **ID**: arxiv_2610.28602v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28602v1](http://arxiv.org/abs/2610.28602v1)
+
+## Generative Modeling via Nonlinear Schrödinger Bridges and Branching Diffusions
+- **ID**: arxiv_2610.29476v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29476v1](http://arxiv.org/abs/2610.29476v1)
+
+## Rethinking Agentic Model Orchestration for Time Series Forecasting
+- **ID**: arxiv_2610.29504v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29504v1](http://arxiv.org/abs/2610.29504v1)
+
+## Are Joint-Embedding Predictive Objectives Effective for Longitudinal EHRs?
+- **ID**: arxiv_2610.29528v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29528v1](http://arxiv.org/abs/2610.29528v1)
+
+## Block Diffusion for Longitudinal EHR: Accuracy, Efficiency, and Representation Trade-offs
+- **ID**: arxiv_2610.29533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29533v1](http://arxiv.org/abs/2610.29533v1)
+
+## Stochastic Pruning of the DPO Computation Graph: 1.4x Faster Training and Lower Peak Memory
+- **ID**: arxiv_2610.29538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29538v1](http://arxiv.org/abs/2610.29538v1)
+
+## WRDO: Weighted Refusal Direction Optimization in Aligned Language Models
+- **ID**: arxiv_2610.29555v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29555v1](http://arxiv.org/abs/2610.29555v1)
+
+## The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction
+- **ID**: arxiv_2610.29577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29577v1](http://arxiv.org/abs/2610.29577v1)
 
