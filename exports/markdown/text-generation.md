@@ -233,7 +233,7 @@
 - **ID**: hf_EleutherAI_pythia-70m-deduped
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/EleutherAI/pythia-70m-deduped](https://huggingface.co/EleutherAI/pythia-70m-deduped)
-- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/the_pile_deduplicated, deploy:azure, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
+- **Tags**: arxiv:2101.00027, arxiv:2201.07311, arxiv:2304.01373, causal-lm, dataset:EleutherAI/the_pile_deduplicated, deploy:azure, deploy:sagemaker, en, endpoints_compatible, gpt_neox, license:apache-2.0, pythia, pytorch, region:us, safetensors, text-generation, text-generation-inference, transformers
 
 ## GSAI-ML/LLaDA-1.5
 - **ID**: hf_GSAI-ML_LLaDA-1.5

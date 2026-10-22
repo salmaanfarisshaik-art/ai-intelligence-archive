@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f3a750881e008e0daf237afd45736231b51a955a",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tClash Royale TV Replays\n\t\n\nFrame-by-frame gameplay recordings (~10 fps) from Clash Royale's TV Royale, covering all 31 arenas. Automated recording using tools from our github repository.\n\n\t\n\t\t\n\t\n\t\n\t\tStructure\n\t\n\narena_{XX}/{replay_uuid}/\n├── frames.parquet    # Frame data\n└── preview.jpg       # First frame thumbnail\n\nParquet Schema:\n\nframe_id (int64): Frame number\nimage (Image): PNG bytes\nhash (string): MD5 for deduplication\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom huggingface_hub import… See the full description on the dataset page: https://huggingface.co/datasets/chrisrca/clash-royale-tv-replays.",
-  "downloads": 33613,
+  "downloads": 33416,
   "tags": [
     "task_categories:feature-extraction",
     "license:mit",

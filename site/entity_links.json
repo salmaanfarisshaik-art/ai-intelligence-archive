@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T07:07:32Z",
+  "generated_at": "2026-10-22T13:29:08Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -9137,6 +9137,91 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-3-Nano-RL-Training-Blend",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Agentic-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-CC-Code-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-CC-Math-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-CC-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-CC-v2.1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Competitive-Programming-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Instruction-Following-Chat-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Math-Proofs-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Math-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Code-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Code-v2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Dataset-sample",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-SFT-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Pretraining-Specialized-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nemotron_3_nano_30b_a3b_gguf",
+      "target_id": "hf_nvidia_Nemotron-Science-v1",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
@@ -9734,6 +9819,11 @@
     {
       "source_id": "model_yuxinlu1_gemma_4_12b_it_claude_4_6_4_8_opus_gguf",
       "target_id": "hf_google_gemma-4-12B-it",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_yuyu1015_huihui_qwen3_30b_a3b_instruct_2507_abliterated_nvfp4",
+      "target_id": "hf_huihui-ai_Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated",
       "type": "derived_from"
     },
     {
