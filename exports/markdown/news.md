@@ -2506,6 +2506,11 @@
 - **URL**: [https://openai.com/index/formal-math](https://openai.com/index/formal-math)
 
 ## 
+- **ID**: rss_https://openai.com/index/forward-deployed-engineering-means
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/forward-deployed-engineering-means](https://openai.com/index/forward-deployed-engineering-means)
+
+## 
 - **ID**: rss_https://openai.com/index/frontier-ai-regulation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/frontier-ai-regulation](https://openai.com/index/frontier-ai-regulation)
@@ -6344,6 +6349,11 @@
 - **ID**: rss_https://openai.com/index/uber
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/uber](https://openai.com/index/uber)
+
+## 
+- **ID**: rss_https://openai.com/index/uber-chatgpt-work-rollout
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/uber-chatgpt-work-rollout](https://openai.com/index/uber-chatgpt-work-rollout)
 
 ## 
 - **ID**: rss_https://openai.com/index/uber-enables-outstanding-experiences

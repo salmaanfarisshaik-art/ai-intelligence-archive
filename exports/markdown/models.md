@@ -1856,6 +1856,10 @@
 - **ID**: model_ggml_org_stories15m_moe
 - **Source**: 
 
+## gnani/gnani-evon-v3.3-30B-A3B
+- **ID**: model_gnani_gnani_evon_v3_3_30b_a3b
+- **Source**: 
+
 ## GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF
 - **ID**: model_gnlolot_minicpm5_1b_claude_opus_fable5_thinking_gguf
 - **Source**: 
@@ -1970,6 +1974,10 @@
 
 ## google/reformer-crime-and-punishment
 - **ID**: model_google_reformer_crime_and_punishment
+- **Source**: 
+
+## google/shieldgemma-9b
+- **ID**: model_google_shieldgemma_9b
 - **Source**: 
 
 ## google-t5/t5-11b
@@ -6888,6 +6896,10 @@
 - **ID**: model_unsloth_nemotron_3_nano_30b_a3b
 - **Source**: 
 
+## unsloth/Nemotron-3-Nano-30B-A3B-GGUF
+- **ID**: model_unsloth_nemotron_3_nano_30b_a3b_gguf
+- **Source**: 
+
 ## unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
 - **ID**: model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf
 - **Source**: 
@@ -7370,6 +7382,10 @@
 
 ## yuxinlu1/gemma-4-12B-it-Claude-4.6-4.8-Opus-GGUF
 - **ID**: model_yuxinlu1_gemma_4_12b_it_claude_4_6_4_8_opus_gguf
+- **Source**: 
+
+## YuYu1015/Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated-NVFP4
+- **ID**: model_yuyu1015_huihui_qwen3_30b_a3b_instruct_2507_abliterated_nvfp4
 - **Source**: 
 
 ## z-lab/LLaMA3.1-8B-Instruct-DFlash-UltraChat
