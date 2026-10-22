@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.12790v2",
+  "schema_version": "1.0",
+  "name": "GENIE: A Fine-Grained Measure for Novelty",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.12790v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.12790v2",
+    "updated": "2026-10-21T17:23:27Z",
+    "published": "2026-06-11T01:14:10Z",
+    "title": "GENIE: A Fine-Grained Measure for Novelty",
+    "summary": "Large Language Models have consistently demonstrated a lack of creativity and diversity across tasks. Prior work has focused on addressing whether models are capable of generating creative outputs. Here, we aim to consider novelty and investigate what makes model-generated content novel or not novel in a task-specific manner. We propose a fine-grained evaluation metric GENIE to measure the novelty of responses along task-specific features with respect to a population of responses. We show that unlike GENIE, holistic metrics struggle to capture the high-dimensionality of novelty and do not provide insight on which properties they target. Finally, we use GENIE to measure the effectiveness of mitigation methods that address creativity to better understand where these methods can improve novelty.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:23:27Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.12790v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

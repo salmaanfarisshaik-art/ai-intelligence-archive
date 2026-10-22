@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.30036v1",
+  "schema_version": "1.0",
+  "name": "Attn-Forcing: Learning Full-Context Attention Proxies for Streaming Video Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.30036v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.30036v1",
+    "updated": "2026-10-21T16:59:51Z",
+    "published": "2026-10-21T16:59:51Z",
+    "title": "Attn-Forcing: Learning Full-Context Attention Proxies for Streaming Video Generation",
+    "summary": "Increasing the attention context length significantly improves streaming video generation quality, while incurring prohibitive memory and computational costs as the context grows. Existing methods attempt to capture this contextual information through attention selection or compression, but remain limited by bounded representations and lack explicit attention-level supervision to retain historical contributions to current queries. To address this, we introduce Attn-Forcing, a novel framework that preserves full-context attention contributions for streaming video generation under bounded memory and computation. We achieve this by introducing attention proxies that continuously approximate the attention responses induced by the historical context. Specifically, we implement the proxies as learnable visual latents and employ a Proxy Update Module to incorporate visual context from historical latents. Moreover, we propose an Attention Matching Loss to explicitly constrain the attention behavior of the learned proxies using full-context attention supervision. Extensive qualitative and quantitative experiments demonstrate that Attn-Forcing consistently improves streaming video generation quality and achieves state-of-the-art performance over existing baseline methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T16:59:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.30036v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

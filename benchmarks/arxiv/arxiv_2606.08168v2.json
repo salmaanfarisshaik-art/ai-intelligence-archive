@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08168v2",
+  "schema_version": "1.0",
+  "name": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08168v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08168v2",
+    "updated": "2026-10-21T17:02:07Z",
+    "published": "2026-06-06T13:31:51Z",
+    "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+    "summary": "Leading commercial endpoint detection and response (EDR) products have shifted from operator-configured rule sets to multi-component systems where autonomous AI components operate alongside, and increasingly in place of, operator-deployed policies. Autonomous defense agents using commercial EDR as their hardening tool are no longer tuning a passive tool, but a black-box autonomous system capable of making vendor-specific decisions. We present the first evaluation framework for autonomous defense agents hardening commercial EDR. We instantiate it in a Game of Active Directory (GOAD) lab with Horizon3's NodeZero as the autonomous pentester and Microsoft Defender XDR as the primary EDR under test. We extend the same framework to CrowdStrike Falcon and SentinelOne Singularity to test whether our Microsoft Defender XDR findings hold across vendors. We run a sample benchmark of defense agents with two large language model (LLM) backbones (Claude Sonnet 4.6 and Cisco Foundation-Sec-8B). We report three lessons learned that neither simulation nor open source EDR evaluation can surface: (i) commercial EDR telemetry is engineered for Security Operations Center (SOC) analyst workflows rather than for measuring policy effectiveness; (ii) per-policy attribution is important for separating the defense agent's actions from the EDR's autonomous actions; and (iii) EDR behavior varies between runs, largely because containment varies and accumulates. Together, these findings highlight a sim-to-real gap for enterprise defense and motivate evaluation methodology for benchmarking autonomous defense agents in environments with black-box, autonomous tools.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:02:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08168v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

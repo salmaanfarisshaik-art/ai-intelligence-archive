@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2412.06534v6",
+  "schema_version": "1.0",
+  "name": "Understanding Transformer-Based Vision Models via Modular Feature Inversion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2412.06534v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2412.06534v6",
+    "updated": "2026-10-21T16:48:43Z",
+    "published": "2024-12-09T14:43:06Z",
+    "title": "Understanding Transformer-Based Vision Models via Modular Feature Inversion",
+    "summary": "Understanding the internal mechanisms of deep neural networks remains a central challenge in machine learning. In computer vision, one promising yet only preliminarily explored approach is feature inversion via inverse networks, which reconstructs images from intermediate representations using trained inverse networks. In this study, we revisit feature inversion via inverse networks, introducing a novel, modular variant that enables a computationally more efficient application of the technique while, in some cases, producing semantically more coherent image reconstructions. We apply our method to large-scale transformer-based vision models, specifically Detection Transformer, Vision Transformer, Swin Transformer, and Data-Efficient Image Transformer, analyzing the resulting reconstructions across network depth. Our main analysis compares Detection Transformer and Vision Transformer, which exhibit the most informative differences among the evaluated architectures. At the same time, results for Swin Transformer and Data-Efficient Image Transformer support the broader applicability of our framework. Our findings reveal gradual representational changes across transformer layers as a shared characteristic of Detection Transformer and Vision Transformer, as well as systematic differences in how they preserve contextual shape and fine-grained image details, and in their robustness to color perturbations. These findings deepen understanding of transformer-based vision models and demonstrate the utility of modular feature inversion as an interpretability tool.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T16:48:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2412.06534v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

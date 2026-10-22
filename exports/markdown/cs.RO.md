@@ -1020,3 +1020,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28628v1](http://arxiv.org/abs/2610.28628v1)
 
+## SP-HLM: Sparse-Pose-Driven Motion Generation and Whole-Body Control for Humanoid Loco-Manipulation
+- **ID**: arxiv_2610.30044v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30044v1](http://arxiv.org/abs/2610.30044v1)
+
+## From Reasoning to Action: Benchmarking Frontier AI Models on LIBERO-10 Robot Manipulation Tasks
+- **ID**: arxiv_2610.30051v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30051v1](http://arxiv.org/abs/2610.30051v1)
+
+## AtomicRL: Atomic Reinforcement Learning for Long-Horizon Robotic Manipulation
+- **ID**: arxiv_2610.30097v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30097v1](http://arxiv.org/abs/2610.30097v1)
+
+## Asymmetric On-Policy Distillation Learns In-Context Exploration
+- **ID**: arxiv_2610.30105v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30105v1](http://arxiv.org/abs/2610.30105v1)
+
+## Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use
+- **ID**: arxiv_2610.30108v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30108v1](http://arxiv.org/abs/2610.30108v1)
+
+## PhysiCalWorld: In-Context Physics Calibration for World Models
+- **ID**: arxiv_2610.30125v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30125v1](http://arxiv.org/abs/2610.30125v1)
+

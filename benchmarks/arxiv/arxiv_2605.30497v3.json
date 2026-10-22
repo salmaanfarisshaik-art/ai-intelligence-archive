@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.30497v3",
+  "schema_version": "1.0",
+  "name": "CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.30497v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.30497v3",
+    "updated": "2026-10-21T17:36:42Z",
+    "published": "2026-05-28T19:24:23Z",
+    "title": "CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law",
+    "summary": "RAG-based legal assistants have been growing in popularity, but LLM hallucinations remain a key issue and potentially undermines justice. While benchmarks have been developed to evaluate progress, many rely on synthetic queries rather than realistic legal scenarios. Moreover, Canadian law remains underrepresented in existing evaluations. To address this gap, we introduce CanLegalRAGBench, a Canadian legal QA benchmark based on realistic queries and expert-annotated answers grounded in case law. Our evaluation shows that retrieval performance is sensitive to design choices and that open-source embedding models are competitive with closed source models. However, it also reveals the limitation of automatic evaluations that penalize systems for retrieving alternative relevant documents. We also find that generated answers often diverge from gold responses, either with hallucinations or by producing overly detailed or irrelevant content, with 8-29% of claims not being supported by the retrieved documents. We hope this benchmark will help drive continued progress in addressing limitations of legal RAG systems.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:36:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.30497v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

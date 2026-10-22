@@ -1,5 +1,15 @@
 # Cs.Ma Export
 
+## AI-driven Prices for Externalities and Sustainability in Production Markets
+- **ID**: arxiv_2106.06060v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2106.06060v5](http://arxiv.org/abs/2106.06060v5)
+
+## Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?
+- **ID**: arxiv_2601.17454v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.17454v3](http://arxiv.org/abs/2601.17454v3)
+
 ## Coordination Matters: Process-Aware Evaluation of Cooperative Multi-Agent Reinforcement Learning
 - **ID**: arxiv_2605.06557v2
 - **Source**: ArXiv
@@ -109,4 +119,9 @@
 - **ID**: arxiv_2610.27746v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27746v2](http://arxiv.org/abs/2610.27746v2)
+
+## Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization
+- **ID**: arxiv_2610.30074v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30074v1](http://arxiv.org/abs/2610.30074v1)
 

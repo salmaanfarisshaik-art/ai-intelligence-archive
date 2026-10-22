@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.30113v1",
+  "schema_version": "1.0",
+  "name": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.30113v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.30113v1",
+    "updated": "2026-10-21T17:54:01Z",
+    "published": "2026-10-21T17:54:01Z",
+    "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+    "summary": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual trading decisions, leaving open whether large language models (LLMs) can complete this loop and produce strategies that work beyond the research period. We introduce Quant-Arena, a benchmark and public leaderboard for end-to-end quantitative research on real A-share market data. A model constructs features and stock-scoring code, receives feedback only on 2022--2023, and freezes one strategy for assessment on the sealed year 2024. A cash-account evaluator applies trading constraints and costs, including market impact estimated from a simulated order book. Scores are dominated by realized excess return and complemented by signal quality and the diversity of features used by the strategy. We evaluate nine frontier models, among which GPT-6 Astra scores highest; yet no model beats the equal-weight market in 2024. Quant-Arena is open to submissions from any model or agent harness.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:54:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.30113v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

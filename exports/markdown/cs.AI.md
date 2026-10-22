@@ -760,6 +760,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.20122v2](http://arxiv.org/abs/2606.20122v2)
 
+## Beyond Accuracy: Measuring Logical Compliance of Predictive Models
+- **ID**: arxiv_2606.20208v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.20208v2](http://arxiv.org/abs/2606.20208v2)
+
 ## Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions
 - **ID**: arxiv_2606.20459v1
 - **Source**: ArXiv
@@ -4080,6 +4085,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23845v1](http://arxiv.org/abs/2610.23845v1)
 
+## World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds
+- **ID**: arxiv_2610.24061v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24061v2](http://arxiv.org/abs/2610.24061v2)
+
 ## IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text
 - **ID**: arxiv_2610.24789v1
 - **Source**: ArXiv
@@ -4259,4 +4269,29 @@
 - **ID**: arxiv_2610.29501v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29501v1](http://arxiv.org/abs/2610.29501v1)
+
+## GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms
+- **ID**: arxiv_2610.30017v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30017v1](http://arxiv.org/abs/2610.30017v1)
+
+## Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents
+- **ID**: arxiv_2610.30041v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30041v1](http://arxiv.org/abs/2610.30041v1)
+
+## HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning
+- **ID**: arxiv_2610.30042v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30042v1](http://arxiv.org/abs/2610.30042v1)
+
+## Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models
+- **ID**: arxiv_2610.30045v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30045v1](http://arxiv.org/abs/2610.30045v1)
+
+## Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis
+- **ID**: arxiv_2610.30072v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30072v1](http://arxiv.org/abs/2610.30072v1)
 

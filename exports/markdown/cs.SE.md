@@ -125,6 +125,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.22471v1](http://arxiv.org/abs/2607.22471v1)
 
+## The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages
+- **ID**: arxiv_2607.22807v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.22807v2](http://arxiv.org/abs/2607.22807v2)
+
 ## Evaluating the Impact of Explainable AI on Trust in AI-Assisted Code Review
 - **ID**: arxiv_2607.24601v1
 - **Source**: ArXiv
@@ -344,4 +349,14 @@
 - **ID**: arxiv_2610.27868v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27868v1](http://arxiv.org/abs/2610.27868v1)
+
+## Code Comprehensor: Hierarchical Documentation and Cross-Modal Retrieval for Large Repositories
+- **ID**: arxiv_2610.30016v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30016v1](http://arxiv.org/abs/2610.30016v1)
+
+## SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation
+- **ID**: arxiv_2610.30047v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30047v1](http://arxiv.org/abs/2610.30047v1)
 

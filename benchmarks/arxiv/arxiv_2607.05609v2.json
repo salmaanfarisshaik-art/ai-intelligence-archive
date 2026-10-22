@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.05609v2",
+  "schema_version": "1.0",
+  "name": "To Retain or to Adapt? Generalizing Continual Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.05609v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "stat.ML",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.05609v2",
+    "updated": "2026-10-21T16:55:11Z",
+    "published": "2026-07-06T20:11:53Z",
+    "title": "To Retain or to Adapt? Generalizing Continual Learning",
+    "summary": "The Continual Learning (CL) literature has long been driven by the goal of mitigating catastrophic forgetting. This objective rests on an often unstated assumption: that a lifelong learner should approximate the Joint-Task Learning (JTL) solution and retain all previously acquired knowledge. We challenge this retention-centered premise, arguing that in non-stationary environments prioritizing retention can impede real-time adaptation. Shifting the focus to the Average Lifelong Error (ALE), we formalize CL as an online optimization problem governed by the interaction between environmental and learning dynamics. We introduce Transfer Efficiency as a quantitative measure of the tension between Instability, the bias inherited from conflicting past experience, and Transient Error, the optimization cost of learning new tasks from scratch. Under mild convergence conditions, holding across linear and neural network models, this decomposition yields a Critical Task Duration: a closed-form threshold beyond which historical knowledge transitions from a warm-start advantage to an optimization liability whenever retention induces a positive stationary bias. We validate these theoretical predictions on continual image classification and reinforcement learning benchmarks. Finally, by connecting continual learning to the online learning framework of predictable sequences, we show that JTL is only one instance of a broader family of objectives, and we propose a new general class of continual learning algorithms, which we call Predictive Continual Learning. Predictive CL algorithms optimize expected future performance under an explicit, dynamically updated model of future tasks. As a proof of concept, we analyze a Window algorithm that interpolates between JTL and Independent-Task Learning (ITL), outperforming both under controlled distributional drift.",
+    "primary_category": "stat.ML"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T16:55:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.05609v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

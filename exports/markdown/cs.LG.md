@@ -135,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.10232v2](http://arxiv.org/abs/2510.10232v2)
 
+## Sculpting the Latent Space: Disentanglement with WAE-MMD and Programmable Priors
+- **ID**: arxiv_2510.11953v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.11953v2](http://arxiv.org/abs/2510.11953v2)
+
 ## Seesaw: Accelerating Training by Balancing Learning Rate and Batch Size Scheduling
 - **ID**: arxiv_2510.14717v2
 - **Source**: ArXiv
@@ -2190,6 +2195,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18727v2](http://arxiv.org/abs/2610.18727v2)
 
+## On the Monitorability of Natural Language Autoencoders: Identification vs Discrimination
+- **ID**: arxiv_2610.18727v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.18727v3](http://arxiv.org/abs/2610.18727v3)
+
 ## SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection
 - **ID**: arxiv_2610.18807v1
 - **Source**: ArXiv
@@ -2409,4 +2419,19 @@
 - **ID**: arxiv_2610.29577v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29577v1](http://arxiv.org/abs/2610.29577v1)
+
+## Agent Behavior Maps: Locating Agents by What They Would Do, Without Running Them
+- **ID**: arxiv_2610.30014v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30014v1](http://arxiv.org/abs/2610.30014v1)
+
+## Differentially Private Sparse Reward Estimation with Preference Feedback
+- **ID**: arxiv_2610.30099v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30099v1](http://arxiv.org/abs/2610.30099v1)
+
+## BatchBench: Benchmarking AI Robustness to Batch Effects and Domain Shift in Biomedical Images - A JUMP Cell Painting Leaderboard
+- **ID**: arxiv_2610.30104v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30104v1](http://arxiv.org/abs/2610.30104v1)
 

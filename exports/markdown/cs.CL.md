@@ -770,6 +770,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15011v3](http://arxiv.org/abs/2605.15011v3)
 
+## From Text to Voice: A Reproducible and Verifiable Framework for Evaluating Tool Calling LLM Agents
+- **ID**: arxiv_2605.15104v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15104v3](http://arxiv.org/abs/2605.15104v3)
+
 ## Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment
 - **ID**: arxiv_2605.15168v2
 - **Source**: ArXiv
@@ -845,6 +850,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.30407v3](http://arxiv.org/abs/2605.30407v3)
 
+## CanLegalRAGBench: Evaluating Retrieval-Augmented Generation on Canadian Case Law
+- **ID**: arxiv_2605.30497v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.30497v3](http://arxiv.org/abs/2605.30497v3)
+
 ## Speculative Decoding and the Curse of Multilinguality
 - **ID**: arxiv_2605.30580v2
 - **Source**: ArXiv
@@ -904,6 +914,11 @@
 - **ID**: arxiv_2606.11502v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.11502v2](http://arxiv.org/abs/2606.11502v2)
+
+## GENIE: A Fine-Grained Measure for Novelty
+- **ID**: arxiv_2606.12790v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.12790v2](http://arxiv.org/abs/2606.12790v2)
 
 ## ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages
 - **ID**: arxiv_2606.13572v1
@@ -4409,4 +4424,39 @@
 - **ID**: arxiv_2610.29545v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29545v1](http://arxiv.org/abs/2610.29545v1)
+
+## What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion
+- **ID**: arxiv_2610.30026v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30026v1](http://arxiv.org/abs/2610.30026v1)
+
+## Looped Uniform Diffusion Language Models
+- **ID**: arxiv_2610.30066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30066v1](http://arxiv.org/abs/2610.30066v1)
+
+## GoiBERT: Compact Vietnamese Language Models via Two-Stage Knowledge Distillation
+- **ID**: arxiv_2610.30067v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30067v1](http://arxiv.org/abs/2610.30067v1)
+
+## Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting
+- **ID**: arxiv_2610.30103v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30103v1](http://arxiv.org/abs/2610.30103v1)
+
+## Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research
+- **ID**: arxiv_2610.30113v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30113v1](http://arxiv.org/abs/2610.30113v1)
+
+## Environment Duels: A Microcosm of LLM Co-Evolution
+- **ID**: arxiv_2610.30116v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30116v1](http://arxiv.org/abs/2610.30116v1)
+
+## LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data
+- **ID**: arxiv_2610.30132v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30132v1](http://arxiv.org/abs/2610.30132v1)
 

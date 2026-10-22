@@ -35,6 +35,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.01741v2](http://arxiv.org/abs/2607.01741v2)
 
+## To Retain or to Adapt? Generalizing Continual Learning
+- **ID**: arxiv_2607.05609v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05609v2](http://arxiv.org/abs/2607.05609v2)
+
 ## EHR-MPC: Inference-Time Control for Sepsis Treatment with Generative Patient Digital Twins
 - **ID**: arxiv_2607.08793v4
 - **Source**: ArXiv

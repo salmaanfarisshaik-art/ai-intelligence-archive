@@ -225,3 +225,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29523v1](http://arxiv.org/abs/2610.29523v1)
 
+## Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation
+- **ID**: arxiv_2610.30128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30128v1](http://arxiv.org/abs/2610.30128v1)
+

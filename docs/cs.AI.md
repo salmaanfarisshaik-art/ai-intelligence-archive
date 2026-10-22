@@ -186,6 +186,7 @@
 | [Belief-Aware Multi-Agent Path Finding under Map Uncertainty](http://arxiv.org/abs/2609.40269v1) | ArXiv |  | 1 |
 | [Bellman Language Models: Solving the Recurring Decisions of LLM Agents](http://arxiv.org/abs/2610.24871v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight](http://arxiv.org/abs/2608.24314v2) | ArXiv |  | 1 |
+| [Beyond Accuracy: Measuring Logical Compliance of Predictive Models](http://arxiv.org/abs/2606.20208v2) | ArXiv |  | 1 |
 | [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
 | [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](http://arxiv.org/abs/2608.20768v2) | ArXiv |  | 1 |
 | [Beyond Episodic AI: Cognitive Field Networks for Biologically Inspired Persistent Cognition](http://arxiv.org/abs/2609.16752v3) | ArXiv |  | 1 |
@@ -227,6 +228,7 @@
 | [Challenges in Evaluating Explanation Methods for Static and Evolving Data](http://arxiv.org/abs/2608.06351v1) | ArXiv |  | 1 |
 | [Character Training for Risk-Averse Agents](http://arxiv.org/abs/2609.38093v1) | ArXiv |  | 1 |
 | [CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer](http://arxiv.org/abs/2607.26023v1) | ArXiv |  | 1 |
+| [Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis](http://arxiv.org/abs/2610.30072v1) | ArXiv |  | 1 |
 | [ChemVTS-Bench: Evaluating Visual-Textual-Symbolic Reasoning of Multimodal Large Language Models in Chemistry](http://arxiv.org/abs/2511.17909v2) | ArXiv |  | 1 |
 | [ChronoAgentic: A Code-based Multi-Agent World Simulator for Physically Grounded Simulation Construction](http://arxiv.org/abs/2605.14398v3) | ArXiv |  | 1 |
 | [Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints](http://arxiv.org/abs/2609.04198v1) | ArXiv |  | 1 |
@@ -398,12 +400,14 @@
 | [GRIP: Grounded Reasoning via Information-Restricted Premises](http://arxiv.org/abs/2608.16776v2) | ArXiv |  | 1 |
 | [Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems](http://arxiv.org/abs/2608.19140v1) | ArXiv |  | 1 |
 | [Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents](http://arxiv.org/abs/2609.26760v1) | ArXiv |  | 1 |
+| [GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](http://arxiv.org/abs/2610.30017v1) | ArXiv |  | 1 |
 | [Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching](http://arxiv.org/abs/2605.29055v2) | ArXiv |  | 1 |
 | [Handover of In-Context Learning State Across Session Boundaries](http://arxiv.org/abs/2608.14528v1) | ArXiv |  | 1 |
 | [Harmonizing AI Safety Thresholds](http://arxiv.org/abs/2607.16112v1) | ArXiv |  | 1 |
 | [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974v1) | ArXiv |  | 1 |
 | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](http://arxiv.org/abs/2608.06301v1) | ArXiv |  | 1 |
 | [HazardWeaver: Scientific Route Selection for Hazard Analysis Agents](http://arxiv.org/abs/2610.03591v1) | ArXiv |  | 1 |
+| [HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning](http://arxiv.org/abs/2610.30042v1) | ArXiv |  | 1 |
 | [Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite](http://arxiv.org/abs/2608.05095v1) | ArXiv |  | 1 |
 | [HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance](http://arxiv.org/abs/2608.18056v1) | ArXiv |  | 1 |
 | [HoloAegis: Frozen Representation, Topological Inference --- Minimally Parametric Safety Manifolds and Their Capability Boundaries for LLM Guardrails](http://arxiv.org/abs/2608.08485v2) | ArXiv |  | 1 |
@@ -646,6 +650,7 @@
 | [Risk-Aware Occupancy for Safety-Oriented End-to-End Autonomous Driving](http://arxiv.org/abs/2609.21470v2) | ArXiv |  | 1 |
 | [RoboJEPA: Scaling Robotic Latent World Models](http://arxiv.org/abs/2610.10515v1) | ArXiv |  | 1 |
 | [Robust Risk Under Evolving Uncertainty: A Wasserstein Counterpart of the Entropic Value-at-Risk](http://arxiv.org/abs/2608.19073v1) | ArXiv |  | 1 |
+| [Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](http://arxiv.org/abs/2610.30041v1) | ArXiv |  | 1 |
 | [RubricOpt: Self-Revision of Semantic Rubrics for Preference Optimization](http://arxiv.org/abs/2610.29491v1) | ArXiv |  | 1 |
 | [Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models](http://arxiv.org/abs/2608.20237v1) | ArXiv |  | 1 |
 | [RULER: Representation-Level Verification of Machine Unlearning](http://arxiv.org/abs/2605.27569v3) | ArXiv |  | 1 |
@@ -842,6 +847,7 @@
 | [When Should Models Change Their Minds? Contextual Belief Management in Large Language Models](http://arxiv.org/abs/2605.30219v2) | ArXiv |  | 1 |
 | [When to Think Fast and Slow? AMOR: Adaptive Entropy Gate for Hybrid Models](http://arxiv.org/abs/2602.13215v3) | ArXiv |  | 1 |
 | [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | ArXiv |  | 1 |
+| [Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models](http://arxiv.org/abs/2610.30045v1) | ArXiv |  | 1 |
 | [Who Improves the Robot? Toward Physical Recursive Self-Improvement](http://arxiv.org/abs/2610.18842v1) | ArXiv |  | 1 |
 | [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](http://arxiv.org/abs/2609.05346v1) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
@@ -849,6 +855,7 @@
 | [Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields](http://arxiv.org/abs/2606.11042v3) | ArXiv |  | 1 |
 | [WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](http://arxiv.org/abs/2602.17990v4) | ArXiv |  | 2 |
 | [World Action Planner: Generalizable Robot Decision-Making with Action-Conditioned World Models](http://arxiv.org/abs/2607.27599v2) | ArXiv |  | 1 |
+| [World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](http://arxiv.org/abs/2610.24061v2) | ArXiv |  | 1 |
 | [WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents](http://arxiv.org/abs/2609.40325v1) | ArXiv |  | 1 |
 | [WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?](http://arxiv.org/abs/2610.08720v1) | ArXiv |  | 1 |
 | [Wrong Prediction, Right Answer: Recovering Evidence from Collapsed LLM Sequence Scores](http://arxiv.org/abs/2608.31068v1) | ArXiv |  | 1 |

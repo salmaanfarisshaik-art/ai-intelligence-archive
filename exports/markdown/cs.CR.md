@@ -125,6 +125,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07150v3](http://arxiv.org/abs/2606.07150v3)
 
+## Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR
+- **ID**: arxiv_2606.08168v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08168v2](http://arxiv.org/abs/2606.08168v2)
+
 ## When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks
 - **ID**: arxiv_2606.14629v1
 - **Source**: ArXiv
@@ -454,4 +459,9 @@
 - **ID**: arxiv_2610.26781v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26781v1](http://arxiv.org/abs/2610.26781v1)
+
+## VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift
+- **ID**: arxiv_2610.30090v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30090v1](http://arxiv.org/abs/2610.30090v1)
 

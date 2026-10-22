@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.24061v2",
+  "schema_version": "1.0",
+  "name": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.24061v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.24061v2",
+    "updated": "2026-10-21T17:59:34Z",
+    "published": "2026-10-16T17:59:39Z",
+    "title": "World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds",
+    "summary": "As teams of AI agents take on larger projects and long-standing open problems, agent collaboration offers another dimension for scaling inference-time compute. To understand what makes such collaboration effective and scalable, we develop Software World, a framework for simulating multi-agent coworking in realistic software ecosystems. It comes with a pipeline to create environments of real, interdependent Python packages of different topics, sizes, and dependency structures, which we call software worlds. In a simulation, agents maintain packages in the world with a high-level goal of improving software efficiency, and they are free to discover tasks to work on and collaborate with others. We evaluate agents' work in a world collectively by measuring speedup in hidden dependent packages. The framework allows us to study different elements of collaboration by varying communication, ownership, and resource allocation. We run simulations in three different worlds, totaling more than 10,000 hours of agent work across eight models. Overall, performance improvement scales with inference-time compute, with the best model improving downstream efficiency by up to 31%. We show that most agents can find meaningful tasks via collaboration, but some frontier models can prematurely stop looking for improvements and make little progress. We release the simulation framework and traces to support future studies of agent collaboration at https://szj.io/sw.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:59:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.24061v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

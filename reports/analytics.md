@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91632
+**Total Entities Tracked**: 91682
 
 ## Category Distribution
 
@@ -9,28 +9,28 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2461
 - **models**: 1879
-- **cs.CV**: 1353
+- **cs.CV**: 1363
 - **news**: 1338
 - **dataset**: 1219
 - **text-generation**: 1014
-- **cs.CL**: 882
-- **cs.AI**: 852
-- **cs.LG**: 482
-- **cs.RO**: 204
-- **cs.CR**: 91
-- **cs.SE**: 69
+- **cs.CL**: 892
+- **cs.AI**: 859
+- **cs.LG**: 487
+- **cs.RO**: 210
+- **cs.CR**: 93
+- **cs.SE**: 72
 - **tool**: 57
 - **cs.HC**: 47
-- **cs.IR**: 45
+- **cs.IR**: 46
 - **cs.SD**: 41
 - **cs.CY**: 32
-- **cs.MA**: 22
+- **cs.MA**: 25
 - **eess.AS**: 19
 - **eess.IV**: 17
 - **cs.GT**: 16
+- **stat.ML**: 16
 - **API**: 15
-- **stat.ML**: 15
-- **cs.DC**: 12
+- **cs.DC**: 13
 - **cs.DB**: 11
 - **quant-ph**: 11
 - **Backend**: 10
@@ -86,6 +86,7 @@
 - **math.NA**: 1
 - **math.NT**: 1
 - **physics.acc-ph**: 1
+- **physics.chem-ph**: 1
 - **physics.comp-ph**: 1
 - **physics.flu-dyn**: 1
 - **physics.med-ph**: 1
@@ -98,7 +99,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31518
-- **ArXiv**: 4378
+- **ArXiv**: 4428
 - **Hugging Face**: 2022
 - **OpenAI Blog**: 1324
 - **HuggingFace Datasets**: 219
@@ -145,7 +146,7 @@
 - **text-generation**: 88
 - **library:datasets**: 87
 - **library:mlcroissant**: 87
-- **modality:text**: 83
+- **modality:text**: 82
 - **language:en**: 76
 - **license:apache-2.0**: 75
 - **endpoints_compatible**: 74
@@ -168,8 +169,8 @@
 - **enterprise**: 25
 - **size_categories:n<1K**: 25
 - **modality:tabular**: 24
+- **size_categories:10K<n<100K**: 22
 - **qwen3**: 21
-- **size_categories:10K<n<100K**: 21
 - **license:cc-by-4.0**: 18
 - **modality:video**: 17
 - **task_categories:robotics**: 17
@@ -183,11 +184,11 @@
 - **size_categories:1M<n<10M**: 13
 - **arxiv:2505.09388**: 12
 - **gguf**: 12
-- **size_categories:1K<n<10K**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
 - **custom_code**: 11
 - **format:json**: 11
 - **language:zh**: 11
 - **size_categories:100M<n<1B**: 11
+- **size_categories:1K<n<10K**: 11
 - **modality:audio**: 10

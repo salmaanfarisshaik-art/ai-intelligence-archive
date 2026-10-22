@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2412.02575v3](http://arxiv.org/abs/2412.02575v3)
 
+## Understanding Transformer-Based Vision Models via Modular Feature Inversion
+- **ID**: arxiv_2412.06534v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2412.06534v6](http://arxiv.org/abs/2412.06534v6)
+
 ## Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research
 - **ID**: arxiv_2501.14546v2
 - **Source**: ArXiv
@@ -280,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.18912v2](http://arxiv.org/abs/2509.18912v2)
 
+## $\mathbf{R}^3$: Reconstruction, Raw, and Rain: Deraining Directly in the Bayer Domain
+- **ID**: arxiv_2509.24022v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.24022v3](http://arxiv.org/abs/2509.24022v3)
+
 ## AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning
 - **ID**: arxiv_2509.25699v4
 - **Source**: ArXiv
@@ -504,6 +514,11 @@
 - **ID**: arxiv_2601.05250v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.05250v2](http://arxiv.org/abs/2601.05250v2)
+
+## Active Learning under Simulated Class Imbalance and Label Shift in Binary Semantic Segmentation
+- **ID**: arxiv_2601.06209v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.06209v2](http://arxiv.org/abs/2601.06209v2)
 
 ## Generative Semantic Multi-Object Tracking: A Large-Scale Benchmark and an MLLM-Driven Reasoning Framework
 - **ID**: arxiv_2601.06550v4
@@ -6764,4 +6779,39 @@
 - **ID**: arxiv_2610.29590v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.29590v1](http://arxiv.org/abs/2610.29590v1)
+
+## RealMe: Immersive Volumetric Video from Minimal Captures
+- **ID**: arxiv_2610.30023v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30023v1](http://arxiv.org/abs/2610.30023v1)
+
+## Plausible but Unimplantable: A Trustworthiness Audit of Shape Completion Foundation Models for Cranial Defect Reconstruction
+- **ID**: arxiv_2610.30035v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30035v1](http://arxiv.org/abs/2610.30035v1)
+
+## Attn-Forcing: Learning Full-Context Attention Proxies for Streaming Video Generation
+- **ID**: arxiv_2610.30036v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30036v1](http://arxiv.org/abs/2610.30036v1)
+
+## ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video
+- **ID**: arxiv_2610.30089v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30089v1](http://arxiv.org/abs/2610.30089v1)
+
+## ALPS: Visual State Encoders for World Models
+- **ID**: arxiv_2610.30120v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30120v1](http://arxiv.org/abs/2610.30120v1)
+
+## VoxProg: 3D Spatial Reasoning through Voxel Programming
+- **ID**: arxiv_2610.30127v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30127v1](http://arxiv.org/abs/2610.30127v1)
+
+## Rethinking Video Autoencoders for Interactive World Models
+- **ID**: arxiv_2610.30129v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30129v1](http://arxiv.org/abs/2610.30129v1)
 

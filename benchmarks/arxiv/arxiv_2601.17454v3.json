@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.17454v3",
+  "schema_version": "1.0",
+  "name": "Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.17454v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MA",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.17454v3",
+    "updated": "2026-10-21T17:09:52Z",
+    "published": "2026-01-24T13:09:01Z",
+    "title": "Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?",
+    "summary": "Tabular studies are a common way to compare independent and centralized multi-agent learners, because they avoid function approximation. A natural expectation is that centralized learning, which learns joint actions, helps agents coordinate, especially when their bodies make solo success hard. Earlier work tests this only in parts: it measures coordination for one learning method, compares methods with the agents' bodies fixed, or varies speed but reports only how well the team did. We test it in a predator-prey environment, where teammates cooperatively hunt together while two teams compete. We compare independent Q-learning (IQL) with central Q-learning (CQL) in all four predator and prey pairings, under limits on speed and stamina, on a 5x5 and an 8x8 grid trained for 200,000 episodes each, and check that the agents learn on both. We measure coordination directly, with predictions for the main measurement fixed in advance. In this task, where one predator can capture prey alone, we find three things. First, CQL costs its agents in both roles on both grids, and its predators coordinate no more than IQL's. Second, its one benefit comes from acting on the best joint action: this cut capture time by 42% on the small grid with faster prey and unlimited stamina, but helped nowhere on the larger grid, where the best joint action had mostly never been tried. Third, on the larger grid a tie-breaking default decided which method won, even though the agents had passed a learning check. A tabular comparison can therefore be trusted only if it also checks how much of the state space the agents covered and implements the methods alike. We propose simple checks for both.",
+    "primary_category": "cs.MA"
+  },
+  "retrieval_timestamp": "2026-10-22T07:06:23Z",
+  "last_updated": "2026-10-21T17:09:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.17454v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
