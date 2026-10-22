@@ -1741,6 +1741,11 @@
 - **URL**: [https://openai.com/index/decagon](https://openai.com/index/decagon)
 
 ## 
+- **ID**: rss_https://openai.com/index/decisions-api
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/decisions-api](https://openai.com/index/decisions-api)
+
+## 
 - **ID**: rss_https://openai.com/index/deep-double-descent
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/deep-double-descent](https://openai.com/index/deep-double-descent)
