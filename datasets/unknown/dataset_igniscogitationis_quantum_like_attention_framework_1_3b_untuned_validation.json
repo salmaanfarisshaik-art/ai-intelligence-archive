@@ -5,7 +5,7 @@
   "disabled": false,
   "gated": false,
   "lastModified": "2026-10-21T19:52:42.000Z",
-  "likes": 8,
+  "likes": 9,
   "private": false,
   "sha": "bbb858f36ea72a0a83ff387c864c93424e53b240",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tQuantum-Like Attention Framework (QLAF) 1.3B Untuned Pretraining & Scaling Proof\n\t\n\nThis repository hosts the pretraining checkpoints, scaling logs, and downstream evaluation benchmarks for the 1.3B parameter Quantum-Like Attention Framework (QLAF) with Hybrid FlashAttention (75% recurrent QLAF / 25% causal FlashAttention) across a 3-seed validation campaign on dedicated A100 Large GPU hardware.\n\n\n\t\n\t\t\n\t\n\t\n\t\tMulti-Seed Pretraining & Downstream Evaluation Leaderboard\n\t\n\n\n\t\n\t\t\nSeed… See the full description on the dataset page: https://huggingface.co/datasets/IgnisCogitationis/quantum-like-attention-framework-1.3b-untuned-validation.",

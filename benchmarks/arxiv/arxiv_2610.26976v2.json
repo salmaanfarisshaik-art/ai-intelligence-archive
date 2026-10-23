@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.26976v2",
+  "schema_version": "1.0",
+  "name": "Sharp Degree Bounds for Putinar Certificates in Terms of the Positivity Margin via Analytic Sums of Squares",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.26976v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.26976v2",
+    "updated": "2026-10-22T17:36:31Z",
+    "published": "2026-10-18T23:10:30Z",
+    "title": "Sharp Degree Bounds for Putinar Certificates in Terms of the Positivity Margin via Analytic Sums of Squares",
+    "summary": "We establish sharp degree bounds for Putinar sum-of-squares (SOS) certificates in terms of the positivity margin $δ$. For any fixed Archimedean quadratic module with prescribed generators and any fixed degree bound on the objective, normalized polynomial objectives admit a uniform certificate-degree upper bound of $O(δ^{-1/2}\\log^2(2/δ))$. The bound is sharp: we construct a matching lower-bound example in three variables. We further show that the number of inequality generators affects the optimal degree bound. For quadratic modules with at most two inequality generators, the bound improves to $O(δ^{-1/2}\\log(2/δ))$, which is also sharp. This improvement is obtained by directly converting two-generator Stengle refutations into certificates for the original quadratic module. We also establish sharp degree bounds for trigonometric SOS certificates on tori. In particular, for the full torus without additional constraints, the optimal worst-case order improves to $δ^{-1/4}$, whereas additional equality constraints can lead the order to $δ^{-1/2}\\log(2/δ)$. These results also yield sharp worst-case convergence rates for the Lasserre hierarchy.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T17:36:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.26976v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

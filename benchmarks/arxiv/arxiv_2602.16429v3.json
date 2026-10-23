@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.16429v3",
+  "schema_version": "1.0",
+  "name": "TabAgent: Distilling LLM Agent Components into Cheap Classifiers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.16429v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.16429v3",
+    "updated": "2026-10-22T17:39:20Z",
+    "published": "2026-02-18T13:01:17Z",
+    "title": "TabAgent: Distilling LLM Agent Components into Cheap Classifiers",
+    "summary": "Agentic systems, AI architectures that autonomously execute multi-step workflows to achieve complex goals, are often built using repeated large language model (LLM) calls for closed-set decision tasks such as routing, shortlisting, gating, and verification. While convenient, this design makes deployments slow and expensive due to cumulative latency and token usage. We propose TabAgent, a framework for replacing generative decision components in closed-set selection tasks with a compact textual-tabular classifier trained on execution traces. TabAgent (i) extracts structured schema, state, and dependency features from trajectories (TabSchema), (ii) augments coverage with schema-aligned synthetic supervision (TabSynth), and (iii) scores candidates with a lightweight classifier (TabHead). On the long-horizon AppWorld benchmark, TabAgent maintains task-level success while eliminating shortlist-time LLM calls, reducing latency by approximately 95% and inference cost by 85-91%. Beyond tool shortlisting, TabAgent generalizes to other agentic decision heads, establishing a paradigm for learned discriminative replacements of generative bottlenecks in production agent architectures.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T17:39:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.16429v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

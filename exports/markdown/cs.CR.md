@@ -465,3 +465,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30090v1](http://arxiv.org/abs/2610.30090v1)
 
+## Social-HUMINT: An LLM-Augmented Unified Framework for Measuring Social Media Exposure
+- **ID**: arxiv_2610.31573v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31573v1](http://arxiv.org/abs/2610.31573v1)
+

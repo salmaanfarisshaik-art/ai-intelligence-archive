@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.31566v1",
+  "schema_version": "1.0",
+  "name": "CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.31566v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.31566v1",
+    "updated": "2026-10-22T17:09:12Z",
+    "published": "2026-10-22T17:09:12Z",
+    "title": "CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models",
+    "summary": "Large language models have shown outstanding performance on text-first tasks such as coding, math, and writing. Recent efforts are shifting models' training to include scientific problems that often live in highly specialized domains beyond text, such as protein structure and biological images. However, in these scenarios, their general-purpose accuracy compared with specialized algorithms remains in question. One such domain is cell tracking, which requires spatiotemporal awareness of cell dynamics. To evaluate this, we created a new benchmark, CellTrack-Bench, which assesses Vision-Language Models' (VLMs) cell-tracking-related performance against specialized trackers. The full benchmark draws from 15 standard cell-tracking datasets across four imaging modalities and comprises 1,537 problems corresponding to 9,041 cell-linking decisions. We selected a hard subset requiring greater reasoning effort by identifying failures shared across distinct algorithmic trackers. With this proposed dataset, we: (i) evaluated different environment harnesses for VLMs; (ii) benchmarked 9 frontier closed-source models and 13 open-weight models; and (iii) provided a detailed analysis of their failure modes. Code, the stored model outputs, and a pipeline that regenerates the benchmark from the source datasets are available at https://github.com/royerlab/celltrack-bench.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T17:09:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.31566v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

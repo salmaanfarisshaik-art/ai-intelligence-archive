@@ -14,10 +14,10 @@
     "author": "evaleval",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-10-22T08:52:09.000Z",
-    "likes": 54,
+    "lastModified": "2026-10-23T06:18:36.000Z",
+    "likes": 57,
     "private": false,
-    "sha": "08f9e7bc3e34421b329dc508b28de79c81010751",
+    "sha": "150b1f3918c878fa7f163144ae50ffb8ff4de9a8",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvery Eval Ever Datastore\n\t\n\nA community database of AI evaluation results, all in one schema. Scores scraped from\nleaderboards, pulled out of papers, and produced by local evaluation runs are stored in a\nsingle record format, so results from different sources can be compared, joined, and reused\ninstead of re-scraped. This dataset is the data itself: one JSON record per\nmodel per evaluation run — which may carry several scored results — with optional\nper-sample companion files.… See the full description on the dataset page: https://huggingface.co/datasets/evaleval/EEE_datastore.",
     "downloads": 488837,
     "tags": [
@@ -26,8 +26,7 @@
       "annotations_creators:machine-generated",
       "source_datasets:original",
       "license:mit",
-      "size_categories:1K<n<10K",
-      "modality:text",
+      "size_categories:10K<n<100K",
       "arxiv:2606.14516",
       "region:us",
       "evaluation",
@@ -41,8 +40,8 @@
     "createdAt": "2026-02-11T15:19:44.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-10-22T13:27:52.784534+00:00",
-  "last_updated": "2026-10-22T08:52:09.000Z",
+  "retrieval_timestamp": "2026-10-23T06:58:43.609405+00:00",
+  "last_updated": "2026-10-23T06:18:36.000Z",
   "links": {
     "related_models": [
       "datasets/evaleval"

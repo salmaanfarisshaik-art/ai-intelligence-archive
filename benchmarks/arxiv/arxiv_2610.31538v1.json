@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.31538v1",
+  "schema_version": "1.0",
+  "name": "LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.31538v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.31538v1",
+    "updated": "2026-10-22T16:46:09Z",
+    "published": "2026-10-22T16:46:09Z",
+    "title": "LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels",
+    "summary": "Local anomaly detection is the task of identifying spatially confined anomalous or out-of-distribution (OOD) regions within an otherwise in-distribution (ID) image. Most existing methods are designed for a specific context, with a strong focus on industrial defect detection, where they achieve excellent performance on well-established benchmarks. However, we observe that these methods can exhibit significant performance drops in other contexts, especially when the inlier distribution is multimodal. To account for this inlier complexity, we propose LACToS, a principled local OOD detection method based on statistical typicality and made tractable through two innovations: (i) grouping pixels into superpixels and (ii) using a computationally efficient proxy to estimate typicality. We evaluate LACToS across three diverse applications spanning medical imaging, human faces, and X-ray security screening. LACToS performs more robustly than prior methods across these benchmarks. The code is released here: https://github.com/voilalab/LACToS.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T16:46:09Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.31538v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

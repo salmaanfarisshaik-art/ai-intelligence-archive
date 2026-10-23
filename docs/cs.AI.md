@@ -187,6 +187,7 @@
 | [Bellman Language Models: Solving the Recurring Decisions of LLM Agents](http://arxiv.org/abs/2610.24871v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight](http://arxiv.org/abs/2608.24314v2) | ArXiv |  | 1 |
 | [Beyond Accuracy: Measuring Logical Compliance of Predictive Models](http://arxiv.org/abs/2606.20208v2) | ArXiv |  | 1 |
+| [Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models](http://arxiv.org/abs/2610.31522v1) | ArXiv |  | 1 |
 | [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
 | [Beyond Endpoint Gains: A Weight-Delta Audit of Medical Specialization](http://arxiv.org/abs/2608.20768v2) | ArXiv |  | 1 |
 | [Beyond Episodic AI: Cognitive Field Networks for Biologically Inspired Persistent Cognition](http://arxiv.org/abs/2609.16752v3) | ArXiv |  | 1 |
@@ -251,6 +252,7 @@
 | [Consensus-based Agentic Large Language Model Framework for Harmonized Tariff Schedule Code Classification](http://arxiv.org/abs/2606.16987v1) | ArXiv |  | 1 |
 | [Constrained Entity Selection under Partial Knowledge for LLM-Based Knowledge Graph QA](http://arxiv.org/abs/2608.24824v1) | ArXiv |  | 1 |
 | [Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models](http://arxiv.org/abs/2608.12304v1) | ArXiv |  | 1 |
+| [Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems](http://arxiv.org/abs/2610.31553v1) | ArXiv |  | 1 |
 | [Context-Aware Hierarchical Bayesian Modeling of IVF Laboratory Environmental Conditions](http://arxiv.org/abs/2606.20459v1) | ArXiv |  | 1 |
 | [COntExt: Towards Context-Aware Ontology Extension from Operational Metrics](http://arxiv.org/abs/2607.29553v1) | ArXiv |  | 1 |
 | [ContractScrub: A benchmark for final review of legal contracts](http://arxiv.org/abs/2608.20204v1) | ArXiv |  | 1 |
@@ -285,6 +287,7 @@
 | [Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems](http://arxiv.org/abs/2608.29646v1) | ArXiv |  | 1 |
 | [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](http://arxiv.org/abs/2604.01151v3) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
+| [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | ArXiv |  | 1 |
 | [Distributed Legal Infrastructure for a Trustworthy Agentic Web](http://arxiv.org/abs/2603.06884v2) | ArXiv |  | 1 |
@@ -316,12 +319,14 @@
 | [EnigmaForge: The Question Is Hidden in the Story](http://arxiv.org/abs/2609.30144v1) | ArXiv |  | 1 |
 | [Environment Evolution for Terminal Agents](http://arxiv.org/abs/2609.04128v1) | ArXiv |  | 1 |
 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](http://arxiv.org/abs/2606.13602v1) | ArXiv |  | 1 |
+| [EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1) | ArXiv |  | 1 |
 | [Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable](http://arxiv.org/abs/2609.04127v1) | ArXiv |  | 1 |
 | [ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams](http://arxiv.org/abs/2607.24707v1) | ArXiv |  | 1 |
 | [Estimating Uncertain Spatial Relationships in Robotics](http://arxiv.org/abs/1304.3111v2) | ArXiv |  | 1 |
 | [Et Tu, Brute? Economic Misalignment in Personal AI Agents](http://arxiv.org/abs/2609.24927v1) | ArXiv |  | 1 |
 | [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1) | ArXiv |  | 1 |
 | [EvalSafetyGap: A Hybrid Survey and Conceptual Framework for LLM Evaluation-Safety Failures](http://arxiv.org/abs/2606.30219v4) | ArXiv |  | 1 |
+| [Evaluating Rational Contracting in Natural Language](http://arxiv.org/abs/2608.10475v2) | ArXiv |  | 1 |
 | [Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?](http://arxiv.org/abs/2610.22333v1) | ArXiv |  | 1 |
 | [Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions](http://arxiv.org/abs/2609.27749v1) | ArXiv |  | 1 |
 | [Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training](http://arxiv.org/abs/2609.09081v1) | ArXiv |  | 1 |
@@ -443,6 +448,7 @@
 | [Interval POMDP Shielding for Imperfect-Perception Agents](http://arxiv.org/abs/2604.20728v2) | ArXiv |  | 1 |
 | [Item Response Theory for AI Safety](http://arxiv.org/abs/2608.05086v1) | ArXiv |  | 1 |
 | [JarvisGUI: Towards Cross-Device GUI Agents with Dynamic Task Composition](http://arxiv.org/abs/2609.10451v1) | ArXiv |  | 1 |
+| [Jev-DLC: Decision-Level Continual Learning from Typed Feedback](http://arxiv.org/abs/2610.31521v1) | ArXiv |  | 1 |
 | [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](http://arxiv.org/abs/2609.30186v1) | ArXiv |  | 1 |
 | [Jeva: System One Models from First Principles](http://arxiv.org/abs/2610.18773v1) | ArXiv |  | 1 |
 | [JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs](http://arxiv.org/abs/2610.03296v1) | ArXiv |  | 1 |
@@ -510,6 +516,7 @@
 | [MIRROR: Learning from the Other View for Multi-Modal Reasoning](http://arxiv.org/abs/2607.21552v1) | ArXiv |  | 1 |
 | [Mismatch Matters: On-Policy Distillation Beyond Token Agreement](http://arxiv.org/abs/2608.09836v1) | ArXiv |  | 1 |
 | [Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](http://arxiv.org/abs/2608.23497v1) | ArXiv |  | 1 |
+| [MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](http://arxiv.org/abs/2606.06473v2) | ArXiv |  | 1 |
 | [MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering](http://arxiv.org/abs/2610.22344v1) | ArXiv |  | 1 |
 | [MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records](http://arxiv.org/abs/2610.27911v1) | ArXiv |  | 1 |
 | [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
@@ -601,6 +608,7 @@
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
 | [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v4) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
+| [Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization](http://arxiv.org/abs/2605.19721v2) | ArXiv |  | 1 |
 | [Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](http://arxiv.org/abs/2609.31505v1) | ArXiv |  | 1 |
 | [Protecting patient privacy in clinical foundation models: Technical and legal perspectives](http://arxiv.org/abs/2608.07705v2) | ArXiv |  | 1 |
 | [ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry](http://arxiv.org/abs/2610.26829v1) | ArXiv |  | 1 |
@@ -702,6 +710,7 @@
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v2) | ArXiv |  | 1 |
 | [Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load](http://arxiv.org/abs/2608.05018v3) | ArXiv |  | 1 |
 | [Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations](http://arxiv.org/abs/2608.03970v1) | ArXiv |  | 1 |
+| [Simulated Control Evals](http://arxiv.org/abs/2610.31593v1) | ArXiv |  | 1 |
 | [SkillCommit: Evolving Agent Skills through Behaviorally Validated Scope Expansion](http://arxiv.org/abs/2608.15165v2) | ArXiv |  | 1 |
 | [SkillNet: Create, Evaluate, and Connect AI Skills](http://arxiv.org/abs/2603.04448v2) | ArXiv |  | 1 |
 | [SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent](http://arxiv.org/abs/2608.07449v1) | ArXiv |  | 1 |
@@ -782,6 +791,7 @@
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
 | [Tool Verification for Test-Time Reinforcement Learning](http://arxiv.org/abs/2603.02203v2) | ArXiv |  | 1 |
 | [TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](http://arxiv.org/abs/2606.27161v2) | ArXiv |  | 1 |
+| [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](http://arxiv.org/abs/2610.24161v3) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
 | [Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry](http://arxiv.org/abs/2607.21495v1) | ArXiv |  | 1 |
 | [Toward Safe LLM Agents: A Survey of Specification, Verification, and Enforcement](http://arxiv.org/abs/2608.14590v2) | ArXiv |  | 1 |
@@ -832,6 +842,7 @@
 | [What Do RTL Repair Benchmarks Actually Measure?](http://arxiv.org/abs/2610.28595v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
 | [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
+| [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](http://arxiv.org/abs/2610.31576v1) | ArXiv |  | 1 |
 | [What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence](http://arxiv.org/abs/2609.21924v1) | ArXiv |  | 1 |
 | [When Agents Coordinate: Measuring Coordination in Multi-Agent AI Coding](http://arxiv.org/abs/2608.16801v1) | ArXiv |  | 1 |
 | [When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation](http://arxiv.org/abs/2602.16763v4) | ArXiv |  | 1 |
@@ -849,6 +860,7 @@
 | [When Words Are Safe But Actions Kill: Probing Physical Danger Beyond Text Safety in Hidden-State Risk Space](http://arxiv.org/abs/2607.15218v1) | ArXiv |  | 1 |
 | [Which Differences Matter? Controlled Tests of Rule Transfer, Joint Reliability, and Information Use in Decision Models](http://arxiv.org/abs/2610.30045v1) | ArXiv |  | 1 |
 | [Who Improves the Robot? Toward Physical Recursive Self-Improvement](http://arxiv.org/abs/2610.18842v1) | ArXiv |  | 1 |
+| [Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration](http://arxiv.org/abs/2610.31579v1) | ArXiv |  | 1 |
 | [Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education](http://arxiv.org/abs/2609.05346v1) | ArXiv |  | 1 |
 | [Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM](http://arxiv.org/abs/2609.04098v1) | ArXiv |  | 2 |
 | [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](http://arxiv.org/abs/2608.27454v1) | ArXiv |  | 1 |

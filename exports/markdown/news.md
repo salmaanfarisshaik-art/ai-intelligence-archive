@@ -4886,6 +4886,11 @@
 - **URL**: [https://openai.com/index/openai-models-google-cloud](https://openai.com/index/openai-models-google-cloud)
 
 ## 
+- **ID**: rss_https://openai.com/index/openai-nask-ai-safety-security-partnership
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-nask-ai-safety-security-partnership](https://openai.com/index/openai-nask-ai-safety-security-partnership)
+
+## 
 - **ID**: rss_https://openai.com/index/openai-nvidia-systems-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-nvidia-systems-partnership](https://openai.com/index/openai-nvidia-systems-partnership)

@@ -740,6 +740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.27101v2](http://arxiv.org/abs/2603.27101v2)
 
+## ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection
+- **ID**: arxiv_2603.28584v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.28584v5](http://arxiv.org/abs/2603.28584v5)
+
 ## PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models
 - **ID**: arxiv_2603.28763v2
 - **Source**: ArXiv
@@ -1544,6 +1549,11 @@
 - **ID**: arxiv_2607.06923v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.06923v2](http://arxiv.org/abs/2607.06923v2)
+
+## Distribution-Calibrated Candidate Selection for Personalized Text-to-Image Generation
+- **ID**: arxiv_2607.07173v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.07173v2](http://arxiv.org/abs/2607.07173v2)
 
 ## IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation
 - **ID**: arxiv_2607.09133v3
@@ -5495,6 +5505,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.40362v1](http://arxiv.org/abs/2609.40362v1)
 
+## MMVistaReason: Toward Open-Data and Post-Training Recipes for Multimodal Reasoning
+- **ID**: arxiv_2610.01352v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.01352v2](http://arxiv.org/abs/2610.01352v2)
+
 ## Surface-volume self-supervised representation learning of brain MRI for genetic discovery
 - **ID**: arxiv_2610.02114v1
 - **Source**: ArXiv
@@ -6814,4 +6829,89 @@
 - **ID**: arxiv_2610.30129v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30129v1](http://arxiv.org/abs/2610.30129v1)
+
+## Diffusion-Based Synthesis of Complete 3D Biparametric Prostate MRI
+- **ID**: arxiv_2610.31523v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31523v1](http://arxiv.org/abs/2610.31523v1)
+
+## LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels
+- **ID**: arxiv_2610.31538v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31538v1](http://arxiv.org/abs/2610.31538v1)
+
+## Squaring-the-Sphere: Distortion-Free and Seamless Panorama Generation via CubeAtlas
+- **ID**: arxiv_2610.31565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31565v1](http://arxiv.org/abs/2610.31565v1)
+
+## CellTrack-Bench: Microscopic Cell Tracking Benchmark for Vision-Language Models
+- **ID**: arxiv_2610.31566v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31566v1](http://arxiv.org/abs/2610.31566v1)
+
+## Beyond Best-of-$k$: Prior-Consistent DAPS for Ambiguous Nonlinear Inverse Problems
+- **ID**: arxiv_2610.31592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31592v1](http://arxiv.org/abs/2610.31592v1)
+
+## F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation
+- **ID**: arxiv_2610.31623v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31623v1](http://arxiv.org/abs/2610.31623v1)
+
+## HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction
+- **ID**: arxiv_2610.31635v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31635v1](http://arxiv.org/abs/2610.31635v1)
+
+## WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models
+- **ID**: arxiv_2610.31640v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31640v1](http://arxiv.org/abs/2610.31640v1)
+
+## UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing
+- **ID**: arxiv_2610.31641v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31641v1](http://arxiv.org/abs/2610.31641v1)
+
+## GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution
+- **ID**: arxiv_2610.31644v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31644v1](http://arxiv.org/abs/2610.31644v1)
+
+## OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields
+- **ID**: arxiv_2610.31645v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31645v1](http://arxiv.org/abs/2610.31645v1)
+
+## Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation
+- **ID**: arxiv_2610.31649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31649v1](http://arxiv.org/abs/2610.31649v1)
+
+## BrickWright: Agentic Creation of Physically Feasible Brick Builds
+- **ID**: arxiv_2610.31651v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31651v1](http://arxiv.org/abs/2610.31651v1)
+
+## SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing
+- **ID**: arxiv_2610.31659v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31659v1](http://arxiv.org/abs/2610.31659v1)
+
+## Reading, Writing, Sharing, and Interacting with the World through Video
+- **ID**: arxiv_2610.31668v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31668v1](http://arxiv.org/abs/2610.31668v1)
+
+## Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
+- **ID**: arxiv_2610.31670v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31670v1](http://arxiv.org/abs/2610.31670v1)
+
+## A Unified Framework for Image-to-3D Part Generation via Variable Granularity
+- **ID**: arxiv_2610.31671v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31671v1](http://arxiv.org/abs/2610.31671v1)
 

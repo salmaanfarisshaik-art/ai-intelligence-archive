@@ -2435,3 +2435,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30104v1](http://arxiv.org/abs/2610.30104v1)
 
+## Diffusion Language Models for Perplexity-Aware Black-Box Attacks
+- **ID**: arxiv_2610.31558v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31558v1](http://arxiv.org/abs/2610.31558v1)
+
+## When to Follow the Teacher: Advantage-Based On-Policy Distillation
+- **ID**: arxiv_2610.31563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31563v1](http://arxiv.org/abs/2610.31563v1)
+
+## Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3
+- **ID**: arxiv_2610.31624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31624v1](http://arxiv.org/abs/2610.31624v1)
+
+## Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation
+- **ID**: arxiv_2610.31639v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31639v1](http://arxiv.org/abs/2610.31639v1)
+
+## METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning
+- **ID**: arxiv_2610.31656v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31656v1](http://arxiv.org/abs/2610.31656v1)
+
+## Cost-Aware Abstention for LLM-Based IT Ticket Classification
+- **ID**: arxiv_2610.31657v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31657v1](http://arxiv.org/abs/2610.31657v1)
+

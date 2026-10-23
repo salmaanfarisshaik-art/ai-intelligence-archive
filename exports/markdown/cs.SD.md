@@ -135,6 +135,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09930v1](http://arxiv.org/abs/2608.09930v1)
 
+## Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions
+- **ID**: arxiv_2608.09930v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.09930v2](http://arxiv.org/abs/2608.09930v2)
+
 ## Finetuning Strategies for Querying Sounds by Vocal Imitation
 - **ID**: arxiv_2608.19174v1
 - **Source**: ArXiv

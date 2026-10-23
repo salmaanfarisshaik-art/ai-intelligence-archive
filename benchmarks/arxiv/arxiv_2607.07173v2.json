@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.07173v2",
+  "schema_version": "1.0",
+  "name": "Distribution-Calibrated Candidate Selection for Personalized Text-to-Image Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.07173v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.07173v2",
+    "updated": "2026-10-22T16:33:40Z",
+    "published": "2026-07-08T09:07:31Z",
+    "title": "Distribution-Calibrated Candidate Selection for Personalized Text-to-Image Generation",
+    "summary": "Subject-driven personalized text-to-image systems commonly generate multiple candidates but return a single output, yet the selection stage is rarely evaluated as an explicit system component. Identity-only selection may overemphasize reference similarity at the expense of prompt alignment and output diversity. We propose distribution-calibrated candidate selection (DCAL), a training-free sequential selector for a predefined ordered prompt set that jointly scores calibrated identity, text alignment, and cross-prompt novelty. All selectors operate on identical pre-generated K=4 candidate pools for all 30 DreamBooth subjects using a fixed LoRA-adapted generator. Relative to the fixed-seed Random-of-4 control, DCAL yields higher 1-LPIPS, CLIP-I, DINO-I, and CLIP-T for 22, 25, 28, and 22 of the 30 subjects, respectively. Compared with identity-only selection, DCAL improves CLIP-T (0.3264 versus 0.3179), CLIP diversity (0.2444 versus 0.2368), and DINO diversity (0.3286 versus 0.3170), while CLIP-I and DINO-I decrease from 0.8250 to 0.8204 and from 0.7560 to 0.7453. Compared with identity-text scoring, prompt-wise novelty calibration increases CLIP-T from 0.3253 to 0.3264 and CLIP diversity from 0.2366 to 0.2444. We further formalize finite-pool Pareto and perturbation-stability properties and analyze inference complexity.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T16:33:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.07173v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.19721v2",
+  "schema_version": "1.0",
+  "name": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.19721v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.19721v2",
+    "updated": "2026-10-22T17:10:07Z",
+    "published": "2026-05-19T11:55:44Z",
+    "title": "Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization",
+    "summary": "Graph combinatorial optimization (GCO) has attracted growing interest, as many NP-hard problems naturally admit graph formulations, yet their combinatorial explosion renders exact methods computationally intractable. Recent advances in Reinforcement Learning (RL) combined with Graph Neural Networks (GNNs) have significantly improved learning-based GCO solvers. However, existing approaches face limitations in both generalization across diverse graph instances and computational scalability as action spaces grow. To address both challenges, we introduce \\textit{projection agents}, a GCO methodology built on the Wolpertinger framework and adapted to a shared GNN-based latent space for observations and actions. These agents are trained to solve GCO problems by predicting a desired latent action in a single forward pass, which is subsequently decoded into a valid discrete action in the graph using the latent space. Across diverse benchmarks, our approach achieves up to 6.41$\\times$ faster inference and up to 75\\% better generalization than existing solutions using a simple nearest-neighbor decoding, while opening the door to strong RL performance in super-linear decision spaces with multiple interdependent variables. Finally, we release \\texttt{LaGCO-RL}, a Python library that automates latent action-space construction and supports existing RL-GCO solutions, promoting reproducibility and adaptation to new GCO benchmarks.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T17:10:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.19721v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

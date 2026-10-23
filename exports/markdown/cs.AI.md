@@ -450,6 +450,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.19330v2](http://arxiv.org/abs/2605.19330v2)
 
+## Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization
+- **ID**: arxiv_2605.19721v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.19721v2](http://arxiv.org/abs/2605.19721v2)
+
 ## A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
 - **ID**: arxiv_2605.20173v2
 - **Source**: ArXiv
@@ -519,6 +524,11 @@
 - **ID**: arxiv_2606.06448v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.06448v2](http://arxiv.org/abs/2606.06448v2)
+
+## MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery
+- **ID**: arxiv_2606.06473v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.06473v2](http://arxiv.org/abs/2606.06473v2)
 
 ## Think Fast: Estimating No-CoT Task-Completion Time Horizons of Frontier AI Models
 - **ID**: arxiv_2606.07157v4
@@ -1879,6 +1889,11 @@
 - **ID**: arxiv_2608.09921v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09921v2](http://arxiv.org/abs/2608.09921v2)
+
+## Evaluating Rational Contracting in Natural Language
+- **ID**: arxiv_2608.10475v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10475v2](http://arxiv.org/abs/2608.10475v2)
 
 ## sLTN: Structural Logic Tensor Networks
 - **ID**: arxiv_2608.11136v1
@@ -4090,6 +4105,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24061v2](http://arxiv.org/abs/2610.24061v2)
 
+## TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU
+- **ID**: arxiv_2610.24161v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24161v3](http://arxiv.org/abs/2610.24161v3)
+
 ## IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text
 - **ID**: arxiv_2610.24789v1
 - **Source**: ArXiv
@@ -4294,4 +4314,44 @@
 - **ID**: arxiv_2610.30072v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30072v1](http://arxiv.org/abs/2610.30072v1)
+
+## Jev-DLC: Decision-Level Continual Learning from Typed Feedback
+- **ID**: arxiv_2610.31521v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31521v1](http://arxiv.org/abs/2610.31521v1)
+
+## Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models
+- **ID**: arxiv_2610.31522v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31522v1](http://arxiv.org/abs/2610.31522v1)
+
+## Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems
+- **ID**: arxiv_2610.31553v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31553v1](http://arxiv.org/abs/2610.31553v1)
+
+## What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models
+- **ID**: arxiv_2610.31576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31576v1](http://arxiv.org/abs/2610.31576v1)
+
+## Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration
+- **ID**: arxiv_2610.31579v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31579v1](http://arxiv.org/abs/2610.31579v1)
+
+## Simulated Control Evals
+- **ID**: arxiv_2610.31593v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31593v1](http://arxiv.org/abs/2610.31593v1)
+
+## EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence
+- **ID**: arxiv_2610.31650v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31650v1](http://arxiv.org/abs/2610.31650v1)
+
+## Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning
+- **ID**: arxiv_2610.31667v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31667v1](http://arxiv.org/abs/2610.31667v1)
 

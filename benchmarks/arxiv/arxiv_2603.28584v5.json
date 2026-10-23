@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.28584v5",
+  "schema_version": "1.0",
+  "name": "ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.28584v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.28584v5",
+    "updated": "2026-10-22T16:51:55Z",
+    "published": "2026-03-30T15:33:26Z",
+    "title": "ORSIFlow: Saliency-Guided Rectified Flow for Optical Remote Sensing Salient Object Detection",
+    "summary": "Optical Remote Sensing Image Salient Object Detection (ORSI-SOD) remains challenging due to complex backgrounds, low contrast, irregular object shapes, and large variations in object scale. Existing discriminative methods directly regress saliency maps, while recent diffusion-based generative approaches suffer from stochastic sampling and high computational cost. In this paper, we propose ORSIFlow, a saliency-guided rectified flow framework that reformulates ORSI-SOD as a deterministic latent flow generation problem. ORSIFlow performs saliency mask generation in a compact latent space constructed by a frozen variational autoencoder, enabling efficient inference with only a few steps. To enhance saliency awareness, we design a Salient Feature Discriminator for global semantic discrimination and a Salient Feature Calibrator for precise boundary refinement. Extensive experiments on multiple public benchmarks show that ORSIFlow achieves state-of-the-art performance with significantly improved efficiency.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T16:51:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.28584v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

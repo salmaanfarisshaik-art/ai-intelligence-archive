@@ -360,3 +360,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30047v1](http://arxiv.org/abs/2610.30047v1)
 
+## VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act
+- **ID**: arxiv_2610.31588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31588v1](http://arxiv.org/abs/2610.31588v1)
+

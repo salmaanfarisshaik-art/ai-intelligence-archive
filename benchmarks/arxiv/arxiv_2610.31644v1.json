@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.31644v1",
+  "schema_version": "1.0",
+  "name": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.31644v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.31644v1",
+    "updated": "2026-10-22T17:55:10Z",
+    "published": "2026-10-22T17:55:10Z",
+    "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+    "summary": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due to their compactness, resolution-agnosticism and amenability to direct neural processing. On the other hand, gigapixel images are becoming increasingly widespread across a variety of scientific, cultural, and industrial domains. In this paper, we present GigaBench, the first benchmark and experimental evaluation focused on deploying LRs with gigapixel imagery. GigaBench includes images collected, acquired, and synthetically rendered across diverse domains, and addresses image compression and super-resolution. We adapt a representative set of LRs, spanning Implicit, Hybrid, and Explicit methods, so as to operate reliably at the gigapixel scale on consumer hardware. Through systematic evaluation across reconstruction quality, model size, compression and inference times, we identify consistent trends across methods and suggest actionable guidance for future investigation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-23T06:58:37Z",
+  "last_updated": "2026-10-22T17:55:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.31644v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

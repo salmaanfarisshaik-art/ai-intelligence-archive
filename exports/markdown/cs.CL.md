@@ -460,6 +460,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.16429v2](http://arxiv.org/abs/2602.16429v2)
 
+## TabAgent: Distilling LLM Agent Components into Cheap Classifiers
+- **ID**: arxiv_2602.16429v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16429v3](http://arxiv.org/abs/2602.16429v3)
+
 ## What Language is This? Ask Your Tokenizer
 - **ID**: arxiv_2602.17655v3
 - **Source**: ArXiv
@@ -4335,6 +4340,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26860v1](http://arxiv.org/abs/2610.26860v1)
 
+## Sharp Degree Bounds for Putinar Certificates in Terms of the Positivity Margin via Analytic Sums of Squares
+- **ID**: arxiv_2610.26976v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26976v2](http://arxiv.org/abs/2610.26976v2)
+
 ## UvA-MT's Participation in the WMT26 General Translation Shared Task
 - **ID**: arxiv_2610.27852v1
 - **Source**: ArXiv
@@ -4459,4 +4469,34 @@
 - **ID**: arxiv_2610.30132v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30132v1](http://arxiv.org/abs/2610.30132v1)
+
+## An Empirical Study of Recent Large Language Models for Knowledge Graph to Text Generation on Standard Benchmarks
+- **ID**: arxiv_2610.31529v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31529v1](http://arxiv.org/abs/2610.31529v1)
+
+## Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination
+- **ID**: arxiv_2610.31586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31586v1](http://arxiv.org/abs/2610.31586v1)
+
+## How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions
+- **ID**: arxiv_2610.31606v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31606v1](http://arxiv.org/abs/2610.31606v1)
+
+## Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading
+- **ID**: arxiv_2610.31620v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31620v1](http://arxiv.org/abs/2610.31620v1)
+
+## Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2
+- **ID**: arxiv_2610.31636v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31636v1](http://arxiv.org/abs/2610.31636v1)
+
+## Low-Bit N-Gram Embeddings for Language Models
+- **ID**: arxiv_2610.31646v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31646v1](http://arxiv.org/abs/2610.31646v1)
 
