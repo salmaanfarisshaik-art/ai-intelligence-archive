@@ -5736,6 +5736,11 @@
 - **URL**: [https://openai.com/index/searchgpt-prototype](https://openai.com/index/searchgpt-prototype)
 
 ## 
+- **ID**: rss_https://openai.com/index/securing-our-frontier-model-training-environment
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/securing-our-frontier-model-training-environment](https://openai.com/index/securing-our-frontier-model-training-environment)
+
+## 
 - **ID**: rss_https://openai.com/index/security-on-the-path-to-agi
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/security-on-the-path-to-agi](https://openai.com/index/security-on-the-path-to-agi)
