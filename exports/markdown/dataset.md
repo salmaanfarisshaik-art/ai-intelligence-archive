@@ -304,6 +304,12 @@
 - **URL**: [https://huggingface.co/datasets/HuggingFaceM4/the_cauldron](https://huggingface.co/datasets/HuggingFaceM4/the_cauldron)
 - **Tags**: arxiv:1603.07396, arxiv:1612.00837, arxiv:1612.06890, arxiv:1709.00103, arxiv:1710.07300, arxiv:1912.03098, arxiv:2003.12462, arxiv:2205.00363, arxiv:2206.01718, arxiv:2208.05358, arxiv:2211.08545, arxiv:2306.05425, arxiv:2310.00367, arxiv:2312.12241, arxiv:2403.09029, arxiv:2405.02246, format:parquet, library:dask, library:datasets, library:mlcroissant, library:polars, modality:image, modality:text, region:us, size_categories:1M<n<10M
 
+## nicoboou/IDRCell100k
+- **ID**: hf_ds_661fd64b78f1a52516055d33
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nicoboou/IDRCell100k](https://huggingface.co/datasets/nicoboou/IDRCell100k)
+- **Tags**: biology, medical, modality:image, region:us, size_categories:100K<n<1M, task_categories:feature-extraction
+
 ## HuggingFaceFW/fineweb
 - **ID**: hf_ds_66212f29fb07c3e05ad0432e
 - **Source**: HuggingFace Datasets
@@ -429,6 +435,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/orionweller/generic_data_v2](https://huggingface.co/datasets/orionweller/generic_data_v2)
 - **Tags**: region:us
+
+## omegalabsinc/omega-voice
+- **ID**: hf_ds_6737f910e6b1d15ff563149e
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/omegalabsinc/omega-voice](https://huggingface.co/datasets/omegalabsinc/omega-voice)
+- **Tags**: license:mit, region:us
 
 ## m-a-p/FineFineWeb
 - **ID**: hf_ds_675d7e29e24babdf1842d270
@@ -836,7 +848,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21

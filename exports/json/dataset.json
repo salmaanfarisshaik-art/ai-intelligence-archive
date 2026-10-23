@@ -2040,6 +2040,30 @@
     "local_path": "datasets/huggingfacem4/hf_ds_661823b590a8b6724f1c6534.json"
   },
   {
+    "id": "hf_ds_661fd64b78f1a52516055d33",
+    "title": "nicoboou/IDRCell100k",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "biology",
+      "medical",
+      "modality:image",
+      "region:us",
+      "size_categories:100K<n<1M",
+      "task_categories:feature-extraction"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/nicoboou"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nicoboou/IDRCell100k",
+    "local_path": "datasets/nicoboou/hf_ds_661fd64b78f1a52516055d33.json"
+  },
+  {
     "id": "hf_ds_66212f29fb07c3e05ad0432e",
     "title": "HuggingFaceFW/fineweb",
     "category": "dataset",
@@ -2619,6 +2643,24 @@
     },
     "source_url": "https://huggingface.co/datasets/orionweller/generic_data_v2",
     "local_path": "datasets/orionweller/hf_ds_673751cfb7d352f8c1f5564b.json"
+  },
+  {
+    "id": "hf_ds_6737f910e6b1d15ff563149e",
+    "title": "omegalabsinc/omega-voice",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "license:mit",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/omegalabsinc/omega-voice",
+    "local_path": "datasets/omegalabsinc/hf_ds_6737f910e6b1d15ff563149e.json"
   },
   {
     "id": "hf_ds_675d7e29e24babdf1842d270",
@@ -4515,10 +4557,11 @@
       "leaderboards",
       "license:mit",
       "meta-evaluation",
+      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
       "source_datasets:original",
       "task_categories:other"
     ],

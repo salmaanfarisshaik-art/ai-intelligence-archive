@@ -521,6 +521,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm2_5_24b_a2b_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm2_5_24b_a2b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -6814,6 +6819,13 @@
       "score": 1.0
     }
   ],
+  "jiying": [
+    {
+      "entity_id": "dataset_szbl_idea_md",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "jk": [
     {
       "entity_id": "alpaca_833257666111297414",
@@ -11963,6 +11975,11 @@
       "entity_id": "alpaca_-8294375771465463949",
       "match_type": "exact",
       "score": 6.0
+    },
+    {
+      "entity_id": "dataset_lerobot_abc_130k_v3_train",
+      "match_type": "exact",
+      "score": 5.0
     },
     {
       "entity_id": "arxiv_2609.36952v1",
@@ -17461,6 +17478,11 @@
     },
     {
       "entity_id": "dataset_kcimc_nuforc",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_lerobot_abc_130k_v3_train",
       "match_type": "exact",
       "score": 1.0
     },

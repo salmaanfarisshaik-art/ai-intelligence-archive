@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7628202a2180972f291ba1bc6723834921e72c19",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v2.0\",\n    \"robot_type\": \"unknown\",\n    \"total_episodes\": 206,\n    \"total_frames\": 25650,\n    \"total_tasks\": 1,\n    \"total_videos\": 206,\n    \"total_chunks\": 1,\n    \"chunks_size\": 1000,\n    \"fps\": 10,\n    \"splits\": {\n        \"train\": \"0:206\"\n    },\n    \"data_path\": \"data/chunk-{episode_chunk:03d}/episode_{episode_index:06d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/lerobot/pusht.",
-  "downloads": 29694,
+  "downloads": 29655,
   "tags": [
     "task_categories:robotics",
     "license:mit",

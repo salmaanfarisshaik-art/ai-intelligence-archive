@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-23T06:58:56.161647+00:00
-**Warnings:** 4699
+**Generated:** 2026-10-23T12:31:26.431884+00:00
+**Warnings:** 4700
 **Errors:** 300
 
 ## Issues
@@ -4856,6 +4856,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nasa-impact
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/uwipl
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceM4
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/nicoboou
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/HuggingFaceFW
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/TIGER-Lab
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2406.17557

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:00:00Z",
+  "generated_at": "2026-10-23T12:32:20Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -359,6 +359,7 @@
       "model_dcostenco_smollm2_360m_aac_watch"
     ],
     "hf_HuggingFaceTB_SmolLM3-3B": [
+      "model_bartowski_huggingfacetb_smollm3_3b_gguf",
       "model_webai_official_twil_lm3"
     ],
     "hf_HuggingFaceTB_SmolLM3-3B-Base": [
@@ -547,6 +548,7 @@
     ],
     "hf_LiquidAI_LFM2.5-24B-A2B": [
       "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
+      "model_liquidai_lfm2_5_24b_a2b_fp8",
       "model_liquidai_lfm2_5_24b_a2b_gguf",
       "model_unsloth_lfm2_5_24b_a2b_gguf"
     ],
@@ -1328,6 +1330,7 @@
       "model_z_lab_qwen3_8_27b_dflash2_gguf"
     ],
     "hf_Qwen_Qwen3.8-Flash-Next": [
+      "model_agentionai_qwen3_8_flash_next_ap_gguf",
       "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf",
       "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "model_antirez_qwen3_8_flash_next_gguf",
@@ -2002,6 +2005,9 @@
     "hf_deepseek-ai_DeepSeek-V4.1-Flash": [
       "model_dealignai_deepseek_v4_1_flash_uncensored_fp8",
       "model_vcruz305_deepseek_v4_1_flash_gguf"
+    ],
+    "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017": [
+      "model_peasantsmith_deepseek_v4_1_flash_1017_maya_gguf"
     ],
     "hf_deepseek-ai_deepseek-coder-6.7b-base": [
       "model_thebloke_deepseek_coder_6_7b_base_awq"
@@ -3418,7 +3424,8 @@
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_ptq1_0_gguf",
       "model_boldingbuilds_ternary_bonsai_2_27b_abliterated_v2_pq2_0_mtp_gguf",
       "model_hikari07jp_ternary_bonsai_2_27b_abliterated_gguf",
-      "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf"
+      "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf",
+      "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_v2_gguf"
     ],
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit": [
       "hf_Qwen_Qwen3.6-27B"
@@ -3854,6 +3861,9 @@
     "model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4": [
       "hf_AEON-7_Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16"
     ],
+    "model_agentionai_qwen3_8_flash_next_ap_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
     "model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf": [
       "hf_Qwen_Qwen3.8-Flash-Next"
     ],
@@ -4161,6 +4171,9 @@
     ],
     "model_bartowski_hermes_3_llama_3_1_70b_gguf": [
       "hf_NousResearch_Hermes-3-Llama-3.1-70B"
+    ],
+    "model_bartowski_huggingfacetb_smollm3_3b_gguf": [
+      "hf_HuggingFaceTB_SmolLM3-3B"
     ],
     "model_bartowski_huihui_ai_deepseek_r1_distill_llama_70b_abliterated_gguf": [
       "hf_huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated"
@@ -5384,6 +5397,9 @@
     ],
     "model_liquidai_lfm2_5_230m_gguf": [
       "hf_LiquidAI_LFM2.5-230M"
+    ],
+    "model_liquidai_lfm2_5_24b_a2b_fp8": [
+      "hf_LiquidAI_LFM2.5-24B-A2B"
     ],
     "model_liquidai_lfm2_5_24b_a2b_gguf": [
       "hf_LiquidAI_LFM2.5-24B-A2B"
@@ -6610,6 +6626,9 @@
     "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf": [
       "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
     ],
+    "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_v2_gguf": [
+      "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
+    ],
     "model_osllmai_community_llama_3_2_1b": [
       "hf_meta-llama_Llama-3.2-1B"
     ],
@@ -6637,6 +6656,9 @@
     ],
     "model_pearl_ai_llama_3_1_8b_instruct_pearl": [
       "hf_meta-llama_Llama-3.1-8B-Instruct"
+    ],
+    "model_peasantsmith_deepseek_v4_1_flash_1017_maya_gguf": [
+      "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017"
     ],
     "model_peasantsmith_glm_5_3_flash_maya_gguf": [
       "hf_zai-org_GLM-5.3-Flash"

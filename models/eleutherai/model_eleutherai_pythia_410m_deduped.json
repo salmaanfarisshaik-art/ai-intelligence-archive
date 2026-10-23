@@ -3,7 +3,7 @@
   "id": "EleutherAI/pythia-410m-deduped",
   "likes": 23,
   "private": false,
-  "downloads": 37168,
+  "downloads": 33786,
   "tags": [
     "transformers",
     "pytorch",
@@ -20,8 +20,8 @@
     "license:apache-2.0",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

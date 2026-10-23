@@ -22742,6 +22742,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_661fd64b78f1a52516055d33",
+      "target": "datasets/nicoboou"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_66212f29fb07c3e05ad0432e",
       "target": "datasets/HuggingFaceFW"
     },
@@ -23496,7 +23501,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-23T06:58:53.974724+00:00",
+  "generated_at": "2026-10-23T12:31:24.415225+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -166572,6 +166577,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_661fd64b78f1a52516055d33",
+      "label": "nicoboou/IDRCell100k"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_66212f29fb07c3e05ad0432e",
       "label": "HuggingFaceFW/fineweb"
     },
@@ -166674,6 +166684,11 @@
       "category": "dataset",
       "id": "hf_ds_673751cfb7d352f8c1f5564b",
       "label": "orionweller/generic_data_v2"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6737f910e6b1d15ff563149e",
+      "label": "omegalabsinc/omega-voice"
     },
     {
       "category": "dataset",
@@ -482237,6 +482252,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4699,
-  "total_nodes": 91747
+  "total_edges": 4700,
+  "total_nodes": 91749
 }

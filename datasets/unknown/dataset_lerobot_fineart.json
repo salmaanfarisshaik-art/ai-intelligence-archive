@@ -1,0 +1,33 @@
+{
+  "_id": "6acca32f6fa844eabec4e77b",
+  "id": "lerobot/FineART",
+  "author": "lerobot",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-21T07:00:38.000Z",
+  "likes": 12,
+  "private": false,
+  "sha": "135d9b0377a629058541c37ad1503fd4c2597848",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tFineART: Fine-Grained Annotated Robotic Trajectory Dataset\n\t\n\nFineART is co-released by Scale AI and Hugging Face LeRobot. The data was collected and annotated by the Physical AI unit at Scale AI.\nFineART is a bimanual manipulation dataset where every episode comes with dense, human-written subtask annotations. It has 40,543 teleoperated episodes (1,718 hours), 533,913 subtask labels, and 151 tasks, all collected on a Trossen Stationary AI (ALOHA-style) bimanual robot.\nMost robot… See the full description on the dataset page: https://huggingface.co/datasets/lerobot/FineART.",
+  "downloads": 47238,
+  "tags": [
+    "task_categories:robotics",
+    "license:cc-by-4.0",
+    "size_categories:100M<n<1B",
+    "modality:tabular",
+    "modality:text",
+    "modality:timeseries",
+    "modality:video",
+    "arxiv:2609.36416",
+    "region:us",
+    "robotics",
+    "bimanual-manipulation",
+    "vision-language-action",
+    "subtask-annotations",
+    "LeRobot"
+  ],
+  "createdAt": "2026-10-12T09:06:55.000Z",
+  "key": "",
+  "unique_id": "dataset_lerobot_fineart",
+  "schema_version": "1.0"
+}
