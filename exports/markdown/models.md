@@ -80,6 +80,10 @@
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
 - **Source**: 
 
+## agentionai/Qwen3.8-Flash-Next-AP-GGUF
+- **ID**: model_agentionai_qwen3_8_flash_next_ap_gguf
+- **Source**: 
+
 ## agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF
 - **ID**: model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf
 - **Source**: 
@@ -530,6 +534,10 @@
 
 ## bartowski/Hermes-3-Llama-3.1-70B-GGUF
 - **ID**: model_bartowski_hermes_3_llama_3_1_70b_gguf
+- **Source**: 
+
+## bartowski/HuggingFaceTB_SmolLM3-3B-GGUF
+- **ID**: model_bartowski_huggingfacetb_smollm3_3b_gguf
 - **Source**: 
 
 ## bartowski/huihui-ai_DeepSeek-R1-Distill-Llama-70B-abliterated-GGUF
@@ -2800,6 +2808,10 @@
 - **ID**: model_liquidai_lfm2_5_230m_gguf
 - **Source**: 
 
+## LiquidAI/LFM2.5-24B-A2B-FP8
+- **ID**: model_liquidai_lfm2_5_24b_a2b_fp8
+- **Source**: 
+
 ## LiquidAI/LFM2.5-24B-A2B-GGUF
 - **ID**: model_liquidai_lfm2_5_24b_a2b_gguf
 - **Source**: 
@@ -4624,6 +4636,10 @@
 - **ID**: model_ornith_ai_ornith_1_0_9b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-122B-GGUF
+- **ID**: model_ornith_ai_ornith_1_5_122b_gguf
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-35B-A3B
 - **ID**: model_ornith_ai_ornith_1_5_35b_a3b
 - **Source**: 
@@ -4704,6 +4720,10 @@
 - **ID**: model_os_software_ternary_bonsai_2_27b_uncensored_heretic_gguf
 - **Source**: 
 
+## OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF
+- **ID**: model_os_software_ternary_bonsai_2_27b_uncensored_heretic_v2_gguf
+- **Source**: 
+
 ## osllmai-community/Llama-3.2-1B
 - **ID**: model_osllmai_community_llama_3_2_1b
 - **Source**: 
@@ -4734,6 +4754,10 @@
 
 ## pearl-ai/Llama-3.1-8B-Instruct-pearl
 - **ID**: model_pearl_ai_llama_3_1_8b_instruct_pearl
+- **Source**: 
+
+## peasantsmith/DeepSeek-V4.1-Flash-1017-Maya-GGUF
+- **ID**: model_peasantsmith_deepseek_v4_1_flash_1017_maya_gguf
 - **Source**: 
 
 ## peasantsmith/GLM-5.3-Flash-Maya-GGUF
@@ -7386,6 +7410,10 @@
 
 ## YuYu1015/Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated-NVFP4
 - **ID**: model_yuyu1015_huihui_qwen3_30b_a3b_instruct_2507_abliterated_nvfp4
+- **Source**: 
+
+## z-lab/gpt-oss-120b-DFlash
+- **ID**: model_z_lab_gpt_oss_120b_dflash
 - **Source**: 
 
 ## z-lab/LLaMA3.1-8B-Instruct-DFlash-UltraChat

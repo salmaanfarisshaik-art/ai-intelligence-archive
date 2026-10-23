@@ -477,6 +477,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_andrzejnovak_higgs_4l_measurement_data
+- **Source**: 
+
+## 
 - **ID**: dataset_anduong8614_anduong8614
 - **Source**: 
 
@@ -1650,6 +1654,10 @@
 
 ## 
 - **ID**: dataset_datasets_maintainers_dataset_with_standalone_yaml
+- **Source**: 
+
+## 
+- **ID**: dataset_datasocial_tiktok_5_6b_videos
 - **Source**: 
 
 ## 
@@ -3049,6 +3057,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_huahua123313_lipfd
+- **Source**: 
+
+## 
 - **ID**: dataset_huggingchat_models_logo
 - **Source**: 
 
@@ -4257,6 +4269,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_icdn15_content_202606165675
+- **Source**: 
+
+## 
 - **ID**: dataset_icdn15_content_20260620705f
 - **Source**: 
 
@@ -5405,6 +5421,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lerobot_abc_130k_v3_train
+- **Source**: 
+
+## 
 - **ID**: dataset_lerobot_aloha_sim_insertion_human
 - **Source**: 
 
@@ -5426,6 +5446,10 @@
 
 ## 
 - **ID**: dataset_lerobot_droid_1_0_1
+- **Source**: 
+
+## 
+- **ID**: dataset_lerobot_fineart
 - **Source**: 
 
 ## 
@@ -5554,6 +5578,10 @@
 
 ## 
 - **ID**: dataset_liuhuanjim013_kinetics400
+- **Source**: 
+
+## 
+- **ID**: dataset_liurulong_bacterial_promoter_genomes
 - **Source**: 
 
 ## 
@@ -6546,6 +6574,10 @@
 
 ## 
 - **ID**: dataset_nextlab_zju_popular_hook
+- **Source**: 
+
+## 
+- **ID**: dataset_ngando49081_telematics
 - **Source**: 
 
 ## 
@@ -7829,6 +7861,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_revolutioncrossroads_nara_revolutionary_war_pension_files_pdfs
+- **Source**: 
+
+## 
 - **ID**: dataset_rexx_new_computer_use_large
 - **Source**: 
 
@@ -8449,6 +8485,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_spreadsheet_rl_spreadsheet_rl
+- **Source**: 
+
+## 
 - **ID**: dataset_sraimund_mappool
 - **Source**: 
 
@@ -8510,6 +8550,10 @@
 
 ## 
 - **ID**: dataset_stev929_landdiscover50k
+- **Source**: 
+
+## 
+- **ID**: dataset_stillbull1sh_solana
 - **Source**: 
 
 ## 
@@ -8670,6 +8714,10 @@
 
 ## 
 - **ID**: dataset_sysuyy_imgedit
+- **Source**: 
+
+## 
+- **ID**: dataset_szbl_idea_md
 - **Source**: 
 
 ## 

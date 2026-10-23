@@ -5696,6 +5696,11 @@
 - **URL**: [https://openai.com/index/scaling-storage-one-billion-users-part-one](https://openai.com/index/scaling-storage-one-billion-users-part-one)
 
 ## 
+- **ID**: rss_https://openai.com/index/scaling-storage-one-billion-users-part-two
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/scaling-storage-one-billion-users-part-two](https://openai.com/index/scaling-storage-one-billion-users-part-two)
+
+## 
 - **ID**: rss_https://openai.com/index/scaling-trusted-access-for-cyber-defense
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/scaling-trusted-access-for-cyber-defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense)
