@@ -496,6 +496,10 @@
 - **ID**: model_bartowski_deepseek_r1_distill_qwen_14b_gguf
 - **Source**: 
 
+## bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF
+- **ID**: model_bartowski_deepseek_r1_distill_qwen_1_5b_gguf
+- **Source**: 
+
 ## bartowski/DeepSeek-R1-Distill-Qwen-32B-abliterated-GGUF
 - **ID**: model_bartowski_deepseek_r1_distill_qwen_32b_abliterated_gguf
 - **Source**: 
@@ -4648,8 +4652,16 @@
 - **ID**: model_ornith_ai_ornith_1_0_9b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-122B-FP8
+- **ID**: model_ornith_ai_ornith_1_5_122b_fp8
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-122B-GGUF
 - **ID**: model_ornith_ai_ornith_1_5_122b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-122B-NVFP4
+- **ID**: model_ornith_ai_ornith_1_5_122b_nvfp4
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-35B-A3B
@@ -5706,6 +5718,10 @@
 
 ## RadixArk/Qwen3.8-27B-DSpark
 - **ID**: model_radixark_qwen3_8_27b_dspark
+- **Source**: 
+
+## rapatsky/Hy-Memory-30B-A3B-GGUF
+- **ID**: model_rapatsky_hy_memory_30b_a3b_gguf
 - **Source**: 
 
 ## rapid-mlx/Ling-3.0-tiny-MLX-4bit
@@ -7438,6 +7454,10 @@
 
 ## z-lab/Qwen3-4B-DFlash-b16
 - **ID**: model_z_lab_qwen3_4b_dflash_b16
+- **Source**: 
+
+## z-lab/Qwen3.5-122B-A10B-DFlash
+- **ID**: model_z_lab_qwen3_5_122b_a10b_dflash
 - **Source**: 
 
 ## z-lab/Qwen3.5-27B-DFlash

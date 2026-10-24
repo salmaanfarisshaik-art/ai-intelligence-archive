@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.31639v1",
+  "schema_version": "1.0",
+  "technique_name": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+  "description": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by d",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.31639v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.31639v1",
+    "updated": "2026-10-22T17:52:56Z",
+    "published": "2026-10-22T17:52:56Z",
+    "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+    "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregressive generation, dense attention allows each reasoning step to attend to the full context, enabling the model to derive answers through direct lookup while generating plausible-sounding but post-hoc justifications. We introduce CausalCoT, an inference framework that enforces causal transparency by decomposing problems into a directed acyclic graph of atomic sub-questions, evaluating each node in an isolated context containing only its direct causal parents. This Markovian structure removes attention pathways to non-parent content, making downstream predictions sensitive to local reasoning rather than global context leakage. Across a diverse suite of reasoning benchmarks, CausalCoT preserves competitive predictive performance while improving explanation faithfulness, increasing causal sensitivity of intermediate reasoning steps by an average of 12 and up to 21 percentage points over the strongest baseline. The structured dependency graph additionally enables test-time interventions in which local corrections propagate predictably through downstream reasoning.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-24T17:14:00Z",
+  "last_updated": "2026-10-22T17:52:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.31639v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

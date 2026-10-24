@@ -4110,6 +4110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24161v3](http://arxiv.org/abs/2610.24161v3)
 
+## 
+- **ID**: arxiv_2610.24161v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24161v3](http://arxiv.org/abs/2610.24161v3)
+
 ## IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text
 - **ID**: arxiv_2610.24789v1
 - **Source**: ArXiv
@@ -4345,12 +4350,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31593v1](http://arxiv.org/abs/2610.31593v1)
 
+## 
+- **ID**: arxiv_2610.31593v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31593v1](http://arxiv.org/abs/2610.31593v1)
+
 ## EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence
 - **ID**: arxiv_2610.31650v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31650v1](http://arxiv.org/abs/2610.31650v1)
 
+## 
+- **ID**: arxiv_2610.31650v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31650v1](http://arxiv.org/abs/2610.31650v1)
+
 ## Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning
+- **ID**: arxiv_2610.31667v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31667v1](http://arxiv.org/abs/2610.31667v1)
+
+## 
 - **ID**: arxiv_2610.31667v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31667v1](http://arxiv.org/abs/2610.31667v1)

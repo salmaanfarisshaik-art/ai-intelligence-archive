@@ -6855,7 +6855,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31592v1](http://arxiv.org/abs/2610.31592v1)
 
+## 
+- **ID**: arxiv_2610.31592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31592v1](http://arxiv.org/abs/2610.31592v1)
+
 ## F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation
+- **ID**: arxiv_2610.31623v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31623v1](http://arxiv.org/abs/2610.31623v1)
+
+## 
 - **ID**: arxiv_2610.31623v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31623v1](http://arxiv.org/abs/2610.31623v1)
@@ -6865,7 +6875,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31635v1](http://arxiv.org/abs/2610.31635v1)
 
+## 
+- **ID**: arxiv_2610.31635v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31635v1](http://arxiv.org/abs/2610.31635v1)
+
 ## WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models
+- **ID**: arxiv_2610.31640v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31640v1](http://arxiv.org/abs/2610.31640v1)
+
+## 
 - **ID**: arxiv_2610.31640v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31640v1](http://arxiv.org/abs/2610.31640v1)
@@ -6875,7 +6895,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31641v1](http://arxiv.org/abs/2610.31641v1)
 
+## 
+- **ID**: arxiv_2610.31641v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31641v1](http://arxiv.org/abs/2610.31641v1)
+
 ## GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution
+- **ID**: arxiv_2610.31644v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31644v1](http://arxiv.org/abs/2610.31644v1)
+
+## 
 - **ID**: arxiv_2610.31644v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31644v1](http://arxiv.org/abs/2610.31644v1)
@@ -6885,7 +6915,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31645v1](http://arxiv.org/abs/2610.31645v1)
 
+## 
+- **ID**: arxiv_2610.31645v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31645v1](http://arxiv.org/abs/2610.31645v1)
+
 ## Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation
+- **ID**: arxiv_2610.31649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31649v1](http://arxiv.org/abs/2610.31649v1)
+
+## 
 - **ID**: arxiv_2610.31649v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31649v1](http://arxiv.org/abs/2610.31649v1)
@@ -6895,7 +6935,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31651v1](http://arxiv.org/abs/2610.31651v1)
 
+## 
+- **ID**: arxiv_2610.31651v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31651v1](http://arxiv.org/abs/2610.31651v1)
+
 ## SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing
+- **ID**: arxiv_2610.31659v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31659v1](http://arxiv.org/abs/2610.31659v1)
+
+## 
 - **ID**: arxiv_2610.31659v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31659v1](http://arxiv.org/abs/2610.31659v1)
@@ -6905,12 +6955,27 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31668v1](http://arxiv.org/abs/2610.31668v1)
 
+## 
+- **ID**: arxiv_2610.31668v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31668v1](http://arxiv.org/abs/2610.31668v1)
+
 ## Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success
 - **ID**: arxiv_2610.31670v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31670v1](http://arxiv.org/abs/2610.31670v1)
 
+## 
+- **ID**: arxiv_2610.31670v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31670v1](http://arxiv.org/abs/2610.31670v1)
+
 ## A Unified Framework for Image-to-3D Part Generation via Variable Granularity
+- **ID**: arxiv_2610.31671v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31671v1](http://arxiv.org/abs/2610.31671v1)
+
+## 
 - **ID**: arxiv_2610.31671v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31671v1](http://arxiv.org/abs/2610.31671v1)

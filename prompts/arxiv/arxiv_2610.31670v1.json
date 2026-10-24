@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.31670v1",
+  "schema_version": "1.0",
+  "technique_name": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+  "description": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the st",
+  "example": "",
+  "source_url": "http://arxiv.org/abs/2610.31670v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.31670v1",
+    "updated": "2026-10-22T17:59:51Z",
+    "published": "2026-10-22T17:59:51Z",
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests that as representations improve, different modalities such as vision and language converge toward a shared statistical model of reality. We ask whether motion trajectories form another such modality: as embodied models become more capable, should their sensory representations converge toward the structure of physical motion? To examine this, we propose Sensorimotor Alignment ($S^2$), a training-free offline metric that measures how well a model's sensory representation aligns with the geometry of physical motion. We find that $S^2$ correlates positively with downstream robot task success across embodied model families, making it a low-cost offline proxy for prioritizing models before closed-loop evaluation. $S^2$ can also identify promising vision-language model (VLM) backbones even before costly fine-tuning into vision-language-action models (VLAs). Beyond this correlation, $S^2$ offers representation-level explanations for phenomena observed in VLAs and world action models (WAMs). With $S^2$, we extend PRH to embodied models and make sensorimotor alignment empirically measurable, offering insight into why an embodied model succeeds beyond its closed-loop success rate.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-24T17:14:00Z",
+  "last_updated": "2026-10-22T17:59:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.31670v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

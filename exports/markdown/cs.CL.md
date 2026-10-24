@@ -465,6 +465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.16429v3](http://arxiv.org/abs/2602.16429v3)
 
+## 
+- **ID**: arxiv_2602.16429v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16429v3](http://arxiv.org/abs/2602.16429v3)
+
 ## What Language is This? Ask Your Tokenizer
 - **ID**: arxiv_2602.17655v3
 - **Source**: ArXiv
@@ -4345,6 +4350,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26976v2](http://arxiv.org/abs/2610.26976v2)
 
+## 
+- **ID**: arxiv_2610.26976v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.26976v2](http://arxiv.org/abs/2610.26976v2)
+
 ## UvA-MT's Participation in the WMT26 General Translation Shared Task
 - **ID**: arxiv_2610.27852v1
 - **Source**: ArXiv
@@ -4485,7 +4495,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31606v1](http://arxiv.org/abs/2610.31606v1)
 
+## 
+- **ID**: arxiv_2610.31606v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31606v1](http://arxiv.org/abs/2610.31606v1)
+
 ## Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading
+- **ID**: arxiv_2610.31620v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31620v1](http://arxiv.org/abs/2610.31620v1)
+
+## 
 - **ID**: arxiv_2610.31620v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31620v1](http://arxiv.org/abs/2610.31620v1)
@@ -4495,7 +4515,17 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31636v1](http://arxiv.org/abs/2610.31636v1)
 
+## 
+- **ID**: arxiv_2610.31636v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31636v1](http://arxiv.org/abs/2610.31636v1)
+
 ## Low-Bit N-Gram Embeddings for Language Models
+- **ID**: arxiv_2610.31646v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31646v1](http://arxiv.org/abs/2610.31646v1)
+
+## 
 - **ID**: arxiv_2610.31646v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31646v1](http://arxiv.org/abs/2610.31646v1)
