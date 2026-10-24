@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:22:42Z",
+  "generated_at": "2026-10-24T08:41:07Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1110,6 +1110,76 @@
       "source_id": "model_bartowski_deepseek_v4_flash_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_AI-MO_NuminaMath-CoT",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_AI-MO_NuminaMath-TIR",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_HuggingFaceTB_smoltalk",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_NousResearch_hermes-function-calling-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_OpenCoder-LLM_opc-sft-stage1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_OpenCoder-LLM_opc-sft-stage2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_allenai_tulu-3-sft-mixture",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_cognitivecomputations_dolphin-coder",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_cognitivecomputations_samantha-data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_dphn_Dolphin3.0-Llama3.1-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_m-a-p_Code-Feedback",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_m-a-p_CodeFeedback-Filtered-Instruction",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_microsoft_orca-agentinstruct-1M-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "target_id": "hf_microsoft_orca-math-word-problems-200k",
+      "type": "trained_on"
     },
     {
       "source_id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
@@ -6717,6 +6787,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_openvino_qwen2_5_coder_7b_instruct_int8_ov",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_optimizellm_qwen3_5_122b_a10b_heretic_mtp_nvfp4",
       "target_id": "hf_Qwen_Qwen3.5-122B-A10B",
       "type": "derived_from"
@@ -8834,6 +8909,11 @@
     {
       "source_id": "model_unsloth_deepseek_v4_flash",
       "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_flint_gguf",
+      "target_id": "hf_RecursiveSI_flint",
       "type": "derived_from"
     },
     {

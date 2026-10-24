@@ -151130,6 +151130,11 @@
   ],
   "opc": [
     {
+      "entity_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_imageomics_mmla_opc",
       "match_type": "exact",
       "score": 2.0
@@ -158456,6 +158461,11 @@
   ],
   "opencoder": [
     {
+      "entity_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_asilarkness_diffurefill_1b",
       "match_type": "exact",
       "score": 1.5
@@ -160073,6 +160083,11 @@
     }
   ],
   "openvino": [
+    {
+      "entity_id": "model_openvino_qwen2_5_coder_7b_instruct_int8_ov",
+      "match_type": "exact",
+      "score": 3.5
+    },
     {
       "entity_id": "model_echarlaix_tiny_random_phiforcausallm",
       "match_type": "exact",
@@ -189298,6 +189313,11 @@
       "entity_id": "dataset_microsoft_orca_math_word_problems_200k",
       "match_type": "exact",
       "score": 4.0
+    },
+    {
+      "entity_id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "match_type": "exact",
+      "score": 3.0
     },
     {
       "entity_id": "model_upstage_solar_10_7b_instruct_v1_0",
@@ -231919,6 +231939,11 @@
     },
     {
       "entity_id": "model_lmms_lab_llava_onevision_qwen2_7b_ov",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_openvino_qwen2_5_coder_7b_instruct_int8_ov",
       "match_type": "exact",
       "score": 2.0
     },
