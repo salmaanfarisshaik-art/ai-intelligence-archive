@@ -9,7 +9,7 @@
   "private": false,
   "sha": "3631b9bdbf8709d1ec3292625cc839e5b5448018",
   "description": "MMLU (hendrycks_test on huggingface) without auxiliary train. It is much lighter (7MB vs 162MB) and faster than the original implementation, in which auxiliary train is loaded (+ duplicated!) by default for all the configs in the original version, making it quite heavy.\nWe use this version in tasksource. \nReference to original dataset:\nMeasuring Massive Multitask Language Understanding - https://github.com/hendrycks/test\n@article{hendryckstest2021,\n  title={Measuring Massive Multitask Language… See the full description on the dataset page: https://huggingface.co/datasets/tasksource/mmlu.",
-  "downloads": 51217,
+  "downloads": 52897,
   "tags": [
     "task_categories:text-classification",
     "task_categories:multiple-choice",

@@ -23501,7 +23501,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-24T08:40:02.486955+00:00",
+  "generated_at": "2026-10-24T13:07:23.959498+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -175712,6 +175712,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_dolphin3_0_llama3_1_8b_gguf",
+      "label": "bartowski/Dolphin3.0-Llama3.1-8B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_eva_qwen2_5_14b_v0_2_gguf",
       "label": "bartowski/EVA-Qwen2.5-14B-v0.2-GGUF"
     },
@@ -179727,6 +179732,11 @@
     },
     {
       "category": "models",
+      "id": "model_ministral_ministral_3b_instruct",
+      "label": "ministral/Ministral-3b-instruct"
+    },
+    {
+      "category": "models",
       "id": "model_mistralai_mistral_7b_instruct_v0_1",
       "label": "mistralai/Mistral-7B-Instruct-v0.1"
     },
@@ -180764,6 +180774,11 @@
       "category": "models",
       "id": "model_openthaigpt_openthaigpt1_5_7b_instruct",
       "label": "openthaigpt/openthaigpt1.5-7b-instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_openvino_qwen2_5_coder_7b_instruct_int8_ov",
+      "label": "OpenVINO/Qwen2.5-Coder-7B-Instruct-int8-ov"
     },
     {
       "category": "models",
@@ -183429,6 +183444,11 @@
       "category": "models",
       "id": "model_unsloth_deepseek_v4_flash",
       "label": "unsloth/DeepSeek-V4-Flash"
+    },
+    {
+      "category": "models",
+      "id": "model_unsloth_flint_gguf",
+      "label": "unsloth/flint-GGUF"
     },
     {
       "category": "models",
@@ -482358,5 +482378,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 4700,
-  "total_nodes": 91770
+  "total_nodes": 91774
 }

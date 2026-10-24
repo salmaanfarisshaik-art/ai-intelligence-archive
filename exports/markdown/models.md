@@ -516,6 +516,10 @@
 - **ID**: model_bartowski_deepseek_v4_flash_gguf
 - **Source**: 
 
+## bartowski/Dolphin3.0-Llama3.1-8B-GGUF
+- **ID**: model_bartowski_dolphin3_0_llama3_1_8b_gguf
+- **Source**: 
+
 ## bartowski/EVA-Qwen2.5-14B-v0.2-GGUF
 - **ID**: model_bartowski_eva_qwen2_5_14b_v0_2_gguf
 - **Source**: 
@@ -3728,6 +3732,10 @@
 - **ID**: model_minimaxai_minimax_text_01_hf
 - **Source**: 
 
+## ministral/Ministral-3b-instruct
+- **ID**: model_ministral_ministral_3b_instruct
+- **Source**: 
+
 ## mistralai/Mistral-7B-Instruct-v0.1
 - **ID**: model_mistralai_mistral_7b_instruct_v0_1
 - **Source**: 
@@ -4558,6 +4566,10 @@
 
 ## openthaigpt/openthaigpt1.5-7b-instruct
 - **ID**: model_openthaigpt_openthaigpt1_5_7b_instruct
+- **Source**: 
+
+## OpenVINO/Qwen2.5-Coder-7B-Instruct-int8-ov
+- **ID**: model_openvino_qwen2_5_coder_7b_instruct_int8_ov
 - **Source**: 
 
 ## OptimizeLLM/Qwen3.5-122B-A10B-heretic-MTP-NVFP4
@@ -6690,6 +6702,10 @@
 
 ## unsloth/DeepSeek-V4-Flash
 - **ID**: model_unsloth_deepseek_v4_flash
+- **Source**: 
+
+## unsloth/flint-GGUF
+- **ID**: model_unsloth_flint_gguf
 - **Source**: 
 
 ## unsloth/gemma-2-27b

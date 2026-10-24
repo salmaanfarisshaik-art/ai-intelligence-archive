@@ -9,7 +9,7 @@
   "private": false,
   "sha": "f845146811ecaa72b2ca3955e0a1929cf6fc06b5",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tLLM-Network-Study-Data\n\t\n\nPer-request network captures (.pcapng) collected by the\nLLM-Network-Study benchmark harness (benchmark.py and the\nper-workload test scripts). Each directory holds one capture file per request,\nnamed request_<id>_run<n>_<timestamp>.pcapng.\nA directory name encodes four dimensions:\n<capture-env>_<provider/model>_<workload>[_<dataset/variant>]_results\n\n\n\t\n\t\t\n\t\n\t\n\t\tDimension legend\n\t\n\n\n\t\n\t\t\nDimension\nValues\nMeaning\n\n\n\t\t\nCapture env\nethernet\nWired connection to… See the full description on the dataset page: https://huggingface.co/datasets/wayslab/llm-network-study-data.",
-  "downloads": 31027,
+  "downloads": 31678,
   "tags": [
     "license:cc-by-4.0",
     "size_categories:n<1K",

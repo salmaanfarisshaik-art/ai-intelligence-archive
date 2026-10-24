@@ -4,11 +4,12 @@
   "author": "TabQueryBench2026",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-08-26T08:48:47.000Z",
+  "lastModified": "2026-10-24T05:58:08.000Z",
   "likes": 0,
   "private": false,
-  "sha": "7e3527ba3a28216af514e2f0168ecb8dae9980b1",
-  "downloads": 33212,
+  "sha": "ab48ad8d95401cdbb84d63b1fd7afb42f745f4b9",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tTabQueryBench\n\t\n\nTabQueryBench evaluates tabular synthetic data by running workload-grounded SQL\nqueries against real and synthetic tables and scoring how well the synthetic\nanswers match the real ones. The repository is organized into three parts:\nsynthetic data generation, query templates, and scoring — each part\nkeeps its own code and data inside its folder.\n\n\t\n\t\t\n\t\n\t\n\t\tDocker images\n\t\n\nPrebuilt Docker environments for the synthetic-data generators are hosted in\nthe gated… See the full description on the dataset page: https://huggingface.co/datasets/TabQueryBench2026/TabQueryBench.",
+  "downloads": 30052,
   "tags": [
     "region:us"
   ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:41:07Z",
+  "generated_at": "2026-10-24T13:08:29Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1084,6 +1084,11 @@
     {
       "source_id": "model_bartowski_deepseek_r1_distill_qwen_14b_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-14B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_deepseek_r1_distill_qwen_1_5b_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-R1-Distill-Qwen-1.5B",
       "type": "derived_from"
     },
     {
@@ -7762,6 +7767,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_rapatsky_hy_memory_30b_a3b_gguf",
+      "target_id": "hf_tencent_Hy-Memory-30B-A3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_rapid_mlx_ling_3_0_tiny_mlx_4bit",
       "target_id": "hf_inclusionAI_Ling-3.0-tiny",
       "type": "derived_from"
@@ -9929,6 +9939,11 @@
     {
       "source_id": "model_yuyu1015_huihui_qwen3_30b_a3b_instruct_2507_abliterated_nvfp4",
       "target_id": "hf_huihui-ai_Huihui-Qwen3-30B-A3B-Instruct-2507-abliterated",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_z_lab_qwen3_5_122b_a10b_dflash",
+      "target_id": "hf_Qwen_Qwen3.5-122B-A10B",
       "type": "derived_from"
     },
     {

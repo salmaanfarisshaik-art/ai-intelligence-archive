@@ -1,0 +1,33 @@
+{
+  "_id": "670f9e9fe97bd0eec84c3118",
+  "id": "Forceless/Zenodo10K",
+  "author": "Forceless",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-10-31T10:40:02.000Z",
+  "likes": 28,
+  "private": false,
+  "sha": "e59bf3ec11f7518a6c84dc145d83c0675d412522",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tPPTAgent/Zenodo10K\n\t\n\nThis is the dataset used in PPTAgent, crawled from zenodo.\nTo the best of our knowledge, it is the largest presentation dataset currently available, comprising over 10,000 PowerPoint (.pptx) files, all distributed under a clear and compliant license.\nFor more information, please visit our github repo.\ndirname = f\"zenodo-pptx/pptx/{task['license']}/{task['created'][:4]}/\"\nbasename = f\"{task['checksum'][4:]}-{task['filename']}\"\nfilepath = dirname + basename\ntry:… See the full description on the dataset page: https://huggingface.co/datasets/Forceless/Zenodo10K.",
+  "downloads": 150799,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "modality:document",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "arxiv:2501.03936",
+    "region:us",
+    "ppt",
+    "powerpoint",
+    "document",
+    "pdf"
+  ],
+  "createdAt": "2024-10-16T11:08:15.000Z",
+  "key": "",
+  "unique_id": "dataset_forceless_zenodo10k",
+  "schema_version": "1.0"
+}

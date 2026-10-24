@@ -943,6 +943,11 @@
       "entity_id": "dataset_uild42_qb_audio",
       "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "dataset_singletongue_wikipedia_paragraphs",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "qihoo360": [
@@ -4364,6 +4369,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_zaibihassan_quranic_recitation_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_625552d2b339bb03abe3432d",
       "match_type": "exact",
       "score": 1.0
@@ -6545,6 +6555,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bartowski_deepseek_r1_distill_qwen_1_5b_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bartowski_deepseek_r1_distill_qwen_32b_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -8601,6 +8616,11 @@
     },
     {
       "entity_id": "model_qwen_qwq_32b_awq",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_rapatsky_hy_memory_30b_a3b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -10789,6 +10809,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_tabquerybench2026_tabquerybench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_tevatron_browsecomp_plus",
       "match_type": "exact",
       "score": 1.0
@@ -11769,6 +11794,11 @@
     },
     {
       "entity_id": "dataset_sophia1ch_zendo_synthetic_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_tabquerybench2026_tabquerybench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -14524,6 +14554,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_livebench_data_analysis",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_lmms_lab_chartqa",
       "match_type": "exact",
       "score": 1.0
@@ -14846,6 +14881,11 @@
     },
     {
       "entity_id": "dataset_google_svq",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "dataset_livebench_data_analysis",
       "match_type": "exact",
       "score": 3.0
     },
@@ -21043,6 +21083,11 @@
   ],
   "quran": [
     {
+      "entity_id": "dataset_zaibihassan_quranic_recitation_data",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
       "entity_id": "dataset_authenticilm_shamela4_full_db",
       "match_type": "exact",
       "score": 1.5
@@ -21071,6 +21116,11 @@
     },
     {
       "entity_id": "arxiv_2609.22038v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_zaibihassan_quranic_recitation_data",
       "match_type": "exact",
       "score": 2.0
     }
@@ -21630,6 +21680,11 @@
     },
     {
       "entity_id": "model_bartowski_deepseek_r1_distill_qwen_14b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_bartowski_deepseek_r1_distill_qwen_1_5b_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -22410,6 +22465,11 @@
     },
     {
       "entity_id": "model_w_ahmad_qwopus3_5_9b_coder_mtp_gguf_moq",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
+      "entity_id": "model_z_lab_qwen3_5_122b_a10b_dflash",
       "match_type": "exact",
       "score": 4.5
     },
@@ -26947,6 +27007,11 @@
       "score": 8.0
     },
     {
+      "entity_id": "model_z_lab_qwen3_5_122b_a10b_dflash",
+      "match_type": "exact",
+      "score": 8.0
+    },
+    {
       "entity_id": "model_z_lab_qwen3_5_27b_dflash",
       "match_type": "exact",
       "score": 8.0
@@ -29702,6 +29767,16 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_ornith_ai_ornith_1_5_122b_fp8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_ornith_ai_ornith_1_5_122b_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_ornith_ai_ornith_1_5_35b_a3b",
       "match_type": "exact",
       "score": 1.5
@@ -29875,6 +29950,11 @@
       "entity_id": "model_z_lab_llama3_1_8b_instruct_dflash_ultrachat",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_docling_project_deskforge_1m",
+      "match_type": "exact",
+      "score": 1.0
     },
     {
       "entity_id": "dataset_jaewooshin_qwen3_14b_mmlupro_lcb_bbh",

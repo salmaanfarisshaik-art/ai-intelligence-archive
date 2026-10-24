@@ -9,7 +9,7 @@
   "private": false,
   "sha": "75299740cff05894ef42d7ad990666691efdd2da",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tIntroduction\n\t\n\nAnki Revlogs 10K is a dataset of 10k collections from Anki for FSRS project. It is a random sample of collections with 5000+ revlog entries, so it should contain a mix of older (still active) users, and newer users.\nThe dataset contains three parts: revlogs, cards, and decks.\n\n\t\n\t\t\n\t\n\t\n\t\tRevlogs\n\t\n\nThis dataset contains flashcard review records with the following fields:\n\ncard_id: Unique identifier for each flashcard\nday_offset: Number of days since the start of… See the full description on the dataset page: https://huggingface.co/datasets/open-spaced-repetition/anki-revlogs-10k.",
-  "downloads": 28893,
+  "downloads": 29283,
   "tags": [
     "license:other",
     "size_categories:100M<n<1B",
