@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8fecd2fc56694469f758f0afbbb6335ad3043740",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tsemianalysisai/cc-traces-weka-062126-256k\n\t\n\nWekaTrace corpus derived from SemiAnalysis Claude Code proxy traces. Built 2026-06-21 17:49:45 UTC via utils/agentic/build_weka_hf_dataset.py.\nDerived from semianalysisai/cc-traces-weka-062126 by applying the 256k per-request cap and preserving the surviving requests' relative timestamps.\n\n\t\n\t\t\n\t\n\t\n\t\tFilters\n\t\n\n\nTrace version: exactly v7\nmin Anthropic requests per session: 20\nClaude Code CLI ≥ 2.1.139 (every row)\npeak concurrent… See the full description on the dataset page: https://huggingface.co/datasets/semianalysisai/cc-traces-weka-062126-256k.",
-  "downloads": 31379,
+  "downloads": 33459,
   "tags": [
     "task_categories:text-generation",
     "license:apache-2.0",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "7bda6bfe13c6a39fd0a286adced5df1228041720",
   "description": "This dataset is the downloaded variant of Spawning/PD12M. More specifically, this dataset\nis compatible with webdataset. It was made public after obtaining permission\nfrom the  original authors of the dataset.\nYou can use the following to explore the dataset with webdataset:\nimport webdataset as wds\n\ndataset_path = \"pipe:curl -s -f -L https://huggingface.co/datasets/sayakpaul/pd12m-full/resolve/main/{00155..02480}.tar\"\n\ndataset = (\n    wds.WebDataset(dataset_path… See the full description on the dataset page: https://huggingface.co/datasets/Spawning/pd12m-full.",
-  "downloads": 33568,
+  "downloads": 35096,
   "tags": [
     "language:en",
     "license:cdla-permissive-2.0",

@@ -4647,6 +4647,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/txn545/Qwen3.5-122B-A10B-NVFP4](https://huggingface.co/txn545/Qwen3.5-122B-A10B-NVFP4)
 
+## ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF
+- **ID**: hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF](https://huggingface.co/ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF)
+- **Tags**: arxiv:2604.18556, arxiv:2605.00649, base_model:quantized:ukisai/Swift-1.5-Qwen3.8-27b, base_model:ukisai/Swift-1.5-Qwen3.8-27b, conversational, efficient-thinking, endpoints_compatible, gguf, gsq, imatrix, license:other, llama.cpp, post-training, qwen3_8, rco, reasoning, region:us, text-generation, token-efficient
+
 ## unsloth/DeepSeek-R1-0528-Qwen3-8B-GGUF
 - **ID**: hf_unsloth_DeepSeek-R1-0528-Qwen3-8B-GGUF
 - **Source**: Hugging Face

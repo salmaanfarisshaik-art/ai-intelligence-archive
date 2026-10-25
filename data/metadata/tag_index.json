@@ -740,6 +740,12 @@
     "hf_zai-org_GLM-5.2",
     "hf_zai-org_GLM-5.2-FP8"
   ],
+  "arxiv:2604.18556": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
+  "arxiv:2605.00649": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "arxiv:2605.05207": [
     "hf_ds_6a382f6fa519cd301493b37b"
   ],
@@ -1038,6 +1044,12 @@
   "base_model:quantized:nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16": [
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4"
   ],
+  "base_model:quantized:ukisai/Swift-1.5-Qwen3.8-27b": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
+  "base_model:ukisai/Swift-1.5-Qwen3.8-27b": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "benchmark": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
     "hf_ds_6a4f0a92e633070a2d287ef9"
@@ -1229,6 +1241,7 @@
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_zai-org_GLM-4.7-Flash",
@@ -1623,6 +1636,9 @@
   "efficient": [
     "hf_CMSManhattan_JiRackUltra_1b"
   ],
+  "efficient-thinking": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "ego-centric": [
     "hf_ds_69c3db34480308a6a3cabb37"
   ],
@@ -1745,6 +1761,7 @@
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
@@ -2067,6 +2084,7 @@
     "hf_ornith-ai_Ornith-1.5-9B-GGUF",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -2134,6 +2152,9 @@
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
+  "gsq": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "hacker-news": [
     "hf_ds_69b53151d3cc52f95d53bcbb"
   ],
@@ -2199,6 +2220,7 @@
   "imatrix": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF"
   ],
@@ -4805,6 +4827,7 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
     "hf_nvidia_Qwen2.5-VL-7B-Instruct-NVFP4",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_zai-org_GLM-5.3"
   ],
   "license:unknown": [
@@ -4844,7 +4867,8 @@
   "llama.cpp": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_prism-ml_Bonsai-27B-gguf",
-    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf"
+    "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "long-context": [
     "hf_RadixArk_Kimi-K3-DSpark"
@@ -5400,6 +5424,9 @@
   "post-trained": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
+  "post-training": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "postgres": [
     "optimized-postgresql-schema-optimizer",
     "postgresql-schema-optimizer"
@@ -5557,6 +5584,9 @@
   "qwen3_5_moe": [
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
+  "qwen3_8": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
   "qwen3_moe": [
     "hf_Qwen_Qwen3-30B-A3B"
   ],
@@ -5567,6 +5597,9 @@
   "rag": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
+  ],
+  "rco": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "react": [
     "advanced-react-component-scaffolder",
@@ -5584,7 +5617,8 @@
     "hf_ds_69b0d60653fc22f5d5d3c07f"
   ],
   "reasoning": [
-    "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
+    "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "red-hat": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -5846,6 +5880,7 @@
     "hf_ds_6a615c95fb10b1093e0ea9ed",
     "hf_ds_6a67b67edd8543ddc375d370",
     "hf_ds_6a67d0a568d9afa362507f38",
+    "hf_ds_6a68b4c932acc2b78df25e32",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a7460ebf3031d8573c2fe30",
@@ -5894,6 +5929,7 @@
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
@@ -6773,6 +6809,7 @@
     "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
     "hf_trl-internal-testing_tiny-Qwen2ForCausalLM-2.5",
     "hf_trl-internal-testing_tiny-Qwen3ForCausalLM",
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
     "hf_unsloth_Qwen3-Coder-30B-A3B-Instruct-GGUF",
     "hf_unsloth_Qwen3-Coder-Next-GGUF",
     "hf_vikhyatk_moondream2",
@@ -6847,6 +6884,9 @@
   ],
   "timeseries": [
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
+  ],
+  "token-efficient": [
+    "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "tool-call": [
     "hf_CMSManhattan_JiRackUltra_1b"

@@ -326,6 +326,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nguha_legalbench",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_salt_research_deepdialogue_orpheus",
       "match_type": "exact",
       "score": 1.0
@@ -3171,6 +3176,16 @@
   ],
   "4b": [
     {
+      "entity_id": "model_org2ai_wald_4b",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_org2ai_wald_4b_gguf",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
       "entity_id": "model_abenzerps_spark_x2_5_4b_gguf",
       "match_type": "exact",
       "score": 5.0
@@ -3462,6 +3477,11 @@
     },
     {
       "entity_id": "model_xhtoken_spark_x2_5_4b_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_xhtoken_spark_x2_6_4b_gguf",
       "match_type": "exact",
       "score": 5.0
     },

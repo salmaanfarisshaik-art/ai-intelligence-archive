@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T05:43:03Z",
+  "generated_at": "2026-10-25T10:46:29Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -414,6 +414,11 @@
     {
       "source_id": "hf_prism-ml_Ternary-Bonsai-27B-mlx-2bit",
       "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "target_id": "hf_ukisai_Swift-1.5-Qwen3.8-27b",
       "type": "derived_from"
     },
     {
@@ -3092,6 +3097,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ibm_granite_granite_3_1_3b_a800m_instruct",
+      "target_id": "hf_ibm-granite_granite-3.1-3b-a800m-base",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ibm_granite_granite_3_1_8b_instruct",
       "target_id": "hf_ibm-granite_granite-3.1-8b-base",
       "type": "derived_from"
@@ -3344,6 +3354,11 @@
     {
       "source_id": "model_internscience_agents_a1_q4_k_m_gguf",
       "target_id": "hf_InternScience_Agents-A1",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ista_daslab_deepseek_v4_1_flash_1017_gsq_rco_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
       "type": "derived_from"
     },
     {
@@ -6807,6 +6822,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_org2ai_wald_4b",
+      "target_id": "hf_Qwen_Qwen3.5-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_org2ai_wald_4b_gguf",
+      "target_id": "hf_org2ai_Wald-4B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_orion_zhen_aya_expanse_8b_awq",
       "target_id": "hf_CohereLabs_aya-expanse-8b",
       "type": "derived_from"
@@ -8792,6 +8817,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf",
+      "target_id": "hf_DavidAU_Qwen3.8-27B-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf",
       "target_id": "hf_Glint-Research_Fable-5-traces",
       "type": "trained_on"
@@ -9337,6 +9367,21 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_bolt_e4b_gguf",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-E4B-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_bolt_e4b_gguf",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_unsloth_nvidia_nemotron_3_5_bolt_e4b_gguf",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_unsloth_nvidia_nemotron_3_5_lightning_30b_a3b_gguf",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
@@ -9864,6 +9909,11 @@
     {
       "source_id": "model_xhtoken_spark_x2_5_4b_gguf",
       "target_id": "hf_XHToken_Spark-X2.5-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_xhtoken_spark_x2_6_4b_gguf",
+      "target_id": "hf_XHToken_Spark-X2.6-4B",
       "type": "derived_from"
     },
     {

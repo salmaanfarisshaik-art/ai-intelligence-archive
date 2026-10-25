@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91821
+**Total Entities Tracked**: 91823
 
 ## Category Distribution
 
@@ -11,8 +11,8 @@
 - **models**: 1899
 - **cs.CV**: 1396
 - **news**: 1344
-- **dataset**: 1221
-- **text-generation**: 1014
+- **dataset**: 1222
+- **text-generation**: 1015
 - **cs.CL**: 906
 - **cs.AI**: 875
 - **cs.LG**: 497
@@ -100,9 +100,9 @@
 - **Stanford Alpaca**: 52000
 - ****: 31569
 - **ArXiv**: 4508
-- **Hugging Face**: 2022
+- **Hugging Face**: 2023
 - **OpenAI Blog**: 1330
-- **HuggingFace Datasets**: 221
+- **HuggingFace Datasets**: 222
 - **GitHub Trending**: 57
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -142,17 +142,17 @@
 
 ## Top Tags
 
-- **region:us**: 308
-- **text-generation**: 88
+- **region:us**: 310
+- **text-generation**: 89
 - **library:datasets**: 87
 - **library:mlcroissant**: 87
 - **modality:text**: 83
 - **language:en**: 76
+- **endpoints_compatible**: 75
 - **license:apache-2.0**: 75
-- **endpoints_compatible**: 74
 - **safetensors**: 74
 - **transformers**: 74
-- **conversational**: 69
+- **conversational**: 70
 - **library:polars**: 63
 - **license:mit**: 54
 - **format:parquet**: 49
@@ -164,8 +164,8 @@
 - **library:dask**: 31
 - **modality:image**: 29
 - **eval-results**: 28
+- **license:other**: 28
 - **deploy:sagemaker**: 27
-- **license:other**: 27
 - **enterprise**: 25
 - **size_categories:n<1K**: 25
 - **modality:tabular**: 24
@@ -179,11 +179,11 @@
 - **multilinguality:monolingual**: 14
 - **source_datasets:original**: 14
 - **fp8**: 13
+- **gguf**: 13
 - **license:odc-by**: 13
 - **pytorch**: 13
 - **size_categories:1M<n<10M**: 13
 - **arxiv:2505.09388**: 12
-- **gguf**: 12
 - **size_categories:1K<n<10K**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11

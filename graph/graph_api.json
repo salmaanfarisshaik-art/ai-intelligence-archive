@@ -23651,7 +23651,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-25T05:41:58.784528+00:00",
+  "generated_at": "2026-10-25T10:45:23.527129+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -167782,6 +167782,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_6a68b4c932acc2b78df25e32",
+      "label": "assassinlike/everything132"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_6a68e4ea0c35d2a3ed8c033e",
       "label": "ACERobotics/ACE-Data-0"
     },
@@ -174869,6 +174874,11 @@
       "category": "text-generation",
       "id": "hf_txn545_Qwen3.5-122B-A10B-NVFP4",
       "label": "txn545/Qwen3.5-122B-A10B-NVFP4"
+    },
+    {
+      "category": "text-generation",
+      "id": "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "label": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
     },
     {
       "category": "text-generation",
@@ -482763,5 +482773,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 4730,
-  "total_nodes": 91821
+  "total_nodes": 91823
 }

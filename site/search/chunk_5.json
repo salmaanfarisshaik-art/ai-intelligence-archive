@@ -1850,6 +1850,13 @@
       "score": 1.0
     }
   ],
+  "50x": [
+    {
+      "entity_id": "model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    }
+  ],
   "51": [
     {
       "entity_id": "alpaca_-2219387361150215732",
@@ -3659,6 +3666,11 @@
     },
     {
       "entity_id": "dataset_nuprl_multipl_e",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_open_law_data_thailand_soc_ratchakitcha",
       "match_type": "exact",
       "score": 1.5
     },

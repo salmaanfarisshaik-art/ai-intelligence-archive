@@ -3,7 +3,7 @@
   "id": "gradientai/Llama-3-8B-Instruct-Gradient-1048k",
   "likes": 683,
   "private": false,
-  "downloads": 39956,
+  "downloads": 32375,
   "tags": [
     "transformers",
     "safetensors",
@@ -20,9 +20,9 @@
     "license:llama3",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
     "deploy:sagemaker",
-    "deploy:azure"
+    "deploy:azure",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",
