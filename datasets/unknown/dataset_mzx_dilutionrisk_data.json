@@ -4,10 +4,10 @@
   "author": "mzx",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-25T14:20:31.000Z",
+  "lastModified": "2026-10-25T18:02:05.000Z",
   "likes": 10,
   "private": false,
-  "sha": "7f39d6b14fd79a00a3b0054d383da299c1431433",
+  "sha": "2eaabfaf30c4ca67f82658be1a2d86c4d86db49c",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDilutionRisk ASX Dataset\n\t\n\nVersioned public tables and search indexes for\ndilutionrisk.com.\nStatus: foundation only — no production data has been migrated yet.\nPlanned release contents:\n\ncompanies and dated company snapshots;\nASX announcement metadata and public artifact URLs;\ncapital instruments and instrument events;\nscreener snapshots; and\na revision-matched SQLite full-text index.\n\nEach release will identify its exact Hub commit, source watermark, table counts,\nfile hashes… See the full description on the dataset page: https://huggingface.co/datasets/mzx/dilutionrisk-data.",
   "downloads": 59133,
   "tags": [
