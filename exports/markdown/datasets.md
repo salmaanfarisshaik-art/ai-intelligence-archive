@@ -113,6 +113,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_adscli_copycheck_videos
+- **Source**: 
+
+## 
 - **ID**: dataset_adyen_dabstep
 - **Source**: 
 
@@ -529,6 +533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_anivcsh_supreme_court_data
+- **Source**: 
+
+## 
 - **ID**: dataset_annazhang_waymo_open_dataset_v_1_4_3
 - **Source**: 
 
@@ -933,6 +941,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_azzindani_legal_corpus_qa_syndeepthink
+- **Source**: 
+
+## 
 - **ID**: dataset_baber_paul_graham_essays
 - **Source**: 
 
@@ -985,6 +997,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_battosai_spreadsheetbench
+- **Source**: 
+
+## 
 - **ID**: dataset_bebhuvan1_sansad_corpus
 - **Source**: 
 
@@ -1022,6 +1038,10 @@
 
 ## 
 - **ID**: dataset_benjy_typed_digital_signatures
+- **Source**: 
+
+## 
+- **ID**: dataset_bens_bots_marrs_global_coral_reef_soundscapes
 - **Source**: 
 
 ## 
@@ -1130,6 +1150,10 @@
 
 ## 
 - **ID**: dataset_bofenghuang_stt_pseudo_labeled_whisper_large_v3_multilingual
+- **Source**: 
+
+## 
+- **ID**: dataset_boligmappa_home_standard_results
 - **Source**: 
 
 ## 
@@ -1426,6 +1450,10 @@
 
 ## 
 - **ID**: dataset_cimec_lambada
+- **Source**: 
+
+## 
+- **ID**: dataset_ciroc0_dmi_aarhus_predictions
 - **Source**: 
 
 ## 
@@ -1729,6 +1757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_deepseekoracle_lattice_marines_wins
+- **Source**: 
+
+## 
 - **ID**: dataset_deepseekoracle_lygo_public_witness_feed
 - **Source**: 
 
@@ -1762,6 +1794,10 @@
 
 ## 
 - **ID**: dataset_derek_thomas_scienceqa
+- **Source**: 
+
+## 
+- **ID**: dataset_desmondymtang2024_language_grounded_sparse_encoder_training
 - **Source**: 
 
 ## 
@@ -2058,6 +2094,10 @@
 
 ## 
 - **ID**: dataset_epfml_fineweb_hq
+- **Source**: 
+
+## 
+- **ID**: dataset_erickfm_slippi_public_dataset_v3_7
 - **Source**: 
 
 ## 
@@ -5113,6 +5153,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_joshhf_fisher_sparsity_rl_artifacts
+- **Source**: 
+
+## 
 - **ID**: dataset_jotalbot_octopus_eternal
 - **Source**: 
 
@@ -5346,6 +5390,10 @@
 
 ## 
 - **ID**: dataset_kzhou_voice_cloning_style_transfer
+- **Source**: 
+
+## 
+- **ID**: dataset_l6fg84ey_ba30fa25
 - **Source**: 
 
 ## 
@@ -5938,6 +5986,10 @@
 
 ## 
 - **ID**: dataset_makkapakka2001_data_mt
+- **Source**: 
+
+## 
+- **ID**: dataset_maknee_leaague_of_legends_decoded_replay_packets_s12_unorganized
 - **Source**: 
 
 ## 
@@ -6593,6 +6645,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_neulab_agent_data_collection
+- **Source**: 
+
+## 
 - **ID**: dataset_neurodeskorg_webapps
 - **Source**: 
 
@@ -6630,6 +6686,10 @@
 
 ## 
 - **ID**: dataset_ngotung2005_ngotung2005
+- **Source**: 
+
+## 
+- **ID**: dataset_nguha_legalbench
 - **Source**: 
 
 ## 
@@ -7110,6 +7170,10 @@
 
 ## 
 - **ID**: dataset_open_ko_llm_leaderboard_requests
+- **Source**: 
+
+## 
+- **ID**: dataset_open_law_data_thailand_soc_ratchakitcha
 - **Source**: 
 
 ## 
@@ -8901,6 +8965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tfrere_reachy_mini_move_previews
+- **Source**: 
+
+## 
 - **ID**: dataset_thanhnew2001_vietsuperspeech
 - **Source**: 
 
@@ -9298,6 +9366,10 @@
 
 ## 
 - **ID**: dataset_viscompfy_openroomsplusplus
+- **Source**: 
+
+## 
+- **ID**: dataset_visionhdstream_data_vision_01
 - **Source**: 
 
 ## 
@@ -9834,6 +9906,10 @@
 
 ## 
 - **ID**: dataset_zai_org_longbench_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_zai_org_rpc_bench
 - **Source**: 
 
 ## 

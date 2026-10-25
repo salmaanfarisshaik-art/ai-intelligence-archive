@@ -2228,6 +2228,10 @@
 - **ID**: model_ibm_granite_granite_3_0_8b_instruct
 - **Source**: 
 
+## ibm-granite/granite-3.1-3b-a800m-instruct
+- **ID**: model_ibm_granite_granite_3_1_3b_a800m_instruct
+- **Source**: 
+
 ## ibm-granite/granite-3.1-8b-instruct
 - **ID**: model_ibm_granite_granite_3_1_8b_instruct
 - **Source**: 
@@ -2474,6 +2478,10 @@
 
 ## Isotr0py/deepseek-vl2-tiny
 - **ID**: model_isotr0py_deepseek_vl2_tiny
+- **Source**: 
+
+## ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
+- **ID**: model_ista_daslab_deepseek_v4_1_flash_1017_gsq_rco_gguf
 - **Source**: 
 
 ## ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF
@@ -4612,6 +4620,14 @@
 - **ID**: model_orenguteng_llama_3_1_8b_lexi_uncensored_v2
 - **Source**: 
 
+## org2ai/Wald-4B
+- **ID**: model_org2ai_wald_4b
+- **Source**: 
+
+## org2ai/Wald-4B-GGUF
+- **ID**: model_org2ai_wald_4b_gguf
+- **Source**: 
+
 ## Orion-zhen/aya-expanse-8b-AWQ
 - **ID**: model_orion_zhen_aya_expanse_8b_awq
 - **Source**: 
@@ -4650,6 +4666,10 @@
 
 ## ornith-ai/Ornith-1.0-9B-GGUF
 - **ID**: model_ornith_ai_ornith_1_0_9b_gguf
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-122B
+- **ID**: model_ornith_ai_ornith_1_5_122b
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-122B-FP8
@@ -6636,6 +6656,10 @@
 - **ID**: model_ttimofeyka_mistralrp_noromaid_nsfw_mistral_7b_gguf
 - **Source**: 
 
+## ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF
+- **ID**: model_ttindall_qwen3_8_27b_defiance_uncensored_mtp_gguf
+- **Source**: 
+
 ## tvall43/Qwen3.6-14B-A3B-FableVibes-GGUF
 - **ID**: model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf
 - **Source**: 
@@ -6954,6 +6978,10 @@
 
 ## unsloth/Nemotron-3-Nano-30B-A3B-GGUF
 - **ID**: model_unsloth_nemotron_3_nano_30b_a3b_gguf
+- **Source**: 
+
+## unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF
+- **ID**: model_unsloth_nvidia_nemotron_3_5_bolt_e4b_gguf
 - **Source**: 
 
 ## unsloth/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-GGUF
@@ -7338,6 +7366,10 @@
 
 ## XHToken/Spark-X2.5-4B-GGUF
 - **ID**: model_xhtoken_spark_x2_5_4b_gguf
+- **Source**: 
+
+## XHToken/Spark-X2.6-4B-GGUF
+- **ID**: model_xhtoken_spark_x2_6_4b_gguf
 - **Source**: 
 
 ## XiaomiMiMo/MiMo-7B-Base
