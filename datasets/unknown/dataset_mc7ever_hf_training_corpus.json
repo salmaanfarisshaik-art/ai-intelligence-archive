@@ -4,10 +4,10 @@
   "author": "MC7ever",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-26T03:10:40.000Z",
+  "lastModified": "2026-10-26T09:31:58.000Z",
   "likes": 1,
   "private": false,
-  "sha": "b8936e946d0672a7825efe5b46746f419c17fe7f",
+  "sha": "481f349248a84293904c57b5e8e1f8736b35fe36",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tHF Training Corpus\n\t\n\nBulk-scraped multimodal training corpus: ~92,000 Hugging Face datasets streamed,\nnormalized and stored as per-dataset Parquet files under data/.\nEvery modality is captured: text, images (PNG bytes), audio (mono 16-bit WAV bytes),\nvideo (bytes, capped) and tabular/timeseries (serialized to text).\n\n\t\n\t\t\n\t\n\t\n\t\tPipeline\n\t\n\n\nLive crawl from a 92,458-ID corpus list (see\nhttps://github.com/shadyuwugurl/hf-datasets-trees/blob/main/datasets.txt)\nstreaming=True reads… See the full description on the dataset page: https://huggingface.co/datasets/MC7ever/hf-training-corpus.",
   "downloads": 30450,
   "tags": [

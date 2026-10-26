@@ -147,7 +147,7 @@
 - **text-generation**: 89
 - **library:datasets**: 87
 - **library:mlcroissant**: 87
-- **modality:text**: 83
+- **modality:text**: 82
 - **language:en**: 76
 - **endpoints_compatible**: 75
 - **license:apache-2.0**: 75
@@ -170,8 +170,8 @@
 - **enterprise**: 25
 - **size_categories:n<1K**: 25
 - **modality:tabular**: 24
+- **size_categories:10K<n<100K**: 22
 - **qwen3**: 21
-- **size_categories:10K<n<100K**: 21
 - **license:cc-by-4.0**: 18
 - **modality:video**: 17
 - **task_categories:robotics**: 17
@@ -185,11 +185,11 @@
 - **pytorch**: 13
 - **size_categories:1M<n<10M**: 13
 - **arxiv:2505.09388**: 12
-- **size_categories:1K<n<10K**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
 - **custom_code**: 11
 - **format:json**: 11
 - **language:zh**: 11
 - **size_categories:100M<n<1B**: 11
+- **size_categories:1K<n<10K**: 11
 - **modality:audio**: 10
