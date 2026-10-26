@@ -1200,6 +1200,10 @@
 - **ID**: model_davidau_glm_4_7_flash_uncensored_heretic_neo_code_imatrix_max_gguf
 - **Source**: 
 
+## DavidAU/LFM2.5-24B-A2B-Turbo-Brilliance-50X-NEO-MAX-Imatrix-GGUF
+- **ID**: model_davidau_lfm2_5_24b_a2b_turbo_brilliance_50x_neo_max_imatrix_gguf
+- **Source**: 
+
 ## DavidAU/LFM2.5-2.6B-Qwen3.8-Turbo-Brilliance-Power-X12-NEO-MAX-GGUF
 - **ID**: model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf
 - **Source**: 
@@ -2472,6 +2476,14 @@
 - **ID**: model_internscience_agents_a1_q4_k_m_gguf
 - **Source**: 
 
+## InternScience/Sage-A1.5-Q4_K_M-GGUF
+- **ID**: model_internscience_sage_a1_5_q4_k_m_gguf
+- **Source**: 
+
+## InternScience/Sage-A1.5-Q8_0-GGUF
+- **ID**: model_internscience_sage_a1_5_q8_0_gguf
+- **Source**: 
+
 ## IQuestLab/IQuest-Coder-V1-40B-Instruct
 - **ID**: model_iquestlab_iquest_coder_v1_40b_instruct
 - **Source**: 
@@ -2682,6 +2694,14 @@
 
 ## KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS
 - **ID**: model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class
+- **Source**: 
+
+## Kujira/Underdog-Saluki-27B-1.0-MTP-Abliterated-GGUF
+- **ID**: model_kujira_underdog_saluki_27b_1_0_mtp_abliterated_gguf
+- **Source**: 
+
+## Kujira/Underdog-Saluki-27B-1.0-MTP-GGUF
+- **ID**: model_kujira_underdog_saluki_27b_1_0_mtp_gguf
 - **Source**: 
 
 ## Kwaipilot/KAT-Coder-V2.5-Dev
@@ -3532,6 +3552,10 @@
 - **ID**: model_melcheikh_gemma_4_31b_it_qat_nvfp4_blackwell
 - **Source**: 
 
+## MemTensor/MemT-1.0-Flash
+- **ID**: model_memtensor_memt_1_0_flash
+- **Source**: 
+
 ## Menlo/Jan-nano-128k
 - **ID**: model_menlo_jan_nano_128k
 - **Source**: 
@@ -4264,6 +4288,10 @@
 - **ID**: model_nvidia_nemotron_mini_4b_instruct
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB
+- **ID**: model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-Base-BF16
 - **ID**: model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_base_bf16
 - **Source**: 
@@ -4556,6 +4584,10 @@
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
 
+## openbmb/MiniCPM-V-4.7-35B-A3B-DSpark
+- **ID**: model_openbmb_minicpm_v_4_7_35b_a3b_dspark
+- **Source**: 
+
 ## openchat/openchat-3.5-1210
 - **ID**: model_openchat_openchat_3_5_1210
 - **Source**: 
@@ -4774,6 +4806,10 @@
 
 ## OS-Software/Ternary-Bonsai-2-27B-Uncensored-Heretic-v2-GGUF
 - **ID**: model_os_software_ternary_bonsai_2_27b_uncensored_heretic_v2_gguf
+- **Source**: 
+
+## OsaurusAI/Diplodocus-preview-GGUF
+- **ID**: model_osaurusai_diplodocus_preview_gguf
 - **Source**: 
 
 ## osllmai-community/Llama-3.2-1B
@@ -7010,6 +7046,10 @@
 
 ## unsloth/Ornith-1.0-9B-GGUF
 - **ID**: model_unsloth_ornith_1_0_9b_gguf
+- **Source**: 
+
+## unsloth/Ornith-1.5-122B-GGUF
+- **ID**: model_unsloth_ornith_1_5_122b_gguf
 - **Source**: 
 
 ## unsloth/orpheus-3b-0.1-ft

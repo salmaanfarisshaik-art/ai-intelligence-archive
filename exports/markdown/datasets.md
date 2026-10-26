@@ -257,6 +257,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_akahsizrr_foundry2_ckpt
+- **Source**: 
+
+## 
 - **ID**: dataset_akaruineko_acrone
 - **Source**: 
 
@@ -986,6 +990,10 @@
 
 ## 
 - **ID**: dataset_banned_historical_archives_zhongyangribao
+- **Source**: 
+
+## 
+- **ID**: dataset_baoshi225_1
 - **Source**: 
 
 ## 
@@ -1726,6 +1734,10 @@
 
 ## 
 - **ID**: dataset_deadbits_vigil_jailbreak_all_minilm_l6_v2
+- **Source**: 
+
+## 
+- **ID**: dataset_debravtaylor1540_cheetah
 - **Source**: 
 
 ## 
@@ -2734,6 +2746,10 @@
 
 ## 
 - **ID**: dataset_haisuguan_evobc
+- **Source**: 
+
+## 
+- **ID**: dataset_hakari_bench_results
 - **Source**: 
 
 ## 
@@ -5173,6 +5189,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jumuunhaan_copyright_videos_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_junboboshi_etci_2021_flood_detection
 - **Source**: 
 
@@ -5206,6 +5226,10 @@
 
 ## 
 - **ID**: dataset_k9cli_video_vec2wav2_tokenizer_3
+- **Source**: 
+
+## 
+- **ID**: dataset_kaiqing_deepvrm_training_data
 - **Source**: 
 
 ## 
@@ -6253,6 +6277,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mickeykang_event6d
+- **Source**: 
+
+## 
 - **ID**: dataset_mickeykang_event6dblender
 - **Source**: 
 
@@ -6729,6 +6757,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nicknock12_a2a_knowledges
+- **Source**: 
+
+## 
 - **ID**: dataset_nicoboou_idrcell100k
 - **Source**: 
 
@@ -6982,6 +7014,10 @@
 
 ## 
 - **ID**: dataset_nvidia_simready_assets
+- **Source**: 
+
+## 
+- **ID**: dataset_nvidia_simready_central_status
 - **Source**: 
 
 ## 
@@ -8917,6 +8953,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tehbesteur_ciel_knowledge_base
+- **Source**: 
+
+## 
 - **ID**: dataset_teknium_openhermes_2_5
 - **Source**: 
 
@@ -9766,6 +9806,10 @@
 
 ## 
 - **ID**: dataset_yentinglin_aime_2025
+- **Source**: 
+
+## 
+- **ID**: dataset_yhx91zdl_music
 - **Source**: 
 
 ## 

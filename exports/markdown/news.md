@@ -1321,6 +1321,11 @@
 - **URL**: [https://openai.com/index/chatgpt-enterprise-spend-controls](https://openai.com/index/chatgpt-enterprise-spend-controls)
 
 ## 
+- **ID**: rss_https://openai.com/index/chatgpt-expanding-world-of-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/chatgpt-expanding-world-of-work](https://openai.com/index/chatgpt-expanding-world-of-work)
+
+## 
 - **ID**: rss_https://openai.com/index/chatgpt-for-academic-researchers
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/chatgpt-for-academic-researchers](https://openai.com/index/chatgpt-for-academic-researchers)
@@ -3561,6 +3566,11 @@
 - **URL**: [https://openai.com/index/introducing-gpt-6-1-sol](https://openai.com/index/introducing-gpt-6-1-sol)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-gpt-6-1-terra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-gpt-6-1-terra](https://openai.com/index/introducing-gpt-6-1-terra)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-gpt-6-sol-and-luna
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpt-6-sol-and-luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
@@ -4749,6 +4759,11 @@
 - **ID**: rss_https://openai.com/index/openai-contract-data-agent
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-contract-data-agent](https://openai.com/index/openai-contract-data-agent)
+
+## 
+- **ID**: rss_https://openai.com/index/openai-cut-incident-investigation
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-cut-incident-investigation](https://openai.com/index/openai-cut-incident-investigation)
 
 ## 
 - **ID**: rss_https://openai.com/index/openai-cybersecurity-grant-program
