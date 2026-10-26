@@ -295,6 +295,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.02948v2](http://arxiv.org/abs/2603.02948v2)
 
+## MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios
+- **ID**: arxiv_2603.09983v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.09983v2](http://arxiv.org/abs/2603.09983v2)
+
 ## Personalized Group Relative Policy Optimization for Heterogenous Preference Alignment
 - **ID**: arxiv_2603.10009v2
 - **Source**: ArXiv
@@ -439,6 +444,11 @@
 - **ID**: arxiv_2605.06350v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06350v2](http://arxiv.org/abs/2605.06350v2)
+
+## Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching
+- **ID**: arxiv_2605.06474v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06474v3](http://arxiv.org/abs/2605.06474v3)
 
 ## Recursive Agent Optimization
 - **ID**: arxiv_2605.06639v2
@@ -2484,4 +2494,19 @@
 - **ID**: arxiv_2610.31657v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31657v1](http://arxiv.org/abs/2610.31657v1)
+
+## PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets
+- **ID**: arxiv_2610.32864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32864v1](http://arxiv.org/abs/2610.32864v1)
+
+## Interpretable sparse fine-tuning with TopKLoRA enables faithful circuit discovery
+- **ID**: arxiv_2610.32866v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32866v1](http://arxiv.org/abs/2610.32866v1)
+
+## RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms
+- **ID**: arxiv_2610.32971v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32971v1](http://arxiv.org/abs/2610.32971v1)
 

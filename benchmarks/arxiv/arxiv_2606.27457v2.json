@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.27457v2",
+  "schema_version": "1.0",
+  "name": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.27457v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.PF",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.27457v2",
+    "updated": "2026-10-23T16:53:26Z",
+    "published": "2026-06-25T18:29:24Z",
+    "title": "Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving",
+    "summary": "Serving open-weight language models on premises forces a trade-off between accuracy and computational cost. Hosting models of different sizes lets easy queries go to a small, efficient model and hard ones to a large model. We present CRE-Router (Cluster, Route, Escalate), a two-stage method that decides which of these models answers each query. It clusters queries and routes each cluster to the model that best trades error against cost, under a budget on the time per output token (TPOT) or the end-to-end latency per request (E2EL). It then either accepts the answer or, when a quality estimator rejects it, escalates the query to the strong model. Routing decides before generation, so a hard query goes straight to the strong model; escalation decides after, so it can catch the errors routing cannot predict. It needs no annotation beyond task-correctness labels. We evaluate CRE-Router on TeleMath, TeleQnA and AIME, with pools of two to nine models served on A100 GPUs. CRE-Router is more accurate than the efficient models in its pool and comparable to the strong model it escalates to, at a lower cost per token. We also find that the choice of cost term decides which models serve the workload, that pricing each model per cluster shortens the wait per request, and that a change of hardware changes the best routing.",
+    "primary_category": "cs.PF"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:53:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.27457v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

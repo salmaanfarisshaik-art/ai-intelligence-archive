@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.32864v1",
+  "schema_version": "1.0",
+  "name": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.32864v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.32864v1",
+    "updated": "2026-10-23T16:34:57Z",
+    "published": "2026-10-23T16:34:57Z",
+    "title": "PoKER: A Probability of Kill Estimation Rate Model for Air-to-Air Missiles Using Machine Learning on Stochastic Targets",
+    "summary": "This work introduces PoKER, a novel probabilistic model engineered to optimize missile launch effectiveness in air-to-air scenarios, specifically within Beyond Visual Range (BVR) air combat. Unlike conventional Weapon Engagement Zone (WEZ) models that delineate zones based on static distances such as maximum, minimum, and no-escape ranges, PoKER applies machine learning to predict kill probabilities more accurately by integrating the stochastic behaviors of targets and missile miss distances. This model dynamically evaluates target behavior, greatly expanding the predictive capabilities of engagement analysis. By factoring in elements such as warhead lethality, target and shooter orientations, and the specific conditions of engagement, PoKER provides important insights into engagement dynamics and quantifies success probabilities. Consequently, it can potentially be an important tool for BVR air combat pilots, improving operational decision-making within this specialized combat domain.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:34:57Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.32864v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

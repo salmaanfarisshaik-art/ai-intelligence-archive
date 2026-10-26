@@ -1,5 +1,10 @@
 # Cs.Ne Export
 
+## On Orthogonal Recurrent Neural Networks Quantization
+- **ID**: arxiv_2402.04012v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2402.04012v3](http://arxiv.org/abs/2402.04012v3)
+
 ## Evolving Ensemble of Agents
 - **ID**: arxiv_2605.09018v4
 - **Source**: ArXiv

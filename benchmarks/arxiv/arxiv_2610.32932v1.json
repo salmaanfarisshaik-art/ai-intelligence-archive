@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.32932v1",
+  "schema_version": "1.0",
+  "name": "STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.32932v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.32932v1",
+    "updated": "2026-10-23T17:29:00Z",
+    "published": "2026-10-23T17:29:00Z",
+    "title": "STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks",
+    "summary": "We introduce STROKE, a query-efficient score-based black-box adversarial attack that constructs perturbations from simple oriented rectangular occlusions. STROKE optimizes these perturbations through a lightweight greedy add-and-refine procedure. Across diverse image classifiers, STROKE achieves high attack success with low query counts at nominal 1--2\\% area settings, showing favorable performance relative to existing patch-based attacks in several configurations. Matched comparisons further demonstrate substantial reductions in wall-clock attack time, while ablation studies examine the key design choices and effectiveness across structural primitives. These findings suggest that simple structural occlusions offer an effective and computationally efficient search space for black-box adversarial attacks.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T17:29:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.32932v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

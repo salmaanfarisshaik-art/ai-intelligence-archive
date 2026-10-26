@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.23170v2",
+  "schema_version": "1.0",
+  "name": "Chinese Decision: A Family of Language Models for Single-Pass Probabilistic Decision-Making",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.23170v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.23170v2",
+    "updated": "2026-10-23T16:14:32Z",
+    "published": "2026-10-16T09:08:32Z",
+    "title": "Chinese Decision: A Family of Language Models for Single-Pass Probabilistic Decision-Making",
+    "summary": "Many language-based applications need a probability distribution over a small set of decisions rather than an open-ended response. We present Chinese Decision, a family of Chinese-language decision models that adapts pretrained causal language models to this interface. Each question is compiled into a shared instruction-and-candidate prompt; a single forward pass reads the final-position logits of the candidate letters and normalizes them over the valid options, without autoregressive answer generation. The interface covers Boolean judgments, categorical choices, and ordinal scores. We report three completed members built on Qwen3.5 0.8B, 2B, and 4B backbones, each trained for one epoch on the same 13.048 million decisions and released with a validation-fitted temperature and a Q8_0 quantization. On the full 307,900-decision CJ-Bench, the 4B model reaches 85.97% overall accuracy, 75.69% general-domain accuracy, and 84.00% average accuracy across medicine, law, and finance with a single checkpoint, above every reported baseline in each domain, at 1.00% expected calibration error. Between the 2B and 4B members, which share data, objective, and minimum batch, parent-clustered paired bootstrap intervals show gains in all four domains, largest in the two low-resource domains (+8.5 and +7.1 points), whereas the 2B gain over 0.8B in law is not statistically resolved. Analyses of the stored predictions further show that a single global temperature lowers pooled calibration error while worsening some domains, that larger members rank their own errors better for selective prediction, and that merging and quantization each change 0.4-1.1% of top-1 predictions while leaving aggregate metrics nearly unchanged. All comparisons rest on single training runs and imported baselines.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:14:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.23170v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.09109v3",
+  "schema_version": "1.0",
+  "name": "Driving Video Retrieval for Complex Queries with Structured Grounding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.09109v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.09109v3",
+    "updated": "2026-10-23T17:49:29Z",
+    "published": "2026-06-08T07:00:33Z",
+    "title": "Driving Video Retrieval for Complex Queries with Structured Grounding",
+    "summary": "Video retrieval at scale is central to data curation and safety validation in autonomous driving, where users want to find not only scenes but also dynamic events such as cut-ins and hard braking. Existing vision-language and keyword-based retrieval methods often miss these events because the relevant motion may not be explicitly described in text or captured by lexical overlap. Rule-based retrieval can encode such events more directly, but it is brittle: generated or hand-written rules often fail when their assumptions do not match real driving data. We propose STRIVE-D, a data-calibrated retrieval framework for driving videos. It uses weakly labeled in-domain videos to estimate when a query rule is reliable, adapt rules that mismatch observed data, and fuse calibrated rule scores with vision-language and keyword-based retrieval signals. Across three driving benchmarks, including newly released human-annotated event data on DrivingDojo, STRIVE-D delivers up to 84% relative improvement in top-1 accuracy over state-of-the-art methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T17:49:29Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.09109v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

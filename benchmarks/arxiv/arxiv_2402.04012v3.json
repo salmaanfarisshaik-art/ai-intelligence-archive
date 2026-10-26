@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2402.04012v3",
+  "schema_version": "1.0",
+  "name": "On Orthogonal Recurrent Neural Networks Quantization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2402.04012v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.NE",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2402.04012v3",
+    "updated": "2026-10-23T16:19:05Z",
+    "published": "2024-02-05T09:59:57Z",
+    "title": "On Orthogonal Recurrent Neural Networks Quantization",
+    "summary": "In recent years, Orthogonal Recurrent Neural Networks (ORNNs) have gained popularity due to their ability to manage tasks involving long-term dependencies, such as the Copy-task, and their linear complexity. However, existing ORNNs utilize full precision weights and activations, which prevents their deployment on compact devices. In this paper, we explore the quantization of the weight matrices in ORNNs, leading to Quantized approximately Orthogonal RNNs (QORNNs). The construction of such networks remained an open problem, acknowledged for its inherent instability. We propose and investigate two strategies to learn QORNN by combining quantization-aware training (QAT) and orthogonal projections. We also study post-training quantization of the activations for pure integer computation of the recurrent loop. The most efficient fully-quantized models are currently the only alternatives for solving the Copy-task with 1000 timesteps. They also surpass existing quantized models on tasks requiring long-term dependencies, such as permuted MNIST as well as some Internet of Things (IoT) tasks. However, they are less effective on tasks where long short-term memory (LSTMs) and other gated RNNs outperform ORNNs.",
+    "primary_category": "cs.NE"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:19:05Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2402.04012v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

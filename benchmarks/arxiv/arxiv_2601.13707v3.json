@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.13707v3",
+  "schema_version": "1.0",
+  "name": "Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.13707v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.13707v3",
+    "updated": "2026-10-23T16:39:00Z",
+    "published": "2026-01-20T08:04:18Z",
+    "title": "Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs",
+    "summary": "Hallucinations in large vision--language models (LVLMs) often arise when language priors dominate over visual evidence, leading to object misidentification and visually inconsistent descriptions. We address this problem by framing hallucination mitigation as contrastive guidance that steers generation toward visually grounded and semantically faithful text. We propose Attention-space Contrastive Guidance (ACG), a training-free, single-pass method that operates directly in self-attention layers, where hallucination-inducing cross-modal biases emerge. ACG constructs both image-conditioned and approximate text-only attention paths within a single forward pass, enabling efficient guidance before errors accumulate at the output layer. Because this masking-based surrogate can introduce approximation bias, we further apply a lightweight orthogonal projection that suppresses components aligned with the text-only path, yielding a more visually grounded correction. Experiments on CHAIR and POPE show that ACG improves faithfulness over existing training-free baselines while maintaining caption quality, reducing latency by up to $2\\times$ compared to multi-pass contrastive decoding methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:39:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.13707v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

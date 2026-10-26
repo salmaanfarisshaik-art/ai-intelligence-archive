@@ -370,3 +370,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31588v1](http://arxiv.org/abs/2610.31588v1)
 
+## Green Code or Costly Code? Evaluating the Energy Costs of Iterative LLM-Based Code Optimizations
+- **ID**: arxiv_2610.32891v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32891v1](http://arxiv.org/abs/2610.32891v1)
+

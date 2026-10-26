@@ -230,6 +230,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.04745v2](http://arxiv.org/abs/2607.04745v2)
 
+## GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks
+- **ID**: arxiv_2607.05369v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.05369v2](http://arxiv.org/abs/2607.05369v2)
+
+## Semantic Anchoring for Robotic Action Representations
+- **ID**: arxiv_2607.13597v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.13597v3](http://arxiv.org/abs/2607.13597v3)
+
 ## An offline approach to fNIRS-guided reinforcement learning for robot behavior
 - **ID**: arxiv_2607.14393v2
 - **Source**: ArXiv
@@ -1049,4 +1059,14 @@
 - **ID**: arxiv_2610.30125v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30125v1](http://arxiv.org/abs/2610.30125v1)
+
+## ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback
+- **ID**: arxiv_2610.32966v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32966v1](http://arxiv.org/abs/2610.32966v1)
+
+## DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection
+- **ID**: arxiv_2610.32969v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32969v1](http://arxiv.org/abs/2610.32969v1)
 

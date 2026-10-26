@@ -1300,6 +1300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.05364v4](http://arxiv.org/abs/2607.05364v4)
 
+## How Do I Know What to Say Next? Barenholtz's Autogenerative Theory as an Enrichment of Harrisean Integrationism
+- **ID**: arxiv_2607.07891v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.07891v2](http://arxiv.org/abs/2607.07891v2)
+
 ## WildTrace: Benchmarking Natural Evidence Trails in Long-Context Reasoning
 - **ID**: arxiv_2607.09328v2
 - **Source**: ArXiv
@@ -1659,6 +1664,11 @@
 - **ID**: arxiv_2607.26057v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.26057v1](http://arxiv.org/abs/2607.26057v1)
+
+## AgentGUI: An Interface for Observing and Steering Long-Running AI Agents
+- **ID**: arxiv_2607.26300v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.26300v3](http://arxiv.org/abs/2607.26300v3)
 
 ## DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search
 - **ID**: arxiv_2607.27178v1
@@ -2419,6 +2429,11 @@
 - **ID**: arxiv_2608.23564v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.23564v1](http://arxiv.org/abs/2608.23564v1)
+
+## Beyond Static and Linear: What Attention Constraints Best Fit Human Reading Times?
+- **ID**: arxiv_2608.23818v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.23818v2](http://arxiv.org/abs/2608.23818v2)
 
 ## 'Ghaib in Translation' aka Unseen Harm: Measuring Cross-Script Safety Inconsistency with 'Missed-in-Urdu' Scores in LLM Hate Speech Detection
 - **ID**: arxiv_2608.24191v2
@@ -4185,6 +4200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22355v1](http://arxiv.org/abs/2610.22355v1)
 
+## Chinese Decision: A Family of Language Models for Single-Pass Probabilistic Decision-Making
+- **ID**: arxiv_2610.23170v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23170v2](http://arxiv.org/abs/2610.23170v2)
+
 ## MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation
 - **ID**: arxiv_2610.23234v2
 - **Source**: ArXiv
@@ -4249,6 +4269,11 @@
 - **ID**: arxiv_2610.23847v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23847v1](http://arxiv.org/abs/2610.23847v1)
+
+## Muse Glimmer 30B: An On-Device Agentic Model
+- **ID**: arxiv_2610.24628v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24628v3](http://arxiv.org/abs/2610.24628v3)
 
 ## Who Gets Unmasked? Sampler-Induced Bias in Diffusion Language Models
 - **ID**: arxiv_2610.24795v1
@@ -4529,4 +4554,34 @@
 - **ID**: arxiv_2610.31646v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31646v1](http://arxiv.org/abs/2610.31646v1)
+
+## Communicating with the Entire Population: Machine Translation of Emergency Alerts and Warnings
+- **ID**: arxiv_2610.32842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32842v1](http://arxiv.org/abs/2610.32842v1)
+
+## J-Comm: Jacobian-Guided Latent Communication between LLM Agents
+- **ID**: arxiv_2610.32871v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32871v1](http://arxiv.org/abs/2610.32871v1)
+
+## Adaptive Frequency Threshold Byte Pair Encoding for Mixed Natural Language and Structured Symbolic Corpora
+- **ID**: arxiv_2610.32921v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32921v1](http://arxiv.org/abs/2610.32921v1)
+
+## Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model
+- **ID**: arxiv_2610.32933v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32933v1](http://arxiv.org/abs/2610.32933v1)
+
+## Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox
+- **ID**: arxiv_2610.32955v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32955v1](http://arxiv.org/abs/2610.32955v1)
+
+## The Language of Instruction: Genre and Generative AI
+- **ID**: arxiv_2610.32982v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32982v1](http://arxiv.org/abs/2610.32982v1)
 

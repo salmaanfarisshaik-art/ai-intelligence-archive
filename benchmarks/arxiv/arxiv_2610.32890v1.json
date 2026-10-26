@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.32890v1",
+  "schema_version": "1.0",
+  "name": "Closing the Modality Gap via Simplex-Constrained Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.32890v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.32890v1",
+    "updated": "2026-10-23T16:57:48Z",
+    "published": "2026-10-23T16:57:48Z",
+    "title": "Closing the Modality Gap via Simplex-Constrained Representations",
+    "summary": "While multimodal contrastive models like CLIP and CLAP successfully learn shared representations, their embeddings typically exhibit a persistent \\emph{modality gap}. We propose addressing this separation through a purely geometric approach: changing the embedding domain from the unit sphere, $S^{d-1}$, to the probability simplex, $Δ^{d-1}$. Although both manifolds share the same intrinsic dimension, the simplex acts as a structural prior; its nonnegative, unit-mass constraints serve as a cross-modal calibration that forces both modalities to ground themselves in the same coordinate system. By attaching lightweight softmax adapters and using Total Variation similarity, we reduce the centroid $\\ell_2$ gap by 97--99\\% across five multimodal retrieval benchmarks. This confirms that simplicial geometry induces genuine semantic alignment, matching or exceeding the retrieval performance of standard unconstrained models.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:57:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.32890v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

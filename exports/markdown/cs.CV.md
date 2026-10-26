@@ -535,6 +535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.11665v3](http://arxiv.org/abs/2601.11665v3)
 
+## Attention-space Contrastive Guidance for Efficient Hallucination Mitigation in LVLMs
+- **ID**: arxiv_2601.13707v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.13707v3](http://arxiv.org/abs/2601.13707v3)
+
 ## Li-ViP3D++: Query-Gated Deformable Camera-LiDAR Fusion for End-to-End Perception and Trajectory Prediction
 - **ID**: arxiv_2601.20720v2
 - **Source**: ArXiv
@@ -1049,6 +1054,11 @@
 - **ID**: arxiv_2606.08684v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.08684v2](http://arxiv.org/abs/2606.08684v2)
+
+## Driving Video Retrieval for Complex Queries with Structured Grounding
+- **ID**: arxiv_2606.09109v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09109v3](http://arxiv.org/abs/2606.09109v3)
 
 ## Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
 - **ID**: arxiv_2606.11176v2
@@ -6560,6 +6570,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24885v1](http://arxiv.org/abs/2610.24885v1)
 
+## Test-Time Scaling of Text-to-Image Flow Matching Models with Noise-Rejuvenated Sequential Monte Carlo
+- **ID**: arxiv_2610.25479v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.25479v2](http://arxiv.org/abs/2610.25479v2)
+
+## LEVI: Benchmarking Visual Identity Fidelity with Verifiable Low-Entropy Constructs
+- **ID**: arxiv_2610.25716v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.25716v3](http://arxiv.org/abs/2610.25716v3)
+
 ## XGLASS: X-Ray, Gaze and Language Assisted Slice Sequencing for CT Volumes
 - **ID**: arxiv_2610.26255v2
 - **Source**: ArXiv
@@ -6979,4 +6999,59 @@
 - **ID**: arxiv_2610.31671v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31671v1](http://arxiv.org/abs/2610.31671v1)
+
+## OpenStripe supports open-set identification and spatial stripe profiling in wild Amur tigers
+- **ID**: arxiv_2610.32848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32848v1](http://arxiv.org/abs/2610.32848v1)
+
+## Multimodal Generative AI Assists Comprehensive Echocardiographic Interpretation
+- **ID**: arxiv_2610.32880v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32880v1](http://arxiv.org/abs/2610.32880v1)
+
+## VTRL-Med: Progressive Visual Refinement with Topology-Guided Regularization for Medical Image Clustering
+- **ID**: arxiv_2610.32884v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32884v1](http://arxiv.org/abs/2610.32884v1)
+
+## LoCA: Enabling Multi-Modality in Geospatial Location Encoders
+- **ID**: arxiv_2610.32894v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32894v1](http://arxiv.org/abs/2610.32894v1)
+
+## STROKE: Simple Sparse Structural Occlusions for Black-Box Adversarial Attacks
+- **ID**: arxiv_2610.32932v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32932v1](http://arxiv.org/abs/2610.32932v1)
+
+## Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Language Models
+- **ID**: arxiv_2610.32948v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32948v1](http://arxiv.org/abs/2610.32948v1)
+
+## Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection
+- **ID**: arxiv_2610.32964v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32964v1](http://arxiv.org/abs/2610.32964v1)
+
+## MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs
+- **ID**: arxiv_2610.32967v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32967v1](http://arxiv.org/abs/2610.32967v1)
+
+## FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation
+- **ID**: arxiv_2610.32976v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32976v1](http://arxiv.org/abs/2610.32976v1)
+
+## UniAction: Unified Action Conditioning for World Models
+- **ID**: arxiv_2610.32977v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32977v1](http://arxiv.org/abs/2610.32977v1)
+
+## SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning
+- **ID**: arxiv_2610.32978v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32978v1](http://arxiv.org/abs/2610.32978v1)
 

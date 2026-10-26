@@ -435,6 +435,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03585v1](http://arxiv.org/abs/2610.03585v1)
 
+## Constitution-Guided Watermarking
+- **ID**: arxiv_2610.09552v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.09552v2](http://arxiv.org/abs/2610.09552v2)
+
 ## From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents
 - **ID**: arxiv_2610.12463v1
 - **Source**: ArXiv

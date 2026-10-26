@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.18625v2](http://arxiv.org/abs/2610.18625v2)
 
+## Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms
+- **ID**: arxiv_2610.32945v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32945v1](http://arxiv.org/abs/2610.32945v1)
+

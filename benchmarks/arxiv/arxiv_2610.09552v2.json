@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.09552v2",
+  "schema_version": "1.0",
+  "name": "Constitution-Guided Watermarking",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.09552v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.09552v2",
+    "updated": "2026-10-23T16:12:04Z",
+    "published": "2026-10-07T06:50:47Z",
+    "title": "Constitution-Guided Watermarking",
+    "summary": "Regulation such as the EU AI Act requires providers of language models to mark generated text in a machine-readable way. Watermarking meets this requirement by embedding a secret-key signal during generation, so the provider can later detect its model's text. A watermark should stay detectable, preserve quality and survive paraphrasing, but a stronger signal survives more paraphrasing and distorts more text. Providers resolve this trade-off with one configuration for all requests, although a provider may want robustness for misuse-prone requests and no watermark for editing assistance, which the EU AI Act exempts. We introduce \\emph{constitution-guided watermarking}, in which the provider states these requirements as natural-language rules, a \\emph{watermark constitution}, and each request receives its rule's configuration. Offline, a reasoning agent reads the rules and the watermark code and refines each rule's configuration from measured detection, quality and robustness. At deployment, a monitor routes each prompt to its rule's configuration without modifying the serving model. Each configuration is stored with its evidence, so the provider can audit every deployment decision, including unmet requirements. Our evaluation with the KGW watermark shows that (i) on misuse-prone requests, the framework detects more paraphrased text than fixed configurations and random search at matching clean detection and quality, (ii) it exempts all editing requests, and (iii) changing the stated priorities shifts the selected configuration as intended.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T16:12:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.09552v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

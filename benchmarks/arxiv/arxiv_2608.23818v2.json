@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.23818v2",
+  "schema_version": "1.0",
+  "name": "Beyond Static and Linear: What Attention Constraints Best Fit Human Reading Times?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.23818v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.23818v2",
+    "updated": "2026-10-23T17:08:52Z",
+    "published": "2026-08-24T20:54:29Z",
+    "title": "Beyond Static and Linear: What Attention Constraints Best Fit Human Reading Times?",
+    "summary": "Transformer-based language models are widely used as models of human language processing, yet their attention mechanisms allow lossless access to the full preceding context, unlike the limited memory systems of humans. We hypothesize that installing memory constraints into transformers' attention mechanisms can improve their fit to human behavioral data. While previous work has explored individual constraints in isolation, we conduct a systematic comparison of multiple attention-based memory mechanisms across different model sizes and training corpora, evaluating both psychometric predictive power for human reading times and grammatical competence. We additionally compare static constraints, in which the constraint strength is fixed throughout training, to dynamic memory curricula. We find that constraints that are sensitive to the content of intervening tokens consistently achieve the highest alignment with human reading times, outperforming distance-based constraints. We observe a dissociation between psychometric fit and grammatical competence under dynamic memory curricula, suggesting that Transformers cannot serve as a one-size-fits-all cognitive model.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-26T03:16:07Z",
+  "last_updated": "2026-10-23T17:08:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.23818v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

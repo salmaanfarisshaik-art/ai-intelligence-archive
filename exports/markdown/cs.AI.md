@@ -70,6 +70,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.04997v3](http://arxiv.org/abs/2505.04997v3)
 
+## MEDMKG: Benchmarking Medical Knowledge Exploitation with Multimodal Knowledge Graph
+- **ID**: arxiv_2505.17214v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.17214v2](http://arxiv.org/abs/2505.17214v2)
+
 ## How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
 - **ID**: arxiv_2508.01300v2
 - **Source**: ArXiv
@@ -3325,6 +3330,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.24974v1](http://arxiv.org/abs/2609.24974v1)
 
+## When Clinical Judgment Becomes a Predictive Shortcut: Two Questions Clinical AI Must Answer Before Deployment
+- **ID**: arxiv_2609.25852v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.25852v2](http://arxiv.org/abs/2609.25852v2)
+
 ## Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It
 - **ID**: arxiv_2609.26758v1
 - **Source**: ArXiv
@@ -4374,4 +4384,44 @@
 - **ID**: arxiv_2610.31667v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31667v1](http://arxiv.org/abs/2610.31667v1)
+
+## Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves
+- **ID**: arxiv_2610.32851v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32851v1](http://arxiv.org/abs/2610.32851v1)
+
+## A Foundation Model for Policy In-Context Longitudinal Causal Effect Estimation
+- **ID**: arxiv_2610.32863v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32863v1](http://arxiv.org/abs/2610.32863v1)
+
+## From Deliberately Constructed Systemic Representations of the World of Activity to Dialogue: A Five-Level Communication Architecture for Strong Language-Based ASI
+- **ID**: arxiv_2610.32869v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32869v1](http://arxiv.org/abs/2610.32869v1)
+
+## Do "True" and "False" Add Up to One? Complement Consistency in LLM-Agent Opinion Simulations
+- **ID**: arxiv_2610.32874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32874v1](http://arxiv.org/abs/2610.32874v1)
+
+## Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
+- **ID**: arxiv_2610.32878v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32878v1](http://arxiv.org/abs/2610.32878v1)
+
+## NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding
+- **ID**: arxiv_2610.32881v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32881v1](http://arxiv.org/abs/2610.32881v1)
+
+## Closing the Modality Gap via Simplex-Constrained Representations
+- **ID**: arxiv_2610.32890v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32890v1](http://arxiv.org/abs/2610.32890v1)
+
+## SemantEq: Faithful Bidirectional Equivalence of Formal Statements
+- **ID**: arxiv_2610.32919v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32919v1](http://arxiv.org/abs/2610.32919v1)
 
