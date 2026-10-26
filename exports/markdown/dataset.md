@@ -1096,6 +1096,12 @@
 - **URL**: [https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations](https://huggingface.co/datasets/james-ra-henry/Rosetta-Activations)
 - **Tags**: activations, concept-vectors, doi:10.57967/hf/9725, format:json, language:en, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, mechanistic-interpretability, modality:tabular, modality:text, probes, region:us, size_categories:n<1K, transformers
 
+## mickeykang/Event6DBlender
+- **ID**: hf_ds_6a041befe1a5a3103b518efb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/mickeykang/Event6DBlender](https://huggingface.co/datasets/mickeykang/Event6DBlender)
+- **Tags**: 6d-pose, blender, event-camera, gso, license:cc-by-nc-4.0, region:us, synthetic, task_categories:object-detection
+
 ## Dagonulca/figofigofigofigo
 - **ID**: hf_ds_6a04fe32c08e541d106bc6fe
 - **Source**: HuggingFace Datasets

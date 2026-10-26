@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T09:44:23Z",
+  "generated_at": "2026-10-26T16:31:21Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2202,6 +2202,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_davidau_lfm2_5_24b_a2b_turbo_brilliance_50x_neo_max_imatrix_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_davidau_lfm2_5_2_6b_qwen3_8_turbo_brilliance_power_x12_neo_max_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-2.6B",
       "type": "derived_from"
@@ -3357,6 +3362,16 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_internscience_sage_a1_5_q4_k_m_gguf",
+      "target_id": "hf_InternScience_Sage-A1.5",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_internscience_sage_a1_5_q8_0_gguf",
+      "target_id": "hf_InternScience_Sage-A1.5",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ista_daslab_deepseek_v4_1_flash_1017_gsq_rco_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
       "type": "derived_from"
@@ -3649,6 +3664,16 @@
     {
       "source_id": "model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class",
       "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_kujira_underdog_saluki_27b_1_0_mtp_abliterated_gguf",
+      "target_id": "hf_ConwayResearch_Underdog-Saluki-27B-1.0",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_kujira_underdog_saluki_27b_1_0_mtp_gguf",
+      "target_id": "hf_ConwayResearch_Underdog-Saluki-27B-1.0",
       "type": "derived_from"
     },
     {
@@ -4867,6 +4892,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_memtensor_memt_1_0_flash",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_menlo_jan_nano_128k",
       "target_id": "hf_Menlo_Jan-nano",
       "type": "derived_from"
@@ -5630,6 +5660,21 @@
       "source_id": "model_nvidia_mistral_nemo_minitron_8b_instruct",
       "target_id": "hf_nvidia_Mistral-NeMo-Minitron-8B-Base",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-E4B-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
     },
     {
       "source_id": "model_nvidia_nvidia_nemotron_3_5_lightning_30b_a3b_base_bf16",
@@ -6859,6 +6904,11 @@
     {
       "source_id": "model_os_software_ternary_bonsai_2_27b_uncensored_heretic_v2_gguf",
       "target_id": "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_osaurusai_diplodocus_preview_gguf",
+      "target_id": "hf_IFM_K2-Horizon-7B",
       "type": "derived_from"
     },
     {
@@ -9424,6 +9474,11 @@
     {
       "source_id": "model_unsloth_ornith_1_0_9b_gguf",
       "target_id": "hf_ornith-ai_Ornith-1.0-9B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_unsloth_ornith_1_5_122b_gguf",
+      "target_id": "hf_ornith-ai_Ornith-1.5-122B",
       "type": "derived_from"
     },
     {

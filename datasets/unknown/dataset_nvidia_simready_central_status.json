@@ -1,0 +1,27 @@
+{
+  "_id": "6ad7032c0dcbe3d8345c61ae",
+  "id": "nvidia/simready-central-status",
+  "author": "nvidia",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-20T05:59:09.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "cad2b96b263cc019d39ce7ff5ce0a594052517df",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tSimReady Central capacity level\n\t\n\nstatus.json sets the HF Space's capacity level: {\"level\": 0-4, \"message\"?: \"...\"}.\n0 normal, 1 busy, 2 heavy load (vision checks paused), 3 very heavy (no query parsing, stills only), 4 read-only.\nThe Space's UI reads it every minute.\n",
+  "downloads": 33554,
+  "tags": [
+    "license:apache-2.0",
+    "size_categories:n<1K",
+    "format:json",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-10-20T05:59:08.000Z",
+  "key": "",
+  "unique_id": "dataset_nvidia_simready_central_status",
+  "schema_version": "1.0"
+}

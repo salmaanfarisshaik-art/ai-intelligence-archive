@@ -9,7 +9,7 @@
   "private": false,
   "sha": "70e7170cd6074210640cd8ebc0d9a0fb9ce3c28f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUrbanVerse-Assets-Sim-ready\n\t\n\nSimulation-ready USD conversions of the UrbanVerse-100K\n3D asset database, for NVIDIA Isaac Sim ≥ 5 / Isaac Lab.\nProject: UrbanVerse: Scaling Urban Simulation by Watching City-Tour Videos (ICLR 2026) ·\nCode: VAIL-UCLA/UrbanVerse\n\n\t\n\t\t\n\t\n\t\n\t\tWhat \"sim-ready\" means here\n\t\n\nEach asset was converted from its metric, ground-aligned GLB\n(adjusted_asset_scaled_bottomed.glb) with Isaac Lab's MeshConverter and validated\nagainst the source mesh:\n\n\t\n\t\t\nproperty… See the full description on the dataset page: https://huggingface.co/datasets/UCLA-VAIL/UrbanVerse-Assets-Sim-ready.",
-  "downloads": 114078,
+  "downloads": 114117,
   "tags": [
     "task_categories:robotics",
     "license:odc-by",

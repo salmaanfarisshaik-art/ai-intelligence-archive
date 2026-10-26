@@ -1,0 +1,29 @@
+{
+  "_id": "6a033dc0bb83f6be918e5dae",
+  "id": "mickeykang/Event6D",
+  "author": "mickeykang",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-23T07:09:29.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "fc48870b90a25c673027f878b8f93d495db29f6f",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvent6D Dataset (Real-World Capture)\n\t\n\nReal-world hand-held capture used as the primary test set in\nEvent6D (CVPR 2026).\nHand-held capture of 16 daily YCB-style objects from random viewpoints and motions.\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nSplit\nSequences\nObjects\nList\n\n\n\t\t\ntest\n14 (one per object)\n14\ntest.txt\n\n\ntrain\n37\n16 (adds clamp, pudding)\ntrain.txt\n\n\n\t\n\nThe paper evaluates on the test split only; models are trained on the synthetic\nEventBlender6D data and\nnever see the real train… See the full description on the dataset page: https://huggingface.co/datasets/mickeykang/Event6D.",
+  "downloads": 48873,
+  "tags": [
+    "task_categories:object-detection",
+    "license:cc-by-nc-4.0",
+    "size_categories:n<1K",
+    "modality:image",
+    "modality:text",
+    "region:us",
+    "6d-pose",
+    "event-camera",
+    "novel-object",
+    "rgbd"
+  ],
+  "createdAt": "2026-05-12T14:48:32.000Z",
+  "key": "",
+  "unique_id": "dataset_mickeykang_event6d",
+  "schema_version": "1.0"
+}

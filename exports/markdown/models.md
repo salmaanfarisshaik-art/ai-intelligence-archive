@@ -2048,6 +2048,10 @@
 - **ID**: model_hai929_the_guagellm_23m
 - **Source**: 
 
+## haoranxu/ALMA-7B-R
+- **ID**: model_haoranxu_alma_7b_r
+- **Source**: 
+
 ## HerrHruby/MR_midtrain_9B_v3
 - **ID**: model_herrhruby_mr_midtrain_9b_v3
 - **Source**: 
@@ -3720,6 +3724,10 @@
 - **ID**: model_microsoft_vibevoice_1_5b
 - **Source**: 
 
+## mikeinnyc/Qwen3.8-27B-GPTQ-Int4-sym-G128-MTP-BF16
+- **ID**: model_mikeinnyc_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16
+- **Source**: 
+
 ## Milos/slovak-gpt-j-405M
 - **ID**: model_milos_slovak_gpt_j_405m
 - **Source**: 
@@ -4848,6 +4856,10 @@
 - **ID**: model_petals_team_stablebeluga2
 - **Source**: 
 
+## pfnet/plamo-2.1-2b-vl
+- **ID**: model_pfnet_plamo_2_1_2b_vl
+- **Source**: 
+
 ## pfnet/plamo-2-1b
 - **ID**: model_pfnet_plamo_2_1b
 - **Source**: 
@@ -5962,6 +5974,10 @@
 
 ## rinna/japanese-gpt-neox-small
 - **ID**: model_rinna_japanese_gpt_neox_small
+- **Source**: 
+
+## RoadToNowhere/Qwen3-32B-abliterated-Q4_K_M-GGUF
+- **ID**: model_roadtonowhere_qwen3_32b_abliterated_q4_k_m_gguf
 - **Source**: 
 
 ## roneneldan/TinyStories-1M
@@ -7330,6 +7346,10 @@
 
 ## williamliao/gemma-4-26B-A4B-it-speculator.eagle3-F16-GGUF
 - **ID**: model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf
+- **Source**: 
+
+## win10/EVE-27b-XENO-HAT-DeepSeek-V4-Flash
+- **ID**: model_win10_eve_27b_xeno_hat_deepseek_v4_flash
 - **Source**: 
 
 ## windowsxp811203/Qwen3.8-Flash-Next-Abliterated-GGUF

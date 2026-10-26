@@ -325838,6 +325838,32 @@
     "local_path": "datasets/james-ra-henry/hf_ds_6a000179f854441c31227673.json"
   },
   {
+    "id": "hf_ds_6a041befe1a5a3103b518efb",
+    "title": "mickeykang/Event6DBlender",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "6d-pose",
+      "blender",
+      "event-camera",
+      "gso",
+      "license:cc-by-nc-4.0",
+      "region:us",
+      "synthetic",
+      "task_categories:object-detection"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/mickeykang"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/mickeykang/Event6DBlender",
+    "local_path": "datasets/mickeykang/hf_ds_6a041befe1a5a3103b518efb.json"
+  },
+  {
     "id": "hf_ds_6a04fe32c08e541d106bc6fe",
     "title": "Dagonulca/figofigofigofigo",
     "category": "dataset",
@@ -348149,6 +348175,16 @@
     "local_path": "models/hai929/model_hai929_the_guagellm_23m.json"
   },
   {
+    "id": "model_haoranxu_alma_7b_r",
+    "title": "haoranxu/ALMA-7B-R",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/haoranxu/model_haoranxu_alma_7b_r.json"
+  },
+  {
     "id": "model_herrhruby_mr_midtrain_9b_v3",
     "title": "HerrHruby/MR_midtrain_9B_v3",
     "category": "models",
@@ -352329,6 +352365,16 @@
     "local_path": "models/microsoft/model_microsoft_vibevoice_1_5b.json"
   },
   {
+    "id": "model_mikeinnyc_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16",
+    "title": "mikeinnyc/Qwen3.8-27B-GPTQ-Int4-sym-G128-MTP-BF16",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/mikeinnyc/model_mikeinnyc_qwen3_8_27b_gptq_int4_sym_g128_mtp_bf16.json"
+  },
+  {
     "id": "model_milos_slovak_gpt_j_405m",
     "title": "Milos/slovak-gpt-j-405M",
     "category": "models",
@@ -355149,6 +355195,16 @@
     "local_path": "models/petals-team/model_petals_team_stablebeluga2.json"
   },
   {
+    "id": "model_pfnet_plamo_2_1_2b_vl",
+    "title": "pfnet/plamo-2.1-2b-vl",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/pfnet/model_pfnet_plamo_2_1_2b_vl.json"
+  },
+  {
     "id": "model_pfnet_plamo_2_1b",
     "title": "pfnet/plamo-2-1b",
     "category": "models",
@@ -357937,6 +357993,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/rinna/model_rinna_japanese_gpt_neox_small.json"
+  },
+  {
+    "id": "model_roadtonowhere_qwen3_32b_abliterated_q4_k_m_gguf",
+    "title": "RoadToNowhere/Qwen3-32B-abliterated-Q4_K_M-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/roadtonowhere/model_roadtonowhere_qwen3_32b_abliterated_q4_k_m_gguf.json"
   },
   {
     "id": "model_roneneldan_tinystories_1m",
@@ -361357,6 +361423,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/williamliao/model_williamliao_gemma_4_26b_a4b_it_speculator_eagle3_f16_gguf.json"
+  },
+  {
+    "id": "model_win10_eve_27b_xeno_hat_deepseek_v4_flash",
+    "title": "win10/EVE-27b-XENO-HAT-DeepSeek-V4-Flash",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/win10/model_win10_eve_27b_xeno_hat_deepseek_v4_flash.json"
   },
   {
     "id": "model_windowsxp811203_qwen3_8_flash_next_abliterated_gguf",
@@ -641573,6 +641649,21 @@
     },
     "source_url": "https://openai.com/index/fanatics-betting-gaming-andrea-ellis",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_fanatics-betting-gaming-andrea-ellis.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/fanatics-streamline-fan-experience",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_fanatics-streamline-fan-experience.json"
   },
   {
     "id": "rss_https://openai.com/index/faster-physics-in-python",

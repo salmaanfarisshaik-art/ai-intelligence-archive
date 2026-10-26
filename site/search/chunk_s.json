@@ -6265,6 +6265,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_memtensor_memt_1_0_flash",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_menlo_jan_nano_128k",
       "match_type": "exact",
       "score": 1.5
@@ -7411,6 +7416,11 @@
     },
     {
       "entity_id": "model_openbmb_minicpm5_2b_mlx",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_openbmb_minicpm_v_4_7_35b_a3b_dspark",
       "match_type": "exact",
       "score": 1.5
     },
@@ -12067,6 +12077,16 @@
       "score": 5.0
     },
     {
+      "entity_id": "model_internscience_sage_a1_5_q4_k_m_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_internscience_sage_a1_5_q8_0_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "dataset_tranxxx_charvastamy",
       "match_type": "exact",
       "score": 4.0
@@ -16207,6 +16227,16 @@
     }
   ],
   "saluki": [
+    {
+      "entity_id": "model_kujira_underdog_saluki_27b_1_0_mtp_abliterated_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_kujira_underdog_saluki_27b_1_0_mtp_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
     {
       "entity_id": "model_conwayresearch_underdog_saluki_27b_1_0",
       "match_type": "exact",
@@ -59194,6 +59224,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_mueller91_mlaad",
       "match_type": "exact",
       "score": 2.0
@@ -62065,6 +62100,11 @@
     },
     {
       "entity_id": "dataset_hails_agieval_lsat_lr",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hakari_bench_results",
       "match_type": "exact",
       "score": 1.0
     },
@@ -66745,6 +66785,11 @@
     },
     {
       "entity_id": "hf_ds_6a000179f854441c31227673",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -99515,6 +99560,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_6a307dae8e258cbed418ec58",
       "match_type": "exact",
       "score": 1.0
@@ -100891,6 +100941,11 @@
     },
     {
       "entity_id": "dataset_meibo002114_fip1",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mickeykang_event6d",
       "match_type": "exact",
       "score": 1.0
     },
@@ -112547,6 +112602,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_microsoft_notsofar",
       "match_type": "exact",
       "score": 1.0
@@ -113485,6 +113545,11 @@
     },
     {
       "entity_id": "dataset_meta_math_metamathqa",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_nvidia_simready_central_status",
       "match_type": "exact",
       "score": 1.0
     },
@@ -131743,6 +131808,11 @@
       "entity_id": "rss_https://openai.com/index/buy-it-in-chatgpt",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/fanatics-streamline-fan-experience",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "shopify": [
@@ -134875,6 +134945,11 @@
     },
     {
       "entity_id": "dataset_jerrychi_finerva",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_jumuunhaan_copyright_videos_dataset",
       "match_type": "exact",
       "score": 1.0
     },
@@ -142894,6 +142969,11 @@
     },
     {
       "entity_id": "alpaca_9091472915277858374",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/fanatics-streamline-fan-experience",
       "match_type": "exact",
       "score": 1.0
     }
@@ -155671,6 +155751,11 @@
       "entity_id": "dataset_yootta_world_simready_home",
       "match_type": "exact",
       "score": 3.5
+    },
+    {
+      "entity_id": "dataset_nvidia_simready_central_status",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "simscan": [
@@ -155947,6 +156032,11 @@
     },
     {
       "entity_id": "hf_ds_692ecca11aad0a1d75ac057c",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
       "match_type": "exact",
       "score": 1.0
     },
@@ -168889,6 +168979,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_kaiqing_deepvrm_training_data",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_kantor3_cads_dataset",
       "match_type": "exact",
       "score": 1.5
@@ -169729,6 +169824,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_microsoft_ms_marco",
       "match_type": "exact",
       "score": 1.5
@@ -170079,6 +170179,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_nicknock12_a2a_knowledges",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_nicoboou_idrcell100k",
       "match_type": "exact",
       "score": 1.5
@@ -170230,6 +170335,11 @@
     },
     {
       "entity_id": "dataset_nvidia_simready_assets",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_nvidia_simready_central_status",
       "match_type": "exact",
       "score": 1.5
     },
@@ -171069,11 +171179,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_robeedau_airlens_live",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_robotooldataset_tooldex_data",
       "match_type": "exact",
       "score": 1.5
@@ -171605,6 +171710,11 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -174165,6 +174275,11 @@
     },
     {
       "entity_id": "model_mixedbread_ai_mxbai_rerank_large_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
       "match_type": "exact",
       "score": 1.5
     },
@@ -334923,6 +335038,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_speakleash_bielik_11b_v3_0_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -383986,6 +384106,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_jumuunhaan_copyright_videos_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_kapilrao_sec_edgar",
       "match_type": "exact",
       "score": 1.0
@@ -388418,6 +388543,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_nvidia_simready_central_status",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_snad_space_us_names_by_state",
       "match_type": "exact",
       "score": 2.0
@@ -389555,6 +389685,11 @@
     },
     {
       "entity_id": "dataset_deepseekoracle_lattice_marines_wins",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hakari_bench_results",
       "match_type": "exact",
       "score": 1.0
     },
@@ -400208,6 +400343,16 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_kujira_underdog_saluki_27b_1_0_mtp_abliterated_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_kujira_underdog_saluki_27b_1_0_mtp_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_lightseekorg_kimi_k2_5_eagle3_mla",
       "match_type": "exact",
       "score": 1.5
@@ -407384,6 +407529,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_prasatee_lines_dataset",
       "match_type": "exact",
       "score": 2.0
@@ -408069,6 +408219,11 @@
     },
     {
       "entity_id": "dataset_lerobot_pusht",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mickeykang_event6d",
       "match_type": "exact",
       "score": 1.0
     },
@@ -411241,6 +411396,11 @@
     }
   ],
   "spreadsheets": [
+    {
+      "entity_id": "model_osaurusai_diplodocus_preview_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "alpaca_-83391400797141690",
       "match_type": "exact",
@@ -432993,6 +433153,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_nvidia_simready_central_status",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_open_llm_leaderboard_old_requests",
       "match_type": "exact",
       "score": 1.0
@@ -441910,6 +442075,13 @@
       "score": 1.0
     }
   ],
+  "stills": [
+    {
+      "entity_id": "dataset_nvidia_simready_central_status",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "stimulant": [
     {
       "entity_id": "alpaca_8734051978623610622",
@@ -448354,6 +448526,11 @@
     },
     {
       "entity_id": "dataset_bytedance_seed_multi_swe_bench_trajs",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_hakari_bench_results",
       "match_type": "exact",
       "score": 1.0
     },
@@ -459072,6 +459249,11 @@
   ],
   "streamline": [
     {
+      "entity_id": "rss_https://openai.com/index/fanatics-streamline-fan-experience",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "alpaca_-1139948278115222704",
       "match_type": "exact",
       "score": 1.0
@@ -459585,6 +459767,11 @@
     },
     {
       "entity_id": "dataset_worldengineai_web_dataset",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
       "match_type": "exact",
       "score": 1.0
     }
@@ -478515,6 +478702,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nakas_nbm_conus_analysis",
       "match_type": "exact",
       "score": 1.0
@@ -481214,6 +481406,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_hakari_bench_results",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_harborframework_terminal_bench_2_leaderboard",
       "match_type": "exact",
       "score": 1.0
@@ -482025,6 +482222,11 @@
     },
     {
       "entity_id": "dataset_ruoliuyang_ulvr_subset",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
       "match_type": "exact",
       "score": 2.0
     },
@@ -514172,6 +514374,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "model_davidau_lfm2_5_24b_a2b_turbo_brilliance_50x_neo_max_imatrix_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "alpaca_-2720682670100608193",
       "match_type": "exact",
       "score": 1.0
@@ -528313,6 +528520,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_nvidia_nvidia_nemotron_3_nano_30b_a3b_base_bf16",
       "match_type": "exact",
       "score": 1.5
@@ -537190,6 +537402,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_mickeykang_event6d",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_mueller91_replaydf",
       "match_type": "exact",
       "score": 1.0
@@ -537256,6 +537473,11 @@
     },
     {
       "entity_id": "hf_ds_69f0c6101cc98d8ac04c03cd",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a041befe1a5a3103b518efb",
       "match_type": "exact",
       "score": 1.0
     }

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8e04ef80e128c12d20ffa2d97e039027722f458d",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tSIE task evidence\n\t\n\nThe recorded inputs and model responses behind the task pages on\nsuperlinked.com, one folder per task.\nEvery figure published on a task page was produced by a real recorded run against\nhttps://api.superlinked.com, or, for some tasks (typed-decisions among them),\nagainst a self-hosted SIE server at a pinned commit on the GPU that task's\nmanifest.json records. This dataset holds those recordings so that anyone\ncan re-derive the published numbers without an API… See the full description on the dataset page: https://huggingface.co/datasets/superlinked/sie-task-evidence.",
-  "downloads": 53101,
+  "downloads": 53274,
   "tags": [
     "license:other",
     "region:us",
