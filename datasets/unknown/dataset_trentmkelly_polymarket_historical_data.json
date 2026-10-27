@@ -4,10 +4,10 @@
   "author": "trentmkelly",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-27T13:57:58.000Z",
+  "lastModified": "2026-10-27T19:13:26.000Z",
   "likes": 9,
   "private": false,
-  "sha": "41f19daba45a82e59c5359452dfd912ad864f462",
+  "sha": "72281255f9161456b9f55dc9de2e332c0e746ca3",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tPolymarket Historical Data\n\t\n\nFrequently collected Polymarket market data stored as Zstandard-compressed\nParquet. New batches are collected approximately every five minutes and\npartitioned by product, date, and collection run. Public upload of collected\ndata began on July 23rd, 2026.\n\n\t\n\t\t\n\t\n\t\n\t\tData Products\n\t\n\n\nmarket_snapshots: best bid/ask, full book JSON, outcome, asset ID, source\ntiming, and collection timing.\norder_book_depth: normalized bid and ask levels with price, size… See the full description on the dataset page: https://huggingface.co/datasets/trentmkelly/polymarket_historical_data.",
   "downloads": 34339,
   "tags": [

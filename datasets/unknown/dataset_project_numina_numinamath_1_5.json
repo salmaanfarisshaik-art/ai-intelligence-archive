@@ -14,6 +14,13 @@
     "task_categories:text-generation",
     "language:en",
     "license:apache-2.0",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
     "region:us",
     "math",
     "post-training"

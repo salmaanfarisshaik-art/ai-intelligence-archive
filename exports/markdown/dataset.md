@@ -1202,7 +1202,7 @@
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)
-- **Tags**: modality:image, region:us, size_categories:n<1K
+- **Tags**: license:cc-by-4.0, region:us
 
 ## StringFellow/fusion-dw
 - **ID**: hf_ds_6a44a4c981d12be393e7749d

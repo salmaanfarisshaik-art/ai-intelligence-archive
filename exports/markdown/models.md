@@ -40,6 +40,10 @@
 - **ID**: model_abenzerps_spark_x2_5_4b_gguf
 - **Source**: 
 
+## Abiray/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-IQ2_XXS-GGUF
+- **ID**: model_abiray_deepseek_v4_1_flash_1017_uncensored_gsq_rco_iq2_xxs_gguf
+- **Source**: 
+
 ## ACE-Step/acestep-5Hz-lm-4B
 - **ID**: model_ace_step_acestep_5hz_lm_4b
 - **Source**: 
@@ -630,6 +634,10 @@
 
 ## bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF
 - **ID**: model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf
+- **Source**: 
+
+## bartowski/Nanbeige_Nanbeige4.3-33B-GGUF
+- **ID**: model_bartowski_nanbeige_nanbeige4_3_33b_gguf
 - **Source**: 
 
 ## bartowski/NemoMix-Unleashed-12B-GGUF
@@ -1446,6 +1454,10 @@
 
 ## dgpl/dgpl-experimental-1
 - **ID**: model_dgpl_dgpl_experimental_1
+- **Source**: 
+
+## DICPlay/RusMind-Momentum
+- **ID**: model_dicplay_rusmind_momentum
 - **Source**: 
 
 ## dicta-il/DictaLM-3.0-1.7B-Instruct
@@ -3284,6 +3296,10 @@
 - **ID**: model_maidacundo_open_mythos_140m
 - **Source**: 
 
+## ManniX-ITA/JackOD-9B-Coder-MTP-GGUF
+- **ID**: model_mannix_ita_jackod_9b_coder_mtp_gguf
+- **Source**: 
+
 ## ManniX-ITA/Qwen3.6-27B-A3B-Coder-MTP-GGUF
 - **ID**: model_mannix_ita_qwen3_6_27b_a3b_coder_mtp_gguf
 - **Source**: 
@@ -3554,6 +3570,10 @@
 
 ## MemTensor/MemT-1.0-Flash
 - **ID**: model_memtensor_memt_1_0_flash
+- **Source**: 
+
+## MemTensor/MemT-1.0-Nano
+- **ID**: model_memtensor_memt_1_0_nano
 - **Source**: 
 
 ## Menlo/Jan-nano-128k
@@ -3906,6 +3926,10 @@
 
 ## mmangkad/Qwen3.6-35B-A3B-NVFP4
 - **ID**: model_mmangkad_qwen3_6_35b_a3b_nvfp4
+- **Source**: 
+
+## mobilint/Qwen3-VL-2B-Instruct
+- **ID**: model_mobilint_qwen3_vl_2b_instruct
 - **Source**: 
 
 ## Model-SafeTensors/L3-Aethora-15B
@@ -4834,6 +4858,10 @@
 
 ## parler-tts/parler-tts-mini-multilingual-v1.1
 - **ID**: model_parler_tts_parler_tts_mini_multilingual_v1_1
+- **Source**: 
+
+## patrickbdevaney/GLM-5.3-Flash-REAP50-GGUF
+- **ID**: model_patrickbdevaney_glm_5_3_flash_reap50_gguf
 - **Source**: 
 
 ## pbatra/DeepSeek-R1-Distill-Qwen-14B-GGUF
@@ -5802,6 +5830,10 @@
 
 ## ReadyArt/gemma-4-31B-it-scotoma-2-GGUF
 - **ID**: model_readyart_gemma_4_31b_it_scotoma_2_gguf
+- **Source**: 
+
+## RecursiveSI/flint-int4-gguf
+- **ID**: model_recursivesi_flint_int4_gguf
 - **Source**: 
 
 ## RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16
@@ -7238,6 +7270,10 @@
 
 ## unsloth/Qwen3-Next-80B-A3B-Instruct-GGUF
 - **ID**: model_unsloth_qwen3_next_80b_a3b_instruct_gguf
+- **Source**: 
+
+## unsloth/Qwen3-Next-80B-A3B-Thinking-GGUF
+- **ID**: model_unsloth_qwen3_next_80b_a3b_thinking_gguf
 - **Source**: 
 
 ## unsloth/Qwen-AgentWorld-35B-A3B-GGUF

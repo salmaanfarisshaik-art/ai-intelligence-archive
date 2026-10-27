@@ -1641,6 +1641,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_daimonrobotics_daimon_infinity
+- **Source**: 
+
+## 
 - **ID**: dataset_dair_ai_emotion
 - **Source**: 
 
@@ -3078,6 +3082,10 @@
 
 ## 
 - **ID**: dataset_hostip51_js
+- **Source**: 
+
+## 
+- **ID**: dataset_hotchpotch_s1mb_result
 - **Source**: 
 
 ## 
@@ -7449,6 +7457,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_otika234_vicky
+- **Source**: 
+
+## 
 - **ID**: dataset_p2samapa_p2_etf_samba_models
 - **Source**: 
 
@@ -7774,6 +7786,14 @@
 
 ## 
 - **ID**: dataset_project_agml_tom2024_disease_classification
+- **Source**: 
+
+## 
+- **ID**: dataset_project_numina_numinamath_1_5
+- **Source**: 
+
+## 
+- **ID**: dataset_project_numina_numinamath_cot
 - **Source**: 
 
 ## 
@@ -8514,6 +8534,10 @@
 
 ## 
 - **ID**: dataset_siril_spcc_gaia
+- **Source**: 
+
+## 
+- **ID**: dataset_sisap_challenges_sisap2025
 - **Source**: 
 
 ## 
@@ -9269,6 +9293,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_tysyuvraj_baseline
+- **Source**: 
+
+## 
 - **ID**: dataset_tz1002_llava_onevision_1_5_mid_training_85m
 - **Source**: 
 
@@ -9766,6 +9794,10 @@
 
 ## 
 - **ID**: dataset_yanfang_sc_wds
+- **Source**: 
+
+## 
+- **ID**: dataset_yangnanami_wanxiang
 - **Source**: 
 
 ## 

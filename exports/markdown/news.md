@@ -891,6 +891,11 @@
 - **URL**: [https://openai.com/index/an-alien-mind](https://openai.com/index/an-alien-mind)
 
 ## 
+- **ID**: rss_https://openai.com/index/anima
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/anima](https://openai.com/index/anima)
+
+## 
 - **ID**: rss_https://openai.com/index/announcing-devday-2025
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/announcing-devday-2025](https://openai.com/index/announcing-devday-2025)
@@ -5109,6 +5114,11 @@
 - **ID**: rss_https://openai.com/index/oracle
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/oracle](https://openai.com/index/oracle)
+
+## 
+- **ID**: rss_https://openai.com/index/oracle-apps-in-chatgpt
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/oracle-apps-in-chatgpt](https://openai.com/index/oracle-apps-in-chatgpt)
 
 ## 
 - **ID**: rss_https://openai.com/index/organizational-update
