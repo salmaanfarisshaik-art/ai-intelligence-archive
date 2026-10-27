@@ -323133,6 +323133,30 @@
     "local_path": "datasets/wingnus/hf_ds_6374015cc3b104ef17a000f2.json"
   },
   {
+    "id": "hf_ds_63977bb96bdef8095268ded0",
+    "title": "allenai/objaverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2212.08051",
+      "language:en",
+      "license:odc-by",
+      "modality:3d",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/allenai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/allenai/objaverse",
+    "local_path": "datasets/allenai/hf_ds_63977bb96bdef8095268ded0.json"
+  },
+  {
     "id": "hf_ds_63a02c28f3334a6553d23fe0",
     "title": "bigcode/the-stack-metadata",
     "category": "dataset",
@@ -328081,6 +328105,25 @@
     },
     "source_url": "https://huggingface.co/datasets/Syn4D/Syn4D",
     "local_path": "datasets/syn4d/hf_ds_6a382f6fa519cd301493b37b.json"
+  },
+  {
+    "id": "hf_ds_6a429172c50c64cfb0a54dfb",
+    "title": "nvidia/simready-assets",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "modality:image",
+      "region:us",
+      "size_categories:n<1K"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/nvidia/simready-assets",
+    "local_path": "datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json"
   },
   {
     "id": "hf_ds_6a44a4c981d12be393e7749d",
@@ -341627,8 +341670,52 @@
     "title": "nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "arxiv:2512.20848",
+      "arxiv:2512.20856",
+      "conversational",
+      "custom_code",
+      "dataset:nvidia/Nemotron-3-Nano-RL-Training-Blend",
+      "dataset:nvidia/Nemotron-Agentic-v1",
+      "dataset:nvidia/Nemotron-CC-Code-v1",
+      "dataset:nvidia/Nemotron-CC-Math-v1",
+      "dataset:nvidia/Nemotron-CC-v2",
+      "dataset:nvidia/Nemotron-CC-v2.1",
+      "dataset:nvidia/Nemotron-Competitive-Programming-v1",
+      "dataset:nvidia/Nemotron-Instruction-Following-Chat-v1",
+      "dataset:nvidia/Nemotron-Math-Proofs-v1",
+      "dataset:nvidia/Nemotron-Math-v2",
+      "dataset:nvidia/Nemotron-Pretraining-Code-v1",
+      "dataset:nvidia/Nemotron-Pretraining-Code-v2",
+      "dataset:nvidia/Nemotron-Pretraining-Dataset-sample",
+      "dataset:nvidia/Nemotron-Pretraining-SFT-v1",
+      "dataset:nvidia/Nemotron-Pretraining-Specialized-v1",
+      "dataset:nvidia/Nemotron-Science-v1",
+      "de",
+      "deploy:azure",
+      "deploy:sagemaker",
+      "en",
+      "endpoints_compatible",
+      "es",
+      "eval-results",
+      "fr",
+      "it",
+      "ja",
+      "license:other",
+      "nemotron_h",
+      "nvidia",
+      "pytorch",
+      "region:us",
+      "safetensors",
+      "text-generation",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
     "local_path": "models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16.json"
   },

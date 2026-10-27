@@ -422,6 +422,11 @@
       "entity_id": "dataset_allenai_objaverse",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_63977bb96bdef8095268ded0",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "800m": [
@@ -526,6 +531,11 @@
     },
     {
       "entity_id": "model_unsloth_qwen3_next_80b_a3b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_unsloth_qwen3_next_80b_a3b_thinking_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -1561,6 +1571,11 @@
   "860k": [
     {
       "entity_id": "dataset_ai_mo_numinamath_cot",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_project_numina_numinamath_cot",
       "match_type": "exact",
       "score": 1.0
     },

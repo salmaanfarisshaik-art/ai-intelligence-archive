@@ -23557,6 +23557,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_63977bb96bdef8095268ded0",
+      "target": "datasets/allenai"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_63a02c28f3334a6553d23fe0",
       "target": "datasets/bigcode"
     },
@@ -24406,7 +24411,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-27T07:21:49.749923+00:00",
+  "generated_at": "2026-10-27T13:58:29.720561+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -168517,6 +168522,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_63977bb96bdef8095268ded0",
+      "label": "allenai/objaverse"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_63a02c28f3334a6553d23fe0",
       "label": "bigcode/the-stack-metadata"
     },
@@ -169389,6 +169399,11 @@
       "category": "dataset",
       "id": "hf_ds_6a382f6fa519cd301493b37b",
       "label": "Syn4D/Syn4D"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a429172c50c64cfb0a54dfb",
+      "label": "nvidia/simready-assets"
     },
     {
       "category": "dataset",
@@ -484582,6 +484597,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4881,
-  "total_nodes": 92034
+  "total_edges": 4882,
+  "total_nodes": 92036
 }

@@ -2,8 +2,8 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-27T07:21:58.101025+00:00
-**Warnings:** 4881
+**Generated:** 2026-10-27T13:58:31.382542+00:00
+**Warnings:** 4882
 **Errors:** 330
 
 ## Issues
@@ -5049,6 +5049,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/wikimedia
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/openai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/WINGNUS
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/allenai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/bigcode
 - **[WARNING]** `cross_links`: Orphaned graph edge target: AlekseyKorshuk/vicuna-7b
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/anon8231489123

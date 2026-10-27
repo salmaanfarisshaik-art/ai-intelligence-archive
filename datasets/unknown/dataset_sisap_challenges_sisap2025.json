@@ -1,0 +1,25 @@
+{
+  "_id": "67b3bdf32f8e45db9fc303bd",
+  "id": "SISAP-Challenges/SISAP2025",
+  "author": "SISAP-Challenges",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-01-20T18:01:35.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "5f98b10913d61d405b0d4950e5e53e2e866f77f5",
+  "description": "This repository contains the development data files used in the SISAP2025 indexing challenge.\n\n\t\n\t\t\n\t\n\t\n\t\tDatasets\n\t\n\n\nCommon Crawl CCNEWS:\n\nrepo: https://huggingface.co/datasets/sentence-transformers/ccnews/\nSentence BERT model: sentence-transformers/all-MiniLM-L6-v2\nsimilarity: Cosine / dot product\ndimension: 384\ncorpus size: 614,664\nfields: title and article, train embeddings come from article.\n\n\nGoogle Questions & Answers:\n\nrepo: https://huggingface.co/datasets/sentence-transformers/gooaq/… See the full description on the dataset page: https://huggingface.co/datasets/SISAP-Challenges/SISAP2025.",
+  "downloads": 31413,
+  "tags": [
+    "license:mit",
+    "size_categories:100M<n<1B",
+    "modality:timeseries",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2025-02-17T22:53:39.000Z",
+  "key": "",
+  "unique_id": "dataset_sisap_challenges_sisap2025",
+  "schema_version": "1.0"
+}

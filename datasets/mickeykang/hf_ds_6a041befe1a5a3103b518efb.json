@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "mickeykang/Event6DBlender",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvent6DBlender (Blender-Rendered Training Data — easy subset)\n\t\n\nSynthetic Blender renders + simulated event streams used to train the depth-extrapolation\nnetwork behind Event6D (CVPR 2026).\nThis repository hosts the easy subset that was actually consumed by the released\ntraining run (the dataloader hardcodes categories=['easy']). A separate companion repo\nmickeykang/Event6DBlenderMedium\nhosts the medium extension — extra data not used by the released checkpoint.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout… See the full description on the dataset page: https://huggingface.co/datasets/mickeykang/Event6DBlender.",
-  "size": "391881",
+  "size": "391641",
   "source_url": "https://huggingface.co/datasets/mickeykang/Event6DBlender",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -15,11 +15,11 @@
     "disabled": false,
     "gated": false,
     "lastModified": "2026-05-31T02:20:03.000Z",
-    "likes": 8,
+    "likes": 9,
     "private": false,
     "sha": "41cf309a2fec0f1b9738032769920db2c324ccb7",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvent6DBlender (Blender-Rendered Training Data — easy subset)\n\t\n\nSynthetic Blender renders + simulated event streams used to train the depth-extrapolation\nnetwork behind Event6D (CVPR 2026).\nThis repository hosts the easy subset that was actually consumed by the released\ntraining run (the dataloader hardcodes categories=['easy']). A separate companion repo\nmickeykang/Event6DBlenderMedium\nhosts the medium extension — extra data not used by the released checkpoint.\n\n\t\n\t\t\n\t\n\t\n\t\tLayout… See the full description on the dataset page: https://huggingface.co/datasets/mickeykang/Event6DBlender.",
-    "downloads": 391881,
+    "downloads": 391641,
     "tags": [
       "task_categories:object-detection",
       "license:cc-by-nc-4.0",
@@ -33,7 +33,7 @@
     "createdAt": "2026-05-13T06:36:31.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-10-27T07:21:12.642968+00:00",
+  "retrieval_timestamp": "2026-10-27T13:58:20.182613+00:00",
   "last_updated": "2026-05-31T02:20:03.000Z",
   "links": {
     "related_models": [

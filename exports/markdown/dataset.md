@@ -142,6 +142,12 @@
 - **URL**: [https://huggingface.co/datasets/WINGNUS/ACL-OCL](https://huggingface.co/datasets/WINGNUS/ACL-OCL)
 - **Tags**: acl, language:en, language_creators:found, license:mit, multilinguality:monolingual, region:us, research papers, size_categories:10K<n<100K, source_datasets:original, task_categories:token-classification
 
+## allenai/objaverse
+- **ID**: hf_ds_63977bb96bdef8095268ded0
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/allenai/objaverse](https://huggingface.co/datasets/allenai/objaverse)
+- **Tags**: 3d, arxiv:2212.08051, language:en, license:odc-by, modality:3d, region:us
+
 ## bigcode/the-stack-metadata
 - **ID**: hf_ds_63a02c28f3334a6553d23fe0
 - **Source**: HuggingFace Datasets
@@ -1191,6 +1197,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/Syn4D/Syn4D](https://huggingface.co/datasets/Syn4D/Syn4D)
 - **Tags**: arxiv:2605.05207, license:cc-by-4.0, region:us
+
+## nvidia/simready-assets
+- **ID**: hf_ds_6a429172c50c64cfb0a54dfb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)
+- **Tags**: modality:image, region:us, size_categories:n<1K
 
 ## StringFellow/fusion-dw
 - **ID**: hf_ds_6a44a4c981d12be393e7749d
