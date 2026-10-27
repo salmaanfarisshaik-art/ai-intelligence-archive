@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33964v1",
+  "schema_version": "1.0",
+  "name": "QECGBERT: A Scalable ECG Foundation Model Based on Self-Supervised Language Learning via VQ-VAE Waveform Tokenization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33964v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33964v1",
+    "updated": "2026-10-25T00:37:53Z",
+    "published": "2026-10-25T00:37:53Z",
+    "title": "QECGBERT: A Scalable ECG Foundation Model Based on Self-Supervised Language Learning via VQ-VAE Waveform Tokenization",
+    "summary": "AI foundation models play a pivotal role in advancing heart disease diagnosis from electrocardiogram (ECG) data, particularly for rare diseases where the lack of sufficient labeled data hinders supervised learning. However, most self-supervised learning methods treat ECGs as generic sequence or image data without exploiting underlying physiological structure. To address this limitation, we propose QECGBERT, a self-supervised ECG language model that explicitly encodes physiological semantics by tokenizing the P, QRS, T, and isoelectric background waveforms. Vector-quantized variational autoencoder (VQ-VAE) tokenization is applied to each 12-lead ECG, with tokens enriched by continuous waveform features to preserve morphology lost during quantization without increasing sequence length. This design enables compact BERT masked language modeling with short sequences, improving scalability and reducing computational cost relative to long-sequence approaches. QECGBERT applies BERT pre-training to the MIMIC-IV dataset containing over 800,000 unlabeled ECG recordings, and fine-tuning on labeled PTB-XL, CPSC2018, and Chapman--Shaoxing--Ningbo datasets for evaluation. The results demonstrate that QECGBERT achieves comparable or superior performance to published benchmarks, offering a scalable, physiologically aware approach to ECG foundation modeling for cardiac diagnosis.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T00:37:53Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33964v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

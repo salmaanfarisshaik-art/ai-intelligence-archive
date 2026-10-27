@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.15768v2",
+  "schema_version": "1.0",
+  "name": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.15768v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.15768v2",
+    "updated": "2026-10-25T02:54:12Z",
+    "published": "2026-06-14T12:06:58Z",
+    "title": "LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies",
+    "summary": "Vision-Language-Action models (VLAs) leverage large-scale vision-language pretraining for semantic robot control, but often lack explicit foresight into how robot actions change the scene. World-Action Models (WAMs) address this limitation by conditioning policies on predicted futures, yet existing approaches typically rely on computationally expensive video generation with substantial pixel-level redundancy. We present LaWAM, a Latent World Action Model that exposes predictive dynamics to robot policies through compact latent visual subgoals instead of reconstructed future video. At the core of LaWAM is a latent-action-conditioned Latent World Model (LaWM). We obtain LaWM by training a latent action model in the latent space of a pretrained vision foundation model and repurposing its forward decoder to predict future observation features for scene evolution. LaWAM then conditions action generation on these predicted latent visual subgoals to enable dynamics-aware robot control. LaWAM achieves state-of-the-art or competitive success rates (SRs) across LIBERO (98.6% SR), RoboTwin (91.22% SR), and real-world manipulation tasks while retaining low-latency inference. LaWAM runs in 187 ms per action-chunk prediction and achieves up to 24x lower wall-clock latency than pixel-space WAMs.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T02:54:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.15768v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

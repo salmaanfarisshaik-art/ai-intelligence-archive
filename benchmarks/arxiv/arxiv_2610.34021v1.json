@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.34021v1",
+  "schema_version": "1.0",
+  "name": "Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.34021v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cond-mat.mtrl-sci",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.34021v1",
+    "updated": "2026-10-25T03:22:14Z",
+    "published": "2026-10-25T03:22:14Z",
+    "title": "Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction",
+    "summary": "Structured scientific spectra encode rich physical information while obeying hard constraints, such as conservation laws and characteristic spectral geometry. Accurate prediction of these spectra is central to materials discovery, yet existing methods often treat them as unconstrained sequences and therefore fail to enforce the underlying physical structure. Taking electronic density of states (eDOS) as the prototypical example, we introduce DeepSciReasoner, a general paradigm for predicting scientific spectra under physical constraints. The framework combines structure-aware spectrum decoding with constraint-preserving physical reasoning, allowing predictions to capture rich spectral structure while respecting the underlying physics. We evaluate DeepSciReasoner on eDOS, phonon density of states (phDOS), X-ray absorption near-edge structure (XANES), and Raman spectra, where it substantially improves prediction accuracy while maintaining physical consistency. These results establish DeepSciReasoner as a reusable blueprint for structured scientific spectrum prediction under hard physical constraints.",
+    "primary_category": "cond-mat.mtrl-sci"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T03:22:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.34021v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

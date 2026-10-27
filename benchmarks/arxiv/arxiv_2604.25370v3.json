@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.25370v3",
+  "schema_version": "1.0",
+  "name": "GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.25370v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.25370v3",
+    "updated": "2026-10-25T01:57:08Z",
+    "published": "2026-04-28T08:35:51Z",
+    "title": "GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment",
+    "summary": "The release of GPT-image-2 by OpenAI marks a watershed moment in AI-generated imagery: the boundary between photographic reality and synthetic content has never been more difficult to discern. We introduce the GPT-Image-2 Twitter Dataset, the first published dataset of GPT-image-2 generated images, sourced from publicly available Twitter/X posts in the immediate aftermath of the model's April 21, 2026 release. Leveraging the Twitter API v2 and a multi-stage curation pipeline spanning multilingual text heuristics (English, Japanese, and Chinese), browser-automated Twitter \"Made with AI\" badge verification, and model name variant matching, we curate 10,217 confirmed GPT-image-2 images from 27,662 collected records over a six-day window.\n  We characterize the dataset across four analyses: CLIP-based zero-shot subject taxonomy, OCR text legibility (82.0% of images contain detectable text), face detection (59.2% of images, 22,583 total faces), and semantic clustering (137 CLIP ViT-L/14 clusters).\n  A key negative result is that C2PA content credentials are systematically stripped by Twitter's CDN on upload, rendering cryptographic provenance verification infeasible for social-media-sourced AI images. The dataset and all curation code are released publicly.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T01:57:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.25370v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

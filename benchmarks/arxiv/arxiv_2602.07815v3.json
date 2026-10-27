@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.07815v3",
+  "schema_version": "1.0",
+  "name": "Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.07815v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.07815v3",
+    "updated": "2026-10-24T21:42:36Z",
+    "published": "2026-02-08T04:44:31Z",
+    "title": "Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures",
+    "summary": "Facial age estimation plays a critical role in content moderation, age verification, and deepfake detection. However, no prior benchmark has systematically compared modern vision-language models (VLMs) with specialized age estimation architectures. We present the first large-scale cross-paradigm benchmark, evaluating 34 models - 22 specialized architectures with publicly available pretrained weights and 12 general-purpose VLMs - across eight standard datasets (UTKFace, IMDB-WIKI, MORPH, AFAD, CACD, FG-NET, APPA-REAL, and AgeDB), totaling 1,100 test images per model. Our key finding is striking: zero-shot VLMs significantly outperform most specialized models, achieving an average mean absolute error (MAE) of 5.65 years compared to 9.88 years for non-LLM models. The best-performing VLM (Gemini 3 Flash Preview, MAE 4.32) surpasses the strongest non-LLM model (MiVOLO, MAE 5.10) by 15%. MiVOLO - unique in combining face and body features using Vision Transformers - is the only specialized model that remains competitive with VLMs. We further analyze age verification at the 18-year threshold and find that most non-LLM models exhibit false adult rates between 39% and 100% for minors, whereas VLMs reduce this to 16%-29%. Additionally, coarse age binning (8-9 classes) consistently increases MAE beyond 13 years. Stratified analysis across 14 age groups reveals that all models struggle most at extreme ages (under 5 and over 65). Overall, these findings challenge the assumption that task-specific architectures are necessary for high-performance age estimation and suggest that future work should focus on distilling VLM capabilities into efficient specialized models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T21:42:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.07815v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

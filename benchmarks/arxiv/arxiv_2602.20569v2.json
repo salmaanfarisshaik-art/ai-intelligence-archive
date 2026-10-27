@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.20569v2",
+  "schema_version": "1.0",
+  "name": "AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.20569v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.20569v2",
+    "updated": "2026-10-25T00:56:18Z",
+    "published": "2026-02-24T05:37:35Z",
+    "title": "AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents",
+    "summary": "We present AIForge-Doc, the first dedicated benchmark targeting exclusively diffusion-model-based inpainting in financial and form documents with pixel-level annotation. Existing document forgery datasets rely on traditional digital editing tools (e.g., Adobe Photoshop, GIMP), creating a critical gap: state-of-the-art detectors are blind to the rapidly growing threat of AI-forged document fraud. AIForge-Doc addresses this gap by systematically forging numeric fields in real-world receipt and form images using two AI inpainting APIs -- Gemini 2.5 Flash Image and Ideogram v2 Edit -- yielding 4,061 forged images from four public document datasets (CORD, WildReceipt, SROIE, XFUND) across nine languages, annotated with pixel-precise tampered-region masks in DocTamper-compatible format. We benchmark three representative detectors -- TruFor, DocTamper, and a zero-shot GPT-4o judge -- and find that all existing methods degrade substantially: TruFor achieves AUC=0.751 (zero-shot, out-of-distribution) vs. AUC=0.96 on NIST16; DocTamper achieves AUC=0.563 vs. AUC=0.98 in-distribution, with pixel-level IoU=0.020; GPT-4o achieves only 0.509 -- essentially at chance -- confirming that AI-forged values are indistinguishable to automated detectors and VLMs. These results demonstrate that AIForge-Doc represents a qualitatively new and unsolved challenge for document forensics.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T00:56:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.20569v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

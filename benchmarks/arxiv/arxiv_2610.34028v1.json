@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.34028v1",
+  "schema_version": "1.0",
+  "name": "Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.34028v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.34028v1",
+    "updated": "2026-10-25T03:33:48Z",
+    "published": "2026-10-25T03:33:48Z",
+    "title": "Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation",
+    "summary": "As Vision-Language Models (VLMs) increasingly enable robots to follow language instructions, understanding their navigation decisions becomes important for reliable deployment. Existing explainability methods overlook a key challenge in Vision-Language Navigation (VLN): evidence for the current action may be distributed across historical and current observations and associated with different instruction stages. We identify instruction-stage insensitivity, where existing methods produce similar explanations despite changes across different navigation stages. To address this issue, we propose a stage-aware attribution framework for VLN. We first construct action-conditioned temporal instruction--visual attributions across observations. These attributions are projected into instruction space to estimate stage associations, which guide the aggregation of relevant historical evidence for refining the current explanation. An instruction-guided spatial filter further suppresses isolated responses while preserving compact, instruction-relevant regions. Experiments across multiple VLN policies and benchmarks show improved attribution quality over existing methods. We further demonstrate that our method acts as a diagnostic tool for analyzing failure cases, and validate its applicability to real-world navigation on a Unitree G1 robot.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T03:33:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.34028v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

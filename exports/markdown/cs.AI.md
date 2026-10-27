@@ -170,6 +170,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.15397v4](http://arxiv.org/abs/2601.15397v4)
 
+## Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs
+- **ID**: arxiv_2601.18706v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.18706v2](http://arxiv.org/abs/2601.18706v2)
+
 ## Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning
 - **ID**: arxiv_2602.01695v2
 - **Source**: ArXiv
@@ -269,6 +274,11 @@
 - **ID**: arxiv_2603.10044v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.10044v4](http://arxiv.org/abs/2603.10044v4)
+
+## GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics
+- **ID**: arxiv_2603.11442v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.11442v3](http://arxiv.org/abs/2603.11442v3)
 
 ## From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions
 - **ID**: arxiv_2603.13359v2
@@ -519,6 +529,11 @@
 - **ID**: arxiv_2606.00831v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.00831v2](http://arxiv.org/abs/2606.00831v2)
+
+## Agents' Last Exam
+- **ID**: arxiv_2606.05405v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.05405v4](http://arxiv.org/abs/2606.05405v4)
 
 ## ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems
 - **ID**: arxiv_2606.06114v3
@@ -889,6 +904,11 @@
 - **ID**: arxiv_2606.30252v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.30252v2](http://arxiv.org/abs/2606.30252v2)
+
+## HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents
+- **ID**: arxiv_2606.31179v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.31179v2](http://arxiv.org/abs/2606.31179v2)
 
 ## Spatial Reasoning via Modality Switching Between Language and Symbolic Representations
 - **ID**: arxiv_2606.31285v3
@@ -4424,4 +4444,14 @@
 - **ID**: arxiv_2610.32919v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32919v1](http://arxiv.org/abs/2610.32919v1)
+
+## WebViSE: Scaling Visual Design Intelligence from the Open Web for LLM Website Generation
+- **ID**: arxiv_2610.33929v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33929v1](http://arxiv.org/abs/2610.33929v1)
+
+## Fed-Universe: A Semantic-Geometric-Topological-Human (S-G-T-H) Stack for Negotiated Alignment in Federated Systems
+- **ID**: arxiv_2610.34009v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34009v1](http://arxiv.org/abs/2610.34009v1)
 

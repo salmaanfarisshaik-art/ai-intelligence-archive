@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2409.01726v2",
+  "schema_version": "1.0",
+  "name": "Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2409.01726v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2409.01726v2",
+    "updated": "2026-10-25T01:57:55Z",
+    "published": "2024-09-03T09:10:51Z",
+    "title": "Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking",
+    "summary": "Multi-view crowd localization and tracking aim to predict the ground-plane positions of all individuals in the scene and estimate their trajectories over time. Existing multi-view localization methods typically rely on Gaussian-smoothed density map supervision, whose inherent ambiguity in crowded regions may blur local peaks and degrade localization accuracy. In this work, we introduce a multi-view optimal transport framework that directly supervises point-level predictions on the ground plane, thereby avoiding the limitations of density map regression. Specifically, we propose a Mahalanobis distance-based multi-view optimal transport loss (M-MVOT), whose transport cost incorporates view ray direction and object-to-camera distance within a Mahalanobis formulation, with the direction guiding the ellipse orientation and the distance modulating the cost magnitude. For multi-view tracking, we first extend the proposed localization framework in a tracking-by-detection manner (MVOT-TBD). To further improve performance, we introduce a tracking-specific optimal transport loss (MVOT-Track) that explicitly supervises inter-frame association. Extensive experiments demonstrate that the proposed optimal transport-based framework consistently outperforms density map-based localization and tracking on multiple multi-view crowd datasets. Code is available at https://github.com/zqyq/MVOT-Track.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T01:57:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2409.01726v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

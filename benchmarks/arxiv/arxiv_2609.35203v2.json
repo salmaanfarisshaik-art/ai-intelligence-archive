@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.35203v2",
+  "schema_version": "1.0",
+  "name": "NucShare: A Shared-Decoder Framework for Lightweight Nuclei Instance Segmentation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.35203v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.35203v2",
+    "updated": "2026-10-25T01:40:56Z",
+    "published": "2026-09-28T13:59:02Z",
+    "title": "NucShare: A Shared-Decoder Framework for Lightweight Nuclei Instance Segmentation",
+    "summary": "Nuclei instance segmentation underpins quantitative pathology, yet its accuracy currently comes at a large parameter cost, and both the encoder and the per-task decoders must shrink where compute or latency is constrained. We present NucShare, centred on a single U-Net-style decoder shared by the nuclear pixel, horizontal-vertical, and classification tasks, with only a lightweight head per task. Sharing matches or slightly exceeds three independent decoders using 37% of their parameters. With a UNI2-h encoder it forms the teacher NucShare-T, with 690.5M parameters; the student NucShare-S keeps the decoder and adopts an off-the-shelf ConvNeXt V2-Tiny encoder, totalling 34.7M, transferring knowledge through output-level distillation. On PanNuke, NucShare-S retains 99.1% of the teacher's mPQ at 0.519, above CFR-SAM-H's 0.511; it runs 27.5x faster per tile than the teacher and reaches a zero-shot bPQ of 0.668 on MoNuSeg, above CFR-SAM-H's 0.662. Code: https://github.com/L-iMeng-L/Newidea.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T01:40:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.35203v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

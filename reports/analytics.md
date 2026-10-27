@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 91931
+**Total Entities Tracked**: 91984
 
 ## Category Distribution
 
@@ -9,26 +9,26 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2522
 - **models**: 1922
-- **cs.CV**: 1411
-- **news**: 1348
+- **cs.CV**: 1426
+- **news**: 1351
 - **dataset**: 1223
 - **text-generation**: 1015
-- **cs.CL**: 917
-- **cs.AI**: 885
-- **cs.LG**: 502
-- **cs.RO**: 214
+- **cs.CL**: 928
+- **cs.AI**: 891
+- **cs.LG**: 510
+- **cs.RO**: 219
 - **cs.CR**: 95
-- **cs.SE**: 75
+- **cs.SE**: 77
 - **tool**: 57
-- **cs.HC**: 47
+- **cs.HC**: 48
 - **cs.IR**: 46
 - **cs.SD**: 43
 - **cs.CY**: 34
 - **cs.MA**: 25
 - **eess.AS**: 19
 - **eess.IV**: 17
+- **stat.ML**: 17
 - **cs.GT**: 16
-- **stat.ML**: 16
 - **API**: 15
 - **cs.DC**: 13
 - **cs.DB**: 11
@@ -51,9 +51,9 @@
 - **math.OC**: 7
 - **stat.ME**: 7
 - **IDE Rule**: 6
+- **cond-mat.mtrl-sci**: 6
 - **eess.SP**: 6
 - **Benchmark**: 5
-- **cond-mat.mtrl-sci**: 5
 - **cs.CE**: 5
 - **cs.PL**: 5
 - **econ.GN**: 5
@@ -100,9 +100,9 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31622
-- **ArXiv**: 4558
+- **ArXiv**: 4608
 - **Hugging Face**: 2023
-- **OpenAI Blog**: 1334
+- **OpenAI Blog**: 1337
 - **HuggingFace Datasets**: 223
 - **GitHub Trending**: 57
 - **BAIR Blog**: 14

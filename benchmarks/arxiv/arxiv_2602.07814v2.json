@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.07814v2",
+  "schema_version": "1.0",
+  "name": "How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.07814v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.07814v2",
+    "updated": "2026-10-24T21:40:00Z",
+    "published": "2026-02-08T04:36:13Z",
+    "title": "How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study",
+    "summary": "As AI-generated images proliferate across digital platforms, reliable detection methods have become critical for combating misinformation and maintaining content authenticity. While numerous deepfake detection methods have been proposed, existing benchmarks predominantly evaluate fine-tuned models, leaving a critical gap in understanding out-of-the-box performance -- the most common deployment scenario for practitioners. We present the first comprehensive zero-shot evaluation of 16 state-of-the-art detection methods, comprising 23 pretrained detector variants (due to multiple released versions of certain detectors), across 12 diverse datasets, comprising 2.6~million image samples spanning 291 unique generators including modern diffusion models. Our systematic analysis reveals striking findings: (1)~no universal winner exists, with detector rankings exhibiting substantial instability (Spearman~$ρ$: 0.01 -- 0.87 across dataset pairs); (2)~a 37~percentage-point performance gap separates the best detector (75.0\\% mean accuracy) from the worst (37.5\\%); (3)~training data alignment critically impacts generalization, causing up to 20--60\\% performance variance within architecturally identical detector families; (4)~modern commercial generators (Flux~Dev, Firefly~v4, Midjourney~v7) defeat most detectors, achieving only 18--30\\% average accuracy; and (5)~we identify three systematic failure patterns affecting cross-dataset generalization. Statistical analysis confirms significant performance differences between detectors (Friedman test: $χ^2$=121.01, $p<10^{-16}$, Kendall~$W$=0.524). Our findings challenge the ``one-size-fits-all'' detector paradigm and provide actionable deployment guidelines, demonstrating that practitioners must carefully select detectors based on their specific threat landscape rather than relying on published benchmark performance.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T21:40:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.07814v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

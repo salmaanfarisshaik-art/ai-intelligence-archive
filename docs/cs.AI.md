@@ -143,6 +143,7 @@
 | [Agentick: A Unified Benchmark for General Sequential Decision-Making Agents](http://arxiv.org/abs/2605.06869v3) | ArXiv |  | 1 |
 | [AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching](http://arxiv.org/abs/2607.27130v1) | ArXiv |  | 1 |
 | [Agents in the Wild: Where Research Meets Deployment](http://arxiv.org/abs/2607.19336v1) | ArXiv |  | 1 |
+| [Agents' Last Exam](http://arxiv.org/abs/2606.05405v4) | ArXiv |  | 1 |
 | [Agents-K1: Towards Agent-native Knowledge Orchestration](http://arxiv.org/abs/2606.13669v1) | ArXiv |  | 1 |
 | [AI Assistance Reduces Persistence and Hurts Independent Performance](http://arxiv.org/abs/2604.04721v3) | ArXiv |  | 1 |
 | [AI Contextual Measurement for Recovering Individual and Group-Level Effects: Validation Against Survey Measures and an Occupational Application](http://arxiv.org/abs/2609.02821v1) | ArXiv |  | 1 |
@@ -361,6 +362,7 @@
 | [Falling Behind Drives Unsafe Development in an Idealised AI Race Experiment](http://arxiv.org/abs/2607.26034v1) | ArXiv |  | 1 |
 | [Fara-1.5: Scalable Learning Environments for Computer Use Agents](http://arxiv.org/abs/2606.20785v2) | ArXiv |  | 1 |
 | [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) | ArXiv |  | 1 |
+| [Fed-Universe: A Semantic-Geometric-Topological-Human (S-G-T-H) Stack for Negotiated Alignment in Federated Systems](http://arxiv.org/abs/2610.34009v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
@@ -407,6 +409,7 @@
 | [Gibson Env: Real-World Perception for Embodied Agents](http://arxiv.org/abs/1808.10654v2) | ArXiv |  | 1 |
 | [Global Consistency Repair for Natural-Language Claim Sets](http://arxiv.org/abs/2601.13600v2) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
+| [GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics](http://arxiv.org/abs/2603.11442v3) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](http://arxiv.org/abs/2609.30147v1) | ArXiv |  | 1 |
 | [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](http://arxiv.org/abs/2606.16914v1) | ArXiv |  | 1 |
@@ -421,6 +424,8 @@
 | [Harness-Zero: Harness Distillation via Agent-as-Harness](http://arxiv.org/abs/2609.24974v1) | ArXiv |  | 1 |
 | [HarnessOpt-Bench: Evaluating LLMs at Harness Optimization](http://arxiv.org/abs/2608.06301v1) | ArXiv |  | 1 |
 | [HazardWeaver: Scientific Route Selection for Hazard Analysis Agents](http://arxiv.org/abs/2610.03591v1) | ArXiv |  | 1 |
+| [Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs](http://arxiv.org/abs/2601.18706v2) | ArXiv |  | 1 |
+| [HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents](http://arxiv.org/abs/2606.31179v2) | ArXiv |  | 1 |
 | [HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning](http://arxiv.org/abs/2610.30042v1) | ArXiv |  | 1 |
 | [Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite](http://arxiv.org/abs/2608.05095v1) | ArXiv |  | 1 |
 | [HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance](http://arxiv.org/abs/2608.18056v1) | ArXiv |  | 1 |
@@ -849,6 +854,7 @@
 | [View-oriented Conversation Compiler for Agent Trace Analysis](http://arxiv.org/abs/2603.29678v3) | ArXiv |  | 1 |
 | [VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1) | ArXiv |  | 1 |
 | [Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight](http://arxiv.org/abs/2606.00424v2) | ArXiv |  | 1 |
+| [WebViSE: Scaling Visual Design Intelligence from the Open Web for LLM Website Generation](http://arxiv.org/abs/2610.33929v1) | ArXiv |  | 1 |
 | [WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning](http://arxiv.org/abs/2606.18147v1) | ArXiv |  | 1 |
 | [What AI Red-Team Evaluations Can and Cannot Prove](http://arxiv.org/abs/2607.21735v2) | ArXiv |  | 1 |
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |

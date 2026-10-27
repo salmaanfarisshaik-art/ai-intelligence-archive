@@ -115,6 +115,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.03181v2](http://arxiv.org/abs/2604.03181v2)
 
+## SentryVLA: Uncertainty-Guided Action Selection and State Monitoring for Vision-Language-Action Robotic Control
+- **ID**: arxiv_2604.16677v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.16677v2](http://arxiv.org/abs/2604.16677v2)
+
 ## MOMO: A framework for seamless physical, verbal, and graphical robot skill learning and adaptation
 - **ID**: arxiv_2604.20468v3
 - **Source**: ArXiv
@@ -150,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07464v3](http://arxiv.org/abs/2606.07464v3)
 
+## PRISM: PRior-guided Imagination Sampling in world Models
+- **ID**: arxiv_2606.07974v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.07974v2](http://arxiv.org/abs/2606.07974v2)
+
 ## Mana: Dexterous Manipulation of Articulated Tools
 - **ID**: arxiv_2606.13677v1
 - **Source**: ArXiv
@@ -164,6 +174,11 @@
 - **ID**: arxiv_2606.14585v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.14585v2](http://arxiv.org/abs/2606.14585v2)
+
+## LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies
+- **ID**: arxiv_2606.15768v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.15768v2](http://arxiv.org/abs/2606.15768v2)
 
 ## CrossMaps: Confidence-Aware Open-Vocabulary Semantic Mapping for Rover Navigation
 - **ID**: arxiv_2606.16935v1
@@ -640,6 +655,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.19137v1](http://arxiv.org/abs/2609.19137v1)
 
+## VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots
+- **ID**: arxiv_2609.20191v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20191v2](http://arxiv.org/abs/2609.20191v2)
+
 ## HIL-UMI: Bringing Human-in-the-Loop Post-Training of Vision-Language-Action Models to Universal Manipulation Interface
 - **ID**: arxiv_2609.20659v1
 - **Source**: ArXiv
@@ -819,6 +839,11 @@
 - **ID**: arxiv_2610.03710v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03710v1](http://arxiv.org/abs/2610.03710v1)
+
+## DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling
+- **ID**: arxiv_2610.04933v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.04933v2](http://arxiv.org/abs/2610.04933v2)
 
 ## Recursive Video In-Context Learning for Agentic Robot
 - **ID**: arxiv_2610.06843v1

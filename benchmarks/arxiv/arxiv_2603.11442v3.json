@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.11442v3",
+  "schema_version": "1.0",
+  "name": "GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.11442v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.11442v3",
+    "updated": "2026-10-24T22:21:01Z",
+    "published": "2026-03-12T02:05:27Z",
+    "title": "GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics",
+    "summary": "Can humans detect AI-generated financial documents better than machines? We present GPT4o-Receipt, a benchmark of 1,235 receipt images pairing GPT-4o-generated receipts with authentic ones from established datasets, evaluated by five state-of-the-art multimodal LLMs and a 30-annotator crowdsourced perceptual study. Our findings reveal a striking paradox: humans are better at seeing AI artifacts, yet worse at detecting AI documents. Human annotators exhibit the largest visual discrimination gap of any evaluator, yet their binary detection F1 falls well below Claude Sonnet 4 and below Gemini 2.5 Flash. This paradox resolves once the mechanism is understood: the dominant forensic signals in AI-generated receipts are arithmetic errors -- invisible to visual inspection but systematically verifiable by LLMs. Humans cannot perceive that a subtotal is incorrect; LLMs verify it in milliseconds. Beyond the human--LLM comparison, our five-model evaluation reveals dramatic performance disparities and calibration differences that render simple accuracy metrics insufficient for detector selection. GPT4o-Receipt, the evaluation framework, and all results are released publicly to support future research in AI document forensics.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T22:21:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.11442v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

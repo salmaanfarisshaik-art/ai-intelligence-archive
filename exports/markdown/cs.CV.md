@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2407.18245v3](http://arxiv.org/abs/2407.18245v3)
 
+## Multi-view Optimal Transport for Multi-view Crowd Localization and Tracking
+- **ID**: arxiv_2409.01726v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2409.01726v2](http://arxiv.org/abs/2409.01726v2)
+
 ## Bilateral Sharpness-Aware Minimization for Flatter Minima
 - **ID**: arxiv_2409.13173v2
 - **Source**: ArXiv
@@ -49,6 +54,11 @@
 - **ID**: arxiv_2501.14546v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2501.14546v2](http://arxiv.org/abs/2501.14546v2)
+
+## On the Theory of Bias Tuning in Event Cameras
+- **ID**: arxiv_2501.18788v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2501.18788v4](http://arxiv.org/abs/2501.18788v4)
 
 ## PRISM: Self-Pruning Intrinsic Selection Method for Training-Free Multimodal Data Selection
 - **ID**: arxiv_2502.12119v5
@@ -590,6 +600,16 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.06159v3](http://arxiv.org/abs/2602.06159v3)
 
+## How well are open sourced AI-generated image detection models out-of-the-box: A comprehensive benchmark study
+- **ID**: arxiv_2602.07814v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.07814v2](http://arxiv.org/abs/2602.07814v2)
+
+## Out of the box age estimation through facial imagery: A Comprehensive Benchmark of Vision-Language Models vs. out-of-the-box Traditional Architectures
+- **ID**: arxiv_2602.07815v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.07815v3](http://arxiv.org/abs/2602.07815v3)
+
 ## AGMark: Attention-Guided Dynamic Watermarking for Large Vision-Language Models
 - **ID**: arxiv_2602.09611v3
 - **Source**: ArXiv
@@ -630,10 +650,20 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.18314v2](http://arxiv.org/abs/2602.18314v2)
 
+## Can a Teenager Fool an AI? Evaluating Low-Cost Cosmetic Attacks on Age Estimation Systems
+- **ID**: arxiv_2602.19539v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.19539v2](http://arxiv.org/abs/2602.19539v2)
+
 ## A Very Big Video Reasoning Suite
 - **ID**: arxiv_2602.20159v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.20159v4](http://arxiv.org/abs/2602.20159v4)
+
+## AIForge-Doc: A Benchmark for Detecting AI-Forged Tampering in Financial and Form Documents
+- **ID**: arxiv_2602.20569v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.20569v2](http://arxiv.org/abs/2602.20569v2)
 
 ## SynthRender and I-AsSET: Open-Source Framework and Dataset for Bidirectional Sim-Real Transfer in Industrial Object Perception
 - **ID**: arxiv_2602.21141v3
@@ -649,6 +679,11 @@
 - **ID**: arxiv_2602.24043v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.24043v2](http://arxiv.org/abs/2602.24043v2)
+
+## DOCFORGE-BENCH: A Comprehensive 0-shot Benchmark for Document Forgery Detection and Analysis
+- **ID**: arxiv_2603.01433v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.01433v3](http://arxiv.org/abs/2603.01433v3)
 
 ## A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification
 - **ID**: arxiv_2603.07571v3
@@ -800,6 +835,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.04925v3](http://arxiv.org/abs/2604.04925v3)
 
+## A Synthetic Eye Movement Dataset for Script Reading Detection: Real Trajectory Replay on a 3D Simulator
+- **ID**: arxiv_2604.05475v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.05475v2](http://arxiv.org/abs/2604.05475v2)
+
 ## Is CLIP Cross-Eyed? Revealing and Mitigating Center Bias in the CLIP Family
 - **ID**: arxiv_2604.05971v2
 - **Source**: ArXiv
@@ -869,6 +909,16 @@
 - **ID**: arxiv_2604.23789v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23789v3](http://arxiv.org/abs/2604.23789v3)
+
+## When the Forger Is the Judge: GPT-Image-2 Cannot Recognize Its Own Faked Documents
+- **ID**: arxiv_2604.25213v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.25213v2](http://arxiv.org/abs/2604.25213v2)
+
+## GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment
+- **ID**: arxiv_2604.25370v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.25370v3](http://arxiv.org/abs/2604.25370v3)
 
 ## Learning Coarse-to-Fine Osteoarthritis Representations under Noisy Hierarchical Labels
 - **ID**: arxiv_2605.00718v3
@@ -5205,6 +5255,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.34834v2](http://arxiv.org/abs/2609.34834v2)
 
+## NucShare: A Shared-Decoder Framework for Lightweight Nuclei Instance Segmentation
+- **ID**: arxiv_2609.35203v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35203v2](http://arxiv.org/abs/2609.35203v2)
+
 ## BiMoGen: Bidirectional Motion-Text Generation via Unified Masked Discrete Diffusion
 - **ID**: arxiv_2609.35407v2
 - **Source**: ArXiv
@@ -7054,4 +7109,24 @@
 - **ID**: arxiv_2610.32978v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32978v1](http://arxiv.org/abs/2610.32978v1)
+
+## TurboWAM: Learning What Matters for Fast World Action Models
+- **ID**: arxiv_2610.33941v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33941v1](http://arxiv.org/abs/2610.33941v1)
+
+## Accuracy Is Not Enough: An Efficiency- and Statistics-Aware Benchmark of ResNet50 and Vision Transformer for Explainable Multi-Class Gastrointestinal Diseases Classification
+- **ID**: arxiv_2610.33965v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33965v1](http://arxiv.org/abs/2610.33965v1)
+
+## Hybrid Mamba-Transformer Network for Single-Shot 3D Reconstruction from Fringe Patterns
+- **ID**: arxiv_2610.33988v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33988v1](http://arxiv.org/abs/2610.33988v1)
+
+## Explaining Navigation Decisions: Stage-Aware Visual Attribution for Vision-Language Navigation
+- **ID**: arxiv_2610.34028v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34028v1](http://arxiv.org/abs/2610.34028v1)
 

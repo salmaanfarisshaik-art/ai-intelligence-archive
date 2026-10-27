@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33941v1",
+  "schema_version": "1.0",
+  "name": "TurboWAM: Learning What Matters for Fast World Action Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33941v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33941v1",
+    "updated": "2026-10-24T23:04:10Z",
+    "published": "2026-10-24T23:04:10Z",
+    "title": "TurboWAM: Learning What Matters for Fast World Action Models",
+    "summary": "World action models have demonstrated promising performance in robot policy learning, yet their high inference latency remains a critical bottleneck for real-world deployment. Recent approaches have sought to improve inference efficiency by reducing test-time future-frame imagination or accelerating action prediction. However, these methods often leverage representations from all video world model layers without explicitly considering their varying relevance to action prediction, leading to redundant computation and suboptimal representation utilization. In this work, we propose TurboWAM, a fast world action model that efficiently aggregates structured world representations conditioned on action predictions. Specifically, TurboWAM introduces a structured world representation aggregation module that adaptively fuses representations from different world model layers according to their relevance to the evolving action denoising state. Furthermore, TurboWAM employs a structured action supervision mechanism that adaptively modulates gradients from action supervision across different world model layers during backward propagation, facilitating world representation learning. During inference, by reducing the number of world model layers executed and caching relevant representations across action denoising steps, TurboWAM substantially reduces computational overhead. Extensive experiments on multiple robot manipulation benchmarks demonstrate that TurboWAM achieves low inference latency while maintaining competitive task success rates compared with state-of-the-art methods.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T23:04:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33941v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

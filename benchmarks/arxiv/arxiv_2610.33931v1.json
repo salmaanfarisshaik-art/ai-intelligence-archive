@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33931v1",
+  "schema_version": "1.0",
+  "name": "HerHealthGPT: An Evidence-Grounded Conversational AI System for Women's Reproductive Health Copy title",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33931v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33931v1",
+    "updated": "2026-10-24T21:44:56Z",
+    "published": "2026-10-24T21:44:56Z",
+    "title": "HerHealthGPT: An Evidence-Grounded Conversational AI System for Women's Reproductive Health Copy title",
+    "summary": "\"Why is my period late?\" Sometimes, the most useful response begins with another question. Yet conversational AI systems may respond to incomplete health queries without seeking essential context or grounding their guidance in verifiable evidence. This paper introduces HerHealthGPT, an evidence-grounded conversational AI system designed to address these challenges in women's reproductive health. HerHealthGPT integrates retrieval-augmented generation (RAG), context-aware clarification, and source validation within an interactive web interface. Rather than responding immediately to incomplete queries, the system maintains conversational context, asks targeted follow-up questions, checks for premature conclusions, and grounds its responses in retrieved evidence. We evaluate the AI components using 540 English messages derived from 90 reproductive-health cases and conduct a prototype questionnaire study with 30 adults. Evidence retrieval improves concern-category accuracy from 54.1% to 59.3% compared with fine-tuning alone. The clarification router achieves 85.6% recall and 86.2% specificity on constructed targets. In the user study, 83.3% of participants preferred the retrieval-enabled configuration, while 25 of 30 considered its follow-up questions relevant. These findings suggest that integrating evidence retrieval with interactive clarification offers a promising approach to more transparent, context-aware reproductive-health information systems, while further clinical validation remains necessary.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T21:44:56Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33931v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

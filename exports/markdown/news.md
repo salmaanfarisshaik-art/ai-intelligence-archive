@@ -1221,6 +1221,11 @@
 - **URL**: [https://openai.com/index/building-openai-with-openai](https://openai.com/index/building-openai-with-openai)
 
 ## 
+- **ID**: rss_https://openai.com/index/building-scientific-understanding-with-academic-communities
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/building-scientific-understanding-with-academic-communities](https://openai.com/index/building-scientific-understanding-with-academic-communities)
+
+## 
 - **ID**: rss_https://openai.com/index/building-self-improving-tax-agents-with-codex
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/building-self-improving-tax-agents-with-codex](https://openai.com/index/building-self-improving-tax-agents-with-codex)
@@ -2916,6 +2921,11 @@
 - **URL**: [https://openai.com/index/gpt-5-system-card-update-gpt-5-2](https://openai.com/index/gpt-5-system-card-update-gpt-5-2)
 
 ## 
+- **ID**: rss_https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/gpt-6-1-sol-coderabbit-code-security](https://openai.com/index/gpt-6-1-sol-coderabbit-code-security)
+
+## 
 - **ID**: rss_https://openai.com/index/gpt-6-astra
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gpt-6-astra](https://openai.com/index/gpt-6-astra)
@@ -2959,6 +2969,11 @@
 - **ID**: rss_https://openai.com/index/gradient-labs
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/gradient-labs](https://openai.com/index/gradient-labs)
+
+## 
+- **ID**: rss_https://openai.com/index/greptile-code-review-codex-astra
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/greptile-code-review-codex-astra](https://openai.com/index/greptile-code-review-codex-astra)
 
 ## 
 - **ID**: rss_https://openai.com/index/group-chats-in-chatgpt

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.18706v2",
+  "schema_version": "1.0",
+  "name": "Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.18706v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.18706v2",
+    "updated": "2026-10-25T01:24:23Z",
+    "published": "2026-01-26T17:34:10Z",
+    "title": "Health-SCORE: Towards Scalable Rubrics for Improving Health-LLMs",
+    "summary": "Rubrics are essential for evaluating open-ended LLM responses, especially in safety-critical domains such as healthcare. However, creating high-quality and domain-specific rubrics typically requires significant human expertise time and development cost, making rubric-based evaluation and training difficult to scale. In this work, we introduce Health-SCORE, a generalizable and scalable rubric-based training and evaluation framework that substantially reduces rubric development costs without sacrificing performance. We show that Health-SCORE provides two practical benefits beyond standalone evaluation: it can be used as a structured reward signal to guide reinforcement learning with safety-aware supervision, and it can be incorporated directly into prompts to improve response quality through in-context learning. Across open-ended healthcare tasks, Health-SCORE achieves evaluation quality comparable to human-created rubrics while significantly lowering development effort, making rubric-based evaluation and training more scalable.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T01:24:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.18706v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

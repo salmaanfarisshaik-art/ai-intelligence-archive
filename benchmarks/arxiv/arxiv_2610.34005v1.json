@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.34005v1",
+  "schema_version": "1.0",
+  "name": "Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.34005v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.34005v1",
+    "updated": "2026-10-25T02:34:40Z",
+    "published": "2026-10-25T02:34:40Z",
+    "title": "Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models",
+    "summary": "On-policy self-distillation (OPSD) trains a student on its own reasoning trajectories using token-level supervision from a reference-conditioned teacher initialized from the same model. However, access to the reference can induce teacher behaviors that undermine independent reasoning in thinking models, leading to reference hallucinations, where the student cites an unavailable reference to justify reasoning steps, and reconsideration suppression, where the teacher discourages verification and revision at uncertain steps. We introduce Steered-Teacher OPSD (ST-OPSD) to jointly address these failure modes through activation steering. ST-OPSD extracts two directions from model-generated reasoning trajectories and applies them to the teacher's hidden states during distillation target computation, suppressing reference-invoking behavior and encouraging reconsideration with marker-family calibration. The student learns from the resulting teacher distributions without being steered. Experiments on AIME and HMMT show that ST-OPSD improves accuracy over vanilla OPSD and other interventions while restoring reconsideration and reference-hallucination rates to base-model levels.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T02:34:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.34005v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

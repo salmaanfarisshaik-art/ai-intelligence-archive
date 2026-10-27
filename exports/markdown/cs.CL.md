@@ -910,6 +910,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07515v2](http://arxiv.org/abs/2606.07515v2)
 
+## Detecting Differences Is Not Understanding Structure: Large Language Models Fail at Graph Isomorphism
+- **ID**: arxiv_2606.09484v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09484v2](http://arxiv.org/abs/2606.09484v2)
+
 ## Self-Harness: Harnesses That Improve Themselves
 - **ID**: arxiv_2606.09498v2
 - **Source**: ArXiv
@@ -4310,6 +4315,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24888v1](http://arxiv.org/abs/2610.24888v1)
 
+## Quality-Controlled Reply and Summary Data for Post-Training Small Language Models in AI Call-Screening Agents
+- **ID**: arxiv_2610.25458v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.25458v2](http://arxiv.org/abs/2610.25458v2)
+
 ## Monsoon: Scalable Spontaneous Speech Collection for Low-Resource ASR in 50 Languages
 - **ID**: arxiv_2610.26776v1
 - **Source**: ArXiv
@@ -4434,6 +4444,11 @@
 - **ID**: arxiv_2610.28616v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28616v1](http://arxiv.org/abs/2610.28616v1)
+
+## LTEM: LLM-Friendly Table-Enhanced Markdown for Table Understanding and Generation
+- **ID**: arxiv_2610.29188v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.29188v2](http://arxiv.org/abs/2610.29188v2)
 
 ## OmniSimulator: Aligning Small Language Models for Authentic Heterogeneous Behavior Modeling
 - **ID**: arxiv_2610.29472v1
@@ -4584,4 +4599,44 @@
 - **ID**: arxiv_2610.32982v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32982v1](http://arxiv.org/abs/2610.32982v1)
+
+## HerHealthGPT: An Evidence-Grounded Conversational AI System for Women's Reproductive Health Copy title
+- **ID**: arxiv_2610.33931v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33931v1](http://arxiv.org/abs/2610.33931v1)
+
+## Schema-Free Text-to-SQL: Learning Enterprise Database Structure from Query Logs
+- **ID**: arxiv_2610.33946v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33946v1](http://arxiv.org/abs/2610.33946v1)
+
+## What Makes a Question Curious? Measuring Model Curiosity in Human-LLM Interactions
+- **ID**: arxiv_2610.33950v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33950v1](http://arxiv.org/abs/2610.33950v1)
+
+## Beyond Belief: Evaluating and Mitigating LLM Susceptibility to Misinformation
+- **ID**: arxiv_2610.33962v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33962v1](http://arxiv.org/abs/2610.33962v1)
+
+## "High-Quality" Data for Early-Stage Instruction Tuning: An Empirical Study of Data Quality Metrics
+- **ID**: arxiv_2610.33969v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33969v1](http://arxiv.org/abs/2610.33969v1)
+
+## Reversible Pseudonymisation of Documents Sent to External LLMs: an Open Bilingual Benchmark and an Engine
+- **ID**: arxiv_2610.34012v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34012v1](http://arxiv.org/abs/2610.34012v1)
+
+## The Patient Is Always Right? Evaluating Sycophancy in Medical Diagnosis with Graded Patient Beliefs
+- **ID**: arxiv_2610.34013v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34013v1](http://arxiv.org/abs/2610.34013v1)
+
+## When Does GEPA Merge Help? A Mechanism-Level Diagnostic
+- **ID**: arxiv_2610.34027v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34027v1](http://arxiv.org/abs/2610.34027v1)
 

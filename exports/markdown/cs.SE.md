@@ -375,3 +375,13 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32891v1](http://arxiv.org/abs/2610.32891v1)
 
+## Why Does Structured Output Fail? An Empirical Study of Prompt-Enforced Pydantic Schemas Across Nine LLMs
+- **ID**: arxiv_2610.33949v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33949v1](http://arxiv.org/abs/2610.33949v1)
+
+## How Do Small Coding Agents Use Code Graphs and Embeddings?
+- **ID**: arxiv_2610.33958v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33958v1](http://arxiv.org/abs/2610.33958v1)
+

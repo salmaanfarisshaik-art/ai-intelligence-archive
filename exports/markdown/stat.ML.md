@@ -1,5 +1,10 @@
 # Stat.Ml Export
 
+## Budgeted Prompt-Set Expansion and Refinement for Language Models via Simulation Optimization
+- **ID**: arxiv_2404.08164v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2404.08164v3](http://arxiv.org/abs/2404.08164v3)
+
 ## Canonical Variates in Wasserstein Metric Space
 - **ID**: arxiv_2405.15768v2
 - **Source**: ArXiv

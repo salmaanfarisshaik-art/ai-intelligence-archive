@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.16677v2",
+  "schema_version": "1.0",
+  "name": "SentryVLA: Uncertainty-Guided Action Selection and State Monitoring for Vision-Language-Action Robotic Control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.16677v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.16677v2",
+    "updated": "2026-10-25T02:55:19Z",
+    "published": "2026-04-17T20:20:43Z",
+    "title": "SentryVLA: Uncertainty-Guided Action Selection and State Monitoring for Vision-Language-Action Robotic Control",
+    "summary": "Vision-language-action (VLA) models have emerged as generalist robotic controllers that map visual observations and language instructions to continuous actions. However, pretrained VLAs typically provide limited information about the reliability of their generated actions, making deployment challenging when execution failures must be anticipated. We address this problem by introducing SentryVLA, a lightweight runtime wrapper for frozen VLA policies. At the action level, SentryVLA uses conformalized quantile regression to estimate a calibrated upper bound on the deviation between sampled VLA actions and expert-like behavior under the calibration distribution. The predicted deviation is then used to rank multiple stochastic candidates for action selection. At the execution-monitoring level, SentryVLA applies a Mahalanobis-distance-based anomaly score to the contextualized latent execution state extracted before final action prediction, providing a complementary signal for detecting abnormal execution states during closed-loop control. The framework does not require retraining or architectural modification of the underlying VLA policy. Experiments in simulation and on a physical robot show that SentryVLA improves action selection and provides useful runtime warning signals for abnormal execution states. These findings demonstrate the practical value of post-hoc reliability scoring for improving the runtime behavior of pretrained VLA policies. Project webpage: https://robotic-vision-lab.github.io/sentryvla/.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T02:55:19Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.16677v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

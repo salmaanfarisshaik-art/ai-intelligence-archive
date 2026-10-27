@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.01043v2",
+  "schema_version": "1.0",
+  "name": "From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.01043v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.01043v2",
+    "updated": "2026-10-25T00:19:10Z",
+    "published": "2026-09-01T10:43:24Z",
+    "title": "From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion",
+    "summary": "Uniform-state discrete diffusion models update all tokens in parallel while keeping every position revisable. Even when the commonly used top-$p$ rule leaves only one candidate at a position, that choice affects only the current reverse step and can be revised at the next sampling step. We ask what changes when selected hypotheses instead become persistent context for later predictions. We therefore propose committed reveal sampling (CRS), a training-free sampler that stores selected argmax tokens and inserts them into subsequent model inputs. Our analysis separates persistent context from truncation. Within one reverse step, adaptive top-$p$, randomized or not, reproduces the update induced by a visible token only when a likelihood-ratio ordering holds, while in a simple latent-mode model, keeping the selected token visible helps later parallel predictions agree on the same sequence-level choice. Empirically, paired experiments on Duo-distilled then separate this persistent effect from single-step top-$p$ restriction and scalar temperature scaling. Under the same finalization rule, CRS without top-$p$ truncation reaches lower generative perplexity (GenPPL) than fixed $p=0.95$ and $p=0.9$ baselines across budgets of 8--64 function evaluations (NFE). At 64 NFE, the comparison at matched unigram entropy also gives lower GenPPL for CRS, shifting the GenPPL--entropy tradeoff under this metric. Base Duo shows the same direction in a descriptive comparison, while other diversity and continuation metrics can rank these operating points differently. A distributional distance to held-out text (SOL) under a fixed GPT-2-Large representation also decreases with persistent context at the same late top-$p$ threshold. These results identify support restriction and persistent context as distinct controls of that tradeoff.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T00:19:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.01043v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

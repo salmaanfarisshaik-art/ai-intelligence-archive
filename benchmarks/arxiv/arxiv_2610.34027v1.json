@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.34027v1",
+  "schema_version": "1.0",
+  "name": "When Does GEPA Merge Help? A Mechanism-Level Diagnostic",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.34027v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.34027v1",
+    "updated": "2026-10-25T03:32:01Z",
+    "published": "2026-10-25T03:32:01Z",
+    "title": "When Does GEPA Merge Help? A Mechanism-Level Diagnostic",
+    "summary": "GEPA is among the strongest reflective prompt optimizers for language-model programs, but its system-aware merge operator is unstable across models: merge improves gpt-4.1-mini on average while degrading Qwen3-8B, an asymmetry noted but left unexplained by the GEPA paper. We investigate this instability across five datasets and two models. Our nine-configuration sweep over merge timing and merge operator shows that merge can improve both models when configured appropriately. This suggests that merge instability is better explained by configuration sensitivity than by an inherent flaw in the merge operator. We then test whether prompt-level features predict GEPA's merge-accept decisions and find that they do not, ruling out static-feature gating. As a proof of concept, a behavior-based probe built from these diagnostics avoids large merge failures in our multi-seed runs by abstaining on high-risk tasks, although it does not consistently outperform NoMerge. Code is available as GEPA-MergeProbe at https://github.com/ChongZZZZ/GEPA_MERGE .",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T03:32:01Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.34027v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

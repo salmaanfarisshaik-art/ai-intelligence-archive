@@ -1490,6 +1490,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31069v1](http://arxiv.org/abs/2608.31069v1)
 
+## From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion
+- **ID**: arxiv_2609.01043v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.01043v2](http://arxiv.org/abs/2609.01043v2)
+
 ## A Mathematical Theory of Reusable Neural Bases for Network Compression
 - **ID**: arxiv_2609.01550v1
 - **Source**: ArXiv
@@ -2070,6 +2075,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03713v1](http://arxiv.org/abs/2610.03713v1)
 
+## PIT-GCL: Protein Interaction using Topological Graph Contrastive Learning
+- **ID**: arxiv_2610.04850v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.04850v3](http://arxiv.org/abs/2610.04850v3)
+
 ## Scaling Down the Scaling Laws: Parameter Efficiency and Compute-Optimal Training in Resource-Constrained Large Language Models
 - **ID**: arxiv_2610.06387v2
 - **Source**: ArXiv
@@ -2345,6 +2355,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24875v1](http://arxiv.org/abs/2610.24875v1)
 
+## SWIFT: Self-guided Weak-to-strong dIFfusion models via Target extrapolation
+- **ID**: arxiv_2610.25844v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.25844v2](http://arxiv.org/abs/2610.25844v2)
+
 ## Next Best Action: Causal Constrained Offline RL for Business Action Targeting
 - **ID**: arxiv_2610.26817v1
 - **Source**: ArXiv
@@ -2509,4 +2524,29 @@
 - **ID**: arxiv_2610.32971v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32971v1](http://arxiv.org/abs/2610.32971v1)
+
+## Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents
+- **ID**: arxiv_2610.33956v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33956v1](http://arxiv.org/abs/2610.33956v1)
+
+## QECGBERT: A Scalable ECG Foundation Model Based on Self-Supervised Language Learning via VQ-VAE Waveform Tokenization
+- **ID**: arxiv_2610.33964v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33964v1](http://arxiv.org/abs/2610.33964v1)
+
+## Hierarchical Cooperative GFlowNets
+- **ID**: arxiv_2610.33968v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33968v1](http://arxiv.org/abs/2610.33968v1)
+
+## Steering the Teacher: Improving On-Policy Self-Distillation for Thinking Models
+- **ID**: arxiv_2610.34005v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34005v1](http://arxiv.org/abs/2610.34005v1)
+
+## BriLLM-MetaPred: A Representation-Prediction Unity Language Model with Adaptive Self-Measurement
+- **ID**: arxiv_2610.34018v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34018v1](http://arxiv.org/abs/2610.34018v1)
 

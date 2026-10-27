@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33965v1",
+  "schema_version": "1.0",
+  "name": "Accuracy Is Not Enough: An Efficiency- and Statistics-Aware Benchmark of ResNet50 and Vision Transformer for Explainable Multi-Class Gastrointestinal Diseases Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33965v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33965v1",
+    "updated": "2026-10-25T00:39:12Z",
+    "published": "2026-10-25T00:39:12Z",
+    "title": "Accuracy Is Not Enough: An Efficiency- and Statistics-Aware Benchmark of ResNet50 and Vision Transformer for Explainable Multi-Class Gastrointestinal Diseases Classification",
+    "summary": "Automated classification of gastrointestinal (GI) findings in endoscopic images could support early diagnosis, but architectures are often chosen on accuracy alone. We present a controlled, reproducible benchmark of ResNet50 and ViT-B/16 for eight-class GI classification on the public Kvasir dataset (4,000 images), using a stratified split (400 test images) and stratified group 5-fold cross-validation over all images. In cross-validation, ResNet50 and ViT-B/16 reached 92.12% and 91.70% accuracy, and a two one-sided tests (TOST) procedure showed equivalence within a +/-3 percentage-point margin (difference +0.43 points, 90% CI -0.33 to +1.18; p < 0.001). The architectures differed mainly in cost: ResNet50 had 3.6 times fewer parameters and 4.3 times fewer operations, 2.5-fold lower single-image CPU latency (69 vs. 177 ms) and 3.8-fold higher GPU throughput. Cross-validated calibration was similar (expected calibration error 0.021 vs. 0.023). An edge-oriented transformer, MobileViT-S, was most accurate on the test split (95.5%) but lost 9.4 points when an acquisition artefact present in some classes (the ScopeGuide inset) was occluded, whereas ResNet50 was not significantly affected. On 500 unseen polyp images with expert masks, both models' Grad-CAM maps focused on the lesion (3.6 times chance). On a de-duplicated external subset of GastroVision (1,998 images), accuracy fell to 78-80% for all three models and differences between them remained small. Accuracy differences between architectures were thus small relative to the effects of shortcut learning and domain shift, whereas efficiency differences were large. An efficient CNN is a defensible default for resource-constrained screening, but no model is deployment-ready without local validation.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T00:39:12Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33965v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.20191v2",
+  "schema_version": "1.0",
+  "name": "VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.20191v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.20191v2",
+    "updated": "2026-10-25T00:46:44Z",
+    "published": "2026-08-07T20:34:33Z",
+    "title": "VLN on the Fly: An Onboard Vision-Language Navigation Stack for Aerial Robots",
+    "summary": "Running vision-language navigation fully onboard an aerial robot is hard, since grounding, planning, and control must share limited compute and a single-stage error is difficult to isolate in flight. End-to-end aerial policies fuse these stages into one network, giving up the observability and safety checks a modular stack keeps available. We propose VLN on the Fly, an onboard stack that keeps grounding, planning, and control as separate, inspectable stages. A quantized VLM grounds an instruction to a coarse image cell, depth lifts it to a 3D goal, a fast B-spline planner returns a feasible trajectory, and a pretrained reinforcement learning policy tracks it to motor commands across quadrotors. Across 15 onboard flights over three everyday referents in a controlled indoor volume, the stack reaches the target in 13 of 15 trials with 5.72 cm mean goal error and 39.3% average GPU utilization. In 6 additional cluttered-environment trials, the stack tracks collision-free trajectories under onboard perception gating.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T00:46:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.20191v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

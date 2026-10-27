@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.07974v2",
+  "schema_version": "1.0",
+  "name": "PRISM: PRior-guided Imagination Sampling in world Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.07974v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.07974v2",
+    "updated": "2026-10-24T23:45:30Z",
+    "published": "2026-06-06T04:18:10Z",
+    "title": "PRISM: PRior-guided Imagination Sampling in world Models",
+    "summary": "Latent world models learn representations that enable them to predict how actions change the environment - a capability we call physical intuition. We find that these same representations also support action intuition: a lightweight head can learn a goal-conditioned action prior directly from the frozen encoder's features. We introduce PRISM to investigate how action intuition can be extracted from frozen world-model representations and used to guide goal-conditioned planning. The prior's mean and predicted uncertainty guide the search for useful actions, while the world model evaluates their consequences against the goal. Experiments on four simulated control tasks and two real-robot platforms show that a lightweight action head improves planning performance, and that the same fusion interface accepts a diffusion prior over the same frozen features without modification. These results demonstrate the potential of reusing world-model representations to both predict action consequences and guide action selection.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-24T23:45:30Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.07974v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.31179v2",
+  "schema_version": "1.0",
+  "name": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.31179v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.31179v2",
+    "updated": "2026-10-25T02:14:40Z",
+    "published": "2026-06-30T06:09:01Z",
+    "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+    "summary": "As AI agents become increasingly capable of complex, long-horizon reasoning, rigorous evaluation is essential for measuring progress toward real-world healthcare applications. However, existing healthcare benchmarks are often static or narrow in clinical scope, motivating broader evaluation of agents acting on raw patient data. We introduce HealthAgentBench, a suite of 75 agentic healthcare tasks across 9 categories each with its unique environment. The benchmark suite spans diagnosis, specimen assessment, research, and data management workflows and a broad range of modalities. Each task is designed to replicate an end-to-end clinical workflow: given task instructions and supporting resources, an agent must explore raw healthcare data, operate within a complex environment, and execute multi-step solutions that go beyond naive prompting, such as querying large clinical databases or interpreting gigapixel pathology images. All tasks are scored using binary success criteria derived from reference labels, executable rules, or computational baselines. We evaluate six agents (three GPT models through Codex and three Claude models through Claude Code) with one scored attempt per task (450 evaluations). Overall success ranges from 32.0% to 57.3%; Claude Code Opus-5.5 leads with a 57.3% success rate, followed by GPT-6-astra and Sonnet-5.5 at 50.7% each. Performance varies substantially by category with specialized imaging modalities such as CT and MRI being especially difficult. HealthAgentBench provides a challenging and realistic benchmark with substantial room for future progress. We release our benchmark athttps://github.com/microsoft/HealthAgentBench.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T02:14:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.31179v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

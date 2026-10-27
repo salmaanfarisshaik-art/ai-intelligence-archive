@@ -25,3 +25,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.28629v1](http://arxiv.org/abs/2610.28629v1)
 
+## Deep Scientific Reasoning under Physical Constraints: Structure-Aware Spectrum Prediction
+- **ID**: arxiv_2610.34021v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34021v1](http://arxiv.org/abs/2610.34021v1)
+

@@ -235,3 +235,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.12455v1](http://arxiv.org/abs/2610.12455v1)
 
+## InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants
+- **ID**: arxiv_2610.33966v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33966v1](http://arxiv.org/abs/2610.33966v1)
+

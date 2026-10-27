@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.34018v1",
+  "schema_version": "1.0",
+  "name": "BriLLM-MetaPred: A Representation-Prediction Unity Language Model with Adaptive Self-Measurement",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.34018v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.34018v1",
+    "updated": "2026-10-25T03:08:17Z",
+    "published": "2026-10-25T03:08:17Z",
+    "title": "BriLLM-MetaPred: A Representation-Prediction Unity Language Model with Adaptive Self-Measurement",
+    "summary": "We present BriLLM-MetaPred, the first engineering implementation of the MetaPred machine-learning framework established by a mathematical theory of AGI, instantiated for language modeling. The theory argues that MetaPred is both necessary and sufficient as a machine-learning primitive for general cognition. Taking this theoretical conclusion as a design premise, we report an implementation of the primitive for language modeling. A single continuously evolving dynamical state serves as both the context representation and the state from which predictions are read out. Continuous measurement of its own state reduces finite-depth inconsistency, maintains internal consistency, and provides an endogenous dynamical self-supervision signal in fixed-point form. The single dynamical state of MetaPred intrinsically couples training and inference. MetaPred therefore exhibits symmetry across almost all key elements of machine learning, an intuitive and observable property of the mathematical optimum over the space of all machine-learning paradigms. BriLLM-MetaPred is neither another recurrent language model nor an extension of BriLLM. It provides a bridge between two prior contributions: the construction and motivation of the MetaPred primitive provided by AGI theory, and the SiFu learning paradigm provided by BriLLM (Zhao et al., 2025). The latter's node-signal-flow design enables the primitive to run on available software and hardware accelerators. Our implementation of BriLLM-MetaPred achieves predictive performance comparable to a GPT baseline of the same size. This provides initial evidence for the engineering feasibility of the MetaPred framework established by the mathematical theory of AGI. MetaPred is the first machine-learning paradigm derived entirely from mathematical theory rather than assembled and incrementally improved through human design---and perhaps the last such paradigm.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T01:08:18Z",
+  "last_updated": "2026-10-25T03:08:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.34018v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
