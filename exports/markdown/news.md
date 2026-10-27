@@ -1406,6 +1406,11 @@
 - **URL**: [https://openai.com/index/chatham-financial](https://openai.com/index/chatham-financial)
 
 ## 
+- **ID**: rss_https://openai.com/index/check-point-daybreak
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/check-point-daybreak](https://openai.com/index/check-point-daybreak)
+
+## 
 - **ID**: rss_https://openai.com/index/child-safety-adopting-sbd-principles
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/child-safety-adopting-sbd-principles](https://openai.com/index/child-safety-adopting-sbd-principles)
@@ -2986,6 +2991,11 @@
 - **URL**: [https://openai.com/index/group-chats-in-chatgpt](https://openai.com/index/group-chats-in-chatgpt)
 
 ## 
+- **ID**: rss_https://openai.com/index/grupo-boticario
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/grupo-boticario](https://openai.com/index/grupo-boticario)
+
+## 
 - **ID**: rss_https://openai.com/index/grupo-folha-grupo-uol-partnership
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/grupo-folha-grupo-uol-partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership)
@@ -4124,6 +4134,11 @@
 - **ID**: rss_https://openai.com/index/lifespan
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/lifespan](https://openai.com/index/lifespan)
+
+## 
+- **ID**: rss_https://openai.com/index/localiza-generative-ai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/localiza-generative-ai](https://openai.com/index/localiza-generative-ai)
 
 ## 
 - **ID**: rss_https://openai.com/index/loveholidays

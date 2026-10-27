@@ -7789,11 +7789,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_project_numina_aops
+- **Source**: 
+
+## 
 - **ID**: dataset_project_numina_numinamath_1_5
 - **Source**: 
 
 ## 
 - **ID**: dataset_project_numina_numinamath_cot
+- **Source**: 
+
+## 
+- **ID**: dataset_project_numina_olympiads
 - **Source**: 
 
 ## 

@@ -4,10 +4,10 @@
   "author": "joshhf",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-27T19:18:24.000Z",
+  "lastModified": "2026-10-27T23:26:31.000Z",
   "likes": 0,
   "private": false,
-  "sha": "d5755ea6ee6e58e079b5a6a70557791c82923849",
+  "sha": "840d6250fc0a43ebd980d834c693bfed440bc579",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tArtifacts for \"Fisher sparsity in RL post-training: does it depend on the optimizer?\"\n\t\n\nCode, report and analysis: https://github.com/jharkfinn/fisher-sparsity-rl\nThis repo holds the large artifacts of the OLMo 3 RL-Zero Math study, which tests arXiv 2609.36262 on a public RL run with intermediate checkpoints (allenai/Olmo-3-1025-7B → allenai/Olmo-3-7B-RL-Zero-Math).\n\n\t\n\t\t\nPath\nContents\n\n\n\t\t\nolmo3_rlzero/F_theta0_bf16/F_part*.pt\nDiagonal Fisher of allenai/Olmo-3-1025-7B with the… See the full description on the dataset page: https://huggingface.co/datasets/joshhf/fisher-sparsity-rl-artifacts.",
   "downloads": 31159,
   "tags": [
