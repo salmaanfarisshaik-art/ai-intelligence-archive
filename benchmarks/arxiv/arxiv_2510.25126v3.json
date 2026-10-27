@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2510.25126v3",
+  "schema_version": "1.0",
+  "name": "Bridging the Divide: End-to-End Sequence-Graph Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2510.25126v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2510.25126v3",
+    "updated": "2026-10-26T17:17:00Z",
+    "published": "2025-10-29T03:06:54Z",
+    "title": "Bridging the Divide: End-to-End Sequence-Graph Learning",
+    "summary": "Many real-world prediction tasks, particularly those involving entities such as customers or patients, involve both {sequential} and {relational} data. Each entity maintains its own sequence of events while simultaneously engaging in relationships with others. Existing methods in sequence and graph modeling often overlook one modality in favor of the other. We argue that these two facets should instead be integrated and learned jointly. We introduce BRIDGE, a unified end-to-end architecture that couples a sequence model with a graph module under a single objective, allowing gradients to flow across both components to learn task-aligned representations. To enable fine-grained interaction, we propose TOKENXATTN, a token-level cross-attention layer that facilitates message passing between specific events in neighboring sequences. Across two settings, relationship prediction and fraud detection, BRIDGE consistently outperforms static graph models, temporal graph methods, as well as sequence-only baselines on both ranking and classification metrics.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:17:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2510.25126v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.35842v1",
+  "schema_version": "1.0",
+  "name": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35842v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35842v1",
+    "updated": "2026-10-26T17:54:40Z",
+    "published": "2026-10-26T17:54:40Z",
+    "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+    "summary": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a specific dimension and imaging modality, forcing multimodal systems to rely on fragmented and poorly reusable representations. We introduce MedVTok, a general-purpose visual tokenizer that maps 2D images and 3D volumes from diverse imaging modalities into a unified token space. Building such a tokenizer poses two key challenges: preserving anatomical structure across dimensions and capturing clinical semantics across modalities. To this end, MedVTok introduces (i) slice differential regularization, which explicitly models inter-slice anatomical coherence missing in previous per-pixel/per-voxel supervision, and (ii) multi-expert representation alignment, which integrates knowledge from multiple medical expert encoders while retaining modality-specific complementary knowledge. Trained on 28M images and 70K volumes across 9 imaging modalities, MedVTok supports classification, retrieval, segmentation, synthesis, visual question answering, and medical report generation through a single tokenizer. Across 24 benchmarks, MedVTok achieves state-of-the-art performance, demonstrating a scalable token interface that unifies medical image dimension, modality, and task usage.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:54:40Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.35842v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

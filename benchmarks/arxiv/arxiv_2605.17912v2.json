@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.17912v2",
+  "schema_version": "1.0",
+  "name": "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.17912v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.17912v2",
+    "updated": "2026-10-26T17:24:26Z",
+    "published": "2026-05-18T06:18:21Z",
+    "title": "WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform",
+    "summary": "World models have emerged as a central paradigm for embodied intelligence, enabling agents to predict action-conditioned future and reason about environmental dynamics. However, existing embodied world model benchmarks are still largely confined to vision-only prediction, offline embodied applications, and simulator-based evaluation, making them insufficient for assessing increasingly comprehensive world models. In this work, we introduce WorldArena 2.0, an expanded benchmark that systematically broadens embodied world model evaluation along three dimensions: modality, functionality, and platform. Along the modality dimension, WorldArena 2.0 extends evaluation from vision-only to visuotactile modalities, enabling assessment of multimodal perception and prediction. Along the functionality dimension, it extends beyond policy evaluation and planning to assess world models as interactive RL environments for policy optimization. Along the platform dimension, it moves beyond simulator-only evaluation to a diverse suite of simulated and real-world robotic settings across multiple embodiments. Under a standardized protocol, WorldArena 2.0 comprehensively evaluates perceptual quality, interactive utility, and cross-platform performance, providing a comprehensive testbed for tracking progress toward embodied world models. The project page including codes and demos is available at: https://world-arena.ai/.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:24:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.17912v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

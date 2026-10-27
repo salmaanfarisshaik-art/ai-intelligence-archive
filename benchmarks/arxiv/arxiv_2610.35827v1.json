@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.35827v1",
+  "schema_version": "1.0",
+  "name": "Seeing Through Distractions: Context-Stable Attribution via the Least Core",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35827v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35827v1",
+    "updated": "2026-10-26T17:49:16Z",
+    "published": "2026-10-26T17:49:16Z",
+    "title": "Seeing Through Distractions: Context-Stable Attribution via the Least Core",
+    "summary": "Shapley-value-based explanations are widely used for feature attribution in machine learning. However, in computer vision, a feature may reduce the target-class score when added to the complete genuine image, even when the predicted label remains unchanged. We formalize such features as contextual distractors and investigate their attributions under semivalues and the least core. Under a weak average marginal monotonicity assumption, we derive quantitative semivalue--least-core gap bounds and sufficient conditions based on the probability of sampling smaller contexts. We further show that shifting semivalue weights toward larger contexts decreases the signed gap. Finally, controlled image-classification experiments and evaluations on Salient ImageNet provide strong empirical support for our theoretical findings.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:49:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.35827v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

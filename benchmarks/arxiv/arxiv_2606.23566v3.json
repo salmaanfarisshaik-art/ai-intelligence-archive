@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.23566v3",
+  "schema_version": "1.0",
+  "name": "LangMAP: A Language-Adaptive Approach to Tokenization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.23566v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.23566v3",
+    "updated": "2026-10-26T17:26:50Z",
+    "published": "2026-06-22T16:32:00Z",
+    "title": "LangMAP: A Language-Adaptive Approach to Tokenization",
+    "summary": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. Using one with an existing pretrained model requires either training a new model from scratch or adapting the vocabulary of the pretrained one. We propose Language-adaptive Maximum a Posteriori (LangMAP) Tokenization, which extends the UnigramLM algorithm to the multilingual setting by replacing its single distribution over the vocabulary with one distribution per language over the same vocabulary. LangMAP can be used to train a multilingual language model from scratch, or to adapt a pretrained model's tokenizer to individual languages without changing its vocabulary. Language labels are required to estimate the per-language distributions; at inference, the algorithm selects the highest-probability segmentation across languages, i.e., it does not need a language label. In experiments where we adapt a pretrained tokenizer with LangMAP, we observe that LangMAP's new segmentation has consistently higher morphological boundary recall than the original tokenizer. In code data, it improves alignment with abstract syntax tree (AST) leaf boundaries in all configurations we try. Despite ostensible improvements in segmentations, in language model fine-tuning experiments, we do not observe significant differences in performance for most language-task pairs.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:26:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.23566v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

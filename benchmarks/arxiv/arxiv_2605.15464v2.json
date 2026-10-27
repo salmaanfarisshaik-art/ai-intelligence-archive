@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.15464v2",
+  "schema_version": "1.0",
+  "name": "Where and What to Reward? Understanding Generalization Between Verifiable and Open-Ended Domains in Reinforcement Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.15464v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.15464v2",
+    "updated": "2026-10-26T17:21:42Z",
+    "published": "2026-05-14T23:05:23Z",
+    "title": "Where and What to Reward? Understanding Generalization Between Verifiable and Open-Ended Domains in Reinforcement Learning",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) is widely used to improve the reasoning capability of language models, since model-generated answers can be easily verified by a rule-based verifier. In contrast, reinforcement learning from human feedback (RLHF) is mainly used to optimize open-ended conversation with a learned reward model, because such responses are not easy to verify. RLVR and RLHF are usually trained separately with their own domain data and training protocols. How gains transfer between these domains is unclear, partly because comparisons change both where a model is trained (the prompts) and what is rewarded (by a verifier or a reward model). We separate the two in a controlled study of RL on multiple base models that fixes the optimizer and the number of training prompts, and varies only the source domain of the prompts (math, multi-domain, chat, or mixtures) and the reward. We find that RLHF on open-ended prompts substantially improves conversational ability and also brings large gains in reasoning and coding, whereas RLVR improves reasoning but its gains in open-ended conversation plateau far below those of RLHF, suggesting that RL on open-ended prompts with a reward model can serve as an effective approach for generalizing across domains.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:21:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.15464v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

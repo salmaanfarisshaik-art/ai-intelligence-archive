@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.02780v6",
+  "schema_version": "1.0",
+  "name": "Do Value Vectors in Deep Layers Need Context from the Residual Stream?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.02780v6",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.02780v6",
+    "updated": "2026-10-26T17:45:18Z",
+    "published": "2026-06-01T18:43:34Z",
+    "title": "Do Value Vectors in Deep Layers Need Context from the Residual Stream?",
+    "summary": "The success of the transformer architecture is in large part due to its use of attention layers. An attention layer follows the standard neural network paradigm: it takes the residual stream as input and thereby produces context-dependent query, key, and value vectors. However, we find that model performance meaningfully improves when deeper layers learn only a context-free value vector to preserve the original token information, without drawing on any context from the residual stream. When the model has access to this context-free value vector, adding back the context-dependent component provides little additional benefit for aggregate benchmark performance. Such context-free value vectors can be stored as sparse model parameters, eliminating the need to recompute or persistently cache these values. Through systematic ablations on the key design choices for such context-free value vectors, we propose Bank of Values (BoV), a new way of computing value vectors in attention by learning a lookup table of token-specific value vectors for each of the last third of layers. Across 135M and 780M models, BoV improves validation loss over standard attention and, at 780M, the average score across 21 benchmarks, matching the previous best method that adds token information to the value vector with less compute and memory.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:45:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.02780v6"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

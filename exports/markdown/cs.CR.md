@@ -475,3 +475,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31573v1](http://arxiv.org/abs/2610.31573v1)
 
+## Atomic Security Concerns: Towards a Foundational Language for Security Knowledge Representation
+- **ID**: arxiv_2610.35782v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35782v1](http://arxiv.org/abs/2610.35782v1)
+
+## Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models
+- **ID**: arxiv_2610.35829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35829v1](http://arxiv.org/abs/2610.35829v1)
+
+## I-HITL: Inalienable Human-in-the-Loop
+- **ID**: arxiv_2610.35835v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35835v1](http://arxiv.org/abs/2610.35835v1)
+

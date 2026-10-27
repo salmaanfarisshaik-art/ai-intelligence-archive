@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.01165v2",
+  "schema_version": "1.0",
+  "name": "CEZSAR: A Contrastive Embedding Method for Zero-Shot Action Recognition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.01165v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.01165v2",
+    "updated": "2026-10-26T17:35:11Z",
+    "published": "2026-05-01T23:47:29Z",
+    "title": "CEZSAR: A Contrastive Embedding Method for Zero-Shot Action Recognition",
+    "summary": "This paper proposes a novel Zero-Shot Action Recognition~(ZSAR) method based on contrastive learning. In ZSAR, we aim to classify examples from classes that were missing during training. Two well-known problems remain in ZSAR: the semantic gap and the domain shift. A semantic gap occurs because label representations come from the textual domain (i.e., language models) and must be associated with visual representations (i.e., CNNs, RNNs, transformer-based). This multimodal nature implies that the semantic properties of the two spaces are not identical. On the other hand, the domain shift arises from differences between the training and test sets and is inherent to ZSAR once the test set is unknown. One of the most promising methods to address both issues is learning joint embedding spaces. Therefore, we propose a new model that encodes videos and sentences in a joint embedding space, trained by aligning videos with their natural-language descriptions. We design an automatic negative sampling procedure to augment the training dataset and generate unpaired data, i.e., visual appearance and unrelated descriptions. Our results are state-of-the-art on the UCF-101 and Kinetics-400 datasets under several split configurations. Our code is available at https://github.com/valterlej/cezsar.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:35:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.01165v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

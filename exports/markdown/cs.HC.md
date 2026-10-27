@@ -240,3 +240,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.33966v1](http://arxiv.org/abs/2610.33966v1)
 
+## EEGaze: Multimodal Attention Prediction in Visual Search via EEG-Based Saliency Refinement
+- **ID**: arxiv_2610.35757v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35757v1](http://arxiv.org/abs/2610.35757v1)
+

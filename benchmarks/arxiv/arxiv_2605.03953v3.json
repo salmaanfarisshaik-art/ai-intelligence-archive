@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.03953v3",
+  "schema_version": "1.0",
+  "name": "SATFormer: Learning When to Use Early Value Residuals in Transformers",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.03953v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.03953v3",
+    "updated": "2026-10-26T17:34:32Z",
+    "published": "2026-05-05T16:38:29Z",
+    "title": "SATFormer: Learning When to Use Early Value Residuals in Transformers",
+    "summary": "Recent Transformer architectures expose later layers to representations computed in earlier layers, motivated by the observation that low-level features can become harder to recover as the residual stream is transformed through depth. One such method adds static value residuals: learned mixing coefficients that expose the first-layer value projection V_1 uniformly across tokens and heads. However, we theorize that the usefulness of $V_1$ is unlikely to be constant across tokens, heads, and contexts, and therefore treat early-representation reuse as a retrieval problem. Here, we introduce Selective Access Transformer (SATFormer), which preserves the first-layer value pathway while controlling access with a context-dependent gate. Across models from 130M to 1.3B parameters, SATFormer improves validation loss over the static value-residual and Transformer baselines at every evaluated scale, and improves average zero-shot accuracy over both at all four scales. Its strongest gains appear on retrieval-intensive benchmarks, where it improves over static value residuals by approximately 1.5 average points, while maintaining near baseline throughput and memory. Mechanistic analyses suggest sparse, depth-dependent, head-specific, and category-sensitive access patterns, supporting the interpretation that SATFormer learns selective reuse of early representations rather than uniform residual copying. Our code is available at https://github.com/skyegunasekaran/satformer.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:34:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.03953v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

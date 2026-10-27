@@ -4455,3 +4455,43 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34009v1](http://arxiv.org/abs/2610.34009v1)
 
+## CLOSURE: Cross-Channel Closure for Multivariate Time Series Anomaly Detection
+- **ID**: arxiv_2610.35753v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35753v1](http://arxiv.org/abs/2610.35753v1)
+
+## Beyond Physical Illness: Can Clinical Narratives Reveal Emerging Mental Health Risks in Chronically Ill Patients?
+- **ID**: arxiv_2610.35761v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35761v1](http://arxiv.org/abs/2610.35761v1)
+
+## Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents
+- **ID**: arxiv_2610.35767v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35767v1](http://arxiv.org/abs/2610.35767v1)
+
+## A Unified Arena for LLM Agents across Diverse Eurogame
+- **ID**: arxiv_2610.35773v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35773v1](http://arxiv.org/abs/2610.35773v1)
+
+## Game theory of academic effort and hiring in the age of AI
+- **ID**: arxiv_2610.35802v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35802v1](http://arxiv.org/abs/2610.35802v1)
+
+## Patient-specific rubric-based evaluation of large language models across longitudinal cancer care
+- **ID**: arxiv_2610.35847v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35847v1](http://arxiv.org/abs/2610.35847v1)
+
+## Center-of-Mass Interpretation of Evolution Strategies
+- **ID**: arxiv_2610.35865v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35865v1](http://arxiv.org/abs/2610.35865v1)
+
+## Retriever-Free Retrieval: Navigating Documents with Decision Models
+- **ID**: arxiv_2610.35868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35868v1](http://arxiv.org/abs/2610.35868v1)
+

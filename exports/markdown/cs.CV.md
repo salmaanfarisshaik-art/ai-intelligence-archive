@@ -520,6 +520,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.23709v3](http://arxiv.org/abs/2512.23709v3)
 
+## CleanGS: Pareto-Guided Post-Hoc Cleanup of 3D Gaussian Splatting Scenes
+- **ID**: arxiv_2601.00913v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.00913v2](http://arxiv.org/abs/2601.00913v2)
+
 ## Quantum Implicit Neural Representations for Novel View Synthesis
 - **ID**: arxiv_2601.05250v2
 - **Source**: ArXiv
@@ -895,6 +900,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.20012v2](http://arxiv.org/abs/2604.20012v2)
 
+## ICPR 2026 Competition on Low-Resolution License Plate Recognition
+- **ID**: arxiv_2604.22506v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.22506v2](http://arxiv.org/abs/2604.22506v2)
+
 ## SketchVLM: Vision language models can annotate images to explain thoughts and guide users
 - **ID**: arxiv_2604.22875v3
 - **Source**: ArXiv
@@ -934,6 +944,11 @@
 - **ID**: arxiv_2605.00915v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.00915v3](http://arxiv.org/abs/2605.00915v3)
+
+## CEZSAR: A Contrastive Embedding Method for Zero-Shot Action Recognition
+- **ID**: arxiv_2605.01165v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.01165v2](http://arxiv.org/abs/2605.01165v2)
 
 ## TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
 - **ID**: arxiv_2605.01234v2
@@ -1144,6 +1159,11 @@
 - **ID**: arxiv_2606.13625v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13625v1](http://arxiv.org/abs/2606.13625v1)
+
+## Revisiting Vehicle Color Recognition in Long-Tailed Surveillance Scenarios
+- **ID**: arxiv_2606.13625v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.13625v2](http://arxiv.org/abs/2606.13625v2)
 
 ## Surflo: Consistent 3D Surface Flow Model with Global State
 - **ID**: arxiv_2606.13644v1
@@ -6760,6 +6780,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27914v1](http://arxiv.org/abs/2610.27914v1)
 
+## CountVideoBench: A Benchmark to Evaluate Prediction Biases on the Object Counting task by Video-Language Models
+- **ID**: arxiv_2610.28356v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.28356v3](http://arxiv.org/abs/2610.28356v3)
+
 ## OverSeer: Multi-Agent World Models Beyond What Agents See
 - **ID**: arxiv_2610.28554v1
 - **Source**: ArXiv
@@ -7129,4 +7154,44 @@
 - **ID**: arxiv_2610.34028v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34028v1](http://arxiv.org/abs/2610.34028v1)
+
+## VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion
+- **ID**: arxiv_2610.35756v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35756v1](http://arxiv.org/abs/2610.35756v1)
+
+## Does VGGT Know What It Does Not Know?
+- **ID**: arxiv_2610.35806v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35806v1](http://arxiv.org/abs/2610.35806v1)
+
+## Back to Basics: A Skill-Centric Approach to Generalist Web Agents
+- **ID**: arxiv_2610.35823v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35823v1](http://arxiv.org/abs/2610.35823v1)
+
+## Seeing Through Distractions: Context-Stable Attribution via the Least Core
+- **ID**: arxiv_2610.35827v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35827v1](http://arxiv.org/abs/2610.35827v1)
+
+## OSWAM: An Effective World Action Model with One-Step Action Generation
+- **ID**: arxiv_2610.35850v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35850v1](http://arxiv.org/abs/2610.35850v1)
+
+## FL4N: Feed-forward Latent Model for 4D Novel View Synthesis
+- **ID**: arxiv_2610.35854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35854v1](http://arxiv.org/abs/2610.35854v1)
+
+## Do vision models know that three is three?
+- **ID**: arxiv_2610.35857v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35857v1](http://arxiv.org/abs/2610.35857v1)
+
+## VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation
+- **ID**: arxiv_2610.35864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35864v1](http://arxiv.org/abs/2610.35864v1)
 

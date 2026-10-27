@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10448v1](http://arxiv.org/abs/2610.10448v1)
 
+## Multimodal Concert Video Editing: System Design and Exploratory Evaluation
+- **ID**: arxiv_2610.35816v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35816v1](http://arxiv.org/abs/2610.35816v1)
+

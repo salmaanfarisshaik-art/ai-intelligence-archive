@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.11750v2](http://arxiv.org/abs/2605.11750v2)
 
+## WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform
+- **ID**: arxiv_2605.17912v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.17912v2](http://arxiv.org/abs/2605.17912v2)
+
 ## 
 - **ID**: arxiv_2606.03312v2
 - **Source**: ArXiv
@@ -1094,4 +1099,19 @@
 - **ID**: arxiv_2610.32969v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32969v1](http://arxiv.org/abs/2610.32969v1)
+
+## Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent
+- **ID**: arxiv_2610.35817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35817v1](http://arxiv.org/abs/2610.35817v1)
+
+## Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy
+- **ID**: arxiv_2610.35832v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35832v1](http://arxiv.org/abs/2610.35832v1)
+
+## Learning Force-Reactive Humanoid Loco-Manipulation
+- **ID**: arxiv_2610.35862v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35862v1](http://arxiv.org/abs/2610.35862v1)
 

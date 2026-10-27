@@ -155,6 +155,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2510.22228v2](http://arxiv.org/abs/2510.22228v2)
 
+## Bridging the Divide: End-to-End Sequence-Graph Learning
+- **ID**: arxiv_2510.25126v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2510.25126v3](http://arxiv.org/abs/2510.25126v3)
+
 ## Online Continual Learning on Intel Loihi 2 via a Co-designed Spiking Neural Network
 - **ID**: arxiv_2511.01553v3
 - **Source**: ArXiv
@@ -430,6 +435,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02942v3](http://arxiv.org/abs/2605.02942v3)
 
+## SATFormer: Learning When to Use Early Value Residuals in Transformers
+- **ID**: arxiv_2605.03953v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03953v3](http://arxiv.org/abs/2605.03953v3)
+
 ## Predict-then-Diffuse: Adaptive Response Length for Compute-Budgeted Inference in Diffusion LLMs
 - **ID**: arxiv_2605.04215v3
 - **Source**: ArXiv
@@ -500,6 +510,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15285v3](http://arxiv.org/abs/2605.15285v3)
 
+## Where and What to Reward? Understanding Generalization Between Verifiable and Open-Ended Domains in Reinforcement Learning
+- **ID**: arxiv_2605.15464v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.15464v2](http://arxiv.org/abs/2605.15464v2)
+
 ## Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
 - **ID**: arxiv_2605.20314v2
 - **Source**: ArXiv
@@ -514,6 +529,11 @@
 - **ID**: arxiv_2605.20740v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.20740v2](http://arxiv.org/abs/2605.20740v2)
+
+## Divide et Calibra: Multiclass Local Calibration via Vector Quantization
+- **ID**: arxiv_2605.21060v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.21060v2](http://arxiv.org/abs/2605.21060v2)
 
 ## Amplifying, Not Learning: The Price of Out-of-Distribution Generalization in AI-Text Detection
 - **ID**: arxiv_2605.21653v2
@@ -2549,4 +2569,14 @@
 - **ID**: arxiv_2610.34018v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34018v1](http://arxiv.org/abs/2610.34018v1)
+
+## Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution
+- **ID**: arxiv_2610.35733v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35733v1](http://arxiv.org/abs/2610.35733v1)
+
+## Improving Signals, Declining Encoder: A Known-Answer Test of Label-Free Monitoring in Self-Supervised Learning
+- **ID**: arxiv_2610.35766v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35766v1](http://arxiv.org/abs/2610.35766v1)
 

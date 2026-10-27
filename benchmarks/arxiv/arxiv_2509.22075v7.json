@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2509.22075v7",
+  "schema_version": "1.0",
+  "name": "CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2509.22075v7",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2509.22075v7",
+    "updated": "2026-10-26T17:53:03Z",
+    "published": "2025-09-26T08:55:09Z",
+    "title": "CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning",
+    "summary": "Post-training LLM compression often relies on low-rank approximations, which force all columns of a projection matrix to share a single low-dimensional subspace. We propose CoSpaDi, a training-free compression framework that replaces this single-subspace assumption with a union-of-subspaces model via sparse dictionary learning. CoSpaDi factorizes each weight matrix into a dense dictionary and column-sparse coefficients, allowing different columns to select different subsets of dictionary atoms at the same storage budget. To preserve model behavior, we use calibration activations to transform functional reconstruction into a standard dictionary learning problem. Across LLaMA and Qwen models, CoSpaDi improves accuracy-compression and perplexity-compression trade-offs over SVD-based and structured pruning baselines at 20-40\\% compression ratios, while naturally supporting sparse-dense computation and post-training quantization of sparse coefficients.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:53:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2509.22075v7"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.35816v1",
+  "schema_version": "1.0",
+  "name": "Multimodal Concert Video Editing: System Design and Exploratory Evaluation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35816v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.MM",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35816v1",
+    "updated": "2026-10-26T17:43:58Z",
+    "published": "2026-10-26T17:43:58Z",
+    "title": "Multimodal Concert Video Editing: System Design and Exploratory Evaluation",
+    "summary": "Editing multi-camera concerts requires coordinated decisions about musical relevance, visual quality and cut timing. We present a modular framework that combines instrument activity from multitrack audio, visible instruments and image sharpness with beat-based timing and probabilistic camera selection. An interpretable scoring model links these components to the choice of views over complete shot intervals. Component tests and an exploratory expert study on a four-camera concert yield mixed assessments across the editing variants. The findings motivate extending local audiovisual relevance with contextual and sequence-level criteria. The architecture provides a basis for testing these extensions and studying how component behaviour affects the quality of complete edits.",
+    "primary_category": "cs.MM"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:43:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.35816v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

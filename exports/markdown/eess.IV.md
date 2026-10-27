@@ -85,3 +85,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03290v1](http://arxiv.org/abs/2610.03290v1)
 
+## MedVTok: A General-Purpose Medical Visual Tokenizer
+- **ID**: arxiv_2610.35842v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35842v1](http://arxiv.org/abs/2610.35842v1)
+

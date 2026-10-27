@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.35793v1",
+  "schema_version": "1.0",
+  "name": "Quantifying Claim Smoothing by LLM Research Agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35793v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35793v1",
+    "updated": "2026-10-26T17:29:48Z",
+    "published": "2026-10-26T17:29:48Z",
+    "title": "Quantifying Claim Smoothing by LLM Research Agents",
+    "summary": "Deep research, or any use of large language models (LLMs) to read a large document collection and produce insights, requires synthesizing information from different sources. In this work, we find that LLMs produce long-form research reports that read as confident syntheses but which fail to accurately reflect the underlying documents. We call this failure smoothing. In collapsing diverse and potentially conflicting sources into a single narrative, the model discards the evidential \"jaggedness\" of its corpus and asserts conclusions more decisive than the citations can support. We introduce a claim level scoring pipeline, SmoothScore, to quantify this effect. Our pipeline extracts key conclusive claims from model generated reports, then finds evidence relevant to each claim and clusters that evidence along high level aspects. Finally, each claim is scored with respect to the evidence to quantify the degree of smoothing done by the agent. Across 7 systems and 4 datasets, we find that agents consistently produce stronger claims than warranted.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:29:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.35793v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

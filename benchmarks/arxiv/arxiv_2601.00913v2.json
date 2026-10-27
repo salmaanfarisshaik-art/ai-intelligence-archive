@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2601.00913v2",
+  "schema_version": "1.0",
+  "name": "CleanGS: Pareto-Guided Post-Hoc Cleanup of 3D Gaussian Splatting Scenes",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2601.00913v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2601.00913v2",
+    "updated": "2026-10-26T17:15:20Z",
+    "published": "2026-01-01T05:02:45Z",
+    "title": "CleanGS: Pareto-Guided Post-Hoc Cleanup of 3D Gaussian Splatting Scenes",
+    "summary": "A pretrained 3D Gaussian Splatting (3DGS) reconstruction can reproduce its capture views well while retaining off-object structure that becomes visible under reframing. We present CleanGS, a post-hoc cleanup method that removes such structure without retraining the underlying representation. Given calibrated views and binary target masks, CleanGS scores candidate three-view subsets using mask reliability, camera baseline, viewing-direction diversity, and complementary sparse 3D support. Rather than collapsing these objectives a priori, it computes the exact Pareto front over subsets of the reduced candidate pool and selects a balanced on-dominated subset using weighted Chebyshev scalarization. The selected views then drive rasterization-aware two-of-three voting to retain a subset of the original Gaussians. We evaluate the exported asset directly and introduce a fixed-pose widened-field protocol that exposes structure outside the original framing. Across 18 scenes, CleanGS achieves 19.03 dB standard and 17.83 dB widened-field PSNR, compared with 16.44/16.29 dB for FlashSplat and 15.28/15.10 dB for GaussianCut with the same three masks. CleanGS leads five of six photometric metrics and remains within 0.32 dB of the uncleaned reconstruction in standard PSNR. Its filtering-and-export stage takes a median of 20 seconds and 1.9 GB peak memory, compared with 3.1 minutes and 41.6 GB for FlashSplat and 4.2 minutes and 34.9 GB for GaussianCut. Code is available at https://github.com/smlab-niser/clean-gs/.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-27T07:21:03Z",
+  "last_updated": "2026-10-26T17:15:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2601.00913v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

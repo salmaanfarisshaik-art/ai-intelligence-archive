@@ -200,6 +200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.19212v2](http://arxiv.org/abs/2509.19212v2)
 
+## CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning
+- **ID**: arxiv_2509.22075v7
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.22075v7](http://arxiv.org/abs/2509.22075v7)
+
 ## What Is The Political Content in LLMs' Pre- and Post-Training Data?
 - **ID**: arxiv_2509.22367v3
 - **Source**: ArXiv
@@ -349,6 +354,11 @@
 - **ID**: arxiv_2601.09065v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.09065v3](http://arxiv.org/abs/2601.09065v3)
+
+## The Straight and Narrow: Do LLMs Possess an Internal Moral Path?
+- **ID**: arxiv_2601.10307v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.10307v2](http://arxiv.org/abs/2601.10307v2)
 
 ## Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues
 - **ID**: arxiv_2601.12868v2
@@ -680,6 +690,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.21751v2](http://arxiv.org/abs/2604.21751v2)
 
+## BERAG: Bayesian Ensemble Retrieval-Augmented Generation for Knowledge-based Visual Question Answering
+- **ID**: arxiv_2604.22678v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.22678v2](http://arxiv.org/abs/2604.22678v2)
+
 ## Multimodal QUD: Inquisitive Questions from Scientific Figures
 - **ID**: arxiv_2604.23733v2
 - **Source**: ArXiv
@@ -879,6 +894,11 @@
 - **ID**: arxiv_2606.02493v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.02493v3](http://arxiv.org/abs/2606.02493v3)
+
+## Do Value Vectors in Deep Layers Need Context from the Residual Stream?
+- **ID**: arxiv_2606.02780v6
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.02780v6](http://arxiv.org/abs/2606.02780v6)
 
 ## Fast-dLLM++: Fréchet Profile Decoding for Faster Diffusion LLM Inference
 - **ID**: arxiv_2606.02955v2
@@ -1205,6 +1225,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.21359v2](http://arxiv.org/abs/2606.21359v2)
 
+## LangMAP: A Language-Adaptive Approach to Tokenization
+- **ID**: arxiv_2606.23566v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.23566v3](http://arxiv.org/abs/2606.23566v3)
+
 ## BehaviorBench: Benchmarking Foundation Models for Behavioral Science Tasks
 - **ID**: arxiv_2606.24162v2
 - **Source**: ArXiv
@@ -1414,6 +1439,11 @@
 - **ID**: arxiv_2607.16051v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.16051v1](http://arxiv.org/abs/2607.16051v1)
+
+## Loop the Loopies!
+- **ID**: arxiv_2607.16051v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.16051v3](http://arxiv.org/abs/2607.16051v3)
 
 ## Frontier AI performance across the business disciplines: a case-grounded benchmark of knowledge work and analytical reasoning
 - **ID**: arxiv_2607.16057v1
@@ -3645,6 +3675,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.35663v1](http://arxiv.org/abs/2609.35663v1)
 
+## Late Attention Layers Alone Can Copy Entity Tokens, but Not Without Attending to Their Context
+- **ID**: arxiv_2609.35663v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.35663v2](http://arxiv.org/abs/2609.35663v2)
+
 ## MS-GLA: Multi-Scale Gated Linear Attention for Addressing Representational Bottlenecks via Multi-Temporal Resolution
 - **ID**: arxiv_2609.35664v1
 - **Source**: ArXiv
@@ -4639,4 +4674,29 @@
 - **ID**: arxiv_2610.34027v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34027v1](http://arxiv.org/abs/2610.34027v1)
+
+## SEMA-Auto: Sighted and Efficient Multi-Turn Attack with Autonomy
+- **ID**: arxiv_2610.35743v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35743v1](http://arxiv.org/abs/2610.35743v1)
+
+## Quantifying Claim Smoothing by LLM Research Agents
+- **ID**: arxiv_2610.35793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35793v1](http://arxiv.org/abs/2610.35793v1)
+
+## Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models
+- **ID**: arxiv_2610.35804v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35804v1](http://arxiv.org/abs/2610.35804v1)
+
+## Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?
+- **ID**: arxiv_2610.35826v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35826v1](http://arxiv.org/abs/2610.35826v1)
+
+## Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR
+- **ID**: arxiv_2610.35846v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35846v1](http://arxiv.org/abs/2610.35846v1)
 

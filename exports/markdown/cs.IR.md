@@ -230,3 +230,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30128v1](http://arxiv.org/abs/2610.30128v1)
 
+## Do Similarity Measures Measure Similarity? How User Activity Creates Phantom Correlation in Recommender Systems
+- **ID**: arxiv_2610.35765v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35765v1](http://arxiv.org/abs/2610.35765v1)
+
