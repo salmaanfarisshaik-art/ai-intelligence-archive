@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.37583v1",
+  "schema_version": "1.0",
+  "name": "Zero-Shot Multimodal Event Spotting in Soccer Broadcasts",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.37583v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.37583v1",
+    "updated": "2026-10-27T17:24:35Z",
+    "published": "2026-10-27T17:24:35Z",
+    "title": "Zero-Shot Multimodal Event Spotting in Soccer Broadcasts",
+    "summary": "Automatic soccer event spotting supports highlight generation, video indexing, and sports analytics, but existing methods depend on large annotated datasets and soccer-specific training. We present a zero-shot framework that detects, classifies, and temporally localizes events in full-length soccer broadcasts without task-specific parameter training. Each match is segmented into overlapping clips represented by a compact visual storyboard and the aligned commentary transcript, which a general-purpose multimodal model processes jointly. On three manually annotated matches containing 130 events, the best configuration achieves 72.0% F1@5s and outperforms SoccerNet-trained CALF and NetVLAD++ in a cross-dataset setting, while the storyboard representation reduces inference cost by 72% compared with individual frames. We further analyze the effects of model family, input representation, and prompt optimization, and introduce an evidence-grounded excitement-scoring stage that ranks detected events with natural-language explanations for highlight selection.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:24:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.37583v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -210,6 +210,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2512.06547v4](http://arxiv.org/abs/2512.06547v4)
 
+## Detailed balance in large language model-driven agents
+- **ID**: arxiv_2512.10047v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.10047v2](http://arxiv.org/abs/2512.10047v2)
+
 ## mHC-GNN: Manifold-Constrained Hyper-Connections for Graph Neural Networks
 - **ID**: arxiv_2601.02451v2
 - **Source**: ArXiv
@@ -295,6 +300,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.01260v3](http://arxiv.org/abs/2603.01260v3)
 
+## Efficient Token-Level Policy Optimization for Masked Diffusion Models via Velocity Alignment
+- **ID**: arxiv_2603.01563v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.01563v3](http://arxiv.org/abs/2603.01563v3)
+
 ## Enhancing Physics-Informed Neural Networks with Domain-aware Fourier Features: Towards Improved Performance and Interpretable Results
 - **ID**: arxiv_2603.02948v2
 - **Source**: ArXiv
@@ -309,6 +319,11 @@
 - **ID**: arxiv_2603.10009v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.10009v2](http://arxiv.org/abs/2603.10009v2)
+
+## Scaling Reasoning Efficiently via Relaxed On-Policy Distillation
+- **ID**: arxiv_2603.11137v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.11137v2](http://arxiv.org/abs/2603.11137v2)
 
 ## When Drafts Evolve: Speculative Decoding Meets Online Learning
 - **ID**: arxiv_2603.12617v2
@@ -514,6 +529,11 @@
 - **ID**: arxiv_2605.15464v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15464v2](http://arxiv.org/abs/2605.15464v2)
+
+## Edge-AI-Driven Learning-to-Rank for Decentralized Task Allocation in Circular Smart Manufacturing
+- **ID**: arxiv_2605.16433v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.16433v4](http://arxiv.org/abs/2605.16433v4)
 
 ## Less Data, Faster Training: repeating smaller datasets speeds up learning via sampling biases
 - **ID**: arxiv_2605.20314v2
@@ -2579,4 +2599,49 @@
 - **ID**: arxiv_2610.35766v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35766v1](http://arxiv.org/abs/2610.35766v1)
+
+## The Structure Gap: When More Data Cannot Replace Structured Reasoning
+- **ID**: arxiv_2610.37523v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37523v1](http://arxiv.org/abs/2610.37523v1)
+
+## When uncertainty quantification fails: structural vulnerabilities and corrections for selective prediction under clinical class imbalance
+- **ID**: arxiv_2610.37561v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37561v1](http://arxiv.org/abs/2610.37561v1)
+
+## Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents
+- **ID**: arxiv_2610.37567v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37567v1](http://arxiv.org/abs/2610.37567v1)
+
+## Understanding the limits of latent world models
+- **ID**: arxiv_2610.37588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37588v1](http://arxiv.org/abs/2610.37588v1)
+
+## GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting
+- **ID**: arxiv_2610.37598v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37598v1](http://arxiv.org/abs/2610.37598v1)
+
+## EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning
+- **ID**: arxiv_2610.37609v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37609v1](http://arxiv.org/abs/2610.37609v1)
+
+## MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control
+- **ID**: arxiv_2610.37647v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37647v1](http://arxiv.org/abs/2610.37647v1)
+
+## Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops
+- **ID**: arxiv_2610.37656v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37656v1](http://arxiv.org/abs/2610.37656v1)
+
+## Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness
+- **ID**: arxiv_2610.37657v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37657v1](http://arxiv.org/abs/2610.37657v1)
 

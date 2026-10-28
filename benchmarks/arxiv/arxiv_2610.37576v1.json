@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.37576v1",
+  "schema_version": "1.0",
+  "name": "The Noise Plane: A Diffusion Bridge Across Exponent and Dispersion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.37576v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.37576v1",
+    "updated": "2026-10-27T17:19:45Z",
+    "published": "2026-10-27T17:19:45Z",
+    "title": "The Noise Plane: A Diffusion Bridge Across Exponent and Dispersion",
+    "summary": "Diffusion-based denoising commonly uses Gaussian perturbations, whereas sensor noise follows diverse signal-dependent statistical laws. In this paper, we propose $p$-Bridge, a unified measurement-indexed diffusion framework for Tweedie noise. The noise exponent $p$ describes the variance--intensity relation, while accumulated measurement $ν$ controls the noise level. Together, they define a noise plane that includes Gaussian, Poisson, and Gamma models. The stochastic bridge connects measurement distributions through independent increments, giving denoising a physical interpretation as progressive measurement accumulation. Both the starting and stopping indices can be specified, allowing restoration from an observed measurement level to a prescribed higher level. Measurement superposition yields a shared reverse-mean update, paired with a deviance-based objective for learning the required conditional mean. A latent compound Poisson--Gamma construction enables sampling at intermediate exponents. A single exponent-conditioned network adapts to different Tweedie noise models without separate training for each exponent. Experiments show that exponent conditioning improves cross-exponent robustness over fixed-exponent models. Using estimated exponents, the shared network achieves robustness comparable to an oracle-selected set of five specialist models. Experiments on synthetic images, FMD fluorescence microscopy, and multi-sensor SAR images further demonstrate its effectiveness across different signal-dependent noise regimes.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:19:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.37576v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

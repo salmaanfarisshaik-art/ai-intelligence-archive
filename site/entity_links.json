@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T04:04:55Z",
+  "generated_at": "2026-10-28T10:59:14Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -2118,7 +2118,7 @@
     },
     {
       "source_id": "model_cyankiwi_ornith_1_0_9b_awq_int4",
-      "target_id": "hf_deepreinforce-ai_Ornith-1.0-9B",
+      "target_id": "hf_ornith-ai_Ornith-1.0-9B",
       "type": "derived_from"
     },
     {
@@ -8205,6 +8205,26 @@
       "source_id": "model_richardyoung_qwen3_14b_abliterated_gguf",
       "target_id": "hf_Qwen_Qwen3-14B",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_rico03_qwen3_6_27b_claude_opus_reasoning_distilled",
+      "target_id": "hf_Jackrong_Qwen3.5-reasoning-700x",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_rico03_qwen3_6_27b_claude_opus_reasoning_distilled",
+      "target_id": "hf_Qwen_Qwen3.6-27B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_rico03_qwen3_6_27b_claude_opus_reasoning_distilled",
+      "target_id": "hf_Roman1111111_claude-opus-4.6-10000x",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_rico03_qwen3_6_27b_claude_opus_reasoning_distilled",
+      "target_id": "hf_nohurry_Opus-4.6-Reasoning-3000x-filtered",
+      "type": "trained_on"
     },
     {
       "source_id": "model_rinna_japanese_gpt_neox_small",

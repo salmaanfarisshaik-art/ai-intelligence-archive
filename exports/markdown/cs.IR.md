@@ -235,3 +235,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35765v1](http://arxiv.org/abs/2610.35765v1)
 
+## REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation
+- **ID**: arxiv_2610.37584v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37584v1](http://arxiv.org/abs/2610.37584v1)
+

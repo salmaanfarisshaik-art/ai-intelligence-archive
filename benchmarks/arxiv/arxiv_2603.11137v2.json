@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.11137v2",
+  "schema_version": "1.0",
+  "name": "Scaling Reasoning Efficiently via Relaxed On-Policy Distillation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.11137v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.11137v2",
+    "updated": "2026-10-27T17:53:10Z",
+    "published": "2026-03-11T16:26:52Z",
+    "title": "Scaling Reasoning Efficiently via Relaxed On-Policy Distillation",
+    "summary": "On-policy distillation (OPD) is a promising approach for transferring reasoning capabilities to capacity-constrained models, yet sampled-token OPD often suffers from entropy collapse and negative transfer. We identify uniform credit allocation as a key bottleneck: existing objectives obtain dense teacher feedback on student-generated trajectories, but apply it uniformly across sampled tokens despite highly heterogeneous token-level signals. Most tokens carry redundant near-zero credit, while rare heavy-tailed negative credits can dominate updates and prematurely suppress plausible reasoning trajectories. We introduce REOPOLD (Relaxed On-Policy Distillation), a framework that relaxes this uniform assignment by controlling where teacher feedback is applied, how strongly it affects the update, and when the allocation rule changes during training. Across diverse reasoning tasks, REOPOLD improves sampled-token OPD over recent post-training baselines with up to 12x higher sample efficiency, and extends to cross-vocabulary distillation, self-distillation, and test-time scaling.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:53:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.11137v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

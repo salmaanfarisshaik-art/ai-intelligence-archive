@@ -215,3 +215,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27942v1](http://arxiv.org/abs/2610.27942v1)
 
+## Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence
+- **ID**: arxiv_2610.37605v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37605v1](http://arxiv.org/abs/2610.37605v1)
+

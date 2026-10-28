@@ -4116,6 +4116,11 @@
 - **URL**: [https://openai.com/index/legalon-halves-codex-costs](https://openai.com/index/legalon-halves-codex-costs)
 
 ## 
+- **ID**: rss_https://openai.com/index/legora-agentic-operating-system-for-legal-work
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/legora-agentic-operating-system-for-legal-work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
+
+## 
 - **ID**: rss_https://openai.com/index/legora-financial-statement-review-with-astra
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/legora-financial-statement-review-with-astra](https://openai.com/index/legora-financial-statement-review-with-astra)

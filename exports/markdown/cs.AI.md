@@ -3190,6 +3190,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.20077v1](http://arxiv.org/abs/2609.20077v1)
 
+## Tailored to you: longitudinal effects of personalising language models
+- **ID**: arxiv_2609.20077v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.20077v2](http://arxiv.org/abs/2609.20077v2)
+
 ## A Proposal for an Agentic AI Architecture to Support Multi-Domain Decision-Making in the Brazilian Armed Forces
 - **ID**: arxiv_2609.20080v1
 - **Source**: ArXiv
@@ -3509,6 +3514,11 @@
 - **ID**: arxiv_2609.31619v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31619v1](http://arxiv.org/abs/2609.31619v1)
+
+## Learning response-aware patient dynamics for respiratory support
+- **ID**: arxiv_2609.32782v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.32782v2](http://arxiv.org/abs/2609.32782v2)
 
 ## AdaGuard: An Adaptive Guard Model with User-defined Policies
 - **ID**: arxiv_2609.34241v2
@@ -4100,6 +4110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22350v1](http://arxiv.org/abs/2610.22350v1)
 
+## Annotrace: A Workbench for Step-Level Annotation of Agent Traces
+- **ID**: arxiv_2610.23284v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23284v3](http://arxiv.org/abs/2610.23284v3)
+
 ## Beyond Large Language Models: A Mental World Model Framework for Mental Modeling, Simulation, Evolution, and Interpretability
 - **ID**: arxiv_2610.23722v1
 - **Source**: ArXiv
@@ -4494,4 +4509,29 @@
 - **ID**: arxiv_2610.35868v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35868v1](http://arxiv.org/abs/2610.35868v1)
+
+## TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information
+- **ID**: arxiv_2610.37571v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37571v1](http://arxiv.org/abs/2610.37571v1)
+
+## Timestral
+- **ID**: arxiv_2610.37585v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37585v1](http://arxiv.org/abs/2610.37585v1)
+
+## Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions
+- **ID**: arxiv_2610.37624v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37624v1](http://arxiv.org/abs/2610.37624v1)
+
+## What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models
+- **ID**: arxiv_2610.37631v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37631v1](http://arxiv.org/abs/2610.37631v1)
+
+## KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry
+- **ID**: arxiv_2610.37655v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37655v1](http://arxiv.org/abs/2610.37655v1)
 

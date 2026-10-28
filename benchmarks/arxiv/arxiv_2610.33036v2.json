@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.33036v2",
+  "schema_version": "1.0",
+  "name": "A Benchmark for Controllable Speaking-Style Captioning in Audio-Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.33036v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.33036v2",
+    "updated": "2026-10-27T16:45:36Z",
+    "published": "2026-10-15T00:17:09Z",
+    "title": "A Benchmark for Controllable Speaking-Style Captioning in Audio-Language Models",
+    "summary": "Speaking-style captioning (SSC) aims to generate natural language descriptions of how speech is delivered, capturing paralinguistic attributes such as vocal timbre, prosody, and expressivity. Many downstream applications, including conversational AI agents, controllable speech generation, and large-scale audio annotation, require dimension-specific style captions that describe targeted aspects of speech (e.g., speaker traits, emotion, or delivery style), rather than a single undifferentiated description. However, existing work lacks a unified formulation for controllable speaking-style captioning. We address this gap by formulating SSC as an instruction-following audio-language task, where explicit instructions specify the speaking-style dimensions to be described. We introduce StyleInstructCaps, the first standardized benchmark for controllable speaking-style captioning in audio-language models. StyleInstructCaps provides a dataset and evaluation framework that measures metadata groundedness, hallucination, instruction-following ability, generalization to unseen instructions and audio datasets, and speaker-style consistency. Across nine state-of-the-art audio-language models, we find that strong instruction-following ability does not necessarily imply grounded speaking-style understanding, and that SSC-specific instruction-diverse training substantially improves groundedness, controllability, and speaker consistency.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T16:45:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.33036v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

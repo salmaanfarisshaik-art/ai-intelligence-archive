@@ -166,6 +166,7 @@
 | [Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation](http://arxiv.org/abs/2608.21332v1) | ArXiv |  | 1 |
 | [ANCHOR: An External LLM-Driven Supervisory Module Facilitating Healthy Evolution in Self-Evolving Systems](http://arxiv.org/abs/2606.06114v3) | ArXiv |  | 1 |
 | [Andy: A Mathematical Agent for Rigorous Proof and Autonomous Research](http://arxiv.org/abs/2608.15052v2) | ArXiv |  | 1 |
+| [Annotrace: A Workbench for Step-Level Annotation of Agent Traces](http://arxiv.org/abs/2610.23284v3) | ArXiv |  | 1 |
 | [Answer-Distribution Trajectories: A Stochastic-Dynamics View of LLM Reasoning](http://arxiv.org/abs/2609.09030v1) | ArXiv |  | 1 |
 | [AnyGoal: On World Model Generalization Beyond Expert Rollouts](http://arxiv.org/abs/2610.26844v1) | ArXiv |  | 1 |
 | [Applying JEPA-Style Predictive Learning to JA4-Derived Network Fingerprints](http://arxiv.org/abs/2607.08465v2) | ArXiv |  | 1 |
@@ -478,6 +479,7 @@
 | [Knowing When to Stop: Bayesian Optimal Stopping for LLM Evaluations](http://arxiv.org/abs/2608.14425v1) | ArXiv |  | 1 |
 | [Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows](http://arxiv.org/abs/2610.03564v1) | ArXiv |  | 1 |
 | [Knowledge Reutilization in Meta-Reinforcement Learning](http://arxiv.org/abs/2606.18132v1) | ArXiv |  | 1 |
+| [KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry](http://arxiv.org/abs/2610.37655v1) | ArXiv |  | 1 |
 | [KV$^2$: A Self-Refining KV Cache](http://arxiv.org/abs/2610.03198v1) | ArXiv |  | 1 |
 | [KV-Kaizen: Learning Context-Adaptive Cache Compression Choices](http://arxiv.org/abs/2609.37988v2) | ArXiv |  | 1 |
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
@@ -489,6 +491,7 @@
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
 | [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](http://arxiv.org/abs/2609.38143v1) | ArXiv |  | 1 |
+| [Learning response-aware patient dynamics for respiratory support](http://arxiv.org/abs/2609.32782v2) | ArXiv |  | 1 |
 | [Learning the Cost of Reliable Inference](http://arxiv.org/abs/2609.28322v1) | ArXiv |  | 1 |
 | [Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](http://arxiv.org/abs/2610.03570v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
@@ -648,6 +651,7 @@
 | [RAFT: A Stateful Retrieval-Augmented Framework for Troubleshooting Agents](http://arxiv.org/abs/2609.20754v1) | ArXiv |  | 1 |
 | [RAID: Semantic Graph Diffusion for True Cold-Start and Cross-Lingual Forecasting](http://arxiv.org/abs/2606.16925v1) | ArXiv |  | 1 |
 | [RankQ: Offline-to-Online Reinforcement Learning via Self-Supervised Action Ranking](http://arxiv.org/abs/2605.11151v3) | ArXiv |  | 1 |
+| [Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions](http://arxiv.org/abs/2610.37624v1) | ArXiv |  | 1 |
 | [RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics](http://arxiv.org/abs/2610.13889v1) | ArXiv |  | 1 |
 | [Read the Room Before Your Model Generates](http://arxiv.org/abs/2610.18820v1) | ArXiv |  | 1 |
 | [Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum](http://arxiv.org/abs/2603.05614v2) | ArXiv |  | 1 |
@@ -777,8 +781,10 @@
 | [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v1) | ArXiv |  | 1 |
 | [TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring](http://arxiv.org/abs/2608.03952v2) | ArXiv |  | 1 |
 | [Tailored to you: longitudinal effects of personalising language models](http://arxiv.org/abs/2609.20077v1) | ArXiv |  | 1 |
+| [Tailored to you: longitudinal effects of personalising language models](http://arxiv.org/abs/2609.20077v2) | ArXiv |  | 1 |
 | [TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts](http://arxiv.org/abs/2610.06824v1) | ArXiv |  | 1 |
 | [Teaching Code Agents to Ask Without Leaking Private Code](http://arxiv.org/abs/2610.24824v1) | ArXiv |  | 1 |
+| [TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information](http://arxiv.org/abs/2610.37571v1) | ArXiv |  | 1 |
 | [Technical Manual for a Toolkit for Measuring Contextual Individuation in Transformer Language Models](http://arxiv.org/abs/2609.05333v1) | ArXiv |  | 1 |
 | [teLLMe Why (Ain't Nothing but a Jam): Exploratory Causal Analysis of Urban Driving Data](http://arxiv.org/abs/2607.15254v1) | ArXiv |  | 1 |
 | [TEPA: Revoking Stale Memories for Conflict-Robust Language Agents](http://arxiv.org/abs/2608.07429v1) | ArXiv |  | 1 |
@@ -812,6 +818,7 @@
 | [TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents](http://arxiv.org/abs/2609.23363v1) | ArXiv |  | 1 |
 | [Time-Series Forecasting in Safety-Critical Environments: An Open-Source Package for EU-AI-Act-Compliant Development / Zeitreihenprognose in sicherheitskritischen Umgebungen: Ein Open-Source-Paket für ](http://arxiv.org/abs/2604.23859v3) | ArXiv |  | 1 |
 | [Time-Varying Data as Sheaves: an Invitation to Narratives](http://arxiv.org/abs/2609.09056v1) | ArXiv |  | 1 |
+| [Timestral](http://arxiv.org/abs/2610.37585v1) | ArXiv |  | 1 |
 | [Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation](http://arxiv.org/abs/2608.28393v2) | ArXiv |  | 1 |
 | [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](http://arxiv.org/abs/2608.31082v1) | ArXiv |  | 1 |
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
@@ -868,6 +875,7 @@
 | [What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models](http://arxiv.org/abs/2608.16852v1) | ArXiv |  | 1 |
 | [What Do RTL Repair Benchmarks Actually Measure?](http://arxiv.org/abs/2610.28595v1) | ArXiv |  | 1 |
 | [What Do Safety-Aligned LLMs Learn From Mixed Compliance Demonstrations?](http://arxiv.org/abs/2606.20508v1) | ArXiv |  | 1 |
+| [What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models](http://arxiv.org/abs/2610.37631v1) | ArXiv |  | 1 |
 | [What is Missing from AI Post-Training AI: An Empirical Analysis](http://arxiv.org/abs/2608.19072v1) | ArXiv |  | 1 |
 | [What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models](http://arxiv.org/abs/2610.31576v1) | ArXiv |  | 1 |
 | [What Should We Ask Next? Retrieval-Aware Question Learning under Partial Evidence](http://arxiv.org/abs/2609.21924v1) | ArXiv |  | 1 |

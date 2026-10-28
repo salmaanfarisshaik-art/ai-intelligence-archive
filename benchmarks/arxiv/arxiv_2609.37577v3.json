@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.37577v3",
+  "schema_version": "1.0",
+  "name": "Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.37577v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.37577v3",
+    "updated": "2026-10-27T17:18:02Z",
+    "published": "2026-09-29T13:40:25Z",
+    "title": "Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency",
+    "summary": "Large Language Model judges are widely used to rank texts and text-generating systems through pairwise comparison, and their reliability is typically assessed via three proxies: position bias, transitivity, and pairwise agreement (self- or human-labeled). Because these proxies drive judge selection and benchmarking, a substantial literature reporting that judges perform poorly on them risks steering practitioners away from otherwise capable evaluators. We argue this assessment is misleading. Under the Bradley--Terry geometry underlying pairwise aggregation, each proxy is dominated by close-rank-gap pairs, where inconsistency is expected and errors cost little aggregate ranking accuracy; far-gap pairs determine the ranking accuracy but barely move the proxies. We formalize this argument and validate it in a controlled simulation and on two human-rated corpora: the proxies correlate only weakly with ranking accuracy against gold, and their predictive component concentrates in the far-gap regime. Judges should therefore be assessed on rank-gap-conditional metrics, ideally against human rankings. Code at https://github.com/brunobrocai/PairDifficulty",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:18:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.37577v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

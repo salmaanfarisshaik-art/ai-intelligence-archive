@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.37605v1",
+  "schema_version": "1.0",
+  "name": "Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.37605v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.37605v1",
+    "updated": "2026-10-27T17:36:06Z",
+    "published": "2026-10-27T17:36:06Z",
+    "title": "Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence",
+    "summary": "For audio-language models, an answer change after a local sound-event edit can reflect a response to the event's class, sensitivity to waveform rewriting, or both. We compare matched same-class and different-class replacements of a queried event. Both use the same interval, level estimate, donor fitting, and crossfade, while the same-class replacement preserves the correct answer. Across 600 synthetic soundscapes and three models from two architecture families, different-class replacements produce 49.7 to 60.9 percentage points more answer changes than same-class replacements. Same-class accuracy remains within 5.2 percentage points of original accuracy. Among trials with correct original and same-class answers, soundscape-weighted selective accuracy for the inserted class is 73.7 to 81.9%, averaging eligible trials within each soundscape and then weighting eligible soundscapes equally. This protocol tests how model answers respond to local changes in event class.",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:36:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.37605v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2512.10047v2",
+  "schema_version": "1.0",
+  "name": "Detailed balance in large language model-driven agents",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2512.10047v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2512.10047v2",
+    "updated": "2026-10-27T17:34:10Z",
+    "published": "2025-12-10T20:04:23Z",
+    "title": "Detailed balance in large language model-driven agents",
+    "summary": "Large language model (LLM)-driven agents are emerging as a powerful new paradigm for solving complex problems. Despite the empirical success of these practices, a theoretical framework to understand and unify their macroscopic dynamics remains lacking. This paper proposes a method based on the least action principle to estimate the underlying generative directionality of LLMs embedded within agents. By experimentally measuring the transition probabilities between LLM-generated states, we report evidence consistent with a tendency toward detailed balance in LLM-generated transitions, indicating that LLM generation may not be achieved by generally learning rule sets and strategies, but rather by implicitly learning a class of underlying potential functions that may transcend different LLM architectures and prompt templates. To our knowledge, this provides an effective macroscopic description of LLM generative dynamics that does not depend on specific model details. This work is an attempt to establish a macroscopic dynamics theory of complex AI systems, aiming to elevate the study of AI agents from a collection of engineering practices to a science built on effective measurements that are predictable and quantifiable.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:34:10Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2512.10047v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

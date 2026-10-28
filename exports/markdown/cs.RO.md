@@ -1115,3 +1115,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35862v1](http://arxiv.org/abs/2610.35862v1)
 
+## Which Hand Was Late? Diagnosis for Robot Failure Recovery in Bimanual Tool Use
+- **ID**: arxiv_2610.37533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37533v1](http://arxiv.org/abs/2610.37533v1)
+
+## When, Where, and What to Correct: Human-Guided Adaptive Residual Correction for Robot Policies
+- **ID**: arxiv_2610.37547v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37547v1](http://arxiv.org/abs/2610.37547v1)
+
+## Kinematic Constraint-Referenced Evaluation for Articulated Object Manipulation
+- **ID**: arxiv_2610.37550v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37550v1](http://arxiv.org/abs/2610.37550v1)
+
+## ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+- **ID**: arxiv_2610.37666v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37666v1](http://arxiv.org/abs/2610.37666v1)
+

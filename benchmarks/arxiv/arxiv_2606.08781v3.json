@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.08781v3",
+  "schema_version": "1.0",
+  "name": "DeepMine-Mamba: Mitigating Information Dilution in Mamba-Based State Space Models for Document Image Binarization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.08781v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.08781v3",
+    "updated": "2026-10-27T17:44:25Z",
+    "published": "2026-06-07T18:56:01Z",
+    "title": "DeepMine-Mamba: Mitigating Information Dilution in Mamba-Based State Space Models for Document Image Binarization",
+    "summary": "Document image binarization must preserve thin, broken, and low-contrast strokes against degraded backgrounds; Mamba-based state space models have so far been explored only preliminarily for it. We measure what state-space propagation does to document features and find that it does not attenuate foreground responses: every region gains amplitude, but the background gain is 1.8 times the stroke gain, compressing the foreground-background amplitude contrast from 1.86 to 1.03. This compression scales monotonically with the effective receptive field, suggesting it is not specific to state space models. Guided by this, we propose DeepMine-Mamba, whose Anti-Dilution Gate computes its modulation from the propagation-induced feature difference and confines it to stroke regions by a learned stroke prior. Under a strict leave-one-year-out protocol on DIBCO/H-DIBCO with no external training data it is competitive with recent transformer- and gated-convolution baselines; because published protocols differ and are often unstated, we report protocol-controlled evidence separately from cross-paper comparison. Ablations under a fixed objective show that the gate recovers stroke-background discriminability and improves all four metrics, including the two absent from the objective.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:44:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.08781v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

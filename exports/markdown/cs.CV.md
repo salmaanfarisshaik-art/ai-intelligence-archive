@@ -285,6 +285,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2508.17708v2](http://arxiv.org/abs/2508.17708v2)
 
+## Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection
+- **ID**: arxiv_2509.05512v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.05512v2](http://arxiv.org/abs/2509.05512v2)
+
 ## 3D and 4D World Modeling: A Survey
 - **ID**: arxiv_2509.07996v4
 - **Source**: ArXiv
@@ -920,6 +925,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.23789v3](http://arxiv.org/abs/2604.23789v3)
 
+## ShredBench: Evaluating the Semantic Reasoning Capabilities of Multimodal LLMs in Document Reconstruction
+- **ID**: arxiv_2604.23813v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.23813v2](http://arxiv.org/abs/2604.23813v2)
+
 ## When the Forger Is the Judge: GPT-Image-2 Cannot Recognize Its Own Faked Documents
 - **ID**: arxiv_2604.25213v2
 - **Source**: ArXiv
@@ -1119,6 +1129,11 @@
 - **ID**: arxiv_2606.08684v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.08684v2](http://arxiv.org/abs/2606.08684v2)
+
+## DeepMine-Mamba: Mitigating Information Dilution in Mamba-Based State Space Models for Document Image Binarization
+- **ID**: arxiv_2606.08781v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.08781v3](http://arxiv.org/abs/2606.08781v3)
 
 ## Driving Video Retrieval for Complex Queries with Structured Grounding
 - **ID**: arxiv_2606.09109v3
@@ -5740,6 +5755,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03276v1](http://arxiv.org/abs/2610.03276v1)
 
+## Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally
+- **ID**: arxiv_2610.03445v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.03445v2](http://arxiv.org/abs/2610.03445v2)
+
 ## Rethinking What to Cache in Few-Step Diffusion Transformers: Solver-Aware Target Selection
 - **ID**: arxiv_2610.03577v1
 - **Source**: ArXiv
@@ -7194,4 +7214,64 @@
 - **ID**: arxiv_2610.35864v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35864v1](http://arxiv.org/abs/2610.35864v1)
+
+## GroundControl: Satellite-Conditioned Multi-View Diffusion for Reconstruction-Free Novel View Synthesis
+- **ID**: arxiv_2610.37545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37545v1](http://arxiv.org/abs/2610.37545v1)
+
+## ReferStream: Interactive Subject Injection for Streaming Video Generation
+- **ID**: arxiv_2610.37566v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37566v1](http://arxiv.org/abs/2610.37566v1)
+
+## The Noise Plane: A Diffusion Bridge Across Exponent and Dispersion
+- **ID**: arxiv_2610.37576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37576v1](http://arxiv.org/abs/2610.37576v1)
+
+## As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does
+- **ID**: arxiv_2610.37579v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37579v1](http://arxiv.org/abs/2610.37579v1)
+
+## Zero-Shot Multimodal Event Spotting in Soccer Broadcasts
+- **ID**: arxiv_2610.37583v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37583v1](http://arxiv.org/abs/2610.37583v1)
+
+## MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices
+- **ID**: arxiv_2610.37599v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37599v1](http://arxiv.org/abs/2610.37599v1)
+
+## VideoLVR: Latent Visual Reasoning over Grounded Video Evidence
+- **ID**: arxiv_2610.37613v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37613v1](http://arxiv.org/abs/2610.37613v1)
+
+## Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video
+- **ID**: arxiv_2610.37619v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37619v1](http://arxiv.org/abs/2610.37619v1)
+
+## Know, then Draw: A New Learning Paradigm for Visual Generation
+- **ID**: arxiv_2610.37626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37626v1](http://arxiv.org/abs/2610.37626v1)
+
+## Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence
+- **ID**: arxiv_2610.37633v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37633v1](http://arxiv.org/abs/2610.37633v1)
+
+## Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?
+- **ID**: arxiv_2610.37662v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37662v1](http://arxiv.org/abs/2610.37662v1)
+
+## Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction
+- **ID**: arxiv_2610.37668v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37668v1](http://arxiv.org/abs/2610.37668v1)
 

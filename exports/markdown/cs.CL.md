@@ -3740,6 +3740,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.36965v1](http://arxiv.org/abs/2609.36965v1)
 
+## Pair Difficulty Matters: Rethinking Pairwise LLM-as-a-Judge Evaluation and Consistency
+- **ID**: arxiv_2609.37577v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.37577v3](http://arxiv.org/abs/2609.37577v3)
+
 ## Correct Answers, Invalid Traces: What Verifiable Grade-School Math Reveals About Chain-of-Thought Traces
 - **ID**: arxiv_2609.38107v1
 - **Source**: ArXiv
@@ -4635,6 +4640,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32982v1](http://arxiv.org/abs/2610.32982v1)
 
+## A Benchmark for Controllable Speaking-Style Captioning in Audio-Language Models
+- **ID**: arxiv_2610.33036v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.33036v2](http://arxiv.org/abs/2610.33036v2)
+
 ## HerHealthGPT: An Evidence-Grounded Conversational AI System for Women's Reproductive Health Copy title
 - **ID**: arxiv_2610.33931v1
 - **Source**: ArXiv
@@ -4699,4 +4709,24 @@
 - **ID**: arxiv_2610.35846v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35846v1](http://arxiv.org/abs/2610.35846v1)
+
+## Metacognitive Decoding: Efficient Inference for Diffusion Language Agents
+- **ID**: arxiv_2610.37642v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37642v1](http://arxiv.org/abs/2610.37642v1)
+
+## Multi-State Linear Attention with Generalized Second-Order Routing
+- **ID**: arxiv_2610.37645v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37645v1](http://arxiv.org/abs/2610.37645v1)
+
+## Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+- **ID**: arxiv_2610.37649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37649v1](http://arxiv.org/abs/2610.37649v1)
+
+## GEPA-Curator: Curated Learning for Self Improving Agents
+- **ID**: arxiv_2610.37651v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37651v1](http://arxiv.org/abs/2610.37651v1)
 

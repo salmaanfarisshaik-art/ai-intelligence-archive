@@ -1,0 +1,30 @@
+{
+  "_id": "6750b2a5bae13187ec4084e8",
+  "id": "fedric95/umbra",
+  "author": "fedric95",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-01-31T13:24:00.000Z",
+  "likes": 1,
+  "private": false,
+  "sha": "e85261c6de66de9cf333ddc8397d0ce07907c35f",
+  "description": "The SAR data are obtained from the UMBRA Open Data Program (https://umbra.space/open-data/).\nThe dataset has been created combining the WorldCover by ESA (https://esa-worldcover.org/en) with the UMBRA images.\nBIOME information has been extracted from the RESOLVE biome dataset (https://ecoregions.appspot.com/).\nReverse geo-coding with OSM nominatim (https://nominatim.openstreetmap.org).\n(more details asap)\nAuthors: Federico Ricciuti, Federico Serva, Alessandro Sebastianelli\nLicense: Same as… See the full description on the dataset page: https://huggingface.co/datasets/fedric95/umbra.",
+  "downloads": 32906,
+  "tags": [
+    "license:cc",
+    "size_categories:1K<n<10K",
+    "format:csv",
+    "modality:image",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us"
+  ],
+  "createdAt": "2024-12-04T19:51:01.000Z",
+  "key": "",
+  "unique_id": "dataset_fedric95_umbra",
+  "schema_version": "1.0"
+}

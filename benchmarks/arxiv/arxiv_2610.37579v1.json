@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.37579v1",
+  "schema_version": "1.0",
+  "name": "As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.37579v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.37579v1",
+    "updated": "2026-10-27T17:20:44Z",
+    "published": "2026-10-27T17:20:44Z",
+    "title": "As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does",
+    "summary": "Films introduce characters incrementally as they progress. We study the problem of identifying principal characters and assigning their names directly from the movie itself, without using external cast lists, actor photographs, or pre-built character banks. We introduce the character naming task: given a name mentioned in dialogue and the associated video context, the model must determine which visible character bears that name. This task is challenging because name resolution often depends on cinematic cues such as shot-reverse-shot structure, self-introduction, direct address, third-party reference, gaze, and temporal continuity. We provide a dataset and annotations for evaluating character naming and first character appearances, develop a video-and-dialogue model for the task, and compare it with proprietary multimodal large language models. We further introduce a progressive framework for building a character bank as the film unfolds. Together, these contributions support online, human-like movie understanding in which character identities are inferred from the film itself.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-28T10:58:19Z",
+  "last_updated": "2026-10-27T17:20:44Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.37579v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
