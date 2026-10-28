@@ -1,11 +1,9 @@
 # Change Summary
 
-**Total Changes:** 105
+**Total Changes:** 101
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_check-point-daybreak.json
-- prompts/openai-blog/rss_https___openai.com_index_grupo-boticario.json
-- prompts/openai-blog/rss_https___openai.com_index_localiza-generative-ai.json
+- tools/github-trending/gh_1097346685.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -18,39 +16,37 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/ayuo/hf_ds_69cd2a3acc9af6d091c033f0.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/hallucinations-leaderboard/hf_ds_655c982e29cdfd1284e696f5.json
+- datasets/huggingfacem4/hf_ds_661823b590a8b6724f1c6534.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
-- datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
+- datasets/mvp-lab/hf_ds_68c6d459d95ef41da81c9b41.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
-- datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
-- datasets/open-cn-llm-leaderboard/hf_ds_65af8a3de50627e40c93389e.json
-- datasets/wegrthj/hf_ds_69f623ac1072ff2a21b45f84.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
+- datasets/openai/hf_ds_625552d2b339bb03abe3432d.json
+- datasets/xdof/hf_ds_6a307dae8e258cbed418ec58.json
 - exports/csv/all_entities.csv
-- exports/csv/datasets.csv
-- exports/csv/news.csv
+- exports/csv/tool.csv
 - exports/json/all_entities.json
-- exports/json/datasets.json
-- exports/json/news.json
-- exports/markdown/datasets.md
-- exports/markdown/news.md
+- exports/json/tool.json
+- exports/markdown/tool.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4-Flash-0731.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
-- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16.json
+- models/mistralai/hf_mistralai_Mistral-7B-Instruct-v0.2.json
+- models/nvidia/hf_nvidia_NVIDIA-Nemotron-3-Nano-4B-BF16.json
 - models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
-- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/ukisai/hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-32B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-0.6B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
+- models/qwen/hf_Qwen_Qwen3-Reranker-4B.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
-- prompts/openai-blog/rss_https___openai.com_index_retell-ai.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
 - reports/analytics.md
@@ -81,6 +77,7 @@
 - tools/github-trending/gh_1195360525.json
 - tools/github-trending/gh_1201173969.json
 - tools/github-trending/gh_1206390571.json
+- tools/github-trending/gh_132464395.json
 - tools/github-trending/gh_193215554.json
 - tools/github-trending/gh_214587193.json
 - tools/github-trending/gh_323048702.json
@@ -97,7 +94,6 @@
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
-- tools/github-trending/gh_680120071.json
 - tools/github-trending/gh_695864515.json
 - tools/github-trending/gh_701547123.json
 - tools/github-trending/gh_725205304.json

@@ -35,6 +35,11 @@
 - **Source**: GitHub Trending
 - **URL**: [https://github.com/shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice)
 
+## impeccable
+- **ID**: gh_1097346685
+- **Source**: GitHub Trending
+- **URL**: [https://github.com/pbakaus/impeccable](https://github.com/pbakaus/impeccable)
+
 ## openclaw
 - **ID**: gh_1103012935
 - **Source**: GitHub Trending
