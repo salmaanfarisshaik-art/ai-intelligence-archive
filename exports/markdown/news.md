@@ -4116,6 +4116,11 @@
 - **URL**: [https://openai.com/index/legalon-halves-codex-costs](https://openai.com/index/legalon-halves-codex-costs)
 
 ## 
+- **ID**: rss_https://openai.com/index/legora
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/legora](https://openai.com/index/legora)
+
+## 
 - **ID**: rss_https://openai.com/index/legora-agentic-operating-system-for-legal-work
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/legora-agentic-operating-system-for-legal-work](https://openai.com/index/legora-agentic-operating-system-for-legal-work)
@@ -5064,6 +5069,11 @@
 - **ID**: rss_https://openai.com/index/openai-scholars-2021-final-projects
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/openai-scholars-2021-final-projects](https://openai.com/index/openai-scholars-2021-final-projects)
+
+## 
+- **ID**: rss_https://openai.com/index/openai-servicenow-partnership-expansion
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/openai-servicenow-partnership-expansion](https://openai.com/index/openai-servicenow-partnership-expansion)
 
 ## 
 - **ID**: rss_https://openai.com/index/openai-submits-confidential-s-1
@@ -6294,6 +6304,11 @@
 - **ID**: rss_https://openai.com/index/the-full-stack-behind-abundant-intelligence
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/the-full-stack-behind-abundant-intelligence](https://openai.com/index/the-full-stack-behind-abundant-intelligence)
+
+## 
+- **ID**: rss_https://openai.com/index/the-future-of-the-firm
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/the-future-of-the-firm](https://openai.com/index/the-future-of-the-firm)
 
 ## 
 - **ID**: rss_https://openai.com/index/the-instruction-hierarchy

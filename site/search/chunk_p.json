@@ -25952,11 +25952,6 @@
       "score": 3.5
     },
     {
-      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
-      "match_type": "exact",
-      "score": 3.5
-    },
-    {
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0_parquet",
       "match_type": "exact",
       "score": 3.5
@@ -26240,6 +26235,11 @@
       "entity_id": "dataset_xnhyacinth_longbench",
       "match_type": "exact",
       "score": 2.5
+    },
+    {
+      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "dataset_e4drr_gik_ecmwf_par",
@@ -33769,6 +33769,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/openai-nvidia-systems-partnership",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/openai-servicenow-partnership-expansion",
       "match_type": "exact",
       "score": 3.0
     },
@@ -117959,11 +117964,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_clinc_clinc_oos",
       "match_type": "exact",
       "score": 1.5
@@ -120005,11 +120005,6 @@
     },
     {
       "entity_id": "dataset_rl_research_dsqa",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_robeedau_airlens_live",
       "match_type": "exact",
       "score": 1.5
     },
