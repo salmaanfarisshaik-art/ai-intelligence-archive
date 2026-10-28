@@ -285,6 +285,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_aletheiaaing_data_quality
+- **Source**: 
+
+## 
 - **ID**: dataset_alexisplacet_adsblol_globe_history
 - **Source**: 
 
@@ -877,6 +881,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_augaazuun_copydetect_videos
+- **Source**: 
+
+## 
 - **ID**: dataset_augmentiv_archivedata
 - **Source**: 
 
@@ -1357,6 +1365,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_chaohuangcs_muddy_mix
+- **Source**: 
+
+## 
 - **ID**: dataset_charatan_loopcraft
 - **Source**: 
 
@@ -1454,6 +1466,10 @@
 
 ## 
 - **ID**: dataset_chuhaojie_meld
+- **Source**: 
+
+## 
+- **ID**: dataset_chuqiaolyu_xspark_humantouch
 - **Source**: 
 
 ## 
@@ -2225,6 +2241,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fanfuxue_uav_vln_fov
+- **Source**: 
+
+## 
 - **ID**: dataset_fanqi_lin_gopro_raw_videos
 - **Source**: 
 
@@ -2266,6 +2286,10 @@
 
 ## 
 - **ID**: dataset_fatemehmohamadi99_iraniancarsnumberplate_plain
+- **Source**: 
+
+## 
+- **ID**: dataset_fedric95_umbra
 - **Source**: 
 
 ## 
@@ -2725,6 +2749,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_guillaume0477_gennocs
+- **Source**: 
+
+## 
 - **ID**: dataset_gutoportelaa_dom_pi_pdfs_2025
 - **Source**: 
 
@@ -3066,6 +3094,10 @@
 
 ## 
 - **ID**: dataset_horizonrobotics_embodiedgendata
+- **Source**: 
+
+## 
+- **ID**: dataset_horizonrobotics_robo_orchard_sim_assets
 - **Source**: 
 
 ## 
@@ -5933,6 +5965,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lyzenghq_low_priority
+- **Source**: 
+
+## 
 - **ID**: dataset_lyzenghq_zhongyangribao
 - **Source**: 
 
@@ -8321,6 +8357,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_scenario_labs_3d_collection
+- **Source**: 
+
+## 
 - **ID**: dataset_scholarweave_arxiv_latex
 - **Source**: 
 
@@ -8490,6 +8530,10 @@
 
 ## 
 - **ID**: dataset_shujaisd_dtnav_topo
+- **Source**: 
+
+## 
+- **ID**: dataset_sii_monument_valley_ciqi_vqa
 - **Source**: 
 
 ## 
@@ -9473,6 +9517,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_voxel51_insplad
+- **Source**: 
+
+## 
 - **ID**: dataset_voxel51_mvtec_ad
 - **Source**: 
 
@@ -9958,6 +10006,10 @@
 
 ## 
 - **ID**: dataset_yyf111_checkpoint
+- **Source**: 
+
+## 
+- **ID**: dataset_yyuanuw_hop2_logs_src_alf_react
 - **Source**: 
 
 ## 

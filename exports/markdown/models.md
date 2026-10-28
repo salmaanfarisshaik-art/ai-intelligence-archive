@@ -6040,6 +6040,10 @@
 - **ID**: model_richardyoung_qwen3_14b_abliterated_gguf
 - **Source**: 
 
+## rico03/Qwen3.6-27B-Claude-Opus-Reasoning-Distilled
+- **ID**: model_rico03_qwen3_6_27b_claude_opus_reasoning_distilled
+- **Source**: 
+
 ## rinna/japanese-gpt-neox-small
 - **ID**: model_rinna_japanese_gpt_neox_small
 - **Source**: 
