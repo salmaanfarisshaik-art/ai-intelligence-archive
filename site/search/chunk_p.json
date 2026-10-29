@@ -241,6 +241,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bigscience_bloom_1b1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bigscience_bloom_1b7",
       "match_type": "exact",
       "score": 1.5
@@ -16130,11 +16135,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_tanganke_dtd",
       "match_type": "exact",
       "score": 1.5
@@ -25957,11 +25957,6 @@
       "score": 3.5
     },
     {
-      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
-      "match_type": "exact",
-      "score": 3.5
-    },
-    {
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0_parquet",
       "match_type": "exact",
       "score": 3.5
@@ -26245,6 +26240,11 @@
       "entity_id": "dataset_xnhyacinth_longbench",
       "match_type": "exact",
       "score": 2.5
+    },
+    {
+      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
+      "match_type": "exact",
+      "score": 2.0
     },
     {
       "entity_id": "dataset_e4drr_gik_ecmwf_par",
@@ -76455,6 +76455,18 @@
       "score": 1.0
     }
   ],
+  "phecda": [
+    {
+      "entity_id": "dataset_inclusionai_openaoe_2000h",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "pheno": [
     {
       "entity_id": "dataset_meibo002114_fip1",
@@ -117584,11 +117596,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_aisbergpublicorganization_telegram_news_ua_dataset",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_albertvillanova_tests_raw_jsonl",
       "match_type": "exact",
       "score": 1.5
@@ -117960,11 +117967,6 @@
     },
     {
       "entity_id": "dataset_cimec_lambada",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
       "match_type": "exact",
       "score": 1.5
     },
@@ -120014,11 +120016,6 @@
       "score": 1.5
     },
     {
-      "entity_id": "dataset_robeedau_airlens_live",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
       "entity_id": "dataset_roneneldan_tinystories",
       "match_type": "exact",
       "score": 1.5
@@ -120365,11 +120362,6 @@
     },
     {
       "entity_id": "dataset_swe_gym_swe_gym_raw",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_szlholdings_killinchu_osint_corpus",
       "match_type": "exact",
       "score": 1.5
     },
@@ -235774,6 +235766,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bigscience_bloom_1b1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bigscience_bloom_1b7",
       "match_type": "exact",
       "score": 1.5
@@ -248587,6 +248584,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bigscience_bloom_1b1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bigscience_bloom_1b7",
       "match_type": "exact",
       "score": 1.5
@@ -249173,6 +249175,11 @@
     },
     {
       "entity_id": "model_meta_llama_llama_guard_3_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
       "match_type": "exact",
       "score": 1.5
     },

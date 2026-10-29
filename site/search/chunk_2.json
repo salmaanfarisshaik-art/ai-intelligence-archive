@@ -1523,12 +1523,12 @@
     {
       "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
       "match_type": "exact",
-      "score": 4.0
+      "score": 3.0
     },
     {
       "entity_id": "dataset_inclusionai_openaoe_2000h",
       "match_type": "exact",
-      "score": 2.0
+      "score": 1.0
     }
   ],
   "2000s": [
@@ -4906,6 +4906,13 @@
       "score": 1.0
     }
   ],
+  "20241024": [
+    {
+      "entity_id": "model_kisti_koni_koni_llama3_1_8b_instruct_20241024",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "2025": [
     {
       "entity_id": "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
@@ -5307,22 +5314,22 @@
       "score": 5.0
     },
     {
-      "entity_id": "dataset_inclusionai_openaoe_2000h",
-      "match_type": "exact",
-      "score": 5.0
-    },
-    {
       "entity_id": "dataset_internrobotics_omniworld",
       "match_type": "exact",
       "score": 5.0
     },
     {
-      "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
+      "entity_id": "dataset_inclusionai_openaoe_2000h",
       "match_type": "exact",
-      "score": 5.0
+      "score": 4.0
     },
     {
       "entity_id": "dataset_mmmu_mmmu",
+      "match_type": "exact",
+      "score": 4.0
+    },
+    {
+      "entity_id": "hf_ds_6a4cbc564cdc8fc41b0f1b93",
       "match_type": "exact",
       "score": 4.0
     },
@@ -8040,6 +8047,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_bigscience_bloom_1b1",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bigscience_bloom_1b7",
       "match_type": "exact",
       "score": 1.5
@@ -8369,6 +8381,11 @@
     },
     {
       "entity_id": "dataset_openai_gsm8k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_bigscience_bloom_1b1",
       "match_type": "exact",
       "score": 1.5
     },
@@ -8802,6 +8819,11 @@
   "21783": [
     {
       "entity_id": "model_meta_llama_llama_guard_3_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9694,6 +9716,11 @@
     },
     {
       "entity_id": "model_meta_llama_llama_guard_3_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
       "match_type": "exact",
       "score": 1.5
     },
@@ -11733,6 +11760,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_quanttrio_qwen3_vl_235b_a22b_instruct_awq",
       "match_type": "exact",
       "score": 1.5
@@ -12808,6 +12840,11 @@
     },
     {
       "entity_id": "model_meta_llama_llama_guard_3_8b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
       "match_type": "exact",
       "score": 1.5
     },
@@ -15365,6 +15402,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_meta_llama_llama_guard_3_8b_int8",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_microsoft_phi_3_5_mini_instruct",
       "match_type": "exact",
       "score": 1.5
@@ -15576,6 +15618,11 @@
     },
     {
       "entity_id": "model_qwen_qwen2_5_coder_0_5b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_qwen_qwen2_5_coder_0_5b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -16020,6 +16067,11 @@
     },
     {
       "entity_id": "model_qwen_qwen2_5_coder_0_5b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_qwen_qwen2_5_coder_0_5b_instruct_gguf",
       "match_type": "exact",
       "score": 1.5
     },

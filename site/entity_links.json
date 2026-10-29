@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:06:39Z",
+  "generated_at": "2026-10-29T09:21:51Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1459,6 +1459,11 @@
     {
       "source_id": "model_bartowski_mistral_small_24b_instruct_2501_gguf",
       "target_id": "hf_mistralai_Mistral-Small-24B-Instruct-2501",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf",
+      "target_id": "hf_mlabonne_Qwen3-8B-abliterated",
       "type": "derived_from"
     },
     {
@@ -7559,6 +7564,11 @@
     {
       "source_id": "model_qwen_qwen2_5_coder_0_5b_instruct",
       "target_id": "hf_Qwen_Qwen2.5-Coder-0.5B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_qwen_qwen2_5_coder_0_5b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-Coder-0.5B-Instruct",
       "type": "derived_from"
     },
     {

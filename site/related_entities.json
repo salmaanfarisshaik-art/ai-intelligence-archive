@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:06:39Z",
+  "generated_at": "2026-10-29T09:21:52Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -895,6 +895,9 @@
     "hf_Qwen_Qwen2.5-Coder-0.5B": [
       "model_jinaai_jina_code_embeddings_0_5b",
       "model_qwen_qwen2_5_coder_0_5b_instruct"
+    ],
+    "hf_Qwen_Qwen2.5-Coder-0.5B-Instruct": [
+      "model_qwen_qwen2_5_coder_0_5b_instruct_gguf"
     ],
     "hf_Qwen_Qwen2.5-Coder-1.5B": [
       "model_qwen_qwen2_5_coder_1_5b_instruct"
@@ -2793,6 +2796,9 @@
     "hf_mlabonne_Meta-Llama-3.1-8B-Instruct-abliterated": [
       "model_solidrust_meta_llama_3_1_8b_instruct_abliterated_awq"
     ],
+    "hf_mlabonne_Qwen3-8B-abliterated": [
+      "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf"
+    ],
     "hf_mlabonne_harmless_alpaca": [
       "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4"
     ],
@@ -4396,6 +4402,9 @@
     ],
     "model_bartowski_mistral_small_24b_instruct_2501_gguf": [
       "hf_mistralai_Mistral-Small-24B-Instruct-2501"
+    ],
+    "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf": [
+      "hf_mlabonne_Qwen3-8B-abliterated"
     ],
     "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf": [
       "hf_moonshotai_Kimi-Linear-48B-A3B-Instruct"
@@ -7140,6 +7149,9 @@
     ],
     "model_qwen_qwen2_5_coder_0_5b_instruct": [
       "hf_Qwen_Qwen2.5-Coder-0.5B"
+    ],
+    "model_qwen_qwen2_5_coder_0_5b_instruct_gguf": [
+      "hf_Qwen_Qwen2.5-Coder-0.5B-Instruct"
     ],
     "model_qwen_qwen2_5_coder_14b": [
       "hf_Qwen_Qwen2.5-14B"
