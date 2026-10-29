@@ -1,61 +1,45 @@
 # Change Summary
 
-**Total Changes:** 100
+**Total Changes:** 83
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_legora.json
-- prompts/openai-blog/rss_https___openai.com_index_openai-servicenow-partnership-expansion.json
-- prompts/openai-blog/rss_https___openai.com_index_the-future-of-the-firm.json
+None
 
 ## Modified
-- data/metadata/analytics.json
 - data/metadata/api_manifest.json
-- data/metadata/category_index.json
 - data/metadata/connector_manifest.json
-- data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
-- data/metadata/relationship_graph.json
-- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- datasets/aps/hf_ds_621ffdd236468d709f181fa6.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/huggingfacefw/hf_ds_6655eb19d17e141dcb546ed5.json
-- datasets/maximilians/hf_ds_69af8a70d620f76274dcd367.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
 - datasets/nyarlathotep12/hf_ds_69dea0a636a3f56ff6f91b7f.json
-- datasets/wikimedia/hf_ds_621ffdd236468d709f184284.json
-- exports/csv/all_entities.csv
-- exports/csv/news.csv
-- exports/json/all_entities.json
-- exports/json/news.json
-- exports/markdown/news.md
+- datasets/nyu-mll/hf_ds_621ffdd236468d709f181e3f.json
+- datasets/xdof/hf_ds_6a307dae8e258cbed418ec58.json
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
+- models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
 - models/qwen/hf_Qwen_Qwen2.5-7B-Instruct.json
-- models/qwen/hf_Qwen_Qwen3-1.7B.json
-- models/qwen/hf_Qwen_Qwen3-32B.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
-- models/zai-org/hf_zai-org_GLM-5.3.json
+- models/qwen/hf_Qwen_Qwen3-0.6B.json
+- models/radixark/hf_RadixArk_Kimi-K3-DSpark.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
-- reports/analytics.md
 - reports/change_summary.json
 - reports/change_summary.md
 - reports/dashboard.md
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
-- reports/repository_metrics.md
-- site/index.json
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
