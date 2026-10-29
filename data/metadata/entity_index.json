@@ -317842,6 +317842,38 @@
     "local_path": "models/iquestlab/hf_IQuestLab_IQuest-Coder-V1-40B-Loop-Instruct.json"
   },
   {
+    "id": "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+    "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "arxiv:2604.18556",
+      "arxiv:2605.00649",
+      "base_model:deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "base_model:quantized:deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "conversational",
+      "deepseek",
+      "gguf",
+      "gsq",
+      "ist-daslab",
+      "license:mit",
+      "mixed-precision",
+      "moe",
+      "quantization",
+      "rco",
+      "region:us",
+      "text-generation"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+    "local_path": "models/ista-daslab/hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF.json"
+  },
+  {
     "id": "hf_IlyaGusev_saiga_llama3_8b",
     "title": "IlyaGusev/saiga_llama3_8b",
     "category": "text-generation",
@@ -329203,13 +329235,47 @@
     "local_path": "datasets/syn4d/hf_ds_6a382f6fa519cd301493b37b.json"
   },
   {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
     "title": "nvidia/simready-assets",
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
       "license:cc-by-4.0",
-      "region:us"
+      "region:us",
+      "simready"
     ],
     "links": {
       "related_models": [],
@@ -347644,6 +347710,16 @@
     "local_path": "models/bartowski/model_bartowski_mistral_small_24b_instruct_2501_gguf.json"
   },
   {
+    "id": "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf",
+    "title": "bartowski/mlabonne_Qwen3-8B-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/bartowski/model_bartowski_mlabonne_qwen3_8b_abliterated_gguf.json"
+  },
+  {
     "id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
     "title": "bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF",
     "category": "models",
@@ -348152,6 +348228,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/bigcode/model_bigcode_tiny_starcoder_py.json"
+  },
+  {
+    "id": "model_bigscience_bloom_1b1",
+    "title": "bigscience/bloom-1b1",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/bigscience/model_bigscience_bloom_1b1.json"
   },
   {
     "id": "model_bigscience_bloom_1b7",
@@ -352804,6 +352890,16 @@
     "local_path": "models/kingjones777/model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf.json"
   },
   {
+    "id": "model_kisti_koni_koni_llama3_1_8b_instruct_20241024",
+    "title": "KISTI-KONI/KONI-Llama3.1-8B-Instruct-20241024",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/kisti-koni/model_kisti_koni_koni_llama3_1_8b_instruct_20241024.json"
+  },
+  {
     "id": "model_kmhf_hf_moshiko",
     "title": "kmhf/hf-moshiko",
     "category": "models",
@@ -355222,6 +355318,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/meta-llama/model_meta_llama_llama_guard_3_8b.json"
+  },
+  {
+    "id": "model_meta_llama_llama_guard_3_8b_int8",
+    "title": "meta-llama/Llama-Guard-3-8B-INT8",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/meta-llama/model_meta_llama_llama_guard_3_8b_int8.json"
   },
   {
     "id": "model_meta_llama_meta_llama_3_70b",
@@ -357924,6 +358030,16 @@
     "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_122b_gguf.json"
   },
   {
+    "id": "model_ornith_ai_ornith_1_5_122b_mlx",
+    "title": "ornith-ai/Ornith-1.5-122B-MLX",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ornith-ai/model_ornith_ai_ornith_1_5_122b_mlx.json"
+  },
+  {
     "id": "model_ornith_ai_ornith_1_5_122b_nvfp4",
     "title": "ornith-ai/Ornith-1.5-122B-NVFP4",
     "category": "models",
@@ -359452,6 +359568,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/qwen/model_qwen_qwen2_5_coder_0_5b_instruct.json"
+  },
+  {
+    "id": "model_qwen_qwen2_5_coder_0_5b_instruct_gguf",
+    "title": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/qwen/model_qwen_qwen2_5_coder_0_5b_instruct_gguf.json"
   },
   {
     "id": "model_qwen_qwen2_5_coder_14b",

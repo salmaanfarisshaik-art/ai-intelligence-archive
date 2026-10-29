@@ -1198,11 +1198,17 @@
 - **URL**: [https://huggingface.co/datasets/Syn4D/Syn4D](https://huggingface.co/datasets/Syn4D/Syn4D)
 - **Tags**: arxiv:2605.05207, license:cc-by-4.0, region:us
 
+## ilabai/3dcodeverse
+- **ID**: hf_ds_6a409561222ffbb14f69924c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
+- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
+
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/nvidia/simready-assets](https://huggingface.co/datasets/nvidia/simready-assets)
-- **Tags**: license:cc-by-4.0, region:us
+- **Tags**: license:cc-by-4.0, region:us, simready
 
 ## StringFellow/fusion-dw
 - **ID**: hf_ds_6a44a4c981d12be393e7749d

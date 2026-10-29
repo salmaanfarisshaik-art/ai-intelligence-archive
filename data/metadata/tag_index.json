@@ -29,6 +29,7 @@
   "3d": [
     "hf_ds_63977bb96bdef8095268ded0",
     "hf_ds_67e58fa6625f0f6c8447f37c",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
   ],
   "3d-occupancy": [
@@ -750,9 +751,11 @@
     "hf_zai-org_GLM-5.2-FP8"
   ],
   "arxiv:2604.18556": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "arxiv:2605.00649": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "arxiv:2605.05207": [
@@ -797,6 +800,9 @@
   ],
   "arxiv:2609.03591": [
     "hf_ds_6a7460ebf3031d8573c2fe30"
+  ],
+  "arxiv:2610.22341": [
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "at-t": [
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
@@ -925,6 +931,9 @@
   "base_model:deepseek-ai/DeepSeek-V4-Flash": [
     "hf_antirez_deepseek-v4-gguf"
   ],
+  "base_model:deepseek-ai/DeepSeek-V4.1-Flash-1017": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+  ],
   "base_model:finetune:01-ai/Yi-1.5-34B": [
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b"
   ],
@@ -1041,6 +1050,9 @@
   "base_model:quantized:deepseek-ai/DeepSeek-V4-Flash": [
     "hf_antirez_deepseek-v4-gguf"
   ],
+  "base_model:quantized:deepseek-ai/DeepSeek-V4.1-Flash-1017": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+  ],
   "base_model:quantized:google/gemma-3-1b-it": [
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
@@ -1061,6 +1073,7 @@
   ],
   "benchmark": [
     "hf_ds_67e58fa6625f0f6c8447f37c",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4f0a92e633070a2d287ef9"
   ],
   "benchmark:eval-yaml": [
@@ -1094,7 +1107,8 @@
     "hf_CMSManhattan_JiRackUltra_1b"
   ],
   "blender": [
-    "hf_ds_6a041befe1a5a3103b518efb"
+    "hf_ds_6a041befe1a5a3103b518efb",
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "bonsai": [
     "hf_prism-ml_Bonsai-27B-gguf",
@@ -1155,7 +1169,8 @@
     "hf_microsoft_Phi-3.5-vision-instruct"
   ],
   "code-generation": [
-    "hf_ds_621ffdd236468d709f181eb4"
+    "hf_ds_621ffdd236468d709f181eb4",
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "coding-agents": [
     "hf_ds_6a4f0a92e633070a2d287ef9"
@@ -1195,6 +1210,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_CMSManhattan_JiRackUltra_1b",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen2-1.5B-Instruct",
@@ -1479,6 +1495,7 @@
   ],
   "deepseek": [
     "hf_CMSManhattan_JiRackUltra_1b",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_antirez_deepseek-v4-gguf"
   ],
   "deepseek-v4": [
@@ -2118,6 +2135,7 @@
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF",
     "hf_CMSManhattan_JiRackUltra_1b",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
@@ -2197,6 +2215,7 @@
     "hf_ds_6a041befe1a5a3103b518efb"
   ],
   "gsq": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "hacker-news": [
@@ -2298,6 +2317,9 @@
   ],
   "iq2_xxs": [
     "hf_antirez_deepseek-v4-gguf"
+  ],
+  "ist-daslab": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
   ],
   "it": [
     "hf_CMSManhattan_JiRackUltra_1b",
@@ -2840,6 +2862,7 @@
     "hf_ds_6a18ded575c463d5aecfcf4d",
     "hf_ds_6a2ec08ae425e2822f53fef3",
     "hf_ds_6a307dae8e258cbed418ec58",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a5466cdd7c4631ab9b28b80",
@@ -4737,7 +4760,8 @@
     "hf_ds_621ffdd236468d709f1835cf",
     "hf_ds_6601c221829a6282b76a308d",
     "hf_ds_6993525c8be5bf8321bcc775",
-    "hf_ds_69b0d60653fc22f5d5d3c07f"
+    "hf_ds_69b0d60653fc22f5d5d3c07f",
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "license:cc-by-sa-3.0": [
     "hf_ds_621ffdd236468d709f18200d",
@@ -4780,6 +4804,7 @@
   ],
   "license:mit": [
     "hf_CMSManhattan_JiRackUltra_1b",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_antirez_deepseek-v4-gguf",
     "hf_deepreinforce-ai_Ornith-1.0-9B-GGUF",
     "hf_deepseek-ai_DeepSeek-R1",
@@ -5014,6 +5039,9 @@
   "mistral-common": [
     "hf_mistralai_Mistral-7B-Instruct-v0.2"
   ],
+  "mixed-precision": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+  ],
   "mixture-of-experts": [
     "hf_antirez_deepseek-v4-gguf"
   ],
@@ -5034,6 +5062,7 @@
     "hf_ds_68822a776cf08537cb6be0af",
     "hf_ds_6901510f85821f56ae6f5438",
     "hf_ds_69e7409e244b695efe87097a",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e"
   ],
   "modality:audio": [
@@ -5081,6 +5110,7 @@
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
     "hf_ds_6a18ded575c463d5aecfcf4d",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
@@ -5193,6 +5223,7 @@
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a34c6065edc6bacb0b36213",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a60568ac2d6c31b7f81bdc8",
     "hf_ds_6a702b9b89beb4ee925c3e28",
@@ -5238,6 +5269,7 @@
     "hf_nvidia_Qwen3.6-35B-A3B-NVFP4"
   ],
   "moe": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_antirez_deepseek-v4-gguf"
   ],
   "mongodb": [
@@ -5508,6 +5540,9 @@
   "probes": [
     "hf_ds_6a000179f854441c31227673"
   ],
+  "procedural-3d": [
+    "hf_ds_6a409561222ffbb14f69924c"
+  ],
   "processed": [
     "hf_ds_66674f5483de542b724d771e"
   ],
@@ -5569,6 +5604,9 @@
   ],
   "qa-nli": [
     "hf_ds_621ffdd236468d709f181e3f"
+  ],
+  "quantization": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
   ],
   "quantized": [
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
@@ -5654,6 +5692,7 @@
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
   "rco": [
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
   ],
   "react": [
@@ -5690,6 +5729,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",
@@ -5927,6 +5967,7 @@
     "hf_ds_6a34c6065edc6bacb0b36213",
     "hf_ds_6a3519d6ceabed997ec9ea1e",
     "hf_ds_6a382f6fa519cd301493b37b",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a429172c50c64cfb0a54dfb",
     "hf_ds_6a44a4c981d12be393e7749d",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
@@ -6174,6 +6215,9 @@
   "shp": [
     "hf_ds_6a9b618da26f068ce99f0512"
   ],
+  "simready": [
+    "hf_ds_6a429172c50c64cfb0a54dfb"
+  ],
   "simulation": [
     "hf_ds_692ecca11aad0a1d75ac057c"
   ],
@@ -6292,6 +6336,7 @@
     "hf_ds_69c2419dda894d8e5757461f",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a34c6065edc6bacb0b36213",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a9b618da26f068ce99f0512"
   ],
   "size_categories:n<1K": [
@@ -6545,7 +6590,8 @@
     "hf_ds_68e91443c366e5879388a4d4"
   ],
   "task_categories:image-to-3d": [
-    "hf_ds_67e58fa6625f0f6c8447f37c"
+    "hf_ds_67e58fa6625f0f6c8447f37c",
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "task_categories:image-to-text": [
     "hf_ds_669caf535bd3f749a3c87c11",
@@ -6662,6 +6708,9 @@
   "task_categories:text-retrieval": [
     "hf_ds_64980085fa9591cb3dc4d378",
     "hf_ds_69be6056f46b7dff732d8c53"
+  ],
+  "task_categories:text-to-3d": [
+    "hf_ds_6a409561222ffbb14f69924c"
   ],
   "task_categories:text-to-image": [
     "hf_ds_69f0c6101cc98d8ac04c03cd"
@@ -6801,6 +6850,7 @@
     "hf_EleutherAI_pythia-70m-deduped",
     "hf_HuggingFaceTB_SmolLM2-135M",
     "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
+    "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF",
     "hf_MiniMaxAI_MiniMax-M2.7",
     "hf_Qwen_Qwen-72B",

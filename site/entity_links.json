@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:21:51Z",
+  "generated_at": "2026-10-29T16:37:04Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -24,6 +24,11 @@
     {
       "source_id": "hf_HuggingFaceTB_SmolLM2-135M-Instruct",
       "target_id": "hf_HuggingFaceTB_SmolLM2-135M",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
       "type": "derived_from"
     },
     {
@@ -1034,6 +1039,11 @@
     {
       "source_id": "model_atomicchat_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_nanbeige4_3_33b_gguf",
+      "target_id": "hf_Nanbeige_Nanbeige4.3-33B",
       "type": "derived_from"
     },
     {
@@ -2405,6 +2415,16 @@
       "source_id": "model_distilbert_distilgpt2",
       "target_id": "hf_openwebtext",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf",
+      "target_id": "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4",
+      "target_id": "hf_huihui-ai_Huihui-Qwen3.8-27B-abliterated",
+      "type": "derived_from"
     },
     {
       "source_id": "model_dphn_dolphin_2_9_1_llama_3_70b",
@@ -3924,6 +3944,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_8b_a1b_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-8B-A1B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm3_1_7b_gguf",
+      "target_id": "hf_LiquidAI_LFM3-1.7B",
       "type": "derived_from"
     },
     {
@@ -6979,6 +7004,11 @@
     {
       "source_id": "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "target_id": "hf_zai-org_GLM-5.3-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_org2ai_wald_26b_a4b",
+      "target_id": "hf_google_gemma-4-26B-A4B-it",
       "type": "derived_from"
     },
     {

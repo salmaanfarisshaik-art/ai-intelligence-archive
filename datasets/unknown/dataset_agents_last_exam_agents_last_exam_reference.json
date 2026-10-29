@@ -5,11 +5,11 @@
   "disabled": false,
   "gated": "manual",
   "lastModified": "2026-10-22T06:51:11.000Z",
-  "likes": 12,
+  "likes": 13,
   "private": false,
   "sha": "e6a990308d79da249d596871c2cc9a40396e4e22",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tAgents Last Exam v1.1 — Reference Data\n\t\n\n122 active tasks. Use matching v1.1 task code, environment images, and data revisions.\nEvaluator references are under tasks/<task_id>/<variant>/reference/. Access requires manual approval. Do not use references for model training, expose them to an agent during evaluation, or redistribute them. Stage references only after the solver stops.\nRestore native filenames at the snapshot root with tar -xf _transport/v1.1/path-compatibility.tar -C… See the full description on the dataset page: https://huggingface.co/datasets/agents-last-exam/agents-last-exam-reference.",
-  "downloads": 41941,
+  "downloads": 42055,
   "tags": [
     "language:en",
     "license:cc-by-4.0",

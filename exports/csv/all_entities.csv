@@ -28423,6 +28423,7 @@ hf_HuggingFaceTB_SmolLM3-3B,HuggingFaceTB/SmolLM3-3B,text-generation,Hugging Fac
 hf_HuggingFaceTB_SmolLM3-3B-Base,HuggingFaceTB/SmolLM3-3B-Base,text-generation,Hugging Face,,https://huggingface.co/HuggingFaceTB/SmolLM3-3B-Base
 hf_IQuestLab_IQuest-Coder-V1-40B-Instruct,IQuestLab/IQuest-Coder-V1-40B-Instruct,text-generation,Hugging Face,,https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Instruct
 hf_IQuestLab_IQuest-Coder-V1-40B-Loop-Instruct,IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct,text-generation,Hugging Face,,https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct
+hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF,ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF,text-generation,Hugging Face,arxiv:2604.18556|arxiv:2605.00649|base_model:deepseek-ai/DeepSeek-V4.1-Flash-1017|base_model:quantized:deepseek-ai/DeepSeek-V4.1-Flash-1017|conversational|deepseek|gguf|gsq|ist-daslab|license:mit|mixed-precision|moe|quantization|rco|region:us|text-generation,https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
 hf_IlyaGusev_saiga_llama3_8b,IlyaGusev/saiga_llama3_8b,text-generation,Hugging Face,,https://huggingface.co/IlyaGusev/saiga_llama3_8b
 hf_Isotr0py_deepseek-vl2-tiny,Isotr0py/deepseek-vl2-tiny,text-generation,Hugging Face,,https://huggingface.co/Isotr0py/deepseek-vl2-tiny
 hf_JackFram_llama-160m,JackFram/llama-160m,text-generation,Hugging Face,,https://huggingface.co/JackFram/llama-160m
@@ -29070,7 +29071,8 @@ hf_ds_6a307dae8e258cbed418ec58,XDOF/ABC-130k,dataset,HuggingFace Datasets,arxiv:
 hf_ds_6a34c6065edc6bacb0b36213,espnet/yodas3,dataset,HuggingFace Datasets,format:parquet|library:dask|library:datasets|library:mlcroissant|library:polars|license:cc-by-3.0|modality:audio|modality:tabular|modality:text|region:us|size_categories:1M<n<10M|task_categories:audio-to-audio|task_categories:automatic-speech-recognition|task_categories:text-to-speech|task_categories:translation,https://huggingface.co/datasets/espnet/yodas3
 hf_ds_6a3519d6ceabed997ec9ea1e,k9cli/video-vec2wav2-tokenizer,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/k9cli/video-vec2wav2-tokenizer
 hf_ds_6a382f6fa519cd301493b37b,Syn4D/Syn4D,dataset,HuggingFace Datasets,arxiv:2605.05207|license:cc-by-4.0|region:us,https://huggingface.co/datasets/Syn4D/Syn4D
-hf_ds_6a429172c50c64cfb0a54dfb,nvidia/simready-assets,dataset,HuggingFace Datasets,license:cc-by-4.0|region:us,https://huggingface.co/datasets/nvidia/simready-assets
+hf_ds_6a409561222ffbb14f69924c,ilabai/3dcodeverse,dataset,HuggingFace Datasets,3d|arxiv:2610.22341|benchmark|blender|code-generation|language:en|license:cc-by-nc-sa-4.0|modality:3d|modality:image|modality:text|procedural-3d|region:us|size_categories:1M<n<10M|task_categories:image-to-3d|task_categories:text-to-3d,https://huggingface.co/datasets/ilabai/3dcodeverse
+hf_ds_6a429172c50c64cfb0a54dfb,nvidia/simready-assets,dataset,HuggingFace Datasets,license:cc-by-4.0|region:us|simready,https://huggingface.co/datasets/nvidia/simready-assets
 hf_ds_6a44a4c981d12be393e7749d,StringFellow/fusion-dw,dataset,HuggingFace Datasets,license:apache-2.0|region:us,https://huggingface.co/datasets/StringFellow/fusion-dw
 hf_ds_6a4cbc564cdc8fc41b0f1b93,inclusionAI/OpenAoE-2000h,dataset,HuggingFace Datasets,arxiv:2607.14183|atomic-actions|egocentric|hand-pose|language:en|language:zh|license:other|manipulation|mano|modality:image|modality:video|region:us,https://huggingface.co/datasets/inclusionAI/OpenAoE-2000h
 hf_ds_6a4f0a92e633070a2d287ef9,JoeLiu996/NatureBench,dataset,HuggingFace Datasets,arxiv:2606.24530|benchmark|coding-agents|format:json|language:en|library:datasets|library:mlcroissant|library:pandas|library:polars|license:other|modality:image|modality:text|nature|region:us|scientific-machine-learning|size_categories:n<1K,https://huggingface.co/datasets/JoeLiu996/NatureBench
@@ -30771,6 +30773,7 @@ model_bartowski_microsoft_phi_4_mini_instruct_gguf,bartowski/microsoft_Phi-4-min
 model_bartowski_mistral_7b_instruct_v0_3_gguf,bartowski/Mistral-7B-Instruct-v0.3-GGUF,models,,,
 model_bartowski_mistral_nemo_instruct_2407_gguf,bartowski/Mistral-Nemo-Instruct-2407-GGUF,models,,,
 model_bartowski_mistral_small_24b_instruct_2501_gguf,bartowski/Mistral-Small-24B-Instruct-2501-GGUF,models,,,
+model_bartowski_mlabonne_qwen3_8b_abliterated_gguf,bartowski/mlabonne_Qwen3-8B-abliterated-GGUF,models,,,
 model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf,bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF,models,,,
 model_bartowski_nanbeige_nanbeige4_3_33b_gguf,bartowski/Nanbeige_Nanbeige4.3-33B-GGUF,models,,,
 model_bartowski_nemomix_unleashed_12b_gguf,bartowski/NemoMix-Unleashed-12B-GGUF,models,,,
@@ -30822,6 +30825,7 @@ model_bigcode_gpt_bigcode_santacoder,bigcode/gpt_bigcode-santacoder,models,,,
 model_bigcode_starcoder2_3b,bigcode/starcoder2-3b,models,,,
 model_bigcode_starcoder2_7b,bigcode/starcoder2-7b,models,,,
 model_bigcode_tiny_starcoder_py,bigcode/tiny_starcoder_py,models,,,
+model_bigscience_bloom_1b1,bigscience/bloom-1b1,models,,,
 model_bigscience_bloom_1b7,bigscience/bloom-1b7,models,,,
 model_bigscience_bloom_560m,bigscience/bloom-560m,models,,,
 model_bigscience_bloomz_560m,bigscience/bloomz-560m,models,,,
@@ -31287,6 +31291,7 @@ model_kevinjk51_qwen3_6_12b_iq_ultra_heretic_uncensored_thinking_v2_hightop_gguf
 model_kindlingai_glm_5_3_exlr8_k2_k3_k4,kindlingai/glm-5.3-exlr8-k2-k3-k4,models,,,
 model_kingjones777_qwen3_8_27b_rocmfp4_strix_mtp_gguf,kingjones777/Qwen3.8-27B-ROCmFP4-STRIX-MTP-GGUF,models,,,
 model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf,kingjones777/Qwen3.8-Flash-Next-Uncensored-ROCmFP4-FAST-GGUF,models,,,
+model_kisti_koni_koni_llama3_1_8b_instruct_20241024,KISTI-KONI/KONI-Llama3.1-8B-Instruct-20241024,models,,,
 model_kmhf_hf_moshiko,kmhf/hf-moshiko,models,,,
 model_kosbu_llama_3_3_70b_instruct_awq,kosbu/Llama-3.3-70B-Instruct-AWQ,models,,,
 model_kridgedookie_qwen3_8_27b_abliterated_uncensored_philadelphia_class,KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS,models,,,
@@ -31529,6 +31534,7 @@ model_meta_llama_llama_3_2_3b_instruct,meta-llama/Llama-3.2-3B-Instruct,models,,
 model_meta_llama_llama_3_3_70b_instruct,meta-llama/Llama-3.3-70B-Instruct,models,,,
 model_meta_llama_llama_guard_3_1b,meta-llama/Llama-Guard-3-1B,models,,,
 model_meta_llama_llama_guard_3_8b,meta-llama/Llama-Guard-3-8B,models,,,
+model_meta_llama_llama_guard_3_8b_int8,meta-llama/Llama-Guard-3-8B-INT8,models,,,
 model_meta_llama_meta_llama_3_70b,meta-llama/Meta-Llama-3-70B,models,,,
 model_meta_llama_meta_llama_3_70b_instruct,meta-llama/Meta-Llama-3-70B-Instruct,models,,,
 model_meta_llama_meta_llama_3_8b,meta-llama/Meta-Llama-3-8B,models,,,
@@ -31799,6 +31805,7 @@ model_ornith_ai_ornith_1_0_9b_gguf,ornith-ai/Ornith-1.0-9B-GGUF,models,,,
 model_ornith_ai_ornith_1_5_122b,ornith-ai/Ornith-1.5-122B,models,,,
 model_ornith_ai_ornith_1_5_122b_fp8,ornith-ai/Ornith-1.5-122B-FP8,models,,,
 model_ornith_ai_ornith_1_5_122b_gguf,ornith-ai/Ornith-1.5-122B-GGUF,models,,,
+model_ornith_ai_ornith_1_5_122b_mlx,ornith-ai/Ornith-1.5-122B-MLX,models,,,
 model_ornith_ai_ornith_1_5_122b_nvfp4,ornith-ai/Ornith-1.5-122B-NVFP4,models,,,
 model_ornith_ai_ornith_1_5_35b_a3b,ornith-ai/Ornith-1.5-35B-A3B,models,,,
 model_ornith_ai_ornith_1_5_35b_a3b_fp8,ornith-ai/Ornith-1.5-35B-A3B-FP8,models,,,
@@ -31952,6 +31959,7 @@ model_qwen_qwen2_5_7b_instruct_gptq_int4,Qwen/Qwen2.5-7B-Instruct-GPTQ-Int4,mode
 model_qwen_qwen2_5_7b_instruct_gptq_int8,Qwen/Qwen2.5-7B-Instruct-GPTQ-Int8,models,,,
 model_qwen_qwen2_5_coder_0_5b,Qwen/Qwen2.5-Coder-0.5B,models,,,
 model_qwen_qwen2_5_coder_0_5b_instruct,Qwen/Qwen2.5-Coder-0.5B-Instruct,models,,,
+model_qwen_qwen2_5_coder_0_5b_instruct_gguf,Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF,models,,,
 model_qwen_qwen2_5_coder_14b,Qwen/Qwen2.5-Coder-14B,models,,,
 model_qwen_qwen2_5_coder_14b_instruct,Qwen/Qwen2.5-Coder-14B-Instruct,models,,,
 model_qwen_qwen2_5_coder_14b_instruct_awq,Qwen/Qwen2.5-Coder-14B-Instruct-AWQ,models,,,

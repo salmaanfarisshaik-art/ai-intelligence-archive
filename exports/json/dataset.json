@@ -6102,13 +6102,47 @@
     "local_path": "datasets/syn4d/hf_ds_6a382f6fa519cd301493b37b.json"
   },
   {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
     "title": "nvidia/simready-assets",
     "category": "dataset",
     "source": "HuggingFace Datasets",
     "tags": [
       "license:cc-by-4.0",
-      "region:us"
+      "region:us",
+      "simready"
     ],
     "links": {
       "related_models": [],

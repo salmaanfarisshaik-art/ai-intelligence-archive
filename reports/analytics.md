@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92130
+**Total Entities Tracked**: 92138
 
 ## Category Distribution
 
@@ -8,11 +8,11 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2545
-- **models**: 1932
+- **models**: 1938
 - **cs.CV**: 1455
 - **news**: 1360
-- **dataset**: 1226
-- **text-generation**: 1015
+- **dataset**: 1227
+- **text-generation**: 1016
 - **cs.CL**: 946
 - **cs.AI**: 907
 - **cs.LG**: 529
@@ -99,11 +99,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31655
+- ****: 31661
 - **ArXiv**: 4708
-- **Hugging Face**: 2023
+- **Hugging Face**: 2024
 - **OpenAI Blog**: 1346
-- **HuggingFace Datasets**: 226
+- **HuggingFace Datasets**: 227
 - **GitHub Trending**: 58
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -143,19 +143,19 @@
 
 ## Top Tags
 
-- **region:us**: 315
-- **text-generation**: 90
+- **region:us**: 317
+- **text-generation**: 91
 - **library:datasets**: 87
 - **library:mlcroissant**: 87
-- **modality:text**: 83
-- **language:en**: 77
+- **modality:text**: 84
+- **language:en**: 78
 - **endpoints_compatible**: 76
 - **license:apache-2.0**: 75
 - **safetensors**: 75
 - **transformers**: 75
-- **conversational**: 71
+- **conversational**: 72
 - **library:polars**: 63
-- **license:mit**: 54
+- **license:mit**: 55
 - **format:parquet**: 49
 - **text-generation-inference**: 38
 - **deploy:azure**: 36
@@ -163,9 +163,9 @@
 - **library:pandas**: 32
 - **task_categories:text-generation**: 32
 - **library:dask**: 31
+- **modality:image**: 30
 - **eval-results**: 29
 - **license:other**: 29
-- **modality:image**: 29
 - **deploy:sagemaker**: 28
 - **enterprise**: 25
 - **size_categories:n<1K**: 25
@@ -177,13 +177,13 @@
 - **task_categories:robotics**: 17
 - **api**: 16
 - **size_categories:100K<n<1M**: 16
+- **gguf**: 14
 - **license:odc-by**: 14
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
+- **size_categories:1M<n<10M**: 14
 - **source_datasets:original**: 14
 - **fp8**: 13
-- **gguf**: 13
-- **size_categories:1M<n<10M**: 13
 - **arxiv:2505.09388**: 12
 - **custom_code**: 12
 - **size_categories:1K<n<10K**: 12

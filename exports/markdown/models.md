@@ -632,6 +632,10 @@
 - **ID**: model_bartowski_mistral_small_24b_instruct_2501_gguf
 - **Source**: 
 
+## bartowski/mlabonne_Qwen3-8B-abliterated-GGUF
+- **ID**: model_bartowski_mlabonne_qwen3_8b_abliterated_gguf
+- **Source**: 
+
 ## bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF
 - **ID**: model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf
 - **Source**: 
@@ -834,6 +838,10 @@
 
 ## bigcode/tiny_starcoder_py
 - **ID**: model_bigcode_tiny_starcoder_py
+- **Source**: 
+
+## bigscience/bloom-1b1
+- **ID**: model_bigscience_bloom_1b1
 - **Source**: 
 
 ## bigscience/bloom-1b7
@@ -2696,6 +2704,10 @@
 - **ID**: model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf
 - **Source**: 
 
+## KISTI-KONI/KONI-Llama3.1-8B-Instruct-20241024
+- **ID**: model_kisti_koni_koni_llama3_1_8b_instruct_20241024
+- **Source**: 
+
 ## kmhf/hf-moshiko
 - **ID**: model_kmhf_hf_moshiko
 - **Source**: 
@@ -3662,6 +3674,10 @@
 
 ## meta-llama/Llama-Guard-3-8B
 - **ID**: model_meta_llama_llama_guard_3_8b
+- **Source**: 
+
+## meta-llama/Llama-Guard-3-8B-INT8
+- **ID**: model_meta_llama_llama_guard_3_8b_int8
 - **Source**: 
 
 ## meta-llama/Meta-Llama-3-70B
@@ -4744,6 +4760,10 @@
 - **ID**: model_ornith_ai_ornith_1_5_122b_gguf
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-122B-MLX
+- **ID**: model_ornith_ai_ornith_1_5_122b_mlx
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-122B-NVFP4
 - **ID**: model_ornith_ai_ornith_1_5_122b_nvfp4
 - **Source**: 
@@ -5354,6 +5374,10 @@
 
 ## Qwen/Qwen2.5-Coder-0.5B-Instruct
 - **ID**: model_qwen_qwen2_5_coder_0_5b_instruct
+- **Source**: 
+
+## Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF
+- **ID**: model_qwen_qwen2_5_coder_0_5b_instruct_gguf
 - **Source**: 
 
 ## Qwen/Qwen2.5-Coder-14B

@@ -1,0 +1,26 @@
+{
+  "_id": "6adf6ec0b05f6f30da778562",
+  "id": "MJPansa/qwen38-eagle4-native-features-24m-20261026-f2638314",
+  "author": "MJPansa",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-26T22:37:17.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "8c68e252df3cc3e0ce900c3c988a46c5dd85dccb",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tQwen native features from the second UltraChat generation pool\n\t\n\nThis dataset preserves the newly generated portion of the Spark 2 UltraChat\ncampaign after the first frozen 37.7M-token pool. It contains native token IDs,\nassistant masks, BF16 intermediate and final hidden states, per-record receipts,\nclosed capture manifests, independently checked feature inventories, prompt\nselections and raw generated responses. ARCHIVE_PLAN.json gives the immutable\ncatalog identity, totals and… See the full description on the dataset page: https://huggingface.co/datasets/MJPansa/qwen38-eagle4-native-features-24m-20261026-f2638314.",
+  "downloads": 36765,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "region:us",
+    "speculative-decoding",
+    "eagle",
+    "hidden-states",
+    "ultrachat"
+  ],
+  "createdAt": "2026-10-26T15:16:16.000Z",
+  "key": "",
+  "unique_id": "dataset_mjpansa_qwen38_eagle4_native_features_24m_20261026_f2638314",
+  "schema_version": "1.0"
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "6ad8a9bb9ef11d93cce1dc6e",
+  "id": "genrobot2025/Gen-HumanWholeBody",
+  "author": "genrobot2025",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-22T12:16:10.000Z",
+  "likes": 20,
+  "private": false,
+  "sha": "22a037591598f07992b2488e5eacc62b06a1036d",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tGen-HumanWholeBody Dataset Card\n\t\n\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Summary\n\t\n\nGen-HumanWholeBody is a high-precision whole-body manipulation dataset captured from DAS-Ego, released by GenRobot.AI. It contains 600 hours of continuous whole-body human manipulation data reconstructed via GenRobot's proprietary Data Foundation Model (DFM), with an average joint position error of approximately 3 cm.\nThe dataset covers 16,976 real-world scenarios and 1,281 distinct human skills, including tasks… See the full description on the dataset page: https://huggingface.co/datasets/genrobot2025/Gen-HumanWholeBody.",
+  "downloads": 30584,
+  "tags": [
+    "task_categories:robotics",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "region:us",
+    "robotics",
+    "embodied-ai",
+    "whole-body-manipulation",
+    "human-demonstrations",
+    "egocentric",
+    "mcap"
+  ],
+  "createdAt": "2026-10-21T12:02:03.000Z",
+  "key": "",
+  "unique_id": "dataset_genrobot2025_gen_humanwholebody",
+  "schema_version": "1.0"
+}

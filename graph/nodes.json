@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:21:08.876548+00:00",
+  "generated_at": "2026-10-29T16:36:10.149789+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -142125,6 +142125,11 @@
     },
     {
       "category": "text-generation",
+      "id": "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "label": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
+    },
+    {
+      "category": "text-generation",
       "id": "hf_IlyaGusev_saiga_llama3_8b",
       "label": "IlyaGusev/saiga_llama3_8b"
     },
@@ -145357,6 +145362,11 @@
       "category": "dataset",
       "id": "hf_ds_6a382f6fa519cd301493b37b",
       "label": "Syn4D/Syn4D"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a409561222ffbb14f69924c",
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
@@ -153865,6 +153875,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_mlabonne_qwen3_8b_abliterated_gguf",
+      "label": "bartowski/mlabonne_Qwen3-8B-abliterated-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_moonshotai_kimi_linear_48b_a3b_instruct_gguf",
       "label": "bartowski/moonshotai_Kimi-Linear-48B-A3B-Instruct-GGUF"
     },
@@ -154117,6 +154132,11 @@
       "category": "models",
       "id": "model_bigcode_tiny_starcoder_py",
       "label": "bigcode/tiny_starcoder_py"
+    },
+    {
+      "category": "models",
+      "id": "model_bigscience_bloom_1b1",
+      "label": "bigscience/bloom-1b1"
     },
     {
       "category": "models",
@@ -156445,6 +156465,11 @@
     },
     {
       "category": "models",
+      "id": "model_kisti_koni_koni_llama3_1_8b_instruct_20241024",
+      "label": "KISTI-KONI/KONI-Llama3.1-8B-Instruct-20241024"
+    },
+    {
+      "category": "models",
       "id": "model_kmhf_hf_moshiko",
       "label": "kmhf/hf-moshiko"
     },
@@ -157652,6 +157677,11 @@
       "category": "models",
       "id": "model_meta_llama_llama_guard_3_8b",
       "label": "meta-llama/Llama-Guard-3-8B"
+    },
+    {
+      "category": "models",
+      "id": "model_meta_llama_llama_guard_3_8b_int8",
+      "label": "meta-llama/Llama-Guard-3-8B-INT8"
     },
     {
       "category": "models",
@@ -159005,6 +159035,11 @@
     },
     {
       "category": "models",
+      "id": "model_ornith_ai_ornith_1_5_122b_mlx",
+      "label": "ornith-ai/Ornith-1.5-122B-MLX"
+    },
+    {
+      "category": "models",
       "id": "model_ornith_ai_ornith_1_5_122b_nvfp4",
       "label": "ornith-ai/Ornith-1.5-122B-NVFP4"
     },
@@ -159767,6 +159802,11 @@
       "category": "models",
       "id": "model_qwen_qwen2_5_coder_0_5b_instruct",
       "label": "Qwen/Qwen2.5-Coder-0.5B-Instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_qwen_qwen2_5_coder_0_5b_instruct_gguf",
+      "label": "Qwen/Qwen2.5-Coder-0.5B-Instruct-GGUF"
     },
     {
       "category": "models",
@@ -460655,5 +460695,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 92130
+  "total_nodes": 92138
 }

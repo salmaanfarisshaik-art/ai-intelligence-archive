@@ -357,6 +357,12 @@
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct](https://huggingface.co/IQuestLab/IQuest-Coder-V1-40B-Loop-Instruct)
 
+## ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
+- **ID**: hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
+- **Source**: Hugging Face
+- **URL**: [https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF](https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF)
+- **Tags**: arxiv:2604.18556, arxiv:2605.00649, base_model:deepseek-ai/DeepSeek-V4.1-Flash-1017, base_model:quantized:deepseek-ai/DeepSeek-V4.1-Flash-1017, conversational, deepseek, gguf, gsq, ist-daslab, license:mit, mixed-precision, moe, quantization, rco, region:us, text-generation
+
 ## IlyaGusev/saiga_llama3_8b
 - **ID**: hf_IlyaGusev_saiga_llama3_8b
 - **Source**: Hugging Face

@@ -1,0 +1,28 @@
+{
+  "_id": "69fbaa27cd3aa745e8c7c21f",
+  "id": "touhid314/cktformer-dataset",
+  "author": "touhid314",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-06T23:12:30.000Z",
+  "likes": 3,
+  "private": false,
+  "sha": "61f49bd1bad2206df8402e781d3787533a8e85c9",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCircuitFormer Dataset\n\t\n\nThis dataset contains a collection of 33,889 analog circuit netlists, images, and metadata collected from 62 textbooks.\n\n\t\n\t\t\n\t\n\t\n\t\tDirectory Structure\n\t\n\nThe dataset is organized into the following flattened directories (no train/test subfolders):\n\nimages/: Circuit diagrams (PNG format).\nmetadata/: JSON files containing circuit descriptions, names, and source information.\nnetlists/: SPICE netlist files (.cir).\n\n\n\t\n\t\t\n\t\n\t\n\t\tIndex Files\n\t\n\nThe dataset uses… See the full description on the dataset page: https://huggingface.co/datasets/touhid314/cktformer-dataset.",
+  "downloads": 32048,
+  "tags": [
+    "size_categories:10K<n<100K",
+    "format:json",
+    "modality:image",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:polars",
+    "library:mlcroissant",
+    "region:us"
+  ],
+  "createdAt": "2026-05-06T20:52:55.000Z",
+  "key": "",
+  "unique_id": "dataset_touhid314_cktformer_dataset",
+  "schema_version": "1.0"
+}

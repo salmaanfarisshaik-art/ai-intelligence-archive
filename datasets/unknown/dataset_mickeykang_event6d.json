@@ -9,7 +9,7 @@
   "private": false,
   "sha": "fc48870b90a25c673027f878b8f93d495db29f6f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tEvent6D Dataset (Real-World Capture)\n\t\n\nReal-world hand-held capture used as the primary test set in\nEvent6D (CVPR 2026).\nHand-held capture of 16 daily YCB-style objects from random viewpoints and motions.\n\n\t\n\t\t\n\t\n\t\n\t\tSplits\n\t\n\n\n\t\n\t\t\nSplit\nSequences\nObjects\nList\n\n\n\t\t\ntest\n14 (one per object)\n14\ntest.txt\n\n\ntrain\n37\n16 (adds clamp, pudding)\ntrain.txt\n\n\n\t\n\nThe paper evaluates on the test split only; models are trained on the synthetic\nEventBlender6D data and\nnever see the real train… See the full description on the dataset page: https://huggingface.co/datasets/mickeykang/Event6D.",
-  "downloads": 49220,
+  "downloads": 49457,
   "tags": [
     "task_categories:object-detection",
     "license:cc-by-nc-4.0",
