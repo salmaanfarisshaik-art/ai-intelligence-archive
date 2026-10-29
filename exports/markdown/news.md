@@ -3216,6 +3216,11 @@
 - **URL**: [https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)
 
 ## 
+- **ID**: rss_https://openai.com/index/how-we-detect-frontier-model-misalignment
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/how-we-detect-frontier-model-misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)
+
+## 
 - **ID**: rss_https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)
@@ -5646,6 +5651,11 @@
 - **URL**: [https://openai.com/index/rogo](https://openai.com/index/rogo)
 
 ## 
+- **ID**: rss_https://openai.com/index/ropes-gray-ai-diligence
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/ropes-gray-ai-diligence](https://openai.com/index/ropes-gray-ai-diligence)
+
+## 
 - **ID**: rss_https://openai.com/index/rox
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/rox](https://openai.com/index/rox)
@@ -6539,6 +6549,11 @@
 - **ID**: rss_https://openai.com/index/update-on-the-openai-foundation
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/update-on-the-openai-foundation](https://openai.com/index/update-on-the-openai-foundation)
+
+## 
+- **ID**: rss_https://openai.com/index/updated-model-spec
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/updated-model-spec](https://openai.com/index/updated-model-spec)
 
 ## 
 - **ID**: rss_https://openai.com/index/updating-model-spec-with-teen-protections

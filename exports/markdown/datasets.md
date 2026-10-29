@@ -25,6 +25,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_2077aidatafoundation_touchscale
+- **Source**: 
+
+## 
 - **ID**: dataset_3dlg_hcvc_omages_abo
 - **Source**: 
 
@@ -262,6 +266,10 @@
 
 ## 
 - **ID**: dataset_akaruineko_acrone
+- **Source**: 
+
+## 
+- **ID**: dataset_akderekaan_de_power_forecast_data
 - **Source**: 
 
 ## 
@@ -2321,6 +2329,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_fineenvs_smoldataenvs
+- **Source**: 
+
+## 
+- **ID**: dataset_fineenvs_smoldataenvs_harbor_train
+- **Source**: 
+
+## 
 - **ID**: dataset_fineweb_retrieval_fineweb_edu_index
 - **Source**: 
 
@@ -2509,6 +2525,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_g4kmu_lemur
+- **Source**: 
+
+## 
 - **ID**: dataset_gair_darwin_cc
 - **Source**: 
 
@@ -2554,6 +2574,10 @@
 
 ## 
 - **ID**: dataset_genrobot2025_gen_humanego
+- **Source**: 
+
+## 
+- **ID**: dataset_genrobot2025_gen_humanwholebody
 - **Source**: 
 
 ## 
@@ -5029,6 +5053,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jamie33_july
+- **Source**: 
+
+## 
 - **ID**: dataset_japanese_asr_whisper_transcriptions_mls_wer_10_0
 - **Source**: 
 
@@ -5585,6 +5613,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_lerobot_libero
+- **Source**: 
+
+## 
 - **ID**: dataset_lerobot_pusht
 - **Source**: 
 
@@ -5702,6 +5734,10 @@
 
 ## 
 - **ID**: dataset_linzhan_mixamo_animations_characters
+- **Source**: 
+
+## 
+- **ID**: dataset_lioooox_t2i_corebench_images
 - **Source**: 
 
 ## 
@@ -6349,6 +6385,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_minhhuy1304_cbis_ddsm
+- **Source**: 
+
+## 
 - **ID**: dataset_mint_sjtu_la_33k
 - **Source**: 
 
@@ -6358,6 +6398,10 @@
 
 ## 
 - **ID**: dataset_mito0o852_ohlcv_1m
+- **Source**: 
+
+## 
+- **ID**: dataset_mjpansa_qwen38_eagle4_native_features_24m_20261026_f2638314
 - **Source**: 
 
 ## 
@@ -7489,6 +7533,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_oshonzongiintsetseg_videocopy_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_othmaneirl_maritime_visual_tracking_dataset_mvtd
 - **Source**: 
 
@@ -7822,6 +7870,10 @@
 
 ## 
 - **ID**: dataset_project_agml_tom2024_disease_classification
+- **Source**: 
+
+## 
+- **ID**: dataset_project_numina_aimo_validation_aime
 - **Source**: 
 
 ## 
@@ -9234,6 +9286,10 @@
 
 ## 
 - **ID**: dataset_torq1_fire_fusion_wa_1000m
+- **Source**: 
+
+## 
+- **ID**: dataset_touhid314_cktformer_dataset
 - **Source**: 
 
 ## 

@@ -4,15 +4,17 @@
   "author": "nvidia",
   "disabled": false,
   "gated": "auto",
-  "lastModified": "2026-07-30T19:24:29.000Z",
+  "lastModified": "2026-10-29T20:32:07.000Z",
   "likes": 266,
   "private": false,
-  "sha": "be4644840b1113527c86ebffc82b43fbb7d48b41",
-  "description": "\n\t\n\t\t\n\t\n\t\n\t\ttask_categories:\n- robotics\ntags:\n- physicalAI\n\t\n\nFind the 1500+ scenes in the sample_set/26.04_release folder.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description:\n\t\n\nNeural reconstructed dataset that carries 3D reconstructed driving scenes. The scenes are about 20 second long and stored in form of usdz files, along with respective xodr map files, surface mesh. The reconstructions were generated using 6 camera views (front-wide 120 deg, front-tele 30 deg, cross right/left 120 deg and rear right/left… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles-NuRec.",
+  "sha": "9a27fbd9f2fff88c93570ba2fad449d6064c78ca",
+  "description": "The main branch holds the 26.10 release in sample_set/26.10_release (1,601 scenes). Earlier releases are on branches: 26.04 (1,607 scenes in sample_set/26.04_release), 26.02, 26.01 and 25.05 (which also holds 25.07).\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description:\n\t\n\nNeural reconstructed dataset that carries 3D reconstructed driving scenes. The scenes are about 20 second long and stored in form of usdz files, along with respective xodr map files, surface mesh. The 26.10 reconstructions were generated using 7… See the full description on the dataset page: https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicles-NuRec.",
   "downloads": 51332,
   "tags": [
+    "task_categories:robotics",
     "license:other",
-    "region:us"
+    "region:us",
+    "physicalAI"
   ],
   "createdAt": "2025-06-05T20:32:38.000Z",
   "key": "",

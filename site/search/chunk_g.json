@@ -114925,6 +114925,11 @@
   ],
   "gray": [
     {
+      "entity_id": "rss_https://openai.com/index/ropes-gray-ai-diligence",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "arxiv_2610.30090v1",
       "match_type": "exact",
       "score": 2.0
@@ -126924,6 +126929,11 @@
       "entity_id": "dataset_uoft_cs_cifar100",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/ropes-gray-ai-diligence",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "grouping": [
@@ -133222,6 +133232,11 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/travelers",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/index/updated-model-spec",
       "match_type": "exact",
       "score": 1.0
     }

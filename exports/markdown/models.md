@@ -376,6 +376,10 @@
 - **ID**: model_atomicchat_ling_3_0_flash_gguf
 - **Source**: 
 
+## AtomicChat/Nanbeige4.3-33B-GGUF
+- **ID**: model_atomicchat_nanbeige4_3_33b_gguf
+- **Source**: 
+
 ## AtomicChat/Qwen3-4B-DFlash-GGUF
 - **ID**: model_atomicchat_qwen3_4b_dflash_gguf
 - **Source**: 
@@ -1476,6 +1480,14 @@
 - **ID**: model_distilbert_distilgpt2
 - **Source**: 
 
+## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v2-GGUF
+- **ID**: model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf
+- **Source**: 
+
+## dongfangshuo/Dongfangshuo-Qwen3.8-27B-NSFW-v4
+- **ID**: model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v4
+- **Source**: 
+
 ## Doradus-AI/RnJ-1-Instruct-FP8
 - **ID**: model_doradus_ai_rnj_1_instruct_fp8
 - **Source**: 
@@ -1850,6 +1862,10 @@
 
 ## flywheel-ai/automotive
 - **ID**: model_flywheel_ai_automotive
+- **Source**: 
+
+## frontterrain/HARP-1B
+- **ID**: model_frontterrain_harp_1b
 - **Source**: 
 
 ## GadflyII/GLM-4.7-Flash-NVFP4
@@ -2918,6 +2934,10 @@
 
 ## LiquidAI/LFM2-8B-A1B
 - **ID**: model_liquidai_lfm2_8b_a1b
+- **Source**: 
+
+## LiquidAI/LFM3-1.7B-GGUF
+- **ID**: model_liquidai_lfm3_1_7b_gguf
 - **Source**: 
 
 ## litert-community/DeepSeek-R1-Distill-Qwen-1.5B
@@ -4698,6 +4718,10 @@
 
 ## Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
 - **ID**: model_orenguteng_llama_3_1_8b_lexi_uncensored_v2
+- **Source**: 
+
+## org2ai/Wald-26B-A4B
+- **ID**: model_org2ai_wald_26b_a4b
 - **Source**: 
 
 ## org2ai/Wald-4B
