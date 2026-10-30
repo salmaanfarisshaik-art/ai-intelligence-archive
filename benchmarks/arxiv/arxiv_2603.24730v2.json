@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.24730v2",
+  "schema_version": "1.0",
+  "name": "Probing Human-Machine Perceptual Alignment with Semantically Ambiguous Images",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.24730v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.24730v2",
+    "updated": "2026-10-29T17:58:16Z",
+    "published": "2026-03-25T18:53:31Z",
+    "title": "Probing Human-Machine Perceptual Alignment with Semantically Ambiguous Images",
+    "summary": "The classic duck-rabbit illusion reveals a fundamental property of perception: when visual evidence is ambiguous, a visual system must resolve competing interpretations. But do humans and machine classifiers resolve the same ambiguity in the same way? To explore this, we use semantically ambiguous images as probes of human-machine perceptual alignment. Our psychophysically-informed framework interpolates between concepts in vision-language embedding space to generate continuous spectra of ambiguous images, enabling direct comparison of human and machine perceptual decision boundaries and sensitivities. We find systematic differences in these boundaries: machine classifiers are shifted relative to both human observers and the midpoint of the synthesis continuum. Guidance scale affects both bias and sensitivity in humans and the machine classifiers tested. Controlled semantic ambiguity in generated images, combined with a psychophysical framework, can thus enable quantitative evaluation of human-machine perceptual alignment.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-30T08:03:59Z",
+  "last_updated": "2026-10-29T17:58:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.24730v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

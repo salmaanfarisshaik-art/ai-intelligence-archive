@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.40640v1",
+  "schema_version": "1.0",
+  "name": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.40640v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.40640v1",
+    "updated": "2026-10-29T17:58:45Z",
+    "published": "2026-10-29T17:58:45Z",
+    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+    "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being intrinsically coupled with dynamic objects and events, remains largely unmodeled in prior work. We introduce Video-to-4DAVScene, a new task that turns a video into an explorable, time-varying 4D audio-visual scene, and present the SonoWorld4D framework for this task. Given a monocular video, our method generates a 360 static background, reconstructs explicit motion trajectories of dynamic, sound-emitting foreground objects, and synthesizes a physically-grounded sound field consistent across multiple sources through dual-space audio diffusion synchronization. The resulting 4D scene supports real-time novel-view visual and spatial audio rendering. Evaluation on real-world dynamic scenes and a user study demonstrates SonoWorld4D generates 4D audio-visual scenes with perceptually realistic, physically grounded spatial audio consistent with scene geometry and visual content.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-30T08:03:59Z",
+  "last_updated": "2026-10-29T17:58:45Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.40640v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

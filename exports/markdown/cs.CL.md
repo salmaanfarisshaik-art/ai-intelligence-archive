@@ -1260,6 +1260,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.27210v2](http://arxiv.org/abs/2606.27210v2)
 
+## Beyond Surface Forms: A Comprehensive, Mechanism-Oriented Taxonomy of Indirect Linguistic Encoding for LLM-Based Coded Language Detection
+- **ID**: arxiv_2606.27314v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.27314v3](http://arxiv.org/abs/2606.27314v3)
+
 ## MMLA: How Memory Lets the Past Shape the Future
 - **ID**: arxiv_2606.28876v3
 - **Source**: ArXiv
@@ -4710,6 +4715,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35846v1](http://arxiv.org/abs/2610.35846v1)
 
+## Frankly Speaking: The Company Election Integrity Keeps in Congressional Communication
+- **ID**: arxiv_2610.36187v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.36187v2](http://arxiv.org/abs/2610.36187v2)
+
 ## Metacognitive Decoding: Efficient Inference for Diffusion Language Agents
 - **ID**: arxiv_2610.37642v1
 - **Source**: ArXiv
@@ -4729,4 +4739,59 @@
 - **ID**: arxiv_2610.37651v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37651v1](http://arxiv.org/abs/2610.37651v1)
+
+## A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening
+- **ID**: arxiv_2610.40511v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40511v1](http://arxiv.org/abs/2610.40511v1)
+
+## How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates
+- **ID**: arxiv_2610.40516v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40516v1](http://arxiv.org/abs/2610.40516v1)
+
+## IndicIPR-QA: A Benchmark for Extractive Question Answering on Indian IPR Laws
+- **ID**: arxiv_2610.40518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40518v1](http://arxiv.org/abs/2610.40518v1)
+
+## Homebrewed SLMs: Autoregressive and Masked Diffusion Language Models Built at Home for Portuguese
+- **ID**: arxiv_2610.40533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40533v1](http://arxiv.org/abs/2610.40533v1)
+
+## Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation
+- **ID**: arxiv_2610.40574v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40574v1](http://arxiv.org/abs/2610.40574v1)
+
+## PIVOT: Progressive Intervention via Online Teacher Correction
+- **ID**: arxiv_2610.40576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40576v1](http://arxiv.org/abs/2610.40576v1)
+
+## Multi-View MoE: Letting Every Router Shape Expert Computation
+- **ID**: arxiv_2610.40577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40577v1](http://arxiv.org/abs/2610.40577v1)
+
+## When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder
+- **ID**: arxiv_2610.40611v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40611v1](http://arxiv.org/abs/2610.40611v1)
+
+## Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses
+- **ID**: arxiv_2610.40619v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40619v1](http://arxiv.org/abs/2610.40619v1)
+
+## ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender
+- **ID**: arxiv_2610.40627v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40627v1](http://arxiv.org/abs/2610.40627v1)
+
+## Elucidating the Design Space of LM Data Attribution
+- **ID**: arxiv_2610.40655v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40655v1](http://arxiv.org/abs/2610.40655v1)
 

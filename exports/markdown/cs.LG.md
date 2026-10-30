@@ -625,6 +625,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.10466v4](http://arxiv.org/abs/2606.10466v4)
 
+## Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training
+- **ID**: arxiv_2606.11854v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11854v2](http://arxiv.org/abs/2606.11854v2)
+
 ## Existence Precedes Value: Joint Modeling of Observational Existence and Evolving States in Time Series Forecasting
 - **ID**: arxiv_2606.13571v1
 - **Source**: ArXiv
@@ -2644,4 +2649,9 @@
 - **ID**: arxiv_2610.37657v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37657v1](http://arxiv.org/abs/2610.37657v1)
+
+## Rethinking Neural Thickets Without Weight Perturbations
+- **ID**: arxiv_2610.40649v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40649v1](http://arxiv.org/abs/2610.40649v1)
 

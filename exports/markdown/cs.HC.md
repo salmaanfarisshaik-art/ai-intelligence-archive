@@ -245,3 +245,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35757v1](http://arxiv.org/abs/2610.35757v1)
 
+## Micro-Edits: Computational Support for Fine-Scale Edits in Film
+- **ID**: arxiv_2610.40653v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40653v1](http://arxiv.org/abs/2610.40653v1)
+

@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.27867v1](http://arxiv.org/abs/2610.27867v1)
 
+## Discovering Interpretable Acoustic Features in Autoregressive Voice-Cloning TTS Models
+- **ID**: arxiv_2610.40505v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40505v1](http://arxiv.org/abs/2610.40505v1)
+

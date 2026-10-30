@@ -770,6 +770,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.23669v3](http://arxiv.org/abs/2603.23669v3)
 
+## Probing Human-Machine Perceptual Alignment with Semantically Ambiguous Images
+- **ID**: arxiv_2603.24730v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.24730v2](http://arxiv.org/abs/2603.24730v2)
+
 ## Fast Preemptive Robustification: High-Frequency Response Anti-Aligns Shared Vulnerability
 - **ID**: arxiv_2603.25244v2
 - **Source**: ArXiv
@@ -6760,6 +6765,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26861v1](http://arxiv.org/abs/2610.26861v1)
 
+## VitronEdit: Universal Visual Editing across Images, Videos, and 3D Scenes
+- **ID**: arxiv_2610.27049v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27049v2](http://arxiv.org/abs/2610.27049v2)
+
 ## LaLa-World: Scaling Latent World Models with Natural Language Actions
 - **ID**: arxiv_2610.27851v1
 - **Source**: ArXiv
@@ -7274,4 +7284,64 @@
 - **ID**: arxiv_2610.37668v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37668v1](http://arxiv.org/abs/2610.37668v1)
+
+## CrossWeave: Cross-Modal Scene and Instance Retrieval from Sparse 2D-3D Alignment
+- **ID**: arxiv_2610.40525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40525v1](http://arxiv.org/abs/2610.40525v1)
+
+## PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?
+- **ID**: arxiv_2610.40530v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40530v1](http://arxiv.org/abs/2610.40530v1)
+
+## RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection
+- **ID**: arxiv_2610.40580v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40580v1](http://arxiv.org/abs/2610.40580v1)
+
+## Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation
+- **ID**: arxiv_2610.40587v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40587v1](http://arxiv.org/abs/2610.40587v1)
+
+## HairDeck: Animation-Ready Stylized Hair Cards from a Single Image
+- **ID**: arxiv_2610.40599v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40599v1](http://arxiv.org/abs/2610.40599v1)
+
+## Fight World Model: Customizable Combat through Visual Interaction Proxies
+- **ID**: arxiv_2610.40607v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40607v1](http://arxiv.org/abs/2610.40607v1)
+
+## L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory
+- **ID**: arxiv_2610.40614v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40614v1](http://arxiv.org/abs/2610.40614v1)
+
+## Difficulty Calibration Across Time for Membership Inference in Diffusion Models
+- **ID**: arxiv_2610.40616v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40616v1](http://arxiv.org/abs/2610.40616v1)
+
+## Probing Spatial State Representations in Visual Foundation Models
+- **ID**: arxiv_2610.40636v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40636v1](http://arxiv.org/abs/2610.40636v1)
+
+## SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization
+- **ID**: arxiv_2610.40640v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40640v1](http://arxiv.org/abs/2610.40640v1)
+
+## Luggage re-identification: A study of strategies towards a real-world application
+- **ID**: arxiv_2610.40643v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40643v1](http://arxiv.org/abs/2610.40643v1)
+
+## Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers
+- **ID**: arxiv_2610.40647v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40647v1](http://arxiv.org/abs/2610.40647v1)
 

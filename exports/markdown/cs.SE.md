@@ -305,6 +305,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.23377v1](http://arxiv.org/abs/2609.23377v1)
 
+## One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
+- **ID**: arxiv_2609.23377v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23377v2](http://arxiv.org/abs/2609.23377v2)
+
 ## TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits
 - **ID**: arxiv_2609.26711v1
 - **Source**: ArXiv

@@ -50,3 +50,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.31540v1](http://arxiv.org/abs/2609.31540v1)
 
+## Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond
+- **ID**: arxiv_2610.40586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40586v1](http://arxiv.org/abs/2610.40586v1)
+

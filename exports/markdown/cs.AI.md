@@ -2650,6 +2650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.00455v2](http://arxiv.org/abs/2609.00455v2)
 
+## VoiceLongMemEval: Do Assistants Remember How You Sounded?
+- **ID**: arxiv_2609.00570v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00570v3](http://arxiv.org/abs/2609.00570v3)
+
 ## When Guardrails Look Effective: Construct Validity Failures in LLM Agent Commerce Evaluation
 - **ID**: arxiv_2609.01519v1
 - **Source**: ArXiv
@@ -4160,6 +4165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.24161v3](http://arxiv.org/abs/2610.24161v3)
 
+## Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay
+- **ID**: arxiv_2610.24453v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.24453v2](http://arxiv.org/abs/2610.24453v2)
+
 ## IndustrialCAD-1400: Benchmarking Detailed Industrial Assemblies from Text
 - **ID**: arxiv_2610.24789v1
 - **Source**: ArXiv
@@ -4534,4 +4544,54 @@
 - **ID**: arxiv_2610.37655v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37655v1](http://arxiv.org/abs/2610.37655v1)
+
+## Efficient Scalable Oversight via Rewinding
+- **ID**: arxiv_2610.40535v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40535v1](http://arxiv.org/abs/2610.40535v1)
+
+## On the Fundamental Limits of Prefill-Based Decoding Length Prediction
+- **ID**: arxiv_2610.40541v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40541v1](http://arxiv.org/abs/2610.40541v1)
+
+## Retrieval as Traversal: Value-Indexed Memory for Stateful Long-Context Agents
+- **ID**: arxiv_2610.40545v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40545v1](http://arxiv.org/abs/2610.40545v1)
+
+## Ramanujan Challenge Results: AI-Assisted Evaluation Pipeline for Multi-Format Proofs
+- **ID**: arxiv_2610.40551v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40551v1](http://arxiv.org/abs/2610.40551v1)
+
+## Advancing Clinical Genomic Analysis with a Skill-Centred Agent
+- **ID**: arxiv_2610.40556v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40556v1](http://arxiv.org/abs/2610.40556v1)
+
+## FARMS: A Verifiable Foundation for Automated Computational Science
+- **ID**: arxiv_2610.40560v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40560v1](http://arxiv.org/abs/2610.40560v1)
+
+## Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns
+- **ID**: arxiv_2610.40563v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40563v1](http://arxiv.org/abs/2610.40563v1)
+
+## VeriCUA: Verification as Agentic Exploration for Computer-Using Agents
+- **ID**: arxiv_2610.40578v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40578v1](http://arxiv.org/abs/2610.40578v1)
+
+## Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In
+- **ID**: arxiv_2610.40588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40588v1](http://arxiv.org/abs/2610.40588v1)
+
+## Collaborative AI agents for autonomous experimental research with solid-state quantum spins
+- **ID**: arxiv_2610.40589v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40589v1](http://arxiv.org/abs/2610.40589v1)
 

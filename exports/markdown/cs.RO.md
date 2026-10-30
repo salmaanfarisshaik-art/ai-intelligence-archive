@@ -1135,3 +1135,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37666v1](http://arxiv.org/abs/2610.37666v1)
 
+## BURGER: Benchmarking and Understanding Robotic Generalization via Embodied Drawing
+- **ID**: arxiv_2610.40532v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40532v1](http://arxiv.org/abs/2610.40532v1)
+
+## Gym-Anything for Robotics: Scaling physical simulations with digital agents
+- **ID**: arxiv_2610.40565v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40565v1](http://arxiv.org/abs/2610.40565v1)
+
+## SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors
+- **ID**: arxiv_2610.40632v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40632v1](http://arxiv.org/abs/2610.40632v1)
+

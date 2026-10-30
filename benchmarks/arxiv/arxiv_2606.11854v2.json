@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.11854v2",
+  "schema_version": "1.0",
+  "name": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.11854v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.11854v2",
+    "updated": "2026-10-29T17:56:43Z",
+    "published": "2026-06-10T09:30:37Z",
+    "title": "Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training",
+    "summary": "Adapting Large Language Models (LLMs) to specific tasks usually involves fine-tuning: Low-Rank Adaptation (LoRA) edits the weights, while soft prompting prepends trainable virtual tokens. Both change how an already-optimized model is served, so serving many task-specific adapters at high throughput requires adapter-aware infrastructure. We propose Art-Based Reinforcement Training (ART), which optimizes a single auxiliary input image to specialize a frozen Multimodal Large Language Model (MLLM) for a specific task. At inference time, ART simply includes this image in each standard multimodal prompt, requiring no changes to the serving engine. We compare ART with LoRA and soft prompting across five reasoning benchmarks for four small MLLMs from three architectures. While different methods perform best for different tasks, ART ranks first or second in 10 of 20 benchmark-MLLM pairs, with its best results on the two math word problem benchmarks (GSM8k and SVAMP). It is significantly ahead of the next best adapter in 2 cases, within the noise of the next best adapter in 6, and significantly above the text-only baseline in 18. ART therefore reaches accuracy close to LoRA and soft prompts while serving faster than LoRA. In the vLLM serving stack, ART reduces throughput by 6% to 14% relative to text-only requests, compared to LoRA's 13% to 93% slowdown. Beyond efficient serving, ART artifacts are plain images, making them easy to store, distribute, and share. This approach keep task-specific adaptation outside the model weights, so the same frozen model can support different tasks without separate model variants.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-10-30T08:03:59Z",
+  "last_updated": "2026-10-29T17:56:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.11854v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

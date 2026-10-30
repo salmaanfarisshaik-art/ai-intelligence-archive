@@ -15,3 +15,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.03759v2](http://arxiv.org/abs/2610.03759v2)
 
+## From extreme weather to agricultural consequences with agentic AI
+- **ID**: arxiv_2610.40641v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40641v1](http://arxiv.org/abs/2610.40641v1)
+

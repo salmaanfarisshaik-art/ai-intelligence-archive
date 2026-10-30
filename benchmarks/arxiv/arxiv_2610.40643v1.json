@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.40643v1",
+  "schema_version": "1.0",
+  "name": "Luggage re-identification: A study of strategies towards a real-world application",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.40643v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.40643v1",
+    "updated": "2026-10-29T17:58:59Z",
+    "published": "2026-10-29T17:58:59Z",
+    "title": "Luggage re-identification: A study of strategies towards a real-world application",
+    "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recovery). It enables the association of observations of the same luggage across disjoint camera views in complex environments such as airports, train stations and border crossing. While existing approaches primarily focus on appearance-based cropped image matching under relatively clean conditions, real-world scenarios are characterized by frequent occlusions, cluttered background and crowded scenes which significantly degrade performance. Yet, strategies leveraging the complementarity of multiple shots and views from different video streams is overlooked. In this paper, we study strategies for an end-to-end pipeline that operates from multiple video streams to detect and re-identify luggage. We evaluate different variants on a benchmark dataset acquired in real-world environments to address the questions of selecting and merging different views and shots of the same luggage as well as training on different environment datasets for an overall ReID performance improvement in practical applications.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-30T08:03:59Z",
+  "last_updated": "2026-10-29T17:58:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.40643v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -495,3 +495,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35835v2](http://arxiv.org/abs/2610.35835v2)
 
+## TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races
+- **ID**: arxiv_2610.40613v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40613v1](http://arxiv.org/abs/2610.40613v1)
+

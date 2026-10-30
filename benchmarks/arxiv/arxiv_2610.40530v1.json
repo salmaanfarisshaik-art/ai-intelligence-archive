@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.40530v1",
+  "schema_version": "1.0",
+  "name": "PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.40530v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.40530v1",
+    "updated": "2026-10-29T17:33:34Z",
+    "published": "2026-10-29T17:33:34Z",
+    "title": "PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?",
+    "summary": "Images reveal appearances, but counting often asks about physical objects. A single entity may be visible directly, in several reflections, or through glass, so detecting every visible occurrence does not determine how many entities are present. Existing visual counting benchmarks rarely separate these two operations. We introduce PhysCount, a benchmark for evaluating whether multimodal large language models (MLLMs) can distinguish what appears in an image from what physically exists in the scene. PhysCount contains 546 real-world images and 4,595 human-written questions organized into 651 target-specific groups. For each group, annotators locate the relevant appearances, label how each is observed, and identify appearances of the same entity. Four complementary question families test the enumeration of appearances, the enumeration of physical entities, image-formation-specific counting, and appearance--entity correspondence. We measure both accuracy on each family and the proportion of groups answered entirely correctly. Across 40 MLLMs, counting visible appearances is substantially easier than recovering the identities that connect them. Even the strongest model answers every question correctly in only 13.36\\% of groups. Performance declines when one entity produces many appearances or when its appearances cross observation modes. Higher image resolution improves access to visual evidence but brings limited gains in complete-group accuracy, whereas answering related questions jointly produces a marked improvement. These results expose a gap between recognizing what is visible and correctly recovering the physical entities behind those observations.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-10-30T08:03:59Z",
+  "last_updated": "2026-10-29T17:33:34Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.40530v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
