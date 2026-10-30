@@ -1541,6 +1541,11 @@
 - **URL**: [https://openai.com/index/commonwealth-bank-of-australia](https://openai.com/index/commonwealth-bank-of-australia)
 
 ## 
+- **ID**: rss_https://openai.com/index/community-safety-report-and-new-protections-for-teens
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/community-safety-report-and-new-protections-for-teens](https://openai.com/index/community-safety-report-and-new-protections-for-teens)
+
+## 
 - **ID**: rss_https://openai.com/index/competitive-self-play
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/competitive-self-play](https://openai.com/index/competitive-self-play)
@@ -1629,6 +1634,11 @@
 - **ID**: rss_https://openai.com/index/cred-swamy-seetharaman
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cred-swamy-seetharaman](https://openai.com/index/cred-swamy-seetharaman)
+
+## 
+- **ID**: rss_https://openai.com/index/credit-saison
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/credit-saison](https://openai.com/index/credit-saison)
 
 ## 
 - **ID**: rss_https://openai.com/index/critiques
@@ -3089,6 +3099,11 @@
 - **ID**: rss_https://openai.com/index/helping-small-businesses-put-ai-to-work
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/helping-small-businesses-put-ai-to-work](https://openai.com/index/helping-small-businesses-put-ai-to-work)
+
+## 
+- **ID**: rss_https://openai.com/index/helping-websites-express-ai-training-preferences
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/helping-websites-express-ai-training-preferences](https://openai.com/index/helping-websites-express-ai-training-preferences)
 
 ## 
 - **ID**: rss_https://openai.com/index/hex-gpt-6-astra

@@ -14,10 +14,10 @@
     "author": "ilabai",
     "disabled": false,
     "gated": false,
-    "lastModified": "2026-10-30T15:26:42.000Z",
+    "lastModified": "2026-10-30T16:59:41.000Z",
     "likes": 41,
     "private": false,
-    "sha": "6da81bbf0215e1ab392e7da3595926c2947bfcb4",
+    "sha": "f517bed3c99039dcfc9222e15dd973894ed45f27",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\t3DCodeVerse — Towards Building the Universe via Code\n\t\n\n3DCodeVerse aims to gather any code that creates, renders, or governs 3D — every dialect, one corpus.\nText / Image / Video   ↔   3D Code   ↔   3D Assets\n\nEvery entry is a self-contained, runnable project: the code, its rendered outputs, a metadata card, and text captions. Domains in scope: Object Modeling · Scene & World Modeling · Rendering · Materials & Shaders · Physics & Simulation · Animation & Articulation.\n📄 Paper:… See the full description on the dataset page: https://huggingface.co/datasets/ilabai/3dcodeverse.",
     "downloads": 284975,
     "tags": [
@@ -25,7 +25,9 @@
       "task_categories:image-to-3d",
       "language:en",
       "license:cc-by-nc-sa-4.0",
-      "size_categories:10K<n<100K",
+      "size_categories:1M<n<10M",
+      "modality:image",
+      "modality:text",
       "modality:3d",
       "arxiv:2610.22341",
       "region:us",
@@ -38,8 +40,8 @@
     "createdAt": "2026-06-28T03:30:41.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-10-30T15:32:12.883719+00:00",
-  "last_updated": "2026-10-30T15:26:42.000Z",
+  "retrieval_timestamp": "2026-10-30T20:24:49.318122+00:00",
+  "last_updated": "2026-10-30T16:59:41.000Z",
   "links": {
     "related_models": [
       "datasets/ilabai"

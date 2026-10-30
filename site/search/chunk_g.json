@@ -12533,6 +12533,11 @@
       "entity_id": "model_unsloth_gemma_2_9b_it",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "model_vllm_project_tiny_random_gemma2forcausallm",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "gemma2forcausallm": [
@@ -12553,6 +12558,11 @@
     },
     {
       "entity_id": "model_trl_internal_testing_tiny_gemma2forcausallm",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_vllm_project_tiny_random_gemma2forcausallm",
       "match_type": "exact",
       "score": 2.0
     }
@@ -32814,6 +32824,16 @@
     },
     {
       "entity_id": "model_vikhrmodels_vikhr_nemo_12b_instruct_r_21_09_24",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_vllm_project_tiny_random_gemma2forcausallm",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_vllm_project_tiny_random_llamaforcausallm",
       "match_type": "exact",
       "score": 3.0
     },

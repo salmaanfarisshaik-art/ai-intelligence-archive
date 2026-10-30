@@ -1236,6 +1236,10 @@
 - **ID**: model_davidau_openai_gpt_oss_20b_abliterated_uncensored_neo_imatrix_gguf
 - **Source**: 
 
+## DavidAU/OpenAi-GPT-oss-20b-HERETIC-uncensored-NEO-Imatrix-gguf
+- **ID**: model_davidau_openai_gpt_oss_20b_heretic_uncensored_neo_imatrix_gguf
+- **Source**: 
+
 ## DavidAU/Qwen3-8B-64k-Context-2X-Josiefied-Uncensored
 - **ID**: model_davidau_qwen3_8b_64k_context_2x_josiefied_uncensored
 - **Source**: 
@@ -2300,6 +2304,10 @@
 - **ID**: model_ibm_granite_granite_3b_code_base_2k
 - **Source**: 
 
+## ibm-granite/granite-4.0-1b
+- **ID**: model_ibm_granite_granite_4_0_1b
+- **Source**: 
+
 ## ibm-granite/granite-4.0-1b-base
 - **ID**: model_ibm_granite_granite_4_0_1b_base
 - **Source**: 
@@ -2734,6 +2742,10 @@
 
 ## kosbu/Llama-3.3-70B-Instruct-AWQ
 - **ID**: model_kosbu_llama_3_3_70b_instruct_awq
+- **Source**: 
+
+## KRAFTON/Raon-1-mini-preview-gguf
+- **ID**: model_krafton_raon_1_mini_preview_gguf
 - **Source**: 
 
 ## KridgeDookie/Qwen3.8-27B-ABLITERATED-UNCENSORED-PHILADELPHIA-CLASS
@@ -3624,6 +3636,10 @@
 - **ID**: model_meshllm_qwen3_5_397b_a17b_ud_q4_k_xl_layers
 - **Source**: 
 
+## mesolitica/Malaysian-TTS-0.6B-v1
+- **ID**: model_mesolitica_malaysian_tts_0_6b_v1
+- **Source**: 
+
 ## meta-llama/Llama-2-13b-chat-hf
 - **ID**: model_meta_llama_llama_2_13b_chat_hf
 - **Source**: 
@@ -3794,6 +3810,10 @@
 
 ## microsoft/Phi-4-multimodal-instruct
 - **ID**: model_microsoft_phi_4_multimodal_instruct
+- **Source**: 
+
+## microsoft/Phi-4-reasoning
+- **ID**: model_microsoft_phi_4_reasoning
 - **Source**: 
 
 ## microsoft/Phi-mini-MoE-instruct
@@ -4790,6 +4810,10 @@
 
 ## ornith-ai/Ornith-1.5-122B-MLX
 - **ID**: model_ornith_ai_ornith_1_5_122b_mlx
+- **Source**: 
+
+## ornith-ai/Ornith-1.5-122B-MLX-8bit
+- **ID**: model_ornith_ai_ornith_1_5_122b_mlx_8bit
 - **Source**: 
 
 ## ornith-ai/Ornith-1.5-122B-NVFP4
