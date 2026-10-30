@@ -1564,6 +1564,10 @@
 - **ID**: model_ebircak_gemma_4_31b_it_4bit_w4a16_awq
 - **Source**: 
 
+## echarlaix/tiny-mpt-random-remote-code
+- **ID**: model_echarlaix_tiny_mpt_random_remote_code
+- **Source**: 
+
 ## echarlaix/tiny-random-PhiForCausalLM
 - **ID**: model_echarlaix_tiny_random_phiforcausallm
 - **Source**: 

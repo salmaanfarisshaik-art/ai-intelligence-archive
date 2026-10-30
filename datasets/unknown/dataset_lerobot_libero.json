@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a1aaacb7f6cd6ee5fb43120f673cebb0cfea7dd4",
   "description": "This dataset was created using LeRobot.\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Structure\n\t\n\nmeta/info.json:\n{\n    \"codebase_version\": \"v3.0\",\n    \"robot_type\": \"panda\",\n    \"total_episodes\": 1693,\n    \"total_frames\": 273465,\n    \"total_tasks\": 40,\n    \"chunks_size\": 1000,\n    \"data_files_size_in_mb\": 100,\n    \"video_files_size_in_mb\": 500,\n    \"fps\": 10.0,\n    \"splits\": {\n        \"train\": \"0:1693\"\n    },\n    \"data_path\": \"data/chunk-{chunk_index:03d}/file-{file_index:03d}.parquet\",\n    \"video_path\":… See the full description on the dataset page: https://huggingface.co/datasets/lerobot/libero.",
-  "downloads": 31535,
+  "downloads": 33310,
   "tags": [
     "task_categories:robotics",
     "license:apache-2.0",

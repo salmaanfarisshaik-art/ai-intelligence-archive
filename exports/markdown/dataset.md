@@ -854,7 +854,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -1202,7 +1202,7 @@
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
-- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
+- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, procedural-3d, region:us, size_categories:10K<n<100K, task_categories:image-to-3d, task_categories:text-to-3d
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb
@@ -1347,6 +1347,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/sjkhfuk/fofo](https://huggingface.co/datasets/sjkhfuk/fofo)
 - **Tags**: region:us
+
+## XiaomiMiMo/MiMo-V2.6-RL-oss
+- **ID**: hf_ds_6ab65a7f909092518dca860f
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss](https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss)
+- **Tags**: format:parquet, library:datasets, library:mlcroissant, library:pandas, library:polars, license:apache-2.0, modality:document, modality:image, modality:text, region:us, size_categories:1K<n<10K
 
 ## roisincrtai/ptb-xl-1.0.3
 - **ID**: hf_ds_6ac0e3e0aadad5e0492a39f0

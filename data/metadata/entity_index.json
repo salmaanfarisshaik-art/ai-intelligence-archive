@@ -328704,10 +328704,11 @@
       "leaderboards",
       "license:mit",
       "meta-evaluation",
+      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -330237,11 +330238,9 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "modality:3d",
-      "modality:image",
-      "modality:text",
       "procedural-3d",
       "region:us",
-      "size_categories:1M<n<10M",
+      "size_categories:10K<n<100K",
       "task_categories:image-to-3d",
       "task_categories:text-to-3d"
     ],
@@ -330834,6 +330833,35 @@
     },
     "source_url": "https://huggingface.co/datasets/sjkhfuk/fofo",
     "local_path": "datasets/sjkhfuk/hf_ds_6aa585f5e13985455758f8eb.json"
+  },
+  {
+    "id": "hf_ds_6ab65a7f909092518dca860f",
+    "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:apache-2.0",
+      "modality:document",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:1K<n<10K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/XiaomiMiMo"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+    "local_path": "datasets/xiaomimimo/hf_ds_6ab65a7f909092518dca860f.json"
   },
   {
     "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
@@ -340996,6 +341024,48 @@
     "local_path": "models/facebook/hf_facebook_xglm-564M.json"
   },
   {
+    "id": "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
+    "title": "farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit",
+    "category": "text-generation",
+    "source": "Hugging Face",
+    "tags": [
+      "4-bit",
+      "amd",
+      "awq",
+      "base_model:google/gemma-4-26B-A4B-it",
+      "base_model:quantized:google/gemma-4-26B-A4B-it",
+      "classification",
+      "compressed-tensors",
+      "conversational",
+      "cuda",
+      "decision-engine",
+      "en",
+      "gemma4",
+      "h100",
+      "license:apache-2.0",
+      "mixture-of-experts",
+      "nvidia",
+      "open-telco-ai",
+      "region:us",
+      "rocm",
+      "safetensors",
+      "telecom",
+      "telecommunications",
+      "text-generation",
+      "typed-decisions",
+      "vllm",
+      "w4a16"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit",
+    "local_path": "models/farbodtavakkoli/hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit.json"
+  },
+  {
     "id": "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "title": "farbodtavakkoli/OTel-2.0-LLM-31B-IT",
     "category": "text-generation",
@@ -351021,6 +351091,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/ebircak/model_ebircak_gemma_4_31b_it_4bit_w4a16_awq.json"
+  },
+  {
+    "id": "model_echarlaix_tiny_mpt_random_remote_code",
+    "title": "echarlaix/tiny-mpt-random-remote-code",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/echarlaix/model_echarlaix_tiny_mpt_random_remote_code.json"
   },
   {
     "id": "model_echarlaix_tiny_random_phiforcausallm",

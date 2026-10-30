@@ -4581,10 +4581,11 @@
       "leaderboards",
       "license:mit",
       "meta-evaluation",
+      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -6114,11 +6115,9 @@
       "language:en",
       "license:cc-by-nc-sa-4.0",
       "modality:3d",
-      "modality:image",
-      "modality:text",
       "procedural-3d",
       "region:us",
-      "size_categories:1M<n<10M",
+      "size_categories:10K<n<100K",
       "task_categories:image-to-3d",
       "task_categories:text-to-3d"
     ],
@@ -6711,6 +6710,35 @@
     },
     "source_url": "https://huggingface.co/datasets/sjkhfuk/fofo",
     "local_path": "datasets/sjkhfuk/hf_ds_6aa585f5e13985455758f8eb.json"
+  },
+  {
+    "id": "hf_ds_6ab65a7f909092518dca860f",
+    "title": "XiaomiMiMo/MiMo-V2.6-RL-oss",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "format:parquet",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
+      "license:apache-2.0",
+      "modality:document",
+      "modality:image",
+      "modality:text",
+      "region:us",
+      "size_categories:1K<n<10K"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/XiaomiMiMo"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+    "local_path": "datasets/xiaomimimo/hf_ds_6ab65a7f909092518dca860f.json"
   },
   {
     "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",

@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92211
+**Total Entities Tracked**: 92214
 
 ## Category Distribution
 
@@ -8,11 +8,11 @@
 - **prompts**: 27178
 - **instruction_tuning**: 21000
 - **datasets**: 2559
-- **models**: 1944
+- **models**: 1945
 - **cs.CV**: 1469
 - **news**: 1363
-- **dataset**: 1227
-- **text-generation**: 1016
+- **dataset**: 1228
+- **text-generation**: 1017
 - **cs.CL**: 959
 - **cs.AI**: 919
 - **cs.LG**: 531
@@ -99,11 +99,11 @@
 ## Source Distribution
 
 - **Stanford Alpaca**: 52000
-- ****: 31681
+- ****: 31682
 - **ArXiv**: 4758
-- **Hugging Face**: 2024
+- **Hugging Face**: 2025
 - **OpenAI Blog**: 1349
-- **HuggingFace Datasets**: 227
+- **HuggingFace Datasets**: 228
 - **GitHub Trending**: 58
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -143,24 +143,24 @@
 
 ## Top Tags
 
-- **region:us**: 317
-- **text-generation**: 91
-- **library:datasets**: 86
-- **library:mlcroissant**: 86
-- **modality:text**: 83
+- **region:us**: 319
+- **text-generation**: 92
+- **library:datasets**: 87
+- **library:mlcroissant**: 87
+- **modality:text**: 84
 - **language:en**: 78
+- **license:apache-2.0**: 77
 - **endpoints_compatible**: 76
-- **license:apache-2.0**: 75
-- **safetensors**: 75
+- **safetensors**: 76
 - **transformers**: 75
-- **conversational**: 72
-- **library:polars**: 63
+- **conversational**: 73
+- **library:polars**: 64
 - **license:mit**: 55
-- **format:parquet**: 49
+- **format:parquet**: 50
 - **text-generation-inference**: 38
 - **deploy:azure**: 36
-- **en**: 33
-- **library:pandas**: 32
+- **en**: 34
+- **library:pandas**: 33
 - **task_categories:text-generation**: 32
 - **library:dask**: 31
 - **eval-results**: 29
@@ -181,9 +181,10 @@
 - **license:odc-by**: 14
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
-- **size_categories:1M<n<10M**: 14
 - **source_datasets:original**: 14
 - **fp8**: 13
+- **size_categories:1K<n<10K**: 13
+- **size_categories:1M<n<10M**: 13
 - **arxiv:2505.09388**: 12
 - **custom_code**: 12
 - **size_categories:n>1T**: 12
@@ -191,5 +192,4 @@
 - **format:json**: 11
 - **language:zh**: 11
 - **size_categories:100M<n<1B**: 11
-- **size_categories:1K<n<10K**: 11
 - **modality:audio**: 10

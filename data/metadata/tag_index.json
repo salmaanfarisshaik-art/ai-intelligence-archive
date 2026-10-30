@@ -38,7 +38,8 @@
   "4-bit": [
     "hf_Qwen_Qwen3-14B-AWQ",
     "hf_Qwen_Qwen3-8B-AWQ",
-    "hf_antirez_deepseek-v4-gguf"
+    "hf_antirez_deepseek-v4-gguf",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "6d-pose": [
     "hf_ds_6a041befe1a5a3103b518efb"
@@ -183,6 +184,7 @@
     "hf_ds_69d2b3f8bbf83b1a4bb7eae4"
   ],
   "amd": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "animals": [
@@ -839,7 +841,8 @@
   ],
   "awq": [
     "hf_Qwen_Qwen3-14B-AWQ",
-    "hf_Qwen_Qwen3-8B-AWQ"
+    "hf_Qwen_Qwen3-8B-AWQ",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "aws": [
     "advanced-terraform-aws-scaffolding",
@@ -1001,6 +1004,7 @@
     "hf_google_gemma-3-1b-it"
   ],
   "base_model:google/gemma-4-26B-A4B-it": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "base_model:google/gemma-4-31B-it": [
@@ -1057,6 +1061,7 @@
     "hf_Andycurrent_Gemma-3-1B-it-GLM-4.7-Flash-Heretic-Uncensored-Thinking_GGUF"
   ],
   "base_model:quantized:google/gemma-4-26B-A4B-it": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "base_model:quantized:google/gemma-4-31B-it": [
@@ -1156,6 +1161,9 @@
     "github-actions-cicd-pipeline",
     "secure-github-actions-cicd-pipeline"
   ],
+  "classification": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
+  ],
   "climate": [
     "hf_ds_677ff7222275f6f6a02bd0e9",
     "hf_ds_67d7417c7c4950a62b4c33a4"
@@ -1189,6 +1197,9 @@
   ],
   "community": [
     "hf_ds_69b53151d3cc52f95d53bcbb"
+  ],
+  "compressed-tensors": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "computer-vision": [
     "hf_ds_6785649a41a64e1582b8bb05",
@@ -1240,6 +1251,7 @@
     "hf_deepseek-ai_DeepSeek-V4-Pro",
     "hf_deepseek-ai_DeepSeek-V4.1-Flash",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_google_gemma-3-1b-it",
@@ -1303,6 +1315,7 @@
     "tailwindcss-palette-configurator"
   ],
   "cuda": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_prism-ml_Bonsai-27B-gguf",
     "hf_prism-ml_Bonsai-27B-mlx-1bit",
     "hf_prism-ml_Ternary-Bonsai-2-27B-gguf",
@@ -1486,6 +1499,9 @@
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4"
+  ],
+  "decision-engine": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "decoder": [
     "hf_ds_6700058973753b82f145eb1d"
@@ -1725,6 +1741,7 @@
     "hf_antirez_deepseek-v4-gguf",
     "hf_distilbert_distilgpt2",
     "hf_facebook_opt-125m",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_meta-llama_Llama-3.1-8B-Instruct",
@@ -2032,7 +2049,8 @@
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a34c6065edc6bacb0b36213",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "format:text": [
     "hf_ds_647a71c8c7367455fd9f7cfb",
@@ -2106,6 +2124,7 @@
     "hf_google_gemma-3-1b-it"
   ],
   "gemma4": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
@@ -2216,6 +2235,9 @@
   "gsq": [
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
     "hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF"
+  ],
+  "h100": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "hacker-news": [
     "hf_ds_69b53151d3cc52f95d53bcbb"
@@ -4437,7 +4459,8 @@
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a580014dab1978b184dc4a0",
     "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a96f1b1177b511ec1b92935"
+    "hf_ds_6a96f1b1177b511ec1b92935",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "library:lance": [
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf"
@@ -4531,7 +4554,8 @@
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a580014dab1978b184dc4a0",
     "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a96f1b1177b511ec1b92935"
+    "hf_ds_6a96f1b1177b511ec1b92935",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "library:pandas": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -4565,7 +4589,8 @@
     "hf_ds_6a000179f854441c31227673",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a4f0a92e633070a2d287ef9",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "library:polars": [
     "hf_ds_621ffdd236468d709f181db0",
@@ -4630,7 +4655,8 @@
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a34c6065edc6bacb0b36213",
     "hf_ds_6a4f0a92e633070a2d287ef9",
-    "hf_ds_6a7609d6663f80dd30d388fc"
+    "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "library:webdataset": [
     "hf_ds_67ab2149bc76a9aab3ff90ed",
@@ -4697,6 +4723,8 @@
     "hf_ds_6a307dae8e258cbed418ec58",
     "hf_ds_6a44a4c981d12be393e7749d",
     "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6ab65a7f909092518dca860f",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_ibm-granite_granite-4.1-8b",
@@ -5040,7 +5068,8 @@
     "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF"
   ],
   "mixture-of-experts": [
-    "hf_antirez_deepseek-v4-gguf"
+    "hf_antirez_deepseek-v4-gguf",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "ml": [
     "pytorch",
@@ -5078,7 +5107,8 @@
     "hf_ds_683195b70ed0a5b1919c6f22",
     "hf_ds_69bd10117ce15b06bbea0357",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
-    "hf_ds_6a60568ac2d6c31b7f81bdc8"
+    "hf_ds_6a60568ac2d6c31b7f81bdc8",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "modality:geospatial": [
     "hf_ds_6a9b618da26f068ce99f0512"
@@ -5107,12 +5137,12 @@
     "hf_ds_69f638c8ebff1de2d6753093",
     "hf_ds_69f7105853a9164999100b0b",
     "hf_ds_6a18ded575c463d5aecfcf4d",
-    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4cbc564cdc8fc41b0f1b93",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a517a8032bfea14be5a68aa",
     "hf_ds_6a7609d6663f80dd30d388fc",
-    "hf_ds_6a96f1b1177b511ec1b92935"
+    "hf_ds_6a96f1b1177b511ec1b92935",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "modality:tabular": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -5197,6 +5227,7 @@
     "hf_ds_692dc013741d7eb4efaf4b65",
     "hf_ds_6931046ceb0ce6e2002af81b",
     "hf_ds_69822b12f4c99fc122169639",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69920596d401600ba4b9a839",
     "hf_ds_699250f08be5bf8321aeb29e",
     "hf_ds_6993525c8be5bf8321bcc775",
@@ -5218,11 +5249,11 @@
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a2a5f5f2ef38e1f849a8ebf",
     "hf_ds_6a34c6065edc6bacb0b36213",
-    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a4f0a92e633070a2d287ef9",
     "hf_ds_6a60568ac2d6c31b7f81bdc8",
     "hf_ds_6a702b9b89beb4ee925c3e28",
     "hf_ds_6a7609d6663f80dd30d388fc",
+    "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6ac0e3e0aadad5e0492a39f0"
   ],
   "modality:timeseries": [
@@ -5401,6 +5432,7 @@
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4"
   ],
   "nvidia": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_nvidia_Gemma-4-26B-A4B-NVFP4",
     "hf_nvidia_Gemma-4-31B-IT-NVFP4",
     "hf_nvidia_NVIDIA-Nemotron-3-Nano-30B-A3B-BF16",
@@ -5447,6 +5479,7 @@
     "hf_ds_6a18ded575c463d5aecfcf4d"
   ],
   "open-telco-ai": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT"
   ],
   "openai": [
@@ -5986,11 +6019,13 @@
     "hf_ds_6a9b618da26f068ce99f0512",
     "hf_ds_6a9d8e54cb1f70afa752542c",
     "hf_ds_6aa585f5e13985455758f8eb",
+    "hf_ds_6ab65a7f909092518dca860f",
     "hf_ds_6ac0e3e0aadad5e0492a39f0",
     "hf_ds_6accfa5c558696f3caf5dbfc",
     "hf_ds_6acfd70a1ee5628d262f3350",
     "hf_ds_6ad73b2611ffd4dabac49e74",
     "hf_facebook_opt-125m",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_google_gemma-3-1b-it",
@@ -6069,6 +6104,9 @@
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6a7460ebf3031d8573c2fe30"
   ],
+  "rocm": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
+  ],
   "roleplay": [
     "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF"
   ],
@@ -6125,6 +6163,7 @@
     "hf_deepseek-ai_DeepSeek-V4.1-Flash",
     "hf_distilbert_distilgpt2",
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_google_gemma-3-1b-it",
     "hf_google_gemma-3-270m",
@@ -6274,9 +6313,9 @@
     "hf_ds_680f523123b95edd6987db29",
     "hf_ds_68179ef58e267618d9e7bc61",
     "hf_ds_698aee8a9b778894943e6c5d",
-    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_69dae1cf769d72f81f71c82c",
     "hf_ds_6a2afbce4ee2fe1cd5f3a6bd",
+    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a580014dab1978b184dc4a0",
     "hf_ds_6a68e4ea0c35d2a3ed8c033e",
     "hf_ds_6ac0e3e0aadad5e0492a39f0"
@@ -6311,10 +6350,12 @@
     "hf_ds_66293ead0326d8c0fc899ac0",
     "hf_ds_68251f06823e816aeea2d9dc",
     "hf_ds_68b39036631546df1cfe0cba",
+    "hf_ds_698c9e10c98ef9ef0a6f27b3",
     "hf_ds_699243aa8be5bf8321adfd86",
     "hf_ds_69b0d60653fc22f5d5d3c07f",
     "hf_ds_69f638c8ebff1de2d6753093",
-    "hf_ds_69f7105853a9164999100b0b"
+    "hf_ds_69f7105853a9164999100b0b",
+    "hf_ds_6ab65a7f909092518dca860f"
   ],
   "size_categories:1M<n<10M": [
     "hf_ds_621ffdd236468d709f181e3f",
@@ -6329,7 +6370,6 @@
     "hf_ds_69c2419dda894d8e5757461f",
     "hf_ds_6a1f3e49aa35c86b3f108f05",
     "hf_ds_6a34c6065edc6bacb0b36213",
-    "hf_ds_6a409561222ffbb14f69924c",
     "hf_ds_6a9b618da26f068ce99f0512"
   ],
   "size_categories:n<1K": [
@@ -6803,10 +6843,12 @@
     "hf_ds_69b53151d3cc52f95d53bcbb"
   ],
   "telecom": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
   "telecommunications": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT"
   ],
@@ -6885,6 +6927,7 @@
     "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
     "hf_ds_64edb45c5c9245397fc83a26",
     "hf_facebook_opt-125m",
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_farbodtavakkoli_OTel-LLM-E4B-IT",
     "hf_google_gemma-3-1b-it",
@@ -7108,6 +7151,9 @@
   "twilio": [
     "twilio-sms-api"
   ],
+  "typed-decisions": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
+  ],
   "typescript": [
     "advanced-react-component-scaffolder",
     "react-component-scaffolder"
@@ -7166,6 +7212,7 @@
     "hf_ds_6a5466cdd7c4631ab9b28b80"
   ],
   "vllm": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit",
     "hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT",
     "hf_openai_gpt-oss-120b",
     "hf_openai_gpt-oss-20b"
@@ -7179,6 +7226,9 @@
   "vue": [
     "automated-vue-3-composition-api-builder",
     "vue-3-composition-api-builder"
+  ],
+  "w4a16": [
+    "hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit"
   ],
   "weather": [
     "hf_ds_677ff7222275f6f6a02bd0e9"

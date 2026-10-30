@@ -3,7 +3,7 @@
   "schema_version": "1.0",
   "name": "harborframework/parity-experiments",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/parity-experiments.",
-  "size": "664051",
+  "size": "669513",
   "source_url": "https://huggingface.co/datasets/harborframework/parity-experiments",
   "source_name": "HuggingFace Datasets",
   "source_type": "api",
@@ -19,14 +19,14 @@
     "private": false,
     "sha": "9e2aebde419579e58d7183136184b0071faac3a3",
     "description": "\n\t\n\t\t\n\t\n\t\n\t\tUpload your Adapter Oracle and Parity results\n\t\n\nThis dataset saves the oracle and parity experiment logs for adapters. Please upload them according to the following format and draft a PR.\nadapters/\n  └── {adapter_name}/\n      ├── README.md # Results overview, directory structure, trajectory interpretation, notes, etc. This should be DIFFERENT than the adapter REAMDE. \n      ├── config.yaml # The yaml file that can be directly used to run parity experiments in Harbor.\n      ├──… See the full description on the dataset page: https://huggingface.co/datasets/harborframework/parity-experiments.",
-    "downloads": 664051,
+    "downloads": 669513,
     "tags": [
       "region:us"
     ],
     "createdAt": "2025-12-24T23:23:33.000Z",
     "key": ""
   },
-  "retrieval_timestamp": "2026-10-29T16:35:52.899329+00:00",
+  "retrieval_timestamp": "2026-10-30T15:32:12.883719+00:00",
   "last_updated": "2026-04-22T06:14:42.000Z",
   "links": {
     "related_models": [
