@@ -1,11 +1,9 @@
 # Change Summary
 
-**Total Changes:** 112
+**Total Changes:** 98
 
 ## Added
-- prompts/openai-blog/rss_https___openai.com_index_community-safety-report-and-new-protections-for-teens.json
-- prompts/openai-blog/rss_https___openai.com_index_credit-saison.json
-- prompts/openai-blog/rss_https___openai.com_index_helping-websites-express-ai-training-preferences.json
+- prompts/openai-blog/rss_https___openai.com_index_fair-use-benefits-everyone.json
 
 ## Modified
 - data/metadata/analytics.json
@@ -18,43 +16,31 @@
 - data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
-- data/metadata/tag_index.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
-- datasets/gradio/hf_ds_691cad435bb68b24ef7ba828.json
-- datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
 - datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
 - datasets/xiaomimimo/hf_ds_6ab65a7f909092518dca860f.json
 - exports/csv/all_entities.csv
-- exports/csv/dataset.csv
-- exports/csv/datasets.csv
 - exports/csv/models.csv
 - exports/csv/news.csv
 - exports/json/all_entities.json
-- exports/json/dataset.json
-- exports/json/datasets.json
 - exports/json/models.json
 - exports/json/news.json
-- exports/markdown/dataset.md
-- exports/markdown/datasets.md
 - exports/markdown/models.md
 - exports/markdown/news.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-R1.json
-- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
 - models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
 - models/ista-daslab/hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
+- models/mistralai/hf_mistralai_Mistral-7B-Instruct-v0.2.json
 - models/openai/hf_openai_gpt-oss-120b.json
 - models/openai/hf_openai_gpt-oss-20b.json
 - models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
-- models/qwen/hf_Qwen_Qwen3-1.7B.json
 - models/qwen/hf_Qwen_Qwen3-4B-Instruct-2507.json
-- models/qwen/hf_Qwen_Qwen3-8B.json
 - models/ukisai/hf_ukisai_Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md

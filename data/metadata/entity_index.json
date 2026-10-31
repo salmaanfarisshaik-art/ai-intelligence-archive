@@ -365995,6 +365995,26 @@
     "local_path": "models/vishva007/model_vishva007_qwen3_8_27b_w4a16_autoround_gptq.json"
   },
   {
+    "id": "model_vllm_project_tiny_random_gemma2forcausallm",
+    "title": "vllm-project/tiny-random-Gemma2ForCausalLM",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/vllm-project/model_vllm_project_tiny_random_gemma2forcausallm.json"
+  },
+  {
+    "id": "model_vllm_project_tiny_random_llamaforcausallm",
+    "title": "vllm-project/tiny-random-LlamaForCausalLM",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/vllm-project/model_vllm_project_tiny_random_llamaforcausallm.json"
+  },
+  {
     "id": "model_vltx_vertalily_1_2_1b_gguf",
     "title": "VLTX/VertaLily-1.2-1B-GGUF",
     "category": "models",
@@ -646394,6 +646414,21 @@
     },
     "source_url": "https://openai.com/index/factory",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_factory.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/fair-use-benefits-everyone",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/fair-use-benefits-everyone",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_fair-use-benefits-everyone.json"
   },
   {
     "id": "rss_https://openai.com/index/fanatics-betting-gaming-andrea-ellis",

@@ -24921,7 +24921,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-30T20:25:00.334445+00:00",
+  "generated_at": "2026-10-31T00:22:54.427030+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -187742,6 +187742,16 @@
     },
     {
       "category": "models",
+      "id": "model_vllm_project_tiny_random_gemma2forcausallm",
+      "label": "vllm-project/tiny-random-Gemma2ForCausalLM"
+    },
+    {
+      "category": "models",
+      "id": "model_vllm_project_tiny_random_llamaforcausallm",
+      "label": "vllm-project/tiny-random-LlamaForCausalLM"
+    },
+    {
+      "category": "models",
       "id": "model_vltx_vertalily_1_2_1b_gguf",
       "label": "VLTX/VertaLily-1.2-1B-GGUF"
     },
@@ -326643,6 +326653,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/factory",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/fair-use-benefits-everyone",
       "label": ""
     },
     {
@@ -486118,5 +486133,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 4984,
-  "total_nodes": 92238
+  "total_nodes": 92241
 }

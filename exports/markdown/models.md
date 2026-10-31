@@ -7464,6 +7464,14 @@
 - **ID**: model_vishva007_qwen3_8_27b_w4a16_autoround_gptq
 - **Source**: 
 
+## vllm-project/tiny-random-Gemma2ForCausalLM
+- **ID**: model_vllm_project_tiny_random_gemma2forcausallm
+- **Source**: 
+
+## vllm-project/tiny-random-LlamaForCausalLM
+- **ID**: model_vllm_project_tiny_random_llamaforcausallm
+- **Source**: 
+
 ## VLTX/VertaLily-1.2-1B-GGUF
 - **ID**: model_vltx_vertalily_1_2_1b_gguf
 - **Source**: 
