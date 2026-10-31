@@ -84,6 +84,10 @@
 - **ID**: model_aeon_7_qwen3_6_27b_aeon_ultimate_uncensored_nvfp4
 - **Source**: 
 
+## afmck/testing-llama-tiny
+- **ID**: model_afmck_testing_llama_tiny
+- **Source**: 
+
 ## agentionai/Qwen3.8-Flash-Next-AP-GGUF
 - **ID**: model_agentionai_qwen3_8_flash_next_ap_gguf
 - **Source**: 
@@ -370,6 +374,10 @@
 
 ## AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF
 - **ID**: model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf
+- **Source**: 
+
+## AtomicChat/LFM3-1.7B-Uncensored-GGUF
+- **ID**: model_atomicchat_lfm3_1_7b_uncensored_gguf
 - **Source**: 
 
 ## AtomicChat/Ling-3.0-flash-GGUF
@@ -2084,6 +2092,10 @@
 - **ID**: model_h2oai_h2o_danube3_500m_chat
 - **Source**: 
 
+## h2oai/h2ogpt-4096-llama2-70b-chat
+- **ID**: model_h2oai_h2ogpt_4096_llama2_70b_chat
+- **Source**: 
+
 ## h2oai/h2ovl-mississippi-2b
 - **ID**: model_h2oai_h2ovl_mississippi_2b
 - **Source**: 
@@ -2950,6 +2962,10 @@
 
 ## LiquidAI/LFM2-8B-A1B
 - **ID**: model_liquidai_lfm2_8b_a1b
+- **Source**: 
+
+## LiquidAI/LFM3-1.7B
+- **ID**: model_liquidai_lfm3_1_7b
 - **Source**: 
 
 ## LiquidAI/LFM3-1.7B-GGUF
@@ -5164,6 +5180,10 @@
 - **ID**: model_quantfactory_meta_llama_3_8b_instruct_gguf
 - **Source**: 
 
+## QuantFactory/Qwen2.5-7B-Instruct-abliterated-v2-GGUF
+- **ID**: model_quantfactory_qwen2_5_7b_instruct_abliterated_v2_gguf
+- **Source**: 
+
 ## QuantFactory/Qwen2.5-Coder-7B-GGUF
 - **ID**: model_quantfactory_qwen2_5_coder_7b_gguf
 - **Source**: 
@@ -5910,6 +5930,10 @@
 
 ## RecursiveSI/flint-int4-gguf
 - **ID**: model_recursivesi_flint_int4_gguf
+- **Source**: 
+
+## RecursiveSI/flint-nvfp4-gguf
+- **ID**: model_recursivesi_flint_nvfp4_gguf
 - **Source**: 
 
 ## RedHatAI/Apertus-70B-Instruct-2509-quantized.w4a16
@@ -7402,6 +7426,10 @@
 
 ## uzlm/alloma-3B-Instruct
 - **ID**: model_uzlm_alloma_3b_instruct
+- **Source**: 
+
+## VAGOsolutions/Llama-3.1-SauerkrautLM-8b-Instruct
+- **ID**: model_vagosolutions_llama_3_1_sauerkrautlm_8b_instruct
 - **Source**: 
 
 ## Vamsi/T5_Paraphrase_Paws

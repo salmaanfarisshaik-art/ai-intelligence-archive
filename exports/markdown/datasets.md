@@ -1053,6 +1053,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_beileicui_c3vdv2
+- **Source**: 
+
+## 
 - **ID**: dataset_benchflow_skillsbench_leaderboard
 - **Source**: 
 
@@ -1162,6 +1166,10 @@
 
 ## 
 - **ID**: dataset_blanchon_opencs2_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_blip3o_blip3o_pretrain_long_caption
 - **Source**: 
 
 ## 
@@ -1590,6 +1598,10 @@
 
 ## 
 - **ID**: dataset_collapsecdn_collapsecdn
+- **Source**: 
+
+## 
+- **ID**: dataset_collisioncode_calvin_abc_d_lerobot_v2_1
 - **Source**: 
 
 ## 
@@ -5201,6 +5213,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_jiachenlei_imagenet
+- **Source**: 
+
+## 
 - **ID**: dataset_jiaqi_chen_3d_front
 - **Source**: 
 
@@ -6257,6 +6273,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_matitie_image_bank_202601
+- **Source**: 
+
+## 
 - **ID**: dataset_matmaster_dp_paper2arm_5135
 - **Source**: 
 
@@ -6454,6 +6474,10 @@
 
 ## 
 - **ID**: dataset_mjpansa_qwen38_eagle4_native_features_24m_20261026_f2638314
+- **Source**: 
+
+## 
+- **ID**: dataset_mjpansa_qwen38_eagle4_native_features_37m_20261024_5277c167
 - **Source**: 
 
 ## 
@@ -7185,6 +7209,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_nyu_visionx_cambrian_10m
+- **Source**: 
+
+## 
 - **ID**: dataset_nyu_visionx_vsi_590k
 - **Source**: 
 
@@ -7797,6 +7825,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_pinelab_manufacet_1k
+- **Source**: 
+
+## 
 - **ID**: dataset_pixparse_cc12m_wds
 - **Source**: 
 
@@ -8134,6 +8166,10 @@
 
 ## 
 - **ID**: dataset_rentoddb_dbsuera
+- **Source**: 
+
+## 
+- **ID**: dataset_renton_ren_vgcp_robosuite
 - **Source**: 
 
 ## 
@@ -8598,6 +8634,10 @@
 
 ## 
 - **ID**: dataset_shermansiu_lichess_games
+- **Source**: 
+
+## 
+- **ID**: dataset_shetty11_lob_bench
 - **Source**: 
 
 ## 
@@ -10234,6 +10274,10 @@
 
 ## 
 - **ID**: dataset_zhangxiaowei1_dreamzero_droid_data
+- **Source**: 
+
+## 
+- **ID**: dataset_zhanli_li_dataworld_train_2k_part1
 - **Source**: 
 
 ## 

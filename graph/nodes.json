@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T13:18:23.493136+00:00",
+  "generated_at": "2026-10-31T18:10:28.098748+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -130185,6 +130185,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_beileicui_c3vdv2",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_benchflow_skillsbench_leaderboard",
       "label": ""
     },
@@ -130321,6 +130326,11 @@
     {
       "category": "datasets",
       "id": "dataset_blanchon_opencs2_dataset",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_blip3o_blip3o_pretrain_long_caption",
       "label": ""
     },
     {
@@ -130856,6 +130866,11 @@
     {
       "category": "datasets",
       "id": "dataset_collapsecdn_collapsecdn",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_collisioncode_calvin_abc_d_lerobot_v2_1",
       "label": ""
     },
     {
@@ -135370,6 +135385,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_jiachenlei_imagenet",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_jiaqi_chen_3d_front",
       "label": ""
     },
@@ -136690,6 +136710,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_matitie_image_bank_202601",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_matmaster_dp_paper2arm_5135",
       "label": ""
     },
@@ -136936,6 +136961,11 @@
     {
       "category": "datasets",
       "id": "dataset_mjpansa_qwen38_eagle4_native_features_24m_20261026_f2638314",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_mjpansa_qwen38_eagle4_native_features_37m_20261024_5277c167",
       "label": ""
     },
     {
@@ -137850,6 +137880,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_nyu_visionx_cambrian_10m",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_nyu_visionx_vsi_590k",
       "label": ""
     },
@@ -138615,6 +138650,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_pinelab_manufacet_1k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_pixparse_cc12m_wds",
       "label": ""
     },
@@ -139036,6 +139076,11 @@
     {
       "category": "datasets",
       "id": "dataset_rentoddb_dbsuera",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_renton_ren_vgcp_robosuite",
       "label": ""
     },
     {
@@ -139616,6 +139661,11 @@
     {
       "category": "datasets",
       "id": "dataset_shermansiu_lichess_games",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_shetty11_lob_bench",
       "label": ""
     },
     {
@@ -141661,6 +141711,11 @@
     {
       "category": "datasets",
       "id": "dataset_zhangxiaowei1_dreamzero_droid_data",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_zhanli_li_dataworld_train_2k_part1",
       "label": ""
     },
     {
@@ -145776,12 +145831,12 @@
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "ilabai/3dcodeverse"
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "3dcodeverse/3dcodeverse-2m"
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
@@ -153620,6 +153675,11 @@
     },
     {
       "category": "models",
+      "id": "model_afmck_testing_llama_tiny",
+      "label": "afmck/testing-llama-tiny"
+    },
+    {
+      "category": "models",
       "id": "model_agentionai_qwen3_8_flash_next_ap_gguf",
       "label": "agentionai/Qwen3.8-Flash-Next-AP-GGUF"
     },
@@ -153977,6 +154037,11 @@
       "category": "models",
       "id": "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
       "label": "AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_atomicchat_lfm3_1_7b_uncensored_gguf",
+      "label": "AtomicChat/LFM3-1.7B-Uncensored-GGUF"
     },
     {
       "category": "models",
@@ -156120,6 +156185,11 @@
     },
     {
       "category": "models",
+      "id": "model_h2oai_h2ogpt_4096_llama2_70b_chat",
+      "label": "h2oai/h2ogpt-4096-llama2-70b-chat"
+    },
+    {
+      "category": "models",
       "id": "model_h2oai_h2ovl_mississippi_2b",
       "label": "h2oai/h2ovl-mississippi-2b"
     },
@@ -157202,6 +157272,11 @@
       "category": "models",
       "id": "model_liquidai_lfm2_8b_a1b",
       "label": "LiquidAI/LFM2-8B-A1B"
+    },
+    {
+      "category": "models",
+      "id": "model_liquidai_lfm3_1_7b",
+      "label": "LiquidAI/LFM3-1.7B"
     },
     {
       "category": "models",
@@ -159970,6 +160045,11 @@
     },
     {
       "category": "models",
+      "id": "model_quantfactory_qwen2_5_7b_instruct_abliterated_v2_gguf",
+      "label": "QuantFactory/Qwen2.5-7B-Instruct-abliterated-v2-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_quantfactory_qwen2_5_coder_7b_gguf",
       "label": "QuantFactory/Qwen2.5-Coder-7B-GGUF"
     },
@@ -160902,6 +160982,11 @@
       "category": "models",
       "id": "model_recursivesi_flint_int4_gguf",
       "label": "RecursiveSI/flint-int4-gguf"
+    },
+    {
+      "category": "models",
+      "id": "model_recursivesi_flint_nvfp4_gguf",
+      "label": "RecursiveSI/flint-nvfp4-gguf"
     },
     {
       "category": "models",
@@ -162767,6 +162852,11 @@
       "category": "models",
       "id": "model_uzlm_alloma_3b_instruct",
       "label": "uzlm/alloma-3B-Instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_vagosolutions_llama_3_1_sauerkrautlm_8b_instruct",
+      "label": "VAGOsolutions/Llama-3.1-SauerkrautLM-8b-Instruct"
     },
     {
       "category": "models",
@@ -461235,5 +461325,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 92246
+  "total_nodes": 92264
 }

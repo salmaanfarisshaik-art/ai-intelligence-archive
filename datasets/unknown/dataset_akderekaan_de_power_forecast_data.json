@@ -4,10 +4,10 @@
   "author": "akderekaan",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-31T13:17:30.000Z",
+  "lastModified": "2026-10-31T18:04:21.000Z",
   "likes": 0,
   "private": false,
-  "sha": "cd7016496c9b6c07c05fbbf04a7157f5d34d6078",
+  "sha": "f531b9c5b638de7a5cc71d1d5ece5a92ece26279",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDE Power Forecast – data\n\t\n\nInput and target data for forecasting German solar, onshore wind and offshore wind\ngeneration, collected automatically by the GitHub Actions jobs in\nak16o7/de-power-forecast.\nThe rule behind the layout: every value carries the time it became available.\nA forecast issued at time T may only use rows with seen_at / available_at ≤ T.\nThat is what makes backtests on this data honest.\n\n\t\n\t\t\n\t\n\t\n\t\tFiles\n\t\n\n\n\t\n\t\t\nPath\nWhat\nTime columns… See the full description on the dataset page: https://huggingface.co/datasets/akderekaan/de-power-forecast-data.",
   "downloads": 31755,
   "tags": [
