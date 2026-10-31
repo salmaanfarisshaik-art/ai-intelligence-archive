@@ -9,7 +9,7 @@
   "private": false,
   "sha": "8c68e252df3cc3e0ce900c3c988a46c5dd85dccb",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tQwen native features from the second UltraChat generation pool\n\t\n\nThis dataset preserves the newly generated portion of the Spark 2 UltraChat\ncampaign after the first frozen 37.7M-token pool. It contains native token IDs,\nassistant masks, BF16 intermediate and final hidden states, per-record receipts,\nclosed capture manifests, independently checked feature inventories, prompt\nselections and raw generated responses. ARCHIVE_PLAN.json gives the immutable\ncatalog identity, totals and… See the full description on the dataset page: https://huggingface.co/datasets/MJPansa/qwen38-eagle4-native-features-24m-20261026-f2638314.",
-  "downloads": 47677,
+  "downloads": 58019,
   "tags": [
     "task_categories:text-generation",
     "language:en",

@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6c439f075cf550793b1bfd7b887a41e51f3b23ab",
   "description": "\n\n\n\n\n\t\n\t\t\n\t\n\t\n\t\t📈 SmolDataEnvs\n\t\n\n\n\n\n\n5.5K+ RL tasks for hill-climbing small models in code and data science.\n\n\n\n\n\nA 2B model on these tasks. Left: what it optimises. Right: 144 held-out tasks it never trains on.\nTwo runs over the same 5,000 tasks: shuffled against a curriculum ordered easiest to hardest.\n\n\n\nData-analysis tasks as a plain, load-and-go dataset: no runtime, no framework required. Each\nrow is one self-contained task: a real tabular dataset, a question about it, and a gold answer… See the full description on the dataset page: https://huggingface.co/datasets/FineEnvs/SmolDataEnvs.",
-  "downloads": 85736,
+  "downloads": 91528,
   "tags": [
     "task_categories:question-answering",
     "task_categories:table-question-answering",

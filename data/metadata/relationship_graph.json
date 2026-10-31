@@ -128901,6 +128901,11 @@
       "category": "datasets"
     },
     {
+      "id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "label": "",
+      "category": "datasets"
+    },
+    {
       "id": "dataset_3dlg_hcvc_omages_abo",
       "label": "",
       "category": "datasets"
@@ -141431,6 +141436,11 @@
       "category": "datasets"
     },
     {
+      "id": "dataset_yipenggao_3dcodebench",
+      "label": "",
+      "category": "datasets"
+    },
+    {
       "id": "dataset_ylacombe_cml_tts",
       "label": "",
       "category": "datasets"
@@ -141928,6 +141938,11 @@
     {
       "id": "gh_1206390571",
       "label": "VoiceStudio",
+      "category": "tool"
+    },
+    {
+      "id": "gh_1209966933",
+      "label": "rea",
       "category": "tool"
     },
     {
@@ -145893,6 +145908,11 @@
     {
       "id": "hf_ds_6ac0e3e0aadad5e0492a39f0",
       "label": "roisincrtai/ptb-xl-1.0.3",
+      "category": "dataset"
+    },
+    {
+      "id": "hf_ds_6acca32f6fa844eabec4e77b",
+      "label": "lerobot/FineART",
       "category": "dataset"
     },
     {
@@ -485885,6 +485905,11 @@
     {
       "source": "hf_ds_6ab65a7f909092518dca860f",
       "target": "datasets/XiaomiMiMo",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6acca32f6fa844eabec4e77b",
+      "target": "datasets/lerobot",
       "relationship": "related_models"
     },
     {

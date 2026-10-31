@@ -9,7 +9,7 @@
   "private": false,
   "sha": "61f49bd1bad2206df8402e781d3787533a8e85c9",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tCircuitFormer Dataset\n\t\n\nThis dataset contains a collection of 33,889 analog circuit netlists, images, and metadata collected from 62 textbooks.\n\n\t\n\t\t\n\t\n\t\n\t\tDirectory Structure\n\t\n\nThe dataset is organized into the following flattened directories (no train/test subfolders):\n\nimages/: Circuit diagrams (PNG format).\nmetadata/: JSON files containing circuit descriptions, names, and source information.\nnetlists/: SPICE netlist files (.cir).\n\n\n\t\n\t\t\n\t\n\t\n\t\tIndex Files\n\t\n\nThe dataset uses… See the full description on the dataset page: https://huggingface.co/datasets/touhid314/cktformer-dataset.",
-  "downloads": 32047,
+  "downloads": 32386,
   "tags": [
     "size_categories:10K<n<100K",
     "format:json",

@@ -9866,6 +9866,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_matitie_image_bank_202601",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/gradient-labs",
       "match_type": "exact",
       "score": 2.0
@@ -13257,6 +13262,11 @@
       "score": 6.0
     },
     {
+      "entity_id": "model_liquidai_lfm3_1_7b",
+      "match_type": "exact",
+      "score": 6.0
+    },
+    {
       "entity_id": "model_nanbeige_nanbeige4_2_3b",
       "match_type": "exact",
       "score": 6.0
@@ -13752,6 +13762,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_atomicchat_lfm3_1_7b_uncensored_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_atomicchat_ling_3_0_flash_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -14103,11 +14118,6 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
-      "match_type": "exact",
-      "score": 3.0
-    },
-    {
-      "entity_id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -17043,6 +17053,11 @@
     },
     {
       "entity_id": "model_quantfactory_meta_llama_3_8b_instruct_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_quantfactory_qwen2_5_7b_instruct_abliterated_v2_gguf",
       "match_type": "exact",
       "score": 3.0
     },
@@ -68076,6 +68091,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "gh_1209966933",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_66bb76014dbf7716986c7f86",
       "match_type": "exact",
       "score": 1.0
@@ -69250,6 +69270,11 @@
     },
     {
       "entity_id": "dataset_superlinked_sie_task_evidence",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zhanli_li_dataworld_train_2k_part1",
       "match_type": "exact",
       "score": 1.0
     },
@@ -77355,6 +77380,11 @@
     },
     {
       "entity_id": "dataset_yqy6_slides_align",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zhanli_li_dataworld_train_2k_part1",
       "match_type": "exact",
       "score": 1.0
     },
@@ -102674,6 +102704,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_6acca32f6fa844eabec4e77b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_2077aidatafoundation_touchscale",
       "match_type": "exact",
       "score": 1.5
@@ -102862,6 +102897,13 @@
       "entity_id": "dataset_johnsmith414718_crypto_market_datasets",
       "match_type": "exact",
       "score": 2.5
+    }
+  ],
+  "binaries": [
+    {
+      "entity_id": "gh_1209966933",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "binarization": [
@@ -112951,6 +112993,13 @@
       "score": 1.0
     }
   ],
+  "blip3o": [
+    {
+      "entity_id": "dataset_blip3o_blip3o_pretrain_long_caption",
+      "match_type": "exact",
+      "score": 5.0
+    }
+  ],
   "bliss": [
     {
       "entity_id": "alpaca_-1538242933929055022",
@@ -114196,6 +114245,11 @@
       "entity_id": "rss_http://bair.berkeley.edu/blog/2026/01/10/information-driven-imaging/",
       "match_type": "exact",
       "score": 3.0
+    },
+    {
+      "entity_id": "dataset_matitie_image_bank_202601",
+      "match_type": "exact",
+      "score": 2.5
     },
     {
       "entity_id": "alpaca_-122278694324868071",
@@ -143451,6 +143505,11 @@
     },
     {
       "entity_id": "dataset_innovatorlab_innovator_vl_instruct_46m",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mjpansa_qwen38_eagle4_native_features_37m_20261024_5277c167",
       "match_type": "exact",
       "score": 1.0
     },
@@ -177880,6 +177939,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_6acca32f6fa844eabec4e77b",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/academy/codex-how-to-start",
       "match_type": "exact",
       "score": 2.0
@@ -179420,6 +179484,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_pinelab_manufacet_1k",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_pku_alignment_beavertails",
       "match_type": "exact",
       "score": 1.5
@@ -179591,6 +179660,11 @@
     },
     {
       "entity_id": "dataset_sharpa_robotics_sharpadex_v1_0",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_shetty11_lob_bench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -190720,6 +190794,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_blip3o_blip3o_pretrain_long_caption",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_bytedance_seed_multi_swe_bench",
       "match_type": "exact",
       "score": 1.0
@@ -191086,6 +191165,11 @@
     },
     {
       "entity_id": "dataset_markov_ai_gaming_500_hours",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_matitie_image_bank_202601",
       "match_type": "exact",
       "score": 1.0
     },
@@ -191496,6 +191580,11 @@
     },
     {
       "entity_id": "dataset_zhang0jhon_aesthetic_4k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_zhanli_li_dataworld_train_2k_part1",
       "match_type": "exact",
       "score": 1.0
     },
@@ -192229,6 +192318,11 @@
     },
     {
       "entity_id": "dataset_gifoe_persistent",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_mjpansa_qwen38_eagle4_native_features_37m_20261024_5277c167",
       "match_type": "exact",
       "score": 1.0
     },

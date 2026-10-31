@@ -24676,6 +24676,11 @@
       "target": "datasets/XiaomiMiMo"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6acca32f6fa844eabec4e77b",
+      "target": "datasets/lerobot"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -24926,9 +24931,9 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-31T06:38:03.160724+00:00",
+  "generated_at": "2026-10-31T13:18:23.493136+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "schema_version": "1.0",
-  "total_edges": 4985
+  "total_edges": 4986
 }

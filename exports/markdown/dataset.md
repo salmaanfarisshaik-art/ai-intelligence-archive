@@ -854,7 +854,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21
@@ -938,7 +938,7 @@
 - **ID**: hf_ds_69b0d60653fc22f5d5d3c07f
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/agibot-world/AgiBotWorld2026](https://huggingface.co/datasets/agibot-world/AgiBotWorld2026)
-- **Tags**: agibot, dual-arm, embodied-ai, imitation-learning, language:en, lerobot, license:cc-by-nc-sa-4.0, modality:image, modality:text, real-world, region:us, size_categories:1K<n<10K, task_categories:robotics
+- **Tags**: agibot, dual-arm, embodied-ai, imitation-learning, language:en, lerobot, license:cc-by-nc-sa-4.0, modality:image, modality:video, real-world, region:us, size_categories:100K<n<1M, task_categories:robotics
 
 ## chuhaojie/MELD
 - **ID**: hf_ds_69b169093bb915e5a938f797
@@ -1365,6 +1365,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3](https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3)
 - **Tags**: modality:text, region:us, size_categories:10K<n<100K
+
+## lerobot/FineART
+- **ID**: hf_ds_6acca32f6fa844eabec4e77b
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/lerobot/FineART](https://huggingface.co/datasets/lerobot/FineART)
+- **Tags**: LeRobot, arxiv:2609.36416, bimanual-manipulation, license:cc-by-4.0, modality:tabular, modality:text, modality:timeseries, modality:video, region:us, robotics, size_categories:100M<n<1B, subtask-annotations, task_categories:robotics, vision-language-action
 
 ## hdlzidane/ConteRecopilacion
 - **ID**: hf_ds_6accfa5c558696f3caf5dbfc

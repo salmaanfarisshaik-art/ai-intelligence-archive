@@ -9,7 +9,7 @@
   "private": false,
   "sha": "a68d69d8afaebe32afd2707c88e6d71114986f44",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for InsPLAD\n\t\n\n\nThis is a FiftyOne dataset with 49706 samples.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nfrom fiftyone.utils.huggingface import load_from_hub\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = load_from_hub(\"Voxel51/InsPLAD\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Details… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/InsPLAD.",
-  "downloads": 34282,
+  "downloads": 34134,
   "tags": [
     "task_categories:image-classification",
     "task_categories:object-detection",

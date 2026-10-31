@@ -1,0 +1,20 @@
+{
+  "_id": "6a684a320e8ac3a85cef98bc",
+  "id": "Renton-Ren/VGCP_robosuite",
+  "author": "Renton-Ren",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-07-28T08:43:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "c99d198b2f406a35391004dd012c784c91d6a44b",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tVGCP: learning Inverse Dynamics Model using Inverse Reinforcement Learning\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tPreparation\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t1. Encoder for reward computation: The encoder is pretrained using TCC, and each is for one task. Download pretrain_runs.zip\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t2. Datasets for conditioning goals: The goals in observation are from a randomly sampled sequence in demonstrations. They are psuedo-goals. Download and put datasets under VGCP.\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\t3. Finally, prepare video generative… See the full description on the dataset page: https://huggingface.co/datasets/Renton-Ren/VGCP_robosuite.",
+  "downloads": 49777,
+  "tags": [
+    "region:us"
+  ],
+  "createdAt": "2026-07-28T06:20:34.000Z",
+  "key": "",
+  "unique_id": "dataset_renton_ren_vgcp_robosuite",
+  "schema_version": "1.0"
+}

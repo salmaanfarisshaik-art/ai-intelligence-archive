@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T06:39:07Z",
+  "generated_at": "2026-10-31T13:19:16Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1042,6 +1042,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_atomicchat_lfm3_1_7b_uncensored_gguf",
+      "target_id": "hf_LiquidAI_LFM3-1.7B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_atomicchat_ling_3_0_flash_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-flash",
       "type": "derived_from"
@@ -1579,11 +1584,6 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_32b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-32B-Instruct",
-      "type": "derived_from"
-    },
-    {
-      "source_id": "model_bartowski_qwen2_5_coder_7b_instruct_abliterated_gguf",
-      "target_id": "hf_huihui-ai_Qwen2.5-Coder-7B-Instruct-abliterated",
       "type": "derived_from"
     },
     {
@@ -3964,6 +3964,11 @@
     {
       "source_id": "model_liquidai_lfm2_5_8b_a1b_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-8B-A1B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_liquidai_lfm3_1_7b",
+      "target_id": "hf_LiquidAI_LFM3-1.7B-Base",
       "type": "derived_from"
     },
     {
@@ -7394,6 +7399,11 @@
     {
       "source_id": "model_quantfactory_meta_llama_3_8b_instruct_gguf",
       "target_id": "hf_meta-llama_Meta-Llama-3-8B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_quantfactory_qwen2_5_7b_instruct_abliterated_v2_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
       "type": "derived_from"
     },
     {

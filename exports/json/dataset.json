@@ -4581,11 +4581,10 @@
       "leaderboards",
       "license:mit",
       "meta-evaluation",
-      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:10K<n<100K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -4896,10 +4895,10 @@
       "lerobot",
       "license:cc-by-nc-sa-4.0",
       "modality:image",
-      "modality:text",
+      "modality:video",
       "real-world",
       "region:us",
-      "size_categories:1K<n<10K",
+      "size_categories:100K<n<1M",
       "task_categories:robotics"
     ],
     "links": {
@@ -6798,6 +6797,38 @@
     },
     "source_url": "https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3",
     "local_path": "datasets/roisincrtai/hf_ds_6ac0e3e0aadad5e0492a39f0.json"
+  },
+  {
+    "id": "hf_ds_6acca32f6fa844eabec4e77b",
+    "title": "lerobot/FineART",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "LeRobot",
+      "arxiv:2609.36416",
+      "bimanual-manipulation",
+      "license:cc-by-4.0",
+      "modality:tabular",
+      "modality:text",
+      "modality:timeseries",
+      "modality:video",
+      "region:us",
+      "robotics",
+      "size_categories:100M<n<1B",
+      "subtask-annotations",
+      "task_categories:robotics",
+      "vision-language-action"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/lerobot"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/lerobot/FineART",
+    "local_path": "datasets/lerobot/hf_ds_6acca32f6fa844eabec4e77b.json"
   },
   {
     "id": "hf_ds_6accfa5c558696f3caf5dbfc",
