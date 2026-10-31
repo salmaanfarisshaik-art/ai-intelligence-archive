@@ -2,9 +2,9 @@
 # Repository Integrity Report
 
 **Status:** unhealthy
-**Generated:** 2026-10-31T00:22:56.434206+00:00
-**Warnings:** 4984
-**Errors:** 330
+**Generated:** 2026-10-31T06:38:05.608918+00:00
+**Warnings:** 4985
+**Errors:** 331
 
 ## Issues
 
@@ -338,6 +338,7 @@
 - **[ERROR]** `duplicates`: Duplicate entity ID: arxiv_2610.31668v1
 - **[ERROR]** `duplicates`: Duplicate entity ID: arxiv_2610.31670v1
 - **[ERROR]** `duplicates`: Duplicate entity ID: arxiv_2610.31671v1
+- **[ERROR]** `duplicates`: Duplicate entity ID: hf_ds_6a409561222ffbb14f69924c
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1304.3111v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1804.08328v2
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 1808.10654v2
@@ -5259,6 +5260,7 @@
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/espnet
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/k9cli
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/Syn4D
+- **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/3dcodeverse
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/ilabai
 - **[WARNING]** `cross_links`: Orphaned graph edge target: datasets/inclusionAI
 - **[WARNING]** `cross_links`: Orphaned graph edge target: 2606.24530

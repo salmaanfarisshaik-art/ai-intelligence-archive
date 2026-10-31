@@ -4,10 +4,10 @@
   "author": "openalphalab",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-31T00:23:04.000Z",
+  "lastModified": "2026-10-31T06:37:04.000Z",
   "likes": 1,
   "private": false,
-  "sha": "2d17f46e92d3b0e95ea16a9ae3fba3fca1b1c8a8",
+  "sha": "11ace27765cd441dad8cd4eb5ae9720c54093362",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tGDELT News Reconstructions\n\t\n\n\nContent: multilingual news text reconstructed from GDELT Web News NGrams 3.0, including Type 1 and Type 2.\nFormat: Zstandard-compressed Parquet only, with small manifests and a coverage checkpoint.\nColumns: date, language, source_url, text, observation_id, type, metadata.\nMetadata: source-file timestamp, source checksum and reconstruction diagnostics. Observation IDs are stable for the same source group. No country, publisher, author or external… See the full description on the dataset page: https://huggingface.co/datasets/openalphalab/gdelt-news.",
   "downloads": 34207,
   "tags": [

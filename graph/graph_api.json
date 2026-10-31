@@ -24608,6 +24608,11 @@
     {
       "relationship": "related_models",
       "source": "hf_ds_6a409561222ffbb14f69924c",
+      "target": "datasets/3dcodeverse"
+    },
+    {
+      "relationship": "related_models",
+      "source": "hf_ds_6a409561222ffbb14f69924c",
       "target": "datasets/ilabai"
     },
     {
@@ -24921,7 +24926,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-10-31T00:22:54.427030+00:00",
+  "generated_at": "2026-10-31T06:38:03.160724+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -170684,6 +170689,11 @@
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
       "label": "ilabai/3dcodeverse"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6a409561222ffbb14f69924c",
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
@@ -486132,6 +486142,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4984,
-  "total_nodes": 92241
+  "total_edges": 4985,
+  "total_nodes": 92242
 }

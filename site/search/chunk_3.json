@@ -2306,6 +2306,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_linxy_usdt_m_perpetual_futures",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_natgillin_translations_raw",
       "match_type": "exact",
       "score": 1.0
@@ -5962,6 +5967,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_linxy_usdt_m_perpetual_futures",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_nextlab_zju_popular_hook",
       "match_type": "exact",
       "score": 1.0
@@ -7090,6 +7100,11 @@
       "score": 10.0
     },
     {
+      "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "match_type": "exact",
+      "score": 9.5
+    },
+    {
       "entity_id": "dataset_feinaldo_sceneactbench",
       "match_type": "exact",
       "score": 8.5
@@ -7131,6 +7146,11 @@
     },
     {
       "entity_id": "dataset_yipenggao_3dcode",
+      "match_type": "exact",
+      "score": 7.0
+    },
+    {
+      "entity_id": "dataset_yipenggao_3dcodebench",
       "match_type": "exact",
       "score": 7.0
     },
@@ -8510,6 +8530,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "hf_ds_6a409561222ffbb14f69924c",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/point-e",
       "match_type": "exact",
       "score": 2.0
@@ -8879,6 +8904,11 @@
   ],
   "3dcodebench": [
     {
+      "entity_id": "dataset_yipenggao_3dcodebench",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
       "entity_id": "dataset_yipenggao_3dcode",
       "match_type": "exact",
       "score": 4.0
@@ -8889,13 +8919,28 @@
       "entity_id": "dataset_yipenggao_3dcode",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yipenggao_3dcodebench",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "3dcodeverse": [
     {
       "entity_id": "hf_ds_6a409561222ffbb14f69924c",
       "match_type": "exact",
+      "score": 8.0
+    },
+    {
+      "entity_id": "hf_ds_6a409561222ffbb14f69924c",
+      "match_type": "exact",
       "score": 5.0
+    },
+    {
+      "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "match_type": "exact",
+      "score": 4.0
     },
     {
       "entity_id": "dataset_ilabai_3dcodeverse",

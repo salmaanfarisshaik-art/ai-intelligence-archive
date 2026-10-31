@@ -4,10 +4,10 @@
   "author": "AletheiaAING",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-10-31T00:20:05.000Z",
+  "lastModified": "2026-10-31T06:34:13.000Z",
   "likes": 0,
   "private": false,
-  "sha": "b32baaad700eddee46bc5b5013a9c7ac25d2d703",
+  "sha": "5d09513fe3c66e8ca809399d7cffc343b6f8d7a0",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tAfrican-Language Data Quality\n\t\n\nSeven datasets built around one question: how do you tell good African-language text\nfrom bad, when there is no reference translation to compare against? They fall into\nthree families, which do not share a schema — load them by config name.\n\n\t\n\t\t\nconfig\nrows\nlanguages\nwhat it is\n\n\n\t\t\ndefault\n493,831\n71\nhuman text, corrupted by a known function by a known amount\n\n\n270m_inlang_full\n57,465\n71\nmodel-generated text, in-language prompts\n\n\n270m_inlang_b\n45… See the full description on the dataset page: https://huggingface.co/datasets/AletheiaAING/Data-Quality.",
   "downloads": 43640,
   "tags": [

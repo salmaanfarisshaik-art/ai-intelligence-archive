@@ -145761,6 +145761,11 @@
       "category": "dataset"
     },
     {
+      "id": "hf_ds_6a409561222ffbb14f69924c",
+      "label": "3dcodeverse/3dcodeverse-2m",
+      "category": "dataset"
+    },
+    {
       "id": "hf_ds_6a429172c50c64cfb0a54dfb",
       "label": "nvidia/simready-assets",
       "category": "dataset"
@@ -485810,6 +485815,11 @@
     {
       "source": "hf_ds_6a382f6fa519cd301493b37b",
       "target": "datasets/Syn4D",
+      "relationship": "related_models"
+    },
+    {
+      "source": "hf_ds_6a409561222ffbb14f69924c",
+      "target": "datasets/3dcodeverse",
       "relationship": "related_models"
     },
     {

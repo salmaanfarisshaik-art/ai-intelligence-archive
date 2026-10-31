@@ -5088,6 +5088,11 @@
       "entity_id": "dataset_yipenggao_3dcode",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yipenggao_3dcodebench",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "gap": [
@@ -29593,6 +29598,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "dataset_benchmark_anon_2026_roadmapbench",
       "match_type": "exact",
       "score": 3.0
@@ -35499,6 +35509,11 @@
     },
     {
       "entity_id": "dataset_yipenggao_3dcode",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_yipenggao_3dcodebench",
       "match_type": "exact",
       "score": 1.5
     },
@@ -52443,6 +52458,11 @@
     },
     {
       "entity_id": "dataset_yipenggao_3dcode",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_yipenggao_3dcodebench",
       "match_type": "exact",
       "score": 1.0
     },
@@ -89804,6 +89824,18 @@
     },
     {
       "entity_id": "alpaca_8885156605091934834",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "glsl": [
+    {
+      "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "match_type": "exact",
+      "score": 2.5
+    },
+    {
+      "entity_id": "hf_ds_6a409561222ffbb14f69924c",
       "match_type": "exact",
       "score": 1.0
     }
