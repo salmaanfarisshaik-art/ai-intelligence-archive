@@ -327622,6 +327622,34 @@
     "local_path": "datasets/ipec-community/hf_ds_67ce486ea3edca9b3349a097.json"
   },
   {
+    "id": "hf_ds_67d0465e363941e3a07ed1bb",
+    "title": "MIC-DKFZ/OpenMind",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "image",
+      "library:datasets",
+      "library:mlcroissant",
+      "license:cc-by-4.0",
+      "modality:3d",
+      "modality:image",
+      "region:us",
+      "size_categories:n<1K",
+      "task_categories:image-feature-extraction"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/MIC-DKFZ"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/MIC-DKFZ/OpenMind",
+    "local_path": "datasets/mic-dkfz/hf_ds_67d0465e363941e3a07ed1bb.json"
+  },
+  {
     "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "title": "mueller91/MLAAD",
     "category": "dataset",
@@ -341398,6 +341426,7 @@
     "tags": [
       "4-bit",
       "amd",
+      "arxiv:2610.07766",
       "awq",
       "base_model:google/gemma-4-26B-A4B-it",
       "base_model:quantized:google/gemma-4-26B-A4B-it",
@@ -348790,6 +348819,16 @@
     "local_path": "models/bartowski/model_bartowski_c4ai_command_r7b_12_2024_gguf.json"
   },
   {
+    "id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
+    "title": "bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/bartowski/model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf.json"
+  },
+  {
     "id": "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf",
     "title": "bartowski/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored-GGUF",
     "category": "models",
@@ -352000,6 +352039,16 @@
     "local_path": "models/facebook/model_facebook_incoder_1b.json"
   },
   {
+    "id": "model_facebook_mobilellm_r1_360m",
+    "title": "facebook/MobileLLM-R1-360M",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/facebook/model_facebook_mobilellm_r1_360m.json"
+  },
+  {
     "id": "model_facebook_opt_125m",
     "title": "facebook/opt-125m",
     "category": "models",
@@ -352198,6 +352247,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/fdtn-ai/model_fdtn_ai_foundation_sec_1_1_8b_instruct.json"
+  },
+  {
+    "id": "model_featherless_chat_models_llama2_13b_chat_hf",
+    "title": "Featherless-Chat-Models/llama2-13b-chat-hf",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/featherless-chat-models/model_featherless_chat_models_llama2_13b_chat_hf.json"
   },
   {
     "id": "model_final_bench_pocket_26b_gguf",
@@ -362268,6 +362327,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/qwen/model_qwen_qwq_32b_awq.json"
+  },
+  {
+    "id": "model_qwen_qwq_32b_gguf",
+    "title": "Qwen/QwQ-32B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/qwen/model_qwen_qwq_32b_gguf.json"
   },
   {
     "id": "model_qwen_qwq_32b_preview",

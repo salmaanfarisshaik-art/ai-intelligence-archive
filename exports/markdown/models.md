@@ -496,6 +496,10 @@
 - **ID**: model_bartowski_c4ai_command_r7b_12_2024_gguf
 - **Source**: 
 
+## bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF
+- **ID**: model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf
+- **Source**: 
+
 ## bartowski/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored-GGUF
 - **ID**: model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf
 - **Source**: 
@@ -1780,6 +1784,10 @@
 - **ID**: model_facebook_incoder_1b
 - **Source**: 
 
+## facebook/MobileLLM-R1-360M
+- **ID**: model_facebook_mobilellm_r1_360m
+- **Source**: 
+
 ## facebook/opt-125m
 - **ID**: model_facebook_opt_125m
 - **Source**: 
@@ -1858,6 +1866,10 @@
 
 ## fdtn-ai/Foundation-Sec-1.1-8B-Instruct
 - **ID**: model_fdtn_ai_foundation_sec_1_1_8b_instruct
+- **Source**: 
+
+## Featherless-Chat-Models/llama2-13b-chat-hf
+- **ID**: model_featherless_chat_models_llama2_13b_chat_hf
 - **Source**: 
 
 ## FINAL-Bench/POCKET-26B-GGUF
@@ -5886,6 +5898,10 @@
 
 ## Qwen/QwQ-32B-AWQ
 - **ID**: model_qwen_qwq_32b_awq
+- **Source**: 
+
+## Qwen/QwQ-32B-GGUF
+- **ID**: model_qwen_qwq_32b_gguf
 - **Source**: 
 
 ## Qwen/QwQ-32B-Preview

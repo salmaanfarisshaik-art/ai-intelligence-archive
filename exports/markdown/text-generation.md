@@ -2651,7 +2651,7 @@
 - **ID**: hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit](https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit)
-- **Tags**: 4-bit, amd, awq, base_model:google/gemma-4-26B-A4B-it, base_model:quantized:google/gemma-4-26B-A4B-it, classification, compressed-tensors, conversational, cuda, decision-engine, en, gemma4, h100, license:apache-2.0, mixture-of-experts, nvidia, open-telco-ai, region:us, rocm, safetensors, telecom, telecommunications, text-generation, typed-decisions, vllm, w4a16
+- **Tags**: 4-bit, amd, arxiv:2610.07766, awq, base_model:google/gemma-4-26B-A4B-it, base_model:quantized:google/gemma-4-26B-A4B-it, classification, compressed-tensors, conversational, cuda, decision-engine, en, gemma4, h100, license:apache-2.0, mixture-of-experts, nvidia, open-telco-ai, region:us, rocm, safetensors, telecom, telecommunications, text-generation, typed-decisions, vllm, w4a16
 
 ## farbodtavakkoli/OTel-2.0-LLM-31B-IT
 - **ID**: hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT

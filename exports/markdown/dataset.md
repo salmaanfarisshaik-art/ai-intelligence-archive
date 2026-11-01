@@ -526,6 +526,12 @@
 - **URL**: [https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot](https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot)
 - **Tags**: LeRobot, language_table, license:apache-2.0, openx, region:us, rlds, task_categories:robotics, xarm
 
+## MIC-DKFZ/OpenMind
+- **ID**: hf_ds_67d0465e363941e3a07ed1bb
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/MIC-DKFZ/OpenMind](https://huggingface.co/datasets/MIC-DKFZ/OpenMind)
+- **Tags**: 3d, image, library:datasets, library:mlcroissant, license:cc-by-4.0, modality:3d, modality:image, region:us, size_categories:n<1K, task_categories:image-feature-extraction
+
 ## mueller91/MLAAD
 - **ID**: hf_ds_67d6c9b5ba56e14eeb14fab6
 - **Source**: HuggingFace Datasets

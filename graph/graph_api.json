@@ -24267,6 +24267,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_67d0465e363941e3a07ed1bb",
+      "target": "datasets/MIC-DKFZ"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_67d6c9b5ba56e14eeb14fab6",
       "target": "datasets/mueller91"
     },
@@ -24931,7 +24936,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-11-01T08:42:52.395684+00:00",
+  "generated_at": "2026-11-01T15:45:50.962143+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -170202,6 +170207,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_67d0465e363941e3a07ed1bb",
+      "label": "MIC-DKFZ/OpenMind"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
       "label": "mueller91/MLAAD"
     },
@@ -179122,6 +179132,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
+      "label": "bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf",
       "label": "bartowski/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored-GGUF"
     },
@@ -180727,6 +180742,11 @@
     },
     {
       "category": "models",
+      "id": "model_facebook_mobilellm_r1_360m",
+      "label": "facebook/MobileLLM-R1-360M"
+    },
+    {
+      "category": "models",
       "id": "model_facebook_opt_125m",
       "label": "facebook/opt-125m"
     },
@@ -180824,6 +180844,11 @@
       "category": "models",
       "id": "model_fdtn_ai_foundation_sec_1_1_8b_instruct",
       "label": "fdtn-ai/Foundation-Sec-1.1-8B-Instruct"
+    },
+    {
+      "category": "models",
+      "id": "model_featherless_chat_models_llama2_13b_chat_hf",
+      "label": "Featherless-Chat-Models/llama2-13b-chat-hf"
     },
     {
       "category": "models",
@@ -185859,6 +185884,11 @@
       "category": "models",
       "id": "model_qwen_qwq_32b_awq",
       "label": "Qwen/QwQ-32B-AWQ"
+    },
+    {
+      "category": "models",
+      "id": "model_qwen_qwq_32b_gguf",
+      "label": "Qwen/QwQ-32B-GGUF"
     },
     {
       "category": "models",
@@ -486257,6 +486287,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 4986,
-  "total_nodes": 92264
+  "total_edges": 4987,
+  "total_nodes": 92269
 }

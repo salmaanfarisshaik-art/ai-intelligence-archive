@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:43:56Z",
+  "generated_at": "2026-11-01T15:46:57Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -451,7 +451,8 @@
     ],
     "hf_InternScience_Sage-A1.5": [
       "model_internscience_sage_a1_5_q4_k_m_gguf",
-      "model_internscience_sage_a1_5_q8_0_gguf"
+      "model_internscience_sage_a1_5_q8_0_gguf",
+      "model_na0x2c6_sage_a1_5_gguf"
     ],
     "hf_IntervitensInc_Mistral-Nemo-Base-2407-chatml": [
       "model_inflatebot_mn_12b_mag_mell_r1"
@@ -1404,6 +1405,7 @@
       "model_anonimousa_qwen3_8_flash_next_reap_256_duo_gguf",
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
+      "model_atomicchat_qwen3_8_flash_next_uncensored_gguf",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
       "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
       "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf",
@@ -1572,6 +1574,7 @@
       "model_xhtoken_spark_x2_5_4b"
     ],
     "hf_XHToken_Spark-X2.6-4B": [
+      "model_sc117_spark_x2_6_4b_abliterated_fit_gguf",
       "model_xhtoken_spark_x2_6_4b_gguf"
     ],
     "hf_XingChen-AGI_Xing4.0-29B-A4B": [
@@ -3561,6 +3564,9 @@
     "hf_parler-tts_mls_eng": [
       "model_parler_tts_parler_tts_mini_multilingual_v1_1"
     ],
+    "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF": [
+      "model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf"
+    ],
     "hf_pfnet_plamo-2.1-2b-cpt": [
       "model_pfnet_plamo_2_1_2b_vl"
     ],
@@ -4267,6 +4273,9 @@
       "hf_Qwen_Qwen3.8-27B"
     ],
     "model_atomicchat_qwen3_8_flash_next_gguf": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
+    "model_atomicchat_qwen3_8_flash_next_uncensored_gguf": [
       "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf": [
@@ -6386,6 +6395,9 @@
     "model_myric_laguna_s_2_1_apex_gguf": [
       "hf_poolside_Laguna-S-2.1"
     ],
+    "model_na0x2c6_sage_a1_5_gguf": [
+      "hf_InternScience_Sage-A1.5"
+    ],
     "model_nanbeige_nanbeige4_2_3b": [
       "hf_Nanbeige_Nanbeige4.2-3B-Base"
     ],
@@ -6965,6 +6977,9 @@
     ],
     "model_peasantsmith_glm_5_3_flash_maya_gguf": [
       "hf_zai-org_GLM-5.3-Flash"
+    ],
+    "model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf": [
+      "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF"
     ],
     "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf": [
       "hf_XHToken_Spark-X2.5-4B"
@@ -7678,6 +7693,9 @@
     ],
     "model_sc117_ornith_1_0_35b_mtp_apex_gguf": [
       "hf_deepreinforce-ai_Ornith-1.0-35B"
+    ],
+    "model_sc117_spark_x2_6_4b_abliterated_fit_gguf": [
+      "hf_XHToken_Spark-X2.6-4B"
     ],
     "model_scottgl_minimax_m2_7_reap_172b_a10b_nvfp4_gb10": [
       "hf_catplusplus_MiniMax-M2.7-REAP-172B-A10B-NVFP4"

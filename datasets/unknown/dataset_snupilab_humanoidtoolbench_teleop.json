@@ -1,0 +1,32 @@
+{
+  "_id": "6a9d5395015bbe70d42c2c7c",
+  "id": "snupilab/humanoidtoolbench-teleop",
+  "author": "snupilab",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-02T08:31:43.000Z",
+  "likes": 15,
+  "private": false,
+  "sha": "c1e9d41b6de5c0632419a381232bdf28cf7642af",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tToolBook: HumanoidToolBench demonstrations\n\t\n\nPaper: arXiv:2610.02089\nRaw Meta Quest teleoperation demonstrations for\nHumanoidToolBench, recorded on\nthe Unitree G1 in MuJoCo through its whole-body controller.\nEach recording uses LeRobot v2.1 files: 50 Hz, an ego-view video and wrist-view\nvideos when recorded, and the recording contract in meta/simple_contract.json.\nCamera resolutions are\ndeclared in meta/info.json. Code versions, WBC settings, and the render\nbackend are in… See the full description on the dataset page: https://huggingface.co/datasets/snupilab/humanoidtoolbench-teleop.",
+  "downloads": 34433,
+  "tags": [
+    "license:cc-by-nc-4.0",
+    "size_categories:10K<n<100K",
+    "modality:image",
+    "modality:tabular",
+    "modality:text",
+    "modality:video",
+    "arxiv:2610.02089",
+    "region:us",
+    "robotics",
+    "humanoid",
+    "lerobot",
+    "teleoperation",
+    "arxiv:2610.02089"
+  ],
+  "createdAt": "2026-09-06T11:50:45.000Z",
+  "key": "",
+  "unique_id": "dataset_snupilab_humanoidtoolbench_teleop",
+  "schema_version": "1.0"
+}

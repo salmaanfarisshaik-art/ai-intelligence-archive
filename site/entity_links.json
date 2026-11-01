@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T08:43:56Z",
+  "generated_at": "2026-11-01T15:46:57Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1078,6 +1078,11 @@
     },
     {
       "source_id": "model_atomicchat_qwen3_8_flash_next_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_atomicchat_qwen3_8_flash_next_uncensored_gguf",
       "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
       "type": "derived_from"
     },
@@ -5557,6 +5562,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_na0x2c6_sage_a1_5_gguf",
+      "target_id": "hf_InternScience_Sage-A1.5",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_nanbeige_nanbeige4_2_3b",
       "target_id": "hf_Nanbeige_Nanbeige4.2-3B-Base",
       "type": "derived_from"
@@ -7177,6 +7187,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf",
+      "target_id": "hf_peasantsmith_GLM-5.3-Flash-Maya-GGUF",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_peculiar_ragdoll_sharp_spark_x2_5_4b_gguf",
       "target_id": "hf_XHToken_Spark-X2.5-4B",
       "type": "derived_from"
@@ -8439,6 +8454,11 @@
     {
       "source_id": "model_sc117_ornith_1_0_35b_mtp_apex_gguf",
       "target_id": "hf_deepreinforce-ai_Ornith-1.0-35B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_sc117_spark_x2_6_4b_abliterated_fit_gguf",
+      "target_id": "hf_XHToken_Spark-X2.6-4B",
       "type": "derived_from"
     },
     {

@@ -29052,6 +29052,7 @@ hf_ds_67b9d203047d98a072b4e68c,cadene/droid,dataset,HuggingFace Datasets,LeRobot
 hf_ds_67cac93b5877d9c876a84572,jobs-git/Zyda-2,dataset,HuggingFace Datasets,language:en|license:odc-by|region:us|size_categories:n>1T|task_categories:text-generation,https://huggingface.co/datasets/jobs-git/Zyda-2
 hf_ds_67cac990bdf9000d16109b38,jobs-git/HPLT2.0_cleaned,dataset,HuggingFace Datasets,language:ace|language:af|language:als|language:am|language:ar|language:as|language:ast|language:awa|language:ayr|language:azb|language:azj|language:ba|language:ban|language:be|language:bem|language:bg|language:bho|language:bjn|language:bm|language:bn|language:bo|language:bs|language:bug|language:ca|language:ceb|language:cjk|language:ckb|language:crh|language:cs|language:cy|language:da|language:de|language:dik|language:dyu|language:dz|language:ee|language:el|language:en|language:eo|language:es|language:et|language:eu|language:fi|language:fj|language:fo|language:fon|language:fr|language:fur|language:fuv|language:ga|language:gaz|language:gd|language:gl|language:gn|language:gu|language:ha|language:he|language:hi|language:hne|language:hr|language:ht|language:hu|language:hy|language:id|language:ig|language:ilo|language:is|language:it|language:ja|language:jv|language:ka|language:kab|language:kac|language:kam|language:kbp|language:kea|language:kg|language:khk|language:ki|language:kk|language:km|language:kmb|language:kmr|language:kn|language:knc|language:ko|language:ks|language:ky|language:lb|language:lg|language:li|language:lij|language:lmo|language:ln|language:lo|language:lt|language:ltg|language:lua|language:luo|language:lus|language:lvs|language:mag|language:mai|language:mi|language:min|language:mk|language:ml|language:mni|language:mos|language:mr|language:mt|language:my|language:nb|language:nl|language:nn|language:npi|language:nso|language:nus|language:ny|language:oc|language:ory|language:pa|language:pag|language:pap|language:pbt|language:pes|language:pl|language:plt|language:prs|language:pt|language:quy|language:rn|language:ro|language:ru|language:rw|language:sa|language:sat|language:sc|language:scn|language:sd|language:sg|language:shn|language:si|language:sk|language:sl|language:sm|language:sn|language:so|language:sr|language:ss|language:st|language:su|language:sv|language:swh|language:szl|language:ta|language:taq|language:te|language:tg|language:th|language:ti|language:tk|language:tl|language:tn|language:tpi|language:tr|language:ts|language:tt|language:tum|language:tw|language:ug|language:uk|language:umb|language:ur|language:uzn|language:vec|language:vi|language:war|language:wo|language:xh|language:ydd|language:yo|language:yue|language:zh|language:zsm|language:zu|license:cc0-1.0|multilinguality:multilingual|region:us|size_categories:n>1T|task_categories:fill-mask|task_categories:text-generation|task_ids:language-modeling,https://huggingface.co/datasets/jobs-git/HPLT2.0_cleaned
 hf_ds_67ce486ea3edca9b3349a097,IPEC-COMMUNITY/language_table_lerobot,dataset,HuggingFace Datasets,LeRobot|language_table|license:apache-2.0|openx|region:us|rlds|task_categories:robotics|xarm,https://huggingface.co/datasets/IPEC-COMMUNITY/language_table_lerobot
+hf_ds_67d0465e363941e3a07ed1bb,MIC-DKFZ/OpenMind,dataset,HuggingFace Datasets,3d|image|library:datasets|library:mlcroissant|license:cc-by-4.0|modality:3d|modality:image|region:us|size_categories:n<1K|task_categories:image-feature-extraction,https://huggingface.co/datasets/MIC-DKFZ/OpenMind
 hf_ds_67d6c9b5ba56e14eeb14fab6,mueller91/MLAAD,dataset,HuggingFace Datasets,MLAAD|anti-spoofing|arxiv:2401.09512|audio|audio-deepfake-detection|deepfake|language:de|language:en|language:es|language:fr|language:it|language:pl|language:ru|language:uk|license:cc-by-nc-4.0|modality:audio|region:us|size_categories:100K<n<1M|task_categories:audio-classification|voice|voice-antispoofing,https://huggingface.co/datasets/mueller91/MLAAD
 hf_ds_67d7417c7c4950a62b4c33a4,nmasi/era5,dataset,HuggingFace Datasets,climate|language:en|region:us,https://huggingface.co/datasets/nmasi/era5
 hf_ds_67d829e152331730e865bfb7,cadene/droid_1.0.1,dataset,HuggingFace Datasets,LeRobot|license:apache-2.0|region:us|task_categories:robotics,https://huggingface.co/datasets/cadene/droid_1.0.1
@@ -30203,7 +30204,7 @@ hf_facebook_opt-2.7b,facebook/opt-2.7b,text-generation,Hugging Face,,https://hug
 hf_facebook_opt-350m,facebook/opt-350m,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-350m
 hf_facebook_opt-6.7b,facebook/opt-6.7b,text-generation,Hugging Face,,https://huggingface.co/facebook/opt-6.7b
 hf_facebook_xglm-564M,facebook/xglm-564M,text-generation,Hugging Face,,https://huggingface.co/facebook/xglm-564M
-hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit,farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit,text-generation,Hugging Face,4-bit|amd|awq|base_model:google/gemma-4-26B-A4B-it|base_model:quantized:google/gemma-4-26B-A4B-it|classification|compressed-tensors|conversational|cuda|decision-engine|en|gemma4|h100|license:apache-2.0|mixture-of-experts|nvidia|open-telco-ai|region:us|rocm|safetensors|telecom|telecommunications|text-generation|typed-decisions|vllm|w4a16,https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit
+hf_farbodtavakkoli_OTel-2.0-Decision-26B-A4B-4bit,farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit,text-generation,Hugging Face,4-bit|amd|arxiv:2610.07766|awq|base_model:google/gemma-4-26B-A4B-it|base_model:quantized:google/gemma-4-26B-A4B-it|classification|compressed-tensors|conversational|cuda|decision-engine|en|gemma4|h100|license:apache-2.0|mixture-of-experts|nvidia|open-telco-ai|region:us|rocm|safetensors|telecom|telecommunications|text-generation|typed-decisions|vllm|w4a16,https://huggingface.co/farbodtavakkoli/OTel-2.0-Decision-26B-A4B-4bit
 hf_farbodtavakkoli_OTel-2.0-LLM-31B-IT,farbodtavakkoli/OTel-2.0-LLM-31B-IT,text-generation,Hugging Face,amd|arxiv:2504.07097|at-t|continual-learning|conversational|dell|deploy:azure|domain-adaptation|en|endpoints_compatible|gemma4|gsma|image-text-to-text|instruction-following|license:apache-2.0|microsoft|multimodal|open-telco-ai|orthogonal-subspace-fine-tuning|osft|post-trained|rag|red-hat|region:us|safetensors|telecom|telecommunications|text-generation|tool-calling|transformers|vllm,https://huggingface.co/farbodtavakkoli/OTel-2.0-LLM-31B-IT
 hf_farbodtavakkoli_OTel-LLM-0.6B-IT,farbodtavakkoli/OTel-LLM-0.6B-IT,text-generation,Hugging Face,,https://huggingface.co/farbodtavakkoli/OTel-LLM-0.6B-IT
 hf_farbodtavakkoli_OTel-LLM-1.2B-IT,farbodtavakkoli/OTel-LLM-1.2B-IT,text-generation,Hugging Face,,https://huggingface.co/farbodtavakkoli/OTel-LLM-1.2B-IT
@@ -30836,6 +30837,7 @@ model_baidu_ernie_4_5_21b_a3b_thinking,baidu/ERNIE-4.5-21B-A3B-Thinking,models,,
 model_bartowski_allenai_olmo_3_1_32b_think_gguf,bartowski/allenai_Olmo-3.1-32B-Think-GGUF,models,,,
 model_bartowski_altworld_hemmingway_1_gguf,bartowski/Altworld_Hemmingway-1-GGUF,models,,,
 model_bartowski_c4ai_command_r7b_12_2024_gguf,bartowski/c4ai-command-r7b-12-2024-GGUF,models,,,
+model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf,bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF,models,,,
 model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf,bartowski/DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored-GGUF,models,,,
 model_bartowski_deepseek_coder_v2_lite_instruct_gguf,bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF,models,,,
 model_bartowski_deepseek_r1_distill_llama_70b_gguf,bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF,models,,,
@@ -31157,6 +31159,7 @@ model_explosion_testing_falcon_test,explosion-testing/falcon-test,models,,,
 model_explosion_testing_llama2_fewer_kv_heads,explosion-testing/llama2-fewer-kv-heads,models,,,
 model_explosion_testing_llama2_kv_sharing,explosion-testing/llama2-kv-sharing,models,,,
 model_facebook_incoder_1b,facebook/incoder-1B,models,,,
+model_facebook_mobilellm_r1_360m,facebook/MobileLLM-R1-360M,models,,,
 model_facebook_opt_125m,facebook/opt-125m,models,,,
 model_facebook_opt_1_3b,facebook/opt-1.3b,models,,,
 model_facebook_opt_2_7b,facebook/opt-2.7b,models,,,
@@ -31177,6 +31180,7 @@ model_farbodtavakkoli_otel_llm_8b_a1b_it,farbodtavakkoli/OTel-LLM-8B-A1B-IT,mode
 model_farbodtavakkoli_otel_llm_e4b_it,farbodtavakkoli/OTel-LLM-E4B-IT,models,,,
 model_fastflowlm_gpt_oss_20b_npu2,FastFlowLM/GPT-OSS-20B-NPU2,models,,,
 model_fdtn_ai_foundation_sec_1_1_8b_instruct,fdtn-ai/Foundation-Sec-1.1-8B-Instruct,models,,,
+model_featherless_chat_models_llama2_13b_chat_hf,Featherless-Chat-Models/llama2-13b-chat-hf,models,,,
 model_final_bench_pocket_26b_gguf,FINAL-Bench/POCKET-26B-GGUF,models,,,
 model_final_bench_pocket_35b_gguf,FINAL-Bench/POCKET-35B-GGUF,models,,,
 model_final_bench_pocket_darwin_180b_gguf,FINAL-Bench/POCKET-Darwin-180B-GGUF,models,,,
@@ -32184,6 +32188,7 @@ model_qwen_qwen_vl,Qwen/Qwen-VL,models,,,
 model_qwen_qwen_vl_chat,Qwen/Qwen-VL-Chat,models,,,
 model_qwen_qwq_32b,Qwen/QwQ-32B,models,,,
 model_qwen_qwq_32b_awq,Qwen/QwQ-32B-AWQ,models,,,
+model_qwen_qwq_32b_gguf,Qwen/QwQ-32B-GGUF,models,,,
 model_qwen_qwq_32b_preview,Qwen/QwQ-32B-Preview,models,,,
 model_r0b0tlab_agents_a1_nvfp4,r0b0tlab/Agents-A1-NVFP4,models,,,
 model_radixark_glm_5_3_nvfp4,RadixArk/GLM-5.3-NVFP4,models,,,
