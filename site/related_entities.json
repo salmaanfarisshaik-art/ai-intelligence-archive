@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:52:28Z",
+  "generated_at": "2026-11-01T08:43:56Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -749,7 +749,8 @@
     "hf_Qwen_QwQ-32B": [
       "model_lmstudio_community_qwq_32b_mlx_8bit",
       "model_maziyarpanahi_qwq_32b_gguf",
-      "model_qwen_qwq_32b_awq"
+      "model_qwen_qwq_32b_awq",
+      "model_qwen_qwq_32b_gguf"
     ],
     "hf_Qwen_Qwen-AgentWorld-35B-A3B": [
       "model_unsloth_qwen_agentworld_35b_a3b_gguf"
@@ -2118,6 +2119,9 @@
     "hf_dongfangshuo_Dongfangshuo-Qwen3.8-27B-NSFW": [
       "model_dongfangshuo_dongfangshuo_qwen3_8_27b_nsfw_v2_gguf"
     ],
+    "hf_dphn_Dolphin-Mistral-24B-Venice-Edition": [
+      "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf"
+    ],
     "hf_dphn_Dolphin3.0-Llama3.1-8B": [
       "model_bartowski_dolphin3_0_llama3_1_8b_gguf"
     ],
@@ -2175,6 +2179,9 @@
     ],
     "hf_ethicalabs_Echo-DSRN-Qwen2.5-0.5B-Hybrid": [
       "model_mrs83_kurtis_eon1_hybrid_0_7b_v0_1_1"
+    ],
+    "hf_facebook_MobileLLM-R1-360M-base": [
+      "model_facebook_mobilellm_r1_360m"
     ],
     "hf_facebook_multilingual_librispeech": [
       "model_parler_tts_parler_tts_mini_multilingual_v1_1"
@@ -4308,6 +4315,9 @@
     "model_bartowski_c4ai_command_r7b_12_2024_gguf": [
       "hf_CohereLabs_c4ai-command-r7b-12-2024"
     ],
+    "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf": [
+      "hf_dphn_Dolphin-Mistral-24B-Venice-Edition"
+    ],
     "model_bartowski_darkidol_llama_3_1_8b_instruct_1_2_uncensored_gguf": [
       "hf_aifeifei798_DarkIdol-Llama-3.1-8B-Instruct-1.2-Uncensored"
     ],
@@ -5082,6 +5092,9 @@
     ],
     "model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4": [
       "hf_Qwen_Qwen3.6-35B-A3B"
+    ],
+    "model_facebook_mobilellm_r1_360m": [
+      "hf_facebook_MobileLLM-R1-360M-base"
     ],
     "model_farbodtavakkoli_otel_2_0_decision_26b_a4b_4bit": [
       "hf_google_gemma-4-26B-A4B-it"
@@ -7440,6 +7453,9 @@
       "hf_Qwen_Qwen2.5-32B"
     ],
     "model_qwen_qwq_32b_awq": [
+      "hf_Qwen_QwQ-32B"
+    ],
+    "model_qwen_qwq_32b_gguf": [
       "hf_Qwen_QwQ-32B"
     ],
     "model_qwen_qwq_32b_preview": [

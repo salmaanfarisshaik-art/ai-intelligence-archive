@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T01:52:28Z",
+  "generated_at": "2026-11-01T08:43:56Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1179,6 +1179,11 @@
     {
       "source_id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
       "target_id": "hf_CohereLabs_c4ai-command-r7b-12-2024",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
+      "target_id": "hf_dphn_Dolphin-Mistral-24B-Venice-Edition",
       "type": "derived_from"
     },
     {
@@ -2824,6 +2829,11 @@
     {
       "source_id": "model_ex0bit_qwen3_6_35b_a3b_prism_nvfp4",
       "target_id": "hf_Qwen_Qwen3.6-35B-A3B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_facebook_mobilellm_r1_360m",
+      "target_id": "hf_facebook_MobileLLM-R1-360M-base",
       "type": "derived_from"
     },
     {
@@ -8018,6 +8028,11 @@
     },
     {
       "source_id": "model_qwen_qwq_32b_awq",
+      "target_id": "hf_Qwen_QwQ-32B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_qwen_qwq_32b_gguf",
       "target_id": "hf_Qwen_QwQ-32B",
       "type": "derived_from"
     },
