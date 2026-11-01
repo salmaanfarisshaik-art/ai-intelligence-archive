@@ -408,6 +408,10 @@
 - **ID**: model_atomicchat_qwen3_8_flash_next_gguf
 - **Source**: 
 
+## AtomicChat/Qwen3.8-Flash-Next-Uncensored-GGUF
+- **ID**: model_atomicchat_qwen3_8_flash_next_uncensored_gguf
+- **Source**: 
+
 ## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
 - **ID**: model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf
 - **Source**: 
@@ -4096,6 +4100,10 @@
 - **ID**: model_myric_laguna_s_2_1_apex_gguf
 - **Source**: 
 
+## na0x2c6/Sage-A1.5-GGUF
+- **ID**: model_na0x2c6_sage_a1_5_gguf
+- **Source**: 
+
 ## Nanbeige/Nanbeige4.2-3B
 - **ID**: model_nanbeige_nanbeige4_2_3b
 - **Source**: 
@@ -4978,6 +4986,10 @@
 
 ## peasantsmith/GLM-5.3-Flash-Maya-GGUF
 - **ID**: model_peasantsmith_glm_5_3_flash_maya_gguf
+- **Source**: 
+
+## peasantsmith/GLM-5.3-Flash-Maya-M-Derisked-IQ2_S-GGUF
+- **ID**: model_peasantsmith_glm_5_3_flash_maya_m_derisked_iq2_s_gguf
 - **Source**: 
 
 ## peculiar-ragdoll/Sharp-Spark-X2.5-4B-GGUF
@@ -6262,6 +6274,10 @@
 
 ## SC117/Ornith-1.0-35B-MTP-APEX-GGUF
 - **ID**: model_sc117_ornith_1_0_35b_mtp_apex_gguf
+- **Source**: 
+
+## SC117/Spark-X2.6-4B-abliterated-FIT-GGUF
+- **ID**: model_sc117_spark_x2_6_4b_abliterated_fit_gguf
 - **Source**: 
 
 ## scottgl/MiniMax-M2.7-REAP-172B-A10B-NVFP4-GB10

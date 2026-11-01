@@ -485,6 +485,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_amidarliintoirog_copyright_videos_2023
+- **Source**: 
+
+## 
 - **ID**: dataset_amirveyseh_acronym_identification
 - **Source**: 
 
@@ -1234,6 +1238,10 @@
 
 ## 
 - **ID**: dataset_brownu_deform360
+- **Source**: 
+
+## 
+- **ID**: dataset_bshada_open_schematics
 - **Source**: 
 
 ## 
@@ -2670,6 +2678,10 @@
 
 ## 
 - **ID**: dataset_gililior_mmlu_prox_eval_predictions
+- **Source**: 
+
+## 
+- **ID**: dataset_gionuibk_aetheris_experiences
 - **Source**: 
 
 ## 
@@ -6473,6 +6485,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_mixed_modality_search_mixbench25
+- **Source**: 
+
+## 
 - **ID**: dataset_mjpansa_qwen38_eagle4_native_features_24m_20261026_f2638314
 - **Source**: 
 
@@ -7242,6 +7258,10 @@
 
 ## 
 - **ID**: dataset_omniaicreator_asmr_archive_processed
+- **Source**: 
+
+## 
+- **ID**: dataset_omniaicreator_royalroad_1_61m
 - **Source**: 
 
 ## 
@@ -8809,6 +8829,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_snupilab_humanoidtoolbench_teleop
+- **Source**: 
+
+## 
 - **ID**: dataset_society_ethics_stable_bias_generations
 - **Source**: 
 
@@ -8822,6 +8846,10 @@
 
 ## 
 - **ID**: dataset_sourlreapwr_robotarena_benchmark
+- **Source**: 
+
+## 
+- **ID**: dataset_spark_school_school_corpus
 - **Source**: 
 
 ## 
@@ -9769,6 +9797,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_wegrthj_e94fjt_v654_raw
+- **Source**: 
+
+## 
 - **ID**: dataset_wegrthj_kbcpjv_qi9l_data
 - **Source**: 
 
@@ -10270,6 +10302,10 @@
 
 ## 
 - **ID**: dataset_zhanghanxd_avamerg
+- **Source**: 
+
+## 
+- **ID**: dataset_zhangtao_whu_sam_tfrecords
 - **Source**: 
 
 ## 
