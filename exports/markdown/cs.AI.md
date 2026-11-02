@@ -75,6 +75,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.17214v2](http://arxiv.org/abs/2505.17214v2)
 
+## Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control
+- **ID**: arxiv_2506.08630v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.08630v4](http://arxiv.org/abs/2506.08630v4)
+
 ## How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
 - **ID**: arxiv_2508.01300v2
 - **Source**: ArXiv
@@ -3305,6 +3310,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.22086v1](http://arxiv.org/abs/2609.22086v1)
 
+## LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs
+- **ID**: arxiv_2609.23058v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.23058v2](http://arxiv.org/abs/2609.23058v2)
+
 ## Expansion Counts under Standard A* Tie-Breaking Strategies on the Final Plateau
 - **ID**: arxiv_2609.23293v1
 - **Source**: ArXiv
@@ -3985,6 +3995,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13948v1](http://arxiv.org/abs/2610.13948v1)
 
+## From Stages to States: Unified Iterative Reasoning for MLLMs
+- **ID**: arxiv_2610.15620v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.15620v2](http://arxiv.org/abs/2610.15620v2)
+
 ## Jeva: System One Models from First Principles
 - **ID**: arxiv_2610.18773v1
 - **Source**: ArXiv
@@ -4144,6 +4159,11 @@
 - **ID**: arxiv_2610.23826v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.23826v1](http://arxiv.org/abs/2610.23826v1)
+
+## Self-Building Labs
+- **ID**: arxiv_2610.23826v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.23826v2](http://arxiv.org/abs/2610.23826v2)
 
 ## AI-Driven Reproducibility and Analytical Robustness in Scientific Discovery
 - **ID**: arxiv_2610.23845v1
@@ -4375,6 +4395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30072v1](http://arxiv.org/abs/2610.30072v1)
 
+## Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors
+- **ID**: arxiv_2610.30582v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.30582v2](http://arxiv.org/abs/2610.30582v2)
+
 ## Jev-DLC: Decision-Level Continual Learning from Typed Feedback
 - **ID**: arxiv_2610.31521v1
 - **Source**: ArXiv
@@ -4545,6 +4570,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37655v1](http://arxiv.org/abs/2610.37655v1)
 
+## Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training
+- **ID**: arxiv_2610.38851v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.38851v2](http://arxiv.org/abs/2610.38851v2)
+
 ## Efficient Scalable Oversight via Rewinding
 - **ID**: arxiv_2610.40535v1
 - **Source**: ArXiv
@@ -4594,4 +4624,34 @@
 - **ID**: arxiv_2610.40589v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40589v1](http://arxiv.org/abs/2610.40589v1)
+
+## TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents
+- **ID**: arxiv_2610.42004v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42004v1](http://arxiv.org/abs/2610.42004v1)
+
+## Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice
+- **ID**: arxiv_2610.42039v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42039v1](http://arxiv.org/abs/2610.42039v1)
+
+## The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results
+- **ID**: arxiv_2610.42066v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42066v1](http://arxiv.org/abs/2610.42066v1)
+
+## CausalWAM: Learning the Causes of Actions in World Action Models
+- **ID**: arxiv_2610.42096v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42096v1](http://arxiv.org/abs/2610.42096v1)
+
+## ACCT: Asymmetric Cross-LLM Context Transfer
+- **ID**: arxiv_2610.42116v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42116v1](http://arxiv.org/abs/2610.42116v1)
+
+## Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention
+- **ID**: arxiv_2610.42147v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42147v1](http://arxiv.org/abs/2610.42147v1)
 

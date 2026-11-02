@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.42060v1",
+  "schema_version": "1.0",
+  "name": "PersonaChatBench: Evaluating Chat Assistants with Diverse Simulated Users",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.42060v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.42060v1",
+    "updated": "2026-10-30T17:23:14Z",
+    "published": "2026-10-30T17:23:14Z",
+    "title": "PersonaChatBench: Evaluating Chat Assistants with Diverse Simulated Users",
+    "summary": "Conversational assistants are expected to help people with diverse backgrounds, preferences, and communication styles. Yet evaluations centered on a single cooperative user provide limited insight into how reliably an assistant serves users with different personas. We introduce PersonaChatBench, a framework for evaluating task competence and responsiveness to diverse user needs. PersonaChatBench pairs the same underlying task with multiple simulated users, each guided by a private persona card that specifies distinct needs, preferences, and interaction behaviors. By holding the task fixed while varying the user, the framework examines how assistant performance changes across user conditions. We evaluate 20 language models across six domains, separately assessing native task outcomes, fulfillment of expressed persona needs, and simulator fidelity. Our results show that task performance and need fulfillment vary across personas and domains. Strong task performance does not necessarily translate into satisfying individual needs, and models' relative strengths in meeting those needs are not consistent across domains. PersonaChatBench makes these differences measurable, revealing gaps obscured by aggregate scores and helping identify which users an assistant serves well and where adaptation is needed. It provides a basis for evaluating consistency across users and guiding the development of assistants that better accommodate diverse needs in everyday applications.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:23:14Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.42060v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -35,3 +35,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.26051v1](http://arxiv.org/abs/2608.26051v1)
 
+## Near-Optimal Second-Order Convex Finite-Sum Optimization under Individual Smoothness
+- **ID**: arxiv_2610.42040v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42040v1](http://arxiv.org/abs/2610.42040v1)
+

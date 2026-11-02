@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.09351v2",
+  "schema_version": "1.0",
+  "name": "Imputation of Public Opinion Data with Large Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.09351v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.09351v2",
+    "updated": "2026-10-30T16:50:36Z",
+    "published": "2026-06-08T11:25:10Z",
+    "title": "Imputation of Public Opinion Data with Large Language Models",
+    "summary": "Large language models (LLMs) are widely evaluated as simulators of survey responses, yet applied survey research mostly faces item nonresponse. Imputation fills in those missing values to restore the overall structure of a partially observed dataset and has its own well-defined evaluation criteria, which differ fundamentally from prediction accuracy. We present the first evaluation of LLM imputation against proper multiple-imputation metrics and statistical baselines on more than 5 million imputed responses from four public opinion surveys under various missingness mechanisms. We evaluate in-context learning (ICL) for this task by investigating 84 ICL configurations and comparing the best-performing configurations on six open-weight LLMs. The strongest ICL approach improves on zero-shot persona prompting but remains, at best, competitive with statistical baselines (MICE PMM, TabPFN). ICL approaches are sensitive to survey topics and consume 2-3 orders of magnitude more compute. Moreover, prediction metrics commonly used in LLM survey simulation (macro-F1, TVD) do not reliably track imputation quality. Our findings highlight the importance of fit-for-purpose evaluation for LLM imputation, where established multiple imputation remains the better default.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T16:50:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.09351v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

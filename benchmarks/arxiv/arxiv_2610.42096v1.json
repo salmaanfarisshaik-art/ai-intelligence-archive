@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.42096v1",
+  "schema_version": "1.0",
+  "name": "CausalWAM: Learning the Causes of Actions in World Action Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.42096v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.42096v1",
+    "updated": "2026-10-30T17:40:00Z",
+    "published": "2026-10-30T17:40:00Z",
+    "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+    "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, whereas only a portion of the scene causes actions. WAMs fitted to demonstrations do not, in general, guarantee that they will generate actions solely from the latent causes of the demonstrated actions (the action-relevant latent variables), as the model could just as well learn to imitate in this way whilst entangling the action-relevant latent variables with the nuisance variables. We therefore separate out what causes action from what prediction depends on. We prove that under a sparsity constraint the latent variables used to generate actions are an invertible function of the action-relevant latent variables alone and the true structure is identified up to a permutation of the latent variables. This requires neither sufficient temporal dependence nor any assumptions on how the unobserved regimes evolve and holds even when the action-relevant latent variables are statistically dependent on the rest. We therefore propose CWAM (Causal WAM), which incorporates the constraint into a pretrained WAM by adding a sparse routing path to its action head, with the world modeling objective remaining unchanged. Experiments on both synthetic data and real-world robots validate the theory as well as showcase the improved efficiency in closed-loop success.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:40:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.42096v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

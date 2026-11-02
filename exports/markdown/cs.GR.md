@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.08704v1](http://arxiv.org/abs/2610.08704v1)
 
+## SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid
+- **ID**: arxiv_2610.42145v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42145v1](http://arxiv.org/abs/2610.42145v1)
+

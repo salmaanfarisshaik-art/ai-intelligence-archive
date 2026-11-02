@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.42010v1",
+  "schema_version": "1.0",
+  "name": "TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.42010v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.42010v1",
+    "updated": "2026-10-30T16:48:32Z",
+    "published": "2026-10-30T16:48:32Z",
+    "title": "TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish",
+    "summary": "This paper presents TurnTurk-GPT, a text-based turn-taking predictor for Turkish obtained by fine-tuning a Turkish GPT-2 model with the TurnGPT objective on synthetic and real dialogue, and evaluates it on real Turkish conversation against rule baselines, a zero-shot Turkish language model and a widely used multilingual end-of-turn detector. Evaluation uses word-level decision points on unpunctuated, lower-cased text approximating the output of streaming speech recognisers, recording-disjoint and speaker-disjoint folds, nested threshold selection and paired cluster bootstrap tests. TurnTurk-GPT outperforms the multilingual detector under both recording-disjoint and speaker-disjoint evaluation. It outperforms the zero-shot language model only when the test speakers occur in training; on unseen speakers the two are statistically indistinguishable. Removing the suffixes of the turn-final word reduces AP by up to 44%, against 2% for a sentence-internal word, locating the Turkish end-of-turn cue in verb-final morphology. Synthetic dialogue alone yields the weakest trained model, and when a speaker pauses the zero-shot and multilingual baselines remain close to chance. The model and the evaluation protocol are publicly released.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T16:48:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.42010v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

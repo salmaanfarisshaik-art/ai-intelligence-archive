@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.19422v2](http://arxiv.org/abs/2511.19422v2)
 
+## Instruction-Tuning Open-Weight Language Models for BPMN Model Generation
+- **ID**: arxiv_2512.12063v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2512.12063v2](http://arxiv.org/abs/2512.12063v2)
+
 ## ASA: Backbone-Training-Free Representation Engineering for Tool-Calling Agents
 - **ID**: arxiv_2602.04935v4
 - **Source**: ArXiv

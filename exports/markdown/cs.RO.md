@@ -1150,3 +1150,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40632v1](http://arxiv.org/abs/2610.40632v1)
 
+## REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control
+- **ID**: arxiv_2610.42053v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42053v1](http://arxiv.org/abs/2610.42053v1)
+
+## RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory
+- **ID**: arxiv_2610.42141v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42141v1](http://arxiv.org/abs/2610.42141v1)
+
+## Hierarchical World Models with Implicit Dynamics
+- **ID**: arxiv_2610.42146v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42146v1](http://arxiv.org/abs/2610.42146v1)
+

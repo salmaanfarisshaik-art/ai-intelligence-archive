@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.17117v2",
+  "schema_version": "1.0",
+  "name": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.17117v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.17117v2",
+    "updated": "2026-10-30T17:27:35Z",
+    "published": "2026-10-12T17:10:02Z",
+    "title": "Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations",
+    "summary": "Prior research into interpretability does not test whether a representation stays consistent under paraphrasing. Each pair of paraphrases can be thought of as a local witness that two activations should be the same. From these local witnesses we can build a cellular sheaf on the paraphrase graph. The question of what is consistent under paraphrasing can be answered by the Laplacian $L_\\mathcal{F}$ given a frozen model. No training required. Our kernel $H^0$ gives us a content subspace. We show that with only 20 dims the kernel outperforms the subspace that LEACE retains with all dims on held-out CounterFact fact retrieval by $+17.1$\\,pp on average across 8 models. By constraining all paraphrases of a fact together we see an additional increase of $+6.5$\\,pp. Our spectral complement shows us where the causal influence is concentrated. Ablating the coordinates that vary the most when paraphrased (which approximates ablating the spectral complement at the coordinate level) leads to $5.6$ to $26.5\\times$ larger changes in model outputs compared to ablating coordinates with matched per-coordinate variability. We find this across 9 models from 124M to 13B params. By stacking layers we can create a grid which has $b_1 = N(L-1)$ algebraic 1-cycles. The harmonic mass derived from the model varies by nearly 3 orders of magnitude between the 6 architectures. It also tracks the order of steering fragility (Spearman's $ρ= 0.90$, exact one-sided permutation $p = 0.014$). The kernel, its spectral complement and the harmonic mass all come from the same paraphrase graph. Project page: https://cwru-aism.github.io/gluing-lc-page/.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:27:35Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.17117v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

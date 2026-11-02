@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.15620v2",
+  "schema_version": "1.0",
+  "name": "From Stages to States: Unified Iterative Reasoning for MLLMs",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.15620v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.15620v2",
+    "updated": "2026-10-30T17:40:17Z",
+    "published": "2026-10-11T13:46:43Z",
+    "title": "From Stages to States: Unified Iterative Reasoning for MLLMs",
+    "summary": "Multimodal Chain-of-Thought (MCoT) substantially enhances the complex reasoning capabilities of Multimodal Large Language Models (MLLMs) by explicitly modeling intermediate reasoning processes. However, most learning-based MCoT methods follow a stage-centric paradigm, where different reasoning behaviors are assigned to predefined stages and optimized separately. This results in fragmented reasoning and a training-inference reasoning-state gap. To address these limitations, we propose ReState, a unified iterative reasoning framework that reformulates multimodal reasoning from a stage-driven pipeline into a state-driven dynamic process. It comprises two complementary components: Unified Reasoning State Modeling (URSM) and Closed-Loop Reasoning-State Learning (CRSL). URSM unifies reasoning construction, correct reasoning preservation, and erroneous reasoning correction as reasoning-state transitions within a shared state space, enabling these heterogeneous reasoning behaviors to be learned jointly. CRSL further incorporates self-generated historical reasoning states during training and recursively updates the current state during inference, thereby mitigating the reasoning-state gap and enabling iterative self-refinement without requiring an additional reflection module, critic, or independent correction stage. Furthermore, we construct VersaCoT-10K, a high-quality CoT dataset spanning eight visual reasoning domains, which provides diverse supervision for multi-domain reasoning and reasoning-state refinement. Extensive experiments demonstrate that ReState exhibits strong adaptability across different MLLM backbones and achieves strong performance on multiple public reasoning benchmarks, supporting the shift from stage-centric reasoning toward state-centric reasoning. Our data and code are available at https://restate-project.github.io",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:40:17Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.15620v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

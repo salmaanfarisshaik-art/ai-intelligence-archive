@@ -165,6 +165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.23043v2](http://arxiv.org/abs/2505.23043v2)
 
+## VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL
+- **ID**: arxiv_2505.23977v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.23977v2](http://arxiv.org/abs/2505.23977v2)
+
 ## ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding
 - **ID**: arxiv_2506.01274v2
 - **Source**: ArXiv
@@ -694,6 +699,11 @@
 - **ID**: arxiv_2603.01433v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.01433v3](http://arxiv.org/abs/2603.01433v3)
+
+## SUREON: A Benchmark and Vision-Language Model for Surgical Reasoning
+- **ID**: arxiv_2603.06570v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.06570v2](http://arxiv.org/abs/2603.06570v2)
 
 ## A Systematic Comparison of Training Objectives for Out-of-Distribution Detection in Image Classification
 - **ID**: arxiv_2603.07571v3
@@ -7344,4 +7354,44 @@
 - **ID**: arxiv_2610.40647v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40647v1](http://arxiv.org/abs/2610.40647v1)
+
+## Any Forcing: Any-Step Generality and One-Step Stability for Autoregressive Video Generation
+- **ID**: arxiv_2610.42031v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42031v1](http://arxiv.org/abs/2610.42031v1)
+
+## Learning Clean Generative Processes from Noisy Measurements
+- **ID**: arxiv_2610.42036v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42036v1](http://arxiv.org/abs/2610.42036v1)
+
+## Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning
+- **ID**: arxiv_2610.42082v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42082v1](http://arxiv.org/abs/2610.42082v1)
+
+## Rethinking Asymmetry in Self-Supervised 3D Geometry Learning
+- **ID**: arxiv_2610.42092v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42092v1](http://arxiv.org/abs/2610.42092v1)
+
+## A Better Critic Matters for Distribution Matching Distillation
+- **ID**: arxiv_2610.42135v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42135v1](http://arxiv.org/abs/2610.42135v1)
+
+## ReLift: Dense 3D Tracking as Lifted Trajectory Repair
+- **ID**: arxiv_2610.42136v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42136v1](http://arxiv.org/abs/2610.42136v1)
+
+## Latent Reasoning in Continuous Space for Unified Multimodal Models
+- **ID**: arxiv_2610.42149v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42149v1](http://arxiv.org/abs/2610.42149v1)
+
+## GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning
+- **ID**: arxiv_2610.42152v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42152v1](http://arxiv.org/abs/2610.42152v1)
 

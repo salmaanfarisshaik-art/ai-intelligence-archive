@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2505.23977v2",
+  "schema_version": "1.0",
+  "name": "VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2505.23977v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2505.23977v2",
+    "updated": "2026-10-30T17:01:52Z",
+    "published": "2025-05-29T20:08:36Z",
+    "title": "VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL",
+    "summary": "Vision language models (VLMs) are expected to perform effective multimodal reasoning and make logically coherent decisions, which is critical to tasks such as diagram understanding and spatial problem solving. However, current VLM reasoning lacks large-scale and well-structured training datasets. To bridge this gap, we propose VisualSphinx, a first-of-its-kind large-scale synthetic visual logical reasoning training dataset. To tackle the challenge of image synthesis with grounded answers, we propose a rule-to-image synthesis pipeline that extracts and expands puzzle rules from seed questions and generates executable rendering programs for puzzle assembly. Using standard GRPO with binary correctness rewards as a validation recipe, experiments show that VLMs trained on VisualSphinx benefit from the logical coherence and readability of our dataset and exhibit improved performance on logical reasoning tasks. The enhanced reasoning capabilities developed from VisualSphinx also benefit other reasoning tasks such as algebraic reasoning, arithmetic reasoning and geometry reasoning.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:01:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2505.23977v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

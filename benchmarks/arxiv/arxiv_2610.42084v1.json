@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.42084v1",
+  "schema_version": "1.0",
+  "name": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.42084v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.42084v1",
+    "updated": "2026-10-30T17:35:48Z",
+    "published": "2026-10-30T17:35:48Z",
+    "title": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+    "summary": "Continuous diffusion language models show promising potential in text generation tasks, but are prone to problems such as text repetition, semantic drift, and generation quality degradation when the generation length exceeds the training length. To address these challenges, we propose RangeSWA, a training-free length extrapolation method. The method combines local sliding-window attention, remote block summaries, and dynamic content retrieval to preserve local details and support long-range context access. In addition, generation degradation caused by length extrapolation is mitigated through positional remapping, conditioning attention correction, and denoising-stage-adaptive window scheduling. We conducted experiments on multiple continuous diffusion language models, and the results show that RangeSWA can effectively reduce generative perplexity and text repetition rates in long-text generation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:35:48Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.42084v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

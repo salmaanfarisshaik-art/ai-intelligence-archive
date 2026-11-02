@@ -930,6 +930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.07515v2](http://arxiv.org/abs/2606.07515v2)
 
+## Imputation of Public Opinion Data with Large Language Models
+- **ID**: arxiv_2606.09351v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.09351v2](http://arxiv.org/abs/2606.09351v2)
+
 ## Detecting Differences Is Not Understanding Structure: Large Language Models Fail at Graph Isomorphism
 - **ID**: arxiv_2606.09484v2
 - **Source**: ArXiv
@@ -2980,6 +2985,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.05405v1](http://arxiv.org/abs/2609.05405v1)
 
+## TamilEOT: A Dataset and Model for Semantic End-of-Turn Detection in Tamil Telephone Speech
+- **ID**: arxiv_2609.05631v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.05631v2](http://arxiv.org/abs/2609.05631v2)
+
 ## Where Should Language Sit in a Multimodal Model? Lessons from What Language Does to Human Perception and Cognition
 - **ID**: arxiv_2609.07474v3
 - **Source**: ArXiv
@@ -4050,6 +4060,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.10533v1](http://arxiv.org/abs/2610.10533v1)
 
+## Thinking Inertia: LLMs Keep Thinking When Told Not To
+- **ID**: arxiv_2610.11765v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.11765v2](http://arxiv.org/abs/2610.11765v2)
+
 ## Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution
 - **ID**: arxiv_2610.12367v1
 - **Source**: ArXiv
@@ -4129,6 +4144,11 @@
 - **ID**: arxiv_2610.14531v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14531v2](http://arxiv.org/abs/2610.14531v2)
+
+## Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations
+- **ID**: arxiv_2610.17117v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17117v2](http://arxiv.org/abs/2610.17117v2)
 
 ## Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges
 - **ID**: arxiv_2610.18766v1
@@ -4725,6 +4745,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37642v1](http://arxiv.org/abs/2610.37642v1)
 
+## Metacognitive Decoding: Efficient Inference for Diffusion Language Agents
+- **ID**: arxiv_2610.37642v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37642v2](http://arxiv.org/abs/2610.37642v2)
+
 ## Multi-State Linear Attention with Generalized Second-Order Routing
 - **ID**: arxiv_2610.37645v1
 - **Source**: ArXiv
@@ -4739,6 +4764,21 @@
 - **ID**: arxiv_2610.37651v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37651v1](http://arxiv.org/abs/2610.37651v1)
+
+## DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers
+- **ID**: arxiv_2610.37826v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37826v2](http://arxiv.org/abs/2610.37826v2)
+
+## Tracing the Influence of Retrieved Literature on Scientific Ideation in LLMs
+- **ID**: arxiv_2610.39060v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.39060v2](http://arxiv.org/abs/2610.39060v2)
+
+## Robustness of Chatbot LLM Judgments of Presidential Actions and Hypothetical Reforms
+- **ID**: arxiv_2610.39398v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.39398v2](http://arxiv.org/abs/2610.39398v2)
 
 ## A Low-Rank Space Captures Linear Alignment Between LLM and Human Neural Activity During Naturalistic Language Listening
 - **ID**: arxiv_2610.40511v1
@@ -4794,4 +4834,44 @@
 - **ID**: arxiv_2610.40655v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40655v1](http://arxiv.org/abs/2610.40655v1)
+
+## TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish
+- **ID**: arxiv_2610.42010v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42010v1](http://arxiv.org/abs/2610.42010v1)
+
+## Asynchronous Flow Map Language Models
+- **ID**: arxiv_2610.42018v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42018v1](http://arxiv.org/abs/2610.42018v1)
+
+## CRoS: Causality Reward on Scrambled CoTs Improves Accuracy and Reasoning Faithfulness
+- **ID**: arxiv_2610.42054v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42054v1](http://arxiv.org/abs/2610.42054v1)
+
+## PersonaChatBench: Evaluating Chat Assistants with Diverse Simulated Users
+- **ID**: arxiv_2610.42060v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42060v1](http://arxiv.org/abs/2610.42060v1)
+
+## RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models
+- **ID**: arxiv_2610.42084v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42084v1](http://arxiv.org/abs/2610.42084v1)
+
+## Subquadratic Attention with a Hierarchical Tree-Structured Indexer
+- **ID**: arxiv_2610.42112v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42112v1](http://arxiv.org/abs/2610.42112v1)
+
+## DecisionRank: On-Policy Distillation for Decision-Model Rerankers
+- **ID**: arxiv_2610.42128v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42128v1](http://arxiv.org/abs/2610.42128v1)
+
+## Flide: Accelerating Decision Inference with Exact State Forking
+- **ID**: arxiv_2610.42148v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42148v1](http://arxiv.org/abs/2610.42148v1)
 

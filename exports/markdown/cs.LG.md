@@ -85,6 +85,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2505.18934v2](http://arxiv.org/abs/2505.18934v2)
 
+## Fully Offline Reinforcement Learning
+- **ID**: arxiv_2505.22442v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2505.22442v4](http://arxiv.org/abs/2505.22442v4)
+
 ## Rethinking Generalization in Knowledge Graph Embedding: An Empirical Study and Sparse Peak Regularization
 - **ID**: arxiv_2505.23442v2
 - **Source**: ArXiv
@@ -274,6 +279,11 @@
 - **ID**: arxiv_2602.14868v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.14868v3](http://arxiv.org/abs/2602.14868v3)
+
+## Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects
+- **ID**: arxiv_2602.16503v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.16503v2](http://arxiv.org/abs/2602.16503v2)
 
 ## Capabilities Ain't All You Need: Measuring Propensities in AI
 - **ID**: arxiv_2602.18182v5
@@ -989,6 +999,11 @@
 - **ID**: arxiv_2607.21535v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21535v1](http://arxiv.org/abs/2607.21535v1)
+
+## Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context
+- **ID**: arxiv_2607.21535v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21535v2](http://arxiv.org/abs/2607.21535v2)
 
 ## Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity
 - **ID**: arxiv_2607.21573v1
@@ -2654,4 +2669,14 @@
 - **ID**: arxiv_2610.40649v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40649v1](http://arxiv.org/abs/2610.40649v1)
+
+## Know When the Equation Is Wrong: Structural Uncertainty for LLM-Guided Symbolic Regression under Extrapolation
+- **ID**: arxiv_2610.42024v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42024v1](http://arxiv.org/abs/2610.42024v1)
+
+## There Is No Free Loop: When Does Looping a Trained Model Pay for Its Inference Compute?
+- **ID**: arxiv_2610.42030v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42030v1](http://arxiv.org/abs/2610.42030v1)
 

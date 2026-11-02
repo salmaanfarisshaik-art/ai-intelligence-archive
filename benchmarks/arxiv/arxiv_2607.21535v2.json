@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21535v2",
+  "schema_version": "1.0",
+  "name": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21535v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21535v2",
+    "updated": "2026-10-30T17:48:26Z",
+    "published": "2026-07-23T17:21:44Z",
+    "title": "Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context",
+    "summary": "Speculative decoding accelerates autoregressive generation by having a draft propose tokens that a target verifies in parallel. Frontier models increasingly ship a built-in Multi-Token-Prediction (MTP) draft head, assumed to be cheap beside verification. A shipped full-attention MTP head can become disproportionately expensive beside a hybrid target at long context. The head attends over the full KV cache for each of $γ$ draft forwards per decode step, while only 9-25% of target layers retain full attention, so a single draft layer can issue context reads at a rate comparable to the whole target. On hard, low-acceptance workloads, deep native MTP becomes net-negative: slower than no speculation.\n  We apply a StreamingLLM-style window plus attention sink to the draft only (Windowed-MTP); target verification remains full-context, so the target distribution is preserved. The intervention is training-free and drop-in. On three models from two hybrid families (Gated DeltaNet and Mamba2) at 1M context on one GPU in SGLang, it provides an acceptance-free 1.28-1.44x per-decode-step speedup over native MTP. The speedup grows with context; at matched acceptance, TPOT improves by the same factor. The window removes most of the draft's working set, and a compact ring buffer converts that reduction into physical capacity: it reclaims the otherwise dead draft pool, a measured 7.7-11.1% of total KV at 1M, making room for one additional concurrent 1M request in the Qwen-35B batch sweep.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:48:26Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21535v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

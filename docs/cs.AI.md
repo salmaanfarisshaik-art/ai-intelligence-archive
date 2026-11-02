@@ -112,6 +112,7 @@
 | [ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment](http://arxiv.org/abs/2608.05102v1) | ArXiv |  | 1 |
 | [Abstracting Cross-Domain Action Sequences into Interpretable Workflows](http://arxiv.org/abs/2606.14654v1) | ArXiv |  | 1 |
 | [Academic League of Artificial Intelligence - An Integrative Perspective of Teaching, Research, and Extension](http://arxiv.org/abs/2608.13447v1) | ArXiv |  | 1 |
+| [ACCT: Asymmetric Cross-LLM Context Transfer](http://arxiv.org/abs/2610.42116v1) | ArXiv |  | 1 |
 | [Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism](http://arxiv.org/abs/2603.18712v3) | ArXiv |  | 1 |
 | [ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models](http://arxiv.org/abs/2610.27913v1) | ArXiv |  | 1 |
 | [AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction](http://arxiv.org/abs/2608.28491v1) | ArXiv |  | 1 |
@@ -234,6 +235,7 @@
 | [Can We Trust Item Response Theory for AI Evaluation?](http://arxiv.org/abs/2607.15190v1) | ArXiv |  | 1 |
 | [Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning](http://arxiv.org/abs/2608.20271v1) | ArXiv |  | 1 |
 | [Categorical Internalisation of Environmental Groupoids for Generalisable POMDP Solving](http://arxiv.org/abs/2609.27745v1) | ArXiv |  | 1 |
+| [CausalWAM: Learning the Causes of Actions in World Action Models](http://arxiv.org/abs/2610.42096v1) | ArXiv |  | 1 |
 | [CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems](http://arxiv.org/abs/2608.09848v1) | ArXiv |  | 1 |
 | [Center-of-Mass Interpretation of Evolution Strategies](http://arxiv.org/abs/2610.35865v1) | ArXiv |  | 1 |
 | [Chain-of-Thought Reasoning In The Wild Is Not Always Faithful](http://arxiv.org/abs/2503.08679v6) | ArXiv |  | 1 |
@@ -403,6 +405,7 @@
 | [From Proposal to Execution: Modeling Interaction Semantics in Shared Autonomy](http://arxiv.org/abs/2610.25496v2) | ArXiv |  | 1 |
 | [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](http://arxiv.org/abs/2603.13359v2) | ArXiv |  | 1 |
 | [From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry](http://arxiv.org/abs/2608.21317v1) | ArXiv |  | 1 |
+| [From Stages to States: Unified Iterative Reasoning for MLLMs](http://arxiv.org/abs/2610.15620v2) | ArXiv |  | 1 |
 | [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI](http://arxiv.org/abs/2610.09146v2) | ArXiv |  | 1 |
 | [Full-bandwidth transformer](http://arxiv.org/abs/2608.08888v2) | ArXiv |  | 1 |
@@ -491,6 +494,8 @@
 | [Large Language Model for Operations Research Formulation Selection in Multi-Warehouse Inventory Allocation](http://arxiv.org/abs/2607.25956v1) | ArXiv |  | 1 |
 | [Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis](http://arxiv.org/abs/2609.02805v1) | ArXiv |  | 1 |
 | [Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness](http://arxiv.org/abs/2609.05314v1) | ArXiv |  | 1 |
+| [Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention](http://arxiv.org/abs/2610.42147v1) | ArXiv |  | 1 |
+| [LazyAgent: Demand-Driven Materialization and Physical Optimization of Agentic Programs](http://arxiv.org/abs/2609.23058v2) | ArXiv |  | 1 |
 | [Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](http://arxiv.org/abs/2609.23378v1) | ArXiv |  | 1 |
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning a Fact Is Not Learning How to Retrieve It](http://arxiv.org/abs/2610.03251v1) | ArXiv |  | 1 |
@@ -502,6 +507,7 @@
 | [Learning to Assess Heartbeat Observability for mmWave Heart-Rate Sensing](http://arxiv.org/abs/2610.03570v1) | ArXiv |  | 1 |
 | [Learning to Focus: CSI-Free Hierarchical MARL for Reconfigurable Reflectors](http://arxiv.org/abs/2604.05165v3) | ArXiv |  | 1 |
 | [Learning to Make Friends: Coaching LLM Agents toward Emergent Social Ties](http://arxiv.org/abs/2510.19299v2) | ArXiv |  | 1 |
+| [Learning to Reason from Reference Samples Alone: Reinforced Adversarial Learning for Modern LLM Post-Training](http://arxiv.org/abs/2610.38851v2) | ArXiv |  | 1 |
 | [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
@@ -551,6 +557,7 @@
 | [MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records](http://arxiv.org/abs/2610.27911v1) | ArXiv |  | 1 |
 | [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v3) | ArXiv |  | 1 |
 | [MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization](http://arxiv.org/abs/2605.19330v2) | ArXiv |  | 1 |
+| [Model Organisms of Collusion: Corrective Transfer in Untrusted Monitors](http://arxiv.org/abs/2610.30582v2) | ArXiv |  | 1 |
 | [Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models](http://arxiv.org/abs/2609.05381v1) | ArXiv |  | 1 |
 | [MORPH: Generative Retrieval via Diffusion Transformer with Metric-Ordered Sequence Training and Hybrid-Policy Preference Optimization](http://arxiv.org/abs/2606.26899v2) | ArXiv |  | 1 |
 | [Moxia: A Trust-First Neuro-Symbolic Execution Architecture for Self-Explaining Mathematical Reasoning](http://arxiv.org/abs/2606.00671v3) | ArXiv |  | 1 |
@@ -709,6 +716,7 @@
 | [Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition](http://arxiv.org/abs/2610.28578v1) | ArXiv |  | 1 |
 | [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](http://arxiv.org/abs/2609.30192v1) | ArXiv |  | 1 |
 | [Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation](http://arxiv.org/abs/2607.21518v1) | ArXiv |  | 1 |
+| [Same Question, Different Answers: Auditing Persona-Dependent Variation in Six LLMs on Smoking-Cessation Advice](http://arxiv.org/abs/2610.42039v1) | ArXiv |  | 1 |
 | [Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy](http://arxiv.org/abs/2610.26836v1) | ArXiv |  | 1 |
 | [Sample-Conditioned Representation Selection for Audio Few-Shot Learning](http://arxiv.org/abs/2609.17076v1) | ArXiv |  | 1 |
 | [SAPD: Learning from Agent Experience without Environment Interaction](http://arxiv.org/abs/2610.27847v1) | ArXiv |  | 1 |
@@ -731,6 +739,7 @@
 | [Selective Agent Guidance via Entropy: Learning Autonomous Policies from Imperfect VLM Teachers](http://arxiv.org/abs/2609.01567v1) | ArXiv |  | 1 |
 | [Selective Credibility-Limited Belief Update](http://arxiv.org/abs/2607.28523v1) | ArXiv |  | 1 |
 | [Self-Building Labs](http://arxiv.org/abs/2610.23826v1) | ArXiv |  | 1 |
+| [Self-Building Labs](http://arxiv.org/abs/2610.23826v2) | ArXiv |  | 1 |
 | [Self-Correction Can Amplify Hallucinations: Fact-Level Repair with Graph-Based Evidence Routing in Multimodal Generation](http://arxiv.org/abs/2606.00232v2) | ArXiv |  | 1 |
 | [Self-Evolving Agent Harness](http://arxiv.org/abs/2610.18813v1) | ArXiv |  | 1 |
 | [Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation](http://arxiv.org/abs/2607.15202v1) | ArXiv |  | 1 |
@@ -739,6 +748,7 @@
 | [Semi-Supervised Learning-Based Genetic Biomarkers Dataset for Multiple-Stage Hepatocellular Carcinoma Prediction](http://arxiv.org/abs/2609.17100v1) | ArXiv |  | 1 |
 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](http://arxiv.org/abs/2607.19253v1) | ArXiv |  | 1 |
 | [SGA: Plug&Play Geometric Verification for Educational Video Synthesis](http://arxiv.org/abs/2607.18116v1) | ArXiv |  | 1 |
+| [Shared Modular Recurrence in Contextual MDPs for Universal Morphology Control](http://arxiv.org/abs/2506.08630v4) | ArXiv |  | 1 |
 | [Shared Selective Persistent Memory for Agentic LLM Systems](http://arxiv.org/abs/2607.09493v2) | ArXiv |  | 1 |
 | [Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs](http://arxiv.org/abs/2609.17109v1) | ArXiv |  | 1 |
 | [SHE: Trajectory-driven Safety Harness Evolution for LLM Agents](http://arxiv.org/abs/2608.09885v1) | ArXiv |  | 1 |
@@ -809,6 +819,7 @@
 | [The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](http://arxiv.org/abs/2607.08734v2) | ArXiv |  | 1 |
 | [The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images](http://arxiv.org/abs/2608.06270v1) | ArXiv |  | 1 |
 | [The inherent goodness of well educated intelligence](http://arxiv.org/abs/2401.04846v12) | ArXiv |  | 1 |
+| [The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results](http://arxiv.org/abs/2610.42066v1) | ArXiv |  | 1 |
 | [The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping](http://arxiv.org/abs/2608.06361v1) | ArXiv |  | 1 |
 | [The Natural Language Interaction Protocol and Standard for AI Agents](http://arxiv.org/abs/2609.04135v1) | ArXiv |  | 1 |
 | [The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents](http://arxiv.org/abs/2610.24873v1) | ArXiv |  | 1 |
@@ -850,6 +861,7 @@
 | [TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI](http://arxiv.org/abs/2607.22465v1) | ArXiv |  | 1 |
 | [TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI](http://arxiv.org/abs/2607.22465v2) | ArXiv |  | 1 |
 | [Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering](http://arxiv.org/abs/2608.06366v1) | ArXiv |  | 1 |
+| [TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents](http://arxiv.org/abs/2610.42004v1) | ArXiv |  | 1 |
 | [Train An Imaginative Agent](http://arxiv.org/abs/2610.26845v1) | ArXiv |  | 1 |
 | [Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations](http://arxiv.org/abs/2607.20379v1) | ArXiv |  | 1 |
 | [Training Communication-Efficient Mixture-of-Experts Language Models with Layer Re-Configuration](http://arxiv.org/abs/2608.28511v1) | ArXiv |  | 1 |

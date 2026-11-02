@@ -10,6 +10,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2503.05916v2](http://arxiv.org/abs/2503.05916v2)
 
+## Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework
+- **ID**: arxiv_2503.13309v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2503.13309v3](http://arxiv.org/abs/2503.13309v3)
+
 ## crossMoDA Challenge: Evolution of Cross-Modality Domain Adaptation Techniques for Vestibular Schwannoma and Cochlea Segmentation from 2021 to 2023
 - **ID**: arxiv_2506.12006v4
 - **Source**: ArXiv

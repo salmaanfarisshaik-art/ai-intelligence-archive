@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2602.16503v2",
+  "schema_version": "1.0",
+  "name": "Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.16503v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.16503v2",
+    "updated": "2026-10-30T17:53:59Z",
+    "published": "2026-02-18T14:45:33Z",
+    "title": "Interpretability-by-Design with Accurate Locally Additive Models and Conditional Feature Effects",
+    "summary": "Generalized additive models (GAMs) offer high interpretability through independent univariate feature effects but underfit when interactions are present in data. GA$^2$Ms add selected pairwise interactions which improves accuracy, but sacrifices interpretability. We propose Conditionally Additive Local Models (CALMs), a new model class that narrows this trade-off: it stays close to GAMs in interpretability and close to GA$^2$Ms in accuracy. CALMs allow multiple univariate shape functions per feature, each active in different regions of the input space. These regions are defined independently for each feature as simple logical conditions (thresholds) on the features it interacts with. As a result, effects remain locally additive while varying across subregions to capture interactions. We further propose a principled distillation-based training pipeline that identifies homogeneous regions with limited interactions and fits interpretable shape functions via region-aware backfitting. Experiments on diverse classification and regression tasks show that CALMs consistently outperform GAMs and achieve accuracy broadly comparable to GA$^2$Ms, while preserving the univariate auditability that GA$^2$Ms forfeit.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-02T07:13:42Z",
+  "last_updated": "2026-10-30T17:53:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2602.16503v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
