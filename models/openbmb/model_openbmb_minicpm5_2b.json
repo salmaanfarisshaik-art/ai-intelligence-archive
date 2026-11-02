@@ -3,7 +3,7 @@
   "id": "openbmb/MiniCPM5-2B",
   "likes": 1832,
   "private": false,
-  "downloads": 1083600,
+  "downloads": 1067287,
   "tags": [
     "transformers",
     "safetensors",
@@ -29,10 +29,11 @@
     "arxiv:2506.07900",
     "arxiv:2602.09003",
     "license:apache-2.0",
+    "eval-results",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us",
-    "deploy:sagemaker"
+    "deploy:sagemaker",
+    "region:us"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

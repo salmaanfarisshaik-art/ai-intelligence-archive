@@ -1,0 +1,32 @@
+{
+  "_id": "69e43ae2a21023d6098f61d1",
+  "id": "DnaRnaProteins/ctc-cell-cycle-hela",
+  "author": "DnaRnaProteins",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-05-06T08:18:30.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d87ad23cbdcb0aa1ae4caefa0ab53a6e108c3ab1",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCTC Cell Cycle Dataset\n\t\n\nCell Tracking Challenge (CTC) live-cell microscopy with derived cell cycle state\nlabels for 3-class temporal classification.\n\n\t\n\t\t\n\t\n\t\n\t\tWhat's actually hosted\n\t\n\nThe repo name says hela for historical reasons. Currently hosted: Fluo-N2DH-GOWT1\n(GFP-tagged Oct4 in mouse embryonic stem cells), which is what the milestone baseline\ntrained on. HeLa data may be added later under a hela/ prefix.\n\n\t\n\t\t\nSequence\nFrames\nUsed as\n\n\n\t\t\n01/\n92\ntraining\n\n\n02/\n92… See the full description on the dataset page: https://huggingface.co/datasets/DnaRnaProteins/ctc-cell-cycle-hela.",
+  "downloads": 32746,
+  "tags": [
+    "task_categories:video-classification",
+    "license:cc-by-4.0",
+    "size_categories:n<1K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "region:us",
+    "cell-cycle",
+    "microscopy",
+    "ctc",
+    "live-cell-imaging",
+    "fluorescence"
+  ],
+  "createdAt": "2026-04-19T02:16:02.000Z",
+  "key": "",
+  "unique_id": "dataset_dnarnaproteins_ctc_cell_cycle_hela",
+  "schema_version": "1.0"
+}

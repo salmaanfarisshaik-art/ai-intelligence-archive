@@ -3,7 +3,7 @@
   "id": "HuggingFaceTB/SmolLM3-3B",
   "likes": 1072,
   "private": false,
-  "downloads": 611561,
+  "downloads": 587268,
   "tags": [
     "transformers",
     "safetensors",
@@ -21,6 +21,7 @@
     "base_model:HuggingFaceTB/SmolLM3-3B-Base",
     "base_model:finetune:HuggingFaceTB/SmolLM3-3B-Base",
     "license:apache-2.0",
+    "eval-results",
     "endpoints_compatible",
     "deploy:azure",
     "region:us"

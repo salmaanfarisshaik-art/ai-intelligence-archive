@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:15:04Z",
+  "generated_at": "2026-11-02T17:50:51Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -623,6 +623,11 @@
     },
     {
       "source_id": "model_agentionai_qwen3_8_flash_next_ap_gguf",
+      "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_agentionai_qwen3_8_flash_next_gyro_coder_gguf",
       "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
       "type": "derived_from"
     },
@@ -1937,6 +1942,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_bumbuk_qwen3_5_4b_awq_text_flat",
+      "target_id": "hf_kumar2235_Qwen3.5-4B-AWQ",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_bytedance_research_chatts_14b",
       "target_id": "hf_ChatTSRepo_ChatTS-Training-Dataset",
       "type": "trained_on"
@@ -2217,6 +2227,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_dark_side_of_the_code_qwen3_coder_30b_a3b_instruct_awq",
+      "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_datajuicer_llama_1b_dj_refine_150b",
       "target_id": "hf_datajuicer_redpajama-arxiv-refined-by-data-juicer",
       "type": "trained_on"
@@ -2387,6 +2402,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_dealignai_nanbeige4_3_33b_uncensored_gguf",
+      "target_id": "hf_Nanbeige_Nanbeige4.3-33B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_decart_ai_kimi_k2_7_code_nvfp4",
       "target_id": "hf_moonshotai_Kimi-K2.7-Code",
       "type": "derived_from"
@@ -2429,6 +2449,11 @@
     {
       "source_id": "model_devquasar_liquidai_lfm2_2_6b_transcript_gguf",
       "target_id": "hf_LiquidAI_LFM2-2.6B-Transcript",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_diffuspace_clover_35b_a3b_preview_gguf",
+      "target_id": "hf_Diffuspace_Clover-35B-A3B-Preview",
       "type": "derived_from"
     },
     {
@@ -7052,6 +7077,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_orcarouter_deepseek_v4_1_flash_1017_abliterated_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_orcarouter_glm_5_3_flash_uncensored_fp8",
       "target_id": "hf_zai-org_GLM-5.3-Flash",
       "type": "derived_from"
@@ -8854,6 +8884,11 @@
     {
       "source_id": "model_tencent_hunyuanocr",
       "target_id": "hf_tencent_HunyuanOCR",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit",
+      "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
     },
     {
