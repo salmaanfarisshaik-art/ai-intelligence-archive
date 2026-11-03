@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2411.05819v3",
+  "schema_version": "1.0",
+  "name": "HierSentNet: Hierarchical Sentiment Analysis Framework for Hate Speech Detection Using Binary and Multiclass Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2411.05819v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2411.05819v3",
+    "updated": "2026-11-02T17:50:11Z",
+    "published": "2024-11-03T04:11:33Z",
+    "title": "HierSentNet: Hierarchical Sentiment Analysis Framework for Hate Speech Detection Using Binary and Multiclass Classification",
+    "summary": "Hate speech detectors must separate hateful posts from the far more common offensive ones, and two popular ideas for doing so are hierarchical classification and sentiment features. We define HierSentNet, a framework that combines a dominant-class-first hierarchy with sentiment features, and test each component in a controlled study on Davidson et al. (24,783 tweets) and HateXplain (19,229 posts) with five random splits and paired significance tests. With linear n-gram models, the dominant-class-first hierarchy of HierSentNet lowered macro-F1 by 1.1-1.5 points (p<=0.007), and VADER sentiment features never changed class-weighted Davidson macro-F1 significantly, because hateful and offensive tweets are almost equally negative. Class weighting was the only large effect (+2.0 to +3.5 macro-F1, +5.9 to +9.1 hate F1). These results held for NRC emotion features, soft hierarchical inference, smaller training sets, other imbalance remedies and a convolutional network. On OLID, whose labels are hierarchical, a matching hierarchy improved only its first decision (+1.4 macro-F1, p=0.009), and sentiment helped (+2.8, p=0.005) because there it separates offensive from non-offensive text. Robustness is the main weakness: cross-dataset transfer cut macro-F1 to 43-53, a reclaimed slur doubled the false hate rate, hate recall ranged from 54% to 85% across target communities, and on the HateCheck functional tests the detectors caught only 12-31% of hateful cases. Errors concentrate where annotators disagree, and temperature scaling restores the calibration lost to class weighting.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T17:50:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2411.05819v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

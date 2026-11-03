@@ -1726,6 +1726,11 @@
 - **URL**: [https://openai.com/index/dall-e-now-available-without-waitlist](https://openai.com/index/dall-e-now-available-without-waitlist)
 
 ## 
+- **ID**: rss_https://openai.com/index/dan-driscoll-joins-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/dan-driscoll-joins-openai](https://openai.com/index/dan-driscoll-joins-openai)
+
+## 
 - **ID**: rss_https://openai.com/index/data-partnerships
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/data-partnerships](https://openai.com/index/data-partnerships)
@@ -5446,6 +5451,11 @@
 - **URL**: [https://openai.com/index/preparing-for-malicious-uses-of-ai](https://openai.com/index/preparing-for-malicious-uses-of-ai)
 
 ## 
+- **ID**: rss_https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai](https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai)
+
+## 
 - **ID**: rss_https://openai.com/index/preply
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/preply](https://openai.com/index/preply)
@@ -5649,6 +5659,11 @@
 - **ID**: rss_https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai](https://openai.com/index/review-completed-altman-brockman-to-continue-to-lead-openai)
+
+## 
+- **ID**: rss_https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties](https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties)
 
 ## 
 - **ID**: rss_https://openai.com/index/ringcentral

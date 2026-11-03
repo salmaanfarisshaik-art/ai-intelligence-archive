@@ -160,6 +160,7 @@
 | [AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery](http://arxiv.org/abs/2609.15820v1) | ArXiv |  | 1 |
 | [AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction](http://arxiv.org/abs/2607.29549v1) | ArXiv |  | 1 |
 | [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1) | ArXiv |  | 1 |
+| [An Agentic Framework for Automated Power System Studies and Grid Connection Assessment](http://arxiv.org/abs/2611.03534v1) | ArXiv |  | 1 |
 | [An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS](http://arxiv.org/abs/2608.12249v1) | ArXiv |  | 1 |
 | [An auditable conditional-strategy framework for open-ended decision-making in complex lung cancer](http://arxiv.org/abs/2609.29381v2) | ArXiv |  | 1 |
 | [An Empirical Study of Harness Design for Coding Agents](http://arxiv.org/abs/2609.20804v1) | ArXiv |  | 1 |
@@ -305,6 +306,7 @@
 | [Detect Before You Attribute: Cascade Failure Attribution for Multi-Agent Systems](http://arxiv.org/abs/2608.29646v1) | ArXiv |  | 1 |
 | [Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](http://arxiv.org/abs/2604.01151v3) | ArXiv |  | 1 |
 | [Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics](http://arxiv.org/abs/2607.29657v1) | ArXiv |  | 1 |
+| [DiabAgent: Toward Agentic Physiological Control](http://arxiv.org/abs/2611.03601v1) | ArXiv |  | 1 |
 | [Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning](http://arxiv.org/abs/2610.31667v1) | ArXiv |  | 1 |
 | [Discovering Symmetry Groups with Flow Matching](http://arxiv.org/abs/2512.20043v3) | ArXiv |  | 1 |
 | [Discriminative World Models for Web Agents](http://arxiv.org/abs/2609.02885v1) | ArXiv |  | 1 |
@@ -375,6 +377,7 @@
 | [FARMS: A Verifiable Foundation for Automated Computational Science](http://arxiv.org/abs/2610.40560v1) | ArXiv |  | 1 |
 | [FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1) | ArXiv |  | 1 |
 | [Fed-Universe: A Semantic-Geometric-Topological-Human (S-G-T-H) Stack for Negotiated Alignment in Federated Systems](http://arxiv.org/abs/2610.34009v1) | ArXiv |  | 1 |
+| [FedReady: Bounded Agents for Federation Formation](http://arxiv.org/abs/2611.03586v1) | ArXiv |  | 1 |
 | [FedV-KGQA: Multi-Hop Question Answering over Vertically Partitioned Knowledge Graphs](http://arxiv.org/abs/2608.24846v1) | ArXiv |  | 1 |
 | [FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents](http://arxiv.org/abs/2609.35744v1) | ArXiv |  | 1 |
 | [FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings](http://arxiv.org/abs/2608.07400v1) | ArXiv |  | 1 |
@@ -390,6 +393,7 @@
 | [FlowEdit: Associative Memory for Lifelong Pronunciation Adaptation in Flow-Matching TTS](http://arxiv.org/abs/2606.20518v1) | ArXiv |  | 1 |
 | [Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
 | [Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs](http://arxiv.org/abs/2609.10413v1) | ArXiv |  | 1 |
+| [Four Bridges: Measuring Deception Propensity in a Multi-Agent Game](http://arxiv.org/abs/2611.03600v1) | ArXiv |  | 1 |
 | [Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning](http://arxiv.org/abs/2606.15507v2) | ArXiv |  | 1 |
 | [Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents](http://arxiv.org/abs/2610.35767v1) | ArXiv |  | 1 |
 | [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925v3) | ArXiv |  | 1 |
@@ -401,6 +405,7 @@
 | [From Field Data to Global Food Systems Intelligence: A Semantic Graph Framework for Sustainable Wheat Production](http://arxiv.org/abs/2502.19507v2) | ArXiv |  | 1 |
 | [From Migration to Calibration: Preserving Agent Capabilities across Models, Jurisdictions, and Scale](http://arxiv.org/abs/2609.35149v2) | ArXiv |  | 1 |
 | [From Mind to Machine: The Rise of Manus AI as a Fully Autonomous Digital Agent](http://arxiv.org/abs/2505.02024v4) | ArXiv |  | 1 |
+| [From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles](http://arxiv.org/abs/2611.03641v1) | ArXiv |  | 1 |
 | [From Parameters to Answers: How LLMs Retrieve and Use Their Internal Knowledge](http://arxiv.org/abs/2609.11859v1) | ArXiv |  | 1 |
 | [From Proposal to Execution: Modeling Interaction Semantics in Shared Autonomy](http://arxiv.org/abs/2610.25496v2) | ArXiv |  | 1 |
 | [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](http://arxiv.org/abs/2603.13359v2) | ArXiv |  | 1 |
@@ -425,6 +430,7 @@
 | [Global Consistency Repair for Natural-Language Claim Sets](http://arxiv.org/abs/2601.13600v2) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics](http://arxiv.org/abs/2603.11442v3) | ArXiv |  | 1 |
+| [Grading the Unannotated: Insights from the WorkRB Skill Extraction Challenge at RecSys-HR 2026](http://arxiv.org/abs/2611.03525v1) | ArXiv |  | 1 |
 | [Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes](http://arxiv.org/abs/2607.19297v1) | ArXiv |  | 1 |
 | [GRASP: Generating, Revising, and Assessing for Strategic Planning with Agentic AI](http://arxiv.org/abs/2609.30147v1) | ArXiv |  | 1 |
 | [Greed Is Learned: Visible Incentives as Reward-Hacking Triggers](http://arxiv.org/abs/2606.16914v1) | ArXiv |  | 1 |
@@ -443,6 +449,7 @@
 | [HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents](http://arxiv.org/abs/2606.31179v2) | ArXiv |  | 1 |
 | [HGM-Dual: Lineage-Aware Guided Agent Harness Optimization for Long-Horizon Planning](http://arxiv.org/abs/2610.30042v1) | ArXiv |  | 1 |
 | [Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite](http://arxiv.org/abs/2608.05095v1) | ArXiv |  | 1 |
+| [HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation](http://arxiv.org/abs/2607.21609v2) | ArXiv |  | 1 |
 | [Hippo: Training-Free Agent Self-Evolution via Hippocampal Replay](http://arxiv.org/abs/2610.24453v2) | ArXiv |  | 1 |
 | [HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance](http://arxiv.org/abs/2608.18056v1) | ArXiv |  | 1 |
 | [HoloAegis: Frozen Representation, Topological Inference --- Minimally Parametric Safety Manifolds and Their Capability Boundaries for LLM Guardrails](http://arxiv.org/abs/2608.08485v2) | ArXiv |  | 1 |
@@ -785,6 +792,7 @@
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v2) | ArXiv |  | 1 |
 | [StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing](http://arxiv.org/abs/2608.24777v1) | ArXiv |  | 1 |
 | [Stochastic World Models for Verifying Vision-Based Neural Feedback Systems](http://arxiv.org/abs/2609.38120v1) | ArXiv |  | 1 |
+| [Strategist: Evolving Reasoning with Agents](http://arxiv.org/abs/2611.03618v1) | ArXiv |  | 1 |
 | [StrategyBench: Evaluating Explicit Strategy Induction in Large Language Models](http://arxiv.org/abs/2608.23475v1) | ArXiv |  | 1 |
 | [Strictly Causal Streaming Video Anomaly Detection with a Theoretically-Grounded State-Space Core](http://arxiv.org/abs/2608.24810v1) | ArXiv |  | 1 |
 | [Structured Four-Stage Legal Translation: From Natural-Language Traffic Rules to PROLOG](http://arxiv.org/abs/2609.20334v1) | ArXiv |  | 1 |
@@ -893,6 +901,7 @@
 | [VISTA: A Visual Harness for Reasoning in an Interactive World](http://arxiv.org/abs/2610.02200v1) | ArXiv |  | 1 |
 | [VoiceLongMemEval: Do Assistants Remember How You Sounded?](http://arxiv.org/abs/2609.00570v3) | ArXiv |  | 1 |
 | [Weak Critics Make Strong Learners: On-Policy Critique Distillation for Scalable Oversight](http://arxiv.org/abs/2606.00424v2) | ArXiv |  | 1 |
+| [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | ArXiv |  | 1 |
 | [WebViSE: Scaling Visual Design Intelligence from the Open Web for LLM Website Generation](http://arxiv.org/abs/2610.33929v1) | ArXiv |  | 1 |
 | [WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning](http://arxiv.org/abs/2606.18147v1) | ArXiv |  | 1 |
 | [What AI Red-Team Evaluations Can and Cannot Prove](http://arxiv.org/abs/2607.21735v2) | ArXiv |  | 1 |

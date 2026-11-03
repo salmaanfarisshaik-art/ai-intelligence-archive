@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03601v1",
+  "schema_version": "1.0",
+  "name": "DiabAgent: Toward Agentic Physiological Control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03601v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03601v1",
+    "updated": "2026-11-02T18:41:02Z",
+    "published": "2026-11-02T18:41:02Z",
+    "title": "DiabAgent: Toward Agentic Physiological Control",
+    "summary": "As pretraining scales, medical language models have advanced rapidly in clinical question answering. Their ability to achieve effective physiological control through sustained intervention still lacks systematic quantitative evaluation. Type 1 diabetes provides a concrete setting: impaired insulin secretion creates dependence on exogenous insulin, with dosing continually adjusted using information about meals, exercise, illness, and glucose measurements. We introduce DiabAgent, a research suite for agentic physiological control comprising the Agentic Physiological Control (APC) framework, the DiabetSim simulator, and the SweetBench benchmark. APC controls glucose through medical-device tools, using ongoing observations to infer individual states, accumulate personal experience, and choose treatment actions. We build DiabetSim to simulate different patients, events, and device conditions for scalable virtual testing and training. Using DiabetSim, we construct SweetBench by instantiating 32 scenario designs as 212 glucose-control tasks. With Claude Opus 5.5 and a fixed decision interval of one hour, APC achieves a COGI of 73.5, compared with 71.2 for the open-source closed-loop baseline OpenAPS. Ablations further show that individual adaptation and contextual information improve glucose control. Combining high-frequency rule-based control with lower-frequency agent decisions shows potential for balancing control performance and computational cost. Our work provides a framework, simulator, and evaluation foundation for agents to participate in human physiological control.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:41:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03601v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

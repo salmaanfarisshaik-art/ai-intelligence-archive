@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03592v1",
+  "schema_version": "1.0",
+  "name": "Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03592v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03592v1",
+    "updated": "2026-11-02T18:34:50Z",
+    "published": "2026-11-02T18:34:50Z",
+    "title": "Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models",
+    "summary": "Time series foundation models (TSFMs) are increasingly used for probabilistic forecasting across diverse domains, yet the reliability of their uncertainty estimates remains poorly understood. In this work, we study uncertainty calibration in probabilistic TSFMs from a broader methodological and empirical perspective. We introduce a taxonomy of how TSFMs represent predictive uncertainty and develop a fine-grained evaluation framework for calibration in multi-horizon forecasting that distinguishes pooled, horizon-wise, and stronger conditional notions of calibration. Using this framework, we conduct a comprehensive empirical evaluation of popular TSFMs across diverse datasets and show that current models exhibit distinct and systematic patterns of miscalibration that standard metrics often obscure. We further analyze common post-hoc recalibration methods and characterize which forms of calibration they can improve and which tend to persist. Our results provide practical guidance for evaluating and improving uncertainty calibration in TSFMs and highlight important limitations of current practice.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:34:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03592v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.11425v2",
+  "schema_version": "1.0",
+  "name": "JailbreakOPT: Iterative Jailbreak Prompt Optimization with Macro-Action",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.11425v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.11425v2",
+    "updated": "2026-11-02T18:20:51Z",
+    "published": "2026-06-09T20:22:29Z",
+    "title": "JailbreakOPT: Iterative Jailbreak Prompt Optimization with Macro-Action",
+    "summary": "Jailbreak attacks expose persistent safety weaknesses in large language models (LLMs), but existing stateless single-turn methods face a trade-off: hand-crafted prompts are expressive but static, while iterative prompt optimization can adapt but often relies on low-level mutations that require many target-model responses. We propose JailbreakOPT, a method that maintains a library of reusable prompt transformations (actions) and composes them into macro-actions for within-episode search, generating standalone attack prompts. To reuse experience across episodes, JailbreakOPT learns an action-selection policy using contextual Thompson sampling and outcomes from prior search paths. Experiments across multiple LLMs and benchmarks show that JailbreakOPT improves attack success rate (ASR) over single-action and iterative baselines. More broadly, exploration and exploitation over human-designed attack strategies can help probe residual vulnerabilities and identify failure patterns that may inform defenses aimed at broader classes of attacks.",
+    "primary_category": "cs.CR"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:20:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.11425v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

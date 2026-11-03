@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03617v1",
+  "schema_version": "1.0",
+  "name": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03617v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03617v1",
+    "updated": "2026-11-02T18:50:54Z",
+    "published": "2026-11-02T18:50:54Z",
+    "title": "Tracing the Scientific Discovery Capacity of LLMs to Their Training Data",
+    "summary": "Large language models (LLMs) show growing promise for scientific discovery, yet basic questions remain about what enables reliable discovery. How can we trace the scientific discovery capacity of LLMs to their training data? We study this question as one of missing probability mass and develop a theoretical account in which monofacts-the facts observed once during training-set the discovery capacity. In materials science and regulatory genomics, we directly manipulate monofact rates in training sets and find that more monofacts consistently yield more discoveries across two open-weight model families, sampling strategies, and reasoning budgets. Further experiments show the relationship cannot be explained by training-set diversity alone and can transfer across scientific domains when paired with in-domain data. Together, our results identify monofact rate in training data as a key factor governing discoveries in language models.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:50:54Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03617v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

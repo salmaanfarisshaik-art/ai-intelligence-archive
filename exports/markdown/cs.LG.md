@@ -110,6 +110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2507.06445v3](http://arxiv.org/abs/2507.06445v3)
 
+## Pulling Back the Curtain on Deep Networks
+- **ID**: arxiv_2507.22832v7
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2507.22832v7](http://arxiv.org/abs/2507.22832v7)
+
 ## Label-Noise Resistant Learning via Optimal Brain Damage Masking
 - **ID**: arxiv_2508.09697v4
 - **Source**: ArXiv
@@ -344,6 +349,11 @@
 - **ID**: arxiv_2603.20103v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.20103v4](http://arxiv.org/abs/2603.20103v4)
+
+## Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation
+- **ID**: arxiv_2603.20406v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.20406v2](http://arxiv.org/abs/2603.20406v2)
 
 ## A Survey of On-Policy Distillation for Large Language Models
 - **ID**: arxiv_2604.00626v4
@@ -1550,6 +1560,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31069v1](http://arxiv.org/abs/2608.31069v1)
 
+## CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning
+- **ID**: arxiv_2609.00446v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00446v2](http://arxiv.org/abs/2609.00446v2)
+
 ## From Truncation to Commitment: Persistent Context in Uniform Discrete Diffusion
 - **ID**: arxiv_2609.01043v2
 - **Source**: ArXiv
@@ -2250,6 +2265,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13909v1](http://arxiv.org/abs/2610.13909v1)
 
+## Drafting Agents, Not Just Tokens: Speculative Recursive Self-Improvement for Agentic Systems
+- **ID**: arxiv_2610.16491v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.16491v2](http://arxiv.org/abs/2610.16491v2)
+
 ## Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation
 - **ID**: arxiv_2610.17407v2
 - **Source**: ArXiv
@@ -2665,6 +2685,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37657v1](http://arxiv.org/abs/2610.37657v1)
 
+## The Role of Quantization in Loss Spikes
+- **ID**: arxiv_2610.38277v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.38277v2](http://arxiv.org/abs/2610.38277v2)
+
 ## Rethinking Neural Thickets Without Weight Perturbations
 - **ID**: arxiv_2610.40649v1
 - **Source**: ArXiv
@@ -2679,4 +2704,19 @@
 - **ID**: arxiv_2610.42030v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42030v1](http://arxiv.org/abs/2610.42030v1)
+
+## Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime
+- **ID**: arxiv_2611.03526v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03526v1](http://arxiv.org/abs/2611.03526v1)
+
+## Sonar-MoE: In-Backward Expert Updates for Memory-Efficient Mixture-of-Experts Training
+- **ID**: arxiv_2611.03577v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03577v1](http://arxiv.org/abs/2611.03577v1)
+
+## Evaluating Uncertainty Calibration in Probabilistic Time Series Foundation Models
+- **ID**: arxiv_2611.03592v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03592v1](http://arxiv.org/abs/2611.03592v1)
 

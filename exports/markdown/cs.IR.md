@@ -30,6 +30,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.11453v3](http://arxiv.org/abs/2602.11453v3)
 
+## Revisiting RAG Retrievers: An Information Theoretic Benchmark
+- **ID**: arxiv_2602.21553v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.21553v2](http://arxiv.org/abs/2602.21553v2)
+
 ## Ruling Out to Rule In: Contrastive Hypothesis Retrieval for Medical Question Answering
 - **ID**: arxiv_2604.04593v2
 - **Source**: ArXiv
@@ -59,6 +64,11 @@
 - **ID**: arxiv_2606.01670v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.01670v2](http://arxiv.org/abs/2606.01670v2)
+
+## Do Neural Retrievers Prefer Certain Documents? Evidence of Learned Relevance Priors
+- **ID**: arxiv_2606.02814v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.02814v2](http://arxiv.org/abs/2606.02814v2)
 
 ## How Much Do Reviews Really Contribute? A Study on Text-Enriched Matrix Factorization for Recommendations
 - **ID**: arxiv_2606.16973v1

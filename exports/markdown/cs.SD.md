@@ -100,6 +100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.23811v2](http://arxiv.org/abs/2607.23811v2)
 
+## Memory Efficient Audio Synthesis with Decoupled Temporal Depth Diffusion Transformers
+- **ID**: arxiv_2607.23811v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.23811v3](http://arxiv.org/abs/2607.23811v3)
+
 ## MMAC: A Massive Multi-dimensional Benchmark for Audio Captioning
 - **ID**: arxiv_2607.27109v1
 - **Source**: ArXiv

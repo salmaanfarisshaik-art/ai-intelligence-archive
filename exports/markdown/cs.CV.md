@@ -555,6 +555,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2601.08024v2](http://arxiv.org/abs/2601.08024v2)
 
+## Tune-Up Open-Weight CLIP: Optimization Framework for Self-Supervised Fine-tuning of CLIP
+- **ID**: arxiv_2601.09859v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2601.09859v2](http://arxiv.org/abs/2601.09859v2)
+
 ## UAV-Based Infrastructure Inspections: A Literature Review and Proposed Framework for AEC+FM
 - **ID**: arxiv_2601.11665v3
 - **Source**: ArXiv
@@ -7195,6 +7200,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.34028v1](http://arxiv.org/abs/2610.34028v1)
 
+## An Agentic AI Workflow for Liver Lesion Segmentation and Structured Radiology Reporting
+- **ID**: arxiv_2610.34599v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.34599v3](http://arxiv.org/abs/2610.34599v3)
+
 ## VidEdit3D: Flexible 3D Gaussian Editing with Video Diffusion
 - **ID**: arxiv_2610.35756v1
 - **Source**: ArXiv
@@ -7394,4 +7404,44 @@
 - **ID**: arxiv_2610.42152v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42152v1](http://arxiv.org/abs/2610.42152v1)
+
+## Contrastive Adapter Training and Consensus Knowledge Distillation for Multi-Source-Free Domain Adaptation in Skin Cancer Diagnosis
+- **ID**: arxiv_2611.03528v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03528v1](http://arxiv.org/abs/2611.03528v1)
+
+## CoLa3D: Composable Latent 3D Decomposition
+- **ID**: arxiv_2611.03533v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03533v1](http://arxiv.org/abs/2611.03533v1)
+
+## PlantVLM-Edge: Quantized Vision-Language Models for On-Device Crop Health Diagnosis
+- **ID**: arxiv_2611.03557v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03557v1](http://arxiv.org/abs/2611.03557v1)
+
+## 3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition
+- **ID**: arxiv_2611.03588v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03588v1](http://arxiv.org/abs/2611.03588v1)
+
+## Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks
+- **ID**: arxiv_2611.03597v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03597v1](http://arxiv.org/abs/2611.03597v1)
+
+## Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning
+- **ID**: arxiv_2611.03602v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03602v1](http://arxiv.org/abs/2611.03602v1)
+
+## Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data
+- **ID**: arxiv_2611.03626v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03626v1](http://arxiv.org/abs/2611.03626v1)
+
+## EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos
+- **ID**: arxiv_2611.03646v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03646v1](http://arxiv.org/abs/2611.03646v1)
 

@@ -14255,6 +14255,11 @@
   ],
   "harden": [
     {
+      "entity_id": "rss_https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "rss_https://openai.com/index/hardening-atlas-against-prompt-injection",
       "match_type": "exact",
       "score": 1.0
@@ -15439,6 +15444,11 @@
     },
     {
       "entity_id": "arxiv_2610.13886v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.03575v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -26338,6 +26348,11 @@
     },
     {
       "entity_id": "alpaca_-5935021811014986247",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2411.05819v3",
       "match_type": "exact",
       "score": 2.0
     },
@@ -47396,6 +47411,11 @@
     },
     {
       "entity_id": "arxiv_2610.35761v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.03557v1",
       "match_type": "exact",
       "score": 2.0
     },
@@ -72756,6 +72776,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2609.00446v2",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2609.05403v1",
       "match_type": "exact",
       "score": 2.0
@@ -76184,6 +76209,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "arxiv_2411.05819v3",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "arxiv_2506.07188v2",
       "match_type": "exact",
       "score": 2.0
@@ -76260,6 +76290,11 @@
     },
     {
       "entity_id": "arxiv_2607.20253v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2607.21609v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -76405,6 +76440,11 @@
     },
     {
       "entity_id": "arxiv_2610.42112v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2610.42112v2",
       "match_type": "exact",
       "score": 2.0
     },
@@ -76667,6 +76707,13 @@
       "score": 2.0
     }
   ],
+  "hierflow": [
+    {
+      "entity_id": "arxiv_2607.21609v2",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "hieroglyphics": [
     {
       "entity_id": "alpaca_-2977605257141818098",
@@ -76677,6 +76724,13 @@
       "entity_id": "alpaca_2500476651188073995",
       "match_type": "exact",
       "score": 1.0
+    }
+  ],
+  "hiersentnet": [
+    {
+      "entity_id": "arxiv_2411.05819v3",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "hif": [
@@ -117499,6 +117553,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "arxiv_2611.03525v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "dataset_coherelabs_xp3x",
       "match_type": "exact",
       "score": 1.5
@@ -137998,6 +138057,16 @@
     },
     {
       "entity_id": "arxiv_2610.40563v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.03646v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "arxiv_2611.03647v1",
       "match_type": "exact",
       "score": 2.0
     },

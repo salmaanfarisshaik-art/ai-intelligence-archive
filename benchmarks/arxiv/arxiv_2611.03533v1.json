@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03533v1",
+  "schema_version": "1.0",
+  "name": "CoLa3D: Composable Latent 3D Decomposition",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03533v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03533v1",
+    "updated": "2026-11-02T18:00:50Z",
+    "published": "2026-11-02T18:00:50Z",
+    "title": "CoLa3D: Composable Latent 3D Decomposition",
+    "summary": "We introduce CoLa3D, a simple and effective model for composable 3D scene decomposition that, given a single whole-scene latent from either a single image or an existing scene mesh as input, directly outputs a set of object meshes with consistent spatial layout that can be assembled back into a coherent scene. CoLa3D introduces a novel paradigm for 3D scene decomposition within a shared whole-scene latent, unlike alternatives that perform per-object generation in canonical spaces and then glue the objects back together with fragile pose and scale estimation. The network is a lightweight, flexible, and scalable query-based transformer that accepts various types of queries, including 2D masks, 3D points, and learnable queries, and learns to decompose the scene into objects in a compact latent space. On both synthetic and real-world datasets, CoLa3D achieves state-of-the-art performance on composable 3D scene decomposition, substantially improving global scene-level consistency and object-level quality while running 2 times faster and using less than 1% of SAM 3D's training data. Visible depth on par with MoGe2 further confirms that latent decomposition preserves accurate visible scene geometry while producing physically complete, decomposable object meshes.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:00:50Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03533v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

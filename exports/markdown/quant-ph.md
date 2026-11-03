@@ -55,3 +55,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.22367v1](http://arxiv.org/abs/2610.22367v1)
 
+## Spacetime Emergence in the Memory of a Learning Agent
+- **ID**: arxiv_2611.03596v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03596v1](http://arxiv.org/abs/2611.03596v1)
+

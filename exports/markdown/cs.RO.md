@@ -1165,3 +1165,23 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42146v1](http://arxiv.org/abs/2610.42146v1)
 
+## PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation
+- **ID**: arxiv_2611.03520v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03520v1](http://arxiv.org/abs/2611.03520v1)
+
+## D&A: Decoupling Description and Assessment Enables VLMs as Zero-Shot Robotic Reward Models
+- **ID**: arxiv_2611.03622v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03622v1](http://arxiv.org/abs/2611.03622v1)
+
+## Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations
+- **ID**: arxiv_2611.03647v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03647v1](http://arxiv.org/abs/2611.03647v1)
+
+## Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation
+- **ID**: arxiv_2611.03648v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03648v1](http://arxiv.org/abs/2611.03648v1)
+

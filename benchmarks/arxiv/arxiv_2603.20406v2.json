@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.20406v2",
+  "schema_version": "1.0",
+  "name": "Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.20406v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.20406v2",
+    "updated": "2026-11-02T18:26:41Z",
+    "published": "2026-03-20T18:26:23Z",
+    "title": "Thinking in Different Spaces: Domain-Specific Latent Geometry Survives Cross-Architecture Translation",
+    "summary": "We investigate whether independently trained language models converge to geometrically compatible latent representations, and whether this compatibility can be exploited to correct model behavior at inference time without any weight updates. We learn a linear projection matrix that maps activation vectors from a large teacher model into the coordinate system of a smaller student model, then intervene on the student's residual stream during generation by substituting its internal state with the translated teacher representation. Across a fully crossed experimental matrix of 20 heterogeneous teacher-student pairings spanning mixture-of-experts, dense, code-specialized, and synthetically trained architectures, the Ridge projection consistently achieves R^2 = 0.50 on verbal reasoning and R^2 = 0.40 on mathematical reasoning, collapsing to R^2 = -0.22 under permutation control and R^2 = 0.01 under L_1 regularization. Behavioral correction rates range from 14.0% to 50.0% on TruthfulQA (mean 25.2%) and from 8.5% to 43.3% on GSM8K arithmetic reasoning (mean 25.5%), demonstrating that the method generalizes across fundamentally different reasoning domains. We report a near-zero correlation between geometric alignment quality and behavioral correction rate (r = -0.07), revealing a dissociation between representation space fidelity and output space impact. Intervention strength is architecture-specific: student models exhibit characteristic sensitivity profiles that invert across domains, with the most steerable verbal student becoming the least steerable mathematical student. Finally, a double dissociation experiment conducted across all 20 model pairings confirms without exception that projection matrices collapse catastrophically when transferred across reasoning domains (mean R^2 = -3.83 in both transfer directions), establishing domain-specific subspace geometry as a universal property of LMs.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:26:41Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.20406v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.21609v2",
+  "schema_version": "1.0",
+  "name": "HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.21609v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.21609v2",
+    "updated": "2026-11-02T18:51:02Z",
+    "published": "2026-05-20T01:56:11Z",
+    "title": "HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation",
+    "summary": "Although structured workflows empower Large Language Models (LLMs) to tackle complex problems, automating their creation is severely hindered by a vast combinatorial search space, frequently resulting in inflexible and resource-heavy offline training dependencies. To address this, we conceptualize workflow generation as an intertwined topology-and-execution search paradigm, where the broader topological layer dictates subtask boundaries and lower-level execution outcomes actively reshape the topology itself. Building on this foundation, we introduce HierFlow, a training-free, test-time hierarchical search architecture that automates agentic workflow design by merging feedback-guided topology adjustments with a fast, MCTS-inspired tree search for sub-workflow optimization. HierFlow maximizes efficiency through an intelligent gating module that selectively triggers execution-level searches based on contextual necessity, a mechanism we further support with an in-depth analysis detailing how varying degrees of cross-task coupling impact the effectiveness of hierarchical splitting. Comprehensive testing across question answering, mathematical reasoning, and code generation benchmarks confirms that HierFlow consistently outperforms strong baselines, delivering an optimal balance of high-quality results and computational efficiency without any additional training overhead.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:51:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.21609v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

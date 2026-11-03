@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.02814v2",
+  "schema_version": "1.0",
+  "name": "Do Neural Retrievers Prefer Certain Documents? Evidence of Learned Relevance Priors",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.02814v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.IR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.02814v2",
+    "updated": "2026-11-02T18:46:04Z",
+    "published": "2026-06-01T19:31:28Z",
+    "title": "Do Neural Retrievers Prefer Certain Documents? Evidence of Learned Relevance Priors",
+    "summary": "Neural retrievers are trained to estimate query-document relevance from annotated query-document pairs. Yet annotation protocols may not purely reflect relevance: they select only a subset of documents for labeling, and this selection can favor certain document types over others. We investigate whether supervised bi-encoder retrievers implicitly learn a document-level relevance prior: a query-independent signal encoded in their representation space as a side effect of training on annotated data. We estimate this prior by training simple classifiers on frozen document embeddings and evaluate three state-of-the-art retrievers across multiple IR benchmarks. We find that supervised neural retrievers encode relevance priors that generalize to unseen documents and are consistent across models. These priors are associated with a findability gap: documents with lower prior are systematically harder to retrieve, even when genuinely relevant. This effect appears in supervised dense retrievers but is weaker and less consistent in BM25, and it persists under controlled matched-document comparisons. Using LLM-based explanations, we find that judged-relevant documents tend to be comprehensive, self-contained summaries of mainstream topics, while niche, fragmentary, or highly technical content is often left unjudged. Retrievers appear to internalize this bias, ranking documents with these favored features higher than documents that lack them, independently of their actual relevance. Our findings expose a structural limitation of supervised retrieval: models trained on annotated data do not just learn relevance, but also the implicit document preferences in their training data.",
+    "primary_category": "cs.IR"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:46:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.02814v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

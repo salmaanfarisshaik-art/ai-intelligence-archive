@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2410.06458v2](http://arxiv.org/abs/2410.06458v2)
 
+## HierSentNet: Hierarchical Sentiment Analysis Framework for Hate Speech Detection Using Binary and Multiclass Classification
+- **ID**: arxiv_2411.05819v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2411.05819v3](http://arxiv.org/abs/2411.05819v3)
+
 ## Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models
 - **ID**: arxiv_2412.16555v4
 - **Source**: ArXiv
@@ -204,6 +209,11 @@
 - **ID**: arxiv_2509.22075v7
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.22075v7](http://arxiv.org/abs/2509.22075v7)
+
+## CoSpaDi: Compressing LLMs via Calibration-Guided Sparse Dictionary Learning
+- **ID**: arxiv_2509.22075v8
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2509.22075v8](http://arxiv.org/abs/2509.22075v8)
 
 ## What Is The Political Content in LLMs' Pre- and Post-Training Data?
 - **ID**: arxiv_2509.22367v3
@@ -949,6 +959,11 @@
 - **ID**: arxiv_2606.09498v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.09498v2](http://arxiv.org/abs/2606.09498v2)
+
+## Agent Skill Evaluation and Evolution: Frameworks and Benchmarks
+- **ID**: arxiv_2606.11435v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11435v2](http://arxiv.org/abs/2606.11435v2)
 
 ## When Roleplaying, Do Models Believe What They Say?
 - **ID**: arxiv_2606.11502v2
@@ -4815,6 +4830,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40577v1](http://arxiv.org/abs/2610.40577v1)
 
+## Multi-View Latent MoE: Letting Every Router Shape Expert Computation
+- **ID**: arxiv_2610.40577v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.40577v2](http://arxiv.org/abs/2610.40577v2)
+
 ## When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder
 - **ID**: arxiv_2610.40611v1
 - **Source**: ArXiv
@@ -4865,6 +4885,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42112v1](http://arxiv.org/abs/2610.42112v1)
 
+## Subquadratic Attention with a Hierarchical Tree-Structured Indexer
+- **ID**: arxiv_2610.42112v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42112v2](http://arxiv.org/abs/2610.42112v2)
+
 ## DecisionRank: On-Policy Distillation for Decision-Model Rerankers
 - **ID**: arxiv_2610.42128v1
 - **Source**: ArXiv
@@ -4874,4 +4899,34 @@
 - **ID**: arxiv_2610.42148v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42148v1](http://arxiv.org/abs/2610.42148v1)
+
+## VIAS: Value-Isolating Activation Steering for Multi-Value Alignment and Compliance for Organisations
+- **ID**: arxiv_2611.03518v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03518v1](http://arxiv.org/abs/2611.03518v1)
+
+## Can LLM Agents Be Forward-Deployed Engineers? Requirement Discovery and Delivery for Enterprise Text-to-SQL
+- **ID**: arxiv_2611.03551v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03551v1](http://arxiv.org/abs/2611.03551v1)
+
+## VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably
+- **ID**: arxiv_2611.03575v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03575v1](http://arxiv.org/abs/2611.03575v1)
+
+## NitiBench+: A Temporal Thai Legal Question Answering Benchmark Across 17 Domains
+- **ID**: arxiv_2611.03576v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03576v1](http://arxiv.org/abs/2611.03576v1)
+
+## ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch
+- **ID**: arxiv_2611.03605v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03605v1](http://arxiv.org/abs/2611.03605v1)
+
+## Tracing the Scientific Discovery Capacity of LLMs to Their Training Data
+- **ID**: arxiv_2611.03617v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03617v1](http://arxiv.org/abs/2611.03617v1)
 

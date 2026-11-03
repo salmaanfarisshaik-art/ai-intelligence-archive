@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03597v1",
+  "schema_version": "1.0",
+  "name": "Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03597v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03597v1",
+    "updated": "2026-11-02T18:39:55Z",
+    "published": "2026-11-02T18:39:55Z",
+    "title": "Structured Visual Landscape: Generating Preferred Representations in Biological and Artificial Neural Networks",
+    "summary": "Understanding how neurons respond to visual stimulus is an important question in both deep learning and neuroscience. It has significant implications for enhancing the interpretability of black-box artificial neural networks and for understanding the visual representation in the human brain. We propose a structured visual representations landscape and design an activation-based prior that allows us to effectively regularize the landscape with activations from brain regions or neural network units. Our model Vis-Lens integrates a variational autoencoder and a diffusion model into an image generation framework. It enables the generation of natural, realistic preferred images by directly modifying the activation-regularized latent codes without per-image iterative optimization. We demonstrate the effectiveness of our framework on both artificial neural networks and human visual cortex using functional magnetic resonance imaging (fMRI) data. Our framework improves activation modulation and image realism compared with a recent state-of-the-art method for generating preferred visual representations of these neural targets.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:39:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03597v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

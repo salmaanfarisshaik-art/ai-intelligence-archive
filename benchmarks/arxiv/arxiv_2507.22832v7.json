@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2507.22832v7",
+  "schema_version": "1.0",
+  "name": "Pulling Back the Curtain on Deep Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2507.22832v7",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2507.22832v7",
+    "updated": "2026-11-02T18:42:51Z",
+    "published": "2025-07-30T16:47:42Z",
+    "title": "Pulling Back the Curtain on Deep Networks",
+    "summary": "In linear models, visualizing a weight vector naturally reveals the model's preferred input direction, but extending this intuition to deep networks via gradients or GradientAscent often yields brittle or adversarial-looking features. We argue that deep networks are better understood as input-conditioned affine operators, whose natural adjoint action pulls a neuron's preferred direction back to input space. We further refine this representation through optional backward-only softening for hard-gated layers and propose pullbacks as an alternative backward operator for existing explanation procedures, including local attribution, smoothing, and iterative ascent. Across convolutional architectures (ResNet50, VGG) and transformer-based models (PVT), replacing gradients with pullbacks yields improvements in 46 out of 60 comparisons across five faithfulness, stability, and localisation metrics. In particular, PullbackAscent improves mean scores over GradientAscent across all five primary metrics on each architecture, reducing mean Infidelity by factors of 2.8 to 5.5. Strikingly, it also produces sharp, perceptually aligned and target-specific perturbations in only a few steps, without post-processing or explicit perceptual priors. More broadly, pullback-based methods achieve the best mean in 13 out of 15 architecture-metric combinations, outperforming established attribution baselines. Our results suggest that adjoint transport can serve as a reusable backward primitive, enhancing existing explanation procedures without architectural changes or elaborate attribution pipelines. We use \"Semantic Pullbacks\" (SP) to denote the resulting family of pullback-based explanations.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:42:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2507.22832v7"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

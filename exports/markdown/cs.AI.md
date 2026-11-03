@@ -1240,6 +1240,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2607.21559v1](http://arxiv.org/abs/2607.21559v1)
 
+## HierFlow: Hierarchical Coupled Dual-Space Search for Automatic Agentic Workflow Generation
+- **ID**: arxiv_2607.21609v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.21609v2](http://arxiv.org/abs/2607.21609v2)
+
 ## Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models
 - **ID**: arxiv_2607.21617v2
 - **Source**: ArXiv
@@ -4654,4 +4659,44 @@
 - **ID**: arxiv_2610.42147v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42147v1](http://arxiv.org/abs/2610.42147v1)
+
+## Grading the Unannotated: Insights from the WorkRB Skill Extraction Challenge at RecSys-HR 2026
+- **ID**: arxiv_2611.03525v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03525v1](http://arxiv.org/abs/2611.03525v1)
+
+## An Agentic Framework for Automated Power System Studies and Grid Connection Assessment
+- **ID**: arxiv_2611.03534v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03534v1](http://arxiv.org/abs/2611.03534v1)
+
+## FedReady: Bounded Agents for Federation Formation
+- **ID**: arxiv_2611.03586v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03586v1](http://arxiv.org/abs/2611.03586v1)
+
+## Four Bridges: Measuring Deception Propensity in a Multi-Agent Game
+- **ID**: arxiv_2611.03600v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03600v1](http://arxiv.org/abs/2611.03600v1)
+
+## DiabAgent: Toward Agentic Physiological Control
+- **ID**: arxiv_2611.03601v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03601v1](http://arxiv.org/abs/2611.03601v1)
+
+## Strategist: Evolving Reasoning with Agents
+- **ID**: arxiv_2611.03618v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03618v1](http://arxiv.org/abs/2611.03618v1)
+
+## WebHarbor: Docking Real Websites for Evolving GUI Agent Environments
+- **ID**: arxiv_2611.03634v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03634v1](http://arxiv.org/abs/2611.03634v1)
+
+## From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles
+- **ID**: arxiv_2611.03641v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03641v1](http://arxiv.org/abs/2611.03641v1)
 

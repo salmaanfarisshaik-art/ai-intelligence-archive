@@ -130,6 +130,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.08168v2](http://arxiv.org/abs/2606.08168v2)
 
+## JailbreakOPT: Iterative Jailbreak Prompt Optimization with Macro-Action
+- **ID**: arxiv_2606.11425v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11425v2](http://arxiv.org/abs/2606.11425v2)
+
 ## When Good Verifiers Go Bad: Self-Improving VLMs Can Regress on New Tasks
 - **ID**: arxiv_2606.14629v1
 - **Source**: ArXiv
@@ -499,4 +504,9 @@
 - **ID**: arxiv_2610.40613v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40613v1](http://arxiv.org/abs/2610.40613v1)
+
+## MCP Tool Poisoning in Agentic AI Frameworks: A Cross-Framework Measurement Study
+- **ID**: arxiv_2611.03555v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03555v1](http://arxiv.org/abs/2611.03555v1)
 

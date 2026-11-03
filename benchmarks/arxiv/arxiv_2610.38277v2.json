@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.38277v2",
+  "schema_version": "1.0",
+  "name": "The Role of Quantization in Loss Spikes",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.38277v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.38277v2",
+    "updated": "2026-11-02T18:11:23Z",
+    "published": "2026-10-28T04:53:13Z",
+    "title": "The Role of Quantization in Loss Spikes",
+    "summary": "Loss spikes in language model pretraining can waste substantial compute and derail otherwise healthy training runs. A primary driver of these instabilities is the growth and divergence of output logits in the final language modeling (LM) head. In this work, we study a particularly costly form of this instability associated with output logit growth: delayed, terminal divergences that emerge only after prolonged training, which we call time-bomb spikes. We find that these instabilities are preceded by rapidly growing quantization error in the LM head, which eventually culminates in a loss spike. Crucially, reducing numerical precision accelerates time-bomb spikes, while increasing precision improves stability. We then propose a simple yet effective mitigation that replaces AdamW on the LM head with SGD with momentum, suppressing logit growth and improving stability over long training horizons. Finally, we find that existing mitigation techniques from the literature (along with our own) all reduce quantization error, suggesting a shared numerical mechanism behind their effectiveness. Together, our results identify finite precision error as a hidden driver of time-bomb spikes and show that suppressing this error is key to stable long-horizon pretraining.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:11:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.38277v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

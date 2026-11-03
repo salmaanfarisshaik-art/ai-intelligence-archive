@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.00446v2",
+  "schema_version": "1.0",
+  "name": "CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.00446v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.00446v2",
+    "updated": "2026-11-02T18:52:00Z",
+    "published": "2026-08-31T22:36:30Z",
+    "title": "CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning",
+    "summary": "Conventional federated learning (FL) relies on parameter averaging, which forces clients to be doubly homogeneous: it demands an identical architecture and degrades under non-IID data. Real-world deployments usually break both assumptions. We sidestep both by building a decentralized knowledge distillation framework in which each client evaluates its peers' model snapshots on its own local data and distills from the resulting soft predictions. Because knowledge is transferred through the shared class posterior, clients are free to run different architectures; and because every teacher is evaluated on the student's own device, raw data never leaves the client, with no central server or public dataset required. Within this setting, we identify and address an under-examined problem: how to combine the peer teacher predictions. Existing methods, like uniform averaging, ignore how knowledge reliability varies across teachers and classes. We propose Class-wise Reliability-Aware Distillation (CRAD), which, per class, first discards teachers that disagree with the peer consensus and then takes a weighted average of the rest, weighting each teacher by its per-class reliability (precision, or inverse variance). Since the variance of an accuracy from $n$ samples scales as $1/n$, support enters automatically: among the teachers that survive filtering, a teacher is trusted for a class to the degree that it is both accurate and well-evidenced for it. On CIFAR-10, CIFAR-100, and PathMNIST, across heterogeneous architectures under severe non-IID skew, CRAD consistently outperforms competing methods in global accuracy. Our code is publicly available at https://github.com/bbilbeis/CRAD.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:52:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.00446v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

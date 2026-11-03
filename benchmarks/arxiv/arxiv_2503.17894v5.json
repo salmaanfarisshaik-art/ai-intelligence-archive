@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2503.17894v5",
+  "schema_version": "1.0",
+  "name": "Generative Learner for Distributional Causal Effects",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2503.17894v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "astro-ph.SR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2503.17894v5",
+    "updated": "2026-11-02T17:48:16Z",
+    "published": "2025-03-23T00:57:26Z",
+    "title": "Generative Learner for Distributional Causal Effects",
+    "summary": "We propose a generative learner for estimating conditional average treatment effects and characterizing the full distribution of these effects. The learner takes the form of a multi-head feed-forward neural network with three jointly estimated subnetworks: the propensity score, the conditional quantile function of the baseline outcome, and the conditional quantile treatment effect. Each quantile-indexed subnetwork combines a covariate representation with cosine quantile embeddings through element-wise multiplication. We then recover the conditional average treatment effect as an integral over conditional quantile treatment effects. Under the classical causal assumptions within the Neyman--Rubin potential outcomes framework, we find that the proposed generative learner reduces out-of-sample mean squared error relative to the generalized random forest, double machine learning, and generative adversarial networks, with gains ranging from 5.4% to 93.5% on average across experimental designs. In an empirical application, we formalize the Stefan--Boltzmann law within a unidirectional causal model and apply the method to publicly available stellar data. The estimated effects satisfy the restrictions the law implies.",
+    "primary_category": "astro-ph.SR"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T17:48:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2503.17894v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

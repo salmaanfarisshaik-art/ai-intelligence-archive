@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2509.18355v6](http://arxiv.org/abs/2509.18355v6)
 
+## Beyond MACs: Deployment-Constrained Design Space Exploration for Tensorized Neural Networks
+- **ID**: arxiv_2511.17971v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.17971v3](http://arxiv.org/abs/2511.17971v3)
+
 ## Comparative Characterization of KV Cache Management Strategies for LLM Inference
 - **ID**: arxiv_2604.05012v2
 - **Source**: ArXiv

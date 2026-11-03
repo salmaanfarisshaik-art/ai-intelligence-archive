@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.03634v1",
+  "schema_version": "1.0",
+  "name": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.03634v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.03634v1",
+    "updated": "2026-11-02T18:57:36Z",
+    "published": "2026-11-02T18:57:36Z",
+    "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+    "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and limited coverage of authenticated workflows, while existing synthetic environments for training often lack functional depth and visual fidelity. We propose WebHarbor, a suite of 153 executable and dockerized website environments that faithfully reconstruct the visual interfaces, content, and functional workflows of real-world web services under deterministic control. We build WebHarbor through task-driven human-agent collaboration, where environments evolve as new tasks expand their functional scope, coding agents implement the required changes, and human contributors audit visual fidelity, functional correctness, and task validity. The resulting suite comprises 3,518 tasks spanning multi-step and post-authentication workflows, where existing works often fail to cover. Beyond reliable evaluation, WebHarbor provides high-fidelity synthetic web environments for cost-efficient reinforcement learning (RL). We demonstrate that a Qwen 4B-level GUI agent trained with RL in WebHarbor generalizes to unseen tasks and performs competitively with leading open-source GUI web agents across four benchmarks. The code and data are publicly available at https://github.com/aiming-lab/WebHarbor.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:57:36Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.03634v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

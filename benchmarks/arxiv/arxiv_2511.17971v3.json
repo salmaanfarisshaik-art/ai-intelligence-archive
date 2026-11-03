@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.17971v3",
+  "schema_version": "1.0",
+  "name": "Beyond MACs: Deployment-Constrained Design Space Exploration for Tensorized Neural Networks",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.17971v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AR",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.17971v3",
+    "updated": "2026-11-02T18:39:31Z",
+    "published": "2025-11-22T08:18:40Z",
+    "title": "Beyond MACs: Deployment-Constrained Design Space Exploration for Tensorized Neural Networks",
+    "summary": "Tensor-train (TT) compression reduces neural-network parameters, but the latency of a tensorized layer is set by its contraction order and its mapping onto hardware: a contraction path with fewer multiply-accumulate operations (MACs) is not necessarily faster on a systolic array. We present a deployment-constrained, latency-guided design space exploration (DSE) framework for fixed-rank tensorized neural networks (TNNs) under a fixed processing-element (PE) budget. Using MAC-guided path pruning, it evaluates feasible combinations of contraction paths, three PE-array partitions, and input-, output-, and weight-stationary dataflows. By minimizing the sum of inference and training latency estimates, it selects a single physical PE partition shared across layers and both modes, while allowing layer- and mode-specific paths and dataflows. On ResNet-18 and ViT-Ti/4, 25%-50% of the layers select a path other than the minimum-MAC one, the best dataflow varies across layers and models, and on a representative ViT layer the latency-selected candidate reduces simulated latency by 23.5% relative to the minimum-MAC candidate. Deployed on a Xilinx VU9P FPGA accelerator that supports both inference and training, the complete TT+INT8 system achieves 3.28x-4.00x inference and 3.42x-3.85x training speedups over dense implementations with the same PE budget.",
+    "primary_category": "cs.AR"
+  },
+  "retrieval_timestamp": "2026-11-03T07:33:50Z",
+  "last_updated": "2026-11-02T18:39:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.17971v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
