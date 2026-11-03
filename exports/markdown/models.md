@@ -376,6 +376,10 @@
 - **ID**: model_ath_maas_ovis2_5_9b
 - **Source**: 
 
+## AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF
+- **ID**: model_atomicchat_deepseek_v4_1_flash_1017_uncensored_gsq_rco_gguf
+- **Source**: 
+
 ## AtomicChat/LFM2.5-24B-A2B-Uncensored-GGUF
 - **ID**: model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf
 - **Source**: 
@@ -730,6 +734,10 @@
 
 ## bartowski/Qwen2.5-Coder-1.5B-Instruct-GGUF
 - **ID**: model_bartowski_qwen2_5_coder_1_5b_instruct_gguf
+- **Source**: 
+
+## bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF
+- **ID**: model_bartowski_qwen2_5_coder_32b_instruct_abliterated_gguf
 - **Source**: 
 
 ## bartowski/Qwen2.5-Coder-32B-Instruct-GGUF
@@ -2952,6 +2960,10 @@
 - **ID**: model_liquidai_lfm2_5_230m_gguf
 - **Source**: 
 
+## LiquidAI/LFM2.5-24B-A2B
+- **ID**: model_liquidai_lfm2_5_24b_a2b
+- **Source**: 
+
 ## LiquidAI/LFM2.5-24B-A2B-FP8
 - **ID**: model_liquidai_lfm2_5_24b_a2b_fp8
 - **Source**: 
@@ -3376,12 +3388,20 @@
 - **ID**: model_lukebailey181pub_dspv2_guide
 - **Source**: 
 
+## lxe/DeepSeek-V4.1-Flash-1017-dsx-t16
+- **ID**: model_lxe_deepseek_v4_1_flash_1017_dsx_t16
+- **Source**: 
+
 ## LykosAI/GPT-Prompt-Expansion-Fooocus-v2
 - **ID**: model_lykosai_gpt_prompt_expansion_fooocus_v2
 - **Source**: 
 
 ## m15dg/local-ai-toolkit
 - **ID**: model_m15dg_local_ai_toolkit
+- **Source**: 
+
+## m8than/Mistral-Nemo-Instruct-2407-lenient-chatfix
+- **ID**: model_m8than_mistral_nemo_instruct_2407_lenient_chatfix
 - **Source**: 
 
 ## m-a-p/OpenCodeInterpreter-DS-6.7B
@@ -3808,6 +3828,10 @@
 - **ID**: model_microsoft_dialogpt_small
 - **Source**: 
 
+## microsoft/maira-2
+- **ID**: model_microsoft_maira_2
+- **Source**: 
+
 ## microsoft/phi-1_5
 - **ID**: model_microsoft_phi_1_5
 - **Source**: 
@@ -4034,6 +4058,10 @@
 
 ## mlx-community/Qwen3-8B-4bit
 - **ID**: model_mlx_community_qwen3_8b_4bit
+- **Source**: 
+
+## mlx-community/Qwen3-Embedding-0.6B-4bit-DWQ
+- **ID**: model_mlx_community_qwen3_embedding_0_6b_4bit_dwq
 - **Source**: 
 
 ## mmangkad/Qwen3.6-35B-A3B-NVFP4
@@ -5980,6 +6008,10 @@
 - **ID**: model_readyart_gemma_4_31b_it_scotoma_2_gguf
 - **Source**: 
 
+## RecursiveSI/flint
+- **ID**: model_recursivesi_flint
+- **Source**: 
+
 ## RecursiveSI/flint-int4-gguf
 - **ID**: model_recursivesi_flint_int4_gguf
 - **Source**: 
@@ -6570,6 +6602,10 @@
 
 ## tencent/Hy3-preview
 - **ID**: model_tencent_hy3_preview
+- **Source**: 
+
+## tencent/Hy-Memory-30B-A3B-GGUF
+- **ID**: model_tencent_hy_memory_30b_a3b_gguf
 - **Source**: 
 
 ## tencent/HY-MT1.5-1.8B
@@ -7460,6 +7496,10 @@
 - **ID**: model_upstage_solar_open2_250b
 - **Source**: 
 
+## upstage/Solar-Open-100B
+- **ID**: model_upstage_solar_open_100b
+- **Source**: 
+
 ## upstage/solar-pro-preview-instruct
 - **ID**: model_upstage_solar_pro_preview_instruct
 - **Source**: 
@@ -7878,6 +7918,10 @@
 
 ## zetasepic/Qwen2.5-72B-Instruct-abliterated-GGUF
 - **ID**: model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf
+- **Source**: 
+
+## zgpu-ai/zlm-v1-signal-extract
+- **ID**: model_zgpu_ai_zlm_v1_signal_extract
 - **Source**: 
 
 ## zhiqiulin/clip-flant5-xl

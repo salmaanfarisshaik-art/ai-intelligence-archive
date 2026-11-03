@@ -671,6 +671,11 @@
 - **URL**: [https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy](https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy)
 
 ## 
+- **ID**: rss_https://openai.com/index/accelerating-engineering-for-the-physical-world
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/accelerating-engineering-for-the-physical-world](https://openai.com/index/accelerating-engineering-for-the-physical-world)
+
+## 
 - **ID**: rss_https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences](https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences)
@@ -1434,6 +1439,11 @@
 - **ID**: rss_https://openai.com/index/cisco
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/cisco](https://openai.com/index/cisco)
+
+## 
+- **ID**: rss_https://openai.com/index/cisco-cyber
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/cisco-cyber](https://openai.com/index/cisco-cyber)
 
 ## 
 - **ID**: rss_https://openai.com/index/clay
@@ -3979,6 +3989,11 @@
 - **ID**: rss_https://openai.com/index/jetbrains-2025
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/jetbrains-2025](https://openai.com/index/jetbrains-2025)
+
+## 
+- **ID**: rss_https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer](https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer)
 
 ## 
 - **ID**: rss_https://openai.com/index/john-deere-justin-rose

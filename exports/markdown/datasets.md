@@ -17,6 +17,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_123123dzc_upd_url_dataset
+- **Source**: 
+
+## 
 - **ID**: dataset_1yunyi_weather
 - **Source**: 
 
@@ -1061,11 +1065,23 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_believe0029_scannetv2
+- **Source**: 
+
+## 
 - **ID**: dataset_benchflow_skillsbench_leaderboard
 - **Source**: 
 
 ## 
+- **ID**: dataset_benchflow_tmax_train4k_benchflow
+- **Source**: 
+
+## 
 - **ID**: dataset_benchmark_anon_2026_roadmapbench
+- **Source**: 
+
+## 
+- **ID**: dataset_benediktkol_ddos
 - **Source**: 
 
 ## 
@@ -1342,6 +1358,10 @@
 
 ## 
 - **ID**: dataset_cais_wmdp
+- **Source**: 
+
+## 
+- **ID**: dataset_camel_ai_seta_env
 - **Source**: 
 
 ## 
@@ -2125,6 +2145,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ekal1337_kipas_clients
+- **Source**: 
+
+## 
 - **ID**: dataset_elefantai_p2p_full_data
 - **Source**: 
 
@@ -2373,6 +2397,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_filapro_cad_recode_v1_5
+- **Source**: 
+
+## 
 - **ID**: dataset_fineenvs_hf_ml_tasksmith
 - **Source**: 
 
@@ -2542,6 +2570,10 @@
 
 ## 
 - **ID**: dataset_fudan_fmri_fmri_shape
+- **Source**: 
+
+## 
+- **ID**: dataset_fudan_fuxi_vidgen_1m
 - **Source**: 
 
 ## 
@@ -2865,6 +2897,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_haitao999_things_eeg
+- **Source**: 
+
+## 
 - **ID**: dataset_hakari_bench_results
 - **Source**: 
 
@@ -2982,6 +3018,14 @@
 
 ## 
 - **ID**: dataset_heesup_vlm_plant_sim
+- **Source**: 
+
+## 
+- **ID**: dataset_helenqu_genpairs
+- **Source**: 
+
+## 
+- **ID**: dataset_helenqu_imagenet_paste
 - **Source**: 
 
 ## 
@@ -3314,6 +3358,10 @@
 
 ## 
 - **ID**: dataset_huggingfacecode_stack_v3_train
+- **Source**: 
+
+## 
+- **ID**: dataset_huggingfacefv_finevideo
 - **Source**: 
 
 ## 
@@ -6845,6 +6893,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_near_ai_officeqa
+- **Source**: 
+
+## 
 - **ID**: dataset_neashton_ahmedml
 - **Source**: 
 
@@ -6870,6 +6922,10 @@
 
 ## 
 - **ID**: dataset_nebius_swe_rebench_v2_prs
+- **Source**: 
+
+## 
+- **ID**: dataset_nebulaanish_quick_canvas_benchmark
 - **Source**: 
 
 ## 
@@ -7721,6 +7777,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_patrickvonplaten_images
+- **Source**: 
+
+## 
 - **ID**: dataset_patrickvonplaten_librispeech_asr_dummy
 - **Source**: 
 
@@ -7922,6 +7982,10 @@
 
 ## 
 - **ID**: dataset_pmchard_3d_adam
+- **Source**: 
+
+## 
+- **ID**: dataset_policyengine_populace_us
 - **Source**: 
 
 ## 
@@ -8309,6 +8373,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ritwika96_qwen3_8_27b_arc1120_base_traces_20261025
+- **Source**: 
+
+## 
 - **ID**: dataset_rl_llm_wiki_knowledge_base
 - **Source**: 
 
@@ -8346,6 +8414,10 @@
 
 ## 
 - **ID**: dataset_roisincrtai_ptb_xl_1_0_3
+- **Source**: 
+
+## 
+- **ID**: dataset_romanticemchkimsabu_video_copyright_dataset
 - **Source**: 
 
 ## 
@@ -9329,6 +9401,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_theairlabcmu_tartanair
+- **Source**: 
+
+## 
 - **ID**: dataset_theairlabcmu_tartanair2
 - **Source**: 
 
@@ -9749,7 +9825,19 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_voxel51_dacl10k
+- **Source**: 
+
+## 
+- **ID**: dataset_voxel51_food101
+- **Source**: 
+
+## 
 - **ID**: dataset_voxel51_insplad
+- **Source**: 
+
+## 
+- **ID**: dataset_voxel51_lvis
 - **Source**: 
 
 ## 
@@ -9758,6 +9846,10 @@
 
 ## 
 - **ID**: dataset_voxel51_office_home
+- **Source**: 
+
+## 
+- **ID**: dataset_voxel51_oxfordflowers102
 - **Source**: 
 
 ## 
@@ -9890,6 +9982,10 @@
 
 ## 
 - **ID**: dataset_wikimedia_wikipedia
+- **Source**: 
+
+## 
+- **ID**: dataset_wildflow_sweet_corals
 - **Source**: 
 
 ## 
@@ -10138,6 +10234,10 @@
 
 ## 
 - **ID**: dataset_yentinglin_aime_2025
+- **Source**: 
+
+## 
+- **ID**: dataset_yhcelebi_enterprise_data
 - **Source**: 
 
 ## 
