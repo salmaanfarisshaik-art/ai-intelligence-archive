@@ -2060,6 +2060,13 @@
       "score": 1.5
     }
   ],
+  "zgpu": [
+    {
+      "entity_id": "model_zgpu_ai_zlm_v1_signal_extract",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "zgt": [
     {
       "entity_id": "dataset_medotter_pi_cai",
@@ -3214,6 +3221,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm2_5_24b_a2b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm2_5_24b_a2b_fp8",
       "match_type": "exact",
       "score": 1.5
@@ -3700,6 +3712,11 @@
     },
     {
       "entity_id": "model_taronaeo_granite_4_2_3b_be_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_tencent_hy_memory_30b_a3b_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5043,6 +5060,11 @@
     }
   ],
   "zlm": [
+    {
+      "entity_id": "model_zgpu_ai_zlm_v1_signal_extract",
+      "match_type": "exact",
+      "score": 2.0
+    },
     {
       "entity_id": "dataset_cis_lmu_glot500",
       "match_type": "exact",

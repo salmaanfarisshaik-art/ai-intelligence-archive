@@ -1,0 +1,25 @@
+{
+  "_id": "6addfd2e3357f45be8e7fed7",
+  "id": "ritwika96/qwen3.8-27b-arc1120-base-traces-20261025",
+  "author": "ritwika96",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-28T03:06:22.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "114b14587263442b15fe813bec1f39eaa9e5fb1e",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tQwen base evaluation: 1,120 public ARC tasks\n\t\n\nModel: Qwen/Qwen3.8-27B, revision 1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0. No adapters. Thinking enabled. Four BF16 tensor-parallel replicas (two H200 GPUs each), with up to 32 concurrent solves per replica.\nInventory: 1,000 public training tasks and 120 public evaluation tasks, 1,243 query grids. These are public-task diagnostic scores, not a private benchmark submission. Source hashes are in inventory.json.\nEach solve has 32,768… See the full description on the dataset page: https://huggingface.co/datasets/ritwika96/qwen3.8-27b-arc1120-base-traces-20261025.",
+  "downloads": 39890,
+  "tags": [
+    "language:en",
+    "region:us",
+    "arc-agi",
+    "reasoning",
+    "code-generation",
+    "evaluation"
+  ],
+  "createdAt": "2026-10-25T12:59:26.000Z",
+  "key": "",
+  "unique_id": "dataset_ritwika96_qwen3_8_27b_arc1120_base_traces_20261025",
+  "schema_version": "1.0"
+}

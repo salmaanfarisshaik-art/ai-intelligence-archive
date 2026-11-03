@@ -206,6 +206,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_yhcelebi_enterprise_data",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_ds_6785649a41a64e1582b8bb05",
       "match_type": "exact",
       "score": 2.0
@@ -1483,6 +1488,13 @@
       "score": 1.0
     }
   ],
+  "3090": [
+    {
+      "entity_id": "model_lxe_deepseek_v4_1_flash_1017_dsx_t16",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "30932": [
     {
       "entity_id": "alpaca_7611735572052562527",
@@ -1750,6 +1762,11 @@
     },
     {
       "entity_id": "model_stelterlab_qwen3_coder_30b_a3b_instruct_awq",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_tencent_hy_memory_30b_a3b_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -2343,6 +2360,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_yhcelebi_enterprise_data",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "hf_ds_67b9d203047d98a072b4e68c",
       "match_type": "exact",
       "score": 1.0
@@ -2651,6 +2673,11 @@
     },
     {
       "entity_id": "arxiv_2607.27205v1",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "dataset_ritwika96_qwen3_8_27b_arc1120_base_traces_20261025",
       "match_type": "exact",
       "score": 2.0
     },
@@ -3012,6 +3039,13 @@
       "score": 1.0
     }
   ],
+  "3255": [
+    {
+      "entity_id": "dataset_camel_ai_seta_env",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "326": [
     {
       "entity_id": "dataset_abtinzandi_obstacle_detection_dataset_yolo",
@@ -3105,6 +3139,11 @@
     },
     {
       "entity_id": "model_bartowski_qwen2_5_32b_instruct_gguf",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_bartowski_qwen2_5_coder_32b_instruct_abliterated_gguf",
       "match_type": "exact",
       "score": 5.0
     },
@@ -4660,6 +4699,16 @@
       "entity_id": "dataset_bangumibase_onepiece",
       "match_type": "exact",
       "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voxel51_food101",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voxel51_lvis",
+      "match_type": "exact",
+      "score": 1.0
     }
   ],
   "350bt": [
@@ -4735,6 +4784,13 @@
       "score": 2.0
     }
   ],
+  "352gb": [
+    {
+      "entity_id": "dataset_wildflow_sweet_corals",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "354": [
     {
       "entity_id": "alpaca_1350412632579793402",
@@ -4750,6 +4806,11 @@
   "355": [
     {
       "entity_id": "dataset_neashton_windsorml",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "hf_ds_67a9e0d357ebdf85feb590c1",
       "match_type": "exact",
       "score": 1.0
     }
@@ -5091,6 +5152,13 @@
       "entity_id": "model_tvall43_qwen3_6_14b_a3b_fablevibes_gguf",
       "match_type": "exact",
       "score": 1.5
+    }
+  ],
+  "35k": [
+    {
+      "entity_id": "dataset_voxel51_lvis",
+      "match_type": "exact",
+      "score": 2.0
     }
   ],
   "35px": [
@@ -7161,17 +7229,17 @@
   ],
   "3d": [
     {
-      "entity_id": "dataset_ilabai_3dcodeverse",
-      "match_type": "exact",
-      "score": 10.5
-    },
-    {
       "entity_id": "dataset_fudan_fmri_fmri_shape",
       "match_type": "exact",
       "score": 10.0
     },
     {
       "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
+      "match_type": "exact",
+      "score": 9.5
+    },
+    {
+      "entity_id": "dataset_wildflow_sweet_corals",
       "match_type": "exact",
       "score": 9.5
     },
@@ -9042,11 +9110,6 @@
       "entity_id": "dataset_3dcodeverse_3dcodeverse_2m",
       "match_type": "exact",
       "score": 4.0
-    },
-    {
-      "entity_id": "dataset_ilabai_3dcodeverse",
-      "match_type": "exact",
-      "score": 3.0
     },
     {
       "entity_id": "arxiv_2610.22341v1",

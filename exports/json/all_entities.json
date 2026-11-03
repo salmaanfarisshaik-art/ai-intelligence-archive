@@ -328907,6 +328907,25 @@
     "local_path": "datasets/lichess/hf_ds_66f27f215dfdba5747322656.json"
   },
   {
+    "id": "hf_ds_66f8ee950d2109c10ec04b30",
+    "title": "tropos-labs/eigen-face-dataset-256",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/tropos-labs"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/tropos-labs/eigen-face-dataset-256",
+    "local_path": "datasets/tropos-labs/hf_ds_66f8ee950d2109c10ec04b30.json"
+  },
+  {
     "id": "hf_ds_6700058973753b82f145eb1d",
     "title": "jhu-clsp/ettin-pretraining-data",
     "category": "dataset",
@@ -329195,6 +329214,30 @@
     },
     "source_url": "https://huggingface.co/datasets/agents-course/course-images",
     "local_path": "datasets/agents-course/hf_ds_679255cc5a8e868cbe62569f.json"
+  },
+  {
+    "id": "hf_ds_67a9e0d357ebdf85feb590c1",
+    "title": "neashton/windsorml",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2407.19320",
+      "doi:10.57967/hf/7644",
+      "license:cc-by-sa-4.0",
+      "modality:image",
+      "region:us",
+      "size_categories:100K<n<1M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/neashton"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/neashton/windsorml",
+    "local_path": "datasets/neashton/hf_ds_67a9e0d357ebdf85feb590c1.json"
   },
   {
     "id": "hf_ds_67ab2149bc76a9aab3ff90ed",
@@ -329688,6 +329731,27 @@
     },
     "source_url": "https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K",
     "local_path": "datasets/shenyunhang/hf_ds_67da25756b2007f151daeca0.json"
+  },
+  {
+    "id": "hf_ds_67e193c71ac8060c365af303",
+    "title": "OPR-Project/OxfordRobotCar_OpenPlaceRecognition",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2002.10152",
+      "license:cc-by-nc-sa-4.0",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/OPR-Project"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/OPR-Project/OxfordRobotCar_OpenPlaceRecognition",
+    "local_path": "datasets/opr-project/hf_ds_67e193c71ac8060c365af303.json"
   },
   {
     "id": "hf_ds_67e58fa6625f0f6c8447f37c",
@@ -330944,13 +331008,19 @@
       "benchmarks",
       "evalevalai",
       "evaluation",
+      "format:parquet",
       "leaderboards",
+      "library:datasets",
+      "library:mlcroissant",
+      "library:pandas",
+      "library:polars",
       "license:mit",
       "meta-evaluation",
+      "modality:text",
       "model-evaluation",
       "multilingual",
       "region:us",
-      "size_categories:10K<n<100K",
+      "size_categories:1K<n<10K",
       "source_datasets:original",
       "task_categories:other"
     ],
@@ -650627,6 +650697,21 @@
     },
     "source_url": "https://openai.com/index/hebbia",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_hebbia.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/heimstaden",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/heimstaden",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_heimstaden.json"
   },
   {
     "id": "rss_https://openai.com/index/helen-toner-joins",

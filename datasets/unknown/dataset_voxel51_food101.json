@@ -1,0 +1,31 @@
+{
+  "_id": "66886886eef960a979a13b5a",
+  "id": "Voxel51/Food101",
+  "author": "Voxel51",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-07-08T19:39:30.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "ca43fa0a4be79855e8210cd50f809d45ed379b27",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Food-101\n\t\n\n\nThis is a FiftyOne dataset with 35000 samples.\nNote: This dataset is subset of the full Food101 dataset. The recipe notebook for creating this dataset can be found here\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset =… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/Food101.",
+  "downloads": 44053,
+  "tags": [
+    "task_categories:image-classification",
+    "language:en",
+    "size_categories:10K<n<100K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "library:fiftyone",
+    "region:us",
+    "fiftyone",
+    "image",
+    "image-classification"
+  ],
+  "createdAt": "2024-07-05T21:41:26.000Z",
+  "key": "",
+  "unique_id": "dataset_voxel51_food101",
+  "schema_version": "1.0"
+}

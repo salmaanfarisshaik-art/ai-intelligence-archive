@@ -418,6 +418,12 @@
 - **URL**: [https://huggingface.co/datasets/Lichess/standard-chess-games](https://huggingface.co/datasets/Lichess/standard-chess-games)
 - **Tags**: chess, format:parquet, game, games, library:dask, library:datasets, library:mlcroissant, library:polars, license:cc0-1.0, lichess, modality:tabular, modality:text, region:us, size_categories:1B<n<10B, tabular
 
+## tropos-labs/eigen-face-dataset-256
+- **ID**: hf_ds_66f8ee950d2109c10ec04b30
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/tropos-labs/eigen-face-dataset-256](https://huggingface.co/datasets/tropos-labs/eigen-face-dataset-256)
+- **Tags**: region:us
+
 ## jhu-clsp/ettin-pretraining-data
 - **ID**: hf_ds_6700058973753b82f145eb1d
 - **Source**: HuggingFace Datasets
@@ -490,6 +496,12 @@
 - **URL**: [https://huggingface.co/datasets/agents-course/course-images](https://huggingface.co/datasets/agents-course/course-images)
 - **Tags**: format:imagefolder, library:datasets, library:mlcroissant, modality:image, region:us, size_categories:n<1K
 
+## neashton/windsorml
+- **ID**: hf_ds_67a9e0d357ebdf85feb590c1
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/neashton/windsorml](https://huggingface.co/datasets/neashton/windsorml)
+- **Tags**: arxiv:2407.19320, doi:10.57967/hf/7644, license:cc-by-sa-4.0, modality:image, region:us, size_categories:100K<n<1M
+
 ## agibot-world/AgiBotWorld-Beta
 - **ID**: hf_ds_67ab2149bc76a9aab3ff90ed
 - **Source**: HuggingFace Datasets
@@ -561,6 +573,12 @@
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K](https://huggingface.co/datasets/shenyunhang/VoiceAssistant-400K)
 - **Tags**: license:apache-2.0, region:us
+
+## OPR-Project/OxfordRobotCar_OpenPlaceRecognition
+- **ID**: hf_ds_67e193c71ac8060c365af303
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/OPR-Project/OxfordRobotCar_OpenPlaceRecognition](https://huggingface.co/datasets/OPR-Project/OxfordRobotCar_OpenPlaceRecognition)
+- **Tags**: arxiv:2002.10152, license:cc-by-nc-sa-4.0, region:us
 
 ## tasl-lab/uniocc
 - **ID**: hf_ds_67e58fa6625f0f6c8447f37c
@@ -860,7 +878,7 @@
 - **ID**: hf_ds_698c9e10c98ef9ef0a6f27b3
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/evaleval/EEE_datastore](https://huggingface.co/datasets/evaleval/EEE_datastore)
-- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, leaderboards, license:mit, meta-evaluation, model-evaluation, multilingual, region:us, size_categories:10K<n<100K, source_datasets:original, task_categories:other
+- **Tags**: annotations_creators:found, annotations_creators:machine-generated, arxiv:2606.14516, benchmarks, evalevalai, evaluation, format:parquet, leaderboards, library:datasets, library:mlcroissant, library:pandas, library:polars, license:mit, meta-evaluation, modality:text, model-evaluation, multilingual, region:us, size_categories:1K<n<10K, source_datasets:original, task_categories:other
 
 ## sjkhfuk/rdp
 - **ID**: hf_ds_6990e1d8b5d312712696ef21

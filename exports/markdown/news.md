@@ -3081,6 +3081,11 @@
 - **URL**: [https://openai.com/index/hebbia](https://openai.com/index/hebbia)
 
 ## 
+- **ID**: rss_https://openai.com/index/heimstaden
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/heimstaden](https://openai.com/index/heimstaden)
+
+## 
 - **ID**: rss_https://openai.com/index/helen-toner-joins
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/helen-toner-joins](https://openai.com/index/helen-toner-joins)

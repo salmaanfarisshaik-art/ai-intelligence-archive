@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:34:57Z",
+  "generated_at": "2026-11-03T15:51:09Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1042,6 +1042,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_atomicchat_deepseek_v4_1_flash_1017_uncensored_gsq_rco_gguf",
+      "target_id": "hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_atomicchat_lfm2_5_24b_a2b_uncensored_gguf",
       "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
       "type": "derived_from"
@@ -1594,6 +1599,11 @@
     {
       "source_id": "model_bartowski_qwen2_5_coder_1_5b_instruct_gguf",
       "target_id": "hf_Qwen_Qwen2.5-Coder-1.5B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_qwen2_5_coder_32b_instruct_abliterated_gguf",
+      "target_id": "hf_huihui-ai_Qwen2.5-Coder-32B-Instruct-abliterated",
       "type": "derived_from"
     },
     {
@@ -3957,6 +3967,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_liquidai_lfm2_5_24b_a2b",
+      "target_id": "hf_LiquidAI_LFM2.5-24B-A2B-Base",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_liquidai_lfm2_5_24b_a2b_fp8",
       "target_id": "hf_LiquidAI_LFM2.5-24B-A2B",
       "type": "derived_from"
@@ -4737,6 +4752,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_lxe_deepseek_v4_1_flash_1017_dsx_t16",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ma7ee7_qwen3_8_4b_distilled_gguf",
       "target_id": "hf_Ma7ee7_Qwen3.8_4B_Distilled",
       "type": "derived_from"
@@ -5279,6 +5299,11 @@
     {
       "source_id": "model_mlx_community_qwen3_8b_4bit",
       "target_id": "hf_Qwen_Qwen3-8B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_mlx_community_qwen3_embedding_0_6b_4bit_dwq",
+      "target_id": "hf_Qwen_Qwen3-Embedding-0.6B",
       "type": "derived_from"
     },
     {
@@ -8887,6 +8912,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_tencent_hy_memory_30b_a3b_gguf",
+      "target_id": "hf_tencent_Hy-Memory-30B-A3B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16",
       "type": "derived_from"
@@ -10414,6 +10444,11 @@
     {
       "source_id": "model_zetasepic_qwen2_5_72b_instruct_abliterated_gguf",
       "target_id": "hf_Qwen_Qwen2.5-72B-Instruct",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_zgpu_ai_zlm_v1_signal_extract",
+      "target_id": "hf_google_flan-t5-small",
       "type": "derived_from"
     },
     {

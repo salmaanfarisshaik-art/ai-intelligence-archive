@@ -1,0 +1,26 @@
+{
+  "_id": "6a2a4e1cf8f006af20e319db",
+  "id": "policyengine/populace-us",
+  "author": "policyengine",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-23T07:51:55.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "fb8ba90e7f576ad0bb3f29b5aff2d1ec7007e912",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tpopulace-us\n\t\n\nThe populace-built US population: a calibrated synthetic microdataset for\nPolicyEngine-US, built by the\npopulace stack entirely from\nprimary sources — the enhanced CPS appears only as the benchmark this file is\nscored against, never as a build input. It loads anywhere the enhanced CPS\nloads (an API-compatible alternative population), with its own calibrated\nweights — and its own strengths and gaps, both documented below.\n\n\t\n\t\t\n\t\n\t\n\t\tLoad it\n\t\n\npip install… See the full description on the dataset page: https://huggingface.co/datasets/policyengine/populace-us.",
+  "downloads": 33846,
+  "tags": [
+    "license:mit",
+    "region:us",
+    "policyengine",
+    "microsimulation",
+    "synthetic-population",
+    "tax-benefit",
+    "united-states"
+  ],
+  "createdAt": "2026-06-11T05:56:44.000Z",
+  "key": "",
+  "unique_id": "dataset_policyengine_populace_us",
+  "schema_version": "1.0"
+}

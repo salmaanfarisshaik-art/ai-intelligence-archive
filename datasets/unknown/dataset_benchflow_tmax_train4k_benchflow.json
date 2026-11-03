@@ -1,0 +1,22 @@
+{
+  "_id": "6ab2367f6b879d7f0fae3910",
+  "id": "benchflow/tmax-train4k-benchflow",
+  "author": "benchflow",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-09-22T08:13:48.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "208bd62890de7e32e11875ce1d441a2febdd8e62",
+  "description": "4,000 tasks sampled stratified by domain and complexity from allenai/TMax-15K (ODC-BY; Tmax paper arXiv:2606.23321), converted with bench tasks migrate --remove-legacy. Training corpus for PostTrain Arena hosted runs; never an evaluation set.\n",
+  "downloads": 39620,
+  "tags": [
+    "license:odc-by",
+    "arxiv:2606.23321",
+    "region:us"
+  ],
+  "createdAt": "2026-09-22T08:04:15.000Z",
+  "key": "",
+  "unique_id": "dataset_benchflow_tmax_train4k_benchflow",
+  "schema_version": "1.0"
+}

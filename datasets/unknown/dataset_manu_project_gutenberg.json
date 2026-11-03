@@ -9,7 +9,7 @@
   "private": false,
   "sha": "164853d214065df26a630ee1ab91a0c39e461caf",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for \"Project Gutenberg\"\n\t\n\nProject Gutenberg is a library of over 70,000 free eBooks, hosted at https://www.gutenberg.org/.\nAll examples correspond to a single book, and contain a header and a footer of a few lines (delimited by a *** Start of *** and *** End of *** tags).\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nfrom datasets import load_dataset\n\nds = load_dataset(\"manu/project_gutenberg\", split=\"fr\", streaming=True)\n\nprint(next(iter(ds)))\n\n\n\t\n\t\t\n\t\n\t\n\t\tLicense\n\t\n\nFull license is… See the full description on the dataset page: https://huggingface.co/datasets/manu/project_gutenberg.",
-  "downloads": 42754,
+  "downloads": 56881,
   "tags": [
     "task_categories:text-generation",
     "language:fr",
