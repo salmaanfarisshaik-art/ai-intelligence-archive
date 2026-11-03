@@ -5526,6 +5526,11 @@
 - **URL**: [https://openai.com/index/pvh-future-of-fashion](https://openai.com/index/pvh-future-of-fashion)
 
 ## 
+- **ID**: rss_https://openai.com/index/qodo-codex-plugin
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/qodo-codex-plugin](https://openai.com/index/qodo-codex-plugin)
+
+## 
 - **ID**: rss_https://openai.com/index/quantifying-generalization-in-reinforcement-learning
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/quantifying-generalization-in-reinforcement-learning](https://openai.com/index/quantifying-generalization-in-reinforcement-learning)
@@ -5774,6 +5779,11 @@
 - **ID**: rss_https://openai.com/index/scaling-coordinated-vulnerability-disclosure
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/scaling-coordinated-vulnerability-disclosure](https://openai.com/index/scaling-coordinated-vulnerability-disclosure)
+
+## 
+- **ID**: rss_https://openai.com/index/scaling-git-at-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/scaling-git-at-openai](https://openai.com/index/scaling-git-at-openai)
 
 ## 
 - **ID**: rss_https://openai.com/index/scaling-kubernetes-to-2500-nodes

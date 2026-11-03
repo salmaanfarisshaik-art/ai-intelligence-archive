@@ -4,10 +4,10 @@
   "author": "Ciroc0",
   "disabled": false,
   "gated": false,
-  "lastModified": "2026-11-02T17:36:02.000Z",
+  "lastModified": "2026-11-03T00:13:29.000Z",
   "likes": 7,
   "private": false,
-  "sha": "abde4592d847c23bc2e90c1b802eb46a49920677",
+  "sha": "8ea00364f1352e22de7b707f2442b2e55cd4e4ae",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDMI Aarhus Predictions\n\t\n\nPrediction and frontend contract dataset for the Aarhus weather pipeline. Maintained by Ciroc0.\n\n\t\n\t\t\n\t\n\t\n\t\tPrimary files\n\t\n\n\n\t\n\t\t\nFile\nPurpose\nProduced by\n\n\n\t\t\npredictions_latest.parquet\nCurrent future + verified prediction store\ndmi-collector\n\n\nfrontend_snapshot.json\nPrimary integration contract for the Vercel frontend\ndmi-collector\n\n\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tCompatibility files\n\t\n\n\n\t\n\t\t\nFile\nStatus\nNotes\n\n\n\t\t\npredictions.parquet\nLegacy\nStill read by compatibility… See the full description on the dataset page: https://huggingface.co/datasets/Ciroc0/dmi-aarhus-predictions.",
   "downloads": 34250,
   "tags": [

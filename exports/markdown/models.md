@@ -92,6 +92,10 @@
 - **ID**: model_agentionai_qwen3_8_flash_next_ap_gguf
 - **Source**: 
 
+## agentionai/Qwen3.8-Flash-Next-Gyro-Coder-GGUF
+- **ID**: model_agentionai_qwen3_8_flash_next_gyro_coder_gguf
+- **Source**: 
+
 ## agentionai/Qwen3.8-Flash-Next-ROCmFP4-FAST-imatrix-GGUF
 - **ID**: model_agentionai_qwen3_8_flash_next_rocmfp4_fast_imatrix_gguf
 - **Source**: 
@@ -960,6 +964,10 @@
 - **ID**: model_bullpoint_qwen3_coder_next_awq_4bit
 - **Source**: 
 
+## bumbuk/Qwen3.5-4B-AWQ-text-flat
+- **ID**: model_bumbuk_qwen3_5_4b_awq_text_flat
+- **Source**: 
+
 ## ByteDance/Ouro-1.4B
 - **ID**: model_bytedance_ouro_1_4b
 - **Source**: 
@@ -1224,6 +1232,10 @@
 - **ID**: model_cyphertroopers_cph_community_7b
 - **Source**: 
 
+## dark-side-of-the-code/Qwen3-Coder-30B-A3B-Instruct-AWQ
+- **ID**: model_dark_side_of_the_code_qwen3_coder_30b_a3b_instruct_awq
+- **Source**: 
+
 ## datajuicer/LLaMA-1B-dj-refine-150B
 - **ID**: model_datajuicer_llama_1b_dj_refine_150b
 - **Source**: 
@@ -1282,6 +1294,10 @@
 
 ## dealignai/GLM-5.3-CYBERSECURITY-FP8
 - **ID**: model_dealignai_glm_5_3_cybersecurity_fp8
+- **Source**: 
+
+## dealignai/Nanbeige4.3-33B-UNCENSORED-GGUF
+- **ID**: model_dealignai_nanbeige4_3_33b_uncensored_gguf
 - **Source**: 
 
 ## decart-ai/Kimi-K2.7-Code-NVFP4
@@ -1494,6 +1510,10 @@
 
 ## dicta-il/DictaLM-3.0-1.7B-Instruct
 - **ID**: model_dicta_il_dictalm_3_0_1_7b_instruct
+- **Source**: 
+
+## Diffuspace/Clover-35B-A3B-Preview-GGUF
+- **ID**: model_diffuspace_clover_35b_a3b_preview_gguf
 - **Source**: 
 
 ## distilbert/distilgpt2
@@ -4772,6 +4792,10 @@
 - **ID**: model_optimum_intel_internal_testing_tiny_random_phi3forcausallm
 - **Source**: 
 
+## orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF
+- **ID**: model_orcarouter_deepseek_v4_1_flash_1017_abliterated_gguf
+- **Source**: 
+
 ## orcarouter/GLM-5.3-Flash-Uncensored-FP8
 - **ID**: model_orcarouter_glm_5_3_flash_uncensored_fp8
 - **Source**: 
@@ -6566,6 +6590,10 @@
 
 ## tencent/Hy-MT2-7B
 - **ID**: model_tencent_hy_mt2_7b
+- **Source**: 
+
+## TensorFold/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-MLX-4bit
+- **ID**: model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit
 - **Source**: 
 
 ## TheBloke/deepseek-coder-6.7B-base-AWQ
