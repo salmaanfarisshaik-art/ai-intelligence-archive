@@ -49,6 +49,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_a1557811266_per_400k
+- **Source**: 
+
+## 
 - **ID**: dataset_aaaad1_banned_historical_archives
 - **Source**: 
 
@@ -1069,6 +1073,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_benchcad_benchcad
+- **Source**: 
+
+## 
 - **ID**: dataset_benchflow_skillsbench_leaderboard
 - **Source**: 
 
@@ -1678,6 +1686,10 @@
 
 ## 
 - **ID**: dataset_cot_leaderboard_cot_eval_traces_2_0
+- **Source**: 
+
+## 
+- **ID**: dataset_cqilab_gensc_6g
 - **Source**: 
 
 ## 
@@ -2389,6 +2401,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_ffffffsffwfwffwfw_wty_release
+- **Source**: 
+
+## 
 - **ID**: dataset_ffzerohua_tenhou_scc
 - **Source**: 
 
@@ -2470,6 +2486,10 @@
 
 ## 
 - **ID**: dataset_fleaven_retargeted_amass_for_robotics
+- **Source**: 
+
+## 
+- **ID**: dataset_flex_pi_robotwin_3d
 - **Source**: 
 
 ## 
@@ -2610,6 +2630,10 @@
 
 ## 
 - **ID**: dataset_gair_darwin_cc
+- **Source**: 
+
+## 
+- **ID**: dataset_gasstation_gs_videos_v4
 - **Source**: 
 
 ## 
@@ -5629,6 +5653,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_l1997i_durlar_s
+- **Source**: 
+
+## 
 - **ID**: dataset_l6fg84ey_ba30fa25
 - **Source**: 
 
@@ -5922,6 +5950,10 @@
 
 ## 
 - **ID**: dataset_liyucheng_goodreads
+- **Source**: 
+
+## 
+- **ID**: dataset_lizb6626_arb_objaverse
 - **Source**: 
 
 ## 
@@ -6277,6 +6309,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_manhdungcr7_aic2026_keyframes
+- **Source**: 
+
+## 
 - **ID**: dataset_manu_project_gutenberg
 - **Source**: 
 
@@ -6558,6 +6594,10 @@
 
 ## 
 - **ID**: dataset_mint_sjtu_rw_rl_dataset
+- **Source**: 
+
+## 
+- **ID**: dataset_mippia_haim
 - **Source**: 
 
 ## 
@@ -7881,6 +7921,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_phillyweatherguy_baroclinic_hrrr_data
+- **Source**: 
+
+## 
 - **ID**: dataset_phuckhang384234_phuckhang384234
 - **Source**: 
 
@@ -8409,6 +8453,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_rogerdehe_mktdata_binance_2026
+- **Source**: 
+
+## 
 - **ID**: dataset_roisincrtai_ptb_xl_1_0_1
 - **Source**: 
 
@@ -8626,6 +8674,10 @@
 
 ## 
 - **ID**: dataset_sbaiiiiii_looked_up
+- **Source**: 
+
+## 
+- **ID**: dataset_sberroboticscenter_greenchallengedata
 - **Source**: 
 
 ## 
@@ -9813,6 +9865,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_vlm2vec_mvbench
+- **Source**: 
+
+## 
 - **ID**: dataset_voiceofml_vomebook
 - **Source**: 
 
@@ -9850,6 +9906,10 @@
 
 ## 
 - **ID**: dataset_voxel51_oxfordflowers102
+- **Source**: 
+
+## 
+- **ID**: dataset_voxel51_pidray
 - **Source**: 
 
 ## 
@@ -10074,6 +10134,10 @@
 
 ## 
 - **ID**: dataset_x779_danbooruwildcards
+- **Source**: 
+
+## 
+- **ID**: dataset_x_humanoid_robogene
 - **Source**: 
 
 ## 

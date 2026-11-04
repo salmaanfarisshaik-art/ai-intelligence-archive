@@ -1886,6 +1886,11 @@
 - **URL**: [https://openai.com/index/developers-can-now-submit-apps-to-chatgpt](https://openai.com/index/developers-can-now-submit-apps-to-chatgpt)
 
 ## 
+- **ID**: rss_https://openai.com/index/devrev-enterprise-self-service
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/devrev-enterprise-self-service](https://openai.com/index/devrev-enterprise-self-service)
+
+## 
 - **ID**: rss_https://openai.com/index/diagnose-rare-childhood-diseases
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/diagnose-rare-childhood-diseases](https://openai.com/index/diagnose-rare-childhood-diseases)

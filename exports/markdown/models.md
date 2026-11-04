@@ -612,6 +612,10 @@
 - **ID**: model_bartowski_ling_3_0_tiny_gguf
 - **Source**: 
 
+## bartowski/LiquidAI_LFM2.5-1.2B-Instruct-GGUF
+- **ID**: model_bartowski_liquidai_lfm2_5_1_2b_instruct_gguf
+- **Source**: 
+
 ## bartowski/Llama-3.2-1B-Instruct-GGUF
 - **ID**: model_bartowski_llama_3_2_1b_instruct_gguf
 - **Source**: 
@@ -1912,6 +1916,10 @@
 - **ID**: model_featherless_chat_models_llama2_13b_chat_hf
 - **Source**: 
 
+## FenomAI/Ornith-1.5-35B-A3B-NVFP4
+- **ID**: model_fenomai_ornith_1_5_35b_a3b_nvfp4
+- **Source**: 
+
 ## FINAL-Bench/POCKET-26B-GGUF
 - **ID**: model_final_bench_pocket_26b_gguf
 - **Source**: 
@@ -1974,6 +1982,10 @@
 
 ## ggml-org/Qwen3-0.6B-GGUF
 - **ID**: model_ggml_org_qwen3_0_6b_gguf
+- **Source**: 
+
+## ggml-org/Qwen3-Coder-30B-A3B-Instruct-GGUF
+- **ID**: model_ggml_org_qwen3_coder_30b_a3b_instruct_gguf
 - **Source**: 
 
 ## ggml-org/stories15M_MOE
@@ -2610,6 +2622,10 @@
 
 ## Isotr0py/deepseek-vl2-tiny
 - **ID**: model_isotr0py_deepseek_vl2_tiny
+- **Source**: 
+
+## ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF
+- **ID**: model_ista_daslab_deepseek_v4_1_flash_1017_gsq_rco_coder_gguf
 - **Source**: 
 
 ## ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF
@@ -4092,6 +4108,10 @@
 - **ID**: model_modularai_smollm_135m_instruct_fp32
 - **Source**: 
 
+## MongoDB/voyage-4-nano
+- **ID**: model_mongodb_voyage_4_nano
+- **Source**: 
+
 ## moondream/moondream3-preview
 - **ID**: model_moondream_moondream3_preview
 - **Source**: 
@@ -4540,6 +4560,10 @@
 - **ID**: model_nvidia_nvidia_nemotron_labs_3_puzzle_75b_a9b_nvfp4
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-Labs-Dory1.0-4B-GGUF
+- **ID**: model_nvidia_nvidia_nemotron_labs_dory1_0_4b_gguf
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-Nano-12B-v2
 - **ID**: model_nvidia_nvidia_nemotron_nano_12b_v2
 - **Source**: 
@@ -4764,8 +4788,16 @@
 - **ID**: model_openbmb_minicpm_2b_sft_bf16
 - **Source**: 
 
+## openbmb/MiniCPM-V-4.7-1B-DSpark
+- **ID**: model_openbmb_minicpm_v_4_7_1b_dspark
+- **Source**: 
+
 ## openbmb/MiniCPM-V-4.7-35B-A3B-DSpark
 - **ID**: model_openbmb_minicpm_v_4_7_35b_a3b_dspark
+- **Source**: 
+
+## openbmb/MiniCPM-V-4.7-35B-A3B-DSpark-gguf
+- **ID**: model_openbmb_minicpm_v_4_7_35b_a3b_dspark_gguf
 - **Source**: 
 
 ## openchat/openchat-3.5-1210
