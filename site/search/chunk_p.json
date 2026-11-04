@@ -10820,6 +10820,11 @@
   ],
   "paid": [
     {
+      "entity_id": "rss_https://openai.com/ads/customers/evernote",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "alpaca_-1097674460270847411",
       "match_type": "exact",
       "score": 1.0
@@ -26523,6 +26528,11 @@
       "score": 3.5
     },
     {
+      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
+      "match_type": "exact",
+      "score": 3.5
+    },
+    {
       "entity_id": "dataset_mlfoundations_dclm_baseline_1_0_parquet",
       "match_type": "exact",
       "score": 3.5
@@ -26821,11 +26831,6 @@
       "entity_id": "dataset_yhcelebi_enterprise_data",
       "match_type": "exact",
       "score": 2.5
-    },
-    {
-      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
-      "match_type": "exact",
-      "score": 2.0
     },
     {
       "entity_id": "dataset_e4drr_gik_ecmwf_par",
@@ -28759,11 +28764,6 @@
     },
     {
       "entity_id": "dataset_stanfordnlp_sst2",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },
@@ -58103,6 +58103,11 @@
     },
     {
       "entity_id": "hf_ds_6a5466cdd7c4631ab9b28b80",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "rss_https://openai.com/ads/customers/evernote",
       "match_type": "exact",
       "score": 1.0
     },
@@ -119203,6 +119208,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "dataset_ciroc0_dmi_aarhus_predictions",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_clinc_clinc_oos",
       "match_type": "exact",
       "score": 1.5
@@ -121584,11 +121594,6 @@
     },
     {
       "entity_id": "dataset_sterzhang_pvit_3m",
-      "match_type": "exact",
-      "score": 1.5
-    },
-    {
-      "entity_id": "dataset_stringfellow_fusion_dw",
       "match_type": "exact",
       "score": 1.5
     },

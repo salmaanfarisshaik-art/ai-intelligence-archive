@@ -276,6 +276,11 @@
 - **URL**: [https://openai.com/academy/writing](https://openai.com/academy/writing)
 
 ## 
+- **ID**: rss_https://openai.com/ads/customers/evernote
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/ads/customers/evernote](https://openai.com/ads/customers/evernote)
+
+## 
 - **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)
