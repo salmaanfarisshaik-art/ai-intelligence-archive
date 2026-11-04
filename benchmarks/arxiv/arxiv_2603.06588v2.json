@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2603.06588v2",
+  "schema_version": "1.0",
+  "name": "vLLM Hook v1: A Plug-in for Programming Model Internals on vLLM",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2603.06588v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2603.06588v2",
+    "updated": "2026-11-03T17:53:11Z",
+    "published": "2026-02-02T16:34:13Z",
+    "title": "vLLM Hook v1: A Plug-in for Programming Model Internals on vLLM",
+    "summary": "Modern artificial intelligence models are deployed on inference engines to optimize runtime efficiency and resource allocation, particularly for transformer-based large language models. The vLLM project is a major open-source library to support model serving and inference. However, the current implementation of vLLM limits programmability of the internal states of deployed models. This prevents the use of popular test-time model alignment and enhancement methods. For example, it prevents the detection of adversarial prompts based on attention patterns or the adjustment of model responses based on activation steering. To bridge this critical gap, we present vLLM Hook, an opensource plug-in to enable the programming of internal states for vLLM models. Based on a configuration file specifying which internal states to capture, vLLM Hook provides seamless integration to vLLM and supports two essential features: passive programming and active programming. For passive programming, vLLM Hook probes the selected internal states for subsequent analysis, while keeping the model generation intact. For active programming, vLLM Hook enables efficient intervention of model generation by altering the selected internal states. In version 1 (named vLLM Hook MIA), the plugin runs on vLLM's V2 model runner and preserves the engine's CUDA graphs, so that capturing and steering internal states incurs only a small decoding overhead. It supports both offline use and serving through vllm serve. In addition to presenting the core functions of vLLM Hook, we demonstrate use cases including prompt injection detection, attention-based re-ranking for retrieval-augmented generation, activation steering, hidden-state probing, hallucination detection, schema linking for text-to-SQL, and tool-call risk assessment. Finally, we welcome the community's contribution to improve vLLM Hook via https://github.com/IBM/vLLM-Hook.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:53:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2603.06588v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

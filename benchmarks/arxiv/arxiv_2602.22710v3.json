@@ -1,0 +1,31 @@
+{
+  "unique_id": "arxiv_2602.22710v3",
+  "schema_version": "1.0",
+  "name": "Same Words, Different Judgments: How Preferences Vary Across Modalities",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2602.22710v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.SD",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2602.22710v3",
+    "updated": "2026-11-03T17:54:51Z",
+    "published": "2026-02-26T07:34:15Z",
+    "title": "Same Words, Different Judgments: How Preferences Vary Across Modalities",
+    "summary": "Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences. However, evaluation protocols for such data were designed for text and have not been validated for speech. We present the first intraclass correlation coefficient (ICC)-based, controlled cross-modal study of human and synthetic preference annotations, comparing text and audio evaluations of identical semantic content across 100 prompts. We show that achieving \\textit{good} agreement within either modality (ICC(2,$k$) $\\approx$ .80) requires $\\sim$9 raters and modalities show marked differences in how people report preferences: audio raters exhibit narrower decision thresholds, reduced length bias, and more user-oriented evaluation criteria, with near-chance cross-modality agreement. We demonstrate that synthetic ratings can be used to effectively predict inter-rater agreement, thus serving as an early signal for stimulus selection and proxy for human annotations. Together, these findings argue that evaluation protocols for audio preference data require modality-specific design rather than direct adaptation from text. Code, data, and the audio corpus are available at: https://huggingface.co/datasets/sciminds/same-words-different-judgements",
+    "primary_category": "cs.SD"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:54:51Z",
+  "links": {
+    "related_models": [
+      "datasets/sciminds"
+    ],
+    "related_papers": [
+      "2602.22710v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

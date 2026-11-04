@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.01643v2",
+  "schema_version": "1.0",
+  "name": "Conditional Collapse in Sign Language Production: A Diagnostic and a Coverage Argument",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.01643v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.01643v2",
+    "updated": "2026-11-03T17:16:38Z",
+    "published": "2026-06-01T03:50:36Z",
+    "title": "Conditional Collapse in Sign Language Production: A Diagnostic and a Coverage Argument",
+    "summary": "The goal of Sign Language Production (SLP) is to translate natural language text into corresponding sign language movements performed by a virtual avatar. The quality of the generated motion is typically evaluated by a motion-space Frechet distance (FID) and back-translation BLEU score on benchmarks such as How2Sign. The existing approaches can improve both metrics substantially while the underlying generator fails to represent the input sentence, a failure we call conditional collapse. In this work we propose to evaluate the generated motion at three independent levels: (tau1) initial-pose conditioning, (tau2) output diversity, and (tau3) target faithfulness. We compute these as pairwise-distance ratios using latent representations of a frozen motion autoencoder (MoAE), judged against each dataset's own GT-vs-GT reference. We evaluate diffusion and regression SLP models on How2Sign, including a re-implemented Neural Sign Actors, and show that tau3 faithfulness is never attained, while FID varies by nearly two orders of magnitude and is uncorrelated with faithfulness. We then apply the same models and diagnostic to Phoenix-2014T, CSL-Daily, and gloss-level ASL3DWord and show that faithfulness varies proportionally to how densely the training sentences cover the test conditions (conditioning coverage) and not corpus size. The smaller but densely covered Phoenix-2014T and ASL3DWord datasets generate faithful sign motion, while CSL-Daily follows the input text yet falls short of sign language faithfulness. Using the largest, open-domain How2Sign dataset, the models collapse at every scale. We introduce two measurements of the text data that rank the corpora in the order of how densely the training sentences fill the embedding space, and how close each test sentence lies to its nearest training sentence.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:16:38Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.01643v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2607.00861v2",
+  "schema_version": "1.0",
+  "name": "TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2607.00861v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2607.00861v2",
+    "updated": "2026-11-03T17:45:23Z",
+    "published": "2026-07-01T12:25:43Z",
+    "title": "TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control",
+    "summary": "Controlling the motion of multiple objects in image-to-video (I2V) generation requires preserving object identities while enforcing adherence to distinct target trajectories. This becomes particularly challenging as the number of objects increases and their paths intersect or occlude one another. Existing approaches entangle multiple trajectories within a shared, dense conditioning signal, making object-level correspondence difficult to preserve in crowded scenes. We depart from this paradigm and enforce a strict, per object spatial constraint that isolates instances independently. Our method, TrajLoc, achieves this directly within the attention layers by substituting the cross-attention weights of each object token with a Gaussian heatmap centered on its target location at every frame. The same per object token interface carries trajectory and depth through a learned embedding and preserves identity by encoding first frame appearance in place of an object token. Evaluations across six datasets, featuring up to 20 simultaneously controlled objects and out of distribution real world scenes, demonstrate that our method consistently improves both visual fidelity and trajectory adherence. Applied to two architecturally distinct backbones (CogVideoX 5B and WaN 2.1 14B), our approach achieves average gains of +4.3 dB PSNR and a 51% reduction in trajectory end point error compared to the strongest baselines. Project page: https://sela-omer.github.io/traj-loc/",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:45:23Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2607.00861v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

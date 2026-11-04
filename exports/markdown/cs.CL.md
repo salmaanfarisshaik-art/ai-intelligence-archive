@@ -795,6 +795,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.07721v3](http://arxiv.org/abs/2605.07721v3)
 
+## Annotations Mitigate Post-Training Mode Collapse
+- **ID**: arxiv_2605.09995v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.09995v2](http://arxiv.org/abs/2605.09995v2)
+
 ## A Recipe for Long-Context Reasoning in Large Language Models via On-Policy Optimization and Distillation
 - **ID**: arxiv_2605.12227v2
 - **Source**: ArXiv
@@ -2829,6 +2834,11 @@
 - **ID**: arxiv_2608.31170v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.31170v1](http://arxiv.org/abs/2608.31170v1)
+
+## trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories
+- **ID**: arxiv_2609.00038v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.00038v4](http://arxiv.org/abs/2609.00038v4)
 
 ## Synthetic Worlds for Temporal Evaluation and Knowledge Updating in LLMs
 - **ID**: arxiv_2609.00184v2
@@ -4920,6 +4930,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03576v1](http://arxiv.org/abs/2611.03576v1)
 
+## NitiBench+: A Temporal Thai Legal Question Answering Benchmark Across 17 Domains
+- **ID**: arxiv_2611.03576v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.03576v2](http://arxiv.org/abs/2611.03576v2)
+
 ## ufakzeka-kulak: Building and Evaluating a 31.6M-Parameter Turkish Speech Recognizer from Scratch
 - **ID**: arxiv_2611.03605v1
 - **Source**: ArXiv
@@ -4929,4 +4944,44 @@
 - **ID**: arxiv_2611.03617v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03617v1](http://arxiv.org/abs/2611.03617v1)
+
+## ARLoop: Fully-Open Pre-trained Looped Transformers with Attention Residuals
+- **ID**: arxiv_2611.05234v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05234v1](http://arxiv.org/abs/2611.05234v1)
+
+## Beyond Accuracy: What Language-Subspace Interventions Capture, Remove, and Improve
+- **ID**: arxiv_2611.05278v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05278v1](http://arxiv.org/abs/2611.05278v1)
+
+## Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment
+- **ID**: arxiv_2611.05287v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05287v1](http://arxiv.org/abs/2611.05287v1)
+
+## Personas Are Not People: Identity as State, Not Attribute
+- **ID**: arxiv_2611.05292v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05292v1](http://arxiv.org/abs/2611.05292v1)
+
+## MDSKILL: Learning to Internalize Skill Memory through Multi-View Distillation for Efficient Dynamic Agent Self-Evolution
+- **ID**: arxiv_2611.05313v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05313v1](http://arxiv.org/abs/2611.05313v1)
+
+## A Circuit for In-Context Learning
+- **ID**: arxiv_2611.05344v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05344v1](http://arxiv.org/abs/2611.05344v1)
+
+## Suppressing Misaligned Behaviors in Language Models, Durably
+- **ID**: arxiv_2611.05358v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05358v1](http://arxiv.org/abs/2611.05358v1)
+
+## From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence
+- **ID**: arxiv_2611.05376v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05376v1](http://arxiv.org/abs/2611.05376v1)
 

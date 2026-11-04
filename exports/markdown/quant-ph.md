@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03596v1](http://arxiv.org/abs/2611.03596v1)
 
+## Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits
+- **ID**: arxiv_2611.05355v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05355v1](http://arxiv.org/abs/2611.05355v1)
+

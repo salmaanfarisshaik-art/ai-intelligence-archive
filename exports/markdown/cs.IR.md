@@ -250,3 +250,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37584v1](http://arxiv.org/abs/2610.37584v1)
 
+## HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation
+- **ID**: arxiv_2611.05319v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05319v1](http://arxiv.org/abs/2611.05319v1)
+

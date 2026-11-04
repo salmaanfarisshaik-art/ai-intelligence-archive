@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.05279v1",
+  "schema_version": "1.0",
+  "name": "Möbius: A Unified Motion-Language Model Bridging Understanding and Generation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.05279v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.05279v1",
+    "updated": "2026-11-03T17:59:16Z",
+    "published": "2026-11-03T17:59:16Z",
+    "title": "Möbius: A Unified Motion-Language Model Bridging Understanding and Generation",
+    "summary": "We aim to build a truly unified motion model that can understand, generate, and edit human motion within a single framework. Existing motion UMMs remain only partially unified: motion understanding is handled by a language model, while generation is often delegated to a separate diffusion module operating over learned motion latents. We introduce Möbius, which brings the entire diffusion process into the same multimodal representation space used for motion understanding. Clean motion, noisy motion, and text jointly participate in shared attention, while role-specific parameters process understanding and generation streams. Importantly, Möbius operates directly on continuous frame-level raw motion, requiring neither discrete tokenization nor a pretrained motion VAE. This simple formulation naturally supports motion captioning, text-to-motion generation, temporal completion, and instruction-guided editing within a single model. On HumanML3D, Möbius achieves state-of-the-art performance among unified motion models. Scaling to 1.7B parameters and 1,700 hours of motion data further demonstrates that our framework is both effective and scalable.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:59:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.05279v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

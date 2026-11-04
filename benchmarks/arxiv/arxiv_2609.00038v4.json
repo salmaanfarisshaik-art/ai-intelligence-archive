@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.00038v4",
+  "schema_version": "1.0",
+  "name": "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.00038v4",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.00038v4",
+    "updated": "2026-11-03T18:41:37Z",
+    "published": "2026-08-29T10:14:05Z",
+    "title": "trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories",
+    "summary": "A direct test of an LLM judge of agent trajectories injects faults into correct runs and reports recall, per fault type or by whether the fault broke the environment outcome (loud) or not (silent). Such recall can credit a judge with detection it does not have; paired discrimination, its flag rate on the faults minus its rate on the clean runs they came from, exposes this. Our testbed, a deterministic support desk with a scripted oracle and a one-step fault injector, labels all 400 trajectories exactly. A 14B judge shown only the request and final reply scores 34% to 76% recall on four fault types that leave the reply unchanged. There its input is the clean run's, so its paired discrimination is zero and that recall is its flag rate on clean runs. Splitting by outcome survival does not fix this: its loud recall of 84% is a paired +0.393 and its silent recall of 45% a paired +0.048, all from the two fault types that change the reply. Told to check each step, the same model flags every fault of those four types and 0 of 100 clean runs (95% CI up to 3.6%). It does not reliably check the reply: of four invented promises it flags one every time and the other three once in 42 faults. Shown every step but asked only about the reply, it still reaches a paired +0.69 on reply-unchanged faults, against +1.00 when told to check each step. We recommend reporting paired discrimination against clean parents, split by whether the fault reaches the judge's input and by outcome survival, and release the testbed, raw verdicts and analysis pipeline.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:41:37Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.00038v4"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

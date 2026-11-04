@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.05291v1",
+  "schema_version": "1.0",
+  "name": "Low-Density 3D Point Cloud Classification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.05291v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.05291v1",
+    "updated": "2026-11-03T18:07:11Z",
+    "published": "2026-11-03T18:07:11Z",
+    "title": "Low-Density 3D Point Cloud Classification",
+    "summary": "3D point cloud classification, a task in computer vision, has recently gained substantial interest due to its extensive applications across various domains such as augmented and virtual reality, robotics, and autonomous driving. However, classifying 3D point clouds becomes challenging in real-world scenarios where the density levels vary. These variations are due to limitations inherent to current sensing technologies and variable environmental conditions, which often prevent the capture of detailed and comprehensive geometric representations. Existing classification methods, which have demonstrated impressive results on dense point clouds, may be affected and could experience reduced performance when dealing with low-density point clouds. Addressing this challenge, this paper introduces LD-PointNet++, an architecture optimized for the classification of low-density point clouds. To pave the way for LD-PointNet++, we conduct the first benchmarking study that systematically evaluates state-of-the-art point cloud classification methods across varying densities, revealing significant performance declines in low-density environments. Experimental results on the ModelNet benchmark dataset demonstrate that LD-PointNet++ not only outperforms these methods in low-density scenarios but also demonstrates consistent accuracy above 90% across different density levels.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:07:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.05291v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

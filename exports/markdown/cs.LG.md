@@ -325,6 +325,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2603.02948v2](http://arxiv.org/abs/2603.02948v2)
 
+## vLLM Hook v1: A Plug-in for Programming Model Internals on vLLM
+- **ID**: arxiv_2603.06588v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2603.06588v2](http://arxiv.org/abs/2603.06588v2)
+
 ## MoE-SpAc: Efficient MoE Inference Based on Speculative Activation Utility in Heterogeneous Edge Scenarios
 - **ID**: arxiv_2603.09983v2
 - **Source**: ArXiv
@@ -1254,6 +1259,11 @@
 - **ID**: arxiv_2608.09828v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.09828v1](http://arxiv.org/abs/2608.09828v1)
+
+## Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference
+- **ID**: arxiv_2608.10288v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.10288v2](http://arxiv.org/abs/2608.10288v2)
 
 ## Critic-Free Pretraining for Efficient Online Reinforcement Learning Fine-Tuning
 - **ID**: arxiv_2608.10473v2
@@ -2280,6 +2290,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.17697v2](http://arxiv.org/abs/2610.17697v2)
 
+## LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification
+- **ID**: arxiv_2610.17697v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.17697v3](http://arxiv.org/abs/2610.17697v3)
+
 ## Does Pretraining Teach Chemical Language Models Chemistry?
 - **ID**: arxiv_2610.18651v2
 - **Source**: ArXiv
@@ -2459,6 +2474,11 @@
 - **ID**: arxiv_2610.26863v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.26863v1](http://arxiv.org/abs/2610.26863v1)
+
+## Scaling Graph Reasoning in Language Models with Learnable Graph Positional Encodings
+- **ID**: arxiv_2610.27439v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.27439v2](http://arxiv.org/abs/2610.27439v2)
 
 ## Physical-Variable-Informed Deep Learning for Robust Diagnosis in Industrial Fluid Transport Systems
 - **ID**: arxiv_2610.27891v1
@@ -2719,4 +2739,24 @@
 - **ID**: arxiv_2611.03592v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03592v1](http://arxiv.org/abs/2611.03592v1)
+
+## Fairness Metrics based on the AUC in Clinical Predictive AI
+- **ID**: arxiv_2611.05222v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05222v1](http://arxiv.org/abs/2611.05222v1)
+
+## Going Deeper With Memories
+- **ID**: arxiv_2611.05255v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05255v1](http://arxiv.org/abs/2611.05255v1)
+
+## LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers
+- **ID**: arxiv_2611.05304v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05304v1](http://arxiv.org/abs/2611.05304v1)
+
+## Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization
+- **ID**: arxiv_2611.05373v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05373v1](http://arxiv.org/abs/2611.05373v1)
 

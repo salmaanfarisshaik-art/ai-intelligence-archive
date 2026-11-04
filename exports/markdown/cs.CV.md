@@ -1010,6 +1010,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06192v2](http://arxiv.org/abs/2605.06192v2)
 
+## OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos
+- **ID**: arxiv_2605.07695v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.07695v2](http://arxiv.org/abs/2605.07695v2)
+
 ## Probability-Flow Distillation: Distribution Matching in Parameter Space
 - **ID**: arxiv_2605.09071v2
 - **Source**: ArXiv
@@ -1094,6 +1099,11 @@
 - **ID**: arxiv_2606.01287v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.01287v2](http://arxiv.org/abs/2606.01287v2)
+
+## Conditional Collapse in Sign Language Production: A Diagnostic and a Coverage Argument
+- **ID**: arxiv_2606.01643v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.01643v2](http://arxiv.org/abs/2606.01643v2)
 
 ## Ranking vs. Assignment: The Metric Mismatch in Multi-View Object Association
 - **ID**: arxiv_2606.02022v2
@@ -1634,6 +1644,11 @@
 - **ID**: arxiv_2606.31672v4
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.31672v4](http://arxiv.org/abs/2606.31672v4)
+
+## TrajLoc: Trajectory-Attention Localization for Multi-Object Motion Control
+- **ID**: arxiv_2607.00861v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2607.00861v2](http://arxiv.org/abs/2607.00861v2)
 
 ## VLAFlow: A Unified Training Framework for Vision-Language-Action Models via Co-training and Future Latent Alignment
 - **ID**: arxiv_2607.01586v2
@@ -7444,4 +7459,64 @@
 - **ID**: arxiv_2611.03646v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03646v1](http://arxiv.org/abs/2611.03646v1)
+
+## PLANTEUR: A Crop-Type Segmentation Benchmark for Tropical Regions
+- **ID**: arxiv_2611.05223v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05223v1](http://arxiv.org/abs/2611.05223v1)
+
+## Diagnosis by Composition: Detecting and Localizing Unseen Diseases by Composing Learned Radiological Findings
+- **ID**: arxiv_2611.05231v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05231v1](http://arxiv.org/abs/2611.05231v1)
+
+## Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems
+- **ID**: arxiv_2611.05275v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05275v1](http://arxiv.org/abs/2611.05275v1)
+
+## Möbius: A Unified Motion-Language Model Bridging Understanding and Generation
+- **ID**: arxiv_2611.05279v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05279v1](http://arxiv.org/abs/2611.05279v1)
+
+## YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction
+- **ID**: arxiv_2611.05280v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05280v1](http://arxiv.org/abs/2611.05280v1)
+
+## Anchored Rank-Adversarial Fine-Tuning Pretrained Visual Place Recognition Models
+- **ID**: arxiv_2611.05286v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05286v1](http://arxiv.org/abs/2611.05286v1)
+
+## Low-Density 3D Point Cloud Classification
+- **ID**: arxiv_2611.05291v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05291v1](http://arxiv.org/abs/2611.05291v1)
+
+## Wonder 4: A Mixture-of-Experts Recipe for Image Quality Enhancement
+- **ID**: arxiv_2611.05294v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05294v1](http://arxiv.org/abs/2611.05294v1)
+
+## OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation
+- **ID**: arxiv_2611.05348v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05348v1](http://arxiv.org/abs/2611.05348v1)
+
+## GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs
+- **ID**: arxiv_2611.05359v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05359v1](http://arxiv.org/abs/2611.05359v1)
+
+## Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments
+- **ID**: arxiv_2611.05361v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05361v1](http://arxiv.org/abs/2611.05361v1)
+
+## DreamX: Video Diffusion Model is a Universal Latent Action Learner
+- **ID**: arxiv_2611.05377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05377v1](http://arxiv.org/abs/2611.05377v1)
 

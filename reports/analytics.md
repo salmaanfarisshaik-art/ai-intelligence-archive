@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92453
+**Total Entities Tracked**: 92503
 
 ## Category Distribution
 
@@ -9,20 +9,20 @@
 - **instruction_tuning**: 21000
 - **datasets**: 2634
 - **models**: 1986
-- **cs.CV**: 1489
+- **cs.CV**: 1504
 - **news**: 1379
 - **dataset**: 1234
 - **text-generation**: 1017
-- **cs.CL**: 986
-- **cs.AI**: 940
-- **cs.LG**: 544
-- **cs.RO**: 237
+- **cs.CL**: 997
+- **cs.AI**: 946
+- **cs.LG**: 552
+- **cs.RO**: 240
 - **cs.CR**: 102
 - **cs.SE**: 79
 - **tool**: 59
-- **cs.HC**: 50
-- **cs.IR**: 50
-- **cs.SD**: 45
+- **cs.HC**: 51
+- **cs.IR**: 51
+- **cs.SD**: 46
 - **cs.CY**: 34
 - **cs.MA**: 25
 - **eess.AS**: 20
@@ -31,7 +31,7 @@
 - **cs.GT**: 16
 - **API**: 15
 - **cs.DC**: 13
-- **quant-ph**: 12
+- **quant-ph**: 13
 - **cs.DB**: 11
 - **cs.NI**: 11
 - **Backend**: 10
@@ -46,7 +46,7 @@
 - **cs.IT**: 9
 - **cs.MM**: 9
 - **cs.NE**: 9
-- **math.OC**: 8
+- **math.OC**: 9
 - **cs.LO**: 7
 - **eess.SY**: 7
 - **stat.ME**: 7
@@ -65,6 +65,7 @@
 - **q-bio.NC**: 4
 - **feature-extraction**: 3
 - **image-text-to-text**: 3
+- **physics.med-ph**: 3
 - **q-bio.QM**: 3
 - **cs.CC**: 2
 - **cs.SI**: 2
@@ -91,7 +92,6 @@
 - **physics.chem-ph**: 1
 - **physics.comp-ph**: 1
 - **physics.flu-dyn**: 1
-- **physics.med-ph**: 1
 - **physics.optics**: 1
 - **physics.plasm-ph**: 1
 - **q-bio.GN**: 1
@@ -101,7 +101,7 @@
 
 - **Stanford Alpaca**: 52000
 - ****: 31798
-- **ArXiv**: 4858
+- **ArXiv**: 4908
 - **Hugging Face**: 2025
 - **OpenAI Blog**: 1365
 - **HuggingFace Datasets**: 234

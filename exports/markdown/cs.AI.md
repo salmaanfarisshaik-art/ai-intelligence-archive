@@ -440,6 +440,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.11151v3](http://arxiv.org/abs/2605.11151v3)
 
+## TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing
+- **ID**: arxiv_2605.11473v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.11473v2](http://arxiv.org/abs/2605.11473v2)
+
 ## On the Limitations of Large Language Models for Conceptual Database Modeling
 - **ID**: arxiv_2605.11986v2
 - **Source**: ArXiv
@@ -4460,6 +4465,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31667v1](http://arxiv.org/abs/2610.31667v1)
 
+## BARC-Bench: Benign Asks, Risky Consequences
+- **ID**: arxiv_2610.32024v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32024v2](http://arxiv.org/abs/2610.32024v2)
+
 ## Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves
 - **ID**: arxiv_2610.32851v1
 - **Source**: ArXiv
@@ -4699,4 +4709,24 @@
 - **ID**: arxiv_2611.03641v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03641v1](http://arxiv.org/abs/2611.03641v1)
+
+## JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks
+- **ID**: arxiv_2611.05263v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05263v1](http://arxiv.org/abs/2611.05263v1)
+
+## The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation
+- **ID**: arxiv_2611.05272v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05272v1](http://arxiv.org/abs/2611.05272v1)
+
+## You don't need long context
+- **ID**: arxiv_2611.05306v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05306v1](http://arxiv.org/abs/2611.05306v1)
+
+## Adversarial Speculative Reasoning Improves Long Horizon Agents
+- **ID**: arxiv_2611.05345v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05345v1](http://arxiv.org/abs/2611.05345v1)
 

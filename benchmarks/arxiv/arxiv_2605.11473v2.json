@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.11473v2",
+  "schema_version": "1.0",
+  "name": "TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.11473v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.11473v2",
+    "updated": "2026-11-03T18:44:18Z",
+    "published": "2026-05-12T03:40:28Z",
+    "title": "TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing",
+    "summary": "Soft Actor-Critic (SAC) and its variants dominate Multi-Task Reinforcement Learning (MTRL) due to their off-policy sample efficiency, while on-policy methods such as Proximal Policy Optimization (PPO) remain underexplored. We diagnose that PPO in MTRL suffers from a previously overlooked issue: critic-side gradient ill-conditioning, which may cause tail tasks to stall while easy tasks dominate the value function's updates. To address this, we propose TOPPO (Tail-Optimized PPO), a reformulation of PPO via Critic Balancing -- a set of modules that improve gradient conditioning and balance learning dynamics across tasks. Unlike prior approaches that rely on modular architectures or large models, TOPPO targets the optimization bottleneck within PPO itself. Empirically, on the Meta-World+ MT50 benchmark, TOPPO achieves stronger mean and tail-task performance than prior SAC-family and ARS-family methods while using substantially fewer parameters and reaching their final performance in fewer environment steps. Notably, TOPPO matches or surpasses strong SAC baselines early in training and maintains superior performance at full budget. Ablations confirm the effectiveness of each module in TOPPO and provide insights into their interactions. Our results demonstrate that, with proper optimization, on-policy methods can rival or exceed off-policy approaches in MTRL, challenging the prevailing reliance on SAC and highlighting critic-side gradient conditioning as the central bottleneck.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:44:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.11473v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

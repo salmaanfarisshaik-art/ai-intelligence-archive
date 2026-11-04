@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2608.19490v2",
+  "schema_version": "1.0",
+  "name": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2608.19490v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2608.19490v2",
+    "updated": "2026-11-03T18:56:59Z",
+    "published": "2026-08-19T23:02:07Z",
+    "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+    "summary": "State-of-the-art vision-language-action (VLA) models such as pi0.5 exhibit strong semantic understanding, instruction following and task behavior. However, when deployed on new robots, even minor mismatches in hardware configuration relative to pretraining can cause severe performance drops. Finetuning the VLA on in-domain expert data from the new embodiment improves performance on the expert task but leads to a loss in its original instruction following and behavioral priors. In this paper, we propose a self-supervised method that generates online interaction rollouts from the zero-shot VLA as additional training data for finetuning. Our experiments show this yields strong multi-task manipulation policies on the target robot that (1) inherit pretrained tasks distilled from the zero-shot VLA without expert demos for them, (2) improve success and generalist instruction following beyond expert-only fine-tuning on expert-teleoperated tasks, and (3) mitigate forgetting of held-out tasks from the pretrained policy, not part of fine-tuning. We demonstrate the success of our approach across test sets probing generalization on a real ALOHA robot and a new simulation benchmark in RoboTwin. Video results are available at https://self-supervised-control.pages.dev/",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:56:59Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2608.19490v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

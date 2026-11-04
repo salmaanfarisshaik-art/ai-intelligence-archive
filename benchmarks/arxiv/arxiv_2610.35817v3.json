@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.35817v3",
+  "schema_version": "1.0",
+  "name": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization for Agentic Robotics",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.35817v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.35817v3",
+    "updated": "2026-11-03T18:36:32Z",
+    "published": "2026-10-26T17:44:34Z",
+    "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization for Agentic Robotics",
+    "summary": "Frontier models such as GPT-6 Astra now directly control robots and can generalize better than vision-language-action models (VLAs). We argue that this ability could arise from two distinct, composable skills: semantic reasoning, to understand what a task asks for in a scene, and motion control, to move the robot to do it. We show that small open VLMs are already capable of the first and mainly lack the second. We introduce Zero-real Agent Policy (ZAP), a recipe that teaches this missing motion skill, entirely in simulation on simple primitive tasks and from the model's own successes, with no frontier teacher or distillation and no real-world robot data. ZAP reaches 96.7% success on real-world tasks, matching GPT-6 Astra in our harness while running 3x faster and 17x cheaper, and 74.0% on a bimanual adaptation of RoboLab-120, on par with GPT-6 Astra's 72.2%. ZAP also generalizes to new objects, goals, and strategies, and in simulation to a robot embodiment on which it never trained.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:36:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.35817v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

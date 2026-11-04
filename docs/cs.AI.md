@@ -127,6 +127,7 @@
 | [Admission Without Answers: Label-Free Certification and Experience Learning for LLM-Based Optimization Modeling](http://arxiv.org/abs/2608.15565v5) | ArXiv |  | 1 |
 | [Advancing Clinical Genomic Analysis with a Skill-Centred Agent](http://arxiv.org/abs/2610.40556v1) | ArXiv |  | 1 |
 | [Advancing SVD-based LLM Compression via Layer-Wise Error Model Search](http://arxiv.org/abs/2610.32878v1) | ArXiv |  | 1 |
+| [Adversarial Speculative Reasoning Improves Long Horizon Agents](http://arxiv.org/abs/2611.05345v1) | ArXiv |  | 1 |
 | [AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation](http://arxiv.org/abs/2609.38142v1) | ArXiv |  | 1 |
 | [AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards](http://arxiv.org/abs/2610.18860v1) | ArXiv |  | 1 |
 | [Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?](http://arxiv.org/abs/2610.08775v1) | ArXiv |  | 1 |
@@ -191,6 +192,7 @@
 | [AutoViewMem: Self-Configuring Orthogonal Views for Conversational Long-Term Memory](http://arxiv.org/abs/2609.21940v1) | ArXiv |  | 1 |
 | [Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification](http://arxiv.org/abs/2610.06790v1) | ArXiv |  | 1 |
 | [BackTrend: Evaluating Scientific Weak-Signal Prediction via Backward Reconstruction](http://arxiv.org/abs/2609.24921v1) | ArXiv |  | 1 |
+| [BARC-Bench: Benign Asks, Risky Consequences](http://arxiv.org/abs/2610.32024v2) | ArXiv |  | 1 |
 | [Bayesian Inference and Decision Audits for Public Archives of Frontier AI Evaluations](http://arxiv.org/abs/2606.17005v1) | ArXiv |  | 1 |
 | [Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models](http://arxiv.org/abs/2610.10478v1) | ArXiv |  | 1 |
 | [Before You Think: System 0, AI-Mediated Cognition and Cognitive Colonization](http://arxiv.org/abs/2606.13658v1) | ArXiv |  | 1 |
@@ -488,6 +490,7 @@
 | [Jev-DLC: Decision-Level Continual Learning from Typed Feedback](http://arxiv.org/abs/2610.31521v1) | ArXiv |  | 1 |
 | [Jev-Mobile: Jev as an Executor for Mobile GUI Agents](http://arxiv.org/abs/2609.30186v1) | ArXiv |  | 1 |
 | [Jeva: System One Models from First Principles](http://arxiv.org/abs/2610.18773v1) | ArXiv |  | 1 |
+| [JHiMA-WebRL: A Joint Hierarchical Multi-Agent Reinforcement Learning Framework for Long-Horizon Web Tasks](http://arxiv.org/abs/2611.05263v1) | ArXiv |  | 1 |
 | [JOVE: Joint Execution and Verification for Resource-Aware LLM Task Graphs](http://arxiv.org/abs/2610.03296v1) | ArXiv |  | 1 |
 | [Just Initialize: A Training-Free Initialization Component for Large-Scale Routing Optimization](http://arxiv.org/abs/2609.35443v3) | ArXiv |  | 1 |
 | [JustFit: 200K-Token LLM Serving on a 24 GiB Laptop with Just-in-Time State Management](http://arxiv.org/abs/2609.17475v1) | ArXiv |  | 1 |
@@ -822,6 +825,7 @@
 | [The Ebb and Flow of Multimodal Focus: Scheduling Visual Relay Windows for Grounded VLM Reasoning](http://arxiv.org/abs/2607.11436v2) | ArXiv |  | 1 |
 | [The edge-based contiguous p-median problem: exact formulations and strengthening inequalities](http://arxiv.org/abs/2608.11230v2) | ArXiv |  | 1 |
 | [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](http://arxiv.org/abs/2606.16974v1) | ArXiv |  | 1 |
+| [The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation](http://arxiv.org/abs/2611.05272v1) | ArXiv |  | 1 |
 | [The Hitchhikers Guide to Rubric Quality Understanding and Enrichment](http://arxiv.org/abs/2604.01375v4) | ArXiv |  | 1 |
 | [The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation](http://arxiv.org/abs/2601.05500v6) | ArXiv |  | 1 |
 | [The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](http://arxiv.org/abs/2607.08734v2) | ArXiv |  | 1 |
@@ -852,6 +856,7 @@
 | [Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data](http://arxiv.org/abs/2608.31082v1) | ArXiv |  | 1 |
 | [Token-Level LLM Collaboration via FusionRoute](http://arxiv.org/abs/2601.05106v5) | ArXiv |  | 1 |
 | [Tool Verification for Test-Time Reinforcement Learning](http://arxiv.org/abs/2603.02203v2) | ArXiv |  | 1 |
+| [TOPPO: Rethinking PPO for Multi-Task Reinforcement Learning with Critic Balancing](http://arxiv.org/abs/2605.11473v2) | ArXiv |  | 1 |
 | [TOPS: First-Principles Visual Token Pruning via Constructing Token Optimal Preservation Sets for Efficient MLLM Inference](http://arxiv.org/abs/2606.27161v2) | ArXiv |  | 1 |
 | [TorchTPU - A Hybrid Eager/Compiled Architecture for Native PyTorch Execution on TPU](http://arxiv.org/abs/2610.24161v3) | ArXiv |  | 1 |
 | [Toward Calibrated Mixture-of-Experts Under Distribution Shift](http://arxiv.org/abs/2606.20544v1) | ArXiv |  | 1 |
@@ -944,5 +949,6 @@
 | [X+Slides: Benchmarking Audience-Conditioned Slide Generation](http://arxiv.org/abs/2606.19256v1) | ArXiv |  | 1 |
 | [X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems](http://arxiv.org/abs/2610.13886v1) | ArXiv |  | 1 |
 | [XDecomposer: Learning Prior-Free Set Decomposition for Multiphase X-ray Diffraction](http://arxiv.org/abs/2605.05866v2) | ArXiv |  | 1 |
+| [You don't need long context](http://arxiv.org/abs/2611.05306v1) | ArXiv |  | 1 |
 | [Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models](http://arxiv.org/abs/2606.18142v1) | ArXiv |  | 1 |
 <!-- GENERATED_CONTENT_END -->

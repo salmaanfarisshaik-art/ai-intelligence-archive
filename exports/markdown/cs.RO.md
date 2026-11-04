@@ -505,6 +505,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.19182v1](http://arxiv.org/abs/2608.19182v1)
 
+## Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation
+- **ID**: arxiv_2608.19490v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.19490v2](http://arxiv.org/abs/2608.19490v2)
+
 ## The Coastline as a Structural Constraint: Harnessing Scene Geometry for Autonomous Surface Vessel Localization
 - **ID**: arxiv_2608.21276v1
 - **Source**: ArXiv
@@ -1105,6 +1110,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35817v1](http://arxiv.org/abs/2610.35817v1)
 
+## Pretraining Knows What, Simulation Teaches How: Compositional Generalization for Agentic Robotics
+- **ID**: arxiv_2610.35817v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.35817v3](http://arxiv.org/abs/2610.35817v3)
+
 ## Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy
 - **ID**: arxiv_2610.35832v1
 - **Source**: ArXiv
@@ -1184,4 +1194,9 @@
 - **ID**: arxiv_2611.03648v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03648v1](http://arxiv.org/abs/2611.03648v1)
+
+## PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data
+- **ID**: arxiv_2611.05320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05320v1](http://arxiv.org/abs/2611.05320v1)
 

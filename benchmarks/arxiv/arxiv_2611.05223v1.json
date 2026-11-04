@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.05223v1",
+  "schema_version": "1.0",
+  "name": "PLANTEUR: A Crop-Type Segmentation Benchmark for Tropical Regions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.05223v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.05223v1",
+    "updated": "2026-11-03T17:10:42Z",
+    "published": "2026-11-03T17:10:42Z",
+    "title": "PLANTEUR: A Crop-Type Segmentation Benchmark for Tropical Regions",
+    "summary": "We introduce PLANTEUR, a benchmark for crop-type mapping from satellite images in the French overseas territories. Building on the PASTIS design, PLANTEUR provides georeferenced and aligned Sentinel-2, Sentinel-1, and Landsat-8 sequences with parcel-derived labels spanning six tropical regions and an 8-class label space. We define both a standard test split and a leave-one-island-out protocol to measure cross-territory generalization, and evaluate fully supervised models, linear probes, and fine-tuned foundation models. The benchmark code and data are open source and available on GitHub and Hugging Face.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:10:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.05223v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

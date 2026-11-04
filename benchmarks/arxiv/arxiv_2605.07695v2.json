@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.07695v2",
+  "schema_version": "1.0",
+  "name": "OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.07695v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.07695v2",
+    "updated": "2026-11-03T18:19:07Z",
+    "published": "2026-05-08T13:05:02Z",
+    "title": "OphEdit: Training-Free Text-Guided Editing of Ophthalmic Surgical Videos",
+    "summary": "High-fidelity surgical video generation holds great promise for medical training and AI development, yet precise, controllable editing of such videos remains a formidable challenge. Modifying surgical attributes such as instrument, tissue interactions or procedural phases is particularly difficult due to the strict anatomical and temporal constraints of ophthalmic procedures. We introduce OphEdit, the first training-free framework for text-guided editing of ophthalmic surgical videos. Our approach uses a deterministic second-order ODE inversion pipeline to capture attention Value tensors from the source video and selectively injects them into the conditional branch of classifier-free guidance during denoising, preserving the intricate anatomical geometry of the eye while mapping text-driven semantic modifications onto the video. Clinical evaluation by an ophthalmologist shows that OphEdit handles complex transformations, such as instrument swaps and procedural variations, with superior structural fidelity and temporal consistency compared to adapted general-domain video editors, offering a scalable route to diverse surgical training data. The code and prompts can be accessed at https://github.com/ophedit/OphEdit",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:19:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.07695v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

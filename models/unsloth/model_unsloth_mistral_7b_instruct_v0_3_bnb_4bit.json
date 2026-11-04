@@ -3,7 +3,7 @@
   "id": "unsloth/mistral-7b-instruct-v0.3-bnb-4bit",
   "likes": 42,
   "private": false,
-  "downloads": 40880,
+  "downloads": 32282,
   "tags": [
     "transformers",
     "safetensors",
@@ -22,8 +22,8 @@
     "endpoints_compatible",
     "4-bit",
     "bitsandbytes",
-    "deploy:azure",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

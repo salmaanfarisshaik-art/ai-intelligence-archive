@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.09995v2",
+  "schema_version": "1.0",
+  "name": "Annotations Mitigate Post-Training Mode Collapse",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.09995v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.09995v2",
+    "updated": "2026-11-03T18:48:51Z",
+    "published": "2026-05-11T05:11:04Z",
+    "title": "Annotations Mitigate Post-Training Mode Collapse",
+    "summary": "Post-training (via supervised fine-tuning) improves instruction-following, but often induces semantic mode collapse by biasing models toward low-entropy fine-tuning data at the expense of the high-entropy pretraining distribution. Crucially, we find this trade-off worsens with scale. To close this semantic diversity gap, we propose annotation-anchored training, a principled method that enables models to adopt the preference-following behaviors of post-training without sacrificing the inherent diversity of pretraining. Our approach is simple: we pretrain on documents paired with semantic annotations, inducing a rich annotation distribution that reflects the full breadth of pretraining data, and we preserve this distribution during post-training. This lets us sample diverse annotations at inference time and use them as anchors to guide generation, effectively transferring pretraining's semantic richness into post-trained models. We find that models trained with annotation-anchored training can attain $6 \\times$ less diversity collapse than models trained with SFT, and improve with scale.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T18:48:51Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.09995v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

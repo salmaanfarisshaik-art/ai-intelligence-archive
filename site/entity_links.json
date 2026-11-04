@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T01:55:04Z",
+  "generated_at": "2026-11-04T08:39:08Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1195,6 +1195,76 @@
       "source_id": "model_bartowski_c4ai_command_r7b_12_2024_gguf",
       "target_id": "hf_CohereLabs_c4ai-command-r7b-12-2024",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_AI-MO_NuminaMath-CoT",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_AI-MO_NuminaMath-TIR",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_HuggingFaceTB_smoltalk",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_NousResearch_hermes-function-calling-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_OpenCoder-LLM_opc-sft-stage1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_OpenCoder-LLM_opc-sft-stage2",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_allenai_tulu-3-sft-mixture",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_cognitivecomputations_dolphin-coder",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_cognitivecomputations_samantha-data",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_dphn_Dolphin3.0-Mistral-24B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_m-a-p_Code-Feedback",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_m-a-p_CodeFeedback-Filtered-Instruction",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_microsoft_orca-agentinstruct-1M-v1",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "target_id": "hf_microsoft_orca-math-word-problems-200k",
+      "type": "trained_on"
     },
     {
       "source_id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
@@ -2802,6 +2872,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_elyza_elyza_shortcut_1_0_qwen_7b",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
       "target_id": "hf_coder3101_gemma-4-26B-A4B-it-heretic",
       "type": "derived_from"
@@ -3150,6 +3225,56 @@
       "source_id": "model_hob_forge_kolibri_1_gguf",
       "target_id": "hf_Aleph-Alpha_Kolibri-1",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_Aloe-Beta-General-Collection",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_MMLU-medical-cot-llama31",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_MedS-Ins",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_Polymed-QA",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_chain-of-diagnosis",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_headqa-cot-llama31",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_medmcqa-cot-llama31",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_medqa-cot-llama31",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_pubmedqa-cot-llama31",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "target_id": "hf_HPAI-BSC_ultramedical",
+      "type": "trained_on"
     },
     {
       "source_id": "model_hugging_quants_gemma_2_9b_it_awq_int4",

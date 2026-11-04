@@ -250,3 +250,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40653v1](http://arxiv.org/abs/2610.40653v1)
 
+## False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts
+- **ID**: arxiv_2611.05290v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05290v1](http://arxiv.org/abs/2611.05290v1)
+

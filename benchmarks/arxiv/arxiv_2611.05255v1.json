@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.05255v1",
+  "schema_version": "1.0",
+  "name": "Going Deeper With Memories",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.05255v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.05255v1",
+    "updated": "2026-11-03T17:44:07Z",
+    "published": "2026-11-03T17:44:07Z",
+    "title": "Going Deeper With Memories",
+    "summary": "Byte level language models avoid tokenizer dependence and provide universal coverage, but processing every byte at full resolution is expensive. We introduce DeepMem, a causal multiscale architecture that separates semantic compression from exact byte preservation. A learned invertible subband transform constructs a hierarchy of shorter sequences, while a lossless carrier and explicit detail sidebands preserve byte identity. Fast weight memory blocks operate along the encoder, with iterative shared state computation at the compressed bottleneck, while an attention based super resolution decoder restores byte resolution representations. DeepMem achieves stronger language modeling performance than a matched byte level Transformer on FineWeb-Edu and PG19, and obtains the best macro average performance across the evaluated FLORES languages. It also improves PIQA accuracy while remaining competitive on code modeling, multiple choice reasoning, and byte level corruption robustness. Bottleneck refinement requires approximately $7{,}600\\times$ fewer counted FLOPs than equivalent full resolution reasoning, while maintaining competitive evaluation throughput.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-04T08:37:47Z",
+  "last_updated": "2026-11-03T17:44:07Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.05255v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -40,3 +40,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42040v1](http://arxiv.org/abs/2610.42040v1)
 
+## A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry
+- **ID**: arxiv_2611.05334v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05334v1](http://arxiv.org/abs/2611.05334v1)
+
