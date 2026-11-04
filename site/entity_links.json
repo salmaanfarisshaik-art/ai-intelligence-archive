@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:39:08Z",
+  "generated_at": "2026-11-04T16:51:49Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1514,6 +1514,11 @@
     {
       "source_id": "model_bartowski_ling_3_0_tiny_gguf",
       "target_id": "hf_inclusionAI_Ling-3.0-tiny",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_bartowski_liquidai_lfm2_5_1_2b_instruct_gguf",
+      "target_id": "hf_LiquidAI_LFM2.5-1.2B-Instruct",
       "type": "derived_from"
     },
     {
@@ -3112,6 +3117,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ggml_org_qwen3_coder_30b_a3b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen3-Coder-30B-A3B-Instruct",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_gnlolot_minicpm5_1b_claude_opus_fable5_thinking_gguf",
       "target_id": "hf_GnLOLot_MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
       "type": "derived_from"
@@ -3674,6 +3684,11 @@
     {
       "source_id": "model_internscience_sage_a1_5_q8_0_gguf",
       "target_id": "hf_InternScience_Sage-A1.5",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ista_daslab_deepseek_v4_1_flash_1017_gsq_rco_coder_gguf",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash-1017",
       "type": "derived_from"
     },
     {
@@ -6537,6 +6552,16 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_nvidia_nvidia_nemotron_labs_dory1_0_4b_gguf",
+      "target_id": "hf_nvidia_nemotron-post-training-v3",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_nvidia_nvidia_nemotron_labs_dory1_0_4b_gguf",
+      "target_id": "hf_nvidia_nemotron-pre-training-datasets",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_nvidia_nvidia_nemotron_nano_12b_v2",
       "target_id": "hf_nvidia_NVIDIA-Nemotron-Nano-12B-v2-Base",
       "type": "derived_from"
@@ -7110,6 +7135,11 @@
       "source_id": "model_openbmb_minicpm5_2b_mlx",
       "target_id": "hf_openbmb_UltraX-Preview",
       "type": "trained_on"
+    },
+    {
+      "source_id": "model_openbmb_minicpm_v_4_7_35b_a3b_dspark_gguf",
+      "target_id": "hf_openbmb_MiniCPM-V-4.7-35B-A3B-DSpark",
+      "type": "derived_from"
     },
     {
       "source_id": "model_openchat_openchat_3_5_1210",

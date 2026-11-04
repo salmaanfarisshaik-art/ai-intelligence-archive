@@ -1,0 +1,33 @@
+{
+  "_id": "662fa75d31290e7f759676ac",
+  "id": "Voxel51/PIDray",
+  "author": "Voxel51",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-03-17T15:40:43.000Z",
+  "likes": 2,
+  "private": false,
+  "sha": "4c30154c7337b03e8988d6e50adfaf3e0332909f",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for pidray\n\t\n\nPIDray is a large-scale dataset which covers various cases in real-world scenarios for prohibited item detection, especially for deliberately hidden items. The dataset contains 12 categories of prohibited items in 47, 677 X-ray images with high-quality annotated segmentation masks and bounding boxes.\n\nThis is a FiftyOne dataset with 9482 samples.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/PIDray.",
+  "downloads": 49534,
+  "tags": [
+    "task_categories:object-detection",
+    "language:en",
+    "license:apache-2.0",
+    "size_categories:1K<n<10K",
+    "format:imagefolder",
+    "modality:image",
+    "library:datasets",
+    "library:mlcroissant",
+    "library:fiftyone",
+    "arxiv:2108.07020",
+    "region:us",
+    "fiftyone",
+    "image",
+    "object-detection"
+  ],
+  "createdAt": "2024-04-29T13:57:49.000Z",
+  "key": "",
+  "unique_id": "dataset_voxel51_pidray",
+  "schema_version": "1.0"
+}

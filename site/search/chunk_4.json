@@ -663,6 +663,11 @@
       "score": 2.0
     },
     {
+      "entity_id": "dataset_a1557811266_per_400k",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
       "entity_id": "hf_ds_67da25756b2007f151daeca0",
       "match_type": "exact",
       "score": 2.0
@@ -1824,6 +1829,13 @@
       "score": 1.0
     }
   ],
+  "448": [
+    {
+      "entity_id": "dataset_sberroboticscenter_greenchallengedata",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "44k": [
     {
       "entity_id": "dataset_allenai_winogrande",
@@ -2520,6 +2532,11 @@
     },
     {
       "entity_id": "dataset_secemp9_arxiv_complete",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_voxel51_pidray",
       "match_type": "exact",
       "score": 1.0
     }
@@ -3896,6 +3913,11 @@
     },
     {
       "entity_id": "model_nvidia_nvidia_nemotron_3_nano_4b_bf16",
+      "match_type": "exact",
+      "score": 2.0
+    },
+    {
+      "entity_id": "model_nvidia_nvidia_nemotron_labs_dory1_0_4b_gguf",
       "match_type": "exact",
       "score": 2.0
     },

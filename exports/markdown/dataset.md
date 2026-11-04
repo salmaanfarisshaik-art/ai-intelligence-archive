@@ -544,6 +544,12 @@
 - **URL**: [https://huggingface.co/datasets/MIC-DKFZ/OpenMind](https://huggingface.co/datasets/MIC-DKFZ/OpenMind)
 - **Tags**: 3d, image, library:datasets, library:mlcroissant, license:cc-by-4.0, modality:3d, modality:image, region:us, size_categories:n<1K, task_categories:image-feature-extraction
 
+## filapro/cad-recode-v1.5
+- **ID**: hf_ds_67d6a013de70b91cc5a7a8f6
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/filapro/cad-recode-v1.5](https://huggingface.co/datasets/filapro/cad-recode-v1.5)
+- **Tags**: arxiv:2412.14042, license:cc-by-nc-4.0, region:us
+
 ## mueller91/MLAAD
 - **ID**: hf_ds_67d6c9b5ba56e14eeb14fab6
 - **Source**: HuggingFace Datasets
@@ -1222,17 +1228,17 @@
 - **URL**: [https://huggingface.co/datasets/Syn4D/Syn4D](https://huggingface.co/datasets/Syn4D/Syn4D)
 - **Tags**: arxiv:2605.05207, license:cc-by-4.0, region:us
 
-## ilabai/3dcodeverse
-- **ID**: hf_ds_6a409561222ffbb14f69924c
-- **Source**: HuggingFace Datasets
-- **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
-- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
-
 ## 3dcodeverse/3dcodeverse-2m
 - **ID**: hf_ds_6a409561222ffbb14f69924c
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m](https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m)
 - **Tags**: 3d, arxiv:2610.22341, blender, cadquery, code-generation, glsl, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, openscad, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-generation, task_categories:text-to-3d, threejs, urdf
+
+## ilabai/3dcodeverse
+- **ID**: hf_ds_6a409561222ffbb14f69924c
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/ilabai/3dcodeverse](https://huggingface.co/datasets/ilabai/3dcodeverse)
+- **Tags**: 3d, arxiv:2610.22341, benchmark, blender, code-generation, language:en, license:cc-by-nc-sa-4.0, modality:3d, modality:image, modality:text, procedural-3d, region:us, size_categories:1M<n<10M, task_categories:image-to-3d, task_categories:text-to-3d
 
 ## nvidia/simready-assets
 - **ID**: hf_ds_6a429172c50c64cfb0a54dfb

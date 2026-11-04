@@ -330717,6 +330717,27 @@
     "local_path": "datasets/mic-dkfz/hf_ds_67d0465e363941e3a07ed1bb.json"
   },
   {
+    "id": "hf_ds_67d6a013de70b91cc5a7a8f6",
+    "title": "filapro/cad-recode-v1.5",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2412.14042",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/filapro"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/filapro/cad-recode-v1.5",
+    "local_path": "datasets/filapro/hf_ds_67d6a013de70b91cc5a7a8f6.json"
+  },
+  {
     "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "title": "mueller91/MLAAD",
     "category": "dataset",
@@ -333642,39 +333663,6 @@
   },
   {
     "id": "hf_ds_6a409561222ffbb14f69924c",
-    "title": "ilabai/3dcodeverse",
-    "category": "dataset",
-    "source": "HuggingFace Datasets",
-    "tags": [
-      "3d",
-      "arxiv:2610.22341",
-      "benchmark",
-      "blender",
-      "code-generation",
-      "language:en",
-      "license:cc-by-nc-sa-4.0",
-      "modality:3d",
-      "modality:image",
-      "modality:text",
-      "procedural-3d",
-      "region:us",
-      "size_categories:1M<n<10M",
-      "task_categories:image-to-3d",
-      "task_categories:text-to-3d"
-    ],
-    "links": {
-      "related_models": [
-        "datasets/ilabai"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    },
-    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
-    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
-  },
-  {
-    "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "3dcodeverse/3dcodeverse-2m",
     "category": "dataset",
     "source": "HuggingFace Datasets",
@@ -333710,6 +333698,39 @@
     },
     "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
     "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
   },
   {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",
@@ -351943,6 +351964,16 @@
     "local_path": "models/bartowski/model_bartowski_c4ai_command_r7b_12_2024_gguf.json"
   },
   {
+    "id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+    "title": "bartowski/cognitivecomputations_Dolphin3.0-Mistral-24B-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/bartowski/model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf.json"
+  },
+  {
     "id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
     "title": "bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF",
     "category": "models",
@@ -355023,6 +355054,16 @@
     "local_path": "models/eleutherai/model_eleutherai_pythia_70m_deduped.json"
   },
   {
+    "id": "model_elyza_elyza_shortcut_1_0_qwen_7b",
+    "title": "elyza/ELYZA-Shortcut-1.0-Qwen-7B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/elyza/model_elyza_elyza_shortcut_1_0_qwen_7b.json"
+  },
+  {
     "id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
     "title": "EmanuelOverride/gemma-4-26B-A4B-it-heretic-APEX-GGUF",
     "category": "models",
@@ -356141,6 +356182,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/hob-forge/model_hob_forge_kolibri_1_gguf.json"
+  },
+  {
+    "id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+    "title": "HPAI-BSC/Llama3.1-Aloe-Beta-8B",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/hpai-bsc/model_hpai_bsc_llama3_1_aloe_beta_8b.json"
   },
   {
     "id": "model_hpcai_tech_grok_1",
@@ -647999,6 +648050,21 @@
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_daybreak-models-are-now-available-on-aws.json"
   },
   {
+    "id": "rss_https://openai.com/index/daybreak-red-aws-govcloud",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_daybreak-red-aws-govcloud.json"
+  },
+  {
     "id": "rss_https://openai.com/index/daybreak-securing-the-world",
     "title": "",
     "category": "news",
@@ -658227,6 +658293,21 @@
     },
     "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
     "local_path": "prompts/openai-blog/rss_https___openai.com_index_openai-to-acquire-orchestra-bio.json"
+  },
+  {
+    "id": "rss_https://openai.com/index/openai-to-acquire-pierre",
+    "title": "",
+    "category": "news",
+    "source": "OpenAI Blog",
+    "tags": [],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://openai.com/index/openai-to-acquire-pierre",
+    "local_path": "prompts/openai-blog/rss_https___openai.com_index_openai-to-acquire-pierre.json"
   },
   {
     "id": "rss_https://openai.com/index/openai-to-acquire-promptfoo",

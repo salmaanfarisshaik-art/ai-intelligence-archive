@@ -3275,6 +3275,27 @@
     "local_path": "datasets/mic-dkfz/hf_ds_67d0465e363941e3a07ed1bb.json"
   },
   {
+    "id": "hf_ds_67d6a013de70b91cc5a7a8f6",
+    "title": "filapro/cad-recode-v1.5",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2412.14042",
+      "license:cc-by-nc-4.0",
+      "region:us"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/filapro"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/filapro/cad-recode-v1.5",
+    "local_path": "datasets/filapro/hf_ds_67d6a013de70b91cc5a7a8f6.json"
+  },
+  {
     "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
     "title": "mueller91/MLAAD",
     "category": "dataset",
@@ -6200,39 +6221,6 @@
   },
   {
     "id": "hf_ds_6a409561222ffbb14f69924c",
-    "title": "ilabai/3dcodeverse",
-    "category": "dataset",
-    "source": "HuggingFace Datasets",
-    "tags": [
-      "3d",
-      "arxiv:2610.22341",
-      "benchmark",
-      "blender",
-      "code-generation",
-      "language:en",
-      "license:cc-by-nc-sa-4.0",
-      "modality:3d",
-      "modality:image",
-      "modality:text",
-      "procedural-3d",
-      "region:us",
-      "size_categories:1M<n<10M",
-      "task_categories:image-to-3d",
-      "task_categories:text-to-3d"
-    ],
-    "links": {
-      "related_models": [
-        "datasets/ilabai"
-      ],
-      "related_papers": [],
-      "related_datasets": [],
-      "related_tools": []
-    },
-    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
-    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
-  },
-  {
-    "id": "hf_ds_6a409561222ffbb14f69924c",
     "title": "3dcodeverse/3dcodeverse-2m",
     "category": "dataset",
     "source": "HuggingFace Datasets",
@@ -6268,6 +6256,39 @@
     },
     "source_url": "https://huggingface.co/datasets/3dcodeverse/3dcodeverse-2m",
     "local_path": "datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json"
+  },
+  {
+    "id": "hf_ds_6a409561222ffbb14f69924c",
+    "title": "ilabai/3dcodeverse",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "3d",
+      "arxiv:2610.22341",
+      "benchmark",
+      "blender",
+      "code-generation",
+      "language:en",
+      "license:cc-by-nc-sa-4.0",
+      "modality:3d",
+      "modality:image",
+      "modality:text",
+      "procedural-3d",
+      "region:us",
+      "size_categories:1M<n<10M",
+      "task_categories:image-to-3d",
+      "task_categories:text-to-3d"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/ilabai"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/ilabai/3dcodeverse",
+    "local_path": "datasets/ilabai/hf_ds_6a409561222ffbb14f69924c.json"
   },
   {
     "id": "hf_ds_6a429172c50c64cfb0a54dfb",

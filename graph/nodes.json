@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:38:04.226586+00:00",
+  "generated_at": "2026-11-04T16:50:56.647640+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -146270,6 +146270,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_67d6a013de70b91cc5a7a8f6",
+      "label": "filapro/cad-recode-v1.5"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_67d6c9b5ba56e14eeb14fab6",
       "label": "mueller91/MLAAD"
     },
@@ -146836,12 +146841,12 @@
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "ilabai/3dcodeverse"
+      "label": "3dcodeverse/3dcodeverse-2m"
     },
     {
       "category": "dataset",
       "id": "hf_ds_6a409561222ffbb14f69924c",
-      "label": "3dcodeverse/3dcodeverse-2m"
+      "label": "ilabai/3dcodeverse"
     },
     {
       "category": "dataset",
@@ -155210,6 +155215,11 @@
     },
     {
       "category": "models",
+      "id": "model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf",
+      "label": "bartowski/cognitivecomputations_Dolphin3.0-Mistral-24B-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf",
       "label": "bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF"
     },
@@ -156750,6 +156760,11 @@
     },
     {
       "category": "models",
+      "id": "model_elyza_elyza_shortcut_1_0_qwen_7b",
+      "label": "elyza/ELYZA-Shortcut-1.0-Qwen-7B"
+    },
+    {
+      "category": "models",
       "id": "model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf",
       "label": "EmanuelOverride/gemma-4-26B-A4B-it-heretic-APEX-GGUF"
     },
@@ -157307,6 +157322,11 @@
       "category": "models",
       "id": "model_hob_forge_kolibri_1_gguf",
       "label": "Hob-forge/Kolibri-1-GGUF"
+    },
+    {
+      "category": "models",
+      "id": "model_hpai_bsc_llama3_1_aloe_beta_8b",
+      "label": "HPAI-BSC/Llama3.1-Aloe-Beta-8B"
     },
     {
       "category": "models",
@@ -302290,6 +302310,11 @@
     },
     {
       "category": "news",
+      "id": "rss_https://openai.com/index/daybreak-red-aws-govcloud",
+      "label": ""
+    },
+    {
+      "category": "news",
       "id": "rss_https://openai.com/index/daybreak-securing-the-world",
       "label": ""
     },
@@ -305696,6 +305721,11 @@
     {
       "category": "news",
       "id": "rss_https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "label": ""
+    },
+    {
+      "category": "news",
+      "id": "rss_https://openai.com/index/openai-to-acquire-pierre",
       "label": ""
     },
     {
@@ -462520,5 +462550,5 @@
     }
   ],
   "schema_version": "1.0",
-  "total_nodes": 92503
+  "total_nodes": 92509
 }

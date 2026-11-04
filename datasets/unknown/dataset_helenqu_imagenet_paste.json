@@ -9,7 +9,7 @@
   "private": false,
   "sha": "61077ff6c1c29155e5c4f947b7f07ab91e84283f",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tImageNet-Paste\n\t\n\nImageNet-Paste is created by pasting in small images of different concepts into each image from the ImageNet validation dataset to probe the impact of concept pairs on multimodal task accuracy in natural images.\n\n\nEach ImageNet validation image is augmented by pasting in a small image of a different concept (accessory_word), and models are tasked with producing the correct ImageNet classification in the presence of the other concept. In our paper, we provide… See the full description on the dataset page: https://huggingface.co/datasets/helenqu/ImageNet-Paste.",
-  "downloads": 41009,
+  "downloads": 68926,
   "tags": [
     "language:en",
     "license:mit",

@@ -508,6 +508,10 @@
 - **ID**: model_bartowski_c4ai_command_r7b_12_2024_gguf
 - **Source**: 
 
+## bartowski/cognitivecomputations_Dolphin3.0-Mistral-24B-GGUF
+- **ID**: model_bartowski_cognitivecomputations_dolphin3_0_mistral_24b_gguf
+- **Source**: 
+
 ## bartowski/cognitivecomputations_Dolphin-Mistral-24B-Venice-Edition-GGUF
 - **ID**: model_bartowski_cognitivecomputations_dolphin_mistral_24b_venice_edition_gguf
 - **Source**: 
@@ -1740,6 +1744,10 @@
 - **ID**: model_eleutherai_pythia_70m_deduped
 - **Source**: 
 
+## elyza/ELYZA-Shortcut-1.0-Qwen-7B
+- **ID**: model_elyza_elyza_shortcut_1_0_qwen_7b
+- **Source**: 
+
 ## EmanuelOverride/gemma-4-26B-A4B-it-heretic-APEX-GGUF
 - **ID**: model_emanueloverride_gemma_4_26b_a4b_it_heretic_apex_gguf
 - **Source**: 
@@ -2186,6 +2194,10 @@
 
 ## Hob-forge/Kolibri-1-GGUF
 - **ID**: model_hob_forge_kolibri_1_gguf
+- **Source**: 
+
+## HPAI-BSC/Llama3.1-Aloe-Beta-8B
+- **ID**: model_hpai_bsc_llama3_1_aloe_beta_8b
 - **Source**: 
 
 ## hpcai-tech/grok-1
