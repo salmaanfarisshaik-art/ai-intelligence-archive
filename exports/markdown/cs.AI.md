@@ -80,6 +80,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2506.08630v4](http://arxiv.org/abs/2506.08630v4)
 
+## Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?
+- **ID**: arxiv_2506.10912v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2506.10912v5](http://arxiv.org/abs/2506.10912v5)
+
 ## How Far Are LLMs from Symbolic Planners? An NLP-Based Perspective
 - **ID**: arxiv_2508.01300v2
 - **Source**: ArXiv
@@ -2480,6 +2485,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.25286v2](http://arxiv.org/abs/2608.25286v2)
 
+## Using profiles of cognitive capability to assess AI suitability for workplace tasks
+- **ID**: arxiv_2608.25623v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.25623v2](http://arxiv.org/abs/2608.25623v2)
+
 ## Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs
 - **ID**: arxiv_2608.25986v1
 - **Source**: ArXiv
@@ -2689,6 +2699,11 @@
 - **ID**: arxiv_2609.01567v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.01567v1](http://arxiv.org/abs/2609.01567v1)
+
+## CivBench: A Long-Horizon Benchmark for Tool-Mediated Agents in Civilization VI
+- **ID**: arxiv_2609.02459v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.02459v2](http://arxiv.org/abs/2609.02459v2)
 
 ## Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
 - **ID**: arxiv_2609.02749v1
@@ -4470,6 +4485,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.32024v2](http://arxiv.org/abs/2610.32024v2)
 
+## HyScale: Scaling Long-Context Training for Learned Sparse Attention
+- **ID**: arxiv_2610.32057v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.32057v3](http://arxiv.org/abs/2610.32057v3)
+
 ## Reimagining Enterprise RAG for Multi-Agent Systems: A Knowledge Layer That Organizes Before It Retrieves
 - **ID**: arxiv_2610.32851v1
 - **Source**: ArXiv
@@ -4784,4 +4804,49 @@
 - **ID**: arxiv_2611.06491v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06491v1](http://arxiv.org/abs/2611.06491v1)
+
+## Task-Efficient Agent Evaluation Using Cached Traces
+- **ID**: arxiv_2611.06803v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06803v1](http://arxiv.org/abs/2611.06803v1)
+
+## Rules, Traces and Routing Statistics: Training and Calibration Data for Open Models on ARC-AGI-2
+- **ID**: arxiv_2611.06827v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06827v1](http://arxiv.org/abs/2611.06827v1)
+
+## ServerBench: How can your coding agents design specialized LLM serving systems?
+- **ID**: arxiv_2611.06841v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06841v1](http://arxiv.org/abs/2611.06841v1)
+
+## CompressionBench: How can your coding agents compress LLMs?
+- **ID**: arxiv_2611.06858v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06858v1](http://arxiv.org/abs/2611.06858v1)
+
+## On Turn-Level Best-of-N Sampling for Scaling LLM Agents
+- **ID**: arxiv_2611.06868v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06868v1](http://arxiv.org/abs/2611.06868v1)
+
+## Learning to Decode Linear Codes with Generalized Belief Propagation Network
+- **ID**: arxiv_2611.06874v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06874v1](http://arxiv.org/abs/2611.06874v1)
+
+## Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure
+- **ID**: arxiv_2611.06888v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06888v1](http://arxiv.org/abs/2611.06888v1)
+
+## FrontierPhysics: Evaluating Agents for End-to-End Physics Research
+- **ID**: arxiv_2611.06910v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06910v1](http://arxiv.org/abs/2611.06910v1)
+
+## BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories
+- **ID**: arxiv_2611.06911v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06911v1](http://arxiv.org/abs/2611.06911v1)
 

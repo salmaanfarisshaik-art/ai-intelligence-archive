@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2511.17481v2",
+  "schema_version": "1.0",
+  "name": "Counterfactual World Models via Digital Twin-conditioned Video Diffusion",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2511.17481v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2511.17481v2",
+    "updated": "2026-11-04T17:20:25Z",
+    "published": "2025-11-21T18:37:23Z",
+    "title": "Counterfactual World Models via Digital Twin-conditioned Video Diffusion",
+    "summary": "World models learn to predict the temporal evolution of visual observations given a control signal, potentially enabling agents to reason about environments through forward simulation. Because of the focus on forward simulation, current world models generate predictions based on factual observations. For many emerging applications, such as comprehensive evaluations of physical AI behavior under varying conditions, the ability of world models to answer counterfactual queries -- such as \"what would happen if this object was removed?\" -- is of increasing importance. We formalize counterfactual world models that additionally take interventions as explicit inputs, predicting temporal sequences under hypothetical modifications to observed scene properties. Traditional world models operate directly on entangled pixel-space representations where object properties and relationships cannot be selectively modified. This modeling choice prevents targeted interventions on specific scene properties. We introduce CWMDT, a framework to overcome those limitations, turning standard video diffusion models into effective counterfactual world models. First, CWMDT constructs digital twins of observed scenes to explicitly encode objects and their relationships, represented as structured text. Second, CWMDT applies large language models to reason over these representations and predict how a counterfactual intervention propagates through time to alter the observed scene. Third, CWMDT conditions a video diffusion model with the modified representation to generate counterfactual visual sequences. Evaluations on two benchmarks show that the CWMDT approach achieves state-of-the-art performance, suggesting that alternative representations of videos, such as the digital twins considered here, offer powerful control signals for video forward simulation-based world models.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-05T11:52:09Z",
+  "last_updated": "2026-11-04T17:20:25Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2511.17481v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

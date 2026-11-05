@@ -20,6 +20,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.23986v2](http://arxiv.org/abs/2605.23986v2)
 
+## AvalancheBench: Evaluating Enterprise Agent-Driven Semantic Query Processing Through Latent World Recovery
+- **ID**: arxiv_2605.24183v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.24183v2](http://arxiv.org/abs/2605.24183v2)
+
 ## Beyond Scale and Generation: Understanding Language Model-based Entity Matching
 - **ID**: arxiv_2607.24688v1
 - **Source**: ArXiv

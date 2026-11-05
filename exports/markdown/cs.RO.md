@@ -1215,3 +1215,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06453v1](http://arxiv.org/abs/2611.06453v1)
 
+## Perceptive Humanoid Motion from Simulation
+- **ID**: arxiv_2611.06908v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06908v1](http://arxiv.org/abs/2611.06908v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2506.10912v5",
+  "schema_version": "1.0",
+  "name": "Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2506.10912v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2506.10912v5",
+    "updated": "2026-11-04T18:36:42Z",
+    "published": "2025-06-12T17:25:53Z",
+    "title": "Breaking Bad Molecules: Are MLLMs Ready for Structure-Level Molecular Detoxification?",
+    "summary": "Toxicity remains a leading cause of early-stage drug development failure. Despite advances in molecular design and property prediction, the task of molecular toxicity repair, generating structurally valid molecular alternatives with reduced toxicity, has not yet been systematically defined or benchmarked. To fill this gap, we introduce ToxiMol, the first benchmark task for general-purpose Multimodal Large Language Models (MLLMs) focused on molecular toxicity repair. We construct a standardized dataset covering 11 primary tasks and 660 representative toxic molecules spanning diverse mechanisms and granularities. We design a prompt annotation pipeline with mechanism-aware and task-adaptive capabilities, informed by expert toxicological knowledge. In parallel, we propose an automated evaluation framework, ToxiEval, which integrates toxicity endpoint prediction, synthetic accessibility, drug-likeness, and structural similarity into a high-throughput evaluation chain for repair success. We systematically assess 43 mainstream general-purpose MLLMs and conduct multiple ablation studies to analyze key issues, including evaluation metrics, candidate diversity, and failure attribution. Experimental results show that although current MLLMs still face significant challenges on this task, they begin to demonstrate promising capabilities in toxicity understanding, semantic constraint adherence, and structure-aware editing.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-05T11:52:09Z",
+  "last_updated": "2026-11-04T18:36:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2506.10912v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

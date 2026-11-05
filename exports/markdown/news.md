@@ -5956,6 +5956,11 @@
 - **URL**: [https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai](https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai)
 
 ## 
+- **ID**: rss_https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/setting-new-standard-responsible-ai-infrastructure](https://openai.com/index/setting-new-standard-responsible-ai-infrastructure)
+
+## 
 - **ID**: rss_https://openai.com/index/sharing-ai-progress-in-mathematics
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/sharing-ai-progress-in-mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)

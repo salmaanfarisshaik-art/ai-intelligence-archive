@@ -975,6 +975,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.11502v2](http://arxiv.org/abs/2606.11502v2)
 
+## Teaching Diffusion to Speculate Left-to-Right
+- **ID**: arxiv_2606.11552v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.11552v3](http://arxiv.org/abs/2606.11552v3)
+
 ## GENIE: A Fine-Grained Measure for Novelty
 - **ID**: arxiv_2606.12790v2
 - **Source**: ArXiv
@@ -4095,6 +4100,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.11765v2](http://arxiv.org/abs/2610.11765v2)
 
+## Language Models as AI Research World Models
+- **ID**: arxiv_2610.12235v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.12235v2](http://arxiv.org/abs/2610.12235v2)
+
 ## Which Skill to Distill? SGUID: Selecting a Compact Skill Bank for Model-Skill Co-Evolution
 - **ID**: arxiv_2610.12367v1
 - **Source**: ArXiv
@@ -5039,4 +5049,44 @@
 - **ID**: arxiv_2611.06481v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06481v1](http://arxiv.org/abs/2611.06481v1)
+
+## Measuring Risk, Not Harm: Detecting Psychological Harm Risk Factors in LLM Conversations
+- **ID**: arxiv_2611.06806v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06806v1](http://arxiv.org/abs/2611.06806v1)
+
+## LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting
+- **ID**: arxiv_2611.06808v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06808v1](http://arxiv.org/abs/2611.06808v1)
+
+## SAUCE: Summary Analysis Using Conversation Entailment
+- **ID**: arxiv_2611.06812v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06812v1](http://arxiv.org/abs/2611.06812v1)
+
+## LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models
+- **ID**: arxiv_2611.06835v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06835v1](http://arxiv.org/abs/2611.06835v1)
+
+## Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants
+- **ID**: arxiv_2611.06839v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06839v1](http://arxiv.org/abs/2611.06839v1)
+
+## Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs
+- **ID**: arxiv_2611.06848v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06848v1](http://arxiv.org/abs/2611.06848v1)
+
+## Balancing hierarchical representation and quantization: A performance trade-off in text embeddings
+- **ID**: arxiv_2611.06859v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06859v1](http://arxiv.org/abs/2611.06859v1)
+
+## SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification
+- **ID**: arxiv_2611.06876v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06876v1](http://arxiv.org/abs/2611.06876v1)
 

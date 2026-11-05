@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06835v1",
+  "schema_version": "1.0",
+  "name": "LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06835v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06835v1",
+    "updated": "2026-11-04T17:52:11Z",
+    "published": "2026-11-04T17:52:11Z",
+    "title": "LooM: Loop-Invariant Memory for Causal Encoder-Decoder Language Models",
+    "summary": "Looped Transformers increase effective depth by re-executing shared layers, but three limitations hinder their adoption: memory grows with the loop count, compute can only be adjusted in whole-block steps, and the loop count is hard to change after training. We propose LooM (Loop-invariant Memory), which addresses each in turn. In a causal encoder-decoder (CED), LooM loops only the decoder layers after the first, which read a global memory written once per token, and each of them publishes the key-value (KV) entry for a token only on its first visit, so the cache does not grow with the loop count. These layers loop independently, providing every budget from 3 to 21 layer executions per token, and one model trained on randomly sampled budgets covers all of them without a router. With enough loops, LooM outperforms a single-pass baseline trained on the same data on language modeling, zero-shot accuracy and long-context perplexity, while using the same cache size. Our analysis further shows that the training budget distribution decides what extra depth buys. These results suggest that a CED is a natural place to loop: memory is written once, and depth becomes a budget chosen at deployment.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T11:52:09Z",
+  "last_updated": "2026-11-04T17:52:11Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06835v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

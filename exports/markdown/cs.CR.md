@@ -90,6 +90,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.12015v3](http://arxiv.org/abs/2605.12015v3)
 
+## GraphIP-Bench: How Hard Is It to Steal a Graph Neural Network, and Can We Stop It?
+- **ID**: arxiv_2605.12827v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.12827v3](http://arxiv.org/abs/2605.12827v3)
+
 ## Identifying AI Web Scrapers Using Canary Tokens
 - **ID**: arxiv_2605.13706v2
 - **Source**: ArXiv

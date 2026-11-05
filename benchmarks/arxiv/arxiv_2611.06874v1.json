@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06874v1",
+  "schema_version": "1.0",
+  "name": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06874v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06874v1",
+    "updated": "2026-11-04T18:29:31Z",
+    "published": "2026-11-04T18:29:31Z",
+    "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+    "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance gains over classical iterative algorithms. In this paper, we propose a Generalized Belief Propagation Network (GBPNet) that preserves message-passing symmetry while enhancing the decoder's learning capability. The architecture uses cascaded variable-node updates and learned element-wise message scaling while retaining the Tanner graph structure. We also introduce two training strategies, progressive training and high-SNR training, that improve decoding accuracy. Experimental results on several linear codes show that GBPNet achieves lower bit error rates than conventional belief propagation and the evaluated state-of-the-art neural decoders.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-05T11:52:09Z",
+  "last_updated": "2026-11-04T18:29:31Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06874v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

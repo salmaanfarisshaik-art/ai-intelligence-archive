@@ -3,7 +3,7 @@
   "id": "skt/kogpt2-base-v2",
   "likes": 61,
   "private": false,
-  "downloads": 35879,
+  "downloads": 32360,
   "tags": [
     "transformers",
     "pytorch",
@@ -14,7 +14,8 @@
     "license:cc-by-nc-sa-4.0",
     "text-generation-inference",
     "endpoints_compatible",
-    "region:us"
+    "region:us",
+    "deploy:azure"
   ],
   "pipeline_tag": "text-generation",
   "library_name": "transformers",

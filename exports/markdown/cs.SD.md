@@ -15,6 +15,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2602.22710v3](http://arxiv.org/abs/2602.22710v3)
 
+## Same Words, Different Judgments: How Preferences Vary Across Modalities
+- **ID**: arxiv_2602.22710v4
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2602.22710v4](http://arxiv.org/abs/2602.22710v4)
+
 ## Causal Tracing of Audio-Text Fusion in Large Audio Language Models
 - **ID**: arxiv_2603.13768v2
 - **Source**: ArXiv

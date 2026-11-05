@@ -9,7 +9,7 @@
   "private": false,
   "sha": "ec7598e756c9d8899bac62be55cc7e1586e50648",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tScanNet Instructions\n\t\n\nTo acquire the access to ScanNet dataset, Please refer to the ScanNet project page and follow the instructions there. You will get a download-scannet.py script after your request for the ScanNet dataset is approved. Note that only a subset of ScanNet is needed. Once you get download-scannet.py, please use the commands below to download the portion of ScanNet that is necessary for ScanRefer:\npython2 download-scannet.py -o data/scannet --type _vh_clean_2.ply… See the full description on the dataset page: https://huggingface.co/datasets/Believe0029/scannetv2.",
-  "downloads": 255275,
+  "downloads": 255310,
   "tags": [
     "region:us"
   ],

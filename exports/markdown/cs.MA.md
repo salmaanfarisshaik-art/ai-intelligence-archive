@@ -125,3 +125,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.30074v1](http://arxiv.org/abs/2610.30074v1)
 
+## A Framework for Context Enrichment and Selective Robustness in LLM Social Agents
+- **ID**: arxiv_2611.06914v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06914v1](http://arxiv.org/abs/2611.06914v1)
+

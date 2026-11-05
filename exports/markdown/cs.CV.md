@@ -430,6 +430,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2511.16717v3](http://arxiv.org/abs/2511.16717v3)
 
+## Counterfactual World Models via Digital Twin-conditioned Video Diffusion
+- **ID**: arxiv_2511.17481v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2511.17481v2](http://arxiv.org/abs/2511.17481v2)
+
 ## Exo2EgoSyn: Unlocking Foundation Video Generation Models for Exocentric-to-Egocentric Video Synthesis
 - **ID**: arxiv_2511.20186v2
 - **Source**: ArXiv
@@ -1054,6 +1059,11 @@
 - **ID**: arxiv_2605.15760v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.15760v2](http://arxiv.org/abs/2605.15760v2)
+
+## Accelerating Rectified Flow Models via Trajectory-Aware Caching
+- **ID**: arxiv_2605.16789v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.16789v2](http://arxiv.org/abs/2605.16789v2)
 
 ## Spectral Progressive Diffusion for Efficient Image and Video Generation
 - **ID**: arxiv_2605.18736v3
@@ -7385,6 +7395,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.40647v1](http://arxiv.org/abs/2610.40647v1)
 
+## GeoFlip Preview: Benchmarking Geometry-Sensitive Physics in Video Generation
+- **ID**: arxiv_2610.42002v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.42002v2](http://arxiv.org/abs/2610.42002v2)
+
 ## Any Forcing: Any-Step Generality and One-Step Stability for Autoregressive Video Generation
 - **ID**: arxiv_2610.42031v1
 - **Source**: ArXiv
@@ -7520,6 +7535,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05359v1](http://arxiv.org/abs/2611.05359v1)
 
+## GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs
+- **ID**: arxiv_2611.05359v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05359v2](http://arxiv.org/abs/2611.05359v2)
+
 ## Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments
 - **ID**: arxiv_2611.05361v1
 - **Source**: ArXiv
@@ -7584,4 +7604,74 @@
 - **ID**: arxiv_2611.06471v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06471v1](http://arxiv.org/abs/2611.06471v1)
+
+## VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation
+- **ID**: arxiv_2611.06796v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06796v1](http://arxiv.org/abs/2611.06796v1)
+
+## Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models
+- **ID**: arxiv_2611.06817v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06817v1](http://arxiv.org/abs/2611.06817v1)
+
+## Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties
+- **ID**: arxiv_2611.06838v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06838v1](http://arxiv.org/abs/2611.06838v1)
+
+## Same Layout, Different Count: What Number Words Do Past Ten in Text-to-Image Models
+- **ID**: arxiv_2611.06840v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06840v1](http://arxiv.org/abs/2611.06840v1)
+
+## Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
+- **ID**: arxiv_2611.06844v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06844v1](http://arxiv.org/abs/2611.06844v1)
+
+## Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos
+- **ID**: arxiv_2611.06849v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06849v1](http://arxiv.org/abs/2611.06849v1)
+
+## Visual Token Routing: Learning to keep tokens that matter
+- **ID**: arxiv_2611.06854v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06854v1](http://arxiv.org/abs/2611.06854v1)
+
+## LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis
+- **ID**: arxiv_2611.06856v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06856v1](http://arxiv.org/abs/2611.06856v1)
+
+## CounterFactual Retrieval for Evidence-Aware Individual Animal Identification
+- **ID**: arxiv_2611.06864v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06864v1](http://arxiv.org/abs/2611.06864v1)
+
+## PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories
+- **ID**: arxiv_2611.06870v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06870v1](http://arxiv.org/abs/2611.06870v1)
+
+## Procedural Adversarial Learning
+- **ID**: arxiv_2611.06890v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06890v1](http://arxiv.org/abs/2611.06890v1)
+
+## Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues
+- **ID**: arxiv_2611.06899v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06899v1](http://arxiv.org/abs/2611.06899v1)
+
+## Motion-guided Contrastive Regularization For Latent World Models
+- **ID**: arxiv_2611.06901v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06901v1](http://arxiv.org/abs/2611.06901v1)
+
+## From Pixels to Actions - Towards Native Vision-Language-Action Policies
+- **ID**: arxiv_2611.06918v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06918v1](http://arxiv.org/abs/2611.06918v1)
 

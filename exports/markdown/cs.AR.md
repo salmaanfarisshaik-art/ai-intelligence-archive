@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.28358v1](http://arxiv.org/abs/2609.28358v1)
 
+## Enabling AWS Cloud FPGA Development Using High-Level Vitis HLS
+- **ID**: arxiv_2611.06829v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06829v1](http://arxiv.org/abs/2611.06829v1)
+

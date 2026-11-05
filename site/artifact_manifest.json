@@ -3,13 +3,13 @@
     {
       "artifact_path": "archive_stats.json",
       "schema_version": "1.0.0",
-      "sha256": "a78bd4958a4ef40df3dc469cd5bd8c04863d08701134375e6de1e6847995644c",
+      "sha256": "2d6ccb7a256d14389767ddb0f4dd8d193aa9f5ab9c92b69d6b2cdd3045d2ab16",
       "size_bytes": 352
     },
     {
       "artifact_path": "dashboard_metrics.json",
       "schema_version": "1.0.0",
-      "sha256": "bc617223c15022c7d942cdf8749290d079978569183355e7ad54c9647248fd93",
+      "sha256": "fe44965abd0b8dad8fb92234a60d794a40655598806740e386c02c60a65601fb",
       "size_bytes": 1014
     },
     {
@@ -21,19 +21,19 @@
     {
       "artifact_path": "entity_links.json",
       "schema_version": "1.0.0",
-      "sha256": "1bf0994c5908b9de2ff73d5d385bf547bdf9ca8418f6710c32460479ba573e54",
-      "size_bytes": 340003
+      "sha256": "db0cda0d7a58465dff92c54d5e9626b5932427bb8afc6a4d37e4452be8c06fc5",
+      "size_bytes": 341973
     },
     {
       "artifact_path": "index.json",
       "schema_version": "1.0.0",
-      "sha256": "b97a57961d2038d646c1c08ed320e339c040ec3017d068701f14e5a094371b51",
+      "sha256": "1f8cf81281a9dcf5e696b0bfcd0af6033438cd29d2c1998dc5023a1038dd5b0f",
       "size_bytes": 1547
     },
     {
       "artifact_path": "index_manifest.json",
       "schema_version": "1.0.0",
-      "sha256": "9fb46345bf3735ba493c2328a6fef883b6fb504d72554dd0264a95f12cbe9c0a",
+      "sha256": "14c2583a0d4cbbf9ea64ef33d0812fb5d732372f69efe05e7c34760331413797",
       "size_bytes": 1383
     },
     {
@@ -57,8 +57,8 @@
     {
       "artifact_path": "related_entities.json",
       "schema_version": "1.0.0",
-      "sha256": "e8bbd79ed0ced7d0bfe03e951fa6fa3bc0f82a442f3f758de676775cbcfa6282",
-      "size_bytes": 317852
+      "sha256": "0e024f45edf02d4c45d43077fb39702b0999ea7d4204094dd307a589941c516f",
+      "size_bytes": 319807
     },
     {
       "artifact_path": "search.bak/chunk_0.json",
@@ -277,15 +277,231 @@
       "size_bytes": 138833
     },
     {
+      "artifact_path": "search/chunk_0.json",
+      "schema_version": "1.0.0",
+      "sha256": "dfde8dddef70a5cbeec19b2a0ab1939bbcc2b0e52f14f4ba01c4ba298b7b1061",
+      "size_bytes": 285933
+    },
+    {
+      "artifact_path": "search/chunk_1.json",
+      "schema_version": "1.0.0",
+      "sha256": "54847bd4c3fd425c1c8d7e1a9a251c859deef972bfbe92690fda5312ac8940dd",
+      "size_bytes": 1118285
+    },
+    {
+      "artifact_path": "search/chunk_2.json",
+      "schema_version": "1.0.0",
+      "sha256": "f0df730c4bff57dc689ca514e2ad04d9ac0ff25e26f5c3c59fba742bf2e822de",
+      "size_bytes": 645993
+    },
+    {
+      "artifact_path": "search/chunk_3.json",
+      "schema_version": "1.0.0",
+      "sha256": "3735dbd949a86ddfc7c9aff7669051030b68a246204943b5230faaa26744785e",
+      "size_bytes": 219201
+    },
+    {
+      "artifact_path": "search/chunk_4.json",
+      "schema_version": "1.0.0",
+      "sha256": "c3a0c34a0d105263983e9df5ebb74090caa09d24a660d3bb058300ba1c9131e4",
+      "size_bytes": 129236
+    },
+    {
+      "artifact_path": "search/chunk_5.json",
+      "schema_version": "1.0.0",
+      "sha256": "3613def057e8782d60fb4d409405ca73e55b4dd83843cc085b9b892e0d866340",
+      "size_bytes": 121498
+    },
+    {
+      "artifact_path": "search/chunk_6.json",
+      "schema_version": "1.0.0",
+      "sha256": "c522106482e73d89477b7e302605628d4a19b67b3074829642c5f1a2dfbb5f51",
+      "size_bytes": 69197
+    },
+    {
+      "artifact_path": "search/chunk_7.json",
+      "schema_version": "1.0.0",
+      "sha256": "76620c374504e3fc8ca6294e1d1917e658da5f05ca4ef90ae727ab9f40355020",
+      "size_bytes": 99497
+    },
+    {
+      "artifact_path": "search/chunk_8.json",
+      "schema_version": "1.0.0",
+      "sha256": "3761972aebe1550ab9b64d6c57b6850404cb31852682ccb41d21c960a97b9e8d",
+      "size_bytes": 95249
+    },
+    {
+      "artifact_path": "search/chunk_9.json",
+      "schema_version": "1.0.0",
+      "sha256": "315e5e1a4f342e9acf2c0e7383476e078af18ba24b5ee17a1d3f12418fec4a86",
+      "size_bytes": 53087
+    },
+    {
+      "artifact_path": "search/chunk_a.json",
+      "schema_version": "1.0.0",
+      "sha256": "454220d9a0783feb67e4737b53c9c1bbb27ba0a2910361d14754371f5486d777",
+      "size_bytes": 10043628
+    },
+    {
+      "artifact_path": "search/chunk_b.json",
+      "schema_version": "1.0.0",
+      "sha256": "116c1328473518f1e3e4fdb53df28dbaa867e8611b09f49b3557f578d5981d7b",
+      "size_bytes": 4314042
+    },
+    {
+      "artifact_path": "search/chunk_c.json",
+      "schema_version": "1.0.0",
+      "sha256": "34e2d3fcf42ae954eb5c42dd07a8b7c469c1e157ba91934afd5a51570d5655ea",
+      "size_bytes": 9044232
+    },
+    {
+      "artifact_path": "search/chunk_d.json",
+      "schema_version": "1.0.0",
+      "sha256": "5a1f7eb8ec66003143f001a4f2cfb0a7ed0b6d331e18ad81c88417456828e80e",
+      "size_bytes": 5052953
+    },
+    {
+      "artifact_path": "search/chunk_e.json",
+      "schema_version": "1.0.0",
+      "sha256": "2fdf9f1856c03e28527142073be1ec0edcb60fd6fd9e3d9f47d104840014124a",
+      "size_bytes": 4277192
+    },
+    {
+      "artifact_path": "search/chunk_f.json",
+      "schema_version": "1.0.0",
+      "sha256": "dc0d4b559da98c137208772127243cd659abf4b2c8ce226ae8a7d9bd17d3bf4d",
+      "size_bytes": 5582705
+    },
+    {
+      "artifact_path": "search/chunk_g.json",
+      "schema_version": "1.0.0",
+      "sha256": "885e7ac7e91abbfee4138efb0ba94c71c0abc651446e243d11ff14579fd2dc2c",
+      "size_bytes": 3082986
+    },
+    {
+      "artifact_path": "search/chunk_h.json",
+      "schema_version": "1.0.0",
+      "sha256": "6c5c538ab6c8ef2573bcdcaa3c6e28bef1517fb754c2a7057215bfa830b987c6",
+      "size_bytes": 3300580
+    },
+    {
+      "artifact_path": "search/chunk_i.json",
+      "schema_version": "1.0.0",
+      "sha256": "c2d03c26358f29446af427737a9140ee4744d119ac26e081d8d49204365b98aa",
+      "size_bytes": 9479301
+    },
+    {
+      "artifact_path": "search/chunk_j.json",
+      "schema_version": "1.0.0",
+      "sha256": "4a68110cb3db559220b096f3161eb0565ba4203e7e5bc37cfd9de573b4d313c1",
+      "size_bytes": 513217
+    },
+    {
+      "artifact_path": "search/chunk_k.json",
+      "schema_version": "1.0.0",
+      "sha256": "05589c2cdc3ab1de451c4f81be4314f7801a64a19872bf1b8e68651ee51efd52",
+      "size_bytes": 528338
+    },
+    {
+      "artifact_path": "search/chunk_l.json",
+      "schema_version": "1.0.0",
+      "sha256": "60759b60ae5ee84341a9ff2dc8987de2573527e4b57a470f3607bf04de7ee327",
+      "size_bytes": 4046223
+    },
+    {
+      "artifact_path": "search/chunk_m.json",
+      "schema_version": "1.0.0",
+      "sha256": "03e60680c7fc465964399dc0fc20d8fbb7d9b9af081a0c993884531d136bb7bf",
+      "size_bytes": 5122961
+    },
+    {
+      "artifact_path": "search/chunk_n.json",
+      "schema_version": "1.0.0",
+      "sha256": "2bf9299829272e692038894a57aecb2374fd8e8b3f14ee9c0b1da0f978324bc6",
+      "size_bytes": 2214969
+    },
+    {
+      "artifact_path": "search/chunk_o.json",
+      "schema_version": "1.0.0",
+      "sha256": "030a3e3a973eeba4ef69d20cc27f9a97b7edd84aa2bf28566fc7df90d0935d47",
+      "size_bytes": 5553419
+    },
+    {
+      "artifact_path": "search/chunk_p.json",
+      "schema_version": "1.0.0",
+      "sha256": "d381bff0ecd85e92152e912b7d034076281f3717687b0ece4b1e544098c3b093",
+      "size_bytes": 5613031
+    },
+    {
+      "artifact_path": "search/chunk_q.json",
+      "schema_version": "1.0.0",
+      "sha256": "bcf8c2481ae96d0656aab748351f50c0ef7267d377fdfb2a623f426d1753bcdb",
+      "size_bytes": 732937
+    },
+    {
+      "artifact_path": "search/chunk_r.json",
+      "schema_version": "1.0.0",
+      "sha256": "c29be9d6b80592f5e2b5c1bdef9eb8520eca4a28d4106e3e3f8d657f0e4c5b5d",
+      "size_bytes": 4407949
+    },
+    {
+      "artifact_path": "search/chunk_s.json",
+      "schema_version": "1.0.0",
+      "sha256": "77c828edec3456278e918a9e695e2641ef3b5802051246423f27b91bbaf7cefb",
+      "size_bytes": 12146949
+    },
+    {
+      "artifact_path": "search/chunk_t.json",
+      "schema_version": "1.0.0",
+      "sha256": "443e4a8699bd02dc89f4001134a60c2b2de27d056cfed48edf230c11f77c1642",
+      "size_bytes": 13544327
+    },
+    {
+      "artifact_path": "search/chunk_u.json",
+      "schema_version": "1.0.0",
+      "sha256": "49f52ef2a281d643e01d9a7fcc11a59fe0f0451aaf838bd3ca16c92f415b3ac1",
+      "size_bytes": 2482864
+    },
+    {
+      "artifact_path": "search/chunk_v.json",
+      "schema_version": "1.0.0",
+      "sha256": "0d0259fa3d788ac2320367bcb85f4de8927544e3858be0608a57b261ee81c0ac",
+      "size_bytes": 1284169
+    },
+    {
+      "artifact_path": "search/chunk_w.json",
+      "schema_version": "1.0.0",
+      "sha256": "6663a392455111b837276bcde0f9d709f6309782825791b7746e2b48110c77af",
+      "size_bytes": 4589157
+    },
+    {
+      "artifact_path": "search/chunk_x.json",
+      "schema_version": "1.0.0",
+      "sha256": "9d1461ab6adc76ef17a831fb8f6c262c0ec792cbb10610512aeed5d3f304bcd1",
+      "size_bytes": 51379
+    },
+    {
+      "artifact_path": "search/chunk_y.json",
+      "schema_version": "1.0.0",
+      "sha256": "81699ed45e16110daf2e5e5af911518c5afb69cd5c6aca940d901830f94e5164",
+      "size_bytes": 644075
+    },
+    {
+      "artifact_path": "search/chunk_z.json",
+      "schema_version": "1.0.0",
+      "sha256": "1fa371caf772ce41530f38a14b00b5ac292bb6ae3bd4230ca1675ae47503fb73",
+      "size_bytes": 139941
+    },
+    {
       "artifact_path": "search_index.json",
       "schema_version": "1.0.0",
-      "sha256": "ad75e1bfa859689abd191a8d1677f770455d321b37c3afb04ea175479adb251b",
+      "sha256": "b6c9bd562897ff6e0a8641220838dc667fbecd4ef49bfe0c6700e169ba83b7e0",
       "size_bytes": 861
     },
     {
       "artifact_path": "timeline.json",
       "schema_version": "1.0.0",
-      "sha256": "2611ce8e9cd0d38195c222b1c907d9056f1905eb40d08a76d5ca9e3e51fe1825",
+      "sha256": "ba8ce469f964d73ca3cb4a8d362a3eee539765ebf8a9699840e20c03cb585c0c",
       "size_bytes": 5166
     },
     {
@@ -295,6 +511,6 @@
       "size_bytes": 77
     }
   ],
-  "generated_at": "2026-11-05T03:09:57Z",
+  "generated_at": "2026-11-05T11:53:31Z",
   "schema_version": "1.0.0"
 }

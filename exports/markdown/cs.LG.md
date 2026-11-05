@@ -2795,3 +2795,18 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06486v1](http://arxiv.org/abs/2611.06486v1)
 
+## Transforming Integer Grids to Spatial Intuition: Perception, Not Planning, Governs ARC-AGI-3
+- **ID**: arxiv_2611.06793v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06793v1](http://arxiv.org/abs/2611.06793v1)
+
+## Message-passing graph persistence
+- **ID**: arxiv_2611.06801v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06801v1](http://arxiv.org/abs/2611.06801v1)
+
+## Context--Answer Metamodels: Forecasting LLM Activations Before the First Answer Token
+- **ID**: arxiv_2611.06837v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06837v1](http://arxiv.org/abs/2611.06837v1)
+
