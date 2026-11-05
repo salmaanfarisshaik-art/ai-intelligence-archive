@@ -376,6 +376,10 @@
 - **ID**: model_ath_maas_ovis2_5_9b
 - **Source**: 
 
+## AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-DwarfStar-GGUF
+- **ID**: model_atomicchat_deepseek_v4_1_flash_1017_uncensored_dwarfstar_gguf
+- **Source**: 
+
 ## AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF
 - **ID**: model_atomicchat_deepseek_v4_1_flash_1017_uncensored_gsq_rco_gguf
 - **Source**: 
@@ -418,6 +422,10 @@
 
 ## AtomicChat/Qwen3.8-Flash-Next-Uncensored-GGUF
 - **ID**: model_atomicchat_qwen3_8_flash_next_uncensored_gguf
+- **Source**: 
+
+## aubmindlab/aragpt2-base
+- **ID**: model_aubmindlab_aragpt2_base
 - **Source**: 
 
 ## audreyt/CyberNeurova-DeepSeek-V4-Flash-abliterated-GGUF
@@ -2320,8 +2328,16 @@
 - **ID**: model_huihui_ai_huihui_deepseek_v4_flash_0731_abliterated_gguf
 - **Source**: 
 
+## huihui-ai/Huihui-gemma-4-12B-agentic-fable5-abliterated
+- **ID**: model_huihui_ai_huihui_gemma_4_12b_agentic_fable5_abliterated
+- **Source**: 
+
 ## huihui-ai/Huihui-gpt-oss-20b-BF16-abliterated
 - **ID**: model_huihui_ai_huihui_gpt_oss_20b_bf16_abliterated
+- **Source**: 
+
+## huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
+- **ID**: model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf
 - **Source**: 
 
 ## huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated
@@ -2722,6 +2738,10 @@
 
 ## jialinyyzz/humanizer
 - **ID**: model_jialinyyzz_humanizer
+- **Source**: 
+
+## jialinyyzz/humanizer-GGUF
+- **ID**: model_jialinyyzz_humanizer_gguf
 - **Source**: 
 
 ## jica98/qwen3.5-4B-super-coder
@@ -4322,6 +4342,10 @@
 
 ## np-cr/testing-qwen3-moe
 - **ID**: model_np_cr_testing_qwen3_moe
+- **Source**: 
+
+## null-space/Qwen3-235B-A22B-abliterated-FP8
+- **ID**: model_null_space_qwen3_235b_a22b_abliterated_fp8
 - **Source**: 
 
 ## NVFP4/Qwen3-Coder-30B-A3B-Instruct-FP4
@@ -6284,6 +6308,10 @@
 - **ID**: model_roneneldan_tinystories_1m
 - **Source**: 
 
+## roneneldan/TinyStories-8M
+- **ID**: model_roneneldan_tinystories_8m
+- **Source**: 
+
 ## S4nfs/Neeto-1.0-8b
 - **ID**: model_s4nfs_neeto_1_0_8b
 - **Source**: 
@@ -6676,6 +6704,10 @@
 - **ID**: model_tensorfold_nvidia_nemotron_3_5_lightning_30b_a3b_mlx_4bit
 - **Source**: 
 
+## Thaurock/Qwen3-Coder-30B-A3B-Instruct-abliterated-GGUF
+- **ID**: model_thaurock_qwen3_coder_30b_a3b_instruct_abliterated_gguf
+- **Source**: 
+
 ## TheBloke/deepseek-coder-6.7B-base-AWQ
 - **ID**: model_thebloke_deepseek_coder_6_7b_base_awq
 - **Source**: 
@@ -6758,6 +6790,10 @@
 
 ## tiiuae/falcon-mamba-tiny-dev
 - **ID**: model_tiiuae_falcon_mamba_tiny_dev
+- **Source**: 
+
+## timteh673/Qwen3.5-122B-A10B-Opus-Reasoning-GGUF
+- **ID**: model_timteh673_qwen3_5_122b_a10b_opus_reasoning_gguf
 - **Source**: 
 
 ## tiny-random/gpt-oss-bf16
@@ -7802,6 +7838,10 @@
 
 ## yujiepan/llama-2-tiny-random
 - **ID**: model_yujiepan_llama_2_tiny_random
+- **Source**: 
+
+## yujiepan/qwen2.5-tiny-random
+- **ID**: model_yujiepan_qwen2_5_tiny_random
 - **Source**: 
 
 ## yujiepan/qwen3-tiny-random

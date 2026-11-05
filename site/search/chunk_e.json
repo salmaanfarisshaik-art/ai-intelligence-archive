@@ -78489,6 +78489,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_liquidai_lfm3_1_7b",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_liquidai_lfm3_1_7b_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -178998,6 +179003,13 @@
     },
     {
       "entity_id": "rss_https://openai.com/index/introducing-evmbench",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "exploitable": [
+    {
+      "entity_id": "rss_https://openai.com/index/introducing-gpt-6-cyber",
       "match_type": "exact",
       "score": 1.0
     }

@@ -3671,6 +3671,11 @@
 - **URL**: [https://openai.com/index/introducing-gpt-6-1-terra](https://openai.com/index/introducing-gpt-6-1-terra)
 
 ## 
+- **ID**: rss_https://openai.com/index/introducing-gpt-6-cyber
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-gpt-6-cyber](https://openai.com/index/introducing-gpt-6-cyber)
+
+## 
 - **ID**: rss_https://openai.com/index/introducing-gpt-6-sol-and-luna
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpt-6-sol-and-luna](https://openai.com/index/introducing-gpt-6-sol-and-luna)
