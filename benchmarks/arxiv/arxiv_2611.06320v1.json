@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06320v1",
+  "schema_version": "1.0",
+  "name": "Conformal Prediction for Distribution-to-Distribution Regression",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06320v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06320v1",
+    "updated": "2026-11-04T10:54:16Z",
+    "published": "2026-11-04T10:54:16Z",
+    "title": "Conformal Prediction for Distribution-to-Distribution Regression",
+    "summary": "Conformal Prediction (CP) provides a model-agnostic framework for constructing finite-sample prediction sets with coverage guarantees and has become a tool for reliable decision-making in high-risk settings. Recent advances have extended Split Conformal Prediction to increasingly complex learning problems, including multilabel, high-dimensional, and functional outputs. In this work, we study CP for Distribution-to-Distribution Regression, a setting of growing interest across many application domains. We show that a naive application of Split CP yields prediction sets that, while marginally valid, are non-interpretable, e.g., lacking a well-defined volume or a tractable sampling procedure, and of limited practical value. To overcome this, we propose a new conformal framework that operates in an orthogonal basis space, producing interpretable prediction sets while preserving coverage guarantees. We further develop an adaptive variant with asymptotic conditional coverage under mild assumptions. Empirical results on synthetic and real-world datasets validate the effectiveness of the proposed approach. The code is publicly available at https://github.com/tuanhacs/conformal_d2d.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T10:54:16Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06320v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

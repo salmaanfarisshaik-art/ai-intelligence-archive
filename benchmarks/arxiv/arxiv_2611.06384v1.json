@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06384v1",
+  "schema_version": "1.0",
+  "name": "Presentation Sensitivity in Typed Decision Models for Subjective Text Evaluation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06384v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06384v1",
+    "updated": "2026-11-04T11:48:58Z",
+    "published": "2026-11-04T11:48:58Z",
+    "title": "Presentation Sensitivity in Typed Decision Models for Subjective Text Evaluation",
+    "summary": "Typed decision models offer structured choices, scores, and probabilities for low-cost automated evaluation. We present a controlled audit of presentation sensitivity in Jev, Clef Flash, and Perplexity Decider across native choice and score interfaces. Across six datasets with 9,000 multiply annotated humor, helpfulness, and summarization items, we collect 702,000 judgments under interventions that vary positions, identifiers, authorship claims, endorsements, decision framing, and rating rubrics while preserving the evaluated texts. Jev's second-position probability advantage reaches 6.11 percentage points on summaries; reversing reader endorsements changes Perplexity's selected humor text on 40.40% of pairs; and rejection framing reduces Clef's summary agreement with human preferences by 23.36 points. Rating formats also shift score levels while often preserving rankings. Across these findings, repeatability, presentation robustness, and human alignment emerge as distinct properties of an evaluator. Reliable use therefore requires validating the decisions and score interpretations on which an evaluation pipeline depends.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:48:58Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06384v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

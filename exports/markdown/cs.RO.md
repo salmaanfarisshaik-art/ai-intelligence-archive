@@ -1175,6 +1175,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42146v1](http://arxiv.org/abs/2610.42146v1)
 
+## Learning to Live: A Step Toward Lifelong Embodied Intelligence
+- **ID**: arxiv_2611.00180v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00180v2](http://arxiv.org/abs/2611.00180v2)
+
 ## PanoTac: A Dense Three-Axis Tactile Sensor for Robust Touch-Centric Manipulation
 - **ID**: arxiv_2611.03520v1
 - **Source**: ArXiv
@@ -1199,4 +1204,14 @@
 - **ID**: arxiv_2611.05320v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05320v1](http://arxiv.org/abs/2611.05320v1)
+
+## UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation
+- **ID**: arxiv_2611.06378v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06378v1](http://arxiv.org/abs/2611.06378v1)
+
+## Beyond Infraction Scores: Failure-Boundary Profiles for Closed-Loop Evaluation of Driving and Robot Navigation Agents
+- **ID**: arxiv_2611.06453v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06453v1](http://arxiv.org/abs/2611.06453v1)
 

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06430v1",
+  "schema_version": "1.0",
+  "name": "TOP: Transmission-Oriented Remote Sensing Pansharpening",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06430v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "eess.IV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06430v1",
+    "updated": "2026-11-04T12:32:02Z",
+    "published": "2026-11-04T12:32:02Z",
+    "title": "TOP: Transmission-Oriented Remote Sensing Pansharpening",
+    "summary": "Pansharpening has been extensively studied as a fundamental image fusion task in remote sensing. However, most existing methods focus on improving fusion quality under the implicit assumption that high-resolution observations have already been fully downlinked to the ground. As a result, existing models are highly vulnerable to perturbations introduced by lossy compression used for downlink transmission. To address this limitation, we present, to the best of our knowledge, the first transmission oriented pansharpening (TOP) framework, which unifies compact latent coding, onboard pansharpening, and efficient downlink transmission within a single satellite-toground pipeline. TOP encodes remote-sensing observations into a compact binary latent space, where a lightweight onboard fusion module can efficiently predict the fused binary latent code. Since only the compact fused code is downlinked, the transmission payload is substantially reduced. Overall, TOP enables low-payload downlink and lightweight onboard processing while maintaining high fusion quality under severe bandwidth constraints. Experiments across multispectral and hyperspectral settings show that TOP consistently achieves superior fusion quality at higher compression ratios than representative pansharpening methods paired with standard lossy codecs. For example, on GaoFen-2, TOP attains a fusion PSNR of 31.4 dB at a downlink compression ratio of 50x. This design also points toward transmissionoriented processing for other remote-sensing tasks. The code will be made available at https://github.com/JingZe-Liang/TOP.git.",
+    "primary_category": "eess.IV"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T12:32:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06430v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

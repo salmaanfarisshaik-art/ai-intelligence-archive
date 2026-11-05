@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.00180v2",
+  "schema_version": "1.0",
+  "name": "Learning to Live: A Step Toward Lifelong Embodied Intelligence",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.00180v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.00180v2",
+    "updated": "2026-11-04T13:26:08Z",
+    "published": "2026-10-30T15:23:52Z",
+    "title": "Learning to Live: A Step Toward Lifelong Embodied Intelligence",
+    "summary": "Embodied agents are usually organized around individual tasks, yet the physical world keeps changing between tasks and during execution. We introduce LIFE (Lifelong Intelligence from Experience), a framework in which a robot observes continuously, remembers selectively, and turns experience into new capabilities. RoboBeats, a family of lightweight streaming gates, tracks conditions set by the agent and discovers new events, deciding when an observation warrants a response or a memory write. Selected observations enter Plastic Memory, a flat store of images and structured records that keeps the source evidence, so new fields and indexes can be added when later questions need them. When existing tools fall short, Explore-Distill-Mount (EDM) turns solutions found during problem solving into validated, reusable tools and skills. Under matched protocols, RoboBeats substantially improves condition tracking over its base models and, at the same writing budget, retains more useful evidence for memory question answering than uniform sampling. A case study of limited scale, replaying 24 hours of continuous video recorded by a real robot, illustrates how the integrated system builds memory from a day of experience and uses it to answer everyday questions. LIFE takes a step toward robots that become more familiar with their surroundings and more capable through experience: learning not only to complete tasks, but to live in the world.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T13:26:08Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.00180v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

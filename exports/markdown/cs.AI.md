@@ -4730,3 +4730,58 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05345v1](http://arxiv.org/abs/2611.05345v1)
 
+## EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design
+- **ID**: arxiv_2611.06321v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06321v1](http://arxiv.org/abs/2611.06321v1)
+
+## Corralling AI Risks with Grassroots Contracts
+- **ID**: arxiv_2611.06374v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06374v1](http://arxiv.org/abs/2611.06374v1)
+
+## Does Context Compression Preserve Refusal Alignment?
+- **ID**: arxiv_2611.06380v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06380v1](http://arxiv.org/abs/2611.06380v1)
+
+## LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution
+- **ID**: arxiv_2611.06381v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06381v1](http://arxiv.org/abs/2611.06381v1)
+
+## MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing
+- **ID**: arxiv_2611.06389v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06389v1](http://arxiv.org/abs/2611.06389v1)
+
+## GIST: Gibbs-Targeted Hierarchical Data Selection for Offline RLVR
+- **ID**: arxiv_2611.06395v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06395v1](http://arxiv.org/abs/2611.06395v1)
+
+## D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding
+- **ID**: arxiv_2611.06425v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06425v1](http://arxiv.org/abs/2611.06425v1)
+
+## EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking
+- **ID**: arxiv_2611.06434v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06434v1](http://arxiv.org/abs/2611.06434v1)
+
+## SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory
+- **ID**: arxiv_2611.06445v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06445v1](http://arxiv.org/abs/2611.06445v1)
+
+## AmbiHTMLBench: A Benchmark for HTML-based Visually Rich Document parsing
+- **ID**: arxiv_2611.06449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06449v1](http://arxiv.org/abs/2611.06449v1)
+
+## FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation
+- **ID**: arxiv_2611.06491v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06491v1](http://arxiv.org/abs/2611.06491v1)
+

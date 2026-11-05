@@ -2280,6 +2280,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.16491v2](http://arxiv.org/abs/2610.16491v2)
 
+## DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning
+- **ID**: arxiv_2610.16822v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.16822v2](http://arxiv.org/abs/2610.16822v2)
+
 ## Cross-View Time-Frequency Diffusion for Extreme-Aware Time-Series Generation
 - **ID**: arxiv_2610.17407v2
 - **Source**: ArXiv
@@ -2759,4 +2764,34 @@
 - **ID**: arxiv_2611.05373v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05373v1](http://arxiv.org/abs/2611.05373v1)
+
+## Conformal Prediction for Distribution-to-Distribution Regression
+- **ID**: arxiv_2611.06320v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06320v1](http://arxiv.org/abs/2611.06320v1)
+
+## Learning to Tune with Biased Gradients: Iterative Feedback Tuning of Model-Free Control on Throttle Valves
+- **ID**: arxiv_2611.06338v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06338v1](http://arxiv.org/abs/2611.06338v1)
+
+## From hydrological laws to catchment models: A process-based model matches deep-learning accuracy on three continents
+- **ID**: arxiv_2611.06382v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06382v1](http://arxiv.org/abs/2611.06382v1)
+
+## Zero-Shot Coordination among LLM Agents
+- **ID**: arxiv_2611.06409v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06409v1](http://arxiv.org/abs/2611.06409v1)
+
+## What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?
+- **ID**: arxiv_2611.06483v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06483v1](http://arxiv.org/abs/2611.06483v1)
+
+## Model Merging Does Not Require Uniform LoRA Ranks
+- **ID**: arxiv_2611.06486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06486v1](http://arxiv.org/abs/2611.06486v1)
 

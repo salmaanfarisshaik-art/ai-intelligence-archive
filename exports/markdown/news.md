@@ -651,6 +651,11 @@
 - **URL**: [https://openai.com/index/a-scorecard-for-the-ai-age](https://openai.com/index/a-scorecard-for-the-ai-age)
 
 ## 
+- **ID**: rss_https://openai.com/index/a-thousand-fewer-paths-to-root
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/a-thousand-fewer-paths-to-root](https://openai.com/index/a-thousand-fewer-paths-to-root)
+
+## 
 - **ID**: rss_https://openai.com/index/aarp-partnership-older-adults-online-safety
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/aarp-partnership-older-adults-online-safety](https://openai.com/index/aarp-partnership-older-adults-online-safety)
@@ -3704,6 +3709,11 @@
 - **ID**: rss_https://openai.com/index/introducing-gpts
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/introducing-gpts](https://openai.com/index/introducing-gpts)
+
+## 
+- **ID**: rss_https://openai.com/index/introducing-images-2-6
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/introducing-images-2-6](https://openai.com/index/introducing-images-2-6)
 
 ## 
 - **ID**: rss_https://openai.com/index/introducing-improvements-to-the-fine-tuning-api-and-expanding-our-custom-models-program

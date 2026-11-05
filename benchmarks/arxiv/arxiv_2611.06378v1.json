@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06378v1",
+  "schema_version": "1.0",
+  "name": "UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06378v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06378v1",
+    "updated": "2026-11-04T11:41:55Z",
+    "published": "2026-11-04T11:41:55Z",
+    "title": "UniLoop: Unified Loop Closure Detection from Retrieval to Geometric Verification and Relative Pose Estimation",
+    "summary": "Loop closure detection conventionally cascades separate models for global retrieval, geometric verification, and relative pose estimation, leading to redundant computation and disconnected visual representations. We propose UniLoop, a unified framework that reuses the hierarchical representations of the pretrained geometric foundation model throughout this pipeline. A shared image encoder produces features for compact global descriptors; the same features are passed to the cross-view decoder for pairwise verification; and the original geometric predictions provide relative camera constraints for pose-graph optimization. Experiments on place recognition, loop verification, and relative pose estimation show that UniLoop improves loop-closure robustness and accuracy while reducing redundant backbone computation relative to modular pipelines. UniLoop achieves the best Recall@10 on MSLS (96.6) and Pitts30k (99.3) among the compared methods, while its verification branch reaches 95.63 AP and 96.29 ROC-AUC, surpassing the existing geometric verification baselines.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:41:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06378v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

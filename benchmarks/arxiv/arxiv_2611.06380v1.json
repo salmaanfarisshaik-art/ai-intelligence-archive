@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06380v1",
+  "schema_version": "1.0",
+  "name": "Does Context Compression Preserve Refusal Alignment?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06380v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06380v1",
+    "updated": "2026-11-04T11:42:42Z",
+    "published": "2026-11-04T11:42:42Z",
+    "title": "Does Context Compression Preserve Refusal Alignment?",
+    "summary": "Context compression reduces inference cost by encoding inputs into compact representations while preserving semantic content. An open question is whether semantic preservation alone is sufficient to maintain downstream behaviours such as refusal alignment. We investigate this question and find that encoder-based compression systematically weakens refusal behaviour in instruction-tuned language models, despite high reconstruction fidelity. This effect persists across model families and compression architectures. Mechanistic analysis shows that compression attenuates activation along the decoder's learned refusal direction. We further explore Memory Steering, a lightweight inference-time intervention that restores refusal rates to near-baseline levels without retraining and operates entirely in compressed representation space. These results demonstrate that semantic preservation does not guarantee behavioural preservation under compression, highlighting the need to explicitly preserve alignment-relevant features in compression-aware systems.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:42:42Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06380v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

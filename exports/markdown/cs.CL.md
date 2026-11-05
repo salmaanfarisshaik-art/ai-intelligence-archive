@@ -3835,6 +3835,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.38627v3](http://arxiv.org/abs/2609.38627v3)
 
+## Zero-Compute Cross-Lingual Transferability Estimation Using Typological Feature Proxies
+- **ID**: arxiv_2609.39640v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.39640v2](http://arxiv.org/abs/2609.39640v2)
+
 ## LLM Persona Unlearning
 - **ID**: arxiv_2609.39882v2
 - **Source**: ArXiv
@@ -4169,6 +4174,11 @@
 - **ID**: arxiv_2610.14531v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.14531v2](http://arxiv.org/abs/2610.14531v2)
+
+## Where Is the "Self" of a Large Language Model? -- From Self-Index to Self-Reference
+- **ID**: arxiv_2610.16717v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.16717v5](http://arxiv.org/abs/2610.16717v5)
 
 ## Gluing Local Contexts into Global Meaning: A Sheaf-Theoretic Decomposition of Transformer Representations
 - **ID**: arxiv_2610.17117v2
@@ -4984,4 +4994,49 @@
 - **ID**: arxiv_2611.05376v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05376v1](http://arxiv.org/abs/2611.05376v1)
+
+## Mass Producing Training Data with Surprising Side Effects
+- **ID**: arxiv_2611.06324v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06324v1](http://arxiv.org/abs/2611.06324v1)
+
+## Training-Free Character-Length Control in Summarization with Diffusion Language Models
+- **ID**: arxiv_2611.06371v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06371v1](http://arxiv.org/abs/2611.06371v1)
+
+## Presentation Sensitivity in Typed Decision Models for Subjective Text Evaluation
+- **ID**: arxiv_2611.06384v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06384v1](http://arxiv.org/abs/2611.06384v1)
+
+## Where Should a KV-Cache Repair Budget Go? Distractor Structure and Contextual Compatibility in Non-Prefix Reuse
+- **ID**: arxiv_2611.06397v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06397v1](http://arxiv.org/abs/2611.06397v1)
+
+## Interpretable Text Embeddings Based on Hierarchical Questions
+- **ID**: arxiv_2611.06402v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06402v1](http://arxiv.org/abs/2611.06402v1)
+
+## Ruby-OPD: Enhancing Pronunciation Controllability and Accuracy for Flow-Matching Text-to-Speech via On-Policy Distillation
+- **ID**: arxiv_2611.06403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06403v1](http://arxiv.org/abs/2611.06403v1)
+
+## Twists and Turns: A Graph-Based Benchmark and Framework for Long-Term Memory in Exploration Tasks
+- **ID**: arxiv_2611.06414v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06414v1](http://arxiv.org/abs/2611.06414v1)
+
+## EvoGuard: Mitigating Degradation in Online Skill Evolution
+- **ID**: arxiv_2611.06444v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06444v1](http://arxiv.org/abs/2611.06444v1)
+
+## ArcRAG: Agentic Compositional Retrieval over Knowledge Graphs
+- **ID**: arxiv_2611.06481v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06481v1](http://arxiv.org/abs/2611.06481v1)
 

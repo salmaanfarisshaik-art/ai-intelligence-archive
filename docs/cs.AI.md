@@ -159,6 +159,7 @@
 | [AlayaWorld: Interactive Long-Horizon World Modeling - Full Technical Report (v1.1)](http://arxiv.org/abs/2608.13492v1) | ArXiv |  | 1 |
 | [Aletheia: An Offline-First Clinical Decision Support System for Differential Diagnosis in Low-Resource Healthcare Settings](http://arxiv.org/abs/2607.24814v2) | ArXiv |  | 1 |
 | [AlgoEvo: Self-Evolving Agentic Search for Automated Algorithm Discovery](http://arxiv.org/abs/2609.15820v1) | ArXiv |  | 1 |
+| [AmbiHTMLBench: A Benchmark for HTML-based Visually Rich Document parsing](http://arxiv.org/abs/2611.06449v1) | ArXiv |  | 1 |
 | [AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction](http://arxiv.org/abs/2607.29549v1) | ArXiv |  | 1 |
 | [An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction](http://arxiv.org/abs/2608.20320v1) | ArXiv |  | 1 |
 | [An Agentic Framework for Automated Power System Studies and Grid Connection Assessment](http://arxiv.org/abs/2611.03534v1) | ArXiv |  | 1 |
@@ -280,6 +281,7 @@
 | [ConvMem: Convolutional Memory for Long-Context Reasoning](http://arxiv.org/abs/2609.10441v1) | ArXiv |  | 1 |
 | [CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs](http://arxiv.org/abs/2608.05107v1) | ArXiv |  | 1 |
 | [CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases](http://arxiv.org/abs/2608.27391v1) | ArXiv |  | 1 |
+| [Corralling AI Risks with Grassroots Contracts](http://arxiv.org/abs/2611.06374v1) | ArXiv |  | 1 |
 | [Correcting a learned physical invariant improves world-model rollouts](http://arxiv.org/abs/2608.23526v1) | ArXiv |  | 1 |
 | [Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection](http://arxiv.org/abs/2609.15989v1) | ArXiv |  | 1 |
 | [COVER: Identifiable Evaluation of Coalition Routing](http://arxiv.org/abs/2608.28475v1) | ArXiv |  | 1 |
@@ -292,6 +294,7 @@
 | [Cura 1T: Healthcare Foundation Model via Recursive Self-Improvement](http://arxiv.org/abs/2607.15314v3) | ArXiv |  | 1 |
 | [Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education](http://arxiv.org/abs/2608.07364v1) | ArXiv |  | 1 |
 | [D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery](http://arxiv.org/abs/2604.27977v4) | ArXiv |  | 1 |
+| [D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding](http://arxiv.org/abs/2611.06425v1) | ArXiv |  | 1 |
 | [DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models](http://arxiv.org/abs/2608.06243v1) | ArXiv |  | 1 |
 | [DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models](http://arxiv.org/abs/2603.18048v3) | ArXiv |  | 1 |
 | [Dear Algo: A Precision-First Agentic Intent Layer for Unified Search and Recommendation](http://arxiv.org/abs/2608.15877v2) | ArXiv |  | 1 |
@@ -319,6 +322,7 @@
 | [Do Not Restart: Residual Completion for Stateful Agent Handoffs](http://arxiv.org/abs/2609.13800v2) | ArXiv |  | 1 |
 | [Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models](http://arxiv.org/abs/2607.21617v2) | ArXiv |  | 1 |
 | [Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus](http://arxiv.org/abs/2610.08722v1) | ArXiv |  | 1 |
+| [Does Context Compression Preserve Refusal Alignment?](http://arxiv.org/abs/2611.06380v1) | ArXiv |  | 1 |
 | [Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability](http://arxiv.org/abs/2609.05339v1) | ArXiv |  | 1 |
 | [Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade](http://arxiv.org/abs/2607.06503v2) | ArXiv |  | 1 |
 | [DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training](http://arxiv.org/abs/2609.04094v1) | ArXiv |  | 1 |
@@ -342,6 +346,7 @@
 | [EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model](http://arxiv.org/abs/2509.22407v3) | ArXiv |  | 1 |
 | [EnigmaForge: The Question Is Hidden in the Story](http://arxiv.org/abs/2609.30144v1) | ArXiv |  | 1 |
 | [Environment Evolution for Terminal Agents](http://arxiv.org/abs/2609.04128v1) | ArXiv |  | 1 |
+| [EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design](http://arxiv.org/abs/2611.06321v1) | ArXiv |  | 1 |
 | [EpiBench: Verifiable Evaluation of AI Agents on Epigenomics Analysis](http://arxiv.org/abs/2606.13602v1) | ArXiv |  | 1 |
 | [EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](http://arxiv.org/abs/2610.31650v1) | ArXiv |  | 1 |
 | [Epistemic Warrant for LLM Recommendations: Characterizing the Basis for Reliance When Ground Truth Is Unavailable](http://arxiv.org/abs/2609.04127v1) | ArXiv |  | 1 |
@@ -356,6 +361,7 @@
 | [Everything in Moderation: Per-Domain Coverage Optima and Alignment-Resistant Domain Gaps in Multi-Domain Mid-Training](http://arxiv.org/abs/2609.09081v1) | ArXiv |  | 1 |
 | [Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating](http://arxiv.org/abs/2607.24667v1) | ArXiv |  | 1 |
 | [Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav](http://arxiv.org/abs/2608.24764v1) | ArXiv |  | 1 |
+| [EviSeek: An Evidence-Centric Agentic Framework for Embodied Active Information Seeking](http://arxiv.org/abs/2611.06434v1) | ArXiv |  | 1 |
 | [EVOL: Simulator-Guided Evolutionary Expert Synthesis for Deployment-Free Learning Path Recommendation](http://arxiv.org/abs/2610.03273v1) | ArXiv |  | 1 |
 | [Evolutionary Stability Does Not Guarantee Learning Accessibility: A Multi-Agent Reinforcement Learning Perspective on Cooperation Emergence](http://arxiv.org/abs/2609.27664v1) | ArXiv |  | 1 |
 | [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1) | ArXiv |  | 1 |
@@ -396,6 +402,7 @@
 | [Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows](http://arxiv.org/abs/2505.04997v3) | ArXiv |  | 1 |
 | [Fortunate Recall: Ontology-Driven Memory Lifecycle Management for Persistent Coherence in LLMs](http://arxiv.org/abs/2609.10413v1) | ArXiv |  | 1 |
 | [Four Bridges: Measuring Deception Propensity in a Multi-Agent Game](http://arxiv.org/abs/2611.03600v1) | ArXiv |  | 1 |
+| [FPTR: Feasibility-Preserving Transactional Refinement for Deadline-Constrained Joint Beam and Resource Allocation](http://arxiv.org/abs/2611.06491v1) | ArXiv |  | 1 |
 | [Frame-Conditioned Moral Computation in LLaMA 3.1-8B-Instruct: An Exploratory Mechanistic Interpretability Audit of Ethical Reasoning](http://arxiv.org/abs/2606.15507v2) | ArXiv |  | 1 |
 | [Free to Look, Free to Reason: Simple LLM Harnesses Outdiagnose Hand-Crafted Root Cause Analysis Agents](http://arxiv.org/abs/2610.35767v1) | ArXiv |  | 1 |
 | [FrogNano: Training a 4B Coding Agent via Online Task Synthesis](http://arxiv.org/abs/2609.07925v3) | ArXiv |  | 1 |
@@ -429,6 +436,7 @@
 | [GeoBenchLLM: A Comprehensive Benchmark for Evaluating LLMs on Geo-Related Tasks](http://arxiv.org/abs/2608.07411v1) | ArXiv |  | 1 |
 | [GeoReform: Reflective Formalization Evolution for Multimodal Geometry Problem Solving](http://arxiv.org/abs/2610.12391v1) | ArXiv |  | 1 |
 | [Gibson Env: Real-World Perception for Embodied Agents](http://arxiv.org/abs/1808.10654v2) | ArXiv |  | 1 |
+| [GIST: Gibbs-Targeted Hierarchical Data Selection for Offline RLVR](http://arxiv.org/abs/2611.06395v1) | ArXiv |  | 1 |
 | [Global Consistency Repair for Natural-Language Claim Sets](http://arxiv.org/abs/2601.13600v2) | ArXiv |  | 1 |
 | [Governance Records as Supervision: Verifier-Selected Self-Training for Structured Workflow Repair](http://arxiv.org/abs/2608.18324v2) | ArXiv |  | 1 |
 | [GPT4o-Receipt: A Dataset and Human Study for AI-Generated Document Forensics](http://arxiv.org/abs/2603.11442v3) | ArXiv |  | 1 |
@@ -521,6 +529,7 @@
 | [Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency](http://arxiv.org/abs/2609.31619v1) | ArXiv |  | 1 |
 | [Learning When to Think: Adaptive Reasoning for Test-Time Compute Allocation](http://arxiv.org/abs/2608.20256v1) | ArXiv |  | 1 |
 | [LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents](http://arxiv.org/abs/2606.20529v1) | ArXiv |  | 1 |
+| [LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution](http://arxiv.org/abs/2611.06381v1) | ArXiv |  | 1 |
 | [LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback](http://arxiv.org/abs/2607.29559v1) | ArXiv |  | 1 |
 | [LG-Bench: A Graph-Structured Evaluation Benchmark for Life Sciences](http://arxiv.org/abs/2610.26787v1) | ArXiv |  | 1 |
 | [LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence](http://arxiv.org/abs/2609.17488v1) | ArXiv |  | 1 |
@@ -539,6 +548,7 @@
 | [Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions](http://arxiv.org/abs/2608.02491v1) | ArXiv |  | 1 |
 | [LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction](http://arxiv.org/abs/2609.15859v1) | ArXiv |  | 1 |
 | [Low-Cost Video--Time Priors as a Strong Baseline for EEG--fNIRS Emotion Regression on Familiar Videos](http://arxiv.org/abs/2610.03618v1) | ArXiv |  | 1 |
+| [MA-Mesh: Resilient Multi-Agent Collaboration via Role-based Self-Healing](http://arxiv.org/abs/2611.06389v1) | ArXiv |  | 1 |
 | [MA-SBI: Misspecification-Aware Simulation-Based Inference via Side-Channel Guidance](http://arxiv.org/abs/2606.16923v1) | ArXiv |  | 1 |
 | [Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation](http://arxiv.org/abs/2608.02518v1) | ArXiv |  | 1 |
 | [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](http://arxiv.org/abs/2607.28527v1) | ArXiv |  | 1 |
@@ -804,6 +814,7 @@
 | [Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga](http://arxiv.org/abs/2610.13840v1) | ArXiv |  | 1 |
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
+| [SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory](http://arxiv.org/abs/2611.06445v1) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
 | [SWE-chat: Coding Agent Interactions From Real Users in the Wild](http://arxiv.org/abs/2604.20779v2) | ArXiv |  | 1 |
 | [SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving](http://arxiv.org/abs/2609.26777v1) | ArXiv |  | 1 |

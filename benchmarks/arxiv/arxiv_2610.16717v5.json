@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.16717v5",
+  "schema_version": "1.0",
+  "name": "Where Is the \"Self\" of a Large Language Model? -- From Self-Index to Self-Reference",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.16717v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.16717v5",
+    "updated": "2026-11-04T12:26:55Z",
+    "published": "2026-10-12T12:51:04Z",
+    "title": "Where Is the \"Self\" of a Large Language Model? -- From Self-Index to Self-Reference",
+    "summary": "Whether a large language model has a self is usually argued without a way to measure it. We measure a functional self with two levels familiar from biology: a self-index, which marks material as the model's own, as animals tag self-generated signals with a corollary discharge, and self-reference, the ability to recognize what is one's own, as in mirror self-recognition. Our main finding is that language models mark their own messages in their internal representations and that recognizing these messages depends on this mark: no model we tested recognizes its own messages without it, and in the three models we edited, changing the mark removes or creates the recognition. We place the same text in an Assistant, a User, or a System message of the model's own chat template. In Qwen3.8-27B, the representation separates the model's own message from both external sources at every one of its 64 layers and in every held-out text. Asked who wrote a message, the model answers \"you\" with probability 0.77 for its own messages and at most 0.07 for the others. At each layer, we find eight directions along which the model's own message differs most from the same text as a User message. Giving the model's own message the User values along these directions lowers the rate of \"you\" to at most 0.05. Giving a User message the model's own values makes the model claim it, closing 41-67% of the gap between the two messages. Edits along eight random directions do neither. This holds in Qwen3.8-27B without and with thinking, gpt-oss-20b, and gpt-oss-120b. Across twenty-five open-weight models from fourteen developers, the two levels are nested: no model recognizes its own messages without a self-index, a pattern that would arise by chance with probability 0.004 if the levels were unrelated. These results support the account that self-reference is a readout of a self-index.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T12:26:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.16717v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

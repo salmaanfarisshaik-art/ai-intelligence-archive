@@ -95,3 +95,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.35842v1](http://arxiv.org/abs/2610.35842v1)
 
+## TOP: Transmission-Oriented Remote Sensing Pansharpening
+- **ID**: arxiv_2611.06430v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06430v1](http://arxiv.org/abs/2611.06430v1)
+

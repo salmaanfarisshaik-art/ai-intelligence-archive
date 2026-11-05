@@ -6505,6 +6505,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.20610v1](http://arxiv.org/abs/2610.20610v1)
 
+## From Adults to Children: Benchmarking Foundation Models for Chest X-Ray Classification under Domain Shift
+- **ID**: arxiv_2610.21809v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.21809v2](http://arxiv.org/abs/2610.21809v2)
+
 ## Grounded Human-Attributed Description and Activity Recognition in Videos
 - **ID**: arxiv_2610.22295v1
 - **Source**: ArXiv
@@ -7420,6 +7425,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.42152v1](http://arxiv.org/abs/2610.42152v1)
 
+## Learning to Group and Order: Cross-Instance Self-Supervised RL for Vision-Centric MLLMs
+- **ID**: arxiv_2611.00892v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.00892v2](http://arxiv.org/abs/2611.00892v2)
+
 ## Contrastive Adapter Training and Consensus Knowledge Distillation for Multi-Source-Free Domain Adaptation in Skin Cancer Diagnosis
 - **ID**: arxiv_2611.03528v1
 - **Source**: ArXiv
@@ -7519,4 +7529,59 @@
 - **ID**: arxiv_2611.05377v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05377v1](http://arxiv.org/abs/2611.05377v1)
+
+## Prism: Bidirectional Self-Teaching for Unified Multimodal Models
+- **ID**: arxiv_2611.06343v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06343v1](http://arxiv.org/abs/2611.06343v1)
+
+## Traffic-VL: Reinforced Vision-Language Models for Generalizable End-to-End Traffic Signal Control
+- **ID**: arxiv_2611.06353v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06353v1](http://arxiv.org/abs/2611.06353v1)
+
+## FlashRelight: Portrait Video Relighting with Dynamic Lighting
+- **ID**: arxiv_2611.06355v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06355v1](http://arxiv.org/abs/2611.06355v1)
+
+## NanoKV: High-Ratio KV Cache Compression for Autoregressive Video Generation
+- **ID**: arxiv_2611.06377v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06377v1](http://arxiv.org/abs/2611.06377v1)
+
+## A Bag of Tricks for Defending Deep Learning-based Face Recognition Pipelines against Backdoor Attacks
+- **ID**: arxiv_2611.06412v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06412v1](http://arxiv.org/abs/2611.06412v1)
+
+## Entropogram-guided Visual Realignment Decoding: Capturing the Rhythm of Multimodal Reasoning
+- **ID**: arxiv_2611.06415v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06415v1](http://arxiv.org/abs/2611.06415v1)
+
+## Unaligned Image Guided Denoising via Cross-modal Conditional Flow Matching
+- **ID**: arxiv_2611.06422v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06422v1](http://arxiv.org/abs/2611.06422v1)
+
+## DreamRealm: Exploring and Materializing Hallucination Worlds for Trustworthy Vision-Language Models
+- **ID**: arxiv_2611.06433v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06433v1](http://arxiv.org/abs/2611.06433v1)
+
+## Within-Family EfficientNet Scaling under Fixed-Resolution Transfer Learning for Spectral-Domain Optical Coherence Tomography Retinal Disease Classification
+- **ID**: arxiv_2611.06452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06452v1](http://arxiv.org/abs/2611.06452v1)
+
+## CoDecide: Content-Adaptive Video Decoding for High-Throughput Video Analytics
+- **ID**: arxiv_2611.06455v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06455v1](http://arxiv.org/abs/2611.06455v1)
+
+## A 3D foundation model unifying CT interpretation and segmentation
+- **ID**: arxiv_2611.06471v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06471v1](http://arxiv.org/abs/2611.06471v1)
 

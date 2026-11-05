@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06444v1",
+  "schema_version": "1.0",
+  "name": "EvoGuard: Mitigating Degradation in Online Skill Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06444v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06444v1",
+    "updated": "2026-11-04T12:47:32Z",
+    "published": "2026-11-04T12:47:32Z",
+    "title": "EvoGuard: Mitigating Degradation in Online Skill Evolution",
+    "summary": "Skills let language agents reuse experience across tasks as natural-language documents. Recent work evolves skills from interaction, but existing methods have limitations when skills evolve online. Prior methods update a skill offline from a batch of trajectories collected over many tasks. Some then adopt the new skill without any check, which can degrade the skill over time. Others keep it only if it improves performance on a held-out validation set, which is too slow and costly to run after every update. We introduce EvoGuard, a pairwise skill selector that mitigates skill degradation at low latency and cost. We first run the agent iteratively to build pools of skills and score each skill on a private test set to obtain utility labels. We pair the skills and use rejection sampling to keep only pairs with a clear utility gap. The selector is trained on the logits of two label tokens to pick the better skill. At deployment it decides in a single forward pass, which is significantly faster than evaluation on the private test set. Compared with adopting every new skill, EvoGuard improves success by 11.0% on ALFWorld, 5.9% on ScienceWorld, and 2.7% on LiveCodeBench.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T12:47:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06444v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

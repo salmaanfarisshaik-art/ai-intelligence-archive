@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06402v1",
+  "schema_version": "1.0",
+  "name": "Interpretable Text Embeddings Based on Hierarchical Questions",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06402v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06402v1",
+    "updated": "2026-11-04T12:05:15Z",
+    "published": "2026-11-04T12:05:15Z",
+    "title": "Interpretable Text Embeddings Based on Hierarchical Questions",
+    "summary": "QA-based text embeddings represent texts as vectors consisting of 1/0 answers to yes/no questions. Although these embeddings provide detailed information for interpretation and achieve high task performance, they often require humans to examine a large number of questions. Furthermore, the relationship between the number of questions and the appropriate level of question granularity has not been sufficiently studied. To address these challenges, we propose a method for constructing hierarchical questions for text embeddings. As the hierarchy deepens, questions become more specific and their number increases. During interpretation, we reduce the number of questions that humans need to examine by replacing questions at deeper levels with aligned questions at shallower levels. The question hierarchy is constructed through recursive clustering, contrastive prompting, and question alignment. Experimental results on general-purpose tasks show that our method improves interpretability while maintaining task performance. It is also found that, when only a limited number of questions are available, questions at shallower levels tend to achieve higher task performance than those at deeper levels, even with the same number of questions.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T12:05:15Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06402v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.16822v2",
+  "schema_version": "1.0",
+  "name": "DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.16822v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.LG",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.16822v2",
+    "updated": "2026-11-04T11:26:03Z",
+    "published": "2026-10-12T14:04:21Z",
+    "title": "DTA-GT: Direction- and Topology-Aware Graph Transformer for Neural Network Representation Learning",
+    "summary": "Architecture attribute predictors reduce the cost of neural architecture search by estimating accuracy or latency from a small set of evaluated candidates. Neural architectures are operation-labeled directed acyclic graphs (DAGs), where edge directions determine computational roles and execution dependencies. Existing graph Transformer predictors incorporate topological and directional information in different ways, but primarily focus on specific mechanisms rather than coordinated encoder-wide modeling of these semantics. We introduce encoder-wide directional consistency, a design principle that coordinates the modeling of directed computational semantics across node initialization, global spectral encoding, pairwise interaction, and feature updates. To implement this principle, we propose DTA-GT, a Direction- and Topology-Aware Graph Transformer that integrates direction- and topology-aware node initialization, Magnetic Laplacian spectral encoding, direction-dual structural attention, and a Direction-Sensitive MoE-FFN. Across accuracy and latency prediction on NAS-Bench-101 and NAS-Bench-201, DTA-GT consistently outperforms representative sequence-, GNN-, Transformer-, and hybrid predictors under limited-budget settings. Ablations and Magnetic spectral controls support the contribution of the direction-aware stages and orientation-sensitive spectral information, while mechanistic diagnostics characterize module behavior. These results support encoder-wide directional consistency as an effective design principle for architecture DAG representation.",
+    "primary_category": "cs.LG"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:26:03Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.16822v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

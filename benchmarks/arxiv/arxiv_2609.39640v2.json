@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2609.39640v2",
+  "schema_version": "1.0",
+  "name": "Zero-Compute Cross-Lingual Transferability Estimation Using Typological Feature Proxies",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2609.39640v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2609.39640v2",
+    "updated": "2026-11-04T13:00:52Z",
+    "published": "2026-09-30T12:45:46Z",
+    "title": "Zero-Compute Cross-Lingual Transferability Estimation Using Typological Feature Proxies",
+    "summary": "Cross-lingual transfer describes how knowledge in a source language benefits a target language. Measuring it quantitatively requires broad multilingual pre-training, as prior work has done with cross-lingual transfer matrices. We ask whether transfer is predictable from freely available typological features, and whether the prominence of high-resource source languages reflects typology or data quality and quantity. We show that typological databases contain cheap and dense signals about cross-lingual transfer. Our typology-only random forest on a 24-language prior-work transfer matrix scores leave-one-language-out $ρ{=}0.705$ and $R^2{=}0.49$, against $ρ{=}0.62$ for a tuned non-typological control, an increment that a paired bootstrap cannot separate at this scale. When both languages of a held-out pair are unseen, performance degrades to $ρ{\\approx}0.41$, so the model interpolates a ground-truth matrix more reliably than it predicts new languages. The signal survives leave-one-script-out and leave-one-family-out protocols, so script and family confounding do not explain the effect. By decomposing the transfer into a typology term and a resource-and-script bias term, we find the best-source ranking sensitive to this bias. Typological features never observe this bias, which makes them a zero-compute screening tool that replaces hundreds of training runs with a model fit. Our code is available \\href{https://github.com/dharmsen/typo-x-ling-transfer}{here}.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T13:00:52Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2609.39640v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

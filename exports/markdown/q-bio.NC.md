@@ -20,3 +20,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.27729v1](http://arxiv.org/abs/2609.27729v1)
 
+## Mind Control of LLMs via Closed-Loop Stimulation: Out-of-Distribution Robustness
+- **ID**: arxiv_2611.06418v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06418v1](http://arxiv.org/abs/2611.06418v1)
+

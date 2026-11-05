@@ -255,3 +255,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05290v1](http://arxiv.org/abs/2611.05290v1)
 
+## Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work
+- **ID**: arxiv_2611.06346v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06346v1](http://arxiv.org/abs/2611.06346v1)
+

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.06371v1",
+  "schema_version": "1.0",
+  "name": "Training-Free Character-Length Control in Summarization with Diffusion Language Models",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.06371v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.06371v1",
+    "updated": "2026-11-04T11:32:20Z",
+    "published": "2026-11-04T11:32:20Z",
+    "title": "Training-Free Character-Length Control in Summarization with Diffusion Language Models",
+    "summary": "Summarization with a fixed character length is important for tasks such as headline and article preview generation, where text must fit an exact space. Autoregressive language models (LMs) struggle with precise character-length control: training-based methods require task-specific fine-tuning, while zero-shot prompting strategies achieve only approximate compliance. We propose DELTA (Diffusion Expected Length Targeting Algorithm), a training-free inference-time method for masked diffusion LMs that estimates expected character length at each denoising step and dynamically inserts or removes masked positions to steer toward a target length. DELTA requires no fine-tuning and is designed for off-the-shelf masked diffusion LMs. Across three summarization benchmarks, it reduces character-length errors by an order of magnitude compared to baselines while maintaining competitive summary quality in both automatic and human evaluation.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:32:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.06371v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

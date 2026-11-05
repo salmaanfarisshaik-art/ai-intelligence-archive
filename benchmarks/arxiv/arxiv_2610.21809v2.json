@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2610.21809v2",
+  "schema_version": "1.0",
+  "name": "From Adults to Children: Benchmarking Foundation Models for Chest X-Ray Classification under Domain Shift",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2610.21809v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2610.21809v2",
+    "updated": "2026-11-04T11:33:55Z",
+    "published": "2026-10-15T12:57:08Z",
+    "title": "From Adults to Children: Benchmarking Foundation Models for Chest X-Ray Classification under Domain Shift",
+    "summary": "Foundation models have shown significant potential across diverse fields and have been applied to medical imaging, but their robustness across patient populations remains unclear. In this work, we investigate foundation models' ability to generalize from adult to pediatric chest X-ray classification. To the best of our knowledge, this is the first benchmark to compare multiple foundation models under a common adult-to-pediatric evaluation setting while also analyzing the effect of adaptation depth. We harmonize VinDr-CXR and PediCXR into a five-label classification task and evaluate six foundation models and two CNN baselines. All models are adapted using adult data only and tested in both the in-domain and pediatric domains using linear probing, partial fine-tuning, and full fine-tuning. The benchmark reveals a clear and consistent trend: all models suffer a substantial performance degradation when transferred from adult to pediatric data, with drops exceeding 10 percentage points. While Macro-AUROC values reach approximately 92% on the adult test set, performance decreases to around 78% on the pediatric domain. Another important finding is that increasing the depth of adaptation improves pediatric performance on average, although the effect varies across models. Moreover, strong in-domain performance does not necessarily indicate greater robustness to domain shift.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-05T03:09:01Z",
+  "last_updated": "2026-11-04T11:33:55Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2610.21809v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}
