@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.05612v2",
+  "schema_version": "1.0",
+  "name": "Whiel: A Neurosymbolic Platform for Certified Relational Program Verification",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.05612v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.DB",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.05612v2",
+    "updated": "2026-11-05T17:45:04Z",
+    "published": "2026-11-03T20:56:53Z",
+    "title": "Whiel: A Neurosymbolic Platform for Certified Relational Program Verification",
+    "summary": "We present the Whiel (a contraction of Whi(le-R)el) system for Lean-certified reasoning about imperative relational programs. The system can encode containment and equivalence problems for Datalog, its extensions with negation, and the core fragment of graph query languages. It can also represent optimized or incremental evaluation algorithms that are not expressible in the original query language, as well as first-order specifications of integrity constraints, schema mappings, and views arising in data integration, exchange, and sharing. Whiel's program states are database instances, and its imperative structure enables compositional Hoare-style reasoning with first-order relational specifications, using prophecy variables and leveled invariants to support inductive arguments. Whiel supports neurosymbolic discovery of loop invariants whose verification conditions can be checked using the Vampire first-order theorem prover. Counterexamples are fed back into the neurosymbolic pipeline, while proposed solutions are translated into Lean proof certificates. To validate the Whiel system, we evaluate its performance on a curated benchmark suite. In summary, we envision the Whiel system as a tool for tackling mathematically demanding, typically undecidable problems involving complex query and constraint languages, with a high degree of trust in its output.",
+    "primary_category": "cs.DB"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T17:45:04Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.05612v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

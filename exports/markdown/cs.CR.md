@@ -515,3 +515,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.03555v1](http://arxiv.org/abs/2611.03555v1)
 
+## FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning
+- **ID**: arxiv_2611.08383v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08383v1](http://arxiv.org/abs/2611.08383v1)
+

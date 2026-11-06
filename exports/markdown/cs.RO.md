@@ -1220,3 +1220,33 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06908v1](http://arxiv.org/abs/2611.06908v1)
 
+## VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception
+- **ID**: arxiv_2611.08368v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08368v1](http://arxiv.org/abs/2611.08368v1)
+
+## MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation
+- **ID**: arxiv_2611.08372v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08372v1](http://arxiv.org/abs/2611.08372v1)
+
+## Social Humanoid: Socially Responsive Human-Humanoid Interaction
+- **ID**: arxiv_2611.08407v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08407v1](http://arxiv.org/abs/2611.08407v1)
+
+## T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models
+- **ID**: arxiv_2611.08413v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08413v1](http://arxiv.org/abs/2611.08413v1)
+
+## Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing
+- **ID**: arxiv_2611.08425v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08425v1](http://arxiv.org/abs/2611.08425v1)
+
+## VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding
+- **ID**: arxiv_2611.08449v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08449v1](http://arxiv.org/abs/2611.08449v1)
+

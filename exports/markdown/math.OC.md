@@ -45,3 +45,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.05334v1](http://arxiv.org/abs/2611.05334v1)
 
+## A Theoretical Analysis of a Bilevel Optimization Formulation for Combined Local-Global Optical Flow Models
+- **ID**: arxiv_2611.08359v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08359v1](http://arxiv.org/abs/2611.08359v1)
+

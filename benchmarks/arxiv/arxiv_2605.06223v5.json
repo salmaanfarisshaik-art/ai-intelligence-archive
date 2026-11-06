@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2605.06223v5",
+  "schema_version": "1.0",
+  "name": "ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2605.06223v5",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.AI",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2605.06223v5",
+    "updated": "2026-11-05T18:29:02Z",
+    "published": "2026-05-07T13:19:03Z",
+    "title": "ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries",
+    "summary": "In human-robot interaction, agentic robots should resolve ambiguous user requests through proactive clarification while keeping user burden low. We study this challenge in interactive instance navigation, where an agent must identify and reach the user-intended target among similar objects. Existing approaches ask open-ended questions and select a candidate that strongly matches the accumulated user-provided information. However, this process can require lengthy user responses and lead the agent to make premature decisions without distinguishing the target from distractors. To address these limitations, we propose Proactive Instance Navigation with Comparative Judgment (ProCompNav), a two-stage framework that first constructs a candidate pool and then identifies the target through Recursive Comparative Judgment (RCJ). RCJ iteratively narrows the pool by selecting an attribute-value pair that divides the candidates, asking the user a binary question, and removing inconsistent candidates, without requiring an attribute unique to the target. ProCompNav substantially improves Success Rate and reduces Response Length on an interactive navigation benchmark, and achieves the highest Success Rate among evaluated methods on a non-interactive benchmark. In two human studies, participants preferred ProCompNav's binary questions to open-ended questions and its batched delivery to interleaved interaction. Our results highlight the need to jointly consider task performance and user-friendly interaction strategies when designing agentic robots.",
+    "primary_category": "cs.AI"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:29:02Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2605.06223v5"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

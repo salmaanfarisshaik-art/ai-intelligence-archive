@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.08407v1",
+  "schema_version": "1.0",
+  "name": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.08407v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.08407v1",
+    "updated": "2026-11-05T18:14:06Z",
+    "published": "2026-11-05T18:14:06Z",
+    "title": "Social Humanoid: Socially Responsive Human-Humanoid Interaction",
+    "summary": "Humanoid robots are typically trained as solitary agents, leaving them unable to coordinate physically with human partners who naturally anticipate and adjust to one another. To bridge this gap, we present Social Humanoid, a hierarchical system that generates and executes socially responsive whole-body motion on a 29-DoF Unitree G1 conditioned on a human partner's motion. Its high-level policy performs flexible sequence modeling of human and humanoid motion through a shared tokenized representation, generating reactive humanoid motion and anticipating the partner's motion when they are occluded, while a low-level whole-body tracking controller executes the generated motion on the robot. To train the system, we introduce a two-phase adaptive retargeting procedure that retargets one interaction partner to the robot while morphing the other partner to preserve contact dynamics, reachability, and relative body scale. We apply this procedure across five motion-capture datasets to produce a new Human-Humanoid Interaction (HHI) benchmark of 260 hours of human-humanoid interactions. Our results demonstrate that Social Humanoid produces coordinated, human-aligned behavior across diverse interaction types in simulation and the real world. Project page: https://von31.github.io/social-humanoid/",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:14:06Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.08407v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

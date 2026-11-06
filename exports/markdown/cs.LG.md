@@ -5,6 +5,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2311.18029v2](http://arxiv.org/abs/2311.18029v2)
 
+## Implicit Regularization via Spectral Neural Networks and Non-linear Matrix Sensing
+- **ID**: arxiv_2402.17595v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2402.17595v2](http://arxiv.org/abs/2402.17595v2)
+
 ## CurvFed: Curvature-Aligned Federated Learning for Fairness without Demographics
 - **ID**: arxiv_2404.19725v9
 - **Source**: ArXiv
@@ -399,6 +404,11 @@
 - **ID**: arxiv_2604.11501v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.11501v2](http://arxiv.org/abs/2604.11501v2)
+
+## Selectivity and Shape in the Design of Forward-Forward Goodness Functions
+- **ID**: arxiv_2604.13081v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.13081v3](http://arxiv.org/abs/2604.13081v3)
 
 ## On the Expressive Power and Limitations of Multi-Layer SSMs
 - **ID**: arxiv_2604.14501v2
@@ -2809,4 +2819,29 @@
 - **ID**: arxiv_2611.06837v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06837v1](http://arxiv.org/abs/2611.06837v1)
+
+## Hybrid Machine Learning for Imbalanced Landing-Phase Safety Event Prediction from Flight Data
+- **ID**: arxiv_2611.08386v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08386v1](http://arxiv.org/abs/2611.08386v1)
+
+## Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO
+- **ID**: arxiv_2611.08453v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08453v1](http://arxiv.org/abs/2611.08453v1)
+
+## Towards interpreting any residual stream direction by scaling activation inversion
+- **ID**: arxiv_2611.08465v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08465v1](http://arxiv.org/abs/2611.08465v1)
+
+## Same Behavior, Different Mechanism: What Finite Experiments Can Certify About Integrated Information
+- **ID**: arxiv_2611.08469v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08469v1](http://arxiv.org/abs/2611.08469v1)
+
+## XStack: A Benchmark for ML Repo Migration
+- **ID**: arxiv_2611.08472v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08472v1](http://arxiv.org/abs/2611.08472v1)
 

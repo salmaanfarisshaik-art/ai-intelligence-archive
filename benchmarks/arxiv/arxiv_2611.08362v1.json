@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.08362v1",
+  "schema_version": "1.0",
+  "name": "SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.08362v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.08362v1",
+    "updated": "2026-11-05T17:41:20Z",
+    "published": "2026-11-05T17:41:20Z",
+    "title": "SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains",
+    "summary": "Masked diffusion language models offer parallel text generation, but independently sampling multiple tokens can disrupt their dependencies and change the output distribution. Exact continuous-time sampling avoids this approximation, yet typically requires one sequential model evaluation per token. We introduce SpecCTMC, a training-free speculative sampler that reduces this sequential bottleneck without a separate draft model. SpecCTMC proposes successive token updates using previously computed model predictions, evaluates their intermediate states in parallel, and applies an exact acceptance-and-correction procedure. We prove that SpecCTMC preserves the joint distribution of event times, generation order, and token values of the underlying continuous-time Markov chain. It therefore introduces neither time-discretization error nor additional factorization error from parallel decoding. Experiments on LLaDA-8B-Instruct and Dream-v0-Instruct-7B across five benchmarks demonstrate 1.73-4.38x fewer sequential model evaluations than direct continuous-time sampling, while preserving the reference sampling distribution. Our code is available at: https://github.com/kasakh/specctmc",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T17:41:20Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.08362v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

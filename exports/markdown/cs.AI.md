@@ -430,6 +430,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.06223v4](http://arxiv.org/abs/2605.06223v4)
 
+## ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries
+- **ID**: arxiv_2605.06223v5
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.06223v5](http://arxiv.org/abs/2605.06223v5)
+
 ## When Does Critique Improve AI-Assisted Theoretical Physics? SCALAR: Structured Critic--Actor Loop for Agentic Reasoning
 - **ID**: arxiv_2605.06772v2
 - **Source**: ArXiv
@@ -1664,6 +1669,11 @@
 - **ID**: arxiv_2608.05144v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2608.05144v1](http://arxiv.org/abs/2608.05144v1)
+
+## From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems
+- **ID**: arxiv_2608.06112v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2608.06112v2](http://arxiv.org/abs/2608.06112v2)
 
 ## DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models
 - **ID**: arxiv_2608.06243v1
@@ -3470,6 +3480,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2609.30137v1](http://arxiv.org/abs/2609.30137v1)
 
+## Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale
+- **ID**: arxiv_2609.30137v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2609.30137v2](http://arxiv.org/abs/2609.30137v2)
+
 ## EnigmaForge: The Question Is Hidden in the Story
 - **ID**: arxiv_2609.30144v1
 - **Source**: ArXiv
@@ -4849,4 +4864,54 @@
 - **ID**: arxiv_2611.06911v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06911v1](http://arxiv.org/abs/2611.06911v1)
+
+## Enhancing Local and Global Structure in Compressed AI Agent Memory
+- **ID**: arxiv_2611.08341v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08341v1](http://arxiv.org/abs/2611.08341v1)
+
+## NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma
+- **ID**: arxiv_2611.08369v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08369v1](http://arxiv.org/abs/2611.08369v1)
+
+## Learning a patient world model for health system simulation in intensive care
+- **ID**: arxiv_2611.08392v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08392v1](http://arxiv.org/abs/2611.08392v1)
+
+## StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning
+- **ID**: arxiv_2611.08403v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08403v1](http://arxiv.org/abs/2611.08403v1)
+
+## The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?
+- **ID**: arxiv_2611.08412v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08412v1](http://arxiv.org/abs/2611.08412v1)
+
+## Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks
+- **ID**: arxiv_2611.08417v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08417v1](http://arxiv.org/abs/2611.08417v1)
+
+## The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI
+- **ID**: arxiv_2611.08428v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08428v1](http://arxiv.org/abs/2611.08428v1)
+
+## ReproBridge: Building Reproducibility into ML Research Artifacts
+- **ID**: arxiv_2611.08452v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08452v1](http://arxiv.org/abs/2611.08452v1)
+
+## Scientist World: Grow a Research World for AI-Scientists
+- **ID**: arxiv_2611.08478v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08478v1](http://arxiv.org/abs/2611.08478v1)
+
+## SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization
+- **ID**: arxiv_2611.08483v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08483v1](http://arxiv.org/abs/2611.08483v1)
 

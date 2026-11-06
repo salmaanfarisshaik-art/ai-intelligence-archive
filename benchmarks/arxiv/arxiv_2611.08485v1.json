@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.08485v1",
+  "schema_version": "1.0",
+  "name": "Where and Why is Grounded Reasoning Useful?",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.08485v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CV",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.08485v1",
+    "updated": "2026-11-05T18:59:32Z",
+    "published": "2026-11-05T18:59:32Z",
+    "title": "Where and Why is Grounded Reasoning Useful?",
+    "summary": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded reasoning are understudied. We study where and why grounded reasoning is most useful. To do so, we introduce a chain-of-thought analysis method to measure how much a model uses its outputted grounding in its thinking trace and perform a detailed ablation study of a grounded reasoning training recipe. We find that grounded reasoning improves counting but shows no significant gain over baselines without coordinate grounding across a wide range of spatial reasoning and perception benchmarks. Using several synthetic tasks, we show that grounded reasoning is most useful when a task requires undescribable references, which are visual concepts that are difficult to describe in language. However, we observe that many existing visual reasoning benchmarks are solvable with only describable text references. To close this gap, we introduce BrickVision, a new benchmark that requires undescribable visual references to solve.",
+    "primary_category": "cs.CV"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:59:32Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.08485v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

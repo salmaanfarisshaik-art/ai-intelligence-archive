@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2606.30015v2",
+  "schema_version": "1.0",
+  "name": "Parametric Skills",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2606.30015v2",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.CL",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2606.30015v2",
+    "updated": "2026-11-05T18:18:18Z",
+    "published": "2026-06-29T09:19:32Z",
+    "title": "Parametric Skills",
+    "summary": "For LLMs, skills are textual recipes encoding mature problem-solving experience. Despite widespread deployment, their utility is limited by the model's ability to comprehend and follow skill instructions. To address this limitation, we propose ParametricSkills, a framework that parameterizes textual skills at test time, enabling context-free management of the full skill lifecycle. Specifically, we first construct a large-scale and high-quality skill collection, and then synthesize single-turn and multi-turn skill-exploitation trajectories. Using this data, we then train a hypernetwork that parameterizes both the content and the exploitation methodologies of skills by converting textual skills into LoRA adapters. To facilitate the real-world application of our framework, we further align the hypernetwork on complex, long-horizon trajectories collected with OpenCode, enabling the models to operate reliably in realistic interactive workflows with ParametricSkills. Across evaluations, ParametricSkills effectively parameterizes skills, yielding substantial gains in task completion. More notably, as parametric skills accumulate as adapters rather than crowding the context, they open a preliminary but promising path toward continual learning at test time.",
+    "primary_category": "cs.CL"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:18:18Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2606.30015v2"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

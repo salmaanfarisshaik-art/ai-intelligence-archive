@@ -250,6 +250,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.37584v1](http://arxiv.org/abs/2610.37584v1)
 
+## Merge and Branch: Efficient Tree-Structured Supervised Fine-Tuning of LLMs for Recommendation
+- **ID**: arxiv_2610.37973v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.37973v2](http://arxiv.org/abs/2610.37973v2)
+
 ## HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation
 - **ID**: arxiv_2611.05319v1
 - **Source**: ArXiv

@@ -995,6 +995,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.02376v2](http://arxiv.org/abs/2605.02376v2)
 
+## FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution
+- **ID**: arxiv_2605.03749v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.03749v3](http://arxiv.org/abs/2605.03749v3)
+
 ## Topology-Constrained Quantized nnUNet for Efficient and Anatomically Accurate 3D Tooth Segmentation
 - **ID**: arxiv_2605.04201v2
 - **Source**: ArXiv
@@ -1089,6 +1094,11 @@
 - **ID**: arxiv_2605.26026v2
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2605.26026v2](http://arxiv.org/abs/2605.26026v2)
+
+## Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution
+- **ID**: arxiv_2605.26032v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2605.26032v2](http://arxiv.org/abs/2605.26032v2)
 
 ## SalsaAgent: A multimodal embodied language model for interactive dance generation
 - **ID**: arxiv_2605.29219v3
@@ -7155,6 +7165,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.31671v1](http://arxiv.org/abs/2610.31671v1)
 
+## SAGE: A hybrid vision-language and geometry framework for work-zone pathway prediction under temporary traffic control
+- **ID**: arxiv_2610.31835v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2610.31835v2](http://arxiv.org/abs/2610.31835v2)
+
 ## OpenStripe supports open-set identification and spatial stripe profiling in wild Amur tigers
 - **ID**: arxiv_2610.32848v1
 - **Source**: ArXiv
@@ -7635,6 +7650,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06849v1](http://arxiv.org/abs/2611.06849v1)
 
+## Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos
+- **ID**: arxiv_2611.06849v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.06849v2](http://arxiv.org/abs/2611.06849v2)
+
 ## Visual Token Routing: Learning to keep tokens that matter
 - **ID**: arxiv_2611.06854v1
 - **Source**: ArXiv
@@ -7674,4 +7694,49 @@
 - **ID**: arxiv_2611.06918v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06918v1](http://arxiv.org/abs/2611.06918v1)
+
+## 4D Point Splatting for mmWave Radar Micro-Doppler Differentiable Rendering
+- **ID**: arxiv_2611.08342v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08342v1](http://arxiv.org/abs/2611.08342v1)
+
+## USB Gym: A Gymnasium Testbed for Closed-Loop Ultrasound View Matching
+- **ID**: arxiv_2611.08352v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08352v1](http://arxiv.org/abs/2611.08352v1)
+
+## OraRefer: Segmentation-Guided Multi-Photograph Fusion for Oral Cancer Screening with Guaranteed Patient-Level Sensitivity
+- **ID**: arxiv_2611.08360v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08360v1](http://arxiv.org/abs/2611.08360v1)
+
+## Adaptive Low-Light Enhancement for Road Anomaly Detection: A Multi-Architecture Benchmark and Edge Deployment Study
+- **ID**: arxiv_2611.08393v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08393v1](http://arxiv.org/abs/2611.08393v1)
+
+## SM4RT: Cascaded Feed-forward Model for 4D Reconstruction
+- **ID**: arxiv_2611.08436v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08436v1](http://arxiv.org/abs/2611.08436v1)
+
+## Edge-Assisted Crowdsensing for Explainable Cyclist Safety Perception
+- **ID**: arxiv_2611.08441v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08441v1](http://arxiv.org/abs/2611.08441v1)
+
+## EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling
+- **ID**: arxiv_2611.08477v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08477v1](http://arxiv.org/abs/2611.08477v1)
+
+## Where and Why is Grounded Reasoning Useful?
+- **ID**: arxiv_2611.08485v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08485v1](http://arxiv.org/abs/2611.08485v1)
+
+## Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI
+- **ID**: arxiv_2611.08486v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08486v1](http://arxiv.org/abs/2611.08486v1)
 

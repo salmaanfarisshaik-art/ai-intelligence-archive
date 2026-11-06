@@ -1021,6 +1021,11 @@
 - **URL**: [https://openai.com/index/australian-payments-plus](https://openai.com/index/australian-payments-plus)
 
 ## 
+- **ID**: rss_https://openai.com/index/australian-universities-ai-native-graduates
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/australian-universities-ai-native-graduates](https://openai.com/index/australian-universities-ai-native-graduates)
+
+## 
 - **ID**: rss_https://openai.com/index/australian-youth-safety-blueprint
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/australian-youth-safety-blueprint](https://openai.com/index/australian-youth-safety-blueprint)
@@ -1669,6 +1674,11 @@
 - **ID**: rss_https://openai.com/index/critiques
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/critiques](https://openai.com/index/critiques)
+
+## 
+- **ID**: rss_https://openai.com/index/cultfit-builds-with-codex
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/cultfit-builds-with-codex](https://openai.com/index/cultfit-builds-with-codex)
 
 ## 
 - **ID**: rss_https://openai.com/index/custom-instructions-for-chatgpt
@@ -2594,6 +2604,11 @@
 - **ID**: rss_https://openai.com/index/forward-deployed-engineering-means
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/forward-deployed-engineering-means](https://openai.com/index/forward-deployed-engineering-means)
+
+## 
+- **ID**: rss_https://openai.com/index/franklin-templeton
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/franklin-templeton](https://openai.com/index/franklin-templeton)
 
 ## 
 - **ID**: rss_https://openai.com/index/frontier-ai-regulation

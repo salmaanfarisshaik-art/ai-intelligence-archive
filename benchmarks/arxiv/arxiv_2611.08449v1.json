@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.08449v1",
+  "schema_version": "1.0",
+  "name": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.08449v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.08449v1",
+    "updated": "2026-11-05T18:44:43Z",
+    "published": "2026-11-05T18:44:43Z",
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly. We introduce VFlash, a method for fast, accurate visual planning through Flash Primitive Decoding. VFlash exploits the known structure of visual primitives to predict their coordinates jointly, using a lightweight drafter that generates an entire primitive in one forward pass. The layout adapts to the primitive's type, dimensionality, and length, supporting compact boxes and long, variable-length trajectories. Crucially, spatial accuracy need not require reproducing an autoregressive model's exact token sequence. VFlash therefore trains on annotated primitives and directly accepts structurally valid predictions without target-token agreement. Across the evaluated 2D and 3D robot trajectory tasks, VFlash consistently reduces prediction errors relative to autoregressive decoding. Preliminary single-rollout measurements indicate approximately 25x faster generation for 3D point motion forecasting. A world action model conditioned on VFlash plans achieves 70.2% average success across four MolmoSpaces task suites, compared with 62.6% for the baseline.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:44:43Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.08449v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

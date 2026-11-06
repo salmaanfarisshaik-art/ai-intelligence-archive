@@ -1045,6 +1045,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.13668v1](http://arxiv.org/abs/2606.13668v1)
 
+## Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution
+- **ID**: arxiv_2606.13668v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.13668v2](http://arxiv.org/abs/2606.13668v2)
+
 ## Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning
 - **ID**: arxiv_2606.13680v1
 - **Source**: ArXiv
@@ -1304,6 +1309,11 @@
 - **ID**: arxiv_2606.28876v3
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2606.28876v3](http://arxiv.org/abs/2606.28876v3)
+
+## Parametric Skills
+- **ID**: arxiv_2606.30015v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2606.30015v2](http://arxiv.org/abs/2606.30015v2)
 
 ## Tastes without distinction: silicon samples and the synthetic construction of tastes
 - **ID**: arxiv_2606.30085v2
@@ -5089,4 +5099,24 @@
 - **ID**: arxiv_2611.06876v1
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2611.06876v1](http://arxiv.org/abs/2611.06876v1)
+
+## SpecCTMC: Exact Speculative Simulation of Diffusion Language Model Continuous-Time Markov Chains
+- **ID**: arxiv_2611.08362v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08362v1](http://arxiv.org/abs/2611.08362v1)
+
+## MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue
+- **ID**: arxiv_2611.08433v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08433v1](http://arxiv.org/abs/2611.08433v1)
+
+## Understanding AI from the Inside: The State of Mechanistic Interpretability for AI Safety
+- **ID**: arxiv_2611.08438v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08438v1](http://arxiv.org/abs/2611.08438v1)
+
+## Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Words, Not on Abbreviations or Codes
+- **ID**: arxiv_2611.08439v1
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.08439v1](http://arxiv.org/abs/2611.08439v1)
 

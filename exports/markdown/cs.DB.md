@@ -60,3 +60,8 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2610.13823v1](http://arxiv.org/abs/2610.13823v1)
 
+## Whiel: A Neurosymbolic Platform for Certified Relational Program Verification
+- **ID**: arxiv_2611.05612v2
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2611.05612v2](http://arxiv.org/abs/2611.05612v2)
+

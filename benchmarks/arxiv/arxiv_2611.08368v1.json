@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2611.08368v1",
+  "schema_version": "1.0",
+  "name": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2611.08368v1",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.RO",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2611.08368v1",
+    "updated": "2026-11-05T17:48:00Z",
+    "published": "2026-11-05T17:48:00Z",
+    "title": "VisionSIM: Beyond Idealized Sensors - A Multi-Modal Simulator for Robot Perception",
+    "summary": "Robotic perception increasingly relies on heterogeneous sensor suites combining cameras with emerging modalities (event, SPAD, iToF/dToF, and thermal). Yet existing simulators idealize these sensors, hiding critical modality-specific failure modes that limit real-world deployment. We present VisionSIM, a unified, physically grounded simulation platform that elevates sensor realism to a first-class concern by modeling the raw physical measurement process for diverse conventional and emerging modalities. We expose fine-grained control over physical sensor parameters, reproducing failure modes overlooked by general-purpose simulators: pileup and glare for LiDAR; phase wrapping, saturation, and motion artifacts for iToF; refractory drops for event cameras; and history-dependent emission for thermal cameras. This enables principled cross-modality comparison on identical scenes and trajectories. We release the platform and a large indoor dataset with synchronized raw measurements and rich ground-truth annotations.",
+    "primary_category": "cs.RO"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T17:48:00Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2611.08368v1"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

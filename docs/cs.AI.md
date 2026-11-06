@@ -202,6 +202,7 @@
 | [Belief-Aware Multi-Agent Path Finding under Map Uncertainty](http://arxiv.org/abs/2609.40269v1) | ArXiv |  | 1 |
 | [Bellman Language Models: Solving the Recurring Decisions of LLM Agents](http://arxiv.org/abs/2610.24871v1) | ArXiv |  | 1 |
 | [Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight](http://arxiv.org/abs/2608.24314v2) | ArXiv |  | 1 |
+| [Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks](http://arxiv.org/abs/2611.08417v1) | ArXiv |  | 1 |
 | [Beyond Accuracy: Measuring Logical Compliance of Predictive Models](http://arxiv.org/abs/2606.20208v2) | ArXiv |  | 1 |
 | [Beyond Causal Masks: Auditing and Localizing Hidden Future-Token Leakage in Adaptive Sequence Models](http://arxiv.org/abs/2610.31522v1) | ArXiv |  | 1 |
 | [Beyond Dense States: Sparse Transcoders as Causally Testable Operators for LLM Latent Reasoning](http://arxiv.org/abs/2602.01695v2) | ArXiv |  | 1 |
@@ -349,6 +350,7 @@
 | [EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution](http://arxiv.org/abs/2610.10498v1) | ArXiv |  | 1 |
 | [Emergent Collusion in Long-Horizon LLM Agent Interaction](http://arxiv.org/abs/2609.24967v1) | ArXiv |  | 1 |
 | [EMMA: Enhancing Robotic Control Robustness through a Generative Visual Model](http://arxiv.org/abs/2509.22407v3) | ArXiv |  | 1 |
+| [Enhancing Local and Global Structure in Compressed AI Agent Memory](http://arxiv.org/abs/2611.08341v1) | ArXiv |  | 1 |
 | [EnigmaForge: The Question Is Hidden in the Story](http://arxiv.org/abs/2609.30144v1) | ArXiv |  | 1 |
 | [Environment Evolution for Terminal Agents](http://arxiv.org/abs/2609.04128v1) | ArXiv |  | 1 |
 | [EnzymeRSI: A dual-loop recursive self-improvement system for enzyme design](http://arxiv.org/abs/2611.06321v1) | ArXiv |  | 1 |
@@ -424,6 +426,7 @@
 | [From Proposal to Execution: Modeling Interaction Semantics in Shared Autonomy](http://arxiv.org/abs/2610.25496v2) | ArXiv |  | 1 |
 | [From Refusal Tokens to Refusal Control: Discovering and Steering Category-Specific Refusal Directions](http://arxiv.org/abs/2603.13359v2) | ArXiv |  | 1 |
 | [From Regulation to Implementation: A Critical Evaluation of LLM-Assisted Regulatory Compliance in Industry](http://arxiv.org/abs/2608.21317v1) | ArXiv |  | 1 |
+| [From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems](http://arxiv.org/abs/2608.06112v2) | ArXiv |  | 1 |
 | [From Stages to States: Unified Iterative Reasoning for MLLMs](http://arxiv.org/abs/2610.15620v2) | ArXiv |  | 1 |
 | [FrontierChallenge: Evaluating Scientific Workflow Completion](http://arxiv.org/abs/2608.24979v2) | ArXiv |  | 1 |
 | [FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1) | ArXiv |  | 1 |
@@ -524,6 +527,7 @@
 | [Leaky-integrator reconstruction: taming error accumulation in recursive differenced time-series forecasting](http://arxiv.org/abs/2609.23378v1) | ArXiv |  | 1 |
 | [Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study](http://arxiv.org/abs/2608.27421v1) | ArXiv |  | 1 |
 | [Learning a Fact Is Not Learning How to Retrieve It](http://arxiv.org/abs/2610.03251v1) | ArXiv |  | 1 |
+| [Learning a patient world model for health system simulation in intensive care](http://arxiv.org/abs/2611.08392v1) | ArXiv |  | 1 |
 | [Learning Cardiac Electrophysiology Digital Twins Through Agentic Discovery of Hybrid Structure](http://arxiv.org/abs/2606.18154v1) | ArXiv |  | 1 |
 | [Learning Cardiac Features: ECG Biometrics Across Time and~Exercise](http://arxiv.org/abs/2609.21962v1) | ArXiv |  | 1 |
 | [Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI](http://arxiv.org/abs/2609.38143v1) | ArXiv |  | 1 |
@@ -613,6 +617,7 @@
 | [NgramRL: Accelerating RL Post-Training for Structured Generation via Rollout-Aware N-gram Speculative Decoding](http://arxiv.org/abs/2610.32881v1) | ArXiv |  | 1 |
 | [Not All Eval-Awareness Is Equal: Capabilities Framing Predicts Compliance](http://arxiv.org/abs/2608.27340v1) | ArXiv |  | 1 |
 | [Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines](http://arxiv.org/abs/2608.29589v1) | ArXiv |  | 1 |
+| [NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma](http://arxiv.org/abs/2611.08369v1) | ArXiv |  | 1 |
 | [OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling](http://arxiv.org/abs/2608.05141v1) | ArXiv |  | 1 |
 | [OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding](http://arxiv.org/abs/2607.27155v1) | ArXiv |  | 1 |
 | [OmniScientist: An Omni-Modal Omni-Discipline AI Scientist](http://arxiv.org/abs/2608.13558v1) | ArXiv |  | 1 |
@@ -677,6 +682,7 @@
 | [Procedural Content Generation via Generative Artificial Intelligence](http://arxiv.org/abs/2407.09013v3) | ArXiv |  | 1 |
 | [Procedural Graphs: Self-Evolving Execution Structures for LLM Agents](http://arxiv.org/abs/2609.09153v1) | ArXiv |  | 1 |
 | [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v4) | ArXiv |  | 1 |
+| [ProCompNav: Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](http://arxiv.org/abs/2605.06223v5) | ArXiv |  | 1 |
 | [ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs](http://arxiv.org/abs/2608.25992v1) | ArXiv |  | 1 |
 | [Projecting Latent RL Actions: Towards Generalizable and Scalable Graph Combinatorial Optimization](http://arxiv.org/abs/2605.19721v2) | ArXiv |  | 1 |
 | [Prompt Minimization: Reducing Input Redundancy Without Sacrificing Output Fidelity](http://arxiv.org/abs/2609.31505v1) | ArXiv |  | 1 |
@@ -717,6 +723,7 @@
 | [Reinforcing Agentic Creativity in Scientific Ideation with Night Science](http://arxiv.org/abs/2609.35706v1) | ArXiv |  | 1 |
 | [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](http://arxiv.org/abs/2609.02749v1) | ArXiv |  | 1 |
 | [Report: Progressive Disclosure of Agent Skills](http://arxiv.org/abs/2609.35692v1) | ArXiv |  | 1 |
+| [ReproBridge: Building Reproducibility into ML Research Artifacts](http://arxiv.org/abs/2611.08452v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v1) | ArXiv |  | 1 |
 | [ResearchArena: Evaluating Sabotage and Monitoring in Automated AI R&D](http://arxiv.org/abs/2607.19321v2) | ArXiv |  | 1 |
 | [ResidencyRL: Reinforcement Learning in Simulated Clinical Environments](http://arxiv.org/abs/2608.07418v1) | ArXiv |  | 1 |
@@ -759,8 +766,10 @@
 | [ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research](http://arxiv.org/abs/2610.02202v1) | ArXiv |  | 1 |
 | [ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents](http://arxiv.org/abs/2609.17523v1) | ArXiv |  | 1 |
 | [ScienceClaw: Benchmarking Continual Self-Evolution of AI-for-Science Agents Across the Natural and Social Sciences](http://arxiv.org/abs/2610.08691v1) | ArXiv |  | 1 |
+| [Scientist World: Grow a Research World for AI-Scientists](http://arxiv.org/abs/2611.08478v1) | ArXiv |  | 1 |
 | [SciExam for ENSO: Can AI Agents Build Climate Models?](http://arxiv.org/abs/2610.10513v1) | ArXiv |  | 1 |
 | [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v1) | ArXiv |  | 1 |
+| [Screen Before You Serve: Simulation for Production Customer Experience AI Agents at 140M Scale](http://arxiv.org/abs/2609.30137v2) | ArXiv |  | 1 |
 | [SE-GoS: Self-Evolving Graph-of-Skills for Skill Library at Scale](http://arxiv.org/abs/2609.08228v2) | ArXiv |  | 1 |
 | [Search-Aware Reinforcement Learning for Multi-Component Query Understanding in Roblox Game Search](http://arxiv.org/abs/2609.30177v1) | ArXiv |  | 1 |
 | [Searching for "Harmful Refusal": A Psychometric Audit of an AI Safety Benchmark](http://arxiv.org/abs/2610.12409v1) | ArXiv |  | 1 |
@@ -814,6 +823,7 @@
 | [Statistical Early Stopping for Reasoning Models](http://arxiv.org/abs/2602.13935v3) | ArXiv |  | 1 |
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v1) | ArXiv |  | 1 |
 | [Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science](http://arxiv.org/abs/2609.15983v2) | ArXiv |  | 1 |
+| [StepBack: Step-Level Error-Localized Resampling for Efficient Test-Time Reasoning](http://arxiv.org/abs/2611.08403v1) | ArXiv |  | 1 |
 | [StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing](http://arxiv.org/abs/2608.24777v1) | ArXiv |  | 1 |
 | [Stochastic World Models for Verifying Vision-Based Neural Feedback Systems](http://arxiv.org/abs/2609.38120v1) | ArXiv |  | 1 |
 | [Strategist: Evolving Reasoning with Agents](http://arxiv.org/abs/2611.03618v1) | ArXiv |  | 1 |
@@ -826,6 +836,7 @@
 | [Subjective functions](http://arxiv.org/abs/2512.15948v3) | ArXiv |  | 1 |
 | [Subliminal Learning is a LoRA Artifact](http://arxiv.org/abs/2606.00831v2) | ArXiv |  | 1 |
 | [SUMONE: A Simple and Efficient Summarizer for Plug-and-Play Agent Memory](http://arxiv.org/abs/2611.06445v1) | ArXiv |  | 1 |
+| [SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization](http://arxiv.org/abs/2611.08483v1) | ArXiv |  | 1 |
 | [SwarmWorld: Stigmergic technological evolution in societies of language-model agents](http://arxiv.org/abs/2608.26081v1) | ArXiv |  | 1 |
 | [SWE-chat: Coding Agent Interactions From Real Users in the Wild](http://arxiv.org/abs/2604.20779v2) | ArXiv |  | 1 |
 | [SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving](http://arxiv.org/abs/2609.26777v1) | ArXiv |  | 1 |
@@ -849,6 +860,7 @@
 | [The edge-based contiguous p-median problem: exact formulations and strengthening inequalities](http://arxiv.org/abs/2608.11230v2) | ArXiv |  | 1 |
 | [The embrace of open science: An analysis of a decade of AI research and 56 800 conference papers](http://arxiv.org/abs/2606.16974v1) | ArXiv |  | 1 |
 | [The Geometry of Ignorance: Detecting Suppressed Knowledge in LLMs through Activation Fragmentation](http://arxiv.org/abs/2611.05272v1) | ArXiv |  | 1 |
+| [The Gold Rush in AI4Math, II: What are signatures of AI-assisted Proofs?](http://arxiv.org/abs/2611.08412v1) | ArXiv |  | 1 |
 | [The Hitchhikers Guide to Rubric Quality Understanding and Enrichment](http://arxiv.org/abs/2604.01375v4) | ArXiv |  | 1 |
 | [The Illusion of AI Expertise Under Uncertainty: A Probabilistic Paradigm to Interpret Results Under Ground Truth Variation](http://arxiv.org/abs/2601.05500v6) | ArXiv |  | 1 |
 | [The Illusion of Equivalency: Statistical Characterization of Quantization Effects in LLMs](http://arxiv.org/abs/2607.08734v2) | ArXiv |  | 1 |
@@ -859,6 +871,7 @@
 | [The Natural Language Interaction Protocol and Standard for AI Agents](http://arxiv.org/abs/2609.04135v1) | ArXiv |  | 1 |
 | [The One-Pixel of Reasoning: One Truthful Relation Is Enough to Mislead LLM Agents](http://arxiv.org/abs/2610.24873v1) | ArXiv |  | 1 |
 | [The Past and Future of AI Scientists](http://arxiv.org/abs/2608.14407v1) | ArXiv |  | 1 |
+| [The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI](http://arxiv.org/abs/2611.08428v1) | ArXiv |  | 1 |
 | [The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents](http://arxiv.org/abs/2607.22520v1) | ArXiv |  | 1 |
 | [The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](http://arxiv.org/abs/2606.18192v1) | ArXiv |  | 1 |
 | [The Stanford EDGAR Filings Dataset: Reconstructing U.S. Corporate and Financial Disclosures into Layout-Faithful and Token-Efficient Pretraining Data](http://arxiv.org/abs/2606.18192v2) | ArXiv |  | 1 |

@@ -1,0 +1,29 @@
+{
+  "unique_id": "arxiv_2604.09568v3",
+  "schema_version": "1.0",
+  "name": "EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution",
+  "model": "N/A",
+  "score": 0.0,
+  "source_url": "http://arxiv.org/abs/2604.09568v3",
+  "source_name": "ArXiv",
+  "source_type": "arxiv",
+  "category": "cs.HC",
+  "raw_payload": {
+    "id": "http://arxiv.org/abs/2604.09568v3",
+    "updated": "2026-11-05T18:18:33Z",
+    "published": "2026-02-20T11:11:02Z",
+    "title": "EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution",
+    "summary": "High-fidelity diagram creation requires coordinated visual-spatial decisions over semantic topology, visual styling, and geometric layout. Existing methods face a representation gap: pixel-based generation offers limited object-level control, while code-based synthesis provides executable structure at the cost of intuitive manipulation. We introduce EvoDesign, an agentic framework for editable diagram creation through an intermediate canvas schema that is both machine-actionable and directly manipulable by users. EvoDesign first constructs a diagram manifest through coordinated structure, style, and layout agents, and then renders the manifest in a diagnostic verification environment. This environment produces objective defect signals and VLM-based critique, enabling localized refinement of the current diagram while also providing evidence for long-term design expertise evolution. The evolution mechanism distills refinement traces into a three-tier design expertise memory, where candidate strategies are linked to the verification evidence that supports them and are promoted into broader guidelines and principles only through repeated cross-context support. We further define CanvasBench, a canvas-recoverable benchmark and evaluation protocol with content, visual, and cognitive dimensions. Experiments across pixel, code-based, agentic, one-shot schema, and canvas-native methods show that EvoDesign provides the strongest overall balance across content fidelity, visual organization, and cognitive usability. Our code is available at https://github.com/GeminiLight/EvoDesign.",
+    "primary_category": "cs.HC"
+  },
+  "retrieval_timestamp": "2026-11-06T07:39:46Z",
+  "last_updated": "2026-11-05T18:18:33Z",
+  "links": {
+    "related_models": [],
+    "related_papers": [
+      "2604.09568v3"
+    ],
+    "related_datasets": [],
+    "related_tools": []
+  }
+}

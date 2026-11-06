@@ -40,6 +40,11 @@
 - **Source**: ArXiv
 - **URL**: [http://arxiv.org/abs/2604.09568v2](http://arxiv.org/abs/2604.09568v2)
 
+## EvoDesign: Agentic Editable Diagram Creation via Design Expertise Evolution
+- **ID**: arxiv_2604.09568v3
+- **Source**: ArXiv
+- **URL**: [http://arxiv.org/abs/2604.09568v3](http://arxiv.org/abs/2604.09568v3)
+
 ## "What Are You Really Trying to Do?": Co-Creating Life Goals from Everyday Computer Use
 - **ID**: arxiv_2605.00497v2
 - **Source**: ArXiv
