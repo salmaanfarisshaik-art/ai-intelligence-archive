@@ -281,6 +281,11 @@
 - **URL**: [https://openai.com/ads/customers/evernote](https://openai.com/ads/customers/evernote)
 
 ## 
+- **ID**: rss_https://openai.com/ads/customers/flipsnack
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/ads/customers/flipsnack](https://openai.com/ads/customers/flipsnack)
+
+## 
 - **ID**: rss_https://openai.com/business/enabling-a-data-driven-workforce-webinar
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/business/enabling-a-data-driven-workforce-webinar](https://openai.com/business/enabling-a-data-driven-workforce-webinar)
@@ -4339,6 +4344,11 @@
 - **ID**: rss_https://openai.com/index/mercari
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/mercari](https://openai.com/index/mercari)
+
+## 
+- **ID**: rss_https://openai.com/index/merge-builds-with-openai
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/merge-builds-with-openai](https://openai.com/index/merge-builds-with-openai)
 
 ## 
 - **ID**: rss_https://openai.com/index/meta-learning-for-wrestling
