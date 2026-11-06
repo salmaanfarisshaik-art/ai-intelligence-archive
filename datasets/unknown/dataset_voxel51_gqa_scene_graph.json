@@ -1,0 +1,29 @@
+{
+  "_id": "668e0444ed63008dfae68bee",
+  "id": "Voxel51/GQA-Scene-Graph",
+  "author": "Voxel51",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-07-10T21:31:46.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "fe60c177f1cd06f0fcc41828e2be7e67d14e0797",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for GQA-35k\n\t\n\n\nThe GQA (Visual Reasoning in the Real World) dataset is a large-scale visual question answering dataset that includes scene graph annotations for each image.\nThis is a FiftyOne dataset with 35000 samples.\nNote: This is a 35,000 sample subset which does not contain questions, only the scene graph annotations as detection-level attributes.\nYou can find the recipe notebook for creating the dataset here\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/GQA-Scene-Graph.",
+  "downloads": 42124,
+  "tags": [
+    "task_categories:object-detection",
+    "language:en",
+    "size_categories:10K<n<100K",
+    "modality:image",
+    "library:fiftyone",
+    "arxiv:1902.09506",
+    "region:us",
+    "fiftyone",
+    "image",
+    "object-detection"
+  ],
+  "createdAt": "2024-07-10T03:47:16.000Z",
+  "key": "",
+  "unique_id": "dataset_voxel51_gqa_scene_graph",
+  "schema_version": "1.0"
+}

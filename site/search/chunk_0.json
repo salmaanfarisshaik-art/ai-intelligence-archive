@@ -1223,6 +1223,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_voxel51_gqa_scene_graph",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_xaira_therapeutics_x_atlas_orion",
       "match_type": "exact",
       "score": 1.0
@@ -3610,6 +3615,11 @@
     }
   ],
   "01377": [
+    {
+      "entity_id": "dataset_huggingfaceh4_ultrafeedback_binarized",
+      "match_type": "exact",
+      "score": 1.5
+    },
     {
       "entity_id": "model_huggingfaceh4_zephyr_7b_beta",
       "match_type": "exact",
@@ -6603,6 +6613,11 @@
   ],
   "04178": [
     {
+      "entity_id": "dataset_open_thoughts_openthoughts3_1_2m",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_open_thoughts_openthoughts_114k",
       "match_type": "exact",
       "score": 1.5
@@ -7508,6 +7523,13 @@
     },
     {
       "entity_id": "model_tiger_lab_vlm2vec_full",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "05170": [
+    {
+      "entity_id": "dataset_hellfire98_sportsmot",
       "match_type": "exact",
       "score": 1.5
     }
@@ -9424,6 +9446,13 @@
   "07049": [
     {
       "entity_id": "dataset_hltcoe_megawika",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "07065": [
+    {
+      "entity_id": "dataset_zte_aim_curr_reft_data",
       "match_type": "exact",
       "score": 1.5
     }
@@ -11457,6 +11486,13 @@
       "score": 1.5
     }
   ],
+  "09032": [
+    {
+      "entity_id": "dataset_ywchoi_openmedtext",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "09042": [
     {
       "entity_id": "dataset_nvidia_physicalai_autonomous_vehicle_cosmos_drive_dreams",
@@ -12322,6 +12358,13 @@
       "score": 1.5
     }
   ],
+  "09506": [
+    {
+      "entity_id": "dataset_voxel51_gqa_scene_graph",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "09509": [
     {
       "entity_id": "model_efficient_large_model_gemma_2_2b_it",
@@ -12665,6 +12708,11 @@
     },
     {
       "entity_id": "model_peft_internal_testing_tiny_random_gptjforcausallm",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_peft_internal_testing_tiny_random_llamaforcausallm",
       "match_type": "exact",
       "score": 1.5
     },

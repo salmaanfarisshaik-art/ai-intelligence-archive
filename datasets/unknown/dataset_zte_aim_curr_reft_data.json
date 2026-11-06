@@ -1,0 +1,26 @@
+{
+  "_id": "67e147fd38088929c585c8f3",
+  "id": "ZTE-AIM/Curr-ReFT-data",
+  "author": "ZTE-AIM",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2025-04-17T06:09:10.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "b4743c7ed118e21fbc7e3206daabc8eeebd5b4e6",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tCurr-ReFT-data\n\t\n\n[📂 GitHub][📝 Paper]\n[🤗 HF Dataset]  [🤗 HF-Model: Curr-ReFT-3B] \n[🤗 HF-Model: Curr-ReFT-7B] \n\n\t\n\t\t\n\t\n\t\n\t\tDataset Overview\n\t\n\nCurr-ReFT-data contains training data for both stages of the Curr-ReFT methodology. The proposed Curr-ReFT post-training paradigm consists of two consecutive training stages: 1. Curriculum Reinforcement Learning: Gradually increasing task difficulty through reward mechanisms that match task complexity. 2. Rejected Sample based… See the full description on the dataset page: https://huggingface.co/datasets/ZTE-AIM/Curr-ReFT-data.",
+  "downloads": 37871,
+  "tags": [
+    "task_categories:question-answering",
+    "task_categories:multiple-choice",
+    "license:apache-2.0",
+    "size_categories:1K<n<10K",
+    "modality:image",
+    "arxiv:2503.07065",
+    "region:us"
+  ],
+  "createdAt": "2025-03-24T11:54:37.000Z",
+  "key": "",
+  "unique_id": "dataset_zte_aim_curr_reft_data",
+  "schema_version": "1.0"
+}

@@ -287,6 +287,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_lapadatbogdan_glm_5_3_flash_coder_rco_152e_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_legraphista_glm_4_9b_chat_imat_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -1380,6 +1385,11 @@
     },
     {
       "entity_id": "dataset_huggingfaceh4_ultrachat_200k",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingfaceh4_ultrafeedback_binarized",
       "match_type": "exact",
       "score": 1.0
     }
@@ -2810,6 +2820,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark_v2",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_azukivc_qwen3_8_27b_uncensored_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -3401,6 +3416,11 @@
     },
     {
       "entity_id": "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_maximilian228_qwen3_8_flash_next_nvidia_nvfp4_strata",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5842,6 +5862,13 @@
     },
     {
       "entity_id": "dataset_rogerdehe_mktdata_binance_2026",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
+  "zte": [
+    {
+      "entity_id": "dataset_zte_aim_curr_reft_data",
       "match_type": "exact",
       "score": 1.0
     }

@@ -336,6 +336,10 @@
 - **ID**: model_applied_innovation_center_karnak_40b_v1_0
 - **Source**: 
 
+## appvoid/linear
+- **ID**: model_appvoid_linear
+- **Source**: 
+
 ## Aratako/MioTTS-2.6B
 - **ID**: model_aratako_miotts_2_6b
 - **Source**: 

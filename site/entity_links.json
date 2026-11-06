@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T07:40:56Z",
+  "generated_at": "2026-11-06T15:41:51Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -4042,6 +4042,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_lapadatbogdan_glm_5_3_flash_coder_rco_152e_gguf",
+      "target_id": "hf_zai-org_GLM-5.3-Flash",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_largitdata_gemma_4_26b_a4b_it_fp8",
       "target_id": "hf_google_gemma-4-26B-A4B-it",
       "type": "derived_from"
@@ -4944,6 +4949,11 @@
     {
       "source_id": "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
       "target_id": "hf_Qwen_Qwen3.8-Flash-Next",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_maximilian228_qwen3_8_flash_next_nvidia_nvfp4_strata",
+      "target_id": "hf_nvidia_Qwen3.8-Flash-Next-NVFP4",
       "type": "derived_from"
     },
     {

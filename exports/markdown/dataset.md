@@ -694,6 +694,12 @@
 - **URL**: [https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio](https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio)
 - **Tags**: doi:10.57967/hf/5889, language:en, license:cc-by-nc-4.0, medical, region:us, size_categories:100K<n<1M, task_categories:automatic-speech-recognition
 
+## helenqu/GenPairs
+- **ID**: hf_ds_686743434bec712618e60217
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/helenqu/GenPairs](https://huggingface.co/datasets/helenqu/GenPairs)
+- **Tags**: arxiv:2507.08000, language:en, license:mit, region:us, size_categories:100K<n<1M
+
 ## transferable-samplers/many-peptides-md
 - **ID**: hf_ds_68699f43b939abc945dbaaf8
 - **Source**: HuggingFace Datasets
@@ -1400,7 +1406,7 @@
 - **ID**: hf_ds_6acca32f6fa844eabec4e77b
 - **Source**: HuggingFace Datasets
 - **URL**: [https://huggingface.co/datasets/lerobot/FineART](https://huggingface.co/datasets/lerobot/FineART)
-- **Tags**: LeRobot, arxiv:2609.36416, bimanual-manipulation, license:cc-by-4.0, modality:tabular, modality:text, modality:timeseries, modality:video, region:us, robotics, size_categories:100M<n<1B, subtask-annotations, task_categories:robotics, vision-language-action
+- **Tags**: LeRobot, arxiv:2609.36416, bimanual-manipulation, license:cc-by-4.0, modality:video, region:us, robotics, size_categories:10K<n<100K, subtask-annotations, task_categories:robotics, vision-language-action
 
 ## hdlzidane/ConteRecopilacion
 - **ID**: hf_ds_6accfa5c558696f3caf5dbfc

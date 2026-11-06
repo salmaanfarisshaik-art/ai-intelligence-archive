@@ -25872,6 +25872,11 @@
     },
     {
       "relationship": "related_models",
+      "source": "hf_ds_686743434bec712618e60217",
+      "target": "datasets/helenqu"
+    },
+    {
+      "relationship": "related_models",
       "source": "hf_ds_68699f43b939abc945dbaaf8",
       "target": "datasets/transferable-samplers"
     },
@@ -26471,7 +26476,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-11-06T07:40:02.359039+00:00",
+  "generated_at": "2026-11-06T15:40:45.083219+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -173787,6 +173792,11 @@
     },
     {
       "category": "dataset",
+      "id": "hf_ds_686743434bec712618e60217",
+      "label": "helenqu/GenPairs"
+    },
+    {
+      "category": "dataset",
       "id": "hf_ds_68699f43b939abc945dbaaf8",
       "label": "transferable-samplers/many-peptides-md"
     },
@@ -182389,6 +182399,11 @@
       "category": "models",
       "id": "model_applied_innovation_center_karnak_40b_v1_0",
       "label": "Applied-Innovation-Center/Karnak-40B-v1.0"
+    },
+    {
+      "category": "models",
+      "id": "model_appvoid_linear",
+      "label": "appvoid/linear"
     },
     {
       "category": "models",
@@ -490082,6 +490097,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5294,
-  "total_nodes": 92721
+  "total_edges": 5295,
+  "total_nodes": 92723
 }

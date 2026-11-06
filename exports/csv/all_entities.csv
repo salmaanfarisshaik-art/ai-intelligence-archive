@@ -29461,6 +29461,7 @@ hf_ds_68370197476641ade2a81199,drssth/ModelNet-simscan,dataset,HuggingFace Datas
 hf_ds_6850196ad602532f84eb625b,world-igr-plum/regions,dataset,HuggingFace Datasets,license:mit|region:us,https://huggingface.co/datasets/world-igr-plum/regions
 hf_ds_6851cac31458ae6b02f8e8e7,EssentialAI/essential-web-v1.0,dataset,HuggingFace Datasets,arxiv:2506.14111|license:odc-by|region:us|size_categories:10B<n<100B,https://huggingface.co/datasets/EssentialAI/essential-web-v1.0
 hf_ds_6859a511dbd17c5bad610ad2,aline-gassenn/MedDialog-Audio,dataset,HuggingFace Datasets,doi:10.57967/hf/5889|language:en|license:cc-by-nc-4.0|medical|region:us|size_categories:100K<n<1M|task_categories:automatic-speech-recognition,https://huggingface.co/datasets/aline-gassenn/MedDialog-Audio
+hf_ds_686743434bec712618e60217,helenqu/GenPairs,dataset,HuggingFace Datasets,arxiv:2507.08000|language:en|license:mit|region:us|size_categories:100K<n<1M,https://huggingface.co/datasets/helenqu/GenPairs
 hf_ds_68699f43b939abc945dbaaf8,transferable-samplers/many-peptides-md,dataset,HuggingFace Datasets,arxiv:2508.18175|license:mit|region:us,https://huggingface.co/datasets/transferable-samplers/many-peptides-md
 hf_ds_688209a61f4d0375592760e0,Helsinki-NLP/fineweb-edu-translated,dataset,HuggingFace Datasets,format:parquet|language:bos|language:bul|language:cat|language:ces|language:dan|language:deu|language:ell|language:eng|language:est|language:eus|language:fin|language:fra|language:gle|language:glg|language:hrv|language:hun|language:isl|language:ita|language:kat|language:lav|language:lit|language:mkd|language:mlt|language:nld|language:nno|language:nob|language:pol|language:por|language:ron|language:slk|language:slv|language:spa|language:sqi|language:srp|language:swe|language:tur|language:ukr|library:dask|library:datasets|library:mlcroissant|library:polars|license:odc-by|modality:text|region:us|size_categories:1B<n<10B|task_categories:text-generation|task_categories:translation,https://huggingface.co/datasets/Helsinki-NLP/fineweb-edu-translated
 hf_ds_68822a776cf08537cb6be0af,InternRobotics/InternData-A1,dataset,HuggingFace Datasets,Embodied-AI|Robotic manipulation|arxiv:2511.16651|language:en|modality:3d|modality:image|modality:text|region:us|size_categories:n>1T|task_categories:other|task_categories:robotics,https://huggingface.co/datasets/InternRobotics/InternData-A1
@@ -29578,7 +29579,7 @@ hf_ds_6a9d8e54cb1f70afa752542c,numix/balises-openwindmap-pyrenees,dataset,Huggin
 hf_ds_6aa585f5e13985455758f8eb,sjkhfuk/fofo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk/fofo
 hf_ds_6ab65a7f909092518dca860f,XiaomiMiMo/MiMo-V2.6-RL-oss,dataset,HuggingFace Datasets,format:parquet|library:datasets|library:mlcroissant|library:pandas|library:polars|license:apache-2.0|modality:document|modality:image|modality:text|region:us|size_categories:1K<n<10K,https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss
 hf_ds_6ac0e3e0aadad5e0492a39f0,roisincrtai/ptb-xl-1.0.3,dataset,HuggingFace Datasets,modality:text|region:us|size_categories:10K<n<100K,https://huggingface.co/datasets/roisincrtai/ptb-xl-1.0.3
-hf_ds_6acca32f6fa844eabec4e77b,lerobot/FineART,dataset,HuggingFace Datasets,LeRobot|arxiv:2609.36416|bimanual-manipulation|license:cc-by-4.0|modality:tabular|modality:text|modality:timeseries|modality:video|region:us|robotics|size_categories:100M<n<1B|subtask-annotations|task_categories:robotics|vision-language-action,https://huggingface.co/datasets/lerobot/FineART
+hf_ds_6acca32f6fa844eabec4e77b,lerobot/FineART,dataset,HuggingFace Datasets,LeRobot|arxiv:2609.36416|bimanual-manipulation|license:cc-by-4.0|modality:video|region:us|robotics|size_categories:10K<n<100K|subtask-annotations|task_categories:robotics|vision-language-action,https://huggingface.co/datasets/lerobot/FineART
 hf_ds_6accfa5c558696f3caf5dbfc,hdlzidane/ConteRecopilacion,dataset,HuggingFace Datasets,not-for-all-audiences|region:us,https://huggingface.co/datasets/hdlzidane/ConteRecopilacion
 hf_ds_6acfd70a1ee5628d262f3350,sjkhfuk/fofo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk/fofo
 hf_ds_6ad73b2611ffd4dabac49e74,sjkhfuk1/foffo,dataset,HuggingFace Datasets,region:us,https://huggingface.co/datasets/sjkhfuk1/foffo
@@ -31182,6 +31183,7 @@ model_anton_hugging_timeomni_1_7b,anton-hugging/TimeOmni-1-7B,models,,,
 model_apetersson_deepseek_v4_flash_0731_abliterated_ds4_headroom128,apetersson/DeepSeek-V4-Flash-0731-Abliterated-DS4-Headroom128,models,,,
 model_apple_openelm_1_1b_instruct,apple/OpenELM-1_1B-Instruct,models,,,
 model_applied_innovation_center_karnak_40b_v1_0,Applied-Innovation-Center/Karnak-40B-v1.0,models,,,
+model_appvoid_linear,appvoid/linear,models,,,
 model_aratako_miotts_2_6b,Aratako/MioTTS-2.6B,models,,,
 model_arcee_ai_afm_4_5b_base,arcee-ai/AFM-4.5B-Base,models,,,
 model_arianraje_qwen3_4b_mamba3_hybrid_stage2b_kd_bias0,arianraje/qwen3-4b-mamba3-hybrid-stage2b-kd-bias0,models,,,

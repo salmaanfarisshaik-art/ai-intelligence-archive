@@ -1,0 +1,32 @@
+{
+  "_id": "653785ff8e37b02865e64be0",
+  "id": "HuggingFaceH4/ultrafeedback_binarized",
+  "author": "HuggingFaceH4",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2024-10-16T11:49:06.000Z",
+  "likes": 362,
+  "private": false,
+  "sha": "3949bf5f8c17c394422ccfab0c31ea9c20bdeb85",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for UltraFeedback Binarized\n\t\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Description\n\t\n\nThis is a pre-processed version of the UltraFeedback dataset and was used to train Zephyr-7Β-β, a state of the art chat model at the 7B parameter scale. \nThe original UltraFeedback dataset consists of 64k prompts, where each prompt is accompanied with four model completions from a wide variety of open and proprietary models. GPT-4 is then used to assign a score to each completion, along criteria like… See the full description on the dataset page: https://huggingface.co/datasets/HuggingFaceH4/ultrafeedback_binarized.",
+  "downloads": 36821,
+  "tags": [
+    "task_categories:text-generation",
+    "language:en",
+    "license:mit",
+    "size_categories:100K<n<1M",
+    "format:parquet",
+    "modality:tabular",
+    "modality:text",
+    "library:datasets",
+    "library:pandas",
+    "library:polars",
+    "library:mlcroissant",
+    "arxiv:2310.01377",
+    "region:us"
+  ],
+  "createdAt": "2023-10-24T08:53:19.000Z",
+  "key": "",
+  "unique_id": "dataset_huggingfaceh4_ultrafeedback_binarized",
+  "schema_version": "1.0"
+}

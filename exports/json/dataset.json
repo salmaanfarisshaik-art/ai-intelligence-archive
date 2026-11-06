@@ -3884,6 +3884,29 @@
     "local_path": "datasets/aline-gassenn/hf_ds_6859a511dbd17c5bad610ad2.json"
   },
   {
+    "id": "hf_ds_686743434bec712618e60217",
+    "title": "helenqu/GenPairs",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2507.08000",
+      "language:en",
+      "license:mit",
+      "region:us",
+      "size_categories:100K<n<1M"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/helenqu"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/helenqu/GenPairs",
+    "local_path": "datasets/helenqu/hf_ds_686743434bec712618e60217.json"
+  },
+  {
     "id": "hf_ds_68699f43b939abc945dbaaf8",
     "title": "transferable-samplers/many-peptides-md",
     "category": "dataset",
@@ -6927,13 +6950,10 @@
       "arxiv:2609.36416",
       "bimanual-manipulation",
       "license:cc-by-4.0",
-      "modality:tabular",
-      "modality:text",
-      "modality:timeseries",
       "modality:video",
       "region:us",
       "robotics",
-      "size_categories:100M<n<1B",
+      "size_categories:10K<n<100K",
       "subtask-annotations",
       "task_categories:robotics",
       "vision-language-action"
