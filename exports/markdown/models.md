@@ -452,6 +452,10 @@
 - **ID**: model_autotrust_jev_9b
 - **Source**: 
 
+## autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK-V2
+- **ID**: model_autotrust_qwen3_8_27b_nvfp4_dgx_spark_v2
+- **Source**: 
+
 ## avatargrim/Qwen2.5-7B_pyuigpt
 - **ID**: model_avatargrim_qwen2_5_7b_pyuigpt
 - **Source**: 
@@ -2888,6 +2892,10 @@
 - **ID**: model_laap_ai_qwen_base_invoicev1_01_1_5b
 - **Source**: 
 
+## lapadatbogdan/GLM-5.3-Flash-Coder-RCO-152E-GGUF
+- **ID**: model_lapadatbogdan_glm_5_3_flash_coder_rco_152e_gguf
+- **Source**: 
+
 ## LargitData/gemma-4-26b-a4b-it-fp8
 - **ID**: model_largitdata_gemma_4_26b_a4b_it_fp8
 - **Source**: 
@@ -3482,6 +3490,10 @@
 
 ## Maximilian228/Qwen3.8-Flash-Next-NVFP4-GPTQ-Strata
 - **ID**: model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata
+- **Source**: 
+
+## Maximilian228/Qwen3.8-Flash-Next-NVIDIA-NVFP4-Strata
+- **ID**: model_maximilian228_qwen3_8_flash_next_nvidia_nvfp4_strata
 - **Source**: 
 
 ## MaxJeblick/llama2-0b-unit-test
@@ -4972,6 +4984,10 @@
 - **ID**: model_ornith_ai_ornith_1_5_122b_mlx
 - **Source**: 
 
+## ornith-ai/Ornith-1.5-122B-MLX-4bit
+- **ID**: model_ornith_ai_ornith_1_5_122b_mlx_4bit
+- **Source**: 
+
 ## ornith-ai/Ornith-1.5-122B-MLX-8bit
 - **ID**: model_ornith_ai_ornith_1_5_122b_mlx_8bit
 - **Source**: 
@@ -5142,6 +5158,10 @@
 
 ## peft-internal-testing/tiny-random-GPTJForCausalLM
 - **ID**: model_peft_internal_testing_tiny_random_gptjforcausallm
+- **Source**: 
+
+## peft-internal-testing/tiny-random-LlamaForCausalLM
+- **ID**: model_peft_internal_testing_tiny_random_llamaforcausallm
 - **Source**: 
 
 ## peft-internal-testing/tiny-random-OPTForCausalLM

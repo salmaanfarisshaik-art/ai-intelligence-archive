@@ -4346,6 +4346,11 @@
 - **URL**: [https://openai.com/index/measuring-goodharts-law](https://openai.com/index/measuring-goodharts-law)
 
 ## 
+- **ID**: rss_https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science](https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science)
+
+## 
 - **ID**: rss_https://openai.com/index/memory-and-new-controls-for-chatgpt
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/memory-and-new-controls-for-chatgpt](https://openai.com/index/memory-and-new-controls-for-chatgpt)
@@ -5394,6 +5399,11 @@
 - **ID**: rss_https://openai.com/index/partnering-with-codeai
 - **Source**: OpenAI Blog
 - **URL**: [https://openai.com/index/partnering-with-codeai](https://openai.com/index/partnering-with-codeai)
+
+## 
+- **ID**: rss_https://openai.com/index/partnering-with-hacktron
+- **Source**: OpenAI Blog
+- **URL**: [https://openai.com/index/partnering-with-hacktron](https://openai.com/index/partnering-with-hacktron)
 
 ## 
 - **ID**: rss_https://openai.com/index/partnership-with-american-journalism-project-to-support-local-news
