@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:38:09Z",
+  "generated_at": "2026-11-07T08:20:55Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -4709,6 +4709,11 @@
     {
       "source_id": "model_lmstudio_community_phi_4_reasoning_plus_mlx_4bit",
       "target_id": "hf_microsoft_Phi-4-reasoning-plus",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_lmstudio_community_qwen2_5_7b_instruct_gguf",
+      "target_id": "hf_Qwen_Qwen2.5-7B-Instruct",
       "type": "derived_from"
     },
     {
