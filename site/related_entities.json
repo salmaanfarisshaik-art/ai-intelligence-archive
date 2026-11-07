@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T08:20:55Z",
+  "generated_at": "2026-11-07T15:26:31Z",
   "related": {
     "hf_01-ai_Yi-1.5-34B": [
       "hf_dphn_dolphin-2.9.1-yi-1.5-34b",
@@ -1463,6 +1463,7 @@
       "model_antirez_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_gguf",
       "model_atomicchat_qwen3_8_flash_next_uncensored_gguf",
+      "model_incoai_qwen3_8_flash_next_dflash2",
       "model_kingjones777_qwen3_8_flash_next_uncensored_rocmfp4_fast_gguf",
       "model_maximilian228_qwen3_8_flash_next_nvfp4_gptq_strata",
       "model_pentacoxian_dev_qwen3_8_flash_next_iq3e_q8d_mtp_gguf",
@@ -2275,7 +2276,8 @@
       "hf_google_gemma-4-E4B-it"
     ],
     "hf_fdtn-ai_Foundation-Sec-8B": [
-      "model_fdtn_ai_foundation_sec_1_1_8b_instruct"
+      "model_fdtn_ai_foundation_sec_1_1_8b_instruct",
+      "model_fdtn_ai_foundation_sec_8b_instruct"
     ],
     "hf_fireworks-ai_llama-3-firefunction-v2": [
       "model_maziyarpanahi_firefunction_v2_gguf"
@@ -3093,6 +3095,9 @@
       "hf_nvidia_nemotron-post-training-v3",
       "hf_nvidia_nemotron-pre-training-datasets"
     ],
+    "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF": [
+      "model_nvidia_nvidia_nemotron_3_5_bolt_74b_a9b_24gb_lilicorr_gguf"
+    ],
     "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-E4B-BF16": [
       "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
       "model_unsloth_nvidia_nemotron_3_5_bolt_e4b_gguf"
@@ -3538,6 +3543,9 @@
     "hf_openbmb_MiniCPM-SALA": [
       "model_cyankiwi_minicpm_sala_awq_8bit"
     ],
+    "hf_openbmb_MiniCPM-V-4.7-1B-DSpark": [
+      "model_openbmb_minicpm_v_4_7_1b_dspark_gguf"
+    ],
     "hf_openbmb_MiniCPM-V-4.7-35B-A3B-DSpark": [
       "model_openbmb_minicpm_v_4_7_35b_a3b_dspark_gguf"
     ],
@@ -3726,6 +3734,9 @@
     ],
     "hf_r0b0tlab_qwen3.8-max-distillation-50k": [
       "model_ma7ee7_qwen3_8_4b_distilled_gguf"
+    ],
+    "hf_ricursiveAI_Ripple-65B-Preview": [
+      "model_atomicchat_ripple_65b_preview_gguf"
     ],
     "hf_rombodawg_code_bagel_hermes-2.5": [
       "model_mratsim_minimax_m2_5_bf16_int4_awq"
@@ -4389,6 +4400,9 @@
     ],
     "model_atomicchat_qwen3_8_flash_next_uncensored_gguf": [
       "hf_Qwen_Qwen3.8-Flash-Next"
+    ],
+    "model_atomicchat_ripple_65b_preview_gguf": [
+      "hf_ricursiveAI_Ripple-65B-Preview"
     ],
     "model_audreyt_cyberneurova_deepseek_v4_flash_abliterated_gguf": [
       "hf_deepseek-ai_DeepSeek-V4-Flash"
@@ -5290,6 +5304,9 @@
     "model_fdtn_ai_foundation_sec_1_1_8b_instruct": [
       "hf_fdtn-ai_Foundation-Sec-8B"
     ],
+    "model_fdtn_ai_foundation_sec_8b_instruct": [
+      "hf_fdtn-ai_Foundation-Sec-8B"
+    ],
     "model_final_bench_pocket_26b_gguf": [
       "hf_google_gemma-4-26B-A4B-it"
     ],
@@ -5582,6 +5599,9 @@
     ],
     "model_incoai_qwen3_8_27b_dflash2_gguf": [
       "hf_Qwen_Qwen3.8-27B"
+    ],
+    "model_incoai_qwen3_8_flash_next_dflash2": [
+      "hf_Qwen_Qwen3.8-Flash-Next"
     ],
     "model_inferact_glm_5_3_nvfp4": [
       "hf_zai-org_GLM-5.3-BF16"
@@ -6741,6 +6761,9 @@
     "model_nvidia_mistral_nemo_minitron_8b_instruct": [
       "hf_nvidia_Mistral-NeMo-Minitron-8B-Base"
     ],
+    "model_nvidia_nvidia_nemotron_3_5_bolt_74b_a9b_24gb_lilicorr_gguf": [
+      "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF"
+    ],
     "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb": [
       "hf_nvidia_NVIDIA-Nemotron-3.5-Bolt-E4B-BF16",
       "hf_nvidia_nemotron-post-training-v3",
@@ -7078,6 +7101,9 @@
       "hf_openbmb_UltraData-SFT-2605",
       "hf_openbmb_UltraData-SFT-Agent-2609",
       "hf_openbmb_UltraX-Preview"
+    ],
+    "model_openbmb_minicpm_v_4_7_1b_dspark_gguf": [
+      "hf_openbmb_MiniCPM-V-4.7-1B-DSpark"
     ],
     "model_openbmb_minicpm_v_4_7_35b_a3b_dspark_gguf": [
       "hf_openbmb_MiniCPM-V-4.7-35B-A3B-DSpark"

@@ -1,0 +1,25 @@
+{
+  "_id": "6adfbce5aaf7fa9377e6f708",
+  "id": "cmpatino/chatbot-swarm",
+  "author": "cmpatino",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-29T00:44:31.000Z",
+  "likes": 0,
+  "private": false,
+  "sha": "d8645ac9e1030f6eb7034c6abb35d43a1f27be27",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tPython Chatbot\n\t\n\nBuild one natural, friendly conversational partner using standard-library Python.\nAnswer directly, remember the conversation, contribute ideas and vary the wording.\nThe seed only says Hello!; it demonstrates the interface, not the intended quality.\nRun from this repository's root:\npython -m bot\npython -m unittest discover -s tests\n\nFor every input line, including an empty line, print exactly one nonempty reply\nline and flush. Each conversation is a fresh process… See the full description on the dataset page: https://huggingface.co/datasets/cmpatino/chatbot-swarm.",
+  "downloads": 37163,
+  "tags": [
+    "language:en",
+    "license:cc-by-4.0",
+    "region:us",
+    "chatbot",
+    "multi-agent",
+    "python"
+  ],
+  "createdAt": "2026-10-26T20:49:41.000Z",
+  "key": "",
+  "unique_id": "dataset_cmpatino_chatbot_swarm",
+  "schema_version": "1.0"
+}

@@ -3334,6 +3334,13 @@
       "score": 2.5
     }
   ],
+  "01059": [
+    {
+      "entity_id": "model_fdtn_ai_foundation_sec_8b_instruct",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "01068": [
     {
       "entity_id": "model_facebook_opt_125m",
@@ -3643,6 +3650,13 @@
       "entity_id": "dataset_allenai_wildchat_1m",
       "match_type": "exact",
       "score": 2.5
+    }
+  ],
+  "01472": [
+    {
+      "entity_id": "dataset_onboard_coop_starcop_fast_products",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "01481": [
@@ -5659,6 +5673,11 @@
   ],
   "03374": [
     {
+      "entity_id": "dataset_bigcode_the_stack",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "dataset_openai_openai_humaneval",
       "match_type": "exact",
       "score": 1.5
@@ -6065,6 +6084,13 @@
   "03670": [
     {
       "entity_id": "dataset_abdomenatlas_abdomenatlas1_0minibeta",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
+  "03675": [
+    {
+      "entity_id": "dataset_onboard_coop_starcop_fast_products",
       "match_type": "exact",
       "score": 1.5
     }
@@ -6489,6 +6515,11 @@
     },
     {
       "entity_id": "dataset_deepauto_ai_macrolens",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_deepghs_fancaps_webp_4mpixel",
       "match_type": "exact",
       "score": 1.0
     },
@@ -7391,6 +7422,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_openbmb_minicpm_v_4_7_1b_dspark_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_openbmb_minicpm_v_4_7_35b_a3b_dspark",
       "match_type": "exact",
       "score": 1.5
@@ -8188,6 +8224,11 @@
     },
     {
       "entity_id": "dataset_bezzam_coraal",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_dagroup_pku_open_humanwam_50k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -10722,6 +10763,11 @@
       "entity_id": "dataset_allenai_objaverse",
       "match_type": "exact",
       "score": 1.5
+    },
+    {
+      "entity_id": "dataset_sandflow_sand3d_objaverse",
+      "match_type": "exact",
+      "score": 1.5
     }
   ],
   "08053": [
@@ -11329,6 +11375,11 @@
     },
     {
       "entity_id": "dataset_chartgalaxy_chartgalaxy",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_deepghs_fancaps_webp_4mpixel",
       "match_type": "exact",
       "score": 1.0
     },

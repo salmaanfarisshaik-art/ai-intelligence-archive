@@ -9,7 +9,7 @@
   "private": false,
   "sha": "4ec03ecbfe028c9fdec5d8faf4df4d22e59d49d2",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for Oxford Flowers 102\n\t\n\n\nThis is a FiftyOne dataset with 8189 samples.\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset = fouh.load_from_hub(\"Voxel51/OxfordFlowers102\")\n\n# Launch the App\nsession = fo.launch_app(dataset)\n\n\n\t\n\t\t\n\t\n\t\n\t\tDataset Details… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/OxfordFlowers102.",
-  "downloads": 144409,
+  "downloads": 163773,
   "tags": [
     "task_categories:image-classification",
     "task_categories:image-segmentation",

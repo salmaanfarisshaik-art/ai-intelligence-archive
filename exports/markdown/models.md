@@ -3272,6 +3272,10 @@
 - **ID**: model_lmstudio_community_phi_4_reasoning_plus_mlx_4bit
 - **Source**: 
 
+## lmstudio-community/Qwen2.5-7B-Instruct-GGUF
+- **ID**: model_lmstudio_community_qwen2_5_7b_instruct_gguf
+- **Source**: 
+
 ## lmstudio-community/Qwen2.5-Coder-14B-Instruct-GGUF
 - **ID**: model_lmstudio_community_qwen2_5_coder_14b_instruct_gguf
 - **Source**: 
