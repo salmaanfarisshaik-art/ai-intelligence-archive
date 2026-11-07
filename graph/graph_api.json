@@ -26476,7 +26476,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-11-07T15:25:25.455335+00:00",
+  "generated_at": "2026-11-07T19:53:01.238107+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -158297,6 +158297,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_bigcode_the_stack",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_bigcode_the_stack_metadata",
       "label": ""
     },
@@ -158822,6 +158827,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_cmpatino_chatbot_swarm",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_cmrobot_motiondecode",
       "label": ""
     },
@@ -159052,6 +159062,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_dagroup_pku_open_humanwam_50k",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_daimonrobotics_daimon_infinity",
       "label": ""
     },
@@ -159188,6 +159203,11 @@
     {
       "category": "datasets",
       "id": "dataset_deepghs_character_index",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_deepghs_fancaps_webp_4mpixel",
       "label": ""
     },
     {
@@ -166212,6 +166232,11 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_onboard_coop_starcop_fast_products",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_onehfr_3d_front_rgb",
       "label": ""
     },
@@ -167797,6 +167822,16 @@
     },
     {
       "category": "datasets",
+      "id": "dataset_sandflow_sand3d_cad",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_sandflow_sand3d_objaverse",
+      "label": ""
+    },
+    {
+      "category": "datasets",
       "id": "dataset_sanghyang00_omniasr_molge",
       "label": ""
     },
@@ -168938,6 +168973,11 @@
     {
       "category": "datasets",
       "id": "dataset_timaeus_rl_lm_imdb_prompts",
+      "label": ""
+    },
+    {
+      "category": "datasets",
+      "id": "dataset_time_series_transformers_splitted_pretraingifteval",
       "label": ""
     },
     {
@@ -182627,6 +182667,11 @@
     },
     {
       "category": "models",
+      "id": "model_atomicchat_ripple_65b_preview_gguf",
+      "label": "AtomicChat/Ripple-65B-Preview-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_aubmindlab_aragpt2_base",
       "label": "aubmindlab/aragpt2-base"
     },
@@ -184502,6 +184547,11 @@
     },
     {
       "category": "models",
+      "id": "model_fdtn_ai_foundation_sec_8b_instruct",
+      "label": "fdtn-ai/Foundation-Sec-8B-Instruct"
+    },
+    {
+      "category": "models",
       "id": "model_featherless_chat_models_llama2_13b_chat_hf",
       "label": "Featherless-Chat-Models/llama2-13b-chat-hf"
     },
@@ -185302,6 +185352,11 @@
     },
     {
       "category": "models",
+      "id": "model_incoai_qwen3_8_flash_next_dflash2",
+      "label": "incoai/Qwen3.8-Flash-Next-DFlash2"
+    },
+    {
+      "category": "models",
       "id": "model_inferact_glm_5_3_nvfp4",
       "label": "Inferact/GLM-5.3-NVFP4"
     },
@@ -185704,6 +185759,11 @@
       "category": "models",
       "id": "model_laap_ai_qwen_base_invoicev1_01_1_5b",
       "label": "LaaP-ai/qwen-base-invoicev1.01-1.5B"
+    },
+    {
+      "category": "models",
+      "id": "model_laion_delphi_1e22_9_7bparams_160btokens_base_wc386k_lr1e5_sft",
+      "label": "laion/delphi-1e22-9_7Bparams-160Btokens-base-wc386k_lr1e5-sft"
     },
     {
       "category": "models",
@@ -187757,6 +187817,11 @@
     },
     {
       "category": "models",
+      "id": "model_nvidia_nvidia_nemotron_3_5_bolt_74b_a9b_24gb_lilicorr_gguf",
+      "label": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr-GGUF"
+    },
+    {
+      "category": "models",
       "id": "model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb",
       "label": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB"
     },
@@ -188134,6 +188199,11 @@
       "category": "models",
       "id": "model_openbmb_minicpm_v_4_7_1b_dspark",
       "label": "openbmb/MiniCPM-V-4.7-1B-DSpark"
+    },
+    {
+      "category": "models",
+      "id": "model_openbmb_minicpm_v_4_7_1b_dspark_gguf",
+      "label": "openbmb/MiniCPM-V-4.7-1B-DSpark-gguf"
     },
     {
       "category": "models",
@@ -490248,5 +490318,5 @@
   ],
   "schema_version": "1.0",
   "total_edges": 5295,
-  "total_nodes": 92753
+  "total_nodes": 92767
 }

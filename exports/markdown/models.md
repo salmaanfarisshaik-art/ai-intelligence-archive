@@ -428,6 +428,10 @@
 - **ID**: model_atomicchat_qwen3_8_flash_next_uncensored_gguf
 - **Source**: 
 
+## AtomicChat/Ripple-65B-Preview-GGUF
+- **ID**: model_atomicchat_ripple_65b_preview_gguf
+- **Source**: 
+
 ## aubmindlab/aragpt2-base
 - **ID**: model_aubmindlab_aragpt2_base
 - **Source**: 
@@ -1928,6 +1932,10 @@
 - **ID**: model_fdtn_ai_foundation_sec_1_1_8b_instruct
 - **Source**: 
 
+## fdtn-ai/Foundation-Sec-8B-Instruct
+- **ID**: model_fdtn_ai_foundation_sec_8b_instruct
+- **Source**: 
+
 ## Featherless-Chat-Models/llama2-13b-chat-hf
 - **ID**: model_featherless_chat_models_llama2_13b_chat_hf
 - **Source**: 
@@ -2568,6 +2576,10 @@
 - **ID**: model_incoai_qwen3_8_27b_dflash2_gguf
 - **Source**: 
 
+## incoai/Qwen3.8-Flash-Next-DFlash2
+- **ID**: model_incoai_qwen3_8_flash_next_dflash2
+- **Source**: 
+
 ## Inferact/GLM-5.3-NVFP4
 - **ID**: model_inferact_glm_5_3_nvfp4
 - **Source**: 
@@ -2890,6 +2902,10 @@
 
 ## LaaP-ai/qwen-base-invoicev1.01-1.5B
 - **ID**: model_laap_ai_qwen_base_invoicev1_01_1_5b
+- **Source**: 
+
+## laion/delphi-1e22-9_7Bparams-160Btokens-base-wc386k_lr1e5-sft
+- **ID**: model_laion_delphi_1e22_9_7bparams_160btokens_base_wc386k_lr1e5_sft
 - **Source**: 
 
 ## lapadatbogdan/GLM-5.3-Flash-Coder-RCO-152E-GGUF
@@ -4532,6 +4548,10 @@
 - **ID**: model_nvidia_nemotron_mini_4b_instruct
 - **Source**: 
 
+## nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-LiLiCorr-GGUF
+- **ID**: model_nvidia_nvidia_nemotron_3_5_bolt_74b_a9b_24gb_lilicorr_gguf
+- **Source**: 
+
 ## nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB
 - **ID**: model_nvidia_nvidia_nemotron_3_5_bolt_e4b_4gb
 - **Source**: 
@@ -4834,6 +4854,10 @@
 
 ## openbmb/MiniCPM-V-4.7-1B-DSpark
 - **ID**: model_openbmb_minicpm_v_4_7_1b_dspark
+- **Source**: 
+
+## openbmb/MiniCPM-V-4.7-1B-DSpark-gguf
+- **ID**: model_openbmb_minicpm_v_4_7_1b_dspark_gguf
 - **Source**: 
 
 ## openbmb/MiniCPM-V-4.7-35B-A3B-DSpark

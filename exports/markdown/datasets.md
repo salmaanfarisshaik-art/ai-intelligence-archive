@@ -1161,6 +1161,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_bigcode_the_stack
+- **Source**: 
+
+## 
 - **ID**: dataset_bigcode_the_stack_metadata
 - **Source**: 
 
@@ -1581,6 +1585,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_cmpatino_chatbot_swarm
+- **Source**: 
+
+## 
 - **ID**: dataset_cmrobot_motiondecode
 - **Source**: 
 
@@ -1765,6 +1773,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_dagroup_pku_open_humanwam_50k
+- **Source**: 
+
+## 
 - **ID**: dataset_daimonrobotics_daimon_infinity
 - **Source**: 
 
@@ -1874,6 +1886,10 @@
 
 ## 
 - **ID**: dataset_deepghs_character_index
+- **Source**: 
+
+## 
+- **ID**: dataset_deepghs_fancaps_webp_4mpixel
 - **Source**: 
 
 ## 
@@ -7493,6 +7509,10 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_onboard_coop_starcop_fast_products
+- **Source**: 
+
+## 
 - **ID**: dataset_onehfr_3d_front_rgb
 - **Source**: 
 
@@ -8761,6 +8781,14 @@
 - **Source**: 
 
 ## 
+- **ID**: dataset_sandflow_sand3d_cad
+- **Source**: 
+
+## 
+- **ID**: dataset_sandflow_sand3d_objaverse
+- **Source**: 
+
+## 
 - **ID**: dataset_sanghyang00_omniasr_molge
 - **Source**: 
 
@@ -9674,6 +9702,10 @@
 
 ## 
 - **ID**: dataset_timaeus_rl_lm_imdb_prompts
+- **Source**: 
+
+## 
+- **ID**: dataset_time_series_transformers_splitted_pretraingifteval
 - **Source**: 
 
 ## 
