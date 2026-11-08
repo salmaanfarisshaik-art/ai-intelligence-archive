@@ -456,6 +456,10 @@
 - **ID**: model_autotrust_jev_9b
 - **Source**: 
 
+## autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK
+- **ID**: model_autotrust_qwen3_8_27b_nvfp4_dgx_spark
+- **Source**: 
+
 ## autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK-V2
 - **ID**: model_autotrust_qwen3_8_27b_nvfp4_dgx_spark_v2
 - **Source**: 
@@ -482,6 +486,10 @@
 
 ## BAAI/bge-reranker-v2-gemma
 - **ID**: model_baai_bge_reranker_v2_gemma
+- **Source**: 
+
+## BAAI/bge-reranker-v2-minicpm-layerwise
+- **ID**: model_baai_bge_reranker_v2_minicpm_layerwise
 - **Source**: 
 
 ## badtheorylabs/BTL-4-Compact
@@ -1078,6 +1086,10 @@
 
 ## cckevinn/SeeClick
 - **ID**: model_cckevinn_seeclick
+- **Source**: 
+
+## ccore/Qwen3.5-4B-GLB-3D-Coder
+- **ID**: model_ccore_qwen3_5_4b_glb_3d_coder
 - **Source**: 
 
 ## ChantalPellegrini/RaDialog-interactive-radiology-report-generation
@@ -1992,6 +2004,10 @@
 - **ID**: model_generalanalysis_ga_guard_thinking
 - **Source**: 
 
+## ggml-org/Flint-GGUF
+- **ID**: model_ggml_org_flint_gguf
+- **Source**: 
+
 ## ggml-org/gpt-oss-120b-GGUF
 - **ID**: model_ggml_org_gpt_oss_120b_gguf
 - **Source**: 
@@ -2354,6 +2370,10 @@
 
 ## huihui-ai/Huihui-Kolibri-1-BF16-abliterated-GGUF
 - **ID**: model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf
+- **Source**: 
+
+## huihui-ai/Huihui-Laguna-S-2.1-abliterated-GGUF
+- **ID**: model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf
 - **Source**: 
 
 ## huihui-ai/Huihui-Qwen3.6-35B-A3B-Claude-4.7-Opus-abliterated
@@ -2904,6 +2924,10 @@
 - **ID**: model_laap_ai_qwen_base_invoicev1_01_1_5b
 - **Source**: 
 
+## laion/delphi-1e21-3.4Bparams-46.3Btokens-base-wc386k_lr1e5-sft
+- **ID**: model_laion_delphi_1e21_3_4bparams_46_3btokens_base_wc386k_lr1e5_sft
+- **Source**: 
+
 ## laion/delphi-1e22-9_7Bparams-160Btokens-base-wc386k_lr1e5-sft
 - **ID**: model_laion_delphi_1e22_9_7bparams_160btokens_base_wc386k_lr1e5_sft
 - **Source**: 
@@ -3142,6 +3166,10 @@
 
 ## llm-jp/llm-jp-3-150m
 - **ID**: model_llm_jp_llm_jp_3_150m
+- **Source**: 
+
+## llm-jp/llm-jp-4.1-8b-thinking
+- **ID**: model_llm_jp_llm_jp_4_1_8b_thinking
 - **Source**: 
 
 ## llm-jp/llm-jp-4-32b-a3b-thinking
@@ -5282,6 +5310,10 @@
 
 ## prefeitura-rio/Rio-3.0-Open-Mini
 - **ID**: model_prefeitura_rio_rio_3_0_open_mini
+- **Source**: 
+
+## prem-research/DeepSeek-V4-Flash-0731-abliterated
+- **ID**: model_prem_research_deepseek_v4_flash_0731_abliterated
 - **Source**: 
 
 ## PrimeIntellect/Qwen3-0.6B
@@ -7670,6 +7702,10 @@
 
 ## vcruz305/DeepSeek-V4.1-Flash-GGUF
 - **ID**: model_vcruz305_deepseek_v4_1_flash_gguf
+- **Source**: 
+
+## vcruz305/GLM-5.3-Flash-GGUF
+- **ID**: model_vcruz305_glm_5_3_flash_gguf
 - **Source**: 
 
 ## vcruz305/Hy3-GGUF

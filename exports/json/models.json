@@ -1140,6 +1140,16 @@
     "local_path": "models/autotrust/model_autotrust_jev_9b.json"
   },
   {
+    "id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark",
+    "title": "autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/autotrust/model_autotrust_qwen3_8_27b_nvfp4_dgx_spark.json"
+  },
+  {
     "id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark_v2",
     "title": "autotrust/Qwen3.8-27B-NVFP4-DGX-SPARK-V2",
     "category": "models",
@@ -1208,6 +1218,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/baai/model_baai_bge_reranker_v2_gemma.json"
+  },
+  {
+    "id": "model_baai_bge_reranker_v2_minicpm_layerwise",
+    "title": "BAAI/bge-reranker-v2-minicpm-layerwise",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/baai/model_baai_bge_reranker_v2_minicpm_layerwise.json"
   },
   {
     "id": "model_badtheorylabs_btl_4_compact",
@@ -2698,6 +2718,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/cckevinn/model_cckevinn_seeclick.json"
+  },
+  {
+    "id": "model_ccore_qwen3_5_4b_glb_3d_coder",
+    "title": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ccore/model_ccore_qwen3_5_4b_glb_3d_coder.json"
   },
   {
     "id": "model_chantalpellegrini_radialog_interactive_radiology_report_generation",
@@ -4980,6 +5010,16 @@
     "local_path": "models/generalanalysis/model_generalanalysis_ga_guard_thinking.json"
   },
   {
+    "id": "model_ggml_org_flint_gguf",
+    "title": "ggml-org/Flint-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/ggml-org/model_ggml_org_flint_gguf.json"
+  },
+  {
     "id": "model_ggml_org_gpt_oss_120b_gguf",
     "title": "ggml-org/gpt-oss-120b-GGUF",
     "category": "models",
@@ -5888,6 +5928,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/huihui-ai/model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf.json"
+  },
+  {
+    "id": "model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf",
+    "title": "huihui-ai/Huihui-Laguna-S-2.1-abliterated-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/huihui-ai/model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf.json"
   },
   {
     "id": "model_huihui_ai_huihui_qwen3_6_35b_a3b_claude_4_7_opus_abliterated",
@@ -7260,6 +7310,16 @@
     "local_path": "models/laap-ai/model_laap_ai_qwen_base_invoicev1_01_1_5b.json"
   },
   {
+    "id": "model_laion_delphi_1e21_3_4bparams_46_3btokens_base_wc386k_lr1e5_sft",
+    "title": "laion/delphi-1e21-3.4Bparams-46.3Btokens-base-wc386k_lr1e5-sft",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/laion/model_laion_delphi_1e21_3_4bparams_46_3btokens_base_wc386k_lr1e5_sft.json"
+  },
+  {
     "id": "model_laion_delphi_1e22_9_7bparams_160btokens_base_wc386k_lr1e5_sft",
     "title": "laion/delphi-1e22-9_7Bparams-160Btokens-base-wc386k_lr1e5-sft",
     "category": "models",
@@ -7858,6 +7918,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/llm-jp/model_llm_jp_llm_jp_3_150m.json"
+  },
+  {
+    "id": "model_llm_jp_llm_jp_4_1_8b_thinking",
+    "title": "llm-jp/llm-jp-4.1-8b-thinking",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/llm-jp/model_llm_jp_llm_jp_4_1_8b_thinking.json"
   },
   {
     "id": "model_llm_jp_llm_jp_4_32b_a3b_thinking",
@@ -13208,6 +13278,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/prefeitura-rio/model_prefeitura_rio_rio_3_0_open_mini.json"
+  },
+  {
+    "id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+    "title": "prem-research/DeepSeek-V4-Flash-0731-abliterated",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/prem-research/model_prem_research_deepseek_v4_flash_0731_abliterated.json"
   },
   {
     "id": "model_primeintellect_qwen3_0_6b",
@@ -19178,6 +19258,16 @@
     "links": {},
     "source_url": "",
     "local_path": "models/vcruz305/model_vcruz305_deepseek_v4_1_flash_gguf.json"
+  },
+  {
+    "id": "model_vcruz305_glm_5_3_flash_gguf",
+    "title": "vcruz305/GLM-5.3-Flash-GGUF",
+    "category": "models",
+    "source": "",
+    "tags": [],
+    "links": {},
+    "source_url": "",
+    "local_path": "models/vcruz305/model_vcruz305_glm_5_3_flash_gguf.json"
   },
   {
     "id": "model_vcruz305_hy3_gguf",
