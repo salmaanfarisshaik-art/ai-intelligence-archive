@@ -1,6 +1,6 @@
 # AI Ecosystem Analytics
 
-**Total Entities Tracked**: 92767
+**Total Entities Tracked**: 92769
 
 ## Category Distribution
 
@@ -11,7 +11,7 @@
 - **models**: 2020
 - **cs.CV**: 1548
 - **news**: 1393
-- **dataset**: 1236
+- **dataset**: 1238
 - **cs.CL**: 1024
 - **text-generation**: 1017
 - **cs.AI**: 983
@@ -105,7 +105,7 @@
 - **ArXiv**: 5058
 - **Hugging Face**: 2025
 - **OpenAI Blog**: 1379
-- **HuggingFace Datasets**: 236
+- **HuggingFace Datasets**: 238
 - **GitHub Trending**: 59
 - **BAIR Blog**: 14
 - **Backend**: 10
@@ -145,39 +145,39 @@
 
 ## Top Tags
 
-- **region:us**: 327
-- **text-generation**: 92
-- **library:datasets**: 89
-- **library:mlcroissant**: 89
+- **region:us**: 330
+- **text-generation**: 93
+- **library:datasets**: 90
+- **library:mlcroissant**: 90
 - **modality:text**: 85
 - **language:en**: 80
-- **license:apache-2.0**: 77
-- **endpoints_compatible**: 76
-- **safetensors**: 76
-- **transformers**: 75
-- **conversational**: 73
+- **license:apache-2.0**: 78
+- **endpoints_compatible**: 77
+- **safetensors**: 77
+- **transformers**: 76
+- **conversational**: 74
 - **library:polars**: 65
 - **license:mit**: 56
 - **format:parquet**: 51
 - **text-generation-inference**: 38
-- **deploy:azure**: 36
+- **deploy:azure**: 37
 - **en**: 34
 - **library:pandas**: 34
 - **modality:image**: 33
 - **task_categories:text-generation**: 33
 - **library:dask**: 31
+- **deploy:sagemaker**: 29
 - **eval-results**: 29
 - **license:other**: 29
-- **deploy:sagemaker**: 28
-- **size_categories:n<1K**: 26
+- **size_categories:n<1K**: 27
 - **enterprise**: 25
 - **modality:tabular**: 25
 - **license:cc-by-4.0**: 21
 - **qwen3**: 21
 - **size_categories:10K<n<100K**: 21
+- **modality:video**: 19
 - **size_categories:100K<n<1M**: 19
-- **modality:video**: 18
-- **task_categories:robotics**: 18
+- **task_categories:robotics**: 19
 - **api**: 16
 - **size_categories:1M<n<10M**: 15
 - **gguf**: 14
@@ -185,13 +185,13 @@
 - **multilinguality:monolingual**: 14
 - **pytorch**: 14
 - **source_datasets:original**: 14
+- **arxiv:2505.09388**: 13
 - **fp8**: 13
-- **arxiv:2505.09388**: 12
 - **custom_code**: 12
 - **size_categories:1K<n<10K**: 12
 - **size_categories:n>1T**: 12
 - **8-bit**: 11
 - **format:json**: 11
 - **language:zh**: 11
+- **robotics**: 11
 - **size_categories:100M<n<1B**: 11
-- **modality:audio**: 10

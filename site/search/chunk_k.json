@@ -2451,6 +2451,13 @@
       "score": 2.0
     }
   ],
+  "kda": [
+    {
+      "entity_id": "model_vcruz305_glm_5_3_flash_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "kdc": [
     {
       "entity_id": "dataset_huggingfacefw_finepdfs",
@@ -13812,6 +13819,11 @@
   ],
   "klein": [
     {
+      "entity_id": "dataset_hanchong_synthetic_infrared_maritime_vessel_dataset_flux2klein_degraded",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_malcolmrey_various",
       "match_type": "exact",
       "score": 1.0
@@ -18975,6 +18987,11 @@
     },
     {
       "entity_id": "alpaca_974251753106141844",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
+      "entity_id": "dataset_huggingfaceswarms_swarmchat_v8",
       "match_type": "exact",
       "score": 1.0
     },

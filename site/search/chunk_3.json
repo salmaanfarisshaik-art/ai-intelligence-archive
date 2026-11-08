@@ -1204,6 +1204,13 @@
       "score": 1.0
     }
   ],
+  "30003": [
+    {
+      "entity_id": "dataset_anfera236_hhdc",
+      "match_type": "exact",
+      "score": 1.5
+    }
+  ],
   "3000k": [
     {
       "entity_id": "dataset_opendrivelab_freetacman",
@@ -2925,11 +2932,6 @@
     },
     {
       "entity_id": "dataset_codeparrot_github_code_clean",
-      "match_type": "exact",
-      "score": 1.0
-    },
-    {
-      "entity_id": "dataset_dagroup_pku_open_humanwam_50k",
       "match_type": "exact",
       "score": 1.0
     },
@@ -7314,6 +7316,13 @@
       "score": 1.5
     }
   ],
+  "3btokens": [
+    {
+      "entity_id": "model_laion_delphi_1e21_3_4bparams_46_3btokens_base_wc386k_lr1e5_sft",
+      "match_type": "exact",
+      "score": 2.0
+    }
+  ],
   "3cm": [
     {
       "entity_id": "alpaca_-6637221937522230211",
@@ -7509,6 +7518,11 @@
     },
     {
       "entity_id": "dataset_breezexian_uniphys_40k",
+      "match_type": "exact",
+      "score": 5.0
+    },
+    {
+      "entity_id": "model_ccore_qwen3_5_4b_glb_3d_coder",
       "match_type": "exact",
       "score": 5.0
     },
@@ -8939,6 +8953,11 @@
     },
     {
       "entity_id": "dataset_sharp_ply_share_sharp_ply_share",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "dataset_unilabsim_unilab_robots",
       "match_type": "exact",
       "score": 1.5
     },

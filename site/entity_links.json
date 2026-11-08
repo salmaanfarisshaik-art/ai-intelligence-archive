@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T04:32:13Z",
+  "generated_at": "2026-11-08T11:43:06Z",
   "links": [
     {
       "source_id": "hf_0bserverx_Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
@@ -1147,6 +1147,11 @@
       "type": "trained_on"
     },
     {
+      "source_id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark",
+      "target_id": "hf_Qwen_Qwen3.8-27B",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_avitotech_avibe",
       "target_id": "hf_Qwen_Qwen3-8B",
       "type": "derived_from"
@@ -2085,6 +2090,16 @@
       "source_id": "model_casperhansen_mistral_nemo_instruct_2407_awq",
       "target_id": "hf_mistralai_Mistral-Nemo-Instruct-2407",
       "type": "derived_from"
+    },
+    {
+      "source_id": "model_ccore_qwen3_5_4b_glb_3d_coder",
+      "target_id": "hf_Qwen_Qwen3.5-4B",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_ccore_qwen3_5_4b_glb_3d_coder",
+      "target_id": "hf_ccore_ThreeJS-3D-GLB-Assets",
+      "type": "trained_on"
     },
     {
       "source_id": "model_chantalpellegrini_radialog_interactive_radiology_report_generation",
@@ -3112,6 +3127,11 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_ggml_org_flint_gguf",
+      "target_id": "hf_RecursiveSI_flint",
+      "type": "derived_from"
+    },
+    {
       "source_id": "model_ggml_org_gpt_oss_120b_gguf",
       "target_id": "hf_openai_gpt-oss-120b",
       "type": "derived_from"
@@ -3404,6 +3424,11 @@
     {
       "source_id": "model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf",
       "target_id": "hf_Aleph-Alpha_Kolibri-1-BF16",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf",
+      "target_id": "hf_poolside_Laguna-S-2.1",
       "type": "derived_from"
     },
     {
@@ -7577,6 +7602,31 @@
       "type": "derived_from"
     },
     {
+      "source_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+      "target_id": "hf_Bahushruth_abliteration-harmful-enriched",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+      "target_id": "hf_HuggingFaceH4_no_robots",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+      "target_id": "hf_deepseek-ai_DeepSeek-V4-Flash-0731",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+      "target_id": "hf_mlabonne_harmful_behaviors",
+      "type": "trained_on"
+    },
+    {
+      "source_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
+      "target_id": "hf_mlabonne_harmless_alpaca",
+      "type": "trained_on"
+    },
+    {
       "source_id": "model_primeintellect_qwen3_0_6b",
       "target_id": "hf_Qwen_Qwen3-0.6B-Base",
       "type": "derived_from"
@@ -10389,6 +10439,11 @@
     {
       "source_id": "model_vcruz305_deepseek_v4_1_flash_gguf",
       "target_id": "hf_deepseek-ai_DeepSeek-V4.1-Flash",
+      "type": "derived_from"
+    },
+    {
+      "source_id": "model_vcruz305_glm_5_3_flash_gguf",
+      "target_id": "hf_zai-org_GLM-5.3-Flash-BF16",
       "type": "derived_from"
     },
     {

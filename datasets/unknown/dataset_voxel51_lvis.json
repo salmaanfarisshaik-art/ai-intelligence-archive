@@ -9,7 +9,7 @@
   "private": false,
   "sha": "6ec528891affae65bda44e9f014038eb30e64fca",
   "description": "\n\t\n\t\t\n\t\n\t\n\t\tDataset Card for LVIS-35k\n\t\n\n\nThis is a FiftyOne dataset with 35000 samples.\nNOTE: This is only a 35k sample subset of the full dataset. The notebook recipe for creating this, and the full, dataset can be found here\n\n\t\n\t\t\n\t\n\t\n\t\tInstallation\n\t\n\nIf you haven't already, install FiftyOne:\npip install -U fiftyone\n\n\n\t\n\t\t\n\t\n\t\n\t\tUsage\n\t\n\nimport fiftyone as fo\nimport fiftyone.utils.huggingface as fouh\n\n# Load the dataset\n# Note: other available arguments include 'max_samples', etc\ndataset =… See the full description on the dataset page: https://huggingface.co/datasets/Voxel51/LVIS.",
-  "downloads": 226284,
+  "downloads": 239023,
   "tags": [
     "task_categories:object-detection",
     "language:en",

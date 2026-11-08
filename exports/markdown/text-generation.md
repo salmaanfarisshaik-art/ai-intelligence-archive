@@ -1591,6 +1591,7 @@
 - **ID**: hf_Qwen_Qwen3-Coder-30B-A3B-Instruct
 - **Source**: Hugging Face
 - **URL**: [https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct](https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct)
+- **Tags**: arxiv:2505.09388, conversational, deploy:azure, deploy:sagemaker, endpoints_compatible, license:apache-2.0, qwen3_moe, region:us, safetensors, text-generation, transformers
 
 ## Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8
 - **ID**: hf_Qwen_Qwen3-Coder-30B-A3B-Instruct-FP8

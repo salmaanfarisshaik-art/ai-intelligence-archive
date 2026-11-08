@@ -1,0 +1,33 @@
+{
+  "_id": "65844ef2bef870ffa4abac93",
+  "id": "1aurent/unsplash-lite",
+  "author": "1aurent",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2023-12-21T15:01:44.000Z",
+  "likes": 12,
+  "private": false,
+  "sha": "3a14e110981b9cdc7e4701fc40d1c2154a5aaaae",
+  "description": "\n\t\n\t\t\n\t\n\t\n\t\tThe Unsplash Lite Dataset (v1.2.1)\n\t\n\n\nThe Lite dataset contains all of the same fields as the Full dataset, but is limited to ~25,000 photos.\nIt can be used for both commercial and non-commercial usage, provided you abide by the terms.\nThe Unsplash Dataset is made available for research purposes.\nIt cannot be used to redistribute the images contained within.\nTo use the Unsplash library in a product, see the Unsplash API.\n\n",
+  "downloads": 38618,
+  "tags": [
+    "task_categories:text-to-image",
+    "task_categories:image-to-text",
+    "language:en",
+    "license:other",
+    "size_categories:10K<n<100K",
+    "format:parquet",
+    "modality:text",
+    "library:datasets",
+    "library:dask",
+    "library:mlcroissant",
+    "library:polars",
+    "region:us",
+    "unsplash",
+    "v1.2.1"
+  ],
+  "createdAt": "2023-12-21T14:42:58.000Z",
+  "key": "",
+  "unique_id": "dataset_1aurent_unsplash_lite",
+  "schema_version": "1.0"
+}

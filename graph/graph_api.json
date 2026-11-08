@@ -26226,6 +26226,11 @@
       "target": "datasets/lerobot"
     },
     {
+      "relationship": "related_models",
+      "source": "hf_ds_6ae993485240eb6b7ac68d30",
+      "target": "datasets/DAGroup-PKU"
+    },
+    {
       "relationship": "related_papers",
       "source": "rss_http://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/",
       "target": "2312.17673"
@@ -26476,7 +26481,7 @@
       "target": "2602.19128"
     }
   ],
-  "generated_at": "2026-11-08T04:31:14.685731+00:00",
+  "generated_at": "2026-11-08T11:42:12.500468+00:00",
   "generated_by": "AI Intelligence Archive",
   "generator_phase": "phase_5",
   "nodes": [
@@ -174549,6 +174554,16 @@
       "category": "dataset",
       "id": "hf_ds_6ad73b2611ffd4dabac49e74",
       "label": "sjkhfuk1/foffo"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6ada2ff08f0f9c17f60ebac9",
+      "label": "visionhdstream/data-vision-01"
+    },
+    {
+      "category": "dataset",
+      "id": "hf_ds_6ae993485240eb6b7ac68d30",
+      "label": "DAGroup-PKU/Open-HumanWAM-50K"
     },
     {
       "category": "dataset",
@@ -490317,6 +490332,6 @@
     }
   ],
   "schema_version": "1.0",
-  "total_edges": 5295,
-  "total_nodes": 92767
+  "total_edges": 5296,
+  "total_nodes": 92769
 }

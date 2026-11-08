@@ -1,0 +1,21 @@
+{
+  "_id": "68bf341550339a778731f3eb",
+  "id": "Divotion/VSRQA_Database",
+  "author": "Divotion",
+  "disabled": false,
+  "gated": false,
+  "lastModified": "2026-10-25T11:29:01.000Z",
+  "likes": 4,
+  "private": false,
+  "sha": "8ee042b70710b244a6872e46ffb495648890027e",
+  "description": "Folder Description:\n\nGT -- original Full HD uncompressed videos. Folder corresponding to each video contains all frames of this video\nGTCompressed -- videos from \"GT\" folder with reduced resolution and compressed with different video codecs (\"No SR Track\"). Folder corresponding to each of the video contains all frames of this compressed video. Folders are named in the following format: \"<sequence name>___<scale factor>_<codec name>_<values of target bitrate or qp>\"\nGTCompressedFullHD -- the… See the full description on the dataset page: https://huggingface.co/datasets/Divotion/VSRQA_Database.",
+  "downloads": 40436,
+  "tags": [
+    "license:cc-by-4.0",
+    "region:us"
+  ],
+  "createdAt": "2025-09-08T19:52:53.000Z",
+  "key": "",
+  "unique_id": "dataset_divotion_vsrqa_database",
+  "schema_version": "1.0"
+}

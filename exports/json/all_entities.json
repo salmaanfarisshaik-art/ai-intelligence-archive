@@ -328172,8 +328172,25 @@
     "title": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "arxiv:2505.09388",
+      "conversational",
+      "deploy:azure",
+      "deploy:sagemaker",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen3_moe",
+      "region:us",
+      "safetensors",
+      "text-generation",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "local_path": "models/qwen/hf_Qwen_Qwen3-Coder-30B-A3B-Instruct.json"
   },
@@ -337655,6 +337672,53 @@
     },
     "source_url": "https://huggingface.co/datasets/sjkhfuk1/foffo",
     "local_path": "datasets/sjkhfuk1/hf_ds_6ad73b2611ffd4dabac49e74.json"
+  },
+  {
+    "id": "hf_ds_6ada2ff08f0f9c17f60ebac9",
+    "title": "visionhdstream/data-vision-01",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "library:datasets",
+      "library:mlcroissant",
+      "modality:video",
+      "region:us",
+      "size_categories:n<1K"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/visionhdstream/data-vision-01",
+    "local_path": "datasets/visionhdstream/hf_ds_6ada2ff08f0f9c17f60ebac9.json"
+  },
+  {
+    "id": "hf_ds_6ae993485240eb6b7ac68d30",
+    "title": "DAGroup-PKU/Open-HumanWAM-50K",
+    "category": "dataset",
+    "source": "HuggingFace Datasets",
+    "tags": [
+      "arxiv:2611.06817",
+      "egocentric-video",
+      "hand-motion",
+      "lerobot",
+      "region:us",
+      "robot-learning",
+      "robotics",
+      "task_categories:robotics"
+    ],
+    "links": {
+      "related_models": [
+        "datasets/DAGroup-PKU"
+      ],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
+    "source_url": "https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K",
+    "local_path": "datasets/dagroup-pku/hf_ds_6ae993485240eb6b7ac68d30.json"
   },
   {
     "id": "hf_ds_ACCC1380_private-model",

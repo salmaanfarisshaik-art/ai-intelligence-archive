@@ -1191,6 +1191,13 @@
       "score": 2.0
     }
   ],
+  "qp": [
+    {
+      "entity_id": "dataset_divotion_vsrqa_database",
+      "match_type": "exact",
+      "score": 1.0
+    }
+  ],
   "qpe": [
     {
       "entity_id": "dataset_vincewin_crest_data",
@@ -4204,6 +4211,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceswarms_swarmchat_v8",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_huggingfacetb_smollm_corpus",
       "match_type": "exact",
       "score": 1.0
@@ -4813,6 +4825,11 @@
     },
     {
       "entity_id": "model_outsourc_e_qwen3_8_27b_unleashed_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_vcruz305_glm_5_3_flash_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -5875,6 +5892,11 @@
       "score": 3.0
     },
     {
+      "entity_id": "model_ggml_org_flint_gguf",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
       "entity_id": "model_ggml_org_gpt_oss_120b_gguf",
       "match_type": "exact",
       "score": 3.0
@@ -6875,6 +6897,11 @@
       "score": 1.5
     },
     {
+      "entity_id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
       "entity_id": "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4_gguf",
       "match_type": "exact",
       "score": 1.5
@@ -7691,6 +7718,11 @@
     },
     {
       "entity_id": "model_huihui_ai_huihui_kolibri_1_bf16_abliterated_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_huihui_ai_huihui_laguna_s_2_1_abliterated_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -8691,6 +8723,11 @@
     },
     {
       "entity_id": "model_poolside_laguna_xs_2_1_nvfp4",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_prem_research_deepseek_v4_flash_0731_abliterated",
       "match_type": "exact",
       "score": 1.5
     },
@@ -9971,6 +10008,11 @@
     },
     {
       "entity_id": "model_vcruz305_deepseek_v4_1_flash_gguf",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_vcruz305_glm_5_3_flash_gguf",
       "match_type": "exact",
       "score": 1.5
     },
@@ -17432,6 +17474,11 @@
       "score": 1.0
     },
     {
+      "entity_id": "dataset_huggingfaceswarms_swarmchat_v8",
+      "match_type": "exact",
+      "score": 1.0
+    },
+    {
       "entity_id": "dataset_jaewooshin_qwen3_14b_mmlupro_lcb_bbh",
       "match_type": "exact",
       "score": 1.0
@@ -23111,6 +23158,11 @@
       "score": 4.5
     },
     {
+      "entity_id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark",
+      "match_type": "exact",
+      "score": 4.5
+    },
+    {
       "entity_id": "model_batiai_qwen3_6_27b_gguf",
       "match_type": "exact",
       "score": 4.5
@@ -23567,6 +23619,11 @@
     },
     {
       "entity_id": "model_calamitousfelicitousness_qwen2_5_32b_instruct_fp8_dynamic",
+      "match_type": "exact",
+      "score": 3.0
+    },
+    {
+      "entity_id": "model_ccore_qwen3_5_4b_glb_3d_coder",
       "match_type": "exact",
       "score": 3.0
     },
@@ -27774,6 +27831,11 @@
       "score": 8.0
     },
     {
+      "entity_id": "model_autotrust_qwen3_8_27b_nvfp4_dgx_spark",
+      "match_type": "exact",
+      "score": 8.0
+    },
+    {
       "entity_id": "model_bahushruth_qwen3_6_35b_a3b_abliterated_v4",
       "match_type": "exact",
       "score": 8.0
@@ -28170,6 +28232,11 @@
     },
     {
       "entity_id": "model_bytkim_qwen3_8_27b_pi_gguf",
+      "match_type": "exact",
+      "score": 6.5
+    },
+    {
+      "entity_id": "model_ccore_qwen3_5_4b_glb_3d_coder",
       "match_type": "exact",
       "score": 6.5
     },
@@ -30865,6 +30932,11 @@
     },
     {
       "entity_id": "model_kwaipilot_kat_coder_v2_5_dev",
+      "match_type": "exact",
+      "score": 1.5
+    },
+    {
+      "entity_id": "model_laion_delphi_1e21_3_4bparams_46_3btokens_base_wc386k_lr1e5_sft",
       "match_type": "exact",
       "score": 1.5
     },

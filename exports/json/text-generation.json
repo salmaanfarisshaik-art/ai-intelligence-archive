@@ -3697,8 +3697,25 @@
     "title": "Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "category": "text-generation",
     "source": "Hugging Face",
-    "tags": [],
-    "links": {},
+    "tags": [
+      "arxiv:2505.09388",
+      "conversational",
+      "deploy:azure",
+      "deploy:sagemaker",
+      "endpoints_compatible",
+      "license:apache-2.0",
+      "qwen3_moe",
+      "region:us",
+      "safetensors",
+      "text-generation",
+      "transformers"
+    ],
+    "links": {
+      "related_models": [],
+      "related_papers": [],
+      "related_datasets": [],
+      "related_tools": []
+    },
     "source_url": "https://huggingface.co/Qwen/Qwen3-Coder-30B-A3B-Instruct",
     "local_path": "models/qwen/hf_Qwen_Qwen3-Coder-30B-A3B-Instruct.json"
   },

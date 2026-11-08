@@ -1426,6 +1426,18 @@
 - **URL**: [https://huggingface.co/datasets/sjkhfuk1/foffo](https://huggingface.co/datasets/sjkhfuk1/foffo)
 - **Tags**: region:us
 
+## visionhdstream/data-vision-01
+- **ID**: hf_ds_6ada2ff08f0f9c17f60ebac9
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/visionhdstream/data-vision-01](https://huggingface.co/datasets/visionhdstream/data-vision-01)
+- **Tags**: library:datasets, library:mlcroissant, modality:video, region:us, size_categories:n<1K
+
+## DAGroup-PKU/Open-HumanWAM-50K
+- **ID**: hf_ds_6ae993485240eb6b7ac68d30
+- **Source**: HuggingFace Datasets
+- **URL**: [https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K](https://huggingface.co/datasets/DAGroup-PKU/Open-HumanWAM-50K)
+- **Tags**: arxiv:2611.06817, egocentric-video, hand-motion, lerobot, region:us, robot-learning, robotics, task_categories:robotics
+
 ## ACCC1380/private-model
 - **ID**: hf_ds_ACCC1380_private-model
 - **Source**: Hugging Face
