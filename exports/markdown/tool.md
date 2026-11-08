@@ -88,7 +88,7 @@
 ## OpenMontage
 - **ID**: gh_1195360525
 - **Source**: GitHub Trending
-- **URL**: [https://github.com/calesthio/OpenMontage](https://github.com/calesthio/OpenMontage)
+- **URL**: [https://github.com/OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage)
 
 ## caveman
 - **ID**: gh_1201173969

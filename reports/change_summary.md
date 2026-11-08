@@ -1,6 +1,6 @@
 # Change Summary
 
-**Total Changes:** 82
+**Total Changes:** 96
 
 ## Added
 None
@@ -11,25 +11,37 @@ None
 - data/metadata/connector_manifest.json
 - data/metadata/entity_index.json
 - data/metadata/feature_manifest.json
+- data/metadata/repo_metrics.json
 - data/metadata/repository_manifest.json
 - data/metadata/schema_manifest.json
+- data/metadata/tag_index.json
 - datasets/3dcodeverse/hf_ds_6a409561222ffbb14f69924c.json
 - datasets/eddmpython/hf_ds_69c2419dda894d8e5757461f.json
 - datasets/metanova/hf_ds_6814185418a7181816023b68.json
-- datasets/numix/hf_ds_6a9d8e54cb1f70afa752542c.json
 - datasets/nvidia/hf_ds_6a429172c50c64cfb0a54dfb.json
 - datasets/open-index/hf_ds_69b53151d3cc52f95d53bcbb.json
 - exports/csv/all_entities.csv
 - exports/csv/dataset.csv
+- exports/csv/tool.csv
 - exports/json/all_entities.json
 - exports/json/dataset.json
+- exports/json/tool.json
 - exports/markdown/dataset.md
+- exports/markdown/tool.md
 - graph/edges.json
 - graph/graph_api.json
 - graph/nodes.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V3.2.json
+- models/deepseek-ai/hf_deepseek-ai_DeepSeek-V4.1-Flash.json
 - models/ista-daslab/hf_ISTA-DASLab_DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF.json
 - models/jonathancoletti/hf_JonathanColetti_Qwen3.8-27B-Uncensored-GGUF.json
 - models/meta-llama/hf_meta-llama_Llama-3.1-8B-Instruct.json
+- models/nvidia/hf_nvidia_Qwen3.6-35B-A3B-NVFP4.json
+- models/openai/hf_openai_gpt-oss-120b.json
+- models/ornith-ai/hf_ornith-ai_Ornith-1.5-9B-GGUF.json
+- models/prism-ml/hf_prism-ml_Ternary-Bonsai-2-27B-gguf.json
+- models/qwen/hf_Qwen_Qwen3-14B.json
+- models/qwen/hf_Qwen_Qwen3-Embedding-8B.json
 - models/zai-org/hf_zai-org_GLM-5.3.json
 - releases/CHANGELOG.generated.md
 - releases/latest_release.json
@@ -40,6 +52,7 @@ None
 - reports/integrity_report.md
 - reports/integrity_status.json
 - reports/project_status.json
+- reports/repository_metrics.md
 - site/search_index.json
 - site/timeline.json
 - tools/github-trending/gh_1024554267.json
@@ -73,6 +86,7 @@ None
 - tools/github-trending/gh_589831718.json
 - tools/github-trending/gh_614765452.json
 - tools/github-trending/gh_626805178.json
+- tools/github-trending/gh_646410686.json
 - tools/github-trending/gh_655806940.json
 - tools/github-trending/gh_656099147.json
 - tools/github-trending/gh_669879380.json
